@@ -1,0 +1,1 @@
+<%* await navigator.clipboard.writeText(tp.file.title.split(" - ")[0].replaceAll("EP","")); %>

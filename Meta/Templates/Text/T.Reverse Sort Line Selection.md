@@ -1,0 +1,1 @@
+<% tp.file.selection().split(/\r?\n/).sort().reverse().join("\n") %>

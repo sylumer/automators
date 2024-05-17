@@ -1,0 +1,16 @@
+---
+status: "complete"
+---
+- [[Recent Episodes]]
+- [[Episode Information]]
+- [[Episode Readiness]]
+- [[People]]
+	- [[Hosts]]
+	- [[Guests]]
+	- [[Rogues Gallery]]
+- [[Automations Information| Automations]]
+	- [[Automations List - Alphabetical]]
+	- [[Automations List - By App]]
+	- [[Automations List - By Author]]
+- [[Podcast Sponsors]] 
+- [Graph](obsidian://advanced-uri?commandid=graph%253Aopen)

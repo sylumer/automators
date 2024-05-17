@@ -1,0 +1,1 @@
+<%* await navigator.clipboard.writeText(tp.file.path(false)); %>
