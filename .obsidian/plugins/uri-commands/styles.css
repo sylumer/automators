@@ -1,0 +1,24 @@
+/*Icon Picker*/
+.URI-icon {
+    transform: translateY(3px);
+    margin-right: 8px;
+}
+
+.URI-icon-container{
+    display: flex;
+}
+
+.URI-settings-icon {
+    height: 20px;
+    margin-right: 0.5rem;
+    transform: translateY(2px);
+}
+
+.URI-flex {
+    display: flex;
+}
+
+.URI-flex-center {
+    display: flex;
+    place-content: center;
+}

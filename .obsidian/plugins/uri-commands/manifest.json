@@ -1,0 +1,10 @@
+{
+	"id": "uri-commands",
+	"name": "URI Commands",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.12",
+	"description": "Execute URIs from the Obsidian command palette.",
+	"author": "kzhovn",
+	"authorUrl": "https://github.com/kzhovn",
+	"isDesktopOnly": false
+}

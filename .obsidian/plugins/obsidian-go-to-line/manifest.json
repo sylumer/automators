@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-go-to-line",
+	"name": "Go to Line",
+	"version": "0.0.2",
+	"minAppVersion": "0.12.11",
+	"description": "This Plugin provides a go to Line Command",
+	"author": "phibr0",
+	"authorUrl": "https://github.com/phibr0",
+	"isDesktopOnly": false
+}

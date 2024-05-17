@@ -1,0 +1,18 @@
+{
+  "pluginList": [
+    "axelson/obsidian-auto-note-mover",
+    "benmatselby/obsidian-multi-cursor"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "ribbonIconEnabled": false
+}

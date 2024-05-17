@@ -1,0 +1,33 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Meta/Templates",
+  "templates_pairs": [
+    [
+      "openInTableFlip",
+      "open -a \"TableFlip\" \"<% tp.file.path(false) %>\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Meta/Scripts/Templater",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Meta/Templates/System/S.Copy Episode Number.md",
+    "Meta/Templates/System/S.Copy Line Content.md",
+    "Meta/Templates/System/S.Copy Full File Path.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": false
+}

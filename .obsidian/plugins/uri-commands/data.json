@@ -1,0 +1,12 @@
+{
+  "URICommands": [
+    {
+      "name": "Open Dashboard",
+      "id": "open-dashboard1681670066306",
+      "URITemplate": "obsidian://open?vault={{vaultName}}&file=Dashboard.canvas",
+      "encode": true,
+      "icon": "shield-check"
+    }
+  ],
+  "notification": false
+}

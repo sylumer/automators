@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "escaped-characters",
+    "dataview-inline-fields",
+    "youtube",
+    "obsidian-default-theme",
+    "custom-callouts"
+  ],
+  "cssTheme": "Minimal"
+}

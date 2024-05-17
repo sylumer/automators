@@ -1,0 +1,49 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Podcasts",
+      "tag": "",
+      "frontmatterProperty": "notetpe: podcast",
+      "pattern": ""
+    },
+    {
+      "folder": "Sponsors",
+      "tag": "",
+      "frontmatterProperty": "notetype: sponsor",
+      "pattern": ""
+    },
+    {
+      "folder": "People",
+      "tag": "",
+      "frontmatterProperty": "notetype: person",
+      "pattern": ""
+    },
+    {
+      "folder": "Automations",
+      "tag": "",
+      "frontmatterProperty": "notetyoe: automation",
+      "pattern": ""
+    },
+    {
+      "folder": "Organisations",
+      "tag": "",
+      "frontmatterProperty": "notetype: organisation",
+      "pattern": ""
+    },
+    {
+      "folder": "Organisations",
+      "tag": "",
+      "frontmatterProperty": "notetype: network",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

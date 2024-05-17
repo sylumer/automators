@@ -1,0 +1,6 @@
+/* Show escaped characters in Markdown like any other plain character */
+
+.cm-s-obsidian span.cm-hmd-escape-char
+{
+    color: inherit;
+}

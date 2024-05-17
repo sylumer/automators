@@ -1,0 +1,4 @@
+.callout[data-callout="history"] {
+    --callout-color: 211, 211, 211;
+    --callout-icon: lucide-history;
+}
