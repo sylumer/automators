@@ -15,7 +15,7 @@ Welcome to the GitHub repository for an Obsidian vault dedicated to [the Automat
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Repository Structure](#repository-structure)
+2. [Vault Structure](#vault-structure)
 3. [Getting Started](#getting-started)
     - [Direct Download](#direct-download)
     - [Clone via Git](#clone-via-git)
@@ -38,7 +38,7 @@ The vault contains pages for each of the podcast episodes that include details a
 > This vault is a work in progress and while the core content around episodes is in place, and a lot more besides, there is still a lot of work to build up the additional content to support the episodes. Please be patient while the backlog is addressed.
 > 
 
-## Repository Structure
+## Vault Structure
 
 ```
 📂 Vault Root
