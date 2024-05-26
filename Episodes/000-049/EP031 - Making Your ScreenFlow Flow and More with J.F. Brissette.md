@@ -355,7 +355,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 17:36      | airport before I left and just left it turned on for the whole trip.                                    |
 | 17:40      | So for the whole time, I was entirely protected.                                                        |
 | 17:43      | You can, too, protect your online activity today and find out how you can get three months              |
-| 17:48      | free at ExpressVPN.com/Automators.                                                                |
+| 17:48      | free at expressvpn.com/automators.                                                                |
 | 17:53      | That's E-X-P-R-E-S-S VPN.com/Automators for three months free with a one-year package.            |
 | 18:02      | Take back your online privacy at expressvpn.com/Automators and our thanks to ExpressVPN           |
 | 18:08      | for their support of the Automators and all of Relay FM.                                                |

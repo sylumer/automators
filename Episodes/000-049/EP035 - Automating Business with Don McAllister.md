@@ -636,7 +636,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 34:16      | If you go to that website, you get three months free with a one-year package.                          |
 | 34:21      | Protect your internet today with ExpressVPN.                                                           |
 | 34:24      | That's the service I trust to keep my data safe.                                                       |
-| 34:26      | Go to ExpressVPN.com/Automators to get started.                                                  |
+| 34:26      | Go to expressvpn.com/automators to get started.                                                  |
 | 34:31      | Our thanks to ExpressVPN for their support of the Automators and Olive Relay FM.                       |
 | 34:38      | Don, before we take the break, you started talking about Podio, and that is another thing              |
 | 34:43      | I know you use a lot to run your business and automate things.                                         |

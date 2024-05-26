@@ -743,11 +743,11 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 39:26      | It's just so easy to use and it gives you peace of mind.                                                     |
 | 39:31      | You don't have to think about it and it's just one button and you're in.                                     |
 | 39:35      | Protect yourself with VPN that I use and trust.                                                              |
-| 39:38      | Go to ExpressVPN.com/Automators today and get an extra three months free on a one-year                 |
-| 39:44      | package that's ExpressVPN.com/Automators.                                                              |
+| 39:38      | Go to expressvpn.com/automators today and get an extra three months free on a one-year                 |
+| 39:44      | package that's expressvpn.com/automators.                                                              |
 | 39:50      | Go there now.                                                                                                |
 | 39:51      | Check it out.                                                                                                |
-| 39:52      | Visit ExpressVPN.com/Automators to learn more and our thanks to ExpressVPN for their                   |
+| 39:52      | Visit expressvpn.com/automators to learn more and our thanks to ExpressVPN for their                   |
 | 39:58      | support of the Automators and all of RelayFM.                                                                |
 | 40:01      | Well, David, we can't really talk about all of these web automation services without talking                 |
 | 40:07      | about Zapier.                                                                                                |

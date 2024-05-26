@@ -441,10 +441,10 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 26:02      | But your connection is secure, your data is encrypted, and you can spoof your location                |
 | 26:07      | so you can have access to content available outside your region.                                      |
 | 26:11      | No wonder it's been called the best VPN by CNET.                                                      |
-| 26:14      | Right now, go to ExpressVPN.com/Automators, and you can get an extra three months of ExpressVPN |
+| 26:14      | Right now, go to expressvpn.com/automators, and you can get an extra three months of ExpressVPN |
 | 26:20      | for free.                                                                                             |
 | 26:21      | That's E-X-P-R-E-S-S-V-P-N.com/Automators to get that three extra months for free.              |
-| 26:30      | ExpressVPN.com/Automators is that link one more time.                                           |
+| 26:30      | expressvpn.com/automators is that link one more time.                                           |
 | 26:33      | Check it out.                                                                                         |
 | 26:34      | ExpressVPN for their support of the Automators podcast and all of Relay FM.                           |
 | 26:41      | Sal, you mentioned in the last segment, window management, which got my ears to perk up,              |

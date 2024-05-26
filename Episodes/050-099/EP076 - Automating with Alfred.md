@@ -565,7 +565,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 45:03      | easy as closing the door. You just fire up the app, click one button, and you're protected.              |
 | 45:09      | And ExpressVPN is the world's number one VPN by CNET, wired, the Verge, and countless others.            |
 | 45:15      | If like me, you think your online activity is your business, secure yourself by visiting                 |
-| 45:20      | ExpressVPN.com/Automators today. Once again, that's E-X-P-R-E-S-S-V-P-N.com                        |
+| 45:20      | expressvpn.com/automators today. Once again, that's E-X-P-R-E-S-S-V-P-N.com                        |
 | 45:28      | slash Automators, and you can get an extra three months for free. That's expressvpn.com/           |
 | 45:34      | Automators. Thank you ExpressVPN for your support of the Automators and all of Relay FM.                 |
 | 45:41      | One of my favourite features with Alfred, and I don't know how many times a day I use this                |

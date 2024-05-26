@@ -913,8 +913,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:11:48   | a very fast service and it's very painless to use. So you don't get any of the usually                    |
 | 01:11:54   | expected downsides of VPN services with ExpressVPN. It just works. So if like me, you believe             |
 | 01:12:01   | your data is your business, secure yourself with the number one rated VPN on the market.                  |
-| 01:12:07   | Get ExpressVPN.com/Automators and get an extra three months for free. That's E-X-P-R-E-S-S          |
-| 01:12:14   | VPN.com/Automators. Go to ExpressVPN.com/Automators to learn more. And our thanks             |
+| 01:12:07   | Get expressvpn.com/automators and get an extra three months for free. That's E-X-P-R-E-S-S          |
+| 01:12:14   | VPN.com/Automators. Go to expressvpn.com/automators to learn more. And our thanks             |
 | 01:12:21   | to ExpressVPN for their support of the Automators and all of Relay FM.                                    |
 | 01:12:28   | So David, we've been dancing around profiles and how to use them, et cetera. I think it's                 |
 | 01:12:33   | time that we actually talked about our specific profiles right now and how we're using them               |

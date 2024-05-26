@@ -397,9 +397,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 18:54      | keeping the logs of you and protecting you.                                                       |
 | 18:57      | That's their primary goal.                                                                        |
 | 18:59      | Which isn't necessarily true about all VPN services.                                              |
-| 19:02      | So secure your online data today by visiting ExpressVPN.com/Automators.                     |
+| 19:02      | So secure your online data today by visiting expressvpn.com/automators.                     |
 | 19:08      | That's E-X-P-R-E-S-S VPN.com/Automators and you can get an extra three months free.         |
-| 19:15      | Once again, that's ExpressVPN.com/Automators and our thanks to ExpressVPN for their support |
+| 19:15      | Once again, that's expressvpn.com/automators and our thanks to ExpressVPN for their support |
 | 19:21      | of this show and all of relay FM.                                                                 |
 | 19:24      | All right, what's next?                                                                           |
 | 19:26      | Well, one of the things I realised was, so I was having lights turn on and off based              |
