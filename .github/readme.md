@@ -1,7 +1,7 @@
 # Automators Podcast (Obsidian Vault)
 
 <img align="left" width="100" height="100" src="https://relayfm.s3.amazonaws.com/uploads/broadcast/image_2x/44/automators_artwork.png">
-Welcome to the GitHub repository for an Obsidian vault dedicated to [the Automators podcast](https://www.relay.fm/automators) from [Relay FM](https://www.relay.fm).  The aim is to provide a resource to complement the expisodes and help you find further sources of information, connections between episodes, and discover the wonderful world of automation through the Automators podcast.
+Welcome to the GitHub repository for an Obsidian vault dedicated to <a href="https://www.relay.fm/automators">the Automators podcast</a> from <a href="https://www.relay.fm">Relay FM</a>.  The aim is to provide a resource to complement the episodes and help you find further sources of information, connections between episodes, and discover the wonderful world of automation through the Automators podcast. The vault consists of hundreds of linked Markdown files covering the episodes, technology, organisations, people, and approaches.
 
 <span style="clear: both"></span>
 
@@ -9,7 +9,7 @@ Welcome to the GitHub repository for an Obsidian vault dedicated to [the Automat
 > We highly recommend that you listen to the podcast episodes in your podcast player of choice for the best Automators experience and then use this as a helpful reference after the fact.
 
 > [!IMPORTANT]  
-> Please note this repository is **not** produced by the podcast or Relay FM. The content, brand, etc. of those podcasts remains the property of those creators and this resource is intended as a resource to support listeners of the podcast.
+> Please note this repository is **not** produced by the Automators podcast or Relay FM. The content, brand, etc. of those podcasts remains the property of those creators and this resource is intended as a resource to support listeners (and hosts) of the podcast.
 
 
 ## Table of Contents
@@ -93,6 +93,9 @@ You can get a copy of the vault by either downloading it directly or cloning the
 2. Download the latest release zip file.
 3. Extract the downloaded zip file to your preferred location.
 
+#### Refresh
+- To refresh the vault, just download the latest ZIP again from the releases page and overwrite the previous set of files.
+
 ### Clone via Git
 
 1. Make sure you have [Git](https://git-scm.com/downloads) installed on your device.
@@ -103,6 +106,12 @@ You can get a copy of the vault by either downloading it directly or cloning the
 3. Navigate to the cloned directory:
     ```bash
     cd automators
+    ```
+
+#### Refresh
+- To refresh the vault, you simply need to issue a pull request to the remote repository.  
+    ```bash
+    git pull origin main
     ```
 
 ## Load the Vault in Obsidian
