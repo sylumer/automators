@@ -865,7 +865,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 48:13      | This episode of the automators is brought to you by DEVONthink.                                        |
 | 48:16      | Get organised and unleash your creativity.                                                             |
 | 48:19      | Go to DEVONtechnologies.com/automators to get 10% off.                                           |
-| 48:24      | DEVONthink is the flagship product from Devin Technologies.                                            |
+| 48:24      | DEVONthink is the flagship product from DEVONtechnologies.                                            |
 | 48:28      | DEVONthink has been on the Mac for a long time.                                                        |
 | 48:30      | It's a professional document and information management application tool for the Mac and               |
 | 48:36      | it just keeps getting better and better.                                                               |
@@ -891,7 +891,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 49:48      | And best of all, you can get 10% off DEVONthink 3 or upgrade to it right now.                          |
 | 49:53      | Let's go to DEVONtechnologies.com/Automators.                                                    |
 | 49:56      | Once again, that's DEVONtechnologies.com/Automators for that 10% off.                            |
-| 50:01      | Our thanks to Devin Technologies for their support of the automators and all of RelayFM.               |
+| 50:01      | Our thanks to DEVONtechnologies for their support of the automators and all of RelayFM.               |
 | 50:07      | All right, let's spend a minute talking about Charty.                                                 |
 | 50:11      | We covered at the top of the show, but this is an application that you download and it                 |
 | 50:16      | adds a whole bunch of actions to shortcuts that allows you to visualise data and you've                |
