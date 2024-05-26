@@ -35,5 +35,15 @@
       ],
       "key": "K"
     }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
