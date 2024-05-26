@@ -112,7 +112,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 02:49      | of things to cover here.                                                                              |
 | 02:50      | Yeah.                                                                                                 |
 | 02:51      | The first thing, I mean, this year at WWDC, it seems in particular, Apple had a lot of                |
-| 02:55      | big news, Swift UI, the new Mac Pros, they just had a lot of really big items to cover.               |
+| 02:55      | big news, [[SwiftUI]], the new Mac Pros, they just had a lot of really big items to cover.               |
 | 03:01      | And as a result, automation didn't get the love it did last year, you know, Siri Short                |
 | 03:06      | Cuts was a big feature of the keynote last year, whereas this year it didn't even get                 |
 | 03:11      | mentioned in the keynote.                                                                             |

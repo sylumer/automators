@@ -790,16 +790,16 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 53:22      | I'll put it into like one of the placeholders, and then I'll select a property of it. And             |
 | 53:28      | then I'll tap the return or whatever it is to close the keyboard. And then the variable               |
 | 53:32      | just vanishes. What just happened here? Well, I mean, just, you know, the whole the decision          |
-| 53:40      | to use Swift UI to make this very complex system. In some respects, I admire it in other              |
+| 53:40      | to use [[SwiftUI]] to make this very complex system. In some respects, I admire it in other              |
 | 53:47      | respects, I begrudge it because I feel like that's the reason I feel like that has some               |
 | 53:53      | impact on why it's been a difficult year for shortcuts on the Mac.                                    |
-| 53:56      | Almost certainly. I've heard from many developers that they've they've struggled with Swift           |
-| 54:01      | UI in various places. And for a lot of applications, it works incredibly well. But I think especially |
-| 54:07      | on Mac OS, it is a struggle to implement things with Swift UI. And I know I've seen some exciting     |
+| 53:56      | Almost certainly. I've heard from many developers that they've they've struggled with [[SwiftUI]]       |
+| 54:01      | in various places. And for a lot of applications, it works incredibly well. But I think especially |
+| 54:07      | on Mac OS, it is a struggle to implement things with [[SwiftUI]]. And I know I've seen some exciting     |
 | 54:15      | undocumented features, let's call them in various applications on iOS, as developers                  |
 | 54:20      | have been doing things. Dancing boxes was one of my favourites. You would swipe up and                 |
 | 54:25      | down a list. And the boxes would just rearrange themselves. And the developers weren't doing          |
-| 54:30      | that. No, that was just Swift UI, adding a little Easter egg.                                         |
+| 54:30      | that. No, that was just [[SwiftUI]], adding a little Easter egg.                                         |
 | 54:35      | We talked earlier about a shortcut's wish list, you know, as WWDC approaches. You guys                |
 | 54:43      | were focused largely on the Mac. What about on the iOS side? Is there stuff you'd like                |
 | 54:48      | to see other than what we've already talked about?                                                    |

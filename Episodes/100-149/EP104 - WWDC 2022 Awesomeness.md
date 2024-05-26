@@ -95,7 +95,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 02:30      | They feel like that Apple should have re-did a whole bunch of stuff in shortcuts.                         |
 | 02:34      | And to me, that's really been the problem the last couple of years is we've had three                     |
 | 02:37      | or four revolutionary years in the row.                                                                   |
-| 02:40      | They added it to the Mac or they re-did the UI and they added Swift UI.                                   |
+| 02:40      | They added it to the Mac or they re-did the UI and they added [[SwiftUI]].                                   |
 | 02:45      | This year is not that.                                                                                    |
 | 02:46      | This year is very much an evolutionary year in shortcuts, which in my opinion is exactly                  |
 | 02:51      | what we needed.                                                                                           |
@@ -774,7 +774,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 47:47      | but this was a problem in the prior version of shortcuts for Mac is that if you're in                     |
 | 47:52      | column mode, you can't move shortcuts, you can't move them to folders for whatever reason.                |
 | 47:57      | And that's still true on the Mac. Maybe they'll get that fixed by the time this ships, but                |
-| 48:01      | it works on the iPad, but it doesn't work on the Mac. And I'm guessing it's a Swift UI                    |
+| 48:01      | it works on the iPad, but it doesn't work on the Mac. And I'm guessing it's a [[SwiftUI]]                    |
 | 48:06      | thing that they just haven't got around to fixing yet.                                                    |
 | 48:09      | It quite possibly is, but we did get that all new view of shortcuts on iPad, which is                     |
 | 48:14      | really nice. I've been playing with it a bit. I'm still not a huge fan of the list view                   |
@@ -796,7 +796,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 49:22      | alarms for things and you want to go and manually toggle them on and off.                                 |
 | 49:26      | But I can confirm on my version of Ventura in column mode, you can sort by the columns                    |
 | 49:33      | like last modified or after. Perfect. Yeah, so.                                                           |
-| 49:37      | I suspect this is a Swift UI update that they were waiting for because it's not working                   |
+| 49:37      | I suspect this is a [[SwiftUI]] update that they were waiting for because it's not working                   |
 | 49:42      | on Mac OS Monterey and I did wonder why it wasn't working. But the fact that it's there                   |
 | 49:48      | now is great because we can take advantage of that. By the way, David, you know that                      |
 | 49:55      | we talked about ebook readers recently when Dan Moran was on. Did you see all the updates                 |
@@ -1165,7 +1165,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:20:38   | which honestly, I like, I would keep that turned on. But, you know, if you don't like                     |
 | 01:20:42   | it, turn it off. And so they've, they've done a lot of things here to make it a little                    |
 | 01:20:46   | more user friendly. It feels, it feels more stable. It's been getting more stable for                     |
-| 01:20:50   | the last year, honestly. You know, them being the canary in the coal mine with Swift UI                   |
+| 01:20:50   | the last year, honestly. You know, them being the canary in the coal mine with [[SwiftUI]]                   |
 | 01:20:55   | certainly set them back, but they seem to be recovering nicely and shortcuts just keeps                   |
 | 01:21:00   | getting better. I am so, so excited. I think the big news is probably the API and how easy                |
 | 01:21:05   | it's going to be for us to get even more shortcut actions out of developers. But I, I think               |

@@ -251,8 +251,8 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 09:52      | with Swift because those tutorials are just perfect.                                                 |
 | 09:55      | They tell you exactly what you need to know for what you're trying to do.                            |
 | 09:58      | So that's what I've been using a lot more recently because I've gotten more into the                 |
-| 10:01      | Swift UI stuff.                                                                                      |
-| 10:03      | So using that Swift UI reference is nice.                                                            |
+| 10:01      | [[SwiftUI]] stuff.                                                                                      |
+| 10:03      | So using that [[SwiftUI]] reference is nice.                                                            |
 | 10:06      | Yes.                                                                                                 |
 | 10:07      | Yeah.                                                                                                |
 | 10:08      | Yeah.                                                                                                |
@@ -814,7 +814,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 40:38      | Alright, so as we're recording this, Apple is in the midst of the betas for iOS 15 and               |
 | 40:44      | Mac OS Monterey and Shortcuts is coming over to the Mac and I understand Jellycuts is               |
 | 40:52      | too.                                                                                                 |
-| 40:53      | Yes, yeah, Jellycuts is coming to the Mac with a native Swift UI app.                               |
+| 40:53      | Yes, yeah, Jellycuts is coming to the Mac with a native [[SwiftUI]] app.                               |
 | 40:58      | And the cool thing is, I mean, you already kind of had something going on.                           |
 | 41:01      | You have a bridge mode in the existing app where you can actually write code on your                 |
 | 41:06      | Mac for Jellycuts on iPhone and iPad and now you're going to be writing the code on the             |

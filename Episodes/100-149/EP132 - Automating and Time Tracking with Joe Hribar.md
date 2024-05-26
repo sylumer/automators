@@ -805,7 +805,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:03:02   | sharing code in views between the two things. So you make one and it works on the other one too.     |
 | 01:03:09   | I mean, it's not just that simple, of course, but it makes things a lot easier. Very thankful for    |
 | 01:03:16   | that. Yeah, that is good. It feels to me like this year we're starting to get the real payoff to     |
-| 01:03:22   | developers who have kind of gone into the new Swift UI and kind of Apple programming interfaces      |
+| 01:03:22   | developers who have kind of gone into the new [[SwiftUI]] and kind of Apple programming interfaces      |
 | 01:03:28   | that they've been developing over the last several years. I mean, not only things like               |
 | 01:03:33   | watch widgets, but also the vision OS is largely based on that. And like suddenly people who         |
 | 01:03:40   | invested time in learning the new systems are getting all these extra little benefits.               |

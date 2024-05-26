@@ -92,7 +92,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 02:25      | just start by, by talking about, you know, the stuff on the table right now. Since the                    |
 | 02:31      | last time we've talked shortcuts for Mac has arrived. It's actually had a rough first                     |
 | 02:37      | year, I think. I don't know if you'd agree or not, but I would agree.                                     |
-| 02:42      | But you know, I think that's all kind of the Swift UI stuff, but it seems like it's, it's                 |
+| 02:42      | But you know, I think that's all kind of the [[SwiftUI]] stuff, but it seems like it's, it's                 |
 | 02:46      | getting in this legs now and I'm finding I'm, I'm increasingly using it. Is that even something           |
 | 02:51      | that you play with? Or are you just like writing apps to do your automation for you at this               |
 | 02:57      | point?                                                                                                    |

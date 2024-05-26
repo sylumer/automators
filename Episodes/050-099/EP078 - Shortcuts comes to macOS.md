@@ -1246,10 +1246,10 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:11:08   | I mean, you say that, David, but I believe it was Ayaka who mentioned it in the shortcuts                                 |
 | 01:11:13   | for Mac WWDC video, which everybody can get in the developer app.                                                         |
 | 01:11:18   | By the way, for free, you can watch this video.                                                                           |
-| 01:11:21   | She said that it's built, so the Mac OS application is built in Swift UI for cross-platform functionality.                |
+| 01:11:21   | She said that it's built, so the Mac OS application is built in [[SwiftUI]] for cross-platform functionality.                |
 | 01:11:29   | So hopefully it's all the same code under the hood, which will make bug fixing much                                       |
 | 01:11:33   | easier for them, which is great.                                                                                          |
-| 01:11:36   | That's the whole point of Swift UI, really.                                                                               |
+| 01:11:36   | That's the whole point of [[SwiftUI]], really.                                                                               |
 | 01:11:38   | Yeah.                                                                                                                     |
 | 01:11:39   | Yeah.                                                                                                                     |
 | 01:11:40   | And yeah, it's pretty great.                                                                                              |

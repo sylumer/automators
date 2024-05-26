@@ -445,7 +445,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 17:33      | I expected to have to let go and rewrite everything               |
 | 17:35      | and find a bunch of broken stuff, but I didn't.                   |
 | 17:38      | So that to me is, you know, my favourite feature.                  |
-| 17:41      | Is that because of Swift UI that it's working so well,            |
+| 17:41      | Is that because of [[SwiftUI]] that it's working so well,            |
 | 17:44      | or did they do something else, you think?                         |
 | 17:46      | No, so Apple explicitly added something                           |
 | 17:49      | where if you've got two apps by the same app developer            |
@@ -871,7 +871,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 37:21      | but it's there on iOS as well, that huge game changer             |
 | 37:25      | because that has just made my life so much easier.                |
 | 37:28      | Yeah, well, my congratulations to the Omni Group                  |
-| 37:31      | on shipping this monumental Swift UI project,                     |
+| 37:31      | on shipping this monumental [[SwiftUI]] project,                     |
 | 37:35      | but also giving us all this great automation.                     |
 | 37:39      | I think if you're looking for a task manager                      |
 | 37:41      | and want to use your automation shops,                            |

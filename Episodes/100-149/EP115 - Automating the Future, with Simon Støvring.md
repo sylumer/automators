@@ -475,10 +475,10 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 34:17      | the next step. But that's just, that's just a small step in like a bigger thing I want                 |
 | 34:24      | to do with Scriptable. So anyone who might have like followed me online for the past                   |
 | 34:30      | few months might have seen that I'm also working on, on bringing a bridging JavaScript                 |
-| 34:35      | to a Swift UI. So doing a one to one bridge between the JavaScript side of things and                  |
-| 34:42      | then native Swift UI components. So what I really want to do is making, making it possible             |
-| 34:48      | for people to use, if not all, then many of the, the concepts that we're used to in Swift              |
-| 34:57      | UI, Apple's new framework for, for building UIs and making, making those available to                  |
+| 34:35      | to a [[SwiftUI]]. So doing a one to one bridge between the JavaScript side of things and                  |
+| 34:42      | then native [[SwiftUI]] components. So what I really want to do is making, making it possible             |
+| 34:48      | for people to use, if not all, then many of the, the concepts that we're used to in [[SwiftUI]],       |
+| 34:57      | Apple's new framework for, for building UIs and making, making those available to                  |
 | 35:04      | people who are more comfortable with JavaScript. And hopefully if everything goes as planned,          |
 | 35:10      | because this is still in like the exploration phase, but, but things seem to be turning                |
 | 35:14      | out quite well. But if, if they go well, bring that into Scriptable. So that's, I think                |

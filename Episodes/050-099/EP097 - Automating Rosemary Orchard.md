@@ -966,11 +966,11 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:17:30   | stuff with AppleScript. But I don't know that that's the long term play. What do you think is the        |
 | 01:17:36   | long term play from Apple? I mean, so clearly Shortcuts, they've said is the future and they're          |
 | 01:17:42   | going to try and do more shortcut stuff. But are they going to have an AppleScript like language         |
-| 01:17:49   | that goes across all their platforms? I mean, I've heard people speculate that they think Swift UI       |
+| 01:17:49   | that goes across all their platforms? I mean, I've heard people speculate that they think [[SwiftUI]]       |
 | 01:17:55   | is going to have an automation version that that's the plan. But I don't know. I mean, what do you       |
 | 01:18:01   | think? I mean, Swift is an automation language, definitely would have a lot of advantages.               |
-| 01:18:07   | It's already on all of Apple's platforms. Swift UI, the framework, is not necessarily the right          |
-| 01:18:15   | thing. I misspoke there. I'm sorry, Swift, not Swift UI, yes. Yeah. And Swift has got a lot of           |
+| 01:18:07   | It's already on all of Apple's platforms. [[SwiftUI]], the framework, is not necessarily the right          |
+| 01:18:15   | thing. I misspoke there. I'm sorry, Swift, not [[SwiftUI]], yes. Yeah. And Swift has got a lot of           |
 | 01:18:20   | advantages to it. It is perhaps a bit trickier for people who are familiar with some other programming   |
 | 01:18:29   | languages, but are not necessarily developers, because there are some certain things that are            |
 | 01:18:33   | flipped. So for example, in JavaScript, if you create a variable and you want it to be a constant        |

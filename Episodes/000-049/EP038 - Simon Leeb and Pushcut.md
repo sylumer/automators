@@ -781,7 +781,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 46:07      | And both of these things don't work on the Apple Watch.                                             |
 | 46:10      | So sadly, I just felt, well, not this time, maybe with the next step I do, I'll make something      |
 | 46:16      | more watch-friendly.                                                                                |
-| 46:18      | But then I started adding online actions where you can trigger Zapier or Integromat directly.      |
+| 46:18      | But then I started adding online actions where you can trigger Zapier or Integromat directly.       |
 | 46:25      | And now Microsoft Flow is added, so you can connect those systems.                                  |
 | 46:28      | And with the tap of a button, you can run something in Zapier directly.                             |
 | 46:34      | And you can do that on the watch.                                                                   |
@@ -793,9 +793,9 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 46:52      | to be able to trigger ifs, if webhooks directly.                                                    |
 | 46:56      | Yeah.                                                                                               |
 | 46:57      | And that works on the watch.                                                                        |
-| 46:58      | And then I just felt, well, now I've got a package, and it was a pleasure doing Swift               |
-| 47:02      | UI on the watch, really.                                                                            |
-| 47:03      | It's the first time I did Swift UI, too.                                                            |
+| 46:58      | And then I just felt, well, now I've got a package, and it was a pleasure doing [[SwiftUI]]         |
+| 47:02      | on the watch, really.                                                                               |
+| 47:03      | It's the first time I did [[SwiftUI]], too.                                                         |
 | 47:05      | It's really fun.                                                                                    |
 | 47:07      | And Rose, you said that you think the notifications look great with the emoji and everything.       |
 | 47:12      | I love how it feels on the watch.                                                                   |

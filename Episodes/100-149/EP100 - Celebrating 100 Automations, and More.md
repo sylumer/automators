@@ -1544,13 +1544,13 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:02:19   | Yeah. And I guess I should be clear on that too.                  |
 | 01:02:23   | The shortcut scene has done remarkable work                       |
 | 01:02:26   | getting it over, not only did they get it on the Mac,             |
-| 01:02:28   | they did it with Swift UI,                                        |
+| 01:02:28   | they did it with [[SwiftUI]],                                        |
 | 01:02:30   | which is not an entirely baked system yet, you know.              |
 | 01:02:33   | So they really had a hand tied behind their back,                 |
 | 01:02:35   | in my opinion, I'm sure they won't say that,                      |
 | 01:02:38   | but that's the way I feel.                                        |
-| 01:02:40   | I think they used more than just Swift UI                         |
-| 01:02:42   | because Swift UI for the Mac really is very tricky.               |
+| 01:02:40   | I think they used more than just [[SwiftUI]]                         |
+| 01:02:42   | because [[SwiftUI]] for the Mac really is very tricky.               |
 | 01:02:45   | And I have to say, it does work like a Mac application.           |
 | 01:02:49   | You know, there are some bits where I'm like,                     |
 | 01:02:50   | oh, this is very iOS-y.                                           |
