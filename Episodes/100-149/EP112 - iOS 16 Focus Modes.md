@@ -1191,7 +1191,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:09:37   | or some kind of problem arose that somebody put on my plate that just totally diverted                  |
 | 01:09:43   | me and I should be better at being able to set that aside.                                              |
 | 01:09:46   | But once I know the problem exists, my brain immediately, at least at some level starts                 |
-| 01:09:51   | engageing with it.                                                                                       |
+| 01:09:51   | engaging with it.                                                                                       |
 | 01:09:52   | So where I'm very liberal when I'm in personal mode about letting stuff through with exception,         |
 | 01:09:59   | I'm very exclusive when I'm at Disneyland.                                                              |
 | 01:10:03   | I use the trick you turn me on to of using multiple locations to trigger the mode, you                  |

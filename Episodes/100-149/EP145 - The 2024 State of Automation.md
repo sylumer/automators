@@ -963,7 +963,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 54:13      | But honestly, this is an adult problem too.                                                             |
 | 54:16      | I mean, I just, we were at an event recently and there was a guy there that                             |
 | 54:21      | I know and he was in the corner the whole time on his phone.                                            |
-| 54:24      | I mean, not engageing and it's like, come on man, you know, and I think that                             |
+| 54:24      | I mean, not engaging and it's like, come on man, you know, and I think that                             |
 | 54:30      | this is something adults face as well and Apple is building the tool set there                          |
 | 54:35      | and I feel like most people don't realise it or don't want to try and turn it on.                       |
 | 54:40      | Maybe we'll cover this will be a show this year, but I, I want to talk about                            |

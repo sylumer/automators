@@ -121,7 +121,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 03:31      | me about some cool stuff.                                                                                 |
 | 03:32      | So it's certainly been worth me being there.                                                              |
 | 03:34      | Yeah.                                                                                                     |
-| 03:35      | You know, I just am not very good at engageing in these large social media platforms.                      |
+| 03:35      | You know, I just am not very good at engaging in these large social media platforms.                      |
 | 03:39      | I've never been very good at Twitter.                                                                     |
 | 03:41      | I'm probably not going to be very good at mastodon, but I'm there too.                                    |
 | 03:45      | What's your address, Rose?                                                                                |
