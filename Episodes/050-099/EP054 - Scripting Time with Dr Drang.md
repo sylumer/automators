@@ -51,7 +51,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 - [Pythonista for iOS](http://omz-software.com/pythonista/)
 - [Next Monday | Drafts Action Directory](https://actions.getdrafts.com/a/1aX)
 - [Learn JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-- [[[LaTeX]] addresses on the Mac and iOS - All this](https://leancrew.com/all-this/2020/01/[[LaTeX]]-addresses-on-the-mac-and-ios/)
+- [LaTeX addresses on the Mac and iOS - All this](https://leancrew.com/all-this/2020/01/[[LaTeX]]-addresses-on-the-mac-and-ios/)
 - [New Project Script](https://gist.github.com/drdrang/536801d9ea70d1137aa5efd0b86e844e) - Dr. Drang's script to create database entries, folders in iCloud, a folder in Mail, and a set of labels for a new project. · GitHub
 - [Combining Python and AppleScript - All this](https://leancrew.com/all-this/2013/03/combining-python-and-applescript/)
 - [GitHub - drdrang/plabels: Perl scripts for printing sheet-fed labels.](https://github.com/drdrang/plabels)
