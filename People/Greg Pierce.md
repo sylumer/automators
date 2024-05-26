@@ -1,6 +1,7 @@
 ---
 status: complete
-aliases: 
+aliases:
+  - Agile Tortoise
 host: false
 guest: true
 notetype: person
