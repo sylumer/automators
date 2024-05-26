@@ -568,7 +568,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 23:24      | of here's something you can do,                                   |
 | 23:25      | because having a template project that you recreate               |
 | 23:28      | on a regular basis is something that a lot of people want.        |
-| 23:33      | I personally do all of my packing lists in[[Drafts]]                |
+| 23:33      | I personally do all of my packing lists in [[Drafts]]                |
 | 23:37      | just because that ends up working better for me,                  |
 | 23:39      | but I use Omni-Automation to create a travel project              |
 | 23:43      | in Omni-Focus and it has a task called pack for trip              |
@@ -697,14 +697,14 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 29:14      | book accommodation tasks and so on as well.                       |
 | 29:17      | But when it creates the create packing list tasks                 |
 | 29:20      | because I'm a weird nerd, I love being a proper nerd              |
-| 29:24      | in this case, it also hops off into[[Drafts]]                       |
+| 29:24      | in this case, it also hops off into [[Drafts]]                       |
 | 29:27      | and it creates my packing list.                                   |
 | 29:30      | And in the packing list,                                          |
 | 29:31      | it puts a link back to the OmniFocus project for me.              |
 | 29:35      | And then it gets a link to that draft.                            |
 | 29:36      | And so in the create packing list and pack actions,               |
 | 29:39      | in the note, there is a link that takes me                        |
-| 29:41      | to my actual packing list in[[Drafts]]                              |
+| 29:41      | to my actual packing list in [[Drafts]]                              |
 | 29:44      | so that I can see what it is that I need to pack.                 |
 | 29:47      | And that for me is one of the very simple things                  |
 | 29:51      | that I've automated.                                              |

@@ -430,9 +430,9 @@ Stephen Millard from Thought Asylum joins in to share his automation journey and
 | 29:44      | it as stated and it was like, I'll capture this and then decide, is that going to be                     |
 | 29:48      | a text message or is that going to be an email or do I want to save it off somewhere else?               |
 | 29:55      | So it was very basic, but it met my needs perfectly.                                                     |
-| 30:01      | And how would you say your usage of [[Drafts]] has evolved? Are you doing more with[[Drafts]]                  |
+| 30:01      | And how would you say your usage of [[Drafts]] has evolved? Are you doing more with [[Drafts]]                  |
 | 30:05      | nowadays?                                                                                                |
-| 30:06      | Oh, no, not at all. Then again, maybe I am. Yeah. Yeah. So I spend a lot of time in[[Drafts]]              |
+| 30:06      | Oh, no, not at all. Then again, maybe I am. Yeah. Yeah. So I spend a lot of time in [[Drafts]]              |
 | 30:14      | these days, not for my work, but outside of work, I use it for capturing all sorts of                    |
 | 30:21      | ideas, for planning, for tracking my shopping list, for keeping notes about things that                  |
 | 30:29      | a lot of people might use [[Apple Notes]] for. I tend to use [[Drafts]] for some little bits                     |
@@ -742,7 +742,7 @@ Stephen Millard from Thought Asylum joins in to share his automation journey and
 | 58:10      | in there, and it will do things like work with [[Mermaid]], so allow you to have [[Mermaid]]                     |
 | 58:18      | diagrams, which is a [[Markdown]], and HTML-compatible way of writing some lines of text which will           |
 | 58:28      | then be transformed into a diagram. I've been using [[Obsidian\|Obsidian MD]] recently, and using [[Mermaid]]              |
-| 58:38      | diagrams in there, that's supported in there, and I wanted to be able to have that in[[Drafts]]            |
+| 58:38      | diagrams in there, that's supported in there, and I wanted to be able to have that in [[Drafts]]            |
 | 58:42      | as well, so that when I'm sending stuff from [[Drafts]] to [[Obsidian]] that I could check it first,             |
 | 58:48      | and so there's all sorts of things like that, all sorts of text modifiers, anything to do                |
 | 58:52      | with actually writing content.                                                                           |

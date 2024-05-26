@@ -784,7 +784,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 01:06:11   | sexy, you know, TOT is that little menu bar app on the Mac. And it's a, it's a Mac, it's also an       |
 | 01:06:18   | app for iOS that holds seven notes, you know, it kind of the idea of Drafts. You just open it up       |
 | 01:06:23   | and you start writing, but it doesn't have any of the automation of Drafts. So I tried it and          |
-| 01:06:27   | it's very pretty, but it's not Drafts. So I'm back in Drafts. So I could do this through[[Drafts]]       |
+| 01:06:27   | it's very pretty, but it's not Drafts. So I'm back in Drafts. So I could do this through [[Drafts]]       |
 | 01:06:34   | entirely, but I'm doing it through TextExpander snippet. And it's just very simple, you know,         |
 | 01:06:39   | outline. It's just like doing meeting notes or any other thing you use TextExpander to auto           |
 | 01:06:44   | generate, you know, fillable forms. But it's very handy. It's like one of these things I finally       |

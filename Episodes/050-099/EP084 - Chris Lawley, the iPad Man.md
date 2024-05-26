@@ -201,7 +201,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 10:06      | keyboard, um, what do they call them in iOS? I always forget it on the name, but basically                |
 | 10:10      | keyboard shortcuts where you can like, uh, type in a phrase and then it auto fills the                    |
 | 10:17      | replacement. Thank you. That's what it is. Um, so like I have a couple of those that                      |
-| 10:22      | I can just type those and it'll just bring up things and fantastical or things and[[Drafts]]                |
+| 10:22      | I can just type those and it'll just bring up things and fantastical or things and [[Drafts]]                |
 | 10:27      | or whatever. The, those, those small little actions like that really do make a huge difference.           |
 | 10:32      | All right. I need a little explanation on that. So you're using the text replacement                      |
 | 10:36      | tool where you type a few letters and it blops out to a whole bunch of texts, but you're                  |
@@ -562,7 +562,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 41:07      | the same thing and everything's input perfectly. As a listener of Automators, you get 20%                 |
 | 41:12      | of your first year. Visit TextExpander.com/podcast to learn more about TextExpander.             |
 | 41:17      | That's TextExpander.com/podcast. Our thanks to TextExpander from Smile for their                 |
-| 41:22      | support of this show and Relay FM. Okay, so you invoked before the break the word[[Drafts]]                |
+| 41:22      | support of this show and Relay FM. Okay, so you invoked before the break the word [[Drafts]]                |
 | 41:30      | and I feel like we can't just let that go. I think next to shortcuts [[Drafts]] is probably                   |
 | 41:36      | one of the most frequently talked about automation tools, especially in relation to iPad and iOS.         |
 | 41:41      | So tell us your draft story. How did you get into it and what are you doing with it?                      |
@@ -585,9 +585,9 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 43:18      | to a shortcut which creates a new blank draft and opens it in Drafts. That's clever. Yeah,                |
 | 43:23      | that's a good idea. Because then I can just pick up my phone. I double tap approximately                  |
 | 43:28      | where the Apple logo is. This works in a case. It runs my automation and a couple of seconds              |
-| 43:32      | later I'm in [[Drafts]] and or not even a couple of seconds. It's half a second, I guess I'm in[[Drafts]]       |
+| 43:32      | later I'm in [[Drafts]] and or not even a couple of seconds. It's half a second, I guess I'm in [[Drafts]]       |
 | 43:39      | right now. So I just tapped it. So yeah, I love that feature. Yeah. I mean, and as much as I love         |
-| 43:45      | that ugly beast that is obsidian, I really think that there's a place in my heart always for[[Drafts]]      |
+| 43:45      | that ugly beast that is obsidian, I really think that there's a place in my heart always for [[Drafts]]      |
 | 43:52      | because exactly what Chris said, I mean, you open the app and you start typing, there is no               |
 | 43:58      | friction. And I guess the thing that quick note misses, in my opinion, is the action on that text.        |
 | 44:05      | I mean, quick note will capture it for you. But only [[Drafts]] can say, okay, save this to the append        |
@@ -712,7 +712,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 55:46      | different insurance companies. And I don't want to lose that. So I have a master [[Drafts]] document          |
 | 55:51      | that links to all of these other text documents. So whenever I have a phone call with these               |
 | 55:55      | insurance people, I can go to that master document and quickly jump to wherever that                      |
-| 55:59      | text is. And it's just a nice feature of that linking. Another thing that I do with[[Drafts]]               |
+| 55:59      | text is. And it's just a nice feature of that linking. Another thing that I do with [[Drafts]]               |
 | 56:06      | that I absolutely love is I use, I build a lot of templates in Drafts. I'm sure this is, I know           |
 | 56:12      | this is something you guys have talked about, but like I can't stress enough. Like there is an action     |
 | 56:17      | when you go to set up a [[Drafts]] action called insert text. And that is a very powerful tool.               |

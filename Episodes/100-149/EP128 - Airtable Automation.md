@@ -465,7 +465,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 26:51      | And I think that's the thing, you know, I've been using it a lot for packing lists recently,                   |
 | 26:56      | because I've got some, some trips up coming that I'm going to need to, you know, take                     |
 | 27:00      | stuff on.                                                                                                 |
-| 27:01      | And it's been really nice and simple and easy to just, you know, be able to have a[[Drafts]]                |
+| 27:01      | And it's been really nice and simple and easy to just, you know, be able to have a [[Drafts]]                |
 | 27:06      | widget on my phone, which shows me, you know, a couple of things that gives me a plus to                  |
 | 27:10      | create a new draft.                                                                                       |
 | 27:11      | It's got a sort of clipboard icon, which will create a draft for my clipboard.                            |
@@ -555,7 +555,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 32:40      | scripts a little more easily if that's something you'd like to do.                                        |
 | 32:44      | So you can have, like, your two curly brackets to open and date, colon, and then you can                  |
 | 32:49      | give it a date name or a variable name, and then it will pop up a date picker for you,                    |
-| 32:55      | which is really nice when you want to be able to create [[Drafts]] templates, like complex[[Drafts]]            |
+| 32:55      | which is really nice when you want to be able to create [[Drafts]] templates, like complex [[Drafts]]            |
 | 33:02      | templates perhaps, but you don't want to have to go through to the trouble of writing lots                |
 | 33:06      | of scripts and so on.                                                                                     |
 | 33:08      | So yeah, you can just include this action and run from there, which, you know, I like                     |
@@ -589,7 +589,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 34:42      | it to be italic, you know, it goes changes, you know, and the fact that you can do that                   |
 | 34:48      | is really nice.                                                                                           |
 | 34:50      | So one thing I have done though is my workspaces have different themes applied to them so that            |
-| 34:55      | when I open a particular workspace, I can, you know, I can tell where I am in[[Drafts]]                     |
+| 34:55      | when I open a particular workspace, I can, you know, I can tell where I am in [[Drafts]]                     |
 | 35:00      | because of the theming.                                                                                   |
 | 35:01      | And then, you know, my default for opening [[Drafts]] is it sets the workspace to my default                  |
 | 35:07      | workspace and then, you know, has that theme applied.                                                     |

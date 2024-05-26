@@ -663,7 +663,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 32:23      | Are you guys using any automation workflows on mobile to get text into Obsidian?                       |
 | 32:29      | Because I find the actual process of adding text in Obsidian to be pretty tedious on mobile,           |
 | 32:36      | you know, because you've got to get the app open, you've got to get to a note.                         |
-| 32:40      | I greatly prefer using [[Drafts]] for capture still, and then I just create a little[[Drafts]]               |
+| 32:40      | I greatly prefer using [[Drafts]] for capture still, and then I just create a little [[Drafts]]               |
 | 32:47      | action that saves the note to a folder in Obsidian, and then it's there for me.                        |
 | 32:51      | I was curious, how are you guys handling that?                                                         |
 | 32:54      | I don't know.                                                                                          |

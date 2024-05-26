@@ -1031,7 +1031,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:03:09   | Okay.                                                                                               |
 | 01:03:10   | And these are using [[Drafts]] actions.                                                                 |
 | 01:03:12   | They're not [[URL Schemes\|URL scheme]]s, they're [[Drafts]] actions.                                                    |
-| 01:03:16   | Now I'm wondering, am I going to be able to install [[Drafts]] for iOS as well as[[Drafts]]               |
+| 01:03:16   | Now I'm wondering, am I going to be able to install [[Drafts]] for iOS as well as [[Drafts]]               |
 | 01:03:21   | for Mac or is [[Drafts]] for Mac going to be able to pick up those intents?                             |
 | 01:03:26   | Because one of the things that we did see with the changes to SwiftUI is they added                 |
 | 01:03:31   | support for stuff like, no, sorry, no, the changes to SwiftUI, the changes to Catalyst.             |
@@ -1048,7 +1048,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:04:05   | Also, they finally added date pickers to SwiftUI, sorry to Catalyst, which is great.                |
 | 01:04:10   | So that's good for me.                                                                              |
 | 01:04:12   | But I'm hoping that what we're going to see is that developers are going to be able to              |
-| 01:04:18   | either add those same intents to the Mac applications, or that I'm going to be able to have[[Drafts]] |
+| 01:04:18   | either add those same intents to the Mac applications, or that I'm going to be able to have [[Drafts]] |
 | 01:04:24   | for iOS and [[Drafts]] for Mac installed simultaneously.                                                |
 | 01:04:28   | And the push cut automation server on my Mac, we'll just talk to [[Drafts]] for iOS.                    |
 | 01:04:34   | But I guess we're going to find out.                                                                |

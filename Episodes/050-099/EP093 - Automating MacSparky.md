@@ -1251,7 +1251,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:12:51   | On the flip side, when I get over to the iPhone and iPad, the tool that I find myself using            |
 | 01:12:57   | more and more in shortcuts obviously is a big deal, but the tool that really stands out                |
 | 01:13:02   | for automation for me lately is [[Drafts]] because draft solves, [[Drafts]] is kind of like the Keyboard       |
-| 01:13:09   | Maestro of the iPhone because so much of that iPhone stuff I do involves text and[[Drafts]]              |
+| 01:13:09   | Maestro of the iPhone because so much of that iPhone stuff I do involves text and [[Drafts]]              |
 | 01:13:16   | has so many ways to work with that.                                                                    |
 | 01:13:19   | And let me just give you an example, you know, one of the challenges I have with this new              |
 | 01:13:24   | kind of career shift is I have all these content ideas, but I'm not sure where they all fit,           |

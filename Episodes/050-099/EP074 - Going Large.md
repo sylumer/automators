@@ -1140,7 +1140,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:30:39   | your device was not connected or whatever it is. And then it's like, okay, that's fine.                   |
 | 01:30:42   | Because I didn't want ScreenFlow. I wanted Drafts. So I've ended up actually changing                    |
 | 01:30:46   | the keyboard shortcut for Drafts. And then I've got a hot key on my on my Stream Deck                     |
-| 01:30:49   | and I've got a hot key on my keyboard, both of which open the quick capture and[[Drafts]]                   |
+| 01:30:49   | and I've got a hot key on my keyboard, both of which open the quick capture and [[Drafts]]                   |
 | 01:30:53   | for me. But I don't know what it is about ScreenFlow, but it does not like me changing                   |
 | 01:30:57   | the keyboard shortcuts in it, for whatever reason, especially if you want to leave it                     |
 | 01:31:01   | blank, then it gets very unhappy and it just resets it.                                                   |

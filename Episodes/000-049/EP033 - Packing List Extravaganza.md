@@ -775,7 +775,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 42:59      | And this is using the task format in Drafts.                                                                                                                     |
 | 43:02      | Now the task format in [[Drafts]] is based on the breakdown list format, which begins everything                                                                     |
 | 43:06      | with a dash.                                                                                                                                                     |
-| 43:08      | And then what it does is it does an open square bracket space, close square bracket, but[[Drafts]]                                                                 |
+| 43:08      | And then what it does is it does an open square bracket space, close square bracket, but [[Drafts]]                                                                 |
 | 43:13      | is really smart and it recognises that this is a task.                                                                                                           |
 | 43:16      | And so you could just tap on these square brackets and it checks them off for you, which                                                                         |
 | 43:20      | is really, really nice.                                                                                                                                          |

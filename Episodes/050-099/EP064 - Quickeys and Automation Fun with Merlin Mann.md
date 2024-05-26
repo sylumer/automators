@@ -1499,7 +1499,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:15:23   | mind too.                                                                                                     |
 | 01:15:25   | He started out with this Mac app, he made an iOS app, but how would you possibly create                       |
 | 01:15:33   | functionalities that work on both of those platforms?                                                         |
-| 01:15:37   | Mind-blowing to me, and not all of them do, but like a shocking amount of things in[[Drafts]]                   |
+| 01:15:37   | Mind-blowing to me, and not all of them do, but like a shocking amount of things in [[Drafts]]                   |
 | 01:15:41   | will just work and sync and do the thing on iOS and the Mac, which is mind-blowing to                         |
 | 01:15:47   | me.                                                                                                           |
 | 01:15:48   | But the only thing that keeps me from being all in on Drafts, this is so embarrassing.                        |

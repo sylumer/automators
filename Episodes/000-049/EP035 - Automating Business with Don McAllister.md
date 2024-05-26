@@ -281,7 +281,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 11:33      | It's very rarely that I actually use the Mac app for Airtable now, I use it solely as                  |
 | 11:38      | a web-based platform.                                                                                  |
 | 11:39      | Yeah, me too, I've switched, so I have previously been using the iOS and the Mac apps for capture      |
-| 11:46      | of certain things into Airtable bases, but I've switched to doing all of that with[[Drafts]]             |
+| 11:46      | of certain things into Airtable bases, but I've switched to doing all of that with [[Drafts]]             |
 | 11:51      | and some custom draft sections that save things into Airtable or shortcuts because it's faster         |
 | 11:57      | because it's using their API, I get a native experience and of course, you know, I then                |
 | 12:02      | don't have to have Airtable open and most of these web applications, which are also                    |

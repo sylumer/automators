@@ -955,7 +955,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:17:43   | the word processors are actually pretty bad. But there's a couple of problems. The first is,             |
 | 01:17:49   | it's really a web service. It's not an app. Their app is, I think it's an electron piece of garbage.     |
 | 01:17:56   | And their app is slow and just, it's not worth it. So when I do this stuff, I always do it on            |
-| 01:18:03   | their website. But there's a whole process I got to go through. Like, I've written it in[[Drafts]]         |
+| 01:18:03   | their website. But there's a whole process I got to go through. Like, I've written it in [[Drafts]]         |
 | 01:18:08   | or Obsidian. I've written it somewhere. And then I want to run it through Grammarly. So I found          |
 | 01:18:14   | myself doing the same thing every time, you know, select, copy, you know, open up a website, paste,      |
 | 01:18:20   | you know. So I put all that into a Keyboard Maestro script. The only tricky thing about it was,          |
@@ -1178,7 +1178,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:38:15   | to do that. And I had it pop up, asked me for the PDFs, and then combine them. And it's about            |
 | 01:38:21   | out a brand new PDF for me. And that was it done. And Automator really was the place to start with       |
 | 01:38:27   | that. And I know there are so many other ways I could have done this. There are web services,            |
-| 01:38:31   | I could have done it in the terminal. Maybe K[[eyboard Maestro]] has the option to do that.                  |
+| 01:38:31   | I could have done it in the terminal. Maybe K [[eyboard Maestro]] has the option to do that.                  |
 | 01:38:36   | But it worked with Automator and it was easy. So, I was wondering, do you use [[Automator]] for              |
 | 01:38:42   | anything? Yeah, I mean, first of all, it's sentimental. I mean, our friend, [[Sal Soghoian]],                 |
 | 01:38:47   | is the brain behind Auto, the Automator. And I'm like you a little sad because it started out            |

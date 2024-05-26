@@ -784,7 +784,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 31:26      | and just have AI do grammar check for us.                       |
 | 31:29      | I still think [[Grammarly]] is far superior                         |
 | 31:32      | and they continue to push it.                                   |
-| 31:34      | But the interesting thing to me is once I get into[[Drafts]]      |
+| 31:34      | But the interesting thing to me is once I get into [[Drafts]]      |
 | 31:37      | then [[Grammarly]] kind of kicks in                                 |
 | 31:38      | and fixes often a lot of the AI nonsense for me.                |
 | 31:42      | So I've got a lot going on in this writing workflow             |

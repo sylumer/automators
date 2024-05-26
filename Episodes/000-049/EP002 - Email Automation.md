@@ -223,7 +223,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 11:02      | up under different contexts. Like [[Gmail]] has some really powerful cloud-based mail rules.                                          |
 | 11:08      | The [[Apple Mail]] has a mail rule system built in, which is actually pretty powerful as well.                                        |
 | 11:14      | It is, yeah. It has to happen on your Mac, which is, when you say you're running rules,                                               |
-| 11:19      | are you running the rules through[[ Apple Mail]], even though you're using [[Airmail]] as your client?                                |
+| 11:19      | are you running the rules through [[ Apple Mail]], even though you're using [[Airmail]] as your client?                                |
 | 11:23      | So what I've got is I've got a Mac mini, which is actually a Mac mini server model.                                                   |
 | 11:28      | And it just sits there all day and it's running mail so it can execute certain rules. So I have                                       |
 | 11:34      | rules in [[Gmail]] as well. They're called filters in [[Gmail]], actually, which moves certain things as                              |

@@ -695,7 +695,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 35:30      | Yeah.                                                                                                    |
 | 35:31      | But I don't understand what the text field, what the text, what purposes.                                |
 | 35:35      | So I pass the text through to the shortcut, so the shortcut knows which app was opened.                  |
-| 35:39      | Instead of me building one shortcut for [[Drafts]] was opened, and another shortcut for[[Drafts]]              |
+| 35:39      | Instead of me building one shortcut for [[Drafts]] was opened, and another shortcut for [[Drafts]]              |
 | 35:44      | was closed.                                                                                              |
 | 35:45      | So I have one automated time tracking shortcut, and I tell it, I tell it something was opened            |
 | 35:49      | or something was closed, and then which app it was, and it figures it out based on that.                 |

@@ -376,7 +376,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 13:20      | by creating the start of an action for them.                      |
 | 13:23      | And then they come back later                                     |
 | 13:24      | and they've done things that I forgot were action,                |
-| 13:27      | like action steps that you can add in[[Drafts]]                     |
+| 13:27      | like action steps that you can add in [[Drafts]]                     |
 | 13:30      | because there's just so much there                                |
 | 13:32      | and they're talking about how amazing it is and wonderful.        |
 | 13:35      | And I love that, I love that so much                              |

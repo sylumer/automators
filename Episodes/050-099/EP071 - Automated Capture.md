@@ -191,7 +191,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 11:18      | open my processing workspace, then it very specifically loads, you know, things so that                  |
 | 11:22      | I can, you know, get my captured items then to their destination really quickly. I've                    |
 | 11:29      | also got it assigned to keyboard shortcut on macOS. So if I'm sitting here and somebody                  |
-| 11:35      | says something, if it is not related to exactly what it is that I'm looking at, I open[[Drafts]]           |
+| 11:35      | says something, if it is not related to exactly what it is that I'm looking at, I open [[Drafts]]           |
 | 11:39      | and I type it and then I'm done. And that's it. Because that makes it much easier. I try                 |
 | 11:45      | like it's like you, you know, you said with the with the client notes, if you're if you're               |
 | 11:49      | an obsidian, then you'll capture into that. If I'm in the right place to capture, you                    |
@@ -218,7 +218,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:41      | do it in Apple notes, you could just open an Apple note and you could have one ready.                    |
 | 13:45      | Well, I mean, [[Drafts]] is free. That's something that people will keep forgetting [[Drafts]] is                |
 | 13:49      | actually free. The in-app purchase is only necessary if you're doing things like creating                |
-| 13:53      | your own actions and workspaces and stuff like that. If you just want to use[[Drafts]]                     |
+| 13:53      | your own actions and workspaces and stuff like that. If you just want to use [[Drafts]]                     |
 | 13:57      | for capture and use the downloaded actions that are available, then you can do that.                     |
 | 14:02      | And I would argue that you should do that because [[Drafts]] is a great application for                      |
 | 14:06      | this. But I mean, there are plenty of other applications that you could use. I mean, I                   |

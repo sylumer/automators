@@ -759,7 +759,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 40:35      | if you do what I do, and that is steal from other people on the internet, because usually               |
 | 40:39      | I can find somebody who's kind of written something like what I might want, and then                    |
 | 40:45      | I can Google for something else.                                                                        |
-| 40:46      | So how I wrote this, this draft script is I started by copying the one on the[[Drafts]]                   |
+| 40:46      | So how I wrote this, this draft script is I started by copying the one on the [[Drafts]]                   |
 | 40:51      | website.                                                                                                |
 | 40:52      | Okay.                                                                                                   |
 | 40:53      | There's a single script at the end on the [[Drafts]] website showing you how you can create                 |

@@ -1264,7 +1264,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:09:48   | for me.                                                                                               |
 | 01:09:49   | I've got a lot of things going on in there right now.                                                 |
 | 01:09:52   | I've got all of the stuff that I used to manage my screencast online work in there and that           |
-| 01:09:56   | is automated with Podio and air table and some Zapier and some shortcuts and some[[Drafts]]             |
+| 01:09:56   | is automated with Podio and air table and some Zapier and some shortcuts and some [[Drafts]]             |
 | 01:10:03   | all mixed in there.                                                                                   |
 | 01:10:04   | And I'm really loving the fact that now I've got it set up, I can just do everything with             |
 | 01:10:07   | a few taps.                                                                                           |

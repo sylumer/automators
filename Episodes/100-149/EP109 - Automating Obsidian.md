@@ -1679,7 +1679,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:04:35   | a little bit more of that I think with Obsidian stuff                                              |
 | 01:04:37   | Okay let's start talking about                                                                     |
 | 01:04:39   | another one of our favourite automation apps                                                        |
-| 01:04:41   | and how it pairs with Obsidian[[Drafts]]                                                             |
+| 01:04:41   | and how it pairs with Obsidian [[Drafts]]                                                             |
 | 01:04:43   | I mean [[Drafts]] is such a great                                                                      |
 | 01:04:45   | companion app for Obsidian                                                                         |
 | 01:04:47   | Yes it really is                                                                                   |
@@ -1689,14 +1689,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:04:55   | call URL and have it                                                                               |
 | 01:04:57   | create a note, open a note and things like that                                                    |
 | 01:04:59   | and I am honestly using                                                                            |
-| 01:05:01   | a lot of the URL stuff with[[Drafts]]                                                                |
+| 01:05:01   | a lot of the URL stuff with [[Drafts]]                                                                |
 | 01:05:03   | to just have it                                                                                    |
 | 01:05:05   | create a note                                                                                      |
 | 01:05:07   | and I have                                                                                         |
 | 01:05:09   | two primary actions David I've got one for my personal                                             |
 | 01:05:11   | volume one for my work vault                                                                       |
 | 01:05:13   | so I can keep you know I can just say hey                                                          |
-| 01:05:15   | like you know when I'm in my[[Drafts]]                                                               |
+| 01:05:15   | like you know when I'm in my [[Drafts]]                                                               |
 | 01:05:17   | workspace for work then it shows me                                                                |
 | 01:05:19   | the centre Obsidian action                                                                         |
 | 01:05:21   | for my work vault and otherwise it'll show me                                                      |
@@ -1707,7 +1707,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:05:31   | and so on which you know really                                                                    |
 | 01:05:33   | lends it well                                                                                      |
 | 01:05:35   | into tying in with all of the other things                                                         |
-| 01:05:37   | that you're doing in[[Drafts]]                                                                       |
+| 01:05:37   | that you're doing in [[Drafts]]                                                                       |
 | 01:05:39   | and I have been bragging about Obsidian now                                                        |
 | 01:05:41   | for an hour and four minutes according to my                                                       |
 | 01:05:43   | clock none of us                                                                                   |
@@ -1722,7 +1722,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:06:01   | [[Drafts]] has the [[URL Schemes\|URL scheme]]s                                                                         |
 | 01:06:03   | and Obsidian has [[URL Schemes\|URL scheme]]s it isn't                                                              |
 | 01:06:05   | that difficult to create an automation                                                             |
-| 01:06:07   | to write something new in[[Drafts]]                                                                  |
+| 01:06:07   | to write something new in [[Drafts]]                                                                  |
 | 01:06:09   | even have [[Drafts]] put the YAML data                                                                 |
 | 01:06:11   | and everything for you push a single button                                                        |
 | 01:06:13   | and [[Drafts]] creates a file                                                                          |
@@ -1755,7 +1755,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:07:07   | much easier and honestly                                                                           |
 | 01:07:09   | the template stuff we were talking about earlier                                                   |
 | 01:07:11   | I have a whole bunch of                                                                            |
-| 01:07:13   | YAML header templates in[[Drafts]]                                                                   |
+| 01:07:13   | YAML header templates in [[Drafts]]                                                                   |
 | 01:07:15   | as well because                                                                                    |
 | 01:07:17   | it works very well for quickly                                                                     |
 | 01:07:19   | creating like hey here's the block of data                                                         |
@@ -1770,10 +1770,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:07:37   | for Obsidian of my sleeve                                                                          |
 | 01:07:39   | with [[Drafts]] in the I have                                                                          |
 | 01:07:41   | an Obsidian tag                                                                                    |
-| 01:07:43   | so my Obsidian tag in[[Drafts]]                                                                      |
+| 01:07:43   | so my Obsidian tag in [[Drafts]]                                                                      |
 | 01:07:45   | is used                                                                                            |
-| 01:07:47   | in conjunction with the with my push cut                                                           |
-| 01:07:49   | automation server so I've got push cut running                                                     |
+| 01:07:47   | in conjunction with the with my [[Pushcut]]                                                           |
+| 01:07:49   | Automation Server so I've got [[Pushcut]] running                                                     |
 | 01:07:51   | on an iPhone                                                                                       |
 | 01:07:53   | all the time and it will just pick things up                                                       |
 | 01:07:55   | and run them and                                                                                   |
@@ -1798,7 +1798,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:08:33   | did I create this in [[Drafts]] did it get                                                             |
 | 01:08:35   | created on one machine and not sync to the others                                                  |
 | 01:08:37   | what's happening here so I just have                                                               |
-| 01:08:39   | push cut pick up those[[Drafts]]                                                                     |
+| 01:08:39   | push cut pick up those [[Drafts]]                                                                     |
 | 01:08:41   | that should make it into Obsidian                                                                  |
 | 01:08:43   | automatically for me and drop them over                                                            |
 | 01:08:45   | which you know works very very well                                                                |
@@ -1814,7 +1814,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:09:05   | you can create                                                                                     |
 | 01:09:07   | you know I think I have about 10 different Obsidian                                                |
 | 01:09:09   | import buttons in [[Drafts]] so                                                                        |
-| 01:09:11   | when I write something in[[Drafts]]                                                                  |
+| 01:09:11   | when I write something in [[Drafts]]                                                                  |
 | 01:09:13   | depending on which button I push changes                                                           |
 | 01:09:15   | what YAML gets applied and where it gets located                                                   |
 | 01:09:17   | and where it gets sent and                                                                         |
@@ -1836,7 +1836,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:09:49   | often enough on my devices that it's                                                               |
 | 01:09:51   | rarely a problem for me I don't have to think                                                      |
 | 01:09:53   | about it but that is a trap                                                                        |
-| 01:09:55   | if you create the note in the[[Drafts]]                                                              |
+| 01:09:55   | if you create the note in the [[Drafts]]                                                              |
 | 01:09:57   | URL action but you                                                                                 |
 | 01:09:59   | don't open Obsidian then you go over to your Mac                                                   |
 | 01:10:01   | it's not going to be there because                                                                 |
@@ -1895,7 +1895,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:11:47   | and added to my notes which was pretty good                                                        |
 | 01:11:49   | I occasionally get emails from people saying                                                       |
 | 01:11:51   | well why do I need [[Drafts]] if I'm going to be using Obsidian                                        |
-| 01:11:53   | and for me[[Drafts]]                                                                                 |
+| 01:11:53   | and for me [[Drafts]]                                                                                 |
 | 01:11:55   | has always been an app about capture                                                               |
 | 01:11:57   | and process and Obsidian                                                                           |
 | 01:11:59   | has never been that it's just not good at that                                                     |
@@ -1910,14 +1910,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:12:17   | I will keep data in [[Drafts]] and in Obsidian                                                         |
 | 01:12:19   | but                                                                                                |
 | 01:12:21   | the difference between them is if I'm keeping it                                                   |
-| 01:12:23   | in[[Drafts]]                                                                                         |
+| 01:12:23   | in [[Drafts]]                                                                                         |
 | 01:12:25   | there is a date                                                                                    |
 | 01:12:27   | at which point I'm no longer going to need this                                                    |
 | 01:12:29   | and I'm going to delete it                                                                         |
 | 01:12:31   | but if I'm keeping it, it goes into Obsidian                                                       |
 | 01:12:33   | because                                                                                            |
 | 01:12:35   | my packing list and so on, I may archive them                                                      |
-| 01:12:37   | in[[Drafts]]                                                                                         |
+| 01:12:37   | in [[Drafts]]                                                                                         |
 | 01:12:39   | to be very clear, it's not that I don't trust draft sync                                           |
 | 01:12:41   | but                                                                                                |
 | 01:12:43   | they're dead to me at that point                                                                   |
@@ -2017,7 +2017,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:15:51   | and Keyboard Maestro                                                                               |
 | 01:15:53   | yes and you know that's one of the things                                                          |
 | 01:15:55   | where I've kind of gone back and forth                                                             |
-| 01:15:57   | with do I do it through[[Drafts]]                                                                    |
+| 01:15:57   | with do I do it through [[Drafts]]                                                                    |
 | 01:15:59   | do I do it through [[Hazel]]                                                                           |
 | 01:16:01   | there are some occasions                                                                           |
 | 01:16:03   | where [[Hazel]] is the right solution for that                                                         |
@@ -2025,7 +2025,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:07   | Drafts, Shortcuts and Keyboard Maestro                                                             |
 | 01:16:09   | are tending to be the main ones                                                                    |
 | 01:16:11   | and what I've found                                                                                |
-| 01:16:13   | is really useful is actually using[[Drafts]]                                                         |
+| 01:16:13   | is really useful is actually using [[Drafts]]                                                         |
 | 01:16:15   | as the back end whether I'm using it                                                               |
 | 01:16:17   | through Keyboard Maestro or Shortcuts                                                              |
 | 01:16:19   | because this way I've got a really easy                                                            |
@@ -2034,7 +2034,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:25   | and iPadOS when I'm in Focus                                                                       |
 | 01:16:27   | modes to show me different things                                                                  |
 | 01:16:29   | so I can have the Shortcuts button                                                                 |
-| 01:16:31   | and then it can pull that data out of[[Drafts]]                                                      |
+| 01:16:31   | and then it can pull that data out of [[Drafts]]                                                      |
 | 01:16:33   | like you can use [[Drafts]] actions to create                                                          |
 | 01:16:35   | the data and then send it over to Obsidian                                                         |
 | 01:16:37   | so that I                                                                                          |
@@ -2294,7 +2294,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:25:07   | but for other people like me                                                                       |
 | 01:25:09   | it's actually encouraged me to start taking more                                                   |
 | 01:25:11   | notes like I was already taking                                                                    |
-| 01:25:13   | a whole bunch of notes in[[Drafts]]                                                                  |
+| 01:25:13   | a whole bunch of notes in [[Drafts]]                                                                  |
 | 01:25:15   | and just kind of like okay well that's fine                                                        |
 | 01:25:17   | it's done I'll throw it away and I realised                                                        |
 | 01:25:19   | that I was you know recreating                                                                     |

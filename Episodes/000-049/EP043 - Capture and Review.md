@@ -245,7 +245,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 14:56      | And I think the way you do it makes a lot of sense. I've got so many built in the old                   |
 | 15:03      | fashion that it's hard for me to just fathom wrapping in my head around, okay, I'm going                |
 | 15:07      | to put it in two different systems. In general, all of my things, the primary                           |
-| 15:12      | source for my templates is Drafts. So if I need to change something, I'll go into[[Drafts]]               |
+| 15:12      | source for my templates is Drafts. So if I need to change something, I'll go into [[Drafts]]               |
 | 15:16      | and then I actually have, this is really nerdy, I have a list, I have a draft with which references     |
 | 15:23      | my other [[Drafts]] by their UUID, that's the Drafts, universally unique identifier, and                    |
 | 15:28      | tells me where I've used these templates in other places. So it tells me the name of the                |
@@ -668,7 +668,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 50:51      | finish that. Yes. Well, I've been playing with the Omni Automation as it's called,                      |
 | 50:55      | which is a JavaScript scripting for OmniFocus. And I have to say, it's definitely a super               |
 | 51:01      | parry user feature. You know, you're going to have to get really nerdy if you want to write             |
-| 51:04      | these scripts the same way if you would, if you want to write nerdy scripts to automate[[Drafts]]         |
+| 51:04      | these scripts the same way if you would, if you want to write nerdy scripts to automate [[Drafts]]         |
 | 51:09      | or something. You know, only this is an entire task management application with all of the              |
 | 51:14      | bells and whistles that go with it. So there's a lot of stuff in there. I was playing today with        |
 | 51:18      | the duplicate task action. And that I'm going to have some fun with. But it's, it's, it can be          |

@@ -2022,7 +2022,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:23:17   | and you could stick with Keyboard Maestro on the Mac                  |
 | 01:23:20   | but also have a shortcut option for iOS.                              |
 | 01:23:24   | And of course the other one that springs to mind for this             |
-| 01:23:28   | almost the exact purpose is[[Drafts]]                                   |
+| 01:23:28   | almost the exact purpose is [[Drafts]]                                   |
 | 01:23:30   | is a great way to collect some data                                   |
 | 01:23:32   | and it can even prompt you for input                                  |
 | 01:23:34   | without scripting actions and everything                              |
@@ -2137,7 +2137,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:28:05   | But, you know, it still works.                                        |
 | 01:28:07   | And most of the time,                                                 |
 | 01:28:09   | I would be editing things like this on my phone.                      |
-| 01:28:13   | It'll be a case of I'll check something in[[Drafts]]                    |
+| 01:28:13   | It'll be a case of I'll check something in [[Drafts]]                    |
 | 01:28:15   | and, you know, use the Obsidian advanced URI                          |
 | 01:28:17   | to stick it onto an existing note or similar.                         |
 | 01:28:22   | Yeah, I've kind of got to the point where I use it on iOS             |

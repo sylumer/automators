@@ -533,7 +533,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 20:41      | and DTS is date and time stamp.                                                          |
 | 20:45      | Or if I go X DS, it's X, it's a date stamp.                                              |
 | 20:48      | It just gives the date, but often like someone will call                                 |
-| 20:51      | me, I just open up my file or I'll even do it in[[Drafts]]                                 |
+| 20:51      | me, I just open up my file or I'll even do it in [[Drafts]]                                 |
 | 20:55      | and I go X DTS and then boom, it puts the current date and                               |
 | 20:59      | time as a stamp in and then I can start typing, you know,                                |
 | 21:03      | based on what we're talking about and what I'm following                                 |

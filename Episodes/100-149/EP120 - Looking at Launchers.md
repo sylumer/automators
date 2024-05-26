@@ -1101,7 +1101,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:08:00   | show love [[Drafts]] and the [[Doctor Drafts]] workflow is another really great one to get draft stuff        |
 | 01:08:08   | into Alfred.                                                                                          |
 | 01:08:11   | And again, like you, David, I really prefer having the filter so I can just type DR and               |
-| 01:08:17   | then I will get the options up for [[Drafts]] where I can create a new draft or search[[Drafts]]            |
+| 01:08:17   | then I will get the options up for [[Drafts]] where I can create a new draft or search [[Drafts]]            |
 | 01:08:23   | and run actions and things like that.                                                                 |
 | 01:08:25   | That for me is one of the things that I prefer, like I know that I'm doing something in Drafts,       |
 | 01:08:30   | so I type DR and then as my brain's like, okay, right now we've got [[Drafts]] right, okay,               |

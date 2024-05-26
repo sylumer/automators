@@ -782,7 +782,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 53:46      | like every five minutes it's like when I last charge it two days ago. That explains why             |
 | 53:51      | it's on 1% battery. I should definitely charge that again. So yeah I wish I could do that           |
 | 53:56      | but one of the things that I always have in my action button menu is a simple capture               |
-| 54:05      | action. Now this capture action is very very simple. It opens [[Drafts]] and it opens[[Drafts]]           |
+| 54:05      | action. Now this capture action is very very simple. It opens [[Drafts]] and it opens [[Drafts]]           |
 | 54:09      | to a particular workspace with a new draft so I then have a series of actions in the                |
 | 54:15      | action button row which appears above the keyboard which allows me to do things like                |
 | 54:20      | input dates and things like that so if I'm capturing a task or whatever then I can easily           |

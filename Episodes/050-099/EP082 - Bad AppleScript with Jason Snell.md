@@ -1045,7 +1045,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 48:47      | is I wanted to build a posting interface for my blog                                                             |
 | 48:50      | that didn't require a separate app                                                                               |
 | 48:52      | that I could just shoot out from my text editor too.                                                             |
-| 48:55      | And I've got a version that works with[[Drafts]]                                                                   |
+| 48:55      | And I've got a version that works with [[Drafts]]                                                                   |
 | 48:57      | because once you get to that point, it's fairly easy.                                                            |
 | 49:00      | As long as you've got an app willing to hand text off                                                            |
 | 49:03      | to a shortcut, you can do that.                                                                                  |
@@ -1667,7 +1667,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:11:12   | Greg Pierce, who's the developer                                                                                 |
 | 01:11:14   | of Drafts,                                                                                                       |
 | 01:11:16   | that's Mr. Agiletortoise                                                                                          |
-| 01:11:18   | has in the[[Drafts]]                                                                                               |
+| 01:11:18   | has in the [[Drafts]]                                                                                               |
 | 01:11:20   | beta notes at this time shortcuts are not cross-platform.                                                        |
 | 01:11:22   | For now                                                                                                          |
 | 01:11:24   | draft shortcuts created on the Mac show                                                                          |
