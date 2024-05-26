@@ -1076,7 +1076,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:32:57   | it's the paint roller, then you can have a look through. There's a whole bunch of themes on              |
 | 01:33:04   | various websites out there. And Alfred's natively got light themes and dark themes and                   |
 | 01:33:09   | modern themes with more rounded corners, a classic one, which has a kind of                              |
-| 01:33:15   | dark translucent gray chunky border around things, a macOS one, which is very big sir.                   |
+| 01:33:15   | dark translucent gray chunky border around things, a macOS one, which is very Big Sur.                   |
 | 01:33:23   | And of course, macOS dark. And once you've found your theme, then if you tap on or click on the          |
 | 01:33:30   | options, you get some extra things as well. So you can hide the hat on the Alfred window.                |
 | 01:33:36   | So when you press command space, I like looking at the hat. Okay, I like the little                      |
