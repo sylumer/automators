@@ -1187,7 +1187,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 43:02      | So, so yeah, I                                                    |
 | 43:04      | have to say it's really nice just being able to search            |
 | 43:06      | all of those files. You could open them all                       |
-| 43:08      | in BBEdit. I use visual studio                                   |
+| 43:08      | in [[BBEdit]]. I use visual studio                                   |
 | 43:10      | code because there is a bunch extension                           |
 | 43:12      | for visual studio code, which                                     |
 | 43:14      | helps you with autocomplete and things like that                  |

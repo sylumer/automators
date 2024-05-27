@@ -775,7 +775,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 46:31      | And storing the typed query means that if I hit the up arrow, I see the previous searches             |
 | 46:35      | that I've had.                                                                                        |
 | 46:36      | So I can be like, oh, right, okay, so I got down this rabbit hole by, I was looking for               |
-| 46:41      | BBEdit and then I saw this other thing and blah, blah, blah, which is really nice that               |
+| 46:41      | [[BBEdit]] and then I saw this other thing and blah, blah, blah, which is really nice that               |
 | 46:48      | I can have that.                                                                                      |
 | 46:49      | And that's an option.                                                                                 |
 | 46:50      | You don't have to enable those.                                                                       |

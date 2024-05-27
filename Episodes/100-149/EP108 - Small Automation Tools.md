@@ -1790,8 +1790,8 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:16:04   | that's within this folder, then show me the applications that       |
 | 01:16:08   | I use for development.                                              |
 | 01:16:10   | But if I'm right clicking a scripting file somewhere else,          |
-| 01:16:14   | show me BBEdit, please, because I'm probably going to              |
-| 01:16:17   | want to open that in BBEdit, you know, for every file,             |
+| 01:16:14   | show me [[BBEdit]], please, because I'm probably going to              |
+| 01:16:17   | want to open that in [[BBEdit]], you know, for every file,             |
 | 01:16:20   | give me an folder.                                                  |
 | 01:16:22   | Well, for every folder, give me the option to open this             |
 | 01:16:24   | in terminal, actually an item in my case so that I can,             |
@@ -1842,10 +1842,10 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:18:27   | where I don't think they did a few years ago.                       |
 | 01:18:30   | People are just making more of them. I'm not really sure.           |
 | 01:18:33   | I think it's a little of both.                                      |
-| 01:18:35   | I honestly think like BBEdit being back on the Mac App Store,      |
+| 01:18:35   | I honestly think like [[BBEdit]] being back on the Mac App Store,      |
 | 01:18:38   | which was a big thing because they weren't on the Mac App Store     |
 | 01:18:41   | for a long time due to sandboxing.                                  |
-| 01:18:43   | And, you know, the best version of BBEdit                          |
+| 01:18:43   | And, you know, the best version of [[BBEdit]]                          |
 | 01:18:45   | is still the version directly from Bare Bones,                      |
 | 01:18:48   | if only because Apple don't take their cut out of it.               |
 | 01:18:51   | But also you get things like the terminal integration,              |
@@ -1854,7 +1854,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:18:59   | oh, gosh, terminal, I never use it.                                 |
 | 01:19:01   | You know, trust me, at some point you'll run into something         |
 | 01:19:04   | and you'll find out that, hey, you know,                            |
-| 01:19:06   | you can do this without even opening BBEdit                        |
+| 01:19:06   | you can do this without even opening [[BBEdit]]                        |
 | 01:19:08   | if you got the terminal commands installed.                         |
 | 01:19:10   | So that's pretty useful.                                            |
 | 01:19:12   | But these apps are far from the only way                            |

@@ -217,7 +217,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 08:38      | by different apps.                                                                                   |
 | 08:39      | And you can't have a solid pearl-like language to accommodate specific things because everything     |
 | 08:48      | is different.                                                                                        |
-| 08:49      | The way Mars edit handles data is different from the way BBEdit handles data.                       |
+| 08:49      | The way Mars edit handles data is different from the way [[BBEdit]] handles data.                       |
 | 08:54      | So [[AppleScript]] is a nice interpreter of all that.                                                   |
 | 08:57      | But sometimes you have to use your weapons this way first and then use your weapons this             |
 | 09:03      | way in order to beat the boss.                                                                       |
@@ -229,7 +229,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 09:22      | [[AppleScript]] as opposed to a guy sitting at a desk in Missouri working on a different                |
 | 09:26      | app.                                                                                                 |
 | 09:27      | So just because what you do in the Omni Group app is going to work one way, doesn't mean             |
-| 09:32      | when you open BBEdit that Rich is going to have decided to do it the same way.                      |
+| 09:32      | when you open [[BBEdit]] that Rich is going to have decided to do it the same way.                      |
 | 09:37      | And you do kind of have to learn the quirkiness of it as you go through.                             |
 | 09:41      | Like I said, but it's fun though, right?                                                             |
 | 09:42      | Yeah.                                                                                                |
@@ -578,7 +578,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 28:31      | I mean, it's, it's a badge of honour to me to write stuff by hand.                                    |
 | 28:38      | I don't like templates.                                                                              |
 | 28:39      | My, my website, I do it by hand with the, with the exception of the WordPress blog                   |
-| 28:44      | portion, everything else I've written in hand coded in PHP and in BBEdit and the database           |
+| 28:44      | portion, everything else I've written in hand coded in PHP and in [[BBEdit]] and the database           |
 | 28:51      | management stuff.                                                                                    |
 | 28:52      | I've all, I do it by hand.                                                                           |
 | 28:53      | The same thing with writing an AppleScript.                                                         |

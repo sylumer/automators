@@ -695,8 +695,8 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 40:31      | Like learning automation tools in the abstract is very difficult, but having a specific problem         |
 | 40:38      | you're trying to solve, and then figuring out the automation concoction that solves it                  |
 | 40:43      | for you is the best way to learn this stuff.                                                            |
-| 40:46      | What's the book he was recommending, the BBEdit Manual, by any chance?                                 |
-| 40:50      | Because the BBEdit Manual is a really great resource for regular expression, like introductions.       |
+| 40:46      | What's the book he was recommending, the [[BBEdit]] Manual, by any chance?                                 |
+| 40:50      | Because the [[BBEdit]] Manual is a really great resource for regular expression, like introductions.       |
 | 40:56      | I will have to, oh, I think it might be, let me see, yeah.                                              |
 | 41:03      | It's Mastering Regular Expressions by Jeffrey Friedle, which is an O'Reilly publication.                |
 | 41:11      | Yeah, yeah.                                                                                             |
@@ -707,7 +707,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 41:32      | there are slightly different flavours of regular expression depending on what platform                   |
 | 41:36      | or language you're using, and so it has the different flavours there and can tell you,                   |
 | 41:43      | you can switch to it, and so you'll see how it matches all of the different bits of your text,          |
-| 41:48      | or BBEdit's pattern playgrounds is another great way to do that.                                       |
+| 41:48      | or [[BBEdit\|BBEdit's]] pattern playgrounds is another great way to do that.                                       |
 | 41:53      | This episode of The Automators is brought to you by FitBod.                                             |
 | 41:56      | Go to fitbod.me/automators to get stronger and faster with a fitness plan that fits you,          |
 | 42:02      | and you get 25% off your membership.                                                                    |

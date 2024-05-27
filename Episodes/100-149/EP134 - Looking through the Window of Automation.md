@@ -1154,10 +1154,10 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:13:49   | And a lot of the times, you know, the examples that I put on Omni Automation are all done             |
 | 01:13:55   | with AppleScript generating the JavaScript.                                                          |
 | 01:13:59   | How do you do that?                                                                                   |
-| 01:14:02   | I use BBEdit, which is a remarkable tool if you have to deal with text.                              |
+| 01:14:02   | I use [[BBEdit]], which is a remarkable tool if you have to deal with text.                              |
 | 01:14:08   | I've heard Rose mentioned that app on show many times.                                                |
 | 01:14:12   | It's extremely powerful and useful.                                                                   |
-| 01:14:15   | And I have BBEdit automated that I can take any Omni Automation script and convert it                |
+| 01:14:15   | And I have [[BBEdit]] automated that I can take any Omni Automation script and convert it                |
 | 01:14:21   | into the HTML using AppleScript and it just generates it like instant for me.                        |
 | 01:14:28   | It saves me tremendous amount of work.                                                                |
 | 01:14:31   | Yeah.                                                                                                 |

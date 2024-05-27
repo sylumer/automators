@@ -567,17 +567,17 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 30:04      | with that much precision, and by telling specific things.                                               |
 | 30:07      | And then on the flip side of that, this is to explain how you can use it.                               |
 | 30:12      | When you use an app that supports regular expressions, for example, the one I use mostly                |
-| 30:18      | to do find and replace is BBEdit.                                                                      |
+| 30:18      | to do find and replace is [[BBEdit]].                                                                      |
 | 30:21      | That's a really great one for that.                                                                     |
 | 30:23      | Now, [[Drafts]] for Mac supports regular expressions, so you can have fun there, too.                       |
 | 30:27      | OmniFocus supports regular expressions, so if you have a database that's really complex                 |
 | 30:31      | and you want to find something very specific, you can do it there.                                      |
-| 30:35      | But a nice example I can share with you, viewers, is in BBEdit, what I sometimes do, I receive         |
+| 30:35      | But a nice example I can share with you, viewers, is in [[BBEdit]], what I sometimes do, I receive         |
 | 30:41      | .ICS files, those are calendar files.                                                                   |
 | 30:45      | I could, of course, open the file in Calendar, or in my case, Fantastical, go in there and              |
 | 30:52      | modify the events if I want to add or remove something in the names of the events that                  |
 | 30:57      | I have up there, if I receive a file from someone.                                                      |
-| 31:00      | But rather than do that, what I do instead is I open the ICS file in BBEdit, and I've                  |
+| 31:00      | But rather than do that, what I do instead is I open the ICS file in [[BBEdit]], and I've                  |
 | 31:06      | written a regular expressions that changed every instance of the name of the event, but                 |
 | 31:11      | only in that one spot in the ICS file, because in ICS files, you sometimes have duplications            |
 | 31:17      | between different sections of the calendar file.                                                        |
@@ -587,7 +587,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 31:34      | what you want to replace.                                                                               |
 | 31:37      | What I ended up doing is creating a regular expression that found those things, we call                 |
 | 31:40      | those matches, by the way, in that language, so it matches what you want, and then in the               |
-| 31:45      | replace string, you can use, in the case of BBEdit, sometimes it's $1.                                 |
+| 31:45      | replace string, you can use, in the case of [[BBEdit]], sometimes it's $1.                                 |
 | 31:52      | This is when you capture something that you want to replace, and you basically say, hey,                |
 | 31:57      | I want to keep the word David, but I want to add a different word after that, so you're                 |
 | 32:03      | looking for David, you keep it, you capture it, and then in the replace string, you say,                |
@@ -600,8 +600,8 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 32:41      | and the same thing, I get stuff sent to me all the time on the legal side where I need                  |
 | 32:45      | to go through and make very complex search and replaces, and regular expressions is how                 |
 | 32:51      | you get that thing rolling, the trick in my mind is to get it into a text format and get                |
-| 32:56      | it into BBEdit, I mean BBEdit was built for regular expressions.                                      |
-| 33:01      | The way I learned them was actually the BBEdit help file, which I found out years later                |
+| 32:56      | it into [[BBEdit]], I mean [[BBEdit]] was built for regular expressions.                                      |
+| 33:01      | The way I learned them was actually the [[BBEdit]] help file, which I found out years later                |
 | 33:05      | was written by John Gruber, but Linda has courses on it.                                                |
 | 33:09      | I think maybe, Rose, we should probably do regular expressions kind of boot camp episode                |
 | 33:15      | for automators.                                                                                         |

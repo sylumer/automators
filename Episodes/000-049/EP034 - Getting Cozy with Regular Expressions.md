@@ -82,10 +82,10 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 01:31      | like one or two good documents that we really need to prove our case, they'll bury it in            |
 | 01:36      | 20 boxes worth of documents and it's the needle in the haystack problem.                            |
 | 01:41      | But the way I would solve that is I would just have the documents scanned in OCR and                |
-| 01:47      | we would combine that into one big OCR file, which is a lot of words, but I'd use BBEdit,           |
+| 01:47      | we would combine that into one big OCR file, which is a lot of words, but I'd use [[BBEdit]],           |
 | 01:55      | which is a great application.                                                                       |
 | 01:56      | It's actually made for web programming, really, but a lot of people are writing it as well.         |
-| 02:01      | And I would take BBEdit because you can throw anything at it and I'd put all this text in           |
+| 02:01      | And I would take [[BBEdit]] because you can throw anything at it and I'd put all this text in           |
 | 02:04      | it and I would run a regular expression against it and a regular expression would be a very         |
 | 02:10      | complex kind of search that I would run, finding a specific set of text within the document         |
 | 02:17      | and I was always able to find what I wanted and everybody could never believe how I could           |
@@ -153,7 +153,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 06:03      | there are some programs, for example, OmniFocus supports regular expressions in their search.       |
 | 06:07      | Did you know that?                                                                                  |
 | 06:08      | Maybe not.                                                                                          |
-| 06:09      | But if you open up the search function of a program like BBEdit or OmniFocus or Drafts,            |
+| 06:09      | But if you open up the search function of a program like [[BBEdit]] or OmniFocus or Drafts,            |
 | 06:16      | then you can usually turn on and off the regular expressions, which is really useful because        |
 | 06:20      | sometimes you might want to actually match a period and you don't care about regular                |
 | 06:25      | expressions.                                                                                        |
@@ -200,17 +200,17 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 08:45      | expressions really give shortcuts an extra power boost and I want to talk about that                |
 | 08:52      | later because it's kind of complicated.                                                             |
 | 08:54      | But the application that I think would be best if you wanted to really kind of give                 |
-| 08:58      | this a try for the first time is BBEdit.                                                            |
-| 09:01      | There is a brand new version of BBEdit that just came out as we record the show, version            |
+| 08:58      | this a try for the first time is [[BBEdit]].                                                            |
+| 09:01      | There is a brand new version of [[BBEdit]] that just came out as we record the show, version            |
 | 09:06      | 13.                                                                                                 |
 | 09:08      | They have a free, I believe it's a 30-day trial.                                                    |
-| 09:11      | And BBEdit has always been kind of one of the best places to do regular expressions.                |
+| 09:11      | And [[BBEdit]] has always been kind of one of the best places to do regular expressions.                |
 | 09:16      | It's actually the software documentation is where I first started learning regular expressions.     |
 | 09:22      | It's really well-written.                                                                           |
 | 09:23      | Yes, it is.                                                                                         |
 | 09:24      | You can find that in the help menu or you can find it on that website, we'll put a link             |
 | 09:28      | to it in the show notes because even if you are, for example, an iPad first user and you            |
-| 09:32      | don't have a Mac, so you can't install BBEdit, well, you don't have to miss out on their            |
+| 09:32      | don't have a Mac, so you can't install [[BBEdit]], well, you don't have to miss out on their            |
 | 09:37      | manual because it's on their website as a PDF and the chapter on regular expressions,               |
 | 09:41      | I have to say, is very good reading, which sounds very strange or something that's so               |
 | 09:45      | technical, but it's very useful.                                                                    |
@@ -229,9 +229,9 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 10:45      | expressions in shortcuts, having a quick reference and an ability to check this is something        |
 | 10:52      | that you definitely need.                                                                           |
 | 10:53      | And we will talk about some other things later in the show that will help you do this, but          |
-| 10:56      | BBEdit I would say is not the gold standard, maybe the Diamond standard because it's just            |
+| 10:56      | [[BBEdit]] I would say is not the gold standard, maybe the Diamond standard because it's just            |
 | 11:01      | been there for so long doing such a great job at this.                                              |
-| 11:04      | Yeah, it sounds like it's sponsored by BBEdit this show, but it's not.                             |
+| 11:04      | Yeah, it sounds like it's sponsored by [[BBEdit]] this show, but it's not.                             |
 | 11:08      | It's really not.                                                                                    |
 | 11:09      | Yeah, but it is really great and like I said, you can get that free trial if you want to            |
 | 11:13      | buy it, it's not that expensive, but just for the process of learning regular expressions,          |
@@ -341,7 +341,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 17:24      | And we are all very smart, but we're not necessarily very good at telling our computers exactly     |
 | 17:28      | what it is that we want them to do.                                                                 |
 | 17:30      | And so it's going to do exactly what you tell it, which is why having something like the            |
-| 17:35      | pattern playgrounds feature in BBEdit is really useful, because you can try all of this,           |
+| 17:35      | pattern playgrounds feature in [[BBEdit]] is really useful, because you can try all of this,           |
 | 17:40      | and especially when it gets to using the replace feature, then you can look through and see         |
 | 17:44      | what it's actually done with this magic that you've told it to do, and see whether or not           |
 | 17:50      | it had the intended side effects, or maybe if it went a little off the rails, which it              |
@@ -993,7 +993,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 54:58      | Yes, it definitely is.                                                                              |
 | 55:00      | All right.                                                                                          |
 | 55:01      | So let's talk about some additional resources.                                                      |
-| 55:02      | We've been talking about BBEdit off and on throughout the show, but go download it.                |
+| 55:02      | We've been talking about [[BBEdit]] off and on throughout the show, but go download it.                |
 | 55:06      | It's a free download.                                                                               |
 | 55:08      | Like I said, you get that trial at the beginning.                                                   |
 | 55:11      | Great company.                                                                                      |
@@ -1003,7 +1003,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 55:22      | I guess what they call it, the pattern playground, is what they call that, I believe.               |
 | 55:26      | And you can go in there and just figure out some stuff, play with it, drop some text in,            |
 | 55:32      | grab something off the internet, or you can even populate.                                          |
-| 55:35      | I think BBEdit has pre-populated text, if you want.                                                |
+| 55:35      | I think [[BBEdit]] has pre-populated text, if you want.                                                |
 | 55:38      | Yes, it does.                                                                                       |
 | 55:39      | It has a Lorem Ipsum Generator.                                                                     |
 | 55:41      | It also has a Bacon Ipsum Generator and it has a Startup Ipsum Generator.                           |
@@ -1014,7 +1014,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 55:58      | Yeah.                                                                                               |
 | 55:59      | Well, I mean, it's almost dinner time here.                                                         |
 | 56:00      | So maybe afterwards.                                                                                |
-| 56:02      | But as well as BBEdit, the BBEdit manual, even if you're not using BBEdit, have a look           |
+| 56:02      | But as well as [[BBEdit]], the [[BBEdit]] manual, even if you're not using [[BBEdit]], have a look           |
 | 56:08      | at the chapter on regular expressions in there.                                                     |
 | 56:10      | If you're stuck and you're looking for a good resource, it is extremely thorough, which             |
 | 56:14      | is great.                                                                                           |
@@ -1031,13 +1031,13 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 56:57      | Good for testing regular expressions out.                                                           |
 | 57:00      | Yes, especially if you're on a plane.                                                               |
 | 57:02      | Yeah, and Rose found a good website, Regex 101.                                                     |
-| 57:06      | Yes, and this works the same way BBEdit does pretty much.                                          |
+| 57:06      | Yes, and this works the same way [[BBEdit]] does pretty much.                                          |
 | 57:10      | It has a cheat sheet on the right hand side.                                                        |
 | 57:13      | It's got your search box at the top.                                                                |
 | 57:15      | It's got a big box where you can paste in some sample text.                                         |
 | 57:18      | And you can also try, there's an option to try the replaces as well.                                |
-| 57:22      | So it works like the pattern playgrounds in BBEdit in many ways, but it's a really                 |
-| 57:27      | useful, and I often use all machines that don't have BBEdit installed.                             |
+| 57:22      | So it works like the pattern playgrounds in [[BBEdit]] in many ways, but it's a really                 |
+| 57:27      | useful, and I often use all machines that don't have [[BBEdit]] installed.                             |
 | 57:31      | The next machine is primarily, and on my iPad, because it's extremely handy.                        |
 | 57:37      | You know, Rose, I've been threatening to talk about regular expressions on a podcast for            |
 | 57:40      | like 10 years.                                                                                      |

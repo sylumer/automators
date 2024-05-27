@@ -919,18 +919,18 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 54:33      | That's just going to cause problems.                                                                 |
 | 54:35      | And so I was trying to figure out what I could do and I was like, you know what, there's             |
 | 54:40      | a couple of really great apps that are really great for like writing, like, I don't know,            |
-| 54:45      | BBEdit, like it's, I've loaded ginormous and I, when I say ginormous, I mean like                   |
+| 54:45      | [[BBEdit]], like it's, I've loaded ginormous and I, when I say ginormous, I mean like                   |
 | 54:51      | multimillion word documents into [[BBEdit]] and it didn't even blink in me.                             |
-| 54:56      | Like that's how great BBEdit is.                                                                    |
+| 54:56      | Like that's how great [[BBEdit]] is.                                                                    |
 | 54:58      | And I was like, and there's this really lovely app by this guy called [[Brett Terpstra]], nobody's       |
 | 55:03      | heard of called [[Marked]], which can take a markdown document and preview it really nicely.             |
 | 55:09      | And it's got custom themes.                                                                          |
 | 55:11      | Hmm.                                                                                                 |
 | 55:12      | Interesting.                                                                                         |
 | 55:13      | And, you know, if I use something like say [[Shortcuts]], then I could just create a folder              |
-| 55:20      | and create a document in that folder and open that document in BBEdit and marked.                   |
+| 55:20      | and create a document in that folder and open that document in [[BBEdit]] and marked.                   |
 | 55:25      | And if I use bunch, then I can actually just prompt myself so I can have like, you know,             |
-| 55:31      | shortcuts open to that folder, it's got that in open BBEdit with the whole, with all of             |
+| 55:31      | shortcuts open to that folder, it's got that in open [[BBEdit]] with the whole, with all of             |
 | 55:36      | the instructions in the folder and open and so on.                                                   |
 | 55:40      | And then I can just select the right one and open it and marked and I was like, hmm, you             |
 | 55:44      | know what, we're onto something.                                                                     |
@@ -1022,7 +1022,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:00:46   | them a link to the document so they're always going to be going and checking the latest version      |
 | 01:00:49   | rather than sending them an attachment.                                                              |
 | 01:00:53   | And yeah, if something changes, you know, if we change the name of something, I can                  |
-| 01:00:57   | just open up all of these in BBEdit because BBEdit can open a folder of files as well.               |
+| 01:00:57   | just open up all of these in [[BBEdit]] because [[BBEdit]] can open a folder of files as well.               |
 | 01:01:02   | And I can just find like that phrase and replace that phrase anywhere that I need to.                |
 | 01:01:07   | And I can just do it as like globally, just replace everything that says the bananas with            |
 | 01:01:12   | bananas and pajamas, you know, obviously silly example.                                              |
@@ -1071,9 +1071,9 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:03:35   | Yeah.                                                                                                |
 | 01:03:36   | So I have a bunch, which will help me like go into documentation mode.                               |
 | 01:03:40   | I've literally called it docs mode and DOCS, just to be clear.                                       |
-| 01:03:46   | And yeah, it opens BBEdit.                                                                          |
-| 01:03:48   | It has, it tells BBEdit to open the folder where all of the instructions are.                       |
-| 01:03:54   | It activates marked, it puts BBEdit and marked split screen and then it puts finder on for          |
+| 01:03:46   | And yeah, it opens [[BBEdit]].                                                                          |
+| 01:03:48   | It has, it tells [[BBEdit]] to open the folder where all of the instructions are.                       |
+| 01:03:54   | It activates marked, it puts [[BBEdit]] and marked split screen and then it puts finder on for          |
 | 01:03:58   | the folder with all the docs in on my other screen for me.                                           |
 | 01:04:02   | So that I have, because I'm using Moom to place everything as part of the bunch.                     |
 | 01:04:07   | So Bunch is opening up stuff and then running Moom and the other thing it puts on my other           |
@@ -1100,7 +1100,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
 | 01:05:21   | So I use this and what it does activates audio hijack and it starts the recording and it             |
 | 01:05:25   | sets the timestamp in the Keyboard Maestro macro.                                                    |
-| 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the BBEdit document,           |
+| 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |
 | 01:05:39   | so I can just type whatever after that so that Jim are fabulous editor who seriously,                |
 | 01:05:44   | one of the best automation hacks for podcasting is to get a really great editor like Jim and         |

@@ -599,7 +599,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 35:24      | it's got workspaces, action groups, but it did start as the place where you can get all                   |
 | 35:29      | of the draft stuff.                                                                                       |
 | 35:30      | So it's going to be around for a while, which is great because it's got so much there.                    |
-| 35:34      | Yeah, there are people out there for whom BBEdit is the hammer and everything is a nail.                 |
+| 35:34      | Yeah, there are people out there for whom [[BBEdit]] is the hammer and everything is a nail.                 |
 | 35:39      | When it comes to text for me, [[Drafts]] is the hammer.                                                       |
 | 35:42      | For me, [[Drafts]] is more of a toolbox.                                                                      |
 | 35:44      | Yeah, sure.                                                                                               |

@@ -434,8 +434,8 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 33:02      | super fast to pull that up and to run it. So yes. But again, you're getting in the weeds when you      |
 | 33:08      | start doing stuff like that. Yeah, that was one of the things I've been struggling with as well,       |
 | 33:12      | because I'd love to automatically run scripts, but I don't want the script to be in the URL.           |
-| 33:16      | I want it to be, you know, saved in a file that I can then open and BBEdit or text edit or       |
-| 33:22      | Textastic or whatever. I tend to use Textastic on iOS and a BBEdit on my Mac to edit my Omni group     |
+| 33:16      | I want it to be, you know, saved in a file that I can then open and [[BBEdit]] or text edit or       |
+| 33:22      | Textastic or whatever. I tend to use Textastic on iOS and a [[BBEdit]] on my Mac to edit my Omni group     |
 | 33:31      | or OmniFocus scripts. Yeah. Another way you could do that, at least on the Mac is you could run it     |
 | 33:36      | through a palette in Keyboard Maestro because you could trigger URLs the same way. In fact,            |
 | 33:43      | that may be the way you're using it with your Stream Deck. I don't know. But I can think of a          |

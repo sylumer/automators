@@ -267,7 +267,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 11:25      | But I can make existing applications work together.                                                              |
 | 11:29      | That's what, to me, automation really is.                                                                        |
 | 11:33      | It's taking the best stuff that's made by people                                                                 |
-| 11:36      | like the Omni Group and BBEdit                                                                                  |
+| 11:36      | like the Omni Group and [[BBEdit]]                                                                                  |
 | 11:39      | and all these great apps out there                                                                               |
 | 11:41      | and then bending them to your will through automation.                                                           |
 | 11:44      | And once again, anybody can do this.                                                                             |
@@ -939,7 +939,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 44:25      | I didn't want to do that.                                                                                        |
 | 44:26      | And on the Mac, I could write in Mars Edit.                                                                      |
 | 44:29      | I did do some of this automation on the Mac too, ultimately,                                                     |
-| 44:31      | so that I can post things out of BBEdit.                                                                        |
+| 44:31      | so that I can post things out of [[BBEdit]].                                                                        |
 | 44:33      | But on the iPad, I just, I didn't want to do it.                                                                 |
 | 44:36      | Plus, it's iPad Safari.                                                                                          |
 | 44:37      | It's a little more ungainly, copy and paste,                                                                     |
@@ -1514,7 +1514,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:06:04   | runs                                                                                                             |
 | 01:06:06   | unmodified. I can I set up                                                                                       |
 | 01:06:08   | something where I run that shortcut                                                                              |
-| 01:06:10   | from BBEdit and it                                                                                              |
+| 01:06:10   | from [[BBEdit]] and it                                                                                              |
 | 01:06:12   | totally works. The whole thing works.                                                                            |
 | 01:06:14   | But                                                                                                              |
 | 01:06:16   | it gave me a lot of confidence in the                                                                            |

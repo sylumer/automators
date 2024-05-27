@@ -1013,8 +1013,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 43:35      | I'm sure he did this on his own, or she                            |
 | 43:37      | did this on his own on her own, but it matches so perfectly        |
 | 43:42      | an AppleScript that I wrote many years ago                        |
-| 43:45      | for doing this in BBEdit.                                         |
-| 43:47      | It does exactly what I used to do in BBEdit,                      |
+| 43:45      | for doing this in [[BBEdit]].                                         |
+| 43:47      | It does exactly what I used to do in [[BBEdit]],                      |
 | 43:51      | except it does it in Drafts.                                       |
 | 43:53      | So I was thinking about writing my own.                            |
 | 43:55      | I was thinking about taking that AppleScript                      |

@@ -1371,7 +1371,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:18:05   | On the surface of it, it just appears to be, yeah, shortcuts is on the Mac.                                               |
 | 01:18:09   | But the fact that there's now a command line option, so there is a command line option                                    |
 | 01:18:13   | for me to list all of my existing shortcuts.                                                                              |
-| 01:18:16   | So now I can pipe that into something else and open it in BBEdit if I want to.                                           |
+| 01:18:16   | So now I can pipe that into something else and open it in [[BBEdit]] if I want to.                                           |
 | 01:18:21   | I could get a list of all of my shortcuts in the shortcuts app.                                                           |
 | 01:18:25   | I could do that but now I can do it on the command line as well.                                                          |
 | 01:18:29   | So I think for some people, this will make them sit up and pay attention and see that                                     |

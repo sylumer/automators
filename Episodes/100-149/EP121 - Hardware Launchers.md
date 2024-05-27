@@ -1276,7 +1276,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:12:36   | You do.                                                                                                |
 | 01:12:37   | I have to say what I did is I managed to go find the actual Stream Deck, like configuration.           |
 | 01:12:42   | I backed up my Stream Decks and exported the backup files.                                             |
-| 01:12:46   | And then I, you know, just opened up the files in BBEdit.                                             |
+| 01:12:46   | And then I, you know, just opened up the files in [[BBEdit]].                                             |
 | 01:12:51   | And they're XML files.                                                                                 |
 | 01:12:53   | You don't need to be able to read like the code behind it.                                             |
 | 01:12:58   | You can just like look at the words and then you'll see like something that's called omnifocus.        |

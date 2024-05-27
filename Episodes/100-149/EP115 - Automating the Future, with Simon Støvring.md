@@ -561,15 +561,15 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 41:08      | Well, Simon, we've been talking about this new app Runestone for a while. And so this                  |
 | 41:13      | is the first time we get to share this with the audience. Runestone is a text editor.                  |
 | 41:18      | And the way it stands for me, and I don't know if you intended this, but I've always                   |
-| 41:23      | felt like that the iPhone needed a BBEdit, right? You know, an app that's just really                 |
+| 41:23      | felt like that the iPhone needed a [[BBEdit]], right? You know, an app that's just really                 |
 | 41:29      | good with programming text and made by a conscientious developer. And the very first time I downloaded |
-| 41:35      | Runestone, that the exact vibe I got, I'm like, oh, we finally got BBEdit on the iPhone.              |
+| 41:35      | Runestone, that the exact vibe I got, I'm like, oh, we finally got [[BBEdit]] on the iPhone.              |
 | 41:42      | And it really is a powerful text editor. I mean, this is for some companies like a full                |
 | 41:48      | time thing. And you managed to put together one with code highlighting and just like a                 |
 | 41:54      | lot of great features in your free time. How'd you do it? And how's it going?                          |
 | 42:00      | Um, yeah, well, thanks for the kind words. I never really, yeah, I never really aimed                  |
-| 42:08      | to be like the BBEdit file as quite the opposite. And I think BBEdit does a ton more things          |
-| 42:14      | than Runestone does currently and will ever do. BBEdit is certainly a powerful tool.                  |
+| 42:08      | to be like the [[BBEdit]] file as quite the opposite. And I think [[BBEdit]] does a ton more things          |
+| 42:14      | than Runestone does currently and will ever do. [[BBEdit]] is certainly a powerful tool.                  |
 | 42:21      | Um, but yeah, I started building Runestone in December 2020. I think, um, yeah, I think                |
 | 42:28      | it was actually the first of December, because I remember I was like, I'm going to take one            |
 | 42:32      | month out of the calendar of my spare time at least and see how far can I get building                 |
@@ -716,7 +716,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 54:27      | That was really the whole point. I think if you are a user that has, um, more advanced                 |
 | 54:33      | text editing needs on your iPhone and iPad, you should definitely look at something like               |
 | 54:37      | text testing that you, um, mentioned earlier. That, that's really the least to me. That's              |
-| 54:42      | the BBEdit of, um, of the iPhone and iPad. That's a, it's, uh, an app that has existed                |
+| 54:42      | the [[BBEdit]] of, um, of the iPhone and iPad. That's a, it's, uh, an app that has existed                |
 | 54:48      | for many years. It's a super good app developed by a, a great developer, Alexander, who has            |
 | 54:53      | also helped me out on parts of Runestone. When I got stuck, um, you know, understanding                |
 | 54:57      | parts of the text layout system, Alexander is a, is a super great person and a great                   |
@@ -734,22 +734,22 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 55:59      | helping each other out because it does lead to great apps for, for everyone, uh, there.                |
 | 56:04      | So, you know, that, that's certainly well worthwhile. And, uh, yeah, it's, it's, it's                  |
 | 56:09      | always interesting. I kind of feel like, um, uh, that, uh, Runestone is more like a text               |
-| 56:15      | wrangler was when, um, the folks at bare bones had text wrangler and BBEdit, like text wrangler       |
+| 56:15      | wrangler was when, um, the folks at bare bones had text wrangler and [[BBEdit]], like text wrangler       |
 | 56:20      | was like the mini version, um, of it, uh, which was the one that was available for free                |
-| 56:25      | and everything. And they've, they've since rolled everything into BBEdit and text wrangler            |
+| 56:25      | and everything. And they've, they've since rolled everything into [[BBEdit]] and text wrangler            |
 | 56:28      | is no longer, um, but, um, you know, it, it kind of reminds me a little bit of text wrangler           |
 | 56:34      | in, in some ways, which is quite nice and certainly meant as a compliment.                             |
 | 56:37      | Uh, thanks. Text wrangler. I had completely forgotten about that.                                      |
 | 56:42      | Uh, a lot of people that I think that's right. It was a good app though, but you still get             |
-| 56:48      | it, you know, you just get BBEdit and then you add on the features if you want them.                  |
+| 56:48      | it, you know, you just get [[BBEdit]] and then you add on the features if you want them.                  |
 | 56:53      | Oh yeah. Sure.                                                                                         |
-| 56:54      | Well, I mean, BBEdit has everything that text wrangler had and it's got all the extra                 |
+| 56:54      | Well, I mean, [[BBEdit]] has everything that text wrangler had and it's got all the extra                 |
 | 56:59      | features too. Um, you know, it, it always did. That was, that was the thing and it was                 |
 | 57:04      | kind of, I guess a different build with some of the things turned off, um, and, and a different        |
 | 57:09      | icon, a different name. Um, I don't really know. I did, I don't really remember looking                |
 | 57:13      | into it all that much. And, uh, I used text wrangler for a few years on my work machine                |
-| 57:17      | when, uh, I worked somewhere that wouldn't let me have BBEdit installed. Um, I'm not                  |
-| 57:21      | quite sure why they wouldn't let me have BBEdit installed, but either way, I did eventually           |
+| 57:17      | when, uh, I worked somewhere that wouldn't let me have [[BBEdit]] installed. Um, I'm not                  |
+| 57:21      | quite sure why they wouldn't let me have [[BBEdit]] installed, but either way, I did eventually           |
 | 57:25      | convince them to see the error of their ways. And fortunately, I now get to use Runestone              |
 | 57:29      | whenever I need to as well, which definitely makes my life easier.                                     |
 | 57:34      | This episode of automators is brought to you by ExpressVPN. You've probably heard by now               |

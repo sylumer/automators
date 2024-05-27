@@ -335,7 +335,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 23:18      | a programming syntax and that's usually, if you open, say for example, a JavaScript file,            |
 | 23:25      | then that will look one way and then if you open, I don't know, say just a text file,                |
 | 23:32      | then that will just probably be like black text on a white background. Usually that's                |
-| 23:35      | what happens. An application, I'm going to use BBEdit as an example here because it supports           |
+| 23:35      | what happens. An application, I'm going to use [[BBEdit]] as an example here because it supports           |
 | 23:40      | thousands of different programming syntaxes, at least I think so. It certainly supports              |
 | 23:44      | hundreds of them. That's what it's doing. That's the magic that's behind it there.                   |
 | 23:49      | Just a slightly different explanation, but I think you covered that very well.                       |

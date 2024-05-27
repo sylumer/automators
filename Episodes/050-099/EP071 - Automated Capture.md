@@ -423,7 +423,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 27:46      | And so I love it, because that works, and it means that I both captured to the right                     |
 | 27:53      | place, but then when I'm looking for the data, it's going to be really easy to find.                     |
 | 27:58      | And of course, because I'm using Dropbox, I'm not married to Obsidian, I can then just                   |
-| 28:02      | open the entire folder in BBEdit or Nova or something else if I want to.                                 |
+| 28:02      | open the entire folder in [[BBEdit]] or Nova or something else if I want to.                                 |
 | 28:09      | And I can, of course, open individual files anytime, and I can even get stuff with shortcuts,            |
 | 28:13      | which is pretty handy.                                                                                   |
 | 28:14      | Now, I totally agree.                                                                                    |

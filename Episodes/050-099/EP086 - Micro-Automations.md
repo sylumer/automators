@@ -753,7 +753,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 40:01      | then in Post [[Script Debugger]] and [[Script Editor]], then you can go to File, Open Dictionary,               |
 | 40:09      | and then you'll be able to see the dictionary for all of the languages.                                 |
 | 40:13      | And so a dictionary for the languages is hopefully going to help you learn how to automate something.   |
-| 40:18      | So for example, BBEdit has a command to add a suffix, and it'll, you know, append a string             |
+| 40:18      | So for example, [[BBEdit]] has a command to add a suffix, and it'll, you know, append a string             |
 | 40:26      | to the end of each line in the indicated text, so you're going to have to do some work to               |
 | 40:30      | find out what the indicated text is and so on, but it's a good place to start, especially               |
 | 40:35      | if you do what I do, and that is steal from other people on the internet, because usually               |
@@ -1054,12 +1054,12 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 58:52      | as well.                                                                                                |
 | 58:53      | Yeah.                                                                                                   |
 | 58:54      | So if you go and look at them, you can download them.                                                   |
-| 58:56      | What I do is I drag the dot PopClip extension file onto BBEdit, because then this will open             |
-| 59:04      | that file in BBEdit as a folder.                                                                        |
+| 58:56      | What I do is I drag the dot PopClip extension file onto [[BBEdit]], because then this will open             |
+| 59:04      | that file in [[BBEdit]] as a folder.                                                                        |
 | 59:06      | So a dot PopClip extension is actually a folder.                                                        |
 | 59:09      | And inside it, it's got the script and a little bit of information about the script, and it's           |
 | 59:15      | also potentially got an icon file in there so that you can change the icon that appears.                |
-| 59:20      | But I drag it onto BBEdit so that then I can see all the text and edit it.                              |
+| 59:20      | But I drag it onto [[BBEdit]] so that then I can see all the text and edit it.                              |
 | 59:25      | But what I did, David, because, you know, [[Brett Terpstra]] is a smart cookie, is I pressed                |
 | 59:32      | the option key when I was using PopMaker.                                                               |
 | 59:36      | And instead of installing the PopClip extension directly into PopClip, it gave me the option            |
@@ -1098,7 +1098,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:01:39   | And so you can have a look at my my script to see how you can do that, because you can                  |
 | 01:01:42   | just replace the text.                                                                                  |
 | 01:01:45   | You're all if you're listening to this capable of this, just drag the thing on to say Nova              |
-| 01:01:51   | or BBEdit or a atom could do this, I think sublime text probably as well.                              |
+| 01:01:51   | or [[BBEdit]] or a atom could do this, I think sublime text probably as well.                              |
 | 01:01:57   | And then you just need to edit the script file that's inside of it.                                     |
 | 01:02:02   | Well, and either way, whether using PopClip with just the built in stuff or downloading                 |
 | 01:02:07   | some of Brett and Rose's extensions, this is a great automation tool.                                   |

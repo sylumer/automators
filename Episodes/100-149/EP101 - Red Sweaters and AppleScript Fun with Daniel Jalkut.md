@@ -1378,7 +1378,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 59:29      | without the usual mechanism                                       |
 | 59:32      | for using regular expressions was to dispatch out                 |
 | 59:35      | to a shell script or to use a third party script library          |
-| 59:39      | or to automate with BBEdit or something like that.               |
+| 59:39      | or to automate with [[BBEdit]] or something like that.               |
 | 59:43      | Yes, so what you can do now is inside your [[AppleScript]]           |
 | 59:47      | wherever you are, where you need to split some text up,           |
 | 59:49      | you can just continue where you are                               |

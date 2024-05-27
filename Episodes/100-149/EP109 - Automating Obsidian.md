@@ -1660,7 +1660,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:03:57   | handy that you will need                                                                           |
 | 01:03:59   | within that context so if you open up this folder                                                  |
 | 01:04:01   | in a different application                                                                         |
-| 01:04:03   | such as BBEdit or similar                                                                         |
+| 01:04:03   | such as [[BBEdit]] or similar                                                                         |
 | 01:04:05   | then you will see those as well                                                                    |
 | 01:04:07   | but you don't see it when you're in Obsidian                                                       |
 | 01:04:09   | and that is very useful                                                                            |
@@ -2043,7 +2043,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:43   | because there's nothing worse than going right                                                     |
 | 01:16:45   | cool. Data the                                                                                     |
 | 01:16:47   | YAML headers that I'm using in these files                                                         |
-| 01:16:49   | folks I tend to use BBEdit if I'm                                                                 |
+| 01:16:49   | folks I tend to use [[BBEdit]] if I'm                                                                 |
 | 01:16:51   | doing a mass edit of lots of text files                                                            |
 | 01:16:53   | and it works great on Markdown files as well                                                       |
 | 01:16:55   | but                                                                                                |

@@ -731,9 +731,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 40:39      | job of handling.                                                                                       |
 | 40:40      | ASAP is for a different platform and would have been installed from somewhere else.                    |
 | 40:45      | Because something that I'd previously noticed when I enabled notifications from, I don't               |
-| 40:51      | know, say BBEdit, there was a 5050 chance that it would show up as just like the sort                 |
+| 40:51      | know, say [[BBEdit]], there was a 5050 chance that it would show up as just like the sort                 |
 | 40:55      | of gray app square with like the lines around it on iOS with unknown application underneath            |
-| 41:04      | it, versus, you know, maybe it might say like that it's BBEdit, but it wouldn't have the              |
+| 41:04      | it, versus, you know, maybe it might say like that it's [[BBEdit]], but it wouldn't have the              |
 | 41:09      | icon or actually sometimes it would have the icon and not have a name or yeah, I don't know,           |
 | 41:14      | it was it was confusing.                                                                               |
 | 41:15      | It seems to be doing better now.                                                                       |
@@ -1216,7 +1216,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:11:36   | So Agenda's got an update coming out, Fingers crossed for macOS Ventura, I think they were             |
 | 01:11:41   | saying on their forums, which has got some new shortcuts actions and so on in.                         |
 | 01:11:47   | And those I've already seen and been using on iOS and that's good.                                     |
-| 01:11:51   | Omni Group have got all of their new stuff coming out, BBEdit as well.                                 |
+| 01:11:51   | Omni Group have got all of their new stuff coming out, [[BBEdit]] as well.                                 |
 | 01:11:56   | All of the app developers who have shortcut supporters are looking to see what they can                |
 | 01:12:01   | do to take advantage of this and a lot of developers have found they've done the work                  |
 | 01:12:05   | for the focus mode filters and everything on iOS.                                                      |

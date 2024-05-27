@@ -575,7 +575,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 41:20      | at, you know, like, what is, you know, like, how does a project work? Like, what does it                 |
 | 41:24      | have? Okay, so I need to set project dot due date to set the due date of the project.                    |
 | 41:28      | But once you're familiar with JavaScript objects and so on, it's relatively easy to figure               |
-| 41:32      | out. And I'm just looking at a sample script that I threw together earlier and BBEdit                   |
+| 41:32      | out. And I'm just looking at a sample script that I threw together earlier and [[BBEdit]]                   |
 | 41:36      | tells me it's 65 lines long, when people listening are beginning, whoa, 65 lines, that's a lot           |
 | 41:41      | of code. But if I look at it, the first 11 lines are comments to tell OmniFocus how to                   |
 | 41:46      | show this, this action to me, which is fine. And so that takes me down to, you know, 54                  |
@@ -743,7 +743,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 55:39      | key so I could SSH into a server. And then I was no longer on my computer. I was talking on another      |
 | 55:44      | machine and going around doing folders, checking things out and stuff like that. But that's all          |
 | 55:48      | very developer stuff. So I'm not sure I use it for a huge amount of non developer things, except         |
-| 55:54      | opening files in BBEdit when I'm in a project folder so I can edit them as a developer,                 |
+| 55:54      | opening files in [[BBEdit]] when I'm in a project folder so I can edit them as a developer,                 |
 | 56:00      | which is kind of developer-y. But JF preset did some stuff when he was on our show.                      |
 | 56:04      | Yeah. No, I mean, there's some people that use it really effectively, but I do have trouble figuring     |
 | 56:09      | out if it is actually an automation tool for most people. I think if you're in the business of           |

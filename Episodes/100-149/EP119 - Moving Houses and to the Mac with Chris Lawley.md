@@ -977,7 +977,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 53:55      | an icon next to it.                                                                                       |
 | 53:56      | And if it's in the services menu, you don't have any helpful icon and there's a bunch                     |
 | 53:59      | of other stuff in there like revealing forklift if you're using forklift or run drop zone                 |
-| 54:03      | action, if you quote drop zone or, you know, item, BBEdit, all those things can show up                  |
+| 54:03      | action, if you quote drop zone or, you know, item, [[BBEdit]], all those things can show up                  |
 | 54:08      | in there.                                                                                                 |
 | 54:09      | They can add their own services.                                                                          |
 | 54:11      | But the quick actions are more controllable in that they're in, well, you can control                     |

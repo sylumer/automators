@@ -523,7 +523,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 24:48      | And also, I was selling eBooks and so I had to generate eBooks for it, one for the Kindle                |
 | 24:53      | Store and one EPUB for Download from Ars and then an EPUB made for the iBook Store.                      |
 | 25:01      | And that's a lot of stuff that has to happen.                                                            |
-| 25:02      | And I'm using BBEdit to write my thing and BBEdit can do a web preview or I'm looking                    |
+| 25:02      | And I'm using [[BBEdit]] to write my thing and [[BBEdit]] can do a web preview or I'm looking                    |
 | 25:07      | at it in Safari and I'm using Photoshop to make the images and I'm taking screenshots                    |
 | 25:12      | and whatever, all the stuff that I'm doing, it's work on a Mac, sort of multimedia work                  |
 | 25:18      | as they used to say on a Mac.                                                                            |

@@ -1432,7 +1432,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:11:56   | Yeah.                                                                                                         |
 | 01:11:57   | But it's, it's, there's something so satisfying.                                                              |
 | 01:11:58   | It's I, I often find myself falling back to talking about Markdown where like, you know,                      |
-| 01:12:01   | you could be like John Siracusa and write in HTML, but I, I could do that in BBEdit,                         |
+| 01:12:01   | you could be like John Siracusa and write in HTML, but I, I could do that in [[BBEdit]],                         |
 | 01:12:07   | but I really like using Markdown because Markdown has the subset of formatting things that I                  |
 | 01:12:13   | generally need.                                                                                               |
 | 01:12:14   | And so I think of Markdown as like this very simplified version of what can become HTML.                      |

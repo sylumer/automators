@@ -1072,7 +1072,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:07:53   | Yeah.                                                                                                |
 | 01:07:54   | It's the same as copying out like the date format of something from, like if you've                  |
 | 01:07:59   | got [[Hazel]] parsing a PDF or similar for a date, like copying that plain text and dumping that,        |
-| 01:08:06   | I prefer BBEdit over text edit just because it's got so many automation possibilities.              |
+| 01:08:06   | I prefer [[BBEdit]] over text edit just because it's got so many automation possibilities.              |
 | 01:08:10   | Also it's just a great app, even if you're just getting the free version, it's well worth            |
 | 01:08:13   | it.                                                                                                  |
 | 01:08:14   | But you know, you paste it in there and then you actually see what it's looking at.                  |
