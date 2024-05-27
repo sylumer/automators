@@ -303,7 +303,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 15:25      | and motion graphics and stuff.                                                                            |
 | 15:27      | And I would actually switch over to Windows whenever I did programming work because we                    |
 | 15:33      | were doing everything on the Microsoft stack, even in school.                                             |
-| 15:36      | And so in the Windows world, we used PowerShell, which is significantly less nice.                        |
+| 15:36      | And so in the Windows world, we used [[PowerShell]], which is significantly less nice.                        |
 | 15:44      | But that was sort of my introduction into automation in, I guess, the more traditional                    |
 | 15:50      | sense.                                                                                                    |
 | 15:51      | Often that was used for builds at work, running suites of little tests.                                   |

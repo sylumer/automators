@@ -382,9 +382,9 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 25:50      | do step one, two, and three.                                                                              |
 | 25:53      | Workflow was kind of the first way that I fully, that kind of helped me understand how                    |
 | 25:59      | automation could improve my life, help speed up my workflow, which in turn I took that                    |
-| 26:06      | to my day job, which at the time was IT. I picked up PowerShell, which is just a whole                    |
+| 26:06      | to my day job, which at the time was IT. I picked up [[PowerShell]], which is just a whole                    |
 | 26:13      | fun thing right there. I say fun sarcastically.                                                           |
-| 26:17      | But through PowerShell and a few other Windows tools, I automated about 80, 85% of my last                |
+| 26:17      | But through [[PowerShell]] and a few other Windows tools, I automated about 80, 85% of my last                |
 | 26:25      | job, which allowed me to work on my video stuff when I shouldn't have been working on                     |
 | 26:29      | my video stuff. I should have been doing my day job, but oh well. Automating that allowed                 |
 | 26:35      | me to make sure my job was still being done, even though it was being done in the background,             |
@@ -668,13 +668,13 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 51:23      | impossible to know everything. Yeah. And that describes 99% of people who write [[AppleScript]],             |
 | 51:29      | honestly. You know, you got like salsa going in and a couple other folks who like really know             |
 | 51:34      | what they're doing in AppleScript and the rest of us that start with Google. Yeah. Yeah. I mean,         |
-| 51:40      | that's how I primarily learned PowerShell in my IT days is I just Googled everything. And then I          |
-| 51:47      | read a book and I cannot remember. Oh, it was learn PowerShell in 30 days of lunches or something         |
+| 51:40      | that's how I primarily learned [[PowerShell]] in my IT days is I just Googled everything. And then I          |
+| 51:47      | read a book and I cannot remember. Oh, it was learn [[PowerShell]] in 30 days of lunches or something         |
 | 51:54      | like that. I think it's something something in a month of lunches. I've just found it on Google           |
 | 52:00      | also complete for the win. Yes. That is a solid book. If you have an IT job and you want to learn         |
-| 52:06      | PowerShell to automate most of that IT job, so you don't actually have to do that IT job,                 |
+| 52:06      | [[PowerShell]] to automate most of that IT job, so you don't actually have to do that IT job,                 |
 | 52:11      | that is a solid solid book right there. Yeah. The other book I'd recommend for people who are             |
-| 52:16      | looking at that and going, oh, PowerShell, I don't I don't use Windows is automate the boring stuff       |
+| 52:16      | looking at that and going, oh, [[PowerShell]], I don't I don't use Windows is automate the boring stuff       |
 | 52:21      | with Python. Yeah. That's a good option too. I wrote an AppleScript recently to                          |
 | 52:28      | either go to and select a specific mailbox in [[Apple Mail]] or move a message to a specific mailbox.         |
 | 52:35      | And I covered this in the webinar I did last week as a show publishes. But the                            |
