@@ -22,5 +22,6 @@
   "minimal-style@@metadata-heading-off": false,
   "minimal-style@@italic-color@@light": "#F5DEB3",
   "minimal-style@@bold-color@@light": "#DAA520",
-  "minimal-style@@link-unresolved-opacity": 0.8
+  "minimal-style@@link-unresolved-opacity": 0.8,
+  "minimal-style@@graph-line@@dark": "#8E8E8B"
 }
