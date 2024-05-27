@@ -16,7 +16,7 @@ The Apple Worldwide Developers Conference (WWDC) is an annual event held by Appl
 | 2018 | San Jose      | iOS 12, macOS Mojave, watchOS 5, tvOS 12              | iOS 12 with Screen Time, macOS Mojave with Dark Mode.                                                                         |
 | 2017 | San Jose      | iOS 11, macOS High Sierra, watchOS 4, tvOS 11         | iOS 11 with ARKit, macOS High Sierra with APFS.                                                                               |
 | 2016 | San Francisco | iOS 10, macOS Sierra, watchOS 3, tvOS 10              | iOS 10 with iMessage effects, macOS Sierra with Siri.                                                                         |
-| 2015 | San Francisco | iOS 9, OS X El Capitan, watchOS 2, tvOS               | iOS 9 with Proactive Assistant, OS X El Capitan with Split View.                                                              |
+| 2015 | San Francisco | iOS 9, OS X El Capitan, watchOS 2, tvOS               | iOS 9 with Proactive Assistant, OS X El Capitan with [[Split View]].                                                          |
 | 2014 | San Francisco | iOS 8, OS X Yosemite, watchOS 1                       | iOS 8 with Health app, OS X Yosemite with Continuity.                                                                         |
 | 2013 | San Francisco | iOS 7, OS X Mavericks                                 | iOS 7 with flat design, OS X Mavericks with Maps and iBooks.                                                                  |
 | 2012 | San Francisco | iOS 6, OS X Mountain Lion                             | iOS 6 with Siri updates, OS X Mountain Lion with iCloud integration.                                                          |

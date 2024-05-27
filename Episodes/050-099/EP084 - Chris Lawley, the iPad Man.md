@@ -189,13 +189,13 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 08:58      | into. Yeah, it has iOS 15 updates to shortcuts given                                                      |
 | 09:04      | you any shortcuts that you've always like wanted, but been unable to, to write.                           |
 | 09:10      | Um, you know, some of the really interesting ones are kind of simple, like being able to                  |
-| 09:16      | put apps in a split view and slide over is really big. I work primarily from the iPad.                    |
+| 09:16      | put apps in a [[Split View]] and [[Slide Over]] is really big. I work primarily from the iPad.                    |
 | 09:22      | Um, and the multitasking implementation on the iPad is good, but my biggest issue with                    |
-| 09:28      | it is when you create a split view pair, it pulls the instance that you're putting in                     |
+| 09:28      | it is when you create a [[Split View]] pair, it pulls the instance that you're putting in                     |
 | 09:35      | that pair. It pulls the last instance used of that app that you're putting in the pair.                   |
-| 09:40      | So if that instance of that app was already in split view with another app, it was in                     |
+| 09:40      | So if that instance of that app was already in [[Split View]] with another app, it was in                     |
 | 09:44      | slide over or it had something full screen that you wanted to stay full screen. Well,                     |
-| 09:49      | now that's in split view. So with these actions, I'm able to kind of, you know, quickly put               |
+| 09:49      | now that's in [[Split View]]. So with these actions, I'm able to kind of, you know, quickly put               |
 | 09:55      | together these, these, um, workspaces that I use. So like I have draft [[Drafts]] and things                  |
 | 10:00      | open a lot or things and fantastical. So like I just created a little shortcuts, um,                      |
 | 10:06      | keyboard, um, what do they call them in iOS? I always forget it on the name, but basically                |
@@ -333,7 +333,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 21:35      | any traditional computer that's always kind of bugged me is having a ton of windows open.                 |
 | 21:41      | It always pulls my attention away from what I should be focused on. With the iPad, I could                |
 | 21:45      | just have one app open full screen and that's what I could be focused on. Then I could put                |
-| 21:50      | something in Split View or Slide Over if need be but I could really limit myself to just                    |
+| 21:50      | something in [[Split View]] or [[Slide Over]] if need be but I could really limit myself to just                    |
 | 21:55      | the thing that I needed to focus. I still struggle with focus. I don't take medication                    |
 | 22:03      | for ADHD because it's always given me weird side effects like headaches and stuff like                    |
 | 22:06      | that. I try and manage it myself. Using a computer that kind of works with the way my                     |
@@ -647,12 +647,12 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 49:22      | iPad. And the whereas [[Drafts]] is very much a native app experience. And Greg spends a lot of time          |
 | 49:31      | making sure it is. Yeah, like one of the things I use in [[Drafts]] a lot is the multi window feature         |
 | 49:38      | on the iPad. So I will have multiple draft documents open on my iPad. And I'll have them in               |
-| 49:43      | split view, or I can just jump around using the new shell feature and iPad OS 15 or whatever.             |
+| 49:43      | [[Split View]], or I can just jump around using the new shell feature and iPad OS 15 or whatever.             |
 | 49:49      | And Obsidian, what kind of the kind of thing that just killed me right there is it does not have          |
 | 49:54      | support for multi window at all, like you just have the one window. So I can get over the electron        |
 | 50:00      | app that doesn't bother me as much. But like when it comes to those like core features of how a           |
 | 50:06      | device works, I find those to be really important, like stuff like multi window drag and drop,            |
-| 50:13      | split screen or split view and all that kind of support. I honestly think if I were like,                 |
+| 50:13      | split screen or [[Split View]] and all that kind of support. I honestly think if I were like,                 |
 | 50:18      | like Chris Lawley, if I was a guy who primarily used an iPad, I probably would not be an Obsidian          |
 | 50:24      | user, I'd probably be a craft user. That would be the app that I use for that's that type of stuff,       |
 | 50:29      | because Craft is so much better on the iPad than Obsidian is. But you know, the nice thing                |
@@ -693,8 +693,8 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 53:53      | document with everything that I'm working on. So all the video projects I'm doing, all the stuff          |
 | 53:58      | that I'm kind of working on for upcoming projects, sponsorships, any business related things that         |
 | 54:05      | are there, all of that is linked in one draft. So I was talking earlier about how I put things            |
-| 54:11      | and [[Drafts]] in split view together. In the morning, I basically start my day with things and this          |
-| 54:17      | [[Drafts]] document and split view. And I basically kind of just worked down the list of the two apps         |
+| 54:11      | and [[Drafts]] in [[Split View]] together. In the morning, I basically start my day with things and this          |
+| 54:17      | [[Drafts]] document and [[Split View]]. And I basically kind of just worked down the list of the two apps         |
 | 54:21      | and was like, Okay, here's everything that I got going on. Make sure all the tasks that are in            |
 | 54:26      | things are up to date. Make sure all the stuff that's linked properly and [[Drafts]] is linked together.      |
 | 54:32      | It is a very manual process that I have to do to kind of get all those linking links to work              |

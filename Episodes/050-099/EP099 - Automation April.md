@@ -618,7 +618,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 37:32      | the shell to fall back and say, okay, this app is not running, activate the app, wait                 |
 | 37:38      | two seconds, and then try again. So even though even if the app is not running, the shortcut          |
 | 37:45      | takes care of opening the app for me, wait a couple of seconds and try again to create                |
-| 37:50      | the split view. And it works pretty nicely.                                                           |
+| 37:50      | the [[Split View]]. And it works pretty nicely.                                                           |
 | 37:53      | Is there a particular reason why you're using the shell to call AppleScript for that rather          |
 | 37:57      | than just using an AppleScript command directly?                                                     |
 | 38:01      | Because yeah, also a very good question because for whatever reason, in 12.3, I couldn't put          |
@@ -850,10 +850,10 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 59:35      | copy and drag around blocks of actions, whether they're related to each other or not as a             |
 | 59:41      | result of a conditional or a, or a repeat block or something. I just like to select                   |
 | 59:45      | multiple actions and duplicate them over to another shortcut. If I've got them open in                |
-| 59:51      | split view on the iPad. And, and as part of that, it would be really nice to be able to               |
+| 59:51      | [[Split View]] on the iPad. And, and as part of that, it would be really nice to be able to               |
 | 59:58      | create reusable snippets, reusable blocks of actions that you could store somewhere in                |
 | 01:00:03   | shortcuts and then drop them in as units into your, into your shortcuts, because there's              |
-| 01:00:09   | a lot of reusable code that we do all the time. And you can set up in split view to                   |
+| 01:00:09   | a lot of reusable code that we do all the time. And you can set up in [[Split View]] to                   |
 | 01:00:15   | shortcuts and kind of move things across and do it that way. But having an actual library             |
 | 01:00:20   | of snippets, which is something that very much exists for people who are doing programming            |
 | 01:00:25   | and X code and that sort of thing would be fantastic and make the process for power users             |

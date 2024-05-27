@@ -976,7 +976,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 46:13      | You can add headers and footers along with watermarks to your documents.                              |
 | 46:17      | It also includes a precision edit tool, plus you can OCR documents.                                   |
 | 46:22      | PDF-Pen 11 is an exciting update, and the new version includes some seriously cool features           |
-| 46:27      | like split view mode for comparing pages in a document, a new font bar for easier text                |
+| 46:27      | like [[Split View]] mode for comparing pages in a document, a new font bar for easier text                |
 | 46:32      | editing, the option to edit multiple form fields at the same time, continuity camera                  |
 | 46:38      | support for scanning documents with your iPhone, the ability to add multiple items to the PDF-Pen     |
 | 46:43      | library simultaneously, and more.                                                                     |
