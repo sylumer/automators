@@ -1178,7 +1178,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:38:15   | to do that. And I had it pop up, asked me for the PDFs, and then combine them. And it's about            |
 | 01:38:21   | out a brand new PDF for me. And that was it done. And Automator really was the place to start with       |
 | 01:38:27   | that. And I know there are so many other ways I could have done this. There are web services,            |
-| 01:38:31   | I could have done it in the terminal. Maybe K [[eyboard Maestro]] has the option to do that.                  |
+| 01:38:31   | I could have done it in the terminal. Maybe [[Keyboard Maestro]] has the option to do that.                  |
 | 01:38:36   | But it worked with Automator and it was easy. So, I was wondering, do you use [[Automator]] for              |
 | 01:38:42   | anything? Yeah, I mean, first of all, it's sentimental. I mean, our friend, [[Sal Soghoian]],                 |
 | 01:38:47   | is the brain behind Auto, the Automator. And I'm like you a little sad because it started out            |
