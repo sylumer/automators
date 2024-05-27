@@ -375,16 +375,16 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 21:34      | That continues to be true for me.                                                                       |
 | 21:35      | I haven't noticed a market improvement of just the way shortcuts run it.                                |
 | 21:42      | There's not as much delay now, and I think that's a good thing.                                         |
-| 21:46      | But I have been really re-exploring [[Stage Manager]] because we got some Stage Manager                     |
+| 21:46      | But I have been really re-exploring [[Stage Manager]] because we got some [[Stage Manager]]                     |
 | 21:52      | automation, and it's not a lot of automation, it's ability to turn it off and on.                       |
-| 21:57      | But I could see like a world where I would use Stage Manager more.                                      |
+| 21:57      | But I could see like a world where I would use [[Stage Manager]] more.                                      |
 | 22:02      | It's not what I would call a power user feature, really.                                                |
 | 22:06      | There are some limitations on it.                                                                       |
 | 22:07      | But when I see these automation actions showing up, it makes me wish there was a little more            |
-| 22:12      | control we could have over Stage Manager.                                                               |
-| 22:15      | What if we could have sets of Stage Manager setups that could be saved and we could restore             |
+| 22:12      | control we could have over [[Stage Manager]].                                                               |
+| 22:15      | What if we could have sets of [[Stage Manager]] setups that could be saved and we could restore             |
 | 22:20      | them?                                                                                                   |
-| 22:21      | Kind of like a combination of [[Moom]] and Stage Manager.                                                   |
+| 22:21      | Kind of like a combination of [[Moom]] and [[Stage Manager]].                                                   |
 | 22:25      | I've been trying to roll my own version of that by turning it on and then having Moom                   |
 | 22:33      | window setup saved that I can run.                                                                      |
 | 22:36      | There is an [[AppleScript]] command to run a Moom setup.                                                    |
@@ -398,15 +398,15 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 23:12      | I will put a screenshot if we can figure out a way to do that.                                          |
 | 23:16      | I will put something in the show notes.                                                                 |
 | 23:19      | What I can do is I'll put a link to the bunch docs in here because Bunch actually has this              |
-| 23:25      | exact one listed in their Moom documentation section.                                                   |
-| 23:30      | I'll pop that into the show notes and just note that that's the AppleScript to run Moom.                |
+| 23:25      | exact one listed in their [[Moom]] documentation section.                                                   |
+| 23:30      | I'll pop that into the show notes and just note that that's the AppleScript to run [[Moom]].                |
 | 23:37      | Yes.                                                                                                    |
-| 23:38      | What I'm doing is I'm activating the stage manager, I'm arranging, and then I'm opening                 |
-| 23:44      | the apps that I want, and then I'm hitting a button in Moom that does it, and I can                     |
+| 23:38      | What I'm doing is I'm activating the [[Stage Manager]], I'm arranging, and then I'm opening                 |
+| 23:44      | the apps that I want, and then I'm hitting a button in [[Moom]] that does it, and I can                     |
 | 23:49      | open the apps also via automation.                                                                      |
 | 23:52      | I've been trying to figure out a way to do this with shortcuts only.                                    |
 | 23:55      | This would be a lot easier using Keyboard Maestro because it gives you more granular                    |
-| 23:59      | control, but the combination of open app plus that Moom AppleScript that you can embed in               |
+| 23:59      | control, but the combination of open app plus that [[Moom]] AppleScript that you can embed in               |
 | 24:08      | a shortcut gives me a way to assemble setups the way I want them, and then they're just                 |
 | 24:14      | shown on the left side of the screen.                                                                   |
 | 24:16      | The idea of this is to allow you to focus on just what you're working on.                               |
@@ -414,13 +414,13 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 24:25      | are hard to use because there's so many apps using them now, but like a grouping of your                |
 | 24:29      | comms apps, a grouping of your research apps, a grouping of your writing apps, and you just             |
 | 24:34      | pick on the grouping you want, and then it automatically appears, and you're creating                   |
-| 24:39      | them via automation with a combination of the open app plus that Moom command.                          |
+| 24:39      | them via automation with a combination of the open app plus that [[Moom]] command.                          |
 | 24:45      | That was a lot of words.                                                                                |
 | 24:46      | Does that make sense?                                                                                   |
 | 24:47      | Yeah, it does.                                                                                          |
 | 24:49      | I think for me, the part that's really missing, at least from my perspective, is I've been              |
-| 24:55      | using Stage Manager heavily on my iPad.                                                                 |
-| 24:58      | I love Stage Manager on the iPad.                                                                       |
+| 24:55      | using [[Stage Manager]] heavily on my iPad.                                                                 |
+| 24:58      | I love [[Stage Manager]] on the iPad.                                                                       |
 | 25:01      | It's great, at least for me, it works wonderfully.                                                      |
 | 25:04      | The part that's really missing are the shortcut sections because I can't use another app there          |
 | 25:11      | to do this.                                                                                             |
@@ -450,7 +450,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 27:04      | with this?                                                                                              |
 | 27:05      | You've already solved the problem, at least on the Mac, but I think this stuff needs to                 |
 | 27:08      | be more accessible to people.                                                                           |
-| 27:11      | If we could get it with the built-in stage manager to be reliable and make a shortcut                   |
+| 27:11      | If we could get it with the built-in [[Stage Manager]] to be reliable and make a shortcut                   |
 | 27:16      | someone could download and just run, I would love for that to work, and it's just not quite             |
 | 27:22      | there yet.                                                                                              |
 | 27:23      | No, no, that's the thing, and I think it's one of those things as well that people tend                 |

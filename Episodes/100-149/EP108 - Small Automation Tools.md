@@ -936,7 +936,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 37:05      | please.                                                             |
 | 37:06      | But this one I only want to show on display too or whatever.        |
 | 37:09      | So what I know you're using the betas.                              |
-| 37:11      | What do you think of stage manager as a window management           |
+| 37:11      | What do you think of [[Stage Manager]] as a window management           |
 | 37:15      | tool on the Mac?                                                    |
 | 37:16      | Let's put set aside the iPad, but just on the Mac.                  |
 | 37:20      | Haven't really used it on the Mac because I used it a few           |
@@ -948,12 +948,12 @@ In this episode, Rose and David explain some of their favourite small automation
 | 37:38      | I have 32 inch ultra wide and a studio display here.                |
 | 37:41      | And you know, there's some space behind it, but there's not         |
 | 37:45      | a border around the outside.                                        |
-| 37:48      | And that's where I feel like stage manager is, you know,            |
+| 37:48      | And that's where I feel like [[Stage Manager]] is, you know,            |
 | 37:51      | it's great for people who are using like two to three               |
 | 37:54      | applications at once.                                               |
 | 37:56      | But right now I have one, two, three, four, five, six,              |
 | 38:00      | seven applications visible in various ways.                         |
-| 38:05      | And like it's kind of doable with stage manager, but it             |
+| 38:05      | And like it's kind of doable with [[Stage Manager]], but it             |
 | 38:10      | just doesn't feel like it's the same kind of doable.                |
 | 38:13      | On Mac OS, I guess it's one of those things that for me,            |
 | 38:18      | this was not a problem needed solving for like the sort             |
@@ -993,15 +993,15 @@ In this episode, Rose and David explain some of their favourite small automation
 | 39:49      | or actually, no, I think the shortcut support for opening           |
 | 39:51      | things in split screen on iPadOS was there pretty quickly.          |
 | 39:56      | But, you know, that's something that you can do,                    |
-| 39:59      | but as far as I'm aware, stage manager just like spaces             |
+| 39:59      | but as far as I'm aware, [[Stage Manager]] just like spaces             |
 | 40:02      | doesn't have a way for you to really interact with it               |
 | 40:05      | from a nerdy perspective.                                           |
 | 40:08      | And the, hey, like I want these applications opened in this         |
-| 40:11      | particular stage manager set up.                                    |
+| 40:11      | particular [[Stage Manager]] set up.                                    |
 | 40:13      | Go, go, go.                                                         |
 | 40:14      | I don't think that's something we can do just yet.                  |
 | 40:16      | I mean, one of the problems with that is there's no way             |
-| 40:18      | to identify a specific stage or stage manager collection.           |
+| 40:18      | to identify a specific stage or [[Stage Manager]] collection.           |
 | 40:23      | You know, you don't name them like you would.                       |
 | 40:26      | I think automation would require, like automation would             |
 | 40:30      | require some identification and there's really no way               |
@@ -1010,14 +1010,14 @@ In this episode, Rose and David explain some of their favourite small automation
 | 40:36      | I think that's, that's the problem.                                 |
 | 40:38      | I mean, hopefully we're going to see that maybe in a point          |
 | 40:40      | update.                                                             |
-| 40:41      | I know I think stage manager is not releasing right away            |
+| 40:41      | I know I think [[Stage Manager]] is not releasing right away            |
 | 40:44      | with iOS 16 and macOS Ventura, is it?                               |
 | 40:46      | It's coming slightly later.                                         |
 | 40:49      | I want to say it's what they said at the keynote.                   |
 | 40:52      | I probably wrong about that now.                                    |
 | 40:53      | I think, I think it's supposed to release with the,                 |
 | 40:56      | with the general release.                                           |
-| 40:57      | I think stage manager is on the initial release,                    |
+| 40:57      | I think [[Stage Manager]] is on the initial release,                    |
 | 40:59      | but we'll see.                                                      |
 | 41:00      | I mean, it's definitely been evolving throughout the betas.         |
 | 41:04      | Yes. Yeah. And I honestly look forward to seeing what they          |

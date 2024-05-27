@@ -664,7 +664,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 49:26      | doing things like having, you know, when you've gone to a specific location or your focus            |
 | 49:32      | mode or whatever, being able to trigger time tracking, for me, makes it much more likely             |
 | 49:40      | that it'll happen. You know, I really love to save timers. In particular, I've had many              |
-| 49:45      | on my desk with Timery open, among other apps, using Stage Manager. But I love the fact that         |
+| 49:45      | on my desk with Timery open, among other apps, using [[Stage Manager]]. But I love the fact that         |
 | 49:52      | I do just kind of have like a, it's kind of like a widget grid, to be honest, of just                |
 | 49:56      | time trackers. And I can just tap on them and I can see an overview of what's what and               |
 | 50:01      | so on. And that works really well for me to be able to see what I'm tracking and, you                |

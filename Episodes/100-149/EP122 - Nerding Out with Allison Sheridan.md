@@ -283,12 +283,12 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 15:29      | hidden behind the applications. I can't actually see the files. So therefore they don't exist           |
 | 15:33      | anymore. So they get moved to the downloads folder. And I don't think it's been in the                  |
 | 15:37      | downloads folder for more than 10 days. Bye bye. But I do heavily automate my downloads                 |
-| 15:42      | folder to be fair. So if you stage manager, it's your desktop disappears too. So that's                 |
-| 15:47      | another way that it's invisible. Yeah, yeah, I have not gotten into stage manager. Alison,              |
-| 15:53      | do you use stage manager? I love it. Yeah, on the Mac, I don't find it super useful on                  |
+| 15:42      | folder to be fair. So if you [[Stage Manager]], it's your desktop disappears too. So that's                 |
+| 15:47      | another way that it's invisible. Yeah, yeah, I have not gotten into [[Stage Manager]]. Alison,              |
+| 15:53      | do you use [[Stage Manager]]? I love it. Yeah, on the Mac, I don't find it super useful on                  |
 | 15:58      | the iPad. But on the Mac, it's great for me because I have a habit of opening 8,000 windows             |
 | 16:03      | and 8,000 applications. And I get myself a little bit crazy. And then I just have to                    |
-| 16:07      | quit everything and start over. But pretty soon it grows. And by using stage manager,                   |
+| 16:07      | quit everything and start over. But pretty soon it grows. And by using [[Stage Manager]],                   |
 | 16:11      | I've got these piles that I can go, Oh, I need a, I need to find a window. Let me pull it               |
 | 16:14      | out of the pile into this group. And then I can play around in that. And it works in a way that         |
 | 16:19      | that space is just never, never clicked for me. Fair enough. Yeah, I found it's the opposite way        |
@@ -296,7 +296,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 16:31      | because I so heavily use Moom to set up my spaces with bunch, so bunch will like close apps, open       |
 | 16:37      | apps, hide apps and stuff for me and then use Moom to put everything in like the right place.           |
 | 16:42      | But I guess because of the way that I do things and I had already grown accustomed to doing that,       |
-| 16:48      | I tried using stage manager. It was a very short lived five minutes on my work machine before I         |
+| 16:48      | I tried using [[Stage Manager]]. It was a very short lived five minutes on my work machine before I         |
 | 16:52      | was like, I'm not going to be at all productive today if I'm trying to fight stage managers to          |
 | 16:56      | do my job. And I've tried it multiple times on my personal machines and just haven't got                |
 | 17:00      | anywhere with it yet. I think for the super organised, it's, it's like a nightmare. It's                |
@@ -310,23 +310,23 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 17:39      | will or against your, your nature, I should say. I can't keep it organised. I've done that. I've        |
 | 17:44      | set up moon and say, okay, here's where everything goes. And then within 15 seconds, I want that        |
 | 17:48      | window in the middle. I want everything I'm working on to always be in the middle. And if you have it   |
-| 17:52      | all organised all over the place, you can't. Yeah. And that is perfect for stage manager                |
+| 17:52      | all organised all over the place, you can't. Yeah. And that is perfect for [[Stage Manager]]                |
 | 17:57      | for the way you describe your work else. And I like Rose, I have, I call them setups. Like              |
 | 18:03      | before we start recording today, I said, do automators set up and it set up all the automators          |
-| 18:07      | tabs and the recording apps and it laid out the windows exactly. And if you have stage manager          |
+| 18:07      | tabs and the recording apps and it laid out the windows exactly. And if you have [[Stage Manager]]          |
 | 18:12      | running the whole system just barfs all over your screen. It doesn't know what to do. It's a huge       |
 | 18:17      | problem if you have pre-canned like setups. And so I, I tried it. I tried to find alternative           |
-| 18:24      | ways to do setups with stage manager and ultimately I turned it off. So, you know, I'm like Rose in     |
+| 18:24      | ways to do setups with [[Stage Manager]] and ultimately I turned it off. So, you know, I'm like Rose in     |
 | 18:29      | that regard. But, but I think like for my wife, who's not someone who's going to program individual     |
-| 18:36      | setups on her computer, stage manager handles a big problem, you know, makes it much easier to see      |
+| 18:36      | setups on her computer, [[Stage Manager]] handles a big problem, you know, makes it much easier to see      |
 | 18:42      | this group versus that group. And I don't think it's done yet, but I think it's progress.               |
 | 18:49      | Yeah. Well, I think it's nice that there's just ways for different people. Bart is a hard core          |
-| 18:53      | spaces user, found a stage manager to be a nightmare. I discovered the other day I was                  |
+| 18:53      | spaces user, found a [[Stage Manager]] to be a nightmare. I discovered the other day I was                  |
 | 18:59      | testing it, you can actually do both. Yeah. You can have individual spaces with individual              |
-| 19:05      | stage manager groups. So like if you have a communication space, you can have a group with              |
+| 19:05      | [[Stage Manager]] groups. So like if you have a communication space, you can have a group with              |
 | 19:09      | your social media and a group with your email or whatever, and you can switch between them.             |
 | 19:14      | Yeah. And I love the idea of that. I wish spaces itself had more integration with everything else       |
-| 19:20      | because, you know, stage manager is starting to get there with things like shortcut support,            |
+| 19:20      | because, you know, [[Stage Manager]] is starting to get there with things like shortcut support,            |
 | 19:25      | but spaces is really difficult. But I have to say, like if I am in the office for work,                 |
 | 19:31      | and I take my laptop with me, because, you know, I have to kind of do my job while I'm                  |
 | 19:35      | sitting in an office. But what I'll do is because I've only got like a 14 inch or 16 inch screen        |

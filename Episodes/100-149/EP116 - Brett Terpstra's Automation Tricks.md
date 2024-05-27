@@ -411,16 +411,16 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 34:18      | And it gives me the ability to share all that. It's just great. It's really fun.                          |
 | 34:23      | What do you think about just as a little aside, window management these days,                             |
 | 34:29      | I know a bunch is not a window manager, but how are you managing windows right now?                       |
-| 34:34      | As stage manager at all on your radar? Yes. So I've been playing, I've been playing                       |
-| 34:40      | with stage manager. I find it a little bit clunky, but it's better than spaces. I never                   |
+| 34:34      | Is [[Stage Manager]] at all on your radar? Yes. So I've been playing, I've been playing                       |
+| 34:40      | with [[Stage Manager]]. I find it a little bit clunky, but it's better than [[Spaces]]. I never                   |
 | 34:47      | get into spaces. Sure. My brain wants everything more readily accessible without having to worry          |
-| 34:56      | about which desktop a thing is on. So stage manager, once I get little stages set up well,                |
-| 35:05      | it works until I reboot and have to rebuild my stages. But Moom, I mean, really is what I use for         |
+| 34:56      | about which desktop a thing is on. So [[Stage Manager]], once I get little stages set up well,                |
+| 35:05      | it works until I reboot and have to rebuild my stages. But [[Moom]], I mean, really is what I use for         |
 | 35:15      | most window management. And I'm a big fan of, like, if my bunch isn't focusing an app for my              |
 | 35:22      | context, just holding down command option and clicking an app in the dock, you know, hides                |
 | 35:29      | everything except for that app. And a lot of times when I'm switching kind of modes or contacts,          |
 | 35:35      | I will just command option, click an app in my dock and hide everything else.                             |
-| 35:42      | I really feel like bunch really could make the stage manager experience a lot better                      |
+| 35:42      | I really feel like bunch really could make the [[Stage Manager]] experience a lot better                      |
 | 35:48      | in terms of setting up the various stages and then dropping them down to the side bar                     |
 | 35:56      | so you can just switch between them. I wonder if there's any interface for that. I have not               |
 | 36:00      | looked into it yet. As far as I can tell, there's none. Like, you can't address it,                       |

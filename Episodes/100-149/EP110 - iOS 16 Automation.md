@@ -149,8 +149,8 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 08:00      | always go perfectly smoothly. So fingers crossed that will end up being okay. But there's no             |
 | 08:05      | new iPad OS yet, David. iOS or iPad OS 16.0 is dead. It's not coming. They told us the                   |
 | 08:12      | first one we're getting is 16.1. Yeah, which doesn't entirely surprise me.                               |
-| 08:17      | No, they did a lot this year with stage manager and the iPhone is where Apple makes the most             |
-| 08:25      | amount of money. I said this on Mac Power users last week, but that's the one thing                      |
+| 08:17      | No, they did a lot this year with [[Stage Manager]] and the iPhone is where Apple makes the most             |
+| 08:25      | amount of money. I said this on [[Mac Power Users]] last week, but that's the one thing                      |
 | 08:29      | that could get Tim Cook fired would be botching an iPhone launch. So, of course, they're going           |
 | 08:34      | to spend a lot of time, you know, making sure the iPhone is right on target and everything's             |
 | 08:39      | good when they launch that and whether it releases on Friday or the phone Wednesday,                     |

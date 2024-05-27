@@ -775,7 +775,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:08:21   | to be taking advantage of this for logging your transactions as you do them in your                      |
 | 01:08:30   | app of choice. So yeah, this has gave you really great. Going back to the Mac, we got some updated       |
 | 01:08:36   | automations and shortcuts related to window management. Well, just before you go to the Mac,             |
-| 01:08:43   | David, we should also mention stage manager and displays were our automation triggers on the iPad        |
+| 01:08:43   | David, we should also mention [[Stage Manager]] and displays were our automation triggers on the iPad        |
 | 01:08:48   | as well, so that it's a bit more like a Mac to an extent. That's true. That's true. Yeah, stage          |
 | 01:08:53   | manager has blended more between the two platforms, and you can now create that as a trigger.            |
 | 01:08:59   | Yeah, this is really great. And of course, the bee that I completely forgot to mention,                  |

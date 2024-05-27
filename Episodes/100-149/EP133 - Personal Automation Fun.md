@@ -589,7 +589,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 35:27      | If you're into focus modes, you can have it trigger whatever focus mode it is you need                 |
 | 35:32      | when you're doing that setup.                                                                          |
 | 35:34      | And like all of that like system level stuff I find is actually easier in shortcuts than               |
-| 35:39      | it is in Keyboard Maestro.                                                                             |
+| 35:39      | it is in [[Keyboard Maestro]].                                                                             |
 | 35:41      | That's not something that I expected to happen.                                                        |
 | 35:44      | And I like to be able to just kind of choose from the menu and set the actions up like                 |
 | 35:49      | I want to open up OmniFocus to a specific perspective.                                                 |
@@ -598,7 +598,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 36:03      | But I have found that it works much better than I expected.                                            |
 | 36:09      | Some of the things that are better than Keyboard Maestro is I don't have to deal with the              |
 | 36:12      | pause command anymore.                                                                                 |
-| 36:13      | In Keyboard Maestro, I'd always have to put a bunch of pauses in there so everything                   |
+| 36:13      | In [[Keyboard Maestro]], I'd always have to put a bunch of pauses in there so everything                   |
 | 36:16      | could catch up for some reason shortcuts is able to just do this stuff in order.                       |
 | 36:20      | Maybe that's kind of because it's part of the operating system.                                        |
 | 36:26      | But I think it's fun and it's always interesting taking existing automation and switching it           |
@@ -609,16 +609,16 @@ Rose and David share a collection of their favourite personal automations rangin
 | 36:50      | In the past, I've done things like have a space that has all my communications apps                    |
 | 36:54      | in it and then I've had a space where I do work and a space where I do utility work and                |
 | 36:58      | things like that.                                                                                      |
-| 37:01      | And another thing I've tested is Stage Manager because I'm really into contextual computing            |
+| 37:01      | And another thing I've tested is [[Stage Manager]] because I'm really into contextual computing            |
 | 37:06      | and focused work, I would really like to be able to teach it with the basic tools without              |
 | 37:11      | automation and I've been struggling to find kind of a formula for that that normal people              |
-| 37:17      | can use in Stage Manager.                                                                              |
-| 37:19      | I think it would have to be on one space and Stage Manager, I just don't think is up to                |
+| 37:17      | can use in [[Stage Manager]].                                                                              |
+| 37:19      | I think it would have to be on one space and [[Stage Manager]], I just don't think is up to                |
 | 37:23      | it.                                                                                                    |
 | 37:24      | I just gave up on, you know.                                                                           |
 | 37:26      | Yeah.                                                                                                  |
 | 37:27      | Yeah.                                                                                                  |
-| 37:28      | I kind of have just given up on automating Stage Manager and I just open Windows and                   |
+| 37:28      | I kind of have just given up on automating [[Stage Manager]] and I just open Windows and                   |
 | 37:35      | have moved them around, I don't do anything else.                                                      |
 | 37:38      | Yeah.                                                                                                  |
 | 37:39      | So the last week, what I've been doing is I've killed all my spaces, I've set up now                   |

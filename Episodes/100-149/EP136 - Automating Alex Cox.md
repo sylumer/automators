@@ -675,9 +675,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:07:23   | you know, make sure it's compiled for it and check a checkbox. You know, it's not going to be           |
 | 01:07:28   | perfect if they just go, yeah, sure, I'll just check the box. Let's go for this. But it should          |
 | 01:07:34   | work. So my understanding is, yeah, shortcuts is there on or will be there on Vision OS.                |
-| 01:07:40   | And yeah, if Final Cut Pro is going to run on Vision OS, I feel like most things should be              |
+| 01:07:40   | And yeah, if [[Final Cut Pro]] is going to run on visionOS, I feel like most things should be              |
 | 01:07:53   | able to as a digital button should be easy to press. But I like with the way that, you know,            |
-| 01:08:07   | the iPad has Stage Manager and iOS has different focus modes. I want that in front of my face.          |
+| 01:08:07   | the iPad has [[Stage Manager]] and iOS has different focus modes. I want that in front of my face.          |
 | 01:08:17   | Like I want reminders of what I should or could be doing without having to, you know, do something      |
 | 01:08:29   | that, I don't know, it's difficult to explain because so much of it is really,                          |
 | 01:08:34   | it's so different for everyone, their needs, but also their abilities. My biggest, I think,             |

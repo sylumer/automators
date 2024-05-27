@@ -65,14 +65,14 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 00:34      | We wanted to get into that deep today, so we're going to be doing that.                                |
 | 00:38      | Yeah.                                                                                                  |
 | 00:39      | I've been playing with it on and off a bit, and I've been fortunate that I've been playing             |
-| 00:42      | a lot with stage manager over the last couple of weeks and months, which of course lets                |
+| 00:42      | a lot with [[Stage Manager]] over the last couple of weeks and months, which of course lets                |
 | 00:47      | me get a little bit of a head start because that new feature is on both iPad OS and Mac                |
 | 00:52      | OS, which is quite nice.                                                                               |
 | 00:55      | It's good to see some more features coming to all the places that we want to use them,                 |
 | 01:00      | even if they're not quite there yet necessarily in the form that you and I would both love             |
 | 01:04      | to see.                                                                                                |
 | 01:05      | Yeah.                                                                                                  |
-| 01:06      | Well, I definitely want to talk about stage manager not only as a feature, but also in                 |
+| 01:06      | Well, I definitely want to talk about [[Stage Manager]] not only as a feature, but also in                 |
 | 01:10      | terms of automation because there is something to talk about there.                                    |
 | 01:15      | But either way, we're going to get to that.                                                            |
 | 01:17      | But also today on the bonus section, Automator's Macs, Rose has an automated water bottle,             |
@@ -930,11 +930,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 53:05      | so that you actually wanted to have Finder show up instead.                                            |
 | 53:10      | So yeah, I'm glad that they seem to have slimmed this down a little bit just to make                   |
 | 53:16      | it easier for us.                                                                                      |
-| 53:17      | So whereas I was curious, now we're hitting the second year with shortcuts on the Mac,                 |
+| 53:17      | So whereas I was curious, now we're hitting the second year with [[Shortcuts]] on the Mac,                 |
 | 53:21      | and it's getting better and faster and more powerful.                                                  |
-| 53:24      | Where do you draw the line between Keyboard Maestro and shortcuts at this point in time?               |
+| 53:24      | Where do you draw the line between [[Keyboard Maestro]] and [[Shortcuts]] at this point in time?               |
 | 53:32      | I mean, it really depends.                                                                             |
-| 53:33      | Like, I still find myself struggling a little bit to remember to run shortcuts on the Mac.             |
+| 53:33      | Like, I still find myself struggling a little bit to remember to run [[Shortcuts]] on the Mac.             |
 | 53:38      | You know, I do, and I've got them built into a number of other places.                                 |
 | 53:44      | But I find that for me on the Mac, it's the sort of thing where Keyboard Maestro will                  |
 | 53:49      | fire off a, you know, a run this shortcut action, or Bunch will fire off a run this shortcut           |
@@ -943,7 +943,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 54:03      | You know, there are some exceptions.                                                                   |
 | 54:04      | I've got some stream type buttons, which will allow me to select certain focus modes                   |
 | 54:08      | or various other things which are running shortcuts to do this.                                        |
-| 54:13      | But it is predominantly still Keyboard Maestro, Bunch, you know, [[AppleScript]]s still in there.         |
+| 54:13      | But it is predominantly still [[Keyboard Maestro]], [[Bunch]], you know, [[AppleScript]]s still in there.         |
 | 54:21      | You know, all of the automation tools are there.                                                       |
 | 54:24      | And you know, shortcuts isn't bad or wrong.                                                            |
 | 54:27      | It's just not quite there yet.                                                                         |
@@ -952,8 +952,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 54:39      | Like you can tell it's come from iOS and it's getting better.                                          |
 | 54:42      | It's getting a lot better.                                                                             |
 | 54:43      | But, you know, and I think some of this is the fact that, you know, just there isn't                   |
-| 54:49      | an easy way for them to integrate with something like Stage Manager or Spaces.                         |
-| 54:54      | You know, like Spaces famously doesn't actually have an API.                                           |
+| 54:49      | an easy way for them to integrate with something like [[Stage Manager]] or [[Spaces]].                         |
+| 54:54      | You know, like [[Spaces]] famously doesn't actually have an API.                                           |
 | 54:58      | And I don't mean like a REST API, like a web-based one.                                                |
 | 55:01      | I mean, like, it's just not accessible to programmers.                                                 |
 | 55:04      | So you can't have an application say, hey, I'm going to go and open up in a new space.                 |
@@ -963,25 +963,25 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 55:21      | of don't really know about that or how to handle it or anything.                                       |
 | 55:26      | And you know, so if you're right-clicking in your dock, you can put something in a particular          |
 | 55:29      | space or on a specific desktop or in all the spaces, but that's kind of as good as it gets.            |
-| 55:34      | So it's not surprising that Shortcuts doesn't have support for things like that, that other            |
+| 55:34      | So it's not surprising that [[Shortcuts]] doesn't have support for things like that, that other            |
 | 55:38      | automation apps have kind of found ways to work around.                                                |
 | 55:42      | But it feels like, you know, especially with things like Safari tab groups and so on, not              |
 | 55:47      | yet having actions, despite the fact that they're on iOS, like they're still a way to                  |
 | 55:51      | go.                                                                                                    |
-| 55:52      | And I don't know how much of that Shortcuts versus other teams at Apple, or if it's a                  |
+| 55:52      | And I don't know how much of that [[Shortcuts]] versus other teams at Apple, or if it's a                  |
 | 55:56      | case of like they need to find the time to work together.                                              |
 | 55:59      | Yeah, I feel like there are lines for me, too.                                                         |
-| 56:02      | Like Shortcuts for me is, there are some things Shortcuts are better than Keyboard Maestro.            |
+| 56:02      | Like [[Shortcuts]] for me is, there are some things [[Shortcuts]] are better than [[Keyboard Maestro]].            |
 | 56:07      | You know, I've talked about this before, like I think contact management is easier with                |
-| 56:11      | Shortcuts than with Keyboard Maestro.                                                                  |
+| 56:11      | [[Shortcuts]] than with [[Keyboard Maestro]].                                                                  |
 | 56:13      | And some of the other kind of native data stuff that just for whatever reason aren't                   |
-| 56:18      | that accessible through Keyboard Maestro without resorting to [[AppleScript]].                            |
-| 56:23      | I also feel like Shortcuts is really good at like multiple app simple Shortcuts.                       |
+| 56:18      | that accessible through [[Keyboard Maestro]] without resorting to [[AppleScript]].                            |
+| 56:23      | I also feel like [[Shortcuts]] is really good at like multiple app simple shortcuts.                       |
 | 56:29      | Like project creation is a good example for me.                                                        |
-| 56:32      | Like when I create a new project, I usually create an OmniFocus task list.                             |
-| 56:37      | If it's a labs thing or that I use Kraft, we have a shared platform for Kraft.                         |
-| 56:43      | So I create a Kraft document and I add a calendar event.                                               |
-| 56:46      | Things like that, I feel like Shortcuts is actually better than Keyboard Maestro for                   |
+| 56:32      | Like when I create a new project, I usually create an [[OmniFocus]] task list.                             |
+| 56:37      | If it's a labs thing or that I use [[Craft]], we have a shared platform for [[Craft]].                         |
+| 56:43      | So I create a [[Craft]] document and I add a calendar event.                                               |
+| 56:46      | Things like that, I feel like [[Shortcuts]] is actually better than [[Keyboard Maestro]] for                   |
 | 56:51      | and it's multi-platform.                                                                               |
 | 56:52      | So all the time I put into creating it means I can run it on any device and the project                |
 | 56:57      | creation happens.                                                                                      |
@@ -1277,10 +1277,10 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:15:28   | Once again, that is hover, H-O-B-E-R.com/automators to get that 10% off and show your            |
 | 01:15:34   | support for the automators.                                                                            |
 | 01:15:36   | Thank you, hover, for all of your support of the automators and relay FM.                              |
-| 01:15:40   | All right, so we teach stage manager at the beginning of the episode.                                  |
+| 01:15:40   | All right, so we teach [[Stage Manager]] at the beginning of the episode.                                  |
 | 01:15:46   | Let's talk about that.                                                                                 |
-| 01:15:47   | I guess I want to talk generally about stage manager, but also the automation angle.                   |
-| 01:15:52   | Let's start with stage manager.                                                                        |
+| 01:15:47   | I guess I want to talk generally about [[Stage Manager]], but also the automation angle.                   |
+| 01:15:52   | Let's start with [[Stage Manager]].                                                                        |
 | 01:15:54   | Did you turn it on or are you using it?                                                                |
 | 01:15:56   | I'm sure you've been testing it.                                                                       |
 | 01:15:58   | Yeah.                                                                                                  |
@@ -1336,7 +1336,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:19:14   | It's more of a layering like you were talking about.                                                   |
 | 01:19:17   | That actually is really useful.                                                                        |
 | 01:19:19   | I think it's good.                                                                                     |
-| 01:19:21   | I feel like Stage Manager has taken a lot of heat from the echo chamber of Apple people.               |
+| 01:19:21   | I feel like [[Stage Manager]] has taken a lot of heat from the echo chamber of Apple people.               |
 | 01:19:29   | I think it's better than people are giving it credit for it, but it does give you that                 |
 | 01:19:33   | ability to set certain segments of apps.                                                               |
 | 01:19:36   | That's great.                                                                                          |
@@ -1359,26 +1359,26 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:20:35   | She wants to be productive, but she's not going to listen to the automators.                           |
 | 01:20:38   | I think for her, having a common frame of reference that you have, the little magic                    |
 | 01:20:43   | groupings of apps on the side of the screen, you click it and all your window setups change,           |
-| 01:20:48   | that makes a lot more sense to her than something like Spaces does.                                    |
+| 01:20:48   | that makes a lot more sense to her than something like [[Spaces]] does.                                    |
 | 01:20:51   | I think for basic to medium users, I think it's going to be a big win.                                 |
 | 01:20:58   | There's also things on the Mac I like better about it, though, because I think one of the              |
 | 01:21:03   | things you can do on Mac that people don't realise you can combine these things.                       |
-| 01:21:07   | I still have a comms space, but with Mission, I'm sorry, with Stage Manager on it, right?              |
+| 01:21:07   | I still have a comms space, but with Mission, I'm sorry, with [[Stage Manager]] on it, right?              |
 | 01:21:13   | Yeah, I'm sorry.                                                                                       |
 | 01:21:14   | I'm talking too many different things.                                                                 |
-| 01:21:16   | With Stage Manager enabled, I can actually have that page change its setup based on what               |
+| 01:21:16   | With [[Stage Manager]] enabled, I can actually have that page change its setup based on what               |
 | 01:21:21   | I'm doing.                                                                                             |
 | 01:21:23   | Social media is a thing.                                                                               |
-| 01:21:24   | I have a Discord server for the MacSparky Labs, and I have Twitter, and I have different              |
+| 01:21:24   | I have a [[Discord]] server for the MacSparky Labs, and I have [[Twitter]], and I have different              |
 | 01:21:29   | social media things.                                                                                   |
-| 01:21:30   | Well, if I want to work on social media, I can have Stage Manager create a grouping of                 |
+| 01:21:30   | Well, if I want to work on social media, I can have [[Stage Manager]] create a grouping of                 |
 | 01:21:34   | that on my comms page, whereas if I want to grind through email, it's something different.             |
 | 01:21:40   | I actually find that that is useful to me.                                                             |
 | 01:21:43   | Another thing people, I think, aren't realising, or maybe you realise it, but you just haven't         |
-| 01:21:47   | tried it, is that the Stage Manager groupings can be turned off, so you only see them when             |
+| 01:21:47   | tried it, is that the [[Stage Manager]] groupings can be turned off, so you only see them when             |
 | 01:21:53   | you mouse to the far left or right of the screen.                                                      |
-| 01:21:56   | Or even if they aren't turned off, if you use Window Management to put your window over                |
-| 01:22:01   | where the Stage Manager groupings are, they slide out of the way.                                      |
+| 01:21:56   | Or even if they aren't turned off, if you use window management to put your window over                |
+| 01:22:01   | where the [[Stage Manager]] groupings are, they slide out of the way.                                      |
 | 01:22:06   | They don't overlap your active window.                                                                 |
 | 01:22:09   | Then the way you access them, once again, is mouse over to that side.                                  |
 | 01:22:13   | There really are a lot of options with this, which is great.                                           |
@@ -1399,20 +1399,20 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:23:22   | Because there is no shortcut support, and it seems like it's kind of like it remembers                 |
 | 01:23:31   | stuff, but it just doesn't feel like you can push things into it particularly easily.                  |
 | 01:23:38   | One thing I have found as a side note that I should mention specifically on macOS, I've                |
-| 01:23:42   | not yet found a way to fix this on the iPad, is if you click the stage manager icon in                 |
-| 01:23:47   | the menu bar, and then you click stage manager settings, there's an option to show windows             |
+| 01:23:42   | not yet found a way to fix this on the iPad, is if you click the [[Stage Manager]] icon in                 |
+| 01:23:47   | the menu bar, and then you click [[Stage Manager]] settings, there's an option to show windows             |
 | 01:23:53   | from an application.                                                                                   |
 | 01:23:54   | I've changed it from all at once to one at a time.                                                     |
 | 01:23:58   | That has made this much more Mac-like for me, because one of the things we had when we                 |
 | 01:24:03   | were preparing the show today, David, is you found that you were trying to open a shortcut,            |
-| 01:24:09   | and it was like putting you in the wrong stage manager, and it was in the wrong window.                |
+| 01:24:09   | and it was like putting you in the wrong [[Stage Manager]], and it was in the wrong window.                |
 | 01:24:16   | Being able to deal with them one at a time, what happens?                                              |
 | 01:24:23   | It doesn't quite work the exact same way that you'd expect, but it puts a little stack                 |
 | 01:24:29   | of that app icons in the left menu, but then you can easily drag one of them into the space            |
 | 01:24:34   | that you want to be in.                                                                                |
 | 01:24:39   | That for me is an improvement at any rate, so that I can easily combine the two things                 |
 | 01:24:46   | that I need together.                                                                                  |
-| 01:24:48   | I've got now on that Mac, I've got a shortcut and OmniFocus open on the same stage manager             |
+| 01:24:48   | I've got now on that Mac, I've got a shortcut and OmniFocus open on the same [[Stage Manager]]             |
 | 01:24:54   | view.                                                                                                  |
 | 01:24:56   | It is a little bit strange, I find it works a little better when the dock ends up being                |
 | 01:25:00   | hidden.                                                                                                |
@@ -1424,7 +1424,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:25:31   | It's just not addressable as an automation tool, and that makes using it more effectively              |
 | 01:25:38   | way harder.                                                                                            |
 | 01:25:40   | Getting back to my idea of workspaces customised to the type of work you're doing, I should            |
-| 01:25:45   | be able to jump to a space or to a stage manager grouping when I want to do that type of work.         |
+| 01:25:45   | be able to jump to a space or to a [[Stage Manager]] grouping when I want to do that type of work.         |
 | 01:25:51   | I don't know.                                                                                          |
 | 01:25:52   | One of the problems I can see is that how does it know which one you want?                             |
 | 01:25:57   | It doesn't give you the ability to name groupings.                                                     |
@@ -1435,7 +1435,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:26:13   | Yeah.                                                                                                  |
 | 01:26:14   | It's one of those things.                                                                              |
 | 01:26:15   | If you go into the system settings app, which was system preferences before, and you click             |
-| 01:26:20   | on desktop and dock, then if you scroll down a little bit, you do see stage manager, and               |
+| 01:26:20   | on desktop and dock, then if you scroll down a little bit, you do see [[Stage Manager]], and               |
 | 01:26:24   | you can toggle that on and off, and you can click customise, which opens the same options              |
 | 01:26:28   | that you get from the menu bar.                                                                        |
 | 01:26:31   | It kind of feels like, well, I'm in here, oh, hey, mission control.                                    |
@@ -1447,7 +1447,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:26:59   | on shortcuts, and then you see show desktop, now shortcut for show desktop.                            |
 | 01:27:05   | Okay, cool.                                                                                            |
 | 01:27:06   | Mission control, keyboard shortcut, application windows, keyboard shortcut, wait, where did            |
-| 01:27:10   | stage manager go?                                                                                      |
+| 01:27:10   | [[Stage Manager]] go?                                                                                      |
 | 01:27:11   | Yeah.                                                                                                  |
 | 01:27:12   | Isn't there a more button here or something?                                                           |
 | 01:27:14   | Yeah.                                                                                                  |
@@ -1467,9 +1467,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:27:51   | And then I go, okay, app shortcuts.                                                                    |
 | 01:27:52   | I'll click on a plus and add a new shortcut for mission control.                                       |
 | 01:27:56   | Only mission control is not listed in the applications.                                                |
-| 01:27:59   | So, sorry, mission control is, but stage manager isn't, and it just, I don't know, it feels            |
+| 01:27:59   | So, sorry, mission control is, but [[Stage Manager]] isn't, and it just, I don't know, it feels            |
 | 01:28:07   | like somebody's missed something there.                                                                |
-| 01:28:09   | It feels like the same people who did spaces have done stage manager, and then they've been            |
+| 01:28:09   | It feels like the same people who did spaces have done [[Stage Manager]], and then they've been            |
 | 01:28:14   | told, like, they've got, like, to a point where it's like, okay, this could be a really                |
 | 01:28:18   | great and useful and interesting feature.                                                              |
 | 01:28:20   | You just need to add, like, some keyboard shortcuts and an API for it, and they've been                |
@@ -1478,7 +1478,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:28:28   | Thank you very much.                                                                                   |
 | 01:28:29   | Have a nice day.                                                                                       |
 | 01:28:30   | You know, and yeah, I just, I wish, like, there were easier ways to integrate with this stuff.         |
-| 01:28:36   | Like, how do I change applications in stage manager with a keyboard?                                   |
+| 01:28:36   | Like, how do I change applications in [[Stage Manager]] with a keyboard?                                   |
 | 01:28:41   | To make it more baffling on the iPad, they have keyboard shortcuts, not a lot, but, like,              |
 | 01:28:46   | the function left and right arrow move between what they call window groups, which is stage            |
 | 01:28:50   | manager groups.                                                                                        |
@@ -1504,12 +1504,12 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:30:00   | Yes.                                                                                                   |
 | 01:30:01   | Yeah, you do.                                                                                          |
 | 01:30:02   | Um, one thing I didn't check, which I should check, so I'm going to look now, uh, is whether           |
-| 01:30:07   | or not there were hot corners for stage manager.                                                       |
+| 01:30:07   | or not there were hot corners for [[Stage Manager]].                                                       |
 | 01:30:10   | Um, and I can see there's a lot of hot corners, uh, still locking your screen, putting your            |
 | 01:30:15   | display to sleep and, uh, display screensaver.                                                         |
 | 01:30:18   | All of my, um, hot corners have been duplicated by the way, David.                                     |
 | 01:30:22   | So like if I press the command key, then apparently like I can have it do, uh, one thing, but          |
-| 01:30:28   | uh, I'm not seeing, uh, stage manager in here.                                                         |
+| 01:30:28   | uh, I'm not seeing, uh, [[Stage Manager]] in here.                                                         |
 | 01:30:31   | I've got mission control and I've got application windows and the desktop, um, or notification         |
 | 01:30:36   | centre or launch pad.                                                                                  |
 | 01:30:37   | But that seems to be as close to stage management as we get in, uh, uh, you know, that sort            |
@@ -1520,12 +1520,12 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:30:51   | And I'm really like intrigued by it.                                                                   |
 | 01:30:53   | And I have to say the shortcut sections work pretty well.                                              |
 | 01:30:56   | Like open this application, um, and, um, like, uh, it's still set to split screen, um, with            |
-| 01:31:03   | this other application, but that works as stage manager too.                                           |
+| 01:31:03   | this other application, but that works as [[Stage Manager]] too.                                           |
 | 01:31:06   | Like that's fine.                                                                                      |
 | 01:31:07   | That, that works pretty well, but yeah, I think that's kind of as close as we've managed               |
 | 01:31:11   | to get though, uh, the mission control actions for, um, moving windows, finding windows and            |
 | 01:31:16   | so on.                                                                                                 |
-| 01:31:17   | They work with stage manager enabled mostly, um, I've, I've had a couple of crashes, but               |
+| 01:31:17   | They work with [[Stage Manager]] enabled mostly, um, I've, I've had a couple of crashes, but               |
 | 01:31:21   | I think that, you know, there's a lot of moving pieces when you're on a beta.                          |
 | 01:31:25   | So I can't say that that shortcuts or that's mission control or Mac OS, it could have been             |
 | 01:31:29   | all, all of the above.                                                                                 |
@@ -1539,16 +1539,16 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:31:48   | But, uh, if not, we're just going to all have to cross our fingers and sit and wait and                |
 | 01:31:51   | see.                                                                                                   |
 | 01:31:52   | Yeah.                                                                                                  |
-| 01:31:53   | One of the, the little hacks I've done using stage manager for window placement, because               |
+| 01:31:53   | One of the, the little hacks I've done using [[Stage Manager]] for window placement, because               |
 | 01:31:57   | I still use moon for window placement.                                                                 |
 | 01:31:59   | It's just so easy.                                                                                     |
 | 01:32:00   | Um, but, you know, your traditional window sizes that go to the edge of the screen will,               |
-| 01:32:08   | you know, move stage manager off the screen and sometimes you want to do that.                         |
+| 01:32:08   | you know, move [[Stage Manager]] off the screen and sometimes you want to do that.                         |
 | 01:32:12   | Sometimes you don't.                                                                                   |
 | 01:32:13   | So I've added extra moon shortcuts, some of which resize the stuff going to the left                   |
 | 01:32:18   | slightly, not all the way to the left.                                                                 |
 | 01:32:21   | And, uh, I can just very quickly jump between like full left or partial left.                          |
-| 01:32:25   | If I want to be able to see the stage manager stuff show up.                                           |
+| 01:32:25   | If I want to be able to see the [[Stage Manager]] stuff show up.                                           |
 | 01:32:28   | So yes.                                                                                                |
 | 01:32:29   | Yeah.                                                                                                  |
 | 01:32:30   | That's the obvious little thing, but that, that's like, that's the automation I'm doing                |
@@ -1582,11 +1582,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:34:05   | And I mean, the thing that I would really love David, I, I really desperately want this                |
 | 01:34:10   | is a, I want these to sync.                                                                            |
 | 01:34:14   | I want my mission control to be able to, to work between devices so I can have, or sorry,              |
-| 01:34:22   | my stage manager to work so I can have a stage, but it's a portable stage, you know, why can't         |
+| 01:34:22   | my [[Stage Manager]] to work so I can have a stage, but it's a portable stage, you know, why can't         |
 | 01:34:27   | I take it with me?                                                                                     |
 | 01:34:28   | And I know stages develop into theatres, theatres don't fit in your pocket.                            |
 | 01:34:32   | Um, but this is Apple, they make anything happen.                                                      |
-| 01:34:34   | So it would be great if they could, you know, make stage manager at least somewhat portable.           |
+| 01:34:34   | So it would be great if they could, you know, make [[Stage Manager]] at least somewhat portable.           |
 | 01:34:38   | Um, you know, and if somebody at Apple listens to that idea and goes, well, yeah, but what             |
 | 01:34:44   | if you don't have the same apps installed, um, on your Macs, um, I'd like to point out                 |
 | 01:34:47   | that shortcuts for iOS doesn't guarantee that you have the same shortcuts installed, um,               |

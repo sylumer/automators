@@ -9,7 +9,7 @@ The Apple Worldwide Developers Conference (WWDC) is an annual event held by Appl
 | Year | Location      | OS                                                    | Highlight                                                                                                                     |
 | ---- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 2023 | Online        | iOS 17, iPadOS 17, macOS Sonoma, watchOS 8, tvOS 17   | Apple announced Apple Vision Pro, a new 15" MacBook Air, the Mac Studio, and the Mac Pro  utilising the M2 ultra chip.        |
-| 2022 | Online        | iOS 16, iPadOS 16, macOS Ventura, watchOS 9, tvOS 16  | M2 chip in Macbook Air and 13" Pro, iPhone lock screen widgets, and Stage Manager.                                            |
+| 2022 | Online        | iOS 16, iPadOS 16, macOS Ventura, watchOS 9, tvOS 16  | M2 chip in Macbook Air and 13" Pro, iPhone lock screen widgets, and [[Stage Manager]].                                        |
 | 2021 | Online        | iOS 15, iPadOS 15, macOS Monterey, watchOS 8, tvOS 15 | Apple announced iOS 15 with new FaceTime features, macOS Monterey with Universal Control, and updates to watchOS and tvOS.    |
 | 2020 | Online        | iOS 14, iPadOS 14, macOS Big Sur, watchOS 7, tvOS 14  | Apple unveiled iOS 14 with widgets and App Library, macOS Big Sur with redesigned interface, and updates to watchOS and tvOS. |
 | 2019 | San Jose      | iOS 13, macOS Catalina, watchOS 6, tvOS 13            | Apple introduced iOS 13 with Dark Mode, macOS Catalina with Sidecar, and updates to watchOS and tvOS.                         |

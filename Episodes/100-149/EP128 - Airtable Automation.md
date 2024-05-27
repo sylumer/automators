@@ -903,7 +903,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 55:41      | something I need all the time, but Apple gave that to me for free with 16.4 and I find it                 |
 | 55:47      | sneaking its way into several of my shortcuts now.                                                        |
 | 55:50      | Yes, and it's just really nice to be able to do things like that, like turning on and                     |
-| 55:55      | off and out notifications or turning on and off stage manager as well, which, you know,                   |
+| 55:55      | off and out notifications or turning on and off [[Stage Manager]] as well, which, you know,                   |
 | 56:01      | it all adds up.                                                                                           |
 | 56:03      | And the fact that things like your device details can now get the OS build number, that                   |
 | 56:09      | doesn't sound like a big deal, but then I've got, for example, my PushCut Automation Server,               |

@@ -74,21 +74,21 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:38      | For those of you that are Automators Max supporters, that's the bonus version of the show.                |
 | 01:43      | Gets you some extra content, gets rid of the ads. We'd love to have you join. You can do that at          |
 | 01:48      | the web page for relay.fm slash Automators. But we're going to go through both of us, or at least          |
-| 01:55      | I know I am seriously, once again, looking at Stage Manager. I got motivated by Apple, of course.         |
+| 01:55      | I know I am seriously, once again, looking at [[Stage Manager]]. I got motivated by Apple, of course.         |
 | 02:02      | Anytime you go up to Cupertino and bathe in the reality of storage and field, you come back with          |
 | 02:08      | all these great ideas. But we're going to talk about that in Automators Max today, ways that you          |
-| 02:12      | can use Stage Manager to be efficient. And it's an experiment at this point, but I want to talk           |
+| 02:12      | can use [[Stage Manager]] to be efficient. And it's an experiment at this point, but I want to talk           |
 | 02:16      | through it. Yeah, I mean, I think it's actually a great experiment and a great place to start, David,     |
 | 02:21      | because shortcuts had some updates. You know, they didn't necessarily get a lot of keynote time,          |
-| 02:25      | but some of those updates include new automation triggers in shortcuts and improvements to existing       |
-| 02:31      | automation triggers. And one of those triggers on the iPad is when Stage Manager turns on,                |
-| 02:38      | or when Stage Manager is turned on, or when Stage Manager is turned off. So clearly,                      |
-| 02:42      | they want us to be using Stage Manager. And that is, you know, an automation trigger. And that one        |
+| 02:25      | but some of those updates include new automation triggers in [[Shortcuts]] and improvements to existing       |
+| 02:31      | automation triggers. And one of those triggers on the iPad is when [[Stage Manager]] turns on,                |
+| 02:38      | or when [[Stage Manager]] is turned on, or when [[Stage Manager]] is turned off. So clearly,                      |
+| 02:42      | they want us to be using [[Stage Manager]]. And that is, you know, an automation trigger. And that one        |
 | 02:48      | can be run immediately. They've changed the ask before running toggle to be called run immediately,       |
 | 02:54      | and run after confirmation as like a list that you can choose from. And so you can say that this          |
 | 03:00      | one should run immediately. And then it pops up a little prompt and says, Hey, do you want it to          |
 | 03:04      | like ask you or not? And then it automatically turns off the notify when run thing, which is              |
-| 03:10      | what previously happened as well. But this is great because, you know, when Stage Manager turns on,       |
+| 03:10      | what previously happened as well. But this is great because, you know, when [[Stage Manager]] turns on,       |
 | 03:15      | you can then, you know, run a shortcut. And speaking of which, you know, I kind of,                       |
 | 03:21      | I mean, two minds as to which way to go, but the automation like system as a whole has a huge             |
 | 03:27      | improvement. Now, when I tap on that next button, oh my God, it suggests I run a shortcut. I'm just       |
@@ -99,31 +99,31 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 03:57      | a search button. So you can search for your shortcut. But this is great because it all ties               |
 | 04:02      | in together with all of those automation improvements. Yeah. Well, let's just slow down                   |
 | 04:07      | and back up a little bit because I want to cover some of this stuff in more detail. But                   |
-| 04:10      | the Stage Manager, and just for you, dear listener, Rose and I both have all the betas loaded.            |
+| 04:10      | the [[Stage Manager]], and just for you, dear listener, Rose and I both have all the betas loaded.            |
 | 04:17      | We are recording on machines that are not on the beta because you have to record and you                  |
 | 04:22      | don't want the recording to fail. But I've got my Sonoma MacBook in front of me. And I can confirm        |
-| 04:29      | that the Stage Manager setting is also on the Mac, which is great. We don't always get these              |
-| 04:34      | actions on all platforms. But one of the nice things is if you want to play with Stage Manager now,       |
+| 04:29      | that the [[Stage Manager]] setting is also on the Mac, which is great. We don't always get these              |
+| 04:34      | actions on all platforms. But one of the nice things is if you want to play with [[Stage Manager]] now,       |
 | 04:40      | you can set a shortcut to toggle it on and off. Like when I record screencast, I don't leave it           |
 | 04:45      | on because I think it's too noisy and that gets in the way of the video product you're making.            |
 | 04:51      | But I always had to do that with a bunch of keyboard shortcuts and other nonsense.                        |
 | 04:55      | Now I can just run it as a step, an action and shortcut. So that's really great. And you can              |
 | 05:00      | do the same thing on your iPad. So if you want to run shortcuts, and it's not really related to           |
-| 05:06      | automation or automators, but a Stage Manager got a lot better on the iPad. And by better,                |
+| 05:06      | automation or automators, but a [[Stage Manager]] got a lot better on the iPad. And by better,                |
 | 05:15      | the big change to me is they've made it easier to make multiple sizes of windows before you were          |
 | 05:20      | very limited in what you could do. Now you've got a lot more variety. It still is a fixed window.         |
 | 05:26      | It's not like on the Mac where you can make any size window down to the pixel.                            |
 | 05:30      | But it's enough of gradiation that you can really make just about anything you want.                      |
 | 05:36      | Yeah. And I think this is a really big improvement. There are certain apps that just kind of              |
 | 05:41      | never really looked right unless they were full screen. And I've noticed those looking a little           |
-| 05:45      | better now, which is great. So yeah, it's good to see Stage Manager integrating with shortcuts in         |
+| 05:45      | better now, which is great. So yeah, it's good to see [[Stage Manager]] integrating with shortcuts in         |
 | 05:53      | all of the ways. But it's not the only thing because one of the things that they were talking             |
-| 05:59      | about when they introduced Stage Manager for iOS 16 was the fact that when you connect it to an           |
-| 06:04      | external display, the external display can be using Stage Manager and this is really going to             |
+| 05:59      | about when they introduced [[Stage Manager]] for iOS 16 was the fact that when you connect it to an           |
+| 06:04      | external display, the external display can be using [[Stage Manager]] and this is really going to             |
 | 06:08      | improve your productivity on iPad. Well, they kind of decided that they needed to add some                |
 | 06:13      | automations for this. So another automation trigger that we now have is when my display connects.         |
 | 06:19      | So when a display connects or disconnects from the iPad, you can run a shortcut,                          |
-| 06:24      | which could, for example, turn on Stage Manager. Or it could turn on your work focus mode or              |
+| 06:24      | which could, for example, turn on [[Stage Manager]]. Or it could turn on your work focus mode or              |
 | 06:30      | something if you only dock your iPad to an external monitor in the office, for example.                   |
 | 06:34      | But this is really cool. I really like the fact that there are two really great automation triggers       |
 | 06:39      | right there, both of which can run immediately and you can just run shortcuts from them.                  |
@@ -219,7 +219,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 15:08      | talk about in future shows. But just think about it. Wi-Fi automation as a trigger without a confirmation |
 | 15:16      | can really change your game. If you get your iPad to work and you connect to the work                     |
 | 15:23      | Wi-Fi, then suddenly you can do this. The world is your oyster. You can set your focus mode.              |
-| 15:27      | You can set stage manager on or off just like we just mentioned. You can do so many different             |
+| 15:27      | You can set [[Stage Manager]] on or off just like we just mentioned. You can do so many different             |
 | 15:32      | things just merely by showing up in the office. It really is the kind of thing that we love here          |
 | 15:37      | on the Automated Podcast. Yes. And I suspect the reason why Wi-Fi and Bluetooth have now both got         |
 | 15:44      | these automation triggers where you can turn it off and you'll get it to run immediately,                 |
