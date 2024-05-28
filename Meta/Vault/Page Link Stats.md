@@ -1,4 +1,4 @@
-This note lists each note in the vault, the count of notes that link to that note, and the count of links to that file, sorted by the link count.
+This note lists each note in the vault, the count of notes that link to that note, and the count of links to that note, sorted by the link count.
 
 ```dataviewjs
 const result = await dv.pages().map(p =>
