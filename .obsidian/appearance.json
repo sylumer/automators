@@ -6,7 +6,8 @@
     "dataview-inline-fields",
     "youtube",
     "obsidian-default-theme",
-    "custom-callouts"
+    "custom-callouts",
+    "mermaid"
   ],
   "cssTheme": "Minimal"
 }
