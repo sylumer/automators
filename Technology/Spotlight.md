@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: ""
+creator_company: "Apple"
 notetype: "technology"
 ---
 
