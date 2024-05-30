@@ -7,7 +7,8 @@
     "youtube",
     "obsidian-default-theme",
     "custom-callouts",
-    "mermaid"
+    "mermaid",
+    "minimal-header-spacing"
   ],
   "cssTheme": "Minimal"
 }
