@@ -88,10 +88,10 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:58      | the garden, uh, watching TV, whatever it is that we like to do for fun. And, uh, automation can help    |
 | 02:05      | you get there gang. So that's, that's right here. So Alex, Alex, one of the things that you do that     |
 | 02:10      | I love is do by Friday. Uh, it's such a great podcast. I mean, I don't know who came up with            |
-| 02:15      | the idea to pair you and Merlin man together, but it is, uh, you know, it's like peanut butter and      |
+| 02:15      | the idea to pair you and Merlin Mann together, but it is, uh, you know, it's like peanut butter and      |
 | 02:21      | jelly or it's like gasoline in a match. I'm not sure which one, but they either way, it's kind of       |
 | 02:27      | awesome. Was this intended to be a compliment? I mean, that's exactly how I would describe it           |
-| 02:33      | honestly because that's, that's pretty much it. All it took was me listening to Merlin man's shows      |
+| 02:33      | honestly because that's, that's pretty much it. All it took was me listening to Merlin Mann's shows      |
 | 02:40      | for about a decade. Well, and including you David, I listened to Mac power users probably before        |
 | 02:48      | any other show. I mean, maybe because you were, you were a show before                                  |
 | 02:56      | your iTunes supported podcasts, right? Or am I mistaken? No, it was, it was there, but we were          |

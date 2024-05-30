@@ -821,7 +821,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 41:49      | Go for it.                                                                                             |
 | 41:50      | Tell us.                                                                                               |
 | 41:51      | Yeah.                                                                                                  |
-| 41:52      | Okay, so I don't know if you've, as Merlin Man put in the recent episode of Back to Work,              |
+| 41:52      | Okay, so I don't know if you've, as Merlin Mann put in the recent episode of Back to Work,              |
 | 41:57      | if you've ever owned or leased a kid, you'll know that they're not supposed to be, that                |
 | 42:02      | sleep is kind of important.                                                                            |
 | 42:04      | That sleep is fragile, it's fragile for everyone, but when you get the newborn down and she's          |

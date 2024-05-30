@@ -82,7 +82,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:38      | fun. That came up with, I think we were speaking together in the old days of Macworld or something        |
 | 01:42      | where like, you know, let's just put all these things down somewhere. And I know we've known              |
 | 01:47      | each other a long time and I always liked talking to you, Brett.                                          |
-| 01:50      | Didn't we do, wasn't it you, me and Merlin Man for one Mac, Macworld panel?                               |
+| 01:50      | Didn't we do, wasn't it you, me and Merlin Mann for one Mac, Macworld panel?                               |
 | 01:55      | You know, I think so. That seems right. I think so. But I, you know, I think now that                     |
 | 01:59      | you mentioned it, I think that's what it was. Yeah. And we were all, it's all a blur.                     |
 | 02:03      | It was like a shotgun of Mac tips. We all just kept going and it was really fun. And                      |

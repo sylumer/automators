@@ -132,7 +132,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 06:41      | in a while, someone would mention just a cool thing that was happening, right? And then I would         |
 | 06:47      | do a deep dive of like, okay, how does this actually work? And then after discovering Brett             |
 | 06:53      | Terpstra, one day I'll get his name right, discovering his work. And of course, our mutual              |
-| 07:00      | friend, Merlin Man, it was kind of the thing of like, they're okay, there are more blocks to            |
+| 07:00      | friend, Merlin Mann, it was kind of the thing of like, they're okay, there are more blocks to            |
 | 07:06      | build with. But also now there's a lot more duct tapes that I can actually see what I'm putting         |
 | 07:12      | together. And my main duct tape right now is shortcuts and the app Drafts, which I'm sure               |
 | 07:20      | we're going to get into. But so much of the automation I use is literally just a cut in                 |
@@ -375,7 +375,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 32:41      | and just gets rid of that. And then in order to send, how I'm opening [[Drafts]] right now to               |
 | 32:48      | figure out how I send it to simple cast. Oh yeah, that just ends up being a Zapier automation,          |
 | 32:56      | actually, to get it into simple cast. It creates, it's, it creates a draft of an episode. And then      |
-| 33:05      | Merlin man goes in there and uploads an episode, which I wish we could automate that. We've been        |
+| 33:05      | Merlin Mann goes in there and uploads an episode, which I wish we could automate that. We've been        |
 | 33:10      | trying for, for so long. And, but you can, I finally found out, or I found a good shortcut,             |
 | 33:19      | as in iOS shortcut, to upload an episode to overcast to listen to it, but haven't found a way           |
 | 33:27      | to automate an upload of an episode to simple cast without having to go into the web interface          |

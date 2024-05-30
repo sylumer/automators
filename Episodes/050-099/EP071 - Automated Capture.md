@@ -799,7 +799,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 51:40      | So I've got an automation set up that whenever the due app opens, it waits 10 seconds on                 |
 | 51:44      | the open shortcuts, um, and I also have, uh, similar things actually for several other                   |
 | 51:49      | applications, including the Eve app, uh, because that opens periodically to make sure that               |
-| 51:54      | all of my data is grabbed, um, uh, because when we talked to Merlin Man on the show,                     |
+| 51:54      | all of my data is grabbed, um, uh, because when we talked to Merlin Mann on the show,                     |
 | 51:58      | he said, you know, sometimes you just lose data from the Eve app.                                        |
 | 52:01      | So I've got it just opening periodically on this iPhone, uh, so that I always have that                  |
 | 52:05      | data.                                                                                                    |

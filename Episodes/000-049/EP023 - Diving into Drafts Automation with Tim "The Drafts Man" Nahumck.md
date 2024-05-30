@@ -124,7 +124,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 02:07      | What got you started with [[Drafts]]?                                                                      |
 | 02:10      | How did you become the *Draftsman*?                                                                      |
 | 02:11      | Were you the [[Drafts]] boy first or what happened?                                                        |
-| 02:17      | For me, it's something that I think I picked it up actually probably from [[Merlin Man]] listening         |
+| 02:17      | For me, it's something that I think I picked it up actually probably from [[Merlin Mann]] listening         |
 | 02:23      | to a podcast at some point in time and he mentioned [[Drafts]] on a show.                                  |
 | 02:27      | I had been talking with a couple other people that use it and at first I was going, well,              |
 | 02:31      | okay, all right, I'll just start using it.                                                             |

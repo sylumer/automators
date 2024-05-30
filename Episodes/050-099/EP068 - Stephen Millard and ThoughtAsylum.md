@@ -91,7 +91,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 00:30      | Hi. Thanks for having me.                                                                                |
 | 00:31      | Stephen, you have been talked about on this show several times over the last several months.              |
 | 00:38      | Gang Stephen Millard is the developer of an amazing set of add-ons for [[Drafts]] called Thought              |
-| 00:44      | Asylum. And I think it came up in the [[Merlin Man]] Show and several other shows we talked                  |
+| 00:44      | Asylum. And I think it came up in the [[Merlin Mann]] Show and several other shows we talked                  |
 | 00:48      | about. And I know that it's a hot topic over on the Automators forum. And what Stephen's                  |
 | 00:54      | done, and we're going to get into the nitty-gritty of it during the course of the show, but he's         |
 | 00:57      | really just made a tremendous amount of add-on support for [[Drafts]], giving all of us users                |

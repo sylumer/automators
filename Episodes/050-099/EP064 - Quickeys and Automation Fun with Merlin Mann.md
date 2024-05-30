@@ -91,7 +91,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 00:19      | Well, that's very convenient.                                                                                 |
 | 00:20      | I do.                                                                                                         |
 | 00:21      | Because we have a guest today who is one of my very favourite people on the Internet.                          |
-| 00:25      | Welcome to the show, Merlin Man.                                                                              |
+| 00:25      | Welcome to the show, Merlin Mann.                                                                              |
 | 00:26      | Hi, David.                                                                                                    |
 | 00:27      | I have like probably two or three folders left.                                                               |
 | 00:30      | I don't have a lot in me, but I'm also feeling very productive and I'm excited to be here.                    |
@@ -2023,7 +2023,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:43:57   | You're a wizard, Rose.                                                                                        |
 | 01:44:00   | Thank you.                                                                                                    |
 | 01:44:01   | Thank you.                                                                                                    |
-| 01:44:02   | As always, thanks to Merlin Man for coming in and sharing some wisdom with us.                                |
+| 01:44:02   | As always, thanks to Merlin Mann for coming in and sharing some wisdom with us.                                |
 | 01:44:07   | Thank you to our sponsors today, FastScripts, Smile Software Setup and the Intrazone by                         |
 | 01:44:12   | Microsoft SharePoint.                                                                                         |
 | 01:44:14   | We are the Automators, you can find us over at relay.fm/automators.                                     |
