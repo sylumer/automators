@@ -27,7 +27,7 @@ Welcome to the GitHub repository for an Obsidian vault dedicated to <a href="htt
 
 ## Introduction
 
-This repository contains a wealth of information primarily in Markdown format that are structured for use with [Obsidian](https://obsidian.md). 
+This repository contains a wealth of information primarily in Markdown format. They are structured for use with [Obsidian](https://obsidian.md), but can be used with other applications.
 
 The vault contains pages for each of the podcast episodes that include details about the episode, the show notes, and a transcription.  The episode notes have been enhanced to include links (Obsidian's intra-note links) to additional details such as hosts, guests, apps, automations, concepts, methodologies, organisations, etc. This Obsidian vault is much more than a set of episode transcriptions, and makes both easy to explore and an excellent reference for anyone interested in the automation topics covered in the podcast.
 
@@ -35,7 +35,7 @@ The vault contains pages for each of the podcast episodes that include details a
 > While an Obsidian vault is primarily just a collection of Markdown files and you can download and use the content of this repository with any applications that support Markdown, we would recommend using Obsidian and the plugins included in the configuration for the best experience.
 
 > [!IMPORTANT]  
-> This vault is a work in progress and while the core content around episodes is in place, and a lot more besides, there is still a lot of work to build up the additional content to support the episodes. Please be patient while the backlog is addressed.
+> This vault is a work in progress and while the core content around episodes is in place, and a lot more besides, there is still a lot of work to build up the additional content to support the episodes. Please be patient while the backlog of content creation is addressed. We will be trying to keep up to date with new episodes and technology content as well as going back to add relevant earlier content and build out existing content. It simply takes time to do this.
 > 
 
 ## Vault Structure
