@@ -13,6 +13,7 @@ showpage: https://www.relay.fm/focused
 **Show Page:** `$="[" + dv.current().showpage + "](" + dv.current().showpage + ")"`
 
 ![[focused.jpg|200x200]]
+
 # Overview
 Focused is a podcast hosted by David and Mike, two productivity enthusiasts who explore different aspects of productivity, time management, and personal development. The purpose of the podcast is to help listeners become more focused in their daily lives, whether it be through productivity techniques, organisation strategies, or mindset shifts.
 

@@ -14,6 +14,7 @@ showpage: https://www.relay.fm/mpu
 **Show Page:** `$="[" + dv.current().showpage + "](" + dv.current().showpage + ")"`
 
 ![[mpu.png|200x200]]
+
 # Overview
 Mac Power Users is a podcast about empowering listeners to become more efficient and productive users of their Apple devices through discussions on various software, hardware, and workflows.
 
