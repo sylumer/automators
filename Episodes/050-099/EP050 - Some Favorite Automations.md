@@ -116,46 +116,46 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 04:46      | there any favourite episodes you've had, Rose, and just things we've covered that really              |
 | 04:52      | stand out for you so far?                                                                            |
 | 04:54      | Yeah. So I would say one of the things that we covered, and a full credit goes to you                |
-| 04:59      | for the field guide on this as well, has been Keyword Maestro. Keyword Maestro has been              |
+| 04:59      | for the field guide on this as well, has been Keyboard Maestro. Keyboard Maestro has been              |
 | 05:03      | one of those apps that I've been using it for years, but really I haven't been scratching            |
 | 05:07      | the surface. And if I'm being honest, I'm still not really doing much more than scratching           |
 | 05:11      | the surface on it.                                                                                   |
 | 05:12      | You know, I have a couple of macros like centre windows and stuff when I'm doing screencasts         |
 | 05:16      | online shows so that my windows are in the same place between takes and so on. But I                 |
 | 05:20      | haven't done that much with it. But every time I go to look at it, like there's so much              |
-| 05:24      | more that I can learn. And that was episode 28 where we dove into Keyword Maestro. And               |
+| 05:24      | more that I can learn. And that was episode 28 where we dove into Keyboard Maestro. And               |
 | 05:29      | I learned so much in preparation for that episode, during that episode, and after that               |
 | 05:33      | episode, you know, it's just really great how much I can keep learning from an application           |
 | 05:38      | that I was already using. But, you know, I can dive in further there.                                |
-| 05:43      | Yeah, I feel like Keyword Maestro, you know, talking about the shallow automator, it is              |
+| 05:43      | Yeah, I feel like Keyboard Maestro, you know, talking about the shallow automator, it is              |
 | 05:48      | like it is the it is the hammer that that, you know, hammers all nails because it's                  |
 | 05:54      | just so great. It has it's so deep in its integration with the Mac operating system.                 |
 | 06:00      | And there's almost nothing that you can't do with it. And sometimes you will have to                 |
 | 06:06      | resort to like an AppleScript or something a little more advanced. In fact, one of my               |
-| 06:10      | automations I'm going to share in today's show involves Keyword Maestro and an Apple                 |
+| 06:10      | automations I'm going to share in today's show involves Keyboard Maestro and an Apple                 |
 | 06:14      | script. But for so much of the things you want to do, it just works. I mean, you talked              |
 | 06:20      | earlier about, you know, find a button on the screen and push it, you know, and one                  |
-| 06:26      | of the things Keyword Maestro can do is you can just take a quick little screenshot of               |
-| 06:30      | the screen and then you can save that image to a Keyword Maestro action and just say,                |
+| 06:26      | of the things Keyboard Maestro can do is you can just take a quick little screenshot of               |
+| 06:30      | the screen and then you can save that image to a Keyboard Maestro action and just say,                |
 | 06:36      | look for this on the screen and click, you know, in the centre of it. And, you know,                 |
 | 06:41      | I just got done talking that 122 videos in this new field guide, there's a web interface             |
 | 06:46      | where I had to do something 122 times yesterday. And I was not going to sit there and click.         |
-| 06:54      | So I made a quick Keyword Maestro script that it, you know, I hit command L, which selects           |
+| 06:54      | So I made a quick Keyboard Maestro script that it, you know, I hit command L, which selects           |
 | 06:58      | the search bar and then it pays in a specific URL. So then I knew I could reset it every             |
 | 07:03      | time. And then I had it look for a specific button on the screen. And then there was a               |
-| 07:08      | little pause and Keyword Maestro and pauses. Those are, that's, that's the good stuff there.         |
+| 07:08      | little pause and Keyboard Maestro and pauses. Those are, that's, that's the good stuff there.         |
 | 07:13      | And so it would pause and then it would click the button and then we'd do it again. And              |
 | 07:17      | I, I just hit run and I took the dog for a walk and came back and 122 videos were published          |
-| 07:24      | and it was just that easy, you know, and that's the kind of thing with Keyword Maestro that          |
-| 07:30      | you forget about. I mean, it's easy to come up with the in automation with Keyword Maestro           |
+| 07:24      | and it was just that easy, you know, and that's the kind of thing with Keyboard Maestro that          |
+| 07:30      | you forget about. I mean, it's easy to come up with the in automation with Keyboard Maestro           |
 | 07:34      | and say, I'm going to set up my screen in a specific way and that's going to be really               |
 | 07:37      | cool. But it's just sometimes the little things that you need to do over and over again, just        |
-| 07:44      | kind of show up in your day. Keyword Maestro is so flexible, you can generate a script               |
+| 07:44      | kind of show up in your day. Keyboard Maestro is so flexible, you can generate a script               |
 | 07:50      | to solve that problem very quickly and it will save you a ton of time. I mean, I mean,               |
 | 07:54      | that is true automator stuff right there. Yeah, absolutely. And the other thing that                 |
 | 08:00      | that brings up is, you know, you don't have to create a macro that is going to live, you             |
 | 08:04      | know, with you for the rest of your life. You know, you can create an automation in this             |
-| 08:09      | case, in your case, it was a Keyword Maestro macro. I often do this with shortcuts. I will           |
+| 08:09      | case, in your case, it was a Keyboard Maestro macro. I often do this with shortcuts. I will           |
 | 08:13      | create a shortcut for a very specific use case, use it and then delete it, like the                  |
 | 08:17      | thing may never even get a name. But I just use it and then it's done. And you know what?            |
 | 08:23      | That for me is magic. Because you, of course, the automations that you can use day in and            |

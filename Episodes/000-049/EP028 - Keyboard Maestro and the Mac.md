@@ -447,7 +447,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 25:46      | complex, sometimes it may generate one or it may generate 10 documents. But just getting that initial  |
 | 25:52      | kind of document generation done, I have tried it so many different ways, Rose. I've built it,         |
 | 25:58      | custom AppleScripts. I've done a lot of things over the years to try and make this document           |
-| 26:04      | automation easier. And for me, Keyword Maestro is the key. It's just the best way to do it.            |
+| 26:04      | automation easier. And for me, Keyboard Maestro is the key. It's just the best way to do it.            |
 | 26:09      | And it's very easy. The automation itself isn't that difficult. But once you figure it out,            |
 | 26:14      | you just have to go through and generate it. And it's pretty awesome.                                  |
 | 26:18      | Yeah. And that's the beauty of this. And I've used it for documents as well. One of the ones           |
@@ -456,7 +456,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 26:35      | have as many documents to generate as you. If I could generate my code, that would be lovely.          |
 | 26:40      | But I'm working on that.                                                                               |
 | 26:41      | Isn't the one you shared with us before a file-based trigger where when the file gets                  |
-| 26:46      | dropped into a certain folder, then Keyword Maestro does all that for you?                             |
+| 26:46      | dropped into a certain folder, then Keyboard Maestro does all that for you?                             |
 | 26:50      | No, it's not actually. I run it manually on a file. And if it's already got the right kind             |
 | 26:54      | of naming, then it parses out elements of the name so I can change parts of them.                      |
 | 26:59      | And it automatically increments stuff. I'll put a link to that in the show notes.                      |
@@ -477,9 +477,9 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 28:23      | at which point I delete the email that I was about to send to their support humans and                 |
 | 28:28      | start OmniFocus and by which time I've forgotten my task. So this solves many problems and also        |
 | 28:34      | eliminates email from people who already have enough email to deal with, I'm sure.                     |
-| 28:38      | Yeah, another problem I solved with Keyword Maestro is just setups. And there's a lot of               |
+| 28:38      | Yeah, another problem I solved with Keyboard Maestro is just setups. And there's a lot of               |
 | 28:44      | applications that let you set up window management and window control. You can also do with Apple      |
-| 28:49      | Script, but there's just so much more power with Keyword Maestro. Like you can say, I want this        |
+| 28:49      | Script, but there's just so much more power with Keyboard Maestro. Like you can say, I want this        |
 | 28:55      | specific application to be on the screen. And as I have added additional screens to my setup,          |
 | 29:00      | so I'm more than just the main screen now, it's even more important to me to be able to set            |
 | 29:05      | things up properly. And because I have two jobs, some days I'm a lawyer, some days I'm a nerd.         |

@@ -1478,19 +1478,19 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 52:46      | smarter design guide                                              |
 | 52:48      | with fresh takes, creative ideas and smart                        |
 | 52:50      | solutions for dressing your windows.                              |
-| 52:52      | Once again that's hunterdouglas.com                               |
-| 52:54      |/automators for your                                         |
+| 52:52      | Once again that's hunterdouglas.com/automators                    |
+| 52:54      | for your                                         |
 | 52:56      | free design guide and our thanks to Hunter                        |
 | 52:58      | Douglas for their support of the Automators                       |
 | 53:00      | podcast and all of Relay FM.                                      |
 | 53:04      | So David we've been dancing around                                |
 | 53:06      | all episode.                                                      |
-| 53:08      | Keyword maestro. Keyword maestro                                  |
+| 53:08      | Keyboard Maestro. Keyboard Maestro                                  |
 | 53:10      | like everything else and like it always                           |
 | 53:12      | does has brought it's a game.                                     |
 | 53:14      | Jewel Way Shortcut Support.                                       |
-| 53:16      | Shortcut support inside of Keyword Maestro.                       |
-| 53:18      | Keyword Maestro support inside of Shortcuts.                      |
+| 53:16      | Shortcut support inside of Keyboard Maestro.                       |
+| 53:18      | Keyboard Maestro support inside of Shortcuts.                      |
 | 53:20      | That's it. We're done right?                                      |
 | 53:22      | We can just walk out of here. Mic drop.                           |
 | 53:24      | Yeah well I mean what he did was                                  |

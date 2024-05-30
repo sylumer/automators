@@ -90,7 +90,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 02:47      | So Apple really has done a lot for automation. It almost feels like they're listening once                                                                |
 | 02:54      | in a while and I thought why don't we start with iOS because that's, I believe, probably                                                                  |
 | 03:02      | the area that needs the most help with automation. I mean, there are so many great tools on the                                                           |
-| 03:06      | Mac, whether you use like a developer generating tool like [[Keyword Maestro]] or [[TextExpander]]                                                        |
+| 03:06      | Mac, whether you use like a developer generating tool like [[Keyboard Maestro]] or [[TextExpander]]                                                        |
 | 03:13      | or you get into scripting and [[AppleScript\|AppleScripting]]. There's a lot of tools available, whereas                                                  |
 | 03:19      | iOS really the only game in town is shortcuts. So we're always very eager to see what happens                                                             |
 | 03:23      | with shortcuts.                                                                                                                                           |

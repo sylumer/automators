@@ -956,7 +956,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 45:01      | then have shortcuts for specific applications that start specific timers.                             |
 | 45:05      | It's just, all of this stuff is amazing.                                                              |
 | 45:08      | We just glanced over Wi-Fi as a trigger.                                                              |
-| 45:12      | But even when I was doing the Keyword Maestro field guide, that is one of my very favourite            |
+| 45:12      | But even when I was doing the Keyboard Maestro field guide, that is one of my very favourite            |
 | 45:16      | triggers because it's so useful.                                                                      |
 | 45:18      | Everybody goes to different places where they connect to Wi-Fi.                                       |
 | 45:22      | Work versus home is a great example.                                                                  |

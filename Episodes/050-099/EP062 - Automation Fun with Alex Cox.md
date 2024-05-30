@@ -323,7 +323,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 26:44      | like 12 because it's just so much more useful when you're switching between platforms and all           |
 | 26:50      | that stuff just comes along for the ride. And I totally get what you mean for [[Drafts]] like               |
 | 26:56      | as an automation platform. And we never really, I don't know if we ever really acknowledged that        |
-| 27:01      | in the show because we talk about shortcuts, we talk about Keyword Maestro and [[Hazel]] and all            |
+| 27:01      | in the show because we talk about shortcuts, we talk about Keyboard Maestro and [[Hazel]] and all            |
 | 27:05      | these after [[Drafts]] itself as a platform for automation. Recently, I've been playing a lot               |
 | 27:11      | with backlinks and using some of this software. And there's a whole action group in [[Drafts]] for          |
 | 27:16      | backlinks that it's already there. I mean, if you just add double brackets around things in Drafts,     |
