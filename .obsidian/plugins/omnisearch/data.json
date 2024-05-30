@@ -26,10 +26,12 @@
   "weightH2": 2.5,
   "weightH3": 1.1,
   "weightUnmarkedTags": 1.1,
+  "weightCustomProperties": [],
   "httpApiEnabled": false,
   "httpApiPort": "51361",
   "httpApiNotice": true,
   "welcomeMessage": "1.21.0",
   "verboseLogging": false,
+  "DANGER_httpHost": null,
   "excalidrawIndexing": true
 }
