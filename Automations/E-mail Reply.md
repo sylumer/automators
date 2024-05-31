@@ -57,3 +57,8 @@ David
 # Links
 - [Automatically Add Recipient's Name to Email with TextExpander - MacSparky](https://www.macsparky.com/blog/2015/6/automatically-add-recipients-name-to-email-with-textexapnder/)
 - [Improved AppleScript to Automatically Insert Recipient's Name in Apple Mail using TextExpander - MacSparky](https://www.macsparky.com/blog/2019/2/improved-applescript-to-automatically-insert-recipients-name-in-apple-mail-using-textexpander/)
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```
