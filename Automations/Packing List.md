@@ -6,7 +6,6 @@ author: Rosemary Orchard
 
 **Author:** `$="[[" + dv.current().author + "]]"`
 
-
 # Overview
 Rosemary created a set of automations to help her build packing lists for travelling. The automation begins with a shortcut that checks her calendar for all day events and then creates a new draft (in [[Drafts]]), and an [[OmniFocus]] task to actually do the requisite packing. The task is dated based on the trip and links to the draft via a URL.
 
