@@ -6,8 +6,9 @@ author: David Sparks
 
 **Author:** `$="[[" + dv.current().author + "]]"`
 
-# Description
+# Overview
 This automation is for use with [[TextExpander]], and was triggered by David with a case sensitive trigger of `xnm`. It checks the recipient in the *To* field in your [[Apple Mail]] e-mail, and then using some [[AppleScript]], attempts to extract the first name of the recipient from the contact details. If there is a comma, it will take the second name, otherwise it will take the first name; the name being returned is pasted out by TextExpander.
+
 # AppleScript
 The following AppleScript code can be used in the TextExpander snippet, and was revised by [Greg Forcey](https://twitter.com/GregForcey), and shared back to David when it stopped working on a later version of macOS.
 
