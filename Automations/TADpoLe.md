@@ -45,3 +45,7 @@ The library includes functions for working with a number of areas.
 - Miscellaneous Functions
 - Version Information
 
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```
