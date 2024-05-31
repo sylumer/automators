@@ -21,3 +21,8 @@ The menu system in the shortcut also utilises a recursive call (it runs itself),
 # Useful Links
 - [Stream Deck Icon Generator](https://www.thoughtasylum.com/2020/12/24/stream-deck-icon-generator/) - download the latest version of the shortcut here.
 - [[EP068 - Stephen Millard and ThoughtAsylum]] - episode it was discussed most in.
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```
