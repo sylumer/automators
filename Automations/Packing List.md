@@ -32,3 +32,8 @@ The following Drafts actions are available in the Action Group.
 - [Automators 33: Packing List Extravaganza in Drafts | Rosemary Orchard](https://rosemaryorchard.com/blog/automators-33/)
 - [Packing Action Group](https://actions.getdrafts.com/g/1ZC)
 - [Shortcuts - Create Packing List (Drafts & OF)](https://www.icloud.com/shortcuts/fdd67dbb01c14d749566441a07cfd1e9)
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```
