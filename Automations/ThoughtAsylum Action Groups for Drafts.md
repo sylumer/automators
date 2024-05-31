@@ -58,3 +58,8 @@ The ThoughtAsylum Action Groups are a set of over 600 actions for use with the [
 - [ThoughtAsylum Action Group](https://www.thoughtasylum.com/taagd/) - documentation for all action groups and actions.
 - [ThoughtAsylum Drafts Library](https://tadpole.thoughtasylum.com)
 - [Drafts Script Reference](https://scripting.getdrafts.com)
+
+# Episodes
+```dataviewjs
+await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
+```
