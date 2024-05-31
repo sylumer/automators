@@ -6,6 +6,7 @@ author: "David Sparks"
 
 **Author:** `$="[[" + dv.current().author + "]]"`
 
+# Overview
 This automation utilises [[AppleScript]], Apple's [[Mail]] app, and [[TextExpander]] to automatically populate a mail with a suitable first name intro when replying to an e-mail.
 
 TextExpander is used to trigger the following AppleScript.

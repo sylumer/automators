@@ -50,10 +50,10 @@ Obsidian plugins are sets of functionality that can be enabled/disabled and in s
 Community plugins are as you might expect not part of the core Obsidian feature set. They are created by members of the Obsidian user community and shared so that others may install and use them.
 
 ## actions-uri
-
+Added for end users of this vault in case they want to utilise any [[Shortcuts]] automations using [[Actions for Obsidian]].
 
 ## cm-editor-syntax-highlight-obsidian
-
+Adds syntax highlighting for 
 
 ## cmdr
 
