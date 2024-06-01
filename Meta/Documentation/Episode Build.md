@@ -23,7 +23,7 @@ flowchart LR
 # Download and Transcribe Episode
 
 ## Scheduled Check and Download/Transcription Trigger
-**Automation Tools:** Keyboard Maestro, Shortcuts, Data Jar, Shell Script.
+**Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]], [[Data Jar]], [[Shell Scripting\Shell Script]].
 
 ### Schedule
 Keyboard Maestro is running on a headless Mac mini. It is scheduled to run a macro every 30 minutes between 17:00 GMT on Friday to 12:00 GMT on Saturday. The macro confirms that it is running on the Mac mini (because the macros are synced across multiple devices). Once  confirmed, it then runs the shortcut "Process Outstanding Automators Episodes"
@@ -33,7 +33,7 @@ Keyboard Maestro is running on a headless Mac mini. It is scheduled to run a mac
 - `30 17-23 * * 5`
 - `30 0-12 * * 6`
 ### Shortcut: Process Outstanding Automators Episodes
-The Shortcut determines if there are any podcast episodes to process and then triggers a separate process to process each of them is there are.
+The shortcut determines if there are any podcast episodes to process and then triggers a separate process to process each of them is there are.
 
 ```mermaid
 flowchart TB
@@ -146,7 +146,7 @@ From the same folder as the script, Automators episode 123 can therefore be down
 > If this script is run standalone the Data Jar entry for the last processed episode should be updated if it is for a new episode. If not, the next time the scheduled job that utilises this script will end up doing the work again. Sine the scheduling was put in place, the idea is to only run this script manually to address prior erroneous runs.
 
 # Generate Content for Episode
-**Automation Tools:** Keyboard Maestro, Python Script, Shell Script, Shortcuts, TextSoap.
+**Automation Tools:** [[Keyboard Maestro]], [[Python]] Script, [[Shell Scripting|Shell Script]], [[Shortcuts]], [[TextSoap]].
 
 ```mermaid
 flowchart LR
@@ -186,7 +186,7 @@ echo $output
 The episode number is placed on the clipboard for the next step.
 
 ## Build Automators Episode Content
-**Automation Tools:** [[Keyboard Maestro]], [[Shortcuts|Apple Shortcuts]].
+**Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]].
 
 The episode content build macro in Keyboard Maestro does a lot of the work and all of the orchestration to build the Obsidian file containing the base information for the episode. It relies on the VTT file discussed in the previous step having been generated and being selected in [[Path Finder]].  With the transcription file available, the macro will then set about gathering the additional information for the episode, and put the content into a file in the Obsidian vault.
 
@@ -278,7 +278,7 @@ Details about other Apple Shortcuts and Keyboard Maestro macros that this macro 
 	- `VTT - Format to Markdown Table` - see [[#Format Transcription]]
 
 ## Retrieve Episode Information
-**Automation Tools**: [[Shortcuts|Apple Shortcuts]], [[Data Jar]]
+**Automation Tools**: [[Shortcuts]], [[Data Jar]]
 **Shortcut:** `Automators Episode Info`  
 
 This Apple Shortcut gathers and formats a base level of information about a particular episode. For testing, it can be passed an episode number directly, but in practice, it is passed the episode number via the clipboard.
@@ -294,7 +294,7 @@ The Real FM show notes page is used to get some additional information not inclu
 The content this shortcut produces can require further editing as there may be data (such as topic links) that cannot easily be automatically accommodated. But overall, in just a matter of seconds, the shortcut retrieves and coerces a lot of disparate data into a useful format that would take a lot of manual effort to accomplish otherwise.
 
 ## Fetch Episode Show Notes
-**Automation Tools**: [[Shortcuts|Apple Shortcuts]], [[Data Jar]]  
+**Automation Tools**: [[Shortcuts]], [[Data Jar]]  
 **Shortcut:** `Automators Fetch Show Notes`  
 
 The Shortcuts to fetch the show notes queries the Relay FM site for the episode page, gets the HTML of the page, trims it to the show notes section, converts it to Markdown, and then simplifies the results to a Markdown list. This gets passed back to the calling shortcut for inclusion in the 
@@ -334,7 +334,7 @@ flowchart TD
 
 
 ## Format Transcription
-**Automation Tools:** [[Keyboard Maestro]], Python Script.
+**Automation Tools:** [[Keyboard Maestro]], [[Python]] Script.
 
 ### Keyboard Maestro Macro
 The process of transforming the output of the transcription into a prettier format for Obsidian is accomplished through the use of a Keyboard Maestro macro. Selecting the VTT file in Path Finder and running the macro places a reformatted Markdown table version of the transcription on the clipboard. Note that this relates back to the earlier selection of the VTT file to determine the episode number.
@@ -419,7 +419,7 @@ pyperclip.copy(mdformat.text(pyperclip.paste(), extensions={"tables"}))
 
 
 ## Generate Episode Note File Path
-**Automation Tools**: [[Shortcuts|Apple Shortcuts]], [[Data Jar]]
+**Automation Tools**:[[Shortcuts]], [[Data Jar]]
 **Shortcut:** `Automators Episode Path`  
 
 This shortcut generates a full file path to the episode Markdown file. This includes the sub-folder the episode should be written to.
@@ -468,7 +468,7 @@ flowchart TD
 	class STEP1,STEP2,STEP3,STEP4 STEPS
 ```
 ## Open Relay FM Show Page
-**Automation Tools**: [[Shortcuts|Apple Shortcuts]]
+**Automation Tools**:[[Shortcuts]]
 **Shortcut:** `Automators Episode Open Show Notes`  
 
 This shortcut always opens the show page for the episode being processed. The page location can always be derived from the episode number.
