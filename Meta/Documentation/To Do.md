@@ -2,8 +2,8 @@
 status: "complete"
 ---
 # Publish
-- [ ] Finish the GitHub Docs
-- [ ] Set up Git Ignore file
+- [x] Finish the GitHub Docs
+- [x] Set up Git Ignore file
 
 # Episodes
 - [x] Spell check each episode.
@@ -26,7 +26,7 @@ status: "complete"
 
 # Dashboard
 ## Vault Stats
-- [ ] Rework Notes to Create so it isn't counting notes multiple times.
+- [x] Rework Notes to Create so it isn't counting notes multiple times.
 
 ## Episode Stats
 - [x] Add number of sponsors stat.
@@ -51,7 +51,7 @@ status: "complete"
 # Style
 - [/] Restyle the graph so links and dark nodes show up better in dark mode.
 	- [X] Nodes
-	- [ ] Node Links
+	- [x] Node Links
 	- [ ] Tweak style so podcast calendar navigation chevrons show up clearly rather than faintly
 - [ ] Figure out why the editor syntax highlighting plugin is not working for code blocks, but is for code blocks within other blocks - e.g. code in comment blocks.
 
