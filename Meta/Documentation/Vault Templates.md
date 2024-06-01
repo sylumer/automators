@@ -21,7 +21,7 @@ Callouts are nicely formatted quotation blocks. They are intended to impart part
 | [[C.Callout - Todo (Template)]]        | Insert the code for a todo callout, using prompts to enter the title and the details.         |
 
 ## Dataview
-[[DataView|Obsidian Dataview]] templates insert code blocks for running Dataview queries. Typically, these queries will be centralised into Dataview script files to make them easier to centrally maintain.
+[[Dataview|Obsidian Dataview]] templates insert code blocks for running Dataview queries. Typically, these queries will be centralised into Dataview script files to make them easier to centrally maintain.
 
 | Template File                | Description                                                                               |
 | ---------------------------- | ----------------------------------------------------------------------------------------- |
