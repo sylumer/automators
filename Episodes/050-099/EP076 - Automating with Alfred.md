@@ -208,7 +208,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 11:38      | It's just the single letter. Whereas when you do that same search in spotlight, it just isn't as smart.  |
 | 11:46      | Actually, spotlight is indeed suggesting terminal to me. And then underneath that,                       |
 | 11:49      | it's suggesting home dash Canon TR4550, which is my printer. I never open my printer, David.             |
-| 11:57      | I have no idea what spotlight is doing here. Spotlight, go home, you drunk. But yeah,                    |
+| 11:57      | I have no idea what spotlight is doing here. [[Spotlight]], go home, you drunk. But yeah,                    |
 | 12:03      | unsurprisingly, [[Alfred]] is not suggesting my printer. I only want my printer to open if I'm               |
 | 12:08      | printing a document. I'm never going to search for it this way.                                          |
 | 12:11      | Okay. And spotlight for me with O is giving me Obsidian. And then in second place, Knights of            |
@@ -703,7 +703,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 57:58      | does a much better job of making that stuff present and giving you more power. Like I constantly         |
 | 58:04      | am sitting emails introducing people like as a lawyer, I'll say, oh, you need to talk to this            |
 | 58:09      | insurance person or whatever. And I want to put details in the email so that people can talk to          |
-| 58:14      | each other. It's so much easier to do that with [[Alfred]] than it is with Spotlight.                        |
+| 58:14      | each other. It's so much easier to do that with [[Alfred]] than it is with [[Spotlight]].                        |
 | 58:20      | Yeah. And that is one of the things I love, you know, you just, the other thing is, is it's not          |
 | 58:26      | just, so I've searched for David Sparks right now, and it showed me David Sparks macsparky.com,           |
 | 58:30      | and you're an emoji, because that's the photo I have saved for you, because that's what contacts         |
@@ -1194,7 +1194,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:44:01   | with [[Alfred]], what's interesting and fun. This is very much an automation tool, as you've heard           |
 | 01:44:07   | us talking about today. I know that without it, I would be a lot slower on my Mac.                       |
 | 01:44:12   | Yeah, same, same. And it's amazing how many things integrate with [[Alfred]],                                |
-| 01:44:16   | because essentially it's just searching your entire Mac for everything. It uses Spotlight as the         |
+| 01:44:16   | because essentially it's just searching your entire Mac for everything. It uses [[Spotlight]] as the         |
 | 01:44:22   | back end. It integrates with 1Password. So you can actually search 1Password for a website and       |
 | 01:44:26   | open it and fill it through [[Alfred]], because you've found it with 1Password. And so 1Password         |
 | 01:44:31   | then tells your browser to open it and fills it in. We didn't even get to cover that. So yeah,           |

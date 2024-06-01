@@ -73,7 +73,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:00      | It's a great way to get things going on your computer without reaching for the mouse or               |
 | 01:06      | doing some complicated interaction.                                                                   |
 | 01:10      | They're just awesome.                                                                                 |
-| 01:11      | And the other thing we're going to talk about today, of course, is the updates to Spotlight,          |
+| 01:11      | And the other thing we're going to talk about today, of course, is the updates to [[Spotlight]],          |
 | 01:15      | which is Apple's version of a launcher, and we've got a lot to cover today.                           |
 | 01:18      | But before we get started on Automator's Macs today, which is the special edition of the              |
 | 01:25      | show, which has extended content and no ads, which you can sign up for on the website at              |
@@ -91,46 +91,46 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:59      | And I'm looking forward to that.                                                                      |
 | 02:00      | It's going to be fun.                                                                                 |
 | 02:01      | Yeah.                                                                                                 |
-| 02:02      | So, David, should we start talking about launchers with Spotlight, you know, the one that everybody's |
+| 02:02      | So, David, should we start talking about launchers with [[Spotlight]], you know, the one that everybody's |
 | 02:07      | got built into their Mac or iPad for free?                                                            |
 | 02:11      | And I mean, how do you feel about it?                                                                 |
-| 02:13      | Because I kind of feel like Spotlight's improving, but it's so far behind everybody else that         |
+| 02:13      | Because I kind of feel like [[Spotlight|Spotlight's]] improving, but it's so far behind everybody else that         |
 | 02:20      | it's kind of been lapped on the track multiple times, and, you know, it's getting better              |
-| 02:24      | and the team working on Spotlight, I'm sure, is working hard, but I'm feeling like I just,            |
+| 02:24      | and the team working on [[Spotlight]], I'm sure, is working hard, but I'm feeling like I just,            |
 | 02:29      | I couldn't use it as my daily launcher because it's missing a lot of features for me.                 |
 | 02:33      | Yeah.                                                                                                 |
 | 02:34      | In fact, I think before we even get into it, I just want to explain one thing, and that               |
 | 02:37      | is none of these are exclusive, right?                                                                |
 | 02:40      | Oh, yeah.                                                                                             |
-| 02:41      | Historically, Spotlight was under the Command Space keyboard shortcut, and when you crack             |
-| 02:46      | open a new Mac, that's the keyboard shortcut that hits Spotlight, but you can go in the               |
+| 02:41      | Historically, [[Spotlight]] was under the Command Space keyboard shortcut, and when you crack             |
+| 02:46      | open a new Mac, that's the keyboard shortcut that hits [[Spotlight]], but you can go in the               |
 | 02:51      | keyboard shortcuts settings and change that.                                                          |
-| 02:55      | And I very early changed mine to Control Space for Spotlight, and because there are a few             |
-| 03:01      | things that I think Spotlight does well, and occasionally I need it.                                  |
-| 03:04      | So it's over there hanging out under the Control key, so under the Control Space, I get Spotlight     |
+| 02:55      | And I very early changed mine to Control Space for [[Spotlight]], and because there are a few             |
+| 03:01      | things that I think [[Spotlight]] does well, and occasionally I need it.                                  |
+| 03:04      | So it's over there hanging out under the Control key, so under the Control Space, I get [[Spotlight]]     |
 | 03:08      | rolling.                                                                                              |
 | 03:09      | And, but at the same time, I've been running [[Raycast]] under Option Space and [[Alfred]] under              |
 | 03:15      | Command Space, and I don't foresee me changing that.                                                  |
-| 03:19      | So none of these are exclusive, and Spotlight in particular, because you already have it              |
+| 03:19      | So none of these are exclusive, and [[Spotlight]] in particular, because you already have it              |
 | 03:24      | on your Mac.                                                                                          |
 | 03:25      | So I think you will want to map that now.                                                             |
-| 03:27      | If you decide that you're just a Spotlight person, leave it under Command Space, but                  |
+| 03:27      | If you decide that you're just a [[Spotlight]] person, leave it under Command Space, but                  |
 | 03:31      | if you decide to jump on board with [[Raycast]], or [[Alfred]], or Launch Bar, any of the other               |
 | 03:35      | options, I would recommend remapping it to somewhere else and putting your primary launcher           |
 | 03:41      | under that Command Space key, but this is not an exclusive thing.                                     |
-| 03:46      | But getting back to Spotlight though, I remember was, I think it was Mac OS Tiger, where it           |
+| 03:46      | But getting back to [[Spotlight]] though, I remember was, I think it was Mac OS Tiger, where it           |
 | 03:52      | first came out.                                                                                       |
 | 03:53      | But when they first released it, there was indexing problems, and it was really slow.                 |
 | 03:58      | So it's one of those things where the first impression was not particularly good.                     |
-| 04:03      | But over the years, Spotlight has really evolved, and I feel like the last couple of years in         |
-| 04:06      | particular, Apple has been putting some wood behind the arrow on Spotlight.                           |
+| 04:03      | But over the years, [[Spotlight]] has really evolved, and I feel like the last couple of years in         |
+| 04:06      | particular, Apple has been putting some wood behind the arrow on [[Spotlight]].                           |
 | 04:14      | Let's start with some of the positives.                                                               |
-| 04:16      | If I do a search in Spotlight for Rosemary Orchard, the results now are really good.                  |
+| 04:16      | If I do a search in [[Spotlight]] for Rosemary Orchard, the results now are really good.                  |
 | 04:24      | Just putting your name in, it's going to get a bunch of mail and messages that references             |
 | 04:32      | you events.                                                                                           |
 | 04:33      | It tells me when your next birthday is.                                                               |
 | 04:35      | All this stuff just up on the screen, I see photos of you from my various things.                     |
-| 04:41      | The advantage of Spotlight, of course, is it's so integrated to Mac OS, it gets access                |
+| 04:41      | The advantage of [[Spotlight]], of course, is it's so integrated to Mac OS, it gets access                |
 | 04:45      | to files and data that the other ones don't get.                                                      |
 | 04:49      | Then if I hit Return on Rosemary for the version of your contact card, it's even better.              |
 | 04:55      | It's like I've got Apple Notes showing up that you're in reminders that we have together              |
@@ -139,7 +139,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 05:08      | call, send an email.                                                                                  |
 | 05:11      | I think they've done a really good job with things like that, of presenting data.                     |
 | 05:17      | When you do searches, it also does a really good job.                                                 |
-| 05:20      | I can see why a lot of people don't go beyond Spotlight because this is all they want.                |
+| 05:20      | I can see why a lot of people don't go beyond [[Spotlight]] because this is all they want.                |
 | 05:27      | At the same time, the search results are slow and ponderous in my opinion.                            |
 | 05:34      | I think it's one of those things.                                                                     |
 | 05:35      | If you don't have a huge amount on your Mac, and basically all you want to do is just open            |
@@ -147,31 +147,31 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 05:43      | I asked in the RelayFM Discord earlier before we recorded this episode, what people were              |
 | 05:48      | using.                                                                                                |
 | 05:49      | A couple of people, including Kathy Campbell, host of Conduit here on RelayFM, are perfectly          |
-| 05:56      | happy with Spotlight because they press command space, they type a couple of letters.                 |
+| 05:56      | happy with [[Spotlight]] because they press command space, they type a couple of letters.                 |
 | 06:00      | The application that they use comes up and they enter and they're done.                               |
-| 06:05      | I think it really depends on what Spotlight is indexing.                                              |
-| 06:08      | I know in the past, I have had to exclude folders from Spotlight indexing because it                  |
+| 06:05      | I think it really depends on what [[Spotlight]] is indexing.                                              |
+| 06:08      | I know in the past, I have had to exclude folders from [[Spotlight]] indexing because it                  |
 | 06:13      | just ended up taking up a huge amount of processing power on my machines at various times.            |
 | 06:18      | I downloaded a new [[Git]] repo, which would be a whole folder full of folders of code.                   |
 | 06:27      | Those files are tiny.                                                                                 |
-| 06:28      | I wouldn't take long to download, and then Spotlight is there going, yep, I'm going                   |
+| 06:28      | I wouldn't take long to download, and then [[Spotlight]] is there going, yep, I'm going                   |
 | 06:31      | to go and index all of this.                                                                          |
 | 06:33      | It's like, okay, you're trying to index 20,000 files right now, and I really don't need               |
 | 06:38      | you to be doing that.                                                                                 |
 | 06:39      | I'd like to actually, I don't know, compile the code perhaps, and it's one of those things            |
-| 06:46      | where you can end up perhaps having a slower experience with Spotlight because it's got               |
+| 06:46      | where you can end up perhaps having a slower experience with [[Spotlight]] because it's got               |
 | 06:51      | so much of that stuff in there.                                                                       |
-| 06:53      | You can actually, in system settings, you can exclude folders from Spotlight.                         |
+| 06:53      | You can actually, in system settings, you can exclude folders from [[Spotlight]].                         |
 | 06:58      | Which is definitely something that's worth considering if you've never really tried this              |
-| 07:03      | stuff out, and you want to give Spotlight a fair shake before you try anything else.                  |
+| 07:03      | stuff out, and you want to give [[Spotlight]] a fair shake before you try anything else.                  |
 | 07:08      | You can exclude things like events and reminders or fonts or music or movies from your search         |
 | 07:13      | results, and then there's an option somewhere else as well for excluding particular folders           |
-| 07:19      | from Spotlight.                                                                                       |
+| 07:19      | from [[Spotlight]].                                                                                       |
 | 07:21      | But it's one of those things where it does just feel really, especially if you're trying              |
 | 07:25      | to search for a shortcut.                                                                             |
 | 07:28      | I searched for a shortcut that I use all the time, which is apps missing data for iOS today.          |
 | 07:35      | First of all, I get a Unix executable as the first result, David.                                     |
-| 07:40      | I actually don't know what this file is, nor do I actually know how to find it in Spotlight.          |
+| 07:40      | I actually don't know what this file is, nor do I actually know how to find it in [[Spotlight]].          |
 | 07:46      | If I hit return, I'm pretty certain it's going to execute it, so I don't actually want to             |
 | 07:49      | do that.                                                                                              |
 | 07:52      | I have to navigate down with the arrow keys.                                                          |
@@ -357,7 +357,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 19:49      | It turned out that all we had to do was, when he was doing the rename, just delete the collection,    |
 | 19:54      | create a new collection, then import stuff into the new collection, and voila, it's                   |
 | 19:58      | simple.                                                                                               |
-| 19:59      | But, you know, when I had to do that and I was sitting there using Spotlight and it                   |
+| 19:59      | But, you know, when I had to do that and I was sitting there using [[Spotlight]] and it                   |
 | 20:01      | was like, okay, like mostly I'm using this to trigger a Google search.                                |
 | 20:05      | So it's fine and I just hit return because it's never going to have what I want in the                |
 | 20:09      | files.                                                                                                |
@@ -406,8 +406,8 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 22:54      | One more time issuiu.com/podcast with that promo code Automators and our thanks                 |
 | 23:00      | to Issuiu for their support of the Automators and all of RelayFM.                                     |
 | 23:07      | So David, we've teased people a little bit.                                                           |
-| 23:09      | We've looked at Spotlight.                                                                            |
-| 23:10      | Spotlight's fine.                                                                                     |
+| 23:09      | We've looked at [[Spotlight]].                                                                            |
+| 23:10      | [[Spotlight|Spotlight's]] fine.                                                                                     |
 | 23:11      | It's okay.                                                                                            |
 | 23:12      | But [[Raycast]] seems to be the new cool kid on the block and a lot of people are really                  |
 | 23:17      | loving it, and Chris Lawley, who we had on in the last episode, is a huge fan.                          |
@@ -445,7 +445,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 25:27      | So that's good, and I think that's something that a lot of people think about.                        |
 | 25:31      | It's like, do I want it as much as you and I like [[Alfred]]?                                             |
 | 25:34      | Some people don't want to pay for it, and I get that, and [[Raycast]] is an option for you,               |
-| 25:39      | and it's definitely better than Spotlight.                                                            |
+| 25:39      | and it's definitely better than [[Spotlight]].                                                            |
 | 25:43      | It brings in a lot of the stuff that we were complaining about in the last segment.                   |
 | 25:48      | It solves those problems, and the first thing is it's fast.                                           |
 | 25:51      | When you type in a search, it goes really fast.                                                       |
@@ -1134,7 +1134,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:10:41   | For me, I've got one custom folder search, which I've done for the applications folder                |
 | 01:10:47   | and the reason why I did this is because I can then search for something and find it                  |
 | 01:10:52   | in the applications folder and the return key will open it in the applications folder                 |
-| 01:10:57   | instead of me having to use the command return to get it in Spotlight, sorry, to get it               |
+| 01:10:57   | instead of me having to use the command return to get it in [[Spotlight]], sorry, to get it               |
 | 01:11:06   | in Finder and also it's specifically searching things that are just in the applications               |
 | 01:11:10   | folder.                                                                                               |
 | 01:11:11   | I do have applications installed in other locations, like my user's applications folder, but I'm      |
@@ -1278,7 +1278,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:21:00   | But we're not going to cover that one today.                                                          |
 | 01:21:02   | I think we've gone enough at this, but it's nice to see that this is a healthy, active                |
 | 01:21:09   | environment for people with lots of competing apps doing cool stuff, whether you're using             |
-| 01:21:15   | Spotlight or [[Raycast]] or [[Alfred]] or Launch Bar.                                                         |
+| 01:21:15   | [[Spotlight]] or [[Raycast]] or [[Alfred]] or Launch Bar.                                                         |
 | 01:21:18   | I feel like all of these can help you automate.                                                       |
 | 01:21:21   | Absolutely, and even if you just go, okay, well, I'm not sure I need any of these workflows           |
 | 01:21:28   | or anything.                                                                                          |

@@ -185,7 +185,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 08:06      | things into the tools that we're already using for automation, even if you're only doing              |
 | 08:11      | a very light usage of any of these openers can really make a difference.                              |
 | 08:16      | Do you find that using the launcher approach is something that comes easy for you?                    |
-| 08:22      | Yeah, because for me, I just replaced Spotlight with [[Alfred]], and I spend pretty much all day          |
+| 08:22      | Yeah, because for me, I just replaced [[Spotlight]] with [[Alfred]], and I spend pretty much all day          |
 | 08:30      | every day using a keyboard.                                                                           |
 | 08:32      | The mouse is right there.                                                                             |
 | 08:33      | I'm not going to say I don't use the mouse.                                                           |

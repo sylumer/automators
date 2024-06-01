@@ -564,7 +564,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 34:54      | of [[Shortcuts]], if you go to the folders area where there's called app shortcuts.                                  |
 | 34:59      | And these are things that are created by apps that just sort of pop up and appear.                               |
 | 35:05      | And you can actually enable those to appear in Siri.                                                             |
-| 35:09      | They automatically appear in Spotlight, at least for me, but you can also enable those                           |
+| 35:09      | They automatically appear in [[Spotlight]], at least for me, but you can also enable those                           |
 | 35:13      | to appear in Siri.                                                                                               |
 | 35:14      | And I feel like this is a nice sort of halfway point where we're not yet necessarily ready                       |
 | 35:22      | to fully unleash an AI on us, because if you ask an AI, what's the best way to prepare                           |

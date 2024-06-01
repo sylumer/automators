@@ -665,15 +665,15 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 57:58      | Yeah. I mean, the ability to trigger Keyboard Maestro scripts while you're                               |
 | 58:02      | from [[Alfred]] is just a remarkable little tool because [[Alfred]] is always very close.                        |
 | 58:09      | Do you guys trigger [[Alfred]] with Command Space, Control Space? How do you trigger [[Alfred]]?                 |
-| 58:14      | Oh, Command Space. Absolutely. It has replaced Spotlight.                                                |
-| 58:19      | Yeah. I remap Spotlight to Option Space and then [[Alfred]] is Command Space.                                |
+| 58:14      | Oh, Command Space. Absolutely. It has replaced [[Spotlight]].                                                |
+| 58:19      | Yeah. I remap [[Spotlight]] to Option Space and then [[Alfred]] is Command Space.                                |
 | 58:24      | Every so often, my Mac has been doing this weird thing because I'm back on the Intel Mac and I           |
 | 58:28      | think it's throwing a wobbly because I was on the M1 and I liked it more. So, it throws a wobbly         |
 | 58:34      | and it doesn't start [[Alfred]] at launch. And I'm not quite sure why this is. I've narrowed it down to      |
 | 58:39      | it's not an [[Alfred]] problem because [[Alfred]] is doing all the right things that it's supposed to do.        |
 | 58:46      | So, I've narrowed it down to Mac OS is being weird. So, I need Option Space available. Should I          |
-| 58:53      | need to start [[Alfred]] from Spotlight, which is pretty much the only thing I use Spotlight for             |
-| 58:57      | nowadays. All you do is to remap that, all you do is you open up Spotlight and then hit Command          |
+| 58:53      | need to start [[Alfred]] from [[Spotlight]], which is pretty much the only thing I use [[Spotlight]] for             |
+| 58:57      | nowadays. All you do is to remap that, all you do is you open up [[Spotlight]] and then hit Command          |
 | 59:02      | Comma and then you can remap it to Option or Control Space and then that allows you to set               |
 | 59:07      | the [[Alfred]] trigger to Command Space as you do. This episode of Automators is brought to you              |
 | 59:14      | by Forward Networks. Forward Networks produces business risks by revolutionising the way large           |

@@ -834,7 +834,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 46:34      | And the fact that I have multiple shortcuts in the dock on my parents'                                  |
 | 46:37      | machines because they are the sort of people who will go to the dock to run an application.             |
 | 46:43      | They aren't keyboard warriors where they'll launch everything through                                   |
-| 46:46      | Spotlight or [[Alfred]] or, you know, [[LaunchBar]] or whatever.                                                |
+| 46:46      | [[Spotlight]] or [[Alfred]] or, you know, [[LaunchBar]] or whatever.                                                |
 | 46:50      | But, you know, I've got shortcuts for them there and they work and they like them.                      |
 | 46:54      | That's that's a really great place to be.                                                               |
 | 46:57      | All right, overall, on the Mac, just summing up, I continue to argue                                    |

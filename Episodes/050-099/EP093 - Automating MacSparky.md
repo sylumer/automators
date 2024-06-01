@@ -1070,7 +1070,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:01:35   | And it's working really well for me, especially when I added the shortcuts to start my podcasting      |
 | 01:01:41   | focus mode to my doc and I then removed it from my doc.                                                |
 | 01:01:44   | That meant that start podcasting focus mode is now an application in my personal user                  |
-| 01:01:49   | application folder, which means that I can run it through [[Alfred]] and Spotlight and Keyboard            |
+| 01:01:49   | application folder, which means that I can run it through [[Alfred]] and [[Spotlight]] and Keyboard            |
 | 01:01:54   | Maestro and Bunch.                                                                                     |
 | 01:01:56   | And it works really well.                                                                              |
 | 01:01:57   | What are the pluses and minuses of doing that in Bunch versus Keyboard Maestro for you?                |

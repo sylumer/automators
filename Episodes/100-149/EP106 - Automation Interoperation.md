@@ -717,7 +717,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 25:55      | Like for instance, with [[Raycast]], it's just built-in.              |
 | 26:00      | You don't even have to run a plugin,                              |
 | 26:02      | you just type the name of the shortcut                            |
-| 26:04      | with Spotlight after Ventura ships,                               |
+| 26:04      | with [[Spotlight]] after Ventura ships,                               |
 | 26:08      | it'll be the same way.                                            |
 | 26:10      | I actually kind of prefer the method of [[Alfred]]                    |
 | 26:15      | and [[LaunchBar]] where you run a plugin                              |

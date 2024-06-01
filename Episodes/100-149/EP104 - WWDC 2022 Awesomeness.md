@@ -1080,8 +1080,8 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:13:27   | Thus far, I've been using a combination of random things sort of duct tape together with                  |
 | 01:13:31   | wishes and hope and a bit of gum and definitely more duct tape. Being able to just use the                |
 | 01:13:36   | clock app inside of that. Thank you very much. I'll take that. You know, why not?                         |
-| 01:13:42   | Some other improvements. You can now run shortcuts straight from Spotlight. So you can just type          |
-| 01:13:47   | in the shortcut name and run it and you can run specific app actions from Spotlight like                  |
+| 01:13:42   | Some other improvements. You can now run shortcuts straight from [[Spotlight]]. So you can just type          |
+| 01:13:47   | in the shortcut name and run it and you can run specific app actions from [[Spotlight]] like                  |
 | 01:13:52   | a timer if you want. That's kind of cool. Yes. I think this is related to the new API,                    |
 | 01:13:57   | the intense API that we're getting because the idea behind this is essentially if you've                  |
 | 01:14:04   | never opened the Shortcuts app before and you go and you open the Shortcuts app, it's empty               |
@@ -1093,7 +1093,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:14:37   | so that it, you know, it doesn't interfere with my life. And this thing that I always                     |
 | 01:14:42   | say the wrong thing, I'm going to put that to be the right thing or I'm going to add                      |
 | 01:14:45   | another version of it so that I can just say whatever I want and it'll do it. But this                    |
-| 01:14:49   | means that all of those can then be made available to Spotlight, which works on the iPad as far           |
+| 01:14:49   | means that all of those can then be made available to [[Spotlight]], which works on the iPad as far           |
 | 01:14:55   | as I can tell as well as the Mac. And I'm sure it works in on the iPhone as well with                     |
 | 01:15:01   | the new search bar at the bottom as well, which is nice. But, you know, it's, it's just                   |
 | 01:15:05   | an improvement, a big improvement because everything is everywhere. And even if you're                    |
@@ -1123,7 +1123,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:17:06   | And I can toggle off suggest in search. So if something is showing up in the search that                  |
 | 01:17:11   | I don't want to, then I can get rid of that, which is quite nice. So yay. I'm really pleased              |
 | 01:17:18   | about that.                                                                                               |
-| 01:17:19   | You can also just generally remove shortcuts from Spotlight if you just hit the three dots.               |
+| 01:17:19   | You can also just generally remove shortcuts from [[Spotlight]] if you just hit the three dots.               |
 | 01:17:25   | So they've made a way, before they made a way to add them, now they've made a way to                      |
 | 01:17:29   | remove them if there was ones that keep showing up and conflicting with things you want to                |
 | 01:17:32   | search for. All this is just really nice quality of life. Kind of getting back to the top of              |

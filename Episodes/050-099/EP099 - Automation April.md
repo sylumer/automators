@@ -546,9 +546,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 30:55      | That's the idea.                                                                                      |
 | 30:56      | So maybe Apple is listening to this feedback, asking for the share sheet on the Mac, but              |
 | 31:02      | maybe they will have a special twist on it, which is, well, it's not a share sheet, but               |
-| 31:09      | now you can trigger all your shortcuts with input from Spotlight or something like that.              |
+| 31:09      | now you can trigger all your shortcuts with input from [[Spotlight]] or something like that.              |
 | 31:16      | So like the idea that it's a Mac and it's different and it's primarily keyboard based,                |
-| 31:22      | the share sheet makes more sense for an iPhone, but on the Mac, I could see like Spotlight            |
+| 31:22      | the share sheet makes more sense for an iPhone, but on the Mac, I could see like [[Spotlight]]            |
 | 31:27      | become this like smart shortcuts activator of sorts where depending on what you're doing,             |
 | 31:34      | it lets you pass input to a shortcut in different ways.                                               |
 | 31:39      | Yeah, that would be pretty cool.                                                                      |

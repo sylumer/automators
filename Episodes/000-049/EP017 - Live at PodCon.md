@@ -645,7 +645,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 30:43      | But the question was, how do you choose between Automator, [[Alfred]], Keyboard, Maestro, Apple                        |
 | 30:47      | Script, [[Hazel]], I can think of a few more to perform actions.                                                       |
 | 30:53      | And I think it really depends on what you're doing.                                                                |
-| 30:58      | Just a quick rundown, tools like Spotlight, Automator, I'm sorry Spotlight, [[Alfred]], Launch                         |
+| 30:58      | Just a quick rundown, tools like [[Spotlight]], Automator, I'm sorry [[Spotlight]], [[Alfred]], Launch                         |
 | 31:05      | Bar, those are tools that are allowing you to use your keyboard to do things on your                               |
 | 31:09      | Mac quickly.                                                                                                       |
 | 31:10      | But they aren't really automation tools that much, although with [[Alfred]] and Launch Bar,                            |

@@ -388,7 +388,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 15:26      | attached to the same code base, but in reality have very little to do with each other.                        |
 | 15:30      | So without actually looking at the details here, you know, I can't tell you if Siri                           |
 | 15:34      | suggestions really use the exact same stuff that the Siri, the voice assistant uses.                          |
-| 15:39      | But I can say that if I swipe down on Spotlight at the moment, the eight Siri suggestions                     |
+| 15:39      | But I can say that if I swipe down on [[Spotlight]] at the moment, the eight Siri suggestions                     |
 | 15:43      | that are there are bang on for this time of day.                                                              |
 | 15:46      | Exactly.                                                                                                      |
 | 15:47      | But there's also the thing, the Madness.                                                                      |

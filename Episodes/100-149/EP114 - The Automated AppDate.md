@@ -596,8 +596,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 31:16      | And the spotlight thing, I think, is great for people who aren't even interested in shortcuts.         |
 | 31:20      | I think this is an automation that's worth checking out.                                               |
 | 31:24      | So walk us through.                                                                                    |
-| 31:25      | Rose, how do you check the weather using Spotlight?                                                    |
-| 31:28      | Well, so I have Spotlight under, I've actually got it under option P on my Mac OS Ventura              |
+| 31:25      | Rose, how do you check the weather using [[Spotlight]]?                                                    |
+| 31:28      | Well, so I have [[Spotlight]] under, I've actually got it under option P on my Mac OS Ventura              |
 | 31:37      | Mac, which is off here to my left.                                                                     |
 | 31:39      | And then I just typed weather.                                                                         |
 | 31:41      | And of course, now I've dismissed it because the machine's off to my left.                             |
@@ -614,7 +614,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 32:31      | Did that work for you as well, David?                                                                  |
 | 32:33      | Yeah, yeah.                                                                                            |
 | 32:34      | And hopefully it's more discoverable by people as well in that sense.                                  |
-| 32:38      | Spotlight for me, I always have to think about it too, because I use [[Alfred]] as my command              |
+| 32:38      | [[Spotlight]] for me, I always have to think about it too, because I use [[Alfred]] as my command              |
 | 32:42      | space, you know, so I've got to go over to option space to get that going.                             |
 | 32:47      | I haven't used it a lot through the beta because frankly, I've got other ways to do this stuff.        |
 | 32:52      | But I do think, you know, this is kind of like a boon from bringing those apps over.                   |
@@ -651,7 +651,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 34:50      | And then it's going into documents.                                                                    |
 | 34:52      | So I'm going to have to go back in and fiddle with the settings or the system, well, it                |
 | 34:56      | is system settings now, isn't it, because they've changed the name of system preferences.              |
-| 35:00      | But yeah, so for anybody who had Spotlight disabled, because they've been using [[Alfred]]                 |
+| 35:00      | But yeah, so for anybody who had [[Spotlight]] disabled, because they've been using [[Alfred]]                 |
 | 35:05      | or something, and they want to go ahead and re-enable it, you'll need to look for the                  |
 | 35:10      | keyboard options in the new settings, system settings app.                                             |
 | 35:15      | And then you can actually re-enable it under keyboard shortcuts, which is quite good, and              |
