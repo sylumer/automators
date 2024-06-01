@@ -1,6 +1,5 @@
 ---
 status: incomplete
-creator_company: ""
 notetype: organisation
 ---
 
