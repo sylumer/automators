@@ -1269,7 +1269,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:05   | And it runs a script that says, you know, what's the idea I type in using Bunch.                       |
 | 01:14:09   | It has a little checkbox there.                                                                        |
 | 01:14:11   | If I've got something saved to the clipboard, I can add it or not.                                     |
-| 01:14:14   | And then it creates a custom Obsidian note on that idea, titles it, adds all the YAML                  |
+| 01:14:14   | And then it creates a custom Obsidian note on that idea, titles it, adds all the [[YAML]]                  |
 | 01:14:22   | data, all the stuff I do to create an Obsidian post and saves it to the exact folder where             |
 | 01:14:27   | I keep content ideas.                                                                                  |
 | 01:14:28   | And later I'll go through that list and start thinking about more.                                     |
@@ -1281,7 +1281,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:48   | And I do the exact same, I get the exact same result using Drafts.                                     |
 | 01:14:53   | And it's not that hard.                                                                                |
 | 01:14:55   | You open [[Drafts]] and [[Drafts]] has a templated text [[Drafts]] action.                                         |
-| 01:14:59   | We've talked about it on the show before and I took the exact same YAML content and Obsidian           |
+| 01:14:59   | We've talked about it on the show before and I took the exact same [[YAML]] content and Obsidian           |
 | 01:15:07   | outline that I use when I have a new content idea.                                                     |
 | 01:15:10   | And [[Drafts]] now has the ability to save locally anywhere you want.                                      |
 | 01:15:16   | So I save that to the exact same folder on my phone.                                                   |

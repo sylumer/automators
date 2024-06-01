@@ -357,7 +357,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 25:15      | Well, I think for a lot of people, it will enhance things. Say, for example, somebody                |
 | 25:20      | who uses Jekyll or Hugo or something as their blogging platform, normally that's got a block         |
 | 25:26      | at the top that's got three dashes above it and three dashes below and then inside it                |
-| 25:30      | that's a YAML format. Something like that, you can now do in [[Drafts]] and that can have                |
+| 25:30      | that's a [[YAML]] format. Something like that, you can now do in [[Drafts]] and that can have                |
 | 25:36      | its own bit of theming because it knows that that's there because it's got the starter               |
 | 25:41      | and the ender and then the rest of it's in Markdown. That's something that's much easier              |
 | 25:45      | to do and have look right because I know that's something I've struggled with before                 |

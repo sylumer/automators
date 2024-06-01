@@ -739,7 +739,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 58:10      | this, and now I'm going to dump it in obsidian, because that works for me. And you just kind of           |
 | 58:14      | do what makes sense, like for instance, in obsidian, I have a template for a new client project,          |
 | 58:20      | you know, when a legal client asked me to do a thing for them, there's a new markdown document            |
-| 58:25      | created, and it's got all the like stuff in there, it's got the YAML matter, it's got the links for       |
+| 58:25      | created, and it's got all the like stuff in there, it's got the [[YAML]] matter, it's got the links for       |
 | 58:30      | the OmniFocus project, it does all that for me. But when someone calls me, and I want to take             |
 | 58:36      | notes on that call, I have a [[Drafts]] template, and I open Drafts, and I push a button, and it fills        |
 | 58:42      | in the date and the time and a whole bunch of other stuff, and I type in who I'm talking to,              |

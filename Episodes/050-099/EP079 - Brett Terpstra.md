@@ -472,10 +472,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 24:00      | So you can give it whatever name you like, and so you have a file name, which means something        |
 | 24:03      | to you.                                                                                              |
 | 24:04      | And then inside of the file, you have a title section at the top, which looks to me like             |
-| 24:09      | YAML.                                                                                                |
-| 24:10      | Is it YAML, Brett?                                                                                   |
+| 24:09      | [[YAML]].                                                                                                |
+| 24:10      | Is it [[YAML]], Brett?                                                                                   |
 | 24:11      | Yeah.                                                                                                |
-| 24:12      | It's YAML-esque, like it doesn't handle advanced structures like arrays and objects that YAML        |
+| 24:12      | It's YAML-esque, like it doesn't handle advanced structures like arrays and objects that [[YAML]]        |
 | 24:19      | normally would, but it is basically key.                                                             |
 | 24:22      | It's a lot like markdown metadata too, or multi-markdown.                                            |
 | 24:26      | So it's just key, colon, and then a value.                                                           |

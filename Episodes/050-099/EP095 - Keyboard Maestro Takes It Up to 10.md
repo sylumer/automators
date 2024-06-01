@@ -1341,7 +1341,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:31:56   | the content ID and hit return. And then I've saved it for future consideration. And it came out good.    |
 | 01:32:01   | You know, it wasn't, like I said, the super complicated automation problem, but it did need              |
 | 01:32:05   | automation because I didn't want to have to stop and like put all that together every time I did it.     |
-| 01:32:11   | Yeah. In the text file, I have YAML data, which is kind of going deep catalogue here in Obsidian. But      |
+| 01:32:11   | Yeah. In the text file, I have [[YAML]] data, which is kind of going deep catalogue here in Obsidian. But      |
 | 01:32:17   | so there's additional tags and ways I can filter and Obsidian based on that stuff that's                 |
 | 01:32:23   | automatically added. So I solved the problem on the Mac first, because that's where I spend most         |
 | 01:32:28   | of my time working. But then I wanted to solve it on the iPhone. Right. So shortcuts? Shortcuts.         |

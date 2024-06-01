@@ -197,7 +197,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 05:37      | We'll come back to integrating Obsidian with other apps in a bit.                                  |
 | 05:41      | But for me, it is just like this is data and I want to keep it.                                    |
 | 05:45      | It's going in here and then I can add my tags and so on.                                           |
-| 05:48      | And I don't know about you, David, but I really like the YAML frontmatter                          |
+| 05:48      | And I don't know about you, David, but I really like the [[YAML]] frontmatter                          |
 | 05:52      | where you can put a dash dash dash at the start of a file.                                         |
 | 05:55      | And then you have key value pairs.                                                                 |
 | 05:57      | So you write, you know, a word, colon, and then whatever the value is for that.                    |
@@ -209,7 +209,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 06:20      | So I'm just looking at, I have home documentation.                                                 |
 | 06:24      | I'm such a nerd, David, I've got a network folder                                                  |
 | 06:27      | where I've documented a whole bunch of things on my network.                                       |
-| 06:30      | And each of those things that I've documented has a YAML header at the top.                        |
+| 06:30      | And each of those things that I've documented has a [[YAML]] header at the top.                        |
 | 06:36      | And it's got like the IP address, the MAC address, what room something's in,                       |
 | 06:39      | a category that something's in the connection type,                                                |
 | 06:41      | whether it's a wireless or a wired connection.                                                     |
@@ -231,7 +231,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 07:33      | And I just feel like the whole thing is very elegant.                                              |
 | 07:39      | And once you start using it and getting an understanding                                           |
 | 07:42      | for some of the plugins we talk about today,                                                       |
-| 07:44      | that YAML metadata becomes super valuable.                                                         |
+| 07:44      | that [[YAML]] metadata becomes super valuable.                                                         |
 | 07:46      | Like you can, like I have one that's just a status flag, you know, it's a tag.                     |
 | 07:51      | And then I can use some of the plugins we're going to talk about later                             |
 | 07:54      | to create tables based on project status.                                                          |
@@ -420,7 +420,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 16:36      | And then I just type a few letters of the template name,                                           |
 | 16:39      | AUT for Automator's Episode.                                                                       |
 | 16:42      | And then it just dumps the text into a new document with all the, you know,                        |
-| 16:47      | the YAML data for automators and status and recording information in Google Docs.                  |
+| 16:47      | the [[YAML]] data for automators and status and recording information in Google Docs.                  |
 | 16:53      | All that stuff just gets dumped right on the page.                                                 |
 | 16:56      | And it's super useful.                                                                             |
 | 16:57      | And even though there's more advanced template stuff you can do in obsidian,                       |
@@ -1538,7 +1538,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 59:53      | the one that I keep finding                                                                        |
 | 59:55      | useful is [[Hazel]] and                                                                                |
 | 59:57      | like what we talked                                                                                |
-| 59:59      | earlier about YAML and tags like you                                                               |
+| 59:59      | earlier about [[YAML]] and tags like you                                                               |
 | 01:00:01   | can put a tag in like one of my most                                                               |
 | 01:00:03   | commonly used tags is active                                                                       |
 | 01:00:05   | and then I've got one called planning                                                              |
@@ -1723,7 +1723,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:06:03   | and Obsidian has [[URL Schemes\|URL scheme]]s it isn't                                                              |
 | 01:06:05   | that difficult to create an automation                                                             |
 | 01:06:07   | to write something new in [[Drafts]]                                                                  |
-| 01:06:09   | even have [[Drafts]] put the YAML data                                                                 |
+| 01:06:09   | even have [[Drafts]] put the [[YAML]] data                                                                 |
 | 01:06:11   | and everything for you push a single button                                                        |
 | 01:06:13   | and [[Drafts]] creates a file                                                                          |
 | 01:06:15   | puts it in your Obsidian database next time you open                                               |
@@ -1755,7 +1755,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:07:07   | much easier and honestly                                                                           |
 | 01:07:09   | the template stuff we were talking about earlier                                                   |
 | 01:07:11   | I have a whole bunch of                                                                            |
-| 01:07:13   | YAML header templates in [[Drafts]]                                                                   |
+| 01:07:13   | [[YAML]] header templates in [[Drafts]]                                                                   |
 | 01:07:15   | as well because                                                                                    |
 | 01:07:17   | it works very well for quickly                                                                     |
 | 01:07:19   | creating like hey here's the block of data                                                         |
@@ -1816,7 +1816,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:09:09   | import buttons in [[Drafts]] so                                                                        |
 | 01:09:11   | when I write something in [[Drafts]]                                                                  |
 | 01:09:13   | depending on which button I push changes                                                           |
-| 01:09:15   | what YAML gets applied and where it gets located                                                   |
+| 01:09:15   | what [[YAML]] gets applied and where it gets located                                                   |
 | 01:09:17   | and where it gets sent and                                                                         |
 | 01:09:19   | I find that very useful but                                                                        |
 | 01:09:21   | the trap I can get caught                                                                          |
@@ -1968,7 +1968,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:14:13   | and creates OmniFocus lists and                                                                    |
 | 01:14:15   | whatnot but one of the things it does                                                              |
 | 01:14:17   | is create a text file                                                                              |
-| 01:14:19   | with all the appropriate YAML data                                                                 |
+| 01:14:19   | with all the appropriate [[YAML]] data                                                                 |
 | 01:14:21   | that we use for Automators and it saves it                                                         |
 | 01:14:23   | to the active Automators episodes                                                                  |
 | 01:14:25   | folder in my Obsidian                                                                              |
@@ -2000,7 +2000,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:15:17   | apply that variable to set                                                                         |
 | 01:15:19   | a pound planning                                                                                   |
 | 01:15:21   | pound active                                                                                       |
-| 01:15:23   | to the YAML                                                                                        |
+| 01:15:23   | to the [[YAML]]                                                                                        |
 | 01:15:25   | you can put a tag in that's dependent                                                              |
 | 01:15:27   | on the user response                                                                               |
 | 01:15:29   | and then guess what happens when you make that file                                                |
@@ -2042,7 +2042,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:41   | out of sync data                                                                                   |
 | 01:16:43   | because there's nothing worse than going right                                                     |
 | 01:16:45   | cool. Data the                                                                                     |
-| 01:16:47   | YAML headers that I'm using in these files                                                         |
+| 01:16:47   | [[YAML]] headers that I'm using in these files                                                         |
 | 01:16:49   | folks I tend to use [[BBEdit]] if I'm                                                                 |
 | 01:16:51   | doing a mass edit of lots of text files                                                            |
 | 01:16:53   | and it works great on Markdown files as well                                                       |
@@ -2442,7 +2442,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:30:03   | or a folder inside of Obsidian                                                                     |
 | 01:30:05   | for me with a                                                                                      |
 | 01:30:07   | template of data in there                                                                          |
-| 01:30:09   | and in that YAML header as I mentioned before                                                      |
+| 01:30:09   | and in that [[YAML]] header as I mentioned before                                                      |
 | 01:30:11   | it will have                                                                                       |
 | 01:30:13   | you know hashtag to do                                                                             |
 | 01:30:15   | or just the tag to do                                                                              |

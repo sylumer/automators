@@ -569,7 +569,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 19:56      | So I think, I think that's the extent of my home, my smart home stuff.                                                                                                   |
 | 20:00      | Have you played with Homebridge recently because I know Homebridge                                                                                                       |
 | 20:03      | didn't used to have a pretty user interface, but it actually does now.                                                                                                   |
-| 20:07      | And it's a lot simpler to use than it previously was with editing the YAML file                                                                                          |
+| 20:07      | And it's a lot simpler to use than it previously was with editing the [[YAML]] file                                                                                          |
 | 20:10      | or the JSON file in the back end for the configuration.                                                                                                                  |
 | 20:13      | I switched from Homebridge to HOOBS because of that.                                                                                                                    |
 | 20:18      | And at the time that I made the switch, Homebridge did then have the new,                                                                                                |

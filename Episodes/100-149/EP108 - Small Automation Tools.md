@@ -1052,7 +1052,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 42:25      | added recently, which is being able to just select text on a        |
 | 42:29      | website and then like, so on the pilot moon forms, pilot            |
 | 42:34      | moon being to create the PopClip and then that is, especially       |
-| 42:37      | formatted text, it's formatted in YAML.                             |
+| 42:37      | formatted text, it's formatted in [[YAML]].                             |
 | 42:40      | So it's got, you know, like a special like name colon and           |
 | 42:44      | then whatever it is, the name of the PopClip action, but you        |
 | 42:47      | can select it and just add it.                                      |

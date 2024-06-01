@@ -1279,7 +1279,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:10:38   | Oh, JQ is actually a really useful tool for parsing JSON files                                          |
 | 01:10:41   | on the command line.                                                                                    |
 | 01:10:43   | Huh, and there's another one called YQ,                                                                 |
-| 01:10:45   | which is great for parsing YAML files.                                                                  |
+| 01:10:45   | which is great for parsing [[YAML]] files.                                                                  |
 | 01:10:47   | Great, now I know that, and I can understand that a little bit,                                         |
 | 01:10:49   | so that bit's fine.                                                                                     |
 | 01:10:51   | And I'll move on, like, what is RM minus RF?                                                            |

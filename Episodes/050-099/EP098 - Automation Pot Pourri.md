@@ -1751,13 +1751,13 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:11:06   | oh wait, that sounds really interesting.                              |
 | 01:11:08   | Every note in Obsidian is a markdown file                             |
 | 01:11:11   | or should be a markdown file ideally.                                 |
-| 01:11:13   | And you can have a YAML header at the top                             |
+| 01:11:13   | And you can have a [[YAML]] header at the top                             |
 | 01:11:15   | where you have three dashes and then you have like a name,            |
 | 01:11:20   | colon and then the value.                                             |
 | 01:11:21   | And so what I've done for all of these devices                        |
 | 01:11:24   | that I have in my network,                                            |
 | 01:11:25   | every single one of them has its own note.                            |
-| 01:11:28   | And in that YAML header,                                              |
+| 01:11:28   | And in that [[YAML]] header,                                              |
 | 01:11:30   | I've got the IP address, the MAC address,                             |
 | 01:11:32   | the room, the categories,                                             |
 | 01:11:34   | if it's got categories and a connection.                              |
@@ -1791,7 +1791,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:12:47   | Yeah, there's just like always new plugins showing up,                |
 | 01:12:50   | and it's kind of awesome.                                             |
 | 01:12:52   | Now, that was a lot of word soup,                                     |
-| 01:12:53   | but just for people who are not familiar with YAML,                   |
+| 01:12:53   | but just for people who are not familiar with [[YAML]],                   |
 | 01:12:55   | it's really just an embedded set of data                              |
 | 01:12:59   | about your file at the very top.                                      |
 | 01:13:00   | Yeah, it's just key value pairs, essentially.                         |
@@ -1810,11 +1810,11 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:13:37   | And if you think this sounds a bit familiar                           |
 | 01:13:39   | and you've used Jekyll or something as a blog before,                 |
 | 01:13:41   | then it's the same format as used there.                              |
-| 01:13:45   | And one of the best advantages of YAML                                |
+| 01:13:45   | And one of the best advantages of [[YAML]]                                |
 | 01:13:47   | is you can embed tags there.                                          |
 | 01:13:49   | So, like, all the data view sorting tags I use,                       |
 | 01:13:52   | like MacSparky, blog, all that stuff,                                |
-| 01:13:55   | is in the YAML data.                                                  |
+| 01:13:55   | is in the [[YAML]] data.                                                  |
 | 01:13:57   | And as an automator, you can create this super easy.                  |
 | 01:14:00   | So, like, let's say I want to standardise                             |
 | 01:14:04   | the blog note for Obsidian.                                           |
@@ -1850,22 +1850,22 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:15:26   | and needs to be saved as a markdown because Obsidian                  |
 | 01:15:28   | only sees markdown files.                                             |
 | 01:15:30   | And then it saves it.                                                 |
-| 01:15:31   | But because it filled in all that YAML data when it created it,       |
+| 01:15:31   | But because it filled in all that [[YAML]] data when it created it,       |
 | 01:15:35   | it immediately shows up in all my searches in Obsidian.               |
 | 01:15:39   | It's such a beautiful, simple automation system.                      |
 | 01:15:43   | I just kind of wanted to put a bit of a spotlight on it.              |
 | 01:15:46   | Yes, it is really great.                                              |
-| 01:15:48   | The other advantage of YAML, which I should note,                     |
+| 01:15:48   | The other advantage of [[YAML]], which I should note,                     |
 | 01:15:50   | because I'm aware some people have told me before they've had         |
 | 01:15:53   | this problem with Bear, is you don't have to put the text,            |
 | 01:15:57   | the tags, sorry, of whatever it is that you're using                  |
 | 01:16:00   | in the body of your text.                                             |
-| 01:16:02   | It just can be in the YAML header,                                    |
+| 01:16:02   | It just can be in the [[YAML]] header,                                    |
 | 01:16:04   | which means that when you preview it,                                 |
 | 01:16:06   | you don't see that anywhere.                                          |
 | 01:16:08   | And that is a really nice bonus of doing that.                        |
 | 01:16:12   | And so it's worth doing.                                              |
-| 01:16:14   | The only thing to watch out for with YAML                             |
+| 01:16:14   | The only thing to watch out for with [[YAML]]                             |
 | 01:16:16   | is if you're going to make a list,                                    |
 | 01:16:19   | or indent things and nest properties,                                 |
 | 01:16:22   | you need to make sure your spacing is 100% spot on                    |
@@ -1893,10 +1893,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:17:24   | I just started working out this morning.                              |
 | 01:17:26   | I haven't got it working 100% of the time yet.                        |
 | 01:17:28   | So I have an active tag,                                              |
-| 01:17:30   | and that doesn't go in YAML for me.                                   |
+| 01:17:30   | and that doesn't go in [[YAML]] for me.                                   |
 | 01:17:32   | The status of the project goes into the body of the file              |
 | 01:17:38   | because that changes over time,                                       |
-| 01:17:40   | and I don't want to be changing the YAML stuff.                       |
+| 01:17:40   | and I don't want to be changing the [[YAML]] stuff.                       |
 | 01:17:42   | So I'm creating a simple little Keyboard Maestro script               |
 | 01:17:48   | that is just using UI scripting.                                      |
 | 01:17:51   | So it's hitting the keyboard shortcut for the find and replace        |
