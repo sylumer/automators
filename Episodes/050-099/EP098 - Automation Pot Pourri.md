@@ -1683,7 +1683,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:07:52   | or each of the entries in my network diagram                          |
 | 01:07:55   | links to a page for that item,                                        |
 | 01:07:57   | which has like the MAC address and everything on it.                  |
-| 01:08:00   | And then I went kind of crazy with the Obsidian Dataview tables       |
+| 01:08:00   | And then I went kind of crazy with the Obsidian [[Dataview]] tables       |
 | 01:08:06   | and that prints out a table of all of the different devices           |
 | 01:08:09   | and their information as well,                                        |
 | 01:08:11   | which I'm just really impressed as a thing I can do to be honest.     |
@@ -1708,8 +1708,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:09:02   | There's just a whole lot to do with it.                               |
 | 01:09:04   | But from an automation perspective,                                   |
 | 01:09:06   | there's a lot in here if you're an automator.                         |
-| 01:09:09   | Rose just mentioned, for instance, Dataview.                          |
-| 01:09:12   | And Dataview is one of the plugins                                    |
+| 01:09:09   | Rose just mentioned, for instance, [[Dataview]].                          |
+| 01:09:12   | And [[Dataview]] is one of the plugins                                    |
 | 01:09:14   | that lets you collect like collections of data                        |
 | 01:09:18   | in your sitting database without,                                     |
 | 01:09:21   | it just like lays a logic on top of all these markdown files.         |
@@ -1719,7 +1719,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:09:32   | for lack of a better term is I have a page in there                   |
 | 01:09:35   | called, you know, MacSparky status board.                             |
 | 01:09:39   | And it is like everything I'm working on is MacSparky                 |
-| 01:09:43   | and it's a bunch of Dataview formulas.                                |
+| 01:09:43   | and it's a bunch of [[Dataview]] formulas.                                |
 | 01:09:45   | Like one of them is it's looking for,                                 |
 | 01:09:48   | it makes me a list of every note that has the tags in it,             |
 | 01:09:52   | MacSparky, blog, post, and active.                                    |
@@ -1737,13 +1737,13 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:10:25   | but if I look for automators and planning, you know,                  |
 | 01:10:28   | so I've found ways to slice and dice these,                           |
 | 01:10:31   | these folders or these markdown files using these                     |
-| 01:10:34   | automation tools like Dataview to give me a very easy way             |
+| 01:10:34   | automation tools like [[Dataview]] to give me a very easy way             |
 | 01:10:39   | to access everything that needs to be important to me today.          |
 | 01:10:43   | And it just wasn't that hard.                                         |
-| 01:10:45   | Dataview is the plug and I use it.                                    |
+| 01:10:45   | [[Dataview]] is the plug and I use it.                                    |
 | 01:10:47   | Sounds like you're using it too.                                      |
 | 01:10:48   | Oh yeah. Yeah.                                                        |
-| 01:10:49   | I have to say what I like about Dataview is it has                    |
+| 01:10:49   | I have to say what I like about [[Dataview]] is it has                    |
 | 01:10:53   | the ability to just grab like a list of posts,                        |
 | 01:10:57   | but you can also go in deep and do things like the table              |
 | 01:11:01   | that I've created and just a little bit of information                |
@@ -1763,7 +1763,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:11:34   | if it's got categories and a connection.                              |
 | 01:11:37   | I'm not really using categories,                                      |
 | 01:11:38   | so I should probably get rid of that.                                 |
-| 01:11:39   | But then in my Dataview,                                              |
+| 01:11:39   | But then in my [[Dataview]],                                              |
 | 01:11:42   | I'm getting all of that data out                                      |
 | 01:11:45   | so that I can see it in a table.                                      |
 | 01:11:47   | And that means that I can really easily see,                          |
@@ -1784,7 +1784,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:12:27   | I've got another plugin installed,                                    |
 | 01:12:30   | which is the folder notes,                                            |
 | 01:12:32   | where you can have notes on a folder in Obsidian.                     |
-| 01:12:36   | And so I'm using a Dataview in that                                   |
+| 01:12:36   | And so I'm using a [[Dataview]] in that                                   |
 | 01:12:37   | to just list all the files inside of it,                              |
 | 01:12:39   | which I know I could get to from the sidebar,                         |
 | 01:12:41   | but it's just nice to be able to jump in from the folder itself.      |
@@ -2114,7 +2114,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:27:07   | which is advanced [[URL Schemes\|URL scheme]]s,                                        |
 | 01:27:09   | for things that's another great one.                                  |
 | 01:27:12   | Yeah, there are a lot.                                                |
-| 01:27:14   | I mean, Dataview to me brings this app to a whole new level.          |
+| 01:27:14   | I mean, [[Dataview]] to me brings this app to a whole new level.          |
 | 01:27:18   | It's like a whole feature set added to the...                         |
 | 01:27:20   | I mean, it's crazy.                                                   |
 | 01:27:22   | Yes, yes.                                                             |

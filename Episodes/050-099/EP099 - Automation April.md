@@ -1164,7 +1164,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:27:16   | I find it's a bit difficult because I still want the list to be dynamically created of                |
 | 01:27:21   | just things in the folder. I don't want to add something to the folder. And then it not               |
 | 01:27:26   | to appear in a list somewhere. So I've stuck with a lot of those as well. One thing I'm               |
-| 01:27:32   | curious to do, have you played with the calendar option in Dataview at all? Is that something         |
+| 01:27:32   | curious to do, have you played with the calendar option in [[Dataview]] at all? Is that something         |
 | 01:27:36   | you've worked with? Slightly, I want to hear what you're doing with it. But before we                 |
 | 01:27:41   | move on, I just wanted to add another piece of this puzzle for me is I have attached the              |
 | 01:27:47   | keyboard shortcut control F or command F, I'm sorry, no control F, you know, it's under               |
@@ -1173,9 +1173,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:28:03   | works is because I can be in a note and say, okay, this is done. And I can just type blog             |
 | 01:28:09   | a and it goes to the blog archive folder or blog C and it goes to the blog cooking folder.            |
 | 01:28:14   | So I just found it was faster to move them with a keyboard shortcut than to go in and                 |
-| 01:28:18   | try and reset attack. But yeah. All right, so tell me about calendars and Dataview.                   |
+| 01:28:18   | try and reset attack. But yeah. All right, so tell me about calendars and [[Dataview]].                   |
 | 01:28:23   | Well, it's one of those things where I love the idea of the calendar query. So, you know,             |
-| 01:28:28   | for people who are thinking, wait, Dataview does calendars. So it does lists, tables, it              |
+| 01:28:28   | for people who are thinking, wait, [[Dataview]] does calendars. So it does lists, tables, it              |
 | 01:28:34   | can do like a list, it can do tasks. But it also has the option to do a calendar, where               |
 | 01:28:40   | you can do a calendar and you can do it by, for example, the modified time file. And then             |
 | 01:28:46   | from the from part of the query is the same as you would do anywhere else where you can               |

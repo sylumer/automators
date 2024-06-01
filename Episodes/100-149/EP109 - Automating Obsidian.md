@@ -789,8 +789,8 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 33:40      | No, and I think it makes sense.                                                                    |
 | 33:41      | And the other one I want to talk about for sure                                                    |
 | 33:44      | because it is the foundation of some of the automation                                             |
-| 33:46      | we're going to talk about is Dataview.                                                             |
-| 33:48      | So Dataview, I don't even know                                                                     |
+| 33:46      | we're going to talk about is [[Dataview]].                                                             |
+| 33:48      | So [[Dataview]], I don't even know                                                                     |
 | 33:50      | if I can describe it.                                                                              |
 | 33:52      | Basically, it's an indexing, displaying algorithm                                                  |
 | 33:57      | that you can customise and apply to all of your files.                                             |
