@@ -1042,19 +1042,19 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:01:46   | Yeah. Like Rose, I do this with a keyboard Maestro script, but looking through this,                   |
 | 01:01:50   | there are things happening with this app that I am not doing with Keyboard Maestro. I'm                |
 | 01:01:55   | going to have to check into this. Another one you've got on your list, Don, and it's                   |
-| 01:02:00   | one of my favourite Mac apps, as silly as it sounds, is Tech Soap.                                      |
-| 01:02:05   | Oh, yeah. Yeah, yeah. Yeah, I use Tech Soap all the time, all the time. I use it in two                |
+| 01:02:00   | one of my favourite Mac apps, as silly as it sounds, is [[TextSoap]].                                      |
+| 01:02:05   | Oh, yeah. Yeah, yeah. Yeah, I use [[TextSoap]] all the time, all the time. I use it in two                |
 | 01:02:10   | ways as well. I'll use it sort of day to day. If I just want to process some text, I'll                |
-| 01:02:16   | copy the text and paste it into Tech Soap and that works really well and use either the                |
+| 01:02:16   | copy the text and paste it into [[TextSoap]] and that works really well and use either the                |
 | 01:02:21   | built-in cleaners or a quick cleaner. But I also use it via [[AppleScript]]. So within the                |
 | 01:02:28   | production scripts that we have, there are certain files. There's a HTML file that needs               |
 | 01:02:32   | some code stripping out or some code replacing. There's the chapter files that we have. They           |
 | 01:02:37   | come out just as pure text and I want the chapter files or the chapter names to have                   |
 | 01:02:42   | an asterisk at the beginning so I can insert it into some markdown documents. We've got                |
 | 01:02:46   | a little custom cleaner that does that. And these can all be called from [[AppleScript]]s                 |
-| 01:02:52   | using the API. That's very simple to use. So yeah, Tech Soap is a huge boon to me. I                   |
+| 01:02:52   | using the API. That's very simple to use. So yeah, [[TextSoap]] is a huge boon to me. I                   |
 | 01:02:58   | use it an awful lot.                                                                                   |
-| 01:02:59   | Yeah, I met the developer of Tech Soap years ago. I think at Macworld.                                 |
+| 01:02:59   | Yeah, I met the developer of [[TextSoap]] years ago. I think at Macworld.                                 |
 | 01:03:03   | Yeah, I did as well actually.                                                                          |
 | 01:03:05   | I forget the guy's name, but basically he has a mission in life, right? It's a single                  |
 | 01:03:11   | developer application. And all he does is find ways to manipulate text on your Mac.                    |
@@ -1063,7 +1063,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:03:26   | available on Setapp. So if you're a Setapp subscriber, you can get it for free just while              |
 | 01:03:31   | you're paying for Setapp. But there's just, honestly, if you work with text, there's no                |
 | 01:03:36   | reason not to. Have you ever done that thing where you drag text off the internet and you              |
-| 01:03:40   | paste it and it's got a whole bunch of code in there that you didn't want. Tech Soap like              |
+| 01:03:40   | paste it and it's got a whole bunch of code in there that you didn't want. [[TextSoap]] like              |
 | 01:03:44   | one button, it's gone. Yeah, that's great.                                                             |
 | 01:03:47   | Yeah. It's a guy called Mark. Mark Cohen. I remember meeting him at WWC. Actually, he                  |
 | 01:03:53   | was very helpful to me as well when I first started using it because I struggled a little              |
@@ -1072,10 +1072,10 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:04:05   | I always have a soft thought for those small developers. But I mean, he also just makes                |
 | 01:04:10   | it, it's a killer app. I mean, it really does the job.                                                 |
 | 01:04:13   | Yes. Yeah. That's a brilliant application. In fact, we covered it quite recently on                    |
-| 01:04:16   | Screencast Online. So there is a Screencast Online tutorial kicking around for Tech Soap.              |
+| 01:04:16   | Screencast Online. So there is a Screencast Online tutorial kicking around for [[TextSoap]].              |
 | 01:04:20   | If you could give us a link, we'll put that in the show.                                               |
 | 01:04:22   | Yeah, sure. No problem. No problem.                                                                    |
-| 01:04:24   | There's also an iOS app, which is very similar. It's nowhere near as powerful as Tech Soap,            |
+| 01:04:24   | There's also an iOS app, which is very similar. It's nowhere near as powerful as [[TextSoap]],            |
 | 01:04:28   | but it's called Text Case. And as the name implies, it is mostly for fixing the case                   |
 | 01:04:34   | of text. But if people are looking for an iOS alternative, I use this one all the time.                |
 | 01:04:39   | And it's very useful.                                                                                  |
