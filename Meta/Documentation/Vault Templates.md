@@ -32,6 +32,7 @@ These templates create the basic content structure for particular types of notes
 
 | Template File     | Description                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------- |
+| [[N.Automation]]  | This template inserts the default structure/content for an automation.                 |
 | [[N.Concept]]     | This template inserts the default structure/content for a (technical) concept.         |
 | [[N.Episode]]     | This template inserts the default structure/content for an Automators podcast episode. |
 | [[N.Methodology]] | This template inserts the default structure/content for a method of doing something.   |
