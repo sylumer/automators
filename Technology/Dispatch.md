@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Muh Hon Cheng and Lin Junjie"
+creator: "Muh Hon Cheng and Lin Junjie"
 notetype: "technology"
 ---
 

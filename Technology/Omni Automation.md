@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Omni Group"
+creator: "Omni Group"
 notetype: "technology"
 ---
 

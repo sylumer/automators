@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: 
+creator: 
 	- Clark Evans
 	- Ingy döt Net
 	- Oren Ben-Kiki

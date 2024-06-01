@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "The Omni Group"
+creator: "The Omni Group"
 notetype: "technology"
 ---
 

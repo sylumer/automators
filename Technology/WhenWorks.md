@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Snailed It
+creator: Snailed It
 notetype: technology
 ---
 

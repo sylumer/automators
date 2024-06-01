@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Median Tech, s.r.o.
+creator: Median Tech, s.r.o.
 notetype: technology
 ---
 # Overview

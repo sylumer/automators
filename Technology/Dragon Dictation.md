@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Nuance"
+creator: "Nuance"
 notetype: "technology"
 ---
 

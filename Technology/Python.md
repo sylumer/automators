@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Guido van Rossum"
+creator: "Guido van Rossum"
 notetype: "technology"
 ---
 

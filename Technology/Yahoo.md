@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Jerry Yang and David Filo"
+creator: "Jerry Yang and David Filo"
 notetype: "technology"
 ---
 

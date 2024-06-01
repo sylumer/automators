@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Skyground Media Inc."
+creator: "Skyground Media Inc."
 notetype: "technology"
 ---
 # Overview

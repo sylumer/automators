@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Noodlesoft"
+creator: "Noodlesoft"
 notetype: "technology"
 ---
 

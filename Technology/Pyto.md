@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Emma Labbe"
+creator: "Emma Labbe"
 notetype: "technology"
 ---
 # Overview

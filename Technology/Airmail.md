@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Bloop
+creator: Bloop
 notetype: technology
 ---
 # Overview

@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Simon Støvring
+creator: Simon Støvring
 notetype: technology
 ---
 # Overview

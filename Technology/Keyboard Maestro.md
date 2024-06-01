@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Stairways Software
+creator: Stairways Software
 creator_individual: Peter Lewis
 notetype: technology
 ---

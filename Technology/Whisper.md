@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: OpenAI
+creator: OpenAI
 notetype: technology
 ---
 # Overview  

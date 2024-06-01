@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Unmarked Software"
+creator: "Unmarked Software"
 notetype: "technology"
 ---
 # Overview  

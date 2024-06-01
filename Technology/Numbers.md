@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Apple"
+creator: "Apple"
 alias: ["Apple Numbers"]
 notetype: "technology"
 ---

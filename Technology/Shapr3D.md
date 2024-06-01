@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Shapr3D Zrt."
+creator: "Shapr3D Zrt."
 notetype: "technology"
 ---
 # Overview

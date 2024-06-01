@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Flexibits"
+creator: "Flexibits"
 notetype: "technology"
 os: ["macOS", "iOS", "iPadOS", "watchOS"]
 ---

@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Carlo Zottman"
+creator: "Carlo Zottman"
 notetype: "technology"
 ---
 # Overview

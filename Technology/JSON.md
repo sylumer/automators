@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Douglas Crockford
+creator: Douglas Crockford
 notetype: technology
 ---
 

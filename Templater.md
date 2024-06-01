@@ -1,6 +1,6 @@
 ---
 status: "incomplete"
-creator: ""
+creator_company: ""
 notetype: "technology"
 ---
 

@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Google"
+creator: "Google"
 notetype: "technology"
 ---
 # Overview

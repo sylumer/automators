@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "TextExpander Inc"
+creator: "TextExpander Inc"
 notetype: "technology"
 os: ["macOS", "iOS", "iPadOS", "Windows", "Chrome"]
 ---

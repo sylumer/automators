@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Ole Moritz"
+creator: "Ole Moritz"
 notetype: "technology"
 ---
 

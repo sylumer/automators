@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Yukihiro Matsumoto
+creator: Yukihiro Matsumoto
 notetype: technology
 ---
 # Overview

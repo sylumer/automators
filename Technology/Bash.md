@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Brain Fox
+creator: Brain Fox
 notetype: technology
 ---
 # Overview

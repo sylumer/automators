@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Ericsson
+creator: Ericsson
 notetype: technology
 ---
 # Overview

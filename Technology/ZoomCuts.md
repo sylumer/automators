@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Liminal
+creator: Liminal
 notetype: technology
 ---
 # Overview

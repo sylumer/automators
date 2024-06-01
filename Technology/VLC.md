@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "VideoLAN"
+creator: "VideoLAN"
 notetype: "technology"
 ---
 # Overview

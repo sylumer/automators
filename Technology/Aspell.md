@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Kevin Atkinson"
+creator: "Kevin Atkinson"
 notetype: "technology"
 ---
 # Overview

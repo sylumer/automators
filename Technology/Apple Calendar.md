@@ -3,7 +3,7 @@ status: complete
 aliases:
   - calendar
   - Calendar
-creator_company: Apple
+creator: Apple
 notetype: technology
 ---
 # Overview

@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Microsoft"
+creator: "Microsoft"
 alias: ["Office 365"]
 notetype: "technology"
 ---

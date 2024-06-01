@@ -1,6 +1,6 @@
 ---
 status: "incomplete"
-creator_company: "Nitro"
+creator: "Nitro"
 notetype: "technology"
 aliases: ["PDFpen Pro", "Nitro PDF Pro"]
 ---

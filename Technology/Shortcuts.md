@@ -1,7 +1,7 @@
 ---
 alias: ["Apple Shortcuts"]
 status: "complete"
-creator_company: "Apple"
+creator: "Apple"
 notetype: "technology"
 ---
  

@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Brendan Eich
+creator: Brendan Eich
 notetype: technology
 ---
 # Overview

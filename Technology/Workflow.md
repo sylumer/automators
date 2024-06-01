@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "DeskConnect Inc"
+creator: "DeskConnect Inc"
 notetype: "technology"
 ---
 

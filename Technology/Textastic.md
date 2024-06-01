@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Alexander Blach
+creator: Alexander Blach
 notetype: technology
 ---
 # Overview

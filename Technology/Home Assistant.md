@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Nabu Casa"
+creator: "Nabu Casa"
 notetype: "technology"
 ---
 # Overview

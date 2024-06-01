@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: ""
+creator: ""
 aliases:
   - Infrared
 notetype: technology

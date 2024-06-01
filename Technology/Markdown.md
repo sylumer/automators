@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: John Gruber
+creator: John Gruber
 notetype: technology
 ---
 # Overview

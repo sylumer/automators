@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "IFTTT"
+creator: "IFTTT"
 notetype: "technology"
 ---
 

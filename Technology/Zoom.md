@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Zoom Video Communications, Inc
+creator: Zoom Video Communications, Inc
 notetype: technology
 ---
 # Overview

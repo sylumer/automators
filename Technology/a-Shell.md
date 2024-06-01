@@ -1,6 +1,6 @@
 ---
 status: complete
-creator_company: Nicolas Holzschuch
+creator: Nicolas Holzschuch
 notetype: technology
 ---
 # Overview  

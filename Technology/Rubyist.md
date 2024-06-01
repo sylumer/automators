@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "Sebastian Szturo"
+creator: "Sebastian Szturo"
 notetype: "technology"
 ---
 # Overview

@@ -1,6 +1,6 @@
 ---
 status: "complete"
-creator_company: "AgileTortoise"
+creator: "AgileTortoise"
 creator_individual: "Greg Pierce"
 notetype: "technology"
 ---
