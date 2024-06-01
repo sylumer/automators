@@ -1,7 +1,7 @@
 ---
-status: "complete"
-creator: ""
-notetype: "technology"
+status: complete
+creator: Nicholas Mariott
+notetype: technology
 ---
 # Overview
 `tmux` is a powerful terminal multiplexer for Unix-like operating systems. It allows multiple virtual terminal sessions to be accessed and controlled from a single terminal window. Many advanced terminal applications offer this type of functionality with actual sessions, but by virtualising them you can automate and utilise them independent of your terminal application - even across client platforms.
