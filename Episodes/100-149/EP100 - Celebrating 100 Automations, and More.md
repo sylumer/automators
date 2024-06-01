@@ -274,7 +274,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 09:13      | Apple released shortcuts.                                         |
 | 09:15      | And...                                                            |
 | 09:16      | Yeah, we were at WWDC.                                            |
-| 09:18      | I just spoken to Mike Hurley and I met Steven.                    |
+| 09:18      | I just spoken to [[Myke Hurley]] and I met Steven.                    |
 | 09:23      | And we were confirming everything was ready to go                 |
 | 09:25      | and we had some episodes.                                         |
 | 09:27      | And then Apple threw a really lovely curve ball                   |

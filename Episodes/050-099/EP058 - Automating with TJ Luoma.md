@@ -951,7 +951,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:12:24   | And then I added one for the live stream and another one for the calendar of when the live                    |
 | 01:12:30   | streams are and things like that. And so next thing I knew, I had an entire profile of Relay                  |
 | 01:12:37   | shows and things like that. And, you know, I have updated, I think I need to update it again,                 |
-| 01:12:41   | but I did tell, I emailed [[Mike Hurley\|Mike]] and [[Stephen Hackett\|Stephen]] and said at some point that they weren't allowed to add            |
+| 01:12:41   | but I did tell, I emailed [[Myke Hurley\|Mike]] and [[Stephen Hackett\|Stephen]] and said at some point that they weren't allowed to add            |
 | 01:12:46   | any more shows because I was running out of buttons. So what are the buttons doing? Are                       |
 | 01:12:52   | they just going to the website or are they downloading? Most of them just go, absolutely,                     |
 | 01:12:56   | just go to the website. I did have one. I'm not even sure it was on that profile that would                   |

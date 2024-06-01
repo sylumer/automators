@@ -1860,7 +1860,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:05:32   | on the iPhone and now that Shortcuts is on                        |
 | 01:05:34   | the Mac you're like okay I'm gonna like                           |
 | 01:05:36   | really do that like I was thinking about                          |
-| 01:05:38   | Mike Hurley that that's his                                       |
+| 01:05:38   | [[Myke Hurley]] that that's his                                       |
 | 01:05:40   | that's his jam right he's really good at Shortcuts                |
 | 01:05:42   | he doesn't really want to learn all the other                     |
 | 01:05:44   | stuff on the Mac so he wants to kind of make Shortcuts            |

@@ -1423,7 +1423,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:18:10   | So you're wiping out what is ever in the keyboard and you're rebuilding it.                               |
 | 01:18:13   | And this doesn't have to just be the macro pad.                                                           |
 | 01:18:15   | So my favourite keyboard right now is the Mode 80.                                                         |
-| 01:18:20   | Mike Hurley is the one, he's responsible for making me buy this.                                          |
+| 01:18:20   | [[Myke Hurley]] is the one, he's responsible for making me buy this.                                          |
 | 01:18:26   | But I programmed a couple of the function row keys to be media control keys.                              |
 | 01:18:31   | So I have play, pause, volume up, volume down and skip and back on F11, F12, F13, F14, and                |
 | 01:18:39   | F15 is what they technically would be.                                                                    |

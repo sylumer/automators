@@ -571,7 +571,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 41:30      | it, but I like to know that it's there for me. That's about it for me and automation on health         |
 | 41:36      | and fitness. You got anything else? I think that's pretty much it as well. It's one of these things.   |
 | 41:42      | I've also been trying mood path, which is more for checking your mental health than your moods.        |
-| 41:47      | And this is something I heard recommended on [[Cortex]]. Mike Hurley recommended it. And this,             |
+| 41:47      | And this is something I heard recommended on [[Cortex]]. [[Myke Hurley]] recommended it. And this,             |
 | 41:53      | as far as I'm aware, doesn't integrate with the health application, but it does prompt you at          |
 | 41:59      | multiple times of the day to track how you're doing with your mood. And the more data you give         |
 | 42:04      | it, of course, the more accurate it is and the better recommendations it can make for you. So          |

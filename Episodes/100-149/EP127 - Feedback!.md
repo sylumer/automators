@@ -1115,7 +1115,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:09:03   | There's textexpander.com/automators to say goodbye to Repetitive Typing.                         |
 | 01:09:08   | Our thanks to TextExpander for their support of this show.                                             |
 | 01:09:11   | All right, Ty wrote in, he says, love the show, getting started learning to automate                   |
-| 01:09:15   | his office and workflow, and he was listening to our Mike Hurley show where we talked about            |
+| 01:09:15   | his office and workflow, and he was listening to our [[Myke Hurley]] show where we talked about            |
 | 01:09:19   | [[Home Assistant]], and before he was a [[Home Assistant]] user, he was a Hoops user.                          |
 | 01:09:25   | We've talked about that on the show as well.                                                           |
 | 01:09:28   | Hoops uses integrations and turns them into a bridge in the system with a QR code to scan              |

@@ -109,7 +109,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 04:07      | all it really takes. Once you get there, you are an automator. You've already arrived. Now,             |
 | 04:12      | it's just a question of how far down the rabbit hole do you go. But I think just having that            |
 | 04:18      | awareness is really all it takes. Yeah, someone once said to me, and then I heard it repeated,          |
-| 04:25      | I think to [[Mike Hurley]], maybe it was one of you, it's like, sure, you're not a programmer, but          |
+| 04:25      | I think to [[Myke Hurley]], maybe it was one of you, it's like, sure, you're not a programmer, but          |
 | 04:31      | you're an automator, because it's kind of like someone has given me a bunch of Lego and Tinkertoy,      |
 | 04:40      | and then Mega Blocks. And so there's all these different tools that don't necessarily                   |
 | 04:47      | play together perfectly. But if you build it the right way, you can make some sort of                   |

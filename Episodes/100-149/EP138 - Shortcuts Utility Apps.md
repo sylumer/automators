@@ -871,7 +871,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 52:29      | So another app that I want to mention, David, just because it's an app that's been around            |
 | 52:36      | for a little while now, and it was written by some friends of mine, actually, Elsewhen.             |
 | 52:43      | So if anybody has ever seen a tweet, as he used to post, and any social media post by                |
-| 52:52      | Mike Hurley, who's advertising his Friday keyboard club, you might have noticed that                 |
+| 52:52      | [[Myke Hurley]], who's advertising his Friday keyboard club, you might have noticed that                 |
 | 52:56      | what he does, he posts flags and then times next to them.                                            |
 | 53:02      | And this is the time that he's going to be doing a live stream.                                      |
 | 53:05      | And this is something that lots of folks who post live streams do, you know, like they               |

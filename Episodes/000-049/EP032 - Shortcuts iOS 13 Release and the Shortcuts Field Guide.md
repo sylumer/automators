@@ -217,7 +217,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 08:22      | And if you donate money, then you will actually be helping St. Jude stay true to its life-saving       |
 | 08:27      | mission, which is finding cures and saving children.                                                   |
 | 08:30      | And so you can actually donate to support childhood cancer at stjude.org/automators.             |
-| 08:37      | But as well as this, [[Stephen Hackett]] and [[Mike Hurley]] are doing a marathon podcastathon.                |
+| 08:37      | But as well as this, [[Stephen Hackett]] and [[Myke Hurley]] are doing a marathon podcastathon.                |
 | 08:43      | This is on September 20th, so this will be iPhone release day and iOS release day.                     |
 | 08:48      | And you can watch them do amazing things on the internet.                                              |
 | 08:52      | So you should check that out on the Relay FM blog.                                                     |

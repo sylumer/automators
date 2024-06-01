@@ -447,7 +447,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 20:08      | And maybe because you only occasionally wake up early,                                            |
 | 20:11      | it's harder to get up early                                                                       |
 | 20:12      | and your body isn't really ready for it.                                                          |
-| 20:15      | I think Mike Hurley was telling me                                                                |
+| 20:15      | I think [[Myke Hurley]] was telling me                                                                |
 | 20:17      | he sets multiple alarms like six or seven                                                         |
 | 20:20      | to get himself up.                                                                                |
 | 20:22      | But if that was you,                                                                              |

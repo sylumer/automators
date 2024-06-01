@@ -652,7 +652,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 35:20      | with them more than most people.                                                                     |
 | 35:22      | I mean, in Vienna, you're a bit on an island in our little nerd community.                           |
 | 35:26      | I am a bit.                                                                                          |
-| 35:27      | The [[Federico Viticci]] is on the same time zone as me, and Mike Hurley is only one hour behind,         |
+| 35:27      | The [[Federico Viticci]] is on the same time zone as me, and [[Myke Hurley]] is only one hour behind,         |
 | 35:32      | which, you know, I'm not completely on my, but I use this great app called CalZones by               |
 | 35:38      | underscore David Smith, and he's made a bunch of great applications, pedometer, plus, plus,          |
 | 35:43      | sweet, plus, plus, activity, plus, plus, you can tell that there's a theme with his apps.            |

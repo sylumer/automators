@@ -1043,7 +1043,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:18:22   | Casey, where do people go to find you?                                                                   |
 | 01:18:24   | Yeah, so there's all sorts of different places.                                                          |
 | 01:18:27   | The easiest place to go to is kclist.com, that's my website, c-a-s-e-y-l-i-s-s.com.                      |
-| 01:18:32   | You can find my show on relay.fm, analog with my dear friend Mike Hurley over there                      |
+| 01:18:32   | You can find my show on relay.fm, analog with my dear friend [[Myke Hurley]] over there                      |
 | 01:18:37   | on relay.fm.                                                                                             |
 | 01:18:39   | You can find the accidental tech podcast at atp.fm and on a mon mastodon.social as Casey                 |
 | 01:18:46   | Lists.                                                                                                   |

@@ -260,7 +260,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 19:12      | talk because there's so many people that know what I sound like, but not what I look like.             |
 | 19:18      | So I'd just be walking around and say, Oh, Sparky, I recognise your voice. You know,                   |
 | 19:24      | the best one of those was I was at a cafe with a variety of people and including I think               |
-| 19:33      | it was like most of ATP and Mike Hurley and CGP Gray. And somebody came up to Mike and                 |
+| 19:33      | it was like most of ATP and [[Myke Hurley]] and CGP Gray. And somebody came up to Mike and                 |
 | 19:42      | was saying to Mike, you know, oh, you know, really love all your podcasts or whatever.                 |
 | 19:48      | You know, really love [[Cortex]] and Gray is just sitting there like stealth incognito because             |
 | 19:56      | nobody really knows what he looks like. And so he would, every time the person would say               |
