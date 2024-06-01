@@ -1,6 +1,8 @@
 ---
 status: "complete"
-creator: "Kevin Atkinson"
+creator: 
+  - Kevin Atkinson
+  - GNU
 notetype: "technology"
 ---
 # Overview
