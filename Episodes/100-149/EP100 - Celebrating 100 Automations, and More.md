@@ -73,7 +73,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 00:33      | I actually vividly remember at the beginning of episode 10,       |
 | 00:36      | you and I saying, hey, we made it to 10.                          |
 | 00:39      | That's good, right?                                               |
-| 00:40      | Yep. We beat Gray's expectation for Cortex,                       |
+| 00:40      | Yep. We beat Grey's expectation for Cortex,                       |
 | 00:43      | which I think is a benchmark in all podcast recording.            |
 | 00:46      | So I'm pleased that we got that far,                              |
 | 00:49      | and that we've multiplied it by a factor of 10.                   |
