@@ -1,5 +1,5 @@
 ---
-status: "complete"
+status: incomplete
 ---
 # notetype
 ## Description
