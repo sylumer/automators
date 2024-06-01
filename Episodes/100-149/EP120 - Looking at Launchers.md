@@ -807,7 +807,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:20      | But something else that is definitely Alfred specific, that is not something that you can             |
 | 48:25      | do at least easily in Raycast.                                                                        |
 | 48:28      | You definitely can't do this in spotlight is web search.                                              |
-| 48:30      | Okay, if I type something into Alfred or Raycast or spotlight or launch bar or Quicksilver,           |
+| 48:30      | Okay, if I type something into Alfred or Raycast or spotlight or launch bar or [[Quicksilver]],           |
 | 48:37      | if you're storing that, you know, and it's not something that's just found as an action               |
 | 48:42      | or on my local machine, you'll get the option to Google it or DuckDuckGo it, depending on             |
 | 48:46      | what your preferences are.                                                                            |

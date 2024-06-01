@@ -1154,18 +1154,18 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:40:13   | you know, the various options. And now it's doing some crazy things because I accidentally               |
 | 01:40:18   | selected marked instead of preview because marked previews, markdown files, which is why it shows        |
 | 01:40:22   | up there. Yeah, you know, there's just so much you can do with Alfred. I was just looking at the         |
-| 01:40:29   | themes list a minute ago. Did you ever use Quicksilver? Was that before your time? No.                   |
-| 01:40:37   | So Quicksilver, I think, was going out of favor, hadn't been updated for a while,                        |
+| 01:40:29   | themes list a minute ago. Did you ever use [[Quicksilver]]? Was that before your time? No.                   |
+| 01:40:37   | So [[Quicksilver]], I think, was going out of favor, hadn't been updated for a while,                        |
 | 01:40:42   | just as I was really starting to get nerdy with my Mac for a long time. I kept my Mac fairly,            |
 | 01:40:47   | fairly stock. I had one of those amazing original MacBook Airs with the drop down door                   |
 | 01:40:53   | for the ports, David. I love that thing. And yeah, and so for a while, I was just kind of excited        |
 | 01:41:01   | about pages and numbers, to be honest. Is it weird that I was excited by a spreadsheet application       |
-| 01:41:05   | because numbers is fun. Okay, start somewhere. I feel like Quicksilver had this great interface          |
+| 01:41:05   | because numbers is fun. Okay, start somewhere. I feel like [[Quicksilver]] had this great interface          |
 | 01:41:11   | called the cube where it would open up. And as you work through the basic, the formula of whatever       |
 | 01:41:18   | you're doing, it would spin the cube. I thought that was a great, I guess that's really not possible     |
 | 01:41:22   | with Alfred. I'm going to write those guys. Man, I would love to see them figure out a way to do that.   |
-| 01:41:27   | Have you checked on Packal? There might be a Quicksilver theme.                                            |
-| 01:41:31   | Yeah, I'll have to look. I'll have to look. But I'm not even sure, even if they had a Quicksilver,       |
+| 01:41:27   | Have you checked on Packal? There might be a [[Quicksilver]] theme.                                            |
+| 01:41:31   | Yeah, I'll have to look. I'll have to look. But I'm not even sure, even if they had a [[Quicksilver]],       |
 | 01:41:36   | look at the cube, it's an animation built into. I'm not sure it would work. But either way, I            |
 | 01:41:43   | guess the point being that the reason we give Alfred a whole show is because it needs a whole            |
 | 01:41:48   | show. There's just so much to talk about here. We didn't get into today, multiple files, like where      |
