@@ -430,7 +430,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:10      | So I'm, I'm enjoying that.                                                                             |
 | 21:12      | Yeah.                                                                                                  |
 | 21:13      | There's several ways to trigger music on your Mac.                                                     |
-| 21:15      | And if you use LaunchBar or Alfred, those are great apps that have great hooks into                    |
+| 21:15      | And if you use [[LaunchBar]] or Alfred, those are great apps that have great hooks into                    |
 | 21:20      | your music library so you can, you know, kick off a music playlist with just a few clicks              |
 | 21:25      | of the keyboard.                                                                                       |
 | 21:26      | I do that.                                                                                             |

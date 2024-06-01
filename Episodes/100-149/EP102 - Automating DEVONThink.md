@@ -1766,7 +1766,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:13:57   | If it's wrong, you can search out the proper place for it         |
 | 01:14:00   | and then it'll remember that going forward.                       |
 | 01:14:02   | It kind of reminds me of how you're like when Alfred              |
-| 01:14:04   | or LaunchBar starts to recognise that anytime I type OF,          |
+| 01:14:04   | or [[LaunchBar]] starts to recognise that anytime I type OF,          |
 | 01:14:08   | I want OmniFocus or the app starts to pay attention               |
 | 01:14:13   | to how you act and then it starts giving you                      |
 | 01:14:16   | what it thinks that you want the most.                            |

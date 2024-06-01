@@ -710,7 +710,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 25:40      | Yeah, okay, so I'm going to set this aside,                       |
 | 25:41      | I'll come back to it, but I guess the point is,                   |
 | 25:44      | and this is true for all of the launchers,                        |
-| 25:45      | LaunchBar, Alfred, you know,                                      |
+| 25:45      | [[LaunchBar]], Alfred, you know,                                      |
 | 25:48      | you know, all the common ones                                     |
 | 25:50      | that people are checking out right now,                           |
 | 25:53      | they've got great shortcuts implementation.                       |
@@ -720,7 +720,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 26:04      | with Spotlight after Ventura ships,                               |
 | 26:08      | it'll be the same way.                                            |
 | 26:10      | I actually kind of prefer the method of Alfred                    |
-| 26:15      | and LaunchBar where you run a plugin                              |
+| 26:15      | and [[LaunchBar]] where you run a plugin                              |
 | 26:17      | because then by having a qualifier,                               |
 | 26:19      | like in my current version, it's a type SC,                       |
 | 26:22      | then it just gives you a list of all your shortcuts,              |

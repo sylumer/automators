@@ -1511,7 +1511,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:05:25   | it deals with it as an app or as a document.                      |
 | 01:05:28   | So it just opens things in that sense.                            |
 | 01:05:31   | It's like so many other launchers in that way.                    |
-| 01:05:34   | But it's unlike something like LaunchBar,                         |
+| 01:05:34   | But it's unlike something like [[LaunchBar]],                         |
 | 01:05:36   | it's not really oriented around general purpose launching.        |
 | 01:05:40   | It's oriented around launching things                             |
 | 01:05:42   | that you organise to be in the scripts folder.                    |

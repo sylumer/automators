@@ -95,7 +95,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:48      | using Alfred. And then it came up in the relay Slack recently and we're like, okay, everybody,           |
 | 01:53      | we're going to do Alfred. So Alfred is a Mac based launcher application. We actually                     |
 | 01:59      | talked about launcher apps on episode 497, I think of Mac power users. I'll put a link                   |
-| 02:05      | in the show notes. And we talked about, you know, LaunchBar and Alfred and several and                   |
+| 02:05      | in the show notes. And we talked about, you know, [[LaunchBar]] and Alfred and several and                   |
 | 02:11      | I came out of that episode after all the research for that episode, I believe we're in Alfred.           |
 | 02:14      | So I've been using Alfred now for a couple of years. You know, I used to be for but I've                 |
 | 02:19      | been using it full time. I think Rose, you've been using Alfred full time basically since                |
@@ -924,7 +924,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:18:45   | of cool things. You can get the time zone in a random city. But I just find this a very useful           |
 | 01:18:51   | thing. And it's a plugin that somebody wrote like five years ago, and you download it, you install       |
 | 01:18:57   | it into Alfred and configure it and you're off to the races. And these workflows are,                    |
-| 01:19:03   | are really what brought me out of LaunchBar, because the workflow community in Alfred is so              |
+| 01:19:03   | are really what brought me out of [[LaunchBar]], because the workflow community in Alfred is so              |
 | 01:19:09   | good and there are so many different things at stake. So I thought it'd be, I've been dying all          |
 | 01:19:15   | week to find out what Rose is using for her Alfred workflows, but I've got several I like too.           |
 | 01:19:20   | You want to share one of your favourites? I mean, I love those. So do I get to dive right into the        |

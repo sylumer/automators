@@ -1359,7 +1359,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:08:23   | The way he chose to do this is, I think, incredibly clever.                                                   |
 | 01:08:26   | So I don't know the order he did this in, but basically you have a text file,.txt,                            |
 | 01:08:30   | but it's called.bunch, and each line in that is a line that you put in that does a thing.                     |
-| 01:08:35   | So in the same way that I would introduce LaunchBar or Alfred by saying, hey, if you                          |
+| 01:08:35   | So in the same way that I would introduce [[LaunchBar]] or Alfred by saying, hey, if you                          |
 | 01:08:39   | type the first few letters of Microsoft Word, it knows you mean Microsoft Word, you hit                       |
 | 01:08:44   | enter and it opens.                                                                                           |
 | 01:08:45   | Right?                                                                                                        |
@@ -1577,12 +1577,12 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:19:25   | this entire world view and his videos go by really fast, but at the heart of it, Hook                         |
 | 01:19:30   | is an app that lets you say to, what's the word, to, you hook a thing to another thing                        |
 | 01:19:38   | and it's bi-directional.                                                                                      |
-| 01:19:40   | So if I'm on a web page, I open this thing up, it's like LaunchBar, it's like Alfred.                         |
+| 01:19:40   | So if I'm on a web page, I open this thing up, it's like [[LaunchBar]], it's like Alfred.                         |
 | 01:19:44   | Open this thing up and I want you to associate that with this Taskpaper file.                                |
 | 01:19:49   | So now, if I ever open that web page again, I'm a keystroke away from seeing all the things                   |
 | 01:19:53   | that it's attached to.                                                                                        |
 | 01:19:55   | And unlike Devon thinking stuff like that, very powerful, what I love about Hook or what                      |
-| 01:20:00   | is interesting to me about Hook, a lot of LaunchBar is that it exists outside of all                          |
+| 01:20:00   | is interesting to me about Hook, a lot of [[LaunchBar]] is that it exists outside of all                          |
 | 01:20:06   | those separate documents, all those separate web pages, small pieces loosely joined.                          |
 | 01:20:12   | There's nothing formal, there's not like a big dumb database where I have to put all                          |
 | 01:20:16   | these PDFs, you can just open up one file, drag a bunch of stuff into it and then guess                       |

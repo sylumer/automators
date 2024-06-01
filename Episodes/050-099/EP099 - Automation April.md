@@ -274,7 +274,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 12:16      | I'm just going to mention, too, I love to run shortcuts on my iPad as quickly as I can                |
 | 12:22      | on the Mac.                                                                                           |
 | 12:23      | Especially since on my MacBook, I started using [[Raycast]], but it's, you know, the same                 |
-| 12:28      | applies if you're using LaunchBar, I think, or Alfred.                                                |
+| 12:28      | applies if you're using [[LaunchBar]], I think, or Alfred.                                                |
 | 12:32      | It's really fast to, you know, you really run shortcuts by typing their name, and especially          |
 | 12:38      | these utilities that have fuzzy search built in, you can just type a few letters and press            |
 | 12:43      | return and run a shortcut immediately from anywhere.                                                  |
@@ -744,18 +744,18 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 48:58      | can't I do this in shortcuts?                                                                         |
 | 49:00      | Yeah, I was gonna say, Federico, anytime that there's something that I feel like I can't              |
 | 49:07      | do the first place I look is BetterTouchTool at this point. Yeah. Yeah. Yeah. Something             |
-| 49:12      | that I mentioned, running shortcuts on the Mac with [[Raycast]] or LaunchBar, that is actually            |
-| 49:18      | one thing that I wish [[Raycast]] would copy from LaunchBar. And that is when you're selecting            |
-| 49:26      | a shortcut in LaunchBar, I believe you can press space or tab to enter some input for                 |
-| 49:35      | the shortcut from LaunchBar itself, which is a super clever way to do this, which is                  |
+| 49:12      | that I mentioned, running shortcuts on the Mac with [[Raycast]] or [[LaunchBar]], that is actually            |
+| 49:18      | one thing that I wish [[Raycast]] would copy from [[LaunchBar]]. And that is when you're selecting            |
+| 49:26      | a shortcut in [[LaunchBar]], I believe you can press space or tab to enter some input for                 |
+| 49:35      | the shortcut from [[LaunchBar]] itself, which is a super clever way to do this, which is                  |
 | 49:44      | you stay in the launcher itself. So if you want to pass some text, for example, to the                |
-| 49:51      | shortcut that I mentioned a few minutes ago to save ideas, LaunchBar is actually perfect              |
+| 49:51      | shortcut that I mentioned a few minutes ago to save ideas, [[LaunchBar]] is actually perfect              |
 | 49:55      | for this because you can type a few letters to find the shortcut, then you press a key,               |
 | 50:02      | you type the text you want to save, you enter, you know, you press return, the shortcut runs          |
 | 50:08      | in the background, which is another benefit of Mac OS compared to iPadOS, and you're done.            |
 | 50:14      | Instead with [[Raycast]], because it doesn't have that built in method of passing text to the             |
 | 50:21      | shortcut, you need to do it yourself. So in my case, I'm using the ask for input action               |
-| 50:26      | in the shortcut, but I very much prefer the LaunchBar approach here. That said, [[Raycast]]               |
+| 50:26      | in the shortcut, but I very much prefer the [[LaunchBar]] approach here. That said, [[Raycast]]               |
 | 50:33      | has another thing, two other things that I love for the shortcuts integration. One is                 |
 | 50:40      | you can mark certain shortcuts as favourites, so that when you open [[Raycast]], and in my case,           |
 | 50:45      | it's a full on spotlight replacement, so that when I press command space, I see the [[Raycast]]           |

@@ -1003,7 +1003,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 56:01      | and I'm much more accurate and faster at selecting text with the keyboard the vast majority of          |
 | 56:07      | the time.                                                                                               |
 | 56:08      | But you can control PopClip with AppleScript and then you can set that up to be triggered               |
-| 56:14      | by a keyboard shortcut from an automated service, fast scripts, Alfred, LaunchBar, or even              |
+| 56:14      | by a keyboard shortcut from an automated service, fast scripts, Alfred, [[LaunchBar]], or even              |
 | 56:20      | [[Quicksilver]].                                                                                            |
 | 56:21      | Yeah.                                                                                                   |
 | 56:22      | Now I've got to do this, Rose, because I've just been using it with a mouse.                            |
