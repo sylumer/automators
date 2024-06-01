@@ -6,7 +6,7 @@ Documentation is an important aspect of any project if you want to make it last 
 Here you will find links to useful *behind the scenes* information about the structure and the foundations of this vault.
 
 - [[Episode Build]] - How to do the base build for an episode page.
-- [[Front Matter]] - Details of what the various front matter elements mean.
+- [[Vault Front Matter]] - Details of what the various front matter elements mean.
 - [[Maintainer]] - Details about who maintains this Obsidian vault.
 - [[Sponsor Link Entry]] - How sponsor links are added and easily cross-reference to sponsor pages.
 - [[To Do]] - An automator's work is never done.
