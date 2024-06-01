@@ -2,6 +2,7 @@
 notetype: "automation"
 status: "complete"
 author: "Stephen Millard"
+list: Alfred
 ---
 
 **Author:** `$="[[" + dv.current().author + "]]"`
