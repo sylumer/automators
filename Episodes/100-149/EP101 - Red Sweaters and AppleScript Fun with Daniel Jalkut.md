@@ -1519,8 +1519,8 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:05:48   | do you discourage people from using sim links                     |
 | 01:05:51   | to put scripts in there?                                          |
 | 01:05:53   | Because I've got scripts that are stored                          |
-| 01:05:55   | for various reasons inside of this Git repo                       |
-| 01:05:58   | or that Git repo.                                                 |
+| 01:05:55   | for various reasons inside of this [[Git]] repo                       |
+| 01:05:58   | or that [[Git]] repo.                                                 |
 | 01:05:59   | And I don't necessarily want to put them all                      |
 | 01:06:02   | in the library scripts folder.                                    |
 | 01:06:04   | Is that something you recommend or discourage                     |

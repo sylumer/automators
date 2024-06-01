@@ -152,7 +152,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 06:05      | I think it really depends on what Spotlight is indexing.                                              |
 | 06:08      | I know in the past, I have had to exclude folders from Spotlight indexing because it                  |
 | 06:13      | just ended up taking up a huge amount of processing power on my machines at various times.            |
-| 06:18      | I downloaded a new Git repo, which would be a whole folder full of folders of code.                   |
+| 06:18      | I downloaded a new [[Git]] repo, which would be a whole folder full of folders of code.                   |
 | 06:27      | Those files are tiny.                                                                                 |
 | 06:28      | I wouldn't take long to download, and then Spotlight is there going, yep, I'm going                   |
 | 06:31      | to go and index all of this.                                                                          |

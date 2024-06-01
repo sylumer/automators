@@ -103,21 +103,21 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 02:49      | the show notes, you can listen to him, you listen to me in the front row going, I don't                 |
 | 02:53      | understand, can you back up and explain that again? And we've been going over four years                |
 | 02:58      | and worked our way through HTML, CSS, JavaScript, we're doing some shell scripting right now.           |
-| 03:05      | We've learned how to wrap our apps up for deployment. We learned all about Git. It's                    |
+| 03:05      | We've learned how to wrap our apps up for deployment. We learned all about [[Git]]. It's                    |
 | 03:10      | been a lot of fun.                                                                                      |
 | 03:13      | And Allison does excellent show notes. And if you listen to the automators, I think that                |
 | 03:17      | program with Bart in particular would be a great entry point for you. And you can drive                 |
 | 03:22      | it around in the car.                                                                                   |
-| 03:23      | The series on Git is what he does is these little sub-series. So if you just want to                    |
-| 03:28      | learn Git, you can start right in that piece. You don't have to start at the beginning with             |
-| 03:31      | HTML in order to get the Git part. So learning about version control was huge. And now I'm              |
+| 03:23      | The series on [[Git]] is what he does is these little sub-series. So if you just want to                    |
+| 03:28      | learn [[Git]], you can start right in that piece. You don't have to start at the beginning with             |
+| 03:31      | HTML in order to get the [[Git]] part. So learning about version control was huge. And now I'm              |
 | 03:38      | like, I'm using version control on my Keyboard Maestro macros, which is something I always              |
-| 03:42      | wanted. So I've got that in Git. And it's just a real helpful thing to know.                            |
+| 03:42      | wanted. So I've got that in [[Git]]. And it's just a real helpful thing to know.                            |
 | 03:46      | Wow, Allison, you've gone down the rabbit hole. If you're using version control and your                |
 | 03:50      | Keyboard Maestro macros, that is my kind of nerd right there.                                           |
 | 03:54      | Oh, yeah. Yeah. Like this is where, you know, we know we're going to have fun on this episode,          |
 | 03:58      | folks. We always do. But, you know, in particular, somebody mentions, yeah, so I'm putting my           |
-| 04:03      | automations in Git and I'm just like, hi, tell me more, tell me more.                                   |
+| 04:03      | automations in [[Git]] and I'm just like, hi, tell me more, tell me more.                                   |
 | 04:08      | We have our tribe, right?                                                                               |
 | 04:10      | Yes, exactly. And for those of you going, wait, what, why would I do this? Well, we'll                  |
 | 04:14      | have to get to that, won't we?                                                                          |

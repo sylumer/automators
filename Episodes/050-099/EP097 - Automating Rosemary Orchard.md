@@ -43,7 +43,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 - [Relay FM Membership](https://www.relay.fm/membership)
 - [Hazel – Noodlesoft – Simply Useful Software](https://www.noodlesoft.com/)
 - [DEVONtechnologies | DEVONthink, professional document and information management for the Mac and iOS](https://www.devontechnologies.com/apps/devonthink)
-- [RosemaryOrchard/systemConfigs](https://github.com/RosemaryOrchard/systemConfigs/blob/main/README.md) - ZSH, Git configs, etc.
+- [RosemaryOrchard/systemConfigs](https://github.com/RosemaryOrchard/systemConfigs/blob/main/README.md) - ZSH, [[Git]] configs, etc.
 - [Bunch.app](https://bunchapp.co/)
 - [Snippets - Bunch.app](https://bunchapp.co/docs/bunch-files/snippets/)
 - [Moom · Many Tricks](https://manytricks.com/moom/)
@@ -339,11 +339,11 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 22:29      | weird that they're also sponsoring today, but there you go.                                              |
 | 22:32      | It is weird, but it's just one of those things. Yeah. There is one tiny thing. Well, maybe               |
 | 22:38      | not tiny thing that I will mention that's sort of related to document management, which                  |
-| 22:44      | is I've got a lot of config files, which I am slowly putting into Git. So for anybody                    |
+| 22:44      | is I've got a lot of config files, which I am slowly putting into [[Git]]. So for anybody                    |
 | 22:51      | who uses the terminal on a regular basis, you probably have a bash or a ZSH config. If                   |
-| 22:57      | you use Git, then you'll have a Git config. If you use item, then you might have custom                  |
+| 22:57      | you use [[Git]], then you'll have a [[Git]] config. If you use item, then you might have custom                  |
 | 23:02      | settings like I've got badges for different folders and item and I'm slowly putting all                  |
-| 23:06      | of those and my Homebrew installs into a Git repo. And this has been causing all sorts                   |
+| 23:06      | of those and my Homebrew installs into a [[Git]] repo. And this has been causing all sorts                   |
 | 23:14      | of wonderful headaches because I realised I actually have zero consistency in the way                    |
 | 23:18      | that my machines are set up, which explains why every so often I'll be on one machine                    |
 | 23:22      | going, but I'm sure this worked when I did this yesterday. And the answer is it was on                   |
@@ -351,7 +351,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 23:32      | the same setup everywhere just because you go to search for a document, being able to                    |
 | 23:36      | find it on every device is great. But if you go to do something, especially when it's                    |
 | 23:42      | code related, I find, and you're missing the application that you need to do it or something,            |
-| 23:48      | it's very frustrating. So I'm managing those files by putting them in Git.                               |
+| 23:48      | it's very frustrating. So I'm managing those files by putting them in [[Git]].                               |
 | 23:55      | This episode of Automators is brought to you by Electric. When you think of the phrase                   |
 | 23:59      | boss move, you might be thinking of making a bold business decision or maybe giving a                    |
 | 24:02      | great presentation for a big crowd. The reality is sometimes being a boss in a small business            |
