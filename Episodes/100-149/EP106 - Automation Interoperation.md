@@ -714,7 +714,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 25:48      | you know, all the common ones                                     |
 | 25:50      | that people are checking out right now,                           |
 | 25:53      | they've got great shortcuts implementation.                       |
-| 25:55      | Like for instance, with Raycast, it's just built-in.              |
+| 25:55      | Like for instance, with [[Raycast]], it's just built-in.              |
 | 26:00      | You don't even have to run a plugin,                              |
 | 26:02      | you just type the name of the shortcut                            |
 | 26:04      | with Spotlight after Ventura ships,                               |

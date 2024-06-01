@@ -219,7 +219,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 08:37      | That's interesting because I do the exact same thing.                                              |
 | 08:40      | And let's talk about bookmarks for a second.                                                       |
 | 08:44      | Bookmarks are old school automation, you know, it is a bookmark to take you to a specific          |
-| 08:49      | location, but with modern Mac automation tools, and I'm talking to you, Raycast, [[Hazel]] on          |
+| 08:49      | location, but with modern Mac automation tools, and I'm talking to you, [[Raycast]], [[Hazel]] on          |
 | 08:56      | all the related apps, you can access things that are your bookmark.                                |
 | 09:02      | You can search your bookmarks with any of these applications like Alfred.                          |
 | 09:07      | You just trigger Alfred, you start typing in the name of your bookmark, and you do need            |

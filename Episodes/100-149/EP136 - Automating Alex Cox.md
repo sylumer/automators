@@ -430,8 +430,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 39:36      | making triggers on a Stream Deck is great. If you're using Keyboard Maestro, a conflict                 |
 | 39:40      | palette can work. There's, there's a lot of different ways. But as you start getting into               |
 | 39:43      | this, you should think about, well, how do I want to trigger these? And what's the easiest way          |
-| 39:47      | for me to jump between them? Yeah, I didn't even mention Alfred and Raycast, which                      |
-| 39:53      | I also both see you use. Raycast is awesome and it runs shortcuts right out of a box. Yeah.             |
+| 39:47      | for me to jump between them? Yeah, I didn't even mention Alfred and [[Raycast]], which                      |
+| 39:53      | I also both see you use. [[Raycast]] is awesome and it runs shortcuts right out of a box. Yeah.             |
 | 40:00      | Oh, so cool. Yeah, before we move on from Moom, I do just want to mention that Moom also has            |
 | 40:04      | built-in triggers, because of course we love automation apps. Moom has an option to trigger             |
 | 40:09      | automatically when switching to the card, like your display layout matching like something in           |

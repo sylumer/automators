@@ -59,7 +59,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 00:12      | How are you doing?                                                                                    |
 | 00:13      | Good.                                                                                                 |
 | 00:14      | I am looking forward to today's show.                                                                 |
-| 00:16      | We have been hearing lately a lot about Raycast, a new upcoming keyboard launcher.                    |
+| 00:16      | We have been hearing lately a lot about [[Raycast]], a new upcoming keyboard launcher.                    |
 | 00:23      | So you and I spent a month playing with it, and we're going to be talking about that                  |
 | 00:27      | today.                                                                                                |
 | 00:28      | But we're going to take a look at some of the other launchers, too, and what we're using              |
@@ -109,13 +109,13 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 03:01      | things that I think Spotlight does well, and occasionally I need it.                                  |
 | 03:04      | So it's over there hanging out under the Control key, so under the Control Space, I get Spotlight     |
 | 03:08      | rolling.                                                                                              |
-| 03:09      | And, but at the same time, I've been running Raycast under Option Space and Alfred under              |
+| 03:09      | And, but at the same time, I've been running [[Raycast]] under Option Space and Alfred under              |
 | 03:15      | Command Space, and I don't foresee me changing that.                                                  |
 | 03:19      | So none of these are exclusive, and Spotlight in particular, because you already have it              |
 | 03:24      | on your Mac.                                                                                          |
 | 03:25      | So I think you will want to map that now.                                                             |
 | 03:27      | If you decide that you're just a Spotlight person, leave it under Command Space, but                  |
-| 03:31      | if you decide to jump on board with Raycast, or Alfred, or Launch Bar, any of the other               |
+| 03:31      | if you decide to jump on board with [[Raycast]], or Alfred, or Launch Bar, any of the other               |
 | 03:35      | options, I would recommend remapping it to somewhere else and putting your primary launcher           |
 | 03:41      | under that Command Space key, but this is not an exclusive thing.                                     |
 | 03:46      | But getting back to Spotlight though, I remember was, I think it was Mac OS Tiger, where it           |
@@ -197,7 +197,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 09:24      | going to discuss today, you're going to be unhappy with spotlight.                                    |
 | 09:29      | If you don't know better, spotlight is great, but once you use a snappy, proper launcher              |
 | 09:35      | that does more for you, and another thing that's inherent with all of these apps, launch              |
-| 09:41      | bar, Alfred, and Raycast is they have a memory of what you select, and so the things you              |
+| 09:41      | bar, Alfred, and [[Raycast]] is they have a memory of what you select, and so the things you              |
 | 09:47      | like the most gradually work their way to the top of the list, and I have not observed                |
 | 09:54      | that.                                                                                                 |
 | 09:55      | I've been trying to use spotlight more as we've been prepping for today's show.                       |
@@ -216,7 +216,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 10:40      | That's one of those things that it seems like it's a great feature, but I really                      |
 | 10:44      | wish that spotlight were smarter about doing that.                                                   |
 | 10:47      | Yeah.                                                                                                 |
-| 10:48      | Whereas when I search these out in Raycast, it just finds the right one.                              |
+| 10:48      | Whereas when I search these out in [[Raycast]], it just finds the right one.                              |
 | 10:51      | I don't deal with that.                                                                               |
 | 10:53      | When I search them in Alfred, in fact, I kind of prefer Alfred's method where you actually            |
 | 10:59      | use a modifier, so then you're only searching shortcuts, and that's why you don't get those           |
@@ -252,7 +252,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:10      | What I want is the result because I need to put that somewhere.                                       |
 | 13:14      | Now I have to do the keyboard shortcut for copy or use the edit menu to go and copy it,               |
 | 13:22      | and then close calculator instead of just being able to hit enter and go into something               |
-| 13:27      | else and paste it like I can with Alfred and Raycast and various other things.                        |
+| 13:27      | else and paste it like I can with Alfred and [[Raycast]] and various other things.                        |
 | 13:32      | Interestingly, the pictures that show up when I do type Rosemary Orchard, there are                   |
 | 13:36      | a bunch of pictures of Stream Decks.                                                                  |
 | 13:38      | You and I have been sharing pictures of Stream Decks.                                                 |
@@ -262,7 +262,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:53      | It is nothing like it used to be with Tiger, it does better work, it's faster, it is taking           |
 | 13:59      | advantage of some of the built-in access that it has that the other apps don't have.                  |
 | 14:05      | But every time I try to use it, it's just not there.                                                  |
-| 14:09      | When you hear about the stuff we're doing with Alfred and even Raycast later, you're                  |
+| 14:09      | When you hear about the stuff we're doing with Alfred and even [[Raycast]] later, you're                  |
 | 14:14      | going to understand that this thing is, it's like a pedestrian version.                               |
 | 14:20      | This app walks so the rest of them could run, I guess, and I don't know if really Apple               |
 | 14:24      | has any interest in it.                                                                               |
@@ -367,7 +367,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 20:21      | So it does cause me to change my workflow a little bit when that happens.                             |
 | 20:25      | But, you know, honestly, I don't spend enough time behind other people's Macs to worry about          |
 | 20:29      | it.                                                                                                   |
-| 20:30      | And unfortunately, I can install, you know, Alfred and Raycast and so on on my work                |
+| 20:30      | And unfortunately, I can install, you know, Alfred and [[Raycast]] and so on on my work                |
 | 20:34      | machine.                                                                                              |
 | 20:35      | But, you know, even if, even if you can't, you know, why not give yourself the best experience        |
 | 20:39      | on one machine at least?                                                                              |
@@ -409,7 +409,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 23:09      | We've looked at Spotlight.                                                                            |
 | 23:10      | Spotlight's fine.                                                                                     |
 | 23:11      | It's okay.                                                                                            |
-| 23:12      | But Raycast seems to be the new cool kid on the block and a lot of people are really                  |
+| 23:12      | But [[Raycast]] seems to be the new cool kid on the block and a lot of people are really                  |
 | 23:17      | loving it, and Chris Lawley, who we had on in the last episode, is a huge fan.                          |
 | 23:22      | So you and I have both given it a shot for a month, and I think there's a lot of great                |
 | 23:27      | things to like about it.                                                                              |
@@ -417,13 +417,13 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 23:35      | stuff.                                                                                                |
 | 23:36      | But there's some things that we don't like as well, which we'll have to get to at the                 |
 | 23:40      | end.                                                                                                  |
-| 23:41      | I think a lot of people are weighing up the advantages of using Raycast and what extensions           |
+| 23:41      | I think a lot of people are weighing up the advantages of using [[Raycast]] and what extensions           |
 | 23:49      | it has and so on.                                                                                     |
-| 23:50      | So where do you feel like you're at at the moment with Raycast?                                       |
+| 23:50      | So where do you feel like you're at at the moment with [[Raycast]]?                                       |
 | 23:53      | I have actually been using it longer than a month, and like I said, I've mapped it to                 |
 | 23:57      | the option space, and I looked at it, like, is this a replacement for Alfred?                         |
 | 24:03      | Well, just to kind of cut to the end, it's not for me, and we'll get there eventually.                |
-| 24:08      | But to kind of give you a little bit more background, Raycast is an app that is a launcher.           |
+| 24:08      | But to kind of give you a little bit more background, [[Raycast]] is an app that is a launcher.           |
 | 24:16      | One of the things I really like about it, it's very pretty.                                           |
 | 24:19      | I mean, just the layout and the typography and just the way it looks when you activate                |
 | 24:26      | it is very pleasant, and I think they spent a lot of time on that clearly.                            |
@@ -432,19 +432,19 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 24:38      | The business model is interesting.                                                                    |
 | 24:40      | It's free for personal use, so you can download it for personal use.                                  |
 | 24:44      | They're trying to monetise it on team usage, and they've got a bunch of team tools and                |
-| 24:49      | admin tools that people can use with Raycast, and they've got a $10 per user per month business       |
+| 24:49      | admin tools that people can use with [[Raycast]], and they've got a $10 per user per month business       |
 | 24:56      | model.                                                                                                |
 | 24:59      | And I'm always interested in the business model for these things because I put a lot                  |
 | 25:02      | of time and effort into learning them.                                                                |
 | 25:03      | I don't want something that's going to just disappear one day, or if they're not making               |
 | 25:08      | money with the kind of access they're getting to my machine, I worry, like, are they going            |
 | 25:13      | to sell data or do something shady?                                                                   |
-| 25:18      | I don't feel that way about Raycast.                                                                  |
+| 25:18      | I don't feel that way about [[Raycast]].                                                                  |
 | 25:19      | They do have a business model, and the business model is a way that allows people who don't           |
 | 25:24      | want to pay for a personal license to download and use it for free.                                   |
 | 25:27      | So that's good, and I think that's something that a lot of people think about.                        |
 | 25:31      | It's like, do I want it as much as you and I like Alfred?                                             |
-| 25:34      | Some people don't want to pay for it, and I get that, and Raycast is an option for you,               |
+| 25:34      | Some people don't want to pay for it, and I get that, and [[Raycast]] is an option for you,               |
 | 25:39      | and it's definitely better than Spotlight.                                                            |
 | 25:43      | It brings in a lot of the stuff that we were complaining about in the last segment.                   |
 | 25:48      | It solves those problems, and the first thing is it's fast.                                           |
@@ -459,7 +459,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 26:20      | and of course, I love that, but that's been disabled recently, and I don't know if it's               |
 | 26:26      | a technical problem or an intellectual property problem, but I don't know if that's coming            |
 | 26:32      | back or not.                                                                                          |
-| 26:33      | The fact that they didn't include something like that is kind of cool, but I like Raycast.            |
+| 26:33      | The fact that they didn't include something like that is kind of cool, but I like [[Raycast]].            |
 | 26:39      | I think it's a nice app, and it's definitely something worth checking out.                            |
 | 26:44      | Yes, exactly.                                                                                         |
 | 26:46      | It's one of those things where I've been trying it, I've been playing with it.                        |
@@ -482,14 +482,14 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 27:55      | Also, when I hit return and then I go to paste that, I get the result of that conversion.             |
 | 28:00      | I have to say that that's really smart, and I love having things like that just under my              |
 | 28:05      | fingertips.                                                                                           |
-| 28:06      | I found myself using Raycast more and more for things like conversions between things,                |
+| 28:06      | I found myself using [[Raycast]] more and more for things like conversions between things,                |
 | 28:12      | just because it's so simple, and I get that result on my clipboard, which, of course,                 |
 | 28:17      | is what we like.                                                                                      |
 | 28:19      | I think another thing that some folks really like having an app that just does one thing              |
 | 28:25      | and does it well, so using, say, Moom for rearranging your windows.                                   |
 | 28:29      | If you have not tried rearranging your windows using an app like that or you've never really          |
-| 28:33      | got into it, Raycast can do that as well.                                                             |
-| 28:37      | I can actually say, if I've got a window active and I activate Raycast when I type window,            |
+| 28:33      | got into it, [[Raycast]] can do that as well.                                                             |
+| 28:37      | I can actually say, if I've got a window active and I activate [[Raycast]] when I type window,            |
 | 28:43      | then I get options for the bottom right quarter, the first third, the top half, put it on a           |
 | 28:47      | previous desktop or a next desktop, the left half of my screen, put it back where it was,             |
 | 28:52      | things like that.                                                                                     |
@@ -504,7 +504,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 29:24      | screen, which is kind of like how I like windows when I want them big and a window and a desktop      |
 | 29:31      | navigation, which is really nice, which not a lot of apps can handle.                                 |
 | 29:36      | It's just very clever, the window management system, and that is an extension.                        |
-| 29:43      | Extensions for Raycast, they've got a bunch of them built in out of the box when you download         |
+| 29:43      | Extensions for [[Raycast]], they've got a bunch of them built in out of the box when you download         |
 | 29:48      | it, but then you've got under the settings, and all of these, you access the settings                 |
 | 29:52      | by command comma, just like every other proper Mac app.                                               |
 | 29:57      | Then you've got a place you can go download extensions, like some of the ones I've installed.         |
@@ -512,35 +512,35 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 30:10      | You pick one, it goes into the paste buffer, and you can paste it.                                    |
 | 30:13      | They do the same thing with SF symbols.                                                               |
 | 30:14      | If you're into [[SF Symbols]], CleanShot X has a whole set of plugins, so if you're using                  |
-| 30:20      | the CleanShot X, a bunch of its commands now fall in Raycast.                                          |
-| 30:25      | Obsidian, the Obsidian Raycast plugin is really good.                                                 |
+| 30:20      | the CleanShot X, a bunch of its commands now fall in [[Raycast]].                                          |
+| 30:25      | Obsidian, the Obsidian [[Raycast]] plugin is really good.                                                 |
 | 30:31      | I installed the [[Home Assistant]] one because I'm trying to get better at [[Home Assistant]],                |
 | 30:34      | so they've got a bunch of [[Home Assistant]] commands.                                                    |
 | 30:37      | You can add these in here as you need them, but that's a blessing and a curse because                 |
 | 30:44      | you only get what they have.                                                                          |
 | 30:47      | Yeah, and so I went and looked at this, because one of the things I end up doing a lot for            |
 | 30:54      | myself, especially using Alfred a lot of the time, is that I actually create my own workflows         |
-| 31:02      | for things, and so I thought, okay, great, I'll try creating a Raycast extension.                     |
+| 31:02      | for things, and so I thought, okay, great, I'll try creating a [[Raycast]] extension.                     |
 | 31:08      | So I started creating one using the template, and then I gave me the instructions which were          |
 | 31:13      | to run NPM install and then build it, and that was the point where I went, ah, I can                  |
 | 31:21      | do this.                                                                                              |
 | 31:22      | I'm an expert developer, I use Node and JavaScript as part of my day job.                             |
 | 31:27      | If when I said NPM install, you went, wait, what's that?                                              |
-| 31:33      | Then you're probably not going to be writing a Raycast extension anytime soon, basically.             |
+| 31:33      | Then you're probably not going to be writing a [[Raycast]] extension anytime soon, basically.             |
 | 31:38      | And that's kind of the thing that I feel is a bit of a shame.                                         |
-| 31:41      | Not only that, but once you've actually written a Raycast extension, if you want to share             |
-| 31:44      | it with other people, you actually have to make a pull request back to the Raycast folks.             |
+| 31:41      | Not only that, but once you've actually written a [[Raycast]] extension, if you want to share             |
+| 31:44      | it with other people, you actually have to make a pull request back to the [[Raycast]] folks.             |
 | 31:50      | And I get why, this is why Apple has App Store review, right, and there is the App Store,             |
 | 31:55      | and you go to the App Store to look for an app, like Apple's approved it, you can download            |
 | 31:59      | it and install it.                                                                                    |
 | 32:00      | But the other side of that is Apple's the gatekeeper, right?                                          |
-| 32:05      | And I feel like for Raycast, this is one of those things that's a blessing and a curse,               |
+| 32:05      | And I feel like for [[Raycast]], this is one of those things that's a blessing and a curse,               |
 | 32:09      | where you, you know, it seems to me, you know, I haven't done a huge amount of digging, like          |
 | 32:14      | I know that I can add like a directory of scripts, so I presume I can download stuff                  |
 | 32:19      | from GitHub and so on, but it doesn't seem like there's a repository of other sources                 |
 | 32:24      | for extensions out there yet.                                                                         |
 | 32:27      | And if I want to write an automation, I basically have to do it in another app and then add           |
-| 32:33      | it into Raycast so that I can use it or write a script.                                               |
+| 32:33      | it into [[Raycast]] so that I can use it or write a script.                                               |
 | 32:38      | And that's something that I feel like is a bit of a shame.                                            |
 | 32:42      | It would be really nice if they had a block based editor in there for some simple things              |
 | 32:47      | like you have with Alfred.                                                                            |
@@ -560,7 +560,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 33:48      | bad answers so confidently, but, you know, there's, you know, there's some good stuff                 |
 | 33:54      | out there.                                                                                            |
 | 33:55      | You know, I like the fact that there's a brew search, but I've yet to find something on               |
-| 34:00      | Raycast that I can't get in Alfred through something else or through a native feature.                |
+| 34:00      | [[Raycast]] that I can't get in Alfred through something else or through a native feature.                |
 | 34:08      | But that said, it's very slick.                                                                       |
 | 34:09      | It's very simple.                                                                                     |
 | 34:10      | It looks very modern.                                                                                 |
@@ -571,7 +571,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 34:24      | It's kept very simple.                                                                                |
 | 34:25      | One thing I've struggled with a bit, David, and I'm guessing you probably haven't struggled           |
 | 34:29      | with this because you're a one Mac person, sync.                                                      |
-| 34:33      | I don't think I can sync Raycast across my devices.                                                   |
+| 34:33      | I don't think I can sync [[Raycast]] across my devices.                                                   |
 | 34:38      | Certainly, I've just had to go and reinstall an extension that I know I have installed                |
 | 34:43      | on my MacBook whilst I'm set here on my Mac Studio.                                                   |
 | 34:47      | So it looks to me like it doesn't sync the preferences across your devices.                           |
@@ -591,7 +591,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 35:27      | I have the same problem where I've got to go and reinstall them if I want.                            |
 | 35:33      | And it's not as bleak as it sounds with the extension stuff because there is an extraordinarily       |
 | 35:39      | active extension community.                                                                           |
-| 35:42      | And there's all kinds of stuff coming out constantly where you're seeing new Raycast                  |
+| 35:42      | And there's all kinds of stuff coming out constantly where you're seeing new [[Raycast]]                  |
 | 35:49      | extensions get issued often.                                                                          |
 | 35:53      | And some of them seem very narrow.                                                                    |
 | 35:55      | Yeah, it's mostly just for me that it has to go through them to get into the official                 |
@@ -629,19 +629,19 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 37:41      | extensions, all sorts of things are there already and I also have to say I did really                 |
 | 37:47      | enjoy the onboarding, supercharging your productivity walkthrough.                                    |
 | 37:52      | I thought that that was a really good feature.                                                        |
-| 37:54      | So when you launch Raycast the first time, then you'll see that there is a, you know,                 |
+| 37:54      | So when you launch [[Raycast]] the first time, then you'll see that there is a, you know,                 |
 | 37:59      | I think, let me just check what it was called.                                                        |
 | 38:01      | Yeah.                                                                                                 |
 | 38:02      | Start supercharging your productivity.                                                                |
 | 38:03      | A walkthrough where when you navigate to that and you go through it, then it will actually            |
-| 38:09      | walk you through doing things like setting up hot keys and aliases, navigating Raycast                 |
+| 38:09      | walk you through doing things like setting up hot keys and aliases, navigating [[Raycast]]                 |
 | 38:13      | with built-in keyboard shortcuts, quickly accessing links, floating notes.                            |
 | 38:19      | That's something that we didn't mention, David.                                                       |
-| 38:21      | Floating notes are like stickies, but in Raycast and they stay around outside of the                  |
-| 38:29      | Raycast window as well, which is pretty cool.                                                         |
+| 38:21      | Floating notes are like stickies, but in [[Raycast]] and they stay around outside of the                  |
+| 38:29      | [[Raycast]] window as well, which is pretty cool.                                                         |
 | 38:33      | I like that feature a lot, that's really nice.                                                        |
 | 38:37      | I mean, I still use stickies, but yeah, the walkthrough at the beginning to help you get              |
-| 38:42      | started figuring out Raycast and learning how window management works and so on is really             |
+| 38:42      | started figuring out [[Raycast]] and learning how window management works and so on is really             |
 | 38:47      | good.                                                                                                 |
 | 38:48      | What I like about it, I think, is that it doesn't, they're not trying to copy Alfred,                 |
 | 38:51      | which is probably the, you know, they've just got a different take on it.                             |
@@ -730,7 +730,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 43:42      | I have enabled my Safari bookmarks in Alfred.                                                         |
 | 43:44      | So when I type command space and then one of the things that is in my bookmarks, that's               |
 | 43:49      | the option that comes up first.                                                                       |
-| 43:52      | And something that we neglected to mention that you can do in Raycast, you can do it                  |
+| 43:52      | And something that we neglected to mention that you can do in [[Raycast]], you can do it                  |
 | 43:55      | in Alfred as well.                                                                                    |
 | 43:56      | If you search for something and you get a number of results come back, then the command               |
 | 44:01      | key plus the number of the entry will launch that entry.                                              |
@@ -754,7 +754,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 45:15      | the theme of, you could do that too.                                                                  |
 | 45:18      | One of the things I know with Alfred having used these other ones is Alfred seems one                 |
 | 45:22      | of the smartest at surfacing frequently used results and putting them at the top.                     |
-| 45:28      | I know that they do this as well in Raycast and Launch Bar, but Alfred always seems to                |
+| 45:28      | I know that they do this as well in [[Raycast]] and Launch Bar, but Alfred always seems to                |
 | 45:34      | know like it only takes once or twice for me to trigger something in Alfred where the                 |
 | 45:38      | next time I go and type anything like that, it's going to be the number one result.                   |
 | 45:43      | And I just hit return and go, and that's something I appreciate about the app.                        |
@@ -789,7 +789,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 47:25      | But I really like the fact that that's just something that you can do within Alfred and               |
 | 47:32      | especially that going back to the latest query, it saves me so much time, David.                      |
 | 47:36      | I think that was something I was struggling with with recast and spotlight when I was                 |
-| 47:40      | giving them, you know, I actually put Raycast on command space for a while.                           |
+| 47:40      | giving them, you know, I actually put [[Raycast]] on command space for a while.                           |
 | 47:45      | And that was the part that broke my brain and it took me a really long time to figure                 |
 | 47:48      | out why I was struggling.                                                                             |
 | 47:51      | And it was because the previous search term wasn't coming up if I'd used it recently.                 |
@@ -805,9 +805,9 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:13      | I think once, once you've got the [[Drafts]] analogy, it's great.                                         |
 | 48:17      | Like it's easier to understand for folks.                                                             |
 | 48:20      | But something else that is definitely Alfred specific, that is not something that you can             |
-| 48:25      | do at least easily in Raycast.                                                                        |
+| 48:25      | do at least easily in [[Raycast]].                                                                        |
 | 48:28      | You definitely can't do this in spotlight is web search.                                              |
-| 48:30      | Okay, if I type something into Alfred or Raycast or spotlight or launch bar or [[Quicksilver]],           |
+| 48:30      | Okay, if I type something into Alfred or [[Raycast]] or spotlight or launch bar or [[Quicksilver]],           |
 | 48:37      | if you're storing that, you know, and it's not something that's just found as an action               |
 | 48:42      | or on my local machine, you'll get the option to Google it or DuckDuckGo it, depending on             |
 | 48:46      | what your preferences are.                                                                            |
@@ -855,7 +855,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 51:31      | There's just so much depth in this, you know, the system preferences with Alfred and it's             |
 | 51:39      | so customisable.                                                                                      |
 | 51:40      | You know, that's really what gets me.                                                                 |
-| 51:43      | The new and shiny Raycast is great and the plugins are fun, but man, there's just so                  |
+| 51:43      | The new and shiny [[Raycast]] is great and the plugins are fun, but man, there's just so                  |
 | 51:47      | much I've over time customised Alfred to do for me.                                                   |
 | 51:52      | We haven't even gotten to workflow yet.                                                               |
 | 51:53      | I want to wait on that.                                                                               |
@@ -866,9 +866,9 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 52:12      | to admit, I don't really use that much.                                                               |
 | 52:14      | The contacts, we talked about contacts earlier in the episode and we were talking about how           |
 | 52:19      | they work in spotlight and how they're great, but they're slow and they take a lot of mousing         |
-| 52:23      | or arrow pressing to get to the right one and Raycast's contacts, you can search the                  |
+| 52:23      | or arrow pressing to get to the right one and [[Raycast]]'s contacts, you can search the                  |
 | 52:30      | contacts database, you can surface them, but you can't really navigate them well.                     |
-| 52:34      | I feel like that's something Raycast needs to work on, frankly, but in Alfred, contacts               |
+| 52:34      | I feel like that's something [[Raycast]] needs to work on, frankly, but in Alfred, contacts               |
 | 52:40      | are awesome and they're awesome and ugly all at once because if I type Rosemary Orchard,              |
 | 52:46      | it doesn't give me a bunch of pretty pictures of Rose.                                                |
 | 52:48      | It doesn't do like all the stuff that spotlight does, but what it gets me is her email address,       |
@@ -877,7 +877,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 53:07      | click away from doing something with that information and while it's not as pretty as                 |
 | 53:13      | what spotlight does, it is fast and actionable and that's kind of what I want from contacts.          |
 | 53:19      | Yeah.                                                                                                 |
-| 53:20      | Now, honestly, I have to say, Raycast is pretty if I search for contact in Raycast, then I'll         |
+| 53:20      | Now, honestly, I have to say, [[Raycast]] is pretty if I search for contact in [[Raycast]], then I'll         |
 | 53:27      | see your profile picture and the phone number and the email and everything, but I then have           |
 | 53:32      | to use like command K to get the options and then I can do things like send you a message             |
 | 53:37      | or send you an email or copy various things, but I actually have to activate an action                |
@@ -905,7 +905,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 55:13      | Even though I don't practice law, I know a few lawyers and so she's like, can you give                |
 | 55:17      | me a number for a good estate attorney?                                                               |
 | 55:19      | I'm like, great.                                                                                      |
-| 55:20      | So I hit Raycast and it was just tough to get to the phone number and the email address.              |
+| 55:20      | So I hit [[Raycast]] and it was just tough to get to the phone number and the email address.              |
 | 55:27      | Whereas in Alfred, I've got that in seconds, tap space, command space, like a couple letters          |
 | 55:37      | of the person's name, couple arrows down, command C, and I've got it.                                 |
 | 55:41      | And that's the thing I want from a keyboard launcher.                                                 |
@@ -1278,11 +1278,11 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:21:00   | But we're not going to cover that one today.                                                          |
 | 01:21:02   | I think we've gone enough at this, but it's nice to see that this is a healthy, active                |
 | 01:21:09   | environment for people with lots of competing apps doing cool stuff, whether you're using             |
-| 01:21:15   | Spotlight or Raycast or Alfred or Launch Bar.                                                         |
+| 01:21:15   | Spotlight or [[Raycast]] or Alfred or Launch Bar.                                                         |
 | 01:21:18   | I feel like all of these can help you automate.                                                       |
 | 01:21:21   | Absolutely, and even if you just go, okay, well, I'm not sure I need any of these workflows           |
 | 01:21:28   | or anything.                                                                                          |
-| 01:21:29   | It's definitely worth downloading Raycast or Alfred or similar just to see, would you                 |
+| 01:21:29   | It's definitely worth downloading [[Raycast]] or Alfred or similar just to see, would you                 |
 | 01:21:35   | benefit from being able to do command space and type a calculation and then copy that                 |
 | 01:21:41   | to your keyboard?                                                                                     |
 | 01:21:43   | If that's the only automation that you go away with, being able to do that, that's really             |

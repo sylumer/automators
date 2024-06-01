@@ -273,7 +273,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 12:15      | Yeah.                                                                                                 |
 | 12:16      | I'm just going to mention, too, I love to run shortcuts on my iPad as quickly as I can                |
 | 12:22      | on the Mac.                                                                                           |
-| 12:23      | Especially since on my MacBook, I started using Raycast, but it's, you know, the same                 |
+| 12:23      | Especially since on my MacBook, I started using [[Raycast]], but it's, you know, the same                 |
 | 12:28      | applies if you're using LaunchBar, I think, or Alfred.                                                |
 | 12:32      | It's really fast to, you know, you really run shortcuts by typing their name, and especially          |
 | 12:38      | these utilities that have fuzzy search built in, you can just type a few letters and press            |
@@ -702,7 +702,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 45:17      | toggle back and forth between hiding the sidebar and showing the sidebar. But yeah,                   |
 | 45:22      | essentially, because I'm new to all this and John has been using macOS for far longer than            |
 | 45:27      | I have, whenever he comes up with something that involves either BetterTouchTool or                 |
-| 45:31      | Raycast, I steal everything that John shares. Yeah, all right. And then I want to talk to             |
+| 45:31      | [[Raycast]], I steal everything that John shares. Yeah, all right. And then I want to talk to             |
 | 45:38      | you about this, John, because to me, Better Touch is like the pot of gold in shortcuts,               |
 | 45:43      | like you install BetterTouchTool, which is a great app to do a bunch of stuff. But then             |
 | 45:46      | you look at it shortcut sections, and it's like, all of the stuff that fell off the back              |
@@ -744,8 +744,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 48:58      | can't I do this in shortcuts?                                                                         |
 | 49:00      | Yeah, I was gonna say, Federico, anytime that there's something that I feel like I can't              |
 | 49:07      | do the first place I look is BetterTouchTool at this point. Yeah. Yeah. Yeah. Something             |
-| 49:12      | that I mentioned, running shortcuts on the Mac with Raycast or LaunchBar, that is actually            |
-| 49:18      | one thing that I wish Raycast would copy from LaunchBar. And that is when you're selecting            |
+| 49:12      | that I mentioned, running shortcuts on the Mac with [[Raycast]] or LaunchBar, that is actually            |
+| 49:18      | one thing that I wish [[Raycast]] would copy from LaunchBar. And that is when you're selecting            |
 | 49:26      | a shortcut in LaunchBar, I believe you can press space or tab to enter some input for                 |
 | 49:35      | the shortcut from LaunchBar itself, which is a super clever way to do this, which is                  |
 | 49:44      | you stay in the launcher itself. So if you want to pass some text, for example, to the                |
@@ -753,19 +753,19 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 49:55      | for this because you can type a few letters to find the shortcut, then you press a key,               |
 | 50:02      | you type the text you want to save, you enter, you know, you press return, the shortcut runs          |
 | 50:08      | in the background, which is another benefit of Mac OS compared to iPadOS, and you're done.            |
-| 50:14      | Instead with Raycast, because it doesn't have that built in method of passing text to the             |
+| 50:14      | Instead with [[Raycast]], because it doesn't have that built in method of passing text to the             |
 | 50:21      | shortcut, you need to do it yourself. So in my case, I'm using the ask for input action               |
-| 50:26      | in the shortcut, but I very much prefer the LaunchBar approach here. That said, Raycast               |
+| 50:26      | in the shortcut, but I very much prefer the LaunchBar approach here. That said, [[Raycast]]               |
 | 50:33      | has another thing, two other things that I love for the shortcuts integration. One is                 |
-| 50:40      | you can mark certain shortcuts as favourites, so that when you open Raycast, and in my case,           |
-| 50:45      | it's a full on spotlight replacement, so that when I press command space, I see the Raycast           |
-| 50:50      | window. And in the Raycast window, you have a favourite section, so you can pin your most              |
+| 50:40      | you can mark certain shortcuts as favourites, so that when you open [[Raycast]], and in my case,           |
+| 50:45      | it's a full on spotlight replacement, so that when I press command space, I see the [[Raycast]]           |
+| 50:50      | window. And in the [[Raycast]] window, you have a favourite section, so you can pin your most              |
 | 50:56      | frequently used shortcuts at the top of that section, and you always see them. But it also            |
 | 51:02      | makes it very easy. This is my second, the second thing that I like. It also makes it                 |
 | 51:06      | very easy to give a to give a hotkey to any shortcut. And for whatever reason, these hotkeys          |
-| 51:12      | that I set in Raycast are more reliable than the native hotkeys in shortcuts itself. So               |
-| 51:21      | I never use the Apple provided option for system white hotkeys. I use Raycast because                 |
-| 51:28      | they trigger all the time without error whatsoever. Yeah, I've talked to Raycast about that doing     |
+| 51:12      | that I set in [[Raycast]] are more reliable than the native hotkeys in shortcuts itself. So               |
+| 51:21      | I never use the Apple provided option for system white hotkeys. I use [[Raycast]] because                 |
+| 51:28      | they trigger all the time without error whatsoever. Yeah, I've talked to [[Raycast]] about that doing     |
 | 51:35      | the input thing, Federico, and I have my fingers across that they're going to allow it because        |
 | 51:42      | they have something similar, which is you can set up a website query where you type                   |
 | 51:48      | in a keyboard, you know, a keyboard combination, and then you type in your search terms, hit          |
@@ -773,7 +773,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 51:58      | be. And I think they should be able to do something like that for shortcuts as a result.              |
 | 52:03      | I was going to say Alfred does offer the ability to do things like that to pass specific text         |
 | 52:08      | or files and so on straight to a shortcut. So that that would seem like something that                |
-| 52:13      | Raycast would want to add if only from the competition perspective of, you know, one                  |
+| 52:13      | [[Raycast]] would want to add if only from the competition perspective of, you know, one                  |
 | 52:17      | of the alternatives to us does this. And of course, both of them have different features              |
 | 52:21      | which makes them both great. Are we all agreed is everybody here triggering shortcuts with            |
 | 52:26      | some form of launcher other than shortcuts? Because I think I think all four of us are                |

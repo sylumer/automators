@@ -735,7 +735,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 55:53      | Some of the ways people do it is because you have a great Mac app, as you set up shortcuts to start  |
 | 56:01      | timers and maybe trigger focus modes, mine quite often do. And I just use the word track at the      |
 | 56:07      | beginning of it. So I'll say track automators. And I can trigger that with with them [[Hazel]] or,       |
-| 56:14      | you know, Raycast or any of these launchers that will run a shortcut. And then that's a great way    |
+| 56:14      | you know, [[Raycast]] or any of these launchers that will run a shortcut. And then that's a great way    |
 | 56:20      | to trigger the timer. But a power tip there is to enable the feature in Timery where it shows the    |
 | 56:27      | running timer in your menu bar. And that really helps you know that, okay, that hit. And this is     |
 | 56:33      | what I'm tracking right now. I have a similar thing. I have shortcuts for things like that,          |
