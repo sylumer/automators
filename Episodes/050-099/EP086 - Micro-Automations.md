@@ -143,11 +143,11 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 04:31      | see it because it's right there in front of our face, but equally, you know, just being                 |
 | 04:34      | able to go, hey, I frequently use these two system preferences panes.                                   |
 | 04:40      | I will just, you know, put, I'll just put those in my Stream Deck or I'll have a little                 |
-| 04:46      | Alfred workflow that just runs the AppleScript because you can do that with Alfred                     |
+| 04:46      | [[Alfred]] workflow that just runs the AppleScript because you can do that with [[Alfred]]                     |
 | 04:51      | as well and opens it for me.                                                                            |
 | 04:54      | And being able to do that, it's easy.                                                                   |
-| 04:55      | Of course, actually, you can just open a specific system preferences pane from Alfred.                  |
-| 04:59      | If I open Alfred and I type sound, you can jump straight to the sound system preferences                |
+| 04:55      | Of course, actually, you can just open a specific system preferences pane from [[Alfred]].                  |
+| 04:59      | If I open [[Alfred]] and I type sound, you can jump straight to the sound system preferences                |
 | 05:03      | pane, but for other AppleScripts, that could be useful too.                                            |
 | 05:06      | But yeah, you know, it is surprisingly difficult to do what you would think was a basic thing           |
 | 05:12      | on micros at times.                                                                                     |
@@ -1003,7 +1003,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 56:01      | and I'm much more accurate and faster at selecting text with the keyboard the vast majority of          |
 | 56:07      | the time.                                                                                               |
 | 56:08      | But you can control PopClip with AppleScript and then you can set that up to be triggered               |
-| 56:14      | by a keyboard shortcut from an automated service, fast scripts, Alfred, [[LaunchBar]], or even              |
+| 56:14      | by a keyboard shortcut from an automated service, fast scripts, [[Alfred]], [[LaunchBar]], or even              |
 | 56:20      | [[Quicksilver]].                                                                                            |
 | 56:21      | Yeah.                                                                                                   |
 | 56:22      | Now I've got to do this, Rose, because I've just been using it with a mouse.                            |
@@ -1124,7 +1124,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:03:13   | I find a lot of the built-in, the default PopClip extensions I don't want, you know, like one           |
 | 01:03:19   | of them is search.                                                                                      |
 | 01:03:20   | Like you can select text and click a PopClip and it searches it in Google.                              |
-| 01:03:25   | I just always run searches through Alfred.                                                              |
+| 01:03:25   | I just always run searches through [[Alfred]].                                                              |
 | 01:03:27   | I just, for whatever reason, I just never use it.                                                       |
 | 01:03:29   | So I turn that off and, and like, like cut copy and paste, I keyboard shortcut that.                    |
 | 01:03:35   | I don't need PopClip to do that for me.                                                                 |

@@ -167,7 +167,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 04:04      | but then when you look back in a couple of months                 |
 | 04:07      | and you're like, oh, right, well,                                 |
 | 04:08      | I actually have this thing where I always start by,               |
-| 04:11      | I don't know, doing this in Alfred.                               |
+| 04:11      | I don't know, doing this in [[Alfred]].                               |
 | 04:13      | And the end result is that I actually need a file                 |
 | 04:15      | to end up in this folder over here,                               |
 | 04:17      | so that it's available to that person,                            |
@@ -627,14 +627,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 22:18      | I mean, I'm launching,                                            |
 | 22:20      | I'm not doing things as complex as you are,                       |
 | 22:22      | but I'm launching shortcuts almost exclusively                    |
-| 22:24      | through Alfred, which we're going to talk about                   |
-| 22:26      | in the after show, but I really like that Alfred,                 |
-| 22:30      | that Alfred plugin, and I just type SC space                      |
+| 22:24      | through [[Alfred]], which we're going to talk about                   |
+| 22:26      | in the after show, but I really like that [[Alfred]],                 |
+| 22:30      | that [[Alfred]] plugin, and I just type SC space                      |
 | 22:33      | and then I can search my shortcuts.                               |
 | 22:35      | I can pass variables to them.                                     |
 | 22:36      | There's a whole bunch of stuff you can do with them.              |
 | 22:38      | So, yeah, it's really.                                            |
-| 22:39      | Which Alfred plugin are you using for that?                       |
+| 22:39      | Which [[Alfred]] plugin are you using for that?                       |
 | 22:40      | There's a number of different ones.                               |
 | 22:42      | I'm using the one that they initially had on their website.       |
 | 22:47      | The, I don't know who made it.                                    |
@@ -645,15 +645,15 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 23:01      | like a text input to run, you just hit command enter              |
 | 23:04      | and then you type in the text after you type the name.            |
 | 23:06      | So let me back up, I went too fast.                               |
-| 23:08      | Okay, so you would hit command space for Alfred, then SC,         |
+| 23:08      | Okay, so you would hit command space for [[Alfred]], then SC,         |
 | 23:12      | and that shows you all your scripts,                              |
 | 23:14      | but maybe you've got a script that's gonna, you know,             |
 | 23:16      | do something to a number.                                         |
 | 23:18      | So you hit command enter instead of enter,                        |
-| 23:21      | and then it runs a script, but it asks in Alfred,                 |
+| 23:21      | and then it runs a script, but it asks in [[Alfred]],                 |
 | 23:24      | you know, what's your input?                                      |
 | 23:25      | So if I write the number 42 and then hit enter,                   |
-| 23:27      | it's gonna pass the 42 to Alfred                                  |
+| 23:27      | it's gonna pass the 42 to [[Alfred]]                                  |
 | 23:30      | and run the whole script for me.                                  |
 | 23:31      | And I just find it really handy.                                  |
 | 23:34      | And I've got that under my fingers now.                           |
@@ -664,7 +664,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 23:46      | And the one, the one that stuck with me                           |
 | 23:48      | is Stephen Millard's one from Thought Asylum.                     |
 | 23:50      | And I'll put a link to both the,                                  |
-| 23:52      | the one on the Alfred blog and Stephen's one in the show notes    |
+| 23:52      | the one on the [[Alfred]] blog and Stephen's one in the show notes    |
 | 23:55      | so that people can try both of them.                              |
 | 23:58      | I think I found Stephen's first and just started using it         |
 | 24:01      | because I was like, okay, this is, you know.                      |
@@ -710,7 +710,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 25:40      | Yeah, okay, so I'm going to set this aside,                       |
 | 25:41      | I'll come back to it, but I guess the point is,                   |
 | 25:44      | and this is true for all of the launchers,                        |
-| 25:45      | [[LaunchBar]], Alfred, you know,                                      |
+| 25:45      | [[LaunchBar]], [[Alfred]], you know,                                      |
 | 25:48      | you know, all the common ones                                     |
 | 25:50      | that people are checking out right now,                           |
 | 25:53      | they've got great shortcuts implementation.                       |
@@ -719,7 +719,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 26:02      | you just type the name of the shortcut                            |
 | 26:04      | with Spotlight after Ventura ships,                               |
 | 26:08      | it'll be the same way.                                            |
-| 26:10      | I actually kind of prefer the method of Alfred                    |
+| 26:10      | I actually kind of prefer the method of [[Alfred]]                    |
 | 26:15      | and [[LaunchBar]] where you run a plugin                              |
 | 26:17      | because then by having a qualifier,                               |
 | 26:19      | like in my current version, it's a type SC,                       |
@@ -744,14 +744,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 27:03      | and started searching and found it like within this timeframe.    |
 | 27:06      | So yeah, I'm, yeah, I wish it was slightly better.                |
 | 27:11      | And I prefer the fact that it's with a qualifier                  |
-| 27:13      | because it's like when I open Alfred                              |
+| 27:13      | because it's like when I open [[Alfred]]                              |
 | 27:15      | with command space and the type IMDB space,                       |
 | 27:17      | like I know I'm searching for a particular thing on IMDB,         |
 | 27:20      | I know that I'm running a shortcut.                               |
 | 27:22      | So, you know, I like having that just as an option.               |
 | 27:26      | Though I recently discovered, David,                              |
-| 27:28      | oh my gosh, I can't believe I missed this feature in Alfred.      |
-| 27:31      | You can enable your bookmarks to appear in Alfred.                |
+| 27:28      | oh my gosh, I can't believe I missed this feature in [[Alfred]].      |
+| 27:31      | You can enable your bookmarks to appear in [[Alfred]].                |
 | 27:33      | And I did not realise that.                                       |
 | 27:35      | And that's, you can either just have that show up,                |
 | 27:38      | like in the default results or via a specific keyword,            |

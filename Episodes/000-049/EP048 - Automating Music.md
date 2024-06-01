@@ -430,12 +430,12 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:10      | So I'm, I'm enjoying that.                                                                             |
 | 21:12      | Yeah.                                                                                                  |
 | 21:13      | There's several ways to trigger music on your Mac.                                                     |
-| 21:15      | And if you use [[LaunchBar]] or Alfred, those are great apps that have great hooks into                    |
+| 21:15      | And if you use [[LaunchBar]] or [[Alfred]], those are great apps that have great hooks into                    |
 | 21:20      | your music library so you can, you know, kick off a music playlist with just a few clicks              |
 | 21:25      | of the keyboard.                                                                                       |
 | 21:26      | I do that.                                                                                             |
-| 21:27      | I'm using Alfred these days.                                                                           |
-| 21:28      | I keep jumping between them, but I've got the plugin in Alfred where I can kick off                    |
+| 21:27      | I'm using [[Alfred]] these days.                                                                           |
+| 21:28      | I keep jumping between them, but I've got the plugin in [[Alfred]] where I can kick off                    |
 | 21:32      | a playlist very quickly with a keyboard.                                                               |
 | 21:35      | But I think for true automation type stuff where I do this and that happens, I think                   |
 | 21:41      | there's no easier tool than, than a Keyboard Maestro.                                                  |
@@ -445,7 +445,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:55      | Yeah.                                                                                                  |
 | 21:56      | Yeah.                                                                                                  |
 | 21:57      | I'm a really big fan of Keyboard Maestro.                                                              |
-| 21:59      | Just like you, I also have the Alfred plugin, but I found myself not really using it.                  |
+| 21:59      | Just like you, I also have the [[Alfred]] plugin, but I found myself not really using it.                  |
 | 22:03      | The only other thing that I have tried, which is BetterTouchTool, you can, it can control            |
 | 22:10      | the touch bar on a touch bar device.                                                                   |
 | 22:14      | One of the many things that it can do is it can put the, the information about the currently           |
@@ -910,7 +910,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 50:13      | know that the person, the artist is a singer, then of course it's easy to exclude.                     |
 | 50:17      | So I've been working on just excluding those from a smart playlist and because I'm listening           |
 | 50:21      | to this on my Mac, it's very simple.                                                                   |
-| 50:23      | I've actually been using Alfred to simply change the rating from five stars to four                    |
+| 50:23      | I've actually been using [[Alfred]] to simply change the rating from five stars to four                    |
 | 50:27      | stars.                                                                                                 |
 | 50:28      | Now, this is the one place where I am using a five and a four star rating.                             |
 | 50:30      | If I don't like the piece of music, I will just delete it.                                             |

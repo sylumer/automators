@@ -769,7 +769,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 32:07      | and all the ways we struggle with getting data out of the web,    |
 | 32:11      | because I can tell you,                                           |
 | 32:12      | I've written some real janky keyboard nitro scripts               |
-| 32:16      | and Alfred workflows,                                             |
+| 32:16      | and [[Alfred]] workflows,                                             |
 | 32:18      | and I've done some really crazy stuff over the years              |
 | 32:20      | to try and automation,                                            |
 | 32:22      | I call it like scraping my data out of a website,                 |

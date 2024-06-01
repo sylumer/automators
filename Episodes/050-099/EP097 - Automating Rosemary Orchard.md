@@ -837,9 +837,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:04:58   | Keyboard Maestro bridges a gap to make magic. Can you give me an example? Yeah, so I don't use text      |
 | 01:05:06   | expansion when I'm programming. I say I don't use text expansion. That's not strictly true.              |
 | 01:05:11   | I don't use my standard text expansion. So my standard text expansion I've got mostly in             |
-| 01:05:18   | TextExpander. But there's also some things in Alfred, because that was a fun experiment and why not.         |
+| 01:05:18   | TextExpander. But there's also some things in [[Alfred]], because that was a fun experiment and why not.         |
 | 01:05:26   | And there's the odd thing in Keyboard Maestro. But the ones in TextExpander and the ones in             |
-| 01:05:31   | Alfred do not run in my development applications, just because they will end up accidentally interfering |
+| 01:05:31   | [[Alfred]] do not run in my development applications, just because they will end up accidentally interfering |
 | 01:05:39   | with what I'm doing in various ways. Now, the programs that I use themselves, they do have               |
 | 01:05:45   | text expansion, they've got autocomplete, things like that. But there are certain things that I          |
 | 01:05:50   | do want available, but only in those applications. But I don't have every app. So for example,           |

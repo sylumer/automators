@@ -1011,7 +1011,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:07:46   | a simple timer on their Mac, they can do that. And just like a spotlight on iOS could open                |
 | 01:07:52   | a Shortcut to run it, well, a spotlight on macOS can run Shortcuts now, which is great                    |
 | 01:07:57   | because we now have the same experience where you press Command Space on all your devices,                |
-| 01:08:01   | unless you've put something like Alfred in place, of course. Yeah, it's progress. I                       |
+| 01:08:01   | unless you've put something like [[Alfred]] in place, of course. Yeah, it's progress. I                       |
 | 01:08:06   | mean, I feel like there's still a ways to go. But I think that this is a lot better.                      |
 | 01:08:11   | I mean, it really felt broken when you could do something on one platform that seemed like                |
 | 01:08:16   | it should work on another platform and it didn't. Yes, yeah, exactly. And I think it's                    |

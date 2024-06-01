@@ -635,13 +635,13 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 26:23      | One of them is something that grew out of our show.               |
 | 26:26      | I complained on the show, I don't know,                           |
 | 26:28      | about six months ago that, you know, the plug in,                 |
-| 26:31      | there was an Alfred plug in that allowed you to automate,         |
+| 26:31      | there was an [[Alfred]] plug in that allowed you to automate,         |
 | 26:34      | you know, getting to a specific project or folder                 |
 | 26:37      | and OmniFocus very easily and it deprecated                       |
 | 26:39      | and it just seemed like the guy stopped working on it.            |
 | 26:42      | And then mysteriously right after Auto Automator,                 |
 | 26:45      | which is the internet pseudonym of Sal,                           |
-| 26:48      | submitted to the Alfred people,                                   |
+| 26:48      | submitted to the [[Alfred]] people,                                   |
 | 26:51      | a plug in called OmniFocus Collection.                            |
 | 26:54      | So if you're using OmniFocus, you can install that.               |
 | 26:57      | I love it, I use it all the time                                  |
@@ -867,7 +867,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 37:11      | And then I can type the name of a project or tag or anything      |
 | 37:14      | and it will just find it and turn it back to me,                  |
 | 37:16      | return it to me.                                                  |
-| 37:17      | It's kind of like having a mini Alfred inside of OmniFocus,       |
+| 37:17      | It's kind of like having a mini [[Alfred]] inside of OmniFocus,       |
 | 37:21      | but it's there on iOS as well, that huge game changer             |
 | 37:25      | because that has just made my life so much easier.                |
 | 37:28      | Yeah, well, my congratulations to the Omni Group                  |

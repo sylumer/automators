@@ -1499,7 +1499,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:02:28   | Honestly, I found it originally because it allows you               |
 | 01:02:30   | to control home kit things by [[URL Schemes\|URL scheme]],                           |
 | 01:02:33   | which means that you can then put that into any other               |
-| 01:02:37   | automation setup that you're using be that Alfred workflows,        |
+| 01:02:37   | automation setup that you're using be that [[Alfred]] workflows,        |
 | 01:02:40   | keyboard, maestro, macros, bunch files.                             |
 | 01:02:44   | Yeah, you name it, you can put it in there.                         |
 | 01:02:48   | And it works great because you just use the open URL                |
@@ -2028,26 +2028,26 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:26:21   | So two thumbs up for Forklift.                                      |
 | 01:26:23   | Definitely, definitely.                                             |
 | 01:26:25   | And I feel like we can't let Finder go                              |
-| 01:26:27   | without mentioning Alfred.                                          |
+| 01:26:27   | without mentioning [[Alfred]].                                          |
 | 01:26:29   | You know, we've got to give it a hat tip at least.                  |
 | 01:26:31   | Yeah, but let's just do that because it's a big app.                |
 | 01:26:33   | You know, we're talking about small ones,                           |
-| 01:26:35   | but yeah, Alfred is a good one.                                     |
+| 01:26:35   | but yeah, [[Alfred]] is a good one.                                     |
 | 01:26:39   | There's a lot of these good, you know,                              |
 | 01:26:41   | I don't, I'm going to stumble into another hour                     |
 | 01:26:44   | and a half of content here for my careful.                          |
-| 01:26:46   | But yeah, there are competitors, Alfred,                            |
+| 01:26:46   | But yeah, there are competitors, [[Alfred]],                            |
 | 01:26:48   | that are equally good.                                              |
-| 01:26:49   | But man, Alfred, with this latest update,                           |
+| 01:26:49   | But man, [[Alfred]], with this latest update,                           |
 | 01:26:51   | is really, really hitting on all cylinders.                         |
 | 01:26:54   | Oh, yeah.                                                           |
 | 01:26:55   | Yeah.                                                               |
-| 01:26:56   | And if you're not sure what I'm talking about with Finder, Alfred,  |
+| 01:26:56   | And if you're not sure what I'm talking about with Finder, [[Alfred]],  |
 | 01:26:59   | huh, then all I can say really is,                                  |
-| 01:27:03   | oh, go to the Alfred website and then look at some of the things    |
+| 01:27:03   | oh, go to the [[Alfred]] website and then look at some of the things    |
 | 01:27:06   | that you can do when you found a file.                              |
 | 01:27:08   | Okay.                                                               |
-| 01:27:09   | So find a file with Alfred.                                         |
+| 01:27:09   | So find a file with [[Alfred]].                                         |
 | 01:27:11   | So look for something that maybe you downloaded recently            |
 | 01:27:13   | or something and then look at the options.                          |
 | 01:27:16   | Okay.                                                               |
@@ -2057,7 +2057,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:27:26   | because it takes you to everything else.                            |
 | 01:27:27   | But then you've got open with reveal and Finder,                    |
 | 01:27:30   | get info, copy to move to delete copy with replace to move          |
-| 01:27:34   | with replace to browse this folder and Alfred open my terminal      |
+| 01:27:34   | with replace to browse this folder and [[Alfred]] open my terminal      |
 | 01:27:38   | here, copy the path of this file to the clipboard,                  |
 | 01:27:41   | copy this file to the clipboard, add it to a buffer so you can      |
 | 01:27:45   | have like a stack of things and paste as plain text,                |

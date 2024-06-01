@@ -108,12 +108,12 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 02:22      | for it and so we love having you on the show.                                                         |
 | 02:26      | But also, you just come up with the coolest stuff because you do listen to the show we                |
 | 02:31      | know because recently I was bemoaning the loss of a very excellent plug-in for OmniFocus              |
-| 02:38      | that worked with Alfred and it allowed me to jump to my various perspectives and folders              |
+| 02:38      | that worked with [[Alfred]] and it allowed me to jump to my various perspectives and folders              |
 | 02:43      | with just a couple taps and, you know, and it broke for various reasons and the guy who               |
 | 02:48      | put it together never had time to go back and fix it or the technology he was using                   |
 | 02:53      | wasn't working anymore and then one day Sal just sends me a little link and he's rebuilt              |
 | 02:58      | the whole thing and now we're going to put a link in the show notes.                                  |
-| 03:03      | Anybody that's using OmniFocus, you need to check this out, OmniFocus and Alfred.                     |
+| 03:03      | Anybody that's using OmniFocus, you need to check this out, OmniFocus and [[Alfred]].                     |
 | 03:07      | But you just did this on the side, Sal, and I wanted to talk about on the show, we got                |
 | 03:11      | a lot of topics to go over with you today, but this one just delighted me because it                  |
 | 03:16      | really solved a problem for me.                                                                       |
@@ -122,31 +122,31 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 03:29      | Well, one of the things about your show that I love is I always leave it on and I listen              |
 | 03:35      | to a particular episode multiple times because I might not be catching everything while it's          |
 | 03:42      | going down, right?                                                                                    |
-| 03:44      | And I heard this thing about Alfred and I kept popping up in my brain and I said, okay,               |
+| 03:44      | And I heard this thing about [[Alfred]] and I kept popping up in my brain and I said, okay,               |
 | 03:50      | I'm going to sit down and look at this.                                                               |
-| 03:52      | And I looked at the potential and what they had done and the Alfred team had upgraded                 |
+| 03:52      | And I looked at the potential and what they had done and the [[Alfred]] team had upgraded                 |
 | 03:58      | to Alfred 5 with a lot of new interoperability features so that you could talk to it in               |
 | 04:06      | different ways like with URLs and things.                                                             |
 | 04:09      | And I looked at the situation and I said, okay, what do we have to work with?                         |
 | 04:14      | And of course, Omni Automation, the depth and the scope of that is so big that it allowed             |
 | 04:23      | me to pretty quickly come up with the basic scenarios of, okay, I want to run a command               |
-| 04:31      | from Alfred with no input that does something and OmniFocus with no input.                            |
-| 04:37      | I want to use input in Alfred that does something in OmniFocus.                                       |
+| 04:31      | from [[Alfred]] with no input that does something and OmniFocus with no input.                            |
+| 04:37      | I want to use input in [[Alfred]] that does something in OmniFocus.                                       |
 | 04:42      | I want something that uses input and then returns a list.                                             |
 | 04:46      | So I figured out all the different combinations that you would use and tried to come up with          |
 | 04:51      | some kind of interesting example for each one so that our customers could see how it's                |
 | 04:58      | done and then replicate that and make their own.                                                      |
-| 05:04      | And the folks at Alfred, I contacted them and told them about what I was interested                   |
+| 05:04      | And the folks at [[Alfred]], I contacted them and told them about what I was interested                   |
 | 05:10      | in doing and they were so helpful guiding me through learning their product and taking                |
 | 05:17      | advantage of the features that they add.                                                              |
 | 05:20      | They have a lot of setup features that are built in.                                                  |
-| 05:23      | And quickly came to a nice subset of Alfred actions that pretty much show you how to get              |
+| 05:23      | And quickly came to a nice subset of [[Alfred]] actions that pretty much show you how to get              |
 | 05:32      | it to various core parts of an Omni application through either Omni Automation or through             |
 | 05:38      | Apple events.                                                                                         |
 | 05:39      | They also included some Apple event examples in there.                                                |
 | 05:43      | It was a lot of fun and I can see why you like that product so much.                                  |
 | 05:48      | Yeah.                                                                                                 |
-| 05:49      | Well, Alfred is really powerful and they have embraced automation.                                    |
+| 05:49      | Well, [[Alfred]] is really powerful and they have embraced automation.                                    |
 | 05:54      | This kind of gets to my core automation stories.                                                      |
 | 05:59      | I did software development as a kid as we all did, as all us nerds did back in the day                |
 | 06:06      | before the internet and you had to go get the magazine and copy the code out of the                   |
@@ -158,12 +158,12 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 06:31      | listening to the show can do.                                                                         |
 | 06:33      | That's why we make a show.                                                                            |
 | 06:35      | And that's what you did here.                                                                         |
-| 06:37      | You took Alfred, which is a great app that's sending information to your Mac with just                |
+| 06:37      | You took [[Alfred]], which is a great app that's sending information to your Mac with just                |
 | 06:42      | a couple keystrokes and taught it to do stuff in OmniFocus.                                           |
 | 06:49      | Just to give you an example, one of the things I like to do is sometimes I need to go into            |
 | 06:53      | a specific project.                                                                                   |
 | 06:56      | You made it now.                                                                                      |
-| 06:57      | I can just hit Alfred, type in a keystroke, type in the project name and I go to that                 |
+| 06:57      | I can just hit [[Alfred]], type in a keystroke, type in the project name and I go to that                 |
 | 07:00      | project in OmniFocus.                                                                                 |
 | 07:02      | It seems like a small thing, but when you spend your day opening OmniFocus, going over                |
 | 07:08      | to the sidebar, clicking on the Projects tab, drilling down to the Projects tab, getting              |
@@ -185,7 +185,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 08:06      | things into the tools that we're already using for automation, even if you're only doing              |
 | 08:11      | a very light usage of any of these openers can really make a difference.                              |
 | 08:16      | Do you find that using the launcher approach is something that comes easy for you?                    |
-| 08:22      | Yeah, because for me, I just replaced Spotlight with Alfred, and I spend pretty much all day          |
+| 08:22      | Yeah, because for me, I just replaced Spotlight with [[Alfred]], and I spend pretty much all day          |
 | 08:30      | every day using a keyboard.                                                                           |
 | 08:32      | The mouse is right there.                                                                             |
 | 08:33      | I'm not going to say I don't use the mouse.                                                           |
@@ -202,14 +202,14 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 09:17      | open, it's also, by the way, it's a nice hack if you've got multiple windows, because                 |
 | 09:21      | it brings all of them to the front.                                                                   |
 | 09:23      | So if I have, say, for example, three windows open in OmniFocus or [[Script Debugger]] or something,           |
-| 09:28      | when I use Alfred to activate them, usually it ends up bringing all the windows to the                |
+| 09:28      | when I use [[Alfred]] to activate them, usually it ends up bringing all the windows to the                |
 | 09:33      | front for me, which is just really useful when you've got like seven windows on the                   |
 | 09:37      | go for some reason.                                                                                   |
 | 09:39      | Yeah, I also added in one extra little example there, just because I enjoy working with voice         |
 | 09:46      | so much.                                                                                              |
 | 09:47      | I took one of the commands for showing the currently tasks due today, and I also showed               |
 | 09:56      | how you could also trigger that using your voice as well.                                             |
-| 10:00      | So you can have voice-controlled Alfred in addition to using it by the keyboard.                      |
+| 10:00      | So you can have voice-controlled [[Alfred]] in addition to using it by the keyboard.                      |
 | 10:07      | Nice.                                                                                                 |
 | 10:08      | Yeah, the voice-controlled stuff is very exciting.                                                    |
 | 10:11      | We're going to talk about voice-controlled, because you've done a lot on that, Sal, but               |
@@ -225,7 +225,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 11:06      | task and puts a deferred date to today?                                                               |
 | 11:08      | Like, if I want to do that, I just push a button, Sal wrote a script for that.                        |
 | 11:12      | Well, I could conceivably, using the architecture you've built here, just take that script,           |
-| 11:17      | I would assume, and just build it into an Alfred command as well.                                     |
+| 11:17      | I would assume, and just build it into an [[Alfred]] command as well.                                     |
 | 11:23      | Yep, absolutely.                                                                                      |
 | 11:25      | And we show you how to do that.                                                                       |
 | 11:26      | It's a very simple process.                                                                           |
@@ -236,7 +236,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 11:57      | So it's easy to take any script that you're using and just turn it into a URL and then                |
 | 12:03      | paste.                                                                                                |
 | 12:05      | And you're ready to go.                                                                               |
-| 12:06      | You give it your favourite Alfred Keystroke command and literally, just like Rose said,                |
+| 12:06      | You give it your favourite [[Alfred]] Keystroke command and literally, just like Rose said,                |
 | 12:14      | you pull up the launcher, type in something, and then you're gone and you go straight to              |
 | 12:19      | what you need to do and you're not distracted by anything else.                                       |
 | 12:23      | It just executes right into the heart of the machine.                                                 |
@@ -308,7 +308,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 17:10      | It's a weird word, but it really does mean that, you know, it describes the ability                   |
 | 17:16      | of software to exchange and make use of information between applications.                             |
 | 17:22      | And we're always looking for opportunities.                                                           |
-| 17:24      | So on the main page of the Omni Automation website, you'll see along with Alfred, you'll              |
+| 17:24      | So on the main page of the Omni Automation website, you'll see along with [[Alfred]], you'll              |
 | 17:30      | see examples with obsidian, Airtable, OpenAI, there's a lot of examples of working with               |
 | 17:37      | other third-party products.                                                                           |
 | 17:41      | And that's the advantage of Omni Automation is that you have the core tools necessary                 |
@@ -346,11 +346,11 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 19:42      | you can paste.                                                                                        |
 | 19:43      | Okay.                                                                                                 |
 | 19:44      | Well, I will be following up on this.                                                                 |
-| 19:45      | There's also links on the Alfred page, too, to special section and tools that we have                 |
+| 19:45      | There's also links on the [[Alfred]] page, too, to special section and tools that we have                 |
 | 19:52      | on the website that are just for creating that you can use, you can put your scripts                  |
 | 19:57      | in and turn them into URLs and test them and then change them and then test them again.               |
 | 20:03      | There's certain pages in the Omni Automation website that are just designed to do that                |
-| 20:09      | for you, and we have links to them within the Alfred documentation.                                   |
+| 20:09      | for you, and we have links to them within the [[Alfred]] documentation.                                   |
 | 20:14      | Of course you've solved the problem already.                                                          |
 | 20:19      | If somebody is listening, and they're like, well, I might be a little better at JavaScript            |
 | 20:23      | than Sparky, and I want to start building my own, what are some places they should                    |

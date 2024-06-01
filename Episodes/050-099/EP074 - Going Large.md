@@ -269,7 +269,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 16:08      | profile to allow me to go back to my home base, basically. And, you know, that is great.                  |
 | 16:16      | But I mean, I think that the Stream Deck software could be better. I would actually quite like            |
 | 16:21      | it to live in my dock or to be able to appear in my dock at times because I frequently want               |
-| 16:29      | to just be able to click on it and find it instead of having to reopen it through Alfred.                 |
+| 16:29      | to just be able to click on it and find it instead of having to reopen it through [[Alfred]].                 |
 | 16:34      | And I would also like multiple windows so that I could see two profiles at the same                       |
 | 16:38      | time. But, you know, I'm good with it. What do you think, David?                                          |
 | 16:41      | I think it's okay. The Stream Deck is not just a Mac piece of hardware. It runs on Windows                |

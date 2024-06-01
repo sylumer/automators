@@ -181,7 +181,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 06:45      | like we're just 10 people and we are expecting, you know, many shortcuts submitted by folks.          |
 | 06:50      | It just becomes impossible to say, well, okay, this is a shortcut.                                    |
 | 06:54      | This is a Keyboard Maestro utility.                                                                   |
-| 06:55      | This is an Alfred workflow.                                                                           |
+| 06:55      | This is an [[Alfred]] workflow.                                                                           |
 | 06:56      | And look, there's also the guy who came up with the Python script.                                    |
 | 07:00      | Yeah.                                                                                                 |
 | 07:01      | Right.                                                                                                |
@@ -274,7 +274,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 12:16      | I'm just going to mention, too, I love to run shortcuts on my iPad as quickly as I can                |
 | 12:22      | on the Mac.                                                                                           |
 | 12:23      | Especially since on my MacBook, I started using [[Raycast]], but it's, you know, the same                 |
-| 12:28      | applies if you're using [[LaunchBar]], I think, or Alfred.                                                |
+| 12:28      | applies if you're using [[LaunchBar]], I think, or [[Alfred]].                                                |
 | 12:32      | It's really fast to, you know, you really run shortcuts by typing their name, and especially          |
 | 12:38      | these utilities that have fuzzy search built in, you can just type a few letters and press            |
 | 12:43      | return and run a shortcut immediately from anywhere.                                                  |
@@ -771,7 +771,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 51:48      | in a keyboard, you know, a keyboard combination, and then you type in your search terms, hit          |
 | 51:53      | return, and then it does the search on Mac stories or Google or wherever you happen to                |
 | 51:58      | be. And I think they should be able to do something like that for shortcuts as a result.              |
-| 52:03      | I was going to say Alfred does offer the ability to do things like that to pass specific text         |
+| 52:03      | I was going to say [[Alfred]] does offer the ability to do things like that to pass specific text         |
 | 52:08      | or files and so on straight to a shortcut. So that that would seem like something that                |
 | 52:13      | [[Raycast]] would want to add if only from the competition perspective of, you know, one                  |
 | 52:17      | of the alternatives to us does this. And of course, both of them have different features              |

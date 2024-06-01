@@ -986,11 +986,11 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 54:19      | But either way, you get like a bigger, bigger option.                                                     |
 | 54:22      | And of course, you've also got the option to run things from the menu bar.                                |
 | 54:26      | And now with Mac OS Ventura spotlight, have you been finding that you've been using things                |
-| 54:30      | through spotlight or are you firmly on, I don't know, launch bar, click silver, Alfred,                   |
+| 54:30      | through spotlight or are you firmly on, I don't know, launch bar, click silver, [[Alfred]],                   |
 | 54:35      | [[Raycast]], are you on one of those bandwagons?                                                              |
 | 54:38      | I am all in on [[Raycast]].                                                                                   |
-| 54:40      | So I was a big Alfred person for a very long time before I went all in on the iPad.                       |
-| 54:49      | And then when I came back to the Mac, of course, I installed Alfred.                                      |
+| 54:40      | So I was a big [[Alfred]] person for a very long time before I went all in on the iPad.                       |
+| 54:49      | And then when I came back to the Mac, of course, I installed [[Alfred]].                                      |
 | 54:52      | But then, you know, everyone started talking about [[Raycast]] and I was like, okay, I'll check               |
 | 54:56      | this out.                                                                                                 |
 | 54:57      | And it's nice.                                                                                            |
@@ -1038,8 +1038,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 57:33      | create it.                                                                                                |
 | 57:34      | But it, you know, it just gets iteratively passed each, each app that it needs to go                      |
 | 57:39      | look for, which, you know, works really well for me.                                                      |
-| 57:43      | But I tend not to end up passing shortcuts information from, I use Alfred and I've been                   |
-| 57:49      | using [[Stephen Millard]] over [ThoughtAsylum's](https://thoughtasylum.com), excellent Alfred extensions.                                  |
+| 57:43      | But I tend not to end up passing shortcuts information from, I use [[Alfred]] and I've been                   |
+| 57:49      | using [[Stephen Millard]] over [ThoughtAsylum's](https://thoughtasylum.com), excellent [[Alfred]] extensions.                                  |
 | 57:53      | I tend not to really end up passing extra parameters in partially because I don't remember                |
 | 57:59      | that that's a thing.                                                                                      |
 | 58:00      | And also because my shortcuts are designed so that if they don't get given the data that                  |
@@ -1057,7 +1057,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 58:44      | has that support.                                                                                         |
 | 58:45      | I know David, you've been playing with [[Raycast]] a bit.                                                     |
 | 58:46      | Yeah, you know, I'm actually running them both.                                                           |
-| 58:48      | I've got option space triggers, [[Raycast]] and command space triggers Alfred and there are,                  |
+| 58:48      | I've got option space triggers, [[Raycast]] and command space triggers [[Alfred]] and there are,                  |
 | 58:53      | there are better pieces for each of them, you know, like there's certain things that                      |
 | 58:57      | one does better than the other.                                                                           |
 | 58:59      | I will say on [[Raycast]] that the shortcuts launch is super fast.                                            |
@@ -1145,7 +1145,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:03:26   | But yeah, it's nice to, you know, be able to customise that.                                              |
 | 01:03:32   | And I'm really glad that we actually have the option to do that now.                                      |
 | 01:03:35   | I feel like I need to look into [[Raycast]].                                                                  |
-| 01:03:37   | I've got my Alfred set up.                                                                                |
+| 01:03:37   | I've got my [[Alfred]] set up.                                                                                |
 | 01:03:39   | Like it works perfectly for me.                                                                           |
 | 01:03:41   | I've changed, I've slightly modified [[Stephen Millard\|Stephen Millard's]] script so that I actually don't                    |
 | 01:03:48   | have to use a prefix for shortcuts.                                                                       |
@@ -1160,9 +1160,9 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:04:14   | right, like you can't, there's not a whole lot of modifying.                                              |
 | 01:04:17   | So yeah, it's, but honestly, I just love [[Raycast]].                                                         |
 | 01:04:22   | It's so fast.                                                                                             |
-| 01:04:23   | It's so unbelievably fast that I don't see me going back to Alfred.                                       |
+| 01:04:23   | It's so unbelievably fast that I don't see me going back to [[Alfred]].                                       |
 | 01:04:30   | Fair enough.                                                                                              |
-| 01:04:31   | I love Alfred and they've been adding some really cool features recently, which works                     |
+| 01:04:31   | I love [[Alfred]] and they've been adding some really cool features recently, which works                     |
 | 01:04:35   | super well for me.                                                                                        |
 | 01:04:36   | But one of the things I actually will do next is actually modify the shortcuts that appear                |
 | 01:04:40   | so that if I don't type like SC at the start, then I will only get shortcuts that are in                  |
@@ -1172,7 +1172,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:05:00   | I'll probably won't like take control of shortcuts appearing or something.                                |
 | 01:05:04   | So, you know, I want to go through and just see if I can modify it so that I'll have every                |
 | 01:05:09   | shortcut when I type SC and then just shortcuts in folders when I like just search generically.           |
-| 01:05:17   | I'm pretty certain I'm going to be able to do that because writing Alfred workflows has                   |
+| 01:05:17   | I'm pretty certain I'm going to be able to do that because writing [[Alfred]] workflows has                   |
 | 01:05:20   | actually been incredibly easy.                                                                            |
 | 01:05:23   | And I have to say what the things that I've done recently is actually, I've been using                    |
 | 01:05:30   | the, it is a workflow.                                                                                    |
@@ -1190,7 +1190,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:06:22   | I don't want to have to type a semi-colon in then my string.                                                |
 | 01:06:25   | Yeah, I should have a play with [[Raycast]] at some point and see what I like about it and                    |
 | 01:06:30   | so on.                                                                                                    |
-| 01:06:31   | But for now, like my problem is, is Alfred works so well for me.                                          |
+| 01:06:31   | But for now, like my problem is, is [[Alfred]] works so well for me.                                          |
 | 01:06:35   | I really don't want to change it because everything works.                                                |
 | 01:06:39   | And you know, when you change a part of your workflow and you're like, yeah, I'm trying                   |
 | 01:06:42   | to solve a problem.                                                                                       |
@@ -1201,14 +1201,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:06:55   | So I will, I'll have to avoid that.                                                                       |
 | 01:06:57   | So let me weigh in a little bit.                                                                          |
 | 01:06:58   | I've been using them both and they're both delightful.                                                    |
-| 01:07:01   | I think Alfred's new extension system is really good and [[Raycast]] has some amazing pre-written             |
+| 01:07:01   | I think [[Alfred]]'s new extension system is really good and [[Raycast]] has some amazing pre-written             |
 | 01:07:08   | extensions.                                                                                               |
-| 01:07:10   | I will say Alfred, if you do any sort of file management, in my experience, Alfred runs                   |
+| 01:07:10   | I will say [[Alfred]], if you do any sort of file management, in my experience, [[Alfred]] runs                   |
 | 01:07:16   | circles around [[Raycast]].                                                                                   |
-| 01:07:17   | Like if you do, like I have certain Alfred commands that only search certain folders                      |
+| 01:07:17   | Like if you do, like I have certain [[Alfred]] commands that only search certain folders                      |
 | 01:07:22   | and things like that, and I haven't figured out how to do that with [[Raycast]].                              |
 | 01:07:26   | Same thing with customised queries of websites.                                                           |
-| 01:07:28   | I feel like Alfred is better at that.                                                                     |
+| 01:07:28   | I feel like [[Alfred]] is better at that.                                                                     |
 | 01:07:32   | But there are parts of [[Raycast]] that are just fun and like, I feel like kind of pre-packaged               |
 | 01:07:38   | like the, like I was saying, the window sizing stuff earlier.                                             |
 | 01:07:41   | And I did track down, there was a lightsaber command that got removed in December with                    |
@@ -1228,14 +1228,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:08:25   | Viticci and from you, Christopher, so long, that I'm going to have to try it, if only                      |
 | 01:08:29   | to, you know, like, you know, give, give you, you folks are, you know, using this a fair                  |
 | 01:08:34   | shot.                                                                                                     |
-| 01:08:35   | But it's one of those things where everything just works in Alfred and it's not that it                   |
+| 01:08:35   | But it's one of those things where everything just works in [[Alfred]] and it's not that it                   |
 | 01:08:41   | won't work in [[Raycast]].                                                                                    |
 | 01:08:42   | It's that I'm going to have to get started by like, moving everything over into [[Raycast]].                  |
 | 01:08:47   | And you have that muscle memory already too.                                                              |
 | 01:08:50   | Yeah.                                                                                                     |
 | 01:08:51   | Yeah.                                                                                                     |
-| 01:08:52   | So even if I like swap it so that Alt Space opens Alfred and Command Space opens [[Raycast]],                 |
-| 01:08:59   | like I use the searches in Alfred so much, like I'll type IMDB space, name a film or                      |
+| 01:08:52   | So even if I like swap it so that Alt Space opens [[Alfred]] and Command Space opens [[Raycast]],                 |
+| 01:08:59   | like I use the searches in [[Alfred]] so much, like I'll type IMDB space, name a film or                      |
 | 01:09:06   | series or something, or HA space, and then the name of the thing that I'm searching                       |
 | 01:09:10   | for in [[Home Assistant]], which actually runs a duck-duck-go search with the site filter for                     |
 | 01:09:16   | the [[Home Assistant]] website.                                                                               |
@@ -1259,7 +1259,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:09:45   | I'm going to have to try this out.                                                                        |
 | 01:09:48   | Yeah.                                                                                                     |
 | 01:09:49   | No, David, David's completely right.                                                                      |
-| 01:09:50   | Like the file stuff is much better on Alfred, but like the extensions, I, I think the extensions          |
+| 01:09:50   | Like the file stuff is much better on [[Alfred]], but like the extensions, I, I think the extensions          |
 | 01:09:57   | are better on [[Raycast]], but it's, it's, there's definitely trade-offs.                                     |
 | 01:10:02   | And there's nothing wrong with running two of these things.                                               |
 | 01:10:04   | Yeah.                                                                                                     |
@@ -1267,7 +1267,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:10:09   | and then not use one of them.                                                                             |
 | 01:10:11   | Now, one of them will be better at the other one for something and you're, you're enough                  |
 | 01:10:16   | of a nerd that you're going to be like, Oh yeah, I want the [[Raycast]] window thing.                         |
-| 01:10:19   | I don't want the Alfred thing.                                                                            |
+| 01:10:19   | I don't want the [[Alfred]] thing.                                                                            |
 | 01:10:20   | So I do it all day.                                                                                       |
 | 01:10:22   | It's fine.                                                                                                |
 | 01:10:23   | You know, and I'm more senile than you.                                                                   |
@@ -1758,7 +1758,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:37:16   | Go grab some water, come back and you know, everything's set up with just the apps running                |
 | 01:37:20   | that I want and things moved around and so on.                                                            |
 | 01:37:23   | You know, it's, it's lovely and I sit down and do my work and then that's, that's where                   |
-| 01:37:27   | Alfred comes into play.                                                                                   |
+| 01:37:27   | [[Alfred]] comes into play.                                                                                   |
 | 01:37:28   | So Rose, have you actually done that?                                                                     |
 | 01:37:30   | You've, you've taken the touch ID out of it.                                                              |
 | 01:37:32   | I have not done it yet.                                                                                   |

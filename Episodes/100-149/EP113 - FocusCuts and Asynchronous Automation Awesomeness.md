@@ -1020,11 +1020,11 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:01:23   | I probably should use the palettes more.                                                                |
 | 01:01:25   | I feel like I'm not getting enough benefit out of them.                                                 |
 | 01:01:28   | But I've been using [[Stephen Millard\|Stephen Millard's]], who's been on the show before.                                     |
-| 01:01:32   | He's got some great Alfred workflows, including one for Keyboard Maestro.                               |
-| 01:01:37   | So you can get all of your Keyboard Maestro markers into Alfred.                                        |
+| 01:01:32   | He's got some great [[Alfred]] workflows, including one for Keyboard Maestro.                               |
+| 01:01:37   | So you can get all of your Keyboard Maestro markers into [[Alfred]].                                        |
 | 01:01:41   | Love that.                                                                                              |
 | 01:01:42   | So good.                                                                                                |
-| 01:01:43   | He's got a number of Alfred workflows, which I'll make sure that people get the link to.                |
+| 01:01:43   | He's got a number of [[Alfred]] workflows, which I'll make sure that people get the link to.                |
 | 01:01:47   | Because sometimes I just want a thing to pop up and go, hey, you need to do the thing,                  |
 | 01:01:51   | and then I will do the thing.                                                                           |
 | 01:01:53   | And it could be that I click on a notification to have the thing run.                                   |

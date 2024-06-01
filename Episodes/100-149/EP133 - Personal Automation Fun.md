@@ -623,7 +623,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 37:38      | Yeah.                                                                                                  |
 | 37:39      | So the last week, what I've been doing is I've killed all my spaces, I've set up now                   |
 | 37:45      | separate shortcuts for pretty much every context I work in and I just reset the screen for             |
-| 37:53      | every bit of work I do, you know, and I'm calling them via Alfred, you know, just Alfred               |
+| 37:53      | every bit of work I do, you know, and I'm calling them via [[Alfred]], you know, just [[Alfred]]               |
 | 38:01      | with the plugin until you type SC and then the name of the setup and it arranges itself.               |
 | 38:07      | But it's been pretty stable running out of shortcuts, which kind of surprises me.                      |
 | 38:12      | Once in a while, a moon misses, like it doesn't get the Windows arranged right.                        |

@@ -475,7 +475,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 34:10      | you know what I find is I don't really miss it. You know, I thought that I was referencing,              |
 | 34:15      | you know, because you can show lights to show whether an app is open or not or jump to an                |
 | 34:20      | app with it. But I never go down with my mouse to the dock to activate a specific app. You               |
-| 34:26      | know, that is something that I do with Alfred or if I did window management, right, I don't              |
+| 34:26      | know, that is something that I do with [[Alfred]] or if I did window management, right, I don't              |
 | 34:30      | need to bother because it's already on the screen.                                                       |
 | 34:34      | So I've been hiding the dock and actually it's been fine. But either way, when you start                 |
 | 34:38      | building these spaces for the windows, you want to account for it. And like Moom does                    |
@@ -497,7 +497,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 35:56      | the reason to leave it apparent is so you can check it. You can flick your eye over to                   |
 | 36:00      | see, you know, the downloads folder or whatever. But I disabled like the recently loaded apps.           |
 | 36:06      | I don't like that feature of the dock. So I don't even have that turned on. If I want                    |
-| 36:10      | to get to my downloads folder, I hit command space D O and Alfred gets me there and puts                 |
+| 36:10      | to get to my downloads folder, I hit command space D O and [[Alfred]] gets me there and puts                 |
 | 36:16      | it on my screen. So I just, I just don't think about the dock. And I think I like keeping                |
 | 36:22      | it around because it's such a Mac thing as a Mac power user quote unquote, you know,                     |
 | 36:28      | I just like, it just makes me happy to look at it, I guess, but it's stupid. And the pixels              |

@@ -904,7 +904,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 34:44      | then it's gonna be pretty easy to do                                  |
 | 34:46      | and you'll be able to reuse that same logic                           |
 | 34:48      | in things like Bunch, Keyboard Maestro,                               |
-| 34:50      | Alfred and so on and so forth,                                        |
+| 34:50      | [[Alfred]] and so on and so forth,                                        |
 | 34:52      | that we do have some special options to share for those.              |
 | 34:55      | Yeah, anywhere you can run an [[AppleScript]],                           |
 | 34:57      | you can run it and that's nice.                                       |
@@ -976,29 +976,29 @@ Rose and David have several automation topics on the table in this episode inclu
 | 38:00      | it runs the shortcut on those 15 items.                               |
 | 38:04      | Yeah, the one that I really like                                      |
 | 38:06      | and the one I find myself using the most                              |
-| 38:08      | just kind of in under fire is the Alfred integration.                 |
-| 38:12      | And not everybody uses Alfred,                                        |
+| 38:08      | just kind of in under fire is the [[Alfred]] integration.                 |
+| 38:12      | And not everybody uses [[Alfred]],                                        |
 | 38:14      | we did a whole show on it, both Rose and I are big fans,              |
-| 38:17      | but I think the Alfred integration is great.                          |
+| 38:17      | but I think the [[Alfred]] integration is great.                          |
 | 38:20      | There's a couple different ways to do this.                           |
 | 38:22      | [[Stephen Millard]] did one over at [ThoughtAsylum](https://thoughtasylum.com)                       |
-| 38:27      | and there's also a kind of a plug-in for Alfred                       |
+| 38:27      | and there's also a kind of a plug-in for [[Alfred]]                       |
 | 38:30      | who was just by, I've got it, let me just get in here                 |
 | 38:33      | hold on a second.                                                     |
 | 38:34      | If it's called Bypass, that is from [[Stephen Millard]].                   |
 | 38:37      | No, the one I'm using is called Shortcuts by Vitor Galveo.            |
 | 38:47      | And I just type SC and then space                                     |
 | 38:51      | in the name of the shortcut and it fires off,                         |
-| 38:54      | which is a shortcut workflow for Alfred.                              |
+| 38:54      | which is a shortcut workflow for [[Alfred]].                              |
 | 38:56      | We'll put a link for both of these and they're both great.            |
-| 38:59      | And running a shortcut from Alfred                                    |
-| 39:02      | because I do so much else from Alfred                                 |
+| 38:59      | And running a shortcut from [[Alfred]]                                    |
+| 39:02      | because I do so much else from [[Alfred]]                                 |
 | 39:03      | is kind of the way to go for me.                                      |
 | 39:06      | Yes, yes.                                                             |
 | 39:07      | One of the things I should mention                                    |
 | 39:08      | and that there's going to be a mini-segment                           |
 | 39:11      | now probably called the Stephen Millard appreciation segment           |
-| 39:14      | is that his shortcuts integration for Alfred,                         |
+| 39:14      | is that his shortcuts integration for [[Alfred]],                         |
 | 39:18      | he's also got one for a Keyboard Maestro,                             |
 | 39:21      | but it really does let you do everything.                             |
 | 39:22      | So you can run a shortcut, you can run it with input,                 |
@@ -1027,7 +1027,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:23      | Stephen Miller depreciated in section.                                |
 | 40:24      | He did a bypass for shortcuts,                                        |
 | 40:27      | which comes in three parts.                                           |
-| 40:28      | There's a Stream Deck, there's Alfred                                 |
+| 40:28      | There's a Stream Deck, there's [[Alfred]]                                 |
 | 40:30      | and then there's Keyboard Maestro,                                    |
 | 40:32      | which isn't called bypass,                                            |
 | 40:34      | but I'm gonna classify it in the same group                           |
@@ -1837,7 +1837,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:14:52   | So, there's only three things I need.                                 |
 | 01:14:53   | The name, active or planning, and the clipboard contents.             |
 | 01:14:57   | And the reason the clipboard contents is there is I may see,          |
-| 01:15:00   | like, hey, here's a really cool Alfred plugin I want to write         |
+| 01:15:00   | like, hey, here's a really cool [[Alfred]] plugin I want to write         |
 | 01:15:03   | about, I'll block and copy the URL for the plugin                     |
 | 01:15:07   | or a description of it.                                               |
 | 01:15:09   | And then when I run that script, it just automatically                |

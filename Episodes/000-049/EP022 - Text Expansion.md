@@ -1292,7 +1292,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 54:03      | And then I can use TextExpander to finish it off,                                        |
 | 54:07      | which is perfect.                                                                        |
 | 54:09      | There's other places.                                                                    |
-| 54:11      | Alfred has text expansion support.                                                       |
+| 54:11      | [[Alfred]] has text expansion support.                                                       |
 | 54:14      | That's a popular launcher application.                                                   |
 | 54:17      | We've talked about IDEs throughout the show.                                             |
 | 54:21      | And they, you know, it's a programming,                                                  |

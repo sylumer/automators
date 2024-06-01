@@ -1477,7 +1477,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:25:10   | I wanted to start that automatically when I choose any of my podcast recording setups,               |
 | 01:25:17   | and I use Bunch for choosing the podcast recording setups, and I was trying to figure out how        |
 | 01:25:21   | to do this, and there are a whole bunch of different options, [[Stephen Millard]], who was               |
-| 01:25:25   | on the show before, did a great post on how he's got all the Shortcuts into Alfred, and              |
+| 01:25:25   | on the show before, did a great post on how he's got all the Shortcuts into [[Alfred]], and              |
 | 01:25:30   | he's got a workflow that you can download for that, and I'll put a link to that in the               |
 | 01:25:34   | show notes.                                                                                          |
 | 01:25:35   | But what I ended up doing for this, because I just wanted to be able to add it to the                |

@@ -384,7 +384,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 19:41      | Yeah.                                                                                                 |
 | 19:42      | I know I definitely appreciate this sort of thing being there because I do find myself                |
 | 19:47      | nesting things like this.                                                                             |
-| 19:49      | Um, and I was using Alfred for a while for, for, um, text expansion and, you know, I still             |
+| 19:49      | Um, and I was using [[Alfred]] for a while for, for, um, text expansion and, you know, I still             |
 | 19:54      | have TextExpander, um, but I, you know, I like to try out all the options and I'm, I'm                |
 | 19:59      | going to be giving a Keyboard Maestro a thorough room for its money in the text expansion Department   |
 | 20:04      | over the next couple of months just to see if it can, uh, if it can work for me.                      |

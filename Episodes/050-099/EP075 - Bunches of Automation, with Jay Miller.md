@@ -600,16 +600,16 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 51:37      | they're like athletes. They're super soldiers of fingerness.                                             |
 | 51:41      | Okay, well, so we took a side diversion there, Jay, into [[BetterTouchTool]], but Keyboard Maestro         |
 | 51:49      | and [[BetterTouchTool]] are not the only applications you are using on the Mac. And I know we keep         |
-| 51:54      | meaning to talk about Alfred more on the show, David. We're going to have to do an entire episode        |
-| 51:58      | on it. And Jay, we might have to get you back for a segment in that. But you are using Alfred in a       |
+| 51:54      | meaning to talk about [[Alfred]] more on the show, David. We're going to have to do an entire episode        |
+| 51:58      | on it. And Jay, we might have to get you back for a segment in that. But you are using [[Alfred]] in a       |
 | 52:03      | couple of ways, which I really need to get better at doing, Jay. So would you like to tell us about      |
-| 52:08      | some of your favourite Alfred scripts? So Alfred is awesome. I will say I think Alfred was probably       |
+| 52:08      | some of your favourite [[Alfred]] scripts? So [[Alfred]] is awesome. I will say I think [[Alfred]] was probably       |
 | 52:16      | the first Mac automation-ish tool that I ever used. And I've been a power user ever since.               |
 | 52:24      | I guess the quite literal, that's what they call it. But I, so I use Duck.Go for search and Duck.Go      |
 | 52:35      | for those that don't know, have a bunch of documented and undocumented commands that they                |
 | 52:41      | call bang commands. So if you do exclamation point and whatever the shortcut is, and there's             |
 | 52:48      | actually another app called Keyword Search on the Mac that does something similar. And I run that        |
-| 52:53      | as well for different things. But the cool thing is Alfred can have its default action B to search       |
+| 52:53      | as well for different things. But the cool thing is [[Alfred]] can have its default action B to search       |
 | 53:03      | for something on the internet. And over time, you start memorising the bang commands that you use        |
 | 53:08      | for everything. So if I want to go to Google Images, I can just do like, you know, exclamation           |
 | 53:16      | point IMG and then whatever I want to search. And because I don't have to like create the                |
@@ -624,11 +624,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 54:09      | well, it's actually going to search for David, but then I can see at, you know, David Sparks             |
 | 54:14      | at MacSparky right there, first option. Yeah. Perfect. Yes. Yeah. No, I'm a big fan of those.           |
 | 54:21      | And there's a, we've got a link actually to David, you've been diving into                               |
-| 54:28      | to Alfred a little bit more recently. I noticed, you know, they've been posting things on your           |
+| 54:28      | to [[Alfred]] a little bit more recently. I noticed, you know, they've been posting things on your           |
 | 54:33      | blog again, 10 out of 10 for that. I really need to do a better job at that, where you've been           |
-| 54:38      | diving into Alfred as well. Yeah, well, there's just so much you can do with it from an automation       |
+| 54:38      | diving into [[Alfred]] as well. Yeah, well, there's just so much you can do with it from an automation       |
 | 54:44      | perspective. And what there's two things I like about it that I've been embracing more lately.           |
-| 54:50      | First is just native file search, because there are, there are built-in samples in the Alfred,           |
+| 54:50      | First is just native file search, because there are, there are built-in samples in the [[Alfred]],           |
 | 54:59      | you know, sample pack where, like you can say, search for just folders that have this name.              |
 | 55:05      | Like, I think a lot of time on your drive, you want to just find folders. And for me,                    |
 | 55:09      | since I have a separate folder for every client name, that one made a lot of sense for me,               |
@@ -651,31 +651,31 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 56:40      | folders because, you know, I have a lot of different things I'm responsible for. And                     |
 | 56:44      | I hit, or I can hit period P, and it goes to a specific project, you know. And so                        |
 | 56:51      | it just makes navigating through this stuff much faster. And all of that just is triggered by            |
-| 56:58      | Alfred. And, you know, how do you not love Alfred? Yeah, I would highly second the recommendation        |
+| 56:58      | [[Alfred]]. And, you know, how do you not love [[Alfred]]? Yeah, I would highly second the recommendation        |
 | 57:04      | that you've got there for [[Packal]]. It's a website where a lot of different people have submitted          |
-| 57:09      | different scripts over time for Alfred. Now, some of these have been around for quite a                  |
+| 57:09      | different scripts over time for [[Alfred]]. Now, some of these have been around for quite a                  |
 | 57:14      | while. So there might be newer forks of them, you know, alternative versions, which are more             |
 | 57:18      | up to date and have more features. So you might want to do a little bit of digging around there.         |
-| 57:23      | But, you know, it's an excellent resource if you want to dive more into Alfred.                          |
-| 57:30      | And I know that I found Alfred is one of those tools where I don't really think about it much,           |
+| 57:23      | But, you know, it's an excellent resource if you want to dive more into [[Alfred]].                          |
+| 57:30      | And I know that I found [[Alfred]] is one of those tools where I don't really think about it much,           |
 | 57:35      | but I use it a lot. And actually, [[Stephen Millard]], who was on the show relatively recently, has a        |
 | 57:40      | whole two actions. They're just two actions, one for [[Keyboard Maestro]] and one for [[Drafts]].                |
-| 57:46      | And it doesn't sound like a lot. He's put the entire [[Drafts]] library inside of Alfred.                    |
+| 57:46      | And it doesn't sound like a lot. He's put the entire [[Drafts]] library inside of [[Alfred]].                    |
 | 57:51      | So, you know, that's something that I really, I've been playing with a lot and I really like.            |
 | 57:58      | Yeah. I mean, the ability to trigger Keyboard Maestro scripts while you're                               |
-| 58:02      | from Alfred is just a remarkable little tool because Alfred is always very close.                        |
-| 58:09      | Do you guys trigger Alfred with Command Space, Control Space? How do you trigger Alfred?                 |
+| 58:02      | from [[Alfred]] is just a remarkable little tool because [[Alfred]] is always very close.                        |
+| 58:09      | Do you guys trigger [[Alfred]] with Command Space, Control Space? How do you trigger [[Alfred]]?                 |
 | 58:14      | Oh, Command Space. Absolutely. It has replaced Spotlight.                                                |
-| 58:19      | Yeah. I remap Spotlight to Option Space and then Alfred is Command Space.                                |
+| 58:19      | Yeah. I remap Spotlight to Option Space and then [[Alfred]] is Command Space.                                |
 | 58:24      | Every so often, my Mac has been doing this weird thing because I'm back on the Intel Mac and I           |
 | 58:28      | think it's throwing a wobbly because I was on the M1 and I liked it more. So, it throws a wobbly         |
-| 58:34      | and it doesn't start Alfred at launch. And I'm not quite sure why this is. I've narrowed it down to      |
-| 58:39      | it's not an Alfred problem because Alfred is doing all the right things that it's supposed to do.        |
+| 58:34      | and it doesn't start [[Alfred]] at launch. And I'm not quite sure why this is. I've narrowed it down to      |
+| 58:39      | it's not an [[Alfred]] problem because [[Alfred]] is doing all the right things that it's supposed to do.        |
 | 58:46      | So, I've narrowed it down to Mac OS is being weird. So, I need Option Space available. Should I          |
-| 58:53      | need to start Alfred from Spotlight, which is pretty much the only thing I use Spotlight for             |
+| 58:53      | need to start [[Alfred]] from Spotlight, which is pretty much the only thing I use Spotlight for             |
 | 58:57      | nowadays. All you do is to remap that, all you do is you open up Spotlight and then hit Command          |
 | 59:02      | Comma and then you can remap it to Option or Control Space and then that allows you to set               |
-| 59:07      | the Alfred trigger to Command Space as you do. This episode of Automators is brought to you              |
+| 59:07      | the [[Alfred]] trigger to Command Space as you do. This episode of Automators is brought to you              |
 | 59:14      | by Forward Networks. Forward Networks produces business risks by revolutionising the way large           |
 | 59:18      | networks are managed. How? Well, their advanced software delivers a digital twin of the network,         |
 | 59:24      | which is a completely accurate mathematical model in software. The model serves as a single              |
@@ -697,10 +697,10 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:00:51   | drafting Keyboard Maestros. I've actually built, and I'm the maintainer of, there's another tool         |
 | 01:00:56   | called Bunch, and it's built by automator, mad scientist [[Brett Terpstra]], and it is, I would say,         |
 | 01:01:03   | it's very, it's Keyboard Maestro if it were only for context. So for me, I actually triggered those      |
-| 01:01:12   | bunches via Alfred, and I maintained the Alfred workflow for that. And it's cool because, you            |
+| 01:01:12   | bunches via [[Alfred]], and I maintained the [[Alfred]] workflow for that. And it's cool because, you            |
 | 01:01:22   | know, it becomes this thought of instead of just saying, oh, I need a website or oh, I need to open      |
 | 01:01:27   | an app or a file, it's like, I need to get into podcasting mode, or I need to get into presentation      |
-| 01:01:33   | mode, or I need to get into video mode. And I just, you know, hit Alfred, hit B to activate Bunch,       |
+| 01:01:33   | mode, or I need to get into video mode. And I just, you know, hit [[Alfred]], hit B to activate Bunch,       |
 | 01:01:39   | and then it searches for all of my active, all of my bunches that are available. And I just type         |
 | 01:01:44   | the one that I'm looking for really quick, hit enter, and then boom, you got windows that are            |
 | 01:01:48   | closing and new windows that are opening and do not disturb being set or unset and all this other        |
@@ -884,7 +884,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:19:34   | to day would help, I think. So if I can, if we can talk inside baseball on a podcast,                    |
 | 01:19:42   | we have the automators dock here that we've planned. I have that hooked to a lot of the                  |
 | 01:19:50   | different websites that we've talked about. So I have it hooked to Bunch. I have it hooked to            |
-| 01:19:55   | Alfred's website. I have it hooked to some of the videos that I have in the notes and a lot of           |
+| 01:19:55   | [[Alfred]]'s website. I have it hooked to some of the videos that I have in the notes and a lot of           |
 | 01:20:02   | the documentation and a lot of these links that we've, we've saved here, I have them all hooked.         |
 | 01:20:08   | So in the future, if I'm talking with someone and maybe we're talking about Mac automation and           |
 | 01:20:14   | they're like, oh, hey, you did that cool thing with Bunch. I can go, yeah, let me show you               |
@@ -957,15 +957,15 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:26:40   | It's got a lot of stuff in it. And I know that a lot, I know it is on a feature free. So there's         |
 | 01:26:47   | going to be nothing new until the brand, like the big version that comes up right now. It's just         |
 | 01:26:53   | fixing a lot of minor stuff and documenting those things. And I did mention before, I'm also the         |
-| 01:27:00   | maintainer of the unofficial Bunch Alfred workflow, but it's the one that's on the website. So           |
+| 01:27:00   | maintainer of the unofficial Bunch [[Alfred]] workflow, but it's the one that's on the website. So           |
 | 01:27:09   | do you want to try that out and run into any problems with it? You know who you can yell at              |
 | 01:27:14   | and I will be there to solve any problems, but it's a pretty simple system. And it's all using           |
 | 01:27:20   | those X callback URLs that people are so excited about. Nice. And we've got a link to that plug          |
-| 01:27:27   | in or workflow, sorry, for Alfred in the show notes as well for everybody as well. And it is             |
+| 01:27:27   | in or workflow, sorry, for [[Alfred]] in the show notes as well for everybody as well. And it is             |
 | 01:27:32   | indeed installed on my Mac and it has been since we did our show preparation, Jay. So thank you          |
 | 01:27:36   | for that. That makes me feel good because you didn't yell at me. No, no, I'm ribbing you to come back.    |
 | 01:27:43   | I do think while you're at it, Jay, though, you might as well just go ahead and make the hook            |
-| 01:27:46   | Alfred integration to because I know you have tons of free time. So just go ahead and whip that up.      |
+| 01:27:46   | [[Alfred]] integration to because I know you have tons of free time. So just go ahead and whip that up.      |
 | 01:27:52   | Brett's made the CLI. Unfortunately, the hook, the way that hook works, the X callback URLs              |
 | 01:28:00   | aren't quite there yet, but I have it on good faith that they're working on that as well. So             |
 | 01:28:06   | once they get those going, then definitely. But until then, I'll just keep making videos about           |

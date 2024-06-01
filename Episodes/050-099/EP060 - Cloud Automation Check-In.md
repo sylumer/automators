@@ -689,14 +689,14 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 36:04      | Yeah.                                                                                                        |
 | 36:05      | And I love the fact that that just works.                                                                    |
 | 36:07      | I actually have a friend who was lucky using hook and it ended up writing a little bash                      |
-| 36:11      | script workflow that he uses with Alfred to get links to different files and so on on                        |
+| 36:11      | script workflow that he uses with [[Alfred]] to get links to different files and so on on                        |
 | 36:17      | his Mac so that he can just paste them in anywhere.                                                          |
 | 36:20      | I'll have to see whether or not he's willing to share that with people and get it for you                    |
 | 36:25      | if possible for the show notes because it just uses a file link.                                             |
 | 36:30      | So if you right click on something in Finder, then you can copy a file link.                                 |
 | 36:34      | You might need to press Option to do that, but then you can copy your file path as a                         |
 | 36:41      | name.                                                                                                        |
-| 36:42      | So that's all set up through Alfred and a little bit of bash scripting, if I remember                        |
+| 36:42      | So that's all set up through [[Alfred]] and a little bit of bash scripting, if I remember                        |
 | 36:48      | correctly.                                                                                                   |
 | 36:49      | Yeah, take a look at that.                                                                                   |
 | 36:51      | Because the advantage of that is if you're working with like cloud services, you don't                       |

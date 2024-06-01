@@ -221,9 +221,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 08:44      | Bookmarks are old school automation, you know, it is a bookmark to take you to a specific          |
 | 08:49      | location, but with modern Mac automation tools, and I'm talking to you, [[Raycast]], [[Hazel]] on          |
 | 08:56      | all the related apps, you can access things that are your bookmark.                                |
-| 09:02      | You can search your bookmarks with any of these applications like Alfred.                          |
-| 09:07      | You just trigger Alfred, you start typing in the name of your bookmark, and you do need            |
-| 09:10      | to enable it in the Alfred settings, but it's a ridiculously fast way to get to websites           |
+| 09:02      | You can search your bookmarks with any of these applications like [[Alfred]].                          |
+| 09:07      | You just trigger [[Alfred]], you start typing in the name of your bookmark, and you do need            |
+| 09:10      | to enable it in the [[Alfred]] settings, but it's a ridiculously fast way to get to websites           |
 | 09:16      | that you visit frequently.                                                                         |
 | 09:19      | So that's the first reason to do bookmarks, and just like Rose, I, if you go to the view           |
 | 09:23      | menu in Safari, you can have it show the favourites across the top, yeah.                           |
@@ -411,7 +411,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 21:02      | Well, there we go.                                                                                 |
 | 21:03      | We both learned something today, because I didn't realise that an Amazon search was                |
 | 21:05      | part of this.                                                                                      |
-| 21:06      | I usually use Alfred to search Amazon, but that's one of those things where you don't              |
+| 21:06      | I usually use [[Alfred]] to search Amazon, but that's one of those things where you don't              |
 | 21:10      | necessarily want to do that.                                                                       |
 | 21:12      | And maybe if you're listening, you're saying, but Dave, Rose, I really love Google search.         |
 | 21:16      | I think the results are good, and I want to use those sometimes.                                   |
@@ -424,7 +424,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 21:26      | And Google images bang GI.                                                                         |
 | 21:27      | So it's just really easy to, once you get those into your fingers, then that becomes               |
 | 21:32      | a feature that using other search engines, you don't get.                                          |
-| 21:37      | And it's almost like putting a little version of Alfred in your search bar.                        |
+| 21:37      | And it's almost like putting a little version of [[Alfred]] in your search bar.                        |
 | 21:41      | I don't know how else to put it, but I've been using that trick over years, and I've got               |
 | 21:45      | these now as muscle memory, and I use them all the time.                                           |
 | 21:49      | But if you go to the website, I'll put a link in the show notes to their explanation, and          |

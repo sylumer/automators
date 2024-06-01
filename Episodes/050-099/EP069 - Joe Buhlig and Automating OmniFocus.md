@@ -173,7 +173,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 08:01      | teeth on scripting in general, I think, because then I started diving into some of the someday         |
 | 08:07      | maybe list auto parsing type processes like what Rose was referring to earlier. But then that also     |
 | 08:14      | helped me dive into more of like the TextExpander scripting and stuff I've done. I've done quite a    |
-| 08:19      | bit with like Alfred as well. So it's kind of helped me dive into some of these other places.          |
+| 08:19      | bit with like [[Alfred]] as well. So it's kind of helped me dive into some of these other places.          |
 | 08:26      | But I think for me, as far as like scripting things and automating things like on my Mac               |
 | 08:30      | specifically, that has been primarily in OmniFocus, which, you know, of course is what our topic is    |
 | 08:38      | here today. But that's, I think that's where the bulk of my beginnings were with that. I mean,         |

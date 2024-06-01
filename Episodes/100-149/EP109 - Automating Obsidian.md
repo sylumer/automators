@@ -436,7 +436,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 17:36      | is the command palette is a native Obsidian plugin.                                                |
 | 17:39      | And if you enable it, when you hit command P, if you're on the Mac control P,                      |
 | 17:43      | if you're using it on Linux or Windows, then it just opens up a list of commands.                  |
-| 17:48      | And you can start typing and it's like Alfred built into Obsidian for just Obsidian things.        |
+| 17:48      | And you can start typing and it's like [[Alfred]] built into Obsidian for just Obsidian things.        |
 | 17:53      | And it's really useful because you don't have to go and, you know,                                 |
 | 17:58      | like remember exactly what keyboard shortcut things are and so on,                                 |
 | 18:02      | and you can pin certain commands so that they show up really easily.                               |
@@ -453,7 +453,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 18:42      | Of course, you should read the documentation,                                                      |
 | 18:44      | but you can also just hit command P and start like pushing buttons and see what happens.           |
 | 18:48      | And related to that is the open command command O,                                                 |
-| 18:53      | which searches the whole database, like Alfred,                                                    |
+| 18:53      | which searches the whole database, like [[Alfred]],                                                    |
 | 18:57      | and gets you into files extremely quickly.                                                         |
 | 19:00      | And I feel like when you put O and P together,                                                     |
 | 19:03      | and then I add T for the templates,                                                                |

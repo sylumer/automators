@@ -217,7 +217,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 06:54      | And right about that time I got into the Mac, I was a Windows user, I was actually a Windows           |
 | 06:58      | power user, I think up until I got into computer science and then I needed a Unix subsystem.           |
 | 07:06      | And at the time, it really didn't want to run Linux.                                                   |
-| 07:07      | So I jumped on a Mac, I opened up Alfred for the first time and away it went from there.               |
+| 07:07      | So I jumped on a Mac, I opened up [[Alfred]] for the first time and away it went from there.               |
 | 07:11      | Yeah.                                                                                                  |
 | 07:12      | Yeah, exactly.                                                                                         |
 | 07:13      | And I do think that like, there's a reason when Rose and I had [[Sal Soghoian]], we play the                |

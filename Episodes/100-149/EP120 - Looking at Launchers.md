@@ -109,13 +109,13 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 03:01      | things that I think Spotlight does well, and occasionally I need it.                                  |
 | 03:04      | So it's over there hanging out under the Control key, so under the Control Space, I get Spotlight     |
 | 03:08      | rolling.                                                                                              |
-| 03:09      | And, but at the same time, I've been running [[Raycast]] under Option Space and Alfred under              |
+| 03:09      | And, but at the same time, I've been running [[Raycast]] under Option Space and [[Alfred]] under              |
 | 03:15      | Command Space, and I don't foresee me changing that.                                                  |
 | 03:19      | So none of these are exclusive, and Spotlight in particular, because you already have it              |
 | 03:24      | on your Mac.                                                                                          |
 | 03:25      | So I think you will want to map that now.                                                             |
 | 03:27      | If you decide that you're just a Spotlight person, leave it under Command Space, but                  |
-| 03:31      | if you decide to jump on board with [[Raycast]], or Alfred, or Launch Bar, any of the other               |
+| 03:31      | if you decide to jump on board with [[Raycast]], or [[Alfred]], or Launch Bar, any of the other               |
 | 03:35      | options, I would recommend remapping it to somewhere else and putting your primary launcher           |
 | 03:41      | under that Command Space key, but this is not an exclusive thing.                                     |
 | 03:46      | But getting back to Spotlight though, I remember was, I think it was Mac OS Tiger, where it           |
@@ -197,7 +197,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 09:24      | going to discuss today, you're going to be unhappy with spotlight.                                    |
 | 09:29      | If you don't know better, spotlight is great, but once you use a snappy, proper launcher              |
 | 09:35      | that does more for you, and another thing that's inherent with all of these apps, launch              |
-| 09:41      | bar, Alfred, and [[Raycast]] is they have a memory of what you select, and so the things you              |
+| 09:41      | bar, [[Alfred]], and [[Raycast]] is they have a memory of what you select, and so the things you              |
 | 09:47      | like the most gradually work their way to the top of the list, and I have not observed                |
 | 09:54      | that.                                                                                                 |
 | 09:55      | I've been trying to use spotlight more as we've been prepping for today's show.                       |
@@ -218,7 +218,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 10:47      | Yeah.                                                                                                 |
 | 10:48      | Whereas when I search these out in [[Raycast]], it just finds the right one.                              |
 | 10:51      | I don't deal with that.                                                                               |
-| 10:53      | When I search them in Alfred, in fact, I kind of prefer Alfred's method where you actually            |
+| 10:53      | When I search them in [[Alfred]], in fact, I kind of prefer [[Alfred]]'s method where you actually            |
 | 10:59      | use a modifier, so then you're only searching shortcuts, and that's why you don't get those           |
 | 11:05      | extra search results.                                                                                 |
 | 11:06      | Yeah, it feels to me like it's okay, and they are continuing to improve upon it, but                  |
@@ -252,7 +252,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:10      | What I want is the result because I need to put that somewhere.                                       |
 | 13:14      | Now I have to do the keyboard shortcut for copy or use the edit menu to go and copy it,               |
 | 13:22      | and then close calculator instead of just being able to hit enter and go into something               |
-| 13:27      | else and paste it like I can with Alfred and [[Raycast]] and various other things.                        |
+| 13:27      | else and paste it like I can with [[Alfred]] and [[Raycast]] and various other things.                        |
 | 13:32      | Interestingly, the pictures that show up when I do type Rosemary Orchard, there are                   |
 | 13:36      | a bunch of pictures of Stream Decks.                                                                  |
 | 13:38      | You and I have been sharing pictures of Stream Decks.                                                 |
@@ -262,7 +262,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:53      | It is nothing like it used to be with Tiger, it does better work, it's faster, it is taking           |
 | 13:59      | advantage of some of the built-in access that it has that the other apps don't have.                  |
 | 14:05      | But every time I try to use it, it's just not there.                                                  |
-| 14:09      | When you hear about the stuff we're doing with Alfred and even [[Raycast]] later, you're                  |
+| 14:09      | When you hear about the stuff we're doing with [[Alfred]] and even [[Raycast]] later, you're                  |
 | 14:14      | going to understand that this thing is, it's like a pedestrian version.                               |
 | 14:20      | This app walks so the rest of them could run, I guess, and I don't know if really Apple               |
 | 14:24      | has any interest in it.                                                                               |
@@ -323,7 +323,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 17:51      | I mean, it's like if OmniFocus is a 10 of task managers, Reminders is a six, maybe even               |
 | 17:56      | a seven.                                                                                              |
 | 17:57      | It's really good.                                                                                     |
-| 17:59      | And where if Alfred is a 10 of launchers, spotlight, I think is a three or a four.                    |
+| 17:59      | And where if [[Alfred]] is a 10 of launchers, spotlight, I think is a three or a four.                    |
 | 18:06      | It really needs a lot more.                                                                           |
 | 18:07      | Am I being too harsh?                                                                                 |
 | 18:10      | I don't think so.                                                                                     |
@@ -367,7 +367,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 20:21      | So it does cause me to change my workflow a little bit when that happens.                             |
 | 20:25      | But, you know, honestly, I don't spend enough time behind other people's Macs to worry about          |
 | 20:29      | it.                                                                                                   |
-| 20:30      | And unfortunately, I can install, you know, Alfred and [[Raycast]] and so on on my work                |
+| 20:30      | And unfortunately, I can install, you know, [[Alfred]] and [[Raycast]] and so on on my work                |
 | 20:34      | machine.                                                                                              |
 | 20:35      | But, you know, even if, even if you can't, you know, why not give yourself the best experience        |
 | 20:39      | on one machine at least?                                                                              |
@@ -421,7 +421,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 23:49      | it has and so on.                                                                                     |
 | 23:50      | So where do you feel like you're at at the moment with [[Raycast]]?                                       |
 | 23:53      | I have actually been using it longer than a month, and like I said, I've mapped it to                 |
-| 23:57      | the option space, and I looked at it, like, is this a replacement for Alfred?                         |
+| 23:57      | the option space, and I looked at it, like, is this a replacement for [[Alfred]]?                         |
 | 24:03      | Well, just to kind of cut to the end, it's not for me, and we'll get there eventually.                |
 | 24:08      | But to kind of give you a little bit more background, [[Raycast]] is an app that is a launcher.           |
 | 24:16      | One of the things I really like about it, it's very pretty.                                           |
@@ -443,7 +443,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 25:19      | They do have a business model, and the business model is a way that allows people who don't           |
 | 25:24      | want to pay for a personal license to download and use it for free.                                   |
 | 25:27      | So that's good, and I think that's something that a lot of people think about.                        |
-| 25:31      | It's like, do I want it as much as you and I like Alfred?                                             |
+| 25:31      | It's like, do I want it as much as you and I like [[Alfred]]?                                             |
 | 25:34      | Some people don't want to pay for it, and I get that, and [[Raycast]] is an option for you,               |
 | 25:39      | and it's definitely better than Spotlight.                                                            |
 | 25:43      | It brings in a lot of the stuff that we were complaining about in the last segment.                   |
@@ -519,7 +519,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 30:37      | You can add these in here as you need them, but that's a blessing and a curse because                 |
 | 30:44      | you only get what they have.                                                                          |
 | 30:47      | Yeah, and so I went and looked at this, because one of the things I end up doing a lot for            |
-| 30:54      | myself, especially using Alfred a lot of the time, is that I actually create my own workflows         |
+| 30:54      | myself, especially using [[Alfred]] a lot of the time, is that I actually create my own workflows         |
 | 31:02      | for things, and so I thought, okay, great, I'll try creating a [[Raycast]] extension.                     |
 | 31:08      | So I started creating one using the template, and then I gave me the instructions which were          |
 | 31:13      | to run NPM install and then build it, and that was the point where I went, ah, I can                  |
@@ -543,7 +543,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 32:33      | it into [[Raycast]] so that I can use it or write a script.                                               |
 | 32:38      | And that's something that I feel like is a bit of a shame.                                            |
 | 32:42      | It would be really nice if they had a block based editor in there for some simple things              |
-| 32:47      | like you have with Alfred.                                                                            |
+| 32:47      | like you have with [[Alfred]].                                                                            |
 | 32:49      | You know, if I want to add a search through a particular website, it seems like that's                |
 | 32:55      | kind of difficult to just do if I want to do that, you know, like there are extensions                |
 | 33:02      | out there for searching the mozzarella documentation for web stuff, but, you know, I have to go       |
@@ -554,13 +554,13 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 33:29      | like that.                                                                                            |
 | 33:30      | That's fabulous.                                                                                      |
 | 33:31      | That's genuinely brilliant.                                                                           |
-| 33:33      | I love that, but a plenty of people have done this with Alfred as well and similar.                   |
+| 33:33      | I love that, but a plenty of people have done this with [[Alfred]] as well and similar.                   |
 | 33:38      | So, you know, I think we will see, you know, more of these coming along soon.                         |
 | 33:44      | I noticed that there's a [[ChatGPT]] one, which just makes me sad because it gives so many               |
 | 33:48      | bad answers so confidently, but, you know, there's, you know, there's some good stuff                 |
 | 33:54      | out there.                                                                                            |
 | 33:55      | You know, I like the fact that there's a brew search, but I've yet to find something on               |
-| 34:00      | [[Raycast]] that I can't get in Alfred through something else or through a native feature.                |
+| 34:00      | [[Raycast]] that I can't get in [[Alfred]] through something else or through a native feature.                |
 | 34:08      | But that said, it's very slick.                                                                       |
 | 34:09      | It's very simple.                                                                                     |
 | 34:10      | It looks very modern.                                                                                 |
@@ -643,7 +643,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 38:37      | I mean, I still use stickies, but yeah, the walkthrough at the beginning to help you get              |
 | 38:42      | started figuring out [[Raycast]] and learning how window management works and so on is really             |
 | 38:47      | good.                                                                                                 |
-| 38:48      | What I like about it, I think, is that it doesn't, they're not trying to copy Alfred,                 |
+| 38:48      | What I like about it, I think, is that it doesn't, they're not trying to copy [[Alfred]],                 |
 | 38:51      | which is probably the, you know, they've just got a different take on it.                             |
 | 38:55      | And I think for some people it's going to really land and for some people they might                  |
 | 38:59      | not like it or they might want, you know, something different.                                        |
@@ -679,31 +679,31 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 40:47      | Go there now to get your free pair of Beat Solo 3 headphones today for scheduling a meeting.          |
 | 40:51      | Our thanks to Electric for their support of this show.                                                |
 | 40:54      | All right.                                                                                            |
-| 40:56      | I feel like Alfred has been looming over this whole episode.                                          |
-| 41:00      | We did an episode on Alfred a while ago, but things continue to evolve in Alfred land.                |
-| 41:05      | We got Alfred version 5 out.                                                                          |
+| 40:56      | I feel like [[Alfred]] has been looming over this whole episode.                                          |
+| 41:00      | We did an episode on [[Alfred]] a while ago, but things continue to evolve in [[Alfred]] land.                |
+| 41:05      | We got [[Alfred]] version 5 out.                                                                          |
 | 41:08      | Both you and I are smitten with this as our keyboard launcher of choice.                              |
 | 41:13      | And I thought it'd be fun to just kind of go through a little bit of why we're using                  |
 | 41:17      | it and what we're doing with it.                                                                      |
 | 41:19      | Yeah.                                                                                                 |
 | 41:20      | Yeah.                                                                                                 |
 | 41:21      | Let's get beyond the basics.                                                                          |
-| 41:23      | Let's get into some nerdy automator stuff with Alfred.                                                |
+| 41:23      | Let's get into some nerdy automator stuff with [[Alfred]].                                                |
 | 41:26      | Yes.                                                                                                  |
 | 41:27      | Yeah.                                                                                                 |
-| 41:28      | I mean, honestly, one of the things that I love to do using Alfred are really simple actions,         |
+| 41:28      | I mean, honestly, one of the things that I love to do using [[Alfred]] are really simple actions,         |
 | 41:34      | but they're actions rather than launching apps.                                                       |
 | 41:37      | So I launch into the sleep action or just sleep my displays or empty the trash or do                  |
 | 41:42      | a calculation.                                                                                        |
-| 41:43      | And I like the fact that that's built in when you hit whatever your launcher Alfred is and            |
+| 41:43      | And I like the fact that that's built in when you hit whatever your launcher [[Alfred]] is and            |
 | 41:48      | you type EJ.                                                                                          |
 | 41:50      | If you've got drives connected, then you'll get the option to eject those drives and things           |
 | 41:56      | like that.                                                                                            |
 | 41:57      | So that's one of the things that I feel like sometimes people miss that they can do with              |
-| 42:02      | Alfred because that's just more options that you can do basically.                                    |
+| 42:02      | [[Alfred]] because that's just more options that you can do basically.                                    |
 | 42:07      | So that's certainly worth going and having a little poke around with what system actions              |
-| 42:13      | you can do using Alfred.                                                                              |
-| 42:14      | So if you look in Alfred and the features under system, then you can even customise                   |
+| 42:13      | you can do using [[Alfred]].                                                                              |
+| 42:14      | So if you look in [[Alfred]] and the features under system, then you can even customise                   |
 | 42:19      | which, what names things have got.                                                                    |
 | 42:21      | So if instead of the word restart, you want to have the word reboot, you can change it                |
 | 42:25      | to reboot.                                                                                            |
@@ -711,15 +711,15 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 42:27      | And also you can change like how eject works and things like that and turn on and eject               |
 | 42:32      | all command, et cetera to get some simple but really useful nerdy keyboard actions under              |
 | 42:41      | your fingers.                                                                                         |
-| 42:42      | And that's one of the things about Alfred, one of the reasons why Alfred is still kind                |
-| 42:45      | of my go to is the system is the preferences for Alfred.                                              |
+| 42:42      | And that's one of the things about [[Alfred]], one of the reasons why [[Alfred]] is still kind                |
+| 42:45      | of my go to is the system is the preferences for [[Alfred]].                                              |
 | 42:51      | They're super deep and they give you a lot of control over it.                                        |
-| 42:56      | Like if you want sleep, the default command to sleep your Mac and Alfred sleep, but let's             |
+| 42:56      | Like if you want sleep, the default command to sleep your Mac and [[Alfred]] sleep, but let's             |
 | 43:04      | say you want to use a different command, you can just put it in there and do it.                      |
 | 43:08      | And you can even add a confirmation check box where you get a confirmation before it                  |
 | 43:13      | does that.                                                                                            |
 | 43:14      | And so however your brain works, you can adapt the app to kind of follow that.                        |
-| 43:19      | And if you're using Alfred, that's one of the first steps.                                            |
+| 43:19      | And if you're using [[Alfred]], that's one of the first steps.                                            |
 | 43:22      | I think you go to that features tab in the settings and just go through each one of them              |
 | 43:27      | and just take a look at what's available to you and how they're configured and you'll                 |
 | 43:31      | find different ways to use them.                                                                      |
@@ -727,11 +727,11 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 43:35      | Yeah.                                                                                                 |
 | 43:36      | One that I found, it must have been about a year ago now that I couldn't believe that                 |
 | 43:39      | I hadn't figured out before web bookmarks.                                                            |
-| 43:42      | I have enabled my Safari bookmarks in Alfred.                                                         |
+| 43:42      | I have enabled my Safari bookmarks in [[Alfred]].                                                         |
 | 43:44      | So when I type command space and then one of the things that is in my bookmarks, that's               |
 | 43:49      | the option that comes up first.                                                                       |
 | 43:52      | And something that we neglected to mention that you can do in [[Raycast]], you can do it                  |
-| 43:55      | in Alfred as well.                                                                                    |
+| 43:55      | in [[Alfred]] as well.                                                                                    |
 | 43:56      | If you search for something and you get a number of results come back, then the command               |
 | 44:01      | key plus the number of the entry will launch that entry.                                              |
 | 44:04      | Okay.                                                                                                 |
@@ -748,14 +748,14 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 44:47      | And you can change that tab key as well to something else if you prefer.                              |
 | 44:50      | So you could have just the right arrow or the function key or the control key and more.               |
 | 44:59      | You can even turn on and off actions.                                                                 |
-| 45:01      | So if you don't want to be able to email a file from Alfred, then you can just uncheck                |
+| 45:01      | So if you don't want to be able to email a file from [[Alfred]], then you can just uncheck                |
 | 45:08      | the email option, which is great.                                                                     |
 | 45:11      | But equally, if you just want to use it as a fast and snazzy launcher that you can change             |
 | 45:15      | the theme of, you could do that too.                                                                  |
-| 45:18      | One of the things I know with Alfred having used these other ones is Alfred seems one                 |
+| 45:18      | One of the things I know with [[Alfred]] having used these other ones is [[Alfred]] seems one                 |
 | 45:22      | of the smartest at surfacing frequently used results and putting them at the top.                     |
-| 45:28      | I know that they do this as well in [[Raycast]] and Launch Bar, but Alfred always seems to                |
-| 45:34      | know like it only takes once or twice for me to trigger something in Alfred where the                 |
+| 45:28      | I know that they do this as well in [[Raycast]] and Launch Bar, but [[Alfred]] always seems to                |
+| 45:34      | know like it only takes once or twice for me to trigger something in [[Alfred]] where the                 |
 | 45:38      | next time I go and type anything like that, it's going to be the number one result.                   |
 | 45:43      | And I just hit return and go, and that's something I appreciate about the app.                        |
 | 45:47      | Yes.                                                                                                  |
@@ -764,13 +764,13 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 45:52      | I promise, folks.                                                                                     |
 | 45:54      | There is a history option for store the typed query and then show the latest query if it's            |
 | 46:00      | within five minutes.                                                                                  |
-| 46:02      | And the latest query within five minutes is to me, the [[Drafts]] equivalent in Alfred.                   |
+| 46:02      | And the latest query within five minutes is to me, the [[Drafts]] equivalent in [[Alfred]].                   |
 | 46:08      | So when I go back to Drafts, if it's within five minutes, it'll show me the draft that                |
 | 46:11      | I was working on.                                                                                     |
 | 46:12      | If it's after that, it shows me a new one.                                                            |
 | 46:15      | For me, being able to go back and, okay, so I searched for this and that gave me that,                |
 | 46:19      | so I'm now going to search and I'm going to add another keyword onto this because I use               |
-| 46:24      | Alfred instead of directly typing into DuckDuckGo or Google or whatever.                              |
+| 46:24      | [[Alfred]] instead of directly typing into DuckDuckGo or Google or whatever.                              |
 | 46:30      | That gives me that.                                                                                   |
 | 46:31      | And storing the typed query means that if I hit the up arrow, I see the previous searches             |
 | 46:35      | that I've had.                                                                                        |
@@ -786,7 +786,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 47:09      | And so by default, command return will reveal things in Finder.                                       |
 | 47:13      | Option return will search your current search term in Finder and control return actions,              |
 | 47:18      | the visible results, whatever actioning means within the context of the thing.                        |
-| 47:25      | But I really like the fact that that's just something that you can do within Alfred and               |
+| 47:25      | But I really like the fact that that's just something that you can do within [[Alfred]] and               |
 | 47:32      | especially that going back to the latest query, it saves me so much time, David.                      |
 | 47:36      | I think that was something I was struggling with with recast and spotlight when I was                 |
 | 47:40      | giving them, you know, I actually put [[Raycast]] on command space for a while.                           |
@@ -804,16 +804,16 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:12      | Yeah.                                                                                                 |
 | 48:13      | I think once, once you've got the [[Drafts]] analogy, it's great.                                         |
 | 48:17      | Like it's easier to understand for folks.                                                             |
-| 48:20      | But something else that is definitely Alfred specific, that is not something that you can             |
+| 48:20      | But something else that is definitely [[Alfred]] specific, that is not something that you can             |
 | 48:25      | do at least easily in [[Raycast]].                                                                        |
 | 48:28      | You definitely can't do this in spotlight is web search.                                              |
-| 48:30      | Okay, if I type something into Alfred or [[Raycast]] or spotlight or launch bar or [[Quicksilver]],           |
+| 48:30      | Okay, if I type something into [[Alfred]] or [[Raycast]] or spotlight or launch bar or [[Quicksilver]],           |
 | 48:37      | if you're storing that, you know, and it's not something that's just found as an action               |
 | 48:42      | or on my local machine, you'll get the option to Google it or DuckDuckGo it, depending on             |
 | 48:46      | what your preferences are.                                                                            |
-| 48:47      | But what you can do in Alfred is create a custom search and it's got a bunch of them                  |
+| 48:47      | But what you can do in [[Alfred]] is create a custom search and it's got a bunch of them                  |
 | 48:52      | built in.                                                                                             |
-| 48:53      | So if I type in Alfred IMDB, legally blonde, it will search for legally blonde on IMDB.               |
+| 48:53      | So if I type in [[Alfred]] IMDB, legally blonde, it will search for legally blonde on IMDB.               |
 | 49:00      | If I type STL, then it actually opens a website for finding 3D printer models for me, stlfinder.com.  |
 | 49:11      | And it will put my query into that.                                                                   |
 | 49:14      | But you can also just make these for whatever you like.                                               |
@@ -833,9 +833,9 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 50:03      | But it means that I can have whatever I like in the search and, you know, default ones                |
 | 50:07      | built in for eBay and Bing, Ask, LinkedIn, YouTube, Flickr, you know, DuckDuckGo, Google              |
 | 50:14      | Weather, Pinterest, and of course one that's built in for help.                                       |
-| 50:19      | So if I type help into Alfred and then I type, I don't know, bookmark, then it will search            |
-| 50:26      | the Alfred help for the word bookmark and actually show me some useful results and then               |
-| 50:31      | I can find that I somehow missed that I could enable bookmarks in Alfred in version 3.5.              |
+| 50:19      | So if I type help into [[Alfred]] and then I type, I don't know, bookmark, then it will search            |
+| 50:26      | the [[Alfred]] help for the word bookmark and actually show me some useful results and then               |
+| 50:31      | I can find that I somehow missed that I could enable bookmarks in [[Alfred]] in version 3.5.              |
 | 50:38      | I'm ashamed of myself, David.                                                                         |
 | 50:40      | I don't know how I missed that.                                                                       |
 | 50:41      | I think maybe it was because for ages, my bookmarks were in really bad shape and it took              |
@@ -844,19 +844,19 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 50:52      | But as it is, you know, I finally got around to enabling that one.                                    |
 | 50:55      | The built-in ones are great and they're going to be enough for a lot of people.                       |
 | 50:59      | Like Google Images is another great one I use.                                                        |
-| 51:01      | Like when I'm making a presentation, I will trigger it from Alfred and then, you know,                |
+| 51:01      | Like when I'm making a presentation, I will trigger it from [[Alfred]] and then, you know,                |
 | 51:06      | the trick is you'll say like baseball, transparent, PNG, you know, and you'll find a baseball         |
 | 51:12      | without a background that you can drop onto a slide.                                                  |
 | 51:15      | So stuff like that is great, but I also have built them for like the MacSparky website               |
 | 51:19      | and just like to do searches on things that are important to me that probably not a lot               |
-| 51:24      | of people will need, but I can run a query right out of Alfred that way and that's pretty             |
+| 51:24      | of people will need, but I can run a query right out of [[Alfred]] that way and that's pretty             |
 | 51:29      | cool.                                                                                                 |
 | 51:30      | Yes, exactly.                                                                                         |
-| 51:31      | There's just so much depth in this, you know, the system preferences with Alfred and it's             |
+| 51:31      | There's just so much depth in this, you know, the system preferences with [[Alfred]] and it's             |
 | 51:39      | so customisable.                                                                                      |
 | 51:40      | You know, that's really what gets me.                                                                 |
 | 51:43      | The new and shiny [[Raycast]] is great and the plugins are fun, but man, there's just so                  |
-| 51:47      | much I've over time customised Alfred to do for me.                                                   |
+| 51:47      | much I've over time customised [[Alfred]] to do for me.                                                   |
 | 51:52      | We haven't even gotten to workflow yet.                                                               |
 | 51:53      | I want to wait on that.                                                                               |
 | 51:54      | We're going to get to that in the next segment, but like the clipboard history tools are really       |
@@ -868,7 +868,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 52:19      | they work in spotlight and how they're great, but they're slow and they take a lot of mousing         |
 | 52:23      | or arrow pressing to get to the right one and [[Raycast]]'s contacts, you can search the                  |
 | 52:30      | contacts database, you can surface them, but you can't really navigate them well.                     |
-| 52:34      | I feel like that's something [[Raycast]] needs to work on, frankly, but in Alfred, contacts               |
+| 52:34      | I feel like that's something [[Raycast]] needs to work on, frankly, but in [[Alfred]], contacts               |
 | 52:40      | are awesome and they're awesome and ugly all at once because if I type Rosemary Orchard,              |
 | 52:46      | it doesn't give me a bunch of pretty pictures of Rose.                                                |
 | 52:48      | It doesn't do like all the stuff that spotlight does, but what it gets me is her email address,       |
@@ -881,7 +881,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 53:27      | see your profile picture and the phone number and the email and everything, but I then have           |
 | 53:32      | to use like command K to get the options and then I can do things like send you a message             |
 | 53:37      | or send you an email or copy various things, but I actually have to activate an action                |
-| 53:42      | for that, whereas if I just type David and if I type DAV, then Alfred knows where I'm                 |
+| 53:42      | for that, whereas if I just type David and if I type DAV, then [[Alfred]] knows where I'm                 |
 | 53:49      | going because it is learning from my search history and prioritising things, but literally            |
 | 53:53      | once I've hit return, I mean, I still get your profile picture.                                       |
 | 53:56      | It's not rounded off like it would be in contacts, but that's fine.                                   |
@@ -894,7 +894,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 54:28      | I really like the large type version in 1Password, by the way, folks, because it's                 |
 | 54:31      | got the numbers underneath for the position of the characters, which is really useful                 |
 | 54:36      | if you have to type in like the seventh and the 17th character of your password.                      |
-| 54:40      | But the large type option in Alfred, I can actually just type, I've got a workflow that               |
+| 54:40      | But the large type option in [[Alfred]], I can actually just type, I've got a workflow that               |
 | 54:48      | gives me a large type where I can literally make anything appear in large type.                       |
 | 54:55      | That to me is just one of those insanely useful little things that you don't need until you           |
 | 55:00      | need it, right?                                                                                       |
@@ -906,7 +906,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 55:17      | me a number for a good estate attorney?                                                               |
 | 55:19      | I'm like, great.                                                                                      |
 | 55:20      | So I hit [[Raycast]] and it was just tough to get to the phone number and the email address.              |
-| 55:27      | Whereas in Alfred, I've got that in seconds, tap space, command space, like a couple letters          |
+| 55:27      | Whereas in [[Alfred]], I've got that in seconds, tap space, command space, like a couple letters          |
 | 55:37      | of the person's name, couple arrows down, command C, and I've got it.                                 |
 | 55:41      | And that's the thing I want from a keyboard launcher.                                                 |
 | 55:44      | I just want it lightning fast and to get out of my way.                                               |
@@ -919,15 +919,15 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 56:13      | right because that's what we're doing with automation, right?                                         |
 | 56:16      | We're doing automation to make sure that we get the right results consistently rather                 |
 | 56:21      | than just fast and inaccurate.                                                                        |
-| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, Alfred's got              |
+| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, [[Alfred]]'s got              |
 | 56:29      | themes as well.                                                                                       |
-| 56:30      | So if you've looked at Alfred before and gone, I don't really like how it looks.                      |
+| 56:30      | So if you've looked at [[Alfred]] before and gone, I don't really like how it looks.                      |
 | 56:33      | First of all, make sure you've checked out the modern themes, which were introduced                   |
 | 56:38      | a while ago, certainly, but they look more spotlight like.                                            |
 | 56:42      | You can do things like hide the top hat if you don't like the top hat.                                |
 | 56:46      | But there's also a whole thing on their website where you can download different themes.              |
 | 56:51      | And there's a lot of other websites out there as well, where you can download workflows               |
-| 56:55      | and themes for Alfred, where if you want something that's just very dark and dim or                   |
+| 56:55      | and themes for [[Alfred]], where if you want something that's just very dark and dim or                   |
 | 57:01      | very purple, then somebody's probably made one.                                                       |
 | 57:04      | Or you can go ahead and create your own or duplicate one that somebody's made and tweak               |
 | 57:09      | it to meet your needs.                                                                                |
@@ -935,15 +935,15 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 57:17      | low vision or similar and you know that you can easily see this font size on that colour.              |
 | 57:25      | Then being able to just duplicate something that's close to what you need and then work               |
 | 57:31      | from there is really nice.                                                                            |
-| 57:35      | Every time we talk about Alfred on the show, I discover something that I didn't know.                 |
+| 57:35      | Every time we talk about [[Alfred]] on the show, I discover something that I didn't know.                 |
 | 57:40      | And this time is no different.                                                                        |
 | 57:42      | I discovered, I don't know why I never played with it before.                                         |
-| 57:46      | Maybe this is an Alfred five edition or I just missed it, but the music mini player,                  |
+| 57:46      | Maybe this is an [[Alfred]] five edition or I just missed it, but the music mini player,                  |
 | 57:52      | have you ever worked with that?                                                                       |
 | 57:53      | Yeah, I find that I tend not to need it all that much because I have keyboards with buttons           |
 | 57:59      | that can like play Paul stuff.                                                                        |
-| 58:01      | But yeah, there's a mini player built into Alfred.                                                    |
-| 58:05      | So if you type music when you're in Alfred, then it can actually go ahead, it imports                 |
+| 58:01      | But yeah, there's a mini player built into [[Alfred]].                                                    |
+| 58:05      | So if you type music when you're in [[Alfred]], then it can actually go ahead, it imports                 |
 | 58:12      | your library to start with and asks for control to access music.                                      |
 | 58:19      | And then once it's done that, then you actually have the music player mini app and you can            |
 | 58:24      | browse through different genres and albums and playlists or play a random album.                      |
@@ -969,7 +969,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 59:25      | But yeah, it's got so much built into it.                                                             |
 | 59:29      | And yeah, I really like the fact that that's just there.                                              |
 | 59:35      | And you can customise everything.                                                                     |
-| 59:37      | It's under the appearance in the options, by the way, that you can specify where Alfred               |
+| 59:37      | It's under the appearance in the options, by the way, that you can specify where [[Alfred]]               |
 | 59:42      | should appear.                                                                                        |
 | 59:43      | Like does it hide the menu bar icon?                                                                  |
 | 59:46      | Does it hide the result shortcuts?                                                                    |
@@ -981,7 +981,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:00:08   | I end up using it.                                                                                    |
 | 01:00:09   | What theme are you using?                                                                             |
 | 01:00:11   | So I have been alternating a little bit.                                                              |
-| 01:00:15   | So I was using a custom one that I made, which is called Alfred Rose Purple, surprise.                |
+| 01:00:15   | So I was using a custom one that I made, which is called [[Alfred]] Rose Purple, surprise.                |
 | 01:00:23   | Which yeah, I just customised the different options so that I could have the different                |
 | 01:00:29   | colours that I liked.                                                                                  |
 | 01:00:30   | It's just a dark sort of translucent-ish purple with rounded corners.                                 |
@@ -994,23 +994,23 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:01:01   | But then when you do the options, then you can do things like hiding the hat.                         |
 | 01:01:06   | Because I do have the hat hidden a lot of the time.                                                   |
 | 01:01:09   | Just I like the hat, but the purple doesn't quite match the purple that I've chosen.                  |
-| 01:01:14   | But I think my favourite thing is that I have Alfred appear on my active screen, David,                |
+| 01:01:14   | But I think my favourite thing is that I have [[Alfred]] appear on my active screen, David,                |
 | 01:01:17   | instead of the default screen.                                                                        |
-| 01:01:19   | So if I put my mouse over onto another screen and hit Command Space, then that's where Alfred         |
+| 01:01:19   | So if I put my mouse over onto another screen and hit Command Space, then that's where [[Alfred]]         |
 | 01:01:26   | is going to show up, rather than the other window where I'm not currently looking.                    |
 | 01:01:30   | So yeah, that's a useful feature.                                                                     |
 | 01:01:33   | What about you?                                                                                       |
 | 01:01:34   | What theme are you using?                                                                             |
 | 01:01:35   | I vary between two.                                                                                   |
 | 01:01:37   | I like the Nord colour set, and if you're familiar with it, there's a kind of a colour scheme           |
-| 01:01:41   | called Nord and David Zhang, Z-H-A-N-G built a Nord view for Alfred, which I use.                  |
-| 01:01:49   | I also like Alfred's modern dark view, and I switch between those two kind of depending               |
-| 01:01:55   | on my mood, but currently I'm using the Alfred Nord.                                                  |
+| 01:01:41   | called Nord and David Zhang, Z-H-A-N-G built a Nord view for [[Alfred]], which I use.                  |
+| 01:01:49   | I also like [[Alfred]]'s modern dark view, and I switch between those two kind of depending               |
+| 01:01:55   | on my mood, but currently I'm using the [[Alfred]] Nord.                                                  |
 | 01:01:59   | Yeah.                                                                                                 |
 | 01:02:00   | That makes sense.                                                                                     |
 | 01:02:01   | There's a lot of great ones out there for it.                                                         |
-| 01:02:04   | And folks, if they're looking for this, should definitely check out the Alfred website and            |
-| 01:02:09   | the Alfred forums, where folks have posted a lot of great themes and workflows for Alfred.            |
+| 01:02:04   | And folks, if they're looking for this, should definitely check out the [[Alfred]] website and            |
+| 01:02:09   | the [[Alfred]] forums, where folks have posted a lot of great themes and workflows for [[Alfred]].            |
 | 01:02:16   | I think we're going to have to get to workflows in a minute, David, because there's just so           |
 | 01:02:20   | much to talk about with this.                                                                         |
 | 01:02:25   | This episode of The Automators is brought to you by TextExpander.                                     |
@@ -1057,7 +1057,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:05:06   | It's called Bypass by [[Stephen Millard]].                                                                |
 | 01:05:09   | Stephen's been a guest on this show, and that is the Shortcuts Launcher Extraordinaire.               |
 | 01:05:15   | It should be the one on the website.                                                                  |
-| 01:05:16   | The Alfred website has a Shortcuts Launcher, but it's not as good as Stephen's.                       |
+| 01:05:16   | The [[Alfred]] website has a Shortcuts Launcher, but it's not as good as Stephen's.                       |
 | 01:05:20   | With Stephen's, you just type SC, and then space, and then it searches just your shortcuts.           |
 | 01:05:26   | As I said earlier, one of my discoveries through this month of trying different launchers             |
 | 01:05:32   | is I actually prefer to use a filter system for launching shortcuts.                                  |
@@ -1066,7 +1066,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:05:44   | I just want to search shortcuts.                                                                      |
 | 01:05:46   | Typing the SC space, I know it's a little extra work, but at the end of the day, I like               |
 | 01:05:52   | that.                                                                                                 |
-| 01:05:53   | With this Bypass workflow installed, you activate Alfred type SC, period, and then start typing       |
+| 01:05:53   | With this Bypass workflow installed, you activate [[Alfred]] type SC, period, and then start typing       |
 | 01:05:59   | the name of your shortcut, and that's, I guess I'd say 98% of the time, the way I launch              |
 | 01:06:04   | shortcuts.                                                                                            |
 | 01:06:05   | Yeah.                                                                                                 |
@@ -1078,7 +1078,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:06:25   | launch certain apps or open a series of apps that I've chosen, and that's one of the things           |
 | 01:06:33   | that I really like, but one of the workflows that I've got built in, you took [[Bypass]], I'm             |
 | 01:06:39   | taking [[Bunch]], Bunch by [[Jay Miller]], who we've had on the show before, sorry, Bunch, the                 |
-| 01:06:47   | Alfred workflow is by [[Jay Miller]], who we've had on the show before, and Bunch is from                  |
+| 01:06:47   | [[Alfred]] workflow is by [[Jay Miller]], who we've had on the show before, and Bunch is from                  |
 | 01:06:51   | [[Brett Terpstra]], who we've had on the show before as well.                                             |
 | 01:06:54   | And yeah, I really like that because I use Bunch as a way to launch a series of applications          |
 | 01:07:00   | all the time.                                                                                         |
@@ -1095,11 +1095,11 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:07:33   | Yeah.                                                                                                 |
 | 01:07:34   | I mean, if you've got them in [[Keyboard Maestro]], then going back to [[Stephen Millard]], he's also         |
 | 01:07:38   | got [[Conductor]] for Keyboard Maestro, which is to Keyboard Maestro what [[Bypass]] is to                    |
-| 01:07:45   | Shortcuts in Alfred, it's a workflow that you can download and install and honestly                   |
+| 01:07:45   | Shortcuts in [[Alfred]], it's a workflow that you can download and install and honestly                   |
 | 01:07:51   | just go check Stephen's website for loads of really great stuff because he's also got                 |
 | 01:07:55   | [[Doctor Drafts]], which I feel we have to mention because a lot of the folks listening to the            |
 | 01:08:00   | show love [[Drafts]] and the [[Doctor Drafts]] workflow is another really great one to get draft stuff        |
-| 01:08:08   | into Alfred.                                                                                          |
+| 01:08:08   | into [[Alfred]].                                                                                          |
 | 01:08:11   | And again, like you, David, I really prefer having the filter so I can just type DR and               |
 | 01:08:17   | then I will get the options up for [[Drafts]] where I can create a new draft or search [[Drafts]]            |
 | 01:08:23   | and run actions and things like that.                                                                 |
@@ -1109,7 +1109,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:08:38   | It saves me typing in the search and getting distracted by the other options which aren't             |
 | 01:08:44   | what I was looking for.                                                                               |
 | 01:08:45   | Yeah, and the nice thing with these modifiers, I was going to argue, I think one of the reasons       |
-| 01:08:51   | I like Alfred is because of [[Stephen Millard]] because he keeps writing these amazing workflows          |
+| 01:08:51   | I like [[Alfred]] is because of [[Stephen Millard]] because he keeps writing these amazing workflows          |
 | 01:08:57   | for it that aren't on any other apps, but one of the nice things he did with Bypass,                  |
 | 01:09:01   | he did the same thing with the Keyboard Maestro one is where you can not only activate a short        |
 | 01:09:06   | cover, you can go straight into editing it, if you use a different modifier, I think it's             |
@@ -1119,16 +1119,16 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:09:25   | do whatever it needs to do, so that is a real nice feature.                                           |
 | 01:09:30   | I mean, there's so many good ones.                                                                    |
 | 01:09:33   | Let's talk about a couple of, I have created a bunch of ones personally that I based off              |
-| 01:09:38   | a template in the Alfred workflows where it is folder searches and I do them where I'm                |
+| 01:09:38   | a template in the [[Alfred]] workflows where it is folder searches and I do them where I'm                |
 | 01:09:48   | searching just for folders in certain directories, like as an attorney, I did one where I can         |
 | 01:09:55   | type CL period and it searches only full folders in the client directory and because the thing        |
 | 01:10:02   | I wanted was, I just want to get to the client folder really quick, because I know there's            |
 | 01:10:06   | a bunch of documents in there and I don't want to see all of the various files related                |
 | 01:10:11   | to that client or any other client.                                                                   |
-| 01:10:14   | I want really narrow search results and with Alfred, you can write a custom workflow that             |
+| 01:10:14   | I want really narrow search results and with [[Alfred]], you can write a custom workflow that             |
 | 01:10:19   | does that, says, okay, look in this directory and only return folders and I made a bunch              |
 | 01:10:24   | of those and file searches, so there's a lot of things where I do file management on my               |
-| 01:10:29   | Mac that starts out as an Alfred command.                                                             |
+| 01:10:29   | Mac that starts out as an [[Alfred]] command.                                                             |
 | 01:10:33   | Yes, yeah, I have to say, it is one of those things where if that's what you want from                |
 | 01:10:39   | it, then it can do that so well.                                                                      |
 | 01:10:41   | For me, I've got one custom folder search, which I've done for the applications folder                |
@@ -1140,11 +1140,11 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:11:11   | I do have applications installed in other locations, like my user's applications folder, but I'm      |
 | 01:11:16   | not necessarily looking for those.                                                                    |
 | 01:11:18   | But I've got a couple that I've created myself as well, David, which I feel like we should            |
-| 01:11:24   | mention because one of the things I love about Alfred is when you click on the plus in the            |
+| 01:11:24   | mention because one of the things I love about [[Alfred]] is when you click on the plus in the            |
 | 01:11:28   | workflows area, so on the left you click the list of workflows that you may or may not                |
-| 01:11:34   | have installed and at the bottom of that, there's the Alfred Gallery, there's some                    |
+| 01:11:34   | have installed and at the bottom of that, there's the [[Alfred]] Gallery, there's some                    |
 | 01:11:37   | help and then there's a plus.                                                                         |
-| 01:11:39   | There are templates, so you can have web and URLs, there's follows and apps show Alfred               |
+| 01:11:39   | There are templates, so you can have web and URLs, there's follows and apps show [[Alfred]]               |
 | 01:11:46   | with specific text, there's some essentials like taking a keyword and passing it into                 |
 | 01:11:50   | [[AppleScript]] or a script filter going into AppleScript or keyword goes to a terminal                   |
 | 01:11:54   | command, things like that, but there's also clipboard, pasting text from a hotkey, pasting            |
@@ -1158,7 +1158,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:12:33   | it into a [[URL Schemes\|URL scheme]] that opens it in OmniFocus in my inbox.                                          |
 | 01:12:37   | That's it.                                                                                            |
 | 01:12:38   | Really simple, really effective and it works.                                                         |
-| 01:12:42   | And I did this as a test for myself just to see how easily can I create an Alfred workflow            |
+| 01:12:42   | And I did this as a test for myself just to see how easily can I create an [[Alfred]] workflow            |
 | 01:12:52   | using somebody who's been playing with shortcuts and things like that for a while but doesn't         |
 | 01:12:57   | necessarily know how to write a full-blown search filter in AppleScript or how to write               |
 | 01:13:04   | a Python script to do something could do this and I was like, okay, well, [[URL Schemes\|URL scheme]]s,                |
@@ -1167,9 +1167,9 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:13:13   | I'm going to see what I can do and I did that and I then replicated it.                               |
 | 01:13:18   | So if I type, OFP it searches OmniFocus projects, OFT searches OmniFocus tags and OF space followed   |
 | 01:13:26   | by whatever it is just searches OmniFocus in general.                                                 |
-| 01:13:30   | So yeah, it's not crazy hard to create some Alfred workflows, which is a really nice feature          |
+| 01:13:30   | So yeah, it's not crazy hard to create some [[Alfred]] workflows, which is a really nice feature          |
 | 01:13:38   | that I think people will appreciate.                                                                  |
-| 01:13:40   | Yeah, there was a really good OmniFocus Alfred plug-in called Search OmniFocus that worked            |
+| 01:13:40   | Yeah, there was a really good OmniFocus [[Alfred]] plug-in called Search OmniFocus that worked            |
 | 01:13:48   | with version, I think with the Mac OS update it broke and that's because Apple stopped                |
 | 01:13:54   | shipping a bunch of the stuff in the terminal or in the, you know, you're going to, I don't           |
 | 01:13:58   | know the term of art to say, but basically you didn't have the pieces underneath that                 |
@@ -1182,30 +1182,30 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:14:25   | your OmniFocus folders or.p and it'll just search your perspectives.                                  |
 | 01:14:30   | It's a very powerful way to kind of get into an application that isn't, you know, OmniFocus           |
 | 01:14:35   | isn't great at search in terms of like getting to something quickly or at least it certainly          |
-| 01:14:40   | isn't as good as Alfred is and I am looking forward to getting this thing running again.              |
+| 01:14:40   | isn't as good as [[Alfred]] is and I am looking forward to getting this thing running again.              |
 | 01:14:45   | I'll put a link in the show notes, but it's by Rhyd Lewis and it's a very cool OmniFocus              |
-| 01:14:53   | Alfred plug-in.                                                                                       |
+| 01:14:53   | [[Alfred]] plug-in.                                                                                       |
 | 01:14:54   | Yeah, yeah.                                                                                           |
 | 01:14:56   | There's some other group ones that we should give a mention to.                                       |
-| 01:15:00   | So 1Password, if you use 1Password 7, then Alfred has got a native integration for                |
+| 01:15:00   | So 1Password, if you use 1Password 7, then [[Alfred]] has got a native integration for                |
 | 01:15:06   | that.                                                                                                 |
-| 01:15:07   | If you're using 1Password 8, then there's a link in the Alfred preferences, I should                |
-| 01:15:11   | say, to the Alfred 8 workflow on the Alfred website.                                                  |
-| 01:15:17   | And so I'm using Alfred 8 and I've got the 1Password workflow installed.                            |
-| 01:15:23   | And so when I type 1P into Alfred, then it actually goes through and once you've connected            |
+| 01:15:07   | If you're using 1Password 8, then there's a link in the [[Alfred]] preferences, I should                |
+| 01:15:11   | say, to the [[Alfred]] 8 workflow on the [[Alfred]] website.                                                  |
+| 01:15:17   | And so I'm using [[Alfred]] 8 and I've got the 1Password workflow installed.                            |
+| 01:15:23   | And so when I type 1P into [[Alfred]], then it actually goes through and once you've connected            |
 | 01:15:36   | everything up, which you will need to do, I had to do this the other day on my work                   |
 | 01:15:40   | machine because I had forgotten that I'd not set this up, then you can actually just                  |
 | 01:15:47   | search 1Password, which is great.                                                                   |
 | 01:15:48   | I highly recommend it.                                                                                |
 | 01:15:50   | So yeah, that's definitely something that I like.                                                     |
 | 01:15:53   | It's basically the way that 1Password works now on your Mac.                                        |
-| 01:15:59   | So Alfred can access it, requires you to install the command line tool.                               |
+| 01:15:59   | So [[Alfred]] can access it, requires you to install the command line tool.                               |
 | 01:16:04   | So you'll get walked through doing all of that, but that's certainly something that                   |
-| 01:16:08   | is worth looking at if you may want to just search 1Password for things from Alfred.                |
+| 01:16:08   | is worth looking at if you may want to just search 1Password for things from [[Alfred]].                |
 | 01:16:15   | Yeah, a dumb one that I use all the time is time zones where I just set up, and this                  |
 | 01:16:21   | is a third party when someone made it, but I've just set up the time zones I need to                  |
 | 01:16:25   | see most often.                                                                                       |
-| 01:16:26   | I activate Alfred, I type TZ, and I see what time it is in Memphis, what time it is in                |
+| 01:16:26   | I activate [[Alfred]], I type TZ, and I see what time it is in Memphis, what time it is in                |
 | 01:16:31   | London, like all the people I podcast with, I can tell exactly what time it is.                       |
 | 01:16:35   | And this is the fastest way I know to find out what time it is in London because it's                 |
 | 01:16:40   | three keystrokes.                                                                                     |
@@ -1228,14 +1228,14 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:17:40   | When I start dragging a file, [[Yoink]] appears as like a little floating shelf, and I can                |
 | 01:17:43   | drop the file on there, and then when I've got the things together that I need, then                  |
 | 01:17:48   | I can drag the files off of [[Yoink]], and when [[Yoink]] is empty, it disappears.                            |
-| 01:17:52   | But because I use Alfred to find a lot of these files, I actually added the [[Yoink]] action,             |
+| 01:17:52   | But because I use [[Alfred]] to find a lot of these files, I actually added the [[Yoink]] action,             |
 | 01:17:58   | which is from Matthias, who is the creator of [[Yoink]], and it gives you an add to [[Yoink]]                 |
 | 01:18:03   | action.                                                                                               |
 | 01:18:04   | So when you search for a file, and then you find it, then you can just go ahead and actually          |
 | 01:18:11   | use the add to [[Yoink]] action, and that's it.                                                           |
 | 01:18:14   | It's super easy.                                                                                      |
 | 01:18:15   | So yeah, highly recommend looking in...                                                               |
-| 01:18:20   | There's a lot of apps, actually, that have got little Alfred workflows for them, official             |
+| 01:18:20   | There's a lot of apps, actually, that have got little [[Alfred]] workflows for them, official             |
 | 01:18:25   | and unofficial, and sometimes they're even linked on the website.                                     |
 | 01:18:28   | DEVONthink is another one.                                                                            |
 | 01:18:29   | There's two different DEVONthink searches, which I've been playing with, and they both                |
@@ -1252,8 +1252,8 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:19:00   | probably want to do with a workflow if they're going, okay, I want to just be able to type            |
 | 01:19:06   | something and then magic happens.                                                                     |
 | 01:19:10   | So the something that you type would be a keyword, and then after that, your actions                  |
-| 01:19:16   | can be to open files or to launch files or run a particular action, Alfred.                           |
-| 01:19:22   | Any of the Alfred actions that you can run, you can do as an action here or system commands           |
+| 01:19:16   | can be to open files or to launch files or run a particular action, [[Alfred]].                           |
+| 01:19:22   | Any of the [[Alfred]] actions that you can run, you can do as an action here or system commands           |
 | 01:19:28   | and so on, and then you just chain as many of those together as you need.                             |
 | 01:19:34   | So I've got one where if I type lullaby, then it actually checks if iTunes is playing or              |
 | 01:19:39   | music is playing, and then it pauses it if it is.                                                     |
@@ -1267,22 +1267,22 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:20:22   | And that's the longest part of the script.                                                            |
 | 01:20:24   | So I think it's really nice to be able to do that sort of thing without having to do                  |
 | 01:20:33   | anything too crazy.                                                                                   |
-| 01:20:35   | That is pretty much the most scripting I've written to do anything in Alfred, to be honest.           |
+| 01:20:35   | That is pretty much the most scripting I've written to do anything in [[Alfred]], to be honest.           |
 | 01:20:40   | So I think that's pretty good.                                                                        |
 | 01:20:42   | We didn't talk today much about Launch Bar.                                                           |
 | 01:20:44   | That's because neither one of us have been using it much lately.                                      |
 | 01:20:47   | We did an in-depth dive on this on Mac Power users a year or two ago where I spent a bunch            |
 | 01:20:52   | of time in Launch Bar then, and my conclusion at the time was it's really good, but I just            |
-| 01:20:56   | preferred Alfred.                                                                                     |
+| 01:20:56   | preferred [[Alfred]].                                                                                     |
 | 01:20:57   | It just seemed to work better for me.                                                                 |
 | 01:21:00   | But we're not going to cover that one today.                                                          |
 | 01:21:02   | I think we've gone enough at this, but it's nice to see that this is a healthy, active                |
 | 01:21:09   | environment for people with lots of competing apps doing cool stuff, whether you're using             |
-| 01:21:15   | Spotlight or [[Raycast]] or Alfred or Launch Bar.                                                         |
+| 01:21:15   | Spotlight or [[Raycast]] or [[Alfred]] or Launch Bar.                                                         |
 | 01:21:18   | I feel like all of these can help you automate.                                                       |
 | 01:21:21   | Absolutely, and even if you just go, okay, well, I'm not sure I need any of these workflows           |
 | 01:21:28   | or anything.                                                                                          |
-| 01:21:29   | It's definitely worth downloading [[Raycast]] or Alfred or similar just to see, would you                 |
+| 01:21:29   | It's definitely worth downloading [[Raycast]] or [[Alfred]] or similar just to see, would you                 |
 | 01:21:35   | benefit from being able to do command space and type a calculation and then copy that                 |
 | 01:21:41   | to your keyboard?                                                                                     |
 | 01:21:43   | If that's the only automation that you go away with, being able to do that, that's really             |

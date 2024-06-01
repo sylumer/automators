@@ -614,7 +614,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 32:31      | Did that work for you as well, David?                                                                  |
 | 32:33      | Yeah, yeah.                                                                                            |
 | 32:34      | And hopefully it's more discoverable by people as well in that sense.                                  |
-| 32:38      | Spotlight for me, I always have to think about it too, because I use Alfred as my command              |
+| 32:38      | Spotlight for me, I always have to think about it too, because I use [[Alfred]] as my command              |
 | 32:42      | space, you know, so I've got to go over to option space to get that going.                             |
 | 32:47      | I haven't used it a lot through the beta because frankly, I've got other ways to do this stuff.        |
 | 32:52      | But I do think, you know, this is kind of like a boon from bringing those apps over.                   |
@@ -651,7 +651,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 34:50      | And then it's going into documents.                                                                    |
 | 34:52      | So I'm going to have to go back in and fiddle with the settings or the system, well, it                |
 | 34:56      | is system settings now, isn't it, because they've changed the name of system preferences.              |
-| 35:00      | But yeah, so for anybody who had Spotlight disabled, because they've been using Alfred                 |
+| 35:00      | But yeah, so for anybody who had Spotlight disabled, because they've been using [[Alfred]]                 |
 | 35:05      | or something, and they want to go ahead and re-enable it, you'll need to look for the                  |
 | 35:10      | keyboard options in the new settings, system settings app.                                             |
 | 35:15      | And then you can actually re-enable it under keyboard shortcuts, which is quite good, and              |
@@ -695,13 +695,13 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 38:18      | when I like absurd rows, I can actually see your next birthday showing up here in my calendar          |
 | 38:24      | list and some other stuff.                                                                             |
 | 38:26      | So that's kind of nice, right?                                                                         |
-| 38:29      | And that's stuff that you don't traditionally get with something like Alfred.                          |
-| 38:33      | But then at the same time, it just doesn't have nearly the power of something like Alfred              |
+| 38:29      | And that's stuff that you don't traditionally get with something like [[Alfred]].                          |
+| 38:33      | But then at the same time, it just doesn't have nearly the power of something like [[Alfred]]              |
 | 38:36      | does.                                                                                                  |
 | 38:37      | So it's like, you got to figure it out.                                                                |
 | 38:38      | I, what I've chosen to do is just keep it as a separate, you know, keyboard shortcut.                  |
 | 38:44      | And there are certain things I use it for, but I still kind of be honest with you, I                   |
-| 38:49      | still prefer Alfred.                                                                                   |
+| 38:49      | still prefer [[Alfred]].                                                                                   |
 | 38:50      | I mean, as an automator, there's just so much more I can do with it.                                   |
 | 38:54      | Yes, exactly.                                                                                          |
 | 38:56      | And you know, it's just nice to have those, you know, same features regardless, even if                |

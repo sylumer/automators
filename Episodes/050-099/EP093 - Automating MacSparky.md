@@ -1070,7 +1070,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:01:35   | And it's working really well for me, especially when I added the shortcuts to start my podcasting      |
 | 01:01:41   | focus mode to my doc and I then removed it from my doc.                                                |
 | 01:01:44   | That meant that start podcasting focus mode is now an application in my personal user                  |
-| 01:01:49   | application folder, which means that I can run it through Alfred and Spotlight and Keyboard            |
+| 01:01:49   | application folder, which means that I can run it through [[Alfred]] and Spotlight and Keyboard            |
 | 01:01:54   | Maestro and Bunch.                                                                                     |
 | 01:01:56   | And it works really well.                                                                              |
 | 01:01:57   | What are the pluses and minuses of doing that in Bunch versus Keyboard Maestro for you?                |
@@ -1428,7 +1428,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:23:34   | it.                                                                                                    |
 | 01:23:35   | But one of the things I wanted to mention recently, [[Stephen Millard]], who's been on the show before,    |
 | 01:23:41   | he's been doing a lot of amazingly cool things recently.                                               |
-| 01:23:45   | So he's done an Alfred action or Alfred workflow to integrate with shortcuts.                          |
+| 01:23:45   | So he's done an [[Alfred]] action or [[Alfred]] workflow to integrate with shortcuts.                          |
 | 01:23:52   | More recently, he's done a Keyboard Maestro plug-in for Apple shortcuts, which allows                   |
 | 01:23:55   | you to run a shortcut in Keyboard Maestro.                                                              |
 | 01:23:59   | And it's brilliant.                                                                                    |

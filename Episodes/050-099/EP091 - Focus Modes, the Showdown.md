@@ -526,7 +526,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 30:49      | in your user's applications folder.                                                                     |
 | 30:51      | It does not put them in the global applications folder available to everyone.                           |
 | 30:54      | It's for your specific user, but that then makes that shortcut available to all of the                  |
-| 31:00      | other apps like Alfred, Bunch, and so on and so forth.                                                  |
+| 31:00      | other apps like [[Alfred]], Bunch, and so on and so forth.                                                  |
 | 31:04      | And this is a great way to add ways to trigger shortcuts to any of your automations on the              |
 | 31:11      | Mac because keep up my stroke and run these applications because they are essentially                   |
 | 31:15      | just saying, hey, I'm going to run a shortcut now, and that's it.                                       |
