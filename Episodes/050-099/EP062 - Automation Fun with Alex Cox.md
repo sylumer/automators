@@ -385,7 +385,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 33:52      | not necessarily the parentheses and the wiki link that you're dealing with, but everybody has this      |
 | 33:58      | thing where you write text and something has to change, or you have like, you routinely import          |
 | 34:04      | text, like a lot of times you bring text in from a spreadsheet or a website, and you've got to make     |
-| 34:10      | these changes to it. And there are apps out there like TextSoap that can help you. But if it's a        |
+| 34:10      | these changes to it. And there are apps out there like [[TextSoap]] that can help you. But if it's a        |
 | 34:16      | very particular kind of modification, doing it in [[Drafts]] makes a lot of sense. And I'm guessing         |
 | 34:23      | it took you a while to kind of tune that to get exactly what you wanted in terms of removing            |
 | 34:28      | parentheses and removing the Amazon colon. It didn't work the first time, right? Yeah, I mean,          |
