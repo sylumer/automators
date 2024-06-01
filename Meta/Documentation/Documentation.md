@@ -11,7 +11,7 @@ Here you will find links to useful *behind the scenes* information about the str
 - [[Sponsor Link Entry]] - How sponsor links are added and easily cross-reference to sponsor pages.
 - [[To Do]] - An automator's work is never done.
 - [[Vault Plugins]] - Obsidian plugins installed for use with this vault.
-- [[Vault Templates]] - Templater templates available in this vault.
+- [[Vault Templates]] - [[Templater]] templates available in this vault.
 
 In addition, there are a number of pages that provide useful meta data about the vault.
 

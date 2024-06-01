@@ -428,7 +428,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 17:03      | Yeah, yeah, it absolutely is.                                                                      |
 | 17:05      | You're kind of starting us down the rabbit hole of the automation plugins already, which is great. |
 | 17:11      | But I have to say, I started actually with the more advanced third-party one.                      |
-| 17:16      | We'll have to talk about Templater in a little bit.                                                |
+| 17:16      | We'll have to talk about [[Templater]] in a little bit.                                                |
 | 17:18      | For work I'm finding, a little of the time, I actually am fine with just the built-in templates.   |
 | 17:23      | I don't need super crazy custom things.                                                            |
 | 17:26      | And another trick that I have, which, you know, I'd like to sort of,                               |
@@ -1262,7 +1262,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 50:37      | Obsidian has built-in template support.                                                            |
 | 50:39      | The built-in template support is                                                                   |
 | 50:41      | excellent, it's robust, it's very simple, it works.                                                |
-| 50:43      | And then there's Templater,                                                                        |
+| 50:43      | And then there's [[Templater]],                                                                        |
 | 50:45      | which is a great plugin.                                                                           |
 | 50:47      | It's so good.                                                                                      |
 | 50:49      | And it allows you to create and use templates                                                      |
@@ -1276,7 +1276,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 51:05      | have like little snippets                                                                          |
 | 51:07      | type things which                                                                                  |
 | 51:09      | are blocks that I can embed in any                                                                 |
-| 51:11      | node with Templater                                                                                |
+| 51:11      | node with [[Templater]]                                                                                |
 | 51:13      | because that's something it can do.                                                                |
 | 51:15      | And it's great that somebody                                                                       |
 | 51:17      | started out with this and then they're                                                             |
