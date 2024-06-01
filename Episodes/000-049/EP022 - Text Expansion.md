@@ -82,7 +82,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 00:48      | to get this because it's a larger size                                                   |
 | 00:51      | embroidered 3D logo.                                                                     |
 | 00:53      | It's very nice.                                                                          |
-| 00:54      | If you got one of the Cortex hoodies,                                                    |
+| 00:54      | If you got one of the [[Cortex]] hoodies,                                                    |
 | 00:56      | it's like that.                                                                          |
 | 00:57      | It looks really great.                                                                   |
 | 00:59      | We'll put some pictures and links in the show notes                                      |

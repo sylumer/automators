@@ -731,9 +731,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:14:37   | like for context stuff, sometimes virtual reality could be better if it's done with these high-quality  |
 | 01:14:44   | screens. And Apple's not talking about that, because I feel like they don't really want to              |
 | 01:14:47   | talk about virtual reality. I feel like they did talk about it. And for anybody who hasn't listened     |
-| 01:14:52   | to that Cortex episode, all about Vision OS and the new Vision Pro that's going to come out,            |
+| 01:14:52   | to that [[Cortex]] episode, all about Vision OS and the new Vision Pro that's going to come out,            |
 | 01:15:00   | because Mike got to actually try one at WWDC. If you haven't listened to that, folks,                   |
-| 01:15:05   | please do go listen to that, because Cortex is amazing. And B, because Mike does a really great         |
+| 01:15:05   | please do go listen to that, because [[Cortex]] is amazing. And B, because Mike does a really great         |
 | 01:15:09   | job of walking you through exactly what his experience was like. But the digital crown                  |
 | 01:15:14   | on the side of the Vision Pro, that you can turn it and you can adjust how much reality                 |
 | 01:15:22   | is in your vision. So if somebody walks in, they're still going to appear and come, like,               |

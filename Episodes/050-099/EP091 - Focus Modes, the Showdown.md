@@ -1357,7 +1357,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:24:16   | friendly because they're automating things, you know, like it would be so difficult to                  |
 | 01:24:21   | go in and change notification settings every time you go from working on your day job to,               |
 | 01:24:27   | you know, wanting to be, you know, a gamer or going to ballet, right?                                   |
-| 01:24:31   | Yeah. I heard Gray talking about this very problem on Cortex a while ago, and then focus                |
+| 01:24:31   | Yeah. I heard Gray talking about this very problem on [[Cortex]] a while ago, and then focus                |
 | 01:24:37   | modes came along and that pretty much solved the problem for him. And I feel, you know,                 |
 | 01:24:42   | a lot of us can do with without certain notifications at certain times of day. So it's great that       |
 | 01:24:48   | we now have this as an option. And also that they built so much automation into the focus               |

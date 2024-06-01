@@ -385,7 +385,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 11:33      | play [[Free Agents]] or play [[Mac Power Users]]                                                 |
 | 11:36      | or play [[Cortex]] because those are some of the podcasts                                    |
 | 11:38      | they listen to most frequently                                                           |
-| 11:40      | or in Cortex's case, try to listen to most frequently.                                   |
+| 11:40      | or in [[Cortex\|Cortex's]] case, try to listen to most frequently.                                   |
 | 11:43      | Yeah, no, it's great.                                                                    |
 | 11:45      | And yeah, so I don't know.                                                               |
 | 11:47      | It's like very exciting times.                                                           |

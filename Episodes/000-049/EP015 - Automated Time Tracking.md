@@ -129,7 +129,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 03:06      | and that ends up being right                                                    |
 | 03:07      | because there's a requirements change halfway along.                            |
 | 03:09      | And that's why knowing how long this stuff takes is good,                       |
-| 03:12      | because I really got into the idea of time tracking from Cortex,                |
+| 03:12      | because I really got into the idea of time tracking from [[Cortex]],                |
 | 03:17      | which I'm sure many of our listeners also listen to.                            |
 | 03:20      | And it was a thing where Mike said that he was surprised                        |
 | 03:25      | how long he was spending doing things,                                          |
@@ -853,7 +853,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 32:59      | and it's a little bit off the outline scope,                                    |
 | 33:01      | but just how do you use the data once you have it?                              |
 | 33:05      | Well, for me, the biggest thing is I make,                                      |
-| 33:09      | I've been following Cortex for quite a while                                    |
+| 33:09      | I've been following [[Cortex]] for quite a while                                    |
 | 33:12      | as people may have guessed, and I do these yearly themes.                       |
 | 33:15      | And I then break these down,                                                    |
 | 33:17      | and this year I'm trying the 12-week year,                                      |
@@ -1161,7 +1161,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 45:04      | but guess what?                                                                 |
 | 45:05      | I spent 45 minutes on Reddit instead,                                           |
 | 45:08      | which I would note 15 minutes of force preparation                              |
-| 45:11      | for the show, Cortex subreddit.                                                 |
+| 45:11      | for the show, [[Cortex]] subreddit.                                                 |
 | 45:13      | But then I got sucked down a rabbit hole and guess what?                        |
 | 45:15      | There you go.                                                                   |
 | 45:16      | I ended up wasting some time.                                                   |

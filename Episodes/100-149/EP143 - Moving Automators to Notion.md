@@ -194,10 +194,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 08:49      | You can have a record in Notion that itself is a document with a whole bunch of text in              |
 | 08:53      | it.                                                                                                  |
 | 08:54      | And, you know, we were both sort of thinking that there would be ways to improve this system.        |
-| 08:59      | And I don't know about you, David, but I heard on Cortex it may have been more text                  |
+| 08:59      | And I don't know about you, David, but I heard on [[Cortex]] it may have been more text                  |
 | 09:04      | actually about Mike's assistant just putting everything into Notion and just having it               |
 | 09:11      | all in Notion and Gray's assistant then did the same thing to Gray.                                  |
-| 09:15      | And I was like, huh, you know, if these two can put Cortex into Notion, I feel like we               |
+| 09:15      | And I was like, huh, you know, if these two can put [[Cortex]] into Notion, I feel like we               |
 | 09:22      | should try it with automators and see what automation spin we can put on it.                         |
 | 09:26      | And so far I'm feeling like we've been pretty successful with this.                                  |
 | 09:31      | But obviously, you know, I have a perhaps different perspective because I set up the                 |

@@ -343,7 +343,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 19:55      | it's because I've done this so many times, I've made so many different shortcut actions              |
 | 20:00      | that it's not really hard for me to do it, but it's just a matter of doing it, I think,              |
 | 20:09      | and just having that functionality available for anybody to use it.                                  |
-| 20:15      | That makes a lot of sense, and clearly, you've been listening to things like Cortex and so           |
+| 20:15      | That makes a lot of sense, and clearly, you've been listening to things like [[Cortex]] and so           |
 | 20:20      | on over time, because you have the basic things that you might want, like starting a timer           |
 | 20:26      | and stopping timers and things like that, but there's also things like updating time                 |
 | 20:31      | entries, starting live activities, because you may actually want this timer on your home             |

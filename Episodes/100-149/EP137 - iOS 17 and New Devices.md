@@ -584,7 +584,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 48:49      | could record a piece of audio and you could have it do an automatic transcription and then you would     |
 | 48:55      | have both. So if the automatic transcription was imperfect, these things never are, then you would       |
 | 49:01      | still have the audio so you could go back and listen to the words and go, oh, okay, I know what          |
-| 49:06      | this meant. It's like the Cortex brand sidekick or sidekick notepad, right, where the transcription      |
+| 49:06      | this meant. It's like the [[Cortex]] brand sidekick or sidekick notepad, right, where the transcription      |
 | 49:16      | was getting it wrong. But what you can do with voice memos, of course, is you can select a recording     |
 | 49:22      | and get that. Now, one of the things I have struggled with a little bit is the fact that                 |
 | 49:27      | you can't just get your latest recording, and so you have to stop the recording using                    |

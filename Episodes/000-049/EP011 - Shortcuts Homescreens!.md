@@ -68,7 +68,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 00:32      | Yeah.                                                                                                |
 | 00:33      | So, today, we're going to talk about making a shortcut home screen, which I'm sure some              |
 | 00:38      | of our listeners have heard of, because I'm pretty certain there's a decent crossover                |
-| 00:41      | between automators listeners and cortex listeners, because as CGP Grey on Cortex actually suggested  |
+| 00:41      | between automators listeners and cortex listeners, because as CGP Gray on [[Cortex]] actually suggested  |
 | 00:48      | this, and the internet seems to have gone crazy over turning your home screen into just              |
 | 00:54      | shortcuts.                                                                                           |
 | 00:55      | Yeah.                                                                                                |
@@ -78,7 +78,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 01:06      | I have all of these shortcuts for OmniFocus templates, you know, I've got like 30 of them,           |
 | 01:13      | and so I made a shortcut that gives me a menu that I can pick from.                                  |
 | 01:17      | But for some reason, my brain didn't go up with the idea of say, why don't you round                 |
-| 01:21      | that up another level and put it on your home screen, and that's what Grey did.                      |
+| 01:21      | that up another level and put it on your home screen, and that's what Gray did.                      |
 | 01:25      | And I thought it was really smart when he did it, I got so excited, I even made a little             |
 | 01:28      | screencast, I'll put it in the show notes for this one, just after like a day of experimenting       |
 | 01:33      | of my original take on it, although it's changed since then.                                         |
@@ -94,7 +94,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 02:11      | can save a shortcut as a home screen icon, or as a, as basically it looks like an app,               |
 | 02:19      | you know, it puts an icon, it's got a bunch of glyphs you can choose from, you can pick              |
 | 02:23      | a background colour, you can even import your own custom image to be the icon.                       |
-| 02:29      | So in essence, you can turn a Siri shortcut into an app button, and the idea Grey had                |
+| 02:29      | So in essence, you can turn a Siri shortcut into an app button, and the idea Gray had                |
 | 02:35      | was what if I did that, and instead of just running a single shortcut, I put a menu of               |
 | 02:40      | shortcuts in there, and actually the way we're going to talk about it today, it's not just           |
 | 02:44      | shortcuts, we're talking about running from these things.                                            |
@@ -189,7 +189,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 07:50      | And Thanksgiving, as we record this, is just a couple days away.                                     |
 | 07:53      | So now I think I'm going to be a hero on Thanksgiving.                                               |
 | 07:55      | There we go.                                                                                         |
-| 07:57      | One of the things that occurred to me when I first heard Grey talking about this was                 |
+| 07:57      | One of the things that occurred to me when I first heard Gray talking about this was                 |
 | 08:01      | contextualising work, and I'm going to go into detail in this episode about what I mean              |
 | 08:06      | by this.                                                                                             |
 | 08:07      | I'm going to share the ones I've created, but I love the idea of having a single button              |
@@ -1019,7 +1019,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 55:58      | No, we have.                                                                                         |
 | 55:59      | It's been something I've been playing with for quite a while and I'm really enjoying                 |
 | 56:01      | it.                                                                                                  |
-| 56:02      | Yeah, my thanks to Grey for kind of leaving, blazing the trail here.                                 |
+| 56:02      | Yeah, my thanks to Gray for kind of leaving, blazing the trail here.                                 |
 | 56:06      | Yes.                                                                                                 |
 | 56:07      | And we did ask him, unfortunately, he wasn't able to be on today's show, but and he did              |
 | 56:12      | send me a comment that he wanted to include, which is shortcut launches to launch shortcuts          |

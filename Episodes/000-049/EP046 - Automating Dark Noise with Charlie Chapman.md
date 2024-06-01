@@ -343,7 +343,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 18:21      | of 100% automating them.                                                                                  |
 | 18:23      | Now, Charlie, were you ever a workflow user or did you find shortcuts after Apple acquired                |
 | 18:27      | workflow?                                                                                                 |
-| 18:29      | So as a Cortex listener, I had been taught the praises of workflow for a long time, but                   |
+| 18:29      | So as a [[Cortex]] listener, I had been taught the praises of workflow for a long time, but                   |
 | 18:36      | I had never bitten the bullet and actually jumped into it until right after Apple bought                  |
 | 18:40      | them and then they made it free.                                                                          |
 | 18:41      | And I was like, Oh, maybe I'll dip my toes in the water.                                                  |
