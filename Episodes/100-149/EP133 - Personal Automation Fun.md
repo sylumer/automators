@@ -134,9 +134,9 @@ Rose and David share a collection of their favourite personal automations rangin
 | 04:59      | It's really not, especially PushCut wants to do things properly.                                       |
 | 05:03      | There's no dodgy hacking around to get everything working.                                             |
 | 05:07      | And the brilliance of it coming to the Mac is, if your Mac is already running 24-7 or                  |
-| 05:12      | pretty much running 24-7, for example, to run Keyboard Maestro Mac cars and deal with                  |
+| 05:12      | pretty much running 24-7, for example, to run Keyboard Maestro macros and deal with                  |
 | 05:16      | [[Hazel]] rules and things like that, well, it's already there.                                            |
-| 05:20      | It's got shortcuts.                                                                                    |
+| 05:20      | It's got [[Shortcuts]].                                                                                    |
 | 05:21      | The vast majority of apps that have shortcut support on iOS have them on Mac OS now.                   |
 | 05:26      | There are naturally some exceptions to that, Safari and so on.                                         |
 | 05:30      | But this means that then your Mac that's always on anyway can also run PushCut.                        |
