@@ -1074,7 +1074,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 53:00      | thing I could spend a month on.                                                                               |
 | 53:01      | And I don't want to do that.                                                                                  |
 | 53:03      | BetterTouchTool was like a fairly intuitive way to do things I wanted to like.                              |
-| 53:08      | So for example, here on my DOS keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
+| 53:08      | So for example, here on my Das keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
 | 53:14      | opens Drafts, 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
 | 53:20      | And I just wanted some really simple bonehead things like that.                                               |
 | 53:23      | When I ill-advisedly too early purchased the 2019 MacBook Pro, really wish I'd waited a                       |
