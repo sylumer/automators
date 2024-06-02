@@ -1030,7 +1030,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:03:06   | like a lot of my [[PushCut]] automation server stuff requires [[Drafts]].                                                                                 |
 | 01:03:09   | Okay.                                                                                                                                                     |
 | 01:03:10   | And these are using [[Drafts]] actions.                                                                                                                   |
-| 01:03:12   | They're not [[URL Schemes\|URL scheme]]s, they're [[Drafts]] actions.                                                                                     |
+| 01:03:12   | They're not [[URL Schemes]], they're [[Drafts]] actions.                                                                                     |
 | 01:03:16   | Now I'm wondering, am I going to be able to install [[Drafts]] for iOS as well as [[Drafts]]                                                              |
 | 01:03:21   | for Mac or is [[Drafts]] for Mac going to be able to pick up those intents?                                                                               |
 | 01:03:26   | Because one of the things that we did see with the changes to [[SwiftUI]] is they added                                                                   |

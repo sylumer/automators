@@ -640,8 +640,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 23:59      | of the start time and the event name                              |
 | 24:02      | of every event for the day                                        |
 | 24:03      | and I run that shortcut every morning                             |
-| 24:05      | and I drop it in Obsidian                                         |
-| 24:08      | because I kind of keep a daily note in Obsidian                   |
+| 24:05      | and I drop it in [[Obsidian]]                                         |
+| 24:08      | because I kind of keep a daily note in [[Obsidian]]                   |
 | 24:11      | that shows what's the plan for the day.                           |
 | 24:13      | And so I see what my plan was when the day starts                 |
 | 24:16      | then as I go through the day,                                     |
@@ -988,7 +988,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 38:07      | automation appearing in all the places.                           |
 | 38:09      | You know, as I mentioned before,                                  |
 | 38:10      | [[Notion]] added an API because of user demand.                       |
-| 38:13      | Obsidian has things like data view and, you know,                 |
+| 38:13      | [[Obsidian]] has things like data view and, you know,                 |
 | 38:18      | custom JS as options and you can just write plugins for it        |
 | 38:22      | because users want that.                                          |
 | 38:25      | And I'm sure some of these plugins were created                   |

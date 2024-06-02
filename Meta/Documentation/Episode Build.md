@@ -188,7 +188,7 @@ The episode number is placed on the clipboard for the next step.
 ## Build Automators Episode Content
 **Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]].
 
-The episode content build macro in [[Keyboard Maestro]] does a lot of the work and all of the orchestration to build the Obsidian file containing the base information for the episode. It relies on the VTT file discussed in the previous step having been generated and being selected in [[Path Finder]].  With the transcription file available, the macro will then set about gathering the additional information for the episode, and put the content into a file in the Obsidian vault.
+The episode content build macro in [[Keyboard Maestro]] does a lot of the work and all of the orchestration to build the [[Obsidian]] file containing the base information for the episode. It relies on the VTT file discussed in the previous step having been generated and being selected in [[Path Finder]].  With the transcription file available, the macro will then set about gathering the additional information for the episode, and put the content into a file in the [[Obsidian]] vault.
 
 ```mermaid
 flowchart TD
@@ -337,7 +337,7 @@ flowchart TD
 **Automation Tools:** [[Keyboard Maestro]], [[Python]] Script.
 
 ### Keyboard Maestro Macro
-The process of transforming the output of the transcription into a prettier format for Obsidian is accomplished through the use of a [[Keyboard Maestro]] macro. Selecting the VTT file in Path Finder and running the macro places a reformatted Markdown table version of the transcription on the clipboard. Note that this relates back to the earlier selection of the VTT file to determine the episode number.
+The process of transforming the output of the transcription into a prettier format for [[Obsidian]] is accomplished through the use of a [[Keyboard Maestro]] macro. Selecting the VTT file in Path Finder and running the macro places a reformatted Markdown table version of the transcription on the clipboard. Note that this relates back to the earlier selection of the VTT file to determine the episode number.
 ```mermaid
 flowchart TD
 	START([Start])

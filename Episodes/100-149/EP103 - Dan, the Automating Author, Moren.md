@@ -1043,7 +1043,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:01:48   | audio hijack one. Oh my gosh, how did I not think about that? That's because it didn't exist when      |
 | 01:01:52   | you built it. Yeah, that too. So my day job is writing PHP and JavaScript. The project that I          |
 | 01:02:00   | work on at work is a Laravel application with a React front end. So JavaScript to me is not a          |
-| 01:02:07   | problem facing with [[AppleScript]]s. I hate JavaScript. Well, you come to me with Apple                  |
+| 01:02:07   | problem facing with [[AppleScript\|AppleScripts]]. I hate JavaScript. Well, you come to me with Apple                  |
 | 01:02:14   | Script and I'm like, oh, maybe not. But at the very least, there's plenty of options out there.        |
 | 01:02:22   | This is what I love about things like this is there's so many different ways to solve this             |
 | 01:02:26   | problem. And also just to highlight that, you were talking about Epoch and Unix Time.                  |

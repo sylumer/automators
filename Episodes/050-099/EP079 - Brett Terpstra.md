@@ -604,7 +604,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 31:40      | One of the things you've done in this, and as soon as I saw it in there, Mike, of course             |
 | 31:42      | spread out of this, it's some thorough support for URL callbacks.                                    |
 | 31:47      | And I use those so much on my Mac because, you know, OmniFocus projects are URL callbacks            |
-| 31:54      | for me, Obsidian pages or URL callbacks.                                                             |
+| 31:54      | for me, [[Obsidian]] pages or URL callbacks.                                                             |
 | 31:57      | So I've got them sprinkled all over my system and you can embed them in a bunch.                     |
 | 32:02      | So if you want to make a bunch to do one specific project, you can get to all of the pages or        |
 | 32:09      | app locations you need out of your bunch, which is really nice.                                      |
@@ -627,7 +627,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 33:14      | Yeah.                                                                                                |
 | 33:15      | I mean, it's just to have a very unique user experience.                                             |
 | 33:18      | In fact, you could do this before you made my Latin plug-in if you wanted is like, I'd               |
-| 33:24      | like you to look at my Kanban page in Obsidian and just show me everything that's an active          |
+| 33:24      | like you to look at my Kanban page in [[Obsidian]] and just show me everything that's an active          |
 | 33:29      | project and populate that and then I could just trigger a bunch and say, okay, I'm going             |
 | 33:34      | to go work on the Smith contract now or I'm going to go work on it.                                  |
 | 33:37      | Is there a way to get that data as it's a markdown file on your drive?                               |
@@ -665,7 +665,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 35:37      | I mean, Keyboard Master is still amazing app, but I still use it all the time, but I feel            |
 | 35:40      | like this might be a more efficient way for me to handle the setup issue.                            |
 | 35:45      | And I don't even need to pass a variable to Bunch.                                                   |
-| 35:48      | I just need to like, because for me kind of mission control for me is Obsidian.                      |
+| 35:48      | I just need to like, because for me kind of mission control for me is [[Obsidian]].                      |
 | 35:53      | Every project I have as a page in there with a bunch of links in it, like I've got to link           |
 | 35:57      | to OmniFocus or I've got to link to the relevant files using hook, but I could have an entry         |
 | 36:02      | in there for a bunch too and I just click it and it sets my desktop for that project,                |
@@ -677,7 +677,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 36:22      | And that would sound like a lot of work, but it's not because if it's templated, like                |
 | 36:27      | all my legal projects have the same setup, but I'm just changing the locations, making               |
 | 36:32      | a bunch of bunches, I guess that's what you call it.                                                 |
-| 36:36      | In many, several bunches for the specific active projects would allow me to be an Obsidian           |
+| 36:36      | In many, several bunches for the specific active projects would allow me to be an [[Obsidian]]           |
 | 36:43      | and literally make my computer jump into that project with one click and that to me is very          |
 | 36:49      | exciting.                                                                                            |
 | 36:50      | Yeah.                                                                                                |
@@ -1209,7 +1209,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:09:59   | It's true.                                                                                           |
 | 01:10:01   | I mean, there are worse things to run out of.                                                        |
 | 01:10:03   | You'll be proud of me, Brett.                                                                        |
-| 01:10:04   | I've been doing a lot of Vim lately, because I'm really sold on Obsidian.                            |
+| 01:10:04   | I've been doing a lot of Vim lately, because I'm really sold on [[Obsidian]].                            |
 | 01:10:08   | I'm doing so much work in it that they have a Vim mode I've enabled.                                 |
 | 01:10:12   | And I get it.                                                                                        |
 | 01:10:13   | I can see how this is faster.                                                                        |

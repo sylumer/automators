@@ -547,18 +547,18 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 31:45      | That's it.                                                                                               |
 | 31:46      | Yeah.                                                                                                    |
 | 31:47      | Another way to use those groups is app-specific groups.                                                  |
-| 31:50      | So like, for instance, Obsidian is one I've been doing a lot of [[Keyboard Maestro]] working                |
+| 31:50      | So like, for instance, [[Obsidian]] is one I've been doing a lot of [[Keyboard Maestro]] working                |
 | 31:55      | lately and I have a group and I prefaced all app ones.                                                   |
 | 32:00      | It's an app colon and then the name of the app.                                                          |
 | 32:03      | And then you can click when you select that group.                                                       |
 | 32:08      | And this is not part of the new update.                                                                  |
 | 32:10      | This has been there for a long time, but when you select that group, then you can select                 |
 | 32:15      | that this is only available in certain applications.                                                     |
-| 32:19      | So the Obsidian group macros are only available in the Obsidian application.                             |
+| 32:19      | So the [[Obsidian]] group macros are only available in the [[Obsidian]] application.                             |
 | 32:25      | And what that does is it allows me to use very simple keyboard shortcuts that would normally,            |
-| 32:32      | you don't want to use up, like Ctrl L to me gets a copy of the Obsidian URL when I'm                     |
-| 32:39      | in Obsidian because it's only going to work.                                                             |
-| 32:42      | That Ctrl L is only going to work to run that command when I'm in Obsidian.                              |
+| 32:32      | you don't want to use up, like Ctrl L to me gets a copy of the [[Obsidian]] URL when I'm                     |
+| 32:39      | in [[Obsidian]] because it's only going to work.                                                             |
+| 32:42      | That Ctrl L is only going to work to run that command when I'm in [[Obsidian]].                              |
 | 32:47      | When I go over to OmniFocus or Fantastical or whatever or Apple Mail, it's going to use                   |
 | 32:53      | it.                                                                                                      |
 | 32:54      | Ctrl L maybe do something entirely different.                                                            |
@@ -674,7 +674,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 41:15      | So, David, I thought it would be quite fun if we shared with some of the listeners some                  |
 | 41:19      | of the other triggers that we're using and then what actually happens when we use those                  |
 | 41:25      | triggers.                                                                                                |
-| 41:26      | Because I know that you mentioned before like you're using Control L and Obsidian to make                |
+| 41:26      | Because I know that you mentioned before like you're using Control L and [[Obsidian]] to make                |
 | 41:31      | certain things happen.                                                                                   |
 | 41:33      | And I'm using Command C. When I'm in one particular air table, there's something that when I             |
 | 41:38      | copy it, I wanted actually to end up being reformatted.                                                  |
@@ -1094,7 +1094,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:08:30   | And you would think, okay, that it's what, it just filters things, but you can change                    |
 | 01:08:36   | text or calculations or files to all sorts of things, and you can actually change the                    |
 | 01:08:44   | capitalisation of stuff.                                                                                 |
-| 01:08:47   | And you can also pad numbers, HTML encode, HTML decode, get [[URL Schemes\|URL scheme]]s of things, trim                  |
+| 01:08:47   | And you can also pad numbers, HTML encode, HTML decode, get [[URL Schemes]] of things, trim                  |
 | 01:08:54   | white space, so get rid of unnecessary spaces and returns at the start and the end of something,         |
 | 01:09:00   | wrap it in something, or unwrap, and sort lines, reverse the sort, zap control characters,               |
 | 01:09:07   | et cetera.                                                                                               |
@@ -1117,7 +1117,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:10:33   | there's other ways to do this stuff, but I've got it all attached to this one keyboard shortcut,         |
 | 01:10:38   | and then occasionally I come up with really weird ones, like I have one called "deobsidify",              |
 | 01:10:44   | and what that does is it removes all the square brackets, so if I've got some text that I've             |
-| 01:10:48   | had Obsidian in and had a bunch of links in it, I can remove all those when I'm pasting                  |
+| 01:10:48   | had [[Obsidian]] in and had a bunch of links in it, I can remove all those when I'm pasting                  |
 | 01:10:53   | it somewhere else with the same, with a filter applied in the system clipboard, you know,                |
 | 01:11:00   | and that's actually using search and replace system clipboard using a string, that's a                   |
 | 01:11:04   | little bit of a different command than filter, but it works the same way, and I put it with              |
@@ -1335,14 +1335,14 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:31:19   | if command doesn't use a switch because it's just one option. And it has two different sets of text      |
 | 01:31:25   | it creates, you know, one with the clipboard attached and one without. And then, you know,               |
 | 01:31:30   | then it sets the tag based on whatever I selected. And it creates this text that then it saves as a      |
-| 01:31:37   | markdown file and saves to my Obsidian folder where I have content ideas. So it's not a super            |
+| 01:31:37   | markdown file and saves to my [[Obsidian]] folder where I have content ideas. So it's not a super            |
 | 01:31:43   | complicated script. And I shared this in the Max Berkeley labs, if people labs have already seen         |
 | 01:31:48   | this. But, you know, the idea is I hit this so option command, control mx, and then I type in            |
 | 01:31:56   | the content ID and hit return. And then I've saved it for future consideration. And it came out good.    |
 | 01:32:01   | You know, it wasn't, like I said, the super complicated automation problem, but it did need              |
 | 01:32:05   | automation because I didn't want to have to stop and like put all that together every time I did it.     |
-| 01:32:11   | Yeah. In the text file, I have [[YAML]] data, which is kind of going deep catalogue here in Obsidian. But      |
-| 01:32:17   | so there's additional tags and ways I can filter and Obsidian based on that stuff that's                 |
+| 01:32:11   | Yeah. In the text file, I have [[YAML]] data, which is kind of going deep catalogue here in [[Obsidian]]. But      |
+| 01:32:17   | so there's additional tags and ways I can filter and [[Obsidian]] based on that stuff that's                 |
 | 01:32:23   | automatically added. So I solved the problem on the Mac first, because that's where I spend most         |
 | 01:32:28   | of my time working. But then I wanted to solve it on the iPhone. Right. So shortcuts? Shortcuts.         |
 | 01:32:33   | Drafts. No, I could have done it with Drafts, but I wanted to do it with shortcuts because there         |
@@ -1352,12 +1352,12 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:32:58   | I could just add this right to the top of that list. And there's a little lightning bolt in my           |
 | 01:33:03   | dock on my phone. So I tap that and very top button is new content idea. And it does the same            |
 | 01:33:08   | thing. It'll grab the clipboard and allow me to tell it if it is a planning or active. And it            |
-| 01:33:14   | creates it and it saves it locally to the Obsidian folder. In fact, I checked that over with you         |
+| 01:33:14   | creates it and it saves it locally to the [[Obsidian]] folder. In fact, I checked that over with you         |
 | 01:33:23   | when I was doing it. Rose is my official shortcut proofreader, I guess you'd say. But you can do         |
 | 01:33:31   | that. It's funny because with shortcuts, when you go to save a file, it really wants to put it in        |
 | 01:33:37   | the short box, sandbox, right? Yeah. And they don't make it obvious, but you hit the replace button      |
 | 01:33:43   | and then you can put it locally on your drive and you have to approve it the first time you run it.      |
-| 01:33:47   | But because I use Obsidian with the Obsidian sink engine, I'm saving the Obsidian files                  |
+| 01:33:47   | But because I use [[Obsidian]] with the [[Obsidian]] sink engine, I'm saving the [[Obsidian]] files                  |
 | 01:33:53   | locally on my phone. It does effectively the same thing via shortcuts. Yeah, it is great                 |
 | 01:34:00   | that we can do that. And it is not very intuitive that you can change that folder                        |
 | 01:34:05   | to anything else. Because you tap on it and you have to then go back up a level or a couple of           |
@@ -1367,7 +1367,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:34:30   | you shared it with me a little bit, David. And I've been using it and I'm enjoying it. It's              |
 | 01:34:35   | useful. And I've got it putting things into various different places, mostly [[Drafts]] with                 |
 | 01:34:40   | different tags. But it's great to do that. I think someday we'll do an automated show                    |
-| 01:34:45   | on Obsidian because there's some really excellent plugins in Obsidian. One of them is called Data        |
+| 01:34:45   | on [[Obsidian]] because there's some really excellent plugins in [[Obsidian]]. One of them is called Data        |
 | 01:34:51   | View. And with Data View, you can say, give me a list of all notes that are tagged with content,         |
 | 01:34:59   | the MacSparky and Active. And then that Active list, where I tag them Active, I can get a list          |
 | 01:35:06   | of the five that are active for me. And then I can click that and go straight to the idea.               |

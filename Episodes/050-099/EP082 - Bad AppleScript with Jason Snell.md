@@ -441,7 +441,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 18:22      | and then I realised I actually need to send an email                                                             |
 | 18:25      | every time this task comes up in OmniFocus.                                                                      |
 | 18:27      | And it's like, okay, so I need to send emails like,                                                              |
-| 18:30      | hang on a minute, [[URL Schemes\|URL scheme]]s or mail to link.                                                                   |
+| 18:30      | hang on a minute, [[URL Schemes]] or mail to link.                                                                   |
 | 18:33      | I can do that.                                                                                                   |
 | 18:34      | So make it one tap.                                                                                              |
 | 18:35      | It opens the email and bam, done.                                                                                |
@@ -602,7 +602,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 26:53      | So there's non-scripting things that that's just a nice Mac utility.                                             |
 | 26:57      | And then I'll throw out two other things that I've been doing.                                                   |
 | 27:00      | One of them is just straight-up [[AppleScript]].                                                                    |
-| 27:04      | I have some just straight-up [[AppleScript]]s that are great that I use all the time.                               |
+| 27:04      | I have some just straight-up [[AppleScript\|AppleScripts]] that are great that I use all the time.                               |
 | 27:07      | I have one for building.                                                                                         |
 | 27:10      | I do a lot of podcasts, as you said, and I built a system where I've got a folder                                |
 | 27:16      | that is full of zip files of basically templates of my podcasts.                                                 |

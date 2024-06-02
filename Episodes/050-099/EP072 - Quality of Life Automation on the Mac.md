@@ -154,7 +154,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 06:39      | and come to back that back to that in a minute. But for, you know, the bigger screens, like              |
 | 06:43      | I generally like one of the things that occurred to me is I generally want that centre space             |
 | 06:49      | as a workspace. Like that's where I've got the big Safari window or the big Microsoft                    |
-| 06:54      | word or pages or Obsidian or whatever I'm working on. One of the advantages of the six                   |
+| 06:54      | word or pages or [[Obsidian]] or whatever I'm working on. One of the advantages of the six                   |
 | 06:59      | game monitor is I can actually split that centre space where I have like the top, maybe                  |
 | 07:05      | 25% for some sort of reference in the bottom 75% for the big thing I'm working on and it's               |
 | 07:12      | still fine, you know, because there's just so much space on this monitor. But I like                     |
@@ -284,10 +284,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 17:41      | reference, it goes over to the left. When I'm working on it, it goes to the centre and                   |
 | 17:46      | all this stuff happens really without me thinking about it actively anymore. My fingers just             |
 | 17:52      | go to the keyboard and you know, the windows zip around the screen. Another example is                   |
-| 17:59      | like I usually keep Obsidian in the top like quarter of the centre screen because it's                   |
+| 17:59      | like I usually keep [[Obsidian]] in the top like quarter of the centre screen because it's                   |
 | 18:04      | usually referenced for me. And then I'm doing the active work, whether it be in Safari or                |
 | 18:10      | a word processor or whatever, and the bottom three quarters of the centre screen. But sometimes          |
-| 18:17      | I want to then like dig into Obsidian and do some real research through it. Then I just                  |
+| 18:17      | I want to then like dig into [[Obsidian]] and do some real research through it. Then I just                  |
 | 18:22      | push a keyboard shortcut and it takes over the bottom centre. So as I go through my day,                 |
 | 18:27      | I can easily move these things around the screen using the Moom shortcuts. And the real trick            |
 | 18:34      | for it was the idea that, okay, I'm not going to have equal size squares. I'm going to have              |
@@ -755,18 +755,18 @@ Rose and David explain many little automations that can improve your quality of 
 | 59:14      | can have your automation process on either computer takeover or maybe in this case intentionally         |
 | 59:21      | on one computer because he doesn't have the big account. And it's really that stuff is not that          |
 | 59:27      | hard to put together. Another little like quality of life thing for me is I'm, you know, I'm big on      |
-| 59:36      | Obsidian lately. And they're going to have a mobile app, but it's not out yet. And a lot of times I      |
-| 59:42      | write things in [[Drafts]] that I want to put into a specific place in Obsidian. And I was looking at        |
+| 59:36      | [[Obsidian]] lately. And they're going to have a mobile app, but it's not out yet. And a lot of times I      |
+| 59:42      | write things in [[Drafts]] that I want to put into a specific place in [[Obsidian]]. And I was looking at        |
 | 59:48      | all sorts of ways to do that, you know, because I'm an automated right, you know, can I make it so I     |
-| 59:53      | write directly into the Obsidian vault, but I'm using their end-to-end encrypted libraries that          |
+| 59:53      | write directly into the [[Obsidian]] vault, but I'm using their end-to-end encrypted libraries that          |
 | 59:57      | doesn't really work. But I do have the file system available on my Mac. And but I'm writing these        |
 | 01:00:03   | notes on the iPhone. You know, like just literally right before we start recording a day, a client       |
-| 01:00:08   | called me and had a couple of questions and I wanted to record that call into an Obsidian note.          |
+| 01:00:08   | called me and had a couple of questions and I wanted to record that call into an [[Obsidian]] note.          |
 | 01:00:15   | So I quickly dictated it and I made a [[Drafts]] action that saves it to a very particular folder            |
 | 01:00:22   | in Dropbox. And the reason I use Dropbox for this one is because you can address individual              |
 | 01:00:27   | folders in Dropbox where with the iCloud you can't. So back on my Mac, [[Hazel]]'s looking at that folder    |
 | 01:00:34   | and one of them is, you know, client communication notes, whatever, blah, blah, blah. But it sees a      |
-| 01:00:39   | new file appeared there and it just drops it right into Obsidian in the right place. So,                 |
+| 01:00:39   | new file appeared there and it just drops it right into [[Obsidian]] in the right place. So,                 |
 | 01:00:46   | you know, I can go to my Mac and everything is already there and I didn't have to spend a                |
 | 01:00:50   | bunch of time moving files around. So just like little quality of life things. Yeah.                     |
 | 01:00:55   | Yeah, I actually have a folder in Dropbox called automated actions, David. And this has a series         |
@@ -956,7 +956,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:17:49   | it's really a web service. It's not an app. Their app is, I think it's an electron piece of garbage.     |
 | 01:17:56   | And their app is slow and just, it's not worth it. So when I do this stuff, I always do it on            |
 | 01:18:03   | their website. But there's a whole process I got to go through. Like, I've written it in [[Drafts]]         |
-| 01:18:08   | or Obsidian. I've written it somewhere. And then I want to run it through Grammarly. So I found          |
+| 01:18:08   | or [[Obsidian]]. I've written it somewhere. And then I want to run it through Grammarly. So I found          |
 | 01:18:14   | myself doing the same thing every time, you know, select, copy, you know, open up a website, paste,      |
 | 01:18:20   | you know. So I put all that into a [[Keyboard Maestro]] script. The only tricky thing about it was,          |
 | 01:18:26   | to assemble it was very easy, you know, Command A selects all the text. Command C copies the text.       |

@@ -121,7 +121,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 03:53      | Number one, it gives you direct access to things like you can launch into a specific                 |
 | 03:59      | OmniFocus perspective.                                                                               |
 | 04:01      | I have one that has got a list of all the things I do on OmniFocus, like the specific                |
-| 04:07      | perspectives, the review, because I can also use URLs, you know, [[URL Schemes\|URL scheme]]s in this.                |
+| 04:07      | perspectives, the review, because I can also use URLs, you know, [[URL Schemes]] in this.                |
 | 04:12      | And so rather than just going to the OmniFocus icon, I go to the shortcut and open OmniFocus         |
 | 04:18      | exactly where I want it so I don't get distracted.                                                   |
 | 04:20      | Mm-hmm.                                                                                              |

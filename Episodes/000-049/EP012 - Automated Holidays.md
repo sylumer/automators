@@ -436,7 +436,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 20:15      | Well, I mean, this is a bit of a rabbit hole.                                                        |
 | 20:17      | We're not strictly speaking of automating holidays now, but on this week's Connected,                |
 | 20:21      | [[Federico Viticci\|Federico]] was talking about how he set up [[Homebridge]] on his brand new Mac Mini.                       |
-| 20:26      | And he's using integration to trigger [[AppleScript]]s on the Mac Mini via HomeKit, which               |
+| 20:26      | And he's using integration to trigger [[AppleScript\|AppleScripts]] on the Mac Mini via HomeKit, which               |
 | 20:33      | means that it can then address iTunes, which means it can talk to specific HomePods and              |
 | 20:37      | play specific music as part of a scene.                                                              |
 | 20:43      | And so for anybody looking for a holiday project who is in the HomeKit and [[AppleScript]] world,       |

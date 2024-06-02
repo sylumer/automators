@@ -527,7 +527,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 29:13      | in Dropbox, but on Apple's own iCloud service, you had to save it to a shortcut subfolder.                                |
 | 29:18      | So like I had this crazy system where I had these subfolders in the shortcut subfolder                                    |
 | 29:24      | in iCloud, and then I had [[Hazel]] on my Mac constantly watching them, like anything saved                                   |
-| 29:29      | a shortcut slash Obsidian copy to my Obsidian database, anything, and, you know, and I had                                |
+| 29:29      | a shortcut slash [[Obsidian]] copy to my [[Obsidian]] database, anything, and, you know, and I had                                |
 | 29:34      | all these weird rules that I had to like move files after I had created them via shortcuts                                |
 | 29:40      | because shortcuts wouldn't let me just put it where I wanted to, to begin with.                                           |
 | 29:44      | And that problem is now solved.                                                                                           |
@@ -541,9 +541,9 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 30:00      | So you can save files from shortcuts anywhere in iCloud drive and anywhere in Dropbox.                                    |
 | 30:07      | Dropbox was possible before, but now you've got anywhere in iCloud drive.                                                 |
 | 30:13      | Similarly, you can get files from anywhere in iCloud drive, which means if, for example,                                  |
-| 30:19      | you've been looking Obsidian going, yeah, I would really like obsidian, but you know,                                     |
+| 30:19      | you've been looking [[Obsidian]] going, yeah, I would really like [[Obsidian]], but you know,                                     |
 | 30:24      | I'm using the iCloud sync and that means it's not really automation friendly.                                             |
-| 30:27      | Well, with shortcuts, it now is.                                                                                          |
+| 30:27      | Well, with [[Shortcuts]], it now is.                                                                                          |
 | 30:30      | So you have a whole bunch more options, which I'm sure people are, you know, not sure exactly                             |
 | 30:37      | what that means yet.                                                                                                      |
 | 30:38      | In some cases, in other cases, people are there running around like headless chickens                                     |
@@ -1502,7 +1502,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:24:45   | I know previously, Greg Pierce, Mr. Agile Tortes, had to, this was when [[Drafts]] actions                                    |
 | 01:24:50   | were just built into shortcuts.                                                                                           |
 | 01:24:53   | He had to ping the guys on the shortcuts team and say, there's a new version of Drafts.                                   |
-| 01:25:00   | Can you change all the [[URL Schemes\|URL scheme]]s that you're using, please?                                                             |
+| 01:25:00   | Can you change all the [[URL Schemes]] that you're using, please?                                                             |
 | 01:25:03   | And then, of course, we got the actions, and that's all been sorted out since then, which                                 |
 | 01:25:07   | is great.                                                                                                                 |
 | 01:25:09   | I'm very pleased about that, but yeah, it's one of those things where there's a lot of                                    |

@@ -732,7 +732,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 36:34      | And that means that you should probably be using it as well if you're not already.                       |
 | 36:37      | Because if you're listening to this podcast, you definitely have automations you should                  |
 | 36:40      | be running.                                                                                              |
-| 36:42      | And I also really like the fact that it comes with a whole bunch of [[AppleScript]]s already,               |
+| 36:42      | And I also really like the fact that it comes with a whole bunch of [[AppleScript\|AppleScripts]] already,               |
 | 36:46      | which means that if you're like me, yes, you could probably code an [[AppleScript]], but let's              |
 | 36:51      | be honest, it's much easier to copy and paste the bits that you need from different scripts,             |
 | 36:55      | stick it all together, and there you go.                                                                 |

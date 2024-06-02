@@ -309,24 +309,24 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 19:59      | on, I can just open my Devon think database and then find everything is in here, except                  |
 | 20:05      | at work, of course, I do have a separate Devon think database for work related things.                   |
 | 20:09      | Yeah, I mean, custom metadata is so much easier with Devon think than Finder. It's like not              |
-| 20:13      | even close. Like I made a custom field for Obsidian link. So if I have a related note                    |
+| 20:13      | even close. Like I made a custom field for [[Obsidian]] link. So if I have a related note                    |
 | 20:20      | on any file in Devon think, I've got a custom metadata for that link, you know, nice. One                |
 | 20:26      | thing that you do with Devon think is you create links to documents, which I would imagine               |
 | 20:31      | is it's helpful for your tax planning. That is more difficult with Finder based files.                   |
 | 20:37      | And you do have some stuff you can find or do you have a system for that? Like how do                    |
 | 20:41      | you how do you link to a document and find her? I guess is the question. I tend not to,                  |
 | 20:45      | to be honest. You know, if I'm going to link to a file, it's either going to be something                |
-| 20:49      | that is in Devon think or Obsidian. And I mean, I could put all of my markdown files                     |
-| 20:57      | and everything into Obsidian. I actually have it index that folder so that if I am searching             |
+| 20:49      | that is in Devon think or [[Obsidian]]. And I mean, I could put all of my markdown files                     |
+| 20:57      | and everything into [[Obsidian]]. I actually have it index that folder so that if I am searching             |
 | 21:02      | for something and I've, it turns out that what it is is I've stored it in a link in                      |
-| 21:07      | as part of an Obsidian document, I'll still find it. But pretty much if I'm going to link                |
-| 21:12      | to something, it's going to be in Devon think or Obsidian. And the files that live on my                 |
+| 21:07      | as part of an [[Obsidian]] document, I'll still find it. But pretty much if I'm going to link                |
+| 21:12      | to something, it's going to be in Devon think or [[Obsidian]]. And the files that live on my                 |
 | 21:18      | device tend not to be things that I, I link to in that sort of way. The closest that I                   |
 | 21:24      | might come is, you know, there's, there's a path to a folder here because that folder                    |
 | 21:29      | contains a project that I'm working on, you know, on development wise. So, you know, I'm                 |
 | 21:34      | only to open it with [[Xcode]] or Web Store or more Nova or BS code or something, depending                  |
 | 21:40      | on what it is.                                                                                           |
-| 21:41      | All right. But you've opened another can of worms. You're putting documents in Obsidian                  |
+| 21:41      | All right. But you've opened another can of worms. You're putting documents in [[Obsidian]]                  |
 | 21:45      | as well.                                                                                                 |
 | 21:46      | Well, I say documents, they're just markdown documents or images that I'm referencing and                |
 | 21:51      | markdown documents so that I've got an image there. I tend not to put other kinds of files               |
@@ -334,7 +334,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 22:04      | probably going to be something that's on the internet or a document that I'm going to be                 |
 | 22:09      | putting in Devon think so that I can have a link to that.                                                |
 | 22:14      | Yeah. I'm, I'm the same way. I feel like Devon think is way better at documents than                     |
-| 22:20      | Obsidian is. So I don't put any real documents in Obsidian. Okay. I know this whole thing                |
+| 22:20      | [[Obsidian]] is. So I don't put any real documents in [[Obsidian]]. Okay. I know this whole thing                |
 | 22:26      | sounded like a Devon think ad, but we're both big Devon think fans. So sorry. It's just                  |
 | 22:29      | weird that they're also sponsoring today, but there you go.                                              |
 | 22:32      | It is weird, but it's just one of those things. Yeah. There is one tiny thing. Well, maybe               |
@@ -869,12 +869,12 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:08:12   | if it says nested folders, it'll do nested folders magic and so on and so forth. So it's                 |
 | 01:08:16   | mostly been [[Keyboard Maestro]] to the rescue. But there has been a little help with iTerm as well.         |
 | 01:08:22   | Okay, you want me to blow your mind a little bit? Maybe you already know this.                           |
-| 01:08:26   | There's a cool plugin for Obsidian called custom window title, very simple plugin,                       |
+| 01:08:26   | There's a cool plugin for [[Obsidian]] called custom window title, very simple plugin,                       |
 | 01:08:32   | takes the name of the current note and puts it in the title of the window. And suddenly,                 |
 | 01:08:37   | once it's in the title of the window that opens up all these automation possibilities                    |
-| 01:08:42   | when I'm working in a Obsidian note that has the word automators in the title.                           |
+| 01:08:42   | when I'm working in a [[Obsidian]] note that has the word automators in the title.                           |
 | 01:08:47   | Or that also the way I use that is with the timing app, the timing app that is time tracking.            |
-| 01:08:54   | Now it tracks time based on that window. It doesn't just say time in Obsidian. It'll say                 |
+| 01:08:54   | Now it tracks time based on that window. It doesn't just say time in [[Obsidian]]. It'll say                 |
 | 01:09:00   | time on the automators file. And so it's like, it's like once you change the name of the window          |
 | 01:09:05   | title, it opens up automation possibilities with something like [[Keyboard Maestro]]. It's pretty            |
 | 01:09:09   | cool. Anyway, it's a very small plugin. And it's currently version 0.3.3. I don't even know what         |
@@ -882,9 +882,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:09:23   | it's the developer considers it's so small that he's not or she's not given it a 1.0 yet,                |
 | 01:09:30   | or there's also features that they've not yet made. Yeah, well, either way,                              |
 | 01:09:34   | it's a great little plugin that I'm running it. And that might help you if you want to automate          |
-| 01:09:39   | some of that. Like based on opening an Obsidian document, you could trigger that automation.             |
+| 01:09:39   | some of that. Like based on opening an [[Obsidian]] document, you could trigger that automation.             |
 | 01:09:44   | Yes, yes. That is definitely something that I will be looking into. It's one of those things.            |
-| 01:09:52   | I do automate a lot of things around Obsidian, but it's mostly the creation of documents in              |
+| 01:09:52   | I do automate a lot of things around [[Obsidian]], but it's mostly the creation of documents in              |
 | 01:09:57   | folders and things like that rather than actually going into and reading things out of it just yet.      |
 | 01:10:04   | Maybe that needs to be a feature show. I've done some work there.                                        |
 | 01:10:08   | So maybe that's something we'll talk about one day. Well, that is definitely something I will be         |
@@ -955,7 +955,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:16:24   | quite get hooked up in all the same places. And so therefore, it sometimes just doesn't work,            |
 | 01:16:30   | which is a real shame. So I am using AppleScript for anything very specifically Mac. But where I'm       |
 | 01:16:38   | doing something that will be multi-platform, where I want it on my iPhone as well, I will go             |
-| 01:16:43   | with JavaScript because I can write JavaScript and use it in Drafts. I can use it in Obsidian.           |
+| 01:16:43   | with JavaScript because I can write JavaScript and use it in Drafts. I can use it in [[Obsidian]].           |
 | 01:16:47   | I can use it in Scriptable. I could use it in the browser. And I can use it on my Mac or my iPhone       |
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |
@@ -980,7 +980,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:18:56   | there's reasons behind why they've created Swift, the way they've created it. And it's an                |
 | 01:19:01   | incredibly powerful language. So it would be lovely. But I feel like maybe because JavaScript            |
 | 01:19:08   | was already on every device as something that, for example, agile torches could just bundle              |
-| 01:19:14   | into [[Drafts]] and expose to people. And it's used in Obsidian and other things. It's                       |
+| 01:19:14   | into [[Drafts]] and expose to people. And it's used in [[Obsidian]] and other things. It's                       |
 | 01:19:22   | perhaps accidentally gained a lot of momentum as an automation language.                                 |
 | 01:19:29   | And I feel like Apple would probably be missing out on something quite amazing if they                   |
 | 01:19:36   | bucked the trend and said, no, no, no, no, no, no, like Swift is the future. Swift is the future         |

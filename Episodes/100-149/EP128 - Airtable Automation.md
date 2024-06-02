@@ -1098,7 +1098,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:49   | If you're a programmer and you've already done some of this stuff before, maybe even                      |
 | 01:07:55   | if it was a while ago and you're like, I'm not sure about drag and drop blocks, I kind                    |
 | 01:07:59   | of really wanted to type something, I'd definitely be recommending JavaScript as the language             |
-| 01:08:05   | just because then you can create actions for Obsidian or extensions for Obsidian.                         |
+| 01:08:05   | just because then you can create actions for [[Obsidian]] or extensions for [[Obsidian]].                         |
 | 01:08:10   | You can create actions for Drafts.                                                                        |
 | 01:08:12   | You can create Safari bookmarklets and all sorts of things.                                               |
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |

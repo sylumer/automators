@@ -739,7 +739,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 45:27      | Yeah.                                                                                                   |
 | 45:28      | I want to work backwards on that for starting with what your comments on notes.                         |
 | 45:32      | I agree.                                                                                                |
-| 45:33      | People who like roam research and Obsidian even craft are not going to be looking at                    |
+| 45:33      | People who like roam research and [[Obsidian]] even [[Craft]] are not going to be looking at                    |
 | 45:38      | this as a replacement.                                                                                  |
 | 45:40      | It's not nearly as powerful, but the ability to create a link is really great.                          |
 | 45:45      | And they, they did it in a very simple way.                                                             |

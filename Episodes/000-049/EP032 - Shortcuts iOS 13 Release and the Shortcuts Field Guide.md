@@ -350,7 +350,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 15:34      | way from the beginning?                                                                                |
 | 15:35      | Well, I mean, I think it was partially the way it was from the beginning because don't                 |
 | 15:39      | forget we, you know, programmers built this and they were building it, I'm guessing for                |
-| 15:45      | themselves to try and make using these [[URL Schemes\|URL scheme]]s easier.                                             |
+| 15:45      | themselves to try and make using these [[URL Schemes]] easier.                                             |
 | 15:50      | But you have to start from somewhere.                                                                  |
 | 15:52      | And I think maybe if they'd started, you know, with the model they have today in their head,           |
 | 15:57      | we wouldn't have got shortcuts because it's not going to be easy to combine all of these               |
@@ -359,7 +359,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 16:07      | and what people are really doing.                                                                      |
 | 16:09      | And that's why you can now consolidate actions because you understand what people are doing            |
 | 16:14      | with them.                                                                                             |
-| 16:15      | Well, I want to talk about URL shortcuts and the future of shortcuts with [[URL Schemes\|URL scheme]]s.                 |
+| 16:15      | Well, I want to talk about URL shortcuts and the future of shortcuts with [[URL Schemes]].                 |
 | 16:21      | But before we do that, I want to take a minute to talk about our first sponsor today.                  |
 | 16:25      | That's our friends over at Backblaze.                                                                  |
 | 16:29      | This episode of Automators is brought to you by Backblaze, the unlimited cloud backup for              |
@@ -850,8 +850,8 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 44:35      | But there are developers that will get it, and for them, I expect that we're going to                  |
 | 44:40      | see a lot more support in shortcuts than we've seen before, and we're going to get a lot               |
 | 44:45      | more power.                                                                                            |
-| 44:48      | I guess this goes in hand with the discussion of [[URL Schemes\|URL scheme]]s.                                          |
-| 44:53      | I mean, [[URL Schemes\|URL scheme]]s are the foundation of workflow, which became shortcuts, but with                   |
+| 44:48      | I guess this goes in hand with the discussion of [[URL Schemes]].                                          |
+| 44:53      | I mean, [[URL Schemes]] are the foundation of workflow, which became shortcuts, but with                   |
 | 44:58      | this new programming interface, with this new ability of developers to build their                     |
 | 45:03      | own actions, where do you see the future of URL shortcuts in all of this?                              |
 | 45:10      | Well, I think it's going away, and I don't know if it absolutely should go away, because               |
@@ -869,7 +869,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 46:14      | then I want this thing to happen, and that's what I think we will hopefully see at some                |
 | 46:20      | point.                                                                                                 |
 | 46:21      | Well, I've heard it was said in some of the sessions, so don't ask me which ones, because              |
-| 46:26      | I'm struggling to find the links right now, that [[URL Schemes\|URL scheme]]s are insecure, which, depending            |
+| 46:26      | I'm struggling to find the links right now, that [[URL Schemes]] are insecure, which, depending            |
 | 46:31      | on whether or not there's keys involved and things like that, which some applications                  |
 | 46:35      | have used, is definitely a possibility, and it would be great if there was a proper mechanism          |
 | 46:43      | that was created specifically for this purpose, for apps to pass data between themselves.              |
@@ -891,11 +891,11 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 47:54      | created actions, which are easier to use and in fact, just better and more secure.                     |
 | 47:59      | I think more realistically, what's going to happen is some of those functions are going                |
 | 48:03      | to get created in developer actions, but I suspect not all of them will be and that                    |
-| 48:09      | if URL shortcuts go away or [[URL Schemes\|URL scheme]]s go away, we will lose some functionality that                  |
+| 48:09      | if URL shortcuts go away or [[URL Schemes]] go away, we will lose some functionality that                  |
 | 48:15      | we get with them that we won't be able to create with the application actions.                         |
 | 48:19      | Yes.                                                                                                   |
 | 48:20      | And I would encourage everybody listening who has used a [[URL Schemes\|URL scheme]] and who is actively                |
-| 48:26      | using [[URL Schemes\|URL scheme]]s, if the developers don't over the next few months already go in and                  |
+| 48:26      | using [[URL Schemes]], if the developers don't over the next few months already go in and                  |
 | 48:33      | add shortcut actions with parameters to replace these content, the developers and say, hey,            |
 | 48:39      | I'm using this, but it would be really great if you could create it as a shortcut with                 |
 | 48:42      | parameters please.                                                                                     |
@@ -910,7 +910,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 49:07      | Not all of this will go into the release of JSON or Scriptable or a yet to be named application        |
 | 49:13      | for storing data, but it's amazing to see what developers can do with this with a little               |
 | 49:19      | bit of creativity.                                                                                     |
-| 49:21      | And some developers may not realise that you're using their [[URL Schemes\|URL scheme]]s that much and that             |
+| 49:21      | And some developers may not realise that you're using their [[URL Schemes]] that much and that             |
 | 49:25      | you're depending on it.                                                                                |
 | 49:26      | And if we don't let developers know how much we love their software and the work that they're          |
 | 49:29      | doing, then why would they implement their replacement?                                                |
@@ -931,7 +931,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 50:18      | I mean, I'm not sure.                                                                                  |
 | 50:19      | I don't know what's going on inside Apple, but I would suspect we're good for at least                 |
 | 50:22      | a year on this.                                                                                        |
-| 50:24      | But I don't think we should be just sitting back assuming that [[URL Schemes\|URL scheme]]s are going to                |
+| 50:24      | But I don't think we should be just sitting back assuming that [[URL Schemes]] are going to                |
 | 50:27      | be there forever.                                                                                      |
 | 50:28      | So if you're using them, you know, start talking to your developers now and hopefully                  |
 | 50:36      | getting them on the track of getting you away from the [[URL Schemes\|URL scheme]] in case Apple ever pulls             |
@@ -1191,7 +1191,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:05:23   | of give you like explaining what a variable is and a magic variable and how share sheet                 |
 | 01:05:28   | triggers work.                                                                                         |
 | 01:05:29   | And some of this stuff that, you know, just to really get you started, and then I added                |
-| 01:05:33   | another additional section called Advanced Concepts where I go into Bay 64, [[URL Schemes\|URL scheme]]s,               |
+| 01:05:33   | another additional section called Advanced Concepts where I go into Bay 64, [[URL Schemes]],               |
 | 01:05:41   | you know, more high-end programming stuff.                                                             |
 | 01:05:46   | And I think it's a help that I answered both of those with this.                                       |
 | 01:05:49   | There was a lot of work went into this, but I'm really happy with the way it came out.                 |

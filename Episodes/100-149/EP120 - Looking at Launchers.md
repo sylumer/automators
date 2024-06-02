@@ -513,7 +513,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 30:13      | They do the same thing with SF symbols.                                                               |
 | 30:14      | If you're into [[SF Symbols]], CleanShot X has a whole set of plugins, so if you're using                  |
 | 30:20      | the CleanShot X, a bunch of its commands now fall in [[Raycast]].                                          |
-| 30:25      | Obsidian, the Obsidian [[Raycast]] plugin is really good.                                                 |
+| 30:25      | [[Obsidian]], the [[Obsidian]] [[Raycast]] plugin is really good.                                                 |
 | 30:31      | I installed the [[Home Assistant]] one because I'm trying to get better at [[Home Assistant]],                |
 | 30:34      | so they've got a bunch of [[Home Assistant]] commands.                                                    |
 | 30:37      | You can add these in here as you need them, but that's a blessing and a curse because                 |
@@ -1161,9 +1161,9 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:12:42   | And I did this as a test for myself just to see how easily can I create an [[Alfred]] workflow            |
 | 01:12:52   | using somebody who's been playing with shortcuts and things like that for a while but doesn't         |
 | 01:12:57   | necessarily know how to write a full-blown search filter in AppleScript or how to write               |
-| 01:13:04   | a Python script to do something could do this and I was like, okay, well, [[URL Schemes\|URL scheme]]s,                |
+| 01:13:04   | a Python script to do something could do this and I was like, okay, well, [[URL Schemes]],                |
 | 01:13:08   | there's plenty of examples of those out there.                                                        |
-| 01:13:09   | The OmniFocus website shows a number of [[URL Schemes\|URL scheme]]s.                                                  |
+| 01:13:09   | The OmniFocus website shows a number of [[URL Schemes]].                                                  |
 | 01:13:13   | I'm going to see what I can do and I did that and I then replicated it.                               |
 | 01:13:18   | So if I type, OFP it searches OmniFocus projects, OFT searches OmniFocus tags and OF space followed   |
 | 01:13:26   | by whatever it is just searches OmniFocus in general.                                                 |

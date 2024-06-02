@@ -723,7 +723,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 39:30      | I can use because I take so many notes and [[Drafts]] for almost everything.                               |
 | 39:34      | I've done this before.                                                                                 |
 | 39:35      | I did this with things at one point in time, but the one thing about things that I didn't              |
-| 39:40      | like was that it uses [[URL Schemes\|URL scheme]]s.                                                                     |
+| 39:40      | like was that it uses [[URL Schemes]].                                                                     |
 | 39:42      | And because this uses the scripting and it uses the reminders framework, I don't have                  |
 | 39:49      | to leave the app.                                                                                      |
 | 39:50      | So with things, I would be kicked out of the app and then brought back in and ready to                 |

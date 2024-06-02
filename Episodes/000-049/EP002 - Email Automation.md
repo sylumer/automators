@@ -475,7 +475,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 33:43      | but when you don't see your list of emails, you don't get distracted by it and you get back to                                        |
 | 33:49      | work. So like, if you've got a task that say, you know, send an email to Rosemary checking in,                                        |
 | 33:54      | you send the email out of [[Drafts]], you never have the opportunity to get distracted by what's in                                   |
-| 33:59      | your inbox. Yes. And of course, [[Drafts]] supports [[URL Schemes\|URL scheme]]s, you know, Greg Pierce, who creates                                   |
+| 33:59      | your inbox. Yes. And of course, [[Drafts]] supports [[URL Schemes]], you know, Greg Pierce, who creates                                   |
 | 34:05      | [[Drafts]] with a creative [[URL Schemes\|URL scheme]]. So of course it does. And that means that you can, you know,                                   |
 | 34:10      | you can either just use the default mail client if you like, or you can still be using Airmail,                                       |
 | 34:15      | spark dispatch, whichever email client you like providing, they've got [[URL Schemes\|URL scheme]] support for                                         |

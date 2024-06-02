@@ -614,7 +614,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 51:44      | of having to type them out once I'm in [[Drafts]] or trying to URL encode them and add them into a          |
 | 51:50      | [[URL Schemes\|URL scheme]], which yes, I have previously been doing and now I no longer need to do. So yeah,            |
 | 51:57      | this is really good. And hopefully this will replace the [[URL Schemes\|URL scheme]]. This is not to say that            |
-| 52:03      | [[URL Schemes\|URL scheme]]s are bad, but I mean, Apple have been saying [[URL Schemes\|URL scheme]]s are not the most secure because     |
+| 52:03      | [[URL Schemes]] are bad, but I mean, Apple have been saying [[URL Schemes]] are not the most secure because     |
 | 52:09      | well, anybody can run them with anything. And this is a framework offered by Apple specifically for     |
 | 52:13      | shortcuts, which means that you can pass data to it and from it. Because once you've created that       |
 | 52:19      | draft in [[Drafts]] and adult horses can pass back whatever information they think you're going to          |

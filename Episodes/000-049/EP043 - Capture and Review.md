@@ -20,7 +20,7 @@ title: "43: Capture and Review"
 ![[Logo.jpg|200x200]]
 
 # Synopsis
-In this episode, David and Rosemary look at their automations surrounding capture and review. Between Shortcuts and web based automations, [[Drafts]] and [[URL Schemes\|URL scheme]]s there's plenty you can automate.
+In this episode, David and Rosemary look at their automations surrounding capture and review. Between Shortcuts and web based automations, [[Drafts]] and [[URL Schemes]] there's plenty you can automate.
 
 # Hosts
 - [[David Sparks]]
@@ -283,7 +283,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 18:06      | things go.                                                                                              |
 | 18:07      | Yes. And something else that we should mention, you know, we're talking about OmniFocus here,           |
 | 18:12      | but in things, which is also another popular task management system has really good URL                 |
-| 18:19      | scheme support. And you might be going, aren't [[URL Schemes\|URL scheme]]s kind of outdated? And to some extent,        |
+| 18:19      | scheme support. And you might be going, aren't [[URL Schemes]] kind of outdated? And to some extent,        |
 | 18:24      | yes, they are. But because you can use there, there's a [[URL Schemes\|URL scheme]] generator on the things              |
 | 18:29      | website. So you don't have to manually write everything by hand. So you can go in and tap               |
 | 18:34      | on the add project option, for example, and then you can give it a title and you can specify            |
@@ -346,7 +346,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 23:16      | as well. So something I've experimented with, but I'm not 100% sold on is actually using                |
 | 23:22      | shortcuts to create a my node document with specific nodes. And then you can even theoretically         |
 | 23:29      | customise it based on questions that you answer. But at the moment, I'm still pretty happy              |
-| 23:34      | with my templates and I haven't really switched to the [[URL Schemes\|URL scheme]]s.                                     |
+| 23:34      | with my templates and I haven't really switched to the [[URL Schemes]].                                     |
 | 23:36      | That feels like a bridge too far for me. It's like, I think I'm now making automation work              |
 | 23:41      | for the sake of automation work.                                                                        |
 | 23:42      | Yeah, that's kind of what it felt like I was experimenting with it going, well, it's                    |

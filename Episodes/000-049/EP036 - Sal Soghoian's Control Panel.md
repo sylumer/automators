@@ -933,7 +933,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:00:41   | the icons.                                                                                               |
 | 01:00:42   | You can go on a Google images search, they're almost all there, or you can just go into the              |
 | 01:00:46   | applications, right click on it, and pull it out, or in fact, I wrote one of the first                   |
-| 01:00:52   | [[AppleScript]]s I ever wrote years ago in your class was an [[AppleScript]] to pull the application           |
+| 01:00:52   | [[AppleScript\|AppleScripts]] I ever wrote years ago in your class was an [[AppleScript]] to pull the application           |
 | 01:00:58   | icon out of the resources file.                                                                          |
 | 01:01:00   | Yeah.                                                                                                    |
 | 01:01:01   | There's so many ways to do this stuff.                                                                   |

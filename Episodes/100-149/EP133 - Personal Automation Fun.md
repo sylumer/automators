@@ -817,7 +817,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 55:08      | remains my main task manager, but like I said, groceries are my own reminders. We do a lot             |
 | 55:13      | of project management in the labs and the MacSparky stuff I do with the people that                   |
 | 55:18      | work with me. We use Kraft, you know, and because it's very collaborative, it's, you                   |
-| 55:24      | know, it's not as powerful as Obsidian, but it for collaboration, we can at mention each               |
+| 55:24      | know, it's not as powerful as [[Obsidian]], but it for collaboration, we can at mention each               |
 | 55:30      | other and we get notifications and it's a native app and does all the cool stuff that                  |
 | 55:33      | you need for collaboration. But I have, I realised at one point that it felt silly working             |
 | 55:39      | on the project page in Kraft and then having a link back to an OmniFocus task list. So                 |

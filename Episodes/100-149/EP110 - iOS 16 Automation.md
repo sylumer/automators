@@ -515,7 +515,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 39:40      | of the features that you would normally have to do by tapping on the screen and giving you               |
 | 39:45      | shortcuts action so you can automate a bunch of this. And you know, then it's up to you to go            |
 | 39:49      | figure out how you're going to string this stuff together. Maybe you have maybe use Apple notes          |
-| 39:55      | as like a depository of information. It's your own personal version of Obsidian or craft. And            |
+| 39:55      | as like a depository of information. It's your own personal version of [[Obsidian]] or [[Craft]]. And            |
 | 40:02      | you go ahead and every time you get a new client, you give them a folder. Well,                          |
 | 40:05      | now you can create that folder in the same process of as part of a bigger shortcut. And                  |
 | 40:11      | I'm really excited about that, you know. Yeah, I mean, I'm just imagining like a whole new project       |

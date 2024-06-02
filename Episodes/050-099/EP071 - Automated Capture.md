@@ -165,11 +165,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 09:05      | also have quick capture built into them, like OmniFocus has a great capture tool. And they               |
 | 09:12      | also have macros you can run to capture email and, you know, different things you can do.                |
 | 09:17      | So when I'm working in OmniFocus, I'll use the OmniFocus quick capture. I won't go back                  |
-| 09:22      | to [[Drafts]] and then send it to OmniFocus later, although I can just like Obsidian when I talked           |
+| 09:22      | to [[Drafts]] and then send it to OmniFocus later, although I can just like [[Obsidian]] when I talked           |
 | 09:28      | about earlier, like client notes on calls and things. Usually when I'm on a call with                    |
-| 09:33      | a client, I've got the Obsidian note open for the transaction we're discussing so I can                  |
+| 09:33      | a client, I've got the [[Obsidian]] note open for the transaction we're discussing so I can                  |
 | 09:37      | reference prior information. So of course, I'll just capture the notes right there in                    |
-| 09:42      | Obsidian during that call. I don't need to put in [[Drafts]] come back. I don't I don't need                 |
+| 09:42      | [[Obsidian]] during that call. I don't need to put in [[Drafts]] come back. I don't I don't need                 |
 | 09:47      | to be pedantic about it. I guess is what I'm saying. If it makes sense to go straight to                 |
 | 09:52      | the reference app or the action app and put it in, I'll do that. But if I'm just wandering               |
 | 09:57      | around and a random idea occurs to me or I just hang up the phone with my mom about how                  |
@@ -373,28 +373,28 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 23:47      | It's not the end point.                                                                                  |
 | 23:48      | At the very least, you should say, hey, this is a piece of reference material and market                 |
 | 23:53      | as such so that it's distinguishable from all of the other stuff that you have hanging                   |
-| 23:58      | around, which is one of the reasons why I've relatively recently started using Obsidian,                 |
-| 24:05      | which I sing through Dropbox because then I can have things go easily to Obsidian from                   |
+| 23:58      | around, which is one of the reasons why I've relatively recently started using [[Obsidian]],                 |
+| 24:05      | which I sing through Dropbox because then I can have things go easily to [[Obsidian]] from                   |
 | 24:11      | [[Drafts]] because I just save it to a Dropbox folder.                                                       |
 | 24:14      | Or for work, I'm actually saving it to own cloud because [[Drafts]] can do that as well.                     |
-| 24:19      | Obsidian can just point at any folder on your Mac and that works perfectly for work.                     |
+| 24:19      | [[Obsidian]] can just point at any folder on your Mac and that works perfectly for work.                     |
 | 24:23      | So I'm pretty happy about that.                                                                          |
 | 24:24      | Actually, let's talk about that right now because that is an interesting part of the                     |
 | 24:29      | capture process is where you've got these text files that you've saved in Drafts, but                    |
 | 24:34      | you've got a particular place you need them to be.                                                       |
 | 24:37      | And depending on the apps you're working with, that really can be an issue.                              |
-| 24:42      | An app that is Dropbox friendly like Obsidian makes it really easy because [[Drafts]] has Dropbox            |
+| 24:42      | An app that is Dropbox friendly like [[Obsidian]] makes it really easy because [[Drafts]] has Dropbox            |
 | 24:48      | systems built in.                                                                                        |
-| 24:49      | The way I use Obsidian is I actually use, because I've got client notes in it, I use                     |
+| 24:49      | The way I use [[Obsidian]] is I actually use, because I've got client notes in it, I use                     |
 | 24:54      | their end-to-end encrypted product, I pay extra, and I have my own password for my data.                 |
 | 24:59      | So if you got on any server, you wouldn't be able to access it.                                          |
-| 25:04      | But what that means is I can't easily write to the cloud with Obsidian data because it's                 |
+| 25:04      | But what that means is I can't easily write to the cloud with [[Obsidian]] data because it's                 |
 | 25:09      | all encrypted.                                                                                           |
 | 25:12      | But the way my data is stored, it's stored locally on my drive on a protected drive.                     |
 | 25:18      | But that drive is not anywhere in the cloud.                                                             |
-| 25:23      | It's off iCloud, it's off Dropbox, but then Obsidian sends it up to a cloud service that                 |
+| 25:23      | It's off iCloud, it's off Dropbox, but then [[Obsidian]] sends it up to a cloud service that                 |
 | 25:29      | they provide for a fee that holds the encrypted data.                                                    |
-| 25:34      | And so for me to write to my Obsidian data on Mac, I actually have end [[Drafts]] save local                 |
+| 25:34      | And so for me to write to my [[Obsidian]] data on Mac, I actually have end [[Drafts]] save local                 |
 | 25:41      | saves of markdown files to that particular folder on my local folder.                                    |
 | 25:46      | I can't do any of the cool Dropbox stuff Rose does, but that's the way I'm able to use the               |
 | 25:52      | app for the stuff I need to use with encryption.                                                         |
@@ -408,8 +408,8 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 26:26      | sensitive, then I think we're going to have a much bigger issue than the fact that we're                 |
 | 26:31      | running 7.4, because it's still supported.                                                               |
 | 26:37      | But I'm just trying to stick with good practices of work stuff goes up here and other stuff              |
-| 26:42      | goes over there, but because I've set things up, so I have inside of my Obsidian folder,                 |
-| 26:49      | I have a folder or instead of my Obsidian vault, which is basically a folder.                            |
+| 26:42      | goes over there, but because I've set things up, so I have inside of my [[Obsidian]] folder,                 |
+| 26:49      | I have a folder or instead of my [[Obsidian]] vault, which is basically a folder.                            |
 | 26:55      | I have a folder called lists, and this contains, surprise, a series of lists.                            |
 | 27:00      | So this is stuff like TV shows to watch, books to read, things like that.                                |
 | 27:04      | And I am constantly experimenting with where these things go, but at the moment I'm really               |
@@ -422,7 +422,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 27:43      | in that for my personal stuff, I can use Dropbox.                                                        |
 | 27:46      | And so I love it, because that works, and it means that I both captured to the right                     |
 | 27:53      | place, but then when I'm looking for the data, it's going to be really easy to find.                     |
-| 27:58      | And of course, because I'm using Dropbox, I'm not married to Obsidian, I can then just                   |
+| 27:58      | And of course, because I'm using Dropbox, I'm not married to [[Obsidian]], I can then just                   |
 | 28:02      | open the entire folder in [[BBEdit]] or Nova or something else if I want to.                                 |
 | 28:09      | And I can, of course, open individual files anytime, and I can even get stuff with shortcuts,            |
 | 28:13      | which is pretty handy.                                                                                   |
@@ -460,7 +460,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 29:47      | It then has a list of things like prompts or what did we discuss?                                        |
 | 29:52      | What are my action items following it?                                                                   |
 | 29:55      | All this stuff, I can just write that in and then I press one button and it saves that                   |
-| 30:00      | out as a markdown file to what's in essence my inbox and Obsidian and that gets synced                   |
+| 30:00      | out as a markdown file to what's in essence my inbox and [[Obsidian]] and that gets synced                   |
 | 30:06      | through the end and encrypted, you know, encryption.                                                     |
 | 30:09      | And it just happens that fast and it's just awesome, you know, and I really find that                    |
 | 30:16      | the ability to create these custom actions can make your capture so much more efficient                  |
@@ -491,30 +491,30 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 31:59      | And then under that, it's got the URL format because I like that that will, you know, it                 |
 | 32:06      | doesn't necessarily get parsed when I send it to OmniFocus, it's just, it's plain text,                  |
 | 32:13      | but I can read it, it's marked down, marked down as plain text works really well.                        |
-| 32:17      | And then if it's in Obsidian and I'm using the preview, then of course it's nicely clickable.            |
+| 32:17      | And then if it's in [[Obsidian]] and I'm using the preview, then of course it's nicely clickable.            |
 | 32:22      | And then underneath that, there's a selection, but I changed that because that works better              |
 | 32:25      | with my workflow.                                                                                        |
 | 32:26      | And that's, I think, the key part of Capture.                                                            |
 | 32:29      | You need to have, or automate a Capture, you need to tweak your tools to work for you.                   |
 | 32:34      | Yeah, I have so many text entry templates and [[Drafts]] where things are going to maybe                     |
-| 32:39      | go into day one or Obsidian or even maybe an OmniFocus task, but I customise everything                  |
+| 32:39      | go into day one or [[Obsidian]] or even maybe an OmniFocus task, but I customise everything                  |
 | 32:47      | in the template forms in [[Drafts]] so I can do as much of the work automatically without                    |
 | 32:52      | me having to type in.                                                                                    |
 | 32:54      | Which is so useful using this text, it's just not a difficult action at all.                             |
 | 32:59      | The trick is you save it, if it's where it's sitting, you save it as a markdown file, maybe              |
 | 33:03      | some other places you save it as text.                                                                   |
 | 33:06      | Another thing is like one wrinkle on this for me is if I'm on my Mac, I can save it directly             |
-| 33:11      | to the Obsidian file, but if I'm on my iOS device, I can't because I don't have access                   |
+| 33:11      | to the [[Obsidian]] file, but if I'm on my iOS device, I can't because I don't have access                   |
 | 33:17      | to it because of the ended encryption, so I save it to a particular folder and then                      |
 | 33:22      | I've got [[Hazel]] doing work on the Mac to get it to the right place.                                       |
 | 33:28      | That's the most complicated way you could do it.                                                         |
 | 33:30      | That's only because I've added all this end-to-end nonsense.                                             |
 | 33:34      | If you're just doing it in Dropbox, it would be easier.                                                  |
 | 33:39      | But create some actions.                                                                                 |
-| 33:40      | I've got a whole list of them for Obsidian entries, so if I come across a website and                    |
+| 33:40      | I've got a whole list of them for [[Obsidian]] entries, so if I come across a website and                    |
 | 33:46      | I want to write a blog post about it, I push out a shortcut that opens a draft where it                  |
 | 33:56      | saves the name of the post, the URL in a summary, and then from there, I may write the post              |
-| 34:02      | or just save it into Obsidian and write the post there.                                                  |
+| 34:02      | or just save it into [[Obsidian]] and write the post there.                                                  |
 | 34:05      | But the whole thing is just quick capture, getting the data I need, and moving on.                       |
 | 34:11      | Yeah.                                                                                                    |
 | 34:12      | Yeah.                                                                                                    |
@@ -589,13 +589,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 38:38      | They are a great intersection in many, many ways.                                                        |
 | 38:42      | Either way, [[Drafts]] actions are, to me, the secret sauce of automating capture.                           |
 | 38:50      | Because you just create a whole bunch of these templates.                                                |
-| 38:54      | I even do it for the templates, like Obsidian has a built-in template system, which is also              |
-| 39:00      | kind of automated capture if you want it to be, but I'm not necessarily in Obsidian all                  |
+| 38:54      | I even do it for the templates, like [[Obsidian]] has a built-in template system, which is also              |
+| 39:00      | kind of automated capture if you want it to be, but I'm not necessarily in [[Obsidian]] all                  |
 | 39:05      | the time.                                                                                                |
 | 39:06      | And so I've recreated those all in [[Drafts]] with [[Drafts]] quick capture templates.                           |
 | 39:12      | And I've just got a whole menu of them and I can pick any one of them.                                   |
 | 39:15      | So if I'm laying in bed and I think of something I want to capture, I'll just open up Drafts,            |
-| 39:21      | pick the appropriate Obsidian template and dictate into it.                                              |
+| 39:21      | pick the appropriate [[Obsidian]] template and dictate into it.                                              |
 | 39:24      | And all this stuff is just, the trick is putting a little time in the head of time.                      |
 | 39:30      | So when that moment of inspiration hits you, you can get that idea captured with the least               |
 | 39:37      | amount of friction.                                                                                      |
@@ -887,7 +887,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 57:17      | I mean, just grab a screenshot when I have, you know, three or four messages with the                    |
 | 57:22      | client, I'll save it.                                                                                    |
 | 57:24      | And then I've got automation involved with save to file where it's putting it in a very                  |
-| 57:28      | specific place on iCloud, and I can put links to it if I want in Obsidian and do other kinds             |
+| 57:28      | specific place on iCloud, and I can put links to it if I want in [[Obsidian]] and do other kinds             |
 | 57:35      | of things with it.                                                                                       |
 | 57:36      | But my ultimate solution for a quick capture of text messages is this screenshot.                        |
 | 57:43      | What are you doing?                                                                                      |
@@ -1263,7 +1263,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:21:46   | automations on my side, and it means that if we ever change something and add an extra                   |
 | 01:21:50   | status or remove a status, then I can easily renumber that step, and I do that once, and                 |
 | 01:21:57   | then all of the automations have been updated, which works really nicely.                                |
-| 01:22:00   | Well, I'll tell you what I've been having fun automating lately is the word Obsidian                     |
+| 01:22:00   | Well, I'll tell you what I've been having fun automating lately is the word [[Obsidian]]                     |
 | 01:22:06   | had come up way too many times in today's show.                                                          |
 | 01:22:09   | But as I continue to dig in with it as my PKM solution, the addition of their end-to-end                 |
 | 01:22:16   | encryption made it possible for me to use the app the way I wanted to use it.                            |

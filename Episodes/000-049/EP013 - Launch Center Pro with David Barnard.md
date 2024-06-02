@@ -124,7 +124,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 03:42      | notifications into notification centre,                              |
 | 03:44      | we could allow quick launching of early on,                          |
 | 03:49      | we didn't have all the hundreds of apps                              |
-| 03:52      | with complex [[URL Schemes\|URL scheme]]s we now have today.                          |
+| 03:52      | with complex [[URL Schemes]] we now have today.                          |
 | 03:54      | It was like call people and text people                              |
 | 03:57      | and the kind of like real basic stuff that,                          |
 | 03:59      | I mean, it's still kind of the bread and butter of the app,          |
@@ -170,9 +170,9 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 05:59      | creating these shortcuts and having them all in an app.              |
 | 06:02      | And so we worked on that for like three or four months               |
 | 06:06      | iterating very quickly and adding tons of features                   |
-| 06:09      | and started digging into more complex [[URL Schemes\|URL scheme]]s.                   |
+| 06:09      | and started digging into more complex [[URL Schemes]].                   |
 | 06:12      | And then other developers started integrating                        |
-| 06:16      | more and more [[URL Schemes\|URL scheme]]s into their apps                            |
+| 06:16      | more and more [[URL Schemes]] into their apps                            |
 | 06:17      | and we started finding more and more.                                |
 | 06:19      | And then by that summer, we released a whole new version             |
 | 06:24      | of it launch centre and called it launch centre pro.                 |
@@ -181,28 +181,28 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 06:34      | thing that it did, but it was just kind of a interesting way         |
 | 06:38      | to misappropriate notification centre.                               |
 | 06:42      | Now I wanna ask you about this.                                      |
-| 06:44      | How did you find all these [[URL Schemes\|URL scheme]]s?                              |
+| 06:44      | How did you find all these [[URL Schemes]]?                              |
 | 06:47      | I mean, that's something I've always wondered about                  |
 | 06:48      | because you guys were one of the first people                        |
 | 06:50      | on the scene to really capitalise                                    |
-| 06:53      | on the existence of [[URL Schemes\|URL scheme]]s.                                     |
+| 06:53      | on the existence of [[URL Schemes]].                                     |
 | 06:56      | And it wasn't like there was a list somewhere, right?                |
 | 06:59      | I mean, did you just have to go spelunking                           |
 | 07:01      | through all these apps?                                              |
 | 07:03      | So combination of things, we have spent literally hundreds           |
-| 07:10      | of hours putting together the [[URL Schemes\|URL scheme]]s we now have,               |
+| 07:10      | of hours putting together the [[URL Schemes]] we now have,               |
 | 07:15      | some of which have been misappropriated by other apps,               |
 | 07:19      | competing apps, but we spent hundreds of hours.                      |
 | 07:23      | So we would go through apps looking for,                             |
 | 07:27      | you can actually download the app to the computer, open it up,       |
-| 07:34      | look at a PList file, which lists all the [[URL Schemes\|URL scheme]]s                |
+| 07:34      | look at a PList file, which lists all the [[URL Schemes]]                |
 | 07:37      | for an app.                                                          |
 | 07:39      | Now that only gives you the launch URL.                              |
 | 07:41      | It doesn't actually give you any actions                             |
 | 07:43      | or any other triggers within the app,                                |
 | 07:47      | but it's enough to kind of get started.                              |
 | 07:48      | And then sometimes we just guess at other things.                    |
-| 07:53      | Some apps were starting to document the [[URL Schemes\|URL scheme]]s.                 |
+| 07:53      | Some apps were starting to document the [[URL Schemes]].                 |
 | 07:57      | Marco Arment and Greg,                                               |
 | 08:00      | I always forget his last name,                                       |
 | 08:01      | Yeah Pearce.                                                      |
@@ -212,13 +212,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 08:14      | maybe even a year and a half before us                               |
 | 08:16      | with X callback URL.                                                 |
 | 08:18      | And so as that had started to grow a little bit,                     |
-| 08:21      | some developers were starting to document their [[URL Schemes\|URL scheme]]s.         |
+| 08:21      | some developers were starting to document their [[URL Schemes]].         |
 | 08:25      | And so we would ask around and scour the web                         |
 | 08:29      | and look at support docs.                                            |
 | 08:31      | But then by the time Launch Center Pro was released,                 |
 | 08:34      | it got a ton of press and started to gather a following              |
 | 08:38      | to where a lot of developers started submitting                      |
-| 08:42      | their [[URL Schemes\|URL scheme]]s to us directly.                                    |
+| 08:42      | their [[URL Schemes]] to us directly.                                    |
 | 08:46      | And then we have actually collaborated                               |
 | 08:48      | with probably 20 or 30 developers                                    |
 | 08:52      | to kind of help them understand the [[URL Schemes\|URL scheme]]                       |
@@ -242,14 +242,14 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 09:40      | One of the things that I've been using Launch Center Pro for         |
 | 09:42      | for years, and this is not, well,                                    |
 | 09:44      | it is actually an automation trick,                                  |
-| 09:45      | is I've been using it to build [[URL Schemes\|URL scheme]]s                           |
+| 09:45      | is I've been using it to build [[URL Schemes]]                           |
 | 09:47      | because it seems to me that you guys                                 |
 | 09:49      | have got the definitive dictionary.                                  |
 | 09:52      | It's like when you open an [[AppleScript]] editor                       |
 | 09:54      | on the Mac script editor,                                            |
 | 09:55      | and you can find the dictionaries for all the applications.          |
 | 09:57      | I see Launch Center Pro as well as doing many other things           |
-| 10:01      | as the dictionary for all of the [[URL Schemes\|URL scheme]]s on iOS as well.         |
+| 10:01      | as the dictionary for all of the [[URL Schemes]] on iOS as well.         |
 | 10:05      | And it lets me build them,                                           |
 | 10:06      | which that's something that I've not found                           |
 | 10:08      | in any other application at all,                                     |
@@ -261,13 +261,13 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 10:20      | have the most and the most handy,                                    |
 | 10:24      | because most of the apps that are of interest                        |
 | 10:29      | to be automated have been pestered enough by us                      |
-| 10:33      | and users over the years to actually add [[URL Schemes\|URL scheme]]s.                |
+| 10:33      | and users over the years to actually add [[URL Schemes]].                |
 | 10:36      | So, things like OmniFocus and Things and Clear                       |
 | 10:41      | and all the to-do lists and those sorts of apps.                     |
 | 10:44      | It's kind of all the apps that fit into this space                   |
 | 10:49      | that folks who are into automation                                   |
 | 10:52      | might actually use that app.                                         |
-| 10:54      | Most of them do have [[URL Schemes\|URL scheme]]s in,                                 |
+| 10:54      | Most of them do have [[URL Schemes]] in,                                 |
 | 10:56      | and like I said, quite a few of them                                 |
 | 10:59      | we worked with to get them in there.                                 |
 | 11:00      | So, yeah, it's quite a dictionary                                    |
@@ -1239,7 +1239,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 55:12      | where I've created the Siri shortcut                                 |
 | 55:13      | that is just a ton of different actions                              |
 | 55:16      | that you can do in [[OmniFocus]].                                       |
-| 55:19      | It's a combination of some of their [[URL Schemes\|URL scheme]]s                      |
+| 55:19      | It's a combination of some of their [[URL Schemes]]                      |
 | 55:21      | and some of my own custom Siri shortcuts                             |
 | 55:23      | to get me to particular views                                        |
 | 55:25      | and some to make specific new actions.                               |
@@ -1479,7 +1479,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:05:50   | which they used to send me like the last picture                     |
 | 01:05:52   | they took and stuff like that.                                       |
 | 01:05:54   | I say, it's interesting to me that, you know,                        |
-| 01:05:56   | [[URL Schemes\|URL scheme]]s were the brave new world for so long                     |
+| 01:05:56   | [[URL Schemes]] were the brave new world for so long                     |
 | 01:05:59   | and I feel like we've kind of,                                       |
 | 01:06:01   | we're getting beyond that now to a certain extent.                   |
 | 01:06:04   | But now the interesting thing that's happening                       |

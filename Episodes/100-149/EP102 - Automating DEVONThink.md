@@ -406,8 +406,8 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 14:47      | And so I personally prefer importing over indexing,               |
 | 14:50      | but I do use indexing still for things like certain folders       |
 | 14:54      | which automatically get imported                                  |
-| 14:56      | and also my Obsidian database.                                    |
-| 15:00      | So that everything that is an Obsidian stays where it is          |
+| 14:56      | and also my [[Obsidian]] database.                                    |
+| 15:00      | So that everything that is an [[Obsidian]] stays where it is          |
 | 15:03      | because I've organised that, how that makes sense.                |
 | 15:06      | And then, everything else is imported.                            |
 | 15:10      | How do you do things?                                             |
@@ -619,7 +619,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 24:17      | And I find this can be very useful                                |
 | 24:19      | for helping me remember that this isn't Finder.                   |
 | 24:23      | So I actually have two top level groups                           |
-| 24:26      | inside of my Obsidian database.                                   |
+| 24:26      | inside of my [[Obsidian]] database.                                   |
 | 24:29      | One is called auto-import,                                        |
 | 24:31      | and that has index folders inside of it,                          |
 | 24:33      | which are then going to import stuff into Dev and Think.          |
@@ -954,11 +954,11 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 38:48      | I don't know, import every single index item                      |
 | 38:51      | into your Devon Think database.                                   |
 | 38:52      | Which means that magically everything disappears                  |
-| 38:54      | out of your Obsidian database.                                    |
+| 38:54      | out of your [[Obsidian]] database.                                    |
 | 38:56      | And you may be asking,                                            |
 | 38:57      | Rose, that sounds like you know this from personal experience.    |
 | 38:59      | Yes, yes, I do.                                                   |
-| 39:00      | I had to restore my Obsidian database twice                       |
+| 39:00      | I had to restore my [[Obsidian]] database twice                       |
 | 39:03      | because I didn't learn my lesson the first time.                  |
 | 39:05      | Yeah, so let me just jump in there a little bit.                  |
 | 39:07      | So the stuff you're talking about                                 |

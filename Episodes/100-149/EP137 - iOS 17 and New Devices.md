@@ -709,8 +709,8 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:02:05   | that I turn that off around his birthday. Maybe I'll just have a like if it's between a month            |
 | 01:02:09   | before his birthday and his birthday, don't do that. But yeah, it's just really nice to have             |
 | 01:02:16   | actual automation as an automation option. Yeah, I agree. And this is like on my list. I have been       |
-| 01:02:24   | really busy. I forgot to mention on the show, I released the Obsidian Field Guide. So, hey guys,         |
-| 01:02:30   | I really see Obsidian Field Guide. In fact, I'll put a little discount code for automators,              |
+| 01:02:24   | really busy. I forgot to mention on the show, I released the [[Obsidian]] Field Guide. So, hey guys,         |
+| 01:02:30   | I really see [[Obsidian]] Field Guide. In fact, I'll put a little discount code for automators,              |
 | 01:02:38   | I'll say automate Obsidian, and then you guys get 10% off and it'll go when the show goes out. But       |
 | 01:02:45   | I totally forgot to mention it on the show, but I've been so busy with that I haven't had time           |
 | 01:02:50   | because I've got on a note here, personal automation audit. I want to go through now that                |

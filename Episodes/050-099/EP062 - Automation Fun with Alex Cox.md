@@ -412,16 +412,16 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 36:43      | people from my meetings. At the bottom, it has an action list. And you can just like go in and          |
 | 36:49      | just set the template around it and anybody can do this. Anybody listening to this is so easy.          |
 | 36:54      | And then once you have that one, then suddenly you have an excuse to make so many more like I've        |
-| 37:00      | been playing a lot lately with this Mac app called obsidian, which is kind of like, you know,           |
+| 37:00      | been playing a lot lately with this Mac app called [[Obsidian]], which is kind of like, you know,           |
 | 37:04      | getting to that Zettelkasten thing. It's a kind of app that really focuses on that,                   |
 | 37:09      | but they don't have an iOS app. So I took all, but it works in markdown. So I took all my templates     |
-| 37:15      | out of the Obsidian and added them to [[Drafts]] as an action list, where it's just insert text. So I       |
-| 37:21      | can write anything for Obsidian on my iPhone using Drafts. And like, there's so many uses for this      |
+| 37:15      | out of the [[Obsidian]] and added them to [[Drafts]] as an action list, where it's just insert text. So I       |
+| 37:21      | can write anything for [[Obsidian]] on my iPhone using Drafts. And like, there's so many uses for this      |
 | 37:27      | stuff. And that's the most basic easy automation. I mean, what you just said blew my mind, because      |
-| 37:34      | my one thing about not trying Obsidian was the fact that it wasn't on iOS. Because when you get         |
+| 37:34      | my one thing about not trying [[Obsidian]] was the fact that it wasn't on iOS. Because when you get         |
 | 37:44      | down to it, my phone is truly my main computer, actually. So, but I think I'm getting more out          |
 | 37:53      | of this episode than anybody else right now. Well, if you want to go down that rabbit hole,             |
-| 37:59      | Obsidian is just markdown files. So you put it on Dropbox. And if you have one,                         |
+| 37:59      | [[Obsidian]] is just markdown files. So you put it on Dropbox. And if you have one,                         |
 | 38:03      | why didn't put that together? Like, that's awesome. Oh, of course. Oh, I hope that this team gets,      |
 | 38:08      | oh, I wish I could give them money. Can I give them money, David? Oh, good. If you give them money,     |
 | 38:15      | you get into the insider build. So you get ahead of the, you know, the rest of the proletariat.         |
@@ -450,7 +450,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 41:02      | action to see your stats. So, and by stats, I just mean, you know, like the word count, paragraph       |
 | 41:10      | count, stuff like that. And it has a way to, instead of saying like, oh, and insert a dash,             |
 | 41:19      | bracket, bracket, it's just tasks. So then suddenly I have this great markdown or test paper            |
-| 41:27      | list that I can do anything with or, you know, put it into Obsidian, which I have now downloaded        |
+| 41:27      | list that I can do anything with or, you know, put it into [[Obsidian]], which I have now downloaded        |
 | 41:35      | and I'm super psyched to try. And even things like send to bear, the, oh, send to Dropbox with          |
 | 41:46      | link, which I think Rose, you made this for me. It's just a, it's in one of my workspaces in Drafts.    |
 | 41:55      | I have a bunch of images that I need to reference all the time for work, but they need to live in       |

@@ -542,7 +542,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 30:56      | And of course, you immediately see the benefit of it and yeah, yeah, you do.                            |
 | 31:01      | There is another notes app, which I feel is worth a shout out for for this because they've              |
 | 31:06      | added not only focus mode support, but they've also added shortcut support and that's agenda.           |
-| 31:13      | Agenda previously was all in on the [[URL Schemes\|URL scheme]]s and they've still got those to be clear, but            |
+| 31:13      | Agenda previously was all in on the [[URL Schemes]] and they've still got those to be clear, but            |
 | 31:19      | they have decided that they're implementing focus mode support so you can filter by categories.         |
 | 31:23      | So you can create categories of projects and agenda, which is pretty nice.                              |
 | 31:27      | So I've got, you know, my work category is selected obviously for work.                                 |
@@ -639,7 +639,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 36:59      | to put it.                                                                                              |
 | 37:00      | And yeah, that works well.                                                                              |
 | 37:02      | So you're just tracking kind of work projects and communications, and it's a lot prettier               |
-| 37:07      | than Obsidian.                                                                                          |
+| 37:07      | than [[Obsidian]].                                                                                          |
 | 37:08      | It's a lot friendlier on iPhone and iPad.                                                               |
 | 37:10      | I get that.                                                                                             |
 | 37:11      | Yes.                                                                                                    |
@@ -944,7 +944,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 54:52      | I have a custom home screen for this and it's got the Kindle app on it.                                 |
 | 54:58      | It's got the Audible app.                                                                               |
 | 55:00      | It's got the Apple books.                                                                               |
-| 55:02      | It's got Obsidian there because I take a lot of notes in Obsidian as I'm reading books.                 |
+| 55:02      | It's got [[Obsidian]] there because I take a lot of notes in [[Obsidian]] as I'm reading books.                 |
 | 55:07      | A lot of times I see something that adds to an idea so I can just go in there and do it.                |
 | 55:13      | I also have the reader with two E's app in there.                                                       |
 | 55:15      | So I kind of consider reading RSS in the same kind of context as reading.                               |

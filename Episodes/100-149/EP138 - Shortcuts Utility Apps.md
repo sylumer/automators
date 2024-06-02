@@ -385,7 +385,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 20:32      | that I think will benefit, but so far it seems to be working out pretty well for me.                 |
 | 20:38      | Yeah, so what I'm doing with it is, I have a small team and we are decided to put some               |
 | 20:44      | of the pending projects team-wise into it, but now I still have my personal tools, you               |
-| 20:50      | know, OmniFocus, Obsidian, yada yada, and I can automate all of those with shortcuts,                |
+| 20:50      | know, OmniFocus, [[Obsidian]], yada yada, and I can automate all of those with shortcuts,                |
 | 20:55      | but what I wanted to do was create a record in [[Notion]] when I set up a project for myself             |
 | 21:01      | on my local Mac, and that's something that I probably could have done with web calls                 |
 | 21:06      | and I could have hacked it together, but it's so much easier with Nautomate, you know, and           |
@@ -395,12 +395,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 21:24      | I just want to add a record to an existing database and that kind of stuff is easy peasy             |
 | 21:31      | for this thing, and if you are interested in shortcuts and use [[Notion]], look no further.              |
 | 21:36      | I mean, it's an entire app dedicated to it.                                                          |
-| 21:39      | There's a related one, too, like if you are a big-time Obsidian user, there's an app called          |
-| 21:48      | Actions for Obsidian, which is kind of the same thing.                                               |
-| 21:51      | I mean, Obsidian is, you know, it's not a native Mac app or iPhone, it's an Electron                 |
+| 21:39      | There's a related one, too, like if you are a big-time [[Obsidian]] user, there's an app called          |
+| 21:48      | Actions for [[Obsidian]], which is kind of the same thing.                                               |
+| 21:51      | I mean, [[Obsidian]] is, you know, it's not a native Mac app or iPhone, it's an Electron                 |
 | 21:57      | app, so it doesn't necessarily have a lot of tie-ins to shortcuts, but this developer                |
 | 22:03      | whose name escapes me, there we go, Carlo Zottman, just made 40 actions that are shortcuts actions    |
-| 22:10      | that address your Obsidian database.                                                                 |
+| 22:10      | that address your [[Obsidian]] database.                                                                 |
 | 22:13      | Very clever and just great idea, and I was on the bait on this one as he was developing              |
 | 22:18      | it and just kept getting better with every release, and this is another example like                 |
 | 22:22      | Nautomate where you're using an app that historically you would think, well, there's no shortcut     |
@@ -409,19 +409,19 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 22:33      | All you have to do is download and pay a few bucks for their app and you're off to the               |
 | 22:36      | races.                                                                                               |
 | 22:37      | Yeah, and honestly, that's just one of those great things about these apps where, yes,               |
-| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync Obsidian with Dropbox             |
+| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync [[Obsidian]] with Dropbox             |
 | 22:52      | and then put stuff in there via that, but then you lose some of the niceties that you                |
-| 22:57      | get from Obsidian Sync, or you do what I did for a while, which is set up a double sync,             |
-| 23:01      | so syncing via Obsidian Sync and then one computer is also syncing it to Dropbox so                  |
+| 22:57      | get from [[Obsidian]] Sync, or you do what I did for a while, which is set up a double sync,             |
+| 23:01      | so syncing via [[Obsidian]] Sync and then one computer is also syncing it to Dropbox so                  |
 | 23:04      | that you get the double, but then it just opens up possibilities for something to go                 |
-| 23:10      | wrong, and my problem with [[URL Schemes\|URL scheme]]s is I always think that I remember what they are.              |
+| 23:10      | wrong, and my problem with [[URL Schemes]] is I always think that I remember what they are.              |
 | 23:16      | I really, really, really need to learn that my memory is not perfect because every single            |
 | 23:20      | time I'm convinced that I know what the [[URL Schemes\|URL scheme]] is, I'll type everything in and click             |
 | 23:24      | it or run it, and then something goes wrong somewhere, and so I really should just copy              |
-| 23:30      | paste or, in the case of Obsidian, yeah, I'm also using Actions for Obsidian.                        |
+| 23:30      | paste or, in the case of [[Obsidian]], yeah, I'm also using Actions for Obsidian.                        |
 | 23:34      | I've given it a good try over the last couple of weeks, and I have to say I'm really liking          |
 | 23:37      | it.                                                                                                  |
-| 23:38      | Well, and I'm just the opposite of you when it comes to [[URL Schemes\|URL scheme]]s.                                 |
+| 23:38      | Well, and I'm just the opposite of you when it comes to [[URL Schemes]].                                 |
 | 23:41      | I have to relearn them every time I implement them because I don't do them frequently.               |
 | 23:44      | Well, I also have to relearn them.                                                                   |
 | 23:46      | The problem is, is I don't think that I have to relearn them, and that really is the problem.        |
@@ -1255,7 +1255,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:15:42   | make Teams work for me, which I really appreciate.                                                   |
 | 01:15:45   | And then work switch to Slack, and now we switch back to Teams, so it works again.                   |
 | 01:15:50   | So yeah, I highly recommend it.                                                                      |
-| 01:15:52   | HomeBot will let you like create [[URL Schemes\|URL scheme]]s for HomeKit stuff, so you can use it from               |
+| 01:15:52   | HomeBot will let you like create [[URL Schemes]] for HomeKit stuff, so you can use it from               |
 | 01:15:57   | your Stream Deck.                                                                                    |
 | 01:15:58   | Yes.                                                                                                 |
 | 01:15:59   | Yeah.                                                                                                |

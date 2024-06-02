@@ -135,7 +135,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 05:32      | on the train and have no service. And I realised I needed something to listen to. And so I                                                                                         |
 | 05:37      | found something that was called podcasts and a little show called [[Mac Power Users]] and downloaded                                                                                   |
 | 05:43      | that and started listening. And I think that kind of introduced me into the whole iOS world,                                                                                       |
-| 05:49      | especially around, around the time, I think [[URL Schemes\|URL scheme]]s were the big hotness for automation                                                                                        |
+| 05:49      | especially around, around the time, I think [[URL Schemes]] were the big hotness for automation                                                                                        |
 | 05:57      | nerds and, yeah, [[Federico Viticci]] of [[MacStories](https://www.macstories.net/)](https://www.macstories.net/), which I'm sure most people listening know,                                                                                    |
 | 06:02      | but he wrote about it so much. And I kind of just got into it on a daily basis, like                                                                                               |
 | 06:08      | recognising that there was stuff that I wanted to do on my phone that I couldn't. And there                                                                                        |

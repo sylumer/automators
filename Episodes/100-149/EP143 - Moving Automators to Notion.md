@@ -139,7 +139,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 04:58      | I've seen some blog posts by folks that like run their whole lives out of [[Notion]].                    |
 | 05:03      | And that seems a little weird to me, but we can talk about why, but some of those limitations        |
 | 05:09      | you talk about to me make it really not the app.                                                     |
-| 05:12      | It's not going to replace Obsidian or OmniFocus or apps that are kind of more centre focused         |
+| 05:12      | It's not going to replace [[Obsidian]] or OmniFocus or apps that are kind of more centre focused         |
 | 05:18      | and frankly better for that kind of stuff.                                                           |
 | 05:21      | But it is useful and especially in the context of collaboration.                                     |
 | 05:27      | But maybe before we get into what we're doing with [[Notion]], we should talk about where we             |
@@ -319,7 +319,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 17:14      | in [[Notion]] and you can template not just what you want the document to say, but like one              |
 | 17:20      | of the things I was thinking about doing ultimately, I didn't do it, but I did some tests with       |
 | 17:25      | it is I have a task list related to each podcast episode.                                            |
-| 17:30      | And you know, I've got ways to script that an OmniFocus or or or Obsidian or wherever                |
+| 17:30      | And you know, I've got ways to script that an OmniFocus or or or [[Obsidian]] or wherever                |
 | 17:34      | you want to put or Apple reminders, there's a lot of ways you can do that.                           |
 | 17:38      | But like for every show, I need to work on the outline, I need to get the ads recorded.              |
 | 17:42      | If it's mine to publish, I need to get a published.                                                  |
@@ -411,7 +411,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 22:35      | It's a very small team, primarily two people, myself included, but sometimes a third or              |
 | 22:41      | a fourth show up for one bit or another.                                                             |
 | 22:44      | But I just wanted a place where if I updated something that everybody else knew about it             |
-| 22:49      | and, and historically I did a lot of this project management stuff in Obsidian, I still              |
+| 22:49      | and, and historically I did a lot of this project management stuff in [[Obsidian]], I still              |
 | 22:53      | do my personal stuff there, but I don't, they don't see that.                                        |
 | 22:58      | So I needed a place where we could have collaborative truth.                                         |
 | 23:01      | And then, then it, then it multiplied like tribbles that went to the Mac power users                 |
@@ -735,17 +735,17 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 44:03      | And like I talked about the news, the data you put in for the notion record and use it               |
 | 44:07      | for something else too, that's, that's golden, right?                                                |
 | 44:11      | And then you just got everything together.                                                           |
-| 44:12      | Like I was talking earlier how I do a lot of project management type stuff in Obsidian.              |
+| 44:12      | Like I was talking earlier how I do a lot of project management type stuff in [[Obsidian]].              |
 | 44:18      | I like to have my project records there as local.                                                    |
 | 44:22      | It always works.                                                                                     |
 | 44:23      | There were just text files.                                                                          |
 | 44:24      | I can work in them anytime on any device.                                                            |
 | 44:27      | But I didn't like the idea of having to go into notion and create a record for a show,               |
-| 44:33      | but also create a record for a show in Obsidian.                                                     |
+| 44:33      | but also create a record for a show in [[Obsidian]].                                                     |
 | 44:37      | That's like two things, right?                                                                       |
 | 44:38      | Who wants to do two things?                                                                          |
 | 44:40      | But you can create a, yeah, you can create a shortcut.                                               |
-| 44:42      | It fills all that out, uses the template in obsidian, does its thing over there, then                |
+| 44:42      | It fills all that out, uses the template in [[Obsidian]], does its thing over there, then                |
 | 44:47      | it goes over to notion, adds the record, does its thing over there.                                  |
 | 44:51      | And very quickly, you can go from thought to fully germinated project with just a couple,            |
 | 44:58      | you know, shortcuts.                                                                                 |
@@ -754,15 +754,15 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 45:07      | Yes, definitely.                                                                                     |
 | 45:09      | And I think the other thing is, is if I've had an idea for a show, then you can also                 |
 | 45:14      | use the ability to retrieve that information and, you know, just say, hey, I just want               |
-| 45:19      | to create an obsidian note for this upcoming show, which is already in notion, and you               |
-| 45:24      | can just grab that data and pull it out and use the same setup to create that obsidian               |
+| 45:19      | to create an [[Obsidian]] note for this upcoming show, which is already in notion, and you               |
+| 45:24      | can just grab that data and pull it out and use the same setup to create that [[Obsidian]]               |
 | 45:29      | note with the information that's come from the record.                                               |
 | 45:33      | And that to me is the beauty of this kind of automation, where you're building something             |
 | 45:38      | and you go, okay.                                                                                    |
-| 45:39      | So I want to create a notion record and I want to create an obsidian document.                       |
-| 45:42      | And if I create the notion record first, that data feeds my obsidian document.                       |
+| 45:39      | So I want to create a notion record and I want to create an [[Obsidian]] document.                       |
+| 45:42      | And if I create the notion record first, that data feeds my [[Obsidian]] document.                       |
 | 45:47      | And then you can go, oh, wait, I didn't create the notion record, but I can just select the          |
-| 45:52      | notion record and feed that into my shortcut that creates the obsidian document and bam,             |
+| 45:52      | notion record and feed that into my shortcut that creates the [[Obsidian]] document and bam,             |
 | 45:58      | you've got suddenly two automations which solve problems.                                            |
 | 46:02      | And that's, you know, that's really where the whole magic begins.                                    |
 | 46:07      | You know, you're not just doing one thing, you're doing more than one thing, but because             |
@@ -1157,7 +1157,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:09:00   | And I actually use a variable for that because I'm a nerd, why wouldn't I?                           |
 | 01:09:06   | But I could just find a place because I have all of my bunch macros, well, bunch is just             |
 | 01:09:14   | a whole bunch of files.                                                                              |
-| 01:09:16   | And just like you love obsidian because it's just files, David, that's one of the reasons            |
+| 01:09:16   | And just like you love [[Obsidian]] because it's just files, David, that's one of the reasons            |
 | 01:09:19   | why I love bunch.                                                                                    |
 | 01:09:20   | [[Keyboard Maestro]] is brilliant.                                                                       |
 | 01:09:22   | I love [[Keyboard Maestro]].                                                                             |

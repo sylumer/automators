@@ -203,7 +203,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 11:07      | most frequently used applications. And underneath that, I've got better telegram and better touch        |
 | 11:12      | tool showing up as other options. So I can use it to open applications very, very quickly without        |
 | 11:20      | taking my hands off the keyboard. Yeah. I know there's a running battle on my computer right now         |
-| 11:25      | between Obsidian and OmniFocus for the letter O and [[Alfred]]. It's like, they can't make up its            |
+| 11:25      | between [[Obsidian]] and OmniFocus for the letter O and [[Alfred]]. It's like, they can't make up its            |
 | 11:31      | mind. Which one does he like? But you're right. It is funny for your most frequently used apps.          |
 | 11:38      | It's just the single letter. Whereas when you do that same search in spotlight, it just isn't as smart.  |
 | 11:46      | Actually, spotlight is indeed suggesting terminal to me. And then underneath that,                       |
@@ -211,12 +211,12 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 11:57      | I have no idea what spotlight is doing here. [[Spotlight]], go home, you drunk. But yeah,                    |
 | 12:03      | unsurprisingly, [[Alfred]] is not suggesting my printer. I only want my printer to open if I'm               |
 | 12:08      | printing a document. I'm never going to search for it this way.                                          |
-| 12:11      | Okay. And spotlight for me with O is giving me Obsidian. And then in second place, Knights of            |
+| 12:11      | Okay. And spotlight for me with O is giving me [[Obsidian]]. And then in second place, Knights of            |
 | 12:17      | the Old Republic, which is a game I downloaded and have not played on this computer at all.              |
 | 12:21      | And then under that OmniFocus, which is an app that is open like 24x7. So go for it.                 |
-| 12:26      | Yeah. Well, mine is showing Fnatic, which is for keyboard that I have. OmniFocus and Obsidian in         |
-| 12:33      | that order versus the [[Alfred]], which is showing Obsidian and then OmniFocus. I guess I was using          |
-| 12:40      | Obsidian more recently than OmniFocus for this because I saved some notes in there for this              |
+| 12:26      | Yeah. Well, mine is showing Fnatic, which is for keyboard that I have. OmniFocus and [[Obsidian]] in         |
+| 12:33      | that order versus the [[Alfred]], which is showing [[Obsidian]] and then OmniFocus. I guess I was using          |
+| 12:40      | [[Obsidian]] more recently than OmniFocus for this because I saved some notes in there for this              |
 | 12:43      | show, David. Yeah. And so just launching apps is great. And it's not just there to find apps that        |
 | 12:51      | also can find files. Maybe we should, do you want to talk about files now?                               |
 | 12:56      | Yeah, yeah. So let's talk a bit about files. I gotta be careful here. I don't want to scare              |
@@ -1017,13 +1017,13 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:27:36   | it just adds an OmniFocus task in my inbox. It doesn't pop open or OmniFocus or quick capture            |
 | 01:27:41   | or anything like that. It just checks it in my inbox and I'm done with it. Things like that              |
 | 01:27:45   | make my life much easier. I have, I've been playing, there are some people developing                    |
-| 01:27:51   | around Obsidian workflows for [[Alfred]]. And the ones that are out there yet, I haven't found               |
+| 01:27:51   | around [[Obsidian]] workflows for [[Alfred]]. And the ones that are out there yet, I haven't found               |
 | 01:27:57   | what they do are not things I really want. So it's not really out there. But the way I've been           |
-| 01:28:03   | automating Obsidian with [[Alfred]] is I have a web search. We talked earlier about custom web               |
-| 01:28:07   | search as well Obsidian has a [[URL Schemes\|URL scheme]]. So I've got one that it doesn't start with HTTP,               |
-| 01:28:14   | it starts with Obsidian colon slash slash, but it does an Obsidian search. And that I find that          |
-| 01:28:22   | useful. And I just tie it to the, to the letter O. But the, but I haven't really got an Obsidian         |
-| 01:28:28   | workflow when I'm, I hope some of the nerds out there that are listening that are into Obsidian          |
+| 01:28:03   | automating [[Obsidian]] with [[Alfred]] is I have a web search. We talked earlier about custom web               |
+| 01:28:07   | search as well [[Obsidian]] has a [[URL Schemes\|URL scheme]]. So I've got one that it doesn't start with HTTP,               |
+| 01:28:14   | it starts with [[Obsidian]] colon slash slash, but it does an [[Obsidian]] search. And that I find that          |
+| 01:28:22   | useful. And I just tie it to the, to the letter O. But the, but I haven't really got an [[Obsidian]]         |
+| 01:28:28   | workflow when I'm, I hope some of the nerds out there that are listening that are into [[Obsidian]]          |
 | 01:28:33   | will come up with some good ones. I'm not going to make one. I'm not good enough to make one.            |
 | 01:28:37   | But the, I do hope that, that something cool comes up. Another one I have that I would share             |
 | 01:28:43   | is one that I customised based on the ones that ship with [[Alfred]]. [[Alfred]] has like some search,           |

@@ -1093,7 +1093,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:02:15   | so on.                                                                                                 |
 | 01:02:16   | But some of the keyboard shortcuts I want to trigger aren't actually keyboard shortcuts.               |
 | 01:02:19   | And you can't add them to a keyboard shortcut and triggering them via menus, not possible.             |
-| 01:02:24   | So I have to use [[Keyboard Maestro]]s, click an image and that doesn't necessarily work                   |
+| 01:02:24   | So I have to use [[Keyboard Maestro\|Keyboard Maestro's]], click an image and that doesn't necessarily work                   |
 | 01:02:28   | if the window is too small.                                                                            |
 | 01:02:29   | So I'm still figuring that out, but generally I'm reserving it for recording, but it does              |
 | 01:02:35   | make my life a lot easier with that.                                                                   |

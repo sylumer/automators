@@ -852,12 +852,12 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:16:26   | video that's on my local storage so that the next time I'm playing it, I can go, wait, what was that     |
 | 01:16:32   | one thing? Oh yeah, let me just activate hook. There it is. I think that's the thing, isn't it?          |
 | 01:16:36   | It's all about the interlinking between things. That's one of the reasons why I'm such a big             |
-| 01:16:40   | fan of Obsidian. I have done a little playing with hook. But in my day job, I don't really need to       |
+| 01:16:40   | fan of [[Obsidian]]. I have done a little playing with hook. But in my day job, I don't really need to       |
 | 01:16:46   | link files together or link much of anything together. It's it's all interconnected in an IDE.           |
 | 01:16:52   | So I've not had a huge chance to play with it from that perspective. But it's something I'm,             |
 | 01:16:57   | I've started experimenting with more and more, you know, as me rather than working me. And I'm           |
-| 01:17:03   | liking it. Yeah. And, you know, now Obsidian has URL integration, where you can easily save the          |
-| 01:17:09   | URL to an Obsidian page. And it has hook integration. So you can hook your Obsidian page. So I just      |
+| 01:17:03   | liking it. Yeah. And, you know, now [[Obsidian]] has URL integration, where you can easily save the          |
+| 01:17:09   | URL to an [[Obsidian]] page. And it has hook integration. So you can hook your [[Obsidian]] page. So I just      |
 | 01:17:15   | love the way all this stuff ties together. Me too. Explain to me a little bit more, Jay,                 |
 | 01:17:21   | how this new integration is going to work to allow you to use it on mobile devices, because              |
 | 01:17:25   | that's the one thing I'm sad about with hook is that like the URL links I have to files and folders      |
@@ -896,7 +896,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:20:44   | it's really cool. You know what, I could talk about this for hours, but I already did that               |
 | 01:20:51   | on the show. And here's a link to it. And then just copy that link and then send it off to him.          |
 | 01:20:55   | Nice. Yeah, I use it both for MacSparky and Legal in much the same way. And like one thing              |
-| 01:21:02   | that is always hooked is the Obsidian URL, because that's kind of the ground zero for a lot of this      |
+| 01:21:02   | that is always hooked is the [[Obsidian]] URL, because that's kind of the ground zero for a lot of this      |
 | 01:21:07   | stuff. But it also can be an OmniFocus project, or it can be a website or, you know, or a folder,        |
 | 01:21:13   | full of files. And to me, that's kind of the killer feature of it. And something I sorely miss           |
 | 01:21:20   | when I'm on an iPad that I don't have my hook security blanket available to me.                          |

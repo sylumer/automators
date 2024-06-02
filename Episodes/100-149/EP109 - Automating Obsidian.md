@@ -83,16 +83,16 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 00:13      | David Sparks. Hey, David, how are you today?                                                       |
 | 00:15      | I am excellent, Rose.                                                                              |
 | 00:17      | I'm always happy to be here talking automation with you.                                           |
-| 00:20      | Today, we are zeroing in our automation eyeballs on Obsidian.                                      |
-| 00:26      | Yeah. We've danced around Obsidian                                                                 |
+| 00:20      | Today, we are zeroing in our automation eyeballs on [[Obsidian]].                                      |
+| 00:26      | Yeah. We've danced around [[Obsidian]]                                                                 |
 | 00:29      | before we talked about it a bit here and there.                                                    |
 | 00:31      | It's made its way into various episodes.                                                           |
 | 00:33      | We had Ryan Murphy on the show in episode 88.                                                      |
-| 00:36      | Obviously, he's a big Obsidian user,                                                               |
+| 00:36      | Obviously, he's a big [[Obsidian]] user,                                                               |
 | 00:38      | he's created plugins and so on for it.                                                             |
-| 00:40      | But you and I use Obsidian every day.                                                              |
+| 00:40      | But you and I use [[Obsidian]] every day.                                                              |
 | 00:43      | I don't know about you, David,                                                                     |
-| 00:45      | but it feels like my Obsidian usage is                                                             |
+| 00:45      | but it feels like my [[Obsidian]] usage is                                                             |
 | 00:46      | literally increasing on a daily basis at the moment.                                               |
 | 00:49      | I feel like I've introduced five people at work to it                                              |
 | 00:51      | in relatively short order and they're all just loving it.                                          |
@@ -114,14 +114,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:34      | automation because obsidian's database is                                                          |
 | 01:36      | just a folder full of markdown files.                                                              |
 | 01:38      | So all your normal automation tools can                                                            |
-| 01:43      | interact with the Obsidian database very easily.                                                   |
+| 01:43      | interact with the [[Obsidian]] database very easily.                                                   |
 | 01:45      | So there's just a lot of ways to get into that.                                                    |
 | 01:49      | I know both of us have been cobbling together                                                      |
 | 01:52      | systems as we use the app or I thought,                                                            |
 | 01:54      | well, let's just do a check-in and see what we're doing.                                           |
 | 01:58      | Yeah. Yeah. So I think,                                                                            |
 | 02:00      | I mean, we should probably start at the beginning, right?                                          |
-| 02:02      | So for people who aren't familiar with Obsidian or                                                 |
+| 02:02      | So for people who aren't familiar with [[Obsidian]] or                                                 |
 | 02:04      | people who haven't heard before,                                                                   |
 | 02:06      | how were you using obsidian?                                                                       |
 | 02:07      | And of course, you know, checking in that you're                                                   |
@@ -167,10 +167,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 03:52      | I use it for writing because it's a great writing tool                                             |
 | 03:56      | because they're just markdown files.                                                               |
 | 03:58      | But a lot of the blog posts and more substantial pieces I've written in                            |
-| 04:03      | the last year or two have been started life as an Obsidian markdown file.                          |
+| 04:03      | the last year or two have been started life as an [[Obsidian]] markdown file.                          |
 | 04:08      | So I use it for a lot.                                                                             |
 | 04:09      | I mean, that sounds like me.                                                                       |
-| 04:11      | I mean, I've got kind of two split primary uses for Obsidian.                                      |
+| 04:11      | I mean, I've got kind of two split primary uses for [[Obsidian]].                                      |
 | 04:16      | And that's split in the sense that I have two different volts.                                     |
 | 04:20      | And I have limited it to just two different volts in that I have my work                           |
 | 04:25      | vault and I have my personal vault.                                                                |
@@ -183,7 +183,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 04:51      | so that I don't necessarily have the same plugins installed in all the                             |
 | 04:54      | vaults because I mean, I'm hoping we can talk about some of our                                    |
 | 04:58      | favourite not necessarily strictly automation related, but, you know,                               |
-| 05:02      | making work, making Obsidian work better for us plugins in a bit.                                  |
+| 05:02      | making work, making [[Obsidian]] work better for us plugins in a bit.                                  |
 | 05:06      | But some of the plugins that I have for my personal stuff, I just don't need                       |
 | 05:09      | for work and vice versa.                                                                           |
 | 05:12      | It tends to be more personal ones not needed for work rather than work                             |
@@ -194,7 +194,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 05:29      | Like if I'm not sure what something is or where it's going or whatever,                            |
 | 05:33      | I don't think about it.                                                                            |
 | 05:33      | It goes in [[Drafts]] and then I can send it off wherever later.                                       |
-| 05:37      | We'll come back to integrating Obsidian with other apps in a bit.                                  |
+| 05:37      | We'll come back to integrating [[Obsidian]] with other apps in a bit.                                  |
 | 05:41      | But for me, it is just like this is data and I want to keep it.                                    |
 | 05:45      | It's going in here and then I can add my tags and so on.                                           |
 | 05:48      | And I don't know about you, David, but I really like the [[YAML]] frontmatter                          |
@@ -243,37 +243,37 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 08:14      | Now, I will tell you, by the way, I only use one vault.                                            |
 | 08:18      | And I don't know if that's good or bad,                                                            |
 | 08:20      | but I've got a lot, everything in one big bucket right now.                                        |
-| 08:24      | I have started moving some data out of Obsidian.                                                   |
+| 08:24      | I have started moving some data out of [[Obsidian]].                                                   |
 | 08:27      | And that is, yeah, primarily it's craft, you know, craft is out there too,                         |
 | 08:33      | which is a similar type of application.                                                            |
 | 08:36      | It allows back linking and relational notes.                                                       |
 | 08:39      | And, but it's a block based editor, so it's different.                                             |
 | 08:42      | And it's more graphically friendly.                                                                |
-| 08:44      | It's prettier, but it doesn't have a lot of features Obsidian does.                                |
+| 08:44      | It's prettier, but it doesn't have a lot of features [[Obsidian]] does.                                |
 | 08:48      | For instance, it doesn't have into an encryption,                                                  |
 | 08:50      | which is something I like and some other features.                                                 |
 | 08:53      | So they're kind of different animals.                                                              |
-| 08:55      | But one of the things craft does much better than Obsidian is collaboration.                       |
+| 08:55      | But one of the things craft does much better than [[Obsidian]] is collaboration.                       |
 | 09:00      | And so I've got a few people helping me                                                            |
 | 09:02      | with getting all the content together for MacSparky.                                              |
 | 09:05      | And we were running into problems with like proofreading                                           |
 | 09:08      | and kind of keeping on top of things,                                                              |
 | 09:10      | where I'm working on newsletters and blog posts                                                    |
 | 09:12      | and the team members weren't able to see them because they were in craft.                          |
-| 09:16      | I'm sorry, they were in Obsidian, you know.                                                        |
+| 09:16      | I'm sorry, they were in [[Obsidian]], you know.                                                        |
 | 09:17      | So, so I created a shared craft that a bunch of us share.                                          |
 | 09:22      | And I have a lot of data going in there now                                                        |
 | 09:25      | that is stuff that they would need to see.                                                         |
-| 09:28      | And I, I'm moving that data out of Obsidian,                                                       |
+| 09:28      | And I, I'm moving that data out of [[Obsidian]],                                                       |
 | 09:31      | which is another source of automation.                                                             |
 | 09:33      | How do you move it from one to the next?                                                           |
 | 09:36      | But it's not really a problem.                                                                     |
-| 09:39      | It's not that I don't like Obsidian.                                                               |
-| 09:40      | It's just like Obsidian really isn't built for that type of collaboration.                         |
+| 09:39      | It's not that I don't like [[Obsidian]].                                                               |
+| 09:40      | It's just like [[Obsidian]] really isn't built for that type of collaboration.                         |
 | 09:44      | Yeah.                                                                                              |
 | 09:45      | And, and I'm thinking about some of my personal PKM stuff,                                         |
 | 09:48      | like where, when did the dog get the shots?                                                        |
-| 09:51      | I'm not sure I want that clouding up my Obsidian database.                                         |
+| 09:51      | I'm not sure I want that clouding up my [[Obsidian]] database.                                         |
 | 09:54      | That makes sense.                                                                                  |
 | 09:54      | Well, that's what another vault could be really useful for.                                        |
 | 09:58      | Because I have a similar problem at work, you know.                                                |
@@ -309,7 +309,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 11:13      | like it's going to handle it just fine.                                                            |
 | 11:16      | But a lot of services aren't built for that.                                                       |
 | 11:18      | And, you know, that's not what they're designed for.                                               |
-| 11:20      | That's not what Obsidian is for.                                                                   |
+| 11:20      | That's not what [[Obsidian]] is for.                                                                   |
 | 11:21      | So I certainly don't blame them when that is the case.                                             |
 | 11:25      | So if you do need to collaborate,                                                                  |
 | 11:26      | I'm sure Craft is great for you.                                                                   |
@@ -338,11 +338,11 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 12:19      | if you can't quite get there entirely with the automation tools                                    |
 | 12:24      | that you would prefer.                                                                             |
 | 12:25      | But there's a solution to every problem.                                                           |
-| 12:28      | And Obsidian plugins, certainly,                                                                   |
+| 12:28      | And [[Obsidian]] plugins, certainly,                                                                   |
 | 12:31      | if you look at that community plugin list,                                                         |
 | 12:33      | boy, oh boy, that is a solution                                                                    |
 | 12:34      | to a heck of a lot of problems right there.                                                        |
-| 12:36      | Yeah, and Obsidian is an electron app,                                                             |
+| 12:36      | Yeah, and [[Obsidian]] is an electron app,                                                             |
 | 12:38      | which a lot of people lock it for that.                                                            |
 | 12:40      | You know, it's not a native quote unquote Mac app,                                                 |
 | 12:43      | but that doesn't change the fact that there is a lot you can do                                    |
@@ -350,7 +350,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 12:48      | And like you said, as we get through the show,                                                     |
 | 12:51      | there's a lot of topics.                                                                           |
 | 12:52      | So we're going to dig through it a piece at a time.                                                |
-| 12:55      | And both of us are doing a ton of automation in Obsidian                                           |
+| 12:55      | And both of us are doing a ton of automation in [[Obsidian]]                                           |
 | 12:58      | and we thought it'd be, you know,                                                                  |
 | 12:59      | it's time to share the wealth here.                                                                |
 | 13:03      | This episode of Automators is brought to you by Setup.                                             |
@@ -394,7 +394,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 14:58      | I've certainly used it.                                                                            |
 | 15:00      | I mentioned the Wiki stuff before.                                                                 |
 | 15:02      | If I have to write a table that I know is going into the Wiki,                                     |
-| 15:04      | yeah, I write it in Obsidian and then I copy it over to the Wiki when I'm done.                    |
+| 15:04      | yeah, I write it in [[Obsidian]] and then I copy it over to the Wiki when I'm done.                    |
 | 15:08      | Yeah, because the formatting is automatic with this plugin.                                        |
 | 15:11      | And tables were not part of the original spec of Markdown                                          |
 | 15:15      | as John Gruber created it, but they came later.                                                    |
@@ -407,12 +407,12 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 15:43      | But the built-in template plugin, I think, is actually pretty good.                                |
 | 15:47      | The way it works is you can create any document and then save it as a template.                    |
 | 15:52      | Usually you save it to a specific location.                                                        |
-| 15:55      | I've created a folder in Obsidian called templates.                                                |
+| 15:55      | I've created a folder in [[Obsidian]] called templates.                                                |
 | 15:57      | And you can put subfolders in there too, which is really nice.                                     |
 | 16:01      | You can put tokens in there for like the title and the date.                                       |
 | 16:04      | It's not super deep in its support for tokenised information, but you get the basics.              |
 | 16:12      | But using them is just so easy.                                                                    |
-| 16:14      | Like, the way I've done it is I've mapped, because the other automation trick in Obsidian          |
+| 16:14      | Like, the way I've done it is I've mapped, because the other automation trick in [[Obsidian]]          |
 | 16:19      | is you can map any keyboard shortcut to anything you do in the application.                        |
 | 16:23      | It has, like, it is truly anything that the app does.                                              |
 | 16:28      | It gives you an option to create a keyboard shortcut for it.                                       |
@@ -433,16 +433,16 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 17:23      | I don't need super crazy custom things.                                                            |
 | 17:26      | And another trick that I have, which, you know, I'd like to sort of,                               |
 | 17:33      | I feel like I need to remind people of because people forget about it,                             |
-| 17:36      | is the command palette is a native Obsidian plugin.                                                |
+| 17:36      | is the command palette is a native [[Obsidian]] plugin.                                                |
 | 17:39      | And if you enable it, when you hit command P, if you're on the Mac control P,                      |
 | 17:43      | if you're using it on Linux or Windows, then it just opens up a list of commands.                  |
-| 17:48      | And you can start typing and it's like [[Alfred]] built into Obsidian for just Obsidian things.        |
+| 17:48      | And you can start typing and it's like [[Alfred]] built into [[Obsidian]] for just [[Obsidian]] things.        |
 | 17:53      | And it's really useful because you don't have to go and, you know,                                 |
 | 17:58      | like remember exactly what keyboard shortcut things are and so on,                                 |
 | 18:02      | and you can pin certain commands so that they show up really easily.                               |
 | 18:06      | And, you know, that is a really useful tool for people,                                            |
 | 18:10      | especially people who are getting started with obsidian,                                           |
-| 18:13      | but even people who know Obsidian really well because you install a new plugin,                    |
+| 18:13      | but even people who know [[Obsidian]] really well because you install a new plugin,                    |
 | 18:16      | it'll add links there, you know, even if it's third-party plugin,                                  |
 | 18:21      | that's something that it can do. And so that's one of my favourites.                                |
 | 18:26      | Yeah, and it gives you all of the commands related because a lot of third-party plugins            |
@@ -457,21 +457,21 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 18:57      | and gets you into files extremely quickly.                                                         |
 | 19:00      | And I feel like when you put O and P together,                                                     |
 | 19:03      | and then I add T for the templates,                                                                |
-| 19:06      | there is a lot of kickoff work I can do in Obsidian with just those three letters.                 |
+| 19:06      | there is a lot of kickoff work I can do in [[Obsidian]] with just those three letters.                 |
 | 19:13      | Yes, yeah, I think that that is entirely fair.                                                     |
 | 19:17      | And yeah, there's a lot that you end up realising that you can do                                  |
-| 19:22      | when you just go back to a clean, brand new Obsidian install.                                      |
+| 19:22      | when you just go back to a clean, brand new [[Obsidian]] install.                                      |
 | 19:26      | I've recently installed it on a, oh, my mom's machine, actually.                                   |
 | 19:30      | She was looking to make some notes and wanted a really good,                                       |
 | 19:32      | simple application that she could use,                                                             |
 | 19:35      | and that work would let her install on her work machine.                                           |
-| 19:38      | And so I got her to ask her IT department if she could install Obsidian.                           |
+| 19:38      | And so I got her to ask her IT department if she could install [[Obsidian]].                           |
 | 19:42      | She's used Markdown before, obviously.                                                             |
 | 19:44      | And they said, yeah, sure, that's not a problem.                                                   |
 | 19:46      | We'll quite happily install that one for you.                                                      |
 | 19:48      | You'll be saving notes into SharePoint,                                                            |
 | 19:51      | I think is where her notes are going to go.                                                        |
-| 19:54      | Because, of course, Obsidian is just a folder of Markdown files,                                   |
+| 19:54      | Because, of course, [[Obsidian]] is just a folder of Markdown files,                                   |
 | 19:57      | so it'll go wherever you want.                                                                     |
 | 19:59      | And yeah, and she was off to the races pretty quickly                                              |
 | 20:03      | once they got that installed, and I showed her a couple of little bits on it.                      |
@@ -509,10 +509,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 21:50      | I think maybe I got ahead of myself a little bit.                                                  |
 | 21:53      | Just out of curiosity, what are your favourite themes?                                              |
 | 21:56      | Because I know that you can do kind of automated or adjacent                                       |
-| 22:00      | as you can change the look and feel of Obsidian.                                                   |
+| 22:00      | as you can change the look and feel of [[Obsidian]].                                                   |
 | 22:02      | Do you have like favourite themes you use?                                                          |
 | 22:04      | I do, but I think I'm just using the dark theme most of the time.                                  |
-| 22:10      | And I have it, so I have a plugin which adapts Obsidian to the system,                             |
+| 22:10      | And I have it, so I have a plugin which adapts [[Obsidian]] to the system,                             |
 | 22:17      | so that it appears using light mode and dark mode.                                                 |
 | 22:20      | And I'm just trying to figure out if I do have another                                             |
 | 22:23      | something installed that changes the colours and so on,                                             |
@@ -525,7 +525,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 22:42      | But what I did end up doing when I consolidated everything back                                    |
 | 22:46      | is I didn't just go back to my original setup.                                                     |
 | 22:48      | Of course, I had a backup.                                                                         |
-| 22:50      | You know, making a backup of an Obsidian vault is easy.                                            |
+| 22:50      | You know, making a backup of an [[Obsidian]] vault is easy.                                            |
 | 22:53      | You copy the folder, that's it.                                                                    |
 | 22:55      | But I ended up going through and carefully                                                         |
 | 22:58      | just reinstalling the things that I needed                                                         |
@@ -553,15 +553,15 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 23:51      | depending on where your data is located.                                                           |
 | 23:52      | Yeah, I'm doing the, not 100% recommended,                                                         |
 | 23:58      | but also not entirely discouraged approach, David.                                                 |
-| 24:01      | I am double syncing Obsidian.                                                                      |
+| 24:01      | I am double syncing [[Obsidian]].                                                                      |
 | 24:04      | Okay.                                                                                              |
-| 24:04      | I do use Obsidian Sync.                                                                            |
-| 24:06      | Obsidian Sync is my primary preferred method                                                       |
+| 24:04      | I do use [[Obsidian]] Sync.                                                                            |
+| 24:06      | [[Obsidian]] Sync is my primary preferred method                                                       |
 | 24:08      | for getting everything across all my devices.                                                      |
-| 24:10      | And the reason for this is on iOS, if you want Obsidian,                                           |
-| 24:15      | you want your Obsidian Vault synced.                                                               |
-| 24:17      | You have a choice between using iCloud and Obsidian Sync                                           |
-| 24:20      | and Obsidian Sync, or not using Obsidian on mobile,                                                |
+| 24:10      | And the reason for this is on iOS, if you want [[Obsidian]],                                           |
+| 24:15      | you want your [[Obsidian]] Vault synced.                                                               |
+| 24:17      | You have a choice between using iCloud and [[Obsidian]] Sync                                           |
+| 24:20      | and [[Obsidian]] Sync, or not using [[Obsidian]] on mobile,                                                |
 | 24:24      | unfortunately, you can maybe work around it                                                        |
 | 24:26      | with third-party applications,                                                                     |
 | 24:28      | but you can't access Dropbox.                                                                      |
@@ -583,22 +583,22 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 25:10      | And I am being very careful about this.                                                            |
 | 25:12      | I double sync on exactly one machine and no others.                                                |
 | 25:16      | There is one machine in the mix that will sync                                                     |
-| 25:18      | my Obsidian Vault to Obsidian Sync and to Dropbox,                                                 |
+| 25:18      | my [[Obsidian]] Vault to [[Obsidian]] Sync and to Dropbox,                                                 |
 | 25:21      | and nothing else does.                                                                             |
 | 25:23      | Everything else does not cross the streams.                                                        |
-| 25:25      | It only accesses either Dropbox or the Obsidian Sync.                                              |
-| 25:30      | If I'm actually using Obsidian, it's using Obsidian Sync,                                          |
+| 25:25      | It only accesses either Dropbox or the [[Obsidian]] Sync.                                              |
+| 25:30      | If I'm actually using [[Obsidian]], it's using [[Obsidian]] Sync,                                          |
 | 25:34      | and then automations go in via Dropbox in a couple of places,                                      |
 | 25:36      | just to make that a bit easier on me.                                                              |
 | 25:39      | But that's how I'm doing it.                                                                       |
-| 25:41      | I'm guessing, David, you're using the wonderful Obsidian Sync,                                     |
+| 25:41      | I'm guessing, David, you're using the wonderful [[Obsidian]] Sync,                                     |
 | 25:45      | which is, I think it's now a little bit pricier                                                    |
 | 25:49      | than it used to be.                                                                                |
 | 25:50      | There was a discount originally,                                                                   |
 | 25:51      | if you were signing up before they were finished with everything,                                  |
 | 25:57      | because it was sort of in beta for a while.                                                        |
 | 25:59      | Yeah, when you were up on the high wire,                                                           |
-| 26:01      | I am behind the railings, because I am just using Obsidian Sync.                                   |
+| 26:01      | I am behind the railings, because I am just using [[Obsidian]] Sync.                                   |
 | 26:06      | I did pay for it before they raised the price.                                                     |
 | 26:10      | I think the deal was you get it.                                                                   |
 | 26:11      | If you got in it early, you got that price going forward.                                          |
@@ -617,7 +617,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 26:41      | And there's a couple things I like about that.                                                     |
 | 26:44      | Number one is it's end-to-end encrypted.                                                           |
 | 26:46      | And it's in nobody's cloud, except that double encrypted cloud                                     |
-| 26:51      | for Obsidian.                                                                                      |
+| 26:51      | for [[Obsidian]].                                                                                      |
 | 26:53      | I guess it's not that big of a deal,                                                               |
 | 26:54      | not that I'm no longer a lawyer.                                                                   |
 | 26:56      | But still, I don't mind having things end-to-end encrypted.                                        |
@@ -687,7 +687,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 29:35      | And that works really well for me.                                                                 |
 | 29:37      | So I'm quite pleased with that.                                                                    |
 | 29:40      | I also love the fact that if you go on their                                                       |
-| 29:42      | security and privacy section for Obsidian sync,                                                    |
+| 29:42      | security and privacy section for [[Obsidian]] sync,                                                    |
 | 29:45      | and you look at the end-to-end encryption section,                                                 |
 | 29:48      | they have a part of,                                                                               |
 | 29:49      | if you forget your password,                                                                       |
@@ -751,7 +751,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 31:56      | when I'm already in there.                                                                         |
 | 31:57      | As I mentioned before, a lot of stuff ends up in Dropbox's.                                        |
 | 31:59      | Like I'm just capturing this and I'll deal with it later.                                          |
-| 32:02      | But if I'm already in Obsidian                                                                     |
+| 32:02      | But if I'm already in [[Obsidian]]                                                                     |
 | 32:03      | and I'm looking at things and realising,                                                           |
 | 32:05      | oh, right, I need to have a look at this or that,                                                  |
 | 32:07      | then I will make notes in my Workbench                                                             |
@@ -759,7 +759,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 32:15      | Another one I use, and this is definitely                                                          |
 | 32:18      | the developer in me talking, is BetterCodeBlock.                                                   |
 | 32:21      | So BetterCodeBlock allows you to have blocks of code                                               |
-| 32:25      | in your text in Obsidian, and a block of code,                                                     |
+| 32:25      | in your text in [[Obsidian]], and a block of code,                                                     |
 | 32:30      | if it's a block, has three backticks and a new line                                                |
 | 32:33      | and then all of your code, and then three backticks again.                                         |
 | 32:36      | And BetterCodeBlock has title, line numbers,                                                       |
@@ -803,7 +803,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 34:19      | Oh, yeah. Yeah, like I mentioned my network diagram before,                                        |
 | 34:22      | or like my network documentation.                                                                  |
 | 34:25      | Well, I have a network diagram which I've done in Mermaid,                                         |
-| 34:28      | which is something that Obsidian supports,                                                         |
+| 34:28      | which is something that [[Obsidian]] supports,                                                         |
 | 34:31      | where you can just sort of write dashes and arrows                                                 |
 | 34:35      | and like use brackets to link things together, essentially.                                        |
 | 34:38      | Somebody made a markdown diagramming language called Mermaid.                                      |
@@ -835,7 +835,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 35:45      | is the wrong word, because you're not syncing it.                                                  |
 | 35:47      | It's just reading the data.                                                                        |
 | 35:49      | But that's kind of the point.                                                                      |
-| 35:52      | Rows are so much you can do with Obsidian.                                                         |
+| 35:52      | Rows are so much you can do with [[Obsidian]].                                                         |
 | 35:54      | That's the hard thing about this topic.                                                            |
 | 35:56      | Every time we start into it, it's like,                                                            |
 | 35:57      | I don't want to lose the listeners.                                                                |
@@ -905,7 +905,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 38:29      | drinktrade.com/automators for $30 off.                                                        |
 | 38:33      | And our thanks to Trade for the support of the automators                                          |
 | 38:36      | and all of Relay FM.                                                                               |
-| 38:39      | So there's a whole group of plugins for Obsidian                                                   |
+| 38:39      | So there's a whole group of plugins for [[Obsidian]]                                                   |
 | 38:42      | that are full-on automation tools.                                                                 |
 | 38:44      | And these are community plugins, by and large.                                                     |
 | 38:48      | But there's several that you and I have been using                                                 |
@@ -920,7 +920,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 39:09      | and whatever was on your clipboard goes into the round brackets.                                   |
 | 39:12      | But I swear this saves me so much time.                                                            |
 | 39:15      | It's ridiculous.                                                                                   |
-| 39:16      | I keep expecting to see an update note to Obsidian                                                 |
+| 39:16      | I keep expecting to see an update note to [[Obsidian]]                                                 |
 | 39:19      | where there's going to be a checkbox,                                                              |
 | 39:21      | and this is a built-in thing.                                                                      |
 | 39:22      | I mean, this feels to me like one that is on the Sherlock list.                                    |
@@ -962,7 +962,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 40:37      | another one,                                                                                       |
 | 40:39      | which I really like,                                                                               |
 | 40:41      | which is Note Auto Creator,                                                                        |
-| 40:43      | where in Obsidian,                                                                                 |
+| 40:43      | where in [[Obsidian]],                                                                                 |
 | 40:45      | if you put two sets of square brackets around a note,                                              |
 | 40:47      | or around some text, sorry,                                                                        |
 | 40:49      | then that makes it into a clickable link.                                                          |
@@ -1040,7 +1040,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 43:13      | Yeah, yeah. So I don't do that.                                                                    |
 | 43:15      | It's just a different way of approaching it,                                                       |
 | 43:17      | but I have lots of unbuilt roads                                                                   |
-| 43:19      | in my Obsidian database,                                                                           |
+| 43:19      | in my [[Obsidian]] database,                                                                           |
 | 43:21      | but, you know, I'll get there someday, or I won't.                                                 |
 | 43:23      | We'll see. Yes.                                                                                    |
 | 43:25      | Auto note mover, that's another nice, basic one.                                                   |
@@ -1068,7 +1068,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 44:09      | especially if you've got, you know,                                                                |
 | 44:11      | the automations that you're working on,                                                            |
 | 44:13      | and you don't want to be, you know,                                                                |
-| 44:15      | feeding things directly deep into your Obsidian folder                                             |
+| 44:15      | feeding things directly deep into your [[Obsidian]] folder                                             |
 | 44:17      | or something, and you just want to drop everything                                                 |
 | 44:19      | into one particular folder where you can have                                                      |
 | 44:21      | auto note mover pick up everything                                                                 |
@@ -1098,9 +1098,9 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 45:09      | I went on a similar journey. I tried it                                                            |
 | 45:11      | for, like, a month, and I did a whole thing                                                        |
 | 45:13      | in the MacSparky Labs on it, but ultimately,                                                      |
-| 45:15      | Obsidian is my task manager,                                                                       |
+| 45:15      | [[Obsidian]] is my task manager,                                                                       |
 | 45:17      | and I'm sorry, ultimately,                                                                         |
-| 45:19      |OmniFocusis my task manager, Obsidian is not,                                                     |
+| 45:19      |OmniFocusis my task manager, [[Obsidian]] is not,                                                     |
 | 45:21      | but if you're interested in                                                                        |
 | 45:23      | doing tasks there, there's a ton of                                                                |
 | 45:25      | automation built in, where you can                                                                 |
@@ -1125,7 +1125,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 46:03      | to see whether or not this is right for you                                                        |
 | 46:05      | can work really well.                                                                              |
 | 46:07      | I've ended up, because a lot of people                                                             |
-| 46:09      | do use Obsidian for daily notes                                                                    |
+| 46:09      | do use [[Obsidian]] for daily notes                                                                    |
 | 46:11      | and keeping track of their tasks and                                                               |
 | 46:13      | things. I did that experiment in obsidian,                                                         |
 | 46:15      | and for me, I didn't                                                                               |
@@ -1157,14 +1157,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 47:07      | I mean, I'm such a fan of                                                                          |
 | 47:09      | interlinking                                                                                       |
 | 47:11      | information, and                                                                                   |
-| 47:13      | like you, my Obsidian data is precious                                                             |
+| 47:13      | like you, my [[Obsidian]] data is precious                                                             |
 | 47:15      | to me, and that's one of the reasons                                                               |
 | 47:17      | why I'm                                                                                            |
 | 47:19      | pulling back a little bit from                                                                     |
 | 47:21      | certain categories of data I put in there,                                                         |
 | 47:23      | because I want the searches to                                                                     |
 | 47:25      | be more efficient, and                                                                             |
-| 47:27      | I want Obsidian to be where my best                                                                |
+| 47:27      | I want [[Obsidian]] to be where my best                                                                |
 | 47:29      | ideas are, and sometimes                                                                           |
 | 47:31      | I feel like I've cluttered it up too                                                               |
 | 47:33      | much, but with this plugin                                                                         |
@@ -1217,7 +1217,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 49:07      | another reason. It's hard to, like,                                                                |
 | 49:09      | communicate this, because some people listen to us                                                 |
 | 49:11      | and we sound like, you know, we're in some sort of                                                 |
-| 49:13      | Obsidian cult, but it's like,                                                                      |
+| 49:13      | [[Obsidian]] cult, but it's like,                                                                      |
 | 49:15      | it's just so amazing that you've got this app                                                      |
 | 49:17      | you use, and then somebody somewhere                                                               |
 | 49:19      | created a little plugin that added                                                                 |
@@ -1233,7 +1233,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 49:39      | me a little while to figure out,                                                                   |
 | 49:41      | you know, like,                                                                                    |
 | 49:43      | do I want to shape my workflow                                                                     |
-| 49:45      | and force Obsidian into it, or do I                                                                |
+| 49:45      | and force [[Obsidian]] into it, or do I                                                                |
 | 49:47      | want to let my workflow be shaped by obsidian?                                                     |
 | 49:49      | And the answer is it's kind of                                                                     |
 | 49:51      | it's not 50-50,                                                                                    |
@@ -1259,7 +1259,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 50:31      | it's not conflicting plugins,                                                                      |
 | 50:33      | but just similar plugins                                                                           |
 | 50:35      | that do the same thing.                                                                            |
-| 50:37      | Obsidian has built-in template support.                                                            |
+| 50:37      | [[Obsidian]] has built-in template support.                                                            |
 | 50:39      | The built-in template support is                                                                   |
 | 50:41      | excellent, it's robust, it's very simple, it works.                                                |
 | 50:43      | And then there's [[Templater]],                                                                        |
@@ -1307,7 +1307,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 52:07      | I mean, you could try and obfuscate                                                                |
 | 52:09      | the file and make it really difficult to read                                                      |
 | 52:11      | and do stuff with, but that's                                                                      |
-| 52:13      | not how the Obsidian plugin system works.                                                          |
+| 52:13      | not how the [[Obsidian]] plugin system works.                                                          |
 | 52:15      | It's a pile of code files                                                                          |
 | 52:17      | which fortunately they have a built-in way                                                         |
 | 52:19      | and the preferences took easily search and install                                                 |
@@ -1330,12 +1330,12 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 52:53      | maintaining your own version or getting somebody else                                              |
 | 52:55      | too. But I think                                                                                   |
 | 52:57      | the thing that I have                                                                              |
-| 52:59      | seen thus far with Obsidian                                                                        |
+| 52:59      | seen thus far with [[Obsidian]]                                                                        |
 | 53:01      | and all of plugins                                                                                 |
 | 53:03      | is I don't                                                                                         |
 | 53:05      | feel like I've seen a time where a plugin                                                          |
 | 53:07      | has significantly been broken                                                                      |
-| 53:09      | by an update to Obsidian.                                                                          |
+| 53:09      | by an update to [[Obsidian]].                                                                          |
 | 53:11      | And I'm sure                                                                                       |
 | 53:13      | that that is in a large part                                                                       |
 | 53:15      | due to how hard                                                                                    |
@@ -1343,7 +1343,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 53:19      | really complex plugins work                                                                        |
 | 53:21      | to keep everything working.                                                                        |
 | 53:23      | But also I think that that is partially the part                                                   |
-| 53:25      | of the Obsidian developers themselves                                                              |
+| 53:25      | of the [[Obsidian]] developers themselves                                                              |
 | 53:27      | going, hey, we know that the community                                                             |
 | 53:29      | is pretty important to this app                                                                    |
 | 53:31      | so we're going to keep an eye on                                                                   |
@@ -1368,7 +1368,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 54:09      | working really hard on this and                                                                    |
 | 54:11      | as best I can tell                                                                                 |
 | 54:13      | obviously I don't have access to the source code                                                   |
-| 54:15      | of Obsidian itself but as best I can tell                                                          |
+| 54:15      | of [[Obsidian]] itself but as best I can tell                                                          |
 | 54:17      | they're deliberately                                                                               |
 | 54:19      | being careful and they're documenting                                                              |
 | 54:21      | properly how people making plugins                                                                 |
@@ -1382,7 +1382,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 54:37      | you know you can just try asking                                                                   |
 | 54:39      | the person but if they are busy then                                                               |
 | 54:41      | maybe somebody else will just create the same plugin                                               |
-| 54:43      | or maybe the Obsidian developers will add it as a feature                                          |
+| 54:43      | or maybe the [[Obsidian]] developers will add it as a feature                                          |
 | 54:45      | if enough people ask for it.                                                                       |
 | 54:47      | Yeah, well and they just keep coming                                                               |
 | 54:49      | like another automation friendly one is                                                            |
@@ -1414,7 +1414,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 55:45      | which does the same thing and lets you set a destination                                           |
 | 55:47      | so you don't put it in your root                                                                   |
 | 55:49      | or wherever. I mean I do                                                                           |
-| 55:51      | occasionally find an Obsidian                                                                      |
+| 55:51      | occasionally find an [[Obsidian]]                                                                      |
 | 55:53      | weird things in weird places.                                                                      |
 | 55:55      | I was going through a folder of medical                                                            |
 | 55:57      | notes and I had                                                                                    |
@@ -1466,7 +1466,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 57:29      | the file name is of the note                                                                       |
 | 57:31      | and embeds it as a H1 above                                                                        |
 | 57:33      | your note so you it's only there when                                                              |
-| 57:35      | you're looking at it in Obsidian it doesn't actually                                               |
+| 57:35      | you're looking at it in [[Obsidian]] it doesn't actually                                               |
 | 57:37      | like edit it                                                                                       |
 | 57:39      | and put it in the file for you                                                                     |
 | 57:41      | it just shows it there and that                                                                    |
@@ -1523,14 +1523,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 59:23      | so                                                                                                 |
 | 59:25      | David we were talking before                                                                       |
 | 59:27      | you know that we can we can get stuff                                                              |
-| 59:29      | into Obsidian from [[Drafts]] and keyboard                                                             |
+| 59:29      | into [[Obsidian]] from [[Drafts]] and keyboard                                                             |
 | 59:31      | my show and [[Hazel]] have also come up as                                                             |
 | 59:33      | has Zapier                                                                                         |
 | 59:35      | Meek and Integromat                                                                                |
 | 59:37      | or as it used to be called and if this and that                                                    |
 | 59:39      | what                                                                                               |
-| 59:41      | would you say your favourite non Obsidian                                                           |
-| 59:43      | automation is for Obsidian                                                                         |
+| 59:41      | would you say your favourite non [[Obsidian]]                                                           |
+| 59:43      | automation is for [[Obsidian]]                                                                         |
 | 59:45      | well I'm going to put a pin                                                                        |
 | 59:47      | in keyboard my show and                                                                            |
 | 59:49      | shortcuts because they are                                                                         |
@@ -1545,7 +1545,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:00:07   | and I've got one called shipped                                                                    |
 | 01:00:09   | you know and I                                                                                     |
 | 01:00:11   | have [[Hazel]] look at certain                                                                         |
-| 01:00:13   | folders in my Obsidian database                                                                    |
+| 01:00:13   | folders in my [[Obsidian]] database                                                                    |
 | 01:00:15   | because it's local and                                                                             |
 | 01:00:17   | if it sees active switch to ship                                                                   |
 | 01:00:19   | it actually takes the file and moves it                                                            |
@@ -1556,8 +1556,8 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:00:29   | moving files for me                                                                                |
 | 01:00:31   | and I just love that                                                                               |
 | 01:00:33   | I can type a few letters                                                                           |
-| 01:00:35   | in side Obsidian                                                                                   |
-| 01:00:37   | and then an application outside of Obsidian                                                        |
+| 01:00:35   | in side [[Obsidian]]                                                                                   |
+| 01:00:37   | and then an application outside of [[Obsidian]]                                                        |
 | 01:00:39   | takes care of file management for me                                                               |
 | 01:00:41   | I love that. Yes, yeah                                                                             |
 | 01:00:43   | I love that too. There are certain things                                                          |
@@ -1604,7 +1604,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:02:05   | you've got the folder full of                                                                      |
 | 01:02:07   | marked down files somewhere on your computer                                                       |
 | 01:02:09   | [[Hazel]] you know we've done shows on [[Hazel]] in the past                                               |
-| 01:02:11   | but the idea of [[Hazel]]s it will look                                                                |
+| 01:02:11   | but the idea of [[Hazel\|Hazel's]] it will look                                                                |
 | 01:02:13   | at a destination folder that you pick                                                              |
 | 01:02:15   | and it will apply                                                                                  |
 | 01:02:17   | rules so the one I talked about earlier                                                            |
@@ -1617,7 +1617,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:02:31   | and it'll do whatever I tell it                                                                    |
 | 01:02:33   | and all I'm doing is I'm moving it                                                                 |
 | 01:02:35   | to another folder inside the                                                                       |
-| 01:02:37   | Obsidian folder structure                                                                          |
+| 01:02:37   | [[Obsidian]] folder structure                                                                          |
 | 01:02:39   | Rose talked earlier about one                                                                      |
 | 01:02:41   | where she's moving it into Devon think                                                             |
 | 01:02:43   | well you can import to Devon think                                                                 |
@@ -1639,7 +1639,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:03:15   | so it's just really                                                                                |
 | 01:03:17   | it just                                                                                            |
 | 01:03:19   | it gives you a way to bring a whole                                                                |
-| 01:03:21   | another level of automation to Obsidian                                                            |
+| 01:03:21   | another level of automation to [[Obsidian]]                                                            |
 | 01:03:23   | that the developers never even thought of                                                          |
 | 01:03:25   | yes and I think this                                                                               |
 | 01:03:27   | is just you know                                                                                   |
@@ -1650,7 +1650,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:03:37   | so you've got subfolders                                                                           |
 | 01:03:39   | and you've got sub files and                                                                       |
 | 01:03:41   | you can have other files                                                                           |
-| 01:03:43   | in the Obsidian                                                                                    |
+| 01:03:43   | in the [[Obsidian]]                                                                                    |
 | 01:03:45   | which is a folder and they just                                                                    |
 | 01:03:47   | don't show up if they're not markdown                                                              |
 | 01:03:49   | unless you've got                                                                                  |
@@ -1662,7 +1662,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:04:01   | in a different application                                                                         |
 | 01:04:03   | such as [[BBEdit]] or similar                                                                         |
 | 01:04:05   | then you will see those as well                                                                    |
-| 01:04:07   | but you don't see it when you're in Obsidian                                                       |
+| 01:04:07   | but you don't see it when you're in [[Obsidian]]                                                       |
 | 01:04:09   | and that is very useful                                                                            |
 | 01:04:11   | when it comes to things like [[Hazel]] as well                                                         |
 | 01:04:13   | because you've got the ability to just                                                             |
@@ -1676,15 +1676,15 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:04:29   | but once I got it set up                                                                           |
 | 01:04:31   | it's brilliant I love                                                                              |
 | 01:04:33   | having it run shortcuts and I need to do                                                           |
-| 01:04:35   | a little bit more of that I think with Obsidian stuff                                              |
+| 01:04:35   | a little bit more of that I think with [[Obsidian]] stuff                                              |
 | 01:04:37   | Okay let's start talking about                                                                     |
 | 01:04:39   | another one of our favourite automation apps                                                        |
-| 01:04:41   | and how it pairs with Obsidian [[Drafts]]                                                             |
+| 01:04:41   | and how it pairs with [[Obsidian]] [[Drafts]]                                                             |
 | 01:04:43   | I mean [[Drafts]] is such a great                                                                      |
-| 01:04:45   | companion app for Obsidian                                                                         |
+| 01:04:45   | companion app for [[Obsidian]]                                                                         |
 | 01:04:47   | Yes it really is                                                                                   |
 | 01:04:49   | and I found you know                                                                               |
-| 01:04:51   | so Obsidian has                                                                                    |
+| 01:04:51   | so [[Obsidian]] has                                                                                    |
 | 01:04:53   | [[URL Schemes\|URL scheme]] support so you can just                                                                 |
 | 01:04:55   | call URL and have it                                                                               |
 | 01:04:57   | create a note, open a note and things like that                                                    |
@@ -1698,7 +1698,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:05:13   | so I can keep you know I can just say hey                                                          |
 | 01:05:15   | like you know when I'm in my [[Drafts]]                                                               |
 | 01:05:17   | workspace for work then it shows me                                                                |
-| 01:05:19   | the centre Obsidian action                                                                         |
+| 01:05:19   | the centre [[Obsidian]] action                                                                         |
 | 01:05:21   | for my work vault and otherwise it'll show me                                                      |
 | 01:05:23   | personal ones but you can have it                                                                  |
 | 01:05:25   | you know do a whole bunch of things I put it into                                                  |
@@ -1708,26 +1708,26 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:05:33   | lends it well                                                                                      |
 | 01:05:35   | into tying in with all of the other things                                                         |
 | 01:05:37   | that you're doing in [[Drafts]]                                                                       |
-| 01:05:39   | and I have been bragging about Obsidian now                                                        |
+| 01:05:39   | and I have been bragging about [[Obsidian]] now                                                        |
 | 01:05:41   | for an hour and four minutes according to my                                                       |
 | 01:05:43   | clock none of us                                                                                   |
 | 01:05:45   | have bragged about accessing                                                                       |
-| 01:05:47   | and starting stuff on Obsidian with the iPhone                                                     |
+| 01:05:47   | and starting stuff on [[Obsidian]] with the iPhone                                                     |
 | 01:05:49   | I mean there is                                                                                    |
 | 01:05:51   | an iPhone app and it does give you all your data                                                   |
 | 01:05:53   | and all your plugins work but                                                                      |
 | 01:05:55   | like in terms of like writing something                                                            |
 | 01:05:57   | quick [[Drafts]] runs                                                                                  |
 | 01:05:59   | circles around it and because                                                                      |
-| 01:06:01   | [[Drafts]] has the [[URL Schemes\|URL scheme]]s                                                                         |
-| 01:06:03   | and Obsidian has [[URL Schemes\|URL scheme]]s it isn't                                                              |
+| 01:06:01   | [[Drafts]] has the [[URL Schemes]]                                                                         |
+| 01:06:03   | and [[Obsidian]] has [[URL Schemes]] it isn't                                                              |
 | 01:06:05   | that difficult to create an automation                                                             |
 | 01:06:07   | to write something new in [[Drafts]]                                                                  |
 | 01:06:09   | even have [[Drafts]] put the [[YAML]] data                                                                 |
 | 01:06:11   | and everything for you push a single button                                                        |
 | 01:06:13   | and [[Drafts]] creates a file                                                                          |
-| 01:06:15   | puts it in your Obsidian database next time you open                                               |
-| 01:06:17   | Obsidian there it is                                                                               |
+| 01:06:15   | puts it in your [[Obsidian]] database next time you open                                               |
+| 01:06:17   | [[Obsidian]] there it is                                                                               |
 | 01:06:19   | and you know it is                                                                                 |
 | 01:06:21   | one of those things where I wish                                                                   |
 | 01:06:23   | it were a                                                                                          |
@@ -1740,7 +1740,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:06:37   | and so I personally                                                                                |
 | 01:06:39   | I'm fine with the                                                                                  |
 | 01:06:41   | I will write it in [[Drafts]] and then dump it                                                         |
-| 01:06:43   | into Obsidian approach for quickly                                                                 |
+| 01:06:43   | into [[Obsidian]] approach for quickly                                                                 |
 | 01:06:45   | creating a new note                                                                                |
 | 01:06:47   | but aside from that I found even                                                                   |
 | 01:06:49   | just being able to                                                                                 |
@@ -1750,7 +1750,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:06:57   | has worked very well                                                                               |
 | 01:06:59   | but [[Drafts]] for me is definitely                                                                    |
 | 01:07:01   | a really useful tool                                                                               |
-| 01:07:03   | for getting data into Obsidian                                                                     |
+| 01:07:03   | for getting data into [[Obsidian]]                                                                     |
 | 01:07:05   | it does just make it                                                                               |
 | 01:07:07   | much easier and honestly                                                                           |
 | 01:07:09   | the template stuff we were talking about earlier                                                   |
@@ -1767,10 +1767,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:07:31   | it's very quick and you know it just gets                                                          |
 | 01:07:33   | dropped in I actually David                                                                        |
 | 01:07:35   | have a trick                                                                                       |
-| 01:07:37   | for Obsidian of my sleeve                                                                          |
+| 01:07:37   | for [[Obsidian]] of my sleeve                                                                          |
 | 01:07:39   | with [[Drafts]] in the I have                                                                          |
-| 01:07:41   | an Obsidian tag                                                                                    |
-| 01:07:43   | so my Obsidian tag in [[Drafts]]                                                                      |
+| 01:07:41   | an [[Obsidian]] tag                                                                                    |
+| 01:07:43   | so my [[Obsidian]] tag in [[Drafts]]                                                                      |
 | 01:07:45   | is used                                                                                            |
 | 01:07:47   | in conjunction with the with my [[Pushcut]]                                                           |
 | 01:07:49   | Automation Server so I've got [[Pushcut]] running                                                     |
@@ -1779,12 +1779,12 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:07:55   | and run them and                                                                                   |
 | 01:07:57   | every couple hours                                                                                 |
 | 01:07:59   | it will just look for any notes                                                                    |
-| 01:08:01   | that were created in [[Drafts]] with an Obsidian tag                                                   |
+| 01:08:01   | that were created in [[Drafts]] with an [[Obsidian]] tag                                                   |
 | 01:08:03   | more and they haven't been edited                                                                  |
 | 01:08:05   | in 24 hours and if it hasn't been                                                                  |
 | 01:08:07   | edited in 24 hours it just moves it                                                                |
-| 01:08:09   | to Obsidian like it runs the appropriate                                                           |
-| 01:08:11   | Obsidian action on it to put it into                                                               |
+| 01:08:09   | to [[Obsidian]] like it runs the appropriate                                                           |
+| 01:08:11   | [[Obsidian]] action on it to put it into                                                               |
 | 01:08:13   | my personal or my work                                                                             |
 | 01:08:15   | vault and then bam                                                                                 |
 | 01:08:17   | it's gone from [[Drafts]] and it gets moved over                                                       |
@@ -1799,7 +1799,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:08:35   | created on one machine and not sync to the others                                                  |
 | 01:08:37   | what's happening here so I just have                                                               |
 | 01:08:39   | push cut pick up those [[Drafts]]                                                                     |
-| 01:08:41   | that should make it into Obsidian                                                                  |
+| 01:08:41   | that should make it into [[Obsidian]]                                                                  |
 | 01:08:43   | automatically for me and drop them over                                                            |
 | 01:08:45   | which you know works very very well                                                                |
 | 01:08:47   | to just get data out of the way                                                                    |
@@ -1808,11 +1808,11 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:08:53   | well automatically from                                                                            |
 | 01:08:55   | I have buttons in [[Drafts]] I guess that's                                                            |
 | 01:08:57   | one point I should make is import                                                                  |
-| 01:08:59   | to Obsidian is great but import                                                                    |
-| 01:09:01   | into this specific folder in Obsidian                                                              |
+| 01:08:59   | to [[Obsidian]] is great but import                                                                    |
+| 01:09:01   | into this specific folder in [[Obsidian]]                                                              |
 | 01:09:03   | is better you know and                                                                             |
 | 01:09:05   | you can create                                                                                     |
-| 01:09:07   | you know I think I have about 10 different Obsidian                                                |
+| 01:09:07   | you know I think I have about 10 different [[Obsidian]]                                                |
 | 01:09:09   | import buttons in [[Drafts]] so                                                                        |
 | 01:09:11   | when I write something in [[Drafts]]                                                                  |
 | 01:09:13   | depending on which button I push changes                                                           |
@@ -1823,30 +1823,30 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:09:23   | in that Rose has solved is                                                                         |
 | 01:09:25   | I often do it on my phone                                                                          |
 | 01:09:27   | or my iPad but if I don't open                                                                     |
-| 01:09:29   | Obsidian then Obsidian                                                                             |
+| 01:09:29   | [[Obsidian]] then [[Obsidian]]                                                                             |
 | 01:09:31   | it can't sync                                                                                      |
 | 01:09:33   | in the background because iOS and iPad                                                             |
-| 01:09:35   | doesn't allow that so you have to open Obsidian                                                    |
+| 01:09:35   | doesn't allow that so you have to open [[Obsidian]]                                                    |
 | 01:09:37   | once you've created it in order                                                                    |
-| 01:09:39   | to send it up to the Obsidian cloud                                                                |
+| 01:09:39   | to send it up to the [[Obsidian]] cloud                                                                |
 | 01:09:41   | and have it populate everywhere else                                                               |
 | 01:09:43   | I've just kind of learned to do that you know                                                      |
 | 01:09:45   | and I do it off I do it often                                                                      |
-| 01:09:47   | enough and I frankly open Obsidian                                                                 |
+| 01:09:47   | enough and I frankly open [[Obsidian]]                                                                 |
 | 01:09:49   | often enough on my devices that it's                                                               |
 | 01:09:51   | rarely a problem for me I don't have to think                                                      |
 | 01:09:53   | about it but that is a trap                                                                        |
 | 01:09:55   | if you create the note in the [[Drafts]]                                                              |
 | 01:09:57   | URL action but you                                                                                 |
-| 01:09:59   | don't open Obsidian then you go over to your Mac                                                   |
+| 01:09:59   | don't open [[Obsidian]] then you go over to your Mac                                                   |
 | 01:10:01   | it's not going to be there because                                                                 |
-| 01:10:03   | Obsidian on your iPhone                                                                            |
+| 01:10:03   | [[Obsidian]] on your iPhone                                                                            |
 | 01:10:05   | didn't open up and it never got sent to the cloud                                                  |
 | 01:10:07   | so you got to be aware of that                                                                     |
 | 01:10:09   | I mean for me I've really found that to be a problem                                               |
 | 01:10:11   | because part of the URL actions                                                                    |
 | 01:10:13   | and I think one of the reasons why                                                                 |
-| 01:10:15   | [[URL Schemes\|URL scheme]]s are actually a surprisingly                                                            |
+| 01:10:15   | [[URL Schemes]] are actually a surprisingly                                                            |
 | 01:10:17   | good idea even in 2022 folks                                                                       |
 | 01:10:19   | is because it does force the app                                                                   |
 | 01:10:21   | to open to run                                                                                     |
@@ -1894,27 +1894,27 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:11:45   | pulled out my iPad and went to town                                                                |
 | 01:11:47   | and added to my notes which was pretty good                                                        |
 | 01:11:49   | I occasionally get emails from people saying                                                       |
-| 01:11:51   | well why do I need [[Drafts]] if I'm going to be using Obsidian                                        |
+| 01:11:51   | well why do I need [[Drafts]] if I'm going to be using [[Obsidian]]                                        |
 | 01:11:53   | and for me [[Drafts]]                                                                                 |
 | 01:11:55   | has always been an app about capture                                                               |
-| 01:11:57   | and process and Obsidian                                                                           |
+| 01:11:57   | and process and [[Obsidian]]                                                                           |
 | 01:11:59   | has never been that it's just not good at that                                                     |
 | 01:12:01   | I know                                                                                             |
 | 01:12:03   | for some folks that they store a lot of data                                                       |
 | 01:12:05   | in [[Drafts]] and there is overlap there                                                               |
 | 01:12:07   | and you just have to decide what works best for you                                                |
 | 01:12:09   | but I find                                                                                         |
-| 01:12:11   | [[Drafts]] very complementary to Obsidian                                                              |
+| 01:12:11   | [[Drafts]] very complementary to [[Obsidian]]                                                              |
 | 01:12:13   | so it works great for me                                                                           |
 | 01:12:15   | Yeah, for me                                                                                       |
-| 01:12:17   | I will keep data in [[Drafts]] and in Obsidian                                                         |
+| 01:12:17   | I will keep data in [[Drafts]] and in [[Obsidian]]                                                         |
 | 01:12:19   | but                                                                                                |
 | 01:12:21   | the difference between them is if I'm keeping it                                                   |
 | 01:12:23   | in [[Drafts]]                                                                                         |
 | 01:12:25   | there is a date                                                                                    |
 | 01:12:27   | at which point I'm no longer going to need this                                                    |
 | 01:12:29   | and I'm going to delete it                                                                         |
-| 01:12:31   | but if I'm keeping it, it goes into Obsidian                                                       |
+| 01:12:31   | but if I'm keeping it, it goes into [[Obsidian]]                                                       |
 | 01:12:33   | because                                                                                            |
 | 01:12:35   | my packing list and so on, I may archive them                                                      |
 | 01:12:37   | in [[Drafts]]                                                                                         |
@@ -1946,11 +1946,11 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:13:29   | I want to switch over to [[Keyboard Maestro]] and Shortcuts                                            |
 | 01:13:31   | for a minute because                                                                               |
 | 01:13:33   | by nature you would think these are not great                                                      |
-| 01:13:35   | companion apps for Obsidian                                                                        |
+| 01:13:35   | companion apps for [[Obsidian]]                                                                        |
 | 01:13:37   | because especially Shortcuts                                                                       |
 | 01:13:39   | I mean the idea with Shortcuts                                                                     |
 | 01:13:41   | is you have app actions that are designed by the developers                                        |
-| 01:13:43   | and Obsidian                                                                                       |
+| 01:13:43   | and [[Obsidian]]                                                                                       |
 | 01:13:45   | is an electron app and there are                                                                   |
 | 01:13:47   | by definition no                                                                                   |
 | 01:13:49   | electron                                                                                           |
@@ -1960,7 +1960,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:13:57   | [[Keyboard Maestro]] useful                                                                            |
 | 01:13:59   | going with Shortcuts first                                                                         |
 | 01:14:01   | Shortcuts is a great way to add files                                                              |
-| 01:14:03   | to your Obsidian database                                                                          |
+| 01:14:03   | to your [[Obsidian]] database                                                                          |
 | 01:14:05   | like when I have a new                                                                             |
 | 01:14:07   | when we decide to do an episode                                                                    |
 | 01:14:09   | of Automators I run a Shortcut                                                                     |
@@ -1971,7 +1971,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:14:19   | with all the appropriate [[YAML]] data                                                                 |
 | 01:14:21   | that we use for Automators and it saves it                                                         |
 | 01:14:23   | to the active Automators episodes                                                                  |
-| 01:14:25   | folder in my Obsidian                                                                              |
+| 01:14:25   | folder in my [[Obsidian]]                                                                              |
 | 01:14:27   | database and all that                                                                              |
 | 01:14:29   | happens very easily                                                                                |
 | 01:14:31   | and I love it and you can do that                                                                  |
@@ -2036,7 +2036,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:29   | so I can have the Shortcuts button                                                                 |
 | 01:16:31   | and then it can pull that data out of [[Drafts]]                                                      |
 | 01:16:33   | like you can use [[Drafts]] actions to create                                                          |
-| 01:16:35   | the data and then send it over to Obsidian                                                         |
+| 01:16:35   | the data and then send it over to [[Obsidian]]                                                         |
 | 01:16:37   | so that I                                                                                          |
 | 01:16:39   | don't have                                                                                         |
 | 01:16:41   | out of sync data                                                                                   |
@@ -2078,7 +2078,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:17:53   | how else you're using this David                                                                   |
 | 01:17:55   | but I did want to throw in a little sneaky                                                         |
 | 01:17:57   | shout out to Bunch                                                                                 |
-| 01:17:59   | because I'm using Obsidian with Bunch                                                              |
+| 01:17:59   | because I'm using [[Obsidian]] with Bunch                                                              |
 | 01:18:01   | to get me into certain                                                                             |
 | 01:18:03   | bolts and folders automatically                                                                    |
 | 01:18:05   | when                                                                                               |
@@ -2104,9 +2104,9 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:45   | all of the apps that I need audio hijack                                                           |
 | 01:18:47   | and so on but                                                                                      |
 | 01:18:49   | because it can just open a URL                                                                     |
-| 01:18:51   | and [[URL Schemes\|URL scheme]]s are a URL                                                                          |
+| 01:18:51   | and [[URL Schemes]] are a URL                                                                          |
 | 01:18:53   | then it can open                                                                                   |
-| 01:18:55   | Obsidian for me and so at the moment                                                               |
+| 01:18:55   | [[Obsidian]] for me and so at the moment                                                               |
 | 01:18:57   | I'm just having it open                                                                            |
 | 01:18:59   | a specific vault but one of the things                                                             |
 | 01:19:01   | that has occurred to me as we were                                                                 |
@@ -2131,7 +2131,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:19:39   | it. I expect you probably                                                                          |
 | 01:19:41   | can do that                                                                                        |
 | 01:19:43   | but that's just a guess but I mean it seems like                                                   |
-| 01:19:45   | everything in Obsidian is addressable                                                              |
+| 01:19:45   | everything in [[Obsidian]] is addressable                                                              |
 | 01:19:47   | and that's one of the reasons why all those nerds                                                  |
 | 01:19:49   | love it so much.                                                                                   |
 | 01:19:51   | One thing I was looking at so [[Keyboard Maestro]]                                                     |
@@ -2141,18 +2141,18 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:19:59   | the ability to find a button on the screen                                                         |
 | 01:20:01   | and push it but it's much easier than that                                                         |
 | 01:20:03   | because you can script                                                                             |
-| 01:20:05   | any keyboard shortcut for Obsidian                                                                 |
+| 01:20:05   | any keyboard shortcut for [[Obsidian]]                                                                 |
 | 01:20:07   | and suddenly open up [[Keyboard Maestro]]                                                              |
-| 01:20:09   | and I was just looking at my [[Keyboard Maestro]] Obsidian                                             |
+| 01:20:09   | and I was just looking at my [[Keyboard Maestro]] [[Obsidian]]                                             |
 | 01:20:11   | folder because I keep folders for individual apps                                                  |
 | 01:20:13   | and it's like a                                                                                    |
 | 01:20:15   | graveyard of                                                                                       |
 | 01:20:17   | automations I've written that                                                                      |
 | 01:20:19   | then got Sherlocked by a plugin                                                                    |
 | 01:20:21   | like                                                                                               |
-| 01:20:23   | in fact if you look at the Obsidian forums                                                         |
+| 01:20:23   | in fact if you look at the [[Obsidian]] forums                                                         |
 | 01:20:25   | I wrote a [[Keyboard Maestro]] script to create                                                        |
-| 01:20:27   | an Obsidian URL well now                                                                           |
+| 01:20:27   | an [[Obsidian]] URL well now                                                                           |
 | 01:20:29   | they've added it to the app I think                                                                |
 | 01:20:31   | I mapped that to control L                                                                         |
 | 01:20:33   | and I get a link to whatever I'm at                                                                |
@@ -2164,7 +2164,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:20:45   | gives you the ability to perform                                                                   |
 | 01:20:47   | actions on text in the clipboard                                                                   |
 | 01:20:49   | and you know we haven't talked about                                                               |
-| 01:20:51   | in today's episode but to create a link in Obsidian                                                |
+| 01:20:51   | in today's episode but to create a link in [[Obsidian]]                                                |
 | 01:20:53   | all you do is to put two square brackets around                                                    |
 | 01:20:55   | anything and now a link is created                                                                 |
 | 01:20:57   | and if the file                                                                                    |
@@ -2201,24 +2201,24 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:21:59   | all of the existing infrastructure                                                                 |
 | 01:22:01   | that it doesn't matter                                                                             |
 | 01:22:03   | whether you feel at home writing JavaScript                                                        |
-| 01:22:05   | in which case you can write your own Obsidian plugin                                               |
+| 01:22:05   | in which case you can write your own [[Obsidian]] plugin                                               |
 | 01:22:07   | if you want or if you're                                                                           |
 | 01:22:09   | just getting started with shortcuts                                                                |
 | 01:22:11   | and you just want to be able to                                                                    |
 | 01:22:13   | like write some text into a file                                                                   |
 | 01:22:15   | like a new file that's simple                                                                      |
 | 01:22:17   | like you don't even have to use                                                                    |
-| 01:22:19   | Obsidian [[URL Schemes\|URL scheme]]s to do that                                                                    |
+| 01:22:19   | [[Obsidian]] [[URL Schemes]] to do that                                                                    |
 | 01:22:21   | it can just like write this                                                                        |
 | 01:22:23   | file and then save it into a folder                                                                |
 | 01:22:25   | and as David said before the trick is to                                                           |
 | 01:22:27   | use                                                                                                |
 | 01:22:29   | the set name function you can set the extension                                                    |
 | 01:22:31   | as part of that and just set it to.md                                                              |
-| 01:22:33   | other than that there is actually an Obsidian plugin                                               |
+| 01:22:33   | other than that there is actually an [[Obsidian]] plugin                                               |
 | 01:22:35   | I'll have to see if I can find it for the show notes                                               |
 | 01:22:37   | which allows you to have                                                                           |
-| 01:22:39   | text files in Obsidian as well                                                                     |
+| 01:22:39   | text files in [[Obsidian]] as well                                                                     |
 | 01:22:41   | so any text files will still show up in your                                                       |
 | 01:22:43   | sidebar                                                                                            |
 | 01:22:45   | Yeah, I thought it was                                                                             |
@@ -2256,7 +2256,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:23:51   | off with something else that exists                                                                |
 | 01:23:53   | is really great                                                                                    |
 | 01:23:55   | and the other thing I highly recommend                                                             |
-| 01:23:57   | the Obsidian discord                                                                               |
+| 01:23:57   | the [[Obsidian]] discord                                                                               |
 | 01:23:59   | server they have a discord server                                                                  |
 | 01:24:01   | for chat is very busy                                                                              |
 | 01:24:03   | which is great if you've got                                                                       |
@@ -2301,7 +2301,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:25:21   | some things because I just needed                                                                  |
 | 01:25:23   | to keep the same nature around a couple of times                                                   |
 | 01:25:25   | I was like oh no I should probably have a better place for this                                    |
-| 01:25:27   | and started throwing things like that in Obsidian                                                  |
+| 01:25:27   | and started throwing things like that in [[Obsidian]]                                                  |
 | 01:25:29   | and before I knew it I had                                                                         |
 | 01:25:31   | my own personal mini wiki of a whole bunch of things                                               |
 | 01:25:33   | where it's just useful                                                                             |
@@ -2395,7 +2395,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:28:29   | for an automators topic is                                                                         |
 | 01:28:31   | I will just go through                                                                             |
 | 01:28:33   | and try and pull that                                                                              |
-| 01:28:35   | throw that data into an Obsidian                                                                   |
+| 01:28:35   | throw that data into an [[Obsidian]]                                                                   |
 | 01:28:37   | folder called automators                                                                           |
 | 01:28:39   | where I've got you know something with all the tags                                                |
 | 01:28:41   | of podcast ideas but then whenever                                                                 |
@@ -2416,7 +2416,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:29:11   | forget to prep the show notes for this show of automators                                          |
 | 01:29:13   | due date recording date of this                                                                    |
 | 01:29:15   | and it pulls in                                                                                    |
-| 01:29:17   | a link to my Obsidian note                                                                         |
+| 01:29:17   | a link to my [[Obsidian]] note                                                                         |
 | 01:29:19   | inside that OmniFocus task                                                                         |
 | 01:29:21   | for me and it does that                                                                            |
 | 01:29:23   | by you know there's                                                                                |
@@ -2439,7 +2439,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:29:57   | is when I have certain projects kick off                                                           |
 | 01:29:59   | and do things                                                                                      |
 | 01:30:01   | then they will create a file                                                                       |
-| 01:30:03   | or a folder inside of Obsidian                                                                     |
+| 01:30:03   | or a folder inside of [[Obsidian]]                                                                     |
 | 01:30:05   | for me with a                                                                                      |
 | 01:30:07   | template of data in there                                                                          |
 | 01:30:09   | and in that [[YAML]] header as I mentioned before                                                      |
@@ -2459,7 +2459,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:30:37   | app platform it is that I'm using at the time                                                      |
 | 01:30:39   | if I need to                                                                                       |
 | 01:30:41   | write stuff about it it will just throw a note                                                     |
-| 01:30:43   | into the Write Obsidian folder for me                                                              |
+| 01:30:43   | into the Write [[Obsidian]] folder for me                                                              |
 | 01:30:45   | and have it to do                                                                                  |
 | 01:30:47   | and then I can see all the things that I've needed to write                                        |
 | 01:30:49   | and I've done but also                                                                             |
@@ -2595,16 +2595,16 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:35:09   | more easily well either way                                                                        |
 | 01:35:11   | we've been going out in a while now and you                                                        |
 | 01:35:13   | can see there are just so many ways to automate                                                    |
-| 01:35:15   | Obsidian because                                                                                   |
+| 01:35:15   | [[Obsidian]] because                                                                                   |
 | 01:35:17   | for the last time it's a folder full of                                                            |
 | 01:35:19   | markdown folders but                                                                               |
 | 01:35:21   | anyway look                                                                                        |
 | 01:35:23   | we've got a forum you can weigh in                                                                 |
 | 01:35:25   | there is a lot more to cover                                                                       |
-| 01:35:27   | with Obsidian let us know what your thoughts are maybe                                             |
+| 01:35:27   | with [[Obsidian]] let us know what your thoughts are maybe                                             |
 | 01:35:29   | we're gonna do I think we should do a feedback show pretty soon                                    |
 | 01:35:31   | anyway we're about due for one                                                                     |
-| 01:35:33   | let us know what you're doing that's fun with Obsidian                                             |
+| 01:35:33   | let us know what you're doing that's fun with [[Obsidian]]                                             |
 | 01:35:35   | and hopefully we gave you some good ideas                                                          |
 | 01:35:37   | today we want to thank our sponsors                                                                |
 | 01:35:39   | Setapp, Doppler, Trade, and LinkedIn                                                               |

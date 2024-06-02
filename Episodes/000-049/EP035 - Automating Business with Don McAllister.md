@@ -1051,7 +1051,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:02:32   | some code stripping out or some code replacing. There's the chapter files that we have. They           |
 | 01:02:37   | come out just as pure text and I want the chapter files or the chapter names to have                   |
 | 01:02:42   | an asterisk at the beginning so I can insert it into some markdown documents. We've got                |
-| 01:02:46   | a little custom cleaner that does that. And these can all be called from [[AppleScript]]s                 |
+| 01:02:46   | a little custom cleaner that does that. And these can all be called from [[AppleScript\|AppleScripts]]                 |
 | 01:02:52   | using the API. That's very simple to use. So yeah, [[TextSoap]] is a huge boon to me. I                   |
 | 01:02:58   | use it an awful lot.                                                                                   |
 | 01:02:59   | Yeah, I met the developer of [[TextSoap]] years ago. I think at Macworld.                                 |

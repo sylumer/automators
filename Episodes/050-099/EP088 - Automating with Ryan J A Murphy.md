@@ -105,7 +105,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:16      | There you go.                                                                                          |
 | 01:17      | Yeah.                                                                                                  |
 | 01:18      | Well, gang, Ryan kind of landed on my radar, I know that you Rose, just with making some               |
-| 01:23      | incredible plugins for Obsidian, but he's also very active on the Mac Power Users forums.              |
+| 01:23      | incredible plugins for [[Obsidian]], but he's also very active on the Mac Power Users forums.              |
 | 01:29      | He is a class one automator, I don't know how else to put it.                                          |
 | 01:33      | Ryan doesn't just automate stuff when there's a problem, he needs us all, he builds the                |
 | 01:37      | tool to do it as well.                                                                                 |
@@ -158,7 +158,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 04:03      | Yeah.                                                                                                  |
 | 04:04      | And that's actually how I found out about you, Ryan, because I was trying to solve some                |
 | 04:07      | of the problems I had with [[Obsidian]].                                                                   |
-| 04:09      | And every single time I Googled something or I searched the Obsidian forums or the Mac                 |
+| 04:09      | And every single time I Googled something or I searched the [[Obsidian]] forums or the Mac                 |
 | 04:13      | Power users forums, it was you coming back with the answer to it every single time.                    |
 | 04:17      | And I was thoroughly impressed because it's not that you have an answer for everything,                |
 | 04:21      | but you seem to be willing to look for a solution to lots of problems.                                 |
@@ -231,16 +231,16 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 07:49      | And then all of a sudden you start learning the concepts.                                              |
 | 07:52      | Right.                                                                                                 |
 | 07:53      | Yeah.                                                                                                  |
-| 07:54      | And then also, so when you got onto the Mac, you eventually found your way to Obsidian,                |
+| 07:54      | And then also, so when you got onto the Mac, you eventually found your way to [[Obsidian]],                |
 | 08:01      | which is the thing Rose and I try not to talk about every episode, because we love it so               |
 | 08:05      | much, but today I think I have free license to do that.                                                |
-| 08:09      | So what brought you to Obsidian and why is that the app that you have embraced so heartily?            |
+| 08:09      | So what brought you to [[Obsidian]] and why is that the app that you have embraced so heartily?            |
 | 08:15      | Yeah, it's a great question.                                                                           |
 | 08:17      | I mean, a couple of years ago, we might have been a year and a half now that we saw this               |
 | 08:22      | new sort of revolution in Notes apps and Roam was making a lot of, a lot of, hey, and                  |
 | 08:28      | a lot, everybody was talking about it.                                                                 |
-| 08:30      | I came across Obsidian from a post on MPU, I think it was actually Quorum, who shared                  |
-| 08:34      | the original post about Obsidian, and I played around with it and just the principles clicked          |
+| 08:30      | I came across [[Obsidian]] from a post on MPU, I think it was actually Quorum, who shared                  |
+| 08:34      | the original post about [[Obsidian]], and I played around with it and just the principles clicked          |
 | 08:39      | with me.                                                                                               |
 | 08:40      | I got into the Discord and talked to the devs and they clicked with me.                                |
 | 08:42      | It wasn't at that time as powerful, I think as Roam, but you could just tell that the                  |
@@ -248,23 +248,23 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 08:52      | know, in business school, they teach about strategic advantages, right?                                |
 | 08:55      | And strategic advantage is something that's inevitable.                                                |
 | 08:57      | You can't imitate it, you can't build it if you're a competitor.                                       |
-| 09:00      | And I think with Obsidian, they've really built this app that is so well engineered                    |
+| 09:00      | And I think with [[Obsidian]], they've really built this app that is so well engineered                    |
 | 09:06      | and well designed on sort of fundamental levels.                                                       |
 | 09:09      | It's like, it's got an API all the way down.                                                           |
 | 09:11      | And if you can play with a little bit of JavaScript, we've actually using that complicated.            |
 | 09:16      | I know I say that as somebody with a degree in computer science, but we're actually running            |
 | 09:21      | an event.                                                                                              |
-| 09:22      | Oh, this is the perfect time to talk about an event in this month, we're running Obsidian              |
+| 09:22      | Oh, this is the perfect time to talk about an event in this month, we're running [[Obsidian]]              |
 | 09:26      | October.                                                                                               |
 | 09:27      | Have you two heard of this?                                                                            |
 | 09:28      | I have not, no.                                                                                        |
 | 09:29      | We were jealous of National Novel Rating Month, right, NaNoWriMo or Record Production Month.           |
 | 09:33      | So NaNoWriMo happens in November, Record Production Month happens in February, and the idea with       |
 | 09:37      | those two months is to write a novel in November or produce an album in February.                      |
-| 09:41      | And so we were talking in the Obsidian Discord and we're just saying, why isn't there something        |
-| 09:47      | for contributing to Obsidian like this?                                                                |
-| 09:49      | So Obsidian October, the very first ever Obsidian October is currently on the go.                      |
-| 09:54      | And the idea is that people are encouraged to contribute to the Obsidian community in                  |
+| 09:41      | And so we were talking in the [[Obsidian]] Discord and we're just saying, why isn't there something        |
+| 09:47      | for contributing to [[Obsidian]] like this?                                                                |
+| 09:49      | So [[Obsidian]] October, the very first ever [[Obsidian]] October is currently on the go.                      |
+| 09:54      | And the idea is that people are encouraged to contribute to the [[Obsidian]] community in                  |
 | 09:57      | whatever way they want.                                                                                |
 | 09:58      | A lot of people are building themes for the first time and getting their hands dirty with              |
 | 10:01      | CSS.                                                                                                   |
@@ -276,7 +276,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 10:18      | It's just like such a great community.                                                                 |
 | 10:20      | Yeah.                                                                                                  |
 | 10:21      | I kind of had that experience.                                                                         |
-| 10:22      | I was a little behind you because my initial takes at Obsidian didn't stick because it                 |
+| 10:22      | I was a little behind you because my initial takes at [[Obsidian]] didn't stick because it                 |
 | 10:29      | was very basic when it first started and Roam was quite a bit ahead of it.                             |
 | 10:34      | But I was not having good experiences in the Roam forums.                                              |
 | 10:38      | Like a couple of times I had, like I was asking for some features and then people were like            |
@@ -285,24 +285,24 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 10:50      | And I know that's not a reason to abandon an app, but the problem that I had was really                |
 | 10:55      | a serious one because of the data storage model with Roam is on the web.                               |
 | 10:59      | And I didn't see that they were going to give me the encryption I wanted.                              |
-| 11:04      | So whereas Obsidian was saying, no, we're going to do it.                                              |
-| 11:07      | And I just looked, it was October of last year that I went 100% in on Obsidian.                        |
+| 11:04      | So whereas [[Obsidian]] was saying, no, we're going to do it.                                              |
+| 11:07      | And I just looked, it was October of last year that I went 100% in on [[Obsidian]].                        |
 | 11:13      | There was like six months there where I was jumping around like Roam and then I would                  |
-| 11:18      | try Kraft and then I try Obsidian.                                                                     |
+| 11:18      | try Kraft and then I try [[Obsidian]].                                                                     |
 | 11:20      | But the problem with an app like this is once you start putting your life into it, it's                |
 | 11:24      | not an easy transition out of it.                                                                      |
 | 11:27      | And I knew that at some point I had to get on a single horse and ride that horse.                      |
 | 11:32      | And it was the encryption thing where ultimately I decided, you know what?                             |
-| 11:37      | I'm just going to have faith that these Obsidian people are going to get the app up to speed.          |
+| 11:37      | I'm just going to have faith that these [[Obsidian]] people are going to get the app up to speed.          |
 | 11:41      | And they did.                                                                                          |
-| 11:42      | Like within a few months of that, Obsidian was very powerful.                                          |
+| 11:42      | Like within a few months of that, [[Obsidian]] was very powerful.                                          |
 | 11:46      | But that's cool.                                                                                       |
-| 11:47      | So where do people go if they want to participate in Obsidian October?                                 |
+| 11:47      | So where do people go if they want to participate in [[Obsidian]] October?                                 |
 | 11:51      | Oh, yeah.                                                                                              |
 | 11:52      | Sure, sure.                                                                                            |
-| 11:53      | It's, I mean, just the Obsidian forums, I think it's forum.obsidian.md.                                |
+| 11:53      | It's, I mean, just the [[Obsidian]] forums, I think it's forum.obsidian.md.                                |
 | 11:58      | You can find out a bit about the info there and the announcements.                                     |
-| 12:01      | And then joining the Discord and there's a special channel called Obsidian October.                    |
+| 12:01      | And then joining the Discord and there's a special channel called [[Obsidian]] October.                    |
 | 12:05      | You can join to see what other people are up to.                                                       |
 | 12:08      | And people are sharing what they're learning as they develop.                                          |
 | 12:09      | And it's just, it really is a bit of serendipity, I think, to see a community forum around             |
@@ -310,7 +310,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 12:20      | And yet everybody wants to help each other and build tools that really change what people              |
 | 12:26      | are able to do.                                                                                        |
 | 12:27      | No, I was bragging about the NPU forums earlier.                                                       |
-| 12:30      | I feel like Obsidian's the same way.                                                                   |
+| 12:30      | I feel like [[Obsidian]]'s the same way.                                                                   |
 | 12:32      | It's a very supportive environment.                                                                    |
 | 12:34      | Whatever your problem is, somebody will try and help you.                                              |
 | 12:36      | And for any of our listeners that look at the forum, by the way, and think, huh, this                  |
@@ -325,7 +325,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 13:01      | It's getting dark out earlier.                                                                         |
 | 13:03      | But yeah, I switched it to light mode.                                                                 |
 | 13:05      | I'm sorry.                                                                                             |
-| 13:06      | The Obsidian forum.                                                                                    |
+| 13:06      | The [[Obsidian]] forum.                                                                                    |
 | 13:07      | I do love it.                                                                                          |
 | 13:08      | I'm old enough that the first computers I used all had like dark screen and green or                   |
 | 13:12      | orange text, you know, and then to me, the light screen represents the Mac like the Mac                |
@@ -341,13 +341,13 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 13:47      | Do you have any places you would recommend folks go to if they want to play with JavaScript            |
 | 13:52      | or kind of pick up the basics?                                                                         |
 | 13:54      | Well, I think worrying about learning JavaScript is probably the wrong way to start if you're          |
-| 13:58      | just looking to, if you're using Obsidian and you want to play around with plugin development          |
+| 13:58      | just looking to, if you're using [[Obsidian]] and you want to play around with plugin development          |
 | 14:02      | or theme development, it's probably best to just think of that.                                        |
 | 14:06      | That's the main thing that I, the main piece of advice that I would give anybody interested            |
 | 14:08      | in learning how to code is actually don't worry about, you know, picking a language                    |
 | 14:11      | or picking a tool set, pick a project, pick something you want to build and then solve                 |
 | 14:17      | the problem.                                                                                           |
-| 14:18      | But there are a lot of, so actually a little bit of important information, Obsidian is actually        |
+| 14:18      | But there are a lot of, so actually a little bit of important information, [[Obsidian]] is actually        |
 | 14:25      | written most of the time using, and it's plugins, written most of the time using TypeScript,           |
 | 14:29      | which is a layer on top of JavaScript and Rose, you probably know way more about this                  |
 | 14:32      | than me.                                                                                               |
@@ -355,14 +355,14 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 14:39      | an honour student, but only in the books, not in the development skills.                                |
 | 14:43      | So I'm not actually that talented of a developer, but TypeScript helps with that because what          |
 | 14:49      | TypeScript does, it uses, I guess, if you set it up right and there's lots of guides                   |
-| 14:54      | to doing so on the Obsidian forums, you're going to use an app like VS Code, which is                  |
+| 14:54      | to doing so on the [[Obsidian]] forums, you're going to use an app like VS Code, which is                  |
 | 14:59      | a development environment, and it just gives really intelligent suggestions for what you               |
 | 15:04      | should type next, basically.                                                                           |
 | 15:06      | And so I would say if you want to get started in playing around with this, pick a project,             |
-| 15:12      | pick something that you want to change about the experience of using Obsidian, and then                |
+| 15:12      | pick something that you want to change about the experience of using [[Obsidian]], and then                |
 | 15:17      | open up the development environment, VS Code, and start playing with something that already            |
 | 15:22      | exists.                                                                                                |
-| 15:23      | The interesting thing about the Obsidian community is that a lot of these plugins are open source,     |
+| 15:23      | The interesting thing about the [[Obsidian]] community is that a lot of these plugins are open source,     |
 | 15:27      | they're on GitHub, you can go and pull somebody else's plugin, a lot of people are really good         |
 | 15:31      | about commenting and explaining what everything's doing, and you can actually just pick it apart.      |
 | 15:36      | So that's the other layer of learning this stuff, I would say, pick a project and then                 |
@@ -388,13 +388,13 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 16:46      | which you can't usually do in JavaScript, but because you can do that in TypeScript,                   |
 | 16:50      | it does make programming a little easier.                                                              |
 | 16:52      | So I've got some links to what TypeScript is generically, as well as Visual Studio Code                |
-| 16:56      | and a link in the forums to the Obsidian forums to how to start developing a plugin.                   |
+| 16:56      | and a link in the forums to the [[Obsidian]] forums to how to start developing a plugin.                   |
 | 17:02      | But your advice about pick something that does something similar already and pick that                 |
 | 17:08      | apart, that is absolutely 100% where it would start every single time.                                 |
 | 17:12      | And actually, whenever I want to create a complicated automation, even if I already know the language  |
 | 17:16      | and I know how things work, I do that because you don't need to reinvent the wheel.                    |
 | 17:22      | You can't just steal, and you should, because that's how programming works.                            |
-| 17:27      | I have an idea for Obsidian October for you, Ryan.                                                     |
+| 17:27      | I have an idea for [[Obsidian]] October for you, Ryan.                                                     |
 | 17:29      | Why don't you just run a screencast and open one of your plugins, like your workbench and              |
 | 17:35      | just explain how it works and how you built it for folks who want to follow in your wake               |
 | 17:40      | and give them a little bit of a boost.                                                                 |
@@ -431,15 +431,15 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 19:08      | That's TextExpander.com/podcast.                                                                 |
 | 19:11      | Our thanks to TextExpander from Smell for their support of this show and really AFM.                   |
 | 19:14      | All right, so in the last segment, we spent some time talking about how to build your                  |
-| 19:20      | own tools for Obsidian, but I want to get into the nitty-gritty of actually automating                 |
+| 19:20      | own tools for [[Obsidian]], but I want to get into the nitty-gritty of actually automating                 |
 | 19:23      | inside the application.                                                                                |
-| 19:26      | What are some of the automations that you rely upon when you're working inside Obsidian?               |
+| 19:26      | What are some of the automations that you rely upon when you're working inside [[Obsidian]]?               |
 | 19:31      | Sure.                                                                                                  |
-| 19:32      | So fortunately, I set up this Obsidian home screen just like last week, or at least published          |
+| 19:32      | So fortunately, I set up this [[Obsidian]] home screen just like last week, or at least published          |
 | 19:40      | about it just last week, which outlines really a lot of the stuff that I do.                           |
 | 19:43      | And this is on the iPhone and iPad, but I'm using shortcuts to drive a bunch of different              |
 | 19:48      | interesting automations that just help hook right into important parts of what I keep                  |
-| 19:54      | in Obsidian and use what's in Obsidian to dynamically sort of drive what I'm doing                     |
+| 19:54      | in [[Obsidian]] and use what's in [[Obsidian]] to dynamically sort of drive what I'm doing                     |
 | 19:58      | with those shortcuts, which might sound complicated, but let me give a quick example.                  |
 | 20:02      | I've got a shortcut that when I tap it on the home screen, it reads a file, and that                   |
 | 20:07      | file is basically a list of projects, which are themselves notes, and then it opens one                |
@@ -447,10 +447,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 20:15      | And so the really cool thing about this, and the thing that might not even be demonstrated             |
 | 20:19      | that well by the example, is that you're able to keep, so what's happening underneath this             |
 | 20:25      | is actually the shortcut is reading the same file that I use to manage all my projects.                |
-| 20:30      | It's just a Kanban, it's in Obsidian as a Kanban board, just a list of links.                          |
+| 20:30      | It's just a Kanban, it's in [[Obsidian]] as a Kanban board, just a list of links.                          |
 | 20:35      | And when I manage my projects on any platform, Mac or iOS, I'm moving stuff around on that             |
 | 20:41      | Kanban.                                                                                                |
-| 20:42      | And then because Obsidian has plain text files underneath, it's really trivial for shortcuts           |
+| 20:42      | And then because [[Obsidian]] has plain text files underneath, it's really trivial for shortcuts           |
 | 20:46      | to then read that list and do something with it.                                                       |
 | 20:49      | And so I've got this single source of truth for what's happening in my mind for the projects           |
 | 20:55      | that I'm currently engaged in, the things that I pushed off on the back burner and the                 |
@@ -471,27 +471,27 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 21:35      | I think it's a really good idea for people.                                                            |
 | 21:37      | And I kind of went on a journey, I was doing it in [[OmniGraffle]], and you know, URL links                |
 | 21:43      | for me are always a great automation method to jump or contextually compute.                           |
-| 21:49      | But like you, I've kind of landed on Obsidian as the place for this, because all the data              |
+| 21:49      | But like you, I've kind of landed on [[Obsidian]] as the place for this, because all the data              |
 | 21:55      | is there, and that Kanban plugin is very good.                                                         |
 | 22:00      | So I do a similar thing, but you've kind of gone a level deeper, because you've made                   |
-| 22:04      | a shortcut that reads and interacts with Obsidian data.                                                |
-| 22:09      | The way I normally do this stuff is I will make the shortcut that addresses an Obsidian                |
+| 22:04      | a shortcut that reads and interacts with [[Obsidian]] data.                                                |
+| 22:09      | The way I normally do this stuff is I will make the shortcut that addresses an [[Obsidian]]                |
 | 22:14      | URL or a specific file.                                                                                |
 | 22:16      | And I think, you know, the way you've done it is superior, frankly.                                    |
 | 22:20      | Well, and it's all thanks to iOS 15, right, and the new files actions, they're way more                |
 | 22:24      | powerful than what we had before.                                                                      |
 | 22:27      | So thanks to the shortcut scene for building that.                                                     |
 | 22:29      | Yeah.                                                                                                  |
-| 22:30      | And something people don't realise is that Obsidian is actually very shortcuts friendly,               |
+| 22:30      | And something people don't realise is that [[Obsidian]] is actually very shortcuts friendly,               |
 | 22:36      | because, at least for me, because I use the encrypted database function, that means that               |
-| 22:42      | the way you store your data with Obsidian is you literally store it on the local storage               |
+| 22:42      | the way you store your data with [[Obsidian]] is you literally store it on the local storage               |
 | 22:46      | of your phone or your iPad, which is unusual, you know, normally you put data in the iCloud            |
 | 22:53      | or the Dropbox or something like that.                                                                 |
 | 22:55      | But if you're using the encrypted database, you actually set the database up on your root,             |
 | 23:00      | you know, local storage.                                                                               |
 | 23:02      | And that is the most easily addressable space using shortcuts, because it's your space.                |
 | 23:06      | It doesn't have to go through some cloud provider.                                                     |
-| 23:11      | And that works with both Obsidian Sync, the paid service that they provide, which is incredibly        |
+| 23:11      | And that works with both [[Obsidian]] Sync, the paid service that they provide, which is incredibly        |
 | 23:15      | fast and secure.                                                                                       |
 | 23:17      | But it also works with iCloud Drive, you can do the same thing.                                        |
 | 23:20      | And there are some advantages actually to using iCloud Drive for that purpose, because                 |
@@ -500,9 +500,9 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 23:25      | So if you've made changes somewhere else, then hopefully the shortcuts will be picking                 |
 | 23:29      | up the latest and greatest version of that file.                                                       |
 | 23:31      | Yeah.                                                                                                  |
-| 23:32      | That, as a downside for me, is that, like, I have some of my Obsidian-related automation               |
-| 23:37      | involves things like, you know, doing things with [[Drafts]] and then putting them into Obsidian,          |
-| 23:45      | but then they won't sync until I actually open Obsidian, because it doesn't see them                   |
+| 23:32      | That, as a downside for me, is that, like, I have some of my [[Obsidian]]-related automation               |
+| 23:37      | involves things like, you know, doing things with [[Drafts]] and then putting them into [[Obsidian]],          |
+| 23:45      | but then they won't sync until I actually open [[Obsidian]], because it doesn't see them                   |
 | 23:48      | to run it through its sync engine.                                                                     |
 | 23:51      | Exactly.                                                                                               |
 | 23:52      | Yeah.                                                                                                  |
@@ -525,7 +525,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 24:36      | it, I would still love it.                                                                             |
 | 24:37      | I think that's the protection there.                                                                   |
 | 24:38      | Yeah.                                                                                                  |
-| 24:39      | Like hidden [[URL Schemes\|URL scheme]]s, I know a couple of app developers have those built into their                 |
+| 24:39      | Like hidden [[URL Schemes]], I know a couple of app developers have those built into their                 |
 | 24:42      | app, so that you can do things like change the default calendar that would be opened,                  |
 | 24:46      | but they don't necessarily want to present that to every user, because, you know, people               |
 | 24:51      | would change it and then get confused.                                                                 |
@@ -534,7 +534,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 24:56      | Yes.                                                                                                   |
 | 24:57      | Yeah.                                                                                                  |
 | 24:58      | There are a lot of great things there with this.                                                       |
-| 25:01      | And honestly, I love the fact that Obsidian is so easy to get things into, because that                |
+| 25:01      | And honestly, I love the fact that [[Obsidian]] is so easy to get things into, because that                |
 | 25:08      | for me is what made a click.                                                                           |
 | 25:10      | I didn't, unlike David try, Roam, I very briefly for about three minutes tried Craft, I couldn't       |
 | 25:17      | get on with the block editor.                                                                          |
@@ -542,17 +542,17 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 25:20      | I love how pretty it is, but it's not available offline, which for me is a killer, because             |
 | 25:25      | I, the very least pre-pandemic used to fly a lot, and I was not paying for data on every               |
 | 25:30      | single flight that would have been horrendously expensive.                                             |
-| 25:34      | So, you know, when I found Obsidian, I was just there going, right, if I'm going to                    |
+| 25:34      | So, you know, when I found [[Obsidian]], I was just there going, right, if I'm going to                    |
 | 25:38      | use any of these applications, this is the one to use.                                                 |
 | 25:42      | And then, wow, yeah, bam, it just solves a lot of problems, surprisingly enough, or                    |
 | 25:47      | not surprisingly, really.                                                                              |
 | 25:49      | Yeah.                                                                                                  |
 | 25:50      | And I should be clear that a lot of those other apps are really neat and really well-built.            |
-| 25:56      | But what I think is different about Obsidian and a few of the other options, I do think                |
+| 25:56      | But what I think is different about [[Obsidian]] and a few of the other options, I do think                |
 | 26:00      | that Dev and Think and [[Notion]] are also in this class.                                                  |
 | 26:03      | I think of them as environments, I talked earlier about development environments for                   |
 | 26:07      | coding, but I've also written some pieces on this idea of an integrated thinking environment.          |
-| 26:13      | And what Obsidian and [[Notion]] and Dev and Think and some others allow you to do is they're              |
+| 26:13      | And what [[Obsidian]] and [[Notion]] and Dev and Think and some others allow you to do is they're              |
 | 26:17      | so customisable, right, they're built with this idea of personalisability in mind.                     |
 | 26:22      | And because of that, you're able to build it to match whatever it is you're thinking                   |
 | 26:25      | about.                                                                                                 |
@@ -560,7 +560,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 26:31      | ways you need to work and the kind of information you need to capture straight into the environment,   |
 | 26:36      | you can really get to some powerful workflows that way that just aren't possible by taking             |
 | 26:41      | another off-the-shelf app and using it.                                                                |
-| 26:43      | So I think that's what's neat about Obsidian.                                                          |
+| 26:43      | So I think that's what's neat about [[Obsidian]].                                                          |
 | 26:46      | Yeah.                                                                                                  |
 | 26:47      | For me, this is really what makes it work.                                                             |
 | 26:48      | Not only is it, of course, a good application that does exactly what it needs to.                      |
@@ -574,7 +574,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 27:10      | And so I just end up installing it.                                                                    |
 | 27:11      | And some of the time, it's you, Ryan, which I'm very pleased about, and some of the time,              |
 | 27:14      | it's other people.                                                                                     |
-| 27:15      | I was just saying before the show, the advanced tables plugin in Obsidian is so good because           |
+| 27:15      | I was just saying before the show, the advanced tables plugin in [[Obsidian]] is so good because           |
 | 27:22      | you create a new line in the table and it just automatically updates the markdown to                   |
 | 27:26      | space everything out and things like that.                                                             |
 | 27:29      | And that, for me, is the sort of things that make it a much better app because not only                |
@@ -587,11 +587,11 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 27:57      | So this is, we're talking about an extension of an app having 100,000 downloads is pretty              |
 | 28:01      | impeccable.                                                                                            |
 | 28:02      | Yeah.                                                                                                  |
-| 28:03      | And I really think that it's just the automation element that makes Obsidian such a nerd trap          |
+| 28:03      | And I really think that it's just the automation element that makes [[Obsidian]] such a nerd trap          |
 | 28:10      | for all of us.                                                                                         |
 | 28:11      | I mean, if you go on the NPO forums, there's a lot of people there that prefer Kraft.                  |
 | 28:16      | And I get it because Kraft is more of a native app experience.                                         |
-| 28:22      | It's more Mac friendly, even though it's really built for iOS and iPad, whereas Obsidian is            |
+| 28:22      | It's more Mac friendly, even though it's really built for iOS and iPad, whereas [[Obsidian]] is            |
 | 28:28      | a different animal, but it is the automation element.                                                  |
 | 28:32      | It's the ability to internalise, add templates.                                                        |
 | 28:35      | It's the ability to add a Kanban plugin and build your own personal project management                 |
@@ -604,37 +604,37 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 29:03      | So those cool plugins you make for the Mac work on the iPhone and the iPad too, it is                  |
 | 29:08      | bananas.                                                                                               |
 | 29:09      | I was saying before we started recording that the three of us could probably do a five hour            |
-| 29:13      | podcast today about Obsidian.                                                                          |
+| 29:13      | podcast today about [[Obsidian]].                                                                          |
 | 29:15      | I guess we shouldn't do that though.                                                                   |
 | 29:18      | Maybe next time, David, maybe, maybe one last point, just because this is the automators               |
-| 29:22      | and because we do love [[URL Schemes\|URL scheme]]s, that there is a recent plugin actually built for Obsidian          |
-| 29:27      | October that creates, lets you create your own [[URL Schemes\|URL scheme]]s for Obsidian or launch your                 |
-| 29:33      | own [[URL Schemes\|URL scheme]]s from Obsidian, sorry.                                                                  |
+| 29:22      | and because we do love [[URL Schemes]], that there is a recent plugin actually built for [[Obsidian]]          |
+| 29:27      | October that creates, lets you create your own [[URL Schemes]] for [[Obsidian]] or launch your                 |
+| 29:33      | own [[URL Schemes]] from [[Obsidian]], sorry.                                                                  |
 | 29:36      | And so you can take the content of a note and ship it out to shortcuts really easily                   |
 | 29:39      | with that plugin.                                                                                      |
-| 29:41      | And I think it's named self-descriptively, I think it's called [[URL Schemes\|URL scheme]]s, but I'll                   |
+| 29:41      | And I think it's named self-descriptively, I think it's called [[URL Schemes]], but I'll                   |
 | 29:46      | try to find a note link for the show notes.                                                            |
 | 29:48      | Thank you, that would be wonderful.                                                                    |
 | 29:49      | Thank you for sharing that.                                                                            |
 | 29:50      | I have not seen this yet and I need that.                                                              |
 | 29:52      | I think you just wrecked my weekend, Ryan.                                                             |
 | 29:55      | Thanks.                                                                                                |
-| 29:56      | Yep, yep, I lost last weekend to my blog, I'm losing this weekend to Obsidian, I am fine               |
+| 29:56      | Yep, yep, I lost last weekend to my blog, I'm losing this weekend to [[Obsidian]], I am fine               |
 | 30:01      | with this.                                                                                             |
 | 30:02      | This is...                                                                                             |
 | 30:03      | Yeah.                                                                                                  |
 | 30:04      | Yeah.                                                                                                  |
-| 30:05      | But like even with URLs though, it does have, like if you go into the Obsidian forums,                 |
+| 30:05      | But like even with URLs though, it does have, like if you go into the [[Obsidian]] forums,                 |
 | 30:09      | I had cooked together this really, this really creaky looking [[Keyboard Maestro]] script to               |
-| 30:16      | pull a URL link and build it out of Obsidian before they had it, then one day they just                |
+| 30:16      | pull a URL link and build it out of [[Obsidian]] before they had it, then one day they just                |
 | 30:21      | added the feature of, you know, get shareable link.                                                    |
 | 30:26      | But I have added that to the keyboard shortcut, this is a very basic automation, but Command           |
-| 30:30      | U for me in Obsidian gets me the URL link of the current note, and then all of a sudden                |
+| 30:30      | U for me in [[Obsidian]] gets me the URL link of the current note, and then all of a sudden                |
 | 30:35      | I'm dropping that into my Dev and Think database, my OmniFocus project, and all of a sudden my         |
 | 30:40      | computer just dances around a project like nobody's business, and it's because they put                |
 | 30:45      | features like that in.                                                                                 |
 | 30:46      | It's a beautiful thing.                                                                                |
-| 30:48      | By the way, did you know that there's an advanced URI plugin which extends the Obsidian URL            |
+| 30:48      | By the way, did you know that there's an advanced URI plugin which extends the [[Obsidian]] URL            |
 | 30:54      | scheme?                                                                                                |
 | 30:55      | Yeah.                                                                                                  |
 | 30:56      | And it actually has a feature, it's in the configuration, so go into preferences and                   |
@@ -660,11 +660,11 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 32:11      | I find especially automation-wise, it's better to wait until you find a need to solve before           |
 | 32:17      | you try to use the tool instead of trying to shoehorn a tool that maybe doesn't fit                    |
 | 32:20      | quite yet into your life.                                                                              |
-| 32:23      | Are you guys using any automation workflows on mobile to get text into Obsidian?                       |
-| 32:29      | Because I find the actual process of adding text in Obsidian to be pretty tedious on mobile,           |
+| 32:23      | Are you guys using any automation workflows on mobile to get text into [[Obsidian]]?                       |
+| 32:29      | Because I find the actual process of adding text in [[Obsidian]] to be pretty tedious on mobile,           |
 | 32:36      | you know, because you've got to get the app open, you've got to get to a note.                         |
 | 32:40      | I greatly prefer using [[Drafts]] for capture still, and then I just create a little [[Drafts]]               |
-| 32:47      | action that saves the note to a folder in Obsidian, and then it's there for me.                        |
+| 32:47      | action that saves the note to a folder in [[Obsidian]], and then it's there for me.                        |
 | 32:51      | I was curious, how are you guys handling that?                                                         |
 | 32:54      | I don't know.                                                                                          |
 | 32:55      | Is this a setup?                                                                                       |
@@ -685,49 +685,49 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 33:28      | to move it somewhere else, just as a sort of fundamental law of using the app.                         |
 | 33:32      | And now I know that Agile Tortoise has built out a lot of new features that support just               |
 | 33:37      | keeping the text in the app, which is great, fantastic.                                                |
-| 33:40      | But I'm sticking with Obsidian, and I was jealous of that workflow where you tap the                   |
+| 33:40      | But I'm sticking with [[Obsidian]], and I was jealous of that workflow where you tap the                   |
 | 33:45      | [[Drafts]] icon, and then you're able to write within seconds, right?                                      |
-| 33:48      | And so Lumberjack is a plugin I just built and released for Obsidian that has two functions.           |
-| 33:54      | They're both URL-scheme-based, and the idea is to write, if you write Obsidian colon slash             |
+| 33:48      | And so Lumberjack is a plugin I just built and released for [[Obsidian]] that has two functions.           |
+| 33:54      | They're both URL-scheme-based, and the idea is to write, if you write [[Obsidian]] colon slash             |
 | 33:59      | slash log, that's why it's Lumberjack because you're logging, it will automatically open               |
-| 34:04      | your daily note in Obsidian and create a list item of whatever prefix you want underneath              |
+| 34:04      | your daily note in [[Obsidian]] and create a list item of whatever prefix you want underneath              |
 | 34:10      | whatever heading you want, and you can just start writing right away.                                  |
 | 34:13      | It loads the edit mode, and it loads your keyboard right in front of you, so you're                    |
 | 34:17      | ready to go.                                                                                           |
 | 34:18      | So it doesn't work just or exactly as perfectly as [[Drafts]] does, Agile Tortoise definitely benefits     |
 | 34:24      | from the native text stack that [[Drafts]] is built on.                                                    |
-| 34:28      | And so, for instance, if you haven't opened Obsidian in a while, it might need to load                 |
+| 34:28      | And so, for instance, if you haven't opened [[Obsidian]] in a while, it might need to load                 |
 | 34:31      | that kind of thing.                                                                                    |
-| 34:32      | Hopefully, you don't forget your thought during that moment, but if you're opening Obsidian            |
+| 34:32      | Hopefully, you don't forget your thought during that moment, but if you're opening [[Obsidian]]            |
 | 34:35      | a lot, it works really well.                                                                           |
 | 34:36      | So that's Lumberjack.                                                                                  |
 | 34:37      | Is there a possibility to pass some data into this via a parameter?                                    |
 | 34:46      | So I can imagine that then I might actually, because what I do at the moment, which for                |
 | 34:52      | full disclosure, I do not recommend this, but this is what I'm doing because this is                   |
-| 34:56      | what I was doing before I started using Obsidian Sync.                                                 |
+| 34:56      | what I was doing before I started using [[Obsidian]] Sync.                                                 |
 | 34:58      | I actually have [[Drafts]] right into Dropbox folders.                                                     |
-| 35:06      | I have one computer which is set up, which syncs my Dropbox folder with Obsidian and Obsidian          |
+| 35:06      | I have one computer which is set up, which syncs my Dropbox folder with [[Obsidian]] and [[Obsidian]]          |
 | 35:12      | Syncs.                                                                                                 |
 | 35:13      | So double syncing, and just be very clear, if you want to do this one computer, do not                 |
 | 35:18      | do this on more than one computer, that will break all of the things.                                  |
-| 35:21      | One computer only, everything else is using Obsidian Sync.                                             |
-| 35:24      | So what happens then is that one computer goes, new stuff in Dropbox, pull it into Obsidian,           |
-| 35:30      | and then, of course, it ends up in Obsidian Sync.                                                      |
+| 35:21      | One computer only, everything else is using [[Obsidian]] Sync.                                             |
+| 35:24      | So what happens then is that one computer goes, new stuff in Dropbox, pull it into [[Obsidian]],           |
+| 35:30      | and then, of course, it ends up in [[Obsidian]] Sync.                                                      |
 | 35:32      | And this helps because I have some things which just append stuff to lists and things                  |
 | 35:37      | like that, and that's very easy to do via Drafts, of course, with the append action                    |
 | 35:43      | inside of the Dropbox actions.                                                                         |
-| 35:45      | But of course, I want the data in Obsidian.                                                            |
+| 35:45      | But of course, I want the data in [[Obsidian]].                                                            |
 | 35:50      | That's where the data lives.                                                                           |
 | 35:51      | That's the right place for the data.                                                                   |
 | 35:52      | The data shouldn't live in [[Drafts]] forever.                                                             |
 | 35:55      | But yeah, I'm not sure that what I've got there is really a good solution.                             |
-| 36:00      | I should spend a bit more time with the [[URL Schemes\|URL scheme]]s, in particular, the advanced one,                  |
+| 36:00      | I should spend a bit more time with the [[URL Schemes]], in particular, the advanced one,                  |
 | 36:05      | the advanced plugin, because I've yet to really dive into that, and I think that that would            |
 | 36:10      | probably solve the problem.                                                                            |
 | 36:11      | Though, of course, the beauty of the Dropbox action is it can run entirely in the background,          |
 | 36:15      | and then the draft just disappears, because I do still pretty much open [[Drafts]] to capture              |
 | 36:19      | most things, which is good.                                                                            |
-| 36:22      | But I should also look into making a PopClip extension for Obsidian.                                  |
+| 36:22      | But I should also look into making a PopClip extension for [[Obsidian]].                                  |
 | 36:25      | Maybe somebody already did that.                                                                       |
 | 36:26      | Yeah, I haven't seen one, but I wouldn't be surprised.                                                 |
 | 36:29      | I will say, so I was thinking about adding parameters, and then I held back because                    |
@@ -741,8 +741,8 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 36:55      | I can share it in the notes, and it runs entirely in the background, and will append whatever          |
 | 37:00      | you say out loud to your daily note.                                                                   |
 | 37:02      | Well, on my iPhone, of course, everything is talking to just the Dropbox API, but the                  |
-| 37:11      | [[Drafts]] is talking to the Dropbox API, but the actual Obsidian application is talking                   |
-| 37:15      | to Obsidian Sync, which is then saved on my phone.                                                     |
+| 37:11      | [[Drafts]] is talking to the Dropbox API, but the actual [[Obsidian]] application is talking                   |
+| 37:15      | to [[Obsidian]] Sync, which is then saved on my phone.                                                     |
 | 37:18      | So that is available in the Files app.                                                                 |
 | 37:21      | I would just have to make sure my draft section knows, at least for the time being, whether            |
 | 37:25      | I'm on my Mac or my iPhone or iPad, which fortunately, draft sections, you can say this step should    |
@@ -1368,7 +1368,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:12:58   | okay.                                                                                                  |
 | 01:12:59   | And again, this is me, you know, managing some anxiety that I was fighting, but it's                   |
 | 01:13:04   | a really neat little trick where I again use that same idea that I talked about earlier                |
-| 01:13:07   | and talking about home, the Obsidian home screen and the projects list.                                |
+| 01:13:07   | and talking about home, the [[Obsidian]] home screen and the projects list.                                |
 | 01:13:11   | I just have a plain text file and a list of descriptive moments like sitting on the couch              |
 | 01:13:15   | watching TV without anything on my mind except for hanging out and not worrying about this             |
 | 01:13:18   | comprehensive exam.                                                                                    |
@@ -1402,8 +1402,8 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:14:48   | to actually use your own chosen highlights out of Readwise.                                            |
 | 01:14:52   | I mean, you could also just store them in Data Jar or something.                                       |
 | 01:14:55   | I know Readwise has integrations with some things because I believe, is there a Readwise               |
-| 01:15:00   | plugin for Obsidian, I want to say?                                                                    |
-| 01:15:02   | Well, they have a Readwise plugin that will send your annotations over to Obsidian.                    |
+| 01:15:00   | plugin for [[Obsidian]], I want to say?                                                                    |
+| 01:15:02   | Well, they have a Readwise plugin that will send your annotations over to [[Obsidian]].                    |
 | 01:15:09   | But what I'm thinking is I want to grab a random, maybe, favourite because you can favourite             |
 | 01:15:14   | them in Readwise.                                                                                      |
 | 01:15:15   | I'm going to grab a random favourite Readwise highlight and then give it to shortcuts to                |
@@ -1488,7 +1488,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:20:14   | you will be looking at her college feed and it'll feel like it was yesterday that she                  |
 | 01:20:19   | was a baby.                                                                                            |
 | 01:20:21   | So you want to be there when she's there.                                                              |
-| 01:20:25   | You don't want to be thinking about, you know, scripting Obsidian or working on your                   |
+| 01:20:25   | You don't want to be thinking about, you know, scripting [[Obsidian]] or working on your                   |
 | 01:20:29   | PhD.                                                                                                   |
 | 01:20:30   | You just want to be there for her and, and finding a way maybe to use your tech to help                |
 | 01:20:34   | you be more present is, is a very good use of your tech.                                               |
@@ -1526,7 +1526,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:21:50   | I have faith.                                                                                          |
 | 01:21:51   | Oh yeah.                                                                                               |
 | 01:21:52   | Same.                                                                                                  |
-| 01:21:53   | Another angle, the augmented intelligence stuff to me is the way Obsidian connects                     |
+| 01:21:53   | Another angle, the augmented intelligence stuff to me is the way [[Obsidian]] connects                     |
 | 01:21:57   | things for me before my brain does.                                                                    |
 | 01:21:59   | And I think that might be another nice topic for us the next time you come on.                         |
 | 01:22:03   | So we're going to put a pin in that as well.                                                           |
@@ -1540,7 +1540,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:22:35   | It's the other research that I'm engaged in.                                                           |
 | 01:22:38   | We have both links to those in the show notes.                                                         |
 | 01:22:41   | Great.                                                                                                 |
-| 01:22:42   | And we all appreciate your contribution to not just Obsidian, but you know, everything                 |
+| 01:22:42   | And we all appreciate your contribution to not just [[Obsidian]], but you know, everything                 |
 | 01:22:46   | you've been doing over in the forums and all the great posts you've got over at axle.design.            |
 | 01:22:50   | Again, go check it out.                                                                                |
 | 01:22:52   | This is one you're going to want to add to your RSS feed.                                              |

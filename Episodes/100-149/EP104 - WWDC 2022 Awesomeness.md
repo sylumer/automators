@@ -662,7 +662,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 39:20      | groups which are kind of like work in progress. So I've got a tab group of front doorbell,                |
 | 39:26      | which sounds much more ominous than it is, but it's an automated front doorbell system                    |
 | 39:30      | for my parents in France, where I've got a blog post and some other stuff all in there.                   |
-| 39:37      | And yes, I could bookmark these, yes, I could put them into Obsidian. But it also means                   |
+| 39:37      | And yes, I could bookmark these, yes, I could put them into [[Obsidian]]. But it also means                   |
 | 39:43      | that when I tap and hold on a link on iOS or I right click on a link on Mac, I can send                   |
 | 39:48      | it to a specific tab group. So that tab group can always just receive that link. And that's,              |
 | 39:53      | that to me is the key for the tab groups there, which is why I think they're so powerful and              |
@@ -1199,7 +1199,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:23:33   | into the nose team and like getting the code in. I don't know how it happens, but, but                    |
 | 01:23:38   | they definitely, I think it's a combination of what API's shortcuts has available to those                |
 | 01:23:44   | apps. So for example, the new intense API is obviously available to, you know, every                      |
-| 01:23:50   | app from yellow season Obsidian to [[Drafts]] and, and Scriptable, but it's also available                    |
+| 01:23:50   | app from yellow season [[Obsidian]] to [[Drafts]] and, and Scriptable, but it's also available                    |
 | 01:23:55   | to Mail and sSfari. But also if those teams want something specific to be available, then                 |
 | 01:24:01   | they can put it into their API, um, which makes it in turn available back to the shortcuts                |
 | 01:24:06   | app because that's how shortcuts did a lot of stuff before, you know, it was using a                      |

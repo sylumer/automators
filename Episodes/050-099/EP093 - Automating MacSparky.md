@@ -158,7 +158,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 06:01      | Yeah, exactly.                                                                                         |
 | 06:02      | And I'm really just getting my arms wrapped around it.                                                 |
 | 06:06      | Um, so starting on the, uh, on the local Mac level, um, I write blog posts and I continue              |
-| 06:14      | to write them in Obsidian and Markdown.                                                                |
+| 06:14      | to write them in [[Obsidian]] and Markdown.                                                                |
 | 06:16      | Um, so the automation steps that happen there are, I have, um, I write it in Markdown, then            |
 | 06:23      | I run a keyboard and my script that grabs all the text that goes to Safari, opens Grammarly            |
 | 06:29      | and then creates, uses the feature and keyboard Maestro where it looks at the screen and               |
@@ -166,12 +166,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 06:37      | But for the Grammarly website, that's the only way to open a new document.                             |
 | 06:42      | You have to like click a special thing on the screen, but it works every time.                         |
 | 06:46      | And then I use a pause command and then I, I paste the text in.                                        |
-| 06:50      | So it's just like, I put one, I'm just one button away from Obsidian to Grammarly grammar check.       |
+| 06:50      | So it's just like, I put one, I'm just one button away from [[Obsidian]] to Grammarly grammar check.       |
 | 06:56      | So that's the first step I do.                                                                         |
 | 06:57      | Yeah.                                                                                                  |
 | 06:58      | Anything I write.                                                                                      |
 | 06:59      | Uh, so I'll do that.                                                                                   |
-| 07:00      | And then I have a similar, um, script to put it back in Obsidian and then I'll read it                 |
+| 07:00      | And then I have a similar, um, script to put it back in [[Obsidian]] and then I'll read it                 |
 | 07:04      | through a few times.                                                                                   |
 | 07:06      | And then I have another script I write that gets me to, uh, post it to of all places,                  |
 | 07:13      | Basecamp, you know, and that is an area where I really need to, as things progress here,               |
@@ -532,8 +532,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 27:15      | Yes.                                                                                                   |
 | 27:16      | But Apple Mail is pretty much working for me.                                                          |
 | 27:19      | And the thing I love about it is the [[AppleScript]] availability.                                        |
-| 27:23      | I did a webinar on this last year, but I've written [[AppleScript]]s that can move messages,              |
-| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript]]s inside Apple Mail.             |
+| 27:23      | I did a webinar on this last year, but I've written [[AppleScript\|AppleScripts]] that can move messages,              |
+| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript\|AppleScripts]] inside Apple Mail.             |
 | 27:37      | And then I wrote that script that puts in the recipient.                                               |
 | 27:40      | So I just type X high, it'll say high Rosemary, it'll grab your name from the two fields.              |
 | 27:46      | All those little, like I've tweaked Apple Mail to kind of myself and then I've programmed              |
@@ -689,8 +689,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 37:23      | Yeah.                                                                                                  |
 | 37:24      | But so the first thing I do is I take those four variables and I create that project for               |
 | 37:29      | OmniFocus.                                                                                             |
-| 37:30      | Then the next thing I do after that is I create an Obsidian note on the project because I have         |
-| 37:36      | an Obsidian project page for every podcast episode and it uses the same data.                          |
+| 37:30      | Then the next thing I do after that is I create an [[Obsidian]] note on the project because I have         |
+| 37:36      | an [[Obsidian]] project page for every podcast episode and it uses the same data.                          |
 | 37:44      | So I don't have to type it in a bunch of times.                                                        |
 | 37:45      | It grabs the date, the episode number.                                                                 |
 | 37:48      | The only thing I haven't done yet is figured out and I'm going to have to use web automation.          |
@@ -707,9 +707,9 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 38:31      | All right.                                                                                             |
 | 38:32      | Let's work on that together.                                                                           |
 | 38:33      | That'll be something we can cover in a future episode, but what I did was, so the next step            |
-| 38:37      | is it creates a text file, which is what you do with Obsidian.                                         |
+| 38:37      | is it creates a text file, which is what you do with [[Obsidian]].                                         |
 | 38:42      | But then I set the name of it based on the episode number and the guest name and then                  |
-| 38:48      | I have to add the.md to the end because Obsidian only sees markdown files.                             |
+| 38:48      | I have to add the.md to the end because [[Obsidian]] only sees markdown files.                             |
 | 38:52      | So I changed the name to credit markdown.                                                              |
 | 38:56      | I have a pro tip for you there, David.                                                                 |
 | 38:59      | So what you can do where you're setting the name, you need to make sure, or this is a                  |
@@ -725,17 +725,17 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 39:41      | know, maybe it's acting as a full rename for me.                                                       |
 | 39:43      | I don't know.                                                                                          |
 | 39:44      | Possibly.                                                                                              |
-| 39:45      | Yeah, and then because I use Obsidian Sync Service, these files are saved to the root                  |
+| 39:45      | Yeah, and then because I use [[Obsidian]] Sync Service, these files are saved to the root                  |
 | 39:52      | directory of my computer.                                                                              |
 | 39:55      | They're not on the cloud.                                                                              |
 | 39:57      | So then I just save it to the very specific folder for Automator's episode, so then it                 |
-| 40:02      | shows up in my Obsidian library, just fine.                                                            |
+| 40:02      | shows up in my [[Obsidian]] library, just fine.                                                            |
 | 40:05      | Another thing I want to automate on that, Rose, off to pick your brain on this is I want               |
-| 40:09      | to add it to my Kanban board in Obsidian, like a newly created file.                                   |
+| 40:09      | to add it to my Kanban board in [[Obsidian]], like a newly created file.                                   |
 | 40:14      | I'm going to look, there's something in there.                                                         |
 | 40:16      | I think we can do something there.                                                                     |
-| 40:18      | I have done the thing that Obsidian tell you to only do if you're being very careful,                  |
-| 40:22      | and I double sync my Obsidian vaults.                                                                  |
+| 40:18      | I have done the thing that [[Obsidian]] tell you to only do if you're being very careful,                  |
+| 40:22      | and I double sync my [[Obsidian]] vaults.                                                                  |
 | 40:26      | I only do this on one machine, so please, please.                                                      |
 | 40:29      | If you're considering doing this, listen to the advice of only do it on one machine,                   |
 | 40:35      | because if you do it on all the machines, it's like Ghostbusters, don't cross the streams              |
@@ -767,10 +767,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 42:10      | Like another thing that OmniFocus does is it allows you to create a link to virtually anything.        |
 | 42:14      | You can create a link to a folder, create a link to an individual project or whatever                  |
 | 42:19      | or a perspective.                                                                                      |
-| 42:20      | And because I'm so hung up on contextual computing, like when I go to that Obsidian note, it has       |
+| 42:20      | And because I'm so hung up on contextual computing, like when I go to that [[Obsidian]] note, it has       |
 | 42:26      | a link to the OmniFocus project based on one of those links or to Dev and Think data on                |
 | 42:33      | it or to the Google doc.                                                                               |
-| 42:35      | So I look at the Obsidian as like my mission control and I can click something on the Kanban           |
+| 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the Kanban           |
 | 42:42      | and immediately get to all the resources related to it.                                                |
 | 42:46      | And I've looked at some other task managers and they just don't do a lot of that stuff.                |
 | 42:52      | So it'll be hard to dislodge me.                                                                       |
@@ -837,7 +837,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 46:34      | for the fact that Rose is so efficient, because Rose has a web-based automation that creates           |
 | 46:38      | the calendar events already, I could have added a step to that that created the event                  |
 | 46:43      | in the calendar as well.                                                                               |
-| 46:44      | In addition to sending the email and putting together the Obsidian.                                    |
+| 46:44      | In addition to sending the email and putting together the [[Obsidian]].                                    |
 | 46:48      | So what I would suggest is if you've got something that you're automating in terms of projects         |
 | 46:53      | and they involve dates, adding a calendar event is one extra block in shortcuts.                       |
 | 47:00      | You should always keep an open mind to just creating those events automatically at the                 |
@@ -1269,11 +1269,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:05   | And it runs a script that says, you know, what's the idea I type in using Bunch.                       |
 | 01:14:09   | It has a little checkbox there.                                                                        |
 | 01:14:11   | If I've got something saved to the clipboard, I can add it or not.                                     |
-| 01:14:14   | And then it creates a custom Obsidian note on that idea, titles it, adds all the [[YAML]]                  |
-| 01:14:22   | data, all the stuff I do to create an Obsidian post and saves it to the exact folder where             |
+| 01:14:14   | And then it creates a custom [[Obsidian]] note on that idea, titles it, adds all the [[YAML]]                  |
+| 01:14:22   | data, all the stuff I do to create an [[Obsidian]] post and saves it to the exact folder where             |
 | 01:14:27   | I keep content ideas.                                                                                  |
 | 01:14:28   | And later I'll go through that list and start thinking about more.                                     |
-| 01:14:31   | In fact, one of the things does it as a checklist to that item in Obsidian saying, where do            |
+| 01:14:31   | In fact, one of the things does it as a checklist to that item in [[Obsidian]] saying, where do            |
 | 01:14:36   | you think this belongs, you know, in terms of content?                                                 |
 | 01:14:40   | So it does all of that.                                                                                |
 | 01:14:41   | And all I do is type in one thing and I run all of that with [[Keyboard Maestro]].                         |
@@ -1281,7 +1281,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:48   | And I do the exact same, I get the exact same result using Drafts.                                     |
 | 01:14:53   | And it's not that hard.                                                                                |
 | 01:14:55   | You open [[Drafts]] and [[Drafts]] has a templated text [[Drafts]] action.                                         |
-| 01:14:59   | We've talked about it on the show before and I took the exact same [[YAML]] content and Obsidian           |
+| 01:14:59   | We've talked about it on the show before and I took the exact same [[YAML]] content and [[Obsidian]]           |
 | 01:15:07   | outline that I use when I have a new content idea.                                                     |
 | 01:15:10   | And [[Drafts]] now has the ability to save locally anywhere you want.                                      |
 | 01:15:16   | So I save that to the exact same folder on my phone.                                                   |
@@ -1289,7 +1289,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:15:24   | But I just want to shout out that, you know, shortcuts is great and I'm a big fan.                     |
 | 01:15:30   | But [[Keyboard Maestro]] on the Mac and [[Drafts]] on the iPhone and iPad can really help you                  |
 | 01:15:34   | sometimes do things that would be otherwise difficult.                                                 |
-| 01:15:38   | I mean, if I get a content idea, what I don't want to do is open up obsidian, navigate to              |
+| 01:15:38   | I mean, if I get a content idea, what I don't want to do is open up [[Obsidian]], navigate to              |
 | 01:15:44   | the right folder, create a new file, run a template and do like 10 steps.                              |
 | 01:15:50   | And it's even harder to do that on the iPhone because, you know, it's the iPhone.                      |
 | 01:15:54   | Whereas now I just type a few things in Drafts, push a button in Drafts, it happens, right?            |

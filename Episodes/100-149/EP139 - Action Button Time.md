@@ -807,8 +807,8 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 56:17      | then other than that it is very much dependent on focus mode. So if it's driving I mentioned        |
 | 56:25      | before it's going to either play music or play a podcast through the run shortcut action.           |
 | 56:30      | If it is my work focus mode it actually does exactly what I've talked about here but it             |
-| 56:37      | also has a separate option for like open Obsidian to my notes for work specifically so I can        |
-| 56:48      | go straight into my work notes in Obsidian which can be very useful. And yeah, and then             |
+| 56:37      | also has a separate option for like open [[Obsidian]] to my notes for work specifically so I can        |
+| 56:48      | go straight into my work notes in [[Obsidian]] which can be very useful. And yeah, and then             |
 | 56:54      | podcasting I need work on this one because I would really like it to figure out which               |
 | 56:59      | podcast I'm recording and pop up things a little bit differently. If I've got an automated          |
 | 57:04      | podcast anytime today I'd love it to give me the option to open the show notes for                  |

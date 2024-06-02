@@ -565,8 +565,8 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 48:41      | and I know that it's, this is not something that really, and it kind of often forced into                                               |
 | 48:48      | [[AppleScript]] because it's the only game in town, but you kind of wish, you know, I kind                                                     |
 | 48:53      | of know that you're pushing [[AppleScript]] in a way that it shouldn't be pushed. Whenever                                                     |
-| 48:59      | I have to set [[AppleScript]]s text item delimiters, if you are an [[AppleScript]] programmer and you                                          |
-| 49:04      | have to, you use this thing called [[AppleScript]]s text item delimiters, you know you're doing                                                |
+| 48:59      | I have to set [[AppleScript\|AppleScripts]] text item delimiters, if you are an [[AppleScript]] programmer and you                                          |
+| 49:04      | have to, you use this thing called [[AppleScript\|AppleScripts]] text item delimiters, you know you're doing                                                |
 | 49:11      | something that you really wish you hadn't, you weren't, shouldn't be, you weren't, weren't                                                     |
 | 49:15      | going to do. There'd be dragons. You're in trouble. Yeah. Oh my God. Every time I have                                                         |
 | 49:20      | to do that, I think, go crap, [[AppleScript]], you're so bad at text. Why are you doing this?                                                  |

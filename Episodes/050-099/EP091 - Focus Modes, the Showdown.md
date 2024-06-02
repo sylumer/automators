@@ -934,7 +934,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 56:29      | I can do that with a custom perspective.                                                                |
 | 56:32      | It shows a version of a Fantastical that gives me a list of my events for the day.                      |
 | 56:38      | It puts a lot of my work-related apps right on the screen for me, like Slack, I work in                 |
-| 56:44      | a lot, Basecamp, I work in a lot, Obsidian, and then Drafts.                                            |
+| 56:44      | a lot, Basecamp, I work in a lot, [[Obsidian]], and then Drafts.                                            |
 | 56:47      | So a bunch of apps show up that I generally use for this stuff.                                         |
 | 56:52      | And now in terms of the permissions that I give through work mode, this is one where                    |
 | 56:58      | I do allow VIPs through.                                                                                |
@@ -1077,7 +1077,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:41   | home screen came out here.                                                                              |
 | 01:05:42   | Let me turn it on so I can just show you.                                                               |
 | 01:05:44   | Maybe we'll figure out a way to share some of these home screens.                                       |
-| 01:05:47   | But I've got the audible Kindle, I've got Obsidian and day one here, because I actually take            |
+| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and day one here, because I actually take            |
 | 01:05:55   | notes sometimes on books in different contexts.                                                         |
 | 01:05:57   | I've got the Apple Books app.                                                                           |
 | 01:05:58   | Do you know the Apple Books app does not have a widget?                                                 |

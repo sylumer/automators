@@ -664,7 +664,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 58:07      | all at once. I mean something I've noticed with myself over the last year is tool selection to                                   |
 | 58:13      | me has become a primary concern has been is this shareable, is this addressable and you know,                                    |
 | 58:21      | and is it addressable and shareable on multiple platforms? I mean I'm, I am really into the                                      |
-| 58:27      | Obsidian app but they haven't released their mobile app yet and as addressable as it is on my Mac                               |
+| 58:27      | [[Obsidian]] app but they haven't released their mobile app yet and as addressable as it is on my Mac                               |
 | 58:32      | it's almost not addressable on iOS especially if you're using the security model I am. So                                        |
 | 58:38      | it is something that comes up and I feel like it's something that you're starting to see                                         |
 | 58:45      | a lot of enlightened app developers really embrace. I think the blend of shortcuts,                                              |

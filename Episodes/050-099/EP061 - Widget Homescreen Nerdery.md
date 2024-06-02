@@ -805,8 +805,8 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:02:50   | comes in. FastScripts picks up where Apple leaves off. With FastScripts, you get that enhanced upgrade |
 | 01:02:57   | to the [[AppleScript]] menu. And it's a familiar design that you see, but it's a better user interface    |
 | 01:03:03   | and easier to get to your scripts. But even more important is the powerful keyboard shortcuts. With    |
-| 01:03:09   | FastScripts, you can set global or application specific control of the [[AppleScript]]s at the tip        |
-| 01:03:16   | of your fingers. I use these all the time because I have too many [[AppleScript]]s. For example, I have   |
+| 01:03:09   | FastScripts, you can set global or application specific control of the [[AppleScript\|AppleScripts]] at the tip        |
+| 01:03:16   | of your fingers. I use these all the time because I have too many [[AppleScript\|AppleScripts]]. For example, I have   |
 | 01:03:21   | one that creates a whole nested set of folders for new client projects. I tied that to a FastScript    |
 | 01:03:28   | script. So when I'm in the Finder, I get a new client, I push one keyboard shortcut and get all        |
 | 01:03:33   | my folders generated for me automatically. Because it's all done in [[AppleScript]], I don't need to go   |

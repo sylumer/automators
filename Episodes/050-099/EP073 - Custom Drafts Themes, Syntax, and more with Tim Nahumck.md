@@ -89,9 +89,9 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:10      | Oh, yeah. Absolutely. It's one of those things that I find myself just using little things           |
 | 01:16      | here and there, and it actually takes me a little while to remember, oh, yeah, that's                |
 | 01:22      | an automation. It's just become everyday workflow now.                                               |
-| 01:26      | Yeah. We've got a future Mac Power users episode coming out on the joy of Obsidian and kind          |
+| 01:26      | Yeah. We've got a future Mac Power users episode coming out on the joy of [[Obsidian]] and kind          |
 | 01:32      | of a deep dive into it, and one of the points I made was that [[Drafts]] is a companion app              |
-| 01:37      | to Obsidian, and Obsidian falls down as an electron app. [[Drafts]] picks up the Slack as                |
+| 01:37      | to [[Obsidian]], and [[Obsidian]] falls down as an electron app. [[Drafts]] picks up the Slack as                |
 | 01:44      | a native app, and it's the perfect place to write text and put it in there because whatever          |
 | 01:48      | action you need, either already exists or you can build it yourself.                                 |
 | 01:53      | And I think one of the things you were saying there, Tim, about automation really is the             |
@@ -732,7 +732,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 57:49      | have templates that don't match a, um, uh, a theme, uh, or workspace. Sorry. I've got                |
 | 57:54      | themes on the brain, it seems. Um, so that's, that's the nut that I am currently trying              |
 | 57:58      | to crack. Um, the nuts that I've cracked considerably more recently that are actually,               |
-| 58:03      | you know, ready for consumption, um, are, um, saving things into my, um, Obsidian notes              |
+| 58:03      | you know, ready for consumption, um, are, um, saving things into my, um, [[Obsidian]] notes              |
 | 58:09      | folder in Dropbox. Sure. Um, including appending to lists. So I have a specific folder for           |
 | 58:16      | lists. Um, and I have an action that will let me append to any file in that folder.                  |
 | 58:22      | Um, which means that I can just write something. So say, for example, I write once upon a time,      |
@@ -740,16 +740,16 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 58:32      | It's gone to the trash because I filed it. Um, and then that, that is actually a list                |
 | 58:37      | item in that list for me. So I can, I can get at that. And because it's in Dropbox,                  |
 | 58:42      | I can access it from a whole bunch of places, which makes it pretty easy.                            |
-| 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use Obsidian           |
+| 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use [[Obsidian]]           |
 | 58:51      | to store a lot of data and I write everything in Drafts. You know, I don't write that much           |
-| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using Obsidian's end-to-end encryption      |
+| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian]]'s end-to-end encryption      |
 | 59:03      | model, I don't have a Dropbox resource to dump these, these files into and said, I've                |
 | 59:08      | got it on my native drive on my Mac. So I made a special folder that's watched by our                |
 | 59:14      | dear friend [[Hazel]]. And, um, I have, um, [[Drafts]] saved to that folder and then Mac, the Mac,           |
 | 59:22      | you know, running [[Hazel]] will sort it. And if I put tags on it, it'll put it into different           |
-| 59:27      | places in the base Obsidian library on my Mac. And then suddenly it, you know, it disperses          |
-| 59:33      | to everywhere through Obsidian sync. But I had to, it was a, it was a different problem              |
-| 59:38      | because I don't have cloud storage to work with when I'm working with Obsidian files.                |
+| 59:27      | places in the base [[Obsidian]] library on my Mac. And then suddenly it, you know, it disperses          |
+| 59:33      | to everywhere through [[Obsidian]] sync. But I had to, it was a, it was a different problem              |
+| 59:38      | because I don't have cloud storage to work with when I'm working with [[Obsidian]] files.                |
 | 59:42      | And, um, um, also because I don't use [[Drafts]] for long-term storage, I use it for the creation         |
 | 59:49      | process. I have a lot of templated stuff I want to send to other places. I mean, uh,                 |
 | 59:55      | so much of my life is similar, you know, in terms of things I'm taking notes on, maybe               |
@@ -767,7 +767,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:01:00   | it's just like an, I'm just looking at that one's on my screen right now. So if you call             |
 | 01:01:03   | me up and say, I need to make an LLC and I'm like, how many members, one member? Okay.               |
 | 01:01:07   | I push one button in Drafts. All the questions I need to ask you just appear in [[Drafts]] and           |
-| 01:01:12   | I fill it all out. And then I push this into Obsidian button and there it goes. You know,            |
+| 01:01:12   | I fill it all out. And then I push this into [[Obsidian]] button and there it goes. You know,            |
 | 01:01:18   | and I just, I just love Drafts. I don't know what we'll say.                                         |
 | 01:01:22   | See, the, the interesting thing that it, you both use templates a lot. That's actually               |
 | 01:01:27   | a feature of [[Drafts]] that I barely touch and I probably need to dive more into that myself.           |
@@ -839,7 +839,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:07:01   | draft, it doesn't show up in the inbox. It only shows up in flagged. So that way, it's               |
 | 01:07:06   | kind of out of sight, out of mind on a regular basis from my regular list. And what I use            |
 | 01:07:13   | something like that for is I will keep a lot of my lists. So Rose, you mentioned earlier             |
-| 01:07:18   | that you have your movie lists saved to Dropbox so you can have that in Obsidian later. For          |
+| 01:07:18   | that you have your movie lists saved to Dropbox so you can have that in [[Obsidian]] later. For          |
 | 01:07:24   | me, I just keep that in Drafts. And there's an append to list action that's in the directory.        |
 | 01:07:31   | And I just use that. And all of my lists are actually in my normal general workspace is              |
 | 01:07:38   | what I call it. But it's in the flagged portion of it, and it's tagged list. So I can actually       |

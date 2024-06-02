@@ -513,32 +513,32 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 45:55      | was like the first thing I tried when I ran my first Catalyst app and it didn't work. So maybe            |
 | 46:00      | maybe maybe they have come around. Maybe I really need to look at this again. Or the people at Kraft      |
 | 46:06      | are so conscientious. They coded it in, you know, I mean, they built it themselves. I mean, that's        |
-| 46:11      | also yeah, are you a fan of Kraft? Yeah, I like it. I think it's a good app. Have you used Obsidian?      |
+| 46:11      | also yeah, are you a fan of Kraft? Yeah, I like it. I think it's a good app. Have you used [[Obsidian]]?      |
 | 46:17      | Oh, yeah, I'm, I'm, I am way and I'm using them both. I mean, I'm one of those weird ones. But            |
-| 46:23      | the I find I went to Obsidian first, frankly, because I really like the the linking the hypertext         |
+| 46:23      | the I find I went to [[Obsidian]] first, frankly, because I really like the the linking the hypertext         |
 | 46:29      | nature of the app. And I do a lot of thinking, you know, I'm holding up air quotes right now,             |
-| 46:35      | but the, but all that stuff goes into Obsidian because it's so good at that kind of problem.              |
+| 46:35      | but the, but all that stuff goes into [[Obsidian]] because it's so good at that kind of problem.              |
 | 46:40      | But I was also using it to manage a lot of the MacSparky planning stuff, but I've got a couple           |
-| 46:45      | people helping me and that data in Obsidian, it's not Obsidian is not sharing friendly. So                |
+| 46:45      | people helping me and that data in [[Obsidian]], it's not [[Obsidian]] is not sharing friendly. So                |
 | 46:52      | then everybody was talking about Kraft. So I downloaded it and got it on my team. And we put              |
 | 46:56      | all of the playing like every blog post, every newsletter, everything gets done in Kraft. And             |
 | 47:02      | then everybody on the team can see it. And yeah, I've really come to like Kraft. I mean, but I            |
 | 47:09      | mean, but I mean, I kind of use them in different ways, but sure, it's a good. Yeah, I thought Kraft      |
-| 47:15      | was amazing. But I felt like between Kraft and Obsidian, Obsidian works with a pile of markdown           |
+| 47:15      | was amazing. But I felt like between Kraft and [[Obsidian]], [[Obsidian]] works with a pile of markdown           |
 | 47:23      | files. Sure. A pile of markdown files, you can automate in all kinds of ways. And you can,                |
 | 47:29      | you can run external automations as you please. And, and I can use it because I'm working on              |
 | 47:36      | an app called Envy Ultra, which is the sequel to Envy Ultra more or less. And I can use that with         |
-| 47:43      | Obsidian. Yes. And my Envy Ultra notes can go into like an Obsidian notebook. And I can use               |
-| 47:51      | Envy Ultra for fast markdown editing and, and like modal note taking. And then Obsidian blows me          |
+| 47:43      | [[Obsidian]]. Yes. And my Envy Ultra notes can go into like an [[Obsidian]] notebook. And I can use               |
+| 47:51      | Envy Ultra for fast markdown editing and, and like modal note taking. And then [[Obsidian]] blows me          |
 | 47:59      | away. Like I haven't dug super deep into it, but every time I use it, I'm like, this is, this is          |
 | 48:07      | the app I would build if I, if I had the time focus and, and capability, it's, it's a great               |
-| 48:14      | app. I'm, I'm right now in the middle of making an Obsidian field guide, because it's just like           |
+| 48:14      | app. I'm, I'm right now in the middle of making an [[Obsidian]] field guide, because it's just like           |
 | 48:19      | you said, it's a folder full of markdown files. So it's so portable with your data, you know,             |
-| 48:24      | there's nothing wrong. You are adding some Obsidian syntax that you're not going to normally have         |
+| 48:24      | there's nothing wrong. You are adding some [[Obsidian]] syntax that you're not going to normally have         |
 | 48:28      | a markdown, but otherwise you are super clean. And the third party development of the, you know,          |
-| 48:34      | they have that API and people are just making every day, whatever thing it is you want Obsidian to do,    |
+| 48:34      | they have that API and people are just making every day, whatever thing it is you want [[Obsidian]] to do,    |
 | 48:41      | somebody has written it already. And it is, so that there's a nerd element of it for me that I            |
-| 48:47      | just love tweaking it to my, my, my, my choice. Like if you, if you're using Obsidian, download           |
+| 48:47      | just love tweaking it to my, my, my, my choice. Like if you, if you're using [[Obsidian]], download           |
 | 48:56      | the data view plugin and just figure that out. I mean, I'd love to hear what happens if Brett             |
 | 49:03      | Terpstra spends a day looking at data because it is crazy what you can do with a folder full              |
 | 49:09      | of markdown folder files and that data view plugin. It's just completely insane.                          |
@@ -546,7 +546,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 49:18      | Yeah. Yeah. And, and that's where like, I like using Envy Ultra for most of my no taking,                 |
 | 49:27      | no taking and editing because it does use native Mac OS text areas and text fields.                       |
 | 49:34      | And, and I have all of my services and all of my shortcuts and all my key bindings. I use a ton           |
-| 49:42      | of custom key bindings. Like all of that is available in Envy Ultra, but not in Obsidian.                 |
+| 49:42      | of custom key bindings. Like all of that is available in Envy Ultra, but not in [[Obsidian]].                 |
 | 49:48      | For actually working with the text files, Obsidian's tools are outstanding. For actual,                   |
 | 49:55      | for me, for actual note taking, I will take a native text, a Cocoa text field any day.                    |
 | 50:01      | Now, every time in any of my platforms, the word comes up that I'm going to be talking to you,            |
@@ -568,17 +568,17 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 52:04      | feedback than good. So that's the kind of thing where like, we can launch a 1.0 with an icon we           |
 | 52:09      | don't love. Like that's rebrandable in the future. Let's just get 1.0 out. At this point,                 |
 | 52:16      | don't let the icon hold you up, man. The whole, the whole internet is waiting for this launch. So         |
-| 52:21      | you got to, you got to get there. We started developing this before Obsidian was even on the              |
+| 52:21      | you got to, you got to get there. We started developing this before [[Obsidian]] was even on the              |
 | 52:26      | map. And like, it could have, it could have had a heyday. If we had, if we had beat all of these          |
 | 52:33      | other note-taking apps to market, but we did not, we dragged it out so long. It became,                   |
 | 52:40      | so many people have given up on us at this point, but we have, we have a couple thousand beta             |
 | 52:45      | testers that have been happily using it, people that use it as a daily driver. I believe there's          |
 | 52:51      | a solid place for it in the pantheon of macOS note-taking apps, but we just got to get that               |
-| 52:59      | 1.0 out. Yeah, I totally agree with your use case that, you know, we've got apps like Obsidian,           |
+| 52:59      | 1.0 out. Yeah, I totally agree with your use case that, you know, we've got apps like [[Obsidian]],           |
 | 53:04      | but people may want to actually edit the markdown file somewhere else. I mean, that is,                   |
 | 53:09      | there's a lot of people looking for that kind of stuff. And then like, you could probably,                |
-| 53:14      | you should spend a little time, you could probably write a plugin for Obsidian that even                  |
-| 53:19      | further simplifies the process so you can like go back and forth from Obsidian.                           |
+| 53:14      | you should spend a little time, you could probably write a plugin for [[Obsidian]] that even                  |
+| 53:19      | further simplifies the process so you can like go back and forth from [[Obsidian]].                           |
 | 53:24      | Let me give the pitch for anyone who is listening and has used NV Alt. We've made NV                      |
 | 53:32      | Alt so that it can work with nested folders, multiple folders. You can have each folder                   |
 | 53:37      | can become a notebook, same super fast search, same full tech search, but with all of the                 |

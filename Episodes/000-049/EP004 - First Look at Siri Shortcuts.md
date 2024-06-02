@@ -132,7 +132,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 04:12      | Yeah.                                                                                                                      |
 | 04:13      | So let's talk a little bit about [[Shortcuts\|Siri Shortcuts]].                                                                           |
 | 04:15      | One of the goals I always had, like workflow was great,                                                                    |
-| 04:19      | but it's always been based on [[URL Schemes\|URL scheme]]s.                                                                                 |
+| 04:19      | but it's always been based on [[URL Schemes]].                                                                                 |
 | 04:22      | Yeah.                                                                                                                      |
 | 04:23      | Tell everybody what a [[URL Schemes\|URL scheme]] is.                                                                                       |
 | 04:25      | Okay, so when you go to a website,                                                                                         |
@@ -143,7 +143,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 04:46      | I need to go out on the internet and look for this.                                                                        |
 | 04:48      | And the way that this works on iOS devices,                                                                                |
 | 04:51      | at the very least and on the Mac as well,                                                                                  |
-| 04:53      | the [[URL Schemes\|URL scheme]]s are supported on the Mac,                                                                                  |
+| 04:53      | the [[URL Schemes]] are supported on the Mac,                                                                                  |
 | 04:55      | and a lot of people know that,                                                                                             |
 | 04:57      | is you replace this HTTP or HTTPS with something.                                                                          |
 | 05:01      | So for example, with the [[Workflow]] app,                                                                                     |
@@ -176,7 +176,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 06:09      | But the problem with that is I feel like we squeezed                                                                       |
 | 06:13      | every ounce of life out of [[URL schemes]] that we ever could have.                                                            |
 | 06:17      | And workflow was the kind of the epitome of that.                                                                          |
-| 06:21      | That app did amazing things largely based on [[URL Schemes\|URL scheme]]s.                                                                  |
+| 06:21      | That app did amazing things largely based on [[URL Schemes]].                                                                  |
 | 06:25      | And it was just because the workflow team worked so hard                                                                   |
 | 06:28      | at like digging down into the weeds and finding every way we could do it.                                                  |
 | 06:32      | But the problem with that is it was never baked into the operating system.                                                 |
@@ -926,7 +926,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 40:56      | I just want it to go so much further.                                                                                      |
 | 40:58      | And I hope that the tools for developers are easy enough that they can make those donations                                |
 | 41:03      | to Siri and that they can make their apps work with Siri and that this is just a really                                    |
-| 41:07      | great rich ecosystem that goes way beyond what we could have ever done with [[URL Schemes\|URL scheme]]s.                                   |
+| 41:07      | great rich ecosystem that goes way beyond what we could have ever done with [[URL Schemes]].                                   |
 | 41:12      | Oh, yes.                                                                                                                   |
 | 41:13      | Yes.                                                                                                                       |
 | 41:14      | I'm very much hoping that we get all of that and more.                                                                     |

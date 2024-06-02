@@ -828,7 +828,7 @@ Today we venture into the brave new world of web automation, and we start with g
 | 33:19      | And then I sat down and thought about it and thought, OK, what can this do?                                    |
 | 33:23      | So for anybody who listens to [[Mac Power Users]] or [[Free Agents]],                                                  |
 | 33:27      | those episodes get posted in the [[Mac Power Users]] and in forum.                                                 |
-| 33:32      | And so there's [[Free Agents ]]subcategory there.                                                                  |
+| 33:32      | And so there's a [[Free Agents]] subcategory there.                                                                  |
 | 33:36      | And those episodes get posted by [[Zapier]] because it works really well.                                          |
 | 33:41      | And it can connect to the [[Discourse]] API.                                                                       |
 | 33:43      | [[Discourse]] is the forum software that we're using for automators                                                |
@@ -858,7 +858,7 @@ Today we venture into the brave new world of web automation, and we start with g
 | 35:06      | So I've integrated that same thing into my [[Zapier]]'s apps                                                       |
 | 35:08      | where I need to know that they've happened.                                                                    |
 | 35:11      | And you can actually even use this, this is a tip for people listening.                                        |
-| 35:15      | If you want to, you can use [[URL Schemes\|URL scheme]]s with it.                                                               |
+| 35:15      | If you want to, you can use [[URL Schemes]] with it.                                                               |
 | 35:18      | So you can have it send you a notification which could open a web page                                         |
 | 35:22      | or it could open an app.                                                                                       |
 | 35:25      | So it can open [[OmniFocus]] to a specific perspective for me.                                                     |

@@ -402,7 +402,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 21:49      | and everybody's coming up with these creative solutions to get around that limitation.                            |
 | 21:55      | It almost reminds me of the emergence of the [[URL Schemes\|URL scheme]] to begin with.                                            |
 | 21:59      | But I just love that, you know, the community is like, okay, that's fine, we'll use the                           |
-| 22:03      | clipboard, we'll use [[URL Schemes\|URL scheme]]s, we'll do whatever we need to do to get what we want.                            |
+| 22:03      | clipboard, we'll use [[URL Schemes]], we'll do whatever we need to do to get what we want.                            |
 | 22:08      | Yes, nerds will not be stopped, I think is the correct answer there.                                              |
 | 22:15      | And hopefully in a future release, we'll get, you know, the Apple will formalise that to                          |
 | 22:18      | where we don't need to do this stuff, but for now, we do have a solution.                                         |

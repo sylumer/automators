@@ -309,7 +309,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 17:16      | of software to exchange and make use of information between applications.                             |
 | 17:22      | And we're always looking for opportunities.                                                           |
 | 17:24      | So on the main page of the Omni Automation website, you'll see along with [[Alfred]], you'll              |
-| 17:30      | see examples with obsidian, Airtable, OpenAI, there's a lot of examples of working with               |
+| 17:30      | see examples with [[Obsidian]], [[Airtable]], OpenAI, there's a lot of examples of working with               |
 | 17:37      | other third-party products.                                                                           |
 | 17:41      | And that's the advantage of Omni Automation is that you have the core tools necessary                 |
 | 17:46      | for doing secure communication across networks, you know, using passwords and tokens correctly,       |
@@ -329,7 +329,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 18:38      | I feel like we need a better automation solution to get the URL.                                      |
 | 18:41      | You know what I mean?                                                                                 |
 | 18:42      | To say, create a new project and put the URL in the paste buffer for the project.                     |
-| 18:47      | So then I can embed it into an Obsidian page or drop it in a craft document.                          |
+| 18:47      | So then I can embed it into an [[Obsidian]] page or drop it in a craft document.                          |
 | 18:52      | It's not that hard.                                                                                   |
 | 18:53      | You open OmniFocus, you right-click, you copy the URL.                                                |
 | 18:57      | But I have struggled over the years to come up with a reliable way to grab that URL, like             |
@@ -908,7 +908,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 58:34      | or Markdown.                                                                                          |
 | 58:35      | Plus customisable templates for exports and exports based on custom filters will be available         |
 | 58:40      | soon.                                                                                                 |
-| 58:41      | Do you use Obsidian?                                                                                  |
+| 58:41      | Do you use [[Obsidian]]?                                                                                  |
 | 58:43      | Taskbone's got a plug-in for that, too, that allows a convenient two-way sync between your            |
 | 58:47      | local Markdown files and [[Todoist]].                                                                     |
 | 58:50      | At Taskbone, they understand that adding a new service to your automation tool belt may               |

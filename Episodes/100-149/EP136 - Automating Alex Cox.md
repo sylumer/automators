@@ -268,7 +268,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 22:28      | the bones with this. That actually still hasn't happened very, very much. Mostly I kind of am           |
 | 22:36      | still doing the thing where it is a surface, I don't want to say surface level, but the main            |
 | 22:44      | thing is using scripts to, like I said, put windows in certain things like it will and using triggers   |
-| 22:55      | like see, I'm trying to look because previous, I do have an Obsidian. Also, David, this is a thing      |
+| 22:55      | like see, I'm trying to look because previous, I do have an [[Obsidian]]. Also, David, this is a thing      |
 | 23:06      | that we both do. It's called CoxOS. And it's just kind of all of my, yeah, it's like all of my,         |
 | 23:14      | it's all my like medication stuff, all of like the apart, there's also a section for like everything    |
 | 23:21      | that runs in my apartment for if a guest needs to come over. But and I probably should have that        |
@@ -460,7 +460,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 42:12      | dates, fill in the blank fields, timestamps, and more. This will make sure that you still               |
 | 42:17      | keep the personality and the communication you send. TextExpander is available on any device            |
 | 42:22      | you use across any app you use on Mac, Windows, Chrome, and iOS. I use the heck out of TextExpander.    |
-| 42:30      | Just this week, I released a new field guide, the Obsidian Field Guide. I would not be able to get      |
+| 42:30      | Just this week, I released a new field guide, the [[Obsidian]] Field Guide. I would not be able to get      |
 | 42:34      | through this week without TextExpander because there's so many email questions,                         |
 | 42:38      | there's so many special links I need to send. I do all of that. In TextExpander, it just makes          |
 | 42:44      | everything so much easier. Every year, I look at the estimates of time saved in TextExpander,           |

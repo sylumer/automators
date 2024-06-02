@@ -21,6 +21,6 @@ flowchart LR
 ```
 
 
-There are two triggers. A text snippet, or a hotkey. These trigger a list filter in [[Alfred]] to appear. This lists out the sponsors by name. Entering a few characters into [[Alfred]] at this point filters the list until just the one required sponsor remains. Pressing enter copies the content into the clipboard and then immediately pastes it into Obsidian at the current cursor position (the *Automatically paste to frontmost app* option is enabled in the final step).
+There are two triggers. A text snippet, or a hotkey. These trigger a list filter in [[Alfred]] to appear. This lists out the sponsors by name. Entering a few characters into [[Alfred]] at this point filters the list until just the one required sponsor remains. Pressing enter copies the content into the clipboard and then immediately pastes it into [[Obsidian]] at the current cursor position (the *Automatically paste to frontmost app* option is enabled in the final step).
 
 The interaction for long lists of options like this is easier to manage than in the current incarnation of TextExpander, and this has proven to be quick to use and easy to maintain.

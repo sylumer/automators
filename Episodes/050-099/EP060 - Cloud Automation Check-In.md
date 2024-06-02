@@ -1153,12 +1153,12 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:04:32   | So now if I go into the episode draft, it'll, it will look for any other draft that links                    |
 | 01:04:42   | to it.                                                                                                       |
 | 01:04:43   | So it's a backlink.                                                                                          |
-| 01:04:44   | It's not as, it's not as efficient or as convenient as, as room research or even Obsidian.                   |
+| 01:04:44   | It's not as, it's not as efficient or as convenient as, as room research or even [[Obsidian]].                   |
 | 01:04:48   | But it still gives you the benefit of a backlink.                                                            |
 | 01:04:52   | And so, so I'm doing a bunch of automation stuff around that yet.                                            |
 | 01:04:56   | And like you, I'm kind of like rethinking my note system.                                                    |
 | 01:04:59   | And the thing is, I wrote a post about this at MacSparky, but right now we're in the                        |
-| 01:05:03   | midst of a revolution in notes with tools like Obsidian and [[Drafts]] coming out.                               |
+| 01:05:03   | midst of a revolution in notes with tools like [[Obsidian]] and [[Drafts]] coming out.                               |
 | 01:05:08   | And the idea of these backlinks and the idea that everything kind of connects to everything                  |
 | 01:05:13   | else.                                                                                                        |
 | 01:05:15   | And I am sold.                                                                                               |
@@ -1170,7 +1170,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:05:32   | You don't really think about where it belongs, but you can find it when you need it.                         |
 | 01:05:36   | And, and I'm not sure where this is all going to end up.                                                     |
 | 01:05:39   | I mean, Roam just took a bunch of money.                                                                     |
-| 01:05:41   | So hopefully they'll get the security in order Obsidian seems to come out with a new update                  |
+| 01:05:41   | So hopefully they'll get the security in order [[Obsidian]] seems to come out with a new update                  |
 | 01:05:46   | every week [[Drafts]] is getting some amazing features.                                                          |
 | 01:05:49   | So I honestly don't know where it all ends, but for now I'm doing this in a place I trust,                   |
 | 01:05:55   | which is Drafts, and, and I'm pretty happy with the backlinks I've been doing there.                         |

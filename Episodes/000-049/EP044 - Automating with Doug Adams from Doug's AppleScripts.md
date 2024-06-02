@@ -97,7 +97,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:40      | or something.                                                                                        |
 | 01:41      | I loved them so much, but I also love Doug's Scripts.                                                |
 | 01:46      | And for listeners who haven't heard of it, Doug's Scripts is this amazing website that               |
-| 01:51      | is a collection of [[AppleScript]]s, largely media focused, but I know you cover some other             |
+| 01:51      | is a collection of [[AppleScript\|AppleScripts]], largely media focused, but I know you cover some other             |
 | 01:56      | things too.                                                                                          |
 | 01:57      | But I was looking at the website this morning, it said 575 Scripts for managing Your Media           |
 | 02:04      | as of today.                                                                                         |

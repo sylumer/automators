@@ -402,7 +402,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 32:35      | such a way that it'll do, it'll work the way you want on each platform. And I tried to minimise              |
 | 32:40      | that as much as possible works exactly the same out of the box on both platforms. But there are              |
 | 32:45      | certainly exceptions to that rule where they actually try to integrate with work differently.                |
-| 32:51      | So you have to plan for that or whatnot. A common case is mismatching [[URL Schemes\|URL scheme]]s,                           |
+| 32:51      | So you have to plan for that or whatnot. A common case is mismatching [[URL Schemes]],                           |
 | 32:56      | where a [[URL Schemes\|URL scheme]] does one thing on one platform, but then it's formed differently                          |
 | 33:00      | on another. Though I know quite a few app developers have been in the process of tweaking                    |
 | 33:04      | those over the years so that they can have the same thing on every platform. The mail-in version             |

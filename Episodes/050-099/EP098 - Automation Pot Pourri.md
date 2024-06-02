@@ -84,7 +84,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 00:48      | because there's a whole bunch of new stuff                            |
 | 00:50      | and obsidian, which isn't really enough for a whole show,             |
 | 00:54      | but I do have a bunch of stuff to share                               |
-| 00:55      | with what I'm automating Obsidian.                                    |
+| 00:55      | with what I'm automating [[Obsidian]].                                    |
 | 00:57      | So we've got a bunch of cool topics today                             |
 | 00:59      | and we're really looking forward to sharing them with you.            |
 | 01:02      | Now that we have Automator's Macs,                                    |
@@ -1331,8 +1331,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:23      | whenever I go in Apple Mail so I can process mail                     |
 | 53:25      | without having to like navigate to it on the Stream Deck.             |
 | 53:30      | The other one I do that for,                                          |
-| 53:31      | which I may turn off as an Obsidian                                   |
-| 53:33      | because I've also programmed a lot of Obsidian                        |
+| 53:31      | which I may turn off as an [[Obsidian]]                                   |
+| 53:33      | because I've also programmed a lot of [[Obsidian]]                        |
 | 53:36      | into Stream Deck buttons.                                             |
 | 53:38      | So there's a couple where it makes sense for me,                      |
 | 53:40      | but generally I don't have those automatic triggers                   |
@@ -1642,18 +1642,18 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:05:47   | That URL one more time, NewRelic.com/Automators.                |
 | 01:05:50   | Our thanks to New Relic for their support of this show                |
 | 01:05:52   | and all of Relay FM.                                                 |
-| 01:05:53   | So Obsidian is a thing that comes up on our show once in a while.     |
+| 01:05:53   | So [[Obsidian]] is a thing that comes up on our show once in a while.     |
 | 01:05:59   | I think I'm really invested in it                                     |
 | 01:06:01   | as kind of my note storage reference system at this point.            |
-| 01:06:04   | I think you are still, are you still Obsidian?                        |
-| 01:06:07   | Yeah, I use Obsidian for a lot of things,                             |
+| 01:06:04   | I think you are still, are you still [[Obsidian]]?                        |
+| 01:06:07   | Yeah, I use [[Obsidian]] for a lot of things,                             |
 | 01:06:10   | but a lot of that is essentially markdown notes of stuff              |
 | 01:06:15   | that I just want to be able to keep going and add to                  |
 | 01:06:17   | and use as reference and things like that.                            |
 | 01:06:20   | So, if there's text that I keep to send to my parents                 |
 | 01:06:25   | every single time they ask,                                           |
 | 01:06:26   | wait, how do we do this particular thing?                             |
-| 01:06:28   | Then I've got a help the parents folder in Obsidian for it            |
+| 01:06:28   | Then I've got a help the parents folder in [[Obsidian]] for it            |
 | 01:06:33   | and things like that.                                                 |
 | 01:06:34   | And I've got other stuff in there too,                                |
 | 01:06:36   | project information, lots of project information.                     |
@@ -1683,16 +1683,16 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:07:52   | or each of the entries in my network diagram                          |
 | 01:07:55   | links to a page for that item,                                        |
 | 01:07:57   | which has like the MAC address and everything on it.                  |
-| 01:08:00   | And then I went kind of crazy with the Obsidian [[Dataview]] tables       |
+| 01:08:00   | And then I went kind of crazy with the [[Obsidian]] [[Dataview]] tables       |
 | 01:08:06   | and that prints out a table of all of the different devices           |
 | 01:08:09   | and their information as well,                                        |
 | 01:08:11   | which I'm just really impressed as a thing I can do to be honest.     |
 | 01:08:15   | Yeah, I had a listener ask me,                                        |
 | 01:08:17   | he said, I was listening to Automators                                |
-| 01:08:18   | and you guys started talking about Obsidian                           |
+| 01:08:18   | and you guys started talking about [[Obsidian]]                           |
 | 01:08:20   | and I didn't even know what you were talking about.                   |
 | 01:08:23   | We did a show on it on Mac Power Users.                                |
-| 01:08:25   | Obsidian is basically, it takes a folder full of markdown folders     |
+| 01:08:25   | [[Obsidian]] is basically, it takes a folder full of markdown folders     |
 | 01:08:30   | and it adds like power tools on top of them,                          |
 | 01:08:32   | adds a very easy way to link to them                                  |
 | 01:08:34   | with like wiki style double brackets.                                 |
@@ -1749,7 +1749,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:11:01   | that I've created and just a little bit of information                |
 | 01:11:04   | for people who are going,                                             |
 | 01:11:06   | oh wait, that sounds really interesting.                              |
-| 01:11:08   | Every note in Obsidian is a markdown file                             |
+| 01:11:08   | Every note in [[Obsidian]] is a markdown file                             |
 | 01:11:11   | or should be a markdown file ideally.                                 |
 | 01:11:13   | And you can have a [[YAML]] header at the top                             |
 | 01:11:15   | where you have three dashes and then you have like a name,            |
@@ -1783,7 +1783,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:12:23   | and I do use it actually in my Help the Parents folder.               |
 | 01:12:27   | I've got another plugin installed,                                    |
 | 01:12:30   | which is the folder notes,                                            |
-| 01:12:32   | where you can have notes on a folder in Obsidian.                     |
+| 01:12:32   | where you can have notes on a folder in [[Obsidian]].                     |
 | 01:12:36   | And so I'm using a [[Dataview]] in that                                   |
 | 01:12:37   | to just list all the files inside of it,                              |
 | 01:12:39   | which I know I could get to from the sidebar,                         |
@@ -1817,7 +1817,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:13:55   | is in the [[YAML]] data.                                                  |
 | 01:13:57   | And as an automator, you can create this super easy.                  |
 | 01:14:00   | So, like, let's say I want to standardise                             |
-| 01:14:04   | the blog note for Obsidian.                                           |
+| 01:14:04   | the blog note for [[Obsidian]].                                           |
 | 01:14:08   | So, one of the things I've done is I've created                       |
 | 01:14:11   | a [[Keyboard Maestro]] script that says new blog posts.                   |
 | 01:14:16   | And I trigger it in the MacSparky contextual menu.                   |
@@ -1843,15 +1843,15 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:15:09   | And then when I run that script, it just automatically                |
 | 01:15:11   | pastes it in.                                                         |
 | 01:15:12   | And all the script is doing is creating a markdown node               |
-| 01:15:16   | in the Obsidian folder on my drive.                                   |
+| 01:15:16   | in the [[Obsidian]] folder on my drive.                                   |
 | 01:15:20   | That's all it's doing.                                                |
 | 01:15:21   | I mean, it's not like this is not fancy scripting.                    |
 | 01:15:23   | It's like taking the text, turning it into a note,                    |
-| 01:15:26   | and needs to be saved as a markdown because Obsidian                  |
+| 01:15:26   | and needs to be saved as a markdown because [[Obsidian]]                  |
 | 01:15:28   | only sees markdown files.                                             |
 | 01:15:30   | And then it saves it.                                                 |
 | 01:15:31   | But because it filled in all that [[YAML]] data when it created it,       |
-| 01:15:35   | it immediately shows up in all my searches in Obsidian.               |
+| 01:15:35   | it immediately shows up in all my searches in [[Obsidian]].               |
 | 01:15:39   | It's such a beautiful, simple automation system.                      |
 | 01:15:43   | I just kind of wanted to put a bit of a spotlight on it.              |
 | 01:15:46   | Yes, it is really great.                                              |
@@ -1872,12 +1872,12 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:16:25   | because if you use three spaces instead of two or four,               |
 | 01:16:28   | it will just not work at all.                                         |
 | 01:16:31   | But that is the only potential negative.                              |
-| 01:16:34   | And if you're using Obsidian and you just do it in Obsidian,          |
+| 01:16:34   | And if you're using [[Obsidian]] and you just do it in [[Obsidian]],          |
 | 01:16:38   | it'll help you get it right every single time,                        |
 | 01:16:40   | making it much, much easier,                                          |
 | 01:16:42   | which is one of the things I like.                                    |
-| 01:16:44   | Obsidian makes some markdown things a lot easier, like tables.        |
-| 01:16:48   | I always have beautifully formatted markdown tables in Obsidian       |
+| 01:16:44   | [[Obsidian]] makes some markdown things a lot easier, like tables.        |
+| 01:16:48   | I always have beautifully formatted markdown tables in [[Obsidian]]       |
 | 01:16:51   | because I use the table plugin,                                       |
 | 01:16:53   | which just does all the work for me.                                  |
 | 01:16:55   | And the beauty of using automation to create these files              |
@@ -1887,9 +1887,9 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:17:07   | and it's an easy environment to work in                               |
 | 01:17:09   | because at the end of the day, it's just text files.                  |
 | 01:17:12   | Any automation you can write to change text,                          |
-| 01:17:15   | you can change the results in Obsidian with.                          |
+| 01:17:15   | you can change the results in [[Obsidian]] with.                          |
 | 01:17:19   | I am working on a little automation.                                  |
-| 01:17:22   | Here's a real simple one in Obsidian right now.                       |
+| 01:17:22   | Here's a real simple one in [[Obsidian]] right now.                       |
 | 01:17:24   | I just started working out this morning.                              |
 | 01:17:26   | I haven't got it working 100% of the time yet.                        |
 | 01:17:28   | So I have an active tag,                                              |
@@ -1900,7 +1900,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:17:42   | So I'm creating a simple little [[Keyboard Maestro]] script               |
 | 01:17:48   | that is just using UI scripting.                                      |
 | 01:17:51   | So it's hitting the keyboard shortcut for the find and replace        |
-| 01:17:55   | in Obsidian,                                                          |
+| 01:17:55   | in [[Obsidian]],                                                          |
 | 01:17:57   | and then it's typing the word active for active flag                  |
 | 01:18:01   | with that pound before, and then replacing it with shipped.           |
 | 01:18:04   | So once I finish something, I can just push a button,                 |
@@ -1909,7 +1909,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:18:14   | hitting the tab key, pausing, blah, blah, blah.                       |
 | 01:18:18   | I've almost got it working 100% of the time.                          |
 | 01:18:21   | For some reason, sometimes the trigger to hit the...                  |
-| 01:18:26   | in Obsidian, it is option command return                              |
+| 01:18:26   | in [[Obsidian]], it is option command return                              |
 | 01:18:30   | to fire off the actual thing.                                         |
 | 01:18:32   | It's not hitting 100% of the time,                                    |
 | 01:18:34   | and I literally just ran out of time this morning to debug it.        |
@@ -1970,7 +1970,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:21:10   | And that would give me the advantage                                  |
 | 01:21:13   | of taking the variables I add in                                      |
 | 01:21:16   | and then use those with other things.                                 |
-| 01:21:18   | For instance, a lot of people are looking at Obsidian                 |
+| 01:21:18   | For instance, a lot of people are looking at [[Obsidian]]                 |
 | 01:21:21   | as a task manager and I don't.                                        |
 | 01:21:23   | I'm running an experiment on that right now                           |
 | 01:21:25   | that I'm about to share in the labs.                                  |
@@ -1995,20 +1995,20 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:22:11   | and all of our listeners here                                         |
 | 01:22:12   | who are looking at doing something like that is                       |
 | 01:22:14   | I would still create the template file                                |
-| 01:22:16   | and put it in Obsidian                                                |
+| 01:22:16   | and put it in [[Obsidian]]                                                |
 | 01:22:18   | because that way you've got your template file                        |
 | 01:22:19   | and you've got it everywhere.                                         |
 | 01:22:20   | And what you can do is even if you...                                 |
-| 01:22:23   | So the template or plug-in in Obsidian                                |
+| 01:22:23   | So the template or plug-in in [[Obsidian]]                                |
 | 01:22:26   | will allow you to just run JavaScript.                                |
 | 01:22:28   | So you could write your own JavaScript automations                    |
 | 01:22:30   | that will ask you questions and pop up fields                         |
 | 01:22:33   | and prompts and let you input stuff.                                  |
 | 01:22:35   | But what you could also do is just input placeholders.                |
 | 01:22:39   | And my usual format for this is a single set of square brackets.      |
-| 01:22:44   | So with this being Obsidian and square brackets                       |
+| 01:22:44   | So with this being [[Obsidian]] and square brackets                       |
 | 01:22:47   | meaning things in markdown and double square brackets                 |
-| 01:22:49   | meaning more things in Obsidian,                                      |
+| 01:22:49   | meaning more things in [[Obsidian]],                                      |
 | 01:22:51   | I might use curly brackets for this.                                  |
 | 01:22:53   | And then you can do a find and replace.                               |
 | 01:22:55   | So you can grab that file and you can do this with [[Keyboard Maestro]].  |
@@ -2016,7 +2016,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:23:00   | And you can then grab the file                                        |
 | 01:23:02   | and you can just replace your placeholders                            |
 | 01:23:05   | and then you can send the entire file back                            |
-| 01:23:07   | and Obsidian does have [[URL Schemes\|URL scheme]] support                             |
+| 01:23:07   | and [[Obsidian]] does have [[URL Schemes\|URL scheme]] support                             |
 | 01:23:09   | to allow you to create files via the [[URL Schemes\|URL scheme]]                       |
 | 01:23:13   | which would allow you to just create everything                       |
 | 01:23:17   | and you could stick with [[Keyboard Maestro]] on the Mac                  |
@@ -2027,10 +2027,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:23:32   | and it can even prompt you for input                                  |
 | 01:23:34   | without scripting actions and everything                              |
 | 01:23:36   | and then you can take that data                                       |
-| 01:23:38   | and dump it into an Obsidian file                                     |
+| 01:23:38   | and dump it into an [[Obsidian]] file                                     |
 | 01:23:41   | and do some magic with it.                                            |
 | 01:23:44   | But I probably start with replace some placeholders                   |
-| 01:23:47   | in the Obsidian file                                                  |
+| 01:23:47   | in the [[Obsidian]] file                                                  |
 | 01:23:50   | because that's what templates are for.                                |
 | 01:23:53   | And then you've got a template                                        |
 | 01:23:54   | that you can very easily tweak at all times                           |
@@ -2042,22 +2042,22 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:24:09   | and forget about it.                                                  |
 | 01:24:11   | There's no needing to add an OmniFocus action                         |
 | 01:24:13   | for when you get home.                                                |
-| 01:24:14   | [[Drafts]] is totally another way to automate Obsidian.                   |
+| 01:24:14   | [[Drafts]] is totally another way to automate [[Obsidian]].                   |
 | 01:24:17   | I mean, somebody wrote me recently saying,                            |
 | 01:24:19   | well, is [[Drafts]] even a thing anymore                                  |
-| 01:24:21   | now that you've seen Obsidian?                                        |
+| 01:24:21   | now that you've seen [[Obsidian]]?                                        |
 | 01:24:22   | I'm like, oh, of course.                                              |
-| 01:24:23   | Obsidian is terrible for text capture                                 |
+| 01:24:23   | [[Obsidian]] is terrible for text capture                                 |
 | 01:24:26   | but it's really good at what you do with text                         |
 | 01:24:28   | after you've captured it                                              |
 | 01:24:29   | where [[Drafts]] is awesome for text capture                              |
 | 01:24:32   | and you can automate the [[Drafts]] process.                              |
 | 01:24:34   | Another one, which I use more on the Mac than iOS                     |
 | 01:24:38   | but is TextExpander.                                                 |
-| 01:24:40   | You can build Obsidian commands into TextExpander too.               |
+| 01:24:40   | You can build [[Obsidian]] commands into TextExpander too.               |
 | 01:24:44   | There's just so many ways to do it                                    |
 | 01:24:46   | because it's just text.                                               |
-| 01:24:48   | That's the thing that I just can't say enough with Obsidian.          |
+| 01:24:48   | That's the thing that I just can't say enough with [[Obsidian]].          |
 | 01:24:52   | It's a folder full of markdown files.                                 |
 | 01:24:54   | If the app stops development tomorrow,                                |
 | 01:24:57   | I still have my folder full of markdown files                         |
@@ -2097,21 +2097,21 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:26:26   | And you'll only find it by going and searching.                       |
 | 01:26:29   | And don't forget as well,                                             |
 | 01:26:31   | not everything is in the community plugin.                            |
-| 01:26:33   | Search inside of Obsidian, check the forums                           |
+| 01:26:33   | Search inside of [[Obsidian]], check the forums                           |
 | 01:26:35   | because sometimes people are still                                    |
 | 01:26:37   | in the early stages of creating it                                    |
 | 01:26:39   | but it's in a state where you can use it already                      |
 | 01:26:43   | and you can install it directly.                                      |
 | 01:26:46   | There are so many great plugins.                                      |
 | 01:26:48   | I mean, maybe that's a show someday,                                  |
-| 01:26:50   | our favourite Obsidian plugins.                                        |
+| 01:26:50   | our favourite [[Obsidian]] plugins.                                        |
 | 01:26:52   | Maybe what I'll try and do is I'll put together                       |
-| 01:26:54   | a list of the Obsidian plugins that I'm using                         |
+| 01:26:54   | a list of the [[Obsidian]] plugins that I'm using                         |
 | 01:26:57   | so we can link to that because things like the folder note            |
 | 01:27:00   | and so on are pretty handy                                            |
 | 01:27:02   | and I'm sure people would appreciate having that                      |
 | 01:27:05   | as well as the advanced URI,                                          |
-| 01:27:07   | which is advanced [[URL Schemes\|URL scheme]]s,                                        |
+| 01:27:07   | which is advanced [[URL Schemes]],                                        |
 | 01:27:09   | for things that's another great one.                                  |
 | 01:27:12   | Yeah, there are a lot.                                                |
 | 01:27:14   | I mean, [[Dataview]] to me brings this app to a whole new level.          |
@@ -2120,7 +2120,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:27:22   | Yes, yes.                                                             |
 | 01:27:23   | And at the end of the day, as you said,                               |
 | 01:27:25   | it's a pile of text files.                                            |
-| 01:27:27   | So if something were to go wrong and Obsidian disappears,             |
+| 01:27:27   | So if something were to go wrong and [[Obsidian]] disappears,             |
 | 01:27:30   | I don't think that's going to happen at all                           |
 | 01:27:32   | because it's installed on my computer,                                |
 | 01:27:34   | they can't take it away from me.                                      |
@@ -2131,22 +2131,22 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:27:50   | And that does really show on iOS, unfortunately,                      |
 | 01:27:53   | where it does feel like the Mac app.                                  |
 | 01:27:55   | It's not too bad on 12.9 inch iPad Pro,                               |
-| 01:27:57   | but you try using Obsidian on iPhone mini                             |
+| 01:27:57   | but you try using [[Obsidian]] on iPhone mini                             |
 | 01:27:59   | and it's like, whoa, okay,                                            |
 | 01:28:01   | somebody crammed a Mac app into my iPhone mini.                       |
 | 01:28:05   | But, you know, it still works.                                        |
 | 01:28:07   | And most of the time,                                                 |
 | 01:28:09   | I would be editing things like this on my phone.                      |
 | 01:28:13   | It'll be a case of I'll check something in [[Drafts]]                    |
-| 01:28:15   | and, you know, use the Obsidian advanced URI                          |
+| 01:28:15   | and, you know, use the [[Obsidian]] advanced URI                          |
 | 01:28:17   | to stick it onto an existing note or similar.                         |
 | 01:28:22   | Yeah, I've kind of got to the point where I use it on iOS             |
-| 01:28:25   | as a window into my Obsidian data,                                    |
+| 01:28:25   | as a window into my [[Obsidian]] data,                                    |
 | 01:28:27   | not necessarily something I work on.                                  |
 | 01:28:30   | But, you know, that's it.                                             |
 | 01:28:32   | Like, I had a Mac mini and a little Bluetooth keyboard                |
 | 01:28:35   | and I can sit down and write a ton of blog posts                      |
-| 01:28:38   | straight into Obsidian once I get there.                              |
+| 01:28:38   | straight into [[Obsidian]] once I get there.                              |
 | 01:28:41   | You know, it takes a little kind of doing                             |
 | 01:28:43   | to get to the text file on an iPad mini.                              |
 | 01:28:47   | But once you're in there, you can type on it, it works fine.          |
@@ -2155,7 +2155,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:28:55   | which kind of gets back to the earlier discussion                     |
 | 01:28:57   | of why I would like to have maybe                                     |
 | 01:28:59   | a little MacBook Air I could carry around.                            |
-| 01:29:01   | It's almost like an Obsidian machine, you know.                       |
+| 01:29:01   | It's almost like an [[Obsidian]] machine, you know.                       |
 | 01:29:04   | Yeah, though I have to say,                                           |
 | 01:29:06   | I think if you want something                                         |
 | 01:29:08   | where you've got a small portable device with a keyboard,             |

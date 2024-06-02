@@ -336,7 +336,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 17:35      | on.                                                                                                   |
 | 17:36      | That is going to be an amazing productivity setup for people who just like to be able                 |
 | 17:40      | to like dive in and be like, okay, I, you know, channeling your inner CGP gray, you                   |
-| 17:45      | know, I want to be on a plane, you know, and I want, you know, this obsidian open and that's          |
+| 17:45      | know, I want to be on a plane, you know, and I want, you know, this [[Obsidian]] open and that's          |
 | 17:51      | and I won't play noise and just being able to create an environment like that, which                  |
 | 17:55      | is an environment that you enjoy working in is, you know, pretty awesome.                             |
 | 17:59      | Yeah, I did a blog post on my, my writing cabin, you know, that I've been talking about               |

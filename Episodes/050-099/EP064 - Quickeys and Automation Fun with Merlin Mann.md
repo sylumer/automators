@@ -1488,7 +1488,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:14:48   | to me, all lives in those little text files that could fit on a thumb drive with room                         |
 | 01:14:52   | for apocalypse now, leftover.                                                                                 |
 | 01:14:54   | I have the same experience because I've been writing in Markdown for like 10 years and                        |
-| 01:14:59   | I did the same thing and Obsidian is basically a structure you can put on top of your Markdown                |
+| 01:14:59   | I did the same thing and [[Obsidian]] is basically a structure you can put on top of your Markdown                |
 | 01:15:04   | files, but there's still just your Markdown files.                                                            |
 | 01:15:08   | But I also know that you use [[Drafts]] a lot, don't you?                                                         |
 | 01:15:10   | I mean, I've seen you write and make reference to it.                                                         |
@@ -1596,7 +1596,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:20:50   | is it allows you to create a URL link to a file that's not like DEVONthink will do                           |
 | 01:20:55   | it, but I mean, like generally just on your file system, you can create a link to a file.                     |
 | 01:21:00   | So you can have a link to the audio file or the outline for the podcast or like in my                         |
-| 01:21:05   | case, I use Hook in conjunction with Obsidian and Markdown files when I have a client matter                  |
+| 01:21:05   | case, I use Hook in conjunction with [[Obsidian]] and Markdown files when I have a client matter                  |
 | 01:21:12   | so I can get to the OmniFocus project, to the client folder, like everything is just                          |
 | 01:21:17   | connected.                                                                                                    |
 | 01:21:18   | So you're really, wow, that's amazing, you're doing that for your work you work.                              |

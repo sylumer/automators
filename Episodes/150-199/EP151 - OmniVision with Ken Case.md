@@ -186,7 +186,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 07:30      | Yeah.                                                                                                               |
 | 07:31      | And I mean, after, you know, after we had [[AppleScript]] for a very long time, we got workflow                     |
 | 07:37      | and that actually already had integration with all the Omni apps because you were supporting                        |
-| 07:41      | [[URL Schemes\|URL scheme]]s at the time for all of these things, which correct me if I'm wrong, but I believe      |
+| 07:41      | [[URL Schemes]] at the time for all of these things, which correct me if I'm wrong, but I believe      |
 | 07:49      | URL screen schemes are actually still pretty important because they are part of how the                             |
 | 07:53      | Omni apps communicate with each other via scripts, at least on iOS to, to pass information                          |
 | 07:59      | around.                                                                                                             |

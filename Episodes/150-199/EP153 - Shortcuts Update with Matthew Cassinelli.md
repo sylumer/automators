@@ -577,7 +577,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 48:24      | in [[Keyboard Maestro]] that takes the selected file and sticks it in a [[Dropbox]] folder that              |
 | 48:29      | I share with him.                                                                                    |
 | 48:30      | And so I just push his face if I've got something and it sends it to him and I don't have to         |
-| 48:35      | think about it. So yeah, I, and those are two of the [[Stream Deck]]s. In addition, when                 |
+| 48:35      | think about it. So yeah, I, and those are two of the [[Stream Deck\|Stream Decks]]. In addition, when                 |
 | 48:41      | they came out with the, was it the plus one with the dials?                                          |
 | 48:44      | I'm getting that one now because I felt like, ah, I just have to try it. And I run media             |
 | 48:49      | controls and my key lights and all the video stuff I do is run off that one. And I just              |

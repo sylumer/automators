@@ -770,12 +770,12 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 43:15      | Not really.                                                                                             |
 | 43:16      | Most of the time, honestly, if an app is not willing to support shortcuts, then I am                    |
 | 43:23      | now at the point where I'm seriously considering dropping the application rather than continuing        |
-| 43:29      | to use [[URL Schemes\|URL scheme]]s.                                                                                     |
+| 43:29      | to use [[URL Schemes]].                                                                                     |
 | 43:31      | Because with the new parameterised shortcuts, also Apple, in their WWDC, they were very                 |
-| 43:39      | clear that shortcuts is the future and [[URL Schemes\|URL scheme]]s are insecure, which means that at                    |
+| 43:39      | clear that shortcuts is the future and [[URL Schemes]] are insecure, which means that at                    |
 | 43:45      | some point, at least from my perspective, they're going to be either dropping them or                   |
 | 43:50      | blocking them or something.                                                                             |
-| 43:53      | So I would very much avoid creating [[URL Schemes\|URL scheme]]s where possible.                                         |
+| 43:53      | So I would very much avoid creating [[URL Schemes]] where possible.                                         |
 | 43:58      | So when I do need to use them, I tend to use Launch Center Pro to generate them, to get                 |
 | 44:05      | me started on that.                                                                                     |
 | 44:06      | Yeah, it's interesting because with Workflow, everything was [[URL Schemes\|URL scheme]], anything that was              |
@@ -787,7 +787,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 44:28      | those features now.                                                                                     |
 | 44:31      | And the applications are providing a direct conduit to shortcuts now, which is safer and                |
 | 44:36      | more secure.                                                                                            |
-| 44:38      | And like Rose, I don't really want to use [[URL Schemes\|URL scheme]]s.                                                  |
+| 44:38      | And like Rose, I don't really want to use [[URL Schemes]].                                                  |
 | 44:41      | I feel like they're more trouble than they're worth because they break and they aren't as               |
 | 44:46      | stable as the new system.                                                                               |
 | 44:48      | I should add a note, of course, that of course, parameterised shortcuts are only available              |
@@ -798,9 +798,9 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 45:04      | to do this summer, thanks to Apple's annual announcement, or they may have not had so                   |
 | 45:09      | much work, but they had other priorities that they needed to get fixed.                                 |
 | 45:13      | But if they're not planning on supporting parameterised shortcuts and they're just sticking             |
-| 45:17      | with [[URL Schemes\|URL scheme]]s, then, well, I would at the very least caution any developer in that case              |
+| 45:17      | with [[URL Schemes]], then, well, I would at the very least caution any developer in that case              |
 | 45:21      | to be considering and why they're doing that, is there something that they can only offer               |
-| 45:27      | through [[URL Schemes\|URL scheme]]s that they can't offer through a parameterised shortcuts and maybe                   |
+| 45:27      | through [[URL Schemes]] that they can't offer through a parameterised shortcuts and maybe                   |
 | 45:32      | add a little documentation to the [[URL Schemes\|URL scheme]] page there as to why you're not doing parameterised        |
 | 45:37      | shortcuts instead.                                                                                      |
 | 45:38      | But with parameterised shortcuts, you actually get the app appearing in shortcuts and everything        |

@@ -687,7 +687,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 55:47      | again later, which really makes sense. It's sort of a interactive dashboard of your day from,           |
 | 55:56      | you know, I've played with this a few times and I really like it. And I'm customising it a bit to       |
 | 56:01      | try and do some different things. But, you know, this looks to me like a lot of what people do          |
-| 56:06      | with Obsidian and similar as well. So you have, you know, just your overview of this is today,          |
+| 56:06      | with [[Obsidian]] and similar as well. So you have, you know, just your overview of this is today,          |
 | 56:11      | you know, you have all the systems which give you all that data and then this just pulls it in so       |
 | 56:16      | that you can focus and going back to the focus as we talked about at the beginning on what is it        |
 | 56:21      | that is actually important for today, not next week, next year or next century.                         |
@@ -750,7 +750,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:01:43   | on that link, you may or may not want. But instead of running an agenda URL,                            |
 | 01:01:49   | run a shortcut to URL, which looks for a note with those parameters and opens it if it exists.          |
 | 01:01:55   | And if it doesn't, then it does the create with the [[URL Schemes\|URL scheme]]. Because I think                         |
-| 01:02:00   | agendas [[URL Schemes\|URL scheme]]s can, like, find a note, if I remember correctly.                                    |
+| 01:02:00   | agendas [[URL Schemes]] can, like, find a note, if I remember correctly.                                    |
 | 01:02:05   | Not yet. They've started down this path. They've got a [[URL Schemes\|URL scheme]] that uses,                            |
 | 01:02:11   | that will fetch, like, a project ID or a category ID based on where you are in the app, I think.        |
 | 01:02:22   | But not a full blown, you know, can I read and find and if yes and if no. But I know that they're       |
@@ -758,10 +758,10 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:02:34   | pretty cool to have the ability to sniff into a database and then do different things based             |
 | 01:02:40   | on what you find out of that. But just not quite yet.                                                   |
 | 01:02:46   | That's fair enough. And what I really like about this shortcut as well as some people,                  |
-| 01:02:50   | you know, we've got a lot of Obsidian users in the audience. And I'm sure we've got some                |
+| 01:02:50   | you know, we've got a lot of [[Obsidian]] users in the audience. And I'm sure we've got some                |
 | 01:02:54   | Roam users and, you know, we've got DEVONthink users. You can actually take exactly what you've         |
 | 01:02:58   | done here and repurpose it for any of those applications. DEVONthink has really well                    |
-| 01:03:04   | documented [[URL Schemes\|URL scheme]] support. Obsidian has [[URL Schemes\|URL scheme]] support, though you might want one of the        |
+| 01:03:04   | documented [[URL Schemes\|URL scheme]] support. [[Obsidian]] has [[URL Schemes\|URL scheme]] support, though you might want one of the        |
 | 01:03:10   | extra plugins for that to improve it. And, you know, I'm sure for a lot of applications that            |
 | 01:03:17   | people are using, it'll either have [[URL Schemes\|URL scheme]] support or shortcut support or AppleScript              |
 | 01:03:22   | support or something. And yeah, you can run an AppleScript, you know, quite easily through a           |
@@ -831,7 +831,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:09:48   | through or a little red icon on it that says, you know, download the app to get this action             |
 | 01:09:54   | or something. Could be nice.                                                                            |
 | 01:09:56   | Agenda is a really powerful application. And we just have this abundance of riches now.                 |
-| 01:10:01   | There's so many great apps out there. I mean, we talked too much probably about Obsidian,               |
+| 01:10:01   | There's so many great apps out there. I mean, we talked too much probably about [[Obsidian]],               |
 | 01:10:05   | but there's a whole world of like linked note apps showing up with various levels of, you know,         |
 | 01:10:12   | user interface and automation tools. I'm glad you were able to share that with us today,                |
 | 01:10:17   | because we haven't had anybody on to talk about Agenda. And I think that is an app that is              |

@@ -943,7 +943,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 54:03      | You know, there are some exceptions.                                                                   |
 | 54:04      | I've got some stream type buttons, which will allow me to select certain focus modes                   |
 | 54:08      | or various other things which are running shortcuts to do this.                                        |
-| 54:13      | But it is predominantly still [[Keyboard Maestro]], [[Bunch]], you know, [[AppleScript]]s still in there.         |
+| 54:13      | But it is predominantly still [[Keyboard Maestro]], [[Bunch]], you know, [[AppleScript\|AppleScripts]] still in there.         |
 | 54:21      | You know, all of the automation tools are there.                                                       |
 | 54:24      | And you know, shortcuts isn't bad or wrong.                                                            |
 | 54:27      | It's just not quite there yet.                                                                         |

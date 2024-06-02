@@ -938,9 +938,9 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 59:21      | So there's plenty of those types of commands mixed in with the other ones that are very              |
 | 59:25      | specific about a certain type of procedure that you want to do as well.                              |
 | 59:31      | Okay.                                                                                                |
-| 59:32      | So one that I have been really engaged with is called copy as markdown link because anybody          |
-| 59:38      | who listens to me knows I'm a super fan of linking my OmniFocus projects in other places             |
-| 59:45      | like Kraft, Obsidian, whatever.                                                                      |
+| 59:32      | So one that I have been really engaged with is called copy as [[Markdown]] link because anybody          |
+| 59:38      | who listens to me knows I'm a super fan of linking my [[OmniFocus]] projects in other places             |
+| 59:45      | like [[Craft]], [[Obsidian]], whatever.                                                                      |
 | 59:48      | And I used to go through this process, you got to select it, you got to right click it,              |
 | 59:52      | you got to go down to copy as link.                                                                  |
 | 59:54      | Now I just say copy as markdown link and it's done.                                                  |
