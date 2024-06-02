@@ -23,7 +23,7 @@ flowchart LR
 # Download and Transcribe Episode
 
 ## Scheduled Check and Download/Transcription Trigger
-**Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]], [[Data Jar]], [[Shell Scripting\Shell Script]].
+**Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]], [[Data Jar]], [[Shell Scripting|Shell Script]].
 
 ### Schedule
 Keyboard Maestro is running on a headless Mac mini. It is scheduled to run a macro every 30 minutes between 17:00 GMT on Friday to 12:00 GMT on Saturday. The macro confirms that it is running on the Mac mini (because the macros are synced across multiple devices). Once  confirmed, it then runs the shortcut "Process Outstanding Automators Episodes"
