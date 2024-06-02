@@ -437,7 +437,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 33:16      | I want it to be, you know, saved in a file that I can then open and [[BBEdit]] or text edit or       |
 | 33:22      | Textastic or whatever. I tend to use Textastic on iOS and a [[BBEdit]] on my Mac to edit my Omni group     |
 | 33:31      | or OmniFocus scripts. Yeah. Another way you could do that, at least on the Mac is you could run it     |
-| 33:36      | through a palette in Keyboard Maestro because you could trigger URLs the same way. In fact,            |
+| 33:36      | through a palette in [[Keyboard Maestro]] because you could trigger URLs the same way. In fact,            |
 | 33:43      | that may be the way you're using it with your Stream Deck. I don't know. But I can think of a          |
 | 33:48      | couple ways to do that. I think it'd be more complicated to pull that off on iPhone and iPad.          |
 | 33:53      | I'd have to stop and think about it. And now you have me worried because I'm just early in my          |
@@ -542,7 +542,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 43:26      | on my iPhone and my iPad as well as my Mac, because previously I was running all sorts of              |
 | 43:32      | hacks and tricks to try and get stuff to run automatically on my Mac when things happen.               |
 | 43:36      | So Zapier would send something off to OmniFocus usually via email. And then I had it run a             |
-| 43:44      | Keyboard Maestro macro to sync OmniFocus on my Mac. So it would ping the Keyboard Maestro URL,         |
+| 43:44      | [[Keyboard Maestro]] macro to sync OmniFocus on my Mac. So it would ping the [[Keyboard Maestro]] URL,         |
 | 43:52      | which would then run the AppleScript in OmniFocus to tell OmniFocus to sync.                          |
 | 43:57      | And then it would sleep for five minutes. And then it would ping another keyboard                      |
 | 44:00      | maestro macro URL that would say, hey, the sync's finished. Now run the past the inbox task script,    |
@@ -767,9 +767,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:05:06   | with JIRA tasks and such, like they'll use it in that form to automatically get things into            |
 | 01:05:12   | their OmniFocus database and put where they belong. So I mean, sky's limit, right? There's tons of     |
 | 01:05:17   | ways that you can use that thing. Yeah, I don't use this script, but I was just thinking if you        |
-| 01:05:22   | wanted to automatically trigger it, and you had Keyboard Maestro, I don't see why you couldn't         |
-| 01:05:26   | set a time trigger and Keyboard Maestro to run the menu command. Yeah, that's actually what I          |
-| 01:05:31   | have running now. I just have a time trigger in Keyboard Maestro, and I think it's running just        |
+| 01:05:22   | wanted to automatically trigger it, and you had [[Keyboard Maestro]], I don't see why you couldn't         |
+| 01:05:26   | set a time trigger and [[Keyboard Maestro]] to run the menu command. Yeah, that's actually what I          |
+| 01:05:31   | have running now. I just have a time trigger in [[Keyboard Maestro]], and I think it's running just        |
 | 01:05:36   | every hour or so. And then if I go through and I'm planning another shopping spree in IKEA,            |
 | 01:05:43   | I moved in about six months ago, so it's about time to start figuring out what things aren't           |
 | 01:05:48   | working and go shopping again, at least doing a cook and collect. So I've been adding a lot of         |

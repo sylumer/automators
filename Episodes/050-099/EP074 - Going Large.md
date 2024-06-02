@@ -93,7 +93,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:37      | month and that's $1.99 after that. And so that's a great way of trying the Stream Deck                    |
 | 01:43      | without buying the hardware up front, just to see whether or not the actual application                   |
 | 01:47      | of this is worth it for you because you may find that you can solve the same problems with                |
-| 01:51      | Keyboard Maestro pallets or things like that. But I found for me that the Stream Deck is                  |
+| 01:51      | [[Keyboard Maestro]] pallets or things like that. But I found for me that the Stream Deck is                  |
 | 01:57      | much better than having this little icon floating on my actual computer screen because it's               |
 | 02:02      | out of the way, but it's still visible. But you have to figure out the solution that works                |
 | 02:06      | for you. So the mobile application is definitely worth a try if you haven't already.                      |
@@ -144,12 +144,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 05:53      | Yeah. So I bought mine about a year and a half ago, and I probably paid full price for                    |
 | 05:58      | it. And I just bought the big one. It was in relation to the keyboard and menstrual                       |
 | 06:03      | field guide release. I wanted to include content in the keyboard and menstrual field guide                |
-| 06:09      | because as we'll talk about the show, this is a great tool to trigger Keyboard Maestro                    |
+| 06:09      | because as we'll talk about the show, this is a great tool to trigger [[Keyboard Maestro]]                    |
 | 06:13      | scripts. And I bought it thinking, well, I'm going to try this. And if I like it, I'll                    |
 | 06:18      | keep it. But unless it's really useful to me, I'll end up just returning it to Amazon.                    |
-| 06:26      | As Ro said at the top of the show, for the Keyboard Maestro element of this, it's just                    |
+| 06:26      | As Ro said at the top of the show, for the [[Keyboard Maestro]] element of this, it's just                    |
 | 06:31      | a substitute for a keyboard shortcut or any of the other many triggers you can use with                   |
-| 06:34      | a Keyboard Maestro. So I got thinking, why would I want that? My hands are already on                     |
+| 06:34      | a [[Keyboard Maestro]]. So I got thinking, why would I want that? My hands are already on                     |
 | 06:39      | the keyboard. To push a button, I've got to take my hands off the keyboard, even if it                    |
 | 06:42      | is got a clever screen behind it. But there's something about the Stream Deck that is just,               |
 | 06:49      | it just finds a way to be useful. I don't know how else to put it. We're going to go                      |
@@ -418,10 +418,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 29:24      | you could use this to trigger a TextExpander snippet. But it means that I don't need to                  |
 | 29:28      | think what's what's the shortcut for this or anything. I seem to have a bit of a mental                   |
 | 29:32      | block recently, David, with learning keyboard shortcuts, which we'll get to in a little                   |
-| 29:36      | while because that's one of the reasons why I have so many Keyboard Maestro macros. But                   |
+| 29:36      | while because that's one of the reasons why I have so many [[Keyboard Maestro]] macros. But                   |
 | 29:42      | it just inserts the text and then it can press enter and just send it. So I can just click                |
-| 29:46      | in the chat, read what they've said, press the Keyboard Maestro or press the stream                       |
-| 29:51      | deck button, sorry, not Keyboard Maestro button, Stream Deck button. And it's it sends back               |
+| 29:46      | in the chat, read what they've said, press the [[Keyboard Maestro]] or press the stream                       |
+| 29:51      | deck button, sorry, not [[Keyboard Maestro]] button, Stream Deck button. And it's it sends back               |
 | 29:55      | a message with, okay, thank you very much for letting me know about this. I'll take a                     |
 | 29:58      | look at it later. Or, hey, thanks for sending me a message, but please can you file a ticket              |
 | 30:02      | in the ticket system? Here's a link. And, you know, a couple of other sort of canned                      |
@@ -543,19 +543,19 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 39:30      | this. Both app-specific, some people have made little games, which I don't get that,                      |
 | 39:34      | but you know, go forward if that's your thing. But it is quite remarkable when you get this               |
 | 39:40      | thing out of the box, what you can do with a button. And the button, the most important                   |
-| 39:48      | button we haven't talked about yet and is the integration with Keyboard Maestro. Because                  |
+| 39:48      | button we haven't talked about yet and is the integration with [[Keyboard Maestro]]. Because                  |
 | 39:54      | yeah, just like Rose was talking about chaining together different actions on the Stream Deck,            |
-| 40:00      | you can, you know, Keyboard Maestro is the ultimate tool for chaining actions together                    |
+| 40:00      | you can, you know, [[Keyboard Maestro]] is the ultimate tool for chaining actions together                    |
 | 40:03      | because you can not only say open up this window, but open up this window and put it                      |
 | 40:08      | in the lower right corner. You know, it just, you know, the world is your oyster in terms                 |
-| 40:13      | of automation on the Mac with Keyboard Maestro. And you can take any of your Keyboard Maestro             |
+| 40:13      | of automation on the Mac with [[Keyboard Maestro]]. And you can take any of your [[Keyboard Maestro]]             |
 | 40:17      | scripts and attach them to a button. And there's two ways to do that. You want to talk                    |
 | 40:22      | through those?                                                                                            |
-| 40:23      | Yeah, well, I do because the native integration that comes with Keyboard Maestro is excellent.            |
+| 40:23      | Yeah, well, I do because the native integration that comes with [[Keyboard Maestro]] is excellent.            |
 | 40:29      | It really is. It's very solid. You can do an awful lot of things with it. But if you                      |
-| 40:33      | just want to get started and you're just thinking, I just want to run a Keyboard Maestro macro,           |
-| 40:37      | I don't want to do anything fancy with it. I just want to run a Keyboard Maestro macro.                   |
-| 40:41      | I would actually advise, don't use the native Keyboard Maestro integration. Use a great                   |
+| 40:33      | just want to get started and you're just thinking, I just want to run a [[Keyboard Maestro]] macro,           |
+| 40:37      | I don't want to do anything fancy with it. I just want to run a [[Keyboard Maestro]] macro.                   |
+| 40:41      | I would actually advise, don't use the native [[Keyboard Maestro]] integration. Use a great                   |
 | 40:46      | plug-in. It's under more actions. It's called KM link. And it's by a lovely person who goes               |
 | 40:51      | by the handle Corcules. That's with the C, C-O-R-C-U-L-E-S. And what we can put a link                  |
 | 40:57      | to the GitHub repo in the show notes as well so that you can get it from there or you can                 |
@@ -563,45 +563,45 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 41:07      | But the beauty of the KM link plug-in is when you drag one of those actions over, and I'm                 |
 | 41:16      | just going to do this right now live, so you search for KM and then you see KM link, and                  |
 | 41:21      | then you can see a title, and then you can select a macro. Now, depending on how many                     |
-| 41:26      | Keyboard Maestro macros you've got and how well or poorly in my case organised they                       |
+| 41:26      | [[Keyboard Maestro]] macros you've got and how well or poorly in my case organised they                       |
 | 41:34      | are, you may find that you end up using the last modified macro frequently, so I often                    |
-| 41:40      | go into my Keyboard Maestro macros and I add a comment, and then I go back to KM link                     |
+| 41:40      | go into my [[Keyboard Maestro]] macros and I add a comment, and then I go back to KM link                     |
 | 41:46      | in the Stream Deck app, select my macro, and then I can remove the comment in the Keyboard                |
 | 41:53      | Maestro app or leave it, it's a comment, it doesn't make a difference. And this is great,                 |
-| 41:58      | and it's even better if you want to send something to Keyboard Maestro with it as well. So,               |
+| 41:58      | and it's even better if you want to send something to [[Keyboard Maestro]] with it as well. So,               |
 | 42:03      | for example, if you want to send it the word calendar or the word zoom or something, you                  |
 | 42:08      | can do that. There's a parameter option there as well. I tend not to do that, you know,                   |
 | 42:14      | you can but you don't have to. But this means that you can literally just run a Keyboard                  |
-| 42:18      | Maestro macro and you don't need to set up a trigger in the Keyboard Maestro application.                 |
+| 42:18      | Maestro macro and you don't need to set up a trigger in the [[Keyboard Maestro]] application.                 |
 | 42:22      | You can just do it from the Stream Deck and that's it, and it works. And it's great, it's                 |
-| 42:26      | so easy to do. Yeah, I use KM link like 99% of the time to trigger Keyboard Maestro at                    |
+| 42:26      | so easy to do. Yeah, I use KM link like 99% of the time to trigger [[Keyboard Maestro]] at                    |
 | 42:32      | this point. And one of the additional features of it is that you can move the button, you                 |
-| 42:38      | know, with the built-in Keyboard Maestro support, you need to code it to a specific                       |
+| 42:38      | know, with the built-in [[Keyboard Maestro]] support, you need to code it to a specific                       |
 | 42:41      | button, which becomes a problem. And with a lot of profiles, you can take a Keyboard                      |
 | 42:47      | Maestro KM link script and just copy that and paste it to a different profile or move                     |
 | 42:53      | it wherever you want. Again, you can attach custom art to each button. And the way you                    |
-| 43:00      | select the Keyboard Maestro script is you just, it's just a scrolling list. And I actually                |
-| 43:04      | have pretty good organisation in Keyboard Maestro. I have folders and like, like I have                   |
+| 43:00      | select the [[Keyboard Maestro]] script is you just, it's just a scrolling list. And I actually                |
+| 43:04      | have pretty good organisation in [[Keyboard Maestro]]. I have folders and like, like I have                   |
 | 43:09      | folders by context and I have folders by apps. So, and the app and the KM link doesn't just               |
 | 43:15      | give you a flat list, it gives it to group by folder. So, I can find pretty much what                     |
 | 43:21      | I need. One of the ways I use this, and we'll get into this later, is in a specific app,                  |
-| 43:27      | I may have a group of Keyboard Maestro scripts related to it. And if you find a Keyboard                  |
+| 43:27      | I may have a group of [[Keyboard Maestro]] scripts related to it. And if you find a Keyboard                  |
 | 43:33      | Maestro script in that app grouping, and then you copy and paste that, then it reopens                    |
-| 43:38      | in the exact same section of your Keyboard Maestro list. So, you don't have to start                      |
+| 43:38      | in the exact same section of your [[Keyboard Maestro]] list. So, you don't have to start                      |
 | 43:41      | from the top every time. So, that's a little insider hack. But yeah, the ultimate action,                 |
 | 43:49      | if you're an automator driving a Mac, is the KM link script, which is pretty remarkable.                  |
-| 43:56      | So back to the native Keyboard Maestro integration with the Stream Deck. So for this, you have            |
-| 44:01      | to set a button ID, and then that button ID is what triggers it in Keyboard Maestro.                      |
+| 43:56      | So back to the native [[Keyboard Maestro]] integration with the Stream Deck. So for this, you have            |
+| 44:01      | to set a button ID, and then that button ID is what triggers it in [[Keyboard Maestro]].                      |
 | 44:06      | Now, they usually suggest R followed by number, and C followed by number, which is row, whatever,         |
 | 44:12      | column, whatever. But the problem with this is if you use row one, column one, on profile                 |
 | 44:18      | one, say your default profile, and then you create another profile for writing, and you                   |
-| 44:22      | have row one, column one, then both of those do exactly the same thing in Keyboard Maestro.               |
-| 44:28      | Now, if that's what you want, that's perfect. But if you're using the Keyboard Maestro                    |
-| 44:32      | integration from Keyboard Maestro back to Stream Deck to, say, do things like update                      |
+| 44:22      | have row one, column one, then both of those do exactly the same thing in [[Keyboard Maestro]].               |
+| 44:28      | Now, if that's what you want, that's perfect. But if you're using the [[Keyboard Maestro]]                    |
+| 44:32      | integration from [[Keyboard Maestro]] back to Stream Deck to, say, do things like update                      |
 | 44:39      | pictures, then you have to consider whether or not you want to do that for both. So I'm                   |
-| 44:44      | using the native Keyboard Maestro integration very sparingly, and mostly thanks to TJ Luoma,             |
+| 44:44      | using the native [[Keyboard Maestro]] integration very sparingly, and mostly thanks to TJ Luoma,             |
 | 44:51      | who we had on the show a while ago, and he talked about this when he was on the show.                     |
-| 44:54      | He's got a great little plug-in, or it's a series of macros, actually, for Keyboard Maestro,              |
+| 44:54      | He's got a great little plug-in, or it's a series of macros, actually, for [[Keyboard Maestro]],              |
 | 45:00      | which you can download and install. And you set it up, and you specify the number of the                  |
 | 45:06      | button or the button ID, whatever it is. So in my case, that's R3C4, because that's where                 |
 | 45:11      | it used to be on my old Stream Deck, and I've just dragged it into a new place now because                |
@@ -610,10 +610,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 45:29      | I started this, I glanced at it, and it was red because I had something in two minutes.                   |
 | 45:33      | And when I tapped on it, it opened up Fantastical for me. And now, because I'm recording automators,      |
 | 45:39      | I have Fantastical smiling back at me. And so if you want to be able to change things                     |
-| 45:46      | in the Stream Deck from Keyboard Maestro, you want the native Keyboard Maestro integration.               |
+| 45:46      | in the Stream Deck from [[Keyboard Maestro]], you want the native [[Keyboard Maestro]] integration.               |
 | 45:51      | If you're just getting started or you just want to run a macro, use the KM link script.                   |
 | 45:55      | It's very, very easy, and I would highly recommend that. Both systems are fabulous. I'm not knocking      |
-| 46:02      | the Keyboard Maestro native integration here, but if you just want very simple, KM link                   |
+| 46:02      | the [[Keyboard Maestro]] native integration here, but if you just want very simple, KM link                   |
 | 46:06      | is your friend. This episode of Automators is brought to you by the Intrazone. I love                     |
 | 46:13      | finding a new podcast to listen to, and it's great when you learn something too. If you're                |
 | 46:17      | looking for a new show to listen to, the Intrazone is a bi-weekly podcast with conversations              |
@@ -669,12 +669,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 50:49      | for a client, I add a comment and it says in all caps, privileged. So everybody knows                     |
 | 50:55      | not to share it with the other side. And then it does a colon and then carriage return.                   |
 | 50:59      | And you know, that's something you could do, you know, 20 times every time you read a document            |
-| 51:04      | or you could just program a Keyboard Maestro script that does all of that and then put                    |
+| 51:04      | or you could just program a [[Keyboard Maestro]] script that does all of that and then put                    |
 | 51:08      | it on a button on your Stream Deck. And so on the editing legal documents page, that's                    |
 | 51:14      | there. But the other, another thing I often do when I'm editing legal documents is I check                |
 | 51:18      | the status of a company. Like if my client is going to make a contract with the ACME                      |
 | 51:23      | company, hey, I want to look them up on the website to make sure that they're still in                    |
-| 51:27      | business and not suspended or anything. And again, I have a Keyboard Maestro script to                    |
+| 51:27      | business and not suspended or anything. And again, I have a [[Keyboard Maestro]] script to                    |
 | 51:31      | do all that. And so why would I want to have a Microsoft Word panel only when I could have                |
 | 51:39      | it, you know, I can check the status of a company and add a privileged comment all without                |
 | 51:43      | switching decks or profiles.                                                                              |
@@ -780,7 +780,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:00:16   | like to just spend a couple of minutes on because I think this is one of the key uses                     |
 | 01:00:20   | for a Stream Deck is what I call setups. And that is you press one button and your computer               |
 | 01:00:27   | configures itself for some type of work.                                                                  |
-| 01:00:31   | This is something I used to do with a palette and and Keyboard Maestro. But this was one                  |
+| 01:00:31   | This is something I used to do with a palette and and [[Keyboard Maestro]]. But this was one                  |
 | 01:00:37   | of the quick things I put on the Stream Deck that makes total sense because as you're sitting             |
 | 01:00:43   | down to your computer, getting your fingers into a special keyboard shortcut inside, you                  |
 | 01:00:49   | know, a working computer takes time and effort. Whereas as you're sitting down, just pressing             |
@@ -812,15 +812,15 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:03:22   | a button and your computer would automatically configure itself to the ideal circumstance                 |
 | 01:03:28   | for doing that, you know, maybe in one of them, you know, you need keynote open and another               |
 | 01:03:35   | one you need Microsoft Word or, you know, I don't know, you tell me, but not only with                    |
-| 01:03:40   | Keyboard Maestro, can you do that, but you can open a keynote to a specific file or open                  |
+| 01:03:40   | [[Keyboard Maestro]], can you do that, but you can open a keynote to a specific file or open                  |
 | 01:03:47   | Safari to a specific website and just really configure it exactly the way you need it.                    |
 | 01:03:53   | And it takes a little while to do this, but I just cannot emphasise the payoff that you                   |
 | 01:03:59   | get if you do this.                                                                                       |
-| 01:04:00   | Yeah. And the reason for me why I'm specifically using Keyboard Maestro versus a multi-action             |
+| 01:04:00   | Yeah. And the reason for me why I'm specifically using [[Keyboard Maestro]] versus a multi-action             |
 | 01:04:06   | in Stream Deck to do this is there's a couple of things that I do which aren't, you know,                 |
 | 01:04:12   | directly available inside of Stream Deck. And I figured if I have this macro setup,                       |
 | 01:04:18   | then I can change this macro and I can use it on another machine if I need to, you know,                  |
-| 01:04:22   | then Keyboard Maestro macros are automatically synced anyway. So, you know, that's all good.              |
+| 01:04:22   | then [[Keyboard Maestro]] macros are automatically synced anyway. So, you know, that's all good.              |
 | 01:04:27   | But to start with, I hide all applications. So I hide everything. Now, I did start closing                |
 | 01:04:34   | all of my applications, but I found that was a bit of a problem because there are some                    |
 | 01:04:38   | applications that don't really like closing. And then you're reopening them again 30 seconds              |
@@ -990,21 +990,21 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:18:21   | we all do a lot of Zoom calls these days. And this is one where I actually do use the                     |
 | 01:18:25   | auto switching on because whenever I seem to go into Zoom, I want to turn the camera                      |
 | 01:18:31   | off or on. And the way I did it, because now there's a plug in for it, which I haven't                    |
-| 01:18:35   | used yet. But I just went in Keyboard Maestro and I wrote Keyboard Maestro scripts for                    |
+| 01:18:35   | used yet. But I just went in [[Keyboard Maestro]] and I wrote [[Keyboard Maestro]] scripts for                    |
 | 01:18:40   | all the keyboard shortcuts in Zoom.                                                                       |
 | 01:18:42   | Ah, you're using the keyboard shortcuts. So this is something I was doing with QuickTime.                 |
 | 01:18:48   | But I found keyboard shortcuts just weren't necessarily working super well. So instead                    |
 | 01:18:52   | of switch to using the menu approach, where you can click on a specific menu item with                    |
-| 01:18:58   | Keyboard Maestro, which works really well for me.                                                         |
+| 01:18:58   | [[Keyboard Maestro]], which works really well for me.                                                         |
 | 01:19:00   | Yeah. So I've done both with the Zoom. I mean, if there's a keyboard shortcut, I just use                 |
-| 01:19:03   | the keyboard shortcut. If there's not, there's usually a menu item. And in Keyboard Maestro,              |
+| 01:19:03   | the keyboard shortcut. If there's not, there's usually a menu item. And in [[Keyboard Maestro]],              |
 | 01:19:08   | you can set a one action script to select an item in the menu.                                            |
 | 01:19:14   | So I basically scripted all of the things you want to do, you know, turn the microphone                   |
 | 01:19:18   | off, mute the mic, turn the camera on, turn the camera off, admit all people and mute                     |
 | 01:19:23   | the channel. You know, the usual things you do when you're running or participating in                    |
 | 01:19:28   | a Zoom call. And because I've been experimenting lately with adding my fancy camera on a tripod           |
 | 01:19:36   | next to the, or on a pole next to the table. So I can use that. I can actually switch between             |
-| 01:19:41   | cameras too with those buttons. But I did it manually. I just wrote Keyboard Maestro                      |
+| 01:19:41   | cameras too with those buttons. But I did it manually. I just wrote [[Keyboard Maestro]]                      |
 | 01:19:46   | scripts and I use the KM link thing, like, you know, 10 times and programmed all those                    |
 | 01:19:51   | buttons in. But I'm starting to think, I don't know if I want that to be automatic or if                  |
 | 01:19:56   | I should just build that into some of my other profiles. How do you do Zoom automation?                   |
@@ -1092,7 +1092,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:26:45   | and so, you know, that's one of the things I've done. And similarly, for a quick time,                    |
 | 01:26:49   | to start new audio and video recordings, and this is mostly the new video, new movies.                    |
 | 01:26:55   | That's how I record my iPhone or my iPad, because you get much better resolution. I'm                     |
-| 01:27:00   | using the the menu action from Keyboard Maestro. But then I have another button below to start            |
+| 01:27:00   | using the the menu action from [[Keyboard Maestro]]. But then I have another button below to start            |
 | 01:27:06   | recording. And what this does is it clicks the recording button in quick time, as it                      |
 | 01:27:12   | knows what that looks like. So it looks for that. And then it activates audio hijack,                     |
 | 01:27:17   | and it clicks the recording button there. And this means that I get two recordings at                     |
@@ -1124,10 +1124,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:29:22   | turn the camera off and on, she would just laugh at you, you know, she's not going to                     |
 | 01:29:25   | do that. So I do feel like that's a whole category of use for Stream Deck is like app                     |
 | 01:29:31   | shortcuts. Although I would call it app shortcuts plus because you can only not just do the               |
-| 01:29:39   | keyboard shortcuts, but you could run it through a Keyboard Maestro script and do way more.               |
+| 01:29:39   | keyboard shortcuts, but you could run it through a [[Keyboard Maestro]] script and do way more.               |
 | 01:29:44   | Like you could say, open this specific window and put it right here. Like with the with                   |
 | 01:29:49   | OmniFocus, I often turn off the inspector window, but I can automate that through a                       |
-| 01:29:53   | Keyboard Maestro script. Or I can just put a short a Stream Deck button. And I have one                   |
+| 01:29:53   | [[Keyboard Maestro]] script. Or I can just put a short a Stream Deck button. And I have one                   |
 | 01:30:00   | with an arrow pointing right, which is where the inspector is. If I tap that, the inspector               |
 | 01:30:03   | disappears. And I know there's a shortcut for it, but I never can seem to remember it.                    |
 | 01:30:07   | So now I've just put a button on it.                                                                      |
@@ -1357,13 +1357,13 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:48:49   | I think it's public knowledge, the time where he guy is working on a Mac version and hopefully            |
 | 01:48:53   | he'll come up, he put it on Twitter. So we're not the only people that know about it. Good.               |
 | 01:48:57   | So in him, and I've been emailing him, I said, even just like a menu item where I could choose            |
-| 01:49:03   | between my save timers would be enough for me to do this with with a Keyboard Maestro                     |
+| 01:49:03   | between my save timers would be enough for me to do this with with a [[Keyboard Maestro]]                     |
 | 01:49:08   | script. And as it currently works, you can do up to 10 save timers that way. But I want                   |
 | 01:49:13   | I have more than 10, I just want a way to be able to automate triggering any toggle timer                 |
 | 01:49:19   | without having to do anything like I can on my iPhone, my iPad. And that's not there yet.                 |
 | 01:49:24   | But I feel like that would be perfect for a Stream Deck if it was possible.                               |
 | 01:49:27   | Yes. Yeah. So hopefully we'll get that. In the meantime, I have had some success through                  |
-| 01:49:34   | our Keyboard Maestro and running sort of shell scripts with curl to talk directly to the                  |
+| 01:49:34   | our [[Keyboard Maestro]] and running sort of shell scripts with curl to talk directly to the                  |
 | 01:49:39   | toggle API. If that sounds horribly complicated to you, then guess what my experience with                |
 | 01:49:44   | creating this was? Not fun. The other thing that I've done, which I'm not sure I can recommend            |
 | 01:49:51   | it necessarily is I have a little iPod touch here running the push cut automation server.                 |

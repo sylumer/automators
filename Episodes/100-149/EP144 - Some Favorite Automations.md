@@ -413,7 +413,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 21:40      | for the next day.                                                                                  |
 | 21:42      | But I push a button on my Stream Deck, and I could do this on the time trigger.                    |
 | 21:47      | Maybe there's better ways to do it, but I like the physicality of pushing the button.              |
-| 21:50      | But then it just runs a Keyboard Maestro script.                                                   |
+| 21:50      | But then it just runs a [[Keyboard Maestro]] script.                                                   |
 | 21:53      | Then it does clear out all my windows.                                                             |
 | 21:56      | It opens up the Fantastical on the left side and OmniFocus on the right side.                    |
 | 22:02      | And it sets me up to just finish the day and look at any unfinished tasks, any uncompleted         |

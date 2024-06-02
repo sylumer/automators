@@ -218,7 +218,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 12:10      | apps and not using the app switcher with command tab.                                                         |
 | 12:13      | Yeah. Well, that's like, now, where are you using that script, TJ? Is it just a simple                        |
 | 12:20      | move of the dock or is it part of something bigger?                                                           |
-| 12:23      | It is a Keyboard Maestro macro that I have connected to option D. Command option D, of                        |
+| 12:23      | It is a [[Keyboard Maestro]] macro that I have connected to option D. Command option D, of                        |
 | 12:32      | course, will hide or show the dock. And so the option D just seemed like another good                         |
 | 12:38      | keyboard shortcut.                                                                                            |
 | 12:41      | Yeah. Yeah, it makes sense. I feel like if there's ever something you want to do system                       |
@@ -314,7 +314,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 19:33      | the login screen using fast user switching. It's not shutting down, but I would have to                       |
 | 19:40      | log back into my computer to keep on working. And if nothing else, you know what? At least                    |
 | 19:46      | I stand up, walk around, refill my water bottle or whatever, and then I decide, can this wait                 |
-| 19:53      | till tomorrow? And then I've got a couple of macros and Keyboard Maestro that will not                        |
+| 19:53      | till tomorrow? And then I've got a couple of macros and [[Keyboard Maestro]] that will not                        |
 | 20:01      | let me launch my... I use different email applications for my work email. And one of                          |
 | 20:07      | the reasons for that is it won't let me launch it on the weekend. It will see it launch and                   |
 | 20:12      | it will say, nope, it'll put up a notification and it will put it back down. Now, obviously                   |
@@ -340,7 +340,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 21:33      | the hour and the day. And if the day is, well, my, because I work, you know, as a pastor,                     |
 | 21:41      | I do work on Sundays. But so mine checks to see if it's Friday or Saturday. And if it's                       |
 | 21:47      | Friday or Saturday, then it will just quit the app and pop up a notification that says                        |
-| 21:51      | you're not supposed to be working. And Keyboard Maestro has, you know, built in notification                  |
+| 21:51      | you're not supposed to be working. And [[Keyboard Maestro]] has, you know, built in notification                  |
 | 21:57      | tools and, you know, it can just do quit specific application.                                                |
 | 22:03      | And then it will, I think it also, if it passes that check, and it's not those days,                          |
 | 22:09      | then it will check to see if it's after, I think it's 6 30, just so I gave myself a little                    |
@@ -349,7 +349,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 22:25      | to see if it's, you know, before, what is it 18 30, because it's I'd use military time                        |
 | 22:29      | because it's easier to do comparisons. Yeah, of 24 hour time. And if it's after, if it's                      |
 | 22:37      | after that, and you can do, you know, a bunch of, you know, date calculations in Keyboard                     |
-| 22:43      | Maestro too, it's got all these things. And the Keyboard Maestro wiki, I think I used                         |
+| 22:43      | Maestro too, it's got all these things. And the [[Keyboard Maestro]] wiki, I think I used                         |
 | 22:48      | two wikis, one of them is Wikipedia, and the other one is Keyboard Maestro's documentation.                   |
 | 22:54      | And it just shows you how to do these things. And yeah, so, you know, a couple of nested                      |
 | 22:59      | if statements is all I need.                                                                                  |
@@ -405,7 +405,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 27:09      | the number changes. Oh my goodness. Yeah. It hurts. It hurts. So painful. Yeah. Yeah.                         |
 | 27:17      | What else you got for us, TJ? What else are you doing? What's the latest automation you've                    |
 | 27:21      | added that's just delights you? Well, again, I'll go back to the podcasting. So I came                        |
-| 27:31      | up with a series of Keyboard Maestro shortcuts that will do things, again, that are repetitive,               |
+| 27:31      | up with a series of [[Keyboard Maestro]] shortcuts that will do things, again, that are repetitive,               |
 | 27:39      | but need to be done in the right order. And I found myself again, you know, even though                       |
 | 27:43      | I've been doing this for a long time, every now and again, I still find myself doing something                |
 | 27:47      | over again. I'm like, wait a minute, I should be automating this. So the, what I ended up                     |
@@ -439,7 +439,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 30:08      | an app called displays. And it will show you like all the different resolutions that your                     |
 | 30:13      | monitor can do. Well, the one I'm using now has like 100 of these. Yeah. Well, you can                        |
 | 30:19      | turn them off. And what you had to do was down arrow spacebar, down arrow spacebar.                           |
-| 30:25      | So I wrote a Keyboard Maestro that did down arrow spacebar 10 times. And I did that and                       |
+| 30:25      | So I wrote a [[Keyboard Maestro]] that did down arrow spacebar 10 times. And I did that and                       |
 | 30:30      | I kept repeating it until I hit the rest of the list. So now it only shows me the resolutions                 |
 | 30:34      | that I really want. Simple thing. But you know what, I kept hitting down arrow twice                          |
 | 30:39      | and then spacebar. And then I had to go back up and hit one of them. It's like, no, I'm                       |
@@ -447,7 +447,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 30:44      | Yeah. And I call it, I guess user interface scripting or UI scripting where you're just                       |
 | 30:49      | literally using the existing interface, but using automation rather than your fingers to                      |
 | 30:55      | manipulate it. And it's just, that is some of the easiest scripting. Anybody can do it.                       |
-| 31:01      | So long as you've got a tool that supports it and Keyboard Maestro does. And you can                          |
+| 31:01      | So long as you've got a tool that supports it and [[Keyboard Maestro]] does. And you can                          |
 | 31:06      | find so many uses for that in the finder, in the menu bar, you know, anywhere in your                         |
 | 31:11      | computer. And, you know, I was just doing something recently, you know, we, Rose and                          |
 | 31:15      | I have been working on this idea of scripting toggle. And I just use the toggle application                   |
@@ -456,13 +456,13 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 31:35      | Yeah. Yeah, you can. And it's amazing what you can get away with by doing that. Now,                          |
 | 31:40      | of course, in the case of toggle, I wasn't happy with doing that. I don't really feel                         |
 | 31:43      | like I even need the toggle app on my Mac. So I've just gone ahead and use the API and                        |
-| 31:49      | I've got a Keyboard Maestro macro, which I'm working on sharing. I've had a little bit                        |
+| 31:49      | I've got a [[Keyboard Maestro]] macro, which I'm working on sharing. I've had a little bit                        |
 | 31:53      | of stuff going on, okay, moving house, which is kind of crazy and time consuming surprisingly.                |
 | 31:58      | But it's possible to do anything, you know, you can, you can cheat and do it the easy                         |
 | 32:03      | way. But if it achieves the result, who cares? I mean, you could even do this in automator                    |
 | 32:07      | with the record button, I think, because automator can record and watch you do something. And                 |
 | 32:12      | then, you know, you do it and then you just tell automator to do it 50 times. You're done.                    |
-| 32:17      | So Keyboard Maestro even has a method where you can create little temporary scripts to                        |
+| 32:17      | So [[Keyboard Maestro]] even has a method where you can create little temporary scripts to                        |
 | 32:22      | do that. Like I made one recently where I needed to hit two carriage returns and then                         |
 | 32:27      | a backspace to remove tabs and bullets and on a weird text thing I was working on. And                        |
 | 32:31      | I had to do that for like 100 lines. And I just made a quick little temporary script.                         |
@@ -470,7 +470,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 32:40      | a temp script? Or did you just make an actual script for it?                                                  |
 | 32:43      | I made a regular macro. But what I do when I'm doing these, again, is I'll name them,                         |
 | 32:49      | you know, T E M P and then describe what they do. I'll use them for what I need them to                       |
-| 32:54      | do. And then I'll just disable them in Keyboard Maestro so that if I find something later                     |
+| 32:54      | do. And then I'll just disable them in [[Keyboard Maestro]] so that if I find something later                     |
 | 32:59      | where I need to do this again, I've, you know, already got the macro there, I just need to                    |
 | 33:03      | re enable it.                                                                                                 |
 | 33:04      | Yeah, that makes a lot of sense. Also, disabling is great because it allows you to avoid shortcut             |
@@ -478,7 +478,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 33:14      | disabling them, inevitably you hit the shortcut again on something else you're making.                        |
 | 33:19      | Yeah, you do. And I have done that so many times. I actually now have a macro group which                     |
 | 33:24      | is disabled where I throw things in that were temporary things. And I can't, I'm kind of                      |
-| 33:29      | a packrat when it comes to these Keyboard Maestro macros and it feels kind of silly, but the                  |
+| 33:29      | a packrat when it comes to these [[Keyboard Maestro]] macros and it feels kind of silly, but the                  |
 | 33:32      | number of times I've gone, Oh, wait, but I actually had something very similar to this.                       |
 | 33:37      | So I can go in and duplicate this macro. I'd use that as my basis. It's great.                                |
 | 33:42      | So what are you doing these days? Let's take it a little step further. You are also writing                   |
@@ -603,9 +603,9 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 43:55      | and things like that. And not only is it hard to keep track of what day it is, it was sort                    |
 | 44:00      | of like, am I done? Am I done for the day was really the thing that I wanted to be                            |
 | 44:05      | able to see. And you know, I had no idea what a Stream Deck was until I saw in the release                    |
-| 44:11      | notes for Keyboard Maestro now support Stream Deck. And I'm like, oh, what's a Stream Deck?                   |
+| 44:11      | notes for [[Keyboard Maestro]] now support Stream Deck. And I'm like, oh, what's a Stream Deck?                   |
 | 44:16      | And I looked at it and I'm like, oh, okay, it's a thing for streamers. I don't need that.                     |
-| 44:21      | And then I looked like, oh, what can Keyboard Maestro do with it? Oh, it can output any                       |
+| 44:21      | And then I looked like, oh, what can [[Keyboard Maestro]] do with it? Oh, it can output any                       |
 | 44:25      | text from any macro into a button. And the next thing I knew I had ordered a 32 button                        |
 | 44:31      | or however many buttons this thing is. And one of the things I wanted to do was reminders                     |
 | 44:39      | are great and everything, but I just want to be able to glance down and see something.                        |
@@ -621,12 +621,12 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 45:29      | my, you know, how do you automate your calendar in this way? Well, there's this old, old,                     |
 | 45:35      | I mean, I think like 2006 was the original version of this command line tool called iCalBuddy.                |
 | 45:43      | And of course it's not even called iCal anymore, right? But it still works. And it wasn't working             |
-| 45:49      | with Keyboard Maestro, it wouldn't work with text bar, and it wouldn't work with launch                       |
+| 45:49      | with [[Keyboard Maestro]], it wouldn't work with text bar, and it wouldn't work with launch                       |
 | 45:55      | d, launch statements. And I just could not figure it out, could not figure it out. And                        |
 | 46:00      | I asked each of the developers and the developer from the developer who makes launch control,                 |
 | 46:07      | I think his name is Robbie. Oh gosh, he's such a great guy. He actually looked into                           |
 | 46:12      | the source code, found a bug, patched the bug and sent me an updated version of this                          |
-| 46:18      | command that I could use with launch. And then it would work with Keyboard Maestro as                         |
+| 46:18      | command that I could use with launch. And then it would work with [[Keyboard Maestro]] as                         |
 | 46:23      | well. And all it does is it outputs a list of your calendar items. And so a little bit                        |
 | 46:29      | of scripting later, I had it count, you know, it's just doing basic things like it's counting                 |
 | 46:33      | lines. And it's again, using military time 24 hour time to compare the current time to                        |
@@ -638,7 +638,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 47:07      | always going to see that. I don't know where you all keep your Stream Deck, but for me,                       |
 | 47:11      | it's right above my keyboard. Like it's an extra function row. So I'm always going to                         |
 | 47:17      | see something that's changing colour in that line of sight. And that was really the first                      |
-| 47:23      | time I had really totally geeked out on the Stream Deck and Keyboard Maestro. And it's                        |
+| 47:23      | time I had really totally geeked out on the Stream Deck and [[Keyboard Maestro]]. And it's                        |
 | 47:27      | probably still the most complicated thing I've done with it. But I use it every single                        |
 | 47:31      | day and absolutely love, you know, just having that there. And I just know that that's my                     |
 | 47:36      | meeting spot. So when I glance down, I can always know.                                                       |
@@ -648,13 +648,13 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 47:53      | and build this, and we've got links in the show notes, so you can download a bunch of                         |
 | 47:56      | these pieces, but kind of give us a little bit more nitty gritty here where the automators,                   |
 | 48:01      | we can go crazy.                                                                                              |
-| 48:02      | Sure. Sure. Well, I mean, again, Keyboard Maestro is just such a smart tool. So you                           |
-| 48:09      | can make a macro that can take input. So when you call a Keyboard Maestro macro from a script,                |
+| 48:02      | Sure. Sure. Well, I mean, again, [[Keyboard Maestro]] is just such a smart tool. So you                           |
+| 48:09      | can make a macro that can take input. So when you call a [[Keyboard Maestro]] macro from a script,                |
 | 48:21      | you can give it like an argument. So the argument could be blue, green, you know, red or whatever,            |
 | 48:27      | and then you can use those in the macro. And so what my script does is it just calls this                     |
 | 48:33      | macro and gives it a colour. And then the macro itself can set the background colour. So I                      |
 | 48:40      | didn't have to write like a bunch of different things. I wrote one thing with several different               |
-| 48:45      | if else statements. And then in Keyboard Maestro, it's very simple to go in and see what it                   |
+| 48:45      | if else statements. And then in [[Keyboard Maestro]], it's very simple to go in and see what it                   |
 | 48:53      | can do. I think they're like three or four actions. It can set the colour or it can add                        |
 | 49:00      | an image, basically a background image. And I've just got some solid colour images that                        |
 | 49:06      | I drag from Finder onto there. It can set the text of the button. And it can even flash                       |
@@ -663,7 +663,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 49:24      | pad and keyboard batteries, I've got battery levels on those. And when they hit a certain                     |
 | 49:30      | level, the script just calls a different macro. But if you wanted to do this, for example,                    |
 | 49:35      | you could use a statement that, for example, maybe you want to write one for like how much                    |
-| 49:42      | time is left in my workday. And so you have a Keyboard Maestro macro that runs every minute                   |
+| 49:42      | time is left in my workday. And so you have a [[Keyboard Maestro]] macro that runs every minute                   |
 | 49:48      | or so and checks the time versus the time that you're supposed to leave work or be done                       |
 | 49:55      | with work if you're working from home and have it set to, you know, have it set a button                      |
 | 50:01      | to a different colour and say, you know, one hour left, or 30 minutes left. It doesn't                         |
@@ -672,7 +672,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 50:13      | it was. Yeah. I think those kinds of hints, you know, can be just a nice little visual                        |
 | 50:19      | reminder of, hey, the time is passing, the day is passing, and things like that, where,                       |
 | 50:27      | you know, you can control these things. And it really is, I don't know how good of a job                      |
-| 50:33      | I've done at describing it, but with an if-else in Keyboard Maestro, which is just something                  |
+| 50:33      | I've done at describing it, but with an if-else in [[Keyboard Maestro]], which is just something                  |
 | 50:39      | you drag over, and then you just, you know, type in or click on the new action and just                       |
 | 50:44      | type in Stream Deck and just see what it does. You can't hurt anything. It's not going                        |
 | 50:48      | to break it. Yeah. Well, it's really impressive. And just it was very creative. I thought just                |
@@ -685,7 +685,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 51:22      | has benefited, you know, so many more people. Exactly. Yes. And it's one of these things.                     |
 | 51:27      | I saw it and I downloaded it and went, oh, and it immediately gave me ideas for other                         |
 | 51:32      | things that I could use. Somebody in the Mac Power Users for a while ago posted a macro for getting              |
-| 51:37      | your Zoom microphone status. I'm putting that in a Keyboard Maestro or in a Stream Deck                       |
+| 51:37      | your Zoom microphone status. I'm putting that in a [[Keyboard Maestro]] or in a Stream Deck                       |
 | 51:45      | button. And so I've done a little bit of modifications there and I've now got it. So if it's running,         |
 | 51:51      | then the macro runs every 30 seconds. But when the macro, when Zoom quits or launches,                        |
 | 51:56      | then it runs the macro too. And it also sets it to the Zoom icon if the Zoom isn't running                    |
@@ -722,17 +722,17 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 54:15      | I think is that the one that there is a just in the, if you go to your Stream Deck and                        |
 | 54:21      | you click on the more actions, there is one in there that will have a CPU.                                    |
 | 54:26      | Yes. So you use that one. Yeah, I've never, I've never enabled that one, but I've downloaded                  |
-| 54:33      | several of those, those more action things. In fact, the Keyboard Maestro action is a                         |
+| 54:33      | several of those, those more action things. In fact, the [[Keyboard Maestro]] action is a                         |
 | 54:38      | quote unquote more action that you need to install on your, your Stream Deck. I find                          |
 | 54:44      | the timer ones are very useful. Those were built in like I have a five minute timer and                       |
 | 54:50      | it rings a bell on my Mac, you know, it just starts counting down from five. I have another                   |
 | 54:53      | one for 45 minutes, which is kind of my Pomodoro button. And the, you know, there's a, there's                |
 | 55:00      | a couple in here that you don't need to do any program yourself. People have already                          |
 | 55:03      | written it for you.                                                                                           |
-| 55:04      | We should also mention a KM link, which is an alternate way to use Keyboard Maestro.                          |
-| 55:12      | Now what Keyboard Maestro has built into it is sort of super powerful, but it's also                          |
+| 55:04      | We should also mention a KM link, which is an alternate way to use [[Keyboard Maestro]].                          |
+| 55:12      | Now what [[Keyboard Maestro]] has built into it is sort of super powerful, but it's also                          |
 | 55:17      | very specific. You have to tell it exactly which button you're using this for. What KM                        |
-| 55:23      | link will do is basically just link a Keyboard Maestro macro to a button and then you can                     |
+| 55:23      | link will do is basically just link a [[Keyboard Maestro]] macro to a button and then you can                     |
 | 55:30      | just drag that button around. Now it can't be one of these interactive ones that sort                         |
 | 55:34      | of send sending information back and forth, but it can be one that will just like trigger                     |
 | 55:39      | a macro.                                                                                                      |
@@ -747,7 +747,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 56:27      | don't have to communicate back and forth.                                                                     |
 | 56:29      | Yeah, sure. It's a trigger.                                                                                   |
 | 56:31      | Yes, exactly.                                                                                                 |
-| 56:32      | Yeah. Yeah. And that's just another example of window management through Keyboard Maestro.                    |
+| 56:32      | Yeah. Yeah. And that's just another example of window management through [[Keyboard Maestro]].                    |
 | 56:37      | Yeah, exactly. Yep.                                                                                           |
 | 56:39      | Yeah. There's also an analog clock you can download, which I think is kind of clever                          |
 | 56:44      | having a little analog clock right on your Stream Deck. And that's a no brainer for me                        |
@@ -775,9 +775,9 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 58:28      | a toggle timer, it needs to have a tag ability, but there's activity right now going on where                 |
 | 58:34      | people are dipping into that code and adding tags. So I'm hoping that'll be there soon.                       |
 | 58:39      | Yeah, tags I find are quite important for me. And I've been experimenting with using                          |
-| 58:46      | Keyboard Maestro and the toggle API to start things. And just like I do with shortcuts                        |
+| 58:46      | [[Keyboard Maestro]] and the toggle API to start things. And just like I do with shortcuts                        |
 | 58:51      | on iOS, when I open an application, it would start a timer. I'm doing exactly the same                        |
-| 58:56      | thing on the Mac with Keyboard Maestro. Whenever I activate zoom, then check my calendar to                   |
+| 58:56      | thing on the Mac with [[Keyboard Maestro]]. Whenever I activate zoom, then check my calendar to                   |
 | 59:02      | see what kind of event this is and go ahead and look that data for me, which is great.                        |
 | 59:07      | Yeah. And that type of automation that Rose is working on with toggle to me is like an                        |
 | 59:13      | open Christmas present. It's just sitting there. I know she's working on it. I'm going                        |
@@ -990,8 +990,8 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:15:47   | set up at all. And now six months later, I'm thinking, boy, it's going to be tough for me to                  |
 | 01:15:53   | go back to my regular office because now I've got a standing desk and I've got my microphone set up           |
 | 01:15:58   | and I've got my Stream Deck and I've got all this stuff. Like, it's a really nice setup. So                   |
-| 01:16:03   | I do find that I miss it. I think the saving grace is that a lot of my Keyboard Maestro,                      |
-| 01:16:10   | a lot of my buttons do connect to Keyboard Maestro things. So I can obviously do that                         |
+| 01:16:03   | I do find that I miss it. I think the saving grace is that a lot of my [[Keyboard Maestro]],                      |
+| 01:16:10   | a lot of my buttons do connect to [[Keyboard Maestro]] things. So I can obviously do that                         |
 | 01:16:14   | another way. But again, I just, you know, it's, it's something, it's some kind of a combination               |
 | 01:16:20   | for me of an extension of the menu bar for things that I can just glance at and get information.              |
 | 01:16:27   | And an extension of the dock where like, I can launch applications or I can launch                            |
@@ -1002,8 +1002,8 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:16:54   | Stream Deck or use something like [[BetterTouchTool\|BetterTouchTool's]] or program the touch bar so that it's useful             |
 | 01:16:59   | to you. I have been considering getting a second one because I have two machines I record at and              |
 | 01:17:03   | it's really frustrating for me to be here without it. But also at the same time, like, like TJ,               |
-| 01:17:08   | I've scripted a lot of stuff to keyboard shortcuts on Keyboard Maestro because so much of this stuff          |
-| 01:17:14   | for me starts in Keyboard Maestro. But, you know, I did that webinar last month on the idea of                |
+| 01:17:08   | I've scripted a lot of stuff to keyboard shortcuts on [[Keyboard Maestro]] because so much of this stuff          |
+| 01:17:14   | for me starts in [[Keyboard Maestro]]. But, you know, I did that webinar last month on the idea of                |
 | 01:17:21   | contextual computing. And I think this is something that really speaks to automators because in,              |
 | 01:17:27   | you know, the big picture problem is when we go to use a computer, there is a, you know, there's,             |
 | 01:17:33   | there's three steps. There's the intent, which is your brain says, I want to do X, then you have to           |
@@ -1047,14 +1047,14 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:21:03   | but I think the thing that's best about it is that once you figure it out, it really can do                   |
 | 01:21:09   | all of the things that you used to using your keyboard or most for for doing. And my two favourite             |
 | 01:21:15   | forums and I say this, you know, I think that the Mac Power users and the automators, I think of              |
-| 01:21:20   | those as one, but also the Keyboard Maestro forum is just a great forum. The developers there,                |
+| 01:21:20   | those as one, but also the [[Keyboard Maestro]] forum is just a great forum. The developers there,                |
 | 01:21:26   | there's a bunch of helpful folks on there. And so that's a great place to go, you know,                       |
 | 01:21:31   | when you're starting out to go get help. Yeah, definitely. And I've got so many things from                   |
 | 01:21:37   | there. And also just going there to see how other people do things so that you've got that basic              |
 | 01:21:41   | idea of, you know, what you need to get started is great. Definitely recommend checking it that               |
 | 01:21:47   | for amount. So now that you've wrecked my afternoon, I have one for you. Oh, we recently had a guest          |
 | 01:21:53   | on Mac Power users who the guy who scored like frozen and long. Yeah. And he uses an app called               |
-| 01:22:01   | MetaGrid with an iPad and MetaGrid will trigger Keyboard Maestro scripts. And it's a button                   |
+| 01:22:01   | MetaGrid with an iPad and MetaGrid will trigger [[Keyboard Maestro]] scripts. And it's a button                   |
 | 01:22:08   | panel for your iPad that you could stick underneath your Mac. I think I've seen, I think somebody             |
 | 01:22:13   | was talking about this on one again, one of those forums. Yeah, they're talking about in the forum.           |
 | 01:22:19   | It's 30 bucks. It's expensive. But it literally lets you script. And I can't use it because                   |
@@ -1088,9 +1088,9 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:24:59   | want to try out the Stream Deck and you don't want to invest in the hardware, then, you know,                 |
 | 01:25:02   | $10 is to try it for a month. If you've already got an iPad, that could be pretty good.                       |
 | 01:25:06   | Yeah. The thing that sells MetaGrid for me is that it built-in support to trigger                             |
-| 01:25:12   | Keyboard Maestro scripts. And it's like, okay, now I can do anything with this.                               |
+| 01:25:12   | [[Keyboard Maestro]] scripts. And it's like, okay, now I can do anything with this.                               |
 | 01:25:16   | Yeah, I wasn't aware of that. So that's a definite awesome feature.                                           |
-| 01:25:21   | Yeah, I'll be adding it to a future update of the Keyboard Maestro Field Guide,                               |
+| 01:25:21   | Yeah, I'll be adding it to a future update of the [[Keyboard Maestro]] Field Guide,                               |
 | 01:25:24   | but I've got to get it running right now. It pairs, it goes to the app loads,                                 |
 | 01:25:30   | and then it goes to the pair and it just crashes immediately. I got an email to the developer.                |
 | 01:25:34   | I'm sure they're aware of it. And, you know, I don't like to hassle developers on beta software               |
@@ -1160,7 +1160,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:31:08   | automation crazy. But there's a whole thing with a home theatre setup. So I will add a spoiler for            |
 | 01:31:14   | audio nerds. It does include a soundbar because my living room is tiny. But there's going to be a             |
 | 01:31:19   | whole series of home theatre automation. And indeed, how I automate my entire house coming                    |
-| 01:31:24   | up in the not too distant future along with that promised toggle Keyboard Maestro automation.                 |
+| 01:31:24   | up in the not too distant future along with that promised toggle [[Keyboard Maestro]] automation.                 |
 | 01:31:29   | Yeah. I've been obsessing lately. I'm trying to figure out if I can get my camera to do facial                |
 | 01:31:33   | recognition with HomeKit. If it can reliably recognise me walking in the front door. Can it                   |
 | 01:31:40   | play, you know, Star Wars through my HomePods as soon as it sees that I came home. I've been                 |

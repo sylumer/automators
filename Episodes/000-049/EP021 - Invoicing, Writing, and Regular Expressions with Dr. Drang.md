@@ -724,7 +724,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 29:12      | hey, how come you haven't paid?                                    |
 | 29:14      | And this is now also run by a script.                              |
 | 29:18      | It's actually, fundamentally it's a Taskpaper,                    |
-| 29:22      | I'm sorry, a Keyboard Maestro action                               |
+| 29:22      | I'm sorry, a [[Keyboard Maestro]] action                               |
 | 29:27      | that runs every Tuesday morning,                                   |
 | 29:29      | looks through my reminders,                                        |
 | 29:31      | figures out which ones are due today,                              |

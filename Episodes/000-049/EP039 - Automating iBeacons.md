@@ -1022,12 +1022,12 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:06      | Yeah.                                                                                                 |
 | 55:07      | JavaScript action that I wrote.                                                                       |
 | 55:08      | Yeah.                                                                                                 |
-| 55:09      | You could also do that with Keyboard Maestro if you wanted.                                           |
+| 55:09      | You could also do that with [[Keyboard Maestro]] if you wanted.                                           |
 | 55:11      | Yeah, you could.                                                                                      |
 | 55:13      | I just wrote it in [[Drafts]] because I also need to use this on my iPad and occasionally on              |
 | 55:17      | my iPhone.                                                                                            |
 | 55:18      | Yeah.                                                                                                 |
-| 55:19      | And that can be a little fiddly to send something off to Keyboard Maestro in the background           |
+| 55:19      | And that can be a little fiddly to send something off to [[Keyboard Maestro]] in the background           |
 | 55:22      | to do that.                                                                                           |
 | 55:23      | I mean, I'm sure I could.                                                                             |
 | 55:24      | You don't want to do that.                                                                            |
@@ -1036,7 +1036,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:27      | Yeah.                                                                                                 |
 | 55:28      | I mean, maybe, maybe that's your hard work for this week.                                             |
 | 55:31      | I don't know.                                                                                         |
-| 55:32      | It's a thing you could do in Keyboard Maestro without running JavaScript.                             |
+| 55:32      | It's a thing you could do in [[Keyboard Maestro]] without running JavaScript.                             |
 | 55:34      | You could, you could just make it an easy search and replace and a, a variable for the, and           |
 | 55:39      | a, and a pace, or you could even just grab the clipboard contents and automatically insert            |
 | 55:43      | it.                                                                                                   |
@@ -1069,8 +1069,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 57:15      | Mine is a little more basic, but I took a real hard look at my legal setup automation                 |
 | 57:23      | in the last few weeks.                                                                                |
 | 57:24      | You know, I've got this Stream Deck that I love, and I'm working on an update to the                  |
-| 57:28      | Keyboard Maestro field guide to show off everything it can do, but you know, it's great               |
-| 57:33      | because you can connect the Stream Deck to a Keyboard Maestro as a trigger.                           |
+| 57:28      | [[Keyboard Maestro]] field guide to show off everything it can do, but you know, it's great               |
+| 57:33      | because you can connect the Stream Deck to a [[Keyboard Maestro]] as a trigger.                           |
 | 57:39      | And it's just the idea of system setups with these buttons is very, I find very handy.                |
 | 57:44      | I mean, you could also do all this stuff with keyboard shortcuts.                                     |
 | 57:47      | You don't need to buy a Stream Deck, but for some reason, the idea of sitting at your computer        |
@@ -1082,8 +1082,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 58:10      | And so I've got all the screen real estate to use.                                                    |
 | 58:13      | And when I sit down to do legal work, I wanted to have a better system for it.                        |
 | 58:19      | And so I, you know, I, I've got a video on YouTube.                                                   |
-| 58:22      | I'll share it in the show notes for the show of how I use Keyboard Maestro to do system               |
-| 58:28      | setups and the Keyboard Maestro field guide goes into it and even excruciating detail                 |
+| 58:22      | I'll share it in the show notes for the show of how I use [[Keyboard Maestro]] to do system               |
+| 58:28      | setups and the [[Keyboard Maestro]] field guide goes into it and even excruciating detail                 |
 | 58:33      | if you're interested.                                                                                 |
 | 58:34      | But the but in general, the right screen for me is always calendar with a weak view on                |
 | 58:40      | the top and OmniFocus on the bottom.                                                                  |
@@ -1101,7 +1101,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 59:29      | I mean, and I run a bunch of legal stuff out of base camp.                                            |
 | 59:33      | So the nice thing is I can get a specific URL for very particular locations in base                   |
 | 59:39      | camp where I run my my legal practice out of.                                                         |
-| 59:42      | So I thought, well, I could combine that with Keyboard Maestro.                                       |
+| 59:42      | So I thought, well, I could combine that with [[Keyboard Maestro]].                                       |
 | 59:46      | So now when I hit the button to do legal work, the first thing it is it blows out, it clears          |
 | 59:51      | all the windows off my system.                                                                        |
 | 59:54      | It opens the calendar to the legal calendar.                                                          |
@@ -1161,7 +1161,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:03:18   | I press that button.                                                                                  |
 | 01:03:19   | And there's a keyboard shortcut on my keyboard.                                                       |
 | 01:03:21   | I can press to put it to sleep, but this is a different sleep because it closes apps.                 |
-| 01:03:25   | It runs a true Keyboard Maestro script that does things as opposed to just shutting the               |
+| 01:03:25   | It runs a true [[Keyboard Maestro]] script that does things as opposed to just shutting the               |
 | 01:03:30   | screen down.                                                                                          |
 | 01:03:31   | And then I've got web, you know, like podcast production and web stuff built in to some               |
 | 01:03:37   | of the buttons.                                                                                       |
@@ -1171,10 +1171,10 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:03:46   | I still have seven or eight that I have not filled yet.                                               |
 | 01:03:49   | And that's all potential for me.                                                                      |
 | 01:03:51   | And I'm going to have to look into this hue, hue integration, I didn't realise that existed.          |
-| 01:03:55   | Thus far I've been putting all my buttons through Keyboard Maestro.                                   |
+| 01:03:55   | Thus far I've been putting all my buttons through [[Keyboard Maestro]].                                   |
 | 01:03:59   | I have actually been doing something slightly different.                                              |
-| 01:04:02   | I've been experimenting with anything but the Keyboard Maestro integration.                           |
-| 01:04:06   | Cause I know you've been focusing on the Keyboard Maestro integration and I am sensing that           |
+| 01:04:02   | I've been experimenting with anything but the [[Keyboard Maestro]] integration.                           |
+| 01:04:06   | Cause I know you've been focusing on the [[Keyboard Maestro]] integration and I am sensing that           |
 | 01:04:09   | we may have a Stream Deck show in our future of how to automate your Mac with your stream             |
 | 01:04:14   | deck.                                                                                                 |
 | 01:04:15   | Maybe.                                                                                                |
@@ -1182,7 +1182,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:04:17   | These things are great fun and they're a lot easier to program than iBeacon.                          |
 | 01:04:19   | So unfortunately for the iBeacon, but fortunately for the Stream Deck, I mean, it really is,          |
 | 01:04:24   | I guess in like iBeacons, it's just another trigger, you know, it's a button you can                  |
-| 01:04:29   | press and you can, because it's got Keyboard Maestro integration and because keyboard                 |
+| 01:04:29   | press and you can, because it's got [[Keyboard Maestro]] integration and because keyboard                 |
 | 01:04:34   | maestro can literally do anything.                                                                    |
 | 01:04:37   | You can make anything you do on your Mac.                                                             |
 | 01:04:39   | You can do it.                                                                                        |

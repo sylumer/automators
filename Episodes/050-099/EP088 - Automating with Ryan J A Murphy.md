@@ -625,7 +625,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 30:03      | Yeah.                                                                                                  |
 | 30:04      | Yeah.                                                                                                  |
 | 30:05      | But like even with URLs though, it does have, like if you go into the Obsidian forums,                 |
-| 30:09      | I had cooked together this really, this really creaky looking Keyboard Maestro script to               |
+| 30:09      | I had cooked together this really, this really creaky looking [[Keyboard Maestro]] script to               |
 | 30:16      | pull a URL link and build it out of Obsidian before they had it, then one day they just                |
 | 30:21      | added the feature of, you know, get shareable link.                                                    |
 | 30:26      | But I have added that to the keyboard shortcut, this is a very basic automation, but Command           |

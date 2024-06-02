@@ -120,7 +120,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:48      | stuff like, what's the first automation thing I used on a Mac or early things?                                |
 | 01:54      | I cannot find this to save my life, but I believe it was called Quick Keys, and there                         |
 | 01:59      | was this app that you could run that would do, in some ways, it's a little bit like the                       |
-| 02:04      | way that I would use, for example, the way you all use Keyboard Maestro, the way that                         |
+| 02:04      | way that I would use, for example, the way you all use [[Keyboard Maestro]], the way that                         |
 | 02:10      | I use [[BetterTouchTool]], but all the way down to wait this many seconds, and then click                       |
 | 02:16      | in this area, and you could create all these really wackadoo macros and Rube Goldberg devices,                |
 | 02:23      | but it was a real crapshoot if it would work at all, and that's still true in some ways                       |
@@ -136,7 +136,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 02:58      | works, it's a beautiful thing.                                                                                |
 | 03:00      | Yeah.                                                                                                         |
 | 03:01      | I mean, that's how I started the show today, David.                                                           |
-| 03:04      | Keyboard Maestro opened Audio Hijack, waited for the right window to appear, and then clicked                 |
+| 03:04      | [[Keyboard Maestro]] opened Audio Hijack, waited for the right window to appear, and then clicked                 |
 | 03:08      | an image to find the right session, because there's no scripting support other than opening                   |
 | 03:12      | the application.                                                                                              |
 | 03:13      | So I had to click at the image that it found.                                                                 |
@@ -1068,8 +1068,8 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 52:39      | And so what was I using it for?                                                                               |
 | 52:40      | Originally, I was, it was just so hamfisted on my Mac here at work on my iMac, I was using                    |
 | 52:46      | it to basically do F key things.                                                                              |
-| 52:48      | It was, I'm very, don't get me started, I'm very intrigued by Keyboard Maestro, but I'm                       |
-| 52:53      | terrified by Keyboard Maestro.                                                                                |
+| 52:48      | It was, I'm very, don't get me started, I'm very intrigued by [[Keyboard Maestro]], but I'm                       |
+| 52:53      | terrified by [[Keyboard Maestro]].                                                                                |
 | 52:55      | First because of its complexity, but even more because of that's exactly the kind of                          |
 | 53:00      | thing I could spend a month on.                                                                               |
 | 53:01      | And I don't want to do that.                                                                                  |

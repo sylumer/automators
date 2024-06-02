@@ -1387,10 +1387,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:16:12   | I bought a Macro Pad actually the other day, Chris.                                                       |
 | 01:16:13   | I didn't realise that you had Macro Pads when I did this.                                                 |
 | 01:16:16   | So like, how are you using the Macro Pads?                                                                |
-| 01:16:18   | Are you just like having them programmed as F keys and using them as like Keyboard Maestro                |
+| 01:16:18   | Are you just like having them programmed as F keys and using them as like [[Keyboard Maestro]]                |
 | 01:16:22   | or something?                                                                                             |
 | 01:16:23   | Or, I mean, what's going on there?                                                                        |
-| 01:16:25   | So some of the buttons are just F keys and, you know, I'll go into Keyboard Maestro and                   |
+| 01:16:25   | So some of the buttons are just F keys and, you know, I'll go into [[Keyboard Maestro]] and                   |
 | 01:16:31   | set different actions to them.                                                                            |
 | 01:16:33   | But where this gets really interesting with custom mechanical keyboards, a lot of them.                   |
 | 01:16:38   | And basically anytime you go to order a custom mechanical keyboard, you can see what software             |
@@ -1515,8 +1515,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:24:12   | I would use this.                                                                                         |
 | 01:24:13   | I think there's a lot of different ways you can use it, especially if you do a sequence                   |
 | 01:24:16   | of really strange keys like F4, 0, P, N, backslash, that's not a sequence of keys that you're             |
-| 01:24:24   | going to hit regularly, but if it types that and that triggers a Keyboard Maestro macro                   |
-| 01:24:29   | to run, well, you can actually have Keyboard Maestro run different macros depending on                    |
+| 01:24:24   | going to hit regularly, but if it types that and that triggers a [[Keyboard Maestro]] macro                   |
+| 01:24:29   | to run, well, you can actually have [[Keyboard Maestro]] run different macros depending on                    |
 | 01:24:33   | what application you're in, using groups or whatever based on that single key, that's                     |
 | 01:24:38   | really cool because that's one of the things I struggle with, you run out of buttons eventually           |
 | 01:24:42   | in the F series.                                                                                          |
@@ -1526,7 +1526,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:25:01   | it's built into the firmware of the keyboard, so no matter what computer your keyboard's                  |
 | 01:25:05   | plugged into, it will always do that task.                                                                |
 | 01:25:09   | So that's one of the reasons why I really like doing it that way as opposed to doing                      |
-| 01:25:15   | the macros and stuff via Keyboard Maestro or something like that because yeah, I have                     |
+| 01:25:15   | the macros and stuff via [[Keyboard Maestro]] or something like that because yeah, I have                     |
 | 01:25:21   | my MacBook Pro and I normally boot into Ventura now, but over the summer, I had whatever the              |
 | 01:25:29   | previous version of macOS was that I'm already forgetting, and Ventura as, yeah, Monterey.                |
 | 01:25:34   | So I had Monterey on my main drive and then I had a partition that was Ventura that I                     |

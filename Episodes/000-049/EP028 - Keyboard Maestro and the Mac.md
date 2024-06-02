@@ -57,7 +57,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 00:11      | Hi, Rosemary.                                                                                          |
 | 00:12      | Hey, how are you doing?                                                                                |
 | 00:14      | Good. We've got a good show today.                                                                     |
-| 00:16      | We've danced around Keyboard Maestro a lot.                                                            |
+| 00:16      | We've danced around [[Keyboard Maestro]] a lot.                                                            |
 | 00:19      | We haven't really given it a show,                                                                     |
 | 00:20      | so we figured today was the day.                                                                       |
 | 00:22      | It definitely is.                                                                                      |
@@ -103,7 +103,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 01:41      | but yeah, we can try.                                                                                  |
 | 01:43      | Also, you have a new podcast you're launching.                                                         |
 | 01:46      | Yes. As this episode releases,                                                                         |
-| 01:48      | my new podcast, Nested Folders, will actually be out.                                                  |
+| 01:48      | my new podcast, [[Nested Folders]], will actually be out.                                                  |
 | 01:51      | So feel free to search for that in iTunes.                                                             |
 | 01:54      | We'll have links in the show notes, of course.                                                         |
 | 01:56      | And you can you can find that on the Internet.                                                         |
@@ -112,25 +112,25 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 02:04      | And that's with a great friend of mine, Scotty Jackson.                                                |
 | 02:07      | Excellent. I can't wait to listen to it.                                                               |
 | 02:10      | All right.                                                                                             |
-| 02:11      | Well, today we're here to talk about Keyboard Maestro.                                                 |
+| 02:11      | Well, today we're here to talk about [[Keyboard Maestro]].                                                 |
 | 02:13      | And, you know, the reason is we.                                                                       |
 | 02:17      | Well, there's a couple reasons.                                                                        |
-| 02:19      | Number one is Keyboard Maestro is one of the most powerful                                             |
+| 02:19      | Number one is [[Keyboard Maestro]] is one of the most powerful                                             |
 | 02:22      | automation tools on the Mac that doesn't require any coding.                                           |
 | 02:26      | And we've talked about it in some of our workflow episodes                                             |
 | 02:29      | in the past about how we solve specific problems                                                       |
-| 02:32      | and we stumbled in a Keyboard Maestro quite often.                                                     |
+| 02:32      | and we stumbled in a [[Keyboard Maestro]] quite often.                                                     |
 | 02:34      | But I just wanted to kind of give it a show.                                                           |
-| 02:37      | The other reason, of course, is I released the Keyboard Maestro                                        |
+| 02:37      | The other reason, of course, is I released the [[Keyboard Maestro]]                                        |
 | 02:39      | Field Guide and and I didn't get it.                                                                   |
 | 02:43      | We didn't really have a chance to share it with the audience.                                          |
 | 02:46      | There is a couple of discount codes if you use,                                                        |
-| 02:49      | if you go to buy the Keyboard Maestro Field Guide with the link                                        |
+| 02:49      | if you go to buy the [[Keyboard Maestro]] Field Guide with the link                                        |
 | 02:53      | in the show notes and use the code AutomatorsLoveKM.                                                   |
 | 02:58      | So AutomatorsLoveKM, no spaces.                                                                        |
 | 03:00      | They'll get you $5 off.                                                                                |
 | 03:01      | And I confirmed right before we recorded Keith over the developer                                      |
-| 03:06      | of Keyboard Maestro still giving a 20% discount on the app itself.                                     |
+| 03:06      | of [[Keyboard Maestro]] still giving a 20% discount on the app itself.                                     |
 | 03:10      | So if you go to buy the app over at Stairways Software.com,                                              |
 | 03:14      | use the code KMFG to get 20% off the application itself.                                               |
 | 03:21      | Excellent.                                                                                             |
@@ -139,20 +139,20 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 03:28      | So yes, use that discount.                                                                             |
 | 03:31      | It's very automator friendly.                                                                          |
 | 03:33      | Definitely.                                                                                            |
-| 03:35      | Keyboard Maestro in a lot of ways,                                                                     |
+| 03:35      | [[Keyboard Maestro]] in a lot of ways,                                                                     |
 | 03:37      | we were talking about before the show is like shortcuts.                                               |
 | 03:41      | But it's like the original shortcuts.                                                                  |
 | 03:43      | Yeah, so first, I believe Automator actually came along first.                                         |
-| 03:48      | And then Keyboard Maestro sort of came along and was like,                                             |
+| 03:48      | And then [[Keyboard Maestro]] sort of came along and was like,                                             |
 | 03:50      | well, I can do all of this, but better because it really can.                                          |
 | 03:54      | So where you'll run into limitations with Automator frequently,                                        |
-| 03:58      | you can actually get around, I would say, 99% of those with Keyboard Maestro                           |
+| 03:58      | you can actually get around, I would say, 99% of those with [[Keyboard Maestro]]                           |
 | 04:03      | just because it's a lot more powerful.                                                                 |
 | 04:05      | And there are ways around almost every problem as you will hear.                                       |
 | 04:11      | Yeah.                                                                                                  |
 | 04:12      | And it's, but it is a traditional app, automation app in the sense                                     |
 | 04:16      | that it has triggers and actions like so many of them.                                                 |
-| 04:20      | But the thing that makes Keyboard Maestro so powerful on the Mac                                       |
+| 04:20      | But the thing that makes [[Keyboard Maestro]] so powerful on the Mac                                       |
 | 04:24      | is just the sheer number of triggers and actions.                                                      |
 | 04:29      | It's crazy how many different ways you can automate your Mac.                                          |
 | 04:34      | And I've heard since I released the field                                                              |
@@ -162,7 +162,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 04:42      | And we're going to talk about a couple of those in the show.                                           |
 | 04:44      | But some of them really go deep down the stack with the application.                                   |
 | 04:48      | And the nice thing is, no matter what you want to do, you can.                                         |
-| 04:52      | The problem with Keyboard Maestro, I always felt traditionally was                                     |
+| 04:52      | The problem with [[Keyboard Maestro]], I always felt traditionally was                                     |
 | 04:55      | it gives you so many tools that it can kind of be overwhelming.                                        |
 | 05:00      | So yeah, it can be.                                                                                    |
 | 05:01      | But at the same time, you know, don't let that put you off                                             |
@@ -191,7 +191,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 06:09      | and the triggers are the things that start off an animation.                                           |
 | 06:14      | What about you, Rose?                                                                                  |
 | 06:15      | Well, one of my favourite ones is actually an application.                                              |
-| 06:18      | So Keyboard Maestro has a bunch of ways to automate stuff based on an application.                     |
+| 06:18      | So [[Keyboard Maestro]] has a bunch of ways to automate stuff based on an application.                     |
 | 06:23      | So what you can do is when an application activates or when it deactivates                             |
 | 06:29      | or when it launches or quits or if it's running or if it's active,                                     |
 | 06:34      | you can do a bunch of stuff.                                                                           |
@@ -378,20 +378,20 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 19:39      | Yeah. I mean, but it goes beyond that, you can control the mouse. I mean, you can literally            |
 | 19:44      | move the mouse around the screen and press clicks. Yes. You can, it's got a whole control              |
 | 19:50      | iTunes as well. Yeah, don't forget. Yeah, it still exists. At least for one recording.                 |
-| 19:57      | Yes. And the good news for the developers of Keyboard Maestro, of course, is that the                  |
+| 19:57      | Yes. And the good news for the developers of [[Keyboard Maestro]], of course, is that the                  |
 | 20:02      | the iTunes scripting library has been imported into both the music and the TV applications.            |
 | 20:07      | So depending on how they program this, hopefully they will just be able to migrate                     |
 | 20:10      | everything over to music and TV with very little work. I'm hoping for that for them,                   |
 | 20:16      | because they put so much work in on everything else. I feel like they deserve a break.                 |
 | 20:19      | There's a full suite of windows and interface controls. So you can like move windows, resize           |
 | 20:24      | them, do a whole bunch of stuff with the interface. One of the ones, and then there's like the catch   |
-| 20:29      | all because at the end of the day, Keyboard Maestro can also execute a script. So if it                |
+| 20:29      | all because at the end of the day, [[Keyboard Maestro]] can also execute a script. So if it                |
 | 20:35      | doesn't do what you need it to do, you can create an [[AppleScript]] or a Java script or                  |
 | 20:40      | you know, whatever script you need and drop it in there and let it run it as part of your              |
-| 20:45      | Keyboard Maestro script. So suddenly things just just like expand much to even much higher altitudes.  |
+| 20:45      | [[Keyboard Maestro]] script. So suddenly things just just like expand much to even much higher altitudes.  |
 | 20:55      | Yes. And it allows you to also take scripting knowledge to say, for example, you know how to           |
 | 20:59      | do something with one document in AppleScript, but you have not yet learned how to go through         |
-| 21:04      | a series of documents. Well, you can cheat. You can have Keyboard Maestro go through each of the       |
+| 21:04      | a series of documents. Well, you can cheat. You can have [[Keyboard Maestro]] go through each of the       |
 | 21:09      | documents and run your AppleScript on it, which means that you don't need to modify your script.      |
 | 21:14      | It will just do it. It works. And this is a great way, especially if you're learning how to write      |
 | 21:19      | AppleScript or you've just learned a little bit of bash. So you want to execute yourself a shell      |
@@ -447,7 +447,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 25:46      | complex, sometimes it may generate one or it may generate 10 documents. But just getting that initial  |
 | 25:52      | kind of document generation done, I have tried it so many different ways, Rose. I've built it,         |
 | 25:58      | custom AppleScripts. I've done a lot of things over the years to try and make this document           |
-| 26:04      | automation easier. And for me, Keyboard Maestro is the key. It's just the best way to do it.            |
+| 26:04      | automation easier. And for me, [[Keyboard Maestro]] is the key. It's just the best way to do it.            |
 | 26:09      | And it's very easy. The automation itself isn't that difficult. But once you figure it out,            |
 | 26:14      | you just have to go through and generate it. And it's pretty awesome.                                  |
 | 26:18      | Yeah. And that's the beauty of this. And I've used it for documents as well. One of the ones           |
@@ -456,7 +456,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 26:35      | have as many documents to generate as you. If I could generate my code, that would be lovely.          |
 | 26:40      | But I'm working on that.                                                                               |
 | 26:41      | Isn't the one you shared with us before a file-based trigger where when the file gets                  |
-| 26:46      | dropped into a certain folder, then Keyboard Maestro does all that for you?                             |
+| 26:46      | dropped into a certain folder, then [[Keyboard Maestro]] does all that for you?                             |
 | 26:50      | No, it's not actually. I run it manually on a file. And if it's already got the right kind             |
 | 26:54      | of naming, then it parses out elements of the name so I can change parts of them.                      |
 | 26:59      | And it automatically increments stuff. I'll put a link to that in the show notes.                      |
@@ -477,9 +477,9 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 28:23      | at which point I delete the email that I was about to send to their support humans and                 |
 | 28:28      | start OmniFocus and by which time I've forgotten my task. So this solves many problems and also        |
 | 28:34      | eliminates email from people who already have enough email to deal with, I'm sure.                     |
-| 28:38      | Yeah, another problem I solved with Keyboard Maestro is just setups. And there's a lot of               |
+| 28:38      | Yeah, another problem I solved with [[Keyboard Maestro]] is just setups. And there's a lot of               |
 | 28:44      | applications that let you set up window management and window control. You can also do with Apple      |
-| 28:49      | Script, but there's just so much more power with Keyboard Maestro. Like you can say, I want this        |
+| 28:49      | Script, but there's just so much more power with [[Keyboard Maestro]]. Like you can say, I want this        |
 | 28:55      | specific application to be on the screen. And as I have added additional screens to my setup,          |
 | 29:00      | so I'm more than just the main screen now, it's even more important to me to be able to set            |
 | 29:05      | things up properly. And because I have two jobs, some days I'm a lawyer, some days I'm a nerd.         |
@@ -526,14 +526,14 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 33:03      | Basecamp secret address in there. And but creating that is always a pain in the neck. And CardHop      |
 | 33:11      | has this CardHop, which is the same guys that make Fantastic Ale, just like Fantastic Ale has          |
 | 33:17      | a quick entry mode, but for contacts. So what I all I do is I copy the secret email from Basecamp.     |
-| 33:26      | And then I run a Keyboard Maestro script that opens CardHop. And then it prompts me for what I         |
+| 33:26      | And then I run a [[Keyboard Maestro]] script that opens CardHop. And then it prompts me for what I         |
 | 33:33      | want to call it, you know, that's the part I couldn't automate because everyone's a little             |
 | 33:37      | different, but this I'll type in Smith case. And then it'll create a new contact entry and add the     |
-| 33:42      | secret email that's in the paste buffer, you know, because one of the things a Keyboard Maestro can    |
+| 33:42      | secret email that's in the paste buffer, you know, because one of the things a [[Keyboard Maestro]] can    |
 | 33:48      | access is whatever you've got in your buffer. So then it just creates the contact entry and            |
 | 33:52      | saves it. So I've taken a somewhat tedious process and turned it down to just Command C to copy it     |
-| 33:59      | and then a trigger to trigger the Keyboard Maestro script and the rest of it's done for me.            |
-| 34:03      | That that is a really nice one. It's just like, you know, the thing about Keyboard Maestro, I feel     |
+| 33:59      | and then a trigger to trigger the [[Keyboard Maestro]] script and the rest of it's done for me.            |
+| 34:03      | That that is a really nice one. It's just like, you know, the thing about [[Keyboard Maestro]], I feel     |
 | 34:08      | like the entry point, I mean, you can do the really fancy document machine and things like that.       |
 | 34:13      | But it's just like, what are the little friction points you have on your Mac every day, the things     |
 | 34:18      | that you do over an organ? Like for me, it was the process of opening contacts. I mean, I met          |
@@ -541,7 +541,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 34:28      | and make it easier to use a keyboard to run that up? You know, because it's just like,                 |
 | 34:32      | it's such a pain in the neck. There's so many clicks and you got to go to each field. And so           |
 | 34:37      | and CardHop solve that to a large extent, but I wanted it even more automated. So when you have         |
-| 34:42      | those friction points on your Mac, that's where Keyboard Maestro can really help you.                  |
+| 34:42      | those friction points on your Mac, that's where [[Keyboard Maestro]] can really help you.                  |
 | 34:46      | Yes. And speaking of friction points, this one is a little more complicated than the previous          |
 | 34:52      | ones that I've shared. It's called cycle mail flags. And I should give full credit where credit        |
 | 34:58      | is due. I did not create this. A lovely person in the Keyboard Maestro forums called G click           |
@@ -588,22 +588,22 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 38:51      | as well, mostly because I have Pokemon Let's Go on my Switch and you can trade Pokemon. Anyway,        |
 | 38:56      | sidebar aside, we should get back to automation. Yeah. Well, I mean, I guess the point today is        |
 | 39:01      | that there's just so much you can do with this app. If you've got a particular itch                    |
-| 39:06      | Tri-Keyboard Maestro, we got a 20% discount. I don't know how long that's going to last. So            |
+| 39:06      | Tri-[[Keyboard Maestro]], we got a 20% discount. I don't know how long that's going to last. So            |
 | 39:10      | you should probably use that soon if you want. If you need help, I've got a field guide and            |
 | 39:14      | there's a discount code for that too. But regardless, it's a very powerful tool. It's always coming up |
 | 39:21      | on the Automators podcast. And if you want to get serious on automating on your Mac, this is           |
 | 39:28      | the one you need, honestly. I mean, as excited as we are about shortcuts and what it's bringing to     |
-| 39:33      | iOS, we already have those tools on the Mac and it comes in the form of Keyboard Maestro.              |
-| 39:39      | Definitely. And I should also mention the developer Keyboard Maestro is super responsive               |
+| 39:33      | iOS, we already have those tools on the Mac and it comes in the form of [[Keyboard Maestro]].              |
+| 39:39      | Definitely. And I should also mention the developer [[Keyboard Maestro]] is super responsive               |
 | 39:44      | and they have their own forums. So you can go over to the forums and post questions and see            |
 | 39:49      | answers. Of course, you're very welcome to post the same questions and not just in our forums as       |
-| 39:54      | well. But as Keyboard Maestro has its own dedicated discourse forum, you're probably going to get      |
-| 39:59      | the Keyboard Maestro style answer that you were looking for right there. Yeah. And there's a lot       |
-| 40:03      | of guys and gals in the Keyboard Maestro forums that are using really high-end scripting. I mean,      |
+| 39:54      | well. But as [[Keyboard Maestro]] has its own dedicated discourse forum, you're probably going to get      |
+| 39:59      | the [[Keyboard Maestro]] style answer that you were looking for right there. Yeah. And there's a lot       |
+| 40:03      | of guys and gals in the [[Keyboard Maestro]] forums that are using really high-end scripting. I mean,      |
 | 40:10      | they're taking it to bigger and brighter levels. I think some of that stuff can be diverting.          |
-| 40:16      | I feel like just using the basic tools in Keyboard Maestro, you can solve a lot of problems. But       |
+| 40:16      | I feel like just using the basic tools in [[Keyboard Maestro]], you can solve a lot of problems. But       |
 | 40:22      | if you really want to go deep down, check out some of the scripting stuff they're doing in those       |
-| 40:26      | forums as well. Definitely. And also, sit down with Keyboard Maestro, open up a new empty macro        |
+| 40:26      | forums as well. Definitely. And also, sit down with [[Keyboard Maestro]], open up a new empty macro        |
 | 40:33      | and just sit and scroll through the actions. Of course, you can go through all actions. Personally,    |
 | 40:38      | I would recommend going through it by folder. So you're looking at the application control and so      |
 | 40:42      | on. Because you'll find that there's a bunch of ideas that you get from just looking at the actions    |

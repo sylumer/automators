@@ -728,7 +728,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 35:46      | And maybe you just need a list of those URLs.                                                        |
 | 35:50      | That's kind of an interesting problem to automate that issue.                                        |
 | 35:53      | I was kind of playing with it before we recorded.                                                    |
-| 35:57      | There is a Keyboard Maestro command to get URL and then you would have to force it to                |
+| 35:57      | There is a [[Keyboard Maestro]] command to get URL and then you would have to force it to                |
 | 36:02      | go through for each tab and get the URL for each tab.                                                |
 | 36:06      | There's also an [[AppleScript]] phrase that can look at Safari and pull the URL of the                  |
 | 36:10      | frontmost tab.                                                                                       |

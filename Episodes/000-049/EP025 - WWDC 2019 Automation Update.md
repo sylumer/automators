@@ -678,8 +678,8 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 32:31      | So one of the things you can do with this automation is they've added a whole bunch                   |
 | 32:35      | of triggers.                                                                                          |
 | 32:36      | Oh, yeah.                                                                                             |
-| 32:37      | So it's funny because just weeks ago I was finishing up the Keyboard Maestro Field Guide              |
-| 32:42      | and Keyboard Maestro has, it's a Mac-based application, it's got an amazing number of                 |
+| 32:37      | So it's funny because just weeks ago I was finishing up the [[Keyboard Maestro]] Field Guide              |
+| 32:42      | and [[Keyboard Maestro]] has, it's a Mac-based application, it's got an amazing number of                 |
 | 32:49      | triggers in it where you can start automations, not only by pushing a button, but by automatically    |
 | 32:55      | having things happen.                                                                                 |
 | 32:57      | And I was thinking at the time, I'm like, man, wouldn't it be nice if we had these things             |
@@ -956,7 +956,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 45:01      | then have shortcuts for specific applications that start specific timers.                             |
 | 45:05      | It's just, all of this stuff is amazing.                                                              |
 | 45:08      | We just glanced over Wi-Fi as a trigger.                                                              |
-| 45:12      | But even when I was doing the Keyboard Maestro field guide, that is one of my very favourite            |
+| 45:12      | But even when I was doing the [[Keyboard Maestro]] field guide, that is one of my very favourite            |
 | 45:16      | triggers because it's so useful.                                                                      |
 | 45:18      | Everybody goes to different places where they connect to Wi-Fi.                                       |
 | 45:22      | Work versus home is a great example.                                                                  |

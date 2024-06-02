@@ -1450,7 +1450,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:26:20   | mode that turns on that focus mode.                                                                     |
 | 01:26:22   | And the entire purpose of this is to make it much easier on macOS to turn on a focus                    |
 | 01:26:26   | mode.                                                                                                   |
-| 01:26:27   | And that way I can then use a bunch or Keyboard Maestro or any app basically to turn on my              |
+| 01:26:27   | And that way I can then use a bunch or [[Keyboard Maestro]] or any app basically to turn on my              |
 | 01:26:35   | focus mode.                                                                                             |
 | 01:26:38   | And they can even pass data into this.                                                                  |
 | 01:26:41   | And if they do pass data in, what I do when these, because these shortcuts accept input,                |

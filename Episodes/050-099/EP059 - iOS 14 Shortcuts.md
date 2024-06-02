@@ -541,9 +541,9 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 25:27      | typo, you know, and, and when you can just copy an existing one, it just takes that out                  |
 | 25:33      | of the equation.                                                                                         |
 | 25:34      | I, I'm very happy with that.                                                                             |
-| 25:36      | If I could ask for a little bit more as a regular Keyboard Maestro user, I'm used to                     |
+| 25:36      | If I could ask for a little bit more as a regular [[Keyboard Maestro]] user, I'm used to                     |
 | 25:41      | with Keyboard Maestro's ability to block and copy multiple actions at once.                              |
-| 25:46      | So I like copy entire subroutines and Keyboard Maestro, you know, you just select a bunch                |
+| 25:46      | So I like copy entire subroutines and [[Keyboard Maestro]], you know, you just select a bunch                |
 | 25:50      | of actions, hit command C and with this, you're going to do one at a time.                               |
 | 25:55      | I actually would, there must be a way, if they, if they have them, you know, software                    |
 | 26:00      | to copy an action, there's no reason why they couldn't have the software to copy multiple                |

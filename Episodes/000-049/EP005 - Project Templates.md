@@ -59,7 +59,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 - [Templates and Predefined Lists in Things - Matthew Palmer](https://matthewpalmer.net/blog/2015/01/23/templates-predefined-lists-things-mac/index.html)
 - [Create Travel Checklist in Things with AppleScript - Coding Bull Junky](https://codingbulljunky.wordpress.com/2016/09/13/create-travel-checklist-with-applescript/)
 - [Creating Projects with Relative Due Dates in Todoist (Reddit)](https://www.reddit.com/r/todoist/comments/94afre/template_set_deadlines_based_on_final_due_date/)
-- [Automators 1 Screencast: Numbers & Fantastical for Batch Events](https://youtu.be/tvlrZpEklbw) - From episode 1, Rose demonstrates the numbers sheet and Keyboard Maestro Macro you can use to bulk add lots of similar events to your calendar.
+- [Automators 1 Screencast: Numbers & Fantastical for Batch Events](https://youtu.be/tvlrZpEklbw) - From episode 1, Rose demonstrates the numbers sheet and [[Keyboard Maestro]] Macro you can use to bulk add lots of similar events to your calendar.
 - [Create OmniFocus Project Templates with AppleScript | Colter Reed](https://colterreed.com/create-omnifocus-project-templates-with-applescript/) - Colter shows you how you can build project templates (for OmniFocus but you could also translate this to Things) in AppleScript and offers example scripts too.
 
 # Transcription

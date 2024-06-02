@@ -143,7 +143,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 02:40      | And I know for a fact, Dave, that you are always building                                                                                                                |
 | 02:44      | automations.                                                                                                                                                             |
 | 02:45      | In fact, we had Kelly on the show a month or two ago,                                                                                                                    |
-| 02:48      | and she was talking about a great Keyboard Maestro script                                                                                                                |
+| 02:48      | and she was talking about a great [[Keyboard Maestro]] script                                                                                                                |
 | 02:51      | that you had written.                                                                                                                                                    |
 | 02:52      | And that was the light bulb moment for me.                                                                                                                               |
 | 02:54      | It's like, how have we not have Dave Hamilton on this show yet?                                                                                                          |
@@ -153,7 +153,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 03:03      | Yeah, my pleasure.                                                                                                                                                       |
 | 03:03      | And I noticed, because I can see the in progress agenda,                                                                                                                 |
 | 03:07      | show notes document, that you aren't yet                                                                                                                                 |
-| 03:09      | using the Keyboard Maestro automation,                                                                                                                                   |
+| 03:09      | using the [[Keyboard Maestro]] automation,                                                                                                                                   |
 | 03:11      | because I saw you actually type out the minute and second                                                                                                                |
 | 03:15      | mark.                                                                                                                                                                    |
 | 03:16      | Yes, so there's one small reason why we're not using that.                                                                                                               |
@@ -599,7 +599,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 21:41      | It's fine.                                                                                                                                                               |
 | 21:42      | I do think though, with home automation as automators, the challenge we all face is                                                                                      |
 | 21:47      | this is one where there's no room for error.                                                                                                                             |
-| 21:50      | Like when you're building a shortcut or a Keyboard Maestro script, it's for you.                                                                                         |
+| 21:50      | Like when you're building a shortcut or a [[Keyboard Maestro]] script, it's for you.                                                                                         |
 | 21:54      | And if it breaks, you can fix it and you know what's going on.                                                                                                           |
 | 21:58      | Whereas with home automation stuff, when you live with other humans,                                                                                                     |
 | 22:02      | they don't know about HOOBS, right?                                                                                                                                     |
@@ -1152,24 +1152,24 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 46:50      | So what, what are the tools you use to do automation on the Mac?                                                                                                         |
 | 46:53      | I use AppleScript.                                                                                                                                                      |
 | 46:55      | I use automator, but really for me these days, the present and I believe, well,                                                                                          |
-| 47:01      | maybe not entire future of automation on the Mac has been Keyboard Maestro shortcuts,                                                                                    |
+| 47:01      | maybe not entire future of automation on the Mac has been [[Keyboard Maestro]] shortcuts,                                                                                    |
 | 47:06      | changes that a little bit and which in a good way,                                                                                                                       |
 | 47:08      | because it opens it up for a lot more people.                                                                                                                            |
-| 47:11      | But for me, Keyboard Maestro sort of sits at the core of what I do on the Mac.                                                                                           |
+| 47:11      | But for me, [[Keyboard Maestro]] sort of sits at the core of what I do on the Mac.                                                                                           |
 | 47:17      | It is my default go to when I need to automate something on my Mac.                                                                                                      |
 | 47:22      | Just because it's so flexible and so powerful and it's so well integrated with everything                                                                                |
 | 47:28      | that I would need to do, including automator and AppleScript and the terminal.                                                                                          |
 | 47:33      | And you know, it's, it's so flexible.                                                                                                                                    |
 | 47:36      | I know we started here in the episode talking about my podcast chaptering tool,                                                                                          |
-| 47:40      | which is Keyboard Maestro and Keyboard Maestro macros sync to all of my Macs if I want them to,                                                                          |
+| 47:40      | which is [[Keyboard Maestro]] and [[Keyboard Maestro]] macros sync to all of my Macs if I want them to,                                                                          |
 | 47:45      | which I do.                                                                                                                                                              |
 | 47:46      | And you can intelligently turn groups of macros on and off on certain Macs.                                                                                              |
 | 47:51      | So if, you know, I never would record a podcast in the office,                                                                                                           |
 | 47:54      | I can turn those off so that those keystrokes don't start doing wonky things.                                                                                            |
-| 48:00      | I, there's a lot of different things I do with Keyboard Maestro.                                                                                                         |
+| 48:00      | I, there's a lot of different things I do with [[Keyboard Maestro]].                                                                                                         |
 | 48:05      | One is I, like many of us, I'm sure have network drives that I connect to when I'm in my office,                                                                         |
 | 48:12      | either, you know, with my desktop machines all the time or my laptop when I'm, when I'm here.                                                                            |
-| 48:17      | And so I have a, a Keyboard Maestro macro that will, well, first I have an automator action                                                                              |
+| 48:17      | And so I have a, a [[Keyboard Maestro]] macro that will, well, first I have an automator action                                                                              |
 | 48:26      | that mounts my network drives when it's run as an app.                                                                                                                   |
 | 48:29      | Right.                                                                                                                                                                   |
 | 48:30      | So I've, I've saved this.                                                                                                                                                |
@@ -1179,11 +1179,11 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 48:45      | But, but it's, it's, you know, fairly straightforward.                                                                                                                   |
 | 48:47      | It's just an application.                                                                                                                                                |
 | 48:48      | It mounts my network drives.                                                                                                                                             |
-| 48:49      | I use Keyboard Maestro to choose when to launch that application.                                                                                                        |
+| 48:49      | I use [[Keyboard Maestro]] to choose when to launch that application.                                                                                                        |
 | 48:54      | I used to just put it in my login items on my Mac, but that didn't solve a lot of my problems                                                                            |
 | 49:01      | because it was only doing it when I logged in as opposed to intelligently doing it                                                                                       |
 | 49:06      | whenever I lost a connection to my network drives.                                                                                                                       |
-| 49:10      | And with Keyboard Maestro, it's been fantastic because I,                                                                                                                |
+| 49:10      | And with [[Keyboard Maestro]], it's been fantastic because I,                                                                                                                |
 | 49:14      | I can have it and, and do have it run that at log in, but I also have it check.                                                                                          |
 | 49:19      | And, you know, if, if a volume is one of my network volumes is offline and I am on the Wi-Fi network                                                                     |
 | 49:27      | that is my home Wi-Fi network, then okay, great.                                                                                                                         |
@@ -1197,8 +1197,8 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 49:58      | It's not flawless because networks are not flawless, but it, you know, it, it mitigates a lot                                                                            |
 | 50:04      | of the simple problems that can happen with, you know, just losing when Mac goes to sleep.                                                                               |
 | 50:09      | It doesn't always reconnect when it wakes up.                                                                                                                            |
-| 50:11      | So Keyboard Micro, Keyboard Maestro is, is my, is my friend there.                                                                                                       |
-| 50:16      | And there's so many ways to solve that problem with Keyboard Maestro.                                                                                                    |
+| 50:11      | So Keyboard Micro, [[Keyboard Maestro]] is, is my, is my friend there.                                                                                                       |
+| 50:16      | And there's so many ways to solve that problem with [[Keyboard Maestro]].                                                                                                    |
 | 50:19      | You know, like it has.                                                                                                                                                   |
 | 50:20      | Yes.                                                                                                                                                                     |
 | 50:21      | Commands that you can use.                                                                                                                                               |
@@ -1208,13 +1208,13 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 50:36      | the screen and everything to take it somewhere else.                                                                                                                     |
 | 50:39      | And you want to properly eject your disks like a gentleman.                                                                                                              |
 | 50:43      | And I wrote like a two line AppleScript that does it, you know, it's very simple,                                                                                       |
-| 50:48      | but then I just embed that into Keyboard Maestro.                                                                                                                        |
+| 50:48      | but then I just embed that into [[Keyboard Maestro]].                                                                                                                        |
 | 50:51      | And now it's a thing I can run as part of any automation, like I'm ready to go.                                                                                          |
 | 50:56      | I don't have to go look for some dumb menu bar app or anything.                                                                                                          |
-| 50:59      | I just run a Keyboard Maestro script and the disks eject.                                                                                                                |
+| 50:59      | I just run a [[Keyboard Maestro]] script and the disks eject.                                                                                                                |
 | 51:02      | And I just love that flexibility that it brings.                                                                                                                         |
-| 51:06      | No matter how you want to scratch the itch, there's a way to do it with Keyboard Maestro.                                                                                |
-| 51:10      | Yeah, I think of Keyboard Maestro.                                                                                                                                       |
+| 51:06      | No matter how you want to scratch the itch, there's a way to do it with [[Keyboard Maestro]].                                                                                |
+| 51:10      | Yeah, I think of [[Keyboard Maestro]].                                                                                                                                       |
 | 51:12      | The Maestro part of the name is, is certainly accurate.                                                                                                                  |
 | 51:15      | I think of it as the conductor of, of sort of all of my max automations.                                                                                                 |
 | 51:18      | Keyboard is, is not inaccurate, but it is a limiting descriptor of the app                                                                                               |
@@ -1239,8 +1239,8 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 52:24      | So it's a magic link and the app will give it to you.                                                                                                                    |
 | 52:26      | So it gives you the link and if you launch that magic link in Safari,                                                                                                    |
 | 52:29      | it will trigger whatever the app's going to do.                                                                                                                          |
-| 52:31      | And so you can have Keyboard Maestro launch that magic link instead.                                                                                                     |
-| 52:35      | And I had those magic links wired up via Keyboard Maestro.                                                                                                               |
+| 52:31      | And so you can have [[Keyboard Maestro]] launch that magic link instead.                                                                                                     |
+| 52:35      | And I had those magic links wired up via [[Keyboard Maestro]].                                                                                                               |
 | 52:39      | Anytime I hit a certain MIDI key, which was on this mixer I was using,                                                                                                   |
 | 52:44      | it would then trigger and call the magic link.                                                                                                                           |
 | 52:47      | I moved away from that mixer.                                                                                                                                            |
@@ -1283,7 +1283,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 54:19      | and ever note that we use for different things in the chat room that we use when we live                                                                                 |
 | 54:23      | stream and all of these things that have to, to, to launch when I'm getting ready to do                                                                                  |
 | 54:28      | the show.                                                                                                                                                                |
-| 54:29      | And so I use Keyboard Maestro to launch all of those apps and, and put them in the right                                                                                 |
+| 54:29      | And so I use [[Keyboard Maestro]] to launch all of those apps and, and put them in the right                                                                                 |
 | 54:33      | places on my screen and, and set up my environment so that I can click one button, have it launch                                                                        |
 | 54:40      | all that.                                                                                                                                                                |
 | 54:41      | And then I'm just ready to go.                                                                                                                                           |
@@ -1315,7 +1315,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 55:51      | I mean, that is some of the best automation time you can spend putting those together.                                                                                   |
 | 55:55      | And it is so satisfying.                                                                                                                                                 |
 | 55:57      | I even think it helps your brain because like you sit down and you push a button, whether                                                                                |
-| 56:03      | it be through Keyboard Maestro or a Stream Deck or an F sharp on your keyboard.                                                                                          |
+| 56:03      | it be through [[Keyboard Maestro]] or a Stream Deck or an F sharp on your keyboard.                                                                                          |
 | 56:08      | And suddenly your computer just transforms itself into a machine to do that thing, that                                                                                  |
 | 56:13      | one thing.                                                                                                                                                               |
 | 56:14      | You know, and we were talking earlier about how they're distraction machines.                                                                                            |
@@ -1368,7 +1368,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 58:49      | mode at work.                                                                                                                                                            |
 | 58:50      | Well, why not close out your word processor and, you know, get those distractions off                                                                                    |
 | 58:55      | your desk.                                                                                                                                                               |
-| 58:57      | Definitely close Facebook if that's a thing for you, you know, and Keyboard Maestro just                                                                                 |
+| 58:57      | Definitely close Facebook if that's a thing for you, you know, and [[Keyboard Maestro]] just                                                                                 |
 | 59:02      | makes that all available to you.                                                                                                                                         |
 | 59:04      | Yeah.                                                                                                                                                                    |
 | 59:05      | I actually use [[Bunch]] for this by [[Brett Terpstra]] because it just gives me like a list of the                                                                              |
@@ -1401,10 +1401,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:00:53   | Dave, but you know, we're going to have to have him back on anyway, let's just give him                                                                                  |
 | 01:00:57   | more fuel.                                                                                                                                                               |
 | 01:00:58   | Okay, so Dave, I want you to put that in a browser tab and I want you to come back within                                                                                |
-| 01:01:02   | 180 minutes, but before we leave, give us another cool Keyboard Maestro script you're                                                                                    |
+| 01:01:02   | 180 minutes, but before we leave, give us another cool [[Keyboard Maestro]] script you're                                                                                    |
 | 01:01:10   | running.                                                                                                                                                                 |
 | 01:01:11   | You know, there are those times when you need to paste something and there are two scenarios,                                                                            |
-| 01:01:18   | the Keyboard Maestro solves both of them, but they are different, where you cannot                                                                                       |
+| 01:01:18   | the [[Keyboard Maestro]] solves both of them, but they are different, where you cannot                                                                                       |
 | 01:01:24   | paste like into a browser window or into an application where they have somehow magically                                                                                |
 | 01:01:30   | disabled your ability to invoke the contents of your clipboard drives me crazy number makes                                                                              |
 | 01:01:36   | me that bingo.                                                                                                                                                           |
@@ -1432,7 +1432,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:02:25   | Like, you know, for something short, like a banking account number, whatever it goes                                                                                     |
 | 01:02:28   | very fast, but that whole type clipboard thing is great.                                                                                                                 |
 | 01:02:31   | And then I also, so that's one thing and I don't want to gloss over that because it's                                                                                    |
-| 01:02:36   | super important, but then I also use Keyboard Maestro to be the thing that pastes without                                                                                |
+| 01:02:36   | super important, but then I also use [[Keyboard Maestro]] to be the thing that pastes without                                                                                |
 | 01:02:43   | any style.                                                                                                                                                               |
 | 01:02:44   | I know some apps offer that in the edit menu, but they are inconsistent with it.                                                                                         |
 | 01:02:49   | So I have taken over that, that shortcut or that, that keyboard keystroke and I use command                                                                              |
@@ -1447,7 +1447,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:03:33   | how I live with it.                                                                                                                                                      |
 | 01:03:34   | And that's, again, these are super simple things, but it makes such a difference.                                                                                        |
 | 01:03:38   | I have a question going back to your inserting text by typing.                                                                                                           |
-| 01:03:42   | You said with some delays and pauses, and I know that Keyboard Maestro just has an option                                                                                |
+| 01:03:42   | You said with some delays and pauses, and I know that [[Keyboard Maestro]] just has an option                                                                                |
 | 01:03:46   | for insert text by typing, and then you could just insert the system clipboard, so that                                                                                  |
 | 01:03:51   | would be percent system clipboard with the S and C capitalised, no space, percent sign.                                                                                  |
 | 01:03:55   | But you said with delays and pauses, if you added something to that artificially to do                                                                                   |
@@ -1455,7 +1455,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:04:02   | No, it's just how it works.                                                                                                                                              |
 | 01:04:03   | I am using the action insert text, percent current clipboard percent by typing, and that's                                                                               |
 | 01:04:09   | it.                                                                                                                                                                      |
-| 01:04:10   | But it, yeah, it is insert text by typing, it's the Keyboard Maestro thing, but it's                                                                                     |
+| 01:04:10   | But it, yeah, it is insert text by typing, it's the [[Keyboard Maestro]] thing, but it's                                                                                     |
 | 01:04:13   | just slow about it.                                                                                                                                                      |
 | 01:04:14   | I don't know why it's slow, but it's slow.                                                                                                                               |
 | 01:04:18   | So yeah.                                                                                                                                                                 |
@@ -1470,12 +1470,12 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:04:49   | And I know they're fixing it.                                                                                                                                            |
 | 01:04:50   | I submitted a bug and they said, yeah, we're getting that handled.                                                                                                       |
 | 01:04:53   | But in the meantime, and a guy in the OmniFocus forum turned me on to this idea, I put a conditional                                                                     |
-| 01:04:59   | paste in, in a Keyboard Maestro that says, if the link contains the three slashes in                                                                                     |
+| 01:04:59   | paste in, in a [[Keyboard Maestro]] that says, if the link contains the three slashes in                                                                                     |
 | 01:05:06   | the word OmniFocus, which is the OmniFocus link, then pause point one second and do a                                                                                    |
 | 01:05:12   | backspace.                                                                                                                                                               |
 | 01:05:13   | I have a better one for you there, David.                                                                                                                                |
 | 01:05:16   | All right.                                                                                                                                                               |
-| 01:05:17   | Because OmniFocus, not OmniFocus, Keyboard Maestro has an option, and I'm struggling                                                                                     |
+| 01:05:17   | Because OmniFocus, not OmniFocus, [[Keyboard Maestro]] has an option, and I'm struggling                                                                                     |
 | 01:05:21   | to remember what it's called at this precise moment in time.                                                                                                             |
 | 01:05:24   | But it's something to do with, like, so there's an option somewhere for formatting or similar,                                                                           |
 | 01:05:31   | and it can remove blank space from the start and the end of your text, which will do exactly                                                                             |
@@ -1484,11 +1484,11 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:05:46   | extra line break at the end or something like that.                                                                                                                      |
 | 01:05:49   | And so I will find what that action is and put a link to that action in the show notes.                                                                                  |
 | 01:05:53   | I'm just generally a fan of the idea that you can perform actions on text in the clipboard                                                                               |
-| 01:05:58   | with the Keyboard Maestro.                                                                                                                                               |
+| 01:05:58   | with the [[Keyboard Maestro]].                                                                                                                                               |
 | 01:06:00   | I think that's a, so if you're not aware of that, that gives you a bunch of, like, Swiss                                                                                 |
 | 01:06:05   | Army tools that you might find useful.                                                                                                                                   |
-| 01:06:09   | We haven't even touched on that Keyboard Maestro has a clipboard switcher in it.                                                                                         |
-| 01:06:13   | If you are running Keyboard Maestro for other things, my advice is use its clipboard switcher.                                                                           |
+| 01:06:09   | We haven't even touched on that [[Keyboard Maestro]] has a clipboard switcher in it.                                                                                         |
+| 01:06:13   | If you are running [[Keyboard Maestro]] for other things, my advice is use its clipboard switcher.                                                                           |
 | 01:06:18   | But if you're not, use a clipboard switcher.                                                                                                                             |
 | 01:06:23   | Talking about life-changing additions to your Mac, having a clipboard history is, I mean,                                                                                |
 | 01:06:32   | when I watch people work without it, it's like watching somebody try to type with mittens                                                                                |
@@ -1568,7 +1568,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:10:38   | Our thanks to Hover for their support of the automators and all of Relay FM.                                                                                             |
 | 01:10:44   | Dave, so you were an automator and pro.                                                                                                                                  |
 | 01:10:46   | You've been doing this a long time.                                                                                                                                      |
-| 01:10:47   | I know you do AppleScript, we've just kind of proven your Keyboard Maestro chops.                                                                                       |
+| 01:10:47   | I know you do AppleScript, we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
 | 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that Apple's been                                                                                      |
 | 01:10:56   | pushing now for a few years.                                                                                                                                             |
 | 01:10:58   | What do you think about it and where are you using it?                                                                                                                   |
@@ -1671,7 +1671,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:15:40   | You can, you can choose yours.                                                                                                                                           |
 | 01:15:42   | It turns on do not disturb on my phone.                                                                                                                                  |
 | 01:15:45   | It then gets my, my wifi network name and if it, if I am on my home network, it then                                                                                     |
-| 01:15:53   | launches via a magic link, a Keyboard Maestro workflow on my Mac that turns off, it mutes                                                                                |
+| 01:15:53   | launches via a magic link, a [[Keyboard Maestro]] workflow on my Mac that turns off, it mutes                                                                                |
 | 01:16:06   | my sound and turns off my screen.                                                                                                                                        |
 | 01:16:09   | So if I'm in my office, I tell it nap time, it sets the timer, it sets do not disturb                                                                                    |
 | 01:16:14   | on my thing and then it turns off the screen on my Mac, it mutes the sound and then the                                                                                  |
@@ -1691,7 +1691,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:17:02   | No, I was, um, I'm, I'm just having a little play with it.                                                                                                               |
 | 01:17:04   | Yeah.                                                                                                                                                                    |
 | 01:17:05   | Cause you'll know 29 minutes after.                                                                                                                                      |
-| 01:17:06   | So you can just use Keyboard Maestro, um, have that same macro just keep running, like                                                                                   |
+| 01:17:06   | So you can just use [[Keyboard Maestro]], um, have that same macro just keep running, like                                                                                   |
 | 01:17:11   | how to have a pause and 29 minutes later on mute and I'm done.                                                                                                           |
 | 01:17:14   | Yeah.                                                                                                                                                                    |
 | 01:17:15   | Yeah.                                                                                                                                                                    |
@@ -1712,7 +1712,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:18:09   | It really was a bonus I threw in.                                                                                                                                        |
 | 01:18:11   | If I didn't have to mute the Mac, I wouldn't have bothered with the magic link to keyboard                                                                               |
 | 01:18:15   | maestro.                                                                                                                                                                 |
-| 01:18:16   | But, but yeah, those magic links, not only can Keyboard Maestro trigger them, but keyboard                                                                               |
+| 01:18:16   | But, but yeah, those magic links, not only can [[Keyboard Maestro]] trigger them, but keyboard                                                                               |
 | 01:18:20   | maestro has its own little web server in it so that it can be the recipient of them                                                                                      |
 | 01:18:23   | so that it can then trigger things exactly like this.                                                                                                                    |
 | 01:18:26   | So yeah, I love my nap time shortcut.                                                                                                                                    |
@@ -1893,29 +1893,29 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:26:59   | everything that need to be opened and maintained during the show, which is really, really,                                                                               |
 | 01:27:02   | really useful.                                                                                                                                                           |
 | 01:27:03   | So that certainly makes my life easier.                                                                                                                                  |
-| 01:27:05   | As someone who does this stuff in Keyboard Maestro, I'd be really curious to hear what                                                                                   |
+| 01:27:05   | As someone who does this stuff in [[Keyboard Maestro]], I'd be really curious to hear what                                                                                   |
 | 01:27:08   | you think about it, like in comparison, because it's really another way to do that set up                                                                                |
-| 01:27:12   | stuff you're doing in Keyboard Maestro.                                                                                                                                  |
+| 01:27:12   | stuff you're doing in [[Keyboard Maestro]].                                                                                                                                  |
 | 01:27:14   | Right.                                                                                                                                                                   |
 | 01:27:15   | Yeah.                                                                                                                                                                    |
 | 01:27:16   | I know I did take a look at it and I see it like from a 10,000 foot view, how you're                                                                                     |
 | 01:27:21   | editing this text file that sort of scripts all these things together and ties it all                                                                                    |
 | 01:27:25   | in.                                                                                                                                                                      |
-| 01:27:26   | Like, yeah, because there are things in Keyboard Maestro where they're either not doable                                                                                 |
+| 01:27:26   | Like, yeah, because there are things in [[Keyboard Maestro]] where they're either not doable                                                                                 |
 | 01:27:30   | because the path doesn't exist or more likely they're doable, but you have to jump through                                                                               |
 | 01:27:36   | three different hoops to just get to the one that you wanted, which is similar, which                                                                                    |
 | 01:27:41   | is sort of how my chapters and timestamps thing works, like calculating the time, took                                                                                   |
 | 01:27:47   | a little bit of, oh, I see, that's how I have to do it here, okay.                                                                                                       |
 | 01:27:52   | And so things like, not necessarily that, but I can see we're a bunch with its simplicity                                                                                |
 | 01:27:59   | allows more flexibility, but takes a little bit more of a learning curve.                                                                                                |
-| 01:28:04   | Do you do window management with your setups in Keyboard Maestro, like you put it on the                                                                                 |
+| 01:28:04   | Do you do window management with your setups in [[Keyboard Maestro]], like you put it on the                                                                                 |
 | 01:28:07   | left side or the right side or whatever?                                                                                                                                 |
 | 01:28:10   | You know, I don't, because I use Stay from Cordless Dog, every app that I have has its                                                                                   |
 | 01:28:18   | place on my screen and it doesn't matter what my workflow is.                                                                                                            |
 | 01:28:22   | Like I always know that, you know, Audio Hijack is going to be over there, Mail is going to                                                                              |
 | 01:28:26   | be over here if it's running, Safari is going to be here, those sorts of things.                                                                                         |
 | 01:28:29   | So I use Stay from Cordless Dog to put things in their place when it launches, whether I                                                                                 |
-| 01:28:36   | launch it manually or Keyboard Maestro does it as part of its setup.                                                                                                     |
+| 01:28:36   | launch it manually or [[Keyboard Maestro]] does it as part of its setup.                                                                                                     |
 | 01:28:41   | So that's how I manage that.                                                                                                                                             |
 | 01:28:42   | I did not know about this app.                                                                                                                                           |
 | 01:28:44   | Yes.                                                                                                                                                                     |

@@ -1087,14 +1087,14 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:07:10   | I'm installing it.                                                                                    |
 | 01:07:11   | I mean, I have trouble getting Bunch to stick with me.                                                |
 | 01:07:15   | Brett's a good friend of mine, we've written books together, but since I've already built             |
-| 01:07:19   | all this stuff in Keyboard Maestro, I just can never seem to get around to using Bunch                |
+| 01:07:19   | all this stuff in [[Keyboard Maestro]], I just can never seem to get around to using Bunch                |
 | 01:07:24   | regularly.                                                                                            |
 | 01:07:25   | So maybe that's one of the tricks, I always felt launching them was a bit of a pain.                  |
 | 01:07:30   | So here we go.                                                                                        |
 | 01:07:32   | Yeah.                                                                                                 |
 | 01:07:33   | Yeah.                                                                                                 |
 | 01:07:34   | I mean, if you've got them in [[Keyboard Maestro]], then going back to [[Stephen Millard]], he's also         |
-| 01:07:38   | got [[Conductor]] for Keyboard Maestro, which is to Keyboard Maestro what [[Bypass]] is to                    |
+| 01:07:38   | got [[Conductor]] for [[Keyboard Maestro]], which is to [[Keyboard Maestro]] what [[Bypass]] is to                    |
 | 01:07:45   | Shortcuts in [[Alfred]], it's a workflow that you can download and install and honestly                   |
 | 01:07:51   | just go check Stephen's website for loads of really great stuff because he's also got                 |
 | 01:07:55   | [[Doctor Drafts]], which I feel we have to mention because a lot of the folks listening to the            |
@@ -1111,7 +1111,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:08:45   | Yeah, and the nice thing with these modifiers, I was going to argue, I think one of the reasons       |
 | 01:08:51   | I like [[Alfred]] is because of [[Stephen Millard]] because he keeps writing these amazing workflows          |
 | 01:08:57   | for it that aren't on any other apps, but one of the nice things he did with Bypass,                  |
-| 01:09:01   | he did the same thing with the Keyboard Maestro one is where you can not only activate a short        |
+| 01:09:01   | he did the same thing with the [[Keyboard Maestro]] one is where you can not only activate a short        |
 | 01:09:06   | cover, you can go straight into editing it, if you use a different modifier, I think it's             |
 | 01:09:09   | SC Edit and so it's just really nice to be able to launch all this off of your keyboard.              |
 | 01:09:15   | At the end of the day, the goal, what is the job to be done by these app, it's to allow               |

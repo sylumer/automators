@@ -134,9 +134,9 @@ Rose and David share a collection of their favourite personal automations rangin
 | 04:59      | It's really not, especially PushCut wants to do things properly.                                       |
 | 05:03      | There's no dodgy hacking around to get everything working.                                             |
 | 05:07      | And the brilliance of it coming to the Mac is, if your Mac is already running 24-7 or                  |
-| 05:12      | pretty much running 24-7, for example, to run Keyboard Maestro macros and deal with                  |
+| 05:12      | pretty much running 24-7, for example, to run [[Keyboard Maestro]] Mac cars and deal with                  |
 | 05:16      | [[Hazel]] rules and things like that, well, it's already there.                                            |
-| 05:20      | It's got [[Shortcuts]].                                                                                    |
+| 05:20      | It's got shortcuts.                                                                                    |
 | 05:21      | The vast majority of apps that have shortcut support on iOS have them on Mac OS now.                   |
 | 05:26      | There are naturally some exceptions to that, Safari and so on.                                         |
 | 05:30      | But this means that then your Mac that's always on anyway can also run PushCut.                        |
@@ -148,7 +148,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 05:55      | And it turns out there's a lot of people who have a Mac that's either always on or pretty              |
 | 06:00      | much always on to run these things.                                                                    |
 | 06:04      | And yeah, it's going to be very, very useful, especially when you realise that shortcuts               |
-| 06:08      | for Mac has [[AppleScript]] support, Keyboard Maestro support, all of those things.                       |
+| 06:08      | for Mac has [[AppleScript]] support, [[Keyboard Maestro]] support, all of those things.                       |
 | 06:14      | So you can run these things integrated together from just one tiny little command, which if            |
 | 06:21      | this and that make or even your own webhooks from, say, HomeKit can then run automations               |
 | 06:27      | on your Mac through shortcuts.                                                                         |
@@ -197,7 +197,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 09:04      | Sometimes GPS works, sometimes GPS doesn't work, and so on and so forth.                               |
 | 09:08      | And so I've been working on one singular shortcut that I can use that will help me determine           |
 | 09:15      | if I am at home, which I can then run from any other automation, because of course on                  |
-| 09:21      | the Mac, even in things like Keyboard Maestro and so on, I can run a shortcut and it can               |
+| 09:21      | the Mac, even in things like [[Keyboard Maestro]] and so on, I can run a shortcut and it can               |
 | 09:25      | return a true or a false, and then I can check that output.                                            |
 | 09:30      | And so I've started refining this, and at the moment it starts by getting my Wi-Fi network,            |
 | 09:36      | if there is one.                                                                                       |
@@ -563,18 +563,18 @@ Rose and David share a collection of their favourite personal automations rangin
 | 33:28      | So we're better off spending that time and focus on the other things.                                  |
 | 33:34      | I talk on the show quite often about setups.                                                           |
 | 33:36      | I think that's something that's a big deal to me and historically I've run them through                |
-| 33:42      | Keyboard Maestro, but I've been playing a lot lately with moving those over on my Mac                  |
+| 33:42      | [[Keyboard Maestro]], but I've been playing a lot lately with moving those over on my Mac                  |
 | 33:47      | to shortcuts and it's been a lot of fun because like there's things that shortcuts can do              |
 | 33:54      | now that I never expected it to be able to do, but the idea of a setup is when you're                  |
 | 34:00      | going to start doing a specific kind of work, your windows arrange themselves for you and              |
 | 34:05      | put yourself, you know, they put themselves in the right order and where they need to                  |
 | 34:08      | be.                                                                                                    |
 | 34:09      | It's the kind of stuff that, you know, there's multiple tools for this.                                |
-| 34:13      | I use Keyboard Maestro, Rosie's Bunch, but I've been slowly like exploring, pushing                    |
+| 34:13      | I use [[Keyboard Maestro]], Rosie's Bunch, but I've been slowly like exploring, pushing                    |
 | 34:21      | this into shortcuts and generally it works.                                                            |
 | 34:26      | There's a couple of tricks I need to rely on in Moom.                                                  |
 | 34:29      | Like one of the things you do is you arrange the windows and shortcuts does a lousy job                |
-| 34:33      | at that compared to Keyboard Maestro and Moom doesn't do that at all, but Moom uses                    |
+| 34:33      | at that compared to [[Keyboard Maestro]] and Moom doesn't do that at all, but Moom uses                    |
 | 34:40      | a trick.                                                                                               |
 | 34:41      | I think Brett's the first one to turn me on to this where you just run an [[AppleScript]]                 |
 | 34:46      | on Moom.                                                                                               |
@@ -596,7 +596,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 35:52      | I can do that now easy enough in shortcuts with thanks to the ability to better touch                  |
 | 35:59      | tool shortcuts where you can trigger a keyboard shortcut when you open it.                             |
 | 36:03      | But I have found that it works much better than I expected.                                            |
-| 36:09      | Some of the things that are better than Keyboard Maestro is I don't have to deal with the              |
+| 36:09      | Some of the things that are better than [[Keyboard Maestro]] is I don't have to deal with the              |
 | 36:12      | pause command anymore.                                                                                 |
 | 36:13      | In [[Keyboard Maestro]], I'd always have to put a bunch of pauses in there so everything                   |
 | 36:16      | could catch up for some reason shortcuts is able to just do this stuff in order.                       |
@@ -892,7 +892,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:02:01   | was talking about for doing setups, how the aha moment for me for shortcuts was when I                 |
 | 01:02:07   | realised I could run an AppleScript to arrange my windows using a third-party app. I just             |
 | 01:02:12   | wanted to take a minute to call that out, that concept that if you are facing a problem                |
-| 01:02:19   | with shortcuts or Keyboard Maestro or anything that you're trying to do personal productivity          |
+| 01:02:19   | with shortcuts or [[Keyboard Maestro]] or anything that you're trying to do personal productivity          |
 | 01:02:25   | automation on, you need to look sometimes beyond the obvious solution because for a                    |
 | 01:02:31   | lot of people trying to automate stuff like this, the solution is out there. It just takes             |
 | 01:02:36   | a couple extra steps. One of the big ones I would like to call this AppleScript. If                   |
@@ -918,7 +918,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:04:34   | this so you guys all can change your resolution. Very few people need to do it as often as             |
 | 01:04:38   | I do, but this is an example of the way I solved the problem. Now that I've got that                   |
 | 01:04:43   | little snippet of code, I save it as a TextExpander snippet. I can dump it into a shortcut.           |
-| 01:04:49   | I can dump it into a Keyboard Maestro. I can dump it into a script editor. I can do anything I want    |
+| 01:04:49   | I can dump it into a [[Keyboard Maestro]]. I can dump it into a script editor. I can do anything I want    |
 | 01:04:53   | to run this. I've got it set for both the resolution I want to record and the resolution               |
 | 01:04:59   | that I want to work at so I can change between the two of them. Now I'm off to the races.              |
 | 01:05:05   | Anytime I want to automate that process, I have it implemented across the board. This                  |
@@ -951,9 +951,9 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:07:41   | does it, and it works great, and it toggles it. If I want to go between analog and minutes, it does    |
 | 01:07:48   | that. Again, I've got that thing spread all over the place, and it's just a little thing I call.       |
 | 01:07:54   | There is no automator or shortcut action that does this. There is no keyboard. You can run a           |
-| 01:08:01   | shell script through shortcuts or Keyboard Maestro. Yeah. Well, that's my point, but there is no built |
+| 01:08:01   | shell script through shortcuts or [[Keyboard Maestro]]. Yeah. Well, that's my point, but there is no built |
 | 01:08:08   | in native action to do this. It's too niche. Apple is never going to make that. Once I got the shell   |
-| 01:08:15   | script, then I made a shortcut action, and I made a Keyboard Maestro action. Now I've got one more     |
+| 01:08:15   | script, then I made a shortcut action, and I made a [[Keyboard Maestro]] action. Now I've got one more     |
 | 01:08:21   | little thing in my bag of tricks of automation I can use. I feel like that's the extreme. If I lost    |
 | 01:08:29   | you in that, you're like, I'm not going to do shell scripts. You're growing off the deep and           |
 | 01:08:32   | sparky. There's a flip side of this that's equally important, and that is using built-in               |
@@ -964,7 +964,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:09:11   | Well, I and CleanShot has the ability to custom program your own unique keyboard shortcuts for         |
 | 01:09:18   | everything it does. That's a responsible app made by somebody who gets automation.                     |
 | 01:09:23   | And so what I did is I just gave super obscure keyboard shortcuts to all the stuff I want to do        |
-| 01:09:31   | in CleanShot. And now I can call those as part of a Keyboard Maestro script or using Better Touch      |
+| 01:09:31   | in CleanShot. And now I can call those as part of a [[Keyboard Maestro]] script or using Better Touch      |
 | 01:09:38   | Tools keyboard action. I can call them in shortcuts too. So like now instead of going to get a shell   |
 | 01:09:45   | script, I'm just using a keyboard shortcut, but it works. Yeah. I have a bonus or an unrelated but     |
 | 01:09:55   | useful little trick that I'm going to just mention for folks. Because you mentioned the date and time  |

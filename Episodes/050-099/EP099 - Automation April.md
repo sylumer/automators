@@ -180,7 +180,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 06:40      | you're asking a group of 10 people, you know, our judges, including both of you, in fact,             |
 | 06:45      | like we're just 10 people and we are expecting, you know, many shortcuts submitted by folks.          |
 | 06:50      | It just becomes impossible to say, well, okay, this is a shortcut.                                    |
-| 06:54      | This is a Keyboard Maestro utility.                                                                   |
+| 06:54      | This is a [[Keyboard Maestro]] utility.                                                                   |
 | 06:55      | This is an [[Alfred]] workflow.                                                                           |
 | 06:56      | And look, there's also the guy who came up with the Python script.                                    |
 | 07:00      | Yeah.                                                                                                 |
@@ -499,7 +499,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 27:55      | John was referencing Safari Actions earlier, that's to me one of the biggest offenders                |
 | 27:59      | at this point.                                                                                        |
 | 28:00      | I mean, people want to do stuff with the browser.                                                     |
-| 28:03      | I can make these things to work in Keyboard Maestro, but I can't make them work on shortcuts          |
+| 28:03      | I can make these things to work in [[Keyboard Maestro]], but I can't make them work on shortcuts          |
 | 28:08      | because, you know, of, I guess, background issues.                                                    |
 | 28:12      | Right.                                                                                                |
 | 28:13      | Yeah.                                                                                                 |
@@ -557,7 +557,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 31:51      | it's not there on the Mac.                                                                            |
 | 31:52      | And I know that there are many ways that you can trigger shortcuts actions or shortcuts               |
 | 31:57      | on the Mac from a number of different things, but I think for your less technical user,               |
-| 32:03      | the idea of having to use something like Keyboard Maestro or an AppleScript or something to          |
+| 32:03      | the idea of having to use something like [[Keyboard Maestro]] or an AppleScript or something to          |
 | 32:07      | trigger a shortcut to run automatically is a step too far where they're just not even                 |
 | 32:14      | going to try.                                                                                         |
 | 32:15      | You try and tell somebody what a cron job is and they're just going to run away screaming             |
@@ -858,7 +858,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:00:20   | of snippets, which is something that very much exists for people who are doing programming            |
 | 01:00:25   | and X code and that sort of thing would be fantastic and make the process for power users             |
 | 01:00:30   | a lot easier.                                                                                         |
-| 01:00:31   | Yeah, I mean, using Keyboard Maestro, you can do a lot of that stuff. And it really feels             |
+| 01:00:31   | Yeah, I mean, using [[Keyboard Maestro]], you can do a lot of that stuff. And it really feels             |
 | 01:00:37   | crippling when you get over to shortcuts for Mac and you can't. But I want to talk about              |
 | 01:00:42   | the, the debugging stuff, because I feel like that is a tough needle to thread for Apple              |
 | 01:00:47   | because I agree with everything you said. I think we need better debugging tools, especially          |
@@ -1101,13 +1101,13 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:21:44   | I'm actually looking right now because I built all of my Obsidian automations and keyboard            |
 | 01:21:50   | maestro initially. And I find it really easy because I use, you know, I, you know, the                |
 | 01:21:57   | contextual computing thing that I like to do where if I hit option control command M,                 |
-| 01:22:03   | it opens up a quick conflict palette and Keyboard Maestro that has like everything in my life         |
+| 01:22:03   | it opens up a quick conflict palette and [[Keyboard Maestro]] that has like everything in my life         |
 | 01:22:09   | related to MacSparky, you know, M. And if I type L for, for labs, then there's a bunch               |
-| 01:22:16   | of Keyboard Maestro actions or scripts. What do they call it in Keyboard Maestro? I guess             |
+| 01:22:16   | of [[Keyboard Maestro]] actions or scripts. What do they call it in [[Keyboard Maestro]]? I guess             |
 | 01:22:23   | are they scripts or are they automations?                                                             |
 | 01:22:25   | Macros.                                                                                               |
 | 01:22:26   | Macros. Okay.                                                                                         |
-| 01:22:27   | It's a Keyboard Maestro macro.                                                                        |
+| 01:22:27   | It's a [[Keyboard Maestro]] macro.                                                                        |
 | 01:22:28   | Keyboard maestro macros. I always forget that. But anyway, so I've got them like if                   |
 | 01:22:30   | I want to create a new early access, you know, content for the early access subscribers,              |
 | 01:22:37   | I can hit the magic M, then L, then E, and then it just opens up a field where I can                  |

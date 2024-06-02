@@ -679,7 +679,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 54:44      | this is really good work from the Safari team. I'm really impressed. They've                             |
 | 54:47      | snuck in a couple of features that I hadn't realised were there. And you can also toggle                 |
 | 54:52      | like a read of you now in Safari, which is great. So yeah, I'm just, I'm loving it. It's so good.        |
-| 54:59      | And like browser setups and contexts are things I've historically done in Keyboard Maestro,              |
+| 54:59      | And like browser setups and contexts are things I've historically done in [[Keyboard Maestro]],              |
 | 55:04      | which tied me to the Mac. And now with these tools coming in, I can actually rewrite these               |
 | 55:09      | into shortcuts and use them on an iPad or a phone or Mac, you know, I can use them on any device         |
 | 55:14      | from Apple. And, you know, that's the kind of stuff I like. I like it to get my automation more          |

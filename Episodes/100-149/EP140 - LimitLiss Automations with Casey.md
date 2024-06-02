@@ -840,13 +840,13 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:02:20   | me up from my precious nap time. And so very, very dumb and silly and slightly embarrassing              |
 | 01:02:26   | and honest, but super cool that you can do all of this within shortcuts.                                 |
 | 01:02:30   | Yeah, yeah, I don't use the SSH action in shortcuts to do this. What I do instead is                     |
-| 01:02:37   | I use Keyboard Maestro and Keyboard Maestro has a web trigger option where you can get                   |
-| 01:02:44   | a URL and you can just get contents of URL on that URL and it will run a Keyboard Maestro                |
+| 01:02:37   | I use [[Keyboard Maestro]] and [[Keyboard Maestro]] has a web trigger option where you can get                   |
+| 01:02:44   | a URL and you can just get contents of URL on that URL and it will run a [[Keyboard Maestro]]                |
 | 01:02:49   | macro. And I love this because it means that if my Mac isn't on, the URL still works. So                 |
 | 01:02:56   | the shortcut doesn't fail. Because that's the thing, like if my Mac has shut down for                    |
 | 01:03:02   | some reason, like maybe it's installing updates or whatever, then the shortcuts will fail                |
-| 01:03:08   | if it tries to SSH into something and it can't do it. So instead I use Keyboard Maestro                  |
-| 01:03:13   | because Keyboard Maestro is really great and it will just keep and do all the things                     |
+| 01:03:08   | if it tries to SSH into something and it can't do it. So instead I use [[Keyboard Maestro]]                  |
+| 01:03:13   | because [[Keyboard Maestro]] is really great and it will just keep and do all the things                     |
 | 01:03:18   | for you. So yeah, I really, really like that.                                                            |
 | 01:03:23   | That's really, really good. And I think that's basically it for my fancy pants shortcuts.                |
 | 01:03:28   | So the other one quick thing I wanted to mention was that the Caseta stuff, they have these              |

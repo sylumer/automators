@@ -1398,9 +1398,9 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 57:59      | That would be key.                                                                                |
 | 58:01      | Yeah, folders for the shortcuts would be nice.                                                    |
 | 58:04      | And also just the fact that like when you do something that's tedious,                            |
-| 58:08      | like in, like I think about something like Keyboard Maestro,                                      |
+| 58:08      | like in, like I think about something like [[Keyboard Maestro]],                                      |
 | 58:11      | which is a similar paradigm,                                                                      |
-| 58:13      | but it's very easy and Keyboard Maestro to select multiple items,                                 |
+| 58:13      | but it's very easy and [[Keyboard Maestro]] to select multiple items,                                 |
 | 58:17      | you know, and copy and paste them.                                                                |
 | 58:19      | And you can't do that on Siri shortcuts.                                                          |
 | 58:21      | You have to go back to dragging every individual step in.                                         |

@@ -661,12 +661,12 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 49:43      | wait for Skype to finish launching and then quit Skype so that I could open Zoom or ZenCaster or       |
 | 49:51      | FaceTime Audio and things like that. So that was less than ideal. But that is now finally fixed.       |
 | 49:57      | So I'm very pleased about that. And I'll put a little bit of documentation in the show notes           |
-| 50:02      | to exactly what gets done. And specifically how I use the alert in audio in Keyboard Maestro to        |
+| 50:02      | to exactly what gets done. And specifically how I use the alert in audio in [[Keyboard Maestro]] to        |
 | 50:10      | let me choose those different options. Yeah. Something that's made me really happy lately              |
 | 50:15      | with automation is some of my document automation. And I was just looking, I don't think we've done    |
 | 50:19      | a show on automating Word and pages. Maybe we'll have to do a show on it at some point. But it         |
 | 50:24      | sounds like a plan. I've got a lot of really hacky automation I've put together. I covered this        |
-| 50:30      | in the Keyboard Maestro field guide. So some people may already be aware of some of this. But          |
+| 50:30      | in the [[Keyboard Maestro]] field guide. So some people may already be aware of some of this. But          |
 | 50:34      | there is really no simple way to template out Word and pages. On the window side, there are            |
 | 50:42      | document generation applications built for this. And they just really aren't any on the Mac.           |
 | 50:47      | So I made my own. And what I've done is I've made these document templates like as a lawyer,           |
@@ -674,11 +674,11 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 51:00      | wildcards in the document where I need to replace them. It's like the name of the company and the      |
 | 51:05      | amount of the shares or whatever. But you also have wildcards for like him versus her and his          |
 | 51:13      | versus hers. You have to think about all the different things that can change. And then I've           |
-| 51:17      | created a Keyboard Maestro script. When I trigger it, it gives me a menu of all the variables. So      |
+| 51:17      | created a [[Keyboard Maestro]] script. When I trigger it, it gives me a menu of all the variables. So      |
 | 51:23      | I can just type them in in one screen. And then once I hit go, it goes, it grabs the template          |
 | 51:30      | document. And then it makes a copy of it. And the way it does it is and all of these, you know,        |
 | 51:37      | this is just a very tricky script. So you open the document. And then you pause for two and a          |
-| 51:44      | half seconds, because that's what you always do with Keyboard Maestro is you pause, you know,          |
+| 51:44      | half seconds, because that's what you always do with [[Keyboard Maestro]] is you pause, you know,          |
 | 51:49      | but then I do a command, a keyboard command shift command s, which is the save as command in pages.    |
 | 51:56      | And fortunately, when you do it, it already highlights the name field for the save as so               |
 | 52:03      | then I can, I can take some of the variables and I can rename the document using those variables.      |
@@ -706,7 +706,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 53:56      | pauses in it, it's not immediate, it takes about, you know, about 30 seconds to generate it. But       |
 | 54:01      | it's kind of fun to just watch the screen, zip around and generate these documents for you.            |
 | 54:06      | And this is why you don't really need a virtual system because you program                             |
-| 54:10      | Keyboard Maestro to be your virtual assistant instead.                                                 |
+| 54:10      | [[Keyboard Maestro]] to be your virtual assistant instead.                                                 |
 | 54:12      | Yeah, that is a thing that you typically would pay a virtual assistant to do,                          |
 | 54:16      | that you'd give them the information they generate the document for you. And it's a good               |
 | 54:20      | example of where I don't need a virtual assistant to do that. It just, just happens for me. And        |

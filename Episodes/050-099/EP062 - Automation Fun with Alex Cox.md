@@ -323,7 +323,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 26:44      | like 12 because it's just so much more useful when you're switching between platforms and all           |
 | 26:50      | that stuff just comes along for the ride. And I totally get what you mean for [[Drafts]] like               |
 | 26:56      | as an automation platform. And we never really, I don't know if we ever really acknowledged that        |
-| 27:01      | in the show because we talk about shortcuts, we talk about Keyboard Maestro and [[Hazel]] and all            |
+| 27:01      | in the show because we talk about shortcuts, we talk about [[Keyboard Maestro]] and [[Hazel]] and all            |
 | 27:05      | these after [[Drafts]] itself as a platform for automation. Recently, I've been playing a lot               |
 | 27:11      | with backlinks and using some of this software. And there's a whole action group in [[Drafts]] for          |
 | 27:16      | backlinks that it's already there. I mean, if you just add double brackets around things in Drafts,     |
@@ -854,7 +854,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:24:37   | of, I'll use the silly phrase again, ambient computing, or that great idea that you brought up          |
 | 01:24:44   | with contextual computing and cognitive computing. Yeah, I think that really is something that is       |
 | 01:24:50   | a natural for automators. I can tell you, like, for example, the way I do that with                     |
-| 01:24:55   | them, Keyboard Maestro is I just have three phases of my life. There's MacSparky,                      |
+| 01:24:55   | them, [[Keyboard Maestro]] is I just have three phases of my life. There's MacSparky,                      |
 | 01:25:01   | personal and legal. And if I hold down control option command, and I hit LM or P,                       |
 | 01:25:08   | it just gives me a menu of all the most common things I do in that area of my life. One of them         |
 | 01:25:14   | may be check legal email, you know, I hit one button, and it's a conflict palette. It just              |

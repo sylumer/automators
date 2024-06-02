@@ -302,7 +302,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 14:11      | And once again, you know, web-based automation is something that I need to spend time on.              |
 | 14:16      | I think if we do this show again in a year, I'm probably going to have a lot more web                  |
 | 14:20      | hooks into a lot of this stuff.                                                                        |
-| 14:23      | But for now, I'm running Keyboard Maestro to get the doc, the words into the right place               |
+| 14:23      | But for now, I'm running [[Keyboard Maestro]] to get the doc, the words into the right place               |
 | 14:28      | and then send off a message to the gang saying, Hey, I got this thing.                                 |
 | 14:32      | Please take a look.                                                                                    |
 | 14:33      | Yeah.                                                                                                  |
@@ -790,7 +790,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 43:32      | I don't need to go over all here, but I love calendar blocks.                                          |
 | 43:36      | Shortcuts makes it really easy.                                                                        |
 | 43:38      | There's no other tool in my mind that automates calendars better than shortcuts.                       |
-| 43:42      | As much as I love things like Keyboard Maestro, AppleScript, and all the other stuff, they're         |
+| 43:42      | As much as I love things like [[Keyboard Maestro]], AppleScript, and all the other stuff, they're         |
 | 43:48      | much more fiddly for calendar events than shortcuts.                                                   |
 | 43:52      | In my experience, I don't know if you agree or disagree.                                               |
 | 43:55      | I find shortcuts is just so incredibly easy because it's very simple to just have that                 |
@@ -1026,7 +1026,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 58:30      | Like if I'm going to sit down and edit a podcast ad, I want my computer to look one way.               |
 | 58:35      | If I'm going to sit down and do something else, I want it to look a different way.                     |
 | 58:39      | And I've been evolving on that lately.                                                                 |
-| 58:43      | The last time we checked in on this, I was using Keyboard Maestro and Moom settings because            |
+| 58:43      | The last time we checked in on this, I was using [[Keyboard Maestro]] and Moom settings because            |
 | 58:49      | Moom has all these great settings.                                                                     |
 | 58:53      | And with Moom, you can have pre-configured locations and it's just, it's really clean.                 |
 | 58:59      | So it requires to have a separate app, which I know a lot of people don't want to do.                  |
@@ -1040,12 +1040,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 59:39      | If I want to check in on that stuff, I swipe over and it's there.                                      |
 | 59:43      | And I was having trouble getting those to lay out properly with Moom because it was                    |
 | 59:46      | just so much.                                                                                          |
-| 59:48      | And so what I ended up doing with that was just using the Keyboard Maestro has a command               |
+| 59:48      | And so what I ended up doing with that was just using the [[Keyboard Maestro]] has a command               |
 | 59:53      | to set a window and they've got like preset defaults, but the defaults are pretty big.                 |
 | 59:59      | I actually really laid it out pixel by pixel.                                                          |
 | 01:00:02   | And so you can say put it in this spot is the upper left corner and make it this size.                 |
 | 01:00:09   | And I got them exactly how I wanted them and recorded those numbers.                                   |
-| 01:00:13   | And so I'm actually having Keyboard Maestro do that entire automation for me for that                  |
+| 01:00:13   | And so I'm actually having [[Keyboard Maestro]] do that entire automation for me for that                  |
 | 01:00:19   | setup.                                                                                                 |
 | 01:00:20   | But I use that one quite often.                                                                        |
 | 01:00:23   | Yes.                                                                                                   |
@@ -1073,24 +1073,24 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:01:49   | application folder, which means that I can run it through [[Alfred]] and [[Spotlight]] and Keyboard            |
 | 01:01:54   | Maestro and Bunch.                                                                                     |
 | 01:01:56   | And it works really well.                                                                              |
-| 01:01:57   | What are the pluses and minuses of doing that in Bunch versus Keyboard Maestro for you?                |
+| 01:01:57   | What are the pluses and minuses of doing that in Bunch versus [[Keyboard Maestro]] for you?                |
 | 01:02:02   | Honestly, for me, a lot of the stuff with Bunch is the fact that it's just text.                       |
 | 01:02:08   | So I don't have the extra visual thing of open app.                                                    |
 | 01:02:14   | I can just see that it's opening Safari and it's opening specifically a new window in                  |
-| 01:02:19   | Safari using Keyboard Maestro and it opens Zoom and it opens Audio Hijack and I've just                |
+| 01:02:19   | Safari using [[Keyboard Maestro]] and it opens Zoom and it opens Audio Hijack and I've just                |
 | 01:02:25   | got a list there and it means if I want to search for all the things that open Audio                   |
 | 01:02:29   | Hijack, I can very, very easily find it and I'm not also finding things that have got                  |
 | 01:02:35   | Audio Hijack in the name and so on.                                                                    |
-| 01:02:37   | So I do a lot of things with Keyboard Maestro as well.                                                 |
+| 01:02:37   | So I do a lot of things with [[Keyboard Maestro]] as well.                                                 |
 | 01:02:41   | I just find for switching between statuses or context, I like Bunch just because it's                  |
 | 01:02:49   | my menu bar of I am in this mode, I'm doing this thing, okay, I've done it and now the                 |
 | 01:02:54   | next one.                                                                                              |
 | 01:02:55   | Yeah, I need to make a serious effort with Bunch.                                                      |
 | 01:02:58   | The problem is Bunch came into my life after I had already automated all of this stuff                 |
-| 01:03:03   | in Keyboard Maestro, you know, so I need to make a serious effort with Bunch to see how                |
+| 01:03:03   | in [[Keyboard Maestro]], you know, so I need to make a serious effort with Bunch to see how                |
 | 01:03:12   | that plays.                                                                                            |
-| 01:03:13   | Well, the thing that I had with Bunch as well because Keyboard Maestro now has this feature            |
-| 01:03:17   | because Keyboard Maestro recently had a huge update, which is amazing, is Keyboard Maestro             |
+| 01:03:13   | Well, the thing that I had with Bunch as well because [[Keyboard Maestro]] now has this feature            |
+| 01:03:17   | because [[Keyboard Maestro]] recently had a huge update, which is amazing, is [[Keyboard Maestro]]             |
 | 01:03:21   | has always had the ability to run macros part of macro, but you kind of had to like set                |
 | 01:03:26   | a variable then retrieve a variable to pass information around and or, you know, depending             |
 | 01:03:31   | on what you're doing, it was a bit complicated.                                                        |
@@ -1102,8 +1102,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:03:58   | that I could do with Audio Hijack.                                                                     |
 | 01:04:01   | And things like that are sub-bunches for me.                                                           |
 | 01:04:04   | Well, they're not sub-bunches, they're snippets in Bunch and they would be sub-routines in             |
-| 01:04:09   | Keyboard Maestro.                                                                                      |
-| 01:04:11   | And yeah, so I just, it clicked for me earlier with Bunch that I did with Keyboard Maestro.            |
+| 01:04:09   | [[Keyboard Maestro]].                                                                                      |
+| 01:04:11   | And yeah, so I just, it clicked for me earlier with Bunch that I did with [[Keyboard Maestro]].            |
 | 01:04:18   | Neither of them is the right or the wrong application for this.                                        |
 | 01:04:20   | It's whatever you want to use that works for you.                                                      |
 | 01:04:23   | Yeah, but I still want to, like, I need to dig in on Bunch and find out because it is,                 |
@@ -1117,10 +1117,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:04:53   | Like, usually I'll be clicking at something, typing a note or something, but just in case              |
 | 01:04:57   | I make sure the computer stays awake for 90 minutes and that's all just very easy to                   |
 | 01:05:02   | do with the text command.                                                                              |
-| 01:05:04   | And I tend to trigger Keyboard Maestro Mac curves from Bunch as part of this anyway.                   |
+| 01:05:04   | And I tend to trigger [[Keyboard Maestro]] Mac curves from Bunch as part of this anyway.                   |
 | 01:05:09   | Yeah.                                                                                                  |
-| 01:05:10   | And it's like, and the thing is, you can go further with this or like my Keyboard Maestro,             |
-| 01:05:13   | just as an example, my Keyboard Maestro set up to edit and add, um, it queries me as                   |
+| 01:05:10   | And it's like, and the thing is, you can go further with this or like my [[Keyboard Maestro]],             |
+| 01:05:13   | just as an example, my [[Keyboard Maestro]] set up to edit and add, um, it queries me as                   |
 | 01:05:20   | to what show, like whether it's Mac power users, automators, or focused, and then it                   |
 | 01:05:25   | opens, that's just open the fighter, opens the fighter to the exact folder where those                 |
 | 01:05:28   | files are saved.                                                                                       |
@@ -1130,11 +1130,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:05:47   | shortcuts on the Mac.                                                                                  |
 | 01:05:48   | You can say open Safari, put it on the left side and open pages and put on the right side.             |
 | 01:05:53   | But it doesn't really give you the ability to go in and do much more than that.                        |
-| 01:06:00   | With Keyboard Maestro, you can open a specific web page or open a specific pages document.             |
+| 01:06:00   | With [[Keyboard Maestro]], you can open a specific web page or open a specific pages document.             |
 | 01:06:04   | Yeah, you can do all that with Bunch too.                                                              |
 | 01:06:07   | Like, um, when I open OmniFocus, I don't want to just open OmniFocus, I want to open OmniFocus         |
 | 01:06:12   | to a very specific project or perspective.                                                             |
-| 01:06:17   | And yeah, you can do that, um, with Keyboard Maestro and presumably Bunch too.                         |
+| 01:06:17   | And yeah, you can do that, um, with [[Keyboard Maestro]] and presumably Bunch too.                         |
 | 01:06:22   | That's why I need to spend some time with Bunch.                                                       |
 | 01:06:24   | Yeah.                                                                                                  |
 | 01:06:25   | And, and you can actually do this with shortcuts as well, but to do it in shortcuts, you'll            |
@@ -1192,29 +1192,29 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:09:20   | Well, there will be future content on the Automators about automating team management                  |
 | 01:09:25   | stuff because this is very much on my radar now, and I'm going to be working on that.                  |
 | 01:09:32   | Now we've been focused so far on talking about kind of the automation I'm running these                |
-| 01:09:37   | days in relation to certain tasks, but I just wanted to take a minute to say Keyboard Maestro          |
+| 01:09:37   | days in relation to certain tasks, but I just wanted to take a minute to say [[Keyboard Maestro]]          |
 | 01:09:44   | is just so essential to me.                                                                            |
 | 01:09:47   | I use it for everything.                                                                               |
 | 01:09:50   | It's really my, you know, if everything, what's the saying about hammers and nails?                    |
 | 01:09:55   | Like if you have a hammer, everything looks a nail.                                                    |
-| 01:09:57   | If you have Keyboard Maestro, everything looks like you can solve it.                                  |
-| 01:10:01   | Like Keyboard Maestro Macro.                                                                           |
+| 01:09:57   | If you have [[Keyboard Maestro]], everything looks like you can solve it.                                  |
+| 01:10:01   | Like [[Keyboard Maestro]] Macro.                                                                           |
 | 01:10:02   | Yeah, exactly.                                                                                         |
 | 01:10:03   | I mean, you know, one of the things that changed for me over the last year is I've stopped             |
 | 01:10:08   | trying to be so demanding on an iPad.                                                                  |
 | 01:10:11   | I'm trying to try to treat the iPad kind of the way Apple views it in my opinion.                      |
 | 01:10:15   | So a lot of my more advanced automation, I'm not trying to like jump through a million                 |
 | 01:10:20   | hoops in shortcuts.                                                                                    |
-| 01:10:21   | I'm just writing a Keyboard Maestro script on my Mac and running it there.                             |
+| 01:10:21   | I'm just writing a [[Keyboard Maestro]] script on my Mac and running it there.                             |
 | 01:10:25   | And I spend a lot of time on Mac anyway, so that's fine.                                               |
-| 01:10:28   | But I have just, you know, my Keyboard Maestro automation over the last few years has just             |
+| 01:10:28   | But I have just, you know, my [[Keyboard Maestro]] automation over the last few years has just             |
 | 01:10:35   | kind of exploded because every problem I see seems like I can solve it with some sort                  |
-| 01:10:41   | of Keyboard Maestro script.                                                                            |
+| 01:10:41   | of [[Keyboard Maestro]] script.                                                                            |
 | 01:10:43   | Yes.                                                                                                   |
 | 01:10:44   | Yeah.                                                                                                  |
 | 01:10:45   | I find ideas as well, you know, if I'm, if I'm playing with Bunch, then for the next                   |
 | 01:10:48   | couple of days, everything's a Bunch, well Bunch.                                                      |
-| 01:10:52   | And then if I'm playing with Keyboard Maestro, the next couple of days, everything's a Keyboard        |
+| 01:10:52   | And then if I'm playing with [[Keyboard Maestro]], the next couple of days, everything's a Keyboard        |
 | 01:10:55   | Maestro Macro.                                                                                         |
 | 01:10:56   | And then if I'm in [[Drafts]] for the next couple of days, it's all, it's all draft sections.              |
 | 01:11:01   | And then it's shortcuts.                                                                               |
@@ -1226,25 +1226,25 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:11:22   | application, I'm like, you know, wait, what, that thing that I actually kind of wanted                 |
 | 01:11:25   | to do in this, but I never did because it was just going to be too difficult.                          |
 | 01:11:28   | Well, I can actually do it now in, in, in this application, it'll be super easy.                       |
-| 01:11:34   | And so that's how I often end up with interlocked actions of Keyboard Maestro is calling Bunch         |
-| 01:11:38   | or Bunch is calling Keyboard Maestro or running a shortcut or something like that.                     |
+| 01:11:34   | And so that's how I often end up with interlocked actions of [[Keyboard Maestro]] is calling Bunch         |
+| 01:11:38   | or Bunch is calling [[Keyboard Maestro]] or running a shortcut or something like that.                     |
 | 01:11:42   | Yeah, I totally agree.                                                                                 |
-| 01:11:45   | And but for me on the Mac, Keyboard Maestro is so good.                                                |
+| 01:11:45   | And but for me on the Mac, [[Keyboard Maestro]] is so good.                                                |
 | 01:11:49   | And if you haven't used it because you're intimidated by it, I would recommend taking                  |
 | 01:11:54   | a, you know, go back to listen to some of our prior episodes.                                          |
 | 01:11:57   | I think we've done a good job.                                                                         |
 | 01:11:58   | If you want to throw money at it, I have a really good field guide that I'm proud of                   |
-| 01:12:01   | that I think can get you running on Keyboard Maestro.                                                  |
+| 01:12:01   | that I think can get you running on [[Keyboard Maestro]].                                                  |
 | 01:12:04   | But I get these emails every day from people who buy the field guide and are like, I can't             |
-| 01:12:08   | believe how much stuff I'm able to automate with Keyboard Maestro on my Mac.                           |
+| 01:12:08   | believe how much stuff I'm able to automate with [[Keyboard Maestro]] on my Mac.                           |
 | 01:12:13   | It is just crazy, like I was talking earlier about, like I can go to the Grammarly website             |
-| 01:12:17   | and have Keyboard Maestro find a button that seems to move every time I open the website               |
+| 01:12:17   | and have [[Keyboard Maestro]] find a button that seems to move every time I open the website               |
 | 01:12:22   | and click it based on what it looks like.                                                              |
-| 01:12:25   | And like that's one step in Keyboard Maestro.                                                          |
+| 01:12:25   | And like that's one step in [[Keyboard Maestro]].                                                          |
 | 01:12:28   | And, you know, it's just, it's an essential tool for me as I go through this process.                  |
-| 01:12:35   | And I do tend to lean on that Keyboard Maestro hammer.                                                 |
+| 01:12:35   | And I do tend to lean on that [[Keyboard Maestro]] hammer.                                                 |
 | 01:12:39   | That's probably the reason why I haven't got as good at web automation is because I can                |
-| 01:12:44   | solve so many problems with Keyboard Maestro that I don't bother, you know, it's like,                 |
+| 01:12:44   | solve so many problems with [[Keyboard Maestro]] that I don't bother, you know, it's like,                 |
 | 01:12:48   | okay, this works.                                                                                      |
 | 01:12:49   | I'm good.                                                                                              |
 | 01:12:50   | Yes.                                                                                                   |
@@ -1276,7 +1276,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:31   | In fact, one of the things does it as a checklist to that item in Obsidian saying, where do            |
 | 01:14:36   | you think this belongs, you know, in terms of content?                                                 |
 | 01:14:40   | So it does all of that.                                                                                |
-| 01:14:41   | And all I do is type in one thing and I run all of that with Keyboard Maestro.                         |
+| 01:14:41   | And all I do is type in one thing and I run all of that with [[Keyboard Maestro]].                         |
 | 01:14:45   | But when I'm over on my phone, I have ideas too.                                                       |
 | 01:14:48   | And I do the exact same, I get the exact same result using Drafts.                                     |
 | 01:14:53   | And it's not that hard.                                                                                |
@@ -1287,7 +1287,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:15:16   | So I save that to the exact same folder on my phone.                                                   |
 | 01:15:19   | And it's just solving the problem on different platforms in different ways.                            |
 | 01:15:24   | But I just want to shout out that, you know, shortcuts is great and I'm a big fan.                     |
-| 01:15:30   | But Keyboard Maestro on the Mac and [[Drafts]] on the iPhone and iPad can really help you                  |
+| 01:15:30   | But [[Keyboard Maestro]] on the Mac and [[Drafts]] on the iPhone and iPad can really help you                  |
 | 01:15:34   | sometimes do things that would be otherwise difficult.                                                 |
 | 01:15:38   | I mean, if I get a content idea, what I don't want to do is open up obsidian, navigate to              |
 | 01:15:44   | the right folder, create a new file, run a template and do like 10 steps.                              |
@@ -1429,8 +1429,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:23:35   | But one of the things I wanted to mention recently, [[Stephen Millard]], who's been on the show before,    |
 | 01:23:41   | he's been doing a lot of amazingly cool things recently.                                               |
 | 01:23:45   | So he's done an [[Alfred]] action or [[Alfred]] workflow to integrate with shortcuts.                          |
-| 01:23:52   | More recently, he's done a Keyboard Maestro plug-in for Apple shortcuts, which allows                   |
-| 01:23:55   | you to run a shortcut in Keyboard Maestro.                                                              |
+| 01:23:52   | More recently, he's done a [[Keyboard Maestro]] plug-in for Apple shortcuts, which allows                   |
+| 01:23:55   | you to run a shortcut in [[Keyboard Maestro]].                                                              |
 | 01:23:59   | And it's brilliant.                                                                                    |
 | 01:24:00   | I love it, David.                                                                                      |
 | 01:24:01   | I've actually been using it quite a bit, and I'm really, really impressed with this.                   |

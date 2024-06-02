@@ -846,8 +846,8 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 51:35      | I just press the button when I walk away and it takes care of it for me.                                  |
 | 51:39      | Yeah.                                                                                                     |
 | 51:40      | So one of the things that I'm using this for is actually, and this is part of a longer                    |
-| 51:46      | shortcut that I wrote that is then run through Keyboard Maestro of all things, actually.                  |
-| 51:52      | I could probably have written everything that I needed to do in Keyboard Maestro, but as                  |
+| 51:46      | shortcut that I wrote that is then run through [[Keyboard Maestro]] of all things, actually.                  |
+| 51:52      | I could probably have written everything that I needed to do in [[Keyboard Maestro]], but as                  |
 | 51:55      | it is, I only have my iPad with me and I realised I needed to run a series of actions on my               |
 | 52:00      | Mac that was at home and shut it down and my internet connection wasn't great.                            |
 | 52:05      | So I wasn't confident that I was going to be able to remote desktop in my home internet                   |
@@ -1083,13 +1083,13 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:06:45   | I would recommend Learn [[Hazel]].                                                                            |
 | 01:06:47   | Hazel's a great app, but it really shines when it's managing documents.                                   |
 | 01:06:56   | If you're doing something like shortcuts and you're getting good at it, but you want to                   |
-| 01:06:59   | go level deeper, then I think you go to Keyboard Maestro, which has some more powerful tools.             |
+| 01:06:59   | go level deeper, then I think you go to [[Keyboard Maestro]], which has some more powerful tools.             |
 | 01:07:05   | I know that people will write me saying there's things that shortcuts can do that Keyboard                |
 | 01:07:08   | Maestro can't, but I'm going to assume you've already got a handle on shortcuts when you                  |
-| 01:07:13   | go to Keyboard Maestro and then you can combine them.                                                     |
+| 01:07:13   | go to [[Keyboard Maestro]] and then you can combine them.                                                     |
 | 01:07:17   | The good knowledge of all this, I really think, is that all this stuff at this point builds               |
 | 01:07:21   | on each other.                                                                                            |
-| 01:07:24   | Once you learn shortcuts, maybe you go to Keyboard Maestro, then suddenly things like                     |
+| 01:07:24   | Once you learn shortcuts, maybe you go to [[Keyboard Maestro]], then suddenly things like                     |
 | 01:07:28   | AppleScript, JavaScript, all that stuff becomes additive and you can learn it as you need                 |
 | 01:07:35   | it.                                                                                                       |
 | 01:07:36   | My recommendation if you're getting started with automation, start easy and I can confidently             |
@@ -1104,10 +1104,10 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
 | 01:08:23   | JavaScript is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
-| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any Keyboard Maestro?                   |
+| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
 | 01:08:40   | Well, Shortcuts has got great action support for lots of things and more importantly, those               |
 | 01:08:46   | apps have got action support in Shortcuts, so you can run a [[Drafts]] action on a draft                      |
-| 01:08:51   | or on text, you can run AppleScript, you can run a Keyboard Maestro macro, it's called                    |
+| 01:08:51   | or on text, you can run AppleScript, you can run a [[Keyboard Maestro]] macro, it's called                    |
 | 01:08:55   | Execute Macro, that's the name of the action, but you can do all of these things from the                 |
 | 01:09:00   | other stuff, so if you find that you can just download this bit from here or copy that bit                |
 | 01:09:04   | from there, then you can stick it all together, duct tape, superglue, WD-40, whatever it is               |

@@ -170,7 +170,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 06:29      | That's why the hyper key really comes into play.                                                       |
 | 06:31      | I try to use hyper key shortcuts for global shortcuts.                                                 |
 | 06:35      | I have tons of shortcuts that are triggered in specific apps and I do this largely using               |
-| 06:41      | Keyboard Maestro because you can have scripts that only run when a certain app is active               |
+| 06:41      | [[Keyboard Maestro]] because you can have scripts that only run when a certain app is active               |
 | 06:47      | and then you can apply shortcuts.                                                                      |
 | 06:49      | So when I'm in mail, option D will do something that when I'm in Safari does something different.      |
 | 06:58      | So those key mappings change depending on the application, but for me, a hyper key shortcut            |
@@ -179,7 +179,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 07:14      | The setups is one that's absolutely worthy.                                                            |
 | 07:16      | I think we're going to do a show on setups because I've been thinking about this a lot                 |
 | 07:19      | lately, but just where like, before I start recording today, I hit hyper key plus S, which             |
-| 07:25      | is the setups conflict palette and Keyboard Maestro.                                                   |
+| 07:25      | is the setups conflict palette and [[Keyboard Maestro]].                                                   |
 | 07:28      | And I said typed AU for automators and it loaded all the apps to do a recording of the                 |
 | 07:33      | show and the recording software and turned off the other apps I didn't need.                           |
 | 07:37      | And it just, you know, just set everything up for me.                                                  |
@@ -1074,7 +1074,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:00:49   | as we're going through.                                                                                |
 | 01:00:51   | So I have it set up for that, obviously.                                                               |
 | 01:00:55   | I have different modes with this, so I don't always have it looking show note timestamps,              |
-| 01:01:02   | which is to be clear, that just runs a Keyboard Maestro macro.                                         |
+| 01:01:02   | which is to be clear, that just runs a [[Keyboard Maestro]] macro.                                         |
 | 01:01:06   | Like for example, when I'm recording iOS today, I have it activate different scenes in Ecamm           |
 | 01:01:10   | Live so I can pop up my iPhone or I can pop up my iPad or I can just switch back to just               |
 | 01:01:15   | me.                                                                                                    |
@@ -1093,7 +1093,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:02:15   | so on.                                                                                                 |
 | 01:02:16   | But some of the keyboard shortcuts I want to trigger aren't actually keyboard shortcuts.               |
 | 01:02:19   | And you can't add them to a keyboard shortcut and triggering them via menus, not possible.             |
-| 01:02:24   | So I have to use Keyboard Maestros, click an image and that doesn't necessarily work                   |
+| 01:02:24   | So I have to use [[Keyboard Maestro]]s, click an image and that doesn't necessarily work                   |
 | 01:02:28   | if the window is too small.                                                                            |
 | 01:02:29   | So I'm still figuring that out, but generally I'm reserving it for recording, but it does              |
 | 01:02:35   | make my life a lot easier with that.                                                                   |

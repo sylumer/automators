@@ -550,7 +550,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 28:47      | legal.                                                                                                                                                           |
 | 28:48      | You could definitely do it with an [[AppleScript]], but I did not write an AppleScript for this.                                                                   |
 | 28:52      | With the way, the two ways I did it was with two additional tools.                                                                                               |
-| 28:56      | I did it both with Keyboard Maestro and I did it with TextExpander.                                                                                             |
+| 28:56      | I did it both with [[Keyboard Maestro]] and I did it with TextExpander.                                                                                             |
 | 29:01      | And it wasn't that difficult with either one.                                                                                                                    |
 | 29:04      | I think I guess I would start with TextExpander is the easiest.                                                                                                 |
 | 29:08      | And with TextExpander, you have the, what they call optional selection.                                                                                         |
@@ -586,23 +586,23 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 31:02      | So it's easy to kind of, you know, group it together in your head as you're packing up.                                                                          |
 | 31:06      | Yeah.                                                                                                                                                            |
 | 31:07      | I have a similar issue problem and that is, is solved in my next automation.                                                                                     |
-| 31:13      | But before we get to that, do you want to talk about how you're using Keyboard Maestro                                                                           |
+| 31:13      | But before we get to that, do you want to talk about how you're using [[Keyboard Maestro]]                                                                           |
 | 31:16      | to do a similar thing?                                                                                                                                           |
 | 31:17      | Yeah.                                                                                                                                                            |
 | 31:18      | Keyboard maestro is a little more complicated, but you know, it's also a little more fancy.                                                                      |
-| 31:23      | You know, because Keyboard Maestro gives you a little more of a fancy option.                                                                                    |
+| 31:23      | You know, because [[Keyboard Maestro]] gives you a little more of a fancy option.                                                                                    |
 | 31:27      | And the way I do that is, and I'll share this one as well, there's going to be a lot                                                                             |
 | 31:32      | of downloadable content for this show.                                                                                                                           |
 | 31:34      | The, it's a, it's a, it starts with a prompt for user input.                                                                                                     |
-| 31:40      | And in Keyboard Maestro, you can go ahead and do a lot of ways to do user input.                                                                                 |
+| 31:40      | And in [[Keyboard Maestro]], you can go ahead and do a lot of ways to do user input.                                                                                 |
 | 31:49      | But one of the best ways is multiple user inputs on one text dialogue entry.                                                                                     |
-| 31:55      | I explained all this in the Keyboard Maestro field guide.                                                                                                        |
+| 31:55      | I explained all this in the [[Keyboard Maestro]] field guide.                                                                                                        |
 | 31:57      | If this is foreign to you, you may want to check that out, but, but I'm going to do it                                                                           |
 | 32:00      | in the one you can download too, so you can look at it.                                                                                                          |
 | 32:02      | And one of the interesting things you can do, because it's basically a question for a variable.                                                                  |
 | 32:07      | So you put like, you know, name, favourite colour, and then you would type in green or                                                                             |
 | 32:12      | red or whatever, and it would save that as a variable.                                                                                                           |
-| 32:15      | But in Keyboard Maestro, if you put a zero, then a pipe, and then a one, and the pipe                                                                            |
+| 32:15      | But in [[Keyboard Maestro]], if you put a zero, then a pipe, and then a one, and the pipe                                                                            |
 | 32:21      | is the, the, the shift forward slash, you know, the thing on your keyboard above the                                                                             |
 | 32:27      | forward slash is like a big pipe, it goes up and down.                                                                                                           |
 | 32:29      | But if you go zero pipe one, then it's a checkbox, you know, on the Mac, you've seen checkboxes                                                                  |

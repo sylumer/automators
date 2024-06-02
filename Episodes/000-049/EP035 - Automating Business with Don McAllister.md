@@ -1022,7 +1022,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:00:21   | It just does it basically once the template's set up. It will recreate the folder structure            |
 | 01:00:24   | for you wherever you want.                                                                             |
 | 01:00:26   | Nice.                                                                                                  |
-| 01:00:27   | That's really useful. I've done something similar with Keyboard Maestro, but I don't                   |
+| 01:00:27   | That's really useful. I've done something similar with [[Keyboard Maestro]], but I don't                   |
 | 01:00:29   | have any of the parameters and so on set up. It's basically create this folder with                    |
 | 01:00:33   | these three subfolders in this upper folder. That's as far as complex as I've got. Keyboard            |
 | 01:00:40   | Maestro is, of course, a great tool, but it's maybe not designed for something like                    |
@@ -1040,7 +1040,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:01:39   | complex and quite sophisticated folder structures with lots of information built into them just        |
 | 01:01:44   | using this single tool.                                                                                |
 | 01:01:46   | Yeah. Like Rose, I do this with a keyboard Maestro script, but looking through this,                   |
-| 01:01:50   | there are things happening with this app that I am not doing with Keyboard Maestro. I'm                |
+| 01:01:50   | there are things happening with this app that I am not doing with [[Keyboard Maestro]]. I'm                |
 | 01:01:55   | going to have to check into this. Another one you've got on your list, Don, and it's                   |
 | 01:02:00   | one of my favourite Mac apps, as silly as it sounds, is [[TextSoap]].                                      |
 | 01:02:05   | Oh, yeah. Yeah, yeah. Yeah, I use [[TextSoap]] all the time, all the time. I use it in two                |

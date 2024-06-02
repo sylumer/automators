@@ -466,16 +466,16 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 30:15      | your book there. It's really fun though, just the idea of it knowing that you triggered something       |
 | 30:21      | and now a computer somewhere else in the world is working for you. I find that very empowering.         |
 | 30:26      | I don't know why. Maybe it's just because I'm a nerd. It is pretty awesome. The other thing that        |
-| 30:32      | I know that you use, Jeff, which is a pet love of mine is Keyboard Maestro because keyboard             |
+| 30:32      | I know that you use, Jeff, which is a pet love of mine is [[Keyboard Maestro]] because keyboard             |
 | 30:38      | maestro, of course, is magical. I think if you wanted to do it, then you could probably get it          |
 | 30:43      | to orchestrate an entire musical, but I'm sure you're using it in a lot of novel ways. Can you          |
 | 30:49      | share some of those with us? Okay, well, let me begin by saying that it may be magical, but it's        |
 | 30:53      | also darn confusing for those of us who are not the automated or gods like you and David, because       |
-| 30:58      | the only reason I started to use Keyboard Maestro is because you two talked about it for so long on     |
+| 30:58      | the only reason I started to use [[Keyboard Maestro]] is because you two talked about it for so long on     |
 | 31:03      | this podcast. It's working. And then David came out with his field guidebooks for Here's How You        |
 | 31:08      | Do It. And I'm like, you're basically putting it on a plate and teaching me, I was like, okay,          |
 | 31:12      | I just got to go ahead and do it. So that's now been a year or two now that I've been using it.         |
-| 31:18      | I will admit that when I open up Keyboard Maestro on my Mac, I do sort of have to suck                  |
+| 31:18      | I will admit that when I open up [[Keyboard Maestro]] on my Mac, I do sort of have to suck                  |
 | 31:23      | an air for a little bit because I look at all the power that it has. And I'm like, whoa, what am I      |
 | 31:27      | gonna do here? There's a lot going on here. But when you work through it sometimes with a guide,        |
 | 31:32      | like one of yours, David, I can get through it and I can put together little automations.               |
@@ -489,7 +489,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 32:08      | it just stays right there. But it doesn't mean that I don't use my laptop because when I work at        |
 | 32:13      | home and you know, I tend to work at home at night and on the weekends and stuff. And what,             |
 | 32:17      | you know, I definitely need to access things on my PC, but I don't want to have to lug my PC back       |
-| 32:22      | and forth and everything else. And so what I use is, well, before I talk about Keyboard Maestro,        |
+| 32:22      | and forth and everything else. And so what I use is, well, before I talk about [[Keyboard Maestro]],        |
 | 32:26      | I use something called log me in, which is just one of the many remote access software options          |
 | 32:31      | that are out there, like go to my PC or something like that. And it allows me to access my computer     |
 | 32:36      | from wherever I am, often using a Mac or an iPad. And so when I travel, 99% of the time that I travel,  |
@@ -498,19 +498,19 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 32:53      | like something using the specific document management software I was talking about before,              |
 | 32:57      | I just fire up my iPad and then just use log me in to connect to the PC, which is always on in my       |
 | 33:03      | office and do what I need to do. But getting the access can be a little difficult. And this was a       |
-| 33:09      | perfect use of Keyboard Maestro, especially a skill that you all have talked about before,              |
-| 33:14      | which is Keyboard Maestro's ability to actually look at a part of a screen. Because when you have       |
+| 33:09      | perfect use of [[Keyboard Maestro]], especially a skill that you all have talked about before,              |
+| 33:14      | which is [[Keyboard Maestro]]'s ability to actually look at a part of a screen. Because when you have       |
 | 33:19      | apps and log me in on the Mac as an example of it, it's an app that does not really want to be          |
-| 33:24      | automated. But that's okay, because Keyboard Maestro, let's me get around that. I can just              |
-| 33:28      | tell Keyboard Maestro, you know, when I press one key, I want you to log me into my Mac at my           |
-| 33:34      | office. And if I don't use Keyboard Maestro, that takes like 15 steps of clicking here and              |
+| 33:24      | automated. But that's okay, because [[Keyboard Maestro]], let's me get around that. I can just              |
+| 33:28      | tell [[Keyboard Maestro]], you know, when I press one key, I want you to log me into my Mac at my           |
+| 33:34      | office. And if I don't use [[Keyboard Maestro]], that takes like 15 steps of clicking here and              |
 | 33:40      | moving here and waiting for this and typing this in and doing all that nonsense. But with the shortcut  |
-| 33:46      | through Keyboard Maestro, I can just type one little special combination of keys, and it will           |
+| 33:46      | through [[Keyboard Maestro]], I can just type one little special combination of keys, and it will           |
 | 33:51      | start the program. And then it will wait for, you know, something to appear on this part of the         |
 | 33:56      | screen, which means it's writing for input. And then it can type my username, and it can do this        |
 | 34:00      | and go here and type there, and then get to the PC and log into the PC. And all of those steps that     |
 | 34:05      | I do just about every single day of my life, sometimes multiple times, it just does it automatically.   |
-| 34:12      | And it would not work, but for, well, that magic you talked about of rows of Keyboard Maestro being     |
+| 34:12      | And it would not work, but for, well, that magic you talked about of rows of [[Keyboard Maestro]] being     |
 | 34:17      | able to look. And so that is just such a useful set of actions. And it's something that it took         |
 | 34:22      | me a while to piece it together. And I had to learn that you had to put like a little timer in,         |
 | 34:26      | you know, wait five seconds before you do the next command. But after some trials,                      |
@@ -532,24 +532,24 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 35:40      | one or two seconds more than you needed to, but you overall just save yourself so much time             |
 | 35:45      | that I can hit this keyboard combination and then turn and go to get the brief that I'm                 |
 | 35:48      | going to riot or my, you know, you know, I do whatever I need to get myself into my work mode           |
-| 35:53      | and my Mac because of Keyboard Maestro is going through all the tedious nonsense of getting             |
+| 35:53      | and my Mac because of [[Keyboard Maestro]] is going through all the tedious nonsense of getting             |
 | 35:57      | logged in and I love it. The pause until conditions are met. One of the options there is found          |
 | 36:02      | image condition, which is really great because then you can say, hey, wait until you find,              |
 | 36:07      | found this image, then wait an extra second because sometimes the JavaScript still needs                |
 | 36:11      | a bit of time to load or something and then, and then go and that is super useful. Yeah, yeah.          |
-| 36:16      | That was the first reason I started using Keyboard Maestro was to automate that one task,               |
+| 36:16      | That was the first reason I started using [[Keyboard Maestro]] was to automate that one task,               |
 | 36:20      | which used to drive me crazy, but I've found it useful for other reasons too. I mean, I like the        |
-| 36:24      | application switcher that's part of Keyboard Maestro as an alternative to that to the Mac's             |
+| 36:24      | application switcher that's part of [[Keyboard Maestro]] as an alternative to that to the Mac's             |
 | 36:28      | built-in application switcher. I like that you can do other simple ones like I have a simple            |
 | 36:32      | little automation that every time I use Microsoft Word on my computer and I'm using Word every day      |
 | 36:38      | because I have a 27 inch iMac screen at home. It's a huge screen and Microsoft Word by default          |
 | 36:45      | wants to open in sort of a little window, a smaller window with things, you know, a little              |
-| 36:48      | bit smaller to see. And so I just have a very simple Keyboard Maestro that says anytime you see         |
+| 36:48      | bit smaller to see. And so I just have a very simple [[Keyboard Maestro]] that says anytime you see         |
 | 36:53      | Microsoft Word start, then just pause for a second and a half and then resize the front window to,      |
 | 37:00      | I think I use like 1700 by 1200, which is a nice size on my screen that it doesn't                      |
 | 37:04      | take up the full screen. So I can still sort of get to my desktop on the side there,                    |
 | 37:07      | but it takes up most of my screen and it's perfect. And I, you know, it means that just                 |
-| 37:12      | anytime I start Microsoft Word, Keyboard Maestro worries about putting it into the mode that looks      |
+| 37:12      | anytime I start Microsoft Word, [[Keyboard Maestro]] worries about putting it into the mode that looks      |
 | 37:16      | right for me. And I love that. And so that's a nice little useful command whenever you start            |
 | 37:21      | this application, do X, really cool. And the nice thing about this, Jeff, is you're building a skill    |
 | 37:27      | set around that app. So, you know, I'm sure it took you a while the first time you set up that login    |
@@ -560,11 +560,11 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 37:51      | script and, and then, you know, make changes on that. But it is a, as an automator, I feel like         |
 | 37:59      | these, this is not a skill set you need to build out immediately. You build it gradually. In fact,      |
 | 38:04      | I think that's probably the best way to do it. Agreed. So as somebody though that is relatively         |
-| 38:09      | new to Keyboard Maestro, how did you find that experience of making that first script, like             |
+| 38:09      | new to [[Keyboard Maestro]], how did you find that experience of making that first script, like             |
 | 38:14      | the login script for your, your remote access? Was it, was it overly difficult? I mean,                 |
 | 38:20      | what were your pain points? Well, I mean, what made it easy for me is, you know, following a guide      |
 | 38:25      | first. And again, I feel like I'm trying to compliment you, David. It wasn't my intention,              |
-| 38:28      | but you did have that Keyboard Maestro field guide. So I was able to follow your examples and, you      |
+| 38:28      | but you did have that [[Keyboard Maestro]] field guide. So I was able to follow your examples and, you      |
 | 38:34      | know, do exactly what you do. And once, once I had created some of your, your examples, examples        |
 | 38:40      | that I frankly wasn't going to use in my everyday life, but just seeing how things piece together       |
 | 38:44      | and that you move in components, then that, you know, you got to sort of start, you know,               |
@@ -576,11 +576,11 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 39:07      | somebody else do this? And how can I, how can I, you know, steal what they did copy that and            |
 | 39:12      | just modify it to do what I do? So once, once you sort of see how something works the first time,       |
 | 39:16      | then you can slowly modify it. And that's, and that's absolutely my advice to other folks.              |
-| 39:20      | Because again, if you just purchase Keyboard Maestro and just start using it, you're going to see       |
+| 39:20      | Because again, if you just purchase [[Keyboard Maestro]] and just start using it, you're going to see       |
 | 39:25      | so many commands, you're going to be so overwhelmed that you might be discouraged into not starting.    |
 | 39:29      | But, but actually get in there and do some things. And you're right, I'm no longer scared to try to     |
 | 39:34      | create something to do the next thing. And I realised that there's probably a million things            |
-| 39:38      | Keyboard Maestro could do that I still don't know about yet. But that's okay. I learned a little        |
+| 39:38      | [[Keyboard Maestro]] could do that I still don't know about yet. But that's okay. I learned a little        |
 | 39:43      | bit here in the next month, I learned something else. And before you know it, you're making things      |
 | 39:46      | that are pretty complex. This episode, Automators is brought to you by Doppler. In software             |
 | 39:52      | development, secrets are private pieces of information that are just keys to not protect                |

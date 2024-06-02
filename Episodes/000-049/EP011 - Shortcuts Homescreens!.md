@@ -559,7 +559,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 29:05      | brings me to the Google Doc or the Quip Doc or the Apple Note, because I do, we work in              |
 | 29:12      | different platforms for the different shows I'm on, but it knows that and just gets me               |
 | 29:16      | there.                                                                                               |
-| 29:18      | One of them I'm doing right now is I'm working on a, I'm making a Keyboard Maestro field             |
+| 29:18      | One of them I'm doing right now is I'm working on a, I'm making a [[Keyboard Maestro]] field             |
 | 29:22      | guide Rose.                                                                                          |
 | 29:23      | It's a big secret, but I'm not such a secret anymore, and I'm hoping it'll come out in               |
 | 29:27      | January, but I've been working extensively on working with the app, and I'm spending                 |

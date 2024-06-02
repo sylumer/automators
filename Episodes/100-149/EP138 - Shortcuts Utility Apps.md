@@ -960,11 +960,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 57:50      | So any kind of automation you want to hack together on your Mac with shortcuts.                      |
 | 57:55      | So often, [[BetterTouchTool]] is the secret sauce to get you over the finish line.                     |
 | 58:01      | Yeah.                                                                                                |
-| 58:02      | And just like Keyboard Maestro, it's got some of the same actions that Keyboard Maestro              |
+| 58:02      | And just like [[Keyboard Maestro]], it's got some of the same actions that [[Keyboard Maestro]]              |
 | 58:06      | has.                                                                                                 |
-| 58:07      | But in Keyboard Maestro, you'll need to put them into like a whole macro to use them.                |
+| 58:07      | But in [[Keyboard Maestro]], you'll need to put them into like a whole macro to use them.                |
 | 58:11      | Because like finding an image on the screen or clicking at it, like, that's something                |
-| 58:15      | that you'll do like inside of Keyboard Maestro.                                                      |
+| 58:15      | that you'll do like inside of [[Keyboard Maestro]].                                                      |
 | 58:18      | But you can find an image on your screen using [[BetterTouchTool]] and then use like that output       |
 | 58:26      | and optionally move your mouse to it and things like that just inside of a shortcut.                 |
 | 58:30      | So if you don't need, you know, everything else around it, then you can use that.                    |
@@ -1297,19 +1297,19 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:17:35   | I didn't have the console open, I'm like, backlog.                                                   |
 | 01:17:39   | That app will save me every time, so I can send folks some logs.                                     |
 | 01:17:43   | Another one that we've got to mention, because we would be doing a desk service to ourselves         |
-| 01:17:48   | as well as the rest of the universe if we did not, Keyboard Maestro.                                  |
-| 01:17:52   | Keyboard Maestro is so much more than a Shortcuts utility app, but it can run Shortcuts and           |
+| 01:17:48   | as well as the rest of the universe if we did not, [[Keyboard Maestro]].                                  |
+| 01:17:52   | [[Keyboard Maestro]] is so much more than a Shortcuts utility app, but it can run Shortcuts and           |
 | 01:17:56   | it can be run from Shortcuts.                                                                        |
 | 01:17:59   | And it can also do some other stuff as well, like calculating things, which can include              |
 | 01:18:04   | more than just calculating stuff, like it can filter things and stuff as well.                       |
-| 01:18:10   | Like it's, yeah, Keyboard Maestro definitely deserves a mention.                                      |
+| 01:18:10   | Like it's, yeah, [[Keyboard Maestro]] definitely deserves a mention.                                      |
 | 01:18:17   | We can't talk about it now because we're going to run out of universe if we try and                  |
 | 01:18:21   | fit that into this podcast episode, but yeah, you should be checking it out.                         |
-| 01:18:26   | There's something fundamentally wrong if we have an automator's episode and Keyboard Maestro          |
+| 01:18:26   | There's something fundamentally wrong if we have an automator's episode and [[Keyboard Maestro]]          |
 | 01:18:29   | doesn't get mentioned once, so there you go.                                                         |
 | 01:18:32   | Yeah, exactly.                                                                                       |
 | 01:18:33   | It's like the people on loss that got to type in the numbers every hour.                             |
-| 01:18:36   | We got to mention Keyboard Maestro every episode.                                                     |
+| 01:18:36   | We got to mention [[Keyboard Maestro]] every episode.                                                     |
 | 01:18:39   | Yes.                                                                                                 |
 | 01:18:40   | I also, I've just realised, David, I nearly did automators listeners a huge disservice.              |
 | 01:18:45   | I forgot to mention Mail Assistant.                                                                  |

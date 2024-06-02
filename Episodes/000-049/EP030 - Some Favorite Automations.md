@@ -169,7 +169,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 09:21      | like just like fantastic how they've got this collection box, you just type stuff into it            |
 | 09:25      | and then it creates a card. But still you have to type a bunch of stuff and you have                 |
 | 09:29      | to get the right, you have to get it into the right group and it's still a little fiddly.            |
-| 09:35      | So I decided I want to automate this further. So I have a Keyboard Maestro script. And it's          |
+| 09:35      | So I decided I want to automate this further. So I have a [[Keyboard Maestro]] script. And it's          |
 | 09:43      | called I call it new base camp reference email, very sexy name. And so what I do is I when           |
 | 09:49      | I set up a new project in base camp, I grab the magic email for that project and just                |
 | 09:55      | save it to the copy buffer. And then I, I push a few keys on my keyboard and it fires                |
@@ -190,7 +190,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 11:18      | in the system clipboard, which is holding that magic email address I had copied. And                 |
 | 11:23      | then it types the magic incantation, you know, backslash, base camp filings, which gets it           |
 | 11:28      | into the right group. And then it pauses point two seconds because that is what you do with          |
-| 11:34      | Keyboard Maestro. And then it hits the return key. And so it's not a massively complicated           |
+| 11:34      | [[Keyboard Maestro]]. And then it hits the return key. And so it's not a massively complicated           |
 | 11:42      | script, you know, it's capturing one piece of data from the user. It's pasting the clipboard.        |
 | 11:48      | But it's just doing all this with a couple keystrokes. So it's much faster. It's much                |
 | 11:56      | faster than doing it in contacts the way you know, I initially tried it. And it's slightly           |
@@ -233,13 +233,13 @@ Rose and David share some of their favourite recently created automations rangin
 | 15:01      | And honestly, I don't know if it's worth the trouble. I mean, because how many emails                |
 | 15:06      | do I get when I do a contract somewhere between five and 20? And maybe I should automate it,         |
 | 15:13      | I don't know. But either way, I don't go to that extra step, but it's available to me.               |
-| 15:17      | I mean, what I would do if I were you is I would totally create a Keyboard Maestro macro             |
+| 15:17      | I mean, what I would do if I were you is I would totally create a [[Keyboard Maestro]] macro             |
 | 15:23      | where you have a palette that shows up when you're a mail and it lets you just click forward         |
 | 15:29      | to ACME contract, forward to Zoo contract. And then it would automatically forward it                |
 | 15:35      | pasted in the address and come out shifty or something like that.                                    |
 | 15:39      | Yeah. Although it's just not that much more work to hit the keyboard shortcut to forward             |
 | 15:45      | and just type a couple of letters. Exactly. Yeah. I'm just thinking if there's a palette             |
-| 15:49      | from Keyboard Maestro that's showing up on your screen while you're doing this, when                 |
+| 15:49      | from [[Keyboard Maestro]] that's showing up on your screen while you're doing this, when                 |
 | 15:53      | you're in mail, because then you just click the button and it opens it up and does it                |
 | 15:57      | for you and then you're on the next mail. Yeah. The other thing I do with this, and                  |
 | 16:00      | this is one I believe I've shared on the show. And it's a TextExpander snippet that just            |
@@ -247,8 +247,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 16:13      | it to a TextExpander command E-Link, E-L-I-N-K. So if I type E-L-I-N-K, no matter what app          |
 | 16:20      | I'm in, it looks at my Apple Mail program and says, oh, this is the message he has selected.         |
 | 16:25      | And so if I'm taking some notes and Apple notes about something I'm working on, and                  |
-| 16:31      | I'll say source email, and then I have a Keyboard Maestro script that selects that, creates          |
-| 16:39      | hyperlink and then types E-Link. And so I'm combining Keyboard Maestro and TextExpander.            |
+| 16:31      | I'll say source email, and then I have a [[Keyboard Maestro]] script that selects that, creates          |
+| 16:39      | hyperlink and then types E-Link. And so I'm combining [[Keyboard Maestro]] and TextExpander.            |
 | 16:46      | It's like chocolate and peanut butter. But the idea at the end is that I've got a link               |
 | 16:51      | back to the source email anytime I want. So if I come back and look at it in six months,             |
 | 16:55      | I can just click it and it opens up the source email. Yeah, that's the great thing about             |
@@ -429,7 +429,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 31:04      | if you're interested in automation, it opens up the world. I mean, there's just so much more         |
 | 31:10      | you can do with it. I mean, I've played with the NAS drives in the past and, you know,               |
 | 31:16      | and I thought about all these solutions. But at the end of the day, having a Mac running 24 seven    |
-| 31:21      | with all the cool things like Keyboard Maestro, Apple Mail rules, [[Hazel]], having that running 24      |
+| 31:21      | with all the cool things like [[Keyboard Maestro]], Apple Mail rules, [[Hazel]], having that running 24      |
 | 31:28      | seven really can change your game for automation. So I totally understand why you got one.           |
 | 31:32      | Yeah, absolutely. And also as a note, if you're on the fence about whether or not it's a good        |
 | 31:37      | idea, you could try say a month of Mac stadium, I think it's $40 or $50 for a month. So it's not     |

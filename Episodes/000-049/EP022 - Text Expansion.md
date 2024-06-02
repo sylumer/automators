@@ -1204,8 +1204,8 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 50:14      | of this show and Relay FM.                                                              |
 | 50:16      | So, TextExpander isn't the only game in town, though,                                    |
 | 50:19      | for advanced text expansion type automation.                                             |
-| 50:23      | One of them that certainly comes to mind is Keyboard Maestro.                            |
-| 50:26      | Keyboard Maestro is an application.                                                      |
+| 50:23      | One of them that certainly comes to mind is [[Keyboard Maestro]].                            |
+| 50:26      | [[Keyboard Maestro]] is an application.                                                      |
 | 50:29      | It's another one that we're going to have to probably                                    |
 | 50:31      | give a full show to at some point.                                                       |
 | 50:33      | And it's another application that seems to, like,                                        |
@@ -1214,15 +1214,15 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 50:42      | and we're talking about text expansion as a trigger,                                     |
 | 50:45      | is a typed phrase.                                                                       |
 | 50:47      | And that's one of the many ways you can activate                                         |
-| 50:50      | Keyboard Maestro to do something.                                                        |
+| 50:50      | [[Keyboard Maestro]] to do something.                                                        |
 | 50:52      | Type any phrase and something will happen.                                               |
 | 50:55      | And Rose, do you use that much as a trigger                                              |
-| 50:58      | in Keyboard Maestro?                                                                     |
+| 50:58      | in [[Keyboard Maestro]]?                                                                     |
 | 51:00      | I don't necessarily use it with typed things as triggers,                                |
-| 51:04      | but for example, I have Keyboard Maestro                                                 |
+| 51:04      | but for example, I have [[Keyboard Maestro]]                                                 |
 | 51:07      | renaming documents for me with the sort of thing                                         |
 | 51:10      | that you could do with TextExpander,                                                     |
-| 51:12      | but I've done it with Keyboard Maestro because then                                      |
+| 51:12      | but I've done it with [[Keyboard Maestro]] because then                                      |
 | 51:14      | it can duplicate the document before it renames it.                                      |
 | 51:16      | If it's got a specific file format,                                                      |
 | 51:18      | or if it doesn't have that file format,                                                  |
@@ -1235,11 +1235,11 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 51:35      | It just happens to do that as well as many other things.                                 |
 | 51:38      | Yeah.                                                                                    |
 | 51:39      | One of the ways I tried to use type string triggers                                      |
-| 51:42      | in Keyboard Maestro was for my setups.                                                   |
+| 51:42      | in [[Keyboard Maestro]] was for my setups.                                                   |
 | 51:45      | I have a setup when I podcast.                                                           |
 | 51:47      | I want certain applications open in certain locations,                                   |
 | 51:51      | and I can do all that kind of window management stuff                                    |
-| 51:54      | in Keyboard Maestro.                                                                     |
+| 51:54      | in [[Keyboard Maestro]].                                                                     |
 | 51:56      | And for a while, I had set them up like I would just say                                 |
 | 51:59      | podcast semicolon.                                                                       |
 | 52:01      | And then if I type that word with a semicolon after it,                                  |
@@ -1258,7 +1258,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 52:36      | it just didn't really work for me.                                                       |
 | 52:39      | So I don't really have that many that I use.                                             |
 | 52:42      | The way I eventually solved that problem by the way                                      |
-| 52:44      | in Keyboard Maestro is I just created a palette.                                         |
+| 52:44      | in [[Keyboard Maestro]] is I just created a palette.                                         |
 | 52:47      | And if I hit a, as opposed to a text string, just a keystroke.                           |
 | 52:52      | So I hit a certain incantation of keys on my device,                                     |
 | 52:57      | like a keyboard shortcut, and then it opens a palette.                                   |
@@ -1268,19 +1268,19 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 53:08      | show that we're working on.                                                              |
 | 53:09      | It opens the, it does all the things I needed to do.                                     |
 | 53:12      | And doing that off a palette just makes a lot more sense.                                |
-| 53:15      | So while Keyboard Maestro does use text as a trigger,                                    |
+| 53:15      | So while [[Keyboard Maestro]] does use text as a trigger,                                    |
 | 53:19      | and I'm sure we've got some listeners that are probably                                  |
 | 53:21      | doing some cool stuff with that.                                                         |
 | 53:22      | We'll have to check the forums after the show publishes                                  |
 | 53:25      | to see how people are using it.                                                          |
-| 53:27      | I don't use that very often as a trigger in Keyboard Maestro,                            |
+| 53:27      | I don't use that very often as a trigger in [[Keyboard Maestro]],                            |
 | 53:31      | just because there's so many other triggers                                              |
 | 53:33      | that make more sense to me for most of the stuff                                         |
 | 53:35      | I do with that application.                                                              |
 | 53:37      | Yeah.                                                                                    |
 | 53:38      | I mean, I do use it for other things.                                                    |
 | 53:40      | So for example, if a document SPAs in a specific folder,                                 |
-| 53:43      | then Keyboard Maestro might use that to kick it off,                                     |
+| 53:43      | then [[Keyboard Maestro]] might use that to kick it off,                                     |
 | 53:46      | like attach it to an email so like an email is an attachment                             |
 | 53:49      | and things like that.                                                                    |
 | 53:50      | Yeah.                                                                                    |
@@ -1526,7 +1526,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:05:20   | that you spend creating it.                                                              |
 | 01:05:22   | Keyboard maestro is a good example.                                                      |
 | 01:05:24   | I mean, it's a great app, but sometimes it takes more involvement                        |
-| 01:05:27   | to get the Keyboard Maestro macros working.                                              |
+| 01:05:27   | to get the [[Keyboard Maestro]] macros working.                                              |
 | 01:05:30   | They're powerful, they take longer to develop.                                           |
 | 01:05:32   | But with text expansion, it's just so immediate, the return.                             |
 | 01:05:37   | And if any of the stuff we talked about today sparks any interest in you,                |

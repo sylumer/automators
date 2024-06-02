@@ -195,14 +195,14 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 07:49      | as well.                                                                                                |
 | 07:50      | If you take out any kind of manual typing from there, you eliminate the chance for a typo               |
 | 07:56      | or something like that.                                                                                 |
-| 07:58      | And something else, and David, you turned me on to this part of Keyboard Maestro when                   |
-| 08:04      | I was working on your field guide for Keyboard Maestro, and that's the clipboard history                |
+| 07:58      | And something else, and David, you turned me on to this part of [[Keyboard Maestro]] when                   |
+| 08:04      | I was working on your field guide for [[Keyboard Maestro]], and that's the clipboard history                |
 | 08:08      | switcher.                                                                                               |
 | 08:09      | And that's a wonderful window that shows you the latest things you've pasted, but you can               |
 | 08:14      | make a few favourites out of those that will stick and be available to you.                              |
 | 08:20      | And that includes objects in ScreenFlow.                                                               |
 | 08:23      | And some of you may not know this.                                                                      |
-| 08:24      | If you're a ScreenFlow user out there, and you have Keyboard Maestro, when you copy                    |
+| 08:24      | If you're a ScreenFlow user out there, and you have [[Keyboard Maestro]], when you copy                    |
 | 08:29      | an element, a graphical element from ScreenFlow, it will show up in the clipboard history              |
 | 08:33      | viewers, switcher, I should say, and you're able to paste it repeatedly, and it's a lot                 |
 | 08:38      | faster than having to copy, go back in the timeline, copy that object again, it remains                 |
@@ -227,7 +227,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 09:40      | more accurate and you're safer for the product.                                                         |
 | 09:46      | That's amazing.                                                                                         |
 | 09:47      | How do you trigger all of these automations then, JF?                                                   |
-| 09:50      | Are you using keyboard shortcuts or are you using one of the palettes in Keyboard Maestro?              |
+| 09:50      | Are you using keyboard shortcuts or are you using one of the palettes in [[Keyboard Maestro]]?              |
 | 09:54      | So it's a combination of things.                                                                        |
 | 09:56      | A lot of times I'll use palettes because I find that with a number of macros, it becomes                |
 | 10:01      | difficult to select keyboard shortcuts with the keyboard.                                               |
@@ -235,7 +235,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 10:07      | You can, of course, limit, but you tend to run out of them even if you have carabiner                   |
 | 10:12      | elements and the like, which I do have set up on my machine.                                            |
 | 10:15      | So a lot of times I will hit, in my case, I have assigned F13 to a floating palette from                |
-| 10:23      | Keyboard Maestro that has a few workflows and there are a few macros.                                   |
+| 10:23      | [[Keyboard Maestro]] that has a few workflows and there are a few macros.                                   |
 | 10:26      | And I can simply hit that.                                                                              |
 | 10:28      | I also have the trigger macro by name assigned to a function key on my extended keyboard.               |
 | 10:33      | And with a couple of letters, I can type letters and the macro is brought up and I hit return           |
@@ -254,7 +254,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 11:31      | a day or more, it really makes a difference.                                                            |
 | 11:35      | It does make a huge difference.                                                                         |
 | 11:36      | And that reminds me that when you talk about repeating certain keystrokes or certain elements           |
-| 11:41      | of your macros or your scripts, a Keyboard Maestro has a repeat function, which is                   |
+| 11:41      | of your macros or your scripts, a [[Keyboard Maestro]] has a repeat function, which is                   |
 | 11:45      | really useful.                                                                                          |
 | 11:46      | And I certainly use it myself rather than insert or copy and paste the same element                     |
 | 11:52      | five times.                                                                                             |
@@ -274,7 +274,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 12:45      | when they can just trigger a macro and get it done quickly.                                             |
 | 12:49      | Very generous.                                                                                          |
 | 12:50      | Thank you.                                                                                              |
-| 12:51      | There's a cool feature in Keyboard Maestro where you can make temporary macros.                         |
+| 12:51      | There's a cool feature in [[Keyboard Maestro]] where you can make temporary macros.                         |
 | 12:55      | And I use this in Word all the time.                                                                    |
 | 12:58      | If someone gives me a block of text that's got wonky formatting and you find yourself                   |
 | 13:03      | doing that thing where arrow down, tab key, you know, shift right to, or was it command?                |
@@ -287,13 +287,13 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 13:21      | And then command B to, you know, to fix, make it bold and then return.                                  |
 | 13:26      | It's like you do this like weird dance of like seven keystrokes and you have to do it                   |
 | 13:30      | like 40 times because the way the thing gave you was formatted.                                         |
-| 13:34      | And with Keyboard Maestro, you can just do that once and save that.                                     |
+| 13:34      | And with [[Keyboard Maestro]], you can just do that once and save that.                                     |
 | 13:37      | And then you just turn that into a one button macro.                                                    |
 | 13:40      | It's very similar to what JF is doing, but it's kind of more on the fly.                                |
 | 13:44      | You don't really keep it.                                                                               |
 | 13:45      | You're not going to need it again.                                                                      |
 | 13:46      | But I love the idea of taking a critical look at some of these applications that don't necessarily      |
-| 13:52      | make it easy and finding ways to force it to be easy through these Keyboard Maestro                     |
+| 13:52      | make it easy and finding ways to force it to be easy through these [[Keyboard Maestro]]                     |
 | 13:56      | scripts.                                                                                                |
 | 13:57      | Exactly.                                                                                                |
 | 13:58      | And I think one of the hardest things to do.                                                            |
@@ -593,7 +593,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 32:03      | looking for David, you keep it, you capture it, and then in the replace string, you say,                |
 | 32:07      | now instead of having, for example, David Sparks, I want you to write Sparks comma David, and           |
 | 32:15      | this is something that's very easy to do using regular expressions that would take you several          |
-| 32:20      | steps or maybe a Keyboard Maestro macro to do in any other way.                                         |
+| 32:20      | steps or maybe a [[Keyboard Maestro]] macro to do in any other way.                                         |
 | 32:25      | Yeah, if you think you know search and replace, and you don't know regular expressions, you             |
 | 32:29      | really don't know search and replace, it goes so far beyond what you do.                                |
 | 32:34      | I use them as well, I'm not what I would call a power user, but I know enough to be dangerous,          |

@@ -308,7 +308,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 10:28      | and how do you get from A to B?                                   |
 | 10:30      | And do you also do C as well?                                     |
 | 10:33      | And that's a good chunk of it.                                    |
-| 10:35      | And oftentimes tools like Keyboard Maestro                        |
+| 10:35      | And oftentimes tools like [[Keyboard Maestro]]                        |
 | 10:38      | or Shortcuts abstract some of the difficulties involved.          |
 | 10:41      | I spent a good 15 minutes earlier today                           |
 | 10:44      | attempting to read some specific files with Python.               |

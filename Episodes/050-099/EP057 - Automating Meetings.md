@@ -289,7 +289,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 17:36      | agenda. You've got some agenda items, which are going to change. But the end, I always                    |
 | 17:40      | have on every agenda that I make action items at the bottom with a line for who's responsible             |
 | 17:45      | for each action item. So you could, you could script that out very easily in shortcuts.                   |
-| 17:51      | You could script it on the Mac with a Keyboard Maestro or you can make a TextExpander snippet            |
+| 17:51      | You could script it on the Mac with a [[Keyboard Maestro]] or you can make a TextExpander snippet            |
 | 17:57      | that fills it all in for you in an email. But there's just so, so many of the greatest                    |
 | 18:02      | hits of automators would be useful for making that agenda. And then with shortcuts, you                   |
 | 18:09      | could have an email prepared that's already addressed to the team members. And you could                  |
@@ -853,7 +853,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:04:23   | to add the power to the tool that I don't want in my actual document. Yeah. So I export                   |
 | 01:04:29   | it out. And I'm obviously not going to go through and hand remove all of that that coding.                |
 | 01:04:36   | I could do a search and replace. I mean, this kind of goes back to the stuff we talked about              |
-| 01:04:39   | in the last episode. But the way I chose to do it was Keyboard Maestro has a cool feature,                |
+| 01:04:39   | in the last episode. But the way I chose to do it was [[Keyboard Maestro]] has a cool feature,                |
 | 01:04:45   | which I really should have mentioned in the last episode, where you can perform search                    |
 | 01:04:50   | and replace on text inside the clipboard, which is kind of fun to wrap your head around                   |
 | 01:04:56   | because always you think about search and replace is, yeah, okay, I put the text in                       |

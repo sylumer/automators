@@ -97,7 +97,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 03:18      | Well, you say that, but I also end up spending a lot more time on my automations, relatively         |
 | 03:23      | speaking. Maybe for me, it's not a lot of time, but it would certainly be quicker to                 |
 | 03:28      | do the approach that you're doing, and I think that there is a lot to be said for the recommendation |
-| 03:33      | of, and I will have Keyboard Maestro click at this image when it appears on the screen               |
+| 03:33      | of, and I will have [[Keyboard Maestro]] click at this image when it appears on the screen               |
 | 03:38      | instead of finding out exactly what that's called and how to trigger it via [[AppleScript]]             |
 | 03:42      | or something instead, because your solution works 100% of the time, which means it's                 |
 | 03:47      | a great automation, because that's the whole point of the automation, right? It works,               |
@@ -116,46 +116,46 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 04:46      | there any favourite episodes you've had, Rose, and just things we've covered that really              |
 | 04:52      | stand out for you so far?                                                                            |
 | 04:54      | Yeah. So I would say one of the things that we covered, and a full credit goes to you                |
-| 04:59      | for the field guide on this as well, has been Keyboard Maestro. Keyboard Maestro has been              |
+| 04:59      | for the field guide on this as well, has been [[Keyboard Maestro]]. [[Keyboard Maestro]] has been              |
 | 05:03      | one of those apps that I've been using it for years, but really I haven't been scratching            |
 | 05:07      | the surface. And if I'm being honest, I'm still not really doing much more than scratching           |
 | 05:11      | the surface on it.                                                                                   |
 | 05:12      | You know, I have a couple of macros like centre windows and stuff when I'm doing screencasts         |
 | 05:16      | online shows so that my windows are in the same place between takes and so on. But I                 |
 | 05:20      | haven't done that much with it. But every time I go to look at it, like there's so much              |
-| 05:24      | more that I can learn. And that was episode 28 where we dove into Keyboard Maestro. And               |
+| 05:24      | more that I can learn. And that was episode 28 where we dove into [[Keyboard Maestro]]. And               |
 | 05:29      | I learned so much in preparation for that episode, during that episode, and after that               |
 | 05:33      | episode, you know, it's just really great how much I can keep learning from an application           |
 | 05:38      | that I was already using. But, you know, I can dive in further there.                                |
-| 05:43      | Yeah, I feel like Keyboard Maestro, you know, talking about the shallow automator, it is              |
+| 05:43      | Yeah, I feel like [[Keyboard Maestro]], you know, talking about the shallow automator, it is              |
 | 05:48      | like it is the it is the hammer that that, you know, hammers all nails because it's                  |
 | 05:54      | just so great. It has it's so deep in its integration with the Mac operating system.                 |
 | 06:00      | And there's almost nothing that you can't do with it. And sometimes you will have to                 |
 | 06:06      | resort to like an AppleScript or something a little more advanced. In fact, one of my               |
-| 06:10      | automations I'm going to share in today's show involves Keyboard Maestro and an Apple                 |
+| 06:10      | automations I'm going to share in today's show involves [[Keyboard Maestro]] and an Apple                 |
 | 06:14      | script. But for so much of the things you want to do, it just works. I mean, you talked              |
 | 06:20      | earlier about, you know, find a button on the screen and push it, you know, and one                  |
-| 06:26      | of the things Keyboard Maestro can do is you can just take a quick little screenshot of               |
-| 06:30      | the screen and then you can save that image to a Keyboard Maestro action and just say,                |
+| 06:26      | of the things [[Keyboard Maestro]] can do is you can just take a quick little screenshot of               |
+| 06:30      | the screen and then you can save that image to a [[Keyboard Maestro]] action and just say,                |
 | 06:36      | look for this on the screen and click, you know, in the centre of it. And, you know,                 |
 | 06:41      | I just got done talking that 122 videos in this new field guide, there's a web interface             |
 | 06:46      | where I had to do something 122 times yesterday. And I was not going to sit there and click.         |
-| 06:54      | So I made a quick Keyboard Maestro script that it, you know, I hit command L, which selects           |
+| 06:54      | So I made a quick [[Keyboard Maestro]] script that it, you know, I hit command L, which selects           |
 | 06:58      | the search bar and then it pays in a specific URL. So then I knew I could reset it every             |
 | 07:03      | time. And then I had it look for a specific button on the screen. And then there was a               |
-| 07:08      | little pause and Keyboard Maestro and pauses. Those are, that's, that's the good stuff there.         |
+| 07:08      | little pause and [[Keyboard Maestro]] and pauses. Those are, that's, that's the good stuff there.         |
 | 07:13      | And so it would pause and then it would click the button and then we'd do it again. And              |
 | 07:17      | I, I just hit run and I took the dog for a walk and came back and 122 videos were published          |
-| 07:24      | and it was just that easy, you know, and that's the kind of thing with Keyboard Maestro that          |
-| 07:30      | you forget about. I mean, it's easy to come up with the in automation with Keyboard Maestro           |
+| 07:24      | and it was just that easy, you know, and that's the kind of thing with [[Keyboard Maestro]] that          |
+| 07:30      | you forget about. I mean, it's easy to come up with the in automation with [[Keyboard Maestro]]           |
 | 07:34      | and say, I'm going to set up my screen in a specific way and that's going to be really               |
 | 07:37      | cool. But it's just sometimes the little things that you need to do over and over again, just        |
-| 07:44      | kind of show up in your day. Keyboard Maestro is so flexible, you can generate a script               |
+| 07:44      | kind of show up in your day. [[Keyboard Maestro]] is so flexible, you can generate a script               |
 | 07:50      | to solve that problem very quickly and it will save you a ton of time. I mean, I mean,               |
 | 07:54      | that is true automator stuff right there. Yeah, absolutely. And the other thing that                 |
 | 08:00      | that brings up is, you know, you don't have to create a macro that is going to live, you             |
 | 08:04      | know, with you for the rest of your life. You know, you can create an automation in this             |
-| 08:09      | case, in your case, it was a Keyboard Maestro macro. I often do this with shortcuts. I will           |
+| 08:09      | case, in your case, it was a [[Keyboard Maestro]] macro. I often do this with shortcuts. I will           |
 | 08:13      | create a shortcut for a very specific use case, use it and then delete it, like the                  |
 | 08:17      | thing may never even get a name. But I just use it and then it's done. And you know what?            |
 | 08:23      | That for me is magic. Because you, of course, the automations that you can use day in and            |
@@ -167,19 +167,19 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 08:55      | to do that. So congratulations. Yeah. And the that one had a unique URL and the button               |
 | 09:01      | layout would be different for a different course. So I just trashed it, but it took                  |
 | 09:05      | me all of two minutes to make it. And I mean, I cover that. I sound like I'm a self promoting        |
-| 09:12      | moron today, but I cover that in-depth in the Keyboard Maestro Field Guide. But those                |
+| 09:12      | moron today, but I cover that in-depth in the [[Keyboard Maestro]] Field Guide. But those                |
 | 09:17      | little one-timers, once you understand the application, it's very easy to make them.                 |
-| 09:22      | So it's not really a problem. So what are some of the other categories of Keyboard Maestro           |
+| 09:22      | So it's not really a problem. So what are some of the other categories of [[Keyboard Maestro]]           |
 | 09:28      | work you're doing these days that have changed since we started making the show?                     |
 | 09:33      | Well, one of the things that's changed is I am now using pallets. And I've gone a lot                |
-| 09:38      | more into groups as well. So I have my Keyboard Maestro macro sync between my devices, which         |
+| 09:38      | more into groups as well. So I have my [[Keyboard Maestro]] macro sync between my devices, which         |
 | 09:44      | is a great idea. And if you're not doing this already, I would recommend that you do                 |
 | 09:47      | so. But do it in conjunction with groups, because groups mean that you can say that                  |
 | 09:52      | these macros will only trigger on this device or that device, and you can disable them per           |
 | 09:57      | device, which is great, because then I have a bunch of macros that appear and only run               |
 | 10:01      | on my work machines. But if I think of something when I'm at home and I want to edit my Keyboard     |
 | 10:06      | Maestro macro, I can do that from home, and it has that change on my machine. And making             |
-| 10:12      | my Keyboard Maestro macros global really was a big game changer for me, because that                 |
+| 10:12      | my [[Keyboard Maestro]] macros global really was a big game changer for me, because that                 |
 | 10:17      | just, you know, upped everything just a little bit. But it also meant that some macros that          |
 | 10:22      | I had, you know, I could have the same macro on every device. So I have one that positions           |
 | 10:26      | a window in approximately the centre of my screen. Some people may have heard on a recent            |
@@ -204,19 +204,19 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 11:59      | 80% and then it centres it because that way I always have exactly the same size window               |
 | 12:05      | for all of my screencast. So if I have to do another take, spoiler, when I, when I'm                 |
 | 12:08      | recording my screen, sometimes it's actually to take stitch together, but because I've               |
-| 12:12      | positioned my windows with Keyboard Maestro, it's really hard to tell because, you know,             |
+| 12:12      | positioned my windows with [[Keyboard Maestro]], it's really hard to tell because, you know,             |
 | 12:17      | everything's in the same place, which is great for me.                                               |
 | 12:19      | I'm a base camp user and you know, I'm really torn on base camp. Sometimes I really love             |
 | 12:26      | the service. It's basically a website, you know, file management system and much more.               |
 | 12:33      | But with some of the day job stuff I do, it is very helpful, but it is one of the least              |
 | 12:39      | automation friendly services you could ever have. I mean, it's just, there's just not                |
 | 12:43      | a way to automate a lot of things that you do base camp, which I'm used to automating                |
-| 12:46      | everything. So lately I've been using Keyboard Maestro and I just have that caps lock plus           |
+| 12:46      | everything. So lately I've been using [[Keyboard Maestro]] and I just have that caps lock plus           |
 | 12:52      | B and it's a palette of tools I've developed for base camp and it's, you know, a lot of              |
 | 12:58      | them use unique URLs, which you can automate. Some of it is using Zapier, but I'm just trying        |
 | 13:05      | to find as many ways as I can to automate this process. I'm still not even convinced                 |
 | 13:09      | like some part of me is saying, thinking I should just go to Dev and think or do something           |
-| 13:13      | local on my system, but a Keyboard Maestro is giving me a way to try and add automation              |
+| 13:13      | local on my system, but a [[Keyboard Maestro]] is giving me a way to try and add automation              |
 | 13:21      | to something that really isn't very automation friendly.                                             |
 | 13:23      | Yeah. And I think that that is something else to keep in mind, you know, just because we're          |
 | 13:28      | using an application that maybe itself doesn't have support for all of this automation goodness      |
@@ -241,7 +241,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 15:04      | And that's what people should remember if they're, if they're new to automation or thinking          |
 | 15:07      | their automations aren't very good. I don't care if you don't think it's very good. If               |
 | 15:11      | it automates something, then you're an automator. Congratulations, you get the badge.                |
-| 15:15      | Yeah, that's cool. So Keyboard Maestro, I agree is one of the most interesting topics                |
+| 15:15      | Yeah, that's cool. So [[Keyboard Maestro]], I agree is one of the most interesting topics                |
 | 15:21      | we've been able to cover here. The other one and one you've made reference to already                |
 | 15:25      | is shortcuts. I feel like shortcuts is the spirit animal of this podcast because you                 |
 | 15:31      | and I, as we've mentioned, we started recording the show before Apple announced shortcuts.           |
@@ -251,7 +251,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 15:56      | in that are building tools for shortcuts and hearing their stories and what they've made             |
 | 16:00      | and, and how they're automating. And we're going to have more of those going into the                |
 | 16:03      | future. We're already working on that. But I also just like in general, the way shortcuts            |
-| 16:09      | is the Keyboard Maestro of iOS. And in some ways it's worse and then some ways it's better.          |
+| 16:09      | is the [[Keyboard Maestro]] of iOS. And in some ways it's worse and then some ways it's better.          |
 | 16:15      | But it's been real fun covering that here on the podcast.                                            |
 | 16:19      | Yes, it really has. And, you know, seeing how it's evolved as well, because when shortcuts,          |
 | 16:24      | you know, before shortcuts existed, when it was workflow, you know, everybody was worried            |
@@ -512,7 +512,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 37:39      | Yeah. Interesting.                                                                                   |
 | 37:40      | Yeah.                                                                                                |
 | 37:41      | Well, I'll tell you, I had an automation thing. I kind of went the Rose Mary Orchard direction       |
-| 37:46      | this week. So I created a Keyboard Maestro script to create a new contact in CardHop.                |
+| 37:46      | this week. So I created a [[Keyboard Maestro]] script to create a new contact in CardHop.                |
 | 37:53      | You know, CardHop is a great app. It's like made by the same people, makes Fantastic                 |
 | 37:57      | Al. And it has the same idea of you can type one line of syntax and create a contact the             |
 | 38:02      | same way you can do a calendar event with Fantastic Al. And, you know, kind of getting               |
@@ -537,9 +537,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 39:49      | watching it appear on the screen because sometimes it doesn't always work right when you're opening  |
 | 39:54      | a third-party app and you're trying to type a string of text if the, you know, the application       |
 | 39:58      | open gets behind, you don't get the text in right and it just felt a little clunky to                |
-| 40:03      | me. So I wanted to write directly into the contacts database. Keyboard Maestro does not              |
+| 40:03      | me. So I wanted to write directly into the contacts database. [[Keyboard Maestro]] does not              |
 | 40:09      | have contacts, actions built, you know, it does has a lot of built-in actions, but for               |
-| 40:15      | whatever reason, contacts is not one of them. There's not like a built-in Keyboard Maestro           |
+| 40:15      | whatever reason, contacts is not one of them. There's not like a built-in [[Keyboard Maestro]]           |
 | 40:20      | action to create a new contact or to alter a contact. So I went, you know, to our old                |
 | 40:26      | different AppleScript. And, you know, with a couple of Google searches, I was able to               |
 | 40:29      | very quickly get the syntax to create a new contact card using AppleScript. And I opened            |
@@ -547,34 +547,34 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 40:40      | way I wanted. But this is a case where I want to run an AppleScript that's going to have            |
 | 40:46      | changing data in it. You know, the actual email is going to change and the description               |
 | 40:50      | of the project is going to change. So I wanted to write variables into an AppleScript. And          |
-| 40:56      | I wanted to run the whole thing through Keyboard Maestro because I already have a whole series       |
+| 40:56      | I wanted to run the whole thing through [[Keyboard Maestro]] because I already have a whole series       |
 | 41:01      | of Basecamp related automations built on that caps lock B button. So I have like a palette           |
 | 41:07      | of, and I just wanted to make this one more thing on the palette. So the challenge I had             |
-| 41:12      | was to create a Keyboard Maestro script that would run an AppleScript that would grab               |
-| 41:18      | a variable that I created in Keyboard Maestro and insert it into an AppleScript. And I              |
+| 41:12      | was to create a [[Keyboard Maestro]] script that would run an AppleScript that would grab               |
+| 41:18      | a variable that I created in [[Keyboard Maestro]] and insert it into an AppleScript. And I              |
 | 41:23      | had never done that before. So I had to do some research and I figured it out. So, and               |
 | 41:27      | I'll put the, I made a video on it and I'll put it in the show notes. But the, so what               |
-| 41:32      | I do in the Keyboard Maestro half of it is the first thing I do is I grab a prompt from              |
+| 41:32      | I do in the [[Keyboard Maestro]] half of it is the first thing I do is I grab a prompt from              |
 | 41:38      | user saying what's the name of the project, you know, because it's a, it's a new Basecamp            |
 | 41:42      | project every time I do this. So I type in the name of the project. And then, and then               |
 | 41:48      | it takes the clipboard because it, because when I do this, I will have already copied                |
 | 41:53      | the email from the Basecamp website. So I, you know, they've got one button on the screen.           |
-| 41:58      | In fact, I could automate that with Keyboard Maestro to have it actually look for the                |
+| 41:58      | In fact, I could automate that with [[Keyboard Maestro]] to have it actually look for the                |
 | 42:02      | button and push it, but I haven't done that yet. But so I push the button on the website,            |
 | 42:06      | copies it to my paste buffer. And then I run the script. It says, okay, what's the name              |
 | 42:09      | of the project? So it assigns a variable to the name of the project. And then it grabs               |
 | 42:15      | the clipboard contents and assigns that to a variable as well. And the re, I'll explain              |
-| 42:22      | why I did that in a minute. But so at the end of the process, the Keyboard Maestro half              |
+| 42:22      | why I did that in a minute. But so at the end of the process, the [[Keyboard Maestro]] half              |
 | 42:26      | of this is I've created two variables. One is the name of the project. One is the magic              |
-| 42:31      | email address. And then I run it a AppleScript. And the way you get Keyboard Maestro variables      |
-| 42:38      | into an AppleScript is a AppleScript to Keyboard Maestro. There's actually a Keyboard              |
+| 42:31      | email address. And then I run it a AppleScript. And the way you get [[Keyboard Maestro]] variables      |
+| 42:38      | into an AppleScript is a AppleScript to [[Keyboard Maestro]]. There's actually a Keyboard              |
 | 42:43      | Maestro is AppleScript addressable. So you can set a AppleScript variable to the contents          |
-| 42:52      | of a variable from Keyboard Maestro. So all you do is say, you know, get or set magic                |
+| 42:52      | of a variable from [[Keyboard Maestro]]. So all you do is say, you know, get or set magic                |
 | 42:58      | email, which is the magic email address to the, the variable, you know, clipboard email              |
-| 43:06      | that I had in Keyboard Maestro. So all I'm doing in that step is grabbing a variable                 |
-| 43:10      | out of Keyboard Maestro, inserting it into memory for AppleScript. And I do that for                |
+| 43:06      | that I had in [[Keyboard Maestro]]. So all I'm doing in that step is grabbing a variable                 |
+| 43:10      | out of [[Keyboard Maestro]], inserting it into memory for AppleScript. And I do that for                |
 | 43:14      | both of those. So it's a, it's like a three step keyboard, AppleScript to grab the variables        |
-| 43:20      | out of Keyboard Maestro. Then once I have those, I'm golden, you know, I can just run                |
+| 43:20      | out of [[Keyboard Maestro]]. Then once I have those, I'm golden, you know, I can just run                |
 | 43:26      | the typical create a new contact AppleScript command. And mine is very simple because I             |
 | 43:32      | don't have email address. I'm sorry, I don't have phone numbers and, and physical addresses.         |
 | 43:37      | All I'm doing is one email address and the name of the organisation. And when you make               |
@@ -771,7 +771,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 55:51      | to Catalyst will be enough that we can run shortcuts on the Mac, and I'm really hoping               |
 | 55:57      | the answer is yes.                                                                                   |
 | 55:58      | I'm not confident it is, but I'm being an internal optimist and hoping it is.                        |
-| 56:04      | I have to wonder with the Mac, because we got talking about earlier Keyboard Maestro                 |
+| 56:04      | I have to wonder with the Mac, because we got talking about earlier [[Keyboard Maestro]]                 |
 | 56:11      | and how you can literally script anything on your Mac.                                               |
 | 56:15      | What is the necessity of shortcuts?                                                                  |
 | 56:18      | I think it's going to be more limited than what we can already do, but it does offer                 |

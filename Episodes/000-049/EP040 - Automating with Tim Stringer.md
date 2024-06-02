@@ -137,7 +137,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 03:56      | on behind the scenes and sort of the nuts and bolts that hold everything together.                       |
 | 04:01      | Now what platforms are you automating on today?                                                          |
 | 04:07      | There's a variety.                                                                                       |
-| 04:08      | The three main ones, I've got the Keyboard Maestro has been a big favor to mine on the                   |
+| 04:08      | The three main ones, I've got the [[Keyboard Maestro]] has been a big favor to mine on the                   |
 | 04:14      | Mac for many, many years.                                                                                |
 | 04:16      | And that's, that's when I continue to, I think I'm into several hundred macros on there                  |
 | 04:22      | and it just continues to deliver.                                                                        |
@@ -166,7 +166,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 05:48      | And of course, you're going to have a bunch of online tools to keep that running.                        |
 | 05:53      | But we haven't had a lot of guests talk about, you know, the online-based automation and                 |
 | 05:58      | where do you draw the line?                                                                              |
-| 05:59      | Where do you decide something is a Keyboard Maestro script versus something that you                     |
+| 05:59      | Where do you decide something is a [[Keyboard Maestro]] script versus something that you                     |
 | 06:03      | create in Zapier?                                                                                        |
 | 06:04      | And I'm looking forward to hearing from you today about some of your automations and where               |
 | 06:08      | you draw that line.                                                                                      |
@@ -181,12 +181,12 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 06:46      | on where I'm physically located or what time of day it is or something like that.                        |
 | 06:51      | And then once I have a clear picture of what I want to create, it's much easier to decide,               |
 | 06:56      | okay, what are the tools in my toolbox that are going to facilitate this?                                |
-| 07:02      | And sometimes I might say, okay, this is definitely something to do in Zapier or Keyboard Maestro        |
+| 07:02      | And sometimes I might say, okay, this is definitely something to do in Zapier or [[Keyboard Maestro]]        |
 | 07:06      | or shortcuts.                                                                                            |
 | 07:09      | And what I've been doing more and more recently is actually creating automations that combine            |
 | 07:13      | the tools.                                                                                               |
 | 07:15      | So there might be, I can talk about one in a moment about a shortcut that triggers a                     |
-| 07:21      | Keyboard Maestro automation on the Mac and kind of gives me the best of both worlds.                     |
+| 07:21      | [[Keyboard Maestro]] automation on the Mac and kind of gives me the best of both worlds.                     |
 | 07:26      | So, but I think that's a key distinction is just coming up with the concept of what you                  |
 | 07:31      | want to build, get creative, don't let the implementation details bog you down.                          |
 | 07:37      | And then say, once you have that, is this possible to build the way I want it?                           |
@@ -403,7 +403,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 19:39      | So one use case there is I work at a co-working space in downtown Vancouver a couple of days             |
 | 19:45      | a week.                                                                                                  |
 | 19:46      | And when I leave my desk, then I want to make sure my Mac gets locked so it'll trigger a                 |
-| 19:52      | Keyboard Maestro script once I leave that if I've been gone for more than 30 seconds                     |
+| 19:52      | [[Keyboard Maestro]] script once I leave that if I've been gone for more than 30 seconds                     |
 | 19:58      | and actually lock the computer there.                                                                    |
 | 20:01      | So I've found that's very useful as well and that's something I've been doing with push                  |
 | 20:04      | cut as well.                                                                                             |
@@ -563,12 +563,12 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 29:48      | It puts the Apple TV to sleep.                                                                           |
 | 29:50      | So if there's music playing that stops the music, it uses HomeKit to adjust the lighting                 |
 | 29:55      | in my office here.                                                                                       |
-| 29:58      | And then it triggers a Keyboard Maestro shortcut.                                                        |
+| 29:58      | And then it triggers a [[Keyboard Maestro]] shortcut.                                                        |
 | 30:02      | And the specific one it triggers depends on what the upcoming meeting is.                                |
 | 30:06      | So it's actually looking at the calendar.                                                                |
 | 30:09      | If I'm doing something for Learn OmniFocus, I actually use a different user account on                   |
 | 30:12      | my Mac.                                                                                                  |
-| 30:14      | So it's a different Keyboard Maestro macro entirely.                                                     |
+| 30:14      | So it's a different [[Keyboard Maestro]] macro entirely.                                                     |
 | 30:20      | But either way, it'll go through a whole sequence of things that involves, if it's a client              |
 | 30:25      | meeting, it's going to create a new note and bear with the date of the meeting.                          |
 | 30:29      | And it's going to adjust the camera settings.                                                            |
@@ -576,7 +576,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 30:36      | It's going to turn on the Do Not Disturb if it's not on already.                                         |
 | 30:39      | So it goes through a whole sequence.                                                                     |
 | 30:41      | And the nice thing is if I think of some more things that I'd like to happen, I can just                 |
-| 30:45      | go into Keyboard Maestro and add that to the list.                                                       |
+| 30:45      | go into [[Keyboard Maestro]] and add that to the list.                                                       |
 | 30:49      | And this kind of came out of the way I've done this in the past is to have a checklist                   |
 | 30:53      | and OmniFocus that I go through and I'm, for instance, preparing to do a call like this.                 |
 | 30:58      | And it was kind of getting tedious and there's quite a long list of things just to make sure             |
@@ -587,7 +587,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 31:18      | I can just speak those words and everything just magically happens and I just sit back                   |
 | 31:25      | and enjoy the show.                                                                                      |
 | 31:26      | Yeah, I do something very similar before I podcast and it was the exact same problem                     |
-| 31:30      | I had, a checklist, I'm like, why am I manually doing all this stuff when Keyboard Maestro               |
+| 31:30      | I had, a checklist, I'm like, why am I manually doing all this stuff when [[Keyboard Maestro]]               |
 | 31:36      | could do it for me?                                                                                      |
 | 31:38      | And it's actually better more accurately put the windows exactly where you want them and                 |
 | 31:43      | make sure you never forget anything.                                                                     |
@@ -595,19 +595,19 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 31:49      | One of the things you said, though, I'd like to unpack a little bit is you said you trigger              |
 | 31:52      | it by voice and that's on your Mac, right?                                                               |
 | 31:55      | Yep, that's on the, well, I trigger it actually on the iPhone typically or the iPad.                     |
-| 32:00      | So how does it go from triggering it on your iPhone to Keyboard Maestro performing actions?              |
-| 32:07      | So that's where it's, I've got it set up to trigger based on a URL in Keyboard Maestro.                  |
+| 32:00      | So how does it go from triggering it on your iPhone to [[Keyboard Maestro]] performing actions?              |
+| 32:07      | So that's where it's, I've got it set up to trigger based on a URL in [[Keyboard Maestro]].                  |
 | 32:13      | And so this is essentially a public URL, but it's long and complicated.                                  |
 | 32:17      | So unless someone happened to find it in some document or something somewhere, it's not                  |
 | 32:23      | likely to be triggered by anyone except for me and anyone I happen to share with.                        |
 | 32:29      | So it's really just a matter of, within the shortcut, there's just a URL command and it                  |
-| 32:36      | causes Keyboard Maestro to wake up and do its things.                                                    |
+| 32:36      | causes [[Keyboard Maestro]] to wake up and do its things.                                                    |
 | 32:40      | And that's what's, that was really an aha moment when I realised that was possible because               |
-| 32:45      | there's certain things that can be done in shortcuts, but can be done in Keyboard Maestro                |
-| 32:50      | and there's things that can't be done in Keyboard Maestro, but can be done in shortcuts.                 |
+| 32:45      | there's certain things that can be done in shortcuts, but can be done in [[Keyboard Maestro]]                |
+| 32:50      | and there's things that can't be done in [[Keyboard Maestro]], but can be done in shortcuts.                 |
 | 32:56      | So this way I can easily, easily create something that uses the best of both technologies.               |
 | 33:02      | And if I wanted to get really fancy, I could even have his app here, his app that triggers               |
-| 33:06      | a Keyboard Maestro or through PushCutts, it could even trigger something to happen on                     |
+| 33:06      | a [[Keyboard Maestro]] or through PushCutts, it could even trigger something to happen on                     |
 | 33:11      | the iOS device.                                                                                          |
 | 33:12      | So it's kind of connecting all of these technologies that on the surface seem rather separate,           |
 | 33:19      | but with a little bit of wizardry that once you've done it's actually not that difficult                 |
@@ -615,19 +615,19 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 33:27      | It suddenly gives this whole integrated system that's, yeah, just where I can kind of choose             |
 | 33:33      | the best pieces of all of these different technologies.                                                  |
 | 33:36      | Yeah, the interesting point about that is this URL triggers are recognised by all three                  |
-| 33:42      | of these automation platforms, online shortcuts and Keyboard Maestro.                                    |
+| 33:42      | of these automation platforms, online shortcuts and [[Keyboard Maestro]].                                    |
 | 33:48      | So it gives you a universal trigger that can go across them.                                             |
 | 33:53      | And if you're struggling right now with something to do that, you should look into these URL             |
 | 33:58      | triggers, because that's a great solution.                                                               |
 | 34:02      | I've been using URL triggers quite a bit recently, especially combined with the URL triggers             |
-| 34:07      | for Keyboard Maestro.                                                                                    |
+| 34:07      | for [[Keyboard Maestro]].                                                                                    |
 | 34:08      | You can specify if it should trigger on all computers or just one computer.                              |
 | 34:12      | And there are some things that I want to use on all of my computers if they're online,                   |
 | 34:17      | including the ones that work, versus I'm quite happy for it to just run on the one at home               |
 | 34:23      | and hopefully the one at home is still running.                                                          |
 | 34:27      | It's a very useful feature and I've been very much enjoying my experiments with it, especially           |
 | 34:32      | I at one point had something, I've got rid of it now, but I had shortcuts triggering Keyboard            |
-| 34:38      | Maestro and when Keyboard Maestro was finished, it was then triggering PushCut so that I would           |
+| 34:38      | Maestro and when [[Keyboard Maestro]] was finished, it was then triggering PushCut so that I would           |
 | 34:42      | know that it had finished.                                                                               |
 | 34:43      | So I was having one device talk to another, which was then talking back, which was great                 |
 | 34:49      | fun.                                                                                                     |
@@ -642,7 +642,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 35:14      | Yeah.                                                                                                    |
 | 35:15      | Oh, no, I think the sky's the limit once we have all these connections through the URL                   |
 | 35:19      | shortcuts.                                                                                               |
-| 35:20      | I have to admit, though, for me, the setup shortcuts like all the Keyboard Maestro stuff                 |
+| 35:20      | I have to admit, though, for me, the setup shortcuts like all the [[Keyboard Maestro]] stuff                 |
 | 35:24      | to prepare for podcasting or doing one of these things, I really, since I've got a                       |
 | 35:30      | Stream Deck in my life, I've just got a row of buttons dedicated to those.                               |
 | 35:33      | And there's something very satisfying about sitting down and pressing a button on the                    |
@@ -860,7 +860,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 48:11      | email regularly, at least it's bringing that to the forefront and I just deal with it and                |
 | 48:16      | then I remove it from the queue and Push Over and I'm good to go at that point.                          |
 | 48:20      | When I meet automators, listeners at conferences and whatnot, often they're very deep into               |
-| 48:26      | shortcuts and Keyboard Maestro and like TextExpander and the other kind of usual suspects               |
+| 48:26      | shortcuts and [[Keyboard Maestro]] and like TextExpander and the other kind of usual suspects               |
 | 48:32      | on the Apple platforms.                                                                                  |
 | 48:35      | Rarely are they trying any of this cloud stuff and I really would like you, if you're listening          |
 | 48:39      | to this right now, challenge you to go out, set up and if this, then that account may                    |
@@ -907,7 +907,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 51:19      | Now I would like to have one of those that can also run the 15 meter ethernet cable down                 |
 | 51:23      | my hallway for me because we don't have an ethernet drop point in the bedroom where I                    |
 | 51:27      | record and so I've run an ethernet cable down the hallway and under the door and when                    |
-| 51:31      | Keyboard Maestro can do that, then I'm going to pop open the champagne.                                  |
+| 51:31      | [[Keyboard Maestro]] can do that, then I'm going to pop open the champagne.                                  |
 | 51:34      | In the meantime, it can do the software side of things nicely though.                                    |
 | 51:37      | You just need to kind of use what's your vacuum cleaner called again, then maybe you can hook            |
 | 51:42      | it onto that and send it down the hallway.                                                               |

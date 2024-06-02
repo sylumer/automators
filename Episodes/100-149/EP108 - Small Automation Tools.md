@@ -106,7 +106,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:20      | we're going to be talking about small automation tools.             |
 | 01:23      | I mean, quite often on the show,                                    |
 | 01:25      | we get down the rabbit hole of [[AppleScript]]                          |
-| 01:27      | or Keyboard Maestro or one of the big players                       |
+| 01:27      | or [[Keyboard Maestro]] or one of the big players                       |
 | 01:31      | in automation space that we like to cover,                          |
 | 01:34      | but also, Rose and I use a lot of little tools for automation.      |
 | 01:38      | None of them really get their own show,                             |
@@ -786,7 +786,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 29:43      | was mapping moving messages to different mailboxes via Better       |
 | 29:51      | Touch Tools chain commands where you could have, you can chain      |
 | 29:54      | different commands together in [[BetterTouchTool]].                   |
-| 29:57      | I mean, it's like a little mini version of Keyboard Maestro in      |
+| 29:57      | I mean, it's like a little mini version of [[Keyboard Maestro]] in      |
 | 30:00      | that sense.                                                         |
 | 30:01      | Some other stuff I've done with [[BetterTouchTool]].                  |
 | 30:04      | Man, there's just so much over the years.                           |
@@ -904,7 +904,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 35:26      | somewhere else.                                                     |
 | 35:28      | But the problem with that is that the spaces stuff doesn't          |
 | 35:32      | have API, which is how, you know, app developers would talk         |
-| 35:36      | to it, which is why Keyboard Maestro and so many other apps         |
+| 35:36      | to it, which is why [[Keyboard Maestro]] and so many other apps         |
 | 35:40      | don't have support for spaces because there just isn't a way        |
 | 35:44      | to interact with them.                                              |
 | 35:45      | You know, a bunch can't open an app and put it in a specific        |
@@ -1088,7 +1088,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 44:17      | It's great.                                                         |
 | 44:18      | Yeah, and I like a good example is title case.                      |
 | 44:21      | You know, I spent so many years writing interesting title           |
-| 44:24      | case scripts, whether it being Keyboard Maestro apple               |
+| 44:24      | case scripts, whether it being [[Keyboard Maestro]] apple               |
 | 44:27      | script or whatever.                                                 |
 | 44:29      | The PopClip has a thing where you just select the text and          |
 | 44:32      | it gives you an option.                                             |

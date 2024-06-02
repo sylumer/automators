@@ -313,7 +313,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 23:24      | shortcuts catalogue, because I wouldn't have been able to do it manually. It would have taken me                                   |
 | 23:28      | like two weeks to do by just clicking share, clicking copy, I cloud link one by one. It actually                                 |
 | 23:34      | like saved me that much time too. So I bet. I wish that the shortcuts team would just spend a                                    |
-| 23:41      | couple of weeks using keyboard Maestro because I feel like that Keyboard Maestro is like the                                     |
+| 23:41      | couple of weeks using keyboard Maestro because I feel like that [[Keyboard Maestro]] is like the                                     |
 | 23:47      | the shining example of how to copy automation steps and paste groups. And like it has a bunch                                    |
 | 23:54      | of features in there that shortcuts just isn't there yet. And I understand with a touch interface                                |
 | 24:00      | it's harder, but I would love to see that if you've got a magic keyboard connected, though,                                      |

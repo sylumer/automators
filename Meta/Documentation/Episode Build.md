@@ -26,7 +26,7 @@ flowchart LR
 **Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]], [[Data Jar]], [[Shell Scripting|Shell Script]].
 
 ### Schedule
-Keyboard Maestro is running on a headless Mac mini. It is scheduled to run a macro every 30 minutes between 17:00 GMT on Friday to 12:00 GMT on Saturday. The macro confirms that it is running on the Mac mini (because the macros are synced across multiple devices). Once  confirmed, it then runs the shortcut "Process Outstanding Automators Episodes"
+[[Keyboard Maestro]] is running on a headless Mac mini. It is scheduled to run a macro every 30 minutes between 17:00 GMT on Friday to 12:00 GMT on Saturday. The macro confirms that it is running on the Mac mini (because the macros are synced across multiple devices). Once  confirmed, it then runs the shortcut "Process Outstanding Automators Episodes"
 
 **Macro Name:** Process Outstanding Automators Podcasts
 **cron triggers:**
@@ -188,7 +188,7 @@ The episode number is placed on the clipboard for the next step.
 ## Build Automators Episode Content
 **Automation Tools:** [[Keyboard Maestro]], [[Shortcuts]].
 
-The episode content build macro in Keyboard Maestro does a lot of the work and all of the orchestration to build the Obsidian file containing the base information for the episode. It relies on the VTT file discussed in the previous step having been generated and being selected in [[Path Finder]].  With the transcription file available, the macro will then set about gathering the additional information for the episode, and put the content into a file in the Obsidian vault.
+The episode content build macro in [[Keyboard Maestro]] does a lot of the work and all of the orchestration to build the Obsidian file containing the base information for the episode. It relies on the VTT file discussed in the previous step having been generated and being selected in [[Path Finder]].  With the transcription file available, the macro will then set about gathering the additional information for the episode, and put the content into a file in the Obsidian vault.
 
 ```mermaid
 flowchart TD
@@ -268,13 +268,13 @@ flowchart TD
 	class 2A,4A,5B SHORTCUT
 ```
 
-Details about other Apple Shortcuts and Keyboard Maestro macros that this macro uses can be found below.
+Details about other Apple Shortcuts and [[Keyboard Maestro]] macros that this macro uses can be found below.
 
 - Apple Shortcuts
 	- `Automators Episode Info`
 	- `Automators Episode Path`
 	- `Automators Open Show Notes`
-- Keyboard Maestro
+- [[Keyboard Maestro]]
 	- `VTT - Format to Markdown Table` - see [[#Format Transcription]]
 
 ## Retrieve Episode Information
@@ -337,7 +337,7 @@ flowchart TD
 **Automation Tools:** [[Keyboard Maestro]], [[Python]] Script.
 
 ### Keyboard Maestro Macro
-The process of transforming the output of the transcription into a prettier format for Obsidian is accomplished through the use of a Keyboard Maestro macro. Selecting the VTT file in Path Finder and running the macro places a reformatted Markdown table version of the transcription on the clipboard. Note that this relates back to the earlier selection of the VTT file to determine the episode number.
+The process of transforming the output of the transcription into a prettier format for Obsidian is accomplished through the use of a [[Keyboard Maestro]] macro. Selecting the VTT file in Path Finder and running the macro places a reformatted Markdown table version of the transcription on the clipboard. Note that this relates back to the earlier selection of the VTT file to determine the episode number.
 ```mermaid
 flowchart TD
 	START([Start])
@@ -415,7 +415,7 @@ pyperclip.copy(mdformat.text(pyperclip.paste(), extensions={"tables"}))
 ```
 
 > [!INFO] Path Considerations in Keyboard Maestro
-> Because I use this Python script inside a Keyboard Maestro macro with an [*Execute a Shell Script*](https://wiki.keyboardmaestro.com/action/Execute_a_Shell_Script) action, therefore I also needed to ensure that the Keyboard Maestro path variable (`ENV_PATH`) was also set up so that the imported modules could be found; Keyboard Maestro not picking up user profiles for command line shells.
+> Because I use this Python script inside a [[Keyboard Maestro]] macro with an [*Execute a Shell Script*](https://wiki.keyboardmaestro.com/action/Execute_a_Shell_Script) action, therefore I also needed to ensure that the [[Keyboard Maestro]] path variable (`ENV_PATH`) was also set up so that the imported modules could be found; [[Keyboard Maestro]] not picking up user profiles for command line shells.
 
 
 ## Generate Episode Note File Path

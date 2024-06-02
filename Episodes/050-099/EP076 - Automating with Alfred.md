@@ -319,7 +319,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 22:06      | Shell and terminal commands, you can just do them straight from [[Alfred]],                                  |
 | 22:10      | like move this to there. I do that. For some reason, I prefer to use the terminal to move files to       |
 | 22:19      | certain locations. Like, for example, when I installed TJ Luoma, it's a Fantastical stream                |
-| 22:25      | deck system. I'm calling it a system because it's a whole bunch of Keyboard Maestro macros               |
+| 22:25      | deck system. I'm calling it a system because it's a whole bunch of [[Keyboard Maestro]] macros               |
 | 22:30      | plus Stream Deck integration. I did, I moved those files I needed to move with [[Alfred]],                   |
 | 22:36      | rather than anything else. It also has integration with custom themes and 1Password. And sync         |
 | 22:43      | is one of the power pack features. And I personally do love the sync. Even if you only have one mac,     |
@@ -394,7 +394,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 28:58      | things. And you're not going to need them for longer than the length of time it takes you to             |
 | 29:01      | fill out this form. But you want to have them easily accessible for that period of time.                 |
 | 29:08      | Yeah. And I personally don't use the clipboard history. I actually run it as a backup because            |
-| 29:14      | if something goes wrong, but my primary clipboard history is Keyboard Maestro. And whenever we get       |
+| 29:14      | if something goes wrong, but my primary clipboard history is [[Keyboard Maestro]]. And whenever we get       |
 | 29:19      | around to that show, I'll explain why. But [[Alfred]] is perfectly fine. And if you're not a keyboard        |
 | 29:25      | maestro person or you don't like their clipboard and you've got [[Alfred]], one thing [[Alfred]] is is           |
 | 29:29      | way better than the built-in clipboard because this isn't got a history and all that's you,              |
@@ -760,7 +760,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:03:13   | key and something else, but you know, I just can never remember. So I just use [[Alfred]] for all that       |
 | 01:03:18   | stuff. Yeah. And I love this. There is one, and I do have to be a little careful when I am looking       |
 | 01:03:26   | for a quick time, because if you type quit instead of quick, then one of the options that comes up       |
-| 01:03:33   | is quit all applications. And this is something you can of course do with Keyboard Maestro.              |
+| 01:03:33   | is quit all applications. And this is something you can of course do with [[Keyboard Maestro]].              |
 | 01:03:38   | And I actually have a couple of different ones where I, you know, I quit, you know, my open              |
 | 01:03:43   | applications as part of another macro. But sometimes at the end of my day, one of the things I'm         |
 | 01:03:48   | trying to integrate into my shutdown routine is just quitting all of my open applications.               |
@@ -982,23 +982,23 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:24:13   | me the trouble of finding the app, opening the app and then drilling through that, you know,             |
 | 01:24:18   | left menu to find where I wanted to be. Yeah. So David, do I get to get really nerdy now on some         |
 | 01:24:25   | of these workflows? Yeah, let's hear one. So we had a great guest on the show a couple of months         |
-| 01:24:29   | back [[Stephen Millard]]. And he's recently created two amazing workflows. one of them's for Keyboard               |
-| 01:24:37   | Maestro and one of them's for Drafts. Okay, so for Keyboard Maestro, David, we have a conductor,                 |
-| 01:24:43   | and for Drafts, we have a doctor, Doctor Drafts, and our Conductor for Keyboard Maestro. And I'll        |
+| 01:24:29   | back [[Stephen Millard]]. And he's recently created two amazing workflows. one of them's for [[Keyboard Maestro]]               |
+| 01:24:37   | and one of them's for [[Drafts]]. Okay, so for [[Keyboard Maestro]], David, we have a conductor,                 |
+| 01:24:43   | and for [[Drafts]], we have a doctor, [[Doctor Drafts]], and our [[Conductor]] for [[Keyboard Maestro]]. And I'll        |
 | 01:24:47   | put links to both of his blog posts about these in the show notes. But basically, it means if I          |
 | 01:24:52   | press command space and type doctor, as in DR, and then press space, I get a whole bunch of options,     |
 | 01:24:58   | new draft, new draft, and open the new draft instead of leaving it in the background, append to a draft, |
 | 01:25:03   | prepend to a draft, dictate to a draft, find a draft by content, copy a draft's URL, copy a draft's      |
 | 01:25:08   | content, find draft by title, and about what feels like 8 million other options. And the                 |
-| 01:25:16   | Keyboard Maestro one is pretty much or very similar in that it, you know, offers me all of these         |
-| 01:25:23   | choices. And so I can do a very similar thing with this with conductor. For that, you start              |
-| 01:25:33   | it with KM, unfortunately, you don't write conductor, but then I get a list of my keyboard               |
+| 01:25:16   | [[Keyboard Maestro]] one is pretty much or very similar in that it, you know, offers me all of these         |
+| 01:25:23   | choices. And so I can do a very similar thing with this with [[Conductor]]. For that, you start              |
+| 01:25:33   | it with KM, unfortunately, you don't write [[Conductor]], but then I get a list of my keyboard               |
 | 01:25:37   | maestro macros right there. So I can specify the automators episode number. I did that at the            |
 | 01:25:41   | beginning of the show, David. I used KM and then command seven, because that's my seventh macro          |
 | 01:25:47   | there. And that's it. You know, and I just typed in the episode number and I was done.                   |
 | 01:25:51   | Yeah, I mean, he, I think he told us he was working on them, but it's amazing to me how                  |
-| 01:25:56   | advanced they are, you know, the [[Drafts]] one in particular. But keyboard launching keyboard               |
-| 01:26:02   | maestro scripts from [[Alfred]] is really powerful. And there have been workflows in the past,               |
+| 01:25:56   | advanced they are, you know, the [[Drafts]] one in particular. But keyboard launching [[Keyboard Maestro]]               |
+| 01:26:02   | scripts from [[Alfred]] is really powerful. And there have been workflows in the past,               |
 | 01:26:08   | but none of them are as good as his. I mean, this is the one you want.                                   |
 | 01:26:12   | Yeah, I mean, I created a couple of macros when [[Drafts]] for Mac first launch.                             |
 | 01:26:16   | And it was good. And things were fine. And, you know, everything was okay. But this is                   |

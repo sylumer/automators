@@ -387,7 +387,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 21:03      | That would break all of Apple's guidelines and everything that anybody wants out of iOS.                |
 | 21:07      | That would just not be nice, but you can actually, you know, get things happening automatically         |
 | 21:12      | based on you going somewhere, which is pretty nice.                                                     |
-| 21:15      | You can also use these webhooks to get into Keyboard Maestro, you know, it's like, it's                 |
+| 21:15      | You can also use these webhooks to get into [[Keyboard Maestro]], you know, it's like, it's                 |
 | 21:20      | like everything, I just love this way automation has become so bilingual.                               |
 | 21:25      | Everything talks to each other now using these common things like webhooks.                             |
 | 21:30      | Yes.                                                                                                    |
@@ -563,10 +563,10 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 32:20      | And this is where you can then really do the best thing, which is take advantage of the                 |
 | 32:26      | fact that this bit can happen automatically on my iPhone.                                               |
 | 32:29      | And then my Mac's pretty much always on.                                                                |
-| 32:32      | So I'll try pinging my Mac to do this via Keyboard Maestro via the web.                                 |
+| 32:32      | So I'll try pinging my Mac to do this via [[Keyboard Maestro]] via the web.                                 |
 | 32:37      | But if it doesn't respond, then I'll drop a file into a folder, and Dropbox will sync                   |
 | 32:43      | it over.                                                                                                |
-| 32:44      | And then when my Mac's next on, Keyboard Maestro can be watching that folder and use, it can            |
+| 32:44      | And then when my Mac's next on, [[Keyboard Maestro]] can be watching that folder and use, it can            |
 | 32:49      | have two triggers on the same automation, and it can then pick that up and go, OK, cool.                |
 | 32:54      | Well, this file's here, so I'm going to use that and take that and use that as actual                   |
 | 32:57      | input, because you don't necessarily actually have to do things in a particular order.                  |
@@ -646,7 +646,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 38:04      | Exactly.                                                                                                |
 | 38:05      | And it's really useful not just to know like, what is this part doing?                                  |
 | 38:08      | But when you're tying it into your own solutions, how are you building that tie in?                     |
-| 38:13      | So for example, looking at Keyboard Maestro, you could have a Keyboard Maestro integrated               |
+| 38:13      | So for example, looking at [[Keyboard Maestro]], you could have a [[Keyboard Maestro]] integrated               |
 | 38:18      | into a web automation via a URL.                                                                        |
 | 38:21      | So it could be a web server, you know, that, that's something that you can do.                          |
 | 38:25      | But if your Mac's not on, what's going to happen?                                                       |
@@ -656,12 +656,12 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 38:41      | of the time anyway.                                                                                     |
 | 38:42      | So that's fine.                                                                                         |
 | 38:44      | Then maybe the web server URL isn't the best option for you.                                            |
-| 38:48      | Maybe it's drop a file in a folder and Keyboard Maestro will pick that up.                              |
+| 38:48      | Maybe it's drop a file in a folder and [[Keyboard Maestro]] will pick that up.                              |
 | 38:53      | And if you drop, say, a JSON file in a folder, then it can pick that up and it can read that            |
 | 38:58      | information and use that as all the variables that it needs to continue with the next part,             |
 | 39:04      | which, you know, is another way of doing it.                                                            |
 | 39:08      | But you know, there, there are different ways that you can trigger things like you can also             |
-| 39:12      | have, you know, Keyboard Maestro just do a thing of, hey, so when I log in, then go off                 |
+| 39:12      | have, you know, [[Keyboard Maestro]] just do a thing of, hey, so when I log in, then go off                 |
 | 39:19      | and check this thing.                                                                                   |
 | 39:20      | Or when I activate this application, I'm going to go check like this URL and see if there's             |
 | 39:25      | something there that needs to be handled.                                                               |
@@ -773,8 +773,8 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 45:35      | have shortcuts process that file and actually read information out.                                     |
 | 45:39      | But there's absolutely no need to do that, you can just use [[Hazel]] as a fake file for                    |
 | 45:42      | triggering things.                                                                                      |
-| 45:43      | Now, I dark you, if you're just using it to trigger something, maybe Keyboard Maestro                   |
-| 45:47      | is the right thing to do there, like, you know, Keyboard Maestro can also watch a folder.               |
+| 45:43      | Now, I dark you, if you're just using it to trigger something, maybe [[Keyboard Maestro]]                   |
+| 45:47      | is the right thing to do there, like, you know, [[Keyboard Maestro]] can also watch a folder.               |
 | 45:51      | [[Hazel]] is, you know, a great tool that many of you already have, and I certainly have.                   |
 | 45:57      | And it's just really nice to be able to just, you know, queue things up and have it just                |
 | 46:02      | run automatically and, you know, tidy up after itself as it goes.                                       |
@@ -791,7 +791,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 46:52      | Maestro or [[Hazel]], just look at a file and then you're off to the races.                                 |
 | 46:57      | But that is very much asynchronous automation and an example of it.                                     |
 | 47:01      | Yeah, yeah.                                                                                             |
-| 47:03      | And you know, we mentioned Keyboard Maestro there, you know, Keyboard Maestro has like                  |
+| 47:03      | And you know, we mentioned [[Keyboard Maestro]] there, you know, [[Keyboard Maestro]] has like                  |
 | 47:08      | the idea, there's the public web entry and there's the remote web trigger.                              |
 | 47:13      | And I'm going to link to the documentation for both of those because they are slightly                  |
 | 47:18      | different as to how they work.                                                                          |
@@ -816,10 +816,10 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 48:31      | Well, it doesn't have to happen right now.                                                              |
 | 48:34      | So as well as using, you know, your web triggers, you can then use the folder trigger, but you          |
 | 48:38      | can also have, you know, other triggers, you know, like I mentioned before, the login trigger,          |
-| 48:43      | but Keyboard Maestro just also has a periodic trigger where on a regular basis, it can just             |
+| 48:43      | but [[Keyboard Maestro]] just also has a periodic trigger where on a regular basis, it can just             |
 | 48:48      | go look for a thing and see whether or not it's there.                                                  |
 | 48:52      | You know, that's really ideal for, you know, I've put something into an air table base.                 |
-| 48:58      | And I just want Keyboard Maestro to check if there's any records in the air table base.                 |
+| 48:58      | And I just want [[Keyboard Maestro]] to check if there's any records in the air table base.                 |
 | 49:02      | And if there are records, I just want it to process them for me.                                        |
 | 49:06      | And then they'll disappear from, from that view, for example.                                           |
 | 49:09      | You know, that, that's really useful so that you can just have that happen.                             |
@@ -857,7 +857,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 50:59      | for a couple of weeks, then that would probably kick in.                                                |
 | 51:05      | But what it means I can do is at the end of the day, I can just select all the mail in                  |
 | 51:08      | my inbox and apply mail rules and they'll just disappear.                                               |
-| 51:12      | Or I can have Keyboard Maestro activate mail, select all the mails in the inbox and then                   |
+| 51:12      | Or I can have [[Keyboard Maestro]] activate mail, select all the mails in the inbox and then                   |
 | 51:18      | trigger the menu for and just apply mail rules, please, thank you.                                      |
 | 51:22      | Which is something that I do as a sneaky way to automate the nature of that.                            |
 | 51:29      | But it's kind of amazing what you can do with one of those because you can get super nerdy              |
@@ -886,9 +886,9 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 52:40      | iOS today, Nested Folders, I tap actually a bunch, I activate a bunch, and that will                   |
 | 52:47      | fire off a number of different things, which cause various different automations to happen.             |
 | 52:52      | You know, when I started recording automators today, it activated my podcast focus mode,                |
-| 52:56      | it did various things, and it popped up a Keyboard Maestro input box, which said, hey,                  |
+| 52:56      | it did various things, and it popped up a [[Keyboard Maestro]] input box, which said, hey,                  |
 | 53:01      | what's the episode number?                                                                              |
-| 53:04      | And that Keyboard Maestro input box just waited for me to finish typing in the episode number,          |
+| 53:04      | And that [[Keyboard Maestro]] input box just waited for me to finish typing in the episode number,          |
 | 53:08      | which happened a few minutes later, and hit okay, and then it saved it into the right                   |
 | 53:14      | place so that it could use that later when it needs to rename the episode numbers.                      |
 | 53:19      | But so technically, there's a tap involved, like five or six different things happen based              |
@@ -929,9 +929,9 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 55:33      | And, you know, in many ways, it's better to do something like that and you might be thinking,           |
 | 55:38      | okay, but that's fine.                                                                                  |
 | 55:39      | But now I've got like seven shortcuts.                                                                  |
-| 55:41      | I need to run with a tap or, you know, I've got seven Keyboard Maestro macros.                          |
+| 55:41      | I need to run with a tap or, you know, I've got seven [[Keyboard Maestro]] macros.                          |
 | 55:45      | I'm going to let everyone in on a really big secret.                                                    |
-| 55:49      | You can create a single Keyboard Maestro macro or a single shortcut or whatever it is that              |
+| 55:49      | You can create a single [[Keyboard Maestro]] macro or a single shortcut or whatever it is that              |
 | 55:54      | will then run all of those other ones for you.                                                          |
 | 55:57      | So you can combine that into one tap for the places where it makes sense.                               |
 | 56:01      | So you can have a single button on your Stream Deck which is for run my work focus mode automations.    |
@@ -941,7 +941,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 56:18      | seven or eight different things or however many it is that you need.                                    |
 | 56:22      | But you also, you know, have the ability to just say, hey, actually, you know, I just                   |
 | 56:26      | want to like test this a little bit of it out and I'm going to do that bit.                             |
-| 56:30      | You know, maybe, you know, if you activate your work focus mode, Keyboard Maestro maybe                 |
+| 56:30      | You know, maybe, you know, if you activate your work focus mode, [[Keyboard Maestro]] maybe                 |
 | 56:35      | does get a prompt to say, hey, do you want to do this?                                                  |
 | 56:38      | But instead of having your, your automation run entirely automatically, it'll actually                  |
 | 56:43      | just pop up a thing and go, hey, do you want to do this?                                                |
@@ -987,7 +987,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 58:56      | We're good.                                                                                             |
 | 58:57      | I mean, you talked about triggering automation, you know, in ways on your Mac and Keyboard              |
 | 59:02      | Maestro has a great feature called the Conflict Palette.                                                |
-| 59:05      | And that means if you have two Keyboard Maestro scripts that have the same shortcut trigger,            |
+| 59:05      | And that means if you have two [[Keyboard Maestro]] scripts that have the same shortcut trigger,            |
 | 59:12      | it just puts them both on and then it highlights the first letter that's different.                     |
 | 59:16      | If one is called Rose and one's called David and you type R, then it's going to go to Rose.             |
 | 59:21      | And I have very intentionally taken advantage of that.                                                  |
@@ -1016,12 +1016,12 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:01:08   | Exactly.                                                                                                |
 | 01:01:09   | Having a little bit of the person needs to pick this up and take it to the next step                    |
 | 01:01:13   | so that the next part of the flow can continue can actually be a really, really good thing.             |
-| 01:01:19   | I don't use the Conflict Palette that much in Keyboard Maestro David.                                   |
+| 01:01:19   | I don't use the Conflict Palette that much in [[Keyboard Maestro]] David.                                   |
 | 01:01:23   | I probably should use the palettes more.                                                                |
 | 01:01:25   | I feel like I'm not getting enough benefit out of them.                                                 |
 | 01:01:28   | But I've been using [[Stephen Millard\|Stephen Millard's]], who's been on the show before.                                     |
-| 01:01:32   | He's got some great [[Alfred]] workflows, including one for Keyboard Maestro.                               |
-| 01:01:37   | So you can get all of your Keyboard Maestro markers into [[Alfred]].                                        |
+| 01:01:32   | He's got some great [[Alfred]] workflows, including one for [[Keyboard Maestro]].                               |
+| 01:01:37   | So you can get all of your [[Keyboard Maestro]] markers into [[Alfred]].                                        |
 | 01:01:41   | Love that.                                                                                              |
 | 01:01:42   | So good.                                                                                                |
 | 01:01:43   | He's got a number of [[Alfred]] workflows, which I'll make sure that people get the link to.                |
@@ -1191,7 +1191,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:11:10   | So that then when I finished the recording, so that's the first part of that automation,                |
 | 01:11:14   | you know, I set the episode number.                                                                     |
 | 01:11:16   | And then the next part of the automation is we record.                                                  |
-| 01:11:18   | But when we finished the recording, Keyboard Maestro is watching the folder for the files                |
+| 01:11:18   | But when we finished the recording, [[Keyboard Maestro]] is watching the folder for the files                |
 | 01:11:21   | and it picks it up and it renames it and sticks it in the folder with the right name.                   |
 | 01:11:25   | So then if a guest uploads their audio or, you know, I record the ads, then it'll grab                  |
 | 01:11:30   | those and pop those in there as well.                                                                   |
@@ -1226,8 +1226,8 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:12:55   | I love it when that happens.                                                                            |
 | 01:12:56   | It happens to me so often.                                                                              |
 | 01:12:58   | It's almost like every other day when I'm Googling something related to shortcuts or                    |
-| 01:13:01   | Keyboard Maestro.                                                                                       |
-| 01:13:02   | And so Keyboard Maestro, this has got its own forum as well, which has got lots of great                |
+| 01:13:01   | [[Keyboard Maestro]].                                                                                       |
+| 01:13:02   | And so [[Keyboard Maestro]], this has got its own forum as well, which has got lots of great                |
 | 01:13:05   | stuff in there.                                                                                         |
 | 01:13:06   | But love the time.                                                                                      |
 | 01:13:07   | I Google something and the Automators forum pops up.                                                    |

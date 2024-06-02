@@ -374,7 +374,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 25:02      | Google Calendar that doesn't work. And then once you've added the event and you go back in and you      |
 | 25:07      | try to edit it, then there is probably but not guaranteed to be the option to add the Apple             |
 | 25:14      | script. So I don't do that. I just have anything that's scheduled for things like that I have in        |
-| 25:20      | Keyboard Maestro with a trigger for the right time. And that just deals with it for me.                 |
+| 25:20      | [[Keyboard Maestro]] with a trigger for the right time. And that just deals with it for me.                 |
 | 25:26      | Well, the advantage of putting it on a calendar event and the way it does is you open a file,           |
 | 25:30      | they got rid of the run AppleScript command that they used to have years ago, which I wish they had.     |
 | 25:34      | But I believe you can save a script file or an actual, an app out of automator. But how long            |
@@ -577,7 +577,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 45:20      | And now it's easy because all of those decisions have been made and the                                 |
 | 45:25      | pieces put in place for it. But before that, it was not easy.                                           |
 | 45:28      | Well, I do think it's interesting to think of automation beyond the normal tools. We talk               |
-| 45:34      | about things like AppleScript and Keyboard Maestro, yada, yada, yada. But there are a lot              |
+| 45:34      | about things like AppleScript and [[Keyboard Maestro]], yada, yada, yada. But there are a lot              |
 | 45:40      | of pro level tools that do have their own automation built in. I'm not real familiar with               |
 | 45:46      | Farad. I do most of my audio stuff in Logic. But this is news to me. I didn't realise some              |
 | 45:52      | of these tools were already built for you. And whether you do it with a fancy script or the             |

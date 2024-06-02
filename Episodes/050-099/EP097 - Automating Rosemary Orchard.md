@@ -250,9 +250,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 14:48      | to do that a few years ago where I could flag it and have it create an OmniFocus task. But               |
 | 14:54      | the script broke after a certain amount of time. And just like, if it's not 100% reliable,               |
 | 14:58      | that is a very dangerous game, you know? Yeah. Yeah. I mean, my plan with this, the                      |
-| 15:04      | way that I'm trying to structure this is I'm actually doing this with Keyboard Maestro                   |
+| 15:04      | way that I'm trying to structure this is I'm actually doing this with [[Keyboard Maestro]]                   |
 | 15:09      | adding the OmniFocus action. Because if something goes wrong, then I just have, you know, I              |
-| 15:14      | just tell Keyboard Maestro, stop, like, don't, don't do the rest of the macro, just stop                 |
+| 15:14      | just tell [[Keyboard Maestro]], stop, like, don't, don't do the rest of the macro, just stop                 |
 | 15:18      | right there. Because that means that if there's a file there, it means that something didn't             |
 | 15:23      | work somewhere. And then I can go into debug. But at the minimum, then I've got the, yeah,               |
 | 15:27      | well, the file's still here. So you need to do whatever the right action is for it. And                  |
@@ -403,8 +403,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 27:55      | a keyboard shortcut in or the easiest way to automate it is just do the keyboard shortcut                |
 | 28:00      | inside it. Yeah.                                                                                         |
 | 28:02      | You know, one of the things I'm doing right now, which happened at the start of this episode             |
-| 28:06      | is I ran a Keyboard Maestro macros to start recording, to actually start the recording                   |
-| 28:10      | of the episode. And that saved a time stamping Keyboard Maestro. And it also switched audio              |
+| 28:06      | is I ran a [[Keyboard Maestro]] macros to start recording, to actually start the recording                   |
+| 28:10      | of the episode. And that saved a time stamping [[Keyboard Maestro]]. And it also switched audio              |
 | 28:16      | hijack and then did the keyboard shortcut to start the recording, which is Command R.                    |
 | 28:22      | And you know, there's a new version of audio hijack coming with scripting and I can't wait               |
 | 28:25      | for that. But for the time being, doing the recording or just starting the recording                     |
@@ -448,8 +448,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 31:46      | trigger bunch primarily from my Stream Deck, because I have the icons there. And I had                   |
 | 31:54      | an idea. I only started this the other day, unfortunately, because TJ Lewin created the                  |
 | 32:00      | great calendar icon, which you can have in Stream Deck. And that's controlled through                    |
-| 32:07      | Keyboard Maestro and you change the background colour of the Keyboard Maestro, the stream                 |
-| 32:13      | deck button, and you change what text is on it all through Keyboard Maestro and some                     |
+| 32:07      | [[Keyboard Maestro]] and you change the background colour of the [[Keyboard Maestro]], the stream                 |
+| 32:13      | deck button, and you change what text is on it all through [[Keyboard Maestro]] and some                     |
 | 32:17      | AppleScript and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
 | 32:22      | I realised what I can probably do a good chunk of the time is read some of that same data                |
 | 32:30      | and actually use it to display the right bunch. So then when I press one Stream Deck button,             |
@@ -465,10 +465,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 33:15      | about it in the forums.                                                                                  |
 | 33:16      | Yeah, that's a lot. You know, I'm a big fan. Brett and I wrote books together. I just                    |
 | 33:23      | haven't really got fully invested in bunch it. And I think the reason is because I set                   |
-| 33:29      | up all of these scripts in Keyboard Maestro to do setups for me. And like the kind of                    |
+| 33:29      | up all of these scripts in [[Keyboard Maestro]] to do setups for me. And like the kind of                    |
 | 33:34      | stuff I want to do, usually with a setup is open apps and then arrange them using moon,                  |
 | 33:40      | which is the same thing you're doing with bunch. And occasionally like I'll start a                      |
-| 33:45      | timer or something, but all that stuff is scriptable inside Keyboard Maestro. I'm trying                 |
+| 33:45      | timer or something, but all that stuff is scriptable inside [[Keyboard Maestro]]. I'm trying                 |
 | 33:51      | to make the case for me for bunch. I mean, what should I, what am I missing here?                        |
 | 33:55      | Well, one of the great things that you can do with bunch, which I think a lot of people                  |
 | 33:59      | probably will like is if you click on the bunch option in the menu bar, there is an                      |
@@ -476,9 +476,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 34:10      | apps that you usually want to have for this thing and you can save it. And this is the                   |
 | 34:15      | same trick is you can, you can do the same trick with moon. You can save a window layout                 |
 | 34:20      | snapshot once you've positioned or your windows where you want them. And for me, that was                |
-| 34:26      | really helpful getting started because I had some of this stuff in Keyboard Maestro, but                 |
+| 34:26      | really helpful getting started because I had some of this stuff in [[Keyboard Maestro]], but                 |
 | 34:30      | I'd never really bothered to sit down and figure it out. And another feature that I                      |
-| 34:37      | really like, and this is not to say that Keyboard Maestro is not great for this, is I really             |
+| 34:37      | really like, and this is not to say that [[Keyboard Maestro]] is not great for this, is I really             |
 | 34:42      | like the fact that when I open a bunch file, it's pretty much just a list of application                 |
 | 34:46      | names. So I'm skimming it and I'm going, yep, visual studio code. Yeah, that's the one                   |
 | 34:52      | that I want, you know, and it's, it's great for both when you're having those brain fart                 |
@@ -496,26 +496,26 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 35:59      | chunk of it is that, that concept of a bunch being on or off, essentially, that allows                   |
 | 36:05      | me to add extra magic.                                                                                   |
 | 36:08      | I think I need to like really just like say for the next month, I'm just going to use                    |
-| 36:12      | bunch for this. Like one of the reasons I wanted to kind of keep it with Keyboard Maestro                |
+| 36:12      | bunch for this. Like one of the reasons I wanted to kind of keep it with [[Keyboard Maestro]]                |
 | 36:16      | is that, you know, I've already got it all, all the triggers and buttons connected, you                  |
 | 36:21      | know, and like putting up the infrastructure to, to switch over is a pain. The other thing               |
 | 36:27      | was I was really toying with the ability to try and set windows size and height and everything           |
-| 36:34      | in, in Keyboard Maestro to take Moom out of the loop, you know, that way it's easier                     |
+| 36:34      | in, in [[Keyboard Maestro]] to take Moom out of the loop, you know, that way it's easier                     |
 | 36:39      | if you have one less app involved. But I just found that like you really have to do a pixel              |
-| 36:45      | by pixel and Keyboard Maestro to do this right. And then like if I change resolution, everything         |
+| 36:45      | by pixel and [[Keyboard Maestro]] to do this right. And then like if I change resolution, everything         |
 | 36:51      | just looks terrible. And it's just like it really just wasn't kind of doing the job.                     |
 | 36:56      | Yeah, yeah, I have to say, you know, I do, you know, Keyboard Maestro's window management                |
 | 37:01      | generally is great because you can do things like just move this to the centre of my primary             |
 | 37:06      | monitor, which is actually something that I've got hooked onto several other actions.                    |
 | 37:13      | So for example, if I try to quit Safari with command Q, most of the time I did not mean                  |
-| 37:19      | to hit command Q, I meant hit command W to close tab. So I actually have Keyboard Maestro                |
+| 37:19      | to hit command Q, I meant hit command W to close tab. So I actually have [[Keyboard Maestro]]                |
 | 37:24      | interfere with it there and go, are you sure? Like, did you actually want to do this? And                |
 | 37:29      | one of the things that it does with the are you sure is it moves that right into the middle              |
 | 37:33      | of my main monitor. Because that means that I'm actually going to see it because there's                 |
 | 37:37      | nothing worse than deliberately trying to do something and getting an are you sure prompt                |
 | 37:41      | that's wait, wait, why is it way over there in the right hand corner of my secondary monitor?            |
 | 37:46      | That's not where I wanted to see it. And the answer is I dragged it, I dragged the keyboard              |
-| 37:50      | maestro prompt there sometime previously, and Keyboard Maestro smarter remembers where                   |
+| 37:50      | maestro prompt there sometime previously, and [[Keyboard Maestro]] smarter remembers where                   |
 | 37:54      | you put the prompt because you probably want to put it back, except for this thing I don't.              |
 | 37:59      | I always want it front and centre. So I have it move things in that respect. And where are               |
 | 38:04      | you doing something relative to other things? So smack bang in the centre vertically and                 |
@@ -832,20 +832,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:04:28   | And I could get them positioned, but getting the correct one to do the correct command                   |
 | 01:04:34   | was not working for me. So I ended up switching to item. But a lot of what I've been doing recently,     |
 | 01:04:39   | it has been a little bit of AppleScript where possible or where necessary, maybe text expansion         |
-| 01:04:46   | in a few places and Keyboard Maestro just stepping in and rescuing me in all the places where usually    |
+| 01:04:46   | in a few places and [[Keyboard Maestro]] just stepping in and rescuing me in all the places where usually    |
 | 01:04:53   | this thing would be disabled. But actually in this particular scenario, I wanted to happen. So           |
-| 01:04:58   | Keyboard Maestro bridges a gap to make magic. Can you give me an example? Yeah, so I don't use text      |
+| 01:04:58   | [[Keyboard Maestro]] bridges a gap to make magic. Can you give me an example? Yeah, so I don't use text      |
 | 01:05:06   | expansion when I'm programming. I say I don't use text expansion. That's not strictly true.              |
 | 01:05:11   | I don't use my standard text expansion. So my standard text expansion I've got mostly in             |
 | 01:05:18   | TextExpander. But there's also some things in [[Alfred]], because that was a fun experiment and why not.         |
-| 01:05:26   | And there's the odd thing in Keyboard Maestro. But the ones in TextExpander and the ones in             |
+| 01:05:26   | And there's the odd thing in [[Keyboard Maestro]]. But the ones in TextExpander and the ones in             |
 | 01:05:31   | [[Alfred]] do not run in my development applications, just because they will end up accidentally interfering |
 | 01:05:39   | with what I'm doing in various ways. Now, the programs that I use themselves, they do have               |
 | 01:05:45   | text expansion, they've got autocomplete, things like that. But there are certain things that I          |
 | 01:05:50   | do want available, but only in those applications. But I don't have every app. So for example,           |
 | 01:05:58   | my work machine, I don't have TextExpander installed. There's a number of reasons for that.             |
 | 01:06:03   | But it's just something that because I'm not writing words, I didn't feel like I needed a lot            |
-| 01:06:08   | of the time. But I did need some text expansion. So I have Keyboard Maestro run some macros only         |
+| 01:06:08   | of the time. But I did need some text expansion. So I have [[Keyboard Maestro]] run some macros only         |
 | 01:06:18   | in those applications. And I've got some smart groups that are just for my development applications.     |
 | 01:06:24   | But it's even smarter than that in that it looks at the name of the window, and it checks what the       |
 | 01:06:29   | file extension is in the name of the window. And then if it's a PHP file, it will do one thing.          |
@@ -853,9 +853,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:06:40   | I can type whatever my magic incantation is. And I get exactly the right result for whatever          |
 | 01:06:46   | language I'm programming in, which is I think something I would have struggled to do with                |
 | 01:06:51   | just playing text expansion. But I was really pleased to be able to sort that out with keyboard          |
-| 01:06:55   | maestro. Yeah. I mean, Keyboard Maestro does come to the rescue so often, doesn't it?                    |
+| 01:06:55   | maestro. Yeah. I mean, [[Keyboard Maestro]] does come to the rescue so often, doesn't it?                    |
 | 01:07:00   | Yeah. Yeah. It was one of those things where I was so nearly there. And then I remembered                |
-| 01:07:05   | the Keyboard Maestro can get the name of the window. And that was the bit that just made                 |
+| 01:07:05   | the [[Keyboard Maestro]] can get the name of the window. And that was the bit that just made                 |
 | 01:07:11   | everything click. Because once I figured that out, I figured out not only my text expansions,            |
 | 01:07:16   | but also when I hit save, I needed to do a particular sequence events. I need to activate                |
 | 01:07:22   | the terminal or iTerm as it is now so that I can actually look and see the thing and make sure           |
@@ -867,7 +867,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:07:59   | powerful. Because I was able to reuse that with audio hijack. Because audio hijack by session has        |
 | 01:08:06   | the name. And so if it's automators in the name, it's now going to do automators magic. Whereas          |
 | 01:08:12   | if it says nested folders, it'll do nested folders magic and so on and so forth. So it's                 |
-| 01:08:16   | mostly been Keyboard Maestro to the rescue. But there has been a little help with iTerm as well.         |
+| 01:08:16   | mostly been [[Keyboard Maestro]] to the rescue. But there has been a little help with iTerm as well.         |
 | 01:08:22   | Okay, you want me to blow your mind a little bit? Maybe you already know this.                           |
 | 01:08:26   | There's a cool plugin for Obsidian called custom window title, very simple plugin,                       |
 | 01:08:32   | takes the name of the current note and puts it in the title of the window. And suddenly,                 |
@@ -876,7 +876,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:08:47   | Or that also the way I use that is with the timing app, the timing app that is time tracking.            |
 | 01:08:54   | Now it tracks time based on that window. It doesn't just say time in Obsidian. It'll say                 |
 | 01:09:00   | time on the automators file. And so it's like, it's like once you change the name of the window          |
-| 01:09:05   | title, it opens up automation possibilities with something like Keyboard Maestro. It's pretty            |
+| 01:09:05   | title, it opens up automation possibilities with something like [[Keyboard Maestro]]. It's pretty            |
 | 01:09:09   | cool. Anyway, it's a very small plugin. And it's currently version 0.3.3. I don't even know what         |
 | 01:09:17   | that means. Wouldn't it be version one if it's out? But I don't know. It might just be that              |
 | 01:09:23   | it's the developer considers it's so small that he's not or she's not given it a 1.0 yet,                |
@@ -901,13 +901,13 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:11:15   | on or turn this light off and things like that without having to open the application,                   |
 | 01:11:19   | which has been very helpful. And this also has an automation option where you can get                    |
 | 01:11:25   | a [[URL Schemes\|URL scheme]] for each individual item or scene or device and run that through something else so          |
-| 01:11:33   | you can integrate smart home scenes into Keyboard Maestro without having to run an entire shortcut       |
+| 01:11:33   | you can integrate smart home scenes into [[Keyboard Maestro]] without having to run an entire shortcut       |
 | 01:11:41   | just to set a smart home scene because the Home app for some reason is still really not                  |
 | 01:11:46   | automatable on macOS. I really don't know what's going on there. Of course, I can do it on iOS,          |
 | 01:11:51   | but having all of the options everywhere is something that I am hoping to have when it                   |
 | 01:11:57   | comes to a lot of these automation possibilities. No, I agree. And of course, that's the trick to        |
 | 01:12:02   | get it into your Stream Deck as well. Because once you have a URL, then only can you trigger it          |
-| 01:12:08   | from Keyboard Maestro, you can insert the URL into a Stream Deck button, which is kind of fun.           |
+| 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a Stream Deck button, which is kind of fun.           |
 | 01:12:14   | Exactly, yes. And it is really useful for that. I've been enjoying it. There's                           |
 | 01:12:21   | a couple of Safari extensions. You mentioned Home Safe before. It's not really an automation option,     |
 | 01:12:27   | but it does allow me to get the image from the Key Image from a web page, which can be really            |
@@ -929,14 +929,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:13:58   | talk to each other. The system where I can book my holiday and my calendar. And my calendar,             |
 | 01:14:03   | I can work around because it's on my Mac. The system where I book my holiday, it's a web system,         |
 | 01:14:09   | and it doesn't play ball. But I found that there is a way to get an ICS file out of it.                  |
-| 01:14:17   | But the URL is hidden. So I ended up creating a Keyboard Maestro macro that takes the URL                |
+| 01:14:17   | But the URL is hidden. So I ended up creating a [[Keyboard Maestro]] macro that takes the URL                |
 | 01:14:23   | of the Safari page, and it reworks it a little bit, it replaces some text, and then it opens a new       |
 | 01:14:30   | URL, which will then have automatically download the ICS file, which was really, really helpful,         |
 | 01:14:36   | until they finally figured it out. And then three weeks later, they added the button. So I can do        |
 | 01:14:43   | it directly. But that was a way around that because I went through their documentation and I asked,      |
 | 01:14:48   | and somebody said, well, here's the URL for this. And I was able to look at the two URLs that I had      |
 | 01:14:54   | and figure out what the difference was and just replace things until it worked. So that was quite        |
-| 01:14:59   | helpful. So being able to create a Keyboard Maestro macro that didn't click at an image,                 |
+| 01:14:59   | helpful. So being able to create a [[Keyboard Maestro]] macro that didn't click at an image,                 |
 | 01:15:03   | and I could have done it with shortcuts, and maybe I should have because it would have got the front     |
 | 01:15:07   | most Safari window. But I do use Firefox and Chrome as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |

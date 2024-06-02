@@ -361,8 +361,8 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 15:09      | And one of the things I like about this is it solves a problem with shortcuts of duplicating         |
 | 15:15      | and modifying shortcuts.                                                                             |
 | 15:17      | It still isn't easy to do that, you know, like on the Mac, we can like, I'm a keyboard               |
-| 15:23      | maestro fan and I can select, you know, I can select a hundred blocks of Keyboard Maestro,           |
-| 15:29      | hit command C, go into another Keyboard Maestro script and paste them all at once and then           |
+| 15:23      | maestro fan and I can select, you know, I can select a hundred blocks of [[Keyboard Maestro]],           |
+| 15:29      | hit command C, go into another [[Keyboard Maestro]] script and paste them all at once and then           |
 | 15:33      | make my modifications.                                                                               |
 | 15:35      | But with shortcuts, it's only one at a time.                                                         |
 | 15:39      | And with this language you have, I can just copy a text file or duplicate text file, make            |

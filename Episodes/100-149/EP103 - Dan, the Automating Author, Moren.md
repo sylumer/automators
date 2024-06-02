@@ -472,7 +472,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 21:50      | for like a decade.                                                                                     |
 | 21:51      | And it's like, as far as you know, the system is concerned, it's the only way to the only              |
 | 21:56      | way to automate it.                                                                                    |
-| 21:57      | And I found was to use Keyboard Maestro to like trigger the like interface where you                   |
+| 21:57      | And I found was to use [[Keyboard Maestro]] to like trigger the like interface where you                   |
 | 22:03      | have, you know, like a swipe and it brings up the ribbon across the top and then literally             |
 | 22:07      | have it click on the button for a new space.                                                           |
 | 22:10      | And you're like, why is there not just an action that's like create a new space?                       |
@@ -493,7 +493,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 22:36      | I think it's crazy that I got to go to a third party app, but at least there is one.                   |
 | 22:39      | Yeah.                                                                                                  |
 | 22:40      | Yeah.                                                                                                  |
-| 22:41      | It's like hooking together, [[BetterTouchTool]] and Keyboard Maestro and move to a basic                 |
+| 22:41      | It's like hooking together, [[BetterTouchTool]] and [[Keyboard Maestro]] and move to a basic                 |
 | 22:48      | window layout.                                                                                         |
 | 22:49      | I think they could have done like one action on like a shortcut and you'd be like, I'd                 |
 | 22:53      | be done.                                                                                               |
@@ -734,10 +734,10 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 38:03      | I do think there are some ways to also automate between web services and your Mac using keyboard       |
 | 38:09      | maestro.                                                                                               |
 | 38:10      | It's like it has webhook support and I found the easiest way to work between the two is                |
-| 38:16      | Keyboard Maestro.                                                                                      |
+| 38:16      | [[Keyboard Maestro]].                                                                                      |
 | 38:17      | It's just a little more advanced in shortcuts and does some stuff like that.                           |
 | 38:21      | It's funny.                                                                                            |
-| 38:22      | When I have Keyboard Maestro and I've used it, I have to say it is an app that often                   |
+| 38:22      | When I have [[Keyboard Maestro]] and I've used it, I have to say it is an app that often                   |
 | 38:27      | remains impenetrable to me.                                                                            |
 | 38:29      | It's clearly extremely powerful, but it has such a unique user interface that I have struggled         |
 | 38:38      | to really adopt it for a lot of my automation needs, just because it is not a tool that                |
@@ -748,7 +748,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 39:00      | screwed.                                                                                               |
 | 39:01      | Yeah, I'm going to spend all my time reading about more automation things.                             |
 | 39:04      | Well, watching in this particular case, but yeah, I have to say, I don't personally end                |
-| 39:09      | up using the webhooks in Keyboard Maestro all that much, not because they're not great.                |
+| 39:09      | up using the webhooks in [[Keyboard Maestro]] all that much, not because they're not great.                |
 | 39:14      | They are, but just because it goes back to that requirement of having a Mac that's always              |
 | 39:18      | on, right?                                                                                             |
 | 39:22      | If my Mac's offline, I have an iMac, which is running as my Mac home server, because                   |
@@ -849,7 +849,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 45:22      | Couldn't we create some way of automating when you need to go back and like have your list of          |
 | 45:27      | things to look at. And so Jason started this out by basically doing, I think,                          |
 | 45:32      | a combination of stuff using, I try to remember exactly which tools he started using.                  |
-| 45:38      | I think he was using Keyboard Maestro and some, an [[AppleScript]], basically.                            |
+| 45:38      | I think he was using [[Keyboard Maestro]] and some, an [[AppleScript]], basically.                            |
 | 45:43      | And I read this, I was like, oh, this is clever.                                                       |
 | 45:45      | Like, I do a lot of podcasts, too. This would be super handy.                                          |
 | 45:47      | I wonder if I could do this in a shortcut. And it turned out I could.                                  |
@@ -1010,9 +1010,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 59:07      | this kind of date and time information, as opposed to, you know, the normal sort of date and time      |
 | 59:12      | stamp. Yeah, because there is an action for getting the time between dates, which is which is useful   |
 | 59:17      | if you've got the time between dates. And I'm personally kind of interested in the fact that           |
-| 59:22      | you are getting the file every single time, because I have a Keyboard Maestro macro that does          |
+| 59:22      | you are getting the file every single time, because I have a [[Keyboard Maestro]] macro that does          |
 | 59:27      | something similar. But what happens is when I start my recording, the macro that I run saves           |
-| 59:33      | the time stamp into a variable, which in Keyboard Maestro is a global variable, which we don't         |
+| 59:33      | the time stamp into a variable, which in [[Keyboard Maestro]] is a global variable, which we don't         |
 | 59:37      | have any shortcuts. So you would have to save it somewhere, like using either a through party app      |
 | 59:42      | or to a file. And then, you know, and then every time I hit the middle foot pedal of my stream         |
 | 59:47      | data pedal, it just activates the Safari window with the Google doc in it, and hits command down       |

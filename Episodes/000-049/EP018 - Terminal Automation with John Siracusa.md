@@ -609,8 +609,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 30:04      | But on the Mac, unlike iOS, all options are open to you.                                                 |
 | 30:08      | You can write code in any language you want and make it executable and it can do what                    |
 | 30:12      | you want it to do.                                                                                       |
-| 30:13      | I'm just thinking you could also perhaps even do this with Keyboard Maestro because                      |
-| 30:17      | Keyboard Maestro has various blocks where you can execute command line scripts and you                   |
+| 30:13      | I'm just thinking you could also perhaps even do this with [[Keyboard Maestro]] because                      |
+| 30:17      | [[Keyboard Maestro]] has various blocks where you can execute command line scripts and you                   |
 | 30:21      | can execute AppleScript and you can do all sorts of things.                                             |
 | 30:25      | And in some ways, for some people, that might be better because I know as soon as I start                |
 | 30:31      | getting into doing multiple things that talk to a lot of servers, I start turning things                 |
@@ -619,23 +619,23 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 30:42      | a function, the idea is it's code that you're going to call more than once.                              |
 | 30:46      | So to avoid copy-pasting your code, you make it into a function.                                         |
 | 30:52      | And just doing that for readability, sometimes I'm much too lazy, but if I wrote it in something         |
-| 30:55      | like Keyboard Maestro, then I would just have that visibility because I've got a block                   |
+| 30:55      | like [[Keyboard Maestro]], then I would just have that visibility because I've got a block                   |
 | 31:00      | here and I've got a block there and I can see, okay, well, this is wording in the wrong                  |
 | 31:06      | order, so I'm just going to move this block up here.                                                     |
 | 31:08      | And that might be quite useful for some of our listeners as well because don't forget                    |
-| 31:11      | you can execute AppleScript and Shell Scripts directly from Keyboard Maestro.                            |
+| 31:11      | you can execute AppleScript and Shell Scripts directly from [[Keyboard Maestro]].                            |
 | 31:16      | Yeah, you can always pick who's in charge or what is the entry point because you can                     |
 | 31:20      | call from one realm into another.                                                                        |
 | 31:22      | You can make a bunch of scripts in the language of your choice, but you could have Automator             |
-| 31:27      | or Keyboard Maestro or AppleScript be the driver where it starts and it kicks off your                   |
+| 31:27      | or [[Keyboard Maestro]] or AppleScript be the driver where it starts and it kicks off your                   |
 | 31:31      | thing and then it bounces back to that thing and it goes, it just depends on what you're                 |
 | 31:35      | most comfortable with.                                                                                   |
 | 31:36      | There's no, you're not forced to choose one or the other depending on like, oh, I'm going                |
-| 31:40      | to do lots of goo manipulation and Keyboard Maestro would be great for that because I                    |
+| 31:40      | to do lots of goo manipulation and [[Keyboard Maestro]] would be great for that because I                    |
 | 31:43      | can have it like open dialogues and click on buttons or whatever.                                        |
-| 31:46      | So I have to start it in a Keyboard Maestro.                                                             |
+| 31:46      | So I have to start it in a [[Keyboard Maestro]].                                                             |
 | 31:48      | You don't.                                                                                               |
-| 31:49      | You can start it in a Shell Script and kick off Keyboard Maestro or vice versa or, you                   |
+| 31:49      | You can start it in a Shell Script and kick off [[Keyboard Maestro]] or vice versa or, you                   |
 | 31:52      | know, all three or four combined.                                                                        |
 | 31:54      | I mean, you don't want to make something where your code is spread over seven different applications     |
 | 31:58      | in 12 different languages, but you could if you wanted to.                                               |
@@ -1052,8 +1052,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 55:26      | It is currently five to four in the morning.                                                             |
 | 55:27      | So surprise, I'm not recording in the bedroom today, which means everything's a bit different            |
 | 55:31      | and that's enough to throw me off.                                                                       |
-| 55:33      | But whenever I plug in my XLR mixer, it triggers a Keyboard Maestro.                                     |
-| 55:40      | And the Keyboard Maestro itself doesn't do a lot.                                                        |
+| 55:33      | But whenever I plug in my XLR mixer, it triggers a [[Keyboard Maestro]].                                     |
+| 55:40      | And the [[Keyboard Maestro]] itself doesn't do a lot.                                                        |
 | 55:42      | It mostly just opens programs.                                                                           |
 | 55:44      | So it opens, for example, the audio inputs and everything.                                               |
 | 55:49      | And it's like, hey, make sure the audio input and output are set correctly.                              |

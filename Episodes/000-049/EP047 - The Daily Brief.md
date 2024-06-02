@@ -532,12 +532,12 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 41:45      | to be a fun challenge. Yeah, I very I like orange, I like gray. But when you told me your idea of        |
 | 41:51      | saying when I'm switching context, I want my highlight colours to change, that immediately                |
 | 41:56      | pushed some buttons in my nerd brain that are like, yes, yes, I want that now. So immediately,           |
-| 42:03      | when you asked me the question, my first go to was a stopover Keyboard Maestro Keyboard Maestro          |
+| 42:03      | when you asked me the question, my first go to was a stopover [[Keyboard Maestro]] [[Keyboard Maestro]]          |
 | 42:08      | does with version nine have the ability to get to set the the dark versus light mode.                    |
 | 42:16      | But this is these accent colours and highlight colours are not addressable directly through a              |
-| 42:21      | Keyboard Maestro command, although I'm going to send Peter an email since we hang up here.               |
+| 42:21      | [[Keyboard Maestro]] command, although I'm going to send Peter an email since we hang up here.               |
 | 42:26      | So you and I started talking about this before we started recording the show. And then immediately,      |
-| 42:31      | you know, once we realised Keyboard Maestro will not solve this problem, the obvious answer was,         |
+| 42:31      | you know, once we realised [[Keyboard Maestro]] will not solve this problem, the obvious answer was,         |
 | 42:36      | I'm sure [[AppleScript]] has a way to do it. So we started digging and both of us found two different       |
 | 42:42      | AppleScripts methods to to make this switch. Yeah, so I actually found a really nice one liner          |
 | 42:50      | that almost perfectly works. But this only changes the highlight colour. So for people not familiar,      |
@@ -561,8 +561,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 44:32      | you can set everything you want. Like if you want to make the accent colour orange and the                |
 | 44:36      | highlight colour red and set it to dark mode, you can do that. And it's a relatively small Apple          |
 | 44:41      | script. It's about looking at it. I think it's about 10 lines. And so we got that put together.          |
-| 44:49      | And then we put it into a Keyboard Maestro run AppleScript command. And now we can run it in            |
-| 44:55      | Keyboard Maestro. So if you want to set up a specific, you know, a specific work mode where              |
+| 44:49      | And then we put it into a [[Keyboard Maestro]] run AppleScript command. And now we can run it in            |
+| 44:55      | [[Keyboard Maestro]]. So if you want to set up a specific, you know, a specific work mode where              |
 | 45:02      | everything is orange, then you can do that. That's a very nice script. And what I like                   |
 | 45:07      | about this script is it shows you how to create dialogue boxes as well. So you can give yourself         |
 | 45:11      | a choice of the different appearance colours. So let's light and dark, the different accent colours        |
@@ -590,7 +590,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 47:06      | back in the background. And I'll have to look into it further, but Keyboard                              |
 | 47:10      | Maestro from my five second attempt doesn't look like it does that, but it may do that as well.          |
 | 47:16      | But I love that idea. It's like, so you could automate when you press a button on your Stream Deck       |
-| 47:22      | or a keyboard combination with Keyboard Maestro, you get the automator's desktop,                        |
+| 47:22      | or a keyboard combination with [[Keyboard Maestro]], you get the automator's desktop,                        |
 | 47:29      | then it opens up the apps you want and sets the colours to red, maybe, because that's in our              |
 | 47:34      | icon. I like that. I have a challenge for our listeners because I'm pretty certain that you              |
 | 47:39      | can get the details of the currently playing item from iTunes. So I would challenge anybody who,         |
@@ -623,7 +623,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 50:01      | much of the screen as possible. Well, I think it's a good idea, man, to try and automate the way         |
 | 50:09      | your computer looks based on different types of work you're doing. I think that we've solved the         |
 | 50:15      | mystery here with this AppleScript. We'll put it in the show notes in one way or another.               |
-| 50:21      | Maybe I'll just put together a Keyboard Maestro script on it and we'll share that in the show            |
+| 50:21      | Maybe I'll just put together a [[Keyboard Maestro]] script on it and we'll share that in the show            |
 | 50:26      | notes so you can just download it and it's already loaded up and ready to go. To change it, all you      |
 | 50:31      | do because it's AppleScript is very easy. If you want dark mode or light mode, wherever it says         |
 | 50:35      | dark, you change it to light. If you want to make it whatever colour you want, you just have to change    |
@@ -671,7 +671,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 54:24      | if you want to automate any of the system settings, this is going to be all you need. I mean, once       |
 | 54:30      | you figure this out, you can do almost anything in your system settings with an AppleScript.            |
 | 54:35      | Yeah, absolutely. Okay, so we'll put that one in and everybody download it. So we'll I'll put it         |
-| 54:42      | in as a Keyboard Maestro script, but we'll also put in the AppleScript file and a link to the           |
+| 54:42      | in as a [[Keyboard Maestro]] script, but we'll also put in the AppleScript file and a link to the           |
 | 54:48      | source link we got on this stuff. So you guys can play with it. Let us know what you do with it.         |
 | 54:53      | I'm sure there'll be some interesting uses. I can tell you I'm going to be implementing this with        |
 | 54:58      | my setups on my on my Stream Deck. So like when I go into email mode, I think I'm feeling blue           |
@@ -679,10 +679,10 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 55:12      | I like the idea of being able to set the whole system around the current context. So that's              |
 | 55:17      | what I'm going to be doing. I'll be dropping this AppleScript into a bunch of setup scripts.            |
 | 55:20      | I will be doing the same thing. Unfortunately, my Stream Deck is back in Austria. So I'm just            |
-| 55:24      | building the Keyboard Maestro macros right now and I'm using that on screen palette with keyboard        |
+| 55:24      | building the [[Keyboard Maestro]] macros right now and I'm using that on screen palette with keyboard        |
 | 55:28      | maestro, which is pretty cool. But every self done it annoys me a little bit. And so I end up closing    |
 | 55:32      | the palette. But it's a nice little way of trying to do things for sure. You know, you should do         |
-| 55:37      | it as a conflict palette in Keyboard Maestro. So it only shows up when you trigger the keyboard          |
+| 55:37      | it as a conflict palette in [[Keyboard Maestro]]. So it only shows up when you trigger the keyboard          |
 | 55:42      | shortcut. And then you can select the one you wanted and it'll disappear. See, David's a genius.         |
 | 55:47      | There's a reason why we're podcast co hosts. All right. I have a few nuts to add to the pile. But        |
 | 55:53      | honestly, Rose, I think you win today with that whole dictionary thing at the top and the location       |
@@ -731,7 +731,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:00:05   | our Markdown HTML. And then the HTML is put into the Google Doc action, which creates the Google         |
 | 01:00:10   | Doc. And then, of course, we have another Airtable action to update our Airtable record with a link      |
 | 01:00:16   | to the show notes. Because this means that what I'm doing with my Stream Deck button, when I get         |
-| 01:00:22   | my Stream Deck back for the time being, it's just the Keyboard Maestro macro, is it opens the Airtable   |
+| 01:00:22   | my Stream Deck back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the Airtable   |
 | 01:00:27   | Airtable base in Firefox for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |

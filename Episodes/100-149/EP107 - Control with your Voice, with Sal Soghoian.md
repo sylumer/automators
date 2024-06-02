@@ -228,7 +228,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 11:04      | paradigm, you know, build a stack of triggers and actions and anybody can make an automation.        |
 | 11:10      | We saw it later in a workflow, which became shortcuts.                                               |
 | 11:12      | We see it in [[Hazel]].                                                                                  |
-| 11:13      | I mean, we see it in Keyboard Maestro.                                                               |
+| 11:13      | I mean, we see it in [[Keyboard Maestro]].                                                               |
 | 11:16      | All these apps out there are using this stack of action, component automation, yeah.                 |
 | 11:22      | And you were there at the beginning.                                                                 |
 | 11:25      | It was one of those rare moments in Apple history.                                                   |
@@ -1336,7 +1336,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:24:21   | Of course the voice control toggle will then be available whenever.                                  |
 | 01:24:25   | And then over on the Mac, I got a script from Sal.                                                   |
 | 01:24:27   | I think I got it on your omni-automation website off the look.                                       |
-| 01:24:31   | But I, using Keyboard Maestro, I just tied it to control option command return on my                 |
+| 01:24:31   | But I, using [[Keyboard Maestro]], I just tied it to control option command return on my                 |
 | 01:24:37   | Mac.                                                                                                 |
 | 01:24:38   | So if I just hold down those three buttons next to the space bar and hit return, then                |
 | 01:24:42   | voice control turns on or turns off.                                                                 |

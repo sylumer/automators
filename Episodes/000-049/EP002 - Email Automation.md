@@ -301,7 +301,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 17:55      | the work for you. And it's really nice because you can duplicate an existing automation and then                                      |
 | 18:00      | enhance it and, you know, improve it, which is always nice.                                                                           |
 | 18:03      | Yeah. If you, if you listening to this show have now figured out some way to auto send,                                               |
-| 18:10      | if you have something in your life you can auto send with Keyboard Maestro, let us know in the                                        |
+| 18:10      | if you have something in your life you can auto send with [[Keyboard Maestro]], let us know in the                                        |
 | 18:13      | forum. I'd love to hear how people are doing that. I want to save you all time and I'd love to hear                                   |
 | 18:19      | how you implement that. This episode of the Automators is brought to you by the Omni Group,                                           |
 | 18:25      | makers of OmniFocus. OmniFocus 3 for iOS is a fresh major update to the app that's been the                                           |
@@ -510,7 +510,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 36:51      | from a list. It allows you to send an email. And that tool is quite powerful because it's a full                                      |
 | 36:56      | creation element of an email. And it works with variables. So you can grab variables or even                                          |
 | 37:03      | put text together through the course of your workflow to assemble and send the email for you.                                         |
-| 37:08      | It gets back to the thing we talked about earlier with Keyboard Maestro, where things just happen                                     |
+| 37:08      | It gets back to the thing we talked about earlier with [[Keyboard Maestro]], where things just happen                                     |
 | 37:12      | for you or things happen upon your approval that drastically reduce the amount of your involvement                                    |
 | 37:19      | with the creation and sending of email. And I think that is workflow's most powerful element                                          |
 | 37:25      | with respect to email. Yeah, definitely. And what you can even do, and variables are a little                                         |
@@ -568,7 +568,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 41:59      | up on it, which is automation again. Yeah, exactly. That's what we're here for. Exactly. So I mean,                                   |
 | 42:04      | workflow is an incredibly powerful tool. The interesting thing to me, that was one of those                                           |
 | 42:09      | aha moments where I realised that automation on iOS is better than iOS on Mac under certain                                           |
-| 42:14      | circumstances, because I could probably put that together on my Mac with a Keyboard Maestro.                                          |
+| 42:14      | circumstances, because I could probably put that together on my Mac with a [[Keyboard Maestro]].                                          |
 | 42:20      | But, but, you know, it's pretty nice that I can do it on my iPad.                                                                     |
 | 42:24      | Yeah. And the great thing about your iPhone, and this is, you know, you'll probably hear me say                                       |
 | 42:29      | this hundreds of times, is it's the device you have with you. You know, if you have an iPhone,                                        |

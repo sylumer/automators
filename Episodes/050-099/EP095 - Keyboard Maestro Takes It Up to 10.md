@@ -65,15 +65,15 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 00:24      | It's really been fun having that extra focus because this is an application that's just                  |
 | 00:30      | always there just doing stuff for me, and now I really, really get the benefit of, you                   |
 | 00:36      | know, being able to dive in because I've had a couple of weeks to really focus on this.                  |
-| 00:40      | Yeah, and of course we're talking about Keyboard Maestro.                                                |
+| 00:40      | Yeah, and of course we're talking about [[Keyboard Maestro]].                                                |
 | 00:42      | It recently got updated to version 10, and it added a bunch of really nice new features,                 |
-| 00:50      | and so we wanted to give Keyboard Maestro a show.                                                        |
+| 00:50      | and so we wanted to give [[Keyboard Maestro]] a show.                                                        |
 | 00:52      | We've talked about it a lot on the show, I feel like with every guest show there's almost                |
-| 00:55      | a Keyboard Maestro segment for anybody that is Mac-based, but it really is an amazing,                   |
+| 00:55      | a [[Keyboard Maestro]] segment for anybody that is Mac-based, but it really is an amazing,                   |
 | 01:02      | amazing, you know, tool for doing automation on your Mac, and I thought maybe even before                |
 | 01:07      | we get into the new features, a common question I keep getting from people is, with the emergence        |
 | 01:14      | of shortcuts for Mac, and it is getting better and more stable, is there still a need for                |
-| 01:20      | Keyboard Maestro? That's a question people ask me a lot.                                                 |
+| 01:20      | [[Keyboard Maestro]]? That's a question people ask me a lot.                                                 |
 | 01:23      | What do you think about that, Rose?                                                                      |
 | 01:25      | I mean, I think it's a great question for people to ask because, you know, it is another                 |
 | 01:29      | tool, but I personally feel like if you really want to automate stuff, you're going to want              |
@@ -81,7 +81,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:37      | If you're trying to make a chair and you're a carpenter, you're not just going to have                   |
 | 01:42      | one hammer, you're probably also going to have, you know, a pin hammer and, you know,                    |
 | 01:46      | maybe a mallet and so on, as well as a regular hammer, and it's one of these things where                |
-| 01:51      | having all the tools really makes life much easier, and Keyboard Maestro is so powerful,                 |
+| 01:51      | having all the tools really makes life much easier, and [[Keyboard Maestro]] is so powerful,                 |
 | 01:58      | and it takes a lot of those things that we just can't do in shortcuts and makes them                     |
 | 02:02      | much more easily accessible, and of course, it syncs between your Macs, and you can choose               |
 | 02:07      | how you sync it, which means that I can sync it to my work machine as well and have the                  |
@@ -94,39 +94,39 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 02:42      | automation and [[Apple Mail]], for a long time, that was one of the ways I was filing messages               |
 | 02:47      | because you can go through the menu system to move a message to, you know, a mailbox                     |
 | 02:54      | that's deep in your mail system, and I was using the menu command for that, it's just                    |
-| 02:59      | something you can't do in shortcuts, and Keyboard Maestro has that they have that some of the            |
+| 02:59      | something you can't do in shortcuts, and [[Keyboard Maestro]] has that they have that some of the            |
 | 03:04      | basic stuff like that, but they also have some of the deeper stuff like, you know, look                  |
 | 03:08      | at the screen and find a certain image and click on it.                                                  |
 | 03:12      | Yeah, yeah, and I have to say, you know, the fact that we have things like that available                |
-| 03:18      | to us, I mean, Automator does have Watch Me Do, but I find Keyboard Maestro is much                      |
+| 03:18      | to us, I mean, Automator does have Watch Me Do, but I find [[Keyboard Maestro]] is much                      |
 | 03:22      | better at breaking things down when you're trying to do something where you're not quite                 |
 | 03:26      | sure how to program it because you can add those extra little pauses in very easily and                  |
 | 03:31      | so on and so forth, and instead of saying, you know, click over here on this page, you                   |
 | 03:35      | click at the specific image and things like that, which means that even if you don't necessarily         |
 | 03:40      | know what you're doing, you've still got a lot of options to make sure everything works.                 |
-| 03:45      | Another piece of this is just kind of the status of the software, Keyboard Maestro is                    |
+| 03:45      | Another piece of this is just kind of the status of the software, [[Keyboard Maestro]] is                    |
 | 03:49      | remarkably stable, and shortcuts is early in its life.                                                   |
 | 03:54      | So where shortcuts right now is at the point where they're still shaping it on the band                  |
-| 03:59      | saw to use the carpenter analogy, Keyboard Maestro is at the 300 grit sandpaper level,                   |
+| 03:59      | saw to use the carpenter analogy, [[Keyboard Maestro]] is at the 300 grit sandpaper level,                   |
 | 04:05      | you know, I mean, they're doing fine adjustments and making little changes to make things easier.        |
 | 04:11      | And you know, they're able to deal with details that the shortcuts team, it's probably on                |
 | 04:16      | their whiteboard somewhere, but it's not near, you know, the top of their list right now.                |
-| 04:20      | So you've got a very nice stable experience with Keyboard Maestro and a different set                    |
+| 04:20      | So you've got a very nice stable experience with [[Keyboard Maestro]] and a different set                    |
 | 04:27      | of tools.                                                                                                |
 | 04:28      | In fact, really, when people ask me this question, I kind of flip it on its head.                        |
-| 04:31      | I want to ask them, wouldn't it be nice if we had Keyboard Maestro on our iPhones and                    |
+| 04:31      | I want to ask them, wouldn't it be nice if we had [[Keyboard Maestro]] on our iPhones and                    |
 | 04:36      | iPads in addition to shortcuts, because, you know, there are features that just don't,                   |
 | 04:41      | you know, automation things you just can't do on mobile that you can do on a Mac very                    |
 | 04:45      | easily.                                                                                                  |
 | 04:46      | Yes.                                                                                                     |
 | 04:47      | Though I have to say, one of the things that I have found to be really great with shortcuts              |
-| 04:52      | and Keyboard Maestro is the ability to call a Keyboard Maestro micro from a shortcut.                    |
-| 04:58      | Because Keyboard Maestro has one of the trigger options that you can add to a macro is a public          |
+| 04:52      | and [[Keyboard Maestro]] is the ability to call a [[Keyboard Maestro]] micro from a shortcut.                    |
+| 04:58      | Because [[Keyboard Maestro]] has one of the trigger options that you can add to a macro is a public          |
 | 05:05      | web URL, which means that even if you're not at home, you can have it call that URL.                     |
 | 05:09      | And if your Mac at home is running, then it will just do the thing, which is that that's                 |
 | 05:14      | really great.                                                                                            |
 | 05:15      | And I really like the fact that we do have so many ways to do things.                                    |
-| 05:21      | And Keyboard Maestro can do some things that other tools can do like [[Hazel]], it could watch               |
+| 05:21      | And [[Keyboard Maestro]] can do some things that other tools can do like [[Hazel]], it could watch               |
 | 05:25      | a folder, same sort of way, but I love the fact that I have the option to have all the                   |
 | 05:31      | tools and also to just really use whatever is most powerful.                                             |
 | 05:35      | And so I've been doing a lot of playing recently, David, a lot of playing and it's been very             |
@@ -134,16 +134,16 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 05:46      | Maestro and go, I don't feel like I've even got started yet.                                             |
 | 05:50      | Well, I mean, and they're already able to talk to each other.                                            |
 | 05:56      | You talked about public URLs, so the way you do that is you just call it in a shortcut                   |
-| 06:01      | and then it triggers a Keyboard Maestro script.                                                          |
+| 06:01      | and then it triggers a [[Keyboard Maestro]] script.                                                          |
 | 06:05      | So not only can you trigger it with your Stream Deck or some keyboard shortcut, or you can               |
 | 06:10      | trigger it with a keyboard and attach and a keyboard and a MIDI note.                                    |
 | 06:14      | You can also trigger it with your phone or iPad or Apple Watch.                                          |
 | 06:19      | And that is kind of awesome.                                                                             |
-| 06:21      | But people are already going the other direction now to where they're allowing Keyboard Maestro          |
+| 06:21      | But people are already going the other direction now to where they're allowing [[Keyboard Maestro]]          |
 | 06:27      | to trigger shortcuts.                                                                                    |
 | 06:29      | Yeah, yeah, because of course, you can do that now.                                                      |
 | 06:36      | This is something that people have been playing with a little bit because if you look for actions        |
-| 06:40      | in Keyboard Maestro for shortcuts, you actually don't find one.                                          |
+| 06:40      | in [[Keyboard Maestro]] for shortcuts, you actually don't find one.                                          |
 | 06:44      | But there is a really great action called script or execute a script, specifically execute               |
 | 06:51      | a shell script, because then you can type run shortcuts space quotation mark the name                    |
 | 06:58      | of your shortcut quotation mark.                                                                         |
@@ -155,10 +155,10 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 07:10      | Yeah.                                                                                                    |
 | 07:11      | I really think that, and this is only the beginning, honestly.                                           |
 | 07:16      | I think we're going to have a real rich environment with this done.                                      |
-| 07:20      | There are some things in Keyboard Maestro that it's not good at that shortcuts is better                 |
+| 07:20      | There are some things in [[Keyboard Maestro]] that it's not good at that shortcuts is better                 |
 | 07:24      | at.                                                                                                      |
 | 07:25      | Two examples that come to my mind are calendars and contacts.                                            |
-| 07:29      | I feel like they're difficult to script in Keyboard Maestro.                                             |
+| 07:29      | I feel like they're difficult to script in [[Keyboard Maestro]].                                             |
 | 07:33      | I mean, you can do it.                                                                                   |
 | 07:34      | You can write an [[AppleScript]] to do anything with contacts, but I don't want to have to                  |
 | 07:38      | break out the AppleScript.                                                                              |
@@ -181,7 +181,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 08:56      | Yes.                                                                                                     |
 | 08:57      | So you want to start digging in on some of the version 10 features?                                      |
 | 09:02      | Yes.                                                                                                     |
-| 09:03      | Yes, I think that's a great place to get started because Keyboard Maestro has been around for              |
+| 09:03      | Yes, I think that's a great place to get started because [[Keyboard Maestro]] has been around for              |
 | 09:07      | long enough that it already has version 10, and it only does a new major release about                   |
 | 09:11      | every two years, and so the fact that we've just had one is pretty nice.                                 |
 | 09:19      | But I have been having a lot of fun with the subroutines, David, and I know that's a pretty              |
@@ -195,7 +195,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 09:38      | But let's just start with the big one, subroutines.                                                      |
 | 09:41      | Yeah.                                                                                                    |
 | 09:42      | Yeah.                                                                                                    |
-| 09:43      | So subroutines are a macro that is run inside of a Keyboard Maestro macro, and you might                 |
+| 09:43      | So subroutines are a macro that is run inside of a [[Keyboard Maestro]] macro, and you might                 |
 | 09:49      | be thinking, well, can you do that before?                                                               |
 | 09:51      | And yes, yes, you could.                                                                                 |
 | 09:52      | It's not something that is entirely new with version 10, but version 10 explicitly adds                  |
@@ -211,18 +211,18 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 10:37      | to change any bit of that, you don't have to change it five times.                                       |
 | 10:40      | You just change it once and the subroutine calls that, and then it just makes everything                 |
 | 10:46      | simpler.                                                                                                 |
-| 10:47      | It's much more of a programming concept, but if you're doing Keyboard Maestro, you're                    |
+| 10:47      | It's much more of a programming concept, but if you're doing [[Keyboard Maestro]], you're                    |
 | 10:51      | programming, so that's okay.                                                                             |
 | 10:53      | You should embrace that.                                                                                 |
 | 10:55      | Where are you using the subroutines?                                                                     |
 | 10:57      | Well, I'm using them in all sorts of places.                                                             |
 | 11:00      | And one example, which I think people will be quite interested in is some of the automators              |
 | 11:05      | actions that I have.                                                                                     |
-| 11:07      | So I have a folder in Keyboard Maestro for all of my automators, macros.                                 |
+| 11:07      | So I have a folder in [[Keyboard Maestro]] for all of my automators, macros.                                 |
 | 11:13      | And I have a folder in Dropbox, which is where all of the audio for the show gets saved automatically.   |
 | 11:19      | I've got audio hijacks set up when I'm using my automators session in audio hijack, then                 |
 | 11:25      | it saves it into this folder.                                                                            |
-| 11:28      | And Keyboard Maestro watches that folder, and it waits.                                                  |
+| 11:28      | And [[Keyboard Maestro]] watches that folder, and it waits.                                                  |
 | 11:31      | And then it pops up and says, hey, so what's the episode number for this?                                |
 | 11:36      | And then if it's a regular show audio, then it just moves it into the folder with the                    |
 | 11:42      | right name and everything that it's got.                                                                 |
@@ -288,7 +288,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 15:15      | some really good ones and one of the new triggers that I really appreciate is the unlock trigger.        |
 | 15:21      | So you've got your Mac and it's shut down or locked up and you sit down and you unlock                   |
 | 15:28      | your mac.                                                                                                |
-| 15:29      | Well, now that is a Keyboard Maestro trigger.                                                            |
+| 15:29      | Well, now that is a [[Keyboard Maestro]] trigger.                                                            |
 | 15:31      | Yeah.                                                                                                    |
 | 15:32      | And just think about that, right?                                                                        |
 | 15:34      | As soon as you unlock your mac, then a macro can be triggered.                                           |
@@ -329,10 +329,10 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 18:05      | is this, do this, if this thing is this, do this, else do that thing.                                    |
 | 18:10      | It is that it's just, it's a switch case.                                                                |
 | 18:12      | So you have the multiple cases directly, which is really nice.                                           |
-| 18:16      | I love the fact that Keyboard Maestro has this.                                                          |
+| 18:16      | I love the fact that [[Keyboard Maestro]] has this.                                                          |
 | 18:17      | I wish the shortcuts had this, but there is a great switch case.                                         |
 | 18:23      | And you can say, you know, if your text contains this or a calculation contains that and the             |
-| 18:31      | calculations are pretty powerful and Keyboard Maestro too.                                               |
+| 18:31      | calculations are pretty powerful and [[Keyboard Maestro]] too.                                               |
 | 18:35      | And so it's really nice to do that.                                                                      |
 | 18:37      | So normally I use the switch command if I've got multiple options.                                       |
 | 18:41      | Yes, that's what I'm doing with this.                                                                    |
@@ -443,7 +443,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 25:01      | And that's the great thing, because then if I end up doing something at a different                      |
 | 25:04      | time or similar, then it's really easy to just pull that bit out and run it separately.                  |
 | 25:10      | Because I don't know about you, David, but I personally find the menu bar option for                     |
-| 25:18      | or the status menu trigger option for Keyboard Maestro is a really great way to run a whole              |
+| 25:18      | or the status menu trigger option for [[Keyboard Maestro]] is a really great way to run a whole              |
 | 25:24      | bunch of different macros because it's right there in my menu bar.                                       |
 | 25:28      | It doesn't take up a lot of space, but I can click on it and see all of the different                    |
 | 25:33      | options that I have available.                                                                           |
@@ -505,7 +505,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 28:49      | opposite sides of my keyboard for this.                                                                  |
 | 28:52      | Because otherwise it's really easy to accidentally drop a notebook or something down on your             |
 | 28:55      | desk and have it depress a key on your keyboard.                                                         |
-| 28:58      | And so if it's just pressing like the control key and then Keyboard Maestro magic, so it's               |
+| 28:58      | And so if it's just pressing like the control key and then [[Keyboard Maestro]] magic, so it's               |
 | 29:02      | happening, that's not necessarily what was intended.                                                     |
 | 29:07      | But the ability to do this, so I do do like diagonal opposites on my keyboard usually.                   |
 | 29:15      | That's my combination for that, and that makes it quite easy.                                            |
@@ -524,11 +524,11 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 30:08      | February and then I had an email from Amazon just yesterday actually to say that it should               |
 | 30:12      | be coming earlier.                                                                                       |
 | 30:14      | Okay, well, you're ahead of me.                                                                          |
-| 30:17      | Yeah, well, I'm going to be seeing what Keyboard Maestro can do with this because, of course,            |
-| 30:24      | there's plenty of different things that we can do with Keyboard Maestro, but it can                      |
+| 30:17      | Yeah, well, I'm going to be seeing what [[Keyboard Maestro]] can do with this because, of course,            |
+| 30:24      | there's plenty of different things that we can do with [[Keyboard Maestro]], but it can                      |
 | 30:27      | be triggered by specific key presses on devices.                                                         |
 | 30:32      | And the other thing, which I think we should probably talk about a little bit, is folders                |
-| 30:36      | in Keyboard Maestro because for people who haven't really played with Keyboard Maestro                   |
+| 30:36      | in [[Keyboard Maestro]] because for people who haven't really played with [[Keyboard Maestro]]                   |
 | 30:41      | before, they have groups, which look like folders.                                                       |
 | 30:46      | So I usually call them folders, but they are called groups.                                              |
 | 30:49      | And these are very powerful, not just for organising your macros.                                        |
@@ -547,7 +547,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 31:45      | That's it.                                                                                               |
 | 31:46      | Yeah.                                                                                                    |
 | 31:47      | Another way to use those groups is app-specific groups.                                                  |
-| 31:50      | So like, for instance, Obsidian is one I've been doing a lot of Keyboard Maestro working                |
+| 31:50      | So like, for instance, Obsidian is one I've been doing a lot of [[Keyboard Maestro]] working                |
 | 31:55      | lately and I have a group and I prefaced all app ones.                                                   |
 | 32:00      | It's an app colon and then the name of the app.                                                          |
 | 32:03      | And then you can click when you select that group.                                                       |
@@ -573,7 +573,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 33:31      | and OmniFocus isn't running, nothing happens.                                                            |
 | 33:35      | And I know Katie talked about this on my power usage ages ago, Sean Blanc had a great script             |
 | 33:40      | called Oopsy Focus.                                                                                       |
-| 33:41      | I have just created a single group in Keyboard Maestro called Not OmniFocus.                             |
+| 33:41      | I have just created a single group in [[Keyboard Maestro]] called Not OmniFocus.                             |
 | 33:48      | And it uses the same hotkey that happens when OmniFocus is running or the OmniFocus uses.                |
 | 33:55      | And what happens is it activates OmniFocus, waits, gives it a second or two, then activates              |
 | 34:02      | the previous application, and then it types the keystroke for me, which means that I end                 |
@@ -617,7 +617,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 37:12      | But another way to do this is to use the Show Pallet of Macros option, and then you can                  |
 | 37:19      | either use a smart group or you can use a regular group to show a specific group of                      |
 | 37:25      | macros, and that is very handy because I have a group called, it's actually a smart group                |
-| 37:33      | called Work Stream Deck, and the idea is it is essentially a Keyboard Maestro pallet of                  |
+| 37:33      | called Work Stream Deck, and the idea is it is essentially a [[Keyboard Maestro]] pallet of                  |
 | 37:41      | my Work Stream Deck actions, and this means that I can then just hit that keyboard shortcut              |
 | 37:47      | and all of them pop up, but I don't necessarily have to use the macro pallet for it, which               |
 | 37:51      | is really the conflict pallet for I can just have an application pallet, and then it can                 |
@@ -639,7 +639,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 38:57      | is a cool trigger, and we only have so many keys on our keyboards, and whether using it                  |
 | 39:04      | with an app-specific group or long press, you can absolutely find a way to get all your                  |
 | 39:11      | automations onto your keyboard.                                                                          |
-| 39:14      | That is really great, but of course, there's a lot more ways to trigger Keyboard Maestro,                |
+| 39:14      | That is really great, but of course, there's a lot more ways to trigger [[Keyboard Maestro]],                |
 | 39:18      | which we should dive into.                                                                               |
 | 39:21      | This episode of The Automators is brought to you by TextExpander.                                        |
 | 39:25      | Go to textexpander.com/podcast and get 20% off your first year.                                    |
@@ -688,7 +688,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 42:10      | Yeah.                                                                                                    |
 | 42:11      | I mean, it depends on what you're doing.                                                                 |
 | 42:14      | Like, there are a lot of good hardware related triggers like plugging in a USB device.                   |
-| 42:19      | And the Keyboard Maestro field guide I broke down when I had where when I plug in the scanner,           |
+| 42:19      | And the [[Keyboard Maestro]] field guide I broke down when I had where when I plug in the scanner,           |
 | 42:25      | it sets up the computer for scanning because you can have a do that.                                     |
 | 42:29      | A lot of people also do that when they like plug in an external drive that they set up                   |
 | 42:33      | for doing things.                                                                                        |
@@ -717,14 +717,14 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 43:57      | that you're doing and put this in the places that you usually have it.                                   |
 | 44:02      | And that is great.                                                                                       |
 | 44:03      | I'm combining that with Moom because Moom's kind of a subroutine and I have Moom rearrange               |
-| 44:08      | certain Windows for me, but I do that through Keyboard Maestro a lot of the time because                 |
+| 44:08      | certain Windows for me, but I do that through [[Keyboard Maestro]] a lot of the time because                 |
 | 44:14      | I just chain all of the automations together.                                                            |
 | 44:17      | Yeah.                                                                                                    |
 | 44:18      | I am.                                                                                                    |
 | 44:19      | I'll tell you the truth though, my go to, you know, trigger like 90% or more of the time                 |
 | 44:27      | is just keyboard shortcuts because they're just so handy and you can use them.                           |
 | 44:32      | You can trigger them with other automations.                                                             |
-| 44:34      | You can, and then of course the Stream Deck is a huge kind of Keyboard Maestro launching                 |
+| 44:34      | You can, and then of course the Stream Deck is a huge kind of [[Keyboard Maestro]] launching                 |
 | 44:41      | device for me as well.                                                                                   |
 | 44:42      | I was just looking, do they, do they only make the standard Stream Deck now that they                    |
 | 44:47      | used to have three sizes, but just looking on Amazon real quickly.                                       |
@@ -740,20 +740,20 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 45:23      | And I, I mean, with the, and this is not a Stream Deck show, but you know, it can also                   |
 | 45:28      | pop up different sets of buttons depending on what app you're in.                                        |
 | 45:31      | And then you connect those with KM link, which is the, you know, the third party plug-in                 |
-| 45:36      | to run a Keyboard Maestro script from your Stream Deck and suddenly like everything goes                 |
+| 45:36      | to run a [[Keyboard Maestro]] script from your Stream Deck and suddenly like everything goes                 |
 | 45:42      | so fast with buttons and, and also I am a massive user of conflict pallets as, as everybody              |
 | 45:49      | already knows.                                                                                           |
 | 45:50      | Yeah.                                                                                                    |
 | 45:51      | Yes.                                                                                                     |
 | 45:52      | For me, it's much the same.                                                                              |
-| 45:54      | I am using the Keyboard Maestro integration with the Stream Deck in some places because                  |
+| 45:54      | I am using the [[Keyboard Maestro]] integration with the Stream Deck in some places because                  |
 | 46:00      | what it can do is it can change what a button looks like.                                                |
 | 46:06      | So it can set an image, it can set the title, it could show an alert and so on and so forth.             |
 | 46:12      | And that, that's really nice.                                                                            |
 | 46:14      | And a great example of this is TJ Luoma is Fantastical, which he has and I'll put a link                  |
 | 46:20      | to, he talked about this when he was on the show with us, but that is great.                             |
 | 46:25      | I have that on every device I connect my, well, I mean, I have it everywhere because                     |
-| 46:30      | I, I just have the, the, the Keyboard Maestro macro running all the time, but it is really               |
+| 46:30      | I, I just have the, the, the [[Keyboard Maestro]] macro running all the time, but it is really               |
 | 46:36      | handy to have that so that I can glance and go, yep, you know, it's black, I don't need                  |
 | 46:40      | to worry.                                                                                                |
 | 46:41      | Wow.                                                                                                     |
@@ -765,7 +765,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 46:51      | Be aware of this for me, which I really enjoy.                                                           |
 | 46:54      | Yeah.                                                                                                    |
 | 46:55      | But the, the ability to trigger these things off keyboard shortcut to me is, is really key.              |
-| 47:02      | My primary, the, the Keyboard Maestro shortcut I trigger most often is my, my contextual                 |
+| 47:02      | My primary, the, the [[Keyboard Maestro]] shortcut I trigger most often is my, my contextual                 |
 | 47:11      | computing triggers.                                                                                      |
 | 47:12      | And the one that I use by far the most is control option command M, which is the max                     |
 | 47:18      | Sparky context and anything really I'm doing that is related to max Sparky can be triggered              |
@@ -830,12 +830,12 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 50:55      | I try to use Chrome as rarely as possible, but work requires me to make sure that stuff                  |
 | 51:00      | that I write actually works in Chrome as well as Firefox and Safari.                                     |
 | 51:04      | So I do have to open Chrome on a semi-regular basis and finding out that I could disable                 |
-| 51:09      | that preference meant I could actually get rid of the Keyboard Maestro macro that I had                  |
-| 51:12      | to just hit the Q again, but it's worth knowing that I could have done it with Keyboard Maestro.         |
+| 51:09      | that preference meant I could actually get rid of the [[Keyboard Maestro]] macro that I had                  |
+| 51:12      | to just hit the Q again, but it's worth knowing that I could have done it with [[Keyboard Maestro]].         |
 | 51:19      | Yeah.                                                                                                    |
 | 51:20      | So one of the big fixes, and this is just a small nerdy thing for me, is the way it handles              |
 | 51:26      | variables with the version 10.                                                                           |
-| 51:29      | Historically, when you added a new variable, because a lot of my Keyboard Maestro scripts                |
+| 51:29      | Historically, when you added a new variable, because a lot of my [[Keyboard Maestro]] scripts                |
 | 51:34      | and if you watch my field guide on this, you'll see this, is all have them where they collect            |
 | 51:38      | a bunch of data with a user input screen, like, you know, give the name of the document                  |
 | 51:44      | and the name of the person and the name of whatever.                                                     |
@@ -852,7 +852,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 52:29      | Yes.                                                                                                     |
 | 52:30      | While we're talking about variables, I think variables are actually a really great thing                 |
 | 52:34      | that we should probably talk about because it took me a while to wrap my head around                     |
-| 52:38      | the fact that by default in Keyboard Maestro, all variables are global variables.                        |
+| 52:38      | the fact that by default in [[Keyboard Maestro]], all variables are global variables.                        |
 | 52:43      | So you create a variable in one macro, and it's available, and whatever it was set to                    |
 | 52:48      | is also available in all of your other macros.                                                           |
 | 52:51      | Yeah, that can get you in trouble.                                                                       |
@@ -869,7 +869,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 53:43      | once I'm done with the macro, I don't want those variables to come back.                                 |
 | 53:47      | But it is really nice to have the ability to have some global variables because I use                    |
 | 53:54      | those, for example, when I switch modes, which primarily through focus mode, to set my current           |
-| 54:01      | mode as a variable that is available in Keyboard Maestro.                                                |
+| 54:01      | mode as a variable that is available in [[Keyboard Maestro]].                                                |
 | 54:06      | However, even though global variables are global, they're global to your computer and                    |
 | 54:09      | they don't sync, which was something that caught me out the other day because I thought                  |
 | 54:12      | that this might be something that syncs.                                                                 |
@@ -884,19 +884,19 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 54:44      | pre-populating variables.                                                                                |
 | 54:47      | You can add date, time, and date and time picker fields.                                                 |
 | 54:51      | So if you've got a script that involves date math, like I used to do a bunch of those through            |
-| 54:57      | Keyboard Maestro that I'm now doing those through shortcuts where I pick a date and                      |
+| 54:57      | [[Keyboard Maestro]] that I'm now doing those through shortcuts where I pick a date and                      |
 | 55:01      | we talked about this, Jeff Richardson.                                                                   |
 | 55:03      | It says, well, what's 30 days after that or 45 days before that?                                         |
 | 55:06      | Well, now you can put a date picker in there and they also added a slider field.                         |
 | 55:11      | So you can have, if you have a slider, like you can pick, you know, one to four stars                    |
 | 55:15      | and you can have a slider right in the user input.                                                       |
-| 55:19      | I mean, I feel like that overall the user input screens and Keyboard Maestro are friendlier              |
+| 55:19      | I mean, I feel like that overall the user input screens and [[Keyboard Maestro]] are friendlier              |
 | 55:26      | than they are in shortcuts because they give you a lot more options like I can add a checkbox            |
 | 55:30      | or a slider or a date picker and kind of really build a very rough user interface that has               |
 | 55:37      | the types of data I want to collect.                                                                     |
 | 55:40      | Yes, yes.                                                                                                |
 | 55:42      | And of course, if you're getting very nerdy with that, then there's the option to do                     |
-| 55:45      | a custom HTML prompt, which I've seen some really great examples of in the Keyboard Maestro              |
+| 55:45      | a custom HTML prompt, which I've seen some really great examples of in the [[Keyboard Maestro]]              |
 | 55:50      | forums and I've used a couple of them, but I've not bothered to sit down and create one                  |
 | 55:56      | myself yet just because there hasn't been the need.                                                      |
 | 55:58      | And just as I was going, you know, actually I really could do with the date field, keyboard              |
@@ -907,7 +907,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 56:24      | available so you can insert time zone and it gives you examples of what each of these                    |
 | 56:29      | look like as well.                                                                                       |
 | 56:32      | And this is really great and it's been there for a while with the insert token option where              |
-| 56:36      | you've got dictionaries, which are Keyboard Maestro dictionaries where you can have multiple             |
+| 56:36      | you've got dictionaries, which are [[Keyboard Maestro]] dictionaries where you can have multiple             |
 | 56:41      | keys and values, named clipboards, all of your variables.                                                |
 | 56:47      | And then there's also calculations and so on, but date is in there as well where you                     |
 | 56:51      | can just insert date and that is very handy for setting file names and stuff because there               |
@@ -969,7 +969,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:00:28   | Just go to DEVONtechnologies.com/Automators, that's DEVONtechnologies.com/Automators       |
 | 01:00:32   | for 10% off.                                                                                             |
 | 01:00:33   | I'll thanks the Dev and Technologies for their support of this show and all of Relay FM.                |
-| 01:00:38   | All right, so what are some other things you're doing with Keyboard Maestro these days,                  |
+| 01:00:38   | All right, so what are some other things you're doing with [[Keyboard Maestro]] these days,                  |
 | 01:00:42   | Rose?                                                                                                    |
 | 01:00:43   | Well, I mean, there's a lot of things which are kind of similar to other things that I've                |
 | 01:00:48   | got, which are things like when I hit save in PHPStorm, it activates my terminal to give                 |
@@ -984,7 +984,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:01:28   | that I do very frequently.                                                                               |
 | 01:01:31   | But it's very nice to be able to do that.                                                                |
 | 01:01:34   | And of course, there's everybody's favourite, a paste of plain text, which is what happens,               |
-| 01:01:39   | the vast majority of the time, thanks to Keyboard Maestro interfering with my command V.                 |
+| 01:01:39   | the vast majority of the time, thanks to [[Keyboard Maestro]] interfering with my command V.                 |
 | 01:01:43   | You know, what I've done recently, and this is a really dumb one, but I think people could               |
 | 01:01:48   | appreciate it.                                                                                           |
 | 01:01:50   | On iOS, I like the ability to use Memoji stickers when responding to email.                              |
@@ -1003,11 +1003,11 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:02:42   | And what I did was I went on the iPad, I believe I did on my iPad, and I just looked at the              |
 | 01:02:48   | list of Memoji's, and I did screen grabs of the various ones, the one with my thumbs                     |
 | 01:02:55   | up, the one with the heart in my eyes, a couple of different ones, okay?                                 |
-| 01:02:59   | And then, so I had all these little image files, and I saved them to Keyboard Maestro                    |
-| 01:03:04   | as saved clipboards, because in Keyboard Maestro, you can have a bunch of clipboards.                    |
+| 01:02:59   | And then, so I had all these little image files, and I saved them to [[Keyboard Maestro]]                    |
+| 01:03:04   | as saved clipboards, because in [[Keyboard Maestro]], you can have a bunch of clipboards.                    |
 | 01:03:09   | So I've got all these images, and I gave them a specific name, it's Memoji-call-me, Memoji-celebrate,    |
 | 01:03:17   | or curse, and I've got a bunch of the ones that I'd saved.                                               |
-| 01:03:22   | And so now in Keyboard Maestro, in Apple Mail, I hit command R, and then here, let me just               |
+| 01:03:22   | And so now in [[Keyboard Maestro]], in Apple Mail, I hit command R, and then here, let me just               |
 | 01:03:29   | go look and make sure I'm getting this right.                                                            |
 | 01:03:31   | I hit command R, I wait 0.3 seconds, because, you know, wait is always there, pause.                     |
 | 01:03:37   | And then I paste the named clipboard, and then I, and you can select, you know, in the                   |
@@ -1048,10 +1048,10 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:05:41   | You're right.                                                                                            |
 | 01:05:42   | That's not good.                                                                                         |
 | 01:05:43   | Yeah.                                                                                                    |
-| 01:05:44   | But I actually have kind of following on from a bonus tip that's not Keyboard Maestro                    |
+| 01:05:44   | But I actually have kind of following on from a bonus tip that's not [[Keyboard Maestro]]                    |
 | 01:05:50   | specific, but it is related to it.                                                                       |
-| 01:05:52   | I have two PopClip extensions that I use for Keyboard Maestro.                                          |
-| 01:05:57   | Because when you type in a variable in Keyboard Maestro, if you're not using the Insert                  |
+| 01:05:52   | I have two PopClip extensions that I use for [[Keyboard Maestro]].                                          |
+| 01:05:57   | Because when you type in a variable in [[Keyboard Maestro]], if you're not using the Insert                  |
 | 01:06:03   | Token option, which does this for you, then you need to type percent variable percent                    |
 | 01:06:09   | name of variable percent sign.                                                                           |
 | 01:06:12   | And that can be a little bit frustrating at times.                                                       |
@@ -1062,7 +1062,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:06:29   | Generates the variable code.                                                                             |
 | 01:06:30   | And so it turns it into a variable for me.                                                               |
 | 01:06:33   | And that is really nice to have.                                                                         |
-| 01:06:36   | And then another one is if you copy the UUID of a Keyboard Maestro macro, then you can                   |
+| 01:06:36   | And then another one is if you copy the UUID of a [[Keyboard Maestro]] macro, then you can                   |
 | 01:06:43   | put this into a [[URL Schemes\|URL scheme]] to run the macro, which means that you can do it from other                   |
 | 01:06:48   | places.                                                                                                  |
 | 01:06:50   | And so I have a match for that.                                                                          |
@@ -1072,7 +1072,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:07:07   | Maestro [[URL Schemes\|URL scheme]].                                                                                      |
 | 01:07:09   | It just prefixes it with KM Trigger or whatever it is.                                                   |
 | 01:07:13   | I've forgotten now because I don't have to type it, but it is quite nice to do that.                     |
-| 01:07:18   | And that has made it a tiny bit easier to use Keyboard Maestro because it was already                    |
+| 01:07:18   | And that has made it a tiny bit easier to use [[Keyboard Maestro]] because it was already                    |
 | 01:07:25   | pretty darn easy, but that's just made things slightly better.                                           |
 | 01:07:28   | Yeah, I did that variable trick once.                                                                    |
 | 01:07:30   | I was making a macro at some point, and the insert token thing was getting on my nerves.                 |
@@ -1080,7 +1080,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:07:40   | contents for the variable name.                                                                          |
 | 01:07:43   | So I would just copy the name of the variable somewhere in the document and then hit the                 |
 | 01:07:47   | TextExpander snippet.                                                                                   |
-| 01:07:49   | A funny thing about it is you can't put spaces in the variable names in Keyboard Maestro,                |
+| 01:07:49   | A funny thing about it is you can't put spaces in the variable names in [[Keyboard Maestro]],                |
 | 01:07:53   | which a lot of times when I grew up doing programming, the basic stuff I did, you could                  |
 | 01:07:59   | never do that.                                                                                           |
 | 01:08:00   | But that still throws me a little bit when you put space in the name of the variable,                    |
@@ -1110,7 +1110,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:09:53   | on your screen, but in the clipboard, which the nerd part of me loves that so much that                  |
 | 01:10:00   | I'm fixing things in the clipboard before I even put it on the screen.                                   |
 | 01:10:05   | I don't know why that gives me so much joy, Rose, but that is one of my favourite things                  |
-| 01:10:10   | about Keyboard Maestro, so I built a whole bunch of them, and I use option shift T, not                  |
+| 01:10:10   | about [[Keyboard Maestro]], so I built a whole bunch of them, and I use option shift T, not                  |
 | 01:10:17   | actually control shift T, I just had to test it, again, a conflict palette, because that's               |
 | 01:10:21   | what I do apparently, but I can get word count, I can create a markdown link, I can put a                |
 | 01:10:28   | red strike through, I can remove formatting, there's a whole bunch of stuff I can do, and                |
@@ -1124,19 +1124,19 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:11:07   | the key, same shortcut trigger, and man, I love that.                                                    |
 | 01:11:12   | Yes, yes, it really is great, and I have to say it's one of these things where it wasn't                 |
 | 01:11:18   | until I sat down again and had a little bit of time to just look through that I went,                    |
-| 01:11:24   | actually there's a whole bunch of other problems that I can also solve with Keyboard Maestro,            |
+| 01:11:24   | actually there's a whole bunch of other problems that I can also solve with [[Keyboard Maestro]],            |
 | 01:11:28   | because I sat down to look at it, and I'm very glad I did, because I'm always using                      |
-| 01:11:34   | Keyboard Maestro, and I'm never really thinking about it, but it was definitely amazing and              |
+| 01:11:34   | [[Keyboard Maestro]], and I'm never really thinking about it, but it was definitely amazing and              |
 | 01:11:39   | eye-opening once again to go, oh, wow, that's an awful lot of things that I could be doing               |
 | 01:11:43   | that I'm currently not doing, or, oh, there's an action to open a system preference pane                 |
 | 01:11:49   | or send a mail message, I hadn't thought about using that, I will save this for another time,            |
 | 01:11:55   | and then it's kind of floating around in my head for the next time that I have a problem                 |
-| 01:11:59   | that I could solve, and Keyboard Maestro pops into my head.                                              |
+| 01:11:59   | that I could solve, and [[Keyboard Maestro]] pops into my head.                                              |
 | 01:12:03   | Yeah, I agree. Well, congratulations to Peter for getting out version 10. Lots of really nice            |
 | 01:12:11   | improvements with this app, it continues to evolve, I love it, and it's something that                   |
 | 01:12:18   | all automators should be looking into. If you want to learn more, we've got several shows,               |
 | 01:12:24   | we've dedicated to it, and if you listen to almost any guest show, it comes up at some point.            |
-| 01:12:29   | I've got a Keyboard Maestro field guide, I mean, there's just a lot of ways to learn this app,           |
+| 01:12:29   | I've got a [[Keyboard Maestro]] field guide, I mean, there's just a lot of ways to learn this app,           |
 | 01:12:35   | and I strongly recommend you do so. Yeah.                                                                |
 | 01:12:39   | Unrelated, we have been getting some email from folks asking more about focus modes,                     |
 | 01:12:45   | we gave it a whole show a month or two ago, but it is still relatively new, I thought it might           |
@@ -1315,7 +1315,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:29:20   | So I've got like some sort of clipboard thing I want to add to it. So I started breaking it down         |
 | 01:29:26   | and I had two ways, two places I needed to solve the problem on the iPhone,                              |
 | 01:29:32   | primarily the iPhone and the Mac. And so when I did it on the Mac, I decided to tackle it in             |
-| 01:29:40   | Keyboard Maestro. So I made a, it's a context, it's in the MacSparky context and I actually             |
+| 01:29:40   | [[Keyboard Maestro]]. So I made a, it's a context, it's in the MacSparky context and I actually             |
 | 01:29:47   | put an X at the beginning of it because I have a bunch of them that start with C and I didn't            |
 | 01:29:52   | want to have to type two letters. So if I hit, you know, control option command M and then X,            |
 | 01:29:57   | it opens up an input dialogue that says, you know, what's the content idea? And I type that in           |
@@ -1327,9 +1327,9 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:30:32   | pipe key planning, then it would select active by default, but I want it's like planning by default      |
 | 01:30:37   | because most of them are planning. But in the occasion that it's something I want to act on              |
 | 01:30:41   | immediately, I can go in and mouse it and click it to active. And then there's a checkbox, which is      |
-| 01:30:47   | a zero pipe one in, in the Keyboard Maestro. Right. So then I have a checkbox. If I put                  |
+| 01:30:47   | a zero pipe one in, in the [[Keyboard Maestro]]. Right. So then I have a checkbox. If I put                  |
 | 01:30:55   | zero pipe one, it's an unchecked checkbox. But if I put one pipe zero, it's a check checkbox. So you,    |
-| 01:31:02   | the defaults in Keyboard Maestro are just basically which one you put first.                             |
+| 01:31:02   | the defaults in [[Keyboard Maestro]] are just basically which one you put first.                             |
 | 01:31:06   | And so now the dialogue says, what's the idea? Is it active or planning? And do you have clipboard       |
 | 01:31:12   | contents? And if I, you know, select the right boxes and I hit okay, it has, then it uses the            |
 | 01:31:19   | if command doesn't use a switch because it's just one option. And it has two different sets of text      |
@@ -1394,9 +1394,9 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:36:58   | wherever I want, however I want, because it's just [[Drafts]] independent of any other requirements.         |
 | 01:37:04   | So I've been pulling some more data in there, which has been quite nerdy, but good fun.                  |
 | 01:37:10   | Yeah, there's just, there are good options now. You know, earlier I said, you know,                      |
-| 01:37:13   | where's Keyboard Maestro on the iPhone? Maybe you can make the argument that it's Drafts.                |
+| 01:37:13   | where's [[Keyboard Maestro]] on the iPhone? Maybe you can make the argument that it's Drafts.                |
 | 01:37:18   | I don't know. Yeah, maybe. At least if it's text related.                                                |
-| 01:37:22   | Yeah. So Keyboard Maestro is great, and [[Drafts]] is exceptionally good for automating                      |
+| 01:37:22   | Yeah. So [[Keyboard Maestro]] is great, and [[Drafts]] is exceptionally good for automating                      |
 | 01:37:30   | anything to do with text, and even some things which aren't 100% text related.                           |
 | 01:37:34   | I've actually got it creating some files for me in the [[Drafts]] folder, which then [[Hazel]] picks up          |
 | 01:37:40   | and moves elsewhere. And that has been pretty useful to make sure that that actually does things.        |

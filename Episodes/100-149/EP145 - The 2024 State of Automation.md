@@ -232,7 +232,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 09:42      | is just to solve the problem that you've got and figure out more stuff as you go.                       |
 | 09:46      | Yes.                                                                                                    |
 | 09:47      | By all means, if you've got, you know, an hour of free time, like sitting down and reading              |
-| 09:51      | the Keyboard Maestro manual or scanning the [[Hazel]] forums or something like that, that                   |
+| 09:51      | the [[Keyboard Maestro]] manual or scanning the [[Hazel]] forums or something like that, that                   |
 | 09:55      | could be a really good use of your time and you could learn how to do something that you                |
 | 09:59      | thought was impossible or it could be just something that sparks an idea later down the                 |
 | 10:04      | line.                                                                                                   |
@@ -257,10 +257,10 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 10:59      | Keyboard maestro had a big year last year with the release of version 11 and we did                     |
 | 11:03      | a whole show on it.                                                                                     |
 | 11:06      | But it also, I think, I think the outlook for that is even more rosy, right?                            |
-| 11:11      | Because Keyboard Maestro is an active development.                                                      |
+| 11:11      | Because [[Keyboard Maestro]] is an active development.                                                      |
 | 11:14      | Peter seems to always be finding new things to add to it.                                               |
-| 11:18      | And the, I continue to hear from people that get, pick up the Keyboard Maestro field guide              |
-| 11:23      | for, to solve like one little problem and then suddenly they're using Keyboard Maestro                  |
+| 11:18      | And the, I continue to hear from people that get, pick up the [[Keyboard Maestro]] field guide              |
+| 11:23      | for, to solve like one little problem and then suddenly they're using [[Keyboard Maestro]]                  |
 | 11:28      | for everything.                                                                                         |
 | 11:29      | And that just thrills me to hear that.                                                                  |
 | 11:32      | Yes.                                                                                                    |
@@ -270,7 +270,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 11:46      | it's okay.                                                                                              |
 | 11:47      | There, there's a whole bunch of really great nerds there and every so often I'll just see               |
 | 11:51      | somebody, you know, posting in tech or systems and themes going, hey, you know, like this               |
-| 11:55      | is something that I've put together and I started with Keyboard Maestro and look how                    |
+| 11:55      | is something that I've put together and I started with [[Keyboard Maestro]] and look how                    |
 | 11:58      | amazing this is.                                                                                        |
 | 11:59      | And every time I see it, it just gives me that sense of satisfaction of like, this is                   |
 | 12:02      | a really powerful nerdy tool.                                                                           |
@@ -282,13 +282,13 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 12:12      | automation.                                                                                             |
 | 12:13      | You just drag and drop blocks, although it's the most complex version of block style automation,        |
 | 12:19      | but it's also one of the most powerful because of that.                                                 |
-| 12:22      | So the Keyboard Maestro is doing great.                                                                 |
+| 12:22      | So the [[Keyboard Maestro]] is doing great.                                                                 |
 | 12:25      | One of the things that I, the, the big trends that I see with these apps now is interoperability        |
 | 12:32      | and I feel like that really got a shot in the arm with shortcuts for Mac.                               |
 | 12:37      | But just in general, it feels to me like more than ever, the developers of these various                |
 | 12:43      | apps have kind of taken an open arms approach to other automation tools.                                |
-| 12:49      | And Keyboard Maestro is kind of the poster child of that in Keyboard Maestro.                           |
-| 12:53      | You can run shortcuts or I mean, you do virtually anything with Keyboard Maestro and other automation   |
+| 12:49      | And [[Keyboard Maestro]] is kind of the poster child of that in [[Keyboard Maestro]].                           |
+| 12:53      | You can run shortcuts or I mean, you do virtually anything with [[Keyboard Maestro]] and other automation   |
 | 12:58      | tools.                                                                                                  |
 | 12:59      | Yes.                                                                                                    |
 | 13:00      | Yeah, exactly.                                                                                          |
@@ -334,7 +334,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 15:54      | and do a whole bunch more, I'm not really doing it justice.                                             |
 | 15:58      | And this one has been a white whale for me, I always like chase it but never quite landed               |
 | 16:02      | and the problem is that I've got those setups all built very with very sickening detail                 |
-| 16:10      | and Keyboard Maestro.                                                                                   |
+| 16:10      | and [[Keyboard Maestro]].                                                                                   |
 | 16:11      | So it's like I've already got the solution for this stuff and normally I would tell people              |
 | 16:17      | if you've got a solution that works, don't bother with anything else, you're good.                      |
 | 16:21      | But I make a show called The Automators and we are planning to do a show this year on                   |
@@ -771,7 +771,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 43:10      | Well, and that's the reason I raised the issue is shortcuts is shockingly powerful on the               |
 | 43:16      | Mac.                                                                                                    |
 | 43:17      | Like we talked earlier in the episode that we're going to do a show on setups and we're                 |
-| 43:21      | going to talk about Bunch and Keyboard Maestro, but you know what, we're also going to talk             |
+| 43:21      | going to talk about Bunch and [[Keyboard Maestro]], but you know what, we're also going to talk             |
 | 43:23      | about shortcuts because you can build setups with shortcuts and there's a bunch of tricks               |
 | 43:28      | to it.                                                                                                  |
 | 43:29      | And Rose and I have been playing with it and we figured it out, but this is something                   |
@@ -840,7 +840,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 46:57      | All right, overall, on the Mac, just summing up, I continue to argue                                    |
 | 47:01      | or in a golden age of automation, there are tools at every level,                                       |
 | 47:05      | whether you're just entering in with shortcuts or you're becoming a                                     |
-| 47:10      | power Keyboard Maestro user or you're an AppleScript, you know, person,                                |
+| 47:10      | power [[Keyboard Maestro]] user or you're an AppleScript, you know, person,                                |
 | 47:14      | whatever is, there are solutions and they all talk to each other.                                       |
 | 47:18      | I just think we continue to be in really great shape on the Mac for automation.                         |
 | 47:24      | Yes, definitely.                                                                                        |

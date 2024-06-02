@@ -917,7 +917,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:18:18   | you know, even if it's not necessarily getting screen time, it is definitely hitting, you know,           |
 | 01:18:23   | the points that make Shortcuts users really happy. How do you feel?                                       |
 | 01:18:28   | Same. I feel like it's continuing to get better. I'm using it. I was just noticing the other day          |
-| 01:18:34   | how many Shortcuts I have moved out of Keyboard Maestro, you know, actions that normally I would          |
+| 01:18:34   | how many Shortcuts I have moved out of [[Keyboard Maestro]], you know, actions that normally I would          |
 | 01:18:39   | automate with more powerful tools and now I'm doing them Shortcuts on my Mac. And I didn't think it       |
 | 01:18:45   | was going to land on the Mac that hard for me that it has. And I just feel like the big story             |
 | 01:18:51   | today, we talked about it during the show, but, you know, it's faster. It's more stable. It's             |

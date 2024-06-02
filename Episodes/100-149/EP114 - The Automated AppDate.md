@@ -936,7 +936,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 53:32      | I mean, it really depends.                                                                             |
 | 53:33      | Like, I still find myself struggling a little bit to remember to run [[Shortcuts]] on the Mac.             |
 | 53:38      | You know, I do, and I've got them built into a number of other places.                                 |
-| 53:44      | But I find that for me on the Mac, it's the sort of thing where Keyboard Maestro will                  |
+| 53:44      | But I find that for me on the Mac, it's the sort of thing where [[Keyboard Maestro]] will                  |
 | 53:49      | fire off a, you know, a run this shortcut action, or Bunch will fire off a run this shortcut           |
 | 53:54      | action versus, you know, it being a shortcut to do whatever the thing is that I want to                |
 | 54:02      | do.                                                                                                    |
@@ -985,10 +985,10 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 56:51      | and it's multi-platform.                                                                               |
 | 56:52      | So all the time I put into creating it means I can run it on any device and the project                |
 | 56:57      | creation happens.                                                                                      |
-| 57:00      | Where Keyboard Maestro for me is number one, single app customisations, you know, we're                |
+| 57:00      | Where [[Keyboard Maestro]] for me is number one, single app customisations, you know, we're                |
 | 57:06      | talking about Kraft, there are some things Kraft doesn't do that I'd like and I basically              |
-| 57:11      | added the features with Keyboard Maestro trickery and like I've got a Kraft directory                  |
-| 57:17      | that only these Shortcuts or Keyboard Maestro scripts only run if Kraft is the active document.        |
+| 57:11      | added the features with [[Keyboard Maestro]] trickery and like I've got a Kraft directory                  |
+| 57:17      | that only these Shortcuts or [[Keyboard Maestro]] scripts only run if Kraft is the active document.        |
 | 57:23      | There's no mechanism for that in Shortcuts and it would be super slow if it did.                       |
 | 57:30      | And then like the contextual computing stuff where like I have a bunch of like crazy Keyboard          |
 | 57:37      | Maestro scripts that I've written just on an as needed basis.                                          |
@@ -1038,7 +1038,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:00:41   | And they've also snuck in a button for add a keyboard shortcut.                                        |
 | 01:00:46   | So you can in the sidebar of any shortcut, you can actually add a keyboard shortcut to                 |
 | 01:00:50   | run that keyboard to run that shortcut.                                                                |
-| 01:00:53   | But unlike, say, Keyboard Maestro, you can't have like a conflict palette where you just               |
+| 01:00:53   | But unlike, say, [[Keyboard Maestro]], you can't have like a conflict palette where you just               |
 | 01:00:57   | assign everything to a couple of different keyboard shortcuts.                                         |
 | 01:01:00   | And that's it, you know, you figure it out from there.                                                 |
 | 01:01:05   | You do have to assign a specific keyboard shortcut, which is unique.                                   |
@@ -1048,12 +1048,12 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:01:18   | Like you assign the shortcut and sometimes it would trigger and sometimes it wouldn't.                 |
 | 01:01:23   | And if you have a keyboard shortcut that only works part of the time, then you might as                |
 | 01:01:27   | well not have a keyboard shortcut because you got to depend on that happening.                         |
-| 01:01:31   | Whereas with Keyboard Maestro, it's very snappy, you know.                                             |
+| 01:01:31   | Whereas with [[Keyboard Maestro]], it's very snappy, you know.                                             |
 | 01:01:34   | So it is there.                                                                                        |
 | 01:01:36   | I really feel like they're both playing to their strengths, like shortcuts for people                  |
-| 01:01:40   | who haven't done a lot of automation, who don't own Keyboard Maestro, shortcuts does                   |
+| 01:01:40   | who haven't done a lot of automation, who don't own [[Keyboard Maestro]], shortcuts does                   |
 | 01:01:45   | a lot of great stuff and they're easy to build and they're consistent.                                 |
-| 01:01:51   | Whereas Keyboard Maestro is kind of the in case of firebreak last thing where it can                   |
+| 01:01:51   | Whereas [[Keyboard Maestro]] is kind of the in case of firebreak last thing where it can                   |
 | 01:01:55   | do anything.                                                                                           |
 | 01:01:56   | I mean, like, yeah, I still am amazed like that because I have that Grammarly script                   |
 | 01:02:01   | I run and Grammarly works much better on the internet than it does in the app.                         |
@@ -1533,7 +1533,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:31:37   | and they'll have gone, Oh, we listen to automators.                                                    |
 | 01:31:39   | Yeah.                                                                                                  |
 | 01:31:40   | Add shortcuts actions for all the things.                                                              |
-| 01:31:41   | It's had an API, so that bunch and Keyboard Maestro and all the other things can integrate             |
+| 01:31:41   | It's had an API, so that bunch and [[Keyboard Maestro]] and all the other things can integrate             |
 | 01:31:45   | with this stuff.                                                                                       |
 | 01:31:46   | Uh, if you're listening and you do that, thank you very much.                                          |
 | 01:31:48   | But, uh, if not, we're just going to all have to cross our fingers and sit and wait and                |

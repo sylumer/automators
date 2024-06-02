@@ -259,7 +259,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 11:24      | And while bookmarks again are very basic, they also are a belt and suspenders answer               |
 | 11:29      | to other automation.                                                                               |
 | 11:31      | Like I frequently, and we'll talk about later in the show, I have these setups that I run          |
-| 11:35      | through Keyboard Maestro and shortcuts where I'll open a bunch of tabs at once.                    |
+| 11:35      | through [[Keyboard Maestro]] and shortcuts where I'll open a bunch of tabs at once.                    |
 | 11:42      | And for instance, today, when we started recording the show, I ran an automation that opened       |
 | 11:47      | up everything, all the tabs I need in safari to record a show of the automakers podcast.           |
 | 11:53      | But occasionally that stuff breaks and it just happens.                                            |
@@ -759,7 +759,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 42:58      | focus mode or sleep focus mode and turning it on or off when those modes are started               |
 | 43:03      | and ended as appropriate.                                                                          |
 | 43:05      | Yeah.                                                                                              |
-| 43:06      | I use a Keyboard Maestro shortcut because there is a Keyboard Maestro action called                |
+| 43:06      | I use a [[Keyboard Maestro]] shortcut because there is a [[Keyboard Maestro]] action called                |
 | 43:11      | toggle dark mode, which is great because then it's just one shortcut that just jumps between       |
 | 43:16      | them and I give it the hyper key plus D and I just, you know, I've mapped the hyper key            |
 | 43:21      | using [[BetterTouchTool\|BetterTouchTool's]].                                                                          |
@@ -956,9 +956,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 55:43      | maybe, you know, it can also open things in particular Safari tab groups that will be              |
 | 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
-| 55:59      | obviously, um, you know, Keyboard Maestro also has some great integration options.                 |
+| 55:59      | obviously, um, you know, [[Keyboard Maestro]] also has some great integration options.                 |
 | 56:04      | Um, and one of the things that I do, um, which, you know, maybe, maybe this is over the top        |
-| 56:11      | and nerdy, maybe this isn't, um, but I actually have an automators, um, Keyboard Maestro macro,    |
+| 56:11      | and nerdy, maybe this isn't, um, but I actually have an automators, um, [[Keyboard Maestro]] macro,    |
 | 56:18      | which will activate in this case, it's actually activating edge, but the same principle will       |
 | 56:21      | would apply with Safari, but it can activate a specific application and like then in it            |
 | 56:26      | can bring a window containing a particular title to the front and this is really useful            |
@@ -967,7 +967,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 56:41      | or this keyboard shortcut or whatever it is.                                                       |
 | 56:43      | And that can be very, very handy when you do have, you know, a bunch of different windows          |
 | 56:47      | hanging around.                                                                                    |
-| 56:48      | But on top of that, you know, Keyboard Maestro has a whole bunch, I mean, Keyboard Maestro         |
+| 56:48      | But on top of that, you know, [[Keyboard Maestro]] has a whole bunch, I mean, [[Keyboard Maestro]]         |
 | 56:53      | always does, right, but it has a whole bunch of things like, Hey, set the Safari URL to            |
 | 56:57      | this, like this Safari tab, uh, go open the next Safari tab or new Safari tab or new Safari        |
 | 57:02      | window or wait for Safari to finish loading and focus this field, um, or, you know, set            |
@@ -975,21 +975,21 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 57:16      | it's kind of crazy, like in a very good way just to be clear, um, but yeah, and it can             |
 | 57:20      | even execute JavaScript in Safari, which if you're going, wait, what?                              |
 | 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, JavaScript on a web page in Safari.     |
-| 57:31      | That's a bookmarklet and Keyboard Maestro can do the same thing.                                   |
+| 57:31      | That's a bookmarklet and [[Keyboard Maestro]] can do the same thing.                                   |
 | 57:35      | Yeah.                                                                                              |
 | 57:36      | And, and that is, you know, where you go next level with it.                                       |
 | 57:39      | I mean, starting is opening a group of tabs and then beyond that is having it operate              |
 | 57:44      | on those tabs.                                                                                     |
-| 57:45      | And that's where I think a tool like Keyboard Maestro and AppleScript become kind of essential    |
+| 57:45      | And that's where I think a tool like [[Keyboard Maestro]] and AppleScript become kind of essential    |
 | 57:50      | because that, that's what you need to like go to that next level.                                  |
 | 57:53      | Um, and I do want to talk about tab groups, let's, let's hold off on that because I think          |
 | 57:58      | for a lot of people, especially right now as things stand, um, opening them through traditional    |
-| 58:05      | automation means like a bunch shortcut or Keyboard Maestro is frankly the best way, but there's    |
+| 58:05      | automation means like a bunch shortcut or [[Keyboard Maestro]] is frankly the best way, but there's    |
 | 58:10      | pieces of this.                                                                                    |
 | 58:11      | Like one of the things Rose did that I thought was really smart is she runs an AppleScript        |
 | 58:15      | to open essentially a new window and that way this tab group you open has a distinct               |
 | 58:21      | place that exists in, um, another way you could do that is you could close your Safari             |
-| 58:27      | window via automation, which you can do in shortcuts and, and Keyboard Maestro, I'm not,           |
+| 58:27      | window via automation, which you can do in shortcuts and, and [[Keyboard Maestro]], I'm not,           |
 | 58:32      | I think you could do it.                                                                           |
 | 58:33      | Yeah.                                                                                              |
 | 58:34      | You could do it in bunch too.                                                                      |
@@ -1030,13 +1030,13 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:00:43   | know, I make a point of closing, um, Safari windows, um, when, um, I'm done with things.           |
 | 01:00:50   | Um, and usually what will happen is, you know, it'll prompt me to close, um, you know, that        |
 | 01:00:55   | window and then that actually, uh, runs, um, I think, I can't remember.                            |
-| 01:01:00   | I thought it was a Keyboard Maestro macro, but I'm now not seeing my Keyboard Maestro              |
+| 01:01:00   | I thought it was a [[Keyboard Maestro]] macro, but I'm now not seeing my [[Keyboard Maestro]]              |
 | 01:01:03   | macro for this.                                                                                    |
-| 01:01:04   | So maybe it wasn't that, um, but something I do have Keyboard Maestro do with Safari specifically  |
+| 01:01:04   | So maybe it wasn't that, um, but something I do have [[Keyboard Maestro]] do with Safari specifically  |
 | 01:01:10   | is command Q dangerously close to command W. Yeah, number of times we have quit Safari             |
 | 01:01:17   | instead of closing a tab is just too many.                                                         |
 | 01:01:21   | So I have a Safari, well, I have an action group in, or a macro group, sorry, in, um,              |
-| 01:01:27   | in, um, Keyboard Maestro, which is enabled in Safari and Safari technology preview.                |
+| 01:01:27   | in, um, [[Keyboard Maestro]], which is enabled in Safari and Safari technology preview.                |
 | 01:01:31   | And whenever I hit command Q, it'll just pop up and say, Hey, did you mean to close this           |
 | 01:01:39   | current application name?                                                                          |
 | 01:01:41   | If I say, and it moves that to the centre and if I say, yes, it quits it.                          |
@@ -1105,7 +1105,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:05:33   | But before I had to click a specific button on the screen to get a new one started.                |
 | 01:05:38   | And, um, that's the kind of stuff where, you know, kind of Keyboard Maestro's muscle               |
 | 01:05:42   | shows up.                                                                                          |
-| 01:05:43   | And if you want to perform a specific action on a web page, uh, Keyboard Maestro might             |
+| 01:05:43   | And if you want to perform a specific action on a web page, uh, [[Keyboard Maestro]] might             |
 | 01:05:48   | be your, uh, your tool of last resort there to get you over that last mile.                        |
 | 01:05:55   | Yes.                                                                                               |
 | 01:05:56   | Yeah.                                                                                              |
@@ -1239,14 +1239,14 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:13:35   | I'm an Automator.                                                                                  |
 | 01:13:36   | I don't need to do that stuff.                                                                     |
 | 01:13:39   | It just doesn't have it.                                                                           |
-| 01:13:41   | The only way I can get around it is a Keyboard Maestro action using the find and click on          |
+| 01:13:41   | The only way I can get around it is a [[Keyboard Maestro]] action using the find and click on          |
 | 01:13:46   | image that I just told you about.                                                                  |
 | 01:13:50   | The trick to that is, and there are tricks to it, because first of all, the left sidebar           |
 | 01:13:55   | has to be open for it to find the image.                                                           |
 | 01:13:59   | You can have it toggle that, but it may toggle it off.                                             |
 | 01:14:01   | The other thing is sometimes if the TAB group is already selected, it's got a different            |
 | 01:14:05   | background colour than it does if it isn't selected.                                                |
-| 01:14:08   | There are ways to program around this stuff at the Keyboard Maestro, but the more times            |
+| 01:14:08   | There are ways to program around this stuff at the [[Keyboard Maestro]], but the more times            |
 | 01:14:16   | you have to deal with those contingencies, the less stable it gets.                                |
 | 01:14:20   | The action already exists on the iPhone, the iPad, so it's like, why isn't it there?               |
 | 01:14:25   | Yes.                                                                                               |
@@ -1267,7 +1267,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:15:11   | Yeah.                                                                                              |
 | 01:15:12   | Yeah.                                                                                              |
 | 01:15:13   | I mean, that's not just what we want, that's what we need, because we shouldn't have to            |
-| 01:15:18   | be going through, oh, so if this is a Mac, then I want to run a Keyboard Maestro macro.            |
+| 01:15:18   | be going through, oh, so if this is a Mac, then I want to run a [[Keyboard Maestro]] macro.            |
 | 01:15:24   | If this is an iPhone or an iPad, then I want to do this, and if this is an Apple Watch,            |
 | 01:15:28   | how on earth did this start running in the first place?                                            |
 | 01:15:30   | I just want to exit, and it gets very frustrating when you're trying to deal with all that.        |
@@ -1382,7 +1382,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:23:03   | land on your house.                                                                                |
 | 01:23:04   | So yeah, I mean, I would hope it wouldn't go as far as the black helicopters landing               |
 | 01:23:09   | on your house, but it certainly could be a case of, you know, like worst case scenario,            |
-| 01:23:14   | if you accidentally upload a Keyboard Maestro macro that contains your login information,          |
+| 01:23:14   | if you accidentally upload a [[Keyboard Maestro]] macro that contains your login information,          |
 | 01:23:19   | somebody else could be logging into your bank account and looking at a bunch of stuff you          |
 | 01:23:22   | don't want them to look at or taking a look at your money somewhere that you can't have.           |
 | 01:23:27   | So yeah, like please be careful with this stuff, people, you know, it's very tempting              |

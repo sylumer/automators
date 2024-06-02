@@ -887,7 +887,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 34:00      | [[AppleScript]] is another way that you can run shortcuts                |
 | 34:03      | and there's just a simple [[AppleScript]] call.                          |
 | 34:05      | Like I did the thing at MacSparky recently                           |
-| 34:08      | with a Keyboard Maestro script                                        |
+| 34:08      | with a [[Keyboard Maestro]] script                                        |
 | 34:10      | and I ran a shortcut in it just with an [[AppleScript]] call.            |
 | 34:14      | It's just, it's not that hard, you know?                              |
 | 34:17      | Yes, yeah, it is.                                                     |
@@ -903,7 +903,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 34:43      | and just play with that a little bit,                                 |
 | 34:44      | then it's gonna be pretty easy to do                                  |
 | 34:46      | and you'll be able to reuse that same logic                           |
-| 34:48      | in things like Bunch, Keyboard Maestro,                               |
+| 34:48      | in things like Bunch, [[Keyboard Maestro]],                               |
 | 34:50      | [[Alfred]] and so on and so forth,                                        |
 | 34:52      | that we do have some special options to share for those.              |
 | 34:55      | Yeah, anywhere you can run an [[AppleScript]],                           |
@@ -999,7 +999,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 39:08      | and that there's going to be a mini-segment                           |
 | 39:11      | now probably called the Stephen Millard appreciation segment           |
 | 39:14      | is that his shortcuts integration for [[Alfred]],                         |
-| 39:18      | he's also got one for a Keyboard Maestro,                             |
+| 39:18      | he's also got one for a [[Keyboard Maestro]],                             |
 | 39:21      | but it really does let you do everything.                             |
 | 39:22      | So you can run a shortcut, you can run it with input,                 |
 | 39:25      | you can run it for a specific folder,                                 |
@@ -1028,7 +1028,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:24      | He did a bypass for shortcuts,                                        |
 | 40:27      | which comes in three parts.                                           |
 | 40:28      | There's a Stream Deck, there's [[Alfred]]                                 |
-| 40:30      | and then there's Keyboard Maestro,                                    |
+| 40:30      | and then there's [[Keyboard Maestro]],                                    |
 | 40:32      | which isn't called bypass,                                            |
 | 40:34      | but I'm gonna classify it in the same group                           |
 | 40:37      | because it's another excellent integration                            |
@@ -1045,7 +1045,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 41:05      | the Mac automation community would embrace shortcuts                  |
 | 41:08      | in a way that makes it easy to trigger them anywhere.                 |
 | 41:10      | We still have all the other stuff,                                    |
-| 41:12      | Keyboard Maestro, [[Hazel]], [[AppleScript]], Terminal,                      |
+| 41:12      | [[Keyboard Maestro]], [[Hazel]], [[AppleScript]], Terminal,                      |
 | 41:15      | whatever you want.                                                    |
 | 41:16      | And now we can mix and match.                                         |
 | 41:18      | And that's exactly what I was hoping for                              |
@@ -1055,16 +1055,16 @@ Rose and David have several automation topics on the table in this episode inclu
 | 41:27      | And especially when we can weave them                                 |
 | 41:30      | into everything else that we do on a daily basis.                     |
 | 41:33      | Well, it's easy to call a shortcut from other automation tools        |
-| 41:38      | like Keyboard Maestro or what have you.                               |
+| 41:38      | like [[Keyboard Maestro]] or what have you.                               |
 | 41:41      | What I would really like is the ability                               |
 | 41:43      | to kind of like go deeper and embed portions of a shortcut,           |
-| 41:47      | like in a Keyboard Maestro,                                           |
+| 41:47      | like in a [[Keyboard Maestro]],                                           |
 | 41:49      | shortcuts, contacts, actions are really good.                         |
 | 41:52      | And the way I've been getting around it is                            |
-| 41:53      | I'll just do the stuff that's easy in Keyboard Maestro first,         |
+| 41:53      | I'll just do the stuff that's easy in [[Keyboard Maestro]] first,         |
 | 41:57      | and then I'll do the stuff that's easy to do                          |
 | 41:59      | in shortcuts at the end                                               |
-| 42:00      | and just call it out of Keyboard Maestro.                             |
+| 42:00      | and just call it out of [[Keyboard Maestro]].                             |
 | 42:03      | I do, I would like to see even deeper integration,                    |
 | 42:08      | but we'll get there.                                                  |
 | 42:11      | This is early days.                                                   |
@@ -1245,7 +1245,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 49:45      | Like it's got some web links                                          |
 | 49:47      | like to the sponsor read page                                         |
 | 49:49      | or to the show planning documents.                                    |
-| 49:51      | It's got a Keyboard Maestro script                                    |
+| 49:51      | It's got a [[Keyboard Maestro]] script                                    |
 | 49:55      | that takes the selected file                                          |
 | 49:57      | and copies it to the folder that we share with our editor.            |
 | 50:02      | And I've got another one that just opens up a folder                  |
@@ -1375,30 +1375,30 @@ Rose and David have several automation topics on the table in this episode inclu
 | 55:27      | I just use the built-in action to open a folder.                      |
 | 55:29      | That makes sense for me.                                              |
 | 55:30      | But for anything with any complexity,                                 |
-| 55:34      | I just build a Keyboard Maestro script                                |
+| 55:34      | I just build a [[Keyboard Maestro]] script                                |
 | 55:36      | and just tie it with KM Link.                                         |
 | 55:38      | And that is by far the most useful for me                             |
-| 55:42      | because I can do almost anything with Keyboard Maestro,               |
+| 55:42      | because I can do almost anything with [[Keyboard Maestro]],               |
 | 55:45      | including launch shortcuts.                                           |
 | 55:46      | So it's just like the kind of like magic bullet.                      |
-| 55:50      | A Keyboard Maestro for me has become a liability                      |
+| 55:50      | A [[Keyboard Maestro]] for me has become a liability                      |
 | 55:54      | in a certain extent because, you know,                                |
 | 55:56      | would they say when you have a hammer,                                |
 | 55:58      | everything's a nail?                                                  |
-| 56:00      | I mean, for me, Keyboard Maestro is like the place                    |
+| 56:00      | I mean, for me, [[Keyboard Maestro]] is like the place                    |
 | 56:03      | I want to automate everything on my Mac                               |
 | 56:05      | because I'm so familiar with its tool set                             |
 | 56:07      | and what it can do and it's so powerful                               |
 | 56:10      | that it almost holds me back on some things.                          |
 | 56:13      | Yes, it is one of those things                                        |
-| 56:14      | where I end up using Keyboard Maestro                                 |
+| 56:14      | where I end up using [[Keyboard Maestro]]                                 |
 | 56:16      | for a lot of things that maybe it wasn't intended to do.              |
 | 56:20      | But you know what,                                                    |
 | 56:21      | it's been working pretty darn well for that.                          |
 | 56:23      | Yeah, it does, that's the thing, right, it works.                     |
 | 56:25      | Yeah, it can save the day in so many ways                             |
 | 56:28      | and I'm gonna give a great example here.                              |
-| 56:30      | So I'm using KM Link and Keyboard Maestro                             |
+| 56:30      | So I'm using KM Link and [[Keyboard Maestro]]                             |
 | 56:33      | with my Stream Deck pedal.                                            |
 | 56:35      | Okay, and so we're talking right now,                                 |
 | 56:36      | we're recording a podcast and I click over                            |
@@ -1417,7 +1417,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 57:06      | that does the timestamp.                                              |
 | 57:09      | So when we start recording,                                           |
 | 57:11      | I save the current timestamp into a variable                          |
-| 57:15      | through Keyboard Maestro and that macro starts                        |
+| 57:15      | through [[Keyboard Maestro]] and that macro starts                        |
 | 57:17      | the recording in audio hijack as well.                                |
 | 57:20      | And I've got another one which gets the current timestamp             |
 | 57:23      | and that's hooked up to a couple of things,                           |
@@ -1482,7 +1482,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 59:33      | And so I've just left it there.                                       |
 | 59:34      | And then I'm using the bring windows                                  |
 | 59:36      | with name containing to front.                                        |
-| 59:39      | And this is a great Keyboard Maestro action.                          |
+| 59:39      | And this is a great [[Keyboard Maestro]] action.                          |
 | 59:41      | So you can say bring to front                                         |
 | 59:43      | or minimise a minimise zoom, close, centre,                           |
 | 59:46      | move and resize, whatever you like.                                   |
@@ -1582,7 +1582,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:03:20   | and go, even if I'm not using it 100% as like a macro pad,            |
 | 01:03:24   | I'm using as an information pad                                       |
 | 01:03:26   | because I've got TJ Luoma as little fantastical                       |
-| 01:03:30   | or iCalBuddy magic Keyboard Maestro actions                           |
+| 01:03:30   | or iCalBuddy magic [[Keyboard Maestro]] actions                           |
 | 01:03:35   | which change the colour of that button                                 |
 | 01:03:38   | so that I get updated calendar information                            |
 | 01:03:42   | on the Stream Deck in one particular spot.                            |
@@ -1819,11 +1819,11 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:14:00   | So, like, let's say I want to standardise                             |
 | 01:14:04   | the blog note for Obsidian.                                           |
 | 01:14:08   | So, one of the things I've done is I've created                       |
-| 01:14:11   | a Keyboard Maestro script that says new blog posts.                   |
+| 01:14:11   | a [[Keyboard Maestro]] script that says new blog posts.                   |
 | 01:14:16   | And I trigger it in the MacSparky contextual menu.                   |
 | 01:14:19   | And this is stuff I've talked about before.                           |
 | 01:14:21   | I'm not going to go back and explain it all.                          |
-| 01:14:22   | But I can, through a conflict menu in Keyboard Maestro,               |
+| 01:14:22   | But I can, through a conflict menu in [[Keyboard Maestro]],               |
 | 01:14:26   | I can very easily trigger this shortcut.                              |
 | 01:14:29   | And the shortcut will say, oh, what's the blog post title?            |
 | 01:14:32   | And I'll type in the title, and they'll say,                          |
@@ -1832,7 +1832,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:14:39   | to actively work on right now, and I can check the box                |
 | 01:14:42   | for one or the other.                                                 |
 | 01:14:43   | And then there's another check box built with a user input            |
-| 01:14:48   | field in Keyboard Maestro that says,                                  |
+| 01:14:48   | field in [[Keyboard Maestro]] that says,                                  |
 | 01:14:50   | do you want me to copy the clipboard content?                         |
 | 01:14:52   | So, there's only three things I need.                                 |
 | 01:14:53   | The name, active or planning, and the clipboard contents.             |
@@ -1897,7 +1897,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:17:32   | The status of the project goes into the body of the file              |
 | 01:17:38   | because that changes over time,                                       |
 | 01:17:40   | and I don't want to be changing the [[YAML]] stuff.                       |
-| 01:17:42   | So I'm creating a simple little Keyboard Maestro script               |
+| 01:17:42   | So I'm creating a simple little [[Keyboard Maestro]] script               |
 | 01:17:48   | that is just using UI scripting.                                      |
 | 01:17:51   | So it's hitting the keyboard shortcut for the find and replace        |
 | 01:17:55   | in Obsidian,                                                          |
@@ -1905,7 +1905,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:18:01   | with that pound before, and then replacing it with shipped.           |
 | 01:18:04   | So once I finish something, I can just push a button,                 |
 | 01:18:07   | and it changes the tag so it drops off all my active lists.           |
-| 01:18:11   | So I'm just doing that with the Keyboard Maestro,                     |
+| 01:18:11   | So I'm just doing that with the [[Keyboard Maestro]],                     |
 | 01:18:14   | hitting the tab key, pausing, blah, blah, blah.                       |
 | 01:18:18   | I've almost got it working 100% of the time.                          |
 | 01:18:21   | For some reason, sometimes the trigger to hit the...                  |
@@ -1942,9 +1942,9 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:19:53   | so I can just open the template picker anytime I want.                |
 | 01:19:56   | But over time as I use this app more,                                 |
 | 01:19:59   | I am increasingly generating templates outside of it                  |
-| 01:20:03   | using initially Keyboard Maestro.                                     |
+| 01:20:03   | using initially [[Keyboard Maestro]].                                     |
 | 01:20:06   | And basically I've recreated the templates                            |
-| 01:20:08   | in Keyboard Maestro scripts,                                          |
+| 01:20:08   | in [[Keyboard Maestro]] scripts,                                          |
 | 01:20:10   | and that way I can add additional information,                        |
 | 01:20:12   | and use all of Keyboard Maestro's kind of user input fields           |
 | 01:20:16   | to do things like toggle between active and planning                  |
@@ -1961,7 +1961,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:20:45   | Yes.                                                                  |
 | 01:20:46   | But it's a little more extra work.                                    |
 | 01:20:48   | Now, one of the challenges I'm currently facing                       |
-| 01:20:50   | is I'm really considering getting those out of Keyboard Maestro       |
+| 01:20:50   | is I'm really considering getting those out of [[Keyboard Maestro]]       |
 | 01:20:56   | and putting them just into shortcuts                                  |
 | 01:20:58   | because this is all completely doable with shortcuts as well.         |
 | 01:21:02   | The trick in shortcuts is when you save,                              |
@@ -1983,7 +1983,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:21:39   | create an OmniFocus project                                           |
 | 01:21:41   | and then I can just cross-link them                                   |
 | 01:21:43   | because it's just URL links and this stuff all works.                 |
-| 01:21:47   | But that actually is not as easy with Keyboard Maestro                |
+| 01:21:47   | But that actually is not as easy with [[Keyboard Maestro]]                |
 | 01:21:50   | as it would be with a shortcut.                                       |
 | 01:21:52   | So I'm right now toying with different platforms                      |
 | 01:21:55   | for automating stuff like this and trying to decide.                  |
@@ -2011,7 +2011,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:22:49   | meaning more things in Obsidian,                                      |
 | 01:22:51   | I might use curly brackets for this.                                  |
 | 01:22:53   | And then you can do a find and replace.                               |
-| 01:22:55   | So you can grab that file and you can do this with Keyboard Maestro.  |
+| 01:22:55   | So you can grab that file and you can do this with [[Keyboard Maestro]].  |
 | 01:22:58   | You could do this with shortcuts.                                     |
 | 01:23:00   | And you can then grab the file                                        |
 | 01:23:02   | and you can just replace your placeholders                            |
@@ -2019,7 +2019,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:23:07   | and Obsidian does have [[URL Schemes\|URL scheme]] support                             |
 | 01:23:09   | to allow you to create files via the [[URL Schemes\|URL scheme]]                       |
 | 01:23:13   | which would allow you to just create everything                       |
-| 01:23:17   | and you could stick with Keyboard Maestro on the Mac                  |
+| 01:23:17   | and you could stick with [[Keyboard Maestro]] on the Mac                  |
 | 01:23:20   | but also have a shortcut option for iOS.                              |
 | 01:23:24   | And of course the other one that springs to mind for this             |
 | 01:23:28   | almost the exact purpose is [[Drafts]]                                   |

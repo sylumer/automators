@@ -305,20 +305,20 @@ Rose and David explain many little automations that can improve your quality of 
 | 19:33      | and I've made sure to include a link to the developer's website in the show notes so that                |
 | 19:38      | we can, so that everybody can see that and find out how to use it. Because I think it's                  |
 | 19:44      | probably going to be the right tool for most people because it does look pretty darn easy                |
-| 19:49      | to use. Unlike, say, Keyboard Maestro, which is extremely powerful, but can be a little                  |
-| 19:56      | bit trickier, because I know you've been using Keyboard Maestro for this before David.                   |
-| 20:00      | Yeah, I have. And historically, Keyboard Maestro has been my tool for this. I'm leaning towards          |
-| 20:05      | Moom for and Keyboard Maestro, by the way, remains my tool for setups, which we're going                 |
+| 19:49      | to use. Unlike, say, [[Keyboard Maestro]], which is extremely powerful, but can be a little                  |
+| 19:56      | bit trickier, because I know you've been using [[Keyboard Maestro]] for this before David.                   |
+| 20:00      | Yeah, I have. And historically, [[Keyboard Maestro]] has been my tool for this. I'm leaning towards          |
+| 20:05      | Moom for and [[Keyboard Maestro]], by the way, remains my tool for setups, which we're going                 |
 | 20:11      | to talk about next. But for window control, I feel like Moom is probably a little better                 |
-| 20:17      | because that grid system is ingenious. You just drag it on a grid with Keyboard Maestro.                 |
+| 20:17      | because that grid system is ingenious. You just drag it on a grid with [[Keyboard Maestro]].                 |
 | 20:22      | It works on the basis of percentage of screen width. And I'll talk about that later how                  |
 | 20:27      | you set that up. But it's not as clean and it's not as visual. And you just have to kind                 |
 | 20:33      | of like guess it and then try it and see if this is right. Whereas with Moom, you just                   |
 | 20:37      | drag it and you're like, yeah, that's about right. And another feature Moom has is not                   |
 | 20:42      | only to save a grid space that you can move an app to, you can actually set up an entire                 |
 | 20:49      | set of grids with specific apps and you press a button and it auto sorts them into that.                 |
-| 20:55      | It's not as powerful as Keyboard Maestro. And it almost feels to me like now Moom is                     |
-| 21:00      | straining to setup land. And I'm not sure it's as good at that as Keyboard Maestro is.                   |
+| 20:55      | It's not as powerful as [[Keyboard Maestro]]. And it almost feels to me like now Moom is                     |
+| 21:00      | straining to setup land. And I'm not sure it's as good at that as [[Keyboard Maestro]] is.                   |
 | 21:06      | But for the basic issue of setting up windows and being able to quickly move them around                 |
 | 21:11      | to different spaces on your screen. And also, honestly, that padding around the windows                  |
 | 21:16      | makes a huge difference for me. I just, I mean, I can't share the screen that I shared                   |
@@ -380,7 +380,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 25:55      | at the top left corner plus 33% of the width. If you can follow with me, I'm, this is hard               |
 | 26:01      | on a podcast here, someone talk about this, you can start a second box that is just to                   |
 | 26:05      | the right of that first one. And so there's a way to do this. It is not as user-friendly                 |
-| 26:12      | as moon for just setting windows, but you can do it. But what Keyboard Maestro really                    |
+| 26:12      | as moon for just setting windows, but you can do it. But what [[Keyboard Maestro]] really                    |
 | 26:17      | brings to the table is you can say not only that you're going to put a window in this                    |
 | 26:21      | very specific spot on the screen, but that window is going to have OmniFocus in it. And                  |
 | 26:26      | it's going to show the MacSparky planning perspective, because you can trigger a keyboard               |
@@ -406,10 +406,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 28:17      | buttons to start applications. And then for most of the show, you know, those buttons                    |
 | 28:23      | were completely and utterly unnecessary. And what I really needed was to run all of them                 |
 | 28:27      | at the same time. So I then combined them. And thanks to your tip, and in the last show,                 |
-| 28:34      | I am actually using the KM link plugin for Stream Deck now, instead of the Keyboard Maestro              |
+| 28:34      | I am actually using the KM link plugin for Stream Deck now, instead of the [[Keyboard Maestro]]              |
 | 28:41      | plugin, because this lets me select the macro from the drop-down, and a little hack for people            |
-| 28:47      | if they're finding that the menu of the different Keyboard Maestro macros is too long, just              |
-| 28:54      | edit the macro that you're looking for, because it's easy to find in Keyboard Maestro, and               |
+| 28:47      | if they're finding that the menu of the different [[Keyboard Maestro]] macros is too long, just              |
+| 28:54      | edit the macro that you're looking for, because it's easy to find in [[Keyboard Maestro]], and               |
 | 28:59      | then it'll be right at the top in your last edited. And that's what I've done with all                   |
 | 29:02      | of them. I've just added a comment and then deleted it. And then boom, it's right at the                 |
 | 29:07      | top. So I've been using that a lot. And then I, at the moment, have just been opening all                |
@@ -523,8 +523,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 38:09      | your flow. That is not quality of life. Yeah, spend some time on this. It's a fiddly thing.              |
 | 38:17      | And like the nerd part of me loves the fiddliness of this, but it really isn't that fiddly.              |
 | 38:22      | And for me, the trick was discovering Moom's ability to use keyboard shortcuts to put windows            |
-| 38:28      | in a very specific place that I can very easily define, easier than with Keyboard Maestro.               |
-| 38:36      | And then combining that with the power of Keyboard Maestro and suddenly like, man, I'm                   |
+| 38:28      | in a very specific place that I can very easily define, easier than with [[Keyboard Maestro]].               |
+| 38:36      | And then combining that with the power of [[Keyboard Maestro]] and suddenly like, man, I'm                   |
 | 38:40      | off to the races. Rose mentioned KMLink earlier, the way I use that is so I've got buttons               |
 | 38:45      | across the top row of my Stream Deck that just like one of them is legal writing. One                    |
 | 38:52      | of them is legal admin. One of them is MacSparky planning. So I've just got a bunch                     |
@@ -636,8 +636,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 47:55      | once and you'd be right where you were. Yeah. But then everything else is messed up. So,                 |
 | 47:59      | you know, do you really want that? But there is no way to really use automation                          |
 | 48:04      | to put the spaces where you want them. To my knowledge. And that would be,                               |
-| 48:10      | that would be great if Keyboard Maestro could address those. I, I believe they've tried. I,              |
-| 48:13      | I think there's the ability to swipe. There's some things you can do with Keyboard Maestro,              |
+| 48:10      | that would be great if [[Keyboard Maestro]] could address those. I, I believe they've tried. I,              |
+| 48:13      | I think there's the ability to swipe. There's some things you can do with [[Keyboard Maestro]],              |
 | 48:17      | but it, it's not like, you know, make this setup of spaces just like you can do this setup of windows.   |
 | 48:24      | This episode of the Automators podcast is brought to you by ExpressVPN at expressvpn.com                 |
 | 48:32      |/automators. You can get high speed, secure and anonymous VPN services with an extra three          |
@@ -772,10 +772,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:00:55   | Yeah, I actually have a folder in Dropbox called automated actions, David. And this has a series         |
 | 01:01:01   | of subfolders and basically the idea of it is, is stuff gets put in here to make magic happen.           |
 | 01:01:07   | So there's all kinds of nerdy things in here, like there's a screen cost online thing where              |
-| 01:01:12   | there's a JSON file and it takes that information, Keyboard Maestro actually takes that information      |
-| 01:01:16   | and does magic with it. But speaking of podcasts, Dropbox and Keyboard Maestro, I actually do want       |
+| 01:01:12   | there's a JSON file and it takes that information, [[Keyboard Maestro]] actually takes that information      |
+| 01:01:16   | and does magic with it. But speaking of podcasts, Dropbox and [[Keyboard Maestro]], I actually do want       |
 | 01:01:23   | to share one of the things that I've done, which is when I finished recording an episode of automators,  |
-| 01:01:29   | I have a Keyboard Maestro macro pop up and it asks me what the, what the episode number is.              |
+| 01:01:29   | I have a [[Keyboard Maestro]] macro pop up and it asks me what the, what the episode number is.              |
 | 01:01:37   | And so I input the episode number. So for this one, it's 72. And then there are three buttons            |
 | 01:01:43   | on this. And it's showing me the name of the file. And it says, you know, do you want to move it?        |
 | 01:01:48   | Do you want to keep it? Do you want to just ignore it? Or do you want to delete it? And this is great    |
@@ -783,17 +783,17 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:01:57   | go. Or I can just go actually, you know, what leaves them there just in case there was something         |
 | 01:02:01   | great in that. Or I can move them. And then when they get moved, they get renamed. So they've got        |
 | 01:02:07   | the episode number at the start and they get put in the right folder for our wonderful editor gym        |
-| 01:02:12   | to go ahead and, you know, do the magic on to make this into a full show. Because Keyboard Maestro       |
+| 01:02:12   | to go ahead and, you know, do the magic on to make this into a full show. Because [[Keyboard Maestro]]       |
 | 01:02:17   | can do things very similarly to how [[Hazel]] can do things as well. It's not the same. It's a very          |
 | 01:02:22   | different application. And if you if you want the very, I wouldn't say very, very simple approach,       |
 | 01:02:28   | but the simpler approach where it's just for file management, then of course [[Hazel]] is your app.          |
-| 01:02:32   | But if you want to go a bit fancier, then Keyboard Maestro can do a lot with file management too.        |
+| 01:02:32   | But if you want to go a bit fancier, then [[Keyboard Maestro]] can do a lot with file management too.        |
 | 01:02:40   | Yeah, another app that does good, like automation file stuff is Devon think they're                      |
 | 01:02:45   | sponsored today, full disclosure, we didn't know that when I put this note in. And we may at some        |
 | 01:02:51   | point do a show on automation and Devon think because it's there's just so much there. But               |
 | 01:02:56   | they have kind of a version of [[Hazel]] built into Devon think so you can automate files in your            |
 | 01:03:01   | Devon think library. Another one I did what [[Hazel]] recently is we're heading into tax season and I'm      |
-| 01:03:07   | getting a bunch of forms. And it's the same thing I use a Keyboard Maestro script to apply               |
+| 01:03:07   | getting a bunch of forms. And it's the same thing I use a [[Keyboard Maestro]] script to apply               |
 | 01:03:11   | two tags. One is the word tax and the other one is 2020. And it automatically saves it to a              |
 | 01:03:17   | particular folder and copies it to another folder that I share with my accountant. So,                   |
 | 01:03:22   | you know, just like all these little things that normally take time to do you can automate your          |
@@ -856,31 +856,31 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:08:33   | Head to privacy.com/automators and sign up for a new account. New customers                        |
 | 01:08:40   | automatically get $5 to spend on your first purchase. Go to privacy.com/automators                 |
 | 01:08:45   | and sign up now. Our thanks to privacy for their support of this show and Relay FM.                      |
-| 01:08:51   | Maybe the ultimate quality of a life tool on your Mac is Keyboard Maestro. We've already                 |
+| 01:08:51   | Maybe the ultimate quality of a life tool on your Mac is [[Keyboard Maestro]]. We've already                 |
 | 01:08:57   | mentioned it several times during the show. Yeah, it's come up how many times now? I mean,               |
-| 01:09:01   | I don't know if we should talk about Keyboard Maestro or Stream Deck being the bright texture            |
+| 01:09:01   | I don't know if we should talk about [[Keyboard Maestro]] or Stream Deck being the bright texture            |
 | 01:09:08   | of the automators podcast, where you need to drink a sip of whatever your favourite beverage is           |
 | 01:09:13   | every time you hear it. I highly recommend Cook Zero. That's my current beverage of choice.              |
 | 01:09:18   | But take your pick there. But both applications really do make my life on my Mac much, much easier.      |
-| 01:09:27   | And one of the ways that I really dove into Keyboard Maestro and improved how I use my Mac               |
+| 01:09:27   | And one of the ways that I really dove into [[Keyboard Maestro]] and improved how I use my Mac               |
 | 01:09:36   | with it was by looking at the triggers, actually, David. I don't know where you really started.          |
 | 01:09:40   | Did you look at the actions first or the triggers? But I found looking at the triggers                   |
 | 01:09:44   | made it much easier for me. Yeah, I mean, my brain wants to index everything. In fact,                   |
-| 01:09:50   | if you go to the Keyboard Maestro field guide, there's like a whole section that covers every            |
+| 01:09:50   | if you go to the [[Keyboard Maestro]] field guide, there's like a whole section that covers every            |
 | 01:09:55   | trigger and every action. And I feel like kind of just going through those videos and understanding      |
 | 01:10:00   | what can be a trigger and what it can do as an action, then you just put that in your brain.             |
 | 01:10:05   | And then as you're going through your day, you realise, oh, here's something I could automate.           |
 | 01:10:09   | I could pull a trigger out of this or that. And there's just so many you can use. And                    |
 | 01:10:14   | for quality of life, little hacks that just make your day go easier, I would agree,                      |
 | 01:10:20   | understanding how to use those triggers is key. Yeah. Yeah. And I think that's the thing. Because        |
-| 01:10:27   | Keyboard Maestro, one of the things that I have done with it is I have it start programs when            |
+| 01:10:27   | [[Keyboard Maestro]], one of the things that I have done with it is I have it start programs when            |
 | 01:10:33   | specific drives are connected to my Mac. So I have some external hard drives. I don't keep them          |
 | 01:10:38   | plugged in all the time. There's things like bootable backups and things like that. And I have           |
 | 01:10:42   | it say, when this volume is mounted, and it knows then that when the bootable backup volume is           |
 | 01:10:52   | connected, yes, I'm very creative when naming external hard drives, that it should open a                |
 | 01:10:59   | Carbon Copy Cloner for me. So that application pops up. And I know that I can do this in carbon          |
 | 01:11:06   | copy cloner, but I consolidated all of this stuff into one application so that I know if I'm looking     |
-| 01:11:13   | for I plug this in and something happens, I'm looking for a Keyboard Maestro and that's where            |
+| 01:11:13   | for I plug this in and something happens, I'm looking for a [[Keyboard Maestro]] and that's where            |
 | 01:11:19   | I'm looking to find this. Because the other trigger that you can use is also a USB device.               |
 | 01:11:26   | And so whenever my my XLR interface is connected to my Mac, then it pops open a different series         |
 | 01:11:33   | of applications and does things. And now I've actually switched XLR interfaces recently. I'm             |
@@ -893,27 +893,27 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:12:08   | you can say, okay, this volume, any volume actually is mounted. Okay, just open Finder for me.           |
 | 01:12:14   | Whenever I plug in a drive, open Finder, done. And that actually is a very simple macro. You             |
 | 01:12:21   | select your trigger, you have one action and done. And that's it. And that can make your life much       |
-| 01:12:26   | easier. And I know that my dad now has Keyboard Maestro because whenever he connects a drive,            |
+| 01:12:26   | easier. And I know that my dad now has [[Keyboard Maestro]] because whenever he connects a drive,            |
 | 01:12:30   | it does that. Yeah, I mean, so often when you plug something into your computer,                         |
 | 01:12:37   | it's, it's about to result in a repeated behaviour that, you know, every time you plug your camera        |
 | 01:12:42   | card and you do this, every time you plug in your backup drive, you do that. And because                 |
-| 01:12:48   | Keyboard Maestro can recognise something being plugged into your computer as a trigger,                  |
+| 01:12:48   | [[Keyboard Maestro]] can recognise something being plugged into your computer as a trigger,                  |
 | 01:12:53   | that is like healthy ground for automation. And another one I do is my scanner. You know,                |
 | 01:12:59   | I have a Fujitsu scan snap. It could work wirelessly, but the way I'm set up, I just do the scanning on  |
 | 01:13:05   | the weekends and I plug it directly into my computer, put it on my desk and, you know,                   |
 | 01:13:09   | I'm right there. So I just work through it. And one of the advantages of that is, as soon as             |
-| 01:13:14   | Keyboard Maestro is always watching and says, oh, he just plugged a scanner in. Well, then               |
+| 01:13:14   | [[Keyboard Maestro]] is always watching and says, oh, he just plugged a scanner in. Well, then               |
 | 01:13:19   | you need to open Preview on the right side of the screen. You need to open up the Fujitsu software       |
 | 01:13:23   | on the left side of the screen. You need to, you know, there's a whole bunch of things that happen.      |
 | 01:13:27   | And that's stuff I would normally do manually, but, you know, getting back to quality of life.           |
-| 01:13:34   | Why not have Keyboard Maestro do all that stuff for me? And it took                                      |
+| 01:13:34   | Why not have [[Keyboard Maestro]] do all that stuff for me? And it took                                      |
 | 01:13:37   | all of about two minutes to set that script up one time. And now for the rest of my life,                |
 | 01:13:42   | when I plug in my scanner, my computer says, oh, he's in scanning mode. In fact, one of the things       |
 | 01:13:47   | I do is I open up a YouTube window because when I'm scanning, I'm just sitting there. So I'll            |
 | 01:13:52   | watch something on YouTube while it happens. So it's just goofy, but why not bend your computer          |
 | 01:13:59   | to your will, like we say at the top of every show? And this is a great example of an excellent          |
-| 01:14:05   | trigger in Keyboard Maestro that can lead to a lot of quality of life stuff. And another really          |
-| 01:14:10   | good trigger for quality of life improvements with Keyboard Maestro that you should be aware of is       |
+| 01:14:05   | trigger in [[Keyboard Maestro]] that can lead to a lot of quality of life stuff. And another really          |
+| 01:14:10   | good trigger for quality of life improvements with [[Keyboard Maestro]] that you should be aware of is       |
 | 01:14:15   | the Wi-Fi connection, because that's another good one where it's, it'll say, well, he connected to       |
 | 01:14:20   | the home Wi-Fi or he just connected to the work Wi-Fi or he connected to Starbucks. And maybe            |
 | 01:14:26   | the apps you open, the settings you have all change depending on where you're located. Well,             |
@@ -921,7 +921,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:14:36   | used back in the day where I did something as crazy as going to the office. Wow. It's in a               |
 | 01:14:41   | hole in the country now. I don't do that anymore, David. A little less relevant at the moment,           |
 | 01:14:45   | but hopefully that's about to change. Yeah, I'm sure for many people that sort of thing will             |
-| 01:14:50   | return. And it was really simple. But the other thing that I've done is Keyboard Maestro also has        |
+| 01:14:50   | return. And it was really simple. But the other thing that I've done is [[Keyboard Maestro]] also has        |
 | 01:14:58   | a menu bar option. And I have a lot of things in the menu bar. And I used to have a little meeting       |
 | 01:15:07   | option in my menu bar, where if I ran it, it would hide a whole bunch of applications and                |
 | 01:15:12   | things like that and just actually close the windows on pretty much everything except just               |
@@ -939,15 +939,15 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:16:15   | I tap it and it automatically then puts my phone and do not disturb for the length of the meeting        |
 | 01:16:21   | and things like that. But a meeting button is something that you can easily do with Keyboard             |
 | 01:16:26   | Maestro. Yeah. I mean, so much of this stuff, I wish shortcuts had, you know. Yeah. Yeah. Same.          |
-| 01:16:35   | I think we all wish the shortcuts had many of the things that Keyboard Maestro had,                      |
-| 01:16:39   | but also at the same time, sometimes I wish Keyboard Maestro had some of the things that                 |
+| 01:16:35   | I think we all wish the shortcuts had many of the things that [[Keyboard Maestro]] had,                      |
+| 01:16:39   | but also at the same time, sometimes I wish [[Keyboard Maestro]] had some of the things that                 |
 | 01:16:42   | shortcuts does, just because, you know, they're two very different applications.                         |
 | 01:16:48   | And they were built very differently in the beginning. And it's interesting to see the                   |
 | 01:16:53   | crossover between them. Though sometimes I do wish, and maybe maybe we should ask Peter,                 |
-| 01:16:58   | the developer of Keyboard Maestro, if he can do this, if he can alias some of the actions,               |
-| 01:17:04   | so that when I search for things with the shortcuts name, I still find it in Keyboard Maestro and I      |
+| 01:16:58   | the developer of [[Keyboard Maestro]], if he can do this, if he can alias some of the actions,               |
+| 01:17:04   | so that when I search for things with the shortcuts name, I still find it in [[Keyboard Maestro]] and I      |
 | 01:17:09   | can learn what its real name is. Because every software I look for something, I can't find it,           |
-| 01:17:15   | and I know it exists in Keyboard Maestro. I just have to Google around until I stumble across the        |
+| 01:17:15   | and I know it exists in [[Keyboard Maestro]]. I just have to Google around until I stumble across the        |
 | 01:17:19   | right name for it. Yeah. Like, you know, a little quality of life thing I did recently with Keyboard     |
 | 01:17:26   | Maestro is a Grammarly workflow. I'm a Grammarly subscriber, so a lot of the stuff I write gets          |
 | 01:17:33   | run through the Grammarly filter. It's not an end all, but I mean, it's a good, it's the only            |
@@ -958,17 +958,17 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:18:03   | their website. But there's a whole process I got to go through. Like, I've written it in [[Drafts]]         |
 | 01:18:08   | or Obsidian. I've written it somewhere. And then I want to run it through Grammarly. So I found          |
 | 01:18:14   | myself doing the same thing every time, you know, select, copy, you know, open up a website, paste,      |
-| 01:18:20   | you know. So I put all that into a Keyboard Maestro script. The only tricky thing about it was,          |
+| 01:18:20   | you know. So I put all that into a [[Keyboard Maestro]] script. The only tricky thing about it was,          |
 | 01:18:26   | to assemble it was very easy, you know, Command A selects all the text. Command C copies the text.       |
-| 01:18:34   | So I'm running two keyboard commands in, in a Keyboard Maestro. Open Safari to the Grammarly             |
+| 01:18:34   | So I'm running two keyboard commands in, in a [[Keyboard Maestro]]. Open Safari to the Grammarly             |
 | 01:18:40   | website. And this is where it gets tricky. There's not a keyboard command on their website to open       |
 | 01:18:46   | up a blank document to paste it in. Instead, you have to mouse over a specific icon and press it.        |
-| 01:18:53   | But Keyboard Maestro has the ability to look for an image on the screen and press it. So                 |
+| 01:18:53   | But [[Keyboard Maestro]] has the ability to look for an image on the screen and press it. So                 |
 | 01:18:59   | I do that. So I just took a screenshot of it. And it's a very distinct image. It's like a new,           |
 | 01:19:04   | it says new underneath it. And I press that button, then I pause for half a second and I hit Command     |
 | 01:19:10   | V to paste it. And that, that was something I was doing like three or four times a day, you know,        |
 | 01:19:17   | manually. And it just occurred to me like, wait a second, what am I doing here? You know, so             |
-| 01:19:21   | you know, that's a Keyboard Maestro quality of life in person.                                           |
+| 01:19:21   | you know, that's a [[Keyboard Maestro]] quality of life in person.                                           |
 | 01:19:25   | Yeah, that is definitely one. And I should, I should steal that, David, because I use Grammarly          |
 | 01:19:30   | too. And I love the fact that it pops up whenever I'm doing things on the web, so that I can,            |
 | 01:19:36   | you know, have it, have it fix things for me. Because, you know, every so often while I'm                |
@@ -1025,7 +1025,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:24:01   | things are there and, you know, the Google Drive folder so that I can always find all of our             |
 | 01:24:07   | documents, which is super handy. The last time we had TJ on, he really gave me religion about            |
 | 01:24:15   | multiple palettes on the Stream Deck, you know, and like a good example. And this really combines        |
-| 01:24:22   | well with Keyboard Maestro. Like Microsoft Word is a good example. It's an app that I use a lot,         |
+| 01:24:22   | well with [[Keyboard Maestro]]. Like Microsoft Word is a good example. It's an app that I use a lot,         |
 | 01:24:28   | but it's just really kind of sometimes difficult to get it to do, like, repeatable tests. Like,          |
 | 01:24:36   | one of the things I do often is I comment on documents for clients and I put a capitalised word          |
 | 01:24:43   | privileged in the top of the comment. So I wanted to be clear when I say to the client, this is not      |
@@ -1033,12 +1033,12 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:24:53   | just between the two of us about this document. And, you know, repeatedly going to hit the comment,      |
 | 01:25:00   | add comment button, which is not easy in Microsoft Word. I mean, you can do it with a right mouse        |
 | 01:25:04   | click or you can do it from a menu bar, but all of that kind of takes away focus. And so I made a        |
-| 01:25:09   | Keyboard Maestro script that uses the keyboard combination for the selected text to add a comment        |
+| 01:25:09   | [[Keyboard Maestro]] script that uses the keyboard combination for the selected text to add a comment        |
 | 01:25:15   | then writes in the word privilege, puts a colon, adds a new paragraph. At one point, I was highlighting  |
 | 01:25:20   | it, but I thought that was too much. And then once I made that script, then I just added it to a         |
 | 01:25:26   | Stream Deck button. And I have a whole Stream Deck palette that loads every time I open Microsoft        |
 | 01:25:31   | Word. And that was kind of the gateway. And now all of a sudden, like all the like weird,                |
-| 01:25:35   | repeatable stuff I do in Word, I've made Keyboard Maestro scripts and buttons. Some of them are          |
+| 01:25:35   | repeatable stuff I do in Word, I've made [[Keyboard Maestro]] scripts and buttons. Some of them are          |
 | 01:25:41   | simple as just like a keyboard combination of changing the view from draft view to print preview         |
 | 01:25:46   | or things that you could just do with a keyboard shortcut. But some of them are like multiple            |
 | 01:25:50   | steps strung together. And I've got this whole palette of tools. So when I'm working in Microsoft        |
@@ -1058,7 +1058,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:27:10   | reason, then I make sure to add this and then hit save. And so what I do is I have some buttons,         |
 | 01:27:21   | and this is a string deck palette that appears whenever I open ScreenFlow. And then it presses           |
 | 01:27:27   | the backspace key for me, and then it types to do colon, and then hits command S. And I'm using          |
-| 01:27:34   | Keyboard Maestro markers for these just because it's easy. And then I have it in Keyboard Maestro        |
+| 01:27:34   | [[Keyboard Maestro]] markers for these just because it's easy. And then I have it in [[Keyboard Maestro]]        |
 | 01:27:38   | if I need it elsewhere, like for example, on another Mac, which might happen. Though I do                |
 | 01:27:44   | recommend you backup your ScreenFlow profiles regularly, and there's a backup function in                |
 | 01:27:48   | Stream Deck for you to do that. But I've got several different ones, you know,                           |
@@ -1089,10 +1089,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:29:57   | course, with different profiles and folders, you'll be fine with 15 buttons if you're willing to         |
 | 01:30:04   | switch folders and so on. And I don't regret having the 15 button one, aside from the fact that I        |
 | 01:30:09   | can't change the cable. Whereas, of course, David, you know, you could change the cable on yours,        |
-| 01:30:14   | so. Yeah, that paid off for me. Yeah. But you know, Stream Deck and Keyboard Maestro go together         |
-| 01:30:21   | so well. I would argue that if I could only have one, it would absolutely be Keyboard Maestro,           |
+| 01:30:14   | so. Yeah, that paid off for me. Yeah. But you know, Stream Deck and [[Keyboard Maestro]] go together         |
+| 01:30:21   | so well. I would argue that if I could only have one, it would absolutely be [[Keyboard Maestro]],           |
 | 01:30:25   | because if you don't want to spend the money on Stream Deck, you can also put together keyboard          |
-| 01:30:29   | palettes on screen with Keyboard Maestro to do a lot of these same things. But there is something,       |
+| 01:30:29   | palettes on screen with [[Keyboard Maestro]] to do a lot of these same things. But there is something,       |
 | 01:30:34   | and as someone who believes in the religion of, you know, keyboard shortcuts, I'm surprised to           |
 | 01:30:40   | say this, but there's just something about having that button list in that separate device with          |
 | 01:30:45   | all those buttons. Yeah. I think it's the pictures that you can add to them. So I'm looking at my        |
@@ -1166,7 +1166,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:37:05   | So, David, I think we're almost at the end of the show here. I think it's probably time to               |
 | 01:37:13   | round out the episode with the other small things that we're doing. And I think the first place that     |
 | 01:37:19   | we've got to start with here is Automator, because we've not really talked about Automator               |
-| 01:37:24   | much today. When compared to tools like Keyboard Maestro and [[Hazel]], it pales in comparison,              |
+| 01:37:24   | much today. When compared to tools like [[Keyboard Maestro]] and [[Hazel]], it pales in comparison,              |
 | 01:37:31   | which is a shame because it's actually a pretty powerful tool and it's free and it's on every            |
 | 01:37:36   | Mac out there. And it can do some pretty cool things. So, I've used it before for things like            |
 | 01:37:43   | combining PDFs, especially when I was applying for a mortgage. To start with, I was told,                |
@@ -1231,7 +1231,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:43:27   | certain things going, oh yeah, but I want to insert this. But if I tap on it, it doesn't give me that    |
 | 01:43:31   | option. The answer is of course, tap and hold. But yeah, I'm wondering if maybe, maybe it really         |
 | 01:43:37   | needs it's coming to the Mac across my fingers. Who knows? I mean, it'd be very interesting to see       |
-| 01:43:41   | how that fits with Keyboard Maestro, you know, yeah, yeah, I'm sure there'd be some things that          |
+| 01:43:41   | how that fits with [[Keyboard Maestro]], you know, yeah, yeah, I'm sure there'd be some things that          |
 | 01:43:47   | can do better because it's baked into the system and other things that would be much worse at,           |
 | 01:43:52   | frankly. I don't know. But I hope so. I hope so. I think that needs out. But I mean,                     |
 | 01:43:58   | since I feel like automator is never going to get the love it needs, if we have to do it by              |
@@ -1258,7 +1258,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:45:56   | of different icons as well. There's a pill icon, some coffee icons, a sun and a moon,                    |
 | 01:46:01   | things like that. So you know when it's on and off. But I love the fact that it's got these              |
 | 01:46:06   | automation options built into it. Of course, you can run terminal commands and stuff when you            |
-| 01:46:10   | plug things in through Keyboard Maestro and so on. But I find Amphetamine is just a super                |
+| 01:46:10   | plug things in through [[Keyboard Maestro]] and so on. But I find Amphetamine is just a super                |
 | 01:46:15   | easy way to do it. Yeah. The one I would add in this one is controversial for some folks is              |
 | 01:46:21   | CleanMyMac X. Not controversial in the sense that it's a bad app. It's a fine app. But people,           |
 | 01:46:28   | a lot of nerds write me every time I talk about this and they're like, well, if you just run this        |

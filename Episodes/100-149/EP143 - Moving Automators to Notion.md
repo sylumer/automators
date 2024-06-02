@@ -1081,25 +1081,25 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:04:16   | is.                                                                                                  |
 | 01:04:17   | So either I can work on existing documentation or I can create a new one really easily and           |
 | 01:04:20   | it's all just right there.                                                                           |
-| 01:04:22   | Do you, because I've been using Keyboard Maestro like this for years for setting context.            |
+| 01:04:22   | Do you, because I've been using [[Keyboard Maestro]] like this for years for setting context.            |
 | 01:04:29   | I'm always tempted to try Bunch, but I've got this thing called inertia, right?                      |
-| 01:04:32   | I've already got all this stuff built out in Keyboard Maestro.                                       |
-| 01:04:36   | Are there features in Bunch that don't exist in Keyboard Maestro have been used both?                |
+| 01:04:32   | I've already got all this stuff built out in [[Keyboard Maestro]].                                       |
+| 01:04:36   | Are there features in Bunch that don't exist in [[Keyboard Maestro]] have been used both?                |
 | 01:04:40   | I mean, what's the case for me taking the time to move over?                                         |
 | 01:04:44   | I feel like we may need to do this in a future show, but...                                          |
 | 01:04:48   | I mean, I feel like technically everything that you can do in Bunch, you could do in                 |
-| 01:04:52   | Keyboard Maestro.                                                                                    |
-| 01:04:53   | But for me, Keyboard Maestro is like, it's like here's like the process of the chain                 |
+| 01:04:52   | [[Keyboard Maestro]].                                                                                    |
+| 01:04:53   | But for me, [[Keyboard Maestro]] is like, it's like here's like the process of the chain                 |
 | 01:05:00   | of things.                                                                                           |
 | 01:05:01   | So for example, like hitting, like when we start recording automators.                               |
-| 01:05:05   | I use a macro in Keyboard Maestro.                                                                   |
+| 01:05:05   | I use a macro in [[Keyboard Maestro]].                                                                   |
 | 01:05:08   | It's very exciting, folks.                                                                           |
 | 01:05:10   | You're never going to guess what it's called.                                                        |
 | 01:05:11   | It's called start recording and timestamp.                                                           |
 | 01:05:14   | Whoa.                                                                                                |
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
 | 01:05:21   | So I use this and what it does activates audio hijack and it starts the recording and it             |
-| 01:05:25   | sets the timestamp in the Keyboard Maestro macro.                                                    |
+| 01:05:25   | sets the timestamp in the [[Keyboard Maestro]] macro.                                                    |
 | 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |
 | 01:05:39   | so I can just type whatever after that so that Jim are fabulous editor who seriously,                |
@@ -1111,13 +1111,13 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:59   | It's just, it's all together.                                                                        |
 | 01:06:00   | If there's something missing, then he knows he needs to ask for it.                                  |
 | 01:06:03   | But it's all right there and then we just have all of that together.                                 |
-| 01:06:08   | So I use Keyboard Maestro macros for things like that and I do have macros run as part               |
+| 01:06:08   | So I use [[Keyboard Maestro]] macros for things like that and I do have macros run as part               |
 | 01:06:13   | of some of my bunches.                                                                               |
 | 01:06:17   | I don't know what the right word is there, but bunch for me is very specifically, I want             |
 | 01:06:24   | a bunch of applications opened, hence bunch, and maybe a couple of other things to happen.           |
-| 01:06:31   | But it also closed stuff off for me, but I've never really gotten into Keyboard Maestro              |
+| 01:06:31   | But it also closed stuff off for me, but I've never really gotten into [[Keyboard Maestro]]              |
 | 01:06:36   | for the whole setup thing.                                                                           |
-| 01:06:37   | My Keyboard Maestro menu bar list is, I want these automations to be available to me.                |
+| 01:06:37   | My [[Keyboard Maestro]] menu bar list is, I want these automations to be available to me.                |
 | 01:06:44   | It's right next to fast scripts and bunch and I know that there's overlap between all                |
 | 01:06:50   | three of these.                                                                                      |
 | 01:06:51   | I'm very aware of it, but I like the fact that if I click on my bunch menu bar, then                 |
@@ -1126,7 +1126,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:01   | Get me ready to write docs.                                                                          |
 | 01:07:02   | Get me ready to write some code.                                                                     |
 | 01:07:03   | Get me ready to do some code review or something like that.                                          |
-| 01:07:08   | This is all day job examples where if I click the Keyboard Maestro macro, it's, hey, let's           |
+| 01:07:08   | This is all day job examples where if I click the [[Keyboard Maestro]] macro, it's, hey, let's           |
 | 01:07:14   | clean up a whole bunch of files that are probably floating around that we don't need anymore         |
 | 01:07:19   | and stuff like that.                                                                                 |
 | 01:07:20   | And fast scripts is, hey, so I'm going to want like five different things open in iTerm              |
@@ -1136,7 +1136,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:36   | Well, I mean, in our fancy new notion, we have an idea called setup showdown and this                |
 | 01:07:41   | is a preview because I don't really think it matters, which one you use.                             |
 | 01:07:45   | If we do that show, I will definitely figure out bunch and be able to talk about it intelligently.   |
-| 01:07:50   | But whether you do it with Keyboard Maestro bunch, you can also do it with shortcuts,                |
+| 01:07:50   | But whether you do it with [[Keyboard Maestro]] bunch, you can also do it with shortcuts,                |
 | 01:07:58   | not quite as well, but you can do it.                                                                |
 | 01:08:02   | But the idea is you push a button and your computer sets it up and then your brain sees              |
 | 01:08:07   | it and says, oh, here's all the apps that I answer email in or here are all the apps                 |
@@ -1146,7 +1146,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:08:22   | It really works on you.                                                                              |
 | 01:08:23   | So we want you to do that.                                                                           |
 | 01:08:25   | That'll be a show we do next year and stay tuned for that.                                           |
-| 01:08:28   | I think perhaps for me, the big thing with bunch versus Keyboard Maestro for this specifically       |
+| 01:08:28   | I think perhaps for me, the big thing with bunch versus [[Keyboard Maestro]] for this specifically       |
 | 01:08:33   | is that if I were to change my default browser, for example, I could just search everywhere          |
 | 01:08:38   | for Firefox and I can just replace Firefox with Chrome or whatever it is.                            |
 | 01:08:44   | I'm not planning on doing that.                                                                      |
@@ -1159,8 +1159,8 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:09:14   | a whole bunch of files.                                                                              |
 | 01:09:16   | And just like you love obsidian because it's just files, David, that's one of the reasons            |
 | 01:09:19   | why I love bunch.                                                                                    |
-| 01:09:20   | Keyboard Maestro is brilliant.                                                                       |
-| 01:09:22   | I love Keyboard Maestro.                                                                             |
+| 01:09:20   | [[Keyboard Maestro]] is brilliant.                                                                       |
+| 01:09:22   | I love [[Keyboard Maestro]].                                                                             |
 | 01:09:23   | You will never take it away from me.                                                                 |
 | 01:09:25   | If you try to take it away from me, I will be very upset with you.                                   |
 | 01:09:28   | But I just use them differently, I guess.                                                            |

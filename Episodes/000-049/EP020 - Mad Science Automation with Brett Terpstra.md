@@ -248,7 +248,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 09:12      | Yeah.                                                                                                 |
 | 09:13      | And I do a lot, a lot of my automation is hard to share because it is system level requires           |
 | 09:20      | digging into terminal.                                                                                |
-| 09:21      | And then I use more foreground apps like, you know, Keyboard Maestro to trigger shell                 |
+| 09:21      | And then I use more foreground apps like, you know, [[Keyboard Maestro]] to trigger shell                 |
 | 09:28      | scripts and things that are doing things that most of those automation, automation apps               |
 | 09:32      | can't.                                                                                                |
 | 09:33      | Yeah.                                                                                                 |
@@ -875,7 +875,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 44:05      | now use and trigger combinations with the rest of the keyboard.                                       |
 | 44:08      | So like for me, holding down hyperkey terms, H, J, K and else into arrow keys for me.                 |
 | 44:17      | Just as an example.                                                                                   |
-| 44:18      | And it basically anything you can then program with Keyboard Maestro or [[BetterTouchTool]],            |
+| 44:18      | And it basically anything you can then program with [[Keyboard Maestro]] or [[BetterTouchTool]],            |
 | 44:24      | you can then assign to keys with abandon because it's you're not going to overwrite any other         |
 | 44:29      | shortcuts with them.                                                                                  |
 | 44:31      | And then if you just tap it once, it's an escape key.                                                 |

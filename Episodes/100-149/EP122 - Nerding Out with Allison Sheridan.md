@@ -111,10 +111,10 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 03:23      | The series on [[Git]] is what he does is these little sub-series. So if you just want to                    |
 | 03:28      | learn [[Git]], you can start right in that piece. You don't have to start at the beginning with             |
 | 03:31      | HTML in order to get the [[Git]] part. So learning about version control was huge. And now I'm              |
-| 03:38      | like, I'm using version control on my Keyboard Maestro macros, which is something I always              |
+| 03:38      | like, I'm using version control on my [[Keyboard Maestro]] macros, which is something I always              |
 | 03:42      | wanted. So I've got that in [[Git]]. And it's just a real helpful thing to know.                            |
 | 03:46      | Wow, Allison, you've gone down the rabbit hole. If you're using version control and your                |
-| 03:50      | Keyboard Maestro macros, that is my kind of nerd right there.                                           |
+| 03:50      | [[Keyboard Maestro]] macros, that is my kind of nerd right there.                                           |
 | 03:54      | Oh, yeah. Yeah. Like this is where, you know, we know we're going to have fun on this episode,          |
 | 03:58      | folks. We always do. But, you know, in particular, somebody mentions, yeah, so I'm putting my           |
 | 04:03      | automations in [[Git]] and I'm just like, hi, tell me more, tell me more.                                   |
@@ -142,7 +142,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 05:46      | of episodes that you've like prerecorded and not released, then it won't work perfectly                 |
 | 05:49      | for that, but it's using the RSS for that. I do something.                                              |
 | 05:54      | Shortcuts? Yeah, it's all in shortcuts. But what I do for automators, because I also can't              |
-| 06:00      | add by one, is I have a keyboard, I have a Keyboard Maestro macro, which pops up when                   |
+| 06:00      | add by one, is I have a keyboard, I have a [[Keyboard Maestro]] macro, which pops up when                   |
 | 06:06      | I start recording. And, or actually, when I say that I'm about to start recording automators,           |
 | 06:12      | it'll pop up and it automatically adds one to the episode number. So I can just click                   |
 | 06:16      | okay. And it stores that macro, it stores that. And then it also like tidies the podcast                |
@@ -376,10 +376,10 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 23:43      | a shout out to Mike Price. I use a digital audio workstation called Hindenburg, and it's not a          |
 | 23:50      | Mac first application. And so they don't keep focus on text fields like they should. And so it's        |
 | 23:56      | really tedious to post in blog titles and URLs. So Mike Price wrote an automation for me in             |
-| 24:02      | Keyboard Maestro. Now, the best part about the story is he didn't know how to use Keyboard Maestro      |
+| 24:02      | [[Keyboard Maestro]]. Now, the best part about the story is he didn't know how to use [[Keyboard Maestro]]      |
 | 24:07      | when I asked him to help me. He went out, found the tool, bought it, learned it, and then wrote         |
 | 24:11      | the automation for me. So that's way better than me doing it, right? I guess. Delegation solution.      |
-| 24:17      | Yeah, delegation, definitely. But that puts Keyboard Maestro in my next favourite. And I really          |
+| 24:17      | Yeah, delegation, definitely. But that puts [[Keyboard Maestro]] in my next favourite. And I really          |
 | 24:23      | like it. And I've gotten it to do some great things for me. But it's so freaking fragile.               |
 | 24:29      | It just seems to, like, I'll get it to do something. And then the next week, it won't do it.            |
 | 24:34      | And I go in and I fiddle and I poke a little couple of things. And then it'll work for a little         |
@@ -391,11 +391,11 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 25:00      | or whatever, half a second. But sometimes those stop working. And this automation that Mike wrote       |
 | 25:05      | for me, it has now stopped working. And we haven't been able to figure out why yet. And so I love       |
 | 25:11      | it, but I also can't stand it. It makes me crazy when it stops working. So I really want to love        |
-| 25:17      | Keyboard Maestro, but I'm not in love. I'm in really good like with it.                                 |
-| 25:21      | Yeah, I have to say, well, the tricks that I found with Keyboard Maestro for doing things like          |
+| 25:17      | [[Keyboard Maestro]], but I'm not in love. I'm in really good like with it.                                 |
+| 25:21      | Yeah, I have to say, well, the tricks that I found with [[Keyboard Maestro]] for doing things like          |
 | 25:27      | where you would need to click an image, there is often somewhere in that application, a hidden menu     |
-| 25:33      | command. And Keyboard Maestro has the ability to say like, click, like click this menu command,         |
-| 25:38      | and you can select the application and then like actually go through the menus in Keyboard Maestro.     |
+| 25:33      | command. And [[Keyboard Maestro]] has the ability to say like, click, like click this menu command,         |
+| 25:38      | and you can select the application and then like actually go through the menus in [[Keyboard Maestro]].     |
 | 25:43      | And that I find works really, really well for me. But it doesn't necessarily work for everything        |
 | 25:48      | else. That one's fragile too. So one of my favourite automations was I like to use a tool called the     |
 | 25:57      | Noun Project to create, to get icons. And I have a subscription to it. It's great. You can just type    |
@@ -404,7 +404,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 26:15      | dark mode, that looks terrible because it's going to be a black outline sitting on dark gray.           |
 | 26:19      | So I said, okay, well, I need to remove or put the alpha channel back in on the way I'm creating        |
 | 26:24      | this. So rather than just open it and preview and click, you know, put the alpha channel back,          |
-| 26:29      | I spent like 16 hours trying to automate it and wrote a Keyboard Maestro macro to do it.                |
+| 26:29      | I spent like 16 hours trying to automate it and wrote a [[Keyboard Maestro]] macro to do it.                |
 | 26:35      | But I tell you, Rosemary, it would work and then not work and then work and then not work using         |
 | 26:41      | exactly what you talked about. I found the hidden menu that would check that little box                 |
 | 26:45      | and it would work. And then sometimes it just wouldn't. And I gave up on it. It was really              |
@@ -442,11 +442,11 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 29:33      | Okay, so now my script is broken to give me like the name of the branch that I'm supposed to be         |
 | 29:38      | working on. Thanks, love it. But you know, I fixed it. It's fine. It works again. But it was just       |
 | 29:45      | one of those things where it's like, oh, really? Like, why are you doing this to me? You don't          |
-| 29:49      | need to be doing this to me. Well, I do want to give a shout out back to Keyboard Maestro,              |
+| 29:49      | need to be doing this to me. Well, I do want to give a shout out back to [[Keyboard Maestro]],              |
 | 29:54      | though, to say what I do love about it is the automations that matter to me the most are the            |
 | 29:59      | ones where, first of all, it's just an annoying task to do something I don't enjoy doing. But           |
 | 30:05      | secondly, that it can be error prone. And if you automate it, you can stop yourself from                |
-| 30:11      | making stupid mistakes. And my favourite automation on my Mac is a Keyboard Maestro macro that gets      |
+| 30:11      | making stupid mistakes. And my favourite automation on my Mac is a [[Keyboard Maestro]] macro that gets      |
 | 30:18      | everything set up on my Mac for my doing my live show. So it launches a whole bunch of apps and         |
 | 30:24      | it shuts off a bunch of services. It embeds a shortcut, actually a shortcut that says turn on           |
 | 30:33      | do not disturb, because that's like 17 button pushes now on the Mac to get it to go into do not         |
@@ -456,8 +456,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 30:53      | are tedious, but also error prone. Like if I forget to turn on a Wi-Fi, I'm not going to have as good   |
 | 30:57      | of a connection as if I have Wi-Fi turned off. So I really love that it's repeatable. It runs and       |
 | 31:04      | that one is not fragile. It seems to work every time. Oh, no, no, I'm lying. It is fragile.             |
-| 31:08      | It is one fragile piece. I use Keyboard Maestro not moon anymore. I used to use moon, but I have        |
-| 31:13      | problems with that too. But I use Keyboard Maestro to change the size of Hindenburg to go into the      |
+| 31:08      | It is one fragile piece. I use [[Keyboard Maestro]] not moon anymore. I used to use moon, but I have        |
+| 31:13      | problems with that too. But I use [[Keyboard Maestro]] to change the size of Hindenburg to go into the      |
 | 31:18      | right spot. And just sometimes that step just doesn't run. It puts all the windows where they're        |
 | 31:23      | supposed to be and one or two of them like discord seems to be the one that doesn't go where it's       |
 | 31:28      | supposed to. And I can go back into the macro and push it just that one step and it'll all go where     |
@@ -469,11 +469,11 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 32:02      | successfully automated one or two things with it, but it is quite a tricky thing to just get working.   |
 | 32:08      | But as long as the rest of it works, if I've got something that might be a little bit flaky,            |
 | 32:13      | I always move that step right to the end as far as I can. And then the other option is of course        |
-| 32:20      | with Keyboard Maestro, which I love, is there is the option to in the settings cog on each individual   |
+| 32:20      | with [[Keyboard Maestro]], which I love, is there is the option to in the settings cog on each individual   |
 | 32:27      | action to say, like, if this doesn't work, then keep going, like, do the rest of the macro anyway,      |
 | 32:33      | please. Because that is something where if you've got something that may or may not work,               |
 | 32:37      | especially if you're experimenting like I do, then it's a good way of working around that problem.      |
-| 32:44      | I would like to defend the honour of Keyboard Maestro. I find it more stable than Alison does.           |
+| 32:44      | I would like to defend the honour of [[Keyboard Maestro]]. I find it more stable than Alison does.           |
 | 32:52      | Occasionally, I have things go wrong with it. But it's something like where the graphic changed or      |
 | 32:59      | things like that. The other piece that causes problems for it sometimes for me is just                  |
 | 33:04      | anything that involves the internet, where the connection is slow. And I find that having an            |
@@ -488,7 +488,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 34:00      | row, like across two days. So what I would do with that, what I would do with the way I'd solve         |
 | 34:06      | that problem is I would find the AppleScript dictionary for preview and see if I could just            |
 | 34:10      | script it. Well, I did one better than that. I run image magic from Homebrew and I just did             |
-| 34:19      | a one line script and I shoved that inside Keyboard Maestro so I can hit a button and have it           |
+| 34:19      | a one line script and I shoved that inside [[Keyboard Maestro]] so I can hit a button and have it           |
 | 34:25      | remove the Alpha channel for me. Yeah. I mean, that's way better than UI scripting,                     |
 | 34:29      | like trying to have it find a button and push it is very, it's creaky. Because things can't go wrong.   |
 | 34:36      | Okay. Creaky is a good word. I think it's one of those things, right? Whenever you've got an            |
@@ -655,14 +655,14 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 48:57      | learn little pieces. It's very easy to bring the tool set to a different problem.                       |
 | 49:03      | Yeah. When it fails, that's when you learn a lot. Like the fact that I learned,                         |
 | 49:08      | hey, wait a minute, what if I just went over and ran image magic from Homebrew and I embedded that      |
-| 49:12      | inside of a Keyboard Maestro macro. Now that's in my brain. Oh, that's another way to go. I could       |
-| 49:18      | write a shell script in order to, but still use it in Keyboard Maestro and then maybe attach it to      |
+| 49:12      | inside of a [[Keyboard Maestro]] macro. Now that's in my brain. Oh, that's another way to go. I could       |
+| 49:18      | write a shell script in order to, but still use it in [[Keyboard Maestro]] and then maybe attach it to      |
 | 49:23      | my Stream Deck. Each one of these things you do, every time you do it, you're adding to your knowledge  |
 | 49:28      | base. Just like you said, that's a really good point. And it really is remarkable right now             |
-| 49:33      | on the Mac. I feel like we're entering this golden age where you've got [[Hazel]], Keyboard Maestro,        |
+| 49:33      | on the Mac. I feel like we're entering this golden age where you've got [[Hazel]], [[Keyboard Maestro]],        |
 | 49:40      | shortcuts, scripting, even all these different tools. And in the last year, they've all learned         |
 | 49:45      | to talk to each other. I mean, on this episode alone, we've already talked about running a shortcut     |
-| 49:51      | from Keyboard Maestro, but you can also run a Keyboard Maestro script from a shortcut. And              |
+| 49:51      | from [[Keyboard Maestro]], but you can also run a [[Keyboard Maestro]] script from a shortcut. And              |
 | 49:56      | all this stuff just works. [[Hazel]] now you can have when [[Hazel]] identifies a file,                         |
 | 50:03      | run a shortcut to perform an action that shortcuts is good at on that file.                             |
 | 50:08      | It's really, really fun for automation right now on the Mac.                                            |

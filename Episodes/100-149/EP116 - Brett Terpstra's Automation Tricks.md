@@ -114,16 +114,16 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 04:23      | Yeah. I do feel like that is an angle because when you look at the big automation tools,                  |
 | 04:29      | you know, the consumer level automation tools on the Mac, which I would consider be shortcuts             |
 | 04:33      | at this point, keyboard, maestro, [[Hazel]], you know, and the like, all of them are now                      |
-| 04:40      | building integrations. So like, I just, the other day, I was writing a, a Keyboard Maestro                |
+| 04:40      | building integrations. So like, I just, the other day, I was writing a, a [[Keyboard Maestro]]                |
 | 04:46      | shortcut and I thought, well, I want to start a timer at the end of this. And rather than                 |
 | 04:51      | try and do that with a keyboard, maestro script, which I could do, but it's a little,                     |
 | 04:56      | you know, wobbly. I just, I just pulled the shortcut action to start a timer because,                     |
-| 05:02      | you know, Timery supports that and just drop that into my Keyboard Maestro script. And                    |
-| 05:07      | you can go both directions. Like I always argue that Keyboard Maestro is terrible at                      |
+| 05:02      | you know, Timery supports that and just drop that into my [[Keyboard Maestro]] script. And                    |
+| 05:07      | you can go both directions. Like I always argue that [[Keyboard Maestro]] is terrible at                      |
 | 05:12      | contact management. It's just something that, you know, he's never got around to, you know,               |
 | 05:16      | and I don't think it's that easy with privacy and all that, but like you can drop contact                 |
 | 05:21      | management stuff, or you can run a contact management script in key in shortcuts and                      |
-| 05:25      | then call a Keyboard Maestro script at the end. So yeah, everything, it's like we're                      |
+| 05:25      | then call a [[Keyboard Maestro]] script at the end. So yeah, everything, it's like we're                      |
 | 05:30      | getting a super set of tools now. And I really feel like a bunch should be part of that community         |
 | 05:35      | because we love a bunch.                                                                                  |
 | 05:36      | Well, and so I did, since, since we blast saw, I think it was actually Rosemary's idea,                   |

@@ -97,7 +97,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:50      | But the one that I wanted to talk about real briefly with the audience here is I was struggling          |
 | 01:57      | with the folder creation script.                                                                         |
 | 01:59      | I wanted to have a simple folder creation script, and I know you can buy an app for                      |
-| 02:03      | it, and the Keyboard Maestro kind of does it.                                                            |
+| 02:03      | it, and the [[Keyboard Maestro]] kind of does it.                                                            |
 | 02:06      | There's all these apps that kind of build a set of nested folders for you, but none                      |
 | 02:11      | of them do a very good job of it.                                                                        |
 | 02:13      | So I tried a bunch of tools out.                                                                         |
@@ -997,13 +997,13 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 50:35      | I want them gone about 24 hours after they appear in my mailbox.                                         |
 | 50:41      | So I'm using [[Apple Mail]] for this.                                                                        |
 | 50:45      | And what I'm doing is I've written a series of rules, which you can do in Apple Mail.                    |
-| 50:50      | And then I have Keyboard Maestro activate itself at one o'clock in the morning.                          |
+| 50:50      | And then I have [[Keyboard Maestro]] activate itself at one o'clock in the morning.                          |
 | 50:54      | It opens mail.                                                                                           |
 | 50:55      | Mail is pretty much always in the inbox for me.                                                          |
 | 50:58      | So I will note that this would not work if it was not in the inbox, but I usually tend                   |
 | 51:04      | to close mail afterwards and I'm in the inbox anyway, so that's all good.                                |
 | 51:10      | And so I have it do command A, and then there's a menu command, which is, well, I use command            |
-| 51:17      | alt L, that's what my Keyboard Maestro macro does, and that applies my mail rules.                       |
+| 51:17      | alt L, that's what my [[Keyboard Maestro]] macro does, and that applies my mail rules.                       |
 | 51:22      | So mail rules, you can create them and they will automatically run on incoming email if                  |
 | 51:26      | it meets the criteria.                                                                                   |
 | 51:28      | But if one of my rules requires that the date received is less than, or sorry, is greater                |
@@ -1346,14 +1346,14 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:09:56   | It was not great.                                                                                        |
 | 01:09:57   | Um, another one, another automation I would recommend as you hit the new year is something               |
 | 01:10:03   | I've been prattling on a lot about at Mac power users lately is this idea of contextual computing.       |
-| 01:10:09   | Um, I did a video on it for the Keyboard Maestro field guide and it's just the, the                  |
+| 01:10:09   | Um, I did a video on it for the [[Keyboard Maestro]] field guide and it's just the, the                  |
 | 01:10:16   | idea, and this was something I really adopted wholeheartedly in the past year is this idea               |
 | 01:10:21   | of removing intermediate steps in my computing.                                                          |
 | 01:10:26   | And there's a lot of reasons why this is now possible, uh, one of which is, you know, the                |
 | 01:10:31   | abundance of URL linking and deep linking that involve that that's in all apps anymore,                  |
 | 01:10:36   | um, where you can like jump to a Dev and think document and then over to a draft, a draft                |
 | 01:10:42   | draft, and you can have all that stuff connected and talking to each other with these URL links.         |
-| 01:10:49   | And, uh, so you create shortcuts or Keyboard Maestro scripts or however you want to do,                  |
+| 01:10:49   | And, uh, so you create shortcuts or [[Keyboard Maestro]] scripts or however you want to do,                  |
 | 01:10:54   | I'm using conflict palettes is my main kind of way of doing this.                                        |
 | 01:10:58   | But now when I work on my computer, I can go straight from idea to task.                                 |
 | 01:11:04   | I mean, just as an idea, as an example today, we're prepping for today's show.                           |
@@ -1522,8 +1522,8 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:19:50   | For the, a lot of the automation type work I do, which is largely, I mean, the deepest                   |
 | 01:19:56   | I go down the stack really is AppleScript and some Java scripting.                                      |
 | 01:20:01   | It's fine.                                                                                               |
-| 01:20:02   | I mean, Keyboard Maestro works.                                                                          |
-| 01:20:03   | I have not had any of my Keyboard Maestro scripts that, you know, used to work on Intel                  |
+| 01:20:02   | I mean, [[Keyboard Maestro]] works.                                                                          |
+| 01:20:03   | I have not had any of my [[Keyboard Maestro]] scripts that, you know, used to work on Intel                  |
 | 01:20:07   | Mac, not work on this M1 Mac.                                                                            |
 | 01:20:09   | I haven't tried all of them.                                                                             |
 | 01:20:11   | I've got hundreds of them, but they've all worked fine.                                                  |
@@ -1663,9 +1663,9 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:27:33   | So most of the stuff I just do on the iPad, but it would be nice to see more adoption                    |
 | 01:27:39   | for iPhone and iPad apps over on the M1 Mac, but kind of getting back to the point of this               |
 | 01:27:45   | segment, all of the, the garden variety automation tools, I have had no problems at all.                 |
-| 01:27:52   | And I, I even wrote like the Keyboard Maestro developer to ask if he's seen any issues and               |
+| 01:27:52   | And I, I even wrote like the [[Keyboard Maestro]] developer to ask if he's seen any issues and               |
 | 01:27:57   | he said he hasn't, and he was right on top of it for the Apple Silicon.                                  |
-| 01:28:01   | So you know, Keyboard Maestro is the one that I do the most kind of complex work with and                |
+| 01:28:01   | So you know, [[Keyboard Maestro]] is the one that I do the most kind of complex work with and                |
 | 01:28:06   | that one works.                                                                                          |
 | 01:28:07   | So I think you're probably going to be fine.                                                             |
 | 01:28:09   | Yeah.                                                                                                    |

@@ -20,7 +20,7 @@ title: "27: Shortcuts in iOS 13 - Diving into the Deep End!"
 ![[Logo.jpg|200x200]]
 
 # Synopsis
-In this episode, Rose and David throw caution to the wind and install iOS &amp; iPadOS betas on everything. There are crashes and updates, all in the name of finding out just how impressive the new Shortcuts really is.
+In this episode, Rose and David throw caution to the wind and install iOS & iPadOS betas on everything. There are crashes and updates, all in the name of finding out just how impressive the new Shortcuts really is.
 
 # Hosts
 - [[David Sparks]]

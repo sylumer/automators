@@ -146,12 +146,12 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 03:46      | Something that Rose and I talk about a lot on the show are setups, you know, setting                 |
 | 03:50      | up your computer for a certain context to do certain work.                                           |
 | 03:54      | And historically, I've done that a lot of ways, but the current method that works best               |
-| 04:00      | for me is Keyboard Maestro scripts combined with Moom shortcuts, you know, because window            |
+| 04:00      | for me is [[Keyboard Maestro]] scripts combined with Moom shortcuts, you know, because window            |
 | 04:08      | management is a key part of any setup system and Moom is so much better at it than keyboard          |
 | 04:16      | maestro.                                                                                             |
 | 04:17      | So I just program the shortcuts and then use them.                                                   |
 | 04:21      | And that's fine, but it is also, you know, pretty tedious to set these up and you've                 |
-| 04:26      | got to really understand how to use Keyboard Maestro.                                                |
+| 04:26      | got to really understand how to use [[Keyboard Maestro]].                                                |
 | 04:31      | Brett has done a system where you do it with a text file, where you just issue commands              |
 | 04:36      | to your computer and you just create a text file once you learn the commands, you can                |
 | 04:39      | fire it off and your computer does really cool stuff.                                                |
@@ -211,9 +211,9 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 07:49      | Yeah.                                                                                                |
 | 07:50      | I've merged all windows and then close.                                                              |
 | 07:53      | So I've been, I've been trying to figure out a way to do that with, with Bunch.                      |
-| 07:55      | At the moment, I'm still using a Keyboard Maestro macro for that, but maybe by the end of the        |
+| 07:55      | At the moment, I'm still using a [[Keyboard Maestro]] macro for that, but maybe by the end of the        |
 | 07:59      | show, I will be able to do this with Bunch or maybe not.                                             |
-| 08:03      | Maybe it is right to do that with Keyboard Maestro, but I'm loving everything that I've              |
+| 08:03      | Maybe it is right to do that with [[Keyboard Maestro]], but I'm loving everything that I've              |
 | 08:06      | done so far.                                                                                         |
 | 08:07      | The fact that I can toggle D and D is just, oh my God, that's a lifesaver.                           |
 | 08:12      | So much a lifesaver.                                                                                 |
@@ -271,7 +271,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 11:23      | Yeah.                                                                                                |
 | 11:24      | And in fact, let's just talk about that right now because window management, as I was saying,        |
 | 11:27      | is a difficult part of this, but you're using the same cheat I've been using historically            |
-| 11:30      | with Keyboard Maestro.                                                                                |
+| 11:30      | with [[Keyboard Maestro]].                                                                                |
 | 11:31      | And that's just install Moom because with Moom, you can set a grid on your screen and                |
 | 11:39      | attach, you know, and, and define grids like it could be left half of the screen or bottom           |
 | 11:44      | left half of the screen or middle two thirds of the screen or just almost anything you               |
@@ -365,7 +365,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 17:26      | ScreenFlow.                                                                                         |
 | 17:27      | I've started recording again.                                                                        |
 | 17:29      | It drives me insane.                                                                                 |
-| 17:30      | So I actually have a Keyboard Maestro macro which interferes with this so that screen                |
+| 17:30      | So I actually have a [[Keyboard Maestro]] macro which interferes with this so that screen                |
 | 17:36      | flow never gets that message.                                                                        |
 | 17:37      | All right.                                                                                           |
 | 17:38      | So gang, right now we are standing around a rabbit hole called keyboard shortcut.                    |
@@ -681,7 +681,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 36:43      | and literally make my computer jump into that project with one click and that to me is very          |
 | 36:49      | exciting.                                                                                            |
 | 36:50      | Yeah.                                                                                                |
-| 36:51      | Well, and to your point, like I love [[BetterTouchTool]], I love Keyboard Maestro, I love              |
+| 36:51      | Well, and to your point, like I love [[BetterTouchTool]], I love [[Keyboard Maestro]], I love              |
 | 36:58      | [[Hazel]], like these are, I'm not trying to replace those.                                              |
 | 37:02      | There are some things though that like building a context.                                           |
 | 37:06      | It's just way easier for me to just type it out rather than having to use a UI and add               |
@@ -884,16 +884,16 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 50:10      | my brain immediately went, yes, I like this, I shall use this only to discover that something        |
 | 50:16      | else had already co-opted it.                                                                        |
 | 50:18      | So if you want to take that a step further, then you get into key sequences, and you can             |
-| 50:24      | do this with a Keyboard Maestro, you can do it with [[BetterTouchTool]], and you can do                |
+| 50:24      | do this with a [[Keyboard Maestro]], you can do it with [[BetterTouchTool]], and you can do                |
 | 50:28      | it with, if you want to hack your own key bindings file, basically make it so that like on my        |
-| 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in Keyboard Maestro, and       |
+| 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in [[Keyboard Maestro]], and       |
 | 50:45      | then another letter will launch an app.                                                              |
 | 50:47      | So instead of taking up Hyper KeyS with, say, Skype, I can make it Hyper KeyS, and then I              |
 | 50:53      | have to ask again to launch Skype, but any other letter.                                             |
 | 50:56      | So like your entire keyboard opens up again.                                                         |
 | 51:00      | And so it's like gateways into new groups of hotkeys, a lot to memorise, but a lot,                  |
 | 51:05      | but not that much.                                                                                   |
-| 51:06      | If you use those bunchings, and the way I do that in Keyboard Maestro, I'm curious how               |
+| 51:06      | If you use those bunchings, and the way I do that in [[Keyboard Maestro]], I'm curious how               |
 | 51:10      | you do it, Brett, is I actually just use conflict palettes for it because with the keyboard          |
 | 51:15      | maestro, it auto-generates the secondary key presses.                                                |
 | 51:20      | Like for me, Hyper KeyM is MacSparky, and from that, it's a full list of items.                      |
@@ -905,7 +905,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 51:49      | Or you could use Hyper KeyB to trigger all your bunches.                                              |
 | 51:54      | Yes.                                                                                                 |
 | 51:55      | I actually have quite a few of my bunches on exactly that kind of grouping.                          |
-| 52:01      | There's a bunch folder in Keyboard Maestro, but I actually mostly launch my bunches from             |
+| 52:01      | There's a bunch folder in [[Keyboard Maestro]], but I actually mostly launch my bunches from             |
 | 52:08      | my Stream Deck, which is kind of a whole other keyboard shortcut thing.                              |
 | 52:12      | Yeah.                                                                                                |
 | 52:13      | Yeah, it is.                                                                                         |
@@ -1257,7 +1257,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:12:44   | I did figure out how to get MailMate to connect to their SSO or their OAuth.                         |
 | 01:12:49   | Anyway, I have been having to figure out how to use the tools I love with the tools that             |
 | 01:12:55   | they allow.                                                                                          |
-| 01:12:56   | And I have a work laptop that I'm not supposed to install things like Keyboard Maestro on.           |
+| 01:12:56   | And I have a work laptop that I'm not supposed to install things like [[Keyboard Maestro]] on.           |
 | 01:13:04   | And so, yeah, a lot of it has been compromising to work with the available tools.                    |
 | 01:13:12   | However, my job includes a lot of markdown and they're even going to be building out                 |
 | 01:13:21   | some content in Jekyll.                                                                              |
@@ -1280,7 +1280,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:14:09   | But one of the things that was appealing was, yeah, so we're just going to ship you whatever         |
 | 01:14:13   | you laptop you'd like directly from the manufacturer and it's like, oh, you're not going to lock     |
 | 01:14:18   | it down with a whole bunch of, yeah, okay, we'll get, yeah.                                          |
-| 01:14:21   | I can install, you know, Bunch and Keyboard Maestro and things like that.                            |
+| 01:14:21   | I can install, you know, Bunch and [[Keyboard Maestro]] and things like that.                            |
 | 01:14:25   | Yeah.                                                                                                |
 | 01:14:26   | Mine came locked down.                                                                               |
 | 01:14:28   | It even had requirements, when you change your password, it requires the character,                  |
@@ -1445,7 +1445,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:24:27   | But what I use instead is viewing all of the windows of my current application because               |
 | 01:24:32   | I frequently have a lot of windows open for my current application.                                  |
 | 01:24:35   | So being able to switch there with the app switcher using Command Tab, either with the               |
-| 01:24:39   | default Mac OS one or the Keyboard Maestro one, which I'm playing with, I'm not sure                 |
+| 01:24:39   | default Mac OS one or the [[Keyboard Maestro]] one, which I'm playing with, I'm not sure                 |
 | 01:24:44   | about yet.                                                                                           |
 | 01:24:45   | You know, it's, well, those things where I've been doing something for a very long time              |
 | 01:24:49   | one way.                                                                                             |

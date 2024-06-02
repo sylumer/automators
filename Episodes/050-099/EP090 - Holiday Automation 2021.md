@@ -138,8 +138,8 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 04:09      | for people who are interested, is essentially that every day throughout December, you end            |
 | 04:15      | up with a different wallpaper based on the day of the month.                                         |
 | 04:21      | And so you use shortcuts to do this, but you can also do this on the Mac using something             |
-| 04:26      | like Keyboard Maestro.                                                                               |
-| 04:27      | And the idea is basically you point shortcuts or Keyboard Maestro at a folder, and it contains       |
+| 04:26      | like [[Keyboard Maestro]].                                                                               |
+| 04:27      | And the idea is basically you point shortcuts or [[Keyboard Maestro]] at a folder, and it contains       |
 | 04:34      | a very simple series of numbered files.                                                              |
 | 04:37      | And so you have 31 of them, because of course there's 31 days in December.                           |
 | 04:42      | And then every day in December, it will go in and it will get the one with that day's                |
@@ -184,7 +184,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 06:50      | That would work.                                                                                     |
 | 06:51      | The other thing I think would be fun with that would be to do a random call, like pick               |
 | 06:56      | a random number.                                                                                     |
-| 06:58      | And that's easy enough with shortcuts or Keyboard Maestro.                                           |
+| 06:58      | And that's easy enough with shortcuts or [[Keyboard Maestro]].                                           |
 | 07:01      | And then you select a random file so you don't have the, well, the other thing that you              |
 | 07:06      | can do instead of just doing the number to start with is you can actually filter files               |
 | 07:12      | and this is an action in shortcuts.                                                                  |

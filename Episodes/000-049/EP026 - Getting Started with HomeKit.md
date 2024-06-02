@@ -215,7 +215,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 11:09      | eventually you just sort of get on with it. And you don't even think about the fact that                 |
 | 11:12      | you're doing it because the lights have turned red anymore, you're doing it because you've               |
 | 11:15      | got that cue, which is really nice.                                                                      |
-| 11:17      | Yeah. I talked about recently on how I use Keyboard Maestro to force me to shut down                     |
+| 11:17      | Yeah. I talked about recently on how I use [[Keyboard Maestro]] to force me to shut down                     |
 | 11:23      | at the end of the day and plan my next day because of all the benefits of that. And it's                 |
 | 11:27      | the same thing I do a thing on my Mac, but anytime you can have the exterior environment                 |
 | 11:32      | kind of impose a constraint on you that you need, that's a really powerful thing. And                    |

@@ -567,7 +567,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 34:56      | Yeah.                                                                                                 |
 | 34:57      | Do you use any of the modern window management tools?                                                 |
 | 35:00      | So I know that like you could just put together an [[AppleScript]] that you mentioned, Moom,             |
-| 35:06      | a Keyboard Maestro does window management.                                                            |
+| 35:06      | a [[Keyboard Maestro]] does window management.                                                            |
 | 35:08      | Do you use any of those tools for it or do you just write a script?                                   |
 | 35:11      | Pretty much the latest thing I'm doing is web apps.                                                   |
 | 35:16      | You know, since I'm using the beta here too, like you guys are using the beta, one of the             |

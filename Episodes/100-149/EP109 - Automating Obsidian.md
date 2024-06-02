@@ -333,7 +333,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 12:07      | regardless of what you're doing,                                                                   |
 | 12:09      | even if it doesn't necessarily directly apply.                                                     |
 | 12:11      | I'm sure, you know, bearing it in mind, you know,                                                  |
-| 12:15      | if you're on a Mac, Keyboard Maestro has click-it image.                                             |
+| 12:15      | if you're on a Mac, [[Keyboard Maestro]] has click-it image.                                             |
 | 12:17      | That'll get you a long way in a lot of places                                                      |
 | 12:19      | if you can't quite get there entirely with the automation tools                                    |
 | 12:24      | that you would prefer.                                                                             |
@@ -622,7 +622,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 26:54      | not that I'm no longer a lawyer.                                                                   |
 | 26:56      | But still, I don't mind having things end-to-end encrypted.                                        |
 | 26:59      | And then the second piece of that Sync for me                                                      |
-| 27:02      | is that now I can point Keyboard Maestro or shortcuts                                              |
+| 27:02      | is that now I can point [[Keyboard Maestro]] or shortcuts                                              |
 | 27:05      | at the local folder of files.                                                                      |
 | 27:09      | And I know you can do it on Dropbox too,                                                           |
 | 27:10      | but just feel safer pointing it at something                                                       |
@@ -663,13 +663,13 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 28:39      | that everybody needs.                                                                              |
 | 28:41      | Or even if you don't have it always on Mac,                                                        |
 | 28:43      | then you can have, you know,                                                                       |
-| 28:44      | Keyboard Maestro picking up things from Dropbox                                                    |
+| 28:44      | [[Keyboard Maestro]] picking up things from Dropbox                                                    |
 | 28:47      | and then doing stuff with them.                                                                    |
 | 28:49      | I've actually done that with a variety of automations                                              |
 | 28:52      | for quite a while.                                                                                 |
 | 28:53      | I was having a file put into Dropbox                                                               |
 | 28:56      | with data in it, JSON format,                                                                      |
-| 28:59      | and Keyboard Maestro picked that up                                                                |
+| 28:59      | and [[Keyboard Maestro]] picked that up                                                                |
 | 29:02      | when my machine was on and running,                                                                |
 | 29:04      | and then just go,                                                                                  |
 | 29:05      | hey, I'm just going to go off and create a folder                                                  |
@@ -1943,7 +1943,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:13:23   | it wouldn't have been a problem                                                                    |
 | 01:13:25   | I default to archiving instead                                                                     |
 | 01:13:27   | of deleting for things like that                                                                   |
-| 01:13:29   | I want to switch over to Keyboard Maestro and Shortcuts                                            |
+| 01:13:29   | I want to switch over to [[Keyboard Maestro]] and Shortcuts                                            |
 | 01:13:31   | for a minute because                                                                               |
 | 01:13:33   | by nature you would think these are not great                                                      |
 | 01:13:35   | companion apps for Obsidian                                                                        |
@@ -1957,7 +1957,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:13:51   | Shortcuts actions at least to my knowledge                                                         |
 | 01:13:53   | but I find                                                                                         |
 | 01:13:55   | Shortcuts and                                                                                      |
-| 01:13:57   | Keyboard Maestro useful                                                                            |
+| 01:13:57   | [[Keyboard Maestro]] useful                                                                            |
 | 01:13:59   | going with Shortcuts first                                                                         |
 | 01:14:01   | Shortcuts is a great way to add files                                                              |
 | 01:14:03   | to your Obsidian database                                                                          |
@@ -1977,7 +1977,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:14:31   | and I love it and you can do that                                                                  |
 | 01:14:33   | with a Shortcut                                                                                    |
 | 01:14:35   | and you can also                                                                                   |
-| 01:14:37   | do that with Keyboard Maestro                                                                      |
+| 01:14:37   | do that with [[Keyboard Maestro]]                                                                      |
 | 01:14:39   | I have a similar script I've written on the Mac                                                    |
 | 01:14:41   | that just takes a text file, saves it                                                              |
 | 01:14:43   | the trick with that if you're going to do                                                          |
@@ -1993,7 +1993,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:15:03   | if you start creating these things                                                                 |
 | 01:15:05   | but you can get pretty sophisticated                                                               |
 | 01:15:07   | with the generation of that text file                                                              |
-| 01:15:09   | either in Keyboard Maestro or Shortcuts                                                            |
+| 01:15:09   | either in [[Keyboard Maestro]] or Shortcuts                                                            |
 | 01:15:11   | you can ask some questions                                                                         |
 | 01:15:13   | is this an active or a planning project                                                            |
 | 01:15:15   | and then you can have it                                                                           |
@@ -2007,14 +2007,14 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:15:31   | a little                                                                                           |
 | 01:15:33   | [[Hazel]] will see it and then put it where it belongs                                                 |
 | 01:15:35   | because of the tag that you added                                                                  |
-| 01:15:37   | being Keyboard Maestro or                                                                          |
+| 01:15:37   | being [[Keyboard Maestro]] or                                                                          |
 | 01:15:39   | Shortcuts so it really is kind                                                                     |
 | 01:15:41   | of delightful Automation                                                                           |
 | 01:15:43   | even though it isn't kind of what you would                                                        |
 | 01:15:45   | historically think of                                                                              |
 | 01:15:47   | but you can create new files very easily                                                           |
 | 01:15:49   | using [[Hazel]]                                                                                        |
-| 01:15:51   | and Keyboard Maestro                                                                               |
+| 01:15:51   | and [[Keyboard Maestro]]                                                                               |
 | 01:15:53   | yes and you know that's one of the things                                                          |
 | 01:15:55   | where I've kind of gone back and forth                                                             |
 | 01:15:57   | with do I do it through [[Drafts]]                                                                    |
@@ -2022,12 +2022,12 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:01   | there are some occasions                                                                           |
 | 01:16:03   | where [[Hazel]] is the right solution for that                                                         |
 | 01:16:05   | trust me folks                                                                                     |
-| 01:16:07   | Drafts, Shortcuts and Keyboard Maestro                                                             |
+| 01:16:07   | Drafts, Shortcuts and [[Keyboard Maestro]]                                                             |
 | 01:16:09   | are tending to be the main ones                                                                    |
 | 01:16:11   | and what I've found                                                                                |
 | 01:16:13   | is really useful is actually using [[Drafts]]                                                         |
 | 01:16:15   | as the back end whether I'm using it                                                               |
-| 01:16:17   | through Keyboard Maestro or Shortcuts                                                              |
+| 01:16:17   | through [[Keyboard Maestro]] or Shortcuts                                                              |
 | 01:16:19   | because this way I've got a really easy                                                            |
 | 01:16:21   | big button with Shortcuts                                                                          |
 | 01:16:23   | widgets especially on IOS                                                                          |
@@ -2066,7 +2066,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:17:29   | that you know [[Drafts]] can do                                                                        |
 | 01:17:31   | but it's not quite so easy to do                                                                   |
 | 01:17:33   | in and                                                                                             |
-| 01:17:35   | Keyboard Maestro of course is great for going okay right                                           |
+| 01:17:35   | [[Keyboard Maestro]] of course is great for going okay right                                           |
 | 01:17:37   | well you're creating a whole bunch of                                                              |
 | 01:17:39   | like you're doing a whole project setup here                                                       |
 | 01:17:41   | I'm creating folders and files and things like that                                                |
@@ -2094,7 +2094,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:25   | automatically open a whole bunch of things opens                                                   |
 | 01:18:27   | Chrome for the show notes because Google Docs                                                      |
 | 01:18:29   | does tend to work best in Chrome and also                                                          |
-| 01:18:31   | Keyboard Maestro can really easily find                                                            |
+| 01:18:31   | [[Keyboard Maestro]] can really easily find                                                            |
 | 01:18:33   | the only Chrome window that exists whereas                                                         |
 | 01:18:35   | I have like 304 Safari windows and if                                                              |
 | 01:18:37   | I've moved away from the show notes for                                                            |
@@ -2134,16 +2134,16 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:19:45   | everything in Obsidian is addressable                                                              |
 | 01:19:47   | and that's one of the reasons why all those nerds                                                  |
 | 01:19:49   | love it so much.                                                                                   |
-| 01:19:51   | One thing I was looking at so Keyboard Maestro                                                     |
+| 01:19:51   | One thing I was looking at so [[Keyboard Maestro]]                                                     |
 | 01:19:53   | can go beyond just generating files                                                                |
-| 01:19:55   | Keyboard Maestro you can use to control the app                                                    |
-| 01:19:57   | you referenced earlier Keyboard Maestro has                                                        |
+| 01:19:55   | [[Keyboard Maestro]] you can use to control the app                                                    |
+| 01:19:57   | you referenced earlier [[Keyboard Maestro]] has                                                        |
 | 01:19:59   | the ability to find a button on the screen                                                         |
 | 01:20:01   | and push it but it's much easier than that                                                         |
 | 01:20:03   | because you can script                                                                             |
 | 01:20:05   | any keyboard shortcut for Obsidian                                                                 |
-| 01:20:07   | and suddenly open up Keyboard Maestro                                                              |
-| 01:20:09   | and I was just looking at my Keyboard Maestro Obsidian                                             |
+| 01:20:07   | and suddenly open up [[Keyboard Maestro]]                                                              |
+| 01:20:09   | and I was just looking at my [[Keyboard Maestro]] Obsidian                                             |
 | 01:20:11   | folder because I keep folders for individual apps                                                  |
 | 01:20:13   | and it's like a                                                                                    |
 | 01:20:15   | graveyard of                                                                                       |
@@ -2151,7 +2151,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:20:19   | then got Sherlocked by a plugin                                                                    |
 | 01:20:21   | like                                                                                               |
 | 01:20:23   | in fact if you look at the Obsidian forums                                                         |
-| 01:20:25   | I wrote a Keyboard Maestro script to create                                                        |
+| 01:20:25   | I wrote a [[Keyboard Maestro]] script to create                                                        |
 | 01:20:27   | an Obsidian URL well now                                                                           |
 | 01:20:29   | they've added it to the app I think                                                                |
 | 01:20:31   | I mapped that to control L                                                                         |
@@ -2160,7 +2160,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:20:37   | I've done that I don't use anymore                                                                 |
 | 01:20:39   | but I have a couple that are still relevant                                                        |
 | 01:20:41   | one of them is an export                                                                           |
-| 01:20:43   | script because Keyboard Maestro                                                                    |
+| 01:20:43   | script because [[Keyboard Maestro]]                                                                    |
 | 01:20:45   | gives you the ability to perform                                                                   |
 | 01:20:47   | actions on text in the clipboard                                                                   |
 | 01:20:49   | and you know we haven't talked about                                                               |
@@ -2185,10 +2185,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:21:27   | but I haven't done that but so I've got                                                            |
 | 01:21:29   | some export related shortcuts                                                                      |
 | 01:21:31   | that I'm sorry                                                                                     |
-| 01:21:33   | Keyboard Maestro scripts that I've written                                                         |
+| 01:21:33   | [[Keyboard Maestro]] scripts that I've written                                                         |
 | 01:21:35   | that kind of handle those kinds of problems                                                        |
 | 01:21:37   | for me and I keep finding myself                                                                   |
-| 01:21:39   | going back to Keyboard Maestro whenever there's                                                    |
+| 01:21:39   | going back to [[Keyboard Maestro]] whenever there's                                                    |
 | 01:21:41   | a feature that's not quite there and the plugin                                                    |
 | 01:21:43   | isn't quite there and because                                                                      |
 | 01:21:45   | everything is a folder full of mark down files                                                     |
@@ -2511,7 +2511,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:32:21   | the way I could do something like that is I could                                                  |
 | 01:32:23   | do a                                                                                               |
 | 01:32:25   | you know a magic URL                                                                               |
-| 01:32:27   | that the Keyboard Maestro would see                                                                |
+| 01:32:27   | that the [[Keyboard Maestro]] would see                                                                |
 | 01:32:29   | and then that would do the same thing                                                              |
 | 01:32:31   | and I could do it locally and keep it there but                                                    |
 | 01:32:33   | I just don't feel like I have much need for it right now                                           |

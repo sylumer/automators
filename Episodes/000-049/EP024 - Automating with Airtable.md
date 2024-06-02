@@ -74,7 +74,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 00:57      | We've been teasing it for quite a long time.                                                         |
 | 00:59      | Yeah, I feel like I've been talking about it too long, but it's a challenging app to                 |
 | 01:05      | cover in a field guide, but I'm really happy with the way it came out.                               |
-| 01:09      | The analogy I use in one of the videos is, Keyboard Maestro is like a massive box of                 |
+| 01:09      | The analogy I use in one of the videos is, [[Keyboard Maestro]] is like a massive box of                 |
 | 01:16      | Lego that's been dumped on your desk with no instructions.                                           |
 | 01:20      | There's just so much you can do with that application to automate your Mac.                          |
 | 01:24      | I spent a lot of time going through it and finding a way to explain it, and I think it               |
@@ -82,7 +82,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 01:31      | Yes, and you've got over 76 videos, so I've been going through and pecking through it                |
 | 01:36      | and just grabbing videos here and there as they catch my eye, and I'm really enjoying                |
 | 01:40      | it.                                                                                                  |
-| 01:41      | I'm learning a lot, even though I use Keyboard Maestro myself all the time.                          |
+| 01:41      | I'm learning a lot, even though I use [[Keyboard Maestro]] myself all the time.                          |
 | 01:45      | In my head, that was the ultimate test.                                                              |
 | 01:46      | Can I do anything in here that would teach Rosemary Orchard something if I did that?                 |
 | 01:51      | Yes.                                                                                                 |
@@ -91,7 +91,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 01:55      | You have to guess which parts of it I didn't know.                                                   |
 | 01:59      | The structure of it is there is the basics and then also explains all the triggers and               |
 | 02:04      | all the actions you can do, but then there's also a section there where I just give you              |
-| 02:07      | all of the cool Keyboard Maestro scripts I use, and then you can download them, install              |
+| 02:07      | all of the cool [[Keyboard Maestro]] scripts I use, and then you can download them, install              |
 | 02:13      | them, and automate them or adjust them.                                                              |
 | 02:16      | Like I said, the feedback's been good, and I'm really happy with the way it came out.                |
 | 02:21      | Thank you, everyone.                                                                                 |

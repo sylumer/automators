@@ -182,7 +182,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 11:13      | But you had said earlier, I'm not going to let you get away with this. You said that you had            |
 | 11:17      | grown as an automator. Tell us a little bit about that. What are the automations and platforms that     |
 | 11:24      | you have found yourself gravitating to in the last two years? I have finally been using a               |
-| 11:31      | Keyboard Maestro to do what I want it to do and actually put my windows where I want them to go         |
+| 11:31      | [[Keyboard Maestro]] to do what I want it to do and actually put my windows where I want them to go         |
 | 11:42      | and for things like podcast editing or podcast recording, just setting that up was really               |
 | 11:53      | intimidating. But between the two of you and [[Jason Snell]], I think I've finally gotten it to work.       |
 | 12:04      | And that has been phenomenal because I absolutely adore iOS. It is my main and I talked about this      |
@@ -205,7 +205,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 14:40      | sort of threshold. I know that this is nonsense to some people, I apologise.                            |
 | 14:46      | No, it makes sense. You're trying to run a command and it doesn't have automation for that.             |
 | 14:51      | And I just needed to click a bunch of little buttons and I couldn't do that until I set up              |
-| 15:00      | Keyboard Maestro with my Stream Deck and now it works. And I should have done it a long time ago,       |
+| 15:00      | [[Keyboard Maestro]] with my Stream Deck and now it works. And I should have done it a long time ago,       |
 | 15:08      | but it's there now and I'm grateful for it. So you're telling me that Alex is using keyboard            |
 | 15:15      | maestro doing setups and contextual computing with automation? Are you gaslighting me? Are you          |
 | 15:22      | just trying to get me all excited? I mean, what's going on here? I mean, I heard the magic focus        |
@@ -258,11 +258,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 21:22      | basically the collection is greater than the parts. And I've decided that's my life's dream,            |
 | 21:27      | that when they put me in the ground, they'll say, well, he wasn't really that smart,                    |
 | 21:31      | but he did some pretty good stuff with what he had, you know. And I think automation plays a role       |
-| 21:37      | there. And, you know, so you mentioned Keyboard Maestro and screen setups and I will not ever           |
+| 21:37      | there. And, you know, so you mentioned [[Keyboard Maestro]] and screen setups and I will not ever           |
 | 21:45      | pass up an excuse to talk about that because I think anybody listening to this should consider          |
 | 21:50      | this. And the idea is using some automation tool to set your computer up to do the kinds of work        |
 | 21:56      | you need to do in the best circumstances. So it sounds like you've been playing with that.              |
-| 22:01      | What are you doing and how's it working? Well, I had tried to use Keyboard Maestro a little bit         |
+| 22:01      | What are you doing and how's it working? Well, I had tried to use [[Keyboard Maestro]] a little bit         |
 | 22:11      | before and used your wonderful MacSparky Fields Guide, I believe, was how I wasn't introduced          |
 | 22:20      | to it. But when I was like, all right, I should, I should like actually sort of like get down to        |
 | 22:28      | the bones with this. That actually still hasn't happened very, very much. Mostly I kind of am           |
@@ -272,7 +272,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 23:06      | that we both do. It's called CoxOS. And it's just kind of all of my, yeah, it's like all of my,         |
 | 23:14      | it's all my like medication stuff, all of like the apart, there's also a section for like everything    |
 | 23:21      | that runs in my apartment for if a guest needs to come over. But and I probably should have that        |
-| 23:28      | with Keyboard Maestro too is like my own little read me to re set stuff up when it breaks. Because      |
+| 23:28      | with [[Keyboard Maestro]] too is like my own little read me to re set stuff up when it breaks. Because      |
 | 23:37      | I mentioned before the show how I basically quit another job because in 2020, when last we talked,      |
 | 23:47      | I was working at a company at Cards Against Humanity here in Chicago as the studio and events           |
 | 23:54      | manager. But then in 2020, this thing happened where people really didn't want to be confined           |
@@ -293,16 +293,16 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 26:00      | click certain buttons in logic for me. And the reason I'm able to finally do that is                    |
 | 26:06      | I can just run my MacBook Air in clamshell mode. And I don't need to worry about things being           |
 | 26:16      | pixel perfect anymore, because it's automatically set up that way. But before I would accidentally      |
-| 26:23      | delete a complete track or something with Keyboard Maestro, I'm also Oh, sorry, I'm                     |
+| 26:23      | delete a complete track or something with [[Keyboard Maestro]], I'm also Oh, sorry, I'm                     |
 | 26:32      | also using a Stream Deck to run the keyboard, a lot of that stuff in yeah, to run those scripts.        |
-| 26:42      | Although I have to say, as I learn more about Keyboard Maestro, I'm realising more and more             |
+| 26:42      | Although I have to say, as I learn more about [[Keyboard Maestro]], I'm realising more and more             |
 | 26:51      | each year, along with certain, certain [[AppleScript\|AppleScripts]], shortcuts can do just like more and               |
 | 26:58      | more of it. And whenever I go to like Google something, I don't understand it turns out                 |
 | 27:06      | someone's like, Well, actually, you can do this just with shortcuts natively. And so that is very       |
-| 27:13      | exciting. But for the tiny little pixel perfect things, a Keyboard Maestro is absolutely magic.         |
+| 27:13      | exciting. But for the tiny little pixel perfect things, a [[Keyboard Maestro]] is absolutely magic.         |
 | 27:21      | I think their icon Yeah, oh, yep, there's their icon has a little, a little magic wand.                 |
-| 27:28      | Do you have a favourite thing, David for Keyboard Maestro? Like, is there what do you think I            |
-| 27:33      | should be doing with Keyboard Maestro to even expand my musical automation palette with that            |
+| 27:28      | Do you have a favourite thing, David for [[Keyboard Maestro]]? Like, is there what do you think I            |
+| 27:33      | should be doing with [[Keyboard Maestro]] to even expand my musical automation palette with that            |
 | 27:40      | specifically? All right. So setups, you know, the idea of setting your screen up to do your edits       |
 | 27:45      | or whatever it is work project you want to do. You have done the first building block and that's        |
 | 27:51      | setting windows because I feel like for most people, that's the biggest part, like you sit down         |
@@ -315,11 +315,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 28:28      | while you go and you change the name of the apps, it doesn't open logic, it opens your mail app and     |
 | 28:32      | it maybe sets it a little differently. But once you start building these, they become super easy        |
 | 28:39      | to make additional ones, you know, and then it's just a question of deciding, well, how much do         |
-| 28:43      | you want it to do? Now, historically, I always did them in Keyboard Maestro, but somebody in the        |
+| 28:43      | you want it to do? Now, historically, I always did them in [[Keyboard Maestro]], but somebody in the        |
 | 28:49      | MacSparky Labs challenged me to do them in shortcuts. And honestly, I can do it in shortcuts           |
 | 28:54      | just as easily because shortcuts has got powerful enough. And the window management piece of it         |
 | 29:00      | was always the tricky part. The shortcuts window management can't hold a candle to                      |
-| 29:04      | to Keyboard Maestro. But what shortcuts can do is run an AppleScript. And there's an app called        |
+| 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an AppleScript. And there's an app called        |
 | 29:09      | Moom, M-O-O-M. I'm going to give you a labs video where I explain it. Moom has AppleScript support.    |
 | 29:16      | So you can set up the windows exactly as you want with Moom. And then you can run a one step            |
 | 29:21      | shortcut that says, run my Moom view for editing podcasts. And they'll say, Oh, great, Alex, no         |
@@ -328,28 +328,28 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 29:41      | gives you is the ability to do things like, Oh, you want me to set your focus mode to editing?          |
 | 29:46      | Sure, I'll do that too. Do you want me to run a timer in the timing app? Yeah, I got you covered.       |
 | 29:52      | You know, do you want me to play the white noise app in the background? So, so shortcuts does some      |
-| 29:57      | things that Keyboard Maestro doesn't. And so then people are saying, well, should I switch them all     |
-| 30:02      | to shortcuts? I'm like, no, not necessarily. If you like it and Keyboard Maestro, just keep doing it.   |
-| 30:06      | Because now Keyboard Maestro can run shortcuts actions. So if you want to stick with keyboard           |
-| 30:12      | maestro, then just run the Keyboard Maestro action to run the shortcut to set the focus mode. So        |
+| 29:57      | things that [[Keyboard Maestro]] doesn't. And so then people are saying, well, should I switch them all     |
+| 30:02      | to shortcuts? I'm like, no, not necessarily. If you like it and [[Keyboard Maestro]], just keep doing it.   |
+| 30:06      | Because now [[Keyboard Maestro]] can run shortcuts actions. So if you want to stick with keyboard           |
+| 30:12      | maestro, then just run the [[Keyboard Maestro]] action to run the shortcut to set the focus mode. So        |
 | 30:18      | we live in this, I keep calling it this golden age of Mac automation, because suddenly we've got        |
-| 30:23      | these rich tools like shortcuts and Keyboard Maestro and [[Hazel]] and all these things are like            |
+| 30:23      | these rich tools like shortcuts and [[Keyboard Maestro]] and [[Hazel]] and all these things are like            |
 | 30:28      | at their peak. And they all talk to each other. So whichever one you want to fight you on that,         |
 | 30:35      | David, I don't think we are living in a golden age of Mac automation. That was in, you know, the sort   |
 | 30:42      | of, uh, well, I was going to say that was the cells to go in days, but he's still just killing it       |
 | 30:49      | with especially what he's doing with voiceover. But we are in a golden age of Apple automation,         |
 | 30:57      | because so much can finally talk to each other in a way that adds to that contextual computing.         |
 | 31:08      | So for the weirdos like me who want to run everything on iOS, it works now. Like I can                  |
-| 31:15      | trigger keyboard, I guess I can trigger Keyboard Maestro things from my phone. If I were to a           |
+| 31:15      | trigger keyboard, I guess I can trigger [[Keyboard Maestro]] things from my phone. If I were to a           |
 | 31:24      | remote, uh, like let's say I mentioned before the show, I have a separate Mac. If I want,               |
 | 31:30      | if that's on, I guess I could probably maybe run it with shorter push, Pushcut that's in              |
 | 31:38      | the care of Rosemary or George or so. We're gonna unleash Rose on push cut for you in just a minute     |
-| 31:43      | here. But one way you could do it is you can have Keyboard Maestro, you can have basically a secret     |
+| 31:43      | here. But one way you could do it is you can have [[Keyboard Maestro]], you can have basically a secret     |
 | 31:48      | URL. So you could call that URL from your phone and then it would trigger [[Keyboard Maestro]] on your      |
 | 31:54      | second computer and do all that stuff for you. Yeah, that's that's what I was thinking, because I       |
 | 32:00      | also use, well for launching the apps, I for a while had a mix of a bunch actions too with a            |
 | 32:13      | [[Brett Terpstra]], which is what I would use on my laptop when I couldn't be, when I can't be in          |
-| 32:21      | clamshell mode. Mostly, I know that you can do it with Keyboard Maestro, but it was one of the          |
+| 32:21      | clamshell mode. Mostly, I know that you can do it with [[Keyboard Maestro]], but it was one of the          |
 | 32:27      | things where it worked. And if it didn't, I could text Brett and say, what am I doing wrong?            |
 | 32:33      | And you'd be like, here, here's the right script that you need to run it.                               |
 | 32:38      | And in fairness, that thing I just described, you could do the entire thing in bunch,                   |
@@ -410,11 +410,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 37:53      | the combination, it has so many window management features built in. And then                           |
 | 37:57      | the ease of you saving a set up windows like Rose was talking about, and then the ease of               |
 | 38:02      | triggering it via AppleScript. It's just such a killer combination. I just don't know how you          |
-| 38:07      | not use that. And it, Rose is right. Like setting it up in Keyboard Maestro, as much as I'm a           |
-| 38:13      | fan of Keyboard Maestro, it is a thing where you have to set a percentage or you have to set a pixel    |
+| 38:07      | not use that. And it, Rose is right. Like setting it up in [[Keyboard Maestro]], as much as I'm a           |
+| 38:13      | fan of [[Keyboard Maestro]], it is a thing where you have to set a percentage or you have to set a pixel    |
 | 38:18      | location. But what if you change your screen display or whatever? And Moom just kind of solves          |
 | 38:25      | that for you. And then you can drop it into any automation platform. You can put it in,                 |
-| 38:30      | you know, you put it in bunch, you can put it in shortcuts, you can use in Keyboard Maestro.            |
+| 38:30      | you know, you put it in bunch, you can put it in shortcuts, you can use in [[Keyboard Maestro]].            |
 | 38:33      | It doesn't matter. And then it just gives you, but, but, and then the big point I want to make          |
 | 38:38      | before we move on is you've started it. You've got, even if you just have one, you've, you're           |
 | 38:44      | like 75% of the journey just by getting one, because now it gets super easy. And then you're            |
@@ -425,9 +425,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 39:11      | whatever it is that you want to do next, once you've built the structure, you duplicate it,             |
 | 39:16      | you change a few things, and then you've got it, you know, and then the last piece of these             |
 | 39:21      | setups is having an easy way to trigger them. And you had said that you were doing it with a            |
-| 39:26      | Stream Deck, which is great. Like Keyboard Maestro, you know, you set up a button, run a keyboard       |
+| 39:26      | Stream Deck, which is great. Like [[Keyboard Maestro]], you know, you set up a button, run a keyboard       |
 | 39:32      | maestro script, you can do the same thing with shortcuts or a bunch. But, you know,                     |
-| 39:36      | making triggers on a Stream Deck is great. If you're using Keyboard Maestro, a conflict                 |
+| 39:36      | making triggers on a Stream Deck is great. If you're using [[Keyboard Maestro]], a conflict                 |
 | 39:40      | palette can work. There's, there's a lot of different ways. But as you start getting into               |
 | 39:43      | this, you should think about, well, how do I want to trigger these? And what's the easiest way          |
 | 39:47      | for me to jump between them? Yeah, I didn't even mention [[Alfred]] and [[Raycast]], which                      |
@@ -548,10 +548,10 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 53:36      | if you did something like that, you could use Data Jar, you could use global variables into             |
 | 53:40      | books pro, you know, there's a number of different options for that. But, you know,                     |
 | 53:44      | you could definitely do that. And to go back to your question about triggering stuff on the Mac,        |
-| 53:49      | Keyboard Maestro has like URLs that you can use to trigger stuff. So you can just use a get             |
-| 53:54      | contents of URL with the Keyboard Maestro macro URL. Oh, yeah. The only thing I'll say about that       |
+| 53:49      | [[Keyboard Maestro]] has like URLs that you can use to trigger stuff. So you can just use a get             |
+| 53:54      | contents of URL with the [[Keyboard Maestro]] macro URL. Oh, yeah. The only thing I'll say about that       |
 | 54:00      | is I have used this before, and I stopped using it not because it didn't work. It works. If your Mac    |
-| 54:06      | is on, if your Mac however, is asleep, and password protected, guess what? Yeah, Keyboard Maestro       |
+| 54:06      | is on, if your Mac however, is asleep, and password protected, guess what? Yeah, [[Keyboard Maestro]]       |
 | 54:13      | macro URL can't do a lot because your Mac is asleep. So you're there going computer, do the             |
 | 54:18      | magic thing. You just like, yeah, that's snoring sounds. But if you've got an extra Mac around,         |
 | 54:25      | like you do Alex, that might be a great use for you, you know, to keep it running. It's kind of a       |
@@ -638,7 +638,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:02:59   | And so I can then look back on my week. Even if I've forgotten to do manual time tracking,              |
 | 01:03:04   | which, you know, I'm working on doing some stuff with the Stream Deck and so on, with Keyboard          |
 | 01:03:09   | Maestro, I'm stealing from TJ Luoma as Fantastic L, Fantastic Pal, as script as an idea of like,         |
-| 01:03:16   | you know, I'll just have different colours on a Stream Deck button and have Keyboard Maestro             |
+| 01:03:16   | you know, I'll just have different colours on a Stream Deck button and have [[Keyboard Maestro]]             |
 | 01:03:20   | change it based on, you know, stuff that you can check or stuff that gets triggered, which happens      |
 | 01:03:26   | to be done thanks to, you know, timer and shortcuts. Then yeah, like, you know, I even if I forget to   |
 | 01:03:33   | do the manual stuff, it's amazing how much stuff does get logged. And things like turning down          |

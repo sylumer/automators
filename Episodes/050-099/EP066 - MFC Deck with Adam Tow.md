@@ -306,8 +306,8 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 09:59      | interactive deck where I can have a display information                            |
 | 10:02      | and pull things out of stuff without having to figure out                          |
 | 10:06      | a bunch of different APIs and things like that.                                    |
-| 10:08      | And how do I connect to them with Keyboard Maestro                                 |
-| 10:11      | and is Keyboard Maestro the best tool for this?                                    |
+| 10:08      | And how do I connect to them with [[Keyboard Maestro]]                                 |
+| 10:11      | and is [[Keyboard Maestro]] the best tool for this?                                    |
 | 10:12      | Maybe I should do it in [[AppleScript]] and all this stuff.                           |
 | 10:14      | When I've already programmed pretty much everything                                |
 | 10:16      | I need in shortcuts, or there's apps out there                                     |
@@ -329,7 +329,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 10:56      | that I need as I need it.                                                          |
 | 10:57      | And that's where it really clicked for me.                                         |
 | 11:00      | Yeah, like I use these app palettes                                                |
-| 11:03      | with Keyboard Maestro on the Mac                                                   |
+| 11:03      | with [[Keyboard Maestro]] on the Mac                                                   |
 | 11:05      | where I can pull up a list of commands                                             |
 | 11:07      | related to a specific app.                                                         |
 | 11:10      | This is what it felt like to me                                                    |
@@ -710,10 +710,10 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 28:03      | sends an [[AppleScript]] to your Mac,                                                 |
 | 28:05      | which then tells zoom to mute or unmute.                                           |
 | 28:09      | So it sends a key command.                                                         |
-| 28:11      | The other method is to use something like Keyboard Maestro and                     |
+| 28:11      | The other method is to use something like [[Keyboard Maestro]] and                     |
 | 28:15      | to use their kind of remote web trigger,                                           |
 | 28:17      | which then basically sends a URL to Keyboard Maestro's kind of                     |
-| 28:21      | server, which then talks to Keyboard Maestro on your Mac to                        |
+| 28:21      | server, which then talks to [[Keyboard Maestro]] on your Mac to                        |
 | 28:25      | mute and unmute.                                                                   |
 | 28:26      | And that that method is much faster.                                               |
 | 28:28      | It's pretty much instantaneous versus the SSH method takes maybe                   |

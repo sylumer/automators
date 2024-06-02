@@ -656,7 +656,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 31:29      | can talk to applications.                                                                                          |
 | 31:32      | Automator is like a level below [[AppleScript]] where it kind of does everything for you.                             |
 | 31:36      | That was the original idea of kind of build your own automation without coding.                                    |
-| 31:42      | And then Keyboard Maestro, to me, is probably the starting point for most people that want                         |
+| 31:42      | And then [[Keyboard Maestro]], to me, is probably the starting point for most people that want                         |
 | 31:48      | to seriously take this stuff on because it does so many things.                                                    |
 | 31:53      | Yeah.                                                                                                              |
 | 31:54      | I mean, personally, I would say if it's a difficult automation, then use whatever you're                           |
@@ -693,28 +693,28 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 33:50      | things into the future and then in that case, you do need to create those folders.                                 |
 | 33:54      | Yes.                                                                                                               |
 | 33:55      | I was going to give someone general advice about on their Mac getting automation going.                            |
-| 34:01      | I think I would say [[Hazel]] and Keyboard Maestro are probably the two best apps that anybody                         |
+| 34:01      | I think I would say [[Hazel]] and [[Keyboard Maestro]] are probably the two best apps that anybody                         |
 | 34:08      | can use so long as they're willing to spend a little bit of time kind of figuring out                              |
 | 34:11      | how they work.                                                                                                     |
 | 34:12      | I would agree with that 100%.                                                                                      |
 | 34:14      | I mean, Automator, if you're short on cash and you just want to get started, Automator                             |
 | 34:19      | is free and it's good, but once you've got the ability to spend money or you realise                               |
 | 34:27      | that there's something that you need to do that Automator can't do because Automator                               |
-| 34:31      | is limited, Keyboard Maestro is definitely the next step up.                                                       |
+| 34:31      | is limited, [[Keyboard Maestro]] is definitely the next step up.                                                       |
 | 34:34      | You don't need to know how to program to do any of this.                                                           |
 | 34:37      | It is the magic blocks just like shortcuts.                                                                        |
-| 34:41      | The Keyboard Maestro does, of course, predate shortcuts or workflow and yeah, it's excellent                       |
+| 34:41      | The [[Keyboard Maestro]] does, of course, predate shortcuts or workflow and yeah, it's excellent                       |
 | 34:47      | and the developer Peter Lewis has really invested in the application and he's got his own user                     |
 | 34:53      | forum as well, which I will link to in the show notes.                                                             |
-| 34:55      | Of course, you're very welcome to discuss Keyboard Maestro items in our forums as well,                            |
+| 34:55      | Of course, you're very welcome to discuss [[Keyboard Maestro]] items in our forums as well,                            |
 | 35:00      | but yeah, he's got a lot of resources out there for that.                                                          |
-| 35:05      | I was just talking to a listener yesterday who is doing a Keyboard Maestro script to                               |
+| 35:05      | I was just talking to a listener yesterday who is doing a [[Keyboard Maestro]] script to                               |
 | 35:11      | do auto-fill, form-filling mails, because there's really not many good solutions for                               |
-| 35:18      | mail merge and he's using Keyboard Maestro to mail merge emails and send them even if                              |
+| 35:18      | mail merge and he's using [[Keyboard Maestro]] to mail merge emails and send them even if                              |
 | 35:24      | you want and I got thinking that's a great solution to a problem because quite often                               |
 | 35:31      | there are weaknesses in the platform for one thing or another and I think mail merge is                            |
 | 35:35      | one where the Mac isn't particularly good.                                                                         |
-| 35:38      | I'm not that impressed with the way Microsoft solutions do it and with Keyboard Maestro                            |
+| 35:38      | I'm not that impressed with the way Microsoft solutions do it and with [[Keyboard Maestro]]                            |
 | 35:44      | he was able to make a solution that basically works across his Mac and that's just one                             |
 | 35:50      | example of solving a problem with that application.                                                                |
 | 35:53      | Yes.                                                                                                               |
@@ -726,9 +726,9 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 36:15      | which event the contract was for and that sounds like a mail merge.                                                |
 | 36:20      | If you're trying to generate documents, this is the other end of filing, generating the                            |
 | 36:24      | documents to be files, don't forget mail merge is quite a powerful tool and as you've                              |
-| 36:29      | just heard, Keyboard Maestro can even help you do that.                                                            |
+| 36:29      | just heard, [[Keyboard Maestro]] can even help you do that.                                                            |
 | 36:31      | Yes.                                                                                                               |
-| 36:32      | I've done a lot of that work over time because I use Keyboard Maestro for that type of stuff                       |
+| 36:32      | I've done a lot of that work over time because I use [[Keyboard Maestro]] for that type of stuff                       |
 | 36:37      | all the time.                                                                                                      |
 | 36:38      | We'll get there, we'll get there.                                                                                  |
 | 36:40      | Yes.                                                                                                               |

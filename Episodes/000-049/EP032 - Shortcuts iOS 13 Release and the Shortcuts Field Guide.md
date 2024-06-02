@@ -233,7 +233,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 09:17      | Automators should automate donations, right?                                                           |
 | 09:20      | Yeah.                                                                                                  |
 | 09:21      | Well, you could set it up on a monthly cycle if you really want to.                                    |
-| 09:24      | Well, no, I was thinking like, you know, maybe a Keyboard Maestro's script on the web page.            |
+| 09:24      | Well, no, I was thinking like, you know, maybe a [[Keyboard Maestro]]'s script on the web page.            |
 | 09:29      | I don't know.                                                                                          |
 | 09:30      | I bet you could do it.                                                                                 |
 | 09:31      | Somebody in the forums is going to come up with something great of that, I'm sure.                     |
@@ -472,7 +472,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 22:36      | Of all the triggers that we got, that's the one that I was scratching my head about at                 |
 | 22:40      | the beginning, but now I totally get it.                                                               |
 | 22:42      | So I actually stole something from you as well with the app launcher because you have                  |
-| 22:46      | a Keyboard Maestro macro for your Mac right where if you open Twitter, it gives you a                  |
+| 22:46      | a [[Keyboard Maestro]] macro for your Mac right where if you open Twitter, it gives you a                  |
 | 22:49      | couple of minutes and then it tells you, you know, stop twittering, right?                             |
 | 22:54      | Yeah.                                                                                                  |
 | 22:55      | Well, I actually did this.                                                                             |
@@ -1220,7 +1220,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:07:05   | Some of them are a bit longer because they need to be and some of them are a bit shorter.              |
 | 01:07:09   | But the sections are, you know, there's an introduction and overview.                                  |
 | 01:07:12   | There's that key concepts thing I was talking about.                                                   |
-| 01:07:15   | Kind of like when I did the Keyboard Maestro field guide, and this is different from the               |
+| 01:07:15   | Kind of like when I did the [[Keyboard Maestro]] field guide, and this is different from the               |
 | 01:07:19   | original version of the Shortcuts field guide, I did a whole section on triggers and a whole           |
 | 01:07:23   | section on actions where I break down, you're like, I want to, if you want to learn how                |
 | 01:07:26   | to use the Bluetooth trigger, there's a video explaining how.                                          |

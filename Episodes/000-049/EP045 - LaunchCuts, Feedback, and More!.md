@@ -471,19 +471,19 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 37:08      | the device best for someone that's at a desktop computer, because I can't really see myself            |
 | 37:13      | carrying this thing around and attaching it to a laptop. But the Stream Deck was designed as a         |
 | 37:18      | streaming, like for gamers, like game streamers to give them quick access to common commands for       |
-| 37:24      | streaming. But last year, with release of Keyboard Maestro version nine, Peter put in a feature        |
-| 37:31      | that lets you attach Stream Deck buttons to as triggers and Keyboard Maestro. And since keyboard       |
+| 37:24      | streaming. But last year, with release of [[Keyboard Maestro]] version nine, Peter put in a feature        |
+| 37:31      | that lets you attach Stream Deck buttons to as triggers and [[Keyboard Maestro]]. And since keyboard       |
 | 37:38      | maestro can do almost anything on your Mac, then that basically gave you an external control panel     |
 | 37:45      | that you can make your Mac do almost anything. And so I really liked it. Related, I released an        |
-| 37:52      | update to the Keyboard Maestro field guide. I think since the last time we published, and I've got a   |
+| 37:52      | update to the [[Keyboard Maestro]] field guide. I think since the last time we published, and I've got a   |
 | 37:56      | whole video in there explaining how to set it up and do all this stuff. But basically, it's not        |
 | 38:00      | that difficult. You've got a little plug in you download for the Stream Deck software. And then        |
-| 38:06      | you can attach a button to a Keyboard Maestro action. You can even give custom icons to the            |
+| 38:06      | you can attach a button to a [[Keyboard Maestro]] action. You can even give custom icons to the            |
 | 38:13      | buttons because there's a little LCD screen behind the Stream Deck. So like I've got a bunch of        |
 | 38:18      | icons between like my top row is all set up. So like I push one button, and it sets up all of my       |
 | 38:26      | various screens for writing. I press another one, it sets all of them up for planning. So I can like   |
 | 38:31      | jump between modes of work with just the press of a button. And I know I could do that with fancy      |
-| 38:37      | keyboard shortcuts and other ways with Keyboard Maestro. But there's something very satisfying         |
+| 38:37      | keyboard shortcuts and other ways with [[Keyboard Maestro]]. But there's something very satisfying         |
 | 38:42      | about sitting down on my computer and pressing a button on the Stream Deck and having my computer      |
 | 38:47      | just zap into like screencast mode for me. It's just it's great. And so I've got the top row           |
 | 38:54      | buttons for setups. The second row is largely blank at this point, because I'm going to be             |
@@ -510,8 +510,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 40:47      | But because I have this big Stream Deck on my desk, but I get like, if you're on a laptop,             |
 | 40:52      | that would be kind of nice to have your iPhone as like a control panel for your Mac.                   |
 | 40:57      | But at the same time, for a lot of what the Stream Deck does, especially if you're triggering          |
-| 41:00      | Keyboard Maestro macros, don't forget you can copy like a URL to trigger a Keyboard Maestro            |
-| 41:05      | macro, you know, from Keyboard Maestro, and then you can just, you know, get contents of URL on        |
+| 41:00      | [[Keyboard Maestro]] macros, don't forget you can copy like a URL to trigger a [[Keyboard Maestro]]            |
+| 41:05      | macro, you know, from [[Keyboard Maestro]], and then you can just, you know, get contents of URL on        |
 | 41:10      | that inside of shortcuts, and it will do the same thing. Yeah, it might not look pretty in the same    |
 | 41:17      | way that a donated screen Stream Deck action would really said screen deck there. I think              |
 | 41:21      | that's something else. But it is, you know, another way of automating things on your Mac               |

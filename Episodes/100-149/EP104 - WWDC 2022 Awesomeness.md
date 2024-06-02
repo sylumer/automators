@@ -623,7 +623,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 36:00      | support for tab groups in Safari, David. Tab groups in Safari have shortcut support.                      |
 | 36:05      | I am unbelievably ridiculously excited by this. Because again, this is something that                     |
 | 36:11      | we always get asked by people, how do I access a tab group in shortcuts and AppleScript                  |
-| 36:16      | and through Keyboard Maestro and [[Hazel]] and things like that. And the answer was, sorry,                   |
+| 36:16      | and through [[Keyboard Maestro]] and [[Hazel]] and things like that. And the answer was, sorry,                   |
 | 36:21      | not. And the answer now is you can use shortcuts for that, which is great. So you can open                |
 | 36:28      | a tab group, and you can add a tab to a tab group, and you can create a tab group. And                    |
 | 36:33      | you can also configure your Safari focus filter, which means that just, you know, like you                |

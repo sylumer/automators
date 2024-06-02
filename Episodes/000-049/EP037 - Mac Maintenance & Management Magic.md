@@ -471,26 +471,26 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 36:02      | we talked about this with Don McAllister a month or two ago. He talked about this app Posthaste,        |
 | 36:08      | which is a kind of a uni-tasker app that creates a whole folder setup for you.                          |
 | 36:12      | If you do a bunch of projects, I think this is probably the app for you. It'll do it.                   |
-| 36:18      | You can also do something like that via Keyboard Maestro, even [[AppleScript]]. I used to have an          |
+| 36:18      | You can also do something like that via [[Keyboard Maestro]], even [[AppleScript]]. I used to have an          |
 | 36:23      | automator script I ran that created a bunch of folders, but it was a little hard because                |
 | 36:28      | automator is hard to pass variables automators, so I couldn't really get it to do it exactly the way    |
 | 36:32      | I wanted. But you could absolutely do this with [[AppleScript]]. Yeah. And I have to say I've been         |
-| 36:38      | running this with Keyboard Maestro for quite some time, just because it's very good at doing things     |
-| 36:43      | like that. Though I have to say, in one case, I kind of teetered, and I'm using Keyboard Maestro        |
-| 36:50      | and [[Hazel]]. And that's because what I do is I use Keyboard Maestro to help me rename some files,         |
+| 36:38      | running this with [[Keyboard Maestro]] for quite some time, just because it's very good at doing things     |
+| 36:43      | like that. Though I have to say, in one case, I kind of teetered, and I'm using [[Keyboard Maestro]]        |
+| 36:50      | and [[Hazel]]. And that's because what I do is I use [[Keyboard Maestro]] to help me rename some files,         |
 | 36:59      | and then [[Hazel]] sorts it into a subfolder, which will create a subfolder for me if one is not there.     |
 | 37:04      | And I have to say that combination there is very useful for, in this particular case,                   |
 | 37:09      | I'm looking at podcasting projects. So whenever I create a new podcast episode,                         |
 | 37:13      | then it automatically goes, hey, here's a new folder, done. And I don't need to think about it.         |
 | 37:18      | So walk us through what you're doing. So what I do is when the episode finishes recording,              |
-| 37:24      | then Keyboard Maestro is watching that folder, and it goes, hey, you have a new episode of              |
+| 37:24      | then [[Keyboard Maestro]] is watching that folder, and it goes, hey, you have a new episode of              |
 | 37:29      | automators, or hey, you have a new episode of nested folders. Which episode number is this? And         |
 | 37:35      | then I type in the episode number, and I hit OK, and it moves it to another folder.                     |
 | 37:40      | Let me interrupt this for a second. And so the way, how does it know that you just finished             |
-| 37:43      | recording? That is a very good question. I believe Keyboard Maestro, and I'm just having a look to      |
+| 37:43      | recording? That is a very good question. I believe [[Keyboard Maestro]], and I'm just having a look to      |
 | 37:50      | see, so I think what it does is it checks that the file hasn't been edited in the last minute           |
 | 37:56      | or so. And this is another thing that, of course, [[Hazel]] can do as well. But in this case, I wanted      |
-| 38:02      | to use the GUI in Keyboard Maestro, because I'm also using the variables there.                         |
+| 38:02      | to use the GUI in [[Keyboard Maestro]], because I'm also using the variables there.                         |
 | 38:07      | So it's looking for the existence of a file. I just wanted to get across the audience. It's like,       |
 | 38:12      | the creation of a file is what kicks everything off.                                                    |
 | 38:15      | Yes. So it weighs for me to have created a file, or added a file to that folder. So I can also move     |
@@ -499,7 +499,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 38:32      | episode that we recorded was 36 is 37. And so I can just increase that number by one. And that          |
 | 38:41      | makes my life a little bit easier, unless we record episodes out of order, which occasionally           |
 | 38:45      | happens. But that's something I can deal with. Like today. Yeah, exactly. Like today and yesterday.     |
-| 38:54      | So yeah, so then Keyboard Maestro moves this to a specific folder. And then [[Hazel]] knows that it         |
+| 38:54      | So yeah, so then [[Keyboard Maestro]] moves this to a specific folder. And then [[Hazel]] knows that it         |
 | 39:01      | needs to move it into a different folder, but then it uses this sort into subfolder. So what it does    |
 | 39:06      | is it matches part of the file name, which is the episode number. And then it just moves it             |
 | 39:11      | into a subfolder. And that's really useful. You can also sort into subfolders based on dates. So        |
@@ -570,11 +570,11 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 45:04      | I used to use [[Moom]], which was a really great app for window management. And it had some ways that       |
 | 45:11      | you can create setups and kind of save them as in essence scripts to run. But over the years,           |
 | 45:16      | I've really switched that over to [[Keyboard Maestro]]. I did a video, we'll put a link in the show notes   |
-| 45:22      | of a video I did less than a year ago explaining how to set these up with Keyboard Maestro.             |
+| 45:22      | of a video I did less than a year ago explaining how to set these up with [[Keyboard Maestro]].             |
 | 45:28      | But they're very powerful. And to me, a lot of things work in like half screens. So like on my          |
 | 45:35      | main iMac screen, I want to be able to very easily make an app on the left or the right side.           |
 | 45:42      | And then I've got these vertical monitors on either side. And I want to either put something on         |
-| 45:46      | the top or the bottom. And there's a very easy Keyboard Maestro script you can create for the           |
+| 45:46      | the top or the bottom. And there's a very easy [[Keyboard Maestro]] script you can create for the           |
 | 45:52      | currently active window. The keyboard shortcuts I use are the three buttons to the left of the          |
 | 45:58      | spacebar. What is it? Control, Option, Command. So if I put Control, Option, Command, Left Arrow,       |
 | 46:06      | whatever the current app is, it's the left side of the screen. Right Arrow is the right side of         |
@@ -610,7 +610,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 48:48      | apps split on one screen. That's really useful. For example, I'll often have like my FTP application,   |
 | 48:54      | a text editor and terminal, or a browser text editor and terminal, so that I can be editing one         |
 | 49:00      | of my my web projects at work. Yeah, that makes sense. And a related subject, which I cover at          |
-| 49:07      | great length in the Keyboard Maestro field guide is setups, where this is another type of automation    |
+| 49:07      | great length in the [[Keyboard Maestro]] field guide is setups, where this is another type of automation    |
 | 49:13      | where you take the power of organising windows, but then you organise specific windows, like if         |
 | 49:20      | I'm going to start a podcast, I have a podcast setup where it puts the, you know, the quip document     |
 | 49:27      | where Rose and I talk on one screen, and it puts the advertiser ad notes on another screen, and it      |
@@ -618,11 +618,11 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 49:40      | the way I want. Well, I've done that for all the things I do in my life, I do it for podcasts,          |
 | 49:45      | I've got it for doing legal work, I've got it for making screencasts, I've got it for writing           |
 | 49:50      | and research. So whatever I want to do, it's just a great feeling to just hit one button.               |
-| 49:55      | And with Keyboard Maestro, you can do it with palettes, that's the way I do it. This is too much        |
+| 49:55      | And with [[Keyboard Maestro]], you can do it with palettes, that's the way I do it. This is too much        |
 | 50:01      | for a podcast, but you press one keyboard combination, you get a selection list on the screen, you just |
 | 50:06      | pick which thing you're going to do, and then you can do it. And one of the big uses I found            |
 | 50:11      | for the Stream Deck, that's this new gizmo I've got that I'm going to be talking about in the           |
-| 50:16      | free update, the Keyboard Maestro field guide, it's you plug it in, and it's basically a panel          |
+| 50:16      | free update, the [[Keyboard Maestro]] field guide, it's you plug it in, and it's basically a panel          |
 | 50:21      | of buttons that you can put custom icons behind, is I put all these setups on buttons. And it's         |
 | 50:27      | really great because I just, I don't know, even though I could do it through a palette,                 |
 | 50:32      | this is one where I like having the little button, I just press the button and then I can start         |
@@ -631,7 +631,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 50:47      | The top row, the eight buttons. Okay, that's quite a few buttons. I'm very tempted to get a             |
 | 50:52      | Stream Deck. It's all my Christmas wish list, I'm not sure if I'll be getting it, but I may buy it      |
 | 50:56      | for myself as a Christmas or birthday present. Yeah, it's not necessary, but it's nice to have.         |
-| 51:04      | Like I said, the palettes and Keyboard Maestro are very powerful. This actually requires me to          |
+| 51:04      | Like I said, the palettes and [[Keyboard Maestro]] are very powerful. This actually requires me to          |
 | 51:09      | take my hands off the keyboard, but setup changes are usually what I'm doing as I sit down, and         |
 | 51:14      | there's something very satisfying. As you sit down, you press the email processing button               |
 | 51:19      | or the customer support button, and everything comes up to do all your customer support stuff,          |
@@ -652,23 +652,23 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 52:32      | it's a licensing agreement. So they agree to the content. But yeah, the lawyer's ruin it                |
 | 52:37      | everything. David Sparks. Oh, well. Okay, so we have window management, and there are a lot             |
 | 52:46      | of windows. I don't know how many windows are up on my Mac. But one other thing I want to say           |
-| 52:51      | about window management is I also use Keyboard Maestro frequently at the end of the day to              |
+| 52:51      | about window management is I also use [[Keyboard Maestro]] frequently at the end of the day to              |
 | 52:55      | close down a lot of the applications that I have running. So for example, when I Skype,                 |
-| 53:01      | I actually plug my Zoom H4n Pro into my Mac, and that runs a Keyboard Maestro macro that                |
+| 53:01      | I actually plug my Zoom H4n Pro into my Mac, and that runs a [[Keyboard Maestro]] macro that                |
 | 53:08      | opens a bunch of windows for me. But I don't yet have one that says, hey, when this unplugged,          |
 | 53:14      | close all these windows for me. But at the end of the day, I have a macro that will go through          |
 | 53:19      | and it will close things like Skype and audio hijack unless I'm actively using my computer.             |
 | 53:24      | So that's the trick, making sure that you're not actively using it because I have podcasted at          |
 | 53:29      | odd hours of the day before. And there would be nothing worse than being in the middle of a recording   |
-| 53:33      | and then suddenly Keyboard Maestro goes, bye bye audio hijack. And you're there going, no,              |
+| 53:33      | and then suddenly [[Keyboard Maestro]] goes, bye bye audio hijack. And you're there going, no,              |
 | 53:37      | we just lost half of an episode. Yeah, yeah. And that idea of a setup for shutdown is a good one.       |
 | 53:46      | Like I have that I have a button that does that too. And just kind of like clearing the decks           |
 | 53:52      | for your computer. This is your work device. Why not have it automatically kind of clean                |
 | 53:58      | itself up for you at the end of the day. And this is all stuff that you would never do manually.        |
 | 54:02      | But if you create automation for it, it makes a difference. I actually wrote an article on              |
-| 54:08      | getting your Mac to start up your day with Keyboard Maestro on the suite setup. So I will               |
+| 54:08      | getting your Mac to start up your day with [[Keyboard Maestro]] on the suite setup. So I will               |
 | 54:13      | put a link to that in the show notes as well, because it details it. And I'm pretty certain             |
-| 54:16      | there was a link to the Keyboard Maestro macro as well for you to download it as a sample.              |
+| 54:16      | there was a link to the [[Keyboard Maestro]] macro as well for you to download it as a sample.              |
 | 54:21      | Cool. You want to talk about the cloud? Yeah, because I think the cloud is one of these things          |
 | 54:28      | where especially I have two terabytes of Dropbox storage space. I have no idea how I ended up with      |
 | 54:33      | two terabytes of Dropbox storage space. I know I signed up for one terabyte and they upgraded me        |
@@ -729,8 +729,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 59:16      | what two of the things it does is it mutates my Mac and it tells us displays to go to sleep.            |
 | 59:20      | So I don't have weird bright lights coming in from the front room because it turns up                   |
 | 59:24      | by displays wrong full brightness while I'm asleep. And that just happens as part of my bedtime         |
-| 59:30      | routine. And you're doing that through the Keyboard Maestro app? Yeah, no, I'm actually using the       |
-| 59:35      | web hooks there to do this. So I just, so you can create macros in Keyboard Maestro. And you can        |
+| 59:30      | routine. And you're doing that through the [[Keyboard Maestro]] app? Yeah, no, I'm actually using the       |
+| 59:35      | web hooks there to do this. So I just, so you can create macros in [[Keyboard Maestro]]. And you can        |
 | 59:41      | say, let me trigger this via a web hook. And then you can just call open that URL essentially. And      |
 | 59:48      | I do that with a get contents of URL. So it happens in the background. Yeah, makes sense. Makes         |
 | 59:53      | sense. Although I would think that if you've got that remote machine, I would have a muted all the      |
@@ -744,7 +744,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:00:32   | mute my Mac. I could probably set something up that says, hey, if my headphones disconnect,             |
 | 01:00:38   | you know, mute my Mac. But sometimes I don't want that. And so I just, I mute my Mac until it's         |
 | 01:00:43   | displays to go to sleep every time I go to bed. And that works for me. That's an excellent example      |
-| 01:00:49   | use of a webhook, by the way. Yeah, they do caution on the Keyboard Maestro instructions for this,      |
+| 01:00:49   | use of a webhook, by the way. Yeah, they do caution on the [[Keyboard Maestro]] instructions for this,      |
 | 01:00:54   | that you should make sure it's doing something that isn't malicious. So it's not going to start         |
 | 01:00:58   | deleting files on your machine, because it's, it is just calling a URL and it's security through        |
 | 01:01:04   | obscurity. Yeah, anybody with that URL can trigger it. So exactly. So and I figure by,                  |
@@ -916,7 +916,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:15:27   | I create a new client file and depending on what type of company they are,                              |
 | 01:15:32   | like a bunch of the documents I need to run that company are already made. It's just                    |
 | 01:15:38   | that's the best automation. And then once you combine it with some of the stuff you can do              |
-| 01:15:43   | in Keyboard Maestro, you can actually just push a button and have it go in and customise each            |
+| 01:15:43   | in [[Keyboard Maestro]], you can actually just push a button and have it go in and customise each            |
 | 01:15:47   | document. So it's pretty awesome. Yeah. And yeah, that if you're looking for a small place to get       |
 | 01:15:53   | started, definitely templates. That's what you need. And that's great for Mac management as well,       |
 | 01:15:58   | because you can have it automatically, you know, have a bunch of templates and use something like       |

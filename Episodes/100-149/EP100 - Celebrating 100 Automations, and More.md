@@ -126,25 +126,25 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 02:56      | to help you automate.                                             |
 | 02:57      | If you master all those, you're in great shape.                   |
 | 03:00      | But a couple of them that stand out to me,                        |
-| 03:03      | I feel like Keyboard Maestro just continues                       |
+| 03:03      | I feel like [[Keyboard Maestro]] just continues                       |
 | 03:06      | to be the Swiss Army knife of automation on the Mac.              |
 | 03:09      | It's like so often,                                               |
 | 03:12      | and even with the emergence of Shortcuts for the Mac,             |
 | 03:14      | I still find myself in a pinch                                    |
-| 03:17      | just going to Keyboard Maestro and building.                      |
+| 03:17      | just going to [[Keyboard Maestro]] and building.                      |
 | 03:19      | It's, in a lot of ways, easier than Shortcuts.                    |
 | 03:23      | It's not as powerful in some ways.                                |
 | 03:24      | I mean, that we've talked about in the past,                      |
-| 03:27      | this comparison between Keyboard Maestro and Shortcuts            |
+| 03:27      | this comparison between [[Keyboard Maestro]] and Shortcuts            |
 | 03:31      | on the Mac, how they're kind of complementary.                    |
-| 03:33      | But in a jam, Keyboard Maestro continues to be                    |
+| 03:33      | But in a jam, [[Keyboard Maestro]] continues to be                    |
 | 03:38      | my very favourite automation tool for the Mac.                     |
 | 03:42      | Yeah, it is one of those apps where I never really feel           |
 | 03:45      | like I'm using it as much as I should.                            |
 | 03:48      | But the secret to all automation is it doesn't matter             |
 | 03:51      | if you're using it as much as you think you should,               |
 | 03:53      | it matters if it solves a problem that you have.                  |
-| 03:56      | And that is what Keyboard Maestro so frequently does.             |
+| 03:56      | And that is what [[Keyboard Maestro]] so frequently does.             |
 | 03:59      | What it's doing right now as we record this podcast,              |
 | 04:02      | it's helping me log timestamps in our show notes                  |
 | 04:05      | so that I can easily give those notes over                        |
@@ -155,7 +155,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 04:18      | And when it's not, it's doing something by being there            |
 | 04:21      | ready for me to use it.                                           |
 | 04:24      | So that's great.                                                  |
-| 04:25      | One of the best things I've done with Keyboard Maestro            |
+| 04:25      | One of the best things I've done with [[Keyboard Maestro]]            |
 | 04:28      | is that contextual computing setup                                |
 | 04:30      | where I create the conflict palettes.                             |
 | 04:33      | And the one I use most is Option Control Command M                |
@@ -181,7 +181,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 05:22      | to update content whenever there was new content.                 |
 | 05:26      | So I just made a really quick keyboard Maestro shortcut           |
 | 05:29      | and I could have done it in shortcuts for Mac,                    |
-| 05:31      | but I did it in Keyboard Maestro and it opens Safari              |
+| 05:31      | but I did it in [[Keyboard Maestro]] and it opens Safari              |
 | 05:35      | and it opens three tabs, you know,                                |
 | 05:37      | the three tabs I need to use,                                     |
 | 05:39      | but it also opens up the Memberful page                           |
@@ -191,7 +191,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 05:48      | And all I did was I named it labs dash member tabs                |
 | 05:52      | and I gave it the magic option command control M shortcut.        |
 | 05:58      | And now anytime I need to do that,                                |
-| 06:00      | I just hit that conflict palette in Keyboard Maestro,             |
+| 06:00      | I just hit that conflict palette in [[Keyboard Maestro]],             |
 | 06:03      | tap like L and then M, I think.                                   |
 | 06:06      | And then it just sets that up for me, you know,                   |
 | 06:09      | and that was something I was doing manually                       |
@@ -199,7 +199,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 06:13      | to automate it.                                                   |
 | 06:14      | When I finally did it, it took all of like two minutes,           |
 | 06:17      | but it's a very simple automation,                                |
-| 06:20      | but having Keyboard Maestro always in the background              |
+| 06:20      | but having [[Keyboard Maestro]] always in the background              |
 | 06:22      | setting by saying, put me in coach, whatever you need,            |
 | 06:25      | I'll do the grunt work for you.                                   |
 | 06:28      | It's really kind of great.                                        |
@@ -216,7 +216,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 06:51      | these are the tabs I need for recording automators                |
 | 06:53      | or similar inside of bunch,                                       |
 | 06:55      | because bunch is what sets me up for those things,                |
-| 06:58      | but I do still have instances where Keyboard Maestro              |
+| 06:58      | but I do still have instances where [[Keyboard Maestro]]              |
 | 07:00      | will open a bunch of tabs or open different windows               |
 | 07:04      | and certain applications for me                                   |
 | 07:05      | because it's either the first tool that I put in                  |
@@ -241,7 +241,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 07:52      | when I do this, like I could start a timer                        |
 | 07:54      | and I could open the calendar and whatever,                       |
 | 07:59      | I could, you put it all together.                                 |
-| 08:02      | And the thing about Keyboard Maestro is that                      |
+| 08:02      | And the thing about [[Keyboard Maestro]] is that                      |
 | 08:04      | it pretty much lets you pick any combination                      |
 | 08:09      | of things you wanna do in your Mac,                               |
 | 08:10      | and it does it for you.                                           |
@@ -519,7 +519,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 19:10      | because sometimes it is just that,                                |
 | 19:12      | you're getting data from a place                                  |
 | 19:14      | where it's kind of difficult to wrangle                           |
-| 19:16      | using Keyboard Maestro or Shortcuts or something.                 |
+| 19:16      | using [[Keyboard Maestro]] or Shortcuts or something.                 |
 | 19:20      | And scripts really can just step up to the plate                  |
 | 19:23      | and do what we need there.                                        |
 | 19:24      | And that is truly great.                                          |
@@ -595,7 +595,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 21:57      | You know, I'll tell you.                                          |
 | 22:00      | So David, which child do you love the most                        |
 | 22:03      | and is it really the dog?                                         |
-| 22:04      | Yeah, I'll say almost anything I've done in Keyboard Maestro      |
+| 22:04      | Yeah, I'll say almost anything I've done in [[Keyboard Maestro]]      |
 | 22:09      | still brings me joy and delight                                   |
 | 22:10      | because it is a great tool                                        |
 | 22:12      | and I work at my Mac so much                                      |
@@ -651,7 +651,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 24:26      | that's bananas, you know what I mean?                             |
 | 24:28      | And with shortcuts, this stuff is easy.                           |
 | 24:30      | Now I could have done it with some clever AppleScript            |
-| 24:33      | and Keyboard Maestro,                                             |
+| 24:33      | and [[Keyboard Maestro]],                                             |
 | 24:34      | but shortcuts make stuff like this way easier.                    |
 | 24:38      | And lately I've really been appreciating                          |
 | 24:41      | my whole stack of calendar automations                            |
@@ -710,9 +710,9 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 26:53      | And then I'm also tracking the time as we do the show             |
 | 26:56      | so that I can insert show notes                                   |
 | 26:59      | with actual timestamps for our editor.                            |
-| 27:02      | That happens with Keyboard Maestro                                |
+| 27:02      | That happens with [[Keyboard Maestro]]                                |
 | 27:05      | because when I start recording,                                   |
-| 27:06      | I use Keyboard Maestro to start the recording.                    |
+| 27:06      | I use [[Keyboard Maestro]] to start the recording.                    |
 | 27:08      | It saves the timestamp into a variable                            |
 | 27:10      | and it activates Audio Hijack                                     |
 | 27:13      | and hits the recording keyboard shortcut.                         |
@@ -721,7 +721,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 27:19      | but it ain't broke so I'm probably not gonna                      |
 | 27:22      | invest all that much time fixing it.                              |
 | 27:24      | And then of course there's the after show stuff                   |
-| 27:26      | where Keyboard Maestro will manage my files for me                |
+| 27:26      | where [[Keyboard Maestro]] will manage my files for me                |
 | 27:29      | in that it, because it asks me                                    |
 | 27:32      | when I start recording the show,                                  |
 | 27:33      | which episode we're recording.                                    |
@@ -738,7 +738,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 27:59      | and it renames them so that the episode number is in there        |
 | 28:02      | and puts them inside the episode folder, which is great.          |
 | 28:05      | And of course, when guests come on the show,                      |
-| 28:07      | their files get uploaded and Keyboard Maestro pops up             |
+| 28:07      | their files get uploaded and [[Keyboard Maestro]] pops up             |
 | 28:10      | and goes, hey, you go rename this file                            |
 | 28:13      | and tell me which episode this is for                             |
 | 28:14      | and I'm gonna go put it in the right place for you.               |
@@ -904,7 +904,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 34:41      | or maybe not, and then I end up, you know,                        |
 | 34:43      | putting AppleScript inside of a shortcut,                         |
 | 34:46      | or running a shortcut through AppleScript inside a bunch,         |
-| 34:50      | which is actually run by Keyboard Maestro from my Stream Deck.    |
+| 34:50      | which is actually run by [[Keyboard Maestro]] from my Stream Deck.    |
 | 34:54      | And so I've ended up kind of nesting automation types             |
 | 34:57      | and crossing streams in ways which I feel                         |
 | 35:00      | can only be beneficial, the fact that, you know,                  |
@@ -919,19 +919,19 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 35:20      | I'm seeing in a lot of places, you know,                          |
 | 35:23      | somebody tweeted at us a little while ago                         |
 | 35:26      | to say that they've used their first AppleScript,                 |
-| 35:28      | which they copied and pasted it into a Keyboard Maestro macro.    |
+| 35:28      | which they copied and pasted it into a [[Keyboard Maestro]] macro.    |
 | 35:32      | And, you know, and that is great.                                 |
 | 35:35      | I'm really thrilled that more people are doing things like that   |
 | 35:38      | because I feel like it's more accessible in many ways             |
 | 35:41      | when you can just go, right,                                      |
-| 35:43      | well, Keyboard Maestro, for example,                              |
+| 35:43      | well, [[Keyboard Maestro]], for example,                              |
 | 35:45      | can do everything I need except this little bit,                  |
 | 35:47      | but AppleScript can do that.                                      |
 | 35:48      | And this person wrote a script,                                   |
 | 35:49      | which I can read because it's AppleScript.                        |
 | 35:51      | So I know what it's doing because it's just words.                |
 | 35:53      | So I'll just copy and paste that                                  |
-| 35:55      | and put that in this Keyboard Maestro macro                       |
+| 35:55      | and put that in this [[Keyboard Maestro]] macro                       |
 | 35:56      | or put this in the shortcut                                       |
 | 35:58      | and then it does the whole thing for you.                         |
 | 35:59      | And that is something I love.                                     |
@@ -1890,7 +1890,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:15:52   | You know, we're going to see more things like that.               |
 | 01:15:53   | And, you know, hopefully, you know,                               |
 | 01:15:55   | we'll see more people branching out into using things             |
-| 01:15:59   | like Keyboard Maestro,                                            |
+| 01:15:59   | like [[Keyboard Maestro]],                                            |
 | 01:16:00   | which is always gaining more actions.                             |
 | 01:16:03   | Genuinely, I have no idea how it does.                            |
 | 01:16:04   | I blink and it feels like there's 13 new actions,                 |

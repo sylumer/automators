@@ -226,7 +226,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 09:56      | And that's basically how I created that OmniFocus script is I started looking at a bunch of             |
 | 10:01      | previously created OmniFocus scripts that other people made and I started twisting the dials            |
 | 10:07      | on it and making changes until I got it working the way I want it.                                      |
-| 10:11      | And then I just, you know, put it into a Keyboard Maestro trigger and use the number pad as             |
+| 10:11      | And then I just, you know, put it into a [[Keyboard Maestro]] trigger and use the number pad as             |
 | 10:16      | the trigger for the script.                                                                             |
 | 10:19      | Roses scripts here are very readable.                                                                   |
 | 10:22      | Let's start with the first one.                                                                         |
@@ -266,7 +266,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 12:18      | I hate that.                                                                                            |
 | 12:19      | But anyway, and Rose mentioned Bunch.                                                                   |
 | 12:23      | Bunch is a launcher application where you can do like setups on your screen.                            |
-| 12:28      | And I do a lot of those with Keyboard Maestro, but you can also do it with Bunch and in some            |
+| 12:28      | And I do a lot of those with [[Keyboard Maestro]], but you can also do it with Bunch and in some            |
 | 12:32      | ways they're faster and easier with Bunch.                                                              |
 | 12:34      | And it's just an ingenious little thing created by our pal [[Brett Terpstra]].                              |
 | 12:40      | And we talked about this in great detail when [[Jay Miller]] was on the show.                               |
@@ -529,7 +529,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 27:18      | I primarily run it out of bunch, but it's also a Stream Deck button for me.                             |
 | 27:23      | So a lot of these I am running through the OSA script plugin, which is linked in the                    |
 | 27:29      | show notes on Stream Deck, but one of the things I'm switching to a little bit with                     |
-| 27:33      | that is I'm actually running script files through Keyboard Maestro, because this way                    |
+| 27:33      | that is I'm actually running script files through [[Keyboard Maestro]], because this way                    |
 | 27:38      | I don't have potentially two, three, four different versions of the same script in multiple             |
 | 27:46      | places.                                                                                                 |
 | 27:47      | Instead, I have one script file, and I can run that from potentially multiple buttons                   |

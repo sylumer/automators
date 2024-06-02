@@ -734,7 +734,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 48:24      | a combination of the billing web service and the air table when I set up a new client but then I        |
 | 48:30      | thought well why don't I have a web service send the engagement letter to them with you know all        |
 | 48:36      | the details and that you know it's a it's basically a fill-in form which I've been doing in pages for   |
-| 48:41      | years with a Keyboard Maestro shortcut but I thought well what what if I automate this on the           |
+| 48:41      | years with a [[Keyboard Maestro]] shortcut but I thought well what what if I automate this on the           |
 | 48:45      | web so of course I went to Zapier and got a list of all the web-based document generation apps that      |
 | 48:52      | that integrate with him and now I'm going through them all to figure out if one of them is going        |
 | 48:56      | to be acceptable to me because I like the idea of just automating it through but but I have to go       |

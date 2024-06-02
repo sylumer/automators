@@ -853,31 +853,31 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 55:43      | And that's something anybody can do with a little bit of investment of time.                             |
 | 55:47      | Definitely.                                                                                              |
 | 55:48      | And this actually brings to mind something that I was experimenting with today.                          |
-| 55:52      | I have a fairly large library of Keyboard Maestro macros and I didn't have time when I was playing       |
+| 55:52      | I have a fairly large library of [[Keyboard Maestro]] macros and I didn't have time when I was playing       |
 | 55:58      | with this today to really convert all of those to AppleScripts.                                         |
 | 56:03      | Some of them probably should be AppleScripts, most of them can be AppleScripts.                        |
-| 56:07      | But what I did is I used AppleScript to run my Keyboard Maestro macros because that's                   |
+| 56:07      | But what I did is I used AppleScript to run my [[Keyboard Maestro]] macros because that's                   |
 | 56:12      | three lines of AppleScript and I then didn't actually have to write any AppleScript because            |
-| 56:18      | I already had these in my Keyboard Maestro macros.                                                       |
+| 56:18      | I already had these in my [[Keyboard Maestro]] macros.                                                       |
 | 56:21      | And this also lets me do some things with some apps which maybe don't have AppleScript                  |
 | 56:26      | support because I have to click it images and things like that.                                          |
 | 56:29      | And I can use all of these features from this accessibility pane on my iPad now through                  |
-| 56:35      | Keyboard Maestro.                                                                                        |
+| 56:35      | [[Keyboard Maestro]].                                                                                        |
 | 56:36      | And it's actually really good.                                                                           |
 | 56:37      | And for anybody interested, I'll try and make sure the link is in the show notes of how                  |
-| 56:41      | to run a Keyboard Maestro macro through AppleScript.                                                    |
+| 56:41      | to run a [[Keyboard Maestro]] macro through AppleScript.                                                    |
 | 56:45      | There are two ways of doing it.                                                                          |
 | 56:46      | You can either call it with the name or call it with the ID of the macro, but it's very                  |
 | 56:50      | simple to do.                                                                                            |
-| 56:51      | And so if you've already got stuff in Keyboard Maestro, that's something that you can do                 |
+| 56:51      | And so if you've already got stuff in [[Keyboard Maestro]], that's something that you can do                 |
 | 56:56      | and I know a lot of people have been playing with things like a Stream Deck recently.                    |
 | 56:59      | But this, if you already have an iPad, it's a free alternative.                                          |
 | 57:03      | So it's definitely worth giving it a try.                                                                |
 | 57:05      | Yeah, if you're going to set this up, you can not only run AppleScripts, you can run                    |
-| 57:09      | Keyboard Maestro scripts off a button on your iPad that drives on your Mac.                              |
+| 57:09      | [[Keyboard Maestro]] scripts off a button on your iPad that drives on your Mac.                              |
 | 57:14      | I mean, it's great.                                                                                      |
 | 57:16      | And the nice thing about that is you get the contextual sensitivity.                                     |
-| 57:19      | So you can say, when I open pages, give me all my Keyboard Maestro pages scripts or my                   |
+| 57:19      | So you can say, when I open pages, give me all my [[Keyboard Maestro]] pages scripts or my                   |
 | 57:26      | text writing scripts.                                                                                    |
 | 57:28      | And then suddenly your iPad reformats itself to give you those buttons, whereas when you                 |
 | 57:33      | go over to numbers, you get a different set of buttons.                                                  |
@@ -1182,7 +1182,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:18:22   | show, or do we just give it a whole show?                                                                |
 | 01:18:26   | And we were right, it needed a whole show, because this is excellent, and I would encourage              |
 | 01:18:31   | people, even if you think, oh, scripting, no.                                                            |
-| 01:18:33   | Remember, you can trigger a Keyboard Maestro scripts with just three lines of AppleScript,              |
+| 01:18:33   | Remember, you can trigger a [[Keyboard Maestro]] scripts with just three lines of AppleScript,              |
 | 01:18:39   | and you can copy and paste so much from all the websites out there that you don't need                   |
 | 01:18:43   | to know how to script by yourself.                                                                       |
 | 01:18:45   | You can just put it all together, and it works.                                                          |

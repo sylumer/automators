@@ -1150,13 +1150,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:13:56   | that somewhat automates that.                                                                            |
 | 01:13:59   | Yeah.                                                                                                    |
 | 01:14:00   | The only thing I'll say here is usually our default Mac recommendation for automating                    |
-| 01:14:05   | stuff would be Keyboard Maestro.                                                                         |
-| 01:14:07   | However, in this particular case, Keyboard Maestro can't do this.                                        |
-| 01:14:11   | And Keyboard Maestro doesn't have as many options available to it as Automator does.                     |
+| 01:14:05   | stuff would be [[Keyboard Maestro]].                                                                         |
+| 01:14:07   | However, in this particular case, [[Keyboard Maestro]] can't do this.                                        |
+| 01:14:11   | And [[Keyboard Maestro]] doesn't have as many options available to it as Automator does.                     |
 | 01:14:16   | It's only got two macros or two actions, whereas Automator has several.                                  |
 | 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at AppleScript                     |
 | 01:14:27   | pretty much, and that is going to be, you know, your process.                                            |
-| 01:14:33   | Now you could probably use Keyboard Maestro's click-it image to find the drop-down arrow                 |
+| 01:14:33   | Now you could probably use [[Keyboard Maestro]]'s click-it image to find the drop-down arrow                 |
 | 01:14:42   | next to the person in the to field and click that, and then click search for person.                     |
 | 01:14:51   | But I think that's going to be a pretty hacky way of doing it.                                           |
 | 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |
@@ -1270,7 +1270,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:22:21   | But it's an electron app, and as we record, it's on the Mac only, but their mobile apps                  |
 | 01:22:27   | are very, very shortly coming.                                                                           |
 | 01:22:29   | But wanting to automate an electron app has got its own unique set of challenges.                        |
-| 01:22:35   | A lot of the stuff I would typically do in Keyboard Maestro doesn't work with an electron                |
+| 01:22:35   | A lot of the stuff I would typically do in [[Keyboard Maestro]] doesn't work with an electron                |
 | 01:22:38   | app.                                                                                                     |
 | 01:22:40   | Even stuff like dictation tools often break with electron apps.                                          |
 | 01:22:45   | So I've had a good time and a challenge, kind of figuring out what I can and cannot automate             |
@@ -1340,12 +1340,12 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:27:01   | one that this is great for is Microsoft Word, because there's a whole bunch of weird stuff               |
 | 01:27:05   | you can do with Word, like sharing [[Drafts]] as PDF, and things that require a lot of clicks                |
 | 01:27:10   | to get to, and they don't even have shortcuts.                                                           |
-| 01:27:12   | I've been able to map using Keyboard Maestro and choose from menu item in Keyboard Maestro.              |
-| 01:27:20   | That's like a very simple command in Keyboard Maestro, but you can go many layers deep                   |
-| 01:27:24   | in submenus and get features added to a Keyboard Maestro script.                                         |
+| 01:27:12   | I've been able to map using [[Keyboard Maestro]] and choose from menu item in [[Keyboard Maestro]].              |
+| 01:27:20   | That's like a very simple command in [[Keyboard Maestro]], but you can go many layers deep                   |
+| 01:27:24   | in submenus and get features added to a [[Keyboard Maestro]] script.                                         |
 | 01:27:29   | And then there is a third-party plugin for the Stream Deck called KMLink.                                |
 | 01:27:35   | I want to say TJ turned me on to this, but I'm not sure who turned me on to it.                          |
-| 01:27:40   | But the thing I like about that over the native Keyboard Maestro integration is that once                |
+| 01:27:40   | But the thing I like about that over the native [[Keyboard Maestro]] integration is that once                |
 | 01:27:45   | you put a KMLink script on your Stream Deck, you can move it around.                                     |
 | 01:27:51   | You can drag it to different places on the Stream Deck and the Stream Deck app and not                   |
 | 01:27:57   | have to remap it, because with the built-in one, you have to map it to a particular button.              |

@@ -246,7 +246,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 14:45      | similar apps that I've used to do these things. And it occasionally gets me into a little              |
 | 14:49      | bit of a pickle. I spent half an hour the other day trying to figure out why Discord                   |
 | 14:53      | was starting on startup on my Mac. And I couldn't track it down. Turns out, I think I'd set            |
-| 14:58      | it in the Discord settings itself. But I was looking, I went through Keyboard Maestro.                |
+| 14:58      | it in the Discord settings itself. But I was looking, I went through [[Keyboard Maestro]].                |
 | 15:02      | Nope, not there. I went through Bunch. Nope, not there. And I spent quite some time trying             |
 | 15:07      | to figure out why is this happening. Like there is no logical reason for this to be                    |
 | 15:11      | happening and found it in the really obvious place. And that can be sort of the downside               |
@@ -1074,7 +1074,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:26:06   | dog, David? Yeah, 11. Asking for scientific purposes. Yeah. Yeah. That is, that's crazy.               |
 | 01:26:14   | That's one of the things I feel like, man, that is such a little hanging fruit in shortcuts            |
 | 01:26:17   | is to lock things and just make, there's, there are ways to solve the problem. Just,                   |
-| 01:26:24   | you know, take a look at Keyboard Maestro game, you know, and, but yeah, that is vexing.               |
+| 01:26:24   | you know, take a look at [[Keyboard Maestro]] game, you know, and, but yeah, that is vexing.               |
 | 01:26:30   | But you know, what is the vaccine is that Simon keeps making great apps that I do believe              |
 | 01:26:36   | help the rest of us get better at automation. And I love what I'm hearing today. I can't               |
 | 01:26:41   | wait to see what's next. And Simon, thanks for coming by and keeping us updated on all                 |

@@ -275,7 +275,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 21:02      | Yeah, so I'm really excited to walk through kind of my process for this, mainly so you                    |
 | 21:10      | can tell me how to do it better. When it comes to automation, I am not extremely, I don't                 |
 | 21:19      | like to just sit and tinker with things. I highly recommend episode 38 of Roboism, where                  |
-| 21:27      | I kind of talk about my discovery of the Stream Deck and Keyboard Maestro and learning how                |
+| 21:27      | I kind of talk about my discovery of the Stream Deck and [[Keyboard Maestro]] and learning how                |
 | 21:35      | to do things, mainly because it gave away my secret in that I utilised friends like                       |
 | 21:41      | Rose to do the things for me and figure out how to make them work because I am not a tinkerer.            |
 | 21:50      | I don't like to tinker or create things from scratch or even really think, hmm, how could                 |
@@ -569,9 +569,9 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 50:06      | had the time slash energy to sit and think about what I could use it for. But also, it's so easy          |
 | 50:16      | to just click, click, click that and making sure that things go from the right folder to the right        |
 | 50:24      | folder, et cetera. I'm sure there probably is a way. But yeah, I haven't had a chance to go through       |
-| 50:32      | and tinker it together. One thing you could do with the Keyboard Maestro, and I know you're               |
+| 50:32      | and tinker it together. One thing you could do with the [[Keyboard Maestro]], and I know you're               |
 | 50:37      | already doing this on your Mac keyboard. But this is kind of an interesting thing. I process email        |
-| 50:42      | often. I'm sorry, not Keyboard Maestro on the Stream Deck. But I process email with the stream            |
+| 50:42      | often. I'm sorry, not [[Keyboard Maestro]] on the Stream Deck. But I process email with the stream            |
 | 50:48      | deck where I've set buttons to move to certain folders or archive or delete. And since I have             |
 | 50:57      | three primary accounts, I've got the personal Mac sparking the legal. I've got these buttons set up.      |
 | 51:02      | So I've got like a little, like quick entry board on the Stream Deck. One of the buttons I use,           |
@@ -622,7 +622,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 56:07      | like whatever the active window is may end up being more work than                                        |
 | 56:13      | clicking through but that's something to look at for sure. Well it's a worthy application for             |
 | 56:21      | automation in that it does a very small amount of things and it does them very well and as we all         |
-| 56:28      | know automation tools they're the big ones like Keyboard Maestro that can do 8,000 things and             |
+| 56:28      | know automation tools they're the big ones like [[Keyboard Maestro]] that can do 8,000 things and             |
 | 56:34      | are amazing at them and then there's little ones like Moom or default folder X which do                   |
 | 56:40      | one thing but they do it really well and that's you know both all of those tools are worthy of this.      |
 | 56:48      | I don't think we've ever covered default folder X on this show and additional automation things           |

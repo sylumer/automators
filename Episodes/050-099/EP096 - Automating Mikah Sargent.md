@@ -419,7 +419,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 22:44      | Our thanks to LinkedIn Jobs for their support of this show and all of Relay FM.                        |
 | 22:49      | Michael, what automation platforms do you use most often?                                               |
 | 22:53      | I was looking through my list and I realised, wow, I do use quite a few more than I realised.           |
-| 23:00      | There's Keyboard Maestro, TextExpander, which of course I mentioned, HomeKit, which                    |
+| 23:00      | There's [[Keyboard Maestro]], TextExpander, which of course I mentioned, HomeKit, which                    |
 | 23:05      | is in some ways just shortcuts, but in other ways is its own set of automations within                  |
 | 23:11      | HomeKit.                                                                                                |
 | 23:12      | We've got [[Bunch]], we're just talking about [[Brett Terpstra]], [[Zapier]], [[IFTTT]], which Zapier                   |
@@ -487,7 +487,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 27:50      | They just tell you about X and they go down the wrong path.                                             |
 | 27:54      | That's something that I try to be incredibly aware of with all kinds of automations because             |
 | 27:59      | it really allows me to avoid pigeonholing myself with the, well, I started doing this                   |
-| 28:04      | as a Keyboard Maestro macro, so therefore it has to be a Keyboard Maestro macro.                        |
+| 28:04      | as a [[Keyboard Maestro]] macro, so therefore it has to be a [[Keyboard Maestro]] macro.                        |
 | 28:07      | No, the end goal is whatever it is that I'm trying to achieve here, however, it can be                  |
 | 28:12      | achieved.                                                                                               |
 | 28:14      | That allows me to just sort of search around and also I have a tendency, especially when                |
@@ -527,7 +527,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 30:14      | To me, automation, I guess I have a little more technical view of it.                                   |
 | 30:18      | To me, it's two things.                                                                                 |
 | 30:19      | It's a trigger combined with a series of actions and a trigger can be something automatic,              |
-| 30:26      | like Rose sitting on her chair or you pushing a button in Keyboard Maestro.                             |
+| 30:26      | like Rose sitting on her chair or you pushing a button in [[Keyboard Maestro]].                             |
 | 30:32      | It doesn't matter.                                                                                      |
 | 30:33      | Trigger is a trigger, but the automation part is really what comes after the trigger and                |
 | 30:38      | that's like saying, okay, rather than me, go through all the steps to copy this text,                   |
@@ -559,7 +559,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 32:11      | And before you know it, you've got a pretty complex automation.                                         |
 | 32:13      | Yeah.                                                                                                   |
 | 32:14      | And see what's interesting is I do that in TextExpander whenever I'm creating macros                    |
-| 32:20      | or in Keyboard Maestro when I am.                                                                       |
+| 32:20      | or in [[Keyboard Maestro]] when I am.                                                                       |
 | 32:23      | And for some reason, I'd never thought to do that in shortcuts, but yeah, that makes                    |
 | 32:27      | sense and would make it much easier.                                                                    |
 | 32:29      | I mean, shortcuts doesn't have the tool set for it, so you have to kind of make it yourself.            |
@@ -750,27 +750,27 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 44:30      | and you'll get 25% off your membership.                                                                 |
 | 44:33      | That's fitbod.me/automators for 25% off.                                                          |
 | 44:38      | Our thanks to FitBod for their support of the automators and all of Relay FM.                           |
-| 44:43      | Micah, you mentioned Keyboard Maestro, and I know I sent you a few macros in the past,                  |
+| 44:43      | Micah, you mentioned [[Keyboard Maestro]], and I know I sent you a few macros in the past,                  |
 | 44:47      | but what are you doing with it? Because I know you're doing lots of things.                             |
-| 44:51      | Yeah, so Keyboard Maestro has quickly become the tool that I use most when it comes to                  |
+| 44:51      | Yeah, so [[Keyboard Maestro]] has quickly become the tool that I use most when it comes to                  |
 | 44:58      | automation stuff. One of my most common ones is, oh man, I just get so much satisfaction                |
 | 45:05      | out of it every time I use it. There are to this day still applications and websites that think         |
 | 45:12      | that it is a security feature to not let you paste into the password field and a security               |
 | 45:20      | feature to not let you paste into the account number, routing number field if you're making a           |
-| 45:27      | purchase. So you have to actually type it out, but Keyboard Maestro has this fantastic macro            |
+| 45:27      | purchase. So you have to actually type it out, but [[Keyboard Maestro]] has this fantastic macro            |
 | 45:36      | that, again, I use all the time when I need to and just look so smugly at this app or website           |
 | 45:41      | that's not letting me do what I need to do, called Type Clipboard. For folks who don't know,            |
 | 45:47      | it is a simple macro. All it does is it takes what you've put on your clipboard,                        |
 | 45:53      | and it makes the computer think that you are typing it in, but of course, it types it in                |
-| 45:58      | very quickly. So even though you can't Command V or Control V into the field, Keyboard Maestro can      |
-| 46:06      | essentially do the same thing to make that happen. I just love that Keyboard Maestro macro and,         |
+| 45:58      | very quickly. So even though you can't Command V or Control V into the field, [[Keyboard Maestro]] can      |
+| 46:06      | essentially do the same thing to make that happen. I just love that [[Keyboard Maestro]] macro and,         |
 | 46:13      | as I said, I use it all the time. The other one that I use regularly,                                   |
 | 46:17      | I live in a two-bedroom house, and the second bedroom is my studio-slash-office space,                  |
 | 46:28      | and so I'm often in here because it's also my craft area and everything else that it serves as,         |
 | 46:35      | and so I'm often in here not doing computer stuff. Occasionally, though, you might brush up against     |
 | 46:41      | the mouse or the keyboard or something like that, which wakes the computer, and there are many reasons  |
 | 46:48      | why you might not want to log out or sleep the computer, but you just don't want the displays           |
-| 46:54      | on because you're not using the computer at that time. So I have a simple macro in Keyboard Maestro     |
+| 46:54      | on because you're not using the computer at that time. So I have a simple macro in [[Keyboard Maestro]]     |
 | 47:00      | that's called Turn Off Displays, and it just runs the shell script pmset display sleep now,                |
 | 47:07      | which will turn off all the displays but not make everything go to sleep. I should also mention that    |
 | 47:14      | I trigger all of these using the Stream Deck from Elgato. It is my little button presser,               |
@@ -780,7 +780,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 47:39      | Sturm. If you haven't had him on the show, you should absolutely have him on the show because           |
 | 47:44      | that guy automates as much of his life as possible. He's a director and producer and currently works    |
 | 47:52      | at Sandwich Video, which makes ads and stuff like that. You seriously should have him on the show.      |
-| 47:57      | I can help you get in touch if you haven't. He helped me set up a macro in Keyboard Maestro that        |
+| 47:57      | I can help you get in touch if you haven't. He helped me set up a macro in [[Keyboard Maestro]] that        |
 | 48:05      | then I talked to Rosemary about because there were a couple of things that he and I were trying to      |
 | 48:09      | work out that I couldn't quite get, and these have helped me in my day-to-day work life.                |
 | 48:17      | When I'm not hosting podcasts, I also produce a few podcasts at TWIT, and production                    |
@@ -798,7 +798,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 49:33      | headline of the page, copying and pasting it into this, I use IA writer as the show note                |
 | 49:39      | creation tool, and then pasting and pasting the link from each of those tabs. Obviously,                |
 | 49:46      | that took a lot of time, and I knew that that process could be automated. Dan Sturm helped              |
-| 49:53      | me create a Keyboard Maestro macro that helped me to see all of those Safari tabs, get the              |
+| 49:53      | me create a [[Keyboard Maestro]] macro that helped me to see all of those Safari tabs, get the              |
 | 50:03      | headline from those pages, because usually it's the title that gets put into the tab.                   |
 | 50:09      | Grab it from there. I think tab names is the deal in AppleScript or whatever. Then                      |
 | 50:18      | there's a little bit of regular expression work that happens because the set of tabs always             |
@@ -1124,10 +1124,10 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:22:11   | And that's not really a good answer, because you shouldn't have to subscribe to three of these.         |
 | 01:22:17   | Right, right. But they all have their uses. But like you, I am also leery of local-based                |
 | 01:22:25   | cloud automation. If it's something that's going to be local, I'd much rather do it in                  |
-| 01:22:31   | Keyboard Maestro, Shortcuts, Texas Commander, whatever, then have it go to the internet to              |
+| 01:22:31   | [[Keyboard Maestro]], Shortcuts, Texas Commander, whatever, then have it go to the internet to              |
 | 01:22:37   | do an automation. And the usage for these just really scales with your usage of cloud-based             |
 | 01:22:44   | services. If you've got a bunch of those, these are better than something local. Like trying to         |
-| 01:22:50   | get Keyboard Maestro to open up some web service in Safari and navigate to the right page and           |
+| 01:22:50   | get [[Keyboard Maestro]] to open up some web service in Safari and navigate to the right page and           |
 | 01:22:57   | insert text is very dicey. Whereas with these cloud-based services, you can automate that and           |
 | 01:23:04   | it all happens through the API and it works every time. And that's what we're looking for.              |
 | 01:23:09   | Yeah, yeah. That is really where the trick is. And also, I tend to find just because of networks        |
@@ -1169,7 +1169,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:27:14   | interval, [[Hazel]] is probably not the right tool for that. [[Hazel]] is great for this file is just           |
 | 01:27:19   | appeared in this folder, or this file appeared in this folder x period of time ago. And then it         |
 | 01:27:24   | can go through matching other criteria and so on and so forth, which is really useful and great.        |
-| 01:27:30   | But if you want something to happen periodically, Keyboard Maestro has a really excellent time          |
+| 01:27:30   | But if you want something to happen periodically, [[Keyboard Maestro]] has a really excellent time          |
 | 01:27:34   | trigger. And that can also do the if statements, of course, to check, hey, is this a location           |
 | 01:27:40   | available? Nope, okay, I'll try again later, or whatever it is. And of course, that means that          |
 | 01:27:46   | you can easily run that macro manually at any point that you want to as well, allowing you to           |
@@ -1177,7 +1177,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:27:57   | nest that you've just created with the date slug incorrectly formatted, because year must come          |
 | 01:28:02   | first. I only say that because that way if you sort them alphabetically, then they are sorted           |
 | 01:28:07   | from oldest to newest or newest to oldest automatically, which is it's a nice extra.                    |
-| 01:28:11   | But if you want month first, I suppose I can let it happen. But Keyboard Maestro is probably the        |
+| 01:28:11   | But if you want month first, I suppose I can let it happen. But [[Keyboard Maestro]] is probably the        |
 | 01:28:16   | right tool for that one. It can do a lot of the things that [[Hazel]] can do as well, where it can          |
 | 01:28:20   | watch folders and move files and things around. And if you want to use it for that, it's great.         |
 | 01:28:26   | I personally end up using all of them. But it's definitely a case of the right tool for the right       |

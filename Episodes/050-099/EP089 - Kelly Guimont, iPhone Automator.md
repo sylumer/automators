@@ -412,15 +412,15 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 26:14      | to post your job for free. Terms and conditions do apply. Our thanks to LinkedIn jobs for their          |
 | 26:20      | support of the automators podcast and all of Relay FM. All right, Kelly, this next topic is             |
 | 26:28      | one that is completely selfish for me. You make a few podcasts as you had said earlier, but you          |
-| 26:37      | have a set of Keyboard Maestro scripts that you have generated to help you in that process.              |
+| 26:37      | have a set of [[Keyboard Maestro]] scripts that you have generated to help you in that process.              |
 | 26:42      | I understand that everybody listening in the audience is making a podcast, but hopefully                 |
 | 26:46      | the idea is Kelly's about to share can help you figure out some for whatever it is you do,               |
 | 26:52      | and what she's about to share will definitely help me. So here we go. Tell me about your                 |
-| 26:58      | Keyboard Maestro podcasting short automations. Okay, so there's a little bit to it, and mostly           |
-| 27:09      | it's using Keyboard Maestro for timestamps for a lot of things. So I got a set of Keyboard Maestro       |
+| 26:58      | [[Keyboard Maestro]] podcasting short automations. Okay, so there's a little bit to it, and mostly           |
+| 27:09      | it's using [[Keyboard Maestro]] for timestamps for a lot of things. So I got a set of [[Keyboard Maestro]]       |
 | 27:20      | macros from Dave Hamilton, who does Mac Geek Gab. He does the small business show gig gab                  |
 | 27:27      | and shows up on daily observations with me sometimes over at Mac observer. And so he had he              |
-| 27:34      | put together this library of Keyboard Maestro macros. And part of what they do is make it so             |
+| 27:34      | put together this library of [[Keyboard Maestro]] macros. And part of what they do is make it so             |
 | 27:44      | that when so you can be capturing, but then when you actually hit record, it resets the clock on         |
 | 27:51      | audio hijack back to zero on your session. So that and then once you do that, and like for me,           |
 | 27:59      | for example, the one that I do, it resets everything to zero. And then it invokes Farrago                 |
@@ -460,7 +460,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 31:25      | And I just love the way everybody in the automation community is so generous with this stuff             |
 | 31:29      | and shares ideas. And that gives me ideas that I can now use and kind of evolve upon what you            |
 | 31:37      | guys have done. So that's awesome. And we won't dwell on this one, but there's a post and you            |
-| 31:44      | can download the Keyboard Maestro script if you have a need to run timestamps. This is going to          |
+| 31:44      | can download the [[Keyboard Maestro]] script if you have a need to run timestamps. This is going to          |
 | 31:49      | be a game changer for you. But you also have one that we talked about as we were prepping for            |
 | 31:55      | today that I think everybody needs to hear about. Tell us about your AirPods, Kelly.                     |
 | 32:01      | Okay. So my setup, as I mentioned, I have a day job and then I have obviously my own computer.           |

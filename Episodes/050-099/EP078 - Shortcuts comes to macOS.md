@@ -210,7 +210,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 09:32      | And number two, I was worried about if Apple shows up with shortcuts on the Mac, what,                                    |
 | 09:38      | you know, are they going to start lobbying hand grenades at their competition?                                            |
 | 09:43      | And like, are they going to disable AppleScript or are they going to make it so apps                                     |
-| 09:49      | like Keyboard Maestro can't work on a Mac?                                                                                |
+| 09:49      | like [[Keyboard Maestro]] can't work on a Mac?                                                                                |
 | 09:52      | And that's not the case.                                                                                                  |
 | 09:54      | I mean, I think my worries were ill founded in hindsight because just on the, you know,                                   |
 | 10:01      | zooming out on the 50,000 foot level, we've got shortcuts on the Mac, which brings over                                   |
@@ -220,7 +220,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 10:19      | They have not removed it.                                                                                                 |
 | 10:20      | Not only have they not removed it, they've added support for it in the new shortcuts,                                     |
 | 10:24      | which means Apple is kind of on board with that stuff.                                                                    |
-| 10:27      | And consequently, Keyboard Maestro, [[Hazel]], Shell scripting, AppleScripting, all that                                     |
+| 10:27      | And consequently, [[Keyboard Maestro]], [[Hazel]], Shell scripting, AppleScripting, all that                                     |
 | 10:34      | stuff is here, you know, for the long haul and people can go down that deep if they want                                  |
 | 10:40      | to stay at the shortcuts level and make nice little shortcuts and not worry about it.                                     |
 | 10:44      | Yeah.                                                                                                                     |
@@ -462,7 +462,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 25:25      | Yeah.                                                                                                                     |
 | 25:26      | And I think that's the trick, isn't it?                                                                                   |
 | 25:28      | You know, shortcuts is shortcuts.                                                                                         |
-| 25:30      | It's not Keyboard Maestro.                                                                                                |
+| 25:30      | It's not [[Keyboard Maestro]].                                                                                                |
 | 25:31      | It is not [[Hazel]].                                                                                                          |
 | 25:33      | It's none of the macOS applications that we are used to using right now for automation                                    |
 | 25:40      | purposes.                                                                                                                 |
