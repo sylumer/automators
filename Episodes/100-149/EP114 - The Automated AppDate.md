@@ -1130,7 +1130,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:06:44   | It's, you know, now we're at release and it's still not there.                                         |
 | 01:06:46   | And like you can't work around that stuff.                                                             |
 | 01:06:48   | Like the Mail one, you can use it.                                                                     |
-| 01:06:51   | There's a BetterTouchTool action to trigger a keyboard shortcut than you then you use the            |
+| 01:06:51   | There's a [[BetterTouchTool]] action to trigger a keyboard shortcut than you then you use the            |
 | 01:06:56   | the Mail feature to, you know, use a keyboard shortcut to open the box.                                |
 | 01:07:01   | But that's like two or three actions.                                                                  |
 | 01:07:03   | It's a point of failure.                                                                               |

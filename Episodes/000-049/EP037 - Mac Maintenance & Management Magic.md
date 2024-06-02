@@ -594,7 +594,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 47:22      | trying to read from left to right, because 32 inches diagonally of text is just way too much.           |
 | 47:28      | So I never use that with just one application in full screen. If I am using full screen,                |
 | 47:33      | I always drag a second application into it. But most of the time, I actually use better touch           |
-| 47:37      | tool, because BetterTouchTool has these areas that you can create. And when you drag an app,          |
+| 47:37      | tool, because [[BetterTouchTool]] has these areas that you can create. And when you drag an app,          |
 | 47:43      | then, or if you drag a window, it will show these areas temporarily. And if you drag an app             |
 | 47:48      | into that, then it will resize it to whatever it is that you've set. So because my monitor is so        |
 | 47:54      | wide, I've actually got a couple of different options. I have my 50% left and right, which              |

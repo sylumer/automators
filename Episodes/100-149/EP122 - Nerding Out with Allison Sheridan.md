@@ -508,7 +508,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 35:51      | they have customers that buy a lot of Macs that do workflows that still use AppleScript. Apple         |
 | 35:56      | uses AppleScripts to run their stuff. So I think it's not going to go away. And honestly, a lot        |
 | 36:01      | of times it's the quickest, fastest solution. This week, because my Stream Deck I'm putting it on,      |
-| 36:09      | I've been trying to BetterTouchTool, I want to turn volume up and down in [[Apple Music]]                 |
+| 36:09      | I've been trying to [[BetterTouchTool]], I want to turn volume up and down in [[Apple Music]]                 |
 | 36:14      | without changing the volume of my Mac. And I just opened AppleScript. I looked at the music            |
 | 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line AppleScript            |
 | 36:24      | that turns the volume up and down. And I attached it to buttons on my Stream Deck. And maybe I          |

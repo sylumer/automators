@@ -875,7 +875,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 44:05      | now use and trigger combinations with the rest of the keyboard.                                       |
 | 44:08      | So like for me, holding down hyperkey terms, H, J, K and else into arrow keys for me.                 |
 | 44:17      | Just as an example.                                                                                   |
-| 44:18      | And it basically anything you can then program with Keyboard Maestro or BetterTouchTool,            |
+| 44:18      | And it basically anything you can then program with Keyboard Maestro or [[BetterTouchTool]],            |
 | 44:24      | you can then assign to keys with abandon because it's you're not going to overwrite any other         |
 | 44:29      | shortcuts with them.                                                                                  |
 | 44:31      | And then if you just tap it once, it's an escape key.                                                 |
@@ -931,7 +931,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 47:37      | and lowercase and title case, or title casing an entire paragraph, like, you know, that's             |
 | 47:43      | the kind of thing that actually I need.                                                               |
 | 47:44      | Why am I not using this thing?                                                                        |
-| 47:49      | Do you guys know that BetterTouchTool can do sequences now?                                         |
+| 47:49      | Do you guys know that [[BetterTouchTool]] can do sequences now?                                         |
 | 47:52      | No.                                                                                                   |
 | 47:53      | So you can, you can have series of keys triggered.                                                    |
 | 47:59      | So like, basically, like I was talking about with control command W, and then another key,            |
@@ -948,10 +948,10 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 48:53      | So I have a lot of fun with that kind of stuff.                                                       |
 | 48:56      | Okay.                                                                                                 |
 | 48:57      | And are you triggering that through key bindings?                                                     |
-| 48:58      | Are you doing that through BetterTouchTool?                                                         |
-| 49:02      | BetterTouchTool, like I have, I have the keyboard itself set up to just send function               |
+| 48:58      | Are you doing that through [[BetterTouchTool]]?                                                         |
+| 49:02      | [[BetterTouchTool]], like I have, I have the keyboard itself set up to just send function               |
 | 49:09      | 13 through like 21 keys, which exists, but no keyboard has them.                                      |
-| 49:18      | So it sends those and then I can just use a BetterTouchTool to do whatever I want                   |
+| 49:18      | So it sends those and then I can just use a [[BetterTouchTool]] to do whatever I want                   |
 | 49:24      | with them.                                                                                            |
 | 49:25      | Now, but you say now Keybow is a, is a keyboard through a Raspberry Pi.                                |
 | 49:31      | Yeah.                                                                                                 |
@@ -963,7 +963,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 49:43      | You can go on Amazon and buy any really ten key, right?                                                 |
 | 49:48      | Or you can even like, if you've got an extended keyboard, you could attach it to the number           |
 | 49:52      | pad keys.                                                                                             |
-| 49:53      | I mean, something people don't realise is BetterTouchTool that has, again, one of                   |
+| 49:53      | I mean, something people don't realise is [[BetterTouchTool]] that has, again, one of                   |
 | 50:01      | the, the, the most remarkable automation tools out there for the Mac.                                 |
 | 50:07      | But the developer has got to that inflection point where he can now work on this full time.           |
 | 50:12      | Yeah.                                                                                                 |
@@ -973,22 +973,22 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 50:18      | And, and so that's really great because now we're getting some like, I didn't know that               |
 | 50:22      | feature was added, but just the other day someone was telling me, well, I've got the                  |
 | 50:25      | touch bar and I hate it and there's nothing good about it.                                            |
-| 50:28      | I said, go download BetterTouchTool.                                                                |
+| 50:28      | I said, go download [[BetterTouchTool]].                                                                |
 | 50:30      | If you have a touch bar on your laptop, you can put stuff on there like the time or whatever,         |
 | 50:35      | you know, just pieces of data that are important to you are just going to show up there.              |
-| 50:40      | And I feel like BetterTouchTool is like, I mean, it'll never get sure locked because                |
+| 50:40      | And I feel like [[BetterTouchTool]] is like, I mean, it'll never get sure locked because                |
 | 50:47      | it's too nerdy, but man, Apple didn't even think about that stuff when they shipped the,              |
 | 50:53      | you know, this touch bar.                                                                             |
 | 50:54      | But anyway.                                                                                           |
 | 50:55      | Well, and all the way back to its original intention with the track pad, like I am so                 |
-| 51:01      | used to having BetterTouchTool so that when I hold down my first finger and my ring finger          |
+| 51:01      | used to having [[BetterTouchTool]] so that when I hold down my first finger and my ring finger          |
 | 51:07      | and then tap my middle finger in between, it refreshes my web page.                                    |
 | 51:10      | Yeah.                                                                                                 |
 | 51:11      | Like I don't even think about those gestures anymore.                                                 |
 | 51:14      | They just become so ingrained.                                                                        |
-| 51:15      | I, I would cry if BetterTouchTool stop working.                                                     |
+| 51:15      | I, I would cry if [[BetterTouchTool]] stop working.                                                     |
 | 51:19      | Or when you sit down at a Mac, I had the same thing I've got, it's like playing the piano             |
-| 51:23      | when I sit and use my, my touch pad, I've got so many different BetterTouchTool things              |
+| 51:23      | when I sit and use my, my touch pad, I've got so many different [[BetterTouchTool]] things              |
 | 51:27      | going on and I sat down on my wife's computer and I just, I, I try to do my, my piano moves,          |
 | 51:33      | play my chords, right?                                                                                |
 | 51:35      | Nothing works.                                                                                        |
@@ -999,15 +999,15 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 51:41      | And once you get used to a hyper key and you're on someone else's computer and it really is           |
 | 51:44      | just a cap slot key, that'll mess you up constantly.                                                  |
 | 51:47      | Yeah.                                                                                                 |
-| 51:48      | But I mean, so with BetterTouchTool, it works with the magic mouse track pads, keyboards.           |
+| 51:48      | But I mean, so with [[BetterTouchTool]], it works with the magic mouse track pads, keyboards.           |
 | 51:55      | I think it works with that, that hand wavy thing, the leap thing, motioning.                          |
 | 52:00      | Yeah.                                                                                                 |
 | 52:01      | Yeah.                                                                                                 |
 | 52:02      | It works with a touch bar.                                                                            |
-| 52:03      | That's how, all of my automation with that is through a BetterTouchTool.                            |
+| 52:03      | That's how, all of my automation with that is through a [[BetterTouchTool]].                            |
 | 52:06      | Yeah.                                                                                                 |
 | 52:07      | Oh man.                                                                                               |
-| 52:08      | You know, that is a, if you're listening and you haven't tried BetterTouchTool, just download       |
+| 52:08      | You know, that is a, if you're listening and you haven't tried [[BetterTouchTool]], just download       |
 | 52:11      | it.                                                                                                   |
 | 52:12      | It is such a great application for people who want to make more of automation.                        |
 | 52:16      | And what Brett was talking about earlier is you can make custom touches on the track                  |
@@ -1024,7 +1024,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 52:56      | And you'd probably do the opposite for the other.                                                     |
 | 52:58      | Yeah.                                                                                                 |
 | 52:59      | And if I go one, two, four, three, it'll centre the window.                                           |
-| 53:03      | So the automators listeners, if we get you doing the key bindings and BetterTouchTool,              |
+| 53:03      | So the automators listeners, if we get you doing the key bindings and [[BetterTouchTool]],              |
 | 53:11      | you're going to completely change the way you use your Mac.                                           |
 | 53:14      | And we should mention, if anybody has set up and they haven't installed better touch                  |
 | 53:19      | tool, it's part of set up now as well, so you can get it through there.                               |
@@ -1074,7 +1074,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 55:53      | touch to install to start with, and I kept tapping on things with three fingers.                      |
 | 55:58      | And nothing was happening.                                                                            |
 | 55:59      | And this was very confusing.                                                                          |
-| 56:00      | And I was like, ah, I'm missing BetterTouchTool because I use three finger tap as a middle          |
+| 56:00      | And I was like, ah, I'm missing [[BetterTouchTool]] because I use three finger tap as a middle          |
 | 56:05      | click, which in Chrome, Safari, Firefox will open a link in a new tab.                                |
 | 56:12      | And very basic one.                                                                                   |
 | 56:15      | Do you use PopClip?                                                                                  |
@@ -1082,7 +1082,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 56:17      | I do not.                                                                                             |
 | 56:18      | But I know that you have a whole series of actions for PopClip.                                      |
 | 56:21      | I do.                                                                                                 |
-| 56:22      | But what I'm going to say, though, is actually still BetterTouchTool because I can stay             |
+| 56:22      | But what I'm going to say, though, is actually still [[BetterTouchTool]] because I can stay             |
 | 56:25      | on topic.                                                                                             |
 | 56:27      | Um, uh, David, when you, uh, does it ever fail to bring up the PopClip window after                  |
 | 56:33      | you've selected?                                                                                      |
@@ -1123,7 +1123,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 58:07      | So using a trackpad is then hand floating, not very comfortable.                                      |
 | 58:11      | Right.                                                                                                |
 | 58:12      | Very unergonomic.                                                                                     |
-| 58:13      | BetterTouchTool works with a magic mouse.                                                           |
+| 58:13      | [[BetterTouchTool]] works with a magic mouse.                                                           |
 | 58:15      | I don't feel that it's nearly as powerful though.                                                     |
 | 58:18      | I mean, you need the space to, you know, you got to be able to put four fingers on it.                |
 | 58:22      | And once you accept that you can do like those four finger touches and all the varieties              |
@@ -1131,7 +1131,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 58:30      | And I think the answer to it, if you're trying this stuff out is every time you get annoyed           |
 | 58:35      | that you're using your mouse, you know, like every time you have to slow down and focus               |
 | 58:39      | to get the mouse pointer exactly where you want it, just ask yourself if this is something            |
-| 58:43      | you can't just automate with a BetterTouchTool gesture.                                             |
+| 58:43      | you can't just automate with a [[BetterTouchTool]] gesture.                                             |
 | 58:47      | Because there are, there are so many gestures, you know, three finger gestures, four finger           |
 | 58:51      | gestures, two finger gestures, swiping, I mean, it's just crazy how much you can do                   |
 | 58:56      | with it.                                                                                              |
@@ -1144,7 +1144,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 59:09      | Like you can use it.                                                                                  |
 | 59:10      | I haven't either.                                                                                     |
 | 59:11      | I only have one Siri remote and it's from ITV, so yeah, yeah, but what I love about                   |
-| 59:16      | BetterTouchTool though is you can also set this to only do things in specific applications          |
+| 59:16      | [[BetterTouchTool]] though is you can also set this to only do things in specific applications          |
 | 59:20      | or in general do it, but not in this application, which is great if you want to create some           |
 | 59:24      | stuff for just Photoshop, but you don't want the same thing to activate when you're using             |
 | 59:28      | pages.                                                                                                |

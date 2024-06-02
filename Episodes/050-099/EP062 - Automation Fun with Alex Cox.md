@@ -806,10 +806,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:19:13   | understand what you say about like trying to learn this stuff. Are there any areas of automation        |
 | 01:19:18   | that you're looking to go deeper on that you just haven't got to yet? And what, you know,               |
 | 01:19:22   | what are you thinking about in the future as an automator? Absolutely. Keyboard,                        |
-| 01:19:28   | maestro, and BetterTouchTool, because I am primarily a trackpad person. I always have been            |
+| 01:19:28   | maestro, and [[BetterTouchTool]], because I am primarily a trackpad person. I always have been            |
 | 01:19:37   | because until this year, I think this this year, I got an iMac pro for work, and it's been              |
 | 01:19:46   | amazing. But I literally haven't used a desktop as my main computer since my first iMac when I was      |
-| 01:19:53   | 11. So I mean, there's so much to do with BetterTouchTool. And with keyword, maestro, I forget        |
+| 01:19:53   | 11. So I mean, there's so much to do with [[BetterTouchTool]]. And with keyword, maestro, I forget        |
 | 01:20:04   | who started the Stream Deck trend. But wow, the Stream Deck is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |

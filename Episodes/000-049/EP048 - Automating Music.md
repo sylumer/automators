@@ -446,15 +446,15 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:56      | Yeah.                                                                                                  |
 | 21:57      | I'm a really big fan of Keyboard Maestro.                                                              |
 | 21:59      | Just like you, I also have the [[Alfred]] plugin, but I found myself not really using it.                  |
-| 22:03      | The only other thing that I have tried, which is BetterTouchTool, you can, it can control            |
+| 22:03      | The only other thing that I have tried, which is [[BetterTouchTool]], you can, it can control            |
 | 22:10      | the touch bar on a touch bar device.                                                                   |
 | 22:14      | One of the many things that it can do is it can put the, the information about the currently           |
 | 22:18      | playing track in there.                                                                                |
 | 22:20      | And I'm not going to say that's necessarily an automation is more of a, a fun hack slash               |
-| 22:24      | tool, um, but it's, it's great fun and BetterTouchTool is definitely an automation tool.             |
+| 22:24      | tool, um, but it's, it's great fun and [[BetterTouchTool]] is definitely an automation tool.             |
 | 22:29      | So you can, you can call yourself an automator, even if you only use it to do that.                    |
 | 22:32      | Yeah.                                                                                                  |
-| 22:33      | We just covered BetterTouchTool over on Mac power user yourself.                                     |
+| 22:33      | We just covered [[BetterTouchTool]] over on Mac power user yourself.                                     |
 | 22:36      | You're interested in that one.                                                                         |
 | 22:37      | There's a whole episode on it over there.                                                              |
 | 22:38      | And we'll put a link to that in the show notes as well.                                                |

@@ -689,29 +689,29 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 43:52      | What are the non shortcuts automation platforms you're using at this point on your Mac?               |
 | 44:00      | I think the sort of the auxiliary tools that I'm using, I'm mostly copying copying copying            |
 | 44:07      | from John. So John has gone, I think has a few more examples to share here. But John                  |
-| 44:12      | really introduced me to this sort of cult in a good way of BetterTouchTool. All the                 |
-| 44:20      | things you can do with BetterTouchTool, if you combine that with shortcuts. So that's               |
+| 44:12      | really introduced me to this sort of cult in a good way of [[BetterTouchTool]]. All the                 |
+| 44:20      | things you can do with [[BetterTouchTool]], if you combine that with shortcuts. So that's               |
 | 44:25      | also something that I've been doing. Especially in terms of sending keystrokes to apps from           |
-| 44:35      | a shortcut via the BetterTouchTool action. And I'm actually surprised that Apple doesn't            |
-| 44:41      | have a native version of this, that you have to use the BetterTouchTool action to simulate          |
+| 44:35      | a shortcut via the [[BetterTouchTool]] action. And I'm actually surprised that Apple doesn't            |
+| 44:41      | have a native version of this, that you have to use the [[BetterTouchTool]] action to simulate          |
 | 44:46      | sending a keystroke to an app. But for example, I have a shortcut that in the music app for           |
 | 44:52      | Mac, it lets me view the lyrics sidebar. When I'm listening to a song and I want to check             |
 | 44:59      | out the lyrics, lyrics on the Mac are a sidebar on the right side of the screen. And I wanted         |
 | 45:04      | to have this quick way to toggle the lyrics sidebar from the keyboard. So I built this                |
-| 45:09      | shortcut that uses the BetterTouchTool sends a keystroke, I think it's called action to             |
+| 45:09      | shortcut that uses the [[BetterTouchTool]] sends a keystroke, I think it's called action to             |
 | 45:17      | toggle back and forth between hiding the sidebar and showing the sidebar. But yeah,                   |
 | 45:22      | essentially, because I'm new to all this and John has been using macOS for far longer than            |
-| 45:27      | I have, whenever he comes up with something that involves either BetterTouchTool or                 |
+| 45:27      | I have, whenever he comes up with something that involves either [[BetterTouchTool]] or                 |
 | 45:31      | [[Raycast]], I steal everything that John shares. Yeah, all right. And then I want to talk to             |
 | 45:38      | you about this, John, because to me, Better Touch is like the pot of gold in shortcuts,               |
-| 45:43      | like you install BetterTouchTool, which is a great app to do a bunch of stuff. But then             |
+| 45:43      | like you install [[BetterTouchTool]], which is a great app to do a bunch of stuff. But then             |
 | 45:46      | you look at it shortcut sections, and it's like, all of the stuff that fell off the back              |
-| 45:50      | of the truck at Apple got added to BetterTouchTool. I mean, not only can you trigger                |
+| 45:50      | of the truck at Apple got added to [[BetterTouchTool]]. I mean, not only can you trigger                |
 | 45:54      | short keyboard, you can also trigger menu items. I mean, I, when we had the Apple guys                |
 | 46:00      | on Mac Power users, I'd asked them, are you ever going to let us do that? And they, they              |
-| 46:04      | were very nice, but they kind of said no, you know, and, and BetterTouchTool is like,               |
+| 46:04      | were very nice, but they kind of said no, you know, and, and [[BetterTouchTool]] is like,               |
 | 46:09      | oh, no problem, we'll let you trigger anything in your menu bar with the shortcut. So what            |
-| 46:14      | do you do with BetterTouchTool, John?                                                               |
+| 46:14      | do you do with [[BetterTouchTool]], John?                                                               |
 | 46:17      | All sorts of things. I mean, it really is impressive because it came out of the gates                 |
 | 46:22      | when Monterey was released with an extensive list of actions that you can trigger that                |
 | 46:28      | I've just not seen any other developer really accomplish. First of all, at a minimum, the             |
@@ -721,29 +721,29 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 46:48      | a lot of the things that as Federico said, I'm doing triggering keyboard shortcuts. That's            |
 | 46:54      | something that you just don't have. And it's very explicitly not allowed because you can,             |
 | 47:00      | if you try to do it with AppleScript, you'll get an error that says that you can't send              |
-| 47:04      | keystrokes with AppleScript using shortcuts. So I always fall back with BetterTouchTool            |
+| 47:04      | keystrokes with AppleScript using shortcuts. So I always fall back with [[BetterTouchTool]]            |
 | 47:11      | on that because even sometimes when I'm trying to trigger a shortcut, you can obviously create        |
 | 47:18      | your own keyboard shortcuts in the shortcuts app itself. However, I found at least early,             |
-| 47:26      | in the first releases of Monterey, the BetterTouchTool implementation of that actually              |
+| 47:26      | in the first releases of Monterey, the [[BetterTouchTool]] implementation of that actually              |
 | 47:31      | running the shortcuts was more reliable. Now that's, that's a closer race now. I mean,                |
 | 47:36      | I think that that shortcuts is caught up there. But that's why I started relying on it so             |
 | 47:41      | heavily so quickly, because both it's both the reliability and the extensive list of                  |
 | 47:48      | things that you can do, you know, you can even do things like have a menu pop up on                   |
 | 47:53      | screen that'll show you shortcuts that you have in your library and pick from them using              |
-| 47:57      | that. I mean, there's another thing I did at one point was BetterTouchTool will allow               |
+| 47:57      | that. I mean, there's another thing I did at one point was [[BetterTouchTool]] will allow               |
 | 48:02      | you to create a little HTML window. And so I used a bunch of shortcuts actions to create              |
 | 48:10      | myself a little weather forecast that would pop up each morning. And when I arrived at                |
 | 48:16      | my desk, I'd have this window that would bring in information from the weather actions, information   |
 | 48:22      | from my Natatmo weather station that sits on the windowsill outside my house and a bunch              |
-| 48:27      | of other things like that. And that was all run through BetterTouchTool because I could             |
+| 48:27      | of other things like that. And that was all run through [[BetterTouchTool]] because I could             |
 | 48:32      | create this little quick HTML UI that would pop up. And then I ran it on a schedule because           |
-| 48:38      | scheduling is another feature of BetterTouchTool, which works really well too.                      |
-| 48:44      | Yeah. Yeah, BetterTouchTool really is great because it goes both ways. As you said, you             |
+| 48:38      | scheduling is another feature of [[BetterTouchTool]], which works really well too.                      |
+| 48:44      | Yeah. Yeah, [[BetterTouchTool]] really is great because it goes both ways. As you said, you             |
 | 48:49      | know, it does, it gives you the option to run shortcuts and it makes your shortcuts much              |
 | 48:52      | more powerful. So it's, it's, it's a little secret hack for everybody who's going, why                |
 | 48:58      | can't I do this in shortcuts?                                                                         |
 | 49:00      | Yeah, I was gonna say, Federico, anytime that there's something that I feel like I can't              |
-| 49:07      | do the first place I look is BetterTouchTool at this point. Yeah. Yeah. Yeah. Something             |
+| 49:07      | do the first place I look is [[BetterTouchTool]] at this point. Yeah. Yeah. Yeah. Something             |
 | 49:12      | that I mentioned, running shortcuts on the Mac with [[Raycast]] or [[LaunchBar]], that is actually            |
 | 49:18      | one thing that I wish [[Raycast]] would copy from [[LaunchBar]]. And that is when you're selecting            |
 | 49:26      | a shortcut in [[LaunchBar]], I believe you can press space or tab to enter some input for                 |

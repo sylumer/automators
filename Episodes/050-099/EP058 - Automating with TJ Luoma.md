@@ -999,7 +999,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:16:37   | there. And for a while, I was bringing it back and forth between my, my church off the stream                 |
 | 01:16:43   | deck back and forth. And that was, it does not fit in a laptop bag. You know, just get a second one           |
 | 01:16:49   | for as much as you're doing with it. I'm serious. I'm seeing two choices here, either get a second            |
-| 01:16:54   | Stream Deck or use something like BetterTouchTools or program the touch bar so that it's useful             |
+| 01:16:54   | Stream Deck or use something like [[BetterTouchTool\|BetterTouchTool's]] or program the touch bar so that it's useful             |
 | 01:16:59   | to you. I have been considering getting a second one because I have two machines I record at and              |
 | 01:17:03   | it's really frustrating for me to be here without it. But also at the same time, like, like TJ,               |
 | 01:17:08   | I've scripted a lot of stuff to keyboard shortcuts on Keyboard Maestro because so much of this stuff          |

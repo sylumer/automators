@@ -834,8 +834,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:05:17   | close one Safari window and that stuff is gone. But whatever else it is that I've got                     |
 | 01:05:22   | open is still around. And then I also, at the end, I trigger my Moom layout. And I really                 |
 | 01:05:29   | want to thank you for this one, David. Moom is a game changer for me. I'm still using                     |
-| 01:05:34   | BetterTouchTool for the snapping, though I know Moom could do it. I've just got it                      |
-| 01:05:37   | set up in BetterTouchTools. So I'm just leaving it there. But the Moom layout where                     |
+| 01:05:34   | [[BetterTouchTool]] for the snapping, though I know Moom could do it. I've just got it                      |
+| 01:05:37   | set up in [[BetterTouchTool]]s. So I'm just leaving it there. But the Moom layout where                     |
 | 01:05:41   | you can say, okay, so now, now there are these applications, put them specifically in these               |
 | 01:05:46   | places that these specific sizes is absolutely genius and has changed my workflow for the                 |
 | 01:05:51   | better. And so I'm really grateful to you for that, for recommending that recently.                       |

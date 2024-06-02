@@ -184,10 +184,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 09:09      | no more. I still have a work issued one. And when I plug it into this monitor, it works                  |
 | 09:13      | great. But, you know, this, this works really well. But most of the time I find that I tend              |
 | 09:19      | to work in vertical thirds. And I'm, I'm pretty much at the moment exclusively using                     |
-| 09:24      | BetterTouchTool for that, which is a great tool. And it's actually for mouse and, and                  |
+| 09:24      | [[BetterTouchTool]] for that, which is a great tool. And it's actually for mouse and, and                  |
 | 09:31      | trackpad management, primarily. And you can do all sorts of things like connect Siri remotes             |
 | 09:36      | and stuff to it. But what I'm using it for is what another smaller spin off application                  |
-| 09:43      | from it can do is better snap tool. And this is integrated into BetterTouchTool. And you               |
+| 09:43      | from it can do is better snap tool. And this is integrated into [[BetterTouchTool]]. And you               |
 | 09:49      | can create drag zone. So when you drag an application into that zone, then it automatically,             |
 | 09:55      | you know, can resize it to something that you set up. And you can customise all of that                  |
 | 09:58      | and set it up. But I've been struggling a little bit because it's a little bit fiddly                    |
@@ -248,7 +248,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 14:27      | at the preferences pane and going, okay, what is this? How do I use it? So, David, tell                  |
 | 14:31      | me how you are using Moom.                                                                               |
 | 14:33      | Yeah. What Moom does, there's a couple of, I mean, it is a window management tool. And                   |
-| 14:37      | out of the box, it does the stuff like BetterTouchTool where you can drag and you can                  |
+| 14:37      | out of the box, it does the stuff like [[BetterTouchTool]] where you can drag and you can                  |
 | 14:41      | have hot corners and do things like that. But what really I think makes it exceptional                   |
 | 14:46      | are two features. Number one is it allows you to do asymmetrical presets. So you can                     |
 | 14:52      | set a grid with as many boxes as you want. Like the grid I use is 8x6. So it looks at                    |

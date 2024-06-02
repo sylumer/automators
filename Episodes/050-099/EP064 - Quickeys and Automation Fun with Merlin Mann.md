@@ -1060,7 +1060,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 52:16      | the beauty and the curse of automation, I feel.                                                               |
 | 52:20      | All right, before we start recording today, Merlin mentioned a word that we haven't talked                    |
 | 52:25      | about much on the automators, but I've wanted to cover this for some time.                                    |
-| 52:30      | BetterTouchTool.                                                                                            |
+| 52:30      | [[BetterTouchTool]].                                                                                            |
 | 52:31      | It sounds to me like you're using it a lot.                                                                   |
 | 52:33      | What are you doing with it?                                                                                   |
 | 52:34      | I'm not using it a lot, a lot.                                                                                |
@@ -1073,14 +1073,14 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 52:55      | First because of its complexity, but even more because of that's exactly the kind of                          |
 | 53:00      | thing I could spend a month on.                                                                               |
 | 53:01      | And I don't want to do that.                                                                                  |
-| 53:03      | BetterTouchTool was like a fairly intuitive way to do things I wanted to like.                              |
+| 53:03      | [[BetterTouchTool]] was like a fairly intuitive way to do things I wanted to like.                              |
 | 53:08      | So for example, here on my Das keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
 | 53:14      | opens Drafts, 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
 | 53:20      | And I just wanted some really simple bonehead things like that.                                               |
 | 53:23      | When I ill-advisedly too early purchased the 2019 MacBook Pro, really wish I'd waited a                       |
 | 53:29      | little longer.                                                                                                |
 | 53:30      | Boy, that the touch bar, yeah.                                                                                |
-| 53:34      | And so I was, it's not great, but I was using BetterTouchTool on that on the laptop to                      |
+| 53:34      | And so I was, it's not great, but I was using [[BetterTouchTool]] on that on the laptop to                      |
 | 53:39      | do things that are very similar things like open Taskpaper, open this, open that.                            |
 | 53:42      | I know there's so much more that I can do with it, but that's the kind of basic stuff                         |
 | 53:46      | I've done.                                                                                                    |

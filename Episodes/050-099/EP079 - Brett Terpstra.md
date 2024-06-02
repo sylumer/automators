@@ -159,7 +159,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 04:46      | How'd you come up with the idea for it?                                                              |
 | 04:48      | Well, very much what you're describing, like I wanted at the base level, I just wanted               |
 | 04:55      | to be able to launch and quit a group of applications with one keystroke.                            |
-| 05:01      | And so obviously that was a combination of, in this case, BetterTouchTool and some Apple           |
+| 05:01      | And so obviously that was a combination of, in this case, [[BetterTouchTool]] and some Apple           |
 | 05:07      | script and the process of doing it once, not a big deal, but once you start wanting                  |
 | 05:13      | to expand that and have different sets of apps in different groups, it just seemed like              |
 | 05:18      | there should be, I just wanted to write it down in a plain text document and, and like               |
@@ -681,7 +681,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 36:43      | and literally make my computer jump into that project with one click and that to me is very          |
 | 36:49      | exciting.                                                                                            |
 | 36:50      | Yeah.                                                                                                |
-| 36:51      | Well, and to your point, like I love BetterTouchTool, I love Keyboard Maestro, I love              |
+| 36:51      | Well, and to your point, like I love [[BetterTouchTool]], I love Keyboard Maestro, I love              |
 | 36:58      | [[Hazel]], like these are, I'm not trying to replace those.                                              |
 | 37:02      | There are some things though that like building a context.                                           |
 | 37:06      | It's just way easier for me to just type it out rather than having to use a UI and add               |
@@ -834,17 +834,17 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 46:59      | How are you doing your Hyper Key?                                                                     |
 | 47:00      | Are you still using Karabiner?                                                                       |
 | 47:02      | Are you using something else?                                                                        |
-| 47:03      | So BetterTouchTool added the capability.                                                             |
+| 47:03      | So [[BetterTouchTool]] added the capability.                                                             |
 | 47:08      | But last time I tried it, it wasn't as lag-free and seamless as using Karabiner elements.            |
-| 47:17      | So I still am currently using Karabiner elements, but I use BetterTouchTool so much that if it       |
-| 47:24      | becomes truly viable, I will gladly consolidate and just do it all in BetterTouchTool.               |
+| 47:17      | So I still am currently using Karabiner elements, but I use [[BetterTouchTool]] so much that if it       |
+| 47:24      | becomes truly viable, I will gladly consolidate and just do it all in [[BetterTouchTool]].               |
 | 47:30      | And I'm hearing reports from people on Apple Silicon having significant problems with Karabiner?     |
 | 47:36      | Oh, I am not.                                                                                        |
 | 47:39      | Even with SIP enabled on my M1, Karabiner works fine, the latest versions do.                        |
 | 47:43      | Well, I heard from one listener who was having crashes until he had installed Karabiner and          |
 | 47:47      | then it started working fine.                                                                        |
 | 47:50      | I have not had that trouble.                                                                         |
-| 47:52      | So either way, I've been running it just on BetterTouchTool and it's been okay.                      |
+| 47:52      | So either way, I've been running it just on [[BetterTouchTool]] and it's been okay.                      |
 | 47:56      | But for the listeners who aren't aware, Hyper Key, I think did you coin that term, Brett, or          |
 | 48:02      | did you get that?                                                                                    |
 | 48:03      | No, I did not.                                                                                       |
@@ -884,7 +884,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 50:10      | my brain immediately went, yes, I like this, I shall use this only to discover that something        |
 | 50:16      | else had already co-opted it.                                                                        |
 | 50:18      | So if you want to take that a step further, then you get into key sequences, and you can             |
-| 50:24      | do this with a Keyboard Maestro, you can do it with BetterTouchTool, and you can do                |
+| 50:24      | do this with a Keyboard Maestro, you can do it with [[BetterTouchTool]], and you can do                |
 | 50:28      | it with, if you want to hack your own key bindings file, basically make it so that like on my        |
 | 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in Keyboard Maestro, and       |
 | 50:45      | then another letter will launch an app.                                                              |
@@ -1306,7 +1306,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:15:46   | Do you want to hear about the automation that I'm working on but have not solved yet?                |
 | 01:15:52   | Yes.                                                                                                 |
 | 01:15:53   | Oh, yes, please.                                                                                     |
-| 01:15:54   | So a BetterTouchTool can function as your default browser and perform actions if a URL             |
+| 01:15:54   | So a [[BetterTouchTool]] can function as your default browser and perform actions if a URL             |
 | 01:16:04   | matches a certain regex or like wild card string and then anything else that can pass                |
 | 01:16:12   | off to your default browser.                                                                         |
 | 01:16:15   | And so I want to have it so that when I click a work Zoom URL, it pipes that into a bunch            |
@@ -1315,11 +1315,11 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:16:35   | I just do better with speakers if I don't have to record my audio.                                   |
 | 01:16:39   | So change my audio settings and basically get my meetings all set up just by clicking                |
 | 01:16:45   | on a Zoom URL.                                                                                       |
-| 01:16:47   | I'm having a little trouble with the BetterTouchTool part of it, but it's going to work.           |
+| 01:16:47   | I'm having a little trouble with the [[BetterTouchTool]] part of it, but it's going to work.           |
 | 01:16:52   | I'm talking to Andreas right now.                                                                    |
 | 01:16:54   | It's going to work.                                                                                  |
 | 01:16:55   | It's going to be a cool automation.                                                                  |
-| 01:16:57   | I feel like BetterTouchTool because Andreas, the developer, has kind of gone 100% on that          |
+| 01:16:57   | I feel like [[BetterTouchTool]] because Andreas, the developer, has kind of gone 100% on that          |
 | 01:17:03   | app the last few years.                                                                              |
 | 01:17:06   | And I don't think the community, myself included, have acknowledged enough of what he has done       |
 | 01:17:12   | because that started out as an app to say, oh, this is where you can add cool features               |
@@ -1333,16 +1333,16 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:17:39   | And Andreas actually helped with several features in Bunch.                                          |
 | 01:17:42   | When it comes to automation, he's my guy.                                                            |
 | 01:17:46   | And yeah, honestly, even on my work laptop, there's no way I was working without installing          |
-| 01:17:50   | BetterTouchTool.                                                                                   |
+| 01:17:50   | [[BetterTouchTool]].                                                                                   |
 | 01:17:51   | Yeah.                                                                                                |
 | 01:17:52   | Yeah, it's the same.                                                                                 |
 | 01:17:53   | The app that I was using, and actually I'm still using it, I've not yet switched over                |
-| 01:17:58   | to BetterTouchTool for this, is Choosy.                                                            |
+| 01:17:58   | to [[BetterTouchTool]] for this, is Choosy.                                                            |
 | 01:18:02   | And Choosy works the same way pretty much.                                                           |
 | 01:18:05   | Which is the problem.                                                                                |
 | 01:18:06   | Yeah.                                                                                                |
 | 01:18:07   | That's what I'm talking to Andreas about is I want Choosy to be the default fallback                 |
-| 01:18:12   | browser, but when I try to add it as a custom URL command, BetterTouchTool is erasing my           |
+| 01:18:12   | browser, but when I try to add it as a custom URL command, [[BetterTouchTool]] is erasing my           |
 | 01:18:19   | custom command.                                                                                      |
 | 01:18:20   | If I can solve that one little problem, this automation I'm talking about is cake.                   |
 | 01:18:24   | It's done.                                                                                           |
@@ -1372,7 +1372,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:20:13   | I just had to probably solve recently BetterTouchTools that I, you know, you occasionally          |
 | 01:20:19   | click that green button, traffic button on your window and it goes into full screen mode,            |
 | 01:20:25   | which is kind of a train wreck.                                                                      |
-| 01:20:27   | And I didn't realise until recently you can program those buttons in BetterTouchTool.              |
+| 01:20:27   | And I didn't realise until recently you can program those buttons in [[BetterTouchTool]].              |
 | 01:20:33   | So now if I click on it, it just makes it a full screen window as opposed to full screen             |
 | 01:20:39   | mode, if that makes sense.                                                                           |
 | 01:20:41   | And then if I right click it, then it goes into full screen mode, which I hopefully will             |

@@ -384,7 +384,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 35:26      | which is another reason that I am excited about, like Apple just showing off what's essentially         |
 | 35:33      | an automation. And it's even more accessible. That's wild. I am so stoked about that. Well,             |
 | 35:42      | I'm very excited.                                                                                       |
-| 35:43      | It's another one they mentioned there and better snap tool, which is built into BetterTouchTool.      |
+| 35:43      | It's another one they mentioned there and better snap tool, which is built into [[BetterTouchTool]].      |
 | 35:49      | If you've got that, yeah, there's, there's a whole bunch of different options for this stuff.           |
 | 35:53      | I personally just like Moom, it works really, really well for me. It's silly easy to use,               |
 | 35:59      | I'm going to say, like, it took me a little while to figure out, like, how do I calculate one third     |

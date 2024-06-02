@@ -1369,7 +1369,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 54:44      | but I feel like we're getting the developers                      |
 | 54:49      | that are using shortcuts are usually coming in pretty shallow.    |
 | 54:53      | They're not going in very deep with it.                           |
-| 54:54      | Not everybody is BetterTouchTool.                               |
+| 54:54      | Not everybody is [[BetterTouchTool]].                               |
 | 54:57      | And I think that one of the reasons is                            |
 | 54:59      | is Apple could do a better job making it easier                   |
 | 55:01      | to integrate shortcuts with the core functions                    |
@@ -1464,7 +1464,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 58:47      | but everything works way better, I will be happy.                 |
 | 58:51      | Because I think the app developers                                |
 | 58:52      | will be adding things for us.                                     |
-| 58:54      | We're getting a BetterTouchTool                                 |
+| 58:54      | We're getting a [[BetterTouchTool]]                                 |
 | 58:56      | is the Trojan horse of shortcuts, right?                          |
 | 58:58      | And there'll be more of those                                     |
 | 58:59      | if they make the platform more stable.                            |
@@ -1862,7 +1862,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:14:34   | I definitely have a lot of input devices                          |
 | 01:14:37   | running around on my desk.                                        |
 | 01:14:38   | All right, let's talk about that at some point.                   |
-| 01:14:41   | Cause I do too, I have a track pad and BetterTouchTool.         |
+| 01:14:41   | Cause I do too, I have a track pad and [[BetterTouchTool]].         |
 | 01:14:44   | I think that's a feature topic,                                   |
 | 01:14:46   | but I want to get, before we finish today,                        |
 | 01:14:49   | I want to kind of get back to, you know, celebrating 100,         |

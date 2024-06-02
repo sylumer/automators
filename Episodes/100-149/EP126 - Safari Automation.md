@@ -762,7 +762,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 43:06      | I use a Keyboard Maestro shortcut because there is a Keyboard Maestro action called                |
 | 43:11      | toggle dark mode, which is great because then it's just one shortcut that just jumps between       |
 | 43:16      | them and I give it the hyper key plus D and I just, you know, I've mapped the hyper key            |
-| 43:21      | using BetterTouchTools.                                                                          |
+| 43:21      | using [[BetterTouchTool\|BetterTouchTool's]].                                                                          |
 | 43:23      | So caps lock plus D and I can switch in between them, which is how I solve the problem of          |
 | 43:28      | getting out of dark mode when I need to record.                                                    |
 | 43:31      | Fair.                                                                                              |

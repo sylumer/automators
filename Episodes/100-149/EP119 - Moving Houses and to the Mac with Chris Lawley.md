@@ -1627,7 +1627,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:30:32   | There are other like systems like extensions that you can download into the Stream Deck                   |
 | 01:30:37   | software for like Zoom, OBS, and I'm using it with Ecamm Live and things like that.                       |
 | 01:30:43   | So you can download that into the software or uninstall the Stream Deck software, install                 |
-| 01:30:49   | BetterTouchTool, and let BetterTouchTool take over your Stream Deck.                                  |
+| 01:30:49   | [[BetterTouchTool]], and let [[BetterTouchTool]] take over your Stream Deck.                                  |
 | 01:30:52   | See, I've been meaning to do that and I just haven't had time to do that.                                 |
 | 01:30:56   | I've heard, I think it was you that talked about it in the past that I heard you talk                     |
 | 01:30:59   | and I was like, oh, I should do that and I wrote it down and I've just never gotten                       |
@@ -1666,7 +1666,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:32:46   | bit of work, but I feel like it's worth it.                                                               |
 | 01:32:48   | And I, I've really been trying to get more stuff onto the Stream Deck and, and was particularly           |
 | 01:32:53   | with the Stream Deck plus, uh, the, the touch bar, I, I need to check if there's an update                |
-| 01:32:57   | for BetterTouchTool.                                                                                    |
+| 01:32:57   | for [[BetterTouchTool]].                                                                                    |
 | 01:32:58   | Cause, um, I, I've enabled the alpha and I know that last time I checked, um, the, um,                    |
 | 01:33:06   | the touch screen was not yet supported and neither was like a double press on the knobs                   |
 | 01:33:10   | or the dials of the Stream Deck plus, but I believe, um, that, that may have changed.                     |
@@ -1710,7 +1710,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:34:53   | Um, I think it's a chicken and the egg problem, like the Microsoft phone, there are no users              |
 | 01:34:57   | because there are no apps and there are no apps because there are no users.                               |
 | 01:35:00   | We'll have fewer people using the Stream Deck if there's not great software for it.                       |
-| 01:35:03   | But hey, BetterTouchTool is here to save the day.                                                       |
+| 01:35:03   | But hey, [[BetterTouchTool]] is here to save the day.                                                       |
 | 01:35:06   | So, uh, yeah, we'll have to, uh, dive into that in a future episode.                                      |
 | 01:35:09   | Now that that's fully here, I may actually have to take this, this, uh, stream day plus                   |
 | 01:35:13   | on holiday with me next week, David, no, um, can I take the standoff?                                     |

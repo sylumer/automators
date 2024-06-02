@@ -542,26 +542,26 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 46:17      | at it. So I'm good. I do something similar to catch the URL and copy it. I don't necessarily put         |
 | 46:25      | it into deliveries, which I should because I have deliveries open and I was expecting a delivery         |
 | 46:29      | yesterday and it was late. But I use the hyper key for a lot. And I know, David, I think you've          |
-| 46:35      | talked about the hyper key on your on your blog, some of BetterTouchTool, you just hit caps lock       |
+| 46:35      | talked about the hyper key on your on your blog, some of [[BetterTouchTool]], you just hit caps lock       |
 | 46:40      | and then now it hits shift control option in command for you. So hyper key L, when the browser is        |
 | 46:48      | open, Keyboard Maestro says, Oh, let me, what's that URL? Okay, that's on your clipboard now. You're     |
 | 46:54      | good. Yeah. And we've talked about hyper key in relation to Keyboard Maestro. But in the past,           |
 | 47:00      | it required installing carbine or elements, which is an amazing app, but it has very questionable        |
 | 47:07      | support in, you know, the most recent update to the Mac OS, you know, it doesn't, I don't think          |
-| 47:12      | it's really stable yet. And the guy at BetterTouchTool just decided, I'll heck with it,                |
-| 47:18      | I'll just write it into BetterTouchTool. And it's a one button where you can take the caps lock        |
+| 47:12      | it's really stable yet. And the guy at [[BetterTouchTool]] just decided, I'll heck with it,                |
+| 47:18      | I'll just write it into [[BetterTouchTool]]. And it's a one button where you can take the caps lock        |
 | 47:23      | key and turn it into shift command control option. And it gives you a whole another set of like 30       |
 | 47:32      | buttons you can use for keyboard shortcut, you know, the whole keyboard plus caps lock. And              |
 | 47:37      | also it allows you to avoid doing that, you know, that jujitsu with your fingers where you're            |
 | 47:43      | trying to hold down eight keys at once. Yes, holding eight keys at once is is a fast track               |
 | 47:49      | way to not being particularly happy with your workflow. So I can highly recommend. Also,                 |
-| 47:56      | just a side note, the guy behind BetterTouchTool went full time on that recently. And he was able      |
+| 47:56      | just a side note, the guy behind [[BetterTouchTool]] went full time on that recently. And he was able      |
 | 48:02      | to do that. And I'm really pleased about that. So I just wanted to mention that. So if you haven't       |
-| 48:06      | tried BetterTouchTool before, and you have a trackpad, and you want to add support for automation      |
+| 48:06      | tried [[BetterTouchTool]] before, and you have a trackpad, and you want to add support for automation      |
 | 48:11      | to it, or you have a mouse with a mapped buttons, or you like window snapping, just look at better       |
 | 48:17      | touch tool. It's it's amazing. Yeah, we need to at some point, dig in on that. We did a whole            |
 | 48:21      | Mac Power Users episode on it in the past, but maybe it's a point we need to dig into the Rosemary             |
-| 48:26      | Orchard brain on BetterTouchTool and hear what you're doing with it. Because you're right, it's        |
+| 48:26      | Orchard brain on [[BetterTouchTool]] and hear what you're doing with it. Because you're right, it's        |
 | 48:31      | an app that's not expensive. If you're a set up subscriber, it's you get it in there and he still        |
 | 48:36      | gets paid. So, you know, it for automators, this is such a great tool, you know, it's kind of like       |
 | 48:42      | Drafts. Like once you install it, you find all these uses for it. You forget that you're running it      |
@@ -573,7 +573,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 49:14      | machines, I've mapped the three finger tap to the middle click, which usually means like close a tab     |
 | 49:20      | if you're middle clicking on a tab, or open a link in a new tab. And I was doing this, and I was         |
 | 49:25      | trying to figure out why it wasn't working. And it took me much too long to realise that it was          |
-| 49:31      | because he doesn't have BetterTouchTool installed, because he doesn't, he doesn't know how to          |
+| 49:31      | because he doesn't have [[BetterTouchTool]] installed, because he doesn't, he doesn't know how to          |
 | 49:36      | use that yet. So he'll be getting my first birthday next month.                                          |
 | 49:40      | Rose, you mentioned kind of the like joint pains and stuff that come with, you know,                     |
 | 49:44      | using a Mac a lot, you know, especially when it's our daily jobs. There's actually a new app. And        |
@@ -581,13 +581,13 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 49:56      | And in that, it's called Menuwhere, which takes your top left menu, your app menu,                      |
 | 50:05      | and your app menu bar, and it just puts it wherever your mouse is. And one of the things                 |
 | 50:10      | that I've done is I've actually, you have to use like a hot key to trigger it normally. I've just        |
-| 50:15      | configured BetterTouchTool with like shift double click to just it's almost like a second              |
+| 50:15      | configured [[BetterTouchTool]] with like shift double click to just it's almost like a second              |
 | 50:20      | right click. It's like, oh, if you right click, you get your options. But if you shift double click      |
 | 50:24      | on your, you know, trackpad, now you get that menu bar that if you are like me and you can never         |
 | 50:30      | remember where your mouse is, you don't have to worry about that because the menu bar went to            |
 | 50:34      | your mouse, not the other way around. That is genius. I'm going to use this. I love it. Fortunately,     |
 | 50:40      | I do very well by mixing up the trackpad and my Logitech mouse, but it's always good to spare            |
-| 50:45      | yourself any potential future problems if at all possible. And with BetterTouchTool, you could         |
+| 50:45      | yourself any potential future problems if at all possible. And with [[BetterTouchTool]], you could         |
 | 50:50      | also just configure it for your mouse as well. Yep. Yep. Though there is one button on my                |
 | 50:55      | mouse that I've forbidden myself from using. I'm not allowed to program it. And that is the              |
 | 50:59      | down button on the thumb rest. I don't know who Logitech thought that up, but everybody I knew           |
