@@ -13,7 +13,7 @@ relayurl: https://www.relay.fm/people/Gregpierce
 ![[Greg Pierce.jpg|200x200]]
 
 # About
-Greg Pierce is a US-based indie developer of several applications, the most famous of which is Drafts. He was also the driving forces behind [[x-callback-url]] when that was introduced as a way to provide inter-app communication on iOS.
+Greg Pierce is a US-based indie developer of several applications, the most famous of which is [[Drafts]]. He was also the driving forces behind [[x-callback-url]] when that was introduced as a way to provide inter-app communication on iOS.
 
 # Guest Episodes
 ```dataviewjs
