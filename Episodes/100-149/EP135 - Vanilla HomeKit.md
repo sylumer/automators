@@ -189,8 +189,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 07:58      | them, but you're maintaining to grow upon them, and that's awesome.                                       |
 | 08:03      | One other thing, we do have Automator's Max, which is the extended ad-free version of the                 |
 | 08:08      | show.                                                                                                     |
-| 08:09      | As Rose talked about earlier today, we're going to be talking about automating Notion.                    |
-| 08:13      | I have, for strange reasons, suddenly found myself using Notion daily, so I want to build                 |
+| 08:09      | As Rose talked about earlier today, we're going to be talking about automating [[Notion]].                    |
+| 08:13      | I have, for strange reasons, suddenly found myself using [[Notion]] daily, so I want to build                 |
 | 08:18      | an Automation, and I thought it'd be fun to talk about my thoughts about automating going                 |
 | 08:23      | in cold.                                                                                                  |
 | 08:24      | We're going to talk about that in the extended version today, so that'll be fun.                          |

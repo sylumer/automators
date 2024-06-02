@@ -724,7 +724,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 30:25      | usually works out just fine for me.                               |
 | 30:28      | Okay, so what I do is I like to run all projects                  |
 | 30:33      | through OmniFocus and I've gone up and down on this,              |
-| 30:35      | like some of the stuff, because I use Notion                      |
+| 30:35      | like some of the stuff, because I use [[Notion]]                      |
 | 30:38      | and Obsidian as well, depending on what I'm doing.                |
 | 30:41      | It's complicated, but now I'm working with someone                |
 | 30:44      | to help on some of the backend stuff.                             |

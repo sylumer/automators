@@ -538,7 +538,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 25:08      | for me is what made a click.                                                                           |
 | 25:10      | I didn't, unlike David try, Roam, I very briefly for about three minutes tried Craft, I couldn't       |
 | 25:17      | get on with the block editor.                                                                          |
-| 25:18      | I've never really got on with Notion.                                                                  |
+| 25:18      | I've never really got on with [[Notion]].                                                                  |
 | 25:20      | I love how pretty it is, but it's not available offline, which for me is a killer, because             |
 | 25:25      | I, the very least pre-pandemic used to fly a lot, and I was not paying for data on every               |
 | 25:30      | single flight that would have been horrendously expensive.                                             |
@@ -549,10 +549,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 25:49      | Yeah.                                                                                                  |
 | 25:50      | And I should be clear that a lot of those other apps are really neat and really well-built.            |
 | 25:56      | But what I think is different about Obsidian and a few of the other options, I do think                |
-| 26:00      | that Dev and Think and Notion are also in this class.                                                  |
+| 26:00      | that Dev and Think and [[Notion]] are also in this class.                                                  |
 | 26:03      | I think of them as environments, I talked earlier about development environments for                   |
 | 26:07      | coding, but I've also written some pieces on this idea of an integrated thinking environment.          |
-| 26:13      | And what Obsidian and Notion and Dev and Think and some others allow you to do is they're              |
+| 26:13      | And what Obsidian and [[Notion]] and Dev and Think and some others allow you to do is they're              |
 | 26:17      | so customisable, right, they're built with this idea of personalisability in mind.                     |
 | 26:22      | And because of that, you're able to build it to match whatever it is you're thinking                   |
 | 26:25      | about.                                                                                                 |

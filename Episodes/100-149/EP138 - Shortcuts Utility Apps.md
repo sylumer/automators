@@ -343,57 +343,57 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 17:08      | Don't forget to use the automated link so you can get an extra three months free.                    |
 | 17:13      | That's EXP-R-E-S-S-V-P-N-dot-com-slash-/automators ExpressVPN.com-slash-/automators to learn more.       |
 | 17:23      | Our thanks to ExpressVPN for their support of the show and Relay FM.                                |
-| 17:28      | Alex had another project called Nautomate, and I like it because Notion is a thing for               |
+| 17:28      | Alex had another project called Nautomate, and I like it because [[Notion]] is a thing for               |
 | 17:34      | a lot of people out there.                                                                           |
-| 17:35      | If you use Notion, wouldn't it be nice if you could, Shortcuts Automation, but it's                  |
+| 17:35      | If you use [[Notion]], wouldn't it be nice if you could, Shortcuts Automation, but it's                  |
 | 17:40      | a web service and it's not really what you would historically think of something you                 |
 | 17:45      | would connect to Shortcuts.                                                                          |
-| 17:46      | So Alex made a series of Shortcuts to address Notion that's another one that you are currently       |
+| 17:46      | So Alex made a series of Shortcuts to address [[Notion]] that's another one that you are currently       |
 | 17:53      | working on, but it's also totally worth mentioning.                                                  |
-| 17:58      | As I'm moving my team into Notion, I'm finding that I'm starting to dig into Nautomate, too.         |
+| 17:58      | As I'm moving my team into [[Notion]], I'm finding that I'm starting to dig into Nautomate, too.         |
 | 18:04      | Tell us how it works and what it is.                                                                 |
 | 18:06      | Well, I'm just going to start with a little bit of background.                                       |
 | 18:10      | I just double-checked just now, and I'll grant that you have the new iPhone 15 Pro Max, and          |
-| 18:15      | I only got it a couple of days before recording this, but I've just opened up the Notion action      |
+| 18:15      | I only got it a couple of days before recording this, but I've just opened up the [[Notion]] action      |
 | 18:19      | section in Shortcuts, and it's got this great message from me, David.                                |
-| 18:23      | No actions to show, because Notion themselves have not supported Shortcuts actions, but              |
-| 18:30      | Notion does have an API, and so what Nautomate does when you launch the app and you go into          |
+| 18:23      | No actions to show, because [[Notion]] themselves have not supported Shortcuts actions, but              |
+| 18:30      | [[Notion]] does have an API, and so what Nautomate does when you launch the app and you go into          |
 | 18:38      | the settings, you tap on integrations, and then you add an integration, and it walks                 |
 | 18:42      | you through setting it up.                                                                           |
-| 18:44      | So you need to get an API key from Notion, and then save your integration.                           |
+| 18:44      | So you need to get an API key from [[Notion]], and then save your integration.                           |
 | 18:51      | And then at that point, you get a whole bunch of Shortcuts actions in Shortcuts from Nautomate,      |
 | 18:57      | and they're also listed in the action section inside the Nautomate app.                              |
 | 19:01      | But if you're looking for, okay, what can I do with this, then there's also a Shortcuts              |
 | 19:06      | section, which gives you some little, you know, there's tutorials, there's some various              |
-| 19:11      | examples like an inventory scanner or getting a Notion ID, but it'll walk you through doing          |
+| 19:11      | examples like an inventory scanner or getting a [[Notion]] ID, but it'll walk you through doing          |
 | 19:15      | things like creating a database, creating a page, working with smart blocks to add a                 |
-| 19:21      | rich text page to Notion and stuff.                                                                  |
+| 19:21      | rich text page to [[Notion]] and stuff.                                                                  |
 | 19:23      | So yeah, with Nautomate, the idea is that pretty much anything that you could do with                |
-| 19:29      | Notion via the API should be available inside of Nautomate.                                          |
+| 19:29      | [[Notion]] via the API should be available inside of Nautomate.                                          |
 | 19:36      | And yeah, so it'll get you your databases, get you details of your databases, it'll get              |
 | 19:40      | IDs from URL, give you options from various selects that you set up, because the whole               |
-| 19:45      | thing with Notion is it's a personal wiki, but it's not a database in the sense of just              |
+| 19:45      | thing with [[Notion]] is it's a personal wiki, but it's not a database in the sense of just              |
 | 19:52      | rows and columns, it's also like every record is a page, it can have sub pages and it can            |
 | 19:58      | have things that are related to it and images embedded in it and so on.                              |
 | 20:01      | So it's not just text, it's way more than text.                                                      |
 | 20:05      | So yeah, it's really cool that that's the thing, and I've been working on moving some                |
-| 20:09      | of my stuff into Notion as well, because I'm a diehard Airtable lover, you can pry Airtable          |
+| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard Airtable lover, you can pry Airtable          |
 | 20:15      | out of my cold dead hands, but especially working on Nautomate, I'm having to get more               |
-| 20:22      | familiar with Notion, so I'm moving some stuff in there and I have to say, I'm liking it             |
+| 20:22      | familiar with [[Notion]], so I'm moving some stuff in there and I have to say, I'm liking it             |
 | 20:27      | for the things that I'm moving in there.                                                             |
 | 20:29      | I'm being very careful about what I move over and I'm trying to only move over the things            |
 | 20:32      | that I think will benefit, but so far it seems to be working out pretty well for me.                 |
 | 20:38      | Yeah, so what I'm doing with it is, I have a small team and we are decided to put some               |
 | 20:44      | of the pending projects team-wise into it, but now I still have my personal tools, you               |
 | 20:50      | know, OmniFocus, Obsidian, yada yada, and I can automate all of those with shortcuts,                |
-| 20:55      | but what I wanted to do was create a record in Notion when I set up a project for myself             |
+| 20:55      | but what I wanted to do was create a record in [[Notion]] when I set up a project for myself             |
 | 21:01      | on my local Mac, and that's something that I probably could have done with web calls                 |
 | 21:06      | and I could have hacked it together, but it's so much easier with Nautomate, you know, and           |
 | 21:12      | then once you create the handshake with Nautomate, there's really a lot you can do.                  |
 | 21:18      | I mean, again, you can generate UUID, you can create a database, you can add a block,                |
 | 21:22      | but I'm using it in the most basic way.                                                              |
 | 21:24      | I just want to add a record to an existing database and that kind of stuff is easy peasy             |
-| 21:31      | for this thing, and if you are interested in shortcuts and use Notion, look no further.              |
+| 21:31      | for this thing, and if you are interested in shortcuts and use [[Notion]], look no further.              |
 | 21:36      | I mean, it's an entire app dedicated to it.                                                          |
 | 21:39      | There's a related one, too, like if you are a big-time Obsidian user, there's an app called          |
 | 21:48      | Actions for Obsidian, which is kind of the same thing.                                               |
@@ -652,7 +652,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 38:55      | And this is happening across the apps, especially since folks have been learning that we've          |
 | 38:58      | taken over Alex Hayes apps, we had a whole flood of requests of, hey, can you have support           |
 | 39:03      | for this?                                                                                            |
-| 39:04      | Oh, I found this cool thing in Notion.                                                               |
+| 39:04      | Oh, I found this cool thing in [[Notion]].                                                               |
 | 39:06      | Can you add a way to do that?                                                                        |
 | 39:08      | And so on.                                                                                           |
 | 39:09      | And it's taking a while to go through these things, because we don't want to just say,               |

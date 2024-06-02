@@ -442,14 +442,14 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 15:59      | And I have to say it's also great,                                |
 | 16:01      | the number of web tools that have been created                    |
 | 16:04      | because of web tools.                                             |
-| 16:05      | So for example, Notion.                                           |
-| 16:06      | Notion is incredibly popular and for very good reasons.           |
+| 16:05      | So for example, [[Notion]].                                           |
+| 16:06      | [[Notion]] is incredibly popular and for very good reasons.           |
 | 16:10      | And they created an API.                                          |
 | 16:12      | And then [[Alex Hay]], the creator of [[Toolbox Pro]],                 |
 | 16:14      | created [[Nautomate]], which is a [[Notion]] automation tool,              |
-| 16:18      | which just puts Notion actions inside of shortcuts for you.       |
-| 16:22      | And that wouldn't exist if Notion didn't exist.                   |
-| 16:25      | And Notion wouldn't have an API                                   |
+| 16:18      | which just puts [[Notion]] actions inside of shortcuts for you.       |
+| 16:22      | And that wouldn't exist if [[Notion]] didn't exist.                   |
+| 16:25      | And [[Notion]] wouldn't have an API                                   |
 | 16:27      | if people weren't so familiar with automation.                    |
 | 16:30      | And I really feel like, you know,                                 |
 | 16:31      | a lot of that is just people being aware of how much,             |
@@ -987,7 +987,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 38:06      | But it really is, you know,                                       |
 | 38:07      | automation appearing in all the places.                           |
 | 38:09      | You know, as I mentioned before,                                  |
-| 38:10      | Notion added an API because of user demand.                       |
+| 38:10      | [[Notion]] added an API because of user demand.                       |
 | 38:13      | Obsidian has things like data view and, you know,                 |
 | 38:18      | custom JS as options and you can just write plugins for it        |
 | 38:22      | because users want that.                                          |

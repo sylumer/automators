@@ -608,7 +608,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 52:17      | yes but it also can be from the share sheet as well sure or if I copy a tweet link and then                                      |
 | 52:22      | run that icon it'll grab the link automatically. So I have like the same thing for YouTube sometimes                             |
 | 52:30      | or the thing I want to I need to expand the Twitter one more to put it into my task manager to put                               |
-| 52:35      | into I now use Notion and I have access to their API and so I've been that's been a whole fun                                    |
+| 52:35      | into I now use [[Notion]] and I have access to their API and so I've been that's been a whole fun                                    |
 | 52:41      | experiment because I can build a whole mess on top of that.                                                                      |
 | 52:47      | This episode of The Automators is brought to you by ExpressVPN. Go to expressvpn.com/                                      |
 | 52:53      | automators for high speed secure and anonymous VPN services best of all you'll get an extra                                      |
@@ -643,10 +643,10 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 55:50      | already exists. I think that's the other part or even some space in terms of where you're sending                                |
 | 55:57      | it for that link to live because I think that's one of the things that I struggle with is I've                                   |
 | 56:03      | been using Kraft for almost a year now and I have tons of links in there but there's not really                                  |
-| 56:08      | really some sort of like space for them to exist and so I think that's particularly with Notion                                  |
+| 56:08      | really some sort of like space for them to exist and so I think that's particularly with [[Notion]]                                  |
 | 56:15      | and the properties that are associated with pages is where I want to use those deep links                                        |
-| 56:22      | but Notion on iOS does not open deep links into the corresponding apps so I'm slightly at a,                                     |
-| 56:29      | I've kind of hit a temporary wall with that because I've been moving into Notion.                                                |
+| 56:22      | but [[Notion]] on iOS does not open deep links into the corresponding apps so I'm slightly at a,                                     |
+| 56:29      | I've kind of hit a temporary wall with that because I've been moving into [[Notion]].                                                |
 | 56:34      | I think also my shortcuts that I've built now that the ones that do are able to look into apps                                   |
 | 56:43      | and grab those documents are sort of enabling me to create non-deep link ways to access those                                    |
 | 56:50      | same pages and even the widgets themselves I think specifically for the ways that I was                                          |
@@ -657,7 +657,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 57:24      | but I do think in terms of having access to those documents quickly it's probably,                                               |
 | 57:31      | I don't know about like better than before but it's still, I still am not like struggling                                        |
 | 57:35      | with that too much which is good. That's still an existential problem I think with,                                              |
-| 57:42      | I think the way that I'm going to address it though is by using Notion as the project                                            |
+| 57:42      | I think the way that I'm going to address it though is by using [[Notion]] as the project                                            |
 | 57:48      | management level and then having a point where that, I'm not sure if I'll use it via Zapier                                      |
 | 57:55      | or just a shortcut that'll pull from those pages but then creating the research document,                                        |
 | 58:01      | the task in things and other pages and then having all of those links just because it created them                               |
@@ -675,7 +675,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 59:16      | support and it works on iOS and Mac and I think that that's a great solution and you can deep link                               |
 | 59:21      | right to an individual entry of an, I mean it's one of the best supports I've seen.                                              |
 | 59:28      | Exactly, it's amazing. I love Kraft. I think it's the part that I'm struggling with is that it's so                              |
-| 59:33      | good and I'm also you but it doesn't do what Notion does in the way that I need it to and so                                     |
+| 59:33      | good and I'm also you but it doesn't do what [[Notion]] does in the way that I need it to and so                                     |
 | 59:40      | I'm kind of trying to use both but those deep links don't open back into Kraft.                                                  |
 | 59:44      | I think specifically with a tool like Kraft, it does come down to how I'm using it and                                           |
 | 59:51      | I mean even, I don't know, I mean on a big level moving into Kraft simplified the amount of                                      |
@@ -727,7 +727,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:04:45   | so Matthew something you said made me think how much of what you do is shaped by the                                             |
 | 01:04:53   | automations versus the applications themselves and and where do you draw the line so for example                                 |
 | 01:04:58   | you know craft came along if it didn't have deep links and some automation support would you have                                |
-| 01:05:04   | just gone huh that seems cool next or you know you you were using Notion you've only recently                                    |
+| 01:05:04   | just gone huh that seems cool next or you know you you were using [[Notion]] you've only recently                                    |
 | 01:05:10   | got access to the API so I'm guessing until then no shortcuts pretty much nothing so where do you                                |
 | 01:05:16   | draw that line it's got to be a blend of them I'd say I don't think craft has the best shortcuts                                 |
 | 01:05:23   | yet like they could still do more with that although I would say like I'm kind of not using                                      |
@@ -736,27 +736,27 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:05:40   | project management not task management thing is relevant and things still might fit into                                         |
 | 01:05:47   | a task manager for me because or it's still it's my favourite way to see tasks on my wrist still                                  |
 | 01:05:52   | I still love their Apple Watch app so I think it's it always does come down to a blend                                           |
-| 01:05:57   | and sometimes I mean between craft and Notion both of them I'd say I'm using because I could see                                 |
+| 01:05:57   | and sometimes I mean between craft and [[Notion]] both of them I'd say I'm using because I could see                                 |
 | 01:06:05   | that they were working on stuff that would be relevant to me like because I mean craft was                                       |
 | 01:06:10   | also new and so I talked to them a lot in the betas being like if you want it to be something                                    |
 | 01:06:15   | that I'm going to use it's got to have at least some of this stuff otherwise it just                                             |
 | 01:06:19   | doesn't check the boxes and falls behind or like maybe you get like three out of four and that's                                 |
-| 01:06:25   | enough um I think Notion I didn't use for you I also I met with the Notion team in like 2017                                     |
+| 01:06:25   | enough um I think [[Notion]] I didn't use for you I also I met with the [[Notion]] team in like 2017                                     |
 | 01:06:35   | and I could tell they weren't going to update the iPad app until now like I was just like this is                                |
 | 01:06:41   | not their their priority at all they're like a startup trying to raise funds and be giant and                                    |
 | 01:06:48   | so they weren't going to go deep and so even just like the ability to select multiple rows of text                               |
-| 01:06:53   | on Notion two months or like three months ago I was like okay now I can actually maybe use it                                    |
+| 01:06:53   | on [[Notion]] two months or like three months ago I was like okay now I can actually maybe use it                                    |
 | 01:06:57   | and I think the API also helped knowing that I could potentially move my air table library                                       |
-| 01:07:03   | into Notion using this and then have more of the interface on top that I kind of wish air table                                  |
+| 01:07:03   | into [[Notion]] using this and then have more of the interface on top that I kind of wish air table                                  |
 | 01:07:09   | had provided me um in the past few years and I've been I just did a whole how to use um                                          |
 | 01:07:16   | shortcuts APIs with air table specifically like a stream a couple weeks ago that maybe people would                              |
-| 01:07:22   | want to check out but um I think it does kind of depend I think even using the fact that Notion                                  |
+| 01:07:22   | want to check out but um I think it does kind of depend I think even using the fact that [[Notion]]                                  |
 | 01:07:30   | got more popular recently and there was more tutorials on how to set up some of the deeper                                       |
 | 01:07:35   | parts helped me because I didn't see as much of that with air table and like I'm all about like                                  |
 | 01:07:41   | filtering and views and I have five different databases that are interconnected that I'm trying                                  |
 | 01:07:47   | to like set together so knowing that I could both use shortcuts to pump data in there and then have                              |
 | 01:07:54   | their advanced views filter it for me properly I think is going to be important but I mean even                                  |
-| 01:08:01   | I use Notion on my Mac right now don't use it on my iPad almost at all like I think I'm                                          |
+| 01:08:01   | I use [[Notion]] on my Mac right now don't use it on my iPad almost at all like I think I'm                                          |
 | 01:08:07   | I have been trying not to just like only use things through shortcuts because that's what                                        |
 | 01:08:12   | I produce content about and it's realistically I'm not only using my iPad and when I create videos                               |
 | 01:08:19   | and things like that I'm not I have to edit in Final Cut Pro so I'm not like even then it's like                                 |

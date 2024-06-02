@@ -1289,10 +1289,10 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:11:23   | playing with Airtable, I am not letting myself do that because there is other work that needs         |
 | 01:11:28   | to be done first.                                                                                     |
 | 01:11:30   | For some reason, I got recently multiple emails from listeners and readers saying that I need         |
-| 01:11:36   | to be using Notion for a bunch of this stuff.                                                         |
-| 01:11:39   | I have tried Notion and I love it, but I really don't like that it has no automation options.         |
+| 01:11:36   | to be using [[Notion]] for a bunch of this stuff.                                                         |
+| 01:11:39   | I have tried [[Notion]] and I love it, but I really don't like that it has no automation options.         |
 | 01:11:45   | It doesn't have Zapier integration, they don't have an API and unfortunately their apps don't         |
-| 01:11:51   | have offline support, which for me is a deal breaker, but I love the idea of Notion.                  |
+| 01:11:51   | have offline support, which for me is a deal breaker, but I love the idea of [[Notion]].                  |
 | 01:11:55   | So when they get an API and some automation integrations, then I'm going to go back and               |
 | 01:11:59   | look at it again.                                                                                     |
 | 01:12:00   | Yeah.                                                                                                 |
@@ -1305,7 +1305,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:12:24   | matter, each matter has a custom email that copies the email in essence into the Basecamp             |
 | 01:12:30   | for it.                                                                                               |
 | 01:12:31   | So all that's collected.                                                                              |
-| 01:12:32   | There's no way to do that with Notion and there's just a whole bunch of stuff.                        |
+| 01:12:32   | There's no way to do that with [[Notion]] and there's just a whole bunch of stuff.                        |
 | 01:12:37   | So I don't think I'm going to jump on board with that yet, but it is interesting that                 |
 | 01:12:40   | I'm starting to look at all these web services and it's starting to turn into real money              |
 | 01:12:45   | for me in terms of expense, but I'm also getting a lot of use out of them.                            |

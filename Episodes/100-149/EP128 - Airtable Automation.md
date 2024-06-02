@@ -252,12 +252,12 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 12:50      | or use [[Drafts]] or something to interact with Airtable directly or if you want to use a                     |
 | 12:54      | service like make or that was previously called Integromat Zapier or if this and that, then              |
 | 13:01      | you've got options there, which is really nice.                                                           |
-| 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using Notion.               |
-| 13:10      | I think there is a bit of a tipping point with Notion because you can do a lot of this                    |
-| 13:14      | with Notion tables, but Airtable is better at it in my experience and it's more automation                |
+| 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using [[Notion]].               |
+| 13:10      | I think there is a bit of a tipping point with [[Notion]] because you can do a lot of this                    |
+| 13:14      | with [[Notion]] tables, but Airtable is better at it in my experience and it's more automation                |
 | 13:22      | friendly.                                                                                                 |
-| 13:23      | So even if you're using Notion, you could make the argument that you'd want an Airtable,                  |
-| 13:26      | but I know a lot of people that use Notion that put this kind of information in Notion                    |
+| 13:23      | So even if you're using [[Notion]], you could make the argument that you'd want an Airtable,                  |
+| 13:26      | but I know a lot of people that use [[Notion]] that put this kind of information in [[Notion]]                    |
 | 13:31      | tables themselves, but I do think it really just shines with collaboration.                               |
 | 13:38      | Yes, absolutely it does.                                                                                  |
 | 13:41      | And it's really nice to be able to just have that information in a way that everybody can                 |
