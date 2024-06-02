@@ -687,7 +687,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 35:04      | time tracking shortcut.                                                                                  |
 | 35:05      | And then that automated time tracking shortcut splits, it gets the last word open or closed,             |
 | 35:12      | and goes, okay, so this was opened.                                                                      |
-| 35:13      | So I need to run, like go through this branch of logic, okay, and the app was Drafts.                    |
+| 35:13      | So I need to run, like go through this branch of logic, okay, and the app was [[Drafts]].                    |
 | 35:18      | So actually, in this case, I'm going to show a menu and ask what you're doing and, you                   |
 | 35:22      | know, log it that way.                                                                                   |
 | 35:24      | But other apps like the Kindle app, for example, on my iPad mini, it just starts a reading               |
@@ -1086,7 +1086,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 56:33      | to do it.                                                                                                |
 | 56:34      | So for example, I can say, hey, can you go and double check that all of the [[Drafts]] are                   |
 | 56:38      | created for the ScreenCast online show that I'm making, and it will just go and do that                  |
-| 56:42      | and dump it into Drafts.                                                                                 |
+| 56:42      | and dump it into [[Drafts]].                                                                                 |
 | 56:43      | And then because iCloud sync, it works.                                                                  |
 | 56:46      | And it's on whatever device I then pick up when I get to it in a few minutes.                            |
 | 56:51      | Yeah.                                                                                                    |
@@ -1248,7 +1248,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:06:51   | Then I'm playing with launcher, because I've got some hot buttons to message certain people.             |
 | 01:06:54   | Yes, you're one of them, David, and a hot button to play a specific, very large playlist                 |
 | 01:06:59   | that I have.                                                                                             |
-| 01:07:01   | Then I have two shortcuts, widgets after another, Fantastical, [[Dark Noise]], and Drafts.                   |
+| 01:07:01   | Then I have two shortcuts, widgets after another, Fantastical, [[Dark Noise]], and [[Drafts]].                   |
 | 01:07:09   | Okay, so are the shortcut widgets the medium or the large ones?                                          |
 | 01:07:13   | The medium ones.                                                                                         |
 | 01:07:14   | Okay.                                                                                                    |

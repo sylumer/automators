@@ -529,14 +529,14 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 28:01      | like keeping them in OmniFocus because every software when I'm searching, you know, I have               |
 | 28:04      | to search for everything because I'm looking for something that was also completed or dropped            |
 | 28:08      | or maybe on hold, and then my templates pop up and it's annoying.                                        |
-| 28:12      | So I've put all of it in Drafts, but I actually have a whole action group in [[Drafts]] where                |
+| 28:12      | So I've put all of it in [[Drafts]], but I actually have a whole action group in [[Drafts]] where                |
 | 28:17      | it populates the template placeholders.                                                                  |
 | 28:19      | It's basically, you copy out what is currently in the OmniFocus with the French quotation                |
 | 28:24      | marks, for example, if you're using the original Kirk Clifton style of templates, and then               |
 | 28:28      | it finds those and replaces them for you.                                                                |
 | 28:31      | And that works really well for me because then all of my templates are in [[Drafts]] and                     |
 | 28:34      | they work on all the platforms.                                                                          |
-| 28:36      | Yeah, and then you don't need the tokens because you're doing it in Drafts.                              |
+| 28:36      | Yeah, and then you don't need the tokens because you're doing it in [[Drafts]].                              |
 | 28:40      | Yeah.                                                                                                    |
 | 28:41      | Makes sense.                                                                                             |
 | 28:42      | Yeah.                                                                                                    |

@@ -765,7 +765,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 45:54      | There is a history option for store the typed query and then show the latest query if it's            |
 | 46:00      | within five minutes.                                                                                  |
 | 46:02      | And the latest query within five minutes is to me, the [[Drafts]] equivalent in [[Alfred]].                   |
-| 46:08      | So when I go back to Drafts, if it's within five minutes, it'll show me the draft that                |
+| 46:08      | So when I go back to [[Drafts]], if it's within five minutes, it'll show me the draft that                |
 | 46:11      | I was working on.                                                                                     |
 | 46:12      | If it's after that, it shows me a new one.                                                            |
 | 46:15      | For me, being able to go back and, okay, so I searched for this and that gave me that,                |
@@ -800,7 +800,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:02      | I had that turned on forever, but the, but yeah, the five minute thing.                               |
 | 48:06      | I'd never turned that on.                                                                             |
 | 48:07      | So I'll report back at how that does for me, but it seems like a good idea.                           |
-| 48:11      | You had me when you said Drafts.                                                                      |
+| 48:11      | You had me when you said [[Drafts]].                                                                      |
 | 48:12      | Yeah.                                                                                                 |
 | 48:13      | I think once, once you've got the [[Drafts]] analogy, it's great.                                         |
 | 48:17      | Like it's easier to understand for folks.                                                             |
@@ -1103,7 +1103,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:08:11   | And again, like you, David, I really prefer having the filter so I can just type DR and               |
 | 01:08:17   | then I will get the options up for [[Drafts]] where I can create a new draft or search [[Drafts]]            |
 | 01:08:23   | and run actions and things like that.                                                                 |
-| 01:08:25   | That for me is one of the things that I prefer, like I know that I'm doing something in Drafts,       |
+| 01:08:25   | That for me is one of the things that I prefer, like I know that I'm doing something in [[Drafts]],       |
 | 01:08:30   | so I type DR and then as my brain's like, okay, right now we've got [[Drafts]] right, okay,               |
 | 01:08:34   | now I can just go and do this bit over here and that's it, I'm done.                                  |
 | 01:08:38   | It saves me typing in the search and getting distracted by the other options which aren't             |

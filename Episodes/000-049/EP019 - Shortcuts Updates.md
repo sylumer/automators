@@ -1464,7 +1464,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:00:34   | between multiple Shortcuts.                                                                       |
 | 01:00:36   | Then the same template, for example,                                                              |
 | 01:00:39   | can be called from multiple Shortcuts.                                                            |
-| 01:00:41   | And in others, I use Drafts.                                                                      |
+| 01:00:41   | And in others, I use [[Drafts]].                                                                      |
 | 01:00:43   | And I have a tag in [[Drafts]] called Shortcuts Text,                                                 |
 | 01:00:47   | and a workspace that I can easily access this.                                                    |
 | 01:00:51   | And then I get the contents of a draft,                                                           |

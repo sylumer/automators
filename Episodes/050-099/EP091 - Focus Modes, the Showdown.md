@@ -934,7 +934,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 56:29      | I can do that with a custom perspective.                                                                |
 | 56:32      | It shows a version of a Fantastical that gives me a list of my events for the day.                      |
 | 56:38      | It puts a lot of my work-related apps right on the screen for me, like Slack, I work in                 |
-| 56:44      | a lot, Basecamp, I work in a lot, [[Obsidian]], and then Drafts.                                            |
+| 56:44      | a lot, Basecamp, I work in a lot, [[Obsidian]], and then [[Drafts]].                                            |
 | 56:47      | So a bunch of apps show up that I generally use for this stuff.                                         |
 | 56:52      | And now in terms of the permissions that I give through work mode, this is one where                    |
 | 56:58      | I do allow VIPs through.                                                                                |
@@ -1211,7 +1211,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:13:18   | quick note.                                                                                             |
 | 01:13:19   | Daisy's a deep sleeper, so it doesn't bother her either way.                                            |
 | 01:13:22   | And then I can go back to sleep.                                                                        |
-| 01:13:23   | So I've, it's like in case of emergency, press button inbox to Drafts, you know, and                    |
+| 01:13:23   | So I've, it's like in case of emergency, press button inbox to [[Drafts]], you know, and                    |
 | 01:13:29   | all right.                                                                                              |
 | 01:13:30   | You've given me an idea here, David.                                                                    |
 | 01:13:31   | I'm officially modifying my, um, my, my sleep, um, uh, home screen right now, right at the              |

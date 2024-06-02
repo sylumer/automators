@@ -701,7 +701,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 39:15      | I have set up a set of custom actions that I use as well, whether it's sending an email                 |
 | 39:21      | to somebody specific right from a draft or sending it to Fantastical and parse it out                   |
 | 39:26      | there.                                                                                                  |
-| 39:27      | So many incredible uses for Drafts, and I'm a big, big [[Drafts]] user.                                     |
+| 39:27      | So many incredible uses for [[Drafts]], and I'm a big, big [[Drafts]] user.                                     |
 | 39:31      | I subscribe to [[Drafts]] Pro.                                                                              |
 | 39:33      | I have it on my Mac, and it's my go-to plain text app for many, many things for sure.                    |
 | 39:39      | And as far as shortcuts, David, you are teaching me so much about shortcuts right now, so thank         |

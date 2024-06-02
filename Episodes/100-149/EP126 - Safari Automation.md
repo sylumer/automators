@@ -83,7 +83,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 00:47      | So you just check off the arrays that you want and it auto-populates, it makes me so happy         |
 | 00:53      | when that thing runs.                                                                              |
 | 00:54      | Oh, yeah.                                                                                          |
-| 00:55      | I do the same thing with Drafts, so mine is just a list in [[Drafts]] and it's sorted by               |
+| 00:55      | I do the same thing with [[Drafts]], so mine is just a list in [[Drafts]] and it's sorted by               |
 | 01:00      | emoji.                                                                                             |
 | 01:01      | Honestly, it's so great, you scroll to the soap section and that's all of the toilet               |
 | 01:05      | trays.                                                                                             |

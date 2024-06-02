@@ -864,8 +864,8 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 45:49      | interrupt links to remain available, but at the same time, it would be great if the shortcuts          |
 | 45:56      | framework can sink down another layer into the operating system.                                       |
 | 46:00      | So right now, we have, when I open an app, do this.                                                    |
-| 46:05      | Well, how about next year, when I open, for example, Drafts, and I open this workspace                 |
-| 46:10      | in Drafts, then I want that to happen, but if I open this other workspace in Drafts,                   |
+| 46:05      | Well, how about next year, when I open, for example, [[Drafts]], and I open this workspace                 |
+| 46:10      | in [[Drafts]], then I want that to happen, but if I open this other workspace in [[Drafts]],                   |
 | 46:14      | then I want this thing to happen, and that's what I think we will hopefully see at some                |
 | 46:20      | point.                                                                                                 |
 | 46:21      | Well, I've heard it was said in some of the sessions, so don't ask me which ones, because              |

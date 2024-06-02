@@ -841,7 +841,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 47:19      | Yeah.                                                                                                  |
 | 47:20      | Yeah.                                                                                                  |
 | 47:21      | See, I have a very simple solution to all of this.                                                     |
-| 47:24      | I use Drafts, which has universally unique IDs for every draft.                                        |
+| 47:24      | I use [[Drafts]], which has universally unique IDs for every draft.                                        |
 | 47:28      | And when I need to, I store those IDs either in air table or in Data Jar or in some cases              |
 | 47:34      | both.                                                                                                  |
 | 47:35      | Yes.                                                                                                   |
@@ -858,7 +858,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 47:55      | Yeah.                                                                                                  |
 | 47:56      | As David said, if you're starting notes in iOS, the correct way is using what they've                  |
 | 48:02      | said for about ISO 8601 for dates.                                                                     |
-| 48:05      | If you're starting notes in iOS, the best, the correct way is the Drafts.                              |
+| 48:05      | If you're starting notes in iOS, the best, the correct way is the [[Drafts]].                              |
 | 48:09      | Yes.                                                                                                   |
 | 48:10      | Yeah.                                                                                                  |
 | 48:11      | No kidding.                                                                                            |

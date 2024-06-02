@@ -400,7 +400,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 29:38      | as possible. So I'm going to do some work upfront on that. Sure. I have a question for both of you,    |
 | 29:43      | because this is one of the things I've been wrestling with, because on the one hand, I love            |
 | 29:46      | to have, you know, my templates 100% in OmniFocus. How are you handling relative due or defer dates    |
-| 29:54      | with those scripts? Because that's one of the things I love about having my templates in Drafts,       |
+| 29:54      | with those scripts? Because that's one of the things I love about having my templates in [[Drafts]],       |
 | 29:59      | because then I can have a variable for my due date and have minus three days or whatever,              |
 | 30:04      | you know, next to it. And then that gets parsed when it gets pasted into OmniFocus.                    |
 | 30:09      | But that's something I've yet to figure out how to handle in OmniFocus itself.                         |
@@ -408,7 +408,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 30:22      | the one I have works, and I can share this with you, is I have a folder, I have a directory on         |
 | 30:29      | my computer that has a bunch of text files with Taskpaper formatted templates. And I tend to highly   |
 | 30:36      | recommend that because generally that text file is easily transportable to other systems. So I         |
-| 30:42      | don't have to keep it in Drafts. I don't have to keep like these system like template projects in      |
+| 30:42      | don't have to keep it in [[Drafts]]. I don't have to keep like these system like template projects in      |
 | 30:47      | OmniFocus. It can be outside of that. So it doesn't clutter up my project list. So I have a folder     |
 | 30:53      | for OmniFocus templates that are just Taskpaper formatted lists. And I do have those placeholders     |
 | 31:01      | in that system. And then the script in OmniFocus, whenever I hit the button for it, which I have       |
@@ -419,7 +419,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 31:30      | all of that after that date. So that way you can get all the relative pieces to that.                  |
 | 31:36      | That makes a lot of sense. And I love that idea. And I'll probably go with that. Because I mean,       |
 | 31:43      | one of the reasons why I have all of them in [[Drafts]] at the moment is because I have my scripts in      |
-| 31:47      | Drafts, of course, to pick out the placeholders and import them. But I can easily export all of        |
+| 31:47      | [[Drafts]], of course, to pick out the placeholders and import them. But I can easily export all of        |
 | 31:53      | my templates to a single folder. Yeah. Yeah. Now I want to point out I do cheat a little bit with      |
 | 32:00      | this because I'm so lazy that I didn't want to go to the menu to hit the button. And I didn't          |
 | 32:05      | want to clutter up my toolbar with it. So this, this gets in the weeds a little bit, but there is      |
@@ -687,8 +687,8 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 56:57      | bunch of projects in OmniFocus for someday maybe lists. And I was lazy. And I wanted to be able to     |
 | 57:07      | put things into those individual lists without having to manually type in what project it goes         |
 | 57:14      | to once it was in the OmniFocus inbox. And the way that I was putting things into                      |
-| 57:20      | the OmniFocus inbox was via Drafts, because [[Drafts]] is phenomenal and everybody in the world should     |
-| 57:25      | be using it. And I wanted a way to pre format the task title in Drafts, send it to the inbox,          |
+| 57:20      | the OmniFocus inbox was via [[Drafts]], because [[Drafts]] is phenomenal and everybody in the world should     |
+| 57:25      | be using it. And I wanted a way to pre format the task title in [[Drafts]], send it to the inbox,          |
 | 57:37      | and let OmniFocus automatically put it where it belongs. And my head, that was pretty simple.          |
 | 57:43      | But I couldn't find any way to do that. So I did some digging, and I thought, I'll create some form    |
 | 57:50      | of a syntax. You know, this is a thing I think [[Todoist]] was doing this for a while, maybe they          |
@@ -705,7 +705,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 59:02      | task. And then that meant that the database modified date would change. So then [[Hazel]] would run the    |
 | 59:07      | rule, which would run the AppleScript, which then parsed the inbox item, and then my someday          |
 | 59:14      | maybes would show up where they were supposed to be without me having to do anything other than        |
-| 59:20      | create the someday maybe list in Drafts, action it off with the correct someday maybe list,            |
+| 59:20      | create the someday maybe list in [[Drafts]], action it off with the correct someday maybe list,            |
 | 59:26      | and it just magically showed up where it was supposed to be in OmniFocus with all the correct          |
 | 59:31      | contexts, projects, all the things. Absolutely loved that. And I think that has been something         |
 | 59:38      | a lot of people have used based on the replies and the shares and stuff I see via Twitter and          |
@@ -813,7 +813,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:09:09   | but if I recall correctly, I think you can do that hashtag date and then do a second hashtag           |
 | 01:09:15   | and leave it blank, I think that gets you there, but I'm not certain I'd have to test it.              |
 | 01:09:21   | Yeah, I don't use the script, so it's not that big of a deal for me, but it is impressive.             |
-| 01:09:28   | I guess I really should start thinking about using it, because I add a lot of tasks via Drafts,        |
+| 01:09:28   | I guess I really should start thinking about using it, because I add a lot of tasks via [[Drafts]],        |
 | 01:09:33   | but usually it's like kind of a watch thing, you know, it's like I just yell at my wrist for a         |
 | 01:09:38   | minute and then it gets moved to OmniFocus later.                                                      |
 | 01:09:42   | Sure.                                                                                                  |

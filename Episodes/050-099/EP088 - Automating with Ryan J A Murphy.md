@@ -678,8 +678,8 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 33:08      | No, Ryan, I'm totally aware of this, and now could you please explain?                                 |
 | 33:12      | Ah, okay.                                                                                              |
 | 33:13      | Okay, yeah, yeah.                                                                                      |
-| 33:14      | So Lumberjack is a new plugin, and the whole idea that I was jealous of Drafts, right?                 |
-| 33:18      | I love the idea of Drafts.                                                                             |
+| 33:14      | So Lumberjack is a new plugin, and the whole idea that I was jealous of [[Drafts]], right?                 |
+| 33:18      | I love the idea of [[Drafts]].                                                                             |
 | 33:20      | I've certainly used it as a sort of scratch pad for many years, but I could never get my               |
 | 33:24      | head around the idea of putting a bunch of ideas or thinking in one place and then having              |
 | 33:28      | to move it somewhere else, just as a sort of fundamental law of using the app.                         |
@@ -714,7 +714,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 35:24      | So what happens then is that one computer goes, new stuff in Dropbox, pull it into [[Obsidian]],           |
 | 35:30      | and then, of course, it ends up in [[Obsidian]] Sync.                                                      |
 | 35:32      | And this helps because I have some things which just append stuff to lists and things                  |
-| 35:37      | like that, and that's very easy to do via Drafts, of course, with the append action                    |
+| 35:37      | like that, and that's very easy to do via [[Drafts]], of course, with the append action                    |
 | 35:43      | inside of the Dropbox actions.                                                                         |
 | 35:45      | But of course, I want the data in [[Obsidian]].                                                            |
 | 35:50      | That's where the data lives.                                                                           |

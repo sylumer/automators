@@ -301,7 +301,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 18:38      | tag for the person that he's having the meeting with, which I think is a great way of doing               |
 | 18:42      | things. If you've got OmniFocus and you've set things up to do that, I think he said                      |
 | 18:46      | he was using Data Jar to store the tag in OmniFocus for that. You know, that's one way of doing            |
-| 18:52      | it. Another way could be using Drafts. I often know I've got meetings coming up and I just                |
+| 18:52      | it. Another way could be using [[Drafts]]. I often know I've got meetings coming up and I just                |
 | 18:58      | store things that we, that I think we ought to talk about there in [[Drafts]] so that I can                   |
 | 19:03      | just pull up that draft A in the meeting, but also before the meeting and just email                      |
 | 19:08      | it to everybody so that, you know, people aren't blindsided by these topics in a meeting                  |
@@ -465,15 +465,15 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 31:44      | this is totally doable and something that's very automation friendly, I think.                            |
 | 31:48      | Definitely. So there's another thing that we talked about. You briefly touched upon                       |
 | 31:53      | this, David, with the following up after a meeting and you actually have a shortcut for                   |
-| 31:57      | this, which I've stolen and I'm using, which is I take my meeting notes in Drafts, um,                    |
-| 32:02      | because I love Drafts. It's very simple and easy to capture things, but you could do this                 |
+| 31:57      | this, which I've stolen and I'm using, which is I take my meeting notes in [[Drafts]], um,                    |
+| 32:02      | because I love [[Drafts]]. It's very simple and easy to capture things, but you could do this                 |
 | 32:05      | with pretty much anything. Um, and I have this action, which I stole from you, um, that                   |
 | 32:11      | goes through and pulls out all of the tasks at the end of a meeting so that I can put                     |
 | 32:15      | them in OmniFocus and process them. Um, and one of the other things that I'm looking at                   |
 | 32:20      | doing is modifying this and adding waiting on actions for things that are assigned to                     |
 | 32:24      | people other than myself. So that I know that say, for example, I'm waiting for David to                  |
 | 32:28      | get back to me on our super secret members only episode, which will be out next month.                    |
-| 32:33      | Yeah. Yeah. And that's just the Java script. It's in the, I'm running out of Drafts, anything             |
+| 32:33      | Yeah. Yeah. And that's just the Java script. It's in the, I'm running out of [[Drafts]], anything             |
 | 32:38      | with a dash in front of it gets added to the OmniFocus inbox. You could also, um, another                 |
 | 32:45      | way you could automate this is with "regex", regular expressions. You could, um, if you                      |
 | 32:50      | have like people's names in it, you could do a regex search for their names and then                      |
@@ -860,8 +860,8 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:05:01   | [[Drafts]] or in text edit or in Microsoft Word, I put it somewhere on my computer. And then                  |
 | 01:05:07   | I do search and replace on it. But what if I did search and replace in memory on the                      |
 | 01:05:13   | paste board? It's not even like physically on your screen. Well, that's really easy to                    |
-| 01:05:18   | do with Drafts. There's a there's a command for a search and replace in the clipboard.                    |
-| 01:05:22   | So I do that there. So when I copy something out of Drafts, I have a keyboard, sure, could                |
+| 01:05:18   | do with [[Drafts]]. There's a there's a command for a search and replace in the clipboard.                    |
+| 01:05:22   | So I do that there. So when I copy something out of [[Drafts]], I have a keyboard, sure, could                |
 | 01:05:26   | I use it copies the [[Drafts]] text, but then it searches for the square brackets and kill                    |
 | 01:05:32   | those and it searches for it just it runs a whole bunch of like little search and replace                 |
 | 01:05:37   | routines. And then I move over to whatever document I'm going to write in and I hit paste                 |

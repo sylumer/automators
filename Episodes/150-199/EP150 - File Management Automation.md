@@ -818,7 +818,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 48:04      | the transcription, and he has the ability to send it to any email.                                 |
 | 48:08      | And that's what really got me because at the same time that this app was kind of showing           |
 | 48:14      | up on my radar, [[Drafts]] added a mail drop feature.                                                  |
-| 48:18      | And now in Drafts, you can have a magic email address and you send an email to it and it           |
+| 48:18      | And now in [[Drafts]], you can have a magic email address and you send an email to it and it           |
 | 48:23      | shows up in your inbox and [[Drafts]] as text.                                                         |
 | 48:26      | So combine those things, right?                                                                    |
 | 48:29      | You record it and then you hit stop record, and then it does its thing to transcribe the           |

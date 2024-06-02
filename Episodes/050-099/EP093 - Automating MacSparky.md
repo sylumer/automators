@@ -887,7 +887,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 49:55      | out the same, but they take slightly different paths and I run them as separate shortcuts.             |
 | 50:01      | Yeah, my problem with that is the diverging content in those shortcuts.                                |
 | 50:05      | So for example, a Taskpaper list.                                                                     |
-| 50:08      | Now most of my Taskpaper list, fortunately, I source out of Drafts, so that wouldn't be               |
+| 50:08      | Now most of my Taskpaper list, fortunately, I source out of [[Drafts]], so that wouldn't be               |
 | 50:12      | too much of an issue.                                                                                  |
 | 50:13      | But what happens if I add a calendar step to the Mac one, but I forget to add it in the                |
 | 50:17      | iOS.                                                                                                   |
@@ -1278,7 +1278,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:14:40   | So it does all of that.                                                                                |
 | 01:14:41   | And all I do is type in one thing and I run all of that with [[Keyboard Maestro]].                         |
 | 01:14:45   | But when I'm over on my phone, I have ideas too.                                                       |
-| 01:14:48   | And I do the exact same, I get the exact same result using Drafts.                                     |
+| 01:14:48   | And I do the exact same, I get the exact same result using [[Drafts]].                                     |
 | 01:14:53   | And it's not that hard.                                                                                |
 | 01:14:55   | You open [[Drafts]] and [[Drafts]] has a templated text [[Drafts]] action.                                         |
 | 01:14:59   | We've talked about it on the show before and I took the exact same [[YAML]] content and [[Obsidian]]           |
@@ -1292,7 +1292,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:15:38   | I mean, if I get a content idea, what I don't want to do is open up [[Obsidian]], navigate to              |
 | 01:15:44   | the right folder, create a new file, run a template and do like 10 steps.                              |
 | 01:15:50   | And it's even harder to do that on the iPhone because, you know, it's the iPhone.                      |
-| 01:15:54   | Whereas now I just type a few things in Drafts, push a button in Drafts, it happens, right?            |
+| 01:15:54   | Whereas now I just type a few things in [[Drafts]], push a button in [[Drafts]], it happens, right?            |
 | 01:15:59   | I type a conflict pallet into my Mac, fill in one field, hit return and it's done.                     |
 | 01:16:04   | And that's the kind of automation that I'm excited about right now.                                    |
 | 01:16:08   | Yes.                                                                                                   |

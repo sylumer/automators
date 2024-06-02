@@ -1086,7 +1086,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00:07   | or get blinded would be pretty nice.                                                                         |
 | 01:00:10   | Yeah.                                                                                                        |
 | 01:00:11   | Well, I, my automation problems I've been working on lately are just a lot of stuff                          |
-| 01:00:15   | in Drafts.                                                                                                   |
+| 01:00:15   | in [[Drafts]].                                                                                                   |
 | 01:00:16   | I mean, we had Greg on recently, but after we recorded that show, he, because I pestered                     |
 | 01:00:22   | him on the show, I think he added the ability to turn [[Drafts]] tags into Apple finder tags.                    |
 | 01:00:29   | So now like one of the automations I use is like when I have a phone call come in for                        |
@@ -1097,7 +1097,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00:48   | And so I can fill that in during the call, but it also automatically when it runs the                        |
 | 01:00:53   | template, it tags the note with the word with a tag called note and then a tag for legal.                    |
 | 01:01:02   | And then when I'm done, I also add an additional tag with a client name, all that's done                     |
-| 01:01:08   | in Drafts.                                                                                                   |
+| 01:01:08   | in [[Drafts]].                                                                                                   |
 | 01:01:09   | And then when I push the button at the end, it exports a markdown text file to a specific                    |
 | 01:01:17   | location on my drive that Hazel's looking at.                                                                |
 | 01:01:19   | And [[Hazel]] says, oh, there is a file that has client name plus the word note plus a note                      |
@@ -1138,9 +1138,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:03:28   | There's no end-to-end encryption.                                                                            |
 | 01:03:30   | There's a whole bunch of reasons why I just can't use it for a lot of the stuff I do.                        |
 | 01:03:35   | But the idea of backlinks, which Roam Research uses, I see the attraction of that.                           |
-| 01:03:41   | And I've been putting a rudimentary backlink system into Drafts.                                             |
+| 01:03:41   | And I've been putting a rudimentary backlink system into [[Drafts]].                                             |
 | 01:03:46   | And so because [[Drafts]] has the ability to create crosslinks.                                                  |
-| 01:03:50   | So if you're in Drafts, like I have a draft called Automator's podcast.                                      |
+| 01:03:50   | So if you're in [[Drafts]], like I have a draft called Automator's podcast.                                      |
 | 01:03:55   | And then underneath that, I've got a bunch of details for the show and settings and things                   |
 | 01:04:00   | that I use for show, but I've also got a thing there called episode list.                                    |
 | 01:04:04   | And underneath that, I've got, you know, each episode listed, you know, and they'll say,                     |
@@ -1173,7 +1173,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:05:41   | So hopefully they'll get the security in order [[Obsidian]] seems to come out with a new update                  |
 | 01:05:46   | every week [[Drafts]] is getting some amazing features.                                                          |
 | 01:05:49   | So I honestly don't know where it all ends, but for now I'm doing this in a place I trust,                   |
-| 01:05:55   | which is Drafts, and, and I'm pretty happy with the backlinks I've been doing there.                         |
+| 01:05:55   | which is [[Drafts]], and, and I'm pretty happy with the backlinks I've been doing there.                         |
 | 01:06:00   | Yes.                                                                                                         |
 | 01:06:01   | That sounds really great.                                                                                    |
 | 01:06:02   | I was really excited when [[Drafts]] added crosslinking where you can use two sets of square brackets            |
@@ -1192,7 +1192,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:06:56   | at the top if I can, but I'll figure it out.                                                                 |
 | 01:06:59   | And the nice thing about doing [[Drafts]] is [[Drafts]] is on iOS and it's on Mac, and it is so automation-friendly  |
 | 01:07:05   | with shortcuts.                                                                                              |
-| 01:07:06   | I mean, and with Drafts, you can get the UID of a specific note.                                             |
+| 01:07:06   | I mean, and with [[Drafts]], you can get the UID of a specific note.                                             |
 | 01:07:11   | I mean, there's just a lot to like about that whole system and that ecosystem.                               |
 | 01:07:17   | As we're recording this, I've got a series of posts and a video coming out this week                         |
 | 01:07:21   | about this personal retreat I took, and all that stuff was written in draft, but it's                        |
@@ -1207,7 +1207,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:08:03   | Like when I was experimenting with the room research, I would put hook links in the room                     |
 | 01:08:08   | research outline to a specific client document, so the document itself wouldn't be in the                    |
 | 01:08:13   | room database, but I would be able to get access to it.                                                      |
-| 01:08:17   | But I did the same thing in Drafts, or like I talked earlier about how I have a page,                        |
+| 01:08:17   | But I did the same thing in [[Drafts]], or like I talked earlier about how I have a page,                        |
 | 01:08:23   | a [[Drafts]] page for the Automator's podcast.                                                                   |
 | 01:08:25   | Well, on that page, I have a link to the [[Google]] folder where we keep all of the documents                    |
 | 01:08:30   | that we do the show on.                                                                                      |

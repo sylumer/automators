@@ -179,14 +179,14 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 06:44      | So there's syspref sound, which in case people can't guess is system preferences sound pane.            |
 | 06:50      | There's also syspref update, which is system preferences update pane.                                   |
 | 06:55      | And then there's some other ones as well, because I found recently one of the things                    |
-| 06:58      | that I end up doing a lot is I, I copy some stuff and then I want to put it in Drafts.                  |
+| 06:58      | that I end up doing a lot is I, I copy some stuff and then I want to put it in [[Drafts]].                  |
 | 07:03      | Now I could use PopClip, which we're going to come back to later in the show because                   |
 | 07:07      | I have been using PopClip a lot, but I don't have PopClip in some applications just because           |
 | 07:13      | it it ends up getting in the way of what I'm doing, especially coding all day long.                     |
 | 07:17      | It would be very frustrating if it was popping up all the time in my code editor, but sometimes         |
-| 07:21      | they still need to get that text into Drafts.                                                           |
+| 07:21      | they still need to get that text into [[Drafts]].                                                           |
 | 07:24      | And so I end up copying it, and then I just hit a button on my Stream Deck.                             |
-| 07:29      | And that runs an AppleScript to open it in Drafts.                                                     |
+| 07:29      | And that runs an AppleScript to open it in [[Drafts]].                                                     |
 | 07:34      | And it just creates a new note with that AppleScript with with my clipboard.                           |
 | 07:39      | And it's pretty easy, I have to say, David.                                                             |
 | 07:41      | I was impressed when I was looking at all this stuff at how easy it was actually to                     |
@@ -629,7 +629,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 33:28      | Tell application [[Drafts]] to make a new draft.                                                            |
 | 33:32      | So that sounds pretty obvious, but explain what that does.                                              |
 | 33:36      | Yeah.                                                                                                   |
-| 33:37      | So tell application [[Drafts]] means we're going to talk to Drafts.                                         |
+| 33:37      | So tell application [[Drafts]] means we're going to talk to [[Drafts]].                                         |
 | 33:40      | Two means all of the rest of the script is going to be on this one line.                                |
 | 33:43      | Okay.                                                                                                   |
 | 33:44      | We're not doing the new line and the indentation that I talked about with the four line script          |
@@ -647,7 +647,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 34:11      | So with properties, here's the data.                                                                    |
 | 34:14      | And then the curly brackets, this is going to be the data that I passed to it.                          |
 | 34:18      | Content.                                                                                                |
-| 34:19      | Well, this is the content that's going to go into Drafts.                                               |
+| 34:19      | Well, this is the content that's going to go into [[Drafts]].                                               |
 | 34:22      | And then I put the clipboard, because the clipboard is something that you can grab.                     |
 | 34:26      | And it's always available.                                                                              |
 | 34:27      | It's called the clipboard with a space in between.                                                      |
@@ -778,7 +778,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 41:27      | At the end of the day, it doesn't make a big difference.                                                |
 | 41:29      | But if you're only getting your AppleScript to do a singular thing, then it's very easy                |
 | 41:36      | to say tell application [[Drafts]] to make it, make new draft with properties, et cetera.                   |
-| 41:41      | Instead of tell application Drafts, make new draft with properties and tell.                            |
+| 41:41      | Instead of tell application [[Drafts]], make new draft with properties and tell.                            |
 | 41:47      | It's just a little bit of extra work.                                                                   |
 | 41:48      | So both of those work, by the way, you can use mine or you can use the standard styling                 |
 | 41:52      | with tell and end tell.                                                                                 |
@@ -1299,7 +1299,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:12:56   | So I'm really impressed with it.                                                                        |
 | 01:12:58   | All right.                                                                                              |
 | 01:12:59   | When you need to scratch a quick note with your iPad, where do you go?                                  |
-| 01:13:04   | So I actually go to Drafts.                                                                             |
+| 01:13:04   | So I actually go to [[Drafts]].                                                                             |
 | 01:13:07   | So people are going to be going, wait, [[Drafts]] has handwriting support.                                  |
 | 01:13:11   | [[Drafts]] doesn't do handwritten notes, but it supports the scribble where you can just write,             |
 | 01:13:17   | you know, words.                                                                                        |
@@ -1314,7 +1314,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:13:53   | notes.                                                                                                  |
 | 01:13:54   | But it's going to be [[Drafts]] if I want the end results to be typed or notability if                      |
 | 01:13:59   | I want to be able to scribble down random diagrams and stuff as I go.                                   |
-| 01:14:03   | I'm going to try that with Drafts, you know, using scribble to enter notes because in searchable        |
+| 01:14:03   | I'm going to try that with [[Drafts]], you know, using scribble to enter notes because in searchable        |
 | 01:14:08   | and [[Drafts]] is where so much of my other stuff is anyway.                                                |
 | 01:14:12   | But I went through a similar process, recently, you know, we've released iOS 15 and it's                |
 | 01:14:18   | got this new feature where if you swipe up from the upper right corner with your pencil,                |

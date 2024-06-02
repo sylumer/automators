@@ -1616,8 +1616,8 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:12:03   | because that's where it deserves to be.                              |
 | 01:12:05   | So Rose, what's in your dock right now?                              |
 | 01:12:08   | My dock currently contains three applications.                       |
-| 01:12:11   | It contains Drafts, OmniFocus and Launch Center Pro.                 |
-| 01:12:15   | I've got Drafts, Launch Center Pro and Fantastic Health.             |
+| 01:12:11   | It contains [[Drafts]], OmniFocus and Launch Center Pro.                 |
+| 01:12:15   | I've got [[Drafts]], Launch Center Pro and Fantastic Health.             |
 | 01:12:20   | How about you, David, what's in your dock?                           |
 | 01:12:25   | I guess I'm the odd man out here.                                    |
 | 01:12:29   | I have mail, Launch Center Pro, Safari                               |

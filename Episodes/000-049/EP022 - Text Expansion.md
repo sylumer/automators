@@ -539,7 +539,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 21:03      | based on what we're talking about and what I'm following                                 |
 | 21:05      | up on.                                                                                   |
 | 21:06      | And then once I either save that to Ulysses or if I'm in                                 |
-| 21:09      | Drafts, I move it to Ulysses.                                                            |
+| 21:09      | [[Drafts]], I move it to Ulysses.                                                            |
 | 21:11      | I've got that recorded and sitting there, you know,                                      |
 | 21:15      | probably five to, you know, 10 times a day and typing that                               |
 | 21:21      | date and time stamp and manually is a complete pain in the                               |
@@ -1133,7 +1133,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 47:16      | I'm in an application that recognises snippets.                                          |
 | 47:18      | And I'm sorry,                                                                           |
 | 47:19      | well, it will work with applications that recognise snippets                             |
-| 47:21      | like Drafts,                                                                             |
+| 47:21      | like [[Drafts]],                                                                             |
 | 47:22      | but like if you go into an email application that doesn't,                               |
 | 47:25      | wouldn't it be nice if you could type your snippets?                                     |
 | 47:28      | Because you can using the TextExpander keyboard,                                        |
@@ -1150,7 +1150,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 47:58      | I'll just be able to press the button to pop up the on-screen keyboard                   |
 | 48:01      | and type a few letters.                                                                  |
 | 48:03      | But in general, I personally prefer to write in applications                             |
-| 48:06      | with TextExpander support like Drafts,                                                  |
+| 48:06      | with TextExpander support like [[Drafts]],                                                  |
 | 48:08      | just to save myself a lot of the time and aggravation with,                              |
 | 48:12      | why didn't this work?                                                                    |
 | 48:13      | Oh, because I'm not in an application that supports it on iOS.                           |

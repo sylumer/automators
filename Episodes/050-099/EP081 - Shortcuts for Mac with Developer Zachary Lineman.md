@@ -293,7 +293,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 11:56      | It's a bookmarklet.                                                                                  |
 | 11:57      | Just think of it as a bookmarklet.                                                                   |
 | 11:58      | You can do things.                                                                                   |
-| 11:59      | And of course, we've got other great applications like Scriptable and Drafts.                        |
+| 11:59      | And of course, we've got other great applications like Scriptable and [[Drafts]].                        |
 | 12:04      | And even Omni's applications, which have got Omni Automation in them, which uses JavaScript,         |
 | 12:08      | all of them use JavaScript.                                                                          |
 | 12:10      | So it's not a surprise to see people who are familiar with JavaScript.                               |

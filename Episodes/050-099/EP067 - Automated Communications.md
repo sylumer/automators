@@ -320,7 +320,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 15:05      | Yeah.                                                                                                                                          |
 | 15:06      | Not that he can't develop, obviously.                                                                                                          |
 | 15:07      | And if you're primarily working on a Mac, I think it's an absolute no-brainer.                                                                 |
-| 15:12      | On iOS, you need to run it through their app or something like Drafts, which is not that                                                       |
+| 15:12      | On iOS, you need to run it through their app or something like [[Drafts]], which is not that                                                       |
 | 15:16      | big of a deal.                                                                                                                                 |
 | 15:17      | But I have found that to be the time I spent building that automation to pay off immensely                                                     |
 | 15:23      | over the years.                                                                                                                                |
@@ -1150,7 +1150,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 01:05:32   | And then I can check in on the [Automators forum](https://talk.automators.fm).                                                                                               |
 | 01:05:34   | I can see that Jeremy Chávez has been asking about extracting heart rate recovery data,                                                        |
 | 01:05:38   | for example, and I can check in on the MPU forums, see a lot of people are going crazy                                                         |
-| 01:05:42   | about your contextual computing episode, which came out recently, which was great Drafts,                                                      |
+| 01:05:42   | about your contextual computing episode, which came out recently, which was great [[Drafts]],                                                      |
 | 01:05:47   | things like that, you know, all of, all of the good things, but you can also get RSS                                                           |
 | 01:05:51   | feeds out of these, but Slack is a lot more difficult to handle, unfortunately.                                                                |
 | 01:05:55   | Yeah.                                                                                                                                          |

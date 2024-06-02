@@ -345,7 +345,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 11:54      | Yeah, it really is.                                               |
 | 11:56      | Though I would say I do feel that maybe [[Drafts]] deserves           |
 | 12:01      | a good place in there as well                                     |
-| 12:03      | because creating automations in Drafts,                           |
+| 12:03      | because creating automations in [[Drafts]],                           |
 | 12:06      | especially with some of the updates it's had recently,            |
 | 12:09      | is incredibly easy to do                                          |
 | 12:10      | without reaching for the script action.                           |
@@ -367,10 +367,10 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 12:55      | If you look at the links that come out of the show                |
 | 12:57      | and the discussions, [[Drafts]] comes up repeatedly.                  |
 | 13:01      | We have guests that we had no idea used [[Drafts]] at all             |
-| 13:04      | and they'll tell us all about the ways they're using Drafts.      |
+| 13:04      | and they'll tell us all about the ways they're using [[Drafts]].      |
 | 13:07      | Yeah, yeah, and it's so common that I talk to somebody            |
 | 13:12      | and I say, oh, you know,                                          |
-| 13:14      | you could really solve this easily with Drafts.                   |
+| 13:14      | you could really solve this easily with [[Drafts]].                   |
 | 13:17      | And they go, oh, I don't know.                                    |
 | 13:19      | And I sort of get them started                                    |
 | 13:20      | by creating the start of an action for them.                      |
@@ -393,7 +393,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 13:59      | What they call the place for text, right?                         |
 | 14:02      | Yep, that place where text starts.                                |
 | 14:03      | So that's the triumvirate, right?                                 |
-| 14:05      | You know, shortcuts, Drafts, keyboard, my stroke.                 |
+| 14:05      | You know, shortcuts, [[Drafts]], keyboard, my stroke.                 |
 | 14:07      | But behind that and links and references,                         |
 | 14:11      | something that I didn't really expect                             |
 | 14:13      | when we started this show                                         |

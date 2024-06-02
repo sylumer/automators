@@ -721,7 +721,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 39:22      | Even with the great upgrades it's got with iOS 13, anybody on the reminders team who's                                                                           |
 | 39:26      | listening should not feel insulted by this, I'm just very, very persnickety about my                                                                             |
 | 39:30      | workflows.                                                                                                                                                       |
-| 39:31      | But I really love Drafts.                                                                                                                                        |
+| 39:31      | But I really love [[Drafts]].                                                                                                                                        |
 | 39:34      | [[Drafts]] is a great application and I do an awful lot of things in it.                                                                                             |
 | 39:37      | And thanks to the workspaces feature, it's like you can have multiple programs in one                                                                            |
 | 39:43      | program.                                                                                                                                                         |
@@ -772,7 +772,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 42:46      | some reason, you know, it's nice to not have to worry about it because that makes everything                                                                     |
 | 42:51      | more stressful.                                                                                                                                                  |
 | 42:53      | So I mark the items that I need to charge and then I mark when they've been charged.                                                                             |
-| 42:59      | And this is using the task format in Drafts.                                                                                                                     |
+| 42:59      | And this is using the task format in [[Drafts]].                                                                                                                     |
 | 43:02      | Now the task format in [[Drafts]] is based on the breakdown list format, which begins everything                                                                     |
 | 43:06      | with a dash.                                                                                                                                                     |
 | 43:08      | And then what it does is it does an open square bracket space, close square bracket, but [[Drafts]]                                                                 |
@@ -904,7 +904,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 50:11      | And I really like having deep links as well, because things like Dev and Think have got                                                                          |
 | 50:17      | unique links to all of the documents and groups and databases, which are perfect for adding                                                                      |
 | 50:22      | to say a note, an OmniFocus, or a link to something.                                                                                                             |
-| 50:27      | Unique links out of OmniFocus, Drafts, Ulysses, Dev and Think.                                                                                                   |
+| 50:27      | Unique links out of OmniFocus, [[Drafts]], Ulysses, Dev and Think.                                                                                                   |
 | 50:31      | All these apps make them, right?                                                                                                                                 |
 | 50:34      | Except the Apple native app.                                                                                                                                     |
 | 50:35      | In that case, you've got to come up with some goofy search term and that anyway.                                                                                 |

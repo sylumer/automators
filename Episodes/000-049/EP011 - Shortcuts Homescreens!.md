@@ -143,7 +143,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 05:03      | You can make shortcuts to take you to specific areas of the mail application or your third           |
 | 05:08      | party mail app of choice.                                                                            |
 | 05:10      | So say, just take me to the Max Barking inbox, and you can do that, or you can have a shortcut       |
-| 05:16      | that just opens a compose window in Drafts, and then you can avoid the mail app altogether.          |
+| 05:16      | that just opens a compose window in [[Drafts]], and then you can avoid the mail app altogether.          |
 | 05:22      | So this stuff can get really powerful and really help you get better at getting your                 |
 | 05:27      | work done.                                                                                           |
 | 05:28      | Definitely.                                                                                          |
@@ -648,11 +648,11 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 34:58      | let's start five minutes early, and say, do you want to create a Siri Shortcut?                      |
 | 35:02      | Telling Rose Mary Orchard five minutes early, no, that's a one time thing.                           |
 | 35:07      | I feel like they could do a better job with those donations, but the reason I really didn't          |
-| 35:11      | ever get into going deeper on that communications tab is because I use all that stuff for Drafts.    |
-| 35:16      | I mean, I write most of it in Drafts, and then with Drafts, I've already got the send                |
+| 35:11      | ever get into going deeper on that communications tab is because I use all that stuff for [[Drafts]].    |
+| 35:16      | I mean, I write most of it in [[Drafts]], and then with [[Drafts]], I've already got the send                |
 | 35:20      | to Rose, send to family groups into the, you know, all my usual suspects are already included        |
-| 35:26      | in automation on Drafts.                                                                         |
-| 35:28      | Yeah, I mean, that would probably should do something on Drafts.                                     |
+| 35:26      | in automation on [[Drafts]].                                                                         |
+| 35:28      | Yeah, I mean, that would probably should do something on [[Drafts]].                                     |
 | 35:32      | I don't think we need to give that probably a show at some point, at least a show.                   |
 | 35:36      | There's a lot to cover there.                                                                        |
 | 35:37      | Yes, there is, there are a few good things that I donated to messages, though, for example,          |
@@ -671,7 +671,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 36:26      | And then check it.                                                                                   |
 | 36:27      | And then I go to [[Drafts]] and I write it only to send it back to the application I just                |
 | 36:30      | came from.                                                                                           |
-| 36:31      | That's the case where Drafts, unfortunately, does not make sense there.                              |
+| 36:31      | That's the case where [[Drafts]], unfortunately, does not make sense there.                              |
 | 36:34      | Yeah, but I mean, one of the other things I really want to emphasise on this is that                 |
 | 36:38      | really lets you expose the apps that you normally are digging on other screens or in folders         |
 | 36:43      | for.                                                                                                 |
@@ -900,9 +900,9 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 49:46      | I don't think so.                                                                                    |
 | 49:47      | No, I don't think either was a breaking beta by saying it's in our dock because it is.               |
 | 49:53      | What's in your dock these days, Russ?                                                                |
-| 49:55      | Currently, I have Drafts, Safari, Launch Center Pro, and OmniFocus.                                  |
+| 49:55      | Currently, I have [[Drafts]], Safari, Launch Center Pro, and OmniFocus.                                  |
 | 49:59      | How about you?                                                                                       |
-| 50:00      | I have OmniFocus, Drafts, and Launch Center Pro, and just those three.                               |
+| 50:00      | I have OmniFocus, [[Drafts]], and Launch Center Pro, and just those three.                               |
 | 50:05      | I keep trying three in the dock, but I use Safari a lot because I Google so much.                    |
 | 50:11      | So maybe I need to put a shortcut in my dock to Google Things instead of opening Safari.             |
 | 50:16      | Well, actually, and I kind of misspoke, it's not actually OmniFocus.                                 |

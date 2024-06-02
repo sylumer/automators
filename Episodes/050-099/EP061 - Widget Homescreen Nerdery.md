@@ -286,7 +286,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 18:13      | more convenient than going and digging for apps.                                                       |
 | 18:16      | Yes. Yeah. That's the thing. Like I, I pretty much, if I'm looking for an app, I open the              |
 | 18:20      | app library now. Um, but most of the time I don't need to, because either I've hooked                  |
-| 18:24      | it to the double back tap on my phone, opens Drafts. Um, and it's straight to a new draft              |
+| 18:24      | it to the double back tap on my phone, opens [[Drafts]]. Um, and it's straight to a new draft              |
 | 18:29      | so that I can, you know, start capturing immediately or it's a widget on my home screen.               |
 | 18:34      | All right. Um, one, another one. And I, I promise we're going to get to the nerdy or,                  |
 | 18:40      | you know, build your own widgets in a minute, but there's a couple I just want to call out.            |
@@ -637,7 +637,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 47:26      | own, in that it just runs a shortcut, and then uses that to figure out what the widget is,             |
 | 47:33      | and then displays it, which means that in order to update it, you have to run a shortcut. So I         |
 | 47:38      | now have a shortcut called widget updates, which I just run on a regular basis. I have it run,         |
-| 47:44      | I think, every time I close Drafts, and at the moment is running once an hour. And these widgets       |
+| 47:44      | I think, every time I close [[Drafts]], and at the moment is running once an hour. And these widgets       |
 | 47:48      | don't sync between your devices, but you can create a widget on, say, one device and then              |
 | 47:54      | run it on another, and it will just create the widget and update it as well. But it won't update       |
 | 47:59      | something on another device. But what I like about this is everything is inside of shortcuts.          |

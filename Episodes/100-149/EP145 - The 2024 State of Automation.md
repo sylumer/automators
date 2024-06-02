@@ -449,7 +449,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 22:41      | Okay, so staying on the Mac, let's talk a bit about text automation and where that stands.              |
 | 22:48      | [[Drafts]] is still the king.                                                                               |
 | 22:51      | Yeah, like there is not a day that doesn't go by where I don't create like 20 or 30                     |
-| 22:56      | drafts in Drafts.                                                                                       |
+| 22:56      | drafts in [[Drafts]].                                                                                       |
 | 22:58      | And like I don't even know how I do it or why I do it like that.                                        |
 | 23:03      | You know, like it just happens.                                                                         |
 | 23:06      | But it's great.                                                                                         |
@@ -463,7 +463,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 23:37      | that at some point because I am really, really loving that.                                             |
 | 23:41      | That's so good.                                                                                         |
 | 23:42      | There's open AI, [[ChatGPT]] integration, mail drop, which is sort of an add on application                |
-| 23:48      | for Mac for Drafts.                                                                                     |
+| 23:48      | for Mac for [[Drafts]].                                                                                     |
 | 23:51      | Now like the supports sending emails to your [[Drafts]] library because they added mail drop                |
 | 23:56      | as a feature.                                                                                           |
 | 23:57      | There's just so much good stuff there.                                                                  |
@@ -475,7 +475,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 24:18      | And then I just forget about them, I guess.                                                             |
 | 24:21      | And yeah, then I come back and discover that there's another new feature that I didn't                  |
 | 24:27      | know about because I kind of forgot about it.                                                           |
-| 24:29      | Well, we're talking about Drafts.                                                                       |
+| 24:29      | Well, we're talking about [[Drafts]].                                                                       |
 | 24:31      | I should probably also mention Tally, which is Greg Pierce's other app, or one of his                   |
 | 24:35      | other apps.                                                                                             |
 | 24:36      | And it's just for, it's basically for tallying things, so logging, you know, this number                |

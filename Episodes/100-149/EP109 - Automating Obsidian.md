@@ -190,7 +190,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 05:15      | ones not needed for personal because I do a lot of code in my free time as well.                   |
 | 05:19      | But it's really useful to just be able to go, hey,                                                 |
 | 05:22      | this is where I'm going to have my reference data.                                                 |
-| 05:25      | For me, a lot of text still starts in Drafts.                                                      |
+| 05:25      | For me, a lot of text still starts in [[Drafts]].                                                      |
 | 05:29      | Like if I'm not sure what something is or where it's going or whatever,                            |
 | 05:33      | I don't think about it.                                                                            |
 | 05:33      | It goes in [[Drafts]] and then I can send it off wherever later.                                       |
@@ -2022,7 +2022,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:01   | there are some occasions                                                                           |
 | 01:16:03   | where [[Hazel]] is the right solution for that                                                         |
 | 01:16:05   | trust me folks                                                                                     |
-| 01:16:07   | Drafts, Shortcuts and [[Keyboard Maestro]]                                                             |
+| 01:16:07   | [[Drafts]], Shortcuts and [[Keyboard Maestro]]                                                             |
 | 01:16:09   | are tending to be the main ones                                                                    |
 | 01:16:11   | and what I've found                                                                                |
 | 01:16:13   | is really useful is actually using [[Drafts]]                                                         |

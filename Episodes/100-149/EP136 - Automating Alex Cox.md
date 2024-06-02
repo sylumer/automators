@@ -842,8 +842,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:26:17   | got their apps. Like, they've got their apps run on visionOS or, like, they set them up and tested      |
 | 01:26:21   | them. Like, I don't know if they've got their hands on a piece of hardware and actually been to         |
 | 01:26:25   | a lab and tried stuff out. I would be surprised if they hadn't had that opportunity. But, you know,     |
-| 01:26:31   | I feel like that, you know, Omni Group and so on. And similarly, Drafts, I'm gonna need that,           |
-| 01:26:37   | I'm gonna need Drafts. Like, obviously, I'm gonna need Drafts. But I feel like widgets on top of        |
+| 01:26:31   | I feel like that, you know, Omni Group and so on. And similarly, [[Drafts]], I'm gonna need that,           |
+| 01:26:37   | I'm gonna need [[Drafts]]. Like, obviously, I'm gonna need [[Drafts]]. But I feel like widgets on top of        |
 | 01:26:43   | my life would be a really good place to start. Like, widgets and interactivity. And guess what?         |
 | 01:26:48   | Widgets are becoming interactive with iOS 17. So, that's the thing.                                     |
 | 01:26:52   | Yeah, it seems like it is coming together, doesn't it? Yeah. Day one beta this year because of the      |

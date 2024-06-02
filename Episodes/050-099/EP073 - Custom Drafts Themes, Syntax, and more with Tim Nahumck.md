@@ -82,7 +82,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 00:40      | Hey, Tim. Welcome back to the show.                                                                  |
 | 00:42      | Hey, everybody. Thanks for having me back.                                                           |
 | 00:47      | Well, you're very welcome.                                                                           |
-| 00:50      | Tim is the master of Drafts, a frequent author on various bits and pieces of Drafts, and             |
+| 00:50      | Tim is the master of [[Drafts]], a frequent author on various bits and pieces of [[Drafts]], and             |
 | 00:57      | really is funny. [[Drafts]] is an automation platform. Historically, you don't think of a text editor    |
 | 01:03      | as an automation platform, but with all the work Greg has done over the years, that's                |
 | 01:08      | what it's become.                                                                                    |
@@ -138,7 +138,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 05:29      | Back when I first wrote about [[Drafts]] 5, it really was one of those things that you could             |
 | 05:33      | create little modular apps. If I wanted a writing app, I was there. If I want a journal              |
 | 05:37      | app, I'm there. If I want a scratch pad, I'm there, and it's just either a key press or              |
-| 05:42      | a swipe away, but now you can have visually different apps within Drafts, and it's going             |
+| 05:42      | a swipe away, but now you can have visually different apps within [[Drafts]], and it's going             |
 | 05:50      | to really start to take off, and there's some interesting possibilities, I think, ahead.             |
 | 05:55      | Yeah. All right, let's take a minute and talk about this new custom themes and [[Drafts]]                |
 | 06:01      | and how it works. Give us an overview. The themes and syntaxes, so we'll break it                    |
@@ -173,7 +173,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 08:42      | interface colours, right? It's a visual distinction. I may want to use, you know, a certain monospace |
 | 08:49      | font for my writing and regular fonts for just simple scratchpad note-taking. And I can              |
 | 08:55      | have that within one app. I don't need to switch. And that's always been my thing.                   |
-| 08:59      | It's kind of similar to what you said, David, is that I get so much value out of Drafts.             |
+| 08:59      | It's kind of similar to what you said, David, is that I get so much value out of [[Drafts]].             |
 | 09:03      | It really does replace a lot of apps for me, so I don't need to go anywhere else but the             |
 | 09:07      | one place. And now I can really customise everything down to little tiny bits of text                |
 | 09:14      | for colours just to make sure it pops and I see it in my own way for me.                              |
@@ -308,7 +308,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 20:31      | RelayFM.                                                                                             |
 | 20:32      | Tim, we've covered themes, which is how things look mostly. There's also syntaxes. Now,              |
 | 20:40      | I know what a syntax is, but for the people at home, I think you will do a better job                |
-| 20:44      | of explaining what is a syntax and why is that important in Drafts?                                  |
+| 20:44      | of explaining what is a syntax and why is that important in [[Drafts]]?                                  |
 | 20:49      | I will try to do that justice. A syntax is just the built-in grammar that the file uses.             |
 | 20:59      | You might just want simple text. You might want to write in markdown or multi-markdown.              |
 | 21:03      | You may be writing JavaScript or even setting some things up in Taskpaper. Those have been          |
@@ -317,7 +317,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 21:25      | but you need to know regular expressions, more commonly called regex. It's not for the               |
 | 21:33      | faint of heart. I think I said that in my review. It really is not for the faint of                  |
 | 21:37      | heart. The only reason I think I was able to do what I've done with my own syntax of                 |
-| 21:46      | Draftsdown is really because I've grafted some other elements here and there to my own.              |
+| 21:46      | [[Drafts]]down is really because I've grafted some other elements here and there to my own.              |
 | 21:52      | It's really difficult to do. It's one of those things if you have an experience or                   |
 | 21:58      | have somebody that can guide you, it's a good idea to do. I think the biggest reason why             |
 | 22:04      | you'd want to use your own syntax is because you use the app in a certain way or have a              |
@@ -373,7 +373,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 26:32      | a syntax called [[Drafts]] down and it just, I started with the multi Markdown that's built              |
 | 26:37      | in. So I have all the critic Markup. I have all of the features of Markdown and multi                |
 | 26:42      | Markdown. So everything's in there already. And you can export syntax files the same way             |
-| 26:50      | you do theme files and Drafts. So it's a pretty easy thing to grab that file. But I                  |
+| 26:50      | you do theme files and [[Drafts]]. So it's a pretty easy thing to grab that file. But I                  |
 | 26:56      | started including, because I will often to emphasise something in my writing, I made                 |
 | 27:01      | bold and italicise it. And that's not something that's built into the multi Markdown. It's           |
 | 27:05      | occasionally that can get a little weird with just how it highlights, but I put that in              |
@@ -384,7 +384,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 27:36      | through some some different [[Drafts]] that I have. But I've started to incorporate task                 |
 | 27:43      | lists in greater form. And I mean, really, it was probably about a week before the [[Drafts]]            |
 | 27:51      | 26 got released that I was really starting to play with two state and three state tasks.             |
-| 27:58      | Those are the checkboxes that you see within Drafts. But it it's the three state tasks               |
+| 27:58      | Those are the checkboxes that you see within [[Drafts]]. But it it's the three state tasks               |
 | 28:04      | are really interesting because that's not part of multi Markdown. That as it's as it's               |
 | 28:09      | shipped in the app, you have to actually use a simple list or simple list plus syntax to             |
 | 28:15      | get those. And so I just combined those two things together to say, All right, here's                |
@@ -412,7 +412,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 30:12      | a syntax that has the, you know, the word to do in their TODO and a colon, you could                 |
 | 30:19      | make that so you can navigate to that element throughout the draft. So it, it can start              |
 | 30:24      | to extend the app even farther than it is today and more use cases going forward.                    |
-| 30:30      | Do you guys use that feature in Drafts, the reorder feature? Are you familiar with this?             |
+| 30:30      | Do you guys use that feature in [[Drafts]], the reorder feature? Are you familiar with this?             |
 | 30:35      | Yes.                                                                                                 |
 | 30:36      | Oh, arrange mode?                                                                                    |
 | 30:37      | All the time.                                                                                        |
@@ -421,7 +421,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 30:48      | find, you know, one of the last steps to do is just go into that mode and fill, you know,            |
 | 30:53      | give myself free reign to move things around. And for listeners that aren't aware, they              |
 | 30:58      | have the ability in [[Drafts]] to drag as a starting point paragraphs up and down, you can just          |
-| 31:04      | move them around. But with Drafts, it gets even more granular. I think it goes down to               |
+| 31:04      | move them around. But with [[Drafts]], it gets even more granular. I think it goes down to               |
 | 31:08      | the sentence level of memory serves. And, and you can just, you can reorder your text.               |
 | 31:14      | And after you get to writing things, it makes a lot of sense to take some time and look              |
 | 31:19      | at it again to make sure the organisation makes sense. And this easy rearrange is so,                |
@@ -469,7 +469,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 34:50      | Right. And for those that are thinking, Hey, you know, a digital bullet journal, I like              |
 | 34:54      | using my, my, my handwriting, right? You know, I like writing my hand. Well, in version              |
 | 35:00      | 22, we, you know, scribble came along. And that's something you can use there too. It's              |
-| 35:08      | it's great. I use scribble with Drafts all the time. And it I can write by hand, I can               |
+| 35:08      | it's great. I use scribble with [[Drafts]] all the time. And it I can write by hand, I can               |
 | 35:15      | type it in, it doesn't really matter. And that and that's just a another example of                  |
 | 35:20      | how great these little features are. Since we've gone from [[Drafts]] five to 26. Now, all               |
 | 35:27      | these little features are just huge usability improvements that are just fantastic.                  |
@@ -505,7 +505,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 37:52      | auto switches at well with the system. So that's, you know, when sun comes up and when               |
 | 37:58      | the sun comes down, which of course recently changed. So that's not at all confusing. Fortunately,   |
 | 38:03      | my Mac knows what I'm doing there.                                                                   |
-| 38:05      | And we didn't mention it, but in the preferences for Drafts, there are buttons to get themes         |
+| 38:05      | And we didn't mention it, but in the preferences for [[Drafts]], there are buttons to get themes         |
 | 38:11      | and get syntaxes at the bottom of each screen. So don't when you open the app, you'll see            |
 | 38:18      | a limited number built in, but there is so much more out there. Just push the button                 |
 | 38:22      | and go go try some of these out.                                                                     |
@@ -529,9 +529,9 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 39:59      | want your list to get a whole lot smarter, get more done with Microsoft lists. Go to                 |
 | 40:04      | aka.ms slash ms lists for more information, videos, demos, blogs and more. That's aka.ms             |
 | 40:12      | slash ms lists. Make a list and let it flow. Our thanks to Microsoft lists for their support         |
-| 40:19      | of the Automators and all of Relay FM. So Tim, you don't just write in Drafts. You automate          |
+| 40:19      | of the Automators and all of Relay FM. So Tim, you don't just write in [[Drafts]]. You automate          |
 | 40:27      | things. You mentioned before you've got a bunch of things that just happen. What are                 |
-| 40:31      | these things that just happen? What are you actually automating in Drafts? And they're               |
+| 40:31      | these things that just happen? What are you actually automating in [[Drafts]]? And they're               |
 | 40:36      | small automations, right? But anytime I hit command K, which is a very common keyboard               |
 | 40:42      | shortcut, it inserts a markdown link, right? So even though that's something that I just             |
 | 40:48      | do and it's muscle memory for me now, that's still a script running in the background. It's          |
@@ -605,7 +605,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 46:58      | it doesn't work, I use another app. But I use it for writing for journalling, those                   |
 | 47:03      | sorts of things. So I have my automation that I've had for a while to publish to WordPress.          |
 | 47:10      | So I use that all the time. When I when I do my writing for my journal, I've created                 |
-| 47:17      | a PDF version of my journal. So now I not only have the text save within Drafts, but                 |
+| 47:17      | a PDF version of my journal. So now I not only have the text save within [[Drafts]], but                 |
 | 47:23      | I also send that over to shortcuts, create a formatted PDF and save that PDF off. It's               |
 | 47:30      | just it's just a quick, easy automation. It runs very quickly. And it just allows me                 |
 | 47:38      | to process some [[Drafts]] out of the system. So it's not as overwhelming.                               |
@@ -651,7 +651,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 50:57      | One of my favourite drums to bang on is the idea of contextual computing and the idea                 |
 | 51:02      | of mode shifting. And you, I think, everyone I've talked to has accomplished that the best           |
 | 51:09      | with [[Drafts]] in these early days of themes. But it sounds like you've really kind of gone             |
-| 51:14      | deep on getting a different context for different modes of doing Drafts.                             |
+| 51:14      | deep on getting a different context for different modes of doing [[Drafts]].                             |
 | 51:19      | Yeah. I try to do that as much as possible because I know that staying in one place,                 |
 | 51:27      | you know, there's people that I know that use, I'll use Gmail as an example. I use Gmail             |
 | 51:33      | at work. That's our preferred platform at work. And I know some people that have personal            |
@@ -741,7 +741,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 58:37      | item in that list for me. So I can, I can get at that. And because it's in Dropbox,                  |
 | 58:42      | I can access it from a whole bunch of places, which makes it pretty easy.                            |
 | 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use [[Obsidian]]           |
-| 58:51      | to store a lot of data and I write everything in Drafts. You know, I don't write that much           |
+| 58:51      | to store a lot of data and I write everything in [[Drafts]]. You know, I don't write that much           |
 | 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian]]'s end-to-end encryption      |
 | 59:03      | model, I don't have a Dropbox resource to dump these, these files into and said, I've                |
 | 59:08      | got it on my native drive on my Mac. So I made a special folder that's watched by our                |
@@ -766,9 +766,9 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:00:54   | calls me, like I have one for a single member, California limited liability company. That's          |
 | 01:01:00   | it's just like an, I'm just looking at that one's on my screen right now. So if you call             |
 | 01:01:03   | me up and say, I need to make an LLC and I'm like, how many members, one member? Okay.               |
-| 01:01:07   | I push one button in Drafts. All the questions I need to ask you just appear in [[Drafts]] and           |
+| 01:01:07   | I push one button in [[Drafts]]. All the questions I need to ask you just appear in [[Drafts]] and           |
 | 01:01:12   | I fill it all out. And then I push this into [[Obsidian]] button and there it goes. You know,            |
-| 01:01:18   | and I just, I just love Drafts. I don't know what we'll say.                                         |
+| 01:01:18   | and I just, I just love [[Drafts]]. I don't know what we'll say.                                         |
 | 01:01:22   | See, the, the interesting thing that it, you both use templates a lot. That's actually               |
 | 01:01:27   | a feature of [[Drafts]] that I barely touch and I probably need to dive more into that myself.           |
 | 01:01:33   | Like that's just something that I don't typically use, but I think I may have to start. Um,          |
@@ -776,7 +776,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:01:42   | to me like I know a lot about it. It, I don't know everything and I don't use everything.            |
 | 01:01:47   | So it's, it's something that having, having people that do more, it educates me and helps            |
 | 01:01:53   | me get along with new possibilities. It's going to be great.                                         |
-| 01:01:56   | I also think it's, we use it in a different way. Like I use Drafts. It's just like it's              |
+| 01:01:56   | I also think it's, we use it in a different way. Like I use [[Drafts]]. It's just like it's              |
 | 01:02:01   | in the dock. It's the app I open up every time I want to type something or write something.          |
 | 01:02:05   | But it's not necessarily the place that the tech stays, you know, whereas you're using               |
 | 01:02:11   | [[Drafts]] for much more, you're actually storing in there. But I think the fact that I send             |
@@ -790,13 +790,13 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:02:49   | business. So it's, it's, yeah, there's definitely different automations. But I mean, it, maybe       |
 | 01:02:55   | this, the templates are a way forward that I can do some fun things and automate some                |
 | 01:03:01   | things like Rosemary was saying, right, like syntaxes, things of that nature. And even               |
-| 01:03:05   | if I end up doing a task management system with Drafts, which is something I've been                 |
+| 01:03:05   | if I end up doing a task management system with [[Drafts]], which is something I've been                 |
 | 01:03:11   | batting in more around in my head for a while, you know, and it kind of comes from a thought         |
 | 01:03:16   | that I think Merlin Mann had for a while was like, Hey, I want Taskpaper and markdown               |
 | 01:03:21   | to basically have a baby and come up with something awesome. And how do I do this? How               |
 | 01:03:26   | do I, how do I make this a reality? And so I've been going through and, you know, in                 |
 | 01:03:31   | the background, it's definitely not anywhere close to being a fleshed out thought of how             |
-| 01:03:35   | am I going to create a task management system within Drafts? And once I do that, I'm going           |
+| 01:03:35   | am I going to create a task management system within [[Drafts]]? And once I do that, I'm going           |
 | 01:03:39   | to need brand new templates. I will need brand new automations. And it's something I'm going         |
 | 01:03:44   | to improve upon over time. It's going to be fun.                                                     |
 | 01:03:47   | Tim, can I just say that you're deluding yourself? This is not hypothetical. You are                 |
@@ -825,8 +825,8 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:05:46   | too. Go and listen to it now. Just search for Sync Up wherever you get your podcasts.                 |
 | 01:05:52   | That's S-Y-N-C-U-P. Or just click the link in the show notes. Go check it out. Our thanks            |
 | 01:05:59   | to Sync Up and OneDrive for their support of this show and all of Relay FM.                          |
-| 01:06:03   | Tim, we've been talking around the idea of storing all of your notes in Drafts. And                  |
-| 01:06:10   | this wasn't really, I think, something Greg intended when he first made Drafts. I mean,              |
+| 01:06:03   | Tim, we've been talking around the idea of storing all of your notes in [[Drafts]]. And                  |
+| 01:06:10   | this wasn't really, I think, something Greg intended when he first made [[Drafts]]. I mean,              |
 | 01:06:15   | [[Drafts]] was the place you went. You wrote text and you sent it out somewhere and something            |
 | 01:06:18   | happened to it. But he unintentionally made this awesome note-tap that has all these storage         |
 | 01:06:24   | abilities with workspaces and tags and all the features he's added. And I know you've                |
@@ -840,10 +840,10 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:07:06   | kind of out of sight, out of mind on a regular basis from my regular list. And what I use            |
 | 01:07:13   | something like that for is I will keep a lot of my lists. So Rose, you mentioned earlier             |
 | 01:07:18   | that you have your movie lists saved to Dropbox so you can have that in [[Obsidian]] later. For          |
-| 01:07:24   | me, I just keep that in Drafts. And there's an append to list action that's in the directory.        |
+| 01:07:24   | me, I just keep that in [[Drafts]]. And there's an append to list action that's in the directory.        |
 | 01:07:31   | And I just use that. And all of my lists are actually in my normal general workspace is              |
 | 01:07:38   | what I call it. But it's in the flagged portion of it, and it's tagged list. So I can actually       |
-| 01:07:44   | just switch to a different workspace and use it as a list app within within Drafts. And              |
+| 01:07:44   | just switch to a different workspace and use it as a list app within within [[Drafts]]. And              |
 | 01:07:52   | so for me, it's it's using the flagged and archived in addition to tags that can really              |
 | 01:07:59   | kind of help with some of that. I'll call it file storage that allow me to work in that              |
 | 01:08:05   | way. So I'll use an example for me for work. For work, I use three different [[Drafts]] that             |
@@ -872,13 +872,13 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:10:24   | But she's she's decided to use the built in notes app. She she and I work really well                |
 | 01:10:29   | with that. So I will take that any day of the week. So I at least have that hurdle crossed.          |
 | 01:10:36   | And so I with those are the really the two places for me is if it doesn't fit within                 |
-| 01:10:41   | Drafts, because it needs an image or or I need to share it with my wife, then I use                  |
+| 01:10:41   | [[Drafts]], because it needs an image or or I need to share it with my wife, then I use                  |
 | 01:10:48   | that in notes. That's it. So that's kind of how things have fleshed out for me. I think              |
 | 01:10:54   | one of the really cool features for someone like you is the [[Drafts]] widget where you can              |
 | 01:10:58   | attach workspaces to a button. So you can have like an eight grid, you know, two by                  |
 | 01:11:04   | four grid with a small, I think isn't that the small widget? That's not even the big                 |
 | 01:11:08   | one where you can just have buttons to jump to specific workspaces. Like I the stuff                 |
-| 01:11:14   | I do keep in Drafts, I've got attached to workspaces. Like I use it for a draft, you                 |
+| 01:11:14   | I do keep in [[Drafts]], I've got attached to workspaces. Like I use it for a draft, you                 |
 | 01:11:19   | know, copy that I'm going to write for the blog or something. And I can just push one                |
 | 01:11:22   | button and get right to it for my home screen. I love that.                                          |
 | 01:11:25   | Yeah. And that came out in [[Drafts]] 22. It's been out for a while. But when widgets came               |
@@ -909,15 +909,15 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:13:40   | to compose a tweet and then send it and not even actually go into the app. It's just all             |
 | 01:13:45   | done in the widget. I mean, I just it's it's something that I hope gets extended to other            |
 | 01:13:51   | apps in iOS 15. It just it needs to be there. I think that's going to elevate the the way            |
-| 01:13:58   | widgets work. If they can make that a reality for not only Drafts, but others too.                   |
-| 01:14:05   | Rose, how are you storing notes in Drafts? I mean, are you doing a lot of onboard storage            |
-| 01:14:11   | in Drafts?                                                                                           |
+| 01:13:58   | widgets work. If they can make that a reality for not only [[Drafts]], but others too.                   |
+| 01:14:05   | Rose, how are you storing notes in [[Drafts]]? I mean, are you doing a lot of onboard storage            |
+| 01:14:11   | in [[Drafts]]?                                                                                           |
 | 01:14:12   | I pretty much just chuck it in a tag. And if it's not tagged, then it's in my inbox.                 |
 | 01:14:18   | So I have a custom workspace called inbox, which is just looking for things that aren't              |
 | 01:14:22   | tagged, which, you know, it's very simple. But it absolutely works for me. And, you know,            |
 | 01:14:30   | and I'm just trying to, you know, go through and process the I don't even know how many              |
 | 01:14:35   | items are in said inbox. Well, okay, let's just say that it's a four digit number right              |
-| 01:14:42   | now, because I have a lot of automations which create Drafts, and I've not yet updated all           |
+| 01:14:42   | now, because I have a lot of automations which create [[Drafts]], and I've not yet updated all           |
 | 01:14:46   | of them to actually have tags, which is a problem. But the good news is they all use                 |
 | 01:14:52   | the same templates. So I can go through and find anything that's fault matching a particular         |
 | 01:14:58   | regular expression. I'm guessing I might spend more time creating some regular expression            |
@@ -928,9 +928,9 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:15:23   | things to my inbox and not purchasing anything because, you know, what a long weekend's for.         |
 | 01:15:28   | Yeah, I get there sometimes too. And it's like for me that a big [[Drafts]] inbox means that             |
 | 01:15:33   | I need to do some processing. I do use the flag. A flag to me means it's waiting for                 |
-| 01:15:40   | something. Because like I said earlier, my [[Drafts]] don't really stay in Drafts. So I send             |
+| 01:15:40   | something. Because like I said earlier, my [[Drafts]] don't really stay in [[Drafts]]. So I send             |
 | 01:15:45   | them somewhere. But if I have like something I've written, I want to get feedback from               |
-| 01:15:49   | someone on and I still want to have, you know, it's like once I leave Drafts, whatever editor        |
+| 01:15:49   | someone on and I still want to have, you know, it's like once I leave [[Drafts]], whatever editor        |
 | 01:15:56   | I go into isn't as good. You know, it's just the truth, you know, I mean, I don't have               |
 | 01:16:00   | the ability to rearrange things and, you know, all the little features that we talk about.           |
 | 01:16:05   | So if I'm waiting on something where I think I may want to do some more editing, I just              |
@@ -973,7 +973,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:19:16   | that are balanced. And this is one of the the editor preferences. And I'm going to link              |
 | 01:19:22   | people to the editor preferences documentation on the [[Drafts]] website, so that they can find          |
 | 01:19:26   | out about that and toggle that on or off if they want to.                                            |
-| 01:19:30   | So Tim, in addition to all the automation stuff you do in Drafts, you're you are a primary           |
+| 01:19:30   | So Tim, in addition to all the automation stuff you do in [[Drafts]], you're you are a primary           |
 | 01:19:37   | iOS user. And yep, but you still like to automate when what are you up to and like shortcuts         |
 | 01:19:43   | and other automation platforms these days? So actually, there's a couple of things I've              |
 | 01:19:47   | been doing lately. So actually, in this COVID time, just before our lock down happened, my            |
@@ -1098,12 +1098,12 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:29:37   | I see on my home screen to be just really targeted and focused. And so I've been using               |
 | 01:29:41   | it in that way for a while.                                                                          |
 | 01:29:43   | And when you said earlier that you, that you just swipe up to get to your, to get to your            |
-| 01:29:50   | Drafts, I wasn't sure what you were talking about. I think that must be what it was.                 |
-| 01:29:54   | Yeah. So, so what I will do it like, I guess was saying for Drafts, when I'm in [[Drafts]]               |
+| 01:29:50   | [[Drafts]], I wasn't sure what you were talking about. I think that must be what it was.                 |
+| 01:29:54   | Yeah. So, so what I will do it like, I guess was saying for [[Drafts]], when I'm in [[Drafts]]               |
 | 01:30:01   | even, and I'm like, Oh, I got to switch to the journal. Sometimes I'll just instinctively            |
 | 01:30:06   | swipe up on the home screen. It takes me to the home screen. I also have the triple back             |
 | 01:30:11   | tap for that as well. So I'll just pop into the home screen and then I'll tap on the journal         |
-| 01:30:18   | icon for in my [[Drafts]] widget. And it'll just pop me back into Drafts, but in the journal             |
+| 01:30:18   | icon for in my [[Drafts]] widget. And it'll just pop me back into [[Drafts]], but in the journal             |
 | 01:30:25   | workspace with everything applied. So that's been really good. That's kind of how I use              |
 | 01:30:31   | that. And then when I don't need to see [[Drafts]] for the rest of the day, if I'm kind of done,         |
 | 01:30:37   | I'm laying in bed, I'll swipe that widget away, it disappears. And I don't have to worry             |
@@ -1184,7 +1184,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:36:04   | Yeah, I would agree with that. And for people who haven't checked out Karat 5 and the customisation  |
 | 01:36:11   | options in it, it's pretty cool. You can design your own interface so that you have                  |
 | 01:36:16   | all the weather that you like. And I've definitely been playing around with that quite a bit.        |
-| 01:36:21   | All right, Tim. Well, for folks listening, Tim is the master of all things Drafts, the               |
+| 01:36:21   | All right, Tim. Well, for folks listening, Tim is the master of all things [[Drafts]], the               |
 | 01:36:28   | future developer of the [[Drafts]] task management workflow. Tim, where do people go to find             |
 | 01:36:38   | you?                                                                                                 |
 | 01:36:39   | Well, I'm on Twitter at Nahumck, my last name, N-A-H-U-M-C-K. And you can go to Nahumck.me           |

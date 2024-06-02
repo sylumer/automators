@@ -514,7 +514,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 37:24      | don't quit Safari or close Safari windows. Because sometimes it's, you know, I've gone                   |
 | 37:30      | through and I curated a list of links in preparation or something. And then, you know, when you          |
 | 37:37      | actually do it, you don't want those to disappear. And maybe an open browser window is not the           |
-| 37:42      | best tool for that. Maybe I should save everything into Drafts. But when I'm just going to have          |
+| 37:42      | best tool for that. Maybe I should save everything into [[Drafts]]. But when I'm just going to have          |
 | 37:45      | to reopen it again anyway, I would prefer to keep it. So yeah, closing windows and quitting              |
 | 37:51      | applications I think is a critical step in getting your workspace set up the way that                    |
 | 37:55      | you need to do for a good quality of life automation on your Mac.                                        |

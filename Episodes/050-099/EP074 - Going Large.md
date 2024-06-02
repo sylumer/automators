@@ -1135,17 +1135,17 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:30:14   | found, David, maybe you can give me some advice with this is a ScreenFlow loves to hijack                |
 | 01:30:20   | keyboard shortcuts. And I have changed and removed the keyboard shortcut for ScreenFlow                  |
 | 01:30:25   | for starting a screen recording about 80,000 times. Now it feels like it hasn't been that                 |
-| 01:30:30   | many. But whenever ScreenFlows open, and I try to do quick capture and Drafts, which                     |
+| 01:30:30   | many. But whenever ScreenFlows open, and I try to do quick capture and [[Drafts]], which                     |
 | 01:30:34   | is command shift to ScreenFlow says, try to start recording failed start recording because               |
 | 01:30:39   | your device was not connected or whatever it is. And then it's like, okay, that's fine.                   |
-| 01:30:42   | Because I didn't want ScreenFlow. I wanted Drafts. So I've ended up actually changing                    |
-| 01:30:46   | the keyboard shortcut for Drafts. And then I've got a hot key on my on my Stream Deck                     |
+| 01:30:42   | Because I didn't want ScreenFlow. I wanted [[Drafts]]. So I've ended up actually changing                    |
+| 01:30:46   | the keyboard shortcut for [[Drafts]]. And then I've got a hot key on my on my Stream Deck                     |
 | 01:30:49   | and I've got a hot key on my keyboard, both of which open the quick capture and [[Drafts]]                   |
 | 01:30:53   | for me. But I don't know what it is about ScreenFlow, but it does not like me changing                   |
 | 01:30:57   | the keyboard shortcuts in it, for whatever reason, especially if you want to leave it                     |
 | 01:31:01   | blank, then it gets very unhappy and it just resets it.                                                   |
 | 01:31:04   | That's so funny. We've never talked about this, but I could never get it to stick either.                 |
-| 01:31:07   | So I ultimately rewrote the shortcut for Drafts. Because that that's stuck and I also did give            |
+| 01:31:07   | So I ultimately rewrote the shortcut for [[Drafts]]. Because that that's stuck and I also did give            |
 | 01:31:13   | it a button. So there you go.                                                                             |
 | 01:31:16   | I guess maybe we we both need to file a report or tell a stream that that's broken. I thought             |
 | 01:31:22   | I was doing something wrong.                                                                              |
@@ -1237,7 +1237,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:38:14   | X callback URLs. Now, for people who are listening at the top of the show, they'll remember               |
 | 01:38:20   | there's a website action and the website application opens a URL. Well, it doesn't have to open           |
 | 01:38:25   | a web URL, it can open an X callback URL. So for example, it could open a specific workspace              |
-| 01:38:31   | in Drafts, which is one of the things I do at my writing profile. But that means it can                   |
+| 01:38:31   | in [[Drafts]], which is one of the things I do at my writing profile. But that means it can                   |
 | 01:38:34   | open the home control app and run an action with it. And by doing this, I can run all                     |
 | 01:38:41   | sorts of things. So I now have a home profile. And some of these things I am using the hue                |
 | 01:38:47   | triggers for because I already had that set up. And that was fine. But for things like                    |

@@ -1013,9 +1013,9 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 54:46      | Yeah.                                                                                                 |
 | 54:47      | Yeah.                                                                                                 |
 | 54:48      | And it just shows you a list of them as well.                                                         |
-| 54:49      | And it doesn't, it doesn't show you like, for example, open square brackets, Drafts,                  |
+| 54:49      | And it doesn't, it doesn't show you like, for example, open square brackets, [[Drafts]],                  |
 | 54:53      | closed square brackets, open round bracket, closed round bracket, no, no, no, it just shows           |
-| 54:56      | you Drafts.                                                                                           |
+| 54:56      | you [[Drafts]].                                                                                           |
 | 54:58      | And then you paste the link to [[Drafts]] next to it, if, if that's what is inside your,                  |
 | 55:03      | your link there.                                                                                      |
 | 55:04      | And you're doing that with a [[Drafts]] action.                                                           |

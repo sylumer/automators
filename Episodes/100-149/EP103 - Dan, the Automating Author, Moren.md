@@ -1116,7 +1116,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:08:31   | that we can have, very simple and straightforward. Yeah. Did you consider just saying, because I       |
 | 01:08:37   | was just looking at this right now, because you reminded me, my doctor asked me to track my            |
 | 01:08:43   | peak flow rates for exhalation to check how my asthma is doing. And it turns out very well.            |
-| 01:08:50   | But I had to log this data and I was just logging it into Drafts, which is not a terrible place        |
+| 01:08:50   | But I had to log this data and I was just logging it into [[Drafts]], which is not a terrible place        |
 | 01:08:54   | because I've got the data with the dates and everything. But I've just realised that I can             |
 | 01:08:57   | store that in the health app. So what's for? Yeah, exactly. There's actually an option for that,       |
 | 01:09:03   | which is great. But I was just looking at the find health sample. And there's the option to,           |

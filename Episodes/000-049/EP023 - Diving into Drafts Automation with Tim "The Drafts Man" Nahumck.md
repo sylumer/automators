@@ -94,7 +94,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 00:50      | [[Stephen Hackett]] calls me the Draftsman.                                                                |
 | 00:52      | Yeah.                                                                                                  |
 | 00:53      | Well, it's a good name.                                                                                |
-| 00:55      | That's how a lot of people know you, though, because you love Drafts.                                  |
+| 00:55      | That's how a lot of people know you, though, because you love [[Drafts]].                                  |
 | 00:58      | I do.                                                                                                  |
 | 00:59      | I'm actually wearing a [[Drafts]] shirt right now.                                                         |
 | 01:01      | Nobody can see this.                                                                                   |
@@ -112,10 +112,10 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 01:26      | If you've seen me at WWDC and you're a draftsman or a draftswoman or a [[Drafts]] anything, let            |
 | 01:32      | me know.                                                                                               |
 | 01:33      | I will get you a sticker until I run out.                                                              |
-| 01:35      | I would love to meet some [[Drafts]] unicorns at WWDC if you use Drafts, come and talk                     |
+| 01:35      | I would love to meet some [[Drafts]] unicorns at WWDC if you use [[Drafts]], come and talk                     |
 | 01:40      | to us.                                                                                                 |
 | 01:41      | We want to talk to you.                                                                                |
-| 01:42      | Well, Tim wrote the review for [MacStories](https://www.macstories.net/), kind of the definitive review of Drafts.                   |
+| 01:42      | Well, Tim wrote the review for [MacStories](https://www.macstories.net/), kind of the definitive review of [[Drafts]].                   |
 | 01:47      | I know you're super deep into this application and it's one of my favourite tools not only              |
 | 01:53      | for just getting worked in, but also automation.                                                       |
 | 01:57      | Thanks so much, Tim, for coming in today and helping us share with the listeners ways that             |
@@ -134,7 +134,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 02:41      | I didn't jump in from the beginning, I jumped in at [[Drafts]] three.                                      |
 | 02:44      | I had been using blackberries before that, so just to go way back in history.                          |
 | 02:50      | I started seeing how beneficial it could be for me and it was just simple things, just                 |
-| 02:56      | moving text from one place to another was just made so much easier by Drafts.                          |
+| 02:56      | moving text from one place to another was just made so much easier by [[Drafts]].                          |
 | 03:02      | Then when [[Drafts]] four came out, that's when everything kind of opened up for me.                       |
 | 03:07      | I really just saw the automation possibilities, even though it was small automations at the            |
 | 03:12      | time and things have progressed so much farther from there, that's really when it hit home             |
@@ -142,7 +142,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 03:24      | I have this vivid memory of getting started with [[Drafts]] because I was in the middle of                 |
 | 03:29      | an extended jury trial at the time and I was staying at this hotel in Los Angeles because              |
 | 03:34      | it was just down the street from the courthouse and I saw that it released.                            |
-| 03:39      | Greg Pierce, the guy who makes Drafts, had made some other apps that I was a fan of,                   |
+| 03:39      | Greg Pierce, the guy who makes [[Drafts]], had made some other apps that I was a fan of,                   |
 | 03:44      | so he let me know it was coming out.                                                                   |
 | 03:46      | I downloaded it on day one and it just happened that that day, when you're busy for work,              |
 | 03:52      | sometimes you've got like a bunch of little things in your mind.                                       |
@@ -162,8 +162,8 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 04:59      | a corner.                                                                                              |
 | 05:00      | That's what I'm going to be doing the day that he announces he's done.                                 |
 | 05:02      | Well, we're going to need a support group if that happens because like both of you,                    |
-| 05:07      | I end up writing so much in Drafts.                                                                    |
-| 05:09      | I don't necessarily start everything in Drafts, but a significant portion of anything that             |
+| 05:07      | I end up writing so much in [[Drafts]].                                                                    |
+| 05:09      | I don't necessarily start everything in [[Drafts]], but a significant portion of anything that             |
 | 05:13      | I write down does start life in [[Drafts]] in one way or another.                                          |
 | 05:17      | It might be dictation through my watch or it might be through the share sheet, but it                  |
 | 05:22      | is just such an easy way to write stuff down because then what am I going to do with it?               |
@@ -272,7 +272,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 11:36      | And the ability just to push a button and just start talking is a great feature.                       |
 | 11:42      | And one of the reasons why [[Drafts]] as well as in my doc.                                                |
 | 11:45      | Well, and with the text modification and going in there and capitalising words and making              |
-| 11:51      | them lowercase, with the power of the automation in Drafts, you can do that.                           |
+| 11:51      | them lowercase, with the power of the automation in [[Drafts]], you can do that.                           |
 | 11:56      | And it's very simple.                                                                                  |
 | 11:57      | It's a simple action.                                                                                  |
 | 11:58      | You can highlight the text.                                                                            |
@@ -351,7 +351,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 15:48      | It'll come and we'll have some parity there.                                                           |
 | 15:51      | The actions might work a little differently at some point, but just having the ability                 |
 | 15:55      | to access everything on a Mac, I think is actually going to turn a lot of users on to                  |
-| 15:59      | using Drafts, whereas before they might have wanted to use other applications because they             |
+| 15:59      | using [[Drafts]], whereas before they might have wanted to use other applications because they             |
 | 16:05      | couldn't access the [[Drafts]] on a Mac.                                                                   |
 | 16:07      | And now they have the ability to do so.                                                                |
 | 16:09      | And I think that's going to be really good going forward.                                              |
@@ -371,7 +371,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 17:01      | But before we do that, I just kind of wanted to give an overview.                                      |
 | 17:04      | We've been gushing about the app, but I just wanted to talk kind of more practical terms               |
 | 17:08      | about the way it works.                                                                                |
-| 17:10      | I kind of call it the three layers of Drafts, you know, the first is the basics, the one               |
+| 17:10      | I kind of call it the three layers of [[Drafts]], you know, the first is the basics, the one               |
 | 17:16      | that came out with those first versions of the application and the idea is quick text                  |
 | 17:20      | capture and quick process.                                                                             |
 | 17:22      | So they have these actions built in where you can just type something and then send                    |
@@ -440,7 +440,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 21:24      | Visit textexpander.com/podcast to learn more about TextExpander.                                  |
 | 21:29      | Our thanks to TextExpander from SMILE for their support of this show and Relay FM.                     |
 | 21:35      | You know, Rose, one of the things I like about TextExpander, and we're no longer doing the             |
-| 21:39      | ad, but this is editorial, is TextExpander works at Drafts, and [[Drafts]] works with TextExpander,        |
+| 21:39      | ad, but this is editorial, is TextExpander works at [[Drafts]], and [[Drafts]] works with TextExpander,        |
 | 21:46      | and it's one of the reasons why I like to use [[Drafts]] for text input, because I get                     |
 | 21:50      | all my snippets.                                                                                       |
 | 21:51      | Yeah, it is really good, and it's got proper support as well, so you can at any point go               |
@@ -470,7 +470,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 23:24      | I'm in [[Drafts]] constantly throughout the day, so that's one big thing I use.                            |
 | 23:29      | I journal all the time.                                                                                |
 | 23:31      | And so for people listening, we're going to put a link in the show notes, and Tim has                  |
-| 23:36      | created an action directory, and these are shareable, and the Drafts, Greg and the gang                |
+| 23:36      | created an action directory, and these are shareable, and the [[Drafts]], Greg and the gang                |
 | 23:42      | at [[Drafts]] has made Tim's [[Drafts]] action directory shareable that gives you action keys associated       |
 | 23:50      | with text transformations.                                                                             |
 | 23:52      | So all you have to do is open that link on your iPhone or iPad that has [[Drafts]] installed,              |
@@ -520,7 +520,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 26:31      | So it just, it took, I just took some time and thought of all the major actions that                   |
 | 26:36      | people would use to manipulate either text or a line or whatever and just put that into                |
 | 26:42      | one key set so that people could kind of reap that benefit of installing something that                |
-| 26:49      | would really change the way they would be able to use Drafts.                                          |
+| 26:49      | would really change the way they would be able to use [[Drafts]].                                          |
 | 26:52      | Well, if I sound distracted, it's because I'm installing it right now.                                 |
 | 26:59      | I just wanted to go back to the thing that you were saying about the include action step.              |
 | 27:04      | Because I think this is something that maybe a lot of people haven't thought about.                    |
@@ -556,7 +556,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 29:03      | But when you come back to this in three months after you've become addicted to the application,        |
 | 29:07      | you're going to go, now I get what Tim's talking about, because this is so useful for those            |
 | 29:11      | of us who have got that little bit farther down the path and were already enslaved to                  |
-| 29:16      | those Drafts, as you might say.                                                                        |
+| 29:16      | those [[Drafts]], as you might say.                                                                        |
 | 29:19      | And one of the things that's really important, I think there's multiple action groups that             |
 | 29:23      | you can create.                                                                                        |
 | 29:25      | And I think you can move actions around and there's a way to do that.                                  |
@@ -575,7 +575,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 30:21      | So the trick is to get a message out as soon as possible.                                              |
 | 30:24      | So I have a draft that says, I'm okay, I'm located at dot, dot, dot.                                   |
 | 30:29      | And it's already programmed to send to my wife and my two daughters and my sister.                     |
-| 30:34      | So if there's an earthquake, I open Drafts, I just make sure I've got the right location               |
+| 30:34      | So if there's an earthquake, I open [[Drafts]], I just make sure I've got the right location               |
 | 30:39      | in there and send and that message always gets out.                                                    |
 | 30:43      | You can modify that action and I can help you with that later.                                         |
 | 30:48      | But you can modify that action.                                                                        |
@@ -628,7 +628,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 33:20      | I mean, even just the idea of, for people who are concerned about distractions of your                 |
 | 33:25      | email inbox, you go in your email to send an email, but you see something in the inbox                 |
 | 33:30      | and off you go.                                                                                        |
-| 33:32      | With Drafts, you can just write the email and [[Drafts]] and send it without ever going                    |
+| 33:32      | With [[Drafts]], you can just write the email and [[Drafts]] and send it without ever going                    |
 | 33:36      | really into your mail application.                                                                     |
 | 33:39      | And all of these things are real basic, but totally useful.                                            |
 | 33:44      | And even more important than email, Twitter, right?                                                    |
@@ -796,7 +796,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 43:28      | Sorry for everybody out there, but one of the things that I really like doing is having                |
 | 43:34      | a draft and using the link to that draft and saving that as a note.                                    |
 | 43:41      | What I will do is, for example, I have a fixes and updates list for my house, and it's all             |
-| 43:47      | in Drafts, and it's got checkboxes all the way down of everything that I need to do for                |
+| 43:47      | in [[Drafts]], and it's got checkboxes all the way down of everything that I need to do for                |
 | 43:52      | my house.                                                                                              |
 | 43:55      | Little things.                                                                                         |
 | 43:56      | I need to weed this flowerbed.                                                                         |
@@ -849,7 +849,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 47:09      | different.                                                                                             |
 | 47:10      | I mean, this really opens the general idea of [[Drafts]] as an outboard reference system                   |
 | 47:15      | that you can have details or information stored in some app or web service, but you can because        |
-| 47:23      | of Drafts, scriptability and availability, you can make that the reference area that                   |
+| 47:23      | of [[Drafts]], scriptability and availability, you can make that the reference area that                   |
 | 47:28      | actually contains the text.                                                                            |
 | 47:30      | Makes sense.                                                                                           |
 | 47:31      | Yeah.                                                                                                  |
@@ -878,12 +878,12 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 49:13      | because it's already written for you, you just need to enable it, and you can pick it                  |
 | 49:18      | apart.                                                                                                 |
 | 49:19      | Yeah, and the variables from the first step carry through all of these different actions.              |
-| 49:23      | So it just really highlights the power of the scripting in Drafts.                                     |
+| 49:23      | So it just really highlights the power of the scripting in [[Drafts]].                                     |
 | 49:28      | It has become the go-to place for me.                                                                  |
 | 49:32      | If I need to get anything done, I'm more figuring out how to in [[Drafts]] put it there rather than        |
 | 49:42      | go to shortcuts.                                                                                       |
 | 49:43      | If it's something that [[Drafts]] just can't do, I'll use shortcuts with it.                               |
-| 49:47      | But I try to do everything that I can within Drafts.                                                   |
+| 49:47      | But I try to do everything that I can within [[Drafts]].                                                   |
 | 49:51      | That makes sense.                                                                                      |
 | 49:52      | I mean, if that's the app that you're in most of the day, why break up your workflow by                |
 | 49:55      | going to another application every time?                                                               |
@@ -892,7 +892,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 50:05      | Previously, this was all in shortcuts.                                                                 |
 | 50:07      | And now I've moved a bunch of it out to [[Drafts]] because it's like, well, I'm already in [[Drafts]]          |
 | 50:11      | and I have to stop and I have to go and open shortcuts and I have to run the shortcut and              |
-| 50:14      | I have to go back to Drafts.                                                                           |
+| 50:14      | I have to go back to [[Drafts]].                                                                           |
 | 50:15      | Wait, why don't I just do this in [[Drafts]] because I can.                                                |
 | 50:20      | And that is where the magic is.                                                                        |
 | 50:22      | And I love the way that you've done this because it is literally swipe, tap to disable reminders,      |
@@ -990,13 +990,13 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 56:12      | me.                                                                                                    |
 | 56:13      | So if, if I, if I'm making the personal choice of saying, Hey, okay, Ulysses, I'm not going            |
 | 56:19      | to use that because I'm going to use [[Drafts]] and day one, I'm not going to use that.                    |
-| 56:21      | I'm going to use Drafts.                                                                               |
+| 56:21      | I'm going to use [[Drafts]].                                                                               |
 | 56:23      | I'm saving myself money, even though it's $20 a year.                                                  |
 | 56:26      | Now I'm saving those subscriptions as well.                                                            |
 | 56:28      | And that, that's a lot of money per year, right?                                                       |
 | 56:30      | So I'm, I, I'm getting a huge benefit for me.                                                          |
 | 56:34      | And it's now a place because of the changes with workspaces in version five, it's now                  |
-| 56:40      | a place that this is possible in the, in the previous version of Drafts.                               |
+| 56:40      | a place that this is possible in the, in the previous version of [[Drafts]].                               |
 | 56:43      | It wouldn't have been possible to do this, but now that you can do this with workspaces                |
 | 56:48      | and action groups, it, it becomes this modular place that you can say, all right, I'm in               |
 | 56:53      | my writing app and I'm in my task management app.                                                      |
@@ -1021,7 +1021,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 57:51      | here, but I work in automotive and I have some very specific things that I do at work                  |
 | 57:56      | and I've customised the actions to make that work for me.                                              |
 | 58:01      | This meeting that I said that I, I host for 200 people, I'm writing the notes down for                 |
-| 58:06      | that meeting in Drafts.                                                                                |
+| 58:06      | that meeting in [[Drafts]].                                                                                |
 | 58:09      | And then at the end of it, I actually kick it over to a shortcut that's formatted with                 |
 | 58:13      | HTML and I make a PDF in shortcuts.                                                                    |
 | 58:16      | And then I save that to Google drive.                                                                  |
@@ -1033,7 +1033,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 58:36      | And then I have a kind of a social one.                                                                |
 | 58:38      | And those are the main ones that I use all the time.                                                   |
 | 58:41      | I have others that are all hidden and actually one of the things in the latest version of              |
-| 58:46      | Drafts, you can actually select which action groups you show.                                          |
+| 58:46      | [[Drafts]], you can actually select which action groups you show.                                          |
 | 58:50      | So for someone like myself who has, I don't know, probably 20 or 30 action groups that                 |
 | 58:55      | I've installed over time, I don't have to show them all, which is nice.                                |
 | 58:59      | I have access to them, but I don't have to show them.                                                  |
@@ -1073,7 +1073,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 01:00:41   | To me, [[Drafts]] was for a while the only automation on iOS.                                              |
 | 01:00:45   | You know, they were one of the very first ones to the game, really.                                    |
 | 01:00:50   | Now that we've got [[Shortcuts\|Siri Shortcuts]], there's other options as well.                                    |
-| 01:00:52   | But if you do anything with words and you don't check out Drafts, you're doing yourself                |
+| 01:00:52   | But if you do anything with words and you don't check out [[Drafts]], you're doing yourself                |
 | 01:00:57   | a disservice.                                                                                          |
 | 01:00:58   | Definitely.                                                                                            |
 | 01:00:59   | Agreed.                                                                                                |

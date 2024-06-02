@@ -705,7 +705,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 58:15      | recently telling us about FastMate, which is a macOS mail client for FastMail. And it's                   |
 | 58:23      | got user scripts, which are JavaScript files. JavaScript has advantages and disadvantages,                 |
 | 58:29      | but it's the same language you can use to create OmniFocus automations or OmniGraffle,                     |
-| 58:33      | OmniPlan, Omni-Outliner. You can use it in Drafts, Scriptable. And yeah, apparently                        |
+| 58:33      | OmniPlan, Omni-Outliner. You can use it in [[Drafts]], Scriptable. And yeah, apparently                        |
 | 58:40      | FastMail as well. So I guess I've got a project on my hands because that seems pretty cool.               |
 | 58:47      | Yeah. Another thing about FastMail, I swear I'm not like a salesman for FastMail. But                    |
 | 58:52      | they just added an integration with 1Password, where when you set up a new password for a               |

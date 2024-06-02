@@ -254,7 +254,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 10:17      | project for me where someone has an idea that I can see being at all useful and I'll probably        |
 | 10:23      | try to figure out a way to do it.                                                                    |
 | 10:25      | Okay.                                                                                                |
-| 10:26      | So I just want, whenever I launch Drafts, I want my keyboard to only have Latin characters           |
+| 10:26      | So I just want, whenever I launch [[Drafts]], I want my keyboard to only have Latin characters           |
 | 10:30      | on it, you know, Domina, Delta, you know, say, if you can find a matching input source               |
 | 10:38      | for that bunch can do it.                                                                            |
 | 10:41      | Yeah.                                                                                                |

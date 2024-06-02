@@ -349,7 +349,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 17:40      | lot of sense.                                                                                                           |
 | 17:41      | Definitely, and I mean, one of the things that we haven't talked about yet is storing                                   |
 | 17:46      | these templates, where do you store them?                                                                               |
-| 17:49      | Clearly, you're storing some of them in [[Shortcuts]] or [[Workflow]], I'm storing some in Drafts, are                          |
+| 17:49      | Clearly, you're storing some of them in [[Shortcuts]] or [[Workflow]], I'm storing some in [[Drafts]], are                          |
 | 17:54      | you storing any of your templates anywhere else?                                                                        |
 | 17:56      | Yeah, I've got, and you Lucy, just the folder set aside with a pile of these things, and                                |
 | 18:01      | I write them there.                                                                                                     |

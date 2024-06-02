@@ -602,7 +602,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 44:48      | David. And that's got a block of text for you. And that just says regards. And of course,                                             |
 | 44:51      | you could put your name in under that. But it works based on the contact that you've chosen.                                          |
 | 44:55      | So you choose a contact to send something to. And then it gets their name and then their email                                        |
-| 45:02      | address and sends it off. And this is really useful in tandem with something like Drafts.                                             |
+| 45:02      | address and sends it off. And this is really useful in tandem with something like [[Drafts]].                                             |
 | 45:07      | Because you could, for example, take meeting minutes in [[Drafts]], and then you just want to                                         |
 | 45:11      | send them to this person. So you can do that. And that's a very nice little workflow that I've                                        |
 | 45:17      | gotten. I'm going to do a screencast on that one for everybody as well so they can see how to make                                    |

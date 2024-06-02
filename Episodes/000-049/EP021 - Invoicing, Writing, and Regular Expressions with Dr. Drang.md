@@ -173,7 +173,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 04:04      | we're not gonna get there just yet,                                |
 | 04:05      | but we're gonna talk about the way you're automating               |
 | 04:08      | your invoicing and some of the cool stuff                          |
-| 04:10      | you're doing on iOS with Drafts.                                   |
+| 04:10      | you're doing on iOS with [[Drafts]].                                   |
 | 04:12      | But before we do that, I just wanna,                               |
 | 04:14      | we've talked to you on Mac Power users,                            |
 | 04:16      | like I said, I'm gonna link those shows in this show as well.      |
@@ -757,13 +757,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 30:45      | I'd like to, things changed,                                       |
 | 30:47      | going from paper to PDFs.                                          |
 | 30:50      | So, and this last change was having it run automatically           |
-| 30:58      | to create the emails and save them as Drafts,                      |
+| 30:58      | to create the emails and save them as [[Drafts]],                      |
 | 31:00      | because I started realising I'm not always                         |
 | 31:04      | in the office on Tuesday,                                          |
 | 31:05      | and I still want to send the email off,                            |
 | 31:08      | I want to be able to do it from my iPad,                           |
 | 31:11      | or my phone, for that matter.                                      |
-| 31:13      | And if there are Drafts, they're already there.                    |
+| 31:13      | And if there are [[Drafts]], they're already there.                    |
 | 31:14      | No, I can do that because it's exactly,                            |
 | 31:16      | they're already there.                                             |
 | 31:18      | Have you considered adding a priority to the reminder?             |
@@ -927,18 +927,18 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 39:01      | even though things look nice now.                                  |
 | 39:03      | So you also do some automation on the iOS side.                    |
 | 39:06      | And I know that you're a big user of the [[Drafts]] app,               |
-| 39:10      | which, by the way, just released the Mac version of Drafts.        |
+| 39:10      | which, by the way, just released the Mac version of [[Drafts]].        |
 | 39:14      | Yeah, which is very nice.                                          |
 | 39:17      | And it has been, I think, to all of us,                            |
-| 39:20      | because I think we all use Drafts,                                 |
-| 39:22      | has been a big help because I do a lot of writing in Drafts.       |
+| 39:20      | because I think we all use [[Drafts]],                                 |
+| 39:22      | has been a big help because I do a lot of writing in [[Drafts]].       |
 | 39:26      | And then getting it over to my Mac                                 |
 | 39:29      | was not a horrible problem.                                        |
 | 39:32      | But typically the way I would do it                                |
 | 39:33      | is I would write it out to a Dropbox file                          |
 | 39:37      | so that I could then pick it up on my Mac.                         |
 | 39:39      | Well, now it's much easier.                                        |
-| 39:40      | You just open Drafts.                                              |
+| 39:40      | You just open [[Drafts]].                                              |
 | 39:41      | And I typically don't do betas                                     |
 | 39:45      | because I'm a terrible beta tester.                                |
 | 39:46      | I'm not good at giving feedback                                    |
@@ -947,10 +947,10 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 39:55      | But I did do the beta on that because it was wonderful.            |
 | 40:00      | And Greg Pierce did a really good job on this.                     |
 | 40:04      | So now I just walk over to my Mac and there it is.                 |
-| 40:07      | And I can do whatever I want with the text from within Drafts.     |
+| 40:07      | And I can do whatever I want with the text from within [[Drafts]].     |
 | 40:13      | But yeah, I do a lot of, I do a surprising amount                  |
-| 40:18      | of automation within Drafts.                                       |
-| 40:19      | Now, I use Drafts.                                                 |
+| 40:18      | of automation within [[Drafts]].                                       |
+| 40:19      | Now, I use [[Drafts]].                                                 |
 | 40:22      | I like to have one text editor per platform.                       |
 | 40:28      | I don't like using lots of different ones just because,            |
 | 40:32      | and especially on iOS because the standards for keyboard shortcuts |
@@ -962,7 +962,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 40:52      | And so now it's not to say that I don't change,                    |
 | 40:55      | but I like to work primarily with one at a time.                   |
 | 40:58      | And the one that I'm using now more than any other                 |
-| 41:01      | is Drafts.                                                         |
+| 41:01      | is [[Drafts]].                                                         |
 | 41:02      | I do use Textastic a bit because it's                              |
 | 41:05      | got a broader range of syntax highlighting for me.                 |
 | 41:12      | [[Drafts]] is pretty well-limited in its syntax highlighting           |
@@ -970,9 +970,9 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 41:20      | and the simple list thing.                                         |
 | 41:21      | But I write in late tech and I program in Python.                  |
 | 41:27      | And so I like having Textastic sometimes.                          |
-| 41:31      | But mostly I do still write in Drafts.                             |
+| 41:31      | But mostly I do still write in [[Drafts]].                             |
 | 41:35      | And so I have, jeez, a variety of things                           |
-| 41:40      | that have sort of crept in through Drafts,                         |
+| 41:40      | that have sort of crept in through [[Drafts]],                         |
 | 41:43      | a variety of automations.                                          |
 | 41:45      | So one set of them is I have been                                  |
 | 41:51      | blogging through [[Drafts]] pretty much exclusively                    |
@@ -1015,7 +1015,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 43:42      | an AppleScript that I wrote many years ago                        |
 | 43:45      | for doing this in [[BBEdit]].                                         |
 | 43:47      | It does exactly what I used to do in [[BBEdit]],                      |
-| 43:51      | except it does it in Drafts.                                       |
+| 43:51      | except it does it in [[Drafts]].                                       |
 | 43:53      | So I was thinking about writing my own.                            |
 | 43:55      | I was thinking about taking that AppleScript                      |
 | 43:57      | and converting it into JavaScript                                  |
@@ -1117,7 +1117,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 49:04      | Which was terrible, yes,                                           |
 | 49:07      | and was one of the reasons why I got rid of it.                    |
 | 49:10      | I'm tired of policing the comments.                                |
-| 49:15      | Going back into Drafts, so you mentioned                           |
+| 49:15      | Going back into [[Drafts]], so you mentioned                           |
 | 49:17      | that you tap on buttons.                                           |
 | 49:18      | Do you use that with the keyboard row,                             |
 | 49:20      | or do you use that with the action group popped out?               |
@@ -1187,8 +1187,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 52:30      | and you know, obviously like many people,                          |
 | 52:32      | I'm not thrilled with subscriptions,                               |
 | 52:35      | but Transmit, I would subscribe to,                                |
-| 52:37      | just as I have with Drafts.                                        |
-| 52:39      | Yeah, we all have our Drafts.                                      |
+| 52:37      | just as I have with [[Drafts]].                                        |
+| 52:39      | Yeah, we all have our [[Drafts]].                                      |
 | 52:41      | Yeah, exactly.                                                     |
 | 52:43      | It's worth it.                                                     |
 | 52:44      | And they kind of,                                                  |
@@ -1881,7 +1881,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:25:10   | you can follow Automators at Automators FM on Twitter.             |
 | 01:25:14   | And there's also the discourse group                               |
 | 01:25:18   | over at talk.automators.fm.                                        |
-| 01:25:21   | If you like Drafts, we talked about Drafts.                        |
+| 01:25:21   | If you like [[Drafts]], we talked about [[Drafts]].                        |
 | 01:25:23   | Rose did a really great job of reviewing the app                   |
 | 01:25:25   | over at [MacStories](https://www.macstories.net/).                                               |
 | 01:25:26   | We'll put a link in the show notes.                                |

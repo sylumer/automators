@@ -463,7 +463,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 32:35      | Only I kill a feature according to me. AirBuddy is sandbox and it doesn't require any kernel             |
 | 32:40      | extensions to work. Plus, it's fully compatible with macOS Big Sur and Apple Silicon, but                |
 | 32:45      | it works on any Mac with Bluetooth low energy running macOS 10.14.6 or later. If you have                |
-| 32:52      | AirPods and a Mac, you need AirBuddy. Go to airbuddy.app.automators to learn more.                       |
+| 32:52      | AirPods and a Mac, you need AirBuddy. Go to airbuddy.app/automators to learn more.                       |
 | 32:58      | The first 100 automated listeners to use that URL will get AirBuddy with a 20% discount.                 |
 | 33:04      | Use AirBuddy.app.automators and be quick to get their 20% discount. Our thanks to AirBuddy               |
 | 33:10      | for their support of this show and read the FM.                                                          |
@@ -491,7 +491,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 35:22      | something, [[Greg Pierce\|Greg]] will go and add an entire new set of functionality and open a new door                   |
 | 35:26      | that you never even realised you wanted to walk through. Yes, yeah. I remember when I                    |
 | 35:32      | first started interested in back linking, and I wanted to add some backlinks to some of                  |
-| 35:37      | my Drafts, the messages I sent [[Greg Pierce\|Greg]] a message saying, Hey, you need to add this feature                  |
+| 35:37      | my drafts, the messages I sent [[Greg Pierce\|Greg]] a message saying, Hey, you need to add this feature                  |
 | 35:41      | because that's what you do, right? When you're a user, you keep complaining to the developer             |
 | 35:46      | go on whining until they give you what you want. And he sent me two links immediately                  |
 | 35:50      | that that users had already created a rich back linking system using [[Drafts]] based automation             |
@@ -579,7 +579,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 43:06      | [[Drafts]] users on the [[Drafts]] forum, and split it into one core group that kind of delivers                 |
 | 43:13      | the core functionality, the library setup and everything else. And then these six other                  |
 | 43:17      | groups that allow you to focus in on particular areas like writing or managing lists or managing         |
-| 43:23      | Drafts. So if somebody wanted to get started with this, so say for example, they want your               |
+| 43:23      | drafts. So if somebody wanted to get started with this, so say for example, they want your               |
 | 43:29      | tasks and lists action group, what would their steps be to get started? Assuming that they've            |
 | 43:34      | not read the posts on your website. Just because, you know, somebody's curious, you know, and            |
 | 43:40      | they don't necessarily have time to read, they just want to click some install buttons                   |

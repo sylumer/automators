@@ -955,7 +955,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:16:24   | quite get hooked up in all the same places. And so therefore, it sometimes just doesn't work,            |
 | 01:16:30   | which is a real shame. So I am using AppleScript for anything very specifically Mac. But where I'm       |
 | 01:16:38   | doing something that will be multi-platform, where I want it on my iPhone as well, I will go             |
-| 01:16:43   | with JavaScript because I can write JavaScript and use it in Drafts. I can use it in [[Obsidian]].           |
+| 01:16:43   | with JavaScript because I can write JavaScript and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
 | 01:16:47   | I can use it in Scriptable. I could use it in the browser. And I can use it on my Mac or my iPhone       |
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |

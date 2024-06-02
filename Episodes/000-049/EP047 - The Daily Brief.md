@@ -763,7 +763,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:03:01   | got a bunch of family members that are home now. And the, I've been sending text messages to this        |
 | 01:03:07   | groups and I've set them up in [[Drafts]] with specific actions designed to message very specific groups     |
 | 01:03:14   | of people. And I've got several of them. So I thought rather than opening messages and trying            |
-| 01:03:19   | to like cobble together those groups, I would just do it in Drafts. And the problems to solve is         |
+| 01:03:19   | to like cobble together those groups, I would just do it in [[Drafts]]. And the problems to solve is         |
 | 01:03:24   | number one, it's easier to make at the beginning. And all you do with [[Drafts]] is create a message         |
 | 01:03:29   | template with the specific recipients you want inside of it. And then you write the message              |
 | 01:03:34   | in [[Drafts]] and then you invoke the action and off it goes. So it solves the problem of creation,          |
@@ -811,7 +811,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:06:50   | but my watch screen is pretty small. Especially if I'm wandering around not wearing my glasses,          |
 | 01:06:54   | which happens in the early morning or late evening, then I'm not going to be able to read that.          |
 | 01:06:58   | Yeah. Well, either way, big problems. But hey, automate your text messages. You can do that              |
-| 01:07:05   | with Drafts. I'm sure there's other ways to do it as well. But [[Drafts]] is usually my weapon of choice     |
+| 01:07:05   | with [[Drafts]]. I'm sure there's other ways to do it as well. But [[Drafts]] is usually my weapon of choice     |
 | 01:07:09   | for things like that. All right. Well, that about wraps it up for the automators this time. You          |
 | 01:07:14   | can find us over at relay.fm/automators. You can find the forum over at talk.automators.fm.        |
 | 01:07:21   | Let us know what you want to do. Ask the automators there. We're going to start                          |

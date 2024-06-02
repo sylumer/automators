@@ -370,7 +370,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 24:48      | and Premiere.                                                                                             |
 | 24:51      | The attraction for you partly was the software, but also at some point you found your way                 |
 | 24:57      | down the automation rabbit hole.                                                                          |
-| 25:00      | With apps like Workflow, which is now shortcuts, and Drafts, Workflow for me was just a way               |
+| 25:00      | With apps like Workflow, which is now shortcuts, and [[Drafts]], Workflow for me was just a way               |
 | 25:08      | to fill in those gaps of things the iPad couldn't do at the time. Now, where we're at right               |
 | 25:17      | now with iPadOS 15, those gaps that I was using Workflow to fill in have mostly been                      |
 | 25:22      | covered. I don't have to worry about moving files around and things like that because                     |
@@ -481,17 +481,17 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 34:29      | piece in there too, that if there is nothing to attach, it just skips that part altogether.               |
 | 34:34      | Like it doesn't even ask you if you want to attach, attach a link or not. It just, it                     |
 | 34:40      | just gives you a plain ask for input box. So you can type your note and it'll save it                     |
-| 34:45      | to Drafts.                                                                                                |
+| 34:45      | to [[Drafts]].                                                                                                |
 | 34:46      | So, so share an example of where in your day to day life you've used that shortcut.                       |
 | 34:50      | Okay. So I'm doing a ton of research right now, just with a few apps that, you know,                      |
 | 34:57      | pay web pages of apps that are being worked on right now for upcoming iOS and iPadOS 15                   |
 | 35:03      | stuff.                                                                                                    |
 | 35:04      | I did a lot of research in [[Obsidian]] for [[Obsidian]]. I didn't quite make that jump yet, but for              |
 | 35:11      | [[Obsidian]] that I was saving links to that. But basically it's just a nice way to quickly                   |
-| 35:16      | like, Hey, I have this web page. I need to save it. So let me save it to Drafts, which                     |
+| 35:16      | like, Hey, I have this web page. I need to save it. So let me save it to [[Drafts]], which                     |
 | 35:21      | [[Drafts]] is a markdown app. It's one of my favourite things about it and why I just, I struggle              |
 | 35:27      | using the notes out because it doesn't support markdown. So this allows me to kind of take                |
-| 35:32      | that web page, that link, put it in Drafts, and I could save that link anywhere, format                    |
+| 35:32      | that web page, that link, put it in [[Drafts]], and I could save that link anywhere, format                    |
 | 35:39      | and markdown and add my notes, thoughts, whatever to it.                                                  |
 | 35:43      | And another nice thing you could do with that, I haven't seen the shortcut itself, but just               |
 | 35:47      | thinking it through, because [[Drafts]] has so much shortcut support, you could like have                     |
@@ -582,7 +582,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 43:02      | get rid of it at some point, but it also never bothered me enough that I've actually gone and             |
 | 43:07      | got rid of it. Like I probably should. But yeah, quick note on iPad. I've simulated on iPhone,            |
 | 43:13      | sorry, I've simulated with the accessibility feature for double back tap and I've assigned it             |
-| 43:18      | to a shortcut which creates a new blank draft and opens it in Drafts. That's clever. Yeah,                |
+| 43:18      | to a shortcut which creates a new blank draft and opens it in [[Drafts]]. That's clever. Yeah,                |
 | 43:23      | that's a good idea. Because then I can just pick up my phone. I double tap approximately                  |
 | 43:28      | where the Apple logo is. This works in a case. It runs my automation and a couple of seconds              |
 | 43:32      | later I'm in [[Drafts]] and or not even a couple of seconds. It's half a second, I guess I'm in [[Drafts]]       |
@@ -594,17 +594,17 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 44:12      | file for the update to the shortcuts field guide or text this out to my two sisters or, you know,         |
 | 44:18      | just like the two things that, you know, it does. It just doesn't, you know, quick note just doesn't      |
 | 44:25      | go to that next step. But anyway, I'm banging on about [[Drafts]] and we have a guest here to talk            |
-| 44:31      | about Drafts. So I should shut up. Yeah, no, no, but I completely agree with you. I mean,                 |
+| 44:31      | about [[Drafts]]. So I should shut up. Yeah, no, no, but I completely agree with you. I mean,                 |
 | 44:35      | the name's quick note and it worked perfectly in the early betas. But now when you invoke it,             |
 | 44:41      | it opens a previous note instead of a new note, which is how it should work, but whatever. Besides        |
 | 44:45      | this point, [[Drafts]] works perfectly for this. One of my favourite things about [[Drafts]] is                    |
-| 44:51      | when you're using Drafts, and you close it, and you reopen it, I think the default is 60 seconds,         |
+| 44:51      | when you're using [[Drafts]], and you close it, and you reopen it, I think the default is 60 seconds,         |
 | 44:58      | and it will keep that old draft open before just creating a new draft every time you open the app,        |
 | 45:03      | which is great on the iPhone. So like, I can close it and be like, Oh, wait, I forgot something to        |
 | 45:07      | reopen it back up. But on the iPad, I use that icon down at the bottom that always keeps my previous      |
 | 45:13      | draft open, the last draft that I was working in, because that's it's my text editor. This is where       |
 | 45:20      | I do all my note taking research, script writing, anything that you can kind of think of here,            |
-| 45:27      | here and between like, all all my text writing happens in Drafts, which is nice, because I like           |
+| 45:27      | here and between like, all all my text writing happens in [[Drafts]], which is nice, because I like           |
 | 45:35      | having just one application where everything lives. But I use an action, I did not make this              |
 | 45:41      | action because my my JavaScript skills are aren't that impressive. They are my my auto teacher used       |
 | 45:48      | to say, you know enough to be dangerous. And that's how I feel about my JavaScript skills. I know         |
@@ -638,7 +638,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 48:29      | I mean, and [[Drafts]] really is kind of a more generic tool. And I think Greg, if he was here,               |
 | 48:35      | would agree. I mean, it's written to be able to do whatever you need with text, where things like         |
 | 48:41      | [[Roam]] and [[Craft]] and [[Obsidian]] even are very kind of opinionated. And there's a way right way to use         |
-| 48:48      | those apps where Drafts, you can, you can bend it to your will. And I think that that's to me why         |
+| 48:48      | those apps where [[Drafts]], you can, you can bend it to your will. And I think that that's to me why         |
 | 48:55      | I think that there's, you know, like I said earlier, I think [[Drafts]] is the place where I                  |
 | 48:59      | capture text. And for me, [[Obsidian]] is the place with long term storage and other things that I            |
 | 49:05      | do with it. And they work together fine. I mean, not to mention you were saying, I think even before      |
@@ -686,7 +686,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 53:09      | at some point felt that was a good idea. Yeah. Oh my gosh, that and that's probably sensitivity.          |
 | 53:14      | It's the bane and the savior of many an automation. And that's probably been there for 20 plus years      |
 | 53:20      | too. Exactly. Exactly. Since probably the first OS 10 shift, like, yeah, oh my gosh. Yeah, that's         |
-| 53:28      | nuts. Yeah. Well, anyway, so so share some more of your the stuff you're doing with Drafts.               |
+| 53:28      | nuts. Yeah. Well, anyway, so so share some more of your the stuff you're doing with [[Drafts]].               |
 | 53:36      | Okay, let me pull up here just. Oh, so one of the things that I do is I have an icon in my dock.          |
 | 53:43      | And a lot of people have been asking me about this when they see it in videos and stuff like that.        |
 | 53:48      | It's just a rocket ship. And that goes to a launchpad document. And this is basically a                   |
@@ -713,7 +713,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 55:51      | that links to all of these other text documents. So whenever I have a phone call with these               |
 | 55:55      | insurance people, I can go to that master document and quickly jump to wherever that                      |
 | 55:59      | text is. And it's just a nice feature of that linking. Another thing that I do with [[Drafts]]               |
-| 56:06      | that I absolutely love is I use, I build a lot of templates in Drafts. I'm sure this is, I know           |
+| 56:06      | that I absolutely love is I use, I build a lot of templates in [[Drafts]]. I'm sure this is, I know           |
 | 56:12      | this is something you guys have talked about, but like I can't stress enough. Like there is an action     |
 | 56:17      | when you go to set up a [[Drafts]] action called insert text. And that is a very powerful tool.               |
 | 56:24      | I have all like my video descriptions, emails to potential sponsorships, all sorts of like                |
@@ -724,9 +724,9 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 56:52      | don't take advantage of having templates. I know that's a big thing in [[Obsidian]] right now is like         |
 | 56:57      | the community is using a bunch of plugins to build templates. Yeah, well, but honestly,                   |
 | 57:03      | the template builder and obsidian, man, I'm going to get the [[Obsidian]] people mad at me,                   |
-| 57:07      | but I don't think it's as good as Drafts. Really? Yeah, the template, I mean, there are some good         |
+| 57:07      | but I don't think it's as good as [[Drafts]]. Really? Yeah, the template, I mean, there are some good         |
 | 57:13      | stuff. Anyway, I'm already in triple cells. So what I do here, because I already had all                  |
-| 57:19      | of my templates and everything set up in Drafts, because I don't just use the insert text,                |
+| 57:19      | of my templates and everything set up in [[Drafts]], because I don't just use the insert text,                |
 | 57:23      | [[Drafts]] actually has a template engine itself, which you can, you can do a bunch of things with.           |
 | 57:30      | Of course, you can't just use the insert text. And, but there's also the ability to grab things           |
 | 57:34      | from certain folders and finder and so on, you know, inside the drops, iCloud folder. And I do            |
@@ -741,7 +741,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 58:20      | you know, when a legal client asked me to do a thing for them, there's a new markdown document            |
 | 58:25      | created, and it's got all the like stuff in there, it's got the [[YAML]] matter, it's got the links for       |
 | 58:30      | the OmniFocus project, it does all that for me. But when someone calls me, and I want to take             |
-| 58:36      | notes on that call, I have a [[Drafts]] template, and I open Drafts, and I push a button, and it fills        |
+| 58:36      | notes on that call, I have a [[Drafts]] template, and I open [[Drafts]], and I push a button, and it fills        |
 | 58:42      | in the date and the time and a whole bunch of other stuff, and I type in who I'm talking to,              |
 | 58:46      | and I can take notes, and I find it easier to do something like that out of [[Drafts]] than [[Obsidian]].         |
 | 58:51      | And so you just kind of like, once you kind of get an understanding of these templated text               |
@@ -756,13 +756,13 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 59:46      | you know, like, this is my design, I don't want people to touch it. But like, being able to make          |
 | 59:50      | them app feel like my own, and like, I have the right font, and I have like a nice blue tint to           |
 | 59:55      | everything that looks really nice, and kind of, you know, it just matches my aesthetic, if you will.      |
-| 01:00:01   | It's, I don't know, everyone, I highly doubt you have any listeners that haven't checked out Drafts,      |
+| 01:00:01   | It's, I don't know, everyone, I highly doubt you have any listeners that haven't checked out [[Drafts]],      |
 | 01:00:07   | but if you haven't, like, it's such a good application. It's, yeah, I can't stress it                     |
 | 01:00:12   | enough. I like to talk about it on my channel whenever I can. I've done like a few like,                  |
 | 01:00:16   | deep dive videos into it, and I'm going to work on another one probably in October or November.           |
 | 01:00:20   | Yeah, and just on that point of customisation, I think honestly, it's time for that. It's time for        |
 | 01:00:27   | app developers to hand over the keys to the users, and let them do things. I mean, the                    |
-| 01:00:33   | stuff that's going on with care at weather and Drafts, custom UI, and some of these apps are              |
+| 01:00:33   | stuff that's going on with care at weather and [[Drafts]], custom UI, and some of these apps are              |
 | 01:00:38   | already kind of leading the way. But I honestly think that's the next big thing that needs to             |
 | 01:00:42   | happen with apps on iPad and iPhone is let users customise. Look how everybody went crazy,                |
 | 01:00:49   | you know, when they were able to try and customise their icons on their devices. And,                     |

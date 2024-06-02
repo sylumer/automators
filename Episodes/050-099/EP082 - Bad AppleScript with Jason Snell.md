@@ -834,7 +834,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 39:33      | Because right now, I could switch to JavaScript                                                                  |
 | 39:36      | and figure it out,                                                                                               |
 | 39:38      | but the fact that I can't take my 1Writer script                                                               |
-| 39:41      | and run it in Taio or in Drafts,                                                                                  |
+| 39:41      | and run it in Taio or in [[Drafts]],                                                                                  |
 | 39:44      | because they're different,                                                                                       |
 | 39:45      | their JavaScript implementation is different.                                                                    |
 | 39:48      | They're using different things to do user interface                                                              |
@@ -1665,7 +1665,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:11:08   | actions are not working                                                                                          |
 | 01:11:10   | like full stop.                                                                                                  |
 | 01:11:12   | Greg Pierce, who's the developer                                                                                 |
-| 01:11:14   | of Drafts,                                                                                                       |
+| 01:11:14   | of [[Drafts]],                                                                                                       |
 | 01:11:16   | that's Mr. Agiletortoise                                                                                          |
 | 01:11:18   | has in the [[Drafts]]                                                                                               |
 | 01:11:20   | beta notes at this time shortcuts are not cross-platform.                                                        |

@@ -131,7 +131,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 06:49      | And when you go to add an action specifically, they are really aiming to bring in non-supernerd           |
 | 06:58      | users to do more with shortcuts. So when you go to add an action, it makes app suggestions that           |
 | 07:05      | are based on the app. So right now, I just open mine and I haven't got a shortcut started. I've           |
-| 07:12      | got a test one that's empty and it's giving me suggested actions in the clock, in Drafts, in              |
+| 07:12      | got a test one that's empty and it's giving me suggested actions in the clock, in [[Drafts]], in              |
 | 07:18      | notes, in voice memos. All the built-in Apple apps begin with because we're on the beta.                  |
 | 07:25      | But as I understand it, the developer API lets the developer choose specific actions that are             |
 | 07:31      | ready to roll in that actions menu now. So a user can just tap it and they've got a shortcut              |

@@ -53,7 +53,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [Secure ShellFish – SSH Client for iOS](https://secureshellfish.app/)
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [HTTPBot - REST Client for iOS, iPadOS & macOS](https://www.httpbot.io/)
-- [Drafts | Where Text Starts](https://getdrafts.com/)
+- [[[Drafts]] | Where Text Starts](https://getdrafts.com/)
 - [Shortery on the Mac App Store](https://apps.apple.com/gb/app/shortery/id1594183810?mt=12)
 - [ShareBot for Shortcuts on the Mac App Store](https://apps.apple.com/gb/app/sharebot-for-shortcuts/id1597340986?mt=12)
 - [MenuBot: Custom Menu Bar on the Mac App Store](https://apps.apple.com/gb/app/menubot-custom-menu-bar/id6444080295?mt=12)
@@ -61,7 +61,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [HomeBot for Shortcuts on the App Store](https://apps.apple.com/gb/app/homebot-for-shortcuts/id1553547811)
 - [Yoink for Mac, iPad and iPhone - Simplified and Improved Drag and Drop](https://www.Yoink.app/)
 - [Keyboard Maestro 10.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/)
-- [Mail Assistant | Drafts User Guide](https://docs.getdrafts.com/misc/mail-assistant)
+- [Mail Assistant | [[Drafts]] User Guide](https://docs.getdrafts.com/misc/mail-assistant)
 
 # Transcription
   
@@ -1124,15 +1124,15 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:07:20   | screenshot.                                                                                          |
 | 01:07:21   | I'm like, yes, this is data I would like on occasion.                                                |
 | 01:07:23   | I'm buying this one or downloading it out.                                                           |
-| 01:07:27   | Going back to something a little more in the norm, Drafts.                                           |
-| 01:07:32   | We can't do a show like this without mentioning Drafts.                                              |
+| 01:07:27   | Going back to something a little more in the norm, [[Drafts]].                                           |
+| 01:07:32   | We can't do a show like this without mentioning [[Drafts]].                                              |
 | 01:07:35   | [[Drafts]] has its own shortcuts actions, which is great, but it also does so much more than             |
 | 01:07:40   | that with shortcuts.                                                                                 |
 | 01:07:42   | Yeah.                                                                                                |
 | 01:07:43   | I mean, one of those things that I do just end up using [[Drafts]] for is, obviously, I add              |
-| 01:07:49   | stuff to Drafts.                                                                                     |
+| 01:07:49   | stuff to [[Drafts]].                                                                                     |
 | 01:07:50   | That's one of the things that I probably do the most with shortcuts by far.                          |
-| 01:07:56   | But something else that you can do with Drafts, like there are so many things that you can           |
+| 01:07:56   | But something else that you can do with [[Drafts]], like there are so many things that you can           |
 | 01:08:00   | do with [[Drafts]] where it doesn't even need to use the [[Drafts]] app.                                     |
 | 01:08:06   | For example, there's utilities like Markdown, HTML, and HTML to Markdown.                            |
 | 01:08:11   | You might think, huh, don't those kind of exist in shortcuts?                                        |
@@ -1317,7 +1317,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:18:53   | format or write an email in markdown formatted text and then send it via shortcuts or any            |
 | 01:18:59   | kind of automation system on your Mac, there's no way of doing that.                                 |
 | 01:19:05   | It just doesn't work.                                                                                |
-| 01:19:06   | So Greg Pierce, developer of Drafts, created this little app called Mail Assistant.                  |
+| 01:19:06   | So Greg Pierce, developer of [[Drafts]], created this little app called Mail Assistant.                  |
 | 01:19:11   | It's free to download and use, and basically it exists to allow you to send mail properly            |
 | 01:19:17   | using [[Drafts]] on the Mac.                                                                             |
 | 01:19:21   | Yeah.                                                                                                |

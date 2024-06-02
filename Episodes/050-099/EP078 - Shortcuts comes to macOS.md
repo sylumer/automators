@@ -1501,7 +1501,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:24:44   | stuff doesn't break.                                                                                                      |
 | 01:24:45   | I know previously, Greg Pierce, Mr. Agile Tortes, had to, this was when [[Drafts]] actions                                    |
 | 01:24:50   | were just built into shortcuts.                                                                                           |
-| 01:24:53   | He had to ping the guys on the shortcuts team and say, there's a new version of Drafts.                                   |
+| 01:24:53   | He had to ping the guys on the shortcuts team and say, there's a new version of [[Drafts]].                                   |
 | 01:25:00   | Can you change all the [[URL Schemes]] that you're using, please?                                                             |
 | 01:25:03   | And then, of course, we got the actions, and that's all been sorted out since then, which                                 |
 | 01:25:07   | is great.                                                                                                                 |

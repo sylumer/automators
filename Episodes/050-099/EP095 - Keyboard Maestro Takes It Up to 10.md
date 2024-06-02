@@ -1345,7 +1345,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:32:17   | so there's additional tags and ways I can filter and [[Obsidian]] based on that stuff that's                 |
 | 01:32:23   | automatically added. So I solved the problem on the Mac first, because that's where I spend most         |
 | 01:32:28   | of my time working. But then I wanted to solve it on the iPhone. Right. So shortcuts? Shortcuts.         |
-| 01:32:33   | Drafts. No, I could have done it with Drafts, but I wanted to do it with shortcuts because there         |
+| 01:32:33   | [[Drafts]]. No, I could have done it with [[Drafts]], but I wanted to do it with shortcuts because there         |
 | 01:32:38   | were some options. Like once again, is there a clipboard? Is there an active tag? And I could            |
 | 01:32:44   | have done that in [[Drafts]] too. But on my iPhone, I have a similar contextual icon, like I have            |
 | 01:32:52   | the contextual button on my Mac. And it's a shortcut, choose from menu shortcut. So I knew               |
@@ -1389,12 +1389,12 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:36:29   | And it means that you can also see how an extension is written, so modify it yourself.                   |
 | 01:36:34   | So I've been stealing all of the things with that and modifying them. And it's great. I'm                |
 | 01:36:39   | really enjoying that. And yeah, it's been very useful to be able to do that. And I've also been          |
-| 01:36:47   | playing a little bit more with Drafts, getting it to do more things entirely on its own,                 |
+| 01:36:47   | playing a little bit more with [[Drafts]], getting it to do more things entirely on its own,                 |
 | 01:36:52   | without being fed data from shortcuts first, which means I can run the macro very easily                 |
 | 01:36:58   | wherever I want, however I want, because it's just [[Drafts]] independent of any other requirements.         |
 | 01:37:04   | So I've been pulling some more data in there, which has been quite nerdy, but good fun.                  |
 | 01:37:10   | Yeah, there's just, there are good options now. You know, earlier I said, you know,                      |
-| 01:37:13   | where's [[Keyboard Maestro]] on the iPhone? Maybe you can make the argument that it's Drafts.                |
+| 01:37:13   | where's [[Keyboard Maestro]] on the iPhone? Maybe you can make the argument that it's [[Drafts]].                |
 | 01:37:18   | I don't know. Yeah, maybe. At least if it's text related.                                                |
 | 01:37:22   | Yeah. So [[Keyboard Maestro]] is great, and [[Drafts]] is exceptionally good for automating                      |
 | 01:37:30   | anything to do with text, and even some things which aren't 100% text related.                           |

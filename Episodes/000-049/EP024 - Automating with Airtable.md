@@ -803,7 +803,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 44:53      | I feel like that could be done better.                                                               |
 | 44:54      | Yes.                                                                                                 |
 | 44:55      | I think it could be as well, but this is where shortcuts and actually [[Drafts]] can come in             |
-| 45:00      | really handy because Drafts, of course, is very scriptable, as we know from the last                 |
+| 45:00      | really handy because [[Drafts]], of course, is very scriptable, as we know from the last                 |
 | 45:04      | episode with Tim.                                                                                    |
 | 45:06      | And you can do all sorts of things, including post a bunch of data to Airtable, and you              |
 | 45:11      | can get data back from Airtable with the API, which means that you can do things like start          |
@@ -1008,7 +1008,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 56:48      | Yes, it does.                                                                                        |
 | 56:49      | And because of this API, which I know I've been talking about to death, I'm just going               |
 | 56:53      | to mention it again, you can integrate this into something like [[Drafts]] as well.                      |
-| 56:57      | So I've made, I've got a couple of different actions for Drafts.                                     |
+| 56:57      | So I've made, I've got a couple of different actions for [[Drafts]].                                     |
 | 57:00      | I've got one in my blog post workspace, I've got one in my suite set up workspace.                   |
 | 57:05      | And this means that I can grab things which are currently marked as ideas in my air table            |
 | 57:11      | basis and I can change them from idea to draft and I can just get working on them.                   |

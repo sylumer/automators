@@ -1115,19 +1115,19 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:13:28   | and expressive and they come up with some great ideas and everybody's always willing                     |
 | 01:13:33   | to share what they have.                                                                                 |
 | 01:13:35   | And I'm always amazed at some of the integration that they've been able to do with other applications    |
-| 01:13:41   | like Drafts.                                                                                             |
+| 01:13:41   | like [[Drafts]].                                                                                             |
 | 01:13:44   | And it's just remarkable the tools that they've created using JavaScript where they're communicating     |
 | 01:13:51   | between all of these different applications and the Omni apps, too, as well.                              |
 | 01:13:56   | It's just remarkable.                                                                                    |
 | 01:13:58   | It is.                                                                                                   |
 | 01:13:59   | It really is.                                                                                            |
 | 01:14:00   | And I mean, so you talked about your packing lists earlier, I've created a whole action                  |
-| 01:14:05   | group for doing my packing lists and Drafts, which I've been working on enhancing a little               |
+| 01:14:05   | group for doing my packing lists and [[Drafts]], which I've been working on enhancing a little               |
 | 01:14:10   | bit today as well, because that's what I do in my spare time, apparently.                                |
 | 01:14:15   | But the other thing with all of the Omni Automation stuff is they're using JavaScript, well,[[Drafts]]      |
 | 01:14:20   | also uses JavaScript and Scriptable uses JavaScript.                                                     |
 | 01:14:23   | So if you start learning JavaScript for automation purposes, then suddenly, instead of being able        |
-| 01:14:28   | to automate just Drafts, you can also use Scriptable.                                                    |
+| 01:14:28   | to automate just [[Drafts]], you can also use Scriptable.                                                    |
 | 01:14:32   | You can use four Omni Group apps and whatever other apps that are out there that can use                  |
 | 01:14:37   | JavaScript as well, because it's very similar.                                                           |
 | 01:14:41   | Like AppleScript, you need to read a library, but you can get kind of crazy with this stuff.             |

@@ -266,7 +266,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 20:15      | mind, I'm like, oh, this works like this. But then there are all these other things that I don't really  |
 | 20:21      | know about. And it just became, well, let's try it and let's build what we know and build off of what    |
 | 20:28      | we know and continue from there until you start doing more and more with it. And then you're like,       |
-| 20:34      | oh, wow, I built like a mood tracker and Drafts. And that's like, has all these menu options and         |
+| 20:34      | oh, wow, I built like a mood tracker and [[Drafts]]. And that's like, has all these menu options and         |
 | 20:42      | auto date finding stuff and natural language processing. And you're like, I don't know how I             |
 | 20:48      | did this. And then eventually you realise it's all built on, you know, Band-Aids, patches, and a lot     |
 | 20:54      | of copy pasting. So I would, I would always say you, you learn by breaking stuff and then figuring       |
@@ -281,7 +281,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 21:45      | I mean, obviously, we just have days where we just can't even. And, and that's, you know,                |
 | 21:49      | for me, that seems to be more days than, than often. But I wanted to have this                           |
 | 21:55      | like line of [[Drafts]] that were just emojis. And the emojis would be my, my mood so that                   |
-| 22:03      | if I were scrolling through my Drafts, because like most people up until a few weeks ago,                |
+| 22:03      | if I were scrolling through my [[Drafts]], because like most people up until a few weeks ago,                |
 | 22:07      | I had several thousand [[Drafts]] that were still in my inbox, I, I could see a pattern of how my days       |
 | 22:17      | had been going. And what I would do is I would just, you know, I would trigger the action, it would      |
 | 22:23      | pull up, you know, how are you feeling with a couple of emojis there, I'd push the emoji,                |
@@ -331,7 +331,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 26:25      | the Mac as well. It's on your Mac, your iPhone, your iPad, you know, wherever you want to code,          |
 | 26:31      | you can, and then you can use that same solution to solve your problem wherever you are.                 |
 | 26:35      | Well, I mean, the funny thing to me is how often I pull [[Drafts]] out of my tool belt and use it. I         |
-| 26:42      | mean, we've got an episode of Mac Power Users publishing next week that really isn't about Drafts,       |
+| 26:42      | mean, we've got an episode of Mac Power Users publishing next week that really isn't about [[Drafts]],       |
 | 26:47      | but I think I mentioned the app like four or five times in the episode because                           |
 | 26:51      | it just is kind of a Swiss Army knife for text. And if someone works with text, this is a great          |
 | 26:57      | automation platform because you can make your life so much easier with it. But let's talk a bit about    |
@@ -520,10 +520,10 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 44:10      | should be a shortcut for, I just make one using [[Keyboard Maestro]]. Or if I think that there should        |
 | 44:18      | be maybe a better shortcut, not to pick on [[Drafts]] again, but that's one that I distinctly know of        |
 | 44:25      | that like draft supports marked on the Mac and marked does this great preview of markdown content.       |
-| 44:32      | And anytime that I want to preview markdown and Drafts, I want marked to be running and I want           |
+| 44:32      | And anytime that I want to preview markdown and [[Drafts]], I want marked to be running and I want           |
 | 44:37      | marked to be the thing that's doing the preview. So I just hot wired the preview shortcut to make        |
 | 44:43      | sure that marked is open and then just open up the mark streaming window. And then also when I           |
-| 44:48      | close draft Drafts, then [[Keyboard Maestro]] says, Oh, yeah, let me close mark two while you're at it.      |
+| 44:48      | close draft [[Drafts]], then [[Keyboard Maestro]] says, Oh, yeah, let me close mark two while you're at it.      |
 | 44:53      | That's ingenious. I really think it's those two and three step automations that really, you know,        |
 | 45:00      | provide the lubricant of the day, you know, it's like just little things like that,                      |
 | 45:05      | even like the one I was talking about earlier, copy text, open Grammarly, push this button and           |
@@ -564,7 +564,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 48:26      | Orchard brain on [[BetterTouchTool]] and hear what you're doing with it. Because you're right, it's        |
 | 48:31      | an app that's not expensive. If you're a set up subscriber, it's you get it in there and he still        |
 | 48:36      | gets paid. So, you know, it for automators, this is such a great tool, you know, it's kind of like       |
-| 48:42      | Drafts. Like once you install it, you find all these uses for it. You forget that you're running it      |
+| 48:42      | [[Drafts]]. Like once you install it, you find all these uses for it. You forget that you're running it      |
 | 48:48      | until it's not running. And then you're like, wait, what? Yeah, exactly. I had to do something on my     |
 | 48:53      | dad's Mac for him the other day. He wanted to know why try time machine wasn't backing up. It            |
 | 48:58      | turns out if you turn off your Wi Fi connection, then time machine doesn't back up that. Yeah.           |

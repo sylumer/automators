@@ -386,7 +386,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 26:26      | me if I did that. But I'm thinking JavaScript is a pretty good solution because, I mean,                 |
 | 26:30      | you get it for free on iOS, and that's a very, very good starting point.                                 |
 | 26:35      | It does seem to be kind of the gravity seems to be pulling it towards automation for all                 |
-| 26:40      | these various solutions that we talk about on this show so often. Like you said, Drafts,                 |
+| 26:40      | these various solutions that we talk about on this show so often. Like you said, [[Drafts]],                 |
 | 26:46      | the Omni apps, it works both on Mac, iPad and iPhone. So I think this is really a great                   |
 | 26:52      | opportunity for folks that want to learn this. So how is it working with the, let's talk                 |
 | 26:57      | about OmniFocus because that's the most recent one that you've updated for it. Give me some              |

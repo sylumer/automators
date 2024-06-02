@@ -126,7 +126,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 04:34      | text by input in shortcuts. Yeah, in shortcuts. And then what are you using to parse the                |
 | 04:40      | lines out? So people will know how to do that. There's a split text action. So you can split            |
 | 04:44      | text by the lines. So I can capture six ideas on six lines, and then split it, and it will              |
-| 04:50      | split that into six things. This used to be something you'd have to do in Drafts, but                   |
+| 04:50      | split that into six things. This used to be something you'd have to do in [[Drafts]], but                   |
 | 04:54      | now you can write in shortcuts. Exactly. And then I and then it asks me for each one of                 |
 | 05:00      | those if this is a quick tip idea or an automation idea or something else. And if it's something        |
 | 05:05      | else, then it will ask me for more information. But the quick tip and the automation column             |
@@ -163,7 +163,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 07:37      | I do the same thing as well. I have a lot of things that happen with templated projects.                |
 | 07:43      | And I use actually use [[Drafts]] for this. And I've got a whole action group, I'll link to                 |
 | 07:47      | it in the show notes to the blog post I wrote on how it all works. But you can put variables            |
-| 07:52      | in and have them replaced inside of Drafts. And there's an action in this action group.                 |
+| 07:52      | in and have them replaced inside of [[Drafts]]. And there's an action in this action group.                 |
 | 07:57      | I may need to push an update to the draft site so that that'll be on my to do list to                   |
 | 08:02      | make sure it's done, where you can then generate a URL encoded version of this. And this is             |
 | 08:08      | something that I am taking a lot of advantage off because, for example, when I get new show             |
@@ -216,11 +216,11 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 12:16      | managing that text on that little screen, even on an iPad is quite difficult. And every                 |
 | 12:22      | time I see the gang from shortcuts, I talk to them about that, you know, but the reason                 |
 | 12:29      | I like it is I just don't trust having it go through multiple applications. So you're                   |
-| 12:35      | working with Drafts, Zapier, the OmniFocus web service. And it's like, you've got it                    |
+| 12:35      | working with [[Drafts]], Zapier, the OmniFocus web service. And it's like, you've got it                    |
 | 12:41      | running through so many different platforms to get there that that just kind of scares                  |
 | 12:45      | me a little bit.                                                                                        |
 | 12:46      | Yeah. Well, in my case, so a little bit of background, the way that a lot of my projects                |
-| 12:51      | are created, I have the template in Drafts, and I run a draft section and that creates                  |
+| 12:51      | are created, I have the template in [[Drafts]], and I run a draft section and that creates                  |
 | 12:55      | it in OmniFocus for me. And that's it. That's the end of it. But specifically for things                |
 | 13:00      | like screencasts online, where all of this data is already provided by the system that                  |
 | 13:07      | screencasts online uses in the background, Podio, that was mentioned in our episode with                |
@@ -239,19 +239,19 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 14:24      | of the URL in the note and then just reference that variable from the variable to formatted             |
 | 14:30      | text, which is really useful and makes it quite easy to edit if I need to. Because as                   |
 | 14:35      | you said, that's the problem with doing everything in shortcuts, you end up with a very small           |
-| 14:38      | box, which is why I much prefer to handle this inside of Drafts, because then I can                     |
+| 14:38      | box, which is why I much prefer to handle this inside of [[Drafts]], because then I can                     |
 | 14:44      | see everything at once. It doesn't matter if I've got a 12.9 inch iPad or an iPhone                     |
 | 14:49      | SE, the text will fill my screen instead of being a very small box on my screen.                        |
 | 14:56      | And I think the way you do it makes a lot of sense. I've got so many built in the old                   |
 | 15:03      | fashion that it's hard for me to just fathom wrapping in my head around, okay, I'm going                |
 | 15:07      | to put it in two different systems. In general, all of my things, the primary                           |
-| 15:12      | source for my templates is Drafts. So if I need to change something, I'll go into [[Drafts]]               |
+| 15:12      | source for my templates is [[Drafts]]. So if I need to change something, I'll go into [[Drafts]]               |
 | 15:16      | and then I actually have, this is really nerdy, I have a list, I have a draft with which references     |
-| 15:23      | my other [[Drafts]] by their UUID, that's the Drafts, universally unique identifier, and                    |
+| 15:23      | my other [[Drafts]] by their UUID, that's the [[Drafts]], universally unique identifier, and                    |
 | 15:28      | tells me where I've used these templates in other places. So it tells me the name of the                |
 | 15:33      | Zapier's app that's using this. And I do have to manually keep this up to date. But that                |
 | 15:38      | means that when I make a change, I can go look it up and see where else I need to go                    |
-| 15:43      | and update this, just in case. Huge automators power tip there is in Drafts,                            |
+| 15:43      | and update this, just in case. Huge automators power tip there is in [[Drafts]],                            |
 | 15:47      | you can get a unique identifier for every single draft you make, which is way easier                    |
 | 15:53      | than if you're using Apple Notes and you have to use a goofy search technique and hope that             |
 | 15:57      | you get the right one. I mean, the way I do it in Notes is I actually create a unique                   |

@@ -125,7 +125,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 02:16      | in this area, and you could create all these really wackadoo macros and Rube Goldberg devices,                |
 | 02:23      | but it was a real crapshoot if it would work at all, and that's still true in some ways                       |
 | 02:29      | today, but now there's an entire community of people like Rosemary, like all these other                      |
-| 02:34      | folks that are making the fellow that made the ThoughtAsylum thing for Drafts, there's                       |
+| 02:34      | folks that are making the fellow that made the ThoughtAsylum thing for [[Drafts]], there's                       |
 | 02:38      | people out there just making an entire worldview inside of these apps that we get to benefit                  |
 | 02:43      | from.                                                                                                         |
 | 02:44      | Yeah.                                                                                                         |
@@ -1075,7 +1075,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 53:01      | And I don't want to do that.                                                                                  |
 | 53:03      | [[BetterTouchTool]] was like a fairly intuitive way to do things I wanted to like.                              |
 | 53:08      | So for example, here on my Das keyboard, when I hit, you know, F13 that opens NV alts, 14                     |
-| 53:14      | opens Drafts, 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
+| 53:14      | opens [[Drafts]], 15 opens Taskpaper, 12 enters my phone number, et cetera.                                      |
 | 53:20      | And I just wanted some really simple bonehead things like that.                                               |
 | 53:23      | When I ill-advisedly too early purchased the 2019 MacBook Pro, really wish I'd waited a                       |
 | 53:29      | little longer.                                                                                                |
@@ -1492,7 +1492,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:15:04   | files, but there's still just your Markdown files.                                                            |
 | 01:15:08   | But I also know that you use [[Drafts]] a lot, don't you?                                                         |
 | 01:15:10   | I mean, I've seen you write and make reference to it.                                                         |
-| 01:15:13   | Oh, I love Drafts.                                                                                            |
+| 01:15:13   | Oh, I love [[Drafts]].                                                                                            |
 | 01:15:15   | [[Drafts]] is where text starts.                                                                                  |
 | 01:15:16   | I love that it's cross-platform.                                                                              |
 | 01:15:18   | The magic of the way that Greg has, I have no idea, Rose, I wonder if this blows your                         |
@@ -1502,7 +1502,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:15:37   | Mind-blowing to me, and not all of them do, but like a shocking amount of things in [[Drafts]]                   |
 | 01:15:41   | will just work and sync and do the thing on iOS and the Mac, which is mind-blowing to                         |
 | 01:15:47   | me.                                                                                                           |
-| 01:15:48   | But the only thing that keeps me from being all in on Drafts, this is so embarrassing.                        |
+| 01:15:48   | But the only thing that keeps me from being all in on [[Drafts]], this is so embarrassing.                        |
 | 01:15:55   | It's just I have to be candid.                                                                                |
 | 01:15:57   | I still use editorial on my phone.                                                                            |
 | 01:16:00   | Editorial's been dead forever, but you know what it is?                                                       |
@@ -1511,13 +1511,13 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:16:14   | It's incredibly limiting to have that be the gating factor, because [[Drafts]] will do all                        |
 | 01:16:20   | of that stuff, and [[Drafts]] has all that functionality.                                                         |
 | 01:16:22   | You just got to wire it up, but that's the one thing that keeps me from going all the                         |
-| 01:16:26   | way in on Drafts, is I still like having separate text files, A, that can be in places like                   |
+| 01:16:26   | way in on [[Drafts]], is I still like having separate text files, A, that can be in places like                   |
 | 01:16:32   | Dropbox, B, air go, that lets me have a Taskpaper document that I can use in those different                 |
-| 01:16:38   | places, and every couple of weeks I go back to seeing, can I do this all with Drafts?                         |
+| 01:16:38   | places, and every couple of weeks I go back to seeing, can I do this all with [[Drafts]]?                         |
 | 01:16:42   | I'm just not quite there yet.                                                                                 |
-| 01:16:43   | Tell me, talk me out of this, give me all in on Drafts, what do I have to do?                                 |
+| 01:16:43   | Tell me, talk me out of this, give me all in on [[Drafts]], what do I have to do?                                 |
 | 01:16:47   | It [[Drafts]] has Taskpaper formatting, and it will sync those things, and I have a workspace                    |
-| 01:16:54   | in Drafts.                                                                                                    |
+| 01:16:54   | in [[Drafts]].                                                                                                    |
 | 01:16:55   | I have one for my OmniFocus templates, actually, and when I switch to that, I set it up so                    |
 | 01:17:00   | that it switches my action groups, so that's the one on the right-hand side and the one                       |
 | 01:17:04   | above the keyboard.                                                                                           |
@@ -1547,7 +1547,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:18:03   | It won't do it on its own.                                                                                    |
 | 01:18:05   | Yeah.                                                                                                         |
 | 01:18:06   | That is most unfortunate.                                                                                     |
-| 01:18:08   | I mean, when you look at editorial and Drafts, I feel like [[Drafts]] really is the poster child                  |
+| 01:18:08   | I mean, when you look at editorial and [[Drafts]], I feel like [[Drafts]] really is the poster child                  |
 | 01:18:13   | for app subscriptions.                                                                                        |
 | 01:18:16   | You know, I think the reason editorial didn't continue to get development was there was                       |
 | 01:18:21   | no more- you couldn't afford to, you know?                                                                    |

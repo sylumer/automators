@@ -153,7 +153,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 06:03      | there are some programs, for example, OmniFocus supports regular expressions in their search.       |
 | 06:07      | Did you know that?                                                                                  |
 | 06:08      | Maybe not.                                                                                          |
-| 06:09      | But if you open up the search function of a program like [[BBEdit]] or OmniFocus or Drafts,            |
+| 06:09      | But if you open up the search function of a program like [[BBEdit]] or OmniFocus or [[Drafts]],            |
 | 06:16      | then you can usually turn on and off the regular expressions, which is really useful because        |
 | 06:20      | sometimes you might want to actually match a period and you don't care about regular                |
 | 06:25      | expressions.                                                                                        |
@@ -949,8 +949,8 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 52:12      | As long as you know what it is that you're looking for and how to specify this, you can             |
 | 52:18      | cheat a lot of the time and use something that somebody else has written to make it                 |
 | 52:22      | work for you.                                                                                       |
-| 52:24      | And so I do use standard regular expressions if you want to call them that in Drafts.               |
-| 52:29      | So for example, finding any item which is marked as a task, which in Drafts, the way                |
+| 52:24      | And so I do use standard regular expressions if you want to call them that in [[Drafts]].               |
+| 52:29      | So for example, finding any item which is marked as a task, which in [[Drafts]], the way                |
 | 52:36      | that you start a task is you do dash space square bracket.                                          |
 | 52:40      | And then it could be an X in the box if it's completed or space and then close square bracket       |
 | 52:47      | followed by something else.                                                                         |

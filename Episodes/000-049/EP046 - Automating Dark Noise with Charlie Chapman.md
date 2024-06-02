@@ -1096,9 +1096,9 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:01:58   | It's only for customers.                                                                                  |
 | 01:02:00   | And people save the code so that they can reuse them, which makes perfect sense to me.                    |
 | 01:02:04   | Because if you need a bathroom, you need a bathroom.                                                      |
-| 01:02:07   | And so they had this saved in Drafts.                                                                     |
+| 01:02:07   | And so they had this saved in [[Drafts]].                                                                     |
 | 01:02:08   | And because [[Drafts]] was donating, not just when they opened it, but where they opened                      |
-| 01:02:12   | it, when they got to this place, it automatically said, hey, you usually do this thing in Drafts.         |
+| 01:02:12   | it, when they got to this place, it automatically said, hey, you usually do this thing in [[Drafts]].         |
 | 01:02:17   | So they're definitely getting there with this thing.                                                      |
 | 01:02:20   | And if they could add hooks so that when this thing happens, it suggests that you trigger                 |
 | 01:02:25   | that that is definitely going to be the next step from taking those actions from inside                   |

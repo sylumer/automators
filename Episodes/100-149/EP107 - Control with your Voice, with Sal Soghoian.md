@@ -491,13 +491,13 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 28:28      | input field.                                                                                         |
 | 28:29      | Yes.                                                                                                 |
 | 28:30      | That would be pretty awesome.                                                                        |
-| 28:31      | I'm still using the good old, I'll stick it in Drafts.                                               |
+| 28:31      | I'm still using the good old, I'll stick it in [[Drafts]].                                               |
 | 28:33      | I have a dedicated [[Drafts]] tag or shortcuts text.                                                     |
 | 28:37      | The only problem with that is, of course, you can't put variables in there, but a lot                |
 | 28:42      | of the time, I'll want to put the same variable in multiple places.                                  |
 | 28:46      | So I'll use the dictionary approach and repeat through the dictionary keys and replace my            |
 | 28:51      | dictionary keys with my variables because that means that I can have amazingly long text             |
-| 28:56      | in Drafts, which of course I can edit anywhere, anytime.                                             |
+| 28:56      | in [[Drafts]], which of course I can edit anywhere, anytime.                                             |
 | 28:59      | And then it's just available on all of my devices, which works really well.                          |
 | 29:03      | See, Rose just took up my next week.                                                                 |
 | 29:06      | Yeah.                                                                                                |
@@ -629,7 +629,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 36:59      | apps, they were able to make this possible.                                                          |
 | 37:02      | And it's been interesting that other developers have also decided that JavaScript is a default       |
 | 37:08      | language that they use.                                                                              |
-| 37:10      | And many of the apps like Rosemary said, like Drafts, use JavaScript-based as their automation       |
+| 37:10      | And many of the apps like Rosemary said, like [[Drafts]], use JavaScript-based as their automation       |
 | 37:18      | as well.                                                                                             |
 | 37:19      | And so it works well.                                                                                |
 | 37:21      | And since HTML also is integrated with JavaScript, running Omni Automation within HTML works         |

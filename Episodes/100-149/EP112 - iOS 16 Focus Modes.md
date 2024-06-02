@@ -528,17 +528,17 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 30:04      | I'm considering making a packing focus mode, David, for when I'm packing to do various                  |
 | 30:08      | things and it will pin the current draft at the top.                                                    |
 | 30:14      | Well, that's what I need when I'm packing.                                                              |
-| 30:17      | When I reopen Drafts, it always needs to be the same draft unless I specifically open                   |
+| 30:17      | When I reopen [[Drafts]], it always needs to be the same draft unless I specifically open                   |
 | 30:22      | another one.                                                                                            |
-| 30:23      | And you can also even choose specific Drafts, but it's pretty cool.                                     |
+| 30:23      | And you can also even choose specific [[Drafts]], but it's pretty cool.                                     |
 | 30:27      | I'm very much liking this.                                                                              |
-| 30:29      | Yeah, so with Drafts, not only can you have it open up the group of [[Drafts]] related to                   |
+| 30:29      | Yeah, so with [[Drafts]], not only can you have it open up the group of [[Drafts]] related to                   |
 | 30:36      | work when you're in work focus mode, you can have a hide them and show your personal ones               |
 | 30:40      | when you're in personal mode.                                                                           |
-| 30:41      | And like Rose said, if you create custom actions in Drafts, you can have only the custom actions        |
+| 30:41      | And like Rose said, if you create custom actions in [[Drafts]], you can have only the custom actions        |
 | 30:46      | related to work show up.                                                                                |
 | 30:49      | I never expected [[Drafts]] or any notes app to take part in this feature, but of course                    |
-| 30:55      | it was Drafts.                                                                                          |
+| 30:55      | it was [[Drafts]].                                                                                          |
 | 30:56      | And of course, you immediately see the benefit of it and yeah, yeah, you do.                            |
 | 31:01      | There is another notes app, which I feel is worth a shout out for for this because they've              |
 | 31:06      | added not only focus mode support, but they've also added shortcut support and that's agenda.           |
@@ -614,7 +614,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 35:12      | And I just throw that in agenda because it's assigned to a specific day, which works really             |
 | 35:18      | nicely.                                                                                                 |
 | 35:19      | And then, yeah, I just, you know, basically end up having the information that I need                   |
-| 35:26      | and I can go through it in a calendar style, so I can actually, I've created some Drafts.               |
+| 35:26      | and I can go through it in a calendar style, so I can actually, I've created some [[Drafts]].               |
 | 35:34      | I've got my own work [[Drafts]] action group, because of course I do, but it gives me the                   |
 | 35:39      | option to say like, hey, so this thing that I was like scribbling down, like, it's not                  |
 | 35:45      | super relevant to life particularly, like I don't need to keep this around, but I do                    |
@@ -1264,7 +1264,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:14:00   | So I've just added that into the Folk Fantastical filters so that I can reuse my travel calendar        |
 | 01:14:07   | set.                                                                                                    |
 | 01:14:08   | And it is actually, there is a draft focus filter that I have set up for because I have                 |
-| 01:14:14   | a packing slash travel workspace in Drafts.                                                             |
+| 01:14:14   | a packing slash travel workspace in [[Drafts]].                                                             |
 | 01:14:19   | I mean, I have two workspaces.                                                                          |
 | 01:14:20   | I have a packing workspace and I have a travel workspace, but the travel workspace includes             |
 | 01:14:26   | everything in the packing workspace.                                                                    |
