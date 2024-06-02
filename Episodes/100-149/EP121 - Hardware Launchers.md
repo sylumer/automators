@@ -424,7 +424,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 22:41      | And the way that it does this really depends on the Macro Pad and how you set it up.                   |
 | 22:47      | So a way to do this would be to have it mapped to something like the hyper key and then a              |
 | 22:53      | number of other keys as well, and then have those keyboard shortcuts run things for you.               |
-| 23:01      | Or you could just have something like Better Touch Tools sit there and when a particular               |
+| 23:01      | Or you could just have something like [[BetterTouchTool\|BetterTouchTool's]] sit there and when a particular               |
 | 23:06      | key code is sent, because every key on a keyboard will send a key code when it's pressed.              |
 | 23:11      | So when that particular key code is sent, then a [[BetterTouchTool]] goes, oh, right,                    |
 | 23:15      | this keyboard sent this key code.                                                                      |

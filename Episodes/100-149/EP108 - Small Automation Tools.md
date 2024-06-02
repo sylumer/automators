@@ -852,7 +852,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:05      | Command Shift D, it will open the documentation for the word        |
 | 33:09      | or command that I have selected.                                    |
 | 33:11      | But the database tools that I use don't have this plugin option.    |
-| 33:15      | And so I just set it up in Better Touch tool that when I hit        |
+| 33:15      | And so I just set it up in BetterTouchTool that when I hit        |
 | 33:19      | that keyboard shortcut in those applications, that it also          |
 | 33:23      | opens Dash with, you know, what I've got selected.                  |
 | 33:25      | And that works really well for me.                                  |
@@ -871,21 +871,21 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:52      | So I created a shortcut in keyboard in my show.                     |
 | 33:56      | If I hit Shift Enter when I'm in Apple Mail, then hit the           |
 | 33:59      | keyboard combination, Command Shift D.                              |
-| 34:02      | I could have just as easily as done that in Better Touch tool       |
-| 34:05      | because Better Touch tool fully supports those keyboard shortcuts   |
+| 34:02      | I could have just as easily as done that in BetterTouchTool       |
+| 34:05      | because BetterTouchTool fully supports those keyboard shortcuts   |
 | 34:08      | to do something like that.                                          |
-| 34:10      | Some other stuff with Better Touch tool that I think is really      |
+| 34:10      | Some other stuff with BetterTouchTool that I think is really      |
 | 34:13      | handy contextual menus like, you know, mouse contextual menus.      |
-| 34:19      | You can automate those with Better Touch tool that I'm not          |
+| 34:19      | You can automate those with BetterTouchTool that I'm not          |
 | 34:22      | aware of any other way to do that.                                  |
 | 34:24      | I mean, I've, I mean, I've tried it with AppleScript and           |
 | 34:28      | keyboard my show and I never get it to reliably work, whereas       |
-| 34:31      | I get it to reliably work with Better Touch tool.                   |
+| 34:31      | I get it to reliably work with BetterTouchTool.                   |
 | 34:34      | And another one that, you know, it seems to me like a big           |
 | 34:38      | miss for Apple.                                                     |
 | 34:39      | They don't really have a built-in keyboard shortcut to move         |
 | 34:42      | an app to a different space.                                        |
-| 34:45      | And Better Touch tool has that as available action.                 |
+| 34:45      | And BetterTouchTool has that as available action.                 |
 | 34:48      | So for me, if I hit, was it Control Command, right arrow?           |
 | 34:52      | It moves the existing app to the next space over.                   |
 | 34:55      | And if you use spaces, the ability to move apps between             |

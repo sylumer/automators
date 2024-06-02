@@ -39,7 +39,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 # Sponsors
 - [[LinkedIn Jobs (Sponsor)|LinkedIn Jobs]] - Post a job for free.
 - [[TextExpander (Sponsor)|TextExpander from Smile]] - Communicate Smarter.
-- [[Technology Untangled (sponsor|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
+- [[Technology Untangled (sponsor)|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
 
 # Show Notes
 - [Six Colours – Apple, technology, and other stuff by Jason Snell & Dan Moren](https://sixcolours.com/)

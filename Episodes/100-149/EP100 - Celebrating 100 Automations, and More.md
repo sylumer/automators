@@ -1862,7 +1862,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:14:34   | I definitely have a lot of input devices                          |
 | 01:14:37   | running around on my desk.                                        |
 | 01:14:38   | All right, let's talk about that at some point.                   |
-| 01:14:41   | Cause I do too, I have a track pad and Better Touch tool.         |
+| 01:14:41   | Cause I do too, I have a track pad and BetterTouchTool.         |
 | 01:14:44   | I think that's a feature topic,                                   |
 | 01:14:46   | but I want to get, before we finish today,                        |
 | 01:14:49   | I want to kind of get back to, you know, celebrating 100,         |

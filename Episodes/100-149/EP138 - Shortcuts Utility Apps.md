@@ -48,7 +48,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [Jayson](https://jayson.app/)
 - [Scriptable](https://scriptable.app/)
 - [Charty – Create charts from Shortcuts](https://chartyios.app/)
-- [Better Touch Tool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
+- [BetterTouchTool | folivora.ai - Great Tools for your Mac!](https://folivora.ai/)
 - [Opener](https://www.opener.link/)
 - [Secure ShellFish – SSH Client for iOS](https://secureshellfish.app/)
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
@@ -108,7 +108,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 02:21      | that help you out and today what we thought we'd do is just kind of survey them, talk                |
 | 02:25      | about some of the high points.                                                                       |
 | 02:28      | The list just keeps growing as I was talking here, I got thinking, well, we've got to add            |
-| 02:32      | [[Better Touch Tool\|Better Touch Tool's]] as well because even though it's actually a third-party app, it is its            |
+| 02:32      | [[BetterTouchTool\|BetterTouchTool's]] as well because even though it's actually a third-party app, it is its            |
 | 02:37      | own form of additional features.                                                                     |
 | 02:40      | So we've got so many here, gang.                                                                     |
 | 02:43      | We're going to try and get through as many as we can and talk about them but take notes,             |

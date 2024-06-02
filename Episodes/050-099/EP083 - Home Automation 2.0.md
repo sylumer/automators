@@ -35,7 +35,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 
 # Sponsors
 - [[ExpressVPN (Sponsor)|ExpressVPN]] - High-Speed, Secure & Anonymous VPN Service.
-- [[Technology Untangled (sponsor|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
+- [[Technology Untangled (sponsor)|Technology Untangled]] - Join Michael Bird as he untangles innovation through a series of interviews, stories, and analyses with some of the industry’s brightest brains.
 - [[Privacy (Sponsor)|Privacy]] - Smarter payments.
 
 # Show Notes

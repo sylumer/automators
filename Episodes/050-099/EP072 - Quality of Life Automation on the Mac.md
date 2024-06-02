@@ -52,7 +52,7 @@ Rose and David explain many little automations that can improve your quality of 
 - [Kerry Provanzano](https://twitter.com/ciaokerryciao)
 * * *
 - [All Automators Episodes](https://www.relay.fm/automators/archive)
-- [Better Touch Tool](https://folivora.ai/)
+- [BetterTouchTool](https://folivora.ai/)
 - [Moom · Many Tricks](https://manytricks.com/moom/)
 - [Keyboard Maestro 9.2: Work Faster with Macros for macOS](http://www.stairways.com/action/kmdiscount?REF9WZE)
 - [Keyboard Maestro Window Management - MacSparky YouTube](https://www.youtube.com/watch?v=78NoxkrFbrU)

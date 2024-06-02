@@ -615,7 +615,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 35:24      | But if you go through their connected app list, there is a lot of options in there for automation    |
 | 35:30      | tools.                                                                                               |
 | 35:31      | Yeah, there really are.                                                                              |
-| 35:32      | I mean, I'm obviously slightly biased because one of the companies that I founded, [[SnailedIt]]           |
+| 35:32      | I mean, I'm obviously slightly biased because one of the companies that I founded, [[Snailed It]]           |
 | 35:38      | development, has taken over [[Alex Hay\|Alex Hay's]] apps after his sad passing.                               |
 | 35:42      | So that means that we are now the proud keepers, grounds keepers.                                    |
 | 35:47      | I don't know what the right word is, but we're looking after Nautomate.                              |

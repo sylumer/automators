@@ -949,7 +949,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 48:56      | Okay.                                                                                                 |
 | 48:57      | And are you triggering that through key bindings?                                                     |
 | 48:58      | Are you doing that through BetterTouchTool?                                                         |
-| 49:02      | Better touch tool, like I have, I have the keyboard itself set up to just send function               |
+| 49:02      | BetterTouchTool, like I have, I have the keyboard itself set up to just send function               |
 | 49:09      | 13 through like 21 keys, which exists, but no keyboard has them.                                      |
 | 49:18      | So it sends those and then I can just use a BetterTouchTool to do whatever I want                   |
 | 49:24      | with them.                                                                                            |
@@ -1123,7 +1123,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 58:07      | So using a trackpad is then hand floating, not very comfortable.                                      |
 | 58:11      | Right.                                                                                                |
 | 58:12      | Very unergonomic.                                                                                     |
-| 58:13      | Better touch tool works with a magic mouse.                                                           |
+| 58:13      | BetterTouchTool works with a magic mouse.                                                           |
 | 58:15      | I don't feel that it's nearly as powerful though.                                                     |
 | 58:18      | I mean, you need the space to, you know, you got to be able to put four fingers on it.                |
 | 58:22      | And once you accept that you can do like those four finger touches and all the varieties              |

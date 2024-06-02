@@ -413,7 +413,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 28:38      | Yeah, yeah, it's awesome. I mean, it's like, we had Apple on Mac power users and I was                   |
 | 28:43      | asking them about like, triggering menu items and keyboard shortcuts. That stuff is such                 |
 | 28:49      | an easy way to, to kind of like hack your way into automation. And they're like, no,                     |
-| 28:56      | it's not like they just were not interested in doing that. Now Better Touch Tools added                  |
+| 28:56      | it's not like they just were not interested in doing that. Now [[BetterTouchTool\|BetterTouchTool's]] added                  |
 | 28:59      | the whole tool set. I mean, menu items, it just, it's like a killer app now for shortcuts,               |
 | 29:05      | which makes me laugh. But anyway, I went down a little bit of a tangent there for a second.              |
 | 29:12      | So it's, it's a combination of Bunch and Moom sounds like to really get it going. What,                  |
