@@ -2,6 +2,8 @@
 status: complete
 creator: ""
 notetype: technology
+aliases:
+  - shell script
 ---
 # Overview
 Shell scripting is a powerful tool used in computing to automate repetitive tasks and streamline workflows. It involves writing a series of commands in a script file that can be executed by the [[shell]] interpreter.
@@ -12,7 +14,7 @@ One of the key benefits of shell scripting is its versatility - it can be used o
 
 # Key Components of Shell Scripting
 - **Variables**: 
-	- \Variables are used to store data values that can be referenced and manipulated within a script.
+	- Variables are used to store data values that can be referenced and manipulated within a script.
 - **Control Structures**: 
 	- Control structures such as loops and conditional statements allow for the execution of specific commands based on certain conditions.
 - **Functions**: 
