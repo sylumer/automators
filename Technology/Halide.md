@@ -1,6 +1,6 @@
 ---
 status: complete
-creator: ""
+creator: Lux
 notetype: technology
 ---
 

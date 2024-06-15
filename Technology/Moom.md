@@ -1,6 +1,6 @@
 ---
 status: complete
-creator: ""
+creator: Many Tricks
 notetype: technology
 ---
 
