@@ -30,16 +30,17 @@ Callouts are nicely formatted quotation blocks. They are intended to impart part
 ## Notes
 These templates create the basic content structure for particular types of notes.
 
-| Template File     | Description                                                                            |
-| ----------------- | -------------------------------------------------------------------------------------- |
-| [[N.Automation]]  | This template inserts the default structure/content for an automation.                 |
-| [[N.Concept]]     | This template inserts the default structure/content for a (technical) concept.         |
-| [[N.Episode]]     | This template inserts the default structure/content for an Automators podcast episode. |
-| [[N.Methodology]] | This template inserts the default structure/content for a method of doing something.   |
-| [[N.Person]]      | This template inserts the default structure/content for a person.                      |
-| [[N.Podcast]]     | This template inserts the default structure/content for a podcast.                     |
-| [[N.Sponsor]]     | This template inserts the default structure/content for an episode sponsor.            |
-| [[N.Technology]]  | This template inserts the default structure/content for some technology.               |
+| Template File      | Description                                                                            |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| [[N.Automation]]   | This template inserts the default structure/content for an automation.                 |
+| [[N.Concept]]      | This template inserts the default structure/content for a (technical) concept.         |
+| [[N.Episode]]      | This template inserts the default structure/content for an Automators podcast episode. |
+| [[N.Methodology]]  | This template inserts the default structure/content for a method of doing something.   |
+| [[N.Person]]       | This template inserts the default structure/content for a person.                      |
+| [[N.Organisation]] | This template inserts the default structure/content for a company or organisation.     |
+| [[N.Podcast]]      | This template inserts the default structure/content for a podcast.                     |
+| [[N.Sponsor]]      | This template inserts the default structure/content for an episode sponsor.            |
+| [[N.Technology]]   | This template inserts the default structure/content for some technology.               |
 
 ## System
 These templates produce some sort of system interaction external to Obsidian.
