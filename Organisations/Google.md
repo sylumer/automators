@@ -6,13 +6,14 @@ notetype: organisation
 Google is a multinational technology company known for its internet-related products and services. Founded in 1998, Google has become one of the most popular search engines worldwide, as well as offering a wide range of other tools and technologies.
 
 # Products and Services
-- Search engine
+- Search engine (Google Search)
 - Email services ([[Gmail]])
 - Online advertising platform (Google Ads)
 - Web browsing ([[Google Chrome]])
 - Cloud computing services (Google Cloud Platform)
 - Mobile operating system ([[Android]])
 - Productivity tools ([[Google G-Suite|Google WorkSpace]])
+- [[Artificial Intelligence]] ([[Google Gemini]])
 
 # History
 - Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University.
