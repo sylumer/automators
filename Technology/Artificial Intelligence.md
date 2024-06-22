@@ -36,7 +36,7 @@ The most advanced form of AI, it possesses a sense of self and consciousness. Th
 
 # History of Artificial Intelligence
 - **1950s**
-	- The term "Artificial Intelligence" was coined in a paper for the 1956Dartmouth conference
+	- The term "Artificial Intelligence" was coined in a paper for the 1956 Dartmouth conference
 	- Early research focused on problem-solving and symbolic methods.
 - **1960s-1970s**: 
 	- Development of the first AI programs, which could perform tasks but with limited capabilities.
