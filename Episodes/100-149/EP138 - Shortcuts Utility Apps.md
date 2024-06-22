@@ -973,17 +973,17 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 58:44      | your mouse.                                                                                          |
 | 58:45      | Like just saying, being able to say, like, drag this thing here or saving your current               |
 | 58:50      | window layout and stuff.                                                                             |
-| 58:51      | I really wish Moom had shortcut sections.                                                            |
+| 58:51      | I really wish [[Moom]] had shortcut sections.                                                            |
 | 58:54      | Really need to write to those folks and ask for some shortcut sections because that could            |
 | 58:59      | be really useful for me.                                                                             |
 | 59:01      | Yeah.                                                                                                |
 | 59:02      | That would easy.                                                                                     |
 | 59:03      | I mean, we've got the little hack we do with the AppleScript, right?                                |
 | 59:07      | And that's the one...                                                                                |
-| 59:08      | Well, yeah, executing Moom is fine.                                                                  |
+| 59:08      | Well, yeah, executing [[Moom]] is fine.                                                                  |
 | 59:09      | It's just creating, like saving a window layout.                                                     |
 | 59:12      | That would be very nice to do as part of like a thing because I could imagine like getting           |
-| 59:16      | a list of my currently active apps, save into a bunch and creating a Moom snapshot and things        |
+| 59:16      | a list of my currently active apps, save into a bunch and creating a [[Moom]] snapshot and things        |
 | 59:20      | like that.                                                                                           |
 | 59:21      | You know, like I could imagine doing that with a shortcut and at the moment, can't quite             |
 | 59:27      | do that.                                                                                             |

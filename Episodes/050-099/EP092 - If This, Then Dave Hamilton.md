@@ -1924,7 +1924,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:28:49   | Thank you, Dave.                                                                                                                                                         |
 | 01:28:50   | You're welcome.                                                                                                                                                          |
 | 01:28:51   | I did not know about this app.                                                                                                                                           |
-| 01:28:52   | So I use Moom for all of my window management, just because I can say like, hey, like here                                                                               |
+| 01:28:52   | So I use [[Moom]] for all of my window management, just because I can say like, hey, like here                                                                               |
 | 01:28:58   | is a set of windows that I would use for doing, for example, recording automators, I've got                                                                              |
 | 01:29:03   | a set for that and it puts certain windows in certain places, but there are other applications                                                                           |
 | 01:29:07   | that I just always want to be in the exact same place all the darn time, and I never                                                                                     |

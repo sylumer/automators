@@ -320,9 +320,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 28:54      | just as easily because shortcuts has got powerful enough. And the window management piece of it         |
 | 29:00      | was always the tricky part. The shortcuts window management can't hold a candle to                      |
 | 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an AppleScript. And there's an app called        |
-| 29:09      | Moom, M-O-O-M. I'm going to give you a labs video where I explain it. Moom has AppleScript support.    |
-| 29:16      | So you can set up the windows exactly as you want with Moom. And then you can run a one step            |
-| 29:21      | shortcut that says, run my Moom view for editing podcasts. And they'll say, Oh, great, Alex, no         |
+| 29:09      | [[Moom]], M-O-O-M. I'm going to give you a labs video where I explain it. [[Moom]] has AppleScript support.    |
+| 29:16      | So you can set up the windows exactly as you want with [[Moom]]. And then you can run a one step            |
+| 29:21      | shortcut that says, run my [[Moom]] view for editing podcasts. And they'll say, Oh, great, Alex, no         |
 | 29:29      | problem. Here's logic. Here's your text edit. Here's your notes. Here's your whatever. And              |
 | 29:34      | it just does it for you. So you can set up very complex windows out of shortcuts. And what shortcuts    |
 | 29:41      | gives you is the ability to do things like, Oh, you want me to set your focus mode to editing?          |
@@ -355,8 +355,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 32:38      | And in fairness, that thing I just described, you could do the entire thing in bunch,                   |
 | 32:42      | because bunch can make shortcuts and it can run AppleScript. So you really get to choose your          |
 | 32:48      | weapon. Yeah. And the other thing is, I'm pretty certain the bunch docs are where David found the       |
-| 32:52      | AppleScript for Moom as well to run Moom to set the screen. The other thing I want to mention,         |
-| 32:59      | by the way, about Moom is what you do with Moom is you click on the Moom menu bar icon,                 |
+| 32:52      | AppleScript for [[Moom]] as well to run [[Moom]] to set the screen. The other thing I want to mention,         |
+| 32:59      | by the way, about [[Moom]] is what you do with [[Moom]] is you click on the [[Moom]] menu bar icon,                 |
 | 33:06      | and then you just click on save window layout snapshot. So like you put your windows where              |
 | 33:10      | you want them, and then you're just like, just save it. Like, just save what I've got. Like,            |
 | 33:15      | give it a name down. That's it. Like, bam. And then, yeah, that's it. Done. And then it's also          |
@@ -369,24 +369,24 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 33:56      | then, then it'll just snap the window that you've just, you've just changed the size of to that,        |
 | 34:01      | exactly that. And then there's like, other options within there inside of that for like,                |
 | 34:06      | move it to like, I've got an ultra wide monitor. So I've got things like, move it to the right          |
-| 34:09      | hand third of my screen, and stuff like that. There's just so much you can do with Moom. It is          |
+| 34:09      | hand third of my screen, and stuff like that. There's just so much you can do with [[Moom]]. It is          |
 | 34:14      | truly crazy. And it's one of those things like, I can absolutely resize a window using something        |
 | 34:20      | like cable maestro. cable maestro is a great app to use for resizing windows, if that's the app         |
 | 34:24      | you're already using, and that's what you're used to and so on. But if I just want to, if somebody      |
 | 34:28      | wants a recommendation for an app, that's going to like, move windows on their screen. I'm just         |
-| 34:33      | going to tell them to try Moom, because it's very, very easy to like, get into. And that, that menu     |
+| 34:33      | going to tell them to try [[Moom]], because it's very, very easy to like, get into. And that, that menu     |
 | 34:39      | bar save window layout snapshot, it's just so powerful. It makes it really, really easy to dive         |
 | 34:45      | into. So you know what, Rose? I bet even if for some reason, a person is bonkers and was like,          |
 | 34:54      | no, I'm going to do, that's dumb. I'm going to do my own thing. But I just went to the app store        |
-| 35:03      | for Moom. And guess what? There's an app story that's clean up your windows. And what they              |
-| 35:10      | suggest is, is Moom and a couple, a couple other tools. And basically, they teach you how to do         |
+| 35:03      | for [[Moom]]. And guess what? There's an app story that's clean up your windows. And what they              |
+| 35:10      | suggest is, is [[Moom]] and a couple, a couple other tools. And basically, they teach you how to do         |
 | 35:17      | this in, just in the basically, it's not an ad, but, you know, little app, yeah, featurette,            |
 | 35:26      | which is another reason that I am excited about, like Apple just showing off what's essentially         |
 | 35:33      | an automation. And it's even more accessible. That's wild. I am so stoked about that. Well,             |
 | 35:42      | I'm very excited.                                                                                       |
 | 35:43      | It's another one they mentioned there and better snap tool, which is built into [[BetterTouchTool]].      |
 | 35:49      | If you've got that, yeah, there's, there's a whole bunch of different options for this stuff.           |
-| 35:53      | I personally just like Moom, it works really, really well for me. It's silly easy to use,               |
+| 35:53      | I personally just like [[Moom]], it works really, really well for me. It's silly easy to use,               |
 | 35:59      | I'm going to say, like, it took me a little while to figure out, like, how do I calculate one third     |
 | 36:03      | of my screen? I was like, it doesn't matter exactly how I calculate it. I just need to get              |
 | 36:08      | it about right. And then I can always adjust this over time. But yeah, there's a bunch of options.      |
@@ -404,15 +404,15 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 37:24      | your aim is to hit all the markers and then go to the finish line, but                                  |
 | 37:28      | like, there's no order required. So that you need to do.                                                |
 | 37:34      | It's fine. If we end up with too many side quests, we'll just get you back in a couple of months         |
-| 37:39      | and continue talking about all this. I mean, just one last point on Moom, though,                       |
+| 37:39      | and continue talking about all this. I mean, just one last point on [[Moom]], though,                       |
 | 37:43      | as people do write me and say, well, you know, this other one does this or that,                        |
-| 37:46      | and, you know, but I just find it really hard to not recommend Moom because                             |
+| 37:46      | and, you know, but I just find it really hard to not recommend [[Moom]] because                             |
 | 37:53      | the combination, it has so many window management features built in. And then                           |
 | 37:57      | the ease of you saving a set up windows like Rose was talking about, and then the ease of               |
 | 38:02      | triggering it via AppleScript. It's just such a killer combination. I just don't know how you          |
 | 38:07      | not use that. And it, Rose is right. Like setting it up in [[Keyboard Maestro]], as much as I'm a           |
 | 38:13      | fan of [[Keyboard Maestro]], it is a thing where you have to set a percentage or you have to set a pixel    |
-| 38:18      | location. But what if you change your screen display or whatever? And Moom just kind of solves          |
+| 38:18      | location. But what if you change your screen display or whatever? And [[Moom]] just kind of solves          |
 | 38:25      | that for you. And then you can drop it into any automation platform. You can put it in,                 |
 | 38:30      | you know, you put it in bunch, you can put it in shortcuts, you can use in [[Keyboard Maestro]].            |
 | 38:33      | It doesn't matter. And then it just gives you, but, but, and then the big point I want to make          |
@@ -432,8 +432,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 39:43      | this, you should think about, well, how do I want to trigger these? And what's the easiest way          |
 | 39:47      | for me to jump between them? Yeah, I didn't even mention [[Alfred]] and [[Raycast]], which                      |
 | 39:53      | I also both see you use. [[Raycast]] is awesome and it runs shortcuts right out of a box. Yeah.             |
-| 40:00      | Oh, so cool. Yeah, before we move on from Moom, I do just want to mention that Moom also has            |
-| 40:04      | built-in triggers, because of course we love automation apps. Moom has an option to trigger             |
+| 40:00      | Oh, so cool. Yeah, before we move on from [[Moom]], I do just want to mention that [[Moom]] also has            |
+| 40:04      | built-in triggers, because of course we love automation apps. [[Moom]] has an option to trigger             |
 | 40:09      | automatically when switching to the card, like your display layout matching like something in           |
 | 40:15      | particular. So if you connect like one monitor that's got say 3,440 by 1,440 pixels and one             |
 | 40:23      | that's 2,560 by 1,440, then it can automatically like rearrange your windows when you connect to        |

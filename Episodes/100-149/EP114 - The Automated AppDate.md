@@ -1346,7 +1346,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:19:47   | You've got spaces.                                                                                     |
 | 01:19:52   | Apple has tried all these different window management systems over the years and they've               |
 | 01:19:56   | just left them all in.                                                                                 |
-| 01:19:57   | This is one more of several, and then there's third-party apps too, like Moom and these                |
+| 01:19:57   | This is one more of several, and then there's third-party apps too, like [[Moom]] and these                |
 | 01:20:01   | other apps you can use to arrange windows and automate a bunch of this stuff.                          |
 | 01:20:06   | You really have a lot of options.                                                                      |
 | 01:20:08   | You keep talking about Bunch.                                                                          |

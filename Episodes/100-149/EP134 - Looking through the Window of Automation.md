@@ -458,7 +458,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 27:23      | them to where you wanted it to be.                                                                    |
 | 27:26      | And so a lot of the times I'm focusing on certain applications and I would need a certain             |
 | 27:31      | window setup.                                                                                         |
-| 27:33      | So long before there was Moom or third-party tools for that, I would write scripts that               |
+| 27:33      | So long before there was [[Moom]] or third-party tools for that, I would write scripts that               |
 | 27:39      | would set up windows a certain way, just so I knew I had to do something like 100 times.              |
 | 27:46      | For example, I quite often worked with other groups at Apple and one of the groups I worked           |
 | 27:52      | with was Retail.                                                                                      |
@@ -566,7 +566,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 34:55      | Makes a lot of sense.                                                                                 |
 | 34:56      | Yeah.                                                                                                 |
 | 34:57      | Do you use any of the modern window management tools?                                                 |
-| 35:00      | So I know that like you could just put together an [[AppleScript]] that you mentioned, Moom,             |
+| 35:00      | So I know that like you could just put together an [[AppleScript]] that you mentioned, [[Moom]],             |
 | 35:06      | a [[Keyboard Maestro]] does window management.                                                            |
 | 35:08      | Do you use any of those tools for it or do you just write a script?                                   |
 | 35:11      | Pretty much the latest thing I'm doing is web apps.                                                   |

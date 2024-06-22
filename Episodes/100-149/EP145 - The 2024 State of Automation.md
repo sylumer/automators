@@ -206,7 +206,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 08:12      | It's going to be the underlying thing if there's a problem, which is just one of the great              |
 | 08:14      | things about it.                                                                                        |
 | 08:15      | Yeah.                                                                                                   |
-| 08:16      | And one of the things I love about [[AppleScript]] is when a developer like Moom or some of                |
+| 08:16      | And one of the things I love about [[AppleScript]] is when a developer like [[Moom]] or some of                |
 | 08:20      | the display apps will write like a one line [[AppleScript]] support where, you know, there's               |
 | 08:25      | some feature they want to add that's not really easier, convenient, but by adding a simple              |
 | 08:31      | [[AppleScript]] support that it gives users a little bit more power without a lot of investment.           |
@@ -305,7 +305,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 13:41      | But because, you know, Brett is so open to you should be using all the great tools and,                 |
 | 13:47      | you know, whatever tool works best for you is the tool that you should have.                            |
 | 13:51      | It means that I'm just constantly finding things like that's where I got the Apple                      |
-| 13:53      | Script or a Moom stuff, and, you know, then I come up with ideas for, oh wait, but I could              |
+| 13:53      | Script or a [[Moom]] stuff, and, you know, then I come up with ideas for, oh wait, but I could              |
 | 13:58      | open a draft and have it tagged with this automatically because I'm running this and                    |
 | 14:02      | so on.                                                                                                  |
 | 14:03      | And I just, I love that interaction that we have within the automation community, especially            |

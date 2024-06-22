@@ -1031,7 +1031,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 54:20      | But honestly, if I had a system like that before and after every podcast, I would consider               |
 | 54:23      | a different system.                                                                                      |
 | 54:24      | But I'm even thinking like just like setting up your windows, like I have a, there's an                  |
-| 54:29      | app called Moom, M-O-O-M, that's a window manager and you can take a snapshot of your                    |
+| 54:29      | app called [[Moom]], M-O-O-M, that's a window manager and you can take a snapshot of your                    |
 | 54:34      | windows exactly how you like them.                                                                       |
 | 54:36      | You can save it, you press one button and I do it all the time when I'm switching modes.                 |
 | 54:41      | It's not necessarily going to set my inputs for podcasting, but it can get kind of me                    |

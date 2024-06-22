@@ -241,13 +241,13 @@ Rose and David explain many little automations that can improve your quality of 
 | 13:51      | work on it, but then put it back where it belongs afterwards. And this is window management.             |
 | 13:56      | I want that to happen quickly with keyboard shortcuts. We're going to talk about keyboard                |
 | 14:01      | maestro for this purpose later, but there's a simpler and easier app to use for this for                 |
-| 14:07      | just this purpose that I've been using. And it's called Moom, M-O-O-M.                                   |
+| 14:07      | just this purpose that I've been using. And it's called [[Moom]], M-O-O-M.                                   |
 | 14:13      | Yeah. And because of you, David, I just downloaded this show because I saw what you wrote in             |
 | 14:18      | our outline and went, wow, I need this. And now I've got it and I've just downloaded it                  |
 | 14:23      | from the app store. That's all I've done so far. And I've got it here and I'm looking                    |
 | 14:27      | at the preferences pane and going, okay, what is this? How do I use it? So, David, tell                  |
-| 14:31      | me how you are using Moom.                                                                               |
-| 14:33      | Yeah. What Moom does, there's a couple of, I mean, it is a window management tool. And                   |
+| 14:31      | me how you are using [[Moom]].                                                                               |
+| 14:33      | Yeah. What [[Moom]] does, there's a couple of, I mean, it is a window management tool. And                   |
 | 14:37      | out of the box, it does the stuff like [[BetterTouchTool]] where you can drag and you can                  |
 | 14:41      | have hot corners and do things like that. But what really I think makes it exceptional                   |
 | 14:46      | are two features. Number one is it allows you to do asymmetrical presets. So you can                     |
@@ -265,7 +265,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 15:59      | but you can change it from 10 points to two points, whatever you want. And but then you                  |
 | 16:03      | see you designate these spaces and like I said earlier, some spaces are bigger than others.              |
 | 16:08      | And I use the word spaces here. I'm not talking about the OS 10 feature where you have different         |
-| 16:14      | screens. This is just like space on the single screen. But the advantage of Moom is you set              |
+| 16:14      | screens. This is just like space on the single screen. But the advantage of [[Moom]] is you set              |
 | 16:21      | those spaces and then you can save them as a preset. So you can say whatever the active                  |
 | 16:26      | app is, I want to put it in my big centre space or I want to put it in my bottom left                    |
 | 16:33      | space. So if you're in your head, you have these spaces designated, you can then save                    |
@@ -289,7 +289,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 18:10      | a word processor or whatever, and the bottom three quarters of the centre screen. But sometimes          |
 | 18:17      | I want to then like dig into [[Obsidian]] and do some real research through it. Then I just                  |
 | 18:22      | push a keyboard shortcut and it takes over the bottom centre. So as I go through my day,                 |
-| 18:27      | I can easily move these things around the screen using the Moom shortcuts. And the real trick            |
+| 18:27      | I can easily move these things around the screen using the [[Moom]] shortcuts. And the real trick            |
 | 18:34      | for it was the idea that, okay, I'm not going to have equal size squares. I'm going to have              |
 | 18:41      | pre designated graph squares that are different sizes. And then I can make an app big or small           |
 | 18:47      | depending on what I'm doing at that moment.                                                              |
@@ -301,23 +301,23 @@ Rose and David explain many little automations that can improve your quality of 
 | 19:13      | just a little bit of space down the edges or just need, sometimes I do just end up using                 |
 | 19:17      | full screen and adding, you know, making sure that I've got sidebars opened on the left                  |
 | 19:23      | and the right side of the application so that it's not too wide, but I can then concentrate.             |
-| 19:28      | And I think that's going to be the key here for me using Moom. And so I've just been checking            |
+| 19:28      | And I think that's going to be the key here for me using [[Moom]]. And so I've just been checking            |
 | 19:33      | and I've made sure to include a link to the developer's website in the show notes so that                |
 | 19:38      | we can, so that everybody can see that and find out how to use it. Because I think it's                  |
 | 19:44      | probably going to be the right tool for most people because it does look pretty darn easy                |
 | 19:49      | to use. Unlike, say, [[Keyboard Maestro]], which is extremely powerful, but can be a little                  |
 | 19:56      | bit trickier, because I know you've been using [[Keyboard Maestro]] for this before David.                   |
 | 20:00      | Yeah, I have. And historically, [[Keyboard Maestro]] has been my tool for this. I'm leaning towards          |
-| 20:05      | Moom for and [[Keyboard Maestro]], by the way, remains my tool for setups, which we're going                 |
-| 20:11      | to talk about next. But for window control, I feel like Moom is probably a little better                 |
+| 20:05      | [[Moom]] for and [[Keyboard Maestro]], by the way, remains my tool for setups, which we're going                 |
+| 20:11      | to talk about next. But for window control, I feel like [[Moom]] is probably a little better                 |
 | 20:17      | because that grid system is ingenious. You just drag it on a grid with [[Keyboard Maestro]].                 |
 | 20:22      | It works on the basis of percentage of screen width. And I'll talk about that later how                  |
 | 20:27      | you set that up. But it's not as clean and it's not as visual. And you just have to kind                 |
-| 20:33      | of like guess it and then try it and see if this is right. Whereas with Moom, you just                   |
-| 20:37      | drag it and you're like, yeah, that's about right. And another feature Moom has is not                   |
+| 20:33      | of like guess it and then try it and see if this is right. Whereas with [[Moom]], you just                   |
+| 20:37      | drag it and you're like, yeah, that's about right. And another feature [[Moom]] has is not                   |
 | 20:42      | only to save a grid space that you can move an app to, you can actually set up an entire                 |
 | 20:49      | set of grids with specific apps and you press a button and it auto sorts them into that.                 |
-| 20:55      | It's not as powerful as [[Keyboard Maestro]]. And it almost feels to me like now Moom is                     |
+| 20:55      | It's not as powerful as [[Keyboard Maestro]]. And it almost feels to me like now [[Moom]] is                     |
 | 21:00      | straining to setup land. And I'm not sure it's as good at that as [[Keyboard Maestro]] is.                   |
 | 21:06      | But for the basic issue of setting up windows and being able to quickly move them around                 |
 | 21:11      | to different spaces on your screen. And also, honestly, that padding around the windows                  |
@@ -413,7 +413,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 28:59      | then it'll be right at the top in your last edited. And that's what I've done with all                   |
 | 29:02      | of them. I've just added a comment and then deleted it. And then boom, it's right at the                 |
 | 29:07      | top. So I've been using that a lot. And then I, at the moment, have just been opening all                |
-| 29:14      | of these. And I was actually thinking about maybe now I've got Moom combining opening                    |
+| 29:14      | of these. And I was actually thinking about maybe now I've got [[Moom]] combining opening                    |
 | 29:19      | the applications and then organising them, because most of my podcasting, I've got pretty                |
 | 29:24      | much the same applications. And they need to go to pretty much the same place. And so                    |
 | 29:29      | I don't want to duplicate all of that logic every single time. That seems unnecessary.                   |
@@ -422,13 +422,13 @@ Rose and David explain many little automations that can improve your quality of 
 | 29:46      | Oh, no, you shouldn't do that. You should cross. You absolutely should cross the streams                 |
 | 29:51      | here because this is the trick, right? You use OmniFocus to open up. I'm sorry, use keyboard             |
 | 29:57      | Maestro to open an app like OmniFocus and put it into the setup that you want to see                     |
-| 30:02      | the data that you want. But because Moom, you can apply custom keyboard shortcuts to                     |
+| 30:02      | the data that you want. But because [[Moom]], you can apply custom keyboard shortcuts to                     |
 | 30:08      | file placement. You just pull out the file placement elements of the keyboard Maestro                    |
 | 30:13      | script. And then you just trigger a keyboard shortcut, which you can do easily with keyboard             |
 | 30:18      | Maestro. So you open the app, load all the data you want into it. And then the last thing                |
-| 30:24      | you do is press the Moom keyboard shortcut where so you can put the window where you                     |
+| 30:24      | you do is press the [[Moom]] keyboard shortcut where so you can put the window where you                     |
 | 30:28      | want it to be. Right. That makes a lot of sense. And it just so you're using the window                  |
-| 30:33      | management tools of Moom, plus all of the awesomeness that is keyboard Maestro. And                      |
+| 30:33      | management tools of [[Moom]], plus all of the awesomeness that is keyboard Maestro. And                      |
 | 30:39      | then what I do with that is I combine all of that into a single script and keyboard Maestro.             |
 | 30:45      | So where I while I can have the individual scripts to like get the Google Doc open and                   |
 | 30:50      | put it in a specific place. But if I'm going to do a podcast, I'm going to have one that                 |
@@ -437,8 +437,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 31:05      | so all the tools I need on my screen at the moment that I'm recording a podcast, I combine               |
 | 31:10      | them into one keyboard Maestro script. And, and where historically I had some very fiddly                |
 | 31:16      | window placement scripts I wrote in keyboard Maestro, you know, the 33 percent thing.                    |
-| 31:21      | Now I took, I gutted those out and I'm putting Moom keyboard shortcuts in. So it just fits               |
-| 31:27      | to my Moom keyboard, you know, grid and everything just shows up the place I want it. The other          |
+| 31:21      | Now I took, I gutted those out and I'm putting [[Moom]] keyboard shortcuts in. So it just fits               |
+| 31:27      | to my [[Moom]] keyboard, you know, grid and everything just shows up the place I want it. The other          |
 | 31:35      | piece of that keyboard Maestro script, by the way, that you need to do is you need the                   |
 | 31:39      | first thing you need to do is you close all windows before you run the script because                    |
 | 31:42      | you don't want to put windows on top of windows. It gets nutty, but, but this is really not              |
@@ -449,7 +449,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 32:10      | for you to do that work. You know, maybe part of it is you close Twitter in the messages                 |
 | 32:15      | app because the type of work you're doing requires focused work and you don't want to                    |
 | 32:18      | be interrupted. But you can put all that together with a combination of keyboard Maestro and             |
-| 32:24      | Moom.                                                                                                    |
+| 32:24      | [[Moom]].                                                                                                    |
 | 32:25      | Yeah. And I think that's what I'm going to be doing here because, you know, that's what                  |
 | 32:29      | works for me. Or, you know, and that's where I've been struggling a little bit with keyboard             |
 | 32:34      | Maestro because it's possible to do all the stuff with keyboard Maestro. It's just been                  |
@@ -478,7 +478,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 34:26      | know, that is something that I do with [[Alfred]] or if I did window management, right, I don't              |
 | 34:30      | need to bother because it's already on the screen.                                                       |
 | 34:34      | So I've been hiding the dock and actually it's been fine. But either way, when you start                 |
-| 34:38      | building these spaces for the windows, you want to account for it. And like Moom does                    |
+| 34:38      | building these spaces for the windows, you want to account for it. And like [[Moom]] does                    |
 | 34:42      | that, if you have the dock on the left or the right or the bottom, it draws the grid                     |
 | 34:46      | around it so you don't cover it up. And so you can do that. But figure it out because                    |
 | 34:52      | the grid size will change if you keep moving your dock around after you set all this up.                 |
@@ -522,7 +522,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 38:04      | and then dragging them on the screen and trying to rearrange them every time you want to change          |
 | 38:09      | your flow. That is not quality of life. Yeah, spend some time on this. It's a fiddly thing.              |
 | 38:17      | And like the nerd part of me loves the fiddliness of this, but it really isn't that fiddly.              |
-| 38:22      | And for me, the trick was discovering Moom's ability to use keyboard shortcuts to put windows            |
+| 38:22      | And for me, the trick was discovering [[Moom\|Moom's]] ability to use keyboard shortcuts to put windows            |
 | 38:28      | in a very specific place that I can very easily define, easier than with [[Keyboard Maestro]].               |
 | 38:36      | And then combining that with the power of [[Keyboard Maestro]] and suddenly like, man, I'm                   |
 | 38:40      | off to the races. Rose mentioned KMLink earlier, the way I use that is so I've got buttons               |

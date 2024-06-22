@@ -389,12 +389,12 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 26:36      | what I've done for this is I've got Bunch, which is what I'm using for the big overview                  |
 | 26:43      | of it. And that is running a number of things, including shortcuts, and of course, keyboard              |
 | 26:50      | master macros and opening and closing applications. And then once all the applications are open,         |
-| 26:56      | it runs Moom. So, it can tidy everything up for me, which is really nice so that then                    |
+| 26:56      | it runs [[Moom]]. So, it can tidy everything up for me, which is really nice so that then                    |
 | 27:01      | when I start recording an episode, that Safari is right in front of me with the tabs that                |
 | 27:05      | I need because it's created a new Safari window and put everything into those tabs. And all              |
 | 27:11      | the other windows that I need are in the places that they always are so that I'm not usually             |
 | 27:15      | going, wait, where did I put audio hijack again? It's hiding somewhere. Yeah, I do the                   |
-| 27:21      | same thing. It's funny how we've harnessed Moom to turn into a minion of our automation.                 |
+| 27:21      | same thing. It's funny how we've harnessed [[Moom]] to turn into a minion of our automation.                 |
 | 27:29      | And it's not that hard because you can set a keyboard shortcut to any layout and then                    |
 | 27:32      | you just trigger a keyboard shortcut in it and you're good to go. Yes, yes, exactly.                     |
 | 27:38      | Did you know [[BetterTouchTool]] has an action and shortcuts to trigger a keyboard shortcut?               |
@@ -416,7 +416,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 28:56      | it's not like they just were not interested in doing that. Now [[BetterTouchTool\|BetterTouchTool's]] added                  |
 | 28:59      | the whole tool set. I mean, menu items, it just, it's like a killer app now for shortcuts,               |
 | 29:05      | which makes me laugh. But anyway, I went down a little bit of a tangent there for a second.              |
-| 29:12      | So it's, it's a combination of Bunch and Moom sounds like to really get it going. What,                  |
+| 29:12      | So it's, it's a combination of Bunch and [[Moom]] sounds like to really get it going. What,                  |
 | 29:17      | what are some of the other like setups that you have? Like when you want to code for work                |
 | 29:22      | or, I don't know, just tell, tell me some of the other setups you've got.                                |
 | 29:26      | Well, I mean, it depends because actually at work, I have three primary setups that                      |
@@ -500,7 +500,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 36:16      | is that, you know, I've already got it all, all the triggers and buttons connected, you                  |
 | 36:21      | know, and like putting up the infrastructure to, to switch over is a pain. The other thing               |
 | 36:27      | was I was really toying with the ability to try and set windows size and height and everything           |
-| 36:34      | in, in [[Keyboard Maestro]] to take Moom out of the loop, you know, that way it's easier                     |
+| 36:34      | in, in [[Keyboard Maestro]] to take [[Moom]] out of the loop, you know, that way it's easier                     |
 | 36:39      | if you have one less app involved. But I just found that like you really have to do a pixel              |
 | 36:45      | by pixel and [[Keyboard Maestro]] to do this right. And then like if I change resolution, everything         |
 | 36:51      | just looks terrible. And it's just like it really just wasn't kind of doing the job.                     |

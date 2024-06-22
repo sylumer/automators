@@ -143,7 +143,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 08:20      | off for the 27 inch or the 32 inch iMac, whatever it is. I'm going to be putting this next to an         |
 | 08:26      | ultra wide monitor. I've already got 34 inches of screen real estate. I do not need huge amounts of      |
 | 08:32      | extra screen space here. Thanks to the episode on window management that we did, David, and your         |
-| 08:38      | tip on on Moom, which has completely changed my workflow, it's going to be pretty easy to manage         |
+| 08:38      | tip on on [[Moom]], which has completely changed my workflow, it's going to be pretty easy to manage         |
 | 08:43      | that. Fortunately, but just the way that the things are changing with with how I do my work,             |
 | 08:50      | it's going to make sense to have another monitor. The portable monitor I've been using is great. I       |
 | 08:55      | love it. But it's it's not ideal for a permanent setup. So it's going to be excellent to to have         |
@@ -792,9 +792,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:10:14   | Now, how do you guys handle window management? Because I'm looking at these bunch scripts,               |
 | 01:10:19   | and none of them seem to say open Safari and put it on the right side of the screen or something         |
 | 01:10:24   | like that. So you can do that now. He recently added like some display management. There's               |
-| 01:10:30   | another post that he did a while back about using Moom with Bunch. And again, because Moom               |
+| 01:10:30   | another post that he did a while back about using [[Moom]] with Bunch. And again, because [[Moom]]               |
 | 01:10:38   | supports different keystrokes, you can just trigger those keystrokes to happen. Just activate            |
-| 01:10:44   | Moom and then, hey, activate this window, trigger these keystrokes, and now that window goes to          |
+| 01:10:44   | [[Moom]] and then, hey, activate this window, trigger these keystrokes, and now that window goes to          |
 | 01:10:50   | the right place. And everybody's happy. All right. You guys have given me a homework project.            |
 | 01:10:55   | You know, we make this show release on Fridays for a reason so we can spend the weekend doing            |
 | 01:10:59   | something. I'm going to become a bunch guy over the weekend. So here we go. Jay, I know you're           |

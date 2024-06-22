@@ -617,13 +617,13 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 55:23      | dialogues then you can mouse over any open finder window and click on it and it just selects that for     |
 | 55:31      | you. And so both of those options might potentially be useful for you there because I'm guessing you      |
 | 55:40      | probably you know have the folders open and finder anyway at some point. So if you use something like     |
-| 55:46      | Moom to rearrange them on your screen and then you can just click click done and the magic happens.       |
+| 55:46      | [[Moom]] to rearrange them on your screen and then you can just click click done and the magic happens.       |
 | 55:53      | Although it will have the default in that working sessions already. Yeah so changing                      |
 | 56:07      | like whatever the active window is may end up being more work than                                        |
 | 56:13      | clicking through but that's something to look at for sure. Well it's a worthy application for             |
 | 56:21      | automation in that it does a very small amount of things and it does them very well and as we all         |
 | 56:28      | know automation tools they're the big ones like [[Keyboard Maestro]] that can do 8,000 things and             |
-| 56:34      | are amazing at them and then there's little ones like Moom or default folder X which do                   |
+| 56:34      | are amazing at them and then there's little ones like [[Moom]] or default folder X which do                   |
 | 56:40      | one thing but they do it really well and that's you know both all of those tools are worthy of this.      |
 | 56:48      | I don't think we've ever covered default folder X on this show and additional automation things           |
 | 56:54      | you can do that like Kathy you would find very useful is every time you save a file it just               |

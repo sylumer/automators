@@ -806,15 +806,15 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:11:12   | is even better. All right, you want to talk about the Mac real quick?                                    |
 | 01:11:16   | Yeah, let's do it because the Mac's got some updates. A couple automations out of shortcuts on the Mac   |
 | 01:11:22   | that are kind of interesting to me. We had some window management stuff with the original release        |
-| 01:11:28   | of Mac shortcuts, but we got a bit more this year. Move and resize windows. It's not Moom,               |
+| 01:11:28   | of Mac shortcuts, but we got a bit more this year. Move and resize windows. It's not [[Moom]],               |
 | 01:11:37   | but it's better than it was. I felt like it was very limited before. And now they're giving you          |
 | 01:11:42   | more options and more ways to manipulate windows. So if you want to write window manipulation            |
 | 01:11:47   | into your shortcut, you can do it and have a decent amount of control right out of shortcuts             |
-| 01:11:56   | without any third-party apps. Yeah, yeah, I'm still going to be sticking with Moom for this              |
+| 01:11:56   | without any third-party apps. Yeah, yeah, I'm still going to be sticking with [[Moom]] for this              |
 | 01:12:01   | because it can go, hey, this screen was connected. I'm going to rearrange your windows because of        |
 | 01:12:06   | that and so on. But, you know, the fact that you don't have to download a third-party app so people      |
 | 01:12:11   | can try things out and go, oh, I like this, but I wish I could. And then you can come in with,           |
-| 01:12:16   | hey, have you heard about Moom or Keyboard My Store or whatever app it is that, you know,                |
+| 01:12:16   | hey, have you heard about [[Moom]] or Keyboard My Store or whatever app it is that, you know,                |
 | 01:12:21   | you want to recommend to solve their problem. Yeah, it's giving people the taster, right?                |
 | 01:12:26   | That's what we want. Yeah. And another one that I never expected to get shortcut control of is           |
 | 01:12:32   | Time Machine. Yeah, this is kind of crazy. There's Time Machine backups starting and stopping.           |

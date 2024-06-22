@@ -293,8 +293,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 16:14      | out of the pile into this group. And then I can play around in that. And it works in a way that         |
 | 16:19      | that space is just never, never clicked for me. Fair enough. Yeah, I found it's the opposite way        |
 | 16:26      | around for me. It works brilliantly on the iPad and does not work for me at all on the Mac possibly     |
-| 16:31      | because I so heavily use Moom to set up my spaces with bunch, so bunch will like close apps, open       |
-| 16:37      | apps, hide apps and stuff for me and then use Moom to put everything in like the right place.           |
+| 16:31      | because I so heavily use [[Moom]] to set up my spaces with bunch, so bunch will like close apps, open       |
+| 16:37      | apps, hide apps and stuff for me and then use [[Moom]] to put everything in like the right place.           |
 | 16:42      | But I guess because of the way that I do things and I had already grown accustomed to doing that,       |
 | 16:48      | I tried using [[Stage Manager]]. It was a very short lived five minutes on my work machine before I         |
 | 16:52      | was like, I'm not going to be at all productive today if I'm trying to fight stage managers to          |

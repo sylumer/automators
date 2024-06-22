@@ -1075,8 +1075,8 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:03:48   | It has, it tells [[BBEdit]] to open the folder where all of the instructions are.                       |
 | 01:03:54   | It activates marked, it puts [[BBEdit]] and marked split screen and then it puts finder on for          |
 | 01:03:58   | the folder with all the docs in on my other screen for me.                                           |
-| 01:04:02   | So that I have, because I'm using Moom to place everything as part of the bunch.                     |
-| 01:04:07   | So Bunch is opening up stuff and then running Moom and the other thing it puts on my other           |
+| 01:04:02   | So that I have, because I'm using [[Moom]] to place everything as part of the bunch.                     |
+| 01:04:07   | So Bunch is opening up stuff and then running [[Moom]] and the other thing it puts on my other           |
 | 01:04:11   | screen is shortcuts and it's just opening shortcuts to the folder where that shortcut                |
 | 01:04:16   | is.                                                                                                  |
 | 01:04:17   | So either I can work on existing documentation or I can create a new one really easily and           |

@@ -1026,11 +1026,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 58:30      | Like if I'm going to sit down and edit a podcast ad, I want my computer to look one way.               |
 | 58:35      | If I'm going to sit down and do something else, I want it to look a different way.                     |
 | 58:39      | And I've been evolving on that lately.                                                                 |
-| 58:43      | The last time we checked in on this, I was using [[Keyboard Maestro]] and Moom settings because            |
-| 58:49      | Moom has all these great settings.                                                                     |
-| 58:53      | And with Moom, you can have pre-configured locations and it's just, it's really clean.                 |
+| 58:43      | The last time we checked in on this, I was using [[Keyboard Maestro]] and [[Moom]] settings because            |
+| 58:49      | [[Moom]] has all these great settings.                                                                     |
+| 58:53      | And with [[Moom]], you can have pre-configured locations and it's just, it's really clean.                 |
 | 58:59      | So it requires to have a separate app, which I know a lot of people don't want to do.                  |
-| 59:04      | But I did find a spot where Moom wasn't really scratching the edge for me.                             |
+| 59:04      | But I did find a spot where [[Moom]] wasn't really scratching the edge for me.                             |
 | 59:10      | I have one screen that I call my status board.                                                         |
 | 59:14      | And on it, I've got an OmniFocus perspective that I've got, I've got a lot of stuff on                 |
 | 59:21      | the screen.                                                                                            |
@@ -1038,7 +1038,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 59:30      | Tracking, Timery, and I think I've got like eight apps on a screen laid out very carefully.            |
 | 59:37      | And it's just like the right swipe for me.                                                             |
 | 59:39      | If I want to check in on that stuff, I swipe over and it's there.                                      |
-| 59:43      | And I was having trouble getting those to lay out properly with Moom because it was                    |
+| 59:43      | And I was having trouble getting those to lay out properly with [[Moom]] because it was                    |
 | 59:46      | just so much.                                                                                          |
 | 59:48      | And so what I ended up doing with that was just using the [[Keyboard Maestro]] has a command               |
 | 59:53      | to set a window and they've got like preset defaults, but the defaults are pretty big.                 |
@@ -1049,7 +1049,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:00:19   | setup.                                                                                                 |
 | 01:00:20   | But I use that one quite often.                                                                        |
 | 01:00:23   | Yes.                                                                                                   |
-| 01:00:24   | I found one trick which is really useful for me when I'm using Moom.                                   |
+| 01:00:24   | I found one trick which is really useful for me when I'm using [[Moom]].                                   |
 | 01:00:28   | And I use the feature from the menu bar where you can click Save Window Layout Snapshot.               |
 | 01:00:33   | I found a lot of the time Ignore Obstructed Windows is actually not what I want because                |
 | 01:00:39   | my windows somewhat overlap.                                                                           |
@@ -1064,9 +1064,9 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:01:11   | applications that are going to be arranged when you do that, which is quite nice.                      |
 | 01:01:15   | Again, I remain a huge fan of these desktop setup automations.                                         |
 | 01:01:21   | I know you're all in with Bunch at this point.                                                         |
-| 01:01:24   | I'm using Bunch with Moom.                                                                             |
+| 01:01:24   | I'm using Bunch with [[Moom]].                                                                             |
 | 01:01:26   | So I use Bunch to launch all of the applications that I'm going to need, like give it 10 seconds       |
-| 01:01:30   | and then I run the Moom setup and I do this all from Bunch.                                            |
+| 01:01:30   | and then I run the [[Moom]] setup and I do this all from Bunch.                                            |
 | 01:01:35   | And it's working really well for me, especially when I added the shortcuts to start my podcasting      |
 | 01:01:41   | focus mode to my doc and I then removed it from my doc.                                                |
 | 01:01:44   | That meant that start podcasting focus mode is now an application in my personal user                  |

@@ -974,7 +974,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 35:56      | You can set the window positions.                                 |
 | 35:58      | No, Bunch doesn't do window positioning,                          |
 | 36:00      | but you can just run an AppleScript                              |
-| 36:02      | to tell Moom to do your window positioning,                       |
+| 36:02      | to tell [[Moom]] to do your window positioning,                       |
 | 36:04      | which is what I do.                                               |
 | 36:06      | One of my favourite Bunch features, to be honest, though,          |
 | 36:08      | is the new Bunch with open apps.                                  |

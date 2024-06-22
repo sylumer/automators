@@ -486,7 +486,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 28:12      | just because it's so simple, and I get that result on my clipboard, which, of course,                 |
 | 28:17      | is what we like.                                                                                      |
 | 28:19      | I think another thing that some folks really like having an app that just does one thing              |
-| 28:25      | and does it well, so using, say, Moom for rearranging your windows.                                   |
+| 28:25      | and does it well, so using, say, [[Moom]] for rearranging your windows.                                   |
 | 28:29      | If you have not tried rearranging your windows using an app like that or you've never really          |
 | 28:33      | got into it, [[Raycast]] can do that as well.                                                             |
 | 28:37      | I can actually say, if I've got a window active and I activate [[Raycast]] when I type window,            |

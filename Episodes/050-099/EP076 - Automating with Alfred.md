@@ -892,7 +892,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:15:44   | before I recorded automators today, I was in the kitchen. I cooked dinner and I ate dinner.              |
 | 01:15:48   | And I wasn't in my office. And I had to come back to my office to trigger my automation                  |
 | 01:15:54   | for starting a podcast, which cleared a bunch of open applications, open specific applications,          |
-| 01:15:59   | and then used Moom to put them in the right place. Well, with [[Alfred]], I can now do that                  |
+| 01:15:59   | and then used [[Moom]] to put them in the right place. Well, with [[Alfred]], I can now do that                  |
 | 01:16:04   | for my phone. Because previously, I could have got out my iPad and used Remote, Jump Desktop or            |
 | 01:16:09   | something. But by the time I've done that, I could walk to my Mac, press command space,                  |
 | 01:16:14   | type the command and walk away again. It's not worth it for things like that. But with [[Alfred]],           |

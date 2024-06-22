@@ -146,8 +146,8 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 03:46      | Something that Rose and I talk about a lot on the show are setups, you know, setting                 |
 | 03:50      | up your computer for a certain context to do certain work.                                           |
 | 03:54      | And historically, I've done that a lot of ways, but the current method that works best               |
-| 04:00      | for me is [[Keyboard Maestro]] scripts combined with Moom shortcuts, you know, because window            |
-| 04:08      | management is a key part of any setup system and Moom is so much better at it than keyboard          |
+| 04:00      | for me is [[Keyboard Maestro]] scripts combined with [[Moom]] shortcuts, you know, because window            |
+| 04:08      | management is a key part of any setup system and [[Moom]] is so much better at it than keyboard          |
 | 04:16      | maestro.                                                                                             |
 | 04:17      | So I just program the shortcuts and then use them.                                                   |
 | 04:21      | And that's fine, but it is also, you know, pretty tedious to set these up and you've                 |
@@ -272,22 +272,22 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 11:24      | And in fact, let's just talk about that right now because window management, as I was saying,        |
 | 11:27      | is a difficult part of this, but you're using the same cheat I've been using historically            |
 | 11:30      | with [[Keyboard Maestro]].                                                                                |
-| 11:31      | And that's just install Moom because with Moom, you can set a grid on your screen and                |
+| 11:31      | And that's just install [[Moom]] because with [[Moom]], you can set a grid on your screen and                |
 | 11:39      | attach, you know, and, and define grids like it could be left half of the screen or bottom           |
 | 11:44      | left half of the screen or middle two thirds of the screen or just almost anything you               |
 | 11:49      | can imagine.                                                                                         |
 | 11:50      | And then you can tie a keyboard shortcut to that.                                                    |
 | 11:53      | And then all you do is you can trigger a keyboard shortcut with a bunch.                             |
-| 11:57      | So long as you have Moom running, and I guess you can make sure you have Moom running,               |
+| 11:57      | So long as you have [[Moom]] running, and I guess you can make sure you have [[Moom]] running,               |
 | 12:01      | just put it in the bunch and then trigger the keyboard shortcut to arrange the windows.              |
 | 12:06      | Here's my trick.                                                                                     |
-| 12:08      | So Moom has this snapshot feature.                                                                   |
+| 12:08      | So [[Moom]] has this snapshot feature.                                                                   |
 | 12:12      | So you get all the apps you want to arrange on the screen, hide everything else.                     |
 | 12:17      | And then put them where you want them and take a snapshot, and then you can just give                |
 | 12:21      | it a name.                                                                                           |
 | 12:22      | And then in your Bunch, Bunch can run AppleScript raw commands.                                      |
 | 12:26      | You just start the line with an asterisk.                                                            |
-| 12:28      | And then tell application Moom to arrange windows according to snapshot.                             |
+| 12:28      | And then tell application [[Moom]] to arrange windows according to snapshot.                             |
 | 12:33      | And then the name of the snapshot you made.                                                          |
 | 12:35      | So at the end of the Bunch, you know, and Bunch can wait to run certain commands until               |
 | 12:40      | all the apps that it launches have finished loading.                                                 |
@@ -315,9 +315,9 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 14:16      | So once you figure out the quirks of getting that app to work, you're done.                          |
 | 14:21      | You know, it's not like you're going to be trying, well, if you're like this, you might              |
 | 14:24      | be trying a lot of new apps.                                                                         |
-| 14:25      | But a couple inserts there on kind of follow up on Moom.                                             |
-| 14:30      | You had talked about running an AppleScript to run a Moom setup, but you can also attach            |
-| 14:36      | keyboard shortcuts to those setups in Moom.                                                          |
+| 14:25      | But a couple inserts there on kind of follow up on [[Moom]].                                             |
+| 14:30      | You had talked about running an AppleScript to run a [[Moom]] setup, but you can also attach            |
+| 14:36      | keyboard shortcuts to those setups in [[Moom]].                                                          |
 | 14:38      | Why wouldn't you just press the keyboard shortcut?                                                   |
 | 14:41      | Keyboard shortcuts are valuable.                                                                     |
 | 14:43      | No matter how many hyper keys you have, there's still a limit to how many keyboard shortcuts         |
@@ -328,7 +328,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 15:04      | And that just reminded me that you are an owner of a hacker keyboard.                                |
 | 15:08      | So we are going to put a pin in that and come back to that about you and your keyboards.             |
 | 15:12      | But I have come across a bit of an epiphany on my keyboard arrangement shortcuts with                |
-| 15:22      | Moom.                                                                                                |
+| 15:22      | [[Moom]].                                                                                                |
 | 15:23      | I just want to share this with everybody because I'm very proud of myself.                           |
 | 15:26      | Historically, I've done it with arrow keys.                                                          |
 | 15:29      | I've tried to do it with number pad, but not all my keyboards have number pads.                      |
@@ -537,13 +537,13 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 27:58      | I'm using it.                                                                                        |
 | 27:59      | So Google Docs works fine in Safari on the Mac.                                                      |
 | 28:01      | There's no problem with it, but I like the fact that it's then in a Chrome window because            |
-| 28:06      | then I have Moom put Chrome in a certain spot, and I do the same thing with Firefox when             |
+| 28:06      | then I have [[Moom]] put Chrome in a certain spot, and I do the same thing with Firefox when             |
 | 28:12      | I'm recording automators, I open it in Firefox.                                                      |
 | 28:16      | Why am I doing it in two different browsers?                                                         |
 | 28:18      | It seemed like a good idea at the time.                                                              |
 | 28:19      | It probably isn't.                                                                                   |
 | 28:20      | I should probably change that at some point, but for the time being, I'm opening things              |
-| 28:23      | in Firefox and Chrome, and then Moom knows that, okay, Firefox goes over here, Chrome                |
+| 28:23      | in Firefox and Chrome, and then [[Moom]] knows that, okay, Firefox goes over here, Chrome                |
 | 28:29      | goes over here, Safari goes over there on the other side, and it gets resized much smaller,          |
 | 28:34      | and I really like that.                                                                              |
 | 28:35      | I have another basic concept that we really should tell people about.                                |
@@ -731,7 +731,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 40:41      | you can't open a specific session in audio hijack without the mouse, which is annoying.              |
 | 40:48      | So it hits, for me, it hits the right arrow 13 times and then hits command, oh, and then             |
 | 40:54      | switches back to that window and closes it and has me all ready to go.                               |
-| 40:59      | Loads up Skype opens Firefox with my, my sponsor list and then runs a Moom, a Moom snapshot          |
+| 40:59      | Loads up Skype opens Firefox with my, my sponsor list and then runs a [[Moom]], a [[Moom]] snapshot          |
 | 41:10      | to arrange it all for me.                                                                            |
 | 41:12      | It gets, it's pretty intense.                                                                        |
 | 41:14      | I'm on this campaign to get Mac app developers to become more automation friendly and I found        |
@@ -1380,7 +1380,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:20:47   | I don't know.                                                                                        |
 | 01:20:48   | Yeah.                                                                                                |
 | 01:20:49   | Yeah.                                                                                                |
-| 01:20:50   | I pretty much just hijacked that with Moom because Moom can do stuff with those buttons              |
+| 01:20:50   | I pretty much just hijacked that with [[Moom]] because [[Moom]] can do stuff with those buttons              |
 | 01:20:55   | too.                                                                                                 |
 | 01:20:56   | Yeah.                                                                                                |
 | 01:20:57   | So I have a nerd challenge for you guys before we go.                                                |

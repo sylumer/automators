@@ -385,12 +385,12 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 22:15      | What if we could have sets of [[Stage Manager]] setups that could be saved and we could restore             |
 | 22:20      | them?                                                                                                   |
 | 22:21      | Kind of like a combination of [[Moom]] and [[Stage Manager]].                                                   |
-| 22:25      | I've been trying to roll my own version of that by turning it on and then having Moom                   |
+| 22:25      | I've been trying to roll my own version of that by turning it on and then having [[Moom]]                   |
 | 22:33      | window setup saved that I can run.                                                                      |
-| 22:36      | There is an [[AppleScript]] command to run a Moom setup.                                                    |
+| 22:36      | There is an [[AppleScript]] command to run a [[Moom]] setup.                                                    |
 | 22:43      | To run it out of shortcuts, you use the on-run shortcut AppleScript.                                    |
 | 22:48      | There's an AppleScript action that has an on-run command in it.                                         |
-| 22:52      | But the actual shortcut is tell application, open quote, Moom, close quote, to arrange                  |
+| 22:52      | But the actual shortcut is tell application, open quote, [[Moom]], close quote, to arrange                  |
 | 22:59      | windows according to the snapshot, and then you put in the name of the snapshot, like                   |
 | 23:04      | mail processing, or podcasting, or whatever it is you do, and that has to be in quotes,                 |
 | 23:09      | and then there's another one.                                                                           |

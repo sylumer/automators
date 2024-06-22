@@ -832,21 +832,21 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:05:08   | show. As you do, you know, that's in a separate Safari window, which also means that when                 |
 | 01:05:13   | I finish my podcast recording or my writing or screencasting or whatever it is, I can                     |
 | 01:05:17   | close one Safari window and that stuff is gone. But whatever else it is that I've got                     |
-| 01:05:22   | open is still around. And then I also, at the end, I trigger my Moom layout. And I really                 |
-| 01:05:29   | want to thank you for this one, David. Moom is a game changer for me. I'm still using                     |
-| 01:05:34   | [[BetterTouchTool]] for the snapping, though I know Moom could do it. I've just got it                      |
-| 01:05:37   | set up in [[BetterTouchTool\|BetterTouchTool's]]. So I'm just leaving it there. But the Moom layout where                     |
+| 01:05:22   | open is still around. And then I also, at the end, I trigger my [[Moom]] layout. And I really                 |
+| 01:05:29   | want to thank you for this one, David. [[Moom]] is a game changer for me. I'm still using                     |
+| 01:05:34   | [[BetterTouchTool]] for the snapping, though I know [[Moom]] could do it. I've just got it                      |
+| 01:05:37   | set up in [[BetterTouchTool\|BetterTouchTool's]]. So I'm just leaving it there. But the [[Moom]] layout where                     |
 | 01:05:41   | you can say, okay, so now, now there are these applications, put them specifically in these               |
 | 01:05:46   | places that these specific sizes is absolutely genius and has changed my workflow for the                 |
 | 01:05:51   | better. And so I'm really grateful to you for that, for recommending that recently.                       |
 | 01:05:57   | Well, you know, I was fighting doing this in keyboard Maestro. And as much as I love                      |
 | 01:06:00   | keyboard Maestro, setting up specific screen sizes is kind of tedious in keyboard Maestro.                |
-| 01:06:07   | It involves math, you know, whereas Moom, you just drag it and then you save it as a                      |
+| 01:06:07   | It involves math, you know, whereas [[Moom]], you just drag it and then you save it as a                      |
 | 01:06:11   | custom size and put a custom keyboard shortcut on it. And then you can trigger that keyboard              |
 | 01:06:17   | shortcut with keyboard Maestro or even with just the Stream Deck. So, so it really makes                  |
 | 01:06:22   | it easy to set these up. And as, as your setups, like Rose was saying, hide all first, that's             |
 | 01:06:28   | the necessary first step for these setup macros. And then you open up the windows and then                |
-| 01:06:33   | you put them exactly on the screen where you want them to be using those Moom shortcuts.                  |
+| 01:06:33   | you put them exactly on the screen where you want them to be using those [[Moom]] shortcuts.                  |
 | 01:06:38   | And you open Safari to the browser tab you want. And then, you know, you open pages to                    |
 | 01:06:43   | the pages document and you just set everything up on your screen ideally. And, you know,                  |
 | 01:06:49   | I think I'm, I'm talking about this too much, but it just delights me when I push that button             |

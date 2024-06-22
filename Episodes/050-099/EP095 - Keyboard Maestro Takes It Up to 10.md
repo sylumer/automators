@@ -341,7 +341,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 18:46      | Whatever time?                                                                                           |
 | 18:47      | So between 9.40 and 10.15 in the morning, it does my, the thing for stand up and this                    |
 | 18:54      | is executing a subroutine again, where it minimises all of my windows and then opens                     |
-| 19:00      | teams and runs a Moom setup for me.                                                                      |
+| 19:00      | teams and runs a [[Moom]] setup for me.                                                                      |
 | 19:04      | And this gets reused if in my calendar there's a monthly meeting.                                        |
 | 19:09      | And because we have monthly meetings at work.                                                            |
 | 19:12      | And then I also have a couple of other ones for different kinds of work that I do at different           |
@@ -716,7 +716,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 43:53      | Or when you plug it back in, you want it to go, oh, wait, yeah, I'll just take everything                |
 | 43:57      | that you're doing and put this in the places that you usually have it.                                   |
 | 44:02      | And that is great.                                                                                       |
-| 44:03      | I'm combining that with Moom because Moom's kind of a subroutine and I have Moom rearrange               |
+| 44:03      | I'm combining that with [[Moom]] because [[Moom\|Moom's]] kind of a subroutine and I have [[Moom]] rearrange               |
 | 44:08      | certain Windows for me, but I do that through [[Keyboard Maestro]] a lot of the time because                 |
 | 44:14      | I just chain all of the automations together.                                                            |
 | 44:17      | Yeah.                                                                                                    |

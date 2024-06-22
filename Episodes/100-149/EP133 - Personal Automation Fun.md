@@ -572,13 +572,13 @@ Rose and David share a collection of their favourite personal automations rangin
 | 34:09      | It's the kind of stuff that, you know, there's multiple tools for this.                                |
 | 34:13      | I use [[Keyboard Maestro]], Rosie's Bunch, but I've been slowly like exploring, pushing                    |
 | 34:21      | this into shortcuts and generally it works.                                                            |
-| 34:26      | There's a couple of tricks I need to rely on in Moom.                                                  |
+| 34:26      | There's a couple of tricks I need to rely on in [[Moom]].                                                  |
 | 34:29      | Like one of the things you do is you arrange the windows and shortcuts does a lousy job                |
-| 34:33      | at that compared to [[Keyboard Maestro]] and Moom doesn't do that at all, but Moom uses                    |
+| 34:33      | at that compared to [[Keyboard Maestro]] and [[Moom]] doesn't do that at all, but [[Moom]] uses                    |
 | 34:40      | a trick.                                                                                               |
 | 34:41      | I think Brett's the first one to turn me on to this where you just run an [[AppleScript]]                 |
-| 34:46      | on Moom.                                                                                               |
-| 34:47      | So, you set the windows the way you want, you have Moom run via AppleScripts, you set                 |
+| 34:46      | on [[Moom]].                                                                                               |
+| 34:47      | So, you set the windows the way you want, you have [[Moom]] run via AppleScripts, you set                 |
 | 34:53      | them up for recording the automators and then the windows all arrange themselves for that.             |
 | 34:58      | But there's a lot more you can do with shortcuts.                                                      |
 | 35:01      | Like at this point, you can clear the screen of windows, you can open up specific apps                 |
