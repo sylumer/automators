@@ -864,18 +864,18 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:13:15   | of those awesome people like iBanks and PortaTorrents and so on will continue to be around in the         |
 | 01:13:21   | community even if they decide to move to other platforms. Yeah. And maybe that's something                |
 | 01:13:27   | I'm going to be reconsidering my relationship with Reddit and based on everything that's happened.        |
-| 01:13:33   | All right. More positive. ChatGPT made an app that went out to the iPhone and now I believe               |
+| 01:13:33   | All right. More positive. [[ChatGPT]] made an app that went out to the iPhone and now I believe               |
 | 01:13:41   | it's on the Mac app store as well. But they put shortcut support in just right before we went             |
-| 01:13:49   | to press with this episode. So ChatGPT is not now only an app on your device. And if you're               |
+| 01:13:49   | to press with this episode. So [[ChatGPT]] is not now only an app on your device. And if you're               |
 | 01:13:55   | interested in large language models, this is one of the best ones. Now you can incorporate that LLM       |
 | 01:14:00   | into a shortcut. I just saw somebody in the Reddit had made one that takes the new weather                |
-| 01:14:08   | report and then they have ChatGPT write it as if it was a newscaster giving you the news report.          |
+| 01:14:08   | report and then they have [[ChatGPT]] write it as if it was a newscaster giving you the news report.          |
 | 01:14:15   | And then, you know, I guess they've got a speaking action. I haven't read, I mean,                        |
 | 01:14:18   | actually looked at the shortcut yet. It just went up. But the, I think there's a lot of fun you           |
-| 01:14:23   | could have with ChatGPT power added to a shortcut. So that is available to you now. Rosanna,              |
+| 01:14:23   | could have with [[ChatGPT]] power added to a shortcut. So that is available to you now. Rosanna,              |
 | 01:14:30   | I'll cover it more as we get into it deeper. But that's kind of a fun news item and that's                |
 | 01:14:34   | something you may want to check out. Yeah. Yeah, it's good that this is an option. It doesn't get         |
-| 01:14:39   | rid of [[Federico Viticci]] [MacStories](https://www.macstories.net/). Fabulous. He made a shortcut that interacts with ChatGPT             |
+| 01:14:39   | rid of [[Federico Viticci]] [MacStories](https://www.macstories.net/). Fabulous. He made a shortcut that interacts with [[ChatGPT]]             |
 | 01:14:46   | using the API. You know, it doesn't remove the greatness that is that this is a limited subset.           |
 | 01:14:54   | For anybody who's thinking, oh, maybe I'll try this now. I would caution you just double check,           |
 | 01:14:59   | you know, with the information that you're putting in there to make sure that it is not                   |
