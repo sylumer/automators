@@ -309,7 +309,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 17:16      | of software to exchange and make use of information between applications.                             |
 | 17:22      | And we're always looking for opportunities.                                                           |
 | 17:24      | So on the main page of the Omni Automation website, you'll see along with [[Alfred]], you'll              |
-| 17:30      | see examples with [[Obsidian]], [[Airtable]], OpenAI, there's a lot of examples of working with               |
+| 17:30      | see examples with [[Obsidian]], [[Airtable]], [[OpenAI]], there's a lot of examples of working with               |
 | 17:37      | other third-party products.                                                                           |
 | 17:41      | And that's the advantage of Omni Automation is that you have the core tools necessary                 |
 | 17:46      | for doing secure communication across networks, you know, using passwords and tokens correctly,       |

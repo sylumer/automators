@@ -4,7 +4,7 @@ creator: OpenAI
 notetype: technology
 ---
 # Overview  
-Whisper by OpenAI is a neural net based speech recognition system designed to transcribe and translate spoken language into written text. It leverages deep learning and large-scale data, and is proficient in handling a variety of tasks including transcription, translation, and understanding diverse accents and dialects. This makes it appropriate for tasks such as captioning, voice command interfaces, and multi-language customer service solutions.
+Whisper by [[OpenAI]] is a neural net based speech recognition system designed to transcribe and translate spoken language into written text. It leverages deep learning and large-scale data, and is proficient in handling a variety of tasks including transcription, translation, and understanding diverse accents and dialects. This makes it appropriate for tasks such as captioning, voice command interfaces, and multi-language customer service solutions.
 
 Whisper incorporates processing to address challenges such as poor audio quality, background noise, and overlapping speech, thereby providing more accurate and reliable transcription and translation services.
 
