@@ -198,7 +198,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 07:45      | called Integromat and I just sort of dove into that and it was like so perfect for what                |
 | 07:51      | I need to do.                                                                                          |
 | 07:52      | And it was this exceedingly complex workflow where it like spins off and now spins off                 |
-| 07:56      | like Discord channels and Google Docs and files the Google Docs in the correct areas                   |
+| 07:56      | like [[Discord]] channels and Google Docs and files the Google Docs in the correct areas                   |
 | 08:00      | and like can manage channels and take and you can sort of solve puzzles with a separate                |
 | 08:03      | workflow that then archives channels and marks things as solved and all this.                          |
 | 08:08      | And it was just, oh, yeah, like this is this is what I need.                                           |
@@ -581,7 +581,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 28:06      | It makes sense to bridge that with an online tool, and I think that's what strikes me is               |
 | 28:11      | really interesting about that article that you wrote for the Mystery Puzzle Hunt, where                |
 | 28:18      | it's all online services, and so it makes perfect sense, but I had never really thought                |
-| 28:22      | of the idea of just spinning up Discord channels for things as stuff goes through an automation        |
+| 28:22      | of the idea of just spinning up [[Discord]] channels for things as stuff goes through an automation        |
 | 28:28      | that's not necessarily something that most people would need to do, but I can see the                  |
 | 28:32      | same sort of thing being applicable to other stuff.                                                    |
 | 28:36      | For example, if a project starts at work, then you might want to kick off a [[Slack]] channel              |

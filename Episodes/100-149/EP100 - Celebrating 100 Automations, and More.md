@@ -1771,7 +1771,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:10:54   | which I put custom keycaps on and custom switches.                |
 | 01:10:56   | Thank you to the keyboard channel                                 |
 | 01:10:59   | in the Relay FM subreddit for,                                    |
-| 01:11:01   | or Discord sorry for enabling me there.                           |
+| 01:11:01   | or [[Discord]] sorry for enabling me there.                           |
 | 01:11:03   | I went in and came out with a Keychron custom keycaps             |
 | 01:11:06   | and custom switches.                                              |
 | 01:11:09   | Yeah, yeah, I should warn people that place is dangerous,         |

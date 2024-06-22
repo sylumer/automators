@@ -1364,8 +1364,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:15:06   | I have about 15, which is a problem.                                                                      |
 | 01:15:09   | Yeah.                                                                                                     |
 | 01:15:10   | I mean, you say it's a problem.                                                                           |
-| 01:15:12   | I feel like I should take a moment to mention the Relay FM Discord, which is, if you're                   |
-| 01:15:16   | a member of Automators Max, you've got access to the Relay FM Discord.                                    |
+| 01:15:12   | I feel like I should take a moment to mention the Relay FM [[Discord]], which is, if you're                   |
+| 01:15:16   | a member of Automators Max, you've got access to the Relay FM [[Discord]].                                    |
 | 01:15:19   | If you're a member of any of the Relay shows or the All the Great shows member, then you                  |
 | 01:15:24   | get access to that.                                                                                       |
 | 01:15:25   | There is a keyboard channel.                                                                              |

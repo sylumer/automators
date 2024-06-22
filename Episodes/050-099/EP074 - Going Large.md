@@ -192,7 +192,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 09:53      | A connection at the other end. And I was able to just replace the cable. So that was great.               |
 | 09:59      | Which is perfect. I should also mention, at least for people in the UK, Curry's PC world                  |
 | 10:05      | usually has Stream Decks in stock. And for people in the US, Best Buy and Target are                      |
-| 10:11      | the two places that I've seen people in the Relay FM Discord discussing that they've                     |
+| 10:11      | the two places that I've seen people in the Relay FM [[Discord]] discussing that they've                     |
 | 10:15      | recently bought their Stream Decks at. So if you can't find it on Amazon or, you know,                    |
 | 10:22      | the shipping's going to take a while, then it's worth having a look in some other places.                 |
 | 10:25      | I'll go to on their website, do link to a local retailer. So check out, you know, whoever's               |

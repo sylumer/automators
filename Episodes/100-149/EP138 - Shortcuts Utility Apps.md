@@ -881,17 +881,17 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 53:25      | But creating this list can be a bit of a pain.                                                       |
 | 53:29      | So Elsewhen decided that it was going to add this.                                                  |
 | 53:33      | And elsewhere originally was created to basically be able to select a time and then copy it          |
-| 53:38      | and copy a magic Discord code that when you paste that in, it will show, like, the right             |
+| 53:38      | and copy a magic [[Discord]] code that when you paste that in, it will show, like, the right             |
 | 53:44      | thing for everybody who's looking at it regardless of their time zone.                               |
-| 53:48      | So if I wrote, say, for example, 1954 into Discord, if I just write it as text, then                 |
+| 53:48      | So if I wrote, say, for example, 1954 into [[Discord]], if I just write it as text, then                 |
 | 53:55      | David will just see 1954, right?                                                                     |
-| 53:58      | But if I used a Discord code for that and pasted it into Discord, David would actually               |
+| 53:58      | But if I used a [[Discord]] code for that and pasted it into [[Discord]], David would actually               |
 | 54:03      | see 1154, which is the time right now in California, like, you know, translated.                     |
 | 54:09      | And so, yeah, this and it has some shortcut actions.                                                 |
 | 54:12      | So if you are, you know, setting up that you're planning on doing a live stream or something         |
 | 54:16      | is going to be posted or released at a particular time, and you want to be able to just like         |
 | 54:20      | copy a list of time zones, like the same time across different time zones nicely formatted           |
-| 54:26      | already, or possibly a Discord code, else one can do it and it's free.                               |
+| 54:26      | already, or possibly a [[Discord]] code, else one can do it and it's free.                               |
 | 54:31      | You know, this app has come a long way since the last time I looked at it.                           |
 | 54:36      | I just download it because, like, for the stuff I do in the labs and then the Max Sparking           |
 | 54:40      | Field Guides, we do these webinars for the Plus Edition.                                              |

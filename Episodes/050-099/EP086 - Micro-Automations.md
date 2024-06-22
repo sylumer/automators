@@ -967,7 +967,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 53:29      | And usually you would think about doing this symmetrically, right?                                      |
 | 53:32      | So you put one curly bracket at the beginning, one curly bracket at the end, two pipes at               |
 | 53:35      | the beginning, two pipes at the end.                                                                    |
-| 53:37      | That's spoiler marking in sort of Markdown Plus that's used in things like Discord and                  |
+| 53:37      | That's spoiler marking in sort of Markdown Plus that's used in things like [[Discord]] and                  |
 | 53:42      | so on.                                                                                                  |
 | 53:43      | But where I found it to be very useful as well is, for example, database queries at                     |
 | 53:50      | work, I have to put a little bit of a string at the front and then I have to close off                  |

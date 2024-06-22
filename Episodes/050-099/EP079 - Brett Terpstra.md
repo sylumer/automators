@@ -715,13 +715,13 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 39:27      | There's a skeleton version of it on the sample page, but it basically, it does a lot of what         |
 | 39:35      | Rose was talking about.                                                                              |
 | 39:36      | It quits some apps.                                                                                  |
-| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, [[Slack]], Discord, Twitter,        |
+| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, [[Slack]], [[Discord]], Twitter,        |
 | 39:47      | like, and so those all the exact same thing.                                                         |
 | 39:50      | Yeah.                                                                                                |
 | 39:51      | And those launch and quit as a group.                                                                |
 | 39:53      | So my podcasting Bunch, the first thing it does is quit the comms bunch.                             |
-| 39:58      | But because when I'm podcasting, I usually do want messages and Discord up those right               |
-| 40:04      | after the line that quits that bunch, messages in Discord launch and Bunch will check before         |
+| 39:58      | But because when I'm podcasting, I usually do want messages and [[Discord]] up those right               |
+| 40:04      | after the line that quits that bunch, messages in [[Discord]] launch and Bunch will check before         |
 | 40:10      | it quits any apps in a bunch.                                                                        |
 | 40:13      | It'll see if those apps also exist in the new Bunch and it won't quit those.                         |
 | 40:18      | So it leaves those two alone.                                                                        |

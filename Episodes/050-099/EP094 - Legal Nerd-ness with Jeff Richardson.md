@@ -421,7 +421,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 26:25      | complicated about it, but it is so useful to me. I am, you know, I use email all the time. It's         |
 | 26:31      | that's how I communicate with clients and everything else. I laugh when I talk to my                    |
 | 26:35      | teenagers because they barely touch email for them. They barely even touch texting. You know,           |
-| 26:39      | if you want to communicate, you use, I don't know, Discord or whatever the new thing that               |
+| 26:39      | if you want to communicate, you use, I don't know, [[Discord]] or whatever the new thing that               |
 | 26:42      | takes. But for me, I live in email and sometimes I'm accessing it on my PC here at work. And one        |
 | 26:49      | of the things as a lawyer that I need to do is take an email that's associated with one of the          |
 | 26:54      | cases I'm working on and file it into my document management system that's associated with that         |

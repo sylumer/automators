@@ -144,7 +144,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 05:34      | I think it's one of those things.                                                                     |
 | 05:35      | If you don't have a huge amount on your Mac, and basically all you want to do is just open            |
 | 05:41      | applications.                                                                                         |
-| 05:43      | I asked in the RelayFM Discord earlier before we recorded this episode, what people were              |
+| 05:43      | I asked in the RelayFM [[Discord]] earlier before we recorded this episode, what people were              |
 | 05:48      | using.                                                                                                |
 | 05:49      | A couple of people, including Kathy Campbell, host of Conduit here on RelayFM, are perfectly          |
 | 05:56      | happy with [[Spotlight]] because they press command space, they type a couple of letters.                 |
@@ -823,7 +823,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 49:31      | I can search the script on the website, I don't want just what comes up in the website                |
 | 49:35      | search results.                                                                                       |
 | 49:36      | So a classic example of this is the [[Home Assistant]] website.                                           |
-| 49:38      | I use the search all the time because I help out focus on the [[Home Assistant]] Discord.                 |
+| 49:38      | I use the search all the time because I help out focus on the [[Home Assistant]] [[Discord]].                 |
 | 49:43      | But when I search for things, it will search the [[Home Assistant]] website, which includes               |
 | 49:48      | the subdomain community.homeassistant.io, which is of course their forums, which, you                 |
 | 49:54      | know, if I was searching their website, their forums aren't going to be indexed on their              |

@@ -1421,7 +1421,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:23:05   | Yeah, because we do get feedback for automators frequently.                                            |
 | 01:23:12   | I promise you, it's all being collected.                                                               |
 | 01:23:14   | So if you send a tweet with the hashtag ask automators, or you post in the Relay FM members            |
-| 01:23:19   | Discord with our question work ask automators, the feedback channel is a great place for               |
+| 01:23:19   | [[Discord]] with our question work ask automators, the feedback channel is a great place for               |
 | 01:23:24   | that.                                                                                                  |
 | 01:23:25   | But of course, you can chat about it in any of the appropriate channels if you so choose.              |
 | 01:23:30   | All of this gets automatically saved, and I promise we're going to start going through                 |

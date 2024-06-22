@@ -244,9 +244,9 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 14:36      | That's fair enough. It's one of those things where, you know, it can definitely be a time              |
 | 14:40      | sink. I know that I must have spent hours, for example, playing with Bunch and other                   |
 | 14:45      | similar apps that I've used to do these things. And it occasionally gets me into a little              |
-| 14:49      | bit of a pickle. I spent half an hour the other day trying to figure out why Discord                   |
+| 14:49      | bit of a pickle. I spent half an hour the other day trying to figure out why [[Discord]]                   |
 | 14:53      | was starting on startup on my Mac. And I couldn't track it down. Turns out, I think I'd set            |
-| 14:58      | it in the Discord settings itself. But I was looking, I went through [[Keyboard Maestro]].                |
+| 14:58      | it in the [[Discord]] settings itself. But I was looking, I went through [[Keyboard Maestro]].                |
 | 15:02      | Nope, not there. I went through Bunch. Nope, not there. And I spent quite some time trying             |
 | 15:07      | to figure out why is this happening. Like there is no logical reason for this to be                    |
 | 15:11      | happening and found it in the really obvious place. And that can be sort of the downside               |

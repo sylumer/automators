@@ -968,16 +968,16 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:12:56   | publishes, you'll be almost a week into it. How's it going? You making it? You're okay?               |
 | 01:13:03   | Yeah, we're doing all right. It's been fantastic. We've been really happy about the response.         |
 | 01:13:08   | It's nice to see everybody getting involved and helping each other online. We've seen                 |
-| 01:13:12   | a lot of that in our Discord community. And it's a lot of work, but it's also very satisfying         |
+| 01:13:12   | a lot of that in our [[Discord]] community. And it's a lot of work, but it's also very satisfying         |
 | 01:13:17   | work. So we'll probably be pretty spent and tired by the end of April, but it's been well             |
 | 01:13:22   | worth it so far.                                                                                      |
 | 01:13:23   | At least you've got May to recover before WWDC.                                                       |
 | 01:13:26   | Yes, true, true. But it's really incredible to see one of the features that we have, thanks           |
 | 01:13:33   | to our developer Alex, whenever someone submits a shortcut for the contest, and if they also          |
-| 01:13:40   | happen to be members of the Discord, we have the [MacStories](https://www.macstories.net/) Discord bot that automatically           |
-| 01:13:48   | gives them a special role in Discord. And this special role is shown as a little indicator            |
+| 01:13:40   | happen to be members of the [[Discord]], we have the [MacStories](https://www.macstories.net/) [[Discord]] bot that automatically           |
+| 01:13:48   | gives them a special role in [[Discord]]. And this special role is shown as a little indicator            |
 | 01:13:54   | next to your profile picture with the logo of Automation April. And it's been really                  |
-| 01:13:59   | fun to see over the past few days, those special badges pop up in more places on Discord, which       |
+| 01:13:59   | fun to see over the past few days, those special badges pop up in more places on [[Discord]], which       |
 | 01:14:06   | means that people are progressively submitting the shortcuts. And as they do that, that's             |
 | 01:14:12   | one of the things that I really love about the shortcuts community in general. It's                   |
 | 01:14:16   | a competition short, but it's a healthy competition. And there's always that aspect of folks helping  |

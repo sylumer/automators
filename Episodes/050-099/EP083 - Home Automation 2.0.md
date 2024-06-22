@@ -1903,7 +1903,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:40:58   | I have to say the automators forum is great.                                                      |
 | 01:41:00   | There's also, if you are a Relay FM member, doubly so if you're a Relay FM Automators member         |
 | 01:41:06   | because we love you.                                                                              |
-| 01:41:07   | There is a great Discord server where people sit and chat.                                        |
+| 01:41:07   | There is a great [[Discord]] server where people sit and chat.                                        |
 | 01:41:11   | There is a home channel and you can go in there and talk home automation.                         |
 | 01:41:16   | There are some wonderful people with amazing ideas in there and I'm not just talking about        |
 | 01:41:20   | me.                                                                                               |

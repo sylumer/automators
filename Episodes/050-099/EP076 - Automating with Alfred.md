@@ -512,11 +512,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 39:53      | And so you can toggle each one on and off. So I have the emoji pack. It's actually disabled.             |
 | 39:59      | And the reason for that is, and I've put a link to this in the show notes for people,                    |
 | 40:03      | I'm using an application called Rocket, which is free. And it works the same way typing in [[Slack]]         |
-| 40:09      | and Discord stuff does. So if you're in the Relay FM Discord, and you're used to typing colon,          |
+| 40:09      | and [[Discord]] stuff does. So if you're in the Relay FM [[Discord]], and you're used to typing colon,          |
 | 40:13      | I don't know, thumb, and then it comes up with thumbs up and thumbs down, and you select the             |
 | 40:18      | right one. Rocket does exactly that. And you can disable it on a per app basis,                          |
 | 40:23      | which is what I use for emojis. So it means that when I'm writing in messages or                         |
-| 40:28      | Discord, I have the same experience. Obviously Discord, I'm using Discord's                              |
+| 40:28      | [[Discord]], I have the same experience. Obviously [[Discord]], I'm using [[Discord\|Discord's]]                              |
 | 40:32      | native experience, but messages doesn't have that one. I type colon wave. It just doesn't                |
 | 40:37      | offer me that option. But with Rocket, it does. But, you know, if you don't want yet another             |
 | 40:41      | application, then you can use [[Alfred]]. Yeah. And Rocket is free. You're like reading my mind              |

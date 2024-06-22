@@ -242,7 +242,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 08:30      | I came across [[Obsidian]] from a post on MPU, I think it was actually Quorum, who shared                  |
 | 08:34      | the original post about [[Obsidian]], and I played around with it and just the principles clicked          |
 | 08:39      | with me.                                                                                               |
-| 08:40      | I got into the Discord and talked to the devs and they clicked with me.                                |
+| 08:40      | I got into the [[Discord]] and talked to the devs and they clicked with me.                                |
 | 08:42      | It wasn't at that time as powerful, I think as Roam, but you could just tell that the                  |
 | 08:47      | folks behind the app are brilliant, Erika and Shida, and they've done something, you                  |
 | 08:52      | know, in business school, they teach about strategic advantages, right?                                |
@@ -261,7 +261,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 09:29      | We were jealous of National Novel Rating Month, right, NaNoWriMo or Record Production Month.           |
 | 09:33      | So NaNoWriMo happens in November, Record Production Month happens in February, and the idea with       |
 | 09:37      | those two months is to write a novel in November or produce an album in February.                      |
-| 09:41      | And so we were talking in the [[Obsidian]] Discord and we're just saying, why isn't there something        |
+| 09:41      | And so we were talking in the [[Obsidian]] [[Discord]] and we're just saying, why isn't there something        |
 | 09:47      | for contributing to [[Obsidian]] like this?                                                                |
 | 09:49      | So [[Obsidian]] October, the very first ever [[Obsidian]] October is currently on the go.                      |
 | 09:54      | And the idea is that people are encouraged to contribute to the [[Obsidian]] community in                  |
@@ -302,7 +302,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 11:52      | Sure, sure.                                                                                            |
 | 11:53      | It's, I mean, just the [[Obsidian]] forums, I think it's forum.obsidian.md.                                |
 | 11:58      | You can find out a bit about the info there and the announcements.                                     |
-| 12:01      | And then joining the Discord and there's a special channel called [[Obsidian]] October.                    |
+| 12:01      | And then joining the [[Discord]] and there's a special channel called [[Obsidian]] October.                    |
 | 12:05      | You can join to see what other people are up to.                                                       |
 | 12:08      | And people are sharing what they're learning as they develop.                                          |
 | 12:09      | And it's just, it really is a bit of serendipity, I think, to see a community forum around             |
@@ -315,7 +315,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 12:34      | Whatever your problem is, somebody will try and help you.                                              |
 | 12:36      | And for any of our listeners that look at the forum, by the way, and think, huh, this                  |
 | 12:39      | looks familiar, they're using the same forum software that alternators in my power uses                |
-| 12:42      | uses, which of course is the best forum software at Discord.                                           |
+| 12:42      | uses, which of course is the best forum software at [[Discord]].                                           |
 | 12:46      | Although I really don't like the colour scheme.                                                         |
 | 12:48      | I get it, you know, I get it.                                                                          |
 | 12:51      | I switched it to light mode.                                                                           |
