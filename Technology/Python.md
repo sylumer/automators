@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview
-Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python is widely used in various fields such as web development, data science, artificial intelligence, and more due to its extensive standard library and community support. 
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python is widely used in various fields such as web development, data science, [[artificial intelligence]], and more due to its extensive standard library and community support. 
 
 Python emphasises code readability with a clear and concise syntax, making it an excellent choice for beginners and experienced programmers alike. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python uses dynamic typing and automatic memory management, allowing for rapid development and easy maintenance of code.
 

@@ -995,7 +995,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 01:01:41   | Do I have to reach for it, you know, the full toolbox for my automations?                                           |
 | 01:01:45   | See, and like, that's where I feel like, um, AI again provides promise.                                             |
 | 01:01:50   | Like whenever you look at an uncontrollable list of things, whether it be tasks or email,                           |
-| 01:01:56   | I would like to see a future where the artificial intelligence is smart enough to surface the                       |
+| 01:01:56   | I would like to see a future where the [[artificial intelligence]] is smart enough to surface the                       |
 | 01:02:01   | stuff you need to see, gives your grandma what she needs to see and doesn't give her,                               |
 | 01:02:06   | you know, all the other stuff.                                                                                      |
 | 01:02:07   | I mean, we have this huge problem right now with a senior citizen.                                                  |

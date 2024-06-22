@@ -17,7 +17,7 @@ Overall, Siri is designed to make interacting with Apple devices more convenient
 Voice recognition is the technology that enables Siri to understand and interpret spoken commands from users. It converts spoken words into text that can be processed by the device's software, allowing Siri to carry out the requested tasks.
 
 # Natural Language Processing
-Natural language processing (NLP) is the branch of artificial intelligence that enables Siri to understand the meaning behind user queries and commands. This technology allows Siri to interpret the context of a conversation and respond appropriately, even when the phrasing is not exact or conventional.
+Natural language processing (NLP) is the branch of [[artificial intelligence]] that enables Siri to understand the meaning behind user queries and commands. This technology allows Siri to interpret the context of a conversation and respond appropriately, even when the phrasing is not exact or conventional.
 
 # Machine Learning
 Siri uses machine learning algorithms to improve its accuracy and responsiveness over time. By analysing user interactions and feedback, Siri can continuously update its understanding of language patterns and user preferences, resulting in more accurate and relevant responses.

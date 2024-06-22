@@ -394,7 +394,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 21:37      | as it gets out there.                                                                                 |
 | 21:39      | One app I wanted to know, it's not entirely automation, but I find it very useful is IECO             |
 | 21:46      | A-I-K-O.                                                                                              |
-| 21:49      | It's artificial intelligence, it's using the whisper sync engine and it downloads the                 |
+| 21:49      | It's [[artificial intelligence]], it's using the whisper sync engine and it downloads the                 |
 | 21:54      | whole thing to the device, I actually wrote the developer because I said before I talk                |
 | 21:57      | about this on a podcast, are you collecting data or are you monetising, you know, what's              |
 | 22:04      | your privacy policy?                                                                                  |

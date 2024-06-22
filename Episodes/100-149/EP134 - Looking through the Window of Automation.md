@@ -781,7 +781,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 50:03      | I think that voice is going to become more prominent and more important in our computing              |
 | 50:09      | lives moving forward.                                                                                 |
 | 50:10      | Yeah.                                                                                                 |
-| 50:11      | I feel like it feels natural with this artificial intelligence boom, right?                           |
+| 50:11      | I feel like it feels natural with this [[artificial intelligence]] boom, right?                           |
 | 50:16      | Like, it's more conversational.                                                                       |
 | 50:19      | The automation should match it with conversational input.                                             |
 | 50:23      | And I do feel like there's something to that.                                                         |

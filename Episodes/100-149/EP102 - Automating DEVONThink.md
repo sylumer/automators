@@ -528,7 +528,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 20:13      | But where it picks up is there's a really cool tool               |
 | 20:18      | in Dev and Think where,                                           |
 | 20:22      | and this is a historical tool                                     |
-| 20:24      | where it will use the artificial intelligence.                    |
+| 20:24      | where it will use the [[artificial intelligence]].                    |
 | 20:26      | And we haven't mentioned it yet,                                  |
 | 20:28      | but one of Dev and Think's selling points                         |
 | 20:30      | is that it's really invested in AI in terms of search             |
@@ -1736,7 +1736,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:12:44   | and you can do almost anything with rules and Devon thing         |
 | 01:12:46   | but there are some additional stuff                               |
 | 01:12:47   | where they're taking advantage                                    |
-| 01:12:48   | of the artificial intelligence                                    |
+| 01:12:48   | of the [[artificial intelligence]]                                    |
 | 01:12:49   | and these are some rules                                          |
 | 01:12:51   | what I consider to be unique to Devon think                       |
 | 01:12:53   | I've never seen them anywhere else before.                        |
@@ -1746,7 +1746,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:13:03   | but it's better and more powerful.                                |
 | 01:13:05   | And it's accessed in the inspector                                |
 | 01:13:09   | and what it does is it uses the Devon think                       |
-| 01:13:12   | artificial intelligence and it will look at a file                |
+| 01:13:12   | [[artificial intelligence]] and it will look at a file                |
 | 01:13:16   | and say, I think this belongs there.                              |
 | 01:13:19   | You know, it'll figure out and it's for grouping files.           |
 | 01:13:22   | I'm sorry, it's for putting files into groups more than           |

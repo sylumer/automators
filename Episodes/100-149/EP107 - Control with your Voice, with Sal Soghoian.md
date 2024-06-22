@@ -1272,7 +1272,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:20:15   | And everybody can take advantage of that.                                                            |
 | 01:20:18   | Yeah.                                                                                                |
 | 01:20:19   | And I think part of the problem is historically, this hasn't been very good.                         |
-| 01:20:24   | But now with Apple Silicon and artificial intelligence, subroutines, all this stuff                  |
+| 01:20:24   | But now with Apple Silicon and [[artificial intelligence]], subroutines, all this stuff                  |
 | 01:20:30   | has suddenly got a lot better.                                                                       |
 | 01:20:32   | Even just the basic idea of opening a text field and talking to your computer, as someone            |
 | 01:20:38   | who's been doing it for 30 years, it is much better than it used to be.                              |

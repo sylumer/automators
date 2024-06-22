@@ -4,7 +4,7 @@ creator: Sam Altman and Elon Musk
 notetype: technology
 ---
 # Overview
-OpenAI is an artificial intelligence research organisation, co-founded in December 2015 by prominent tech figures including Elon Musk and Sam Altman.
+OpenAI is an [[artificial intelligence]] research organisation, co-founded in December 2015 by prominent tech figures including Elon Musk and Sam Altman.
 
 The mission of OpenAI is "*to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.*" 
 

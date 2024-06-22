@@ -778,7 +778,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:19:14   | intelligence and virtual reality. And Apple really did kind of talk all about artificial                |
 | 01:19:22   | intelligence and virtual reality in the WWDC keynote. They just didn't use those specifically           |
 | 01:19:30   | because they want the Apple words and not the pre-written narrative that society has made.              |
-| 01:19:40   | And I like that. Apple's afraid of the word artificial intelligence. They don't want it to,             |
+| 01:19:40   | And I like that. Apple's afraid of the word [[artificial intelligence]]. They don't want it to,             |
 | 01:19:45   | they don't want to get on that train, but they're doing it. Yeah. I had a bet that they would not,      |
 | 01:19:53   | I was my developer friend, I'm like, I bet you a dollar and 50 cents. I don't know why I was 50         |
 | 01:20:01   | cents, but Tim Cook, no one on that stage is going to say virtual reality or artificial                 |

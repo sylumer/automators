@@ -320,7 +320,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 17:43      | have more automation support.                                                                         |
 | 17:45      | And this is the one I have a glimmer of hope for, it's [[Apple Mail]].                                    |
 | 17:48      | Last year, we got some new features in Apple Mail, but a lot of the automator stuff didn't            |
-| 17:53      | make it into that round, and there is some, they're using artificial intelligence to try              |
+| 17:53      | make it into that round, and there is some, they're using [[artificial intelligence]] to try              |
 | 17:58      | and figure out who you reply from, and they're trying to help you a little bit with auto              |
 | 18:03      | sorting mail.                                                                                         |
 | 18:04      | But I feel like this is a topic, or this is an app that could greatly improve with some               |
