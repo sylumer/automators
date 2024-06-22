@@ -860,7 +860,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 01:08:27   | especially so you have some of the icons are from the Mac story set, right? And some of them are        |
 | 01:08:31   | the San Francisco symbols, I guess. I'm pretty certain that you could set up some kind of automation    |
 | 01:08:37   | because Toolbox Pro has that action to create a background or what was it? I'm forgetting the           |
-| 01:08:45   | word. I used this in the Instagram shortcut that I linked in that last episode where it can create      |
+| 01:08:45   | word. I used this in the [[Instagram]] shortcut that I linked in that last episode where it can create      |
 | 01:08:50   | this colour block. Yeah. And, and so you could probably automate that relatively easily. Yeah,           |
 | 01:08:58   | these icons are transparent. I should absolutely automate the process of going through. And then        |
 | 01:09:03   | you can just input a colour at the start of your automation and have it create your entire icon          |

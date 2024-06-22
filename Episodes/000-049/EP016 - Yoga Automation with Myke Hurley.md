@@ -443,14 +443,14 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 20:38      | get better at using Siri shortcuts, they start making more of them.                                     |
 | 20:42      | It is a pain in the neck to load the app and there's no folders.                                        |
 | 20:45      | I mean, obviously that's got to be on a whiteboard at Apple somewhere to make that better.              |
-| 20:51      | But I've solved the problem the same way largely Mike has and I've put everything in the today          |
+| 20:51      | But I've solved the problem the same way largely Myke has and I've put everything in the today          |
 | 20:56      | view widgets and I have these meta shortcuts now that are nothing but launchers for other               |
 | 21:02      | shortcuts and like some of them, like I've been playing with toggle and there's literally               |
 | 21:07      | shortcut launchers launching shortcut launchers launching shortcut launchers because you break          |
 | 21:13      | it into categories like if you if I've got a whole set of categories based on legal work                |
 | 21:19      | I've got, you know, you tap on then that opens up those timers and I but I've categorised               |
 | 21:26      | it pretty well.                                                                                         |
-| 21:27      | Like for instance, I have a photos button, you just a little camera Siri shortcut that                  |
+| 21:27      | Like for instance, I have a photos button, you just a little camera [[Siri]] shortcut that                  |
 | 21:32      | launches all of the photo related shortcuts I've made the one that resizes an image for                 |
 | 21:37      | posting to the talk dot automators forum or the one that gets me into Instagram.                        |
 | 21:45      | All that stuff is just under one button and I've got it down now to about 10 icons in                   |
@@ -466,7 +466,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 22:31      | animations because you used to watch the animations go through as it would go through the workflow      |
 | 22:37      | but when it was in the the widget there's no animations to watch so it always performed                 |
 | 22:42      | faster so that was why I ended up getting into the habit of using it.                                   |
-| 22:45      | Even like you know Gray's method of putting all those shortcuts on his home screen that                 |
+| 22:45      | Even like you know Grey's method of putting all those shortcuts on his home screen that                 |
 | 22:52      | is a little slower because that's actually that can in some cases be a lot slower because               |
 | 22:58      | it shoves you to Safari, Safari sends you over to shortcuts and then you get to watch the whole         |
 | 23:03      | animation so for the few that I do have on my home screen still I actually have they are shell          |
@@ -577,7 +577,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 33:10      | time is going on all my devices including my max not just my iPad's and iPhone's I waste way more        |
 | 33:15      | time on the Mac than I do it everywhere else how do you need to get timing installed yeah well I mean   |
 | 33:22      | yeah it's it's just a case of like if it was all in one place that would be perfect you got any         |
-| 33:27      | more ones mic that help you out and as you get through the day I have a super boring one but            |
+| 33:27      | more ones Myke that help you out and as you get through the day I have a super boring one but            |
 | 33:33      | I'll share it with you anyway I work in advertising right like I sell ads it's like a big thing that    |
 | 33:40      | I do with my company Relay FM of which the show is a part of which we're very happy with and            |
 | 33:47      | very proud to have this show as a part of Relay FM but I have to work out what's called CPMs a lot      |
@@ -846,17 +846,17 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 59:28      | but that just opens up all the questions we've been asking throughout the show how do I make it         |
 | 59:32      | trigger easier how do I go deeper with this how do I organise these better and these are growing        |
 | 59:37      | problems but the um but i I hope they just put the gas down on that and that we get we get farther      |
-| 59:43      | with that this year at w w dc yeah definitely me too well mic thanks so much for coming on              |
-| 59:50      | and sharing a few of your automations with us i I you know anybody listening to the show i I think      |
-| 59:56      | mic's a great example of someone who hasn't made a career out of automation but yet uses automation     |
+| 59:43      | with that this year at w w dc yeah definitely me too well Myke thanks so much for coming on              |
+| 59:50      | and sharing a few of your automations with us i I you know anybody listening to the show I think      |
+| 59:56      | Myke's a great example of someone who hasn't made a career out of automation but yet uses automation     |
 | 01:00:02   | every day to help their career and I think that's the goal of this show if you're listening uh          |
 | 01:00:07   | where you hit those pain points hopefully we're giving you the tools and the knowledge to to            |
 | 01:00:12   | build your own shortcuts or your apple scripts or whatever it is that you need uh to get your work      |
 | 01:00:17   | done get home a little earlier and enjoy your life more um we're gonna we're gonna get some of this     |
-| 01:00:23   | stuff from mic or we'll even just build similar versions we'll put out with the show so you can         |
+| 01:00:23   | stuff from Myke or we'll even just build similar versions we'll put out with the show so you can         |
 | 01:00:27   | download or see we'll figure out something once the show releases just just check out the show notes    |
-| 01:00:31   | and um and mic where can people find you so many places uh I'll say two places Instagram I love         |
-| 01:00:39   | Instagram I'm imic I-M-Y-K-E on Instagram and Relay FM go relay dot fm slash shows you can see        |
+| 01:00:31   | and um and Myke where can people find you so many places uh I'll say two places [[Instagram]] I love         |
+| 01:00:39   | [[Instagram]] I'm imyke I-M-Y-K-E on [[Instagram]] and Relay FM go to relay.fm/shows you can see        |
 | 01:00:47   | a list of all of the great shows that we have including a bunch that I'm on but a bunch of              |
 | 01:00:51   | shows that I'm not on but we have lots and lots and lots of options for you there if you like this      |
 | 01:00:56   | show and don't listen to any other Relay FM shows oh boy do we have a treat for you there's             |
@@ -864,14 +864,14 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 01:01:07   | who doesn't listen to any other relay shows and they want a recommendation to get started with I        |
 | 01:01:11   | would highly recommend both Mac power users and cortex I think that there's definitely something        |
 | 01:01:16   | for the listeners of the show in both of those shows yeah I think you're right uh Rose do you do        |
-| 01:01:21   | Instagram I do I am rosemary_orchard on Instagram I don't post that many pictures            |
-| 01:01:27   | but I do like a lot of pictures including the cute ones that mic posts every so often                   |
+| 01:01:21   | Instagram I do I am rosemary_orchard on [[Instagram]] I don't post that many pictures            |
+| 01:01:27   | but I do like a lot of pictures including the cute ones that Myke posts every so often                   |
 | 01:01:32   | yeah I'm I'm doing Instagram more now than before as well I'm at MacSparky there and I really uh       |
 | 01:01:38   | I'm really starting to get it it's like it's more fun than twitter for me if that makes any sense       |
 | 01:01:44   | I use stories more than I post to my feed um but yeah I love it for consuming and also for              |
 | 01:01:53   | for content like adding content creating content so it just makes me feel happy where                   |
-| 01:01:58   | some other social networks can be a little bit more tiring and mic what's your uh your name on          |
-| 01:02:03   | instagram? imyke, I-M-Y-K-E. okay all right well everybody where the automators you can find the            |
-| 01:02:09   | notes for the show over at relay dot fm/automators this is episode 16 so it'd be really           |
-| 01:02:15   | dot fm slash automator slash 16 uh we will be back in a few weeks with some more automation             |
-| 01:02:22   | thanks again mic for joining and uh everybody keep automating                                           |
+| 01:01:58   | some other social networks can be a little bit more tiring and Myke what's your uh your name on          |
+| 01:02:03   | [[Instagram]]? imyke, I-M-Y-K-E. okay all right well everybody where the Automators you can find the            |
+| 01:02:09   | notes for the show over at relay.fm/automators this is episode 16 so it'd be           |
+| 01:02:15   | relay.fm/automators/16 uh we will be back in a few weeks with some more automation             |
+| 01:02:22   | thanks again Myke for joining and uh everybody keep automating.                                           |

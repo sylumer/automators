@@ -715,6 +715,6 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 01:01:00   | in the new iPad and iOS betas of shortcuts. And that is talk.automators.fm. David, where can            |
 | 01:01:08   | people find you on the internet and around the internet? MacSparky.com is a good enough place.          |
 | 01:01:12   | Head over there and you'll find all the stuff I do. That's where you're not hanging out in Batu,        |
-| 01:01:17   | which you seem to be at quite frequently, according to Instagram. I am over at rosemaryorchard.com.        |
+| 01:01:17   | which you seem to be at quite frequently, according to [[Instagram]]. I am over at rosemaryorchard.com.        |
 | 01:01:23   | And you will find links to all of my social media there. And we would like to thank you,                |
 | 01:01:27   | our favourite listeners, for listening to this episode. And we will see you again in two weeks.          |

@@ -1095,7 +1095,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:03:34   | So I can have custom home screen, custom wallpaper, custom watch face.                                  |
 | 01:03:39   | For me, my personal colour is orange.                                                                    |
 | 01:03:43   | So I have a watch face with orange highlights in it and I have a home screen with an orange             |
-| 01:03:49   | background and kind of personal, like that's where the Instagram app suddenly appears on                |
+| 01:03:49   | background and kind of personal, like that's where the [[Instagram]] app suddenly appears on                |
 | 01:03:56   | my home screen.                                                                                         |
 | 01:03:59   | And I really like the idea of everywhere I look, there's orange and I'm realising, hey,                 |
 | 01:04:05   | it's orange.                                                                                            |

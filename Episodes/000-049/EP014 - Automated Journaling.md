@@ -181,7 +181,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 05:17      | definitely amenable to automation.                                                                  |
 | 05:20      | And day one has a feature called activity feed, which I think is a great way to get                 |
 | 05:26      | started from the activity feed.                                                                     |
-| 05:27      | You can grab information like your most recently shot photos, if you've got an Instagram feed,      |
+| 05:27      | You can grab information like your most recently shot photos, if you've got an [[Instagram]] feed,      |
 | 05:35      | it can attach to that.                                                                              |
 | 05:37      | I believe it's a, you know, I just close the app.                                                   |
 | 05:42      | There's also a Foursquare, if you've got a Foursquare, I mean, who does Foursquare                  |
@@ -200,11 +200,11 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 06:26      | You say banana with so much more class than I do, I feel like I'm, I don't know, I feel             |
 | 06:31      | like I'm second class here, definitely.                                                             |
 | 06:34      | You are not second class, David, you are first class, but yeah, that's why connecting these         |
-| 06:40      | services is great because if you're posting on Instagram anyway, this is stuff that you're          |
+| 06:40      | services is great because if you're posting on [[Instagram]] anyway, this is stuff that you're          |
 | 06:45      | sharing with other people, why not share it with yourself?                                          |
 | 06:48      | Exactly, exactly.                                                                                   |
 | 06:49      | And usually a lot of people, even if you're going to have one or two pictures of the day,           |
-| 06:55      | Instagram is a great place.                                                                         |
+| 06:55      | [[Instagram]] is a great place.                                                                         |
 | 06:57      | Usually those are the ones that you would want to capture, you know?                                |
 | 07:00      | Yeah.                                                                                               |
 | 07:01      | Have you done that yet?                                                                             |
@@ -589,7 +589,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 30:43      | Now, you put an entry in the outline about doing instead of a personal journal, a public            |
 | 30:48      | journal.                                                                                            |
 | 30:49      | Yeah.                                                                                               |
-| 30:50      | So, I mean, a lot of us have Twitter accounts and Instagram accounts and maybe four square          |
+| 30:50      | So, I mean, a lot of us have Twitter accounts and [[Instagram]] accounts and maybe four square          |
 | 30:56      | accounts and all of these other things and we're everywhere on the Internet.                        |
 | 31:00      | And what I do, I use a micro.blog, I actually host my own, well, public journal, essentially,       |
 | 31:09      | and you can use micro.blog or you can host it yourself.                                             |
@@ -600,12 +600,12 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 31:24      | own your gram and own your swarm.                                                                   |
 | 31:27      | And these are free services made by people who just want you to be able to get your own             |
 | 31:31      | data.                                                                                               |
-| 31:32      | And own your gram will take Instagram posts and host them to a micro.blog endpoint, such            |
+| 31:32      | And own your gram will take [[Instagram]] posts and host them to a micro.blog endpoint, such            |
 | 31:36      | as the one available on micro.blog.                                                                 |
 | 31:40      | And own your swarm does exactly the same thing with swarm four square check-ins.                    |
 | 31:44      | And then that means that it's on the same place.                                                    |
 | 31:47      | And what I use micro.blog for is it will then cross post to Twitter and master DOM for me.          |
-| 31:53      | So essentially, if I create an image post, I'll do it on Instagram.                                 |
+| 31:53      | So essentially, if I create an image post, I'll do it on [[Instagram]].                                 |
 | 31:57      | And then that gets cross posted to my blog, which then gets pushed out onto Twitter and             |
 | 32:02      | master DOM for me.                                                                                  |
 | 32:03      | But all text-based things, I do via the micro.blog app.                                             |

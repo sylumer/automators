@@ -1267,7 +1267,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:16:39   | So I have the small size battery widget that shows me the status of my watch phone and                  |
 | 01:16:44   | battery. I've got again, the clock widget, which is weird, right?                                       |
 | 01:16:48   | But it's really good being able to just look down and see what time it is. And then I've                |
-| 01:16:52   | got a series of apps that I only use a lot at Disneyland, you know, photos, Instagram,                  |
+| 01:16:52   | got a series of apps that I only use a lot at Disneyland, you know, photos, [[Instagram]],                  |
 | 01:16:57   | the camera app is on my home screen. I never put the camera app on my home screen, but                  |
 | 01:17:00   | I put it there when I'm at Disneyland and then at Disneyland these days, everything                     |
 | 01:17:04   | runs on their app. So I've got the Disneyland app, their messages and the phone so I can                |

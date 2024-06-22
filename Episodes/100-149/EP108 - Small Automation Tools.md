@@ -1548,7 +1548,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:04:48   | another menu bar utility, David, which allows me                    |
 | 01:04:51   | to control scenes and it's called scene cuts.                       |
 | 01:04:55   | Scene is in like, you know, action scene rather than                |
-| 01:05:00   | I saw what you did at Disney on Instagram.                          |
+| 01:05:00   | I saw what you did at Disney on [[Instagram]].                          |
 | 01:05:04   | There we go.                                                        |
 | 01:05:05   | Let's make that sound slightly less creepy.                         |
 | 01:05:07   | But yeah, scene cuts just shows scenes in your menu                 |

@@ -411,7 +411,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 17:20      | and we'll continue kind of working around                            |
 | 17:22      | complimenting that as much as we can.                                |
 | 17:25      | So I think, you know, there's a lot of things where,                 |
-| 17:29      | you know, if you just want to launch Instagram                       |
+| 17:29      | you know, if you just want to launch [[Instagram]]                       |
 | 17:32      | to the camera versus launching it and it's in your feed              |
 | 17:35      | and then you gotta switch to the camera or whatever,                 |
 | 17:37      | you know, for those kind of short quick things,                      |

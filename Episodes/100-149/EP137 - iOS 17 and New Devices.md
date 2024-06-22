@@ -731,7 +731,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:04:16   | And I feel like that's something we've been waiting for a long time. We were talking about               |
 | 01:04:21   | that three or four years ago when shortcuts was brand new and some of these automations were             |
 | 01:04:26   | showing up. But now we're the dog that has caught the car. So, we need to be using them.                 |
-| 01:04:33   | Yeah. Yeah. That reminds me a little bit of an Instagram picture or a video that I saw the               |
+| 01:04:33   | Yeah. Yeah. That reminds me a little bit of an [[Instagram]] picture or a video that I saw the               |
 | 01:04:37   | other day of a golden retriever that finally caught its tail and didn't want to let it go.               |
 | 01:04:40   | But it didn't quite know what to do with it. You know, we've worked around a lot of our                  |
 | 01:04:45   | our previous requirements or needs and come up with solutions to them. But using Wi-Fi                   |

@@ -623,8 +623,8 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 35:12      | but basically Alex has managed to give those APIs to [[Shortcuts]] users so we can make our                     |
 | 35:19      | own app.                                                                                                    |
 | 35:20      | And I don't know, it just delights me.                                                                      |
-| 35:23      | This is also really useful if you take a photo for Instagram and you want to have, and so                   |
-| 35:29      | say it's, so Instagram has a limitation.                                                                    |
+| 35:23      | This is also really useful if you take a photo for [[Instagram]] and you want to have, and so                   |
+| 35:29      | say it's, so [[Instagram]] has a limitation.                                                                    |
 | 35:32      | If you want to upload multiple photos, then they all have to be in the same orientation                     |
 | 35:36      | if you're doing it as a post.                                                                               |
 | 35:38      | But so that means that you then have to crop all of your images or you can resize your                      |
@@ -1311,7 +1311,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 01:17:38   | Feel free to deluge Alex with future requests.                                                              |
 | 01:17:41   | I cannot promise that he will implement any or indeed all of them, but it's always interesting              |
 | 01:17:46   | to see what you are using the shortcuts for that we share in our show notes.                                |
-| 01:17:51   | The [Instagram](https://Instagram) shortcut is, of course, in the show notes.                                                    |
+| 01:17:51   | The [[Instagram]] shortcut is, of course, in the show notes.                                                    |
 | 01:17:53   | So share any toolbox pro shortcuts that you have built with us so that we can all explain                   |
 | 01:18:00   | with joy and see what people are actually doing with this app.                                              |
 | 01:18:04   | Thank you, TextExpander, Zapier, and Kensington.                                                            |

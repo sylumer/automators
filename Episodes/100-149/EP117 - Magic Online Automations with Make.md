@@ -904,8 +904,8 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 50:26      | So RSS items save to good links and I guess we should explain what good links is.                         |
 | 50:33      | I mean, it's an app that allows you to store links, but only good links.                                  |
 | 50:38      | Yes.                                                                                                      |
-| 50:39      | Yeah, so just like, I mean, it's like pocket or Instagram, Instagram, Instagram paper,                    |
-| 50:46      | not Instagram, it's like pocket or Instagram paper for folks who have used those services                 |
+| 50:39      | Yeah, so just like, I mean, it's like pocket or [[Instagram]], [[Instagram]], [[Instagram]] paper,                    |
+| 50:46      | not [[Instagram]], it's like pocket or [[Instagram]] paper for folks who have used those services                 |
 | 50:52      | before.                                                                                                   |
 | 50:53      | It's a one-time purchase that runs, it's just on your iPhone, iPad and Mac.                               |
 | 51:00      | It doesn't have a web service and because of that, you know, I have to integrate with                     |

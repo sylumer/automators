@@ -274,7 +274,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 12:13      | I don't know.                                                                                            |
 | 12:14      | They came with a decently long lead and everything as well, which is great, but I just love the          |
 | 12:17      | fact that I can do this.                                                                                 |
-| 12:19      | I will confess, I saw these advertised on Instagram, and I genuinely thought that they                   |
+| 12:19      | I will confess, I saw these advertised on [[Instagram]], and I genuinely thought that they                   |
 | 12:22      | were just a thing that weren't really very good.                                                         |
 | 12:26      | But I have been spending a lot of time on the Homebridge subreddit recently, just because                |
 | 12:31      | there's a lot of cool stuff that appears on there and the HomeKit one.                                   |

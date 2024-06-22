@@ -974,7 +974,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:14:29   | the little blurb paragraph. So sometimes if I do find a show that I'm not, you know, I don't listen           |
 | 01:14:34   | to, I'll find an episode that looks interesting up there. And so yeah, you know, I think we really,           |
 | 01:14:39   | Steven now has a Stream Deck. I was very proud that David talked him into getting one, but I think            |
-| 01:14:45   | Mike needs one. And then he probably has one. I saw it on Instagram the other day. Yeah.                      |
+| 01:14:45   | Mike needs one. And then he probably has one. I saw it on [[Instagram]] the other day. Yeah.                      |
 | 01:14:50   | Oh, okay. I wonder if that's new. I haven't heard him talk about it.                                          |
 | 01:14:52   | Yeah, I think it was because they're getting ready to do the podcast-a-thon. And the way I                    |
 | 01:14:57   | sold Steven on the Stream Deck was, look, if you're going to be doing a live video thing with                 |

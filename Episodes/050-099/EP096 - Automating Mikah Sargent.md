@@ -1077,15 +1077,15 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:17:08   | there. And then it popped up where I needed it. I also, I don't use this one now because I want         |
 | 01:17:15   | a little bit more control as I've, as I've gotten in front of more eyes over time. There is a           |
 | 01:17:22   | separation between my Twitter, which is incredibly public and has a lot more interaction and my         |
-| 01:17:28   | Instagram, which is available to the public, but doesn't have as many people paying attention.          |
+| 01:17:28   | [[Instagram]], which is available to the public, but doesn't have as many people paying attention.          |
 | 01:17:34   | And so I, I like that separation. I used to have an IFTTT setup where when I published,                 |
-| 01:17:42   | when I posted a photo on Instagram, it would download that image from, you know, the Instagram          |
+| 01:17:42   | when I posted a photo on [[Instagram]], it would download that image from, you know, the [[Instagram]]          |
 | 01:17:49   | servers or whatever, however that works and then paste it on Twitter with the caption from the          |
-| 01:17:55   | Instagram post and a link to that Instagram photo. And so then it would be an actual image on Twitter   |
-| 01:18:01   | instead of just being the Instagram link that exists. Yeah. And again, I said, as I said,               |
-| 01:18:07   | I shut that one off simply because now I don't want every Instagram post that I post to automatically   |
+| 01:17:55   | [[Instagram]] post and a link to that [[Instagram]] photo. And so then it would be an actual image on Twitter   |
+| 01:18:01   | instead of just being the [[Instagram]] link that exists. Yeah. And again, I said, as I said,               |
+| 01:18:07   | I shut that one off simply because now I don't want every [[Instagram]] post that I post to automatically   |
 | 01:18:12   | be there. I get to choose, but the, then then the other one is it's one that pays attention,            |
-| 01:18:21   | looks on my Instagram. It used to, or it still pays attention to Flickr, but obviously don't use        |
+| 01:18:21   | looks on my [[Instagram]]. It used to, or it still pays attention to Flickr, but obviously don't use        |
 | 01:18:27   | Flickr anymore. And a few other places, and it looks for a hashtag Chihuahua coffee. And upon           |
 | 01:18:33   | finding that, it adds it to my Squarespace website where I've got a grid of photos of my dogs           |
 | 01:18:42   | on, on that page. So it can automatically go ahead and put that there and make it available             |

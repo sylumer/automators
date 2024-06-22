@@ -343,7 +343,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 20:31      | those things where it was confusing for him. And I suspect if he tried it, he would really like spaces. |
 | 20:40      | This episode of The Automators is brought to you by Issue. Get started with Issue today for free        |
 | 20:45      | or sign up for an annual premium account and get 50% off. Just go to issue.com/podcast,           |
-| 20:51      | I-S-S-U-U. If you post content on your website, share to Instagram and send it to your clients,         |
+| 20:51      | I-S-S-U-U. If you post content on your website, share to [[Instagram]] and send it to your clients,         |
 | 20:57      | but then find posting your content to your channels includes reformatting, resizing,                    |
 | 21:02      | redownloading and reuploading, you need Issue because then you can create once and share everywhere.    |
 | 21:09      | Issue is the all in one platform to create and distribute beautiful digital content from marketing      |

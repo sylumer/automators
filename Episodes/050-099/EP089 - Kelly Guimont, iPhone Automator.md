@@ -387,7 +387,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 24:01      | that it's the thing I'm supposed to be tapping on instead of whatever I was using before. So yeah,       |
 | 24:06      | I've definitely done that. The I know what I know what's supposed to live there. So I'm just going       |
 | 24:11      | to keep hitting that. And it's a different different app than it was before or something.                |
-| 24:14      | But I know it's that spot. So yeah. Yeah. That's how I trained myself out of using Instagram so          |
+| 24:14      | But I know it's that spot. So yeah. Yeah. That's how I trained myself out of using [[Instagram]] so          |
 | 24:18      | much. I put all me focus in its place. And bam, I'm getting a lot more done.                             |
 | 24:25      | Rose, we're going to do a future episode just breaking down all of our focus modes because               |
 | 24:30      | I'm using all 10. And I think we got a show there. Let's do that one day. Oh, I'm sure we do.            |

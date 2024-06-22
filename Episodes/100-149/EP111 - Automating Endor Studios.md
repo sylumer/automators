@@ -150,9 +150,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 04:26      | before have struggled like force touch, 3D touch being one of them is the fact that developers            |
 | 04:33      | don't want to invest the time developing for something that's only on certain models of                   |
 | 04:38      | iPhone, because, you know, we already have enough problems with developers not doing                      |
-| 04:43      | something for the iPad, because, well, you know, Instagram, oh, well, we don't think that                 |
-| 04:48      | there will be enough users for Instagram on the iPad and it's like, yes, because he prevent               |
-| 04:53      | them from using Instagram on the iPad, that's why.                                                        |
+| 04:43      | something for the iPad, because, well, you know, [[Instagram]], oh, well, we don't think that                 |
+| 04:48      | there will be enough users for [[Instagram]] on the iPad and it's like, yes, because he prevent               |
+| 04:53      | them from using [[Instagram]] on the iPad, that's why.                                                        |
 | 04:56      | But you know, so I'm really glad that it ties in and I feel like this, this really is, you                |
 | 05:02      | know, Apple saying like, hey, cool new feature, there's already rumors it's going to be across            |
 | 05:06      | the iOS 15 lineup, of course.                                                                             |

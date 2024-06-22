@@ -276,12 +276,12 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 19:59      | stuff? I use Zapier and I have TTT, but not extensively. I have TTT has really good support               |
 | 20:09      | for day one, which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
 | 20:15      | like every MacSparky blog post gets added to my journal and like tweets that I heart,                    |
-| 20:21      | which aren't very many anymore. Yeah, well, I have it like any photo I post to Instagram                  |
+| 20:21      | which aren't very many anymore. Yeah, well, I have it like any photo I post to [[Instagram]]                  |
 | 20:28      | gets saved with like a markdown note into a Dropbox file for me, which I always forget is                 |
 | 20:35      | running until I discover the folder. It's a nice little archive. I appreciate it. It's from back          |
 | 20:43      | when I used to do Slogger. Do you remember Slogger? Yeah, I forgot about that. Yeah.                      |
 | 20:47      | Yeah. It's dead at this point, but it was a script that would run once a day and gather                   |
-| 20:56      | all of your social media posts across Facebook and Twitter and Flickr and Instagram and would             |
+| 20:56      | all of your social media posts across Facebook and Twitter and Flickr and [[Instagram]] and would             |
 | 21:07      | basically and originally it was built to work with day one and it would build like a day one              |
 | 21:12      | calendar of all of your social media output. Yeah. And I still think there's a place for that.            |
 | 21:18      | And there's been some apps that have come out that especially on iOS that kind of fit that niche.         |

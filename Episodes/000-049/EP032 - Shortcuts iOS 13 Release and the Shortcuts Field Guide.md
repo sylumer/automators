@@ -478,7 +478,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 22:55      | Well, I actually did this.                                                                             |
 | 22:56      | So I have, it's set to a number, so it waits for 60 seconds.                                           |
 | 23:00      | And then after I've been on Twitter for 60 seconds, it opens OmniFocus, so I'm spending                |
-| 23:05      | the last time on Twitter and I've done the same thing for Instagram as well and Facebook               |
+| 23:05      | the last time on Twitter and I've done the same thing for [[Instagram]] as well and Facebook               |
 | 23:11      | on my iPad.                                                                                            |
 | 23:12      | I installed Facebook from my iPhone and a couple of other apps just because I'm finding                |
 | 23:16      | that to be pretty useful because it's, they're going, hey, so you have some fun, but you're            |
@@ -520,7 +520,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 25:03      | Because inside of the automations, like for example, the open Twitter, it then basically               |
 | 25:08      | has a shortcuts building interface.                                                                    |
 | 25:10      | But I found if I do this and I want to reuse it, like my kill Twitter shortcut, I can also             |
-| 25:17      | use to kill Instagram and whatever else.                                                               |
+| 25:17      | use to kill [[Instagram]] and whatever else.                                                               |
 | 25:19      | So I've turned it into the 60 second OmniFocus shortcut and then I just run my shortcut.               |
 | 25:25      | Are you doing that or are you using actions directly in your automation?                               |
 | 25:28      | Yeah.                                                                                                  |
