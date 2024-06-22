@@ -13073,8 +13073,8 @@ var import_obsidian5 = require("obsidian");
 
 // src/plugin-info.ts
 var PLUGIN_INFO = {
-  "pluginVersion": "1.5.2",
-  "pluginReleasedAt": "2024-05-11T12:39:26+0200"
+  "pluginVersion": "1.5.3",
+  "pluginReleasedAt": "2024-06-18T15:07:53+0200"
 };
 
 // src/routes/info.ts
@@ -14239,7 +14239,7 @@ function addObjectToUrlSearchParams(obj, url, prefix = XCALLBACK_RESULT_PREFIX) 
 var ActionsURI = class extends import_obsidian10.Plugin {
   async onload() {
     obsEnv.app = this.app;
-    this.app.workspace.onLayoutReady(() => this.registerRoutes(routes2));
+    this.registerRoutes(routes2);
   }
   onunload() {
   }
