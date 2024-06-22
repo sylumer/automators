@@ -4,7 +4,6 @@ creator: Apple
 notetype: technology
 aliases:
   - Home
-  - HomeKit
 ---
 # Overview
 Apple Home is a smart home platform that allows users to control various smart home devices through their Apple devices, like iPhones, iPads, and Macs.  The platform is intended to provide a unified and secure way to manage home automation, ranging from lights and thermostats to locks and security cameras.
@@ -45,7 +44,7 @@ Apple Home is designed with a strong emphasis on user privacy and security.
 - Where possible, HomeKit processes commands on the local network, reducing dependence on the cloud and minimising the data sent out of the home network.
 
 # Notes
-- The platform is underpinned by a set of API and technology known as HomeKit, which is often used synonymously with Apple Home based on the context of the discussion.
+- The platform is underpinned by a set of API and technology known as [[HomeKit]]. Sometimes this is used synonymously with Apple Home based on the context of the discussion - Home is the platform, and HomeKit is the technology that provides the platform functionality.
 
 # Episodes
 ```dataviewjs
