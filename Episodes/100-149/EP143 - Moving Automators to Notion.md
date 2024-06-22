@@ -432,9 +432,9 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 24:02      | So you've got kind of stuff like that.                                                               |
 | 24:04      | You can do, you can have it, the triggers, like I said, the triggers are page added or               |
 | 24:10      | or property edited, but the actual actions, there's, there's quite extensive.                        |
-| 24:14      | You can add a new page, you can edit a page, you can send a Slack notification and a lot             |
-| 24:19      | of people in [[Notion]] pair it with Slack because [[Notion]], I don't think is great at contemporary        |
-| 24:24      | news, like Tix communication, like Slack is, and you can, you can even have it just edit             |
+| 24:14      | You can add a new page, you can edit a page, you can send a [[Slack]] notification and a lot             |
+| 24:19      | of people in [[Notion]] pair it with [[Slack]] because [[Notion]], I don't think is great at contemporary        |
+| 24:24      | news, like Tix communication, like [[Slack]] is, and you can, you can even have it just edit             |
 | 24:31      | another property.                                                                                    |
 | 24:32      | So there's, there's a lot of ways you can kind of slice it up, but those two triggers                |
 | 24:37      | are two of the most common things you do.                                                            |

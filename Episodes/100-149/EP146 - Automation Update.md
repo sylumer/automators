@@ -600,7 +600,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 24:52      | if there's one you'd like.                                        |
 | 24:53      | A lot of times they're always looking                             |
 | 24:54      | for subjects to write new ones on.                                |
-| 24:57      | Yes, yeah, the Omni Slack channel for users                       |
+| 24:57      | Yes, yeah, the Omni [[Slack]] channel for users                       |
 | 25:01      | is a really nice place to hang out.                               |
 | 25:03      | There is a specific automation channel in there                   |
 | 25:05      | where Sal's hanging out.                                          |
@@ -627,7 +627,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 26:01      | or need to do.                                                    |
 | 26:02      | But if you want that, then there's a plug in for it.              |
 | 26:06      | So yeah, yeah, I love the Omni Automation.                        |
-| 26:09      | Omni Slack channel, Omni Group Slack channel                      |
+| 26:09      | Omni [[Slack]] channel, Omni Group [[Slack]] channel                      |
 | 26:12      | for automation, it's a really lovely place                        |
 | 26:14      | to just get ideas.                                                |
 | 26:16      | Alright, so while we're talking about OmniFocus Automation,       |

@@ -518,7 +518,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 43:16      | yeah I gotta I think maybe because I mean one problem that I have that we vaguely did you                                        |
 | 43:23      | didn't allude to it but it was clear to me at the beginning of the show is that I do so many                                     |
 | 43:27      | different things I'm like making videos I'm publishing the stuff on my website I have a                                          |
-| 43:31      | newsletter I have a shortcuts user group that I like on Slack where people can join and talk about                               |
+| 43:31      | newsletter I have a shortcuts user group that I like on [[Slack]] where people can join and talk about                               |
 | 43:37      | it and so I do just like bounce around a lot and it's not easy for me to in one simple way                                       |
 | 43:45      | enter that context like I think if we had that set home screen action I would have things that would                             |
 | 43:52      | change to that screen and then kick off my timer stuff and do all these other things maybe that's                                |

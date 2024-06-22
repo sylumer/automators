@@ -111,7 +111,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 03:28      | Yes, yes.                                                                                               |
 | 03:29      | And it starts with just, you know, let certain apps, semi notifications or let certain people           |
 | 03:36      | send me notifications from whichever app they're coming from, which is really handy.                    |
-| 03:40      | So for example, if you're my favourites, if you message me on Slack, then I'll get that                  |
+| 03:40      | So for example, if you're my favourites, if you message me on [[Slack]], then I'll get that                  |
 | 03:44      | the same as if you message me on iMessage because I've whitelisted you.                                 |
 | 03:48      | But equally, if, you know, if I just want to say whitelist iMessage for a while, then                   |
 | 03:54      | I can whitelist messages app and I'll get everything from messages, which in some focus                 |
@@ -131,7 +131,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 05:03      | on when I needed it.                                                                                    |
 | 05:04      | But now I can have a whole bunch of extra home screens and toggle most of them off most                 |
 | 05:08      | of the time and switch to the one that I need for the focus mode.                                       |
-| 05:12      | So my work one just shows me Outlook and Slack and a few other things, but my podcasting                |
+| 05:12      | So my work one just shows me Outlook and [[Slack]] and a few other things, but my podcasting                |
 | 05:17      | one shows me a completely different set of applications, which I love.                                  |
 | 05:21      | Yeah.                                                                                                   |
 | 05:22      | And, you know, kind of getting back to the idea of focus, your home screen is a great                   |
@@ -831,7 +831,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 49:58      | always.                                                                                                 |
 | 49:59      | Yes.                                                                                                    |
 | 50:00      | So in terms of the apps, with focus modes, you can also limit apps.                                     |
-| 50:04      | The only apps I let through while podcasting are Slack, which is kind of a back-in communication        |
+| 50:04      | The only apps I let through while podcasting are [[Slack]], which is kind of a back-in communication        |
 | 50:09      | portal that a lot of times me and podcasters use together while we're making a show.                    |
 | 50:15      | So I want to let those through.                                                                         |
 | 50:17      | And in fact, during today's show, we got an admin alert from Relay related to our show,                 |
@@ -933,7 +933,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 56:24      | OmniFocused view of my work-related tasks for the day, not personal, just work, because                |
 | 56:29      | I can do that with a custom perspective.                                                                |
 | 56:32      | It shows a version of a Fantastical that gives me a list of my events for the day.                      |
-| 56:38      | It puts a lot of my work-related apps right on the screen for me, like Slack, I work in                 |
+| 56:38      | It puts a lot of my work-related apps right on the screen for me, like [[Slack]], I work in                 |
 | 56:44      | a lot, Basecamp, I work in a lot, [[Obsidian]], and then [[Drafts]].                                            |
 | 56:47      | So a bunch of apps show up that I generally use for this stuff.                                         |
 | 56:52      | And now in terms of the permissions that I give through work mode, this is one where                    |
@@ -950,7 +950,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 57:37      | I've got Steve and Mike, UTJ, some of the people that work with me, I've carved holes                   |
 | 57:42      | for them, and when I'm in work mode, they can get a hold of me.                                         |
 | 57:46      | And then in terms, and I also allow favourites, like I said, in terms of apps, I'm more permissive       |
-| 57:52      | with apps, OmniFocus, Basecamp, Slack, all the work-related apps, they get through because              |
+| 57:52      | with apps, OmniFocus, Basecamp, [[Slack]], all the work-related apps, they get through because              |
 | 57:59      | I'm doing stuff.                                                                                        |
 | 58:00      | Interestingly, I almost never carve holes for messages, because it's always allowing                    |
 | 58:05      | messages through by people, not by the app itself.                                                      |
@@ -1070,7 +1070,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:10   | You know, sometimes there's more than one way to scratch a cat.                                         |
 | 01:05:15   | And then the other thing is in terms of apps, I don't allow any app notifications, but I                |
 | 01:05:21   | do allow time sensitive app notifications.                                                              |
-| 01:05:24   | Like if I'm reading, I don't want Slack messages coming through unless it's from you, you know,         |
+| 01:05:24   | Like if I'm reading, I don't want [[Slack]] messages coming through unless it's from you, you know,         |
 | 01:05:30   | or a message.                                                                                           |
 | 01:05:31   | So, so this one is kind of permissive in some ways and less permissive in other ways.                   |
 | 01:05:36   | I've got a really cool home screen when I do this, though, I really like the way that                   |
@@ -1130,19 +1130,19 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:09:03   | But in general, I found most of the time I don't need focus modes, I've been pretty                     |
 | 01:09:07   | good at actually cranking down the number of notifications I can and do get at various                  |
 | 01:09:11   | times.                                                                                                  |
-| 01:09:12   | Going back to what you mentioned at the beginning with the base cam feature, the Slack has that         |
+| 01:09:12   | Going back to what you mentioned at the beginning with the base cam feature, the [[Slack]] has that         |
 | 01:09:16   | too, where you can say, don't send me notifications outside of these hours.                             |
 | 01:09:20   | And I've got that set up in all of my slacks.                                                           |
-| 01:09:23   | And actually on my iPhone and iPad, another tip for people, Slack has two applications.                 |
-| 01:09:30   | Slack EMM, which is the enterprise mode and Slack.                                                      |
+| 01:09:23   | And actually on my iPhone and iPad, another tip for people, [[Slack]] has two applications.                 |
+| 01:09:30   | [[Slack]] EMM, which is the enterprise mode and [[Slack]].                                                      |
 | 01:09:33   | So if like me, you're in lots of slacks because, you know, various development groups, for              |
-| 01:09:37   | example, may or may not use Slack for some of their core users to get feedback on things                |
+| 01:09:37   | example, may or may not use [[Slack]] for some of their core users to get feedback on things                |
 | 01:09:43   | and try things out and let certain users communicate with one another.                                  |
-| 01:09:46   | I've put those in the regular Slack application, and then the slacks that are really important          |
-| 01:09:51   | where I definitely want to just be able to whitelist Slack if I know that I need to be                  |
+| 01:09:46   | I've put those in the regular [[Slack]] application, and then the slacks that are really important          |
+| 01:09:51   | where I definitely want to just be able to whitelist [[Slack]] if I know that I need to be                  |
 | 01:09:55   | able to get all notifications from that.                                                                |
-| 01:09:58   | Then I have those in the Slack EMM app.                                                                 |
-| 01:10:01   | So for example, relays in there, as is my day job, but my day job, the Slack settings are               |
+| 01:09:58   | Then I have those in the [[Slack]] EMM app.                                                                 |
+| 01:10:01   | So for example, relays in there, as is my day job, but my day job, the [[Slack]] settings are               |
 | 01:10:06   | no notifications outside of pretty much core working hours.                                             |
 | 01:10:09   | Yeah, I'm glad you have that turned on because you and I are so far apart.                              |
 | 01:10:13   | I have ideas that I slack you and I always want to make sure I'm not like waking you                    |

@@ -787,7 +787,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 59:47      | We'll put a link to the collection straight in the show notes too. So if you just want to look at        |
 | 59:51      | the examples that already exist, like copying tags between selected tasks, like that, that exists.       |
 | 59:57      | So that's something you can download. We've got a link straight to that as well.                         |
-| 01:00:01   | Yeah, that's great. And I'll also mention that on the, we have a Slack workspace for the Omni Group      |
+| 01:00:01   | Yeah, that's great. And I'll also mention that on the, we have a [[Slack]] workspace for the Omni Group      |
 | 01:00:07   | that you can get to from omnigroup.com/Slack. And on there, there's an automation channel          |
 | 01:00:13   | where people are, you know, work, discovering the stuff, learning it, sharing ideas with each            |
 | 01:00:17   | other, bouncing ideas off each other. And if you have an idea for something you want to make,            |

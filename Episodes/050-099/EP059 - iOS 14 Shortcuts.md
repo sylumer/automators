@@ -1117,22 +1117,22 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 58:29      | signing up on one of the cheaper, I believe they recommend $3.99, $6.99 and $9.99 is the                 |
 | 58:36      | prices, but you can set your own price from $1.99 a month.                                               |
 | 58:40      | We are sponsored this week by Sidequest.                                                                 |
-| 58:43      | Sidequest is a new task tracking app for Slack that combines the reliability of traditional              |
-| 58:47      | ticketing systems and the ease of use of modern to-do apps 100% inside your Slack workspace.             |
+| 58:43      | Sidequest is a new task tracking app for [[Slack]] that combines the reliability of traditional              |
+| 58:47      | ticketing systems and the ease of use of modern to-do apps 100% inside your [[Slack]] workspace.             |
 | 58:54      | It allows your team members to create tasks in personal task inboxes or in channels so                   |
 | 58:58      | you can work on them as a team.                                                                          |
 | 59:01      | As soon as the task has been created, Sidequest turns it into a single point of truth, so                |
 | 59:05      | you always have a shared understanding of the task at hand, its history and its status.                  |
 | 59:11      | Sidequest is great for transparently managing these little tasks that simply don't seem                  |
-| 59:14      | to fit anywhere else, but it also shines when it comes to powering entire Slack base help                |
+| 59:14      | to fit anywhere else, but it also shines when it comes to powering entire [[Slack]] base help                |
 | 59:19      | this, both for larger teams or even external clients.                                                    |
 | 59:23      | Sidequest was released just a month ago, but is already loved by hundreds of teams around                |
-| 59:27      | the world, and is currently being featured as one of the top three apps in the Slack                     |
+| 59:27      | the world, and is currently being featured as one of the top three apps in the [[Slack]]                     |
 | 59:32      | app directory.                                                                                           |
 | 59:33      | If you want to use Sidequest, there's no need to install new software or setup accounts.                 |
-| 59:37      | As Sidequest lives 100% inside Slack, and as Sidequest is made in Germany, your data and                 |
+| 59:37      | As Sidequest lives 100% inside [[Slack]], and as Sidequest is made in Germany, your data and                 |
 | 59:43      | your users are fully protected by GDPR, one of the world's strictest privacy laws.                       |
-| 59:49      | Add the missing task tracker to Slack today and test Sidequest for 30 days free of charge                |
+| 59:49      | Add the missing task tracker to [[Slack]] today and test Sidequest for 30 days free of charge                |
 | 59:53      | by visiting GetSidequest.app slash Automators.                                                           |
 | 59:58      | And if you apply the promo code Automators before the end of September, Sidequest pledges                |
 | 01:00:03   | to donate 50% of your 2020 subscription fees to St. Jude.                                                |

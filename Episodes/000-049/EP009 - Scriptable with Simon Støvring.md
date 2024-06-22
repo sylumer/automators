@@ -198,13 +198,13 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 08:01      | And Anders Borum, who makes working copy, which is another great app that a lot of people                         |
 | 08:06      | listening to should probably check out if you use get it all, retweeted one of your                               |
 | 08:10      | tweets and I was like, oh, wait, you are...                                                                       |
-| 08:13      | I think you were actually checking whether or not Slack was down.                                                 |
+| 08:13      | I think you were actually checking whether or not [[Slack]] was down.                                                 |
 | 08:16      | And of course it was, but you were using [[Scriptable]] to check that [[Slack]] is down, which, I mean,               |
 | 08:22      | it's a quite a short script.                                                                                      |
 | 08:23      | It's only 20 lines and that's with all of the comments in there.                                                  |
-| 08:26      | And you're just checking the Slack status.                                                                        |
+| 08:26      | And you're just checking the [[Slack]] status.                                                                        |
 | 08:29      | So just for the people that aren't listening, that's not using an API, is it?                                     |
-| 08:34      | That's just grabbing Slack's web page, if I'm looking at this correctly?                                          |
+| 08:34      | That's just grabbing [[Slack\|Slack's]] web page, if I'm looking at this correctly?                                          |
 | 08:38      | Yeah.                                                                                                             |
 | 08:39      | That is true.                                                                                                     |
 | 08:40      | They have this status website that tells if [[Slack]] is down or not.                                                 |
@@ -214,7 +214,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 08:48      | So for people who are there going like, oh, I don't know, APIs sounds really complicated.                         |
 | 08:53      | You could literally just use this to grab a web page and display it to you, but then                              |
 | 08:57      | have that hooked into [[Siri]], which means, of course, that then you can go, hey, telephone                          |
-| 09:04      | is Slack down, and then your telephone will come back and tell you either, yes, it is                             |
+| 09:04      | is [[Slack]] down, and then your telephone will come back and tell you either, yes, it is                             |
 | 09:07      | or no, it isn't, which is quite useful if you [[Slack]], at least, to communicate frequently.                         |
 | 09:13      | But you could use it for anything.                                                                                |
 | 09:15      | Yeah.                                                                                                             |

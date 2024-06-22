@@ -449,7 +449,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 24:21      | depending, could have some colours in there button on your desk that shows I muted or                   |
 | 24:25      | I'm not muted.                                                                                         |
 | 24:27      | And then when you tap it, it toggles it.                                                               |
-| 24:29      | But if you work with Microsoft Teams and Slack and Zoom, and I don't know, maybe throwing              |
+| 24:29      | But if you work with Microsoft Teams and [[Slack]] and Zoom, and I don't know, maybe throwing              |
 | 24:34      | some WebEx and maybe even Skype still in there.                                                        |
 | 24:38      | Well, depending on which app you're in, you're going to need something different in each               |
 | 24:41      | of those apps.                                                                                         |
@@ -784,15 +784,15 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 44:20      | So like my most common alternative modes while I'm, you know, doing whatever it is that I'm            |
 | 44:25      | currently doing.                                                                                       |
 | 44:27      | And then the other buttons are, you know, for things like open up these particular files               |
-| 44:32      | that I maybe need on a regular basis at work or switch to Slack.                                       |
-| 44:38      | That's something that I'm always needing at work, like, oh, Slack's beeped, like I don't               |
+| 44:32      | that I maybe need on a regular basis at work or switch to [[Slack]].                                       |
+| 44:38      | That's something that I'm always needing at work, like, oh, [[Slack\|Slack's]] beeped, like I don't               |
 | 44:42      | need to, you know, command tab through six different applications that I've been in since              |
-| 44:45      | the last time I was in Slack, I don't need to find my mouse and move it to the dock and                |
+| 44:45      | the last time I was in [[Slack]], I don't need to find my mouse and move it to the dock and                |
 | 44:49      | open it.                                                                                               |
 | 44:50      | I don't need to command space and type SLA.                                                            |
-| 44:52      | I just press a button and open Slack.                                                                  |
+| 44:52      | I just press a button and open [[Slack]].                                                                  |
 | 44:55      | And so I have it set up for things like that.                                                          |
-| 44:58      | And then, you know, I reserve the Stream Deck for things like yes, Slack is there, but it's            |
+| 44:58      | And then, you know, I reserve the Stream Deck for things like yes, [[Slack]] is there, but it's            |
 | 45:02      | also got a calendar next to it showing me, you know, like when I need to be doing the                  |
 | 45:05      | next thing and so on.                                                                                  |
 | 45:06      | Whereas this, it kind of just shows you text in between, which is a little sad, but also               |
@@ -1086,7 +1086,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:01:39   | I'm wearing very thick slippers right now to be clear.                                                 |
 | 01:01:42   | Like they're proper sheepskin slippers and they're very fluffy ones, highly recommended.               |
 | 01:01:48   | But I can naturally navigate to that middle button and move back.                                      |
-| 01:01:55   | I do also use it in teams or Slack huddles at work.                                                    |
+| 01:01:55   | I do also use it in teams or [[Slack]] huddles at work.                                                    |
 | 01:02:01   | I've been trying to figure out the best way of handling that just because neither of those             |
 | 01:02:07   | apps are particularly scriptable.                                                                      |
 | 01:02:10   | And yeah, so I've been messing around with trigger, particularly keyboard shortcuts and                |

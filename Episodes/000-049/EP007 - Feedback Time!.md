@@ -700,13 +700,13 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 24:02      | we definitely want to talk about.                                                        |
 | 24:03      | Yes.                                                                                     |
 | 24:04      | The other thing I should mention                                                         |
-| 24:05      | with [Scriptable]() is it is free.                                                           |
+| 24:05      | with [[Scriptable]] is it is free.                                                           |
 | 24:07      | So if you're not sure about it and you think,                                            |
-| 24:09      | well, maybe I can do something with [JavaScript](),                                          |
+| 24:09      | well, maybe I can do something with [[JavaScript]],                                          |
 | 24:12      | do download it.                                                                          |
 | 24:13      | There are a bunch of sample scripts inside                                               |
 | 24:15      | that do things like camp down to midnight,                                               |
-| 24:17      | check whether or not [Slack]() is up or down,                                                |
+| 24:17      | check whether or not [[Slack]] is up or down,                                                |
 | 24:18      | usually down, all sorts of things.                                                       |
 | 24:21      | And that's a good way to get some nice examples                                          |
 | 24:25      | to get started.                                                                          |
@@ -723,7 +723,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 24:43      | Yeah, and like I said, just,                                                             |
 | 24:46      | I mean, this is just a hypothetical,                                                     |
 | 24:47      | but wouldn't be a great idea                                                             |
-| 24:48      | if Rose taught us all [JavaScript]().                                                        |
+| 24:48      | if Rose taught us all [[JavaScript]].                                                        |
 | 24:50      | I'm just saying.                                                                         |
 | 24:51      | I feel like I might be being,                                                            |
 | 24:53      | or having my arm twisted a little bit.                                                   |

@@ -92,7 +92,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:40      | it's that or pay somebody qualified to deal with it. And I don't think it's really worth                 |
 | 01:43      | it right now.                                                                                            |
 | 01:44      | Well, we've had a lot of email from listeners asking us to do a show about how to automate               |
-| 01:48      | using [[Alfred]]. And then it came up in the relay Slack recently and we're like, okay, everybody,           |
+| 01:48      | using [[Alfred]]. And then it came up in the relay [[Slack]] recently and we're like, okay, everybody,           |
 | 01:53      | we're going to do [[Alfred]]. So [[Alfred]] is a Mac based launcher application. We actually                     |
 | 01:59      | talked about launcher apps on episode 497, I think of Mac power users. I'll put a link                   |
 | 02:05      | in the show notes. And we talked about, you know, [[LaunchBar]] and [[Alfred]] and several and                   |
@@ -511,7 +511,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 39:48      | you can have collections of snippets. And this is basically folders of snippets.                         |
 | 39:53      | And so you can toggle each one on and off. So I have the emoji pack. It's actually disabled.             |
 | 39:59      | And the reason for that is, and I've put a link to this in the show notes for people,                    |
-| 40:03      | I'm using an application called Rocket, which is free. And it works the same way typing in Slack         |
+| 40:03      | I'm using an application called Rocket, which is free. And it works the same way typing in [[Slack]]         |
 | 40:09      | and Discord stuff does. So if you're in the Relay FM Discord, and you're used to typing colon,          |
 | 40:13      | I don't know, thumb, and then it comes up with thumbs up and thumbs down, and you select the             |
 | 40:18      | right one. Rocket does exactly that. And you can disable it on a per app basis,                          |
@@ -882,8 +882,8 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:14:43   | to use, I would rather just remote in something with Jump Desktop and run my Mac remotely. But           |
 | 01:14:50   | what it is useful for is just the other night, my studio now is downstairs because of the pandemic.      |
 | 01:14:57   | I had to move out of a bedroom and I happened to leave the speakers on. My computer has external         |
-| 01:15:04   | speakers and I was upstairs in bed and somebody was talking on Slack. All I could hear was the           |
-| 01:15:11   | Slack noises. I didn't have any device with me. And I was thinking, it's going to be bugging             |
+| 01:15:04   | speakers and I was upstairs in bed and somebody was talking on [[Slack]]. All I could hear was the           |
+| 01:15:11   | [[Slack]] noises. I didn't have any device with me. And I was thinking, it's going to be bugging             |
 | 01:15:16   | everybody in the house. So, I went downstairs and fixed it. But I could have just, if I had this         |
 | 01:15:21   | installed at the time, I could have muted my computer. It would be that easy. Or sleep the               |
 | 01:15:26   | screen. I think it's useful for the system stuff. I don't think I will go very far down the              |

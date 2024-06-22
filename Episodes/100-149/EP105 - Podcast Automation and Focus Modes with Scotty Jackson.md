@@ -311,7 +311,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 18:42      | Do people call each other? I hope that no one ever calls me ever. Pretty much never.                    |
 | 18:48      | If the phone rings, it's probably either telemarketing or my mom.                                       |
 | 18:51      | Like, so a phone ringing in general is kind of off putting now in this year 2022.                       |
-| 19:00      | I mean, at work, we use huddles on Slack with each other. And so you can just click on somebody         |
+| 19:00      | I mean, at work, we use huddles on [[Slack]] with each other. And so you can just click on somebody         |
 | 19:06      | and then hop into a huddle. But it doesn't do a ring sound. When you phone somebody and it goes         |
 | 19:11      | ring, ring, that sort of thing, it just goes and notifies somebody that somebody wants to huddle        |
 | 19:16      | with you. And they pop up in the bottom left. But it's also really easy to ignore if you're             |
@@ -319,13 +319,13 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 19:27      | you're totally absorbed into something else. But I've apologised for the few times that's happened      |
 | 19:31      | and everyone was fine with it. They know that if it was urgent, then team still has the function        |
 | 19:36      | where if you call somebody, it rings like a telephone. It scares everybody back to the Dark Ages.       |
-| 19:41      | I was wondering if the Slack one is by design so that you can kind of ignore it. And that way,          |
+| 19:41      | I was wondering if the [[Slack]] one is by design so that you can kind of ignore it. And that way,          |
 | 19:46      | if you really need someone, you can be like, hey, can you join the huddle? Please, we need you.         |
-| 19:52      | Yeah, because Slack has calls and huddles. And they're two separate concepts that                       |
+| 19:52      | Yeah, because [[Slack]] has calls and huddles. And they're two separate concepts that                       |
 | 19:58      | they're very similar, but a call can have video. A huddle can't have video. It can have                 |
 | 20:02      | screen sharing, but no video. And a call, however, will ring like a regular sort of phone type thing    |
 | 20:11      | like FaceTime or whatever. They're adding it. By the time you listen to this, there may be video        |
-| 20:15      | in huddles and Slack. I saw some announcements. I mean, I'm fine with them adding video, but            |
+| 20:15      | in huddles and [[Slack]]. I saw some announcements. I mean, I'm fine with them adding video, but            |
 | 20:20      | honestly, it just works as a really easy way to talk to people at work and be able to share             |
 | 20:26      | information quickly so that we can solve whatever the problem is, which often involves a little         |
 | 20:30      | bit of automation. But yeah, back to your automations with the focus modes. So this is something I've   |

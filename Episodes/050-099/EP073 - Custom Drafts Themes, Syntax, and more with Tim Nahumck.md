@@ -91,7 +91,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:22      | an automation. It's just become everyday workflow now.                                               |
 | 01:26      | Yeah. We've got a future Mac Power users episode coming out on the joy of [[Obsidian]] and kind          |
 | 01:32      | of a deep dive into it, and one of the points I made was that [[Drafts]] is a companion app              |
-| 01:37      | to [[Obsidian]], and [[Obsidian]] falls down as an electron app. [[Drafts]] picks up the Slack as                |
+| 01:37      | to [[Obsidian]], and [[Obsidian]] falls down as an electron app. [[Drafts]] picks up the slack as                |
 | 01:44      | a native app, and it's the perfect place to write text and put it in there because whatever          |
 | 01:48      | action you need, either already exists or you can build it yourself.                                 |
 | 01:53      | And I think one of the things you were saying there, Tim, about automation really is the             |
@@ -110,7 +110,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 02:50      | we spoke to you, but I'm pretty certain it was in the single digits, because [[Drafts]] 4                |
 | 02:53      | was around for a very long time, and then [[Drafts]] 5 came, and then everything just sort               |
 | 02:58      | of rollercoastered, I think is the right word to say. Greg, Greg Pierce at Agile Tortoise            |
-| 03:03      | has been doing a tremendous job, and I see you all the time in the draft slack posting               |
+| 03:03      | has been doing a tremendous job, and I see you all the time in the Drafts [[Slack]] posting               |
 | 03:09      | about things, and I always end up checking them out and just being amazed because you                |
 | 03:14      | are doing all of these great things, and it's just hard to cover in a couple of words what           |
 | 03:20      | exactly it is that you've done, because you seem to do so many things.                               |
@@ -229,7 +229,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 13:38      | Yeah, it's like we suddenly have this abundance of riches. And you've got, you've got some           |
 | 13:45      | really nice classy looking themes. And you've got some that are just, you know, kids playing         |
 | 13:50      | with matches, you know, just terrible. Yeah.                                                         |
-| 13:54      | There was a guy in the forum, not the forum, but the Slack channel. And I think his handle           |
+| 13:54      | There was a guy in the forum, not the forum, but the [[Slack]] channel. And I think his handle           |
 | 14:01      | in there is Kimono Stereo. So I don't know his name. Sorry, I apologise for that. But                |
 | 14:07      | he had a bunch of themes when this all came out. And one of them that he put out was called          |
 | 14:12      | BSOD, Blue Screen of Death. And I'm like, nope, not installing that, that brings back                |

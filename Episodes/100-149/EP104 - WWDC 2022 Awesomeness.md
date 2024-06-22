@@ -465,7 +465,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 22:29      | Try Kolide for free for 14 days free, no credit card required.                                           |
 | 22:33      | Just go to kolide.com/automators.                                                                  |
 | 22:39      | Kolide sends employees important, timely and relevant security recommendations for                       |
-| 22:43      | their Mac, Linux and Windows devices right inside of Slack.                                               |
+| 22:43      | their Mac, Linux and Windows devices right inside of [[Slack]].                                               |
 | 22:47      | It's perfect for organisations that care deeply about compliance and security, but don't                  |
 | 22:52      | want to get there by locking down devices to the point where they become unusable.                        |
 | 22:56      | Instead of frustrating your team, Kolide educates your employees about security and                      |

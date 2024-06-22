@@ -1034,7 +1034,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 59:10      | I have one screen that I call my status board.                                                         |
 | 59:14      | And on it, I've got an OmniFocus perspective that I've got, I've got a lot of stuff on                 |
 | 59:21      | the screen.                                                                                            |
-| 59:22      | I've got, I'm just thinking through it mentally now, Messages, Slack, Basecamp, Twitter, Time          |
+| 59:22      | I've got, I'm just thinking through it mentally now, Messages, [[Slack]], Basecamp, Twitter, Time          |
 | 59:30      | Tracking, Timery, and I think I've got like eight apps on a screen laid out very carefully.            |
 | 59:37      | And it's just like the right swipe for me.                                                             |
 | 59:39      | If I want to check in on that stuff, I swipe over and it's there.                                      |
@@ -1053,9 +1053,9 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:00:28   | And I use the feature from the menu bar where you can click Save Window Layout Snapshot.               |
 | 01:00:33   | I found a lot of the time Ignore Obstructed Windows is actually not what I want because                |
 | 01:00:39   | my windows somewhat overlap.                                                                           |
-| 01:00:41   | Like right now, Audio Hijack is hovering over Slack.                                                   |
-| 01:00:45   | But I still want the Slack window to be positioned right where it is.                                  |
-| 01:00:49   | And so if I untick Ignore Obstructed Windows and Slack pops up into that list along with               |
+| 01:00:41   | Like right now, Audio Hijack is hovering over [[Slack]].                                                   |
+| 01:00:45   | But I still want the [[Slack]] window to be positioned right where it is.                                  |
+| 01:00:49   | And so if I untick Ignore Obstructed Windows and [[Slack]] pops up into that list along with               |
 | 01:00:54   | a whole bunch of other apps.                                                                           |
 | 01:00:56   | And so that for me has been very useful.                                                               |
 | 01:01:00   | And also some windows just can't be resized much smaller than they are.                                |

@@ -681,7 +681,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:21      | Request, IR Blaster, which is, Flick makes an IR Blaster too that you can use to turn                 |
 | 34:27      | a point, like your TV on and off.                                                                     |
 | 34:30      | Yeah.                                                                                                 |
-| 34:31      | So LIFX, Philips Hue, Play a Sound, Slack Post, Sonos, Spotify, Zapier, VLC, Wemo, Wink.              |
+| 34:31      | So LIFX, Philips Hue, Play a Sound, [[Slack]] Post, Sonos, Spotify, Zapier, VLC, Wemo, Wink.              |
 | 34:40      | Yeah.                                                                                                 |
 | 34:41      | They've got all the major suspects covered.                                                           |
 | 34:44      | Yeah.                                                                                                 |

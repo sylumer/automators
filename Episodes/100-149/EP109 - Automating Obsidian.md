@@ -281,7 +281,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 10:02      | then somebody actually needs the same data that's in my note.                                      |
 | 10:06      | Well, it's a markdown file.                                                                        |
 | 10:08      | So I can just drag and drop the markdown file                                                      |
-| 10:10      | and to Slack and send it to them and they can read it.                                             |
+| 10:10      | and to [[Slack]] and send it to them and they can read it.                                             |
 | 10:12      | We have markdown files in our, in our code base                                                    |
 | 10:15      | and in a bunch of other places.                                                                    |
 | 10:16      | So people are familiar with them and they open them up                                             |

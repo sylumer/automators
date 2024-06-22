@@ -721,19 +721,19 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:03:28   | into that one in a future show as well. Yeah. So give me just kind of an overview since I haven't        |
 | 01:03:34   | run this one. Like give me a sample Bunch that you run and what exactly it does to your computer.        |
 | 01:03:40   | So I'm going to, I'm going to find my very, very simple one that's six lines. And the lines,             |
-| 01:03:49   | I'm going to read them to you. Line one, Slack, line three. So there's a blank line in there,            |
+| 01:03:49   | I'm going to read them to you. Line one, [[Slack]], line three. So there's a blank line in there,            |
 | 01:03:55   | Safari. The blank line isn't even necessary. I just put it in there to make it readable.                 |
 | 01:03:59   | There's a dash, two X's, and then two URLs on line five and six. And what that does is when I            |
-| 01:04:06   | trigger that Bunch, it opens Slack, it opens Safari, it closes all of the tabs in Safari,                |
+| 01:04:06   | trigger that Bunch, it opens [[Slack]], it opens Safari, it closes all of the tabs in Safari,                |
 | 01:04:12   | and then it opens those two URLs that I listed. That's, that's the simple one. That's a very             |
 | 01:04:19   | simple. I tend to do that in the morning when it's like, oh, time to start my day. Let me make sure      |
-| 01:04:24   | got Slack run in. You can do things like add snippets. So you can have all of those actions              |
+| 01:04:24   | got [[Slack]] run in. You can do things like add snippets. So you can have all of those actions              |
 | 01:04:30   | inside of a file and have another file call that file. And then on top of that, you can now add          |
-| 01:04:37   | menus to it. So where you can say, well, what Slack do I want to go to it? Maybe you just program,       |
+| 01:04:37   | menus to it. So where you can say, well, what [[Slack]] do I want to go to it? Maybe you just program,       |
 | 01:04:43   | you know, if you don't ever move your slacks around, you could say, you know, Command one is,            |
-| 01:04:48   | you know, my work Slack, Command two is the one that I have, I have where I'm in a bunch of friends      |
-| 01:04:52   | and I can say, oh, work Slack, and it'll go, okay, Slack, and I'll send the keystrokes, you know,        |
-| 01:04:57   | Command one to Slack so that it sends it to the right one. And if I want, and I guess the good           |
+| 01:04:48   | you know, my work [[Slack]], Command two is the one that I have, I have where I'm in a bunch of friends      |
+| 01:04:52   | and I can say, oh, work [[Slack]], and it'll go, okay, [[Slack]], and I'll send the keystrokes, you know,        |
+| 01:04:57   | Command one to [[Slack]] so that it sends it to the right one. And if I want, and I guess the good           |
 | 01:05:03   | example here is a podcast that I run called Bob's Tavern Cast, which don't worry about that. It's        |
 | 01:05:07   | just a silly card game. But when I trigger that, what it does is it loads up my recording snippet,       |
 | 01:05:18   | which closes Dropbox and CloudMounter, which is, you know, all the little big bandwidth consuming        |

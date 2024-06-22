@@ -895,7 +895,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:14:16   | and fiddle with a little bit.                                                                          |
 | 01:14:18   | Yeah, I mean, I created one.                                                                           |
 | 01:14:20   | There's one here, copy, plain text, and delete.                                                        |
-| 01:14:22   | Somebody asked, I believe it was in the Omni Group Slack channel                                        |
+| 01:14:22   | Somebody asked, I believe it was in the Omni Group [[Slack]] channel                                        |
 | 01:14:25   | for OmniFocus and other Omni application users.                                                        |
 | 01:14:30   | They said, you know, I just want to be able to copy a task as plain text                               |
 | 01:14:33   | and then delete it.                                                                                    |

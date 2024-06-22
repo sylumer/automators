@@ -358,7 +358,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 16:59      | So I combine them, and they're all in what I call the communicate category.                          |
 | 17:02      | So I have a simple shortcut called choose from menu.                                                 |
 | 17:06      | And in it, I've got several functions.                                                               |
-| 17:09      | There's mail, messages, Slack, discourse, Twitter, and an air mail, because I've been                |
+| 17:09      | There's mail, messages, [[Slack]], discourse, Twitter, and an air mail, because I've been                |
 | 17:16      | playing with air mail thanks to Rose.                                                                |
 | 17:17      | So I've got two mail apps in there.                                                                  |
 | 17:19      | But then all it does is it's a launcher.                                                             |

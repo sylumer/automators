@@ -165,7 +165,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 07:37      | of that as kind of like the, you know, like the drawer in your kitchen where you keep                    |
 | 07:42      | a lot of extra stuff. So I'll have at certain points of the day, I'll have communications                |
 | 07:46      | in there, but I usually keep that shut down because I don't want the distraction, but                    |
-| 07:49      | like Slack messages, base camp, whatever different areas I'm communicating with people, I can            |
+| 07:49      | like [[Slack]] messages, base camp, whatever different areas I'm communicating with people, I can            |
 | 07:56      | keep that in little windows over there. I also keep it for, because I've been experimenting              |
 | 08:03      | with Toggle, I actually use their app and keep it over there so I can see the active                     |
 | 08:07      | time track along with the timing app, which gives me better data in terms of exactly how                 |

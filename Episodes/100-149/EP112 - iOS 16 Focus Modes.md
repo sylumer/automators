@@ -1123,8 +1123,8 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:05:16   | You know, it's really just being able to get rid of the things that you don't necessarily               |
 | 01:05:22   | want coming in all the time.                                                                            |
 | 01:05:26   | And that for me, for a long time, you know, my problem has been, you know, like, I am                   |
-| 01:05:31   | happy to have my work email and work Slack on my phone, but there are times when I do                   |
-| 01:05:36   | not want to be bothered by said work email and work Slack, you know, most of the time                   |
+| 01:05:31   | happy to have my work email and work [[Slack]] on my phone, but there are times when I do                   |
+| 01:05:36   | not want to be bothered by said work email and work [[Slack]], you know, most of the time                   |
 | 01:05:40   | it's fine.                                                                                              |
 | 01:05:41   | You know, if somebody does ping me in the evening, then it's because that there's a problem.            |
 | 01:05:45   | They probably need me to be seeing this first thing in the morning, but they don't know                 |
@@ -1271,7 +1271,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:14:28   | So yeah, so that's filtered just to allow me to quickly and easily see that and make                    |
 | 01:14:34   | any notes.                                                                                              |
 | 01:14:35   | But I've just basically done it just to try and get rid of notifications from certain                   |
-| 01:14:40   | apps like the Slack for enterprise app is excluded here so that I don't get notifications               |
+| 01:14:40   | apps like the [[Slack]] for enterprise app is excluded here so that I don't get notifications               |
 | 01:14:45   | from work.                                                                                              |
 | 01:14:46   | And I've filtered my email inbox as well.                                                               |
 | 01:14:48   | So I guess I should, you can't duplicate these, but you can recreate them and I should                  |

@@ -460,7 +460,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 17:16      | Try Kolide for 14 days free, no credit card required.            |
 | 17:20      | Kolide sends employees important, timely                         |
 | 17:22      | and relevant security recommendations for their Mac,              |
-| 17:25      | Linux and Windows devices right inside of Slack.                  |
+| 17:25      | Linux and Windows devices right inside of [[Slack]].                  |
 | 17:29      | It's perfect for organisations that care deeply                   |
 | 17:32      | about compliance and security,                                    |
 | 17:34      | but don't want to get there by locking down devices               |

@@ -870,7 +870,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 38:41      | and somebody will find something                                     |
 | 38:42      | that's completely broken in it.                                      |
 | 38:44      | And they'll be working on the fix                                    |
-| 38:46      | and they'll post it in a Slack or send a message                     |
+| 38:46      | and they'll post it in a [[Slack]] or send a message                     |
 | 38:49      | or an email saying, like, don't update, like pause.                  |
 | 38:52      | And for some reason, they can't pull it.                             |
 | 38:54      | So it's good that you have to manually go in and update.             |

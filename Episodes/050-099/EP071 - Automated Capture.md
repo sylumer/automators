@@ -866,7 +866,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 55:40      | I want to talk about a different area of capture that I think deserves special, you know, consideration. |
 | 55:49      | And that's capturing communications, you know, there's an issue, a challenge I have, frankly,            |
 | 55:56      | with capture, and that is other humans, right?                                                           |
-| 55:59      | They email me, they text message me, they drop me notes in Slack, and there's all these                  |
+| 55:59      | They email me, they text message me, they drop me notes in [[Slack]], and there's all these                  |
 | 56:05      | places that you communicate with other humans that results in a lot of times action related              |
 | 56:11      | capture, sometimes reference related, but usually action.                                                |
 | 56:15      | And how do you reliably capture that and put it into your system with the minimum amount                 |
@@ -947,16 +947,16 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:01:20   | Um, it is the closest thing to immediate communications.                                                 |
 | 01:01:24   | You can ignore a text, but you know, when it's the people that are paying for your shoes,                |
 | 01:01:28   | it's hard to do that for a long time.                                                                    |
-| 01:01:31   | A related, but easier problem for me are Slack and Slack like services.                                  |
-| 01:01:37   | Um, and the reason that's easier for me is because check Slack is I do it once in the                    |
+| 01:01:31   | A related, but easier problem for me are [[Slack]] and [[Slack]] like services.                                  |
+| 01:01:37   | Um, and the reason that's easier for me is because check [[Slack]] is I do it once in the                    |
 | 01:01:43   | morning and once in the evening.                                                                         |
 | 01:01:45   | I don't keep it open all day.                                                                            |
 | 01:01:47   | Yeah.                                                                                                    |
 | 01:01:48   | So it's not a thing that, you know, where tasks pass through.                                            |
 | 01:01:51   | And so when I do the shutdown at the end of the day, I check communications, I check email,              |
-| 01:01:56   | I check, I clear out text messages and I clear out Slack.                                                |
+| 01:01:56   | I check, I clear out text messages and I clear out [[Slack]].                                                |
 | 01:01:59   | And, and if there's something in there, if Rose says, Hey, I need you to help me out                     |
-| 01:02:03   | with this ad or, you know, we're going to plan the next episode of automators and Slack.                 |
+| 01:02:03   | with this ad or, you know, we're going to plan the next episode of automators and [[Slack]].                 |
 | 01:02:08   | Um, I can easily convert that to an action item because I'm sitting on my computer and                   |
 | 01:02:13   | I can grab the text.                                                                                     |
 | 01:02:14   | I can, there's a lot of ways I can automate it, but, but it's just the immediacy of those                |
@@ -1192,10 +1192,10 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:16:42   | Well, it's messaging me too.                                                                             |
 | 01:16:44   | So one of the things that I wanted to solve is whenever I have an idea for an automator                  |
 | 01:16:49   | show, I feel like I should be sharing that with you, but I should be sharing that with                   |
-| 01:16:55   | you in an appropriate manner, which means that I should share it through Slack.                          |
-| 01:16:59   | Obviously, I could message you or I could email you about it, but I figured Slack is                     |
-| 01:17:03   | a good place for realy.fm business because we have a realy.fm Slack.                                     |
-| 01:17:08   | And unfortunately, Slack on iOS is not super-automatable, but we have an air table for all of our show   |
+| 01:16:55   | you in an appropriate manner, which means that I should share it through [[Slack]].                          |
+| 01:16:59   | Obviously, I could message you or I could email you about it, but I figured [[Slack]] is                     |
+| 01:17:03   | a good place for realy.fm business because we have a realy.fm [[Slack]].                                     |
+| 01:17:08   | And unfortunately, [[Slack]] on iOS is not super-automatable, but we have an air table for all of our show   |
 | 01:17:17   | planning, basically.                                                                                     |
 | 01:17:18   | And we have tables for guests, we have tables for shows, we have host overviews, we've got               |
 | 01:17:23   | episodes and stuff like that.                                                                            |
@@ -1216,10 +1216,10 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:18:24   | But what I did was I can put things in air table with shortcuts using the get contents                   |
 | 01:18:29   | of URL, but that means that I'm putting it in air table and that is using my API key                     |
 | 01:18:38   | and everything else.                                                                                     |
-| 01:18:39   | And then I still have to fire something off to ping you through Slack.                                   |
-| 01:18:43   | Now Slack does have an API and you can get API keys for it depending on how people have                  |
+| 01:18:39   | And then I still have to fire something off to ping you through [[Slack]].                                   |
+| 01:18:43   | Now [[Slack]] does have an API and you can get API keys for it depending on how people have                  |
 | 01:18:47   | set up the bases.                                                                                        |
-| 01:18:48   | But Integromat has API integration, a Slack API, and so it can talk to Slack for you,                    |
+| 01:18:48   | But Integromat has API integration, a [[Slack]] API, and so it can talk to [[Slack]] for you,                    |
 | 01:18:55   | which means I didn't have to figure out any of that.                                                     |
 | 01:18:57   | So I created a three step scenario in Integromat.                                                        |
 | 01:19:02   | First of all, it's got a web hook.                                                                       |
@@ -1228,7 +1228,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:19:09   | That's fine.                                                                                             |
 | 01:19:10   | And then it takes that, it creates an air table record using the idea, the note, and                     |
 | 01:19:17   | it puts in for space idea in the status every single time.                                               |
-| 01:19:21   | And then it posts in our Slack to say, hey, there is a new show idea.                                    |
+| 01:19:21   | And then it posts in our [[Slack]] to say, hey, there is a new show idea.                                    |
 | 01:19:27   | And then it just puts the name of the idea.                                                              |
 | 01:19:29   | Now I would like to add a link to our air table view so that you can easily see that.                    |
 | 01:19:36   | But I'll figure that out at some point.                                                                  |

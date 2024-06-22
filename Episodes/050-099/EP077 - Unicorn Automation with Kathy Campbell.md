@@ -856,7 +856,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 01:21:44   | really excited uh to see how it can make me even more magical there you go there unicorns all use         |
 | 01:21:52   | [[Hazel]] so you need to get on that train I'm on it I'm on it I uh clearly I'm not going to search           |
 | 01:21:59   | for it now because I have a clicky keyboard that will make poor jam have to edit things out and I         |
-| 01:22:07   | don't want to do that but it's on the list as soon as I tackle the seven Slack messages the 21 emails     |
+| 01:22:07   | don't want to do that but it's on the list as soon as I tackle the seven [[Slack]] messages the 21 emails     |
 | 01:22:14   | the four uh text messages and the three Facebook messenger messages too all right so Kathy where          |
 | 01:22:22   | do people find you on the internet yeah you can find me uh any social media you will find me at           |
 | 01:22:29   | mrs.soup um you can also go to kathycampbell.com which will take you out to links to all of the             |

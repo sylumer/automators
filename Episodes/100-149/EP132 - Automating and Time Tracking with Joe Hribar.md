@@ -422,7 +422,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 27:39      | be a hang up or is it just people just aren't bothering?                                             |
 | 27:43      | I think the resources are useful and are sufficient. I've managed to look through the documentation  |
 | 27:51      | and figure out what I need to be doing for this stuff. I think they periodically have                |
-| 28:00      | Slack Q&As for developers. I think those have been extremely helpful to be able to ask for           |
+| 28:00      | [[Slack]] Q&As for developers. I think those have been extremely helpful to be able to ask for           |
 | 28:07      | developers to be able to ask people directly on the teams questions. That's been very                |
 | 28:13      | helpful.                                                                                             |
 | 28:14      | Yeah, because I get the impression the shortcuts team is all in. These guys and gals, they want      |

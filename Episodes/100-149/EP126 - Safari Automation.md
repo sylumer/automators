@@ -689,7 +689,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 38:25      | automation, or is this a, it uses a Mac automation, because it's a Safari extension for an app     |
 | 38:34      | that you can install on your Mac, which is Choosy.                                                 |
 | 38:36      | Now, Choosy lets you say, okay, whenever I open this kind of link, so whenever I open              |
-| 38:42      | a link from the Slack app, I want it to open in this browser.                                      |
+| 38:42      | a link from the [[Slack]] app, I want it to open in this browser.                                      |
 | 38:47      | Whenever I open a link containing relay.fm, I want it to open in Safari, whatever it is.           |
 | 38:53      | But Choosy also has a Safari extension and Firefox extension and Chrome extension, etc.            |
 | 39:00      | Because then what I can do is I can say, hey, this page that I'm on, open it in this browser       |

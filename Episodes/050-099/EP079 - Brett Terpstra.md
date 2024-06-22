@@ -715,7 +715,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 39:27      | There's a skeleton version of it on the sample page, but it basically, it does a lot of what         |
 | 39:35      | Rose was talking about.                                                                              |
 | 39:36      | It quits some apps.                                                                                  |
-| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, Slack, Discord, Twitter,        |
+| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, [[Slack]], Discord, Twitter,        |
 | 39:47      | like, and so those all the exact same thing.                                                         |
 | 39:50      | Yeah.                                                                                                |
 | 39:51      | And those launch and quit as a group.                                                                |

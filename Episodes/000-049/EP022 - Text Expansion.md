@@ -1492,7 +1492,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:03:42   | Yeah, or at least I used to.                                                             |
 | 01:03:44   | So I used to do colon and then whatever name sort of applied                             |
 | 01:03:48   | to the emoji followed by another colon,                                                  |
-| 01:03:50   | just like cap you have in Slack and things like that.                                    |
+| 01:03:50   | just like cap you have in [[Slack]] and things like that.                                    |
 | 01:03:53   | But there's actually a really nice app for this now called Rocket.                       |
 | 01:03:56   | And you mentioned this on, I think, the menu bar episode of my power users.              |
 | 01:04:00   | But I'm sure we've got some listeners                                                    |

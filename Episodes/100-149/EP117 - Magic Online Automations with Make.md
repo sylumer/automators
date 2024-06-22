@@ -623,21 +623,21 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 32:59      | for the labs or written a newsletter or anything that's going to get published out of the Max             |
 | 33:04      | Sparky verse, sometimes I have people proofread it or do a, check the audio or whatever.                  |
 | 33:13      | So I've got this little error table I create.                                                             |
-| 33:15      | And what I'd like to do, we also have a Slack we share for the team is I'd like to say when               |
-| 33:20      | I add a new entry, you know, that meets certain qualifications that it will create a Slack                |
-| 33:26      | thread on a certain Slack channel saying, Oh, here's a thing.                                             |
+| 33:15      | And what I'd like to do, we also have a [[Slack]] we share for the team is I'd like to say when               |
+| 33:20      | I add a new entry, you know, that meets certain qualifications that it will create a [[Slack]]                |
+| 33:26      | thread on a certain [[Slack]] channel saying, Oh, here's a thing.                                             |
 | 33:31      | And then that way we've got a unified thread we can use.                                                  |
 | 33:35      | And then I don't have to go and manually do it every time, at least that's a thought                      |
 | 33:39      | I had.                                                                                                    |
-| 33:40      | So going to make what I've done is I've connected two services, Slack and error table, which              |
+| 33:40      | So going to make what I've done is I've connected two services, [[Slack]] and error table, which              |
 | 33:47      | is easy enough to do.                                                                                     |
 | 33:49      | And I did not find a template for something like this, obviously.                                         |
 | 33:52      | So I went to the scenarios page and just hit the plus button.                                             |
 | 33:56      | All right.                                                                                                |
 | 33:57      | So you could run this either way.                                                                         |
-| 33:59      | We could say, well, when I make a Slack, when I make a Slack entry, create the error table                |
-| 34:03      | or when I create the error table with the Slack, in my mind, I think I would start with the               |
-| 34:07      | error table and then have it automatically create the Slack.                                              |
+| 33:59      | We could say, well, when I make a [[Slack]], when I make a [[Slack]] entry, create the error table                |
+| 34:03      | or when I create the error table with the [[Slack]], in my mind, I think I would start with the               |
+| 34:07      | error table and then have it automatically create the [[Slack]].                                              |
 | 34:10      | Yes.                                                                                                      |
 | 34:11      | One thing I'm going to pause you on a moment is in error table, you are going to need to                  |
 | 34:16      | create a new column.                                                                                      |
@@ -668,9 +668,9 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 35:50      | And then from there, you can continue onwards with the next action.                                       |
 | 35:57      | So once you have your module, you can click on the plus, and then you can select from,                    |
 | 36:03      | in your case, it will be error table and select showing up, or instead you could just click               |
-| 36:07      | at the bottom on Slack and look for the option and then go from there.                                    |
+| 36:07      | at the bottom on [[Slack]] and look for the option and then go from there.                                    |
 | 36:12      | I've clicked on just a little plus next to the error table action.                                        |
-| 36:21      | And I'm just adding Slack because I don't actually have Slack set up because I'm oddly                    |
+| 36:21      | And I'm just adding [[Slack]] because I don't actually have [[Slack]] set up because I'm oddly                    |
 | 36:25      | enough not using that for any of my automations.                                                          |
 | 36:28      | So I do have one on my list to create.                                                                    |
 | 36:31      | But there should be a simple post chat message one there, which will then do exactly what                 |
@@ -693,22 +693,22 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 37:39      | and it's a formula and sticks all three of those together.                                                |
 | 37:43      | But so it's whatever you want the name of your irritable record to be when you take                       |
 | 37:51      | it over to that.                                                                                          |
-| 37:52      | And then you take that and then so then you can take that data and you can connect Slack.                 |
+| 37:52      | And then you take that and then so then you can take that data and you can connect [[Slack]].                 |
 | 37:57      | So I guess at that point I have everything I need for the trigger, right?                                 |
 | 38:00      | We're looking at an air table based on the created date.                                                  |
 | 38:02      | Yeah, exactly.                                                                                            |
-| 38:03      | And so then you need Slack.                                                                               |
-| 38:06      | So you can just take, open the Slack service and then the action that you're looking for                  |
+| 38:03      | And so then you need [[Slack]].                                                                               |
+| 38:06      | So you can just take, open the [[Slack]] service and then the action that you're looking for                  |
 | 38:13      | is create a public channel message probably.                                                              |
-| 38:16      | Depends on how you have Slack configured as to if it's public or private, but it's probably               |
+| 38:16      | Depends on how you have [[Slack]] configured as to if it's public or private, but it's probably               |
 | 38:21      | going to be public in most cases.                                                                         |
 | 38:25      | And yeah, and then you should be able to hook this all up to select the data in the fields.               |
-| 38:33      | I am just attempting to connect Slack because I don't actually have Slack set up here.                    |
+| 38:33      | I am just attempting to connect [[Slack]] because I don't actually have [[Slack]] set up here.                    |
 | 38:39      | Really?                                                                                                   |
-| 38:40      | I would think you had been using Slack with Make.                                                         |
+| 38:40      | I would think you had been using [[Slack]] with Make.                                                         |
 | 38:43      | It seems like so obvious.                                                                                 |
-| 38:44      | No, because I don't have any Slack that I personally need to publish to.                                  |
-| 38:51      | And the Slack service that I wanted to use as a test unfortunately can't actually have                    |
+| 38:44      | No, because I don't have any [[Slack]] that I personally need to publish to.                                  |
+| 38:51      | And the [[Slack]] service that I wanted to use as a test unfortunately can't actually have                    |
 | 38:58      | any more integrations.                                                                                    |
 | 38:59      | So I need to look for a different one.                                                                    |
 | 39:03      | Okay, but I can just kind of walk you through that part because I've got to connect on my                 |
@@ -723,7 +723,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 39:25      | And then you can go further.                                                                              |
 | 39:26      | They have like an option called blocks.                                                                   |
 | 39:29      | You can make it an interactive message and you can do more with it if you want.                           |
-| 39:33      | But for my purposes, I just want a basic way to send a message to Slack when I create a                   |
+| 39:33      | But for my purposes, I just want a basic way to send a message to [[Slack]] when I create a                   |
 | 39:38      | new record.                                                                                               |
 | 39:40      | And the thing that I was missing, Rose, was the create time.                                              |
 | 39:44      | That's what was messing me up.                                                                            |
@@ -815,7 +815,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 44:24      | beginning of December for the holidays and then turning it off at the beginning of January.               |
 | 44:28      | Now you can just take the December box and be done with it.                                               |
 | 44:31      | Hey, here's a dumb question if I want to.                                                                 |
-| 44:33      | So on this one that I said with the air table and Slack, I said it on a timing hook, but                  |
+| 44:33      | So on this one that I said with the air table and [[Slack]], I said it on a timing hook, but                  |
 | 44:38      | I said earlier, a web hook might be the way to do this.                                                   |
 | 44:41      | How do you add a second trigger or an optional trigger?                                                   |
 | 44:44      | So you don't have more than one trigger for an automation or scenario in make.                            |

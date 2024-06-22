@@ -1013,7 +1013,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:05:53   | Possibly a life lesson to be learned there of maybe not getting quite so deep into these                 |
 | 01:06:00   | things that you lose four hours of your day.                                                             |
 | 01:06:02   | But it's really intriguing to see all of the options.                                                    |
-| 01:06:06   | And I'm seeing a lot of people, there's an Omni Group have a Slack and they have an automation            |
+| 01:06:06   | And I'm seeing a lot of people, there's an Omni Group have a [[Slack]] and they have an automation            |
 | 01:06:10   | channel in there.                                                                                        |
 | 01:06:11   | And I'm seeing a lot of people doing some really interesting things with Omni Automation                  |
 | 01:06:14   | as well, which is really nice.                                                                           |
@@ -1200,7 +1200,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:19:35   | And Sal, we're going to put links to all your websites.                                                  |
 | 01:19:38   | That's where people go if they want to see what you're up to, right?                                     |
 | 01:19:40   | Is there anywhere else we should point people?                                                           |
-| 01:19:43   | Well, like Rose mentioned, I'm spending a lot of time on the Omni Slack channel and the                  |
+| 01:19:43   | Well, like Rose mentioned, I'm spending a lot of time on the Omni [[Slack]] channel and the                  |
 | 01:19:50   | Omni boards, and I just love working with Omni automation stuff, so you can find me                      |
 | 01:19:56   | there more than anywhere else right now.                                                                 |
 | 01:20:00   | We are the Automators.                                                                                   |

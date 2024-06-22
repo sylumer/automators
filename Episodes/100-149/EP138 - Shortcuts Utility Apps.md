@@ -1253,7 +1253,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:15:33   | Like he added support for a couple of other things based on my request, which was so appreciated.    |
 | 01:15:38   | Because Teams didn't work really well to start with, and he did a whole bunch of work to             |
 | 01:15:42   | make Teams work for me, which I really appreciate.                                                   |
-| 01:15:45   | And then work switch to Slack, and now we switch back to Teams, so it works again.                   |
+| 01:15:45   | And then work switch to [[Slack]], and now we switch back to Teams, so it works again.                   |
 | 01:15:50   | So yeah, I highly recommend it.                                                                      |
 | 01:15:52   | HomeBot will let you like create [[URL Schemes]] for HomeKit stuff, so you can use it from               |
 | 01:15:57   | your Stream Deck.                                                                                    |

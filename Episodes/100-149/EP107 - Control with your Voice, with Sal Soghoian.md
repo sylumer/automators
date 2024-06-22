@@ -1511,8 +1511,8 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:35:56   | it is.                                                                                               |
 | 01:35:57   | And now they're writing loads of great things.                                                       |
 | 01:36:00   | One person who springs to mind is Kaitlin, Kaitlin Salzke, I believe, from the Omni Group             |
-| 01:36:06   | Slack.                                                                                               |
-| 01:36:07   | There's a public Omni Group Slack folks.                                                             |
+| 01:36:06   | [[Slack]].                                                                                               |
+| 01:36:07   | There's a public Omni Group [[Slack]] folks.                                                             |
 | 01:36:09   | If you're an Omni, whatever it is, user, focus, grapple, outliner, plan, and there's                 |
 | 01:36:14   | an automation channel in there.                                                                      |
 | 01:36:16   | And Caitlyn's posted a lot of great examples, along with quite a few other folks, which              |

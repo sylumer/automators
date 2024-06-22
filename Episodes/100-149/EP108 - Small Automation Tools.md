@@ -1190,7 +1190,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 49:01      | for ages, but I find Safari is so performant on my Mac and          |
 | 49:06      | great at not eating my battery life.                                |
 | 49:08      | You know, the fastest way to run down a Mac's battery is to         |
-| 49:10      | open Chrome, probably with Slack or something.                      |
+| 49:10      | open Chrome, probably with [[Slack]] or something.                      |
 | 49:14      | And then, you know, what is battery life?                           |
 | 49:17      | But Safari has for a while been, you know, it kind of               |
 | 49:22      | struggled with extensions.                                          |

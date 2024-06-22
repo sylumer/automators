@@ -649,7 +649,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 55:48      | I recommend TextExpander to anybody who types a lot and reuses elements of their text, especially                                            |
 | 55:55      | if they share it with others. It can help you with everything from project management                                                          |
 | 55:59      | to simple email.                                                                                                                               |
-| 56:02      | You can use your snippets anywhere you type, Slack, Trello, Google Docs, email, web browsers,                                                  |
+| 56:02      | You can use your snippets anywhere you type, [[Slack]], Trello, Google Docs, email, web browsers,                                                  |
 | 56:08      | any place you frequently type the same things. And TextExpander for Teams makes it easy                                                      |
 | 56:13      | to manage and share snippets across your entire company.                                                                                       |
 | 56:17      | TextExpander is available for Mac, Windows, Chrome, iPhone and iPad, and automated listeners                                                 |

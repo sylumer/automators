@@ -191,7 +191,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 07:17      | And I've been part of a team doing that for over a decade now.                                         |
 | 07:22      | And one of the things that I sort of set myself to do a few years back was redo some of our            |
 | 07:26      | behind-the-scenes like tools because we had these giant Google spreadsheets where we'd                 |
-| 07:31      | store information and we wanted to be able to like have, you know, Slack channels to                   |
+| 07:31      | store information and we wanted to be able to like have, you know, [[Slack]] channels to                   |
 | 07:36      | work on things and Google documents spawned every time there was a new puzzle we wanted                |
 | 07:40      | to work on.                                                                                            |
 | 07:41      | And we had a system to do it, but it was a little clunky and I discovered a service                    |
@@ -584,7 +584,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 28:22      | of the idea of just spinning up Discord channels for things as stuff goes through an automation        |
 | 28:28      | that's not necessarily something that most people would need to do, but I can see the                  |
 | 28:32      | same sort of thing being applicable to other stuff.                                                    |
-| 28:36      | For example, if a project starts at work, then you might want to kick off a Slack channel              |
+| 28:36      | For example, if a project starts at work, then you might want to kick off a [[Slack]] channel              |
 | 28:40      | for a really big thing so that people can then have all the chat in one place, and you've              |
 | 28:46      | got a kind of archive of that, which is really interesting.                                            |
 | 28:49      | Yeah, I've been doing a lot with also automating stuff, so over at Six Colours, Jason, Stella           |
@@ -592,25 +592,25 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 28:59      | We have some other stuff that we had been working on automating for that, and also for                 |
 | 29:04      | some of the podcast stuff that we do over at the incomparable, and in some of those cases,             |
 | 29:08      | it was relatively simple ideas like, hey, we've got a calendar of events, and we want                  |
-| 29:13      | to be able to automate having that, if there are upcoming events, post them in our Slack               |
+| 29:13      | to be able to automate having that, if there are upcoming events, post them in our [[Slack]]               |
 | 29:21      | channel or something.                                                                                  |
-| 29:22      | It's like, yeah, there's built-in stuff for Slack that will let you do some of these things,           |
+| 29:22      | It's like, yeah, there's built-in stuff for [[Slack]] that will let you do some of these things,           |
 | 29:25      | but oftentimes your customisation is limited, like what your parameters can be, and how                |
-| 29:31      | it works can be very limited in terms of how Slack is implemented at a certain API.                    |
+| 29:31      | it works can be very limited in terms of how [[Slack]] is implemented at a certain API.                    |
 | 29:36      | But you have the ability with these tools to sort of say, you know what, let's build                   |
 | 29:40      | our own tool that sort of has the full range of the API options available to us.                       |
 | 29:46      | So we can do stuff, and we can do stuff that's not allowed by that.                                    |
 | 29:50      | For example, one of the big things that we wanted was setting up a way so that when we                 |
-| 29:54      | posted a story, it got posted in both Slack channel for our member Slack as well as on                 |
+| 29:54      | posted a story, it got posted in both [[Slack]] channel for our member [[Slack]] as well as on                 |
 | 30:01      | Twitter.                                                                                               |
 | 30:02      | And now you're going across services in a way that's like, well, okay, but how is your                 |
-| 30:07      | Twitter account going to know when a post goes up, and then how is your Slack account                  |
+| 30:07      | Twitter account going to know when a post goes up, and then how is your [[Slack]] account                  |
 | 30:11      | going to know when a post goes up?                                                                     |
 | 30:12      | And some of these things could be done separately, like using, say, RSS or something like that,        |
 | 30:17      | but we noticed that it was very slow because of the way that the RSS stuff would grow up.              |
 | 30:21      | And so we basically set up a system whereby we've got just a very simple workflow that                 |
 | 30:27      | says essentially when something is posted on the WordPress blog, it hits a web hook,                   |
-| 30:33      | and that basically sends messages to Slack and Twitter, and it's instantaneous, which                  |
+| 30:33      | and that basically sends messages to [[Slack]] and Twitter, and it's instantaneous, which                  |
 | 30:37      | is wild.                                                                                               |
 | 30:39      | So yeah, the discovery of web hooks for me was something, and I don't know how many                    |
 | 30:43      | people are familiar with them, but basically they're URLs you can hit to say, hey, this                |
@@ -623,14 +623,14 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 31:12      | this really obscure URL that's got 200 odd random characters and plus a domain, then                   |
 | 31:19      | it's going to go do the thing or you can have ones with authentication and stuff.                      |
 | 31:23      | And I think it's something else you said, Dan, you could have had separate automations.                |
-| 31:27      | You could have had one automation for the Slack channel, one automation for Twitter.                   |
+| 31:27      | You could have had one automation for the [[Slack]] channel, one automation for Twitter.                   |
 | 31:30      | But the problem with that is then if something goes wrong, there's only one of them break              |
 | 31:35      | or do you need to go and fix both of them if there's a change to something in the back                 |
 | 31:39      | end?                                                                                                   |
 | 31:40      | And this is why I like the idea of having online platforms personally for doing things                 |
 | 31:44      | like this because this way I have unity between things.                                                |
 | 31:47      | I don't have to have a WordPress plugin for posting to Twitter and a WordPress plugin                  |
-| 31:51      | for posting to Slack.                                                                                  |
+| 31:51      | for posting to [[Slack]].                                                                                  |
 | 31:52      | And then something else comes along, a great new social media platform, and I don't have               |
 | 31:56      | to wait for somebody to create a WordPress plugin for that or try and create one myself                |
 | 32:02      | or create somebody to create it.                                                                       |

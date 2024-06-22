@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview
-Zapier is a web-based automation platform that connects your services such as Gmail, Slack, Mailchimp, and over 3,000 more, to streamline and automate workflows. By creating "Zaps", users can set up triggers and actions across different web apps making it quick and easy to transfer data, automate repetitive tasks, and improve productivity.
+Zapier is a web-based automation platform that connects your services such as Gmail, [[Slack]], Mailchimp, and over 3,000 more, to streamline and automate workflows. By creating "Zaps", users can set up triggers and actions across different web apps making it quick and easy to transfer data, automate repetitive tasks, and improve productivity.
 
 The service operates with a freemium model that offers only a small number of zaps (automation workflows), with a range of paid for levels offering features such as multiple steps in a zap, more zaps, more frequent updates, additional platform/app integrations, auto replays, version history, team workspaces, and conditional logic.
 

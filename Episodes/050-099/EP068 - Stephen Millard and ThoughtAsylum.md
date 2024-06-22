@@ -556,7 +556,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 40:58      | of [[Drafts]] recommended in an action group, which I'm not sure the developer necessarily                   |
 | 41:03      | knew of. But I spotted something at some point, where you split things up from one action                |
 | 41:09      | group to six action groups. And when there's got to be a good reason behind this, and then               |
-| 41:14      | I can't remember if I saw it in in the [[Drafts]] Slack or somewhere else where [[Greg Pierce\|Greg]] had said,               |
+| 41:14      | I can't remember if I saw it in in the [[Drafts]] [[Slack]] or somewhere else where [[Greg Pierce\|Greg]] had said,               |
 | 41:20      | you know, there are quite a few actions here, maybe we should split this up so that we don't             |
 | 41:23      | run into a limit issue.                                                                                  |
 | 41:26      | Yeah, it was [[Greg Pierce\|Greg]] actually contacted me on [Twitter](). And it seemed like a joke if I say                   |
