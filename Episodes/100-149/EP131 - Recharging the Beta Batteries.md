@@ -140,9 +140,9 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 05:20      | They're pretty good about sorting it out, and you can get it through Amazon.                            |
 | 05:25      | They tend not necessarily to have the best in class of things, but they're also pretty                  |
 | 05:29      | quick onto the market.                                                                                  |
-| 05:31      | So whenever, for example, the MagSafe stuff came out, they came out with their MagGo line               |
-| 05:37      | very quickly after MagSafe launched.                                                                    |
-| 05:40      | So you didn't have to buy Apple's MagSafe battery pack, you could buy the Anker MagGo,                  |
+| 05:31      | So whenever, for example, the [[MagSafe]] stuff came out, they came out with their MagGo line               |
+| 05:37      | very quickly after [[MagSafe]] launched.                                                                    |
+| 05:40      | So you didn't have to buy Apple's [[MagSafe]] battery pack, you could buy the Anker MagGo,                  |
 | 05:44      | which is something like three times the capacity and only slightly larger.                              |
 | 05:50      | And so, yeah, I personally think the Anker is great.                                                    |
 | 05:53      | I also like the fact that they do different colour options and so on, which is just nice                 |
@@ -200,7 +200,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 09:56      | really sucks down the battery.                                                                          |
 | 09:58      | Yeah, it does, and just like things are sucking down the battery, the devices are also heating          |
 | 10:03      | up as well.                                                                                             |
-| 10:04      | I've been taking advantage of my Razer Chroma Cooler, so it's a little sort of MagSafe fan              |
+| 10:04      | I've been taking advantage of my Razer Chroma Cooler, so it's a little sort of [[MagSafe]] fan              |
 | 10:11      | that you can stick on the back of your phone, it doesn't charge it, it's just a fan, but                |
 | 10:15      | it essentially cools your phone down, and I've definitely been taking advantage of that                 |
 | 10:20      | to be able to actually cool my phone down so that then it's not been super hot, especially              |

@@ -107,7 +107,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 02:48      | It's hard on me.                                                                                          |
 | 02:49      | But at the same time, I did have a little issue with my iPhone overheating at one point,                  |
 | 02:55      | but I think that was also, I was using a different case at the time and I feel like the case was          |
-| 02:58      | doing something a little weird with MagSafe or something, and I usually charge with MagSafe,              |
+| 02:58      | doing something a little weird with [[MagSafe]] or something, and I usually charge with [[MagSafe]],              |
 | 03:02      | so I feel like that may not have been purely iOS.                                                         |
 | 03:05      | I feel like that could have been hardware, but not iPhone hardware as a problem.                          |
 | 03:10      | Yeah.                                                                                                     |

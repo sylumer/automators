@@ -778,11 +778,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:04:51   | I go over there, I end up giving them a battery pack. My mom really wanted my max safe battery           |
 | 01:04:55   | pack the other day, but fortunately, she's got an iPhone 11 pro, not a 12. Because she's got my          |
 | 01:05:00   | old iPhone. And so I was very happy to inform her, this doesn't magnetise to the back of your phone.     |
-| 01:05:06   | So I got to keep it. Which MagSafe, I haven't bought one of those yet. And now I need one again.         |
-| 01:05:10   | And which one did you get? So Anker, I have one. It's not actually MagSafe. It's a magnetic.            |
+| 01:05:06   | So I got to keep it. Which [[MagSafe]], I haven't bought one of those yet. And now I need one again.         |
+| 01:05:10   | And which one did you get? So Anker, I have one. It's not actually [[MagSafe]]. It's a magnetic.            |
 | 01:05:17   | It's their power core magnetic, I think 10,000. I don't think the 20,000 is out yet,                     |
 | 01:05:21   | or maybe it's the 5,000, the 10,000 is coming. Either way, it does stick on the back of your             |
-| 01:05:25   | iPhone, though, in on the MagSafe area. So that's pretty cool. I'll put a link to it in the show         |
+| 01:05:25   | iPhone, though, in on the [[MagSafe]] area. So that's pretty cool. I'll put a link to it in the show         |
 | 01:05:31   | notes. And as you said that, I just opened up for that type AMA, Anker, Power, what do you              |
 | 01:05:38   | say, our Anker? I think PowerWave? Yeah. And it showed up. It was the first result.                     |
 | 01:05:44   | You can get a 10,000 milliamp hour one delivered tomorrow for $49.99. Boy, they make it easy,            |

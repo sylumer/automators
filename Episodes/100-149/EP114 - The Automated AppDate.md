@@ -492,7 +492,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 25:21      | had done that.                                                                                         |
 | 25:22      | That said, um, you know, um, you can also just pop a web camera on there, especially if it's           |
 | 25:27      | something that, you know, isn't moving around.                                                         |
-| 25:29      | What I really like about the Belkin adapter is it is, you know, it's like a MagSafe puck               |
+| 25:29      | What I really like about the Belkin adapter is it is, you know, it's like a [[MagSafe]] puck               |
 | 25:34      | basically without a cable attached.                                                                    |
 | 25:35      | It's a little thicker, but it's, it's not big.                                                         |
 | 25:38      | Um, so, you know, that'll be easy enough to pop in my little bag of, uh, tech goodies                  |

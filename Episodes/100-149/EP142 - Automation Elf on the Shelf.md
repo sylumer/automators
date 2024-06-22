@@ -780,7 +780,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 47:16      | Now I have a recommendation for a certain kind of battery pack because I discovered recently        |
 | 47:24      | Anker have a very cool new series of chargers which can plunk onto a dock, which is just            |
 | 47:33      | like a little black square puck that lives on your desk and it has a 100 watt power output          |
-| 47:38      | and it's got like four little, almost like MagSafe or smart connector from your iPad,               |
+| 47:38      | and it's got like four little, almost like [[MagSafe]] or smart connector from your iPad,               |
 | 47:50      | connectors on it.                                                                                   |
 | 47:51      | And then you see, you plunk the power bank onto that and it will recharge.                          |
 | 47:55      | So whenever your desk is within range of that, you can just sort of put the battery pack            |

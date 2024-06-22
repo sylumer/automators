@@ -1487,13 +1487,13 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:23:49   | Yeah.                                                                                                   |
 | 01:23:50   | But yeah.                                                                                               |
 | 01:23:51   | So I got the purple case, which I like.                                                                 |
-| 01:23:54   | I have to say, the one thing I'm noticing, I have a MagSafe charging stand on my desk                   |
+| 01:23:54   | I have to say, the one thing I'm noticing, I have a [[MagSafe]] charging stand on my desk                   |
 | 01:23:59   | and I can see already that there's a little bit of ring forming there.                                  |
 | 01:24:01   | That's fine.                                                                                            |
 | 01:24:02   | I'm not precious about my cases.                                                                        |
 | 01:24:03   | The purpose of the case is to protect my phone.                                                         |
-| 01:24:05   | And I've got a MagSafe pop socket on it most of the time anyway, to be honest.                          |
-| 01:24:10   | And I have to say, I'm very impressed with the MagSafe pop socket.                                      |
+| 01:24:05   | And I've got a [[MagSafe]] pop socket on it most of the time anyway, to be honest.                          |
+| 01:24:10   | And I have to say, I'm very impressed with the [[MagSafe]] pop socket.                                      |
 | 01:24:12   | It is incredibly strong.                                                                                |
 | 01:24:14   | That thing's going nowhere unless I try to get it off.                                                  |
 | 01:24:16   | Yeah.                                                                                                   |
@@ -1503,7 +1503,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:24:24   | I managed that.                                                                                         |
 | 01:24:25   | Wow.                                                                                                    |
 | 01:24:26   | That was surprisingly hard to do.                                                                       |
-| 01:24:27   | But yeah, I'm pleased that it is difficult to get the MagSafe pop socket off because                    |
+| 01:24:27   | But yeah, I'm pleased that it is difficult to get the [[MagSafe]] pop socket off because                    |
 | 01:24:31   | I don't want to be dropping my phone.                                                                   |
 | 01:24:32   | It does just make it a little easier to adjust.                                                         |
 | 01:24:34   | And I can, without the use of reachability, go from the bottom right-hand corner to the                 |
@@ -1515,14 +1515,14 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:24:56   | And I don't like any of the leather colours this year.                                                   |
 | 01:24:58   | None of them really resonate with me.                                                                   |
 | 01:25:01   | So I'm getting a rubber case for the first time, an Apple Silicon case.                                 |
-| 01:25:07   | I mean, I'm like you all in with the MagSafe, so that really limits what cases I can get.               |
+| 01:25:07   | I mean, I'm like you all in with the [[MagSafe]], so that really limits what cases I can get.               |
 | 01:25:14   | But I got the, I ordered the Blue J1.                                                                   |
 | 01:25:16   | I think it'll look cool with the white phone and I'm just waiting for it to get here.                   |
 | 01:25:20   | And I know that it's harder to get out of your pocket because it's sticky, but whatever.                |
-| 01:25:27   | And like you, I've gone all in with MagSafe.                                                            |
+| 01:25:27   | And like you, I've gone all in with [[MagSafe]].                                                            |
 | 01:25:29   | I have the pop socket, I have the battery, and I've got a couple of those pucks around                  |
 | 01:25:34   | the house.                                                                                              |
-| 01:25:35   | I really think MagSafe is a good idea.                                                                  |
+| 01:25:35   | I really think [[MagSafe]] is a good idea.                                                                  |
 | 01:25:38   | And I even have the wallet.                                                                             |
 | 01:25:40   | And I think the wallet's good.                                                                          |
 | 01:25:41   | I mean, I've never, I don't worry about losing it.                                                      |
@@ -1557,7 +1557,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:27:15   | So if it falls off, I'm not going to have ID information, whatever, but I just really                   |
 | 01:27:20   | haven't had a problem.                                                                                  |
 | 01:27:21   | I don't need to use my wallet very often and I've got a couple of different ones, but                   |
-| 01:27:25   | the MagSafe one is in the rotation plenty and again, I don't care for the colours, you                   |
+| 01:27:25   | the [[MagSafe]] one is in the rotation plenty and again, I don't care for the colours, you                   |
 | 01:27:31   | know, it's like                                                                                         |
 | 01:27:32   | Yeah.                                                                                                   |
 | 01:27:33   | And they all are like opinionated colours, even with Syria, like it's not going to work,                 |
@@ -1574,9 +1574,9 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:28:20   | have a nice day.                                                                                        |
 | 01:28:21   | But I like colourful cases, I just don't care for these colours this year.                                |
 | 01:28:26   | Yeah.                                                                                                   |
-| 01:28:27   | Hopefully more people will be coming out with MagSafe cases.                                            |
+| 01:28:27   | Hopefully more people will be coming out with [[MagSafe]] cases.                                            |
 | 01:28:31   | I know Moft recently have come out with some extra-strong magnet case so that their wallet              |
-| 01:28:37   | and MagSafe stand will stick better to the case.                                                        |
+| 01:28:37   | and [[MagSafe]] stand will stick better to the case.                                                        |
 | 01:28:40   | I personally have not had a problem with their wallet and stand sticking to the back of my              |
 | 01:28:45   | iPhone at all, but for people who really want extra stickiness or extra-magnety goodness                |
 | 01:28:52   | rather, then you can do that with Moft, apparently.                                                     |

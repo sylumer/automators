@@ -602,7 +602,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 35:30      | to what appears on my dashboard with CarPlay, so I'm not going to be getting emails and                |
 | 35:35      | stuff through, but it means that I have a way of just toggling announce notifications                  |
 | 35:39      | on and off, like, from my wrist really quickly, like, as I get into the car, you know, I drop          |
-| 35:46      | my phone into the console, and the MagSafe puck kind of walks onto the back, and then                  |
+| 35:46      | my phone into the console, and the [[MagSafe]] puck kind of walks onto the back, and then                  |
 | 35:52      | I can just, you know, turn it off on my wrist before I go anywhere if I want to, or not.               |
 | 36:00      | You know, I usually leave Do Not Disturb While Driving enabled, but I found being able to have announce      |
 | 36:08      | notifications automatically disabled, and then turn it back on very easily is quite nice               |

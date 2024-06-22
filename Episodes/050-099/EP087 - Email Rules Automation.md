@@ -1039,11 +1039,11 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:26:27   | or whatever, bring a battery because, you know, you need it to get your food, you know? Yes.               |
 | 01:26:34   | Yeah. Like they do have some charging stations there, but they cost you money and then you                 |
 | 01:26:37   | have to lock your phone in a box for an hour or so. And they're not fast chargers either,                  |
-| 01:26:42   | especially if you have a MagSafe iPhone, maybe not the MagSafe battery pack. That one, it's not            |
+| 01:26:42   | especially if you have a [[MagSafe]] iPhone, maybe not the [[MagSafe]] battery pack. That one, it's not            |
 | 01:26:48   | going to, like, it works to slow down how quickly your battery is used up, but it is not a Disney          |
 | 01:26:54   | battery pack, something like the Anker one. Technically, it charges slower, but it's got                   |
 | 01:26:59   | so much more inside of it that it is a better one. You know what? I disagree. I bought that                |
-| 01:27:06   | overpriced Apple MagSafe battery. I mean, I have both, David, so. All right. I love it. I mean,            |
+| 01:27:06   | overpriced Apple [[MagSafe]] battery. I mean, I have both, David, so. All right. I love it. I mean,            |
 | 01:27:12   | I know I paid too much money for it, but the fact that I don't have to, like, have a cable hanging         |
 | 01:27:18   | out of my pocket and I can just snap it on and then I'll put my phone in my pocket and it's                |
 | 01:27:23   | charging while I'm walking around. And then when I pull it, I can just snap it off if I need to.           |

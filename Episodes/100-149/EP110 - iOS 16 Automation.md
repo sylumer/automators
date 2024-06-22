@@ -217,7 +217,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 13:48      | know about you and all the folks listening at home, but I have quite a few of those sort                 |
 | 13:53      | of like upright chargers. I've got an Anker, a mega go magnetic charging stand. And I've                |
 | 13:58      | got by my bed, Apple Frequently Partner with the Belkin. I've got the trio. So on the left,              |
-| 14:05      | it's got the MagSafe pad on the right. It's got the Apple Watch pad on the base. You                     |
+| 14:05      | it's got the [[MagSafe]] pad on the right. It's got the Apple Watch pad on the base. You                     |
 | 14:08      | can sort of drop your AirPods for charging. I have that by my bed. If my iPhone is stood                 |
 | 14:14      | upright and it's glowing all night, that is going to really annoy me. But I'm sure Lola                  |
 | 14:18      | thought about this and just like the Apple Watch, you know, while it's in sleep mode,                    |
@@ -226,17 +226,17 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 14:36      | think would work quite well. Or maybe it'll be like the Samsung frame TV and use ambient                 |
 | 14:41      | light where it can just turn off completely when it guesses it's dark enough. But we'll                  |
 | 14:45      | have to see.                                                                                             |
-| 14:46      | I have the MagSafe stand from Studio Neat. It's very nice. It's a piece of wall note.                    |
+| 14:46      | I have the [[MagSafe]] stand from Studio Neat. It's very nice. It's a piece of wall note.                    |
 | 14:51      | It also charges the watch, which I think I'm going to keep next to my bed. I don't need                  |
 | 14:56      | it vertical next to my bed, but I do like the idea of getting a vertical one on my desk                  |
-| 15:01      | next to my Mac. And I don't own one. I'd like to get one that works with the MagSafe                     |
+| 15:01      | next to my Mac. And I don't own one. I'd like to get one that works with the [[MagSafe]]                     |
 | 15:06      | puck. But beyond that, I don't know what I should get. Do you have any recommendations?                  |
 | 15:12      | I mean, honestly, I really like my, my Anker one that I have. And I'm just looking to see               |
 | 15:18      | exactly what the name is now. So I can put a link to it in the show notes for folks.                     |
 | 15:22      | And of course, I'm not finding it on the Anker website because they started with a                      |
-| 15:26      | few MagSafe accessories and then they kind of revamped how they were doing their, their,                 |
-| 15:32      | their MagSafe or it's, it's not officially magnetic MagSafe. It's a magnetic wireless                    |
-| 15:37      | charging stand because that allows them to not have to use the MagSafe stuff. But I'll                   |
+| 15:26      | few [[MagSafe]] accessories and then they kind of revamped how they were doing their, their,                 |
+| 15:32      | their [[MagSafe]] or it's, it's not officially magnetic [[MagSafe]]. It's a magnetic wireless                    |
+| 15:37      | charging stand because that allows them to not have to use the [[MagSafe]] stuff. But I'll                   |
 | 15:45      | see if I can find a link to it. It's not showing up unfortunately immediately on the website             |
 | 15:49      | for me, which is a little bit of a shame, but I'm, I'm sure it's just hiding somewhere.                  |
 | 15:55      | So I'll have to take a look and see what I can find.                                                     |
@@ -253,12 +253,12 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 16:51      | Um, I think, uh, what I'm seeing is the closest that they have to, to my, um, charger at the             |
 | 16:57      | moment is the Anker 533 magnetic wireless charger three in one stand, which is 59.99.                   |
 | 17:04      | But don't forget Anker stuff always goes on sale. Um, and it's got a Mac, it's sort                     |
-| 17:09      | of a MagSafe charger for your iPhone or MagSafe like, um, and, uh, the AirPods charger in                |
+| 17:09      | of a [[MagSafe]] charger for your iPhone or [[MagSafe]] like, um, and, uh, the AirPods charger in                |
 | 17:15      | the base and a space for your Apple Watch charger. You'll have to provide your own cable,                |
 | 17:19      | but it looks pretty similar. So I'll make sure that we pop a link to that into our show                  |
 | 17:23      | notes for folks.                                                                                         |
 | 17:24      | I like the 12 South one too. Just looking here as we talk, they've got one where it                      |
-| 17:29      | incorporates the MagSafe puck. So, and it allows you to adjust the angle so you can like adjust          |
+| 17:29      | incorporates the [[MagSafe]] puck. So, and it allows you to adjust the angle so you can like adjust          |
 | 17:37      | it or you even turn it.                                                                                  |
 | 17:38      | Oh, the high rise one. Um, is that it is called a 12 South 40 for iPhone.                                |
 | 17:46      | Oh, nice. I'll get a link to that in show notes because I like their high rise. That's                   |

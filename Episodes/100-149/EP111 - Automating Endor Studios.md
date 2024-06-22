@@ -79,7 +79,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 00:42      | And I'm very pleased to report that in the lighting in my office, it is exceptionally                     |
 | 00:46      | purple and not only that, but the camera area is even more purple, which is, you know, the                |
 | 00:52      | perfect part because, you know, I will be putting cases on this.                                          |
-| 00:55      | I have the Apple Clear MagSafe case on there right now.                                                   |
+| 00:55      | I have the Apple Clear [[MagSafe]] case on there right now.                                                   |
 | 00:59      | I also have a really lovely OtterBox sort of watercolour rainbow one, which I've got ready                 |
 | 01:06      | for when I feel like changing things up.                                                                  |
 | 01:08      | But, you know, I like the fact that the camera cutout is purple and I'm going to be seeing                |

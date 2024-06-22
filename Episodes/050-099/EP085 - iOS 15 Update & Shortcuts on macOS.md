@@ -136,15 +136,15 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 03:14      | because I had the regular 11 Pro,                                  |
 | 03:17      | and that was great, and I liked it,                                |
 | 03:19      | but it was a little too big.                                       |
-| 03:21      | And it turns out the MagSafe PopSocket,                            |
-| 03:23      | actually I love MagSafe,                                           |
-| 03:24      | MagSafe is amazing at being able to                                |
-| 03:26      | MagSafe a PopSocket on there,                                      |
+| 03:21      | And it turns out the [[MagSafe]] PopSocket,                            |
+| 03:23      | actually I love [[MagSafe]],                                           |
+| 03:24      | [[MagSafe]] is amazing at being able to                                |
+| 03:26      | [[MagSafe]] a PopSocket on there,                                      |
 | 03:27      | and then pop it off and throw a wallet on there,                   |
 | 03:30      | or pop it off and chuck it on a charger.                           |
 | 03:32      | That works really, really well for me,                             |
 | 03:34      | and I really like that.                                            |
-| 03:36      | And MagSafe is brilliant, basically.                               |
+| 03:36      | And [[MagSafe]] is brilliant, basically.                               |
 | 03:38      | It's not the cheapest technology for all these things,             |
 | 03:41      | but the PopSocket makes holding a phone much easier.               |
 | 03:44      | And so I think I'm gonna be fine with the 13 Pro,                  |
@@ -152,9 +152,9 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 03:51      | That is a very pretty colour.                                       |
 | 03:54      | I usually, first of all, I want a second.                          |
 | 03:57      | Everything you said about PopSocket,                               |
-| 04:00      | we're just MagSafe in general.                                     |
-| 04:01      | I have the MagSafe PopSocket, the MagSafe wallet,                  |
-| 04:05      | the MagSafe case, and the MagSafe battery.                         |
+| 04:00      | we're just [[MagSafe]] in general.                                     |
+| 04:01      | I have the [[MagSafe]] PopSocket, the [[MagSafe]] wallet,                  |
+| 04:05      | the [[MagSafe]] case, and the [[MagSafe]] battery.                         |
 | 04:07      | So I am all in with it,                                            |
 | 04:09      | and I really like just sticking things on my phone.                |
 | 04:12      | And the PopSocket, I was skeptical about it.                       |
@@ -162,10 +162,10 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 04:18      | and it, no, it's great.                                            |
 | 04:19      | It really sticks on there good.                                    |
 | 04:21      | Yeah, I think it's the strongest magnet                            |
-| 04:24      | out of all the MagSafe magnets that I have.                        |
+| 04:24      | out of all the [[MagSafe]] magnets that I have.                        |
 | 04:27      | It is incredibly strong, and it's brilliant.                       |
-| 04:30      | Something I've also noticed is if you have a MagSafe case on,      |
-| 04:35      | other devices stick to the MagSafe case                            |
+| 04:30      | Something I've also noticed is if you have a [[MagSafe]] case on,      |
+| 04:35      | other devices stick to the [[MagSafe]] case                            |
 | 04:37      | better than they stick to the phone itself.                        |
 | 04:39      | Yeah.                                                              |
 | 04:40      | I don't know if there's like a force multiplier with magnets,      |
@@ -908,9 +908,9 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 34:28      | This is kind of cool.                                              |
 | 34:30      | I was going through my email earlier today                         |
 | 34:32      | and Moft who are the people                                      |
-| 34:34      | who make a MagSafe wallet for the iPhone,                          |
+| 34:34      | who make a [[MagSafe]] wallet for the iPhone,                          |
 | 34:36      | which is also a stand and some other accessories,                  |
-| 34:40      | including like a fake MagSafe thing for the iPad,                  |
+| 34:40      | including like a fake [[MagSafe]] thing for the iPad,                  |
 | 34:42      | which I have and I love,                                           |
 | 34:45      | are making a smart desk mat                                        |
 | 34:49      | where you can like put your devices on it.                         |

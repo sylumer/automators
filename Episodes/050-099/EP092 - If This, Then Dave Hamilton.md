@@ -757,12 +757,12 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 31:15      | This is one of the reasons why I got the wireless CarPlay adapter.                                                                                                       |
 | 31:19      | Because I wanted to not have to worry about a cable working.                                                                                                             |
 | 31:23      | But in my car, I do have a lightning cable.                                                                                                                              |
-| 31:26      | And I also have a MagSafe charger, which is permanently plugged in.                                                                                                      |
+| 31:26      | And I also have a [[MagSafe]] charger, which is permanently plugged in.                                                                                                      |
 | 31:29      | And then if I'm going somewhere that is more than, like, a 15-minute drive,                                                                                              |
-| 31:33      | I will get my phone out of my bag and MagSafe it to charge it.                                                                                                           |
+| 31:33      | I will get my phone out of my bag and [[MagSafe]] it to charge it.                                                                                                           |
 | 31:37      | Because that is ideal.                                                                                                                                                   |
 | 31:39      | And it means I'd have to fiddle with, like, actually plugging things in accurately.                                                                                      |
-| 31:44      | And the MagSafe works.                                                                                                                                                   |
+| 31:44      | And the [[MagSafe]] works.                                                                                                                                                   |
 | 31:45      | My car, theoretically, has a wireless charger built in.                                                                                                                  |
 | 31:48      | However, the wireless charger is...                                                                                                                                      |
 | 31:51      | persnickety, one might say.                                                                                                                                              |
@@ -770,7 +770,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 31:55      | It doesn't like charging my phone for whatever reason.                                                                                                                   |
 | 31:57      | It keeps telling me that there's metal on the charging pad.                                                                                                              |
 | 32:00      | And I have to remove it.                                                                                                                                                 |
-| 32:01      | And it's like, my iPhone's got MagSafe.                                                                                                                                  |
+| 32:01      | And it's like, my iPhone's got [[MagSafe]].                                                                                                                                  |
 | 32:02      | I can't take the metal out of the phone.                                                                                                                                 |
 | 32:04      | It doesn't work.                                                                                                                                                         |
 | 32:05      | That's kind of funny, actually.                                                                                                                                          |
@@ -783,13 +783,13 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 32:21      | Which, you know, I see the benefit of not setting your car on fire.                                                                                                      |
 | 32:25      | But also, my phone has metal in it and I would like to charge it.                                                                                                        |
 | 32:28      | You're just making me feel better about my cable, Rose.                                                                                                                  |
-| 32:31      | I like my MagSafe charger.                                                                                                                                               |
-| 32:32      | I've just got a MagSafe charger.                                                                                                                                         |
-| 32:34      | I use the MagSafe charger all the time.                                                                                                                                  |
+| 32:31      | I like my [[MagSafe]] charger.                                                                                                                                               |
+| 32:32      | I've just got a [[MagSafe]] charger.                                                                                                                                         |
+| 32:34      | I use the [[MagSafe]] charger all the time.                                                                                                                                  |
 | 32:36      | And it means that my phone definitely gets charged easily without me                                                                                                     |
 | 32:41      | futzing around trying to plug a cable in.                                                                                                                                |
 | 32:43      | And the cables less likely to be of use as well,                                                                                                                         |
-| 32:45      | because it is just a MagSafe puck.                                                                                                                                       |
+| 32:45      | because it is just a [[MagSafe]] puck.                                                                                                                                       |
 | 32:47      | You're not trying to fiddle with a tiny little thing                                                                                                                     |
 | 32:50      | to plug it into the bottom of your phone.                                                                                                                                |
 | 32:52      | Which, especially if you're in a bit of a hurry, if you're running late or something,                                                                                    |
