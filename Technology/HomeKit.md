@@ -4,7 +4,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-Introduced in 2014, HomeKit is a framework developed by Apple that allows users to control smart home devices using their Apple devices. It provides a unified platform for communicating with and managing HomeKit compatible accessories, making it easier for users to set up, control, and automate various aspects of their smart home environment.
+Introduced in 2014, HomeKit is a framework developed by Apple that allows users to control smart home devices using their Apple devices. It provides the underpinning technology for the unified [[Apple Home|Home]] platform; for communicating with and managing HomeKit compatible accessories, making it easier for users to set up, control, and automate various aspects of their smart home environment.
 
 With the HomeKit platform, users can create scenes, which are customised combinations of actions that can be triggered with a single command. For example, a "*Good Morning*" scene could turn on the lights, adjust the thermostat, and start the coffee maker. HomeKit also supports automation, allowing users to set up rules for their smart home devices to act automatically based on time of day, location, sensor readings, or other triggers.
 
