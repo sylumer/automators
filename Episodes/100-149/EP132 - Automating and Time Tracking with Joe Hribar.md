@@ -380,15 +380,15 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 23:20      | the data. Manipulate the data is the wrong way to put it. Create the data and organise               |
 | 23:25      | it. I think that might be a better way of putting it.                                                |
 | 23:27      | Joe, when Apple first started supporting Shortcuts, my understanding was what they had was they      |
-| 23:33      | called Intents, where you could go and create actions out of Intents, but it felt to me              |
+| 23:33      | called [[App Intent\|Intents]], where you could go and create actions out of [[App Intent\|Intents]], but it felt to me              |
 | 23:41      | kind of klugey. As a user, it wasn't clear that the actions necessarily came available               |
 | 23:48      | to me without using that feature in the application, but obviously this has evolved over the time.   |
 | 23:55      | Has it got easier? When you say it takes time to make one, what are the kinds of things              |
 | 24:01      | you have to do to make an action in an application?                                                  |
-| 24:05      | You can still use the old system. In fact, it's the Intents definition file in [[Xcode]]                 |
+| 24:05      | You can still use the old system. In fact, it's the [[App Intent\|Intents]] definition file in [[Xcode]]                 |
 | 24:13      | that defines all of the actions and the parameters for each of them. You can still do that. In       |
 | 24:19      | fact, most of the time reactions are still using that system. I haven't converted them               |
-| 24:26      | over to the new App Intents system yet. I'm still supporting iOS 15. I think it's still              |
+| 24:26      | over to the new [[App Intent\|App Intents]] system yet. I'm still supporting iOS 15. I think it's still              |
 | 24:33      | possible that you can convert them and still have them exist for iOS 15. I'm just kind               |
 | 24:39      | of afraid to do that. For now, they're still there, but the new ones too, you don't have             |
 | 24:45      | to do anything with that file, which at least for me, because there's so many things in              |
@@ -468,7 +468,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 32:05      | thing that you want to add that just isn't quite there yet in terms of shortcut support?             |
 | 32:12      | Before I answer that, up to your point about getting more developers to adopt this stuff,            |
 | 32:18      | I wonder if interactive widgets will help in that regard because interactive widgets                 |
-| 32:24      | are powered by the last year's new App Intents system. Any App Intent that somebody's making         |
+| 32:24      | are powered by the last year's new [[App Intent\|App Intents]] system. Any [[App Intent]] that somebody's making         |
 | 32:33      | for an interactive widget can also be used as a regular shortcuts action too. Maybe that             |
 | 32:41      | can help get more developers on board with shortcut support too.                                     |
 | 32:48      | That would be really awesome.                                                                        |
@@ -809,8 +809,8 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:03:28   | that they've been developing over the last several years. I mean, not only things like               |
 | 01:03:33   | watch widgets, but also the vision OS is largely based on that. And like suddenly people who         |
 | 01:03:40   | invested time in learning the new systems are getting all these extra little benefits.               |
-| 01:03:45   | Yeah, I agree. And even with the app intents and the interactive widgets, if you started             |
-| 01:03:51   | making app intents actions for shortcuts last year, then you can either use those exact same         |
+| 01:03:45   | Yeah, I agree. And even with the [[App Intent\|App Intents]] and the interactive widgets, if you started             |
+| 01:03:51   | making [[App Intent\|App Intents]] actions for shortcuts last year, then you can either use those exact same         |
 | 01:03:57   | ones, which I am doing for the interactive widgets or something similar for them too.                |
 | 01:04:02   | So if you started working on that last year, you're understanding already how to make the            |
 | 01:04:10   | widgets interactive too. It reminds me at the time that Apple was like, hey,                         |
