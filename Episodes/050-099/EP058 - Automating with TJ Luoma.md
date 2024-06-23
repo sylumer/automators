@@ -885,7 +885,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:06:47   | it for you.                                                                                                   |
 | 01:06:48   | See, I just tapped the top of my HomePod and it pauses the music and I've been using                         |
 | 01:06:52   | the HomePod play everywhere. So you can just say, you know, magic words, play music everywhere               |
-| 01:06:58   | and it will play on all of the airplay to enable speakers in your home, which includes                        |
+| 01:06:58   | and it will play on all of the [[AirPlay]] to enable speakers in your home, which includes                        |
 | 01:07:01   | the Sonos one in my bedroom, which I'm very excited about. But if I just tap one, I've                        |
 | 01:07:06   | got one here on my desk. And if I just tap it, then it pauses. So I don't necessarily                         |
 | 01:07:12   | need a button for that, but it's pretty cool.                                                                 |

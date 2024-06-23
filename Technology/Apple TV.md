@@ -12,7 +12,7 @@ The primary purpose of Apple TV is to provide an all-in-one entertainment hub, s
 - Apple TV supports a wide range of streaming services - e.g. Netflix, Amazon Prime Video, Disney+, Apple TV+, BBC iPlayer.
 - Apple TV comes with an App Store, allowing users to download various apps and games.
 - Apple TV includes support for [[Siri]].
-- [[AirPlay]] is a feature that allows content from iPhones, iPads, and Macs to be mirrored or sent directly to Apple TV. 
+- [[[[AirPlay]]]] is a feature that allows content from iPhones, iPads, and Macs to be mirrored or sent directly to Apple TV. 
 
 # Notes
 - Apple TV runs on tvOS, a specialised operating system derived from iOS. It is designed to provide a user-friendly experience on larger screens. It supports background apps running automatic updates, and the usual interactive TV features you might expect from any smart TV or box.

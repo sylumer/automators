@@ -826,7 +826,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 44:01      | Yeah, and especially, you know, the video of the love song, that was hilarious, absolutely             |
 | 44:09      | loved it, but either way, you know, that for me was great because it would start then playing          |
 | 44:15      | music on my HomePods, and the HomePods are really great because you can hand off playback              |
-| 44:19      | to any AirPlay 2 speaker with your iPhone and shortcuts, and you can either hand it                    |
+| 44:19      | to any [[AirPlay\|AirPlay 2]] speaker with your iPhone and shortcuts, and you can either hand it                    |
 | 44:25      | off the playback, or you can set it as your playback destination.                                      |
 | 44:28      | Handing off the playback means that then your speakers will be, you know, playing by themselves        |
 | 44:33      | without your phone necessarily doing anything, whereas setting the playback destination retains        |
@@ -845,7 +845,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 45:40      | playing for you all over your house.                                                                   |
 | 45:42      | Yes, yes, you can.                                                                                     |
 | 45:44      | And that's something, you know, I'm looking at getting some of the IKEA speakers, because              |
-| 45:48      | they are, you know, they're working with Sonos now, but they have AirPlay 2 support as well.           |
+| 45:48      | they are, you know, they're working with Sonos now, but they have [[AirPlay\|AirPlay 2]] support as well.           |
 | 45:55      | And I'm thinking that a pair of those on the bedside tables would be a great, cheap alternative        |
 | 45:59      | to yet more HomePods in my life, but that would be a great place to start with music                   |
 | 46:03      | in the mornings, which, you know, is something that I really enjoy, you know, having some              |

@@ -857,8 +857,8 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 48:52      | native ask your HomePod to play a shortcut, it has to be using that sort of play version                 |
 | 49:00      | that can run in the background.                                                                           |
 | 49:02      | But what a lot of enterprising users have already figured out is there are shortcuts                      |
-| 49:06      | for changing your airplay settings.                                                                       |
-| 49:10      | So you can just build a shortcut that sets your airplay settings to point to your home                    |
+| 49:06      | for changing your [[AirPlay]] settings.                                                                       |
+| 49:10      | So you can just build a shortcut that sets your [[AirPlay]] settings to point to your home                    |
 | 49:14      | pod or to a HomePod group.                                                                               |
 | 49:16      | And then you can call play, the parameterised version of play.                                            |
 | 49:20      | So even though it has to open the app, it's going to push it over to the HomePod still.                  |

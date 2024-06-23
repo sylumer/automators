@@ -783,7 +783,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 44:15      | And so, you know, vinegar works on YouTube, baking soda works on the rest of the internet          |
 | 44:20      | for you.                                                                                           |
 | 44:22      | And so that's definitely two that I'll recommend for that.                                         |
-| 44:25      | And that's also great because it means that those videos have definitely got airplay support       |
+| 44:25      | And that's also great because it means that those videos have definitely got [[AirPlay]] support       |
 | 44:28      | and so on if you want that.                                                                        |
 | 44:31      | And then another one I'm going to recommend is Good Links because I love saving links              |
 | 44:38      | to read later and being able to just say, like, hey, this is an article.                           |

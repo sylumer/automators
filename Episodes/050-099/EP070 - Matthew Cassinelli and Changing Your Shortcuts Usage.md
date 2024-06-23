@@ -421,7 +421,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 33:48      | in the show notes so people can jump straight to that section but I really like it for things like                               |
 | 33:52      | playing my rain sound so that it plays and it checks my wi-fi network first and if I'm at home                                   |
 | 33:57      | it plays it on my home pot mini in my bedroom and if I'm not at home it just plays on my iPhone                                  |
-| 34:02      | speaker I've not got any more granular yet with different airplay speakers at different on different                             |
+| 34:02      | speaker I've not got any more granular yet with different [[AirPlay]] speakers at different on different                             |
 | 34:06      | wi-fi networks because I'm not going anywhere um you know we're we're still anticipating the end                                 |
 | 34:12      | of the world here in the UK apparently things will change I do wish this is one of those times                                   |
 | 34:19      | where I wish I could ask the team because they were so so like deep in iOS before they worked at                                 |

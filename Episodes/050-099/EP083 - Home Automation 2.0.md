@@ -951,7 +951,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 49:10      | Well, thanks to Technology Untangled for their support of this show and great AFM.                |
 | 49:16      | Speaking of the Sonos Roam, I added another Sonos speaker to my house, David.                     |
 | 49:21      | Okay, why not?                                                                                    |
-| 49:23      | Well, so the Sonos Roam is a great battery speaker with AirPlay 2, it's got Qi charging,          |
+| 49:23      | Well, so the Sonos Roam is a great battery speaker with [[AirPlay\|AirPlay 2]], it's got Qi charging,          |
 | 49:29      | so most of the time it lives on a little Qi charger in my hallway, and this is wonderful.         |
 | 49:34      | And I realised IKEA sell these symphonist buttons, so IKEA have a partnership with Sonos where    |
 | 49:40      | they actually will sell Sonos speakers, but they are an IKEA outer design, and they don't         |
@@ -1039,8 +1039,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 54:32      | Yeah.                                                                                             |
 | 54:33      | But yeah.                                                                                         |
 | 54:34      | So I now have a whole house button, which pauses my music, which is great because the             |
-| 54:40      | way I do this is AirPlay 2.                                                                       |
-| 54:42      | I AirPlay 2 to all of my speakers.                                                                |
+| 54:40      | way I do this is [[AirPlay\|AirPlay 2]].                                                                       |
+| 54:42      | I [[AirPlay\|AirPlay 2]] to all of my speakers.                                                                |
 | 54:45      | And then if you pause an individual speaker in the group, then all of them get paused.            |
 | 54:49      | That's an interesting problem to solve.                                                           |
 | 54:52      | I've kind of gone down the road of the HomePods because they were cheap and there's so           |
@@ -1076,7 +1076,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 56:44      | Brain sounds in, in, in, you know, fake surround sound are wonderful.                             |
 | 56:49      | That's been helping me get to sleep much more easily.                                             |
 | 56:53      | And yeah, it, it, it's, yeah, I really like the HomePod stuff, but if people are interested       |
-| 57:00      | in something that can do AirPlay too, which maybe has some more automation options than           |
+| 57:00      | in something that can do [[AirPlay]] too, which maybe has some more automation options than           |
 | 57:05      | the symphonist stuff from IKEA is cheaper than Sonos, but it is Sonos hardware inside.            |
 | 57:10      | Can we talk about cameras for a little bit?                                                       |
 | 57:13      | Okay.                                                                                             |

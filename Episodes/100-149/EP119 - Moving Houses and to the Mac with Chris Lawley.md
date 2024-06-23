@@ -298,7 +298,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 13:42      | I very much want Apple to do big HomePods again.                                                         |
 | 13:47      | I also just bought for my new apartment a sound bar, sound system thing.                                  |
 | 13:53      | It's a sound bar, but it's also got the rear speakers and a subwoofer as well.                            |
-| 13:58      | It has AirPlay too, so I will actually be able to add that to my shortcut for playing                     |
+| 13:58      | It has [[AirPlay]] too, so I will actually be able to add that to my shortcut for playing                     |
 | 14:04      | music throughout the house.                                                                               |
 | 14:06      | Not only will it play to the HomePods, but it'll also play in the living room where that                 |
 | 14:10      | will be set up as well.                                                                                   |
@@ -355,7 +355,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 16:58      | time to sort of break them and then put them back together from a digital perspective, not                |
 | 17:03      | a physical perspective.                                                                                   |
 | 17:05      | But my other recommendation that I think is worth looking at, if people are looking for                   |
-| 17:09      | smart speakers with airplay support, and maybe you already have HomePod minis and you want               |
+| 17:09      | smart speakers with [[AirPlay]] support, and maybe you already have HomePod minis and you want               |
 | 17:15      | to keep Siri as your voice assistant, but you're in love with the sound, are the IKEA                     |
 | 17:19      | symphonist range.                                                                                         |
 | 17:21      | Because the IKEA symphonist range are Sonos speakers, but they're made by IKEA, so they're                |
@@ -368,7 +368,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 17:39      | It is, I think, waterproof slash resistant, something I keep it out of the way at the                     |
 | 17:44      | spray either way, and try and not get water directly on it, but it's pretty great for                     |
 | 17:49      | that.                                                                                                     |
-| 17:50      | But IKEA sell speakers starting from like $99 with AirPlay 2 built in, and so they have                   |
+| 17:50      | But IKEA sell speakers starting from like $99 with [[AirPlay\|AirPlay 2]] built in, and so they have                   |
 | 17:56      | home kit support.                                                                                         |
 | 17:59      | And I think that that's certainly worth looking at for folks.                                             |
 | 18:02      | They have like stands that you can put them on.                                                           |
@@ -408,9 +408,9 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 20:04      | So it's probably for the best I did that, you know, e-waste and everything as well as                     |
 | 20:08      | saving money.                                                                                             |
 | 20:09      | But yeah, I didn't enable myself into a Sonos soundbar, because the one thing I would love                |
-| 20:13      | is if it had airplay support, but I've got a HomePod in that room, it's a black HomePod                   |
+| 20:13      | is if it had [[AirPlay]] support, but I've got a HomePod in that room, it's a black HomePod                   |
 | 20:20      | I picked up on eBay, pretty much unused, and yeah, it works great.                                        |
-| 20:26      | So yeah, I'm okay with airplay support in every room, I've got serial listening everywhere,               |
+| 20:26      | So yeah, I'm okay with [[AirPlay]] support in every room, I've got serial listening everywhere,               |
 | 20:31      | it feels like, so I think I'm okay, but especially as you already got, you know, HomePod minis            |
 | 20:37      | Chris that you could dot around for listening to voice interactions, you know, throwing                   |
 | 20:42      | some other smart speakers in there to do the actual music playing might be a good solution                |

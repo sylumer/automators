@@ -728,7 +728,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 29:43      | Yeah, it's one of those where you don't realise that, of course, it's using Wi-Fi until you realise, of course, it's using Wi-Fi to do this.                             |
 | 29:52      | Right.                                                                                                                                                                   |
 | 29:53      | Of course, it's using Wi-Fi.                                                                                                                                             |
-| 29:54      | But it's like AirPlay, right?                                                                                                                                            |
+| 29:54      | But it's like [[AirPlay]], right?                                                                                                                                            |
 | 29:55      | It's using a combination of Wi-Fi and Bluetooth to set everything up and know where everything is and so on and so forth.                                                |
 | 30:00      | And then it gets sorted out and it's pretty instant and stuff.                                                                                                           |
 | 30:04      | But it disables the Wi-Fi because when my phone is connected to my car,                                                                                                  |

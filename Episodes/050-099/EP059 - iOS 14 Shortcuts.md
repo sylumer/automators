@@ -646,7 +646,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 32:28      | And I have recently been experimenting with using it as an alarm in the mornings.                        |
 | 32:33      | So that instead of having an alarm on my phone, I have it automatically run a shortcut at                |
 | 32:39      | a specific time, which I can change on a daily basis if I need to.                                       |
-| 32:42      | And that will turn on some lights in my bedroom and play some music to an AirPlay speaker that           |
+| 32:42      | And that will turn on some lights in my bedroom and play some music to an [[AirPlay]] speaker that           |
 | 32:47      | I have in there.                                                                                         |
 | 32:48      | Nice.                                                                                                    |
 | 32:49      | Yeah, I think the time based triggers are very useful for someone like me because my days                |

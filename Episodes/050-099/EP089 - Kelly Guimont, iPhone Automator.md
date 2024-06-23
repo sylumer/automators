@@ -661,7 +661,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 50:44      | because that's a fun thing to do. I do something similar with an old airport express and my              |
 | 50:49      | Nanoleaf light panels on the wall, because I have the original Nanoleaf panels and the rhythm          |
 | 50:54      | module for those has got an auxin. So I don't have to play my music super loud. All I do is I            |
-| 51:00      | airplay to all of the destinations that I want to airplay to and set the volume of the airport           |
+| 51:00      | [[AirPlay]] to all of the destinations that I want to [[AirPlay]] to and set the volume of the airport           |
 | 51:06      | express to maximum, because that massively increases the effect. And bam, it works. Yes,                 |
 | 51:13      | it's it's certainly been an experience trying to get that there. But I have another look for             |
 | 51:19      | all of these things with the hue app, because I've got more coloured hue stuff now. And I think           |

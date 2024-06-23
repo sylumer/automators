@@ -356,8 +356,8 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 22:22      | mean, what hardware do you have and what kind of automation are you doing in your house?                 |
 | 22:26      | Yeah. So let's start with the speakers because the speakers actually can dictate a lot of                |
 | 22:33      | your setup. So last year I bought a Sonos One. Now I bought this because I'd heard great                 |
-| 22:39      | things about the Sonos system, but I wanted AirPlay. Okay. I was not willing to try something            |
-| 22:44      | that didn't have AirPlay because I like it. I really like that feature where you can just                |
+| 22:39      | things about the Sonos system, but I wanted [[AirPlay]]. Okay. I was not willing to try something            |
+| 22:44      | that didn't have [[AirPlay]] because I like it. I really like that feature where you can just                |
 | 22:49      | send whatever it is you're playing to headphones, to your AirPods, or to a speaker. So I got             |
 | 22:53      | a Sonos One. And then HomePods is not actually available from Apple in Austria, but some stores          |
 | 23:01      | somewhere had a refurbished one or a returned one or something. And they said it was in                  |

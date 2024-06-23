@@ -1181,7 +1181,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:33:48   | I just love going to that and pressing the button with the cover of a Miles Davis album                   |
 | 01:33:53   | on it and then hearing Miles come through my speakers. I love it.                                         |
 | 01:33:56   | That is great, David. I'm really pleased that you've got that. I'm not doing that because                 |
-| 01:34:01   | most of the time I am playing from my iPhone to all of the airplay speakers because I live                |
+| 01:34:01   | most of the time I am playing from my iPhone to all of the [[AirPlay]] speakers because I live                |
 | 01:34:06   | on my own. So that means that my speakers are mine and I just have the same music playing                 |
 | 01:34:10   | everywhere. And I'm looking forward actually to my Sonos Roam arriving. I should arrive                   |
 | 01:34:14   | hopefully just before this episode releases, but we're recording a little bit in advance                  |

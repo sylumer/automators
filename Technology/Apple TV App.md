@@ -29,7 +29,7 @@ There is also an Apple hardware type known as [[Apple TV]].
 - Offline viewing for downloaded content
 - Parental controls for content restrictions
 - Integration with Apple Music for music recommendations
-- AirPlay support for streaming content to compatible devices
+- [[AirPlay]] support for streaming content to compatible devices
 
 # Notes  
 - The TV app is free to download and use, but subscriptions to premium channels or services typically require additional fees.
