@@ -109,7 +109,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 03:32      | make a difference because these things are interruption devices.                                   |
 | 03:37      | We need to live our lives without them owning us.                                                  |
 | 03:40      | And like, let's say you like to read a book every evening, what would have every time you          |
-| 03:44      | open the Kindle app or the Apple Books app, your phone just kind of went into a secluded           |
+| 03:44      | open the Kindle app or the [[Apple Books]] app, your phone just kind of went into a secluded           |
 | 03:51      | mode and notifications were cut off except from all except the most very important people          |
 | 03:56      | in your life.                                                                                      |
 | 03:57      | And like all that noise just went away and you can just read the book on your phone and            |

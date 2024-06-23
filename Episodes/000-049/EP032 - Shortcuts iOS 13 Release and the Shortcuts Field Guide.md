@@ -439,7 +439,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 20:27      | Yeah.                                                                                                  |
 | 20:28      | So the app launch trigger is actually something that I've been using more than I thought I               |
 | 20:32      | would.                                                                                                 |
-| 20:33      | So for example, whenever I launch the Kindle app or the Apple Books app, I talk or do not              |
+| 20:33      | So for example, whenever I launch the Kindle app or the [[Apple Books]] app, I talk or do not              |
 | 20:38      | disturb them because I tend to only use these on my iPad mini, and I have other ways of                |
 | 20:43      | getting notifications.                                                                                 |
 | 20:44      | But it is so annoying to be sitting there reading and have, you got an email pop in at                 |

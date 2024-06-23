@@ -820,7 +820,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:07:34   | that URL one more time is hover.com/automators, A-U-T-O-M-A-T-O-R-S. Make a name                   |
 | 01:07:41   | for yourself with hover and our thanks to hover for their support of the automators and all of           |
 | 01:07:46   | Relay-a-Thin. So David, do you read on your iPad because books got some new actions?                     |
-| 01:07:52   | Yeah, although I have to admit I spend a lot more time in the Amazon app than the Apple Books app        |
+| 01:07:52   | Yeah, although I have to admit I spend a lot more time in the Amazon app than the [[Apple Books]] app        |
 | 01:07:57   | these days. But some of the new actions I think are really interesting. Like you can have it open        |
 | 01:08:03   | a specific book or open a collection of books. So let's say you've got like kind of self-help books,     |
 | 01:08:09   | you could have a shortcut that sets you up to read those books or some other kind of books.              |

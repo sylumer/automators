@@ -136,7 +136,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 05:21      | Yeah.                                                                                                   |
 | 05:22      | And, you know, kind of getting back to the idea of focus, your home screen is a great                   |
 | 05:26      | focus trigger for you, like if you look at your home screen and you see nothing there,                  |
-| 05:31      | but reading apps, you know, Apple Books, Kindle, whatever, your notes app, you're like, oh,             |
+| 05:31      | but reading apps, you know, [[Apple Books]], Kindle, whatever, your notes app, you're like, oh,             |
 | 05:37      | I should be reading right now because that's what my phone is giving me.                                |
 | 05:41      | And whereas if you look at it and you see, you know, your personal apps like photos or                  |
 | 05:48      | you know, things you do on your downtime, it encourages you to do your personal stuff                   |
@@ -1079,10 +1079,10 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:44   | Maybe we'll figure out a way to share some of these home screens.                                       |
 | 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and day one here, because I actually take            |
 | 01:05:55   | notes sometimes on books in different contexts.                                                         |
-| 01:05:57   | I've got the Apple Books app.                                                                           |
-| 01:05:58   | Do you know the Apple Books app does not have a widget?                                                 |
+| 01:05:57   | I've got the [[Apple Books]] app.                                                                           |
+| 01:05:58   | Do you know the [[Apple Books]] app does not have a widget?                                                 |
 | 01:06:01   | How crazy is that?                                                                                      |
-| 01:06:02   | Apple, Apple makes the Apple Books app, it does not have a widget.                                      |
+| 01:06:02   | Apple, Apple makes the [[Apple Books]] app, it does not have a widget.                                      |
 | 01:06:06   | And then I've got a widget for reader, although I don't, you really use reading mode and reader         |
 | 01:06:13   | that often, my RSS stuff, but the main thing I do with this, the screen is Kindle.                      |
 | 01:06:19   | And then I take a lot of notes on books I read.                                                         |

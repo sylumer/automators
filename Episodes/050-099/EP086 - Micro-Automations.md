@@ -1387,7 +1387,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:18:43   | when I'm talking to my parents or my grandparents on FaceTime, then it works really well there.         |
 | 01:18:49   | So I really like that.                                                                                  |
 | 01:18:51   | I'd add that the iPad mini is an excellent consumption tool.                                            |
-| 01:18:55   | If you have a lot of Kindle books, if you have Marvel Unlimited, Apple Books, if there's                |
+| 01:18:55   | If you have a lot of Kindle books, if you have Marvel Unlimited, [[Apple Books]], if there's                |
 | 01:19:01   | anything you do where you read a lot, Instapaper, read-wise, that kind of stuff, I find it just         |
 | 01:19:07   | outstanding for that.                                                                                   |
 | 01:19:09   | So that's another good use.                                                                             |
