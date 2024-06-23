@@ -867,7 +867,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:13:33   | All right. More positive. [[ChatGPT]] made an app that went out to the iPhone and now I believe               |
 | 01:13:41   | it's on the Mac app store as well. But they put shortcut support in just right before we went             |
 | 01:13:49   | to press with this episode. So [[ChatGPT]] is not now only an app on your device. And if you're               |
-| 01:13:55   | interested in large language models, this is one of the best ones. Now you can incorporate that LLM       |
+| 01:13:55   | interested in large language models, this is one of the best ones. Now you can incorporate that [[Large Language Model\|LLM]]       |
 | 01:14:00   | into a shortcut. I just saw somebody in the Reddit had made one that takes the new weather                |
 | 01:14:08   | report and then they have [[ChatGPT]] write it as if it was a newscaster giving you the news report.          |
 | 01:14:15   | And then, you know, I guess they've got a speaking action. I haven't read, I mean,                        |

@@ -787,7 +787,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 50:23      | And I do feel like there's something to that.                                                         |
 | 50:26      | Absolutely.                                                                                           |
 | 50:27      | I know we had plans for the show.                                                                     |
-| 50:31      | I gotta ask you, are you looking at all at chat GPD and LLMs and thinking about automation               |
+| 50:31      | I gotta ask you, are you looking at all at [[ChatGPT]] and [[Large Language Model\|LLMs]] and thinking about automation               |
 | 50:38      | with those types of technologies?                                                                     |
 | 50:40      | Well, that comes under interoperability.                                                              |
 | 50:45      | And like I said, one of the sections we have on the website is for open AI.                           |
