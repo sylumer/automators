@@ -1162,7 +1162,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:31:19   | whole series of home theatre automation. And indeed, how I automate my entire house coming                    |
 | 01:31:24   | up in the not too distant future along with that promised toggle [[Keyboard Maestro]] automation.                 |
 | 01:31:29   | Yeah. I've been obsessing lately. I'm trying to figure out if I can get my camera to do facial                |
-| 01:31:33   | recognition with HomeKit. If it can reliably recognise me walking in the front door. Can it                   |
+| 01:31:33   | recognition with [[HomeKit]]. If it can reliably recognise me walking in the front door. Can it                   |
 | 01:31:40   | play, you know, Star Wars through my HomePods as soon as it sees that I came home. I've been                 |
 | 01:31:46   | working on that. My hang up right now is my face. And for some reason, it's not consistently                  |
 | 01:31:51   | recognising my face, but there's hope. There's hope. All right, Rosemary, you should set up                   |

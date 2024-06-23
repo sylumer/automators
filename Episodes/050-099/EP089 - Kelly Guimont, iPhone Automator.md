@@ -599,7 +599,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 44:18      | all of this together with Hunter Douglas's power of view technology. This ensures your shades will       |
 | 44:23      | automatically adjust themselves to give you the perfect balance of light, privacy, and insulation        |
 | 44:28      | any time of day. Hunter Douglas shades are compatible with all your favourite home automation             |
-| 44:32      | systems, including Amazon Alexa, Apple HomeKit, Google Assistant, if there's some that and more.         |
+| 44:32      | systems, including Amazon Alexa, [[HomeKit\|Apple HomeKit]], Google Assistant, if there's some that and more.         |
 | 44:39      | I know it lists as the show would really love to be able to automate the stuff themselves too,           |
 | 44:43      | helping them integrate their shades with the other products in their home,                               |
 | 44:46      | and you can get that control with Hunter Douglas. So you can live beautifully with Hunter Douglas,       |
@@ -607,9 +607,9 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 44:57      | Go to hunterdouglas.com/automators today to take advantage of their season of style rebate         |
 | 45:03      | savings events. That's hunterdouglas.com/automators for limited time savings.                      |
 | 45:08      | Offer expires December 6th, 2021. Our thanks to Hunter Douglas for their support of this show            |
-| 45:14      | and Relay FM. So Kelly, before the break, we started to wade into the waters of HomeKit                 |
-| 45:22      | automation, and I know you were a little hesitant at the beginning to do HomeKit,                        |
-| 45:27      | but I also know that you kind of dove in at this point. So what's the state of HomeKit                   |
+| 45:14      | and Relay FM. So Kelly, before the break, we started to wade into the waters of [[HomeKit]]                 |
+| 45:22      | automation, and I know you were a little hesitant at the beginning to do [[HomeKit]],                        |
+| 45:27      | but I also know that you kind of dove in at this point. So what's the state of [[HomeKit]]                   |
 | 45:32      | for Kelly and what are your automations for it? Well, it sort of became more important                   |
 | 45:42      | about a year ago because last November, Apple released the HomePod mini and my birthday is in            |
 | 45:50      | November. And so I said I wanted one for my birthday and I got one and set it up in the kitchen          |
@@ -629,7 +629,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 47:25      | one sitting on the counter, you know, that was just sort of a hint to me, like go find a place           |
 | 47:31      | that this needs to be set up. So we now have, so we have them in all the places that the                 |
 | 47:39      | Amazon devices were. And so now I've sort of been working everything into working properly               |
-| 47:47      | with HomeKit so that it was worth it to actually start deploying those everywhere and make them          |
+| 47:47      | with [[HomeKit]] so that it was worth it to actually start deploying those everywhere and make them          |
 | 47:53      | things that it was actually useful to be able to tell her to open the door or open the garage door       |
 | 48:01      | or close the garage door, turn on and off lights and set up some basic scenes for things like            |
 | 48:08      | we just had Halloween, like the Halloween lighting, setting things up with Christmas lights,             |
@@ -1025,8 +1025,8 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:24:56   | is listening to whatever I wanted. That happens soon. Oops. Either way, you can actually make            |
 | 01:25:03   | your spouse happy with this stuff too. We're just going to get you in trouble where the                  |
 | 01:25:07   | automators are going to get better at it. And you can find us over at relay.fm/automators          |
-| 01:25:13   | where we've got a great catalogue with lots of stuff, including HomeKit. Maybe we'll make a                |
-| 01:25:17   | show called How to Use HomeKit and Not Get Divorced. Maybe that's a future episode. I don't know.         |
+| 01:25:13   | where we've got a great catalogue with lots of stuff, including [[HomeKit]]. Maybe we'll make a                |
+| 01:25:17   | show called How to Use [[HomeKit]] and Not Get Divorced. Maybe that's a future episode. I don't know.         |
 | 01:25:22   | I think that that could be a good future episode, David. And I'm up for it. We can start with a          |
 | 01:25:28   | smart extension lead for Christmas lights that I just purchased. Kelly, where can people find you?       |
 | 01:25:33   | Well, you can find me hosting the Daily Observations podcast over at macobserver.com.                    |

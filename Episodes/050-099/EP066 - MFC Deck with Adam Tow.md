@@ -855,7 +855,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 35:28      | episode a few weeks ago.                                                           |
 | 35:30      | Okay, so you're new to how's it going?                                             |
 | 35:33      | It's going very well.                                                              |
-| 35:35      | So I have a bunch of HomeKit power devices, lights, and I bought some              |
+| 35:35      | So I have a bunch of [[HomeKit]] power devices, lights, and I bought some              |
 | 35:39      | motion sensors and other things, but I always felt it was very lacking.            |
 | 35:44      | I couldn't do some of the things until I learned about Homebridge.                 |
 | 35:47      | And now I'm like going all wild on virtual switches, using the                     |
@@ -867,7 +867,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 36:09      | And then other people can hit that air table database or that [[JSONBin]]              |
 | 36:14      | object and then flip a switch in my house.                                         |
 | 36:17      | Right.                                                                             |
-| 36:18      | And then because I have home and HomeKit automation, I can do                      |
+| 36:18      | And then because I have home and [[HomeKit]] automation, I can do                      |
 | 36:21      | something whenever that switch gets flipped.                                       |
 | 36:24      | So I'm not using that actually right now in any kind of production                 |
 | 36:28      | environment, but it's just something that's not...                                 |
@@ -880,7 +880,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 36:54      | Right.                                                                             |
 | 36:55      | So here's an example that I am using.                                              |
 | 36:57      | One of these virtual switches for.                                                 |
-| 36:58      | So in HomeKit, you can have an automation run when someone leaves                  |
+| 36:58      | So in [[HomeKit]], you can have an automation run when someone leaves                  |
 | 37:03      | or arrives at a house.                                                             |
 | 37:04      | So I just have a very simple one that flips the switch that says                   |
 | 37:08      | Adam is home or my wife is home or that there's people in the house                |

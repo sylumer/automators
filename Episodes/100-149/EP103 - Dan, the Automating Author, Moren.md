@@ -965,7 +965,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 55:20      | maybe just because it's another thing to do or to help you get up in the morning,                      |
 | 55:24      | or just because it's a cool home automation feature, then you want Hunter Douglas. Hunter              |
 | 55:29      | Douglas shades are compatible with all your favourite home automation systems. Amazon Alexa,            |
-| 55:34      | Apple HomeKit, Google Assistant, if there's some that and more. I know listeners of the show would     |
+| 55:34      | [[HomeKit\|Apple HomeKit]], Google Assistant, if there's some that and more. I know listeners of the show would     |
 | 55:39      | really love to be able to automate this stuff themselves too, helping them integrate their             |
 | 55:42      | shades with the other products in their home, and you can get that control with Hunter Douglas.        |
 | 55:47      | So you can live beautifully with Hunter Douglas, enjoying greater convenience,                         |

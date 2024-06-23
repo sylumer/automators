@@ -219,7 +219,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 07:57      | And and in Siri shortcuts, you have the ability to start a specific playlist and you can set         |
 | 08:04      | it to be random and play music.                                                                      |
 | 08:06      | In fact, Rose's got a shortcut we're going to share in the show notes of this show that              |
-| 08:11      | does something like that in relation to HomeKit.                                                     |
+| 08:11      | does something like that in relation to [[HomeKit]].                                                     |
 | 08:13      | But but just you can have in any automation you want, you can have it start a playlist.              |
 | 08:17      | So if you've got, let's say a Siri shortcut that gets you into the mode of wrapping gifts            |
 | 08:23      | or whatever, you can have it automatically start playing that music.                                 |
@@ -241,7 +241,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 09:26      | It is the very first iteration, though, of [[Shortcuts\|Siri Shortcuts]].                                         |
 | 09:29      | So let's hope that...                                                                                |
 | 09:31      | I just feel like overall, in fact, that's one of the problems throughout some of the                 |
-| 09:35      | stuff we're talking about at the show today is the HomeKit HomePod stuff integration needs           |
+| 09:35      | stuff we're talking about at the show today is the [[HomeKit]] HomePod stuff integration needs           |
 | 09:40      | a little more muscle.                                                                                |
 | 09:41      | Yeah, it does.                                                                                       |
 | 09:43      | But I think we can get there on it, though.                                                          |
@@ -436,19 +436,19 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 20:15      | Well, I mean, this is a bit of a rabbit hole.                                                        |
 | 20:17      | We're not strictly speaking of automating holidays now, but on this week's Connected,                |
 | 20:21      | [[Federico Viticci\|Federico]] was talking about how he set up [[Homebridge]] on his brand new Mac Mini.                       |
-| 20:26      | And he's using integration to trigger [[AppleScript\|AppleScripts]] on the Mac Mini via HomeKit, which               |
+| 20:26      | And he's using integration to trigger [[AppleScript\|AppleScripts]] on the Mac Mini via [[HomeKit]], which               |
 | 20:33      | means that it can then address iTunes, which means it can talk to specific HomePods and              |
 | 20:37      | play specific music as part of a scene.                                                              |
-| 20:43      | And so for anybody looking for a holiday project who is in the HomeKit and [[AppleScript]] world,       |
+| 20:43      | And so for anybody looking for a holiday project who is in the [[HomeKit]] and [[AppleScript]] world,       |
 | 20:48      | by all means go at that and please report back.                                                      |
 | 20:50      | I have no experience with this.                                                                      |
 | 20:52      | I have used [[Homebridge]] before.                                                                       |
 | 20:55      | It's a third-party piece of software that you can run on something like a Raspberry                  |
 | 20:57      | Pi or a Mac Mini.                                                                                    |
-| 21:00      | And then you can use it to add non-HomeKit compatible devices to your home.                          |
+| 21:00      | And then you can use it to add non-[[HomeKit]] compatible devices to your home.                          |
 | 21:05      | There's also [[Home Assistant]], which is another piece of open-source software, which you can           |
-| 21:10      | run to up your home automation that works with HomeKit things and everything else.                   |
-| 21:14      | It's not HomeKit as well, or almost everything else, I believe.                                      |
+| 21:10      | run to up your home automation that works with [[HomeKit]] things and everything else.                   |
+| 21:14      | It's not [[HomeKit]] as well, or almost everything else, I believe.                                      |
 | 21:18      | And of course, if it doesn't, then hopefully you can find somebody who's written a plugin            |
 | 21:23      | to do that.                                                                                          |
 | 21:24      | But that is a way of doing that.                                                                     |

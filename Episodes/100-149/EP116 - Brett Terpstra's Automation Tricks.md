@@ -683,13 +683,13 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:03:28   | Touch Tool has contributed. It is nuts. Andreas is a mad scientist. That guy insane.                      |
 | 01:03:36   | So what do you think about home automation these days, Brett? I know that you've always                   |
 | 01:03:41   | been somebody kind of ahead of the curve on this stuff.                                                   |
-| 01:03:46   | Except I feel like since HomeKit, I have fallen behind the curve. I used to be back in the days           |
+| 01:03:46   | Except I feel like since [[HomeKit]], I have fallen behind the curve. I used to be back in the days           |
 | 01:03:55   | when you had Insteon and Zigbee. I had systems that allowed me to integrate all kinds of stuff.           |
 | 01:04:06   | I programmed them through Indigo on a Mac Mini in my basement that ran my whole house.                    |
-| 01:04:15   | But Indigo doesn't work with HomeKit or Alexa devices. And so then I have to run Homebridge               |
-| 01:04:23   | to try to bring everything together and things get messy. And buying HomeKit devices means                |
+| 01:04:15   | But Indigo doesn't work with [[HomeKit]] or Alexa devices. And so then I have to run Homebridge               |
+| 01:04:23   | to try to bring everything together and things get messy. And buying [[HomeKit]] devices means                |
 | 01:04:30   | that it won't work with the rest of my automation setup. And I've hit a point of frustration where        |
-| 01:04:37   | all of the good home automation stuff that's coming out these days is really its HomeKit                  |
+| 01:04:37   | all of the good home automation stuff that's coming out these days is really its [[HomeKit]]                  |
 | 01:04:43   | or its Google or its Alexa. And none of it works with kind of my legacy equipment. And I need to          |
 | 01:04:55   | consolidate on one protocol or another. I think this is hilarious. When it was really hard,               |
 | 01:05:01   | you were good at it. And as it got simpler, it got harder for you.                                        |
@@ -760,7 +760,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:11:56   | cool. It is, it's pretty cool. But I really like the idea of these controllers on their own network       |
 | 01:12:04   | and the stuff that's coming out of that. I feel like we're getting a lot more of it and it's              |
 | 01:12:08   | getting cheaper and all that stuff can be hooked into [[Home Assistant]]. But I mean, that stuff can          |
-| 01:12:12   | also be hooked into HomeKit, but it's just not as powerful. Yeah. Like I have, I don't know if            |
+| 01:12:12   | also be hooked into [[HomeKit]], but it's just not as powerful. Yeah. Like I have, I don't know if            |
 | 01:12:17   | you're familiar with this company, Aqara, A-Q-A-R-A. I followed a link in your newsletter and I           |
 | 01:12:23   | checked out their hardware that looked intriguing. Rose turned me on to that too, but I am like           |
 | 01:12:29   | all in because they've got their own base unit. So they're on their own frequency                         |

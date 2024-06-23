@@ -918,17 +918,17 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 57:20      | So it's less confusing because if you and I are confused about this, David, help, I                   |
 | 57:25      | hope somebody helps the new users.                                                                    |
 | 57:27      | All right.                                                                                            |
-| 57:29      | What about HomeKit?                                                                                   |
+| 57:29      | What about [[HomeKit]]?                                                                                   |
 | 57:30      | I mean, that's the Apple automation platform that we hear a little bit about every year.              |
 | 57:35      | I know that in the last year, you've become a big fan of [[Home Assistant]].                              |
-| 57:40      | How much are you doing with HomeKit and what could they change to bring you back, Rose?               |
-| 57:47      | Right now, HomeKit, it serves for a way to manually control devices when they need manual             |
+| 57:40      | How much are you doing with [[HomeKit]] and what could they change to bring you back, Rose?               |
+| 57:47      | Right now, [[HomeKit]], it serves for a way to manually control devices when they need manual             |
 | 57:53      | control, which is rarely and it's pretty much it.                                                     |
 | 57:58      | So I mean, personally, I don't think that Apple are going to bring me back just because               |
 | 58:03      | the fact that I have all of the features in [[Home Assistant]] and everything set up there                |
 | 58:08      | means that I'm going to have to do a lot of work to bring things back.                                |
 | 58:13      | But specifically, like starting at the low end of the fruit hanging spectrum, I feel                  |
-| 58:20      | like there are a number of features that Apple could add to make HomeKit more appealing               |
+| 58:20      | like there are a number of features that Apple could add to make [[HomeKit]] more appealing               |
 | 58:28      | to folks.                                                                                             |
 | 58:29      | So for example, at the moment, if you create a scene, you can turn that scene off, assuming           |
 | 58:36      | that the scene turns things on, so say that scene turns on a plug.                                    |
@@ -947,17 +947,17 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 59:20      | And it's like, cool, you can't do that.                                                               |
 | 59:23      | You have to proxy doing that through focus modes on your iPhone.                                      |
 | 59:28      | That's the way to solve that problem, which is not great.                                             |
-| 59:32      | It's doable for an advanced user, very much not clear and at all in HomeKit what's happening.         |
+| 59:32      | It's doable for an advanced user, very much not clear and at all in [[HomeKit]] what's happening.         |
 | 59:38      | So the ability to have turning things on or off after a specific period of time would                 |
 | 59:44      | be great.                                                                                             |
 | 59:46      | And also extending then the wait time if you convert things to a shortcut.                            |
 | 59:50      | But also just the ability to go back and look at your automations and see like, why did               |
 | 59:56      | this not work?                                                                                        |
-| 59:58      | Because at the moment, if a HomeKit automation doesn't work, you kind of just have to wait            |
+| 59:58      | Because at the moment, if a [[HomeKit]] automation doesn't work, you kind of just have to wait            |
 | 01:00:03   | for the next time that something would trigger and sit and watch everything like a hawk.              |
 | 01:00:07   | And why say everything?                                                                               |
 | 01:00:08   | I mean, physically watch the devices manually because you're not going to get a traces really         |
-| 01:00:13   | in HomeKit.                                                                                           |
+| 01:00:13   | in [[HomeKit]].                                                                                           |
 | 01:00:14   | You can, there's, you know, logs.                                                                     |
 | 01:00:17   | There's a great app called HomeLog, which we've talked about on the show before.                      |
 | 01:00:21   | And that, you know, that will definitely help if it's open and running, but it can only               |
@@ -969,13 +969,13 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:00:44   | What about you, David?                                                                                |
 | 01:00:45   | I'm sure you've got wishes.                                                                           |
 | 01:00:46   | I feel like it needs to step up a much like shortcuts does.                                           |
-| 01:00:49   | And there are definite third party HomeKit related apps that have more power in them.                 |
-| 01:00:55   | I would like to see that find its way into the HomeKit app itself, because in my experience           |
+| 01:00:49   | And there are definite third party [[HomeKit]] related apps that have more power in them.                 |
+| 01:00:55   | I would like to see that find its way into the [[HomeKit]] app itself, because in my experience           |
 | 01:01:01   | almost nobody uses those third party apps except our, except our devoted fans, right?                 |
 | 01:01:05   | I feel like normal people are just going to use Apple's app.                                          |
 | 01:01:09   | And the only way to move the ball forward is to add multiple triggers and a few conditions            |
 | 01:01:15   | and just give it another degree of complexity.                                                        |
-| 01:01:19   | I know that word complexity makes people Apple nervous, but if we want a HomeKit to                   |
+| 01:01:19   | I know that word complexity makes people Apple nervous, but if we want a [[HomeKit]] to                   |
 | 01:01:24   | really take off, I think it needs a little bit more.                                                  |
 | 01:01:28   | And then the other thing, this is not automation really, but I just need it to be more consistent.    |
 | 01:01:32   | I mean, just like in the last week, we've been having a thing with our front door forever.            |
@@ -997,8 +997,8 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:02:27   | And I think that's holding it back a little bit.                                                      |
 | 01:02:29   | I think they should rethink the whole paradigm for creating new automations.                          |
 | 01:02:34   | I think the fact that you have home automations in the Shortcuts app and the Shortcuts automations    |
-| 01:02:40   | can be converted to Shortcuts, I think, honestly, just another app called HomeKit Shortcuts           |
-| 01:02:50   | or something, or just advanced automations in the HomeKit app and remove the home section             |
+| 01:02:40   | can be converted to Shortcuts, I think, honestly, just another app called [[HomeKit]] Shortcuts           |
+| 01:02:50   | or something, or just advanced automations in the [[HomeKit]] app and remove the home section             |
 | 01:02:58   | from the Personal Automations tab in the Shortcuts app.                                               |
 | 01:03:02   | I understand why it's there.                                                                          |
 | 01:03:04   | I suspect a lot of folks who came up with this idea are either the only person who does               |
@@ -1006,12 +1006,12 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:03:19   | That's fine, but it can be very, very difficult to go through and manage this stuff for somebody      |
 | 01:03:27   | else.                                                                                                 |
 | 01:03:28   | And on top of that, you then have, you know, like, where did this break and why?                      |
-| 01:03:35   | And I understand and I like the fact that you can control HomeKit devices through a                   |
+| 01:03:35   | And I understand and I like the fact that you can control [[HomeKit]] devices through a                   |
 | 01:03:42   | Shortcuts section.                                                                                    |
 | 01:03:45   | But I feel like there needs to be some kind of log for just general shortcuts, like this              |
 | 01:03:51   | was done by this user, Shortcuts in brackets or something, just because when all of the               |
 | 01:03:58   | lights in the house turn on at three o'clock in the morning, that's not the time that you             |
-| 01:04:03   | want to go, huh, I guess that there's a slight problem with HomeKit at the moment.                    |
+| 01:04:03   | want to go, huh, I guess that there's a slight problem with [[HomeKit]] at the moment.                    |
 | 01:04:06   | I'll sit down and figure this out.                                                                    |
 | 01:04:08   | It's three o'clock in the morning.                                                                    |
 | 01:04:09   | You get woken up and you want to go back to sleep and you're cranky.                                  |
@@ -1021,7 +1021,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:04:24   | and you're not going to want to debug it, you're just going to be like, no, turn off                  |
 | 01:04:27   | the thing that did this, you need to know what did this.                                              |
 | 01:04:30   | And that's where it gets very complicated and confusing, especially because you've got                |
-| 01:04:35   | other controls happening, you know, it's not just HomeKit that's controlling your Hue                 |
+| 01:04:35   | other controls happening, you know, it's not just [[HomeKit]] that's controlling your Hue                 |
 | 01:04:39   | lights.                                                                                               |
 | 01:04:40   | The Hue Hub has automations that can be controlling the Hue lights as well.                           |
 | 01:04:44   | And where is this happening?                                                                          |
@@ -1030,7 +1030,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:04:53   | work as expected, what made this thing do this thing?                                                 |
 | 01:04:56   | That's the thing where in a perfect world where everything was great, we don't need                   |
 | 01:05:01   | error reports or error messages and shortcuts.                                                        |
-| 01:05:05   | We don't need logging in HomeKit.                                                                     |
+| 01:05:05   | We don't need logging in [[HomeKit]].                                                                     |
 | 01:05:08   | We don't live in a perfect world.                                                                     |
 | 01:05:09   | Most people have got terrible home networks and also if we have problems causing weird                |
 | 01:05:12   | issues, it'd be great to just have a little bit of logging so that we would know, hey,                |
@@ -1050,13 +1050,13 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:05:55   | We'll definitely get it.                                                                              |
 | 01:05:56   | But at the same time, it is at the point where there are enough users who are running into            |
 | 01:06:03   | walls with things where they need the ability to turn off this device's ability to run as             |
-| 01:06:09   | a HomeKit Hub.                                                                                        |
+| 01:06:09   | a [[HomeKit]] Hub.                                                                                        |
 | 01:06:10   | Because for whatever reason, that HomePod Mini in that bedroom, even though theoretically             |
-| 01:06:15   | it should be fine, when that one becomes the Hub, the HomeKit Hub, everything kind of                 |
+| 01:06:15   | it should be fine, when that one becomes the Hub, the [[HomeKit]] Hub, everything kind of                 |
 | 01:06:21   | goes wonky and sideways.                                                                              |
 | 01:06:23   | I was reading about that on Reddit earlier today.                                                     |
-| 01:06:25   | Everybody has one HomeKit Hub where usually about 10% to 20% of devices go unresponsive               |
-| 01:06:31   | when that HomePod Mini becomes the HomeKit Hub.                                                       |
+| 01:06:25   | Everybody has one [[HomeKit]] Hub where usually about 10% to 20% of devices go unresponsive               |
+| 01:06:31   | when that HomePod Mini becomes the [[HomeKit]] Hub.                                                       |
 | 01:06:34   | Unlike the last time, I think it was 100 out of 120 devices became unresponsive.                      |
 | 01:06:40   | That's a lot of devices to just have disappear and not work.                                          |
 | 01:06:46   | So yeah, I can understand why people need more of this.                                               |
@@ -1069,18 +1069,18 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:07:12   | That's not a good look for shortcuts.                                                                 |
 | 01:07:14   | Exactly.                                                                                              |
 | 01:07:15   | Yeah.                                                                                                 |
-| 01:07:16   | I mean, I love the fact that we can do more advanced things with shortcuts through HomeKit.           |
+| 01:07:16   | I mean, I love the fact that we can do more advanced things with shortcuts through [[HomeKit]].           |
 | 01:07:22   | That's great.                                                                                         |
 | 01:07:23   | I don't want that to go away, but I think it is confusing for users, especially considering           |
-| 01:07:27   | the limited subset of actions available within the shortcuts actions itself inside of HomeKit         |
-| 01:07:33   | that it would be worth splitting them so that they're only available in the HomeKit app.              |
+| 01:07:27   | the limited subset of actions available within the shortcuts actions itself inside of [[HomeKit]]         |
+| 01:07:33   | that it would be worth splitting them so that they're only available in the [[HomeKit]] app.              |
 | 01:07:36   | Because at the moment, a number of times I get a question for Ask iOS Today or we get                 |
 | 01:07:44   | it here on Automated.                                                                                 |
-| 01:07:45   | Why can't I send a message from a HomeKit action?                                                     |
+| 01:07:45   | Why can't I send a message from a [[HomeKit]] action?                                                     |
 | 01:07:49   | I don't see that action.                                                                              |
 | 01:07:50   | It's not there.                                                                                       |
 | 01:07:51   | I have to create a personal automation instead.                                                       |
-| 01:07:52   | Well, it's the difference between a personal automation that runs at 3pm and a HomeKit                |
+| 01:07:52   | Well, it's the difference between a personal automation that runs at 3pm and a [[HomeKit]]                |
 | 01:07:55   | action that runs at 3pm.                                                                              |
 | 01:07:58   | The fact that those kind of come under the same umbrella, but it's more the light in                  |
 | 01:08:02   | the dark side of the moon, it's confusing for users.                                                  |

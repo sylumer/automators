@@ -545,7 +545,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 27:41      | And I'm like, I don't know what just happened.                                                        |
 | 27:43      | Was the command play Beyonce?                                                                         |
 | 27:45      | No, the command was like turn the lights on, you know.                                                |
-| 27:49      | I use my HomePod for HomeKit and it's great.                                                          |
+| 27:49      | I use my HomePod for [[HomeKit]] and it's great.                                                          |
 | 27:53      | My watch has some issues like that, but it'll usually be, I'll tap you when I'm ready.                |
 | 27:59      | And then I'll wait, you know, 15 seconds for my light to come on.                                     |
 | 28:03      | Yeah.                                                                                                 |

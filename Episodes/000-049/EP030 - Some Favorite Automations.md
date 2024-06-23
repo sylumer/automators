@@ -455,8 +455,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 33:20      | for a couple of reasons, mostly easier to get into the config file and edit things.                  |
 | 33:24      | So what devices do you need the Homebridge for at this point?                                       |
 | 33:28      | So we have a Netatmo weather station. And we have a few plugs, which are compatible with             |
-| 33:35      | Philips Hue. But they're not compatible with HomeKit. And also we have a Neato Botvac,                |
-| 33:42      | which is very nice and goes around and cleans all our floors. But I wanted to add it to a HomeKit    |
+| 33:35      | Philips Hue. But they're not compatible with [[HomeKit]]. And also we have a Neato Botvac,                |
+| 33:42      | which is very nice and goes around and cleans all our floors. But I wanted to add it to a [[HomeKit]]    |
 | 33:46      | scene, the one where we've left, where everybody has left the house. So that it would just           |
 | 33:51      | automatically run when you walk out the door and you press the button that says I'm leaving,         |
 | 33:55      | that turns everything off, and it turns on the robot vacuum. So whenever we leave,                   |

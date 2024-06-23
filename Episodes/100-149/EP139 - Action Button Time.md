@@ -90,8 +90,8 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 02:07      | And then they both got 15s and her continued to work for him.                                       |
 | 02:10      | Not so much.                                                                                        |
 | 02:11      | And it's just, you know, kind of crazy.                                                             |
-| 02:14      | So I would vote that cats are more responsive than HomeKit when the cat wants to be responsive.     |
-| 02:21      | HomeKit will always give you a response, but that may not be what you want.                         |
+| 02:14      | So I would vote that cats are more responsive than [[HomeKit]] when the cat wants to be responsive.     |
+| 02:21      | [[HomeKit]] will always give you a response, but that may not be what you want.                         |
 | 02:27      | David Sparks But like a cat, it may not give you much                                               |
 | 02:29      | feedback either.                                                                                    |
 | 02:31      | That's the problem, right?                                                                          |
@@ -271,7 +271,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 12:45      | And we talk about this on all the time on the show, but no matter what it is you want               |
 | 12:49      | to do on an iPhone, it pretty much can do it with a shortcut.                                       |
 | 12:52      | I mean, most things are available to, you know, you can make one turn on your lights.               |
-| 12:56      | We were joking earlier about HomeKit, but you could say, you know, make one of them                 |
+| 12:56      | We were joking earlier about [[HomeKit]], but you could say, you know, make one of them                 |
 | 12:59      | turn on the lights at home or turn off the lights or unlock the front door or whatever.             |
 | 13:05      | And you can tie all of that to the action button with the simple choose from menu.                  |
 | 13:09      | It doesn't have to just be five.                                                                    |

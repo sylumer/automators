@@ -150,7 +150,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 06:04      | And yeah, it's going to be very, very useful, especially when you realise that shortcuts               |
 | 06:08      | for Mac has [[AppleScript]] support, [[Keyboard Maestro]] support, all of those things.                       |
 | 06:14      | So you can run these things integrated together from just one tiny little command, which if            |
-| 06:21      | this and that make or even your own webhooks from, say, HomeKit can then run automations               |
+| 06:21      | this and that make or even your own webhooks from, say, [[HomeKit]] can then run automations               |
 | 06:27      | on your Mac through shortcuts.                                                                         |
 | 06:29      | Yeah, I think taking it to the Mac is going to be really nice.                                         |
 | 06:34      | I mean, I think that's going to make a huge difference.                                                |

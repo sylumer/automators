@@ -1459,7 +1459,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 56:52      | but you are looking into [[Home Assistant]],                           |
 | 56:55      | you could get a Zigbee dongle for [[Home Assistant]],                  |
 | 56:59      | plug that in and pair the Aqara stuff with that                    |
-| 57:02      | and then share it back to HomeKit.                                 |
+| 57:02      | and then share it back to [[HomeKit]].                                 |
 | 57:05      | That is something that you can do.                                 |
 | 57:07      | But that is a lot more work than just buying the Aqara hub.        |
 | 57:10      | For most people, I would not recommend that route.                 |
@@ -1500,7 +1500,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 58:27      | So Aqara make things for Xiaomi.                                   |
 | 58:30      | And so you can actually buy the Xiaomi things                      |
 | 58:34      | and pair them in the Aqara app to the Aqara Hub                    |
-| 58:40      | and they should still appear in HomeKit.                           |
+| 58:40      | and they should still appear in [[HomeKit]].                           |
 | 58:43      | So for example, I bought some Xiaomi motion sensors                |
 | 58:49      | because I couldn't get the Aqara one at a time.                    |
 | 58:51      | I just wanted to get one and try it to see what it was like.       |
@@ -1538,7 +1538,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:00:08   | I mean, as far as home automation guys, it's affordable.           |
 | 01:00:10   | They certainly have it all,                                        |
 | 01:00:11   | smart plugs, vibration sensors, water sensors.                     |
-| 01:00:16   | Yeah, the vibration sensors show up in HomeKit                     |
+| 01:00:16   | Yeah, the vibration sensors show up in [[HomeKit]]                     |
 | 01:00:18   | as motion sensors.                                                 |
 | 01:00:20   | So I have one stuck on my office chair                             |
 | 01:00:23   | because it's looking for movement in this room,                    |
@@ -1554,7 +1554,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:00:44   | So whenever a post comes through the door,                         |
 | 01:00:46   | I get a notification saying you've got mail                        |
 | 01:00:48   | because that's fun.                                                |
-| 01:00:49   | All right, yeah, just on the HomeKit topic,                        |
+| 01:00:49   | All right, yeah, just on the [[HomeKit]] topic,                        |
 | 01:00:55   | we talked about this recently.                                     |
 | 01:00:57   | And as a result of that, I ordered a robot mop                     |
 | 01:01:02   | at your insistence.                                                |

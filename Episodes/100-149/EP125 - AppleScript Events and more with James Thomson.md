@@ -99,9 +99,9 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 02:15      | open [[Xcode]] and then they go to bed. So they don't have as much automation as some of our               |
 | 02:20      | listeners.                                                                                             |
 | 02:21      | I mean, there was one of the things that I was looking into, and this is, we're skipping               |
-| 02:27      | ahead, but anyway, I was looking at the shortcuts stuff that you can do with HomeKit. And I            |
+| 02:27      | ahead, but anyway, I was looking at the shortcuts stuff that you can do with [[HomeKit]]. And I            |
 | 02:36      | hadn't made the connection when I had first heard about it that this stuff would run on                |
-| 02:41      | your HomeKit hub thing rather than on a phone or whatever. And I was looking at it and I               |
+| 02:41      | your [[HomeKit]] hub thing rather than on a phone or whatever. And I was looking at it and I               |
 | 02:47      | spent, you know, a day or so messing around with things, trying to do stuff with lighting              |
 | 02:53      | or whatever. And then I sort of paused and I was like, do I want to write code for my                  |
 | 02:58      | house?                                                                                                 |
@@ -452,7 +452,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 38:04      | presence to turn it off. Like if there's nobody in the room, turn it off. I think that actually        |
 | 38:08      | would probably solve the problem for me. But then you're getting into a situation where                |
 | 38:12      | you've got multiple automations that you need to track. And yeah, and you start bumping                |
-| 38:19      | against the the fringy edges of HomeKit and start looking at something like [[Home Assistant]]             |
+| 38:19      | against the the fringy edges of [[HomeKit]] and start looking at something like [[Home Assistant]]             |
 | 38:25      | where you have more control.                                                                           |
 | 38:26      | Yeah, because how I would solve this in [[Home Assistant]] is I just create a group with those             |
 | 38:31      | two sensors in and then when either of them is on, the group is on and when both of them               |
@@ -463,7 +463,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 38:58      | has recently released an update with some cool stuff that it does. But I don't remember                |
 | 39:03      | if multiple triggers in automations were something that it supported or not. So I will have to         |
 | 39:08      | experiment and report back on that.                                                                    |
-| 39:11      | I just want somebody to release a nice integrated IR and a present sensor in a HomeKit specific        |
+| 39:11      | I just want somebody to release a nice integrated IR and a present sensor in a [[HomeKit]] specific        |
 | 39:21      | or at least supporting whatever protocols matter, probably. But I just want that as                    |
 | 39:29      | a one thing that I can deploy that will work. I mean, is it too much to be able to just                |
 | 39:34      | want to walk through my house and have the lights follow me and say hello to me as I                   |
@@ -560,7 +560,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 47:26      | see, you know, like, there's a lot of like, I love the hue system, you know, and I know                |
 | 47:33      | people think they're overpriced for what they are. And yes, I can see that. But the stuff              |
 | 47:40      | basically just works. And there's a lot of control in the hue app and you can still have               |
-| 47:49      | it all talking to HomeKit as well. And as you say, you don't have to repair, re-pair                    |
+| 47:49      | it all talking to [[HomeKit]] as well. And as you say, you don't have to repair, re-pair                    |
 | 47:57      | all your lights when your Wi-Fi network goes berserk.                                             |
 | 48:02      | Yes. And I like it for that. And I like the fact                                                       |
 | 48:06      | that I have a high degree of confidence that if I press the light switch, the light will               |

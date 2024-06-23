@@ -417,7 +417,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 13:28      | so that you don't trigger everybody's devices,                                                                                                                           |
 | 13:31      | but we use the Amazon A lady as our smart home                                                                                                                           |
 | 13:36      | sort of foundation, if you will,                                                                                                                                         |
-| 13:38      | but you could use, you know, HomeKit in Syria                                                                                                                            |
+| 13:38      | but you could use, you know, [[HomeKit]] in Siri                                                                                                                            |
 | 13:40      | and Google one and all the others.                                                                                                                                       |
 | 13:42      | But the simple little automation of at sundown                                                                                                                           |
 | 13:47      | turn on the outdoor lights                                                                                                                                               |
@@ -857,7 +857,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 35:13      | Well, I'm doing a lot in the cloud.                                                                                                                                      |
 | 35:15      | I would say that the A-Lady stuff that I do is in the cloud                                                                                                              |
 | 35:18      | because that certainly requires the cloud for that to happen.                                                                                                            |
-| 35:21      | It's not like HomeKit where it's sort of happening locally.                                                                                                              |
+| 35:21      | It's not like [[HomeKit]] where it's sort of happening locally.                                                                                                              |
 | 35:25      | Yeah.                                                                                                                                                                    |
 | 35:28      | But I've been using IFTTT for a very long time,                                                                                                                          |
 | 35:32      | and there are so many things that I have IFTTT do                                                                                                                        |

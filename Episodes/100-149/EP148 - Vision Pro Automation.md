@@ -481,7 +481,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 27:43      | the...                                                                                                |
 | 27:44      | Right.                                                                                                |
 | 27:45      | If you look in the sidebar, it says Automations, you can go in there, you can access.                 |
-| 27:49      | I mean, the ones that showed up for me were largely my HomeKit automations.                           |
+| 27:49      | I mean, the ones that showed up for me were largely my [[HomeKit]] automations.                           |
 | 27:52      | Oh, well, that's the existing ones, right?                                                            |
 | 27:54      | Because you hadn't created any new ones.                                                              |
 | 27:57      | Exactly.                                                                                              |

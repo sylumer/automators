@@ -724,7 +724,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 42:59      | that gets stuck, everything happens automatically with Hunter Douglas shades and that's why             |
 | 43:03      | I think they're a great fit for you and me.                                                             |
 | 43:07      | Hunter Douglas shades are compatible with all your favourite home automation systems,                    |
-| 43:11      | Amazon, Alexa, Apple HomeKit, Google Assistant, IFTTT and more.                                         |
+| 43:11      | Amazon, Alexa, [[HomeKit\|Apple HomeKit]], Google Assistant, IFTTT and more.                                         |
 | 43:17      | And I know that listeners of this show would really love to be able to automate the stuff               |
 | 43:21      | themselves too, helping them to integrate their shades with the other products in their                 |
 | 43:25      | home and you can get that control with Hunter Douglas.                                                  |

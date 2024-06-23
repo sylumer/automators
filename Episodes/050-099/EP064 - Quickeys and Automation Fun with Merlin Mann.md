@@ -424,12 +424,12 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 17:12      | probably a shortcut where I could do this, but I would love a pop-up that says, don't                         |
 | 17:15      | give me this kind of notification for this long.                                                              |
 | 17:19      | But again, now what happens when you're using, for example, the Logitech Circle View Camera,                  |
-| 17:24      | Logitech Circle View Camera, good camera, real good, made for HomeKit.                                        |
+| 17:24      | Logitech Circle View Camera, good camera, real good, made for [[HomeKit]].                                        |
 | 17:28      | What does that mean?                                                                                          |
 | 17:29      | It does not have an app.                                                                                      |
-| 17:30      | The only way to interact with that camera is in HomeKit full stop.                                            |
+| 17:30      | The only way to interact with that camera is in [[HomeKit]] full stop.                                            |
 | 17:34      | If you get your VPN on, guess what?                                                                           |
-| 17:37      | You can't see the camera because some things on HomeKit will not work.                                        |
+| 17:37      | You can't see the camera because some things on [[HomeKit]] will not work.                                        |
 | 17:40      | If you've ever had trouble configuring something locally, like a new device, it can be because                |
 | 17:45      | you've got a VPN on and it can't do the stuff that it needs to do.                                            |
 | 17:49      | Anyway, it's not a very piecemeal and I think really so much of when we talk about automation,                |
@@ -549,29 +549,29 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 24:28      | Things like I say, like [[Matthew Cassinelli]] stuff that [[Federico Viticci\|Federico]] has put out, all that                          |
 | 24:33      | kind of stuff where I use it.                                                                                 |
 | 24:35      | I don't really know how it's working sometimes, but I really like it a lot and I like shortcuts               |
-| 24:41      | as a bridge from something like HomeKit, which can be so dumb sometimes.                                      |
+| 24:41      | as a bridge from something like [[HomeKit]], which can be so dumb sometimes.                                      |
 | 24:46      | A bridge to like, I just need a little bit more than this one bit automation and if that's                    |
 | 24:52      | easy enough to do in shortcuts.                                                                               |
 | 24:53      | I love the shortcuts exist, I love using it and I'm very excited about the future.                            |
 | 24:57      | I would agree with that.                                                                                      |
-| 24:59      | The HomeKit stuff, I think, really is an area that everybody could benefit from using                         |
+| 24:59      | The [[HomeKit]] stuff, I think, really is an area that everybody could benefit from using                         |
 | 25:04      | shortcuts because you're exactly right.                                                                       |
-| 25:06      | I mean, HomeKit only goes so far and if there's particular lights or sensors or things you                    |
+| 25:06      | I mean, [[HomeKit]] only goes so far and if there's particular lights or sensors or things you                    |
 | 25:12      | want to combine into something, writing your own shortcut script for it really isn't that                     |
 | 25:18      | hard and it's a great way to kind of improve what you're getting out of it.                                   |
-| 25:24      | What are some examples of ways you're using it for HomeKit?                                                   |
-| 25:29      | HomeKit is a real mixed bag for me.                                                                           |
+| 25:24      | What are some examples of ways you're using it for [[HomeKit]]?                                                   |
+| 25:29      | [[HomeKit]] is a real mixed bag for me.                                                                           |
 | 25:32      | When I first started getting into this stuff, the two platforms that I kind of got most                       |
 | 25:38      | invested in were Philips Hue lights and the Amazon voice products because they're both                        |
 | 25:45      | real reliable, they're real good.                                                                             |
 | 25:47      | We rent, so we're not going to be able to rewire our whole house and Hue's been pretty                        |
 | 25:52      | good for that along the way things have improved.                                                             |
-| 25:55      | There's lots more devices now that can play well and so HomeKit has always in some ways                       |
+| 25:55      | There's lots more devices now that can play well and so [[HomeKit]] has always in some ways                       |
 | 25:59      | been a little bit of a cord of last resort for me and I want it to be great but it also                       |
 | 26:06      | can be maddening sometimes.                                                                                   |
 | 26:09      | I like the way that it suggests automations for you now but as I say, some of those automations               |
 | 26:13      | are pretty brain dead and a lot of them assume levels of engagement that are difficult.                       |
-| 26:20      | There's so many automations out of the box in HomeKit that are based on is everybody                          |
+| 26:20      | There's so many automations out of the box in [[HomeKit]] that are based on is everybody                          |
 | 26:24      | home?                                                                                                         |
 | 26:25      | Is everybody away?                                                                                            |
 | 26:26      | I can't get my family to sign up for these things.                                                            |
@@ -585,9 +585,9 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 26:54      | Oh, you're near a drugstore, do this thing, brilliant.                                                        |
 | 26:58      | But at your house, until we get the ultra-wideband and get those little tile style dinguses,                  |
 | 27:05      | it's still such a blunt instrument and I feel like sensors are the missing piece and there's                  |
-| 27:09      | not that many sensors that are good and work with HomeKit.                                                    |
+| 27:09      | not that many sensors that are good and work with [[HomeKit]].                                                    |
 | 27:14      | This is a problem that will come up again and again.                                                          |
-| 27:16      | So Philips Hue sensors are pretty good and they work with HomeKit so I end up using those                     |
+| 27:16      | So Philips Hue sensors are pretty good and they work with [[HomeKit]] so I end up using those                     |
 | 27:21      | a lot.                                                                                                        |
 | 27:22      | Here's what I wanted.                                                                                         |
 | 27:23      | You go into the bathroom after a certain hour, it turns on the light dimly, turns it off                      |
@@ -601,7 +601,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 27:42      | not what they wanted.                                                                                         |
 | 27:43      | If you have one of those in your closet, what's the line on?                                                  |
 | 27:45      | Well, what if you want to spend more than five minutes in the closet?                                         |
-| 27:48      | How do you, I know there's ways to address all of these things but HomeKit gives you                          |
+| 27:48      | How do you, I know there's ways to address all of these things but [[HomeKit]] gives you                          |
 | 27:52      | the very basic sort of things of like, if your goal is like, when I leave the house,                          |
 | 27:56      | lock the door.                                                                                                |
 | 27:57      | Like that'll mostly work.                                                                                     |
@@ -611,7 +611,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 28:10      | This is not even getting into, you know what?                                                                 |
 | 28:13      | Last week, my front porch light started shutting off around sunset and I didn't even know where               |
 | 28:21      | to begin.                                                                                                     |
-| 28:22      | Well, I knew where to begin, which is like, go to HomeKit and see if I accidentally did                       |
+| 28:22      | Well, I knew where to begin, which is like, go to [[HomeKit]] and see if I accidentally did                       |
 | 28:24      | something.                                                                                                    |
 | 28:25      | Then I got to go to all these different apps.                                                                 |
 | 28:27      | All these different apps have all these, there could be somewhere in there where something                    |
@@ -635,7 +635,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 29:23      | was causing the problem you nominally solved, you're not that much better off.                                |
 | 29:27      | Yeah, I totally get that.                                                                                     |
 | 29:29      | And especially the home app doesn't allow you to do all of the automation options that                        |
-| 29:34      | HomeKit does, which feels like a massive oversight.                                                           |
+| 29:34      | [[HomeKit]] does, which feels like a massive oversight.                                                           |
 | 29:37      | Though fortunately it's opened the door for a lot of other apps like Home Plus.                               |
 | 29:41      | So my solution to this particular problem.                                                                    |
 | 29:43      | So glad you brought up Home Plus.                                                                             |
@@ -647,7 +647,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 30:04      | And that feels like a maddening oversight.                                                                    |
 | 30:07      | But at the same time, I also understand that Apple want to keep this stuff relatively simple.                 |
 | 30:12      | So the way that I am taking the Keep It Silly Simple approach is I use the Hue app and the                    |
-| 30:20      | IKEA app to add the items to HomeKit.                                                                         |
+| 30:20      | IKEA app to add the items to [[HomeKit]].                                                                         |
 | 30:23      | And that is where my usage of the Hue app, the IKEA app, the Aqara app almost ends.                          |
 | 30:29      | The Aqara app, I've got two buttons working as doorbells and the way that they talk to                       |
 | 30:33      | their hub to make a ding-dong sound is best done through their app.                                           |
@@ -655,7 +655,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 30:41      | Because otherwise, you do have to...                                                                          |
 | 30:42      | Every app is different.                                                                                       |
 | 30:43      | Every device is different.                                                                                    |
-| 30:45      | I want notifications for certain kinds of things that Home and HomeKit do not offer.                          |
+| 30:45      | I want notifications for certain kinds of things that Home and [[HomeKit]] do not offer.                          |
 | 30:50      | I can only get those notifications through a third-party app.                                                 |
 | 30:54      | And I sent a friend recently screenshots of my daughter's room in like six different                          |
 | 30:59      | apps.                                                                                                         |
@@ -664,21 +664,21 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 31:03      | But yeah, I'd gone away from Home Plus for a while, but recently came back to it.                             |
 | 31:07      | And I guess I didn't realise how much is in there, there's so much good stuff in there.                       |
 | 31:11      | Yeah, there really is.                                                                                        |
-| 31:12      | But I do think the hardware problem with HomeKit is one that Apple...                                         |
+| 31:12      | But I do think the hardware problem with [[HomeKit]] is one that Apple...                                         |
 | 31:17      | I really just don't understand why they didn't solve it, why Apple doesn't make their own                     |
 | 31:20      | hardware.                                                                                                     |
 | 31:21      | I mean, here's a company that likes to charge money for stuff that you bring home and plug                    |
 | 31:28      | into your wall.                                                                                               |
 | 31:30      | And so much of these problems to me sourced back to third-party hardware.                                     |
 | 31:34      | We just got a... we started setting up our Christmas decorations while I bought off Amazon                    |
-| 31:39      | from a third-party, some of these HomeKit-enabled plugs, you know, you plug them in the wall                  |
-| 31:44      | and they say they work with HomeKit great.                                                                    |
-| 31:46      | It's got the little funny little QR code thing on top of it that you scan with the HomeKit                    |
+| 31:39      | from a third-party, some of these [[HomeKit]]-enabled plugs, you know, you plug them in the wall                  |
+| 31:44      | and they say they work with [[HomeKit]] great.                                                                    |
+| 31:46      | It's got the little funny little QR code thing on top of it that you scan with the [[HomeKit]]                    |
 | 31:51      | app.                                                                                                          |
 | 31:52      | And my whole idea was I want to use these things, but I don't want to install another                         |
 | 31:56      | app and I want to deal with it, you know.                                                                     |
 | 31:59      | And it worked.                                                                                                |
-| 32:00      | You know, I plugged it in, I scanned the code, HomeKit recognised it, it turns the lights                     |
+| 32:00      | You know, I plugged it in, I scanned the code, [[HomeKit]] recognised it, it turns the lights                     |
 | 32:04      | off, it turns them on.                                                                                        |
 | 32:05      | But then it's got this little alert on it saying this hardware, you know, there's a firmware                  |
 | 32:11      | update for this hardware.                                                                                     |
@@ -699,7 +699,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 32:48      | I paid $15 for this plug.                                                                                     |
 | 32:51      | You know, I just want one little small Christmas tree to turn off and on, you know.                           |
 | 32:57      | And so I give up on the app.                                                                                  |
-| 32:59      | I go back to HomeKit and now it's no longer working in HomeKit either.                                        |
+| 32:59      | I go back to [[HomeKit]] and now it's no longer working in [[HomeKit]] either.                                        |
 | 33:03      | So whatever I did, completely screwed up the whole thing.                                                     |
 | 33:05      | I had to basically reset the whole device.                                                                    |
 | 33:08      | But sometimes, like I set up, I tried to set up HOOBS.                                                        |
@@ -787,7 +787,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 36:58      | And it's like, now guess what I got to do?                                                                    |
 | 37:00      | Now my thumb gets a workout because I got to go through, I got a long press, I got a                          |
 | 37:05      | drag, I got to do all the things, reset what's room, what room it's in.                                       |
-| 37:08      | And by the way, in HomeKit, it's a good idea to name your devices starting with the name,                     |
+| 37:08      | And by the way, in [[HomeKit]], it's a good idea to name your devices starting with the name,                     |
 | 37:13      | the exact name of the room.                                                                                   |
 | 37:14      | So for example, I would say like lounge TV or Emma overhead light or whatever.                                |
 | 37:20      | And that way that falls off in the room and you see just the thing.                                           |
@@ -883,7 +883,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 43:03      | I will try and find one of the Apple technical support documents that we can throw in the                     |
 | 43:08      | show notes so that people can actually learn about how this works instead of how I think                      |
 | 43:12      | it works.                                                                                                     |
-| 43:13      | But from what I've read on HomeKit forums and so on, it just basically speeds up your                         |
+| 43:13      | But from what I've read on [[HomeKit]] forums and so on, it just basically speeds up your                         |
 | 43:17      | connection to Bluetooth devices.                                                                              |
 | 43:20      | And I do actually have two EVE energy plugs in my kitchen, which is next to my home, well,                    |
 | 43:27      | my HomePod Mini is also in my kitchen, so.                                                                    |
@@ -995,7 +995,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 49:01      | on downstairs.                                                                                                |
 | 49:02      | So you're using, you're using the app to like set the scene setting, the scene setting in                     |
 | 49:06      | there to say like, when I, but you have to do that in the app because it doesn't work                         |
-| 49:09      | with HomeKit, but you could talk to other devices.                                                            |
+| 49:09      | with [[HomeKit]], but you could talk to other devices.                                                            |
 | 49:12      | I need to look at that because so that works.                                                                 |
 | 49:15      | Then you got like that.                                                                                       |
 | 49:16      | We got two dimmer switches.                                                                                   |
@@ -1716,7 +1716,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:28:00   | all of Read AFM.                                                                                              |
 | 01:28:01   | Marlin, you've been involved with computers and automation for a long time.                                   |
 | 01:28:08   | What are the areas that you would like to see improve, or even just areas you're working                      |
-| 01:28:14   | on that just aren't there yet, other than HomeKit?                                                            |
+| 01:28:14   | on that just aren't there yet, other than [[HomeKit]]?                                                            |
 | 01:28:21   | That's a really good question.                                                                                |
 | 01:28:23   | Of the things that I have any control over, one of the things I've always loved on a Mac,                     |
 | 01:28:30   | and this happens other places, but I've been using a Mac pretty much every day since 1987,                    |

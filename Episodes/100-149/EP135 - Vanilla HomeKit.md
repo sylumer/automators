@@ -194,20 +194,20 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 08:18      | an Automation, and I thought it'd be fun to talk about my thoughts about automating going                 |
 | 08:23      | in cold.                                                                                                  |
 | 08:24      | We're going to talk about that in the extended version today, so that'll be fun.                          |
-| 08:27      | Today's show is all about Vanilla HomeKit, and I kind of like this topic.                                 |
-| 08:33      | I'm a little nervous by it, so to give you a little background, we've covered HomeKit                     |
-| 08:37      | several times, but Rose and I very quickly like to go down the rabbit hole of HomeKit.                    |
+| 08:27      | Today's show is all about Vanilla [[HomeKit]], and I kind of like this topic.                                 |
+| 08:33      | I'm a little nervous by it, so to give you a little background, we've covered [[HomeKit]]                     |
+| 08:37      | several times, but Rose and I very quickly like to go down the rabbit hole of [[HomeKit]].                    |
 | 08:42      | How far can we go with it?                                                                                |
 | 08:44      | Both of us are [[Home Assistant]] owners and users, and I got an email from a listener asking                 |
-| 08:49      | what she can do with HomeKit even though, and to quote her email, what can I do with                      |
-| 08:53      | HomeKit even though I don't have [[Home Assistant]] and all the other toys you and Rose talk about?           |
+| 08:49      | what she can do with [[HomeKit]] even though, and to quote her email, what can I do with                      |
+| 08:53      | [[HomeKit]] even though I don't have [[Home Assistant]] and all the other toys you and Rose talk about?           |
 | 08:58      | That's what she said, and I thought, you know what?                                                       |
 | 09:00      | She's right.                                                                                              |
-| 09:01      | We don't stop at that intermediate level of HomeKit enough, because we're Automators,                     |
+| 09:01      | We don't stop at that intermediate level of [[HomeKit]] enough, because we're Automators,                     |
 | 09:06      | we want to go deeper, but I know we have listeners that don't want to get the extra                       |
-| 09:10      | toys and don't want to deal with [[Home Assistant]], and let's do a HomeKit show where we talk                |
-| 09:16      | about HomeKit in its vanilla form, and honestly, that's what the vast majority of people are              |
-| 09:22      | doing with HomeKit, so of course, we should cover it, and I thought we'd do that today.                   |
+| 09:10      | toys and don't want to deal with [[Home Assistant]], and let's do a [[HomeKit]] show where we talk                |
+| 09:16      | about [[HomeKit]] in its vanilla form, and honestly, that's what the vast majority of people are              |
+| 09:22      | doing with [[HomeKit]], so of course, we should cover it, and I thought we'd do that today.                   |
 | 09:27      | Yeah.                                                                                                     |
 | 09:28      | Yeah.                                                                                                     |
 | 09:29      | The only thing I'm going to say about this is, it's kind of like dipping your toe into                    |
@@ -220,30 +220,30 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 09:56      | I've yet to figure out actually how to get an automated jeep that's not creepy, who can                   |
 | 10:02      | just deal with all of the life things for me and produce food at exactly the time that                    |
 | 10:07      | I need exactly what I want without me actually voicing anything, but there's a lot that smart             |
-| 10:15      | home can do, but when you start running into limitations, if you're just using HomeKit,                   |
-| 10:20      | be prepared for at least some of that to be the fact that you're just using HomeKit and                   |
+| 10:15      | home can do, but when you start running into limitations, if you're just using [[HomeKit]],                   |
+| 10:20      | be prepared for at least some of that to be the fact that you're just using [[HomeKit]] and                   |
 | 10:26      | you're not involving anything else.                                                                       |
-| 10:28      | With that said, I'm also going to say, if you're using HomeKit, try and just do everything                |
-| 10:33      | in HomeKit, and we'll talk about that a little bit more as we go.                                         |
-| 10:37      | There's a lot that you can do in HomeKit, and it's got a lot better, especially with                      |
+| 10:28      | With that said, I'm also going to say, if you're using [[HomeKit]], try and just do everything                |
+| 10:33      | in [[HomeKit]], and we'll talk about that a little bit more as we go.                                         |
+| 10:37      | There's a lot that you can do in [[HomeKit]], and it's got a lot better, especially with                      |
 | 10:40      | iOS 17, I have to say.                                                                                    |
 | 10:42      | Some of the automations, like when you convert them to shortcuts, they've got a lot more                  |
 | 10:46      | powerful, so that's always a good sign.                                                                   |
 | 10:49      | Yeah, and I think that's where we start.                                                                  |
-| 10:51      | What is the state of HomeKit today?                                                                       |
+| 10:51      | What is the state of [[HomeKit]] today?                                                                       |
 | 10:54      | And granted, we're right in this transition period between iOS 16 and 17, but I would                     |
 | 11:00      | agree with Rose.                                                                                          |
 | 11:01      | I think it's actually a lot better than it used to be.                                                    |
-| 11:04      | People does understand most people don't go beyond HomeKit, so they've been adding features               |
+| 11:04      | People does understand most people don't go beyond [[HomeKit]], so they've been adding features               |
 | 11:12      | to just tack onto Rose's caveat above.                                                                    |
-| 11:16      | I think the real frustration with HomeKit becomes with the automation.                                    |
+| 11:16      | I think the real frustration with [[HomeKit]] becomes with the automation.                                    |
 | 11:20      | It's not turning the lights off and on.                                                                   |
-| 11:22      | You can do that easy enough with HomeKit, but the conditional automation and the stuff                    |
+| 11:22      | You can do that easy enough with [[HomeKit]], but the conditional automation and the stuff                    |
 | 11:26      | that we like to talk about, you just don't get that with this, but that's okay if you                     |
 | 11:31      | just want to get your toes wet and spend some time doing that and just get comfortable with               |
 | 11:36      | that before you take it to the next level, or like my family, like even though I have                     |
 | 11:42      | all this extra stuff, they don't do any of that stuff.                                                    |
-| 11:45      | They just open HomeKit, and that's it for them, so how can we help them make it a better                  |
+| 11:45      | They just open [[HomeKit]], and that's it for them, so how can we help them make it a better                  |
 | 11:51      | experience?                                                                                               |
 | 11:52      | One of the things I would say when it comes to friends and family members on this stuff                   |
 | 11:57      | is it's super tempting to be like, oh, yeah, I'm going to go for smart lights.                            |
@@ -332,16 +332,16 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 17:40      | everything yet, but it's coming.                                                                          |
 | 17:43      | Then lastly, before we get into the weeds, we're not going to bang your head over the                     |
 | 17:48      | whole time, but what are the things that people get from going to the next level, like Home               |
-| 17:53      | Assistant and the other toys, that they don't get with HomeKit?                                           |
+| 17:53      | Assistant and the other toys, that they don't get with [[HomeKit]]?                                           |
 | 17:58      | For me, I'll tell you that it's automation, really, is that the automation stuff just                     |
-| 18:03      | gets better when you can have a more complex automation logic, and HomeKit has a very simple              |
+| 18:03      | gets better when you can have a more complex automation logic, and [[HomeKit]] has a very simple              |
 | 18:10      | logic.                                                                                                    |
 | 18:11      | It's like there's a trigger and there's an action, and that's pretty much it.                             |
 | 18:14      | When you get into something like [[Home Assistant]], you get multiple triggers, multiple actions.             |
-| 18:19      | It really is next level compared to the basics of HomeKit.                                                |
+| 18:19      | It really is next level compared to the basics of [[HomeKit]].                                                |
 | 18:24      | What would you add to that, Rose?                                                                         |
 | 18:26      | I would add not only that, but it's logging.                                                              |
-| 18:30      | iOS 17 has added logging to HomeKit for security devices.                                                 |
+| 18:30      | iOS 17 has added logging to [[HomeKit]] for security devices.                                                 |
 | 18:36      | That's it.                                                                                                |
 | 18:37      | I can see, for example, I have some smart locks and so on.                                                |
 | 18:40      | I can see their history, and when I tap on one of the locks and go into the settings,                     |
@@ -361,7 +361,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 19:36      | turned on, and then I just go back to sleep, and the lights turned on, and I didn't know                  |
 | 19:40      | what was going on.                                                                                        |
 | 19:42      | I took a guess that it was something related to an automation of me coming home, was turning              |
-| 19:49      | the lights on, and disabled that automation in HomeKit, or just deleted it because it                     |
+| 19:49      | the lights on, and disabled that automation in [[HomeKit]], or just deleted it because it                     |
 | 19:54      | was 3 o'clock in the morning and I was cranky, and then suddenly the lights stopped turning               |
 | 19:58      | on and I was able to go back to sleep, but trying to figure out what happened or why                      |
 | 20:03      | something happened is, or why something didn't happen as well.                                            |
@@ -375,10 +375,10 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 20:34      | It might have caught them a few times.                                                                    |
 | 20:36      | Probably fine, but I personally just don't like the idea of sticking a camera out there                   |
 | 20:40      | when it's not necessary, so instead, what I've done is I've got a smart button stuck                      |
-| 20:45      | out there, which when I press it, as far as HomeKit's concerned, it's a doorbell, so                      |
+| 20:45      | out there, which when I press it, as far as [[HomeKit\|HomeKit's]]ø concerned, it's a doorbell, so                      |
 | 20:49      | I get the chime on my HomePods and everything, and I just stuck a fake picture in there.                 |
-| 20:52      | It literally just says the word doorbell as an image, and HomeKit sees that as the camera,                |
-| 20:59      | and [[Home Assistant]]'s just there going, by the way, HomeKit, hey, here's a doorbell.                       |
+| 20:52      | It literally just says the word doorbell as an image, and [[HomeKit]] sees that as the camera,                |
+| 20:59      | and [[Home Assistant]]'s just there going, by the way, [[HomeKit]], hey, here's a doorbell.                       |
 | 21:03      | This is a doorbell as far as you're concerned.                                                            |
 | 21:05      | Have fun with it.                                                                                         |
 | 21:06      | Being able to do that and not having a million and one hubs, hubs are great.                              |
@@ -398,7 +398,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 22:11      | The alarm is the exact pitch of my tinnitus, so I can be standing right next to it and                    |
 | 22:15      | not hear it going off.                                                                                    |
 | 22:17      | I came up with this great idea where if the door is open for so long, and this is something               |
-| 22:22      | you get with something like [[Home Assistant]], you don't get with HomeKit, it turns on lights                |
+| 22:22      | you get with something like [[Home Assistant]], you don't get with [[HomeKit]], it turns on lights                |
 | 22:27      | in certain parts of the house, so I basically have a visual reminder to say, oh, the refrigerator         |
 | 22:32      | door is open.                                                                                             |
 | 22:33      | I need to go down and shut it.                                                                            |
@@ -442,39 +442,39 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 24:39      | That's vitally.io.automators for a Pete free pair of AirPods Pro when you schedule a qualified            |
 | 24:45      | meeting.                                                                                                  |
 | 24:46      | Our thanks to Vitally for their support of this show and relay FM.                                         |
-| 24:49      | All right, Rose, let's get into the basics of HomeKit.                                                    |
+| 24:49      | All right, Rose, let's get into the basics of [[HomeKit]].                                                    |
 | 24:54      | And some of this stuff you may already know, but stick with us.                                           |
 | 24:56      | We're going to get deeper as we go through the outline.                                                   |
 | 24:58      | But just as a starting point for someone like the listener who wrote in, Apple doesn't make               |
-| 25:03      | the HomeKit hardware.                                                                                     |
+| 25:03      | the [[HomeKit]] hardware.                                                                                     |
 | 25:04      | I think that's something people are mistaken because, you know, it doesn't have the Apple                 |
 | 25:07      | thing.                                                                                                    |
 | 25:08      | They always make the whole widget.                                                                        |
-| 25:09      | When it comes to HomeKit, that's not true.                                                                |
-| 25:13      | They make the phone and they make some of the Apple hardware that connects to HomeKit                     |
+| 25:09      | When it comes to [[HomeKit]], that's not true.                                                                |
+| 25:13      | They make the phone and they make some of the Apple hardware that connects to [[HomeKit]]                     |
 | 25:18      | devices, but the actual making of the light switches and the light bulbs and the security                 |
 | 25:23      | cameras, they've left that to other people.                                                               |
-| 25:26      | And then it's up to them to support the HomeKit protocol.                                                 |
-| 25:30      | So the thing you need to do if you want to get into basic HomeKit, vanilla HomeKit,                       |
-| 25:34      | you need to buy a box that's got a doodad in it that says HomeKit on the box.                             |
+| 25:26      | And then it's up to them to support the [[HomeKit]] protocol.                                                 |
+| 25:30      | So the thing you need to do if you want to get into basic [[HomeKit]], vanilla [[HomeKit]],                       |
+| 25:34      | you need to buy a box that's got a doodad in it that says [[HomeKit]] on the box.                             |
 | 25:39      | That's where it starts.                                                                                   |
 | 25:40      | Yeah.                                                                                                     |
 | 25:41      | Well, I mean, you could also argue that it starts with a Apple TV or a HomePod as well.                   |
-| 25:47      | Because in order for your HomeKit home to be a properly smart home, you are going to                      |
+| 25:47      | Because in order for your [[HomeKit]] home to be a properly smart home, you are going to                      |
 | 25:52      | need a device that lives at home to be the controller or one of the controllers, realistically,           |
 | 26:00      | because if you have more than one of these, then they sort of go around and around Robin.                 |
 | 26:04      | You used to be able to, and I emphasise used to here, use an iPad.                                        |
 | 26:10      | In my experience, anybody who used an iPad found themselves in for a world of trouble                     |
-| 26:14      | when it came to HomeKit stuff, which is probably one of the reasons why Apple has removed this            |
+| 26:14      | when it came to [[HomeKit]] stuff, which is probably one of the reasons why Apple has removed this            |
 | 26:18      | feature.                                                                                                  |
-| 26:20      | And if you previously set up HomeKit and you had an iPad as a hub, then you may not have                  |
-| 26:27      | been able to upgrade to the new HomeKit architecture.                                                     |
-| 26:31      | So you would need to remove the iPad as HomeKit hub and then update that.                                 |
+| 26:20      | And if you previously set up [[HomeKit]] and you had an iPad as a hub, then you may not have                  |
+| 26:27      | been able to upgrade to the new [[HomeKit]] architecture.                                                     |
+| 26:31      | So you would need to remove the iPad as [[HomeKit]] hub and then update that.                                 |
 | 26:35      | But it also took it away in the iPadOS settings as well.                                                  |
 | 26:38      | But yeah, so you'll need either a HomePod or an Apple TV or more than one of those to                     |
-| 26:43      | be a HomeKit hub.                                                                                         |
-| 26:45      | And then, yeah, some kind of HomeKit widgety-wadgety.                                                     |
-| 26:48      | It could be a HomeKit light, it could be a HomeKit camera, doorbell, it could just be                     |
+| 26:43      | be a [[HomeKit]] hub.                                                                                         |
+| 26:45      | And then, yeah, some kind of [[HomeKit]] widgety-wadgety.                                                     |
+| 26:48      | It could be a [[HomeKit]] light, it could be a [[HomeKit]] camera, doorbell, it could just be                     |
 | 26:53      | a sensor, you know, for example, a leak sensor.                                                           |
 | 26:56      | If you are worried about, I had something, actually, a couple of weeks ago, David, or                     |
 | 27:01      | last month or a little bit longer ago, there was water underneath my kitchen sink.                        |
@@ -803,8 +803,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 46:39      | they're inexpensive I think you get if you buy them in multiples they're about $15 each                   |
 | 46:44      | and you can just you know they they work rock solid I put an indelible marker on them and                 |
 | 46:50      | then I stick them under the water heater under the toilets you know they're all over the house            |
-| 46:55      | yeah and just like Rose said this is one where I think HomeKit is really good at this because             |
-| 47:00      | of the exact problem Rose described when they detect a leak they go crazy they set off HomeKit            |
+| 46:55      | yeah and just like Rose said this is one where I think [[HomeKit]] is really good at this because             |
+| 47:00      | of the exact problem Rose described when they detect a leak they go crazy they set off [[HomeKit]]            |
 | 47:05      | as an alarm system in a way that I'm not sure a third-party app could do I think only Apple's             |
 | 47:10      | sort of access could give you that alarm that goes off like you know the missiles are coming              |
 | 47:14      | in and it's great in fact when I was testing it my daughter who was up in Westwood at the                 |
@@ -815,7 +815,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 47:44      | when you have a water leak right you want everybody to know right away so I feel like                     |
 | 47:49      | you know the car stuff just as the leak detectors are a good example but let's just go through            |
 | 47:54      | it really quick so both you and I use the leak detectors I think their switches are                       |
-| 47:59      | really good too like one of the things with HomeKit is just having a physical switch                      |
+| 47:59      | really good too like one of the things with [[HomeKit]] is just having a physical switch                      |
 | 48:03      | to where you can push the button and it triggers an automation so it's essentially a light switch         |
 | 48:08      | you can stick anywhere in the house and I feel like the car they're very reasonably priced                |
 | 48:13      | and they work great and I've got a bunch of those what are some of the other car things                   |

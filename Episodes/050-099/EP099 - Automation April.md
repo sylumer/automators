@@ -910,7 +910,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:04:26   | nothing that makes a home that's temporarily unoccupied, look less lived in than the curtains         |
 | 01:04:31   | staying open or closed all the time, and especially those blinds. I think that's why you might        |
 | 01:04:36   | like Hunter Douglas. Hunter Douglas shades are compatible with all your favourite home                |
-| 01:04:40   | automation systems. Amazon Alexa, Apple HomeKit, Google Assistant, if there's something that          |
+| 01:04:40   | automation systems. Amazon Alexa, Apple [[HomeKit]], Google Assistant, if there's something that          |
 | 01:04:45   | and more. I know listeners of this show would really love to be able to automate this stuff           |
 | 01:04:50   | themselves too, helping them integrate their shades with the products in their home that              |
 | 01:04:54   | they already have that they can automate. And you can get that control with Hunter Douglas.           |
@@ -933,7 +933,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:09:19   | , the maker of [[Data Jar]]. So we've got a team of 10 people who are going to be                 |
 | 01:09:25   | looking at all these shortcuts very shortly. Yeah, and there's multiple categories as well,           |
 | 01:09:30   | isn't there? So it's not just, you know, that there's one category for all the shortcuts              |
-| 01:09:35   | and shortcuts lying together. That's right. Yeah, we've got HomeKit and                               |
+| 01:09:35   | and shortcuts lying together. That's right. Yeah, we've got [[HomeKit]] and                               |
 | 01:09:39   | productivity, media, and Mac-specific shortcut. So best in all those categories as well as            |
 | 01:09:46   | for a total of five. Getting back to the idea that anybody can automate, Federico, you are            |
 | 01:09:52   | now legendary for your prowess with shortcuts, but you had to start somewhere. Where was              |

@@ -678,7 +678,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 35:26      | space in the wall, which we don't hear in the UK usually, so that like the regular light                  |
 | 35:29      | switch works, but like if your smart light switch kills power to the smart bulb, then                     |
 | 35:35      | you're going to continually be told like, hey, a bunch of devices aren't responding                       |
-| 35:38      | in HomeKit, which is just annoying.                                                                       |
+| 35:38      | in [[HomeKit]], which is just annoying.                                                                       |
 | 35:42      | So for me, I think what I want to do is I want to do both, but I'm kind of waiting until                  |
 | 35:50      | I get in there to kind of see which light switches control which outlets because that's                   |
 | 35:55      | the big kicker for me.                                                                                    |
@@ -858,10 +858,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:09      | least yet.                                                                                                |
 | 47:10      | And then I would have to switch the modules out.                                                          |
 | 47:12      | And I've currently just got Z-Wave modules in, which I just shared to [[Home Assistant]]                      |
-| 47:16      | and then shared it back into HomeKit.                                                                     |
-| 47:18      | That was my first use of HomeKit actually, just it's cheaper to buy the Z-Wave modules                    |
+| 47:16      | and then shared it back into [[HomeKit]].                                                                     |
+| 47:18      | That was my first use of [[HomeKit]] actually, just it's cheaper to buy the Z-Wave modules                    |
 | 47:23      | by a lot over here than the Control 4, which is a Zigbee.                                                 |
-| 47:29      | And I didn't know how to get stuff into HomeKit in any other way at the time.                             |
+| 47:29      | And I didn't know how to get stuff into [[HomeKit]] in any other way at the time.                             |
 | 47:34      | So I just went with [[Home Assistant]] and one large rabbit hole later, having foam automating                |
 | 47:39      | things.                                                                                                   |
 | 47:40      | But yeah, I think, I think the garage door opener for you Chris sounds like it's going                    |

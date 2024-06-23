@@ -95,10 +95,10 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 02:12      | to do things.                                                                                       |
 | 02:14      | And I would say that's when I really got hooked on automation and scripting stuff and connecting    |
 | 02:21      | stuff, mainly in the home automation thing, actually.                                               |
-| 02:25      | So did you get really started with HomeKit-type devices, or was it more of a rolling your           |
+| 02:25      | So did you get really started with [[HomeKit]]-type devices, or was it more of a rolling your           |
 | 02:29      | own with just code that you wrote yourself, or something like, I'm forgetting the name              |
 | 02:34      | [[Home Assistant]]?                                                                                     |
-| 02:36      | I did look at HomeKit.                                                                              |
+| 02:36      | I did look at [[HomeKit]].                                                                              |
 | 02:37      | That was what I wanted to do, but I quickly learned, as I think many do, that there are             |
 | 02:42      | not that many devices, especially in Austria, it seems to be even less than in the US.              |
 | 02:48      | And the way you can connect them and combine them just felt very limited.                           |
@@ -122,7 +122,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 04:25      | I don't really know how I came about it.                                                            |
 | 04:27      | It's one of the bigger ones for do-it-yourself, I think, and that's pretty much what I connect      |
 | 04:32      | everything with.                                                                                    |
-| 04:33      | Well, it's always a challenge because Apple does have some automation built into HomeKit,           |
+| 04:33      | Well, it's always a challenge because Apple does have some automation built into [[HomeKit]],           |
 | 04:39      | but it's not enough for a lot of folks, and every year they get a little better, like               |
 | 04:45      | now that they've integrated Siri shortcuts with it, and even now if a listener of the               |
 | 04:51      | show tries out push cut, there's so much stuff you can do with push cut with it, but it does        |
@@ -132,12 +132,12 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 05:07      | but also for the people installing it and using it for the first time.                              |
 | 05:11      | Absolutely.                                                                                         |
 | 05:12      | That's what I meant by blood, sweat, and tears.                                                     |
-| 05:15      | The price you pay for one of those HomeKit devices, it's a good price because what you              |
+| 05:15      | The price you pay for one of those [[HomeKit]] devices, it's a good price because what you              |
 | 05:20      | spend time and playing around and fixing things and being frustrated for stuff not                  |
 | 05:26      | really working, I'd rather pay like 30 bucks extra or something.                                    |
-| 05:32      | It's all good with HomeKit, I think.                                                                |
+| 05:32      | It's all good with [[HomeKit]], I think.                                                                |
 | 05:34      | You get simplicity.                                                                                 |
-| 05:35      | Until HomeKit has a weird little issue and then doesn't quite work as you expect.                   |
+| 05:35      | Until [[HomeKit]] has a weird little issue and then doesn't quite work as you expect.                   |
 | 05:40      | So for example, last night, we pressed the button to turn up all the lights in the apartment,       |
 | 05:43      | and all but one light turned off.                                                                   |
 | 05:45      | I don't know why, because when I ran it again from my phone instead of from a physical button,      |
@@ -473,7 +473,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 26:58      | It's basically, you can say when I enter or exit this location, or you can say at this              |
 | 27:03      | time, that's pretty much it.                                                                        |
 | 27:06      | So you can never say, well, when I get an email from here or there, or when this sort               |
-| 27:11      | of device does something, even with HomeKit, there is no way you can do that on, like you           |
+| 27:11      | of device does something, even with [[HomeKit]], there is no way you can do that on, like you           |
 | 27:15      | can program your phone to do something when a certain condition is met.                             |
 | 27:22      | And even with shortcuts now, like of course you have the shortcuts automations, which               |
 | 27:26      | are those great entry points for those everyday things.                                             |
@@ -494,16 +494,16 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 28:35      | And with this, if you have this URL, you can trigger it from IFTTT, you can trigger it from           |
 | 28:41      | Zapier or all those online services.                                                                |
 | 28:44      | And of course, now, and that's, I think, one of the coolest things ever, you can trigger            |
-| 28:48      | it from HomeKit.                                                                                    |
+| 28:48      | it from [[HomeKit]].                                                                                    |
 | 28:50      | And this makes it very simple to set up for Apple smart home nerds, I think, is you can             |
-| 28:57      | actually just run it from a HomeKit automation.                                                     |
+| 28:57      | actually just run it from a [[HomeKit]] automation.                                                     |
 | 29:01      | That is how I got for ultimately 15 notifications when I got home from work today.                  |
 | 29:06      | So do you want to give us a quick overview of how you do this?                                      |
 | 29:08      | Because obviously, I know how to do this, but it would be better in your words.                     |
 | 29:12      | Yes.                                                                                                |
 | 29:13      | It took me a while to kind of see what's happening there, because I, of course, saw the WWDC        |
 | 29:19      | where they introduced shortcuts and was all cool and all, and they said it's runs on                |
-| 29:25      | HomeKit too, and I didn't really think much of it.                                                  |
+| 29:25      | [[HomeKit]] too, and I didn't really think much of it.                                                  |
 | 29:29      | And I think it was, again, probably [[Federico Viticci\|Federico]] or somebody that says, huh, I have this alarm          |
 | 29:33      | system at home where I can run some webhook to notify my device and I thought, what?                |
 | 29:41      | And then I kind of saw for the first time, of course, that's what I always wanted to                |
@@ -514,26 +514,26 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 29:58      | Yes or no?                                                                                          |
 | 29:59      | And, and you just with one tap, ideally on your watch can say, sure, let's turn it off              |
 | 30:04      | or no, no, no, no, I'm still like, not now's not a good time for this sort of thing.                |
-| 30:08      | And with the added shortcut support for HomeKit automations, what you can do is you can convert     |
+| 30:08      | And with the added shortcut support for [[HomeKit]] automations, what you can do is you can convert     |
 | 30:14      | your like previously, you could only trigger a scene or run a scene.                                |
 | 30:19      | So you define a scene like evening lights.                                                          |
 | 30:22      | And when something happens, you could say run evening lights.                                       |
 | 30:25      | And now you can say, instead of run evening lights, convert to shortcut.                            |
 | 30:29      | And you have a couple of those shortcut actions, not all of them, but, but enough to trigger        |
 | 30:34      | a webhook basically.                                                                                |
-| 30:36      | And so inside this automation in HomeKit, you just say, execute or I think it's called              |
+| 30:36      | And so inside this automation in [[HomeKit]], you just say, execute or I think it's called              |
 | 30:43      | get contents of URL, and then you paste in the webhook from push cut.                               |
 | 30:47      | And that's really all the setup you need.                                                           |
-| 30:50      | And whenever this condition is happening, your HomeKit hub will just ping your devices              |
+| 30:50      | And whenever this condition is happening, your [[HomeKit]] hub will just ping your devices              |
 | 30:59      | or your device and ask the push cut question.                                                       |
-| 31:02      | And combined with the feature that you can run HomeKit scenes directly from the push                |
+| 31:02      | And combined with the feature that you can run [[HomeKit]] scenes directly from the push                |
 | 31:08      | cut notification, it's that's when I felt right.                                                    |
 | 31:12      | That's exactly what I wanted to build all along was this one thing that pops up and                 |
 | 31:17      | just asks, hey, the red light or the blue light today, and you just tap blue right then             |
 | 31:21      | and there.                                                                                          |
 | 31:22      | And that's it.                                                                                      |
 | 31:23      | And the blue lights on and it's all instantly like there's almost zero delay because it's           |
-| 31:27      | from your device using the HomeKit, Apple API, that's all fast and works.                           |
+| 31:27      | from your device using the [[HomeKit]], Apple API, that's all fast and works.                           |
 | 31:34      | And the notification system is pretty much instant too.                                             |
 | 31:38      | So I was quite happy with that, to be honest, I felt like now it has arrived.                       |
 | 31:42      | Now that's what I wanted.                                                                           |
@@ -575,8 +575,8 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 34:10      | So I just came up with this very simple input system.                                               |
 | 34:13      | It's basically a string, like a value, and if you pass a value with a notification and              |
 | 34:21      | you tap on an action, this value is passed along to the action you execute.                         |
-| 34:26      | And if it's a HomeKit scene, there is no input.                                                     |
-| 34:28      | HomeKit scenes don't take any input.                                                                |
+| 34:26      | And if it's a [[HomeKit]] scene, there is no input.                                                     |
+| 34:28      | [[HomeKit]] scenes don't take any input.                                                                |
 | 34:29      | You can't.                                                                                          |
 | 34:30      | I don't know.                                                                                       |
 | 34:31      | That's just not technically possible.                                                               |
@@ -786,7 +786,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 46:28      | And with the tap of a button, you can run something in Zapier directly.                             |
 | 46:34      | And you can do that on the watch.                                                                   |
 | 46:35      | That works.                                                                                         |
-| 46:36      | And then I added the HomeKit scenes where you can, with the tap of a button, run a HomeKit          |
+| 46:36      | And then I added the [[HomeKit]] scenes where you can, with the tap of a button, run a [[HomeKit]]          |
 | 46:43      | scene directly.                                                                                     |
 | 46:44      | And you can do that on the watch.                                                                   |
 | 46:46      | And then just to make things complete, I added the background URL support, basically, mainly,       |
@@ -835,13 +835,13 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 48:51      | You turn your wrist and it all needs to be there and you tap the thing and needs to work            |
 | 48:55      | within immediately and then you're out again.                                                       |
 | 48:59      | But so many apps don't and so many situations don't give you good notifications, especially         |
-| 49:05      | HomeKit again.                                                                                      |
+| 49:05      | [[HomeKit]] again.                                                                                      |
 | 49:06      | There are a few, I think, there are a few things it does, it informs you about certain              |
-| 49:10      | stuff, but you certainly can't tell HomeKit, I want in this situation, I want to have this          |
+| 49:10      | stuff, but you certainly can't tell [[HomeKit]], I want in this situation, I want to have this          |
 | 49:15      | question and that's the options I want to have.                                                     |
-| 49:19      | And now with push cut and HomeKit and the watch, I think it's like a perfect trio.                  |
+| 49:19      | And now with push cut and [[HomeKit]] and the watch, I think it's like a perfect trio.                  |
 | 49:23      | I feel so too, like you said.                                                                       |
-| 49:26      | Once you see the screenshot of the HomeKit question, hey, should we do this or that on              |
+| 49:26      | Once you see the screenshot of the [[HomeKit]] question, hey, should we do this or that on              |
 | 49:31      | the watch?                                                                                          |
 | 49:32      | I think that tells you the story, like what this is for, a quick interaction you can tap            |
 | 49:36      | on basically.                                                                                       |
@@ -856,7 +856,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 50:05      | I'm very glad to hear that.                                                                         |
 | 50:08      | All right.                                                                                          |
 | 50:09      | So Simon, share some of your favourite automation.                                                   |
-| 50:12      | So maybe it's push cut, maybe it's something else, maybe it's some of your HomeKit stuff.           |
+| 50:12      | So maybe it's push cut, maybe it's something else, maybe it's some of your [[HomeKit]] stuff.           |
 | 50:16      | We'd love to hear some of the stuff you're doing with automation.                                   |
 | 50:19      | Sure.                                                                                               |
 | 50:20      | So one thing I have to say ever since I started developing push cut, my automation life has         |

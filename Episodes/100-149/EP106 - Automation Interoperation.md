@@ -2138,7 +2138,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:14:48   | in the morning if there was a power outage                        |
 | 01:14:50   | so that I never have to reset my microwave clock                  |
 | 01:14:52   | but knowing that there                                            |
-| 01:14:54   | was a power outage I don't think I could do that in HomeKit       |
+| 01:14:54   | was a power outage I don't think I could do that in [[HomeKit]]       |
 | 01:14:56   | so I can't wait                                                   |
 | 01:14:58   | to drag you down this rabbit hole                                 |
 | 01:15:00   | can you see why I bought one                                      |

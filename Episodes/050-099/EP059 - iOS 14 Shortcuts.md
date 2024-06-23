@@ -1055,12 +1055,12 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 54:47      | For me, it's more a case of, yes, this is definitely the face I want, and it'll also                     |
 | 54:52      | do things like toggle the lights in my office and stuff like that if necessary, because                  |
 | 54:56      | it can pull in the daylight or the light levels from my Hue sensor.                                      |
-| 55:01      | I've done some home automation stuff with it, I feel like, because there's a HomeKit                     |
-| 55:05      | app on the watch, but it's work, you know, you hit the HomeKit, then you've got to press                 |
+| 55:01      | I've done some home automation stuff with it, I feel like, because there's a [[HomeKit]]                     |
+| 55:05      | app on the watch, but it's work, you know, you hit the [[HomeKit]], then you've got to press                 |
 | 55:09      | the button and kind of get through to it.                                                                |
 | 55:11      | And I know they made that better in iOS 14 too for the watch, but I do like the idea                     |
 | 55:15      | of having complete control of that myself.                                                               |
-| 55:18      | And making HomeKit based shortcuts is, I think, a good use for the watch app.                            |
+| 55:18      | And making [[HomeKit]] based shortcuts is, I think, a good use for the watch app.                            |
 | 55:24      | But I'm struggling to really find a lot of use cases for shortcuts off the watch.                        |
 | 55:30      | I mean, so much of the stuff I do with shortcuts needs a screen for me to interact with it.              |
 | 55:35      | But you know, I'm playing with it.                                                                       |

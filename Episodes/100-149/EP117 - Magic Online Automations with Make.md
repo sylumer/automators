@@ -1518,7 +1518,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:28:43   | this year.                                                                                                |
 | 01:28:44   | Everything else is already wired down.                                                                    |
 | 01:28:45   | I've got the, you know, I've got the automatic switch for the outdoor lights, which is on                 |
-| 01:28:52   | HomeKit and everything is in pretty good shape for me.                                                    |
+| 01:28:52   | [[HomeKit]] and everything is in pretty good shape for me.                                                    |
 | 01:28:56   | But this year I did the most basic for automations as I added manual switches.                            |
 | 01:29:01   | So everybody else in the house can also get this stuff working.                                           |
 | 01:29:05   | Yeah.                                                                                                     |

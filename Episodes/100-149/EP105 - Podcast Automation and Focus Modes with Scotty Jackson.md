@@ -205,18 +205,18 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 08:31      | When you convert to shortcut in home automations and scenes, that's unfortunately not something         |
 | 08:36      | that can show up there because it's a personal app on your device, but it will, you know,               |
 | 08:41      | lights and it restores the original colour and brightness afterwards as well, which is something         |
-| 08:46      | that is very difficult slash impossible to do natively with HomeKit. You would have to take             |
+| 08:46      | that is very difficult slash impossible to do natively with [[HomeKit]]. You would have to take             |
 | 08:53      | an educated guess as to what the light was supposed to be like before and flashing lights and or        |
 | 08:59      | pulsing them or you can also just have it turn like a certain colour for 15 seconds and then turn        |
 | 09:04      | back or whatever it is if you if you don't want you know the extra motion effects. But it is a          |
 | 09:12      | really useful app to just sort of have in your in your pocket ready to go and it works on               |
 | 09:17      | Mac as well as iPhone and iPad, which is a really nice bonus for those of us who want our shortcuts     |
-| 09:21      | to be everywhere. And it's just so awesome to see this rich ecosystem around HomeKit and HomeKit        |
+| 09:21      | to be everywhere. And it's just so awesome to see this rich ecosystem around [[HomeKit]] and [[HomeKit]]        |
 | 09:28      | adjacent apps. There's so much to do there like if you're just if you're interested in home             |
 | 09:33      | automation and you're just using the home app even though it gets better with the next release,         |
 | 09:39      | you're missing out. I mean, and we've talked about on the show we've done episodes before with all      |
 | 09:43      | these apps, but it is a truly remarkable number one that Apple left the door open for third party       |
-| 09:50      | developers to get in and you know, fiddle around with HomeKit and number two, the way the developers    |
+| 09:50      | developers to get in and you know, fiddle around with [[HomeKit]] and number two, the way the developers    |
 | 09:57      | have delivered the goods on this stuff. But we skipped over Scotty. So we started this conversation     |
 | 10:04      | around focus. What are the kinds of focus modes that you're using? So like I say, I think there's       |
 | 10:11      | a lot of work that I still have to do here, but I do a focus in the morning on weekdays for planning.   |
@@ -243,7 +243,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 12:05      | served its purpose. It has served its purpose to remind me that this is how my attention is meant       |
 | 12:10      | to be used right now. And so either I'm honouring it or I'm not, but either way, I am aware of what      |
 | 12:16      | I am supposed to be doing. And I think that's great. And I love what you said, David, about             |
-| 12:21      | the computer between your ears, because, you know, we can talk about automations in HomeKit             |
+| 12:21      | the computer between your ears, because, you know, we can talk about automations in [[HomeKit]]             |
 | 12:25      | till we're blue in the face because I love this stuff. But to me, the most potent automations           |
 | 12:31      | are the ones that I make for myself, by myself, to say like my process is to do this. I write out       |
 | 12:40      | my plan in this particular way at the beginning of the day, and that works. And so that automation      |

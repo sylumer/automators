@@ -1071,7 +1071,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 55:19      | Right, exactly.                                                                                      |
 | 55:20      | We have a little bit of home automation, but, and that's only because I was interested               |
 | 55:24      | in finding out how, you know, what we can do with it.                                                |
-| 55:28      | But, you know, HomeKit is not AppleScriptable.                                                      |
+| 55:28      | But, you know, [[HomeKit]] is not AppleScriptable.                                                      |
 | 55:32      | And so, I mean, and that's perfectly understandable because the security risks are just, I mean,     |
 | 55:37      | just think about it for a second.                                                                    |
 | 55:39      | So I understand that.                                                                                |
@@ -1097,8 +1097,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 56:46      | in lights and air conditioning and microwaves and whatever else they come out with.                  |
 | 56:51      | So I'm very curious to see how that comes out, but I haven't had any opportunities to                |
 | 56:54      | do any because, like I said, kind of limited here with what we can do.                               |
-| 56:57      | Yeah, I feel like HomeKit is like, to use the earlier AppleScript versus Automator analogy,          |
-| 57:04      | I think at HomeKit leans kind of the Automator speed as opposed to the AppleScript speed when        |
+| 56:57      | Yeah, I feel like [[HomeKit]] is like, to use the earlier AppleScript versus Automator analogy,          |
+| 57:04      | I think at [[HomeKit]] leans kind of the Automator speed as opposed to the AppleScript speed when        |
 | 57:09      | it comes to home automation.                                                                         |
 | 57:12      | There are people out there that, you know, sell services and go real deep with home automation       |
 | 57:16      | to do a lot more.                                                                                    |

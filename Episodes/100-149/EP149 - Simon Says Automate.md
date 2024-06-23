@@ -433,7 +433,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 25:17      | I think there is that nothing really goes into or very little goes into porting actions                          |
 | 25:22      | between the platforms.                                                                                           |
 | 25:24      | I think the exception to this that I've heard of is when you've got something related to                         |
-| 25:29      | HomeKit things, because [[HomeKit]] is special and doesn't work the same way, but yeah, once                         |
+| 25:29      | [[HomeKit]] things, because [[HomeKit]] is special and doesn't work the same way, but yeah, once                         |
 | 25:34      | you've created a shortcut section, the fact that you can just use that same thing because                        |
 | 25:38      | it's code now is so great to hear because I know previously it was kind of like a configuration                  |
 | 25:43      | file where you had to, you know, it was a kind of pretty-ish UI, not great, on a configuration                   |

@@ -184,10 +184,10 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 05:54      | But if I wanted it to run my robot vacuum, then I had to do that through if this and                         |
 | 05:58      | that, but I might just set that up.                                                                          |
 | 06:00      | And that was great.                                                                                          |
-| 06:01      | However, my Logitech Pop buttons now integrate with HomeKit.                                                 |
+| 06:01      | However, my Logitech Pop buttons now integrate with [[HomeKit]].                                                 |
 | 06:05      | So I am debating whether or not I want to go down the if this and that route or the                          |
-| 06:09      | HomeKit route.                                                                                               |
-| 06:10      | And I'm probably going to stick with the HomeKit route if I'm being completely honest.                       |
+| 06:09      | [[HomeKit]] route.                                                                                               |
+| 06:10      | And I'm probably going to stick with the [[HomeKit]] route if I'm being completely honest.                       |
 | 06:13      | Yeah.                                                                                                        |
 | 06:14      | I think in general, when you can keep automation local, you're better.                                       |
 | 06:19      | I mean, who wants to rely on the internet for their automation?                                              |
@@ -197,9 +197,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 06:34      | technologies, different companies and allow you to combine them, you know, and like use                      |
 | 06:39      | a trigger from your Wemo to fire something off with your Hue lights.                                        |
 | 06:43      | And that was that was really a valuable service because nobody else could do it.                             |
-| 06:48      | But in the intervening years, a lot of these HomeKit manufacturers have gotten in the game                   |
-| 06:54      | where, you know, they use the glue that is Apple HomeKit or Google's HomeKit version                         |
-| 07:00      | of HomeKit, which name escapes me at the moment, but, you know, these different platform binners             |
+| 06:48      | But in the intervening years, a lot of these [[HomeKit]] manufacturers have gotten in the game                   |
+| 06:54      | where, you know, they use the glue that is [[HomeKit\|Apple HomeKit]] or Google's [[HomeKit]] version                         |
+| 07:00      | of [[HomeKit]], which name escapes me at the moment, but, you know, these different platform binners             |
 | 07:04      | have their own kind of integrated systems they're trying to put together.                                    |
 | 07:09      | There is, I feel like, still space for if this than that though, because there's still                       |
 | 07:15      | some home automation stuff because it's just, I mean, looking through the if this than that                  |

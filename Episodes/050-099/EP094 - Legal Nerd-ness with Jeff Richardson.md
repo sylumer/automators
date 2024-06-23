@@ -596,11 +596,11 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 40:43      | environments and team members. Say goodbye to EMV files, set up Doppler for your team in less           |
 | 40:49      | than four minutes. Sign up at Doppler.com/L slash Automators. And that's all the lowercase.       |
 | 40:56      | That's Doppler.com/L slash Automators, all lowercase. Go there now. Our thanks to Doppler         |
-| 41:03      | for their support of this show and Relay FM. So, Jeff, have you dipped into the waters of HomeKit yet? |
+| 41:03      | for their support of this show and Relay FM. So, Jeff, have you dipped into the waters of [[HomeKit]] yet? |
 | 41:12      | I have. And, you know, the automation stuff we've been talking about so far has been sort               |
 | 41:16      | of like getting work done, which is important and is great and makes you feel good when you're          |
-| 41:19      | efficient. But HomeKit is like where I love to have fun with automation. And this is the one            |
-| 41:24      | that sort of brings a smile on my face more. I love doing it. One of the big HomeKit things             |
+| 41:19      | efficient. But [[HomeKit]] is like where I love to have fun with automation. And this is the one            |
+| 41:24      | that sort of brings a smile on my face more. I love doing it. One of the big [[HomeKit]] things             |
 | 41:30      | that I have in my house are the Lutron lights that anyone who's listened to this podcast has            |
 | 41:34      | heard. People talk about a million times, but I love the Lutron system because they work really         |
 | 41:38      | well. They're incredibly dependable. And so, you know, of course, the first thing that I ever did       |
@@ -633,12 +633,12 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 43:46      | you, right? Because like, what if you are watching the movie and then suddenly just somebody else       |
 | 43:50      | walks in the room and you lose the mood because the lights just like snapped on? That's actually        |
 | 43:57      | a very good solution to set a duration timer. And you're doing that in the Eve app, right?              |
-| 44:03      | In the Eve app, yeah. You know, there are some things with HomeKit that you can do in the               |
+| 44:03      | In the Eve app, yeah. You know, there are some things with [[HomeKit]] that you can do in the               |
 | 44:06      | manufacturer specific app, but not the Home app. And then there are some things that are in the Home    |
 | 44:10      | app. I think this is an example of one that you need to have the manufacturer specific app come         |
 | 44:15      | on. Yeah. Though I do think in general, the Eve app, even if you don't have Eve hardware, it does       |
 | 44:21      | have some options that the Home app doesn't have for automations, like adding conditions to things.     |
-| 44:27      | You can also do this with Home plus or controller for HomeKit and other things. I've solved the         |
+| 44:27      | You can also do this with Home plus or controller for [[HomeKit]] and other things. I've solved the         |
 | 44:32      | lights coming on during a film by integrating my TV as well. And so when the TV starts playing          |
 | 44:37      | something, then it dims the lights and closes the curtains and things like that. And then when it       |
 | 44:43      | finishes, it reopens it. You can't just say that. You just can't say that, Rose. I've been playing      |
@@ -700,8 +700,8 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 49:05      | turn on the lights and it's going to record it through the eufycam. Really nice. Yeah, I really          |
 | 49:10      | like the eufycam products. I've got several of their indoor and outdoor cameras. I also bought           |
 | 49:15      | one of the, a couple of the eufycam spotlights, where it's a LED spotlight with an incorporated          |
-| 49:23      | camera that saves locally on device. And it is not part of HomeKit. They have not connected to          |
-| 49:29      | HomeKit. I'm hoping that Rose's encouragement to buy me, for me to buy a home assistant will help       |
+| 49:23      | camera that saves locally on device. And it is not part of [[HomeKit]]. They have not connected to          |
+| 49:29      | [[HomeKit]]. I'm hoping that Rose's encouragement to buy me, for me to buy a home assistant will help       |
 | 49:34      | that. But it is, I have generally been pretty happy with the UV stuff. It's not super expensive.        |
 | 49:42      | And it seems to be pretty reliable. Yeah, I found the eufycam is great. I have several of                |
 | 49:48      | their indoor cameras. And I have an outdoor camera as well, which I've not got outdoors.                |
@@ -726,15 +726,15 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 51:25      | think the outdoor cameras are better at handling that because they've got the night vision as well.     |
 | 51:29      | But the indoor cameras, oh, don't do that, people. Don't do that. That was in hindsight hilarious.      |
 | 51:36      | But in the moment when I was really tired and cranky and just wanted to go to sleep, it was like,       |
-| 51:39      | no, just stop doing this, please, now. So, Jeff, now that you've got a taste for HomeKit,               |
-| 51:45      | are there any like HomeKit problems you're looking forward to solving or thinking about?                |
+| 51:39      | no, just stop doing this, please, now. So, Jeff, now that you've got a taste for [[HomeKit]],               |
+| 51:45      | are there any like [[HomeKit]] problems you're looking forward to solving or thinking about?                |
 | 51:49      | No. I mean, it's just adding to things over time. You know, David, you had said something,              |
 | 51:53      | I think it was on an automator a very long time ago, or maybe it was pack power users,                  |
-| 51:57      | that you started off with HomeKit just by getting that first, I think for you, just like me, it was     |
+| 51:57      | that you started off with [[HomeKit]] just by getting that first, I think for you, just like me, it was     |
 | 52:01      | that first Lutron switch, and then you add to it over time, and then now you get another one,           |
 | 52:06      | now you get another one. And then the same has been true for me. When I first bought my first           |
-| 52:11      | Lutron device, HomeKit had not even been inventid yet. I think that was in 2015 when it came out.       |
-| 52:16      | But then it became HomeKit compatible, and then I added more and more, and you know,                    |
+| 52:11      | Lutron device, [[HomeKit]] had not even been inventid yet. I think that was in 2015 when it came out.       |
+| 52:16      | But then it became [[HomeKit]] compatible, and then I added more and more, and you know,                    |
 | 52:21      | through Eve devices or other devices that I have, I mean, they have just slowly started to accumulate   |
 | 52:26      | in my house. And I'm not in the same situation where y'all are with all of your water sensors and       |
 | 52:32      | all the other things you have, but I'm slowly getting there. And it's just fun that you get one         |
@@ -742,22 +742,22 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 52:41      | gives me happiness because it works, even if it wasn't necessarily a problem beforehand. So it's        |
 | 52:46      | been nice to expand. You know, one of the things I don't know if I regret or not, but I've been         |
 | 52:51      | thinking about it because a few months ago, I was so happy with the eufy stuff that I also got the    |
-| 52:55      | eufy doorbell, which is nice and works well with the eufy app, but it's not HomeKit compatible.     |
+| 52:55      | eufy doorbell, which is nice and works well with the eufy app, but it's not [[HomeKit]] compatible.     |
 | 53:01      | And I knew that when I bought it. And of course, at the time, I'm like, well, maybe they'll add         |
 | 53:05      | this down the road. So far, I have not yet thought of how, like what I'm missing out on by it not       |
-| 53:13      | being HomeKit compatible, because I don't have any things that just as one example, there's a sensor    |
+| 53:13      | being [[HomeKit]] compatible, because I don't have any things that just as one example, there's a sensor    |
 | 53:19      | on there, like the sensor I have for my backyard. I can't think of anything that I would want to        |
 | 53:22      | happen just because it sends activity in my front yard, other than recording, and it already does       |
 | 53:26      | that built in. That's what the product does. So I, you know, I don't know that it matters that          |
-| 53:31      | it's not HomeKit compatible. But that is one thing that I think about. But I do feel like going         |
+| 53:31      | it's not [[HomeKit]] compatible. But that is one thing that I think about. But I do feel like going         |
 | 53:35      | forward, you know, anything I get in my home with some rare exceptions like that one, you know,         |
-| 53:39      | as long as they're either HomeKit compatible, or I know thread is coming, and that's going to be        |
+| 53:39      | as long as they're either [[HomeKit]] compatible, or I know thread is coming, and that's going to be        |
 | 53:43      | the next big thing, I feel like as long as I'm, as I have something that works with those systems,      |
 | 53:48      | I'll just be able to grow. And, you know, the mesh will increase over time, and you can have even       |
 | 53:52      | more triggers. And I still sometimes find myself limited by, you know, why can't I do this on           |
-| 53:56      | HomeKit? Why can't I tell HomeKit that when something happens to send me a text message,                |
-| 54:01      | I don't think that's possible right now at HomeKit. I am sure there's other ways that y'all can         |
-| 54:05      | tell me how to do that using third party stuff or online things. But, you know, I want HomeKit to       |
+| 53:56      | [[HomeKit]]? Why can't I tell [[HomeKit]] that when something happens to send me a text message,                |
+| 54:01      | I don't think that's possible right now at [[HomeKit]]. I am sure there's other ways that y'all can         |
+| 54:05      | tell me how to do that using third party stuff or online things. But, you know, I want [[HomeKit]] to       |
 | 54:10      | expand and do more. And sometimes I get frustrated that Apple has not been moving more quickly,         |
 | 54:16      | but that they are improving it, and it is getting better, which is good.                                |
 | 54:19      | I hate to do this to you, Jeff, but I'll tell you what the problem is with your doorbell cam,           |
@@ -770,13 +770,13 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 54:49      | missing out. But yeah, that's the one thing I knew about, and it hasn't been a big deal,                |
 | 54:53      | because I've already got one in the front yard. Yeah, if you want to do that on your iPad or            |
 | 54:57      | even an iPhone, by the way, I'd recommend HomeCam. It's a great little utility application.             |
-| 55:02      | The same person also makes HomeRun, which allows you to more easily do HomeKit control from your        |
+| 55:02      | The same person also makes HomeRun, which allows you to more easily do [[HomeKit]] control from your        |
 | 55:07      | Apple Watch and HomePass to store all of the QR codes for setting up your devices.                      |
-| 55:12      | But one other thing you're missing out on by not having a HomeKit compatible doorbell                   |
+| 55:12      | But one other thing you're missing out on by not having a [[HomeKit]] compatible doorbell                   |
 | 55:17      | is chimes on HomePods, because I have a ring doorbell, it's actually the peep hole one,                |
 | 55:23      | because I couldn't install something on the outside of my front door, I live in an apartment,           |
 | 55:28      | but I could put it through the people. And so I got the ring people, and I'm using Homebridge           |
-| 55:34      | to get that into HomeKit, which means that I can see the camera in HomeKit. And also,                   |
+| 55:34      | to get that into [[HomeKit]], which means that I can see the camera in [[HomeKit]]. And also,                   |
 | 55:39      | when it rings, I get chimes on my HomePods throughout the house, which is really, really               |
 | 55:43      | nice. That is an excellent point. And I'm looking in my Amazon order history, because just a few        |
 | 55:49      | weeks ago, I spent 36 bucks that I would have saved if it had done that, because what I did for         |
@@ -789,9 +789,9 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 56:23      | instead of this. So I guess the lack of support cost me an extra 36 bucks.                              |
 | 56:27      | Yeah. So yeah, we'll see. From what I've understood, it's actually different                            |
 | 56:33      | parts of eufye that do the cameras versus doing the doorbell, even though depending on which             |
-| 56:38      | doorbell it is, it connects to the same base station as some of the HomeKit compatible cameras.         |
+| 56:38      | doorbell it is, it connects to the same base station as some of the [[HomeKit]] compatible cameras.         |
 | 56:43      | It's a bit of a bit confusing like that. But I think the doorbell comes from the same group,            |
-| 56:47      | the work on the robot vacuum, which is also not HomeKit compatible, though to be fair, at HomeKit,      |
+| 56:47      | the work on the robot vacuum, which is also not [[HomeKit]] compatible, though to be fair, at [[HomeKit]],      |
 | 56:52      | there is no vacuum support at all. So, you know, that's not eufye's fault there.                         |
 | 56:57      | And I know you were kind of making fun of me earlier about my leak detectors, Jeff, but                 |
 | 57:01      | I have found religion on these things. I think Rose is the one who really kind of got me to try         |

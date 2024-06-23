@@ -418,7 +418,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 20:21      | And so I did some digging around and I found that me, that's MI, and they're part of the          |
 | 20:27      | Xiaomi brand, make some light sensors, which are pretty small.                                    |
 | 20:30      | They're like an inch or so in diameter.                                                           |
-| 20:36      | And they pair directly with the Aqara hub and they appear in HomeKit.                             |
+| 20:36      | And they pair directly with the Aqara hub and they appear in [[HomeKit]].                             |
 | 20:39      | And so I got four of those and I've stuck one on the windowsill or the window frame               |
 | 20:43      | in every room, and that was it.                                                                   |
 | 20:47      | There's no extra work to it.                                                                      |
@@ -502,7 +502,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 25:09      | And that's using Home+.                                                                        |
 | 25:10      | Yeah.                                                                                             |
 | 25:11      | The Home+ is to set up the condition and the Homebridge is to get the fake switch into         |
-| 25:17      | HomeKit.                                                                                          |
+| 25:17      | [[HomeKit]].                                                                                          |
 | 25:18      | And these fake switches are brilliant.                                                            |
 | 25:19      | You can have ones that you manually turn on and off, ones which are always on.                    |
 | 25:24      | And when you toggle them, it goes briefly off and then it comes back on, or ones that             |
@@ -515,7 +515,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 25:47      | I want to get better at using motion sensors, but it's difficult for me because there's           |
 | 25:52      | just like a dog and three other humans running around my house.                                   |
 | 25:57      | And you know, just like I'm not sure, you know, what that means.                                  |
-| 26:00      | And then I've had inconsistent results with the HomeKit app.                                      |
+| 26:00      | And then I've had inconsistent results with the [[HomeKit]] app.                                      |
 | 26:03      | Like I try to set like in one main room of our house, like if you walk through it, it'll          |
 | 26:09      | turn the lights on and then it's supposed to turn them off after 20 minutes.                      |
 | 26:12      | But then sometimes it doesn't.                                                                    |
@@ -527,11 +527,11 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 26:30      | Maybe I need to just upgrade to start using Home+ app as well.                                 |
 | 26:33      | Yeah.                                                                                             |
 | 26:34      | The Home+ app really is a great automation tool.                                               |
-| 26:38      | I'm also going to say if you're looking at building a little library of HomeKit apps              |
-| 26:44      | or tools, HomePass, save all of your HomeKit passes, HomeCam, to see multiple cameras at          |
+| 26:38      | I'm also going to say if you're looking at building a little library of [[HomeKit]] apps              |
+| 26:44      | or tools, HomePass, save all of your [[HomeKit]] passes, HomeCam, to see multiple cameras at          |
 | 26:51      | the same time on one screen or cycle through them security system style.                          |
-| 26:55      | And also Controller for HomeKit.                                                                  |
-| 26:58      | Controller for HomeKit has saved my bacon multiple times as I've gone through messing             |
+| 26:55      | And also [[Controller for HomeKit]].                                                                  |
+| 26:58      | [[Controller for HomeKit]] has saved my bacon multiple times as I've gone through messing             |
 | 27:02      | with stuff.                                                                                       |
 | 27:04      | I accidentally reset my original Aqara hub at some point.                                         |
 | 27:08      | And of course, it removed everything.                                                             |
@@ -539,11 +539,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 27:11      | Yeah.                                                                                             |
 | 27:12      | And that means it broke all of the automations as well.                                           |
 | 27:14      | Yeah.                                                                                             |
-| 27:15      | Except while it did that, I'd made a backup earlier that day when playing with Controller         |
-| 27:20      | for HomeKit.                                                                                      |
+| 27:15      | Except while it did that, I'd made a backup earlier that day when playing with [[Controller for HomeKit]]        |
 | 27:21      | Yeah.                                                                                             |
-| 27:22      | And Controller for HomeKit has complete backups with automations, scenes, names, etc.             |
-| 27:27      | So I just had to pair the Aqara hub again, sync the names from the Aqara app into HomeKit,        |
+| 27:22      | And [[Controller for HomeKit]] has complete backups with automations, scenes, names, etc.             |
+| 27:27      | So I just had to pair the Aqara hub again, sync the names from the Aqara app into [[HomeKit]],        |
 | 27:34      | which fortunately there's a button in the Aqara app settings to do that.                          |
 | 27:38      | And so it pushed all the names because I try to keep the names and sync between the apps          |
 | 27:42      | and because there's buttons for this, I do this regularly whenever I'm adding stuff from          |
@@ -555,7 +554,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 27:59      | All of the automations were working, etc.                                                         |
 | 28:01      | It was brilliant.                                                                                 |
 | 28:02      | I was so impressed.                                                                               |
-| 28:03      | Well, I'm going to, next time we talk about HomeKit, hopefully I'll have some cool motion         |
+| 28:03      | Well, I'm going to, next time we talk about [[HomeKit]], hopefully I'll have some cool motion         |
 | 28:07      | based automation.                                                                                 |
 | 28:08      | I just got to figure out a way to make it work with my family and, but, but I think it would      |
 | 28:13      | be nice to, I like the idea of walking through a room and at night and not having to like         |
@@ -661,7 +660,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 33:53      | And then it's not fully charged, et cetera.                                                       |
 | 33:55      | So yeah.                                                                                          |
 | 33:56      | Okay.                                                                                             |
-| 33:57      | So last episode we did on HomeKit, we went deep in that episode on your blind motors and          |
+| 33:57      | So last episode we did on [[HomeKit]], we went deep in that episode on your blind motors and          |
 | 34:03      | your IKEA blinds.                                                                                 |
 | 34:05      | I don't want to rehash that now.                                                                  |
 | 34:07      | We'll put a link to that in the show notes.                                                       |
@@ -1286,7 +1285,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:08:13   | table, then it'd be really great to be able to turn the cameras off around that way.              |
 | 01:08:17   | Well, I will keep playing and report back at a later date.                                        |
 | 01:08:19   | I am fairly confident that I can connect this stuff to [[Home Assistant]] and [[Home Assistant]]          |
-| 01:08:25   | can send things into HomeKit the same way Homebridge does.                                        |
+| 01:08:25   | can send things into [[HomeKit]] the same way Homebridge does.                                        |
 | 01:08:29   | So, yeah, I'll report back, but I'm 99% confident right now it can be done.                       |
 | 01:08:35   | Yeah, it sounds like we're both in a pretty good place with cameras right now.                    |
 | 01:08:38   | Yeah.                                                                                             |
@@ -1311,7 +1310,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:09:15   | got on-device storage if you want to.                                                             |
 | 01:09:18   | You don't have to, but you can.                                                                   |
 | 01:09:19   | Yeah.                                                                                             |
-| 01:09:20   | And in the app, assuming you haven't moved it over to HomeKit, in the app you can see             |
+| 01:09:20   | And in the app, assuming you haven't moved it over to [[HomeKit]], in the app you can see             |
 | 01:09:24   | prior events like you can go through and scrub them off the card.                                 |
 | 01:09:29   | And it does a rolling, right?                                                                     |
 | 01:09:31   | So it fills it up and it's kind of, it's always up to date.                                       |
@@ -1371,7 +1370,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:12:23   | I have hay fever, and apparently it made my eyelids really bumpy.                                 |
 | 01:12:26   | My optician was incredibly unimpressed with me.                                                   |
 | 01:12:30   | So I got some air purifiers, and I went a little bit mad.                                         |
-| 01:12:34   | So I got a SmartMI, that's MI for the me, and that's a HomeKit air purifier.                      |
+| 01:12:34   | So I got a SmartMI, that's MI for the me, and that's a [[HomeKit]] air purifier.                      |
 | 01:12:42   | I love it.                                                                                        |
 | 01:12:43   | It's great.                                                                                       |
 | 01:12:44   | It works.                                                                                         |
@@ -1381,12 +1380,12 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:12:57   | it says to, pair them with the Tuya app that's T-U-Y-A, because Tuya is the protocol behind       |
 | 01:13:04   | a lot of this stuff.                                                                              |
 | 01:13:06   | And if it's connected to the Tuya app, Tuya has a Homebridge plugin and a [[Home Assistant]]          |
-| 01:13:10   | plugin where you can then get your stuff into HomeKit through that.                               |
-| 01:13:14   | So I now have three air purifiers into HomeKit, and then it got really hot.                       |
+| 01:13:10   | plugin where you can then get your stuff into [[HomeKit]] through that.                               |
+| 01:13:14   | So I now have three air purifiers into [[HomeKit]], and then it got really hot.                       |
 | 01:13:19   | So I bought a Dyson fan slash air purifier for the living room, because that's my largest         |
 | 01:13:24   | room connected to the kitchen.                                                                    |
 | 01:13:25   | I thought an extra air purifier probably wouldn't hurt.                                           |
-| 01:13:27   | And this fan is Wi-Fi, so it turns on and off through HomeKit slash Homebridge as well,           |
+| 01:13:27   | And this fan is Wi-Fi, so it turns on and off through [[HomeKit]] slash Homebridge as well,           |
 | 01:13:34   | which I'm really pleased with.                                                                    |
 | 01:13:35   | That works really well for me.                                                                    |
 | 01:13:37   | And I have to say, I have noticed my eyes and, in general, sinuses feeling a lot better           |
@@ -1552,9 +1551,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:21:34   | And it is a spinning vacuum, but I use it on a hardwood floor and it actually picks               |
 | 01:21:40   | up a lot.                                                                                         |
 | 01:21:41   | And the one I have has a ton of features.                                                         |
-| 01:21:43   | It's got HomeKit integration, it's got mapping, and honestly, I don't use any of that stuff.      |
+| 01:21:43   | It's got [[HomeKit]] integration, it's got mapping, and honestly, I don't use any of that stuff.      |
 | 01:21:50   | The only thing I do is I will kick it off from the app occasionally.                              |
-| 01:21:53   | I guess it's not HomeKit, it's just it's from their app and I'll push the button to               |
+| 01:21:53   | I guess it's not [[HomeKit]], it's just it's from their app and I'll push the button to               |
 | 01:21:57   | get it started and it'll leave its little house and start vacuuming.                              |
 | 01:22:01   | But I do that several times a week.                                                               |
 | 01:22:02   | And like you said, it's not as good as if I were to sweep the room, but just by repetition,       |
@@ -1602,7 +1601,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:08   | what you've done because this is entirely new since the last time we went into this.              |
 | 01:24:12   | Yeah.                                                                                             |
 | 01:24:13   | So for people not familiar, [[Home Assistant]] is kind of like a brain for your home in               |
-| 01:24:16   | the same way that HomeKit is a brain for your home.                                               |
+| 01:24:16   | the same way that [[HomeKit]] is a brain for your home.                                               |
 | 01:24:19   | So you might think, oh, these are competing products.                                             |
 | 01:24:20   | It's one or the other.                                                                            |
 | 01:24:21   | That's not true.                                                                                  |
@@ -1621,11 +1620,11 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:59   | And I actually went as far as to get a Zigbee dongle and a Z-Wave dongle, which means it's        |
 | 01:25:05   | like a Hue or an Aqara or an IKEA hub.                                                            |
 | 01:25:09   | And Z-Wave is the same thing, but for my Yale locks, which we'll get to in a little bit.          |
-| 01:25:14   | But it can, so it can both read stuff in from HomeKit and it can also share stuff out to          |
-| 01:25:19   | HomeKit.                                                                                          |
-| 01:25:21   | One thing that completely confused me to start with is when you're setting up the HomeKit,        |
+| 01:25:14   | But it can, so it can both read stuff in from [[HomeKit]] and it can also share stuff out to          |
+| 01:25:19   | [[HomeKit]].                                                                                          |
+| 01:25:21   | One thing that completely confused me to start with is when you're setting up the [[HomeKit]],        |
 | 01:25:25   | you get a selection of device types, and so I was there going, oh, right, yeah, I want            |
-| 01:25:29   | to share some thermostats I created, I'll get to that in a second, to HomeKit.                    |
+| 01:25:29   | to share some thermostats I created, I'll get to that in a second, to [[HomeKit]].                    |
 | 01:25:36   | So I clicked the temperature option, and I selected the device and it reshared my net             |
 | 01:25:40   | atmosphere back.                                                                                  |
 | 01:25:41   | I did not realise that these are inclusive statements, not exclusive statements.                  |
@@ -1652,7 +1651,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:27:01   | And it will then turn on and off the heater in the bedroom to reach and maintain a temperature    |
 | 01:27:07   | of 21 degrees.                                                                                    |
 | 01:27:08   | And that's something that [[Home Assistant]] can do.                                                  |
-| 01:27:10   | But in HomeKit, that's pretty difficult to do.                                                    |
+| 01:27:10   | But in [[HomeKit]], that's pretty difficult to do.                                                    |
 | 01:27:13   | You end up creating a whole bunch of automations, things don't necessarily work quite the way     |
 | 01:27:16   | you expect.                                                                                       |
 | 01:27:17   | But by creating a fake thermostat through [[Home Assistant]], [[Home Assistant]] is the one doing         |
@@ -1684,7 +1683,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:28:24   | And then when the door opens, it waits 10 minutes and then it sends me a notification             |
 | 01:28:30   | to say, go out to the dishwasher.                                                                 |
 | 01:28:32   | And that was really easy to do in [[Home Assistant]], but would have taken me a long time to do       |
-| 01:28:36   | in HomeKit.                                                                                       |
+| 01:28:36   | in [[HomeKit]].                                                                                       |
 | 01:28:37   | Yeah.                                                                                             |
 | 01:28:38   | Totally.                                                                                          |
 | 01:28:39   | Yeah.                                                                                             |
@@ -1728,7 +1727,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:30:52   | They're also Wi-Fi and they do energy monitoring.                                                 |
 | 01:30:54   | So I'm accomplishing the same things as I did with the Eve stuff, but they talk to the            |
 | 01:31:01   | Kasa app.                                                                                         |
-| 01:31:02   | They don't integrate with HomeKit.                                                                |
+| 01:31:02   | They don't integrate with [[HomeKit]].                                                                |
 | 01:31:04   | And you might think that this is a disadvantage, but for me, this is a huge advantage, because    |
 | 01:31:08   | I only made this mistake once.                                                                    |
 | 01:31:10   | I asked my HomePod to turn everything off.                                                       |
@@ -1736,7 +1735,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:31:18   | the time.                                                                                         |
 | 01:31:19   | Otherwise, that could have been a significant problem.                                            |
 | 01:31:22   | But you only make that kind of mistake once.                                                      |
-| 01:31:25   | And so instead, I don't have these plugs to show up in HomeKit at all, because now I              |
+| 01:31:25   | And so instead, I don't have these plugs to show up in [[HomeKit]] at all, because now I              |
 | 01:31:30   | can ask Siri to turn on and off whatever I like.                                                  |
 | 01:31:33   | And I don't need to worry about it turning off something that shouldn't be turned off.            |
 | 01:31:37   | But these monitored energy usage, again, in [[Home Assistant]], and then when the energy usage        |
@@ -1779,7 +1778,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:33:44   | But then you have to buy their plug, their bridge to connect it.                                  |
 | 01:33:50   | And this way, I just bought the Z-Wave modules.                                                   |
 | 01:33:52   | I paired it to the Z-Wave dongle in [[Home Assistant]].                                               |
-| 01:33:55   | And then I said, hey, and by the way, send these over to HomeKit as well, please.                 |
+| 01:33:55   | And then I said, hey, and by the way, send these over to [[HomeKit]] as well, please.                 |
 | 01:34:00   | And it works.                                                                                     |
 | 01:34:02   | I can get home.                                                                                   |
 | 01:34:03   | I get out of the car.                                                                             |

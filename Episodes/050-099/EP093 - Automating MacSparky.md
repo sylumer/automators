@@ -1471,7 +1471,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:26:14   | with.                                                                                                  |
 | 01:26:15   | Yeah.                                                                                                  |
 | 01:26:16   | As the show publishes last week's episode of Mac Power Users was about home automation,                |
-| 01:26:20   | we had YouTuber Shane Whatley on, who is a guy who only does YouTube videos on HomeKit                  |
+| 01:26:20   | we had YouTuber Shane Whatley on, who is a guy who only does YouTube videos on [[HomeKit]]                  |
 | 01:26:26   | and it's got some great videos.                                                                        |
 | 01:26:28   | But Rose, you were there in spirit.                                                                    |
 | 01:26:29   | I think I mentioned you like four times during the episode.                                            |
@@ -1536,10 +1536,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:28:59   | Everything is done through the Home app.                                                               |
 | 01:29:00   | It's really good.                                                                                      |
 | 01:29:01   | I'm really pleased that it works.                                                                      |
-| 01:29:02   | Previously, the light level stuff, I've had to use a controller for HomeKit to do things,              |
+| 01:29:02   | Previously, the light level stuff, I've had to use a controller for [[HomeKit]] to do things,              |
 | 01:29:09   | but it seemed to now work with the Home app when I set it up for my parents.                           |
 | 01:29:14   | So fingers crossed, it continues to work with that.                                                    |
-| 01:29:16   | If not something like Home Plus, controller for HomeKit, the EVE Energy app, these can                 |
+| 01:29:16   | If not something like Home Plus, controller for [[HomeKit]], the EVE Energy app, these can                 |
 | 01:29:21   | all do more complex automations.                                                                       |
 | 01:29:25   | But the Home app seems to be working perfectly for my parents, and I'm doing my absolute               |
 | 01:29:30   | best to keep it minimal for them so that they don't have a need to have 8,000 apps and stuff           |

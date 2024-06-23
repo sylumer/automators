@@ -87,7 +87,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:19      | the heater to turn off every time the door opens, because I go out the door to take out                |
 | 01:22      | the trash or something, and I come back 30 seconds later, I don't need the heating to                  |
 | 01:25      | turn off twice while I'm gone. But, you know, there's possibilities.                                   |
-| 01:31      | I think that's possible even in Native HomeKit, but let's say that.                                    |
+| 01:31      | I think that's possible even in Native [[HomeKit]], but let's say that.                                    |
 | 01:35      | Yeah. Convert to shortcut. Convert to shortcut is being my friend right now.                           |
 | 01:39      | Exactly. All right. Well, what we thought would be fun for today's show is to have two                 |
 | 01:45      | automators take a serious look at the widgets that have shown up in iOS 14. We talked briefly          |

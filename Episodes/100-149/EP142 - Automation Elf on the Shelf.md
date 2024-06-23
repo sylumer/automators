@@ -233,23 +233,23 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 10:33      | So I've got it linked into my Chromecast now, which is really cool.                                 |
 | 10:37      | So when I turn my Chromecast on, the TV turns on, et cetera.                                        |
 | 10:40      | So I've just managed to double check and it is the broad link IR blaster.                           |
-| 10:44      | And yeah, so they don't work with HomeKit, unfortunately, or at least not yet.                      |
-| 10:48      | Maybe at some point they'll add master support and then we can use them in HomeKit.                 |
+| 10:44      | And yeah, so they don't work with [[HomeKit]], unfortunately, or at least not yet.                      |
+| 10:48      | Maybe at some point they'll add master support and then we can use them in [[HomeKit]].                 |
 | 10:54      | But as it is, it's great for learning, like I've got this fan heater that's got a remote            |
 | 11:01      | control for it or an aircon unit or a whole home heating unit that's got one of those               |
 | 11:07      | remote controls that sends out an IR blast of some kind.                                            |
 | 11:11      | And it will work with that over Wi-Fi.                                                              |
-| 11:14      | It doesn't work with HomeKit, so you'll have to use its app or something like [[Home Assistant]]        |
+| 11:14      | It doesn't work with [[HomeKit]], so you'll have to use its app or something like [[Home Assistant]]        |
 | 11:18      | or similar, which I'm using it with, but it works really well.                                      |
 | 11:23      | Yeah, you know, this is a really good idea.                                                         |
-| 11:25      | And I wish that it did support HomeKit because it just feels to me like an obvious, you know,       |
-| 11:33      | kind of thing that we would like for easy HomeKit automation.                                       |
+| 11:25      | And I wish that it did support [[HomeKit]] because it just feels to me like an obvious, you know,       |
+| 11:33      | kind of thing that we would like for easy [[HomeKit]] automation.                                       |
 | 11:36      | And there's nothing there yet.                                                                      |
 | 11:38      | Well, I get why it doesn't because it can be very difficult.                                        |
-| 11:42      | HomeKit's quite picky about things like adding a TV or adding a fan or something.                   |
+| 11:42      | [[HomeKit\|HomeKit's]] quite picky about things like adding a TV or adding a fan or something.                   |
 | 11:47      | And if something declares itself as a hub and then it adds like a TV and a fan and so               |
 | 11:52      | on, it needs to have like the full specifications of all of those things like saved so it can       |
-| 11:57      | add that to HomeKit and that can be kind of tricky.                                                 |
+| 11:57      | add that to [[HomeKit]] and that can be kind of tricky.                                                 |
 | 12:01      | So I get why it doesn't, but yeah, there's the broad link.                                          |
 | 12:05      | I've got the mini version that works just great on my kitchen TV.                                   |
 | 12:10      | So yeah, and it's worked great on some fans and other things I've tried it out with too.            |
@@ -329,8 +329,8 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:18      | And then if you don't have a hub at all and you just want to buy like one smart plug to             |
 | 16:23      | try this thing out, then I'd recommend Merrill's M-E-R-O-S.                                         |
 | 16:28      | You can get those on Amazon.                                                                        |
-| 16:30      | Make sure to get the ones that work with HomeKit or Matter, not the ones that don't work with       |
-| 16:34      | HomeKit or Matter.                                                                                  |
+| 16:30      | Make sure to get the ones that work with [[HomeKit]] or Matter, not the ones that don't work with       |
+| 16:34      | [[HomeKit]] or Matter.                                                                                  |
 | 16:35      | And those are the work of a Wi-Fi.                                                                  |
 | 16:38      | I don't love Wi-Fi devices, but if you need something like a four-gang extension or, you            |
 | 16:45      | know, you just want to try one smart plug, then those are very affordable to give it                |
@@ -339,7 +339,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:52      | I have been buying the Aqara stuff.                                                                 |
 | 16:53      | I'm so in the bag for them at this point and their smart plugs are good.                            |
 | 16:58      | Another thing I would recommend, since we're kind of in that neighbourhood and we're talking         |
-| 17:02      | about the holidays, is on your advice, about three or four years ago, I bought a HomeKit            |
+| 17:02      | about the holidays, is on your advice, about three or four years ago, I bought a [[HomeKit]]            |
 | 17:09      | enabled smart power strip where you can address each of the plugs on it.                            |
 | 17:15      | And we use that every holiday.                                                                      |
 | 17:18      | It's so useful because we're a typical Christmas nut family.                                        |
@@ -349,11 +349,11 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 17:28      | So it's like, I like to be able to address power to each individual unit.                           |
 | 17:33      | I don't even remember what brand I bought it from.                                                  |
 | 17:35      | I don't have it in front of me, but there's a lot of rep, you know, get one of the reputable        |
-| 17:39      | HomeKit brands, but the power strip is actually quite useful.                                       |
+| 17:39      | [[HomeKit]] brands, but the power strip is actually quite useful.                                       |
 | 17:43      | The one I got also has USB ports on the end, which are also addressable.                            |
-| 17:48      | So you can turn each off and on through HomeKit if you just want to stay with HomeKit.              |
+| 17:48      | So you can turn each off and on through [[HomeKit]] if you just want to stay with [[HomeKit]].              |
 | 17:53      | It's also, of course, available on Home.                                                            |
-| 17:55      | This isn't anything that works in HomeKit works everywhere else because HomeKit is                  |
+| 17:55      | This isn't anything that works in [[HomeKit]] works everywhere else because [[HomeKit]] is                  |
 | 17:58      | the hardest, you know, the highest hurdle, but a power strip with plugs is really good.             |
 | 18:03      | Are you getting any recommendations for that?                                                       |
 | 18:06      | I mean, I have Meross ones or rather I gave my Meross one to my parents because I managed             |
@@ -368,7 +368,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 18:49      | I'm looking at my purchase history.                                                                 |
 | 18:50      | Meross is the one I bought as well and just great, just great, you know, and if you do               |
 | 18:55      | a lot of holiday decorations, being able to like turn on one set of lights but not the              |
-| 19:00      | other via HomeKit is super useful and even if I don't use it all year, I feel like I                |
+| 19:00      | other via [[HomeKit]] is super useful and even if I don't use it all year, I feel like I                |
 | 19:06      | get my money's worth out of it.                                                                     |
 | 19:08      | Yeah, and the USB ports on the end are a really nice addition.                                      |
 | 19:12      | I have, in my office, I have set up some various holiday lighting things.                           |
@@ -380,12 +380,12 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 19:54      | into that and then you plug that into USB port and then it's got Wi-Fi to turn things               |
 | 19:58      | on and off, which is pretty cool.                                                                   |
 | 20:00      | Yeah, and I guess since we're covering power now, I want to talk about one more and that            |
-| 20:06      | is outdoor HomeKit enabled powers and these were terrible for the longest time.                     |
+| 20:06      | is outdoor [[HomeKit]] enabled powers and these were terrible for the longest time.                     |
 | 20:14      | I bought and returned several of these over the years and I had really bad experiences              |
 | 20:21      | with them, frankly, but I got a Merosss one a couple years ago and I have beat the hell               |
 | 20:27      | out of this thing.                                                                                  |
 | 20:28      | I leave it outside too often, I'm just terrible to it and it works and it works reliably and        |
-| 20:35      | if you're putting outdoor lighting up, having an outdoor HomeKit switch is really cool.             |
+| 20:35      | if you're putting outdoor lighting up, having an outdoor [[HomeKit]] switch is really cool.             |
 | 20:43      | This episode of The Automators is brought to you by Electric.                                       |
 | 20:46      | Go to electric.ai/automators and unbury yourself from IT tasks and get a free pair            |
 | 20:52      | of Beats Solo 3 wireless headphones when you schedule a qualified meeting.                          |
@@ -438,7 +438,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 23:54      | I call it Yule, you know, because that's cool.                                                      |
 | 23:56      | Yule.                                                                                               |
 | 23:57      | But I do like to automate it, and there's a couple of ways you can do it.                           |
-| 24:02      | I'm trying to keep it simple, and this is one that absolutely lends itself to HomeKit.              |
+| 24:02      | I'm trying to keep it simple, and this is one that absolutely lends itself to [[HomeKit]].              |
 | 24:08      | You don't have to have any fancy home assistant or any other technology to make it work.            |
 | 24:12      | If you've got Apple Tech and you've got Apple Music, you can run this holiday playlist via          |
 | 24:19      | a shortcut.                                                                                         |
@@ -457,19 +457,19 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 25:02      | I have no idea why this one would be different on a Mac.                                            |
 | 25:06      | Yeah.                                                                                               |
 | 25:07      | So I kind of know why.                                                                              |
-| 25:10      | And that is basically to do with the fact that HomeKit control on a Mac is interesting.             |
+| 25:10      | And that is basically to do with the fact that [[HomeKit]] control on a Mac is interesting.             |
 | 25:20      | To say the least.                                                                                   |
-| 25:21      | So in order to control HomeKit stuff on a Mac, which a HomePod to be clear is part                 |
-| 25:25      | of HomeKit, you need to embed a whole catalyst application for that inside your app, unless         |
+| 25:21      | So in order to control [[HomeKit]] stuff on a Mac, which a HomePod to be clear is part                 |
+| 25:25      | of [[HomeKit]], you need to embed a whole catalyst application for that inside your app, unless         |
 | 25:35      | your app is already a catalyst application.                                                         |
 | 25:38      | And I suspect that they, the shortcut team didn't want to do that.                                  |
 | 25:44      | But I do have a suggestion for people if they would like to control playback for things             |
 | 25:50      | on a Mac, which is actually, or not control playback, but start like a music place on               |
 | 25:55      | a HomePod on a Mac.                                                                                |
-| 25:56      | And that is create a HomeKit scene that does that and then just run the HomeKit scene from          |
+| 25:56      | And that is create a [[HomeKit]] scene that does that and then just run the [[HomeKit]] scene from          |
 | 26:00      | your Mac.                                                                                           |
-| 26:01      | Because HomeKit scenes, you can run a Mac OS, but you can't run a HomePod thing.                    |
-| 26:08      | And I think that's because the HomeKit scene is handing off to the Home app, which does             |
+| 26:01      | Because [[HomeKit]] scenes, you can run a Mac OS, but you can't run a HomePod thing.                    |
+| 26:08      | And I think that's because the [[HomeKit]] scene is handing off to the Home app, which does             |
 | 26:12      | have the catalyst stuff in there.                                                                   |
 | 26:14      | But the playback destination action can't do that.                                                  |
 | 26:18      | So it doesn't exist on Mac or whatever.                                                             |
@@ -510,10 +510,10 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 28:32      | But I do think a shortcut to trigger this stuff is always faster than going in the music            |
 | 28:38      | app and kind of fiddling around with the dials.                                                     |
 | 28:41      | Yeah, it almost certainly is.                                                                       |
-| 28:44      | And if you have Sonos speakers, obviously you've got the HomeKit support on those, at               |
+| 28:44      | And if you have Sonos speakers, obviously you've got the [[HomeKit]] support on those, at               |
 | 28:51      | least on the more modern ones.                                                                      |
 | 28:53      | But I do want to give a great shout out to a little app called SORO.                                |
-| 28:59      | And this adds a whole bunch of shortcuts actions for Sonos speakers to make them more HomeKit-like. |
+| 28:59      | And this adds a whole bunch of shortcuts actions for Sonos speakers to make them more [[HomeKit]]-like. |
 | 29:08      | The bonus with these is SORO is available on macOS, which means that you can have your              |
 | 29:15      | Mac placed up to specific speakers through SORO, which is great.                                    |
 | 29:22      | And it can clear queues and get the volume and group rooms and ungroup rooms and all                |
@@ -523,7 +523,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 29:34      | So, yeah, if you have Sonos speakers, or if like me, you don't have Sonos speakers, you             |
 | 29:39      | have IKEA Symphonisk speakers, which, oh, those are Sonos under the hood.                           |
 | 29:44      | They work with the Sonos app.                                                                       |
-| 29:45      | They work with HomeKit.                                                                             |
+| 29:45      | They work with [[HomeKit]].                                                                             |
 | 29:46      | But they then have the option of being controlled through SORO, which can be a nice workaround      |
 | 29:55      | for doing things on your Mac, if you would like.                                                    |
 | 29:57      | Well, it's a nice automating the music and sharing it with your family, frankly.                    |
@@ -731,7 +731,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 43:23      | LED light sensor lights, and you get a string of them.                                              |
 | 43:27      | It's got a little solar charger on that you put the base of the plant or the tree or whatever,      |
 | 43:33      | and the lights turn on when it gets dark and they turn off, and you don't have complete             |
-| 43:37      | control over them like you would in HomeKit or any home automation system.                          |
+| 43:37      | control over them like you would in [[HomeKit]] or any home automation system.                          |
 | 43:43      | But they work, and I feel like that's something that I think automators need to consider is         |
 | 43:48      | sometimes the easiest tool these days is just a string of LED lights with a solar charger.          |
 | 43:52      | Yeah, definitely, and honestly, you can get a lot of great little USB-powered ones as               |
@@ -847,10 +847,10 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 51:52      | to do that.                                                                                         |
 | 51:53      | So, you know.                                                                                       |
 | 51:54      | Well, the idea of a smart home friendly USB power switches is pretty clever, you know?              |
-| 52:02      | I mean, I do wish it was HomeKit though, but I don't mind running it [[Home Assistant]].                |
+| 52:02      | I mean, I do wish it was [[HomeKit]] though, but I don't mind running it [[Home Assistant]].                |
 | 52:06      | Yeah.                                                                                               |
-| 52:07      | I mean, you can just put it in [[Home Assistant]] and share as a smart light even to HomeKit            |
-| 52:13      | instead of sharing it as a smart switch and then changing it to a light and HomeKit.                |
+| 52:07      | I mean, you can just put it in [[Home Assistant]] and share as a smart light even to [[HomeKit]]            |
+| 52:13      | instead of sharing it as a smart switch and then changing it to a light and [[HomeKit]].                |
 | 52:17      | And then it'll just be a light that's a little on and off thing, but you know, that works           |
 | 52:21      | really well.                                                                                        |
 | 52:22      | Yeah.                                                                                               |

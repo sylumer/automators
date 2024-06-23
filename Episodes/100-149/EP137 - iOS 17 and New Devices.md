@@ -791,7 +791,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:09:53   | set of actions that they would give you by default. But if you didn't know the trick to run a            |
 | 01:09:58   | shortcut, you just felt like you couldn't do as much with it. And now you just pick shortcut,            |
 | 01:10:03   | attach it to the trigger, off through the races you go. I'm sorry. I let you down, Rose. I let           |
-| 01:10:08   | you down. No, it's okay, David, because yeah, especially like the HomeKit actions that you can           |
+| 01:10:08   | you down. No, it's okay, David, because yeah, especially like the [[HomeKit]] actions that you can           |
 | 01:10:13   | create in the personal automation screen of shortcuts, those are the ones that are actually              |
 | 01:10:17   | really limited. And then the rest of the time, you just kind of have to go digging around for            |
 | 01:10:21   | actions the same way that you do in shortcuts, but it would by default not really show you most          |

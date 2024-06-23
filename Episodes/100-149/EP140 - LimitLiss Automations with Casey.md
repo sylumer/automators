@@ -271,7 +271,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 15:54      | never, ever fails, ever. And I think part of the reason that that's the case is because                  |
 | 16:02      | the Caseta stuff is all in, I guess, David jumping when you're ready here, but the Caseta                |
 | 16:05      | stuff is all on its own, like private proprietary radio network. And there's a bridge to bridge          |
-| 16:11      | you to HomeKit and the, you know, the IP network. But whenever you do anything with                      |
+| 16:11      | you to [[HomeKit]] and the, you know, the IP network. But whenever you do anything with                      |
 | 16:18      | the Lutron stuff, it's communicating between the different devices with RF and it is just                |
 | 16:24      | rock solid. And we only put in a handful of these switches, but they're amazing.                         |
 | 16:28      | Yeah. I mean, and that's the trick with them is start small and just slowly grow it. I                   |
@@ -872,7 +872,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:05:15   | it's definitely worth looking into what native integrations are available for your automation            |
 | 01:05:20   | stuff. But at the same time, I also caution people to not go too nuts on it, because number              |
 | 01:05:25   | of times I've had to help somebody debug like, why are my lights turning on? And we've gone              |
-| 01:05:29   | through everything in HomeKit and it's not there. And no, I'm definitely not using anything              |
+| 01:05:29   | through everything in [[HomeKit]] and it's not there. And no, I'm definitely not using anything              |
 | 01:05:33   | else. You open the Hue app and it's right there. So yeah, yeah, that definitely happens.                 |
 | 01:05:39   | So if you're going to automate stuff in multiple places, just remember that you can do that              |
 | 01:05:43   | so that if you're trying to debug something, then you can figure out where it's happening.               |
@@ -962,7 +962,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:12:15   | looking for the old version of it or something. You know, so yeah, there's a number of things            |
 | 01:12:20   | that you could try. But the other thing I would check is make sure that your location                    |
 | 01:12:26   | sharing with shortcuts is set to while using the app with precise location. Because if                   |
-| 01:12:34   | it isn't, HomeKit actions may actually be doing weird things. And I don't understand                     |
+| 01:12:34   | it isn't, [[HomeKit]] actions may actually be doing weird things. And I don't understand                     |
 | 01:12:40   | quite why the precise location thing seems to be needed. And I need to try and figure                    |
 | 01:12:46   | out exactly what's going on and actually file some feedback with Apple on this. Because                  |
 | 01:12:50   | I found that if I didn't have precise location enable for shortcuts, and I tried to do a                 |

@@ -785,7 +785,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:01:07   | you down you need TextExpander. So check out TextExpander today at textexpander.com/              |
 | 01:01:13   | automators and you can get 20% off your first year. That's textexpander.com/automators to say     |
 | 01:01:20   | goodbye to repetitive typing. And our thanks to TextExpander for their support of the Automators        |
-| 01:01:25   | podcast. Allison, what are you doing with HomeKit? Well, one of my biggest complaints right now is      |
+| 01:01:25   | podcast. Allison, what are you doing with [[HomeKit]]? Well, one of my biggest complaints right now is      |
 | 01:01:35   | things that work and I don't know why or how they work. So I'm a big fan of the                         |
 | 01:01:42   | hue motion sensor. It's just a great sensor. It's really fast. It senses motion. It does                |
 | 01:01:47   | things on my bidding when I walk into a room. And my favourite automations are the ones that I don't     |
@@ -795,7 +795,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:02:05   | So when I walk into my studio my hue motion sensor senses my motion and my two of my lights             |
 | 01:02:13   | behind me come on. It works great. I realised lately that's not quite enough light. I'd actually        |
 | 01:02:18   | like my standing lamp, which is also a hue lamp, hue bulbs in it. I would like it to come on too.       |
-| 01:02:23   | So I said, okay, let me open up HomeKit. Let me go look at my scenes. Where are our scenes?             |
+| 01:02:23   | So I said, okay, let me open up [[HomeKit]]. Let me go look at my scenes. Where are our scenes?             |
 | 01:02:31   | I've got a button down here for automation. I've got a button for home. I've got a discover button,     |
 | 01:02:35   | but there's no scene buttons. Okay, well, let me look across the top. I think if I go into the          |
 | 01:02:40   | home there's a list of them and it's a terrible way to do it. It should be its own section,             |
@@ -807,7 +807,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:03:07   | during the day, but if it's, but if it's in the middle of the night, they just come on very,            |
 | 01:03:11   | very dimly. And he tells me, he says, I know why you can't find them because they're not there.         |
 | 01:03:17   | They were in the Hue app. We created those when we got the Hue app originally and Hue no longer         |
-| 01:03:23   | has them because we put those, those devices into HomeKit. So the auto, I can't change these            |
+| 01:03:23   | has them because we put those, those devices into [[HomeKit]]. So the auto, I can't change these            |
 | 01:03:30   | automations. These exist and I have no access to it. I can't get to it. I can't fix it. I can't add     |
 | 01:03:36   | anything to it. You should be able to fix that in the Hue app because I had something similar           |
 | 01:03:40   | recently that I was trying to figure out like where, where is this like pink tone to my bedroom         |
@@ -816,7 +816,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:03:57   | new home layout, not the 16.2 that got [[Yoink]]ed and then put back in 16.3, but it's not necessarily      |
 | 01:04:06   | there yet for everybody version. Like the new look to the Home app, which came out with iOS 16,         |
 | 01:04:12   | where if something isn't a favourite, it's really hidden. Yeah. Oh, is there a way to find them?         |
-| 01:04:18   | In the Hue app or in the HomeKit? Well, you know, if I go into Hue automations, it says,                |
+| 01:04:18   | In the Hue app or in the [[HomeKit]]? Well, you know, if I go into Hue automations, it says,                |
 | 01:04:23   | did you want to create some automations? So you're not looking for automations in the Hue app.          |
 | 01:04:28   | There is like another thing in there called scenes and they should still exist. They're                 |
 | 01:04:33   | just buried somewhere. And I have to go press a button on my Hue hub to be able to reconnect it         |
@@ -834,10 +834,10 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:05:35   | is, you know, Apple doesn't control those third party apps, you know, and they have to try and          |
 | 01:05:42   | make it work as best as they can. But some companies are going to put a bunch of time and effort into   |
 | 01:05:46   | making good apps. And some are not, you know, but either way, Apple wants their stuff to be able        |
-| 01:05:53   | to work with HomeKit. And I don't envy them. I think it's a tough job. Yeah, it is definitely one       |
-| 01:05:59   | of those things where this is pretty much like the problem with HomeKit and home automation in many     |
+| 01:05:53   | to work with [[HomeKit]]. And I don't envy them. I think it's a tough job. Yeah, it is definitely one       |
+| 01:05:59   | of those things where this is pretty much like the problem with [[HomeKit]] and home automation in many     |
 | 01:06:07   | ways. There are too many ways to solve the problem, because you have the Hub app and the Hub. And       |
-| 01:06:12   | then you've also got a HomeKit. And then, you know, if you get a new Hub when that one comes out        |
+| 01:06:12   | then you've also got a [[HomeKit]]. And then, you know, if you get a new Hub when that one comes out        |
 | 01:06:18   | with, you know, matter support, then you may have yet another way to do stuff through, you know,        |
 | 01:06:25   | Google Home or, you know, Echo, the Echo ecosystem and stuff. And honestly, it's really confusing       |
 | 01:06:33   | and annoying to try and troubleshoot that, which is why I just went with a nuclear approach of          |
@@ -861,12 +861,12 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:08:10   | not. But it's just one of those things where that is not necessarily super obvious for folks            |
 | 01:08:16   | who are looking for it, especially if you, like me, have lost your electric blanket.                    |
 | 01:08:22   | I couldn't find my electric blanket because it wasn't in the bedroom. It was, it was still attached     |
-| 01:08:26   | to my bed, but HomeKit had decided that it belonged in my office. Oh yeah. Are things moving rooms      |
+| 01:08:26   | to my bed, but [[HomeKit]] had decided that it belonged in my office. Oh yeah. Are things moving rooms      |
 | 01:08:31   | for you right now? It happens every once in a while. I found that this happened a lot when I            |
 | 01:08:37   | was using Homebridge. And since I've stopped using Homebridge completely, it seems to have stopped.     |
 | 01:08:42   | And I don't know if it's something specific about Homebridge. I'd now just use [[Home Assistant]] for       |
 | 01:08:47   | everything or if it's something else, but just one of those things where, yeah, when stuff goes         |
-| 01:08:53   | wrong and HomeKit, it seems to go really wrong and you don't necessarily know why.                      |
+| 01:08:53   | wrong and [[HomeKit]], it seems to go really wrong and you don't necessarily know why.                      |
 | 01:08:57   | We have a lamp that just keeps wandering around the house. And I keep accusing Steve of moving it,      |
 | 01:09:02   | but I think it's moving by itself. It was in my room yesterday. He found it in his room the day         |
 | 01:09:08   | before. We keep putting it back in the family room, but it keeps coming back. Now there's two of them.  |

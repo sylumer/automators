@@ -569,46 +569,46 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 42:21      | home assistant, you can plug a Zigbee dongle into it. I bought a Zigbee dongle and I paired              |
 | 42:28      | everything with home assistant. Home assistant and the Zigbee dongle that I bought seem                  |
 | 42:32      | to be doing a really, really great job of getting all of my things to talk to each other.                |
-| 42:39      | I can share those back into HomeKit so I'm not losing out on the fact that I can then                    |
+| 42:39      | I can share those back into [[HomeKit]] so I'm not losing out on the fact that I can then                    |
 | 42:43      | talk to a home pot and say open and close this blind and do these things and so on and                   |
 | 42:46      | so forth. But also, home assistant automations are a lot more powerful. You can say, for                 |
 | 42:54      | example, if this door is open for two minutes, then do this thing, which is something that               |
-| 43:00      | I was trying to do for a long time in HomeKit and Shortcuts and I had things forming out                 |
+| 43:00      | I was trying to do for a long time in [[HomeKit]] and Shortcuts and I had things forming out                 |
 | 43:08      | to my push cut automation server where it was checking every 10 seconds, hey, is the                     |
 | 43:13      | door still open? Is the door still open? Is the door still open? Well, there's 120 seconds               |
 | 43:18      | in two minutes. That's 12 runs of a shortcut to check whether or not a door is still open.               |
 | 43:26      | It felt very inefficient and unoptimised. Quite frankly, it was a bit flaky just because                 |
 | 43:31      | you're relying on duct tape and a wish to make all of those things work. And individually,               |
-| 43:38      | each component was rock solid. HomeKit was great and the door lock is great and push                     |
+| 43:38      | each component was rock solid. [[HomeKit]] was great and the door lock is great and push                     |
 | 43:44      | cut is great, but trying to connect all three of them together seemed to just end up being               |
 | 43:48      | a bit tricky. And I couldn't ever quite figure out where the failure point was. So I've been             |
 | 43:53      | able to solve a good chunk of that with some home assistant automations, but I've managed                |
-| 43:58      | to keep all of my HomeKit automations intact because what I've done is I've backed up                    |
-| 44:03      | my HomeKit setup. And then when I removed the devices from the HomeKit home because                      |
+| 43:58      | to keep all of my [[HomeKit]] automations intact because what I've done is I've backed up                    |
+| 44:03      | my [[HomeKit]] setup. And then when I removed the devices from the [[HomeKit]] home because                      |
 | 44:10      | I took them off of the IKEA bridge and I paired it to [[Home Assistant]] and I shared it back                |
-| 44:14      | to HomeKit, I could actually restore the backup that I'd created and I used controller for               |
-| 44:20      | HomeKit for this. And what I could do was I could say, hey, so this device is now this                   |
+| 44:14      | to [[HomeKit]], I could actually restore the backup that I'd created and I used controller for               |
+| 44:20      | [[HomeKit]] for this. And what I could do was I could say, hey, so this device is now this                   |
 | 44:27      | device and then it just linked everything back up for me. So it meant that actually nothing              |
-| 44:32      | got broken. And I have to say, control of HomeKit definitely deserves a massive shout out                 |
+| 44:32      | got broken. And I have to say, control of [[HomeKit]] definitely deserves a massive shout out                 |
 | 44:38      | because it made that process a lot easier. And so does [[Home Assistant]] because it is an                   |
 | 44:42      | incredibly powerful system that's allowed me to get rid of three hubs so far and just                    |
 | 44:49      | pair everything directly.                                                                                |
 | 44:50      | Okay, wait, I just want to pull a set of weeds for a minute here because you keep talking                |
 | 44:54      | about [[Home Assistant]], but I'm not sure everybody knows what [[Home Assistant]] is. So what is it?            |
-| 44:59      | Yeah, we've mentioned it on the show before, but if you think of HomeKit, HomeKit is one                 |
-| 45:05      | way to control a number of smart home devices, but they all have to be HomeKit compatible.               |
+| 44:59      | Yeah, we've mentioned it on the show before, but if you think of [[HomeKit]], [[HomeKit]] is one                 |
+| 45:05      | way to control a number of smart home devices, but they all have to be [[HomeKit]] compatible.               |
 | 45:11      | What you can do instead, there's a number of different options out there. There was Samsung              |
 | 45:16      | SmartThings for a while. I think that's pretty much dead now, unfortunately. There's Hubitat             |
 | 45:21      | and a number of things, but [[Home Assistant]] is a very big one and it's open source. And                   |
 | 45:26      | essentially, the idea is that it is a small brain that lives in your house on a computer                 |
-| 45:31      | and it does a variety of different things. But on HomeKit, where you have to have an                     |
+| 45:31      | and it does a variety of different things. But on [[HomeKit]], where you have to have an                     |
 | 45:39      | always-on iPad that stays at home or an Apple TV or a HomePod, you can run this on a computer            |
 | 45:46      | that you might already have that's in your home. So I was running on a Raspberry Pi for                  |
 | 45:51      | a while and then I ended up buying a slightly more powerful machine because I wanted to be               |
 | 45:56      | able to do lots of things with data tracking. But the idea is that you run a small server                |
-| 46:02      | of yourself that can manage this sort of thing, just like HomeKit can with automations and               |
+| 46:02      | of yourself that can manage this sort of thing, just like [[HomeKit]] can with automations and               |
 | 46:07      | so on, but you can connect a number of different devices to it.                                          |
-| 46:10      | Yeah, and it feels to me kind of like it's halfway between Homebridge and HomeKit in                     |
+| 46:10      | Yeah, and it feels to me kind of like it's halfway between Homebridge and [[HomeKit]] in                     |
 | 46:15      | some ways because you get their device and then you can put it on a Raspberry Pi, but                    |
 | 46:20      | you can also just buy a premade box. In fact, I've got one on order because we're going                  |
 | 46:24      | to do a show on this at some point, but they're pretty slow to deliver. I'm not sure when                |
@@ -618,9 +618,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 46:45      | Yes.                                                                                                     |
 | 46:46      | Okay.                                                                                                    |
 | 46:47      | So it's not just home automation rules, but it's also a lot of the things that you can                   |
-| 46:52      | do with [[Home Assistant]], you would probably struggle to do with just HomeKit or even HomeKit              |
+| 46:52      | do with [[Home Assistant]], you would probably struggle to do with just [[HomeKit]] or even [[HomeKit]]              |
 | 47:01      | and Homebridge. So for example, I have a smart heating that came with my house. I just had               |
-| 47:07      | to buy a hub to talk to it, but there is no plug-in for this for HomeKit, for a Homebridge               |
+| 47:07      | to buy a hub to talk to it, but there is no plug-in for this for [[HomeKit]], for a Homebridge               |
 | 47:14      | at all. I looked and I looked at trying to create one and it would have been quite frankly               |
 | 47:19      | a bit of a nightmare. And then I looked in [[Home Assistant]] and there wasn't a plug-in                     |
 | 47:24      | that somebody had made. They made an add-on. And the difference between the two, I'm not                 |
@@ -654,17 +654,17 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 49:34      | You're going to have to walk me through. It's going to be a challenge. When mine shows up,               |
 | 49:38      | you have to walk me through because it's new to me, but I am super interested in the ability             |
 | 49:42      | to add more conditions to my rules and make home automation more powerful. I think Apple                 |
-| 49:47      | is actually doing a pretty good job with HomeKit, but it also is kind of the least common denominator.   |
+| 49:47      | is actually doing a pretty good job with [[HomeKit]], but it also is kind of the least common denominator.   |
 | 49:52      | You know, it'd be nice if you could go further with this. The other thing [[Home Assistant]] looks           |
-| 49:56      | like it's going to give me is the ability to use devices that aren't made for HomeKit,                   |
+| 49:56      | like it's going to give me is the ability to use devices that aren't made for [[HomeKit]],                   |
 | 50:00      | which will be nice.                                                                                      |
 | 50:01      | Yeah, yeah. It is great that you can do that. So I have a smart smoke detector, but there                |
 | 50:08      | are I think the only smart smoke detector available in the UK is the Netatmo one, which                  |
 | 50:11      | is fairly pricey. I bought a 10 pound Zigbee smart smoke detector and it works exactly                |
 | 50:18      | the same way as a regular smart smoke detector, except I also paired it to [[Home Assistant]] and            |
-| 50:22      | shared it to HomeKit and I attempted to test it. It was really difficult. Like I had to                  |
+| 50:22      | shared it to [[HomeKit]] and I attempted to test it. It was really difficult. Like I had to                  |
 | 50:29      | actually have to set several light several candles underneath it and close a bunch of                    |
-| 50:35      | doors to trigger it, but it works exactly the same way you would expect a HomeKit one                    |
+| 50:35      | doors to trigger it, but it works exactly the same way you would expect a [[HomeKit]] one                    |
 | 50:39      | to do. I got a push notification to my phone. So I was really, really pleased about that                 |
 | 50:45      | and it was only 10 pounds versus I think it was 60 or 80 pounds for the Netatmo one.                     |
 | 50:50      | So there can be quite a price difference, but it does come with a bit of a trade off                     |
@@ -707,7 +707,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 54:03      | Well, then what I did is I combined them through [[Home Assistant]] so that they just show up as             |
 | 54:07      | one. So if either of them sees movement, then it just shows up as my office chair is occupied            |
 | 54:15      | because I set it to occupied versus not occupied. But I've combined the two of them because              |
-| 54:20      | in HomeKit, I don't want to see whether or not one of them, the seat or the back, has                    |
+| 54:20      | in [[HomeKit]], I don't want to see whether or not one of them, the seat or the back, has                    |
 | 54:26      | detected motion. I don't care about that. And then I took it a step further and went,                    |
 | 54:30      | literally, I don't care about the other motion sensors in my office either. I just care about            |
 | 54:34      | whether or not my office is occupied. And I combined all of them into an office occupancy                |
@@ -729,18 +729,18 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 55:37      | Yeah.                                                                                                    |
 | 55:38      | Now, when are you shipping? This all sounds like fun.                                                    |
 | 55:42      | It is a lot of fun. And it's also pretty nice to be able to shop from a much wider array                 |
-| 55:48      | of smart home devices than are just available to HomeKit. So for example, when I got my                  |
-| 55:54      | Yale locks here in the UK, Yale didn't have a HomeKit hub out. It just wasn't an option.                 |
+| 55:48      | of smart home devices than are just available to [[HomeKit]]. So for example, when I got my                  |
+| 55:54      | Yale locks here in the UK, Yale didn't have a [[HomeKit]] hub out. It just wasn't an option.                 |
 | 56:02      | But they did have Z-Wave plug-ins that you could put inside the devices. And I could                     |
-| 56:08      | have bought, I think, as a Z-Wave hub from them, but that wasn't a HomeKit compatible.                   |
-| 56:13      | But [[Home Assistant]] can share things into HomeKit. And so I bought a Z-Wave dongle for a Home             |
+| 56:08      | have bought, I think, as a Z-Wave hub from them, but that wasn't a [[HomeKit]] compatible.                   |
+| 56:13      | But [[Home Assistant]] can share things into [[HomeKit]]. And so I bought a Z-Wave dongle for a Home             |
 | 56:18      | Assistant. That was the original reason for me getting into [[Home Assistant]] properly and                  |
-| 56:24      | trying it really was because I wanted to get smart door locks and I wanted them in HomeKit.              |
+| 56:24      | trying it really was because I wanted to get smart door locks and I wanted them in [[HomeKit]].              |
 | 56:30      | So I bought a Z-Wave dongle and mine's an Aeotec, I believe it is, and plugged that                      |
 | 56:36      | into [[Home Assistant]]. And then I paired my Yale locks to it. And I got a push notification                |
 | 56:43      | just five minutes ago saying, hey, your door lock battery is running low. You probably                   |
 | 56:47      | want to fix that. So I will go after the show and replace the batteries in my door lock.                 |
-| 56:51      | But that set got me smart door locks and it got me HomeKit compatible smart door locks                   |
+| 56:51      | But that set got me smart door locks and it got me [[HomeKit]] compatible smart door locks                   |
 | 56:58      | that I can control with Siri. And that's how I usually unlock my doors. But I didn't have                |
 | 57:05      | to wait for Yale to finally release a door lock because one of the doors I wanted to                     |
 | 57:11      | control is a multi-point lock where you have to lift the handle to engage the lock before                |
@@ -750,30 +750,30 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 57:30      | work and if I was getting one Yale lock, I figured get two because then both of them                     |
 | 57:34      | will pair. And I'm really, really pleased with them, I have to say, and it works really,                 |
 | 57:39      | really well.                                                                                             |
-| 57:40      | So where do you draw the line between [[Home Assistant]] stuff and HomeKit stuff?                            |
+| 57:40      | So where do you draw the line between [[Home Assistant]] stuff and [[HomeKit]] stuff?                            |
 | 57:45      | I don't really. I try to look at what is the best solution because if I can get it into                  |
-| 57:52      | [[Home Assistant]], I can get it back into HomeKit. And if it's something that's HomeKit only,               |
+| 57:52      | [[Home Assistant]], I can get it back into [[HomeKit]]. And if it's something that's [[HomeKit]] only,               |
 | 57:58      | I can actually pair it into [[Home Assistant]] because [[Home Assistant]] has the ability                        |
-| 58:02      | to pretend to be HomeKit, essentially. So I actually have an air purifier that I bought                  |
+| 58:02      | to pretend to be [[HomeKit]], essentially. So I actually have an air purifier that I bought                  |
 | 58:08      | before I got into [[Home Assistant]]. And it took a while to arrive. It was not Kickstarter.                 |
 | 58:14      | The other one, Indiegogo, is an Indiegogo project. And it's a lovely air purifier. It's                  |
-| 58:20      | very swish, fancy designer, all sorts of things. But it is HomeKit, not any kind of local protocol,      |
-| 58:27      | except for that. But I was able to get it into [[Home Assistant]] through HomeKit and then I can             |
+| 58:20      | very swish, fancy designer, all sorts of things. But it is [[HomeKit]], not any kind of local protocol,      |
+| 58:27      | except for that. But I was able to get it into [[Home Assistant]] through [[HomeKit]] and then I can             |
 | 58:33      | control all of my air purifiers in one place. And I didn't have to do that, but I did it                 |
 | 58:40      | because I was curious. And it's quite nice to be able to look at a view just for my living room          |
 | 58:46      | and see the air purifier for that room. Whereas if I look at the bedroom view, I see the air             |
-| 58:50      | purifier in that room, which wasn't HomeKit compatible. It's a Tuya one. But I have the                  |
-| 58:57      | best of all of the worlds, essentially, because if I want to do something in HomeKit,                    |
-| 59:01      | I can do it because I can share everything back to HomeKit. But if [[Home Assistant]] is going to            |
+| 58:50      | purifier in that room, which wasn't [[HomeKit]] compatible. It's a Tuya one. But I have the                  |
+| 58:57      | best of all of the worlds, essentially, because if I want to do something in [[HomeKit]],                    |
+| 59:01      | I can do it because I can share everything back to [[HomeKit]]. But if [[Home Assistant]] is going to            |
 | 59:05      | be the easiest way to solve a problem, or the best way to solve the problem because it will              |
 | 59:10      | allow me to extend it, then I can solve it there as well. So pretend you live with people who are        |
-| 59:15      | not as nerdy as you. Yeah. Are they able to get into HomeKit to see the rules? I mean,                   |
-| 59:20      | can you live with somebody else is I guess what I'm asking, like with HomeKit? Well,                     |
+| 59:15      | not as nerdy as you. Yeah. Are they able to get into [[HomeKit]] to see the rules? I mean,                   |
+| 59:20      | can you live with somebody else is I guess what I'm asking, like with [[HomeKit]]? Well,                     |
 | 59:24      | I guess the question is, why do they need to see the rules? Yeah. Because [[Home Assistant]],                |
 | 59:30      | everybody can have their own account, and it's got an iOS app, it's got an Apple Watch app.              |
 | 59:36      | And so they can log in. And if you share things with them, like the automations and so on,               |
 | 59:42      | you give them access to it, then they'll be able to see and edit all of those things.                    |
-| 59:46      | The same as you can share that access through HomeKit. But ideally, my aim for every setup is            |
+| 59:46      | The same as you can share that access through [[HomeKit]]. But ideally, my aim for every setup is            |
 | 59:52      | that I create it in such a way that it should just do what you expect without you needing to do          |
 | 01:00:00   | anything. So you walk into the bathroom and the light turns on. And very occasionally,                   |
 | 01:00:04   | while I'm debugging things or setting something up, that might not be the case. But if that's            |
@@ -893,7 +893,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:10:28   | So one of them is, and I'm now going to get this wrong because it's gone and hidden from me,             |
 | 01:10:33   | the name of the application. It's the little house with the lightning icon in it in my menu bar,         |
 | 01:10:38   | and it's called Home Control. That's one. And Home Control gives me all of the devices, scenes,          |
-| 01:10:45   | groups, smart group, sensors, etc. from HomeKit in my menu bar so that when I click on it,               |
+| 01:10:45   | groups, smart group, sensors, etc. from [[HomeKit]] in my menu bar so that when I click on it,               |
 | 01:10:52   | I can see all of those things. I should mention that [[Home Assistant]] does also have an application        |
 | 01:10:57   | for the Mac, and that's good. It works really well and it gets a bunch of sensors into it,               |
 | 01:11:03   | but for a lot of the things that I'm doing where I just want specific scenes,                            |

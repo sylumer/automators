@@ -1059,16 +1059,16 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 59:27      | And maybe it doesn't even work right now because it, you know, it's not turning                         |
 | 59:30      | on automatically when light switch turns on and so on.                                                  |
 | 59:33      | But I do think that there are improvements coming.                                                      |
-| 59:36      | You know, we saw some improvements directly inside of HomeKit with a little                             |
+| 59:36      | You know, we saw some improvements directly inside of [[HomeKit]] with a little                             |
 | 59:40      | bit, and I do emphasise little bit of logging.                                                          |
 | 59:44      | Okay.                                                                                                   |
 | 59:45      | You still can't find out why your lights are randomly turning on at 3 a.m.                              |
 | 59:48      | But you do have a log of when your door unlocked and things like that.                                  |
 | 59:52      | And that is a very significant improvement.                                                             |
 | 59:55      | There, there's a lot of pain points still, like for example, favourites in                              |
-| 59:59      | HomeKit are saved on the device.                                                                        |
+| 59:59      | [[HomeKit]] are saved on the device.                                                                        |
 | 01:00:02   | So if you in your home, David, mark your office light bulb as a favourite,                              |
-| 01:00:07   | then when your wife opens it, when either of your door just opens HomeKit,                              |
+| 01:00:07   | then when your wife opens it, when either of your door just opens [[HomeKit]],                              |
 | 01:00:10   | the home app or the control centre, guess what favourite they see?                                      |
 | 01:00:15   | Your office light.                                                                                      |
 | 01:00:16   | Yeah.                                                                                                   |
@@ -1099,9 +1099,9 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:01:37   | That's meant that some of the devices that I've got, which, you know,                                   |
 | 01:01:40   | were pretty locked down and not, I couldn't, you know, interact with them                               |
 | 01:01:44   | in anything but their own manufacturer apps, I can now control using                                    |
-| 01:01:48   | [[Home Assistant]] and HomeKit.                                                                             |
+| 01:01:48   | [[Home Assistant]] and [[HomeKit]].                                                                             |
 | 01:01:50   | And that is really great because that means that I no longer have to pay                                |
-| 01:01:53   | the HomeKit premium, I'm paying a matchup premium, but it's not quite as much.                          |
+| 01:01:53   | the [[HomeKit]] premium, I'm paying a matchup premium, but it's not quite as much.                          |
 | 01:01:58   | And so that, you know, that's pretty exciting to see.                                                   |
 | 01:02:01   | And I think, you know, I think we will, you know, get there with this stuff.                            |
 | 01:02:06   | But it's definitely still the point where, you know, was it MyQ last year,                              |
@@ -1208,9 +1208,9 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:06:55   | But I do think that there, you know, there's improvements coming.                                       |
 | 01:06:58   | Some stuff is getting better.                                                                           |
 | 01:07:00   | Some stuff is still just working very weirdly.                                                          |
-| 01:07:03   | I keep seeing folks with HomeKit where there's like one person who set up                               |
-| 01:07:08   | the HomeKit home and then there's somebody else who just half the time                                  |
-| 01:07:11   | can't access the HomeKit home.                                                                          |
+| 01:07:03   | I keep seeing folks with [[HomeKit]] where there's like one person who set up                               |
+| 01:07:08   | the [[HomeKit]] home and then there's somebody else who just half the time                                  |
+| 01:07:11   | can't access the [[HomeKit]] home.                                                                          |
 | 01:07:13   | There's just no devices in it or it just doesn't work.                                                  |
 | 01:07:16   | And I'm not quite sure what's going on there, but I have told those folks to                            |
 | 01:07:19   | get in touch with Apple and, you know, try, you know, wiping the devices                                |

@@ -73,7 +73,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:34      | of it and implemented those in my life. Yeah, and actually you could add window and blinds               |
 | 01:39      | automation to this because there are home kit friendly windows and blinds. If you wanted to              |
 | 01:44      | add them. Yeah, IKEA has new home kit blinds, which as I'm moving where I am right now,                  |
-| 01:49      | I don't think my parents particularly want me to HomeKit-ify their entire house,                         |
+| 01:49      | I don't think my parents particularly want me to [[HomeKit]]-ify their entire house,                         |
 | 01:52      | though I'm working on that, but I would seriously consider adding blinds going up to                     |
 | 01:57      | the part of my Daily Brief, like something that just happens as a part of it.                            |
 | 02:01      | Yeah, I would look at those when I was setting up my home studio and the budget for the blinds           |
@@ -84,7 +84,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 02:32      | because if you do just sort of buy them and go home, it's like, hi, I have a lot of fancy new            |
 | 02:36      | blinds. Oh, cool. How much for they? Don't check the credit card bill. They're not that cheap,           |
 | 02:41      | unfortunately. Yeah, and I don't even really have entire faith that they would work all the time,        |
-| 02:46      | even though I make a show called The Automators. I feel like HomeKit sometimes is a little testy,        |
+| 02:46      | even though I make a show called The Automators. I feel like [[HomeKit]] sometimes is a little testy,        |
 | 02:52      | but if you're using automated blinds, let us know in the forums. We'd love to hear from you,             |
 | 02:57      | see how it's going. Yeah, and I'm definitely interested. The Daily Brief, the idea behind it,            |
 | 03:03      | like Rose was saying, is you could have a customised series of information given to you                  |

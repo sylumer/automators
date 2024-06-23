@@ -169,7 +169,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 05:55      | And also, spoiler alert, I bought their 10-meter LED light strip under my bed because I'm                |
 | 06:00      | working on that.                                                                                         |
 | 06:02      | And yeah, their stuff's great.                                                                           |
-| 06:04      | It doesn't need a hub or a bridge to integrate with HomeKit, and it just connects to your                |
+| 06:04      | It doesn't need a hub or a bridge to integrate with [[HomeKit]], and it just connects to your                |
 | 06:09      | Wi-Fi, and it does seem to work pretty well.                                                             |
 | 06:11      | I'm quite impressed with it.                                                                             |
 | 06:12      | Yeah.                                                                                                    |
@@ -179,11 +179,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 06:29      | So I downloaded the app, and I ran the firmware update, and it just hung, and it never got               |
 | 06:35      | over.                                                                                                    |
 | 06:36      | It just never stopped.                                                                                   |
-| 06:37      | And then I went back to HomeKit, didn't work anymore.                                                    |
+| 06:37      | And then I went back to [[HomeKit]], didn't work anymore.                                                    |
 | 06:39      | This is the typical thing, right?                                                                        |
 | 06:42      | So then I pulled the plug out, and I put it back in the wall, holding down the switch                    |
 | 06:46      | power, because that's usually the way you reset these things.                                            |
-| 06:49      | And sure enough, the light started blinking again, and then I was able to add it to HomeKit              |
+| 06:49      | And sure enough, the light started blinking again, and then I was able to add it to [[HomeKit]]              |
 | 06:53      | again, and just because I've been busy, Rose, I haven't gone back to try and do a firmware               |
 | 06:59      | update.                                                                                                  |
 | 07:00      | Right now, it has a little badge on it, saying it needs a firmware update.                               |
@@ -194,18 +194,18 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 07:14      | Meross plugs, I feel like I probably spent too much money on the other ones.                              |
 | 07:21      | And I'm not sure these are going to last forever, but they definitely are working great this             |
 | 07:25      | year.                                                                                                    |
-| 07:26      | Once you've got them installed, they're HomeKit-friendly, so how do you turn them on?                    |
+| 07:26      | Once you've got them installed, they're [[HomeKit]]-friendly, so how do you turn them on?                    |
 | 07:32      | You can, using all the great new triggers we've got in shortcuts, you can set up a shortcut              |
 | 07:38      | script.                                                                                                  |
-| 07:39      | You could also just go in HomeKit Automation and do that, and the way I'm doing them is                  |
+| 07:39      | You could also just go in [[HomeKit]] Automation and do that, and the way I'm doing them is                  |
 | 07:46      | I'm having them turn on automatically when it gets dark outside, and then I'm using another              |
 | 07:52      | automation to turn them off automatically at 11.                                                         |
 | 07:57      | But often, we'll turn them on during the day, because we like the Christmas tree, and we're              |
 | 08:01      | sitting there, and they're all LED lights.                                                               |
 | 08:03      | They use almost no power anymore.                                                                        |
-| 08:05      | So I also added a HomeKit, what do you call a scene, just to turn the lights on.                         |
+| 08:05      | So I also added a [[HomeKit]], what do you call a scene, just to turn the lights on.                         |
 | 08:11      | It's a scene with just two objects attached to it, just each tree.                                       |
-| 08:15      | But it's a way that my wife can open up the HomeKit app, because she's not particularly                  |
+| 08:15      | But it's a way that my wife can open up the [[HomeKit]] app, because she's not particularly                  |
 | 08:19      | savvy with this stuff.                                                                                   |
 | 08:21      | There's a big button there, it says turn trees on, and she taps it, and the trees go on.                 |
 | 08:26      | And interestingly, historically, I've done these where I would attach it to a switch,                    |
@@ -224,7 +224,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 09:11      | them as well, just because all the IKEA things need to be paired with what they term steering            |
 | 09:16      | devices.                                                                                                 |
 | 09:18      | And so a steering device could be a motion sensor or a button, but their motion sensors                  |
-| 09:21      | and buttons do not appear in HomeKit, which is the downside of that approach.                            |
+| 09:21      | and buttons do not appear in [[HomeKit]], which is the downside of that approach.                            |
 | 09:26      | The button is the cheapest way to do it, and I like separating my things out, so I know                  |
 | 09:30      | that this button would turn these things off.                                                            |
 | 09:32      | So I bought two outlets and a button, and that's working pretty great.                                   |
@@ -277,13 +277,13 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 12:19      | I will confess, I saw these advertised on [[Instagram]], and I genuinely thought that they                   |
 | 12:22      | were just a thing that weren't really very good.                                                         |
 | 12:26      | But I have been spending a lot of time on the Homebridge subreddit recently, just because                |
-| 12:31      | there's a lot of cool stuff that appears on there and the HomeKit one.                                   |
+| 12:31      | there's a lot of cool stuff that appears on there and the [[HomeKit]] one.                                   |
 | 12:35      | And so many people were recommending these lights.                                                       |
-| 12:38      | Now these lights are not HomeKit compatible.                                                             |
+| 12:38      | Now these lights are not [[HomeKit]] compatible.                                                             |
 | 12:40      | They are Homebridge compatible though, which means somebody has written a Homebridge plugin              |
 | 12:44      | for them.                                                                                                |
-| 12:45      | So then you can get them into HomeKit.                                                                   |
-| 12:46      | So in HomeKit, I can't change what colours or scenes they're doing or anything.                           |
+| 12:45      | So then you can get them into [[HomeKit]].                                                                   |
+| 12:46      | So in [[HomeKit]], I can't change what colours or scenes they're doing or anything.                           |
 | 12:52      | I can just turn them on enough and dim them if I want to.                                                |
 | 12:55      | So that is something else I do.                                                                          |
 | 12:57      | When I turn on the TV, as well as turning off the stars around the TV stand, I also dim                  |
@@ -485,8 +485,8 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 23:06      | So I definitely recommend pretty coloured lights and getting them in on your automation game.             |
 | 23:12      | Yeah, I have looked at these Nanoleaf lights for years and I just can never figure out where             |
 | 23:17      | I'm going to put them or where I would put them.                                                         |
-| 23:20      | But do they support HomeKit at all, or is it yours?                                                      |
-| 23:23      | Yeah, yeah, they're fully HomeKit integrated, which is great.                                            |
+| 23:20      | But do they support [[HomeKit]] at all, or is it yours?                                                      |
+| 23:23      | Yeah, yeah, they're fully [[HomeKit]] integrated, which is great.                                            |
 | 23:27      | And they have a rhythm module, which means that it can listen to music and then change                   |
 | 23:31      | colour in time with the music.                                                                            |
 | 23:34      | But what I really like is inside the app, there is something where you can actually                      |
@@ -1408,7 +1408,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:13:49   | Same with the tumble dryer and things like that and, you know, the dehumidifier and so                   |
 | 01:13:53   | on.                                                                                                      |
 | 01:13:54   | I'm not logging, you know, when I turn on each individual light bulb, but it's amazing                   |
-| 01:13:58   | what you can automate and log automatically thanks to HomeKit.                                           |
+| 01:13:58   | what you can automate and log automatically thanks to [[HomeKit]].                                           |
 | 01:14:03   | So when I turn the TV on, I automatically, you know, log that.                                           |
 | 01:14:07   | And then I send a push cut notification to my phone to say, Hey, you know, do you want                   |
 | 01:14:12   | to start logging entertainment time because I'm trying to log the time that I spend relaxing             |

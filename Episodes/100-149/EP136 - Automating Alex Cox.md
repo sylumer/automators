@@ -154,11 +154,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 08:41      | I'm trying to set up for my brother who has just gotten a dog, actually. I believe a product that       |
 | 08:48      | exists. Well, motion sensors exist, but the dog knows. There's basically a little accident area,        |
 | 08:57      | we call it. The dog at least knows that if there's going to be an accident, he goes over there.         |
-| 09:04      | There's a little motion sensor that works with HomeKit. Then he's like, my brother's like,              |
+| 09:04      | There's a little motion sensor that works with [[HomeKit]]. Then he's like, my brother's like,              |
 | 09:13      | oh, all right, I guess I got to go home and deal with that, but it prepares.                            |
 | 09:18      | You could go a level deeper. You could get in a car leak sensor. They're about 15 bucks,                |
 | 09:22      | but you'd have to also get in a car hub, by the way. If he got that, when it gets wet,                  |
-| 09:29      | it would, he would get a, but the funny thing is the way it integrates with HomeKit is it goes off      |
+| 09:29      | it would, he would get a, but the funny thing is the way it integrates with [[HomeKit]] is it goes off      |
 | 09:34      | like there is actually a leak, like an alarm goes off. Everybody in the house hears it.                 |
 | 09:39      | It comes through as a critical alert. It sings out on the HomePods. I'm using the word sing             |
 | 09:43      | very generously here. It is loud. That is the only problem with that because also,                      |
@@ -170,11 +170,11 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 10:17      | along those lines. And at some point, when we get to the next feedback show, I want to go into          |
 | 10:21      | this deeper rows, but Aqara has done something cool because there's all these features with the         |
 | 10:26      | Aqara hardware and Rose and I always have this asterisk. Well, Aqara cameras do this or Aqara           |
-| 10:30      | sensors do that, but they don't talk to HomeKit. Well, now they've got a way to share workflows         |
-| 10:35      | from the Aqara app to HomeKit. Have you seen those rows? It's a nice feature they've added              |
+| 10:30      | sensors do that, but they don't talk to [[HomeKit]]. Well, now they've got a way to share workflows         |
+| 10:35      | from the Aqara app to [[HomeKit]]. Have you seen those rows? It's a nice feature they've added              |
 | 10:40      | recently with a software update. I don't want to get into it today because I need to do a little        |
 | 10:45      | more prep on it. But if you've got Aqara sensors and you want to get some of those additional           |
-| 10:50      | features into HomeKit, it's actually easier now than it used to be. So yeah, I've seen that and         |
+| 10:50      | features into [[HomeKit]], it's actually easier now than it used to be. So yeah, I've seen that and         |
 | 10:55      | I've also seen the SwitchBot appears to be doing something very similar as well with their              |
 | 10:58      | Matter-based hub. So that's definitely something that we should look into because yeah, I've had       |
 | 11:03      | some questions come in about that recently. Oh, that's so cool. I look forward to that show.            |

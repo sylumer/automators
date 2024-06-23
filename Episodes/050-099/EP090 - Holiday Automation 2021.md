@@ -240,15 +240,15 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 09:36      | People are much more open to talking about these things and being excited by possibilities           |
 | 09:41      | and going from there to actually creating things for others can also be great fun.                   |
 | 09:47      | After that one, I have a very simple one, but this is one that I absolutely rely on.                 |
-| 09:53      | I got on Amazon for, I think, all of about $15 or $20 a few years ago, a HomeKit enabled             |
+| 09:53      | I got on Amazon for, I think, all of about $15 or $20 a few years ago, a [[HomeKit]] enabled             |
 | 10:00      | plug.                                                                                                |
 | 10:02      | And so they've got a little QR code on it.                                                           |
-| 10:05      | You hold it up to your phone and it pairs with HomeKit nicely.                                       |
+| 10:05      | You hold it up to your phone and it pairs with [[HomeKit]] nicely.                                       |
 | 10:08      | You don't have to go to any third-party apps.                                                        |
 | 10:11      | And I have it in the garage connected to the string that goes outside that puts the outdoor          |
 | 10:17      | lights on it.                                                                                        |
 | 10:18      | And I know there's a lot of ways to do this.                                                         |
-| 10:21      | So this is controlling my outdoor lights and it's a very simple HomeKit formula.                     |
+| 10:21      | So this is controlling my outdoor lights and it's a very simple [[HomeKit]] formula.                     |
 | 10:26      | It just says when it's dark, turn them on and then turn them off at 10 p.m.                          |
 | 10:31      | And now I know people listening, I'm like, well, there's a lot of other ways.                        |
 | 10:36      | We could do the home alone way where you just put it on a timer and they make those where            |
@@ -267,9 +267,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 11:27      | The lights would turn off every time I pulled in the driveway.                                       |
 | 11:30      | And then when I turned my car off, then the sensor would say, oh, it's dark again.                   |
 | 11:34      | Let's run them for another six hours.                                                                |
-| 11:37      | So the HomeKit automation is just such a superior technology for outdoor lighting.                   |
+| 11:37      | So the [[HomeKit]] automation is just such a superior technology for outdoor lighting.                   |
 | 11:45      | Yes, yeah, it definitely is.                                                                         |
-| 11:48      | And honestly, even if you're thinking, oh, I don't know about HomeKit, you can just                  |
+| 11:48      | And honestly, even if you're thinking, oh, I don't know about [[HomeKit]], you can just                  |
 | 11:52      | get a smart plug where you can control it.                                                           |
 | 11:55      | Now, one of the things I'll say if you've not already tried home automation stuff out                |
 | 12:01      | with this is you'll probably end up with a Wi-Fi plug.                                               |
@@ -288,7 +288,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 12:53      | it turns the tree on.                                                                                |
 | 12:54      | Woo!                                                                                                 |
 | 12:55      | And then they press the button and it turns the tree off.                                            |
-| 12:56      | And then you can put schedules and so on in the app, or you can add it to HomeKit for                |
+| 12:56      | And then you can put schedules and so on in the app, or you can add it to [[HomeKit]] for                |
 | 13:02      | that sort of thing, which is quite nice.                                                             |
 | 13:04      | Yeah, I mean, it's nuts that this stuff is as simple as plug and play at this point.                 |
 | 13:11      | And the way I handle the outdoor versus the indoor plug, they do make outdoor plugs.                 |
@@ -343,13 +343,13 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 16:25      | Now, did you get the Meross one?                                                                      |
 | 16:27      | Which one did you get?                                                                               |
 | 16:28      | I did get the Meross one, yes.                                                                        |
-| 16:31      | It was on sale as these things frequently are at this time of year and it's HomeKit compatible.      |
-| 16:39      | So I don't need to futz around with Homebridge or [[Home Assistant]] to try and get it into HomeKit.     |
+| 16:31      | It was on sale as these things frequently are at this time of year and it's [[HomeKit]] compatible.      |
+| 16:39      | So I don't need to futz around with Homebridge or [[Home Assistant]] to try and get it into [[HomeKit]].     |
 | 16:43      | So that said, holiday lights are pretty set to them forget it.                                       |
-| 16:47      | So if I had ended up with something like one of the TP-Link ones, which isn't HomeKit                |
+| 16:47      | So if I had ended up with something like one of the TP-Link ones, which isn't [[HomeKit]]                |
 | 16:52      | compatible, then I could have just set up a schedule.                                                |
 | 16:55      | And I'm sure in their app it would have been fine.                                                   |
-| 16:57      | But I went for HomeKit just because I like having everything in one app to control that              |
+| 16:57      | But I went for [[HomeKit]] just because I like having everything in one app to control that              |
 | 17:03      | I want to control.                                                                                   |
 | 17:04      | Yeah.                                                                                                |
 | 17:05      | And this is new since the last time we covered this, these smart power strips, for lack of           |
@@ -360,7 +360,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 17:24      | on your recommendation.                                                                              |
 | 17:26      | And these Meross four outlet power strip is not on sale, but it's $41.                                |
 | 17:33      | So it's about $10 per plug.                                                                          |
-| 17:36      | And as I understand it, each one of these is individually addressable via HomeKit.                   |
+| 17:36      | And as I understand it, each one of these is individually addressable via [[HomeKit]].                   |
 | 17:40      | Like if you had a Christmas tree and maybe a Christmas village and a few other decorations           |
 | 17:46      | and you had them all in the same place, you could just run one of these and run everything.          |
 | 17:50      | Man, this is tempting, Rose.                                                                         |
@@ -585,17 +585,17 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 32:13      | of your tree or a spiral effect going up like a candy cane or something like that.                   |
 | 32:20      | This is really cool.                                                                                 |
 | 32:21      | There's a whole bunch of effects in the app.                                                         |
-| 32:24      | Next year, to get them into HomeKit, I had to use Homebridge, which is a service I've                |
+| 32:24      | Next year, to get them into [[HomeKit]], I had to use Homebridge, which is a service I've                |
 | 32:28      | got running.                                                                                         |
-| 32:29      | It basically goes, oh, right, these services aren't available in HomeKit, but there was              |
-| 32:34      | somebody who really wanted their Dyson fan or their Twinkly Lights in HomeKit, so they               |
+| 32:29      | It basically goes, oh, right, these services aren't available in [[HomeKit]], but there was              |
+| 32:34      | somebody who really wanted their Dyson fan or their Twinkly Lights in [[HomeKit]], so they               |
 | 32:39      | wrote a plug-in to interact with the API, so you end up installing this little thing,                |
 | 32:44      | and it works.                                                                                        |
 | 32:45      | That's what I did last year, and that was fine.                                                      |
-| 32:48      | This year, Twinkly has shipped a firmware update to the lights and they're HomeKit compatible        |
+| 32:48      | This year, Twinkly has shipped a firmware update to the lights and they're [[HomeKit]] compatible        |
 | 32:52      | now.                                                                                                 |
-| 32:53      | My Twinkly Lights are now natively HomeKit compatible, which is fabulous, and I'm really             |
-| 32:59      | excited by this because it means that I will be able to hopefully use HomeKit to set different       |
+| 32:53      | My Twinkly Lights are now natively [[HomeKit]] compatible, which is fabulous, and I'm really             |
+| 32:59      | excited by this because it means that I will be able to hopefully use [[HomeKit]] to set different       |
 | 33:04      | scenes on my Christmas tree with rainbows and all of those things.                                   |
 | 33:09      | Yeah, and it's really something else.                                                                |
 | 33:13      | You have to go to the website to really appreciate to see the examples, but if you want your         |
@@ -1332,11 +1332,11 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:16:04   | It's a very easy way, like low barrier of entry.                                                     |
 | 01:16:08   | Yes.                                                                                                 |
 | 01:16:09   | The only thing I'll say is when they first released the E1 hub, it was only available                |
-| 01:16:15   | on the Chinese Aqara server or in HomeKit only mode, I believe.                                      |
-| 01:16:21   | And now it should be available in HomeKit mode everywhere because they are advertising               |
-| 01:16:24   | it with HomeKit mode.                                                                                |
-| 01:16:25   | So just double check the Aqara website first to make sure that it is in HomeKit mode.                |
-| 01:16:30   | But I'm 99% certain it is available for HomeKit on the UK, EU and US servers.                        |
+| 01:16:15   | on the Chinese Aqara server or in [[HomeKit]] only mode, I believe.                                      |
+| 01:16:21   | And now it should be available in [[HomeKit]] mode everywhere because they are advertising               |
+| 01:16:24   | it with [[HomeKit]] mode.                                                                                |
+| 01:16:25   | So just double check the Aqara website first to make sure that it is in [[HomeKit]] mode.                |
+| 01:16:30   | But I'm 99% certain it is available for [[HomeKit]] on the UK, EU and US servers.                        |
 | 01:16:39   | So yeah, but it's pretty great.                                                                      |
 | 01:16:41   | And the Aqara stuff is very affordable as well, which makes it a really good gift because            |
 | 01:16:46   | then if they decide that they want some more temperature sensors, it's going to be easy              |

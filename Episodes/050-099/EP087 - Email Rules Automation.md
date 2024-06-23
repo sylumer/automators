@@ -770,7 +770,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:03:30   | balance of light, privacy and insulation any time of day.                                                  |
 | 01:03:35   | That's right. Hunter Douglas gets it. They make shades, but they also adapt and embrace                    |
 | 01:03:40   | technology. Hunter Douglas shades are compatible with all your favourite home automation systems,           |
-| 01:03:45   | whether it's Amazon Alexa, Apple HomeKit, which is what I use, Google Assistant, [[IFTTT]]                     |
+| 01:03:45   | whether it's Amazon Alexa, [[HomeKit\|Apple HomeKit]], which is what I use, Google Assistant, [[IFTTT]]                     |
 | 01:03:52   | and more. I know that listeners of this show would really love to be able to automate this                 |
 | 01:03:56   | stuff themselves too, helping them integrate their shades with their other products in                     |
 | 01:04:00   | their home. And you can get that control with Hunter Douglas.                                              |

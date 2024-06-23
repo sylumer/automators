@@ -65,7 +65,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 00:53      | about automation on the various Apple platforms. It didn't feature as heavily in the keynote                                                              |
 | 00:59      | but once you start digging in the weeds you find out, hey, there's a lot of stuff going                                                                   |
 | 01:03      | on. So we thought today we would share with you a bunch of information about new shortcuts                                                                |
-| 01:10      | and also some of the stuff on the Mac and HomeKit as well. I guess just to begin that                                                                     |
+| 01:10      | and also some of the stuff on the Mac and [[HomeKit]] as well. I guess just to begin that                                                                     |
 | 01:15      | keynote was super dense.                                                                                                                                  |
 | 01:17      | Oh yeah, information everywhere. But shortcuts is not the brand new thing now so it didn't                                                                |
 | 01:25      | get as much feature there but they did have a session on [[Shortcuts]].                                                                                   |
@@ -810,7 +810,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 50:42      | I mean, are we truly going to have one unified standard or is it just that Apple's making                                                                 |
 | 50:47      | [[HomeKit]] more open so anybody can address it?                                                                                                          |
 | 50:50      | I just don't really, I feel like there's details missing on this, but either way, it sounds                                                               |
-| 50:55      | like it is going to be more accessible and we're going to have more HomeKit devices.                                                                      |
+| 50:55      | like it is going to be more accessible and we're going to have more [[HomeKit]] devices.                                                                      |
 | 50:58      | Yes.                                                                                                                                                      |
 | 50:59      | Which is always a good thing.                                                                                                                             |
 | 51:00      | Having more devices supported, it might even bring down the price.                                                                                        |

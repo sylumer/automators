@@ -419,9 +419,9 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 22:44      | Our thanks to LinkedIn Jobs for their support of this show and all of Relay FM.                        |
 | 22:49      | Michael, what automation platforms do you use most often?                                               |
 | 22:53      | I was looking through my list and I realised, wow, I do use quite a few more than I realised.           |
-| 23:00      | There's [[Keyboard Maestro]], TextExpander, which of course I mentioned, HomeKit, which                    |
+| 23:00      | There's [[Keyboard Maestro]], TextExpander, which of course I mentioned, [[HomeKit]], which                    |
 | 23:05      | is in some ways just shortcuts, but in other ways is its own set of automations within                  |
-| 23:11      | HomeKit.                                                                                                |
+| 23:11      | [[HomeKit]].                                                                                                |
 | 23:12      | We've got [[Bunch]], we're just talking about [[Brett Terpstra]], [[Zapier]], [[IFTTT]], which Zapier                   |
 | 23:21      | and IFTTT are both in the same group.                                                                   |
 | 23:25      | By the way, folks I know will sometimes pronounce this Zapier, but Zapier was a sponsor on the          |
@@ -893,7 +893,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 59:11      | the whole New Relic platform and 100 gigabytes of data for free, forever, no credit card required.      |
 | 59:16      | Sign up at NewRelic.com/Automators. That's N-E-W-R-E-L-I-C.com/Automators.                  |
 | 59:24      | That URL one more time, NewRelic.com/Automators. Our thanks to New Relic for their                |
-| 59:29      | support of this show and all of Relay FM. So we talked around HomeKit a little bit earlier,             |
+| 59:29      | support of this show and all of Relay FM. So we talked around [[HomeKit]] a little bit earlier,             |
 | 59:35      | Micah, and I know a lot of our listeners are really into home automation. How far down that             |
 | 59:40      | rabbit hole have you gone? This is one of the other downsides, I guess, of moving to California         |
 | 59:47      | is things are a lot more expensive here when it comes to housing. I lived in Springfield,               |
@@ -903,10 +903,10 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:00:19   | was A-OK with me making changes to the home so long as when I left, I either paid for them to           |
 | 01:00:27   | return it to how it was before, or I made it back to where it was whenever I first moved in,            |
 | 01:00:33   | which is always what I do, the second one. And so I was able to customise a lot of the setup            |
-| 01:00:43   | there. I changed out the garage door opener for one that was HomeKit enabled. The front door lock       |
-| 01:00:52   | was HomeKit enabled, door lock, door bell was, well, I guess that never got HomeKit support             |
+| 01:00:43   | there. I changed out the garage door opener for one that was [[HomeKit]] enabled. The front door lock       |
+| 01:00:52   | was [[HomeKit]] enabled, door lock, door bell was, well, I guess that never got [[HomeKit]] support             |
 | 01:00:59   | because August promised that but never delivered. And the lighting and all that kind of stuff           |
-| 01:01:05   | throughout the home was HomeKit enabled. And so at that time, I had quite a few different               |
+| 01:01:05   | throughout the home was [[HomeKit]] enabled. And so at that time, I had quite a few different               |
 | 01:01:10   | true automations, I guess, set up. One of my favourite ones and the one that never got                   |
 | 01:01:16   | deleted or deactivated because it was used and worked perfectly every time was that at sunset,          |
 | 01:01:25   | the light out in my front yard, which was like a post light, would turn on as well as the porch         |
@@ -917,7 +917,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:01:58   | someone opened up the garage door after sun went down, then the light in the garage would turn          |
 | 01:02:06   | on automatically and stay on for 15 minutes or so because there was a window in the garage,             |
 | 01:02:12   | but obviously at night, then there wasn't enough light. And then one of my favourite automations,        |
-| 01:02:17   | it was not with HomeKit directly, I used, and this was a tip that I often gave on                       |
+| 01:02:17   | it was not with [[HomeKit]] directly, I used, and this was a tip that I often gave on                       |
 | 01:02:22   | Smart Tech Today when folks would ask about it. As much as it would be nice to be able to control,      |
 | 01:02:31   | run, and change your automations all in one place, like with the Home app,                              |
 | 01:02:36   | there are times when you will find that it is better to use the app of the company that makes           |
@@ -943,7 +943,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:04:46   | colours depending on the time of day. And I keep saying, eventually, I'll get around to                  |
 | 01:04:54   | changing the switch for the front porch so that it will turn on whenever the sun sets and turn          |
 | 01:05:00   | off when the sun rises. I just haven't got around to it yet. So yeah, there's so much                   |
-| 01:05:07   | that HomeKit can do. It's just sort of breaking everything down and then trying to set it all           |
+| 01:05:07   | that [[HomeKit]] can do. It's just sort of breaking everything down and then trying to set it all           |
 | 01:05:15   | back up again was something that I needed. If I was going to get it all done, I needed to do it         |
 | 01:05:21   | right when I first moved in, but I was so busy with my new job and everything, there just wasn't        |
 | 01:05:25   | time. So it's just been sitting. And I think that is something people need to be a little careful       |
@@ -974,7 +974,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:07:40   | instantly because there's the arm that has to come out and press the button versus something            |
 | 01:07:45   | like a Lutron Casetas, which obviously is going to be pretty much instant. But I mean,                 |
 | 01:07:50   | it's a great tool. I just wish that I knew of some better options than that. It is pretty good.         |
-| 01:07:56   | And if you use Homebridge, you can get it into HomeKit as well. They write their own Homebridge         |
+| 01:07:56   | And if you use Homebridge, you can get it into [[HomeKit]] as well. They write their own Homebridge         |
 | 01:08:00   | plugin, but it is unfortunately Bluetooth. I have a question for you too as automators.                 |
 | 01:08:07   | How do you navigate the sort of onboarding or explanation for friends, family, partners,                |
 | 01:08:17   | whomever else might be in your home? Because I would imagine that you, and maybe you are                |
@@ -1142,7 +1142,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:23:59   | problem with using a service like if this and that to control your lights is whenever it sees the       |
 | 01:24:05   | trigger, that farms out to if this and that, which processes it as soon as it can, obviously,           |
 | 01:24:12   | but that's not necessarily going to be instant. And then it has to come back. You've got so many        |
-| 01:24:17   | potential points of failure added over something like HomeKit where the processing is done locally      |
+| 01:24:17   | potential points of failure added over something like [[HomeKit]] where the processing is done locally      |
 | 01:24:22   | in your home on a HomePod or an Apple TV. And that's why local based automations when you want          |
 | 01:24:30   | the start and the ends to be local are usually the best. That's just the way that these things          |
 | 01:24:37   | end up working. So, Micah, if there's one area of automation you'd like to get better at, what is it?   |

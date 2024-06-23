@@ -229,7 +229,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 06:29      | and then there was this great place to store                        |
 | 06:31      | all these extra things and there was a cinema in there,             |
 | 06:33      | I'd love it.                                                        |
-| 06:34      | But as it is, it's a bug basically in HomeKit                       |
+| 06:34      | But as it is, it's a bug basically in [[HomeKit]]                       |
 | 06:37      | where sometimes things kind of lose                                 |
 | 06:40      | which room they were in somehow.                                    |
 | 06:42      | I'm not quite sure how or why.                                      |
@@ -243,10 +243,10 @@ In this episode, Rose and David explain some of their favourite small automation
 | 07:01      | that are in the same home room as it is in,                         |
 | 07:05      | which is, you know, a great feature                                 |
 | 07:08      | unless your lights moved.                                           |
-| 07:09      | So I use this app called controller for HomeKit                     |
+| 07:09      | So I use this app called [[Controller for HomeKit]]                     |
 | 07:11      | which is available in iOS.                                          |
 | 07:12      | There's a Mac OS version as well                                    |
-| 07:14      | and you can back up HomeKit in it.                                  |
+| 07:14      | and you can back up [[HomeKit]] in it.                                  |
 | 07:17      | And it backs up everything, you know, like your scenes              |
 | 07:19      | and your location of devices and names and so on and so forth.      |
 | 07:23      | And so you can back everything up                                   |
@@ -254,11 +254,11 @@ In this episode, Rose and David explain some of their favourite small automation
 | 07:27      | And then if default room strikes,                                   |
 | 07:29      | I can just roll back to the last backup                             |
 | 07:31      | because to be honest, I don't tend to go in                         |
-| 07:33      | and change things in my HomeKit setup                               |
+| 07:33      | and change things in my [[HomeKit]] setup                               |
 | 07:36      | on a very regular basis.                                            |
 | 07:38      | So this works for me, but also if I go in                           |
 | 07:39      | and I make a bunch of changes                                       |
-| 07:41      | then I can just run into control of HomeKit                         |
+| 07:41      | then I can just run into control of [[HomeKit]]                         |
 | 07:43      | and hit back up and then I'm good to go.                            |
 | 07:45      | You know, I've got everything, you know, back how I wanted it.      |
 | 07:49      | And there is another sneaky feature of this that you can do         |
@@ -372,19 +372,19 @@ In this episode, Rose and David explain some of their favourite small automation
 | 12:41      | Yeah, I really think that the UI is a lot better.                   |
 | 12:45      | Like a much needed UI overhaul, but in terms of like                |
 | 12:48      | under the hood power tools, the apps like controller                |
-| 12:52      | for HomeKit are going to be just fine.                              |
+| 12:52      | for [[HomeKit]] are going to be just fine.                              |
 | 12:54      | Oh yeah.                                                            |
-| 12:56      | And there's such an ecosystem around HomeKit now.                   |
+| 12:56      | And there's such an ecosystem around [[HomeKit]] now.                   |
 | 12:58      | We've done this in the past, but I think we probably need           |
 | 13:00      | to come back to it.                                                 |
 | 13:01      | Maybe after all the stuff ships and just take a look at,            |
-| 13:04      | you know, what are the recommended third party HomeKit apps         |
+| 13:04      | you know, what are the recommended third party [[HomeKit]] apps         |
 | 13:07      | now because anybody that wants to kind of like really               |
 | 13:10      | dig in on this stuff is going to need a few of them.                |
-| 13:12      | And HomeKit for controller for HomeKit, I think is an excellent     |
+| 13:12      | And [[HomeKit]] for [[Controller for HomeKit]], I think is an excellent     |
 | 13:16      | one for that.                                                       |
 | 13:17      | One other thing before we move on and I know this is kind           |
-| 13:20      | of off topic a little bit, but I put a HomeKit enabled door         |
+| 13:20      | of off topic a little bit, but I put a [[HomeKit]] enabled door         |
 | 13:24      | lock in my front door a couple of years ago and I just have         |
 | 13:28      | zero regrets and it is so good to have that thing a couple          |
 | 13:32      | of times, you know, it saved my bacon when a family member          |

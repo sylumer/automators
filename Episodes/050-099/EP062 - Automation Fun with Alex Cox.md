@@ -740,7 +740,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:11:53   | to get three extra months of ExpressVPN protection for free. That's expressvpn.com/automators      |
 | 01:12:02   | to learn more. Our thanks to ExpressVPN for the support of the automators and all of relayfm.           |
 | 01:12:10   | Before the break, Rose, you had said that you were using your Raspberry Pi for a whole lot              |
-| 01:12:14   | of stuff, including HomeKit. Alex, have you ever gone down that rabbit hole?                            |
+| 01:12:14   | of stuff, including [[HomeKit]]. Alex, have you ever gone down that rabbit hole?                            |
 | 01:12:20   | I have just started to. Well, I should say I've been living down the rabbit hole,                       |
 | 01:12:25   | but now I'm kind of crawling out with things that are actually useful and work.                         |
 | 01:12:30   | Yes, because I mean, my two favourite robots in my home or rather the things I've made into robots       |
@@ -749,8 +749,8 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:13:00   | have come out of that, which it really sucks. Wildfires, source of automation.                          |
 | 01:13:11   | I think using, I actually couldn't even say what I was using, probably Scriptable just to               |
 | 01:13:18   | sort of archive and chart the air quality, but I was like, okay, there aren't many appliances           |
-| 01:13:27   | in my home that are actually HomeKit compatible or let alone any sort of smart device, but by           |
-| 01:13:36   | using something like Wemo, which I think is HomeKit compatible, just saying like, okay,                |
+| 01:13:27   | in my home that are actually [[HomeKit]] compatible or let alone any sort of smart device, but by           |
+| 01:13:36   | using something like Wemo, which I think is [[HomeKit]] compatible, just saying like, okay,                |
 | 01:13:43   | Siri ball, turn, okay, Siri ball, make the air better, so then the humidifier and the air filter come on  |
 | 01:13:56   | and it's just beautiful, but then I'm like, all right, what if I can do all of that so that the         |
 | 01:14:02   | air is actually humid, it is cleaning out the cat allergens, but then my lovely Roomba                  |

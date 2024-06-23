@@ -642,8 +642,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 38:00      | When you get to the front door, it's unlocked, and it's great.                                         |
 | 38:02      | Yeah.                                                                                                  |
 | 38:03      | So I've got patio doors to my place, which I usually use as my entrance.                               |
-| 38:08      | And so from [[Home Assistant]], I made them into a fake cover, a fake garage door in HomeKit.              |
-| 38:17      | So I share a fake garage door to HomeKit, which means that on my car dash, you know,                   |
+| 38:08      | And so from [[Home Assistant]], I made them into a fake cover, a fake garage door in [[HomeKit]].              |
+| 38:17      | So I share a fake garage door to [[HomeKit]], which means that on my car dash, you know,                   |
 | 38:23      | so I reverse into my parking space, and I always reverse into my parking space, well,                  |
 | 38:28      | I say always.                                                                                          |
 | 38:29      | Nearly always reverse into my parking space, so the reversing camera is enabled, and I                 |
@@ -1119,8 +1119,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:09:19   | [[Home Assistant]], and before he was a [[Home Assistant]] user, he was a Hoops user.                          |
 | 01:09:25   | We've talked about that on the show as well.                                                           |
 | 01:09:28   | Hoops uses integrations and turns them into a bridge in the system with a QR code to scan              |
-| 01:09:35   | it to HomeKit.                                                                                         |
-| 01:09:36   | I was able to bring the ring video doorbell into HomeKit with great ease.                              |
+| 01:09:35   | it to [[HomeKit]].                                                                                         |
+| 01:09:36   | I was able to bring the ring video doorbell into [[HomeKit]] with great ease.                              |
 | 01:09:41   | Rose, are you getting experience with Hoops?                                                           |
 | 01:09:43   | Yeah, a little bit of experience with Hoops.                                                           |
 | 01:09:46   | It's one of those things where it's definitely nice and easy because you just kind of buy              |
@@ -1143,12 +1143,12 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:10:50   | Yeah, don't feel that you need to spend $250 to solve the gaps in your home automation                 |
 | 01:10:55   | system.                                                                                                |
 | 01:10:56   | The minimum would be worth saving some of that money so that you can maybe just buy upgraded           |
-| 01:11:02   | automation devices, which will then work with Matter and HomeKit in the near future.                   |
+| 01:11:02   | automation devices, which will then work with Matter and [[HomeKit]] in the near future.                   |
 | 01:11:07   | How long do you think we're going to have to wait for Matter to really land?                           |
 | 01:11:13   | I mean, I kind of feel like to an extent it's already here.                                            |
 | 01:11:15   | I got the new SwitchBot Hub the other day, which I've only just started playing with                   |
 | 01:11:20   | it, but that's a Matter Hub.                                                                           |
-| 01:11:22   | That will integrate the things like the curtains, the SwitchBot curtains that I have into HomeKit      |
+| 01:11:22   | That will integrate the things like the curtains, the SwitchBot curtains that I have into [[HomeKit]]      |
 | 01:11:27   | directly as well as [[Home Assistant]], which is great.                                                    |
 | 01:11:31   | I'm looking forward to giving that a better try.                                                       |
 | 01:11:33   | I've only just set it up, so I can't really talk about that yet.                                       |

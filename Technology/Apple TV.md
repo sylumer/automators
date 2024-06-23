@@ -16,7 +16,7 @@ The primary purpose of Apple TV is to provide an all-in-one entertainment hub, s
 
 # Notes
 - Apple TV runs on tvOS, a specialised operating system derived from iOS. It is designed to provide a user-friendly experience on larger screens. It supports background apps running automatic updates, and the usual interactive TV features you might expect from any smart TV or box.
-- Apple TV can act as a central hub for [[Apple Home]]. This allows users to control HomeKit-enabled devices such as lights, thermostats, and cameras directly from their TV or remotely through the Home app.
+- Apple TV can act as a central hub for [[Apple Home]]. This allows users to control [[HomeKit]]-enabled devices such as lights, thermostats, and cameras directly from their TV or remotely through the Home app.
 
 # Episodes
 ```dataviewjs

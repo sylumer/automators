@@ -322,7 +322,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 16:26      | Yeah.                                                                                              |
 | 16:27      | Yeah.                                                                                              |
 | 16:28      | I see, I find that with [[Home Assistant]], that can work.                                             |
-| 16:31      | With HomeKit, I think it's pretty wonky.                                                           |
+| 16:31      | With [[HomeKit]], I think it's pretty wonky.                                                           |
 | 16:34      | Oh yeah, the number of times I've woken up at like, you know, early in the morning to              |
 | 16:38      | go to the bathroom or something, I've glanced at my phone and it's been like, this camera          |
 | 16:42      | changed from stream to stream and allow recording because everybody left home.                     |
@@ -330,7 +330,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 16:49      | arrived home and it's like, I've been lying in bed all night.                                      |
 | 16:53      | Yeah.                                                                                              |
 | 16:54      | Like my phone has not moved from its charging dock.                                                |
-| 16:57      | What's going on here, HomeKit?                                                                     |
+| 16:57      | What's going on here, [[HomeKit]]?                                                                     |
 | 16:58      | Something is up there.                                                                             |
 | 16:59      | So yeah, I use [[Home Assistant]] for that.                                                            |
 | 17:02      | And that's one of the reasons why I have the buffer on it, because I have to go from my            |
@@ -344,7 +344,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 17:26      | is my car home, a human presence sensor.                                                           |
 | 17:30      | Oh, nice.                                                                                          |
 | 17:31      | I have one that's attached to [[Home Assistant]] elsewhere in the house and I have one in the          |
-| 17:36      | studio that is the HomeKit version, it's bulkier and slower, but it works with HomeKit.            |
+| 17:36      | studio that is the [[HomeKit]] version, it's bulkier and slower, but it works with [[HomeKit]].            |
 | 17:44      | And it just never worked very well.                                                                |
 | 17:46      | And then just like about a month ago, it started working really well.                              |
 | 17:50      | And I walk in the room, the lights turn on, I walk out of the room, the lights turn off.           |
@@ -358,9 +358,9 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 18:20      | And human presence sensors are supposed to solve that problem.                                     |
 | 18:23      | That was one of the big things of 2023 is the arrival of these Aqara sensors.                      |
 | 18:28      | But I think it must have got itself a hardware, like a firmware update or something without        |
-| 18:34      | me realising it, or maybe when Apple HomeKit switched architecture, which it did about             |
+| 18:34      | me realising it, or maybe when [[HomeKit\|Apple HomeKit]] switched architecture, which it did about             |
 | 18:39      | two months ago, maybe that's when it got better.                                                   |
-| 18:42      | But either way, suddenly, my Aqara HomeKit enabled, human presence sensor just started             |
+| 18:42      | But either way, suddenly, my Aqara [[HomeKit]] enabled, human presence sensor just started             |
 | 18:48      | working and now when I walk in the room, lights turn on, walk out of the room, lights turn         |
 | 18:52      | off, very useful, except when I want to use the room as a studio where I need lighting             |
 | 18:57      | at a certain level and then I just turn that automation off and I have different automations.      |

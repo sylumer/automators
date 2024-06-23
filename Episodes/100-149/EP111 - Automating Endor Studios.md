@@ -635,7 +635,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 36:26      | necessarily be such a good shout, but I know that you've already got an IKEA hub and the                  |
 | 36:31      | IKEA buttons are pretty nice for things like that, and they have single press, double press               |
 | 36:36      | and press and hold options, which means that you can have them do different things.                       |
-| 36:41      | And don't forget, of course, with HomeKit, any automation, if you scroll to the bottom,                   |
+| 36:41      | And don't forget, of course, with [[HomeKit]], any automation, if you scroll to the bottom,                   |
 | 36:45      | you can do the convert to shortcut, meaning that the press button can be a toggle.                        |
 | 36:50      | So like, hey, if the lights are in this mode, turn them into that mode, and if they're in                 |
 | 36:54      | that mode, turn them into this mode or something.                                                         |
@@ -643,7 +643,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 37:01      | And I also was thinking I could script that to where like, if I have an appointment that                  |
 | 37:06      | says like video production, and that's in the name of the appointment, it would just                      |
 | 37:12      | turn them on, or if it's podcasting, it would do something else.                                          |
-| 37:17      | Once I've got it in hooks into HomeKit, then I can, you know, kind of disguise the limit                  |
+| 37:17      | Once I've got it in hooks into [[HomeKit]], then I can, you know, kind of disguise the limit                  |
 | 37:21      | for me.                                                                                                   |
 | 37:22      | Yes, yeah, this is something where I found [[Home Assistant]] to be exceptionally good because                |
 | 37:27      | it's got calendar support, including like triggers X minutes before.                                      |
@@ -1371,13 +1371,13 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:20:49   | But today you keep talking about it.                                                                      |
 | 01:20:51   | So I feel like I don't even really know what this [[Home Assistant]] thing is supposed to do.                 |
 | 01:20:56   | If you think of Home Automation as a system, okay, it's like an operating system, right?                  |
-| 01:21:05   | You can have HomeKit, which is the sort of macOS of operating systems.                                    |
+| 01:21:05   | You can have [[HomeKit]], which is the sort of macOS of operating systems.                                    |
 | 01:21:12   | But it's really more of an iOS of operating systems in that it certainly has amazing features             |
 | 01:21:18   | and it's definitely got some good bonuses of the fact that, you know, it requires your                    |
 | 01:21:25   | devices to have local control.                                                                            |
 | 01:21:26   | So if your internet is down, then you can still control your devices providing the same                   |
 | 01:21:32   | Wi-Fi network and so on and things like that.                                                             |
-| 01:21:35   | But it's also limited in the fact that it has to explicitly support HomeKit for your                      |
+| 01:21:35   | But it's also limited in the fact that it has to explicitly support [[HomeKit]] for your                      |
 | 01:21:42   | device to work.                                                                                           |
 | 01:21:43   | And I've always been okay with that because my wife and kids also use it.                                 |
 | 01:21:46   | And I feel like I don't want to make it so complex that it makes them crazy.                              |
@@ -1386,7 +1386,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:21:53   | Yeah.                                                                                                     |
 | 01:21:54   | But you can also see, like, you know, it's the same like as we have with the Home app                     |
 | 01:21:58   | where if you use the Home app to automate something, you've only got these options.                       |
-| 01:22:03   | But if you use, say, controller for HomeKit or Home Plus, then you get more options when                  |
+| 01:22:03   | But if you use, say, controller for [[HomeKit]] or Home Plus, then you get more options when                  |
 | 01:22:08   | you run an automation.                                                                                    |
 | 01:22:09   | Yeah.                                                                                                     |
 | 01:22:10   | You know, you can improve it, but Apple's still limiting you.                                             |
@@ -1401,36 +1401,36 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:23:01   | and Z-Wave integrations, Ring Doorbell, Lutron, and Leviton, for example, but it also integrates          |
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |
-| 01:23:23   | company to tell you how much energy you're using, and of course, it's got HomeKit support                 |
+| 01:23:23   | company to tell you how much energy you're using, and of course, it's got [[HomeKit]] support                 |
 | 01:23:28   | and they're working with Master on getting Master and Thread support in there as well.                    |
 | 01:23:34   | The [[Home Assistant]] yellow that you get, David, should indeed have Thread support, which is                |
 | 01:23:39   | a really nice option.                                                                                     |
 | 01:23:41   | But the idea of [[Home Assistant]] is I don't have to buy a device that's specifically labelled               |
-| 01:23:48   | for HomeKit, because as we all know, when we go and look at these things, right, if                       |
+| 01:23:48   | for [[HomeKit]], because as we all know, when we go and look at these things, right, if                       |
 | 01:23:52   | you go and look at a case for a phone, if you're looking for a case for, say, I don't                     |
 | 01:23:57   | know, a Samsung phone, it's probably, say, 20 bucks.                                                      |
 | 01:24:00   | And if you look at the same case for an iPhone, it's 25.                                                  |
 | 01:24:03   | You've got the Apple tax, right?                                                                          |
-| 01:24:05   | And some of this is warranted, some of it's not warranted, but if you look for a HomeKit                  |
+| 01:24:05   | And some of this is warranted, some of it's not warranted, but if you look for a [[HomeKit]]                  |
 | 01:24:08   | compatible device, you will always be looking at a more expensive option pretty much, like,               |
-| 01:24:14   | it's really going to be cheaper than the non-HomeKit one.                                                 |
+| 01:24:14   | it's really going to be cheaper than the non-[[HomeKit]] one.                                                 |
 | 01:24:16   | And especially when you look and you can see two devices on the shelf next to each other,                 |
-| 01:24:21   | one of them's got the HomeKit sticker and the other one doesn't.                                          |
+| 01:24:21   | one of them's got the [[HomeKit]] sticker and the other one doesn't.                                          |
 | 01:24:24   | You can tell that there's a price difference without even looking at the tax.                             |
 | 01:24:28   | But what this allows you to do, among other things, is connect whatever you want into                     |
 | 01:24:34   | your home automation system, and you could just use it as an advanced version of Homebridge               |
-| 01:24:40   | and say, hey, I just want to, like, share these devices that don't have HomeKit support                   |
-| 01:24:45   | back into HomeKit.                                                                                        |
+| 01:24:40   | and say, hey, I just want to, like, share these devices that don't have [[HomeKit]] support                   |
+| 01:24:45   | back into [[HomeKit]].                                                                                        |
 | 01:24:47   | But what you can also do is make your own devices.                                                        |
 | 01:24:52   | So I don't have a garage, right, like, I live in an apartment, it doesn't have a garage,                  |
 | 01:24:57   | I have a parking space, it's a very nice parking space.                                                   |
-| 01:25:00   | But I don't have a garage, but HomeKit and CarPlay have support for a garage door, which                  |
+| 01:25:00   | But I don't have a garage, but [[HomeKit]] and CarPlay have support for a garage door, which                  |
 | 01:25:05   | if you turn on Siri Suggestions in CarPlay will show up on that screen where you've                       |
 | 01:25:10   | got, like, half of it's a map, and then there's music and some other things on the left-hand              |
 | 01:25:15   | side.                                                                                                     |
 | 01:25:16   | It'll show up as a Siri Suggestion if you've got a garage door when you arrive home.                      |
 | 01:25:18   | Well, I made a garage door.                                                                               |
-| 01:25:21   | I just shared my door lock into HomeKit as a garage door, and now when I get home, I                      |
+| 01:25:21   | I just shared my door lock into [[HomeKit]] as a garage door, and now when I get home, I                      |
 | 01:25:29   | can tap the garage door button and it unlocks my door for me as I get out of the car.                     |
 | 01:25:34   | I added a slight delay to that before I did it, but that means that I now have the option                 |
 | 01:25:39   | to unlock my door as I'm getting out of the car, which especially if it's raining, can                    |
@@ -1441,7 +1441,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:25:57   | So I don't need to think about that.                                                                      |
 | 01:25:59   | Am I dumb heaters, which I put on smart plugs?                                                            |
 | 01:26:02   | Well, I connected a temperature sensor to it and said, okay, temperature sensor plus                      |
-| 01:26:06   | smart plug on heater equals HomeKit thermostat, because that's something that I was able to               |
+| 01:26:06   | smart plug on heater equals [[HomeKit]] thermostat, because that's something that I was able to               |
 | 01:26:12   | do through the generic thermostat integration.                                                            |
 | 01:26:16   | And so that's kind of the first part of it, of taking whatever it is that you've got,                     |
 | 01:26:21   | even if it's a smart device and making it smarter.                                                        |
@@ -1495,7 +1495,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:29:25   | We'll talk about it.                                                                                      |
 | 01:29:26   | Maybe we'll even do a show on it, depending on how far down the rabbit hole I go.                         |
 | 01:29:28   | But Rose, thank you so much for walking me through because I feel like I have not gone                    |
-| 01:29:34   | deep enough with HomeKit in some instances because it just didn't make sense in the past.                 |
+| 01:29:34   | deep enough with [[HomeKit]] in some instances because it just didn't make sense in the past.                 |
 | 01:29:39   | I'm definitely going to be sending some money to Aqara and maybe Hugh, and I'll be reporting              |
 | 01:29:44   | back and I really hope the next time you and I sit down and record, I'll be in indoor studios             |
 | 01:29:49   | with good lighting and sound and all those cool things.                                                   |

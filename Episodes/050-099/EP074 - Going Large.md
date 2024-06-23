@@ -1268,7 +1268,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:40:53   | not like super fancy, but I like the sound of the water. And so I set that up and put                     |
 | 01:40:58   | a button on my Stream Deck, and then I press the button, and then I heard water, and it's                 |
 | 01:41:03   | like, oh, this is changes everything. So everything, all my, you know, all my Lutron                      |
-| 01:41:11   | switches, all the, anything that's addressable on HomeKit, I can now put a button on my stream            |
+| 01:41:11   | switches, all the, anything that's addressable on [[HomeKit]], I can now put a button on my stream            |
 | 01:41:16   | deck. I also tested it on my front door lock. I can unlock my door with my Stream Deck.                   |
 | 01:41:23   | That is great. I love that. One, or a couple of pro tips that I'm going to give people                    |
 | 01:41:28   | if you get this app. It is $6.99 in the app store, so it's not free. And there's a companion              |

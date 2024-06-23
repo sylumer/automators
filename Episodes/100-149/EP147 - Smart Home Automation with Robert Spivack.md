@@ -72,15 +72,15 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 00:24      | Yeah.                                                                                                  |
 | 00:25      | I need time but we're going to do a show on automating with Vision Pro and so that's                   |
 | 00:29      | coming up.                                                                                             |
-| 00:30      | But in the meantime, we wanted to do a check in with HomeKit and one of my favourite people             |
-| 00:35      | to talk about HomeKit with is Robert Spivack.                                                           |
+| 00:30      | But in the meantime, we wanted to do a check in with [[HomeKit]] and one of my favourite people             |
+| 00:35      | to talk about [[HomeKit]] with is Robert Spivack.                                                           |
 | 00:38      | Welcome to the show Robert.                                                                            |
 | 00:39      | Thank you.                                                                                             |
 | 00:40      | It's a pleasure to be here.                                                                            |
 | 00:41      | Now Robert, you and I have known each other like 10 years now.                                         |
 | 00:44      | I think the first time I met you was during WWDC or Apple Macworld somewhere and you walked            |
 | 00:52      | up to me and we hit it off.                                                                            |
-| 00:53      | Robert is a consultant who sets up HomeKit and Home Automation sometimes for very fancy                |
+| 00:53      | Robert is a consultant who sets up [[HomeKit]] and Home Automation sometimes for very fancy                |
 | 01:02      | people and really knows this business inside out.                                                      |
 | 01:06      | I feel like having the pro in once in a while just to talk about the state of home automation,         |
 | 01:10      | what's working, what's not and how we as automators can take better use of it is a real good interview |
@@ -267,7 +267,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 13:20      | If you diversify a little bit, you can have some systems that are isolated yet work together.          |
 | 13:26      | And when one thing doesn't work, you don't lose everything.                                            |
 | 13:29      | And that was the classic reason why a lot of people still do not like having hubs or                   |
-| 13:34      | hub-based systems, even though HomeKit and everything else really requires a hub.                      |
+| 13:34      | hub-based systems, even though [[HomeKit]] and everything else really requires a hub.                      |
 | 13:40      | When the hub goes down, you lose a lot of control over everything.                                     |
 | 13:45      | Yeah, but that is also where things like, for example, if you're looking at, say, Philips              |
 | 13:50      | Hue lighting, you can get the Philips Hue remotes, which can sort of magnetise onto                    |
@@ -337,12 +337,12 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 18:32      | to start with and you want to get a smart plug, it's worth looking at the physical form                |
 | 18:38      | factor of the thing as well as what it can do, isn't it?                                               |
 | 18:44      | And certainly, as Apple fans, we're used to paying a little more for quality and in some               |
-| 18:49      | ways using HomeKit as a home automation system is self-selecting until recently and it still           |
+| 18:49      | ways using [[HomeKit]] as a home automation system is self-selecting until recently and it still           |
 | 18:57      | is.                                                                                                    |
-| 18:58      | It's been difficult for a company to achieve HomeKit certification.                                    |
+| 18:58      | It's been difficult for a company to achieve [[HomeKit]] certification.                                    |
 | 19:02      | Not only do they have to build the product, but they have to pay for a test lab to test                |
 | 19:06      | it and put it through a lot of at least basic testing and compatibility.                               |
-| 19:11      | So that ensures that anything with HomeKit and hopefully Matter Standard certification                 |
+| 19:11      | So that ensures that anything with [[HomeKit]] and hopefully Matter Standard certification                 |
 | 19:17      | now is a level of quality above the basics.                                                            |
 | 19:21      | You can't just buy some chips, put them in a box and send it out the door and hope it                  |
 | 19:25      | works.                                                                                                 |
@@ -471,7 +471,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 27:43      | We're here in 2024.                                                                                    |
 | 27:44      | A lot of people are hearing this word matter.                                                          |
 | 27:46      | They're not really sure what it means.                                                                 |
-| 27:48      | We've got HomeKit, [[Home Assistant]], Google Home, all these different platforms.                         |
+| 27:48      | We've got [[HomeKit]], [[Home Assistant]], Google Home, all these different platforms.                         |
 | 27:53      | Can you kind of draw a picture for us of what's going on?                                              |
 | 27:58      | Once you get beyond one or two smart plugs or smart devices, you need a system to pull                 |
 | 28:03      | it all together.                                                                                       |
@@ -481,14 +481,14 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 28:19      | So if you're traveling, if you want to turn the heating or air conditioning on when you're             |
 | 28:23      | away, if you want to shut the lights down, you want to check security, you want to be                  |
 | 28:28      | able to do that when you're not home.                                                                  |
-| 28:30      | So that immediately in HomeKit that the HomeKit hub or controller provides that and the HomeKit        |
+| 28:30      | So that immediately in [[HomeKit]] that the [[HomeKit]] hub or controller provides that and the [[HomeKit]]        |
 | 28:36      | hub is an Apple TV or a HomePod in systems like Google or Amazon, their apps do that                   |
 | 28:44      | through their cloud, their apps do that through their cloud infrastructure and in more advanced        |
 | 28:50      | hobbyist and prosumer devices like [[Home Assistant]] or Hubitat, the hub itself either provides           |
 | 28:58      | it or has an add-on capability for remote access.                                                      |
 | 29:02      | So the first thing you want to do in looking at a bigger system is really choosing, if                 |
 | 29:07      | you want to be organised and not go crazy, choosing one main system to be the heart,                   |
-| 29:13      | whether it's Apple HomeKit or Google or Amazon or [[Home Assistant]].                                      |
+| 29:13      | whether it's [[HomeKit\\Apple HomeKit]] or Google or Amazon or [[Home Assistant]].                                      |
 | 29:17      | My main system, that is a system you first connect everything to when you get a new product.           |
 | 29:24      | You may also connect it to others, but that's going to be your primary.                                |
 | 29:28      | That's where you want it to work reliably.                                                             |
@@ -502,7 +502,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 30:07      | systems when you have unmet needs or capabilities that you want done by them.                          |
 | 30:14      | I'll give an example.                                                                                  |
 | 30:17      | In my home, I use Amazon devices for voice control.                                                    |
-| 30:21      | Historically, I started with them first before Apple and Siri had HomeKit and did much,                |
+| 30:21      | Historically, I started with them first before Apple and Siri had [[HomeKit]] and did much,                |
 | 30:28      | but even today, I don't rely on Siri and HomePods and voice.                                           |
 | 30:33      | I do rely on Apple as the controller, but I rely on Amazon for the voice.                              |
 | 30:41      | So I've made my complexity a little simpler because I only have to worry about voice access            |
@@ -510,7 +510,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 30:49      | I don't care about using the app.                                                                      |
 | 30:51      | I don't care about using anything else they provide to control things.                                 |
 | 30:54      | I only care about, can I use my voice to turn things on or off in my home that way?                    |
-| 31:02      | Everything else is centric in HomeKit, and then I use [[Home Assistant]] and a few other                   |
+| 31:02      | Everything else is centric in [[HomeKit]], and then I use [[Home Assistant]] and a few other                   |
 | 31:08      | things as experimental or supplemental.                                                                |
 | 31:12      | I want really advanced automations, or if I want to do things or bring devices in that                 |
 | 31:17      | I simply can't bring in, I do it that way.                                                             |
@@ -535,7 +535,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 32:37      | So I had a smart plug and a humidity sensor connected together through [[Home Assistant]] to               |
 | 32:44      | make a smart dehumidifier, which wouldn't have been possible with the other systems.                   |
 | 32:49      | And that was one of the things that ended up bringing me more towards [[Home Assistant]].                  |
-| 32:54      | But I started predominantly with HomeKit, which worked very well for me until I needed                 |
+| 32:54      | But I started predominantly with [[HomeKit]], which worked very well for me until I needed                 |
 | 32:58      | more.                                                                                                  |
 | 32:59      | Yes.                                                                                                   |
 | 33:00      | And the nice thing is those kinds of automations are hidden or invisible.                              |
@@ -544,11 +544,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 33:12      | It just works.                                                                                         |
 | 33:13      | Exactly.                                                                                               |
 | 33:14      | But the great thing now is we're in a period of confusion, but we're in a period of growth.            |
-| 33:20      | Until now, if you bought Apple products, you had to use HomeKit.                                       |
+| 33:20      | Until now, if you bought Apple products, you had to use [[HomeKit]].                                       |
 | 33:26      | If you bought a Google smart speaker, you had to have products that ran with Google.                   |
 | 33:30      | Each ecosystem was isolated.                                                                           |
 | 33:35      | Over time, the manufacturer's brute force made their products work with more than one.                 |
-| 33:41      | So very often, you'd pick up a device and it said, works with HomeKit, works with Google,              |
+| 33:41      | So very often, you'd pick up a device and it said, works with [[HomeKit]], works with Google,              |
 | 33:46      | works with Amazon.                                                                                     |
 | 33:48      | But they had to go through three times the effort to do that.                                          |
 | 33:52      | And they didn't always work the same with each of these different systems.                             |
@@ -559,9 +559,9 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 34:13      | I was just going to say, I definitely agree.                                                           |
 | 34:14      | I've seen people purchase like a smart switch or something, and then they can get access               |
 | 34:20      | to the power usage and so on through the Amazon system or through the Google system or through         |
-| 34:29      | the app for the device, but they can't get access to that through HomeKit because it's                 |
+| 34:29      | the app for the device, but they can't get access to that through [[HomeKit]] because it's                 |
 | 34:32      | just not available there.                                                                              |
-| 34:34      | And that's very frustrating for people who want to use this sort of thing with HomeKit.                |
+| 34:34      | And that's very frustrating for people who want to use this sort of thing with [[HomeKit]].                |
 | 34:38      | So it sounds like you're telling us something is changing there.                                       |
 | 34:43      | Yes, the new matter standard, which is a consortium, you can go through all the technical details,     |
 | 34:50      | but it's basically a combination of the biggest manufacturers all realising no one of them             |
@@ -578,7 +578,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 35:35      | It's succeeding in providing a basic connectivity where a product will work with all of these          |
 | 35:43      | ecosystems at a basic level of functionality.                                                          |
 | 35:47      | So if you buy a new smart plug and it says it's matter compatible, that's all you have                 |
-| 35:53      | to worry about, whether you're Google, Amazon, HomeKit, [[Home Assistant]] or others, it will              |
+| 35:53      | to worry about, whether you're Google, Amazon, [[HomeKit]], [[Home Assistant]] or others, it will              |
 | 35:59      | work at a reasonable level with all of them.                                                           |
 | 36:03      | And that's a major accomplishment because until now you had to really buy the product                  |
 | 36:08      | for the system you own.                                                                                |
@@ -599,7 +599,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 37:19      | their prices.                                                                                          |
 | 37:22      | So what are the ways that these products distinguish themselves?                                       |
 | 37:25      | So a great example is the EVE line of products.                                                        |
-| 37:28      | They started with HomeKit only products and by adding matter support, they're now able                 |
+| 37:28      | They started with [[HomeKit]] only products and by adding matter support, they're now able                 |
 | 37:33      | to work with a wider variety of systems, but they've always had very high reliability to               |
 | 37:40      | the hardware and added features in the plugs that EVE provides.                                        |
 | 37:45      | They provide power monitoring and power management.                                                    |
@@ -615,11 +615,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 38:33      | are still controlled or only accessible through the manufacturer's app.                                |
 | 38:39      | But that's something that is hopefully at least a matter of time, isn't it?                            |
 | 38:44      | Because by having a standard for these things, that means that if Elgato EVE have power monitoring,    |
-| 38:52      | then they can expose that information to other systems like HomeKit in the same way that               |
+| 38:52      | then they can expose that information to other systems like [[HomeKit]] in the same way that               |
 | 38:59      | a Philips smart plug would be able to, I don't think the Philips one does smart monitoring,            |
 | 39:03      | but if it did, then that's how it could expose that.                                                   |
 | 39:08      | And then they would be able to do that in the same way, which will hopefully make it                   |
-| 39:11      | easier for Apple with HomeKit and Amazon with their system and Google with the home                    |
+| 39:11      | easier for Apple with [[HomeKit]] and Amazon with their system and Google with the home                    |
 | 39:20      | system to actually read this data in instead of having to do a, well, here is a list of                |
 | 39:25      | 68 different thousands, different possible properties you could pass to us.                            |
 | 39:31      | Please be nice.                                                                                        |
@@ -648,13 +648,13 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 41:03      | If you take a motion sensor and you go into the app for the motion sensor, for example,                |
 | 41:10      | the Aqara FP2, which uses radar-type technology, micro-millimeter wave, you can go into the            |
 | 41:19      | app and set zones and set a lot of advanced features, but you don't need to deal with                  |
-| 41:26      | that in HomeKit.                                                                                       |
-| 41:28      | When you go into HomeKit, you simply have a trigger saying, if this motion happened,                   |
+| 41:26      | that in [[HomeKit]].                                                                                       |
+| 41:28      | When you go into [[HomeKit]], you simply have a trigger saying, if this motion happened,                   |
 | 41:33      | do something else.                                                                                     |
 | 41:34      | Now that motion might be just a small area of one room because you program that in the                 |
 | 41:41      | device itself.                                                                                         |
 | 41:42      | So you get the benefits of advanced features, even though all those features don't map directly        |
-| 41:49      | into functionality in HomeKit or in Google or even [[Home Assistant]] today.                               |
+| 41:49      | into functionality in [[HomeKit]] or in Google or even [[Home Assistant]] today.                               |
 | 41:56      | You can still take advantage of it.                                                                    |
 | 41:57      | So I wouldn't shy away from these newer technologies.                                                  |
 | 42:01      | Just be aware that Rome wasn't built in a day.                                                         |
@@ -663,9 +663,9 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 42:16      | So something actually is offering matcher support now.                                                 |
 | 42:18      | Not if they're promising matcher support will come soon, but if they're actually offering              |
 | 42:22      | matcher support, then that means that whatever they do within the matcher realm is hopefully           |
-| 42:28      | just going to straight up be available to HomeKit and so on and so forth, which means                  |
+| 42:28      | just going to straight up be available to [[HomeKit]] and so on and so forth, which means                  |
 | 42:33      | that's better.                                                                                         |
-| 42:34      | Of course, if something, just like the old days, if something's HomeKit coming soon,                   |
+| 42:34      | Of course, if something, just like the old days, if something's [[HomeKit]] coming soon,                   |
 | 42:39      | matcher coming soon, maybe hold off until it actually has matcher support or actually                  |
 | 42:44      | has whatever it is support that you're looking for.                                                    |
 | 42:47      | But providing it's got the matcher framework there and it's using that, then it should                 |
@@ -674,10 +674,10 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 43:04      | Everything should be able to tie in and interlink together, I hope, from what you're saying.           |
 | 43:10      | Yes.                                                                                                   |
 | 43:11      | And having the matter certification is, again, a quality baseline.                                     |
-| 43:17      | So if you buy products that are HomeKit certified and now Matter certified, you know the manufacturer  |
+| 43:17      | So if you buy products that are [[HomeKit]] certified and now Matter certified, you know the manufacturer  |
 | 43:22      | has at least paid $10,000 to $50,000 to join the CSA Alliance, they have paid $20,000 to               |
 | 43:29      | $10,000, $20,000, $30,000 to have a lab test their product.                                            |
-| 43:33      | So there's an implied quality level by buying a Matter product or a HomeKit product in the             |
+| 43:33      | So there's an implied quality level by buying a Matter product or a [[HomeKit]] product in the             |
 | 43:38      | past.                                                                                                  |
 | 43:39      | So it really, unless you're buying the least expensive product to just play with, I would              |
 | 43:46      | recommend going with the standardised products, looking for products from major manufacturers.         |
@@ -687,7 +687,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 44:06      | And there are maybe a dozen or so really high quality companies and it's growing.                      |
 | 44:13      | But if you stick to those brands, you're going to have less trouble.                                   |
 | 44:16      | If you want to be the most frugal, then you can go to the second tier companies that are               |
-| 44:20      | now getting Matter or HomeKit certified and you can buy them on Amazon.                                |
+| 44:20      | now getting Matter or [[HomeKit]] certified and you can buy them on Amazon.                                |
 | 44:25      | You can buy them in big box stores.                                                                    |
 | 44:28      | And again, it's relatively safe.                                                                       |
 | 44:30      | When you start going to Aliexpress and buying products directly from Asia with unknown brands,         |
@@ -862,41 +862,41 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 55:56      | block with this.                                                                                       |
 | 55:57      | I know that you're a fan, and I know Rose is definitely a fan.                                         |
 | 56:02      | [[Home Assistant]], I'll give the novice description, you guys can tell me where I'm wrong, but            |
-| 56:07      | it gives you a lot more flexibility than HomeKit.                                                      |
+| 56:07      | it gives you a lot more flexibility than [[HomeKit]].                                                      |
 | 56:09      | It shows you where things break, and there's a lot more devices that connect to it.                    |
 | 56:14      | Just a few days ago, I got an email from a MacSparky lab member who was telling me                    |
 | 56:18      | how he has [[Home Assistant]] connected to his Kia electric vehicle.                                       |
 | 56:22      | Well, I've got one of those, and he's able to know like it can give him a reminder when                |
 | 56:26      | the car needs charging, and I'm like, wow, I have that ability and I haven't done it                   |
 | 56:31      | yet, and I'll tell you what went wrong.                                                                |
-| 56:33      | I got [[Home Assistant]] set up, I started putting everything in it, and then the HomeKit switches         |
-| 56:39      | and the HomeKit app started behaving funny, and my wife and kids who are never going to                |
+| 56:33      | I got [[Home Assistant]] set up, I started putting everything in it, and then the [[HomeKit]] switches         |
+| 56:39      | and the [[HomeKit]] app started behaving funny, and my wife and kids who are never going to                |
 | 56:46      | use [[Home Assistant]], by the way, were complaining that all of a sudden nothing was working right,       |
 | 56:51      | and I realised that I was going, I went in too deep with [[Home Assistant]], and it was causing            |
-| 56:56      | problems for them with HomeKit.                                                                        |
+| 56:56      | problems for them with [[HomeKit]].                                                                        |
 | 56:57      | I backed off immediately, and I just haven't taken the time to go figure out that problem.             |
-| 57:03      | If someone's listening, like me, and they have a HomeKit trained family, but they want                 |
+| 57:03      | If someone's listening, like me, and they have a [[HomeKit]] trained family, but they want                 |
 | 57:09      | to do something like [[Home Assistant]] where they get a lot more power, how do you live                   |
 | 57:13      | in both worlds at once?                                                                                |
 | 57:15      | Tell me what I'm doing wrong, guys.                                                                    |
 | 57:18      | How many hours do you have?                                                                            |
 | 57:21      | First step is, again, as we mentioned earlier, deciding who is the master controller.                  |
-| 57:27      | With [[Home Assistant]], you can have HomeKit devices from Apple that are accessible in [[Home Assistant]],    |
-| 57:36      | or you can have devices loaded into [[Home Assistant]] that are pushed out into HomeKit.                   |
+| 57:27      | With [[Home Assistant]], you can have [[HomeKit]] devices from Apple that are accessible in [[Home Assistant]],    |
+| 57:36      | or you can have devices loaded into [[Home Assistant]] that are pushed out into [[HomeKit]].                   |
 | 57:43      | It's very subtle, but if [[Home Assistant]] is controlling everything, then if something                   |
 | 57:48      | doesn't work, those devices don't work anywhere.                                                       |
-| 57:52      | If HomeKit is natively controlling devices, then [[Home Assistant]] is an add-on, tapping                  |
+| 57:52      | If [[HomeKit]] is natively controlling devices, then [[Home Assistant]] is an add-on, tapping                  |
 | 57:59      | it on the shoulder saying, let me have a look.                                                         |
 | 58:01      | Let me also fiddle with things, but it's not controlling everything.                                   |
 | 58:06      | I probably did that wrong.                                                                             |
-| 58:08      | I probably was letting [[Home Assistant]] take over and push to HomeKit is what I was doing.               |
+| 58:08      | I probably was letting [[Home Assistant]] take over and push to [[HomeKit]] is what I was doing.               |
 | 58:14      | I think letting [[Home Assistant]] take over isn't necessarily the problem.                                |
 | 58:18      | The problem that I see most often is where people start letting [[Home Assistant]] take over,              |
 | 58:23      | but then they don't let it actually go all the way, where they say, oh, no, no, no, but                |
-| 58:29      | I just want to keep this one thing, just keep it in HomeKit.                                           |
+| 58:29      | I just want to keep this one thing, just keep it in [[HomeKit]].                                           |
 | 58:34      | I feel like if you're going to get [[Home Assistant]] to be the primary controller, you need to            |
-| 58:37      | just embrace that, put everything in there, don't put everything in HomeKit, take it                   |
-| 58:41      | out of HomeKit, and send it back to HomeKit from [[Home Assistant]], but Robert may have a                 |
+| 58:37      | just embrace that, put everything in there, don't put everything in [[HomeKit]], take it                   |
+| 58:41      | out of [[HomeKit]], and send it back to [[HomeKit]] from [[Home Assistant]], but Robert may have a                 |
 | 58:46      | different perspective.                                                                                 |
 | 58:47      | Well, I think we're saying the same thing is if you're not ready to embrace [[Home Assistant]]             |
 | 58:53      | and put the time in to tweak it and adjust it and get everything running there, don't                  |
@@ -906,8 +906,8 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 59:13      | network, not network, but a separate home, maybe one room, and just do [[Home Assistant]]                  |
 | 59:20      | entirely for that room to get familiar with it and go deeper and then see if you're ready              |
 | 59:26      | or willing to embrace it more.                                                                         |
-| 59:28      | I would not try to fiddle with both of them, and then you've got things breaking in HomeKit            |
-| 59:34      | or else it's running in HomeKit, but you're not able to do everything with it in Home                  |
+| 59:28      | I would not try to fiddle with both of them, and then you've got things breaking in [[HomeKit]]            |
+| 59:34      | or else it's running in [[HomeKit]], but you're not able to do everything with it in Home                  |
 | 59:38      | Assistant.                                                                                             |
 | 59:40      | It all gets back to, I mean, a simpler anecdote is a neighbour once called me into their home           |
 | 59:45      | to help them.                                                                                          |
@@ -980,7 +980,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:03:48   | You couldn't do everything the PC could do, but the things you wanted to do were just                  |
 | 01:03:53   | smooth and buttery and integrated and it just flowed together.                                         |
 | 01:03:59   | I think [[Home Assistant]] or other DIY prosumer automation systems have that same challenge.              |
-| 01:04:06   | If you don't want a hobby, you just want the damn thing to work, then HomeKit or one of                |
+| 01:04:06   | If you don't want a hobby, you just want the damn thing to work, then [[HomeKit]] or one of                |
 | 01:04:13   | the other mass market systems makes sense.                                                             |
 | 01:04:16   | I mean, that's a very little secret of why in the professional and the luxury space,                   |
 | 01:04:22   | Prestron, Control 4, Savant, companies most consumers haven't heard of, are still dominating.          |
@@ -990,7 +990,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:04:40   | They're willing to not choose the equipment, choose the brands of lights, choose every                 |
 | 01:04:45   | little gadget because having it work and not worrying about it, it's not a hobby, it's                 |
 | 01:04:50   | not an application, it's just a tool that they want working.                                           |
-| 01:04:55   | I think HomeKit and even Google and Amazon to some extent are more of that just work                   |
+| 01:04:55   | I think [[HomeKit]] and even Google and Amazon to some extent are more of that just work                   |
 | 01:05:01   | type of system.                                                                                        |
 | 01:05:02   | The key to bring it all back around, are there really cool automations you want to do or               |
 | 01:05:09   | you have to do?                                                                                        |
@@ -1025,7 +1025,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:07:10   | No, it just works.                                                                                     |
 | 01:07:12   | Home automation is getting there, but it's not there today.                                            |
 | 01:07:16   | The less you do to make it less reliable, the less you mix systems, the less you try                   |
-| 01:07:22   | to use an Amazon device with Apple HomeKit products, the less you can experiment, then                 |
+| 01:07:22   | to use an Amazon device with [[HomeKit\|Apple HomeKit]] products, the less you can experiment, then                 |
 | 01:07:29   | the more reliable you can make it.                                                                     |
 | 01:07:33   | I'm personally a huge fan of being able to look at what happened when you're setting                   |
 | 01:07:38   | things up and figuring out why that thing happened or didn't happen and so on, which                   |
@@ -1047,13 +1047,13 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:08:56   | Start with when I come home, the lights turn on and then progress to the next most complicated         |
 | 01:09:01   | one from there.                                                                                        |
 | 01:09:02   | And honestly, Apple is partly at fault for some of this stuff because they put options                 |
-| 01:09:07   | in HomeKit like saying when it's just me at home because in theory, they know who's there              |
+| 01:09:07   | in [[HomeKit]] like saying when it's just me at home because in theory, they know who's there              |
 | 01:09:12   | and not there depending on what devices are present, but I find that that stuff generally              |
 | 01:09:16   | is unreliable.                                                                                         |
 | 01:09:18   | My advice to anyone with automations, I mean, home assistant is nice because it documents              |
 | 01:09:24   | but with any other system, create a record of what you're doing.                                       |
 | 01:09:29   | I mean, pad and pencil or any method, online, electronic, don't get hung up on how, but                |
-| 01:09:36   | if someone were to steal your HomeKit hub or to erase everything, how would you recreate               |
+| 01:09:36   | if someone were to steal your [[HomeKit]] hub or to erase everything, how would you recreate               |
 | 01:09:43   | all the automations you've painfully built up over the years?                                          |
 | 01:09:47   | It's sadly necessary to become a nerd and document spreadsheets or notes.                              |
 | 01:09:53   | Write down what it's supposed to do, what you want it to do.                                           |
@@ -1083,7 +1083,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:11:38   | It would be nice to export those, but HomePass can help at least.                                      |
 | 01:11:42   | I would settle for the Home App from Apple having search.                                              |
 | 01:11:46   | I can't find devices in my configuration.                                                              |
-| 01:11:48   | Fortunately, I use Controller for HomeKit, which is one of the excellent third-party                   |
+| 01:11:48   | Fortunately, I use [[Controller for HomeKit]], which is one of the excellent third-party                   |
 | 01:11:53   | apps.                                                                                                  |
 | 01:11:54   | It has a search function.                                                                              |
 | 01:11:55   | If I want to find, where did I put that smart plug?                                                    |
@@ -1091,14 +1091,14 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:12:00   | What did I call it?                                                                                    |
 | 01:12:02   | There's certainly room for third-party apps to embellish or extend whatever system you're              |
 | 01:12:08   | using, and ultimately, I'd like to see more of that incorporated by Apple.                             |
-| 01:12:14   | Backup and Restore is still not a feature of HomeKit.                                                  |
-| 01:12:18   | It is in Controller for HomeKit and other apps.                                                        |
+| 01:12:14   | Backup and Restore is still not a feature of [[HomeKit]].                                                  |
+| 01:12:18   | It is in [[Controller for HomeKit]] and other apps.                                                        |
 | 01:12:22   | The basics, there are some basics you have to deal with when you're not using a more                   |
 | 01:12:28   | professional-oriented system, whether it's a prosumer system like [[Home Assistant]] or others.            |
 | 01:12:33   | There's just backup and Restore.                                                                       |
 | 01:12:35   | You'd think that is so basic.                                                                          |
 | 01:12:37   | Robert, do you have any other apps that you would recommend people check out if they're                |
-| 01:12:41   | using HomeKit in addition to Controller?                                                               |
+| 01:12:41   | using [[HomeKit]] in addition to [[Controller for HomeKit\|Controller]]?                                                               |
 | 01:12:44   | We haven't talked a lot about the physical networking aspects, and Wi-Fi networks can                  |
 | 01:12:49   | be challenging.                                                                                        |
 | 01:12:51   | It's a little bit more professional, but they have a free version, an app called NetSpot,              |
@@ -1341,9 +1341,9 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:31:08   | The only thing is, if you've got a smart home Wi-Fi device that's acting a bit flaky, but              |
 | 01:31:13   | otherwise you think your network is absolutely fine, I'm going to say blame the network first.         |
 | 01:31:20   | Don't blame the network last.                                                                          |
-| 01:31:22   | If you've got a Wi-Fi device that's in HomeKit and sometimes it's not responding, it's probably        |
+| 01:31:22   | If you've got a Wi-Fi device that's in [[HomeKit]] and sometimes it's not responding, it's probably        |
 | 01:31:27   | going to be your network.                                                                              |
-| 01:31:30   | One of the most common problems I see in just straight-up HomeKit is actually the network              |
+| 01:31:30   | One of the most common problems I see in just straight-up [[HomeKit]] is actually the network              |
 | 01:31:36   | that everything's connecting through.                                                                  |
 | 01:31:40   | Moving some things around, if you do have multiple routers or upgrading to a mesh network,             |
 | 01:31:44   | it's probably going to fix that for that device.                                                       |
@@ -1352,7 +1352,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:31:54   | I would say slightly differently along those lines.                                                    |
 | 01:31:58   | Instead of buying new Wi-Fi equipment, replace those smart home devices with non-Wi-Fi devices.        |
 | 01:32:05   | Get some Zigbee or get some Lutron or whatever Philips Hue for Zigbee lights.                          |
-| 01:32:11   | Put your budget into getting all your HomeKit or smart home devices off Wi-Fi as much as               |
+| 01:32:11   | Put your budget into getting all your [[HomeKit]] or smart home devices off Wi-Fi as much as               |
 | 01:32:18   | possible.                                                                                              |
 | 01:32:20   | That's such an easy call.                                                                              |
 | 01:32:21   | I mean, Rose and I talk about Aqara, I feel like every episode, but get an Aqara hub and               |
@@ -1393,7 +1393,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:35:36   | We do see the classic ring doorbell encroaching and dealers and systems saying, okay, we'll            |
 | 01:35:43   | support ring, but with hundreds and thousands of devices supporting matter, it's simply                |
 | 01:35:49   | going to be a matter of time before these bigger systems will have to embrace matter                   |
-| 01:35:56   | devices and at least accommodate them, which they do not do today at all, even with HomeKit            |
+| 01:35:56   | devices and at least accommodate them, which they do not do today at all, even with [[HomeKit]]            |
 | 01:36:02   | or Google or Amazon products, they're very difficult to connect into larger systems.                   |
 | 01:36:09   | I hope that will change by the force of the consumer.                                                  |
 | 01:36:12   | Well, Robert, I appreciate you coming in today.                                                        |

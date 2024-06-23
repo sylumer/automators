@@ -561,7 +561,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 29:43      | And so I trigger that usually by voice.                                                                  |
 | 29:46      | And that does some things in my environment.                                                             |
 | 29:48      | It puts the Apple TV to sleep.                                                                           |
-| 29:50      | So if there's music playing that stops the music, it uses HomeKit to adjust the lighting                 |
+| 29:50      | So if there's music playing that stops the music, it uses [[HomeKit]] to adjust the lighting                 |
 | 29:55      | in my office here.                                                                                       |
 | 29:58      | And then it triggers a [[Keyboard Maestro]] shortcut.                                                        |
 | 30:02      | And the specific one it triggers depends on what the upcoming meeting is.                                |

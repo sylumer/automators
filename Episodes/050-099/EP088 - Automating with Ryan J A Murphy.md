@@ -909,7 +909,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 46:21      | How are you triggering that automation, Ryan?                                                          |
 | 46:24      | Yeah, just with the Automation tab and shortcuts.                                                      |
 | 46:27      | Yeah, the timer.                                                                                       |
-| 46:28      | Is that a HomeKit automation that you're using or is that a personal automation?                       |
+| 46:28      | Is that a [[HomeKit]] automation that you're using or is that a personal automation?                       |
 | 46:33      | Personal automation.                                                                                   |
 | 46:34      | Yeah, just that.                                                                                       |
 | 46:35      | Yeah.                                                                                                  |
@@ -918,7 +918,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 46:38      | Yeah.                                                                                                  |
 | 46:39      | Yeah.                                                                                                  |
 | 46:40      | I mean, I do this as well with the Home app.                                                           |
-| 46:42      | I actually have a scene set up in HomeKit because, or I've got two scenes for this,                    |
+| 46:42      | I actually have a scene set up in [[HomeKit]] because, or I've got two scenes for this,                    |
 | 46:48      | of course, because one of them is for, you know, turn the volume down everywhere, but                  |
 | 46:52      | not so much in the bedroom and then one of it's turn the volume to the same level everywhere.          |
 | 46:56      | And so I did this with a scene in the Home app, which you can create scenes in the shortcuts           |

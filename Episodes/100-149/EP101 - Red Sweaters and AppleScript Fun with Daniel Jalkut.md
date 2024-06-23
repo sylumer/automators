@@ -1055,14 +1055,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 44:14      | and have beautiful window treatments.                             |
 | 44:16      | Hunter Douglas shades are compatible                              |
 | 44:18      | with all your favourite home automation systems,                   |
-| 44:21      | Amazon Alexa, Apple HomeKit, Google Assistant,                    |
+| 44:21      | Amazon Alexa, [[HomeKit\|Apple HomeKit]], Google Assistant,                    |
 | 44:24      | IFTTT, and more.                                                  |
 | 44:27      | Look, you're listening to automators,                             |
 | 44:28      | you want to automate your home,                                   |
 | 44:30      | and this stuff makes it super easy.                               |
 | 44:32      | You can integrate your shades                                     |
 | 44:33      | with your other products in your home,                            |
-| 44:35      | using Apple HomeKit.                                              |
+| 44:35      | using [[HomeKit\|Apple HomeKit]].                                              |
 | 44:37      | And you can get that control with Hunter Douglas.                 |
 | 44:39      | So you can live beautifully with Hunter Douglas,                  |
 | 44:42      | enjoying greater convenience, enhanced style,                     |
