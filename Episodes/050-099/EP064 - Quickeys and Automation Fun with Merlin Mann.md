@@ -428,10 +428,10 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 17:28      | What does that mean?                                                                                          |
 | 17:29      | It does not have an app.                                                                                      |
 | 17:30      | The only way to interact with that camera is in [[HomeKit]] full stop.                                            |
-| 17:34      | If you get your VPN on, guess what?                                                                           |
+| 17:34      | If you get your [[VPN]] on, guess what?                                                                           |
 | 17:37      | You can't see the camera because some things on [[HomeKit]] will not work.                                        |
 | 17:40      | If you've ever had trouble configuring something locally, like a new device, it can be because                |
-| 17:45      | you've got a VPN on and it can't do the stuff that it needs to do.                                            |
+| 17:45      | you've got a [[VPN]] on and it can't do the stuff that it needs to do.                                            |
 | 17:49      | Anyway, it's not a very piecemeal and I think really so much of when we talk about automation,                |
 | 17:53      | what we're doing, how we do it, it comes down to how do you develop the existential                           |
 | 17:58      | spackle to make all of the stuff work together in a way that improves your life rather than                   |

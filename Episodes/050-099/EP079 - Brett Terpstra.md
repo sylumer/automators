@@ -1250,8 +1250,8 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:12:11   | Sure.                                                                                                |
 | 01:12:12   | Now that I'm like into...                                                                            |
 | 01:12:13   | That's by the way, you can thank my profession for that.                                             |
-| 01:12:19   | Now that I'm kind of into the groove on it, I have to use things like exchange servers               |
-| 01:12:28   | and VPNs that I've never had to deal with, at least not for the last decade of my life.              |
+| 01:12:19   | Now that I'm kind of into the groove on it, I have to use things like Exchange servers               |
+| 01:12:28   | and [[VPN\|VPNs]] that I've never had to deal with, at least not for the last decade of my life.              |
 | 01:12:36   | And I can't use MailMate, which is where all of my email automation is in MailMate.                  |
 | 01:12:43   | And actually, that's a lie.                                                                          |
 | 01:12:44   | I did figure out how to get MailMate to connect to their SSO or their OAuth.                         |

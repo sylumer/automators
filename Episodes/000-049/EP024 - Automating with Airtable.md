@@ -865,7 +865,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 48:48      | iOS app that allows you to get access to those files.                                                |
 | 48:51      | I was in Hawaii once on vacation and I desperately needed a file that was on my archive drive        |
 | 48:57      | attached to my iMac at home.                                                                         |
-| 48:59      | VPN wasn't working, I couldn't figure out why.                                                       |
+| 48:59      | [[VPN]] wasn't working, I couldn't figure out why.                                                       |
 | 49:03      | I was pulling my hair out and then I realised, oh, wait a second, Backblaze.                         |
 | 49:06      | So I just wanted my Backblaze app downloaded the file, I was good to go.                             |
 | 49:10      | They have backed up over 750 petabytes.                                                              |
