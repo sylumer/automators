@@ -29,7 +29,7 @@ await dv.view('dv_AuthoredAutomationsList')
 - [[MixEffect]]
 - [[MsgFiler]]
 
-# Documentries
+# Documentaries
 - [Autumn Gem – A Documentary on Modern China's First Feminist](http://autumn-gem.com/)
 
 # Websites
