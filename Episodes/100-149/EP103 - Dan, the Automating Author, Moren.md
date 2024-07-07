@@ -417,7 +417,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 18:29      | I hope that sort of feedback loops into Apple and they're like, way, we should be spending             |
 | 18:33      | more time on our own stuff so that we don't look like we're second-class citizens on our               |
 | 18:38      | own platform.                                                                                          |
-| 18:39      | Um, but yeah, I mean, and, and full props to, uh, apps like Rogue Amoeba, uh, or they                  |
+| 18:39      | Um, but yeah, I mean, and, and full props to, uh, apps like [[Rogue Amoeba]], uh, or they                  |
 | 18:44      | put out [[Audio Hijack]], obviously with some limited shortcuts of work, but then Sound                    |
 | 18:47      | Source came out last week, an update that has like, I don't know, like more than a dozen               |
 | 18:52      | different like shortcuts options, which is great.                                                      |

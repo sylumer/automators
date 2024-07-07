@@ -424,7 +424,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 27:44      | that when so you can be capturing, but then when you actually hit record, it resets the clock on         |
 | 27:51      | [[Audio Hijack]] back to zero on your session. So that and then once you do that, and like for me,           |
 | 27:59      | for example, the one that I do, it resets everything to zero. And then it invokes Farrago                 |
-| 28:06      | Farrago from audio also from from Rogue Amoeba to play the intro theme music for daily observations.          |
+| 28:06      | Farrago from audio also from from [[Rogue Amoeba]] to play the intro theme music for daily observations.          |
 | 28:14      | And then I have a plain text file. And when we switch topics, I have a keyboard shortcut                 |
 | 28:20      | that input that just scoops the time out of [[Audio Hijack]] and drops it in my text file,                   |
 | 28:24      | so that I have all the chapter notes ready to go from the moment that we're done.                        |

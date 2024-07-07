@@ -1502,7 +1502,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:29:53   | Lovely.                                                                                                   |
 | 01:29:54   | I can't wait for it.                                                                                      |
 | 01:29:55   | I want to thank our sponsors today.                                                                       |
-| 01:29:58   | That's our friends over at Electric, Trade, LinkedIn Jobs, and Rogue Amoeba.                              |
+| 01:29:58   | That's our friends over at Electric, Trade, LinkedIn Jobs, and [[Rogue Amoeba]].                              |
 | 01:30:02   | We are the Automators.                                                                                    |
 | 01:30:03   | You can find us at relay.fm/automators, or you can find our website at talk.automators.fm.          |
 | 01:30:08   | We also have a great and active forum.                                                                    |

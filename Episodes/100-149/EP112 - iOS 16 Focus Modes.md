@@ -1147,7 +1147,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:07:01   | Well, for the podcasting side of things is mostly I just, I definitely want everything                  |
 | 01:07:07   | working.                                                                                                |
 | 01:07:08   | I don't want any problems with anything.                                                                |
-| 01:07:09   | And I know the Rogue Amoeba apps are working now, but they, they always say, you know,                  |
+| 01:07:09   | And I know the [[Rogue Amoeba]] apps are working now, but they, they always say, you know,                  |
 | 01:07:16   | like stay off the betas because, you know, we're not going to support them day one.                     |
 | 01:07:21   | It will probably crash or do something because the audio drivers get monkey with every year             |
 | 01:07:26   | thanks to Apple.                                                                                        |

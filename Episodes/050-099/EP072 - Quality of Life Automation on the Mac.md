@@ -711,7 +711,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 55:05      | moved out of Skype as our backbone for podcasting. We now do it in Zoom. But because Zoom has the        |
 | 55:12      | ability to make the backup recording as part of its service. So whenever we finish a recording,          |
 | 55:18      | a file gets a folder gets saved to my desktop with all the backup recordings. Now, our primary           |
-| 55:24      | recording is done with [[Audio Hijack]] from Rogue Amoeba. And, you know, like 99% of the time,                  |
+| 55:24      | recording is done with [[Audio Hijack]] from [[Rogue Amoeba]]. And, you know, like 99% of the time,                  |
 | 55:31      | that's the file that gets turned into the podcast. But you never know if something                       |
 | 55:35      | goes wrong, you want to backup. But I get these folders just on my desk full of it. And I make           |
 | 55:40      | three podcasts. So I get a lot of these folders. And they're not folders that I want to. I never         |

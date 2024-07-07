@@ -1738,7 +1738,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:46   | And also just adding even more automation support                 |
 | 01:15:49   | can be really good.                                               |
 | 01:15:50   | One of the things that springs to mind, of course,                |
-| 01:15:52   | is Rogue Amoeba recently added shortcut support                   |
+| 01:15:52   | is [[Rogue Amoeba]] recently added shortcut support                   |
 | 01:15:55   | and a new scripting support with custom JavaScript,               |
 | 01:15:59   | I believe it was for [[Audio Hijack]].                                |
 | 01:16:02   | Obviously, Omni Group have got custom JavaScript,                 |

@@ -1232,7 +1232,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 44:32      | two different bunch files and you just want to compare            |
 | 44:34      | what's the same or what's different between them.                 |
 | 44:36      | You could do that with Kaleidoscope.                              |
-| 44:38      | But of course, Rogue Amoeba                                       |
+| 44:38      | But of course, [[Rogue Amoeba]]                                       |
 | 44:40      | has also been bringing their A-game.                              |
 | 44:42      | Audio hijack has full                                             |
 | 44:44      | shortcut support now, including their own JavaScript              |
@@ -1268,7 +1268,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 45:44      | for certain projects will be really useful.                       |
 | 45:46      | Yeah, and I want to call out SoundSource because                  |
 | 45:48      | this is, you know, we talk about                                  |
-| 45:50      | the Rogue Amoeba apps a lot. We're podcasters.                     |
+| 45:50      | the [[Rogue Amoeba]] apps a lot. We're podcasters.                     |
 | 45:52      | These are really important tools                                  |
 | 45:54      | for us. But SoundSource                                           |
 | 45:56      | allows you to easily control                                      |
@@ -1383,7 +1383,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 49:34      | tools, you know, with this one action.                            |
 | 49:36      | And also                                                          |
 | 49:38      | all these apps like                                               |
-| 49:40      | Rogue Amoeba or these companies like Rogue Amoeba                 |
+| 49:40      | [[Rogue Amoeba]] or these companies like [[Rogue Amoeba]]                 |
 | 49:42      | and Omni Group and all these companies                            |
 | 49:44      | all of a sudden are just showing up with these                    |
 | 49:46      | rich, powerful                                                    |
@@ -1783,7 +1783,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:02:58   | that ends up breaking all sorts of things                         |
 | 01:03:00   | yeah so for the listeners when you're                             |
 | 01:03:02   | using these                                                       |
-| 01:03:04   | you know these rogue amoeba tools                                 |
+| 01:03:04   | you know these [[Rogue Amoeba]] tools                                 |
 | 01:03:06   | as a safety precaution they save                                  |
 | 01:03:08   | the file actively while we're recording                           |
 | 01:03:10   | and yeah that's                                                   |
@@ -1801,7 +1801,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 01:03:34   | work around that you can just like run                            |
 | 01:03:36   | the macro manually when you're finished recording                 |
 | 01:03:38   | or whatever it is that you like                                   |
-| 01:03:40   | and I should note that a rogue amoeba                             |
+| 01:03:40   | and I should note that a [[Rogue Amoeba]]                             |
 | 01:03:42   | of course with their new scripting support                        |
 | 01:03:44   | probably has a way to just move it                                |
 | 01:03:46   | automatically at the                                              |
