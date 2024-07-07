@@ -2101,7 +2101,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:39   | whatever reason to get a link to put in the                                                        |
 | 01:18:41   | show notes for example                                                                             |
 | 01:18:43   | and I'll do that in Safari so it'll open                                                           |
-| 01:18:45   | all of the apps that I need audio hijack                                                           |
+| 01:18:45   | all of the apps that I need [[Audio Hijack]]                                                           |
 | 01:18:47   | and so on but                                                                                      |
 | 01:18:49   | because it can just open a URL                                                                     |
 | 01:18:51   | and [[URL Schemes]] are a URL                                                                          |

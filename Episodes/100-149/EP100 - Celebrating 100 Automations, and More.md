@@ -681,7 +681,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 25:36      | because I don't have to prep right before I do the episode.       |
 | 25:40      | I just have to have prepped before the episode.                   |
 | 25:43      | And of course, for me, it goes in and adds                        |
-| 25:45      |OmniFocusprojects for each one,                                  |
+| 25:45      | [[OmniFocus]] projects for each one,                                  |
 | 25:48      | including uploading the correct files afterwards                  |
 | 25:51      | so that people have got decent audio.                             |
 | 25:54      | But honestly, I went a little bit                                 |
@@ -697,16 +697,16 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 26:19      | and things like that.                                             |
 | 26:21      | When I start recording the show,                                  |
 | 26:23      | I activate my recording bunch for automators                      |
-| 26:27      | and thanks to Audio Hijack 4.                                     |
+| 26:27      | and thanks to [[Audio Hijack\|Audio Hijack 4]].                                     |
 | 26:30      | I now have Shortcuts, David,                                      |
-| 26:31      | which opens specific audio hijack sessions for me.                |
+| 26:31      | which opens specific [[Audio Hijack]] sessions for me.                |
 | 26:34      | It's amazing.                                                     |
-| 26:35      | And so I've got an AppleScript inside of that bunch              |
+| 26:35      | And so I've got an [[AppleScript]] inside of that bunch              |
 | 26:39      | which is tell application shortcuts.                                 |
 | 26:41      | to run shortcuts, I think it's called                             |
-| 26:43      | Audio Hijack Automators Zoom.                                     |
+| 26:43      | "Audio Hijack Automators Zoom".                                     |
 | 26:45      | And then that opens the Automators Zoom session                   |
-| 26:49      | in Audio Hijack for me, which is great.                           |
+| 26:49      | in [[Audio Hijack]] for me, which is great.                           |
 | 26:53      | And then I'm also tracking the time as we do the show             |
 | 26:56      | so that I can insert show notes                                   |
 | 26:59      | with actual timestamps for our editor.                            |
@@ -714,10 +714,10 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 27:05      | because when I start recording,                                   |
 | 27:06      | I use [[Keyboard Maestro]] to start the recording.                    |
 | 27:08      | It saves the timestamp into a variable                            |
-| 27:10      | and it activates Audio Hijack                                     |
+| 27:10      | and it activates [[Audio Hijack]]                                     |
 | 27:13      | and hits the recording keyboard shortcut.                         |
 | 27:15      | I should probably change that out to a different automation       |
-| 27:17      | now that Audio Hijack has automations,                            |
+| 27:17      | now that [[Audio Hijack]] has automations,                            |
 | 27:19      | but it ain't broke so I'm probably not gonna                      |
 | 27:22      | invest all that much time fixing it.                              |
 | 27:24      | And then of course there's the after show stuff                   |
@@ -947,8 +947,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 36:25      | We're seeing increasingly applications                            |
 | 36:28      | that were not historically automation friendly                    |
 | 36:31      | become automation friendly.                                       |
-| 36:32      | You mentioned earlier, Audio Hijack,                              |
-| 36:36      | the last version of Audio Hijack                                  |
+| 36:32      | You mentioned earlier, [[Audio Hijack]],                              |
+| 36:36      | the last version of [[Audio Hijack]]                                  |
 | 36:37      | didn't have any automation in it,                                 |
 | 36:38      | but now that shortcuts exist,                                     |
 | 36:40      | they were able to put something together.                         |
@@ -1918,22 +1918,22 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:16:51   | but I just feel like a multi-platform                             |
 | 01:16:53   | is going to become more important.                                |
 | 01:16:55   | And at the same time,                                             |
-| 01:16:57   | I think JavaScript is going to become more essential              |
+| 01:16:57   | I think [[JavaScript]] is going to become more essential              |
 | 01:17:01   | for automation.                                                   |
 | 01:17:02   | I think a lot of people are leaning into JavaScript.              |
-| 01:17:04   | I mean, they just released Audio Hijack 4,                        |
+| 01:17:04   | I mean, they just released [[Audio Hijack\|Audio Hijack 4]],                        |
 | 01:17:08   | which has shortcuts integration,                                  |
-| 01:17:09   | but it also has JavaScript automation.                            |
+| 01:17:09   | but it also has [[JavaScript]] automation.                            |
 | 01:17:12   | And JavaScript is where you can really                            |
 | 01:17:14   | make that application dance.                                      |
 | 01:17:16   | I think if you want to automate,                                  |
-| 01:17:18   | starting to get a little familiar with JavaScript                 |
+| 01:17:18   | starting to get a little familiar with [[JavaScript]]                 |
 | 01:17:21   | is a good idea.                                                   |
 | 01:17:23   | Yes, yeah, it really is.                                          |
 | 01:17:25   | And we've seen more and more applications                         |
-| 01:17:27   | add support for scripting using JavaScript.                       |
-| 01:17:29   | So, you know, Audio Hijack is a recent one,                       |
-| 01:17:32   | but [[Drafts]] has been automating with JavaScript                    |
+| 01:17:27   | add support for scripting using [[JavaScript]].                       |
+| 01:17:29   | So, you know, [[Audio Hijack]] is a recent one,                       |
+| 01:17:32   | but [[Drafts]] has been automating with [[JavaScript]]                    |
 | 01:17:35   | for a very long time.                                             |
 | 01:17:37   | And, you know, Omni Group added support                           |
 | 01:17:39   | to all of their applications,                                     |
@@ -2000,8 +2000,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:19:54   | you know, shortcuts actions,                                      |
 | 01:19:55   | but they're also adding integrations                              |
 | 01:19:57   | so that other people can create and run things.                   |
-| 01:20:01   | You know, I could create an Audio                                 |
-| 01:20:02   | Hijack script and share it with you.                              |
+| 01:20:01   | You know, I could create an [[Audio Hijack]]                                |
+| 01:20:02   | script and share it with you.                              |
 | 01:20:04   | And that is great.                                                |
 | 01:20:06   | And web services that add APIs will end up                        |
 | 01:20:09   | with things like make and Zapier integrations,                    |
@@ -2123,3 +2123,4 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:24:18   | We are the Automators.                                            |
 | 01:24:20   | We'll see you next time.                                          |
 | 01:24:21   | Thank you, bye.                                                   |
+ 

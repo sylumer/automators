@@ -948,7 +948,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 58:40      | Well, I, you know, I go through this every year, betas kind of multiply on themselves                   |
 | 58:45      | because the features they have then you need them on a different thing to make it work                  |
 | 58:49      | and every year I try to draw the line at my production machine.                                         |
-| 58:53      | In fact, I have to because one of our key applications, Audio Hijack is never going                     |
+| 58:53      | In fact, I have to because one of our key applications, [[Audio Hijack]] is never going                     |
 | 58:59      | to release early, they're dealing with underlying audio stuff and they really have to be careful,       |
 | 59:04      | but man, I can tell you that it's always an indicator when I'm, I wish I had the beta                   |
 | 59:10      | on my production machine, like the widgets on the screen and like the way, because I've                 |

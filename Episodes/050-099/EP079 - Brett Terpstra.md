@@ -726,9 +726,9 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 40:13      | It'll see if those apps also exist in the new Bunch and it won't quit those.                         |
 | 40:18      | So it leaves those two alone.                                                                        |
 | 40:19      | It turns on do not disturb, it sets my audio output and input and volumes before loading             |
-| 40:26      | up audio hijack, opens up NVUltra to my podcasting notebook, loads up audio hijack, and then         |
-| 40:34      | it sends key commands to open the sessions window of audio hijack because you can't,                 |
-| 40:41      | you can't open a specific session in audio hijack without the mouse, which is annoying.              |
+| 40:26      | up [[Audio Hijack]], opens up NVUltra to my podcasting notebook, loads up [[Audio Hijack]], and then         |
+| 40:34      | it sends key commands to open the sessions window of [[Audio Hijack]] because you can't,                 |
+| 40:41      | you can't open a specific session in [[Audio Hijack]] without the mouse, which is annoying.              |
 | 40:48      | So it hits, for me, it hits the right arrow 13 times and then hits command, oh, and then             |
 | 40:54      | switches back to that window and closes it and has me all ready to go.                               |
 | 40:59      | Loads up Skype opens Firefox with my, my sponsor list and then runs a [[Moom]], a [[Moom]] snapshot          |
@@ -737,10 +737,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 41:14      | I'm on this campaign to get Mac app developers to become more automation friendly and I found        |
 | 41:19      | an avenue that works and that is, because people don't want to deal with AppleScript                |
 | 41:25      | implementation or, you know, whatever the, you know, whatever the hangup is that they                |
-| 41:30      | just don't want to go there because I feel like audio hijack is nearly a perfect app                 |
+| 41:30      | just don't want to go there because I feel like [[Audio Hijack]] is nearly a perfect app                 |
 | 41:34      | except it is not that automation friendly.                                                           |
 | 41:37      | And so what I tell people now is like, add a single menu item where users can add their              |
-| 41:44      | favourite actions from your application, like an audio hijack, it would be your, your favourite,       |
+| 41:44      | favourite actions from your application, like an [[Audio Hijack]], it would be your, your favourite,       |
 | 41:49      | you know, audio recipes, or I just like talk the guy because timer is coming out with a              |
 | 41:55      | Mac app.                                                                                             |
 | 41:56      | And I'm like, just put all the timers in the menu bar.                                               |

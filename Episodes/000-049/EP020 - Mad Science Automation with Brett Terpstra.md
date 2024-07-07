@@ -437,11 +437,11 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 21:22      | Exactly.                                                                                              |
 | 21:23      | That's very manual.                                                                                   |
 | 21:25      | Yeah.                                                                                                 |
-| 21:26      | Retrobatch, looking at, I'm looking at it literally right next to my audio hijack                   |
+| 21:26      | Retrobatch, looking at, I'm looking at it literally right next to my [[Audio Hijack]]                   |
 | 21:30      | pro.                                                                                                  |
 | 21:31      | It looks, looks very similar, you know, the uh.                                                       |
 | 21:35      | Well, that's a good sign.                                                                             |
-| 21:36      | I like audio hijack.                                                                                  |
+| 21:36      | I like [[Audio Hijack]].                                                                                  |
 | 21:37      | It's got, it's got like a workflow where you pull units and it's, it's cool.                          |
 | 21:42      | I'm going to definitely give it a shot.                                                               |
 | 21:44      | I have a retro batch droplet that I can create using a template in my image editor in Affinity        |

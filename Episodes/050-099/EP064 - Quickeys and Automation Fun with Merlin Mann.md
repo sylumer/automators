@@ -136,7 +136,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 02:58      | works, it's a beautiful thing.                                                                                |
 | 03:00      | Yeah.                                                                                                         |
 | 03:01      | I mean, that's how I started the show today, David.                                                           |
-| 03:04      | [[Keyboard Maestro]] opened Audio Hijack, waited for the right window to appear, and then clicked                 |
+| 03:04      | [[Keyboard Maestro]] opened [[Audio Hijack]], waited for the right window to appear, and then clicked                 |
 | 03:08      | an image to find the right session, because there's no scripting support other than opening                   |
 | 03:12      | the application.                                                                                              |
 | 03:13      | So I had to click at the image that it found.                                                                 |
@@ -1378,7 +1378,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:09:19   | I mean, the basic part of it is, like for me, I have a bunch called Start Podcast, and                        |
 | 01:09:24   | that does what?                                                                                               |
 | 01:09:25   | It opens Skype.                                                                                               |
-| 01:09:26   | It opens Audio Hijack.                                                                                        |
+| 01:09:26   | It opens [[Audio Hijack]].                                                                                        |
 | 01:09:28   | It quits Dropbox.                                                                                             |
 | 01:09:29   | It quits Plex.                                                                                                |
 | 01:09:31   | It turns on Do Not Disturb.                                                                                   |

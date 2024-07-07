@@ -139,7 +139,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 05:43      | thought, well, maybe others could benefit from this. And, but of course, doing a podcast                      |
 | 05:47      | every day, there's a lot of repetitive steps. And one of them was that when the level later                   |
 | 05:53      | came back out, I wanted to send my, my final file through level later. So I set up [[Hazel]]                      |
-| 06:01      | so that if I name a file in my audio hijack folder, and it says level me in the file name,                    |
+| 06:01      | so that if I name a file in my [[Audio Hijack]] folder, and it says level me in the file name,                    |
 | 06:09      | that will automatically open the file in level later. And then I just have to push a button                   |
 | 06:13      | and it runs in level later. And, you know, so that's not a difficult thing. But again,                        |
 | 06:19      | it saves me from now and flip over to finder, find the right file, right click on it, open                    |
@@ -490,7 +490,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 34:17      | learning there about using shell scripting to do, again, just very little things. And                         |
 | 34:23      | so, you know, I've got things where, you know, I've got, I can automatically record podcasts                  |
 | 34:30      | that are live streaming using FFM peg. When the relay stream goes live, I've got a button                     |
-| 34:38      | I can hit. And I could do this in audio hijack, but by doing it this way, you know, I basically               |
+| 34:38      | I can hit. And I could do this in [[Audio Hijack]], but by doing it this way, you know, I basically               |
 | 34:46      | just have the script set up once. And then when it's done, it will add the artwork. It                        |
 | 34:51      | will check to see when it actually checks to see what the relay page says is the show                         |
 | 34:57      | title and it will change the file name and all these things. And then at the very end                         |
@@ -742,7 +742,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 55:53      | you know, I've got a profile that has just for when I'm podcasting. It's got a button                         |
 | 56:01      | that I can use to toggle my microphone mute. It's got a thing that will open, it will open                    |
 | 56:08      | the script for the current day, move it to the right hand of the screen and make it like                      |
-| 56:14      | 80% and then it moves audio hijack to the bottom 20%. So again, that was one of these                         |
+| 56:14      | 80% and then it moves [[Audio Hijack]] to the bottom 20%. So again, that was one of these                         |
 | 56:20      | things I had to do every single day. And again, those are just KM link macros because they                    |
 | 56:27      | don't have to communicate back and forth.                                                                     |
 | 56:29      | Yeah, sure. It's a trigger.                                                                                   |
@@ -955,7 +955,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:12:46   | any more shows because I was running out of buttons. So what are the buttons doing? Are                       |
 | 01:12:52   | they just going to the website or are they downloading? Most of them just go, absolutely,                     |
 | 01:12:56   | just go to the website. I did have one. I'm not even sure it was on that profile that would                   |
-| 01:13:01   | launch audio hijack and hijack the live stream if I wanted to. But I think, yeah,                             |
+| 01:13:01   | launch [[Audio Hijack]] and hijack the live stream if I wanted to. But I think, yeah,                             |
 | 01:13:08   | I think all these were just website links. And it was just absolutely an exercise in                          |
 | 01:13:15   | ridiculousness. But it was fun to do and to see all the, you know, I took all the artwork for                 |
 | 01:13:21   | the different shows and made those, you know, for the buttons and everything. And it just makes               |

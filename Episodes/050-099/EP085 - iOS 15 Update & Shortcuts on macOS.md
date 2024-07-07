@@ -945,7 +945,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 35:56      | If the text is this, do that.                                      |
 | 35:57      | If the text is this, do that.                                      |
 | 35:58      | Sure, if it's focus, then open the focus outline                   |
-| 36:03      | and turn on audio hijack and like that kind of stuff.              |
+| 36:03      | and turn on [[Audio Hijack]] and like that kind of stuff.              |
 | 36:07      | Exactly, yeah, yeah.                                               |
 | 36:09      | And I'm not nesting my if statements here                          |
 | 36:14      | because nested if statements are hard to read                      |

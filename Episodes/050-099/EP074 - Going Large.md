@@ -526,7 +526,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 38:09      | do that. I've got some other methods of doing things, which we'll get to later in the show.               |
 | 38:13      | But the multi action for people who are just starting out and going, okay, so then I would                |
 | 38:17      | press this button, this button, this button. Well, it's easier than typing command space,                 |
-| 38:22      | Safari command space, audio hijack, command space. What was that third application that                   |
+| 38:22      | Safari command space, [[Audio Hijack]], command space. What was that third application that                   |
 | 38:28      | I needed? Oh, yeah, notes or something like that, you know, you don't need to think you                   |
 | 38:33      | don't need to do the typing, you just press, you know, you could have three buttons for                   |
 | 38:36      | that or you could just have one button that opens all three things. So, you know, that's                  |
@@ -696,7 +696,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 53:04      | Because I manually switched to a profile. And so now I'm in my podcasting profile. So                     |
 | 53:08      | I pick, do I want automators, nested folders, iOS today, or other, you know, the very creatively          |
 | 53:13      | named for whenever I'm guessing on things. Well, I'm doing automators. Well, now I've                     |
-| 53:16      | got, you know, our table link, I've got our zoom link, audio hijack, you know, finder,                    |
+| 53:16      | got, you know, our table link, I've got our zoom link, [[Audio Hijack]], you know, finder,                    |
 | 53:22      | you know, Google Drive, the Relay FMC MS where ads are overcast for uploading things,                    |
 | 53:28      | forecast, lips in, etc. And then when I'm done, I can just go back to my default profile.                 |
 | 53:33      | But that's, I've chosen to go here. And I know that's what I'm doing right now. Therefore,                |
@@ -874,14 +874,14 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:08:35   | And so instead of pressing command space and typing something, I pressed the key, the,                    |
 | 01:08:38   | the Stream Deck button to open the folder. And then I pressed this button to open that                    |
 | 01:08:41   | up and this button to open that up and this button to open that up. And I would skip one                  |
-| 01:08:45   | because, oh, I don't need audio hijack just yet. I need audio hijack in a minute. And                     |
+| 01:08:45   | because, oh, I don't need [[Audio Hijack]] just yet. I need [[Audio Hijack]] in a minute. And                     |
 | 01:08:49   | things like that. And that's just, you know, it's a little bit silly in hindsight, looking                |
 | 01:08:53   | back at that code for us. Why did you do that? But the reality of it is, is I was thinking                |
 | 01:08:58   | based on the way I was working and I needed to just take a little while and look at the                   |
 | 01:09:02   | opportunities for improvement. And I still have all of those buttons for the individual                   |
 | 01:09:07   | applications because I used them as an application switcher now. So, you know, I've pressed my            |
-| 01:09:12   | setup button for automators. But guess what? If I want audio hijack to pop to the front,                  |
-| 01:09:17   | I just press the audio hijack button and it pops to the front. Or I've, you know, and                     |
+| 01:09:12   | setup button for automators. But guess what? If I want [[Audio Hijack]] to pop to the front,                  |
+| 01:09:17   | I just press the [[Audio Hijack]] button and it pops to the front. Or I've, you know, and                     |
 | 01:09:22   | I have a Safari button and a zoom button. I actually have two zoom buttons, one to join                   |
 | 01:09:26   | the automators meeting every time we record and another one to just activate zoom so that,                |
 | 01:09:34   | you know, I can see and I can make sure that zoom is recording as well and things like that.              |
@@ -1094,12 +1094,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:26:55   | That's how I record my iPhone or my iPad, because you get much better resolution. I'm                     |
 | 01:27:00   | using the the menu action from [[Keyboard Maestro]]. But then I have another button below to start            |
 | 01:27:06   | recording. And what this does is it clicks the recording button in quick time, as it                      |
-| 01:27:12   | knows what that looks like. So it looks for that. And then it activates audio hijack,                     |
+| 01:27:12   | knows what that looks like. So it looks for that. And then it activates [[Audio Hijack]],                     |
 | 01:27:17   | and it clicks the recording button there. And this means that I get two recordings at                     |
 | 01:27:23   | the same time, because I realised at one point I've recorded everything in in quick                       |
-| 01:27:27   | time. And I'd forgotten to press the button in audio hijack or vice versa. And I always                   |
+| 01:27:27   | time. And I'd forgotten to press the button in [[Audio Hijack]] or vice versa. And I always                   |
 | 01:27:32   | record a backup of my audio. Perhaps it's a weird paranoia thing that the audio that                      |
-| 01:27:36   | comes out of audio hijack tends to be better, in my case. But you know, I've sometimes had                |
+| 01:27:36   | comes out of [[Audio Hijack]] tends to be better, in my case. But you know, I've sometimes had                |
 | 01:27:40   | it where I've got the audio and I don't have the video or I've got the video and I don't                  |
 | 01:27:43   | have the audio. And you know, it's it's just a pain when that happens. And so this way,                   |
 | 01:27:48   | you know, I've got buttons that just do things for me. This genuinely does make my life easier,           |

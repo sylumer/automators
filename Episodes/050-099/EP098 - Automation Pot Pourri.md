@@ -1418,7 +1418,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 57:09      | So when we start recording,                                           |
 | 57:11      | I save the current timestamp into a variable                          |
 | 57:15      | through [[Keyboard Maestro]] and that macro starts                        |
-| 57:17      | the recording in audio hijack as well.                                |
+| 57:17      | the recording in [[Audio Hijack]] as well.                                |
 | 57:20      | And I've got another one which gets the current timestamp             |
 | 57:23      | and that's hooked up to a couple of things,                           |
 | 57:24      | a keyboard shortcut                                                   |

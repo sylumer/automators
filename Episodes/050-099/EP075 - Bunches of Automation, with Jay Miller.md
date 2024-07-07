@@ -739,7 +739,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:05:18   | which closes Dropbox and CloudMounter, which is, you know, all the little big bandwidth consuming        |
 | 01:05:25   | things. It closes Logic, Final Cut, Skype, Zoom, Dropbox, and my email client. It sets my do not         |
 | 01:05:32   | disturbed on, it changes my audio inputs and outputs to my Focusrite Scarlet and it opens up             |
-| 01:05:39   | Audio Hijack and triggers a [[Keyboard Maestro]] snippet that says, Hey, look at Audio Hijack and            |
+| 01:05:39   | [[Audio Hijack]] and triggers a [[Keyboard Maestro]] snippet that says, Hey, look at [[Audio Hijack]] and            |
 | 01:05:47   | select the image that says that podcast name. And then from there, when I'm done recording,              |
 | 01:05:55   | I hit close that bunch. And when I close it, it has a whole other set of instructions like              |
 | 01:06:01   | reactivate Dropbox, open up the Dropbox request URL, and then also open up Patreon so I can send the     |

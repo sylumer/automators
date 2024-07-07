@@ -836,9 +836,9 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:14:02   | want anything weird happening with your computer while you're trying to get a good recording,            |
 | 01:14:06   | but then you'd forget to turn it back on afterwards. Well, now, I think what I would                     |
 | 01:14:10   | probably do is just trigger this off of a focus mode change and say, well, if I go into podcasting mode. |
-| 01:14:17   | What I would do is I would trigger this with Audio Hijack, because Audio Hijack has the option           |
+| 01:14:17   | What I would do is I would trigger this with [[Audio Hijack]], because [[Audio Hijack]] has the option           |
 | 01:14:25   | to run scripts for things, and that can include shortcuts. So, you can set up automations using          |
-| 01:14:33   | Audio Hijack. So, when Audio Hijack starts recording, turn off Time Machine or stop Time                 |
+| 01:14:33   | [[Audio Hijack]]. So, when [[Audio Hijack]] starts recording, turn off Time Machine or stop Time                 |
 | 01:14:39   | Machine, and when it stops recording, start Time Machine. There you go. Nice and simple.                 |
 | 01:14:45   | Well, you know, nice work, Apple. Like I said, they didn't rebuild the world of automation this          |
 | 01:14:52   | year, but they made it a lot easier in a lot of ways. Hopefully, some of the things we talked            |

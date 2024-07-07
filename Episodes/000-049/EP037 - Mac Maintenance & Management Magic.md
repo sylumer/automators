@@ -657,10 +657,10 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 53:01      | I actually plug my Zoom H4n Pro into my Mac, and that runs a [[Keyboard Maestro]] macro that                |
 | 53:08      | opens a bunch of windows for me. But I don't yet have one that says, hey, when this unplugged,          |
 | 53:14      | close all these windows for me. But at the end of the day, I have a macro that will go through          |
-| 53:19      | and it will close things like Skype and audio hijack unless I'm actively using my computer.             |
+| 53:19      | and it will close things like Skype and [[Audio Hijack]] unless I'm actively using my computer.             |
 | 53:24      | So that's the trick, making sure that you're not actively using it because I have podcasted at          |
 | 53:29      | odd hours of the day before. And there would be nothing worse than being in the middle of a recording   |
-| 53:33      | and then suddenly [[Keyboard Maestro]] goes, bye bye audio hijack. And you're there going, no,              |
+| 53:33      | and then suddenly [[Keyboard Maestro]] goes, bye bye [[Audio Hijack]]. And you're there going, no,              |
 | 53:37      | we just lost half of an episode. Yeah, yeah. And that idea of a setup for shutdown is a good one.       |
 | 53:46      | Like I have that I have a button that does that too. And just kind of like clearing the decks           |
 | 53:52      | for your computer. This is your work device. Why not have it automatically kind of clean                |

@@ -235,7 +235,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 09:23      | that was down here, actually I need to move that six actions up, which is one of those                 |
 | 09:30      | things that I struggled with and I found with Make, you can sort of just like break the                |
 | 09:35      | connections between things and then move it around.                                                    |
-| 09:38      | It's a little bit like audio hijack, basically, right?                                                 |
+| 09:38      | It's a little bit like [[Audio Hijack]], basically, right?                                                 |
 | 09:40      | Yeah.                                                                                                  |
 | 09:41      | Like it's got that same sort of like modular flow to it.                                               |
 | 09:43      | Now, as we're talking about this, I'm like, oh, that'd be great for shortcuts.                         |
@@ -418,7 +418,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 18:33      | more time on our own stuff so that we don't look like we're second-class citizens on our               |
 | 18:38      | own platform.                                                                                          |
 | 18:39      | Um, but yeah, I mean, and, and full props to, uh, apps like Rogue Amoeba, uh, or they                  |
-| 18:44      | put out audio hijack, obviously with some limited shortcuts of work, but then Sound                    |
+| 18:44      | put out [[Audio Hijack]], obviously with some limited shortcuts of work, but then Sound                    |
 | 18:47      | Source came out last week, an update that has like, I don't know, like more than a dozen               |
 | 18:52      | different like shortcuts options, which is great.                                                      |
 | 18:55      | I, I'm a huge fan of this.                                                                             |
@@ -920,7 +920,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 51:12      | and lets you enter some sort of information about what happened. Otherwise, it uses a text action      |
 | 51:18      | which grabs the shortcut input. It then gets the contents. In my case, this is an alteration I've      |
 | 51:24      | made. It gets the contents of a folder. I have a podcast, a folder on my drive called in progress,     |
-| 51:30      | which is basically where audio hijack stores anything that's recording right now. And then             |
+| 51:30      | which is basically where [[Audio Hijack]] stores anything that's recording right now. And then             |
 | 51:35      | it filters the contents of that folder using two criteria. First, that the file extension is wave      |
 | 51:42      | because that's what I record in. And second, that the creation date is within the last six hours.      |
 | 51:47      | The number there is somewhat arbitrary. I don't think I have many podcasts that go,                    |
@@ -1036,11 +1036,11 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:01:09   | Pro and numerous other things, just saving a text file somewhere. But one thing that occurs to me      |
 | 01:01:15   | is if people are using Timery, it has a format duration option, which might be something that's        |
 | 01:01:23   | useful for people instead of getting something else. And in theory, if I were tweaking this a          |
-| 01:01:29   | little bit more to my specific setup, what I would do now is use something like audio hijacks own      |
+| 01:01:29   | little bit more to my specific setup, what I would do now is use something like [[Audio Hijack]]s own      |
 | 01:01:35   | automation process to get like, hey, just tell me what the current time on this recording is,          |
 | 01:01:40   | right? But again, if you're making it portable as possible, you can't depend on having third           |
 | 01:01:44   | parties in there. Yeah, I have to say, I did not think about getting the current time out of the       |
-| 01:01:48   | audio hijack one. Oh my gosh, how did I not think about that? That's because it didn't exist when      |
+| 01:01:48   | [[Audio Hijack]] one. Oh my gosh, how did I not think about that? That's because it didn't exist when      |
 | 01:01:52   | you built it. Yeah, that too. So my day job is writing PHP and JavaScript. The project that I          |
 | 01:02:00   | work on at work is a Laravel application with a React front end. So JavaScript to me is not a          |
 | 01:02:07   | problem facing with [[AppleScript\|AppleScripts]]. I hate JavaScript. Well, you come to me with Apple                  |

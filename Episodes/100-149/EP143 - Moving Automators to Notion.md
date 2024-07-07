@@ -1098,7 +1098,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:11   | It's called start recording and timestamp.                                                           |
 | 01:05:14   | Whoa.                                                                                                |
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
-| 01:05:21   | So I use this and what it does activates audio hijack and it starts the recording and it             |
+| 01:05:21   | So I use this and what it does activates [[Audio Hijack]] and it starts the recording and it             |
 | 01:05:25   | sets the timestamp in the [[Keyboard Maestro]] macro.                                                    |
 | 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |

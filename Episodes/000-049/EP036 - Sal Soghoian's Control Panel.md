@@ -888,7 +888,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 57:45      | Yeah.                                                                                                    |
 | 57:46      | But we have all these things that we're doing while we're podcasting, like add this link                 |
 | 57:50      | to the show notes or make a note of this edit point.                                                     |
-| 57:53      | This is all stuff that could be done by AppleScript because I think Audio Hijack has Apple              |
+| 57:53      | This is all stuff that could be done by AppleScript because I think [[Audio Hijack]] has Apple              |
 | 57:57      | script support and a lot of the other apps that we do have at the very least APIs that                   |
 | 58:01      | we can connect to.                                                                                       |
 | 58:03      | Yeah, we need something that can grab a timestamp out of our various recording apps and drop             |

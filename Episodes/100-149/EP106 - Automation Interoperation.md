@@ -1198,13 +1198,13 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 43:24      | search for everywhere that I have used                            |
 | 43:26      | this word or that word,                                           |
 | 43:28      | you know, like where did I, you know                              |
-| 43:30      | try and do audio hijack stuff? Cool.                              |
-| 43:32      | I've decided that everything in audio                             |
-| 43:34      | hijack wise is going to be done through a snippet                 |
+| 43:30      | try and do [[Audio Hijack]] stuff? Cool.                              |
+| 43:32      | I've decided that everything in [[Audio Hijack]]-wise                             |
+| 43:34      | is going to be done through a snippet                 |
 | 43:36      | now so that it's all going to be done the same                    |
 | 43:38      | way across every                                                  |
 | 43:40      | podcast. Great. So now                                            |
-| 43:42      | I just find everywhere if you used audio hijack                   |
+| 43:42      | I just find everywhere if you used [[Audio Hijack]]                   |
 | 43:44      | replace that all with a sub macro very, very                      |
 | 43:46      | quickly and done.                                                 |
 | 43:48      | So yeah, that certainly has saved                                 |
@@ -1286,11 +1286,11 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 46:20      | I just think it's                                                 |
 | 46:22      | them getting shortcut support for SoundSource                     |
 | 46:24      | to me was almost more exciting to me                              |
-| 46:26      | than them getting it for Audio Hijack.                            |
+| 46:26      | than them getting it for [[Audio Hijack]].                            |
 | 46:28      | Yeah, I understand                                                |
 | 46:30      | why they released,                                                |
 | 46:32      | you know, the                                                     |
-| 46:34      | Audio Hijack on first podcasters                                  |
+| 46:34      | [[Audio Hijack]] on first podcasters                                  |
 | 46:36      | as a group tend to be                                             |
 | 46:38      | more familiar with                                                |
 | 46:40      | techiness and creating                                            |

@@ -528,7 +528,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 37:33      | problem with the image. There is another solution to this problem, which I'd like to recommend for      |
 | 37:39      | you and for the audience, because this is what take control uses to put like one pixel gray borders     |
 | 37:45      | around all of the images in the books. And that's retro batch. So retro batch is kind of like,          |
-| 37:51      | it looks the interface looks a little bit like audio hijack for folks who've seen that where            |
+| 37:51      | it looks the interface looks a little bit like [[Audio Hijack]] for folks who've seen that where            |
 | 37:55      | you've got square blocks going across, which you sort of link to each other. It's a little bit sort     |
 | 37:59      | of keyboard, my story shortcuts. But essentially, you have like the blocks, which say, Hey, like,       |
 | 38:06      | read this, do this thing, do that thing. And here's your new image. And there's a bunch of stuff        |

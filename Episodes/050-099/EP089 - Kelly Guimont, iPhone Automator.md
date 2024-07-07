@@ -422,11 +422,11 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 27:27      | and shows up on daily observations with me sometimes over at Mac observer. And so he had he              |
 | 27:34      | put together this library of [[Keyboard Maestro]] macros. And part of what they do is make it so             |
 | 27:44      | that when so you can be capturing, but then when you actually hit record, it resets the clock on         |
-| 27:51      | audio hijack back to zero on your session. So that and then once you do that, and like for me,           |
+| 27:51      | [[Audio Hijack]] back to zero on your session. So that and then once you do that, and like for me,           |
 | 27:59      | for example, the one that I do, it resets everything to zero. And then it invokes Farrago                 |
 | 28:06      | Farrago from audio also from from Rogue Amoeba to play the intro theme music for daily observations.          |
 | 28:14      | And then I have a plain text file. And when we switch topics, I have a keyboard shortcut                 |
-| 28:20      | that input that just scoops the time out of audio hijack and drops it in my text file,                   |
+| 28:20      | that input that just scoops the time out of [[Audio Hijack]] and drops it in my text file,                   |
 | 28:24      | so that I have all the chapter notes ready to go from the moment that we're done.                        |
 | 28:29      | And then as soon as we're done recording, there are no edits on daily observations,                      |
 | 28:35      | it's very run and gun. So I play the intro music live, we have our conversation, I play the outro        |
@@ -441,7 +441,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 29:30      | together very quickly. So that's one that I use a lot. And Dave wrote this up for the web,               |
 | 29:35      | he's got a post over at Mac Observer sharing the scripts. And I'm looking through them. I see a          |
 | 29:39      | few changes I'm going to make, but I am completely cribbing this from you guys. Very smart pulling       |
-| 29:46      | the start time out of audio hijack. That's the trick. And that's the bit I've always struggled           |
+| 29:46      | the start time out of [[Audio Hijack]]. That's the trick. And that's the bit I've always struggled           |
 | 29:51      | with. What I ended up doing was that my macro for something similar was taking screenshots and           |
 | 29:57      | cropping them down. I mean, it worked. I had all the information there. So I could go back and           |
 | 30:04      | modify it later, but it really felt like I was doing it wrong. I can't believe I didn't find this        |

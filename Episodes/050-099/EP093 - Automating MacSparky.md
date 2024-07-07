@@ -1053,7 +1053,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:00:28   | And I use the feature from the menu bar where you can click Save Window Layout Snapshot.               |
 | 01:00:33   | I found a lot of the time Ignore Obstructed Windows is actually not what I want because                |
 | 01:00:39   | my windows somewhat overlap.                                                                           |
-| 01:00:41   | Like right now, Audio Hijack is hovering over [[Slack]].                                                   |
+| 01:00:41   | Like right now, [[Audio Hijack]] is hovering over [[Slack]].                                                   |
 | 01:00:45   | But I still want the [[Slack]] window to be positioned right where it is.                                  |
 | 01:00:49   | And so if I untick Ignore Obstructed Windows and [[Slack]] pops up into that list along with               |
 | 01:00:54   | a whole bunch of other apps.                                                                           |
@@ -1077,10 +1077,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:02:02   | Honestly, for me, a lot of the stuff with Bunch is the fact that it's just text.                       |
 | 01:02:08   | So I don't have the extra visual thing of open app.                                                    |
 | 01:02:14   | I can just see that it's opening Safari and it's opening specifically a new window in                  |
-| 01:02:19   | Safari using [[Keyboard Maestro]] and it opens Zoom and it opens Audio Hijack and I've just                |
-| 01:02:25   | got a list there and it means if I want to search for all the things that open Audio                   |
-| 01:02:29   | Hijack, I can very, very easily find it and I'm not also finding things that have got                  |
-| 01:02:35   | Audio Hijack in the name and so on.                                                                    |
+| 01:02:19   | Safari using [[Keyboard Maestro]] and it opens Zoom and it opens [[Audio Hijack]] and I've just                |
+| 01:02:25   | got a list there and it means if I want to search for all the things that open [[Audio Hijack]],                  |
+| 01:02:29   | I can very, very easily find it and I'm not also finding things that have got                  |
+| 01:02:35   | [[Audio Hijack]] in the name and so on.                                                                    |
 | 01:02:37   | So I do a lot of things with [[Keyboard Maestro]] as well.                                                 |
 | 01:02:41   | I just find for switching between statuses or context, I like Bunch just because it's                  |
 | 01:02:49   | my menu bar of I am in this mode, I'm doing this thing, okay, I've done it and now the                 |
@@ -1096,10 +1096,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:03:31   | on what you're doing, it was a bit complicated.                                                        |
 | 01:03:33   | They now specifically have macros as subroutines, which makes this thing so much more powerful         |
 | 01:03:40   | because I use subroutines in every single one of my podcasting Bunches because I have                  |
-| 01:03:45   | Audio Hijack popped open.                                                                              |
-| 01:03:48   | And I then have it press the keyboard shortcut to, well, it closes all the Audio Hijack windows        |
+| 01:03:45   | [[Audio Hijack]] popped open.                                                                              |
+| 01:03:48   | And I then have it press the keyboard shortcut to, well, it closes all the [[Audio Hijack]] windows        |
 | 01:03:53   | and then presses Command 1 to give me the overview of all the different kinds of recordings            |
-| 01:03:58   | that I could do with Audio Hijack.                                                                     |
+| 01:03:58   | that I could do with [[Audio Hijack]].                                                                     |
 | 01:04:01   | And things like that are sub-bunches for me.                                                           |
 | 01:04:04   | Well, they're not sub-bunches, they're snippets in Bunch and they would be sub-routines in             |
 | 01:04:09   | [[Keyboard Maestro]].                                                                                      |

@@ -393,7 +393,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 27:01      | when I start recording an episode, that Safari is right in front of me with the tabs that                |
 | 27:05      | I need because it's created a new Safari window and put everything into those tabs. And all              |
 | 27:11      | the other windows that I need are in the places that they always are so that I'm not usually             |
-| 27:15      | going, wait, where did I put audio hijack again? It's hiding somewhere. Yeah, I do the                   |
+| 27:15      | going, wait, where did I put [[Audio Hijack]] again? It's hiding somewhere. Yeah, I do the                   |
 | 27:21      | same thing. It's funny how we've harnessed [[Moom]] to turn into a minion of our automation.                 |
 | 27:29      | And it's not that hard because you can set a keyboard shortcut to any layout and then                    |
 | 27:32      | you just trigger a keyboard shortcut in it and you're good to go. Yes, yes, exactly.                     |
@@ -404,9 +404,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 28:00      | inside it. Yeah.                                                                                         |
 | 28:02      | You know, one of the things I'm doing right now, which happened at the start of this episode             |
 | 28:06      | is I ran a [[Keyboard Maestro]] macros to start recording, to actually start the recording                   |
-| 28:10      | of the episode. And that saved a time stamping [[Keyboard Maestro]]. And it also switched audio              |
-| 28:16      | hijack and then did the keyboard shortcut to start the recording, which is Command R.                    |
-| 28:22      | And you know, there's a new version of audio hijack coming with scripting and I can't wait               |
+| 28:10      | of the episode. And that saved a time stamping [[Keyboard Maestro]]. And it also switched [[Audio Hijack]]             |
+| 28:16      | and then did the keyboard shortcut to start the recording, which is Command R.                    |
+| 28:22      | And you know, there's a new version of [[Audio Hijack]] coming with scripting and I can't wait               |
 | 28:25      | for that. But for the time being, doing the recording or just starting the recording                     |
 | 28:32      | through keyboard shortcut, that's pretty powerful. But I wouldn't be able to do that in shortcuts        |
 | 28:36      | if it wasn't for [[BetterTouchTool]].                                                                      |
@@ -864,7 +864,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:07:39   | check which files I'm editing, thanks to the property, which is the title of the window,                 |
 | 01:07:45   | I can make different magic happen. And that was one of those things where, yeah,                         |
 | 01:07:52   | I really had one puzzle piece fall into place and realised, wow, yeah, this is incredibly                |
-| 01:07:59   | powerful. Because I was able to reuse that with audio hijack. Because audio hijack by session has        |
+| 01:07:59   | powerful. Because I was able to reuse that with [[Audio Hijack]]. Because [[Audio Hijack]] by session has        |
 | 01:08:06   | the name. And so if it's automators in the name, it's now going to do automators magic. Whereas          |
 | 01:08:12   | if it says nested folders, it'll do nested folders magic and so on and so forth. So it's                 |
 | 01:08:16   | mostly been [[Keyboard Maestro]] to the rescue. But there has been a little help with iTerm as well.         |

@@ -219,8 +219,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 11:00      | And one example, which I think people will be quite interested in is some of the automators              |
 | 11:05      | actions that I have.                                                                                     |
 | 11:07      | So I have a folder in [[Keyboard Maestro]] for all of my automators, macros.                                 |
-| 11:13      | And I have a folder in Dropbox, which is where all of the audio for the show gets saved automatically.   |
-| 11:19      | I've got audio hijacks set up when I'm using my automators session in audio hijack, then                 |
+| 11:13      | And I have a folder in [[Dropbox]], which is where all of the audio for the show gets saved automatically.   |
+| 11:19      | I've got [[Audio Hijack]] set up when I'm using my Automators session in [[Audio Hijack]], then                 |
 | 11:25      | it saves it into this folder.                                                                            |
 | 11:28      | And [[Keyboard Maestro]] watches that folder, and it waits.                                                  |
 | 11:31      | And then it pops up and says, hey, so what's the episode number for this?                                |

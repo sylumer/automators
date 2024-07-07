@@ -1740,7 +1740,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:50   | One of the things that springs to mind, of course,                |
 | 01:15:52   | is Rogue Amoeba recently added shortcut support                   |
 | 01:15:55   | and a new scripting support with custom JavaScript,               |
-| 01:15:59   | I believe it was for audio hijack.                                |
+| 01:15:59   | I believe it was for [[Audio Hijack]].                                |
 | 01:16:02   | Obviously, Omni Group have got custom JavaScript,                 |
 | 01:16:05   | [[Drafts]] has got custom JavaScript.                                 |
 | 01:16:07   | If you get nerdy, you can write [[Obsidian]] plugins.                 |
@@ -1882,7 +1882,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:21:40   | I vaguely remember playing with this a few times.                 |
 | 01:21:43   | It was very much a kind of general purpose,                       |
 | 01:21:47   | scripted visual scripting tool for graphics.                      |
-| 01:21:52   | And it had nodes kind of like audio hijack                        |
+| 01:21:52   | And it had nodes kind of like [[Audio Hijack]]                        |
 | 01:21:54   | and you'd connect them together.                                  |
 | 01:21:56   | And the logic of each node would direct the data                  |
 | 01:22:01   | to a different node and you could have nested compositions.       |
@@ -2157,7 +2157,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:34:28   | And even if you search, it's like run JavaScript.                 |
 | 01:34:31   | For instance, I typed in earlier                                  |
 | 01:34:33   | while we were talking about that.                                 |
-| 01:34:34   | And this, I've already got like one for audio hijack,             |
+| 01:34:34   | And this, I've already got like one for [[Audio Hijack]],             |
 | 01:34:36   | one for the web, one for JavaScript for automation.               |
 | 01:34:42   | Hopefully there will just be so many options                      |
 | 01:34:45   | that they'll have to organise this better.                        |

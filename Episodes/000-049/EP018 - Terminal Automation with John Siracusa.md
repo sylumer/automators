@@ -1061,7 +1061,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 55:59      | instead of 48,000, which they discovered today depends on the port I plug it into as to whether          |
 | 56:03      | or not it knows which frequency it should be recording at.                                               |
 | 56:10      | And so it walks me through the steps and then at the end, it opens clip and Skype and everything         |
-| 56:15      | to make sure that I'm ready for recording and opens audio hijack.                                        |
+| 56:15      | to make sure that I'm ready for recording and opens [[Audio Hijack]].                                        |
 | 56:18      | So I have some more automated it, but just like you, John, I'm hesitant enough that I                    |
 | 56:25      | could theoretically make this 100% automatic, but I'm just hesitant enough that I don't                  |
 | 56:31      | want to do that.                                                                                         |
@@ -1073,7 +1073,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 56:40      | just going to scramble my world.                                                                         |
 | 56:42      | And in practice, good Mac applications, remember your window positions.                                  |
 | 56:47      | Like that's, you know, Skype is not a good Mac application as we all know.                               |
-| 56:53      | It is the only window that I have to move audio hijack is always in the same place.                      |
+| 56:53      | It is the only window that I have to move [[Audio Hijack]] is always in the same place.                      |
 | 56:57      | When I, you know, when I launch it, it opens the podcasting, my podcasting setup, like                   |
 | 57:01      | I don't have to touch it.                                                                                |
 | 57:03      | My, you know, the thing that has my show notes is in my web browser, that's window that's                |
@@ -1082,7 +1082,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 57:13      | They're, you know, in the same spots on either like a drag thing doc or on my desktop or in              |
 | 57:18      | the regular doc, like things stay where I put them.                                                      |
 | 57:19      | So I arranged my workspace.                                                                              |
-| 57:21      | I've been lucky enough not to have a situation where what if you have to use audio hijack                |
+| 57:21      | I've been lucky enough not to have a situation where what if you have to use [[Audio Hijack]]                |
 | 57:26      | for two different podcasts with two very different setups, and then you have to pick                     |
 | 57:29      | which one or what if you have to want this applications or windows range this way for                    |
 | 57:33      | this thing or this way for that thing, then I might feel like maybe I have to get into                   |

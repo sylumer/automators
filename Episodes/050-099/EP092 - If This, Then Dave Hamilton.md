@@ -1276,7 +1276,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 53:57      | here as it were, you know, when I, when I'm getting ready to record a podcast, I need                                                                                    |
 | 54:04      | to launch a bunch of apps.                                                                                                                                               |
 | 54:05      | I actually use Logic Pro as my mixer now.                                                                                                                                |
-| 54:08      | I have an app separate from Logic called Audio Hijack that I used to record.                                                                                             |
+| 54:08      | I have an app separate from Logic called [[Audio Hijack]] that I used to record.                                                                                             |
 | 54:11      | I know it sounds crazy, but like this is, it works better this way.                                                                                                      |
 | 54:14      | I get files easier.                                                                                                                                                      |
 | 54:15      | And I have, you know, various other things like our chapters document that I launched                                                                                    |
@@ -1376,9 +1376,9 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 59:15      | like podcasting preparation and I've got preparing for automators and nested folders                                                                                     |
 | 59:19      | and stuff there and that opens one series of apps.                                                                                                                       |
 | 59:21      | And I've got a recording section with record automators, which is currently active and that                                                                              |
-| 59:26      | does things like it opens audio hijack and it even presses, I think it's command one.                                                                                    |
+| 59:26      | does things like it opens [[Audio Hijack]] and it even presses, I think it's command one.                                                                                    |
 | 59:31      | I don't even remember anymore to get you to the session view so that every time I launch                                                                                 |
-| 59:36      | audio hijack, that's what it does.                                                                                                                                       |
+| 59:36      | [[Audio Hijack]], that's what it does.                                                                                                                                       |
 | 59:38      | It calls this tiny micro snippet that just does that for me, but it means that I always                                                                                  |
 | 59:42      | get exactly what I need when I'm looking to do things and it makes sure to quit certain                                                                                  |
 | 59:47      | pesky applications that I might have open that I don't want to open for that sort of                                                                                     |
@@ -1912,7 +1912,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:28:07   | left side or the right side or whatever?                                                                                                                                 |
 | 01:28:10   | You know, I don't, because I use Stay from Cordless Dog, every app that I have has its                                                                                   |
 | 01:28:18   | place on my screen and it doesn't matter what my workflow is.                                                                                                            |
-| 01:28:22   | Like I always know that, you know, Audio Hijack is going to be over there, Mail is going to                                                                              |
+| 01:28:22   | Like I always know that, you know, [[Audio Hijack]] is going to be over there, Mail is going to                                                                              |
 | 01:28:26   | be over here if it's running, Safari is going to be here, those sorts of things.                                                                                         |
 | 01:28:29   | So I use Stay from Cordless Dog to put things in their place when it launches, whether I                                                                                 |
 | 01:28:36   | launch it manually or [[Keyboard Maestro]] does it as part of its setup.                                                                                                     |

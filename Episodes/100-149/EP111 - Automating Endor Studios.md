@@ -1329,7 +1329,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:18:37   | If you're a podcaster, musician, or just someone who listens to audio on their Mac, Rogue                 |
 | 01:18:41   | Amiga can make your life better.                                                                          |
 | 01:18:43   | Whatever you want to do with audio is a very good bet they have a tool to help you.                       |
-| 01:18:47   | With audio hijack, you can record any audio.                                                              |
+| 01:18:47   | With [[Audio Hijack]], you can record any audio.                                                              |
 | 01:18:50   | feedback gives you extremely powerful audio routing without needing cables or mixers.                     |
 | 01:18:54   | And sound source is the sound control that should be built into Mac OS, but isn't.                        |
 | 01:18:59   | Honestly, I love all of those three and everything else that I've used from Rogue Amiga.                  |
