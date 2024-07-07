@@ -3027,6 +3027,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     this.isClosed = new Promise((resolve) => {
       this.markClosed = resolve;
     });
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.appHelper = new AppHelper(args.app);
     this.settings = args.settings;
     this.logger = Logger.of(this.settings);
@@ -3770,6 +3771,7 @@ var BacklinkModal = class extends import_obsidian5.SuggestModal {
       this.markClosed = resolve;
     });
     this.navQueue = Promise.resolve();
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.vaultRootPath = normalizePath(
       this.app.vault.adapter.basePath
     );
@@ -4170,6 +4172,7 @@ function stampMatchType(item, queries, isNormalizeAccentsDiacritics) {
 var FolderModal = class extends import_obsidian6.SuggestModal {
   constructor(app, settings) {
     super(app);
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.appHelper = new AppHelper(app);
     this.settings = settings;
     this.setHotkeys();
@@ -4308,6 +4311,7 @@ var GrepModal = class extends import_obsidian7.SuggestModal {
       this.markClosed = resolve;
     });
     this.navQueue = Promise.resolve();
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.suggestions = globalInternalStorage2.items;
     this.vaultRootPath = normalizePath(
       this.app.vault.adapter.basePath
@@ -4732,6 +4736,7 @@ var HeaderModal = class extends import_obsidian8.SuggestModal {
     this.hitItems = [];
     /** !Not work correctly in all cases */
     this.unsafeSelectedIndex = 0;
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.limit = 1e3;
     this.appHelper = new AppHelper(app);
     this.settings = settings;
@@ -4996,9 +5001,10 @@ var globalInternalStorage3 = {
 var InFileModal = class extends import_obsidian9.SuggestModal {
   constructor(app, settings, initialLeaf) {
     super(app);
-    /** ⚠Not work correctly in all cases */
+    /** !Not work correctly in all cases */
     this.unsafeSelectedIndex = 0;
     this.suggestions = [];
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.appHelper = new AppHelper(app);
     this.settings = settings;
     this.logger = Logger.of(this.settings);
@@ -5329,6 +5335,7 @@ var LinkModal = class extends import_obsidian10.SuggestModal {
       this.markClosed = resolve;
     });
     this.navQueue = Promise.resolve();
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.vaultRootPath = normalizePath(
       this.app.vault.adapter.basePath
     );
@@ -5675,6 +5682,7 @@ function stampMatchType2(item, queries, isNormalizeAccentsDiacritics) {
 var MoveModal = class extends import_obsidian11.SuggestModal {
   constructor(app, settings) {
     super(app);
+    this.modalEl.addClass("another-quick-switcher__modal-prompt");
     this.appHelper = new AppHelper(app);
     this.settings = settings;
     this.setHotkeys();
