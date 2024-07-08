@@ -658,7 +658,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 50:23      | And I will turn them on with music and Ambify. And I have another one called I light show.               |
 | 50:32      | And the two of those will do if you are playing music, they will change the lights to the music.         |
 | 50:39      | So that you get you. Yeah. So every once in a while, I will turn my basement into a discotech            |
-| 50:44      | because that's a fun thing to do. I do something similar with an old airport express and my              |
+| 50:44      | because that's a fun thing to do. I do something similar with an old [[AirPort Express]] and my              |
 | 50:49      | Nanoleaf light panels on the wall, because I have the original Nanoleaf panels and the rhythm          |
 | 50:54      | module for those has got an auxin. So I don't have to play my music super loud. All I do is I            |
 | 51:00      | [[AirPlay]] to all of the destinations that I want to [[AirPlay]] to and set the volume of the airport           |
