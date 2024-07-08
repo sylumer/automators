@@ -223,7 +223,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 06:57      | would not be up to standard because I hadn't done that extra work.                                            |
 | 07:01      | So I definitely get what you mean there.                                                                      |
 | 07:03      | And it also keys into, I think, a very important, it's not a primary purpose of getting things                |
-| 07:10      | done, but I actually remember this fairly specifically, I'll humble Bragg who's having                        |
+| 07:10      | done, but I actually remember this fairly specifically, I'll humble brag who's having                        |
 | 07:14      | dinner with David and his wife, and we were talking about, you know, the ability to automate.                 |
 | 07:19      | And he waxed poetic about his days trying to create the ultimate Palm Pilot app for                           |
 | 07:24      | doing productivity and the challenge of like, he's always been very skeptical of these apps                   |
@@ -236,7 +236,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 07:50      | You need to trust that you're making good decisions.                                                          |
 | 07:52      | And so in the example of something like email, do you trust that robot to make the right decisions            |
 | 07:58      | for you?                                                                                                      |
-| 07:59      | If you use something like SaneBox, which can be a really great app for taking care of                         |
+| 07:59      | If you use something like [[SaneBox]], which can be a really great app for taking care of                         |
 | 08:03      | nuisance email and trying to have them in the compensatory muscles saying, well, we're                        |
 | 08:07      | going to give you a digest so you don't miss anything.                                                        |
 | 08:10      | But it's still ultimately, do you trust like not looking at that email teaspoon by teaspoon?                  |
@@ -245,7 +245,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 08:18      | Sure.                                                                                                         |
 | 08:19      | But the problem's not junk.                                                                                   |
 | 08:20      | It's the continuum.                                                                                           |
-| 08:21      | And that part, middle part of the curve of the stuff that's neither fission or foul,                          |
+| 08:21      | And that part, middle part of the curve of the stuff that's neither fiction or foul,                          |
 | 08:26      | that you need to sit there and then figure out what do I need to do.                                          |
 | 08:29      | So I do think there is a balance to be struck.                                                                |
 | 08:32      | But any kind of stuff related to what we used to call life hacks, it begins with listening                    |
