@@ -415,12 +415,12 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 28:13      | file, select all, copy, close that window, paste it into the first one. And if I do this                      |
 | 28:19      | nine times and I have all the readings in the right order, well, I mean, nothing screams                      |
 | 28:24      | automate me more than something like this, right? Where it's like, I need to flip the                         |
-| 28:28      | finder, I need to hit the up arrow once, I need to open this document when fishing opens,                     |
+| 28:28      | Finder, I need to hit the up arrow once, I need to open this document when fishing opens,                     |
 | 28:33      | I need to, and there's this weird thing where like, even if you just, even if you haven't                     |
-| 28:37      | changed anything in an audio file and vision, it will, it will act like it needs to be saved.                 |
+| 28:37      | changed anything in an audio file in [[Fission]], it will, it will act like it needs to be saved.                 |
 | 28:43      | So then you have to tell it that you don't want to save anything because nothing's really                     |
 | 28:46      | changed. So I've put all of that together. And so now I can hit one button on my stream                       |
-| 28:53      | deck. You know, I select the correct file in the finder, and it will just in sequence                         |
+| 28:53      | deck. You know, I select the correct file in the Finder, and it will just in sequence                         |
 | 28:59      | open these nine files and paste them all together. And I just watch it happen. And it amuses                  |
 | 29:04      | me every time. There is something to be said for an automation that takes a little time                       |
 | 29:09      | to finish. Yes, your computer screen is just flying. I've got some like that for some of                      |

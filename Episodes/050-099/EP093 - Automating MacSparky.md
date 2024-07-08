@@ -1124,8 +1124,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:05:20   | to what show, like whether it's Mac power users, automators, or focused, and then it                   |
 | 01:05:25   | opens, that's just open the fighter, opens the fighter to the exact folder where those                 |
 | 01:05:28   | files are saved.                                                                                       |
-| 01:05:30   | And then it opens that file in Fission, which is my, the editing app I use, and then it                |
-| 01:05:36   | resizes Fission very wide on my screen because when you edit audio, you want a wide view.              |
+| 01:05:30   | And then it opens that file in [[Fission]], which is my, the editing app I use, and then it                |
+| 01:05:36   | resizes [[Fission]] very wide on my screen because when you edit audio, you want a wide view.              |
 | 01:05:42   | And so it like, it does more like, cause you can do this also with shortcuts and we got                |
 | 01:05:47   | shortcuts on the Mac.                                                                                  |
 | 01:05:48   | You can say open Safari, put it on the left side and open pages and put on the right side.             |
