@@ -215,7 +215,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 06:46      | machine on DOS machine.                                                                                |
 | 06:50      | But I do have a background in degree in software engineering.                                          |
 | 06:54      | And right about that time I got into the Mac, I was a Windows user, I was actually a Windows           |
-| 06:58      | power user, I think up until I got into computer science and then I needed a Unix subsystem.           |
+| 06:58      | power user, I think up until I got into computer science and then I needed a [[Unix]] subsystem.           |
 | 07:06      | And at the time, it really didn't want to run Linux.                                                   |
 | 07:07      | So I jumped on a Mac, I opened up [[Alfred]] for the first time and away it went from there.               |
 | 07:11      | Yeah.                                                                                                  |

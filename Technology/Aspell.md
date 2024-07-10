@@ -6,7 +6,7 @@ creator:
 notetype: "technology"
 ---
 # Overview
-Aspell is a powerful spell checker utility for Unix-like systems, commonly used to check the spelling of text files. It can be used in various ways, including as a standalone tool or integrated into text editors. Aspell uses algorithms to compare words against a dictionary of correct spellings, highlighting or suggesting corrections for any misspelled words it finds. This can greatly improve the accuracy and professionalism of written content.
+Aspell is a powerful spell checker utility for [[Unix]]-like systems, commonly used to check the spelling of text files. It can be used in various ways, including as a standalone tool or integrated into text editors. Aspell uses algorithms to compare words against a dictionary of correct spellings, highlighting or suggesting corrections for any misspelled words it finds. This can greatly improve the accuracy and professionalism of written content.
 
 # Key Features
 - Aspell supports multiple languages, making it versatile for users of different linguistic backgrounds.

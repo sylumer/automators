@@ -170,7 +170,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 07:21      | But it's one of those things where it does just feel really, especially if you're trying              |
 | 07:25      | to search for a shortcut.                                                                             |
 | 07:28      | I searched for a shortcut that I use all the time, which is apps missing data for iOS today.          |
-| 07:35      | First of all, I get a Unix executable as the first result, David.                                     |
+| 07:35      | First of all, I get a [[Unix]] executable as the first result, David.                                     |
 | 07:40      | I actually don't know what this file is, nor do I actually know how to find it in [[Spotlight]].          |
 | 07:46      | If I hit return, I'm pretty certain it's going to execute it, so I don't actually want to             |
 | 07:49      | do that.                                                                                              |

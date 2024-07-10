@@ -365,7 +365,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 18:27      | Yes.                                                                                                    |
 | 18:28      | The terminal is one of those apps that I really enjoy using for many reasons.                           |
 | 18:33      | I think one of the things I enjoy the most, and it's simply working in Bash mostly on                   |
-| 18:38      | the terminal, the UNIX underpinnings, of course, of macOS 10.                                           |
+| 18:38      | the terminal, the [[Unix]] underpinnings, of course, of macOS 10.                                           |
 | 18:42      | That's what I use using the terminal app.                                                               |
 | 18:44      | There are other apps out there, but I stick with the default terminal app on OS 10 or                   |
 | 18:49      | macOS, I should say.                                                                                    |

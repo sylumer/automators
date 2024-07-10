@@ -200,7 +200,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 06:16      | Yeah, exactly.                                                    |
 | 06:17      | And this is something that has been                               |
 | 06:19      | able to be done on operating systems, mostly                      |
-| 06:22      | Unix-based for absolutely donkeys years.                          |
+| 06:22      | [[Unix]]-based for absolutely donkeys years.                          |
 | 06:24      | I found Dropbox is a little bit funny about that.                 |
 | 06:27      | And I know previously I've had difficulty syncing Dropbox         |
 | 06:30      | to an external SSD, which technically this would be.              |

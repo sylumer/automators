@@ -448,7 +448,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 25:16      | really because they use, the way they tell time is weird, and I don't even, Rose will                  |
 | 25:23      | know the exact language, but basically they're counting from the, I don't know, was at the             |
 | 25:26      | beginning of time, what is that?                                                                       |
-| 25:28      | So it's June 1st, 1970 in Unix time, but there's also Coco time, which is another, I don't             |
+| 25:28      | So it's June 1st, 1970 in [[Unix]] time, but there's also Coco time, which is another, I don't             |
 | 25:37      | remember where that starts from, but that starts from a different time, and that of                    |
 | 25:41      | course is a separate thing, and that's going to make things a bit more complicated, so                 |
 | 25:45      | yeah.                                                                                                  |

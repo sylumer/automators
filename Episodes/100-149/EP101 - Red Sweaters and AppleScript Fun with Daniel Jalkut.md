@@ -421,14 +421,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 15:41      | what finally motivated me to learn to program                     |
 | 15:44      | was getting my first Mac.                                         |
 | 15:46      | And like I said, before my Mac, my first Mac,                     |
-| 15:50      | I did a little bit of programming on Unix                         |
-| 15:53      | because I was part of like a university Unix community.           |
-| 15:56      | And so I did a little bit of C programming on Unix.               |
+| 15:50      | I did a little bit of programming on [[Unix]]                         |
+| 15:53      | because I was part of like a university [[Unix]] community.           |
+| 15:56      | And so I did a little bit of C programming on [[Unix]].               |
 | 15:59      | And then I got a Mac and the idea of like it is                   |
 | 16:03      | for so many kids, the idea of making a game took over.            |
 | 16:08      | And a game with graphics.                                         |
 | 16:11      | So there's an app I wrote that is,                                |
-| 16:18      | some of you might remember this game style from Unix              |
+| 16:18      | some of you might remember this game style from [[Unix]]              |
 | 16:23      | and I think it's been adapted to other platforms                  |
 | 16:25      | by other people, but it's basically,                              |
 | 16:27      | it's usually called Daleks and it's a robot type game             |
@@ -436,8 +436,8 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 16:33      | inspired by Doctor Who's Daleks.                                  |
 | 16:35      | It's just like you move around                                    |
 | 16:37      | and try to make the robots crash into each other.                 |
-| 16:40      | This was a Unix game that I used to play                          |
-| 16:42      | on this Unix community.                                           |
+| 16:40      | This was a [[Unix]] game that I used to play                          |
+| 16:42      | on this [[Unix]] community.                                           |
 | 16:44      | And when I first got my PowerBook Duo 210,                        |
 | 16:50      | it was my first Mac that I owned                                  |
 | 16:52      | and could use for myself, my family was not a Mac family.         |

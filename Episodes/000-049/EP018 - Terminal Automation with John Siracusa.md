@@ -426,7 +426,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 18:56      | and thinking about what I do at work.                                                                    |
 | 18:57      | A lot of the time I spend, yes, I'm using a Mac at work, but a lot of the time at work,                  |
 | 19:01      | I feel like I'm using my Mac, but I'm using it to open up these tiny little holes into                   |
-| 19:06      | a different world, which is the Unix world.                                                              |
+| 19:06      | a different world, which is the [[Unix]] world.                                                              |
 | 19:08      | So I've got a lot of terminal windows open and there are a bunch of tasks having to do                   |
 | 19:12      | with software development that happen all the time as part of our software development                   |
 | 19:16      | lifecycle process, as they call it at work or whatever, kind of standards and procedures                 |
@@ -558,16 +558,16 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 27:11      | and Node.js these days if you don't mind going slightly into callback hell or async stuff,               |
 | 27:16      | which is a whole other kettle of fish.                                                                   |
 | 27:18      | You could probably do it from [[AppleScript]] if you were well versed in that language,                     |
-| 27:22      | but the Unix world, even just like shell scripting, like born shell scripting, the Unix world has        |
+| 27:22      | but the [[Unix]] world, even just like shell scripting, like born shell scripting, the [[Unix]] world has        |
 | 27:26      | a lot of languages that are like that, where you take a bunch of other things, other commands            |
 | 27:33      | and glue them together.                                                                                  |
-| 27:34      | So say you're doing text file manipulation, but you don't know programming language, Unix                |
+| 27:34      | So say you're doing text file manipulation, but you don't know programming language, [[Unix]]                |
 | 27:37      | itself has tons of tools like GREP and AWK and SED and sort and all sorts of other individual            |
 | 27:44      | commands that you can pipe together to manipulate files, even if you don't know programming.             |
 | 27:48      | And if you want to run a series of those commands on some files as input and producing output            |
 | 27:53      | and running it again, you could do that in a shell script and that's how you're starting                 |
 | 27:56      | to build up to, you know, command line automation.                                                       |
-| 27:59      | It's really just getting out of the background and going into the Unix realm where people                |
+| 27:59      | It's really just getting out of the background and going into the [[Unix]] realm where people                |
 | 28:03      | have been writing little miniature programs to glue together a bunch of other commands                   |
 | 28:06      | to do something useful for decades and decades.                                                          |
 | 28:09      | And so when faced with this task, of course, because I'm used to programming stuff like                  |

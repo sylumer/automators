@@ -412,9 +412,9 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 14:32      | where I wasn't doing a lot of automation.                          |
 | 14:35      | And then when I abandoned the Mac for Linux                        |
 | 14:39      | in the late 90s, then automation really came back                  |
-| 14:44      | because everything you do in a Unix environment                    |
+| 14:44      | because everything you do in a [[Unix]] environment                    |
 | 14:47      | is scripting to some extent or another,                            |
-| 14:50      | and you really don't use Unix properly                             |
+| 14:50      | and you really don't use [[Unix]] properly                             |
 | 14:52      | unless you're doing some kind of scripting.                        |
 | 14:54      | And that's when I started doing,                                   |
 | 14:56      | I learned a little bit of bash.                                    |

@@ -750,11 +750,11 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 56:14      | making apps, it is probably the primary automation tool. But just thinking about the show and listeners, |
 | 56:21      | I'm like, can we do a show on that? Is there something there for people? And I'm flummoxed.              |
 | 56:28      | Yeah. There were a lot of tools built for the terminal back when the terminal was the user               |
-| 56:35      | interface that everybody had available. So back in the sort of heyday of Unix command line experience,   |
+| 56:35      | interface that everybody had available. So back in the sort of heyday of [[Unix]] command line experience,   |
 | 56:43      | let's say the 70s, 80s. I mean, I learned on a terminal computer. I started on Tandy,                    |
 | 56:52      | and Atari, and several of the, you know, and the Apple too, all these terminal-based computers.          |
 | 56:58      | That was what I did. But as soon as the graphical user interface showed up, I left it in the rear        |
-| 57:03      | view mirror. Right. So yeah, there are a lot of tools. Like if you look back at the old Unix             |
+| 57:03      | view mirror. Right. So yeah, there are a lot of tools. Like if you look back at the old [[Unix]]             |
 | 57:08      | manual pages, the BSD manual pages, you'll find there are these things in there for doing like           |
 | 57:15      | diction reports and, you know, the look at your English language and analyse how, you know,              |
 | 57:19      | what kind of words you used and what grade level you think you're doing. That's all stuff that's         |

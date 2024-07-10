@@ -1078,7 +1078,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:04:38   | It's very naughty.                                                                                   |
 | 01:04:39   | It just says, oh, we added a bunch of shortcuts, go have fun.                                        |
 | 01:04:43   | But you know, but at the same time, it does add more stuff, right?                                   |
-| 01:04:46   | You want to convert a date to Unix time.                                                             |
+| 01:04:46   | You want to convert a date to [[Unix]] time.                                                             |
 | 01:04:48   | You want to ask [[ChatGPT]] and do a check to see if Bluetooth is on.                                   |
 | 01:04:54   | They've got just like everything else.                                                               |
 | 01:04:55   | They've got a whole bunch of stuff here.                                                             |

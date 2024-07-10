@@ -10,7 +10,7 @@ Shell scripting is a powerful tool used in computing to automate repetitive task
 
 Shell scripts can be used to perform a wide range of tasks, such as managing files and directories, running programs, and performing system maintenance. They can also be used to automate complex processes, saving time and reducing the risk of human error.
 
-One of the key benefits of shell scripting is its versatility - it can be used on any operating system that supports a shell, such as Linux, Unix, or macOS. Additionally, shell scripts are highly customisable and can be tailored to suit individual needs and preferences.
+One of the key benefits of shell scripting is its versatility - it can be used on any operating system that supports a shell, such as Linux, [[Unix]], or macOS. Additionally, shell scripts are highly customisable and can be tailored to suit individual needs and preferences.
 
 # Key Components of Shell Scripting
 - **Variables**: 

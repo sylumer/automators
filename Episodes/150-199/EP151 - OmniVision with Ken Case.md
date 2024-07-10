@@ -975,7 +975,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 01:00:33   | How can we make sure that we actually get the same result everywhere and the same power                             |
 | 01:00:38   | at our fingertips everywhere is pretty tricky.                                                                      |
 | 01:00:41   | Yeah.                                                                                                               |
-| 01:00:42   | And so I'll end up using, for example, there's a UNIX tool called [[`procmail`]] that does, you                     |
+| 01:00:42   | And so I'll end up using, for example, there's a [[Unix]] tool called [[`procmail`]] that does, you                     |
 | 01:00:46   | know, you can write different rules for processing the mail into different mail boxes and, uh,                      |
 | 01:00:51   | I use that to process all of my mail and, uh, but it's not something that I feel like                               |
 | 01:00:58   | I can tell my family, oh, here's how you should process your mail.                                                  |

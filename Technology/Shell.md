@@ -13,7 +13,7 @@ The window through which users interact with a shell is known as the [[terminal]
 
 # Common Shells
 ### sh (Bourne Shell)
-The Bourne Shell is one of the earliest Unix shells, known for its simplicity and use in scripting. It provides basic features for command execution, file management, and environment variables.
+The Bourne Shell is one of the earliest [[Unix]] shells, known for its simplicity and use in scripting. It provides basic features for command execution, file management, and environment variables.
 
 ### bash (Bourne Again Shell)
 [[Bash]] is a popular shell that is backwards-compatible with the Bourne Shell but offers additional features such as command history, tab completion, and programmable completion. It supports scripting and automation, making it a versatile choice for users.

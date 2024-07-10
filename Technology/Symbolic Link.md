@@ -8,7 +8,7 @@ aliases:
 
 # Overview
 
-A symbolic link, also known as a symlink, is a special type of file that acts as a reference to another file or directory in the file system. Unlike a hard link, which points directly to the *inode* of the target file or directory, a symbolic link contains the path to the target file or directory. This allows for increased flexibility and convenience when managing files and directories in a Unix-like operating system.
+A symbolic link, also known as a symlink, is a special type of file that acts as a reference to another file or directory in the file system. Unlike a hard link, which points directly to the *inode* of the target file or directory, a symbolic link contains the path to the target file or directory. This allows for increased flexibility and convenience when managing files and directories in a [[Unix]]-like operating system.
 
 # Usage
 Symbolic links are commonly used in various scenarios, such as:

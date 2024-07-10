@@ -4,7 +4,7 @@ creator: Brain Fox
 notetype: technology
 ---
 # Overview
-The Bash [[shell]], short for "Bourne Again Shell", is a command-line interface for Unix-based operating systems that allows users to interact with the system through text commands. Bash provides a range of built-in commands and features, such as the ability to redirect input and output, use wildcards for file manipulation, and create aliases for commonly used commands. Users can also customise their [[shell]] environment by setting variables, defining functions, and configuring prompt settings.
+The Bash [[shell]], short for "Bourne Again Shell", is a command-line interface for [[Unix]]-based operating systems that allows users to interact with the system through text commands. Bash provides a range of built-in commands and features, such as the ability to redirect input and output, use wildcards for file manipulation, and create aliases for commonly used commands. Users can also customise their [[shell]] environment by setting variables, defining functions, and configuring prompt settings.
 
 # Customisation and Configuration
 Users can customise their Bash environment by editing configuration files such as `.bashrc` and `.bash_profile`. These files allow users to set environment variables, define aliases, and configure the appearance of the [[shell]] prompt.

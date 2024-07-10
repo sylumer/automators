@@ -205,8 +205,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 06:47      | Yeah, see, that was before my day that because I was very, I was quite late to the Mac really          |
 | 06:52      | because I only started using the Mac in like 2005, I think it was.                                     |
 | 06:56      | So I was, when the first Mac mini came out, that was when I first started using Mac.                   |
-| 07:01      | So before then, I was always a PC guy, sort of Windows and Windows NT and some Unix as                 |
-| 07:06      | well, because I did work on Unix platforms in my corporate job.                                        |
+| 07:01      | So before then, I was always a PC guy, sort of Windows and Windows NT and some [[Unix]] as                 |
+| 07:06      | well, because I did work on [[Unix]] platforms in my corporate job.                                        |
 | 07:10      | That Mac mini brought in a lot of Mac curious people, right, you know?                                 |
 | 07:14      | It really did, yeah, it really did.                                                                    |
 | 07:16      | It was a great machine.                                                                                |

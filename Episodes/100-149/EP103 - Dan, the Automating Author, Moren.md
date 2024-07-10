@@ -869,7 +869,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 46:53      | to view things as a like time as in the clock time, right? Like what time is it? Not what time         |
 | 46:58      | things are happening. So we bounced back a lot of things and we came up, actually had some great       |
 | 47:02      | suggestions from a lot of our readers that basically were able to add clever ways to use               |
-| 47:09      | sort of like Unix timestamps and stuff like that to sort of fake your way into it and then             |
+| 47:09      | sort of like [[Unix]] timestamps and stuff like that to sort of fake your way into it and then             |
 | 47:14      | combined also with stuff on the Stream Deck so that we could essentially have a one button,            |
 | 47:20      | press a button and then choose either from like a preset menu of things that have gone wrong,          |
 | 47:25      | right? Like some of these connection drops or somebody swears and needs to get removed or              |
@@ -931,7 +931,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 52:13      | got one, you're good. I then do a thing where I get the time between the creation date of that         |
 | 52:19      | file and the current date in seconds. So now I have a big number of however many seconds has           |
 | 52:25      | elapsed since the recording started. And then this is where the trick comes in. You add that           |
-| 52:31      | number of seconds using the add time option to the, basically the beginning of the UNIX epoch,         |
+| 52:31      | number of seconds using the add time option to the, basically the beginning of the [[Unix]] epoch,         |
 | 52:38      | which is January 1st, 1970 at 0, 0, 0, 0, 0, etc. You can in theory use the same time of any day,      |
 | 52:44      | I think that works. And then we have a text field where we have, and it basically creates the          |
 | 52:53      | stamp that's going to go in a file. And when I use the adjusted date, which is formatted with a        |
@@ -978,7 +978,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 56:19      | simplifies dealing with dates and actually getting time between dates too. Because if you've ever done |
 | 56:25      | date automation in AppleScript or any of the traditional programming languages,                        |
 | 56:31      | it does require you to use, I guess, what they call absolute time, which is where you                  |
-| 56:35      | got to use the Unix command and go and figure out what second you are basically in the universe        |
+| 56:35      | got to use the [[Unix]] command and go and figure out what second you are basically in the universe        |
 | 56:40      | to establish a baseline for time. It's a huge pain. At some point, Rose and I probably should          |
 | 56:47      | cover that in more depth on the show. But I do feel like that for people that want to deal with        |
 | 56:53      | time and dates, shortcuts, that's one of the things shortcuts is really good at in terms of            |
@@ -1046,7 +1046,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:02:07   | problem facing with [[AppleScript\|AppleScripts]]. I hate JavaScript. Well, you come to me with Apple                  |
 | 01:02:14   | Script and I'm like, oh, maybe not. But at the very least, there's plenty of options out there.        |
 | 01:02:22   | This is what I love about things like this is there's so many different ways to solve this             |
-| 01:02:26   | problem. And also just to highlight that, you were talking about Epoch and Unix Time.                  |
+| 01:02:26   | problem. And also just to highlight that, you were talking about Epoch and [[Unix]] Time.                  |
 | 01:02:33   | Apple also has their own special one called Coco Time, which is time since midnight UTC January        |
 | 01:02:39   | 1st, 2001, which is sometimes used in some of those things, which is just a little bit of              |
 | 01:02:45   | extra fun. I thought you were going to say from like January 24th, 1984. And I'd be like,              |
