@@ -875,7 +875,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 50:00      | sort of look at you and go, mm-hmm, as HomePods occasionally do.                                         |
 | 50:03      | So you can't, it has to be coming through the phone, which I think is the case for anything               |
 | 50:09      | third party at the moment.                                                                                |
-| 50:10      | Like I still can't even play like Spotify through my HomePod unless it's coming through                  |
+| 50:10      | Like I still can't even play like [[Spotify]] through my HomePod unless it's coming through                  |
 | 50:15      | my phone or my Apple TV.                                                                                  |
 | 50:17      | Yeah.                                                                                                     |
 | 50:18      | Which is unfortunate.                                                                                     |

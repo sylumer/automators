@@ -1236,7 +1236,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:02:06   | Got a home kit device?                                                                                        |
 | 01:02:07   | You take a photo, you put it there.                                                                           |
 | 01:02:09   | Good new power pop song.                                                                                       |
-| 01:02:10   | Guess where that goes on this Spotify list?                                                                   |
+| 01:02:10   | Guess where that goes on this [[Spotify]] list?                                                                   |
 | 01:02:13   | I'm trying to abstract this as widely as possible, but start thinking about one of your goals                 |
 | 01:02:17   | in adult life as a professional, personal, whatever it is.                                                    |
 | 01:02:20   | Where does this thing go?                                                                                     |

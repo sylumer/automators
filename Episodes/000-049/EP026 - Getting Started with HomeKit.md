@@ -443,10 +443,10 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 29:41      | Yeah. So yeah, I was going to say, how are you automating Sonos? It's not through Home                   |
 | 29:44      | Kit.                                                                                                     |
 | 29:45      | No, that's through the Sonos app. The Sonos app actually has an alarm feature, and it's                  |
-| 29:49      | playing one of my boyfriend's Spotify playlists in the morning, which is good because he likes           |
+| 29:49      | playing one of my boyfriend's [[Spotify]] playlists in the morning, which is good because he likes           |
 | 29:54      | controlling that.                                                                                        |
 | 29:55      | I was going to next ask you, what song is it that wakes you up every day?                                |
-| 29:58      | Well, it's one of his Spotify playlists, and it's said to random. So even if he never                    |
+| 29:58      | Well, it's one of his [[Spotify]] playlists, and it's said to random. So even if he never                    |
 | 30:04      | changes the song, it will always be something different, I hope.                                         |
 | 30:06      | Well, that's good, because there's a problem when you pick a song you love to be your alarm              |
 | 30:10      | song, right?                                                                                             |
