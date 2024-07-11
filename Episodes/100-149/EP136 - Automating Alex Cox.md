@@ -864,7 +864,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:28:18   | command line scripts, AppleScripts, et cetera. But iOS just doesn't have that. The closest it's        |
 | 01:28:23   | got is being able to run JavaScript on a page, on, like, a web page, which is a bookmarklet,            |
 | 01:28:29   | essentially. But it would be really cool if you could integrate [[Swift Playgrounds]] stuff                 |
-| 01:28:34   | with Shortcuts and then you could just automate all the things. Because Swift is a really powerful      |
+| 01:28:34   | with Shortcuts and then you could just automate all the things. Because [[Swift]] is a really powerful      |
 | 01:28:38   | language. So I feel like you can pretty much do anything when you got those two. So maybe               |
 | 01:28:44   | visionOS will be the thing that brings them together. I think that really quickly,                      |
 | 01:28:50   | instead of iOS, visionOS is going to be my main operating system because of what you've just            |

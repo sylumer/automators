@@ -527,7 +527,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 38:44      | Sure. I'll, I'll make sure to add you to the beta and in many months time probably.                    |
 | 38:50      | That's fine.                                                                                           |
 | 38:51      | What I really like about this is it's almost like, kind of like the app going in full circle           |
-| 38:55      | coming back now to Swift, right? You know, where it started as a, really an option to                  |
+| 38:55      | coming back now to [[Swift]], right? You know, where it started as a, really an option to                  |
 | 39:01      | what Apple was doing or what was coming. And now it's back in the middle of, I don't know,             |
 | 39:07      | it's, I like, I like the idea of that. And that is a, that is a big plan. I asked you                  |
 | 39:13      | that question, not knowing the answer. And you really, you have big plans, Simon. It's                 |

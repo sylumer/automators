@@ -722,7 +722,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:03:26   | apps that have nothing, no AppleScript, no Shortcuts. And part of that is because it's                |
 | 01:03:33   | hard and it's annoying and it's brittle and things break. And then Apple says, oh no,                  |
 | 01:03:39   | that way that we were doing Shortcuts for the last couple of years, well, throw away                   |
-| 01:03:42   | all your code and here's a completely new way of doing it in Swift. And you go, okay,                  |
+| 01:03:42   | all your code and here's a completely new way of doing it in [[Swift]]. And you go, okay,                  |
 | 01:03:47   | well, maybe next year.                                                                                 |
 | 01:03:49   | Yes. Or as I recently discovered, because they've added this whole concept of exposing                 |
 | 01:03:55   | data to Shortcuts so that you can have it give it a thing that it can query and it can return          |
@@ -730,7 +730,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:04:11   | There is no not contains filter natively in Shortcuts. So there is is and is not and there             |
 | 01:04:17   | is contains and there is greater than and less than. But not contains is not a native                  |
 | 01:04:24   | like filter that you can use for this. And yet I see it in the files action. And I have                |
-| 01:04:30   | spent quite a bit of time attempting to reinvent the wheel bearing in mind, I'm not a Swift            |
+| 01:04:30   | spent quite a bit of time attempting to reinvent the wheel bearing in mind, I'm not a [[Swift]]            |
 | 01:04:34   | developer here. So, you know, any time that I've spent on it would be, you know, considerably          |
 | 01:04:39   | less with done by somebody who actually knew what they were doing. But, you know, I spent              |
 | 01:04:43   | quite a bit of time going, surely this must be possible because loads of other like developers         |

@@ -589,16 +589,16 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 29:01      | something I didn't really appreciate till I was listening to you talk about it because                   |
 | 29:05      | I never really thought about Perl as like a basis for a scripting language, but it sounds                |
 | 29:10      | like that's kind of what you're doing.                                                                   |
-| 29:12      | I mean, you could have written in a node, you could have written it in Swift, Swift fancies              |
+| 29:12      | I mean, you could have written in a node, you could have written it in [[Swift]], [[Swift]] fancies              |
 | 29:16      | itself a, you know, equally valid scripting language.                                                    |
-| 29:18      | You can write, you know, that was one of, when I wrote about Swift, I was most excited                   |
+| 29:18      | You can write, you know, that was one of, when I wrote about [[Swift]], I was most excited                   |
 | 29:22      | about the idea that you could put like a little line at the top of the file, just like the,              |
 | 29:25      | you know, pound bang line for the shell or Perl.                                                         |
-| 29:28      | You can put one for Swift and just write your Swift and you just run it.                                 |
+| 29:28      | You can put one for [[Swift]] and just write your [[Swift]] and you just run it.                                 |
 | 29:31      | Like there's no separate compile step, you just, you could just run a file the same way                  |
 | 29:34      | you can run a shell script or a Perl script or a Python script or Ruby script.                           |
-| 29:37      | You can write a Swift script.                                                                            |
-| 29:39      | I don't think it's quite as easy to do basic manipulation in Swift as it is in Perl, but                 |
+| 29:37      | You can write a [[Swift]] script.                                                                            |
+| 29:39      | I don't think it's quite as easy to do basic manipulation in [[Swift]] as it is in Perl, but                 |
 | 29:46      | it's getting there and a lot of it is just because I'm not as familiar with language                     |
 | 29:48      | yet.                                                                                                     |
 | 29:49      | But you could write it in Objective C. You could write it in C. It's like, which language                |
@@ -776,7 +776,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 38:55      | or [FSEvents](https://en.wikipedia.org/wiki/FSEvents).                                                                                            |
 | 38:58      | That's just a C API.                                                                                     |
 | 38:59      | You can get it from any C-level language.                                                                |
-| 39:00      | You can do it from Objective C. You could probably do it from a Swift.                                   |
+| 39:00      | You can do it from Objective C. You could probably do it from a [[Swift]].                                   |
 | 39:04      | You can do it from any high-level language that has a library for it.                                    |
 | 39:06      | I think Node has a library for FS Events.                                                                |
 | 39:09      | I'm pretty sure it does.                                                                                 |
@@ -971,7 +971,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 50:21      | specific requirements like, oh, it has to record time in this weird format that your work requires.      |
 | 50:26      | You're not going to make a, unless you are actually an iOS developer by trade and maybe                  |
 | 50:29      | not even then, you're not going to say, okay, let me make a full-fledged iOS application                 |
-| 50:34      | and Swift or Objective-C to do this thing and put up a UI and do all this stuff.                         |
+| 50:34      | and [[Swift]] or Objective-C to do this thing and put up a UI and do all this stuff.                         |
 | 50:39      | But if you wanted to run your own code on your phone, that used to be your only option                   |
 | 50:45      | until workflows and the other automations come out, so now shortcuts is a way for you                    |
 | 50:50      | to do that.                                                                                              |
@@ -986,7 +986,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 51:20      | You can't do your own UI yet, right?                                                                     |
 | 51:22      | No, you can't do your own UI.                                                                            |
 | 51:24      | If you wanted to do that, then you're probably looking at using Scriptable or [[Pythonista]],             |
-| 51:31      | where they can both present UI Scriptable is using, well, of course, a Swift on the                      |
+| 51:31      | where they can both present UI Scriptable is using, well, of course, a [[Swift]] on the                      |
 | 51:39      | back end, but they're using the built-in Siri or UI table, sorry, that's not Siri.                       |
 | 51:45      | You can tell it's circle in the morning.                                                                 |
 | 51:50      | It looks like a real iOS UI instead of a shortcut UI.                                                    |

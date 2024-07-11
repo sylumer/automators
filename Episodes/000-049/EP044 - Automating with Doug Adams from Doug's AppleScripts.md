@@ -630,7 +630,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 31:41      | So you might not see some stuff there, but one of the things you can also do is check                |
 | 31:44      | out Stack Overflow.                                                                                  |
 | 31:45      | There's still a lot of AppleScript stuff up there, and it doesn't hurt to learn a little            |
-| 31:50      | objective C and Swift syntax just to, you know, just to know how those things work.                  |
+| 31:50      | objective C and [[Swift]] syntax just to, you know, just to know how those things work.                  |
 | 31:57      | I mean, it's not, once I figured out AppleScript, I pretty much figured out everything              |
 | 32:00      | else.                                                                                                |
 | 32:01      | JavaScript, the Perl came really easy, and then everything else just fell into place                 |
@@ -1051,8 +1051,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 54:09      | So Doug, you spent all this time in AppleScript all these years.                                     |
 | 54:14      | Are there any other automation languages that pique your interests?                                  |
 | 54:18      | Well, I do like any programming language.                                                            |
-| 54:24      | I mentioned earlier, you know, it's always good to know a little Objective-C and Swift.              |
-| 54:28      | And to be honest with you, I haven't learned any Swift at all.                                       |
+| 54:24      | I mentioned earlier, you know, it's always good to know a little Objective-C and [[Swift]].              |
+| 54:28      | And to be honest with you, I haven't learned any [[Swift]] at all.                                       |
 | 54:31      | I haven't done anything, as I mentioned earlier, with Shortcuts, which is some automation that       |
 | 54:36      | I would like to get involved in.                                                                     |
 | 54:37      | I would really like to do more with home automation.                                                 |

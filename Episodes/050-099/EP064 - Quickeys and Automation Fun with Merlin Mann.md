@@ -1747,7 +1747,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:30:02   | that there's just not clear what you're supposed to do.                                                       |
 | 01:30:06   | One thing you hear from developers nowadays.                                                                  |
 | 01:30:07   | I don't know if it's true today, but for like two years, I've just been hearing about the                     |
-| 01:30:11   | lack of proper documentation for stuff in Swift, stuff in APIs.                                               |
+| 01:30:11   | lack of proper documentation for stuff in [[Swift]], stuff in APIs.                                               |
 | 01:30:16   | Is it really true?                                                                                            |
 | 01:30:18   | That's crazy to me.                                                                                           |
 | 01:30:19   | When I go and I'm setting up this Synology, I got pages and pages and pages of extensive                      |

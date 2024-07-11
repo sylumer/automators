@@ -290,7 +290,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 09:30      | at the time may not have the depth or breadth                     |
 | 09:34      | to automate things using the same techniques                      |
 | 09:38      | and strategy that you would with, say, a more advanced tool       |
-| 09:42      | like let's say the Swift programming language.                    |
+| 09:42      | like let's say the [[Swift]] programming language.                    |
 | 09:44      | It may not have that depth and breadth,                           |
 | 09:46      | but whatever you do in shortcuts or automator                     |
 | 09:51      | or whatever your script,                                          |

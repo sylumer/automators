@@ -278,7 +278,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 14:06      | I remember that.                                                                                          |
 | 14:07      | Well, the question is, if we put Charlie in front of what were those calculators today,                   |
 | 14:11      | can you still program one of those little applications that's probably using a very                       |
-| 14:17      | different language to Swift, I'm guessing.                                                                |
+| 14:17      | different language to [[Swift]], I'm guessing.                                                                |
 | 14:20      | Slightly.                                                                                                 |
 | 14:21      | Yeah.                                                                                                     |
 | 14:22      | I remember it had go-tos, which is not a thing that I've really used since then.                          |

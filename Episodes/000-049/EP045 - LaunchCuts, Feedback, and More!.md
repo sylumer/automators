@@ -394,7 +394,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 30:05      | don't be put off potentially by an older book, because AppleScript hasn't changed that much           |
 | 30:11      | in a very long time, which you might think is a bad thing. But in general, it's not. At some point,    |
 | 30:17      | a programming language has to stay fairly static. I asked a couple of app developers who started       |
-| 30:22      | with Swift one about their nightmare switching from Swift one to two to three to four to five.         |
+| 30:22      | with [[Swift]] one about their nightmare switching from [[Swift]] one to two to three to four to five.         |
 | 30:27      | You know, you want things to be relatively consistent. And the fact that AppleScript hasn't           |
 | 30:33      | changed is a good thing in that case. And that also means that you can often pick up second hand       |
 | 30:37      | copies of books very cheaply as well, if you're looking for something that's like an in depth guide.   |
@@ -693,8 +693,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 57:55      | They had a they had it's in last year's sessions. It really didn't look that hard.                     |
 | 58:00      | I think it's not that hard if you wrote the app that you're trying to do this for.                     |
 | 58:05      | And that's my problem. I didn't actually write the app. And it took me a while to figure out           |
-| 58:08      | it's written in Objective C, in some cases, not just Swift, because there were a lot of things         |
-| 58:13      | with Swift extensions. And then there were some other stuff. And I was there going, okay, so other     |
+| 58:08      | it's written in Objective C, in some cases, not just [[Swift]], because there were a lot of things         |
+| 58:13      | with [[Swift]] extensions. And then there were some other stuff. And I was there going, okay, so other     |
 | 58:16      | stuff seems like it's probably going to be pretty important. I'm guessing this is Objective C,         |
 | 58:20      | but it took a while to confirm that the other stuff only Objective C. So I'm there, okay,              |
 | 58:24      | now where do I add this information? What about over on the Mac? Do you think this is the year         |

@@ -218,37 +218,37 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 07:51      | Yeah, definitely.                                                                                    |
 | 07:53      | So how did you get started with coding for, in general, because you said you helped out              |
 | 08:01      | a couple of matches ago with an iOS app.                                                             |
-| 08:03      | Did you already know Swift before that or was it just that you had a great idea and                  |
+| 08:03      | Did you already know [[Swift]] before that or was it just that you had a great idea and                  |
 | 08:07      | somebody brought you on?                                                                             |
-| 08:08      | I actually started programming Swift when it came out.                                               |
+| 08:08      | I actually started programming [[Swift]] when it came out.                                               |
 | 08:13      | So back in, well, my school is like an enrichment program, and so in the enrichment program back     |
-| 08:21      | when Swift came out, I wanted to do something with it.                                               |
+| 08:21      | when [[Swift]] came out, I wanted to do something with it.                                               |
 | 08:24      | So I guess that was 2015 or 2014.                                                                    |
 | 08:28      | I was like, I want to do a project on that.                                                          |
-| 08:30      | So my enrichment teacher let me and another student make a game in Swift.                            |
+| 08:30      | So my enrichment teacher let me and another student make a game in [[Swift]].                            |
 | 08:37      | So that's where I first had my first experience with it.                                             |
 | 08:39      | I didn't learn really much at all from that, but it's what put me on the path towards learning.      |
-| 08:45      | And then I just continued to kind of work on it and continuously just keep learning Swift.           |
+| 08:45      | And then I just continued to kind of work on it and continuously just keep learning [[Swift]].           |
 | 08:51      | So I was building small apps that never made it anywhere up until someone invited me into            |
 | 09:00      | like onto an app that they wanted to build and wanted me to program.                                 |
 | 09:03      | So that's where I really learned a lot of what I know now because I needed to make an                |
 | 09:07      | app that would work on the app store.                                                                |
 | 09:09      | Yeah.                                                                                                |
-| 09:10      | So I guess I've just been learning Swift, just building on it as I go.                               |
+| 09:10      | So I guess I've just been learning [[Swift]], just building on it as I go.                               |
 | 09:16      | Yeah.                                                                                                |
 | 09:17      | Yeah.                                                                                                |
 | 09:18      | That makes sense.                                                                                    |
 | 09:19      | What kind of resources have you been using for our other listeners who are curious, you              |
-| 09:22      | know, I want to learn Swift as well?                                                                 |
-| 09:24      | You know, obviously I'm guessing when Swift first came out, that's when they were at the             |
+| 09:22      | know, I want to learn [[Swift]] as well?                                                                 |
+| 09:24      | You know, obviously I'm guessing when [[Swift]] first came out, that's when they were at the             |
 | 09:28      | Apple resources and the Apple resources and that was it.                                             |
 | 09:32      | But nowadays, of course, there's a little bit more out there.                                        |
 | 09:35      | When I first started off, I was using YouTube, just like YouTube tutorials.                          |
 | 09:39      | And that's what I've really used for a long time.                                                    |
 | 09:42      | I'll just go on YouTube.                                                                             |
 | 09:43      | And if I want to learn something, I'll look up what I want.                                          |
-| 09:46      | And then also Stack Overflow and hacking with Swift have been really good, especially hacking        |
-| 09:52      | with Swift because those tutorials are just perfect.                                                 |
+| 09:46      | And then also Stack Overflow and hacking with [[Swift]] have been really good, especially hacking        |
+| 09:52      | with [[Swift]] because those tutorials are just perfect.                                                 |
 | 09:55      | They tell you exactly what you need to know for what you're trying to do.                            |
 | 09:58      | So that's what I've been using a lot more recently because I've gotten more into the                 |
 | 10:01      | [[SwiftUI]] stuff.                                                                                      |
@@ -256,12 +256,12 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 10:06      | Yes.                                                                                                 |
 | 10:07      | Yeah.                                                                                                |
 | 10:08      | Yeah.                                                                                                |
-| 10:09      | No, I've heard very good things about hacking with Swift and I've done some of the little            |
+| 10:09      | No, I've heard very good things about hacking with [[Swift]] and I've done some of the little            |
 | 10:12      | bits on there as well.                                                                               |
 | 10:14      | Unfortunately, I have that slight problem of having a day job and needing a bit more time            |
 | 10:17      | to do all of the things in a day where, you know, I'm sitting here podcasting.                       |
-| 10:22      | I could be learning Swift, David.                                                                    |
-| 10:23      | I could be learning Swift, but, you know, it's okay.                                                 |
+| 10:22      | I could be learning [[Swift]], David.                                                                    |
+| 10:23      | I could be learning [[Swift]], but, you know, it's okay.                                                 |
 | 10:27      | I don't think we're losing any great apps by me sitting here podcasting.                             |
 | 10:29      | In fact, I think we're getting a lot more out of it this way.                                        |
 | 10:32      | And so Zach, you know, I'm just taking a look at Jellycuts here and, you know, we'll dive           |
@@ -269,17 +269,17 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 10:44      | language.                                                                                            |
 | 10:45      | Okay.                                                                                                |
 | 10:46      | So instead of like a blocks, we've got text.                                                         |
-| 10:48      | Did you base this text on Swift or did you base it on another language?                              |
-| 10:54      | It's mostly, yeah, mostly based on a lot of it's based on Swift and how Swift kind of                |
+| 10:48      | Did you base this text on [[Swift]] or did you base it on another language?                              |
+| 10:54      | It's mostly, yeah, mostly based on a lot of it's based on [[Swift]] and how [[Swift]] kind of                |
 | 10:59      | declares things.                                                                                     |
 | 11:00      | Yeah.                                                                                                |
 | 11:01      | So one of the community, like the Shortcuts community knows JavaScript from when I found.            |
 | 11:05      | Yes.                                                                                                 |
 | 11:06      | So I've taken things from JavaScript and use them in the language.                                   |
 | 11:11      | So like, no, like variables aren't like you don't declare your types on variables or anything.       |
-| 11:18      | So that's one thing I took, I guess from Swift and kind of from JavaScript at the same time.         |
-| 11:23      | But it's mostly, yeah, it's a mix of Swift and JavaScript to get what it is now, but                 |
-| 11:29      | I've been slowly expanding it more and it'll probably go more in the direction of Swift              |
+| 11:18      | So that's one thing I took, I guess from [[Swift]] and kind of from JavaScript at the same time.         |
+| 11:23      | But it's mostly, yeah, it's a mix of [[Swift]] and JavaScript to get what it is now, but                 |
+| 11:29      | I've been slowly expanding it more and it'll probably go more in the direction of [[Swift]]              |
 | 11:34      | just because that's what I know more of.                                                             |
 | 11:36      | Yeah.                                                                                                |
 | 11:37      | But as I learn more JavaScript, there may be more JavaScript-esque things that show up.              |
@@ -297,7 +297,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 12:04      | And even Omni's applications, which have got Omni Automation in them, which uses JavaScript,         |
 | 12:08      | all of them use JavaScript.                                                                          |
 | 12:10      | So it's not a surprise to see people who are familiar with JavaScript.                               |
-| 12:14      | But I'm pleased you haven't just limited yourself to it because of course Shortcuts isn't Swift.     |
+| 12:14      | But I'm pleased you haven't just limited yourself to it because of course Shortcuts isn't [[Swift]].     |
 | 12:19      | It's not JavaScript.                                                                                 |
 | 12:20      | Yeah.                                                                                                |
 | 12:21      | It's not Ruby.                                                                                       |

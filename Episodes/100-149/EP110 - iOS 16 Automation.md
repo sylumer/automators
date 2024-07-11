@@ -444,7 +444,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 33:03      | creating a shortcut action as a developer was a considerably less than fun, pleasant, or easy            |
 | 33:10      | experience. It was so incredibly unintuitive in many ways. Like, I'm sure once you got your              |
 | 33:17      | head around it and did it, it was fine. But for me coming in as somebody who didn't have an iOS app,     |
-| 33:26      | and you know, I speak Swift and Objective C to an extent, I'm sure some of my code would make            |
+| 33:26      | and you know, I speak [[Swift]] and Objective C to an extent, I'm sure some of my code would make            |
 | 33:32      | other developers cry, but that is the case with any developer writing code. I'm sure somebody            |
 | 33:36      | out there will hate it. But I would look at it and go, okay, I have a shortcut here from a similar       |
 | 33:43      | thing that does something very similar to what I want to do. So I'm going to create a new shortcut       |

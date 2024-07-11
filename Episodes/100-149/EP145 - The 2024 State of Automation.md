@@ -213,7 +213,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 08:36      | And so that stuff continues.                                                                            |
 | 08:38      | I don't think Apple is going to continue to like try and push the, the, the ball forward                |
 | 08:44      | on [[AppleScript]] support.                                                                                |
-| 08:45      | I mean, when Sal was there, like it got added to Swift, not Swift, it got added to the                  |
+| 08:45      | I mean, when Sal was there, like it got added to [[Swift]], not [[Swift]], it got added to the                  |
 | 08:51      | [[Xcode]] years ago.                                                                                        |
 | 08:54      | And I just don't know that it has an advocate like Sal was there now to do stuff like that.             |
 | 08:59      | So I don't see it getting a bunch of new support, but I don't think it's going away.                    |
