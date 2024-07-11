@@ -573,7 +573,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 31:47      | Yeah, yeah, I've done a little bit of playing with it before. And you'd think that somebody               |
 | 31:52      | who likes playing with shortcuts would find it easy to create the shortcuts intense. And                  |
 | 31:56      | I've honestly just always struggled with it a bit. And I just tried creating a tiny new                   |
-| 32:02      | application in Swift Playgrounds with, you know, a relatively simple API and I was able                   |
+| 32:02      | application in [[Swift Playgrounds]] with, you know, a relatively simple API and I was able                   |
 | 32:08      | to get the shortcuts intense working pretty quickly. It's not an application that will                    |
 | 32:13      | ever see the light of day, it's just reading some data from the web and displaying it.                    |
 | 32:17      | But I was just curious to see if I could get the shortcuts actions to show up. And once                   |

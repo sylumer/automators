@@ -833,7 +833,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:25:36   | of the show, like, the episode, it won't alter play the next episode, or something, because,            |
 | 01:25:41   | you know, I was kind of all lunch break and, you know, just thinking about, you know, what should       |
 | 01:25:45   | I be doing next, and how do I solve this problem, etc. So, yeah, like, I feel like that's where I       |
-| 01:25:51   | want to start. And then from there, you know, things like Swift Playgrounds.                            |
+| 01:25:51   | want to start. And then from there, you know, things like [[Swift Playgrounds]].                            |
 | 01:25:55   | Wait, wait, that's where you want to start? You want to, you want a robot built?                        |
 | 01:25:59   | Oh, no, no, no, this is, yeah, no, Rose, I am totally there.                                            |
 | 01:26:03   | Like, obviously, it's gonna take a while and, and things like that. But, like, I feel like              |
@@ -849,13 +849,13 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:26:52   | Yeah, it seems like it is coming together, doesn't it? Yeah. Day one beta this year because of the      |
 | 01:26:57   | interactive widgets. Oh, yeah. I've just been living the best life.                                     |
 | 01:27:03   | Losing my mind with, yes, it's amazing. It is so good. But then on top of that, you know, like,         |
-| 01:27:11   | when we get to something like Swift Playgrounds, Swift Playgrounds is already on the iPad, right?       |
+| 01:27:11   | when we get to something like [[Swift Playgrounds]], [[Swift Playgrounds]] is already on the iPad, right?       |
 | 01:27:15   | And Shortcuts is on the iPad. So, both of these apps should theoretically exist on visionOS.            |
 | 01:27:20   | Because any iPad app can exist on visionOS. Now, Mac apps don't exist on visionOS. There's              |
 | 01:27:26   | something like [[Xcode]] we wouldn't have, but you can share, like, you know, a Mac screen                  |
 | 01:27:30   | into visionOS. So, you could still have something like Xcode. But imagine being able to, like,          |
-| 01:27:34   | write your own mini apps in Swift Playgrounds and with Shortcuts on visionOS and just run them.         |
-| 01:27:44   | Like, and then you get really creative. Because I feel like, I know that Swift Playgrounds has          |
+| 01:27:34   | write your own mini apps in [[Swift Playgrounds]] and with Shortcuts on visionOS and just run them.         |
+| 01:27:44   | Like, and then you get really creative. Because I feel like, I know that [[Swift Playgrounds]] has          |
 | 01:27:50   | got limitations. I know a lot of people have done some really cool stuff with it. I've written          |
 | 01:27:54   | stuff with it and then, you know, turned it into an app on the App Store. But I feel like               |
 | 01:27:59   | bringing that into Shortcuts, like, visionOS is kind of the place to do it because it's                 |
@@ -863,7 +863,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:28:10   | on another machine from Shortcuts. I say another machine, like, macOS Shortcuts has support for         |
 | 01:28:18   | command line scripts, AppleScripts, et cetera. But iOS just doesn't have that. The closest it's        |
 | 01:28:23   | got is being able to run JavaScript on a page, on, like, a web page, which is a bookmarklet,            |
-| 01:28:29   | essentially. But it would be really cool if you could integrate Swift Playgrounds stuff                 |
+| 01:28:29   | essentially. But it would be really cool if you could integrate [[Swift Playgrounds]] stuff                 |
 | 01:28:34   | with Shortcuts and then you could just automate all the things. Because Swift is a really powerful      |
 | 01:28:38   | language. So I feel like you can pretty much do anything when you got those two. So maybe               |
 | 01:28:44   | visionOS will be the thing that brings them together. I think that really quickly,                      |

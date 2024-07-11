@@ -521,7 +521,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 38:21      | something goes very, very wrong. So, so yeah, it's, it's, it's certainly interesting. And              |
 | 38:27      | I'm looking forward to the, the beta of that when, whenever you get around to it. So I                 |
 | 38:31      | feel free to put me on the early beta list and I will do my best to test it to its limits.             |
-| 38:36      | I've, I've been playing a lot with Swift Playgrounds recently and SwiftUI. So fingers crossed          |
+| 38:36      | I've, I've been playing a lot with [[Swift Playgrounds]] recently and SwiftUI. So fingers crossed          |
 | 38:40      | I'll be able to translate that knowledge back into JavaScript. And yeah, I can't wait to               |
 | 38:43      | see what you've got for us.                                                                            |
 | 38:44      | Sure. I'll, I'll make sure to add you to the beta and in many months time probably.                    |
