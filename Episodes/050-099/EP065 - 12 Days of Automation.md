@@ -1550,12 +1550,12 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:21:17   | of which are developer tools, which, you know, are somewhat difficult to port in some cases.             |
 | 01:21:23   | Other things are very easy to port.                                                                      |
 | 01:21:25   | I know Bitbar is one of the services that, you know, was, was not going to make the transition           |
-| 01:21:30   | and then somebody's come out with SwiftBar, which is, you know, the new version of Bitbar                |
+| 01:21:30   | and then somebody's come out with [[SwiftBar]], which is, you know, the new version of Bitbar                |
 | 01:21:35   | basically, which I'm super happy about because having found out about Bitbar relatively recently,        |
 | 01:21:40   | it turns out I love it and I need it in my life.                                                         |
 | 01:21:42   | So I was disappointed here.                                                                              |
 | 01:21:43   | It wasn't going to work.                                                                                 |
-| 01:21:44   | And then SwiftBar is out, which solves that problem.                                                     |
+| 01:21:44   | And then [[SwiftBar]] is out, which solves that problem.                                                     |
 | 01:21:49   | And some of this is, you know, thanks to changes that Apple have made with Big Sur.                      |
 | 01:21:53   | So for example, [[Hazel]] needed a new version because it can't be a preference pane anymore.                |
 | 01:21:57   | It needs to be a standalone application.                                                                 |

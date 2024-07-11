@@ -516,7 +516,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 21:40      | But that got me even more time spent in [[Keyboard Maestro]].                                                        |
 | 21:45      | Honestly, the number one automation.                                                                             |
 | 21:50      | Well, no, actually, there are two other ones.                                                                    |
-| 21:52      | It's not quite automation, but I want to put in a plug for Swift Bar,                                            |
+| 21:52      | It's not quite automation, but I want to put in a plug for [[SwiftBar]],                                            |
 | 21:56      | which is a menu bar utility.                                                                                     |
 | 21:58      | And related to it, it's basically a follow on of a product called Bit Bar                                        |
 | 22:03      | that now is called something else.                                                                               |
@@ -535,10 +535,10 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 22:39      | I see that there.                                                                                                |
 | 22:40      | So I am using that using my sort of script tools.                                                                |
 | 22:45      | And that's a real hodgepodge too.                                                                                |
-| 22:47      | I've got plugins for Bit Bar and Swift Bar that are like,                                                        |
+| 22:47      | I've got plugins for Bit Bar and [[SwiftBar]] that are like,                                                        |
 | 22:51      | I've got Python and PHP and shell scripting and AppleScript even,                                                |
 | 22:57      | where it's just running an OSA script command.                                                                   |
-| 23:02      | I literally have a.applescript file in there that runs AppleScript.                                              |
+| 23:02      | I literally have an AppleScript file in there that runs AppleScript.                                              |
 | 23:07      | It's kind of amazing.                                                                                            |
 | 23:08      | But the number one thing is Automator.                                                                           |
 | 23:10      | And I'm working on my Mac OS Monterey review.                                                                    |
@@ -854,7 +854,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 40:26      | for all that automation.                                                                                         |
 | 40:28      | Yeah, I mean, I've done JavaScript.                                                                              |
 | 40:30      | I mean, don't get me wrong.                                                                                      |
-| 40:32      | Like I said, I've got a Swift Bar plugin                                                                         |
+| 40:32      | Like I said, I've got a [[SwiftBar]] plugin                                                                         |
 | 40:34      | that's written in JavaScript                                                                                     |
 | 40:36      | and one that's written in PHP,                                                                                   |
 | 40:38      | which is like, I mean, right?                                                                                    |
