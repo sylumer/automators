@@ -1231,7 +1231,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:18:02   | That's two words, Sound Slice, but it's one word as URL, soundslice.com.                              |
 | 01:18:09   | And I have a little corner of Sound Slice where I post arrangements that I'm working                  |
 | 01:18:16   | on and recordings, those kinds of things.                                                             |
-| 01:18:20   | And I'll be posting some new stuff with my MIDI guitar up there fairly soon as well.                  |
+| 01:18:20   | And I'll be posting some new stuff with my [[MIDI]] guitar up there fairly soon as well.                  |
 | 01:18:25   | I really enjoy the quality of their tools.                                                            |
 | 01:18:29   | And it's an entire community with people sharing ideas.                                               |
 | 01:18:33   | You can, there's also instruction.                                                                    |

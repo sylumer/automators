@@ -823,7 +823,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 31:36      | And so that solved that problem right there for me,                 |
 | 31:38      | which was great.                                                    |
 | 31:39      | But also, I keep forgetting about things like, you know,            |
-| 31:42      | there are MIDI triggers and drawings.                               |
+| 31:42      | there are [[MIDI]] triggers and drawings.                               |
 | 31:46      | The drawings, when I actually use quite a bit, like I don't         |
 | 31:49      | even think about it, I just kind of vaguely draw an arrow           |
 | 31:52      | with my mouse and then it takes me left or right,                   |

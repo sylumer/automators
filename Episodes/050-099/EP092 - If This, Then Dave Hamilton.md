@@ -1221,7 +1221,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 51:24      | because it does not have to run based on a keyboard shortcut to trigger an action.                                                                                       |
 | 51:30      | Actions can be triggered in macros for lots of different circumstances                                                                                                   |
 | 51:34      | as we were just talking about.                                                                                                                                           |
-| 51:35      | So did you know you can trigger it with a MIDI signal?                                                                                                                   |
+| 51:35      | So did you know you can trigger it with a [[MIDI]] signal?                                                                                                                   |
 | 51:38      | So yeah, I do.                                                                                                                                                           |
 | 51:40      | I, when there was a short period of time where we were using Memo Live to stream                                                                                         |
 | 51:47      | our Mac Geek Gab recordings when, right when we started with video,                                                                                                        |
@@ -1241,10 +1241,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 52:29      | it will trigger whatever the app's going to do.                                                                                                                          |
 | 52:31      | And so you can have [[Keyboard Maestro]] launch that magic link instead.                                                                                                     |
 | 52:35      | And I had those magic links wired up via [[Keyboard Maestro]].                                                                                                               |
-| 52:39      | Anytime I hit a certain MIDI key, which was on this mixer I was using,                                                                                                   |
+| 52:39      | Anytime I hit a certain [[MIDI]] key, which was on this mixer I was using,                                                                                                   |
 | 52:44      | it would then trigger and call the magic link.                                                                                                                           |
 | 52:47      | I moved away from that mixer.                                                                                                                                            |
-| 52:49      | So I changed it from MIDI to function keys on my Mac,                                                                                                                    |
+| 52:49      | So I changed it from [[MIDI]] to function keys on my Mac,                                                                                                                    |
 | 52:52      | specifically the seven function keys on the keyboard that are not assigned to anything                                                                                   |
 | 52:57      | over on the right side of the extended keyboard on the Mac.                                                                                                              |
 | 53:00      | And, and those worked for a while.                                                                                                                                       |
@@ -1252,17 +1252,17 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 53:04      | So I'm not using them.                                                                                                                                                   |
 | 53:05      | I'm so pleased you said that because I was thinking of everyone I know,                                                                                                  |
 | 53:09      | you know, who has the right mix of a Venn diagram of automation and music                                                                                                |
-| 53:17      | to ever use a MIDI trigger.                                                                                                                                              |
+| 53:17      | to ever use a [[MIDI]] trigger.                                                                                                                                              |
 | 53:19      | And I thought if there was anybody I know that would do it, it'd be Dave Hamilton.                                                                                       |
 | 53:22      | And now you have affirmed that.                                                                                                                                          |
 | 53:23      | So thank you.                                                                                                                                                            |
 | 53:24      | Yeah, of course.                                                                                                                                                         |
-| 53:25      | Yeah, no, MIDI triggers are great.                                                                                                                                       |
+| 53:25      | Yeah, no, [[MIDI]] triggers are great.                                                                                                                                       |
 | 53:27      | And, and, you know, there's, go ahead.                                                                                                                                   |
-| 53:29      | Can you send a MIDI signal with a digital drum?                                                                                                                          |
+| 53:29      | Can you send a [[MIDI]] signal with a digital drum?                                                                                                                          |
 | 53:31      | I don't even know if you can.                                                                                                                                            |
 | 53:32      | I guess you would be able to, right?                                                                                                                                     |
-| 53:34      | Digital drums are all MIDI.                                                                                                                                              |
+| 53:34      | Digital drums are all [[MIDI]].                                                                                                                                              |
 | 53:35      | That's how it works.                                                                                                                                                     |
 | 53:36      | Yeah, of course.                                                                                                                                                         |
 | 53:37      | Of course it is.                                                                                                                                                         |

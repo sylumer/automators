@@ -98,7 +98,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:58      | Yeah.                                                                                                |
 | 01:59      | But part of my job was playing the guitar.                                                           |
 | 02:01      | I happened to, of course, hang out with the guys that were running the music software.               |
-| 02:07      | And I would often bring in my MIDI guitar and plug in and show them what I wanted the                |
+| 02:07      | And I would often bring in my [[MIDI]] guitar and plug in and show them what I wanted the                |
 | 02:14      | recordings to be able to do.                                                                         |
 | 02:15      | Oh, really?                                                                                          |
 | 02:16      | And I would try to get features put into the software based on my own personal needs.                |

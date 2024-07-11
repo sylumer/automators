@@ -17,7 +17,7 @@ Farrago is a soundboard application for macOS, developed by [[Rogue Amoeba]]. It
 - **Sound Search** - quickly find specific clips with an integrated search feature.
 - **Editing Tools** - basic editing tools to trim clips and adjust playback settings.
 - **File Format Support** - supports various audio file formats including MP3, WAV, AAC, and more.
-- **MIDI Support** - trigger sounds using MIDI devices.
+- **MIDI Support** - trigger sounds using [[MIDI]] devices.
 - **Volume Mixing** - individual volume control for each clip and main output.
 - **Project Saving** - save sound sets as projects for easy recall and sharing.
 - **Sound Triggers** - set sounds to trigger in sequence or simultaneously.
