@@ -1322,17 +1322,17 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:18:08   | I kind of feel like if we can get push cut automation server running, maybe even on that                  |
 | 01:18:15   | same iPad, and then just have it update things for you, that would be even better.                        |
 | 01:18:20   | But we'll have to wait and see.                                                                           |
-| 01:18:24   | This episode of Automators is brought to you by Rogue Amiga.                                              |
+| 01:18:24   | This episode of Automators is brought to you by Rogue Amoeba.                                              |
 | 01:18:28   | Congratulations.                                                                                          |
-| 01:18:29   | Rogue Amiga software is celebrating their 20th anniversary.                                               |
+| 01:18:29   | Rogue Amoeba software is celebrating their 20th anniversary.                                               |
 | 01:18:33   | That means two full decades of making amazing audio apps for the Mac.                                     |
 | 01:18:37   | If you're a podcaster, musician, or just someone who listens to audio on their Mac, Rogue                 |
-| 01:18:41   | Amiga can make your life better.                                                                          |
+| 01:18:41   | Amoeba can make your life better.                                                                          |
 | 01:18:43   | Whatever you want to do with audio is a very good bet they have a tool to help you.                       |
-| 01:18:47   | With [[Audio Hijack]], you can record any audio.                                                              |
+| 01:18:47   | With Audio Hijack, you can record any audio.                                                              |
 | 01:18:50   | feedback gives you extremely powerful audio routing without needing cables or mixers.                     |
 | 01:18:54   | And sound source is the sound control that should be built into Mac OS, but isn't.                        |
-| 01:18:59   | Honestly, I love all of those three and everything else that I've used from Rogue Amiga.                  |
+| 01:18:59   | Honestly, I love all of those three and everything else that I've used from Rogue Amoeba.                  |
 | 01:19:06   | But I really love the fact that all of these apps just help me do everything that I need                  |
 | 01:19:10   | to do easier.                                                                                             |
 | 01:19:11   | I had an issue recently where I was getting a really strange sound periodically randomly                  |
@@ -1341,18 +1341,18 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:19:25   | and because I didn't need audio from that, I muted that app.                                              |
 | 01:19:29   | Perfect.                                                                                                  |
 | 01:19:30   | Solved.                                                                                                   |
-| 01:19:31   | Rogue Amiga doesn't run constant gimmicky sales or discounts.                                             |
+| 01:19:31   | Rogue Amoeba doesn't run constant gimmicky sales or discounts.                                             |
 | 01:19:34   | They charge fair prices all the time.                                                                     |
 | 01:19:37   | But in celebration of their anniversary, they are making an exception.                                    |
 | 01:19:41   | For a very limited time to celebrate their 20 years in business, you can get 20% off                      |
-| 01:19:45   | any purchase from Rogue Amiga.                                                                            |
+| 01:19:45   | any purchase from Rogue Amoeba.                                                                            |
 | 01:19:47   | You don't need any coupon codes or special URLs, just visit macaudio.com before the end                   |
 | 01:19:51   | of September to save 20% on anything they make.                                                           |
 | 01:19:54   | Download free trials then buy online to receive the discounted price.                                     |
-| 01:19:58   | Congratulations to Rogue Amiga on their 20 great years.                                                   |
+| 01:19:58   | Congratulations to Rogue Amoeba on their 20 great years.                                                   |
 | 01:20:01   | Wowzers.                                                                                                  |
 | 01:20:03   | Visit them at macaudio.com.                                                                               |
-| 01:20:05   | Our thanks to Rogue Amiga for their support of this show and Relay FM.                                    |
+| 01:20:05   | Our thanks to Rogue Amoeba for their support of this show and Relay FM.                                    |
 | 01:20:10   | So Rose, you've been teasing me about [[Home Assistant]] now for like six months.                             |
 | 01:20:15   | So when you told me about it, you're like, this is amazing.                                               |
 | 01:20:17   | It really helps.                                                                                          |
