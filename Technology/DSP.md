@@ -1,8 +1,9 @@
 ---
-status: "Complete"
+status: complete
 creator: ""
-notetype: "technology"
-aliases: ["Digital Signal Processing"]
+notetype: technology
+aliases:
+  - Digital Signal Processing
 ---
 # Overview
 Digital Signal Processing (DSP) is a way of manipulating audio signals using computers or specialised digital hardware. When you listen to audio, DSP helps improve the sound quality and efficiency of these audio signals. DSP takes an analogue audio signal (like a microphone's output), converts it into a digital form that a computer can understand, processes it to improve or alter its properties, and then turns it back into an analogue signal that we can hear.
