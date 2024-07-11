@@ -701,7 +701,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:08:09   | machine. But all of my stuff, when I ripped it, I formatted it so that I could play it.                 |
 | 01:08:13   | Like it was originally in iTunes so that I could use iTunes home sharing. I think it was called         |
 | 01:08:21   | back in the day where you would have your Mac on and then you could play it on the Apple TV             |
-| 01:08:26   | or your iPad or something. And then after, for a while, I switched over to Infuse and just shared       |
+| 01:08:26   | or your iPad or something. And then after, for a while, I switched over to [[Infuse]] and just shared       |
 | 01:08:31   | the drive on my network, which worked pretty well. And then I decided that actually I wanted            |
 | 01:08:36   | it to be available outside of my network and for my parents to also be able to access it.               |
 | 01:08:40   | So I switched over to Plex. That's actually really interesting that you use a Raspberry Pi              |
