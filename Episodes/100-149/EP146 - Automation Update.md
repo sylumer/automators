@@ -83,9 +83,9 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 01:24      | for, I don't know, a couple of years now.                         |
 | 01:26      | This one took a while.                                            |
 | 01:28      | But it was a big switch.                                          |
-| 01:29      | It went over to SwiftUI.                                          |
+| 01:29      | It went over to [[SwiftUI]].                                          |
 | 01:31      | And I think it's probably the highest profile, most complex       |
-| 01:36      | app, to make the full switch to SwiftUI.                          |
+| 01:36      | app, to make the full switch to [[SwiftUI]].                          |
 | 01:39      | Would you agree?                                                  |
 | 01:40      | I don't really know with it.                                      |
 | 01:41      | I haven't really kept that track.                                 |
@@ -93,7 +93,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 01:44      | Yeah, I think it probably is.                                     |
 | 01:48      | It's one of those things where, even if a brand new application   |
 | 01:52      | was written that was huge, like, I don't know, Logic or Final Cut |
-| 01:57      | Pro or something was written in SwiftUI,                          |
+| 01:57      | Pro or something was written in [[SwiftUI]],                          |
 | 01:59      | those are bad examples because they already exist.                |
 | 02:03      | Even if something brand new was written in it,                    |
 | 02:05      | it wouldn't be the same because OmniGroup had to deal with,       |
@@ -105,12 +105,12 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 02:20      | And I know that they definitely ran into some issues              |
 | 02:22      | at various points.                                                |
 | 02:23      | And I'm sure they had to file some bug reports with Apple         |
-| 02:26      | to try and get some things fixed in SwiftUI                       |
+| 02:26      | to try and get some things fixed in [[SwiftUI]]                       |
 | 02:31      | or try and work around it.                                        |
 | 02:33      | But I feel like they've done a really good job.                   |
 | 02:34      | And it shows with the universal unified UI                        |
 | 02:37      | that you get across all the devices now.                          |
-| 02:39      | So it's got the SwiftUI, which gives it the foundation            |
+| 02:39      | So it's got the [[SwiftUI]], which gives it the foundation            |
 | 02:43      | to work across all Apple platforms going forward.                 |
 | 02:47      | So if they want to add a new feature now,                         |
 | 02:49      | it's not like implementing it three times for iPhone, iPad,       |

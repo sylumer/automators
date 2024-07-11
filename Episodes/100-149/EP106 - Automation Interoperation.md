@@ -1370,7 +1370,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 49:08      | and some of the initial actions                                   |
 | 49:10      | weren't fully baked when they launched                            |
 | 49:12      | it and they were                                                  |
-| 49:14      | working with SwiftUI. There's a whole bunch of reasons            |
+| 49:14      | working with [[SwiftUI]]. There's a whole bunch of reasons            |
 | 49:16      | behind why it had a tough                                         |
 | 49:18      | launch. But over the course                                       |
 | 49:20      | of the year they really got it together and now                   |

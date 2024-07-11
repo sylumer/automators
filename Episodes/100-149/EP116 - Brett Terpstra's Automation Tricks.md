@@ -482,10 +482,10 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 42:01      | Brett, we were talking before the break about the kind of evolution of macOS and removal Python.          |
 | 42:08      | There's another kind of story going on with this. I'd love to hear your take on it with                   |
 | 42:13      | programming languages and underlying code. Like now we have a lot of people going to Electron.            |
-| 42:19      | We've got SwiftUI. We've got all these options to make apps on the Mac now. And Apple is, I think,        |
-| 42:26      | finally really being clear that SwiftUI is the future. But where do you see the state of that             |
+| 42:19      | We've got [[SwiftUI]]. We've got all these options to make apps on the Mac now. And Apple is, I think,        |
+| 42:26      | finally really being clear that [[SwiftUI]] is the future. But where do you see the state of that             |
 | 42:31      | stuff as someone who is developing apps? I feel like I am way behind the ball on modern technologies.     |
-| 42:40      | Like I haven't like I've played with SwiftUI. I have not developed anything like using cross              |
+| 42:40      | Like I haven't like I've played with [[SwiftUI]]. I have not developed anything like using cross              |
 | 42:49      | platform technologies. I've only ever in my life developed one iOS app and it was well before.            |
 | 42:58      | What's the what's the tech called that lets you run iOS apps on a Mac? It's Catalyst.                     |
 | 43:05      | Like I haven't gotten into any of that. I despise Electron because like, okay,                            |

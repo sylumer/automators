@@ -1209,7 +1209,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:24:25   | Just folks do us a favor. And if you're using a segue in apple park, please wrap yourself                 |
 | 01:24:29   | in bubble, uh, bubble wrap first and, or one of those like giant, like hamster bowls, inflatable          |
 | 01:24:34   | hamster bowl type thing. Um, that, that sounds safe. Um, we don't want you to get injured.                |
-| 01:24:38   | Yeah. I agree with you. It's probably the API and the fact that they're on swift UI and                   |
+| 01:24:38   | Yeah. I agree with you. It's probably the API and the fact that they're on [[SwiftUI]] and                   |
 | 01:24:42   | everything is running the same code now. So that makes it so much easier, but the romantic                |
 | 01:24:47   | one is the loan ranger, the loan automation ranger. And that's, that's what I'm going                     |
 | 01:24:52   | to stick with.                                                                                            |

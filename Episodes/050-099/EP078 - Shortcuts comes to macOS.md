@@ -1058,7 +1058,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 59:57      | So ask me again how that's going.                                                                                         |
 | 59:59      | Uh, I do not recommend people run the watchOS beta.                                                                       |
 | 01:00:02   | I made a stupid mistake.                                                                                                  |
-| 01:00:03   | I was playing with SwiftUI and I wrote a watchOS application.                                                             |
+| 01:00:03   | I was playing with [[SwiftUI]] and I wrote a watchOS application.                                                             |
 | 01:00:07   | Oh, you know what, Rose?                                                                                                  |
 | 01:00:08   | I'm installing the beta tonight that, that, for that reason.                                                              |
 | 01:00:11   | Don't do it, David.                                                                                                       |

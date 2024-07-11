@@ -511,7 +511,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 37:37      | I know that I want like this icon over here on the left. And then I want text on the right,            |
 | 37:42      | which is like a title and then a subtitle and then some content, like trying to figure                 |
 | 37:46      | out how to translate that, especially if you're new to this stuff and you haven't worked with,         |
-| 37:52      | with SwiftUI and, you know, or CSS before where you had to try and figure out how to                   |
+| 37:52      | with [[SwiftUI]] and, you know, or CSS before where you had to try and figure out how to                   |
 | 37:57      | lay this stuff out can be very, very tricky. There's, there's a reason why, you know, there's          |
 | 38:02      | the folks who create the designs in Adobe and design or publisher or similar. And then                 |
 | 38:07      | there's the folks who, who write the code that make the design. And there, there's not a               |
@@ -521,7 +521,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 38:21      | something goes very, very wrong. So, so yeah, it's, it's, it's certainly interesting. And              |
 | 38:27      | I'm looking forward to the, the beta of that when, whenever you get around to it. So I                 |
 | 38:31      | feel free to put me on the early beta list and I will do my best to test it to its limits.             |
-| 38:36      | I've, I've been playing a lot with [[Swift Playgrounds]] recently and SwiftUI. So fingers crossed          |
+| 38:36      | I've, I've been playing a lot with [[Swift Playgrounds]] recently and [[SwiftUI]]. So fingers crossed          |
 | 38:40      | I'll be able to translate that knowledge back into JavaScript. And yeah, I can't wait to               |
 | 38:43      | see what you've got for us.                                                                            |
 | 38:44      | Sure. I'll, I'll make sure to add you to the beta and in many months time probably.                    |

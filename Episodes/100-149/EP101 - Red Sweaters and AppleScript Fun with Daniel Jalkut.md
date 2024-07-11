@@ -2134,7 +2134,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:33:28   | Yeah, I do think that we're in a weird period right now.          |
 | 01:33:33   | I think that the automation team is, you know,                    |
 | 01:33:36   | primarily shortcuts.                                              |
-| 01:33:37   | I think they're, you know, they were given SwiftUI                |
+| 01:33:37   | I think they're, you know, they were given [[SwiftUI]]                |
 | 01:33:40   | as a platform and they're struggling                              |
 | 01:33:43   | to make the best possible app                                     |
 | 01:33:45   | with, you know, kind of a developing set of tools.                |

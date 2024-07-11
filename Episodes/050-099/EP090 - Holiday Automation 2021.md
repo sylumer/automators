@@ -1431,8 +1431,8 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:21:36   | co-hosts to wish to murder me because of any technology problems while recording.                    |
 | 01:21:41   | So I feel like I've not been as on top of this as I ought to have been, perhaps.                     |
 | 01:21:45   | Yeah, because there's a lot of stuff that is broken and slow.                                        |
-| 01:21:50   | I mean, underlying it is they wrote this in SwiftUI, which is a new programming environment,         |
-| 01:21:57   | and I'm sure that the fact that Shortcuts team is using this is making SwiftUI better                |
+| 01:21:50   | I mean, underlying it is they wrote this in [[SwiftUI]], which is a new programming environment,         |
+| 01:21:57   | and I'm sure that the fact that Shortcuts team is using this is making [[SwiftUI]] better                |
 | 01:22:03   | or faster.                                                                                           |
 | 01:22:06   | I don't know what's going on, but it feels like it's getting better now, but it's also               |
 | 01:22:10   | changing.                                                                                            |
@@ -1445,14 +1445,14 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:22:35   | And then the Mac is undergoing these changes, which is a good thing.                                 |
 | 01:22:40   | I'm really pleased that the Shortcuts team are on this, and they're working really hard.             |
 | 01:22:44   | And I have to say, Omni Group have been doing, it's more of an alpha than a beta, to be honest,       |
-| 01:22:51   | of OmniFocus 4, and that's in SwiftUI, and they've been running into issues with SwiftUI,            |
+| 01:22:51   | of OmniFocus 4, and that's in [[SwiftUI]], and they've been running into issues with [[SwiftUI]],            |
 | 01:22:57   | which are things crash, and it's not because Omni Group have necessarily programmed things            |
-| 01:23:02   | wrong, it's because of SwiftUI, and they've said this several times over the beta, you               |
-| 01:23:08   | know, like, there's a SwiftUI bug here, we're working on trying to get it fixed with Apple,          |
+| 01:23:02   | wrong, it's because of [[SwiftUI]], and they've said this several times over the beta, you               |
+| 01:23:08   | know, like, there's a [[SwiftUI]] bug here, we're working on trying to get it fixed with Apple,          |
 | 01:23:13   | but they're having to write some things in AppKit to go around that, or UIKit, and so                |
 | 01:23:21   | on, which is just, you know, it's less than ideal, and I wonder if the Shortcuts team have           |
 | 01:23:25   | run into the same issue, or let's face it, they've got an inside line, right, to the                 |
-| 01:23:30   | folks who write, who are in charge of the SwiftUI for work, so I'm pretty certain they're            |
+| 01:23:30   | folks who write, who are in charge of the [[SwiftUI]] for work, so I'm pretty certain they're            |
 | 01:23:35   | getting some things fixed for them, which is nice, but yeah, I'm crossing my fingers,                |
 | 01:23:39   | this continues, because it's good to see changes.                                                    |
 | 01:23:42   | Yeah, well, we're going to be talking about it more when things settle, but I think the              |
