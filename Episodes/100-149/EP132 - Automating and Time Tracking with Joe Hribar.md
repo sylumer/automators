@@ -231,13 +231,13 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 12:30      | Yes.                                                                                                 |
 | 12:31      | Is that the sort of thing that you would be looking at for this?                                     |
 | 12:35      | Or would you just go nuts and build something custom?                                                |
-| 12:39      | I think it would definitely be something like Swift data, yeah, because when they announced          |
+| 12:39      | I think it would definitely be something like [[SwiftData]], yeah, because when they announced          |
 | 12:45      | it, I was like, oh, that's interesting.                                                              |
 | 12:47      | That might be something beneficial for me in the future, because yeah, I think that would            |
 | 12:53      | be a good thing to have in the app, too, the option to have it sync with iCloud, too.                |
 | 13:00      | Definitely.                                                                                          |
 | 13:01      | It makes a lot of sense, and I know a lot of developers that I know, especially, indeed,             |
-| 13:07      | developers or folks working in very small companies, were really excited by Swift data,              |
+| 13:07      | developers or folks working in very small companies, were really excited by [[SwiftData]],              |
 | 13:12      | and some of the folks who've got existing stuff, were existing customers who are running             |
 | 13:17      | very old versions of iOS, so they're going, yeah, I really wish we could look at this,               |
 | 13:21      | but there's no way.                                                                                  |
