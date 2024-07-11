@@ -1731,7 +1731,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:29:00   | Right now, anybody listening, I know you know all this, but start option clicking on stuff                    |
 | 01:29:05   | in your menu bar.                                                                                             |
 | 01:29:06   | You might be surprised.                                                                                       |
-| 01:29:07   | You'd be amazed how much stuff lives under option clicking, whether that's sound source,                      |
+| 01:29:07   | You'd be amazed how much stuff lives under option clicking, whether that's [[SoundSource]],                      |
 | 01:29:11   | whether that's whatever that is, like there's just little things where you noodle around,                     |
 | 01:29:14   | you try something intuitive, but to think about the whoever, whatever group made that                         |
 | 01:29:22   | feature work is so freaking smart, and so to make something that I find intuitive, that's                     |

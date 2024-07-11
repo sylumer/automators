@@ -1237,7 +1237,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 44:42      | Audio hijack has full                                             |
 | 44:44      | shortcut support now, including their own JavaScript              |
 | 44:46      | engine. Woo!                                                      |
-| 44:48      | And then they did the same thing with SoundSource,                |
+| 44:48      | And then they did the same thing with [[SoundSource]],                |
 | 44:50      | which is great.                                                   |
 | 44:52      | And Taskheat is another one that                                   |
 | 44:54      | I saw sneak in there recently                                     |
@@ -1266,11 +1266,11 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 45:40      | So, I'm glad that that has shortcut support                       |
 | 45:42      | just because that                                                 |
 | 45:44      | for certain projects will be really useful.                       |
-| 45:46      | Yeah, and I want to call out SoundSource because                  |
+| 45:46      | Yeah, and I want to call out [[SoundSource]] because                  |
 | 45:48      | this is, you know, we talk about                                  |
 | 45:50      | the [[Rogue Amoeba]] apps a lot. We're podcasters.                     |
 | 45:52      | These are really important tools                                  |
-| 45:54      | for us. But SoundSource                                           |
+| 45:54      | for us. But [[SoundSource]]                                           |
 | 45:56      | allows you to easily control                                      |
 | 45:58      | the inputs and outputs on your Mac.                               |
 | 46:00      | There's a lot of people who need                                  |
@@ -1282,9 +1282,9 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 46:12      | when you get on a zoom call.                                      |
 | 46:14      | Now all that is totally                                           |
 | 46:16      | done through shortcuts                                            |
-| 46:18      | with this great little SoundSource app.                           |
+| 46:18      | with this great little [[SoundSource]] app.                           |
 | 46:20      | I just think it's                                                 |
-| 46:22      | them getting shortcut support for SoundSource                     |
+| 46:22      | them getting shortcut support for [[SoundSource]]                     |
 | 46:24      | to me was almost more exciting to me                              |
 | 46:26      | than them getting it for [[Audio Hijack]].                            |
 | 46:28      | Yeah, I understand                                                |
@@ -1296,7 +1296,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 46:40      | techiness and creating                                            |
 | 46:42      | shortcuts and automations                                         |
 | 46:44      | and so on. But I'm                                                |
-| 46:46      | very glad that they brought it to SoundSource                     |
+| 46:46      | very glad that they brought it to [[SoundSource]]                     |
 | 46:48      | because I have                                                    |
 | 46:50      | used that in a bunch of places. It's actually                     |
 | 46:52      | replacing                                                         |
@@ -1307,7 +1307,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 47:02      | was, which would also                                             |
 | 47:04      | let me do the same thing.                                         |
 | 47:06      | And I much prefer using                                           |
-| 47:08      | SoundSource for this. It's                                        |
+| 47:08      | [[SoundSource]] for this. It's                                        |
 | 47:10      | much simpler                                                      |
 | 47:12      | and much easier to fix as well.                                   |
 | 47:14      | Yeah, exactly.                                                    |

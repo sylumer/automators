@@ -651,7 +651,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 39:42      | didn't realise that you could automate before that actually you can, you know, like instead            |
 | 39:46      | of just opening [[Audio Hijack]] when I start a podcast recording, it opens the right [[Audio Hijack]]                |
 | 39:51      | session for me when I start recording, you know, instead of just sending me a notification      |
-| 39:57      | to change my sound inputs, I actually have sound source switch them using shortcuts,                   |
+| 39:57      | to change my sound inputs, I actually have [[SoundSource]] switch them using shortcuts,                   |
 | 40:03      | which previously I was doing with switch OSX, which was a command line utility, you know,              |
 | 40:12      | and all of these things end up being improvements that, you know, I might not have found if            |
 | 40:16      | I hadn't been open to the idea of changing to new applications.                                        |

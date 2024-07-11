@@ -1097,7 +1097,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:00:48   | I can see like the sound might get annoying after a while, especially if you're somebody                  |
 | 01:00:52   | that has to like plug in your Mac for a presentation or something like that, that might not be            |
 | 01:00:56   | the best thing, but that would be so fun to play with.                                                    |
-| 01:00:59   | You can, like using sound source is one of the things I love using sound source for,                      |
+| 01:00:59   | You can, like using [[SoundSource]] is one of the things I love using [[SoundSource]] for,                      |
 | 01:01:02   | especially now it's got shortcut support so that you can like properly integrate this                     |
 | 01:01:05   | on the Mac is you can actually say like, Hey, I want to like mute my sound effects.                       |
 | 01:01:13   | And so you can, you can just drag that down and you can send it to a different speaker                    |

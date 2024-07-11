@@ -426,7 +426,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 18:58      | Okay.                                                                                                  |
 | 18:59      | I did not realise that that update had come out and it's now going on my to-do list                    |
 | 19:01      | to like, go check that out immediately after the show because I was on holiday last week.              |
-| 19:04      | So I, I, I didn't read that there was a Sound Source update with shortcut support.                     |
+| 19:04      | So I, I, I didn't read that there was a [[SoundSource]] update with [[Shortcuts]] support.                     |
 | 19:08      | Oh yeah.                                                                                               |
 | 19:09      | Yep.                                                                                                   |
 | 19:10      | My weekends just disappeared.                                                                          |
