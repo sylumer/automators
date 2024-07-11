@@ -11,7 +11,7 @@ Swift Playgrounds is an interactive application developed by Apple, designed to 
 - macOS  
 
 # Features  
-- **Interactive Lessons & Guideed Walkthroughs** - step-by-step tutorials that introduce coding concepts progressively.
+- **Interactive Lessons & Guided Walkthroughs** - step-by-step tutorials that introduce coding concepts progressively.
 - **Live Code Execution** - real-time feedback as you write code, allowing you to see results instantly.
 - **Puzzles and Challenges** - engaging activities that help reinforce coding skills through practical application.
 - **Content Library** - a rich library of additional lessons and challenges created by Apple and external developers.
