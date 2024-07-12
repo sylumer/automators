@@ -1877,7 +1877,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:21:26   | They already have the ability to run a shortcut                   |
 | 01:21:28   | from another shortcut,                                            |
 | 01:21:31   | but if you can think back,                                        |
-| 01:21:35   | has either of you ever used the Quartz composer                   |
+| 01:21:35   | has either of you ever used the [[Quartz Composer]]                   |
 | 01:21:38   | that Apple used to support?                                       |
 | 01:21:40   | I vaguely remember playing with this a few times.                 |
 | 01:21:43   | It was very much a kind of general purpose,                       |
@@ -1901,7 +1901,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:22:50   | to just kind of prompt my memory.                                 |
 | 01:22:51   | But like, yeah, you have like a linear list right now             |
 | 01:22:54   | of things in a shortcut.                                          |
-| 01:22:57   | And the cool thing about Quartz Composer was                      |
+| 01:22:57   | And the cool thing about [[Quartz Composer]] was                      |
 | 01:23:02   | you could kind of have like a two dimensional map                 |
 | 01:23:05   | of all the ways that your logic could flow.                       |
 | 01:23:08   | And I could see it expanding in that way.                         |
