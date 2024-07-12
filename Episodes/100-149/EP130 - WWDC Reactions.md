@@ -773,7 +773,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:04:55   | that they're going to close down, but that is a great example of an iPhone and iPad app that,             |
 | 01:05:00   | you know, could potentially just have worked on the vision pro and so fingers crossed things              |
 | 01:05:05   | like OmniFocus will also just work on the vision pro. Um, and that is something that I could imagine     |
-| 01:05:11   | being really useful. I'm looking forward to seeing if things like task heat and so on work. That's a      |
+| 01:05:11   | being really useful. I'm looking forward to seeing if things like [[Taskheat]] and so on work. That's a      |
 | 01:05:15   | really sort of visual way of like interlinking and planning your tasks where you can have lots of         |
 | 01:05:21   | dependency. So like these three things have to be done before I can do this thing. And when that          |
 | 01:05:25   | thing is done, these five things can be done. Um, and so on and so forth. Um, and I would really          |

@@ -494,7 +494,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 28:30      | And when those three things over there are done, that enables this thing.                              |
 | 28:33      | But when that's one of those things, plus these two other things are done, then that                   |
 | 28:37      | enables that thing.                                                                                    |
-| 28:38      | Then I'll turn to something like Task Heat or, you know, sometimes I'll just make a                    |
+| 28:38      | Then I'll turn to something like [[Taskheat]] or, you know, sometimes I'll just make a                    |
 | 28:43      | quick list in reminders or even [[Drafts]] or things.                                                      |
 | 28:46      | But you know, if I'm, if I want my big project management, I want OmniFocus.                           |
 | 28:52      | And you know, I've recently taken to, I know that fake due dates are not GTD, I'm very                 |

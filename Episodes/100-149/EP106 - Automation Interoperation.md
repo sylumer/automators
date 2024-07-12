@@ -1239,9 +1239,9 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 44:46      | engine. Woo!                                                      |
 | 44:48      | And then they did the same thing with [[SoundSource]],                |
 | 44:50      | which is great.                                                   |
-| 44:52      | And Taskheat is another one that                                   |
+| 44:52      | And [[Taskheat]] is another one that                                   |
 | 44:54      | I saw sneak in there recently                                     |
-| 44:56      | with shortcut support. It's an                                    |
+| 44:56      | with [[Shortcuts]] support. It's an                                    |
 | 44:58      | app I use when I'm trying to figure out                           |
 | 45:00      | dependencies                                                      |
 | 45:02      | between tasks or projects that need                               |
@@ -1262,8 +1262,8 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 45:32      | different things and which, you know, which ones                  |
 | 45:34      | can you actually start with right now and                         |
 | 45:36      | which ones need other things first.                               |
-| 45:38      | Well, that's what I use Taskheat for.                              |
-| 45:40      | So, I'm glad that that has shortcut support                       |
+| 45:38      | Well, that's what I use [[Taskheat]] for.                              |
+| 45:40      | So, I'm glad that that has [[Shortcuts]] support                       |
 | 45:42      | just because that                                                 |
 | 45:44      | for certain projects will be really useful.                       |
 | 45:46      | Yeah, and I want to call out [[SoundSource]] because                  |
