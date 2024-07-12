@@ -176,7 +176,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 10:45      | more prep on it. But if you've got Aqara sensors and you want to get some of those additional           |
 | 10:50      | features into [[HomeKit]], it's actually easier now than it used to be. So yeah, I've seen that and         |
 | 10:55      | I've also seen the SwitchBot appears to be doing something very similar as well with their              |
-| 10:58      | Matter-based hub. So that's definitely something that we should look into because yeah, I've had       |
+| 10:58      | [[Matter]]-based hub. So that's definitely something that we should look into because yeah, I've had       |
 | 11:03      | some questions come in about that recently. Oh, that's so cool. I look forward to that show.            |
 | 11:08      | Alex, you got to find Aqara in your life if you're doing a home automation. It's just so great.         |
 | 11:13      | But you had said earlier, I'm not going to let you get away with this. You said that you had            |

@@ -795,9 +795,9 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:06:50   | it and things like that. And I think that this is really great, especially for those                      |
 | 01:06:55   | security related automations. Sadly, it's only for a limited subset of devices,                           |
 | 01:07:00   | but I feel like this is a great start for improving home kit for a lot of people.                         |
-| 01:07:04   | Agreed. Um, but it wasn't a banner year for home kit. You know, we didn't get a lot of,                   |
+| 01:07:04   | Agreed. Um, but it wasn't a banner year for [[HomeKit]]. You know, we didn't get a lot of,                   |
 | 01:07:09   | of new stuff, but that, that is one of the things we got and that's cool. Um, I feel like                 |
-| 01:07:16   | as matter sinks in, I feel like home kit is going to evolve more probably in future years.                |
+| 01:07:16   | as [[Matter]] sinks in, I feel like [[HomeKit]] is going to evolve more probably in future years.                |
 | 01:07:21   | I also think a lot of people at Apple are really busy working on a thing that you strap to your           |
 | 01:07:25   | head so they don't have a lot of time. Yeah. We already mentioned the, you know, the thing with           |
 | 01:07:31   | Apollo and Reddit, which I guess I just want to join the chorus of everybody saying, um, I think          |

@@ -532,8 +532,8 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 44:44      | Yeah.                                                                                                  |
 | 44:45      | And this is like, I know I could do it. I know I could have all the various bridges                    |
 | 44:49      | and things and I could bring stuff into home kit. I just kind of want it all to work. And              |
-| 44:55      | I'm hoping that, you know, with the advent of matter and whatever, like in five years                  |
-| 45:01      | or whatever, this will all work. And even the random thing bought off Aliexpress will                  |
+| 44:55      | I'm hoping that, you know, with the advent of [[Matter]] and whatever, like in five years                  |
+| 45:01      | or whatever, this will all work. And even the random thing bought off AlI Express will                  |
 | 45:08      | just integrate into this and will not require, you know, 13 firmware updates and a magic               |
 | 45:16      | spell to make it work.                                                                                 |
 | 45:18      | Okay. But what are you going to do for the five years in between?                                      |

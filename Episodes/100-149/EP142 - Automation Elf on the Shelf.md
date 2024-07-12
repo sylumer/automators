@@ -99,7 +99,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 02:21      | And as a bonus, they last longer because they're not plugged in all the time.                       |
 | 02:24      | So yeah, so nice little tip for folks there.                                                        |
 | 02:29      | I think one of the things people have forgotten is that smart plugs now are ridiculously cheap      |
-| 02:36      | and matter, home kit, whatever you want, you can get them for very little money.                    |
+| 02:36      | and [[Matter]], [[HomeKit]], whatever you want, you can get them for very little money.                    |
 | 02:42      | And that does open a lot of options, right?                                                         |
 | 02:45      | To do something like this, or like if you just want to kick the router once in a while              |
 | 02:49      | and turn it off and on without having to reach under and plug it, all those things now are          |
@@ -329,7 +329,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:18      | And then if you don't have a hub at all and you just want to buy like one smart plug to             |
 | 16:23      | try this thing out, then I'd recommend Merrill's M-E-R-O-S.                                         |
 | 16:28      | You can get those on Amazon.                                                                        |
-| 16:30      | Make sure to get the ones that work with [[HomeKit]] or Matter, not the ones that don't work with       |
+| 16:30      | Make sure to get the ones that work with [[HomeKit]] or [[Matter]], not the ones that don't work with       |
 | 16:34      | [[HomeKit]] or Matter.                                                                                  |
 | 16:35      | And those are the work of a Wi-Fi.                                                                  |
 | 16:38      | I don't love Wi-Fi devices, but if you need something like a four-gang extension or, you            |

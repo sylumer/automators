@@ -1037,7 +1037,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 58:21      | we've discussed today, I feel like home automation is the one that needs the                            |
 | 58:24      | most work.                                                                                              |
 | 58:25      | I feel like it's the one in the worst shape right now.                                                  |
-| 58:28      | We're in this matter transition, but just from feedback we get from show                                |
+| 58:28      | We're in this [[Matter]] transition, but just from feedback we get from show                                |
 | 58:33      | listeners, I feel like this is the most vexing automation that people want to do                        |
 | 58:38      | and they have a lot of trouble getting it to work consistently.                                         |
 | 58:42      | And this is one that I think needs the most work.                                                       |
@@ -1081,8 +1081,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:00:35   | But like that sort of mistake goes way back.                                                            |
 | 01:00:37   | And fixing that sort of thing is really difficult.                                                      |
 | 01:00:40   | But we're also seeing, you know, improvements because, you know,                                        |
-| 01:00:44   | Apple is part of matter.                                                                                |
-| 01:00:46   | And they're part of the people creating the matter standard.                                            |
+| 01:00:44   | Apple is part of [[Matter]].                                                                                |
+| 01:00:46   | And they're part of the people creating the [[Matter]] standard.                                            |
 | 01:00:49   | That means that there is [[Thread]], which is another way to connect devices                                |
 | 01:00:54   | together.                                                                                               |
 | 01:00:55   | But that's had some pain points because if you had home plots,                                          |
@@ -1114,7 +1114,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:02:31   | It's, it's a very bad user experience.                                                                  |
 | 01:02:34   | So yeah, there are some manufacturers still going the wrong way when it                                 |
 | 01:02:38   | comes to smart home stuff, but I think a lot of them have hopped on.                                    |
-| 01:02:41   | The, you know, matter is good.                                                                          |
+| 01:02:41   | The, you know, [[Matter]] is good.                                                                          |
 | 01:02:44   | Open standards are better and let people be creative with this stuff                                    |
 | 01:02:50   | because just because you think that a motion sensor should turn the light on,                           |
 | 01:02:54   | it's not a surgery.                                                                                     |
@@ -1140,7 +1140,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:03:55   | So there are ways, but you know, how many people want to set up a home assistant                        |
 | 01:03:59   | server and go that next level?                                                                          |
 | 01:04:01   | I just feel like this is an area of automation that is ripe for improvement.                            |
-| 01:04:07   | Matter may be the answer.                                                                               |
+| 01:04:07   | [[Matter]] may be the answer.                                                                               |
 | 01:04:10   | I don't know.                                                                                           |
 | 01:04:11   | We're just going to have to find out.                                                                   |
 | 01:04:12   | I mean, it's certainly an attempt.                                                                      |
@@ -1149,7 +1149,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:04:20   | So it was kind of like a land grab of like, oh, you should just get Apple stuff.                        |
 | 01:04:25   | You should just get Google stuff or Amazon.                                                             |
 | 01:04:27   | And, and they realised that's just not going to work.                                                   |
-| 01:04:29   | I think they're begrudgingly, maybe all trying to get on this matter standard.                          |
+| 01:04:29   | I think they're begrudgingly, maybe all trying to get on this [[Matter]] standard.                          |
 | 01:04:33   | But, but hopefully it works.                                                                            |
 | 01:04:35   | I'll tell you, in general, my home automation is pretty consistent, but it's                            |
 | 01:04:39   | only because I'm a nerd and I babysit it.                                                               |

@@ -665,11 +665,11 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 48:03      | what I think I'm capable of. And I suspect, you know, over time, I will probably want                    |
 | 48:09      | to take another stab at [[Home Assistant]] and see if I can make heads or tails of it, like                  |
 | 48:14      | I said. Yeah, yeah, absolutely. And yeah, I mean,                                                        |
-| 48:18      | these things are getting better and better as well. And with the introduction of matter,                 |
+| 48:18      | these things are getting better and better as well. And with the introduction of [[Matter]],                 |
 | 48:23      | more devices are becoming home kit compatible that weren't previously home kit compatible.               |
 | 48:27      | And that's certainly making things a lot easier for, for us and cheaper as well, because                 |
 | 48:33      | there would often be a premium on home kit devices and now loads of stuff is coming out                  |
-| 48:37      | and all things be matter compatible, which is really nice.                                               |
+| 48:37      | and all things be [[Matter]] compatible, which is really nice.                                               |
 | 48:41      | I don't recommend [[Home Assistant]] for everybody because it's nerdy, but I mean, you're an app             |
 | 48:44      | developer and you have done some very nerdy automation stuff already. And you just need                  |
 | 48:50      | to channel your dad's X 10 roots. I think you should, I think you should install it.                     |

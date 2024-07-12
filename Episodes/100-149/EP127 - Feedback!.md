@@ -1143,7 +1143,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:10:50   | Yeah, don't feel that you need to spend $250 to solve the gaps in your home automation                 |
 | 01:10:55   | system.                                                                                                |
 | 01:10:56   | The minimum would be worth saving some of that money so that you can maybe just buy upgraded           |
-| 01:11:02   | automation devices, which will then work with Matter and [[HomeKit]] in the near future.                   |
+| 01:11:02   | automation devices, which will then work with [[Matter]] and [[HomeKit]] in the near future.                   |
 | 01:11:07   | How long do you think we're going to have to wait for Matter to really land?                           |
 | 01:11:13   | I mean, I kind of feel like to an extent it's already here.                                            |
 | 01:11:15   | I got the new SwitchBot Hub the other day, which I've only just started playing with                   |

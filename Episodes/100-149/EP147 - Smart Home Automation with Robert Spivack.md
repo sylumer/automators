@@ -342,7 +342,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 18:58      | It's been difficult for a company to achieve [[HomeKit]] certification.                                    |
 | 19:02      | Not only do they have to build the product, but they have to pay for a test lab to test                |
 | 19:06      | it and put it through a lot of at least basic testing and compatibility.                               |
-| 19:11      | So that ensures that anything with [[HomeKit]] and hopefully Matter Standard certification                 |
+| 19:11      | So that ensures that anything with [[HomeKit]] and hopefully [[Matter]] Standard certification                 |
 | 19:17      | now is a level of quality above the basics.                                                            |
 | 19:21      | You can't just buy some chips, put them in a box and send it out the door and hope it                  |
 | 19:25      | works.                                                                                                 |
@@ -469,7 +469,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 27:31      | That's linkedin.com/automators to post your job for free, terms and conditions apply.            |
 | 27:36      | Okay, so Robert, let's talk about, let's go global a little bit.                                       |
 | 27:43      | We're here in 2024.                                                                                    |
-| 27:44      | A lot of people are hearing this word matter.                                                          |
+| 27:44      | A lot of people are hearing this word [[Matter]].                                                          |
 | 27:46      | They're not really sure what it means.                                                                 |
 | 27:48      | We've got [[HomeKit]], [[Home Assistant]], Google Home, all these different platforms.                         |
 | 27:53      | Can you kind of draw a picture for us of what's going on?                                              |
@@ -563,28 +563,28 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 34:32      | just not available there.                                                                              |
 | 34:34      | And that's very frustrating for people who want to use this sort of thing with [[HomeKit]].                |
 | 34:38      | So it sounds like you're telling us something is changing there.                                       |
-| 34:43      | Yes, the new matter standard, which is a consortium, you can go through all the technical details,     |
+| 34:43      | Yes, the new [[Matter]] standard, which is a consortium, you can go through all the technical details,     |
 | 34:50      | but it's basically a combination of the biggest manufacturers all realising no one of them             |
 | 34:55      | can rule the consumer market.                                                                          |
 | 34:58      | So they all agreed in sort of a detente to work together.                                              |
 | 35:02      | They contributed both technology and market presence and availability so that going forward,           |
 | 35:10      | there'll be one set of standards for connecting devices.                                               |
 | 35:14      | But I really like to put it in perspective.                                                            |
-| 35:17      | Matter is a case of is the glass half empty or is the glass half full?                                 |
+| 35:17      | [[Matter]] is a case of is the glass half empty or is the glass half full?                                 |
 | 35:22      | If you look at all the promises of everything great it's going to do, we're still waiting              |
 | 35:28      | for a lot of that to happen.                                                                           |
 | 35:30      | But if you look at the basics at the very basic level, it's succeeding in doing two                    |
 | 35:34      | things.                                                                                                |
 | 35:35      | It's succeeding in providing a basic connectivity where a product will work with all of these          |
 | 35:43      | ecosystems at a basic level of functionality.                                                          |
-| 35:47      | So if you buy a new smart plug and it says it's matter compatible, that's all you have                 |
+| 35:47      | So if you buy a new smart plug and it says it's [[Matter]] compatible, that's all you have                 |
 | 35:53      | to worry about, whether you're Google, Amazon, [[HomeKit]], [[Home Assistant]] or others, it will              |
 | 35:59      | work at a reasonable level with all of them.                                                           |
 | 36:03      | And that's a major accomplishment because until now you had to really buy the product                  |
 | 36:08      | for the system you own.                                                                                |
 | 36:11      | The second benefit, which is sometimes overlooked or not, is it provides one programming model         |
 | 36:20      | for the manufacturers and creators of the products.                                                    |
-| 36:23      | They now have to provide a matter interface, a matter driver, matter software and they're              |
+| 36:23      | They now have to provide a [[Matter]] interface, a [[Matter]] driver, [[Matter]] software and they're              |
 | 36:30      | done.                                                                                                  |
 | 36:31      | They can now build that product and it will work with all of these different systems.                  |
 | 36:37      | So there's a cost and efficiency benefit.                                                              |
@@ -595,11 +595,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 37:00      | We haven't seen the market or the products figure out how to be a standardised product                 |
 | 37:06      | while still having added value.                                                                        |
 | 37:09      | There's a few companies doing that very well, but a lot of others are just racing to slap              |
-| 37:15      | the matter label on their product and they haven't thought about it so they're dropping                |
+| 37:15      | the [[Matter]] label on their product and they haven't thought about it so they're dropping                |
 | 37:19      | their prices.                                                                                          |
 | 37:22      | So what are the ways that these products distinguish themselves?                                       |
 | 37:25      | So a great example is the EVE line of products.                                                        |
-| 37:28      | They started with [[HomeKit]] only products and by adding matter support, they're now able                 |
+| 37:28      | They started with [[HomeKit]] only products and by adding [[Matter]] support, they're now able                 |
 | 37:33      | to work with a wider variety of systems, but they've always had very high reliability to               |
 | 37:40      | the hardware and added features in the plugs that EVE provides.                                        |
 | 37:45      | They provide power monitoring and power management.                                                    |
@@ -608,7 +608,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 37:59      | if they meet the amp load, you can get all that information.                                           |
 | 38:04      | The downside today is you still have to go to their app or any manufacturer's app for                  |
 | 38:10      | this added value.                                                                                      |
-| 38:12      | So the thought that matter would eliminate all these apps and eliminate having to have                 |
+| 38:12      | So the thought that [[Matter]] would eliminate all these apps and eliminate having to have                 |
 | 38:18      | different apps for different products is not completely true.                                          |
 | 38:22      | If you want the extra features, you still have to go to the manufacturer's app.                        |
 | 38:27      | Similarly, with security cameras or with many other products, most of the added features               |
@@ -636,7 +636,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 40:17      | That means this and so on and so forth.                                                                |
 | 40:20      | So I'm hoping that this is going to be great for everybody.                                            |
 | 40:25      | One thing I'd like to remind folks is it's not a bad thing.                                            |
-| 40:29      | The worst case with matter or other standards is it's no worse than what we have now, but              |
+| 40:29      | The worst case with [[Matter]] or other standards is it's no worse than what we have now, but              |
 | 40:35      | the upside, this potential, as you mentioned, for getting more features standardised, more             |
 | 40:39      | capability available is a good thing.                                                                  |
 | 40:43      | So we can't look at it as it's only been out a year or two.                                            |
@@ -673,11 +673,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 43:01      | does update their software.                                                                            |
 | 43:04      | Everything should be able to tie in and interlink together, I hope, from what you're saying.           |
 | 43:10      | Yes.                                                                                                   |
-| 43:11      | And having the matter certification is, again, a quality baseline.                                     |
-| 43:17      | So if you buy products that are [[HomeKit]] certified and now Matter certified, you know the manufacturer  |
+| 43:11      | And having the [[Matter]] certification is, again, a quality baseline.                                     |
+| 43:17      | So if you buy products that are [[HomeKit]] certified and now [[Matter]] certified, you know the manufacturer  |
 | 43:22      | has at least paid $10,000 to $50,000 to join the CSA Alliance, they have paid $20,000 to               |
 | 43:29      | $10,000, $20,000, $30,000 to have a lab test their product.                                            |
-| 43:33      | So there's an implied quality level by buying a Matter product or a [[HomeKit]] product in the             |
+| 43:33      | So there's an implied quality level by buying a [[Matter]] product or a [[HomeKit]] product in the             |
 | 43:38      | past.                                                                                                  |
 | 43:39      | So it really, unless you're buying the least expensive product to just play with, I would              |
 | 43:46      | recommend going with the standardised products, looking for products from major manufacturers.         |
@@ -687,7 +687,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 44:06      | And there are maybe a dozen or so really high quality companies and it's growing.                      |
 | 44:13      | But if you stick to those brands, you're going to have less trouble.                                   |
 | 44:16      | If you want to be the most frugal, then you can go to the second tier companies that are               |
-| 44:20      | now getting Matter or [[HomeKit]] certified and you can buy them on Amazon.                                |
+| 44:20      | now getting [[Matter]] or [[HomeKit]] certified and you can buy them on Amazon.                                |
 | 44:25      | You can buy them in big box stores.                                                                    |
 | 44:28      | And again, it's relatively safe.                                                                       |
 | 44:30      | When you start going to Aliexpress and buying products directly from Asia with unknown brands,         |
@@ -1204,7 +1204,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:20:41   | in use, although some people feel it may be dying, and Lutron and others, they use frequencies         |
 | 01:20:48   | of the radio that are very different than Wi-Fi.                                                       |
 | 01:20:51   | So it's sort of at a physical level, it's like driving a car in a freeway.                             |
-| 01:20:56   | If you have a lane that's reserved for you to drive in, no matter whether you're going                 |
+| 01:20:56   | If you have a lane that's reserved for you to drive in, no [[Matter]] whether you're going                 |
 | 01:21:01   | fast or slow, you're not going to get interference from the other lanes of traffic.                    |
 | 01:21:07   | So at a physical radio transmission and reflection level, using non-Wi-Fi for any of your smart        |
 | 01:21:13   | devices, and by smart devices, I'm referring to low power, low data devices, sensors, switches,        |
@@ -1377,22 +1377,22 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:34:16   | for these other hubs to be installed if you have Ethernet going to a few places in your                |
 | 01:34:21   | house.                                                                                                 |
 | 01:34:22   | Robert, you are so plugged into this stuff.                                                            |
-| 01:34:26   | Where do you think we're going to be with the general trend in a year or two with matter               |
+| 01:34:26   | Where do you think we're going to be with the general trend in a year or two with [[Matter]]               |
 | 01:34:31   | and some of these home kit innovations we're starting to see today?                                    |
-| 01:34:35   | Well, I would like to think that matter will continue to improve and we'll get to the point            |
-| 01:34:41   | that every device will have a matter sticker on it and it won't be a confusion factor when             |
+| 01:34:35   | Well, I would like to think that [[Matter]] will continue to improve and we'll get to the point            |
+| 01:34:41   | that every device will have a [[Matter]] sticker on it and it won't be a confusion factor when             |
 | 01:34:47   | you're buying something new.                                                                           |
 | 01:34:49   | It'll plug in, it'll work, you'll get a level of capability and you'll only have to jump               |
 | 01:34:54   | to third-party apps or third-party controllers or hubs if you want to do much more advanced            |
 | 01:35:01   | specialised work.                                                                                      |
 | 01:35:03   | Firstly, secondly, and this is kind of the bigger thing in my industry of the custom                   |
-| 01:35:09   | and mid-range systems, I hope matter lights a fire under the traditional product line.                 |
+| 01:35:09   | and mid-range systems, I hope [[Matter]] lights a fire under the traditional product line.                 |
 | 01:35:16   | A lot of the existing systems are just way overpriced for what they do, but more importantly,          |
 | 01:35:22   | they're clunky, their technology is still 1980s, 1990s, there's no reason for them to                  |
 | 01:35:30   | be so far behind other than having captive customers and captive dealers.                              |
 | 01:35:36   | We do see the classic ring doorbell encroaching and dealers and systems saying, okay, we'll            |
-| 01:35:43   | support ring, but with hundreds and thousands of devices supporting matter, it's simply                |
-| 01:35:49   | going to be a matter of time before these bigger systems will have to embrace matter                   |
+| 01:35:43   | support ring, but with hundreds and thousands of devices supporting [[Matter]], it's simply                |
+| 01:35:49   | going to be a matter of time before these bigger systems will have to embrace [[Matter]]                   |
 | 01:35:56   | devices and at least accommodate them, which they do not do today at all, even with [[HomeKit]]            |
 | 01:36:02   | or Google or Amazon products, they're very difficult to connect into larger systems.                   |
 | 01:36:09   | I hope that will change by the force of the consumer.                                                  |

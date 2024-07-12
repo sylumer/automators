@@ -694,7 +694,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:04:55   | consolidate on one protocol or another. I think this is hilarious. When it was really hard,               |
 | 01:05:01   | you were good at it. And as it got simpler, it got harder for you.                                        |
 | 01:05:05   | Yeah, that's about right. That's about right. But I got your most recent newsletter this morning          |
-| 01:05:14   | and you talked about a protocol called Matter, which could be the future. I'm really intrigued            |
+| 01:05:14   | and you talked about a protocol called [[Matter]][^1], which could be the future. I'm really intrigued            |
 | 01:05:23   | by this. Well, I mean, what happened was when Apple, Google and Amazon first started this                 |
 | 01:05:30   | 10 years ago or so, they all wanted to become the platform, right? Everybody wanted it like,              |
 | 01:05:37   | oh, you have to get a Google thing because everything works with Google or Apple wanted                   |
@@ -705,7 +705,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:06:03   | or remember Highlander where that can only be one? Yeah, it can be only one. Yeah. Well,                  |
 | 01:06:07   | now they realise that there's three and they'll never only be one. So at some point, they got             |
 | 01:06:13   | together and started to come up with a common protocol for the platforms and the devices where            |
-| 01:06:20   | they all spoke the same language and it's called Matter. And it took them years. They just released       |
+| 01:06:20   | they all spoke the same language and it's called [[Matter]]. And it took them years. They just released       |
 | 01:06:24   | it publicly, I think, earlier this month. So now we're going to start seeing the devices come out         |
 | 01:06:31   | and a lot of the big peripheral kind of sensor, light switch, all those people                            |
 | 01:06:38   | are signing on because Apple, Google, and Amazon are on it. It's going to become the only thing.          |
@@ -782,17 +782,17 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:14:09   | that you have to place at exactly the right angle in the right spot. Especially when you have a           |
 | 01:14:15   | motion sensor in a room where you're sitting in front of a computer and you don't move much and           |
 | 01:14:20   | then it thinks you're not there anymore. But yeah, so there's some really interesting stuff               |
-| 01:14:25   | out there right now. And I feel like matter is going to be a success. I don't see how it can't            |
+| 01:14:25   | out there right now. And I feel like [[Matter]] is going to be a success. I don't see how it can't            |
 | 01:14:30   | because there's no competition to it. All the big players are in on it. Yeah. As long as you              |
 | 01:14:36   | have the buy in from the big three, you're good. Yeah. And I think they've already, I don't know          |
 | 01:14:41   | this for a fact, but I think they've already even announced with the latest Mac Ventura update that     |
-| 01:14:46   | has matter support now. It's like they're putting it in stuff and products are starting to ship now       |
-| 01:14:52   | with matter in it. And I don't think that means your existing home kit stuff is going to stop             |
+| 01:14:46   | has [[Matter]] support now. It's like they're putting it in stuff and products are starting to ship now       |
+| 01:14:52   | with [[Matter]] in it. And I don't think that means your existing home kit stuff is going to stop             |
 | 01:14:57   | working. I don't think Apple's ever going to not support home kit. But going forward, you don't           |
-| 01:15:03   | have to, that's no longer the gating issue for you. Yeah. Anything that's matter will work.               |
+| 01:15:03   | have to, that's no longer the gating issue for you. Yeah. Anything that's [[Matter]] will work.               |
 | 01:15:08   | Well, that'll make it way easier for third party developers. Like when I see an automation hardware       |
 | 01:15:15   | item like on Amazon or whatever, they always have to list works with, works with, works with.             |
-| 01:15:22   | Exactly. And if there was one protocol that they could just say matter supported, and I think it          |
+| 01:15:22   | Exactly. And if there was one protocol that they could just say [[Matter]] supported, and I think it          |
 | 01:15:28   | would ease their development time and make devices even cheaper. Yeah. Agreed. I totally agree. And       |
 | 01:15:35   | like some of the stuff with home kit just stops working after a while. We're setting up the Christmas     |
 | 01:15:42   | tree this weekend. And I got out my Christmas tree switch. It's just you plug it in the wall,             |
@@ -851,3 +851,5 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:21:26   | and what he's doing with it. Okay, that's going to wrap it up. We are the Automators podcast.             |
 | 01:21:30   | You can find us at relay.fm/automators. Thank you to our sponsors today,                            |
 | 01:21:35   | TextExpander Electric and Hover. And we'll see you next time.                                          |
+
+[^1]: [[Matter]] is actually a *connectivity standard* that utilises protocols such as Wi-Fi, [[Thread]], and [[Ethernet]]. It is not itself a protocol.

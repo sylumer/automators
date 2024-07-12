@@ -110,7 +110,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 02:18      | that you can put it into the socket in the room in the new house and keep your automations                |
 | 02:23      | working?                                                                                                  |
 | 02:24      | What's going to happen there?                                                                             |
-| 02:25      | So we're kind of at this weird time with smart home stuff, because we have Matter and then                |
+| 02:25      | So we're kind of at this weird time with smart home stuff, because we have [[Matter]] and then                |
 | 02:30      | there's all the [[Thread]] stuff.                                                                             |
 | 02:31      | So I don't want to just delete all the stuff that I have, and I don't have too much as                    |
 | 02:37      | it is right now, because right now in this moment, I'm in an apartment.                                   |
@@ -123,7 +123,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 03:05      | And I'm doing that even more in this new place.                                                           |
 | 03:07      | So I've been deep into the Philips Hue stuff for a while.                                                 |
 | 03:12      | I am going to stick on the Philips Hue train for now until I kind of see what's happening                 |
-| 03:18      | with Lutron Casetta and what's going to happen with all that matter stuff, is it going to                 |
+| 03:18      | with Lutron Casetta and what's going to happen with all that [[Matter]] stuff, is it going to                 |
 | 03:25      | matter?                                                                                                   |
 | 03:26      | But I'm sorry, I'm so sorry.                                                                              |
 | 03:28      | You just lost half your audience there.                                                                   |
@@ -689,8 +689,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 36:18      | I've never heard anyone say anything bad about it, it is a little pricey to get in and stuff              |
 | 36:23      | like that, which, you know, all this stuff adds up, but the nice thing is it's just once                  |
 | 36:30      | it's in, it's there and it's reliable.                                                                    |
-| 36:34      | So I think for now, I ordered a couple extra hue bulbs just so I could get up and running,                |
-| 36:40      | but I am kind of waiting to see how all the matter stuff shakes out because not only do                   |
+| 36:34      | So I think for now, I ordered a couple extra Hue bulbs just so I could get up and running,                |
+| 36:40      | but I am kind of waiting to see how all the [[Matter]] stuff shakes out because not only do                   |
 | 36:44      | I want to go in for Lutron Caseta for the lights, but I also want to go in with Lutron                    |
 | 36:49      | Caseta for the blinds as well, like I want to, the place that I'm moving into just has                    |
 | 36:55      | dumb pole blinds, you know, the metal blinds that you see in most American homes.                         |

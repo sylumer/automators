@@ -1519,7 +1519,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 59:11      | It's 60 bucks to buy the Generation 2 Hub,                         |
 | 59:15      | but everything else after that is really inexpensive.              |
 | 59:18      | The Generation 2 Hub, and I believe the M1S,                       |
-| 59:21      | actually have got matter support now, David.                       |
+| 59:21      | actually have got [[Matter]] support now, David.                       |
 | 59:25      | They're supporting matter and thread specifically.                 |
 | 59:30      | So Aqara are definitely,                                           |
 | 59:32      | they're really all in on home automation                           |

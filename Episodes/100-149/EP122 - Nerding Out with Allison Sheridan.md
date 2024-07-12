@@ -838,7 +838,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:05:59   | of those things where this is pretty much like the problem with [[HomeKit]] and home automation in many     |
 | 01:06:07   | ways. There are too many ways to solve the problem, because you have the Hub app and the Hub. And       |
 | 01:06:12   | then you've also got a [[HomeKit]]. And then, you know, if you get a new Hub when that one comes out        |
-| 01:06:18   | with, you know, matter support, then you may have yet another way to do stuff through, you know,        |
+| 01:06:18   | with, you know, [[Matter]] support, then you may have yet another way to do stuff through, you know,        |
 | 01:06:25   | Google Home or, you know, Echo, the Echo ecosystem and stuff. And honestly, it's really confusing       |
 | 01:06:33   | and annoying to try and troubleshoot that, which is why I just went with a nuclear approach of          |
 | 01:06:38   | I'm not using any hubs ever again. I'm putting everything in [[Home Assistant]] and [[Home Assistant]]          |

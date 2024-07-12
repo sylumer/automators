@@ -261,8 +261,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 12:52      | the motion sensor would just see you, and I feel like that's always a good place to                       |
 | 12:56      | start regardless of what smart home stuff you're doing, and it's not instead for all                      |
 | 13:03      | of this.                                                                                                  |
-| 13:04      | What do you see as the current status of home kit and matter?                                             |
-| 13:09      | We've talked about matter on the show before, it's the universal standard that the industry               |
+| 13:04      | What do you see as the current status of [[HomeKit]] and [[Matter]]?                                             |
+| 13:09      | We've talked about [[Matter]] on the show before, it's the universal standard that the industry               |
 | 13:13      | has decided that nobody's going to own all of this with their standard, so they've come                   |
 | 13:17      | up with a common standard, but as people are interested in this, how much does [[Matter]] matter              |
 | 13:24      | right now?                                                                                                |
@@ -275,15 +275,15 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 13:55      | Ethernet.                                                                                                 |
 | 13:56      | Ethernet's a different protocol, but it's still going to get onto the Internet.                           |
 | 13:59      | [[Matter]] is the thing that says, and here is how the Internet works more or less.                           |
-| 14:07      | When it comes to matter, I feel like matter is actually, it's getting more and more important             |
+| 14:07      | When it comes to [[Matter]], I feel like [[Matter]] is actually, it's getting more and more important             |
 | 14:12      | as far as home kit is concerned, especially with regards to the fact that you can then                    |
-| 14:17      | bring devices into home kit that weren't previously home kit compatible by buying a Matter Hub            |
-| 14:23      | or using a Matter Hub and having those devices connected to it.                                           |
+| 14:17      | bring devices into home kit that weren't previously home kit compatible by buying a [[Matter]] Hub            |
+| 14:23      | or using a [[Matter]] Hub and having those devices connected to it.                                           |
 | 14:28      | I have SwitchBot, I have SwitchBot curtains, and previously I was not able to get those                   |
 | 14:35      | into home kit natively.                                                                                   |
 | 14:37      | I would have had to go through Homebridge, which is what I did originally, and then later                 |
 | 14:43      | I moved to using [[Home Assistant]] for that.                                                                 |
-| 14:45      | Now I can buy a SwitchBot Smart Hub and add that to the Matter-based one.                                 |
+| 14:45      | Now I can buy a SwitchBot Smart Hub and add that to the [[Matter]]-based one.                                 |
 | 14:53      | It's got a little temperature dial and temperature screen and everything built into it, which             |
 | 14:57      | is very nice.                                                                                             |
 | 14:58      | I can connect that to the curtains and connect that to home kit, and voila, my curtains are               |
@@ -292,43 +292,43 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 15:12      | multi-protocol households, protocol is possibly the wrong word here, but say, for example,                |
 | 15:17      | your household has got some of the Echo Smart speakers in it, and you also have iPhones.                  |
 | 15:24      | Well, if you want to be able to connect things to both your home kit home, but also be able               |
-| 15:30      | to talk to the Echo speaker that's in the kitchen, well, Matter means that you can                        |
-| 15:36      | do that because Matter's protocol requires that devices can connect to more than one                      |
+| 15:30      | to talk to the Echo speaker that's in the kitchen, well, [[Matter]] means that you can                        |
+| 15:36      | do that because [[Matter\|Matter's]] protocol requires that devices can connect to more than one                      |
 | 15:41      | thing.                                                                                                    |
 | 15:42      | It can connect to multiple sources or controllers.                                                        |
 | 15:46      | I don't really know what the right term for that is, but either way, it can connect to                    |
-| 15:50      | multiple setups so that you can have it both in ALEXA, I'm not going to say the word because              |
+| 15:50      | multiple setups so that you can have it both in A-L-E-X-A, I'm not going to say the word because              |
 | 15:55      | I'll always trigger a bunch of smart speakers, as well as home kit stuff.                                 |
-| 15:59      | That is really great, and also some of those Echo Smart speakers have Matter Hubs built                   |
+| 15:59      | That is really great, and also some of those Echo Smart speakers have [[Matter]] Hubs built                   |
 | 16:04      | in, which means that you can connect stuff to those and then share it to home kit, kind                   |
 | 16:08      | of amazing really.                                                                                        |
-| 16:10      | I think Matter matters a lot.                                                                             |
+| 16:10      | I think [[Matter]] matters a lot.                                                                             |
 | 16:13      | That doesn't mean you have to rush out and replace everything that you've already got.                    |
 | 16:16      | Absolutely not.                                                                                           |
 | 16:17      | Don't need to do that, but keep an eye out for things like hubs and things like that,                     |
 | 16:22      | which will allow you to connect devices that were somewhat smart before into home kit and                 |
 | 16:28      | make them much smarter.                                                                                   |
-| 16:29      | Yeah, I feel like what Matter does is it makes the case for a vanilla home kit even better                |
+| 16:29      | Yeah, I feel like what [[Matter]] does is it makes the case for a vanilla home kit even better                |
 | 16:35      | in some ways because it just makes it easier to connect new things.                                       |
 | 16:39      | As before, you'd have to go to something like [[Home Assistant]] to make a third-party device                 |
 | 16:43      | work.                                                                                                     |
-| 16:44      | Well, hopefully that will be less necessary going into the future as Matter takes off                     |
+| 16:44      | Well, hopefully that will be less necessary going into the future as [[Matter]] takes off                     |
 | 16:49      | and becomes more universal, and we're already seeing that effect.                                         |
 | 16:52      | It's been what about a year now, and I feel like in another couple of years it's going                    |
-| 16:56      | to be really set in that all devices are going to be Matter devices.                                      |
+| 16:56      | to be really set in that all devices are going to be [[Matter]] devices.                                      |
 | 17:00      | Yeah.                                                                                                     |
 | 17:01      | Yeah.                                                                                                     |
-| 17:02      | At the moment, Matter is fully formed.                                                                    |
+| 17:02      | At the moment, K is fully formed.                                                                    |
 | 17:05      | They are still working on it, so it doesn't support things like cameras and so on yet.                    |
 | 17:09      | That doesn't mean that cameras won't come.                                                                |
 | 17:11      | They have said, and they're obviously working on this, that cameras are coming, but it means              |
 | 17:15      | that, for example, that new Aqara doorbell that I bought a month or so ago, which we'll                   |
-| 17:19      | get to a little bit later on the show, that doesn't support Matter yet.                                   |
-| 17:24      | It's not that it can't support Matter, it's just that the Matter protocol isn't ready                     |
+| 17:19      | get to a little bit later on the show, that doesn't support K yet.                                   |
+| 17:24      | It's not that it can't support [[Matter]], it's just that the [[Matter]] protocol isn't ready                     |
 | 17:28      | for it.                                                                                                   |
 | 17:29      | Yeah.                                                                                                     |
 | 17:30      | I'm crossing my fingers, I'm pretty certain that one is going to support it.                              |
-| 17:32      | Aqara have been very good at supporting Matter face things, but yeah, it's not there for                  |
+| 17:32      | Aqara have been very good at supporting [[Matter]] face things, but yeah, it's not there for                  |
 | 17:40      | everything yet, but it's coming.                                                                          |
 | 17:43      | Then lastly, before we get into the weeds, we're not going to bang your head over the                     |
 | 17:48      | whole time, but what are the things that people get from going to the next level, like Home               |
@@ -509,7 +509,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 28:32      | But yeah, you might need a hub.                                                                           |
 | 28:35      | It's certainly if you're buying like an IKEA light or whether the IKEA sensors or buttons,                |
 | 28:44      | then you will need one of their hubs.                                                                     |
-| 28:46      | The Dirigera is the new hub with matter support.                                                          |
+| 28:46      | The Dirigera is the new hub with [[Matter]] support.                                                          |
 | 28:50      | Aqara have hubs.                                                                                          |
 | 28:51      | They have a hub that's a camera.                                                                          |
 | 28:53      | So if you buy the camera, it's also a hub.                                                                |
@@ -995,9 +995,9 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:03:39   | a different vendor but for the actual lights themselves I think the hue is the winner.                    |
 | 01:03:44   | Yes yeah definitely my other recommendation when it comes to lighting or just other devices would         |
 | 01:03:51   | be IKEA and you know most countries have got an IKEA even if there isn't one near you they will           |
-| 01:03:57   | deliver things especially their smart home stuff and they are on board the Matter train which is          |
-| 01:04:03   | always good and hue hasn't yet got there as far as I'm aware with the Matter train they're going          |
-| 01:04:07   | to release a new hub for sure but IKEA already has a Matter hub out they do lights they do                |
+| 01:03:57   | deliver things especially their smart home stuff and they are on board the [[Matter]] train which is          |
+| 01:04:03   | always good and hue hasn't yet got there as far as I'm aware with the [[Matter]] train they're going          |
+| 01:04:07   | to release a new hub for sure but IKEA already has a [[Matter]] hub out they do lights they do                |
 | 01:04:16   | buttons they do sensors I picked up a very cool sensor the other day David it's a little rectangle        |
 | 01:04:22   | it's got I guess it's a TFT display in it it's like one of those slightly old sort of green               |
 | 01:04:29   | background with black segment shapes on it in most cases but there's some colour in there as well and      |
