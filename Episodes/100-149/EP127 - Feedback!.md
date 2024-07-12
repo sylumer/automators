@@ -1154,7 +1154,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:11:33   | I've only just set it up, so I can't really talk about that yet.                                       |
 | 01:11:37   | It feels like there's a lot of Matter-compatible devices here, and they're already bringing            |
 | 01:11:42   | things into systems that previously they weren't able to do, they weren't compatible with.             |
-| 01:11:49   | That said, the Matter and Thread spec, they're not fully rolled out yet, so there are limitations      |
+| 01:11:49   | That said, the [[Matter]] and [[Thread]] spec, they're not fully rolled out yet, so there are limitations      |
 | 01:11:55   | to that, but we're definitely going down that path already.                                            |
 | 01:11:59   | It's coming faster than I thought it would.                                                            |
 | 01:12:02   | I still don't think that if you've got a bunch of Hue lights, you should be throwing                   |

@@ -768,7 +768,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 49:02      | I did want to say that in general, that the line of products from Aqara on Zigbee, which               |
 | 49:08      | is a type of wireless communication, is a great selection of great variety, very cost                  |
 | 49:14      | effective.                                                                                             |
-| 49:15      | Personally, I'm not ready to deploy thread devices as a wireless interface.                            |
+| 49:15      | Personally, I'm not ready to deploy [[Thread]] devices as a wireless interface.                            |
 | 49:20      | I think it's still immature.                                                                           |
 | 49:22      | There's still a lot of kinks being worked out.                                                         |
 | 49:24      | So in the short term, I would stick with Zigbee as a wireless communications method for shades,        |
@@ -1194,7 +1194,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:19:46   | gigahertz band.                                                                                        |
 | 01:19:47   | But one thing to keep in mind, the frequency of the network, Wi-Fi 2.4 gigahertz is the                |
 | 01:19:53   | same physical frequency as Bluetooth devices, that's speakers, headphones, AirPods, etc.               |
-| 01:20:03   | And also thread devices, the thread radios, the new, quote unquote, new wireless standard              |
+| 01:20:03   | And also [[Thread]] devices, the [[Thread]] radios, the new, quote unquote, new wireless standard              |
 | 01:20:10   | also runs on 2.4 gigahertz.                                                                            |
 | 01:20:13   | So physical interference is possible with all of those devices, and there's one other                  |
 | 01:20:19   | very common kitchen appliance that works on 2.4 gigahertz, and that's the microwave oven.              |

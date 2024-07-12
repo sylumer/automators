@@ -466,7 +466,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 21:57      | And Nanoleaf has also come out with some very cheap coloured bulbs and a light strip,                     |
 | 22:02      | which is kind of affordable.                                                                             |
 | 22:05      | And they don't require a hub and they work pretty well.                                                  |
-| 22:10      | The new stuff is using the Thread Technology, which is in the HomePod Mini, David.                       |
+| 22:10      | The new stuff is using the [[Thread]] technology, which is in the HomePod Mini, David.                       |
 | 22:14      | So it reacts super fast if you have a HomePod Mini.                                                      |
 | 22:18      | But I really like my Nanoleaf light panels.                                                              |
 | 22:20      | I did not stick them to the wall like they suggest.                                                      |

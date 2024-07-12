@@ -1083,19 +1083,19 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:00:40   | But we're also seeing, you know, improvements because, you know,                                        |
 | 01:00:44   | Apple is part of matter.                                                                                |
 | 01:00:46   | And they're part of the people creating the matter standard.                                            |
-| 01:00:49   | That means that there is thread, which is another way to connect devices                                |
+| 01:00:49   | That means that there is [[Thread]], which is another way to connect devices                                |
 | 01:00:54   | together.                                                                                               |
 | 01:00:55   | But that's had some pain points because if you had home plots,                                          |
-| 01:00:58   | that would create a thread network.                                                                     |
-| 01:01:00   | And if you had Eero, that would create a thread network.                                                |
-| 01:01:03   | If you had Google stuff, that would create a thread network.                                            |
-| 01:01:07   | And the thread group is finally, and this is literally just come out a couple                           |
+| 01:00:58   | that would create a [[Thread]] network.                                                                     |
+| 01:01:00   | And if you had Eero, that would create a [[Thread]] network.                                                |
+| 01:01:03   | If you had Google stuff, that would create a [[Thread]] network.                                            |
+| 01:01:07   | And the *Thread Group* is finally, and this is literally just come out a couple                           |
 | 01:01:13   | of hours before record today, they're finally fixing it so that there should                            |
-| 01:01:17   | be one big, happy, meshy thread network.                                                                |
+| 01:01:17   | be one big, happy, meshy [[Thread]] network.                                                                |
 | 01:01:19   | And that's the sort of thing that I'm really looking forward to seeing                                  |
-| 01:01:24   | because, you know, thread, for me, where things have been adding thread support,                        |
-| 01:01:29   | matter support, specifically where, you know, devices have upgraded to add                              |
-| 01:01:33   | matter support to their, their hubs or their devices.                                                   |
+| 01:01:24   | because, you know, [[Thread]], for me, where things have been adding [[Thread]] support,                        |
+| 01:01:29   | [[Matter]] support, specifically where, you know, devices have upgraded to add                              |
+| 01:01:33   | [[Matter]] support to their, their hubs or their devices.                                                   |
 | 01:01:37   | That's meant that some of the devices that I've got, which, you know,                                   |
 | 01:01:40   | were pretty locked down and not, I couldn't, you know, interact with them                               |
 | 01:01:44   | in anything but their own manufacturer apps, I can now control using                                    |

@@ -110,8 +110,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 02:18      | that you can put it into the socket in the room in the new house and keep your automations                |
 | 02:23      | working?                                                                                                  |
 | 02:24      | What's going to happen there?                                                                             |
-| 02:25      | So we're kind of at this weird time with smart home stuff, because we have matter and then                |
-| 02:30      | there's all the thread stuff.                                                                             |
+| 02:25      | So we're kind of at this weird time with smart home stuff, because we have Matter and then                |
+| 02:30      | there's all the [[Thread]] stuff.                                                                             |
 | 02:31      | So I don't want to just delete all the stuff that I have, and I don't have too much as                    |
 | 02:37      | it is right now, because right now in this moment, I'm in an apartment.                                   |
 | 02:41      | And when you're renting, there's not a whole lot you can do.                                              |
@@ -224,7 +224,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 08:37      | after the show and see if maybe that fixes it, but I have reported this to Apple and                      |
 | 08:41      | then I got a message back from whoever is triaging the support thing saying, what did                    |
 | 08:45      | you do?                                                                                                   |
-| 08:46      | I'm like, as I wrote, I tried to open the shortcuts app.                                                  |
+| 08:46      | I'm like, as I wrote, I tried to open the [[Shortcuts]] app.                                                  |
 | 08:50      | It works everywhere else, just not here, and there's some kind of thread fault or something.              |
 | 08:56      | I don't remember what it was, but it's trying to access something that doesn't have permission            |
 | 08:59      | to access, and then it tries to do that multiple times and then goes, well, I don't know what             |

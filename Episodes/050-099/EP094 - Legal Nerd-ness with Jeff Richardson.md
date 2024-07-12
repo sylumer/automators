@@ -751,7 +751,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 53:26      | that built in. That's what the product does. So I, you know, I don't know that it matters that          |
 | 53:31      | it's not [[HomeKit]] compatible. But that is one thing that I think about. But I do feel like going         |
 | 53:35      | forward, you know, anything I get in my home with some rare exceptions like that one, you know,         |
-| 53:39      | as long as they're either [[HomeKit]] compatible, or I know thread is coming, and that's going to be        |
+| 53:39      | as long as they're either [[HomeKit]] compatible, or I know [[Thread]] is coming, and that's going to be        |
 | 53:43      | the next big thing, I feel like as long as I'm, as I have something that works with those systems,      |
 | 53:48      | I'll just be able to grow. And, you know, the mesh will increase over time, and you can have even       |
 | 53:52      | more triggers. And I still sometimes find myself limited by, you know, why can't I do this on           |

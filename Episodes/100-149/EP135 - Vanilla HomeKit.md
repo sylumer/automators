@@ -264,17 +264,17 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 13:04      | What do you see as the current status of home kit and matter?                                             |
 | 13:09      | We've talked about matter on the show before, it's the universal standard that the industry               |
 | 13:13      | has decided that nobody's going to own all of this with their standard, so they've come                   |
-| 13:17      | up with a common standard, but as people are interested in this, how much does matter matter              |
+| 13:17      | up with a common standard, but as people are interested in this, how much does [[Matter]] matter              |
 | 13:24      | right now?                                                                                                |
-| 13:25      | Well, first, before I say that, I'm just going to mention thread as well because I feel like              |
-| 13:30      | people kind of feel like matter is thread and it isn't.                                                   |
-| 13:34      | If you think of thread, thread is basically kind of like Wi-Fi in some ways or Bluetooth.                 |
+| 13:25      | Well, first, before I say that, I'm just going to mention [[Thread]] as well because I feel like              |
+| 13:30      | people kind of feel like [[Matter ]]is [[Thread]] and it isn't.                                                   |
+| 13:34      | If you think of [[Thread]], [[Thread]] is basically kind of like Wi-Fi in some ways or Bluetooth.                 |
 | 13:43      | It's an advancement on Bluetooth more or less, but that is like a protocol for things                     |
 | 13:49      | to talk to each other.                                                                                    |
 | 13:50      | Just like your Mac can use Wi-Fi to connect to the Internet, it could also connect via                    |
 | 13:55      | Ethernet.                                                                                                 |
 | 13:56      | Ethernet's a different protocol, but it's still going to get onto the Internet.                           |
-| 13:59      | Matter is the thing that says, and here is how the Internet works more or less.                           |
+| 13:59      | [[Matter]] is the thing that says, and here is how the Internet works more or less.                           |
 | 14:07      | When it comes to matter, I feel like matter is actually, it's getting more and more important             |
 | 14:12      | as far as home kit is concerned, especially with regards to the fact that you can then                    |
 | 14:17      | bring devices into home kit that weren't previously home kit compatible by buying a Matter Hub            |
@@ -388,7 +388,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 21:23      | onto your probably not ready for this Wi-Fi, but at some point, you end up with the Aqara                 |
 | 21:30      | hub, the IKEA hub, the Hue hub, this other hub that came from this other company.                         |
 | 21:36      | 60 different hubs or something, it can feel like being able to consolidate that down to                   |
-| 21:42      | [[Home Assistant]] with Zigbee and Z-Wave and Thread support is very, very nice.                              |
+| 21:42      | [[Home Assistant]] with Zigbee and Z-Wave and [[Thread]] support is very, very nice.                              |
 | 21:50      | That's what I really get out of it.                                                                       |
 | 21:52      | I have a funny story about [[Home Assistant]] and automation.                                                 |
 | 21:58      | I think I'll just leave it with this before we move on, but I have to share it with somebody,             |
@@ -505,7 +505,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 28:12      | You may need a hub to go with the something home kit.                                                     |
 | 28:14      | For example, if you buy a Hue light bulb, unless it's one of the Bluetooth ones, which                    |
 | 28:19      | I'm not sure I really recommend Bluetooth is never great for smart home devices.                          |
-| 28:26      | I would much prefer Zigbee, Z-Wave, Thread, or even Wi-Fi over Bluetooth.                                 |
+| 28:26      | I would much prefer Zigbee, Z-Wave, [[Thread]], or even Wi-Fi over Bluetooth.                                 |
 | 28:32      | But yeah, you might need a hub.                                                                           |
 | 28:35      | It's certainly if you're buying like an IKEA light or whether the IKEA sensors or buttons,                |
 | 28:44      | then you will need one of their hubs.                                                                     |
@@ -779,8 +779,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 44:36      | one of them is Aqara and Rosemary actually I think you turn me on to them first because                   |
 | 44:44      | you started buying their stuff the interesting thing about Aqara is it does require a hub                 |
 | 44:48      | but it's a hub in the best of ways because it is giving you I think is it a Zigbee I                      |
-| 44:53      | don't know what they're underlying yeah they have a Zigbee and thread I can't remember                    |
-| 44:58      | if thread is in the newest hub or if it's in one of the ones coming but they certainly                    |
+| 44:53      | don't know what they're underlying yeah they have a Zigbee and [[Thread]] I can't remember                    |
+| 44:58      | if [[Thread]] is in the newest hub or if it's in one of the ones coming but they certainly                    |
 | 45:02      | it's a Zigbee based hub but depending on which hub you buy there's like a teeny tiny little               |
 | 45:06      | stick one which is great if you just want to like try some stuff out and you know get                     |
 | 45:10      | something very cheap they've got a couple of camera ones so your hub is also a camera                     |
@@ -1048,11 +1048,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:08:47   | and put them in one of those giant IKEA frames that you can get reinforce the frame and hung it on        |
 | 01:08:52   | the wall and it looks amazing and so you turn it on you've got like a little light show there's           |
 | 01:08:57   | you know triangles changing colour and so on Nanoleaf also do slightly more practical light strips        |
-| 01:09:02   | and light bulbs and their their new stuff uses thread as well now my original stuff is using              |
+| 01:09:02   | and light bulbs and their their new stuff uses [[Thread]] as well now my original stuff is using              |
 | 01:09:07   | wi-fi remember what I said at the beginning of not recommending wi-fi devices this was an exception       |
 | 01:09:11   | I made because they're so freaking cool but yeah like yeah they are really lovely really bright           |
-| 01:09:19   | and very good colours so yeah definitely check out Nanoleaf as well they have thread based light          |
-| 01:09:26   | bulbs so you know if you want to experiment with a thread protocol they're quite affordable and           |
+| 01:09:19   | and very good colours so yeah definitely check out Nanoleaf as well they have [[Thread]]-based light          |
+| 01:09:26   | bulbs so you know if you want to experiment with a [[Thread]] protocol they're quite affordable and           |
 | 01:09:31   | often go on sale on amazon and yeah if you're excited by any of the things don't forget to                |
 | 01:09:37   | camel camel camel them and keep an eye out for like a Black Friday or something coming late               |
 | 01:09:42   | to this year for sales I keep seeing stuff in like back to school sales I guess college students          |

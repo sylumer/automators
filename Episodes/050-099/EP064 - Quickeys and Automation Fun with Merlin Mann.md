@@ -864,7 +864,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 42:02      | Visit textexpander.com/podcast to learn more about TextExpander.                                        |
 | 42:07      | Go there now, you won't regret it.                                                                            |
 | 42:09      | Our thanks to TextExpander and Smell for their support of the show and Relay FM.                             |
-| 42:14      | One thing that we should note, though, the Apple has made an improvement on is Thread,                        |
+| 42:14      | One thing that we should note, though, the Apple has made an improvement on is [[Thread]],                        |
 | 42:19      | which is a new feature that came with the HomePod Minis.                                                      |
 | 42:23      | And I have a HomePod Minis sitting in my kitchen.                                                             |
 | 42:25      | And this is apparently a really great way to speed up the connectivity with certain devices.                  |
@@ -873,12 +873,12 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 42:37      | which are more affordable really than the Hue options because you don't need to buy a bridge.                 |
 | 42:42      | And so if you just want one colour light bulb to try out some home kit stuff, then it's                        |
 | 42:45      | quite an affordable way of doing it.                                                                          |
-| 42:47      | And if you have a device that supports Thread, like say a HomePod Mini, apparently the connection             |
+| 42:47      | And if you have a device that supports [[Thread]], like say a HomePod Mini, apparently the connection             |
 | 42:52      | speed is way faster.                                                                                          |
 | 42:54      | I saw that on my Eero, but I saw an Eero that that's an option, but I've never learned                        |
 | 42:58      | what that does.                                                                                               |
 | 42:59      | Yeah.                                                                                                         |
-| 43:00      | So Thread is new.                                                                                             |
+| 43:00      | So [[Thread]] is new.                                                                                             |
 | 43:02      | Don't ask me exactly how it works.                                                                            |
 | 43:03      | I will try and find one of the Apple technical support documents that we can throw in the                     |
 | 43:08      | show notes so that people can actually learn about how this works instead of how I think                      |

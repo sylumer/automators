@@ -829,7 +829,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 47:58      | Their stuff itself is actually quite small, which is nice, you know, not taking up a huge                 |
 | 48:03      | amount of physical space.                                                                                 |
 | 48:06      | And I find Zigbee is exceptionally good for a connectivity option.                                        |
-| 48:11      | You know, Thread is definitely something to look at and the Eve things look pretty great.                 |
+| 48:11      | You know, [[Thread]] is definitely something to look at and the Eve things look pretty great.                 |
 | 48:16      | But there's not a lot of options out there which drives up the cost.                                      |
 | 48:21      | Whereas if you get the slightly older generation of Aqara stuff, then that's even more affordable,        |
 | 48:27      | which is definitely a win.                                                                                |
@@ -1079,7 +1079,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:02:33   | They've got like a pleated one, which is quite nice and so on.                                            |
 | 01:02:37   | And there's a lot more options out there, and especially with the advent of the Zigbee                    |
 | 01:02:43   | controllers for this, which I personally feel that if you've got a choice between a Zigbee                |
-| 01:02:49   | or a Thread device or a Wi-Fi device, then you're better off with the Zigbee or Thread                    |
+| 01:02:49   | or a [[Thread]] device or a Wi-Fi device, then you're better off with the Zigbee or [[Thread]]                    |
 | 01:02:54   | one.                                                                                                      |
 | 01:02:55   | Instead of the Wi-Fi one, the more things that you shove onto your network that are connected             |
 | 01:02:58   | to the internet, the more likely it is something is going to go wrong.                                    |
@@ -1402,8 +1402,8 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |
 | 01:23:23   | company to tell you how much energy you're using, and of course, it's got [[HomeKit]] support                 |
-| 01:23:28   | and they're working with Master on getting Master and Thread support in there as well.                    |
-| 01:23:34   | The [[Home Assistant]] yellow that you get, David, should indeed have Thread support, which is                |
+| 01:23:28   | and they're working with Master on getting Master and [[Thread]] support in there as well.                    |
+| 01:23:34   | The [[Home Assistant]] yellow that you get, David, should indeed have [[Thread]] support, which is                |
 | 01:23:39   | a really nice option.                                                                                     |
 | 01:23:41   | But the idea of [[Home Assistant]] is I don't have to buy a device that's specifically labelled               |
 | 01:23:48   | for [[HomeKit]], because as we all know, when we go and look at these things, right, if                       |
