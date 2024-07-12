@@ -298,7 +298,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 18:17      | think that the reason so many people love it is because it does the thing that it says                   |
 | 18:24      | it does on the can. And so often in home automation, it doesn't do the thing, or at least it doesn't     |
 | 18:29      | do it consistently. Right. It does it. You set it up. It works. And then one day it doesn't              |
-| 18:34      | work. I'm struggling right now. I bought one of these human presence sensors from Aqara.                 |
+| 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from Aqara.                 |
 | 18:40      | And some days it works. And some days it doesn't. And that's the kind of thing that makes you,           |
 | 18:45      | you know, want to throw a brick through a window because it's like, well, what? Absolutely.              |
 | 18:48      | Why is it not working? That never happens with Lutron. You push the button on your phone                 |

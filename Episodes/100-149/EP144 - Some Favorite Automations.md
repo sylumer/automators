@@ -341,7 +341,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 17:17      | And yeah, that works nicely for me.                                                                |
 | 17:19      | Yeah.                                                                                              |
 | 17:20      | Something that has got much better for me in the last month with no effort on my behalf            |
-| 17:26      | is my car home, a human presence sensor.                                                           |
+| 17:26      | is my car home, a [[Human Presence Sensor\|human presence sensor]].                                                           |
 | 17:30      | Oh, nice.                                                                                          |
 | 17:31      | I have one that's attached to [[Home Assistant]] elsewhere in the house and I have one in the          |
 | 17:36      | studio that is the [[HomeKit]] version, it's bulkier and slower, but it works with [[HomeKit]].            |
@@ -355,12 +355,12 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 18:10      | these infrared sensors that, you know, the sensors that we were using really weren't               |
 | 18:14      | appropriate and like if you stop moving, then they would turn the lights off while you're          |
 | 18:19      | still in the room.                                                                                 |
-| 18:20      | And human presence sensors are supposed to solve that problem.                                     |
+| 18:20      | And [[Human Presence Sensor\|human presence sensors]] are supposed to solve that problem.                                     |
 | 18:23      | That was one of the big things of 2023 is the arrival of these Aqara sensors.                      |
 | 18:28      | But I think it must have got itself a hardware, like a firmware update or something without        |
 | 18:34      | me realising it, or maybe when [[HomeKit\|Apple HomeKit]] switched architecture, which it did about             |
 | 18:39      | two months ago, maybe that's when it got better.                                                   |
-| 18:42      | But either way, suddenly, my Aqara [[HomeKit]] enabled, human presence sensor just started             |
+| 18:42      | But either way, suddenly, my Aqara [[HomeKit]] enabled, [[Human Presence Sensor\|human presence sensor]] just started             |
 | 18:48      | working and now when I walk in the room, lights turn on, walk out of the room, lights turn         |
 | 18:52      | off, very useful, except when I want to use the room as a studio where I need lighting             |
 | 18:57      | at a certain level and then I just turn that automation off and I have different automations.      |
@@ -385,7 +385,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 20:18      | a working solution in place.                                                                       |
 | 20:21      | I've been messing with some of the Aqara motion sensors.                                           |
 | 20:24      | And so I have replaced my battery powered motion sensor in my hallway with a USB powered           |
-| 20:28      | Aqara motion sensor, which is the FP1 human presence sensor.                                       |
+| 20:28      | Aqara motion sensor, which is the FP1 [[Human Presence Sensor\|human presence sensor]].                                       |
 | 20:32      | And I am liking that in my hallway.                                                                |
 | 20:35      | And I really like the fact that it's not battery powered.                                          |
 | 20:38      | So I don't have to worry about replacing the battery at any point.                                 |

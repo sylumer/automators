@@ -774,7 +774,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:13:21   | but I haven't received it yet, but they have what they call it. I've ordered from Ali and                 |
 | 01:13:26   | it can take a while. Yeah, I know. I feel like it's like one of those things where one day                |
 | 01:13:30   | shows up and you're like, oh, there you go. After you've forgotten, you ordered it. But they have         |
-| 01:13:35   | this thing called a human presence sensor. And Rose got one, she likes it. One of the members of          |
+| 01:13:35   | this thing called a [[Human Presence Sensor\|human presence sensor]]. And Rose got one, she likes it. One of the members of          |
 | 01:13:41   | my labs got one and he likes it. But apparently it's like a rock solid, you know, sensor that can         |
 | 01:13:48   | tell if a human is in the room. So it's not just IR. It's not just motion. I'm not sure what it is,       |
 | 01:13:54   | but apparently it works really well. And if I could reliably tell what I have somewhat in                 |

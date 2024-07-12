@@ -1204,8 +1204,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:14:59   | and some other places, and it turned out, essentially, I was understanding how the sensors sense       |
 | 01:15:05   | things a little bit.                                                                                   |
 | 01:15:07   | I hadn't quite understood the labels, the way that they've been translated from Chinese                |
-| 01:15:12   | didn't quite tally up, and it turns out now I have a perfectly working human presence                  |
-| 01:15:18   | sensor, which is great, but yeah, the FP2 should be able to do multi-person detection.                 |
+| 01:15:12   | didn't quite tally up, and it turns out now I have a perfectly working [[Human Presence Sensor\|human presence sensor]],                  |
+| 01:15:18   | which is great, but yeah, the FP2 should be able to do multi-person detection.                 |
 | 01:15:23   | It's got a built-in light sensor.                                                                      |
 | 01:15:25   | It can do zone positioning, interference compensation on the Aqara hub.                                |
 | 01:15:30   | It does local automations to an extent with other Aqara products.                                      |
@@ -1215,7 +1215,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:15:50   | time, and it just plugs into a USB slot.                                                               |
 | 01:15:54   | I'm not quite sure exactly what this uses for power, but just like the FP1, this is                    |
 | 01:15:59   | going to be a powered device, it's not running on battery.                                             |
-| 01:16:03   | When you say the FP1, is that the same thing as the human presence sensor that I bought?               |
+| 01:16:03   | When you say the FP1, is that the same thing as the [[Human Presence Sensor\|human presence sensor]] that I bought?               |
 | 01:16:07   | That's what we have.                                                                                   |
 | 01:16:08   | Yes.                                                                                                   |
 | 01:16:09   | Yeah.                                                                                                  |

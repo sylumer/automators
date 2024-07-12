@@ -633,7 +633,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 36:30      | timers, I think occupancy, you know, as Rose was saying, sometimes that makes it more complicated.  |
 | 36:37      | Maybe that's not the way to do it.                                                                  |
 | 36:38      | But you could do it with occupancy.                                                                 |
-| 36:40      | One of the things that kind of showed up this year was occupancy or human presence sensors.         |
+| 36:40      | One of the things that kind of showed up this year was occupancy or [[Human Presence Sensor\|human presence sensors]].         |
 | 36:47      | I'm thinking about the ones a car is making, but I'm sure there are others in the pipeline          |
 | 36:51      | too.                                                                                                |
 | 36:52      | And as that's becoming more of a common thing, you could have your decorations and music            |

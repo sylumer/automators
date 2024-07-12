@@ -826,16 +826,16 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 53:17      | free.                                                                                                  |
 | 53:18      | And our thanks to ExpressVPN for their support of the Automators and all of Relay FM.                  |
 | 53:25      | Before the break, Rose was talking about Aqara.                                                        |
-| 53:27      | I bought a Aqara human presence sensor, and it is really impressive, because in the past               |
+| 53:27      | I bought a Aqara [[Human Presence Sensor\|human presence sensor]], and it is really impressive, because in the past               |
 | 53:34      | I've tried to do the thing where you have the motion sensor in the room, but then when                 |
-| 53:38      | you sit still, all the lights turn off, the human presence sensor to me feels like a step              |
+| 53:38      | you sit still, all the lights turn off, the [[Human Presence Sensor\|human presence sensor]] to me feels like a step              |
 | 53:45      | above, but it hasn't entirely solved the problem yet.                                                  |
 | 53:48      | It still does occasionally think I've left the room, and it does have a little bit of                  |
 | 53:53      | a delay, but I feel like we're just on the verge of that fundamental problem of people                 |
 | 53:58      | saying, I want to walk in a room, I want the lights to turn off, and I want to walk out                |
 | 54:02      | of the room, and I want them to turn off.                                                              |
-| 54:03      | I guess I misstayed that, but you walk in, they turn on, you walk out, they turn off.                  |
-| 54:08      | What do you think of these human presence sensors that are starting to show up on the                  |
+| 54:03      | I guess I misstated that, but you walk in, they turn on, you walk out, they turn off.                  |
+| 54:08      | What do you think of these [[Human Presence Sensor\|human presence sensors]] that are starting to show up on the                  |
 | 54:11      | market?                                                                                                |
 | 54:12      | I think the technology is very impressive, but it's still a lot of tweaking and adjusting              |
 | 54:17      | required to make them work properly, and probably that's the one area, if we want to point             |

@@ -443,7 +443,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 37:13      | room. Like I didn't physically take them out, but I took them out from a technical perspective         |
 | 37:18      | so that I would know whether or not my living room is occupied. And I like just barely put             |
 | 37:26      | a foot inside the door from the hallway and it's on.                                                   |
-| 37:29      | I'll tell you, though, my human presence sensor is slow. And I've tried at first, I thought            |
+| 37:29      | I'll tell you, though, my [[Human Presence Sensor\|human presence sensor]] is slow. And I've tried at first, I thought            |
 | 37:35      | it was because I was going through a car, then I thought it was going through. I put                   |
 | 37:40      | it directly into [[Home Assistant]] and it's it's not slow and like it takes forever, but there            |
 | 37:46      | is like probably three to five seconds between the time I walk in the room and the lights              |
