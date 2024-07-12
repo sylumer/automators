@@ -71,8 +71,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 00:35      | as soon as we got on the prep call, you had like a list of like four questions of things                |
 | 00:38      | you're trying to automate that you want. So we're going to cover some of that during the show.          |
 | 00:42      | But, you know, the Automators is not meant to be a show for people who, you know, write [[Xcode]] every     |
-| 00:48      | day for a living. Although Rose, I know you do that. Um, I mean, I don't usually use Xcode.             |
-| 00:54      | I write PHP, which is difficult to do an Xcode. I stand corrected. I stand corrected. But no,           |
+| 00:48      | day for a living. Although Rose, I know you do that. Um, I mean, I don't usually use [[Xcode]].             |
+| 00:54      | I write PHP, which is difficult to do an [[Xcode]]. I stand corrected. I stand corrected. But no,           |
 | 01:01      | the reason the show exists is we want anybody out there to automate just like the chef said             |
 | 01:06      | and ratatouille. Anybody can automate and, um, and, and Alex, you're on the journey with us. You        |
 | 01:11      | got some cool stuff. You do, you're automating yourself. You're out there doing cool stuff,             |
@@ -853,7 +853,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:27:15   | And Shortcuts is on the iPad. So, both of these apps should theoretically exist on visionOS.            |
 | 01:27:20   | Because any iPad app can exist on visionOS. Now, Mac apps don't exist on visionOS. There's              |
 | 01:27:26   | something like [[Xcode]] we wouldn't have, but you can share, like, you know, a Mac screen                  |
-| 01:27:30   | into visionOS. So, you could still have something like Xcode. But imagine being able to, like,          |
+| 01:27:30   | into visionOS. So, you could still have something like [[Xcode]]. But imagine being able to, like,          |
 | 01:27:34   | write your own mini apps in [[Swift Playgrounds]] and with Shortcuts on visionOS and just run them.         |
 | 01:27:44   | Like, and then you get really creative. Because I feel like, I know that [[Swift Playgrounds]] has          |
 | 01:27:50   | got limitations. I know a lot of people have done some really cool stuff with it. I've written          |

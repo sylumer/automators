@@ -1495,7 +1495,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:00:01   | give people some earlier access to things.                        |
 | 01:00:04   | And then bam, we get some new actions next time                   |
 | 01:00:07   | Safari updates as part of Mac OS or independently.                |
-| 01:00:11   | And Xcode, you know, [[Xcode]] could add some actions.                |
+| 01:00:11   | And [[Xcode]], you know, [[Xcode]] could add some actions.                |
 | 01:00:14   | So be nice, you know, it would be a really great                  |
 | 01:00:18   | to see buy-in from internal Apple software developers             |
 | 01:00:22   | as well as all of the other app developers out there              |

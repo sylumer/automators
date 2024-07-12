@@ -1578,7 +1578,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:22:39   | Well, and I think that that's, I mean, development tools I think are definitely not all there            |
 | 01:22:43   | yet.                                                                                                     |
 | 01:22:44   | But automation.                                                                                          |
-| 01:22:45   | Except for Xcode, which I've heard is running, it's compiling things considerably faster                 |
+| 01:22:45   | Except for [[Xcode]], which I've heard is running, it's compiling things considerably faster                 |
 | 01:22:50   | than a 10 core iMac Pro.                                                                                 |
 | 01:22:52   | Yeah.                                                                                                    |
 | 01:22:53   | Well, that doesn't surprise me.                                                                          |

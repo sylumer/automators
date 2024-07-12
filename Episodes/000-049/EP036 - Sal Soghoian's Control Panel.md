@@ -645,7 +645,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 41:05      | here.                                                                                                    |
 | 41:06      | And it can be done by you.                                                                               |
 | 41:08      | You don't have to be a programmer.                                                                       |
-| 41:10      | You don't have to open up Xcode.                                                                         |
+| 41:10      | You don't have to open up [[Xcode]].                                                                         |
 | 41:12      | You don't have to submit something.                                                                      |
 | 41:14      | This is your creating an accessibility tool that helps you and it's for use on your machine.             |
 | 41:21      | It's just remarkable that you can do this.                                                               |
@@ -841,7 +841,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 54:50      | a tip calculator in [[Xcode]] just to prove to myself I can still do it.                                     |
 | 54:55      | But for me, the power of time spent learning this stuff is not making an app.                            |
 | 55:02      | I just saw a case recently from the Omni group and I said every time I think I might want                |
-| 55:06      | to spend a little bit more time getting better at Xcode, I just read your release notes.                 |
+| 55:06      | to spend a little bit more time getting better at [[Xcode]], I just read your release notes.                 |
 | 55:11      | And these are the best programmers in the business, I mean the people at Omni.                           |
 | 55:16      | And I read all the bugs they have to fix with every new release and I'm thinking the best                |
 | 55:21      | in the business still struggle with this stuff.                                                          |

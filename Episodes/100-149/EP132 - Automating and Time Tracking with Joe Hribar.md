@@ -255,7 +255,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 14:09      | are doing it.                                                                                        |
 | 14:10      | The Omni Group is a good example.                                                                    |
 | 14:12      | They run their own cloud-sync service for their applications, and now it's just a thing              |
-| 14:17      | you plug into an Xcode, and assuming it's reliable, it's been an evolution, but suddenly             |
+| 14:17      | you plug into an [[Xcode]], and assuming it's reliable, it's been an evolution, but suddenly             |
 | 14:24      | that democratises it to the point that anybody can add a cloud-sync to their app, and assuming       |
 | 14:30      | this is reliable and works, that's going to really open up the floodgates for a lot of               |
 | 14:35      | developers like Joe's size to be able to have options that they didn't have before.                  |

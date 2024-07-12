@@ -976,7 +976,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 50:45      | until workflows and the other automations come out, so now shortcuts is a way for you                    |
 | 50:50      | to do that.                                                                                              |
 | 50:51      | I want a cool little thing on my phone that does a thing and I don't want to write a full-fledged        |
-| 50:54      | app and I don't want to deal with Xcode, building it and putting it into my phone every time             |
+| 50:54      | app and I don't want to deal with [[Xcode]], building it and putting it into my phone every time             |
 | 51:00      | I update something and I certainly don't want to submit it to the App Store, which is in                 |
 | 51:03      | all other categories.                                                                                    |
 | 51:05      | Shortcuts is a way for you to make something that does a simple task.                                    |
