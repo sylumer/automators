@@ -409,7 +409,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 19:20      | Well, and it can be like any app could add actions to perform much deeper automation                  |
 | 19:30      | and most apps ignore Automator completely.                                                            |
 | 19:33      | And those that do add it usually add it for just a couple of features of the app.                     |
-| 19:40      | Have you heard of retro batch?                                                                        |
+| 19:40      | Have you heard of [[Retrobatch]]?                                                                        |
 | 19:42      | No.                                                                                                   |
 | 19:43      | No.                                                                                                   |
 | 19:44      | It's a new app from Gus Mueller, the guy who makes Acorn flying me.                                   |
@@ -419,7 +419,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 20:06      | onto workspace and then connections between them and images can be passed in like three               |
 | 20:12      | different directions at once and have different processing and output different file names.           |
 | 20:17      | And then you can incorporate those into Automator, Automator can trigger so you can have an Automator |
-| 20:25      | script that say grabs an image from the web, runs it through a retro batch to resize and              |
+| 20:25      | script that say grabs an image from the web, runs it through a [[Retrobatch]] to resize and              |
 | 20:31      | water market and then saves it to a specific place or even, you know, multiple places.                |
 | 20:39      | That kind of thing, apps that allow that kind of extensibility and extension of Automator             |
 | 20:47      | excite me a lot.                                                                                      |
@@ -437,14 +437,14 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 21:22      | Exactly.                                                                                              |
 | 21:23      | That's very manual.                                                                                   |
 | 21:25      | Yeah.                                                                                                 |
-| 21:26      | Retrobatch, looking at, I'm looking at it literally right next to my [[Audio Hijack]]                   |
+| 21:26      | [[Retrobatch]], looking at, I'm looking at it literally right next to my [[Audio Hijack]]                   |
 | 21:30      | pro.                                                                                                  |
 | 21:31      | It looks, looks very similar, you know, the uh.                                                       |
 | 21:35      | Well, that's a good sign.                                                                             |
 | 21:36      | I like [[Audio Hijack]].                                                                                  |
 | 21:37      | It's got, it's got like a workflow where you pull units and it's, it's cool.                          |
 | 21:42      | I'm going to definitely give it a shot.                                                               |
-| 21:44      | I have a retro batch droplet that I can create using a template in my image editor in Affinity        |
+| 21:44      | I have a [[Retrobatch]] droplet that I can create using a template in my image editor in Affinity        |
 | 21:51      | Photo.                                                                                                |
 | 21:52      | I can create a header image for a blog post, run it through this droplet and it will resize           |
 | 21:58      | for all social media sizes and save with the file names that my HT access file uses to                |
@@ -472,7 +472,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 23:02      | All right.                                                                                            |
 | 23:03      | Yeah.                                                                                                 |
 | 23:04      | Well, you know, but this, this is automation.                                                         |
-| 23:06      | I mean, when you look at retro batch, what it does, it allows you to drop an image in                 |
+| 23:06      | I mean, when you look at [[Retrobatch]], what it does, it allows you to drop an image in                 |
 | 23:11      | one end of the nap and it spits out multiple images out the other end that are formatted              |
 | 23:17      | and doing a bunch of things that we used to do by hand.                                               |
 | 23:21      | And there's nothing, you know, I, I'm a big proponent of what I call software based                   |
