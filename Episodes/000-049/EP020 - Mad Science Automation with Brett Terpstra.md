@@ -412,7 +412,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 19:40      | Have you heard of [[Retrobatch]]?                                                                        |
 | 19:42      | No.                                                                                                   |
 | 19:43      | No.                                                                                                   |
-| 19:44      | It's a new app from Gus Mueller, the guy who makes Acorn flying me.                                   |
+| 19:44      | It's a new app from Gus Mueller, the guy who makes Acorn [[Flying Meat Software\|Flying Meat]].                                   |
 | 19:48      | Well, is that that's the image process?                                                               |
 | 19:50      | Yeah, it's a node based image processing app where you can instead of just a linear list              |
 | 19:57      | of automations, a la Automator, you have like a concept map type thing where you drag nodes           |

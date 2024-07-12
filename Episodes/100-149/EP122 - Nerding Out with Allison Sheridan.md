@@ -536,7 +536,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 38:17      | stuff like that. And then of course, it can, you know, write images to whatever with whatever           |
 | 38:22      | file name you like. But it's just something I thought I'd recommend for folks who are                   |
 | 38:27      | interested in that sort of thing who are thinking, Oh, gosh, image magic.                               |
-| 38:29      | This looks super neat. And it's also by the people who make acorn. It's from flying meat.               |
+| 38:29      | This looks super neat. And it's also by the people who make acorn. It's from [[Flying Meat Software\|Flying Meat]].               |
 | 38:34      | That is really cool. It's definitely wasting some time on this. It's not by the people.                 |
 | 38:40      | I thought you might. It's not by the people. It's by the person, Gus Mueller. I mean, it's              |
 | 38:43      | another one of these single developer apps where if you have a problem and you send an email,           |

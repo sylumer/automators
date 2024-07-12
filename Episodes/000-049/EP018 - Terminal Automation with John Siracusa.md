@@ -1121,7 +1121,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 59:39      | Mac application, we do, but it's kind of creaky and everything.                                          |
 | 59:43      | And it would be nice if you could write your automation to JavaScript, which way more people             |
 | 59:46      | know than AppleScript.                                                                                  |
-| 59:47      | So that's why people like Omni and I was there, maybe [[Rogue Amoeba]], no, Flying Meat, maybe Gus               |
+| 59:47      | So that's why people like Omni and I was there, maybe [[Rogue Amoeba]], no, [[Flying Meat Software\|Flying Meat]], maybe Gus               |
 | 59:53      | Mueller.                                                                                                 |
 | 59:54      | Anyway, a bunch of good Mac applications have taken it upon themselves to make their own                 |
 | 59:59      | system for doing automation because Apple hasn't provided a modern system level and that's               |
