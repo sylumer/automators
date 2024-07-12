@@ -1,6 +1,7 @@
 ---
 status: complete
 notetype: organisation
+aliases: ["Flying Meat"]
 ---
 # Overview
 Flying Meat Software is a software development company based in the United States. The company is primarily known for creating graphic design and image editing tools.
