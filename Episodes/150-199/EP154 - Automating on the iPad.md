@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 154
 title: "154: Automating on the iPad"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 After Apple's latest announcement, Rosemary and David review their iPad usage and how they automate on it.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 40
 title: "40: Automating with Tim Stringer"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac, iOS, and web-based automation.

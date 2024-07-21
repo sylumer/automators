@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 76
 title: "76: Automating with Alfred"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David dig in with ways they are using the Mac utility Alfred to automate using their Macs. This episode starts with the basics and then starts digging down.

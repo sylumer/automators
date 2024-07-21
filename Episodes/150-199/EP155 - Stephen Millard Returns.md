@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 155
 title: "155: Stephen Millard Returns"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Stephen Millard, one of our favourite automators, returns to the show with ideas (and scripts) to automate Alfred and announces the public Automators Obsidian Vault.

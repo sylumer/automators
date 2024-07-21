@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 103
 title: "103: Dan, the Automating Author, Moren"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David are joined by author, podcaster, and automator Dan Moren to talk about his automation experiences and solutions.

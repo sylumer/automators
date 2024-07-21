@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 61
 title: "61: Widget Homescreen Nerdery"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary look at the widgets in iOS 14 and how you can automate to make sure you have the data you need, under your thumb.

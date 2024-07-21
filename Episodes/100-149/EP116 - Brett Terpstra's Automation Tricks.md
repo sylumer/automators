@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 116
 title: "116: Brett Terpstra's Automation Tricks"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Brett Terpstra joins David to explain some of his favourite automation tools and tricks.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 85
 title: "85: iOS 15 Update & Shortcuts on macOS"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary cover the automation changes with iOS 15, and look at Shortcuts on the Mac. There's also an powerless automation conundrum to solve!

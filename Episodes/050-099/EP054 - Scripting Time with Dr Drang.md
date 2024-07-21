@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 54
 title: "54: Scripting Time with Dr Drang"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Dr. Drang returns to the show to talk about scripting - why it's beneficial, and above all, why everyone can do it!

@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 101
 title: "101: Red Sweaters and AppleScript Fun with Daniel Jalkut"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the red sweater behind FastScripts, MarsEdit, and the Core Intuition podcast. Together they ponder the future of AppleScript, the restaurant at the end of the universe, and just how fast is a script?

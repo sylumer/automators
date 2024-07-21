@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 24
 title: "24: Automating with Airtable"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David are getting serious about Airtable, the online-based database/spreadsheet/thingy. In this episode, they explain how Airtable works, how they're using it to Automate the Automators, and additional uses for Airtable.

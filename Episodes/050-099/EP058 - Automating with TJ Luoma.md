@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 58
 title: "58: Automating with TJ Luoma"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 TJ Luoma joins the Automators to talk about some of his favourite automations and all of the crazy things he is doing with his Stream Deck.

@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 107
 title: "107: Control with your Voice, with Sal Soghoian"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting with a look back at Automator on the Mac, and looking at the star Shortcuts developers now—before diving into Sal's latest project of custom voice control with OmniFocus and beyond.

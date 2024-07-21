@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 158
 title: "158: Hijacking Audio Automation with Paul Kafasis"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba to talk about automating audio, as well as his personal magic.

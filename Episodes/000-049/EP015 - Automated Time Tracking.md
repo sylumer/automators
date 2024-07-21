@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 15
 title: "15: Automated Time Tracking"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Rose and David dive into time tracking, including the why, the how, and then most importantly - how to automate it!

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 32
 title: "32: Shortcuts iOS 13 Release and the Shortcuts Field Guide"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 iOS updates. They also share some of their favourite new shortcuts with the new programming model. Also, David has a new Shortcuts Field Guide arriving next week.

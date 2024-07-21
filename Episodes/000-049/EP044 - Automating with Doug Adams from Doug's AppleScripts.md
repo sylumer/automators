@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 44
 title: "44: Automating with Doug Adams from Doug's AppleScripts"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Doug Adams from Doug's AppleScripts joins us to explain how he got started with AppleScripts, some of his favourites, and scripting areas of interest outside of AppleScript.

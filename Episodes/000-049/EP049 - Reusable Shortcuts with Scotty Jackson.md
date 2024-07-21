@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 49
 title: "49: Reusable Shortcuts with Scotty Jackson"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Scotty Jackson to talk about his Shortcuts based automations which cross into the web and beyond.

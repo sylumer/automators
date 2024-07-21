@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 65
 title: "65: 12 Days of Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 The holidays are here so let's Automate! Rose and David cover 12 days of automation with cool ideas, tricks, and automation products to up your game this holiday season.

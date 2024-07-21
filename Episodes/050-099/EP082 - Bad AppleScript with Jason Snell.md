@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 82
 title: "82: Bad AppleScript with Jason Snell"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Jason Snell joins the Automators to talk about his automation journey, some useful automations, and the promise of Shortcuts for Mac.

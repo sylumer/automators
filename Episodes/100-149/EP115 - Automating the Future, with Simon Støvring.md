@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 115
 title: "115: Automating the Future, with Simon Støvring"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Simon Støvring returns to talk about how much automation has changed and what his favourite new features are.

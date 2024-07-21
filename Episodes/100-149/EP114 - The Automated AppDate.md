@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 114
 title: "114: macOS Ventura: The Automated AppDate"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 macOS Ventura has arrived! David and Rose break down all the new automating possibilities with the latest Mac operating system.

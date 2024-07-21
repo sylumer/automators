@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 83
 title: "83: Home Automation 2.0"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators. David and Rosemary dive into Rosemary's updates to her home automation, smart locks, Home Assistant, and even a cute little robot mop...

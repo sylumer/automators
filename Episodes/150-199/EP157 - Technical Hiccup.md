@@ -17,7 +17,7 @@ episodeurl:
 episode: 157
 title: "157: Technical Hiccup"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 

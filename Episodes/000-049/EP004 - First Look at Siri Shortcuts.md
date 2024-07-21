@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 4
 title: "4: First Look at Siri Shortcuts"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David have been busy trying out the Siri Shortcuts beta. This episode looks closely at how Siri Shortcuts is better (and worse) than Workflow along with some hopes for where this is all heading.

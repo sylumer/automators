@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 30
 title: "30: Some Favourite Automations"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David share some of their favourite recently created automations ranging from email, to meetings, to Rose's experiments on her new Mac mini.

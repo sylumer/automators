@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 3
 title: "3: Converting Numbers Sheets to Keynote Graphs with Sal Soghoian"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode we sat down with Sal Soghoian to learn how to use AppleScript to turn a Numbers table, column, or row, into a chart in Keynote. We also dove into the history of AppleScript, what parts of it mean, and how you can learn it too.

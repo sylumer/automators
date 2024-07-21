@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 77
 title: "77: Unicorn Automation with Kathy Campbell"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk automation. From Lightroom and handling thousands of photos, to Shortcuts for launching music playback, there's plenty of automation to discover!

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 126
 title: "126: Safari Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode David and Rosemary go on Safari and look at all the settings, extensions and integrations you can use to automate you browsing across macOS and iOS.

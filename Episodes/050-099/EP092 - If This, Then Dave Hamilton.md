@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 92
 title: "92: If This, Then Dave Hamilton"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rosemary were joined by Dave Hamilton, the man with many automations - from nap time to making a window stay put, there's plenty of fun ideas to steal.

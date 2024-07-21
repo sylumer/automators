@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 62
 title: "62: Automation Fun with Alex Cox"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcuts, and how to learn new automation.

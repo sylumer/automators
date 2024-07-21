@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 46
 title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 [[Dark Noise]] Developer Charlie Chapman joins the Automators to talk about his automation story and how he implemented automation in his Dark Noise application.

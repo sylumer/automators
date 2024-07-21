@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 34
 title: "34: Getting Cozy with Regular Expressions"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Roll up your sleeves Automators. This week Rose and David tackle regular expressions. What are they? How do you make them? Where do you use them? All those questions get answered in this episode. Regex isn't as daunting as it may first seem.

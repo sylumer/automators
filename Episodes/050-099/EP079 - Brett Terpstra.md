@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 79
 title: "79: Brett Terpstra"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators, Rosemary and David are joined by none other than Brett Terpstra, creator of Bunch, to talk about automation!

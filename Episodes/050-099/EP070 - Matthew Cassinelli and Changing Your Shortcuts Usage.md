@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 70
 title: "70: Matthew Cassinelli and Changing Your Shortcuts Usage"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Matthew Cassinelli to talk about how his Shortcuts use has evolved with the changes to Shortcuts.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 31
 title: "31: Making Your ScreenFlow Flow and More with J.F. Brissette"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David get to talk to J.F. Brissette who really loves to automate. From automating ScreenFlow with Keyboard Maestro to using the Terminal as a launcher, as well as regular expressions and looking into combining Dropbox and ChronoSync this episode will definitely teach you something - even if it's only about finding opportunities for automation!

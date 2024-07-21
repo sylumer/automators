@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 151
 title: "151: OmniVision with Ken Case"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Ken Case joins David Sparks and Rosemary Orchard to talk about automating all the things from the Omni Group, including OmniFocus on Apple Vision Pro.

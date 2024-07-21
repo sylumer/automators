@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 50
 title: "50: Some Favourite Automations"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rose celebrate episode 50 buy looking at the different flavours of automation and sharing some of their favourite automations for Shortcuts and Keyboard Maestro.

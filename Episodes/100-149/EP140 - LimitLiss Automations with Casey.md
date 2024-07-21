@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 140
 title: "140: LimitLiss Automations with Casey"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Casey Liss to talk about all things automation—from home automation from the 1970s to Shortcuts now.

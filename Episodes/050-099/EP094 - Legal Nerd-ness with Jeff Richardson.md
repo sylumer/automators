@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 94
 title: "94: Legal Nerd-ness with Jeff Richardson"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, automator for life.

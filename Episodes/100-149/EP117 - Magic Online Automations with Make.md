@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 117
 title: "117: Magic Online Automations with Make"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode David and Rosemary dive into Make.com and get nerdy with a new online automation platform. And because it's the holidays they also touch on some of their holiday automations!

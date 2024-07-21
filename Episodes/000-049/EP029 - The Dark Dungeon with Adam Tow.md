@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 29
 title: "29: The Dark Dungeon with Adam Tow"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode David and Rose talk to Adam Tow, creator of MsgFiler, automator, and Shortcuts creator about a few of his amazing automations. From having photos taken on his DLSR automatically shared to him via iMessage to playing text adventure games with Shortcuts, there is plenty of automation fun to be had!

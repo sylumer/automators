@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 68
 title: "68: Stephen Millard and ThoughtAsylum"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Stephen Millard from ThoughtAsylum joins in to share his automation journey and his extraordinary ecosystem of plugins Drafts.

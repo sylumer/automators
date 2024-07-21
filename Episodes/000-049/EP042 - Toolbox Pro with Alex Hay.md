@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 42
 title: "42: Toolbox Pro with Alex Hay"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain how he stumbled from scratching his own itch to making a powerful Siri Shortcuts utility app, Toolbox Pro.

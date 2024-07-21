@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 8
 title: "8: File Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Putting files in the right places is a pain in the neck. It's tedious and way too easy to make a mistake. Our intrepid automators are here to save the day on the Mac and iOS.

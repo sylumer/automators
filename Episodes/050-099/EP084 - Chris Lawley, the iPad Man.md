@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 84
 title: "84: Chris Lawley, the iPad Man"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 iPad expert Chris Lawley joins in to talk about iPad-based automation and where a Mac fits in his workflow.

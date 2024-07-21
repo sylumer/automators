@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 134
 title: "134: Looking through the Window of Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David are joined by Sal Soghoian to talk about everything from launchers such as Alfred, to window management, and more voice control!

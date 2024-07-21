@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 45
 title: "45: LaunchCuts, Feedback, and More!"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this week Rosemary and David dive headfirst into the feedback pile and look at LaunchCuts as well as the new PushCut automation server feature - and eye up some beta apps too!

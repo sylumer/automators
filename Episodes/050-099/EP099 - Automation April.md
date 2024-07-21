@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 99
 title: "99: Automation April"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Hooray! It's Automation April and Federico Viticci and John Voorhees join the Automators to talk about it, along with some of their favourite automation.

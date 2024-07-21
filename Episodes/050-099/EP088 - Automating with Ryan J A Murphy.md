@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 88
 title: "88: Automating with Ryan J A Murphy"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelligence, and automated parenting.

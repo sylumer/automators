@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 63
 title: "63: Home Automation Wizardry and Nerd Out"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary dive back into the wonderful world of home automation and look at Rosemary's new setup. From "You've Got Mail" to picking accessories, they go beyond the normal, and possibly the sane.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 5
 title: "5: Project Templates"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators David and Rose get nerdy with project templates. They start out with what a project template is and how it can help you, and go through using basic project templates all the way up to more complex options. While both of them are OmniFocus users, project templates can be used in any task management system - and is something that everyone can use.

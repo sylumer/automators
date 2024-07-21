@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 119
 title: "119: Moving Houses and to the Mac with Chris Lawley"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk about moving house and what that means for his smart home, as well as his journey back to the Mac.

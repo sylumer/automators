@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 104
 title: "104: WWDC 2022 Awesomeness"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Hooray. It's a new WWDC and there are new Automation features! Rose and David are here to preview them all for you.

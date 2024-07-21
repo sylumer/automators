@@ -19,7 +19,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 153
 title: "153: Shortcuts Update with Matthew Cassinelli"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Shortcuts guru Matthew Cassinelli joins to discuss the state of shortcuts and some of his favourite automations.

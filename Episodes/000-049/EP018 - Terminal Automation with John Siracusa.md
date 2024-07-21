@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relayfr
 episode: 18
 title: "18: Terminal Automation with John Siracusa"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Web programmer John Siracusa joins the Automators to share his thoughts on automation workflows, the best programming language for automation, and how automating your Mac desktop can become a road to madness.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 100
 title: "100: Celebrating 100 Automations, and More"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators, David and Rosemary look at their favourite automations, most wished for features, and how their automation has evolved in 100 episodes.

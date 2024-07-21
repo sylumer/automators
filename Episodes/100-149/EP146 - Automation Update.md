@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 146
 title: "146: OmniFocus 4: Automation Update"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators, David and Rosemary talk about the new automation features that have come to OmniFocus 4.

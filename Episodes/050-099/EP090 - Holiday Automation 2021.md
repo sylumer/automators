@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 90
 title: "90: Holiday Automation 2021"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Automating the Holidays has never been easier. Rose and David have a pile of holiday-related automations to make life easier and impress your friends and family.

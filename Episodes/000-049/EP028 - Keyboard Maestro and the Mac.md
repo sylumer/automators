@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 28
 title: "28: Keyboard Maestro and the Mac"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of automation for the Mac. Get $5 off David's new Keyboard Maestro Field Guide until the end of July with code "AUTOMATORSKM".

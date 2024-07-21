@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 52
 title: "52: Charty with Rodrigo Araujo"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcuts and share some of his favourite personal automations.

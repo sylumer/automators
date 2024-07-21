@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 69
 title: "69: Joe Buhlig and Automating OmniFocus"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 The Omni Group has released a remarkable automation platform for their apps, including OmniFocus. In this episode, automator Joe Buhlig joins to talk about his automation journey and working with the Omni Group's new platform.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 60
 title: "60: Cloud Automation Check-In"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapier continues to improve. There's a new player on our radar, Integromat. In this episode, Rose and David break down the current state of cloud automation.

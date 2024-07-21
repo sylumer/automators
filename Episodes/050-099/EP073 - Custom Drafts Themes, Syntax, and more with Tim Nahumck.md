@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 73
 title: "73: Custom Drafts Themes, Syntax, and more with Tim Nahumck"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary get Tim back on the show to talk about recent updates to Drafts and how he's using it to customise his workflow and how other people can take advantage of them too!

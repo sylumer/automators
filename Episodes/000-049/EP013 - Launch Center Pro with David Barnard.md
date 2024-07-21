@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 13
 title: "13: Launch Center Pro with David Barnard"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode David and Rose dive deep into the new version 3 of Launch Center Pro - with David Barnard from Contrast! They look at the history of the app, changes in version 3, and how it fits into their workflows today.

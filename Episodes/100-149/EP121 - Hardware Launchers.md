@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 121
 title: "121: Hardware Launchers"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 After diving into software launchers in episode 120, Rosemary and David take a look at doing things with real physical buttons, in all the forms that can take.

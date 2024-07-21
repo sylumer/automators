@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 89
 title: "89: Kelly Guimont, iPhone Automator"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Kelly Guimont and dive into getting started with automation, fun seasonal lighting, and the trouble with tribbles, er HomePod mini multiplication.

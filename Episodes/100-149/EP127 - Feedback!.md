@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 127
 title: "127: Feedback!"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 It's time for some automation feedback. Topics include task inbox processing, automated check-ins, dumping automation confirmations with Shortcuts, home automation, and time tracking.

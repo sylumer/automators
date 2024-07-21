@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 51
 title: "51: Ken Case and Omni Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Ken Case, CEO of the Omni Group joins us to talk about adding automation in the form of Shortcuts and JavaScript scripting to the Omni Group apps, as well as his first, and favourite automations.

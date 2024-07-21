@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 38
 title: "38: Simon Leeb and PushCut"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 App developer Simon Leeb joins us to talk about his automation journey that turned into building an automation app, PushCut. We also stray into the world of iBeacon and automation.

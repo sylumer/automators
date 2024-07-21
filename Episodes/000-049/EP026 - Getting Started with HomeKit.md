@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 26
 title: "26: Getting Started with HomeKit"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose is now banned from scooters, and how get started with HomeKit - from building your system to real automations that actually make your life easier!

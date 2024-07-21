@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 125
 title: "125: AppleScript Events and more with James Thomson"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David are joined by creator of PCalc, Dice and About (by PCalc), James Thomson. They talk about James' first implementations of automation in his apps, as well as what automations he's using now, and AppleScript vs Shortcuts.

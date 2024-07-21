@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 86
 title: "86: Micro-Automations"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Micro-Automations! It's those tiny little automations that can make your life easy. We've been building them and today we're sharing them.

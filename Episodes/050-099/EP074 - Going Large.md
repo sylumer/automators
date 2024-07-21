@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 74
 title: "74: Stream Deck: Going Large"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David have gone all-in with Elgato's Stream Deck as an automation tool. In this episode, they go deep into all the tricks and workflows to turn your Stream Deck into an automation robot.

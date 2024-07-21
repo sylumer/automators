@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 33
 title: "33: Packing List Extravaganza"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David climb out of their suitcases armed with a variety of Shortcuts, Scriptable Scripts, Trello Boards, Reminders, TextExpander Snippets, Keyboard Maestro Macros and even a [[Drafts]] action group to automate and manage your packing lists.

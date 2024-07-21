@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 27
 title: "27: Shortcuts in iOS 13 - Diving into the Deep End!"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rose and David throw caution to the wind and install iOS & iPadOS betas on everything. There are crashes and updates, all in the name of finding out just how impressive the new Shortcuts really is.

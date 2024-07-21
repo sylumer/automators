@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 20
 title: "20: Mad Science Automation with Brett Terpstra"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Brett Terpstra, the mad scientist automator, joins to talk about how he got started in automation and share some great workflows for keyboard and trackpad automation, extending automation to your home, and more.

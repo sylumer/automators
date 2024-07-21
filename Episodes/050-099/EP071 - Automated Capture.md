@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 71
 title: "71: Automated Capture"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary tackle the sticky subject of automated capture. In places where no post-it has gone before, learn how they use Drafts, Obsidian, and task management and reference systems to handle their capture!

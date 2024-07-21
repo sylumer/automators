@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 41
 title: "41: Automated Health Tracking"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David tackle health tracking and how we can automate it to get all of the pluses with as few negatives as possible. From "smartifying" health devices, to building habits and accountability, it's all covered.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 97
 title: "97: Automating Rosemary Orchard"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David asks all the questions and we get into the nitty gritty details of how Rosemary's workflows and systems are being automated. From Hazel to Home Assistant, with a sprinkling of Airtable, there's variety and magic.

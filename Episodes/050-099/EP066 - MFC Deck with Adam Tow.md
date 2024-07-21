@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 66
 title: "66: MFC Deck with Adam Tow"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Automation wizard Adam Tow joins in this week to share the details of his new automation app, MFC Deck, and how Adam is automating his life.

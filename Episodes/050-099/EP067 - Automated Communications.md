@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 67
 title: "67: Automated Communications"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary attempt to automate as much communication as possible, from email to messages and TextExpander to Shortcuts and Drafts, there's plenty of ways to get stuck in!

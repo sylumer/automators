@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 64
 title: "64: Quickeys and Automation Fun with Merlin Mann"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by the magical Merlin Mann to talk about his automation journey and problems. From the Simpsons to Synology, and Shortcuts, there's plenty to hear about.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 56
 title: "56: Document Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Strap in gang! Rose and David are digging in this time on document automation. Whether you assemble your words with text, the Web, or Microsoft Word, we've got ideas and automations. Our hosts also tackle stacking shortcuts in iOS, email automation, and scripting OmniFocus.

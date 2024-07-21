@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 95
 title: "95: Keyboard Maestro Takes It Up to 10"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 There's a new version of Keyboard Maestro with plenty of new automation tools. David and Rose have some great ideas of how to take advantage of the new features.

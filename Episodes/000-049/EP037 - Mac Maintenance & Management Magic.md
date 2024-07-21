@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 37
 title: "37: Mac Maintenance & Management Magic"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary set their sights on Mac maintenance and how to automate it, from clearing your trash to managing duplicates and even handling those pesky .ics files, nothing is safe from their automation!

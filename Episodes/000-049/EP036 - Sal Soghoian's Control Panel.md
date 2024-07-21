@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 36
 title: "36: Sal Soghoian's Control Panel"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Sal Soghoian returns to the Automators to share his ingenious Mac control panel built with an iPad, a Luna display connector, and some clever automation. Sal also updates us on the Omni JavaScript automation project.

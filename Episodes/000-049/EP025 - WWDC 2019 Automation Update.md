@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 25
 title: "25: WWDC 2019 Automation Update"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring you up to speed on the new automation heading to iOS and iPadOS. They also recap WWDC, the Automator's meetup, and Rose describes how she lost a fight with a leaf.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 152
 title: "152: Action Buttons, Revisited"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David revisit their Action Buttons and share some of their automations. The hosts also discuss text and AI workflows.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 106
 title: "106: Automation Interoperation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Combinations! Lately, a lot of the best Mac automation tools have become conversant with each other. In this episode, Rose and David discuss the best ways to make automation apps work together.

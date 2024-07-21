@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 149
 title: "149: Simon Says Automate"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rosemary and David are joined by Simon Støvring again to talk about the automation developer's journey, productivity on the Vision Pro, and Shortcuts support in apps.

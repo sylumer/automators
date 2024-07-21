@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 120
 title: "120: Looking at Launchers"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David spent some time looking at Raycast, the latest Mac launcher to arrive on the market, and compare it to their current favourite launcher, Alfred.

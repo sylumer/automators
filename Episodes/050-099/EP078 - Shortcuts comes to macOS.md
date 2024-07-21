@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 78
 title: "78: WWDC 2021: Shortcuts comes to macOS"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David dive deep on their initial impressions with the Mac version of Shortcuts and how well it plays with traditional Mac Automation.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 129
 title: "129: WWDC 2023 Wishes"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and CarPlay to HomeKit and beyond, nothing escapes their focus (modes).

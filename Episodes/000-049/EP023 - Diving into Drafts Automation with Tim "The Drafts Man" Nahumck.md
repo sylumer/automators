@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 23
 title: "23: Diving into [[Drafts]] Automation with Tim \"The Drafts Man\" Nahumck"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he uses Drafts, sharing actions, tips and tricks.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 7
 title: "7: Feedback Time!"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Rose and David dive into their very first feedback show. There's a quick look at what changed since the podcast started, a sneak peak of some of the upcoming episode topics, and much more including a brand new app - Scriptable, and automating timers!

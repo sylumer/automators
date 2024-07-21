@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 109
 title: "109: Automating Obsidian"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 From simple improvements to deep cross-linking and pages which update, there's a lot you can automate within your note-taking app of choice. In this episode, the automation gang take on Obsidian, and all of its plugins.

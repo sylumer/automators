@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 130
 title: "130: WWDC Reactions"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rose review all the automation changes coming to the Apple platforms from the new software and tools announced at WWDC 2023.

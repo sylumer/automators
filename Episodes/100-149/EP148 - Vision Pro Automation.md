@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 148
 title: "148: Vision Pro Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David's strapped on his Vision Pro and the Automators take a look to see what can (and can not) be automated on Apple's new platform.

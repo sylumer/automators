@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 80
 title: "80: Automated Calendaring"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David take on automating your calendar in several ways, including repeating events, templates, shortcuts, and calendar blocking apps. They also update the latest developments in automated time-tracking.

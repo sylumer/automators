@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 1
 title: "1: Automating Calendar Events"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Starting with (complex) repeats, working all the way up to AppleScript - with examples. We take you through approximately 10 ways to automate calendar events!

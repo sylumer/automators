@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 135
 title: "135: Vanilla HomeKit"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David talk about what's happening with Alex Hay's apps for Shortcuts, and then dive into the world of plain HomeKit without extra services.

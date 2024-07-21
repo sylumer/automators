@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 113
 title: "113: FocusCuts and Asynchronous Automation Awesomeness"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this news, Rosemary and David look into non-continuous automations and how breaking up a process can improve your automation abilities.

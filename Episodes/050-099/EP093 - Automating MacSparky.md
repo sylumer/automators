@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 93
 title: "93: Automating MacSparky"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David's made a few changes and it's time for an Automator-style audit. In this episode Rose and David cover email, task management, calendars, desktop setups, web automation, and more.

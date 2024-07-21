@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 110
 title: "110: iOS 16 Automation"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 iOS 16 is nearly here, and there are a lot of automation updates to try out. In this episode, Rosemary and David walk you through them all.

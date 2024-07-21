@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 118
 title: "118: Ask the Automators"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Rose and David dig into the questions and feedback bag. Topics include Apple Notes and Reminders, home automation (hooray for doorbell cams!), window management, and IR blasting. Good times!

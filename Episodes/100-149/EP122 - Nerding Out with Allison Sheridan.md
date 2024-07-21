@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 122
 title: "122: Nerding Out with Allison Sheridan"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Allison Sheridan joins us to share her automation workflows. Topics include Keyboard Maestro, Hazel, and more automation tools.

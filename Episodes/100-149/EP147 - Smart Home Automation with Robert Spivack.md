@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 147
 title: "147: Smart Home Automation with Robert Spivack"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David are joined by smart home guru Robert Spivack to talk about everything from HomeKit and Matter, to Thread and WiFi.

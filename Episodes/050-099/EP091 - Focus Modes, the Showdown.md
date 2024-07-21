@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 91
 title: "91: Focus Modes, the Showdown"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary dive into Focus modes, how they use them, and of course, how they automate them - both setting, and automations when they trigger them.

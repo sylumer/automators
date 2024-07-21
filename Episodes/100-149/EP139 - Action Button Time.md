@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 139
 title: "139: Action Button Time"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary dive into the power of the action button on the iPhone 15 Pro and Apple Watch Ultra—and all of its possibilities.

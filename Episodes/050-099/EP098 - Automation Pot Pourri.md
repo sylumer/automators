@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 98
 title: "98: Automation Pot Pourri"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David have several automation topics on the table in this episode including Shortcuts on the Mac, a Stream Deck check-in, and automating Obsidian. Also, they have thoughts on the new Mac Studio.

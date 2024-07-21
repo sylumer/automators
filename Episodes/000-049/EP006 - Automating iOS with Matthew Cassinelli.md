@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relayfr
 episode: 6
 title: "6: Automating iOS with Matthew Cassinelli"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 iOS power user Matthew Cassinelli joins us to share some great iOS automation workflows.

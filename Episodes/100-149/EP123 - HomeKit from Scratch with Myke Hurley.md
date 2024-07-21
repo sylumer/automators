@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 123
 title: "123: HomeKit from Scratch with Myke Hurley"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode Rosemary and David welcome Myke Hurley back to the show to talk about taking over his new Home with HomeKit.

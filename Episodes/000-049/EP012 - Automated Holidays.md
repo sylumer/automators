@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 12
 title: "12: Automated Holidays"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 It's holiday time so what happens when you throw two automation nerds at things like holiday decorations, festive music, and ? Listen and find out.

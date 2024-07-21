@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 19
 title: "19: Shortcuts Updates"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators Rose and David dive into the recent and upcoming updates to Shortcuts. They nerd out on weather and notes, as well as their love for the dictionary updates!

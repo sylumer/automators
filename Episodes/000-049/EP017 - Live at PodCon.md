@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 17
 title: "17: Live at PodCon"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 This week David and Rose come to us live from PodCon with a very enthusiastic audience where they take the opportunity to dive into some of their travel automation setups. Once back in the studio they then go through some of the great feedback they've received recently.

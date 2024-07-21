@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 22
 title: "22: Text Expansion"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Text expansion is a simple sort of automation but also a powerful one. In this episode, Rose and David go deep on text automation, the tools they use, and some of their favourite ways to use text automation to get their work done faster.

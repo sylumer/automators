@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 136
 title: "136: Automating Alex Cox"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Alex Cox returns to the Automators to share a few new automation tricks and get answers for some more involving NFC Tags, Keyboard Maestro, and Automation Possibilities with Apple's Vision Pro.

@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 96
 title: "96: Automating Mikah Sargent"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Mikah Sargent is using all the automations and joins this week to share some of his favourite Mac, iOS, and home workflows.

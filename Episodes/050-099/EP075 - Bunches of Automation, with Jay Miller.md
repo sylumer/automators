@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 75
 title: "75: Bunches of Automation, with Jay Miller"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, Rosemary and David chat to Jay Miller about how he automates, using Keyboard Maestro, Alfred, Bunch, and more.

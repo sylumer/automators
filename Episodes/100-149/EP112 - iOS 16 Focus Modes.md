@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 112
 title: "112: iOS 16 Focus Modes"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the Automators are just using a portion of the new Focus Mode features? Of course not! They are going straight into the deep end.

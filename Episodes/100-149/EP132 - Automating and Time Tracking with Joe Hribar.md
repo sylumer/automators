@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 132
 title: "132: Automating and Time Tracking with Joe Hribar"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Timery developer Joe Hribar joins the Automators to talk about what's involved with adding automation tools to your App and some of Joe's favourite Automations.

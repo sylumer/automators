@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 16
 title: "16: Yoga Automation with Myke Hurley"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Myke Hurley is relatively new to automation but found many ways to simplify his day via automation. In this episode, Myke share several simple to implement, yet crazy useful automations.

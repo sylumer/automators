@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 11
 title: "11: Shortcuts Homescreens!"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 Have you heard of the Shortcuts home screen fad? Where your home screen is just Shortcuts? David and Rose explore all of the possibilities, advantages, disadvantages and fun things you can do with Shortcuts on your home screen - and beyond.

@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 131
 title: "131: Recharging the Beta Batteries"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 David and Rosemary have been testing the latest Apple betas on all their devices, despite going off the grid things seem to be going well—and the latest beta has added more automation possibilities!

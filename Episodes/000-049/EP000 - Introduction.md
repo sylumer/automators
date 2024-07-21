@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 0
 title: "0: Introduction"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 # Synopsis
 Welcome to Automators! In this preview episode David Sparks and Rosemary Orchard tell you all about their new podcast, why they love automation, and that yes, you can automate things!
 

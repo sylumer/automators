@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 9
 title: "9: Scriptable with Simon Støvring"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode David and Rose get to talk to Simon Støvring, maker of Scriptable an app which allows you to control your iPhone with JavaScript. Simon shares some of the journey he experienced making the app, and what you can actually do with Scriptable.

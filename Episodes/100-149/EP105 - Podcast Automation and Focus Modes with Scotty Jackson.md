@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automato
 episode: 105
 title: "105: Podcast Automation and Focus Modes with Scotty Jackson"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined once more by Scotty Jackson. They take a look at home automation related to Focus Modes, and whether or not you can automate a podcast.

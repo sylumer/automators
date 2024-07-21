@@ -20,7 +20,7 @@ episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/a
 episode: 81
 title: "81: Shortcuts for Mac with Developer Zachary Lineman"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators, Rosemary and David are joined by Zach, the creator of Jellycuts - a text IDE for Shortcuts.

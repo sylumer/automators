@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/
 episode: 55
 title: "55: Drafts with Agile Tortoise"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise to talk about Drafts and how they're using it and text-based automations to improve their lives with everything from dinner alerts to complex project templates.

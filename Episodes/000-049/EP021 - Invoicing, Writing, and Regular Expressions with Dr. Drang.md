@@ -17,7 +17,7 @@ episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automat
 episode: 21
 title: "21: Invoicing, Writing, and Regular Expressions with Dr. Drang"
 ---
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
 In this episode of Automators Rosemary and David interview the mysterious internet legend Dr. Drang. As well as talking about Python, Perl, and AppleScript, they also dive into regular expressions, Shortcuts, Drafts, Keyboard Maestro, and how you can combine all of these in various different workflows!
