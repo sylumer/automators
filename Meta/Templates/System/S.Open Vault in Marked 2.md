@@ -1,0 +1,1 @@
+<%* window.open("x-marked://open" + escape(app.vault.adapter.basePath)); %>
