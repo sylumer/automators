@@ -12,7 +12,10 @@ The Stream Deck allows users to create custom shortcuts for actions such as laun
 
 # Models
 ## Stream Deck Classic
-The original Stream Deck model features 15 LCD keys with customisable icons and the ability to create folders for organising commands efficiently.
+The original Stream Deck model features 15 LCD keys with customisable icons and the ability to create folders for organising commands efficiently. It has an integrated USB 2.0 cable and a variable angle stand.
+
+## Stream Deck MK 2
+A newer version of the  Stream Deck classic model. It has a fixed angle stand and accepts Elgato approved faceplate overlays, and accepts USB C cables.
 
 ## Stream Deck Mini
 A compact version of the Stream Deck with 6 programmable keys, ideal for users with limited desk space or looking for a more minimalist setup.
