@@ -13,7 +13,7 @@ showpage: https://www.relay.fm/automators
 **Network:** `$=dv.current().network ? "[[" + dv.current().network + "]]" : "None";`
 **Show Page:** `$="[" + dv.current().showpage + "](" + dv.current().showpage + ")"`
 
-![[Logo.jpg|200x200]]
+![Automators Logo|200x200](Logo.jpg)
 
 # Overview
 Automators is a podcast that explores the world of automation, productivity, and efficiency. Hosted by Rosemary Orchard and David Sparks, the show is dedicated to helping listeners streamline their workflows, save time, and make the most of technology to improve their daily lives.
