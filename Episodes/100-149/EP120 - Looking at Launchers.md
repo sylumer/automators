@@ -511,8 +511,8 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 30:04      | The emoji search is really nice, so you search emoji, it's got a nice display of them.                |
 | 30:10      | You pick one, it goes into the paste buffer, and you can paste it.                                    |
 | 30:13      | They do the same thing with SF symbols.                                                               |
-| 30:14      | If you're into [[SF Symbols]], CleanShot X has a whole set of plugins, so if you're using                  |
-| 30:20      | the CleanShot X, a bunch of its commands now fall in [[Raycast]].                                          |
+| 30:14      | If you're into [[SF Symbols]], [[CleanShot X]] has a whole set of plugins, so if you're using                  |
+| 30:20      | the [[CleanShot X]], a bunch of its commands now fall in [[Raycast]].                                          |
 | 30:25      | [[Obsidian]], the [[Obsidian]] [[Raycast]] plugin is really good.                                                 |
 | 30:31      | I installed the [[Home Assistant]] one because I'm trying to get better at [[Home Assistant]],                |
 | 30:34      | so they've got a bunch of [[Home Assistant]] commands.                                                    |
