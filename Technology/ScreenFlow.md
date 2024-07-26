@@ -1,7 +1,7 @@
 ---
-status: "incomplete"
-creator: "Telestream"
-notetype: "technology"
+status: complete
+creator: Telestream
+notetype: technology
 ---
 # Overview
 ScreenFlow is a professional-grade video editing and screen recording software designed specifically for macOS. It is widely used for creating video tutorials, presentations, and marketing videos. ScreenFlow simplifies the process of capturing screen activity, audio, and video from multiple sources, making it an essential tool for educators, marketers, and content creators who need to produce high-quality video content efficiently.
