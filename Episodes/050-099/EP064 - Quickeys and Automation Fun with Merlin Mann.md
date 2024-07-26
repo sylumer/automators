@@ -1466,7 +1466,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:13:28   | I have, like I say, I have a lot of text files that kind of run my life.                                      |
 | 01:13:31   | And so I write a lot using the Markdown format, depending on what I'm doing, it might be an                   |
 | 01:13:37   | NV alt or it might be in a more richer formatted thing.                                                       |
-| 01:13:43   | But then I use another one of [[Brett Terpstra\|Brett's]] apps, [[Marked2\|Marked]], Mark 2, to preview what I'm doing there.                  |
+| 01:13:43   | But then I use another one of [[Brett Terpstra\|Brett's]] apps, [[Marked 2\|Marked]], Marked 2, to preview what I'm doing there.                  |
 | 01:13:50   | And then all of that is just so improbably portable.                                                          |
 | 01:13:56   | It blows my mind.                                                                                             |
 | 01:13:57   | Oh, so David, David, I heard about an app, [[Alex Cox\|Alex]] told me about an app you like called                          |
