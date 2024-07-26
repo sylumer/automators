@@ -45,12 +45,14 @@ These templates create the basic content structure for particular types of notes
 ## System
 These templates produce some sort of system interaction external to Obsidian.
 
-| Template File             | Description                                                                                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[S.Copy Episode Number]] | Triggering this template on an episode page will copy the numeric portion of the episode number (including leading zeros) to the clipboard. |
-| [[S.Copy Full File Path]] | Triggering this template will copy the full (not relative) file path for the current note to the clipboard.                                 |
-| [[S.Copy Line Content]]   | Triggering this template will copy the content of the line the cursor is currently on to the clipboard.                                     |
-| [[S.Open in TableFlip]]   | Triggering this template will open the current note file in the [[TableFlip]] app if it is installed.                                       |
+| Template File                | Description                                                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[S.Copy Episode Number]]    | Triggering this template on an episode page will copy the numeric portion of the episode number (including leading zeros) to the clipboard. |
+| [[S.Copy Full File Path]]    | Triggering this template will copy the full (not relative) file path for the current note to the clipboard.                                 |
+| [[S.Copy Line Content]]      | Triggering this template will copy the content of the line the cursor is currently on to the clipboard.                                     |
+| [[S.Open in Marked 2]]       | Triggering this template will open the current note file in the [[Marked 2]] app if it is installed.                                        |
+| [[S.Open in TableFlip]]      | Triggering this template will open the current note file in the [[TableFlip]] app if it is installed.                                       |
+| [[S.Open Vault in Marked 2]] | Triggering this template will open the vault in the [[Marked 2]] app if it is installed, the last modified note being rendered.             |
 
 
 ## Text
