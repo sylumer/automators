@@ -146,7 +146,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 03:15      | I mean, originally we started off, the website was based on Rapid Weaver and that was just             |
 | 03:21      | something I sort of cobbled together, but there was a lot of manual input in creating                  |
 | 03:24      | the shows, whereas now it's sort of like a bespoke platform for the website.                           |
-| 03:28      | So it's all built on a SQL database.                                                                   |
+| 03:28      | So it's all built on a [[SQL]] database.                                                                   |
 | 03:31      | So we don't actually create the show pages.                                                            |
 | 03:33      | We basically fill in templates or automatically now fill in templates and the information              |
 | 03:38      | that we put into the system is used to dynamically create the web pages.                               |
@@ -346,7 +346,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 15:35      | We don't do any of that.                                                                               |
 | 15:36      | That's all done automatically.                                                                         |
 | 15:38      | There's also a script that goes ahead and extracts information from our table and sends                |
-| 15:43      | that table information across over to the screencast and line server injects a SQL command             |
+| 15:43      | that table information across over to the screencast and line server injects a [[SQL]] command             |
 | 15:50      | in there creates the show page and that generates the dynamic web show page for the particular         |
 | 15:55      | show that we're working on.                                                                            |
 | 15:56      | So there's lots and lots of little tiny things that are sort of put together in scripts that           |
@@ -388,25 +388,25 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 17:52      | slash Automator's.                                                                                     |
 | 17:53      | Our thanks to Bottomless for their support of this show and all of Relay FM.                          |
 | 18:00      | So Don, one of the things you were saying before we took a break is this interaction                   |
-| 18:05      | between your Airtable database and your SQL database or SQL, depending on what religion                |
+| 18:05      | between your Airtable database and your [[SQL]] database or [[SQL]], depending on what religion                |
 | 18:10      | you are.                                                                                               |
 | 18:12      | And with the Screencast Online website, can you explain how that works and how it got                  |
 | 18:17      | built?                                                                                                 |
 | 18:18      | Yeah, sure.                                                                                            |
-| 18:19      | I mean, if I was going to start again, I'd probably do everything within the SQL database              |
+| 18:19      | I mean, if I was going to start again, I'd probably do everything within the [[SQL]] database              |
 | 18:23      | within Screencast Online, but with a lot of these things, they sort of grow organically,               |
 | 18:29      | so you might sort of be working on one particular aspect and then something else happens and           |
 | 18:33      | you start working somewhere else, and then you need to join them together.                             |
 | 18:37      | And that's what happened in this instance.                                                             |
-| 18:39      | So basically, we have this SQL database, which is a show database.                                     |
+| 18:39      | So basically, we have this [[SQL]] database, which is a show database.                                     |
 | 18:44      | It's got all the information for all the different shows.                                              |
 | 18:46      | So it's got the show number, all the durations, the chapter list, the URLs of where the show           |
 | 18:51      | lives, the videos, where all the different versions of the videos lives.                               |
 | 18:55      | It's got the show description, it's got the show summary, it's got tags.                               |
-| 19:00      | So basically, all that information relating to a single show is held within a SQL database             |
+| 19:00      | So basically, all that information relating to a single show is held within a [[SQL]] database             |
 | 19:05      | in a table called Shows.                                                                               |
 | 19:07      | And Jamie, who is our web developer, has created a system whereby it will use that data in             |
-| 19:12      | a SQL database to generate the Screencast Online show page.                                            |
+| 19:12      | a [[SQL]] database to generate the Screencast Online show page.                                            |
 | 19:16      | And that includes the video, includes the player, includes all the information I've just told          |
 | 19:21      | you about in a nice format.                                                                            |
 | 19:23      | So we don't have to create the show page manually, that's done just extracting the data from           |
@@ -420,15 +420,15 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 19:51      | And then I started to use Airtable for different things.                                                |
 | 19:55      | Really like Airtable.                                                                                   |
 | 19:56      | It's a great tool, very, very easy to use.                                                             |
-| 19:59      | So rather than sort of learn how to use SQL properly, Airtable is really quick to use and               |
+| 19:59      | So rather than sort of learn how to use [[SQL]] properly, Airtable is really quick to use and               |
 | 20:04      | you can just knock something together very, very quickly.                                              |
 | 20:07      | And I ended up pretty much replicating the show's database in Airtable, just because it                 |
 | 20:12      | was easier for me to use.                                                                              |
 | 20:14      | And then I thought, well, hang on, I've got this information in two places now.                        |
 | 20:18      | So why don't I start the information off in Airtable and then transfer it across to the                 |
-| 20:22      | SQL database?                                                                                          |
+| 20:22      | [[SQL]] database?                                                                                          |
 | 20:23      | And basically over time, that's what's happened.                                                       |
-| 20:25      | So we sort of replicate the same fields, et cetera, that are in the SQL database.                      |
+| 20:25      | So we sort of replicate the same fields, et cetera, that are in the [[SQL]] database.                      |
 | 20:30      | And then various people add the information into Airtable as we're building up the show.                |
 | 20:36      | And then once we're happy and once everything's in there, it's basically just a matter of              |
 | 20:40      | clicking on a checkbox in Airtable.                                                                     |
@@ -437,11 +437,11 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 20:52      | So it pulls this view every five minutes.                                                              |
 | 20:54      | And if a new record appears in the Airtable view, and it appears because the checkbox                   |
 | 20:58      | is ticked, there is a built-in, or there's some integration in Zapier that allows you                  |
-| 21:03      | to extract from Airtable and inject into SQL.                                                           |
+| 21:03      | to extract from Airtable and inject into [[SQL]].                                                           |
 | 21:07      | So it basically does that.                                                                             |
 | 21:08      | So Zapier checks every five minutes.                                                                   |
 | 21:10      | If it sees a new show in Airtable in this view, it will take that information and it will               |
-| 21:14      | squirt it into SQL.                                                                                    |
+| 21:14      | squirt it into [[SQL]].                                                                                    |
 | 21:16      | And then at that point, a new show page has been created, and all we need to do then is                |
 | 21:20      | just go across and just double check that everything's OK.                                             |
 | 21:23      | And then when the publication date comes around, it gets published automatically.                      |
@@ -548,7 +548,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 27:44      | It is a great service, and it's an excellent stageing place for automation, if you want                 |
 | 27:49      | to do web-based automation because it works with everything.                                           |
 | 27:52      | Absolutely.                                                                                            |
-| 27:53      | All right, so when you're creating this connection between SQL and Airtable, so you're using           |
+| 27:53      | All right, so when you're creating this connection between [[SQL]] and Airtable, so you're using           |
 | 27:59      | Airtable and Zapier, those are your key platforms.                                                     |
 | 28:04      | How did you come on Zapier?                                                                            |
 | 28:08      | I'm not sure how I came across it because I use it for lots of different things now.                   |
