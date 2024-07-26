@@ -1,0 +1,1 @@
+<%* window.open("x-marked://open" + escape(tp.file.path(false))); %>
