@@ -935,7 +935,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:13:43   | also got, well, I've got the link to my home automation profile, which is on every profile                |
 | 01:13:50   | actually. But I also have a, I also have links to default applications. I'm calling them                  |
 | 01:13:59   | default applications. These are the applications that would usually live in my dock, but my               |
-| 01:14:03   | dock auto hides. And so this includes things like [[OmniFocus]]. I've got the [[Fantasticall]]                  |
+| 01:14:03   | dock auto hides. And so this includes things like [[OmniFocus]]. I've got the [[Fantastical]]                  |
 | 01:14:12   | script from [[Timothy Luoma\|TJ Luoma]] because that opens Fantastical for me. I have [[Obsidian]], [[Drafts]], [[Messages]],        |
 | 01:14:18   | [[Deliveries]], [[NetNewsWire]], things like that here. And these are just applications. The                     |
 | 01:14:22   | A I use very frequently and, **I** want to be using frequently. And so you'll notice Safari                  |
