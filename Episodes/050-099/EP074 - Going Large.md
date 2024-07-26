@@ -120,7 +120,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 03:49      | might have. I've personally found black backgrounds or PNGs of just the icons tend to work really         |
 | 03:54      | well for me, David, but I know you've gone great, I think, with yours, you were saying.                   |
 | 03:58      | Yeah, I mean, I just ran all of the [[SF Symbols]] on a gray background and I have a folder full              |
-| 04:05      | of them. And Rose and I and some other friends have had a shared Dropbox folder for several               |
+| 04:05      | of them. And Rose and I and some other friends have had a shared [[Dropbox]] folder for several               |
 | 04:10      | months now where we've been collecting these. And every time any one of us makes another                  |
 | 04:14      | one, we just stick it in kind of the community folder and the idea with the GitHub repose                 |
 | 04:19      | to bring the listeners in so you can go and download them. And you can also make contributions            |
@@ -1207,7 +1207,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:35:49   | up things, I don't need to worry because I will be able to find that document again.                      |
 | 01:35:54   | Anybody who needs to manage lots of documents of loads of different types and make notes                  |
 | 01:35:58   | on them should take a look at Devon Think. I love it because I can literally throw anything               |
-| 01:36:03   | in it. And because it's using my Dropbox, in my case, it could use iCloud for you. I                      |
+| 01:36:03   | in it. And because it's using my [[Dropbox]], in my case, it could use iCloud for you. I                      |
 | 01:36:08   | don't need to worry about running out of storage space or paying for an extra subscription.               |
 | 01:36:12   | I'm just using what I've got. You can get an extra 10% off Devon Think or upgrade to                      |
 | 01:36:16   | it right now. Just go to DEVONtechnologies.com/Automators. That's DEVONtechnologies.com             |
@@ -1345,7 +1345,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:47:37   | even like a little dock where I could store, I store action buttons so I could change between             |
 | 01:47:44   | profiles and copy them. It's just not easy to do that. Another thing that's a pet peeve                   |
 | 01:47:49   | is at least with me, it never remembers the last place I went to get artwork, like we                     |
-| 01:47:55   | have our magic Dropbox folder that we've shared. And it never remembers that it always wants              |
+| 01:47:55   | have our magic [[Dropbox]] folder that we've shared. And it never remembers that it always wants              |
 | 01:48:00   | to go to the desktop or some other place. And then I have to navigate around folders                      |
 | 01:48:05   | just to get to my my artwork kind of treasure chest. And you know, all these little like,                 |
 | 01:48:12   | you know, little pinpricks of pain. The other pet peeve I have, which is not streamed x                   |

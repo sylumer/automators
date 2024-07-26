@@ -308,8 +308,8 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 15:08      | And this is what makes it so good because it's designed for collaboration, which means               |
 | 15:13      | you don't end up with weird things like data collisions and stuff like that, which can               |
 | 15:17      | of course happen elsewhere.                                                                          |
-| 15:19      | You know, if we had, I don't know, say an SQL lite database saved in Dropbox, well,                  |
-| 15:25      | to start with that wouldn't do very well with Dropbox is sinking.                                    |
+| 15:19      | You know, if we had, I don't know, say an SQL lite database saved in [[Dropbox]], well,                  |
+| 15:25      | to start with that wouldn't do very well with [[Dropbox]] is sinking.                                    |
 | 15:27      | And secondly, if we both opened it at the same time, it might actually just explode                  |
 | 15:32      | and cause the end of automators, or at the very least the end of our tears list, which               |
 | 15:35      | of course is something.                                                                              |

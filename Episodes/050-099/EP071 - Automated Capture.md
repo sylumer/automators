@@ -374,8 +374,8 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 23:48      | At the very least, you should say, hey, this is a piece of reference material and market                 |
 | 23:53      | as such so that it's distinguishable from all of the other stuff that you have hanging                   |
 | 23:58      | around, which is one of the reasons why I've relatively recently started using [[Obsidian]],                 |
-| 24:05      | which I sing through Dropbox because then I can have things go easily to [[Obsidian]] from                   |
-| 24:11      | [[Drafts]] because I just save it to a Dropbox folder.                                                       |
+| 24:05      | which I sync through [[Dropbox]] because then I can have things go easily to [[Obsidian]] from                   |
+| 24:11      | [[Drafts]] because I just save it to a [[Dropbox]] folder.                                                       |
 | 24:14      | Or for work, I'm actually saving it to own cloud because [[Drafts]] can do that as well.                     |
 | 24:19      | [[Obsidian]] can just point at any folder on your Mac and that works perfectly for work.                     |
 | 24:23      | So I'm pretty happy about that.                                                                          |
@@ -383,7 +383,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 24:29      | capture process is where you've got these text files that you've saved in [[Drafts]], but                    |
 | 24:34      | you've got a particular place you need them to be.                                                       |
 | 24:37      | And depending on the apps you're working with, that really can be an issue.                              |
-| 24:42      | An app that is Dropbox friendly like [[Obsidian]] makes it really easy because [[Drafts]] has Dropbox            |
+| 24:42      | An app that is [[Dropbox]] friendly like [[Obsidian]] makes it really easy because [[Drafts]] has [[Dropbox]]            |
 | 24:48      | systems built in.                                                                                        |
 | 24:49      | The way I use [[Obsidian]] is I actually use, because I've got client notes in it, I use                     |
 | 24:54      | their end-to-end encrypted product, I pay extra, and I have my own password for my data.                 |
@@ -392,11 +392,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 25:09      | all encrypted.                                                                                           |
 | 25:12      | But the way my data is stored, it's stored locally on my drive on a protected drive.                     |
 | 25:18      | But that drive is not anywhere in the cloud.                                                             |
-| 25:23      | It's off iCloud, it's off Dropbox, but then [[Obsidian]] sends it up to a cloud service that                 |
+| 25:23      | It's off iCloud, it's off [[Dropbox]], but then [[Obsidian]] sends it up to a cloud service that                 |
 | 25:29      | they provide for a fee that holds the encrypted data.                                                    |
 | 25:34      | And so for me to write to my [[Obsidian]] data on Mac, I actually have end [[Drafts]] save local                 |
 | 25:41      | saves of markdown files to that particular folder on my local folder.                                    |
-| 25:46      | I can't do any of the cool Dropbox stuff Rose does, but that's the way I'm able to use the               |
+| 25:46      | I can't do any of the cool [[Dropbox]] stuff Rose does, but that's the way I'm able to use the               |
 | 25:52      | app for the stuff I need to use with encryption.                                                         |
 | 25:55      | So like I looked at Roam and Kraft, and a lot of these are great services, but they don't                |
 | 26:01      | offer that end-to-end encryption, so I couldn't use them.                                                |
@@ -413,22 +413,22 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 26:55      | I have a folder called lists, and this contains, surprise, a series of lists.                            |
 | 27:00      | So this is stuff like TV shows to watch, books to read, things like that.                                |
 | 27:04      | And I am constantly experimenting with where these things go, but at the moment I'm really               |
-| 27:08      | happy with them being there, because I've built a custom Dropbox action, which finds                     |
+| 27:08      | happy with them being there, because I've built a custom [[Dropbox]] action, which finds                     |
 | 27:13      | all of the markdown files in that folder, and it shows them to me as a list.                             |
 | 27:18      | And then it appends, whatever is in my current draft, minus read or watch or whatever, and               |
 | 27:28      | just removing any white space after that's been nuked.                                                   |
 | 27:32      | And it appends that to one of those lists.                                                               |
 | 27:36      | And that makes it really easy for me to just have all these things, because I'm very fortunate           |
-| 27:43      | in that for my personal stuff, I can use Dropbox.                                                        |
+| 27:43      | in that for my personal stuff, I can use [[Dropbox]].                                                        |
 | 27:46      | And so I love it, because that works, and it means that I both captured to the right                     |
 | 27:53      | place, but then when I'm looking for the data, it's going to be really easy to find.                     |
-| 27:58      | And of course, because I'm using Dropbox, I'm not married to [[Obsidian]], I can then just                   |
+| 27:58      | And of course, because I'm using [[Dropbox]], I'm not married to [[Obsidian]], I can then just                   |
 | 28:02      | open the entire folder in [[BBEdit]] or Nova or something else if I want to.                                 |
 | 28:09      | And I can, of course, open individual files anytime, and I can even get stuff with shortcuts,            |
 | 28:13      | which is pretty handy.                                                                                   |
 | 28:14      | Now, I totally agree.                                                                                    |
 | 28:17      | There's part of me that thinks I should just separate the legal vault to the encrypted                   |
-| 28:21      | database and put a personal vault somewhere like Dropbox, but it's so much easier having                 |
+| 28:21      | database and put a personal vault somewhere like [[Dropbox]], but it's so much easier having                 |
 | 28:26      | it all in one place.                                                                                     |
 | 28:28      | And so I'll err on the side of caution, just make it all encrypted.                                      |
 | 28:32      | But the point you made there, I think, which is helpful for automators, is you're capturing              |
@@ -509,7 +509,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 33:22      | I've got [[Hazel]] doing work on the Mac to get it to the right place.                                       |
 | 33:28      | That's the most complicated way you could do it.                                                         |
 | 33:30      | That's only because I've added all this end-to-end nonsense.                                             |
-| 33:34      | If you're just doing it in Dropbox, it would be easier.                                                  |
+| 33:34      | If you're just doing it in [[Dropbox]], it would be easier.                                                  |
 | 33:39      | But create some actions.                                                                                 |
 | 33:40      | I've got a whole list of them for [[Obsidian]] entries, so if I come across a website and                    |
 | 33:46      | I want to write a blog post about it, I push out a shortcut that opens a draft where it                  |
@@ -987,7 +987,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:03:49   | don't need to print a label, then it tells me, uh, then it, uh, gets, uh, uh, um, the,                   |
 | 01:03:55   | the, the link from the thing for, for the barcode that the people at the, the store can                  |
 | 01:04:00   | scan.                                                                                                    |
-| 01:04:01   | Um, and then, um, it, it, you know, just create some Taskpaper and save that to a Dropbox               |
+| 01:04:01   | Um, and then, um, it, it, you know, just create some Taskpaper and save that to a [[Dropbox]]               |
 | 01:04:06   | folder.                                                                                                  |
 | 01:04:07   | This is where things get a little bit sticky because that [[Dropbox]] folder has a [[Hazel]] rule                |
 | 01:04:11   | on my Mac mini to move it to an iCloud folder.                                                           |
@@ -997,10 +997,10 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:04:31   | magically goes into OmniFocus.                                                                            |
 | 01:04:33   | I almost certainly could set this up to send this to a push cut action.                                  |
 | 01:04:37   | Um, and then it would just, uh, and then that shortcut would go, Hey,                                    |
-| 01:04:41   | Taskpaper, I'm saving this to OmniFocus done, um, but I, I like throwing things into Dropbox             |
+| 01:04:41   | Taskpaper, I'm saving this to OmniFocus done, um, but I, I like throwing things into [[Dropbox]]             |
 | 01:04:46   | and so that's what I'm doing right now.                                                                  |
 | 01:04:48   | Um, as it is, whichever way I do it, I'm going to be involving, um, you know, two applications.          |
-| 01:04:54   | Um, so I, I figured I'd leave it with Dropbox [[Hazel]], um, for, for now.                                   |
+| 01:04:54   | Um, so I, I figured I'd leave it with [[Dropbox]] [[Hazel]], um, for, for now.                                   |
 | 01:04:59   | Um, but I can always change that.                                                                        |
 | 01:05:01   | Yeah.                                                                                                    |
 | 01:05:02   | In my experience, anytime I automate moving files between two different clouds, there                    |

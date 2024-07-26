@@ -807,7 +807,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:12:45   | all bookmarks and working with them the integrated AI assist you with finding and searching while the                            |
 | 01:12:50   | extensive search language with advanced billion operators means that you have no chance of losing                                |
 | 01:12:55   | anything dev and think features a flexible sync system that supports many cloud services including                               |
-| 01:13:01   | Dropbox and iCloud or it lets you synchronise over your local network too if that's what you prefer                              |
+| 01:13:01   | [[Dropbox]] and iCloud or it lets you synchronise over your local network too if that's what you prefer                              |
 | 01:13:07   | and of course everything is securely encrypted this gives you the choice for syncing whichever way                               |
 | 01:13:12   | works best for you it's got smart rules and flexible reminders to let you automate all                                           |
 | 01:13:18   | parts of your workflow and delete boring repeating tasks letting dev and think automatically                                     |

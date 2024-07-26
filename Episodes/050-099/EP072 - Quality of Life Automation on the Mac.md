@@ -736,15 +736,15 @@ Rose and David explain many little automations that can improve your quality of 
 | 57:28      | file system on it. But just like whenever you have these little things that show up in your life         |
 | 57:33      | that you find yourself repeatedly doing, often if it involves a file, your [[Hazel]] license was like 30,    |
 | 57:41      | 40 bucks, solves the problem for you. And that's the beauty of it. So I share the nested folders,        |
-| 57:49      | folders inside of Dropbox with Scotty, but Scotty only has a free plan for Dropbox. And                  |
+| 57:49      | folders inside of [[Dropbox]] with Scotty, but Scotty only has a free plan for [[Dropbox]]. And                  |
 | 57:54      | for what he uses it for, it's not worth him upgrading to two terabytes of space,                         |
 | 58:00      | because it goes from five to two terabytes, five gigabytes to two terabytes, which is kind               |
 | 58:04      | of a large jump. So what we've done instead is we have crafted a highly technical system                 |
 | 58:11      | where he adds the word archive to the start of any of the folder names that he no longer needs           |
 | 58:17      | access to. And then [[Hazel]] on my end just watches it and goes, oh, [[Yoink]]. And it grabs it, it moves       |
-| 58:22      | the folder to a different Dropbox folder, which is not shared with him. It's a shared folder in          |
+| 58:22      | the folder to a different [[Dropbox]] folder, which is not shared with him. It's a shared folder in          |
 | 58:27      | that he has a link so he could go in and get something if he needed to, but it's not directly            |
-| 58:31      | shared with him taking up his Dropbox space. And then it removes the word archive from the front         |
+| 58:31      | shared with him taking up his [[Dropbox]] space. And then it removes the word archive from the front         |
 | 58:35      | so that everything's alphabetically sorted. And it works really, really well, because he can rename      |
 | 58:41      | the folder as soon as he's done with everything for the episode. And bam, we're finished. And oh,        |
 | 58:46      | my gosh, do I love that? It works so well. Because it's simple. We decided to, you know,                 |
@@ -763,17 +763,17 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:00:03   | notes on the iPhone. You know, like just literally right before we start recording a day, a client       |
 | 01:00:08   | called me and had a couple of questions and I wanted to record that call into an [[Obsidian]] note.          |
 | 01:00:15   | So I quickly dictated it and I made a [[Drafts]] action that saves it to a very particular folder            |
-| 01:00:22   | in Dropbox. And the reason I use Dropbox for this one is because you can address individual              |
-| 01:00:27   | folders in Dropbox where with the iCloud you can't. So back on my Mac, [[Hazel]]'s looking at that folder    |
+| 01:00:22   | in [[Dropbox]]. And the reason I use [[Dropbox]] for this one is because you can address individual              |
+| 01:00:27   | folders in [[Dropbox]] where with the iCloud you can't. So back on my Mac, [[Hazel]]'s looking at that folder    |
 | 01:00:34   | and one of them is, you know, client communication notes, whatever, blah, blah, blah. But it sees a      |
 | 01:00:39   | new file appeared there and it just drops it right into [[Obsidian]] in the right place. So,                 |
 | 01:00:46   | you know, I can go to my Mac and everything is already there and I didn't have to spend a                |
 | 01:00:50   | bunch of time moving files around. So just like little quality of life things. Yeah.                     |
-| 01:00:55   | Yeah, I actually have a folder in Dropbox called automated actions, David. And this has a series         |
+| 01:00:55   | Yeah, I actually have a folder in [[Dropbox]] called automated actions, David. And this has a series         |
 | 01:01:01   | of subfolders and basically the idea of it is, is stuff gets put in here to make magic happen.           |
 | 01:01:07   | So there's all kinds of nerdy things in here, like there's a screen cost online thing where              |
 | 01:01:12   | there's a JSON file and it takes that information, [[Keyboard Maestro]] actually takes that information      |
-| 01:01:16   | and does magic with it. But speaking of podcasts, Dropbox and [[Keyboard Maestro]], I actually do want       |
+| 01:01:16   | and does magic with it. But speaking of podcasts, [[Dropbox]] and [[Keyboard Maestro]], I actually do want       |
 | 01:01:23   | to share one of the things that I've done, which is when I finished recording an episode of automators,  |
 | 01:01:29   | I have a [[Keyboard Maestro]] macro pop up and it asks me what the, what the episode number is.              |
 | 01:01:37   | And so I input the episode number. So for this one, it's 72. And then there are three buttons            |
@@ -1130,7 +1130,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:33:50   | how I can easily search it. And so I've literally had that open on my iPad and I've been generating      |
 | 01:33:55   | icons on my iPhone, which works really well. Unless the count on your lap decides to randomly            |
 | 01:34:00   | tap the cancel button, which she did once. Yeah, I have a small group of friends that I                  |
-| 01:34:05   | have a shared Dropbox folder with where we put like Stream Deck icons and things like this.              |
+| 01:34:05   | have a shared [[Dropbox]] folder with where we put like Stream Deck icons and things like this.              |
 | 01:34:09   | You're in it. So, but maybe we should think of like a GitHub or something we can do for                  |
 | 01:34:14   | the listeners as well. So we can have like a community based location for Stream Deck                    |
 | 01:34:19   | icons and OmniFocus perspective icons, because everybody's doing all this stuff on them.                 |

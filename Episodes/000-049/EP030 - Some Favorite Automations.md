@@ -464,7 +464,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 34:06      | which I mentioned in our recent show about home automation. But I've also got Calibre running        |
 | 34:13      | on it, which is like [[iTunes]] for ebooks. And [[Calibre]] has a function where it can watch a folder.      |
 | 34:17      | It's called the watch folder function. And so I throw any ebooks that I've purchased that come       |
-| 34:22      | in like EPUB format and things like that into a folder in Dropbox called add to Calibre.             |
+| 34:22      | in like EPUB format and things like that into a folder in [[Dropbox]] called add to Calibre.             |
 | 34:28      | And Calibre goes, [[Yoink]], sucks it up and sticks it in my ebook library. So next time I'm getting     |
 | 34:33      | books from my ebook library, they're all there, which means that when I purchase things from,        |
 | 34:37      | like, take control books, I can just download them, stick them in the folder on any device,          |
@@ -477,7 +477,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 35:08      | you know, needing that to be running 24-7, but that makes sense. Well, I don't need it to be         |
 | 35:13      | running 24-7, but Calibre has a built-in ebook server, which I use with Marvin on my iPad mini       |
 | 35:19      | so that I can just grab ebooks and read them. And so it's really nice if all the ebooks are just     |
-| 35:25      | there. And if Calibre's running all the time, why not have it watch a folder in Dropbox and          |
+| 35:25      | there. And if Calibre's running all the time, why not have it watch a folder in [[Dropbox]] and          |
 | 35:29      | just do some more magic for me? Yeah, I've bought so many books through Amazon that if they ever     |
 | 35:34      | like shut down or lock me out, I'm screwed. Oh, yeah. I have it download all of my Kindle books      |
 | 35:40      | as well and store those in Calibre as well, just so that I have everything there. Thanks,            |
@@ -554,9 +554,9 @@ Rose and David share some of their favourite recently created automations rangin
 | 42:05      | which is hidden in the current betas if you're on the current betas. It's there. It's just           |
 | 42:09      | hidden because it's not finished yet. So I'd like to rewrite it to do that. But my previous          |
 | 42:13      | iteration of this was not actually using the mail drop at all. I was appending things through a      |
-| 42:18      | Dropbox file. And then I had a shortcut that ideally I would run once a day that would grab          |
-| 42:23      | the contents of the Dropbox file. And because it was Taskpaper format, it would just paste it into  |
-| 42:28      | OmniFocus and then replace the Dropbox file with an empty file. However, the problem with this was   |
+| 42:18      | [[Dropbox]] file. And then I had a shortcut that ideally I would run once a day that would grab          |
+| 42:23      | the contents of the [[Dropbox]] file. And because it was Taskpaper format, it would just paste it into  |
+| 42:28      | OmniFocus and then replace the [[Dropbox]] file with an empty file. However, the problem with this was   |
 | 42:35      | I realised I wasn't running the shortcut every day. And so I was missing stuff because it wasn't     |
 | 42:40      | ending up in my OmniFocus. And that, of course, was a significant failing on my side because I       |
 | 42:46      | wasn't automating adding the tasks, which is why I switched back to using mail drop because then     |

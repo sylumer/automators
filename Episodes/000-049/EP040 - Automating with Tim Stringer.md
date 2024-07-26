@@ -965,7 +965,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 55:06      | that I've been using more and more is called Toolbox Pro and that essentially just exposes               |
 | 55:13      | a lot of the features that are built into the iOS and iPadOS through this app.                           |
 | 55:19      | For instance, I built a shortcut that scans a receipt and prompts me for who it's being                  |
-| 55:24      | paid to and the date and it puts it into a folder in Dropbox that gets picked up by [[Hazel]]                |
+| 55:24      | paid to and the date and it puts it into a folder in [[Dropbox]] that gets picked up by [[Hazel]]                |
 | 55:29      | that puts it in the right place.                                                                         |
 | 55:33      | It's giving me the same scanner that I would have if I were using the Notes app and I can                |
 | 55:37      | do all the OCR and everything on it, but allowing me to build that right into a shortcut.                |

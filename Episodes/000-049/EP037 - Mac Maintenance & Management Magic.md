@@ -179,12 +179,12 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 09:40      | which I've been taking for an article that I've been writing. And I have four screenshots in that.      |
 | 09:44      | But they'll only be there probably for another day because if it's something that's over two days,      |
 | 09:51      | something that's over two days old, and it's on my desktop, then it gets moved. And I have set up       |
-| 09:57      | a couple of [[Hazel]] rules. So I move screenshots off to a Dropbox folder called screenshots.              |
+| 09:57      | a couple of [[Hazel]] rules. So I move screenshots off to a [[Dropbox]] folder called screenshots.              |
 | 10:03      | It's very creative naming. And it's just basically a place to keep these things just in case I really   |
 | 10:08      | do need them. And what I've been trying to do recently, and I'm not sure if it's worked or not,         |
 | 10:13      | and I'm not going to mess with it well on the show just in case I accidentally kill my recording,       |
-| 10:17      | is I've told Dropbox actually don't sync that folder locally. So what this does is it then              |
-| 10:22      | moves things to Dropbox. So I can still get at it. It's just not locally stored on my machine.          |
+| 10:17      | is I've told [[Dropbox]] actually don't sync that folder locally. So what this does is it then              |
+| 10:22      | moves things to [[Dropbox]]. So I can still get at it. It's just not locally stored on my machine.          |
 | 10:25      | So I'm saving a little bit of space. I have a 512 gigabyte SSD, so I'm probably not going to run        |
 | 10:30      | out of storage anytime soon. I'm only using about half of that. But I try and get things moved off      |
 | 10:35      | of my desktop after a day or two. Because for a day or two, I can live with a few things being there.   |
@@ -280,7 +280,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 18:50      | Yeah. So you can install plugins in Drop Zone. And this is where it gets super, super                   |
 | 18:55      | automatically nerdy. Because I even have the ability to upload files to FTP.                            |
 | 19:01      | So I can upload the automators file on Friday. As this episode goes out, I'll have done this by         |
-| 19:06      | dragging it from that folder in Dropbox that we share over into Drop Zone and having it uploaded        |
+| 19:06      | dragging it from that folder in [[Dropbox]] that we share over into Drop Zone and having it uploaded        |
 | 19:12      | to Libsyn for us in the background. And that's super useful.                                             |
 | 19:16      | I would like you to send me a video of that because I'm going to start doing that.                      |
 | 19:21      | Yes.                                                                                                    |
@@ -389,7 +389,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 28:58      | for unsupported apps. Now that we've gone to 64 bit, you'll see a bunch of 32 bit apps that             |
 | 29:04      | there's data in there. There's a 570 megabyte abbey fine reader file. My Mac that is serving no         |
 | 29:13      | purpose because it doesn't run anymore, you know, and then you can also just like look through by       |
-| 29:18      | different file browsers, like, you know, Dropbox, you know, or whatever your big folders are, and       |
+| 29:18      | different file browsers, like, you know, [[Dropbox]], you know, or whatever your big folders are, and       |
 | 29:24      | you can look through there to see where the data hogs are. So using the built-in tool for this,         |
 | 29:30      | you can actually find quite a bit. Yeah, I have to say, it's really useful to have this. And it's       |
 | 29:35      | worth these things. If you didn't know it was there, you probably go and download another file to do    |
@@ -511,7 +511,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 39:43      | and it'll do it for you. Yeah, post haste is excellent. I've been playing with that as well             |
 | 39:46      | for some other projects for recording videos for screencast online. Actually, I stole that              |
 | 39:51      | from Don seeing as he's doing it. And it's been really useful. That combined with the Zapier            |
-| 39:55      | Zap to make a folder in Dropbox, which is them, how I kick the whole thing off because everything       |
+| 39:55      | Zap to make a folder in [[Dropbox]], which is them, how I kick the whole thing off because everything       |
 | 40:00      | goes in there. That saves my bacon. Yeah, crazy. This episode of The Automators is brought to you       |
 | 40:07      | by ExpressVPN. We all know how a VPN protects your privacy and security online. But did you             |
 | 40:14      | know it can take your TV watching to the next level by unlocking movies and shows that are              |
@@ -670,17 +670,17 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 54:13      | put a link to that in the show notes as well, because it details it. And I'm pretty certain             |
 | 54:16      | there was a link to the [[Keyboard Maestro]] macro as well for you to download it as a sample.              |
 | 54:21      | Cool. You want to talk about the cloud? Yeah, because I think the cloud is one of these things          |
-| 54:28      | where especially I have two terabytes of Dropbox storage space. I have no idea how I ended up with      |
-| 54:33      | two terabytes of Dropbox storage space. I know I signed up for one terabyte and they upgraded me        |
+| 54:28      | where especially I have two terabytes of [[Dropbox]] storage space. I have no idea how I ended up with      |
+| 54:33      | two terabytes of [[Dropbox]] storage space. I know I signed up for one terabyte and they upgraded me        |
 | 54:37      | at some point. They doubled it. Yeah, they doubled it. I don't know what to do with two terabytes       |
-| 54:41      | of Dropbox storage space. So I end up with a ton of stuff in there and they have this new smart         |
-| 54:45      | sync feature. So there are two options with Dropbox where you can say, either don't sync this           |
+| 54:41      | of [[Dropbox]] storage space. So I end up with a ton of stuff in there and they have this new smart         |
+| 54:45      | sync feature. So there are two options with [[Dropbox]] where you can say, either don't sync this           |
 | 54:52      | folder to my device or there's this kind of alias thing where it looks like the file is on your         |
 | 54:56      | device. And then when you click it, if it's not actually on your device, it will download it.           |
 | 55:00      | I forgot the name of this feature, but I think it's Smart Sync and Selective Sync are the two           |
-| 55:06      | options. And I have been using those a lot because I have two terabytes of Dropbox storage space        |
+| 55:06      | options. And I have been using those a lot because I have two terabytes of [[Dropbox]] storage space        |
 | 55:11      | and I have a 512 gigabyte SSD. And actually, all of my machines have a 512 gigabyte SSD.                |
-| 55:18      | And so I literally couldn't download the entire contents of my Dropbox                                  |
+| 55:18      | And so I literally couldn't download the entire contents of my [[Dropbox]]                                  |
 | 55:22      | if I had two terabytes of stuff in there, even if I wanted to. And so I turn off this a lot of          |
 | 55:29      | things because, for example, I don't need the entire back catalogue of automators stored on every         |
 | 55:34      | single one of my Macs. It's not necessary. So I turn that off on most of my Macs and then I only        |
@@ -692,8 +692,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 56:02      | even though technically we can redownload them from other places. It's still good to have the           |
 | 56:06      | audio in our control. Yeah, that makes a lot of sense. And I think that the problem you describe        |
 | 56:11      | is one a lot of people have. It's like, you know, we've got smaller drives than we have cloud storage.  |
-| 56:17      | So you can't have it download everything. And Dropbox and both iCloud have ways to do this.             |
-| 56:25      | But figuring that out, I think the Dropbox tools are kind of fidgety. And I think the                   |
+| 56:17      | So you can't have it download everything. And [[Dropbox]] and both iCloud have ways to do this.             |
+| 56:25      | But figuring that out, I think the [[Dropbox]] tools are kind of fidgety. And I think the                   |
 | 56:31      | iCloud tools are kind of cryptic. Yeah, well, iCloud is very mystical. It                               |
 | 56:37      | removes stuff from your machine if you haven't used it in a while, which that means if you play         |
 | 56:41      | a lot like I do and you're not going to have Wi-Fi on the plane, you have to go through and open all    |
@@ -705,10 +705,10 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 57:10      | create folders for me or automatically add files based on certain things. And this is a really          |
 | 57:16      | good way to kick stuff off because then I have, so for example, whenever I get assigned a new           |
 | 57:20      | video at Screencast Online, one of the things that my Zapier Zap does is it creates a new               |
-| 57:25      | folder in Dropbox for me. And then I know that I have that folder and that's where all of my            |
+| 57:25      | folder in [[Dropbox]] for me. And then I know that I have that folder and that's where all of my            |
 | 57:30      | documents can go. And that's where I'm now using post-haste to set stuff up so that stuff goes          |
 | 57:34      | into that folder. But that folder has the correct name so that it's got the right show number and       |
-| 57:39      | everything in that title. And that's in Dropbox. And then when I'm finished with it, then I can         |
+| 57:39      | everything in that title. And that's in [[Dropbox]]. And then when I'm finished with it, then I can         |
 | 57:44      | just untick it and it won't be synced on my machine anymore. Yeah, yeah. Nice. I find it very useful,   |
 | 57:49      | especially in combination with other things like Keep for Maestro or [[Hazel]] to get stuff sorted out      |
 | 57:55      | so you can have stuff just come into an inbox folder somewhere and then get moved. Well,                |
@@ -795,7 +795,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:04:59   | internet access for the applications that you want. There is another application as well called         |
 | 01:05:03   | Little Snitch, which can also do this, but it can be a lot more complex to set up. And I have to        |
 | 01:05:08   | say I like Trip Mode just for its simplicity. Yeah. And I even use Trip Mode when I podcast,            |
-| 01:05:12   | because I just, it automatically shuts off the background Dropbox sync and things like that.            |
+| 01:05:12   | because I just, it automatically shuts off the background [[Dropbox]] sync and things like that.            |
 | 01:05:17   | So there's all sorts of uses for it. Like if you are doing something we're banned with as King,         |
 | 01:05:23   | even on a computer that's plugged into a wall and, you know, connected to the internet,                 |
 | 01:05:28   | Trip Mode can have a use. I also find it's great because it remembers the networks as well. So          |
@@ -871,11 +871,11 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:11:41   | Yeah. And I was not willing to do that. I can do that. I have the technical skills to do it,            |
 | 01:11:46   | but I just can't be bothered. I have too many other things to do with my time.                          |
 | 01:11:50   | So what I do is I use Zapier for that particular one. And I actually have [[Drafts]] ping Zapier,           |
-| 01:11:57   | and it sends it a title and a link to a shared Dropbox folder, because I can't be bothered to           |
+| 01:11:57   | and it sends it a title and a link to a shared [[Dropbox]] folder, because I can't be bothered to           |
 | 01:12:00   | figure out how to upload all the, I could upload the article content, no problem,                       |
 | 01:12:06   | but the uploading the images as well is not something that I figured out how to do yet.                 |
-| 01:12:10   | But if I put it in a Dropbox folder, as it turns out, that's easier because there's a                   |
-| 01:12:14   | button in Dropbox where you can just say download everything. So that makes it easier for the other     |
+| 01:12:10   | But if I put it in a [[Dropbox]] folder, as it turns out, that's easier because there's a                   |
+| 01:12:14   | button in [[Dropbox]] where you can just say download everything. So that makes it easier for the other     |
 | 01:12:19   | people involved as well. So I'm proxying that through Zapier, which works great for me, I have          |
 | 01:12:25   | to say. It may not work perfectly for everybody, but for what I need it for, it definitely works.       |
 | 01:12:30   | And Basecamp is starting to become more of a tool that I enjoy using.                                   |

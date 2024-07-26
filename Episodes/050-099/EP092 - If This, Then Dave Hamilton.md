@@ -1034,7 +1034,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 42:11      | so that I just have an archive of those things.                                                                                                                          |
 | 42:13      | And I have another one for when any photos                                                                                                                               |
 | 42:18      | that I am tagged in on Facebook,                                                                                                                                         |
-| 42:20      | it grabs them and saves them to my folder on my Dropbox                                                                                                                  |
+| 42:20      | it grabs them and saves them to my folder on my [[Dropbox]]                                                                                                                  |
 | 42:24      | so that I just have those photos.                                                                                                                                        |
 | 42:26      | And you never have to open Facebook pretty smart.                                                                                                                        |
 | 42:29      | And I never...                                                                                                                                                           |

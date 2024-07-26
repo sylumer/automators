@@ -789,8 +789,8 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 34:12      | It's not time-sensitive.                                                                                                   |
 | 34:14      | Yeah.                                                                                                                      |
 | 34:15      | All right.                                                                                                                 |
-| 34:16      | The other little Dropbox, you mentioned Dropbox.                                                                           |
-| 34:18      | Dropbox is not as friendly with [[Shortcuts\|Siri Shortcuts]].                                                                            |
+| 34:16      | The other little [[Dropbox]], you mentioned [[Dropbox]].                                                                           |
+| 34:18      | [[Dropbox]] is not as friendly with [[Shortcuts\|Siri Shortcuts]].                                                                            |
 | 34:21      | And this may be one of those fancy lawyer things where they're still figuring it out.                                      |
 | 34:27      | But honestly, the access to system actions and the new actions like [[JavaScript]]                                             |
 | 34:33      | and incorporating Siri Voice Command Shortcuts into your shortcut recipes,                                                 |

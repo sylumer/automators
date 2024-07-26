@@ -675,7 +675,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 34:32      | So I'm going to start with the Google Docs action and work my way backwards to everything              |
 | 34:35      | else or start from the beginning and work your way forwards, whatever works.                           |
 | 34:38      | And I think it's really nice when somebody else has done all the work for you as well.                 |
-| 34:43      | It's uploading things to Dropbox as well as creating Google Drive folders and stuff.                   |
+| 34:43      | It's uploading things to [[Dropbox]] as well as creating Google Drive folders and stuff.                   |
 | 34:48      | It ends up being an awful lot of work and sure you can do it all yourself.                             |
 | 34:51      | But do you have the time to and do you have the time to maintain it if it goes wrong?                  |
 | 34:54      | I also really want the glue here now that lets me connect these web-based automations                  |
@@ -764,8 +764,8 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 39:58      | They're going to just go, here it is, bye-bye.                                                         |
 | 40:01      | They're not going to wait around to see if you caught it, whatever it is.                              |
 | 40:05      | I find usually personally, whenever I'm bridging stuff to my Mac or an iOS device or similar,          |
-| 40:11      | I nearly always end up going by a Dropbox, just save it, whatever it is, and to Dropbox                |
-| 40:16      | or save a JSON file into Dropbox that I can read out to people when it appears.                        |
+| 40:11      | I nearly always end up going by a [[Dropbox]], just save it, whatever it is, and to [[Dropbox]]                |
+| 40:16      | or save a JSON file into [[Dropbox]] that I can read out to people when it appears.                        |
 | 40:23      | Then I don't have the, I missed the thing.                                                             |
 | 40:26      | It's something through it.                                                                             |
 | 40:27      | I wasn't there to catch it.                                                                            |

@@ -159,7 +159,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 07:34      | it's trivial to add, you know, to a pin to a name. So you can even automate the process                       |
 | 07:40      | of adding the, you know, air quote, name based tag.                                                           |
 | 07:44      | Mm hmm. Yeah. Yeah, I do this a lot with shortcuts. I have shortcuts, you know, prepend something             |
-| 07:49      | to a name and stick it in a folder and Dropbox, which is cunningly named automated actions.                   |
+| 07:49      | to a name and stick it in a folder and [[Dropbox]], which is cunningly named automated actions.                   |
 | 07:54      | Yeah. And then Hazel's just watching that and stuff comes down in that folder and Hazel's                     |
 | 07:58      | like, Oh, wait, I need to do this magic. Because it's super easy to do and requires practically               |
 | 08:03      | zero thinking about, especially with a couple of little automations to get things rolling.                    |

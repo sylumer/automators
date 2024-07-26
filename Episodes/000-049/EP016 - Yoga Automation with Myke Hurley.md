@@ -182,7 +182,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 05:30      | like takes those and sorts them into year and date and just puts them into different                    |
 | 05:35      | folders.                                                                                                |
 | 05:36      | And it's one of those things that I literally never use this, but I have two terabytes of               |
-| 05:39      | Dropbox space and the script work.                                                                      |
+| 05:39      | [[Dropbox]] space and the script work.                                                                      |
 | 05:42      | So I just leave it going.                                                                               |
 | 05:43      | Yeah.                                                                                                   |
 | 05:44      | It's a backup.                                                                                          |
@@ -365,25 +365,25 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 16:36      | Yeah.                                                                                                   |
 | 16:37      | So like I have one where like my accountant, uh, re just at some point required me to use               |
 | 16:43      | this app, this like service for my receipts, which I really didn't want to do.                          |
-| 16:48      | Everything was going into a Dropbox folder and then I was just giving him a link to a                   |
-| 16:51      | Dropbox folder every month and that was like great for me, right?                                       |
+| 16:48      | Everything was going into a [[Dropbox]] folder and then I was just giving him a link to a                   |
+| 16:51      | [[Dropbox]] folder every month and that was like great for me, right?                                       |
 | 16:54      | Cause that's nothing.                                                                                   |
 | 16:55      | There's like this app called receipt bank, which is like super weird, but I found out                   |
-| 16:59      | I could link it to Dropbox.                                                                             |
-| 17:00      | So it will watch a Dropbox folder and pull the receipts in.                                             |
+| 16:59      | I could link it to [[Dropbox]].                                                                             |
+| 17:00      | So it will watch a [[Dropbox]] folder and pull the receipts in.                                             |
 | 17:04      | So I have like, uh, just an action that uploads to a specific folder, right?                            |
 | 17:09      | Which was why I, that was the reason why, if you remember again, when shortcuts 1.0 launched            |
 | 17:14      | and it didn't have that action, I was so upset because it was saving me so much time rather             |
-| 17:20      | than because, because of the way this thing integrates, you have to go to like Dropbox                  |
+| 17:20      | than because, because of the way this thing integrates, you have to go to like [[Dropbox]]                  |
 | 17:24      | apps, receipt bank, receipts, and I really didn't want to have to do that every time.                   |
 | 17:29      | So I do, I, this is a shortcut that I run very frequently.                                              |
 | 17:33      | Um, whenever I get an email receipt, I use Spark.                                                       |
 | 17:37      | And so I just turn it into a PDF Spark has the ability to do that natively.                             |
 | 17:41      | And then I just share it with the, you know, I just use a share extension and pop it in                 |
-| 17:46      | Dropbox using the, that from shortcuts.                                                                 |
+| 17:46      | [[Dropbox]] using the, that from shortcuts.                                                                 |
 | 17:48      | Yeah.                                                                                                   |
 | 17:49      | I have a bunch of shortcuts exactly like this.                                                          |
-| 17:51      | They saved it basically just specific folders in Dropbox for me.                                        |
+| 17:51      | They saved it basically just specific folders in [[Dropbox]] for me.                                        |
 | 17:55      | It's wonderful.                                                                                         |
 | 17:56      | Wonderful.                                                                                              |
 | 17:57      | And then in those dark days, I had a [[Hazel]] rule on the back end on my Mac that would                    |
@@ -400,7 +400,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 18:27      | a great action.                                                                                         |
 | 18:28      | Yeah.                                                                                                   |
 | 18:29      | We were waiting for quite some time on, on that one.                                                    |
-| 18:31      | Everyone was, I was getting really worried that Dropbox wasn't going to come back and                   |
+| 18:31      | Everyone was, I was getting really worried that [[Dropbox]] wasn't going to come back and                   |
 | 18:35      | thank God it did.                                                                                       |
 | 18:37      | As somebody who was narrating [[Federico Viticci\|Federico Viticci's]] audiobook, that came very late.                         |
 | 18:44      | That actual edition, I think was in the very final beta like a few days before it came                  |
@@ -410,33 +410,33 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 18:56      | Yeah.                                                                                                   |
 | 18:57      | But then it was all fixed.                                                                              |
 | 18:58      | So we could take it out again.                                                                          |
-| 18:59      | I was at a conference a few years ago and there were several Dropbox developers there                   |
+| 18:59      | I was at a conference a few years ago and there were several [[Dropbox]] developers there                   |
 | 19:05      | and then we got to know each other and, and I learned that they're actually quite conservative          |
 | 19:10      | about jumping into Apple system technologies.                                                           |
 | 19:14      | They're nervous about that over there and I'm sure that, that was really a question                     |
-| 19:18      | for a while at Dropbox, whether or not they were going to buy into Siri shortcuts or not.               |
+| 19:18      | for a while at [[Dropbox]], whether or not they were going to buy into Siri shortcuts or not.               |
 | 19:22      | And I'm glad they made the right decision at the end.                                                   |
 | 19:24      | But I actually not sure whether that came, I think that this came from Apple.                           |
 | 19:29      | It wasn't shortcuts.                                                                                    |
-| 19:30      | Cause this was, it was a native action that they had because it's not a Dropbox action.                 |
+| 19:30      | Cause this was, it was a native action that they had because it's not a [[Dropbox]] action.                 |
 | 19:36      | It's just a write to a specific folder action.                                                          |
 | 19:39      | So it integrates with files.                                                                            |
-| 19:40      | Well, it's actually through the Dropbox API, if I remember correctly.                                   |
+| 19:40      | Well, it's actually through the [[Dropbox]] API, if I remember correctly.                                   |
 | 19:44      | Oh, yeah.                                                                                               |
 | 19:45      | I see.                                                                                                  |
 | 19:46      | But then it's still Apple's call though, right?                                                         |
-| 19:47      | It's Apple's call, but Dropbox has to approve them accessing the API, because yeah, like                |
+| 19:47      | It's Apple's call, but [[Dropbox]] has to approve them accessing the API, because yeah, like                |
 | 19:54      | they don't just let everybody automatically have full access to the API of the folders                  |
 | 20:00      | of anybody that's potentially logged in on the device.                                                  |
 | 20:02      | I can't remember precisely how the authentication flow goes.                                            |
-| 20:05      | I think it pushes you to the Dropbox application.                                                       |
+| 20:05      | I think it pushes you to the [[Dropbox]] application.                                                       |
 | 20:08      | If you have it installed, if not, it does it in Safari.                                                 |
 | 20:10      | So you do have to be logged in.                                                                         |
-| 20:11      | This is the save file action and the only two options you get are iCloud drive or Dropbox.              |
+| 20:11      | This is the save file action and the only two options you get are iCloud drive or [[Dropbox]].              |
 | 20:17      | There'll be only two options, actions that are available.                                               |
 | 20:20      | You used to have box in there when it was workflow, but that disappeared when it became                 |
 | 20:24      | shortcuts, unfortunately.                                                                               |
-| 20:25      | For a while I was writing workflow and shortcuts side by side just for the Dropbox stuff that           |
+| 20:25      | For a while I was writing workflow and shortcuts side by side just for the [[Dropbox]] stuff that           |
 | 20:30      | I didn't want to migrate.                                                                               |
 | 20:31      | I'd like to wind back a minute to the today view discussion.                                            |
 | 20:34      | I think that this is something that a lot of people are starting to encounter as they                   |

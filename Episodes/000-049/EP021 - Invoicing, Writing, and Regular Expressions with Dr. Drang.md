@@ -935,7 +935,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 39:26      | And then getting it over to my Mac                                 |
 | 39:29      | was not a horrible problem.                                        |
 | 39:32      | But typically the way I would do it                                |
-| 39:33      | is I would write it out to a Dropbox file                          |
+| 39:33      | is I would write it out to a [[Dropbox]] file                          |
 | 39:37      | so that I could then pick it up on my Mac.                         |
 | 39:39      | Well, now it's much easier.                                        |
 | 39:40      | You just open [[Drafts]].                                              |

@@ -514,13 +514,13 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 29:28      | series of actions when, actually, realistically, you could have just split things up into segments,     |
 | 29:34      | and it doesn't really matter what order they happen in.                                                 |
 | 29:37      | They just happen, and so you can say, well, actually, what I'm going to do this bit first,              |
-| 29:43      | I'll create the Dropbox folder first, and then I'm going to create a folder in Notes,                   |
-| 29:47      | but it doesn't matter if you create the Notes folder and then the Dropbox folder, unless                |
+| 29:43      | I'll create the [[Dropbox]] folder first, and then I'm going to create a folder in Notes,                   |
+| 29:47      | but it doesn't matter if you create the Notes folder and then the [[Dropbox]] folder, unless                |
 | 29:51      | what one of the things you need to do is put a note into the Notes folder with a link to                |
-| 29:56      | the Dropbox folder.                                                                                     |
+| 29:56      | the [[Dropbox]] folder.                                                                                     |
 | 29:57      | That's when you then have a dependency, but even then, having the Notes folder and the                  |
-| 30:02      | Dropbox folder being created, the order of those doesn't matter.                                        |
-| 30:06      | The only bit that matters is that the note is created after the Dropbox folder is created.              |
+| 30:02      | [[Dropbox]] folder being created, the order of those doesn't matter.                                        |
+| 30:06      | The only bit that matters is that the note is created after the [[Dropbox]] folder is created.              |
 | 30:12      | Breaking things down to find out where the actual dependencies are so that you can then                 |
 | 30:15      | split stuff up can actually lead to much better automations.                                            |
 | 30:20      | The underlying problem of this, and the reason why I think this is increasingly relevant,               |
@@ -564,7 +564,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 32:26      | fact that this bit can happen automatically on my iPhone.                                               |
 | 32:29      | And then my Mac's pretty much always on.                                                                |
 | 32:32      | So I'll try pinging my Mac to do this via [[Keyboard Maestro]] via the web.                                 |
-| 32:37      | But if it doesn't respond, then I'll drop a file into a folder, and Dropbox will sync                   |
+| 32:37      | But if it doesn't respond, then I'll drop a file into a folder, and [[Dropbox]] will sync                   |
 | 32:43      | it over.                                                                                                |
 | 32:44      | And then when my Mac's next on, [[Keyboard Maestro]] can be watching that folder and use, it can            |
 | 32:49      | have two triggers on the same automation, and it can then pick that up and go, OK, cool.                |
@@ -720,7 +720,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 42:29      | It just sits there.                                                                                     |
 | 42:30      | It waits and then a file gets dropped in, but that file might be coming from your scanner.              |
 | 42:35      | It might come from something that you've made and created or it might have been synced                  |
-| 42:39      | in via Dropbox, but that file was actually created three hours ago while you were, you                  |
+| 42:39      | in via [[Dropbox]], but that file was actually created three hours ago while you were, you                  |
 | 42:44      | know, on a flight and you didn't have Wi-Fi, but now it's come in and your Mac's picked                 |
 | 42:49      | it up and gone, whoa, I'm going to handle this now and deal with it.                                    |
 | 42:53      | So, you know, [[Hazel]] itself is, you know, dealing with things, you know, synchronously when              |
@@ -760,7 +760,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 44:36      | of ways to get that right now to like hook into a focus mode becoming active on your                    |
 | 44:41      | Mac, but your iPhone is aware of your focus modes and your iPhone has automations.                      |
 | 44:46      | So what your iPhone can do is it can create a file and stick it in a folder, it could                   |
-| 44:50      | be an iCloud folder, it could be a Wanderer folder, it could be a Dropbox folder, whichever,            |
+| 44:50      | be an iCloud folder, it could be a Wanderer folder, it could be a [[Dropbox]] folder, whichever,            |
 | 44:55      | and it can then stick a file in the folder and then when that file appears on your Mac,                 |
 | 44:58      | [[Hazel]] can go, oh, I got that, and I am going to delete that file and run this shortcut.                 |
 | 45:05      | And that's, you know, and that's what it does.                                                          |
@@ -785,7 +785,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 46:28      | which gives you a ton of options, it can trigger an [[AppleScript]], it can trigger a Keyboard             |
 | 46:34      | Maestro script.                                                                                         |
 | 46:35      | So you can do virtually anything on your Mac just by sticking a text file in the folder                 |
-| 46:41      | somewhere on Dropbox that has a word in it.                                                             |
+| 46:41      | somewhere on [[Dropbox]] that has a word in it.                                                             |
 | 46:44      | And you just need to keep that in your head, you know, that's the only way, but if you                  |
 | 46:48      | want to make something happen on your Mac, you're having trouble triggering it, the Keyboard            |
 | 46:52      | Maestro or [[Hazel]], just look at a file and then you're off to the races.                                 |
@@ -810,7 +810,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 48:11      | But a lot of the time you actually want something that's just like, hey, so this series of events       |
 | 48:15      | has happened, meaning that this setup is ready.                                                         |
 | 48:18      | And now I just need you to go do this bit of it, you know, like maybe these folders                     |
-| 48:22      | got created in Dropbox and, you know, this, this, I don't know, something got created                   |
+| 48:22      | got created in [[Dropbox]] and, you know, this, this, I don't know, something got created                   |
 | 48:26      | in Evernote if you're using Evernote or similar.                                                        |
 | 48:29      | And now I need you to, you know, run this AppleScript on my Mac.                                       |
 | 48:31      | Well, it doesn't have to happen right now.                                                              |
@@ -1132,7 +1132,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:07:46   | It's very easy when you start breaking things up to not be aware of the links that are actually         |
 | 01:07:51   | there between the chunks of your automation and therefore to not have a piece of data                   |
 | 01:07:55   | that you need or to go, yeah, it's fine, like this bit can just run and then realise that               |
-| 01:08:00   | actually it needed a folder in Dropbox to already exist.                                                |
+| 01:08:00   | actually it needed a folder in [[Dropbox]] to already exist.                                                |
 | 01:08:08   | And so it can get you in a bit of trouble occasionally, especially when you start breaking things       |
 | 01:08:11   | down and it turns out that you can't break that down there, but you can also work around                |
 | 01:08:18   | things like this by just storing a little bit of information to say, hey, I went and                    |

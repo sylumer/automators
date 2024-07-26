@@ -1149,7 +1149,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:04:37   | Yeah, the automatic downloading of attachments is a problem that there's a lot of ways to              |
 | 01:04:42   | solve that.                                                                                            |
 | 01:04:43   | And another way to solve that would be with a SaneBox account.                                         |
-| 01:04:46   | If you're a SaneBox subscriber, you can automatically download attachments to Dropbox, for instance,   |
+| 01:04:46   | If you're a SaneBox subscriber, you can automatically download attachments to [[Dropbox]], for instance,   |
 | 01:04:52   | so you can have them that way.                                                                         |
 | 01:04:54   | But just attachments in general and email are a pain in the neck.                                      |
 | 01:04:58   | One of the things I was thinking about while you're talking about is solving the problem               |

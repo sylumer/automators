@@ -409,10 +409,10 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 22:33      | All you have to do is download and pay a few bucks for their app and you're off to the               |
 | 22:36      | races.                                                                                               |
 | 22:37      | Yeah, and honestly, that's just one of those great things about these apps where, yes,               |
-| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync [[Obsidian]] with Dropbox             |
+| 22:45      | you can figure out how to use Obsidian's [[URL Schemes\|URL scheme]] or how to sync [[Obsidian]] with [[Dropbox]]             |
 | 22:52      | and then put stuff in there via that, but then you lose some of the niceties that you                |
 | 22:57      | get from [[Obsidian]] Sync, or you do what I did for a while, which is set up a double sync,             |
-| 23:01      | so syncing via [[Obsidian]] Sync and then one computer is also syncing it to Dropbox so                  |
+| 23:01      | so syncing via [[Obsidian]] Sync and then one computer is also syncing it to [[Dropbox]] so                  |
 | 23:04      | that you get the double, but then it just opens up possibilities for something to go                 |
 | 23:10      | wrong, and my problem with [[URL Schemes]] is I always think that I remember what they are.              |
 | 23:16      | I really, really, really need to learn that my memory is not perfect because every single            |

@@ -592,7 +592,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 26:21      | so Apple has led to put automations in the Quick Actions or Services submenus                                    |
 | 26:26      | when you right-click on a file in the Finder,                                                                    |
 | 26:28      | but apps can put things at the top level.                                                                        |
-| 26:30      | And so like Dropbox spams like eight things in that.                                                             |
+| 26:30      | And so like [[Dropbox]] spams like eight things in that.                                                             |
 | 26:34      | But that's the brilliance of service station is service station basically says,                                  |
 | 26:38      | okay, you can put your automated directions inside me and I'll put them there.                                   |
 | 26:42      | It's like, yes, yes, please.                                                                                     |

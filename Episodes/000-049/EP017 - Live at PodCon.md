@@ -245,14 +245,14 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 10:23      | time.                                                                                                              |
 | 10:24      | And the reason I do that is I just want to get enough distinction that as I take pictures                          |
 | 10:29      | of different things walking around here, they'll be the distinct files.                                            |
-| 10:34      | And then I save it to a folder that I created on Dropbox.                                                          |
+| 10:34      | And then I save it to a folder that I created on [[Dropbox]].                                                          |
 | 10:38      | So as I walk through the conference or like if you do speaking, they give you these bags                           |
 | 10:44      | full of stuff.                                                                                                     |
 | 10:45      | You can just take pictures of things.                                                                              |
 | 10:46      | Like if you see somebody at a conference, you take a picture of their business card.                               |
 | 10:49      | If you see a vendor you want, you take a picture of their poster.                                                  |
 | 10:53      | And at the end of the day, you've got this collection of PDFs that have saved to your                              |
-| 10:57      | Dropbox and you don't have to take any paper home.                                                                 |
+| 10:57      | [[Dropbox]] and you don't have to take any paper home.                                                                 |
 | 11:01      | And then I guess what I should do is I should add a create task in OmniFocus or whatever                           |
 | 11:07      | your task manager of choice is to review that stuff in a week when you get home.                                   |
 | 11:10      | Yeah.                                                                                                              |

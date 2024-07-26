@@ -726,7 +726,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:03:06   | I decided the easiest way is to let [[Hazel]] do that back into automation for me.                           |
 | 01:03:12   | Yeah. It definitely makes sense in some of these cases to hand everything off to another                     |
 | 01:03:15   | system. And that's the beauty of [[Drafts]] because it is so well integrated. I can easily do that.              |
-| 01:03:20   | And I have a Dropbox folder, actually, because I have a variety of things put stuff in there,                |
+| 01:03:20   | And I have a [[Dropbox]] folder, actually, because I have a variety of things put stuff in there,                |
 | 01:03:26   | and that includes Zapier and [[Drafts]]. And then [[Hazel]] just picks stuff up and goes,                            |
 | 01:03:30   | Hey, I've done this thing for you. It's like a little piece of magic happens whenever my                     |
 | 01:03:35   | Mac mini is running. But Rose, you've gone a step further. You're putting [[Pushcut]] together with             |

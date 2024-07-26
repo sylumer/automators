@@ -1379,7 +1379,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:09:24   | that does what?                                                                                               |
 | 01:09:25   | It opens Skype.                                                                                               |
 | 01:09:26   | It opens [[Audio Hijack]].                                                                                        |
-| 01:09:28   | It quits Dropbox.                                                                                             |
+| 01:09:28   | It quits [[Dropbox]].                                                                                             |
 | 01:09:29   | It quits Plex.                                                                                                |
 | 01:09:31   | It turns on Do Not Disturb.                                                                                   |
 | 01:09:33   | Get this.                                                                                                     |
@@ -1512,7 +1512,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:16:20   | of that stuff, and [[Drafts]] has all that functionality.                                                         |
 | 01:16:22   | You just got to wire it up, but that's the one thing that keeps me from going all the                         |
 | 01:16:26   | way in on [[Drafts]], is I still like having separate text files, A, that can be in places like                   |
-| 01:16:32   | Dropbox, B, air go, that lets me have a Taskpaper document that I can use in those different                 |
+| 01:16:32   | [[Dropbox]], B, air go, that lets me have a Taskpaper document that I can use in those different                 |
 | 01:16:38   | places, and every couple of weeks I go back to seeing, can I do this all with [[Drafts]]?                         |
 | 01:16:42   | I'm just not quite there yet.                                                                                 |
 | 01:16:43   | Tell me, talk me out of this, give me all in on [[Drafts]], what do I have to do?                                 |
@@ -1543,7 +1543,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:17:52   | for a second while I'm like out on the street with my phone, I do have to- I scroll down                      |
 | 01:17:57   | a little bit and wait.                                                                                        |
 | 01:17:58   | And it's not until I see the top of the page because it reloaded, that's when it got updated                  |
-| 01:18:02   | from Dropbox.                                                                                                 |
+| 01:18:02   | from [[Dropbox]].                                                                                                 |
 | 01:18:03   | It won't do it on its own.                                                                                    |
 | 01:18:05   | Yeah.                                                                                                         |
 | 01:18:06   | That is most unfortunate.                                                                                     |
@@ -1856,7 +1856,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:36:14   | So now you can get to that remotely and securely.                                                             |
 | 01:36:16   | One of the hallmark features though, in some ways, is all these apps you can run, productivity                |
 | 01:36:22   | apps.                                                                                                         |
-| 01:36:23   | Replacements for Dropbox, replacements for G Suite, maybe not as good, but like a video                       |
+| 01:36:23   | Replacements for [[Dropbox]], replacements for G Suite, maybe not as good, but like a video                       |
 | 01:36:28   | serving system that you could like look at videos on your Apple TV, even if you're not                        |
 | 01:36:32   | a Plex user.                                                                                                  |
 | 01:36:33   | But of course, yes, it has Plex.                                                                              |

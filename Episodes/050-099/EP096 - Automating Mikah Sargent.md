@@ -1110,7 +1110,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:20:49   | what if this and that can do, then $7 a month to Integromat is a lot more affordable than the $20       |
 | 01:20:55   | a month for Zapier. Zapier really is a business tool. But I use all of them. And I find they            |
 | 01:21:02   | work really well, but I do tend to stick with automate these things on the web. The closest             |
-| 01:21:08   | I'll come to interacting with my machine is putting something in a Dropbox folder,                      |
+| 01:21:08   | I'll come to interacting with my machine is putting something in a [[Dropbox]] folder,                      |
 | 01:21:12   | which then either [[Hazel]] or Keyboard My Store or Devon Think is watching,                                |
 | 01:21:16   | and then those pick that up on the other end and then do whatever it is when my device is online        |
 | 01:21:22   | and available to do it. But I don't tend to really do direct interaction from my computer               |

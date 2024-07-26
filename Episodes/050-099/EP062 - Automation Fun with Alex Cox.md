@@ -288,7 +288,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 22:20      | has got that along with baits numbering and all the other obscure features lawyers use,                 |
 | 22:25      | and they just work solidly. If preview isn't cutting it for you, PDFpen will. PDFpen, PDFpen Pro,       |
 | 22:32      | and PDFpen for iPad and iPhone all work together for seamless editing across devices when used with     |
-| 22:38      | Dropbox or iCloud. Learn more about PDFpen and PDFpen Pro at smilesoftware.com/podcast.           |
+| 22:38      | [[Dropbox]] or iCloud. Learn more about PDFpen and PDFpen Pro at smilesoftware.com/podcast.           |
 | 22:47      | Once again, that's smilesoftware.com/podcast and let them know you heard about it on the          |
 | 22:52      | automators. Our thanks to PDFpen from Smile for their support of this show and relay FM.                |
 | 22:58      | Alex, earlier you said a word that piqued my interest, and that's, of course, [[Drafts]].                   |
@@ -421,12 +421,12 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 37:34      | my one thing about not trying [[Obsidian]] was the fact that it wasn't on iOS. Because when you get         |
 | 37:44      | down to it, my phone is truly my main computer, actually. So, but I think I'm getting more out          |
 | 37:53      | of this episode than anybody else right now. Well, if you want to go down that rabbit hole,             |
-| 37:59      | [[Obsidian]] is just markdown files. So you put it on Dropbox. And if you have one,                         |
+| 37:59      | [[Obsidian]] is just markdown files. So you put it on [[Dropbox]]. And if you have one,                         |
 | 38:03      | why didn't put that together? Like, that's awesome. Oh, of course. Oh, I hope that this team gets,      |
 | 38:08      | oh, I wish I could give them money. Can I give them money, David? Oh, good. If you give them money,     |
 | 38:15      | you get into the insider build. So you get ahead of the, you know, the rest of the proletariat.         |
 | 38:20      | It's very exciting. Maybe I get to bug the developer. Yeah, very small team. So they like               |
-| 38:28      | being bugged. But I guess to go down that rabbit hole, I put it on Dropbox and I can actually           |
+| 38:28      | being bugged. But I guess to go down that rabbit hole, I put it on [[Dropbox]] and I can actually           |
 | 38:34      | access the whole database with one writer on an iPhone or iPad. But I actually create all the           |
 | 38:40      | notes and [[Drafts]] because [[Drafts]] has this great, you know, plugin style automation.                      |
 | 38:47      | So anything I'm writing new, I write in draft. If I need to access an existing one, I just go to        |
@@ -451,14 +451,14 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 41:10      | count, stuff like that. And it has a way to, instead of saying like, oh, and insert a dash,             |
 | 41:19      | bracket, bracket, it's just tasks. So then suddenly I have this great markdown or test paper            |
 | 41:27      | list that I can do anything with or, you know, put it into [[Obsidian]], which I have now downloaded        |
-| 41:35      | and I'm super psyched to try. And even things like send to bear, the, oh, send to Dropbox with          |
+| 41:35      | and I'm super psyched to try. And even things like send to bear, the, oh, send to [[Dropbox]] with          |
 | 41:46      | link, which I think Rose, you made this for me. It's just a, it's in one of my workspaces in [[Drafts]].    |
 | 41:55      | I have a bunch of images that I need to reference all the time for work, but they need to live in       |
-| 42:02      | Dropbox and it's so much easier to hand my phone to somebody with a list of, just a list of images      |
+| 42:02      | [[Dropbox]] and it's so much easier to hand my phone to somebody with a list of, just a list of images      |
 | 42:14      | basically. And then they click that one and then it opens the [[Drafts]] app with the exact image that      |
 | 42:20      | they need to look at. So it doesn't require them, you know, scrolling through my photo library or       |
 | 42:26      | getting immediately to the right folder in [[Drafts]] because we all know how fun the draft, or I'm         |
-| 42:31      | sorry, all how fun the Dropbox app is on iOS. And it's, oh yeah, I don't know, which that's not         |
+| 42:31      | sorry, all how fun the [[Dropbox]] app is on iOS. And it's, oh yeah, I don't know, which that's not         |
 | 42:40      | one I've been using lately, but it, it's like a lifesaver at events, because I well did often           |
 | 42:47      | work in live events and, you know, having your entire like work and life reference library in           |
 | 42:55      | a single app and being able to manipulate it has, it's just one of those things that relieves           |
@@ -483,27 +483,27 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 44:47      | all these text things we make, like I, like Alex, I open [[Drafts]] constantly. Every time I have a         |
 | 44:53      | phone call of any substance with a client, I take notes and [[Drafts]] and I save all these little          |
 | 44:57      | markdown files. So I've got records. And the problem is you have two choices. You either save           |
-| 45:03      | it to Dropbox and Dropbox is its own kind of like hive of villainy, right? But you also,                |
+| 45:03      | it to [[Dropbox]] and [[Dropbox]] is its own kind of like hive of villainy, right? But you also,                |
 | 45:10      | or you can save it to iCloud. But iCloud only will save it to the [[Drafts]] folder, right? Because of      |
 | 45:17      | the iCloud system, they won't let you save outside of the app folder. And I guess this is a security    |
 | 45:22      | measure that Apple has. But man, it makes me crazy. And I've got all these [[Hazel]] rules back on my       |
 | 45:27      | Mac that do nothing all day, but sort out iCloud folders and move files for me. And I don't really      |
-| 45:34      | know what the answer to it is. I guess if you, you could just use Dropbox and then you would have more  |
+| 45:34      | know what the answer to it is. I guess if you, you could just use [[Dropbox]] and then you would have more  |
 | 45:39      | granular access or you have to deal with this second step. How do you deal with that, Rose?             |
-| 45:45      | Well, I pretty much just throw things in Dropbox because I ended up paying for Dropbox anyway,          |
+| 45:45      | Well, I pretty much just throw things in [[Dropbox]] because I ended up paying for [[Dropbox]] anyway,          |
 | 45:49      | because we use it to share podcasting stuff backwards and forwards. And I use it with Scotty            |
 | 45:55      | at nested folders and a bunch of other people. And I thought, you know what, I'm just going to go all   |
-| 45:59      | in on Dropbox. So I paid and I've got the plan and I was like, you know what, I'm just going to use     |
+| 45:59      | in on [[Dropbox]]. So I paid and I've got the plan and I was like, you know what, I'm just going to use     |
 | 46:04      | this. That said, I recently got two home security cameras because there was a noise while I was         |
 | 46:10      | podcasting and I couldn't easily check it out. And I was like, if I had cameras, I could check          |
 | 46:14      | this out while I was podcasting without getting up and moving. So that was a good idea. But I           |
-| 46:18      | now have two terabytes of iCloud storage space as well as two terabytes of Dropbox space. So I          |
-| 46:24      | may need to rethink that plan. That said, I don't think Dropbox do a smaller tier. So, you know,        |
-| 46:29      | I'll see what happens there. But, you know, I pretty much just put things in Dropbox because            |
-| 46:34      | it's easier. And also Dropbox is available to Zapier and Integromat. And honestly, iCloud Drive         |
+| 46:18      | now have two terabytes of iCloud storage space as well as two terabytes of [[Dropbox]] space. So I          |
+| 46:24      | may need to rethink that plan. That said, I don't think [[Dropbox]] do a smaller tier. So, you know,        |
+| 46:29      | I'll see what happens there. But, you know, I pretty much just put things in [[Dropbox]] because            |
+| 46:34      | it's easier. And also [[Dropbox]] is available to Zapier and Integromat. And honestly, iCloud Drive         |
 | 46:41      | is great, but it's not available to either of those services. So that means I can't automatically       |
 | 46:45      | have stuff saved into it from online services, which are doing things like creating documents for me    |
-| 46:50      | or folders for stuff and things like that. So I pretty much just decided that I'm in on Dropbox.        |
+| 46:50      | or folders for stuff and things like that. So I pretty much just decided that I'm in on [[Dropbox]].        |
 | 46:56      | This episode of Automators is brought to you by the Intrazone by Microsoft SharePoint.                  |
 | 47:01      | I love finding new podcasts to listen to. It's great finding those wonderful new co-hosts and           |
 | 47:05      | people being interviewed. And that lays you down a whole rabbit hole of even more great new podcasts    |

@@ -572,10 +572,10 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 32:55      | So when we finish today's show, I will go into the folder that, that I have designated             |
 | 33:03      | to save these recordings, I'll select the files of our recording and I'll push a button            |
 | 33:07      | on my Stream Deck and it will trigger this [[Keyboard Maestro]] script to move the files               |
-| 33:12      | to the editor's shared folder on Dropbox.                                                          |
+| 33:12      | to the editor's shared folder on [[Dropbox]].                                                          |
 | 33:14      | And I've done this for a bunch of things in my life.                                               |
 | 33:17      | The one I'm going to share is one where I share stuff to be edited with JF, the editor             |
-| 33:22      | at Sparky Media, and, and I've got a folder on Dropbox we share called desk JF.                    |
+| 33:22      | at Sparky Media, and, and I've got a folder on [[Dropbox]] we share called desk JF.                    |
 | 33:30      | It's his desk.                                                                                     |
 | 33:31      | Basically, I drop things on his desk.                                                              |
 | 33:33      | And the trick is it's a simple action, but you've got to like kind of follow the screenshot        |

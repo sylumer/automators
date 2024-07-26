@@ -564,16 +564,16 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 24:20      | and [[Obsidian]] Sync, or not using [[Obsidian]] on mobile,                                                |
 | 24:24      | unfortunately, you can maybe work around it                                                        |
 | 24:26      | with third-party applications,                                                                     |
-| 24:28      | but you can't access Dropbox.                                                                      |
-| 24:30      | And this is kind of Dropbox plus Apple,                                                            |
-| 24:34      | apparently, according to Dropbox.                                                                  |
+| 24:28      | but you can't access [[Dropbox]].                                                                      |
+| 24:30      | And this is kind of [[Dropbox]] plus Apple,                                                            |
+| 24:34      | apparently, according to [[Dropbox]].                                                                  |
 | 24:36      | I'm not sure how much.                                                                             |
 | 24:37      | I 100% believe that because if little indie developers                                             |
-| 24:40      | can make a folder available in the Files app and Dropbox can't,                                    |
+| 24:40      | can make a folder available in the Files app and [[Dropbox]] can't,                                    |
 | 24:45      | I'm wondering if that's more of a management decision                                              |
 | 24:48      | than a developer capability issue.                                                                 |
-| 24:50      | But either way, you can't use Dropbox there.                                                       |
-| 24:53      | But Dropbox is my preferred method for syncing things,                                             |
+| 24:50      | But either way, you can't use [[Dropbox]] there.                                                       |
+| 24:53      | But [[Dropbox]] is my preferred method for syncing things,                                             |
 | 24:56      | generally, because then I can integrate stuff using Make                                           |
 | 25:00      | and Zapier, and if this and that,                                                                  |
 | 25:03      | and other online and amazing automations                                                           |
@@ -583,12 +583,12 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 25:10      | And I am being very careful about this.                                                            |
 | 25:12      | I double sync on exactly one machine and no others.                                                |
 | 25:16      | There is one machine in the mix that will sync                                                     |
-| 25:18      | my [[Obsidian]] Vault to [[Obsidian]] Sync and to Dropbox,                                                 |
+| 25:18      | my [[Obsidian]] Vault to [[Obsidian]] Sync and to [[Dropbox]],                                                 |
 | 25:21      | and nothing else does.                                                                             |
 | 25:23      | Everything else does not cross the streams.                                                        |
-| 25:25      | It only accesses either Dropbox or the [[Obsidian]] Sync.                                              |
+| 25:25      | It only accesses either [[Dropbox]] or the [[Obsidian]] Sync.                                              |
 | 25:30      | If I'm actually using [[Obsidian]], it's using [[Obsidian]] Sync,                                          |
-| 25:34      | and then automations go in via Dropbox in a couple of places,                                      |
+| 25:34      | and then automations go in via [[Dropbox]] in a couple of places,                                      |
 | 25:36      | just to make that a bit easier on me.                                                              |
 | 25:39      | But that's how I'm doing it.                                                                       |
 | 25:41      | I'm guessing, David, you're using the wonderful [[Obsidian]] Sync,                                     |
@@ -611,7 +611,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 26:27      | I put the password in, they don't have my password,                                                |
 | 26:29      | so my data is really, really secure.                                                               |
 | 26:32      | And the way you make that work is you don't put it                                                 |
-| 26:35      | generally in Dropbox or iCloud.                                                                    |
+| 26:35      | generally in [[Dropbox]] or iCloud.                                                                    |
 | 26:36      | You put it locally, even on your iPhone and your iPad.                                             |
 | 26:40      | You can store this stuff locally.                                                                  |
 | 26:41      | And there's a couple things I like about that.                                                     |
@@ -624,7 +624,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 26:59      | And then the second piece of that Sync for me                                                      |
 | 27:02      | is that now I can point [[Keyboard Maestro]] or shortcuts                                              |
 | 27:05      | at the local folder of files.                                                                      |
-| 27:09      | And I know you can do it on Dropbox too,                                                           |
+| 27:09      | And I know you can do it on [[Dropbox]] too,                                                           |
 | 27:10      | but just feel safer pointing it at something                                                       |
 | 27:13      | that's not cloud synced otherwise.                                                                 |
 | 27:15      | And know it's going to do what you ask it to do.                                                   |
@@ -663,11 +663,11 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 28:39      | that everybody needs.                                                                              |
 | 28:41      | Or even if you don't have it always on Mac,                                                        |
 | 28:43      | then you can have, you know,                                                                       |
-| 28:44      | [[Keyboard Maestro]] picking up things from Dropbox                                                    |
+| 28:44      | [[Keyboard Maestro]] picking up things from [[Dropbox]]                                                    |
 | 28:47      | and then doing stuff with them.                                                                    |
 | 28:49      | I've actually done that with a variety of automations                                              |
 | 28:52      | for quite a while.                                                                                 |
-| 28:53      | I was having a file put into Dropbox                                                               |
+| 28:53      | I was having a file put into [[Dropbox]]                                                               |
 | 28:56      | with data in it, JSON format,                                                                      |
 | 28:59      | and [[Keyboard Maestro]] picked that up                                                                |
 | 29:02      | when my machine was on and running,                                                                |
@@ -677,7 +677,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 29:09      | so that I could do various other things.                                                           |
 | 29:12      | And, you know, that would be another solution,                                                     |
 | 29:14      | and I would consider doing that                                                                    |
-| 29:15      | if I couldn't sync through Dropbox as well.                                                        |
+| 29:15      | if I couldn't sync through [[Dropbox]] as well.                                                        |
 | 29:18      | But thus far, I mean, I have plenty of backups.                                                    |
 | 29:22      | I have all the backups, but thus far, it's working great.                                          |
 | 29:24      | And I think that the real key to this is really,                                                   |
@@ -749,7 +749,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 31:53      | Yeah.                                                                                              |
 | 31:54      | And so it's a great way to capture stuff                                                           |
 | 31:56      | when I'm already in there.                                                                         |
-| 31:57      | As I mentioned before, a lot of stuff ends up in Dropbox's.                                        |
+| 31:57      | As I mentioned before, a lot of stuff ends up in [[Dropbox\|Dropbox's]].                                        |
 | 31:59      | Like I'm just capturing this and I'll deal with it later.                                          |
 | 32:02      | But if I'm already in [[Obsidian]]                                                                     |
 | 32:03      | and I'm looking at things and realising,                                                           |
@@ -2421,7 +2421,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:29:21   | for me and it does that                                                                            |
 | 01:29:23   | by you know there's                                                                                |
 | 01:29:25   | some                                                                                               |
-| 01:29:27   | search involved through Dropbox actually                                                           |
+| 01:29:27   | search involved through [[Dropbox]] actually                                                           |
 | 01:29:29   | to find that and then it just sort of                                                              |
 | 01:29:31   | cobbles it together it's not perfect but it works pretty                                           |
 | 01:29:33   | well and that's not                                                                                |
@@ -2432,7 +2432,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:29:43   | and if I've managed to                                                                             |
 | 01:29:45   | get the URL totally wrong then it's not going to                                                   |
 | 01:29:47   | give you a link to a random markdown file                                                          |
-| 01:29:49   | in my Dropbox folder which                                                                         |
+| 01:29:49   | in my [[Dropbox]] folder which                                                                         |
 | 01:29:51   | you know is fine for you but it might be a bit                                                     |
 | 01:29:53   | confusing for some of our guests but                                                               |
 | 01:29:55   | the other thing that I do                                                                          |
@@ -2483,7 +2483,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:31:25   | but trying to find                                                                                 |
 | 01:31:27   | the name of all the lists that you've got                                                          |
 | 01:31:29   | through your L-SKING doesn't work very well                                                        |
-| 01:31:31   | so [[Drafts]] can actually just use Dropbox's                                                          |
+| 01:31:31   | so [[Drafts]] can actually just use [[Dropbox\|Dropbox's]]                                                          |
 | 01:31:33   | API it's got full support for that                                                                 |
 | 01:31:35   | to get a list of all the folders                                                                   |
 | 01:31:37   | inside of a folder so I have a folder                                                              |

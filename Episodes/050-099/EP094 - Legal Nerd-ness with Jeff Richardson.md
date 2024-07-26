@@ -453,7 +453,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 29:14      | they're always like, wow, show me that too. It's a great time saver.                                    |
 | 29:18      | Yeah, that is really smart because it, again, is setting it up in one place so that it works            |
 | 29:24      | in all the other places. And that is genius. I have some folders. I don't do this with email,           |
-| 29:32      | but I have some Dropbox folders called, or Dropbox folder called automated action,                      |
+| 29:32      | but I have some [[Dropbox]] folders called, or [[Dropbox]] folder called automated action,                      |
 | 29:35      | which has subfolders, which means that when stuff lands in those subfolders,                            |
 | 29:39      | my always on Mac mini at home just goes, yep, I'm on it and deals with whatever it is for me.           |
 | 29:44      | It's the same kind of principle. It gives me the same access everywhere with the magic.                 |
@@ -895,7 +895,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 01:05:18   | got. We can order it again. It's useful. I love it. Yes. Yeah. And I would suggest you could even       |
 | 01:05:24   | make more versions of this, like if you had work expenses, like, and you want to just get those         |
 | 01:05:30   | receipts, you could make a version that saves it to a separate folder so you that gets shared with      |
-| 01:05:36   | your work or Dropbox your work or whatever. Great idea. Another way you could do that is like you       |
+| 01:05:36   | your work or [[Dropbox]] your work or whatever. Great idea. Another way you could do that is like you       |
 | 01:05:42   | could tie it all into one. You're like, is it one of these or do you want to type in a name? But        |
 | 01:05:47   | I actually do think the idea of making multiple versions so you don't make the shortcut as complex      |
 | 01:05:53   | and and you make basically make the election by which button you push so long as you have room          |

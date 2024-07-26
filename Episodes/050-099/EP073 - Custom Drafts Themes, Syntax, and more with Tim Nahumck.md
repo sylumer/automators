@@ -681,7 +681,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 53:28      | you can have local files and you can render it in a window, but man inline text or inline            |
 | 53:34      | image support would be probably my first and foremost. Um, but there are other people for            |
 | 53:41      | a long time that have wanted file provider support. So what that, what that means is                 |
-| 53:48      | I just let me either use a common directory that I can save all my [[Drafts]] to Dropbox,                |
+| 53:48      | I just let me either use a common directory that I can save all my drafts to [[Dropbox]],                |
 | 53:54      | iCloud, whatever, so that I can use [[Drafts]] on iOS and another app on my Mac or access                |
 | 54:01      | it somehow, um, or use it in other automations somewhere else. That's probably the biggest           |
 | 54:06      | one that I think a lot of people want open in place, right? Like those sorts of things               |
@@ -699,7 +699,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 54:55      | mark down a link into it, you know, but I don't know. I'm, I'm not hell bent on [[Drafts]]               |
 | 55:00      | going that far down that, that road.                                                                 |
 | 55:04      | Yeah. I think for me, in my own use cases, very selfishly, um, and open in place. So                 |
-| 55:09      | if I, if I tap a document somewhere in files or Dropbox and I can open it inside of [[Drafts]]           |
+| 55:09      | if I, if I tap a document somewhere in files or [[Dropbox]] and I can open it inside of [[Drafts]]           |
 | 55:17      | and have it be, you know, just very basic, I can only edit the text. I can't do anything             |
 | 55:21      | else with it and then save it back to that place again. I, I think that's a feature that             |
 | 55:26      | I personally would welcome because I prefer writing in [[Drafts]] over other apps. Um, I've              |
@@ -733,17 +733,17 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 57:54      | themes on the brain, it seems. Um, so that's, that's the nut that I am currently trying              |
 | 57:58      | to crack. Um, the nuts that I've cracked considerably more recently that are actually,               |
 | 58:03      | you know, ready for consumption, um, are, um, saving things into my, um, [[Obsidian]] notes              |
-| 58:09      | folder in Dropbox. Sure. Um, including appending to lists. So I have a specific folder for           |
+| 58:09      | folder in [[Dropbox]]. Sure. Um, including appending to lists. So I have a specific folder for           |
 | 58:16      | lists. Um, and I have an action that will let me append to any file in that folder.                  |
 | 58:22      | Um, which means that I can just write something. So say, for example, I write once upon a time,      |
 | 58:27      | I can say append that to list TV shows to watch done. And then that draft disappears.                |
 | 58:32      | It's gone to the trash because I filed it. Um, and then that, that is actually a list                |
-| 58:37      | item in that list for me. So I can, I can get at that. And because it's in Dropbox,                  |
+| 58:37      | item in that list for me. So I can, I can get at that. And because it's in [[Dropbox]],                  |
 | 58:42      | I can access it from a whole bunch of places, which makes it pretty easy.                            |
 | 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use [[Obsidian]]           |
 | 58:51      | to store a lot of data and I write everything in [[Drafts]]. You know, I don't write that much           |
 | 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian]]'s end-to-end encryption      |
-| 59:03      | model, I don't have a Dropbox resource to dump these, these files into and said, I've                |
+| 59:03      | model, I don't have a [[Dropbox]] resource to dump these, these files into and said, I've                |
 | 59:08      | got it on my native drive on my Mac. So I made a special folder that's watched by our                |
 | 59:14      | dear friend [[Hazel]]. And, um, I have, um, [[Drafts]] saved to that folder and then Mac, the Mac,           |
 | 59:22      | you know, running [[Hazel]] will sort it. And if I put tags on it, it'll put it into different           |
@@ -839,7 +839,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:07:01   | draft, it doesn't show up in the inbox. It only shows up in flagged. So that way, it's               |
 | 01:07:06   | kind of out of sight, out of mind on a regular basis from my regular list. And what I use            |
 | 01:07:13   | something like that for is I will keep a lot of my lists. So Rose, you mentioned earlier             |
-| 01:07:18   | that you have your movie lists saved to Dropbox so you can have that in [[Obsidian]] later. For          |
+| 01:07:18   | that you have your movie lists saved to [[Dropbox]] so you can have that in [[Obsidian]] later. For          |
 | 01:07:24   | me, I just keep that in [[Drafts]]. And there's an append to list action that's in the directory.        |
 | 01:07:31   | And I just use that. And all of my lists are actually in my normal general workspace is              |
 | 01:07:38   | what I call it. But it's in the flagged portion of it, and it's tagged list. So I can actually       |

@@ -638,9 +638,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 39:19      | did not have a 20 console. It was a 480p console 20 years ago. But you can play things like           |
 | 39:27      | Metroid or Super Mario Sunshine at 4K on a MacBook Pro, even a MacBook Air, I guess.                  |
 | 39:34      | In any case, usually I play Dolphin on my gaming PC and I keep all of its configuration stuff         |
-| 39:42      | in Dropbox. I also wanted to play Dolphin on my MacBook Pro, but I wanted to sync those               |
+| 39:42      | in [[Dropbox]]. I also wanted to play Dolphin on my MacBook Pro, but I wanted to sync those               |
 | 39:48      | configuration files, those preferences. And I realised, oh, I gotta use SimLinks. I gotta             |
-| 39:55      | create a symbolic link from Dropbox to the application support folder that Dolphin uses               |
+| 39:55      | create a symbolic link from [[Dropbox]] to the application support folder that Dolphin uses               |
 | 40:02      | on macOS. So I couldn't remember the proper commands to create SimLinks in the terminal.              |
 | 40:09      | And I realised, you know what? I'm gonna make a shortcut that creates SimLinks for me so              |
 | 40:15      | that I don't have to worry about remembering the syntax in the future. So I created this              |

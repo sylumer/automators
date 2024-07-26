@@ -820,21 +820,21 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 46:28      | Is it any surprise that [[Drafts]] is at the front of this to anyone?                                       |
 | 46:34      | This is my really not surprised face, but very pleased.                                                 |
 | 46:38      | J.F., you sent us a note about something I want to talk about that I think everybody                    |
-| 46:42      | can benefit from, and it's just two words, Dropbox plus ChronoSync.                                     |
-| 46:47      | Yes, Dropbox plus ChronoSync, big fan, big fan.                                                         |
-| 46:50      | Automators need to know about Dropbox plus ChronoSync.                                                  |
+| 46:42      | can benefit from, and it's just two words, [[Dropbox]] plus ChronoSync.                                     |
+| 46:47      | Yes, [[Dropbox]] plus ChronoSync, big fan, big fan.                                                         |
+| 46:50      | Automators need to know about [[Dropbox]] plus ChronoSync.                                                  |
 | 46:52      | Well, actually, ChronoSync plus anything, really, automators should know about.                         |
 | 46:56      | But what are you doing with those two?                                                                  |
 | 46:58      | Well, it goes back a little bit to the workflow that Don and I have set up.                             |
 | 47:03      | So screencasts online, of course, very busy.                                                            |
 | 47:05      | We have a lot going on there.                                                                           |
-| 47:07      | We do have a team Dropbox account that we share, and we've got a wonderful file structure               |
+| 47:07      | We do have a team [[Dropbox]] account that we share, and we've got a wonderful file structure               |
 | 47:12      | and organisation there.                                                                                 |
 | 47:13      | It's very well organised, but Don and I both believe that no matter what, you should have               |
-| 47:19      | a completely local copy of the content of Dropbox, somewhere else on your system.                       |
+| 47:19      | a completely local copy of the content of [[Dropbox]], somewhere else on your system.                       |
 | 47:25      | In my case, it is on a Lacie mobile SSD drive that I have hanging from my iMac Pro, very                |
 | 47:33      | reliable drive as drives go, of course.                                                                 |
-| 47:36      | But I have a copy, a whole copy of that Dropbox file structure on my drive.                             |
+| 47:36      | But I have a copy, a whole copy of that [[Dropbox]] file structure on my drive.                             |
 | 47:41      | And so that way, I can work on it offline if I need to, because we are doing synchronising              |
 | 47:49      | between those two on a very regular basis.                                                              |
 | 47:51      | However, if I'm working on a show, I don't always want automation to happen, syncing                    |
@@ -842,7 +842,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 47:58      | And the app that I used to do that is ChronoSync.                                                       |
 | 48:00      | I've used ChronoSync forever.                                                                           |
 | 48:02      | And what ChronoSync can do very well is synchronise those two instances.                                |
-| 48:07      | So the Dropbox, that's online for the team with my local copy right here on my iMac                     |
+| 48:07      | So the [[Dropbox]], that's online for the team with my local copy right here on my iMac                     |
 | 48:13      | Pro.                                                                                                    |
 | 48:14      | And Don does the same thing out there in the UK.                                                        |
 | 48:16      | And so the advantage is multi-fold, right?                                                              |
@@ -857,12 +857,12 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 48:44      | So I've set up quite a few.                                                                             |
 | 48:46      | And they're super useful to make sure everybody has the right files at all times.                       |
 | 48:52      | Now I did the same thing for our project, David, for the shortcuts field guide.                         |
-| 48:56      | So of course, we share a Dropbox file structure, and I did the exact same thing.                        |
-| 48:59      | I made a full local copy of the Dropbox contents.                                                       |
+| 48:56      | So of course, we share a [[Dropbox]] file structure, and I did the exact same thing.                        |
+| 48:59      | I made a full local copy of the [[Dropbox]] contents.                                                       |
 | 49:03      | And I have one, for example, I know you submit new videos, new [[ScreenFlow]] files to me on               |
 | 49:09      | a regular basis.                                                                                        |
 | 49:10      | So I have a script in ChronoSync that says, fetch David's submissions.                                  |
-| 49:15      | In other words, go look in that folder in Dropbox and see if there's anything new.                      |
+| 49:15      | In other words, go look in that folder in [[Dropbox]] and see if there's anything new.                      |
 | 49:19      | And if there is, go ahead and grab it and sync it across.                                               |
 | 49:21      | Now this isn't different from a sync, which would be in two directions.                                 |
 | 49:26      | And you would end up with all the files back in your folder, and we didn't want that.                   |
@@ -870,10 +870,10 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 49:32      | So the way I do it, I do fetch David's submissions, and they come to me, and they don't go back         |
 | 49:39      | to you.                                                                                                 |
 | 49:40      | So very useful stuff.                                                                                   |
-| 49:41      | ChronoSync and Dropbox together.                                                                        |
+| 49:41      | ChronoSync and [[Dropbox]] together.                                                                        |
 | 49:42      | Dream team right there.                                                                                 |
 | 49:43      | Yeah.                                                                                                   |
-| 49:44      | ChronoSync really was a big deal before things like Dropbox existed, because so many of us              |
+| 49:44      | ChronoSync really was a big deal before things like [[Dropbox]] existed, because so many of us              |
 | 49:49      | had to kind of roll our own synchronisation systems, and that's what this tool was built                |
 | 49:54      | for.                                                                                                    |
 | 49:55      | But I paid for it, I know over 10 years ago, and they've always promised that you buy it                |

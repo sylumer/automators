@@ -588,7 +588,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 47:25      | document. Perfect. And my accountant was impressed that I had the documents back in an hour instead    |
 | 47:31      | of the three days they were expecting, of which I'm sure two days would have been sourcing             |
 | 47:35      | ink cartridges for my printer. PDFpen and PDFpen Pro were of PDFpen for iPhone and iPhone for          |
-| 47:41      | seamless editing across devices with cloud services such as iCloud Dropbox, Google Drive,              |
+| 47:41      | seamless editing across devices with cloud services such as iCloud [[Dropbox]], Google Drive,              |
 | 47:46      | OneDrive, and more. Learn more about PDFpen and PDFpen Pro at smilesoftware.com/podcast.         |
 | 47:53      | So when I first heard this was coming, one of my failures was I didn't think big enough. To me,        |
 | 48:00      | I was thinking this is going to be great to add little features to the application that I would        |

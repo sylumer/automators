@@ -503,7 +503,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 27:53      | but you can also, you know, get the parent folder and get the contents of a specific                                      |
 | 27:59      | folder.                                                                                                                   |
 | 28:00      | Previously, if you got the contents of a file path and it was a folder, so say, for example,                              |
-| 28:06      | inside of Dropbox, you had a folder called Automators, then if you just put Automators                                    |
+| 28:06      | inside of [[Dropbox]], you had a folder called Automators, then if you just put Automators                                    |
 | 28:10      | in, in the path, then you could get everything inside the Automators folder, which is great                               |
 | 28:15      | except, you know, you have to know that it was a specific thing that you have to know.                                    |
 | 28:21      | And then it was get file from file path or whatever.                                                                      |
@@ -524,7 +524,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 29:07      | And now there's actions for that.                                                                                         |
 | 29:08      | Yeah.                                                                                                                     |
 | 29:09      | But saving it wasn't always where you wanted to save it because you could save it anywhere                                |
-| 29:13      | in Dropbox, but on Apple's own iCloud service, you had to save it to a shortcut subfolder.                                |
+| 29:13      | in [[Dropbox]], but on Apple's own iCloud service, you had to save it to a shortcut subfolder.                                |
 | 29:18      | So like I had this crazy system where I had these subfolders in the shortcut subfolder                                    |
 | 29:24      | in iCloud, and then I had [[Hazel]] on my Mac constantly watching them, like anything saved                                   |
 | 29:29      | a shortcut slash [[Obsidian]] copy to my [[Obsidian]] database, anything, and, you know, and I had                                |
@@ -538,8 +538,8 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 29:56      | Yeah.                                                                                                                     |
 | 29:57      | So just to be very clear, because I'm sure some people will be going, wait, wait, what                                    |
 | 29:59      | does this mean?                                                                                                           |
-| 30:00      | So you can save files from shortcuts anywhere in iCloud drive and anywhere in Dropbox.                                    |
-| 30:07      | Dropbox was possible before, but now you've got anywhere in iCloud drive.                                                 |
+| 30:00      | So you can save files from shortcuts anywhere in iCloud drive and anywhere in [[Dropbox]].                                    |
+| 30:07      | [[Dropbox]] was possible before, but now you've got anywhere in iCloud drive.                                                 |
 | 30:13      | Similarly, you can get files from anywhere in iCloud drive, which means if, for example,                                  |
 | 30:19      | you've been looking [[Obsidian]] going, yeah, I would really like [[Obsidian]], but you know,                                     |
 | 30:24      | I'm using the iCloud sync and that means it's not really automation friendly.                                             |

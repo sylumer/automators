@@ -250,7 +250,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 07:30      | hey, this project in this folder,                                     |
 | 07:32      | you've not touched it in a couple of weeks.                           |
 | 07:34      | I'm just going to move it into this folder over here                  |
-| 07:36      | where Dropbox smart sync goes,                                         |
+| 07:36      | where [[Dropbox]] smart sync goes,                                         |
 | 07:38      | hey, that doesn't live on your Mac and gets rid of it.                |
 | 07:41      | But it's still there                                                  |
 | 07:42      | and I can easily re-download it if I need it to.                      |
@@ -305,8 +305,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 09:35      | It was like, oh no, no, no, no, no.                                   |
 | 09:37      | This is not what I wanted you to do.                                  |
 | 09:38      | Why? Oh yeah, I see that.                                             |
-| 09:40      | It's funny, even when I get rid of the Dropbox software,              |
-| 09:43      | sometimes Dropbox still messes with me.                               |
+| 09:40      | It's funny, even when I get rid of the [[Dropbox]] software,              |
+| 09:43      | sometimes [[Dropbox]] still messes with me.                               |
 | 09:45      | I see this.                                                           |
 | 09:47      | Okay, so you're getting a new Mac.                                    |
 | 09:48      | Are you getting a new display?                                        |

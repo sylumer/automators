@@ -1131,11 +1131,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:38:08   | I want to say the advanced option, I was right, David, it's the advanced option. I'm winning here        |
 | 01:38:12   | today. Under the advanced option in [[Alfred]] preferences, over bottom right hand side,                     |
 | 01:38:18   | there is a syncing option. And you can set your preferences folder. Now, theoretically,                  |
-| 01:38:23   | you can sync using any cloud service you like, but they do recommend Dropbox. I personally have          |
-| 01:38:29   | always used Dropbox for the sync. I mean, I have two terabytes of Dropbox space, which I'm not using.    |
+| 01:38:23   | you can sync using any cloud service you like, but they do recommend [[Dropbox]]. I personally have          |
+| 01:38:29   | always used [[Dropbox]] for the sync. I mean, I have two terabytes of [[Dropbox]] space, which I'm not using.    |
 | 01:38:34   | So I try and shove as many things in there as possible. [[Alfred]] takes up practically no space             |
 | 01:38:39   | at all because it's all text preferences. So I've set my preferences folder. And so it's syncing.        |
-| 01:38:45   | In my case, it's inside of Dropbox, application syncing [[Alfred]]. I think I created application            |
+| 01:38:45   | In my case, it's inside of [[Dropbox]], application syncing [[Alfred]]. I think I created application            |
 | 01:38:51   | syncing long ago for syncing a variety of applications, but that's where it is. And you                  |
 | 01:38:56   | can also reveal that folder. This is also very useful when you're setting up a new Mac because,          |
 | 01:39:02   | you know, I've got a shiny purple and one iMac coming, David, it's going to be great for podcasting      |
@@ -1144,7 +1144,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:39:16   | So I'm looking forward to that. The Intel Mac Mini can get a little loud sometimes with                  |
 | 01:39:21   | those fans spinning. So, you know, when I set up [[Alfred]] on that machine, which is going to be one        |
 | 01:39:26   | of the first apps that I set up, then I'm just going to be able to pull in those preferences             |
-| 01:39:30   | and just go yank. Thank you very much. I will take everything from Dropbox.                              |
+| 01:39:30   | and just go yank. Thank you very much. I will take everything from [[Dropbox]].                              |
 | 01:39:34   | And that nice purple theme you have is going to fit right in.                                            |
 | 01:39:38   | Yep, exactly. Also, in the advanced section, you can set what control return, option return,             |
 | 01:39:45   | and command return do. So the options for these are searching with your default web search,              |

@@ -103,7 +103,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 02:37      | Yeah. Yeah. I mean, I feel like it's where I started with document management is actually                |
 | 02:43      | a pretty good place to talk about because where I started with document management was                   |
 | 02:47      | a humongous downloads folder, which was quite frankly, almost embarrassing, and a really                 |
-| 02:53      | badly organised documents folder and Dropbox and so on and so forth. And the way that I                  |
+| 02:53      | badly organised documents folder and [[Dropbox]] and so on and so forth. And the way that I                  |
 | 02:57      | fixed it was by automating it. So I essentially created automations for the file at the top              |
 | 03:04      | of the stack and then ran the automations over those primarily using [[Hazel]] to get rid                    |
 | 03:10      | of everything like that, which meant that every time I got rid of one kind of thing,                     |
@@ -146,7 +146,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 06:08      | anyway. I don't know if that makes more sense or less sense than the action versus like                  |
 | 06:15      | downloads. The nice thing about the action is you deliberately put it there. But that's                  |
 | 06:20      | an extra step too, you know? Yeah, I mean, I have two, I have both. So I actually have                   |
-| 06:25      | a folder. I mean, I've got three because I've got one in iCloud. I've got a folder in Dropbox            |
+| 06:25      | a folder. I mean, I've got three because I've got one in iCloud. I've got a folder in [[Dropbox]]            |
 | 06:31      | called automated actions. And then I've got my downloads folder. And downloads is really                 |
 | 06:35      | where a whole chunk of stuff happens because things do just end up there. And I've done                  |
 | 06:38      | things like change my default screenshot safe location to downloads explicitly because                   |
@@ -154,10 +154,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 06:47      | my screenshots most of the time. It automatically puts them on my clipboard. I paste them wherever       |
 | 06:52      | it needs to go and I close and then it never actually gets saved, which is kind of part                  |
 | 06:58      | of the magic of managing documents. If you can avoid having documents, you don't need                    |
-| 07:01      | to manage them. But I do have specific automated actions folders inside of iCloud and Dropbox            |
+| 07:01      | to manage them. But I do have specific automated actions folders inside of iCloud and [[Dropbox]]            |
 | 07:10      | because this means that other things can put files and things there to be managed. So for                |
 | 07:16      | example, Zapier will save certain things into subfolders of the automated actions folder                  |
-| 07:21      | in Dropbox for me and make previously known as Integromat does that as well. And then                    |
+| 07:21      | in [[Dropbox]] for me and make previously known as Integromat does that as well. And then                    |
 | 07:26      | I have shortcuts, of course, and that saves things. Historically, always save things inside              |
 | 07:31      | the shortcuts folder. And so that was where my automated actions folder was in iCloud.                   |
 | 07:36      | And I've been able, fortunately, with iOS 15 to move that up a level to the top in iCloud,               |

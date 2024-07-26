@@ -455,9 +455,9 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 22:03      | website that says, Hey, here's all the services that we support, go through and pick the ones             |
 | 22:08      | you want.                                                                                                 |
 | 22:09      | And I kind of liked that in the sense that I could, you know, just create all the connections             |
-| 22:15      | I wanted, like connect me to my Dropbox and connect me to whatever.                                       |
+| 22:15      | I wanted, like connect me to my [[Dropbox]] and connect me to whatever.                                       |
 | 22:19      | And then you got a page with all those and it starts giving you saying, well, you have                    |
-| 22:24      | Dropbox and you have email, would you like to save your attachments to Dropbox?                           |
+| 22:24      | [[Dropbox]] and you have email, would you like to save your attachments to [[Dropbox]]?                           |
 | 22:28      | You know, that kind of thing.                                                                             |
 | 22:29      | And with make, it's not quite as obvious to me.                                                           |
 | 22:34      | The way you do it there is you create a new automation or you go to one of the template                   |

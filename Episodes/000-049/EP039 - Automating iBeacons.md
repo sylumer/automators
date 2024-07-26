@@ -810,8 +810,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 43:19      | this stuff up to start with, but then it saves me at least 45 minutes while I'm actually              |
 | 43:25      | doing whatever it is.                                                                                 |
 | 43:27      | And the first one of these is I deep writing for the suite setup and I put all the images             |
-| 43:33      | and the article in a Dropbox folder.                                                                  |
-| 43:36      | And I already had a shortcut that was uploading the images to a Dropbox folder, but they were         |
+| 43:33      | and the article in a [[Dropbox]] folder.                                                                  |
+| 43:36      | And I already had a shortcut that was uploading the images to a [[Dropbox]] folder, but they were         |
 | 43:40      | too large in general because screenshots that you take on iPhone are really big nowadays              |
 | 43:46      | because the iPhone screen is so pretty.                                                               |
 | 43:49      | There's a lot of light bulbs in that screen.                                                          |
@@ -886,7 +886,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 47:57      | And so that I can deal with any kind of screenshots here.                                             |
 | 48:02      | Then after it's done the overlay, it then checks if the width is less than or equal                   |
 | 48:07      | to the height and adds 20 to the height and crops it, if necessary.                                   |
-| 48:13      | Then I set the name, and then I save all the variables into a Dropbox folder so that I                |
+| 48:13      | Then I set the name, and then I save all the variables into a [[Dropbox]] folder so that I                |
 | 48:18      | can easily access them.                                                                               |
 | 48:20      | And so I can share them with the team.                                                                |
 | 48:21      | Now, do you do an overlay of the iPhone frame on it?                                                  |

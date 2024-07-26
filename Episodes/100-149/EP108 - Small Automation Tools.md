@@ -1946,7 +1946,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:22:50   | and the right pane.                                                 |
 | 01:22:51   | So I'll use this when I am releasing an episode of Automators.      |
 | 01:22:54   | I will, you know, have a workspace opened,                          |
-| 01:22:57   | and that has the Automators folder that's in Dropbox on one side,   |
+| 01:22:57   | and that has the Automators folder that's in [[Dropbox]] on one side,   |
 | 01:23:01   | and then it has the Linode upload on the other side                 |
 | 01:23:04   | so that, you know, I can drag the files over,                       |
 | 01:23:06   | put them into Automators and Automators Max,                        |
@@ -1992,7 +1992,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:24:43   | And, you know, and I can open that as a favourite again.             |
 | 01:24:47   | And it's got all your commands and everything built in.             |
 | 01:24:50   | And one of the things I really love is it syncs as well.            |
-| 01:24:53   | So all of my favourites sync through Dropbox                         |
+| 01:24:53   | So all of my favourites sync through [[Dropbox]]                         |
 | 01:24:56   | to all of my other devices.                                         |
 | 01:24:58   | So it doesn't matter whether I open Forklift                        |
 | 01:25:00   | on my Mac Studio or my portable 14-inch MacBook Pro,                |
@@ -2022,7 +2022,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:26:03   | But actually, you don't have to do that.                            |
 | 01:26:06   | You can just sync it between the two places.                        |
 | 01:26:09   | And it's got so many cool things built in,                          |
-| 01:26:13   | including, you know, Dropbox support and everything else,           |
+| 01:26:13   | including, you know, [[Dropbox]] support and everything else,           |
 | 01:26:17   | that you can, you know, really take advantage of it                 |
 | 01:26:20   | and enjoy that.                                                     |
 | 01:26:21   | So two thumbs up for Forklift.                                      |

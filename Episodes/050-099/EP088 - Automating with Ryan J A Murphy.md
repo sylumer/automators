@@ -486,7 +486,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 22:36      | because, at least for me, because I use the encrypted database function, that means that               |
 | 22:42      | the way you store your data with [[Obsidian]] is you literally store it on the local storage               |
 | 22:46      | of your phone or your iPad, which is unusual, you know, normally you put data in the iCloud            |
-| 22:53      | or the Dropbox or something like that.                                                                 |
+| 22:53      | or the [[Dropbox]] or something like that.                                                                 |
 | 22:55      | But if you're using the encrypted database, you actually set the database up on your root,             |
 | 23:00      | you know, local storage.                                                                               |
 | 23:02      | And that is the most easily addressable space using shortcuts, because it's your space.                |
@@ -705,17 +705,17 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 34:46      | So I can imagine that then I might actually, because what I do at the moment, which for                |
 | 34:52      | full disclosure, I do not recommend this, but this is what I'm doing because this is                   |
 | 34:56      | what I was doing before I started using [[Obsidian]] Sync.                                                 |
-| 34:58      | I actually have [[Drafts]] right into Dropbox folders.                                                     |
-| 35:06      | I have one computer which is set up, which syncs my Dropbox folder with [[Obsidian]] and [[Obsidian]]          |
+| 34:58      | I actually have [[Drafts]] right into [[Dropbox]] folders.                                                     |
+| 35:06      | I have one computer which is set up, which syncs my [[Dropbox]] folder with [[Obsidian]] and [[Obsidian]]          |
 | 35:12      | Syncs.                                                                                                 |
 | 35:13      | So double syncing, and just be very clear, if you want to do this one computer, do not                 |
 | 35:18      | do this on more than one computer, that will break all of the things.                                  |
 | 35:21      | One computer only, everything else is using [[Obsidian]] Sync.                                             |
-| 35:24      | So what happens then is that one computer goes, new stuff in Dropbox, pull it into [[Obsidian]],           |
+| 35:24      | So what happens then is that one computer goes, new stuff in [[Dropbox]], pull it into [[Obsidian]],           |
 | 35:30      | and then, of course, it ends up in [[Obsidian]] Sync.                                                      |
 | 35:32      | And this helps because I have some things which just append stuff to lists and things                  |
 | 35:37      | like that, and that's very easy to do via [[Drafts]], of course, with the append action                    |
-| 35:43      | inside of the Dropbox actions.                                                                         |
+| 35:43      | inside of the [[Dropbox]] actions.                                                                         |
 | 35:45      | But of course, I want the data in [[Obsidian]].                                                            |
 | 35:50      | That's where the data lives.                                                                           |
 | 35:51      | That's the right place for the data.                                                                   |
@@ -724,7 +724,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 36:00      | I should spend a bit more time with the [[URL Schemes]], in particular, the advanced one,                  |
 | 36:05      | the advanced plugin, because I've yet to really dive into that, and I think that that would            |
 | 36:10      | probably solve the problem.                                                                            |
-| 36:11      | Though, of course, the beauty of the Dropbox action is it can run entirely in the background,          |
+| 36:11      | Though, of course, the beauty of the [[Dropbox]] action is it can run entirely in the background,          |
 | 36:15      | and then the draft just disappears, because I do still pretty much open [[Drafts]] to capture              |
 | 36:19      | most things, which is good.                                                                            |
 | 36:22      | But I should also look into making a PopClip extension for [[Obsidian]].                                  |
@@ -736,12 +736,12 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 36:41      | But I'm playing with the idea of adding parameters, because I think it would be a fun sort of          |
 | 36:43      | secret feature.                                                                                        |
 | 36:45      | But even outside of that, Rosa, I would consider using base shortcuts, files actions.                  |
-| 36:50      | I don't know how well you can write to Dropbox with that, but I actually have a simple make            |
+| 36:50      | I don't know how well you can write to [[Dropbox]] with that, but I actually have a simple make            |
 | 36:54      | note shortcut.                                                                                         |
 | 36:55      | I can share it in the notes, and it runs entirely in the background, and will append whatever          |
 | 37:00      | you say out loud to your daily note.                                                                   |
-| 37:02      | Well, on my iPhone, of course, everything is talking to just the Dropbox API, but the                  |
-| 37:11      | [[Drafts]] is talking to the Dropbox API, but the actual [[Obsidian]] application is talking                   |
+| 37:02      | Well, on my iPhone, of course, everything is talking to just the [[Dropbox]] API, but the                  |
+| 37:11      | [[Drafts]] is talking to the [[Dropbox]] API, but the actual [[Obsidian]] application is talking                   |
 | 37:15      | to [[Obsidian]] Sync, which is then saved on my phone.                                                     |
 | 37:18      | So that is available in the Files app.                                                                 |
 | 37:21      | I would just have to make sure my draft section knows, at least for the time being, whether            |

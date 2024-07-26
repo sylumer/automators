@@ -379,7 +379,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 12:54      | And I really, really love those tools.                             |
 | 12:56      | In general, I find Devon Think                                     |
 | 12:58      | to be a really useful tool for me because there's no more,         |
-| 13:01      | did I store this in iCloud or Dropbox or whatever?                 |
+| 13:01      | did I store this in iCloud or [[Dropbox]] or whatever?                 |
 | 13:05      | I just throw it in Devon Think and search there later.             |
 | 13:07      | Now, one of the advantages you get with Devon Think                |
 | 13:10      | is you get those links.                                            |

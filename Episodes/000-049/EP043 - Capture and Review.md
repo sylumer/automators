@@ -171,7 +171,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 08:19      | whole series of things I need to do there to make sure that the show goes as well as                    |
 | 08:24      | it possibly can.                                                                                        |
 | 08:25      | And so what I do is I use MailDrop as Zapier. So Zapier does a couple of different things.              |
-| 08:31      | It sets up toggle projects for me, it creates Dropbox folders and all sorts of things. But              |
+| 08:31      | It sets up toggle projects for me, it creates [[Dropbox]] folders and all sorts of things. But              |
 | 08:36      | it also adds a task to my only focus by a MailDrop that says, hey, create the project                   |
 | 08:42      | for this show. And then inside of Zapier, I have the actual note is a URL, which is                     |
 | 08:51      | an OmniFocus [[URL Schemes\|URL scheme]] URL, which actually runs and it adds this project for me. And                   |

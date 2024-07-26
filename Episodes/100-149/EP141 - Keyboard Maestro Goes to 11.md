@@ -865,7 +865,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 48:45      | So yeah, that just makes it a lot easier.                                                                          |
 | 48:47      | Yeah, I use this in so many contexts because, like, for the MacSparky Lab stuff that I sent                        |
 | 48:52      | to [[Jean Francois Brissette\|JF]], he helps me edit them.                                                         |
-| 48:54      | I've got a button that has his picture on it, and it just points to a shared Dropbox                               |
+| 48:54      | I've got a button that has his picture on it, and it just points to a shared [[Dropbox]]                               |
 | 48:59      | folder.                                                                                                            |
 | 49:00      | And any file that I've selected, if I push his face, it goes to him.                                               |
 | 49:04      | And the same thing with the podcast, like, I have a button that automatically moves our                            |

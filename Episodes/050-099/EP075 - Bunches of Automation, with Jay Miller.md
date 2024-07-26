@@ -736,13 +736,13 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:04:57   | Command one to [[Slack]] so that it sends it to the right one. And if I want, and I guess the good           |
 | 01:05:03   | example here is a podcast that I run called Bob's Tavern Cast, which don't worry about that. It's        |
 | 01:05:07   | just a silly card game. But when I trigger that, what it does is it loads up my recording snippet,       |
-| 01:05:18   | which closes Dropbox and CloudMounter, which is, you know, all the little big bandwidth consuming        |
-| 01:05:25   | things. It closes Logic, Final Cut, Skype, Zoom, Dropbox, and my email client. It sets my do not         |
+| 01:05:18   | which closes [[Dropbox]] and CloudMounter, which is, you know, all the little big bandwidth consuming        |
+| 01:05:25   | things. It closes Logic, Final Cut, Skype, Zoom, [[Dropbox]], and my email client. It sets my do not         |
 | 01:05:32   | disturbed on, it changes my audio inputs and outputs to my Focusrite Scarlet and it opens up             |
 | 01:05:39   | [[Audio Hijack]] and triggers a [[Keyboard Maestro]] snippet that says, Hey, look at [[Audio Hijack]] and            |
 | 01:05:47   | select the image that says that podcast name. And then from there, when I'm done recording,              |
 | 01:05:55   | I hit close that bunch. And when I close it, it has a whole other set of instructions like              |
-| 01:06:01   | reactivate Dropbox, open up the Dropbox request URL, and then also open up Patreon so I can send the     |
+| 01:06:01   | reactivate [[Dropbox]], open up the [[Dropbox]] request URL, and then also open up Patreon so I can send the     |
 | 01:06:09   | raw audio feed to my Patreon patrons and then open up Transistor where we host our podcast and           |
 | 01:06:16   | then open up Logic, open up the exact template for Logic that I'm using, and then also have the          |
 | 01:06:24   | window open where I'm expecting my co-host to drop their audio files in. So it already takes me          |

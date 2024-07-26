@@ -573,7 +573,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 19:40      | and have my Mac process them for me.                                                                                    |
 | 19:42      | Yeah.                                                                                                                   |
 | 19:43      | Yeah.                                                                                                                   |
-| 19:44      | I have a similar folder in Dropbox                                                                                      |
+| 19:44      | I have a similar folder in [[Dropbox]]                                                                                      |
 | 19:46      | that is also watched by [[Hazel]] that does stuff based on                                                              |
 | 19:50      | either the folder I put it in or the name I give it,                                                                    |
 | 19:52      | just because tags weren't a thing when I set up this folder.                                                            |
@@ -1002,7 +1002,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 38:14      | Yeah, we need a way to add tags,                                                                                        |
 | 38:17      | because, I mean, the other thing is, as you said,                                                                       |
 | 38:19      | if you share it to the files that you don't get a chance to rename it,                                                  |
-| 38:22      | but if I try and share something to the Dropbox app,                                                                    |
+| 38:22      | but if I try and share something to the [[Dropbox]] app,                                                                    |
 | 38:24      | guess what [[Dropbox]] asked me to do?                                                                                  |
 | 38:26      | It gives me the option to rename the file.                                                                              |
 | 38:28      | Exactly.                                                                                                                |
@@ -1179,7 +1179,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 45:29      | And I'm very happy that all of these developers out there                                                               |
 | 45:32      | are making an effort.                                                                                                   |
 | 45:34      | Another one that we should give a shout out to, of course, is [[Drafts]]                                                |
-| 45:37      | because they recently built in the entire Dropbox API.                                                                  |
+| 45:37      | because they recently built in the entire [[Dropbox]] API.                                                                  |
 | 45:41      | So you can literally save a file anywhere in any format you like.                                                       |
 | 45:44      | I added a button the other day where if I'm writing a blog post,                                                        |
 | 45:48      | I can save it as a markdown and as [[HTML]] into a specific [[Dropbox]] folder.                                         |

@@ -571,7 +571,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 27:33      | it.                                                                                                  |
 | 27:34      | Though I have to say nowadays, I've migrated a lot of that to Data Jar where it's information         |
 | 27:38      | that changes semi-frequently, but reference lists are still just good old JSON files in              |
-| 27:42      | Dropbox.                                                                                             |
+| 27:42      | [[Dropbox]].                                                                                             |
 | 27:43      | Yeah.                                                                                                |
 | 27:44      | I also feel like this is really useful if you make a text heavy shortcut because we're               |
 | 27:49      | working with text in Shortcuts is also very precious.                                                |

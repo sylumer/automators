@@ -259,15 +259,15 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 13:40      | up behind us, cleaning things up that we leave laying around. And that's kind of the beauty             |
 | 13:46      | of it, I think.                                                                                         |
 | 13:47      | Exactly. Like one of my favourites is what I call the burn bag. And it's a folder called                 |
-| 13:52      | the burn bag. And when I want to share something with somebody, it's a Dropbox folder. I put            |
-| 13:57      | it in the burn bag and I send them the Dropbox link and two weeks later [[Hazel]] deletes it.               |
+| 13:52      | the burn bag. And when I want to share something with somebody, it's a [[Dropbox]] folder. I put            |
+| 13:57      | it in the burn bag and I send them the [[Dropbox]] link and two weeks later [[Hazel]] deletes it.               |
 | 14:02      | And it's like something because you share links sometimes with these big files and you                  |
 | 14:08      | forget about it. And you just don't want them. Like when I was a lawyer, some of them had               |
 | 14:14      | like client data to share with an extra witness or whatnot. Same thing. I don't want the files          |
 | 14:18      | hanging around. So you put them in there and it's a simple rule after two weeks. If it's                |
 | 14:23      | been there two weeks, delete it.                                                                        |
 | 14:25      | I have something really similar. I call it delete me. And it's not just for that. It                    |
-| 14:31      | definitely works for that. I have a delete me on Dropbox for things like just like what                 |
+| 14:31      | definitely works for that. I have a delete me on [[Dropbox]] for things like just like what                 |
 | 14:35      | you talked about. But I've one locally too. And [[Hazel]] deletes everything after two weeks.               |
 | 14:40      | That appears to be the length of time that we care about things. But one of the great                   |
 | 14:44      | things about the delete me folder, the way I use it is I'm telling future me that it's                  |

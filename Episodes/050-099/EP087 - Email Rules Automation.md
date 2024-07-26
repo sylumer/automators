@@ -822,8 +822,8 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:08:08   | unread, move them into specific folders, copy them into specific folders, delete them, and                 |
 | 01:08:15   | it can send you a personal email. And as well as this, it can iterate over your attachments.               |
 | 01:08:21   | So if you get emails with lots of attachments and you need them all saved, I don't know,                   |
-| 01:08:25   | say to Dropbox or something, that is something that you can do with Integromat and the IMAP                |
-| 01:08:30   | integration, which is pretty handy. I actually now have a Dropbox folder called email attachments,         |
+| 01:08:25   | say to [[Dropbox]] or something, that is something that you can do with Integromat and the IMAP                |
+| 01:08:30   | integration, which is pretty handy. I actually now have a [[Dropbox]] folder called email attachments,         |
 | 01:08:37   | where, you know, Integromat is just going, here's an attachment, stick in a folder, here's                 |
 | 01:08:42   | an attachment, stick in folder.                                                                            |
 | 01:08:43   | Yeah, same box does the same thing for me. It'll pull attachments out and put it on                        |
@@ -872,13 +872,13 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:12:21   | Yeah, and I could really see you combining this with your upcoming FastMail account,                       |
 | 01:12:25   | where you could automate FastMail rules to send it to the Integromat folder, and then,                     |
 | 01:12:31   | you know, like, things really start happening.                                                             |
-| 01:12:33   | Yes. Yeah, and this is similar to what I do on Dropbox as well, actually, David. I have                    |
-| 01:12:36   | a folder inside of Dropbox called automated actions. Yeah. And, you know, it sounds silly,                 |
+| 01:12:33   | Yes. Yeah, and this is similar to what I do on [[Dropbox]] as well, actually, David. I have                    |
+| 01:12:36   | a folder inside of [[Dropbox]] called automated actions. Yeah. And, you know, it sounds silly,                 |
 | 01:12:44   | you know, automated actions, fine. Why? And I've got a bunch of subfolders in there. And                   |
 | 01:12:49   | then stuff happens in those subfolders based on, you know, which it is. So, some of it's                   |
 | 01:12:55   | handled through Zapier, some of it's handled through [[Hazel]], some of it's handled through                   |
 | 01:12:59   | Integromat and so on. But I know, if I'm looking to automate something that lands in                       |
-| 01:13:03   | my Dropbox, I stick it in the automated actions folder, and then the magic will happen. And                |
+| 01:13:03   | my [[Dropbox]], I stick it in the automated actions folder, and then the magic will happen. And                |
 | 01:13:07   | it often then doesn't live in there forever. But it gets dealt with and processed at some                  |
 | 01:13:12   | point, and that is really nice. So, I'm very appreciative of that.                                         |
 | 01:13:17   | Yeah. Today's show is going to be about online rule systems, because we've gone long. But                  |
@@ -925,7 +925,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:17:07   | could also use, you know, Tuesday or two days or one month or whatever, same box can figure                |
 | 01:17:12   | it out. And then it follows up with me and I love that. Honestly, I think I would pay                      |
 | 01:17:18   | for same box for that feature alone. Yes. But it also has the thing where you can save                     |
-| 01:17:23   | things to Dropbox and you can have [[Hazel]] working and looking at that Dropbox folder and there's            |
+| 01:17:23   | things to [[Dropbox]] and you can have [[Hazel]] working and looking at that [[Dropbox]] folder and there's            |
 | 01:17:27   | a bunch of other stuff you can do. But that is another kind of form of online rule setting                 |
 | 01:17:31   | that I do. Yes. That is something that I struggle with sometimes. I recently had an issue where            |
 | 01:17:39   | I followed up with my doctors requested via email to their assistant to say, yep, you                      |

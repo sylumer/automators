@@ -454,7 +454,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 21:27      | and other annotations, advanced PDF compression, the ability to optimise PDF sizing and all                  |
 | 21:33      | of these come as standard in the software.                                                                   |
 | 21:36      | PDFpen, PDFpen Pro and PDFpen for iPad and iPhone all work together for seamless editing                     |
-| 21:42      | across your devices when you use the Dropbox or iCloud.                                                      |
+| 21:42      | across your devices when you use the [[Dropbox]] or iCloud.                                                      |
 | 21:46      | I love using PDFpen, I had to fill out a form for my new apartment earlier today and it                      |
 | 21:51      | just worked.                                                                                                 |
 | 21:52      | I filled it up in PDFpen on my iPad, filled it out using my Apple Pencil and sent it back                    |
@@ -610,7 +610,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 31:17      | Some other integrations that are fun with Integromat is Microsoft Word templates, which                      |
 | 31:22      | I'm assuming is using the Office 365 cloud templates.                                                        |
 | 31:26      | Yeah.                                                                                                        |
-| 31:27      | And then there's plenty of cloud file storage integration, OneDrive, Dropbox, all the usual                  |
+| 31:27      | And then there's plenty of cloud file storage integration, OneDrive, [[Dropbox]], all the usual                  |
 | 31:33      | suspects, you know.                                                                                          |
 | 31:36      | There's a lot here Integromat.                                                                              |
 | 31:38      | Yeah.                                                                                                        |

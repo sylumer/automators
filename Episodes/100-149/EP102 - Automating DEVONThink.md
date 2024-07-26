@@ -183,8 +183,8 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 05:30      | And I'm considering that for just like shoving all                |
 | 05:34      | of the other stuff off that I don't want on my device.            |
 | 05:37      | But the problem that I've got is I've                             |
-| 05:38      | got a lot of stuff in Dropbox.                                    |
-| 05:40      | And Dropbox doesn't like you splitting the location of things.    |
+| 05:38      | got a lot of stuff in [[Dropbox]].                                    |
+| 05:40      | And [[Dropbox]] doesn't like you splitting the location of things.    |
 | 05:44      | And they've got a bit funny recently where they've started,       |
 | 05:47      | or at least they told me when I've put sim links and things       |
 | 05:50      | on my Mac, a symbolic link is basically telling the file          |
@@ -201,14 +201,14 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 06:17      | And this is something that has been                               |
 | 06:19      | able to be done on operating systems, mostly                      |
 | 06:22      | [[Unix]]-based for absolutely donkeys years.                          |
-| 06:24      | I found Dropbox is a little bit funny about that.                 |
-| 06:27      | And I know previously I've had difficulty syncing Dropbox         |
+| 06:24      | I found [[Dropbox]] is a little bit funny about that.                 |
+| 06:27      | And I know previously I've had difficulty syncing [[Dropbox]]         |
 | 06:30      | to an external SSD, which technically this would be.              |
 | 06:34      | So I'm undecided what way I'm going to go there.                  |
 | 06:37      | But I don't feel like I'm hurting the storage                     |
 | 06:39      | base at all right now.                                            |
 | 06:41      | So I think I'm going to be fine.                                  |
-| 06:43      | I just tend to offload things to Dropbox in the cloud             |
+| 06:43      | I just tend to offload things to [[Dropbox]] in the cloud             |
 | 06:46      | and have that sync down to my Synology                            |
 | 06:49      | via the cloud sync service for anything that I want to keep,      |
 | 06:53      | but I don't need on my device.                                    |
@@ -305,10 +305,10 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 10:40      | to hold things together.                                          |
 | 10:43      | Yes, yeah.                                                        |
 | 10:44      | For me, it's sort of my personal document management system.      |
-| 10:47      | You know, I have documents that I store in Dropbox                |
+| 10:47      | You know, I have documents that I store in [[Dropbox]]                |
 | 10:49      | and things like that.                                             |
 | 10:50      | Like recordings for this podcast episode,                         |
-| 10:52      | those go into Dropbox,                                            |
+| 10:52      | those go into [[Dropbox]],                                            |
 | 10:53      | they get categorised and filed into the folders                   |
 | 10:55      | and GMR lovely editor picks them up and stuff.                    |
 | 10:57      | But that's working documents that are actively being,             |
@@ -318,7 +318,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 11:08      | that's the sort of thing that I want in a system                  |
 | 11:12      | where I know where everything is.                                 |
 | 11:13      | And if I set it up on a new machine,                              |
-| 11:14      | I don't forget to sync this folder with Dropbox                   |
+| 11:14      | I don't forget to sync this folder with [[Dropbox]]                   |
 | 11:17      | or something like that.                                           |
 | 11:18      | I've got my database.                                             |
 | 11:19      | If I've got my database, I've got everything important.           |
@@ -332,7 +332,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 11:41      | lately.                                                           |
 | 11:42      | They've got a reliable sync engine                                |
 | 11:44      | and you've got different ways you can sync stuff.                 |
-| 11:46      | You can use Dropbox, you can use iCloud,                          |
+| 11:46      | You can use [[Dropbox]], you can use iCloud,                          |
 | 11:48      | you can use your own server if you want.                          |
 | 11:50      | And importantly, you can attach your own password                 |
 | 11:53      | before the sync so it is effectively into an encryption           |
@@ -1146,14 +1146,14 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 47:20      | will import your data, that we recommend that.                    |
 | 47:23      | But you can export a file to an external folder outside           |
 | 47:28      | of DEVONthink with a trigger.                                     |
-| 47:30      | So as an example, let's say you share a Dropbox folder            |
+| 47:30      | So as an example, let's say you share a [[Dropbox]] folder            |
 | 47:34      | with your accountant.                                             |
 | 47:36      | And when an expense record comes in,                              |
 | 47:38      | you file it into DEVONthink and DEVONthink does all               |
 | 47:41      | its magic, but one of the things DEVONthink figures out           |
 | 47:44      | is like, hey, this is an expense receipt.                         |
 | 47:46      | Go ahead and copy it out to his external folder                   |
-| 47:49      | and Dropbox with his accountant.                                  |
+| 47:49      | and [[Dropbox]] with his accountant.                                  |
 | 47:51      | And that is, you know, just one additional action                 |
 | 47:56      | you can do with DEVONthink.                                       |
 | 47:58      | Yes, and what I have to say, I'm just                             |
@@ -1798,7 +1798,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:15:19   | you can have an entirely local Devon think database               |
 | 01:15:22   | that's synced over your local network.                            |
 | 01:15:24   | So it's not even like going out to the internet                   |
-| 01:15:27   | or you can sync through Dropbox, iCloud, et cetera.               |
+| 01:15:27   | or you can sync through [[Dropbox]], iCloud, et cetera.               |
 | 01:15:31   | But you can say, hey, do I wanna classify this                    |
 | 01:15:34   | based on content, based on tags?                                  |
 | 01:15:36   | And yes or no to current database only.                           |

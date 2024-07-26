@@ -231,7 +231,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 15:16      | ask, what's the craziest thing you do? Because honestly, like I've added a lot of power to                |
 | 15:21      | bunch. But most of what I do is still kind of in line with my original goals. And I just,                 |
 | 15:28      | I launch, you know, sets of apps and do and then arrange windows and turn on,                             |
-| 15:36      | do not disturb or quit Dropbox and things like that. Like I added a whole bunch of                        |
+| 15:36      | do not disturb or quit [[Dropbox]] and things like that. Like I added a whole bunch of                        |
 | 15:43      | logic to it. You can actually have it test, like run this script. And then if you get this result,        |
 | 15:50      | do this, otherwise do this and then pop up this menu with like multiple choice selection based on         |
 | 15:56      | the output of this script. And like it can get very intense. Yeah. But, but I personally, I don't,        |
@@ -277,7 +277,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 20:09      | for day one, which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
 | 20:15      | like every MacSparky blog post gets added to my journal and like tweets that I heart,                    |
 | 20:21      | which aren't very many anymore. Yeah, well, I have it like any photo I post to [[Instagram]]                  |
-| 20:28      | gets saved with like a markdown note into a Dropbox file for me, which I always forget is                 |
+| 20:28      | gets saved with like a markdown note into a [[Dropbox]] file for me, which I always forget is                 |
 | 20:35      | running until I discover the folder. It's a nice little archive. I appreciate it. It's from back          |
 | 20:43      | when I used to do Slogger. Do you remember Slogger? Yeah, I forgot about that. Yeah.                      |
 | 20:47      | Yeah. It's dead at this point, but it was a script that would run once a day and gather                   |

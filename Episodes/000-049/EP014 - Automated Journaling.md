@@ -170,7 +170,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 04:33      | was workflow.                                                                                       |
 | 04:35      | And that is extremely useful if you want to do this kind of automation because finding              |
 | 04:41      | something else that is integrated with if this and that, you're probably going to be                |
-| 04:45      | looking at files in Dropbox and maybe [[Hazel]] on the back end to do some extra organisation           |
+| 04:45      | looking at files in [[Dropbox]] and maybe [[Hazel]] on the back end to do some extra organisation           |
 | 04:50      | for you or something.                                                                               |
 | 04:52      | And that is not as much fun as something that does a chunk of the work for you already,             |
 | 04:58      | which is something we always like, the point of this podcast is to do less work, not to             |
@@ -544,7 +544,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 27:22      | know, other purposes.                                                                               |
 | 27:23      | So if, you know, if you already have it, then you can also use it for this, you know, you           |
 | 27:27      | can create different folders for things like that, which is always nice.                            |
-| 27:31      | And another option that you could of course look at is Dropbox or iCloud files where you            |
+| 27:31      | And another option that you could of course look at is [[Dropbox]] or iCloud files where you            |
 | 27:37      | can have folders and you can have maybe one folder for a year and inside that folder for            |
 | 27:42      | each month and then you just have dated text entries and you could put photos in there              |
 | 27:46      | as well with, you know, give them the same, the name of the date or something and the               |
@@ -580,7 +580,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 30:00      | Yeah, and I mean, if you have a Mac or iOS device, then absolutely look into that.                  |
 | 30:05      | If you're on Windows, then you might want to look into Word.                                        |
 | 30:08      | If you've got Word or Dropbox paper is actually quite a nice solution for some of these things.     |
-| 30:14      | It's a service offered by Dropbox where you can write text in Dropbox as it sounds.                 |
+| 30:14      | It's a service offered by [[Dropbox]] where you can write text in [[Dropbox]] as it sounds.                 |
 | 30:21      | But you know, you could use something like that or Google Docs maybe, though I would                |
 | 30:27      | mention for people who are iOS heavy that their app doesn't usually get updated for                 |
 | 30:32      | new features and screen sizes that quickly, which might mean that you end up having some            |
@@ -658,7 +658,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 34:43      | And you take a picture with one of those and you can save it and you can run it through             |
 | 34:46      | all the automation routines as well.                                                                |
 | 34:49      | You could use the Siri shortcut to save it with the current date and the name Diary in              |
-| 34:53      | it or something like that and save it to a specific location on iCloud or Dropbox.                  |
+| 34:53      | it or something like that and save it to a specific location on iCloud or [[Dropbox]].                  |
 | 34:58      | And then you basically get the paper journal, but you also have the permanence of the digital       |
 | 35:03      | ones and zeros so you can see it later.                                                             |
 | 35:05      | Yes.                                                                                                |

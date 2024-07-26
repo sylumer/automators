@@ -304,7 +304,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 13:04      | for two hours of internet or waiting and figuring out something else to do.                            |
 | 13:09      | Yeah, I could read a book.                                                                             |
 | 13:11      | Well, sometimes these things just stick in your head and you really want to read the                   |
-| 13:14      | drafts' documentation on Dropbox Integration again.                                                    |
+| 13:14      | drafts' documentation on [[Dropbox]] Integration again.                                                    |
 | 13:18      | I have my hobbies, everyone has their own.                                                             |
 | 13:21      | There you go.                                                                                          |
 | 13:22      | There you go.                                                                                          |
@@ -324,8 +324,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 14:17      | So the single script will sort of take the video file, strip out the chapters for the                  |
 | 14:22      | chapter list.                                                                                          |
 | 14:23      | It will then format the chapter list with asterisks using text.                                        |
-| 14:26      | So it will then take the audio and send that across to Rev via Dropbox and they pick it                |
-| 14:31      | up automatically in Dropbox and they will then send back the subtitles in a day or two                 |
+| 14:26      | So it will then take the audio and send that across to Rev via [[Dropbox]] and they pick it                |
+| 14:31      | up automatically in [[Dropbox]] and they will then send back the subtitles in a day or two                 |
 | 14:36      | once that's been done.                                                                                 |
 | 14:37      | And then we go in, we create the preview file.                                                         |
 | 14:40      | So as well as the main file, there's a preview file now, which is normally the first between           |
@@ -672,12 +672,12 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 36:55      | I can see a list of all the shows and just look at the status of each show and see what                |
 | 36:59      | stage they're at.                                                                                      |
 | 37:01      | They record their show.                                                                                |
-| 37:03      | Basically they would then edit the show and upload it to Dropbox, at which point they would            |
-| 37:09      | put the Dropbox link in the Podio record and change the status to ready for review.                    |
+| 37:03      | Basically they would then edit the show and upload it to [[Dropbox]], at which point they would            |
+| 37:09      | put the [[Dropbox]] link in the Podio record and change the status to ready for review.                    |
 | 37:14      | JF would then get an email saying that status has changed, there is a new show in there                |
 | 37:19      | for review.                                                                                            |
 | 37:20      | He can go into Podio into the same record.                                                             |
-| 37:22      | It downloads it from Dropbox, reviews the file.                                                        |
+| 37:22      | It downloads it from [[Dropbox]], reviews the file.                                                        |
 | 37:27      | If there's nothing wrong, or if there's no extra annotations or extra narrations need                  |
 | 37:34      | to be done, it's ready to go.                                                                          |
 | 37:35      | He can just move on to the next stage, or he can send it back to the presenter at that                 |

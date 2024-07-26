@@ -274,7 +274,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 08:25      | because it will just figure out the date                          |
 | 08:28      | based on when now is and go from there.                           |
 | 08:32      | But if you wanted to do something like give it the file           |
-| 08:35      | so it can, I don't know, upload it to Dropbox or convert          |
+| 08:35      | so it can, I don't know, upload it to [[Dropbox]] or convert          |
 | 08:38      | an image to various different types                               |
 | 08:40      | and save them into different places,                              |
 | 08:42      | then you can have that run too, which is great.                   |
@@ -1339,7 +1339,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 48:06      | Yeah, receipts go to the account and you                          |
 | 48:08      | drop it on there. You create a shortcut                           |
 | 48:10      | to rename it and put it in                                        |
-| 48:12      | a shared Dropbox or something.                                    |
+| 48:12      | a shared [[Dropbox]] or something.                                    |
 | 48:14      | You do that as simply just dragging                               |
 | 48:16      | it onto your menu bar with Drop Zone.                             |
 | 48:18      | I feel like Drop Zone doesn't get enough credit.                  |

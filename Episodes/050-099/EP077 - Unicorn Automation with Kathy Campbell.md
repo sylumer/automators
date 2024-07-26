@@ -408,7 +408,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 34:55      | that you use either through something like drop zone, or you could do something with                      |
 | 35:00      | automator to have something show up and find her under the right click menu with under                    |
 | 35:05      | services that says, Hey, move it to my make magic happen folder. And I say this because                   |
-| 35:11      | I have a Dropbox folder, it's not called make magic happen, it's called automated actions,                |
+| 35:11      | I have a [[Dropbox]] folder, it's not called make magic happen, it's called automated actions,                |
 | 35:17      | because make magic happen gets sorted to the middle, automated actions gets sorted to the                 |
 | 35:21      | top. So there you go, alphabetical pro tip there. But I put stuff in that folder and                      |
 | 35:29      | that has sub folders for make this magic happen on it basically. And then, you know, sometimes            |
