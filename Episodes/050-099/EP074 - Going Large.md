@@ -644,18 +644,18 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 48:30      | one.                                                                                                      |
 | 48:31      | Yeah. And actually, David, this is one of the things that prompted me to upgrade to the                   |
 | 48:37      | newer or to the larger Stream Deck, because I was trying to do a lot of this automatic                    |
-| 48:42      | profile switching. So I had a profile for ScreenFlow and I had a profile for QuickTime. And I realised    |
-| 48:49      | that one of my problems was, is frequently when I'm in ScreenFlow, one of the things I                    |
+| 48:42      | profile switching. So I had a profile for [[ScreenFlow]] and I had a profile for QuickTime. And I realised    |
+| 48:49      | that one of my problems was, is frequently when I'm in [[ScreenFlow]], one of the things I                    |
 | 48:54      | need to do is switch to QuickTime and run an action. And by having two separate profiles,                 |
-| 49:02      | I was dedicating one button in the ScreenFlow profile to switch QuickTime and another one                 |
-| 49:06      | in the QuickTime profile to switch to ScreenFlow. It was just, you know, there was a little               |
+| 49:02      | I was dedicating one button in the [[ScreenFlow]] profile to switch QuickTime and another one                 |
+| 49:06      | in the QuickTime profile to switch to [[ScreenFlow]]. It was just, you know, there was a little               |
 | 49:12      | bit of, you know, cognitive dissonance, I think I'll go with there, where I was looking                   |
 | 49:16      | at it and it's like, but the button I want isn't here. And also every software, especially                |
 | 49:24      | when I was doing the upgrade, actually, I noticed that the automatic switching didn't                     |
 | 49:30      | happen. So I would switch to QuickTime and I wouldn't have my QuickTime profile on my                     |
 | 49:35      | Stream Deck. I did fix that actually by unlinking, by not telling it was a profile or telling             |
 | 49:42      | it wasn't an application-specific profile and then telling it again that it was. But                      |
-| 49:47      | now I have the left-hand side, which is 16 buttons, is ScreenFlow and the right-hand                      |
+| 49:47      | now I have the left-hand side, which is 16 buttons, is [[ScreenFlow]] and the right-hand                      |
 | 49:52      | side 16 buttons is QuickTime. Now I'm not using all 16 in either case, but it's just                      |
 | 49:57      | a useful split for me to do that. And so I switched profiles manually with an action                      |
 | 50:03      | in Stream Deck called switch profile, which I've assigned some funky icons to.                            |
@@ -1073,18 +1073,18 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:25:05   | Well, I mean, I've talked about my podcasting profile, but I haven't really talked about                  |
 | 01:25:10   | my my screencasting profile. And one of the things I've done here is I've I feel keep                     |
 | 01:25:14   | on my stream macros, which just do the little things that I I frequently do for myself.                   |
-| 01:25:21   | So for example, there when I'm editing a ScreenFlow for screencasts online, I frequently                 |
+| 01:25:21   | So for example, there when I'm editing a [[ScreenFlow]] for screencasts online, I frequently                 |
 | 01:25:29   | leave notes to myself. And then I go back. And these notes are chapter markers for anybody                |
 | 01:25:35   | familiar. And I go back and I just add done to it when I'm done. And then I go through                    |
 | 01:25:39   | and I review my list of chapter markers. And then I delete the ones that I don't need to                  |
 | 01:25:43   | send off. Because, you know, them having a whole list of, you know, Rose, you need to                     |
 | 01:25:47   | rerecord this section, which I noticed to myself does not make sense for them at all.                     |
-| 01:25:52   | So I I have a button, which so I just double click on the chapter marker in ScreenFlow.                  |
-| 01:25:59   | And then I have two buttons actually on my on my my ScreenFlow deck for this, I have                     |
+| 01:25:52   | So I I have a button, which so I just double click on the chapter marker in [[ScreenFlow]].                  |
+| 01:25:59   | And then I have two buttons actually on my on my my [[ScreenFlow]] deck for this, I have                     |
 | 01:26:05   | one that says done and one that says OK. And what this does is it just presses command                    |
 | 01:26:09   | on the left button, it pastes done space dash space or OK space dash space and it hits enter.             |
 | 01:26:14   | But this means it's always spelled the same, because it would be amazing, I would look                    |
-| 01:26:18   | at a ScreenFlow at the end of doing my editing, and it would be done spells in about 16 different        |
+| 01:26:18   | at a [[ScreenFlow]] at the end of doing my editing, and it would be done spells in about 16 different        |
 | 01:26:23   | ways, you know, D N O E and different capitalisations, the whole works. And this way it's just consistent |
 | 01:26:31   | and I can just scan down and anything that's not got that hyphen in front of it, or that                  |
 | 01:26:36   | you know, there's four characters in the hyphen, and then I just know, OK, that do I need to              |
@@ -1106,7 +1106,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:27:54   | because I have a button and it's red. And it's just, you know, it's a little red dot                      |
 | 01:27:58   | and it's just the recording dot and I just press it and it starts my recording and that's                 |
 | 01:28:01   | easy. Yeah, like the screen casting, the application                                                      |
-| 01:28:05   | ScreenFlows is a remarkable app. But for some reason, they have a lot of keyboard shortcuts              |
+| 01:28:05   | [[ScreenFlow]] is a remarkable app. But for some reason, they have a lot of keyboard shortcuts              |
 | 01:28:10   | that tie your fingers and knots and even like ripple delete and some of them always feel                  |
 | 01:28:16   | to me very awkward to try and get my fingers around all of them, especially when I'm in                   |
 | 01:28:20   | the middle of recording. So all of those weird even start and stop recording, I've added                  |
@@ -1132,16 +1132,16 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:30:03   | disappears. And I know there's a shortcut for it, but I never can seem to remember it.                    |
 | 01:30:07   | So now I've just put a button on it.                                                                      |
 | 01:30:09   | Yep, that that I think is is the thing it's much easier to do. And one of the things I                    |
-| 01:30:14   | found, David, maybe you can give me some advice with this is a ScreenFlow loves to hijack                |
-| 01:30:20   | keyboard shortcuts. And I have changed and removed the keyboard shortcut for ScreenFlow                  |
+| 01:30:14   | found, David, maybe you can give me some advice with this is a [[ScreenFlow]] loves to hijack                |
+| 01:30:20   | keyboard shortcuts. And I have changed and removed the keyboard shortcut for [[ScreenFlow]]                  |
 | 01:30:25   | for starting a screen recording about 80,000 times. Now it feels like it hasn't been that                 |
-| 01:30:30   | many. But whenever ScreenFlows open, and I try to do quick capture and [[Drafts]], which                     |
-| 01:30:34   | is command shift to ScreenFlow says, try to start recording failed start recording because               |
+| 01:30:30   | many. But whenever [[ScreenFlow]] is open, and I try to do quick capture and [[Drafts]], which                     |
+| 01:30:34   | is command shift to [[ScreenFlow]] says, try to start recording failed start recording because               |
 | 01:30:39   | your device was not connected or whatever it is. And then it's like, okay, that's fine.                   |
-| 01:30:42   | Because I didn't want ScreenFlow. I wanted [[Drafts]]. So I've ended up actually changing                    |
+| 01:30:42   | Because I didn't want [[ScreenFlow]]. I wanted [[Drafts]]. So I've ended up actually changing                    |
 | 01:30:46   | the keyboard shortcut for [[Drafts]]. And then I've got a hot key on my on my Stream Deck                     |
 | 01:30:49   | and I've got a hot key on my keyboard, both of which open the quick capture and [[Drafts]]                   |
-| 01:30:53   | for me. But I don't know what it is about ScreenFlow, but it does not like me changing                   |
+| 01:30:53   | for me. But I don't know what it is about [[ScreenFlow]], but it does not like me changing                   |
 | 01:30:57   | the keyboard shortcuts in it, for whatever reason, especially if you want to leave it                     |
 | 01:31:01   | blank, then it gets very unhappy and it just resets it.                                                   |
 | 01:31:04   | That's so funny. We've never talked about this, but I could never get it to stick either.                 |

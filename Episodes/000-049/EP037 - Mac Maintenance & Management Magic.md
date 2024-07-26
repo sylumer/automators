@@ -301,8 +301,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 20:38      | with [[Yoink]]. But you can lock them into Drop Zone so they don't accidentally get deleted later.          |
 | 20:44      | And I, as a screencaster, I have images of the iPad and the iPhone that I overlay when I record         |
 | 20:51      | a screencast, you know, like when I record a screencast of the iPhone, it's just the iPhone             |
-| 20:56      | screen. It's not the actual iPhone frame around it. So then once I put it into ScreenFlow,              |
-| 21:02      | I can just grab the frame out of Drop Zone and put it on top of the image in ScreenFlow.                |
+| 20:56      | screen. It's not the actual iPhone frame around it. So then once I put it into [[ScreenFlow]],              |
+| 21:02      | I can just grab the frame out of Drop Zone and put it on top of the image in [[ScreenFlow]].                |
 | 21:07      | So it's just like always available for me. So if you've got like little, like maybe your company        |
 | 21:11      | has a logo that you constantly are dropping into documents and things with an app like Drop Zone        |
 | 21:17      | or [[Yoink]], you could put them in there and just have that. It's like almost a permanent clipboard        |

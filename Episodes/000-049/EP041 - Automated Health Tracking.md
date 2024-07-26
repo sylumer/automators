@@ -644,7 +644,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 48:04      | the right applications depending on which option I pick. And this has been so useful because I was     |
 | 48:10      | starting to go a little bit insane with the opening Skype every single time, when I actually needed    |
 | 48:16      | FaceTime, for example, or I was going to use ZenCast or something, or just [[Audio Hijack]] and            |
-| 48:22      | ScreenFlow. So I'm very pleased to have actually found a solution that does not drive me up the        |
+| 48:22      | [[ScreenFlow]]. So I'm very pleased to have actually found a solution that does not drive me up the        |
 | 48:28      | wall. Yeah, the old problem of getting the audio files to the editor and everything related to it.     |
 | 48:35      | Yes, exactly. Because I have different sessions in [[Audio Hijack]] as well that I use. That's the         |
 | 48:39      | next step that I want to automate, making sure that the correct sessions are opened with [[Audio Hijack]]  |

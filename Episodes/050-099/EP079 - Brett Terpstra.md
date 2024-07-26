@@ -352,17 +352,17 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 16:40      | That's why you always use control because no app ever uses control in its key combos.                |
 | 16:46      | Well my problem is actually default ones.                                                            |
 | 16:48      | So [[Drafts]] is a great application and I like its default keyboard shortcuts, but whenever             |
-| 16:53      | I have ScreenFlow open, ScreenFlow wants to take over that keyboard shortcut.                      |
-| 16:58      | And I've tried changing this in ScreenFlow.                                                         |
-| 16:59      | I've contacted the people at ScreenFlow.                                                            |
+| 16:53      | I have [[ScreenFlow]] open, [[ScreenFlow]] wants to take over that keyboard shortcut.                      |
+| 16:58      | And I've tried changing this in [[ScreenFlow]].                                                         |
+| 16:59      | I've contacted the people at [[ScreenFlow]].                                                            |
 | 17:01      | I can change it when I open the app and then the next time I open the app, it's reverted.            |
-| 17:06      | And sometimes it doesn't even take me closing ScreenFlow and reopening ScreenFlow for              |
+| 17:06      | And sometimes it doesn't even take me closing [[ScreenFlow]] and reopening [[ScreenFlow]] for              |
 | 17:10      | this to happen.                                                                                      |
 | 17:11      | I'm not quite sure what's going on there.                                                            |
-| 17:12      | It's clearly a ScreenFlow bug, but they've not got around fixing it yet and it drives               |
+| 17:12      | It's clearly a [[ScreenFlow]] bug, but they've not got around fixing it yet and it drives               |
 | 17:17      | me insane that I'm there and I press what I think is the keyboard shortcut to just open              |
 | 17:22      | a quick new draft because I just want to take a note on something that I'm doing in my current       |
-| 17:26      | ScreenFlow.                                                                                         |
+| 17:26      | [[ScreenFlow]].                                                                                         |
 | 17:27      | I've started recording again.                                                                        |
 | 17:29      | It drives me insane.                                                                                 |
 | 17:30      | So I actually have a [[Keyboard Maestro]] macro which interferes with this so that screen                |
@@ -877,10 +877,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 49:41      | So the caps lock key that we never use, instead, you convert that into a shift command option        |
 | 49:48      | control, and then you can combine that with a whole other set of keys on your keyboard.              |
 | 49:53      | So Hyper KeyD could open a new [[Drafts]] note.                                                           |
-| 49:58      | So Rose wouldn't have that conflict with ScreenFlow anymore.                                        |
+| 49:58      | So Rose wouldn't have that conflict with [[ScreenFlow]] anymore.                                        |
 | 50:01      | Yeah.                                                                                                |
 | 50:02      | And then I just have to train my brain to use that keyboard shortcut, which I never ever             |
-| 50:06      | used in ScreenFlow, and it became a default when [[Drafts]] arrived on the Mac, and then                |
+| 50:06      | used in [[ScreenFlow]], and it became a default when [[Drafts]] arrived on the Mac, and then                |
 | 50:10      | my brain immediately went, yes, I like this, I shall use this only to discover that something        |
 | 50:16      | else had already co-opted it.                                                                        |
 | 50:18      | So if you want to take that a step further, then you get into key sequences, and you can             |

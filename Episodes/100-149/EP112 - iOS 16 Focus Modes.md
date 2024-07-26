@@ -576,7 +576,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 33:06      | Okay.                                                                                                   |
 | 33:07      | So I have been kind of holding off on tab groups because I wanted to wait until my,                     |
 | 33:11      | my main machine was on Ventura, but I can't do that yet because, you know, betas and audio              |
-| 33:16      | recording and ScreenFlow, blah, blah, blah.                                                            |
+| 33:16      | recording and [[ScreenFlow]], blah, blah, blah.                                                            |
 | 33:20      | But the, but if it's, if it's compatible, then I need to actually dig into that.                        |
 | 33:24      | Yeah.                                                                                                   |
 | 33:25      | The tab groups haven't changed themselves.                                                              |
@@ -1170,7 +1170,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:08:12   | I do have a laptop running the beta just for beta things, which is good fun.                            |
 | 01:08:17   | I've got some beta wraps on there that I've been trying out for folks, but yeah, I'm not                |
 | 01:08:21   | quite got there on the main machines yet.                                                               |
-| 01:08:24   | The big hold up for me is ScreenFlow.                                                                  |
+| 01:08:24   | The big hold up for me is [[ScreenFlow]].                                                                  |
 | 01:08:26   | They just don't update until the thing releases and that may not even be immediate, but they're         |
 | 01:08:34   | very clear.                                                                                             |
 | 01:08:35   | They're not going to have an open public beta.                                                          |

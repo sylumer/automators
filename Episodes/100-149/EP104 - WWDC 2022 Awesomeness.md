@@ -250,9 +250,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 10:39      | You're going to need to restart way more than you usually do and some of your apps are going              |
 | 10:43      | to act funny.                                                                                             |
 | 10:44      | That being said, this has been a fairly stable beta for me.                                               |
-| 10:49      | The only app that I've had real hiccups with is ScreenFlow.                                               |
+| 10:49      | The only app that I've had real hiccups with is [[ScreenFlow]].                                               |
 | 10:52      | I have a second Mac with it on.                                                                           |
-| 10:55      | Obviously, I need ScreenFlow to make my living.                                                           |
+| 10:55      | Obviously, I need [[ScreenFlow]] to make my living.                                                           |
 | 10:57      | So my primary Mac is still on the shipping operating system as opposed to the beta one.                   |
 | 11:04      | It's working fine and we're all good, but you got to be careful with stuff like that.                     |
 | 11:09      | Yeah.                                                                                                     |
@@ -261,7 +261,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 11:18      | My phone is plugged in and I've tried rebooting.                                                          |
 | 11:21      | I have tried sacrificing chocolate in various forms, including extra dark chocolate and                   |
 | 11:27      | all such things.                                                                                          |
-| 11:28      | I just can't get my phone screen to show up and stay on screen in Ecamm, QuickTime, ScreenFlow,            |
+| 11:28      | I just can't get my phone screen to show up and stay on screen in Ecamm, QuickTime, [[ScreenFlow]],            |
 | 11:34      | any of those devices.                                                                                     |
 | 11:35      | So I can record about 10 seconds of my phone screen before something dies and it just turns               |
 | 11:42      | into a black screen, which is frustrating, but that's the price you pay for a developer                   |

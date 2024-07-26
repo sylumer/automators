@@ -1046,21 +1046,21 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:26:02   | really nice, you know, and that, you know, I kind of, I know I keep saying it, but that's the idea       |
 | 01:26:07   | of the show today of like, what are the daily problems you're having and how are you automating          |
 | 01:26:11   | around them? Yeah, so that's something your comments in Microsoft Word Davis reminded me that            |
-| 01:26:18   | I do the same thing in ScreenFlow. And so I have a couple of buttons and adding a chapter marker         |
-| 01:26:23   | in ScreenFlow is just one button. It's a single back tick for Americans on your keyboard is the          |
+| 01:26:18   | I do the same thing in [[ScreenFlow]]. And so I have a couple of buttons and adding a chapter marker         |
+| 01:26:23   | in [[ScreenFlow]] is just one button. It's a single back tick for Americans on your keyboard is the          |
 | 01:26:28   | top left button next to the one. You just press it once. And then bam, you've got a back tick.           |
 | 01:26:33   | And if you do three of those before and after a piece of code in our forums, then it will format         |
-| 01:26:38   | it nicely automatically. So bonus tip for you. But adding a chapter marker in ScreenFlow, it's           |
+| 01:26:38   | it nicely automatically. So bonus tip for you. But adding a chapter marker in [[ScreenFlow]], it's           |
 | 01:26:44   | one button. It's super easy. However, I never just add a chapter marker. I always have to type           |
 | 01:26:50   | something. And while I'm editing, I often add to dos for myself to, you know, you know, to do            |
 | 01:26:57   | tying this up or to do re-record this video and things like that. And even if I'm then going             |
-| 01:27:03   | and doing it immediately, because ScreenFlow has a somewhat poor tendency to crash, for whatever         |
+| 01:27:03   | and doing it immediately, because [[ScreenFlow]] has a somewhat poor tendency to crash, for whatever         |
 | 01:27:10   | reason, then I make sure to add this and then hit save. And so what I do is I have some buttons,         |
-| 01:27:21   | and this is a string deck palette that appears whenever I open ScreenFlow. And then it presses           |
+| 01:27:21   | and this is a string deck palette that appears whenever I open [[ScreenFlow]]. And then it presses           |
 | 01:27:27   | the backspace key for me, and then it types to do colon, and then hits command S. And I'm using          |
 | 01:27:34   | [[Keyboard Maestro]] markers for these just because it's easy. And then I have it in [[Keyboard Maestro]]        |
 | 01:27:38   | if I need it elsewhere, like for example, on another Mac, which might happen. Though I do                |
-| 01:27:44   | recommend you backup your ScreenFlow profiles regularly, and there's a backup function in                |
+| 01:27:44   | recommend you backup your [[ScreenFlow]] profiles regularly, and there's a backup function in                |
 | 01:27:48   | Stream Deck for you to do that. But I've got several different ones, you know,                           |
 | 01:27:54   | I've got a couple of different to-dos. I've got one which is notes for JF, who's a managing editor       |
 | 01:27:59   | over at ScreenCast online, and he goes through all the ScreenCasts and so I can leave him a note,        |
@@ -1107,7 +1107,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:31:33   | kind of a rainbow gradient. Automator is red gear with an A, and it kind of looks like the               |
 | 01:31:39   | Captain America logo. Perfect. And, you know, I love that I just look at it, and my brain                |
 | 01:31:45   | immediately associates the colours and the shapes that it's seeing with the thing that it needs to do.    |
-| 01:31:49   | And that's why, you know, my, my ScreenFlow profile on my Stream Deck has got things like,              |
+| 01:31:49   | And that's why, you know, my, my [[ScreenFlow]] profile on my Stream Deck has got things like,              |
 | 01:31:58   | it's a comment bubble with a green checkmark in it. And these are just some things that I've made        |
 | 01:32:04   | by overlaying PNGs on top of each other in Pixelmator. You know, nothing too fancy or crazy,             |
 | 01:32:12   | but it works. So, yeah, I took [[Stephen Millard]], who was a guest in episode 68. He has a script           |

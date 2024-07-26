@@ -588,7 +588,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 32:22      | Like I do a lot of video edits because of, you know, my job.                                           |
 | 32:25      | And, you know, zooming timelines, moving in the timeline.                                              |
 | 32:29      | I've got a bunch of gestures in there programmed through [[BetterTouchTool]] and like I have             |
-| 32:35      | custom ones for ScreenFlow, which is what I do, screen casting, a different one set                   |
+| 32:35      | custom ones for [[ScreenFlow]], which is what I do, screen casting, a different one set                   |
 | 32:39      | of gestures that I do in Final Cut.                                                                    |
 | 32:41      | But I honestly sitting here probably couldn't tell you all the gestures I use because at               |
 | 32:47      | this point my fingers just do it.                                                                      |
@@ -852,7 +852,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 48:15      | This is not my day job.                                                                                |
 | 48:18      | But the 3D Connections CAD mouse is a really nice piece of hardware.                                   |
 | 48:22      | Obviously, it's designed for and works really well with things like 3D modeling.                       |
-| 48:28      | But I found for me, it also works pretty nicely with, you know, like ScreenFlow and things            |
+| 48:28      | But I found for me, it also works pretty nicely with, you know, like [[ScreenFlow]] and things            |
 | 48:36      | like that because I can scroll backwards and forwards and you can like tilt it to left                 |
 | 48:40      | or tilt it to the right.                                                                               |
 | 48:41      | So it's the 3D Connections space mouse specifically.                                                   |
@@ -1053,7 +1053,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 59:35      | If you've got things you frequently do in apps that you want, you can use the pedal                    |
 | 59:40      | now.                                                                                                   |
 | 59:42      | I find that primarily I use it when recording.                                                         |
-| 59:45      | I also use it to kick off and stop recordings in ScreenFlow or any kind of recording I'm               |
+| 59:45      | I also use it to kick off and stop recordings in [[ScreenFlow]] or any kind of recording I'm               |
 | 59:52      | doing.                                                                                                 |
 | 59:53      | I use pedal buttons for that.                                                                          |
 | 59:54      | I also find it very useful in Zoom.                                                                    |
@@ -1131,7 +1131,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:04:28   | But you can also have it trigger keyboard actions.                                                     |
 | 01:04:31   | So like I have the keyboard shortcuts for moving right and left between spaces so I                    |
 | 01:04:39   | can turn the dial and move between spaces.                                                             |
-| 01:04:42   | When I'm in ScreenFlow, I have the dial program to scrub right and left.                              |
+| 01:04:42   | When I'm in [[ScreenFlow]], I have the dial program to scrub right and left.                              |
 | 01:04:48   | In fact, I have two of them, one of them scrubs fast and one of them scrubs slow and                   |
 | 01:04:51   | I can navigate my play head very quickly that way.                                                     |
 | 01:04:56   | So it's an interesting piece of kit because it has new control surfaces and that touch                 |

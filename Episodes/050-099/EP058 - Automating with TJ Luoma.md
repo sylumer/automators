@@ -839,7 +839,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:03:22   | know, I've been very happy with the fact that I've only got the medium sized Stream Deck.                     |
 | 01:03:27   | So I've got 15 buttons online, which is not as many, but with the ability to switch profiles                  |
 | 01:03:33   | and automatically switch profiles, I'm pretty happy.                                                          |
-| 01:03:37   | Yeah. I'm just thinking ScreenFlow needs its own deck and, you know, why not Safari?                          |
+| 01:03:37   | Yeah. I'm just thinking [[ScreenFlow]] needs its own deck and, you know, why not Safari?                          |
 | 01:03:43   | You know, all right. So Rose, I'm so glad you guys figured this out for me. This is                           |
 | 01:03:47   | going to be great. Rose took it a step further. She's automating switching the profile based                  |
 | 01:03:52   | on the app she's in. So can you address the Stream Deck to change to a specific profile                       |

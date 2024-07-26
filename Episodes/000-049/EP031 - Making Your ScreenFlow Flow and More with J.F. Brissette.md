@@ -112,7 +112,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 02:32      | needed, give feedback to presenters.                                                                    |
 | 02:34      | They're all so good that I typically don't have to, and then I also do the assembly,                    |
 | 02:38      | which is all the graphics, all the chapter names, and so on.                                            |
-| 02:42      | This is all done in ScreenFlow.                                                                        |
+| 02:42      | This is all done in [[ScreenFlow]].                                                                        |
 | 02:45      | That's the video editing and assembly, and then on the copy side of things, I'm also                    |
 | 02:50      | responsible for reviewing every submission made to the monthly magazine for Screencast                  |
 | 02:55      | Online.                                                                                                 |
@@ -155,32 +155,32 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 05:15      | I went through all those workflows, so I'll be able to talk about it quite a bit fresh                  |
 | 05:18      | on my mind.                                                                                             |
 | 05:19      | Excellent.                                                                                              |
-| 05:20      | Well, in addition to ScreenFlow, JF does all sorts of additional automation.                           |
+| 05:20      | Well, in addition to [[ScreenFlow]], JF does all sorts of additional automation.                           |
 | 05:25      | We're going to talk today about some of the terminal, regular expressions, maybe even                   |
 | 05:29      | getting into shortcuts a little bit, and I know, let's see how we do, but I think we                    |
-| 05:33      | should probably start talking about ScreenFlow because you don't just do Don's work.                   |
+| 05:33      | should probably start talking about [[ScreenFlow]] because you don't just do Don's work.                   |
 | 05:37      | I know you do editing for hire, for lots of folks.                                                      |
 | 05:41      | Automating that is the way that you can really make it work for you.                                    |
 | 05:44      | When you do it for a living, obviously, you got to get rid of all the extraneous steps                  |
 | 05:48      | that you can.                                                                                           |
 | 05:49      | So, let's just talk a little bit about that.                                                            |
-| 05:52      | How are you automating ScreenFlow?                                                                     |
+| 05:52      | How are you automating [[ScreenFlow]]?                                                                     |
 | 05:55      | Yes.                                                                                                    |
-| 05:56      | Well, you've got a good point, ScreenFlow needs to be automated, in my opinion.                        |
+| 05:56      | Well, you've got a good point, [[ScreenFlow]] needs to be automated, in my opinion.                        |
 | 06:00      | If you're going to use it as much as I do, whether working for screencasts online, or                   |
-| 06:05      | as you said, for other people that require my help, my editor help for ScreenFlow, I've                |
+| 06:05      | as you said, for other people that require my help, my editor help for [[ScreenFlow]], I've                |
 | 06:09      | been using the app pretty much since it was born, and so I'm super familiar with it, and                |
 | 06:13      | I've lived through all the upgrades and so on, but still, software by definition is imperfect.          |
 | 06:18      | And so, sometimes you need to roll your own, as you would say.                                          |
-| 06:23      | My favourite tool to work alongside ScreenFlow has been and continues to be keyboard                    |
+| 06:23      | My favourite tool to work alongside [[ScreenFlow]] has been and continues to be keyboard                    |
 | 06:27      | and maestro, and the reason for that is because I'm able to automate certain things that normally       |
 | 06:33      | would take several steps to do manually, even if they involve shortcuts.                                |
-| 06:38      | For example, for those of you who might know ScreenFlow, there are ways to apply transitions           |
+| 06:38      | For example, for those of you who might know [[ScreenFlow]], there are ways to apply transitions           |
 | 06:43      | to different types of clips at the beginning, at the end of the clip.                                   |
 | 06:46      | You can do that with keyboard shortcuts, but when you do it repeatedly, why not combine                 |
 | 06:51      | those moves along with a rewinding of the playhead to a place a little earlier in the                   |
 | 06:57      | screencast and a tap of the space bar so you can listen and see your edit right away.                   |
-| 07:02      | So a lot of the ScreenFlow macros that I've programmed over time, some of which were provided          |
+| 07:02      | So a lot of the [[ScreenFlow]] macros that I've programmed over time, some of which were provided          |
 | 07:07      | to me with Don, and we talked about them, and we tweaked them a little bit, and I think                 |
 | 07:10      | I might have shared a couple with you, David, as well.                                                  |
 | 07:13      | Those are really useful.                                                                                |
@@ -189,7 +189,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 07:21      | is what where automation really shines, is slowing down enough to be able to identify                   |
 | 07:26      | something that you may not even realise you're doing repeatedly.                                        |
 | 07:30      | And some of those things happen, for example, when you insert what we call chapter markers.             |
-| 07:35      | They're both visual on the screen, and there's also a marker inside ScreenFlow.                        |
+| 07:35      | They're both visual on the screen, and there's also a marker inside [[ScreenFlow]].                        |
 | 07:39      | And so identifying all the steps required to do this and then creating a macro to automate              |
 | 07:44      | the process makes my work a lot more efficient, a lot faster, and honestly, a lot more accurate         |
 | 07:49      | as well.                                                                                                |
@@ -200,20 +200,20 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 08:08      | switcher.                                                                                               |
 | 08:09      | And that's a wonderful window that shows you the latest things you've pasted, but you can               |
 | 08:14      | make a few favourites out of those that will stick and be available to you.                              |
-| 08:20      | And that includes objects in ScreenFlow.                                                               |
+| 08:20      | And that includes objects in [[ScreenFlow]].                                                               |
 | 08:23      | And some of you may not know this.                                                                      |
-| 08:24      | If you're a ScreenFlow user out there, and you have [[Keyboard Maestro]], when you copy                    |
-| 08:29      | an element, a graphical element from ScreenFlow, it will show up in the clipboard history              |
+| 08:24      | If you're a [[ScreenFlow]] user out there, and you have [[Keyboard Maestro]], when you copy                    |
+| 08:29      | an element, a graphical element from [[ScreenFlow]], it will show up in the clipboard history              |
 | 08:33      | viewers, switcher, I should say, and you're able to paste it repeatedly, and it's a lot                 |
 | 08:38      | faster than having to copy, go back in the timeline, copy that object again, it remains                 |
 | 08:43      | the same.                                                                                               |
 | 08:44      | And so all these things put together for me really make my work a lot more enjoyable                    |
 | 08:48      | and a lot more efficient.                                                                               |
 | 08:49      | Well, also, I mean, it also helps avoid error.                                                          |
-| 08:52      | So the workflow JF is talking about is in ScreenFlow.                                                  |
-| 08:56      | And I guess I should say, this doesn't just apply to ScreenFlow, this applies to any                   |
+| 08:52      | So the workflow JF is talking about is in [[ScreenFlow]].                                                  |
+| 08:56      | And I guess I should say, this doesn't just apply to [[ScreenFlow]], this applies to any                   |
 | 09:00      | application that you spend a lot of time in.                                                            |
-| 09:03      | But in ScreenFlow, when you go back, like if you have a graphic element and you've got                 |
+| 09:03      | But in [[ScreenFlow]], when you go back, like if you have a graphic element and you've got                 |
 | 09:07      | the line thickness and the colour just right, then you have to go back and find a prior                  |
 | 09:11      | iteration of it, copy it and paste it.                                                                  |
 | 09:14      | But the problem is sometimes you copy it, but you forget to unselect it.                                |
@@ -243,7 +243,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 10:41      | So those are ways I do that.                                                                            |
 | 10:42      | And the thing JF does that I found kind of helpful or instructional to me, some of the                  |
 | 10:48      | types of automation he's doing, and this would apply equally to Excel or Word as it would               |
-| 10:53      | to ScreenFlow, is he looks at those tedious things where you've got to hit the arrow                    |
+| 10:53      | to [[ScreenFlow]], is he looks at those tedious things where you've got to hit the arrow                    |
 | 10:58      | key five times and then some keyboard shortcut and then the arrow key two more times or a               |
 | 11:03      | tab key.                                                                                                |
 | 11:04      | The things where you're stringing together little manual acts that you don't even think                 |
@@ -359,7 +359,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 17:53      | That's E-X-P-R-E-S-S VPN.com/Automators for three months free with a one-year package.            |
 | 18:02      | Take back your online privacy at expressvpn.com/Automators and our thanks to ExpressVPN           |
 | 18:08      | for their support of the Automators and all of Relay FM.                                                |
-| 18:13      | So JF, now you don't just do your automation in ScreenFlow.                                            |
+| 18:13      | So JF, now you don't just do your automation in [[ScreenFlow]].                                            |
 | 18:17      | I know that you apply your prowess across many devices and many apps.                                   |
 | 18:22      | One that we don't get to often on the Automator, so, is the terminal.                                   |
 | 18:27      | Yes.                                                                                                    |
@@ -859,7 +859,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 48:52      | Now I did the same thing for our project, David, for the shortcuts field guide.                         |
 | 48:56      | So of course, we share a Dropbox file structure, and I did the exact same thing.                        |
 | 48:59      | I made a full local copy of the Dropbox contents.                                                       |
-| 49:03      | And I have one, for example, I know you submit new videos, new ScreenFlow files to me on               |
+| 49:03      | And I have one, for example, I know you submit new videos, new [[ScreenFlow]] files to me on               |
 | 49:09      | a regular basis.                                                                                        |
 | 49:10      | So I have a script in ChronoSync that says, fetch David's submissions.                                  |
 | 49:15      | In other words, go look in that folder in Dropbox and see if there's anything new.                      |
@@ -928,7 +928,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 52:44      | and erase them with automation.                                                                         |
 | 52:47      | And that's why we have folks on every week, and we keep doing it.                                       |
 | 52:50      | And JF, you certainly have helped us.                                                                   |
-| 52:54      | So today, we learned about some good ideas for ScreenFlow, or frankly, any complex application.          |
+| 52:54      | So today, we learned about some good ideas for [[ScreenFlow]], or frankly, any complex application.          |
 | 52:59      | I love the idea of chaining commands together, and you really have opened my eyes to doing              |
 | 53:03      | that more often.                                                                                        |
 | 53:04      | I love that.                                                                                            |

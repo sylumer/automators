@@ -190,7 +190,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 10:51      | that that's been a real game changer.                                                                |
 | 10:53      | Yeah, that's a, and that's a screencaster trick too, because if you centre the window,               |
 | 10:58      | then when you go to produce your screencast and you want to resize or anything, having               |
-| 11:03      | the window centred makes centreing it on the canvas and the ScreenFlow or the screencasting        |
+| 11:03      | the window centred makes centreing it on the canvas and the [[ScreenFlow]] or the screencasting        |
 | 11:08      | application is a lot easier. I did the same thing. It's a very simple script and keyboard            |
 | 11:14      | maestro to centre a window. It's a one step script. And I use the keyboard shortcut caps             |
 | 11:20      | lock L, which is, you know, the caps lock for me is that super key courtesy of Brett                 |
