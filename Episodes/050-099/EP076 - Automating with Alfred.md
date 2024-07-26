@@ -1042,7 +1042,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:29:48   | alpha script happens, check if iTunes is running. So you can tell how long I've had this because         |
 | 01:29:53   | I haven't upgraded it to [[Apple Music]], but it does fortunately still work. It says if, if the player      |
 | 01:29:59   | state is playing, then pause it. So make sure to pause music. It says the volume with the output         |
-| 01:30:05   | muted. And then it actually turns off amphetamine. That's the application I usually use to keep my       |
+| 01:30:05   | muted. And then it actually turns off [[Amphetamine]]. That's the application I usually use to keep my       |
 | 01:30:11   | Mac awake. And then it starts the screensaver. And then it closes the script. And then after             |
 | 01:30:16   | that, it runs the system command to sleep. And I don't quite remember why I'm actually                   |
 | 01:30:23   | starting the screensaver here. I think for a while I had sleep disabled, because I was using this        |

@@ -379,7 +379,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 31:12      | could have, I think at that point I literally like turned off my mouse. Like I just unplugged it.        |
 | 31:17      | Because I had a wired mouse at the time. And I was just like, no, I'm not touching this thing.           |
 | 31:22      | I have, you know, it won't go to sleep. I think I was using like caffeine or                             |
-| 31:26      | Amphetamine or one of the many applications that do that. And it was just like, all right,                |
+| 31:26      | [[Amphetamine]] or one of the many applications that do that. And it was just like, all right,                |
 | 31:31      | nobody touched this computer. I literally put like a piece of paper on it. Just like, do not touch.      |
 | 31:39      | Yeah, our CEO just came in and said, he was like, what's this? And I was like, oh, it's working.         |
 | 31:47      | He's like, okay, and then walked out.                                                                    |

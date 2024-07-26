@@ -1238,13 +1238,13 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:44:02   | getting shortcuts on the Mac, then so be it. Yeah. Yeah. Yeah. Well, let's see.                          |
 | 01:44:08   | Before we go, you and I had both written down a couple apps in the process of this outline that          |
 | 01:44:14   | are kind of like quality of life automation apps that are kind of out of the normal that                 |
-| 01:44:19   | I thought we should mention. Yeah. I'll start with Amphetamine. No, it's not a drug. It's a drug for     |
+| 01:44:19   | I thought we should mention. Yeah. I'll start with [[Amphetamine]]. No, it's not a drug. It's a drug for     |
 | 01:44:26   | your Mac. It's in the Mac App Store. There was recently a thing where Apple asked them to rename         |
 | 01:44:32   | even though they've had that name for years and then Apple went back and said, actually, no, it's        |
-| 01:44:36   | fine. But I love Amphetamine because it's for people who've used the caffeine command in the             |
+| 01:44:36   | fine. But I love [[Amphetamine]] because it's for people who've used the caffeine command in the             |
 | 01:44:43   | terminal or Java, latte, there's a couple of different ones. They're all pretty much coffee              |
 | 01:44:51   | based names for the Mac. Little menu bar applications that sit in the menu bar on your Mac               |
-| 01:44:56   | where you can stop your Mac going to sleep. Amphetamine is one of those, but it's better because         |
+| 01:44:56   | where you can stop your Mac going to sleep. [[Amphetamine]] is one of those, but it's better because         |
 | 01:45:02   | it has automation. So for example, you can say, hey, this machine is a laptop. Whenever it's             |
 | 01:45:08   | plugged in, I want you to not let it go to sleep. Thank you. Or have it do it on a schedule or have      |
 | 01:45:14   | it do it when certain drives are connected. And I love this for my work laptops. I have it keep          |
@@ -1254,11 +1254,11 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:45:33   | connection, kills my terminal connections and causes a whole mess of things that take 10 minutes         |
 | 01:45:40   | to unpack when really all I needed to do was get up, go to the bathroom, grab a glass of water,          |
 | 01:45:45   | maybe a bar of chocolate and come back to my desk. I didn't really want 10 minutes of extra work.        |
-| 01:45:49   | And so Amphetamine saves me a lot with that because it just works. And it's got a couple                 |
+| 01:45:49   | And so [[Amphetamine]] saves me a lot with that because it just works. And it's got a couple                 |
 | 01:45:56   | of different icons as well. There's a pill icon, some coffee icons, a sun and a moon,                    |
 | 01:46:01   | things like that. So you know when it's on and off. But I love the fact that it's got these              |
 | 01:46:06   | automation options built into it. Of course, you can run terminal commands and stuff when you            |
-| 01:46:10   | plug things in through [[Keyboard Maestro]] and so on. But I find Amphetamine is just a super                |
+| 01:46:10   | plug things in through [[Keyboard Maestro]] and so on. But I find [[Amphetamine]] is just a super                |
 | 01:46:15   | easy way to do it. Yeah. The one I would add in this one is controversial for some folks is              |
 | 01:46:21   | CleanMyMac X. Not controversial in the sense that it's a bad app. It's a fine app. But people,           |
 | 01:46:28   | a lot of nerds write me every time I talk about this and they're like, well, if you just run this        |

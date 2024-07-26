@@ -1258,7 +1258,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:19:34   | So I've got one where if I type lullaby, then it actually checks if iTunes is playing or              |
 | 01:19:39   | music is playing, and then it pauses it if it is.                                                     |
 | 01:19:45   | It turns the volume all the way down to muted.                                                        |
-| 01:19:49   | And if Amphetamine is running, well, Amphetamine is just told to turn off regardless of whether       |
+| 01:19:49   | And if [[Amphetamine]] is running, well, [[Amphetamine]] is just told to turn off regardless of whether       |
 | 01:19:55   | or not it's running, and then it runs a sleep command, and that's it.                                 |
 | 01:20:01   | But it's really nice to be able to do that, and it didn't take me long to find all of                 |
 | 01:20:07   | the places where I could just copy and paste these tiny little bits of AppleScript from.             |
