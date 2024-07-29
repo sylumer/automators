@@ -282,14 +282,14 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 13:54      | Yeah.                                                                                                 |
 | 13:55      | That makes sense.                                                                                     |
 | 13:56      | Yeah.                                                                                                 |
-| 13:57      | And honestly, you know, going back to Omni Group and not having OmniFocus available on Vision          |
-| 14:02      | Pro, I actually saw a really interesting post on Macedon from Greg Huckleberry talking                |
-| 14:06      | about Tot, which is a text editor application that he has, and he made the iPad version               |
+| 13:57      | And honestly, you know, going back to Omni Group and not having [[OmniFocus]] available on Vision          |
+| 14:02      | Pro, I actually saw a really interesting post on [[Mastodon]] from Craig Hockenberry talking                |
+| 14:06      | about [[Tot]], which is a text editor application that he has, and he made the iPad version               |
 | 14:13      | available in the App Store.                                                                           |
 | 14:15      | And one user, fortunately, was very, very careful with how they did things, but they                  |
 | 14:20      | very nearly lost all of their data due to like a CloudKit syncing bug, which now he                   |
 | 14:24      | has to buy a Vision Pro to figure out, because he has to do that.                                     |
-| 14:30      | So I'm personally all in favor of the Omni Group going, we're not going to put OmniFocus on            |
+| 14:30      | So I'm personally all in favour of the Omni Group going, we're not going to put [[OmniFocus]] on            |
 | 14:35      | this without having tested it, because yeah, I don't want to lose my entire task management           |
 | 14:41      | system due to something not quite working right somewhere, and then something getting                 |
 | 14:47      | a little bit happy with the sync, and then just nuking everything everywhere else.                    |

@@ -780,8 +780,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 01:05:48   | typing instructions to her. So I made a text expansion snippet. And it gives me the editorial          |
 | 01:05:54   | checklist, the post date, the art notes, links, title and body. And so I run it from a            |
 | 01:05:59   | TextExpander snippet, usually out of [[Drafts]]. I could create a custom draft for this, but sometimes         |
-| 01:06:05   | I also run it out of other apps. I tried TOT for a few days, but I don't know if that's the new        |
-| 01:06:11   | sexy, you know, TOT is that little menu bar app on the Mac. And it's a, it's a Mac, it's also an       |
+| 01:06:05   | I also run it out of other apps. I tried [[Tot]] for a few days, but I don't know if that's the new        |
+| 01:06:11   | sexy, you know, [[Tot]] is that little menu bar app on the Mac. And it's a, it's a Mac, it's also an       |
 | 01:06:18   | app for iOS that holds seven notes, you know, it kind of the idea of [[Drafts]]. You just open it up       |
 | 01:06:23   | and you start writing, but it doesn't have any of the automation of [[Drafts]]. So I tried it and          |
 | 01:06:27   | it's very pretty, but it's not [[Drafts]]. So I'm back in [[Drafts]]. So I could do this through [[Drafts]]       |
