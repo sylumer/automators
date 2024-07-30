@@ -1492,10 +1492,10 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:02:10   | from your menu bar.                                                 |
 | 01:02:11   | There's a lot of great apps for that as well.                       |
 | 01:02:14   | Let's start on the home kit bandwagon.                              |
-| 01:02:17   | Let's talk about home control.                                      |
+| 01:02:17   | Let's talk about [[HomeControl Menu for HomeKit\|HomeControl]].                                      |
 | 01:02:19   | I think that app is one that is an automator's delight              |
 | 01:02:23   | and a lot of people don't realise it.                               |
-| 01:02:25   | Yeah, yeah, home control.                                           |
+| 01:02:25   | Yeah, yeah, [[HomeControl Menu for HomeKit\|HomeControl]].                                           |
 | 01:02:28   | Honestly, I found it originally because it allows you               |
 | 01:02:30   | to control home kit things by [[URL Schemes\|URL scheme]],                           |
 | 01:02:33   | which means that you can then put that into any other               |
@@ -1503,8 +1503,8 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:02:40   | keyboard, maestro, macros, bunch files.                             |
 | 01:02:44   | Yeah, you name it, you can put it in there.                         |
 | 01:02:48   | And it works great because you just use the open URL                |
-| 01:02:51   | action and it calls home control.                                   |
-| 01:02:53   | But home control lives in your menu bar and it allows you           |
+| 01:02:51   | action and it calls [[HomeControl Menu for HomeKit\|HomeControl]].                                   |
+| 01:02:53   | But [[HomeControl Menu for HomeKit\|HomeControl]] lives in your menu bar and it allows you           |
 | 01:02:56   | to see kind of whatever you want.                                   |
 | 01:03:00   | So under the preferences, you can say, hey, I want to show          |
 | 01:03:04   | scenes, I want to show devices, I want to show smart groups         |
@@ -1526,7 +1526,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:03:52   | There's another companion app for it called HomeBot                 |
 | 01:03:54   | for shortcuts, which allows you to do crazy home automation         |
 | 01:03:57   | stuff in shortcuts, which we'll talk about some other time.         |
-| 01:04:00   | But for me, the way I got into home control                         |
+| 01:04:00   | But for me, the way I got into [[HomeControl Menu for HomeKit\|HomeControl]]                        |
 | 01:04:03   | was, you know, URL screen support.                                  |
 | 01:04:06   | It sounds so old fashioned now, but, you know,                      |
 | 01:04:09   | back when this first came out, there wasn't                         |
@@ -1542,7 +1542,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:04:29   | that just run the URL actions and it feels like                     |
 | 01:04:34   | the most natural way to trigger home kit stuff.                     |
 | 01:04:37   | It does, it does.                                                   |
-| 01:04:39   | And so what I've done is home control for me                        |
+| 01:04:39   | And so what I've done is [[HomeControl Menu for HomeKit\|HomeControl]] for me                        |
 | 01:04:42   | only shows like devices and it only shows the devices               |
 | 01:04:45   | that I'm going to want to control because I have                    |
 | 01:04:48   | another menu bar utility, David, which allows me                    |
@@ -1597,21 +1597,21 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:06:55   | then you can just put that into a shortcut and bam,                 |
 | 01:06:57   | it'll just magically do it for you.                                 |
 | 01:06:59   | And that is developed by,                                           |
-| 01:07:01   | Pedro was also a developer of Home Control Menu and HomeBot         |
+| 01:07:01   | Pedro was also a developer of [[HomeControl Menu for HomeKit\|HomeControl]] [[MenuBot\|Menu-(Bot)]] and [[HomeBot]]         |
 | 01:07:05   | and some of the other apps that we've been talking about today.     |
 | 01:07:08   | Exactly, yeah.                                                      |
-| 01:07:10   | While we're talking about Pedro, he also makes ShareBot,            |
-| 01:07:14   | which is the, there was no share extension for shortcuts            |
+| 01:07:10   | While we're talking about Pedro, he also makes [[ShareBot]],            |
+| 01:07:14   | which is the, there was no share extension for [[Shortcuts]]            |
 | 01:07:18   | on the Mac.                                                         |
 | 01:07:19   | I don't know why.                                                   |
 | 01:07:20   | I thought we'd get it with Ventura, but we did not.                 |
-| 01:07:24   | So Pedro made a share extension for shortcuts called ShareBot       |
+| 01:07:24   | So Pedro made a share extension for shortcuts called [[ShareBot]]       |
 | 01:07:29   | and at least for another year, it's still good.                     |
 | 01:07:32   | Yeah, yeah.                                                         |
 | 01:07:34   | It's great.                                                         |
 | 01:07:35   | Honestly, go check out some of Pedro's apps because he's made       |
 | 01:07:39   | some great ones.                                                    |
-| 01:07:41   | There's all sorts there, like MakePass, making passes for           |
+| 01:07:41   | There's all sorts there, like [[MakePass]], making passes for           |
 | 01:07:45   | your Apple wallet and so on.                                        |
 | 01:07:47   | That's not strictly automation related that has shortcut support.   |
 | 01:07:51   | But yeah, go check out some of his work.                            |

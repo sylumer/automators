@@ -1221,16 +1221,16 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:36:54   | Well, full credit has to come from the lovely folks in the Automators forums. And of course,               |
 | 01:36:59   | am I going to remember the name of the person who told me about this application now? No,                 |
 | 01:37:03   | I'm just having a quick look though to see if I can find this person. No. But either                      |
-| 01:37:08   | way, there's a great app called Home Control for the Mac. And Home Control for the Mac,                   |
-| 01:37:13   | sorry, it was rich in the forums. I've just found it. And so basically, Home Control for                  |
+| 01:37:08   | way, there's a great app called [[HomeControl Menu for HomeKit\|HomeControl]] for the Mac. And [[HomeControl Menu for HomeKit\|HomeControl]] for the Mac,                   |
+| 01:37:13   | sorry, it was rich in the forums. I've just found it. And so basically, [[HomeControl Menu for HomeKit\|HomeControl]] for                  |
 | 01:37:20   | the Mac is an alternative to the home application. And it pretty much lives in my menu bar. It's          |
 | 01:37:26   | just a little home with a lightning ball on it. And I've done some customisations, so                     |
 | 01:37:29   | I don't have everything show up. So I don't have scenes show up because most of my scenes                 |
 | 01:37:34   | are generated. And frankly, I don't trigger them when I'm sitting at this Mac. And I've                   |
 | 01:37:39   | hidden, you know, I've got some, I've got some weird rooms, which aren't really rooms                     |
 | 01:37:44   | like television is a room for me because it's got a bunch of sensors on my storage cupboard               |
-| 01:37:47   | and things like that. It's just basically all sensors. But the beauty of home control                     |
-| 01:37:52   | is not just the menu bar application side of things. The beauty of home control is in                     |
+| 01:37:47   | and things like that. It's just basically all sensors. But the beauty of [[HomeControl Menu for HomeKit\|HomeControl]]                     |
+| 01:37:52   | is not just the menu bar application side of things. The beauty of [[HomeControl Menu for HomeKit\|HomeControl]] is in                     |
 | 01:37:57   | the preferences pane. But there's this little button that says automation. And to start with              |
 | 01:38:03   | you go, oh, interesting. And to start, and then you see authentication token copy and                     |
 | 01:38:09   | regenerate, that's fine. And then if you scroll down, you see documentation. And it's using               |
@@ -1238,7 +1238,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:38:20   | there's a website action and the website application opens a URL. Well, it doesn't have to open           |
 | 01:38:25   | a web URL, it can open an X callback URL. So for example, it could open a specific workspace              |
 | 01:38:31   | in [[Drafts]], which is one of the things I do at my writing profile. But that means it can                   |
-| 01:38:34   | open the home control app and run an action with it. And by doing this, I can run all                     |
+| 01:38:34   | open the [[HomeControl Menu for HomeKit\|HomeControl]] app and run an action with it. And by doing this, I can run all                     |
 | 01:38:41   | sorts of things. So I now have a home profile. And some of these things I am using the hue                |
 | 01:38:47   | triggers for because I already had that set up. And that was fine. But for things like                    |
 | 01:38:51   | the lights that sit on my desk, which usually just provide lighting so I can see things                   |
@@ -1246,7 +1246,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:39:00   | are done with IKEA Trad free smart plugs. And so I can't just do that using the hue app                   |
 | 01:39:06   | or whatever, because that's all through the IKEA hub. And maybe somebody's written an                     |
 | 01:39:10   | IKEA plug in for the Stream Deck, and I haven't found it yet. That's entirely possible, probably          |
-| 01:39:14   | probable. But, you know, I haven't found it, but home control means that I can do all of                  |
+| 01:39:14   | probable. But, you know, I haven't found it, but [[HomeControl Menu for HomeKit\|HomeControl]] means that I can do all of                  |
 | 01:39:20   | that. And I can do that locally. And that, you know, speeds things up just a little bit.                  |
 | 01:39:26   | Because of course, if you have to send a command to the hue servers, and then the hue servers             |
 | 01:39:30   | have to send that to your hue hub, and then your hue hub has to send that to your light                   |
@@ -1293,7 +1293,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:43:14   | I have to say. And, and, you know, I've hidden my sensors and so on, because I don't necessarily          |
 | 01:43:20   | need to see those on my Mac. But then I have everything else. And that is great. And I'm                  |
 | 01:43:27   | very pleased with that, I have to say, sorry, very big thanks to Rich and the other people                |
-| 01:43:32   | who've also recommended home control to me recently, because it is a great application                    |
+| 01:43:32   | who've also recommended [[HomeControl Menu for HomeKit\|HomeControl]] to me recently, because it is a great application                    |
 | 01:43:38   | that is well worth using, at the very least, just on your Mac, if you want better home                    |
 | 01:43:43   | control. But if you want automation as well, it's even better.                                            |
 | 01:43:47   | Yeah. So the way I implemented it was the lights around my studio desk are, are there's                   |

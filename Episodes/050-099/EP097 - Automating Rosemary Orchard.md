@@ -892,7 +892,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:10:22   | [[Safari]] extensions on the Mac, which have been solving a number of different problems for me.             |
 | 01:10:28   | So one of them is, and I'm now going to get this wrong because it's gone and hidden from me,             |
 | 01:10:33   | the name of the application. It's the little house with the lightning icon in it in my menu bar,         |
-| 01:10:38   | and it's called Home Control. That's one. And Home Control gives me all of the devices, scenes,          |
+| 01:10:38   | and it's called [[HomeControl Menu for HomeKit\|HomeControl]]. That's one. And [[HomeControl Menu for HomeKit\|HomeControl]] gives me all of the devices, scenes,          |
 | 01:10:45   | groups, smart group, sensors, etc. from [[HomeKit]] in my menu bar so that when I click on it,               |
 | 01:10:52   | I can see all of those things. I should mention that [[Home Assistant]] does also have an application        |
 | 01:10:57   | for the Mac, and that's good. It works really well and it gets a bunch of sensors into it,               |
