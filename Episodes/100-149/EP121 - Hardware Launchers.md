@@ -755,7 +755,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 42:16      | I really like it.                                                                                      |
 | 42:17      | I found it's actually very useful, portable macro pad slash dedicated hardware controller.             |
 | 42:25      | So this is the thing about being friends with Rosemary guys, occasionally she'll just send             |
-| 42:29      | you a picture of something like one of these Xencelabs Quick Keys on her desk.                        |
+| 42:29      | you a picture of something like one of these [[Xencelabs Quick Keys]] on her desk.                        |
 | 42:35      | And then it's so tempting.                                                                             |
 | 42:37      | In fact, you sent me the picture of this thing, and I'm like, do I need this?                          |
 | 42:42      | And we never followed up on it.                                                                        |
@@ -908,7 +908,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 51:14      | So good.                                                                                               |
 | 51:15      | And then what apps are you using all these features in?                                                |
 | 51:20      | So it really depends, but on my desk, I have my keyboard in the middle.                                |
-| 51:24      | I have the Xencelabs Quick Keys immediately to the left of that.                                       |
+| 51:24      | I have the [[Xencelabs Quick Keys]] immediately to the left of that.                                       |
 | 51:27      | And I have this left again.                                                                            |
 | 51:29      | And this is, you know, I actually use it sometimes for just scrolling up and down web pages because     |
 | 51:33      | it means that I can be, you know, like, you know, often picking up a glass of water with               |
@@ -930,7 +930,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 52:13      | It's got escape, shift, control and option.                                                            |
 | 52:16      | It doesn't have a command key, isn't the word command because this is predominantly aimed              |
 | 52:20      | at Windows and Linux users, but I'm not sure the software works on Linux, but either way,              |
-| 52:25      | there's quick keys on the right, which are designed for like resetting your views or like              |
+| 52:25      | there's [[Xencelabs Quick Keys]] on the right, which are designed for like resetting your views or like              |
 | 52:30      | toggling rotation on and off or something.                                                             |
 | 52:33      | And then there's four buttons at the top, which are macro buttons.                                     |
 | 52:36      | So yeah, you've got that, but those other buttons around the side are actually programmable.           |
