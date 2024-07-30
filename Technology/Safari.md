@@ -28,6 +28,7 @@ Safari is Apple's native web browser application. Safari therefore integrates de
 - Safari supports automation via [[AppleScript]] and [[Shortcuts]], but support for the latter can vary by platform.
 - Between 2007 and 2010, Apple also distributed Safari for Windows, but ceased updates in 2012.
 - The core engine for Safari is known as [[WebKit]].
+- The test version of Safari is known as [[Safari Technology Preview]].
 
 # Links
 
