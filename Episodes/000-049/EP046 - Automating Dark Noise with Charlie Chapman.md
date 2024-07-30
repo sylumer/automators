@@ -466,7 +466,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 24:26      | I mean, it has to because if you go to delete one somewhere in their code, they have to                   |
 | 24:28      | be saying which one they're deleting.                                                                     |
 | 24:30      | And I also do have, I have a couple in here too that are Google docs.                                     |
-| 24:35      | And so that's just, you know, the URL as text and then open up that in Safari.                            |
+| 24:35      | And so that's just, you know, the URL as text and then open up that in [[Safari]].                            |
 | 24:39      | Yeah.                                                                                                     |
 | 24:40      | That's, I didn't, I guess that's really the only way to do that, but that's a cool shortcut.              |
 | 24:44      | So it's a very simple one.                                                                                |
@@ -528,7 +528,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 27:26      | launch cuts on my home screen because with the folders inside of that, I don't feel like                  |
 | 27:30      | I need to throw everything on my home screen and that runs pretty cleanly as well.                        |
 | 27:34      | And I'm, I'm a big fan.                                                                                   |
-| 27:36      | I remember back in the days where putting shortcuts on your home screen would open Safari                 |
+| 27:36      | I remember back in the days where putting shortcuts on your home screen would open [[Safari]]                 |
 | 27:39      | before it then open shortcuts.                                                                            |
 | 27:42      | That was so enough on, and it felt like it was a lot of work every time.                                  |
 | 27:46      | So I'm really pleased that there are better options now, but I still feel that today view                 |
@@ -585,7 +585,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 31:25      | So what I would do is I would ask for text for the title of the episode, and then it                      |
 | 31:34      | would ask for text for the URL of the episode, and then it would first, so whenever I built               |
 | 31:44      | this to age it, I guess, was when Mastodon was definitely going to become very popular.                   |
-| 31:49      | So it would first open up a Safari web view with the Mastodon posting page, which you                     |
+| 31:49      | So it would first open up a [[Safari]] web view with the Mastodon posting page, which you                     |
 | 32:00      | could automate through query string parameters to automatically fill in what the actual post              |
 | 32:08      | would be.                                                                                                 |
 | 32:09      | And so it would just have the title of the episode, oh, it would also ask for the description.            |

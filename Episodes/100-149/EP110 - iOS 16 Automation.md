@@ -638,7 +638,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 50:54      | Yeah. Yeah. I'm very impressed with reminders. The team there have been working really hard              |
 | 51:00      | into making it into a really good task management app that is still simple. So yeah,                     |
 | 51:06      | just get those templates and shortcuts for me. And I'll give it another whirl.                           |
-| 51:09      | What about Safari? What are you excited about with new actions in Safari?                                |
+| 51:09      | What about [[Safari]]? What are you excited about with new actions in [[Safari]]?                                |
 | 51:13      | Tab groups. We got tab groups. So you can create a tab group. You can open a tab group.                  |
 | 51:18      | And of course, tab groups are linked into the focus modes, filters, which we'll get to in a              |
 | 51:24      | future episode. But it's just really great that tab groups have shortcut support now.                    |
@@ -650,7 +650,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 51:58      | and there's a little alcove area in there with some shelves. So I'm putting in integrated                |
 | 52:01      | lighting, of course. But this is me. It's smart lighting, of course it is. So I've got links to          |
 | 52:08      | some of the things for stuff like that. And I'm just able to put it all into a tab group really          |
-| 52:12      | easily. And now I can actually create and open those tab groups with specific Safari actions,            |
+| 52:12      | easily. And now I can actually create and open those tab groups with specific [[Safari]] actions,            |
 | 52:18      | which means that I have a home screen right now set up for that week off with,                           |
 | 52:25      | it's got a widget for my playlist and so on. And then it's also got some                                 |
 | 52:30      | shortcut actions to take me right to specific focus modes or filters. And that includes tab              |
@@ -676,9 +676,9 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 54:23      | bookmark as shortcuts actions, which allows me to now have a single action shortcut that just opens      |
 | 54:30      | a specific bookmark so that I can, you know, go to whatever it is that I need. And of course,            |
 | 54:37      | you can also close tabs and find tabs and, and all of that. So I'm, you know, this is,                   |
-| 54:44      | this is really good work from the Safari team. I'm really impressed. They've                             |
+| 54:44      | this is really good work from the [[Safari]] team. I'm really impressed. They've                             |
 | 54:47      | snuck in a couple of features that I hadn't realised were there. And you can also toggle                 |
-| 54:52      | like a read of you now in Safari, which is great. So yeah, I'm just, I'm loving it. It's so good.        |
+| 54:52      | like a read of you now in [[Safari]], which is great. So yeah, I'm just, I'm loving it. It's so good.        |
 | 54:59      | And like browser setups and contexts are things I've historically done in [[Keyboard Maestro]],              |
 | 55:04      | which tied me to the Mac. And now with these tools coming in, I can actually rewrite these               |
 | 55:09      | into shortcuts and use them on an iPad or a phone or Mac, you know, I can use them on any device         |
@@ -687,9 +687,9 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 55:25      | they snuck in another one, David, find tab groups. I can get a list of all of my tab groups. This is     |
 | 55:30      | great. Yeah, I don't know. Like maybe it just appeared in the latest beta. But who knows,                |
 | 55:39      | there's probably going to be another beta while we're recording this knowing my luck.                    |
-| 55:42      | But, you know, that, that's really good. I just wish Safari and Safari technology preview had            |
+| 55:42      | But, you know, that, that's really good. I just wish [[Safari]] and [[Safari Technology Preview]] had            |
 | 55:47      | the same tab groups that tripped me up the other day. I was trying to find a tab group that I            |
-| 55:50      | created. And I realised it was in Safari technology preview instead of Safari and was able to get it     |
+| 55:50      | created. And I realised it was in [[Safari Technology Preview]] instead of [[Safari]] and was able to get it     |
 | 55:56      | on my other Mac, fortunately, but I wasn't able to get it on my iPhone. I might have to file some        |
 | 56:01      | feedback about that and ask if we can share the folks, share our tab groups. But yeah, there's           |
 | 56:07      | so many cool new actions here. I'm really glad I've just pulled this up. I've got my iOS 15 push cut     |

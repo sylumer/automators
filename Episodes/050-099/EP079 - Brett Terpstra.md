@@ -535,7 +535,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 27:56      | Yeah.                                                                                                |
 | 27:57      | I love this.                                                                                         |
 | 27:58      | I'm using it.                                                                                        |
-| 27:59      | So Google Docs works fine in Safari on the Mac.                                                      |
+| 27:59      | So Google Docs works fine in [[Safari]] on the Mac.                                                      |
 | 28:01      | There's no problem with it, but I like the fact that it's then in a Chrome window because            |
 | 28:06      | then I have [[Moom]] put Chrome in a certain spot, and I do the same thing with Firefox when             |
 | 28:12      | I'm recording automators, I open it in Firefox.                                                      |
@@ -544,7 +544,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 28:19      | It probably isn't.                                                                                   |
 | 28:20      | I should probably change that at some point, but for the time being, I'm opening things              |
 | 28:23      | in Firefox and Chrome, and then [[Moom]] knows that, okay, Firefox goes over here, Chrome                |
-| 28:29      | goes over here, Safari goes over there on the other side, and it gets resized much smaller,          |
+| 28:29      | goes over here, [[Safari]] goes over there on the other side, and it gets resized much smaller,          |
 | 28:34      | and I really like that.                                                                              |
 | 28:35      | I have another basic concept that we really should tell people about.                                |
 | 28:41      | And this developed early on in Bunch, but there's this idea of toggling Bunches.                     |

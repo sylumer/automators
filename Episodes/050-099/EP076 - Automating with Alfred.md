@@ -414,7 +414,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 30:50      | or two options, ignore clipboard data marked as concealed and ignore clipboard data marked as            |
 | 30:55      | also generated. That means that it's not going to copy any passwords or anything that you,               |
 | 31:01      | you have if you try and copy them. And, and stuff that's also generated. So things like                  |
-| 31:07      | safari's form filler, it's not going to copy that stuff. There are also specific options to              |
+| 31:07      | [[Safari\|Safari's]] form filler, it's not going to copy that stuff. There are also specific options to              |
 | 31:12      | ignore apps. And by default, it ignores keychain, security agent, 1Password and your wallet.          |
 | 31:19      | All of which good apps to ignore, you don't necessarily want that data in your clipboard                 |
 | 31:23      | history floating around. Because I've found a couple of recalcitrant apps won't let me fill              |
@@ -659,19 +659,19 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 53:45      | Yeah. But those web searches, I think, are a killer feature. And one again, I think a lot                |
 | 53:51      | of people aren't aware of and don't use. And so use the built-in ones. But if you're                     |
 | 53:58      | currently or constantly going to a single website for searches, just build it into [[Alfred]]. You can       |
-| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open Safari, Firefox, Chrome,      |
+| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], Firefox, Chrome,      |
 | 54:11      | Edge, whatever your browsers of choice, press command L, and then type it in and then search             |
 | 54:18      | for it. Instead, you just come on space to [[Alfred]], type your search query, done. And I find that to      |
 | 54:25      | be insanely useful. And you want to talk about contacts? Well, before we talk about contacts,            |
 | 54:31      | David, I think I teased people just now. I think we should talk about bookmarks a minute.                |
 | 54:35      | All right. Let's do that. Because web bookmarks are something, so if you're a Firefox user,              |
-| 54:41      | I am afraid you're out of luck here. [[Alfred]] only integrates with bookmarks in Safari and Chrome.         |
+| 54:41      | I am afraid you're out of luck here. [[Alfred]] only integrates with bookmarks in [[Safari]] and Chrome.         |
 | 54:48      | But basically what this means is you can turn on searching your bookmarks. So obviously,                 |
-| 54:54      | in the bookmarks of Safari, that's my browser of choice, I actually use Safari Technology Preview,       |
-| 55:00      | but it integrates via Safari, so it's fine. If I search for automators, then as well as                  |
+| 54:54      | in the bookmarks of [[Safari]], that's my browser of choice, I actually use [[Safari Technology Preview]],       |
+| 55:00      | but it integrates via [[Safari]], so it's fine. If I search for automators, then as well as                  |
 | 55:07      | all of the other things on my computer that come back with automators, I also see results that say,      |
-| 55:13      | automators form. And when I open it, it opens Safari and goes to talk.automators.fm. Because             |
-| 55:20      | I've turned on, and this is the fifth option down in features, sources, Safari bookmarks,                |
+| 55:13      | automators form. And when I open it, it opens [[Safari]] and goes to talk.automators.fm. Because             |
+| 55:20      | I've turned on, and this is the fifth option down in features, sources, [[Safari]] bookmarks,                |
 | 55:27      | under web bookmarks. And I have my bookmarks show in the default results because I don't                 |
 | 55:33      | bookmark many things. I'm very selective about my bookmarks. I do not use my bookmarks as a              |
 | 55:38      | relater service. If you do use your bookmarks as a relater service, then you may not want to use         |

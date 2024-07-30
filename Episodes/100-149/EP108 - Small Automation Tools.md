@@ -1037,7 +1037,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 41:44      | for podcasting and then it, it figures out which podcast            |
 | 41:47      | I'm recording.                                                      |
 | 41:48      | It looks at my calendar and it tells me, hey,                       |
-| 41:49      | you're recording XYZ podcast and then it sets the Safari tab        |
+| 41:49      | you're recording XYZ podcast and then it sets the [[Safari]] tab        |
 | 41:54      | group to whichever, you know, one is appropriate.                   |
 | 41:57      | I have ones for each podcast.                                       |
 | 41:58      | So I don't have to have a focus mode per podcast.                   |
@@ -1184,15 +1184,15 @@ In this episode, Rose and David explain some of their favourite small automation
 | 48:41      | That's TextExpander.com/automators to say goodbye to         |
 | 48:46      | repetitive typing and our thanks to TextExpander for their        |
 | 48:49      | support of the automators.                                          |
-| 48:52      | So David, something else near and dear to my heart is Safari        |
+| 48:52      | So David, something else near and dear to my heart is [[Safari]]        |
 | 48:57      | extensions.                                                         |
 | 48:58      | You know, Firefox and Chrome have had loads of extensions           |
-| 49:01      | for ages, but I find Safari is so performant on my Mac and          |
+| 49:01      | for ages, but I find [[Safari]] is so performant on my Mac and          |
 | 49:06      | great at not eating my battery life.                                |
 | 49:08      | You know, the fastest way to run down a Mac's battery is to         |
 | 49:10      | open Chrome, probably with [[Slack]] or something.                      |
 | 49:14      | And then, you know, what is battery life?                           |
-| 49:17      | But Safari has for a while been, you know, it kind of               |
+| 49:17      | But [[Safari]] has for a while been, you know, it kind of               |
 | 49:22      | struggled with extensions.                                          |
 | 49:24      | There weren't really extensions and then there were extensions      |
 | 49:27      | and then they all went away again because the underneath            |
@@ -1200,13 +1200,13 @@ In this episode, Rose and David explain some of their favourite small automation
 | 49:32      | back and extensions are everywhere and there are some               |
 | 49:36      | really great ones out there.                                        |
 | 49:38      | Yeah, I've always felt like we've been sitting on the               |
-| 49:40      | sideline of this as Safari users, we don't get the best             |
+| 49:40      | sideline of this as [[Safari]] users, we don't get the best             |
 | 49:44      | extensions, but there are some nice ones.                           |
-| 49:47      | OM Save for Safari.                                                 |
+| 49:47      | OM Save for [[Safari]].                                                 |
 | 49:49      | Yeah, OM Save as in save to OmniFocus with my custom setup          |
 | 49:54      | that is just how I want.                                            |
 | 49:56      | Do you want like a an image of the web page included in             |
-| 50:00      | in your saved thing from Safari?                                    |
+| 50:00      | in your saved thing from [[Safari]]?                                    |
 | 50:03      | You can do that with OM Save.                                       |
 | 50:05      | You can have it automatically go to a certain folder,               |
 | 50:07      | certain tags, etc.                                                  |
@@ -1216,7 +1216,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 50:20      | you right click and it's available under services,                  |
 | 50:23      | but services menu kind of goes away sometime.                       |
 | 50:25      | So OmniFocus may or may not be there.                               |
-| 50:28      | OM Save is just always in your Safari menu bar and it's a           |
+| 50:28      | OM Save is just always in your [[Safari]] menu bar and it's a           |
 | 50:31      | one button thing.                                                   |
 | 50:32      | You click it and it opens, you know, your OmniFocus input           |
 | 50:36      | capture with the data that you have prefilled and then              |
@@ -1228,7 +1228,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 50:52      | Yeah.                                                               |
 | 50:52      | Yeah.                                                               |
 | 50:53      | It's nice having a little save to OmniFocus button in               |
-| 50:56      | your, in your Safari browser, because there's a lot of              |
+| 50:56      | your, in your [[Safari]] browser, because there's a lot of              |
 | 50:59      | stuff at least for my life that ends up in OmniFocus in             |
 | 51:03      | one form or another.                                                |
 | 51:05      | And I agree.                                                        |
@@ -1298,7 +1298,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 53:54      | Awesome screen.                                                     |
 | 53:55      | Yeah.                                                               |
 | 53:55      | Yeah.                                                               |
-| 53:56      | Cause if you take a screenshot in Safari on, um, iOS,               |
+| 53:56      | Cause if you take a screenshot in [[Safari]] on, um, iOS,               |
 | 54:00      | so that's iPhone or iPad, um, then it will give you                 |
 | 54:03      | an option, um, at the top and you kind of have to                   |
 | 54:06      | look for it, uh, to, to know where, where it is.                    |
@@ -1328,7 +1328,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 55:03      | I am familiar with this one, but I'm going to let                   |
 | 55:05      | you tell everyone about it, David.                                  |
 | 55:06      | Okay.                                                               |
-| 55:07      | So it's a safari extension.                                         |
+| 55:07      | So it's a [[Safari]] extension.                                         |
 | 55:10      | Um, the stop sites from making your browser harder                  |
 | 55:13      | to use, you know, um, you know, when you get all                    |
 | 55:18      | these, these pop-up warnings, it starts to make you                 |
@@ -1357,7 +1357,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 56:16      | weird, horrible custom video players that you don't                 |
 | 56:20      | want because you just want the iOS or the Mac OS                    |
 | 56:22      | defaults vinegar and baking soda.                                   |
-| 56:24      | Um, there, there are two separate safari extensions                 |
+| 56:24      | Um, there, there are two separate [[Safari]] extensions                 |
 | 56:28      | that you can get iOS and Mac OS, um, and, um, the,                  |
 | 56:32      | the, the bundles, the water bundle, because that's                  |
 | 56:35      | what happens if you, you mix vinegar and baking soda.               |
@@ -1386,8 +1386,8 @@ In this episode, Rose and David explain some of their favourite small automation
 | 57:34      | for a while, um, because he, you know, I just                       |
 | 57:38      | hadn't really considered it one.                                    |
 | 57:40      | And then he reminded me that it can create different                |
-| 57:43      | links for Safari page, depending on which page you're on.           |
-| 57:47      | So URL linker, you just right click on a page in Safari             |
+| 57:43      | links for [[Safari]] page, depending on which page you're on.           |
+| 57:47      | So URL linker, you just right click on a page in [[Safari]]             |
 | 57:50      | and then you get your, your different options to, well,             |
 | 57:53      | we'll link the page.                                                |
 | 57:54      | Um, and you know, you can set it up for copy as                     |
@@ -1415,14 +1415,14 @@ In this episode, Rose and David explain some of their favourite small automation
 | 58:52      | the tweet, um, or whatever it is.                                   |
 | 58:55      | I hate that.                                                        |
 | 58:56      | Everybody hates that because are you looked into                    |
-| 58:58      | Twitter and Safari?                                                 |
+| 58:58      | Twitter and [[Safari]]?                                                 |
 | 58:59      | No, you have an app for that.                                       |
 | 59:01      | Well, uh, every app developer who, um, works, you                   |
 | 59:05      | know, creates a Twitter app, every app developer who                |
 | 59:07      | creates a Reddit app and I'm sure plenty of others                  |
 | 59:09      | out there have added these great open in features.                  |
 | 59:12      | So it, it's kind of bouncy in that you open the link                |
-| 59:16      | and it takes you to Safari and the Safari redirects                 |
+| 59:16      | and it takes you to [[Safari]] and the [[Safari]] redirects                 |
 | 59:18      | you to whichever application it is that you have set                |
 | 59:21      | up, but it also works and it works really well.                     |
 | 59:24      | So I no longer have the horrible experience of a friend             |
@@ -1433,11 +1433,11 @@ In this episode, Rose and David explain some of their favourite small automation
 | 59:36      | Thanks, Twitter.                                                    |
 | 59:37      | So I tap the Twitter link.                                          |
 | 59:38      | It opens Twitter and I see a login screen.                          |
-| 59:42      | I get instead, uh, it opens Safari, which then sends                |
+| 59:42      | I get instead, uh, it opens [[Safari]], which then sends                |
 | 59:45      | me over to Tweetbot and I then see the tweet properly               |
 | 59:48      | in Tweetbot full context with everything.                           |
 | 59:51      | Um, and that is my, my preferred way of doing things.               |
-| 59:55      | So if you don't have those Safari extensions enabled,               |
+| 59:55      | So if you don't have those [[Safari]] extensions enabled,               |
 | 59:58      | you can do this on Mac OS and iOS, then, then just                  |
 | 01:00:01   | enable those so that you then, uh, get, you know,                   |
 | 01:00:04   | redirected to the, the app of your choice, um, which                |

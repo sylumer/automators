@@ -1068,7 +1068,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 46:43      | which happens every once in a while.                               |
 | 46:45      | Yeah, so typically, I will go ahead and publish it,                |
 | 46:49      | and then it's out there for the world,                             |
-| 46:50      | and then I go look at it in Safari, and I see,                     |
+| 46:50      | and then I go look at it in [[Safari]], and I see,                     |
 | 46:55      | oh, that's not good, and I go back and I tweak it,                 |
 | 46:58      | and of course, I don't find everything,                            |
 | 47:01      | but I tweak it to at least the mistakes that I find,               |
@@ -1135,7 +1135,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 49:56      | in the other half of split screen,                                 |
 | 50:00      | where I'm going through the various images                         |
 | 50:03      | that I'm gonna put in the post,                                    |
-| 50:05      | or I have Safari open in the other one,                            |
+| 50:05      | or I have [[Safari]] open in the other one,                            |
 | 50:07      | which is where the links are gonna be.                             |
 | 50:10      | So you haven't yet really replaced transit?                        |
 | 50:13      | I have been using File Explorer and File Browser,                  |

@@ -339,7 +339,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 19:01      | Hand to heart over the weekend, my wife said, I think I need to learn about shortcuts.               |
 | 19:10      | She was doing something with her work where she had to go to these two websites every                |
 | 19:14      | day and she's like, it's such a pain.                                                                |
-| 19:15      | I'm like, oh, you could just write a little shortcut script and it would open it in Safari           |
+| 19:15      | I'm like, oh, you could just write a little shortcut script and it would open it in [[Safari]]           |
 | 19:20      | for you.                                                                                             |
 | 19:21      | And she's like, okay, it's time for me to learn about shortcuts.                                     |
 | 19:23      | And I said, well, I happen to have a field guide you can watch.                                      |
@@ -1529,7 +1529,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:36:58   | browser.                                                                                             |
 | 01:36:59   | But it's also quite useful to use that as a way to learn JavaScript, because you just                |
 | 01:37:06   | need a browser.                                                                                      |
-| 01:37:07   | Firefox or Chrome are probably best as much as I love Safari, Safari's developer tools.              |
+| 01:37:07   | Firefox or Chrome are probably best as much as I love [[Safari]], [[Safari\|Safari's]] developer tools.              |
 | 01:37:12   | Don't have things in the same place that a lot of tutorials will tell you where to find              |
 | 01:37:16   | them, but they will have them for Firefox and Chrome, but they'll tell you where it                  |
 | 01:37:21   | is in Firefox and Chrome, which is useful.                                                           |

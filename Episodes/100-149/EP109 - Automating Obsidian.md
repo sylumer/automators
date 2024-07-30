@@ -2096,11 +2096,11 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:29   | does tend to work best in Chrome and also                                                          |
 | 01:18:31   | [[Keyboard Maestro]] can really easily find                                                            |
 | 01:18:33   | the only Chrome window that exists whereas                                                         |
-| 01:18:35   | I have like 304 Safari windows and if                                                              |
+| 01:18:35   | I have like 304 [[Safari]] windows and if                                                              |
 | 01:18:37   | I've moved away from the show notes for                                                            |
 | 01:18:39   | whatever reason to get a link to put in the                                                        |
 | 01:18:41   | show notes for example                                                                             |
-| 01:18:43   | and I'll do that in Safari so it'll open                                                           |
+| 01:18:43   | and I'll do that in [[Safari]] so it'll open                                                           |
 | 01:18:45   | all of the apps that I need [[Audio Hijack]]                                                           |
 | 01:18:47   | and so on but                                                                                      |
 | 01:18:49   | because it can just open a URL                                                                     |

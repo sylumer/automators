@@ -181,7 +181,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 05:22      | to update content whenever there was new content.                 |
 | 05:26      | So I just made a really quick keyboard Maestro shortcut           |
 | 05:29      | and I could have done it in shortcuts for Mac,                    |
-| 05:31      | but I did it in [[Keyboard Maestro]] and it opens Safari              |
+| 05:31      | but I did it in [[Keyboard Maestro]] and it opens [[Safari]]              |
 | 05:35      | and it opens three tabs, you know,                                |
 | 05:37      | the three tabs I need to use,                                     |
 | 05:39      | but it also opens up the Memberful page                           |
@@ -1489,12 +1489,12 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 59:48      | That is great.                                                    |
 | 59:49      | I am really glad that they're adding things like that.            |
 | 59:51      | And I really hope, you know,                                      |
-| 59:53      | the Safari team pops along and goes,                              |
+| 59:53      | the [[Safari]] team pops along and goes,                              |
 | 59:55      | oh, hang on a minute, we could do this.                           |
-| 59:58      | Let's, let's put some stuff in Safari technology preview,         |
+| 59:58      | Let's, let's put some stuff in [[Safari Technology Preview]],         |
 | 01:00:01   | give people some earlier access to things.                        |
 | 01:00:04   | And then bam, we get some new actions next time                   |
-| 01:00:07   | Safari updates as part of Mac OS or independently.                |
+| 01:00:07   | [[Safari]] updates as part of Mac OS or independently.                |
 | 01:00:11   | And [[Xcode]], you know, [[Xcode]] could add some actions.                |
 | 01:00:14   | So be nice, you know, it would be a really great                  |
 | 01:00:18   | to see buy-in from internal Apple software developers             |

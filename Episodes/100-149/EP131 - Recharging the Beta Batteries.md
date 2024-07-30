@@ -458,31 +458,31 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 27:33      | betas and so on as well as I don't always go back and check, and I try to have a list                   |
 | 27:38      | of things that I want to go back and check, but I don't always remember.                                |
 | 27:42      | One of the things that I've noticed is missing in particular is they threw this in as part              |
-| 27:49      | of the sort of announcement at the WWE's EC keynote that Safari on macOS is getting profiles,           |
+| 27:49      | of the sort of announcement at the [[WWDC]] keynote that [[Safari]] on macOS is getting profiles,           |
 | 27:57      | so you'll be able to have a work profile and a personal profile allowing you to be logged               |
 | 28:00      | in to say two Google accounts at the same time.                                                         |
 | 28:03      | Lovely idea, 10 out of 10 in favor of that.                                                             |
 | 28:06      | This is in addition to tab groups, so I'm there going, brilliant, love it, and yeah,                    |
 | 28:14      | you guessed it, folks.                                                                                  |
 | 28:16      | There's no shortcut sections for this, this is an AppleScript, this is nothing, and it's               |
-| 28:20      | just one of those things of like, I just wanted the support for that because Safari on Mac              |
-| 28:28      | is unfortunately liking behind Safari on iOS and iPadOS with regards to shortcut sections,              |
+| 28:20      | just one of those things of like, I just wanted the support for that because [[Safari]] on Mac              |
+| 28:28      | is unfortunately liking behind [[Safari]] on iOS and iPadOS with regards to shortcut sections,              |
 | 28:34      | and it's just one of those things of, you know, if they brought out the shortcut sections               |
 | 28:38      | with new stuff without bringing it in for the old stuff, I would still have been a grumpy,              |
-| 28:42      | but like there's just no shortcut sections for Safari on macOS, at least no new ones,                   |
+| 28:42      | but like there's just no shortcut sections for [[Safari]] on macOS, at least no new ones,                   |
 | 28:47      | and they haven't been in a while, and it's just I would really like to see those sooner                 |
 | 28:50      | rather than later.                                                                                      |
 | 28:51      | Yes, and like selecting a tab group, which is, I talked about this two weeks ago on                     |
 | 28:57      | the show, I just don't understand how the action exists on the iPhone and the iPad.                     |
 | 29:06      | It would make these types of setup scripts I write so much easier if I could say, and                   |
-| 29:10      | open Safari and give me all the tabs to do this thing, and you can do that manually.                    |
+| 29:10      | open [[Safari]] and give me all the tabs to do this thing, and you can do that manually.                    |
 | 29:16      | You can tell it, open this up, but when you have tab groups and they're already all set                 |
 | 29:20      | up for you, wouldn't it be easier just to say open up the tab group for writing a sales                 |
 | 29:25      | proposal or, you know, scheduling the soccer game?                                                      |
 | 29:29      | It really would, and I have a feeling, you know, because reminders and notes, for example,              |
 | 29:34      | have the same actions across iOS and iPadOS and macOS, and I love that, that's great.                   |
 | 29:40      | I have a feeling that the real reason for that is underneath notes and reminders got                    |
-| 29:45      | a rewrite on macOS, and they are now the same app, where Safari is still two separate animals           |
+| 29:45      | a rewrite on macOS, and they are now the same app, where [[Safari]] is still two separate animals           |
 | 29:51      | on iOS and macOS, making that sort of thing much more complicated.                                      |
 | 29:56      | And if you remember back a few years, the Things app would have things for iPhone actions               |
 | 30:01      | and things for iPad actions and things for Mac actions.                                                 |
@@ -494,8 +494,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 30:26      | as well, worked together to figure out a way that you could then get everything together                |
 | 30:32      | so that those same actions, you know, the add tasks to things or whatever the equivalent                |
 | 30:38      | would be, can be the same action across platforms.                                                      |
-| 30:41      | Clearly, the Safari team are taking advantage of this to an extent, but I don't know if                 |
-| 30:45      | it's just that the Safari for Mac team are totally overwhelmed with everything else                     |
+| 30:41      | Clearly, the [[Safari]] team are taking advantage of this to an extent, but I don't know if                 |
+| 30:45      | it's just that the [[Safari]] for Mac team are totally overwhelmed with everything else                     |
 | 30:48      | that they've got to do, or just the underlying infrastructure is there to support doing this            |
 | 30:55      | kind of automation on Mac, or maybe they just think that people don't want it on the Mac,               |
 | 30:59      | and therefore they're not investing the time in it, in which case I feel like it's kind                 |
@@ -512,7 +512,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 31:36      | that you do there will just work.                                                                       |
 | 31:38      | Because at the moment, like, it's so close to there, but it's not quite.                                |
 | 31:42      | Well, I would encourage you that if you are using the betas and the ability to choose                   |
-| 31:47      | tab groups or switch between user modes on Safari is something you'd like to do on your                 |
+| 31:47      | tab groups or switch between user modes on [[Safari]] is something you'd like to do on your                 |
 | 31:51      | Mac, submit feedback.                                                                                   |
 | 31:54      | You know, I think the more they hear that, the more likely it is to get some engineering                |
 | 31:58      | time.                                                                                                   |
@@ -875,7 +875,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 54:01      | I mean, they, they just need to do more.                                                                |
 | 54:03      | I feel like Notes is probably the best, uh, Apple app with automation in terms of the                   |
 | 54:08      | productivity spear, but like, uh, Apple Mail and reminders and some of their other, like                |
-| 54:14      | we talked earlier about Safari.                                                                         |
+| 54:14      | we talked earlier about [[Safari]].                                                                         |
 | 54:16      | I just feel like there, there's, there's more work to be done there.                                    |
 | 54:20      | Yes.                                                                                                    |
 | 54:21      | Yeah.                                                                                                   |

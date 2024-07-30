@@ -304,7 +304,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 16:05      | So that's the thing that I like it for. And again, I like it for very small things.                      |
 | 16:08      | Email addresses, because I don't have all of them in contacts. And so they're not always                 |
 | 16:13      | auto suggested to me, like I want them to be. And sometimes the web page doesn't know any better.        |
-| 16:18      | So like, Safari can't tell that it's something that wants contact information. So I don't always         |
+| 16:18      | So like, [[Safari]] can't tell that it's something that wants contact information. So I don't always         |
 | 16:23      | even get the option to fill in that field with an email address. So being able to have something         |
 | 16:28      | like that where my email address is easily enterable correctly. And I know it's right,                   |
 | 16:35      | even though I didn't type it because I typed it right once, when I set it up in TextExpander,           |
@@ -330,7 +330,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 18:28      | it can't do it if it doesn't know that the field that you're typing into is an email field, or           |
 | 18:33      | something. I have one recently, I was trying to sign up for something, neither the email field nor       |
 | 18:38      | the password field were marked as such. So iOS just couldn't suggest that I use 1Password for and     |
-| 18:44      | actually the 1Password Safari extension wasn't working either. And so yeah, I ended up split          |
+| 18:44      | actually the 1Password [[Safari]] extension wasn't working either. And so yeah, I ended up split          |
 | 18:50      | screening on my iPad to deal with that, which was not great. But at the very least, you know, I could    |
 | 18:56      | use my expansions to type in my email address, I just needed to use 1Password to generate the         |
 | 19:01      | password. Kelly, how do you trigger your snippets on mobile? A lot of people don't know how to do        |
@@ -533,12 +533,12 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 38:31      | moment that we intend to do them. Technology is not there yet, and maybe it never will be,               |
 | 38:35      | and maybe that's for the best, but certainly it's got a long way to go before it figures all this        |
 | 38:40      | out. I know the recent thing that comes to mind is the shared with you stuff, where you know,            |
-| 38:48      | somebody sent me a picture in a message or something, and I open Safari, and Safari is going,            |
+| 38:48      | somebody sent me a picture in a message or something, and I open [[Safari]], and [[Safari]] is going,            |
 | 38:53      | hey, this was shared with you. And it's like, cool. Yeah. But I tapped on that in messages,              |
 | 38:58      | and I've already seen it. I've seen it already. Yeah. Like, how are you still suggesting this            |
 | 39:03      | to me? I've already seen it and read it. We're good. We're done. I have like news stories from a         |
 | 39:08      | week or more ago, you know, somebody sends me a link to something, and it's still like,                  |
-| 39:12      | I opened a new tab in Safari, and it's still there. Like, hi. I'm like, yeah, we've done this.          |
+| 39:12      | I opened a new tab in [[Safari]], and it's still there. Like, hi. I'm like, yeah, we've done this.          |
 | 39:17      | Yeah. Yeah. Been there, done that. Don't really want it again. But also, I don't actually want           |
 | 39:23      | to delete it from my messages history, because it's part of the conversation. It's nice to               |
 | 39:28      | be able to go back and attribute that to the right person when you're remembering things,                |

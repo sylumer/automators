@@ -1050,7 +1050,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 54:36      | Yeah, I do tabs with the swipes.                                                                      |
 | 54:39      | That way.                                                                                             |
 | 54:40      | Yeah.                                                                                                 |
-| 54:41      | So, you know, it's always a pain when you're in Safari or even Chrome and you have another            |
+| 54:41      | So, you know, it's always a pain when you're in [[Safari]] or even Chrome and you have another            |
 | 54:45      | tab you want to get to and using these gestures.                                                      |
 | 54:48      | It's so much better than trying to find a touch target with your mouse and clicking.                  |
 | 54:52      | It's not even close.                                                                                  |
@@ -1075,7 +1075,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 55:58      | And nothing was happening.                                                                            |
 | 55:59      | And this was very confusing.                                                                          |
 | 56:00      | And I was like, ah, I'm missing [[BetterTouchTool]] because I use three finger tap as a middle          |
-| 56:05      | click, which in Chrome, Safari, Firefox will open a link in a new tab.                                |
+| 56:05      | click, which in Chrome, [[Safari]], Firefox will open a link in a new tab.                                |
 | 56:12      | And very basic one.                                                                                   |
 | 56:15      | Do you use PopClip?                                                                                  |
 | 56:16      | Yeah.                                                                                                 |

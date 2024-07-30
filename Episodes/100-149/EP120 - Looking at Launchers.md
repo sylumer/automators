@@ -180,7 +180,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 08:03      | for iOS today, which is the one I wanted, but I have to press the down key four times                 |
 | 08:10      | to get to that when I've typed in missing, so the first one takes me to the first result              |
 | 08:14      | and then down, and then I can hit return and it will run it, but that's it.                           |
-| 08:22      | I searched for something earlier, it was a bookmark that I've got in Safari, so I typed               |
+| 08:22      | I searched for something earlier, it was a bookmark that I've got in [[Safari]], so I typed               |
 | 08:26      | it in, and the first five results I could do not are search for this in Google, search                |
 | 08:34      | for this with another word after it, search for this with another word after it, and then             |
 | 08:39      | two more searches for this word plus other words.                                                     |
@@ -727,7 +727,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 43:35      | Yeah.                                                                                                 |
 | 43:36      | One that I found, it must have been about a year ago now that I couldn't believe that                 |
 | 43:39      | I hadn't figured out before web bookmarks.                                                            |
-| 43:42      | I have enabled my Safari bookmarks in [[Alfred]].                                                         |
+| 43:42      | I have enabled my [[Safari]] bookmarks in [[Alfred]].                                                         |
 | 43:44      | So when I type command space and then one of the things that is in my bookmarks, that's               |
 | 43:49      | the option that comes up first.                                                                       |
 | 43:52      | And something that we neglected to mention that you can do in [[Raycast]], you can do it                  |
@@ -796,7 +796,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 47:55      | Yeah.                                                                                                 |
 | 47:56      | And I have, I have now enabled that.                                                                  |
 | 47:58      | So thank you, Rose.                                                                                   |
-| 47:59      | I had the Safari bookmarks, I'm surprised that's new to you.                                          |
+| 47:59      | I had the [[Safari]] bookmarks, I'm surprised that's new to you.                                          |
 | 48:02      | I had that turned on forever, but the, but yeah, the five minute thing.                               |
 | 48:06      | I'd never turned that on.                                                                             |
 | 48:07      | So I'll report back at how that does for me, but it seems like a good idea.                           |

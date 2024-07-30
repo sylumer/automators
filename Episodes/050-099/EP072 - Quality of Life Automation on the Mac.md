@@ -153,7 +153,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 06:32      | of screen space on them, or maybe multiple monitors. We're going to put a flag in laptops                |
 | 06:39      | and come to back that back to that in a minute. But for, you know, the bigger screens, like              |
 | 06:43      | I generally like one of the things that occurred to me is I generally want that centre space             |
-| 06:49      | as a workspace. Like that's where I've got the big Safari window or the big Microsoft                    |
+| 06:49      | as a workspace. Like that's where I've got the big [[Safari]] window or the big Microsoft                    |
 | 06:54      | word or pages or [[Obsidian]] or whatever I'm working on. One of the advantages of the six                   |
 | 06:59      | game monitor is I can actually split that centre space where I have like the top, maybe                  |
 | 07:05      | 25% for some sort of reference in the bottom 75% for the big thing I'm working on and it's               |
@@ -285,7 +285,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 17:46      | all this stuff happens really without me thinking about it actively anymore. My fingers just             |
 | 17:52      | go to the keyboard and you know, the windows zip around the screen. Another example is                   |
 | 17:59      | like I usually keep [[Obsidian]] in the top like quarter of the centre screen because it's                   |
-| 18:04      | usually referenced for me. And then I'm doing the active work, whether it be in Safari or                |
+| 18:04      | usually referenced for me. And then I'm doing the active work, whether it be in [[Safari]] or                |
 | 18:10      | a word processor or whatever, and the bottom three quarters of the centre screen. But sometimes          |
 | 18:17      | I want to then like dig into [[Obsidian]] and do some real research through it. Then I just                  |
 | 18:22      | push a keyboard shortcut and it takes over the bottom centre. So as I go through my day,                 |
@@ -511,7 +511,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 37:09      | have some applications that stay open all the time. And you can control that in in keyboard              |
 | 37:13      | maestro and you can set applications that should not be quit. But and so I've got a                      |
 | 37:17      | couple of those which just stay open OmniFocus and Fantastical are part of those. And I also             |
-| 37:24      | don't quit Safari or close Safari windows. Because sometimes it's, you know, I've gone                   |
+| 37:24      | don't quit [[Safari]] or close [[Safari]] windows. Because sometimes it's, you know, I've gone                   |
 | 37:30      | through and I curated a list of links in preparation or something. And then, you know, when you          |
 | 37:37      | actually do it, you don't want those to disappear. And maybe an open browser window is not the           |
 | 37:42      | best tool for that. Maybe I should save everything into [[Drafts]]. But when I'm just going to have          |
@@ -588,7 +588,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 44:06      | was there, isn't there anymore because I used it. And so it moved left.                                  |
 | 44:10      | Yes. And I've, I've got muscle memory built in and I know where things are. Um, the other                |
 | 44:15      | option that's here that I should, I should mention is group windows by application. Sometimes            |
-| 44:21      | I like to have say multiple OmniFocus windows open or multiple Safari windows or, you know,              |
+| 44:21      | I like to have say multiple OmniFocus windows open or multiple [[Safari]] windows or, you know,              |
 | 44:27      | whatever. Um, and I do not like my windows to be, to be grouped by applications. So that                 |
 | 44:33      | one is turned off as well.                                                                               |
 | 44:34      | Yeah, me too. But I don't know if that's a default, but the top one, the automatically                   |
@@ -596,10 +596,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 44:42      | podcast recently, but this is the road to madness. I mean, every time you go up to,                      |
 | 44:49      | every time you swipe a different app is there. So you have no idea of knowing what you're                |
 | 44:53      | going to be fighting. And, uh, so I actually have in my head a very specific arrangement                 |
-| 44:58      | of the windows, um, you know, in my head that Safari obsidian, fantastical OmniFocus mail.               |
+| 44:58      | of the windows, um, you know, in my head that [[Safari]] obsidian, fantastical OmniFocus mail.               |
 | 45:06      | So I like in my head, I know what it, where is in relation to what. And if I'm actually                  |
 | 45:12      | doing something where I need to reference, I'll add additional spaces to the left of                     |
-| 45:15      | the desktop. So like I can have like a, you know, a word processor next to a Safari browser              |
+| 45:15      | the desktop. So like I can have like a, you know, a word processor next to a [[Safari]] browser              |
 | 45:22      | for reference or something where if I'm doing something very specific, I can put a temporary             |
 | 45:26      | like set up there, but I always keep the other stuff exactly in the same space. And I find               |
 | 45:31      | it, my brain was again, you know, contextually can get to that stuff very quickly. But if                |
@@ -960,7 +960,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:18:14   | myself doing the same thing every time, you know, select, copy, you know, open up a website, paste,      |
 | 01:18:20   | you know. So I put all that into a [[Keyboard Maestro]] script. The only tricky thing about it was,          |
 | 01:18:26   | to assemble it was very easy, you know, Command A selects all the text. Command C copies the text.       |
-| 01:18:34   | So I'm running two keyboard commands in, in a [[Keyboard Maestro]]. Open Safari to the Grammarly             |
+| 01:18:34   | So I'm running two keyboard commands in, in a [[Keyboard Maestro]]. Open [[Safari]] to the Grammarly             |
 | 01:18:40   | website. And this is where it gets tricky. There's not a keyboard command on their website to open       |
 | 01:18:46   | up a blank document to paste it in. Instead, you have to mouse over a specific icon and press it.        |
 | 01:18:53   | But [[Keyboard Maestro]] has the ability to look for an image on the screen and press it. So                 |

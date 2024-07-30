@@ -627,7 +627,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 33:22      | pretty great.                                                                                          |
 | 33:23      | And then for some reason, it's not showing me the option to open this in the weather                   |
 | 33:27      | app.                                                                                                   |
-| 33:28      | That would have been a bit more logical, but it is giving me a good old safari where you               |
+| 33:28      | That would have been a bit more logical, but it is giving me a good old [[Safari]] where you               |
 | 33:33      | can check whether now Bristol or Bristol TN weather, I'm guessing there's a Bristol in                 |
 | 33:38      | Tennessee.                                                                                             |
 | 33:39      | I'll have to find out after the show.                                                                  |
@@ -889,11 +889,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 50:24      | And that was okay, but the problem is, is how do you find the services menu?                           |
 | 50:32      | Good question.                                                                                         |
 | 50:33      | The answer, it depends.                                                                                |
-| 50:35      | So if I right-click in Safari, just on a page, no services menu.                                       |
-| 50:40      | If I select some text in Safari and then right-click, I get a services menu, but that only gets        |
+| 50:35      | So if I right-click in [[Safari]], just on a page, no services menu.                                       |
+| 50:40      | If I select some text in [[Safari]] and then right-click, I get a services menu, but that only gets        |
 | 50:46      | the text that I've selected.                                                                           |
 | 50:47      | It only gets the web page.                                                                             |
-| 50:49      | But then, and this is on Mac OS Monterey, if I click the little share icon in Safari,                  |
+| 50:49      | But then, and this is on Mac OS Monterey, if I click the little share icon in [[Safari]],                  |
 | 50:53      | then I can see, ooh, reminders, Mac OS simulator, okay, messages, fine.                                |
 | 51:00      | You know, create a new quick note, add a bookmark, open in news, fairer.                               |
 | 51:05      | And then I tap on a little dot, dot, dot, thinking, okay, where's shortcuts?                           |
@@ -965,7 +965,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 55:29      | space or on a specific desktop or in all the spaces, but that's kind of as good as it gets.            |
 | 55:34      | So it's not surprising that [[Shortcuts]] doesn't have support for things like that, that other            |
 | 55:38      | automation apps have kind of found ways to work around.                                                |
-| 55:42      | But it feels like, you know, especially with things like Safari tab groups and so on, not              |
+| 55:42      | But it feels like, you know, especially with things like [[Safari]] tab groups and so on, not              |
 | 55:47      | yet having actions, despite the fact that they're on iOS, like they're still a way to                  |
 | 55:51      | go.                                                                                                    |
 | 55:52      | And I don't know how much of that [[Shortcuts]] versus other teams at Apple, or if it's a                  |
@@ -1093,9 +1093,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:04:31   | That's great.                                                                                          |
 | 01:04:32   | But that's only got a couple of shortcuts actions.                                                     |
 | 01:04:34   | It just feels like, you know, we're kind of missing a trick, you know, it took me a while              |
-| 01:04:38   | to figure out why my tab groups weren't syncing with Safari and the answer was I was using             |
-| 01:04:43   | Safari technology preview, which apparently seemingly doesn't sync tab groups, but the                 |
-| 01:04:49   | tab groups do sync with Safari, but there's no shortcut sections for them on Mac OS right              |
+| 01:04:38   | to figure out why my tab groups weren't syncing with [[Safari]] and the answer was I was using             |
+| 01:04:43   | [[Safari Technology Preview]], which apparently seemingly doesn't sync tab groups, but the                 |
+| 01:04:49   | tab groups do sync with [[Safari]], but there's no shortcut sections for them on Mac OS right              |
 | 01:04:54   | now in Mac OS Ventura, the latest release version, as we're talking.                                   |
 | 01:05:00   | So I was running the last release candidate before the official release, it certainly                  |
 | 01:05:04   | didn't have them.                                                                                      |
@@ -1118,7 +1118,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:05:56   | But if not most are there.                                                                             |
 | 01:05:58   | But and then reminders, which got a bunch of new features, but didn't get many new shortcut            |
 | 01:06:04   | sections, which I got that's confusing to me, but that's kind of across all platforms.                 |
-| 01:06:09   | But the more the more vexing one is, like you said, like Safari having tab actions on                  |
+| 01:06:09   | But the more the more vexing one is, like you said, like [[Safari]] having tab actions on                  |
 | 01:06:15   | iPhone and iPad, but not having them on the Mac or Mail has a great new action on iPhone,              |
 | 01:06:21   | where you can have it open a specific mailbox.                                                         |
 | 01:06:24   | Well, that that's a hugely useful shortcut action for people who want to contextually                  |
@@ -1142,7 +1142,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:07:23   | For me, the thing that really stands out here as like the team clearly, the teams clearly              |
 | 01:07:29   | either didn't have time for or didn't care about shortcuts for Mac is these apps have                  |
 | 01:07:33   | got focus filters, which are there on the Mac too.                                                     |
-| 01:07:37   | So my focus filter for Safari can set the tab group.                                                   |
+| 01:07:37   | So my focus filter for [[Safari]] can set the tab group.                                                   |
 | 01:07:40   | My focus filter for mail can filter my inboxes.                                                        |
 | 01:07:44   | My focus filter for calendar can filter my calendars, but I can't use that or take advantage           |
 | 01:07:51   | of that in the shortcuts app.                                                                          |
@@ -1297,13 +1297,13 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:16:43   | And I've found that for certain things, it works very nicely to have that, especially                  |
 | 01:16:48   | when you want several different apps open on your iPad at the same time.                               |
 | 01:16:53   | Like a classic one for me is if I'm having a conversation with somebody via messages,                  |
-| 01:16:58   | but I also need to be taking notes about something and researching something in Safari.                |
+| 01:16:58   | but I also need to be taking notes about something and researching something in [[Safari]].                |
 | 01:17:04   | So we're researching stuff and chatting back and forth and sending each other links and                |
 | 01:17:09   | making our own notes about it.                                                                         |
 | 01:17:11   | That's something where I will want three apps open and I want to be able to see probably               |
-| 01:17:16   | around about 50% Safari, 40% notes and 10% mail.                                                       |
-| 01:17:20   | So what I can do is I can have messages open and I can kind of put it behind Safari and                |
-| 01:17:25   | notes or [[Drafts]] in my case and then have Safari and [[Drafts]] floating on top and tap between             |
+| 01:17:16   | around about 50% [[Safari]], 40% notes and 10% mail.                                                       |
+| 01:17:20   | So what I can do is I can have messages open and I can kind of put it behind [[Safari]] and                |
+| 01:17:25   | notes or [[Drafts]] in my case and then have [[Safari]] and [[Drafts]] floating on top and tap between             |
 | 01:17:33   | them.                                                                                                  |
 | 01:17:34   | And then when I see a message come in at the bottom from somebody, I can be reading the                |
 | 01:17:37   | whole message without having to just read it from the notification and then pull down                  |
@@ -1570,11 +1570,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:33:09   | into, um, focus modes with tab groups and things like that.                                            |
 | 01:33:13   | So that I could have or, or not even focus modes, but just things like tab groups and                  |
 | 01:33:19   | notes folders and things like that, where I could say, Hey, uh, so this is my mission                  |
-| 01:33:24   | control group for this thing and it features this safari tab group.                                    |
+| 01:33:24   | control group for this thing and it features this [[Safari]] tab group.                                    |
 | 01:33:29   | Um, and it's got, you know, this notes folder and this OmniFocus, uh, pro folder or project           |
 | 01:33:35   | or whatever and things like that, you know, that would be really amazing.                              |
 | 01:33:38   | And you can kind of get partial part of the way there because you can have shortcuts open              |
-| 01:33:43   | safari and then you can use cube of my shirt to click at a particular image and safari                 |
+| 01:33:43   | [[Safari]] and then you can use cube of my shirt to click at a particular image and [[Safari]]                 |
 | 01:33:48   | to open the tab group that you wanted, um, which, you know, not great.                                 |
 | 01:33:53   | But, you know, if you, if you use the tab groups, um, actions on iPad OS, that's okay.                 |
 | 01:33:59   | Um, you can open that, but it, it just, yeah, it feels like it's almost there so close to              |

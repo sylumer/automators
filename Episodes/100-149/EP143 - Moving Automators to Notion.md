@@ -1151,8 +1151,8 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:08:38   | for Firefox and I can just replace Firefox with Chrome or whatever it is.                            |
 | 01:08:44   | I'm not planning on doing that.                                                                      |
 | 01:08:45   | I prefer Firefox personally for a number of reasons for at least my development work                 |
-| 01:08:49   | and the rest of the time it's Safari.                                                                |
-| 01:08:52   | But if I were changing Safari to Safari technology preview, I've done that, gone back and forth      |
+| 01:08:49   | and the rest of the time it's [[Safari]].                                                                |
+| 01:08:52   | But if I were changing [[Safari]] to [[Safari]] technology preview, I've done that, gone back and forth      |
 | 01:08:58   | on that multiple times.                                                                              |
 | 01:09:00   | And I actually use a variable for that because I'm a nerd, why wouldn't I?                           |
 | 01:09:06   | But I could just find a place because I have all of my bunch macros, well, bunch is just             |

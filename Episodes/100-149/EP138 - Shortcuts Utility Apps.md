@@ -271,11 +271,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 12:47      | And then there are also bugs potentially related to a story, potentially just related to existence   |
 | 12:52      | in life, and you have to fix the bugs and write stories or solve the stories.                        |
 | 12:57      | But yeah, so I wish that they would have a story for every new feature that was added                |
-| 13:03      | to Reminders and Safari and Notes and things like that.                                              |
+| 13:03      | to Reminders and [[Safari]] and Notes and things like that.                                              |
 | 13:06      | The Notes team have done an incredible job this year.                                                |
 | 13:08      | They're just absolutely nailing it.                                                                  |
 | 13:10      | I love that.                                                                                         |
-| 13:11      | But yeah, as it is Reminders and Safari in particular, lacking a bit behind, which is                |
+| 13:11      | But yeah, as it is Reminders and [[Safari]] in particular, lacking a bit behind, which is                |
 | 13:17      | a real shame.                                                                                        |
 | 13:18      | Yeah, but I remember talking to Alex about this and him telling me that he wanted to                 |
 | 13:23      | be Sherlocked.                                                                                       |
@@ -1013,14 +1013,14 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:00:41   | So I have a number of shortcuts, which will just like open a Zoom URL in Zoom and things             |
 | 01:00:46   | like that.                                                                                           |
 | 01:00:47   | And this is just so useful that, yeah, it's really hard to explain in some ways because              |
-| 01:00:53   | it just opens a URL, but it doesn't open it in Safari.                                               |
+| 01:00:53   | it just opens a URL, but it doesn't open it in [[Safari]].                                               |
 | 01:00:55   | It opens it in the correct app.                                                                      |
-| 01:00:58   | And that just makes my day every time because I don't have a bunch of useless Safari Windows         |
+| 01:00:58   | And that just makes my day every time because I don't have a bunch of useless [[Safari]] Windows         |
 | 01:01:02   | hanging around or tabs hanging around later.                                                         |
 | 01:01:05   | I think that's easy to understand.                                                                   |
 | 01:01:06   | I mean, a lot of apps use URLs as ways to trigger things.                                            |
 | 01:01:11   | As automators, it's often for us the shortcut, the easy way to get something to happen, but          |
-| 01:01:16   | so often it has to go through Safari first, right?                                                   |
+| 01:01:16   | so often it has to go through [[Safari]] first, right?                                                   |
 | 01:01:20   | It opens a browser and then goes to the thing and it's just so frustrating.                          |
 | 01:01:24   | And this allows you to bypass that.                                                                  |
 | 01:01:27   | Exactly.                                                                                             |

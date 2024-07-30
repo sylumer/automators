@@ -1400,7 +1400,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:16:50   | Like it is way too complex for its own good.                                                              |
 | 01:16:53   | So I try and buy keyboards that are supported by what's called Via and it's a web app.                    |
 | 01:16:59   | And the unfortunate thing is you have to use it through a Chromium browser.                               |
-| 01:17:04   | It does not work through Safari or Firefox.                                                               |
+| 01:17:04   | It does not work through [[Safari]] or Firefox.                                                               |
 | 01:17:06   | It has to be a Chromium browser.                                                                          |
 | 01:17:08   | So I use Brave because I refuse to install Chrome on my Mac, but plug your keyboard in.                   |
 | 01:17:16   | It'll get recognised for it.                                                                              |

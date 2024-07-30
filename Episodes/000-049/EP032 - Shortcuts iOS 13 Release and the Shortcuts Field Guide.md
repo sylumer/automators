@@ -89,7 +89,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:36      | You know, I mean, it's crazy.                                                                          |
 | 01:39      | And like it has keyboard support, it has Apple Pencil support.                                         |
 | 01:41      | I was talking to my wife and kids, I was thinking, you know, there's a lot of people in our            |
-| 01:46      | family that are not high-end computer users and with iOS 13's new Safari that works with               |
+| 01:46      | family that are not high-end computer users and with iOS 13's new [[Safari]] that works with               |
 | 01:53      | just about everything.                                                                                 |
 | 01:54      | I mean, it works with my banking website, it works with Squarespace.                                   |
 | 01:57      | All the stuff that it didn't work with before for me, it's worked for.                                 |
@@ -979,7 +979,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 53:19      | And then like a week after you'd installed iOS 13, I just get a message from David with                |
 | 53:23      | a home screen full of shortcuts.                                                                       |
 | 53:25      | Oh yeah, I love it now.                                                                                |
-| 53:27      | So what they did with the problem with the original one was it would bounce to Safari                  |
+| 53:27      | So what they did with the problem with the original one was it would bounce to [[Safari]]                  |
 | 53:31      | before it ran the shortcut and it was just nuts, you know, it just, it felt really goofy               |
 | 53:39      | to me, you know.                                                                                       |
 | 53:41      | And so, but now they fix that.                                                                         |
@@ -1050,7 +1050,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 57:05      | I don't know, I'm really happy with this system.                                                       |
 | 57:07      | Yeah, it's a great system.                                                                             |
 | 57:09      | You're convincing me to try it out again because I had the same problem as you before                  |
-| 57:13      | with the whole bouncing to Safari and then bouncing into shortcuts.                                    |
+| 57:13      | with the whole bouncing to [[Safari]] and then bouncing into shortcuts.                                    |
 | 57:16      | And then doing the action, it was, in some cases, actually literally giving me headaches               |
 | 57:21      | just because of the not quite speedy enough transitions.                                               |
 | 57:26      | And the fact that that's gone is such a massive thing.                                                 |

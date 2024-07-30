@@ -731,7 +731,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 53:29      | thinking about going to the pool, is it going to be slammed or is it going to be okay? What              |
 | 53:33      | I did was I wrote a shortcut that uses my credentials that I pulled out of a cookie.                     |
 | 53:40      | I think what I did was I signed in on the computer, looked at the headers that I was                     |
-| 53:45      | sending, the computer that Safari was sending to the website, and figured out which either               |
+| 53:45      | sending, the computer that [[Safari]] was sending to the website, and figured out which either               |
 | 53:51      | headers or cookie or combination thereof indicated to the website that I am an officially                |
 | 53:56      | honest to goodness logged in person. Then it will load that URL providing the headers                    |
 | 54:02      | and cookies and whatnot. It will get a copy of the HTML and using some regular expressions               |

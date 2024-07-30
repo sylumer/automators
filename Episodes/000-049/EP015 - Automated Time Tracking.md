@@ -451,7 +451,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 15:57      | and keeps track of exactly where you're doing your time.                        |
 | 16:00      | But it's much more granular.                                                    |
 | 16:01      | Like if you're on the web,                                                      |
-| 16:03      | it just doesn't tell you that you were in Safari,                               |
+| 16:03      | it just doesn't tell you that you were in [[Safari]],                               |
 | 16:05      | it tells you which website you're on.                                           |
 | 16:07      | Or if you're in Microsoft Word,                                                 |
 | 16:08      | it tells you what document you're in.                                           |

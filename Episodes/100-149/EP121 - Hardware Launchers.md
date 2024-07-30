@@ -172,7 +172,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 06:35      | I have tons of shortcuts that are triggered in specific apps and I do this largely using               |
 | 06:41      | [[Keyboard Maestro]] because you can have scripts that only run when a certain app is active               |
 | 06:47      | and then you can apply shortcuts.                                                                      |
-| 06:49      | So when I'm in mail, option D will do something that when I'm in Safari does something different.      |
+| 06:49      | So when I'm in mail, option D will do something that when I'm in [[Safari]] does something different.      |
 | 06:58      | So those key mappings change depending on the application, but for me, a hyper key shortcut            |
 | 07:04      | is one that I want to be able to run anywhere at any time.                                             |
 | 07:08      | So it's like, I almost have this thing where it's like, is it worthy of the hyper key?                 |
@@ -1069,7 +1069,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:00:26   | That's what happens if I press the left pedal, if I press the middle pedal, it adds a timestamp        |
 | 01:00:32   | so that we can let Jim, our wonderful editor, know that there's either a chapter marker                |
 | 01:00:36   | we want to add or an edit point or something like that.                                                |
-| 01:00:39   | And then the right one activates Safari.                                                               |
+| 01:00:39   | And then the right one activates [[Safari]].                                                               |
 | 01:00:43   | So that's just me looking at whatever website it is or the sponsors and things like that               |
 | 01:00:49   | as we're going through.                                                                                |
 | 01:00:51   | So I have it set up for that, obviously.                                                               |

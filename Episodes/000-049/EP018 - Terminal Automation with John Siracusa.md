@@ -120,7 +120,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 02:59      | Lots of the people write programs that then run on your phone.                                           |
 | 03:01      | Like, you know, you could use it as a side loading mechanism to anyway.                                  |
 | 03:05      | But they did let you run JavaScript                                                                      |
-| 03:07      | because you have to be able to use Safari and Safari run JavaScript                                      |
+| 03:07      | because you have to be able to use [[Safari]] and [[Safari]] run JavaScript                                      |
 | 03:10      | and you could put a web view into your application,                                                      |
 | 03:12      | which could then run JavaScript.                                                                         |
 | 03:14      | So JavaScript has always been like kind of the back door                                                 |
@@ -524,7 +524,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 24:53      | Store and one EPUB for Download from Ars and then an EPUB made for the iBook Store.                      |
 | 25:01      | And that's a lot of stuff that has to happen.                                                            |
 | 25:02      | And I'm using [[BBEdit]] to write my thing and [[BBEdit]] can do a web preview or I'm looking                    |
-| 25:07      | at it in Safari and I'm using Photoshop to make the images and I'm taking screenshots                    |
+| 25:07      | at it in [[Safari]] and I'm using Photoshop to make the images and I'm taking screenshots                    |
 | 25:12      | and whatever, all the stuff that I'm doing, it's work on a Mac, sort of multimedia work                  |
 | 25:18      | as they used to say on a Mac.                                                                            |
 | 25:20      | But when it came time to automate this, to say I've made a change to the article, I want                 |
@@ -648,9 +648,9 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 32:26      | deal with and you can yell and scream about them and complain, but sometimes it's better                 |
 | 32:32      | to take matters into your own hands.                                                                     |
 | 32:33      | So one example, our company has decided that it is important enough for them to enforce                  |
-| 32:41      | this across all the Macs in the company that when you open a new window in Safari or a                   |
+| 32:41      | this across all the Macs in the company that when you open a new window in [[Safari]] or a                   |
 | 32:46      | new tab, it loads the company homepage.                                                                  |
-| 32:50      | So in Safari's preferences is the thing that says, what happened, what, you know, what                   |
+| 32:50      | So in [[Safari\|Safari's]] preferences is the thing that says, what happened, what, you know, what                   |
 | 32:53      | URL should I go to when you open a new window or tab?                                                    |
 | 32:56      | And it comes default to like, I don't know, the Apple.com start page or something, but                   |
 | 32:59      | you can just delete it or pick empty page or whatever, but in corporate America, not                     |
@@ -659,7 +659,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 33:13      | of time and you can't change that preference, you know, and that's the key part that these               |
 | 33:17      | are preferences, but they can remotely set them to what they want and make it so you                     |
 | 33:20      | can't change them.                                                                                       |
-| 33:22      | So if I go to preferences on my work computer in Safari, I can't change what happens in                  |
+| 33:22      | So if I go to preferences on my work computer in [[Safari]], I can't change what happens in                  |
 | 33:27      | a new page or a new tab.                                                                                 |
 | 33:29      | It's stuck on the corporate homepage.                                                                    |
 | 33:31      | I can't change it to something else because they like, there's a managed preference file                 |
@@ -679,7 +679,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 34:19      | And because it's a preference file, there's the CF Prefs daemon that reads that stuff                    |
 | 34:22      | and it caches it.                                                                                        |
 | 34:23      | So even if you were to delete that file, the CF Prefs daemon still has the cache.                        |
-| 34:27      | So Safari, when you launch it, just pulls the Pref using the Pref API and gets it from                   |
+| 34:27      | So [[Safari]], when you launch it, just pulls the Pref using the Pref API and gets it from                   |
 | 34:31      | the CF Pref daemon.                                                                                      |
 | 34:32      | So my solution to this was do a [[Hazel]] like thing, which is to use the latest and greatest                |
 | 34:38      | FS events API where you can efficiently watch for changes to a directory on macOS.                       |

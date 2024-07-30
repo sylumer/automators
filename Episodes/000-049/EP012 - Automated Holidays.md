@@ -730,7 +730,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 35:53      | I was kind of playing with it before we recorded.                                                    |
 | 35:57      | There is a [[Keyboard Maestro]] command to get URL and then you would have to force it to                |
 | 36:02      | go through for each tab and get the URL for each tab.                                                |
-| 36:06      | There's also an [[AppleScript]] phrase that can look at Safari and pull the URL of the                  |
+| 36:06      | There's also an [[AppleScript]] phrase that can look at [[Safari]] and pull the URL of the                  |
 | 36:10      | frontmost tab.                                                                                       |
 | 36:11      | And once again, you could cycle through those and automatically have it pull each one.               |
 | 36:16      | But the solution that I found the easiest because it's already been done for us is from              |
@@ -740,12 +740,12 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 36:37      | I'm going to put a link in the show notes.                                                           |
 | 36:39      | Go check it out if you find value in these things, buy something else that Brett makes               |
 | 36:43      | or donate or do something for him because he's great.                                                |
-| 36:46      | But anyway, one of the Markdown Service Tools is just, it just grabs all the tabs from Safari        |
+| 36:46      | But anyway, one of the Markdown Service Tools is just, it just grabs all the tabs from [[Safari]]        |
 | 36:53      | and creates a Markdown list of them.                                                                 |
-| 36:56      | So if you've got your Safari open on your Mac and you've got, you know, 17 tabs open                 |
+| 36:56      | So if you've got your [[Safari]] open on your Mac and you've got, you know, 17 tabs open                 |
 | 37:01      | to presence, you either want to buy for someone else or maybe something you want to tell people      |
 | 37:05      | you'd like, you just run this service, you right click in the text field of any text                 |
-| 37:11      | editor, text edit, pages, Ulysses, whatever, and it will run a script that goes to Safari,           |
+| 37:11      | editor, text edit, pages, Ulysses, whatever, and it will run a script that goes to [[Safari]],           |
 | 37:18      | grabs each tab, creates a URL for the tab and then turns it into a Markdown list and                 |
 | 37:23      | prints it right into the word processor that you're in.                                              |
 | 37:28      | And this is a great little tool and it's all done for you.                                           |

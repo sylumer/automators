@@ -355,7 +355,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 25:33      | I've set mine to after a day just in case because some files can take a very long time to download.     |
 | 25:38      | But it works pretty nicely. And it's useful to get your files cleaned up, because I find if my          |
 | 25:44      | files aren't cleaned up, then, well, everything else seems to go everywhere. I feel like an octopus.    |
-| 25:51      | You know, something weird I do is I reset Safari to make the download location my desktop.              |
+| 25:51      | You know, something weird I do is I reset [[Safari]] to make the download location my desktop.              |
 | 25:59      | And I've been doing that for a long time, but it just, you know, when you put it in the downloads       |
 | 26:04      | folder, I, you know, I, I'm a gadfly for get it's there, you know, and I just don't do anything with    |
 | 26:11      | it. By putting it on the desktop, when I get to the end of the day, it just forces me to address        |

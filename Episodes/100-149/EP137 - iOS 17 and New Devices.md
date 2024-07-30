@@ -539,13 +539,13 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 44:31      | you know, based on this, you know, answer one of these three questions.                                  |
 | 44:35      | And yeah, so being able to open the password to that would be very useful.                               |
 | 44:40      | Early in the beta process, I talked about how they don't have a new action to show a specific            |
-| 44:45      | tab group in Safari, which made no sense to me. And I said, well, you know, maybe they'll get it in      |
+| 44:45      | tab group in [[Safari]], which made no sense to me. And I said, well, you know, maybe they'll get it in      |
 | 44:51      | by the end of the beta. Well, they did not. That still is not there. I checked every release,            |
 | 44:58      | because it's just like, because some of my setup automation would be so much easier if I could           |
-| 45:03      | have it open a tab group for me. I can have a Safari open a tab group, but I can't have it open          |
+| 45:03      | have it open a tab group for me. I can have a [[Safari]] open a tab group, but I can't have it open          |
 | 45:08      | a tab group on macOS as far as I know, but it does work on iOS for sure. Well, that's what I'm           |
 | 45:12      | talking about. I'm sorry, I'm Mac. Yeah, yeah, yeah, because there's the profile support in              |
-| 45:17      | Safari as well. That's something new that's come in this year. And as far as I'm aware, that doesn't     |
+| 45:17      | [[Safari]] as well. That's something new that's come in this year. And as far as I'm aware, that doesn't     |
 | 45:23      | have shortcut support, which is kind of a shame. Being able to switch between profiles would be          |
 | 45:30      | really nice, but it doesn't seem to be there yet. Scan documents got a new action. Scan document,        |
 | 45:38      | it captures an image and saves it to the files on the iOS app. So if you don't want to buy a scanning    |

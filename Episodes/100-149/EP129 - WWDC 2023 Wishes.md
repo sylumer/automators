@@ -402,7 +402,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 23:24      | than the Mac does.                                                                                    |
 | 23:25      | I'd like to see those things get balanced out this year.                                              |
 | 23:28      | Yeah.                                                                                                 |
-| 23:29      | We're seeing this in a couple of apps, you know, Males and Safari and so on and it would              |
+| 23:29      | We're seeing this in a couple of apps, you know, [[Apple Mail\|Mail]] and [[Safari]] and so on and it would              |
 | 23:35      | just be really nice to just see things that when they appear, they appear everywhere because          |
 | 23:41      | right now it really is kind of a haphazard guess when you see that there's a new shortcut             |
 | 23:47      | action.                                                                                               |

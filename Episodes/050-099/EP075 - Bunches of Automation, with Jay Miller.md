@@ -531,7 +531,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 45:16      | go super deep into the weeds, but then it just improves your quality of life every day because           |
 | 45:22      | you're doing this stuff repeatedly. I think those are some of the best automations.                      |
 | 45:27      | I recently did one that's very similar to this where it will copy the URL of the currently               |
-| 45:32      | open Safari window, open deliveries and start adding a new delivery. And I do this for when              |
+| 45:32      | open [[Safari]] window, open deliveries and start adding a new delivery. And I do this for when              |
 | 45:38      | I've ordered things from Amazon, so that I can easily grab that link and just paste it into              |
 | 45:43      | deliveries ready to add that so that I know things are coming. And I realise I don't use                 |
 | 45:49      | it all that often, but I do the same thing. I do command L command C, command space type DEL,            |
@@ -569,7 +569,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 48:53      | dad's Mac for him the other day. He wanted to know why try time machine wasn't backing up. It            |
 | 48:58      | turns out if you turn off your Wi Fi connection, then time machine doesn't back up that. Yeah.           |
 | 49:03      | So, you know, 10 out of 10 on the troubleshooting. But I was trying to open a link in a new tab in       |
-| 49:08      | Safari on the track. And I was using trackpad. And I was tapping with three fingers, because on my       |
+| 49:08      | [[Safari]] on the track. And I was using trackpad. And I was tapping with three fingers, because on my       |
 | 49:14      | machines, I've mapped the three finger tap to the middle click, which usually means like close a tab     |
 | 49:20      | if you're middle clicking on a tab, or open a link in a new tab. And I was doing this, and I was         |
 | 49:25      | trying to figure out why it wasn't working. And it took me much too long to realise that it was          |
@@ -722,9 +722,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:03:34   | run this one. Like give me a sample Bunch that you run and what exactly it does to your computer.        |
 | 01:03:40   | So I'm going to, I'm going to find my very, very simple one that's six lines. And the lines,             |
 | 01:03:49   | I'm going to read them to you. Line one, [[Slack]], line three. So there's a blank line in there,            |
-| 01:03:55   | Safari. The blank line isn't even necessary. I just put it in there to make it readable.                 |
+| 01:03:55   | [[Safari]]. The blank line isn't even necessary. I just put it in there to make it readable.                 |
 | 01:03:59   | There's a dash, two X's, and then two URLs on line five and six. And what that does is when I            |
-| 01:04:06   | trigger that Bunch, it opens [[Slack]], it opens Safari, it closes all of the tabs in Safari,                |
+| 01:04:06   | trigger that Bunch, it opens [[Slack]], it opens [[Safari]], it closes all of the tabs in [[Safari]],                |
 | 01:04:12   | and then it opens those two URLs that I listed. That's, that's the simple one. That's a very             |
 | 01:04:19   | simple. I tend to do that in the morning when it's like, oh, time to start my day. Let me make sure      |
 | 01:04:24   | got [[Slack]] run in. You can do things like add snippets. So you can have all of those actions              |
@@ -790,7 +790,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:10:06   | it's in beta. But yeah, I know Brett's, Brett's got a lot of stuff going on, but I know Bunch is         |
 | 01:10:12   | definitely a big priority for him.                                                                       |
 | 01:10:14   | Now, how do you guys handle window management? Because I'm looking at these bunch scripts,               |
-| 01:10:19   | and none of them seem to say open Safari and put it on the right side of the screen or something         |
+| 01:10:19   | and none of them seem to say open [[Safari]] and put it on the right side of the screen or something         |
 | 01:10:24   | like that. So you can do that now. He recently added like some display management. There's               |
 | 01:10:30   | another post that he did a while back about using [[Moom]] with Bunch. And again, because [[Moom]]               |
 | 01:10:38   | supports different keystrokes, you can just trigger those keystrokes to happen. Just activate            |

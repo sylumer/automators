@@ -367,9 +367,9 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 15:56      | running on your home screen have been second class citizens.                                             |
 | 15:58      | Yeah.                                                                                                    |
 | 15:59      | So what was it?                                                                                          |
-| 16:00      | I was 12 where they would open Safari and then shortcuts, which was, and you'd end up                    |
-| 16:05      | with a whole bunch of empty Safari tabs, which were not great.                                           |
-| 16:09      | And then I was 13, they, they decided that they could skip Safari.                                       |
+| 16:00      | I was 12 where they would open [[Safari]] and then shortcuts, which was, and you'd end up                    |
+| 16:05      | with a whole bunch of empty [[Safari]] tabs, which were not great.                                           |
+| 16:09      | And then I was 13, they, they decided that they could skip [[Safari]].                                       |
 | 16:12      | And so if you had a shortcut on your home screen and this holds true and I was 14, then                  |
 | 16:17      | it just opens the shortcuts app and runs it there, but that means that you get to look                   |
 | 16:21      | at it running.                                                                                           |

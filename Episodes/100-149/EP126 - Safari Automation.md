@@ -113,10 +113,10 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 02:16      | it.                                                                                                |
 | 02:17      | And you know, you helped me generate that when we used a race for it.                              |
 | 02:20      | It's more complicated than a very simple text list, but I'm really happy with it.                  |
-| 02:26      | Either way, today we wanted to talk about Safari automation and I know this is a very              |
-| 02:32      | narrow topic, but Safari is Apple's browser.                                                       |
+| 02:26      | Either way, today we wanted to talk about [[Safari]] automation and I know this is a very              |
+| 02:32      | narrow topic, but [[Safari]] is Apple's browser.                                                       |
 | 02:36      | They use it across all their devices.                                                              |
-| 02:39      | The reason I use Safari more than any other is because it's so respectful of battery life          |
+| 02:39      | The reason I use [[Safari]] more than any other is because it's so respectful of battery life          |
 | 02:45      | compared to its competitors.                                                                       |
 | 02:47      | And I do a lot of stuff on mobile, you know, when you're in your laptop, your iPad, your           |
 | 02:50      | iPhone, you don't watch your browser killing your battery and Apple does a good job of             |
@@ -124,15 +124,15 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 02:55      | I'm also pretty invested in iCloud and I like the way it shares tabs and does things.              |
 | 02:59      | But there are limitations and we're going to talk about that today.                                |
 | 03:03      | But I thought it'd be fun to share with automators how we kind of view getting automation done     |
-| 03:11      | with Safari.                                                                                       |
+| 03:11      | with [[Safari]].                                                                                       |
 | 03:12      | Yeah.                                                                                              |
 | 03:13      | Yeah.                                                                                              |
 | 03:14      | I mean, it's one of those things.                                                                  |
 | 03:15      | And actually you reminded me of something there by saying, you know, like you like things          |
-| 03:18      | like the iCloud sync, and this is something I struggled with with Safari for a while.              |
+| 03:18      | like the iCloud sync, and this is something I struggled with with [[Safari]] for a while.              |
 | 03:22      | I was like, yeah, my tab groups aren't syncing, like I don't quite know what's going on.           |
-| 03:26      | And I realised after a while that the problem was actually that I was using Safari technology      |
-| 03:31      | preview on my Mac and Safari technology preview is not Safari.                                     |
+| 03:26      | And I realised after a while that the problem was actually that I was using [[Safari Technology Preview]]      |
+| 03:31      | on my Mac and [[Safari Technology Preview]] is not [[Safari]].                                     |
 | 03:35      | It's like the next version.                                                                        |
 | 03:37      | It's the beta version.                                                                             |
 | 03:38      | Yeah.                                                                                              |
@@ -140,18 +140,18 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 03:43      | I believe that definitely played a role for you, Rose.                                             |
 | 03:46      | Yeah.                                                                                              |
 | 03:47      | Yeah.                                                                                              |
-| 03:48      | And Safari technology preview is great.                                                            |
+| 03:48      | And [[Safari Technology Preview]] is great.                                                            |
 | 03:50      | And I always love seeing the features that are coming.                                             |
 | 03:52      | But the problem with it that I had was that things weren't syncing.                                |
 | 03:56      | So therefore, you know, like the magic wasn't happening and my tab groups weren't on all           |
 | 04:01      | of my devices and so on.                                                                           |
 | 04:03      | And I couldn't figure out why for ages and that was why.                                           |
-| 04:06      | So, you know, making sure you're using the right Safari, definitely part of the automation         |
-| 04:10      | magic because there's a whole bunch of settings that you can set up in Safari as well so that      |
+| 04:06      | So, you know, making sure you're using the right [[Safari]], definitely part of the automation         |
+| 04:10      | magic because there's a whole bunch of settings that you can set up in [[Safari]] as well so that      |
 | 04:14      | you get, you know, magic without really having to do anything in particularly special, like        |
 | 04:21      | for example, making sure that my downloads folder is a folder that is actually watched             |
 | 04:25      | by [[Hazel]] so that everything then just kind of like feeds into my other automations.                |
-| 04:30      | That's what the settings that you can customise in Safari.                                         |
+| 04:30      | That's what the settings that you can customise in [[Safari]].                                         |
 | 04:33      | Yeah.                                                                                              |
 | 04:34      | And just on that note, I am always on the hairy edge of the beta cycle.                            |
 | 04:42      | You know, when we listen to some of our other podcaster friends who are like 15 and 20 years       |
@@ -162,15 +162,15 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 05:04      | a beta and I've got an iPad attached that's on a beta.                                             |
 | 05:07      | All that said, I don't run the technology preview of Safari.                                       |
 | 05:11      | That's like where I draw the line, because I do like having all the features working               |
-| 05:16      | and I don't find that seeing what's next for Safari is worth the big hole it makes in my           |
-| 05:24      | life of not having Safari work reliably.                                                           |
+| 05:16      | and I don't find that seeing what's next for [[Safari]] is worth the big hole it makes in my           |
+| 05:24      | life of not having [[Safari]] work reliably.                                                           |
 | 05:27      | So I don't do it.                                                                                  |
 | 05:28      | But you could...                                                                                   |
 | 05:29      | I mean, it's not that it doesn't work reliably, it's just that things like the syncing and         |
 | 05:33      | so on and like having like the tabs open on your other computers and so on, that doesn't           |
-| 05:37      | work because each Safari technology preview install is its own little thing.                       |
-| 05:44      | And so Safari technology preview on my Mac Studio doesn't talk to Safari technology preview        |
-| 05:48      | on my MacBook Pro and things like that and they don't talk to Safari at all.                       |
+| 05:37      | work because each [[Safari Technology Preview]] install is its own little thing.                       |
+| 05:44      | And so [[Safari Technology Preview]] on my Mac Studio doesn't talk to [[Safari Technology Preview]]        |
+| 05:48      | on my MacBook Pro and things like that and they don't talk to [[Safari]] at all.                       |
 | 05:54      | So yeah, I was missing out on iCloud magic, so that's why I don't run it, but I still              |
 | 06:00      | check the release notes.                                                                           |
 | 06:01      | There's cool stuff in there.                                                                       |
@@ -178,7 +178,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 06:09      | where you could get tab groups with automation with it, I would be sorely tempted, but we          |
 | 06:15      | will get to that later.                                                                            |
 | 06:16      | We would be all over that.                                                                         |
-| 06:19      | But I do think you kind of have a great point that the first step of automating Safari is          |
+| 06:19      | But I do think you kind of have a great point that the first step of automating [[Safari]] is          |
 | 06:25      | in the setup of the application.                                                                   |
 | 06:28      | I think a lot of people just go with the default setups and those are okay, but those are made     |
 | 06:34      | by Apple for all consumers.                                                                        |
@@ -193,17 +193,17 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 06:54      | And so that includes stuff like screenshots and so on.                                             |
 | 06:57      | And I just, you know, I double-checked and that's where my downloads are going.                    |
 | 07:02      | But there's some other things as well, like in the general settings, you know, you can             |
-| 07:06      | choose what new tabs and new windows open with, and you can also choose what Safari opens          |
+| 07:06      | choose what new tabs and new windows open with, and you can also choose what [[Safari]] opens          |
 | 07:11      | with.                                                                                              |
-| 07:12      | So if you quit Safari, what happens when you reopen it?                                            |
+| 07:12      | So if you quit [[Safari]], what happens when you reopen it?                                            |
 | 07:15      | And what I have is I haven't opened all my non-private windows from the last session.              |
-| 07:21      | I don't really use private windows in Safari, at least not very often.                             |
-| 07:26      | But if I do and then I quit Safari, then it's probably something that I don't want reopening       |
+| 07:21      | I don't really use private windows in [[Safari]], at least not very often.                             |
+| 07:26      | But if I do and then I quit [[Safari]], then it's probably something that I don't want reopening       |
 | 07:30      | because it was like, you know, I was opening this to log into my mom's account in iCloud           |
 | 07:34      | or something like that, obviously with her permission.                                             |
 | 07:37      | And so, yeah, I've gone through and customised what happens with my new windows and my new         |
 | 07:42      | tabs.                                                                                              |
-| 07:43      | And I actually do use the start page in Safari.                                                    |
+| 07:43      | And I actually do use the start page in [[Safari]].                                                    |
 | 07:47      | And my start page is set to my favourites in the bookmarks.                                         |
 | 07:51      | So my favourites are that bar that can appear underneath the address bar.                           |
 | 07:56      | And I do actually have that shown, David, I know not everybody does this, but I do have            |
@@ -226,7 +226,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 09:10      | to enable it in the [[Alfred]] settings, but it's a ridiculously fast way to get to websites           |
 | 09:16      | that you visit frequently.                                                                         |
 | 09:19      | So that's the first reason to do bookmarks, and just like Rose, I, if you go to the view           |
-| 09:23      | menu in Safari, you can have it show the favourites across the top, yeah.                           |
+| 09:23      | menu in [[Safari]], you can have it show the favourites across the top, yeah.                           |
 | 09:33      | And you can nest those too.                                                                        |
 | 09:34      | So like for instance, if you go into bookmark setups, you can nest it to have like the Mac         |
 | 09:41      | ones together or the finance ones together, whatever, and then those will drop down, it's          |
@@ -244,7 +244,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 10:31      | And this is why I have just like a generic bookmarks folder of like, this is stuff I               |
 | 10:34      | don't really want to see, but you know, it's there because then when I type it, it's going         |
 | 10:39      | to autocomplete it and find it, and also every so often you'll get something that somehow          |
-| 10:44      | like got into your like safari history and suggestions.                                            |
+| 10:44      | like got into your like [[Safari]] history and suggestions.                                            |
 | 10:48      | And so like, you'll type in the one that always happens to me, Pimoroni, it's a Raspberry          |
 | 10:53      | Pi store that's over here in the UK.                                                               |
 | 10:56      | But whenever I type Pimoroni, it like tries to suggest the newsletter.                             |
@@ -253,7 +253,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 11:08      | And then it wasn't opening that.                                                                   |
 | 11:10      | And so I deleted that bookmark.                                                                    |
 | 11:11      | It's very easy to try to bookmark, by the way, CMD-D.                                          |
-| 11:14      | And yeah, so I deleted that and made sure I had Pimoroni in my safari bookmarks.                   |
+| 11:14      | And yeah, so I deleted that and made sure I had Pimoroni in my [[Safari]] bookmarks.                   |
 | 11:19      | And voila, now I no longer have that dodgy autocomplete popping up.                                |
 | 11:23      | Yeah.                                                                                              |
 | 11:24      | And while bookmarks again are very basic, they also are a belt and suspenders answer               |
@@ -261,7 +261,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 11:31      | Like I frequently, and we'll talk about later in the show, I have these setups that I run          |
 | 11:35      | through [[Keyboard Maestro]] and shortcuts where I'll open a bunch of tabs at once.                    |
 | 11:42      | And for instance, today, when we started recording the show, I ran an automation that opened       |
-| 11:47      | up everything, all the tabs I need in safari to record a show of the automakers podcast.           |
+| 11:47      | up everything, all the tabs I need in [[Safari]] to record a show of the automakers podcast.           |
 | 11:53      | But occasionally that stuff breaks and it just happens.                                            |
 | 11:55      | But you've always got that backup of those bookmarks you can go to when that happens.              |
 | 12:00      | And you know, automation isn't perfect.                                                            |
@@ -299,35 +299,35 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 13:49      | It's BookMacster.                                                                                 |
 | 13:50      | Mac is in Mac OS and I can put a link to that in the show notes, but what this will                |
 | 13:54      | do is it can go through and, like, I do use it for syncing my bookmarks so that I get              |
-| 13:59      | my bookmarks out of Safari into Firefox because I have a Firefox profile that then can sync        |
+| 13:59      | my bookmarks out of [[Safari]] into Firefox because I have a Firefox profile that then can sync        |
 | 14:05      | that across to other machines and, you know, in those Firefox's.                                   |
 | 14:12      | But it can also look for dead links and it can alphabetise links within folders for me             |
 | 14:17      | as well, meaning that, like, you know, the various, you know, folders or bookmarks are             |
 | 14:23      | all alphabetised, which is quite useful when you are looking for something and because             |
 | 14:27      | it will find those dead links, I don't need to worry about, you know, too many, you know,          |
 | 14:33      | bad things popping up and every so often I'll, you know, get that out and run that and, you        |
-| 14:36      | know, usually I'm using Safari.                                                                    |
+| 14:36      | know, usually I'm using [[Safari]].                                                                    |
 | 14:39      | As a developer, I do love using Firefox as well for that stuff.                                    |
-| 14:43      | Safari's word developer tools, they're not bad, but I'm just so used to the ones in                |
+| 14:43      | [[Safari\|Safari's]] work developer tools, they're not bad, but I'm just so used to the ones in                |
 | 14:46      | Firefox and how Firefox works and quite frankly, at least in my day job, there's very few people   |
-| 14:52      | who are using Safari, so while I open it to test what I've done, I'm better off using              |
+| 14:52      | who are using [[Safari]], so while I open it to test what I've done, I'm better off using              |
 | 14:57      | Firefox, given the choice between that and a Chrome-based browser, like, I stick with              |
 | 15:02      | Firefox.                                                                                           |
 | 15:03      | Yeah, Firefox is also my on-deck browser if I need something else for some reason.                 |
-| 15:10      | Although I have to say, I don't hit that problem as much as I used to about Safari not working     |
+| 15:10      | Although I have to say, I don't hit that problem as much as I used to about [[Safari]] not working     |
 | 15:16      | nicely with whatever websites I go to.                                                             |
-| 15:18      | I mean, it used to be more frequent that Safari just wouldn't work, but it's big enough.           |
+| 15:18      | I mean, it used to be more frequent that [[Safari]] just wouldn't work, but it's big enough.           |
 | 15:24      | I think probably because of the iPhone success that you don't see it as often.                     |
 | 15:29      | Yeah, yeah.                                                                                        |
 | 15:30      | I think it's one of those things where a lot for a very long time, people didn't really            |
-| 15:37      | think that Safari was a proper browser and just didn't really support it, so you had               |
+| 15:37      | think that [[Safari]] was a proper browser and just didn't really support it, so you had               |
 | 15:40      | to run something else.                                                                             |
-| 15:42      | And now, you know, with the rise of the popularity of Safari on the Mac and also the improvements  |
-| 15:46      | of Safari has made as well, there's a really great developer team working behind Safari.           |
+| 15:42      | And now, you know, with the rise of the popularity of [[Safari]] on the Mac and also the improvements  |
+| 15:46      | of [[Safari]] has made as well, there's a really great developer team working behind [[Safari]].           |
 | 15:52      | And they actually aim to be part of the web standards as well, helping create new web              |
-| 15:57      | standards as well as implementing those standard web conventions in Safari.                        |
-| 16:04      | And I think that's gone a really long way to making Safari a proper first-class browser.           |
-| 16:09      | Whereas before, people used to use the Vivaldi and Opera over Safari, that definitely doesn't      |
+| 15:57      | standards as well as implementing those standard web conventions in [[Safari]].                        |
+| 16:04      | And I think that's gone a really long way to making [[Safari]] a proper first-class browser.           |
+| 16:09      | Whereas before, people used to use the Vivaldi and Opera over [[Safari]], that definitely doesn't      |
 | 16:14      | happen now.                                                                                        |
 | 16:15      | And I would recommend you audit those tabs.                                                        |
 | 16:19      | There's a lot of stuff I always say you should audit on your computer.                             |
@@ -336,7 +336,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 16:28      | And for so much of what I do, the web is my workspace.                                             |
 | 16:32      | So I want to make sure it's clean and gives me what I need.                                        |
 | 16:36      | Let's talk a little bit about auto fill.                                                            |
-| 16:38      | That's one of the Safari settings I don't think a lot of people understand.                        |
+| 16:38      | That's one of the [[Safari]] settings I don't think a lot of people understand.                        |
 | 16:42      | Yeah.                                                                                              |
 | 16:43      | So auto fill is, I mean, it can be a great feature.                                                 |
 | 16:46      | It's the thing that can use, you know, it can auto fill in your username and your password,         |
@@ -363,7 +363,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 17:59      | No, definitely not.                                                                                |
 | 18:00      | At the very minimum, make sure they're different keyboard shortcuts.                               |
 | 18:03      | Yeah.                                                                                              |
-| 18:04      | Now, one thing, by default, the search engine of Safari is Google and there's all sorts            |
+| 18:04      | Now, one thing, by default, the search engine of [[Safari]] is Google and there's all sorts            |
 | 18:11      | of news stories out there, none of which are really confirmed.                                     |
 | 18:14      | But I think they're believable that in order to become the default search engine, there's          |
 | 18:20      | money changing hands, you know, which wouldn't surprise me.                                        |
@@ -433,7 +433,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 22:03      | Yes.                                                                                               |
 | 22:04      | Yeah.                                                                                              |
 | 22:05      | And, you know, while we're talking about search, there's also the possibility of including         |
-| 22:11      | Safari suggestions, preloading the top hit, showing your favourites, and so on in the,              |
+| 22:11      | [[Safari]] suggestions, preloading the top hit, showing your favourites, and so on in the,              |
 | 22:17      | so when you click into that, it's not just a search bar, it's actually the, I had the              |
 | 22:25      | tab open just now, and I've forgotten what it's called.                                            |
 | 22:29      | But yeah, it's not just the search bar because it's a search and address bar, but yeah.            |
@@ -441,7 +441,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 22:40      | And so you can actually add websites into your search so that you can then search those            |
 | 22:46      | websites specifically.                                                                             |
 | 22:48      | So yeah, that's some of the nice options that are available there.                                 |
-| 22:54      | But there is something else I use, David, because Safari has reader mode, right?                   |
+| 22:54      | But there is something else I use, David, because [[Safari]] has reader mode, right?                   |
 | 23:00      | And reader mode, it's great because you can just click on it and it'll take something              |
 | 23:05      | that's maybe got some weird and wonky formatting.                                                  |
 | 23:09      | Because a classic one is a recipe website, right?                                                  |
@@ -455,7 +455,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 23:38      | Yeah.                                                                                              |
 | 23:39      | You're going to have like white text on a black background or black text on white background       |
 | 23:43      | or grays or whatever it is you've got it set to.                                                   |
-| 23:46      | So under websites in the Safari settings, I have a bunch of websites automatically use             |
+| 23:46      | So under websites in the [[Safari]] settings, I have a bunch of websites automatically use             |
 | 23:50      | reader mode.                                                                                       |
 | 23:52      | And this just makes it so much nicer to use.                                                       |
 | 23:56      | Now, to set this up, you know, you actually do it on the website.                                  |
@@ -495,7 +495,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 26:28      | key and I find that really just a very easy way when you get a lot of tabs and it's, it's          |
 | 26:35      | just so, you know, so unautomated to stop and take the mouse and go up and click when              |
 | 26:40      | you can just hit a couple of keyboard shortcuts.                                                   |
-| 26:43      | And one of the tricks I did is when I opened Safari, my Stream Deck plus has that dial             |
+| 26:43      | And one of the tricks I did is when I opened [[Safari]], my Stream Deck plus has that dial             |
 | 26:48      | on it and it actually pre-programs the left most dial to use those keyboard shortcuts              |
 | 26:53      | so I can just spin the dial if I really want.                                                      |
 | 26:55      | I'll let me be honest with you, I still find myself using the keyboard shortcut more than          |
@@ -504,7 +504,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 27:00      | I mean, one of the things I actually do is, so I tend to keep the most important tabs              |
 | 27:04      | over on the left and the least important tabs on the right.                                        |
 | 27:07      | And so that means that the nine most important tabs are going to be command one, command           |
-| 27:13      | two, command three, et cetera through to command nine because that is an option in, in Safari.     |
+| 27:13      | two, command three, et cetera through to command nine because that is an option in, in [[Safari]].     |
 | 27:20      | You know, if, if you look under the tabs, then you can, you can do that.                           |
 | 27:23      | And this is also very important because when I right click on a tab, then I get the option         |
 | 27:29      | assuming that there is a tab to the right.                                                         |
@@ -534,8 +534,8 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 28:45      | Yes, we will.                                                                                      |
 | 28:46      | And honestly, you know, having features like that available are really handy.                      |
 | 28:51      | And one of the things I do do, if I've got a bunch of windows open and I've ended up               |
-| 28:55      | with loads of windows, with loads of Safari tabs, it's under the window option, merge              |
-| 28:59      | all windows, like get all my Safari windows, jam them into this one.                               |
+| 28:55      | with loads of windows, with loads of [[Safari]] tabs, it's under the window option, merge              |
+| 28:59      | all windows, like get all my [[Safari]] windows, jam them into this one.                               |
 | 29:04      | We're good.                                                                                        |
 | 29:05      | Thanks.                                                                                            |
 | 29:06      | You know, so long.                                                                                 |
@@ -543,10 +543,10 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 29:08      | I don't need you anymore.                                                                          |
 | 29:09      | It's really useful.                                                                                |
 | 29:10      | On iOS, if you tap and hold on the tab icon, like the one that would create a new tab,             |
-| 29:18      | you can also merge all your Safari windows right there as well.                                    |
+| 29:18      | you can also merge all your [[Safari]] windows right there as well.                                    |
 | 29:21      | And that is such a useful feature for, you know, my mother's inevitable.                           |
-| 29:25      | I had this link open just now, and now it's not open in Safari.                                    |
-| 29:29      | Tap and hold on the thing, merge all your windows together, you created another Safari             |
+| 29:25      | I had this link open just now, and now it's not open in [[Safari]].                                    |
+| 29:29      | Tap and hold on the thing, merge all your windows together, you created another [[Safari]]             |
 | 29:32      | window again.                                                                                      |
 | 29:34      | And yeah, solves that problem right there.                                                         |
 | 29:39      | This episode of the automators is brought to you by ExpressVPN.                                    |
@@ -580,7 +580,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 31:24      | of ExpressVPN for free.                                                                            |
 | 31:26      | Our thanks to ExpressVPN for their support of the Automators podcast and all of Relay              |
 | 31:31      | FM.                                                                                                |
-| 31:35      | So something else, David, that I wanted to look at for automation purposes are Safari              |
+| 31:35      | So something else, David, that I wanted to look at for automation purposes are [[Safari]]              |
 | 31:39      | extensions, because I feel like there are some ones that we've talked about before.                |
 | 31:45      | One that we've definitely talked about before is OmSave, O-M-S-A-V-E, which is available           |
 | 31:50      | in the App Store for a couple of bucks, which allows you to quickly save stuff to OmniFocus       |
@@ -589,11 +589,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 32:03      | sorry.                                                                                             |
 | 32:04      | It's an icon in the address bar area, like near the back button or on the other side,              |
 | 32:09      | depending on where you put it.                                                                     |
-| 32:11      | And it will pre-populate my Safari, sorry, my OmniFocus quick capture with the information         |
+| 32:11      | And it will pre-populate my [[Safari]], sorry, my OmniFocus quick capture with the information         |
 | 32:18      | that I want.                                                                                       |
 | 32:20      | But OmSave, you know, lets you do some extra bits in there as well.                                |
 | 32:24      | So you can say, okay, but I always want this to go to this project or whatever.                    |
-| 32:29      | And that's one of my favourite little Safari extensions, but there are a whole bunch more           |
+| 32:29      | And that's one of my favourite little [[Safari]] extensions, but there are a whole bunch more           |
 | 32:34      | that we can talk about as well.                                                                    |
 | 32:36      | Yeah.                                                                                              |
 | 32:37      | I mean, and that one is so automation, right?                                                      |
@@ -613,7 +613,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 33:28      | And so one of the ones I use is AwesomeScreenshot.                                                 |
 | 33:32      | Now if you use the default screenshot options on macOS, I believe this is present now.             |
 | 33:40      | And certainly if you take a screenshot on iPadOS or iOS, then you can change the screenshot        |
-| 33:46      | after you've taken it in Safari to say, hey, I want to take a screenshot of the whole web page,     |
+| 33:46      | after you've taken it in [[Safari]] to say, hey, I want to take a screenshot of the whole web page,     |
 | 33:50      | please.                                                                                            |
 | 33:51      | Yeah.                                                                                              |
 | 33:52      | And then it'll share it as a PDF.                                                                  |
@@ -685,13 +685,13 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 38:11      | Yeah, exactly.                                                                                     |
 | 38:12      | I really like Downy as well.                                                                       |
 | 38:15      | And yeah, as you mentioned, it's part of setup.                                                    |
-| 38:18      | Another one that I use, and this is definitely the class of things where, is this a Safari         |
-| 38:25      | automation, or is this a, it uses a Mac automation, because it's a Safari extension for an app     |
+| 38:18      | Another one that I use, and this is definitely the class of things where, is this a [[Safari]]         |
+| 38:25      | automation, or is this a, it uses a Mac automation, because it's a [[Safari]] extension for an app     |
 | 38:34      | that you can install on your Mac, which is Choosy.                                                 |
 | 38:36      | Now, Choosy lets you say, okay, whenever I open this kind of link, so whenever I open              |
 | 38:42      | a link from the [[Slack]] app, I want it to open in this browser.                                      |
-| 38:47      | Whenever I open a link containing relay.fm, I want it to open in Safari, whatever it is.           |
-| 38:53      | But Choosy also has a Safari extension and Firefox extension and Chrome extension, etc.            |
+| 38:47      | Whenever I open a link containing relay.fm, I want it to open in [[Safari]], whatever it is.           |
+| 38:53      | But Choosy also has a [[Safari]] extension and Firefox extension and Chrome extension, etc.            |
 | 39:00      | Because then what I can do is I can say, hey, this page that I'm on, open it in this browser       |
 | 39:04      | for me, please.                                                                                    |
 | 39:06      | And that for me ends up being very useful, because then I can, you know, open any link             |
@@ -746,7 +746,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 42:15      | It's not quite so painful.                                                                         |
 | 42:16      | Yeah.                                                                                              |
 | 42:17      | And what I will say is that for folks who haven't tried dark mode in a while, these plugins        |
-| 42:22      | are essential because Safari is like the worst violator, but otherwise, most of the apps           |
+| 42:22      | are essential because [[Safari]] is like the worst violator, but otherwise, most of the apps           |
 | 42:27      | these days on the Mac are good dark mode players, and it really does work.                         |
 | 42:32      | When they first released it, it was kind of hit and miss where you'd have a couple, you            |
 | 42:36      | know, white background apps anyway, but that's really not the case anymore.                        |
@@ -773,11 +773,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 43:41      | All right.                                                                                         |
 | 43:42      | You want to talk about some more?                                                                  |
 | 43:43      | I've got a few more here.                                                                          |
-| 43:45      | Well, I mean, one I have, it's not exactly an automation tip, but it's definitely a safari         |
-| 43:50      | tip or, you know, I've got to that and go recommend the safari tips rather than specifically       |
+| 43:45      | Well, I mean, one I have, it's not exactly an automation tip, but it's definitely a [[Safari]]         |
+| 43:50      | tip or, you know, I've got to that and go recommend the [[Safari]] tips rather than specifically       |
 | 43:55      | automation ones.                                                                                   |
 | 43:57      | Baking soda and vinegar, you know, they make water.                                                |
-| 44:00      | They also de-horribilify video in safari.                                                          |
+| 44:00      | They also de-horribilify video in [[Safari]].                                                          |
 | 44:07      | So you end up with the nice native video player instead of the YouTube player or the Vimeo         |
 | 44:11      | player or the Twitch player or whatever it is.                                                     |
 | 44:15      | And so, you know, vinegar works on YouTube, baking soda works on the rest of the internet          |
@@ -801,7 +801,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:17      | I've never had faith in a Grammar Checker in my life, but this one seems to work for               |
 | 45:21      | me.                                                                                                |
 | 45:22      | I think like a hundred bucks a year and they catch errors in my writing all the time.              |
-| 45:27      | They've got a plug-in for Safari, which will monitor as you're filling in text on a web            |
+| 45:27      | They've got a plug-in for [[Safari]], which will monitor as you're filling in text on a web            |
 | 45:32      | form, which I think is if you're going to have the service, you might as well use it.              |
 | 45:37      | Is that automation?                                                                                |
 | 45:38      | I don't know, but it does make your writing better.                                                |
@@ -812,7 +812,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:55      | So saving stuff to Readwise, accessing Readwise and saving to their reader is very useful to       |
 | 46:00      | me and I use those plug-ins all the time.                                                          |
 | 46:03      | Yeah.                                                                                              |
-| 46:04      | I mean, there's plenty of other Safari plug-ins out there, some of which are more automation       |
+| 46:04      | I mean, there's plenty of other [[Safari]] plug-ins out there, some of which are more automation       |
 | 46:08      | related than others.                                                                               |
 | 46:10      | And we'll have to get to shortcuts in a minute, David, because shortcuts, you know, one of         |
 | 46:14      | the changes of Mac OS Ventura is shortcuts actually has share sheet support now.                   |
@@ -821,11 +821,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 46:29      | with services and things like that, which can be very nice.                                        |
 | 46:34      | And you know, like, are those extensions, yes and no, you know, they're not extensions             |
 | 46:39      | that you can go on the Mac App Store and download, but they are certainly things that I use        |
-| 46:43      | in Safari.                                                                                         |
+| 46:43      | in [[Safari]].                                                                                         |
 | 46:45      | I will also just throw in a quick mention for my ad blocker of choice, which is 1Blocker.        |
 | 46:51      | I use that in combination with PiHole for my ad blocking needs around the home.                    |
 | 46:57      | And yeah, those work great for me.                                                                 |
-| 47:00      | But other than that, you know, I've got plenty of other ways that I'm automating Safari going      |
+| 47:00      | But other than that, you know, I've got plenty of other ways that I'm automating [[Safari]] going      |
 | 47:06      | from the outside in, which I guess we'll have to get to after this.                                |
 | 47:12      | This episode of the automators is brought to you by Network to Code.                               |
 | 47:17      | Go to go.networktocode.com/automators.                                                       |
@@ -858,11 +858,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 48:54      | Head over to go.networktocode.com/automators and learn all the good things about Nautobot.   |
 | 49:01      | Once again, that's go.networktocode.com/automators and our thanks to network to code         |
 | 49:07      | for their support of the Automators podcast.                                                       |
-| 49:12      | So as we've talked about automation from inside Safari, let's go outside for a minute.             |
+| 49:12      | So as we've talked about automation from inside [[Safari]], let's go outside for a minute.             |
 | 49:18      | We have apps we talk about all the time that we use for accomplishing automation and some          |
-| 49:23      | of them actually play pretty nicely with Safari.                                                   |
+| 49:23      | of them actually play pretty nicely with [[Safari]].                                                   |
 | 49:27      | Let's start with Bunch.                                                                            |
-| 49:28      | I know that's an app you use often and Bunch has a bunch of Safari-related commands in             |
+| 49:28      | I know that's an app you use often and Bunch has a bunch of [[Safari]]-related commands in             |
 | 49:32      | it.                                                                                                |
 | 49:33      | Yeah.                                                                                              |
 | 49:34      | It's grape, it's grape.                                                                            |
@@ -870,15 +870,15 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 49:40      | It's not working very well.                                                                        |
 | 49:41      | Let's move on from the very not good puns.                                                         |
 | 49:45      | Yeah.                                                                                              |
-| 49:46      | But yes, Bunch does have excellent Safari support.                                                 |
-| 49:48      | So what you can do in Bunch is you can open Safari by typing in your bunch, Safari.                |
+| 49:46      | But yes, Bunch does have excellent [[Safari]] support.                                                 |
+| 49:48      | So what you can do in Bunch is you can open [[Safari]] by typing in your bunch, [[Safari]].                |
 | 49:54      | That's it.                                                                                         |
-| 49:55      | That opens Safari, people.                                                                         |
+| 49:55      | That opens [[Safari]], people.                                                                         |
 | 49:56      | That's all you need.                                                                               |
 | 49:57      | The more important you can open up URLs, right?                                                    |
 | 49:58      | I mean, that's the...                                                                              |
 | 49:59      | Well, that's just it.                                                                              |
-| 50:00      | What you can do is a Markdown-style list underneath the word Safari with a list of URLs, like      |
+| 50:00      | What you can do is a Markdown-style list underneath the word [[Safari]] with a list of URLs, like      |
 | 50:07      | one URL per line, it'll just go ahead and open each of those in a tab.                             |
 | 50:12      | And that works so darn well for me.                                                                |
 | 50:15      | I love it.                                                                                         |
@@ -888,35 +888,35 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 50:31      | And that works very well for me.                                                                   |
 | 50:33      | And I've emptied this up a little bit with some [[AppleScript]].                                       |
 | 50:39      | So what I do with the AppleScript is I have AppleScript open a new web page or a new window,       |
-| 50:48      | sorry, brand new window in Safari.                                                                 |
+| 50:48      | sorry, brand new window in [[Safari]].                                                                 |
 | 50:51      | So it's just a new empty window.                                                                   |
 | 50:53      | And then it'll open up one particular web page that I use all the time whenever I am               |
 | 50:58      | podcasting, and that is DuckDuckGo.                                                                |
 | 51:01      | And so this is just a little AppleScript that opens a new window with DuckDuckGo.                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
-| 51:09      | And I say tab group sets, I'm not talking Safari tab groups, I'm just talking about sets           |
+| 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
 | 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |
 | 51:19      | So it will first run that AppleScript and then it will open the pages I need.                      |
 | 51:25      | So for automators, I'll be, you know, the thanks for our sponsors and the really CMS               |
 | 51:29      | so we can save all those good links and our automators base, which works very well for             |
 | 51:34      | me.                                                                                                |
-| 51:35      | Okay, so let's put a pin in the Apple Safari tab group feature because there's an automation       |
+| 51:35      | Okay, so let's put a pin in the Apple [[Safari]] tab group feature because there's an automation       |
 | 51:40      | ankle to that.                                                                                     |
 | 51:41      | We definitely want to talk about.                                                                  |
-| 51:42      | But the thing you just mentioned saying use an automation tool outside of Safari to open           |
-| 51:48      | a group of tabs in Safari, I think is the most frequently desired automation from a                |
-| 51:55      | outside Safari, like you want Safari not to just open up, but give you the tabs for your           |
+| 51:42      | But the thing you just mentioned saying use an automation tool outside of [[Safari]] to open           |
+| 51:48      | a group of tabs in [[Safari]], I think is the most frequently desired automation from a                |
+| 51:55      | outside [[Safari]], like you want [[Safari]] not to just open up, but give you the tabs for your           |
 | 51:59      | work project or give you the tabs for your, you know, home banking or whatever thing it            |
 | 52:05      | is that you do where you've got a bunch of tabs, you always want to open it repeatedly.            |
 | 52:10      | And let's just take that one on kind of from a macro standpoint, bunch is one of the easiest       |
 | 52:16      | ways to do it.                                                                                     |
-| 52:17      | Like Rose said, you put, you call Safari with the term Safari and then you put markdown            |
+| 52:17      | Like Rose said, you put, you call [[Safari]] with the term [[Safari]] and then you put markdown            |
 | 52:22      | links underneath and you're good and it opens them for you.                                        |
-| 52:26      | The other apps that do this that I use are shortcuts, which has an open Safari, which              |
+| 52:26      | The other apps that do this that I use are shortcuts, which has an open [[Safari]], which              |
 | 52:32      | has basically a, you can add URLs to that command in, in shortcuts.                                |
 | 52:40      | And I find that completely stable and works and I don't have a problem.                            |
 | 52:44      | It opens each one in a new tab and keyboard, my show has a similar command where you can           |
-| 52:50      | open a URL in Safari and you can give it a list or you can open them one at a time.                |
+| 52:50      | open a URL in [[Safari]] and you can give it a list or you can open them one at a time.                |
 | 52:56      | It's a little more granular with keyboard, my show, but I find, frankly, shortcuts is              |
 | 53:01      | perfectly adequate at doing this.                                                                  |
 | 53:03      | The advantage for me doing in shortcuts is that I can run it on any device here.                   |
@@ -926,7 +926,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 53:23      | but that's a piece of it for me because so often part of my work is opening a group of             |
 | 53:28      | tabs that are related to something I'm working on.                                                 |
 | 53:31      | And I think anybody that's listening to this that wants to get better at automating the            |
-| 53:37      | browser, Safari or any browser, frankly, should figure out the best way for them to open tabs      |
+| 53:37      | browser, [[Safari]] or any browser, frankly, should figure out the best way for them to open tabs      |
 | 53:44      | because it's a beautiful little automation that's really easy to put together and every            |
 | 53:52      | time you do it, you get that payback of the time saved, like the first time you run it             |
 | 53:58      | in terms of the reliability and the speed, you'll smile every time you push that button            |
@@ -946,35 +946,35 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 54:59      | But then I also need to open Figma.                                                                |
 | 55:01      | So I just literally just added Figma to this and boom, you know, that's it, it's done.             |
 | 55:07      | And I have to say what the advantage is a bunch as well as if I do change my browser,              |
-| 55:11      | I can literally just go change the word Safari for Safari technology preview.                      |
+| 55:11      | I can literally just go change the word [[Safari]] for [[Safari]] technology preview.                      |
 | 55:15      | And yeah, that's it kind of done, you know, yeah, um, you know, it's one of those things           |
 | 55:22      | that do, do I want to change this?                                                                 |
 | 55:23      | No, I don't necessarily have any intention of changing this, but, you know, the fact               |
 | 55:27      | that I could, if I wanted to, um, is definitely, uh, you know, an appealing factor.                |
 | 55:33      | Um, and, you know, hopefully at some point, if we get better tab group support and other           |
 | 55:37      | automation things, then, um, you know, just like a bunch can open different Chrome profiles,       |
-| 55:43      | maybe, you know, it can also open things in particular Safari tab groups that will be              |
+| 55:43      | maybe, you know, it can also open things in particular [[Safari]] tab groups that will be              |
 | 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
 | 55:59      | obviously, um, you know, [[Keyboard Maestro]] also has some great integration options.                 |
 | 56:04      | Um, and one of the things that I do, um, which, you know, maybe, maybe this is over the top        |
 | 56:11      | and nerdy, maybe this isn't, um, but I actually have an automators, um, [[Keyboard Maestro]] macro,    |
 | 56:18      | which will activate in this case, it's actually activating edge, but the same principle will       |
-| 56:21      | would apply with Safari, but it can activate a specific application and like then in it            |
+| 56:21      | would apply with [[Safari]], but it can activate a specific application and like then in it            |
 | 56:26      | can bring a window containing a particular title to the front and this is really useful            |
-| 56:32      | for doing things like podcast recording because it can be like, Hey, like the Safari window        |
+| 56:32      | for doing things like podcast recording because it can be like, Hey, like the [[Safari]] window        |
 | 56:36      | that contains this title is the thing that I need to activate when I press this button             |
 | 56:41      | or this keyboard shortcut or whatever it is.                                                       |
 | 56:43      | And that can be very, very handy when you do have, you know, a bunch of different windows          |
 | 56:47      | hanging around.                                                                                    |
 | 56:48      | But on top of that, you know, [[Keyboard Maestro]] has a whole bunch, I mean, [[Keyboard Maestro]]         |
-| 56:53      | always does, right, but it has a whole bunch of things like, Hey, set the Safari URL to            |
-| 56:57      | this, like this Safari tab, uh, go open the next Safari tab or new Safari tab or new Safari        |
-| 57:02      | window or wait for Safari to finish loading and focus this field, um, or, you know, set            |
+| 56:53      | always does, right, but it has a whole bunch of things like, Hey, set the [[Safari]] URL to            |
+| 56:57      | this, like this [[Safari]] tab, uh, go open the next [[Safari]] tab or new [[Safari]] tab or new [[Safari]]        |
+| 57:02      | window or wait for [[Safari]] to finish loading and focus this field, um, or, you know, set            |
 | 57:10      | this field to this text or set this checkbox and submit the form, you know, like it's,             |
 | 57:16      | it's kind of crazy, like in a very good way just to be clear, um, but yeah, and it can             |
-| 57:20      | even execute JavaScript in Safari, which if you're going, wait, what?                              |
-| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, JavaScript on a web page in Safari.     |
+| 57:20      | even execute JavaScript in [[Safari]], which if you're going, wait, what?                              |
+| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, JavaScript on a web page in [[Safari]].     |
 | 57:31      | That's a bookmarklet and [[Keyboard Maestro]] can do the same thing.                                   |
 | 57:35      | Yeah.                                                                                              |
 | 57:36      | And, and that is, you know, where you go next level with it.                                       |
@@ -988,7 +988,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 58:10      | pieces of this.                                                                                    |
 | 58:11      | Like one of the things Rose did that I thought was really smart is she runs an AppleScript        |
 | 58:15      | to open essentially a new window and that way this tab group you open has a distinct               |
-| 58:21      | place that exists in, um, another way you could do that is you could close your Safari             |
+| 58:21      | place that exists in, um, another way you could do that is you could close your [[Safari]]             |
 | 58:27      | window via automation, which you can do in shortcuts and, and [[Keyboard Maestro]], I'm not,           |
 | 58:32      | I think you could do it.                                                                           |
 | 58:33      | Yeah.                                                                                              |
@@ -999,54 +999,54 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 58:41      | because I often have windows open of stuff that I am currently doing or that are for               |
 | 58:47      | the next thing that I will be doing and I don't want to close those and lose that.                 |
 | 58:51      | Now I could save all those tabs to a tab group or something like that, um, which is fine.          |
-| 58:57      | That's one way of doing it, but instead I usually minimise my existing Safari windows.             |
+| 58:57      | That's one way of doing it, but instead I usually minimise my existing [[Safari]] windows.             |
 | 59:02      | Yeah.                                                                                              |
 | 59:03      | Um, and then I open a new one and I just open the tabs that I need and that's it.                  |
-| 59:07      | Um, and by the way, when you open a new Safari window, it has to have a tab, which is why,         |
+| 59:07      | Um, and by the way, when you open a new [[Safari]] window, it has to have a tab, which is why,         |
 | 59:12      | you know, for me, it'll be the start page, but that's why I will use AppleScript specifically     |
 | 59:17      | to open it with the URL for Dr. Go because that way it's not opening my start page.                |
 | 59:22      | And then, you know, if I want to get rid of that, because I activate it using command              |
 | 59:25      | one, um, which you can, you can execute through anything, um, then, um, yeah, then I can,          |
-| 59:31      | then I can just use command W to close that Safari tab, um, and then just have the tabs            |
+| 59:31      | then I can just use command W to close that [[Safari]] tab, um, and then just have the tabs            |
 | 59:35      | I need.                                                                                            |
 | 59:36      | And it's not a wasted tab in essence, but, but you do need to address that problem.                |
 | 59:42      | When you started to start doing this, is do you want these tabs to just lump onto whatever's       |
-| 59:47      | currently in Safari, or do you want to open a new window?                                          |
+| 59:47      | currently in [[Safari]], or do you want to open a new window?                                          |
 | 59:51      | Do you want to close and reopen from fresh?                                                        |
 | 59:54      | You need to kind of come up with a solution for that.                                              |
 | 59:56      | And all of that stuff is, is fairly easy, but it's a problem you need to think through             |
 | 01:00:01   | when you're starting.                                                                              |
 | 01:00:03   | And, um, uh, but it, it's not that difficult and, and this stuff, once you get rolling             |
 | 01:00:08   | with it is, is really useful.                                                                      |
-| 01:00:10   | I feel like shortcuts support for safaris actually pretty robust.                                  |
+| 01:00:10   | I feel like shortcuts support for [[Safari]]s actually pretty robust.                                  |
 | 01:00:14   | You know, there are points where shortcuts does good and other points where it falls               |
 | 01:00:18   | down.                                                                                              |
 | 01:00:19   | There's one huge gaping problem, which we're going to talk about when we get to talking            |
 | 01:00:23   | about tab groups, um, but the, uh, in general, I feel like the Apple's done a pretty good          |
-| 01:00:28   | job of giving us a nice set of tools to, uh, to automate Safari with other than opening            |
+| 01:00:28   | job of giving us a nice set of tools to, uh, to automate [[Safari]] with other than opening            |
 | 01:00:34   | tabs.                                                                                              |
-| 01:00:35   | What other things do you do with shortcuts in Safari?                                              |
+| 01:00:35   | What other things do you do with shortcuts in [[Safari]]?                                              |
 | 01:00:38   | Well, not necessarily specifically with shortcuts, but one of the things that I do do is, you      |
-| 01:00:43   | know, I make a point of closing, um, Safari windows, um, when, um, I'm done with things.           |
+| 01:00:43   | know, I make a point of closing, um, [[Safari]] windows, um, when, um, I'm done with things.           |
 | 01:00:50   | Um, and usually what will happen is, you know, it'll prompt me to close, um, you know, that        |
 | 01:00:55   | window and then that actually, uh, runs, um, I think, I can't remember.                            |
 | 01:01:00   | I thought it was a [[Keyboard Maestro]] macro, but I'm now not seeing my [[Keyboard Maestro]]              |
 | 01:01:03   | macro for this.                                                                                    |
-| 01:01:04   | So maybe it wasn't that, um, but something I do have [[Keyboard Maestro]] do with Safari specifically  |
-| 01:01:10   | is command Q dangerously close to command W. Yeah, number of times we have quit Safari             |
+| 01:01:04   | So maybe it wasn't that, um, but something I do have [[Keyboard Maestro]] do with [[Safari]] specifically  |
+| 01:01:10   | is command Q dangerously close to command W. Yeah, number of times we have quit [[Safari]]             |
 | 01:01:17   | instead of closing a tab is just too many.                                                         |
-| 01:01:21   | So I have a Safari, well, I have an action group in, or a macro group, sorry, in, um,              |
-| 01:01:27   | in, um, [[Keyboard Maestro]], which is enabled in Safari and Safari technology preview.                |
+| 01:01:21   | So I have a [[Safari]], well, I have an action group in, or a macro group, sorry, in, um,              |
+| 01:01:27   | in, um, [[Keyboard Maestro]], which is enabled in [[Safari]] and [[Safari Technology Preview]].                |
 | 01:01:31   | And whenever I hit command Q, it'll just pop up and say, Hey, did you mean to close this           |
 | 01:01:39   | current application name?                                                                          |
 | 01:01:41   | If I say, and it moves that to the centre and if I say, yes, it quits it.                          |
 | 01:01:45   | If I say, no, it doesn't quit it and that's it.                                                    |
 | 01:01:48   | Um, and it's very, very, very simple.                                                              |
 | 01:01:51   | Um, it works exceptionally well, um, but that, that, that just does the thing that I need          |
-| 01:01:57   | to do, which means I don't accidentally quit Safari when I'm not trying to quit Safari.            |
+| 01:01:57   | to do, which means I don't accidentally quit [[Safari]] when I'm not trying to quit [[Safari]].            |
 | 01:02:02   | Yeah.                                                                                              |
 | 01:02:03   | Some of the other, uh, shortcuts actions that I think could be useful if you want to automate      |
-| 01:02:07   | Safari.                                                                                            |
+| 01:02:07   | [[Safari]].                                                                                            |
 | 01:02:08   | We talked earlier about duck, duck, go bang searches.                                              |
 | 01:02:11   | You could make a cool little choose from menu, um, search for, uh, that using shortcuts            |
 | 01:02:19   | because there is a command to search a note that by default, it said to search Google,             |
@@ -1071,10 +1071,10 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:03:26   | from web pages and I find those really useful for me when I see things I want to do further        |
 | 01:03:32   | research on, like, um, pulling information off the web and dumping into a craft note               |
 | 01:03:37   | or something.                                                                                      |
-| 01:03:38   | Um, there's a lot of really good features in there that are Safari specific.                       |
+| 01:03:38   | Um, there's a lot of really good features in there that are [[Safari]] specific.                       |
 | 01:03:43   | If you want to use shortcuts to, to get more out of your browser.                                  |
 | 01:03:47   | Yeah.                                                                                              |
-| 01:03:48   | So one of the things I actually use specifically the get details of Safari web page for is,         |
+| 01:03:48   | So one of the things I actually use specifically the get details of [[Safari]] web page for is,         |
 | 01:03:53   | um, I use good links for saving things for later.                                                  |
 | 01:03:56   | Um, and this was, um, a decision that I made.                                                      |
 | 01:03:59   | Um, I had previously used Instapaper and pocket and I flip flop back and forth between them,       |
@@ -1092,7 +1092,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:04:47   | So take the URL, it'll get the, uh, you know, get some details of it, saves it into good           |
 | 01:04:52   | links and that's it moves on its merry way.                                                        |
 | 01:04:55   | And so I still have full integration with, you know, all of the other things and it's              |
-| 01:05:00   | using the safari actions in, um, shortcuts to do that.                                             |
+| 01:05:00   | using the [[Safari]] actions in, um, shortcuts to do that.                                             |
 | 01:05:04   | So that works really nicely for me.                                                                |
 | 01:05:06   | Yeah.                                                                                              |
 | 01:05:07   | And then like kind of next level of this is going to keyboard my show.                             |
@@ -1231,7 +1231,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:13:02   | I can do what I would call a setup to start getting ready to research for the Automator's          |
 | 01:13:09   | podcast.                                                                                           |
 | 01:13:10   | It opens up a TAB group as part of that, sets a timer, does all that cool stuff.                   |
-| 01:13:15   | Go over to my Mac, open up the Safari action list, and guess what?                                 |
+| 01:13:15   | Go over to my Mac, open up the [[Safari]] action list, and guess what?                                 |
 | 01:13:19   | There's not an action for a TAB group.                                                             |
 | 01:13:22   | That is the brick wall I smash into with TAB groups on a daily basis.                              |
 | 01:13:28   | I want this stuff automated.                                                                       |
@@ -1252,13 +1252,13 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:14:25   | Yes.                                                                                               |
 | 01:14:26   | I think it's just one of those things where mail on iOS and Mac are clearly different              |
 | 01:14:32   | apps.                                                                                              |
-| 01:14:33   | Safari on iOS and Mac are clearly different apps, whereas reminders and notes and so on,           |
+| 01:14:33   | [[Safari]] on iOS and Mac are clearly different apps, whereas reminders and notes and so on,           |
 | 01:14:39   | they seem to have consolidated everything and brought that all together.                           |
-| 01:14:43   | We're not there yet with mail and Safari, and that's not a complaint for the mail team             |
-| 01:14:48   | or the Safari team, or if you want those to stay separate, then I'm not saying that they           |
+| 01:14:43   | We're not there yet with mail and [[Safari]], and that's not a complaint for the mail team             |
+| 01:14:48   | or the [[Safari]] team, or if you want those to stay separate, then I'm not saying that they           |
 | 01:14:54   | shouldn't still be the super powerful apps they are, but I really think it would be beneficial     |
 | 01:14:58   | to everybody if somebody sat down with the teams and was like, hey, so you know these              |
-| 01:15:03   | Safari actions, let's just get them all in everywhere.                                             |
+| 01:15:03   | [[Safari]] actions, let's just get them all in everywhere.                                             |
 | 01:15:06   | Yeah.                                                                                              |
 | 01:15:07   | Come on.                                                                                           |
 | 01:15:08   | Everything, everywhere, please.                                                                    |
@@ -1272,7 +1272,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:15:28   | how on earth did this start running in the first place?                                            |
 | 01:15:30   | I just want to exit, and it gets very frustrating when you're trying to deal with all that.        |
 | 01:15:35   | Honestly, if they get it sorted out, I mean, we're recording this just a little bit before         |
-| 01:15:40   | June, maybe this year, we'll get an update to Safari and shortcuts and fixes.                      |
+| 01:15:40   | June, maybe this year, we'll get an update to [[Safari]] and shortcuts and fixes.                      |
 | 01:15:46   | I could see myself kind of abandoning all of these complicated automations I put together          |
 | 01:15:51   | over the years and just going to this, because it's been absolutely reliable.                      |
 | 01:15:56   | The stuff I leave in a tab stays in the tab.                                                       |
@@ -1306,12 +1306,12 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:17:45   | it, like you were saying.                                                                          |
 | 01:17:49   | Apple just give me and Rose a day up there to talk to a couple of engineers, but we'll             |
 | 01:17:52   | sort it out for you, no problem.                                                                   |
-| 01:17:54   | I think, David, you've just made me realise I've had a safari bug every once in a while            |
+| 01:17:54   | I think, David, you've just made me realise I've had a [[Safari]] bug every once in a while            |
 | 01:17:58   | where a tab can't be moved to another window, like it kind of duplicates itself into the           |
 | 01:18:04   | two windows, but then if I activate it and one, it deactivates it in another, I think              |
 | 01:18:08   | you've just made me realise how that happened is due to pin tabs, and I'm going to see if          |
 | 01:18:11   | I can replicate that later and finally file that bug report with the detail it needs,              |
-| 01:18:15   | because sometimes safari goes weird is not a good bug report.                                      |
+| 01:18:15   | because sometimes [[Safari]] goes weird is not a good bug report.                                      |
 | 01:18:19   | I don't use the pin feature that often, but when it first released, I used it more, but            |
 | 01:18:25   | now I prefer to use automation to generate tabs for me or use tab groups themselves.               |
 | 01:18:31   | I feel like I'm being too negative on the tab groups.                                              |
@@ -1325,7 +1325,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:19:08   | All right, I want to switch topics real quick.                                                     |
 | 01:19:10   | There is a little bit of a white whale in my life.                                                 |
 | 01:19:13   | I have the MacSparky Labs, and I've had several members write me and ask me to make a video        |
-| 01:19:18   | explaining how to automatically download credit card statements in Safari.                         |
+| 01:19:18   | explaining how to automatically download credit card statements in [[Safari]].                         |
 | 01:19:24   | I've done various experiments on this and never been happy with the solutions I come               |
 | 01:19:29   | up with, and one of the big things is this is financial information.                               |
 | 01:19:32   | You've got to authenticate into these websites, and a lot of them have different formats as        |

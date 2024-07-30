@@ -378,7 +378,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 25:43      | search for a hay icon and I found a nice PNG of the icon of, of hay. And I put that on                    |
 | 25:51      | my desktop and I set that to the button in the Stream Deck app. And then I copied the                     |
 | 25:57      | artwork to our shared Stream Deck, um, artwork folder and I'm good. So now if I look on my                |
-| 26:03      | Stream Deck, I've got the hay icon there. If I tap that, then it opens up in Safari,                      |
+| 26:03      | Stream Deck, I've got the hay icon there. If I tap that, then it opens up in [[Safari]],                      |
 | 26:10      | the hay website. But just to go a step further, I thought, well, they also have a thing on                |
 | 26:15      | hay called set aside, which is where I put important email. I want to clear out at the                    |
 | 26:19      | end of the day. And the same thing. There's a URL for that. So I went in the Stream Deck                  |
@@ -526,7 +526,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 38:09      | do that. I've got some other methods of doing things, which we'll get to later in the show.               |
 | 38:13      | But the multi action for people who are just starting out and going, okay, so then I would                |
 | 38:17      | press this button, this button, this button. Well, it's easier than typing command space,                 |
-| 38:22      | Safari command space, [[Audio Hijack]], command space. What was that third application that                   |
+| 38:22      | [[Safari]] command space, [[Audio Hijack]], command space. What was that third application that                   |
 | 38:28      | I needed? Oh, yeah, notes or something like that, you know, you don't need to think you                   |
 | 38:33      | don't need to do the typing, you just press, you know, you could have three buttons for                   |
 | 38:36      | that or you could just have one button that opens all three things. So, you know, that's                  |
@@ -813,7 +813,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:03:28   | for doing that, you know, maybe in one of them, you know, you need keynote open and another               |
 | 01:03:35   | one you need Microsoft Word or, you know, I don't know, you tell me, but not only with                    |
 | 01:03:40   | [[Keyboard Maestro]], can you do that, but you can open a keynote to a specific file or open                  |
-| 01:03:47   | Safari to a specific website and just really configure it exactly the way you need it.                    |
+| 01:03:47   | [[Safari]] to a specific website and just really configure it exactly the way you need it.                    |
 | 01:03:53   | And it takes a little while to do this, but I just cannot emphasise the payoff that you                   |
 | 01:03:59   | get if you do this.                                                                                       |
 | 01:04:00   | Yeah. And the reason for me why I'm specifically using [[Keyboard Maestro]] versus a multi-action             |
@@ -825,13 +825,13 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:04:34   | all of my applications, but I found that was a bit of a problem because there are some                    |
 | 01:04:38   | applications that don't really like closing. And then you're reopening them again 30 seconds              |
 | 01:04:43   | later for this. So I decided to go with hiding all the applications. And then I go through                |
-| 01:04:48   | and I open the right applications. But instead of, for example, open Safari or activate Safari,           |
-| 01:04:54   | I don't, I activate a new Safari window. And then I open the URLs in that. So it doesn't                  |
+| 01:04:48   | and I open the right applications. But instead of, for example, open [[Safari]] or activate [[Safari]],           |
+| 01:04:54   | I don't, I activate a new [[Safari]] window. And then I open the URLs in that. So it doesn't                  |
 | 01:04:59   | matter what I was doing before, you know, say, for example, you know, I was researching                   |
 | 01:05:04   | the right kind of leggings to buy from Uniqlo. That was something I was doing before this                 |
-| 01:05:08   | show. As you do, you know, that's in a separate Safari window, which also means that when                 |
+| 01:05:08   | show. As you do, you know, that's in a separate [[Safari]] window, which also means that when                 |
 | 01:05:13   | I finish my podcast recording or my writing or screencasting or whatever it is, I can                     |
-| 01:05:17   | close one Safari window and that stuff is gone. But whatever else it is that I've got                     |
+| 01:05:17   | close one [[Safari]] window and that stuff is gone. But whatever else it is that I've got                     |
 | 01:05:22   | open is still around. And then I also, at the end, I trigger my [[Moom]] layout. And I really                 |
 | 01:05:29   | want to thank you for this one, David. [[Moom]] is a game changer for me. I'm still using                     |
 | 01:05:34   | [[BetterTouchTool]] for the snapping, though I know [[Moom]] could do it. I've just got it                      |
@@ -847,7 +847,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:06:22   | it easy to set these up. And as, as your setups, like Rose was saying, hide all first, that's             |
 | 01:06:28   | the necessary first step for these setup macros. And then you open up the windows and then                |
 | 01:06:33   | you put them exactly on the screen where you want them to be using those [[Moom]] shortcuts.                  |
-| 01:06:38   | And you open Safari to the browser tab you want. And then, you know, you open pages to                    |
+| 01:06:38   | And you open [[Safari]] to the browser tab you want. And then, you know, you open pages to                    |
 | 01:06:43   | the pages document and you just set everything up on your screen ideally. And, you know,                  |
 | 01:06:49   | I think I'm, I'm talking about this too much, but it just delights me when I push that button             |
 | 01:06:56   | and my computer, it just responds to me like, okay, Dave, you want to do legal research.                  |
@@ -882,7 +882,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:09:07   | applications because I used them as an application switcher now. So, you know, I've pressed my            |
 | 01:09:12   | setup button for automators. But guess what? If I want [[Audio Hijack]] to pop to the front,                  |
 | 01:09:17   | I just press the [[Audio Hijack]] button and it pops to the front. Or I've, you know, and                     |
-| 01:09:22   | I have a Safari button and a zoom button. I actually have two zoom buttons, one to join                   |
+| 01:09:22   | I have a [[Safari]] button and a zoom button. I actually have two zoom buttons, one to join                   |
 | 01:09:26   | the automators meeting every time we record and another one to just activate zoom so that,                |
 | 01:09:34   | you know, I can see and I can make sure that zoom is recording as well and things like that.              |
 | 01:09:38   | And it's amazing, you know, how much my workflow has evolved. And I'm glad that I've got the              |
@@ -938,8 +938,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:14:03   | dock auto hides. And so this includes things like [[OmniFocus]]. I've got the [[Fantastical]]                  |
 | 01:14:12   | script from [[Timothy Luoma\|TJ Luoma]] because that opens Fantastical for me. I have [[Obsidian]], [[Drafts]], [[Messages]],        |
 | 01:14:18   | [[Deliveries]], [[NetNewsWire]], things like that here. And these are just applications. The                     |
-| 01:14:22   | A I use very frequently and, **I** want to be using frequently. And so you'll notice Safari                  |
-| 01:14:30   | isn't there. That's probably because Safari is my most used application. So it's open                     |
+| 01:14:22   | A I use very frequently and, **I** want to be using frequently. And so you'll notice [[Safari]]                  |
+| 01:14:30   | isn't there. That's probably because [[Safari]] is my most used application. So it's open                     |
 | 01:14:34   | all the time anyway. But it's also because I don't necessarily want to be spending huge                   |
 | 01:14:38   | amounts of time in [[Safari]]. So, you know, I don't have that there. And I'm looking for                     |
 | 01:14:45   | some other buttons to fill this in with. But at the same time, I want to be smart about                   |
@@ -1045,8 +1045,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:22:59   | some of these buttons to individual profiles that are created for certain uses. So for                    |
 | 01:23:08   | example, at the meeting that I do every Tuesday afternoon, where I start by opening the Zoom              |
 | 01:23:18   | link and the Google Docs link, I then activate a profile. And this profile has very few buttons           |
-| 01:23:23   | in it, it has a button for the Google Doc, and then a button from to activate Safari.                     |
-| 01:23:31   | So if I'm if Safari is not activated, I can just switch back to that if it is open. It's                  |
+| 01:23:23   | in it, it has a button for the Google Doc, and then a button from to activate [[Safari]].                     |
+| 01:23:31   | So if I'm if [[Safari]] is not activated, I can just switch back to that if it is open. It's                  |
 | 01:23:36   | got a button for zoom. And then it's got the toggle video button, the toggle mute button                  |
 | 01:23:41   | and the ask all to unmute button. Because that's, you know, something that I occasionally                 |
 | 01:23:47   | need to do, I need to ask other people to unmute. But, you know, most of that profile                     |
@@ -1156,7 +1156,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:31:45   | key thing here is just to remember that, you know, putting that custom list of buttons                    |
 | 01:31:50   | together for each context of your work will make you work faster. And it also I think                     |
 | 01:31:56   | really helps you stay focused. Like it's much harder to go get lost in an email hole or                   |
-| 01:32:01   | a Safari tab hole when your computer keeps putting itself together exactly how you need                   |
+| 01:32:01   | a [[Safari]] tab hole when your computer keeps putting itself together exactly how you need                   |
 | 01:32:06   | it to get your work done.                                                                                 |
 | 01:32:08   | Yep. And I think I think that's the thing, you know, by doing this, I'm, you know, I've                   |
 | 01:32:13   | struggled a little bit with my concentration during the pandemic, especially in certain                   |

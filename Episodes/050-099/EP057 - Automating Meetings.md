@@ -736,7 +736,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 54:14      | spotted that lamp recently on the Philips Hue subreddit with Philips Hue light bulbs                      |
 | 54:19      | in and think that's really cool. I added to [[OmniFocus]] to put it on my shopping list of                    |
 | 54:24      | things to buy from my new house. And if you use, I'm using a bookmark, but if you use                     |
-| 54:30      | the Safari extension, then it will always add it with the title of the page. And of                       |
+| 54:30      | the [[Safari]] extension, then it will always add it with the title of the page. And of                       |
 | 54:34      | course, this is ripe for automation because it's in the same consistent format every single               |
 | 54:39      | time. There's always the IKEA dot com link in the note. And there's always face dash                      |
 | 54:44      | base IKEA at the end of the task. And lots of stores do the same sort of thing where                      |
@@ -783,7 +783,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 58:23      | tag as well as the store name tag. And so that helps because, you know, you can see                       |
 | 58:32      | how to do that.                                                                                           |
 | 58:33      | And I just like the idea of doing it in JavaScript because then I can just add tons of things.            |
-| 58:38      | I usually go through an open 10, 15 pages inside of, you know, Safari or Firefox on                       |
+| 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or Firefox on                       |
 | 58:45      | my work machine. If I'm taking a quick break from work, usually like three pages there.                   |
 | 58:49      | But then I just add them all. And then when I get to it later on whatever platform I'm                    |
 | 58:53      | on, that's why I went with the OmniFocus automation here with the JavaScript scripting. Then I            |

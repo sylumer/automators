@@ -169,11 +169,11 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 06:40      | And speaking of making life easier, this might actually be a really useful tool for the less         |
 | 06:44      | technical people as well.                                                                            |
 | 06:45      | So say, for example, you've got a relative who's not so tech savvy, and they've got                  |
-| 06:48      | an iPad, but they're struggling to remember that, I don't know, Safari is for the internet           |
+| 06:48      | an iPad, but they're struggling to remember that, I don't know, [[Safari]] is for the internet           |
 | 06:53      | and the internet, if they type in, I don't know, bbc.co.uk, then they get the BBC News               |
 | 06:59      | website.                                                                                             |
 | 07:00      | They get a news icon on their home screen that opens the BBC web page for them.                      |
-| 07:05      | And it can either open that in the in-app Safari browser or in the main Safari app, depending        |
+| 07:05      | And it can either open that in the in-app [[Safari]] browser or in the main [[Safari]] app, depending        |
 | 07:10      | on what you want.                                                                                    |
 | 07:11      | And you set that up for them, and then they just know, I tap on this one, which has got              |
 | 07:15      | the name that you've given it and the icon that you've given it, which makes it really               |
@@ -843,7 +843,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 46:26      | when you run it from your home screen, it's going to jump into the Siri Shortcuts app.               |
 | 46:31      | It's a little bit jarring the way it happens.                                                        |
 | 46:35      | Yeah.                                                                                                |
-| 46:36      | Unfortunately, it actually sends you to Safari and then it opens the Shortcuts app, which            |
+| 46:36      | Unfortunately, it actually sends you to [[Safari]] and then it opens the Shortcuts app, which            |
 | 46:40      | is a little bit, yeah, it takes a moment of getting used to it, but there's a great                  |
 | 46:46      | tip where it says, if you turn off reduce motion, then the action becomes more fluid.                |
 | 46:51      | Of course, this may change how other things appear.                                                  |
@@ -861,7 +861,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 47:39      | you can select in the Siri Shortcuts app, which applications get on your widget screen,              |
 | 47:44      | you can have all of these available to you by just swiping to the left on the widget                 |
 | 47:48      | screen and tapping on the appropriate one.                                                           |
-| 47:50      | And in that case, it doesn't go to Safari, it doesn't go to the Siri Shortcuts app.                  |
+| 47:50      | And in that case, it doesn't go to [[Safari]], it doesn't go to the Siri Shortcuts app.                  |
 | 47:53      | It truly acts like a menu-driven system, way more clean that way if you're unhappy with              |
 | 48:00      | the icons.                                                                                           |
 | 48:01      | Yes.                                                                                                 |
@@ -900,11 +900,11 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 49:46      | I don't think so.                                                                                    |
 | 49:47      | No, I don't think either was a breaking beta by saying it's in our dock because it is.               |
 | 49:53      | What's in your dock these days, Russ?                                                                |
-| 49:55      | Currently, I have [[Drafts]], Safari, Launch Center Pro, and OmniFocus.                                  |
+| 49:55      | Currently, I have [[Drafts]], [[Safari]], Launch Center Pro, and OmniFocus.                                  |
 | 49:59      | How about you?                                                                                       |
 | 50:00      | I have OmniFocus, [[Drafts]], and Launch Center Pro, and just those three.                               |
-| 50:05      | I keep trying three in the dock, but I use Safari a lot because I Google so much.                    |
-| 50:11      | So maybe I need to put a shortcut in my dock to Google Things instead of opening Safari.             |
+| 50:05      | I keep trying three in the dock, but I use [[Safari]] a lot because I Google so much.                    |
+| 50:11      | So maybe I need to put a shortcut in my dock to Google Things instead of opening [[Safari]].             |
 | 50:16      | Well, actually, and I kind of misspoke, it's not actually OmniFocus.                                 |
 | 50:20      | It's OmniSelect.                                                                                     |
 | 50:21      | It's my shortcut we've been talking about because I like to just, I love the idea of                 |
@@ -960,7 +960,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 52:58      | MacSparky contextual shortcuts are so useful to me.                                                  |
 | 53:02      | I just keep those on my home screen, but some of them I have just got apps.                          |
 | 53:07      | I just haven't really figured out how it all plays out for me yet.                                   |
-| 53:11      | That whole thing jumping to Safari and then back to Siri shortcuts really just makes me              |
+| 53:11      | That whole thing jumping to [[Safari]] and then back to Siri shortcuts really just makes me              |
 | 53:15      | crazy sometimes.                                                                                     |
 | 53:16      | Yeah.                                                                                                |
 | 53:17      | But I mean, at the same time for everybody listening, remember that there are no rules               |

@@ -1004,7 +1004,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 54:14      | And so I did.                                                                                         |
 | 54:15      | I wrote a [[Drafts]] action, which finds all of the empty links, but it then shows them to                |
 | 54:21      | you in a prompt so that you can just have this prompt open.                                           |
-| 54:24      | You can, especially on a Mac, you can put [[Drafts]] on one side of your screen and Safari                |
+| 54:24      | You can, especially on a Mac, you can put [[Drafts]] on one side of your screen and [[Safari]]                |
 | 54:28      | on the other and find all those links and just paste them all in and click OK.                        |
 | 54:33      | And then [[Drafts]] just goes, and it runs through and fixes all of those for you.                        |
 | 54:39      | And that's great.                                                                                     |
@@ -1106,9 +1106,9 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 59:51      | all the windows off my system.                                                                        |
 | 59:54      | It opens the calendar to the legal calendar.                                                          |
 | 59:57      | It opens OmniFocus to the legal tasks.                                                                |
-| 01:00:00   | It opens up multiple tabs and Safari in base camp based on, you know, that it opens my                |
+| 01:00:00   | It opens up multiple tabs and [[Safari]] in base camp based on, you know, that it opens my                |
 | 01:00:07   | online billing system.                                                                                |
-| 01:00:08   | So I just have a real custom set of Safari tabs that just opens automatically.                        |
+| 01:00:08   | So I just have a real custom set of [[Safari]] tabs that just opens automatically.                        |
 | 01:00:13   | And then those drop those go to the upper left portion of the left monitor.                           |
 | 01:00:19   | And then the the lower portion, all the other apps that I'm using get get relegated to the            |
 | 01:00:27   | lower half of the left external monitor.                                                              |
@@ -1118,7 +1118,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:00:43   | And it's working out really great for me with this new system.                                        |
 | 01:00:47   | And one of the the triggers to this was just, you know, the realisation that, well, I'm               |
 | 01:00:51   | doing a bunch of work on web based services.                                                          |
-| 01:00:55   | So why don't I just use Safari to run these and then I can use these custom URLs to really            |
+| 01:00:55   | So why don't I just use [[Safari]] to run these and then I can use these custom URLs to really            |
 | 01:01:00   | open it up exactly the way I want.                                                                    |
 | 01:01:02   | I don't think I could automate opening applications for base camp to get specific projects open       |
 | 01:01:09   | the way I can with the way I'm doing it, you know, on the web.                                        |

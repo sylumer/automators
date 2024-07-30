@@ -419,8 +419,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 27:37      | does not let you automate tab groups on the Mac with shortcuts. You know, they added tab groups,        |
 | 27:42      | but there's no command in shortcuts to say open up the automators recording tab group. It just,         |
 | 27:47      | I don't know how that one got through, but I'm assuming it's going to get added at some point.          |
-| 27:52      | And so what I do now is I say open Safari and look for the, and I usually keep the sidebar              |
-| 27:59      | and Safari open, just look for the tab group sidebar. And, but then it didn't work for me.              |
+| 27:52      | And so what I do now is I say open [[Safari]] and look for the, and I usually keep the sidebar              |
+| 27:59      | and [[Safari]] open, just look for the tab group sidebar. And, but then it didn't work for me.              |
 | 28:04      | I'm like, well, what's going on? And I looked at it, what happened because that the tab group had       |
 | 28:08      | already been highlighted, it had a gray background. It wasn't the same image, you know, and it's like   |
 | 28:13      | little things like that. So then you build in an automation, say, well, look, if it's gray,             |

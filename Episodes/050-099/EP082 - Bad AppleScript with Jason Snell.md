@@ -941,7 +941,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 44:29      | I did do some of this automation on the Mac too, ultimately,                                                     |
 | 44:31      | so that I can post things out of [[BBEdit]].                                                                        |
 | 44:33      | But on the iPad, I just, I didn't want to do it.                                                                 |
-| 44:36      | Plus, it's iPad Safari.                                                                                          |
+| 44:36      | Plus, it's iPad [[Safari]].                                                                                          |
 | 44:37      | It's a little more ungainly, copy and paste,                                                                     |
 | 44:39      | and you've got to move back and forth in multitasking                                                            |
 | 44:42      | and iPad, which is not as flexible as it is on the Mac.                                                          |
@@ -1031,7 +1031,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 48:15      | And I love it.                                                                                                   |
 | 48:16      | And I've got some other shortcuts.                                                                               |
 | 48:17      | I've got a shortcut for when I write an article on Macworld                                                      |
-| 48:19      | that I want to link to where I can select the text in Safari                                                     |
+| 48:19      | that I want to link to where I can select the text in [[Safari]]                                                     |
 | 48:22      | and run the shortcut from the share menu                                                                         |
 | 48:24      | and it grabs the text out, turns it into markdown,                                                               |
 | 48:27      | asks me for a title and puts that in that story type                                                             |
@@ -1108,7 +1108,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 51:55      | and then you have to do a grep search on that                                                                    |
 | 51:57      | or a regular expression based search                                                                             |
 | 51:59      | to find the phrase of here's what your ID is                                                                     |
-| 52:02      | and then you use that to do a open in Safari                                                                     |
+| 52:02      | and then you use that to do a open in [[Safari]]                                                                     |
 | 52:06      | with the string that will open a particular ID                                                                   |
 | 52:10      | in WordPress with the ID number itself                                                                           |
 | 52:14      | a smart variable coming from that search                                                                         |
@@ -1476,10 +1476,10 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:04:48   | my web server. I would love to have that                                                                         |
 | 01:04:50   | on the Mac too.                                                                                                  |
 | 01:04:52   | But guess what                                                                                                   |
-| 01:04:54   | on the Mac Safari                                                                                                |
+| 01:04:54   | on the Mac [[Safari]]                                                                                                |
 | 01:04:56   | doesn't let you run a shortcut from the share menu.                                                              |
 | 01:04:58   | And in fact                                                                                                      |
-| 01:05:00   | Safari on the Mac has kind of                                                                                    |
+| 01:05:00   | [[Safari]] on the Mac has kind of                                                                                    |
 | 01:05:02   | no good way                                                                                                      |
 | 01:05:04   | of like getting the selection                                                                                    |
 | 01:05:06   | the code of the selection                                                                                        |
@@ -1490,7 +1490,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:05:16   | and when I try to run it on the Mac like there's                                                                 |
 | 01:05:18   | literally nothing I can do. I can't run                                                                          |
 | 01:05:20   | it right. If I run it from other places                                                                          |
-| 01:05:22   | it can't see what Safari is doing.                                                                               |
+| 01:05:22   | it can't see what [[Safari]] is doing.                                                                               |
 | 01:05:24   | So basically                                                                                                     |
 | 01:05:26   | and I accept that this is a                                                                                      |
 | 01:05:28   | mode that is just                                                                                                |
@@ -1503,8 +1503,8 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:05:42   | macOS 12.0                                                                                                       |
 | 01:05:44   | but I hope they follow it up because like                                                                        |
 | 01:05:46   | why can't I use the share menu                                                                                   |
-| 01:05:48   | with shortcuts on Safari.                                                                                        |
-| 01:05:50   | And I think the answer is because Safari                                                                         |
+| 01:05:48   | with shortcuts on [[Safari]].                                                                                        |
+| 01:05:50   | And I think the answer is because [[Safari]]                                                                         |
 | 01:05:52   | on the Mac never had to do that                                                                                  |
 | 01:05:54   | and so they never did it.                                                                                        |
 | 01:05:56   | And it's on iPad so it should                                                                                    |
@@ -1542,7 +1542,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:07:00   | to the Mac. And there                                                                                            |
 | 01:07:02   | are some inherent differences that you need                                                                      |
 | 01:07:04   | to account for like                                                                                              |
-| 01:07:06   | the ability to have Safari run a shortcut.                                                                       |
+| 01:07:06   | the ability to have [[Safari]] run a shortcut.                                                                       |
 | 01:07:08   | Another one for me is                                                                                            |
 | 01:07:10   | the ability to select a menu item.                                                                               |
 | 01:07:12   | I think that is something that                                                                                   |

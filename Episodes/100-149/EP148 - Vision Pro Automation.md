@@ -343,7 +343,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 18:05      | and the idea is it's in Yosemite, I've got, I'm using notes currently, although [[Simon Støvring\|Simon]]                 |
 | 18:13      | has a text editor that I've been experimenting with, but you know, so I've got a writing              |
 | 18:18      | app.                                                                                                  |
-| 18:19      | I've got the environment of Yosemite and sometimes I may have Safari open for research, but in        |
+| 18:19      | I've got the environment of Yosemite and sometimes I may have [[Safari]] open for research, but in        |
 | 18:25      | general it's an isolated writing environment.                                                         |
 | 18:28      | And I've been using that on, you know, Vision Pro.                                                    |
 | 18:31      | So like when I, I just make a list of things that need to get written and then I just sit             |
@@ -507,7 +507,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 28:46      | Pro, I guess, because you could be very easily activating a lot of apps in very quick succession      |
 | 28:53      | by accident.                                                                                          |
 | 28:54      | You sort of glance at one, and then you glance at the next one, and it's in the middle of             |
-| 28:57      | running your Safari shortcut, and then you activate shortcuts and so on and so forth.                 |
+| 28:57      | running your [[Safari]] shortcut, and then you activate shortcuts and so on and so forth.                 |
 | 29:04      | So yeah, that makes sense.                                                                            |
 | 29:06      | Yeah.                                                                                                 |
 | 29:07      | And I think you said you've got the sound recognition option as well, which is from the accessibility |

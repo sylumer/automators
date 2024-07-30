@@ -825,7 +825,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 34:46      | because it's actually one of the other,                           |
 | 34:49      | so the encouraging things about this are,                         |
 | 34:51      | and I'll say, I'm not a huge Chrome fan, personally,              |
-| 34:54      | I don't use Chrome, I use Safari all the time,                    |
+| 34:54      | I don't use Chrome, I use [[Safari]] all the time,                    |
 | 34:57      | so I'm kind of like the last person                               |
 | 34:59      | you'd expect to go running to Chrome,                             |
 | 35:01      | but as soon as I see that there's                                 |
@@ -1279,7 +1279,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 54:45      | and clicking the play button on the [[Script Editor]].                |
 | 54:49      | So, you know, examples are things like,                           |
 | 54:52      | I have scripts that run,                                          |
-| 54:54      | I run in Safari to go to all like the favourite URLs               |
+| 54:54      | I run in [[Safari]] to go to all like the favourite URLs               |
 | 54:58      | I like to go to.                                                  |
 | 54:59      | I would never open up [[Script Editor]]                               |
 | 55:01      | to go put like a Open New York Times news,                        |
@@ -1948,10 +1948,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:25:11   | for location which somewhat baffles me.                           |
 | 01:25:15   | Actually the one that baffles me most                             |
 | 01:25:17   | is the application trigger for focus modes on Mac OS.             |
-| 01:25:20   | So you activate Safari and it activates your focus mode           |
+| 01:25:20   | So you activate [[Safari]] and it activates your focus mode           |
 | 01:25:23   | and then you tab away to reply to a message                       |
 | 01:25:25   | and it deactivates your focus mode.                               |
-| 01:25:28   | And then you tap back to Safari                                   |
+| 01:25:28   | And then you tap back to [[Safari]]                                   |
 | 01:25:29   | and it usually doesn't actually work unfortunately                |
 | 01:25:31   | to activate your focus mode the second time                       |
 | 01:25:34   | if you do it in fairly short sequence.                            |
@@ -2012,14 +2012,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:28:03   | but broad and deep where people want it.                          |
 | 01:28:06   | You know, just give people the out.                               |
 | 01:28:09   | Give people, it's kind of like, you know,                         |
-| 01:28:13   | Safari supporting app extensions or Safari plugins.               |
+| 01:28:13   | [[Safari]] supporting app extensions or [[Safari]] plugins.               |
 | 01:28:18   | It's like Apple's not going to emphasise                          |
 | 01:28:22   | the desire or need to like go install                             |
 | 01:28:27   | some random third party, you know,                                |
 | 01:28:31   | like the, you know, if eBay has a plugin                          |
-| 01:28:35   | or something for Safari, it's like,                               |
+| 01:28:35   | or something for [[Safari]], it's like,                               |
 | 01:28:36   | it can be simple for everybody except for the person              |
-| 01:28:40   | who wants to install a plugin to Safari.                          |
+| 01:28:40   | who wants to install a plugin to [[Safari]].                          |
 | 01:28:43   | And I think that's, hopefully that's the approach                 |
 | 01:28:47   | that they'll take with future automation enhancements as well.    |
 | 01:28:51   | Yes, because we do see that, don't we,                            |

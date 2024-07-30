@@ -138,7 +138,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 05:16      | [[Hazel]] rules and things like that, well, it's already there.                                            |
 | 05:20      | It's got shortcuts.                                                                                    |
 | 05:21      | The vast majority of apps that have shortcut support on iOS have them on Mac OS now.                   |
-| 05:26      | There are naturally some exceptions to that, Safari and so on.                                         |
+| 05:26      | There are naturally some exceptions to that, [[Safari]] and so on.                                         |
 | 05:30      | But this means that then your Mac that's always on anyway can also run PushCut.                        |
 | 05:34      | And so then Zapier can go, hey, hey, David's Mac, go run this shortcut and bam, it will                |
 | 05:40      | run that shortcut.                                                                                     |

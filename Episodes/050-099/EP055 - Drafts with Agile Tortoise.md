@@ -561,7 +561,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 47:17      | to do meal planning, I've got a template action that just says new grocery list and it comes up              |
 | 47:24      | with a new list that's tagged groceries and that has text filled in for creating checkbox lists for          |
 | 47:31      | each part of the store and for the recipes I want to cook. And then I kind of sit there on my iPad           |
-| 47:36      | and split screen with Safari and browse to recipes I want to make and drag the links into [[Drafts]] and         |
+| 47:36      | and split screen with [[Safari]] and browse to recipes I want to make and drag the links into [[Drafts]] and         |
 | 47:43      | then fill out my list for what I need to get at the store, you know, while I'm doing that.                   |
 | 47:50      | And what I love about it is that I put, you know, I go to the store and I pull my phone out and my           |
 | 47:56      | notes sink and I flip on, I call the action shopping mode. And what it does is it changes                    |

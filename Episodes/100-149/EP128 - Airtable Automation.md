@@ -1100,7 +1100,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:59   | of really wanted to type something, I'd definitely be recommending JavaScript as the language             |
 | 01:08:05   | just because then you can create actions for [[Obsidian]] or extensions for [[Obsidian]].                         |
 | 01:08:10   | You can create actions for [[Drafts]].                                                                        |
-| 01:08:12   | You can create Safari bookmarklets and all sorts of things.                                               |
+| 01:08:12   | You can create [[Safari]] bookmarklets and all sorts of things.                                               |
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
 | 01:08:23   | JavaScript is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
@@ -1147,8 +1147,8 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:11:33   | So really, I would just go in and look at the focus filters and see if you used Evan                      |
 | 01:11:38   | Think, then you can filter your databases.                                                                |
 | 01:11:41   | If you use Good Links, you can filter your tags, if you use One Password, you can choose                  |
-| 01:11:45   | the account or collection that you want to use, Agenda, Messages, Safari, Streaks, all                    |
-| 01:11:51   | of these apps, even Tasked has got support for this and Safari.                                           |
+| 01:11:45   | the account or collection that you want to use, Agenda, Messages, [[Safari]], Streaks, all                    |
+| 01:11:51   | of these apps, even Tasked has got support for this and [[Safari]].                                           |
 | 01:11:55   | And then you've also got things like you're always on display, the appearance and low                     |
 | 01:11:59   | power mode.                                                                                               |
 | 01:12:00   | So you can turn on and off the always on display, set your appearance to light mode or dark               |

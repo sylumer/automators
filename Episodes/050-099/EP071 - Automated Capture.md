@@ -467,7 +467,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 30:21      | and accurate.                                                                                            |
 | 30:22      | Yes.                                                                                                     |
 | 30:24      | And that's the thing, you know, I've done some little tweaks.                                            |
-| 30:27      | So usually the way if you share something from Safari to [[Drafts]], it would usually create                 |
+| 30:27      | So usually the way if you share something from [[Safari]] to [[Drafts]], it would usually create                 |
 | 30:32      | a markdown link with the title of the page as the name of the link, the URL and brackets                 |
 | 30:39      | and then a quote and the quote would be whatever selected.                                               |
 | 30:42      | And if you've got nothing selected, you end up with this empty quote mark.                               |
@@ -536,7 +536,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 35:20      | But you should do that because it's very easy to do it.                                                  |
 | 35:23      | I've already written it for you.                                                                         |
 | 35:24      | I will say that my code is not the best, but it was something I wrote quickly and it works.              |
-| 35:29      | But a lot of the time now, I find that I'm using handoff to pick up the Safari page on                   |
+| 35:29      | But a lot of the time now, I find that I'm using handoff to pick up the [[Safari]] page on                   |
 | 35:35      | my iPhone.                                                                                               |
 | 35:36      | And then I send it to shortcuts, which manipulate stuff and chucks it into [[Drafts]].                       |
 | 35:41      | It adds an extra step, but I've then got everything in the format that I desire on my phone or           |

@@ -157,7 +157,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 08:03      | it as a dictionary, which is just very useful when all of them use slightly different terms            |
 | 08:08      | to mean almost the same thing, but not really. And so I forgot about recordable. And I'm               |
 | 08:15      | happy to report recording is still a function AppleScript that's had to report. I just                |
-| 08:20      | tried it in Safari and it doesn't work. You'd think that Safari had support for recordable.            |
+| 08:20      | tried it in [[Safari]] and it doesn't work. You'd think that [[Safari]] had support for recordable.            |
 | 08:26      | I mean, the recordable stuff was an absolute pain to implement because basically everything            |
 | 08:33      | single thing you did in your logic, you had to emit. I'm trying to remember how it was                 |
 | 08:41      | actually implemented. But yeah, you were making all these, all this stuff like really into             |

@@ -1157,17 +1157,16 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 42:02      | that's why that app is always opening. I hate                     |
 | 42:04      | that. You know, especially                                        |
 | 42:06      | for me, I periodically                                            |
-| 42:08      | switch between using Safari and Safari technology                 |
-| 42:10      | preview. And                                                      |
-| 42:12      | to start with in                                                  |
+| 42:08      | switch between using [[Safari]] and [[Safari Technology Preview]].                 |
+| 42:12      | And to start with in                                                  |
 | 42:14      | in Bunch actually said, hey, open this                            |
-| 42:16      | in Safari. You know, open                                         |
-| 42:18      | this URL in Safari or I had                                       |
+| 42:16      | in [[Safari]]. You know, open                                         |
+| 42:18      | this URL in [[Safari]] or I had                                       |
 | 42:20      | I have an AppleScript, which I use frequently                    |
-| 42:22      | tell application Safari to open new                               |
+| 42:22      | tell application [[Safari]] to open new                               |
 | 42:24      | window. Because whenever I'm recording                            |
 | 42:26      | a podcast, I hide everything and then I                           |
-| 42:28      | have Safari open a new window                                     |
+| 42:28      | have [[Safari]] open a new window                                     |
 | 42:30      | where all of the URLs                                             |
 | 42:32      | for the episode get opened.                                       |
 | 42:34      | So that I'll, you know, make sure that                            |
@@ -1175,8 +1174,8 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 42:38      | available, but it's not mixed in with everything                  |
 | 42:40      | else, right?                                                      |
 | 42:42      | And I realised                                                    |
-| 42:44      | that it was telling Safari to open                                |
-| 42:46      | and then Safari technology preview was getting                    |
+| 42:44      | that it was telling [[Safari]] to open                                |
+| 42:46      | and then [[Safari Technology Preview]] was getting                    |
 | 42:48      | the URLs. That was partially a me problem                         |
 | 42:50      | because I had not done things quite right.                        |
 | 42:52      | I'm partially, hey, Rose                                          |

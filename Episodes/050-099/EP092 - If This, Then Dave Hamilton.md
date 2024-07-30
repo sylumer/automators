@@ -1237,7 +1237,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 52:21      | You've used this term before on your show.                                                                                                                               |
 | 52:23      | Great. Yeah.                                                                                                                                                             |
 | 52:24      | So it's a magic link and the app will give it to you.                                                                                                                    |
-| 52:26      | So it gives you the link and if you launch that magic link in Safari,                                                                                                    |
+| 52:26      | So it gives you the link and if you launch that magic link in [[Safari]],                                                                                                    |
 | 52:29      | it will trigger whatever the app's going to do.                                                                                                                          |
 | 52:31      | And so you can have [[Keyboard Maestro]] launch that magic link instead.                                                                                                     |
 | 52:35      | And I had those magic links wired up via [[Keyboard Maestro]].                                                                                                               |
@@ -1337,16 +1337,16 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 57:00      | hide that app.                                                                                                                                                           |
 | 57:01      | Sorry.                                                                                                                                                                   |
 | 57:02      | Uh, I do this for a variety of reasons.                                                                                                                                  |
-| 57:06      | Uh, my favourite one is Safari because, and really this is true of any web browser.                                                                                       |
-| 57:12      | If I leave Safari running for multiple days, it will blow it up and my Mac starts acting                                                                                 |
+| 57:06      | Uh, my favourite one is [[Safari]] because, and really this is true of any web browser.                                                                                       |
+| 57:12      | If I leave [[Safari]] running for multiple days, it will blow it up and my Mac starts acting                                                                                 |
 | 57:18      | all weird.                                                                                                                                                               |
-| 57:19      | So I know that I want to quit Safari once a day.                                                                                                                         |
-| 57:21      | So I set it after I have not used Safari for 180 minutes to quit Safari.                                                                                                 |
-| 57:26      | It almost never quits in the middle of my day because I'm using Safari for a variety                                                                                     |
-| 57:31      | of things and it's rare that I could go three hours without at least making Safari my active                                                                             |
+| 57:19      | So I know that I want to quit [[Safari]] once a day.                                                                                                                         |
+| 57:21      | So I set it after I have not used [[Safari]] for 180 minutes to quit [[Safari]].                                                                                                 |
+| 57:26      | It almost never quits in the middle of my day because I'm using [[Safari]] for a variety                                                                                     |
+| 57:31      | of things and it's rare that I could go three hours without at least making [[Safari]] my active                                                                             |
 | 57:36      | app.                                                                                                                                                                     |
 | 57:37      | But overnight it quits it and I get to wake up every day and hit my computer and launch                                                                                  |
-| 57:42      | Safari and I'm back in business.                                                                                                                                         |
+| 57:42      | [[Safari]] and I'm back in business.                                                                                                                                         |
 | 57:44      | And I could even have a, as you like, I like your term set up, I could even have a keyboard                                                                              |
 | 57:48      | maestro set up that launches all the apps that have been quit overnight if I wanted                                                                                      |
 | 57:51      | to, you know, when I, when I first wake up my computer in the morning, like there's an                                                                                   |
@@ -1391,7 +1391,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:00:13   | Okay, so I have like a bunch which just opens, let me see what it does, I've got it over                                                                                 |
 | 01:00:19   | here somewhere, there it is, edit Bunch files.                                                                                                                           |
 | 01:00:22   | So it just opens Visual Code Studio and it opens the folder where I have my Bunch files                                                                                  |
-| 01:00:28   | in Visual Code Studio and then it opens the Bunch application docs for me in Safari.                                                                                     |
+| 01:00:28   | in Visual Code Studio and then it opens the Bunch application docs for me in [[Safari]].                                                                                     |
 | 01:00:33   | That's all it does, it's really simple, but it just gets me the few things that I need                                                                                   |
 | 01:00:37   | whenever I'm doing this because yeah, why not?                                                                                                                           |
 | 01:00:40   | Are you two still talking because I'm working on this Bunch thing that you told me about?                                                                                |
@@ -1439,7 +1439,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:02:55   | option shift V. And when I do that, it takes the contents of my clipboard, assuming it's                                                                                 |
 | 01:03:01   | text and if it's not, it doesn't paste anything, but it takes that text and pastes it as an                                                                              |
 | 01:03:06   | actual paste, not a type without any styling whatsoever.                                                                                                                 |
-| 01:03:11   | And so, you know, for when I copy something from Safari and it's inheriting all the, you                                                                                 |
+| 01:03:11   | And so, you know, for when I copy something from [[Safari]] and it's inheriting all the, you                                                                                 |
 | 01:03:15   | know, styling of the text on the website and I want to paste it into an email or something                                                                               |
 | 01:03:19   | whether I don't want style, I just do that and then boom, it, you know, it comes in as                                                                                   |
 | 01:03:24   | plain text.                                                                                                                                                              |
@@ -1884,12 +1884,12 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:26:37   | I'm going to clear the decks.                                                                                                                                            |
 | 01:26:38   | I'm going to start recording the podcast.                                                                                                                                |
 | 01:26:40   | It clears the decks.                                                                                                                                                     |
-| 01:26:41   | I use Safari, sorry, AppleScript to open a new Safari window.                                                                                                           |
+| 01:26:41   | I use [[Safari]], sorry, AppleScript to open a new [[Safari]] window.                                                                                                           |
 | 01:26:45   | So I clear the decks.                                                                                                                                                    |
 | 01:26:46   | I hide all the applications that I do want to keep.                                                                                                                      |
-| 01:26:48   | And then I hide all of the other Safari.                                                                                                                                 |
-| 01:26:50   | I hide everything and then tell application Safari to make new document.                                                                                                 |
-| 01:26:55   | And I get a brand new empty Safari window, which has got spaced for all the links and                                                                                    |
+| 01:26:48   | And then I hide all of the other [[Safari]].                                                                                                                                 |
+| 01:26:50   | I hide everything and then tell application [[Safari]] to make new document.                                                                                                 |
+| 01:26:55   | And I get a brand new empty [[Safari]] window, which has got spaced for all the links and                                                                                    |
 | 01:26:59   | everything that need to be opened and maintained during the show, which is really, really,                                                                               |
 | 01:27:02   | really useful.                                                                                                                                                           |
 | 01:27:03   | So that certainly makes my life easier.                                                                                                                                  |
@@ -1913,7 +1913,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:28:10   | You know, I don't, because I use Stay from Cordless Dog, every app that I have has its                                                                                   |
 | 01:28:18   | place on my screen and it doesn't matter what my workflow is.                                                                                                            |
 | 01:28:22   | Like I always know that, you know, [[Audio Hijack]] is going to be over there, Mail is going to                                                                              |
-| 01:28:26   | be over here if it's running, Safari is going to be here, those sorts of things.                                                                                         |
+| 01:28:26   | be over here if it's running, [[Safari]] is going to be here, those sorts of things.                                                                                         |
 | 01:28:29   | So I use Stay from Cordless Dog to put things in their place when it launches, whether I                                                                                 |
 | 01:28:36   | launch it manually or [[Keyboard Maestro]] does it as part of its setup.                                                                                                     |
 | 01:28:41   | So that's how I manage that.                                                                                                                                             |

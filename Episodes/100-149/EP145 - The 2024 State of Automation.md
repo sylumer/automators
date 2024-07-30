@@ -352,14 +352,14 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 17:10      | like asking you like, you know, yes or no or one of these three things and so on can                    |
 | 17:14      | be really useful.                                                                                       |
 | 17:15      | And yeah, there's also Chrome profiles, which I don't use Chrome, but I like the idea of                |
-| 17:20      | using different Chrome profiles and don't get me wrong, I love Safari, but the fact                     |
-| 17:25      | that it's really difficult to automate Safari, which is quite sad, like there's some bits               |
-| 17:30      | of Safari that are super easy to automate, which I love.                                                |
-| 17:33      | And then other bits of Safari are just so difficult to automate, like, you know, the                    |
+| 17:20      | using different Chrome profiles and don't get me wrong, I love [[Safari]], but the fact                     |
+| 17:25      | that it's really difficult to automate [[Safari]], which is quite sad, like there's some bits               |
+| 17:30      | of [[Safari]] that are super easy to automate, which I love.                                                |
+| 17:33      | And then other bits of [[Safari]] are just so difficult to automate, like, you know, the                    |
 | 17:37      | new stuff like, you know, targeting the profiles and the tab groups and so on, like you can             |
 | 17:42      | do some of it with shortcuts, but not all of it.                                                        |
 | 17:46      | That's something that I would really like to see an improvement for.                                    |
-| 17:49      | So there you go, Apple, have some homework, Safari team, you know, your WebKit stuff's                  |
+| 17:49      | So there you go, Apple, have some homework, [[Safari]] team, you know, your WebKit stuff's                  |
 | 17:53      | great.                                                                                                  |
 | 17:54      | Just more shortcuts, more shortcuts and automation, give everyone some AppleScript support and         |
 | 17:58      | Apple events and then everybody will just go nuts over it.                                              |
@@ -491,7 +491,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 25:19      | Another one that's worth mentioned to me is Grammarly, you know, it just, it's slowly                   |
 | 25:24      | dawned on me that this is a text tool that I use many times a day, you know, I pay for                  |
 | 25:30      | a subscription to Grammarly.                                                                            |
-| 25:31      | And over the last year, they've done a better job with their Safari plugin.                             |
+| 25:31      | And over the last year, they've done a better job with their [[Safari]] plugin.                             |
 | 25:36      | So now you don't have to necessarily grab your Grammarly text and go to their website                   |
 | 25:41      | to get the full, you know, edit on it.                                                                  |
 | 25:43      | You can do it in most web text editors.                                                                 |
@@ -651,7 +651,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 35:37      | Oh, yeah.                                                                                               |
 | 35:38      | Trust me, I'm filing feedback for everything.                                                           |
 | 35:41      | Like I'm filing feedback for pages.                                                                     |
-| 35:43      | Keynote, numbers, mail, Safari, you name it, every single native macOS application, calendar.           |
+| 35:43      | Keynote, numbers, mail, [[Safari]], you name it, every single native macOS application, calendar.           |
 | 35:51      | I have filed the same feedback.                                                                         |
 | 35:53      | I'm really sorry to all the people that have to process the radars, especially I know the               |
 | 35:57      | Iwork team has one centralised thing.                                                                   |
@@ -679,7 +679,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 37:17      | Shortcuts does because Shortcuts is still new and still has some growing pains.                         |
 | 37:22      | I think some of that is down to the fact that the Shortcuts team aren't con and shouldn't               |
 | 37:28      | be doing everything.                                                                                    |
-| 37:30      | It's down to the Safari team to add Safari support.                                                     |
+| 37:30      | It's down to the [[Safari]] team to add [[Safari]] support.                                                     |
 | 37:33      | It's down to the Notes team to add Notes support, it's down to the Mail team to add                     |
 | 37:37      | Mail support.                                                                                           |
 | 37:38      | That explains why there's very little Mail support.                                                     |
@@ -725,7 +725,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 40:15      | a whole bunch of massive list of things that they have to do with all of the things.                    |
 | 40:20      | But as it is, I feel like that's the one big area that they still have to improve as well               |
 | 40:26      | along with not necessarily having parity between the platforms.                                         |
-| 40:32      | And I think a lot of that is down to the apps within Apple like the Safari team don't necessarily       |
+| 40:32      | And I think a lot of that is down to the apps within Apple like the [[Safari]] team don't necessarily       |
 | 40:41      | add the same things on Mac OS that they do on iOS.                                                      |
 | 40:45      | The mail team, just as I mentioned before, kind of seems to be on a holiday and not quite               |
 | 40:48      | sure what's happening there.                                                                            |

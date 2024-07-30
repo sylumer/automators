@@ -199,7 +199,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 08:18      | [[AppleScript]].                                                                                                    |
 | 08:19      | So we had to think, well, how are we going to handle this?                                                          |
 | 08:22      | And so right there from day one, we included a little [[URL Schemes\|URL scheme]] to say, all right, I want         |
-| 08:27      | to add this thing to my inbox and then you could add a shortcut to Safari on your iPhone                            |
+| 08:27      | to add this thing to my inbox and then you could add a shortcut to [[Safari]] on your iPhone                            |
 | 08:33      | that would call that thing and send the current page's URL over to it.                                              |
 | 08:38      | And then over time as the, you know, that was, that still your several years down the                               |
 | 08:44      | road ended up still being the only way that iOS apps could talk to each other.                                      |

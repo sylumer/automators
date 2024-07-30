@@ -354,7 +354,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 15:16      | Or is it the shortcuts team has to go to all those app people and be like, please, let's               |
 | 15:20      | do this thing because, you know, new features come out.                                                |
 | 15:23      | I think of, I was trying to automate something and I wanted to do an automation related to             |
-| 15:28      | tab groups in Safari.                                                                                  |
+| 15:28      | tab groups in [[Safari]].                                                                                  |
 | 15:29      | Yeah.                                                                                                  |
 | 15:30      | There's nothing there.                                                                                 |
 | 15:31      | You can't do anything with tab groups.                                                                 |
@@ -401,9 +401,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 17:31      | there wouldn't be emerged conflicts if they keep it on like a side branch and just keep                |
 | 17:34      | things up to date as they go.                                                                          |
 | 17:36      | But if they could do that as they did things, because we only recently on the Mac got a                |
-| 17:41      | shortcuts action to get the current web page from Safari and it's only on the Mac.                      |
+| 17:41      | shortcuts action to get the current web page from [[Safari]] and it's only on the Mac.                      |
 | 17:46      | But iOS did get the ability to get the contents of what's on your screen a while ago, but              |
-| 17:51      | that doesn't necessarily translate to a Safari page.                                                   |
+| 17:51      | that doesn't necessarily translate to a [[Safari]] page.                                                   |
 | 17:54      | And, you know, how, depending on how you trigger this, it, you know, if you trigger something          |
 | 17:58      | via the share sheet, then you actually don't want that action.                                         |
 | 18:01      | You want whatever's coming through the share sheet.                                                    |
@@ -460,7 +460,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 20:59      | And you know, there is something to be said for it.                                                    |
 | 21:03      | Don't start on things too early, but it kind of feels to an extent that some things maybe              |
 | 21:07      | don't get started at all or are granting started much too late because there doesn't appear            |
-| 21:12      | to be a automation framework for Safari tab groups, for example, there's nothing in Apple              |
+| 21:12      | to be a automation framework for [[Safari]] tab groups, for example, there's nothing in Apple              |
 | 21:17      | Script, there doesn't appear to be a single way to get this information.                               |
 | 21:21      | And I've gone digging.                                                                                 |
 | 21:22      | I have gone digging for this because I love tab groups, but you know, there's stuff in                 |
@@ -501,7 +501,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 22:55      | Yeah.                                                                                                  |
 | 22:56      | Yeah.                                                                                                  |
 | 22:57      | I mean, I'll tell you what, here's a challenge for shortcuts team for next year.                       |
-| 22:59      | Spaces and then remembered spaces like you have tab groups in Safari.                                  |
+| 22:59      | Spaces and then remembered spaces like you have tab groups in [[Safari]].                                  |
 | 23:02      | Give me spaces that I can like have preconfigured.                                                     |
 | 23:05      | Oh, that'd be awesome.                                                                                 |
 | 23:08      | This episode of automators is brought to you by electric.                                              |
@@ -560,7 +560,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 26:37      | would be able to talk to each other via the web.                                                       |
 | 26:41      | I think that is something that's incredibly powerful because many of us spend a lot of                 |
 | 26:46      | our time on the web.                                                                                   |
-| 26:47      | I'm sure Safari or your web browser is your app that you probably have opened more than                |
+| 26:47      | I'm sure [[Safari]] or your web browser is your app that you probably have opened more than                |
 | 26:52      | a lot of other ones.                                                                                   |
 | 26:54      | I've spent a lot of time working on gluing web services together and also doing automation              |
 | 26:59      | for stuff like blogs or WordPress platforms and stuff like that, where it's like, oh,                  |
@@ -1015,7 +1015,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 59:33      | the time stamp into a variable, which in [[Keyboard Maestro]] is a global variable, which we don't         |
 | 59:37      | have any shortcuts. So you would have to save it somewhere, like using either a through party app      |
 | 59:42      | or to a file. And then, you know, and then every time I hit the middle foot pedal of my stream         |
-| 59:47      | data pedal, it just activates the Safari window with the Google doc in it, and hits command down       |
+| 59:47      | data pedal, it just activates the [[Safari]] window with the Google doc in it, and hits command down       |
 | 59:56      | and then and types in types in the timestamp, which it saved at the beginning of the macro,            |
 | 01:00:00   | just just like you did down because that was something I realised. Because usually,                    |
 | 01:00:04   | by the time you realise, actually, you need to take the note, you need to go back a couple of          |
@@ -1194,7 +1194,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:15:11   | if today is on the schedule, and if the comics at the specific site, then take a date string that      |
 | 01:15:16   | we already have, add it to the URL I've stored in the dictionary, and then add that to like my         |
 | 01:15:22   | final list of things to open. And then after I get out of that loop, I basically take my list,         |
-| 01:15:27   | split it by new lines, and then told tell safari, like open all these URLs. So that's a total thing    |
+| 01:15:27   | split it by new lines, and then told tell [[Safari]], like open all these URLs. So that's a total thing    |
 | 01:15:34   | you could do in shortcuts that makes a lot of sense. Exactly. It works really well. Actually,          |
 | 01:15:39   | I have to say it's one of the remote most robust shortcuts I have made in that I've never had a        |
 | 01:15:44   | once I figured out how to make it work. I've never had a problem and never had to touch it again.      |

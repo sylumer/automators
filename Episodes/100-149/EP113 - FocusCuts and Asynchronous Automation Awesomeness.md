@@ -917,7 +917,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 54:49      | Not fun.                                                                                                |
 | 54:50      | And it's such a burden to get that working right and take so much debugging sometimes                   |
 | 54:55      | that you feel like it's not worth it, where if you had just done the simple part, you                   |
-| 55:00      | know, create a shortcut that opens three browser tabs in Safari, you know, turns on a focus             |
+| 55:00      | know, create a shortcut that opens three browser tabs in [[Safari]], you know, turns on a focus             |
 | 55:07      | mode and opens Microsoft Word, you could create that in all of 10 minutes and, you know, and            |
 | 55:15      | attach it to Roses app.                                                                                 |
 | 55:16      | So when you're in the focus mode, it shows up in the menu bar and you click it once and                 |

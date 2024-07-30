@@ -306,7 +306,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 27:40      | specifically? All right. So setups, you know, the idea of setting your screen up to do your edits       |
 | 27:45      | or whatever it is work project you want to do. You have done the first building block and that's        |
 | 27:51      | setting windows because I feel like for most people, that's the biggest part, like you sit down         |
-| 27:56      | at your computer and Safari is open to Amazon, but you need to make, you know, write the report,        |
+| 27:56      | at your computer and [[Safari]] is open to Amazon, but you need to make, you know, write the report,        |
 | 28:02      | edit the podcast, whatever it is you do to pay for your shoes. What if you could hit a magical          |
 | 28:06      | button and Amazon went away and the editing software came up and the windows were just the              |
 | 28:11      | way you like them. So you can feel like you're in the space to do the work.                             |

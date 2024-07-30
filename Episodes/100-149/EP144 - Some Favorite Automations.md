@@ -198,7 +198,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 09:18      | my dinner order and now I have to go through and do the whole thing again because, yeah,           |
 | 09:22      | I was at a restaurant the other day for some reason, weirdly enough, by the way, you scan          |
 | 09:26      | the QR code and the menu worked there.                                                             |
-| 09:28      | If you tapped on the little icon and opened it in Safari, no, couldn't actually place              |
+| 09:28      | If you tapped on the little icon and opened it in [[Safari]], no, couldn't actually place              |
 | 09:33      | an order.                                                                                          |
 | 09:34      | Everything was unavailable.                                                                        |
 | 09:35      | So weird.                                                                                          |

@@ -45,7 +45,7 @@ The following apps were supported in quick actions.
 - Pocket
 - Readability
 - [[Apple Reminders|Reminders]]
-- Safari
+- [[Safari]]
 - Skype
 - The Hit List
 - Things

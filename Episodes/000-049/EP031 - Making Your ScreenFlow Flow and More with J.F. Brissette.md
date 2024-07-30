@@ -410,9 +410,9 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 21:10      | typing the application's name that you want to open, then hit return.                                   |
 | 21:14      | Now if the application name, I'm sorry, if the application name has two or more words,                  |
 | 21:18      | you want to put quotes on the outside, inside the string with single quotes.                            |
-| 21:23      | But for example, if you wanted to open Safari, you could open it to a specific URL.                     |
+| 21:23      | But for example, if you wanted to open [[Safari]], you could open it to a specific URL.                     |
 | 21:28      | But if you wanted to open the app by itself, you simply would type open space dash a space              |
-| 21:33      | and the word Safari, then hit return.                                                                   |
+| 21:33      | and the word [[Safari]], then hit return.                                                                   |
 | 21:36      | So if you already got a terminal in front of you because you're doing something else                    |
 | 21:40      | or you're just exploring it, this is a great way to get started because it's really not                 |
 | 21:44      | difficult to do.                                                                                        |

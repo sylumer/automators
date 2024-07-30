@@ -839,7 +839,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:03:22   | know, I've been very happy with the fact that I've only got the medium sized Stream Deck.                     |
 | 01:03:27   | So I've got 15 buttons online, which is not as many, but with the ability to switch profiles                  |
 | 01:03:33   | and automatically switch profiles, I'm pretty happy.                                                          |
-| 01:03:37   | Yeah. I'm just thinking [[ScreenFlow]] needs its own deck and, you know, why not Safari?                          |
+| 01:03:37   | Yeah. I'm just thinking [[ScreenFlow]] needs its own deck and, you know, why not [[Safari]]?                          |
 | 01:03:43   | You know, all right. So Rose, I'm so glad you guys figured this out for me. This is                           |
 | 01:03:47   | going to be great. Rose took it a step further. She's automating switching the profile based                  |
 | 01:03:52   | on the app she's in. So can you address the Stream Deck to change to a specific profile                       |
@@ -1009,7 +1009,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:17:33   | there's three steps. There's the intent, which is your brain says, I want to do X, then you have to           |
 | 01:17:39   | go to the app. And then from within the app, there's the action, you know, so what you really want            |
 | 01:17:44   | to go straight from intent to action, because that app step in the middle becomes a problem.                  |
-| 01:17:50   | Quite often, like I want to go do something that involves the internet and you open Safari and                |
+| 01:17:50   | Quite often, like I want to go do something that involves the internet and you open [[Safari]] and                |
 | 01:17:56   | suddenly you're looking at, you know, dogs surfing. And you're like, Oh, wait a second, I,                    |
 | 01:18:02   | the intent never made it to the action or the same thing email, I want to go deal with customer               |
 | 01:18:07   | support email and you go in and you get in the inbox and you're looking at Nigerian princes or                |

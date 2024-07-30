@@ -87,7 +87,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 02:06      | efficiently. And I was trying to help them make it work the way it was working. And so                   |
 | 02:10      | I first came up with a simple automation that would do this sort of URL-based, maybe I should            |
 | 02:16      | back up, OmniFocus has always had this URL-based automation stuff built into it on the iPhone            |
-| 02:21      | because we wanted some way to capture from Safari and there weren't system APIs for apps                 |
+| 02:21      | because we wanted some way to capture from [[Safari]] and there weren't system APIs for apps                 |
 | 02:25      | talking to each other. So we came up with this URL thing where we thought, well, at                      |
 | 02:30      | least let you take the current web page and add it to a task so you could send a note                    |
 | 02:34      | and a name and it would get captured in OmniFocus. So people started using that as a mechanism           |
@@ -167,7 +167,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 08:33      | like workflow. And I'm not sure that we would be where we are if, if you guys hadn't started             |
 | 08:39      | the ball rolling.                                                                                        |
 | 08:40      | Oh, well, thank you. It was, you know, an important, as I mentioned, it was important                    |
-| 08:45      | to us to be able to start talking with at least one other app, Safari, in that case.                     |
+| 08:45      | to us to be able to start talking with at least one other app, [[Safari]], in that case.                     |
 | 08:50      | But then once there was a way to, once we had figured out a way to talk between apps                     |
 | 08:53      | and having these URLs, it became natural that it got more and more advanced. And then, of                |
 | 08:59      | course, the, I'm actually wearing my ex-callback URL t-shirt right now that got built and extended       |
@@ -651,7 +651,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 47:29      | on that because for me, you know, I've never really worked with user interfaces of that                  |
 | 47:34      | kind. I've only ever worked with web browsers where everything is different on every single              |
 | 47:38      | device because some people have 8 billion and one bookmarks and tabs open and some people                |
-| 47:44      | have it full screen in Safari with nothing showing apart from the address bar. And so,                   |
+| 47:44      | have it full screen in [[Safari]] with nothing showing apart from the address bar. And so,                   |
 | 47:49      | you know, you have no idea what the other person's device looks like and therefore what                  |
 | 47:53      | they're really seeing. So, you have to sort of just guesstimate, but a canvas in OmniGraffle             |
 | 47:58      | is, you know, it's precise. And I love the fact that you can specifically say, okay,                     |

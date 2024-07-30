@@ -443,14 +443,14 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 35:35      | the update. I know I had a few little pet issues that I was looking for. So this is my chance to          |
 | 35:41      | whine about it. I was, I was really disappointed in some of the lack of parity between devices.           |
 | 35:50      | I have been running all sorts of automations to, you know, set up my Mac to do things. And I love         |
-| 35:58      | tab groups in Safari on the iPad and iPhone. There's an action that says open a tab group,                |
+| 35:58      | tab groups in [[Safari]] on the iPad and iPhone. There's an action that says open a tab group,                |
 | 36:03      | and it's perfect. It just really, it makes doing things like setups really easy. And it's not been        |
 | 36:09      | on the Mac now for a year. And I kept thinking, well, it'll be, it'll come in WBC. I'm sure it's          |
 | 36:14      | in next year's release because they did it already. They made it for the iPhone and iPad.                 |
 | 36:18      | Um, there's not, it's not easily addressable via [[AppleScript]] to do this on the Mac. There's not          |
 | 36:24      | really like an alternate route short of like the goofy thing and keyboard mice where you have a           |
 | 36:29      | look for the word on the screen, which, you know, really is dependent on a lot of things happening.       |
-| 36:34      | And that didn't come over. So we did not get open a tab group on Safari, even though it's been on         |
+| 36:34      | And that didn't come over. So we did not get open a tab group on [[Safari]], even though it's been on         |
 | 36:40      | the iPhone and iPad for a while. So I'm a little sad about that. Another one that is the same             |
 | 36:47      | situation is open a specific email box. I use the [[Apple Mail]] app, and I love the idea of a                |
 | 36:52      | shortcut that can open me to a specific mailbox to keep me focused and on target. We've got it on         |

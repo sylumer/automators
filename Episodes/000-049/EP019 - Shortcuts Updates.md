@@ -1312,7 +1312,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 54:39      | because I was expecting it to be near the clock icon                                              |
 | 54:42      | because if you tap on the clock for people that don't know,                                       |
 | 54:44      | you will scroll to the top.                                                                       |
-| 54:46      | And this works in Safari, this works in shortcuts,                                                |
+| 54:46      | And this works in [[Safari]], this works in shortcuts,                                                |
 | 54:49      | this works in pages, news, everything.                                                            |
 | 54:52      | It's the library button at the bottom next to the gallery button.                                 |
 | 54:55      | Yes. That's the one that you need to tap                                                          |

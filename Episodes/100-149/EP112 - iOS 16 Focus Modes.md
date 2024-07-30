@@ -551,27 +551,27 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 31:37      | But I really like not only that you have all of the options that you can filter by and,                 |
 | 31:44      | you know, there's other things that are here as well, like Noir has a focus mode filter                 |
 | 31:50      | and you might be thinking wait what Noir it's it's the dark mode like browser extension                 |
-| 31:55      | for Safari.                                                                                             |
+| 31:55      | for [[Safari]].                                                                                             |
 | 31:56      | Yes, it is, but you can set it that you can toggle it.                                                  |
 | 31:59      | So if it's usually on auto, then you could set it to as explicitly on or off in certain                 |
 | 32:04      | focus modes and you can choose the theme that it uses as well, but streaks the habit tracking           |
 | 32:09      | app has support and focused the Pomodoro timer also has filter support for the session groups.          |
-| 32:19      | But I think David, I think possibly my favourite one is Safari and those tab groups because              |
+| 32:19      | But I think David, I think possibly my favourite one is [[Safari]] and those tab groups because              |
 | 32:24      | I've been, I've been going all in on the tab groups.                                                    |
 | 32:27      | I'm really liking it.                                                                                   |
-| 32:28      | I did, I do keep getting caught out a little bit though, Safari technology preview and                  |
-| 32:33      | Safari do not share tab groups.                                                                         |
+| 32:28      | I did, I do keep getting caught out a little bit though, [[Safari Technology Preview]] and                  |
+| 32:33      | [[Safari]] do not share tab groups.                                                                         |
 | 32:35      | And this confuses me every once in a while because I will go to look for a tab group                    |
-| 32:38      | on my Mac because I like to use Safari technology preview there.                                        |
+| 32:38      | on my Mac because I like to use [[Safari Technology Preview]] there.                                        |
 | 32:42      | The purple icon may have something to do with that anyway, you know, and so, and I'll look              |
 | 32:46      | for a tab group and be like, Hmm, where is it?                                                          |
 | 32:49      | Oh, right.                                                                                              |
-| 32:50      | I created it in Safari on my iPhone.                                                                    |
-| 32:51      | So it's in Safari, Safari, not Safari technology preview Safari, but it's, it's working pretty          |
+| 32:50      | I created it in [[Safari]] on my iPhone.                                                                    |
+| 32:51      | So it's in [[Safari]], [[Safari]], not [[Safari Technology Preview]] [[Safari]], but it's, it's working pretty          |
 | 32:55      | well.                                                                                                   |
 | 32:56      | Okay.                                                                                                   |
 | 32:57      | A couple of questions there.                                                                            |
-| 32:58      | Is the Safari tab groups implementation with prior to Ventura max working with this?                    |
+| 32:58      | Is the [[Safari]] tab groups implementation with prior to Ventura max working with this?                    |
 | 33:05      | Because yeah.                                                                                           |
 | 33:06      | Okay.                                                                                                   |
 | 33:07      | So I have been kind of holding off on tab groups because I wanted to wait until my,                     |
@@ -580,7 +580,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 33:20      | But the, but if it's, if it's compatible, then I need to actually dig into that.                        |
 | 33:24      | Yeah.                                                                                                   |
 | 33:25      | The tab groups haven't changed themselves.                                                              |
-| 33:27      | All that's happened, I say all, because clearly the folks over on the Safari team have been             |
+| 33:27      | All that's happened, I say all, because clearly the folks over on the [[Safari]] team have been             |
 | 33:31      | working super hard on this.                                                                             |
 | 33:33      | They've just added about 16,000 shortcuts actions.                                                      |
 | 33:37      | And of course they've got all of the, the, the focus mode filters, but you can access                   |
@@ -1686,7 +1686,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:41:20   | Just because when I screencast, I, you know, I really don't want people interrupting me.                |
 | 01:41:27   | And it has a custom home screen.                                                                        |
 | 01:41:29   | So if I am screen recording my phone, then the only thing on my home screen is my dock                  |
-| 01:41:34   | and Safari in the actual home screen, which is quite a useful little thing.                             |
+| 01:41:34   | and [[Safari]] in the actual home screen, which is quite a useful little thing.                             |
 | 01:41:39   | Yeah.                                                                                                   |
 | 01:41:40   | It's a similar one I call production and I intend that to be screencasting or shooting                  |
 | 01:41:45   | video.                                                                                                  |

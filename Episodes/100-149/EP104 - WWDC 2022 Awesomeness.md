@@ -377,12 +377,12 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 17:46      | a large metal box, which doesn't have great cellular signal, being able to turn on low                    |
 | 17:49      | power mode for your day seems pretty cool.                                                                |
 | 17:52      | So I like those, but the ones that really get me, David, they're the app filters, calendar,               |
-| 17:58      | messages, mail, Safari.                                                                                   |
-| 18:00      | I can choose when I activate a focus mode to select a specific tab group in Safari.                       |
+| 17:58      | messages, mail, [[Safari]].                                                                                   |
+| 18:00      | I can choose when I activate a focus mode to select a specific tab group in [[Safari]].                       |
 | 18:05      | How cool is that?                                                                                         |
 | 18:06      | It's so cool.                                                                                             |
 | 18:07      | Yeah.                                                                                                     |
-| 18:08      | It really is impressive and it works with four apps begin with mail, Safari, calendars                    |
+| 18:08      | It really is impressive and it works with four apps begin with mail, [[Safari]], calendars                    |
 | 18:14      | and messages, but other apps can tie into it.                                                             |
 | 18:18      | So we're going to see more apps doing that.                                                               |
 | 18:20      | Like you can say pull a calendar set, you know, when I switch to this focus mode and                      |
@@ -420,7 +420,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 20:17      | day.                                                                                                      |
 | 20:18      | But I guess we'll see what happens there.                                                                 |
 | 20:20      | But I'm generally very excited by this feature just because, you know, you can choose what                |
-| 20:25      | Safari tab group, you choose your calendars, you choose your mail, and, you know, you've                  |
+| 20:25      | [[Safari]] tab group, you choose your calendars, you choose your mail, and, you know, you've                  |
 | 20:31      | got all of these, you know, filters set up and ready for you so that you open messages                    |
 | 20:36      | and it's filtered to just people when you're in your personal work mode.                                  |
 | 20:40      | So that text message that you got from the parking lot to say that, you know, they've                     |
@@ -620,21 +620,21 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 35:48      | had a bit of a chance to sort of fill in the gaps, you know, they've been building a really               |
 | 35:51      | great structure. And now they've had a chance to come back and, you know, do more than just               |
 | 35:56      | put at the plasterboard, they're skimming the walls type thing, because we got shortcut                   |
-| 36:00      | support for tab groups in Safari, David. Tab groups in Safari have shortcut support.                      |
+| 36:00      | support for tab groups in [[Safari]], David. Tab groups in [[Safari]] have shortcut support.                      |
 | 36:05      | I am unbelievably ridiculously excited by this. Because again, this is something that                     |
 | 36:11      | we always get asked by people, how do I access a tab group in shortcuts and AppleScript                  |
 | 36:16      | and through [[Keyboard Maestro]] and [[Hazel]] and things like that. And the answer was, sorry,                   |
 | 36:21      | not. And the answer now is you can use shortcuts for that, which is great. So you can open                |
 | 36:28      | a tab group, and you can add a tab to a tab group, and you can create a tab group. And                    |
-| 36:33      | you can also configure your Safari focus filter, which means that just, you know, like you                |
-| 36:38      | might want to switch your, your mail focus filter, you can also change your Safari focus                  |
+| 36:33      | you can also configure your [[Safari]] focus filter, which means that just, you know, like you                |
+| 36:38      | might want to switch your, your mail focus filter, you can also change your [[Safari]] focus                  |
 | 36:43      | filter to a specific tab group. So if you have a few different work tab groups, then                      |
 | 36:47      | you can switch between them in your focus filters, which means that new blinks and things                 |
 | 36:52      | that you open will automatically fall into those tab groups. At least that's what's                       |
 | 36:58      | happened so far in my experience. I'm not sure if that is what it's supposed to do,                       |
 | 37:02      | or if that's just, you know, how it's working right now. But I'm very excited by that because             |
 | 37:08      | I found that I was struggling to use tab groups in many ways, because I just couldn't automatically       |
-| 37:16      | open a specific one. And now I can. And so this is where being able to change my Safari                   |
+| 37:16      | open a specific one. And now I can. And so this is where being able to change my [[Safari]]                   |
 | 37:22      | focus filter, David, is going to be very helpful. I have one podcasting focus mode. I have                |
 | 37:27      | a, I have a tab group for each of my podcasts. So I'm going to be able to open the right                  |
 | 37:32      | tab group. Thanks to my automations, because I'll know which podcast I'm recording when                   |
@@ -903,7 +903,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 58:42      | And yeah, that was not good. So, I'm pleased to see that there's lots of little things                    |
 | 58:47      | sneaking in. And I'm sure there's a whole bunch of stuff that I've missed. But what's                     |
 | 58:51      | really exciting for me is these focus mode filters, even if you can't think of a good                     |
-| 58:56      | reason to be changing your focus mode filters for mail, messages, calendar or safari as part              |
+| 58:56      | reason to be changing your focus mode filters for mail, messages, calendar or [[Safari]] as part              |
 | 59:01      | of shortcuts, it is entirely possible that you will have a different need for it in one                   |
 | 59:07      | of the many other apps that's going to add support for a focus mode filter. And then                      |
 | 59:12      | we will be able to use that feature to, you know, inside of shortcuts. Similarly, opening                 |
@@ -1173,10 +1173,10 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:21:15   | I think we do as well. And I'm just really pleased to see that, you know, the other teams                 |
 | 01:21:19   | behind applications and features on Mac OS and iOS and iPad OS are already taking these                   |
 | 01:21:26   | actions and, and using them and using the APIs to give us these features. So, you know, we've,            |
-| 01:21:33   | we've got Safari reader support on Mac OS now, which we didn't have before. And I don't know              |
-| 01:21:38   | if that's because of the news shortcuts intense, or because the Safari team actually had a                |
+| 01:21:33   | we've got [[Safari]] reader support on Mac OS now, which we didn't have before. And I don't know              |
+| 01:21:38   | if that's because of the news shortcuts intense, or because the [[Safari]] team actually had a                |
 | 01:21:42   | chance to do that along with the tab groups, or somebody was doing tab groups and went,                   |
-| 01:21:46   | oh, shoot, we missed the Safari reader stuff on Mac OS. Let me just go fix that a minute.                 |
+| 01:21:46   | oh, shoot, we missed the [[Safari]] reader stuff on Mac OS. Let me just go fix that a minute.                 |
 | 01:21:52   | I don't really care why it happened. I am just happy that it did happen. And, you know,                   |
 | 01:21:58   | at the end of the day, it doesn't matter what calls this, providing the result that we get                |
 | 01:22:02   | is that everybody gets more automation available to them, even if they're not necessarily going           |

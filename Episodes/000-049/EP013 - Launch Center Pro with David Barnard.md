@@ -354,7 +354,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 14:53      | And one of the things I really like,                                 |
 | 14:54      | and I'm curious how you guys did this,                               |
 | 14:56      | is normally when you launch a Siri shortcut from the desktop,        |
-| 14:59      | you get this jiggling where it goes to Safari                        |
+| 14:59      | you get this jiggling where it goes to [[Safari]]                        |
 | 15:02      | and then it goes to the Siri shortcuts app.                          |
 | 15:03      | And the whole thing feels pretty,                                    |
 | 15:06      | I don't know, feels pretty wonky to me.                              |
@@ -1620,7 +1620,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:12:15   | I've got [[Drafts]], Launch Center Pro and Fantastic Health.             |
 | 01:12:20   | How about you, David, what's in your dock?                           |
 | 01:12:25   | I guess I'm the odd man out here.                                    |
-| 01:12:29   | I have mail, Launch Center Pro, Safari                               |
+| 01:12:29   | I have mail, Launch Center Pro, [[Safari]]                               |
 | 01:12:34   | and my Weather app, Weather app.                                     |
 | 01:12:36   | So.                                                                  |
 | 01:12:36   | Yeah, I live in California.                                          |

@@ -1405,8 +1405,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 56:39      | to add a link to the show notes or something                          |
 | 56:41      | and then we need to add a timestamp.                                  |
 | 56:43      | Okay, so the middle button right now, I press it,                     |
-| 56:45      | it switches back to Safari                                            |
-| 56:47      | and it switches to the Safari window with Google Doc                  |
+| 56:45      | it switches back to [[Safari]]                                            |
+| 56:47      | and it switches to the [[Safari]] window with Google Doc                  |
 | 56:50      | in the title, it presses command down arrow                           |
 | 56:52      | so that I'm at the bottom of the show notes,                          |
 | 56:55      | it puts in a return and then it inserts the timestamp                 |
@@ -1472,11 +1472,11 @@ Rose and David have several automation topics on the table in this episode inclu
 | 59:15      | and I should note that this is kind of critical                       |
 | 59:17      | to the workflow.                                                      |
 | 59:17      | So I always have the automators dock                                  |
-| 59:19      | in a separate Safari window.                                          |
+| 59:19      | in a separate [[Safari]] window.                                          |
 | 59:21      | I don't open anything else in that window.                            |
-| 59:23      | Everything else happens in another Safari window,                     |
+| 59:23      | Everything else happens in another [[Safari]] window,                     |
 | 59:25      | which means that I can use,                                           |
-| 59:27      | so I'm using the activate Safari command,                             |
+| 59:27      | so I'm using the activate [[Safari]] command,                             |
 | 59:30      | which I don't think I need,                                           |
 | 59:31      | but I had it in there to start with.                                  |
 | 59:33      | And so I've just left it there.                                       |
@@ -1491,7 +1491,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 59:54      | And that's what I've done                                             |
 | 59:55      | because there might be something else                                 |
 | 59:57      | with a window name that says Google lock.                             |
-| 59:59      | But I want specifically the Safari window                             |
+| 59:59      | But I want specifically the [[Safari]] window                             |
 | 01:00:01   | with Google lock for this,                                            |
 | 01:00:03   | so that I can jump to it.                                             |
 | 01:00:05   | And then it's just keystroke command down arrow,                      |

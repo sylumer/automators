@@ -160,7 +160,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 06:06      | Um, so starting on the, uh, on the local Mac level, um, I write blog posts and I continue              |
 | 06:14      | to write them in [[Obsidian]] and Markdown.                                                                |
 | 06:16      | Um, so the automation steps that happen there are, I have, um, I write it in Markdown, then            |
-| 06:23      | I run a keyboard and my script that grabs all the text that goes to Safari, opens Grammarly            |
+| 06:23      | I run a keyboard and my script that grabs all the text that goes to [[Safari]], opens Grammarly            |
 | 06:29      | and then creates, uses the feature and keyboard Maestro where it looks at the screen and               |
 | 06:33      | clicks a button, you know, which I know is always, a lot of people are afraid of that.                 |
 | 06:37      | But for the Grammarly website, that's the only way to open a new document.                             |
@@ -1076,8 +1076,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:01:57   | What are the pluses and minuses of doing that in Bunch versus [[Keyboard Maestro]] for you?                |
 | 01:02:02   | Honestly, for me, a lot of the stuff with Bunch is the fact that it's just text.                       |
 | 01:02:08   | So I don't have the extra visual thing of open app.                                                    |
-| 01:02:14   | I can just see that it's opening Safari and it's opening specifically a new window in                  |
-| 01:02:19   | Safari using [[Keyboard Maestro]] and it opens Zoom and it opens [[Audio Hijack]] and I've just                |
+| 01:02:14   | I can just see that it's opening [[Safari]] and it's opening specifically a new window in                  |
+| 01:02:19   | [[Safari]] using [[Keyboard Maestro]] and it opens Zoom and it opens [[Audio Hijack]] and I've just                |
 | 01:02:25   | got a list there and it means if I want to search for all the things that open [[Audio Hijack]],                  |
 | 01:02:29   | I can very, very easily find it and I'm not also finding things that have got                  |
 | 01:02:35   | [[Audio Hijack]] in the name and so on.                                                                    |
@@ -1128,7 +1128,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:05:36   | resizes [[Fission]] very wide on my screen because when you edit audio, you want a wide view.              |
 | 01:05:42   | And so it like, it does more like, cause you can do this also with shortcuts and we got                |
 | 01:05:47   | shortcuts on the Mac.                                                                                  |
-| 01:05:48   | You can say open Safari, put it on the left side and open pages and put on the right side.             |
+| 01:05:48   | You can say open [[Safari]], put it on the left side and open pages and put on the right side.             |
 | 01:05:53   | But it doesn't really give you the ability to go in and do much more than that.                        |
 | 01:06:00   | With [[Keyboard Maestro]], you can open a specific web page or open a specific pages document.             |
 | 01:06:04   | Yeah, you can do all that with Bunch too.                                                              |

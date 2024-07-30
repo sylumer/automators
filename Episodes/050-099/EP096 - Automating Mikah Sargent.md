@@ -325,7 +325,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 16:44      | roundup of different products for a thing, they all worked the same way.                                |
 | 16:48      | So I had a TextExpander snippet that would ask me for the links to a page and the headings             |
 | 16:56      | for a page, and then I ended up being able to even automate that further where it would                 |
-| 17:02      | just take, I would just have a Safari window open that had the things, and it would pull                |
+| 17:02      | just take, I would just have a [[Safari]] window open that had the things, and it would pull                |
 | 17:06      | what I needed from that and automatically populate it, but I could check it if I wanted to.             |
 | 17:11      | The ability to move the cursor around to where you want it, and then [[Brett Terpstra]] has a               |
 | 17:17      | whole bunch of awesome [[TextExpander]] snippets that to this day, I still use regularly, and              |
@@ -798,7 +798,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 49:33      | headline of the page, copying and pasting it into this, I use IA writer as the show note                |
 | 49:39      | creation tool, and then pasting and pasting the link from each of those tabs. Obviously,                |
 | 49:46      | that took a lot of time, and I knew that that process could be automated. Dan Sturm helped              |
-| 49:53      | me create a [[Keyboard Maestro]] macro that helped me to see all of those Safari tabs, get the              |
+| 49:53      | me create a [[Keyboard Maestro]] macro that helped me to see all of those [[Safari]] tabs, get the              |
 | 50:03      | headline from those pages, because usually it's the title that gets put into the tab.                   |
 | 50:09      | Grab it from there. I think tab names is the deal in AppleScript or whatever. Then                      |
 | 50:18      | there's a little bit of regular expression work that happens because the set of tabs always             |
@@ -826,8 +826,8 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 52:36      | He will answer the question oftentimes with the help of the chat room that is listening and             |
 | 52:42      | watching as well. There are links to different troubleshooting documents, links to different            |
 | 52:46      | websites, links to different products that he recommends for people who are having questions            |
-| 52:49      | about that. While I'm watching the show, I have a Safari page open that I'm just adding tabs to         |
-| 52:57      | of every single site that he mentions. By the end of it, there's 25 tabs in this one Safari window.     |
+| 52:49      | about that. While I'm watching the show, I have a [[Safari]] page open that I'm just adding tabs to         |
+| 52:57      | of every single site that he mentions. By the end of it, there's 25 tabs in this one [[Safari]] window.     |
 | 53:05      | What the document does that Rosemary created is that it just uses [[AppleScript]] to get all of the        |
 | 53:15      | links of those tabs and put them in a list where it's not an unordered list or an ordered list.         |
 | 53:22      | It's just a link and then line break, link, line break, link, line break. It grabs all of those         |
@@ -864,7 +864,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 56:29      | what is it? Patience and grace. Yes, absolutely. But not only with others but with yourself when        |
 | 56:37      | you're dealing with other people. [[Brett Terpstra]], since we're talking about him,                        |
 | 56:45      | Markdown Service Tools has created a Markdown Service Tool that gives you a list of all the             |
-| 56:50      | Safari links in the open browser in Markdown. Oh, really? Yes, I use that as part of the                |
+| 56:50      | [[Safari]] links in the open browser in Markdown. Oh, really? Yes, I use that as part of the                |
 | 56:56      | basis for some of the stuff that I've done for Micah because the thing with good artists create         |
 | 57:02      | great artists steal, great automators steal from the things that they and other people have done        |
 | 57:06      | as well because you don't need to reinvent the wheel every time. Sadly, the twit back end I             |
@@ -1127,7 +1127,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:22:31   | [[Keyboard Maestro]], Shortcuts, Texas Commander, whatever, then have it go to the internet to              |
 | 01:22:37   | do an automation. And the usage for these just really scales with your usage of cloud-based             |
 | 01:22:44   | services. If you've got a bunch of those, these are better than something local. Like trying to         |
-| 01:22:50   | get [[Keyboard Maestro]] to open up some web service in Safari and navigate to the right page and           |
+| 01:22:50   | get [[Keyboard Maestro]] to open up some web service in [[Safari]] and navigate to the right page and           |
 | 01:22:57   | insert text is very dicey. Whereas with these cloud-based services, you can automate that and           |
 | 01:23:04   | it all happens through the API and it works every time. And that's what we're looking for.              |
 | 01:23:09   | Yeah, yeah. That is really where the trick is. And also, I tend to find just because of networks        |

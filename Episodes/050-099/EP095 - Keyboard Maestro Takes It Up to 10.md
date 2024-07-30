@@ -679,7 +679,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 41:33      | And I'm using Command C. When I'm in one particular air table, there's something that when I             |
 | 41:38      | copy it, I wanted actually to end up being reformatted.                                                  |
 | 41:43      | And so I have a macro that only runs when, so this is actually in a group where it requires              |
-| 41:51      | me to be using Safari and very specifically requires me to have a window title that's                    |
+| 41:51      | me to be using [[Safari]] and very specifically requires me to have a window title that's                    |
 | 41:56      | got the window title of this air table.                                                                  |
 | 41:58      | And then when I hit Command C, then it reformats the text on my keyboard.                                |
 | 42:03      | And that's all it does.                                                                                  |
@@ -798,16 +798,16 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 49:06      | And that is very nice to be able to do things like that, as well as, of course, you can                  |
 | 49:12      | not only interfere with things, you can also make things happen.                                         |
 | 49:17      | So when I, well, actually, I realised the other day that I accidentally kept hitting                     |
-| 49:23      | command Q in Safari instead of command W. I was having a couple of weeks where I hadn't                  |
+| 49:23      | command Q in [[Safari]] instead of command W. I was having a couple of weeks where I hadn't                  |
 | 49:29      | gone off by one error, where I was one key too far to the left.                                          |
 | 49:32      | The problem with command Q is it's quit instead of closed tab.                                           |
-| 49:36      | And I very rarely actually mean to quit Safari with the command Q keyboard shortcut.                     |
+| 49:36      | And I very rarely actually mean to quit [[Safari]] with the command Q keyboard shortcut.                     |
 | 49:43      | So I just interfered with it and I popped up a little message to myself, an alert that                   |
-| 49:48      | says, hey, do you want to quit Safari?                                                                   |
+| 49:48      | says, hey, do you want to quit [[Safari]]?                                                                   |
 | 49:50      | Yes, no.                                                                                                 |
-| 49:51      | And if I hit yes, then it does actually quit Safari.                                                     |
-| 49:54      | And if I hit no, then it doesn't quit Safari.                                                            |
-| 49:58      | So that saves me having to reopen Safari, history, restore last open windows.                            |
+| 49:51      | And if I hit yes, then it does actually quit [[Safari]].                                                     |
+| 49:54      | And if I hit no, then it doesn't quit [[Safari]].                                                            |
+| 49:58      | So that saves me having to reopen [[Safari]], history, restore last open windows.                            |
 | 50:04      | And you know, it's not a lot of work, but it's enough that it made it worth it.                          |
 | 50:09      | Yeah.                                                                                                    |
 | 50:10      | And an alternative way you could have done that is just made command Q, close a window,                  |
@@ -828,7 +828,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 50:49      | And I hate it, but it turns out that's a preference you can disable in Chrome.                           |
 | 50:54      | Thank God.                                                                                               |
 | 50:55      | I try to use Chrome as rarely as possible, but work requires me to make sure that stuff                  |
-| 51:00      | that I write actually works in Chrome as well as Firefox and Safari.                                     |
+| 51:00      | that I write actually works in Chrome as well as Firefox and [[Safari]].                                     |
 | 51:04      | So I do have to open Chrome on a semi-regular basis and finding out that I could disable                 |
 | 51:09      | that preference meant I could actually get rid of the [[Keyboard Maestro]] macro that I had                  |
 | 51:12      | to just hit the Q again, but it's worth knowing that I could have done it with [[Keyboard Maestro]].         |

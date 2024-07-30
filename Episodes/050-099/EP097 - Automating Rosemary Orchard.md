@@ -390,8 +390,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 26:43      | of it. And that is running a number of things, including shortcuts, and of course, keyboard              |
 | 26:50      | master macros and opening and closing applications. And then once all the applications are open,         |
 | 26:56      | it runs [[Moom]]. So, it can tidy everything up for me, which is really nice so that then                    |
-| 27:01      | when I start recording an episode, that Safari is right in front of me with the tabs that                |
-| 27:05      | I need because it's created a new Safari window and put everything into those tabs. And all              |
+| 27:01      | when I start recording an episode, that [[Safari]] is right in front of me with the tabs that                |
+| 27:05      | I need because it's created a new [[Safari]] window and put everything into those tabs. And all              |
 | 27:11      | the other windows that I need are in the places that they always are so that I'm not usually             |
 | 27:15      | going, wait, where did I put [[Audio Hijack]] again? It's hiding somewhere. Yeah, I do the                   |
 | 27:21      | same thing. It's funny how we've harnessed [[Moom]] to turn into a minion of our automation.                 |
@@ -431,9 +431,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 30:17      | with people, I have a 32 inch ultra wide monitor. It's amazing. If you need to share your entire         |
 | 30:23      | screen, the other person needs a magnifying glass, unfortunately. And also, you know,                    |
 | 30:30      | I like to get rid of other applications that I might have had running, you know, I might                 |
-| 30:33      | have had Safari open just to, you know, Google something that I was thinking about, you know,            |
+| 30:33      | have had [[Safari]] open just to, you know, Google something that I was thinking about, you know,            |
 | 30:38      | buying perhaps or something, you know, when you think of something, you just do it because               |
-| 30:41      | it takes three seconds and then you've got Safari open still. And so it helps clean up                   |
+| 30:41      | it takes three seconds and then you've got [[Safari]] open still. And so it helps clean up                   |
 | 30:46      | things like that as well, just because I don't want messages sending me a notification while             |
 | 30:50      | I'm, you know, on a slack huddle with somebody sharing my screen, it's not important. So,                |
 | 30:56      | so I do that. And it actually switches my focus mode from work to work meeting. I just                   |
@@ -507,7 +507,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 36:56      | Yeah, yeah, I have to say, you know, I do, you know, Keyboard Maestro's window management                |
 | 37:01      | generally is great because you can do things like just move this to the centre of my primary             |
 | 37:06      | monitor, which is actually something that I've got hooked onto several other actions.                    |
-| 37:13      | So for example, if I try to quit Safari with command Q, most of the time I did not mean                  |
+| 37:13      | So for example, if I try to quit [[Safari]] with command Q, most of the time I did not mean                  |
 | 37:19      | to hit command Q, I meant hit command W to close tab. So I actually have [[Keyboard Maestro]]                |
 | 37:24      | interfere with it there and go, are you sure? Like, did you actually want to do this? And                |
 | 37:29      | one of the things that it does with the are you sure is it moves that right into the middle              |
@@ -889,7 +889,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:10:04   | Maybe that needs to be a feature show. I've done some work there.                                        |
 | 01:10:08   | So maybe that's something we'll talk about one day. Well, that is definitely something I will be         |
 | 01:10:14   | looking for. Another thing that I've been playing with is there are some great menu bar apps and         |
-| 01:10:22   | Safari extensions on the Mac, which have been solving a number of different problems for me.             |
+| 01:10:22   | [[Safari]] extensions on the Mac, which have been solving a number of different problems for me.             |
 | 01:10:28   | So one of them is, and I'm now going to get this wrong because it's gone and hidden from me,             |
 | 01:10:33   | the name of the application. It's the little house with the lightning icon in it in my menu bar,         |
 | 01:10:38   | and it's called Home Control. That's one. And Home Control gives me all of the devices, scenes,          |
@@ -909,12 +909,12 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:12:02   | get it into your Stream Deck as well. Because once you have a URL, then only can you trigger it          |
 | 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a Stream Deck button, which is kind of fun.           |
 | 01:12:14   | Exactly, yes. And it is really useful for that. I've been enjoying it. There's                           |
-| 01:12:21   | a couple of Safari extensions. You mentioned Home Safe before. It's not really an automation option,     |
+| 01:12:21   | a couple of [[Safari]] extensions. You mentioned Home Safe before. It's not really an automation option,     |
 | 01:12:27   | but it does allow me to get the image from the Key Image from a web page, which can be really            |
 | 01:12:33   | helpful when I'm building a shopping list for a store that I'm going to go to so I actually have         |
 | 01:12:37   | a picture of the thing that I'm looking for. But one that I have only found out about recently,          |
 | 01:12:43   | but is really cool is URL linker. And it's, I think it was $199 or even free in the Mac app              |
-| 01:12:50   | store. But it means that when I right click on any page in Safari, I can copy the URL,                   |
+| 01:12:50   | store. But it means that when I right click on any page in [[Safari]], I can copy the URL,                   |
 | 01:12:58   | but then I can set up preferences. So because it copies as markdown format. So you get your              |
 | 01:13:05   | square brackets, the title of the page, round brackets, URL, but you can have, you can add               |
 | 01:13:10   | your own formats. So if you need a different format, so say for example, you're on one particular        |
@@ -930,7 +930,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:14:03   | I can work around because it's on my Mac. The system where I book my holiday, it's a web system,         |
 | 01:14:09   | and it doesn't play ball. But I found that there is a way to get an ICS file out of it.                  |
 | 01:14:17   | But the URL is hidden. So I ended up creating a [[Keyboard Maestro]] macro that takes the URL                |
-| 01:14:23   | of the Safari page, and it reworks it a little bit, it replaces some text, and then it opens a new       |
+| 01:14:23   | of the [[Safari]] page, and it reworks it a little bit, it replaces some text, and then it opens a new       |
 | 01:14:30   | URL, which will then have automatically download the ICS file, which was really, really helpful,         |
 | 01:14:36   | until they finally figured it out. And then three weeks later, they added the button. So I can do        |
 | 01:14:43   | it directly. But that was a way around that because I went through their documentation and I asked,      |
@@ -938,7 +938,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:14:54   | and figure out what the difference was and just replace things until it worked. So that was quite        |
 | 01:14:59   | helpful. So being able to create a [[Keyboard Maestro]] macro that didn't click at an image,                 |
 | 01:15:03   | and I could have done it with shortcuts, and maybe I should have because it would have got the front     |
-| 01:15:07   | most Safari window. But I do use Firefox and Chrome as well at work because I'm a web developer,         |
+| 01:15:07   | most [[Safari]] window. But I do use Firefox and Chrome as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
 | 01:15:22   | are using JavaScript, as opposed to AppleScript, what is the balance for you between AppleScript         |
@@ -996,8 +996,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:20:38   | help them as part of their development process, because they're already writing [[Swift]]. But               |
 | 01:20:45   | I don't know. I feel like if they're going to do something, they should probably go with                 |
 | 01:20:48   | JavaScript, because it's just the one that's there. I mean, they added the action. This was              |
-| 01:20:54   | what I was 13 of run JavaScript on Safari page, where you can run essentially a bookmarklet              |
-| 01:21:00   | on the Safari web page through shortcuts and then get that information back.                             |
+| 01:20:54   | what I was 13 of run JavaScript on [[Safari]] page, where you can run essentially a bookmarklet              |
+| 01:21:00   | on the [[Safari]] web page through shortcuts and then get that information back.                             |
 | 01:21:11   | There's the option when they added shortcuts to the Mac, they added a run JavaScript for Mac             |
 | 01:21:18   | automation, along with the run AppleScript automation. I have a feeling AppleScript is                 |
 | 01:21:22   | probably not going anywhere. But I hope maybe that somebody goes in and has a poke around with           |
@@ -1172,7 +1172,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:37:37   | those profiles over. So I'm going to delete them all, which you can do. And if you delete them on        |
 | 01:37:42   | the panel, it does not delete them for the Stream Deck. So I'm going to delete them all and start        |
 | 01:37:47   | over. But I think there's something to this, and I just have to figure out, like I was playing with      |
-| 01:37:53   | in the MacSparky Labs video where I set up the Safari to move between tabs with the right or left        |
+| 01:37:53   | in the MacSparky Labs video where I set up the [[Safari]] to move between tabs with the right or left        |
 | 01:37:59   | tab on the thing. You could navigate. That doesn't really make sense. I can do that                      |
 | 01:38:04   | just as quickly with my fingers. I don't think I need to put that on my foot. And that's really          |
 | 01:38:09   | the thing, right? It's like what goes down to the foot and what doesn't. Podcasting, mute the mic,       |

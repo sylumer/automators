@@ -430,7 +430,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 20:00      | of anybody that's potentially logged in on the device.                                                  |
 | 20:02      | I can't remember precisely how the authentication flow goes.                                            |
 | 20:05      | I think it pushes you to the [[Dropbox]] application.                                                       |
-| 20:08      | If you have it installed, if not, it does it in Safari.                                                 |
+| 20:08      | If you have it installed, if not, it does it in [[Safari]].                                                 |
 | 20:10      | So you do have to be logged in.                                                                         |
 | 20:11      | This is the save file action and the only two options you get are iCloud drive or [[Dropbox]].              |
 | 20:17      | There'll be only two options, actions that are available.                                               |
@@ -468,7 +468,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 22:42      | faster so that was why I ended up getting into the habit of using it.                                   |
 | 22:45      | Even like you know Grey's method of putting all those shortcuts on his home screen that                 |
 | 22:52      | is a little slower because that's actually that can in some cases be a lot slower because               |
-| 22:58      | it shoves you to Safari, Safari sends you over to shortcuts and then you get to watch the whole         |
+| 22:58      | it shoves you to [[Safari]], [[Safari]] sends you over to shortcuts and then you get to watch the whole         |
 | 23:03      | animation so for the few that I do have on my home screen still I actually have they are shell          |
 | 23:11      | shortcuts that just say that just run another shortcut and the animation is turned off because          |
 | 23:15      | you can turn on or off the show when running and if you turn it on then it will push you into the       |

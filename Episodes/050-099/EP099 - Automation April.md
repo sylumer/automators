@@ -429,7 +429,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 22:40      | this, otherwise, you know, continue to do that instead.                                               |
 | 22:43      | There are ways to optimise when you design a shortcut like that.                                      |
 | 22:47      | So in my shortcuts, I try to deal with these conditions up front.                                     |
-| 22:55      | So for example, if I need to process a Safari web page, right, instead of having these conditions     |
+| 22:55      | So for example, if I need to process a [[Safari]] web page, right, instead of having these conditions     |
 | 23:03      | nested like in the middle of a shortcut, I try to fix this up front at the beginning                  |
 | 23:09      | of the shortcut so that I can save my variable for the selection of a web page, for example,          |
 | 23:16      | right away.                                                                                           |
@@ -476,10 +476,10 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 26:44      | The shortcuts action gives you an error message, and it's like, it doesn't seem like it would         |
 | 26:48      | be that hard to fix something like that, you know?                                                    |
 | 26:50      | Right.                                                                                                |
-| 26:51      | And there are issues with things like Safari.                                                         |
-| 26:53      | I mean, Safari Reader, which is the functionality that allows you to easily grab different components |
+| 26:51      | And there are issues with things like [[Safari]].                                                         |
+| 26:53      | I mean, [[Safari]] Reader, which is the functionality that allows you to easily grab different components |
 | 26:58      | of a web page, just doesn't exist on the Mac.                                                         |
-| 27:01      | And to me, that's more of an issue for the Safari team to fix.                                        |
+| 27:01      | And to me, that's more of an issue for the [[Safari]] team to fix.                                        |
 | 27:06      | There's greater compatibility between the two platforms.                                              |
 | 27:11      | Yeah.                                                                                                 |
 | 27:12      | Yeah.                                                                                                 |
@@ -496,7 +496,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 27:46      | What I've done is I've just kind of learned that there are some that I run on Mac and                 |
 | 27:50      | some that I run on the iPhone, and I, you know, it just, that's just the way it has to                |
 | 27:54      | be.                                                                                                   |
-| 27:55      | John was referencing Safari Actions earlier, that's to me one of the biggest offenders                |
+| 27:55      | John was referencing [[Safari]] Actions earlier, that's to me one of the biggest offenders                |
 | 27:59      | at this point.                                                                                        |
 | 28:00      | I mean, people want to do stuff with the browser.                                                     |
 | 28:03      | I can make these things to work in [[Keyboard Maestro]], but I can't make them work on shortcuts          |
@@ -523,7 +523,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 29:08      | And so I think it just, it just kind of fell by the wayside.                                          |
 | 29:12      | And despite the fact that there are so many good triggers to kick off a shortcut on the               |
 | 29:16      | Mac, that one missing has really been painful for me because we just, as people who write             |
-| 29:23      | about things on the web, we're in safari all the time using that share button.                        |
+| 29:23      | about things on the web, we're in [[Safari]] all the time using that share button.                        |
 | 29:27      | And it's really not, you can't do it right now.                                                       |
 | 29:31      | You guys think that the lack of the share sheet on the Mac is intentional or just we                  |
 | 29:36      | haven't got to it yet?                                                                                |
@@ -541,7 +541,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 30:34      | They added this whole system, which is an action, but also an input type, which is whatever           |
 | 30:39      | is displayed on screen can become input for a shortcut.                                               |
 | 30:44      | And it doesn't always work great, but at least they're trying.                                        |
-| 30:48      | So whether you're looking at a Safari web page, the shortcut knows it's a link.                       |
+| 30:48      | So whether you're looking at a [[Safari]] web page, the shortcut knows it's a link.                       |
 | 30:52      | And if you're looking at an image, the shortcut knows you want to share an image.                     |
 | 30:55      | That's the idea.                                                                                      |
 | 30:56      | So maybe Apple is listening to this feedback, asking for the share sheet on the Mac, but              |
@@ -596,12 +596,12 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 35:22      | on macOS and how it takes me to a separate space. I'm just saying on the desktop, split               |
 | 35:28      | the screen with one app filling the left half, and the other filling the right half of the            |
 | 35:34      | screen. And with the shortcut that I've built, I have defined a list of my favourites. So              |
-| 35:40      | there's a literally a list at the beginning of the shortcut that says Safari plus messages            |
-| 35:45      | or Safari plus obsidian, or [[Obsidian]] plus discord, like all these different combos of                 |
+| 35:40      | there's a literally a list at the beginning of the shortcut that says [[Safari]] plus messages            |
+| 35:45      | or [[Safari]] plus obsidian, or [[Obsidian]] plus discord, like all these different combos of                 |
 | 35:51      | apps that I find myself using in this kind of setup on a regular basis. And when I run                |
 | 35:56      | the shortcut, I can choose the pair of these two apps that I want to use. And I select                |
 | 36:04      | it and I press return and the multitasking actions for macOS, they arrange my desktop                 |
-| 36:10      | exactly like I want it. So for example, Safari and, you know, on the left and discord on              |
+| 36:10      | exactly like I want it. So for example, [[Safari]] and, you know, on the left and discord on              |
 | 36:15      | the right. So this like this sort of like presets, I guess, for multitasking, this is                 |
 | 36:21      | something that I that I've started doing more and more on the Mac. And another that                   |
 | 36:26      | you know me up there. Yeah, because I think I've done the exact same things. Is it a choose           |

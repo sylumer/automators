@@ -1116,7 +1116,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:07:43   | Okay.                                                                                                                                                     |
 | 01:07:44   | That's not entirely true.                                                                                                                                 |
 | 01:07:45   | I was shopping for wallpaper earlier.                                                                                                                     |
-| 01:07:46   | It's got more Safari recommendations for me, but no action to change my wallpaper or background                                                           |
+| 01:07:46   | It's got more [[Safari]] recommendations for me, but no action to change my wallpaper or background                                                           |
 | 01:07:50   | image.                                                                                                                                                    |
 | 01:07:51   | All right.                                                                                                                                                |
 | 01:07:52   | Well, there you have it.                                                                                                                                  |
