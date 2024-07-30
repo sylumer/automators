@@ -305,7 +305,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 25:30      | on that, you can configure it. And the first thing that you can do is turn on and off use                |
 | 25:35      | recommended. And if use recommended is on, you can limit it to just scenes or just accessories.          |
 | 25:41      | So that's going to come up with, you know, the smart recommendations of things that it thinks            |
-| 25:45      | that you might want to control, which, you know, could be right or wrong. And you can resise this        |
+| 25:45      | that you might want to control, which, you know, could be right or wrong. And you can resize this        |
 | 25:52      | into a four by one, or there's the two by two, or there's the four across and two down,                  |
 | 25:58      | like size, which gives you two buttons in each direction. And I feel like this is, you know,             |
 | 26:04      | this is a nice option to have for people where you can have, you know, [[Siri]] and the new Apple            |
