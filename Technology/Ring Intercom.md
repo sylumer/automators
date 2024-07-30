@@ -12,6 +12,9 @@ A Ring Intercom is a type of home security and communication device designed int
 - Sharable among household members.
 - Amazon [[Alexa]] compatible.
 
+# Links
+- [Ring Intercom](https://en-uk.ring.com/products/intercom)
+
 # Episodes
 ```dataviewjs
 await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
