@@ -45,5 +45,15 @@
       ],
       "key": "F"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
