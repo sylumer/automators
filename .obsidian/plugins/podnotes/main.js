@@ -2122,7 +2122,7 @@ function fade(node, { delay = 0, duration: duration2 = 400, easing = identity } 
 
 // src/ui/settings/PodcastResultCard.svelte
 function add_css(target) {
-  append_styles(target, "svelte-1ww0fav", ".podcast-result-card.svelte-1ww0fav{display:flex;align-items:center;padding:16px;border:1px solid var(--background-modifier-border);border-radius:8px;background-color:var(--background-secondary);max-width:100%;transition:all 0.3s ease}.podcast-result-card.svelte-1ww0fav:hover{box-shadow:0 2px 8px rgba(0, 0, 0, 0.1);transform:translateY(-2px)}.podcast-artwork.svelte-1ww0fav{width:70px;height:70px;object-fit:cover;border-radius:4px;margin-right:20px;flex-shrink:0}.podcast-info.svelte-1ww0fav{flex-grow:1;min-width:0;padding-right:12px}.podcast-title.svelte-1ww0fav{margin:0 0 6px 12px;font-size:16px;font-weight:bold;line-height:1.3;word-break:break-word}.podcast-actions.svelte-1ww0fav{display:flex;align-items:center;flex-shrink:0}");
+  append_styles(target, "svelte-1yveck6", ".podcast-result-card.svelte-1yveck6{display:flex;align-items:center;padding:16px;border:1px solid var(--background-modifier-border);border-radius:8px;background-color:var(--background-secondary);max-width:100%;transition:all 0.3s ease;position:relative}.podcast-artwork-container.svelte-1yveck6{width:70px;height:70px;flex-shrink:0;margin-right:20px;overflow:hidden;border-radius:4px;position:relative}.podcast-artwork.svelte-1yveck6{width:100%;height:100%;object-fit:cover;position:absolute;top:0;left:0}.podcast-result-card.svelte-1yveck6:hover{box-shadow:0 2px 8px rgba(0, 0, 0, 0.1);transform:translateY(-2px)}.podcast-info.svelte-1yveck6{flex-grow:1;min-width:0;padding-right:12px}.podcast-title.svelte-1yveck6{margin:0 0 6px 0;font-size:16px;font-weight:bold;line-height:1.3;word-break:break-word}.podcast-actions.svelte-1yveck6{display:flex;align-items:center;flex-shrink:0}.podcast-actions button{padding:4px;width:24px;height:24px}.podcast-actions button svg{width:16px;height:16px}");
 }
 function create_else_block(ctx) {
   let button;
@@ -2130,10 +2130,10 @@ function create_else_block(ctx) {
   button = new Button_default({
     props: {
       icon: "plus",
-      ariaLabel: `Add ${ctx[0].title} podcast`
+      "aria-label": `Add ${ctx[0].title} podcast`
     }
   });
-  button.$on("click", ctx[2]);
+  button.$on("click", ctx[4]);
   return {
     c() {
       create_component(button.$$.fragment);
@@ -2145,7 +2145,7 @@ function create_else_block(ctx) {
     p(ctx2, dirty) {
       const button_changes = {};
       if (dirty & 1)
-        button_changes.ariaLabel = `Add ${ctx2[0].title} podcast`;
+        button_changes["aria-label"] = `Add ${ctx2[0].title} podcast`;
       button.$set(button_changes);
     },
     i(local) {
@@ -2169,7 +2169,7 @@ function create_if_block(ctx) {
   button = new Button_default({
     props: {
       icon: "trash",
-      ariaLabel: `Remove ${ctx[0].title} podcast`
+      "aria-label": `Remove ${ctx[0].title} podcast`
     }
   });
   button.$on("click", ctx[3]);
@@ -2184,7 +2184,7 @@ function create_if_block(ctx) {
     p(ctx2, dirty) {
       const button_changes = {};
       if (dirty & 1)
-        button_changes.ariaLabel = `Remove ${ctx2[0].title} podcast`;
+        button_changes["aria-label"] = `Remove ${ctx2[0].title} podcast`;
       button.$set(button_changes);
     },
     i(local) {
@@ -2203,20 +2203,21 @@ function create_if_block(ctx) {
   };
 }
 function create_fragment3(ctx) {
-  let div2;
+  let div3;
+  let div0;
   let img;
   let img_src_value;
   let img_alt_value;
   let t0;
-  let div0;
+  let div1;
   let h3;
   let t1_value = ctx[0].title + "";
   let t1;
   let t2;
-  let div1;
+  let div2;
   let current_block_type_index;
   let if_block;
-  let div2_transition;
+  let div3_transition;
   let current;
   const if_block_creators = [create_if_block, create_else_block];
   const if_blocks = [];
@@ -2229,34 +2230,37 @@ function create_fragment3(ctx) {
   if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
   return {
     c() {
-      div2 = element("div");
+      div3 = element("div");
+      div0 = element("div");
       img = element("img");
       t0 = space();
-      div0 = element("div");
+      div1 = element("div");
       h3 = element("h3");
       t1 = text(t1_value);
       t2 = space();
-      div1 = element("div");
+      div2 = element("div");
       if_block.c();
       if (!src_url_equal(img.src, img_src_value = ctx[0].artworkUrl))
         attr(img, "src", img_src_value);
       attr(img, "alt", img_alt_value = `Artwork for ${ctx[0].title}`);
-      attr(img, "class", "podcast-artwork svelte-1ww0fav");
-      attr(h3, "class", "podcast-title svelte-1ww0fav");
-      attr(div0, "class", "podcast-info svelte-1ww0fav");
-      attr(div1, "class", "podcast-actions svelte-1ww0fav");
-      attr(div2, "class", "podcast-result-card svelte-1ww0fav");
+      attr(img, "class", "podcast-artwork svelte-1yveck6");
+      attr(div0, "class", "podcast-artwork-container svelte-1yveck6");
+      attr(h3, "class", "podcast-title svelte-1yveck6");
+      attr(div1, "class", "podcast-info svelte-1yveck6");
+      attr(div2, "class", "podcast-actions svelte-1yveck6");
+      attr(div3, "class", "podcast-result-card svelte-1yveck6");
     },
     m(target, anchor) {
-      insert(target, div2, anchor);
-      append(div2, img);
-      append(div2, t0);
-      append(div2, div0);
-      append(div0, h3);
+      insert(target, div3, anchor);
+      append(div3, div0);
+      append(div0, img);
+      append(div3, t0);
+      append(div3, div1);
+      append(div1, h3);
       append(h3, t1);
-      append(div2, t2);
-      append(div2, div1);
-      if_blocks[current_block_type_index].m(div1, null);
+      append(div3, t2);
+      append(div3, div2);
+      if_blocks[current_block_type_index].m(div2, null);
       current = true;
     },
     p(ctx2, [dirty]) {
@@ -2286,7 +2290,7 @@ function create_fragment3(ctx) {
           if_block.p(ctx2, dirty);
         }
         transition_in(if_block, 1);
-        if_block.m(div1, null);
+        if_block.m(div2, null);
       }
     },
     i(local) {
@@ -2294,25 +2298,25 @@ function create_fragment3(ctx) {
         return;
       transition_in(if_block);
       add_render_callback(() => {
-        if (!div2_transition)
-          div2_transition = create_bidirectional_transition(div2, fade, { duration: 300 }, true);
-        div2_transition.run(1);
+        if (!div3_transition)
+          div3_transition = create_bidirectional_transition(div3, fade, { duration: 300 }, true);
+        div3_transition.run(1);
       });
       current = true;
     },
     o(local) {
       transition_out(if_block);
-      if (!div2_transition)
-        div2_transition = create_bidirectional_transition(div2, fade, { duration: 300 }, false);
-      div2_transition.run(0);
+      if (!div3_transition)
+        div3_transition = create_bidirectional_transition(div3, fade, { duration: 300 }, false);
+      div3_transition.run(0);
       current = false;
     },
     d(detaching) {
       if (detaching)
-        detach(div2);
+        detach(div3);
       if_blocks[current_block_type_index].d();
-      if (detaching && div2_transition)
-        div2_transition.end();
+      if (detaching && div3_transition)
+        div3_transition.end();
     }
   };
 }
@@ -2320,19 +2324,15 @@ function instance3($$self, $$props, $$invalidate) {
   let { podcast } = $$props;
   let { isSaved = false } = $$props;
   const dispatch2 = createEventDispatcher();
-  function onAddPodcast() {
-    dispatch2("addPodcast", { podcast });
-  }
-  function onRemovePodcast() {
-    dispatch2("removePodcast", { podcast });
-  }
+  const click_handler = () => dispatch2("removePodcast", { podcast });
+  const click_handler_1 = () => dispatch2("addPodcast", { podcast });
   $$self.$$set = ($$props2) => {
     if ("podcast" in $$props2)
       $$invalidate(0, podcast = $$props2.podcast);
     if ("isSaved" in $$props2)
       $$invalidate(1, isSaved = $$props2.isSaved);
   };
-  return [podcast, isSaved, onAddPodcast, onRemovePodcast];
+  return [podcast, isSaved, dispatch2, click_handler, click_handler_1];
 }
 var PodcastResultCard = class extends SvelteComponent {
   constructor(options) {
