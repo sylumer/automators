@@ -47,7 +47,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | :--------- | :-------------------------------------------------------------------------------------------------------- |
 | 00:00      | Hello, and welcome to Automators, the automation podcast about making technology to all of                |
 | 00:06      | your work for you, because that is how we roll around here.                                               |
-| 00:10      | I am Rosemarie Orchard and joined, as always, by my co-host, David Sparks.                                |
+| 00:10      | I am Rosemary Orchard and joined, as always, by my co-host, David Sparks.                                |
 | 00:13      | Hey, David, how are you?                                                                                  |
 | 00:14      | I am excellent, Rose, really looking forward to today's show.                                             |
 | 00:18      | We're going to be talking about make, and I have lots of questions for you.                               |

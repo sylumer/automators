@@ -79,7 +79,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
   
 | Time Index | Transcription                                                                                          |
 | :--------- | :----------------------------------------------------------------------------------------------------- |
-| 00:00      | Hello, and welcome to Automators. My name is Rosemarie Orchard, and I'm here with David                |
+| 00:00      | Hello, and welcome to Automators. My name is Rosemary Orchard, and I'm here with David                |
 | 00:06      | Sparks, and we're going to talk about making your technology do hopefully everything for               |
 | 00:11      | you. Hey, David, how are you today?                                                                    |
 | 00:12      | Great, Rose. I am very excited about talking automation with my automation buddy, Rose.                |

@@ -46,7 +46,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 00:00      | Hello, and welcome to Automators, the Automation Podcast, where we talk about getting your            |
 | 00:06      | technology to do your work for you, or at least how we wish your technology could do                  |
 | 00:10      | your work for you, because that is the topic of today's episode.                                      |
-| 00:14      | My name is Rosemarie Orchard, and I'm joined, as always, by my pal and co-host, David Sparks.         |
+| 00:14      | My name is Rosemary Orchard, and I'm joined, as always, by my pal and co-host, David Sparks.         |
 | 00:18      | Hey, David, how are you?                                                                              |
 | 00:19      | Great, Rose.                                                                                          |
 | 00:20      | I feel like this is definitely a wish-based episode.                                                  |
@@ -64,7 +64,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:05      | do it in January, because...                                                                          |
 | 01:08      | I feel like, actually, now is a great time to be doing it, but iOS 17 is going to come                |
 | 01:13      | out in September.                                                                                     |
-| 01:14      | This wishlist is probably realistically iOS 18, because that's how much development lead              |
+| 01:14      | This wish list is probably realistically iOS 18, because that's how much development lead              |
 | 01:18      | time you need with testing and everything else to get it in as a big feature in the                   |
 | 01:23      | WWDC keynote.                                                                                         |
 | 01:24      | But, of course, there will be updates later.                                                          |

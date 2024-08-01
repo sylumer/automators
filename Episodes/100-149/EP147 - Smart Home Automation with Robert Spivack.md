@@ -61,11 +61,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
   
 | Time Index | Transcription                                                                                          |
 | :--------- | :----------------------------------------------------------------------------------------------------- |
-| 00:00      | Hello and welcome to Automatorss, the podcast about grabbing your tech and encouraging it              |
+| 00:00      | Hello and welcome to Automators, the podcast about grabbing your tech and encouraging it              |
 | 00:07      | to do your bidding for you.                                                                            |
-| 00:08      | My name is Rosemarie Orchard and I'm joined as always by my pal David Sparks.                          |
+| 00:08      | My name is Rosemary Orchard and I'm joined as always by my pal David Sparks.                          |
 | 00:12      | Hey David, how are you?                                                                                |
-| 00:13      | I am great Ros, super happy to be here talking automation with you.                                    |
+| 00:13      | I am great Rose, super happy to be here talking automation with you.                                    |
 | 00:19      | I got my new Vision Pro over the weekend.                                                              |
 | 00:22      | Oh, fancy.                                                                                             |
 | 00:23      | Yeah.                                                                                                  |
