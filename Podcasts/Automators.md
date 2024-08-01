@@ -23,3 +23,8 @@ A typical episode of Automators delves into a specific topic related to automati
 The podcast also covers a wide range of automation-related topics, including scripting, keyboard shortcuts, home automation, task management, and more. Listeners can expect to learn about the latest automation trends, software updates, and techniques for optimising their digital workflows.
 
 Overall, Automators is a valuable resource for anyone looking to harness the power of automation to become more productive and efficient in their personal and professional lives. Whether you are a beginner looking to get started with automation or an experienced user seeking advanced tips and strategies, this podcast offers a wealth of information and inspiration for optimising your workflow and achieving your automation goals.
+
+# Related Links
+- [[Automators Max]]
+- [Automators Podcast Forum](https://talk.automators.fm)
+- [Automators Archives](https://www.relay.fm/automators/archive) / [automators.fm](https://automators.fm)
