@@ -3,10 +3,13 @@
   "hideExcluded": false,
   "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
+  "ignoreArabicDiacritics": false,
   "indexedFileTypes": [],
+  "displayTitle": "",
   "PDFIndexing": false,
   "officeIndexing": false,
   "imagesIndexing": false,
+  "aiImageIndexing": false,
   "unsupportedFilesIndexing": "no",
   "splitCamelCase": false,
   "openInNewPane": false,
@@ -33,5 +36,6 @@
   "welcomeMessage": "1.21.0",
   "verboseLogging": false,
   "DANGER_httpHost": null,
+  "DANGER_forceSaveCache": false,
   "excalidrawIndexing": true
 }
