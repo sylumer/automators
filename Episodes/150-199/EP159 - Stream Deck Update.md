@@ -1,19 +1,21 @@
 ---
-status: "incomplete"
+status: complete
 fc-date:
   year: 2024
-  month: 07
+  month: 7
   day: 13
-fc-category: "podcast"
-podcast: "Automators"
+fc-category: podcast
+podcast: Automators
 published: 2024-07-13
 duration: 3622
-formattedduration: "01:00:22"
-hosts: ["David Sparks","Rosemary Orchard"]
-guests: []
-notetype: "episode"
-showpage: "http://relay.fm/automators/159"
-episodeurl: "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators159.mp3"
+formattedduration: 01:00:22
+hosts:
+  - David Sparks
+  - Rosemary Orchard
+guests: 
+notetype: episode
+showpage: http://relay.fm/automators/159
+episodeurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators159.mp3
 episode: 158
 title: "159: Stream Deck Update"
 ---
