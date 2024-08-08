@@ -300,7 +300,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 18:32      | is actually a meeting preparation shortcut. And it pulls tasks out of OmniFocus with the                  |
 | 18:38      | tag for the person that he's having the meeting with, which I think is a great way of doing               |
 | 18:42      | things. If you've got OmniFocus and you've set things up to do that, I think he said                      |
-| 18:46      | he was using Data Jar to store the tag in OmniFocus for that. You know, that's one way of doing            |
+| 18:46      | he was using [[Data Jar]] to store the tag in OmniFocus for that. You know, that's one way of doing            |
 | 18:52      | it. Another way could be using [[Drafts]]. I often know I've got meetings coming up and I just                |
 | 18:58      | store things that we, that I think we ought to talk about there in [[Drafts]] so that I can                   |
 | 19:03      | just pull up that draft A in the meeting, but also before the meeting and just email                      |

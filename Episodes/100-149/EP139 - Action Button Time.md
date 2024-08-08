@@ -501,8 +501,8 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 29:02      | names for it but it's you know it's a handy sort of shorthand for figuring out okay what            |
 | 29:07      | am I what am I considering various times a day and because I use this in more than one              |
 | 29:10      | place I'm gonna throw out a mention to one of our good old friends that we've mentioned             |
-| 29:14      | as an app before Data Jar came up in the last episode because I have all of the times that          |
-| 29:22      | I consider you know like the brackets of my day in Data Jar because then I can reuse this           |
+| 29:14      | as an app before [[Data Jar]] came up in the last episode because I have all of the times that          |
+| 29:22      | I consider you know like the brackets of my day in [[Data Jar]] because then I can reuse this           |
 | 29:27      | in multiple shortcuts so I can say hey I consider morning to finish at 12 okay 12 noon so you       |
 | 29:35      | know I can just get that out and if at any point I decide that I want to change it to               |
 | 29:39      | one then I can I can do that and I do that in one place and it updates everywhere and               |

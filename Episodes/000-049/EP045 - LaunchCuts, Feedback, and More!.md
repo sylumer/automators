@@ -571,7 +571,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 46:16      | Yeah. And once again, if they're going to give health data, Apple, please release time tracking        |
 | 46:21      | data. Oh yeah. Yeah. I mean, that would be another great use for [[Charty]].                               |
 | 46:26      | Yes, it absolutely would. It looks like, I'm just so happy to see this rich ecosystem of               |
-| 46:32      | shortcuts apps showing up. Yeah. And there's another one that's coming soon as well, Data Jar           |
+| 46:32      | shortcuts apps showing up. Yeah. And there's another one that's coming soon as well, [[Data Jar]]           |
 | 46:39      | by [[Simon Støvring\|Simon's]]. So Simon is the creator of [[Scriptable]] and [[Jayson]], J-A-Y-S-O-N. Scriptable is         |
 | 46:45      | a [[JavaScript]] scripting app for iOS where you can, well, control your iOS device. And JSON is-          |
 | 46:50      | And [[Simon Støvring\|Simon's]] a recent guest on the show. Yeah. And [[Jayson]] is an app for viewing JSON data,                |
@@ -579,9 +579,9 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 47:01      | But also work on your shortcut at the same time. You can send it over to JSON                          |
 | 47:05      | and split screen it on your iPad. And I've been using that so much. I've been using it on the Mac      |
 | 47:09      | as well. That's one of the apps that's been ported to the Mac using, you know, what was called         |
-| 47:14      | Marzipan. And that's great. But Data Jar is a brand new app. It's not yet out, but he somewhat          |
-| 47:22      | frequently posts, Tesla invites on Twitter at the moment. And the idea is it's a local database        |
-| 47:27      | application for shortcuts. So you can open [[Data Jar]] itself and create, you know, keys with values       |
+| 47:14      | Marzipan. And that's great. But [[Data Jar]] is a brand new app. It's not yet out, but he somewhat          |
+| 47:22      | frequently posts, [[TestFlight]] invites on [[Twitter]] at the moment. And the idea is it's a local database        |
+| 47:27      | application for [[Shortcuts]]. So you can open [[Data Jar]] itself and create, you know, keys with values       |
 | 47:37      | and so on. But you can also access it entirely from shortcuts, which is mostly what I've been          |
 | 47:41      | doing, I have to say. And it's great because you can store really complex data structures in there     |
 | 47:49      | if you want. So I've got six top level things at the moment, but they go all the way down into         |
@@ -595,7 +595,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 48:33      | best possible way, Simon, if you're listening to this. But it's great. It syncs using iCloud as        |
 | 48:38      | well. So you can have a database on all your devices. And this has been quite useful for me            |
 | 48:42      | because I've been able to store bits of information from things that have run on another device        |
-| 48:47      | and retrieve them on my iPhone when I'm out and about. So I'm really enjoying Data Jar. And I          |
+| 48:47      | and retrieve them on my iPhone when I'm out and about. So I'm really enjoying [[Data Jar]]. And I          |
 | 48:54      | suspect most people here will as well when it finally releases, which will hopefully be in the         |
 | 48:59      | not too distant future. And honestly, if Apple did Sherlock it, there's no way they would make it      |
 | 49:03      | as feature rich as [[Simon Støvring\|Simon]] has. So we'd still be using [[Data Jar]]. But yeah, what a great app.             |

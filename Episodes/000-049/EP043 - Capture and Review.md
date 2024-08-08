@@ -944,7 +944,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 01:15:58   | And I have options in there to, to ask, to determine whether or not these should be run. So             |
 | 01:16:05   | like for example, your time tracking, should your time tracking be run or not run? And so,              |
 | 01:16:10   | well, it would be a little bit more work to set up in the first place. You could theoretically get      |
-| 01:16:15   | maybe a global variable from Toolbox Pro or get data out of Data Jar. And it should say, hey,           |
+| 01:16:15   | maybe a global variable from Toolbox Pro or get data out of [[Data Jar]]. And it should say, hey,           |
 | 01:16:20   | should I run time tracking? If yes, then run the time reaction. And then just delete your otherwise.    |
 | 01:16:27   | And then you can turn time tracking on and off globally and have it in all of your                      |
 | 01:16:33   | shortcuts or none of your shortcuts, but you don't have to edit your shortcut every single time.        |
@@ -969,7 +969,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 01:18:05   | not working, the time tracking at work, our servers changed and various things happened.                |
 | 01:18:10   | So I didn't want to be running that for the time being. So that was another variable,                   |
 | 01:18:14   | and I had them all stored at the top of the shortcut, but then I had other shortcuts that I             |
-| 01:18:17   | needed to access these same things in. And that's when I started using Data Jar to store these meta       |
+| 01:18:17   | needed to access these same things in. And that's when I started using [[Data Jar]] to store these meta       |
 | 01:18:23   | variables for whether or not sections of my shortcuts should run, especially sections that              |
 | 01:18:29   | are in multiple shortcuts. Yeah, that's a great idea, that app. But time, I guess the short             |
 | 01:18:35   | version of this is, if you want to do time tracking with Toggle, get Timery and just pay for the        |

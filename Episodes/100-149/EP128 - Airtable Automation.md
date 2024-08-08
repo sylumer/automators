@@ -116,7 +116,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 03:19      | a new token, stick that in your shortcuts, and be done with it, but that does mean you're                 |
 | 03:24      | going to have to go back and touch all those old Airtable shortcuts.                                      |
 | 03:27      | If you're doing that, it might be a good time to update them to do something like, I don't                |
-| 03:31      | know, maybe what I do, which is get your API token out of Data Jar so that then you've                     |
+| 03:31      | know, maybe what I do, which is get your API token out of [[Data Jar]] so that then you've                     |
 | 03:36      | only got one place that you need to update your token if you need to change something                     |
 | 03:39      | later.                                                                                                    |
 | 03:40      | Yeah.                                                                                                     |

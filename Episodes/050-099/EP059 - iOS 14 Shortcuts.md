@@ -1191,7 +1191,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:03:09   | I would hazard a guess that I probably only use a hundred of them, but I have no idea                    |
 | 01:03:14   | which 100 they are.                                                                                      |
 | 01:03:18   | At the moment, I'm just sort of sitting around waiting, trying to figure all this out.                   |
-| 01:03:23   | I've tried some things using Data Jar and other things to lock this info, but I'm then having             |
+| 01:03:23   | I've tried some things using [[Data Jar]] and other things to lock this info, but I'm then having             |
 | 01:03:30   | to build it into every single shortcut, and yeah, I'm not particularly happy with that.                  |
 | 01:03:36   | I want the dust to settle this year, I understand that app developers can put more power into            |
 | 01:03:41   | the shortcut.                                                                                            |

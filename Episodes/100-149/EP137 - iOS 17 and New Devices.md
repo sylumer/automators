@@ -88,11 +88,11 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 02:58      | the Ultra, but the Ultra is literally wider than my wrist, so as much as I love having                   |
 | 03:04      | that action button, I've been assessing for the last couple of months, how often do I                    |
 | 03:08      | actually use this. I took a leaf out of my own automation book, and I created a log in                   |
-| 03:13      | Data Jar so that every time I ran the action button, it would try and log it into Data Jar                 |
+| 03:13      | [[Data Jar]] so that every time I ran the action button, it would try and log it into [[Data Jar]]                 |
 | 03:20      | so that I'd have some information, so I could see exactly how often I was running it.                    |
 | 03:25      | Okay, so just to interrupt, so people are going to listen to that and say, well, how                     |
 | 03:29      | did she do that? I'm guessing you're just doing an X plus one kind of thing to the                       |
-| 03:34      | Data Jar?                                                                                                 |
+| 03:34      | [[Data Jar]]?                                                                                                 |
 | 03:35      | Yeah, so I actually decided to just add to list, so I was just adding the current date                   |
 | 03:41      | and time into the list every time, just because that way I could see how often I was using               |
 | 03:44      | it and so on, and then I've been, you know, one of the things I wanted to experiment with,               |

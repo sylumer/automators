@@ -753,8 +753,8 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:01:27   | and get the location out of the picture of the car and mark the car as parked with the picture.          |
 | 01:01:32   | Yeah, that would be very clever. Now, how would you do that so it only prompts you the first             |
 | 01:01:36   | time? Because the second time I would tap it, I would want it to open the Disneyland app.                |
-| 01:01:40   | Yeah. So the way I would do that is I would really simply just use Data Jar and every time                |
-| 01:01:46   | you open the app, get the Data Jar variable, which will be like a Disney date or something,               |
+| 01:01:40   | Yeah. So the way I would do that is I would really simply just use [[Data Jar]] and every time                |
+| 01:01:46   | you open the app, get the [[Data Jar]] variable, which will be like a Disney date or something,               |
 | 01:01:55   | call it that. And if that, and then set that to today. Okay, but if it isn't, if the date isn't          |
 | 01:02:01   | today, then you know it wasn't today. You're so smart. And do it from there. So smart. You are a         |
 | 01:02:06   | clever programmer. So that's good. So you reset the token. You can also hook it. Yeah, yeah,             |
@@ -762,7 +762,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:02:17   | in one day. Like logically speaking, like it could happen. I could see that there would definitely       |
 | 01:02:23   | be an instance where it would happen, but it's unlikely. And if it happens, you know, and if             |
 | 01:02:27   | that happens, then you can work around it, right? But as it is, you know, it would be really simple      |
-| 01:02:32   | to just save a date in Data Jar. I like that idea. Save the date in Data Jar. And then just get the        |
+| 01:02:32   | to just save a date in [[Data Jar]]. I like that idea. Save the date in [[Data Jar]]. And then just get the        |
 | 01:02:41   | date. And if it's, if the date is today's date, then do that. Just make sure that you only do            |
 | 01:02:46   | the date, not the date and time, because otherwise the date and time is never going to be the current    |
 | 01:02:51   | date. But if you format it as just the date, then you should be good to go. So yeah, that that's         |
@@ -941,20 +941,20 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:18:39   | And also, I would like my iPad sound volume to be set back to the default state. And I                   |
 | 01:18:45   | have to kind of work around it at the moment. And I don't love doing what I'm doing there.               |
 | 01:18:50   | So yeah, it's not great. What I'm doing, David, is the Disney shortcut where I mentioned saving          |
-| 01:18:56   | the date in Data Jar. Yeah. Yeah, I saved the date and the hour in Data Jar. And then I trigger a        |
+| 01:18:56   | the date in [[Data Jar]]. Yeah. Yeah, I saved the date and the hour in [[Data Jar]]. And then I trigger a        |
 | 01:19:06   | different focus mode. And then I trigger, and then from the other focus mode, that's what triggers       |
 | 01:19:12   | everything on my iPads. And then I trigger the sleep mode again. So it's not great. And when it          |
-| 01:19:19   | triggers the sleep mode, it checks whether or not the current date and hour is in Data Jar. If I         |
+| 01:19:19   | triggers the sleep mode, it checks whether or not the current date and hour is in [[Data Jar]]. If I         |
 | 01:19:24   | trigger it like 11, 59, 58 seconds, then it might happen twice. But yeah, I can live with that.          |
-| 01:19:32   | I think at some point we have to do a show on Waze, Rose, Hacks, Data Jar,                               |
+| 01:19:32   | I think at some point we have to do a show on ways, Rose hacks [[Data Jar]],                               |
 | 01:19:37   | to add features because you have a whole collection of them.                                             |
-| 01:19:41   | I love Data Jar. Honestly, it's really great. I have periodic things that trigger on various             |
+| 01:19:41   | I love [[Data Jar]]. Honestly, it's really great. I have periodic things that trigger on various             |
 | 01:19:47   | devices, which will do things like create a daily note and agenda for my work stuff.                     |
 | 01:19:52   | But because the precise time trigger and so on isn't necessarily perfect, I actually just store          |
-| 01:20:00   | the date and the ID of the note in Data Jar so that I know that I've created a note for this date.       |
+| 01:20:00   | the date and the ID of the note in [[Data Jar]] so that I know that I've created a note for this date.       |
 | 01:20:08   | And then I can open today's note with just one click or one tap from anywhere and go straight            |
-| 01:20:13   | to it. And I love the fact that I can do that and I wouldn't be able to do it without Data Jar.          |
-| 01:20:17   | So yeah, we should do another show on Data Jar. Maybe we should get [[Simon Støvring\|Simon]] back again and ask him         |
+| 01:20:13   | to it. And I love the fact that I can do that and I wouldn't be able to do it without [[Data Jar]].          |
+| 01:20:17   | So yeah, we should do another show on [[Data Jar]]. Maybe we should get [[Simon Støvring\|Simon]] back again and ask him         |
 | 01:20:21   | what he's excited about and shortcuts and all the things he's been up to.                                |
 | 01:20:25   | That's a good idea. One last thing. I really think the story here, we talked about it in                 |
 | 01:20:30   | the first segment. But the story here is that we've got more chickens and eggs. And it's been fun        |

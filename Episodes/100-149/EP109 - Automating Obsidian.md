@@ -2051,7 +2051,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:16:59   | it's like oh it's in the old format                                                                |
 | 01:17:01   | because I didn't update this Shortcut I only updated                                               |
 | 01:17:03   | that Shortcut so                                                                                   |
-| 01:17:05   | I find I've got to use Data Jar                                                                     |
+| 01:17:05   | I find I've got to use [[Data Jar]]                                                                     |
 | 01:17:07   | or [[Drafts]] or something                                                                             |
 | 01:17:09   | to have a source of truth                                                                          |
 | 01:17:11   | for this information when I'm doing                                                                |

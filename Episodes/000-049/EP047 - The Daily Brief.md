@@ -150,7 +150,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 08:04      | found. Yes. Well, I like hearing it when I'm first waking up in the morning, and then I will run it      |
 | 08:10      | again. So one thing I have been playing with recently, which has been really useful and                  |
 | 08:16      | interesting is I have been at the end of my shortcut. If it hasn't run that day already,                 |
-| 08:23      | and this is pulling data from Data Jar, something we talked about in a recent episode, it's,             |
+| 08:23      | and this is pulling data from [[Data Jar]], something we talked about in a recent episode, it's,             |
 | 08:28      | it should be out by the time this episode actually comes out. If I'm remembering things                  |
 | 08:32      | correctly, it should be out a few days before. So I'll put a link to that in show notes.                 |
 | 08:36      | But what I do, what I do is I check whether or not it's already run that day. If it hasn't run           |
@@ -178,7 +178,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 10:42      | getting the location in shortcuts can take a long time. Like not in a good way. It takes a very long     |
 | 10:47      | time, it feels like. So what I've been doing is I've been checking the name of the Wi-Fi network.        |
 | 10:52      | And I've built a little dictionary of Wi-Fi network names to addresses. And I'm saving this,             |
-| 10:58      | again, I'm saving this in Data Jar, but you could just save this in a file in shortcuts.                 |
+| 10:58      | again, I'm saving this in [[Data Jar]], but you could just save this in a file in shortcuts.                 |
 | 11:03      | And then, or you could just put it as a dictionary inside of a shortcut, you know, like                  |
 | 11:07      | Wi-Fi network to address. And this means that my home Wi-Fi network, my parents' Wi-Fi network,          |
 | 11:12      | my grandmother's Wi-Fi network, my other grandmother's Wi-Fi network, all of those,                      |
@@ -201,7 +201,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 12:37      | it an if statement and then checking against a known list of Wi-Fi network? Let me check.                |
 | 12:44      | So I'm getting the network details and that says get Wi-Fi networks network name. Yeah.                  |
 | 12:49      | And then what I have is before that action. So the first action is actually the dictionary               |
-| 12:54      | or getting the dictionary in my case out of Data Jar because I'm using this in multiple                  |
+| 12:54      | or getting the dictionary in my case out of [[Data Jar]] because I'm using this in multiple                  |
 | 12:58      | different places. So I don't want to build this dictionary into just one shortcut.                       |
 | 13:01      | No, makes sense. So and then so I have the dictionary and then I have getting the Wi-Fi                  |
 | 13:07      | network name and then I have a get value from dictionary action. I think it's called get                 |
@@ -243,8 +243,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 16:17      | it. And then you could call that shortcut from another shortcut. I have actually just done that.         |
 | 16:23      | I've just duplicated my shortcut and I've, I've, I've deleted the extra actions or I'm deleting          |
 | 16:28      | the extra actions and I've changed it to get location because this means I can then go through           |
-| 16:32      | and add any more locations. I mean, I do that in Data Jar, but I'm going to have a different one         |
-| 16:36      | in the show notes for people that does not need Data Jar or anything else. It's just using               |
+| 16:32      | and add any more locations. I mean, I do that in [[Data Jar]], but I'm going to have a different one         |
+| 16:36      | in the show notes for people that does not need [[Data Jar]] or anything else. It's just using               |
 | 16:41      | shortcuts and a dictionary inside of shortcuts. Very clever, Rosemary. I love that. So, but,             |
 | 16:47      | you know, the point is you're collecting data at the beginning. For me, I'm getting the current date,    |
 | 16:51      | the current weather. I also grab events from my calendars. And there's three, I have many,               |

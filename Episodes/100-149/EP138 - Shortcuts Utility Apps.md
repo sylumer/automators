@@ -697,9 +697,9 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 41:46      | Well, there are so many.                                                                             |
 | 41:49      | Let's continue, though.                                                                              |
 | 41:51      | Can I pick one of my very favourites?                                                                 |
-| 41:55      | This one gets the Velvet Jacket Award on the Automators podcast, Data Jar.                            |
-| 42:01      | Data Jar just solves so many little problems for me.                                                  |
-| 42:05      | The thing is that Shortcuts doesn't have global variables, and Data Jar, it becomes a source          |
+| 41:55      | This one gets the Velvet Jacket Award on the Automators podcast, [[Data Jar]].                            |
+| 42:01      | [[Data Jar]] just solves so many little problems for me.                                                  |
+| 42:05      | The thing is that Shortcuts doesn't have global variables, and [[Data Jar]], it becomes a source          |
 | 42:11      | of global variables in Shortcuts, and [[Simon Støvring\|Simon]] has been a guest on the show.                            |
 | 42:16      | He's just one of my favourite developers.                                                             |
 | 42:19      | He's just such a cool guy.                                                                           |
@@ -715,7 +715,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 42:48      | But if it changes, then I can just go change the global variable, and it updates automatically       |
 | 42:52      | in all my Shortcuts.                                                                                 |
 | 42:53      | It's such an easy little problem to solve that Apple, I don't think, will ever address,              |
-| 43:01      | and Data Jar, man.                                                                                    |
+| 43:01      | and [[Data Jar]], man.                                                                                    |
 | 43:03      | Go check it out.                                                                                     |
 | 43:04      | Yeah.                                                                                                |
 | 43:05      | I don't know what else to say about it, except you need global variables, and there it is.           |
@@ -723,8 +723,8 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 43:12      | It can be a way to store data.                                                                       |
 | 43:15      | Maybe Logger for Shortcuts sounds like it's overkill for you, and you just want a list               |
 | 43:18      | of timestamps that something happened at.                                                            |
-| 43:21      | Well, you could use Data Jar for that.                                                                |
-| 43:23      | And what I really love about Data Jar as well is you go into the app, it's visually pretty.           |
+| 43:21      | Well, you could use [[Data Jar]] for that.                                                                |
+| 43:23      | And what I really love about [[Data Jar]] as well is you go into the app, it's visually pretty.           |
 | 43:29      | It looks nice, and you can see things, and you can say, hey, okay, so I'm going to add               |
 | 43:34      | some data.                                                                                           |
 | 43:35      | You don't have to open the app to use it at all, to be clear.                                        |
@@ -738,7 +738,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 44:03      | So a little bonus tip for folks there.                                                               |
 | 44:06      | I'm just looking at mine right now.                                                                  |
 | 44:08      | I have my, in the United States, you have a tax form called a W9.                                    |
-| 44:13      | And when people pay you they need it, I saved it as a Data Jar entry, just the PDF of it.            |
+| 44:13      | And when people pay you they need it, I saved it as a [[Data Jar]] entry, just the PDF of it.            |
 | 44:21      | So I can just drop it in into a shortcut when people want it.                                        |
 | 44:25      | I've got all, I don't know why, I have one here called the best number, and it says seven            |
 | 44:30      | under it.                                                                                            |
@@ -753,7 +753,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 44:56      | So if you want to work on something and then come back and run the shortcut again later,             |
 | 45:01      | it's going to start from one again.                                                                  |
 | 45:03      | It's not going to know.                                                                              |
-| 45:04      | And where you store it in Data Jar, you just call it up and there it is.                             |
+| 45:04      | And where you store it in [[Data Jar]], you just call it up and there it is.                             |
 | 45:08      | It solves a bunch of little problems.                                                                |
 | 45:10      | I love it.                                                                                           |
 | 45:11      | I don't think he even charges for it.                                                                |
@@ -761,11 +761,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 45:18      | thing.                                                                                               |
 | 45:19      | Yeah, yeah.                                                                                          |
 | 45:20      | [[Simon Støvring\|Simon]] is extremely generous with his apps and time.                                                  |
-| 45:23      | I believe Data Jar is free to download, as is another one of his apps, which you'll get              |
+| 45:23      | I believe [[Data Jar]] is free to download, as is another one of his apps, which you'll get              |
 | 45:29      | to in just a moment, right?                                                                          |
-| 45:31      | So Data Jar is free to download, but then there's optional in app tips that you can give             |
+| 45:31      | So [[Data Jar]] is free to download, but then there's optional in app tips that you can give             |
 | 45:36      | him.                                                                                                 |
-| 45:37      | So, yeah, one thing I'm going to mention that I do with Data Jar, and I'm aware this is              |
+| 45:37      | So, yeah, one thing I'm going to mention that I do with [[Data Jar]], and I'm aware this is              |
 | 45:41      | not security best practice, but, oh my God, did this save my bacon relatively recently?              |
 | 45:47      | Airtable updated API keys.                                                                           |
 | 45:50      | So previously you had like one Airtable API key, and that was it.                                    |
@@ -776,9 +776,9 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 46:15      | We just needed to update the token.                                                                  |
 | 46:18      | I have a lot, and I mean a lot of shortcuts that use Airtable.                                       |
 | 46:24      | Yeah, I bet you do.                                                                                  |
-| 46:27      | Fortunately, past me decided I was going to put my API keys in Data Jar.                             |
+| 46:27      | Fortunately, past me decided I was going to put my API keys in [[Data Jar]].                             |
 | 46:32      | All right, so before you go any further, just tell people why that can be a bad idea.                |
-| 46:37      | Well, it's a bad idea because Data Jar is not a password manager, okay?                              |
+| 46:37      | Well, it's a bad idea because [[Data Jar]] is not a password manager, okay?                              |
 | 46:41      | It doesn't have any kind of authentication, so it's not going to like face ID you when               |
 | 46:45      | you log in and stuff.                                                                                |
 | 46:47      | That said, it's using, I believe, CloudKit.                                                          |
@@ -809,7 +809,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 48:33      | that I don't want shared and then like delete it or change it in the duplicated version              |
 | 48:38      | that's the one I'm going to share before I do the import questions just because I want               |
 | 48:42      | to be really paranoid that there's nothing that's going to get shared accidentally, but              |
-| 48:46      | by using a Data Jar to get all of my API keys, I don't ever have to worry about them being           |
+| 48:46      | by using a [[Data Jar]] to get all of my API keys, I don't ever have to worry about them being           |
 | 48:52      | leaked by accident inside of a shortcut.                                                             |
 | 48:55      | Yeah, nice.                                                                                          |
 | 48:57      | What's next?                                                                                         |
@@ -851,7 +851,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 51:13      | Whatever you want to do pretty much, you can do it.                                                  |
 | 51:17      | So yeah, I would recommend that if you potentially want to make something pretty out of some numeric |
 | 51:24      | data, look at Charty because Charty is great.                                                      |
-| 51:29      | And if you're collecting a bunch of data and Data Jar and you want to put it on a chart,             |
+| 51:29      | And if you're collecting a bunch of data and [[Data Jar]] and you want to put it on a chart,             |
 | 51:33      | you could do that.                                                                                   |
 | 51:35      | And this is another app that's kind of weird, right, that somebody would think to do this.           |
 | 51:40      | But then the developer did a great job of tutorials, walkthroughs, examples.                         |

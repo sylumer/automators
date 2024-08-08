@@ -1612,7 +1612,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:13:11   | That's correct.                                                                                                                                                          |
 | 01:13:12   | Yeah.                                                                                                                                                                    |
 | 01:13:13   | I really like that idea actually.                                                                                                                                        |
-| 01:13:14   | I think I might expand that and add something in Data Jar to say I am traveling or I'm not                                                                               |
+| 01:13:14   | I think I might expand that and add something in [[Data Jar]] to say I am traveling or I'm not                                                                               |
 | 01:13:19   | traveling, something that can be set and then when my phone turns off low power mode,                                                                                    |
 | 01:13:24   | it can check to see whether or not it should turn it back on.                                                                                                            |
 | 01:13:27   | And then that flag is something that I can just easily enable and disable.                                                                                               |
@@ -1625,10 +1625,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:13:41   | See, this is great.                                                                                                                                                      |
 | 01:13:42   | This is what I love about this.                                                                                                                                          |
 | 01:13:43   | Yeah.                                                                                                                                                                    |
-| 01:13:44   | You got to try Data Jar if you haven't.                                                                                                                                  |
+| 01:13:44   | You got to try [[Data Jar]] if you haven't.                                                                                                                                  |
 | 01:13:45   | It's really fun.                                                                                                                                                         |
 | 01:13:46   | Yeah.                                                                                                                                                                    |
-| 01:13:47   | It's a set of global variables that you can store in Data Jar and then that just makes                                                                                   |
+| 01:13:47   | It's a set of global variables that you can store in [[Data Jar]] and then that just makes                                                                                   |
 | 01:13:54   | shortcuts so much more useful because you don't lose your variable data.                                                                                                 |
 | 01:14:00   | Right.                                                                                                                                                                   |
 | 01:14:01   | It's great for things that you want to pull in again and again and again.                                                                                                |

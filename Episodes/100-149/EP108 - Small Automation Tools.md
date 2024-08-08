@@ -654,8 +654,8 @@ In this episode, Rose and David explain some of their favourite small automation
 | 24:14      | and fetch it themselves because it's needed in                      |
 | 24:16      | six or seven shortcuts.                                             |
 | 24:18      | And so I just grabbed that data and I shove it into                 |
-| 24:20      | Data Jar.                                                           |
-| 24:22      | So you've said Data Jar.                                            |
+| 24:20      | [[Data Jar]].                                                           |
+| 24:22      | So you've said [[Data Jar]].                                            |
 | 24:23      | Let's talk about that one.                                          |
 | 24:25      | Yeah, yeah.                                                         |
 | 24:26      | So it's just a great place to store data that you're                |
@@ -665,10 +665,10 @@ In this episode, Rose and David explain some of their favourite small automation
 | 24:36      | also go in and edit it really easily.                               |
 | 24:39      | You know, Toolbox Pro has a similar feature with                    |
 | 24:41      | global variables.                                                   |
-| 24:43      | But I just like Data Jar for this.                                  |
+| 24:43      | But I just like [[Data Jar]] for this.                                  |
 | 24:46      | There's nothing wrong with using Toolbox Pro for                    |
 | 24:48      | it, but certainly if you're not yet using global                    |
-| 24:50      | variables, then definitely take a look at Data Jar                  |
+| 24:50      | variables, then definitely take a look at [[Data Jar]]                  |
 | 24:54      | and or Toolbox Pro to up your game.                                 |
 | 24:56      | Toolbox Pro, of course, has global variables as well                |
 | 24:58      | as all of the, oh my gosh, I don't know how many                    |
@@ -678,7 +678,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 25:07      | But, you know, it's certainly both of those apps are                |
 | 25:11      | other great apps to enhance your iOS automation                     |
 | 25:15      | experience.                                                         |
-| 25:17      | I mean, like Data Jar, I've got stuff in there.                     |
+| 25:17      | I mean, like [[Data Jar]], I've got stuff in there.                     |
 | 25:18      | I've even got like dumb stuff in there, like my                     |
 | 25:20      | email address and my name, my phone number.                         |
 | 25:23      | And that just makes it so easy to call that stuff                   |
@@ -689,7 +689,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 25:37      | I mean, if you want to do special variables for                     |
 | 25:40      | things you use across different work automations,                   |
 | 25:42      | and then if anything changes, you go in, you change                 |
-| 25:45      | it in Data Jar once and it's done everywhere.                       |
+| 25:45      | it in [[Data Jar]] once and it's done everywhere.                       |
 | 25:48      | Yeah, I mean, I use it kind of like a mini database.                |
 | 25:50      | I have an example in here.                                          |
 | 25:52      | I've got airline check-in information.                              |

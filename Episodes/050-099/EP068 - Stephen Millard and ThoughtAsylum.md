@@ -351,7 +351,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 24:03      | bits of data for me.                                                                                     |
 | 24:05      | Yeah, me too. I have a bunch of little things, but I've not used it like a full array yet.               |
 | 24:14      | Is there a problem with that? Has anybody run into issues putting big piles of data into                 |
-| 24:18      |[[ Data Jar]]?                                                                                                |
+| 24:18      | [[ Data Jar]]?                                                                                                |
 | 24:19      | I don't think so. I think there's certainly a lot of discussion on the forums where people               |
 | 24:25      | have managed to get things working just fine. I've never seen anyone kind of mention anything            |
 | 24:29      | about hitting any limits.                                                                                |

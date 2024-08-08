@@ -596,18 +596,18 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 57:10      | we're talking, and I'm there going, huh, oh, yeah, yeah, we're talking. Like, this is why David         |
 | 57:14      | sounds like David. Is he ever going to finish the sentence? That's what you think. I do want to give    |
 | 57:23      | two shout outs to my current favourite shortcut or apps that work in tandem with shortcuts,              |
-| 57:33      | which is Charty and Data Jar. Because, I mean, what Charty does in terms of taking                     |
+| 57:33      | which is Charty and [[Data Jar]]. Because, I mean, what Charty does in terms of taking                     |
 | 57:41      | your data and sort of helping you make sense of it, like I was noting before with the COVID             |
 | 57:47      | tracking shortcut, as well as a shortcut called Omni Focus Day that our friend Scotty Jackson made,       |
 | 57:56      | is just, I don't know, [[Drafts]] and, or I'm sorry, data just comforts me for some reason. And I think     |
-| 58:05      | a lot of nerds have that as well. And I really like Data Jar as sort of kind of similar to [[Drafts]],       |
+| 58:05      | a lot of nerds have that as well. And I really like [[Data Jar]] as sort of kind of similar to [[Drafts]],       |
 | 58:16      | a repository of information that shortcuts can just pull from. Like when I am recently,                 |
 | 58:23      | I've actually been tracking the amount of caffeine I've been having. And for a bunch of boring reasons, |
-| 58:31      | I keep that outside of WaterMinder. And in Data Jar, I'm just able to keep the                           |
+| 58:31      | I keep that outside of WaterMinder. And in [[Data Jar]], I'm just able to keep the                           |
 | 58:38      | certain amounts of caffeine I have. And then shortcuts gives me an option of like,                      |
-| 58:44      | which caffeine amount did you consume? And then it creates a little chart from that out of Data Jar      |
+| 58:44      | which caffeine amount did you consume? And then it creates a little chart from that out of [[Data Jar]]      |
 | 58:52      | is in information. Like it's wild. Also, I did not build that one either. But I'm starting to really    |
-| 59:02      | wrap my head around the things that I can do with Data Jar to, for myself. For example, I'm              |
+| 59:02      | wrap my head around the things that I can do with [[Data Jar]] to, for myself. For example, I'm              |
 | 59:11      | creating a shortcut that tells me what I'm going to wear every day, because I have a very limited,      |
 | 59:19      | but by choice, very limited wardrobe. And I kind of like to trick people into thinking that I           |
 | 59:26      | dress like a normal person. So it'll be like, yes, a t-shirt you wear every day, pair it with           |
@@ -636,7 +636,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:01:47   | wants. And I'm like, yeah, that is what I want. So how does it work, though, the shortcut? Is it        |
 | 01:01:53   | running in a random number generator against a list or what is it doing?                                |
 | 01:01:59   | Yes. And this one is, I added, it pulled, my pants are just pulled from a random list that I put        |
-| 01:02:09   | in a text field in shortcuts. But I'm trying to make it so that I have, it pulls from Data Jar          |
+| 01:02:09   | in a text field in shortcuts. But I'm trying to make it so that I have, it pulls from [[Data Jar]]          |
 | 01:02:16   | so that I can have a store of, is that what it's called? Yes, yes, for, I mean, get it all the          |
 | 01:02:28   | way down to underwear, like, all right. And also, I want a way to automate laundry, which I know        |
 | 01:02:36   | Rose has been doing some Pushcut stuff with that, so that I can push a, you know, when I say          |

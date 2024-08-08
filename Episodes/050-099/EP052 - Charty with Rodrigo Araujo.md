@@ -270,15 +270,15 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 13:03      | But yeah, I'd never really considered Rose visualising data with it with a Charty version.             |
 | 13:09      | But if you, I guess if you kind of rated your day or rated your sleep or whatever, you could           |
 | 13:14      | easily put something together with Charty and it can, it can start that information                    |
-| 13:18      | in Data Jar with which is awesome.                                                                     |
-| 13:22      | I've rewritten lots of my shortcuts using using Data Jar just to get better information                |
+| 13:18      | in [[Data Jar]] with which is awesome.                                                                     |
+| 13:22      | I've rewritten lots of my shortcuts using using [[Data Jar]] just to get better information                |
 | 13:29      | stories than saving it in, in notes files.                                                             |
 | 13:32      | Yes.                                                                                                   |
 | 13:33      | Yeah, definitely.                                                                                      |
 | 13:34      | I mean, that's, that's one of the key things that you have to look at with an automation,              |
 | 13:38      | right?                                                                                                 |
 | 13:39      | How are you going to store your data?                                                                  |
-| 13:40      | And okay, maybe Data Jars and the solution for some people, they, they want to just save               |
+| 13:40      | And okay, maybe [[Data Jar\|Data Jar's]] the solution for some people, they, they want to just save               |
 | 13:43      | a dictionary as a file into iCloud or they just want to send a chart over to Charty and                |
 | 13:48      | that's okay because they don't need the data, they just want the chart, but you, you have              |
 | 13:52      | to decide how you're going to store your data.                                                         |
@@ -286,7 +286,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 13:58      | in day one.                                                                                            |
 | 14:00      | It is really remarkable how much third party developers have stepped in during iOS 13.                 |
 | 14:06      | I mean, if you look at it, our show regularly, we're talking about third party apps.                   |
-| 14:11      | We've already talked about Charty and Data Jar, you know, it's just, there's so many                   |
+| 14:11      | We've already talked about Charty and [[Data Jar]], you know, it's just, there's so many                   |
 | 14:15      | ways that shortcuts is improved without Apple this year.                                               |
 | 14:18      | Yes.                                                                                                   |
 | 14:19      | Apple has given us a platform more than ever.                                                          |
@@ -299,7 +299,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 14:51      | able to, to get data input from, from shortcuts, but they were very, very, very nice to me.            |
 | 14:56      | That would be a great addition to shortcuts there, wouldn't it?                                        |
 | 14:59      | So inside the gallery, like have an apps section where they can showcase all of these great            |
-| 15:03      | apps, you know, including Charty and toolbox pro and Data Jar and all of these amazing                 |
+| 15:03      | apps, you know, including Charty and toolbox pro and [[Data Jar]] and all of these amazing                 |
 | 15:08      | things that really make shortcuts better.                                                              |
 | 15:11      | I'm coding that on my WWDC wishlist, David, and I'm claiming that if, if that comes true,              |
 | 15:16      | I'm getting a point.                                                                                   |
@@ -630,12 +630,12 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 33:27      | So there's a lot you could, this is a great starting point.                                            |
 | 33:29      | Thanks for sharing this.                                                                               |
 | 33:30      | Yeah.                                                                                                  |
-| 33:31      | You could even store when you paid what bill in Data Jar and bill a chart to show how frequently        |
+| 33:31      | You could even store when you paid what bill in [[Data Jar]] and bill a chart to show how frequently        |
 | 33:37      | you're paying your bills and how much you're paying and whether or not your bills have                 |
 | 33:40      | gone up over time.                                                                                     |
 | 33:42      | Yes.                                                                                                   |
 | 33:43      | Some users have been using charted to create an express tracker.                                       |
-| 33:49      | So they might be, this might be a nice use for just how much was it and then add to Data Jar            |
+| 33:49      | So they might be, this might be a nice use for just how much was it and then add to [[Data Jar]]            |
 | 33:57      | dictionary.                                                                                            |
 | 33:58      | We are very quickly making our simple automation, not so simple guys.                                  |
 | 34:01      | Well, the good news is, is the version that's going to be downloadable in the show notes               |
@@ -679,7 +679,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 36:49      | So I was exporting, this was long before charting, it was in 2018 or 2019, and I was exporting         |
 | 36:57      | this data to Excel and building charts over there to visualise my progress.                            |
 | 37:03      | But it was cumbersome, because it was so troublesome, I didn't do it as much as I'd like.              |
-| 37:11      | So when I released charting and having Toolbox Pro and Data Jar, I set out to bid this one,               |
+| 37:11      | So when I released charting and having Toolbox Pro and [[Data Jar]], I set out to bid this one,               |
 | 37:19      | and it actually comprises three different shortcuts into one.                                          |
 | 37:24      | Okay.                                                                                                  |
 | 37:25      | What's the first shortcut then?                                                                        |
@@ -699,7 +699,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 38:30      | and you'll be done with it.                                                                            |
 | 38:33      | And then it creates two actual lists for this dictionary, one for dates, the dates you read,           |
 | 38:40      | and one for your progress on each of these dates.                                                      |
-| 38:43      | And it has this dictionary to a list of dictionaries in Data Jar.                                       |
+| 38:43      | And it has this dictionary to a list of dictionaries in [[Data Jar]].                                       |
 | 38:50      | So it's saved over there.                                                                              |
 | 38:51      | This is the first one.                                                                                 |
 | 38:53      | The second one is the log progress.                                                                    |
@@ -726,7 +726,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 40:34      | it to be otherwise.                                                                                    |
 | 40:37      | I mean, what you've really done here is you've made a book reading and tracking application            |
 | 40:42      | using shortcuts that that wasn't possible with what we got in iOS 13.0 with the shortcuts,             |
-| 40:51      | but when you add things like Data Jar and Charty, it's kind of a full-fledged application.             |
+| 40:51      | but when you add things like [[Data Jar]] and Charty, it's kind of a full-fledged application.             |
 | 40:58      | And that's why I'm really pleased that you're willing to share this so everybody can download          |
 | 41:02      | it and look through it.                                                                                |
 | 41:03      | But you want to make an application to track things.                                                   |
@@ -738,7 +738,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 41:22      | The lots of users have been building great applications.                                               |
 | 41:25      | You can see them in the Automator's Forum or in the Reddit shortcuts.                                  |
 | 41:29      | The basis of all this is getting a way to build nice UIs using Toolbox Pro Quick Menus                    |
-| 41:36      | and storing data using Data Jar and then, in the case of this shortcut, visualise data                  |
+| 41:36      | and storing data using [[Data Jar]] and then, in the case of this shortcut, visualise data                  |
 | 41:44      | using Charty.                                                                                         |
 | 41:45      | So it's a lot of moving pieces getting together to build something like this.                          |
 | 41:50      | But it's impressive what Alex and Simon built, so it enables us to build this.                         |
@@ -819,7 +819,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 46:00      | two shortcuts.                                                                                         |
 | 46:01      | I was adding the book, tracking these books as notes files, in notes.                                  |
 | 46:07      | And I had the shortcuts was a lot bigger because I had to process the text and get actions             |
-| 46:13      | and dates and all that using Data Jar made it a lot smaller and made it easier to process              |
+| 46:13      | and dates and all that using [[Data Jar]] made it a lot smaller and made it easier to process              |
 | 46:19      | everything.                                                                                            |
 | 46:20      | Well, I like the sound of the fact that being on, being on automators has inspired you to              |
 | 46:26      | improve your own automations because that's something that I feel everybody can do if                  |
@@ -842,7 +842,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 47:20      | Yeah.                                                                                                  |
 | 47:21      | See, I have a very simple solution to all of this.                                                     |
 | 47:24      | I use [[Drafts]], which has universally unique IDs for every draft.                                        |
-| 47:28      | And when I need to, I store those IDs either in air table or in Data Jar or in some cases              |
+| 47:28      | And when I need to, I store those IDs either in air table or in [[Data Jar]] or in some cases              |
 | 47:34      | both.                                                                                                  |
 | 47:35      | Yes.                                                                                                   |
 | 47:36      | Both.                                                                                                  |

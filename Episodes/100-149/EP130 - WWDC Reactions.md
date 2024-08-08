@@ -470,9 +470,9 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 38:05      | the start of my day. My iPad can set me up for my day, but I currently can't do that. And like I          |
 | 38:12      | have to proxy like it by like turning to another focus mode which wastes the focus mode because           |
 | 38:18      | it's like, okay, sleep mode turning on is good turn on this focus mode and then like set a                |
-| 38:23      | Data Jar variable and then the automation runs on my iPad and so it flips back to sleep focus mode.       |
+| 38:23      | [[Data Jar]] variable and then the automation runs on my iPad and so it flips back to sleep focus mode.       |
 | 38:29      | And then like it doesn't run again because it checks and it's like, okay, this variable is already        |
-| 38:33      | there in Data Jar. Like we're not going to do it again. And it's just kind of janky and horrible          |
+| 38:33      | there in [[Data Jar]]. Like we're not going to do it again. And it's just kind of janky and horrible          |
 | 38:38      | as I've given up on doing that. And yeah, I just have to live with my iPad not doing like a reset         |
 | 38:44      | of rotation lock and silent mode at the end of the day at the moment, which is a shame because            |
 | 38:49      | it really pucks me when I forget to turn those off and I'm sitting in one room and I can't move           |

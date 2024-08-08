@@ -1400,7 +1400,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:14:44   | I don't know if they have an API.                                                                      |
 | 01:14:45   | I'm going to look into it because that would be cool, Rose, rather than using affirmations             |
 | 01:14:48   | to actually use your own chosen highlights out of Readwise.                                            |
-| 01:14:52   | I mean, you could also just store them in Data Jar or something.                                       |
+| 01:14:52   | I mean, you could also just store them in [[Data Jar]] or something.                                       |
 | 01:14:55   | I know Readwise has integrations with some things because I believe, is there a Readwise               |
 | 01:15:00   | plugin for [[Obsidian]], I want to say?                                                                    |
 | 01:15:02   | Well, they have a Readwise plugin that will send your annotations over to [[Obsidian]].                    |

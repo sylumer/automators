@@ -269,12 +269,12 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 17:24      | impressive because the memory restrictions that these shortcuts have. And, you know,                 |
 | 17:29      | it's not like an app where you can just take over the phone. It does require very careful            |
 | 17:35      | management of memory and programming. It's beyond my pay grade. I know that. And nevertheless,       |
-| 17:42      | these developers come up with these amazing things. Data Jar is, I think, probably the                |
+| 17:42      | these developers come up with these amazing things. [[Data Jar]] is, I think, probably the                |
 | 17:47      | most useful addition to shortcuts I've seen because now I've got this this app full of               |
 | 17:53      | global variables that I'm constantly hitting. And it's like that the existence of a known            |
 | 18:00      | data store for me actually increases the options for me to create shortcuts.                         |
 | 18:05      | Yes, it does for me too. And we had a recent episode with Scotty Jackson about, you know,            |
-| 18:12      | how he's using Data Jar as like a back end of data for shortcuts, which is, you know,                 |
+| 18:12      | how he's using [[Data Jar]] as like a back end of data for shortcuts, which is, you know,                 |
 | 18:17      | what it is, but the fact that it's there and you can go straight into it and edit, you               |
 | 18:22      | know, these, these, these dictionaries of data or whatever it is that you're storing                 |
 | 18:26      | outside of the shortcuts app for me has been a game changer because I have started putting           |
@@ -664,7 +664,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:54      | Yeah, let's start with Shortcuts because Shortcuts has come massive strides and I'm really impressed |
 | 49:00      | at the amount of support that we've had from third-party developers to add things to Shortcuts       |
 | 49:04      | that previously weren't possible.                                                                    |
-| 49:06      | I don't want to see the Shortcuts team sure looking toolbox pro or Data Jar or any of                |
+| 49:06      | I don't want to see the Shortcuts team sure looking toolbox pro or [[Data Jar]] or any of                |
 | 49:11      | that stuff.                                                                                          |
 | 49:12      | I feel, yes, it's a third-party thing, but that's not a bad thing.                                   |
 | 49:15      | It means that those can iterate and improve at a separate pace and so on.                            |

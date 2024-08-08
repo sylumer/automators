@@ -870,7 +870,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:10:07   | sometimes just don't work. And I'm like, yeah, but I didn't know. I wouldn't say it's a known            |
 | 01:10:11   | thing. I would say that I was aware that a bunch of my shortcuts for the setting of a focus mode         |
 | 01:10:17   | were failing because I have slash had shortcuts attached to each focus mode for when it started          |
-| 01:10:24   | and when it finished to change the two, sorry, set a variable in Data Jar with my current focus          |
+| 01:10:24   | and when it finished to change the two, sorry, set a variable in [[Data Jar]] with my current focus          |
 | 01:10:32   | mode. Because as I mentioned earlier, you can't get shortcuts to tell you what focus mode is             |
 | 01:10:39   | currently running. Your iPhone can do it. Siri has this information. So it should be a possible          |
 | 01:10:43   | to get it through shortcuts on the Mac. [[Jason Snell]] pointed out something that he asked in               |

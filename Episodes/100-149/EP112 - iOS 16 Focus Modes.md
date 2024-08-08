@@ -349,9 +349,9 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 17:58      | And I've recently updated the way that I do that because the way I start my podcasting                  |
 | 18:01      | focus modes is 99.9% of the time by clicking on a bunch action in my Mac menu bar.                      |
 | 18:08      | And so it knows when I click record automators that I'm planning on recording automators,               |
-| 18:13      | so it saves that into Data Jar.                                                                         |
+| 18:13      | so it saves that into [[Data Jar]].                                                                         |
 | 18:15      | And it just says, hey, she's recording automators.                                                      |
-| 18:18      | And that means that I can just grab that information out of Data Jar and say, okay, this is where       |
+| 18:18      | And that means that I can just grab that information out of [[Data Jar]] and say, okay, this is where       |
 | 18:22      | we're at.                                                                                               |
 | 18:23      | All right.                                                                                              |
 | 18:24      | Put that in your hat.                                                                                   |
@@ -626,10 +626,10 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 36:04      | reference system, then it goes into obsidian, but agenda is kind of like a cross between                |
 | 36:10      | planning and logging what happened.                                                                     |
 | 36:13      | And of course, when I create the agenda notes for a day, then I save, because agenda's got              |
-| 36:19      | UUIDs for each note, so I save that UUID into Data Jar, so that I can then, you know, look              |
+| 36:19      | UUIDs for each note, so I save that UUID into [[Data Jar]], so that I can then, you know, look              |
 | 36:26      | it up, because what happens when my work focus mode starts is it pings my push cut server.              |
 | 36:32      | And the push cut server goes, hey, I'm going to find or create the agenda note for today.               |
-| 36:37      | It looks in Data Jar to see if there is a Data Jar entry for today.                                     |
+| 36:37      | It looks in [[Data Jar]] to see if there is a [[Data Jar]] entry for today.                                     |
 | 36:43      | And if there isn't, then it creates one with a little template that I've got another other              |
 | 36:46      | than that, it just, you know, that's at the end of story.                                               |
 | 36:49      | But that works pretty well for me.                                                                      |
@@ -1497,7 +1497,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:29:42   | But you know, I should really disable that because I've, you know, had the realisation                  |
 | 01:29:47   | that when I start a particular podcast through Bunch, I can just have it give a shortcut                |
 | 01:29:53   | the data of which podcast I'm recording based on which entry I've clicked in the menu.                  |
-| 01:29:59   | And just store that in Data Jar to use as, you know, information to share across my devices             |
+| 01:29:59   | And just store that in [[Data Jar]] to use as, you know, information to share across my devices             |
 | 01:30:04   | and, you know, update things if necessary so that I can have a different watch phase                    |
 | 01:30:09   | for automators versus say, nested folders, because that's quite fun having different                    |
 | 01:30:13   | watch phases for different podcasts, even though the actual focus modes are the same.                   |

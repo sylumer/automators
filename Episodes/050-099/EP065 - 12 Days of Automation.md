@@ -868,7 +868,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 43:55      | wallpaper on my iPhone.                                                                                  |
 | 43:57      | So if it lit up, then I'd see automators behind the notifications.                                       |
 | 44:00      | But because I'm setting my wallpaper, what I'm considering doing, I have not yet done,                   |
-| 44:07      | what I'm considering doing is writing into Data Jar, the date that my wallpaper was last                 |
+| 44:07      | what I'm considering doing is writing into [[Data Jar]], the date that my wallpaper was last                 |
 | 44:13      | changed by a very specific change wallpaper due to a theme day.                                          |
 | 44:19      | And then if it, if it's changed at that day, then it won't do the context, contextual wallpaper.         |
 | 44:24      | And if it, if it has, and if it hasn't, then it will do contextual wallpaper type thing.                 |

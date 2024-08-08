@@ -997,11 +997,11 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:31:18   | I want the ability to create my own custom notifications where then once like I can almost                                       |
 | 01:31:23   | like save a link for later in my notifications and then open that and go back to it that could be                                |
 | 01:31:29   | deep link contextual computing like for days with that that would be awesome yeah I'm currently                                  |
-| 01:31:35   | using the show notification with my car so when I connect to my car um if I haven't opened Data Jar                              |
-| 01:31:41   | that day then it opens Data Jar because I was running into a bug I'm pretty certain it's just                                    |
+| 01:31:35   | using the show notification with my car so when I connect to my car um if I haven't opened [[Data Jar]]                              |
+| 01:31:41   | that day then it opens [[Data Jar]] because I was running into a bug I'm pretty certain it's just                                    |
 | 01:31:46   | that I don't have enough storage space on my 256 gigabyte iPhone what kind of person am I that I'm                               |
 | 01:31:51   | running out of storage space with that um but uh it would randomly lose or not be able to get all                                |
-| 01:31:56   | the the the address lists that I built for my driving destinations so I opened Data Jar if I                                     |
+| 01:31:56   | the the the address lists that I built for my driving destinations so I opened [[Data Jar]] if I                                     |
 | 01:32:02   | haven't opened it that day and then it shows me a notification so I can just easily tap on it while                              |
 | 01:32:07   | I'm you know putting my seatbelt on to jump back to shortcuts and then continue the shortcut um but                              |
 | 01:32:12   | it's yeah it's a little bit of a hack I think the biggest thing that apple could do to make                                      |

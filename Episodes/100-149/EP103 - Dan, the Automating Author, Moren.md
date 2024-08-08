@@ -1031,7 +1031,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:00:46   | a big priority for Jason and I when we were trying to design this to make it as portable as possible   |
 | 01:00:50   | and not depend on any, you know, external third parties or tools as good as they are. If you           |
 | 01:00:56   | want to make it portable, they're kind of stuck that way. Yeah. Just thinking out loud rows,           |
-| 01:01:00   | wouldn't Data Jar work for that? Data Jar would absolutely work for that. Data Jar would be a             |
+| 01:01:00   | wouldn't [[Data Jar]] work for that? [[Data Jar]] would absolutely work for that. [[Data Jar]] would be a             |
 | 01:01:04   | great way of storing that information. Other options, of course, include things like Toolbox         |
 | 01:01:09   | Pro and numerous other things, just saving a text file somewhere. But one thing that occurs to me      |
 | 01:01:15   | is if people are using Timery, it has a format duration option, which might be something that's        |

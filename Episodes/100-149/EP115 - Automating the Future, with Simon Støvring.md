@@ -88,7 +88,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:59      | if that qualifies as an indie developer, but that's how I like to think about it. And I                |
 | 02:04      | do apps like you, before you mentioned Scriptable, that's one of them. And app for programming,        |
 | 02:11      | writing small programs in JavaScript on your iPhone and iPad. I do Rune Stone, a classic               |
-| 02:16      | plain text editor, an app called JSON for browsing JSON and Data Jar, a database that's built           |
+| 02:16      | plain text editor, an app called JSON for browsing JSON and [[Data Jar]], a database that's built           |
 | 02:24      | for shortcuts. And many of these apps have this thing in common that they're really                    |
 | 02:29      | meant for power users like you, Rose and David. And that also means that they tend to tie              |
 | 02:36      | a bit into shortcuts. I mean, Rune Stone doesn't, but the three others do.                             |
@@ -106,7 +106,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 03:33      | need, something that you keep for yourself, you know, that isn't necessarily very pretty               |
 | 03:38      | or whatever, but gets the job done. But you always take it to the next level. And you                  |
 | 03:42      | share it with people like me, because I don't have the ability to make things like Rune                |
-| 03:45      | Stone or, you know, the apps that you make. Data Jar, for instance, is something I use                  |
+| 03:45      | Stone or, you know, the apps that you make. [[Data Jar]], for instance, is something I use                  |
 | 03:50      | so often. And I really appreciate that you put it out there for the world. And anybody                 |
 | 03:55      | listening to the Automator should absolutely check out this website with all these great               |
 | 04:01      | apps that he's made, because we got to support guys like you that are bringing these tools             |
@@ -137,7 +137,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 05:59      | perspective that somebody else is going to look at it. And if you're, you know, if you                 |
 | 06:02      | do it all day every day, some people that works great for and other people that might                  |
 | 06:07      | not work so great for. And as it is, we're getting some great, really, really useful                   |
-| 06:10      | apps from you, which I know I use Data Jar multiple times a day every day. I don't even                |
+| 06:10      | apps from you, which I know I use [[Data Jar]] multiple times a day every day. I don't even                |
 | 06:15      | think about it anymore, it just happens. But that is so useful to have as just, you know,              |
 | 06:21      | a tool that is always there for me that I may not otherwise have, you know, if somebody                |
 | 06:26      | else, you know, or if nobody had made that. So thank you.                                              |
@@ -773,43 +773,43 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 58:55      | and you can get an extra three months of ExpressVPN for free. That's ExpressVPN.com/automators   |
 | 59:04      | to get those three extra months of ExpressVPN. ExpressVPN.com/automators. Our thanks             |
 | 59:10      | to ExpressVPN for their support of this show and all of Real AFM.                                      |
-| 59:14      | Well, I mentioned earlier, Data Jar, and I'm such a huge fan of this application. Sometimes             |
+| 59:14      | Well, I mentioned earlier, [[Data Jar]], and I'm such a huge fan of this application. Sometimes             |
 | 59:22      | people have trouble understanding it, you know, what it does and how it relates to shortcuts.          |
-| 59:27      | Simon, explain Data Jar.                                                                                |
-| 59:29      | Yeah. How do you explain Data Jar? It's a database for Data Jar. It's like a key value storage.          |
+| 59:27      | Simon, explain [[Data Jar]].                                                                                |
+| 59:29      | Yeah. How do you explain [[Data Jar]]? It's a database for [[Data Jar]]. It's like a key value storage.          |
 | 59:40      | Very generic key value storage. You can store your strings, Booleans, numbers, and so on,              |
 | 59:45      | and it's designed for and obviously integrates with shortcuts. And it's, yeah, it's a really           |
 | 59:52      | shortcuts-focused database, that's basically it.                                                       |
 | 59:58      | Global variables for shortcuts is the way I was thinking about it. It's like you can                   |
-| 01:00:02   | put your phone number in Data Jar, your address, anything that you're going to repeatedly call          |
+| 01:00:02   | put your phone number in [[Data Jar]], your address, anything that you're going to repeatedly call          |
 | 01:00:08   | in a shortcut. So like, let's take the phone number as an example. Let's say that you're               |
 | 01:00:12   | in sales and you've written a bunch of email shortcuts, and the email includes your phone              |
 | 01:00:19   | number in it. Let's say you've got 20 of them, and then your phone number changes, right,              |
 | 01:00:25   | or your employer changes or something. So you want to get your customers your new phone                |
 | 01:00:29   | number. Well, you could go in and block and copy and paste 20 times, or you could when                 |
-| 01:00:37   | you build them, being a future thinking automator, just use Data Jar and have it call the variable      |
+| 01:00:37   | you build them, being a future thinking automator, just use [[Data Jar]] and have it call the variable      |
 | 01:00:43   | for your phone number. And then when your phone number changes, you change the phone                   |
-| 01:00:46   | number in Data Jar, and all those shortcuts just magically have the new data.                           |
+| 01:00:46   | number in [[Data Jar]], and all those shortcuts just magically have the new data.                           |
 | 01:00:51   | And this is something that is shockingly not in shortcuts, you know, the idea of a memory              |
 | 01:00:57   | of a variable across different shortcuts. And Simon scratched that it's so well that                   |
-| 01:01:04   | I don't care if Apple ever fixes it, because I'm super happy with Data Jar. But I mean,                 |
+| 01:01:04   | I don't care if Apple ever fixes it, because I'm super happy with [[Data Jar]]. But I mean,                 |
 | 01:01:09   | it's just a little problem. And I do think that like, you know, when we talk about things              |
 | 01:01:14   | like Scriptable, some people say, well, JavaScript, I don't know how much I'm going to do that.        |
-| 01:01:18   | Look, Data Jar is something everybody who owns shortcuts or makes a shortcut can use because            |
+| 01:01:18   | Look, [[Data Jar]] is something everybody who owns shortcuts or makes a shortcut can use because            |
 | 01:01:24   | it's just what I said. It's a little jar full of data. In fact, maybe that's how you                   |
 | 01:01:31   | came up with the name, right? Exactly. Yes. Yeah. For me, one of the most useful things                |
-| 01:01:39   | about Data Jar is the fact that I can go into Data Jar at any point and see what my data is.             |
+| 01:01:39   | about [[Data Jar]] is the fact that I can go into [[Data Jar]] at any point and see what my data is.             |
 | 01:01:45   | And I can see it very, very simply and very easily. And I can see that on any of my devices,           |
 | 01:01:51   | not just the device that had the shortcut that created that or updated it or whatever.                 |
 | 01:01:58   | Because some of the things that I struggle with sometimes with some of the other solutions,            |
 | 01:02:02   | you know, I've tried storing things in files in iCloud and so on and so forth. Sometimes               |
 | 01:02:08   | like you have to wait for the file to download. And I just want to just quickly, manually              |
 | 01:02:13   | edit something. And I don't have to do that through shortcuts, you know, I can do that                 |
-| 01:02:17   | through shortcuts. I'm certainly capable of doing it. But I can just open up Data Jar and               |
+| 01:02:17   | through shortcuts. I'm certainly capable of doing it. But I can just open up [[Data Jar]] and               |
 | 01:02:22   | I can see things and I can easily edit it. So recently I was traveling for the first                   |
 | 01:02:27   | time in a while. And I realised that my airline check-in script hadn't done what it needed             |
 | 01:02:32   | to do, which is add a reminder and to do when I should be able to check in. And I just popped          |
-| 01:02:38   | into Data Jar. And I checked, I've got a little section called airline check-in, that's one             |
+| 01:02:38   | into [[Data Jar]]. And I checked, I've got a little section called airline check-in, that's one             |
 | 01:02:43   | of the keys in the key value store. And then I looked in it. And the value for this is                 |
 | 01:02:47   | it's actually a dictionary. Okay, so it has, you know, a number of keys like LH for Lufthansa          |
 | 01:02:53   | and OS for Austrian and so on and so forth. And then each of the values there is a number.             |
@@ -818,8 +818,8 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:03:09   | on my way home, you know, my automations had already picked up that there was a flight                 |
 | 01:03:13   | in my calendar and the G reminder had been added and I got notified that I was supposed                |
 | 01:03:17   | to check in. And that solved it. You know, but I'm easily able to just pop in and see                  |
-| 01:03:24   | at a glance what is, you know, what I've got here and what I've not got. And I use Data Jar             |
-| 01:03:29   | for so many things, like all of my API keys, I store in Data Jar. So I never accidentally               |
+| 01:03:24   | at a glance what is, you know, what I've got here and what I've not got. And I use [[Data Jar]]             |
+| 01:03:29   | for so many things, like all of my API keys, I store in [[Data Jar]]. So I never accidentally               |
 | 01:03:34   | share like my air table API key with everybody and let everybody delete everything that's              |
 | 01:03:38   | in our shortcuts, a air table, that'd be bad. But I also have, you know, like different                |
 | 01:03:45   | Wi-Fi addresses and what they equate to back from when, like location-wise, from when getting          |
@@ -827,7 +827,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:03:55   | got, you know, I've got a dictionary here, which has all of my work notes because I have               |
 | 01:04:00   | a work note automatically created every single day and I have the ID of that work note stored          |
 | 01:04:05   | with the date. So I can easily grab the work note. But when I run the shortcut, if the                 |
-| 01:04:10   | work note isn't there, then it goes and it creates it and it saves it into Data Jar.                    |
+| 01:04:10   | work note isn't there, then it goes and it creates it and it saves it into [[Data Jar]].                    |
 | 01:04:14   | So it should have been created automatically, but just in case it'll, you know, it'll look             |
 | 01:04:18   | it up and, you know, you've got that function with shortcuts, you've created a shortcut                |
 | 01:04:23   | action to check if there is a value. And also to get a value and you can have it not fail              |
@@ -860,7 +860,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:06:40   | down and then pick it up again later, then you can do that. And, you know, I think that                |
 | 01:06:46   | this is just very useful. I for a long time, the way I was working around focus modes and              |
 | 01:06:51   | not being able to get my current focus mode on iOS is every time a focus mode turned on,               |
-| 01:06:54   | it would store my current focus mode into a key called focus in Data Jar. And it would                 |
+| 01:06:54   | it would store my current focus mode into a key called focus in [[Data Jar]]. And it would                 |
 | 01:06:59   | write it in there. And when my focus mode ended, it would remove it or it would unset                  |
 | 01:07:06   | it and then, you know, a new focus mode starting would set it. And yeah, this, this was, this          |
 | 01:07:12   | was certainly a hack to work around a problem. It was not perfect. I run into some issues              |
@@ -870,47 +870,47 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:07:33   | just saying, okay, if this changed in the last 10 seconds, and it's got a value, don't                 |
 | 01:07:37   | change it again. Because otherwise, like I would end my fitness focus mode and start                   |
 | 01:07:43   | my, I can't remember, I think it was my personal focus mode. And yeah, I just have no focus            |
-| 01:07:50   | mode available inside of Data Jar. But yeah, it's, it's really nice that you've got all                |
+| 01:07:50   | mode available inside of [[Data Jar]]. But yeah, it's, it's really nice that you've got all                |
 | 01:07:55   | of the abilities to, you know, view a value or just get all of the keys in here and count              |
 | 01:08:00   | how many values there are and so on, just to make it a little bit easier on everybody.                 |
 | 01:08:05   | Because I think a lot of people will get really hamstrung with shortcuts and not being able            |
 | 01:08:09   | to save some data for later.                                                                           |
 | 01:08:11   | Yeah, I mean, I'm, yeah, I'm completely speechless hearing you talking about all of this. That's       |
-| 01:08:17   | a great, great use of Data Jar. And it's like that. When I listen to this show normally,               |
-| 01:08:25   | it's like Data Jar comes up occasionally. And every time I'm so impressed hearing you                  |
+| 01:08:17   | a great, great use of [[Data Jar]]. And it's like that. When I listen to this show normally,               |
+| 01:08:25   | it's like [[Data Jar]] comes up occasionally. And every time I'm so impressed hearing you                  |
 | 01:08:30   | talk about it, because you're using it in ways that I never thought of. And my use of                  |
-| 01:08:36   | Data Jar is actually quite simple. It's, you mentioned earlier that you're using it there              |
+| 01:08:36   | [[Data Jar]] is actually quite simple. It's, you mentioned earlier that you're using it there              |
 | 01:08:40   | or we're using it, I mean, doesn't really matter. But at least you were using it to                    |
 | 01:08:44   | store API keys. And that's more or less how my use of data just started. That's the reason             |
 | 01:08:53   | I wanted to develop it because I found myself in the early days of shortcuts, we were posting          |
 | 01:08:58   | our shortcuts, our screenshots of our shortcuts, we were sharing them, and so on. And I didn't         |
 | 01:09:04   | want my screenshots to include my API keys, obviously. So I thought that I need somewhere              |
 | 01:09:10   | else to store these. And actually, I want to reuse them across my shortcuts, which was                 |
-| 01:09:15   | another problem in itself. And that's the reason I built Data Jar. And then I just                     |
+| 01:09:15   | another problem in itself. And that's the reason I built [[Data Jar]]. And then I just                     |
 | 01:09:20   | kind of tried to think of it in more or less the most generic way that I could with this               |
-| 01:09:26   | JSON like structure. So hearing people's use of Data Jar just blows my mind because it's               |
+| 01:09:26   | JSON like structure. So hearing people's use of [[Data Jar]] just blows my mind because it's               |
 | 01:09:33   | being used in ways that I never really thought of or really, I almost wanted to say intended           |
 | 01:09:40   | for. I guess I kind of did because it build a generic, but it's like people are really                 |
-| 01:09:46   | storing a lot of data in Data Jar. Yes. And that's what are I know Rose is a fringe case               |
+| 01:09:46   | storing a lot of data in [[Data Jar]]. Yes. And that's what are I know Rose is a fringe case               |
 | 01:09:52   | because because she's Rose, right? And she's going to find these great ways to use it.                 |
 | 01:09:56   | But what are some of the other interesting ways you're hearing from people that use data               |
 | 01:10:00   | jar? What kind of data are they putting in? Oh, yeah, I mean, I've seen lots of different              |
 | 01:10:09   | cases. But in some way, they all have have a thing in common because at the end of the                 |
 | 01:10:16   | data, it's just storing data, right? It's just storing strings. But people are building                |
 | 01:10:21   | like entire databases of their, you know, favourite movies or health data, even like                    |
-| 01:10:27   | keeping track of things. People have built pill trackers around Data Jar. I mean, I've                 |
+| 01:10:27   | keeping track of things. People have built pill trackers around [[Data Jar]]. I mean, I've                 |
 | 01:10:35   | seen a lot of different use cases. But you know, there are some that goes again. I mean,               |
 | 01:10:40   | I think one of the most common ones is actually storing API keys. And that that seems like             |
 | 01:10:45   | a common problem. Yes, yes. I ran in somebody the day. I don't remember where it was. I                |
 | 01:10:50   | think it was on Reddit. And they were they were asking if something could hook into the                |
-| 01:10:54   | mail app on iOS, because they wanted to manage all of their email with Data Jar. And I just            |
+| 01:10:54   | mail app on iOS, because they wanted to manage all of their email with [[Data Jar]]. And I just            |
 | 01:11:00   | sort of looked at that and I didn't reply to it. But I was so tempted to reply with,                   |
 | 01:11:04   | I don't think that you're solving this problem quite the right way, because I felt like it             |
 | 01:11:08   | was very much the to go back to the earlier analogy, building the automation machine to                |
 | 01:11:12   | move the rocks when all you need to do is move the rocks from A to B. It did feel slightly             |
 | 01:11:17   | over the top there. But also, you know, however, however you want to solve a problem, right?           |
 | 01:11:21   | If it scratches the edge, then go for it. But yeah, it's one of those things that, you                 |
-| 01:11:26   | know, I look at how I use Data Jar. And in some ways, I'm probably, you know, abusing                  |
+| 01:11:26   | know, I look at how I use [[Data Jar]]. And in some ways, I'm probably, you know, abusing                  |
 | 01:11:30   | it beyond its intended capacity, I certainly nest lots of data in many places. But I also,             |
 | 01:11:38   | you know, find that it is so useful to be able to just quickly, you know, throw some                   |
 | 01:11:44   | data in here. And I've got plenty of data, I should probably actually just create a temp               |
@@ -920,23 +920,23 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:12:07   | And clearly, that's for some automations that are very much still in progress slash forgotten          |
 | 01:12:12   | about and abandoned somewhere in my shortcuts folders. But, you know, it's amazing seeing,             |
 | 01:12:18   | you know, what people have done before I had CarPlay. I built my own sort of CarPlay system            |
-| 01:12:23   | using Data Jar and shortcuts and maps to give me like a list of my favourites. So I could                |
+| 01:12:23   | using [[Data Jar]] and shortcuts and maps to give me like a list of my favourites. So I could                |
 | 01:12:30   | tap on any of my favourites. And it would, you know, get me directions to that address                  |
-| 01:12:34   | that was pulled out of Data Jar, and so on and so forth. And, you know, it's amazing                    |
+| 01:12:34   | that was pulled out of [[Data Jar]], and so on and so forth. And, you know, it's amazing                    |
 | 01:12:42   | what somebody will do with an app and how much the developer will simultaneously despair               |
 | 01:12:47   | and be amazed. Fortunately, I don't seem to have quite scared you off yet today, which                 |
-| 01:12:51   | is good. But yeah, I'm finding Data Jar really solves a lot of a lot of the data problems               |
+| 01:12:51   | is good. But yeah, I'm finding [[Data Jar]] really solves a lot of a lot of the data problems               |
 | 01:12:58   | that I have, you know, the airline check in one, all I'm doing is I'm just looking at                  |
 | 01:13:02   | my calendar for anything that's a flight. And then it just matches the flight number                   |
-| 01:13:07   | and pulls out the first two letters, which it looks up in Data Jar. And that's, you know,               |
+| 01:13:07   | and pulls out the first two letters, which it looks up in [[Data Jar]]. And that's, you know,               |
 | 01:13:13   | actually surprisingly easy to do thanks to the fact that I know that this data is here                 |
-| 01:13:17   | and I can quickly look in Data Jar and just, you know, see whether or not I have that in                |
+| 01:13:17   | and I can quickly look in [[Data Jar]] and just, you know, see whether or not I have that in                |
 | 01:13:23   | the case of that particular flight, I didn't have it. So, you know, I was able to fix that             |
 | 01:13:29   | very quickly. But, you know, it's very nice to just have a way to go look at this data,                |
 | 01:13:35   | because it's not hidden from me. It's right there where I need it. And I can look at it                |
 | 01:13:39   | on all of my devices too, which is great. And yeah, yeah, so thank you.                                |
 | 01:13:44   | Sure. And this is like the thing that I enjoy the most about building the kind of apps that            |
-| 01:13:50   | I do, it being like Scriptable or Data Jar, these, all of my apps have this thing in                    |
+| 01:13:50   | I do, it being like Scriptable or [[Data Jar]], these, all of my apps have this thing in                    |
 | 01:13:56   | common that they're really in some way developer tools, some more than others. But the most            |
 | 01:14:02   | interesting thing about building these is that I never really know how people end up                   |
 | 01:14:07   | using them. And it always turns out that they'll use it in ways that I haven't ever dreamed            |
@@ -946,14 +946,14 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:14:31   | just make it useful in a completely different way. And that's just, that's the biggest                 |
 | 01:14:36   | joy I get as a developer. That's like building one thing and people are just inventing their           |
 | 01:14:43   | own things with this. It's like, I'm really just building the tools. I'm not really building           |
-| 01:14:48   | the end product when it comes to Data Jar Scriptable. The end product there is really the scripts       |
-| 01:14:54   | that people are writing or the shortcuts that they're building on top of Data Jar. And it's             |
+| 01:14:48   | the end product when it comes to [[Data Jar]] Scriptable. The end product there is really the scripts       |
+| 01:14:54   | that people are writing or the shortcuts that they're building on top of [[Data Jar]]. And it's             |
 | 01:14:59   | just impossible to imagine all the things that people can build with this. But it's                    |
 | 01:15:03   | a great joy hearing stories like that.                                                                 |
 | 01:15:06   | I think what we're going to have to do, Simon, when this show goes up is we're going to have           |
 | 01:15:10   | to put some posts up in the forums because we have some mini sections in the forums for,               |
 | 01:15:15   | you know, Scriptable and so on. So we're going to have to put up some extra posts just specifically    |
-| 01:15:20   | for Scriptable and Data Jar. And let's throw up ones for Rune Stone and we'll get to Jason              |
+| 01:15:20   | for Scriptable and [[Data Jar]]. And let's throw up ones for Rune Stone and we'll get to Jason              |
 | 01:15:26   | in a minute too. And just get people to post in those of all the different ways that they're           |
 | 01:15:29   | using it because I have a feeling that we're going to blow your mind and hopefully in the              |
 | 01:15:34   | best possible way because there are so many people using all of these great apps that                  |
@@ -977,7 +977,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:16:58   | the name, I guess, thought it would be a fun prank to name it the same as the file format.             |
 | 01:17:03   | But you did spell it differently. So when folks search for it on the App Store, if they                |
 | 01:17:07   | search for J-A-Y-S-O-N, then they'll get the original good JSON app, which is also available           |
-| 01:17:12   | on Mac, I should note. So if anybody's got this Data Jar and JSON both available on the                |
+| 01:17:12   | on Mac, I should note. So if anybody's got this [[Data Jar]] and JSON both available on the                |
 | 01:17:18   | Mac, so if anybody's got large bits of data or even not so large bits of data that they                |
 | 01:17:23   | want to be able to look at, then you can do that on Mac OS and iOS and iPad OS.                        |
 | 01:17:29   | Yeah. Sorry, what was the second part of the question, David?                                          |
@@ -1098,13 +1098,13 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:28:04   | why I certainly do.                                                                                    |
 | 01:28:05   | Yeah. And so just some links, we're going to put them in the show notes, but you can                   |
 | 01:28:10   | get JSON, J-A-Y-S-O-N dot app at that website. And same thing, Scriptable dot app, the website.        |
-| 01:28:17   | And I believe Data Jar is the same Data Jar.                                                           |
+| 01:28:17   | And I believe [[Data Jar]] is the same [[Data Jar]].                                                           |
 | 01:28:22   | And Runestone. And Runestone. Very clever, Simon. You know what you're doing. He also                  |
 | 01:28:27   | has a blog over at simonbs.dev. And so that's another place to go. And there he's got links            |
 | 01:28:35   | to all his projects. And he does have interesting blog posts too on stuff that he's working            |
 | 01:28:40   | on or thinking about. So, so head over there and gang check it out. And really, if you,                |
 | 01:28:45   | if you want to, you know, get better at this automation stuff, check out Simon's apps,                 |
-| 01:28:49   | whether it's Data Jar or Scriptable, I really feel like there's something in here for everyone         |
+| 01:28:49   | whether it's [[Data Jar]] or Scriptable, I really feel like there's something in here for everyone         |
 | 01:28:53   | that wants to get a little better at this stuff. And, and we are eternally thankful                    |
 | 01:28:58   | to you, Simon, for the fact that you spend your whole day at work, you come home and                   |
 | 01:29:03   | you need to work on these things for us on the side. And we all want to support you as                 |

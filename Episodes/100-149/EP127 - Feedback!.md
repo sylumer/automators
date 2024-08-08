@@ -252,7 +252,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 12:36      | check in and so on is great.                                                                           |
 | 12:37      | But if you just kind of get told, hey, this is going to happen, you need to be here, I'd               |
 | 12:42      | probably go with a shortcut that checks your calendar to see if something's there and adds             |
-| 12:47      | like the actual event into a list in Data Jar so that you can exclude it from the list                 |
+| 12:47      | like the actual event into a list in [[Data Jar]] so that you can exclude it from the list                 |
 | 12:52      | as you go through and repeat it.                                                                       |
 | 12:55      | But it really depends on what end of things you're on for that.                                        |
 | 12:58      | Yeah.                                                                                                  |
@@ -322,9 +322,9 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 17:02      | And then it grabs them all and it is actually sorted by date with like the soonest to the              |
 | 17:09      | furthest away.                                                                                         |
 | 17:11      | And then it goes through them.                                                                         |
-| 17:12      | It just checks then if that date is in Data Jar.                                                       |
-| 17:15      | So I use Data Jar for this.                                                                            |
-| 17:18      | And so if that date is in Data Jar, then it knows that that particular day in the office               |
+| 17:12      | It just checks then if that date is in [[Data Jar]].                                                       |
+| 17:15      | So I use [[Data Jar]] for this.                                                                            |
+| 17:18      | And so if that date is in [[Data Jar]], then it knows that that particular day in the office               |
 | 17:23      | has already been handled as in it's created the checklist, it's created the relevant calendar          |
 | 17:29      | events for me and so on.                                                                               |
 | 17:31      | I know it's coming out of my calendar, but I have other calendar events for like the train             |
@@ -342,7 +342,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 18:13      | because just because I'm free at that moment in time doesn't mean that it's a great moment             |
 | 18:17      | in time mentally for me to do that thing.                                                              |
 | 18:20      | And yeah, and it'll add checklists into OmniFocus and so on.                                           |
-| 18:24      | And then, you know, then it adds that date into the list and Data Jar so that it knows                 |
+| 18:24      | And then, you know, then it adds that date into the list and [[Data Jar]] so that it knows                 |
 | 18:28      | that that's been handled and that does mean that if a day gets rearranged for some reason,             |
 | 18:34      | which hasn't happened yet since I've been running this system, then I am going to end                  |
 | 18:38      | up with duplicates and I'm going to have to go through and delete them.                                |

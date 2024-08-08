@@ -702,7 +702,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 53:34      | will come to me. That's what I need. That is kind of the problem. They're not. And there are some       |
 | 53:38      | sites which sort of collect shortcuts together that people have submitted, but you don't really         |
 | 53:44      | know about the person who submitted them. So there could be something there from [[Simon Støvring]],       |
-| 53:49      | who is the creator of Jayson, Scriptable, and oh God, Data Jar, Re: Toot, all of the great little            |
+| 53:49      | who is the creator of Jayson, Scriptable, and oh God, [[Data Jar]], Re: Toot, all of the great little            |
 | 53:58      | nerdy apps like that. But it could also be from some random person on Reddit who doesn't actually       |
 | 54:04      | know how shortcuts work. [[Matthew Cassinelli]], maybe? I was just going to say that. Yeah, he's got a lot  |
 | 54:09      | of good recommendations and some things you can download. He's been a guest on the show and he          |

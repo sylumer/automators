@@ -261,7 +261,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 12:56      | So let me interrupt there.                                                                             |
 | 12:59      | So and this is done in shortcuts.                                                                      |
 | 13:01      | So what are the actual actions you're calling to choose between multiple different postcodes?          |
-| 13:09      | Well, what I've done is in Data Jar, Data Jar is my source of data for everything.                       |
+| 13:09      | Well, what I've done is in [[Data Jar]], [[Data Jar]] is my source of data for everything.                       |
 | 13:15      | I have a dictionary called add home.                                                                   |
 | 13:19      | And then inside of that, I've got Wi-Fi and I've got postcodes.                                        |
 | 13:23      | Okay.                                                                                                  |
@@ -270,7 +270,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 13:29      | So I can have like line one inside of Wi-Fi is the promised LAN.                                       |
 | 13:33      | Because that's my my my friend network.                                                                |
 | 13:36      | And then, you know, and then the next network name is on the next line and so on.                      |
-| 13:39      | And so in shortcuts, what I do is I get this variable out of Data Jar.                                  |
+| 13:39      | And so in shortcuts, what I do is I get this variable out of [[Data Jar]].                                  |
 | 13:44      | And then I say, if this variable contains Wi-Fi network, so if it contains the Wi-Fi                   |
 | 13:49      | network, then it's, you know, then return to it done.                                                  |
 | 13:55      | Now with the postcode, I do split the postcode.                                                        |
@@ -403,13 +403,13 @@ Rose and David share a collection of their favourite personal automations rangin
 | 22:23      | to be a small enough list, I'm going to put them in at that first level.                               |
 | 22:28      | How are you paying attention to this?                                                                  |
 | 22:30      | Are you just, you know, may he a mental note of these things, or do you have any logging               |
-| 22:34      | in there using something like Data Jar or toolbox pros global variables to note which                  |
+| 22:34      | in there using something like [[Data Jar]] or toolbox pros global variables to note which                  |
 | 22:41      | ones you've used?                                                                                      |
 | 22:43      | I'm just noting.                                                                                       |
 | 22:44      | I mean, I look at it at the end of the week, did I ever push that button this week?                    |
 | 22:48      | You know, no, I didn't, you know, kind of thing.                                                       |
 | 22:51      | That's a good idea, frankly, to be more focused on it and just really actually count as you            |
-| 22:57      | push the button, which I guess, if you did that with Data Jar, I guess you would have                  |
+| 22:57      | push the button, which I guess, if you did that with [[Data Jar]], I guess you would have                  |
 | 23:02      | a variable that you add one to every time you push the button.                                         |
 | 23:06      | Yeah.                                                                                                  |
 | 23:07      | I mean, there's two options, right?                                                                    |

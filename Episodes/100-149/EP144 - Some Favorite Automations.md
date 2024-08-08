@@ -449,7 +449,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 24:14      | I've added something to the shopping list saying, hey, do you want this to the shopping            |
 | 24:17      | list again?                                                                                        |
 | 24:18      | Yes or no?                                                                                         |
-| 24:19      | It's just a little list of things in Data Jar, which I've been playing with, and that's            |
+| 24:19      | It's just a little list of things in [[Data Jar]], which I've been playing with, and that's            |
 | 24:22      | been a real help to my morning routine, because it just makes the day smoother, and then at        |
 | 24:26      | the end of the day, I can see, okay, I have a bunch of things on the grocery list, I need          |
 | 24:30      | to go shopping, and my list is done, because it's been taken care of throughout the day.           |

@@ -533,7 +533,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 52:20      | I don't know if that would work and I probably shouldn't do it. Well, what you could do is              |
 | 52:26      | you could log inside or using shortcuts when you run the shortcut in the morning                        |
 | 52:33      | or tell you, well, let's start with in the bathroom in the morning,                                     |
-| 52:36      | like when you when you tap your NFC tag there, it could reset a variable in Data Jar,                   |
+| 52:36      | like when you when you tap your NFC tag there, it could reset a variable in [[Data Jar]],                   |
 | 52:42      | which is like Alex's day progress or something like that. I don't know. Whatever you want to            |
 | 52:46      | call it, you know, whatever is appropriate for you. And then when you go and you tap the NFC tag        |
 | 52:52      | at your desk, then it'll say, okay, Alex's day has progressed to one. You know, just I'm using          |
@@ -545,7 +545,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 53:23      | somewhere and you sleep late, as you don't get up until later in the day and you don't start            |
 | 53:27      | working until like two or something. Then when you tap it, it'll be like, I'll just do the morning      |
 | 53:31      | work one because, you know, that's that's well, that's nothing's happened yet. So yeah, like            |
-| 53:36      | if you did something like that, you could use Data Jar, you could use global variables into             |
+| 53:36      | if you did something like that, you could use [[Data Jar]], you could use global variables into             |
 | 53:40      | books pro, you know, there's a number of different options for that. But, you know,                     |
 | 53:44      | you could definitely do that. And to go back to your question about triggering stuff on the Mac,        |
 | 53:49      | [[Keyboard Maestro]] has like URLs that you can use to trigger stuff. So you can just use a get             |

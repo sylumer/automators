@@ -894,8 +894,8 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 33:53      | So I have action set up for my focus modes                         |
 | 33:56      | whenever I turn on a focus mode.                                   |
 | 33:59      | Or whenever focus modes turn off,                                  |
-| 34:02      | that they write to a Data Jar variable.                            |
-| 34:05      | And then what I do is I get the variable out of Data Jar.          |
+| 34:02      | that they write to a [[Data Jar]] variable.                            |
+| 34:05      | And then what I do is I get the variable out of [[Data Jar]].          |
 | 34:08      | That's what I'm doing there,                                       |
 | 34:09      | to find out which focus mode I'm in.                               |
 | 34:11      | And then I just if, and if I'm in work focus mode,                 |
@@ -932,14 +932,14 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 35:29      | you're storing the focus mode,                                     |
 | 35:30      | then when you hit the NFC tag,                                     |
 | 35:33      | it just runs an if statement to find which focus mode you're in    |
-| 35:37      | from your Data Jar variable.                                       |
+| 35:37      | from your [[Data Jar]] variable.                                       |
 | 35:39      | And then it does a different,                                      |
 | 35:40      | it's almost like a choose from menu at that point,                 |
 | 35:42      | where you can set you up.                                          |
 | 35:44      | Yeah, so it actually just goes,                                    |
 | 35:45      | yeah, it goes through if statements and says,                      |
 | 35:48      | if this focus mode, which is actually a text variable,             |
-| 35:52      | because I just save it to Data Jars text.                          |
+| 35:52      | because I just save it to [[Data Jar]]s text.                          |
 | 35:54      | Yeah, that's easy.                                                 |
 | 35:55      | If the text is this, do that.                                      |
 | 35:56      | If the text is this, do that.                                      |
