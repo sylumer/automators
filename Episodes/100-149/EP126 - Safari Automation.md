@@ -369,7 +369,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 18:20      | money changing hands, you know, which wouldn't surprise me.                                        |
 | 18:24      | That certainly used to be the case.                                                                |
 | 18:27      | I'm not so sure exactly how that is now.                                                           |
-| 18:31      | But what I can say now is, you know, I have my default search engine set to DuckDuckGo.            |
+| 18:31      | But what I can say now is, you know, I have my default search engine set to [[DuckDuckGo]].            |
 | 18:37      | And I have this for a number of reasons, privacy being one of them.                                |
 | 18:39      | The other reason is an automation related reason.                                                  |
 | 18:42      | If you ever want to just quickly use something to get somebody the right link, if I do this        |
@@ -377,7 +377,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 18:51      | link in the Google search results and I click copy link and I go in and I paste it wherever        |
 | 18:56      | messages, you know, email, whatever, I'm going to get a Google link which will then redirect       |
 | 19:02      | them to the search result.                                                                         |
-| 19:05      | If I copy the link from DuckDuckGo, I get the link that is the real link.                          |
+| 19:05      | If I copy the link from [[DuckDuckGo]], I get the link that is the real link.                          |
 | 19:09      | It's the end result.                                                                               |
 | 19:10      | So if I was searching for Apple, then the Google link would be Google blah blah blah               |
 | 19:14      | blah blah blah blah blah blah blah blah, you know, something very decipherable.                    |
@@ -665,7 +665,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 36:44      | new Reddit interface, because I'm apparently just that cranky about the new Reddit interface.      |
 | 36:50      | But you can use this for all sorts of things.                                                      |
 | 36:51      | You know, if somebody, you know, if I click on the link and it opens, you know, the Rick           |
-| 36:55      | roll video on YouTube, then it'll redirect me to a April Fool's image search on DuckDuckGo.        |
+| 36:55      | roll video on YouTube, then it'll redirect me to a April Fool's image search on [[DuckDuckGo]].        |
 | 37:01      | I don't know, whatever it is, but it's very nice for things like that.                             |
 | 37:07      | If you ever just want to, you know, have something that opens with a particular kind of URL change |
 | 37:13      | to something else, you can do that.                                                                |
@@ -891,8 +891,8 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 50:48      | sorry, brand new window in [[Safari]].                                                                 |
 | 50:51      | So it's just a new empty window.                                                                   |
 | 50:53      | And then it'll open up one particular web page that I use all the time whenever I am               |
-| 50:58      | podcasting, and that is DuckDuckGo.                                                                |
-| 51:01      | And so this is just a little AppleScript that opens a new window with DuckDuckGo.                  |
+| 50:58      | podcasting, and that is [[DuckDuckGo]].                                                                |
+| 51:01      | And so this is just a little AppleScript that opens a new window with [[DuckDuckGo]].                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
 | 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
 | 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |

@@ -438,7 +438,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 39:29      | now have universal meeting notes that look the same in Google Docs every time. And I'm like,            |
 | 39:34      | oh, my gosh. Yeah, it's been amazing. I also have, you know, really simple, like single action          |
 | 39:42      | action items, like searching for, or I have a group of just different search engines,                   |
-| 39:50      | a Wolfram Alpha, DuckDuckGo, Google and a whole bunch of stuff that I actually should ask you if        |
+| 39:50      | a Wolfram Alpha, [[DuckDuckGo]], Google and a whole bunch of stuff that I actually should ask you if        |
 | 39:59      | there's an action to, I think there's a shortcut to turn on your VPN. But what I would love is if       |
 | 40:06      | there was an action to turn on a VPN before I go into Google or some other search engine that I         |
 | 40:13      | don't know is secure, but I need to use, that's one of the things I love. Something that I don't        |

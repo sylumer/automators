@@ -770,7 +770,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 46:12      | If it's after that, it shows me a new one.                                                            |
 | 46:15      | For me, being able to go back and, okay, so I searched for this and that gave me that,                |
 | 46:19      | so I'm now going to search and I'm going to add another keyword onto this because I use               |
-| 46:24      | [[Alfred]] instead of directly typing into DuckDuckGo or Google or whatever.                              |
+| 46:24      | [[Alfred]] instead of directly typing into [[DuckDuckGo]] or Google or whatever.                              |
 | 46:30      | That gives me that.                                                                                   |
 | 46:31      | And storing the typed query means that if I hit the up arrow, I see the previous searches             |
 | 46:35      | that I've had.                                                                                        |
@@ -809,7 +809,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 48:28      | You definitely can't do this in spotlight is web search.                                              |
 | 48:30      | Okay, if I type something into [[Alfred]] or [[Raycast]] or spotlight or launch bar or [[Quicksilver]],           |
 | 48:37      | if you're storing that, you know, and it's not something that's just found as an action               |
-| 48:42      | or on my local machine, you'll get the option to Google it or DuckDuckGo it, depending on             |
+| 48:42      | or on my local machine, you'll get the option to Google it or [[DuckDuckGo]] it, depending on             |
 | 48:46      | what your preferences are.                                                                            |
 | 48:47      | But what you can do in [[Alfred]] is create a custom search and it's got a bunch of them                  |
 | 48:52      | built in.                                                                                             |
@@ -817,7 +817,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 49:00      | If I type STL, then it actually opens a website for finding 3D printer models for me, stlfinder.com.  |
 | 49:11      | And it will put my query into that.                                                                   |
 | 49:14      | But you can also just make these for whatever you like.                                               |
-| 49:16      | So I actually have some of these, which are just doing things like they're searching DuckDuckGo       |
+| 49:16      | So I actually have some of these, which are just doing things like they're searching [[DuckDuckGo]]       |
 | 49:21      | with site colon, whatever the URL is with the query.                                                  |
 | 49:27      | And I'm using that either because I can't script the search on the website or even if                 |
 | 49:31      | I can search the script on the website, I don't want just what comes up in the website                |
@@ -831,7 +831,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 49:59      | That's not something that they would probably want to do, quite frankly, because there's              |
 | 50:02      | a whole lot of stuff in there.                                                                        |
 | 50:03      | But it means that I can have whatever I like in the search and, you know, default ones                |
-| 50:07      | built in for eBay and Bing, Ask, LinkedIn, YouTube, Flickr, you know, DuckDuckGo, Google              |
+| 50:07      | built in for eBay and Bing, Ask, LinkedIn, YouTube, Flickr, you know, [[DuckDuckGo]], Google              |
 | 50:14      | Weather, Pinterest, and of course one that's built in for help.                                       |
 | 50:19      | So if I type help into [[Alfred]] and then I type, I don't know, bookmark, then it will search            |
 | 50:26      | the [[Alfred]] help for the word bookmark and actually show me some useful results and then               |

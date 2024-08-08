@@ -119,7 +119,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 04:51      | the first round of the beta, it was only the Apple apps, and then they said, no, no, no, wait,                                   |
 | 04:55      | let's just do everything. But you do have that pop up at the top every time that says shortcuts is                               |
 | 05:01      | or whatever it says. I've kind of tuned out now.                                                                                 |
-| 05:04      | Just a little checkmark. Yeah. Yeah, I have it open [[Safari]] to a new DuckDuckGo page every time,                                 |
+| 05:04      | Just a little checkmark. Yeah. Yeah, I have it open [[Safari]] to a new [[DuckDuckGo]] page every time,                                 |
 | 05:10      | actually, so that I don't end up going down rabbit holes, which is a neat little trick that I thought                            |
 | 05:15      | of a while ago, and it makes my life a lot easier. But I'm curious, Matthew, what does your                                      |
 | 05:19      | home screen look like now in terms of number of shortcuts versus number of widgets, which kick                                   |

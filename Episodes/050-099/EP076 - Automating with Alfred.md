@@ -597,7 +597,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 48:10      | want to search, they've got it. They have a Facebook one, but I mean, who would use that, right?         |
 | 48:16      | IMDB, Bing. So if you want to go to the other side and search with Microsoft, you can do that.           |
 | 48:22      | Wolfram Alpha, you know, we don't talk about that much, but that's a really powerful engine.             |
-| 48:26      | DuckDuckGo, which is a great tool for privacy. [[Alfred]] Help, Rotten Tomatoes, you know,                   |
+| 48:26      | [[DuckDuckGo]], which is a great tool for privacy. [[Alfred]] Help, Rotten Tomatoes, you know,                   |
 | 48:32      | they've got a bunch of them here. And as you learn to use them, it's the only way to search the web.     |
 | 48:39      | And let's just talk about that now. But in a minute, I'm going to talk about                             |
 | 48:44      | how you can customise those as well. I mean, do you use the built-in ones?                               |
@@ -644,7 +644,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 52:16      | options. It can use open search and search action to try and find something. The other                   |
 | 52:22      | website doesn't have a built-in search. There are these websites out there. Or the built-in              |
 | 52:26      | search is really sucky, because they've got tons of data, and it would take literal masses               |
-| 52:33      | of computing power to do that. Then you can also do a search with Google or duck duck go,                |
+| 52:33      | of computing power to do that. Then you can also do a search with Google or [[DuckDuckGo]],                |
 | 52:41      | your site preference, take your pick, and append it with site colon, and then the website URL.           |
 | 52:47      | So for example, if the automators form didn't have a search, that's not true. It does have a             |
 | 52:51      | very good search, actually. Then you could put site colon, talk.automators.fm. Done. And then it         |
