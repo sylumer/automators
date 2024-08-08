@@ -1590,7 +1590,7 @@ function addEpisodeToQueue(episode) {
 }
 
 // src/main.ts
-var import_obsidian23 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 
 // src/utility/formatSeconds.ts
 function formatSeconds(seconds, format2) {
@@ -4842,6 +4842,7 @@ ${error.message}`);
 }
 
 // src/ui/settings/PodNotesSettingsTab.ts
+var import_obsidian12 = require("obsidian");
 var PodNotesSettingsTab = class extends import_obsidian11.PluginSettingTab {
   constructor(app2, plugin2) {
     super(app2, plugin2);
@@ -4920,7 +4921,7 @@ var PodNotesSettingsTab = class extends import_obsidian11.PluginSettingTab {
         return;
       const demoVal = TimestampTemplateEngine(value);
       timestampFormatDemoEl.empty();
-      import_obsidian11.MarkdownRenderer.renderMarkdown(demoVal, timestampFormatDemoEl, "", null);
+      import_obsidian11.MarkdownRenderer.renderMarkdown(demoVal, timestampFormatDemoEl, "", new import_obsidian12.Component());
     };
     updateTimestampDemo(this.plugin.settings.timestamp.template);
     const randomEpisode = getRandomEpisode();
@@ -4932,7 +4933,7 @@ var PodNotesSettingsTab = class extends import_obsidian11.PluginSettingTab {
         this.plugin.saveSettings();
         const demoVal = FilePathTemplateEngine(value, randomEpisode);
         noteCreationFilePathDemoEl.empty();
-        import_obsidian11.MarkdownRenderer.renderMarkdown(demoVal, noteCreationFilePathDemoEl, "", null);
+        import_obsidian11.MarkdownRenderer.renderMarkdown(demoVal, noteCreationFilePathDemoEl, "", new import_obsidian12.Component());
       });
       textComponent.inputEl.style.width = "100%";
     });
@@ -4965,7 +4966,7 @@ var PodNotesSettingsTab = class extends import_obsidian11.PluginSettingTab {
         this.plugin.saveSettings();
         const demoVal = DownloadPathTemplateEngine(value, randomEpisode);
         downloadFilePathDemoEl.empty();
-        import_obsidian11.MarkdownRenderer.renderMarkdown(`${demoVal}.mp3`, downloadFilePathDemoEl, "", null);
+        import_obsidian11.MarkdownRenderer.renderMarkdown(`${demoVal}.mp3`, downloadFilePathDemoEl, "", new import_obsidian12.Component());
       });
       textComponent.inputEl.style.width = "100%";
     });
@@ -5077,7 +5078,7 @@ function getRandomEpisode() {
 }
 
 // src/ui/PodcastView/index.ts
-var import_obsidian18 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 
 // src/ui/PodcastView/PlaylistCard.svelte
 function add_css6(target) {
@@ -5862,7 +5863,7 @@ var PodcastGrid = class extends SvelteComponent {
 var PodcastGrid_default = PodcastGrid;
 
 // src/ui/obsidian/Slider.svelte
-var import_obsidian12 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 function create_fragment13(ctx) {
   let span;
   return {
@@ -5891,7 +5892,7 @@ function instance13($$self, $$props, $$invalidate) {
   let slider;
   let { style: styles } = $$props;
   onMount(() => {
-    slider = new import_obsidian12.SliderComponent(sliderRef);
+    slider = new import_obsidian13.SliderComponent(sliderRef);
     updateSliderAttributes(slider);
   });
   afterUpdate(() => {
@@ -7073,10 +7074,10 @@ var Progressbar = class extends SvelteComponent {
 var Progressbar_default = Progressbar;
 
 // src/ui/PodcastView/spawnEpisodeContextMenu.ts
-var import_obsidian15 = require("obsidian");
+var import_obsidian16 = require("obsidian");
 
 // src/createPodcastNote.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 
 // src/utility/addExtension.ts
 function addExtension(path, extension) {
@@ -7095,7 +7096,7 @@ async function createPodcastNote(episode) {
     app.workspace.getLeaf().openFile(file);
   } catch (error) {
     console.error(error);
-    new import_obsidian13.Notice(`Failed to create note: "${filePathDotMd}"`);
+    new import_obsidian14.Notice(`Failed to create note: "${filePathDotMd}"`);
   }
 }
 function getPodcastNote(episode) {
@@ -7103,7 +7104,7 @@ function getPodcastNote(episode) {
   const filePath = FilePathTemplateEngine(pluginInstance.settings.note.path, episode);
   const filePathDotMd = addExtension(filePath, "md");
   const file = app.vault.getAbstractFileByPath(filePathDotMd);
-  if (!file || !(file instanceof import_obsidian13.TFile)) {
+  if (!file || !(file instanceof import_obsidian14.TFile)) {
     return null;
   }
   return file;
@@ -7111,7 +7112,7 @@ function getPodcastNote(episode) {
 function openPodcastNote(epiosode) {
   const file = getPodcastNote(epiosode);
   if (!file) {
-    new import_obsidian13.Notice(`Note for "${epiosode.title}" does not exist`);
+    new import_obsidian14.Notice(`Note for "${epiosode.title}" does not exist`);
     return;
   }
   app.workspace.getLeaf().openFile(file);
@@ -7119,7 +7120,7 @@ function openPodcastNote(epiosode) {
 async function createFileIfNotExists(path, content, episode, createFolder = true) {
   const file = getPodcastNote(episode);
   if (file) {
-    new import_obsidian13.Notice(`Note for "${episode.title}" already exists`);
+    new import_obsidian14.Notice(`Note for "${episode.title}" already exists`);
     return file;
   }
   const foldersInPath = path.split("/").slice(0, -1);
@@ -7134,10 +7135,10 @@ async function createFileIfNotExists(path, content, episode, createFolder = true
 }
 
 // src/downloadEpisode.ts
-var import_obsidian14 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 async function downloadFile(url, options) {
   try {
-    const response = await (0, import_obsidian14.requestUrl)({ url, method: "GET" });
+    const response = await (0, import_obsidian15.requestUrl)({ url, method: "GET" });
     if (response.status !== 200) {
       throw new Error("Could not download episode.");
     }
@@ -7162,7 +7163,7 @@ ${error.message}`);
 async function downloadEpisodeWithNotice(episode, downloadPathTemplate) {
   const { doc, update: update2 } = createNoticeDoc(`Download "${episode.title}"`);
   const SOME_LARGE_INT_SO_THE_BOX_DOESNT_AUTO_CLOSE = 999999999;
-  const notice = new import_obsidian14.Notice(doc, SOME_LARGE_INT_SO_THE_BOX_DOESNT_AUTO_CLOSE);
+  const notice = new import_obsidian15.Notice(doc, SOME_LARGE_INT_SO_THE_BOX_DOESNT_AUTO_CLOSE);
   update2((bodyEl) => bodyEl.createEl("p", { text: "Starting download..." }));
   update2((bodyEl) => {
     bodyEl.createEl("p", { text: "Downloading..." });
@@ -7260,7 +7261,7 @@ async function downloadEpisode(episode, downloadPathTemplate) {
   const fileExtension = await getFileExtension(episode.streamUrl);
   const filePath = `${basename}.${fileExtension}`;
   const existingFile = app.vault.getAbstractFileByPath(filePath);
-  if (existingFile instanceof import_obsidian14.TFile) {
+  if (existingFile instanceof import_obsidian15.TFile) {
     return filePath;
   }
   try {
@@ -7353,7 +7354,7 @@ async function detectAudioFileExtension(blob) {
 
 // src/ui/PodcastView/spawnEpisodeContextMenu.ts
 function spawnEpisodeContextMenu(episode, event, disabledMenuItems) {
-  const menu = new import_obsidian15.Menu();
+  const menu = new import_obsidian16.Menu();
   if (!disabledMenuItems?.play) {
     menu.addItem((item) => item.setIcon("play").setTitle("Play").onClick(() => {
       currentEpisode.set(episode);
@@ -7378,7 +7379,7 @@ function spawnEpisodeContextMenu(episode, event, disabledMenuItems) {
       } else {
         const downloadPath = get_store_value(plugin).settings.download.path;
         if (!downloadPath) {
-          new import_obsidian15.Notice(`Please set a download path in the settings.`);
+          new import_obsidian16.Notice(`Please set a download path in the settings.`);
           return;
         }
         downloadEpisodeWithNotice(episode, downloadPath);
@@ -7394,7 +7395,7 @@ function spawnEpisodeContextMenu(episode, event, disabledMenuItems) {
         const { path, template } = get_store_value(plugin).settings.note;
         const canCreateNote = Boolean(path && template);
         if (!canCreateNote) {
-          new import_obsidian15.Notice(`Please set a note path and template in the settings.`);
+          new import_obsidian16.Notice(`Please set a note path and template in the settings.`);
           return;
         }
         await createPodcastNote(episode);
@@ -7460,10 +7461,10 @@ function spawnEpisodeContextMenu(episode, event, disabledMenuItems) {
 }
 
 // src/utility/createMediaUrlObjectFromFilePath.ts
-var import_obsidian16 = require("obsidian");
+var import_obsidian17 = require("obsidian");
 async function createMediaUrlObjectFromFilePath(filePath) {
   const file = app.vault.getAbstractFileByPath(filePath);
-  if (!file || !(file instanceof import_obsidian16.TFile))
+  if (!file || !(file instanceof import_obsidian17.TFile))
     return "";
   const binary = await app.vault.readBinary(file);
   return URL.createObjectURL(new Blob([binary], { type: "audio/mpeg" }));
@@ -8436,7 +8437,7 @@ var EpisodeListHeader = class extends SvelteComponent {
 var EpisodeListHeader_default = EpisodeListHeader;
 
 // src/ui/PodcastView/PodcastView.svelte
-var import_obsidian17 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 
 // src/utility/searchEpisodes.ts
 function searchEpisodes(query, episodes) {
@@ -9053,7 +9054,7 @@ function instance22($$self, $$props, $$invalidate) {
       $$invalidate(3, displayedEpisodes = yield fetchEpisodes(selectedFeed, false));
     });
   }
-  const handleSearch = (0, import_obsidian17.debounce)((event) => {
+  const handleSearch = (0, import_obsidian18.debounce)((event) => {
     const { query } = event.detail;
     if (selectedFeed) {
       const episodesInFeed = $episodeCache[selectedFeed.title];
@@ -9126,7 +9127,7 @@ var PodcastView = class extends SvelteComponent {
 var PodcastView_default = PodcastView;
 
 // src/ui/PodcastView/index.ts
-var MainView = class extends import_obsidian18.ItemView {
+var MainView = class extends import_obsidian19.ItemView {
   constructor(leaf, plugin2) {
     super(leaf);
     this.plugin = plugin2;
@@ -9294,10 +9295,10 @@ var LocalFilesController = class extends StoreController {
 };
 
 // src/URIHandler.ts
-var import_obsidian19 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 async function podNotesURIHandler({ url, episodeName, time }, api) {
   if (!url || !episodeName || !time) {
-    new import_obsidian19.Notice("URL, episode name, and timestamp are required to play an episode");
+    new import_obsidian20.Notice("URL, episode name, and timestamp are required to play an episode");
     return;
   }
   const decodedName = episodeName.replace(/\+/g, " ");
@@ -9318,19 +9319,19 @@ async function podNotesURIHandler({ url, episodeName, time }, api) {
     episode = await feedparser.findItemByTitle(decodedName, url);
   }
   if (!episode) {
-    new import_obsidian19.Notice("Episode not found");
+    new import_obsidian20.Notice("Episode not found");
     return;
   }
   currentEpisode.set(episode);
   viewState.set(2 /* Player */);
-  new import_obsidian19.Notice("Episode found, playing now. Please click timestamp again to play at specific time.");
+  new import_obsidian20.Notice("Episode found, playing now. Please click timestamp again to play at specific time.");
 }
 
 // src/getContextMenuHandler.ts
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 function getContextMenuHandler() {
   return this.app.workspace.on("file-menu", (menu, file) => {
-    if (!(file instanceof import_obsidian20.TFile))
+    if (!(file instanceof import_obsidian21.TFile))
       return;
     if (!file.extension.match(/mp3|mp4|wma|aac|wav|webm|aac|flac|m4a|/))
       return;
@@ -9358,7 +9359,7 @@ function getContextMenuHandler() {
 }
 
 // src/getUniversalPodcastLink.ts
-var import_obsidian21 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 async function getUniversalPodcastLink(api) {
   const { title, itunesTitle, podcastName, feedUrl } = api.podcast;
   try {
@@ -9368,7 +9369,7 @@ async function getUniversalPodcastLink(api) {
       throw new Error("Failed to get podcast from iTunes.");
     }
     const podLinkUrl = `https://pod.link/${podcast.collectionId}.json?limit=1000`;
-    const res = await (0, import_obsidian21.requestUrl)({
+    const res = await (0, import_obsidian22.requestUrl)({
       url: podLinkUrl
     });
     if (res.status !== 200) {
@@ -9380,16 +9381,16 @@ async function getUniversalPodcastLink(api) {
       throw new Error(`Failed to find episode "${targetTitle}" on pod.link. URL: ${podLinkUrl}`);
     }
     window.navigator.clipboard.writeText(`https://pod.link/${podcast.collectionId}/episode/${ep.episodeId}`);
-    new import_obsidian21.Notice("Universal episode link copied to clipboard.");
+    new import_obsidian22.Notice("Universal episode link copied to clipboard.");
   } catch (error) {
-    new import_obsidian21.Notice("Could not get podcast link.");
+    new import_obsidian22.Notice("Could not get podcast link.");
     console.error(error);
     return;
   }
 }
 
 // src/services/TranscriptionService.ts
-var import_obsidian22 = require("obsidian");
+var import_obsidian23 = require("obsidian");
 
 // node_modules/openai/error.mjs
 var error_exports = {};
@@ -13267,7 +13268,7 @@ function TimerNotice2(heading, initialMessage) {
   let currentMessage = initialMessage;
   const startTime = Date.now();
   let stopTime;
-  const notice = new import_obsidian22.Notice(initialMessage, 0);
+  const notice = new import_obsidian23.Notice(initialMessage, 0);
   function formatMsg(message) {
     return `${heading} (${getTime()}):
 
@@ -13310,18 +13311,18 @@ var TranscriptionService = class {
   }
   async transcribeCurrentEpisode() {
     if (this.isTranscribing) {
-      new import_obsidian22.Notice("A transcription is already in progress.");
+      new import_obsidian23.Notice("A transcription is already in progress.");
       return;
     }
     const currentEpisode2 = this.plugin.api.podcast;
     if (!currentEpisode2) {
-      new import_obsidian22.Notice("No episode is currently playing.");
+      new import_obsidian23.Notice("No episode is currently playing.");
       return;
     }
     const transcriptPath = FilePathTemplateEngine(this.plugin.settings.transcript.path, currentEpisode2);
     const existingFile = this.plugin.app.vault.getAbstractFileByPath(transcriptPath);
-    if (existingFile instanceof import_obsidian22.TFile) {
-      new import_obsidian22.Notice(`You've already transcribed this episode - found ${transcriptPath}.`);
+    if (existingFile instanceof import_obsidian23.TFile) {
+      new import_obsidian23.Notice(`You've already transcribed this episode - found ${transcriptPath}.`);
       return;
     }
     this.isTranscribing = true;
@@ -13330,7 +13331,7 @@ var TranscriptionService = class {
       notice.update("Downloading episode...");
       const downloadPath = await downloadEpisode(currentEpisode2, this.plugin.settings.download.path);
       const podcastFile = this.plugin.app.vault.getAbstractFileByPath(downloadPath);
-      if (!podcastFile || !(podcastFile instanceof import_obsidian22.TFile)) {
+      if (!podcastFile || !(podcastFile instanceof import_obsidian23.TFile)) {
         throw new Error("Failed to download or locate the episode.");
       }
       notice.update("Preparing audio for transcription...");
@@ -13438,7 +13439,12 @@ var TranscriptionService = class {
 };
 
 // src/main.ts
-var PodNotes = class extends import_obsidian23.Plugin {
+var PodNotes = class extends import_obsidian24.Plugin {
+  constructor() {
+    super(...arguments);
+    this.maxLayoutReadyAttempts = 10;
+    this.layoutReadyAttempts = 0;
+  }
   async onload() {
     plugin.set(this);
     await this.loadSettings();
@@ -13601,6 +13607,15 @@ var PodNotes = class extends import_obsidian23.Plugin {
     this.registerEvent(getContextMenuHandler());
   }
   onLayoutReady() {
+    if (!this.app.workspace || !this.app.workspace.layoutReady) {
+      this.layoutReadyAttempts++;
+      if (this.layoutReadyAttempts < this.maxLayoutReadyAttempts) {
+        setTimeout(() => this.onLayoutReady(), 100);
+      } else {
+        console.error("Failed to initialize PodNotes layout after maximum attempts");
+      }
+      return;
+    }
     if (this.app.workspace.getLeavesOfType(VIEW_TYPE).length) {
       return;
     }
