@@ -18,7 +18,7 @@ flowchart LR
 
 ## Future Improvements
 > [!INFO] Efficiency
-> Many of the bits and pieces of the automations were put together piecemeal over the course of pockets of time over the course of several months. As a result, the overall flow could be smoother and better use of stored data (e.g. in Data Jar) could be made in order to streamline processing. This is a known activity and will be done at some point, but for now just having a working solution and building out the content has been the focus.
+> Many of the bits and pieces of the automations were put together piecemeal over the course of pockets of time over the course of several months. As a result, the overall flow could be smoother and better use of stored data (e.g. in [[Data Jar]]) could be made in order to streamline processing. This is a known activity and will be done at some point, but for now just having a working solution and building out the content has been the focus.
 
 # Download and Transcribe Episode
 
@@ -143,7 +143,7 @@ procAutomators "$1"
 From the same folder as the script, Automators episode 123 can therefore be downloaded just by the terminal instruction `./autopod.sh 123`.
 
 > [!INFO] Standalone Execution
-> If this script is run standalone the Data Jar entry for the last processed episode should be updated if it is for a new episode. If not, the next time the scheduled job that utilises this script will end up doing the work again. Sine the scheduling was put in place, the idea is to only run this script manually to address prior erroneous runs.
+> If this script is run standalone the [[Data Jar]] entry for the last processed episode should be updated if it is for a new episode. If not, the next time the scheduled job that utilises this script will end up doing the work again. Sine the scheduling was put in place, the idea is to only run this script manually to address prior erroneous runs.
 
 # Generate Content for Episode
 **Automation Tools:** [[Keyboard Maestro]], [[Python]] Script, [[Shell Scripting|Shell Script]], [[Shortcuts]], [[TextSoap]].
@@ -285,9 +285,9 @@ This Apple Shortcut gathers and formats a base level of information about a part
 
 Most of the data is retrieved directly from the RSS feed for the Automators podcast, but because the podcast starts at episode 0, we need to offset by one to generate a positional index of where to find an episode in the feed. In addition the [RSS2JSON API](https://rss2json.com) is also used to make it much easier to work with the feed.
 
-The shortcut makes use of Data Jar to store some of the data. Primarily this is because there are other shortcuts that can benefit from accessing this data after it has been determined. But in addition, it  using Data Jar does help when breaking down the automation to test in stages, and it is useful to see the output stored, though a tool like [[Logger]] could be used in its place for that.
+The shortcut makes use of [[Data Jar]] to store some of the data. Primarily this is because there are other shortcuts that can benefit from accessing this data after it has been determined. But in addition, it  using [[Data Jar]] does help when breaking down the automation to test in stages, and it is useful to see the output stored, though a tool like [[Logger]] could be used in its place for that.
 
-One of the data items retrieved is for the episode topic link. This is retrieved based on the episode number and title, but the podcast has not always generated topic pages, and not necessarily to the, what is now, standard naming. Therefore the shortcut also includes some logic to try and help deal with that, the results being saved in Data Jar.
+One of the data items retrieved is for the episode topic link. This is retrieved based on the episode number and title, but the podcast has not always generated topic pages, and not necessarily to the, what is now, standard naming. Therefore the shortcut also includes some logic to try and help deal with that, the results being saved in [[Data Jar]].
 
 The Real FM show notes page is used to get some additional information not included in the feed, and to do this, a separate shortcut is used - see [[#Fetch Episode Show Notes]] for details.
 
