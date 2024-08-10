@@ -377,7 +377,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 19:58      | have things that are related to it and images embedded in it and so on.                              |
 | 20:01      | So it's not just text, it's way more than text.                                                      |
 | 20:05      | So yeah, it's really cool that that's the thing, and I've been working on moving some                |
-| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard Airtable lover, you can pry Airtable          |
+| 20:09      | of my stuff into [[Notion]] as well, because I'm a diehard [[Airtable]] lover, you can pry [[Airtable]]          |
 | 20:15      | out of my cold dead hands, but especially working on Nautomate, I'm having to get more               |
 | 20:22      | familiar with [[Notion]], so I'm moving some stuff in there and I have to say, I'm liking it             |
 | 20:27      | for the things that I'm moving in there.                                                             |
@@ -767,14 +767,14 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 45:36      | him.                                                                                                 |
 | 45:37      | So, yeah, one thing I'm going to mention that I do with [[Data Jar]], and I'm aware this is              |
 | 45:41      | not security best practice, but, oh my God, did this save my bacon relatively recently?              |
-| 45:47      | Airtable updated API keys.                                                                           |
-| 45:50      | So previously you had like one Airtable API key, and that was it.                                    |
+| 45:47      | [[Airtable]] updated API keys.                                                                           |
+| 45:50      | So previously you had like one [[Airtable]] API key, and that was it.                                    |
 | 45:54      | They have updated from that so that you can now have multiple different tokens and the               |
 | 46:00      | way that you generate them and the way that they work is ever so slightly different.                 |
-| 46:04      | Now, for most of us as users who are using Airtable actions via like your get contents               |
+| 46:04      | Now, for most of us as users who are using [[Airtable]] actions via like your get contents               |
 | 46:10      | of URL and shortcuts, this didn't really make a difference.                                          |
 | 46:15      | We just needed to update the token.                                                                  |
-| 46:18      | I have a lot, and I mean a lot of shortcuts that use Airtable.                                       |
+| 46:18      | I have a lot, and I mean a lot of shortcuts that use [[Airtable]].                                       |
 | 46:24      | Yeah, I bet you do.                                                                                  |
 | 46:27      | Fortunately, past me decided I was going to put my API keys in [[Data Jar]].                             |
 | 46:32      | All right, so before you go any further, just tell people why that can be a bad idea.                |
@@ -789,7 +789,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 47:03      | It's better than like skywriting your API key on a daily basis for sure, but yeah, technically,      |
 | 47:09      | if you wouldn't put your password in it, you probably shouldn't put an API key in it.                |
 | 47:13      | So yeah, technically, maybe not the best idea to save my bacon so much because I just had            |
-| 47:19      | to update one thing for all of my Airtable shortcuts and then everything just worked.                |
+| 47:19      | to update one thing for all of my [[Airtable]] shortcuts and then everything just worked.                |
 | 47:24      | If it was my bank account password, I would not do that, but for an API key, for a service           |
 | 47:32      | that I don't have any secret data on, we all got to choose our own poison, but I know we're          |
 | 47:37      | going to get blowback.                                                                               |
@@ -799,7 +799,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 47:47      | in shortcuts like an API key, it really does save your bacon.                                        |
 | 47:51      | Yeah, yeah, and also, this is just, this is really good because this is something I recommended      |
 | 47:57      | to [[Matthew Cassinelli]] a while ago and it was very useful for him because he accidentally             |
-| 48:02      | exposed his Airtable API key and a couple of other API keys on some live streams at some             |
+| 48:02      | exposed his [[Airtable]] API key and a couple of other API keys on some live streams at some             |
 | 48:08      | point when demoing some shortcuts and had to like reset all of them because they were                |
 | 48:12      | just in text in the shortcut, which means that if you're just looking at the shortcut,               |
 | 48:16      | if you just sent your shortcut to a friend, they're not going to get like your API key               |
@@ -1112,7 +1112,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:06:33   | You can create lots of new ones and you can favourite things and so on.                               |
 | 01:06:39   | But yeah, basically, it just is get contents of URL with extras so that you can manage               |
 | 01:06:48   | your authentication and save credentials and stuff and reuse it.                                     |
-| 01:06:51   | So if you don't want to be me and have all of your Airtable API keys in shortcuts, you                 |
+| 01:06:51   | So if you don't want to be me and have all of your [[Airtable]] API keys in shortcuts, you                 |
 | 01:06:56   | can just have managed authentication inside of HTTP bot.                                             |
 | 01:07:01   | So yeah, get contents of URL, but just a bit nicer and more easy to test and reuse.                  |
 | 01:07:07   | Oh, you got me again, Rose.                                                                          |

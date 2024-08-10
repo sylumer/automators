@@ -691,8 +691,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 26:04      | because I've got a bunch of automations                           |
 | 26:06      | based around the show.                                            |
 | 26:07      | Our entire show notes are created                                 |
-| 26:09      | thanks to automations combined with Airtable.                     |
-| 26:12      | So we put the episode into the Airtable record                    |
+| 26:09      | thanks to automations combined with [[Airtable]].                     |
+| 26:12      | So we put the episode into the [[Airtable]] record                    |
 | 26:16      | and then bam, it goes ahead and creates a show doc for us         |
 | 26:19      | and things like that.                                             |
 | 26:21      | When I start recording the show,                                  |

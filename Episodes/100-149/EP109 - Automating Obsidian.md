@@ -2401,7 +2401,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:28:41   | of podcast ideas but then whenever                                                                 |
 | 01:28:43   | I create a show note                                                                               |
 | 01:28:45   | okay because we use                                                                                |
-| 01:28:47   | Airtable for our backend it goes ahead and creates                                                 |
+| 01:28:47   | [[Airtable]] for our backend it goes ahead and creates                                                 |
 | 01:28:49   | a Google Doc for me                                                                                |
 | 01:28:51   | but if I have                                                                                      |
 | 01:28:53   | done some good naming                                                                              |

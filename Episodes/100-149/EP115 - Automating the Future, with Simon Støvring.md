@@ -1012,7 +1012,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:20:28   | For me, one of my favourite settings, which I just had to dive back into the app to double              |
 | 01:20:34   | check is in the settings of JSON, you can actually have it default to saving your clipboard            |
 | 01:20:40   | and saving files. And one of the things that I really like to do when I'm building one                 |
-| 01:20:45   | of these more complex shortcuts, say I'm getting data back from Airtable, is I will have that          |
+| 01:20:45   | of these more complex shortcuts, say I'm getting data back from [[Airtable]], is I will have that          |
 | 01:20:49   | data then opened in JSON and have it save the file. And then I can jump backwards and                  |
 | 01:20:54   | force between shortcuts and JSON as much as I need to build whatever it is that I'm trying             |
 | 01:21:00   | to do. And I don't remember, did data or JSON come first? I'm struggling to remember now               |

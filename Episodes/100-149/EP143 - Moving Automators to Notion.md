@@ -144,7 +144,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 05:21      | But it is useful and especially in the context of collaboration.                                     |
 | 05:27      | But maybe before we get into what we're doing with [[Notion]], we should talk about where we             |
 | 05:30      | were and why we're leaving.                                                                          |
-| 05:33      | Yeah, yeah, because to be clear, it's not that we hate Airtable and Google Docs now.                 |
+| 05:33      | Yeah, yeah, because to be clear, it's not that we hate [[Airtable]] and Google Docs now.                 |
 | 05:38      | That is not the case.                                                                                |
 | 05:40      | We have just decided though we're going to simplify things and use this as an opportunity            |
 | 05:45      | to review the workflows and processes involved and see if we can simplify stuff.                     |
@@ -175,20 +175,20 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 07:35      | It was a good idea to experiment with it and even had automation options, but it was not             |
 | 07:40      | the best solution.                                                                                   |
 | 07:41      | So we then moved from just kind of, we're just going to have like a standard shared                  |
-| 07:47      | Mac OS iOS calendar to and Quip to we're going to use Google Docs and Airtable.                      |
-| 07:55      | And so we had a really lovely database set up in Airtable so we'd have, you know, all                |
+| 07:47      | Mac OS iOS calendar to and Quip to we're going to use Google Docs and [[Airtable]].                      |
+| 07:55      | And so we had a really lovely database set up in [[Airtable]] so we'd have, you know, all                |
 | 08:00      | the future shows that we were planning, you know, we had a list of guests with who was               |
 | 08:04      | like the main contact person for the guests and so on and so forth in there.                         |
 | 08:08      | So we could plan everything.                                                                         |
 | 08:10      | And then I set up some Zapier and make a formerly known as Integromat automations that when,         |
-| 08:18      | for example, when we'd set up a show in Airtable, it would go and create a new Google Doc for        |
+| 08:18      | for example, when we'd set up a show in [[Airtable]], it would go and create a new Google Doc for        |
 | 08:23      | us and put it in the right place and, you know, replace bits of text in it and so on                 |
 | 08:27      | and so forth.                                                                                        |
 | 08:29      | And this was all working pretty well.                                                                |
 | 08:30      | Google Docs is pretty much bulletproof when it comes to multiple people editing at the               |
 | 08:33      | same time and so on.                                                                                 |
 | 08:35      | But the problem is really like understanding that we needed like these four fields filled            |
-| 08:40      | out in Airtable to, you know, produce the Google Doc and so on.                                      |
+| 08:40      | out in [[Airtable]] to, you know, produce the Google Doc and so on.                                      |
 | 08:45      | Why can't we just have this in one system when actually [[Notion]] is kind of perfect for                |
 | 08:48      | this.                                                                                                |
 | 08:49      | You can have a record in [[Notion]] that itself is a document with a whole bunch of text in              |
@@ -296,8 +296,8 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 15:38      | So you know, the fact that we have templates, we have the ability to have a [[Kanban]] view              |
 | 15:42      | and two calendar views, one for when we're recording and one for when we're releasing                |
 | 15:47      | and things like that, that makes this a really good choice for us.                                   |
-| 15:50      | You know, we were using Airtable, we could have the [[Kanban]] view and the calendar views               |
-| 15:55      | and the different table views in Airtable, and we did, but the fact that we have that                |
+| 15:50      | You know, we were using [[Airtable]], we could have the [[Kanban]] view and the calendar views               |
+| 15:55      | and the different table views in [[Airtable]], and we did, but the fact that we have that                |
 | 16:00      | and the show notes in [[Notion]] definitely puts [[Notion]], you know, a little bit up there.                |
 | 16:05      | It's also very simple to use, so you know, when we've got guests on the show and so on,              |
 | 16:09      | we can send them a link to a [[Notion]] file or the [[Notion]] document for the show and just                |

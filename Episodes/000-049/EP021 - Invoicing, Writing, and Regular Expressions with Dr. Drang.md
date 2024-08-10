@@ -669,16 +669,16 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 26:07      | that sort of thing.                                                |
 | 26:09      | And it makes a database entry for me                               |
 | 26:12      | in a database that I have locally on my machine.                   |
-| 26:16      | Well, I'm also using, what's it called, Airtable.                  |
-| 26:21      | I have both Airtable and an SQLite database.                       |
+| 26:16      | Well, I'm also using, what's it called, [[Airtable]].                  |
+| 26:21      | I have both [[Airtable]] and an SQLite database.                       |
 | 26:27      | I'm actually doing things in parallel.                             |
-| 26:30      | Rose, have you noticed how often Airtable comes up lately?         |
+| 26:30      | Rose, have you noticed how often [[Airtable]] comes up lately?         |
 | 26:33      | Something tells me we're gonna need an episode on this, right?     |
-| 26:35      | Everybody's using Airtable, yeah, anyway.                          |
+| 26:35      | Everybody's using [[Airtable]], yeah, anyway.                          |
 | 26:38      | Yeah, I'm kind of, on this, I'm still keeping it there.            |
 | 26:43      | I'm starting to use it a little bit less                           |
 | 26:45      | for this particular one,                                           |
-| 26:46      | but yeah, Airtable is a lovely thing.                              |
+| 26:46      | but yeah, [[Airtable]] is a lovely thing.                              |
 | 26:48      | And so it does that, it makes two database entries                 |
 | 26:52      | and two different databases because I'm redundant.                 |
 | 26:55      | It makes a mail folder in mail                                     |

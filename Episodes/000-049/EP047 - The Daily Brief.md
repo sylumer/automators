@@ -723,16 +723,16 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 59:19      | great. I think it might be called format text, actually. But what you can do among a variety             |
 | 59:25      | of other things is you can convert Markdown to HTML. And the Google Docs action to create a new          |
 | 59:30      | Google Docs supports HTML. So our entire show notes are based on information that we have in             |
-| 59:36      | Airtable. And then this is extracted. And then there's a script inside of Zapier. I'm not going          |
+| 59:36      | [[Airtable]]. And then this is extracted. And then there's a script inside of Zapier. I'm not going          |
 | 59:41      | to go into the details there, but essentially it checks whether or not we have a guest. And it           |
-| 59:45      | generates some different things based on that and the notes that are passed into this from Airtable.     |
+| 59:45      | generates some different things based on that and the notes that are passed into this from [[Airtable]].     |
 | 59:51      | And then that is all in Markdown because that means that if David or I want to pop in and edit           |
 | 59:57      | something, then we can do that very easily. And then this action, the format action converts             |
 | 01:00:05   | our Markdown HTML. And then the HTML is put into the Google Doc action, which creates the Google         |
-| 01:00:10   | Doc. And then, of course, we have another Airtable action to update our Airtable record with a link      |
+| 01:00:10   | Doc. And then, of course, we have another [[Airtable]] action to update our [[Airtable]] record with a link      |
 | 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
-| 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the Airtable   |
-| 01:00:27   | Airtable base in Firefox for me. And then I can see the link to the show notes. And I can just           |
+| 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the [[Airtable]]   |
+| 01:00:27   | [[Airtable]] base in Firefox for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |
 | 01:00:43   | once I realised that I just needed a formatter action, it wasn't so much work. I added the script        |

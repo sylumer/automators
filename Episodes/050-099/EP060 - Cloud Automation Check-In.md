@@ -487,7 +487,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 23:54      | in it that are very, you know, like this absolutely has to work 100% at the time, like getting               |
 | 23:58      | the autonomy to show notes at the door.                                                                      |
 | 24:00      | That's in Zapier, but it's actually triggered by Integromat because Zapier can only run on                   |
-| 24:05      | something that is moves into a view in Airtable once and I wanted to be able to use things                   |
+| 24:05      | something that is moves into a view in [[Airtable]] once and I wanted to be able to use things                   |
 | 24:12      | multiple times.                                                                                              |
 | 24:13      | So I'm having Integromat look at Zapier views every sort of quarter of an hour and send                      |
 | 24:18      | each one of those items that it finds in that view over to a webhook on Zapier, which is                     |
@@ -506,9 +506,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 25:07      | So give me a simple one that you use.                                                                        |
 | 25:10      | Okay.                                                                                                        |
 | 25:11      | A simple one, well, I've already mentioned the Automator Show Notes one that literally                       |
-| 25:16      | is looking at a specific view in Airtable.                                                                   |
-| 25:21      | So I started with the Airtable action and it's Airtable search records action and it                         |
-| 25:27      | runs every 15 minutes, so there's a little clock on the left-hand side of the Airtable                       |
+| 25:16      | is looking at a specific view in [[Airtable]].                                                                   |
+| 25:21      | So I started with the [[Airtable]] action and it's [[Airtable]] search records action and it                         |
+| 25:27      | runs every 15 minutes, so there's a little clock on the left-hand side of the [[Airtable]]                       |
 | 25:33      | action for search records, which I could set to once every day, certain days of the week,                    |
 | 25:40      | certain days of the month, specific days, or at regular intervals, and then I input                          |
 | 25:44      | a number of minutes and it has to be higher than five and I've said that to every 15 minutes                 |
@@ -531,7 +531,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 26:50      | So I've switched that over to Integromat.                                                                    |
 | 26:54      | Now.                                                                                                         |
 | 26:55      | And so that's two actions.                                                                                   |
-| 26:56      | It just searches records in Airtable and then it makes a HTTP request over to Zapier.                        |
+| 26:56      | It just searches records in [[Airtable]] and then it makes a HTTP request over to Zapier.                        |
 | 27:02      | And that's working really nicely for me.                                                                     |
 | 27:04      | Yeah.                                                                                                        |
 | 27:05      | I've been playing with the toggle support in it because I've lately been doing a thing                       |
@@ -556,7 +556,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 28:18      | moving the needle as opposed to just time I'm tracking.                                                      |
 | 28:22      | What I really like about the filtering Integromat is obviously you can filter inside                        |
 | 28:27      | of the action.                                                                                               |
-| 28:28      | So for example, my search records in Airtable Action, that's looking at a specific view,                     |
+| 28:28      | So for example, my search records in [[Airtable]] Action, that's looking at a specific view,                     |
 | 28:33      | which is already filtered for me.                                                                            |
 | 28:35      | But the actual connection between two actions has a little spanner.                                          |
 | 28:39      | And if you click on that, then you can actually set up a filter and you can go through loads                 |
@@ -777,11 +777,11 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 41:40      | Zapier is the most powerful of them.                                                                         |
 | 41:43      | I think I could, I know you've used Integromat more than me, but I've never really had kind                  |
 | 41:49      | of a web automation problem that I couldn't get to the bottom of with Zapier.                                |
-| 41:53      | I've had a few little things like, for example, if it's watching Airtable records, it will                   |
-| 41:58      | only ever trigger on one Airtable record once, and that's not once per Zap, that's once globally.            |
+| 41:53      | I've had a few little things like, for example, if it's watching [[Airtable]] records, it will                   |
+| 41:58      | only ever trigger on one [[Airtable]] record once, and that's not once per Zap, that's once globally.            |
 | 42:05      | For example, if an Automator's record triggers the Create Show Notes thing, it can't then                    |
 | 42:09      | trigger a Create Reminder to publish a show of if it's Roses episodes.                                       |
-| 42:16      | I am using Integromat to watch Airtable views to trigger Zapier's apps, because I already                    |
+| 42:16      | I am using Integromat to watch [[Airtable]] views to trigger Zapier's apps, because I already                    |
 | 42:22      | have most of the Zaps up in Zapier, and so I just changed the first action to a web hook                     |
 | 42:28      | and then have Integromat ping it.                                                                            |
 | 42:32      | The vast majority of the time, I can solve my problem with Zapier on its own independently.                  |

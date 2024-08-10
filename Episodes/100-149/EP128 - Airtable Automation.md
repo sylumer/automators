@@ -41,9 +41,9 @@ Some of the Automators' favourite apps are upping their automation game with upd
 # Show Notes
 - [Introduction - Airtable Web API](https://airtable.com/developers/web/api/introduction)
 - [Using Airtable with Drafts - Integration Guides - Drafts Community](https://forums.getdrafts.com/t/using-airtable-with-drafts/14030)
-- [ Airtable API key deprecation notice | Airtable Support](https://support.airtable.com/docs/airtable-api-key-deprecation-notice)
-- [ Airtable | Drafts Script Reference](https://scripting.getdrafts.com/classes/Airtable)
-- [Changelog - Airtable Web API](https://airtable.com/developers/web/api/changelog)
+- [Airtable API key deprecation notice | Airtable Support](https://support.airtable.com/docs/airtable-api-key-deprecation-notice)
+- [ Airtable | Drafts Script Reference](https://scripting.getdrafts.com/classes/[[Airtable]])
+- [Changelog - [[Airtable]] Web API](https://airtable.com/developers/web/api/changelog)
 - [Release Notes | Drafts User Guide](https://docs.getdrafts.com/changelog/#airtable-support)
 - [Services | Drafts User Guide](https://docs.getdrafts.com/docs/actions/steps/services#airtable)
 - [Drafts Templates | Drafts User Guide](https://docs.getdrafts.com/docs/actions/templates/drafts-templates)
@@ -90,14 +90,14 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:36      | just give us those little benefits and bonuses, as well as the bug fixes and improvements                 |
 | 01:41      | that we all know and love.                                                                                |
 | 01:43      | Amen.                                                                                                     |
-| 01:44      | Today, we're here, we've got a couple topics, but the main one today is Airtable.                         |
-| 01:49      | Airtable feels like the app that comes up so often on our show, guests use it, you and                    |
+| 01:44      | Today, we're here, we've got a couple topics, but the main one today is [[Airtable]].                         |
+| 01:49      | [[Airtable]] feels like the app that comes up so often on our show, guests use it, you and                    |
 | 01:55      | I use it, and they have always been automation-friendly.                                                  |
 | 02:00      | That's one of the reasons why I think we've always been such fans, but that has got better                |
 | 02:04      | recently.                                                                                                 |
 | 02:05      | Yeah, it has, and it's not just that it's got better, it's changed a little bit as well.                  |
 | 02:13      | First of all, a little public service announcement here.                                                  |
-| 02:16      | If you are a user of Airtable and you have been ignoring the emails and things from them                  |
+| 02:16      | If you are a user of [[Airtable]] and you have been ignoring the emails and things from them                  |
 | 02:20      | about the API stuff, you should know that the way that the API tokens work is going                       |
 | 02:25      | to change, which means that if you have a token that you've had for a couple of years,                    |
 | 02:29      | you're going to need to update that and replace that.                                                     |
@@ -105,16 +105,16 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 02:37      | essentially, better security.                                                                             |
 | 02:39      | We love better security.                                                                                  |
 | 02:41      | Even in this case, it really is for your security, as well as everything else.                            |
-| 02:45      | If you've ever accidentally included your Airtable token in a shortcut that you've sent to a              |
+| 02:45      | If you've ever accidentally included your [[Airtable]] token in a shortcut that you've sent to a              |
 | 02:49      | friend and gone, oh, no, I shouldn't have done that, well, then this update is for you.                   |
 | 02:55      | Or if you're [[Matthew Cassinelli]], as he mentioned on the recent episode of iOS Day where he's               |
 | 02:59      | accidentally revealed it on a stream more than once, replacing that token was pretty                      |
 | 03:04      | awkward and tricky.                                                                                       |
 | 03:05      | Now they have personal access tokens as well as OAuth for integration so that you can do                  |
 | 03:11      | a sign-in workflow like you would sign in with Apple with things you would sign in with                   |
-| 03:15      | Airtable to authenticate something, which basically just means you just need to create                    |
+| 03:15      | [[Airtable]] to authenticate something, which basically just means you just need to create                    |
 | 03:19      | a new token, stick that in your shortcuts, and be done with it, but that does mean you're                 |
-| 03:24      | going to have to go back and touch all those old Airtable shortcuts.                                      |
+| 03:24      | going to have to go back and touch all those old [[Airtable]] shortcuts.                                      |
 | 03:27      | If you're doing that, it might be a good time to update them to do something like, I don't                |
 | 03:31      | know, maybe what I do, which is get your API token out of [[Data Jar]] so that then you've                     |
 | 03:36      | only got one place that you need to update your token if you need to change something                     |
@@ -124,15 +124,15 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 03:42      | I feel like the product has matured.                                                                      |
 | 03:44      | I mean, it started with all these great automation hooks in it, but as it's become adopted by             |
 | 03:51      | big, fancy companies, they've had to button down their security a bit, and congratulations                |
-| 03:58      | on the next level to Airtable.                                                                            |
+| 03:58      | on the next level to [[Airtable]].                                                                            |
 | 04:02      | Yeah.                                                                                                     |
-| 04:04      | That next level to Airtable comes with some changes.                                                      |
+| 04:04      | That next level to [[Airtable]] comes with some changes.                                                      |
 | 04:07      | Now, they have a nice handy change look on their website, so you can actually go through                  |
 | 04:11      | and read all of the changes.                                                                              |
 | 04:15      | One of the things that they have done is they've actually updated.                                        |
-| 04:19      | You can still, if you go to api.airtable.com, it will redirect you to the actual Airtable                 |
+| 04:19      | You can still, if you go to api.airtable.com, it will redirect you to the actual [[Airtable]]                 |
 | 04:26      | API documentation page, which has moved, but it's okay.                                                   |
-| 04:31      | It still works the same way it did before, where you can click on a table or an Airtable                  |
+| 04:31      | It still works the same way it did before, where you can click on a table or an [[Airtable]]                  |
 | 04:37      | base and get your documentation for your specific use case, but they've also improved                     |
 | 04:43      | things so that you can click on, for example, sync CSV data over on the left and see, what                |
 | 04:50      | does sync CSV data mean?                                                                                  |
@@ -145,11 +145,11 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 05:19      | to see how do I delete multiple records at once and things like that, and just as a generic               |
 | 05:26      | option instead of purely the specific, this is how I do this with my base before, where                   |
 | 05:31      | you then have to figure out the abstract version.                                                         |
-| 05:33      | I just want to take a minute to talk about how we're using Airtable at this point.                        |
+| 05:33      | I just want to take a minute to talk about how we're using [[Airtable]] at this point.                        |
 | 05:38      | I mean, the product's evolving and both of us have uses for it.                                           |
 | 05:43      | I'll go first.                                                                                            |
 | 05:45      | I'm not using it as with as much automation as I probably should to be truthful.                          |
-| 05:52      | I've got, though, Airtable is very handy for team database and tracking communications.                   |
+| 05:52      | I've got, though, [[Airtable]] is very handy for team database and tracking communications.                   |
 | 06:00      | For instance, I've got one where I list all the sponsors that I have on the various things                |
 | 06:06      | I do, not the podcast, but the other stuff, and I share that with someone who helps me                    |
 | 06:10      | do the back-end, getting the posts up, making sure everything's done, the bills go out,                   |
@@ -158,12 +158,12 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 06:22      | It also has a spreadsheet element to it.                                                                  |
 | 06:26      | We can both update it and keep track of everything.                                                       |
 | 06:30      | I can use several of the cloud-based automation tools to send me notes like when a payment                |
-| 06:35      | comes in, and then another big use for me with Airtable, in fact, really the biggest                      |
-| 06:41      | use for me with Airtable is the field guides that I make.                                                 |
+| 06:35      | comes in, and then another big use for me with [[Airtable]], in fact, really the biggest                      |
+| 06:41      | use for me with [[Airtable]] is the field guides that I make.                                                 |
 | 06:46      | We try to bunch of different tools to track status of how things are going.                               |
 | 06:51      | We had Google Docs, we had shared Apple documents, and we tried all these different systems.              |
-| 06:57      | The one, though, that immediately stuck for us was Airtable.                                              |
-| 07:02      | For each new field guide, we have this Airtable, and I can see who's working on it, like if               |
+| 06:57      | The one, though, that immediately stuck for us was [[Airtable]].                                              |
+| 07:02      | For each new field guide, we have this [[Airtable]], and I can see who's working on it, like if               |
 | 07:07      | there's editing being done by someone else.                                                               |
 | 07:11      | Then I can see if it's on his desk, if it needs closed captioning, I can see that.                        |
 | 07:16      | I can see exactly where it is in the production pipeline.                                                 |
@@ -177,9 +177,9 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 07:44      | I've always been using it to such a degree that I'm not using it enough to require to                     |
 | 07:49      | pay, but man, I'm getting so much value out of this free product for me.                                  |
 | 07:55      | Yeah.                                                                                                     |
-| 07:56      | I do pay for Airtable, and so I'm on the pro plan.                                                        |
+| 07:56      | I do pay for [[Airtable]], and so I'm on the pro plan.                                                        |
 | 08:02      | Just a little clarification.                                                                              |
-| 08:03      | In Airtable, you've got your databases, which are your individual databases slash spreadsheet-y           |
+| 08:03      | In [[Airtable]], you've got your databases, which are your individual databases slash spreadsheet-y           |
 | 08:07      | things because they've got an individual tab, so you can have multiple tables in your database            |
 | 08:11      | to use the pure programming terminology, kind of like she's a spreadsheet, and then you                   |
 | 08:17      | can have views on each one of those.                                                                      |
@@ -195,7 +195,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 09:04      | integrations, and 5,000 records.                                                                          |
 | 09:06      | I did hit the 5,000 records on quite a few of my Airtables at some point, and so I just                   |
 | 09:12      | went for the pro plan because I wanted to play with those extensions as well.                             |
-| 09:16      | The thing that I really like about Airtable is what you were saying, David, it's kind                     |
+| 09:16      | The thing that I really like about [[Airtable]] is what you were saying, David, it's kind                     |
 | 09:20      | of like a spreadsheet database.                                                                           |
 | 09:22      | It looks very user friendly, which is nice.                                                               |
 | 09:24      | It's pretty when you go to look at it, but for me, the real killer is the fact that I                     |
@@ -207,7 +207,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 09:46      | see on each poster representation in the gallery.                                                         |
 | 09:52      | And then there's some pro options, which are timelines and Gantt charts, which are the                    |
 | 09:57      | other reason why I'm using the pro plan because I really wanted some timelines and some Gantt             |
-| 10:01      | charts for some of my stuff, but for example, we have a shared Airtable for Automators,                   |
+| 10:01      | charts for some of my stuff, but for example, we have a shared [[Airtable]] for Automators,                   |
 | 10:09      | which has got our show planning in, so that's got columns for the episode number and the                  |
 | 10:13      | title and guests and things like that.                                                                    |
 | 10:16      | And then it combines the episode number and the title or the guest name to make the actual                |
@@ -245,18 +245,18 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 12:15      | I mentioned, when we plan automators, it automatically creates a Google blog for us.                      |
 | 12:21      | And that happens through make.com where it plugs out a bunch of data and it creates a                     |
 | 12:28      | Google doc for us and reformats some stuff.                                                               |
-| 12:30      | And then it puts a link to the Google doc in the record in Airtable for us so that we                     |
+| 12:30      | And then it puts a link to the Google doc in the record in [[Airtable]] for us so that we                     |
 | 12:34      | can just click on that and go to it and ta-da, we're there.                                               |
 | 12:38      | And that is really, for me, where the magic gets massively extended because all of this                   |
 | 12:44      | stuff is available through the various APIs and whether you want to just write a shortcut                 |
-| 12:50      | or use [[Drafts]] or something to interact with Airtable directly or if you want to use a                     |
+| 12:50      | or use [[Drafts]] or something to interact with [[Airtable]] directly or if you want to use a                     |
 | 12:54      | service like make or that was previously called Integromat Zapier or if this and that, then              |
 | 13:01      | you've got options there, which is really nice.                                                           |
 | 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using [[Notion]].               |
 | 13:10      | I think there is a bit of a tipping point with [[Notion]] because you can do a lot of this                    |
-| 13:14      | with [[Notion]] tables, but Airtable is better at it in my experience and it's more automation                |
+| 13:14      | with [[Notion]] tables, but [[Airtable]] is better at it in my experience and it's more automation                |
 | 13:22      | friendly.                                                                                                 |
-| 13:23      | So even if you're using [[Notion]], you could make the argument that you'd want an Airtable,                  |
+| 13:23      | So even if you're using [[Notion]], you could make the argument that you'd want an [[Airtable]],                  |
 | 13:26      | but I know a lot of people that use [[Notion]] that put this kind of information in [[Notion]]                    |
 | 13:31      | tables themselves, but I do think it really just shines with collaboration.                               |
 | 13:38      | Yes, absolutely it does.                                                                                  |
@@ -348,13 +348,13 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 19:08      | expressvpn.com/automators.                                                                   |
 | 19:14      | Expressvpn.com/automators to learn more.                                                            |
 | 19:17      | And our thanks to ExpressVPN for their support of the automators and all of Relay FM.                     |
-| 19:23      | All right, now, Airtable also got some great new integration with one of our favourite apps                |
+| 19:23      | All right, now, [[Airtable]] also got some great new integration with one of our favourite apps                |
 | 19:31      | [[Drafts]].                                                                                                   |
 | 19:32      | Yeah, it did.                                                                                             |
 | 19:34      | So this came out in [[Drafts]] update 37, which came out a little while ago, not that long                    |
 | 19:40      | ago.                                                                                                      |
 | 19:41      | But yeah, and it's been there for a little bit, and I've kind of been kicking the tires                   |
-| 19:46      | on it and playing with it a bit, because I have a lot of stuff that uses Airtable and                     |
+| 19:46      | on it and playing with it a bit, because I have a lot of stuff that uses [[Airtable]] and                     |
 | 19:51      | [[Drafts]] already.                                                                                           |
 | 19:53      | And what I was doing is I was just writing scripts and using the API through the API                      |
 | 20:00      | documentation and so on to do this.                                                                       |
@@ -363,13 +363,13 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 20:06      | But it meant that if I needed to be able to, say, update a record, I had to go through                    |
 | 20:13      | and create a script for it to do that.                                                                    |
 | 20:18      | And now [[Drafts]] is added, not just scripting support, which we'll get to in a little bit,                  |
-| 20:23      | but they've added a simple action to actually send data to Airtable.                                      |
+| 20:23      | but they've added a simple action to actually send data to [[Airtable]].                                      |
 | 20:31      | And so now in the actions that you create, and these are the actions that display on                      |
 | 20:36      | the right-hand side with [[Drafts]], so you'll need the [[Drafts]] pro subscription to be able                    |
 | 20:41      | to create and edit actions.                                                                               |
 | 20:44      | But then once you've got that, as you create an action, one of the things that you can                    |
-| 20:48      | do is actually send to Airtable.                                                                          |
-| 20:51      | And so there is an Airtable option right there, which is just nice as one of the steps.                   |
+| 20:48      | do is actually send to [[Airtable]].                                                                          |
+| 20:51      | And so there is an [[Airtable]] option right there, which is just nice as one of the steps.                   |
 | 20:57      | It's a simple UI step, there's no scripting involved, really.                                             |
 | 21:01      | And then you can actually use that information to do whatever it is you want with.                        |
 | 21:07      | And I really appreciate the fact that Greg has gone through and done this, because being                  |
@@ -615,30 +615,30 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 36:23      | I want to do that.                                                                                        |
 | 36:25      | And then I fall down a rabbit hole and spend four days writing draft sections and things                  |
 | 36:28      | like that, which is great.                                                                                |
-| 36:31      | Going back to Airtable, let's talk about that because [[Drafts]] scripting support is also there              |
+| 36:31      | Going back to [[Airtable]], let's talk about that because [[Drafts]] scripting support is also there              |
 | 36:36      | as well.                                                                                                  |
 | 36:37      | Yes.                                                                                                      |
 | 36:38      | Yeah.                                                                                                     |
 | 36:39      | And the action support for [[Drafts]] is, basic is the wrong word for it, but it's essentially                |
-| 36:45      | just create an Airtable record.                                                                           |
+| 36:45      | just create an [[Airtable]] record.                                                                           |
 | 36:49      | But if you want more, then, of course, there's more power available through scripting.                    |
 | 36:53      | And just like you could before, you can just use, you know, HTTP actions to integrate                     |
 | 36:58      | with the API.                                                                                             |
 | 36:59      | So if you did that before, you don't need to change that.                                                 |
-| 37:02      | But what you can now do is you can actually create Airtable instances and use those in                    |
+| 37:02      | But what you can now do is you can actually create [[Airtable]] instances and use those in                    |
 | 37:08      | your actions instead.                                                                                     |
 | 37:10      | So instead of, you know, creating a HTTP call and, you know, spinning it all up with                      |
 | 37:14      | the headers and stuff so that you can talk to [[Drafts]], you can now actually do this directly               |
-| 37:18      | with Airtable through the scripting support.                                                              |
+| 37:18      | with [[Airtable]] through the scripting support.                                                              |
 | 37:21      | And I have been working on updating some of my actions for this because, of course, with                  |
 | 37:26      | the change of token, I need to update the token in [[Drafts]].                                                |
 | 37:30      | Now, updating the token in [[Drafts]] is not a problem.                                                       |
 | 37:32      | It's not difficult to do.                                                                                 |
-| 37:33      | But I decided to make it much better and just update to use everything with the new Airtable              |
+| 37:33      | But I decided to make it much better and just update to use everything with the new [[Airtable]]              |
 | 37:40      | integration instead, so that I've got all of that as well, which is quite nice.                           |
 | 37:46      | And so allow me to go through and have a little bit of a spring clean in some of my draft                 |
 | 37:49      | sections too to get rid of those that I don't need anymore.                                               |
-| 37:52      | Yeah, it's like second level automation for Airtable.                                                     |
+| 37:52      | Yeah, it's like second level automation for [[Airtable]].                                                     |
 | 37:56      | Yeah, yeah, it really is.                                                                                 |
 | 37:58      | And it's just really nice.                                                                                |
 | 38:00      | You know, this gives you the opportunity to get your base schema to list your bases.                      |
@@ -658,7 +658,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 39:04      | Make sure your ends and your ores are separated properly.                                                 |
 | 39:08      | Yeah.                                                                                                     |
 | 39:09      | Yeah.                                                                                                     |
-| 39:10      | So my trick for that is if you're going to automate an Airtable record deletion, start                    |
+| 39:10      | So my trick for that is if you're going to automate an [[Airtable]] record deletion, start                    |
 | 39:14      | by adding a new column and call it deleted and make it a checkbox column.                                 |
 | 39:18      | And then to start with, instead of actually deleting the records, set the checkbox to                     |
 | 39:22      | true and see what happens.                                                                                |

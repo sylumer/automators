@@ -58,7 +58,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 00:15      | I am very, very, very excited about today's topic, David, but we've got a lot to cover,              |
 | 00:20      | haven't we?                                                                                          |
 | 00:21      | Yeah.                                                                                                |
-| 00:22      | We're talking about Airtable today.                                                                  |
+| 00:22      | We're talking about [[Airtable]] today.                                                                  |
 | 00:23      | We've been teasing it on the show for a while.                                                       |
 | 00:25      | Both of us have kind of dug in deeper on this application, and now it's just obvious                 |
 | 00:29      | that we have to cover it, so we're going to, I think we've got a really great show.                  |
@@ -145,7 +145,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 05:00      | You can go download it and check it out, and congratulations to the developer.                       |
 | 05:03      | I know that there was a lot of work in this app, and I hope, I wish him much success.                |
 | 05:09      | Yes.                                                                                                 |
-| 05:10      | Just before we get into all of the Airtable goodness, we should mention there is another             |
+| 05:10      | Just before we get into all of the [[Airtable]] goodness, we should mention there is another             |
 | 05:14      | new show on Relay FM called Adapt, which some of our listeners might be interested in.               |
 | 05:19      | Yeah, I think there's a huge overlap with our audience and the Adapt audience, and Adapt             |
 | 05:24      | is all about the iPad and giving more out of the iPad.                                               |
@@ -155,30 +155,30 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 05:43      | that I'm sure many of our listeners will enjoy, or a podcast rather, perhaps on the                  |
 | 05:48      | brain today.                                                                                         |
 | 05:49      | There we go.                                                                                         |
-| 05:50      | Well, we're actually here to talk today about what we're going to do with Airtable.                  |
-| 05:55      | Airtable, if you've never heard of it before, it's a spreadsheet slash database application          |
+| 05:50      | Well, we're actually here to talk today about what we're going to do with [[Airtable]].                  |
+| 05:55      | [[Airtable]], if you've never heard of it before, it's a spreadsheet slash database application          |
 | 06:02      | based on the internet.                                                                               |
 | 06:04      | It's a web-based app, and this first came on my radar several years ago.                             |
 | 06:09      | They were emailing me as they were getting launched, and I was at the time pretty happy              |
 | 06:14      | with numbers, because most of the spreadsheet type stuff I did was on my local machine.              |
-| 06:20      | I liked having it local, and I really didn't need the features that Airtable brought to              |
+| 06:20      | I liked having it local, and I really didn't need the features that [[Airtable]] brought to              |
 | 06:24      | the table, but over time, I started playing with it and increasingly finding uses for                |
-| 06:31      | it to the extent that Airtable is now open on my screen every day for one reason or another.         |
+| 06:31      | it to the extent that [[Airtable]] is now open on my screen every day for one reason or another.         |
 | 06:38      | One of the things we've done is we've converted much of the show management over to what I           |
-| 06:44      | think to be a very good Airtable table.                                                              |
-| 06:47      | It's like a shortcut, shortcut, Airtable table, I don't know how we're going to get                  |
+| 06:44      | think to be a very good [[Airtable]] table.                                                              |
+| 06:47      | It's like a shortcut, shortcut, [[Airtable]] table, I don't know how we're going to get                  |
 | 06:52      | through this.                                                                                        |
-| 06:53      | It's actually an Airtable base, which contains tables.                                               |
+| 06:53      | It's actually an [[Airtable]] base, which contains tables.                                               |
 | 06:56      | There we go.                                                                                         |
 | 06:58      | Yeah.                                                                                                |
 | 06:59      | Multiple levels of abstraction.                                                                      |
 | 07:00      | But either way, it's a very powerful app, and we thought today we'd like to talk through             |
 | 07:04      | how we're using it for the show and explain some of the features, because I think anybody            |
-| 07:08      | hearing this may trigger a few ideas in your head how you can automate your life with Airtable.      |
-| 07:14      | And then we'll wrap up the show with some other uses we're doing with Airtable as well.              |
+| 07:08      | hearing this may trigger a few ideas in your head how you can automate your life with [[Airtable]].      |
+| 07:14      | And then we'll wrap up the show with some other uses we're doing with [[Airtable]] as well.              |
 | 07:18      | So I guess we should just get started.                                                               |
 | 07:20      | Well, yes, but just to get started, we need to go back to the beginning, don't we?                   |
-| 07:24      | Because we didn't start out with Airtable.                                                           |
+| 07:24      | Because we didn't start out with [[Airtable]].                                                           |
 | 07:26      | We started out with notes.                                                                           |
 | 07:28      | Yeah.                                                                                                |
 | 07:29      | Yeah.                                                                                                |
@@ -209,7 +209,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 08:42      | Yeah.                                                                                                |
 | 08:43      | I mean, if there are some other solutions, we could have maybe gone with Google Sheets               |
 | 08:47      | or something like this.                                                                              |
-| 08:48      | But Airtable, it's just because it's more than a halfway house between a spreadsheet                 |
+| 08:48      | But [[Airtable]], it's just because it's more than a halfway house between a spreadsheet                 |
 | 08:55      | and a database.                                                                                      |
 | 08:56      | It is more database than spreadsheet, but it's user-friendly in the same way a spreadsheet           |
 | 08:59      | is.                                                                                                  |
@@ -328,7 +328,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 16:11      | We're going to talk later about other ways we use it, but one of my other projects I'll              |
 | 16:15      | mention later, I noticed that some of my team members started making additions and changes           |
 | 16:20      | to the status field on that project because, and neither of them had any training or use             |
-| 16:25      | prior of Airtable.                                                                                   |
+| 16:25      | prior of [[Airtable]].                                                                                   |
 | 16:27      | Yeah.                                                                                                |
 | 16:28      | And that's what's great about this, you know, you can settle this up and you can share it            |
 | 16:31      | with other people who don't have to know how it works because it's fairly obvious.                   |
@@ -344,11 +344,11 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 17:08      | Yeah.                                                                                                |
 | 17:09      | So we've got a responsible field, which I mean, David mentioned just now, each one                   |
 | 17:12      | of us takes in turn.                                                                                 |
-| 17:13      | So this is David's episode and it's as David's episode in Airtable, which actually I used            |
+| 17:13      | So this is David's episode and it's as David's episode in [[Airtable]], which actually I used            |
 | 17:19      | feed into a couple of other things as well, like for example, the Automators.fm website,             |
 | 17:24      | which posts the blog post episode as well as each podcast episode and links to the videos.           |
 | 17:31      | That knows who is in charge of the episode, so whose blog posts we really need to grab               |
-| 17:35      | for it because of this Airtable, which is amazing.                                                   |
+| 17:35      | for it because of this [[Airtable]], which is amazing.                                                   |
 | 17:40      | And then after that, we've got recording date and release date.                                      |
 | 17:43      | And then we have just three very simple checkbox fields, whether or not the episode's recorded,      |
 | 17:47      | whether or not David's recorded his ad, and whether or not I've recorded my ad because               |
@@ -475,11 +475,11 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 24:31      | Yeah.                                                                                                |
 | 24:32      | And just let's talk about the host overview in general.                                              |
 | 24:35      | How did we create that?                                                                              |
-| 24:36      | So Airtable actually has something built in called collaborators, which are all the people           |
-| 24:41      | associated with an Airtable base.                                                                    |
+| 24:36      | So [[Airtable]] actually has something built in called collaborators, which are all the people           |
+| 24:41      | associated with an [[Airtable]] base.                                                                    |
 | 24:44      | However, there is one small problem with this, and that is via the API, you can't get a list         |
 | 24:50      | of the collaborators and the IDs.                                                                    |
-| 24:52      | Now there are open requests for this on the Airtable forums, and I'm very sure they're               |
+| 24:52      | Now there are open requests for this on the [[Airtable]] forums, and I'm very sure they're               |
 | 24:56      | going to add it at some point, but right now it's not there.                                         |
 | 25:01      | So to make it a little bit easier for scripting purposes, I just added a host overview table         |
 | 25:07      | where we've got each of our names, and then this references everything else in all of                |
@@ -732,28 +732,28 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 40:13      | a collaborative database is actually pretty powerful.                                                |
 | 40:17      | And it's a project management solution.                                                              |
 | 40:21      | It's a database management solution.                                                                 |
-| 40:24      | I'm really impressed with Airtable.                                                                  |
+| 40:24      | I'm really impressed with [[Airtable]].                                                                  |
 | 40:26      | Yeah, me too.                                                                                        |
 | 40:28      | I absolutely am.                                                                                     |
 | 40:29      | Because there's so many things you can do with it.                                                   |
 | 40:30      | So for example, if you're looking, if you use Zapier to look for a record, then it can               |
 | 40:38      | create a record if it doesn't find it and that's just built in.                                      |
 | 40:41      | And it's a very well-documented API.                                                                 |
-| 40:45      | So every time you create a base in Airtable and you create a table in that base, if you              |
+| 40:45      | So every time you create a base in [[Airtable]] and you create a table in that base, if you              |
 | 40:50      | add one record, okay, you just have to add one sample record and you can fill it with,               |
 | 40:55      | I don't know, chocolate as your keyword or all the way across if that's what you want                |
 | 41:00      | to do.                                                                                               |
-| 41:01      | You can then go to the Airtable API and they generate documentation for your specific Airtable       |
+| 41:01      | You can then go to the [[Airtable]] API and they generate documentation for your specific [[Airtable]]       |
 | 41:10      | for you so that you can learn how to use this.                                                       |
 | 41:13      | And it's really easy to use in shortcuts.                                                            |
 | 41:17      | It could be easier to use, I will give it that, but it's very well-documented, making                |
 | 41:21      | it much easier to get a hold of all of this information that you need.                               |
-| 41:27      | Yeah, tell me a little bit about your three shortcuts you're using with Airtable.                    |
+| 41:27      | Yeah, tell me a little bit about your three shortcuts you're using with [[Airtable]].                    |
 | 41:32      | How'd you build them and what are you using?                                                         |
 | 41:33      | And I think I need to create a set.                                                                  |
 | 41:35      | Well, I mean, to start with, you need an API key, which you can get in your account information      |
-| 41:41      | in Airtable.                                                                                         |
-| 41:42      | And then what I do is it depends on which Airtable I'm interacting with.                             |
+| 41:41      | in [[Airtable]].                                                                                         |
+| 41:42      | And then what I do is it depends on which [[Airtable]] I'm interacting with.                             |
 | 41:49      | So I've got quite a few different Airtables.                                                         |
 | 41:52      | But let's say that I'm interacting with show planning and I want to add my idea as a show.           |
 | 41:56      | So the first thing I need is I'm going to need the title and then I will optionally                  |
@@ -763,7 +763,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 42:16      | And so you authenticate against the API and then you post it data and everything is in               |
 | 42:22      | a dictionary called fields and you put the data in there.                                            |
 | 42:25      | And this is something where you're going to need to look at the documentation for your               |
-| 42:29      | specific Airtable base because otherwise whatever I say is going to be wrong, it's not going         |
+| 42:29      | specific [[Airtable]] base because otherwise whatever I say is going to be wrong, it's not going         |
 | 42:34      | to match up with anybody else's information.                                                         |
 | 42:36      | But yeah, so you look at that.                                                                       |
 | 42:39      | And there are certain fields that you need for that and certain fields are optional.                 |
@@ -777,7 +777,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 43:11      | I will also note that I've done a little enhancement because usually when I have one idea, I have    |
 | 43:17      | several other ideas.                                                                                 |
 | 43:20      | And so what I do is in my get idea, after this, I split on new lines and I will share                |
-| 43:28      | a sample one with a sample Airtable for the show notes.                                              |
+| 43:28      | a sample one with a sample [[Airtable]] for the show notes.                                              |
 | 43:34      | And I split and repeat with each, which means that then for each of these titles, I can              |
 | 43:39      | add any notes that I want.                                                                           |
 | 43:41      | And so if I come up with five ideas at once, I can just scribble them all down quickly.              |
@@ -785,12 +785,12 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 43:50      | if anyone were watching me, but thankfully this is audio, not video.                                 |
 | 43:56      | And then these pop up and then they come back at me, giving me an option, the time to think          |
 | 44:02      | about them and add any notes I thought of and things like that, and then they get pushed             |
-| 44:07      | up to Airtable.                                                                                      |
+| 44:07      | up to [[Airtable]].                                                                                      |
 | 44:08      | I'm super curious.                                                                                   |
 | 44:09      | I'm going to try it.                                                                                 |
 | 44:10      | I'm curious about how much faster it is than just going into the app and adding them manually,       |
 | 44:15      | I guess.                                                                                             |
-| 44:16      | For me, it's quite a bit faster just because the way the Airtable app works, and I actually          |
+| 44:16      | For me, it's quite a bit faster just because the way the [[Airtable]] app works, and I actually          |
 | 44:23      | left my phone somewhere for this episode, I'm not quite sure where it's, so I'm doing                |
 | 44:27      | everything off the top of my head as far as shortcuts goes.                                          |
 | 44:32      | When you open the app, you've got to navigate to the right base, which may or may not be             |
@@ -805,9 +805,9 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 44:55      | I think it could be as well, but this is where shortcuts and actually [[Drafts]] can come in             |
 | 45:00      | really handy because [[Drafts]], of course, is very scriptable, as we know from the last                 |
 | 45:04      | episode with Tim.                                                                                    |
-| 45:06      | And you can do all sorts of things, including post a bunch of data to Airtable, and you              |
-| 45:11      | can get data back from Airtable with the API, which means that you can do things like start          |
-| 45:16      | writing plot posts, spatial ideas that are stored in your Airtable.                                  |
+| 45:06      | And you can do all sorts of things, including post a bunch of data to [[Airtable]], and you              |
+| 45:11      | can get data back from [[Airtable]] with the API, which means that you can do things like start          |
+| 45:16      | writing plot posts, spatial ideas that are stored in your [[Airtable]].                                  |
 | 45:20      | And then you could also, like this would be a good one in Siri Shortcuts, once you've                |
 | 45:24      | got the API sorted out, you could pre-populate a bunch of them, like if you had different            |
 | 45:29      | types of work things you do all the time, you just duplicate the script once you get                 |
@@ -818,19 +818,19 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 45:46      | So all you're doing is the minimal amount of data entry because all the standard fields              |
 | 45:52      | you fill out already and just make a different version of the shortcut for each of the standard      |
 | 45:57      | ways you're going to fill it out.                                                                    |
-| 46:00      | I do that with OmniFocus in box items, there's no reason I couldn't do that with Airtable            |
+| 46:00      | I do that with OmniFocus in box items, there's no reason I couldn't do that with [[Airtable]]            |
 | 46:04      | as well.                                                                                             |
 | 46:05      | All right, I'm going to get an API key, I'm going to do it, I'm going to get that set                |
 | 46:08      | up.                                                                                                  |
-| 46:09      | And the great thing about Airtable is you have one API key for all of your bases, including          |
+| 46:09      | And the great thing about [[Airtable]] is you have one API key for all of your bases, including          |
 | 46:14      | bases that other people have shared with you, which means that you don't need to have tons           |
 | 46:18      | of different authentication information.                                                             |
-| 46:20      | And I will make a little video about interacting with Airtable through Shortcuts for our listeners   |
+| 46:20      | And I will make a little video about interacting with [[Airtable]] through Shortcuts for our listeners   |
 | 46:26      | because I think that this is something that people are definitely going to benefit from              |
 | 46:32      | because it's a very easy way to get data into a trusted system which you can then reorganise         |
 | 46:37      | and that doesn't need to be a task management system, it can be any kind of system, it could         |
 | 46:42      | be your someday maybe list.                                                                          |
-| 46:44      | Well, I want to talk about other ways we're using Airtable, but before we do that, I want            |
+| 46:44      | Well, I want to talk about other ways we're using [[Airtable]], but before we do that, I want            |
 | 46:49      | to take a minute to talk about our next sponsor.                                                     |
 | 46:52      | And that's our friends over at Backblaze.                                                            |
 | 46:54      | This episode of The Automators is brought to you by Backblaze, the unlimited cloud backup            |

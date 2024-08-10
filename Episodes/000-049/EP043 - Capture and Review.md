@@ -227,7 +227,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 13:12      | Don McAllister. Because I already have this information, essentially the variables that                |
 | 13:17      | I would use to fill this out, I thought I can go a step further and actually completely                 |
 | 13:24      | automate the filling out of the variables so that I don't have to try and talk to Podio                 |
-| 13:30      | in the background or to parse this data and put it into Airtable when I really only needed              |
+| 13:30      | in the background or to parse this data and put it into [[Airtable]] when I really only needed              |
 | 13:34      | to make an OmniFocus project so that I can then run a shortcut. So I just want something                |
 | 13:40      | inside of my OmniFocus that says, hey, like you need to create this task. So what happens               |
 | 13:47      | is a new show is assigned to me, and this has a ton of information in there. And then                   |
@@ -578,7 +578,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 42:49      | the shortcut that will just capture a specific type of task. I have an automation task shortcut.        |
 | 42:55      | That's a good idea. This, this sounds crazy. But essentially, all it is is create this automation.      |
 | 43:00      | Because then I end up with things like, for example, I recently wrote a script that runs on             |
-| 43:05      | my server, it fetches data from Airtable, and it renames toggle projects when, when they need to        |
+| 43:05      | my server, it fetches data from [[Airtable]], and it renames toggle projects when, when they need to        |
 | 43:12      | be renamed. And this is really helpful. But I've had that idea kicking around for six months.           |
 | 43:19      | Now it's very easy to say, Oh, yeah, I'll just create a shortcut to do that. And I tried and            |
 | 43:22      | failed a couple of times because I had issues with the toggle API. It's not, it probably                |

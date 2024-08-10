@@ -93,7 +93,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:22      | But I decided the best thing to do for everybody because nobody likes just sitting there reading      |
 | 01:27      | is to actually teach people how to build shortcuts.                                                   |
 | 01:29      | So there are tons of example shortcuts in there from controlling airports, pro noise                  |
-| 01:33      | cancelling to working with Airtable APIs.                                                             |
+| 01:33      | cancelling to working with [[Airtable]] APIs.                                                             |
 | 01:37      | And there's hopefully something in there for everybody.                                               |
 | 01:39      | Awesome.                                                                                              |
 | 01:40      | Well, congratulations on getting this out the door.                                                   |
@@ -1284,9 +1284,9 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:11:02   | the tool a lot and it is a great collaborative spreadsheet slash database.                            |
 | 01:11:09   | Yes.                                                                                                  |
 | 01:11:10   | I'm really enjoying it and I've got some ideas of some things that I'd like to do next                |
-| 01:11:14   | year with my Airtable setup, but I am currently in the end of year crunch.                            |
+| 01:11:14   | year with my [[Airtable]] setup, but I am currently in the end of year crunch.                            |
 | 01:11:19   | So as much as I would like to sit down and do nothing more than spend a couple of hours               |
-| 01:11:23   | playing with Airtable, I am not letting myself do that because there is other work that needs         |
+| 01:11:23   | playing with [[Airtable]], I am not letting myself do that because there is other work that needs         |
 | 01:11:28   | to be done first.                                                                                     |
 | 01:11:30   | For some reason, I got recently multiple emails from listeners and readers saying that I need         |
 | 01:11:36   | to be using [[Notion]] for a bunch of this stuff.                                                         |
@@ -1297,7 +1297,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:11:59   | look at it again.                                                                                     |
 | 01:12:00   | Yeah.                                                                                                 |
 | 01:12:01   | I kind of feel the same way.                                                                          |
-| 01:12:02   | I'm spending a lot of money between Basecamp and Airtable and some of these other services            |
+| 01:12:02   | I'm spending a lot of money between Basecamp and [[Airtable]] and some of these other services            |
 | 01:12:07   | I'm using.                                                                                            |
 | 01:12:08   | If this could combine everything, that would be great, but it just seems to me like at                |
 | 01:12:12   | this point, my testing of it was a jack of all trades and a master of none.                           |

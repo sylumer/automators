@@ -569,11 +569,11 @@ Rose and David share some of their favourite recently created automations rangin
 | 43:20      | a lot to be said for an automation that you know works. No, that's great. I like it, Rose. I like    |
 | 43:25      | it. So what about things you want to automate more? I just thought we'd finish a show today.         |
 | 43:31      | There's a couple of things that have been on the back of my mind lately. I'm using                   |
-| 43:35      | Airtable a lot in the field guide production and a couple other things too. But particularly         |
+| 43:35      | [[Airtable]] a lot in the field guide production and a couple other things too. But particularly         |
 | 43:40      | with field guides, because it's like you've got a long list of videos, you've got different people   |
 | 43:44      | doing different parts of it. And it's just a great way. It's a public shared database between        |
-| 43:52      | your team, which is Airtable is great for that. We did a whole show on Airtable. But I want to       |
-| 43:58      | increase the automation elements of Airtable right now as it is. I basically manually go in and      |
+| 43:52      | your team, which is [[Airtable]] is great for that. We did a whole show on [[Airtable]]. But I want to       |
+| 43:58      | increase the automation elements of [[Airtable]] right now as it is. I basically manually go in and      |
 | 44:04      | change fields and things. And really that combines with the other thing I want to get better at is   |
 | 44:09      | using Zapier. You know, we did that show on Zapier. I was motivated. I created a couple of Zapier    |
 | 44:15      | automations. I signed up for a subscription and I haven't done enough with it. I feel like that's    |
@@ -596,7 +596,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 45:55      | probably do future content on that. Definitely. Let's do that. Is there anything else that you're    |
 | 46:00      | looking to automate more because you mentioned Zapier. Is there anything in particular you want      |
 | 46:03      | to do with Zapier? I just want to get more out of it. There's web services I use,                    |
-| 46:08      | Basecamp for instance, Airtable for instance. I've got these web services that I'm plugged into      |
+| 46:08      | Basecamp for instance, [[Airtable]] for instance. I've got these web services that I'm plugged into      |
 | 46:14      | and then I've got my online invoicing is done through an online service. I feel like I've            |
 | 46:21      | done a poor job of taking advantage of all these hooks I have with Zapier and I know they're there.  |
 | 46:26      | I just have to take the time to experiment with them and get them working. I've got a few of them    |

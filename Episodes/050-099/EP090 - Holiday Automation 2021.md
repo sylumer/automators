@@ -1022,12 +1022,12 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 58:17      | Unfortunately, I have no automation to get that information out of your head into the note.          |
 | 58:20      | That still requires some sitting down and thinking about things, but the other side                  |
 | 58:25      | of things, for things that I'm buying, things that I'm wrapping, sending, delivering, etc.           |
-| 58:31      | I went with Airtable because I love Airtable and it's infinitely powerful.                           |
+| 58:31      | I went with [[Airtable]] because I love [[Airtable]] and it's infinitely powerful.                           |
 | 58:37      | And I have to say, I'm really glad I did.                                                            |
 | 58:38      | I tried this out last year.                                                                          |
 | 58:40      | It was really useful for that, and then I've continued it this year.                                 |
 | 58:46      | I rolled it over because for everybody that I have in my contacts, as somebody that I'm              |
-| 58:55      | going to send a card to, I put them in the Airtable as well because then I can have an               |
+| 58:55      | going to send a card to, I put them in the [[Airtable]] as well because then I can have an               |
 | 58:59      | easy filter for whose card have I sent and also what status is their card in.                        |
 | 59:04      | So this sounds ridiculous, but essentially, of course, the label is printed and then the             |
 | 59:11      | card is written and then the card has been posted.                                                   |
@@ -1044,7 +1044,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 59:46      | And then I will be able to wrap the gift and deliver the gift.                                       |
 | 59:49      | But that particular person doesn't.                                                                  |
 | 59:50      | And for that single status field, are you using any automation to change status?                     |
-| 59:54      | Are you doing that manually in Airtable?                                                             |
+| 59:54      | Are you doing that manually in [[Airtable]]?                                                             |
 | 59:56      | No, no, I did look at trying to hook something up.                                                   |
 | 59:59      | I do use Parcel to track all of my incoming deliveries.                                              |
 | 01:00:03   | I previously used a great app called Deliveries.                                                     |

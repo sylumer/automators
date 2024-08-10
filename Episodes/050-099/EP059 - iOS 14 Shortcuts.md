@@ -497,9 +497,9 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 23:23      | Who did you name in?                                                                                     |
 | 23:25      | Finally.                                                                                                 |
 | 23:26      | Yeah.                                                                                                    |
-| 23:27      | Because this finally means that all of those Airtable shortcuts, I no longer have to make                |
+| 23:27      | Because this finally means that all of those [[Airtable]] shortcuts, I no longer have to make                |
 | 23:32      | sure that I am putting all of the right info in every time.                                              |
-| 23:36      | I can just copy it and copy and get contents of URL with the Airtable info and then paste                |
+| 23:36      | I can just copy it and copy and get contents of URL with the [[Airtable]] info and then paste                |
 | 23:43      | or duplicate it or do whatever because if you tap on the, you need to tap on the tiny                    |
 | 23:48      | little app icon representation of the action in the top left and then there's a duplicate,               |
 | 23:54      | there's copy.                                                                                            |

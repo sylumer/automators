@@ -575,9 +575,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 27:37      | it just sits there and whatever happens happens, and there is no need for you personally or            |
 | 27:44      | your devices to be involved, which I think is something that could be a win, having everything         |
 | 27:50      | offline on your machine and doing everything for you, depending on what you're doing.                  |
-| 27:54      | If you're trying to hook up, say, for example, I don't know, Airtable and Google Doc, then             |
+| 27:54      | If you're trying to hook up, say, for example, I don't know, [[Airtable]] and Google Doc, then             |
 | 28:00      | why would you want your Mac to get in the middle of that?                                              |
-| 28:03      | Airtable is online, Google Docs is online.                                                             |
+| 28:03      | [[Airtable]] is online, Google Docs is online.                                                             |
 | 28:06      | It makes sense to bridge that with an online tool, and I think that's what strikes me is               |
 | 28:11      | really interesting about that article that you wrote for the Mystery Puzzle Hunt, where                |
 | 28:18      | it's all online services, and so it makes perfect sense, but I had never really thought                |
@@ -658,9 +658,9 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 33:26      | easier way to do it.                                                                                   |
 | 33:27      | Yeah, yeah, absolutely.                                                                                |
 | 33:29      | And I think that's one of the beauties of these things.                                                |
-| 33:31      | It's great that things like Airtable have got APIs and if you've got an Airtable account               |
-| 33:36      | and you've got a database for people who aren't familiar with the Airtable terminology in              |
-| 33:43      | Airtable.                                                                                              |
+| 33:31      | It's great that things like [[Airtable]] have got APIs and if you've got an [[Airtable]] account               |
+| 33:36      | and you've got a database for people who aren't familiar with the [[Airtable]] terminology in              |
+| 33:43      | [[Airtable]].                                                                                              |
 | 33:44      | They have a custom API page which is automatically generated for your base and then for every          |
 | 33:51      | table in your base and you add some example records and it just populates the whole thing.             |
 | 33:56      | It's amazing and magical.                                                                              |

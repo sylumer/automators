@@ -1024,7 +1024,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 55:32      | Then I've got a whole series of them for show prep for all my various podcasts where it                |
 | 55:36      | takes me to the Google doc or the Quip doc or wherever I'm doing the work.                              |
 | 55:42      | Another one opens up my blogging application.                                                          |
-| 55:45      | Another one goes to Airtable.                                                                          |
+| 55:45      | Another one goes to [[Airtable]].                                                                          |
 | 55:46      | Another one goes to the, I have a bunch of emails and things that I automate when I send               |
 | 55:54      | like a sponsor.                                                                                        |
 | 55:56      | I have to send them an email with preparation.                                                         |

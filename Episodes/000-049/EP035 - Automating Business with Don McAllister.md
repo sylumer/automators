@@ -45,8 +45,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 - [Zapier | The easiest way to automate your work](https://zapier.com/)
 - [Buffer | Social Media Management Software for Growing Brands](https://buffer.com/)
 - [Airtable](https://airtable.com/invite/r/XxNzmsB9)
-- [ Airtable - Database for Mac and iOS - Part 1 : ScreenCastsOnline](https://screencastsonline.com/tutorials/utility-apps/airtable-database-for-mac-and-ios-part-1?ref=cascades42)
-- [ Airtable - Database for Mac and iOS - Part 2 : ScreenCastsOnline](https://screencastsonline.com/tutorials/utility-apps/airtable-database-for-mac-and-ios-part-2?ref=cascades42)
+- [Airtable - Database for Mac and iOS - Part 1 : ScreenCastsOnline](https://screencastsonline.com/tutorials/utility-apps/airtable-database-for-mac-and-ios-part-1?ref=cascades42)
+- [Airtable - Database for Mac and iOS - Part 2 : ScreenCastsOnline](https://screencastsonline.com/tutorials/utility-apps/airtable-database-for-mac-and-ios-part-2?ref=cascades42)
 - [Transcribe Audio to Text | Transcription Company & Website - Rev](https://www.rev.com/)
 - [Podio Workflow Automation with GlobiFlow for Podio made Easy](https://www.globiflow.com/)
 - [AppleScript and Pages: Placeholder Text, Script Tags, and Data Merge](https://iworkautomation.com/pages/script-tags-data-merge.html)
@@ -243,9 +243,9 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 09:08      | automation you do on your local machine.                                                               |
 | 09:11      | Well, it is really because most of these services, in fact, all of these services, they're all         |
 | 09:15      | seven operations, they all use fancy things like web hooks or polling, not just your                   |
-| 09:23      | local machine, but, you know, we'll talk later, I use Airtable a lot.                                   |
-| 09:26      | We have a lot of data in Airtable and I use Zapier to go ahead and extract information                  |
-| 09:31      | from Airtable and put it somewhere else and that's all sort of polling on a regular basis.              |
+| 09:23      | local machine, but, you know, we'll talk later, I use [[Airtable]] a lot.                                   |
+| 09:26      | We have a lot of data in [[Airtable]] and I use Zapier to go ahead and extract information                  |
+| 09:31      | from [[Airtable]] and put it somewhere else and that's all sort of polling on a regular basis.              |
 | 09:35      | So, you know, it's unattended automation.                                                              |
 | 09:38      | You don't have to run any scripts or anything.                                                         |
 | 09:39      | You can just sort of leave it running in the background and when something happens, the                |
@@ -269,27 +269,27 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 10:43      | And that's the case with Zapier, you know, there's hundreds, if not thousands of applications          |
 | 10:46      | and services that you can automate using that as a glue between them.                                  |
 | 10:50      | Yeah, and you don't have to, you know, you can't kid yourself about these things.                      |
-| 10:53      | These are web services, like I do a lot of work in Airtable and recently I was working                 |
-| 10:58      | on a large database in Airtable and it was just so slow as a movie in between fields                   |
-| 11:03      | and I realised I was using the Mac app, the Airtable app, so I went over to the web version            |
+| 10:53      | These are web services, like I do a lot of work in [[Airtable]] and recently I was working                 |
+| 10:58      | on a large database in [[Airtable]] and it was just so slow as a movie in between fields                   |
+| 11:03      | and I realised I was using the Mac app, the [[Airtable]] app, so I went over to the web version            |
 | 11:10      | and it was super snappy, you know, it's like, oh yeah, what am I doing?                                |
 | 11:13      | This is a web app, I have to treat it like a web app, just use it in the web.                          |
 | 11:17      | Yeah, that's definitely, and also in a lot of the, you know, when I'm writing procedures               |
-| 11:22      | for people to follow things in web apps, to follow things in Airtable, you know, I'll                  |
-| 11:27      | actually put the URL of the Airtable table so that they can just click on a link and                   |
+| 11:22      | for people to follow things in web apps, to follow things in [[Airtable]], you know, I'll                  |
+| 11:27      | actually put the URL of the [[Airtable]] table so that they can just click on a link and                   |
 | 11:31      | go straight to that table.                                                                             |
-| 11:33      | It's very rarely that I actually use the Mac app for Airtable now, I use it solely as                  |
+| 11:33      | It's very rarely that I actually use the Mac app for [[Airtable]] now, I use it solely as                  |
 | 11:38      | a web-based platform.                                                                                  |
 | 11:39      | Yeah, me too, I've switched, so I have previously been using the iOS and the Mac apps for capture      |
-| 11:46      | of certain things into Airtable bases, but I've switched to doing all of that with [[Drafts]]             |
-| 11:51      | and some custom draft sections that save things into Airtable or shortcuts because it's faster         |
+| 11:46      | of certain things into [[Airtable]] bases, but I've switched to doing all of that with [[Drafts]]             |
+| 11:51      | and some custom draft sections that save things into [[Airtable]] or shortcuts because it's faster         |
 | 11:57      | because it's using their API, I get a native experience and of course, you know, I then                |
-| 12:02      | don't have to have Airtable open and most of these web applications, which are also                    |
+| 12:02      | don't have to have [[Airtable]] open and most of these web applications, which are also                    |
 | 12:07      | a Mac app, that's a Mac app in air quotes because it's not written for your Mac, it                    |
 | 12:13      | is just a web wrapper, so it won't work offline, for example, and that is the downside to things       |
 | 12:18      | like this, you know, it won't work offline, so if you're on a plane somewhere, then well,              |
-| 12:22      | you can't check in on Airtable, but you could write everything into [[Drafts]] and have a draft            |
-| 12:26      | section save that to Airtable afterwards, so that's what I do.                                         |
+| 12:22      | you can't check in on [[Airtable]], but you could write everything into [[Drafts]] and have a draft            |
+| 12:26      | section save that to [[Airtable]] afterwards, so that's what I do.                                         |
 | 12:30      | Yeah, that is a point, you know, with all these web services, you are dependent on an                  |
 | 12:35      | internet connection, but, you know, how often do you not have an internet connection?                  |
 | 12:40      | Well even on planes nowadays.                                                                          |
@@ -388,7 +388,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 17:52      | slash Automator's.                                                                                     |
 | 17:53      | Our thanks to Bottomless for their support of this show and all of Relay FM.                          |
 | 18:00      | So Don, one of the things you were saying before we took a break is this interaction                   |
-| 18:05      | between your Airtable database and your [[SQL]] database or [[SQL]], depending on what religion                |
+| 18:05      | between your [[Airtable]] database and your [[SQL]] database or [[SQL]], depending on what religion                |
 | 18:10      | you are.                                                                                               |
 | 18:12      | And with the Screencast Online website, can you explain how that works and how it got                  |
 | 18:17      | built?                                                                                                 |
@@ -417,36 +417,36 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 19:40      | required for the show, and we'd just copy that into a form on the website, hit Submit,                 |
 | 19:45      | and that record would be created, and then the show page would appear when the publication             |
 | 19:49      | date came around.                                                                                      |
-| 19:51      | And then I started to use Airtable for different things.                                                |
-| 19:55      | Really like Airtable.                                                                                   |
+| 19:51      | And then I started to use [[Airtable]] for different things.                                                |
+| 19:55      | Really like [[Airtable]].                                                                                   |
 | 19:56      | It's a great tool, very, very easy to use.                                                             |
-| 19:59      | So rather than sort of learn how to use [[SQL]] properly, Airtable is really quick to use and               |
+| 19:59      | So rather than sort of learn how to use [[SQL]] properly, [[Airtable]] is really quick to use and               |
 | 20:04      | you can just knock something together very, very quickly.                                              |
-| 20:07      | And I ended up pretty much replicating the show's database in Airtable, just because it                 |
+| 20:07      | And I ended up pretty much replicating the show's database in [[Airtable]], just because it                 |
 | 20:12      | was easier for me to use.                                                                              |
 | 20:14      | And then I thought, well, hang on, I've got this information in two places now.                        |
-| 20:18      | So why don't I start the information off in Airtable and then transfer it across to the                 |
+| 20:18      | So why don't I start the information off in [[Airtable]] and then transfer it across to the                 |
 | 20:22      | [[SQL]] database?                                                                                          |
 | 20:23      | And basically over time, that's what's happened.                                                       |
 | 20:25      | So we sort of replicate the same fields, et cetera, that are in the [[SQL]] database.                      |
-| 20:30      | And then various people add the information into Airtable as we're building up the show.                |
+| 20:30      | And then various people add the information into [[Airtable]] as we're building up the show.                |
 | 20:36      | And then once we're happy and once everything's in there, it's basically just a matter of              |
-| 20:40      | clicking on a checkbox in Airtable.                                                                     |
+| 20:40      | clicking on a checkbox in [[Airtable]].                                                                     |
 | 20:43      | Once a record has that checkbox clicked, it goes into a special view.                                  |
 | 20:49      | And then we use Zapier to have a look at this view.                                                    |
 | 20:52      | So it pulls this view every five minutes.                                                              |
-| 20:54      | And if a new record appears in the Airtable view, and it appears because the checkbox                   |
+| 20:54      | And if a new record appears in the [[Airtable]] view, and it appears because the checkbox                   |
 | 20:58      | is ticked, there is a built-in, or there's some integration in Zapier that allows you                  |
-| 21:03      | to extract from Airtable and inject into [[SQL]].                                                           |
+| 21:03      | to extract from [[Airtable]] and inject into [[SQL]].                                                           |
 | 21:07      | So it basically does that.                                                                             |
 | 21:08      | So Zapier checks every five minutes.                                                                   |
-| 21:10      | If it sees a new show in Airtable in this view, it will take that information and it will               |
+| 21:10      | If it sees a new show in [[Airtable]] in this view, it will take that information and it will               |
 | 21:14      | squirt it into [[SQL]].                                                                                    |
 | 21:16      | And then at that point, a new show page has been created, and all we need to do then is                |
 | 21:20      | just go across and just double check that everything's OK.                                             |
 | 21:23      | And then when the publication date comes around, it gets published automatically.                      |
-| 21:27      | Now, one of the challenges with Airtable and Zapier is the number of times you can pull                 |
-| 21:34      | or pull an Airtable record through Zapier to stick into your web-based automation.                      |
+| 21:27      | Now, one of the challenges with [[Airtable]] and Zapier is the number of times you can pull                 |
+| 21:34      | or pull an [[Airtable]] record through Zapier to stick into your web-based automation.                      |
 | 21:41      | And we've heard from listeners who hear our show and they're like, hey, I want to do this.             |
 | 21:44      | But they oftentimes run into the problem that you're solving with that checkbox.                       |
 | 21:49      | Could you explain that just a little bit more?                                                         |
@@ -464,7 +464,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 22:34      | And as soon as it sees a new entry, it will fire.                                                      |
 | 22:37      | But because that is no longer a new entry, once it's fired the first time, it doesn't                  |
 | 22:41      | fire again afterwards.                                                                                 |
-| 22:42      | Yeah, that's where the limitations of Zapier and Airtable when it's watching an Airtable                 |
+| 22:42      | Yeah, that's where the limitations of Zapier and [[Airtable]] when it's watching an [[Airtable]]                 |
 | 22:47      | base.                                                                                                  |
 | 22:48      | So if this is limited to the entire base, it will only trigger on the appearance of                    |
 | 22:53      | a record once.                                                                                         |
@@ -479,7 +479,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 23:21      | triggering.                                                                                            |
 | 23:22      | And I was trying to figure that out, and I talked to the Zapier staff, and definitely                  |
 | 23:25      | the point and time where I talked to them, it was a limitation of, well, you've already                |
-| 23:30      | had an automation run on the Airtable record.                                                           |
+| 23:30      | had an automation run on the [[Airtable]] record.                                                           |
 | 23:33      | The fact that the record has changed in between is beside the point, but there are other ways          |
 | 23:38      | to get around it.                                                                                      |
 | 23:39      | So for example, I often trigger Zapier by saying, hey, here is a record ID.                            |
@@ -493,7 +493,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 24:03      | contents of URL in shortcuts and just send it to it.                                                   |
 | 24:07      | And that's usually what I do.                                                                          |
 | 24:08      | And I just say, hey, this app should be triggered with this record ID, please.                         |
-| 24:14      | You can create a formula in Airtable to show your record ID in a column.                                |
+| 24:14      | You can create a formula in [[Airtable]] to show your record ID in a column.                                |
 | 24:19      | So I just copy that and send it off.                                                                   |
 | 24:22      | So you're pushing a button to manually send it over?                                                   |
 | 24:24      | Yeah, yeah, which is not ideal, but at the same time, if I have to manually do work in                 |
@@ -520,16 +520,16 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 25:39      | But that's just a little workaround that I do sometimes.                                               |
 | 25:42      | Yeah, we're so close on this stuff, but sometimes it does take just a little bit of nudging.           |
 | 25:49      | Oh, yes.                                                                                               |
-| 25:50      | So, in general, you're happy with Airtable though, sounds like.                                        |
-| 25:53      | Yeah, I love Airtable.                                                                                 |
+| 25:50      | So, in general, you're happy with [[Airtable]] though, sounds like.                                        |
+| 25:53      | Yeah, I love [[Airtable]].                                                                                 |
 | 25:55      | We use it for lots of...                                                                               |
-| 25:57      | The nice thing is with Airtable, and the reason why I use it is that it's quite easy                   |
+| 25:57      | The nice thing is with [[Airtable]], and the reason why I use it is that it's quite easy                   |
 | 26:03      | to let other people get access to it.                                                                  |
 | 26:06      | So I've not got people directly integrating or interfacing with the main screencast online             |
 | 26:12      | database because that's sacrosanct because that's the live database that the website                   |
 | 26:18      | uses to generate the shows and that's where all my customers go to get the content.                    |
-| 26:24      | Whereas with the Airtable database, we can go in there, we can screw things up, we can                 |
-| 26:28      | put things in incorrectly, and it's not customer facing, so we can get that right in Airtable          |
+| 26:24      | Whereas with the [[Airtable]] database, we can go in there, we can screw things up, we can                 |
+| 26:28      | put things in incorrectly, and it's not customer facing, so we can get that right in [[Airtable]]          |
 | 26:32      | and then once we're happy, we can then automate and ship across to the live database.                  |
 | 26:37      | So it's just like a stageing post, really, and it's so easy to use, it's really good.                   |
 | 26:42      | I'm just right on the hairy edge of becoming a subscriber because they're very generous                |
@@ -539,29 +539,29 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 27:02      | I think I'm probably headed that direction.                                                            |
 | 27:05      | I hit the limit of records in the free bases quite some time ago, so I've been paying just             |
 | 27:13      | for one above the base plan, which gives you a lot more records, and that's keeping me                 |
-| 27:18      | going for now, but I can see more Airtable in my future, so I'll probably end up going                 |
+| 27:18      | going for now, but I can see more [[Airtable]] in my future, so I'll probably end up going                 |
 | 27:23      | up another level.                                                                                      |
-| 27:24      | Well, one of the benefits of doing Screencast Online is that I did several shows on Airtable           |
+| 27:24      | Well, one of the benefits of doing Screencast Online is that I did several shows on [[Airtable]]           |
 | 27:29      | a while ago and included a referral link, so I think I'm still using the proceeds of                   |
-| 27:35      | those referral links to pay for my Airtable access, but once that runs out, I'll definitely            |
+| 27:35      | those referral links to pay for my [[Airtable]] access, but once that runs out, I'll definitely            |
 | 27:42      | be paying for it anyway.                                                                               |
 | 27:44      | It is a great service, and it's an excellent stageing place for automation, if you want                 |
 | 27:49      | to do web-based automation because it works with everything.                                           |
 | 27:52      | Absolutely.                                                                                            |
-| 27:53      | All right, so when you're creating this connection between [[SQL]] and Airtable, so you're using           |
-| 27:59      | Airtable and Zapier, those are your key platforms.                                                     |
+| 27:53      | All right, so when you're creating this connection between [[SQL]] and [[Airtable]], so you're using           |
+| 27:59      | [[Airtable]] and Zapier, those are your key platforms.                                                     |
 | 28:04      | How did you come on Zapier?                                                                            |
 | 28:08      | I'm not sure how I came across it because I use it for lots of different things now.                   |
 | 28:13      | Another big piece of automation that I use Zapier for is regular social media updates,                 |
-| 28:21      | so when a show gets published, I use Buffer, so I integrate between Airtable, Zapier and               |
-| 28:28      | Buffer, so basically, again, we put some information into Airtable that gets extracted                 |
+| 28:21      | so when a show gets published, I use Buffer, so I integrate between [[Airtable]], Zapier and               |
+| 28:28      | Buffer, so basically, again, we put some information into [[Airtable]] that gets extracted                 |
 | 28:36      | by Zapier and placed into Buffer, and Buffer is a service which will automatically post                |
 | 28:42      | social media updates for you, so when a show is published or when a magazine is published,             |
 | 28:47      | it's like the tagline of the show, and the tile I mentioned before, we generate some                   |
 | 28:54      | tiles automatically, but basically, we can then publish that in Facebook, Twitter, LinkedIn,           |
 | 29:03      | so it will publish two entries on each service, the day of publication, and then two or three          |
 | 29:09      | days later, it will republish them again, again, all based on extracting information                   |
-| 29:14      | from Airtable using Zapier, and then using Zapier to push that information to Buffer,                  |
+| 29:14      | from [[Airtable]] using Zapier, and then using Zapier to push that information to Buffer,                  |
 | 29:19      | and then Buffer automates the process of publishing to the very social media platforms.                |
 | 29:24      | That was the original, I think that was the first thing that I came across Zapier for,                 |
 | 29:29      | that's what I wanted to do, and I sort of used it to that and then saw that we could                   |

@@ -885,7 +885,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:12:48   | what holes not to go down. Yeah, definitely. I mean, as it is, I actually have been working             |
 | 01:12:54   | on some authentication stuff at my day job recently. So I'm pretty certain I wouldn't                   |
 | 01:12:58   | have a problem with it. But why would I do that when I can just proxy it through Zapier,                |
-| 01:13:02   | which also adds everything to Airtable for me and does a bunch of other things all at the same          |
+| 01:13:02   | which also adds everything to [[Airtable]] for me and does a bunch of other things all at the same          |
 | 01:13:06   | time. And I should mention that Basecamp recently released a free personal plan for everybody.          |
 | 01:13:11   | It was previously just for students and you had to send in proof of being a student.                    |
 | 01:13:14   | Now it's for everybody. So everybody can have a play with Basecamp. And it's it's got a lot of          |

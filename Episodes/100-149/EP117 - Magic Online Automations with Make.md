@@ -1301,7 +1301,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:15:52   | It doesn't matter if we have a couple of extra Google Sheets like Google Docs kicking                     |
 | 01:15:55   | around in Google Drive.                                                                                   |
 | 01:15:58   | It's not a big deal.                                                                                      |
-| 01:15:59   | We know which ones are right because they're linked in Airtable.                                          |
+| 01:15:59   | We know which ones are right because they're linked in [[Airtable]].                                          |
 | 01:16:03   | So it's easy enough to handle them.                                                                       |
 | 01:16:07   | So yeah, yeah.                                                                                            |
 | 01:16:09   | And then I get a little bit fancy because when I create the document in the outline,                      |
