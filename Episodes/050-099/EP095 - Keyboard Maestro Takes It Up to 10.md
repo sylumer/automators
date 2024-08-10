@@ -510,7 +510,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 29:07      | But the ability to do this, so I do do like diagonal opposites on my keyboard usually.                   |
 | 29:15      | That's my combination for that, and that makes it quite easy.                                            |
 | 29:20      | Well, and just kind of related since we have invoked the name [[Stream Deck]] is people are                  |
-| 29:25      | writing us about the [[Stream Deck#Stream Deck Pedal]].                                                                  |
+| 29:25      | writing us about the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].                                                                  |
 | 29:28      | Oh yeah, I've ordered one, David, I've ordered one.                                                      |
 | 29:31      | It should be coming in about a week or so as this episode releases, fingers crossed.                     |
 | 29:39      | But it's not here yet.                                                                                   |
@@ -730,7 +730,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 44:47      | used to have three sizes, but just looking on Amazon real quickly.                                       |
 | 44:50      | I don't even see that they have the big one for sale anymore.                                            |
 | 44:54      | I did see them the other day when I was having a look and I was just having a look on their              |
-| 44:59      | website and they do seem to be focusing on their [[Stream Deck#Stream Deck MK 2]], which is the medium               |
+| 44:59      | website and they do seem to be focusing on their [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]], which is the medium               |
 | 45:05      | size one or standard as it was before.                                                                   |
 | 45:10      | But I wonder if they do still have the others and their, their, their web shop is not necessarily        |
 | 45:15      | showing me everything.                                                                                   |

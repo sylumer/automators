@@ -1610,7 +1610,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:29:55   | So going back to the macro pad, are you using things like a [[Stream Deck]] or similar as well                |
 | 01:30:02   | for videos or are you just all in on the macro pads?                                                      |
 | 01:30:05   | So right now I'm all in on the macro pad, but [[Stream Deck]] actually just sent me the                       |
-| 01:30:10   | new [[Stream Deck#Stream Deck+]].                                                                                     |
+| 01:30:10   | new [[Stream Deck#Stream Deck+\|Stream Deck+]].                                                                                     |
 | 01:30:11   | Oh, I love it.                                                                                            |
 | 01:30:12   | I love it.                                                                                                |
 | 01:30:13   | Disclosure.                                                                                               |
@@ -1635,7 +1635,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:31:02   | It's worth it.                                                                                            |
 | 01:31:03   | So the OBS stuff, the Zoom stuff, I don't do a whole lot of those kinds of things.                        |
 | 01:31:08   | Like I don't do a lot, a lot of live streaming or anything like that.                                     |
-| 01:31:12   | So for me, the [[Stream Deck#Stream Deck+]] the only really, the thing that I only use the knobs for was              |
+| 01:31:12   | So for me, the [[Stream Deck#Stream Deck+\|Stream Deck+]] the only really, the thing that I only use the knobs for was              |
 | 01:31:17   | volume control.                                                                                           |
 | 01:31:18   | It was nice to have there that you could do that.                                                         |
 | 01:31:20   | But like the regular [[Stream Deck]], the 15, 16 button one, whatever the normal, the normal                  |
@@ -1665,7 +1665,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:32:41   | Um, but yeah, it's, it's, it's one of those things where setting it up, it takes a little                 |
 | 01:32:46   | bit of work, but I feel like it's worth it.                                                               |
 | 01:32:48   | And I, I've really been trying to get more stuff onto the [[Stream Deck]] and, and was particularly           |
-| 01:32:53   | with the [[Stream Deck#Stream Deck+]], uh, the, the touch bar, I, I need to check if there's an update                |
+| 01:32:53   | with the [[Stream Deck#Stream Deck+\|Stream Deck+]], uh, the, the touch bar, I, I need to check if there's an update                |
 | 01:32:57   | for [[BetterTouchTool]].                                                                                    |
 | 01:32:58   | Cause, um, I, I've enabled the alpha and I know that last time I checked, um, the, um,                    |
 | 01:33:06   | the touch screen was not yet supported and neither was like a double press on the knobs                   |

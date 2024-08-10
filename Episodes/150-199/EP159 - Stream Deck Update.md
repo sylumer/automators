@@ -128,7 +128,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 03:03      | I thought maybe we'd start by just checking in on the body count.                                                                                                       |
 | 03:08      | How many [[Stream Deck\|Stream Decks]] do you own at this point, Rose?                                                                                                  |
 | 03:11      | Okay, so I've got my [[Stream Deck#Stream Deck XL\|Stream Deck XL]], [[Stream Deck#Stream Deck+\|Stream Deck+]],                                                        |
-| 03:15      | [[Stream Deck#Stream Deck Pedal]], [[Stream Deck#Stream Deck Neo\|Stream Deck Neo]] ,                                                                                   |
+| 03:15      | [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]], [[Stream Deck#Stream Deck Neo\|Stream Deck Neo]] ,                                                                                   |
 | 03:17      | and [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]].                                                                                                                 |
 | 03:21      | That's five.                                                                                                                                                            |
 | 03:22      | I have five [[Stream Deck\|Stream Decks]].                                                                                                                              |
@@ -168,7 +168,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 05:17      | This is in addition to the switches and flips and so on on their guitar.                                                                                                |
 | 05:21      | If you think of piano pedals, as you hold a piano pedal, that changes the sound of how                                                                                  |
 | 05:26      | the piano plays.                                                                                                                                                        |
-| 05:27      | Well, a [[Stream Deck#Stream Deck Pedal]] is very much a similar concept in that it's only three pedals,                                                                |
+| 05:27      | Well, a [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] is very much a similar concept in that it's only three pedals,                                                                |
 | 05:33      | but that's quite good because I can easily distinguish between those three with my feet,                                                                                |
 | 05:37      | because the middle one is... I was really silly last week.                                                                                                              |
 | 05:41      | I was wearing sneakers, David.                                                                                                                                          |
@@ -184,7 +184,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 06:19      | a timestamp into the show notes and then it pops up a little thing for me to say, hey,                                                                                  |
 | 06:24      | what sort of timestamp do you want to input to give me a little hand if it's like a chapter                                                                             |
 | 06:28      | marker or a cough mark or something so that we can pass that on to our editor?                                                                                          |
-| 06:32      | I honestly think the [[Stream Deck#Stream Deck Pedal]], despite it only being three buttons, is underrated.                                                             |
+| 06:32      | I honestly think the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]], despite it only being three buttons, is underrated.                                                             |
 | 06:39      | It's a very sneaky little... It's not super visible, but it just means that you've got                                                                                  |
 | 06:45      | your feet there anyway, right?                                                                                                                                          |
 | 06:47      | You can just press a button and then the thing happens without you really needing to move                                                                               |
@@ -324,7 +324,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 17:03      | a developer and you're trying to run services and stuff, it gets a little bit hairy at times.                                                                           |
 | 17:06      | So I just switch machines if I need to do a little podcast for lunchtime.                                                                                               |
 | 17:10      | And that means that my Mac Studio is always ready to go.                                                                                                                |
-| 17:14      | But as part of this, I switch my keyboard and mouse and [[Stream Deck#Stream Deck Pedal]] and [[Stream Deck#Stream Deck XL\|Stream Deck XL]]                            |
+| 17:14      | But as part of this, I switch my keyboard and mouse and [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] and [[Stream Deck#Stream Deck XL\|Stream Deck XL]]                            |
 | 17:21      | between my two machines.                                                                                                                                                |
 | 17:25      | I use, it's actually a USB switch.                                                                                                                                      |
 | 17:28      | It's sort of similar to a [[KVM Switch\|KVM]] for anybody familiar with those.                                                                                          |
@@ -356,12 +356,12 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 19:17      | [[Stream Deck]] entirely.                                                                                                                                               |
 | 19:19      | And I was just wondering, where are you on that these days?                                                                                                             |
 | 19:24      | So it depends on what machine I'm using, actually.                                                                                                                      |
-| 19:28      | So on my laptop, I am using [[BetterTouchTool]] to control my [[Stream Deck#Stream Deck XL]] or the                                                                     |
+| 19:28      | So on my laptop, I am using [[BetterTouchTool]] to control my [[Stream Deck#Stream Deck XL\|Stream Deck XL]] or the                                                                     |
 | 19:35      | [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]] that I have as my on-the-go device, because, of course, I have a [[Stream Deck]]                                     |
 | 19:41      | in my portable office bag.                                                                                                                                              |
 | 19:43      | And yeah, so that's what I'm using there.                                                                                                                               |
 | 19:46      | And then on my Mac Studio, I am using [[Elgato\|Elgato's]] software, just because I use [[Ecamm Live\|Ecamm]] a lot for                                                 |
-| 19:55      | [[iOS Today]] and some other things as well, which allows me to do things like use my [[Stream Deck#Stream Deck Pedal]]                                                 |
+| 19:55      | [[iOS Today]] and some other things as well, which allows me to do things like use my [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]]                                                 |
 | 20:00      | to pop up my iPhone on screen or to pop up my iPad on screen, or to switch back                                                                                         |
 | 20:05      | to just a view of me.                                                                                                                                                   |
 | 20:07      | And that's not something that's easy to do without support from [[Ecamm Live\|Ecamm]].                                                                                  |
@@ -782,7 +782,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 48:42      | there is no way to switch profile with it, which is really frustrating.                                                                                                 |
 | 48:47      | So you kind of have to like, what I've done is I've dedicated a button.                                                                                                 |
 | 48:52      | It is usually in the top right.                                                                                                                                         |
-| 48:56      | I currently have my [[Stream Deck#Stream Deck Pedal]] button there.                                                                                                     |
+| 48:56      | I currently have my [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] button there.                                                                                                     |
 | 48:58      | So I'm going to have to shuffle some things around because obviously I was messing with                                                                                 |
 | 49:01      | stuff earlier and I moved some things unintentionally.                                                                                                                  |
 | 49:05      | But yeah, but usually the button in the top right opens a folder which has the different                                                                                |

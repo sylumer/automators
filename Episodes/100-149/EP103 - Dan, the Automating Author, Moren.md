@@ -885,7 +885,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 48:10      | that I use pretty frequently when I'm recording a podcast to like sort of hit a button on my           |
 | 48:15      | [[Stream Deck]] and be like, oh, yep, got it. Cross talk there or something. Got to take that out.         |
 | 48:19      | And it's a great workflow. I was going to say, I have something similar, which I stole                 |
-| 48:25      | from a previous guest on the show, which I'm using the [[Stream Deck#Stream Deck Pedal]] and I'm curious,              |
+| 48:25      | from a previous guest on the show, which I'm using the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] and I'm curious,              |
 | 48:29      | [[Stream Deck]] or streamed at pedal or both? I've only used the stream. I just, I have,                   |
 | 48:34      | I'm still in the introductory [[Stream Deck]]. I have the six button. I know I haven't done the trade,     |
 | 48:38      | trade, you know, give it to a friend and then buy the bigger version yet, but I see how you people     |

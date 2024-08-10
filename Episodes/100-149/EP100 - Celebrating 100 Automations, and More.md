@@ -1858,7 +1858,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:14:23   | but it comes in a left-handed and a right-handed mode.            |
 | 01:14:26   | And so, yeah.                                                     |
 | 01:14:28   | With that, the multiple [[Stream Deck\|Stream Decks]]                              |
-| 01:14:30   | because the [[Stream Deck]] plus the [[Stream Deck#Stream Deck Pedal]], yeah.         |
+| 01:14:30   | because the [[Stream Deck]] plus the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]], yeah.         |
 | 01:14:34   | I definitely have a lot of input devices                          |
 | 01:14:37   | running around on my desk.                                        |
 | 01:14:38   | All right, let's talk about that at some point.                   |
