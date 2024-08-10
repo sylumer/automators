@@ -261,14 +261,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 11:16      | It's almost like a cattle prod to just get me going and like, hey, you got to get to                      |
 | 11:22      | work.                                                                                                     |
 | 11:23      | Oh yeah, this is... When I hit the snooze button on my alarm, if it's my wake up alarm,                   |
-| 11:28      | then it runs a shortcuts action using a great app called Signals for HomeKit.                             |
-| 11:34      | What that does is, Signals can flash lights to specific colours and brightnesses and then                  |
+| 11:28      | then it runs a shortcuts action using a great app called [[Signals for HomeKit]].                             |
+| 11:34      | What that does is, [[Signals for HomeKit\|Signals]] can flash lights to specific colours and brightnesses and then                  |
 | 11:38      | restore them to how they were or set them to something else.                                              |
 | 11:42      | What this does is when I hit snooze, it actually increases the volume on my HomePods.                    |
 | 11:50      | Not by a lot, to be clear, because again, I have neighbours and I want them to not want                    |
 | 11:55      | to evict me or murder me.                                                                                 |
 | 11:56      | That seems like a good idea.                                                                              |
-| 11:57      | It increases the volume on my HomePods slightly and then flashes my bedroom lights in a blue             |
+| 11:57      | It increases the volume on my [[HomePod\|HomePods]] slightly and then flashes my bedroom lights in a blue             |
 | 12:04      | colour or a white colour, depending on just a semi-random pick, so that I can actually                      |
 | 12:13      | flash lights at myself really, really brightly, and then it sets them to a cool white and                 |
 | 12:19      | 100% to try and get me to wake up.                                                                        |

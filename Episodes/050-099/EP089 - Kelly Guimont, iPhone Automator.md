@@ -645,13 +645,13 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 49:06      | and then go, okay, well, you know, it's late enough, I can just turn it all off without having to go     |
 | 49:09      | outside makes it very, very convenient. Yeah, I bet. Which app are you using to do the effects           |
 | 49:15      | with the hue lights? Because that's one of the things I have played with in a couple of different        |
-| 49:20      | ways. And I'm currently using a great app called signals for home kit, which basically will let          |
+| 49:20      | ways. And I'm currently using a great app called [[Signals for HomeKit]], which basically will let          |
 | 49:26      | me run a short connection and that will do things like flash my lights or something. And I've got        |
 | 49:31      | this attached to my snooze. So if I snooze my alarm in the morning, it flashes the lights in my          |
 | 49:36      | bedroom obnoxiously bright, and then sets them fairly bright as a hey, Rose, you know that that          |
 | 49:43      | thing about oversleeping that that's not good, you shouldn't be doing that prompt. But I've not          |
-| 49:49      | had anything for for, you know, like actual effects that are continuous, because the signals for         |
-| 49:57      | home kit, they are supposed to be a signal. So they're short. And then they stop. And that's it.         |
+| 49:49      | had anything for for, you know, like actual effects that are continuous, because the [[Signals for HomeKit]]         |
+| 49:57      | they are supposed to be a signal. So they're short. And then they stop. And that's it.         |
 | 50:02      | And so what are you using for this? Yeah, I think I'm not going to remember the one                      |
 | 50:10      | for the breathing. But I've used Ambify is one that I've used for with music. So I do have a             |
 | 50:18      | bunch of them in the in my house has a basement. So I have a bunch of hue lights in the basement.        |

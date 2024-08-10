@@ -147,7 +147,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 04:35      | So I can have it illuminate in particular colours as a visible sign to me of, okay, Scotty,              |
 | 04:45      | now is the time in which you're meant to be planning.                                                   |
 | 04:47      | So see the light, that means plan or see this light at the end of the day, that means reflect.          |
-| 04:54      | And through the magic of the signals app, which Rose, you turn me on to, there are shortcuts            |
+| 04:54      | And through the magic of the [[Signals for HomeKit\|Signals]] app, which Rose, you turn me on to, there are shortcuts            |
 | 05:01      | actions that allow you to do like some different stuff with your light.                                 |
 | 05:06      | So I have it as part of the shortcut flash the light five times and then turn red so                    |
 | 05:13      | that I know, okay, here's the warning, here it comes, and now it's red.                                 |
@@ -164,9 +164,9 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 05:55      | And at the same time, it's also like annoying to set up invasive alarms for everything.                 |
 | 05:59      | So I found that like a light as an ambient signal of, hey, Scotty, here's stuff you're                  |
 | 06:04      | meant to do right now has been really, really effective.                                                |
-| 06:08      | So Scotty, not everybody's familiar with the signals out there.                                         |
+| 06:08      | So Scotty, not everybody's familiar with [[Signals for HomeKit\|Signals]] out there.                                         |
 | 06:11      | Tell us about it more.                                                                                  |
-| 06:12      | I'm not going to proclaim to be an expert in the signals app, but essentially it allows                 |
+| 06:12      | I'm not going to proclaim to be an expert in the [[Signals for HomeKit\|Signals]] app, but essentially it allows                 |
 | 06:16      | you to create shortcuts actions that tell your light to do stuff.                                       |
 | 06:22      | And I think it basically means flashing mostly or and you can you can set here's what colour,            |
 | 06:31      | here's the interval at which to flash and here's how long to flash for and so on.                       |
@@ -195,9 +195,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 08:07      | So he knows, you know, like, this is your final warning.                                                |
 | 08:09      | I'm here.                                                                                               |
 | 08:10      | I'm here.                                                                                               |
-| 08:11      | I'm here to get this or whatever it is, you know, but yeah, I like signals for home                     |
-| 08:15      | kit.                                                                                                    |
-| 08:16      | Micah Sargent is actually the one that turned me onto this because I think the idea is like              |
+| 08:11      | I'm here to get this or whatever it is, you know, but yeah, I like [[Signals for HomeKit]]              |
+| 08:16      | [[Micah Sargent]] is actually the one that turned me onto this because I think the idea is like              |
 | 08:19      | parents telling their kids it's time for dinner or something, but you can use it with any               |
 | 08:24      | of your personal shortcuts.                                                                             |
 | 08:26      | It doesn't have home kit.                                                                               |

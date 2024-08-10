@@ -742,7 +742,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 57:21      | the idea of. This is a personal automation I have in shortcuts. Okay, there's actually two,             |
 | 57:27      | two parcels. So first of all, I use the sleep focus and sleep mode with the health app on my            |
 | 57:31      | iPhone. So when my wake up alarm is snoozed in the morning, what actually happens is it uses            |
-| 57:38      | a great little app called signals for home kit, and it flashes my bedside lights as brightly as         |
+| 57:38      | a great little app called [[Signals for HomeKit]], and it flashes my bedside lights as brightly as         |
 | 57:43      | it they can go. And it's a really sort of horrible greeny yellow colour. It's not a good colour.          |
 | 57:49      | It's my punishment for hitting the switch button. Does it seem to be the most irritating to you?        |
 | 57:53      | Exactly. And it also slightly increases the volume of my HomePod. Not a lot, but it increased the      |
