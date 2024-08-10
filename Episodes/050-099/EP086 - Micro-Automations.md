@@ -1383,8 +1383,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:18:29   | Yes.                                                                                                    |
 | 01:18:30   | Yeah, the only thing is, is I do keep thinking it's got Face ID and staring at it and smiling           |
 | 01:18:34   | and wondering why it doesn't unlock because it's got Touch ID built into the power button.              |
-| 01:18:39   | But it does have centre stage, David, it is a great zoom iPad, FaceTime iPad and stuff                  |
-| 01:18:43   | when I'm talking to my parents or my grandparents on FaceTime, then it works really well there.         |
+| 01:18:39   | But it does have centre stage, David, it is a great zoom iPad, [[FaceTime]] iPad and stuff                  |
+| 01:18:43   | when I'm talking to my parents or my grandparents on [[FaceTime]], then it works really well there.         |
 | 01:18:49   | So I really like that.                                                                                  |
 | 01:18:51   | I'd add that the iPad mini is an excellent consumption tool.                                            |
 | 01:18:55   | If you have a lot of Kindle books, if you have Marvel Unlimited, [[Apple Books]], if there's                |

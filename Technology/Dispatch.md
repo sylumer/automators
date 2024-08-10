@@ -32,7 +32,7 @@ The following apps were supported in quick actions.
 - Droplr
 - Due
 - [[Evernote]]
-- FaceTime
+- [[FaceTime]]
 - [[Fantastical]] & Fantastical 2
 - Finish
 - Google Maps

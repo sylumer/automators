@@ -324,7 +324,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 19:52      | Yeah, because [[Slack]] has calls and huddles. And they're two separate concepts that                       |
 | 19:58      | they're very similar, but a call can have video. A huddle can't have video. It can have                 |
 | 20:02      | screen sharing, but no video. And a call, however, will ring like a regular sort of phone type thing    |
-| 20:11      | like FaceTime or whatever. They're adding it. By the time you listen to this, there may be video        |
+| 20:11      | like [[FaceTime]] or whatever. They're adding it. By the time you listen to this, there may be video        |
 | 20:15      | in huddles and [[Slack]]. I saw some announcements. I mean, I'm fine with them adding video, but            |
 | 20:20      | honestly, it just works as a really easy way to talk to people at work and be able to share             |
 | 20:26      | information quickly so that we can solve whatever the problem is, which often involves a little         |

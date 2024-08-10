@@ -432,7 +432,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 33:54      | to I've got rosemaryorchard.dev as well. So I just changed it to that, which, funnily enough,              |
 | 33:59      | towards to my regular email. But that doesn't really matter. But yes, that's something you                 |
 | 34:05      | need to be aware of. So you need to set these things up. Each of those handles that you                    |
-| 34:08      | set up can then be added to iMessage. That's optional. So that's quite nice. And FaceTime                  |
+| 34:08      | set up can then be added to iMessage. That's optional. So that's quite nice. And [[FaceTime]]                  |
 | 34:14      | as well. So that's the, you know, that's quite nice if you want to use hello at for your                   |
 | 34:21      | friends. But, you know, I am a very professional business person for work. You can do that.                |
 | 34:28      | But, you know, aside from that bonus, it's, and the fact that the webmail is pretty, it's                  |
