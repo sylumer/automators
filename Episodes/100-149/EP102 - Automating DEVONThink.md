@@ -137,7 +137,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 03:33      | It's all built right in there.                                    |
 | 03:35      | Everything is everywhere.                                         |
 | 03:36      | And actually, I think that's one of the things                    |
-| 03:38      | that makes Devon think a great topic for today's episode,         |
+| 03:38      | that makes [[DEVONthink]] a great topic for today's episode,         |
 | 03:41      | because it means that I have everything everywhere                |
 | 03:45      | in the exact same structure.                                      |
 | 03:46      | And then my magic happens where it needs to happen,               |
@@ -804,12 +804,12 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 32:24      | So why not have it also in Devon thing?                           |
 | 32:27      | Yes, exactly.                                                     |
 | 32:29      | And I find that one of the beauties of smart groups               |
-| 32:32      | and indeed, the Devon think database,                             |
-| 32:34      | the Devon think database gets synced between devices.             |
+| 32:32      | and indeed, the [[DEVONthink]] database,                             |
+| 32:34      | the [[DEVONthink]] database gets synced between devices.             |
 | 32:37      | So I'm not gonna be missing certain files                         |
 | 32:40      | or this folder didn't somehow get created over here               |
 | 32:45      | and is messed things up.                                          |
-| 32:46      | No, my Devon think database is the source                         |
+| 32:46      | No, my [[DEVONthink]] database is the source                         |
 | 32:49      | and that contains my smart groups.                                |
 | 32:50      | It contains my tags,                                              |
 | 32:52      | which means I download it on another device.                      |
@@ -821,7 +821,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 33:07      | And indeed, smart groups are kind of foundation                   |
 | 33:12      | for smart rules because the rules have, you know,                 |
 | 33:15      | the search for this criteria and then do these actions.           |
-| 33:18      | And one of the reasons why Devon think is so great                |
+| 33:18      | And one of the reasons why [[DEVONthink]] is so great                |
 | 33:21      | is you can split that up.                                         |
 | 33:22      | So you just wanna do the finding.                                 |
 | 33:24      | You've got a smart group.                                         |
@@ -842,18 +842,18 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 33:55      | Because, you know, I would often start                            |
 | 33:56      | by just creating a smart folder somewhere                         |
 | 34:00      | to try and find all the files previously.                         |
-| 34:02      | And it's much easier to do in Devon think.                        |
+| 34:02      | And it's much easier to do in [[DEVONthink]].                        |
 | 34:06      | And that's kind of the next layer of automation                   |
-| 34:09      | with Devon think.                                                 |
+| 34:09      | with [[DEVONthink]].                                                 |
 | 34:10      | One of the ways I explain this to people                          |
-| 34:12      | is that Devon think has its own copy of [[Hazel]]                     |
+| 34:12      | is that [[DEVONthink]] has its own copy of [[Hazel]]                     |
 | 34:15      | running inside of it.                                             |
 | 34:16      | I mean, it's not feature for feature [[Hazel]].                       |
 | 34:19      | In some ways it's better, in some ways it's worse,                |
 | 34:21      | but it's a very complex trigger slash action                      |
 | 34:26      | automation system that can be triggered                           |
 | 34:29      | on a bunch of ways and perform a bunch of actions                 |
-| 34:32      | on files in your Devon think database.                            |
+| 34:32      | on files in your [[DEVONthink]] database.                            |
 | 34:34      | And I love it, and they call it smart rules.                      |
 | 34:39      | And there's a lot to talk about here.                             |
 | 34:42      | Oh yeah, there is.                                                |
@@ -863,7 +863,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 34:55      | because it's not just files.                                      |
 | 34:57      | It's something we didn't really cover, David.                     |
 | 34:58      | You can have like a website                                       |
-| 35:00      | or a link inside of Devon think as a web archive,                 |
+| 35:00      | or a link inside of [[DEVONthink]] as a web archive,                 |
 | 35:03      | which means that then you can reopen it                           |
 | 35:05      | any time that you need to and you just go straight to it.         |
 | 35:08      | And that's something I actually use                               |
@@ -873,7 +873,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 35:16      | where there's a video that helps you.                             |
 | 35:18      | I do the same thing, just interrupt there.                        |
 | 35:19      | I do the same thing with emails.                                  |
-| 35:21      | If you just drag an email to Devon think,                         |
+| 35:21      | If you just drag an email to [[DEVONthink]],                         |
 | 35:22      | it has not only the email saved with all the texts,               |
 | 35:25      | so you can search it,                                             |
 | 35:26      | but it also creates a link back to the original email.            |
@@ -908,7 +908,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 36:35      | is my pay slips I download on my work machine                     |
 | 36:38      | and they actually get a little bit of massageing with [[Hazel]]        |
 | 36:42      | and thrown into the right folder,                                 |
-| 36:43      | which then Devon think picks up.                                  |
+| 36:43      | which then [[DEVONthink]] picks up.                                  |
 | 36:45      | So one of my criteria for this is that the item is indexed        |
 | 36:49      | and that means that, hey, this hasn't been dealt with             |
 | 36:53      | but I can also, before that even, I can just say,                 |
@@ -934,8 +934,8 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 37:51      | You can say, I want you to do these things when?                  |
 | 37:54      | So on work days or weekends, when it's created,                   |
 | 37:57      | when it's created by the sorter, before it's saved,               |
-| 38:00      | after it's saved, when I quit Devon Think,                        |
-| 38:03      | when I start Devon Think before or after it sinks                 |
+| 38:00      | after it's saved, when I quit [[DEVONthink]],                        |
+| 38:03      | when I start [[DEVONthink]] before or after it sinks                 |
 | 38:06      | every minute, every hour, all sorts of things.                    |
 | 38:08      | There is a whole bunch of stuff.                                  |
 | 38:10      | And one of the things that I really like as well                  |
@@ -952,7 +952,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 38:42      | your import criteria or your matching criteria                    |
 | 38:45      | for things you do not want to accidentally,                       |
 | 38:48      | I don't know, import every single index item                      |
-| 38:51      | into your Devon Think database.                                   |
+| 38:51      | into your [[DEVONthink]] database.                                   |
 | 38:52      | Which means that magically everything disappears                  |
 | 38:54      | out of your [[Obsidian]] database.                                    |
 | 38:56      | And you may be asking,                                            |
@@ -964,13 +964,13 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 39:07      | So the stuff you're talking about                                 |
 | 39:09      | is totally a risk that you have                                   |
 | 39:13      | when you have a smart rule system,                                |
-| 39:14      | whether it's [[Hazel]] or Devon Think.                                |
+| 39:14      | whether it's [[Hazel]] or [[DEVONthink]].                                |
 | 39:16      | Yes, absolutely, wherever you do it.                              |
 | 39:18      | So the way, there's a couple of things.                           |
 | 39:22      | So Rose was talking about the trigger level,                      |
 | 39:24      | what is it gonna trigger this rule?                               |
 | 39:27      | Yeah.                                                             |
-| 39:27      | And with Devon Think,                                             |
+| 39:27      | And with [[DEVONthink]],                                             |
 | 39:29      | the triggers start out with a conditional all                     |
 | 39:33      | whenever you create a new one.                                    |
 | 39:34      | So it requires all triggers to be satisfied.                      |
@@ -1004,7 +1004,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 40:49      | So, yes.                                                          |
 | 40:49      | And the way [[Hazel]] works is it automatically applies the rules     |
 | 40:55      | or you can force them.                                            |
-| 40:56      | But one thing Devon think does that's interesting                 |
+| 40:56      | But one thing [[DEVONthink]] does that's interesting                 |
 | 40:59      | as Roses explaining this,                                         |
 | 41:01      | you can determine when these rules run.                           |
 | 41:04      | It doesn't have to be automatic, you know?                        |
@@ -1017,7 +1017,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 41:19      | But I always feel like once you start getting it sorted out,      |
 | 41:24      | I actually add a bunch more, you know?                            |
 | 41:26      | Because the times that these run                                  |
-| 41:29      | and Devon think are interesting,                                  |
+| 41:29      | and [[DEVONthink]] are interesting,                                  |
 | 41:30      | like you can have it run on time,                                 |
 | 41:33      | like every minute or hourly or weekly or whatever,                |
 | 41:36      | or you can even break it down to weekdays and weekends.           |
@@ -1044,7 +1044,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 42:33      | Okay. But before we get to the actions,                           |
 | 42:35      | let's take a minute to talk about triggers,                       |
 | 42:37      | because we've glossed over it.                                    |
-| 42:40      | I mean, the trigger at list in Devon think                        |
+| 42:40      | I mean, the trigger at list in [[DEVONthink]]                        |
 | 42:45      | is truly remarkable.                                              |
 | 42:46      | Oh, yeah.                                                         |
 | 42:47      | I talked earlier about email.                                     |
@@ -1053,23 +1053,23 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 42:53      | that are related specifically to email.                           |
 | 42:56      | So recipient or who it's to                                       |
 | 43:00      | or who the copies go to can be a trigger.                         |
-| 43:04      | So I talked about earlier how I put emails into Devon think.      |
+| 43:04      | So I talked about earlier how I put emails into [[DEVONthink]].      |
 | 43:08      | Well, when I was doing legal work                                 |
 | 43:09      | and I had opposing counsel on a lot of the deals                  |
 | 43:13      | I worked on, anytime I copied one of their emails                 |
-| 43:16      | into Devon think, one of the triggers that would look at          |
+| 43:16      | into [[DEVONthink]], one of the triggers that would look at          |
 | 43:19      | is this email from John at fancylawfirm.com                       |
 | 43:24      | because I only got one kind of email from John                    |
 | 43:26      | of be related to a specific transaction.                          |
 | 43:29      | And that single trigger,                                          |
 | 43:31      | this was a case where I could use any of saying                   |
 | 43:34      | the email came from him or went to him or included him            |
-| 43:39      | was enough for Devon think to say,                                |
+| 43:39      | was enough for [[DEVONthink]] to say,                                |
 | 43:41      | oh, this is part of that file that you're working on              |
 | 43:44      | and just grab the email and put it right there                    |
 | 43:46      | into the email folder.                                            |
 | 43:47      | And it is the detailed triggers                                   |
-| 43:51      | that I think make Devon think a real candidate                    |
+| 43:51      | that I think make [[DEVONthink]] a real candidate                    |
 | 43:53      | for handling all your digital documents.                          |
 | 43:56      | Yes.                                                              |
 | 43:56      | Like URL is another one.                                          |
@@ -1738,14 +1738,14 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:12:47   | where they're taking advantage                                    |
 | 01:12:48   | of the [[artificial intelligence]]                                    |
 | 01:12:49   | and these are some rules                                          |
-| 01:12:51   | what I consider to be unique to Devon think                       |
+| 01:12:51   | what I consider to be unique to [[DEVONthink]]                       |
 | 01:12:53   | I've never seen them anywhere else before.                        |
 | 01:12:55   | And my favourite is the classified tool                            |
 | 01:12:57   | and it's similar to the earlier group,                            |
 | 01:13:01   | similar items tool I was talking about                            |
 | 01:13:03   | but it's better and more powerful.                                |
 | 01:13:05   | And it's accessed in the inspector                                |
-| 01:13:09   | and what it does is it uses the Devon think                       |
+| 01:13:09   | and what it does is it uses the [[DEVONthink]]                       |
 | 01:13:12   | [[artificial intelligence]] and it will look at a file                |
 | 01:13:16   | and say, I think this belongs there.                              |
 | 01:13:19   | You know, it'll figure out and it's for grouping files.           |
@@ -1755,7 +1755,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:13:31   | Like if I was talking about earlier about that case,              |
 | 01:13:33   | if I started putting emails and documents                         |
 | 01:13:36   | that had the ACMI contract data                                   |
-| 01:13:38   | and a Devon think would be looking at that                        |
+| 01:13:38   | and a [[DEVONthink]] would be looking at that                        |
 | 01:13:40   | and as I did it two or three times,                               |
 | 01:13:43   | it would increasingly start to realise,                           |
 | 01:13:45   | oh, wait a second, anything related to this case                  |
@@ -1770,7 +1770,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:14:08   | I want OmniFocus or the app starts to pay attention               |
 | 01:14:13   | to how you act and then it starts giving you                      |
 | 01:14:16   | what it thinks that you want the most.                            |
-| 01:14:18   | And the more you use Devon think,                                 |
+| 01:14:18   | And the more you use [[DEVONthink]],                                 |
 | 01:14:20   | the better the classified tool gets.                              |
 | 01:14:22   | And I find this just, it's like the best kind of automation       |
 | 01:14:27   | in the sense that you're not preparing the rules                  |
@@ -1779,13 +1779,13 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:14:35   | just based on the way you use the app.                            |
 | 01:14:38   | Yes, yeah, I should note that you can get to the classified       |
 | 01:14:41   | just through the right click menu on any document                 |
-| 01:14:43   | or file in Devon think.                                           |
+| 01:14:43   | or file in [[DEVONthink]].                                           |
 | 01:14:45   | If you right click then underneath group items,                   |
 | 01:14:49   | right above batch process and apply rules,                        |
 | 01:14:51   | there's classified as well.                                       |
 | 01:14:52   | And it is just a great kind of magic                              |
 | 01:14:56   | and something else with the classified tool.                      |
-| 01:14:59   | If you have multiple Devon think databases,                       |
+| 01:14:59   | If you have multiple [[DEVONthink]] databases,                       |
 | 01:15:01   | you can cross the streams.                                        |
 | 01:15:03   | Now, it usually goes best if there's don't cross the streams.     |
 | 01:15:05   | That's probably what you're aiming to do                          |
@@ -1795,7 +1795,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:15:12   | Because especially looking at the sync options,                   |
 | 01:15:15   | if you've got secure work data                                    |
 | 01:15:17   | that shouldn't be going various places,                           |
-| 01:15:19   | you can have an entirely local Devon think database               |
+| 01:15:19   | you can have an entirely local [[DEVONthink]] database               |
 | 01:15:22   | that's synced over your local network.                            |
 | 01:15:24   | So it's not even like going out to the internet                   |
 | 01:15:27   | or you can sync through [[Dropbox]], iCloud, et cetera.               |
@@ -1855,7 +1855,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:17:43   | of how frequently you access that particular file.                |
 | 01:17:46   | But you can also, over here,                                      |
 | 01:17:48   | this is something we've missed, David.                            |
-| 01:17:49   | Reminders, I forgot to talk about reminders and Devon think.      |
+| 01:17:49   | Reminders, I forgot to talk about reminders and [[DEVONthink]].      |
 | 01:17:54   | And I can't believe it, because that is so useful.                |
 | 01:17:57   | So say you have a regular maintenance task                        |
 | 01:17:59   | that you need to do.                                              |

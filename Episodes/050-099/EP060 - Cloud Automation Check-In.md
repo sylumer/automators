@@ -1115,7 +1115,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:02:06   | I need to sort out my digital filing system.                                                                 |
 | 01:02:10   | Everything's kind of a mess right now because I've been experimenting with different apps                    |
 | 01:02:15   | and different things here and there and do I really need to save this and do I just save                     |
-| 01:02:18   | it in Finder or do I throw it in Devon think and all of this different stuff that is going                   |
+| 01:02:18   | it in Finder or do I throw it in [[DEVONthink]] and all of this different stuff that is going                   |
 | 01:02:23   | on.                                                                                                          |
 | 01:02:24   | So I'm going to be doing an overhaul of my system at the Finder tags.                                        |
 | 01:02:27   | I'm thinking I'm going to be taking a leaf out of your book here because that's pretty                       |

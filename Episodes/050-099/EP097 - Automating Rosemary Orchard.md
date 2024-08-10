@@ -260,16 +260,16 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 15:35      | Because yes, with something like that, you do have to trust it 100%. And it's very useful                |
 | 15:42      | to be able to do that. But also to have a system that, you know, until I trust it 100%, I'm              |
 | 15:47      | able to scope. Yeah, I'm going to stop because I ran into an error.                                      |
-| 15:51      | Yeah, makes sense. Now, where does Devon think fit in this? Because you've mentioned Devon               |
+| 15:51      | Yeah, makes sense. Now, where does [[DEVONthink]] fit in this? Because you've mentioned Devon               |
 | 15:55      | think and [[Hazel]].                                                                                         |
-| 15:57      | Yes. So I do use both. And I should know Devon think is sponsoring the show. But even if                 |
+| 15:57      | Yes. So I do use both. And I should know [[DEVONthink]] is sponsoring the show. But even if                 |
 | 16:02      | they weren't sponsoring the show, I would still have to talk about it because I really                   |
-| 16:06      | love and use the application on a regular basis. And a lot of what I do with Devon think                 |
+| 16:06      | love and use the application on a regular basis. And a lot of what I do with [[DEVONthink]]                 |
 | 16:10      | is essentially just like organise these documents, you know, I've got a business, so I've got            |
 | 16:15      | all of the invoices and receipts and everything that I need to keep. And so all of those end             |
-| 16:20      | up in Devon think. And what I am doing in Devon think for those is I'm using the smart                   |
+| 16:20      | up in [[DEVONthink]]. And what I am doing in [[DEVONthink]] for those is I'm using the smart                   |
 | 16:25      | rules to organise and rename things and put information into custom metadata fields. I                   |
-| 16:32      | can't believe I lived so long with Devon think without really using custom metadata fields,              |
+| 16:32      | can't believe I lived so long with [[DEVONthink]] without really using custom metadata fields,              |
 | 16:37      | but they've allowed me to create, you know, like this was the cost of this and this was                  |
 | 16:41      | the VAT paid on it, fields, which means that then essentially I pretty much have an automated            |
 | 16:49      | texture turn, which is really great combined with some smart dates and so on. And that is                |
@@ -282,12 +282,12 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 17:27      | all have to do texture turns over there are aware can be a bit of a pain at times keeping                |
 | 17:34      | track of all those receipts and everything. It makes it incredibly easy. And my favourite                 |
 | 17:38      | thing that I've been working on recently is getting emails automatically out of mail                     |
-| 17:43      | into Devon think and converting them into a PDF. So all of my Apple receipts get pushed                  |
-| 17:49      | into Devon think and converted into PDFs with all this data on them, because that's                      |
+| 17:43      | into [[DEVONthink]] and converting them into a PDF. So all of my Apple receipts get pushed                  |
+| 17:49      | into [[DEVONthink]] and converted into PDFs with all this data on them, because that's                      |
 | 17:54      | one of the things that I need. Okay, well, it makes sense. So, you know, you've got some                 |
-| 17:59      | stuff in [[Hazel]], you get some stuff in Devon thing. Interestingly, you know, Devon think                  |
+| 17:59      | stuff in [[Hazel]], you get some stuff in Devon thing. Interestingly, you know, [[DEVONthink]]                  |
 | 18:03      | does have a really powerful set of [[Hazel]] like rules inside of it. So you could do it all                 |
-| 18:09      | with either. Yeah, yeah, you could. I just tend to use Devon think for these are documents               |
+| 18:09      | with either. Yeah, yeah, you could. I just tend to use [[DEVONthink]] for these are documents               |
 | 18:14      | that I want to be able to access anywhere. potentially, you know, I probably won't,                      |
 | 18:20      | but I want to be able to. And also, I really need to keep these documents, you know, they're             |
 | 18:27      | documents that they're not something that I will work on, necessarily. They're more                      |
@@ -297,30 +297,30 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 18:48      | you know, manuals and receipts and things like that. But it is really handy to use that                  |
 | 18:54      | to just organise that information because then, right, I'm looking for the thing that tells              |
 | 18:59      | me how to reset my door lock because I have a smart door lock. Okay, well, that it's going               |
-| 19:04      | to be in Devon think, yeah, and I'll just search for lock or door or Yale. And it will                   |
+| 19:04      | to be in [[DEVONthink]], yeah, and I'll just search for lock or door or Yale. And it will                   |
 | 19:11      | appear because not only have I given it, you know, a good file name, which is I've got                   |
 | 19:16      | two different ones. So they both start with Yale door lock, they do have the model in                    |
 | 19:20      | there and then I've added a bunch of information in, in the metadata because that's something            |
 | 19:26      | that you can do where you, you know, add extra information. There's aliases as well that                 |
 | 19:33      | you can use. I tend just to end up writing in the, I think it's a custom metadata field                  |
 | 19:40      | that I created called notes. But it's a very handy place to just add extra information and               |
-| 19:47      | you can do the same thing in Finder. But, you know, it's, for me, somehow Devon think                    |
+| 19:47      | you can do the same thing in Finder. But, you know, it's, for me, somehow [[DEVONthink]]                    |
 | 19:54      | works really well for my brain. And also the fact that it doesn't matter what device I'm                 |
-| 19:59      | on, I can just open my Devon think database and then find everything is in here, except                  |
-| 20:05      | at work, of course, I do have a separate Devon think database for work related things.                   |
-| 20:09      | Yeah, I mean, custom metadata is so much easier with Devon think than Finder. It's like not              |
+| 19:59      | on, I can just open my [[DEVONthink]] database and then find everything is in here, except                  |
+| 20:05      | at work, of course, I do have a separate [[DEVONthink]] database for work related things.                   |
+| 20:09      | Yeah, I mean, custom metadata is so much easier with [[DEVONthink]] than Finder. It's like not              |
 | 20:13      | even close. Like I made a custom field for [[Obsidian]] link. So if I have a related note                    |
-| 20:20      | on any file in Devon think, I've got a custom metadata for that link, you know, nice. One                |
-| 20:26      | thing that you do with Devon think is you create links to documents, which I would imagine               |
+| 20:20      | on any file in [[DEVONthink]], I've got a custom metadata for that link, you know, nice. One                |
+| 20:26      | thing that you do with [[DEVONthink]] is you create links to documents, which I would imagine               |
 | 20:31      | is it's helpful for your tax planning. That is more difficult with Finder based files.                   |
 | 20:37      | And you do have some stuff you can find or do you have a system for that? Like how do                    |
 | 20:41      | you how do you link to a document and find her? I guess is the question. I tend not to,                  |
 | 20:45      | to be honest. You know, if I'm going to link to a file, it's either going to be something                |
-| 20:49      | that is in Devon think or [[Obsidian]]. And I mean, I could put all of my markdown files                     |
+| 20:49      | that is in [[DEVONthink]] or [[Obsidian]]. And I mean, I could put all of my markdown files                     |
 | 20:57      | and everything into [[Obsidian]]. I actually have it index that folder so that if I am searching             |
 | 21:02      | for something and I've, it turns out that what it is is I've stored it in a link in                      |
 | 21:07      | as part of an [[Obsidian]] document, I'll still find it. But pretty much if I'm going to link                |
-| 21:12      | to something, it's going to be in Devon think or [[Obsidian]]. And the files that live on my                 |
+| 21:12      | to something, it's going to be in [[DEVONthink]] or [[Obsidian]]. And the files that live on my                 |
 | 21:18      | device tend not to be things that I, I link to in that sort of way. The closest that I                   |
 | 21:24      | might come is, you know, there's, there's a path to a folder here because that folder                    |
 | 21:29      | contains a project that I'm working on, you know, on development wise. So, you know, I'm                 |
@@ -332,10 +332,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 21:51      | markdown documents so that I've got an image there. I tend not to put other kinds of files               |
 | 21:57      | in there. There's no particular reason, but if I'm going to reference a file, then it's                  |
 | 22:04      | probably going to be something that's on the internet or a document that I'm going to be                 |
-| 22:09      | putting in Devon think so that I can have a link to that.                                                |
-| 22:14      | Yeah. I'm, I'm the same way. I feel like Devon think is way better at documents than                     |
+| 22:09      | putting in [[DEVONthink]] so that I can have a link to that.                                                |
+| 22:14      | Yeah. I'm, I'm the same way. I feel like [[DEVONthink]] is way better at documents than                     |
 | 22:20      | [[Obsidian]] is. So I don't put any real documents in [[Obsidian]]. Okay. I know this whole thing                |
-| 22:26      | sounded like a Devon think ad, but we're both big Devon think fans. So sorry. It's just                  |
+| 22:26      | sounded like a [[DEVONthink]] ad, but we're both big [[DEVONthink]] fans. So sorry. It's just                  |
 | 22:29      | weird that they're also sponsoring today, but there you go.                                              |
 | 22:32      | It is weird, but it's just one of those things. Yeah. There is one tiny thing. Well, maybe               |
 | 22:38      | not tiny thing that I will mention that's sort of related to document management, which                  |
@@ -796,29 +796,29 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:01:31   | and off the light in there is either on or it's off. But if you go in there and then you close           |
 | 01:01:37   | the door, it will leave the light on until you've opened the door and left. Because the last thing       |
 | 01:01:42   | you want is the light turning off in the middle of a shower.                                             |
-| 01:01:46   | This episode of Automated is brought to you by Devon Think, the flagship product from Devon              |
-| 01:01:49   | Technologies. Devon Think is the most professional document and information management application       |
+| 01:01:46   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from Devon              |
+| 01:01:49   | Technologies. [[DEVONthink]] is the most professional document and information management application       |
 | 01:01:54   | for the Mac. It's the one place for storing all your documents, snippets, all bookmarks,                 |
 | 01:01:58   | and working with them. The integrated AI assists you with filing and searching,                          |
 | 01:02:01   | while the extensive search language with advanced billion-search operators makes sure                    |
-| 01:02:05   | you're never looking for something and not finding it. Devon Think features a flexible                   |
+| 01:02:05   | you're never looking for something and not finding it. [[DEVONthink]] features a flexible                   |
 | 01:02:09   | sync system that supports many cloud services or lets you synchronise over the local network too         |
 | 01:02:14   | with everything securely encrypted. It secures you the choice for however syncing works best for         |
 | 01:02:18   | you. It has smart rules and flexible reminders that let you automate all parts of your workflow          |
-| 01:02:23   | and delegate boring repeating tasks. Let Devon Think automatically organise your data with rules         |
-| 01:02:28   | you define. Devon Think's [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
-| 01:02:32   | part of Devon Think that can't be automated. Except when Devon Think's functionality with                |
+| 01:02:23   | and delegate boring repeating tasks. Let [[DEVONthink]] automatically organise your data with rules         |
+| 01:02:28   | you define. [[DEVONthink]]'s [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
+| 01:02:32   | part of [[DEVONthink]] that can't be automated. Except when [[DEVONthink]]'s functionality with                |
 | 01:02:36   | your own commands by adding them into a scripts menu. Even templates can have scripts inside             |
 | 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own [[AppleScript]]        |
 | 01:02:45   | Code. And of course there's so much more from an iOS companion app to email archiving, scanning,         |
 | 01:02:50   | or even an embedded web server for sharing your data securely with your team. I did mention earlier      |
-| 01:02:55   | on the show that I personally use and love Devon Think and I would say that even if they weren't         |
+| 01:02:55   | on the show that I personally use and love [[DEVONthink]] and I would say that even if they weren't         |
 | 01:02:59   | sponsoring today's episode, but one of the features I've been using recently is the Convert              |
-| 01:03:03   | File feature. Because Devon Think automatically imports email and with Convert File you can              |
+| 01:03:03   | File feature. Because [[DEVONthink]] automatically imports email and with Convert File you can              |
 | 01:03:08   | actually convert it to a PDF. Yup, so my emails get imported and converted into PDFs automatically.      |
 | 01:03:14   | Perfect for accounting. So if you think that you need somewhere where you can organise your files        |
-| 01:03:19   | and easily find them, and maybe even convert some documents, check out Devon Think. You can get 10%      |
-| 01:03:24   | of Devon Think 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
+| 01:03:19   | and easily find them, and maybe even convert some documents, check out [[DEVONthink]]. You can get 10%      |
+| 01:03:24   | of [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
 | 01:03:29   | That's devontechnologies.com/automators for 10% off. Our thanks to Devon Technologies for          |
 | 01:03:34   | their support of this show and all of Relay FM. So Rose, you've got a lot of great automations,          |
 | 01:03:40   | but what about dealing with applications that don't want to automate, you know,                          |

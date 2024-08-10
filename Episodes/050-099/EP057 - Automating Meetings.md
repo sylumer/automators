@@ -928,5 +928,5 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:10:45   | a mouse to working for one. Yeah. I mean, you know, trapped by the mouse, but in a                        |
 | 01:10:49   | good way. There you go. There you go. Well, we are the automators. You can find us over                   |
 | 01:10:53   | at relay.fm/automators. You can get involved with the forums at talk.automators.fm.                 |
-| 01:11:00   | Thank you to our sponsors, the uptake, mint mobile and Devon think, and we will see you                   |
+| 01:11:00   | Thank you to our sponsors, the uptake, mint mobile and [[DEVONthink]], and we will see you                   |
 | 01:11:05   | in a couple of weeks. Goodbye, everyone.                                                                  |

@@ -1581,7 +1581,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:19:44   | Open this thing up and I want you to associate that with this Taskpaper file.                                |
 | 01:19:49   | So now, if I ever open that web page again, I'm a keystroke away from seeing all the things                   |
 | 01:19:53   | that it's attached to.                                                                                        |
-| 01:19:55   | And unlike Devon thinking stuff like that, very powerful, what I love about Hook or what                      |
+| 01:19:55   | And unlike [[DEVONthink]]ing stuff like that, very powerful, what I love about Hook or what                      |
 | 01:20:00   | is interesting to me about Hook, a lot of [[LaunchBar]] is that it exists outside of all                          |
 | 01:20:06   | those separate documents, all those separate web pages, small pieces loosely joined.                          |
 | 01:20:12   | There's nothing formal, there's not like a big dumb database where I have to put all                          |

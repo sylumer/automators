@@ -349,17 +349,17 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 11:41      | Rose, I made a new field guide.                                    |
 | 11:42      | You did.                                                           |
 | 11:44      | And David, you knocked it out of the park again.                   |
-| 11:46      | I'm reworking my entire Devon Think setup.                         |
+| 11:46      | I'm reworking my entire [[DEVONthink]] setup.                         |
 | 11:49      | Thank you for all of the extra work                                |
 | 11:51      | that you've created for me.                                        |
-| 11:52      | Yeah, so I made the Devon Think field guide.                       |
+| 11:52      | Yeah, so I made the [[DEVONthink]] field guide.                       |
 | 11:54      | This is one of the most requested titles that I've had.            |
 | 11:59      | I started it in April.                                             |
 | 12:01      | It's got eight and a half hours of content,                        |
 | 12:03      | but it's all broken down into small pieces                         |
 | 12:05      | over a hundred videos.                                             |
 | 12:06      | So you don't have to watch it all in one sitting.                  |
-| 12:08      | And whether you've never touched Devon Think                       |
+| 12:08      | And whether you've never touched [[DEVONthink]]                       |
 | 12:11      | or you're a pro user,                                              |
 | 12:12      | I hope that you can get something out of it.                       |
 | 12:14      | And it's on sale for a limited time.                               |
@@ -368,26 +368,26 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 12:24      | go over to learn.macsparkyi.com and check it out.                    |
 | 12:27      | There is an automation angle to this                               |
 | 12:29      | because there's a whole section in the video field guide           |
-| 12:32      | because Devon Think, what I heard,                                 |
+| 12:32      | because [[DEVONthink]], what I heard,                                 |
 | 12:34      | because as I started working on this,                              |
-| 12:36      | the field guide got to talk to the gang behind Devon Think.        |
+| 12:36      | the field guide got to talk to the gang behind [[DEVONthink]].        |
 | 12:39      | One of the main developers is super in automation.                 |
 | 12:41      | And they basically kind of built a version of [[Hazel]]                |
-| 12:45      | into it and they built a bunch of tools into Devon Think           |
+| 12:45      | into it and they built a bunch of tools into [[DEVONthink]]           |
 | 12:48      | that make automation very good.                                    |
 | 12:52      | Yes, yeah, they did.                                               |
 | 12:54      | And I really, really love those tools.                             |
-| 12:56      | In general, I find Devon Think                                     |
+| 12:56      | In general, I find [[DEVONthink]]                                     |
 | 12:58      | to be a really useful tool for me because there's no more,         |
 | 13:01      | did I store this in iCloud or [[Dropbox]] or whatever?                 |
-| 13:05      | I just throw it in Devon Think and search there later.             |
-| 13:07      | Now, one of the advantages you get with Devon Think                |
+| 13:05      | I just throw it in [[DEVONthink]] and search there later.             |
+| 13:07      | Now, one of the advantages you get with [[DEVONthink]]                |
 | 13:10      | is you get those links.                                            |
 | 13:11      | I mean, the application creates links for every file.              |
 | 13:15      | So for automators, that can be really handy                        |
 | 13:17      | to be able to grab a link from any file                            |
 | 13:20      | and just jump back to it.                                          |
-| 13:22      | Either way, learn.macsparkyi.com for Devon Think field guide.        |
+| 13:22      | Either way, learn.macsparkyi.com for [[DEVONthink]] field guide.        |
 | 13:26      | And if you go to, is it relay.fm slash St. Jude?                   |
 | 13:32      | I think that would get you there to donate to St. Jude.            |
 | 13:35      | St. Jude.org slash relay will definitely get you there as well.    |

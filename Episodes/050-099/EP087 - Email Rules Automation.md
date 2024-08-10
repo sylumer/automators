@@ -365,7 +365,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 28:04      | the characters are very complicated in the screenshot. You may not realise that it's                       |
 | 28:09      | a pipe or a one or an L or what, you know, so just just copy and paste if you can. The                     |
 | 28:15      | other thing I would recommend is doing this at a low volume time. Like I had decided to                    |
-| 28:19      | do this about a month ago, but then I released the Devon Think Field Guide and I didn't want               |
+| 28:19      | do this about a month ago, but then I released the [[DEVONthink]] Field Guide and I didn't want               |
 | 28:23      | my email to break when I was getting customer requests in when it first released. So I waited              |
 | 28:28      | until that died down. And then I did it at midnight Pacific, which is for the East Coast                   |
 | 28:34      | is 3am. The Pacific, everybody's pretty much done for the day. And I just stayed up late                   |

@@ -1619,8 +1619,8 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:02:35   | to another folder inside the                                                                       |
 | 01:02:37   | [[Obsidian]] folder structure                                                                          |
 | 01:02:39   | Rose talked earlier about one                                                                      |
-| 01:02:41   | where she's moving it into Devon think                                                             |
-| 01:02:43   | well you can import to Devon think                                                                 |
+| 01:02:41   | where she's moving it into [[DEVONthink]]                                                             |
+| 01:02:43   | well you can import to [[DEVONthink]]                                                                 |
 | 01:02:45   | easy enough with [[Hazel]]                                                                             |
 | 01:02:47   | but you could also you know trigger a shortcut on it                                               |
 | 01:02:49   | or you know there's so much you can do                                                             |

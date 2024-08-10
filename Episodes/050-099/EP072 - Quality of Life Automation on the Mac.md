@@ -788,11 +788,11 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:02:22   | different application. And if you if you want the very, I wouldn't say very, very simple approach,       |
 | 01:02:28   | but the simpler approach where it's just for file management, then of course [[Hazel]] is your app.          |
 | 01:02:32   | But if you want to go a bit fancier, then [[Keyboard Maestro]] can do a lot with file management too.        |
-| 01:02:40   | Yeah, another app that does good, like automation file stuff is Devon think they're                      |
+| 01:02:40   | Yeah, another app that does good, like automation file stuff is [[DEVONthink]] they're                      |
 | 01:02:45   | sponsored today, full disclosure, we didn't know that when I put this note in. And we may at some        |
-| 01:02:51   | point do a show on automation and Devon think because it's there's just so much there. But               |
-| 01:02:56   | they have kind of a version of [[Hazel]] built into Devon think so you can automate files in your            |
-| 01:03:01   | Devon think library. Another one I did what [[Hazel]] recently is we're heading into tax season and I'm      |
+| 01:02:51   | point do a show on automation and [[DEVONthink]] because it's there's just so much there. But               |
+| 01:02:56   | they have kind of a version of [[Hazel]] built into [[DEVONthink]] so you can automate files in your            |
+| 01:03:01   | [[DEVONthink]] library. Another one I did what [[Hazel]] recently is we're heading into tax season and I'm      |
 | 01:03:07   | getting a bunch of forms. And it's the same thing I use a [[Keyboard Maestro]] script to apply               |
 | 01:03:11   | two tags. One is the word tax and the other one is 2020. And it automatically saves it to a              |
 | 01:03:17   | particular folder and copies it to another folder that I share with my accountant. So,                   |
