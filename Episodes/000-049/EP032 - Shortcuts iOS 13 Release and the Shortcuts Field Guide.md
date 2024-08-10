@@ -855,10 +855,10 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 44:58      | this new programming interface, with this new ability of developers to build their                     |
 | 45:03      | own actions, where do you see the future of URL shortcuts in all of this?                              |
 | 45:10      | Well, I think it's going away, and I don't know if it absolutely should go away, because               |
-| 45:16      | for example, having the ability to put a link to a Dev and Think object inside of an Omni              |
+| 45:16      | for example, having the ability to put a link to a [[DEVONthink]] object inside of an Omni              |
 | 45:21      | focused task so that I can just jump to either a PDF or a group of items is, for me, something         |
 | 45:29      | extremely useful, especially for anything relating to my Master's degree, because without              |
-| 45:35      | Dev and Think, I'm pretty certain that my Master's degree would be probably on fire                    |
+| 45:35      | [[DEVONthink]], I'm pretty certain that my Master's degree would be probably on fire                    |
 | 45:38      | somewhere, crying in a corner, rather than doing relatively well as it currently is,                   |
 | 45:44      | because I don't do well if I'm not organised, and for things like that, I definitely need              |
 | 45:49      | interrupt links to remain available, but at the same time, it would be great if the shortcuts          |

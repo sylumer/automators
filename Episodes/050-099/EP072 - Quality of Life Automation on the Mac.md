@@ -1141,26 +1141,26 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:34:42   | Yeah, or well, let's report back in two weeks with the next episode. So we have                          |
 | 01:34:47   | perfect together. I may have a few other things to talk about in a few weeks as well.                    |
 | 01:34:52   | All right. Cool. Looking forward to that. This episode of The Automators is brought to you by            |
-| 01:34:59   | Dev and Think. Get organised and unleash your creativity. Go to devontechnologies.com/             |
-| 01:35:05   | automators to get 10% off. Dev and Think is the most professional document and information               |
+| 01:34:59   | [[DEVONthink]]. Get organised and unleash your creativity. Go to devontechnologies.com/             |
+| 01:35:05   | automators to get 10% off. [[DEVONthink]] is the most professional document and information               |
 | 01:35:11   | management application for the Mac. It's the one place for storing all your documents, snippets,         |
 | 01:35:17   | or bookmarks and working with them. The integrated AI assists you with filing and searching while the    |
-| 01:35:23   | extensive search language with advanced Boolean operators helps you out. Dev and Think features          |
+| 01:35:23   | extensive search language with advanced Boolean operators helps you out. [[DEVONthink]] features          |
 | 01:35:28   | a flexible sync system that supports many cloud services or lets you synchronise over the local          |
 | 01:35:34   | network to with everything securely encrypted. This gives you the choice for however syncing             |
 | 01:35:39   | works best for you. It has smart rules and flexible reminders that let you automate all parts of your    |
-| 01:35:45   | workflow and delegate boring, repeating tasks. Let Dev and Think automatically organise your data        |
-| 01:35:50   | with rules you define. Dev and Think's [[AppleScript]] dictionary is one of the largest on the Mac.         |
-| 01:35:55   | There's no part of Dev and Think that can't be automated. Extend Dev and Think's functionality           |
+| 01:35:45   | workflow and delegate boring, repeating tasks. Let [[DEVONthink]] automatically organise your data        |
+| 01:35:50   | with rules you define. [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.         |
+| 01:35:55   | There's no part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality           |
 | 01:36:00   | with your own commands by adding them to its Scripts menu. Even templates can have Scripts inside        |
 | 01:36:06   | and you can set up new documents with data from placeholders or inserted by your own [[AppleScript]]        |
 | 01:36:12   | code. And of course, there's so much more from the iOS companion app to email archiving, scanning,       |
 | 01:36:19   | or even embedded web server for sharing your data securely with your team. My life is document           |
-| 01:36:25   | intensive and I'm a big Dev and Think fan for that reason. I've got databases for MacSparky             |
-| 01:36:31   | stuff and field guide research. I've also got Dev and Think libraries for a bunch of my legal work.      |
+| 01:36:25   | intensive and I'm a big [[DEVONthink]] fan for that reason. I've got databases for MacSparky             |
+| 01:36:31   | stuff and field guide research. I've also got [[DEVONthink]] libraries for a bunch of my legal work.      |
 | 01:36:36   | It's just a great place to go because I control the security, I control the syncing,                     |
 | 01:36:41   | and I have massive, powerful tools at my disposal, way more powerful than what the Finder provides.      |
-| 01:36:48   | You can get 10% off Dev and Think 3 or upgrade to it right now. Just go to devontechnologies.com         |
+| 01:36:48   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com         |
 | 01:36:54   |/automators. That's devontechnologies.com/automators for 10% off. Our thanks to               |
 | 01:37:01   | Dev and Technologies for their support of the automators and all of Relay FM.                            |
 | 01:37:05   | So, David, I think we're almost at the end of the show here. I think it's probably time to               |

@@ -1964,4 +1964,4 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:30:33   | We are the Automators Podcast.                                                                                                                                           |
 | 01:30:34   | You can find us over at relay.fm/automators.                                                                                                                      |
 | 01:30:37   | Thank you to our sponsors today.                                                                                                                                         |
-| 01:30:39   | Thanks our friends over at Dev and Think and Hover and we'll see you next time.                                                                                          |
+| 01:30:39   | Thanks our friends over at [[DEVONthink]] and Hover and we'll see you next time.                                                                                          |

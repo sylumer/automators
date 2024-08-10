@@ -625,7 +625,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 33:07      | earlier is what do you do with it?                                                                     |
 | 33:09      | We're putting an iCloud with this script, but you could send it to [[Dropbox]] or you could,               |
 | 33:14      | you know, you could email it to your landlord, you know, you could build an automatic mailing          |
-| 33:19      | into this or you could, I believe you could also like put it into Dev and Think or one                 |
+| 33:19      | into this or you could, I believe you could also like put it into [[DEVONthink]] or one                 |
 | 33:25      | of these data store apps too.                                                                          |
 | 33:27      | So there's a lot you could, this is a great starting point.                                            |
 | 33:29      | Thanks for sharing this.                                                                               |

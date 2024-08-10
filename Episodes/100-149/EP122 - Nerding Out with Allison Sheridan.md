@@ -248,7 +248,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 12:48      | time you run it?                                                                                        |
 | 12:49      | No, I mean, it doesn't make me giggle, but it does give me a certain amount of satisfaction.            |
 | 12:53      | Whenever I download my payslips, it automatically like renames them and moves them into iCloud.         |
-| 12:59      | And then on my personal machine, they get sucked up into Dev and Think. And honestly,                   |
+| 12:59      | And then on my personal machine, they get sucked up into [[DEVONthink]]. And honestly,                   |
 | 13:04      | the fact that all of my work documents that are related to things like that, that just                  |
 | 13:09      | happens. And that happens on one machine, and then they just magically appear on another                |
 | 13:14      | one afterwards. That is just so satisfying. It's genuinely fabulous. I really need to                   |

@@ -548,10 +548,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 25:49      | Yeah.                                                                                                  |
 | 25:50      | And I should be clear that a lot of those other apps are really neat and really well-built.            |
 | 25:56      | But what I think is different about [[Obsidian]] and a few of the other options, I do think                |
-| 26:00      | that Dev and Think and [[Notion]] are also in this class.                                                  |
+| 26:00      | that [[DEVONthink]] and [[Notion]] are also in this class.                                                  |
 | 26:03      | I think of them as environments, I talked earlier about development environments for                   |
 | 26:07      | coding, but I've also written some pieces on this idea of an integrated thinking environment.          |
-| 26:13      | And what [[Obsidian]] and [[Notion]] and Dev and Think and some others allow you to do is they're              |
+| 26:13      | And what [[Obsidian]] and [[Notion]] and [[DEVONthink]] and some others allow you to do is they're              |
 | 26:17      | so customisable, right, they're built with this idea of personalisability in mind.                     |
 | 26:22      | And because of that, you're able to build it to match whatever it is you're thinking                   |
 | 26:25      | about.                                                                                                 |
@@ -629,7 +629,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 30:21      | added the feature of, you know, get shareable link.                                                    |
 | 30:26      | But I have added that to the keyboard shortcut, this is a very basic automation, but Command           |
 | 30:30      | U for me in [[Obsidian]] gets me the URL link of the current note, and then all of a sudden                |
-| 30:35      | I'm dropping that into my Dev and Think database, my OmniFocus project, and all of a sudden my         |
+| 30:35      | I'm dropping that into my [[DEVONthink]] database, my OmniFocus project, and all of a sudden my         |
 | 30:40      | computer just dances around a project like nobody's business, and it's because they put                |
 | 30:45      | features like that in.                                                                                 |
 | 30:46      | It's a beautiful thing.                                                                                |

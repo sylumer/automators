@@ -915,7 +915,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:20:24   | sharing and everybody head over to get [drafts.com](https://drafts.com). I believe that's the website, right? We're going          |
 | 01:20:30   | to have a bunch of show links in the notes here with some of the stuff we've talked about today.             |
 | 01:20:36   | If you haven't looked at automating with [[Drafts]], it's such an awesome tool. It's on all three                |
-| 01:20:40   | platforms and we are digging it. Thank you to our sponsors, Mint Mobile and Dev and Think.                   |
+| 01:20:40   | platforms and we are digging it. Thank you to our sponsors, Mint Mobile and [[DEVONthink]].                   |
 | 01:20:46   | We are the Automators. You can join the forums over at [talk.automators.fm](https://talk.automators.fm).                                   |
 | 01:20:51   | You can find us at relay.fm/automators. And we'll see you in a couple of weeks.                              |
 | 01:20:56   | Goodbye, everyone.                                                                                           |

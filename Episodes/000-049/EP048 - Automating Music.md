@@ -1179,7 +1179,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:06:21   | them after you've collected them because it can take a couple of weeks to collect everything           |
 | 01:06:24   | of course because nothing ever works that fast.                                                        |
 | 01:06:27   | And then you have to send them back.                                                                   |
-| 01:06:29   | And so I was using the tags in Dev and Think to tag everything that I've got this document             |
+| 01:06:29   | And so I was using the tags in [[DEVONthink]] to tag everything that I've got this document             |
 | 01:06:35   | now, right?                                                                                            |
 | 01:06:36   | Tag it with me to send to this person, but I had to send all the documents together.                   |
 | 01:06:40   | You couldn't send them.                                                                                |

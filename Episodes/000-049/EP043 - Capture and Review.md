@@ -478,7 +478,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 33:40      | optical character recognition, it can get a little bit weird, which is to say, very unexpected          |
 | 33:47      | results, sometimes very interesting results. I'm sure I've created many new words by doing this.        |
 | 33:53      | But in general, at the moment, I'm just taking a photograph of these things. And depending              |
-| 33:56      | on what it is, it might get attached to a task in OmniFocus or get put into Dev and Think,              |
+| 33:56      | on what it is, it might get attached to a task in OmniFocus or get put into [[DEVONthink]],              |
 | 34:01      | or even occasionally these things end up in day one. But a lot of the time I take a photo as            |
 | 34:07      | reference and then convert it to whatever its finished format is at some point.                         |
 | 34:12      | Yeah, that's what I do too. The only people that ever see those are me, because if you saw them,        |

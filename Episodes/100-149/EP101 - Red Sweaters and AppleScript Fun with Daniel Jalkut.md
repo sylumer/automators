@@ -2316,7 +2316,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:41:45   | cause this is a good story.                                       |
 | 01:41:47   | So for the supporters, we'll be talking about that.               |
 | 01:41:50   | Also thank you to our sponsors,                                   |
-| 01:41:52   | TextExpander, Hunter Douglas and Dev and Think.                 |
+| 01:41:52   | TextExpander, Hunter Douglas and [[DEVONthink]].                 |
 | 01:41:55   | We are the Automators, you can find us                            |
 | 01:41:57   | at relay.fm/automators and we'll see you next time.         |
 | 01:42:01   | Goodbye.                                                          |

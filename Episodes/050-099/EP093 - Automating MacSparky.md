@@ -768,7 +768,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 42:14      | You can create a link to a folder, create a link to an individual project or whatever                  |
 | 42:19      | or a perspective.                                                                                      |
 | 42:20      | And because I'm so hung up on contextual computing, like when I go to that [[Obsidian]] note, it has       |
-| 42:26      | a link to the OmniFocus project based on one of those links or to Dev and Think data on                |
+| 42:26      | a link to the OmniFocus project based on one of those links or to [[DEVONthink]] data on                |
 | 42:33      | it or to the Google doc.                                                                               |
 | 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the Kanban           |
 | 42:42      | and immediately get to all the resources related to it.                                                |

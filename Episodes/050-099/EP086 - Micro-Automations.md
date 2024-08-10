@@ -78,9 +78,9 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 00:47      | technology is a good idea.                                                                              |
 | 00:49      | You've got a bunch of different categories here today, so we're going to dig into that.                 |
 | 00:54      | Before we do though, I just want to thank everyone for the support with the purchase                    |
-| 00:57      | of the Dev and Think Field Guide, I know a lot of the Automator's audience did that                     |
+| 00:57      | of the [[DEVONthink]] Field Guide, I know a lot of the Automator's audience did that                     |
 | 01:01      | and I appreciate it.                                                                                    |
-| 01:03      | Now, Rose and I are going to do at some point in the future a show on Dev and Think Automation          |
+| 01:03      | Now, Rose and I are going to do at some point in the future a show on [[DEVONthink]] Automation          |
 | 01:08      | because I covered it in the Field Guide, but there's a lot you can do with the automation               |
 | 01:13      | there.                                                                                                  |
 | 01:14      | So that's a future show, but it's not if you have any questions on that.                                |

@@ -1809,8 +1809,8 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:11:27   | If you've got some money to give to St. Jude,                      |
 | 01:11:30   | please go give some money to St. Jude.                             |
 | 01:11:32   | It sure would help.                                                |
-| 01:11:33   | If you're interested in Dev and Think,                             |
-| 01:11:35   | go check out my Dev and Think field guide                          |
+| 01:11:33   | If you're interested in [[DEVONthink]],                             |
+| 01:11:35   | go check out my [[DEVONthink]] field guide                          |
 | 01:11:37   | at learn.macsparky.com.                                            |
 | 01:11:39   | Anything going on?                                                 |
 | 01:11:40   | Anything going on in your life, Rose,                              |
