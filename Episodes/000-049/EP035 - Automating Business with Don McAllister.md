@@ -891,7 +891,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 51:42      | up an item and get a lot more information.                                                             |
 | 51:44      | So for example, whenever I get a recording assigned to me, I can go back and look up                   |
 | 51:48      | the show recording and get even more information if I want or need it.                                 |
-| 51:52      | And Integromat also has support, which is alternative to Zapier, and they seem to have                 |
+| 51:52      | And [[Make\|Integromat]] also has support, which is alternative to Zapier, and they seem to have                 |
 | 51:57      | all the same options and possibly even a few more.                                                     |
 | 52:00      | I haven't really dug into that yet.                                                                    |
 | 52:02      | Excellent.                                                                                             |
@@ -901,10 +901,10 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 52:15      | A, ask their support.                                                                                  |
 | 52:16      | Their support are very helpful and very speedy, so that's always worth talking to them because         |
 | 52:21      | they often have workarounds for these things.                                                          |
-| 52:24      | But if they don't have it, try Integromat, because Integromat is something I've been                   |
+| 52:24      | But if they don't have it, try [[Make\|Integromat]], because [[Make\|Integromat]] is something I've been                   |
 | 52:27      | playing with.                                                                                          |
 | 52:28      | We may have to do a future show on this one, David.                                                    |
-| 52:29      | I know you're still getting a Zapier and regular expressions, but Integromat may be                    |
+| 52:29      | I know you're still getting a Zapier and regular expressions, but [[Make\|Integromat]] may be                    |
 | 52:34      | in our future, because that can branch and do all sorts of things, including in their                  |
 | 52:39      | free plan.                                                                                             |
 | 52:40      | So yes, there's lots of options there.                                                                 |
@@ -949,7 +949,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 54:56      | I would say 19 out of 20 of my Zapier zaps are indeed business ones.                                   |
 | 55:00      | Now, I need to double check with my accountant whether or not this will count for me as a              |
 | 55:04      | business expenditure, but I'm pretty certain they're going to say yes, because I could                 |
-| 55:07      | always turn off my 20th Zap and figure out how to do it with Integromat.                              |
+| 55:07      | always turn off my 20th Zap and figure out how to do it with [[Make\|Integromat]].                              |
 | 55:13      | What is your 20th, though?                                                                             |
 | 55:14      | I want to know what you're using it for that's not business.                                           |
 | 55:17      | I'm playing with some toggle timers, which technically I could probably count as business,             |

@@ -981,7 +981,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:03:34   | Thank you very much.                                                                                     |
 | 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your Amazon                  |
 | 01:03:42   | return.                                                                                                  |
-| 01:03:43   | And then this one is actually an Integromat.                                                            |
+| 01:03:43   | And then this one is actually an [[Make\|Integromat]].                                                            |
 | 01:03:45   | It branches out.                                                                                         |
 | 01:03:46   | It checks whether or not it's something that I need to print a label for, uh, and if I                   |
 | 01:03:49   | don't need to print a label, then it tells me, uh, then it, uh, gets, uh, uh, um, the,                   |
@@ -1188,7 +1188,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:16:32   | we've got between each other.                                                                            |
 | 01:16:34   | But in case you hadn't noticed, there's a third person in our one-to-one message.                        |
 | 01:16:38   | Yeah.                                                                                                    |
-| 01:16:39   | Who's this Integromat, that keeps messaging me, Rose?                                              |
+| 01:16:39   | Who's this [[Make\|Integromat]], that keeps messaging me, Rose?                                              |
 | 01:16:42   | Well, it's messaging me too.                                                                             |
 | 01:16:44   | So one of the things that I wanted to solve is whenever I have an idea for an automator                  |
 | 01:16:49   | show, I feel like I should be sharing that with you, but I should be sharing that with                   |
@@ -1219,9 +1219,9 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:18:39   | And then I still have to fire something off to ping you through [[Slack]].                                   |
 | 01:18:43   | Now [[Slack]] does have an API and you can get API keys for it depending on how people have                  |
 | 01:18:47   | set up the bases.                                                                                        |
-| 01:18:48   | But Integromat has API integration, a [[Slack]] API, and so it can talk to [[Slack]] for you,                    |
+| 01:18:48   | But [[Make\|Integromat]] has API integration, a [[Slack]] API, and so it can talk to [[Slack]] for you,                    |
 | 01:18:55   | which means I didn't have to figure out any of that.                                                     |
-| 01:18:57   | So I created a three step scenario in Integromat.                                                        |
+| 01:18:57   | So I created a three step scenario in [[Make\|Integromat]].                                                        |
 | 01:19:02   | First of all, it's got a web hook.                                                                       |
 | 01:19:03   | So I ping the web hook and I send it the idea and a note.                                                |
 | 01:19:08   | The note could be empty.                                                                                 |
@@ -1235,24 +1235,24 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:19:39   | But I just thought that that would be a pretty cool way of making sure that things always                |
 | 01:19:43   | end up in there in a nice way so that you know about it.                                                 |
 | 01:19:48   | And yeah, it seemed like a fun exercise in automation, at the very least.                                |
-| 01:19:54   | It feels like Integromat just continues to get traction with cloud automation.                           |
+| 01:19:54   | It feels like [[Make\|Integromat]] just continues to get traction with cloud automation.                           |
 | 01:19:58   | Well, what I like about it is it does work really well for me.                                           |
 | 01:20:03   | So it might not work really well for everyone, but I love that visual element to it.                     |
 | 01:20:09   | Where if you've got a split, then you can see it split, and you don't necessarily see                    |
 | 01:20:14   | a lot of detail about each step until you click into it, but then you have everything.                   |
 | 01:20:21   | And in some ways, it's more powerful than Zapier.                                                        |
-| 01:20:22   | In other ways, Zapier is more powerful than Integromat.                                                  |
+| 01:20:22   | In other ways, Zapier is more powerful than [[Make\|Integromat]].                                                  |
 | 01:20:26   | So I feel like everybody should have a look at both if they're looking for an online web                 |
 | 01:20:31   | automation service.                                                                                      |
 | 01:20:32   | It is cheaper, which has a lot in its favor.                                                             |
 | 01:20:34   | Yeah, it really is interesting because we did a show on cloud-based automation status                    |
 | 01:20:41   | like about four months ago, and what we said then is still true.                                         |
 | 01:20:45   | All of these players have got different areas of focus.                                                  |
-| 01:20:49   | I have TTT, Zapier, Integromat, and I guess if you want to try this out, you just got                    |
+| 01:20:49   | I have TTT, Zapier, [[Make\|Integromat]], and I guess if you want to try this out, you just got                    |
 | 01:20:54   | to really take a look at each tool and see what problems you're trying to solve.                         |
 | 01:20:59   | But I still wouldn't recommend making them to Rube Goldberg because you're adding the                    |
 | 01:21:05   | internet to the mix on every step for these solutions.                                                   |
-| 01:21:09   | And it could be no fault of Integromat, but something may not work because the service                   |
+| 01:21:09   | And it could be no fault of [[Make\|Integromat]], but something may not work because the service                   |
 | 01:21:15   | you're connecting to is having issues, and then you get frustrated.                                      |
 | 01:21:20   | Yeah, yeah, and that's the thing.                                                                        |
 | 01:21:22   | You have to figure out where the balance lies for you.                                                   |

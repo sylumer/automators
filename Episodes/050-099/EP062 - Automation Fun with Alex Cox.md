@@ -500,7 +500,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 46:18      | now have two terabytes of iCloud storage space as well as two terabytes of [[Dropbox]] space. So I          |
 | 46:24      | may need to rethink that plan. That said, I don't think [[Dropbox]] do a smaller tier. So, you know,        |
 | 46:29      | I'll see what happens there. But, you know, I pretty much just put things in [[Dropbox]] because            |
-| 46:34      | it's easier. And also [[Dropbox]] is available to Zapier and Integromat. And honestly, iCloud Drive         |
+| 46:34      | it's easier. And also [[Dropbox]] is available to Zapier and [[Make\|Integromat]]. And honestly, iCloud Drive         |
 | 46:41      | is great, but it's not available to either of those services. So that means I can't automatically       |
 | 46:45      | have stuff saved into it from online services, which are doing things like creating documents for me    |
 | 46:50      | or folders for stuff and things like that. So I pretty much just decided that I'm in on [[Dropbox]].        |

@@ -1103,11 +1103,11 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:19:59   | Zapier ends up having a lot of between action adjustments that you can make that IFTTT I found          |
 | 01:20:09   | has been lacking in the past, but IFTTT has added a lot more robustness over time that puts it,         |
 | 01:20:17   | I think, on the same level or close to the same level of Zapier. Do either of you use both of           |
-| 01:20:25   | those or either of those? I use both of them. And I also use another service called Integromat,         |
+| 01:20:25   | those or either of those? I use both of them. And I also use another service called [[Make\|Integromat]],         |
 | 01:20:31   | which is more like Zapier from the power perspective, but it's visual to interact with.                 |
 | 01:20:38   | So you actually have nodes and you get branching as well at the base tier, which is really nice,        |
 | 01:20:43   | because the base tier is only $7 a month, which if you're looking to expand from                        |
-| 01:20:49   | what if this and that can do, then $7 a month to Integromat is a lot more affordable than the $20       |
+| 01:20:49   | what if this and that can do, then $7 a month to [[Make\|Integromat]] is a lot more affordable than the $20       |
 | 01:20:55   | a month for Zapier. Zapier really is a business tool. But I use all of them. And I find they            |
 | 01:21:02   | work really well, but I do tend to stick with automate these things on the web. The closest             |
 | 01:21:08   | I'll come to interacting with my machine is putting something in a [[Dropbox]] folder,                      |

@@ -157,7 +157,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 07:01      | to manage them. But I do have specific automated actions folders inside of iCloud and [[Dropbox]]            |
 | 07:10      | because this means that other things can put files and things there to be managed. So for                |
 | 07:16      | example, Zapier will save certain things into subfolders of the automated actions folder                  |
-| 07:21      | in [[Dropbox]] for me and make previously known as Integromat does that as well. And then                    |
+| 07:21      | in [[Dropbox]] for me and [[Make]] previously known as [[Make\|Integromat]] does that as well. And then                    |
 | 07:26      | I have shortcuts, of course, and that saves things. Historically, always save things inside              |
 | 07:31      | the shortcuts folder. And so that was where my automated actions folder was in iCloud.                   |
 | 07:36      | And I've been able, fortunately, with iOS 15 to move that up a level to the top in iCloud,               |
@@ -463,13 +463,13 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 33:05      | what I am playing with at the moment. I don't think that's going to be ready by the time                 |
 | 33:09      | this show ships, but hopefully I will have it in a vaguely shareable state so I can talk                 |
 | 33:15      | about it in the forums.                                                                                  |
-| 33:16      | Yeah, that's a lot. You know, I'm a big fan. Brett and I wrote books together. I just                    |
+| 33:16      | Yeah, that's a lot. You know, I'm a big fan. [[Brett Terpstra\|Brett]] and I wrote books together. I just                    |
 | 33:23      | haven't really got fully invested in bunch it. And I think the reason is because I set                   |
 | 33:29      | up all of these scripts in [[Keyboard Maestro]] to do setups for me. And like the kind of                    |
 | 33:34      | stuff I want to do, usually with a setup is open apps and then arrange them using moon,                  |
 | 33:40      | which is the same thing you're doing with bunch. And occasionally like I'll start a                      |
 | 33:45      | timer or something, but all that stuff is scriptable inside [[Keyboard Maestro]]. I'm trying                 |
-| 33:51      | to make the case for me for bunch. I mean, what should I, what am I missing here?                        |
+| 33:51      | to make the case for me for [[Bunch]]. I mean, what should I, what am I missing here?                        |
 | 33:55      | Well, one of the great things that you can do with bunch, which I think a lot of people                  |
 | 33:59      | probably will like is if you click on the bunch option in the menu bar, there is an                      |
 | 34:03      | option right there, new bunch with open apps, which means that you can just open up the                  |
@@ -536,7 +536,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 39:24      | in the background and things like that. And I've been getting pretty nerdy with the home                 |
 | 39:28      | automation stuff, David. I think there's going to be quite a bit to talk about there.                    |
 | 39:33      | This episode of automators is brought to you by our friends at Texas Fender. Keep everything             |
-| 39:37      | consistent and accurate with Texas Fender. In our fast-paced world, things change constantly             |
+| 39:37      | consistent and accurate with . In our fast-paced world, things change constantly             |
 | 39:42      | and errors in messaging can have significant consequences. Texas Fender lets you make approved           |
 | 39:47      | messaging available to every team member instantly with just a few keystrokes. So your team stays        |
 | 39:52      | consistent, current and accurate. With Texas Fender, you can get your message right every                |
@@ -1051,7 +1051,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:25:57   | They're not actually living in the base. We do let them escape occasionally.                             |
 | 01:26:01   | I hear the Twitch studios are nice from the last time we let Micah out. But all of these give me         |
 | 01:26:07   | a lot of data which I can then access in a lot of other places. So I've been using a lot of Zap here     |
-| 01:26:13   | and some of this is migrated to Make which very recently rebranded from Integromat.                      |
+| 01:26:13   | and some of this is migrated to [[Make]] which very recently rebranded from [[Make\|Integromat]].                      |
 | 01:26:21   | And those do things like watch certain views and then go great. It's time to create a new show           |
 | 01:26:28   | note for automators. I'm going to take this template and I'm going to take this data from air table.     |
 | 01:26:32   | I'm going to replace these placeholders in the template with this data and bam,                          |
@@ -1062,7 +1062,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:27:02   | in air table and then it just bam magically appears in the Google Doc in a nice formatted view           |
 | 01:27:08   | that we can easily share with our guests. Yeah, it's impressive. And organising Google Doc creation      |
 | 01:27:16   | it's not really that much work if you want to try and do it. And there's a lot of ways you can do it.    |
-| 01:27:21   | Like you mentioned that make slash what was it called before Integromat. Yeah,                           |
+| 01:27:21   | Like you mentioned that [[Make]] slash what was it called before [[Make\|Integromat]]. Yeah,                           |
 | 01:27:29   | they've got a nice system in there where you can automate the formation of a Google Doc                  |
 | 01:27:34   | with a template and that's what you're using for this one, right? Yes, yes, I am. So there's a           |
 | 01:27:41   | template document with placeholders in and placeholders are something that you can set up                |
@@ -1076,18 +1076,18 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:28:27   | which was okay, but it didn't result in very pretty documents.                                           |
 | 01:28:30   | Yeah, I've been playing with the same thing for Mac power users and auto-generating the template and     |
 | 01:28:34   | this is not rocket science if you want to do it. I guess that kind of gives me a bigger question is      |
-| 01:28:40   | what else are you doing with like make slash integral mad and Zapier and some of the other              |
+| 01:28:40   | what else are you doing with like [[Make\|Make/Integromat]] and [[Zapier]] and some of the other              |
 | 01:28:46   | web tools? What's your involvement with those at this point?                                             |
 | 01:28:51   | I mean, there's a whole bunch of things happening that I just don't even think about anymore,            |
 | 01:28:57   | because, well, magic just happens and projects appear in OmniFocus or documents appear in                |
 | 01:29:05   | Finder or DEVONthink or wherever they need to be and I'm not thinking about it, which is really          |
-| 01:29:10   | the magic. So I'm just opening make right now to just double check because I know I've got a lot         |
+| 01:29:10   | the magic. So I'm just opening [[Make]] right now to just double check because I know I've got a lot         |
 | 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is Amazon        |
 | 01:29:23   | Returns. If I return something to Amazon, this doesn't happen very often. I try to be smart              |
 | 01:29:28   | when I buy something, so I'm not constantly doing returns. It's not great for the environment or         |
 | 01:29:33   | anything else, but whenever I do an Amazon return, it grabs that email, that email gets forwarded        |
-| 01:29:40   | to it. I use FastMail's rules to forward that to a mail hook at make and it grabs a bunch of              |
-| 01:29:46   | information out of it and adds that as a task or actually a project in OmniFocus. So I end up with       |
+| 01:29:40   | to it. I use FastMail's rules to forward that to a [[Mailhook\|mailhook]] at [[Make]] and it grabs a bunch of              |
+| 01:29:46   | information out of it and adds that as a task or actually a project in [[OmniFocus]]. So I end up with       |
 | 01:29:55   | an auto-completing project which will complete with the last item and then inside of it,                 |
 | 01:30:02   | it's got print label package item for return and then drop off parcel for return. Only it doesn't        |
 | 01:30:08   | just say parcel, it'll actually tell me what the parcel is at all those steps because that               |
@@ -1096,7 +1096,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:30:26   | didn't happen before. I thought I had another week to return something and discovered very               |
 | 01:30:31   | shortly before the post I was closed that I did not. So fortunately, I was able to make it down          |
 | 01:30:35   | there. But what I'm doing with that is I'm just matching text in the email and then I'm calling          |
-| 01:30:41   | PushCut and PushCut is adding the OmniFocus project for me with the information that I need for that.    |
+| 01:30:41   | PushCut and PushCut is adding the [[OmniFocus]] project for me with the information that I need for that.    |
 | 01:30:50   | And there's lots of different things that are going on. Whenever I get, there's a tweet about            |
 | 01:30:58   | iOS today, I get sent that information in such a way that I can tap on it to retweet and so on           |
 | 01:31:06   | and so forth, which I really like. Yeah, I'm trying to use more cloud-based stuff, like                  |
@@ -1176,7 +1176,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:37:59   | tab on the thing. You could navigate. That doesn't really make sense. I can do that                      |
 | 01:38:04   | just as quickly with my fingers. I don't think I need to put that on my foot. And that's really          |
 | 01:38:09   | the thing, right? It's like what goes down to the foot and what doesn't. Podcasting, mute the mic,       |
-| 01:38:16   | of course. Like the podcast time stamp stuff, of course. I think Zoom is another great option            |
+| 01:38:16   | of course. Like the podcast time stamp stuff, of course. I think [[Zoom]] is another great option            |
 | 01:38:23   | for this. Wouldn't it be great if you just mash with your foot that it mutes your mic                    |
 | 01:38:27   | or changes cameras or whatever. And so there are things where I think we're on camera or                 |
 | 01:38:34   | like in the thick of battle, like we, when we're recording a podcast, I think using your foot makes      |
@@ -1219,7 +1219,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:41:57   | an Elgato fanboy, but they just, they really do good stuff. I heard from a Mac Power users               |
 | 01:42:02   | listener that said Elgato was formed by, I think it was the people that did, I want to say the logic.    |
 | 01:42:10   | And then they got into hardware and they've got some former Apple people there.                          |
-| 01:42:14   | Whatever's going on over there. I'm a fan. I mean, like, like I've got their XLR box now.                |
+| 01:42:14   | Whatever's going on over there. I'm a fan. I mean, like, like I've got their [[XLR]] box now.                |
 | 01:42:19   | I've got their mic stand and man, it's just all good quality stuff that you don't regret buying          |
 | 01:42:25   | like so much of the stuff these days. All right. Well, that's it. We are the Automators Podcast.         |
 | 01:42:32   | I want to thank our friends. We've got several sponsors today helping us out at Electric,                |

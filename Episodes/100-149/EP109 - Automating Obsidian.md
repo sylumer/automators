@@ -574,7 +574,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 24:48      | than a developer capability issue.                                                                 |
 | 24:50      | But either way, you can't use [[Dropbox]] there.                                                       |
 | 24:53      | But [[Dropbox]] is my preferred method for syncing things,                                             |
-| 24:56      | generally, because then I can integrate stuff using Make                                           |
+| 24:56      | generally, because then I can integrate stuff using [[Make]]                                           |
 | 25:00      | and Zapier, and if this and that,                                                                  |
 | 25:03      | and other online and amazing automations                                                           |
 | 25:05      | and just have stuff dropped in wherever,                                                           |
@@ -1526,7 +1526,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 59:29      | into [[Obsidian]] from [[Drafts]] and keyboard                                                             |
 | 59:31      | my show and [[Hazel]] have also come up as                                                             |
 | 59:33      | has Zapier                                                                                         |
-| 59:35      | Meek and Integromat                                                                                |
+| 59:35      | [[Make]] and [[Make\|Integromat]]                                                                                |
 | 59:37      | or as it used to be called and if this and that                                                    |
 | 59:39      | what                                                                                               |
 | 59:41      | would you say your favourite non [[Obsidian]]                                                           |

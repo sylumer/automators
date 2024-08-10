@@ -180,7 +180,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 08:00      | the future shows that we were planning, you know, we had a list of guests with who was               |
 | 08:04      | like the main contact person for the guests and so on and so forth in there.                         |
 | 08:08      | So we could plan everything.                                                                         |
-| 08:10      | And then I set up some Zapier and make a formerly known as Integromat automations that when,         |
+| 08:10      | And then I set up some Zapier and make a formerly known as [[Make\|Integromat]] automations that when,         |
 | 08:18      | for example, when we'd set up a show in [[Airtable]], it would go and create a new Google Doc for        |
 | 08:23      | us and put it in the right place and, you know, replace bits of text in it and so on                 |
 | 08:27      | and so forth.                                                                                        |
@@ -267,7 +267,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 13:34      | topics are we going to talk about and so on and so forth so that we can put all of that              |
 | 13:38      | together.                                                                                            |
 | 13:39      | And that was just, you know, we had an outline in Google Docs that, you know, was being manipulated  |
-| 13:44      | and massaged together by Make.                                                                       |
+| 13:44      | and massaged together by [[Make]].                                                                       |
 | 13:49      | And you know, we were able to just take that and modify it a little bit and turn it into             |
 | 13:55      | a [[Notion]] template that now whenever we create a new episode idea, it just feels like, you            |
 | 14:02      | know, it just pops up in [[Notion]] and ta-da, we have our outline ready to go.                          |
@@ -283,7 +283,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 14:42      | focus shows.                                                                                         |
 | 14:43      | We could come up with several templates where the kinds of things we cover in those shows            |
 | 14:47      | are just automatically populated into the show outline for us.                                       |
-| 14:51      | And that's kind of what we're doing with Make, but a little different.                               |
+| 14:51      | And that's kind of what we're doing with [[Make]], but a little different.                               |
 | 14:56      | But I do think one of the things that surprised me about [[Notion]] as we got started with it            |
 | 15:00      | is that [[Notion]] has a significant amount of automation built right into the application.              |
 | 15:07      | I mean, there are ways to automate it from outside, but for a lot of people that get                 |
@@ -809,7 +809,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 48:23      | at the same data with just two different views, that's better.                                       |
 | 48:28      | And that is where something like notion really does excel.                                           |
 | 48:31      | And the fact that it has automation built into it, and it has integrations now with                  |
-| 48:35      | things like Zap here, and Make, formerly Integromat, and you can add if this and that                |
+| 48:35      | things like [[Zapier}]], and [[Make]], formerly [[Make\|Integromat]], and you can add if this and that                |
 | 48:42      | and so on, if you want to.                                                                           |
 | 48:45      | And there's options using things like Automate and [[Drafts]] and so on on your devices.                 |
 | 48:51      | I think that that's the point where it goes from, this is a really great idea in theory              |

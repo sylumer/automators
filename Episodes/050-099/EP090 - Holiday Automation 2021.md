@@ -1053,7 +1053,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:00:16   | to send us the delivery emails or batch emails and things like that, which is really good.           |
 | 01:00:25   | So I use Parcel for that, but they don't have an API to get data out.                                |
 | 01:00:29   | I consider building something where when I forward an email to Parcel, I also forward                |
-| 01:00:33   | it to something else, like Integromat that goes and looks things up.                                 |
+| 01:00:33   | it to something else, like [[Make\|Integromat]] that goes and looks things up.                                 |
 | 01:00:37   | And I immediately discarded that as this is way too complicated.                                     |
 | 01:00:41   | And don't overcomplicate this.                                                                       |
 | 01:00:42   | There aren't that many people that you give gifts to.                                                |

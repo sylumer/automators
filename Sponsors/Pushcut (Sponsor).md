@@ -8,7 +8,7 @@ Pushcut is a powerful automation iOS/iPadOS utility free to download on the App 
 
 > Pushcut helps you kick off your automation when it matters. Create fine-tuned interactions for HomeKit, Shortcuts, and custom workflows through smart notifications and widgets combined with powerful automation actions.
 > 
-> Use HomeKit scenes, shortcuts, online integrations, and web services as notification actions that pop up exactly when they matter to you. Trigger these smart notifications from Shortcuts, HomeKit, schedules, locations, iBeacons, online services (like IFTTT, Zapier, Flow, Make, ...), home servers, or anywhere that knows what HTTP is.
+> Use HomeKit scenes, shortcuts, online integrations, and web services as notification actions that pop up exactly when they matter to you. Trigger these smart notifications from Shortcuts, HomeKit, schedules, locations, iBeacons, online services (like IFTTT, Zapier, Flow, [[Make]], ...), home servers, or anywhere that knows what HTTP is.
 > 
 > Design beautiful custom widgets and display dynamic information that you can provide using Shortcuts actions, online services or our own API.
 

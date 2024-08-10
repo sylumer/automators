@@ -195,7 +195,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 07:36      | work on things and Google documents spawned every time there was a new puzzle we wanted                |
 | 07:40      | to work on.                                                                                            |
 | 07:41      | And we had a system to do it, but it was a little clunky and I discovered a service                    |
-| 07:45      | called Integromat and I just sort of dove into that and it was like so perfect for what                |
+| 07:45      | called [[Make\|Integromat]] and I just sort of dove into that and it was like so perfect for what                |
 | 07:51      | I need to do.                                                                                          |
 | 07:52      | And it was this exceedingly complex workflow where it like spins off and now spins off                 |
 | 07:56      | like [[Discord]] channels and Google Docs and files the Google Docs in the correct areas                   |
@@ -205,12 +205,12 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 08:11      | This is the thing that is like totally scratching my automation edge.                                  |
 | 08:14      | Oh, yeah.                                                                                              |
 | 08:15      | Yeah.                                                                                                  |
-| 08:16      | I really love Integromat.                                                                              |
-| 08:17      | They recently renamed to make.                                                                         |
-| 08:18      | Make?                                                                                                  |
+| 08:16      | I really love [[Make\|Integromat]].                                                                              |
+| 08:17      | They recently renamed to [[Make]].                                                                         |
+| 08:18      | [[Make]]?                                                                                                  |
 | 08:19      | Yeah.                                                                                                  |
 | 08:20      | Yeah.                                                                                                  |
-| 08:21      | I really like Integromat as well.                                                                      |
+| 08:21      | I really like [[Make\|Integromat]] as well.                                                                      |
 | 08:22      | And I have to say, I really like the visual aspect of it as well.                                      |
 | 08:24      | It works so nicely.                                                                                    |
 | 08:25      | And the fact that you've got the the branches and everything in there, it makes it feels               |
@@ -550,7 +550,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 25:56      | It blew me away because looking at these different services, you go into something like IFTTT          |
 | 26:01      | or Zapi or whatever.                                                                                  |
 | 26:02      | It's like a pretty good menu of services available.                                                    |
-| 26:05      | I think Integromat blew me away because when you go in there, the number of services, it               |
+| 26:05      | I think [[Make\|Integromat]] blew me away because when you go in there, the number of services, it               |
 | 26:12      | had access to things that I did not see anywhere else and could do things with those APIs.             |
 | 26:17      | It's clear they spent the time building their modules for all these services to really take            |
 | 26:22      | advantage of them to the utmost.                                                                       |
@@ -634,7 +634,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 31:52      | And then something else comes along, a great new social media platform, and I don't have               |
 | 31:56      | to wait for somebody to create a WordPress plugin for that or try and create one myself                |
 | 32:02      | or create somebody to create it.                                                                       |
-| 32:04      | They're probably going to go and approach the Integromat Zapier if this, then that folks               |
+| 32:04      | They're probably going to go and approach the [[Make\|Integromat]] Zapier if this, then that folks               |
 | 32:08      | and say, hey, we've got an API.                                                                        |
 | 32:11      | Can you hook us up?                                                                                    |
 | 32:12      | Because that's promotion for us.                                                                       |

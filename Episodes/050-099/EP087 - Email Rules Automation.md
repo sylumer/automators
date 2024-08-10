@@ -450,7 +450,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 35:34      | for automators, it's not going to give you enough.                                                         |
 | 35:37      | No, I would say it almost certainly won't give you enough. The really good news is by                      |
 | 35:43      | doing this experiment, it has forced me to think out of the box for a lot of this stuff.                   |
-| 35:49      | And I've come up with some pretty innovative solutions because of this. So I'm using Integromat            |
+| 35:49      | And I've come up with some pretty innovative solutions because of this. So I'm using [[Make\|Integromat]]            |
 | 35:54      | to filter my email now, which is something we can, well, we can, we can talk through                       |
 | 35:58      | that in a moment, but I do just want to say like the fact that I can't filter on subject                   |
 | 36:03      | and address is very frustrating. Now, you might be thinking, but Rose, you can do that                     |
@@ -461,7 +461,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 36:31      | there's an email or no, there's no email. And then it will sit and wait. And so the problem                |
 | 36:37      | with the fetch system, especially when you're them running males in the Mac mail client is                 |
 | 36:42      | that email still lands in your inbox. And that means that you potentially will still                       |
-| 36:46      | get notifications about that on other devices. And that's not idea. You know, and the Integromat           |
+| 36:46      | get notifications about that on other devices. And that's not idea. You know, and the [[Make\|Integromat]]           |
 | 36:53      | solution I'm going to talk about is still doing fetch, unfortunately, it doesn't have                      |
 | 36:57      | push unless you hook it up to Gmail or G Suite, in which case you do get that. And it's using              |
 | 37:04      | their API rather than IMAP. But it does have some alternatives to it, which are quite nice.                |
@@ -780,10 +780,10 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:04:20   | today to take advantage of their season of style rebate savings event. That's hunterdouglas.com            |
 | 01:04:27   |/automators for limited time savings. This offer expires December 6, 2021. And our                    |
 | 01:04:34   | thanks to Hunter Douglas for the support of the automators and all of relay FM.                            |
-| 01:04:40   | So David, I've been teasing Integromat for a while. Am I allowed to talk about it yet?                     |
-| 01:04:44   | Yes. Let's hear about Integromat. Okay. So what I have been doing is using an                              |
-| 01:04:50   | online service called Integromat as email filtering or somewhat for email filtering.                       |
-| 01:04:57   | I'm not using it just for email filtering. But Integromat is somewhat similar to Zapier.                   |
+| 01:04:40   | So David, I've been teasing [[Make\|Integromat]] for a while. Am I allowed to talk about it yet?                     |
+| 01:04:44   | Yes. Let's hear about [[Make\|Integromat]]. Okay. So what I have been doing is using an                              |
+| 01:04:50   | online service called [[Make\|Integromat]] as email filtering or somewhat for email filtering.                       |
+| 01:04:57   | I'm not using it just for email filtering. But [[Make\|Integromat]] is somewhat similar to Zapier.                   |
 | 01:05:02   | Only it's got a more graphical user interface with branching and stuff available on the                    |
 | 01:05:07   | lower tiers. And it's a bit cheaper as well. So have a look at it and see if it can work                   |
 | 01:05:12   | for you. But there are two integrations that you can use with your email. There's either                   |
@@ -791,14 +791,14 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:05:23   | just like mail on your Mac or [[Airmail]], [[Spark]], whatever will connect to your email via [[IMAP]],                |
 | 01:05:30   | which is a standard series of rules, and read your email. Now, I should point out that just                |
 | 01:05:39   | like mail on a Mac, this is not perfect. It is not instant because it does not get those                   |
-| 01:05:44   | pushes that I was talking about. It is running a fetch. So Integromat, for me, is running                  |
+| 01:05:44   | pushes that I was talking about. It is running a fetch. So [[Make\|Integromat]], for me, is running                  |
 | 01:05:48   | every 15 minutes. And it's looking for email in my inbox and then doing stuff based on                     |
 | 01:05:57   | that. Now, I've actually got multiple rules set up, and each of those is just looking                      |
 | 01:06:02   | for email with specific criteria. So part of the thing with this is I didn't necessarily                   |
 | 01:06:10   | set it up particularly well because I was somewhat in panic mode after realising, oh                       |
 | 01:06:14   | my God, [[Gmail]] filters for doing so many things for me at night, forgotten all about it. So                 |
-| 01:06:20   | some of it is kind of handled through iCloud and some of it's handled through Integromat,                  |
-| 01:06:24   | which means that sometimes iCloud puts it in a folder and sometimes Integromat is the                      |
+| 01:06:20   | some of it is kind of handled through iCloud and some of it's handled through [[Make\|Integromat]],                  |
+| 01:06:24   | which means that sometimes iCloud puts it in a folder and sometimes [[Make\|Integromat]] is the                      |
 | 01:06:29   | one that puts it in a folder. Because as well as reading your email, it can do stuff with                  |
 | 01:06:34   | your email. So obviously, it can send an email and create a draft for you. The draft feature               |
 | 01:06:39   | is actually very useful for things. So there's certain people that I'm talking to at the                   |
@@ -811,20 +811,20 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:07:10   | which gives you that option. Like if you own your own domain and you're not in Google,                     |
 | 01:07:14   | you can suddenly put a cloud-based rule system in effect. And even as much as I like FastMail,             |
 | 01:07:21   | it does not create an email for me or create a draft. That is kind of a unique function                    |
-| 01:07:26   | to something like Integromat.                                                                              |
+| 01:07:26   | to something like [[Make\|Integromat]].                                                                              |
 | 01:07:28   | Yes. And I have to say, this is really nice. I did look at Zapier. And what you have to                    |
 | 01:07:33   | do with Zapier is you have to forward emails to it. And it can send email from your custom                 |
 | 01:07:41   | domain. Actually, I think it might actually support inbound email now. I will have to                      |
 | 01:07:44   | have a look at that probably after the show and follow up in the future. But, you know,                    |
-| 01:07:51   | what you can do with Integromat is have it, you know, read your email inbox and do things                  |
+| 01:07:51   | what you can do with [[Make\|Integromat]] is have it, you know, read your email inbox and do things                  |
 | 01:07:57   | with that. So yeah, as well as creating a draft and sending an email, which can be a                       |
 | 01:08:01   | completely new email, not just forwarding things. It can also mark emails as read or                       |
 | 01:08:08   | unread, move them into specific folders, copy them into specific folders, delete them, and                 |
 | 01:08:15   | it can send you a personal email. And as well as this, it can iterate over your attachments.               |
 | 01:08:21   | So if you get emails with lots of attachments and you need them all saved, I don't know,                   |
-| 01:08:25   | say to [[Dropbox]] or something, that is something that you can do with Integromat and the IMAP                |
+| 01:08:25   | say to [[Dropbox]] or something, that is something that you can do with [[Make\|Integromat]] and the IMAP                |
 | 01:08:30   | integration, which is pretty handy. I actually now have a [[Dropbox]] folder called email attachments,         |
-| 01:08:37   | where, you know, Integromat is just going, here's an attachment, stick in a folder, here's                 |
+| 01:08:37   | where, you know, [[Make\|Integromat]] is just going, here's an attachment, stick in a folder, here's                 |
 | 01:08:42   | an attachment, stick in folder.                                                                            |
 | 01:08:43   | Yeah, same box does the same thing for me. It'll pull attachments out and put it on                        |
 | 01:08:50   | your cloud storage.                                                                                        |
@@ -833,7 +833,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:09:03   | party services, they don't log into your account for you. Now, there are advantages and disadvantages      |
 | 01:09:08   | to them logging into your account. There's the privacy aspect. Are they really just going                  |
 | 01:09:12   | to look for what you've told them to look for? Are they potentially going to look for                      |
-| 01:09:14   | other things as well? I decided that I was going to trust Integromat on this one. I                        |
+| 01:09:14   | other things as well? I decided that I was going to trust [[Make\|Integromat]] on this one. I                        |
 | 01:09:19   | am paying them for this service. So, you know, they shouldn't have a reason to just go through             |
 | 01:09:24   | my inbox. But you have to decide, obviously, especially if, for example, you work in the                   |
 | 01:09:31   | medical field, this is probably not an OK solution for your work email. But, you know,                     |
@@ -847,9 +847,9 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:10:14   | love that so much. So, yeah, I'm really pleased about how this works. As I said, it's not                  |
 | 01:10:21   | perfect because it's polling on a regular interval, sort of every 15 minutes or so,                        |
 | 01:10:25   | which means it's not super fast. But at the same time, for anything that I don't want                      |
-| 01:10:32   | in my inbox at all, I am having iCloud put that in a folder and then Integromat is watching                |
+| 01:10:32   | in my inbox at all, I am having iCloud put that in a folder and then [[Make\|Integromat]] is watching                |
 | 01:10:38   | for email in a specific folder, rather than watching for email in my inbox. And for things                 |
-| 01:10:43   | I don't mind landing in my inbox, it lands in my inbox and then Integromat will grab                       |
+| 01:10:43   | I don't mind landing in my inbox, it lands in my inbox and then [[Make\|Integromat]] will grab                       |
 | 01:10:48   | it and deal with it at some point. And it works. And I can also say, hey, if this is                       |
 | 01:10:54   | in this inbox, in this folder, and it's unread when it looks for things. So, for example,                  |
 | 01:11:00   | your customer support queries there, David, you could say, look for everything in this                     |
@@ -859,25 +859,25 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:11:18   | you have one action, full stop.                                                                            |
 | 01:11:20   | Yeah, exactly.                                                                                             |
 | 01:11:21   | So, I had to pick the folder. But you can specify only unread emails, only read emails,                    |
-| 01:11:29   | all emails, which means that Integromat actually can run on emails that you have read. So,                 |
+| 01:11:29   | all emails, which means that [[Make\|Integromat]] actually can run on emails that you have read. So,                 |
 | 01:11:36   | for example, if you get Amazon dispatch notifications when you buy things from Amazon, and you like        |
 | 01:11:40   | getting them, but you always forget to delete them from your inbox, you know, because something            |
 | 01:11:45   | happens, you know, as you're reading your email. Oh, yeah, I need to reply to, you know,                   |
 | 01:11:48   | this person whose message just came in.                                                                    |
-| 01:11:52   | What you can do is you can tell Integromat to look for things from this particular sender                  |
+| 01:11:52   | What you can do is you can tell [[Make\|Integromat]] to look for things from this particular sender                  |
 | 01:11:56   | to this particular recipient with this subject or containing this phrase anywhere, and whether             |
 | 01:12:03   | or not it should mark it as read when it fetches it. And then you can say, all emails, only                |
 | 01:12:09   | read emails, or only unread emails. And so, it can get rid of all of those read dispatch                   |
 | 01:12:14   | notifications in your inbox. So, I am pretty darn happy about that, I have to say.                         |
 | 01:12:21   | Yeah, and I could really see you combining this with your upcoming FastMail account,                       |
-| 01:12:25   | where you could automate FastMail rules to send it to the Integromat folder, and then,                     |
+| 01:12:25   | where you could automate FastMail rules to send it to the [[Make\|Integromat]] folder, and then,                     |
 | 01:12:31   | you know, like, things really start happening.                                                             |
 | 01:12:33   | Yes. Yeah, and this is similar to what I do on [[Dropbox]] as well, actually, David. I have                    |
 | 01:12:36   | a folder inside of [[Dropbox]] called automated actions. Yeah. And, you know, it sounds silly,                 |
 | 01:12:44   | you know, automated actions, fine. Why? And I've got a bunch of subfolders in there. And                   |
 | 01:12:49   | then stuff happens in those subfolders based on, you know, which it is. So, some of it's                   |
 | 01:12:55   | handled through Zapier, some of it's handled through [[Hazel]], some of it's handled through                   |
-| 01:12:59   | Integromat and so on. But I know, if I'm looking to automate something that lands in                       |
+| 01:12:59   | [[Make\|Integromat]] and so on. But I know, if I'm looking to automate something that lands in                       |
 | 01:13:03   | my [[Dropbox]], I stick it in the automated actions folder, and then the magic will happen. And                |
 | 01:13:07   | it often then doesn't live in there forever. But it gets dealt with and processed at some                  |
 | 01:13:12   | point, and that is really nice. So, I'm very appreciative of that.                                         |

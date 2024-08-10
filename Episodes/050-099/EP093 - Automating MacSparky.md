@@ -153,7 +153,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 05:49      | Hmm.                                                                                                   |
 | 05:50      | I bet there is.                                                                                        |
 | 05:51      | Because one of the reasons why I said it wasn't crazy because I know that things like Zapier           |
-| 05:54      | and Integromat and shortcuts and [[Drafts]] have all got support for WordPress, which makes                |
+| 05:54      | and [[Make\|Integromat]] and shortcuts and [[Drafts]] have all got support for WordPress, which makes                |
 | 05:59      | life a little bit easier for you, I hope.                                                              |
 | 06:01      | Yeah, exactly.                                                                                         |
 | 06:02      | And I'm really just getting my arms wrapped around it.                                                 |
@@ -1324,8 +1324,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:17:26   | Which one do you think I should be going at given the tool sets I've been talking about                |
 | 01:17:30   | today?                                                                                                 |
 | 01:17:31   | Honestly, with the tool sets that you're talking about with things like Basecamp and WordPress         |
-| 01:17:34   | and so on, I would be looking at either Integromat or Zapier.                                          |
-| 01:17:40   | And my inclination is probably going to be to point you towards Integromat just because                |
+| 01:17:34   | and so on, I would be looking at either [[Make\|Integromat]] or Zapier.                                          |
+| 01:17:40   | And my inclination is probably going to be to point you towards [[Make\|Integromat]] just because                |
 | 01:17:44   | I find the user interface is a lot easier to just dive in and do things.                               |
 | 01:17:51   | It's a visual user interface.                                                                          |
 | 01:17:53   | And so you can see, for example, there's an RSS icon and when you click on it, you see                 |
@@ -1339,12 +1339,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:18:27   | You can get very nerdy and granular with it, but also you don't have to and it does work               |
 | 01:18:31   | with all the Pro Tools plus it's very affordable, which I think quite a few of our listeners           |
 | 01:18:36   | will very much appreciate.                                                                             |
-| 01:18:38   | I'm paying for Zapier and Integromat on higher tiers because I'm using them all the time               |
+| 01:18:38   | I'm paying for Zapier and [[Make\|Integromat]] on higher tiers because I'm using them all the time               |
 | 01:18:44   | and actually a whole chunk of things just wouldn't be done without them.                               |
 | 01:18:48   | So for example, creating show notes for automators and indeed creating new automations, episodes       |
 | 01:18:53   | and things like that.                                                                                  |
 | 01:18:54   | A whole bunch of that is just handled for me with absolutely no work on my part anymore                |
-| 01:18:59   | thanks to Zapier, Zaps and Integromat scenarios and they just do things and I don't even think         |
+| 01:18:59   | thanks to Zapier, Zaps and [[Make\|Integromat]] scenarios and they just do things and I don't even think         |
 | 01:19:05   | about it and the notes are just there and it's brilliant.                                              |
 | 01:19:09   | Of course, I still have to actually turn up and think about the notes, but it means that               |
 | 01:19:12   | I'm never sitting down and creating a Google Doc for any of this, which is of course not               |
@@ -1383,7 +1383,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:20:41   | You should just turn up because you should never actually be involved in the process                   |
 | 01:20:45   | of sending it from here to there, aside from setting up an automation and keeping it on                |
 | 01:20:49   | it every once in a while to make sure it works.                                                        |
-| 01:20:51   | But I have to say, Zapier Zaps and Integromat scenarios, for me, have been rock solid.                  |
+| 01:20:51   | But I have to say, Zapier Zaps and [[Make\|Integromat]] scenarios, for me, have been rock solid.                  |
 | 01:20:56   | You get them set up, you tweak them a little bit over a couple of weeks, popping back in               |
 | 01:21:00   | every once in a while once you realise you've misplaced a full stop or something like that.            |
 | 01:21:04   | And you're done, that's it.                                                                            |

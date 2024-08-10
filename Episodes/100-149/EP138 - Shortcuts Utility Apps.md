@@ -594,7 +594,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 34:48      | So there's the option of having a server, which just sits there, and it can listen and               |
 | 34:53      | go, hey, is something going to tell me to run a shortcut action here?                                |
 | 34:57      | And you can trigger those from shortcuts on another device.                                          |
-| 35:00      | You could trigger it by a zap here, if this and that, Mac, formerly Integromat, or through           |
+| 35:00      | You could trigger it by a zap here, if this and that, Mac, formerly [[Make\|Integromat]], or through           |
 | 35:06      | one of those background location things, or from a notification that you send to yourself.           |
 | 35:12      | So you might have a notification that you send to yourself at, say, 10 a.m. every morning,           |
 | 35:18      | when you've been at work for an hour and a half that says, hey, get up and stretch.                  |

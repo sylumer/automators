@@ -866,8 +866,8 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 48:39      | to this right now, challenge you to go out, set up and if this, then that account may                    |
 | 48:44      | be teased with a Zap year.                                                                               |
 | 48:46      | There was another service, African, what was it called?                                                  |
-| 48:49      | Integromat.                                                                                              |
-| 48:50      | Integromat, that's also getting some traction.                                                           |
+| 48:49      | [[Make\|Integromat]].                                                                                              |
+| 48:50      | [[Make\|Integromat]], that's also getting some traction.                                                           |
 | 48:53      | Play with some of these services and just see if they can solve some of your problems                    |
 | 48:57      | because Tim said earlier in the show that nice thing about the online stuff is you don't                 |
 | 49:01      | have to have a Mac running to make sure they work and you may find that this solves problems             |

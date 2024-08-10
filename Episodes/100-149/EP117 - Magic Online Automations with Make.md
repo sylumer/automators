@@ -54,7 +54,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 00:22      | I know you're in this one deep and looking forward to this.                                               |
 | 00:25      | Yeah.                                                                                                     |
 | 00:26      | Yeah.                                                                                                     |
-| 00:27      | I've been in the makings for a long time, because we've been talking about Integromat,                    |
+| 00:27      | I've been in the makings for a long time, because we've been talking about [[Make\|Integromat]],                    |
 | 00:33      | as it used to be called, and then make on and off, and I've got a lot of scenarios set                    |
 | 00:37      | up in make.                                                                                               |
 | 00:39      | I think it's one of those things that is going to be really good for a listeners to                       |
@@ -188,13 +188,13 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 06:44      | And here we are in December and Rose, I haven't really done much, but I've been watching from             |
 | 06:49      | the sidelines as you increasingly move your automation over to make.                                      |
 | 06:54      | And I've been playing with make a little bit, uh, uh, for folks who are, uh, not familiar,                |
-| 06:59      | uh, you know, [[Make]] formerly known as Integromat, which is a terrible name.                             |
-| 07:05      | Can we agree to that, Integromat?                                                                         |
+| 06:59      | uh, you know, [[Make]] formerly known as [[Make\|Integromat]], which is a terrible name.                             |
+| 07:05      | Can we agree to that, [[Make\|Integromat]]?                                                                         |
 | 07:07      | What does that even mean?                                                                                 |
-| 07:08      | Well, I mean, Integromat, uh, it's one of those things, right?                                            |
+| 07:08      | Well, I mean, [[Make\|Integromat]], uh, it's one of those things, right?                                            |
 | 07:11      | Pages, keynotes, numbers, fabulous names, impossible to Google.                                           |
 | 07:16      | Yeah.                                                                                                     |
-| 07:17      | Integromat's, not a great name, very easy to Google, make good name, bad to Google.                        |
+| 07:17      | [[Make\|Integromat's]], not a great name, very easy to Google, [[Make]] good name, bad to Google.                        |
 | 07:23      | Yes.                                                                                                      |
 | 07:24      | It's one of those things I feel like, uh, you know, when some lose some with this, um,                    |
 | 07:28      | but you know what, their, their new website is purple.                                                    |
@@ -289,7 +289,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 12:17      | So the, you know, if this and that and Zapier are both, there's a thing at the top and then               |
 | 12:21      | there's an arrow taking you to the next thing and then there's an arrow taking you to the                 |
 | 12:23      | next thing and they're all squares.                                                                       |
-| 12:26      | Make is first of all cute little circles with the icon of whatever service in it is in there              |
+| 12:26      | [[Make]] is first of all cute little circles with the icon of whatever service in it is in there              |
 | 12:30      | that you're using.                                                                                        |
 | 12:31      | It's, um, discord, it's got a little discord thingy.                                                      |
 | 12:35      | I don't know what that, that it's like an animal-ish, monster-y cute thing.                               |
@@ -705,7 +705,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 38:25      | And yeah, and then you should be able to hook this all up to select the data in the fields.               |
 | 38:33      | I am just attempting to connect [[Slack]] because I don't actually have [[Slack]] set up here.                    |
 | 38:39      | Really?                                                                                                   |
-| 38:40      | I would think you had been using [[Slack]] with Make.                                                         |
+| 38:40      | I would think you had been using [[Slack]] with [[Make]].                                                         |
 | 38:43      | It seems like so obvious.                                                                                 |
 | 38:44      | No, because I don't have any [[Slack]] that I personally need to publish to.                                  |
 | 38:51      | And the [[Slack]] service that I wanted to use as a test unfortunately can't actually have                    |
@@ -1045,7 +1045,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 59:43      | rules built into the mail app on your Mac, but you may find that not everything gets                      |
 | 59:48      | triggered with that.                                                                                      |
 | 59:50      | So I'm using that to forward emails.                                                                      |
-| 59:53      | So the trigger inside of Make is a web hook, which is a mail hook specifically.                           |
+| 59:53      | So the trigger inside of [[Make]] is a web hook, which is a mail hook specifically.                           |
 | 01:00:00   | And I've created a special one for Amazon returns.                                                        |
 | 01:00:03   | And this has given me a beautiful at hook.make.com email address.                                         |
 | 01:00:09   | Fortunately, there is a nice handy little copy address to clipboard function right there.                 |
@@ -1159,7 +1159,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:07:02   | All right, so let's move on Rose.                                                                         |
 | 01:07:06   | We've talked about Amazon Returns of OmniFocus.                                                           |
 | 01:07:09   | We have mentioned on the show, I don't think we've ever gone into the detail on it, but                   |
-| 01:07:13   | we are using Make as a back automation based on the creation of an air table.                             |
+| 01:07:13   | we are using [[Make]] as a back automation based on the creation of an air table.                             |
 | 01:07:20   | Then you've got a whole bunch of stuff going on it with the show prep for Automators.                     |
 | 01:07:24   | Can you talk through that?                                                                                |
 | 01:07:25   | Yeah, yeah.                                                                                               |
@@ -1185,7 +1185,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:08:52   | of a couple of episodes and sketch out a rough mental outline of what we're going to do,                  |
 | 01:08:58   | and then prioritises things from the next upcoming episode to the furthest away one                       |
 | 01:09:03   | as it does this.                                                                                          |
-| 01:09:07   | Once air table has done this, it goes through and it filters and it checks to look for the                |
+| 01:09:07   | Once [[Airtable]] has done this, it goes through and it filters and it checks to look for the                |
 | 01:09:17   | host information because one of the things that we do at the start of the episode is                      |
 | 01:09:21   | I'll do an episode.                                                                                       |
 | 01:09:22   | David does an episode.                                                                                    |
@@ -1217,7 +1217,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:10:57   | this Google document and it will look for each of these fields and replace all of them                    |
 | 01:11:03   | in one go.                                                                                                |
 | 01:11:04   | Instead, there is a replace text action in the document, and that's a thing that you                      |
-| 01:11:09   | can do with make.                                                                                         |
+| 01:11:09   | can do with [[Make]].                                                                                         |
 | 01:11:10   | And that is great action.                                                                                 |
 | 01:11:11   | I'm using it in this automation even, but I say that, but it's not the thing to do if                     |
 | 01:11:18   | you need to input like 20 pieces of data when you create a document.                                      |
@@ -1225,7 +1225,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:11:25   | have that in your create document from template action.                                                   |
 | 01:11:30   | Because then you're chucking all the data in at the start, and then you can go off and                    |
 | 01:11:33   | do any refinements that you need after that.                                                              |
-| 01:11:38   | And what's great as well is because this is make, I can even template the name of the                     |
+| 01:11:38   | And what's great as well is because this is [[Make]], I can even template the name of the                     |
 | 01:11:42   | Google Doc.                                                                                               |
 | 01:11:44   | So it's always going to be automators and then the episode number and then the title                      |
 | 01:11:48   | of the episode, which would include the guest name if you've got a guest on the episode.                  |
@@ -1389,7 +1389,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:20:58   | And so, you know, we don't think to put it in the air table.                                              |
 | 01:21:02   | So what this does impose the text string, just has notes colon, space, space, and then                    |
 | 01:21:06   | space singular, sorry, and then two line breaks.                                                          |
-| 01:21:08   | And then it just replaces that act that text, but make is really smart and that if it can't               |
+| 01:21:08   | And then it just replaces that act that text, but [[Make]] is really smart and that if it can't               |
 | 01:21:14   | find that old text, it's just going to keep going.                                                        |
 | 01:21:17   | It doesn't matter.                                                                                        |
 | 01:21:18   | It's totally happy with that.                                                                             |
@@ -1406,9 +1406,9 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:22:00   | Or, you know, if you've got something you don't know how to do, you can leave a note                      |
 | 01:22:02   | on an action for yourself, which is pretty nice.                                                          |
 | 01:22:06   | So yeah.                                                                                                  |
-| 01:22:07   | Well, I do think that make is something people should be looking at.                                      |
+| 01:22:07   | Well, I do think that [[Make]] is something people should be looking at.                                      |
 | 01:22:10   | They're interested in this stuff.                                                                         |
-| 01:22:11   | I'm definitely building my make actions out and thanks for all that help Rose.                            |
+| 01:22:11   | I'm definitely building my [[Make]] actions out and thanks for all that help Rose.                            |
 | 01:22:18   | One of the things I do like about it is it is seen, it is both powerful and user friendly                 |
 | 01:22:24   | of the services I've tried.                                                                               |
 | 01:22:25   | It feels like it really gets that mix right and the pricing model is aggressive.                          |
@@ -1437,7 +1437,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:24:09   | Yeah, well, I hope.                                                                                       |
 | 01:24:11   | But yeah.                                                                                                 |
 | 01:24:12   | All right.                                                                                                |
-| 01:24:13   | So let's step away from make for a second.                                                                |
+| 01:24:13   | So let's step away from [[Make]] for a second.                                                                |
 | 01:24:16   | This show's coming out right before the holidays.                                                         |
 | 01:24:19   | Pretty cool new automations for this year's holiday.                                                      |
 | 01:24:22   | I know we've talked about this in the past, I know you had your synchronised lights on                    |
@@ -1596,7 +1596,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:33:39   | to USB, then, you know, they can all turn off at the same time, which is pretty nice.                     |
 | 01:33:42   | Yeah, except it requires cords and I really like that these devices are cordless.                         |
 | 01:33:47   | Either way, so we got some good Christmas stuff going this year.                                          |
-| 01:33:50   | Hopefully we gave you some good ideas on make today.                                                      |
+| 01:33:50   | Hopefully we gave you some good ideas on [[Make]] today.                                                      |
 | 01:33:54   | That's going to wrap it up for this episode.                                                              |
 | 01:33:55   | We are the Automators podcast.                                                                            |
 | 01:33:57   | You can find us over at relay.fm/automators.                                                        |

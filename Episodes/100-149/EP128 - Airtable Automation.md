@@ -250,7 +250,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 12:38      | And that is really, for me, where the magic gets massively extended because all of this                   |
 | 12:44      | stuff is available through the various APIs and whether you want to just write a shortcut                 |
 | 12:50      | or use [[Drafts]] or something to interact with [[Airtable]] directly or if you want to use a                     |
-| 12:54      | service like make or that was previously called Integromat Zapier or if this and that, then              |
+| 12:54      | service like [[Make]] or that was previously called [[Make\|Integromat]] Zapier or if this and that, then              |
 | 13:01      | you've got options there, which is really nice.                                                           |
 | 13:03      | I feel like this is a no-brainer if you're working with a team and you're not using [[Notion]].               |
 | 13:10      | I think there is a bit of a tipping point with [[Notion]] because you can do a lot of this                    |
@@ -649,13 +649,13 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 38:22      | would accidentally delete stuff and get a little cranky when they'd done so.                              |
 | 38:26      | And of course, you can still do that via the HTTP requests if you need to.                                |
 | 38:31      | So I find that I tend not to delete records through things like this.                                     |
-| 38:36      | It tends to be through automated actions, through something like Make or Zapier, where                    |
+| 38:36      | It tends to be through automated actions, through something like [[Make]] or Zapier, where                    |
 | 38:40      | it can have a view which will collect the things which will need deleting and then they                   |
 | 38:45      | will get deleted sort of periodically every 24 hours or once a week or once a month or                    |
 | 38:50      | something instead of doing it as part of what I'm doing at the moment.                                    |
 | 38:54      | Yeah, and I don't mind automating deletion, but I would just add a caveat there that be                   |
 | 39:00      | very, very careful when you set that up through automation.                                               |
-| 39:04      | Make sure your ends and your ores are separated properly.                                                 |
+| 39:04      | Make sure your ANDs and your ORs are separated properly.                                                 |
 | 39:08      | Yeah.                                                                                                     |
 | 39:09      | Yeah.                                                                                                     |
 | 39:10      | So my trick for that is if you're going to automate an [[Airtable]] record deletion, start                    |

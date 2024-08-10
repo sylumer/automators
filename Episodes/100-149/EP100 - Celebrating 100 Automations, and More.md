@@ -398,7 +398,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 14:11      | something that I didn't really expect                             |
 | 14:13      | when we started this show                                         |
 | 14:14      | is the increasing references to cloud-based automation tools      |
-| 14:19      | and we talked about IFTTT, Zapier, Integromat,                    |
+| 14:19      | and we talked about [[IFTTT]], [[Zapier]], [[Make\|Integromat]],                    |
 | 14:24      | which is now called Mac.                                          |
 | 14:26      | There are a lot of these tools coming along now.                  |
 | 14:29      | Yeah, and not only are they coming along,                         |
@@ -1977,7 +1977,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:18:58   | we've got very lucky having the tools                             |
 | 01:19:01   | that we've got already.                                           |
 | 01:19:02   | So for example, in particular,                                    |
-| 01:19:04   | Zapier and Make, I find much easier to use                        |
+| 01:19:04   | [[Zapier]] and [[Make]], I find much easier to use                        |
 | 01:19:07   | than I originally found, if this than that.                       |
 | 01:19:10   | And also, you know, they have support                             |
 | 01:19:12   | for things that if this than that didn't have                     |
@@ -1988,7 +1988,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:19:25   | and then you open, you know, one of the actions                   |
 | 01:19:27   | and you see all of the different parts of it                      |
 | 01:19:29   | really does help.                                                 |
-| 01:19:31   | And especially in Make where it's so visual of,                   |
+| 01:19:31   | And especially in [[Make]] where it's so visual of,                   |
 | 01:19:35   | you know, you've got this dot                                     |
 | 01:19:36   | and this dot has got a line going to that dot                     |
 | 01:19:38   | and you click on the dot                                          |
@@ -2004,7 +2004,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:20:02   | script and share it with you.                              |
 | 01:20:04   | And that is great.                                                |
 | 01:20:06   | And web services that add APIs will end up                        |
-| 01:20:09   | with things like make and Zapier integrations,                    |
+| 01:20:09   | with things like [[Make}]] and [[Zapier]] integrations,                    |
 | 01:20:12   | but they'll also have people just create tools                    |
 | 01:20:15   | that do something using their application.                        |
 | 01:20:17   | And more and more people use our application                      |

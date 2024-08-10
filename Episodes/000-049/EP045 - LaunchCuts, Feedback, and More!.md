@@ -838,8 +838,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 01:11:10   | because it can handle OmniFocus with Taskpaper and everything, it can handle dross,                   |
 | 01:11:15   | it can handle Timery, it can handle home kit things and all sorts. And the best part of it is,         |
 | 01:11:21   | because my shortcuts are syncing again. I can, I have my shortcuts syncing between my devices.         |
-| 01:11:27   | And so every once an hour or so, I have been experimenting with Integromat, which we'll                |
-| 01:11:33   | get to in a future show. But I have Integromat just poke the automation server and go update           |
+| 01:11:27   | And so every once an hour or so, I have been experimenting with [[Make\|Integromat]], which we'll                |
+| 01:11:33   | get to in a future show. But I have [[Make\|Integromat]] just poke the automation server and go update           |
 | 01:11:40   | your shortcuts, please. And so that whatever shortcuts I've created on any other device                |
 | 01:11:46   | are definitely up to date in PushCut. And then it means that I can then create automations to run      |
 | 01:11:52   | those at any time. And I am loving this feature so much. It's genuinely changing my shortcuts          |

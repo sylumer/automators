@@ -667,7 +667,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 37:04      | It allows you to trigger iOS shortcuts based on time and location, so you might have a                  |
 | 37:08      | shortcut you want to run at 8 p.m., but only if you're at home, or maybe when you leave                 |
 | 37:13      | the office, but only on weekdays.                                                                       |
-| 37:15      | Even better, it connects to automation services like Zapier, Integromat, and if this then               |
+| 37:15      | Even better, it connects to automation services like Zapier, [[Make\|Integromat]], and if this then               |
 | 37:20      | that, so you can actually trigger those online actions without opening any app.                         |
 | 37:25      | PushCut is great for DIY automation prompts, like getting a robot to start vacuuming when               |
 | 37:30      | you leave the house.                                                                                    |

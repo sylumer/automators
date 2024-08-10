@@ -317,8 +317,8 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 16:34      | So you know, if you want to, then you can take it a step further with the automation                    |
 | 16:38      | server, which is where you have an iOS device that's just sitting there all the time running            |
 | 16:42      | push cut in the automation server mode, and it will then run shortcuts, and it can run                  |
-| 16:47      | shortcuts automatically at certain times, it can run shortcuts when if this and that                    |
-| 16:51      | Zapier make, just tell it to based on information that happens, or when you call an API yourself.       |
+| 16:47      | shortcuts automatically at certain times, it can run shortcuts when [[IFTTT\If This Then That]]                    |
+| 16:51      | [[Zapier]], [[Make]], just tell it to based on information that happens, or when you call an API yourself.       |
 | 17:00      | And it can then automatically update your widgets for you.                                              |
 | 17:03      | So I've got a couple of widgets that are based on upcoming calendar events, you know, I'm               |
 | 17:07      | in the office once every three weeks on average, so it goes through and it finds the next one           |
@@ -494,7 +494,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 28:04      | up whatever.                                                                                            |
 | 28:06      | There's also just asynchronous of something will just get put somewhere and get picked                  |
 | 28:14      | up on later entirely, or there's two things happening at the same time, potentially.                    |
-| 28:20      | Things running in parallel, and a really good example of this is make.com, where what you               |
+| 28:20      | Things running in parallel, and a really good example of this is [make.com,](htps://make.com) where what you               |
 | 28:25      | can do is you can actually split an automation into multiple branches.                                  |
 | 28:29      | You've got your start trigger over on the left-hand side, and then you've got multiple                  |
 | 28:34      | things coming out of that, so that you can have three things running at the same time,                  |
@@ -574,14 +574,14 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 33:05      | But a lot of the time, you can actually get a little crazy and have zero order to things.               |
 | 33:12      | Yeah.                                                                                                   |
 | 33:13      | So I think the first place where you want to address this is web-based services.                        |
-| 33:19      | And you were talking about make.com.                                                                    |
+| 33:19      | And you were talking about [make.com](https://make.com).                                                                    |
 | 33:22      | I feel like these online services where you have them chain stuff together on the Internet,             |
 | 33:29      | they were early people trying to solve this problem, because by nature, they're all their               |
 | 33:37      | services developed on web-based services and information.                                               |
-| 33:41      | And explain how they deal with it when you go through a service like make.com.                          |
+| 33:41      | And explain how they deal with it when you go through a service like [make.com](https://make.com).                          |
 | 33:46      | Well, it really depends what you're actually using as the trigger for something like this.              |
 | 33:52      | What is actually causing this automation to happen?                                                     |
-| 33:55      | Because there's a couple of different ways that triggers can be handled, and make is                    |
+| 33:55      | Because there's a couple of different ways that triggers can be handled, and [[Make]] is                    |
 | 33:58      | actually really good at this.                                                                           |
 | 34:00      | So if I use a mail webhook, webhooks usually would be, you call a particular URL, maybe                 |
 | 34:10      | you send it some data, whatever, but they also have mail webhooks where you can send                    |
@@ -607,7 +607,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 35:25      | an RSS feed doesn't have a way of going, hey, new thing over here, it'll be a, oh, you've               |
 | 35:29      | checked me, here's data, you figure out what's new for you because you know what the person             |
 | 35:33      | read and didn't read before, probably, hopefully.                                                       |
-| 35:37      | And so something like Zapier or Make will go and check an RSS feed probably every 15                    |
+| 35:37      | And so something like [[Zapier]] or [[Make]] will go and check an RSS feed probably every 15                    |
 | 35:42      | minutes or so, and find the new episodes or releases or bulk posts or whatever it is in                 |
 | 35:48      | that, and then run the trigger based on that.                                                           |
 | 35:52      | And then you can usually say, hey, anything that, anything that it was posted within the                |
@@ -625,8 +625,8 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 36:36      | You know, are they, like they'll, they'll talk to a thing.                                              |
 | 36:39      | And if it says, hey, everything's great, then it'll continue.                                           |
 | 36:42      | And if it goes, I don't know, something's wrong, then it's probably actually, you know,                 |
-| 36:47      | it's happier if this and that make all stop, unless you explicitly say continue anyway,                 |
-| 36:51      | if there's an error, keyboard master is the same.                                                       |
+| 36:47      | it's [[Zapier]], [[IFTTT\If This Then That]], [[Make]] all stop, unless you explicitly say continue anyway,                 |
+| 36:51      | if there's an error, [[Keyboard Maestro]] is the same.                                                       |
 | 36:53      | If you don't say just continue regardless of an error, it'll stop at the point where                    |
 | 36:58      | it runs into a problem and just go, I can't deal with that.                                             |
 | 37:02      | But yeah, that, that's basically the three different ways that those web services work.                 |
@@ -639,7 +639,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 37:34      | care of that for you.                                                                                   |
 | 37:35      | But the break points depend on which model you're in.                                                   |
 | 37:38      | And if like, if you've got one that is a fire and forget style web automation and things                |
-| 37:45      | stop working, you'll know, well, it's, it's at make.com, you know, there, there's a problem             |
+| 37:45      | stop working, you'll know, well, it's, it's at [make.com](https://make.com), you know, there, there's a problem             |
 | 37:50      | going on there because that is a fire and forget and it's forgetting and it's not firing.               |
 | 37:55      | So okay, I can go fix that, but you need to, you need to be aware of that in order to be                |
 | 38:00      | able to, you know, go and keep your automation systems running.                                         |

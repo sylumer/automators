@@ -781,7 +781,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 46:07      | And both of these things don't work on the Apple Watch.                                             |
 | 46:10      | So sadly, I just felt, well, not this time, maybe with the next step I do, I'll make something      |
 | 46:16      | more watch-friendly.                                                                                |
-| 46:18      | But then I started adding online actions where you can trigger Zapier or Integromat directly.       |
+| 46:18      | But then I started adding online actions where you can trigger Zapier or [[Make\|Integromat]] directly.       |
 | 46:25      | And now Microsoft Flow is added, so you can connect those systems.                                  |
 | 46:28      | And with the tap of a button, you can run something in Zapier directly.                             |
 | 46:34      | And you can do that on the watch.                                                                   |

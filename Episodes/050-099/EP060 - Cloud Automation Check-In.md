@@ -339,7 +339,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 15:40      | No, me either.                                                                                               |
 | 15:42      | And one of the things that, if this than that definitely does that other services don't                      |
 | 15:46      | do is, um, you know, there, there are so many things on here that you just don't find elsewhere.             |
-| 15:52      | So Alexa is not something I found on Zapier or Integromat or the other options.                              |
+| 15:52      | So Alexa is not something I found on Zapier or [[Make\|Integromat]] or the other options.                              |
 | 15:57      | I've just, I've been scrolling through, I've discovered Tesco, a supermarket here in the                     |
 | 16:01      | UK is on, if this than that, um, and it looks like, uh, you can check for price drops and                    |
 | 16:06      | you can add stuff to your basket and things like that, which I'm thinking has a lot of                       |
@@ -463,18 +463,18 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 22:06      | If you do any work with PDFs, you need PDFpen, go to Smile Software.com/podcast.                        |
 | 22:12      | Thanks to PDFpen for their support of this show and Relay FM.                                               |
 | 22:18      | So Rose, there's another service that we have not discussed on the Automator's Podcast.                      |
-| 22:23      | It's Integromat and I know this is one that you've been spending a lot of time with.                         |
-| 22:29      | Yeah, so I was familiar with Integromat for a while and I was using their free plan and                      |
+| 22:23      | It's [[Make\|Integromat]] and I know this is one that you've been spending a lot of time with.                         |
+| 22:29      | Yeah, so I was familiar with [[Make\|Integromat]] for a while and I was using their free plan and                      |
 | 22:36      | then I ran out of space on Zapier.                                                                           |
 | 22:38      | So Zapier, for $20 a month, you can have 20 zaps and I ran out of space and I wasn't                         |
 | 22:45      | yet at the stage where I felt that it was worth upgrading to the next level plan on                          |
-| 22:49      | Zapier and so I decided that I would go and have a look at Integromat and see whether                        |
+| 22:49      | Zapier and so I decided that I would go and have a look at [[Make\|Integromat]] and see whether                        |
 | 22:54      | or not I could cover my basis for $9 a month there.                                                          |
 | 22:57      | So that's half the price of a $20 a month Zapier plan, less than.                                            |
 | 23:02      | And they've got loads of services.                                                                           |
 | 23:04      | So unlike if this and that, they do have Basecamp, they've got PushCut, they've got                          |
 | 23:07      | Toggle.                                                                                                      |
-| 23:08      | But what I really love about Integromat is how visual it is.                                                 |
+| 23:08      | But what I really love about [[Make\|Integromat]] is how visual it is.                                                 |
 | 23:14      | So you have these little circles that represent the services and the actions that you're doing               |
 | 23:18      | and you drag them out and you put them on this blank canvas and then you link them together                  |
 | 23:23      | and you literally draw lines between them and then there's a magic wand told to automatically                |
@@ -486,14 +486,14 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 23:47      | I've been kind of using it more as a sandbox than Zapier, which has got a lot of things                      |
 | 23:54      | in it that are very, you know, like this absolutely has to work 100% at the time, like getting               |
 | 23:58      | the autonomy to show notes at the door.                                                                      |
-| 24:00      | That's in Zapier, but it's actually triggered by Integromat because Zapier can only run on                   |
+| 24:00      | That's in Zapier, but it's actually triggered by [[Make\|Integromat]] because Zapier can only run on                   |
 | 24:05      | something that is moves into a view in [[Airtable]] once and I wanted to be able to use things                   |
 | 24:12      | multiple times.                                                                                              |
-| 24:13      | So I'm having Integromat look at Zapier views every sort of quarter of an hour and send                      |
+| 24:13      | So I'm having [[Make\|Integromat]] look at Zapier views every sort of quarter of an hour and send                      |
 | 24:18      | each one of those items that it finds in that view over to a webhook on Zapier, which is                     |
 | 24:24      | working really nicely for me.                                                                                |
 | 24:26      | All right.                                                                                                   |
-| 24:27      | So let's start with some simple Integromat automation.                                                       |
+| 24:27      | So let's start with some simple [[Make\|Integromat]] automation.                                                       |
 | 24:32      | I started playing with it as we prepped for the show, but I'm not in as deep as you are                      |
 | 24:37      | yet, but I do agree with kind of the architectural look of things and I like that you put them               |
 | 24:44      | on the screen and I think so often these web services, the interfaces is really difficult                    |
@@ -528,7 +528,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 26:35      | here's the ID of the podcast episode that we're working on.                                                  |
 | 26:40      | Here's the person responsible and here's the co-host because Zapier recently lost the                        |
 | 26:44      | ability to look up foreign keys in its fetching record data, which was frustrating me.                       |
-| 26:50      | So I've switched that over to Integromat.                                                                    |
+| 26:50      | So I've switched that over to [[Make\|Integromat]].                                                                    |
 | 26:54      | Now.                                                                                                         |
 | 26:55      | And so that's two actions.                                                                                   |
 | 26:56      | It just searches records in [[Airtable]] and then it makes a HTTP request over to Zapier.                        |
@@ -548,13 +548,13 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 27:45      | needle.                                                                                                      |
 | 27:46      | So I have various timers and I have just a single flag called moving the needle that                         |
 | 27:51      | some timers have that attached to it and some don't.                                                         |
-| 27:55      | So what I'd like to prepare, and I haven't finished it yet, but I'm working Integromat                      |
+| 27:55      | So what I'd like to prepare, and I haven't finished it yet, but I'm working [[Make\|Integromat]]                      |
 | 27:59      | to put together a toggle report.                                                                             |
 | 28:03      | And you can send a toggle report like to Google Sheets or whatever.                                          |
 | 28:08      | But I haven't figured out if I can filter on moving the needle yet, but I think I can.                       |
 | 28:12      | And my goal with that is to send myself a regular report of how much time I'm spending                       |
 | 28:18      | moving the needle as opposed to just time I'm tracking.                                                      |
-| 28:22      | What I really like about the filtering Integromat is obviously you can filter inside                        |
+| 28:22      | What I really like about the filtering [[Make\|Integromat]] is obviously you can filter inside                        |
 | 28:27      | of the action.                                                                                               |
 | 28:28      | So for example, my search records in [[Airtable]] Action, that's looking at a specific view,                     |
 | 28:33      | which is already filtered for me.                                                                            |
@@ -580,7 +580,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 29:45      | So I've not been able to plug a mouse into my iPad.                                                          |
 | 29:48      | I've not had a desk.                                                                                         |
 | 29:49      | It's been a case of I'm sitting on the carpet balancing my iPad on my knees to use it.                       |
-| 29:54      | So when I was playing with something Integromat the other day, I wasn't able to actually right              |
+| 29:54      | So when I was playing with something [[Make\|Integromat]] the other day, I wasn't able to actually right              |
 | 29:58      | click on one of the actions.                                                                                 |
 | 30:01      | I don't know if you found that you can do better, David, with a mouse.                                       |
 | 30:05      | I've only been, in my head, these are Mac apps, you know, I only work with this stuff                        |
@@ -588,7 +588,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 30:11      | Yeah.                                                                                                        |
 | 30:12      | But I recommend if you've got a Mac or Windows machine, then try and use it on that.                         |
 | 30:18      | They do have an iOS app, but that is for integration with iOS things and also for sending you notifications. |
-| 30:25      | So you can have Integromat send you a notification and you don't have to farm out to something              |
+| 30:25      | So you can have [[Make\|Integromat]] send you a notification and you don't have to farm out to something              |
 | 30:30      | like push bullet or push over or push cut, all of which you can absolutely use to send                       |
 | 30:35      | yourself a notification.                                                                                     |
 | 30:37      | But instead you can actually have it, you know, send it through its own app to you,                          |
@@ -607,23 +607,23 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 31:10      | intrigued by, but I've yet to explore and play with.                                                         |
 | 31:13      | Yeah.                                                                                                        |
 | 31:14      | It's like the Wild West right now for these services.                                                        |
-| 31:17      | Some other integrations that are fun with Integromat is Microsoft Word templates, which                      |
+| 31:17      | Some other integrations that are fun with [[Make\|Integromat]] is Microsoft Word templates, which                      |
 | 31:22      | I'm assuming is using the Office 365 cloud templates.                                                        |
 | 31:26      | Yeah.                                                                                                        |
 | 31:27      | And then there's plenty of cloud file storage integration, OneDrive, [[Dropbox]], all the usual                  |
 | 31:33      | suspects, you know.                                                                                          |
-| 31:36      | There's a lot here Integromat.                                                                              |
+| 31:36      | There's a lot here [[Make\|Integromat]].                                                                              |
 | 31:38      | Yeah.                                                                                                        |
 | 31:39      | Yeah.                                                                                                        |
-| 31:40      | One of the things that I really like is you can have a data store Integromat.                               |
+| 31:40      | One of the things that I really like is you can have a data store [[Make\|Integromat]].                               |
 | 31:45      | So you, so for example, something could trigger, you know, your device could do something.                   |
-| 31:52      | And then that causes data to go into Integromat.                                                               |
+| 31:52      | And then that causes data to go into [[Make\|Integromat]].                                                               |
 | 31:55      | And then you use the data store feature.                                                                     |
-| 31:58      | And then another Integromat automation can come along and pull that data out and use that                      |
+| 31:58      | And then another [[Make\|Integromat]] automation can come along and pull that data out and use that                      |
 | 32:05      | somewhere else, which means that say, for example, you are logging your weight.                              |
 | 32:09      | I'm just going to use this as an example.                                                                    |
 | 32:11      | It's not necessarily a great example, but every time you update your weight, you could                       |
-| 32:14      | store that inside of Integromat.                                                                               |
+| 32:14      | store that inside of [[Make\|Integromat]].                                                                               |
 | 32:16      | And then when something else needs your weight, so say, for example, you're tracking a child's               |
 | 32:21      | BMI or something, I'm not sure it's necessarily a good idea because it's not particularly                    |
 | 32:24      | accurate, but let's stick with it.                                                                           |
@@ -636,9 +636,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 32:41      | I was playing with it, but in my case, all of the data is available directly somewhere                       |
 | 32:45      | else where I can go and look it up.                                                                          |
 | 32:47      | So for example, the screencast online stuff that I'm doing, I just integrate directly                        |
-| 32:51      | to Podio because that is inside of Integromat.                                                               |
+| 32:51      | to Podio because that is inside of [[Make\|Integromat]].                                                               |
 | 32:55      | It's directly set up.                                                                                        |
-| 32:56      | So instead of storing the data in Integromat and potentially having it be stale because                      |
+| 32:56      | So instead of storing the data in [[Make\|Integromat]] and potentially having it be stale because                      |
 | 33:02      | I turned off my automation or something, which has been known to happen, oops, I just go                     |
 | 33:08      | and look it up directly.                                                                                     |
 | 33:09      | Yeah.                                                                                                        |
@@ -647,7 +647,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 33:19      | going to find on the cloud, but it's something you want to use repeatedly on maybe a Google                  |
 | 33:23      | document and a Google sheet and in an error table in different places.                                       |
 | 33:29      | Yeah.                                                                                                        |
-| 33:30      | All right, you've got some other Integromat automations you can share with us.                               |
+| 33:30      | All right, you've got some other [[Make\|Integromat]] automations you can share with us.                               |
 | 33:34      | Yes, I do.                                                                                                   |
 | 33:36      | So another one that I am using, it's a little bit more complex, hopefully not too complex                    |
 | 33:42      | for people.                                                                                                  |
@@ -775,26 +775,26 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 41:31      | I feel like we've kind of gone through the three little bears, the soft bed, the medium                       |
 | 41:38      | bed, the hard bed.                                                                                           |
 | 41:40      | Zapier is the most powerful of them.                                                                         |
-| 41:43      | I think I could, I know you've used Integromat more than me, but I've never really had kind                  |
+| 41:43      | I think I could, I know you've used [[Make\|Integromat]] more than me, but I've never really had kind                  |
 | 41:49      | of a web automation problem that I couldn't get to the bottom of with Zapier.                                |
 | 41:53      | I've had a few little things like, for example, if it's watching [[Airtable]] records, it will                   |
 | 41:58      | only ever trigger on one [[Airtable]] record once, and that's not once per Zap, that's once globally.            |
 | 42:05      | For example, if an Automator's record triggers the Create Show Notes thing, it can't then                    |
 | 42:09      | trigger a Create Reminder to publish a show of if it's Roses episodes.                                       |
-| 42:16      | I am using Integromat to watch [[Airtable]] views to trigger Zapier's apps, because I already                    |
+| 42:16      | I am using [[Make\|Integromat]] to watch [[Airtable]] views to trigger Zapier's apps, because I already                    |
 | 42:22      | have most of the Zaps up in Zapier, and so I just changed the first action to a web hook                     |
-| 42:28      | and then have Integromat ping it.                                                                            |
+| 42:28      | and then have [[Make\|Integromat]] ping it.                                                                            |
 | 42:32      | The vast majority of the time, I can solve my problem with Zapier on its own independently.                  |
 | 42:39      | Yeah.                                                                                                        |
 | 42:40      | I'll tell you one thing.                                                                                     |
-| 42:41      | I think in Integromat, I like better is their user interface.                                                |
+| 42:41      | I think in [[Make\|Integromat]], I like better is their user interface.                                                |
 | 42:44      | We talked about that in the last segment, but Zapier, it takes a little while to kind                        |
 | 42:49      | of figure out how to glue this stuff together in Zapier that I didn't have that amount of                    |
-| 42:54      | friction with Integromat.                                                                                    |
+| 42:54      | friction with [[Make\|Integromat]].                                                                                    |
 | 42:57      | It's one of those things where I don't think either service really offers a lot of friction,                 |
 | 43:01      | unlike if this and that at least you used to, but it very much depends on what you're                        |
 | 43:05      | trying to do and what you're more familiar with.                                                             |
-| 43:07      | I would suggest that for a lot of people, Integromat, especially if you're using branching,                  |
+| 43:07      | I would suggest that for a lot of people, [[Make\|Integromat]], especially if you're using branching,                  |
 | 43:13      | is much easier to get to grips with because you don't have to pay for a higher tier plan                     |
 | 43:19      | if you want branching and to do different actions based on different outcomes.                               |
 | 43:24      | Zapier's branching at least on the $20 a month plan is more of an if filter.                                 |
@@ -833,7 +833,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 45:30      | One of the zaps that I used to use was I would cancel toggle timers in the evening and just                  |
 | 45:37      | have it because once in a while you have a toggle timer going, you forget to turn it                         |
 | 45:42      | off, you wake up the next day and it ran throughout your sleep with both Zapier and                          |
-| 45:51      | Integromat.                                                                                                  |
+| 45:51      | [[Make\|Integromat]].                                                                                                  |
 | 45:52      | That is a possibility because it's got toggle integration.                                                   |
 | 45:55      | But now with shortcuts on iOS, having time triggers, I can just say every day at 11 PM                       |
 | 46:03      | open timer and stop the currently running shortcut, and I prefer that local solution                         |
@@ -878,7 +878,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 48:16      | And then look at these tools in relation to that problem.                                                    |
 | 48:19      | Like, if you want to do day one stuff, you're probably going to be on it this than that.                     |
 | 48:22      | If you want to do more kind of like data transfer between web services, you're probably over                 |
-| 48:28      | at Zapier or Integromat, and you just kind of have to approach it from that direction.                       |
+| 48:28      | at Zapier or [[Make\|Integromat]], and you just kind of have to approach it from that direction.                       |
 | 48:36      | Because if you just start in the blind, each tool has its positives and negatives.                           |
 | 48:43      | Definitely.                                                                                                  |
 | 48:44      | Yeah.                                                                                                        |
@@ -891,8 +891,8 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 49:02      | to try and consolidate things as well.                                                                       |
 | 49:05      | And honestly, if you're looking at the home automation side of things, I would definitely                    |
 | 49:09      | say that you want, if this and that, whereas if you're looking at the more business-type                     |
-| 49:15      | scenarios, then you're probably going to be looking at Integromat or Zapier.                                 |
-| 49:21      | And then you could start by shopping on price because Integromat's less than half the price,                 |
+| 49:15      | scenarios, then you're probably going to be looking at [[Make\|Integromat]] or Zapier.                                 |
+| 49:21      | And then you could start by shopping on price because [[Make\|Integromat's]] less than half the price,                 |
 | 49:25      | which is a pretty good starting point.                                                                       |
 | 49:26      | You can always migrate things over to Zapier later if you needed to.                                         |
 | 49:29      | Yeah.                                                                                                        |
@@ -920,7 +920,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 50:43      | for you.                                                                                                     |
 | 50:44      | Yes.                                                                                                         |
 | 50:45      | I would also say if you're looking for a little bit more detail on any of these, Screencast                  |
-| 50:49      | Online did, I think, a two-part tutorial on Zapier and I did a one-part tutorial on Integromat,              |
+| 50:49      | Online did, I think, a two-part tutorial on Zapier and I did a one-part tutorial on [[Make\|Integromat]],              |
 | 50:56      | which we'll put links to in the show notes, where even if you're not a Screencast Online                     |
 | 51:00      | member, you can watch the free samples and just see what it's like without having to                         |
 | 51:04      | sign up for the service and play with it yourself necessarily.                                               |
@@ -946,7 +946,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 52:11      | What are some other ones that we should be checking out?                                                     |
 | 52:13      | So one that I've seen, I believe at least twice in the Automators Forum, is an application                   |
 | 52:18      | called, I'm not sure if it's Huggin or Huggin, H-U-G-I-N-N.                                                   |
-| 52:23      | And this is a self-hosted version of sort of if this and that, Zapier or Integromat.                         |
+| 52:23      | And this is a self-hosted version of sort of if this and that, Zapier or [[Make\|Integromat]].                         |
 | 52:30      | So they say it's a system for building agents to perform automated tasks online.                             |
 | 52:34      | It's got a picture of a Raven, but the idea is that it will do it for you, but you have                      |
 | 52:41      | to host it and run it yourself.                                                                              |
