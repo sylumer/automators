@@ -247,7 +247,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 10:03      | And it's really amazing once you start getting into that mentality of being able to use it             |
 | 10:10      | for long capture as well as, you know, a short, simple thing.                                          |
 | 10:14      | But once I have the grocery list, I have a single action, it's just called add to groceries            |
-| 10:20      | and it's a built-in action for a list to reminders.                                                    |
+| 10:20      | and it's a built-in action for a list to [[Apple Reminders\|Reminders]].                                                    |
 | 10:25      | And I tap that, it's added to my grocery list and I'm done.                                            |
 | 10:29      | That is genius.                                                                                        |
 | 10:30      | Yeah, I know we have some listeners at Apple and I'd ask the listeners at Apple right                  |
@@ -387,7 +387,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 18:00      | This was the first iPhone.                                                                             |
 | 18:02      | And so those simple actions to send to messages and emails were great.                                 |
 | 18:08      | And then it kind of expanded with a little bit more built in functionality and doing                   |
-| 18:12      | things with reminders because it's a framework as well as an app.                                      |
+| 18:12      | things with [[Apple Reminders\|Reminders]] because it's a framework as well as an app.                                      |
 | 18:18      | You can do that email and just kind of progressively growing from there.                               |
 | 18:23      | Yeah, I would consider those more action based, right?                                                 |
 | 18:27      | And there's more complex actions as you go.                                                            |
@@ -665,11 +665,11 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 35:40      | We want all the automation.                                                                            |
 | 35:42      | So some of the other things that I do, and I do a lot with task management in [[Drafts]]                   |
 | 35:49      | and on iOS specifically, I'm not so much a Mac user.                                                   |
-| 35:55      | But I use reminders.                                                                                   |
+| 35:55      | But I use [[Apple Reminders\|Reminders]].                                                                                   |
 | 35:57      | That's what I've been using now for a little while.                                                    |
 | 35:59      | I've moonlighted with other apps with [[Things]] with [[OmniFocus]], with [[Todoist]], all these different         |
 | 36:05      | apps.                                                                                                  |
-| 36:06      | And for whatever reason, I'm just, I'm always drawn back to reminders because of the ways              |
+| 36:06      | And for whatever reason, I'm just, I'm always drawn back to [[Apple Reminders\|Reminders]] because of the ways              |
 | 36:10      | I can capture.                                                                                         |
 | 36:12      | And so for me, getting any sort of task down, I can do it through complex automation.                  |
 | 36:22      | But sometimes I just need something simple.                                                            |
@@ -677,8 +677,8 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 36:30      | send it on its way.                                                                                    |
 | 36:31      | And I don't want a lot of friction.                                                                    |
 | 36:33      | So one of the things that I created, and I actually just created this the other day,                   |
-| 36:37      | and I've done this for other apps too, but I'm using reminders here for an example, is                 |
-| 36:42      | just an add single reminders action.                                                                   |
+| 36:37      | and I've done this for other apps too, but I'm using [[Apple Reminders\|Reminders]] here for an example, is                 |
+| 36:42      | just an add single [[Apple Reminders\|Reminders]] action.                                                                   |
 | 36:45      | And what this does is I can pop up a little prompt.                                                    |
 | 36:49      | And what that prompt does is it just says, hey, I need a title for this task.                          |
 | 36:56      | That's all I need.                                                                                     |
@@ -697,7 +697,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 37:54      | iPad.                                                                                                  |
 | 37:55      | I'll kick open this action, the prompt will come up, I'll enter in the task title, I'll                |
 | 38:00      | select a date and time, and I'll hit send, and then it's gone.                                         |
-| 38:04      | And I don't have to jump over to reminders or good tasks, which is what I use.                         |
+| 38:04      | And I don't have to jump over to [[Apple Reminders\|Reminders]] or good tasks, which is what I use.                         |
 | 38:09      | I don't have to jump over to another app.                                                              |
 | 38:11      | I don't have to stop taking meeting notes and enter a new draft.                                       |
 | 38:15      | It's using all of the prompt information.                                                              |
@@ -724,7 +724,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 39:34      | I've done this before.                                                                                 |
 | 39:35      | I did this with things at one point in time, but the one thing about things that I didn't              |
 | 39:40      | like was that it uses [[URL Schemes]].                                                                     |
-| 39:42      | And because this uses the scripting and it uses the reminders framework, I don't have                  |
+| 39:42      | And because this uses the scripting and it uses the [[Apple Reminders\|Reminders]] framework, I don't have                  |
 | 39:49      | to leave the app.                                                                                      |
 | 39:50      | So with things, I would be kicked out of the app and then brought back in and ready to                 |
 | 39:54      | go again to type.                                                                                      |
@@ -732,8 +732,8 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 39:58      | It just says, all right, it's captured, you're done, and I don't have to go anywhere.                  |
 | 40:02      | So I really can stay focused on what I'm doing.                                                        |
 | 40:06      | And for OmniFocus users, you can use this as well because OmniFocus, and I'm sure many                 |
-| 40:10      | other task management applications can capture from a specific reminders list, which means             |
-| 40:15      | that you can say add it to an OmniFocus list in reminders and OmniFocus can eat everything             |
+| 40:10      | other task management applications can capture from a specific [[Apple Reminders\|Reminders]] list, which means             |
+| 40:15      | that you can say add it to an OmniFocus list in [[Apple Reminders\|Reminders]] and OmniFocus can eat everything             |
 | 40:19      | that's in that list for you, meaning that it gets into whatever your task manager is.                  |
 | 40:23      | I know Jew does the same thing.                                                                        |
 | 40:26      | And I'm sure there's many others that do that as well.                                                 |
@@ -803,7 +803,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 43:57      | I need to replace this electrical socket.                                                              |
 | 43:59      | I need to put a new roof on whatever it is.                                                            |
 | 44:03      | Everything's in that big list.                                                                         |
-| 44:04      | It's sectioned out, and that's the way I want it because it clutters my reminders list                 |
+| 44:04      | It's sectioned out, and that's the way I want it because it clutters my [[Apple Reminders\|Reminders]] list                 |
 | 44:10      | otherwise.                                                                                             |
 | 44:12      | It's not stuff that I can action right away.                                                           |
 | 44:14      | If there's going to be an action, I can kick that off to a reminder, and that's fine.                  |
@@ -826,14 +826,14 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 45:31      | draft, which you can get by getting a permalink, and you can read through the script.                  |
 | 45:37      | I don't want to really get into the weeds there.                                                       |
 | 45:39      | I don't want to put everybody to sleep.                                                                |
-| 45:41      | But you can have that note, or have that attached as a note, so that when you use reminders,           |
+| 45:41      | But you can have that note, or have that attached as a note, so that when you use [[Apple Reminders\|Reminders]],           |
 | 45:48      | when you use good tasks, when you use [[OmniFocus]], [[Todoist]], whatever, you can, in fact, just link        |
 | 45:55      | back to that specific draft, and that draft could be in archive, it could be flagged,                  |
 | 46:00      | it could be in the inbox, it doesn't matter where it's at, it will go to that specific                 |
 | 46:04      | draft and load it for you.                                                                             |
 | 46:07      | So I'll do that for those kinds of lists.                                                              |
 | 46:10      | If I'm writing big blog posts or whatever, I'll also link to those [[Drafts]] as well.                     |
-| 46:17      | So I don't have to have multiple different giant lists in reminders.                                   |
+| 46:17      | So I don't have to have multiple different giant lists in [[Apple Reminders\|Reminders]].                                   |
 | 46:24      | I can just link to the specific draft in there.                                                        |
 | 46:27      | That is very smart, because this is something that I see people run into quite frequently,             |
 | 46:31      | that they're trying to use their task management system almost as a reference system in some           |
@@ -863,14 +863,14 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 48:05      | something we do.                                                                                       |
 | 48:07      | He can just keep that in one place, and you can move around your task managers as you                  |
 | 48:10      | see fit.                                                                                               |
-| 48:11      | So if I want to switch from reminders to OmniFocus to things to whatever, I don't have to do           |
+| 48:11      | So if I want to switch from [[Apple Reminders\|Reminders]] to OmniFocus to things to whatever, I don't have to do           |
 | 48:15      | a whole lot of movement, and it makes everything a little bit more nimble in the process.              |
 | 48:21      | And this is also this automation to remind me of is Tim has generously made that available             |
 | 48:28      | at the [[Drafts]] website, so we'll have a link to that one as well.                                       |
 | 48:32      | One more thing with this, the one thing that I have in here is there's two main blocks,                |
-| 48:39      | and when you actually install this action, reminders is the one that it goes to.                       |
+| 48:39      | and when you actually install this action, [[Apple Reminders\|Reminders]] is the one that it goes to.                       |
 | 48:45      | However, there's a bunch of other script blocks that are disabled.                                     |
-| 48:49      | So you can actually disable the reminders one and enable the to do is one or the things                |
+| 48:49      | So you can actually disable the [[Apple Reminders\|Reminders]] one and enable the to do is one or the things                |
 | 48:54      | one or the OmniFocus one, and it will allow you to enter the same stuff into those applications        |
 | 49:02      | through the different scripting options that [[Drafts]] provides.                                          |
 | 49:06      | So all of those applications work here.                                                                |
@@ -895,7 +895,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 50:14      | I have to go back to [[Drafts]].                                                                           |
 | 50:15      | Wait, why don't I just do this in [[Drafts]] because I can.                                                |
 | 50:20      | And that is where the magic is.                                                                        |
-| 50:22      | And I love the way that you've done this because it is literally swipe, tap to disable reminders,      |
+| 50:22      | And I love the way that you've done this because it is literally swipe, tap to disable [[Apple Reminders\|Reminders]],      |
 | 50:27      | swipe, enabled, OmniFocus, done.                                                                       |
 | 50:30      | And then I have all of these [[Drafts]] now in my OmniFocus because I've been playing with                 |
 | 50:33      | this since you put it in the show notes for us last night.                                             |

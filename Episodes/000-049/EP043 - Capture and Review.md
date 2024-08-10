@@ -260,7 +260,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 16:12      | I think we're going to do show at some point, just talking through [[Drafts]] and how we automate           |
 | 16:16      | with it, because there is so much you can do with it now that it's on the back too.                     |
 | 16:19      | But the the I wanted to just to kind of put a point on this in terms of capturing tasks                 |
-| 16:27      | through project templates, whether you use Apple Reminders or a text list or something                  |
+| 16:27      | through project templates, whether you use [[Apple Reminders]] or a text list or something                  |
 | 16:35      | fancy like OmniFocus, this is a technique I just can't recommend enough if you're interested            |
 | 16:40      | in automation. This makes so much sense. I got inspired to do this after reading a book                 |
 | 16:45      | a few years ago called [The Checklist Manifesto](https://atulgawande.com/book/the-checklist-manifesto/). It was a book by a surgeon just talking about           |
@@ -371,7 +371,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 25:09      | a text action in shortcuts. And I do my split text and repeat with each on those. And then              |
 | 25:14      | I just pop up and ask for input box for every single one of those items. And this is great              |
 | 25:19      | because you can use this with any task management system. I usually dub these to my OmniFocus           |
-| 25:24      | inbox, but you could put them in reminders or to do as any of them. And then it just,                   |
+| 25:24      | inbox, but you could put them in [[Apple Reminders\|Reminders]] or to do as any of them. And then it just,                   |
 | 25:29      | you know, it pops up and it's like, okay, groceries. And then they're go, Oh, right.                    |
 | 25:32      | Yeah. So I actually, I need to go buy spicy carrots or something to borrow from one of                  |
 | 25:36      | your previous screencasts or chocolate in my case is pretty much always on that list.                   |

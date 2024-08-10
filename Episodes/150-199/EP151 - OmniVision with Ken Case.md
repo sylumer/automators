@@ -66,7 +66,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 00:52      | Thank you for inviting me.                                                                                          |
 | 00:53      | It's great to be here.                                                                                              |
 | 00:55      | Well, Ken, how could we avoid inviting you?                                                                         |
-| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of Apple's [[Reminders]].                                    |
+| 00:57      | I mean, you got your [[OmniFocus]] on Vision Pro ahead of Apple's [[Apple Reminders\|Reminders]].                                    |
 | 01:03      | I mean, I love it.                                                                                                  |
 | 01:05      | Yeah, so Ken is the head honcho over at the [[Omni Group]], your official title, right?                             |
 | 01:12      | You have the hat that says head honcho on it.                                                                       |

@@ -354,7 +354,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 18:55      | Now, thanks to Vitally for their support of this show and really AFM.                                   |
 | 19:01      | I've got one for you.                                                                                  |
 | 19:02      | It's quite simple, but we're going to start simple and get more complex through the show.              |
-| 19:07      | But I have recently been doing a lot of testing with Apple's Reminders app.                            |
+| 19:07      | But I have recently been doing a lot of testing with [[Apple Reminders\|Apple's Reminders app]].                            |
 | 19:11      | We're in beta season, so I always like to try and kick the tires on what Apple's working               |
 | 19:15      | on.                                                                                                    |
 | 19:16      | And one of the things about it that is more difficult than with OmniFocus is capture,                  |
@@ -380,7 +380,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 20:55      | stuff.                                                                                                 |
 | 20:56      | And so I used to have just like one or two shortcuts in there, and they specifically                   |
 | 21:03      | launched the OmniFocus Capture.                                                                        |
-| 21:06      | But with reminders, I find I need more of them because you really have to do a lot of work             |
+| 21:06      | But with [[Apple Reminders\|Reminders]], I find I need more of them because you really have to do a lot of work             |
 | 21:12      | to open the app and add a new reminder.                                                                |
 | 21:15      | So what I've done is I've made another submenu in it.                                                  |
 | 21:19      | That makes sense.                                                                                      |
@@ -432,8 +432,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 23:58      | I can tell you with OmniFocus, I got to a point where there was only like three of them.               |
 | 24:03      | I didn't take that many slots on my root directory, and I liked the ability to just tap an icon        |
 | 24:08      | in the dock and then tap an icon in to have a pre-filled task item.                                    |
-| 24:12      | With reminders, it feels like a lot more.                                                              |
-| 24:14      | But honestly, I don't know that I'll be using reminders in a few months once Apple ships               |
+| 24:12      | With [[Apple Reminders\|Reminders]], it feels like a lot more.                                                              |
+| 24:14      | But honestly, I don't know that I'll be using [[Apple Reminders\|Reminders]] in a few months once Apple ships               |
 | 24:18      | all this stuff.                                                                                        |
 | 24:19      | So maybe I'll just go with it as it is for now.                                                        |
 | 24:22      | But that's a nice way to handle the problem.                                                           |
@@ -445,7 +445,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 24:49      | Then automation can help you.                                                                          |
 | 24:50      | And shortcuts automation, in this case, is incredibly simple.                                          |
 | 24:54      | It's a single action.                                                                                  |
-| 24:56      | Fantastic, how does it, calendars, does it, OmniFocus, reminders, things, all of the heavy             |
+| 24:56      | [[Fantastical]] does it, [[Apple Calendar\|Calendar]], does it, [[OmniFocus]], [[Apple Reminders\|Reminders]], [[Things]], all of the heavy             |
 | 25:01      | hitters in the productivity space have usually an action that lets you create a new thing              |
 | 25:08      | and fill in metadata at the same time.                                                                 |
 | 25:10      | And it does, you get the payoff on creating that automation like the second time you run               |
@@ -482,7 +482,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 27:39      | Yeah, exactly.                                                                                         |
 | 27:40      | And it's amazing, you know, how many things do you use that?                                           |
 | 27:46      | Or do you already exist when you didn't actually realise that?                                         |
-| 27:50      | I mean, I'm trying to use reminders more right now because of, I want to talk about                    |
+| 27:50      | I mean, I'm trying to use [[Apple Reminders\|Reminders]] more right now because of, I want to talk about                    |
 | 27:55      | in the labs and we're in the beta period, you know, so I always do that.                               |
 | 27:58      | But I sound like I'm such a shill for OmniFocus, but it's just, it feels so hard not having            |
 | 28:06      | that full OmniFocus tool set at my, you know, back in call.                                            |
@@ -495,7 +495,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 28:33      | But when that's one of those things, plus these two other things are done, then that                   |
 | 28:37      | enables that thing.                                                                                    |
 | 28:38      | Then I'll turn to something like [[Taskheat]] or, you know, sometimes I'll just make a                    |
-| 28:43      | quick list in reminders or even [[Drafts]] or things.                                                      |
+| 28:43      | quick list in [[Apple Reminders\|Reminders]] or even [[Drafts]] or things.                                                      |
 | 28:46      | But you know, if I'm, if I want my big project management, I want OmniFocus.                           |
 | 28:52      | And you know, I've recently taken to, I know that fake due dates are not GTD, I'm very                 |
 | 29:03      | aware of this, but I have recently taken to, okay, it is today, whatever today is.                     |
@@ -682,14 +682,14 @@ Rose and David share a collection of their favourite personal automations rangin
 | 42:10      | That's electric.ai.automators. Go there now to get your free pair of Beats Solo 3 headphones           |
 | 42:15      | today for scheduling a meeting. Our thanks to Electric for their support of this show.                 |
 | 42:21      | All right, Rose, give us another personal productivity automation.                                     |
-| 42:28      | Well, I've been dealing with reminders. So unlike you, David, I haven't switched reminders             |
+| 42:28      | Well, I've been dealing with [[Apple Reminders\|Reminders]]. So unlike you, David, I haven't switched [[Apple Reminders\|Reminders]]             |
 | 42:34      | to try it out. I mean, I did give it a solo try for a couple of days. And then I decided               |
 | 42:40      | that I had too much going on in my life at the moment to actually consider really switching            |
 | 42:45      | productivity systems because that's always an endeavor. And so instead, I decided that                 |
-| 42:53      | I was just going to keep playing with reminders because it's really easy to say, hey, Apple            |
+| 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, Apple            |
 | 42:58      | lady, add this thing to blah, blah list or remind me to bunk. And so I've mentioned                    |
 | 43:05      | this before, you know, I have reminders, you know, when I get out of the car, when I get               |
-| 43:09      | home and things like that. So anything that I add to reminders, my default list in reminders           |
+| 43:09      | home and things like that. So anything that I add to [[Apple Reminders\|Reminders]], my default list in [[Apple Reminders\|Reminders]]           |
 | 43:15      | is called automated processing because believe it or not, this list gets automatically processed.      |
 | 43:20      | It's crazy naming, but I went for the simple but obvious approach. I also have a shopping              |
 | 43:26      | list. I have a grocery list because every so often I forget what I've called my lists.                 |
@@ -722,7 +722,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 46:04      | I don't know, cancel the automated reminder from the management company about the gardening.           |
 | 46:11      | I don't know, they don't actually send me a reminder. It'd be very nice if they did.                   |
 | 46:15      | But yeah, the, you know, if I, if I want to add something with the word cancel in, then                |
-| 46:21      | this won't trigger. But if anything is just called cancel, if the title of the reminders               |
+| 46:21      | this won't trigger. But if anything is just called cancel, if the title of the reminder is               |
 | 46:26      | cancel, it just gets deleted from my, from my own reminders, and then it disappears entirely.          |
 | 46:31      | Because that it's not going to be helpful to me. But then the shopping list and the                    |
 | 46:39      | grocery list, they both go through a specific separate shortcut, which is run as part of               |
@@ -781,11 +781,11 @@ Rose and David share a collection of their favourite personal automations rangin
 | 51:38      | right? You know, because I think it's something we all need to do. It's something we'd all             |
 | 51:43      | like to see be more effective. And the Apple has actually made progress on that in the                 |
 | 51:47      | latest betas. They, if you make a list called grocery list or you designated list as your              |
-| 51:52      | grocery list in your Reminders app, it sorts them into the various aisles that they need               |
-| 51:58      | to be in, you know, and I should have clarified earlier. Even when I'm not testing Reminders,          |
+| 51:52      | grocery list in your [[Apple Reminders\|Reminders]] app, it sorts them into the various aisles that they need               |
+| 51:58      | to be in, you know, and I should have clarified earlier. Even when I'm not testing [[Apple Reminders\|Reminders]],          |
 | 52:03      | I'm using it for shared lists. Daisy and I have like various stores and things. And I                  |
-| 52:09      | really like the idea of talking to Reminders through Siri voice and an admin Reminders.                |
-| 52:16      | I think that's the one kind of killer feature that Reminders has. But like you, I have it              |
+| 52:09      | really like the idea of talking to [[Apple Reminders\|Reminders]] through Siri voice and admin reminders.                |
+| 52:16      | I think that's the one kind of killer feature that [[Apple Reminders\|Reminders]] has. But like you, I have it              |
 | 52:21      | saved to a box that OmniFocus sweeps through, you know, and just collects it for me. And                |
 | 52:27      | then I deal with it from there. Unless it is something going to the grocery list where                 |
 | 52:32      | I save it directly via voice automation. What were the, what are the tricky parts with your            |
@@ -800,7 +800,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 53:23      | triggers and it can just run this in the background. Let's give that a try. And that's been working    |
 | 53:28      | brilliantly. So yeah, I think the biggest problem is actually trying to remember, what                 |
 | 53:34      | is it that I actually meant when Siri wrote this down? So I've actually started adding                 |
-| 53:42      | a tag to everything that comes in from reminders that is just a little Siri tag. And it's got          |
+| 53:42      | a tag to everything that comes in from [[Apple Reminders\|Reminders]] that is just a little Siri tag. And it's got          |
 | 53:48      | like the Greek eye emoji on it, which works wonders for just grabbing my attention. If                 |
 | 53:57      | I'm looking at something going, what is this? Then I can just kind of go, okay, well, this             |
 | 54:02      | was added by Siri. So it may, sorry, it's the Nazar Amulet. That's the emoji that I'm                  |
@@ -836,7 +836,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 56:54      | of that, and it can match that up with a store, it will do so. And not only will it do so,             |
 | 57:02      | it will, you know, then like at the tag at the, at the project, and then done. And this                |
 | 57:09      | is something else that gets done, you know, with my process reminders, because sometimes               |
-| 57:14      | reminders end up, well, things end up in reminders and then they, they get migrated over to OmniFocus  |
+| 57:14      | reminders end up, well, things end up in [[Apple Reminders\|Reminders]] and then they, they get migrated over to OmniFocus  |
 | 57:19      | and then OmniFocus can just go, ta-da, done. For me, the, the, the biggest problem with                |
 | 57:26      | splitting up my tasks is kind of the same problem that I have with at the moment. I have two           |
 | 57:32      | different work accounts with, which are both got calendars on and some of them have got,               |

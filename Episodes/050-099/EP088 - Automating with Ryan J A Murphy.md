@@ -63,7 +63,6 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 - [Automators #86: Micro-Automations - Relay FM](https://www.relay.fm/automators/86)
 - [Urgent automation ideas: baby's coming! - Software - MPU Talk](https://talk.macpowerusers.com/t/urgent-automation-ideas-babys-coming/21610)
 - [How to share albums in Photos on your iPhone, iPad and Mac – Apple Support (UK)](https://support.apple.com/en-gb/HT202786)
-- [Gestimer: Timer for Mac](http://maddin.io/gestimer/)
 - [Create albums to manage photos in Photo Station | Get Started With DSM - Synology Knowledge Centre](https://kb.synology.com/en-br/DSM/help/DSM/Tutorial/manage_share_photos?version=6)
 - [Shortcut: Daily routine: create timed reminders relative to shortcut run time from a list in Notes](https://www.icloud.com/shortcuts/c72fd3e0582f4ac597a9bc51901a9929)
 - [Readwise API | Readwise](https://readwise.io/api_deets)
@@ -1094,7 +1093,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 58:22      | little reminders, 24 or so different reminders throughout the day that tend to need to be              |
 | 58:29      | done at a certain time in order to make sure that everything's running smoothly.                       |
 | 58:33      | That is really smart.                                                                                  |
-| 58:34      | I've been doing some similar things as well with reminders that get set when I wake up,                |
+| 58:34      | I've been doing some similar things as well with [[Apple Reminders\|Reminders]] that get set when I wake up,                |
 | 58:40      | where it goes through and it looks at what's on my calendar for the day and sets an actual             |
 | 58:45      | alarm on my phone 15 minutes before certain events and 13 minutes before other events.                 |
 | 58:51      | But the concept of spacing out reminders from when I wake up hadn't yet occurred to me.                |
@@ -1137,12 +1136,12 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:00:34   | a phone anyway.                                                                                        |
 | 01:00:36   | So you're going to need something like push automation server for that, which is increasing            |
 | 01:00:40   | the complexity of this and the barrier to entry somewhat.                                              |
-| 01:00:44   | And then you could send those reminders either to the Reminders app or to the Do app, I would          |
+| 01:00:44   | And then you could send those reminders either to the [[Apple Reminders\|Reminders]] app or to the Do app, I would          |
 | 01:00:47   | assume if you really had something that was like a hard reminder.                                      |
 | 01:00:52   | I actually have a problem with automating, creating reminders in the Do app using the                  |
 | 01:00:55   | Do actions because it opens Do every time.                                                             |
 | 01:00:58   | So what I'm doing instead when I create Do reminders is I add them all to a Do list in                 |
-| 01:01:02   | Reminders and then at the end of the shortcut, I open the Do app, which imports everything             |
+| 01:01:02   | [[Apple Reminders\|Reminders]] and then at the end of the shortcut, I open the Do app, which imports everything             |
 | 01:01:07   | from that list.                                                                                        |
 | 01:01:08   | I wonder that I don't see Do opening up when I run the laundry shortcut that I've got.                 |
 | 01:01:12   | So maybe it's just a little config somewhere.                                                          |
@@ -1155,7 +1154,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:01:39   | Yeah.                                                                                                  |
 | 01:01:40   | And sorry, Rose, you're right.                                                                         |
 | 01:01:41   | I'm doing the same thing.                                                                              |
-| 01:01:42   | I'm adding a reminder to a special reminders list that gets sucked up in a Do.                         |
+| 01:01:42   | I'm adding a reminder to a special [[Apple Reminders\|Reminders]] list that gets sucked up in a Do.                         |
 | 01:01:47   | But yeah, David, you're right.                                                                         |
 | 01:01:49   | Do has saved my life quite a bit the last year.                                                        |
 | 01:01:51   | But it's almost like I feel like if you use it too much, then it loses its effectiveness.              |

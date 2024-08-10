@@ -894,7 +894,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 50:46      | the text that I've selected.                                                                           |
 | 50:47      | It only gets the web page.                                                                             |
 | 50:49      | But then, and this is on Mac OS Monterey, if I click the little share icon in [[Safari]],                  |
-| 50:53      | then I can see, ooh, reminders, Mac OS simulator, okay, messages, fine.                                |
+| 50:53      | then I can see, ooh, [[Apple Reminders\|Reminders]], Mac OS simulator, okay, messages, fine.                                |
 | 51:00      | You know, create a new quick note, add a bookmark, open in news, fairer.                               |
 | 51:05      | And then I tap on a little dot, dot, dot, thinking, okay, where's shortcuts?                           |
 | 51:07      | Where's shortcuts?                                                                                     |
@@ -1116,7 +1116,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:05:52   | them over.                                                                                             |
 | 01:05:53   | I haven't compared them one for one, but I think they're all there.                                    |
 | 01:05:56   | But if not most are there.                                                                             |
-| 01:05:58   | But and then reminders, which got a bunch of new features, but didn't get many new shortcut            |
+| 01:05:58   | But and then [[Apple Reminders\|Reminders]], which got a bunch of new features, but didn't get many new shortcut            |
 | 01:06:04   | sections, which I got that's confusing to me, but that's kind of across all platforms.                 |
 | 01:06:09   | But the more the more vexing one is, like you said, like [[Safari]] having tab actions on                  |
 | 01:06:15   | iPhone and iPad, but not having them on the Mac or Mail has a great new action on iPhone,              |

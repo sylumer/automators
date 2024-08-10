@@ -971,7 +971,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:29:38   | I get noticed that they haven't paid. And then I call the guys with the lead pipes,                                                            |
 | 01:29:45   | they go get the money. It's real easy. I remember for anybody who's interested, Dr. Drang,                                                     |
 | 01:29:51   | last time you were on the Automators, you told us about your nagging invoice follow up system.                                                 |
-| 01:29:56   | And it was really interesting how you use reminders and everything else for that,                                                              |
+| 01:29:56   | And it was really interesting how you use [[Apple Reminders\|Reminders]] and everything else for that,                                                              |
 | 01:29:59   | you know, to do it without using invoicing software specifically.                                                                              |
 | 01:30:04   | So if anybody is interested in that, you should pop back to that episode and check that out.                                                   |
 | 01:30:09   | Saves me a lot of time. And I have found since I have tightened the screws on my clients                                                       |

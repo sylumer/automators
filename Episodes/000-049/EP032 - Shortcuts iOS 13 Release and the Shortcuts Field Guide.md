@@ -749,7 +749,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 39:03      | That's true.                                                                                           |
 | 39:04      | Even as a passenger, there may be something different I want to do.                                    |
 | 39:07      | So the I'm definitely putting one inside the refrigerator and I'm going to use that to                 |
-| 39:13      | trigger the shared grocery list and reminders list that we have.                                       |
+| 39:13      | trigger the shared grocery list and [[Apple Reminders\|Reminders]] list that we have.                                       |
 | 39:17      | So when I look and then we run out of carrots, I can just tap it and get to work.                      |
 | 39:22      | So I don't know.                                                                                       |
 | 39:23      | I'm going to have fun with this.                                                                       |

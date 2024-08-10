@@ -1177,7 +1177,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 01:07:00   | going to visit and, you know, and that's something that I'm experimenting with using                                                           |
 | 01:07:06   | [[Monica CRM\|Monica]] for.                                                                                                                                    |
 | 01:07:07   | Of course, there are lots of different ways that I can handle that.                                                                            |
-| 01:07:09   | I could set something up in reminders or an [[OmniFocus]], but I like the fact that this is                                                        |
+| 01:07:09   | I could set something up in [[Apple Reminders\|Reminders]] or an [[OmniFocus]], but I like the fact that this is                                                        |
 | 01:07:14   | very contact-centred.                                                                                                                          |
 | 01:07:16   | So it's related to this and of course it's self-hosted, which means, you know, you do                                                          |
 | 01:07:20   | have to do the heavy lifting to get it up and running yourself, but then you are in                                                            |

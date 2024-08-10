@@ -479,9 +479,9 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 29:16      | You can tell it, open this up, but when you have tab groups and they're already all set                 |
 | 29:20      | up for you, wouldn't it be easier just to say open up the tab group for writing a sales                 |
 | 29:25      | proposal or, you know, scheduling the soccer game?                                                      |
-| 29:29      | It really would, and I have a feeling, you know, because reminders and notes, for example,              |
+| 29:29      | It really would, and I have a feeling, you know, because [[Apple Reminders\|Reminders]] and notes, for example,              |
 | 29:34      | have the same actions across iOS and iPadOS and macOS, and I love that, that's great.                   |
-| 29:40      | I have a feeling that the real reason for that is underneath notes and reminders got                    |
+| 29:40      | I have a feeling that the real reason for that is underneath notes and [[Apple Reminders\|Reminders]] got                    |
 | 29:45      | a rewrite on macOS, and they are now the same app, where [[Safari]] is still two separate animals           |
 | 29:51      | on iOS and macOS, making that sort of thing much more complicated.                                      |
 | 29:56      | And if you remember back a few years, the Things app would have things for iPhone actions               |
@@ -703,15 +703,15 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 43:05      | That is a loaded question because I already have an answer.                                             |
 | 43:07      | I want more out of the Apple basic productivity apps.                                                   |
 | 43:11      | I feel like this year was a bit of a letdown and the last several years they've made nice               |
-| 43:16      | improvements to [[Apple Notes|Notes]], [[Apple Reminders|Reminders]], [[Apple Mail]], you know, Apple's just really, I think, been              |
+| 43:16      | improvements to [[Apple Notes\|Notes]], [[Apple Reminders\|Reminders]], [[Apple Mail]], you know, Apple's just really, I think, been              |
 | 43:21      | on a good trajectory with that stuff.                                                                   |
 | 43:23      | And this year it sounds, it feels like they lost a bit of their momentum, both in terms                 |
 | 43:28      | of features to those applications and automation support.                                               |
 | 43:32      | I think it's one of those things where that really, it's really difficult to get things                 |
 | 43:37      | right.                                                                                                  |
-| 43:38      | I have hit, at least for the time being, the peak with reminders and where reminders can                |
+| 43:38      | I have hit, at least for the time being, the peak with [[Apple Reminders\|Reminders]] and where reminders can                |
 | 43:43      | go.                                                                                                     |
-| 43:44      | And I'm not saying that as a power user, the power user meals, like there's so much                     |
+| 43:44      | And I'm not saying that as a power user, the power user in me is like there's so much                     |
 | 43:48      | more you can add, hello defer dates, but the regular user inside of me, the person who                  |
 | 43:54      | observes my parents and my grandmother and so on using this stuff, you know, it's kind                  |
 | 44:00      | of at the point right now where it's about as complex as you can get for a normal user                  |
@@ -746,34 +746,34 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 45:48      | It indexes your notes live.                                                                             |
 | 45:50      | So you can just type in the name of a note and then you're good to go and you've got                    |
 | 45:54      | this link.                                                                                              |
-| 45:55      | I think that is going to be something that lands with people on reminders.                              |
+| 45:55      | I think that is going to be something that lands with people on [[Apple Reminders\|Reminders]].                              |
 | 46:00      | I understand what you're saying.                                                                        |
 | 46:02      | And I hope you're wrong.                                                                                |
-| 46:03      | I feel like there is more room and reminders.                                                           |
+| 46:03      | I feel like there is more room and [[Apple Reminders\|Reminders]].                                                           |
 | 46:06      | You know, I deal with a lot of people in the max parking labs who are not necessarily                   |
 | 46:10      | needing a super powerful task manager, but they do want some of the power features.                     |
-| 46:16      | And so many of them are just on the cusp of using reminders, like they're using things.                 |
-| 46:21      | But if just reminders gets a little bit better, they want to switch.                                    |
+| 46:16      | And so many of them are just on the cusp of using [[Apple Reminders\|Reminders]], like they're using things.                 |
+| 46:21      | But if just [[Apple Reminders\|Reminders]] gets a little bit better, they want to switch.                                    |
 | 46:25      | And I feel like Apple is so close with it.                                                              |
 | 46:28      | I just want to push them another 10%, you know, like you said, defer dates.                             |
 | 46:34      | And there's just a couple of little features they need to add to really make that an app                |
 | 46:38      | that can scale up for people that want it.                                                              |
 | 46:41      | And one thing that gives me a little bit of hope is they added essentially Kanban boards                |
-| 46:45      | to reminders this year.                                                                                 |
+| 46:45      | to [[Apple Reminders\|Reminders]] this year.                                                                                 |
 | 46:48      | And Rose, have you played with that at all?                                                             |
 | 46:51      | I haven't really had a chance to know.                                                                  |
-| 46:52      | I tend to only use reminders.                                                                           |
-| 46:55      | Well, I actually use reminders fairly heavily because it's great when you're driving to                 |
+| 46:52      | I tend to only use [[Apple Reminders\|Reminders]].                                                                           |
+| 46:55      | Well, I actually use [[Apple Reminders\|Reminders]] fairly heavily because it's great when you're driving to                 |
 | 46:59      | be able to say, hey, Apple lady, add this or remind me of this and so on.                               |
 | 47:04      | And then, you know, I have shortcuts and my push cut automation server just go off and                  |
 | 47:09      | magically sort that stuff so it all ends up in the right places.                                        |
 | 47:12      | So a chunk of it ends up in OmniFocus and so on.                                                        |
-| 47:15      | But I do use reminders for location-based things, specifically like when I get into                     |
+| 47:15      | But I do use [[Apple Reminders\|Reminders]] for location-based things, specifically like when I get into                     |
 | 47:21      | the car or out of the car and when I get home things, just because that works.                          |
 | 47:28      | That works pretty well for me.                                                                          |
 | 47:29      | The fact that it then hangs around on my home screen until it's done and it's just kind                 |
 | 47:35      | of like there and in my face works very nicely.                                                         |
-| 47:40      | So yeah, you know, I do use reminders.                                                                  |
+| 47:40      | So yeah, you know, I do use [[Apple Reminders\|Reminders]].                                                                  |
 | 47:43      | I haven't yet used the Kanban stuff simply because I don't have a need for that because                 |
 | 47:49      | my big task management stuff, like anything that's basically like these things are actually             |
 | 47:55      | related to each other in one way or another, happens in OmniFocus.                                      |
@@ -788,7 +788,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 48:35      | And this is not going to compete again with the bigger players out there that do Kanban.                |
 | 48:40      | But it's free and it's already on your device.                                                          |
 | 48:43      | And I really think the magic sauce of this is the sharing.                                              |
-| 48:47      | I mean, they, reminders is one of the best in class for sharing task lists.                             |
+| 48:47      | I mean, they, [[Apple Reminders\|Reminders]] is one of the best in class for sharing task lists.                             |
 | 48:52      | You know, if you're, everybody's on an Apple platform, it's just so easy to push one button.            |
 | 48:57      | There's no subscription or anything.                                                                    |
 | 48:58      | You just have sharing.                                                                                  |
@@ -796,19 +796,19 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 49:06      | teams.                                                                                                  |
 | 49:07      | And that's like an advanced feature to me.                                                              |
 | 49:10      | And so I feel like the fact that they put this in means that there's still some gas                     |
-| 49:13      | in a tank over there to improve reminders.                                                              |
+| 49:13      | in a tank over there to improve [[Apple Reminders\|Reminders]].                                                              |
 | 49:17      | And I hope that's true.                                                                                 |
 | 49:18      | Oh yeah, definitely.                                                                                    |
 | 49:20      | But then you get to the automation side of this.                                                        |
 | 49:22      | I mean, we're the automakers, right?                                                                    |
-| 49:24      | The automation of reminders kind of stinks.                                                             |
+| 49:24      | The automation of [[Apple Reminders\|Reminders]] kind of stinks.                                                             |
 | 49:27      | Like I've been playing with this feature, I'm trying to teach about it in the labs and                  |
 | 49:32      | like setting up a project in OmniFocus with automation is super easy.                                   |
 | 49:37      | You can decide what kind of list is, you know, is it linear?                                            |
 | 49:41      | Is it, you know, is it, um, I forget the terms OmniFocus uses, um, there is parallel versus             |
 | 49:46      | sequential versus single action, exactly, exactly.                                                      |
 | 49:50      | They don't have anything like that.                                                                     |
-| 49:51      | Reminders.                                                                                              |
+| 49:51      | [[Apple Reminders\|Reminders]].                                                                                              |
 | 49:52      | And in fact, if you want them to go in a sequential order, you have to put them in reverse because      |
 | 49:57      | the way shortcuts renders it, it puts basically, it keeps it adds.                                      |
 | 50:02      | If you give it a sub task, it puts it at the top of the list, then the next sub task you                |
@@ -865,7 +865,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 53:18      | think that people would add to the bottom versus add to the top and just it, it ended                   |
 | 53:23      | up in whatever default was there, uh, and that was it.                                                  |
 | 53:27      | And that's not like, that's the hill I'm going to die on, but I feel like that's just kind              |
-| 53:30      | of an example of where, you know, it's not quite like, I don't expect reminders to ever                 |
+| 53:30      | of an example of where, you know, it's not quite like, I don't expect [[Apple Reminders\|Reminders]] to ever                 |
 | 53:36      | replace a tool like OmniFocus, you know, name your productivity app.                                    |
 | 53:41      | There is, there's always some best in class apps out there that really sweat all the little             |
 | 53:45      | details and this is more of a consumer thing, but, but it's just, it's interesting to me                |
@@ -874,7 +874,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 53:59      | is, um, is the worst of it.                                                                             |
 | 54:01      | I mean, they, they just need to do more.                                                                |
 | 54:03      | I feel like Notes is probably the best, uh, Apple app with automation in terms of the                   |
-| 54:08      | productivity spear, but like, uh, Apple Mail and reminders and some of their other, like                |
+| 54:08      | productivity spear, but like, uh, Apple Mail and [[Apple Reminders\|Reminders]] and some of their other, like                |
 | 54:14      | we talked earlier about [[Safari]].                                                                         |
 | 54:16      | I just feel like there, there's, there's more work to be done there.                                    |
 | 54:20      | Yes.                                                                                                    |
@@ -952,7 +952,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 58:59      | to release early, they're dealing with underlying audio stuff and they really have to be careful,       |
 | 59:04      | but man, I can tell you that it's always an indicator when I'm, I wish I had the beta                   |
 | 59:10      | on my production machine, like the widgets on the screen and like the way, because I've                 |
-| 59:17      | been testing this Reminders Kanban View, I'm thinking about implementing the small                     |
+| 59:17      | been testing this [[Apple Reminders\|Reminders]] Kanban View, I'm thinking about implementing the small                     |
 | 59:21      | piece of it with my team and like not being able to use it on my Mac, dressing nuts.                    |
 | 59:25      | So that's a good sign that, you know, this is a, this is a good year and I think anybody                |
 | 59:31      | who's running the beta, you know, if you've got some spelunking you're doing and things                 |

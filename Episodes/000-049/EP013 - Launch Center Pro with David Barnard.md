@@ -1290,7 +1290,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 57:25      | and it turns it into whatever you've hooked it up to                 |
 | 57:28      | on the other end that might be running a shortcut.                   |
 | 57:30      | That might be, you know, prompting you to add a reminder             |
-| 57:33      | to your reminders list so that every time you go                     |
+| 57:33      | to your [[Apple Reminders\|Reminders]] list so that every time you go                     |
 | 57:35      | to your grandmother's house, it prompts you to make sure             |
 | 57:37      | that she hasn't installed viruses again on her computer,             |
 | 57:40      | though you probably don't need to help remembering that.             |

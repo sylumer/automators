@@ -879,7 +879,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:20:13   | Maybe if you send them hearts, that would count as a bribe or something against Apple's                |
 | 01:20:18   | policies. I do note that over the past few years, we've seen this several times where                  |
 | 01:20:24   | Apple made substantive improvements to a Mac app. And the following year, it got better automation     |
-| 01:20:31   | support. It seems like there's almost like a reminder stands out for me that reminders                 |
+| 01:20:31   | support. It seems like there's almost like [[Appl Reminders\|Reminders]] stands out for me that [[Apple Reminders\|Reminders]]                 |
 | 01:20:37   | got a lot of updates with features, but it's always like a year or two behind with the shortcuts       |
 | 01:20:42   | and automation support. So it may be just like a process, but it is odd to me that shortcuts,          |
 | 01:20:49   | which they say is their automation story going forward, has two different stories for Apple            |

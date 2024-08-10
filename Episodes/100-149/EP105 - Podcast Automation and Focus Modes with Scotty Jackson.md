@@ -646,7 +646,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 51:34      | So Scotty, I know that we talked focus modes with some home automation and podcasting,                  |
 | 51:39      | but I know that you also really love Agenda and that you have been doing some really cool stuff         |
 | 51:45      | with this, because I remember you telling me that you were finding great ways to get stuff              |
-| 51:51      | out of reminders and do things in ways that were really tricky for a lot of people to do                |
+| 51:51      | out of [[Apple Reminders\|Reminders]] and do things in ways that were really tricky for a lot of people to do                |
 | 51:57      | when you were trying to put it together in a shortcut that everybody could download.                    |
 | 52:00      | And I believe that that is out now. So can you tell us how you are automating things with Agenda?       |
 | 52:07      | Maybe for people who don't know what the Agenda app is?                                                 |
@@ -654,7 +654,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 52:20      | in which it was created. And you can even tie it to a specific calendar event and link the two          |
 | 52:25      | so that you've got that sort of correlation going on between calendar and Agenda itself.                |
 | 52:33      | Agenda has also introduced a lot of sort of quick actions where you can                                 |
-| 52:38      | tie Agenda lines in a note to a specific reminder. So there's reminders and calendars                   |
+| 52:38      | tie Agenda lines in a note to a specific reminder. So there's [[Apple Reminders\|Reminders]] and calendars                   |
 | 52:45      | integration that's really cool. But what I love most, most probably, is the [[URL Schemes\|URL scheme]] that it's        |
 | 52:53      | got. Now, of course, I would love it so much if there was native shortcuts actions. But the URL         |
 | 53:01      | scheme is easy enough to learn and understand. And I think that that makes it really possible to do     |
@@ -791,17 +791,17 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:05:30   | be posted on my blog. I'll get you a link to put in show notes, is my rapid log shortcut,               |
 | 01:05:36   | which does exactly that. It appends to today's note. And based on whether that                          |
 | 01:05:44   | what I rapid log is prefixed by a dash or not, it will also make a task in either OmniFocus             |
-| 01:05:52   | or Reminders, whatever you like. I'll probably share it as link for reminders so that no one            |
+| 01:05:52   | or [[Apple Reminders\|Reminders]], whatever you like. I'll probably share it as link for [[Apple Reminders\|Reminders]] so that no one            |
 | 01:05:58   | feels compelled to have to purchase or download OmniFocus if you're not an OmniFocus user like          |
-| 01:06:05   | I am. But it'll create a reminder in reminders. And then it will create the task as like a              |
-| 01:06:13   | checkmark item in Agenda with the body of the text linked to the reminder in Reminders. So,             |
+| 01:06:05   | I am. But it'll create a reminder in [[Apple Reminders\|Reminders]]. And then it will create the task as like a              |
+| 01:06:13   | checkmark item in Agenda with the body of the text linked to the reminder in [[Apple Reminders\|Reminders]]. So,             |
 | 01:06:20   | you could just click it and go there. That way, you can see the task in either place,                   |
-| 01:06:26   | either in your Agenda dashboard for the day or in Reminders. And then it also honours                    |
+| 01:06:26   | either in your Agenda dashboard for the day or in [[Apple Reminders\|Reminders]]. And then it also honours                    |
 | 01:06:34   | inline, let's say Taskpaper styling, so that if I was to type dash pick up the groceries               |
-| 01:06:45   | at flagged at errands, it will make the task in reminders flagged with the title,                       |
+| 01:06:45   | at flagged at errands, it will make the task in [[Apple Reminders\|Reminders]] flagged with the title,                       |
 | 01:06:55   | pick up whatever I said it was, and with the tag of errands already done for you.                       |
 | 01:07:01   | And then also added in Agenda, but without any of that Taskpapery stuff,                               |
-| 01:07:06   | it'll just say pick up groceries with a checkmark circle, but the text is linked to Reminders.          |
+| 01:07:06   | it'll just say pick up groceries with a checkmark circle, but the text is linked to [[Apple Reminders\|Reminders]].          |
 | 01:07:14   | And again, also OmniFocus. But I think that that is a really cool way for me to not have to worry       |
 | 01:07:21   | about when I add something or when I have a thought, where does it go? Because not only am I            |
 | 01:07:29   | adding these things into an appended to a note for my day, but they're also automatically               |
@@ -814,8 +814,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:08:14   | captured that thing. You're not necessarily having a snapshot that you did the thing,                   |
 | 01:08:18   | but you can go and see it. And if it's been assigned a date or it transformed since then,               |
 | 01:08:22   | then you'll have the latest version of that plus what it originally was. And also,                      |
-| 01:08:31   | I think a lot of people will appreciate that you're sharing it as a reminders action because            |
-| 01:08:35   | reminders is on everyone's devices. And the one thing I wish shortcuts could do is give you             |
+| 01:08:31   | I think a lot of people will appreciate that you're sharing it as a [[Apple Reminders\|Reminders]] action because            |
+| 01:08:35   | [[Apple Reminders\|Reminders]] is on everyone's devices. And the one thing I wish shortcuts could do is give you             |
 | 01:08:40   | sort of like a preview of what the shortcut action might be like for an app that you don't              |
 | 01:08:45   | have installed because right now, if I downloaded, I don't know, an awesome new app or a shortcut       |
 | 01:08:53   | that contained awesome new app shortcut action, I would have absolutely no idea what even app           |

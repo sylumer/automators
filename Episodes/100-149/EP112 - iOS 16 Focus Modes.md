@@ -1370,7 +1370,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:21:28   | this.                                                                                                   |
 | 01:21:29   | Yeah.                                                                                                   |
 | 01:21:30   | Yeah.                                                                                                   |
-| 01:21:31   | I'd also really like to see more of the Apple apps hop on this bandwagon, you know, reminders           |
+| 01:21:31   | I'd also really like to see more of the Apple apps hop on this bandwagon, you know, [[Apple Reminders\|Reminders]]           |
 | 01:21:35   | is an obvious candidate with the lists.                                                                 |
 | 01:21:38   | And you know, the artwork one, actually, it would be quite nice to say like, hey, like                  |
 | 01:21:42   | folders, like these folders are the folders that I like want to be like the default folders             |
@@ -1725,7 +1725,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:43:34   | Well, we'll have to see what enhancements come.                                                         |
 | 01:43:37   | Fingers crossed, there'll be shortcuts control for that action button on the Apple Watch                |
 | 01:43:40   | sometime soon.                                                                                          |
-| 01:43:42   | And you know, maybe we'll get to see some other things sneaking in there too, like reminders,           |
+| 01:43:42   | And you know, maybe we'll get to see some other things sneaking in there too, like [[Apple Reminders\|Reminders]],           |
 | 01:43:48   | getting focus mode filter support.                                                                      |
 | 01:43:50   | But as it is, I'm feeling like iOS 16 is doing pretty well.                                             |
 | 01:43:53   | Yeah.                                                                                                   |

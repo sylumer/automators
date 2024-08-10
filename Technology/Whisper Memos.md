@@ -25,7 +25,7 @@ Whisper Memos is an application designed to streamline voice memos and voice-to-
 - **Offline Mode**: Record and transcribe memos without needing an internet connection.
 - **Security**: Protect your memos with fingerprint or facial recognition.
 - **Export Options**: Share transcripts and audio files via email or save to other apps.
-- **Integrations**: Integrates with other productivity tools such as Calendar and Reminders.
+- **Integrations**: Integrates with other productivity tools such as Calendar and [[Apple Reminders|Reminders]].
 - **Shortcuts Support**: Create Siri Shortcuts for quick access to specific functionalities.
 - **Customisable Interface**: Choose from different themes and display settings.
 - **Voice Activation**: Start recording by voice command.

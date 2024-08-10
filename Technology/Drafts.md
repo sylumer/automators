@@ -26,7 +26,7 @@ Drafts is a versatile note-taking and text editing application that allows users
 
 # Notes
 - Drafts is available as a freemium app, offering a basic version for free with optional in-app purchases for premium features.
-- The app supports automation through its own actions based functionality. It has very limited [[AppleScript]] support, extensive [[Shortcuts]] support, and offers various other integration options such as automated import via file import, [[Reminders]] import, and mail drop import.
+- The app supports automation through its own actions based functionality. It has very limited [[AppleScript]] support, extensive [[Shortcuts]] support, and offers various other integration options such as automated import via file import, [[Apple Reminders|Reminders]] import, and mail drop import.
 - Drafts on iOS/iPadOS was a [TextExpander] enhanced application.
 
 # Links

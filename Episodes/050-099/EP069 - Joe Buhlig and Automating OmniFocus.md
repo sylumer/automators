@@ -168,7 +168,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 07:31      | certain things into it? Because that was my big thing is I was trying to keep everything in OmniFocus  |
 | 07:36      | at the time. Yeah. So I was exploring some of the Siri into OmniFocus bits at the time, which          |
 | 07:42      | were not straightforward like they are today. Yeah. You know, it was back when you had to use like     |
-| 07:47      | this reminders trick to get it in there. So I learned some of that. I set up an OmniFocus              |
+| 07:47      | this [[Apple Reminders\|Reminders]] trick to get it in there. So I learned some of that. I set up an OmniFocus              |
 | 07:53      | hotspot of sorts with [[Hazel]], which is kind of a slick one as well. And then that kind of cut my        |
 | 08:01      | teeth on scripting in general, I think, because then I started diving into some of the someday         |
 | 08:07      | maybe list auto parsing type processes like what Rose was referring to earlier. But then that also     |

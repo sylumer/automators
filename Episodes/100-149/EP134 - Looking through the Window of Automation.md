@@ -242,7 +242,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 12:23      | It just executes right into the heart of the machine.                                                 |
 | 12:26      | Well, I mean, that's one of the reasons why I'm in the bag for OmniFocus.                             |
 | 12:31      | When I made my big career change, I thought, well, maybe I don't need something as powerful           |
-| 12:35      | as OmniFocus, and I tried some other apps, I tried to use Reminders, and it's just not                |
+| 12:35      | as OmniFocus, and I tried some other apps, I tried to use [[Apple Reminders\|Reminders]], and it's just not                |
 | 12:40      | this toy set that you've built.                                                                       |
 | 12:44      | How could you walk away from that?                                                                    |
 | 12:46      | I mean, I can make my task manager dance for me and it gets out of my way.                            |

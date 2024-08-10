@@ -181,12 +181,12 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 13:10      | developer to have to jump through a whole bunch of hoops to make everything available.                   |
 | 13:14      | Yeah, no, it makes total sense to me. Like, it feels to me like every year Apple picks two or            |
 | 13:20      | three of their own apps to get like the [[Shortcuts]] treatment. Like I felt like last year, it was          |
-| 13:26      | Apple notes, like Apple notes got a bunch of interesting and useful actions, but reminders               |
-| 13:31      | didn't get any. And now this year, reminders get some new ones. So you can open any lists,               |
+| 13:26      | Apple notes, like Apple notes got a bunch of interesting and useful actions, but [[Apple Reminders\|Reminders]]               |
+| 13:31      | didn't get any. And now this year, [[Apple Reminders\|Reminders]] get some new ones. So you can open any lists,               |
 | 13:37      | you can pin and unpin reminders, and show and hide smart lists as [[Shortcuts]] actions.                     |
 | 13:44      | Quite frankly, still not enough in my opinion. Like I was trying to do for a lab member,                 |
 | 13:49      | to do for a lab member, make a shortcut to make reminders with subtasks. And you can do it in            |
-| 13:55      | reminders, but it's very clunky. I feel like if they had me in a room and said, let's make some          |
+| 13:55      | [[Apple Reminders\|Reminders]], but it's very clunky. I feel like if they had me in a room and said, let's make some          |
 | 14:01      | reminders, I could have come up with about 10 more actions that they could have made.                    |
 | 14:06      | Yeah, but I think that also by doing it this way, they have learned from notes. Because                  |
 | 14:12      | notes has a huge number of [[Shortcuts]] actions, but also I feel like sometimes if you're looking           |

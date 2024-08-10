@@ -376,7 +376,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 24:56      | on [[Apple Mail]] and I want to save it to [[OmniFocus]] for later, I mean, [[OmniFocus]] has a service where                         |
 | 25:03      | you can forward an email and it creates a link for you in essence. But I mean, the traditional                                        |
 | 25:08      | method of drag and drop just doesn't work because there's no drag and drop on an iPhone between                                       |
-| 25:12      | two applications. Yeah. So if you're using something like reminders and you want to remind                                            |
+| 25:12      | two applications. Yeah. So if you're using something like [[Apple Reminders\|Reminders]] and you want to remind                                            |
 | 25:16      | yourself about a link, I mean, what you can do, and this does work, if you're in an environment                                       |
 | 25:22      | where you can talk to [[Siri]], then you can say, "Hey Siri", remind me of this later. And then                                       |
 | 25:29      | [[Siri]] will remind you of this later and you can get it into a reminder system that way.                                            |

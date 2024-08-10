@@ -312,10 +312,10 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 11:47      | And I will say something like, oh gosh, now you're going to make me think, add by flower                      |
 | 11:53      | to my shopping list or, you know, doesn't search.                                                             |
 | 11:56      | And then I've created, I've repurposed somebody else's automator script for grabbing multiple                 |
-| 12:01      | reminders out of the reminders app.                                                                           |
+| 12:01      | reminders out of the [[Apple Reminders\|Reminders]] app.                                                                           |
 | 12:04      | Oh yeah.                                                                                                      |
-| 12:05      | I have those, I have TTT to send that to my reminders.                                                        |
-| 12:09      | At the point when I now have an automation for copying reminders out of the reminders                         |
+| 12:05      | I have those, I have [[IFTTT]] to send that to my [[Apple Reminders\|Reminders]].                                                        |
+| 12:09      | At the point when I now have an automation for copying reminders out of the [[Apple Reminders\|Reminders]]                         |
 | 12:14      | app so I can put them in a Taskpaper, that's a bridge too far, right?                                        |
 | 12:19      | It would be so much easier, but I say to my watch, for example, and I'm sorry, I'm always                     |
 | 12:23      | bitching about this stuff, I say, remind me, remind me to check the bathroom lights when                      |

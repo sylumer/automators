@@ -269,12 +269,12 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 13:00      | But like one of my favourite shortcuts, and I've got tons of these is like the project                 |
 | 13:04      | creation shortcuts, like we're going to make a new episode of automators, then it creates             |
 | 13:09      | a calendar event, it creates the note, it creates the task list and all that stuff works.             |
-| 13:15      | The task list stuff didn't work when I used OmniFocus, but it does work with reminders.               |
+| 13:15      | The task list stuff didn't work when I used OmniFocus, but it does work with [[Apple Reminders\|Reminders]].               |
 | 13:20      | OmniFocus is on its way.                                                                              |
 | 13:23      | They have not at this point enabled the iPad app because I think that any day now they're             |
 | 13:28      | probably going to release a native version.                                                           |
 | 13:31      | So I, the shortcut didn't have anywhere to go for that stuff.                                         |
-| 13:34      | But if I modified it to use reminders or anything else that it could recognise.                       |
+| 13:34      | But if I modified it to use [[Apple Reminders\|Reminders]] or anything else that it could recognise.                       |
 | 13:38      | So all the project creation stuff works good.                                                         |
 | 13:41      | I really think that it's pretty useful for a lot of the shortcuts I do, but the setup                 |
 | 13:48      | stuff, which I think this device needs shortcuts for, isn't there yet?                                |
@@ -640,8 +640,8 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 37:50      | And it's interesting because the, we always heard kind of in the rumour mill that the hardware         |
 | 37:55      | was done and the software was, was some of the delay on the release of the product.                   |
 | 38:01      | But a lot of the software isn't there.                                                                |
-| 38:03      | Like it's shocking to me that the Reminders app doesn't have a native vision OS application.          |
-| 38:09      | I mean, Reminders, I mean, that's Apple's big push at a task manager app, you know, and               |
+| 38:03      | Like it's shocking to me that the [[Apple Reminders\|Reminders]] app doesn't have a native vision OS application.          |
+| 38:09      | I mean, [[Apple Reminders\|Reminders]], I mean, that's Apple's big push at a task manager app, you know, and               |
 | 38:17      | it's not a native app or calendar that, you know, the native calendar app is [[Fantastical]].             |
 | 38:24      | It's not the [[Apple Calendar]] app because they didn't get a native app out.                             |
 | 38:27      | And like I said, it's a subpar experience.                                                            |
@@ -674,7 +674,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 40:14      | June to September seems realistic.                                                                    |
 | 40:15      | Yeah.                                                                                                 |
 | 40:16      | But in my heart, I'd really like to see it like when they, they make the announcements                |
-| 40:20      | at WWDC and say, and we have a native reminders app, a native calendars app, a native shortcuts       |
+| 40:20      | at WWDC and say, and we have a native [[Apple Reminders\|Reminders]] app, a native calendars app, a native shortcuts       |
 | 40:26      | app and, you know, app specific or platform specific actions and shortcuts, like, you                 |
 | 40:31      | know, just kind of like finish that, that roll out with stuff.                                        |
 | 40:36      | I'd be disappointed if we got to the next version of iOS or vision OS and all those                   |

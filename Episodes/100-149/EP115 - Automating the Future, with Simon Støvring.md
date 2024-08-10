@@ -362,9 +362,9 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 24:19      | included, were using [[Scriptable]] to edit reminders because editing a reminder was not something         |
 | 24:24      | you could do in the [[Shortcuts]] app. And, you know, and you came to our rescue and [[Alex Hay]]                 |
 | 24:30      | Hay did the same thing with [[Toolbox Pro]], so there were two different ways of doing it.                 |
-| 24:34      | And then, fortunately, the reminders team were like, oh, you mean you actually want                    |
+| 24:34      | And then, fortunately, the [[Apple Reminders\|Reminders]] team were like, oh, you mean you actually want                    |
 | 24:37      | to like change your reminder? Oh, that's not something we thought of. But I guess we can               |
-| 24:42      | add that to shortcuts. Like, thank you. Thank you, reminders team. That's, that's good. Finally,       |
+| 24:42      | add that to shortcuts. Like, thank you. Thank you, [[Apple Reminders\|Reminders]] team. That's, that's good. Finally,       |
 | 24:46      | catching up on what some other developers have been solving for you for the last couple                |
 | 24:49      | of years. But yeah, it's always, you know, a strange, like, watching, you know, other                  |
 | 24:57      | people solve these problems and the main app developers not necessarily doing it, but it's             |
@@ -381,7 +381,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 25:51      | I find one. But I'm able to cobble them together because JavaScript has such a big resource            |
 | 25:58      | on the internet. There's so many people that have shown you how to do stuff between that,              |
 | 26:02      | the samples. It really does give you some extra tools like Rose was saying, historically               |
-| 26:09      | we would use it for to get around problems with reminders, but there's always little                   |
+| 26:09      | we would use it for to get around problems with [[Apple Reminders\|Reminders]], but there's always little                   |
 | 26:13      | bits of glue that you need for automation or maybe even something fancier that you can                 |
 | 26:19      | only do with a bit of JavaScript. It's really great for calling out to the internet. Like              |
 | 26:24      | you've got the built in one for the current weather and the polling count. I think those               |

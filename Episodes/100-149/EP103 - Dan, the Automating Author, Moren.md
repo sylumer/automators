@@ -84,7 +84,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 00:47      | This one was quite a journey, frankly, you know, shortcuts didn't start out so great                   |
 | 00:54      | on the Mac, but they really kind of picked up steam towards the end, and we got a great                |
 | 00:58      | field guide out of it.                                                                                 |
-| 00:59      | If you guys are interested, head over to learn.maxbargay.com, you can get it there.                    |
+| 00:59      | If you guys are interested, head over to [learn.macsparky.com](https://learn.macsparky.com), you can get it there.                    |
 | 01:04      | There is a 10% discount, which you can get for now for a short time.                                   |
 | 01:09      | There's two versions.                                                                                  |
 | 01:10      | The main version is just, you know, the field guide with the eight hours and 134 videos,               |
@@ -107,7 +107,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 02:16      | And I mean, you know, I've had a Mac since 1990, and I have messed around with a lot                   |
 | 02:22      | of different automation and programming aspects on the Mac over that period.                           |
 | 02:27      | In the earliest days, that was like playing around with the innards of apps via ResEdit                |
-| 02:33      | or doing a little bit of learning tinkering with tools like HyperCard.                                 |
+| 02:33      | or doing a little bit of learning tinkering with tools like [[HyperCard]].                                 |
 | 02:40      | And so I, you know, automation has always been a tricky area for me because it's something             |
 | 02:47      | that I am very interested in because I love the idea of doing less work.                               |
 | 02:52      | Everybody likes that.                                                                                  |
@@ -348,7 +348,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 14:54      | I mean, you talked to David about upper management and stuff like that, like, you know, who owns       |
 | 15:00      | the shortcuts for the apps?                                                                            |
 | 15:01      | I mean, [[Federico Viticci]] obviously mentioned this kind of stuff before, but like, you know,           |
-| 15:05      | they roll out new features at WWC and shortcuts rolls out new features.                                |
+| 15:05      | they roll out new features at [[WWDC]] and shortcuts rolls out new features.                                |
 | 15:10      | And it's like, well, is it the people on the apps who work on those apps that are responsible          |
 | 15:14      | for like making it work with shortcuts?                                                                |
 | 15:16      | Or is it the shortcuts team has to go to all those app people and be like, please, let's               |
@@ -369,10 +369,10 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 15:53      | and B, you can also access it in shortcuts.                                                            |
 | 15:54      | You have to talk about it every time, but like that's table stakes at this point.                      |
 | 15:58      | Yeah.                                                                                                  |
-| 15:59      | Like two that really stand out are Apple notes and reminders.                                          |
-| 16:01      | Like reminders got new features last year.                                                             |
+| 15:59      | Like two that really stand out are Apple notes and [[Apple Reminders\|Reminders]].                                          |
+| 16:01      | Like [[Apple Reminders\|Reminders]] got new features last year.                                                             |
 | 16:04      | Yeah.                                                                                                  |
-| 16:05      | And even though there is good support in shortcuts or reminders, none of the new features got          |
+| 16:05      | And even though there is good support in shortcuts or [[Apple Reminders\|Reminders]], none of the new features got          |
 | 16:09      | actions.                                                                                               |
 | 16:10      | Right.                                                                                                 |
 | 16:11      | And it's like, so is that the way it works?                                                            |
@@ -380,7 +380,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 16:17      | you to add it, assuming we're going to get it, you know, I mean,                                       |
 | 16:20      | Right.                                                                                                 |
 | 16:21      | Right.                                                                                                 |
-| 16:22      | It's max of like the reminders in notes team, you know, building new features and the shortcuts        |
+| 16:22      | It smacks of like the r[[Apple Reminders\|Reminders]] and [[Apple Notes\|Notes]] team, you know, building new features and the [[Shortcuts]]        |
 | 16:26      | team not knowing that those features exist until it comes out and you're like, uh, left                |
 | 16:30      | hand, right hand, come on guys, you know, talk to each other.                                          |
 | 16:33      | Yeah.                                                                                                  |
@@ -440,7 +440,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 19:38      | You know, so I don't think the issue is leaks coming out of teams working together and making          |
 | 19:44      | a better product for the customer.                                                                     |
 | 19:45      | It just seems to me so counter-intuitive that, you know, there should be a shortcuts team               |
-| 19:51      | person talking to the reminders team and fully aware of what they're doing and saying, Hey,            |
+| 19:51      | person talking to the [[Apple Reminders\|Reminders]] team and fully aware of what they're doing and saying, Hey,            |
 | 19:57      | do you guys need help adding actions or do you want us to do it for you?                               |
 | 20:01      | So when we get to WWDC, they can say, not only do we have this cool feature, you can                   |
 | 20:05      | automate it right out of the box.                                                                      |

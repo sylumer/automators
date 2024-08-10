@@ -222,7 +222,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:57      | for capture and use the downloaded actions that are available, then you can do that.                     |
 | 14:02      | And I would argue that you should do that because [[Drafts]] is a great application for                      |
 | 14:06      | this. But I mean, there are plenty of other applications that you could use. I mean, I                   |
-| 14:11      | actually do use reminders for some things because when I say hello, Apple lady, and                      |
+| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, Apple lady, and                      |
 | 14:16      | she's listening because I've got a speaker in almost every room now. I don't have one                    |
 | 14:20      | in the hallway, but there are three rooms adjacent to the hallway with these. I don't                    |
 | 14:24      | have one in the bathroom. So I have to use my Apple watch there if I need to capture                     |
@@ -635,7 +635,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 41:47      | This may not sound super automated, but when I break it down, it actually is.                            |
 | 41:54      | So I'll do that.                                                                                         |
 | 41:55      | First of all, I have, you know, add this to my shopping list, so for example, add bananas                |
-| 42:01      | to my shopping list, and that goes into a shopping list in reminders.                                    |
+| 42:01      | to my shopping list, and that goes into a shopping list in [[Apple Reminders\|Reminders]].                                    |
 | 42:06      | And then I actually do have a shortcut that can pull those items into OmniFocus, because                 |
 | 42:12      | a lot of my things to purchase do end up in OmniFocus.                                                   |
 | 42:16      | Some people don't think that's best practice.                                                            |
@@ -651,13 +651,13 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 42:59      | And I use this for a certain thing.                                                                      |
 | 43:02      | So recently, I had to take a course of medication and is antibiotic, so you need to take them            |
 | 43:07      | at the right time and stuff like that.                                                                   |
-| 43:09      | So I used shortcuts, actually, in that particular case, to add a series of tasks to Jew, which           |
+| 43:09      | So I used shortcuts, actually, in that particular case, to add a series of tasks to [[Due]], which           |
 | 43:16      | it then nagged me for.                                                                                   |
-| 43:17      | But Jew can automatically, or can look at a reminders list and anything with a date                      |
+| 43:17      | But [[Due]] can automatically, or can look at a [[Apple Reminders\|Reminders]] list and anything with a date                      |
 | 43:22      | and time, it will just grab for you.                                                                     |
 | 43:25      | And that's perfect.                                                                                      |
 | 43:28      | And I decided that, very occasionally, I do want reminders when I get to a location,                     |
-| 43:32      | and I like using reminders for this because it stays on the home screen of my phone until                |
+| 43:32      | and I like using [[Apple Reminders\|Reminders]] for this because it stays on the home screen of my phone until                |
 | 43:36      | either I leave the location or until I mark it off, unlike OmniFocus, where this is an                   |
 | 43:42      | iOS limitation.                                                                                          |
 | 43:43      | It just appears once, and then it goes away.                                                             |
@@ -687,8 +687,8 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 45:12      | in the background without me thinking about it, which is amazing.                                        |
 | 45:15      | All right.                                                                                               |
 | 45:16      | I want to pull that apart.                                                                               |
-| 45:17      | So the starting point is you're using Siri, and it's excellent integration with the Apple                |
-| 45:24      | Reminders app as a quick capture.                                                                        |
+| 45:17      | So the starting point is you're using Siri, and it's excellent integration with the [[Apple Reminders]]  |
+| 45:24      | app as a quick capture.                                                                        |
 | 45:27      | It seems like that's the reason you're doing this, right?                                                |
 | 45:29      | I mean, rather than going to specific apps.                                                              |
 | 45:31      | Yeah.                                                                                                    |
@@ -715,7 +715,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 46:50      | So while theoretically they can't pass it off to an iPhone or an iPad, which will deal                   |
 | 46:55      | with it, I found sometimes they don't.                                                                   |
 | 46:57      | That's a bit of a, you know, thing where it's just not clicking quite as it should.                      |
-| 47:02      | And I don't know exactly where the problem is, but reminders works 10 out of 10 times.                   |
+| 47:02      | And I don't know exactly where the problem is, but [[Apple Reminders\|Reminders]] works 10 out of 10 times.                   |
 | 47:06      | So I've stuck with the simple solution.                                                                  |
 | 47:09      | So that's a third point of failure.                                                                      |
 | 47:10      | It's like it's got to then go from the HomePod to the mobile device and, you know, something's          |
@@ -733,14 +733,14 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 47:40      | And then I've got a, you know, a checklist that I go through at that point.                              |
 | 47:44      | I don't make do items or every item on the checklist.                                                    |
 | 47:47      | It's just get started with the shutdown, but you are actually pulling items that are date                |
-| 47:53      | related out of reminders and putting them into do automatically.                                         |
+| 47:53      | related out of [[Apple Reminders\|Reminders]] and putting them into do automatically.                                         |
 | 47:56      | Yeah.                                                                                                    |
 | 47:57      | Yeah.                                                                                                    |
 | 47:58      | And this is a native feature of due.                                                                     |
 | 47:59      | I didn't really do anything for this.                                                                    |
 | 48:01      | So if you open due in the, in the sidebar under a settings, I believe, then there should                 |
 | 48:09      | be an option under, um, so there's import where you can specifically import everything                   |
-| 48:14      | in one list, but there's also auto import where you can select a reminders list, um,                     |
+| 48:14      | in one list, but there's also auto import where you can select a [[Apple Reminders\|Reminders]] list, um,                     |
 | 48:20      | and it will, it will then attempt to import that.                                                        |
 | 48:22      | And I set my background app refresh, uh, to, to maximum because, you know, I'm not going                 |
 | 48:27      | anywhere and I've got a max iPhone.                                                                      |
@@ -767,7 +767,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 49:48      | And then the rest of it is handled through shortcut that I've programmed.                                |
 | 49:51      | Okay.                                                                                                    |
 | 49:52      | So the first thing, so that we're addressing time related reminders through due and then                 |
-| 49:57      | you had your addressing location related to reminders, just by leaving them in the reminders             |
+| 49:57      | you had your addressing location related to reminders, just by leaving them in the [[Apple Reminders\|Reminders]]             |
 | 50:02      | app, right?                                                                                              |
 | 50:03      | Yeah.                                                                                                    |
 | 50:04      | Yeah.                                                                                                    |
@@ -839,7 +839,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 54:04      | That's the thing.                                                                                        |
 | 54:05      | I'm not choosing the right app for, for the right use case.                                              |
 | 54:09      | And I have found if I'm asking you to remind me of something, then, or sorry, if I'm asking              |
-| 54:18      | reminders to remind me of something, then that means that I probably need to do it very                  |
+| 54:18      | [[Apple Reminders\|Reminders]] to remind me of something, then that means that I probably need to do it very                  |
 | 54:25      | specifically at that time done.                                                                          |
 | 54:28      | And that means that it shouldn't land in omnifocus.                                                      |
 | 54:32      | There are very occasionally exceptions to this rule, but that's occasional.                              |

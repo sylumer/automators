@@ -333,12 +333,12 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 16:52      | So I really built it for myself and I'm glad that other people can find use in it as well.                  |
 | 16:57      | I feel like I have a pretty good window into how you use your iPhone just based on the                      |
 | 17:01      | shortcuts that get added to this.                                                                           |
-| 17:03      | I feel like I think you use [[Reminders]] because it's like I can see all the problem areas                     |
+| 17:03      | I feel like I think you use [[Apple Reminders\|Reminders]] because it's like I can see all the problem areas                     |
 | 17:09      | Alex has run into, he has created shortcuts to fix them.                                                    |
 | 17:13      | Yes.                                                                                                        |
 | 17:14      | That was something after one of our podcasts a couple of months ago, and I mentioned that                   |
 | 17:19      | you could use Scriptable, oh, it's our packing list, automators episode, David, where I mentioned           |
-| 17:25      | that you could use Scriptable to create a reminders list.                                                   |
+| 17:25      | that you could use Scriptable to create a [[Apple Reminders\|Reminders]] list.                                                   |
 | 17:28      | If it didn't exist, Alex, I think you mentioned me on [[Twitter]] and said, you know that that's            |
 | 17:34      | an action in [[Toolbox Pro]] as well, and then they're going, well, that's a darn sight                     |
 | 17:37      | easier than writing a [[Scriptable]] action.                                                                    |
@@ -352,9 +352,9 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 18:06      | having a lot of complexity, which I think is what is great about [[Shortcuts]] in the first                     |
 | 18:09      | place, really.                                                                                              |
 | 18:10      | Indeed.                                                                                                     |
-| 18:11      | I feel like where the [[Reminders]] team, you know, took their lunch break and didn't finish                    |
+| 18:11      | I feel like where the [[Apple Reminders\|Reminders]] team, you know, took their lunch break and didn't finish                    |
 | 18:15      | their shortcut integration, you picked up the slack.                                                        |
-| 18:18      | I mean, there's several [[Reminders]] shortcuts that seemed like they should have shipped                       |
+| 18:18      | I mean, there's several [[Apple Reminders\|Reminders]] shortcuts that seemed like they should have shipped                       |
 | 18:22      | with it, but they didn't.                                                                                   |
 | 18:25      | And thank you for making this.                                                                              |
 | 18:26      | Yeah.                                                                                                       |
@@ -362,7 +362,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 18:33      | as you add just like a couple of things that you can do with sort of native apps that you                   |
 | 18:38      | couldn't do before inside shortcuts, people like react really well to it because it's                       |
 | 18:43      | like our internal programming is we only get that from Apple.                                               |
-| 18:47      | I mean, the only people who are going to add Reminders shortcuts is the people who made                     |
+| 18:47      | I mean, the only people who are going to add [[Apple Reminders\|Reminders]] shortcuts is the people who made                     |
 | 18:51      | it, right?                                                                                                  |
 | 18:52      | Exactly.                                                                                                    |
 | 18:53      | But the API's already exist and they're there and it's just a case of sort of linking it                    |
@@ -1004,7 +1004,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 59:08      | I've seen people create media to do lists, for example.                                                     |
 | 59:14      | So if there's a movie that you've heard about that you want to watch, you could create a                    |
 | 59:18      | shortcut to save that to a list to watch later.                                                             |
-| 59:22      | You could save it to your reminders or notes or something like that.                                        |
+| 59:22      | You could save it to your [[Apple Reminders\|Reminders]] or notes or something like that.                                        |
 | 59:25      | But having that action lets you search for that movie and maybe you could pull the poster                   |
 | 59:30      | image, for example, or the year it was created or anything like that.                                       |
 | 59:34      | So that's that's the sort of idea behind it.                                                                |

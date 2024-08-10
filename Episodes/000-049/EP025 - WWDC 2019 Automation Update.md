@@ -1139,10 +1139,10 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 54:32      | on the same thing.                                                                                    |
 | 54:33      | Well, I mean, there's a lot of features that don't work unless you're on the beta on everything       |
 | 54:37      | or you have to disconnect devices.                                                                    |
-| 54:39      | So the new Reminders features, we haven't talked about Reminders at all.                              |
+| 54:39      | So the new [[Apple Reminders\|Reminders]] features, we haven't talked about [[Apple Reminders\|Reminders]] at all.                              |
 | 54:42      | It's more of a Mac Perry uses topic than an Automator's topic, but there's some amazing               |
-| 54:46      | new features in Reminders, but when I opened Reminders, it was like, hey, you have seven              |
-| 54:51      | devices connected that do not support this version of Reminders.                                      |
+| 54:46      | new features in [[Apple Reminders\|Reminders]], but when I opened [[Apple Reminders\|Reminders]], it was like, hey, you have seven              |
+| 54:51      | devices connected that do not support this version of [[Apple Reminders\|Reminders]].                                      |
 | 54:55      | Just push this button and let me convert your database so it doesn't work anywhere else.              |
 | 54:58      | Yeah, which I did not click the button.                                                               |
 | 55:01      | I did not click that button.                                                                          |

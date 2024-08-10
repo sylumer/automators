@@ -268,7 +268,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 14:24      | has any interest in it.                                                                               |
 | 14:26      | There's this emerging thing going on with Apple and Steve and I have been talking about               |
 | 14:30      | a lot of Mac power users where it seems like Apple decided a couple of years ago that they'd          |
-| 14:35      | make their productivity apps good and like you look at the emergence of reminders and                 |
+| 14:35      | make their productivity apps good and like you look at the emergence of [[Apple Reminders\|Reminders]] and                 |
 | 14:43      | notes and now they've got a mind capture idea with free form and I don't know what else               |
 | 14:51      | is out there coming down the road, but the productivity apps are actually getting really              |
 | 14:55      | good but they're not getting best in class, right?                                                    |
@@ -280,17 +280,17 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 15:22      | Yes, I agree.                                                                                         |
 | 15:23      | I think what they're doing is when they're making their productivity apps better, they                |
 | 15:27      | are reducing the need for people to go from, okay, right, I need something that's not                 |
-| 15:33      | just a list if we're using reminders as the example, I need something more and then landing           |
+| 15:33      | just a list if we're using [[Apple Reminders\|Reminders]] as the example, I need something more and then landing           |
 | 15:37      | in the app store and going, oh my God, there's like a bazillion things here and they buy              |
 | 15:42      | something and then they feel like they have to use it because they paid money for it but              |
 | 15:46      | they don't really like it and so on.                                                                  |
 | 15:47      | They are making it better so that the point where you need to go and find something better            |
 | 15:52      | is higher.                                                                                            |
 | 15:56      | And so that's of course a great goal.                                                                 |
-| 16:00      | My mom was asking me the other day, I want to be able to use more than one list in reminders.         |
+| 16:00      | My mom was asking me the other day, I want to be able to use more than one list in [[Apple Reminders\|Reminders]].         |
 | 16:06      | How do I do that?                                                                                     |
 | 16:07      | And I was like, okay, you just add a second list.                                                     |
-| 16:09      | You actually already have multiple lists in reminders as you just didn't realise it.                  |
+| 16:09      | You actually already have multiple lists in [[Apple Reminders\|Reminders]] as you just didn't realise it.                  |
 | 16:14      | And she actually wanted tags, it turned out.                                                          |
 | 16:17      | And I showed her how to make smart lists and so on and she was like, oh, this is really               |
 | 16:20      | useful, can I have a smart list of things that are tagged with this location?                         |
@@ -299,7 +299,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 16:29      | with that location, which is just genius.                                                             |
 | 16:31      | I love it.                                                                                            |
 | 16:33      | But it is one of those things where it is just, yeah, spotlight is good but it's not                  |
-| 16:40      | yet gone through the reminders and notes transformation levels.                                       |
+| 16:40      | yet gone through the [[Apple Reminders\|Reminders]] and notes transformation levels.                                       |
 | 16:44      | And maybe it will.                                                                                    |
 | 16:45      | Maybe it will.                                                                                        |
 | 16:46      | It's certainly getting there.                                                                         |
@@ -320,7 +320,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 17:44      | But yeah, just one of those things where it's something that actually feels slow is not               |
 | 17:49      | great.                                                                                                |
 | 17:50      | Yeah.                                                                                                 |
-| 17:51      | I mean, it's like if OmniFocus is a 10 of task managers, Reminders is a six, maybe even               |
+| 17:51      | I mean, it's like if OmniFocus is a 10 of task managers, [[Apple Reminders\|Reminders]] is a six, maybe even               |
 | 17:56      | a seven.                                                                                              |
 | 17:57      | It's really good.                                                                                     |
 | 17:59      | And where if [[Alfred]] is a 10 of launchers, spotlight, I think is a three or a four.                    |

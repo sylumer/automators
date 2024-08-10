@@ -684,7 +684,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 43:23      | because it's you know that was one of the big promises at w w c and I feel like it still has            |
 | 43:27      | not delivered yeah the one where I always have travel is the when I do the I'm home routine             |
 | 43:34      | because I've just got home from work and I wanted to stop my my commuting timer I wanted to turn on     |
-| 43:39      | the lights um and I wanted to um usually remind me to do something i I do use reminders for just a      |
+| 43:39      | the lights um and I wanted to um usually remind me to do something i I do use [[Apple Reminders\|Reminders]] for just a      |
 | 43:46      | few things just to have it like tell me and uh it doesn't work then because it hasn't my iPhone         |
 | 43:52      | hasn't yet connected to the wi-fi or the HomePod hasn't yet recognised that the iPhone is              |
 | 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my apple watch now which        |

@@ -320,7 +320,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 17:20      | of the things I was thinking about doing ultimately, I didn't do it, but I did some tests with       |
 | 17:25      | it is I have a task list related to each podcast episode.                                            |
 | 17:30      | And you know, I've got ways to script that an OmniFocus or or or [[Obsidian]] or wherever                |
-| 17:34      | you want to put or Apple reminders, there's a lot of ways you can do that.                           |
+| 17:34      | you want to put or [[Apple Reminders]], there's a lot of ways you can do that.                           |
 | 17:38      | But like for every show, I need to work on the outline, I need to get the ads recorded.              |
 | 17:42      | If it's mine to publish, I need to get a published.                                                  |
 | 17:44      | So I have a generated task list per show.                                                            |

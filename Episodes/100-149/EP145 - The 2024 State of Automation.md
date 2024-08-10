@@ -730,7 +730,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 40:45      | The mail team, just as I mentioned before, kind of seems to be on a holiday and not quite               |
 | 40:48      | sure what's happening there.                                                                            |
 | 40:50      | Calendar team don't necessarily do the same things either.                                              |
-| 40:53      | And reminders works great, notes works great and so on.                                                 |
+| 40:53      | And [[Apple Reminders\|Reminders]] works great, notes works great and so on.                                                 |
 | 40:57      | But not everything is everywhere and that is the biggest frustration.                                   |
 | 41:03      | I get that my iPhone can vibrate and I get that my watch can vibrate, but my iPad and                   |
 | 41:07      | my Mac can't vibrate.                                                                                   |

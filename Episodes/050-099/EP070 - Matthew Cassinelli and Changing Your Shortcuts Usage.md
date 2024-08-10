@@ -596,7 +596,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 51:10      | dictionary where I found one of the things that always happens with tweets is when you share them                                |
 | 51:16      | somewhere it will just say um the metadata is just like tweet and it doesn't have the body of what                               |
 | 51:23      | they said and so if you put it into [[Instapaper]] it's almost useless because there's just a URL                                    |
-| 51:28      | and doesn't show anything if you put it into reminders I feel like it'll often it'll put it                                      |
+| 51:28      | and doesn't show anything if you put it into [[Apple Reminders\|Reminders]] I feel like it'll often it'll put it                                      |
 | 51:33      | in that little card but I still want to have I'm I mean you I don't need to like preach to you all                               |
 | 51:39      | that you want to extract the tweet text and then the URL of the person so I have one that                                        |
 | 51:43      | that uses I think it's publish.twitter.com has an endpoint where you can send your tweet and then                                |

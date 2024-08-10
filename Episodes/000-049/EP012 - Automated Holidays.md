@@ -622,9 +622,9 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 29:58      | But for me, the key with the Christmas gift list is the fact that we need to share it.               |
 | 30:05      | Daisy and I do the shopping together and sometimes apart.                                            |
 | 30:10      | So what we do is every year, at some point in November, we sit down and say, okay, what              |
-| 30:14      | are we going to get for these people, and we have a shared reminders list.                           |
+| 30:14      | are we going to get for these people, and we have a shared [[Apple Reminders\|Reminders]] list.                           |
 | 30:18      | And I know there's a bunch of apps that are way better at this, but because my wife is               |
-| 30:23      | not so much of a geek and she's comfortable using reminders, and I know that she'll open             |
+| 30:23      | not so much of a geek and she's comfortable using [[Apple Reminders\|Reminders]], and I know that she'll open             |
 | 30:28      | it and look at it, that's the method I chose.                                                        |
 | 30:32      | And so we have a shared list and we have a syntax for it, although I never say that                  |
 | 30:36      | word syntax to her.                                                                                  |

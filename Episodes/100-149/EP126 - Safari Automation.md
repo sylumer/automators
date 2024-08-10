@@ -74,7 +74,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 00:15      | We are both doing a lot of travel lately, so you are recovering from a trip.                       |
 | 00:19      | I'm getting ready to leave on a trip, but we always make time for automation.                      |
 | 00:24      | In fact, I feel like we've done shows on travel automation before, but I do find it's so helpful   |
-| 00:29      | just this morning, I ran my little shortcut that generates my reminders list, my packing           |
+| 00:29      | just this morning, I ran my little shortcut that generates my [[Apple Reminders\|Reminders]] list, my packing           |
 | 00:35      | list.                                                                                              |
 | 00:36      | I love that thing so much.                                                                         |
 | 00:38      | If you go back and listen to the episode, the way I set mine up, it's got a little separate        |
@@ -1252,7 +1252,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:14:25   | Yes.                                                                                               |
 | 01:14:26   | I think it's just one of those things where mail on iOS and Mac are clearly different              |
 | 01:14:32   | apps.                                                                                              |
-| 01:14:33   | [[Safari]] on iOS and Mac are clearly different apps, whereas reminders and notes and so on,           |
+| 01:14:33   | [[Safari]] on iOS and Mac are clearly different apps, whereas [[Apple Reminders\|Reminders]] and notes and so on,           |
 | 01:14:39   | they seem to have consolidated everything and brought that all together.                           |
 | 01:14:43   | We're not there yet with mail and [[Safari]], and that's not a complaint for the mail team             |
 | 01:14:48   | or the [[Safari]] team, or if you want those to stay separate, then I'm not saying that they           |
@@ -1363,7 +1363,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:21:49   | Yeah, honestly, I think the way I kind of do it now that we're talking about, I have               |
 | 01:21:54   | a tab group called banking and in it, I've got the various web pages, which I usually              |
 | 01:22:00   | have to re-log into every time I go to the tab group anyway.                                       |
-| 01:22:04   | And then there's also automation you could do with reminders or OmniFocus to remind yourself       |
+| 01:22:04   | And then there's also automation you could do with [[Apple Reminders\|Reminders]] or OmniFocus to remind yourself       |
 | 01:22:08   | to do it.                                                                                          |
 | 01:22:09   | But I actually was relieved to hear, Rose, that you don't do this either because I felt            |
 | 01:22:14   | like I was letting people down.                                                                    |

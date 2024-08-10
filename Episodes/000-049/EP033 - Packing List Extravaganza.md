@@ -212,7 +212,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 08:12      | that I know I need to pack so I need to have multiple packing lists available in advance,                                                                        |
 | 08:16      | which perhaps is not a problem that other people have.                                                                                                           |
 | 08:19      | For me, the way I started packing lists is it's not automation really.                                                                                           |
-| 08:26      | What I did was I took a Reminders list and I just, actually, let me just go back a little                                                                        |
+| 08:26      | What I did was I took a [[Apple Reminders\|Reminders]] list and I just, actually, let me just go back a little                                                                        |
 | 08:32      | bit beyond that, I had a text list for the longest time that I just would look at the                                                                            |
 | 08:37      | text list and I would reuse that text list.                                                                                                                      |
 | 08:41      | Back in the days that I was using, I don't remember which app it was, it was one of the                                                                          |
@@ -225,7 +225,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 09:15      | That worked fine, but I wanted something where I could actually check off items as opposed                                                                       |
 | 09:21      | to just having a text list.                                                                                                                                      |
 | 09:22      | Also, we did some family trips and I wanted the ability to share it with my wife.                                                                                |
-| 09:27      | What I did then was take that master list and I just converted it to a reminders list                                                                            |
+| 09:27      | What I did then was take that master list and I just converted it to a [[Apple Reminders\|Reminders]] list                                                                            |
 | 09:33      | and it was called packing list.                                                                                                                                  |
 | 09:35      | The idea behind it was number one, I could share it with Daisy and the second thing is                                                                           |
 | 09:40      | it's just this massive list of items and anything I've ever needed is on this massive list of                                                                    |
@@ -253,7 +253,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 11:04      | You would have these lists and you check them off or uncheck them.                                                                                               |
 | 11:09      | You could automate it if you did an OmniFocus using shortcuts where you could add tasks,                                                                         |
 | 11:15      | you know, a predetermined set of items to a list, but what I was doing was this thing                                                                            |
-| 11:23      | eventually in reminders and what I would then do before a trip was I would go to the completed                                                                   |
+| 11:23      | eventually in [[Apple Reminders\|Reminders]] and what I would then do before a trip was I would go to the completed                                                                   |
 | 11:28      | items in this massive list of things and I would just read through and uncheck the things                                                                        |
 | 11:34      | I want to bring for this particular trip.                                                                                                                        |
 | 11:38      | This is not automation, but either way, it was the way I was doing it for a very long                                                                            |
@@ -350,21 +350,21 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 17:45      | iPad, I'm going to need the journal.                                                                                                                             |
 | 17:48      | That's four of these categories.                                                                                                                                 |
 | 17:50      | When you do that, then the shortcut uses a repeat item, where it goes through and it                                                                             |
-| 17:56      | takes each thing you selected, and it adds to reminders the individual array items for                                                                           |
+| 17:56      | takes each thing you selected, and it adds to [[Apple Reminders\|Reminders]] the individual array items for                                                                           |
 | 18:03      | each one of those items.                                                                                                                                         |
 | 18:04      | If you select basics, it's going to go through, and for each of the nine items I have under                                                                      |
-| 18:10      | six, it's going to create a separate entry for that in a reminders list.                                                                                         |
+| 18:10      | six, it's going to create a separate entry for that in a [[Apple Reminders\|Reminders]] list.                                                                                         |
 | 18:17      | Each one gets its own entry and reminders that basically types it for you, and it does                                                                           |
 | 18:22      | it for each category.                                                                                                                                            |
 | 18:24      | Out of the dictionary, you've got in a one of 12 categories, and in each one of those,                                                                           |
 | 18:30      | you have anywhere between two and 10 items in the array.                                                                                                         |
-| 18:34      | It's going to put all that stuff into your reminders list, so you're going to have a                                                                             |
-| 18:37      | customised reminders list created based on this dictionary.                                                                                                      |
+| 18:34      | It's going to put all that stuff into your [[Apple Reminders\|Reminders]] list, so you're going to have a                                                                             |
+| 18:37      | customised [[Apple Reminders\|Reminders]] list created based on this dictionary.                                                                                                      |
 | 18:43      | Makes sense so far?                                                                                                                                              |
 | 18:44      | Yep.                                                                                                                                                             |
 | 18:45      | I'm following you.                                                                                                                                               |
 | 18:46      | It's really not that difficult of a shortcut once you understand dictionaries, and then                                                                          |
-| 18:50      | the next thing it does is it just opens up reminders to that list.                                                                                               |
+| 18:50      | the next thing it does is it just opens up [[Apple Reminders\|Reminders]] to that list.                                                                                               |
 | 18:55      | Now, that's the basic one.                                                                                                                                       |
 | 18:57      | This is what you're going to be able to download in the show notes.                                                                                              |
 | 19:00      | Let me just talk about a few things I've considered doing with this.                                                                                             |
@@ -403,14 +403,14 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 21:16      | The other problem with this shortcut that I don't like is the shortcuts team did an                                                                              |
 | 21:23      | amazing job this year.                                                                                                                                           |
 | 21:24      | I am not going to fault them at all, because they did so much.                                                                                                   |
-| 21:28      | But the one thing they left out of reminders is create a new reminders list.                                                                                     |
+| 21:28      | But the one thing they left out of [[Apple Reminders\|Reminders]] is create a new reminders list.                                                                                     |
 | 21:33      | Well, I believe this is where my shortcut comes in, perhaps.                                                                                                     |
 | 21:39      | All right.                                                                                                                                                       |
 | 21:40      | Yeah.                                                                                                                                                            |
 | 21:41      | Okay.                                                                                                                                                            |
 | 21:42      | We'll talk about that.                                                                                                                                           |
 | 21:43      | Okay.                                                                                                                                                            |
-| 21:44      | The way I currently have it set up, you have to have an existing reminders list called                                                                           |
+| 21:44      | The way I currently have it set up, you have to have an existing [[Apple Reminders\|Reminders]] list called                                                                           |
 | 21:47      | packing list, or there's nowhere to put these tasks.                                                                                                             |
 | 21:51      | Yeah.                                                                                                                                                            |
 | 21:52      | And that's something that I struggled with.                                                                                                                      |
@@ -422,7 +422,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 22:16      | And so that's the sort of thing where you can't leave planning your packing list until                                                                           |
 | 22:21      | right before you go, because otherwise, guess what, you won't have the laundry done.                                                                             |
 | 22:26      | And for that end, I needed, and this wasn't possible until iOS 13, I believe, the ability                                                                        |
-| 22:33      | to have multiple reminders lists.                                                                                                                                |
+| 22:33      | to have multiple [[Apple Reminders\|Reminders]] lists.                                                                                                                                |
 | 22:34      | So I had to create them manually before, but now, thanks to Scriptable, I don't need to                                                                          |
 | 22:40      | create them manually.                                                                                                                                            |
 | 22:42      | And I have a two-line script.                                                                                                                                    |
@@ -432,7 +432,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 22:51      | Basically, I'm going to tell you what it does.                                                                                                                   |
 | 22:55      | So my shortcut offers me the list of different possible trips that I'm working on.                                                                               |
 | 23:03      | And then it adds, we're packing this to the end and it passes this over to Scriptable.                                                                           |
-| 23:07      | And Scriptable simply goes, hey, reminders, have you got a reminders list with this name?                                                                        |
+| 23:07      | And Scriptable simply goes, hey, [[Apple Reminders\|Reminders]], have you got a reminders list with this name?                                                                        |
 | 23:11      | Yeah?                                                                                                                                                            |
 | 23:12      | Great.                                                                                                                                                           |
 | 23:13      | All good.                                                                                                                                                        |
@@ -457,14 +457,14 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 24:11      | Though mine does not open the packing list afterwards, which is probably an enhancement                                                                          |
 | 24:16      | that I really ought to add, but Scriptable saved my bacon there.                                                                                                 |
 | 24:22      | Yeah.                                                                                                                                                            |
-| 24:23      | That's just a simple one step command open this list in reminders.                                                                                               |
+| 24:23      | That's just a simple one step command open this list in [[Apple Reminders\|Reminders]].                                                                                               |
 | 24:27      | But I figure once you run the script, you're going to want to take a look at it.                                                                                 |
 | 24:31      | Probably.                                                                                                                                                        |
 | 24:32      | I mean, it depends on what you're doing because I have a follow up script to this one, which                                                                     |
 | 24:38      | is called packing list extras.                                                                                                                                   |
 | 24:41      | And it asks me what else I need to pack.                                                                                                                         |
 | 24:44      | And then it asks me which trip it's for.                                                                                                                         |
-| 24:45      | And then it adds all of those two reminders as well to that reminders list because explain                                                                       |
+| 24:45      | And then it adds all of those to [[Apple Reminders\|Reminders]] as well to that [[Apple Reminders\|Reminders]] list because explain                                                                       |
 | 24:51      | that to me.                                                                                                                                                      |
 | 24:52      | So it's a, it's a shortcut.                                                                                                                                      |
 | 24:54      | Yeah.                                                                                                                                                            |
@@ -497,7 +497,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 26:11      | If I make those changes, then I don't need to run a shortcut for that.                                                                                           |
 | 26:14      | But yeah, it makes sense.                                                                                                                                        |
 | 26:16      | I do like this Scriptable move because, you know, you can't create a shortcut.                                                                                   |
-| 26:20      | I mean, you can't create a reminders list, but you certainly can script that.                                                                                    |
+| 26:20      | I mean, you can't create a [[Apple Reminders\|Reminders]] list, but you certainly can script that.                                                                                    |
 | 26:23      | Yes.                                                                                                                                                             |
 | 26:24      | And I'm sure it's possible.                                                                                                                                      |
 | 26:25      | And I'm pretty sure it's on the, the shortcuts team radar that they want, they want to integrate                                                                 |
@@ -518,9 +518,9 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 27:05      | It's a built-in function in, in Scriptable.                                                                                                                      |
 | 27:07      | I'm not going, Hey, calendar, do you have, because it technically reminders are a calendar                                                                       |
 | 27:12      | with the type of reminder.                                                                                                                                       |
-| 27:14      | It's a little bit weird unless you, you understand the history of how reminders came to be because                                                               |
+| 27:14      | It's a little bit weird unless you, you understand the history of how [[Apple Reminders\|Reminders]] came to be because                                                               |
 | 27:19      | originally they were originally part of a calendar, but it just talks to the calendar                                                                            |
-| 27:23      | and it's the, the action, the function is called find or create for reminders.                                                                                   |
+| 27:23      | and it's the, the action, the function is called find or create for [[Apple Reminders\|Reminders]].                                                                                   |
 | 27:28      | Yeah.                                                                                                                                                            |
 | 27:29      | So it's fairly clear what it does there.                                                                                                                         |
 | 27:31      | And then just to speed up scripts, this was something that popped up in the forum recently.                                                                      |
@@ -564,7 +564,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 29:45      | within that optional selection to your text list.                                                                                                                |
 | 29:49      | And then you could just go through and, you know, basically paste in or you trigger the                                                                          |
 | 29:55      | snippet and whatever text editor of your choice, Apple notes to whatever.                                                                                        |
-| 30:01      | And then I didn't think about trying to reminders, but I don't think it would work.                                                                              |
+| 30:01      | And then I didn't think about trying to [[Apple Reminders\|Reminders]], but I don't think it would work.                                                                              |
 | 30:06      | I'll test that out before we publish.                                                                                                                            |
 | 30:08      | But the other way, so you would just trigger the TextExpander snippet.                                                                                          |
 | 30:12      | Mine is just packing lists with no space.                                                                                                                        |
@@ -716,9 +716,9 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 38:58      | but it will be done by Friday when this show releases.                                                                                                           |
 | 39:02      | So that explains why all my lists are empty.                                                                                                                     |
 | 39:06      | Yeah, let's pretend that that's the case.                                                                                                                        |
-| 39:12      | So what I realised is that I don't necessarily need things in reminders.                                                                                         |
-| 39:19      | I'm not really a huge fan of reminders.                                                                                                                          |
-| 39:22      | Even with the great upgrades it's got with iOS 13, anybody on the reminders team who's                                                                           |
+| 39:12      | So what I realised is that I don't necessarily need things in [[Apple Reminders\|Reminders]].                                                                                         |
+| 39:19      | I'm not really a huge fan of [[Apple Reminders\|Reminders]].                                                                                                                          |
+| 39:22      | Even with the great upgrades it's got with iOS 13, anybody on the [[Apple Reminders\|Reminders]] team who's                                                                           |
 | 39:26      | listening should not feel insulted by this, I'm just very, very persnickety about my                                                                             |
 | 39:30      | workflows.                                                                                                                                                       |
 | 39:31      | But I really love [[Drafts]].                                                                                                                                        |
@@ -929,11 +929,11 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 51:42      | her, and if it was a trip I was taking her business, I wouldn't.                                                                                                 |
 | 51:46      | So I had a little bit of a manual process involved with that.                                                                                                    |
 | 51:50      | Now I don't have to do that anymore, so I can have the script auto generate the name.                                                                            |
-| 51:54      | I still would have to go manually share it, but I like doing it in Reminders just because                                                                        |
+| 51:54      | I still would have to go manually share it, but I like doing it in [[Apple Reminders\|Reminders]] just because                                                                        |
 | 51:59      | that sharing function when I need it is great, and even when I don't need to share it, it                                                                        |
-| 52:03      | is a simple list that you check off, and Reminders is a lot better than it used to be.                                                                           |
+| 52:03      | is a simple list that you check off, and [[Apple Reminders\|Reminders]] is a lot better than it used to be.                                                                           |
 | 52:08      | For people who are not looking for super power in their task list, they just need basic functionality.                                                           |
-| 52:14      | I think Reminders is going to be a good solution going forward.                                                                                                  |
+| 52:14      | I think [[Apple Reminders\|Reminders]] is going to be a good solution going forward.                                                                                                  |
 | 52:18      | I believe it is, especially with those nested tasks, that's really good.                                                                                         |
 | 52:22      | And hopefully shortcuts will get access to this sort of thing in the not too distant                                                                             |
 | 52:26      | future.                                                                                                                                                          |

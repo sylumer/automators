@@ -673,7 +673,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 56:09      | think they need to make adjustments on. But those are just what's available on beta one.                  |
 | 56:13      | As I understand it, third party developers will be able to get in on this too. So that's                  |
 | 56:17      | going to be really nice. And like, if you like OmniFocus, you'll have your OmniFocus                    |
-| 56:22      | tasks show up as opposed to reminders or whatever. Or you're running timer timer. I just really like      |
+| 56:22      | tasks show up as opposed to [[Apple Reminders\|Reminders]] or whatever. Or you're running timer timer. I just really like      |
 | 56:29      | what they've done with that. And it was a thing that I didn't expect, but it is delightful.               |
 | 56:33      | Now I want to switch back also to the vision pro because you were talking about it.                       |
 | 56:38      | My theory on the vision pro is that it is, you know, the big question is what's it for? I feel            |
@@ -905,7 +905,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:17:15   | And I feel like, you know, the way that everything in the system is making its way                        |
 | 01:17:20   | into shortcuts and shortcuts is making its way into everything in the system and enabling                 |
 | 01:17:23   | things like better widgets, because who doesn't want an interactive widget where you can like             |
-| 01:17:28   | check off an item at the moment and reminders, I'm hoping OmniFocus will be able to update to do          |
+| 01:17:28   | check off an item at the moment and [[Apple Reminders\|Reminders]], I'm hoping OmniFocus will be able to update to do          |
 | 01:17:32   | this as well. So you can check something off without having to open the app. That's amazing.              |
 | 01:17:38   | I love it. So I'm really excited that it's doing this and it's getting all of these updates and so        |
 | 01:17:45   | on. And I'm really pleased that they are happy to let users do things that could be dangerous.            |

@@ -592,7 +592,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 28:50      | shame because I would love it to come and go into my OmniFocus and get a list of things                  |
 | 28:55      | that I wanted to talk to you about and just pop it up as a little, you know, show result                 |
 | 28:59      | for me and say, Hey, you wanted to talk to David about these things because I know you                   |
-| 29:03      | can do that in reminders where you can assign a specific, you know, like reminder to remind              |
+| 29:03      | can do that in [[Apple Reminders\|Reminders]] where you can assign a specific, you know, like reminder to remind              |
 | 29:07      | me when messaging this person, but it's not the same.                                                    |
 | 29:11      | I want, I want all my stuff in one place.                                                                |
 | 29:13      | Yeah.                                                                                                    |

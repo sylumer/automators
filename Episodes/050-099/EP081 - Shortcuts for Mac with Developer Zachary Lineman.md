@@ -176,7 +176,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 06:00      | Do you have a couple of examples maybe?                                                              |
 | 06:04      | Most frequently, I don't use it as much right now because I'm on spring or summer break,             |
 | 06:08      | but I have a shortcut that pulls my school's assignments thing.                                      |
-| 06:14      | So where they store all of our assignments and I can pull it into just reminders on                  |
+| 06:14      | So where they store all of our assignments and I can pull it into just [[Apple Reminders\|Reminders]] on                  |
 | 06:17      | my phone.                                                                                            |
 | 06:18      | Yeah.                                                                                                |
 | 06:19      | So that was really useful, especially for virtual learning where I couldn't keep track               |

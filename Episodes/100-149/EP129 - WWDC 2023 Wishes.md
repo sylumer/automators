@@ -177,11 +177,11 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 08:05      | Well, I guess if you have to go to the hospital regularly for tests, but there's also a stethoscope.  |
 | 08:09      | It feels like there's a lot of duplication here and somebody just went through and thought            |
 | 08:16      | up a list quickly of symbols and if I'm not wrong, it's actually the same icon list that's            |
-| 08:21      | available in reminders for you to create like smart lists where you've got those options.             |
+| 08:21      | available in [[Apple Reminders\|Reminders]] for you to create like smart lists where you've got those options.             |
 | 08:30      | So it does look very, very similar actually.                                                          |
-| 08:32      | I think that the reminders list has expanded a bit more.                                              |
+| 08:32      | I think that the [[Apple Reminders\|Reminders]] list has expanded a bit more.                                              |
 | 08:36      | So yeah, maybe there should just be parity because the symbols available and colours available         |
-| 08:40      | in shortcuts, reminders, and focus modes don't actually line up.                                      |
+| 08:40      | in shortcuts, [[Apple Reminders\|Reminders]], and focus modes don't actually line up.                                      |
 | 08:45      | So just give us more in all the places, please.                                                       |
 | 08:47      | Yeah, I mean, that really is a great point, Rose, because I feel like one of the way you              |
 | 08:53      | get users to adopt the feature is to allow them to make it more their own and colours                  |
@@ -358,7 +358,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 20:17      | I agreed with all of that, but I would say that I feel like mail is ripe.                             |
 | 20:24      | And this is a year where we're going to find out if last year was a fluke or if last year             |
 | 20:27      | was the beginning of a trend because some of the Apple productivity apps and notes and                |
-| 20:32      | reminders in particular got better and then kept getting better and some get like one                 |
+| 20:32      | [[Apple Reminders\|Reminders]] in particular got better and then kept getting better and some get like one                 |
 | 20:38      | year of support and then they kind of go back into the wilderness.                                    |
 | 20:41      | And I don't know what that will be this year, but if they were going to improve mail, they            |
 | 20:45      | should definitely work on the automation elements of it and even some of the things like deferred     |
@@ -521,7 +521,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 31:13      | this are going to be a little bit more advanced, I don't know.                                        |
 | 31:17      | But I do feel like if they want the automation platform to expand, then having third party            |
 | 31:25      | triggers is going to help that.                                                                       |
-| 31:27      | And when you look at some of the stuff you can do in reminders with automation versus                 |
+| 31:27      | And when you look at some of the stuff you can do in [[Apple Reminders\|Reminders]] with automation versus                 |
 | 31:32      | what you can do in OmniFocus, it's solely because one is made by the platform vendor                  |
 | 31:37      | and one is not.                                                                                       |
 | 31:38      | And I'd like to get to see it a little bit more of an even playing field.                             |

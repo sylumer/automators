@@ -23,7 +23,7 @@ Moving to a freemium-subscription model, it now offers [a range of functionality
 - Travel Time feature for calculating commute times
 - Weather forecasts for event locations
 - Multiple calendar support
-- [[Reminders]] integration
+- [[Apple Reminders|Reminders]] integration
 
 
 # Notes

@@ -612,9 +612,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 35:11      | was a free, we got that one from listeners saying, well, how do I create a folder and                     |
 | 35:16      | notes? Well, you go in notes and you push the plus button. There was not an automation                    |
 | 35:20      | way to do that, but now there is. So that's really cool. I'm really happy to see notes                    |
-| 35:25      | get it. And like the parallel to that was reminders, you know, reminders got a nice                       |
+| 35:25      | get it. And like the parallel to that was [[Apple Reminders\|Reminders]], you know, [[Apple Reminders\|Reminders]] got a nice                       |
 | 35:29      | update a few years ago, but it seemed like the shortcut support was lagging behind it.                    |
-| 35:33      | But now we can create a list, we can open reminders, smart lists, we can search reminders.                |
+| 35:33      | But now we can create a list, we can open [[Apple Reminders\|Reminders]], smart lists, we can search [[Apple Reminders\|Reminders]].                |
 | 35:39      | Basic stuff that I always thought should have been there, but wasn't there until now.                     |
 | 35:43      | Yes. Yeah. And I think that like that's one of the things where the shortcuts team has                    |
 | 35:48      | had a bit of a chance to sort of fill in the gaps, you know, they've been building a really               |
@@ -1189,7 +1189,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:22:38   | while other new features get added because, you know, every so often they, they sneak some bonus          |
 | 01:22:43   | surprises in during the beta rounds. So maybe we'll see some of those. Even if we don't, I'm happy.       |
 | 01:22:49   | It's interesting to me, like, it's just an intellectual exercise is like, are these actions               |
-| 01:22:54   | getting added by the teams? Like, is there somebody on the reminders team that loves                      |
+| 01:22:54   | getting added by the teams? Like, is there somebody on the [[Apple Reminders\|Reminders]] team that loves                      |
 | 01:22:57   | shortcuts and is making sure these actions get added? Or is it someone on the shortcuts                   |
 | 01:23:04   | team? Like in my head, there's like a, a shortcuts loan ranger. And just, just hang                       |
 | 01:23:10   | him with me. Like he's, he or she has like a cowboy hat and like a segue that's painted                   |

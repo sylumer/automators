@@ -293,7 +293,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 14:52      | times based on various triggers, and then that you can take actions from those notifications.           |
 | 14:57      | So you can have a default action and then other optional actions.                                       |
 | 15:00      | So for example, 20 minutes after I get home, give me a notification that when I tap on it,              |
-| 15:07      | we'll just open reminders.                                                                              |
+| 15:07      | we'll just open [[Apple Reminders\|Reminders]].                                                                              |
 | 15:10      | You know, that's a simple one to get started with.                                                      |
 | 15:13      | Or you know, when my phone sees this iBeacon, we talked about the [[iBeacons]] when [[Simon Leeb\|Simon]] came              |
 | 15:18      | on the show, their little Bluetooth transmission devices, which basically go, hey, I'm a little         |
@@ -1241,7 +1241,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 01:13:23   | It helps us keep the lights on here.                                                                    |
 | 01:13:25   | We are the Automators podcast.                                                                          |
 | 01:13:27   | Like I said, today on Automators Max, we're going to be talking about something I've been               |
-| 01:13:31   | dealing with lately is task automation and comparing OmniFocus and the Apple Reminders                  |
+| 01:13:31   | dealing with lately is task automation and comparing OmniFocus and the [[Apple Reminders]]                  |
 | 01:13:36   | app.                                                                                                    |
 | 01:13:37   | I've been on a little journey.                                                                          |
 | 01:13:38   | I want to talk about it.                                                                                |

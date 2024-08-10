@@ -513,7 +513,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 31:15      | a bit of guidance, right?                                                                                        |
 | 31:17      | [[Apple Notes]] has a ton of little atomic actions like find note, open note, you know, create                       |
 | 31:25      | note, the very simple things, but, and I feel like this is one that Apple has actually                           |
-| 31:30      | paid attention to as opposed to reminders, which is I think kind of behind.                                      |
+| 31:30      | paid attention to as opposed to [[Apple Reminders\|Reminders]], which is I think kind of behind.                                      |
 | 31:35      | But you see the shortcut support there and it's these small actions.                                             |
 | 31:40      | And it makes me wonder, I mean, now this is pure speculation territory.                                          |
 | 31:44      | We've all heard rumours that Apple is pursuing AI somehow in relation to [[Shortcuts]], maybe                         |

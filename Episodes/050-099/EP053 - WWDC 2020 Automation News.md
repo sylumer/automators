@@ -252,7 +252,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 15:07      | or somebody emails me, then I would have it prompt me to open the relevant [[OmniFocus]] project.                                                         |
 | 15:14      | So I can check off tasks and check what's outstanding there. And that's just the first                                                                    |
 | 15:19      | thing that I thought of, like, you know, it would integrate with [[OmniFocus]]. Because if                                                                |
-| 15:23      | you use reminders, you can actually have reminders prompt you, this is an iOS 13, when you're                                                             |
+| 15:23      | you use [[Apple Reminders\|Reminders]], you can actually have [[Apple Reminders\|Reminders]] prompt you, this is an iOS 13, when you're                                                             |
 | 15:27      | messaging with somebody to ask them about something.                                                                                                      |
 | 15:31      | But it doesn't work with email yet. But [[Shortcuts]] is so much better. So the only thing is, email                                                      |
 | 15:39      | a message, unfortunately, will prompt you, would you like to run your shortcut? But we'll                                                                 |
