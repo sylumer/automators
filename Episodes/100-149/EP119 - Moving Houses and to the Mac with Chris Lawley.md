@@ -1801,7 +1801,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:39:03   | out more about that.                                                                                      |
 | 01:39:05   | And uh, yeah.                                                                                             |
 | 01:39:06   | Also Chris, there's some places that folks can follow you online if they're not able                      |
-| 01:39:09   | to hang around for automakers max.                                                                        |
+| 01:39:09   | to hang around for Automators max.                                                                        |
 | 01:39:11   | Yeah, um, the, the easiest way to find me is you can go to the untitled.site.                             |
 | 01:39:16   | Uh, it has two tabs there.                                                                                |
 | 01:39:19   | One is projects.                                                                                          |

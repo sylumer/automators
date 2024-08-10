@@ -650,7 +650,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:24      | Yes.                                                                                                 |
 | 48:25      | Get to work.                                                                                         |
 | 48:26      | Get to work.                                                                                         |
-| 48:27      | I have to admit, when we did our Meetup, our automakers meet up last year at [[WWDC]] and                 |
+| 48:27      | I have to admit, when we did our Meetup, our Automators meet up last year at [[WWDC]] and                 |
 | 48:32      | the Shortcuts team, basically all of them showed up.                                                 |
 | 48:35      | It was very intimidating to me to think, oh, these guys are listening to our show.                   |
 | 48:40      | Yeah.                                                                                                |

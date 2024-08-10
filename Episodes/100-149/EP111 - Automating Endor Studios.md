@@ -1014,7 +1014,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 58:46      | I definitely want to play with that and just kind of see where that goes.                                 |
 | 58:49      | All right.                                                                                                |
 | 58:50      | So let's take a quick break and I want to talk about curtains.                                            |
-| 58:56      | This episode of the automakers is brought to you by trade coffee.                                         |
+| 58:56      | This episode of the Automators is brought to you by trade coffee.                                         |
 | 58:59      | Every day is precious and we should all make the most of everyone.                                        |
 | 59:03      | They shouldn't start with mediocre grocery store coffee.                                                  |
 | 59:06      | You deserve to start your day with the best coffee you can make at home from trade coffee.                |

@@ -800,7 +800,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 49:17      | And I hope that's true.                                                                                 |
 | 49:18      | Oh yeah, definitely.                                                                                    |
 | 49:20      | But then you get to the automation side of this.                                                        |
-| 49:22      | I mean, we're the automakers, right?                                                                    |
+| 49:22      | I mean, we're the Automators, right?                                                                    |
 | 49:24      | The automation of [[Apple Reminders\|Reminders]] kind of stinks.                                                             |
 | 49:27      | Like I've been playing with this feature, I'm trying to teach about it in the labs and                  |
 | 49:32      | like setting up a project in OmniFocus with automation is super easy.                                   |

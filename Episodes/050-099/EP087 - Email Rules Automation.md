@@ -259,7 +259,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 18:47      | Yes, they definitely can. And yeah, I mean, tags versus folders is a whole other debate,                   |
 | 18:54      | I think that we might need to dive into at some point in the future, David, but there                      |
 | 18:58      | are bonds just to both of them.                                                                            |
-| 19:02      | This episode of The Automakers is brought to you by Stripe. Learn more about how Stripe                    |
+| 19:02      | This episode of The Automators is brought to you by Stripe. Learn more about how Stripe                    |
 | 19:06      | and their products can support your business. Just head over to Stripe.com. Many leaders                   |
 | 19:12      | of adaptive businesses choose Stripe as their payment platform, because with Stripe, businesses            |
 | 19:17      | can easily optimise their payments infrastructure, simplify their expansion plans and create               |

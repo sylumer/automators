@@ -366,7 +366,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 31:38      | I'll, maybe I'll do a post on it or something, but the, it's not, it's not that hard to use it,         |
 | 31:45      | but it is a much better platform to get quick text and then send it there. But I want to wind           |
 | 31:51      | back a little bit. So the first one that you talked about was, it sounded like a text modification      |
-| 31:57      | script. You've got text and you're changing it. What, how is it, you know, because we're automakers,    |
+| 31:57      | script. You've got text and you're changing it. What, how is it, you know, because we're Automators,    |
 | 32:02      | we've got to know what, how are you doing that? What's the action doing? It finds all the stars         |
 | 32:09      | and brackets. It is essentially a find and replace. And, you know, how the, the one like                |
 | 32:18      | forever bug in markdown, where if you do a Wikipedia link, where anything is parenthesised,             |

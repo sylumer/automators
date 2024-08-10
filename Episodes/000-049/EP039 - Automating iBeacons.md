@@ -1246,7 +1246,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:08:25   | hits or something like that?                                                                          |
 | 01:08:28   | I haven't automated air table as much as I'd like to, but I'm looking very hard at you                |
 | 01:08:34   | air table and how you can help me even more.                                                          |
-| 01:08:38   | I have found with air table because, for example, I share a base with you for automakers and          |
+| 01:08:38   | I have found with air table because, for example, I share a base with you for Automators and          |
 | 01:08:42   | I share a base with Scotty, my co-host over at Nested Folders.                                        |
 | 01:08:46   | But if you share even one base, I think they're called, in air table with somebody else in            |
 | 01:08:56   | that group of bases, then you have to pay for all of those people.                                    |
@@ -1254,7 +1254,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:09:06   | different people, you would have to pay for seven people every month, but air table will              |
 | 01:09:10   | let you create as many groups of work spaces.                                                         |
 | 01:09:13   | That's what it's called, it's a workspace.                                                            |
-| 01:09:16   | And so I have a Nested Folders workspace and I have an automakers workspace.                          |
+| 01:09:16   | And so I have a Nested Folders workspace and I have an Automators workspace.                          |
 | 01:09:19   | And those are just in this case, the one base in each that's shared with you, but I have              |
 | 01:09:26   | all of my bases in another workspace, currently called my bases.                                      |
 | 01:09:31   | And that's the only one that I pay for the premium on because I was running into that                 |

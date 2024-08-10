@@ -925,7 +925,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:23:40   | things once and then you're good for it every single time.                                               |
 | 01:23:45   | Well, you know what, Jay Miller, we have been talking an hour and a half and we've got through           |
 | 01:23:50   | half the outline. Did we make it through 50%, David? Are you sure? I thought it was closer               |
-| 01:23:55   | to a third. I feel like Jay is going to be back on the automakers if we can convince him. So             |
+| 01:23:55   | to a third. I feel like Jay is going to be back on the Automators if we can convince him. So             |
 | 01:24:01   | we're going to have to do that. Absolutely. Okay. So Jay, important question,                            |
 | 01:24:05   | cookies or brownies? If we're bribing you to get you back, which do we need?                             |
 | 01:24:10   | Are we talking about the European cookies? Because those are just crackers, aren't they?                 |
@@ -935,7 +935,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:24:33   | It's biscuits that you're thinking of, which can be sweet or savory, depending. We also have             |
 | 01:24:38   | crackers. You guys are so wrong about that, honestly. I mean, they're cookies. They're cookies,          |
 | 01:24:43   | right? No, they're not. They're biscuits. And you have them in a cup of tea. Okay. So I'm bribing Jay.   |
-| 01:24:51   | I'm on board with jumpers. Bring back the local California automakers,                                   |
+| 01:24:51   | I'm on board with jumpers. Bring back the local California Automators,                                   |
 | 01:24:57   | meetups, and you've got me there. That's all you got to do. Okay. We only matched one of those           |
 | 01:25:02   | before and then there was a pandemic. But let's try that again next time if we can, David. I'm           |
 | 01:25:08   | up for visiting you and meeting your dog finally. Yeah. So we should do that. That's what we'll do.      |

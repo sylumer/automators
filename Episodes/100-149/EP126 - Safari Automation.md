@@ -261,7 +261,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 11:31      | Like I frequently, and we'll talk about later in the show, I have these setups that I run          |
 | 11:35      | through [[Keyboard Maestro]] and shortcuts where I'll open a bunch of tabs at once.                    |
 | 11:42      | And for instance, today, when we started recording the show, I ran an automation that opened       |
-| 11:47      | up everything, all the tabs I need in [[Safari]] to record a show of the automakers podcast.           |
+| 11:47      | up everything, all the tabs I need in [[Safari]] to record a show of the Automators podcast.           |
 | 11:53      | But occasionally that stuff breaks and it just happens.                                            |
 | 11:55      | But you've always got that backup of those bookmarks you can go to when that happens.              |
 | 12:00      | And you know, automation isn't perfect.                                                            |
@@ -1378,7 +1378,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:22:49   | That's fine.                                                                                       |
 | 01:22:50   | But yeah, maybe just leave logging into the human.                                                 |
 | 01:22:54   | You know, some things aren't worth automating, especially when it comes to financial security.     |
-| 01:22:58   | And the Automakers podcast never wants to be responsible for having the black helicopters          |
+| 01:22:58   | And the Automators podcast never wants to be responsible for having the black helicopters          |
 | 01:23:03   | land on your house.                                                                                |
 | 01:23:04   | So yeah, I mean, I would hope it wouldn't go as far as the black helicopters landing               |
 | 01:23:09   | on your house, but it certainly could be a case of, you know, like worst case scenario,            |

@@ -794,7 +794,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 43:09      | And then you tap on icon.                                                                            |
 | 43:10      | You can also say home screen and you can select photo or take a photo, which means that you          |
 | 43:15      | can, if you want to go super crazy and make custom artwork, or you can just take an existing         |
-| 43:21      | logo like the automakers logo and put that in there as well.                                         |
+| 43:21      | logo like the Automators logo and put that in there as well.                                         |
 | 43:25      | The names, all apps and folders have names they're required to on iOS, which is something            |
 | 43:32      | that I would, you know, I'm joining the course of people would say, I'd like to be able to           |
 | 43:35      | turn that off.                                                                                       |

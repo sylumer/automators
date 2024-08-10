@@ -687,7 +687,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 55:47      | There's a reason why we're podcast co hosts. All right. I have a few nuts to add to the pile. But        |
 | 55:53      | honestly, Rose, I think you win today with that whole dictionary thing at the top and the location       |
 | 55:58      | that's that's genius. I think we can say that we both have great ideas and we share them. So             |
-| 56:04      | everybody's a winner. Okay, we all win. This episode of the automakers is brought to you by              |
+| 56:04      | everybody's a winner. Okay, we all win. This episode of the Automators is brought to you by              |
 | 56:11      | ExpressVPN. High speed, secure and anonymous VPN services get three months for free with a one year      |
 | 56:18      | package. Just go to ExpressVPN.com/automators. You might have already heard how important it is    |
 | 56:25      | to have a VPN. And now that a lot of you are working from home, it's even more important to              |

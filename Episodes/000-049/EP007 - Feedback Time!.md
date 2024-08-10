@@ -851,7 +851,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 30:01      | Though they're not using iPhones, they're using androids,                                |
 | 30:03      | but it all counts, right?                                                                |
 | 30:05      | All right, well, we've got things are going great                                        |
-| 30:09      | with the automakers.                                                                     |
+| 30:09      | with the Automators.                                                                     |
 | 30:10      | We got a lot we're looking forward to.                                                   |
 | 30:11      | Anything else we need to talk about today?                                               |
 | 30:13      | I don't think so.                                                                        |

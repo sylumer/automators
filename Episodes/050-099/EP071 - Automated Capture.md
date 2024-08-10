@@ -86,7 +86,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 02:02      | it was kind of like confetti cannon, and these things were just flying across my kitchen.                |
 | 02:06      | So it's like, okay, I need a basket. So A, I need to buy a basket, but I need the dimensions             |
 | 02:11      | for this. And so I captured that. And there's all sorts of things that we need to capture.               |
-| 02:17      | So I was wondering, before we dive too deep into this, let's give our automakers listeners               |
+| 02:17      | So I was wondering, before we dive too deep into this, let's give our Automators listeners               |
 | 02:22      | a bit of a background. What kind of things do you capture?                                               |
 | 02:24      | Like you, everything. I mean, just like I was mentioning earlier, thoughts are an important              |
 | 02:29      | capture because my brain is always like cooking in the background on ideas. And if I don't               |

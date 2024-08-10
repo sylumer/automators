@@ -1211,20 +1211,20 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:16:39   | stealing this from you, though, sadly, not for comics. I might steal the comics too.                   |
 | 01:16:43   | It works for anything. Yeah.                                                                           |
 | 01:16:46   | Well, we're going to talk about how all of us consume digital media, like comics and books             |
-| 01:16:51   | in automakers max today. So let's put a pin in that. For now, Dan, I just want to thank you            |
+| 01:16:51   | in Automators max today. So let's put a pin in that. For now, Dan, I just want to thank you            |
 | 01:16:55   | for coming on gang. You can find Dan over D more in dot com. We didn't mention basically at all        |
 | 01:17:01   | today that Dan is an accomplished author. I mean, you got what now three books with a fourth on the    |
 | 01:17:06   | way, right, Dan? That's right. My fourth book, which is the Nova Incident, it comes out on July        |
 | 01:17:12   | 26th. So get your preorders in right now. Caledonian Gambit, Bayon Agenda, ALEF extraction.            |
 | 01:17:20   | They're good books, man. So go check it out. Support a fellow nerd and have a great ride               |
 | 01:17:26   | along the way. I recommend you do that. In fact, maybe you want to do it digitally,                    |
-| 01:17:30   | like we're going to talk about in automakers max today. Dan also writes over Six Colours.               |
+| 01:17:30   | like we're going to talk about in Automators max today. Dan also writes over Six Colours.               |
 | 01:17:34   | He's on the clockwise podcast, and you are a very common and frequent contributor over                 |
 | 01:17:40   | on the incomparable as well. Anything I missed, Dan? I also do a tech podcast called the Rebound       |
 | 01:17:46   | with John Moults and Lex Friedman, which is every week you can find it at reboundcast.com              |
 | 01:17:50   | or obviously in your podcast, listener of choice. All right. And we got links in the show notes        |
 | 01:17:55   | for all of that stuff as well as some of the shortcuts that Dan talked about today. So check           |
-| 01:17:59   | it out. Thanks again, Dan, for coming on. We are the automakers. You can find us on relayed on a       |
-| 01:18:03   | fan/automators. You can find our forums over at talk.automakers.fm. Thank you to our             |
+| 01:17:59   | it out. Thanks again, Dan, for coming on. We are the Automators. You can find us on relayed on a       |
+| 01:18:03   | fan/automators. You can find our forums over at talk.automators.fm. Thank you to our             |
 | 01:18:09   | sponsors today. That is our friends over at Electric, TextExpander, Hunter Douglas,                 |
 | 01:18:15   | and LinkedIn. And we'll see you next time. Bye, everyone.                                              |

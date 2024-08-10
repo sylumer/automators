@@ -1327,7 +1327,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:41:47   | the future. I just won't tell him it'll be a four hour show in advance.                               |
 | 01:41:50   | Actually, if we tell him it's about obsidian, I think he'd probably be down with it.                  |
 | 01:41:53   | You know, I mean, probably, probably, we'll have to ask him and see.                                  |
-| 01:41:57   | Okay, so that'll do it for today. We're the automakers podcast. You can find us at                    |
+| 01:41:57   | Okay, so that'll do it for today. We're the Automators podcast. You can find us at                    |
 | 01:42:00   | relay.fm/automators. This is episode 99, Rose. What are we going to do for episode 100?         |
 | 01:42:06   | I was thinking a big party like party like it's 1999, except it's currently episode 99,               |
 | 01:42:12   | so we've still got a few weeks. And of course, if anybody's got anything in particular,               |

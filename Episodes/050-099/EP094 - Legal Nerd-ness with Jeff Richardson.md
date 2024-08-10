@@ -88,7 +88,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 00:52      | Good thing you hung up your hat a few weeks ago, huh?                                                   |
 | 00:54      | Yeah, exactly. It made room for you to come in. But I want to just talk about Jeff for                  |
 | 01:00      | a minute before we get into the show today because we hear a lot from listeners of the                  |
-| 01:05      | show and I hear a lot from people saying, man, I love automakers, but it's just too                     |
+| 01:05      | show and I hear a lot from people saying, man, I love Automators, but it's just too                     |
 | 01:09      | much. I get lost or whatever. And I know sometimes we go super nerdy, but that's really not the         |
 | 01:15      | point of the show.                                                                                      |
 | 01:16      | To me, the point is, does this sound like an opening statement, Jeff? I'm not sure.                     |

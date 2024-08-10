@@ -1692,8 +1692,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:36:15   | Well, fingers crossed, everything gets straightened out recently, but I know the Shortcuts team         |
 | 01:36:17   | have been working hard, I can tell, so yeah, it seems to be paying off slowly, but surely,              |
 | 01:36:23   | and that is always a great sign.                                                                        |
-| 01:36:25   | Either way, we are the automakers, you can find us at relay.fm slash automakers.                        |
-| 01:36:29   | You can find the forums at talk.automakers.fm.                                                          |
+| 01:36:25   | Either way, we are the Automators, you can find us at relay.fm/automaters.                        |
+| 01:36:29   | You can find the forums at [talk.automators.fm](https://talk.automators.fm).                                                          |
 | 01:36:33   | We want to thank our sponsors today, Privacy, TextExpander, and Stripe, and we'll see you               |
 | 01:36:38   | next time.                                                                                              |
 | 01:36:39   | Goodbye, everyone.                                                                                      |

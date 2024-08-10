@@ -159,7 +159,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 08:54      | playing with the new toys as soon as possible. Yeah, yeah, hopefully we will, we'll have                 |
 | 09:00      | to wait and see, but I'm crossing my fingers that it's going to all work out perfectly                   |
 | 09:05      | and, you know, we'll just continue to be amazing as we always are, David.                                |
-| 09:09      | Yeah, on today for the automakers max, we're going to go ahead and talk about iOS 17 because             |
+| 09:09      | Yeah, on today for the Automators max, we're going to go ahead and talk about iOS 17 because             |
 | 09:15      | why not, right? Rosa and I still have wishes and ideas, so we thought that'd be fun for                  |
 | 09:20      | the bonus episode today. But let's get it back to, you know, what people are getting                     |
 | 09:25      | to know with iOS 16. We've got various categories to go through. What about, you want to talk            |

@@ -485,7 +485,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 34:27      | I was going to ask if he liked bought you a bike or something, but a disk drive would                    |
 | 34:30      | be cool too.                                                                                             |
 | 34:31      | Yeah. Floppy disks. That was great.                                                                       |
-| 34:35      | This episode of the automakers podcast is brought to you by hrefs, SEO tools and resources               |
+| 34:35      | This episode of the Automators podcast is brought to you by hrefs, SEO tools and resources               |
 | 34:41      | to grow your search traffic. Get a seven day trial for just $7.                                          |
 | 34:47      | You work for a big brand or maybe you run your own small business or you're a freelancer                 |
 | 34:51      | getting traffic to your website can be a real challenge. And there's a lot of competition                |

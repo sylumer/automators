@@ -266,7 +266,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 11:32      | Yes.                                                                                                    |
 | 11:33      | Yeah.                                                                                                   |
 | 11:34      | And I keep seeing people as well, the Relay FM discord community as a side note folks,                 |
-| 11:39      | if you are a Relay FM member of the automakers, Max podcast, for example, or one of the others,        |
+| 11:39      | if you are a Relay FM member of the Automators, Max podcast, for example, or one of the others,        |
 | 11:46      | it's okay.                                                                                              |
 | 11:47      | There, there's a whole bunch of really great nerds there and every so often I'll just see               |
 | 11:51      | somebody, you know, posting in tech or systems and themes going, hey, you know, like this               |

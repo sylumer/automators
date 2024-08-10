@@ -989,7 +989,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:21:40   | it's really just a question of, I wonder if we could do this and then trying out different ways          |
 | 01:21:48   | to solve it and see if there's something that actually either makes sense or makes it more               |
 | 01:21:53   | fun in some way. Where most of my automation goes to is making something fun or interesting.             |
-| 01:21:59   | We should start a thread in the automakers forum of times that you've made your spouse angry with        |
+| 01:21:59   | We should start a thread in the Automators forum of times that you've made your spouse angry with        |
 | 01:22:04   | automation. Maybe it should be titled the time I nearly got divorced or something. Even if you're        |
 | 01:22:15   | not married to your partner, I can imagine them being angry enough that that might be the                |
 | 01:22:21   | considered solution to their problems at that moment in time with some of the issues that                |

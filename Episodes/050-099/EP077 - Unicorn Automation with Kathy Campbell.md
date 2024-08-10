@@ -538,7 +538,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 47:01      | you probably would not have automated it, right? But instead, you've got hundreds or thousands and        |
 | 47:07      | multiple times. And clearly, that hits the automation threshold for just about anybody.                   |
 | 47:12      | It's like, I'm not going to sit and do all these filters to 400 images every week. You know,              |
-| 47:17      | that'd be like a full-time job. And that's the decision all of us automakers have to make.                |
+| 47:17      | that'd be like a full-time job. And that's the decision all of us automators have to make.                |
 | 47:22      | It's like, at what point do we hit that threshold? Yeah. And sometimes there's images that like,          |
 | 47:31      | like I'm not perfect. So stuff is not always level. And I haven't figured out a way, well,                |
 | 47:39      | the machine learning for like auto-fixing like the horizon lines is still not great.                      |

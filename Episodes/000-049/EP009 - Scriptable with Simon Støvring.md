@@ -759,7 +759,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 42:57      | haven't showed them yet, then we would love to see them in the forums because that is                             |
 | 43:02      | a really nice place to share scripts and to give other people ideas.                                              |
 | 43:05      | And if you're looking for scripts or you're looking for some ideas, again, check the forums,                      |
-| 43:10      | talk.automakers.fm.                                                                                               |
+| 43:10      | talk.automators.fm.                                                                                               |
 | 43:11      | There's a [[Scriptable]] category and you can find loads of really great examples there.                          |
 | 43:17      | And of course, some very helpful people who are very willing to give you some of their                            |
 | 43:21      | time to help you figure these things out if you're stuck.                                                         |
@@ -772,7 +772,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 43:37      | I will find you online, Simon.                                                                                    |
 | 43:40      | Twitter is probably the best place.                                                                               |
 | 43:42      | I'm at Simon Bias and they can follow the [[Scriptable]] app on, yeah, at [[Scriptable]] app.                     |
-| 43:49      | And occasionally, I'm also on the [talk.automakers.fm](https://talk.automakers.fm) forum.                                                       |
+| 43:49      | And occasionally, I'm also on the [talk.automators.fm](https://talk.automators.fm) forum.                                                       |
 | 43:55      | Yes, you are.                                                                                                     |
 | 43:58      | Often pop up just after somebody's answer something and it's always quite interesting                             |
 | 44:01      | to see your responses because you're very helpful there when you've got the time.                                 |
@@ -786,6 +786,6 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 44:27      | And of course, Automators is [Automators.fm](https://automators.fm).                                                                       |
 | 44:30      | And you can find us and talk to us, give us feedback, tell us what you're doing with                              |
 | 44:33      | [[Scriptable]] over in the forums, which you've heard the URL 100 times.                                          |
-| 44:38      | Here it is, 101, [talk.automakers.fm](https://talk.automakers.fm).                                                                                |
+| 44:38      | Here it is, 101, [talk.automators.fm](https://talk.automators.fm).                                                                                |
 | 44:41      | All right, everybody, have a great weekend.                                                                       |
 | 44:44      | It's Scripting, and we'll see you in two weeks.                                                                   |
