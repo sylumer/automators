@@ -1136,27 +1136,27 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:00:34   | a phone anyway.                                                                                        |
 | 01:00:36   | So you're going to need something like push automation server for that, which is increasing            |
 | 01:00:40   | the complexity of this and the barrier to entry somewhat.                                              |
-| 01:00:44   | And then you could send those reminders either to the [[Apple Reminders\|Reminders]] app or to the Do app, I would          |
+| 01:00:44   | And then you could send those reminders either to the [[Apple Reminders\|Reminders]] app or to the [[Due]] app, I would          |
 | 01:00:47   | assume if you really had something that was like a hard reminder.                                      |
-| 01:00:52   | I actually have a problem with automating, creating reminders in the Do app using the                  |
-| 01:00:55   | Do actions because it opens Do every time.                                                             |
-| 01:00:58   | So what I'm doing instead when I create Do reminders is I add them all to a Do list in                 |
-| 01:01:02   | [[Apple Reminders\|Reminders]] and then at the end of the shortcut, I open the Do app, which imports everything             |
+| 01:00:52   | I actually have a problem with automating, creating reminders in the [[Due]] app using the                  |
+| 01:00:55   | [[Due]] actions because it opens [[Due]] every time.                                                             |
+| 01:00:58   | So what I'm doing instead when I create [[Due]] reminders is I add them all to a [[Due]] list in                 |
+| 01:01:02   | [[Apple Reminders\|Reminders]] and then at the end of the shortcut, I open the [[Due]] app, which imports everything             |
 | 01:01:07   | from that list.                                                                                        |
-| 01:01:08   | I wonder that I don't see Do opening up when I run the laundry shortcut that I've got.                 |
+| 01:01:08   | I wonder that I don't see [[Due]] opening up when I run the laundry shortcut that I've got.                 |
 | 01:01:12   | So maybe it's just a little config somewhere.                                                          |
-| 01:01:15   | I don't find that much use for automating Do because I use it for just a few very specific             |
-| 01:01:20   | things and I just don't need to create a lot of things in Do.                                          |
+| 01:01:15   | I don't find that much use for automating [[Due]] because I use it for just a few very specific             |
+| 01:01:20   | things and I just don't need to create a lot of things in [[Due]].                                          |
 | 01:01:24   | I mean, my life isn't such that I need to be nagged about everything, but it has got                   |
 | 01:01:31   | a pretty powerful automation support.                                                                  |
-| 01:01:34   | I mean, you can do a lot with shortcuts in Do.                                                         |
+| 01:01:34   | I mean, you can do a lot with shortcuts in [[Due]].                                                         |
 | 01:01:37   | They've done a good job of implementing it.                                                            |
 | 01:01:39   | Yeah.                                                                                                  |
 | 01:01:40   | And sorry, Rose, you're right.                                                                         |
 | 01:01:41   | I'm doing the same thing.                                                                              |
-| 01:01:42   | I'm adding a reminder to a special [[Apple Reminders\|Reminders]] list that gets sucked up in a Do.                         |
+| 01:01:42   | I'm adding a reminder to a special [[Apple Reminders\|Reminders]] list that gets sucked up in [[Due]].                         |
 | 01:01:47   | But yeah, David, you're right.                                                                         |
-| 01:01:49   | Do has saved my life quite a bit the last year.                                                        |
+| 01:01:49   | [[Due]] has saved my life quite a bit the last year.                                                        |
 | 01:01:51   | But it's almost like I feel like if you use it too much, then it loses its effectiveness.              |
 | 01:01:58   | It's easier to ignore it if it starts going off five times a day.                                      |
 | 01:02:02   | It's true.                                                                                             |
@@ -1179,7 +1179,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:02:19   | Darn it.                                                                                               |
 | 01:02:20   | Darn it.                                                                                               |
 | 01:02:21   | I'm just checking just in case because sometimes other people have found this because, so there        |
-| 01:02:25   | are three different do actions inside of Shortcuts.                                                    |
+| 01:02:25   | are three different [[Due]] actions inside of [[Shortcuts]].                                                    |
 | 01:02:28   | There's one under text, which is add to your reminder.                                                 |
 | 01:02:31   | And then there's do create repeating reminder and do create reminder.                                  |
 | 01:02:35   | And the repeating reminder, I believe, is sort of like for daily or weekly things.                     |
@@ -1195,7 +1195,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:02:56   | Guess I might need to rework some Shortcuts.                                                           |
 | 01:02:58   | On the other hand, I could just leave it because it works.                                             |
 | 01:03:01   | So have to decide there what the correct solution is.                                                  |
-| 01:03:06   | This episode of The Automators is brought to you by DEVONthink from Devon Technologies.                |
+| 01:03:06   | This episode of The Automators is brought to you by DEVONthink from DEVONTechnologies.                |
 | 01:03:11   | Go to devonthinktechnologies.com/automators [^1] to get organised and unleash your creativity.        |
 | 01:03:17   | First of all, with this link, you'll get 10% off.                                                      |
 | 01:03:22   | DEVONthink is the flagship product of Devon Technologies.                                              |
