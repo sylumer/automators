@@ -1033,7 +1033,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 59:11      | card is written and then the card has been posted.                                                   |
 | 59:14      | So for status, you're just using a single status field.                                              |
 | 59:20      | Select.                                                                                              |
-| 59:21      | Yeah, it's a single select, but this means that I can build a Kanban view for the cards.             |
+| 59:21      | Yeah, it's a single select, but this means that I can build a [[Kanban]] view for the cards.             |
 | 59:28      | And that makes it really, really easy.                                                               |
 | 59:30      | And the other thing I do is I have a checkbox for Get Christmas Card because there are people        |
 | 59:35      | that get Christmas cards.                                                                            |

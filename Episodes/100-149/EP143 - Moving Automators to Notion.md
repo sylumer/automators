@@ -238,11 +238,11 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 11:43      | So then we got thinking, well, what could we do more if we had it all in one place?                  |
 | 11:47      | And we are still experimenting with it to be honest with you.                                        |
 | 11:51      | But I find it really nice in the sense that we have one database that can be displayed               |
-| 11:58      | as a database or a list or a Kanban board and using different filters.                               |
+| 11:58      | as a database or a list or a [[Kanban]] board and using different filters.                               |
 | 12:05      | And this is a, to a certain extent automation, you're setting up sort criteria and filter            |
 | 12:09      | criteria.                                                                                            |
 | 12:10      | So you can just go in there at any time and see.                                                     |
-| 12:12      | And if like I have an idea for a show, I just put it in the idea Kanban column and then              |
+| 12:12      | And if like I have an idea for a show, I just put it in the idea [[Kanban]] column and then              |
 | 12:19      | Rose sees it too, and we can think about it and if we decide to add it to a show, then               |
 | 12:23      | it gets a number and gets kind of into the system.                                                   |
 | 12:26      | But it's like one database where things that we used to do in multiple documents are all             |
@@ -293,10 +293,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 15:23      | you're evaluating a new automation tool, you know, not just how much can it be automated,            |
 | 15:28      | but more automation or just basic features that are part of this will make your life                 |
 | 15:35      | easier that it bakes right into it.                                                                  |
-| 15:38      | So you know, the fact that we have templates, we have the ability to have a Kanban view              |
+| 15:38      | So you know, the fact that we have templates, we have the ability to have a [[Kanban]] view              |
 | 15:42      | and two calendar views, one for when we're recording and one for when we're releasing                |
 | 15:47      | and things like that, that makes this a really good choice for us.                                   |
-| 15:50      | You know, we were using Airtable, we could have the Kanban view and the calendar views               |
+| 15:50      | You know, we were using Airtable, we could have the [[Kanban]] view and the calendar views               |
 | 15:55      | and the different table views in Airtable, and we did, but the fact that we have that                |
 | 16:00      | and the show notes in [[Notion]] definitely puts [[Notion]], you know, a little bit up there.                |
 | 16:05      | It's also very simple to use, so you know, when we've got guests on the show and so on,              |

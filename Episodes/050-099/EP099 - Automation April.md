@@ -1160,7 +1160,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:26:50   | have to try and change the tags on different things, which I know there are some [[Obsidian]]             |
 | 01:26:55   | plugins, which can make this easier. There's one meta view, I think it's called for updating          |
 | 01:27:03   | your metadata meta table, meta edit, sorry, that's the one meta edit is the one I'm thinking          |
-| 01:27:09   | of where you can change properties of things directly from like, say a Kanban view. But               |
+| 01:27:09   | of where you can change properties of things directly from like, say a [[Kanban]] view. But               |
 | 01:27:16   | I find it's a bit difficult because I still want the list to be dynamically created of                |
 | 01:27:21   | just things in the folder. I don't want to add something to the folder. And then it not               |
 | 01:27:26   | to appear in a list somewhere. So I've stuck with a lot of those as well. One thing I'm               |

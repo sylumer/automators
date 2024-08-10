@@ -758,7 +758,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 46:28      | I just want to push them another 10%, you know, like you said, defer dates.                             |
 | 46:34      | And there's just a couple of little features they need to add to really make that an app                |
 | 46:38      | that can scale up for people that want it.                                                              |
-| 46:41      | And one thing that gives me a little bit of hope is they added essentially Kanban boards                |
+| 46:41      | And one thing that gives me a little bit of hope is they added essentially [[Kanban]] boards                |
 | 46:45      | to [[Apple Reminders\|Reminders]] this year.                                                                                 |
 | 46:48      | And Rose, have you played with that at all?                                                             |
 | 46:51      | I haven't really had a chance to know.                                                                  |
@@ -774,7 +774,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 47:29      | The fact that it then hangs around on my home screen until it's done and it's just kind                 |
 | 47:35      | of like there and in my face works very nicely.                                                         |
 | 47:40      | So yeah, you know, I do use [[Apple Reminders\|Reminders]].                                                                  |
-| 47:43      | I haven't yet used the Kanban stuff simply because I don't have a need for that because                 |
+| 47:43      | I haven't yet used the [[Kanban]] stuff simply because I don't have a need for that because                 |
 | 47:49      | my big task management stuff, like anything that's basically like these things are actually             |
 | 47:55      | related to each other in one way or another, happens in OmniFocus.                                      |
 | 47:59      | The rest of it just happens, you know, the rest of it's just, you know, as it is.                       |
@@ -784,8 +784,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 48:18      | Yeah.                                                                                                   |
 | 48:19      | But you can set up a reminder and put it in a column view or a section view as they call                |
 | 48:25      | it and then you can arrange it by columns.                                                              |
-| 48:28      | And then you can put subtasks into that reminder and essentially create a little project Kanban.        |
-| 48:35      | And this is not going to compete again with the bigger players out there that do Kanban.                |
+| 48:28      | And then you can put subtasks into that reminder and essentially create a little project [[Kanban]].        |
+| 48:35      | And this is not going to compete again with the bigger players out there that do [[Kanban]].                |
 | 48:40      | But it's free and it's already on your device.                                                          |
 | 48:43      | And I really think the magic sauce of this is the sharing.                                              |
 | 48:47      | I mean, they, [[Apple Reminders\|Reminders]] is one of the best in class for sharing task lists.                             |
@@ -952,7 +952,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 58:59      | to release early, they're dealing with underlying audio stuff and they really have to be careful,       |
 | 59:04      | but man, I can tell you that it's always an indicator when I'm, I wish I had the beta                   |
 | 59:10      | on my production machine, like the widgets on the screen and like the way, because I've                 |
-| 59:17      | been testing this [[Apple Reminders\|Reminders]] Kanban View, I'm thinking about implementing the small                     |
+| 59:17      | been testing this [[Apple Reminders\|Reminders]] [[Kanban]] View, I'm thinking about implementing the small                     |
 | 59:21      | piece of it with my team and like not being able to use it on my Mac, dressing nuts.                    |
 | 59:25      | So that's a good sign that, you know, this is a, this is a good year and I think anybody                |
 | 59:31      | who's running the beta, you know, if you've got some spelunking you're doing and things                 |

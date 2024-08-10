@@ -627,7 +627,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 33:14      | Yeah.                                                                                                |
 | 33:15      | I mean, it's just to have a very unique user experience.                                             |
 | 33:18      | In fact, you could do this before you made my Latin plug-in if you wanted is like, I'd               |
-| 33:24      | like you to look at my Kanban page in [[Obsidian]] and just show me everything that's an active          |
+| 33:24      | like you to look at my [[Kanban]] page in [[Obsidian]] and just show me everything that's an active          |
 | 33:29      | project and populate that and then I could just trigger a bunch and say, okay, I'm going             |
 | 33:34      | to go work on the Smith contract now or I'm going to go work on it.                                  |
 | 33:37      | Is there a way to get that data as it's a markdown file on your drive?                               |

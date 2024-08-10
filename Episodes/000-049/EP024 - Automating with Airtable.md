@@ -627,7 +627,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 33:28      | Yes, it could.                                                                                       |
 | 33:29      | And also, so one of the things we haven't covered yet at all are views.                              |
 | 33:35      | And so as well as a basic table layout, Zapia, sorry, Zapia air table can also do things           |
-| 33:43      | like a calendar view and a Kanban view and all sorts of these things.                                |
+| 33:43      | like a calendar view and a [[Kanban]] view and all sorts of these things.                                |
 | 33:47      | So for example, we have a calendar, we've got two calendar views, we've got a calendar               |
 | 33:51      | view for recording and then we've got a calendar view for release when we can see when things        |
 | 33:57      | are actually due to be released so that we can make sure that we're recording ahead of               |

@@ -446,9 +446,9 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 20:15      | And so the really cool thing about this, and the thing that might not even be demonstrated             |
 | 20:19      | that well by the example, is that you're able to keep, so what's happening underneath this             |
 | 20:25      | is actually the shortcut is reading the same file that I use to manage all my projects.                |
-| 20:30      | It's just a Kanban, it's in [[Obsidian]] as a Kanban board, just a list of links.                          |
+| 20:30      | It's just a [[Kanban]], it's in [[Obsidian]] as a [[Kanban]] board, just a list of links.                          |
 | 20:35      | And when I manage my projects on any platform, Mac or iOS, I'm moving stuff around on that             |
-| 20:41      | Kanban.                                                                                                |
+| 20:41      | [[Kanban]].                                                                                                |
 | 20:42      | And then because [[Obsidian]] has plain text files underneath, it's really trivial for shortcuts           |
 | 20:46      | to then read that list and do something with it.                                                       |
 | 20:49      | And so I've got this single source of truth for what's happening in my mind for the projects           |
@@ -593,7 +593,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 28:22      | It's more Mac friendly, even though it's really built for iOS and iPad, whereas [[Obsidian]] is            |
 | 28:28      | a different animal, but it is the automation element.                                                  |
 | 28:32      | It's the ability to internalise, add templates.                                                        |
-| 28:35      | It's the ability to add a Kanban plugin and build your own personal project management                 |
+| 28:35      | It's the ability to add a [[Kanban]] plugin and build your own personal project management                 |
 | 28:41      | system into the app.                                                                                   |
 | 28:42      | It's just like, it's the way that the thing morphs into whatever you need it to be.                    |
 | 28:47      | And if you want to spend a weekend getting comfortable with JavaScript, the fact that                  |

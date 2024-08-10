@@ -267,7 +267,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 12:56      | And you have to OCR things afterwards.                                                                                    |
 | 12:58      | That feels like it's, I feel like maybe missing a watermark was an oversight or at the very                               |
 | 13:05      | least, they're not intending on you converting everything to images first.                                                |
-| 13:11      | Or either just like the Kanban board inside the shortcuts team has a card that says watermark                             |
+| 13:11      | Or either just like the [[Kanban]] board inside the shortcuts team has a card that says watermark                             |
 | 13:18      | and it hasn't been converted yet.                                                                                         |
 | 13:20      | It's like they haven't got to it yet.                                                                                     |
 | 13:23      | So I do think that we may lose a little bit that way if they don't take it all over.                                      |

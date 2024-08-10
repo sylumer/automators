@@ -216,7 +216,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 09:20      | And I think a lot of the tricks to making it work are shortcuts because like it doesn't              |
 | 09:25      | really have templated projects.                                                                      |
 | 09:27      | You can have a templated list, but not really like if you want, for instance, they have              |
-| 09:31      | a new feature where you can make a Kanban.                                                           |
+| 09:31      | a new feature where you can make a [[Kanban]].                                                           |
 | 09:33      | But if you want to make sub tasks under it, there's no way to template that, but you can             |
 | 09:38      | by building it out in shortcuts.                                                                     |
 | 09:40      | But you find all these limitations in the shortcuts implementation of [[Apple Reminders\|Reminders]], and                 |

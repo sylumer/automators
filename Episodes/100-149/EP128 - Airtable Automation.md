@@ -202,7 +202,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 09:28      | can have different views.                                                                                 |
 | 09:30      | You've got a grid view, which kind of looks a little bit like a spreadsheet.                              |
 | 09:33      | There's a form view to enable easy data entry.                                                            |
-| 09:37      | There's a Kanban view to allow you to do sort of Kanban type things with stuff.                           |
+| 09:37      | There's a [[Kanban]] view to allow you to do sort of [[Kanban]] type things with stuff.                           |
 | 09:41      | There's a list view and a gallery view, and you can choose which bits of information you                  |
 | 09:46      | see on each poster representation in the gallery.                                                         |
 | 09:52      | And then there's some pro options, which are timelines and Gantt charts, which are the                    |
@@ -213,7 +213,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 10:16      | And then it combines the episode number and the title or the guest name to make the actual                |
 | 10:20      | episode title, which is then used to automatically create Google documents for us.                        |
 | 10:26      | And we have a status field, which is very nice.                                                           |
-| 10:29      | And then this in a Kanban view can move across automatically from or can be dragged across                |
+| 10:29      | And then this in a [[Kanban]] view can move across automatically from or can be dragged across                |
 | 10:34      | from planning to, I can't remember the one that comes after planning, to be honest, I've                  |
 | 10:40      | kind of forgotten.                                                                                        |
 | 10:41      | There we go.                                                                                              |

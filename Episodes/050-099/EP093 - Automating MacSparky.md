@@ -731,7 +731,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 39:57      | So then I just save it to the very specific folder for Automator's episode, so then it                 |
 | 40:02      | shows up in my [[Obsidian]] library, just fine.                                                            |
 | 40:05      | Another thing I want to automate on that, Rose, off to pick your brain on this is I want               |
-| 40:09      | to add it to my Kanban board in [[Obsidian]], like a newly created file.                                   |
+| 40:09      | to add it to my [[Kanban]] board in [[Obsidian]], like a newly created file.                                   |
 | 40:14      | I'm going to look, there's something in there.                                                         |
 | 40:16      | I think we can do something there.                                                                     |
 | 40:18      | I have done the thing that [[Obsidian]] tell you to only do if you're being very careful,                  |
@@ -742,7 +742,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 40:38      | unless you're told to right at the end.                                                                |
 | 40:42      | So by doing that, if we double sync it, then maybe we can just put it in in one place,                 |
 | 40:49      | and then it'll end up everywhere for you.                                                              |
-| 40:51      | And honestly, it's not that big of a deal, because I work in that Kanban board every                   |
+| 40:51      | And honestly, it's not that big of a deal, because I work in that [[Kanban]] board every                   |
 | 40:54      | day, so it helps me kind of keep on top of things.                                                     |
 | 40:58      | And then the last thing I do with that script is I take all of that data, and I prepare                |
 | 41:02      | text for an email to the guest, and it says, hey, we're recording on this date.                        |
@@ -770,7 +770,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 42:20      | And because I'm so hung up on contextual computing, like when I go to that [[Obsidian]] note, it has       |
 | 42:26      | a link to the OmniFocus project based on one of those links or to [[DEVONthink]] data on                |
 | 42:33      | it or to the Google doc.                                                                               |
-| 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the Kanban           |
+| 42:35      | So I look at the [[Obsidian]] as like my mission control and I can click something on the [[Kanban]]           |
 | 42:42      | and immediately get to all the resources related to it.                                                |
 | 42:46      | And I've looked at some other task managers and they just don't do a lot of that stuff.                |
 | 42:52      | So it'll be hard to dislodge me.                                                                       |
