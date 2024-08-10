@@ -906,7 +906,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 51:54      | Yes.                                                                                                 |
 | 51:55      | I actually have quite a few of my bunches on exactly that kind of grouping.                          |
 | 52:01      | There's a bunch folder in [[Keyboard Maestro]], but I actually mostly launch my bunches from             |
-| 52:08      | my Stream Deck, which is kind of a whole other keyboard shortcut thing.                              |
+| 52:08      | my [[Stream Deck]], which is kind of a whole other keyboard shortcut thing.                              |
 | 52:12      | Yeah.                                                                                                |
 | 52:13      | Yeah, it is.                                                                                         |
 | 52:14      | It is.                                                                                               |
@@ -914,7 +914,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 52:18      | Yes.                                                                                                 |
 | 52:19      | Yeah.                                                                                                |
 | 52:20      | Rose, how do you deal with running out of keyboard shortcuts?                                        |
-| 52:23      | As Stream Deck, and I recently purchased a CAD mouse, which has more buttons on it.                  |
+| 52:23      | As [[Stream Deck]], and I recently purchased a CAD mouse, which has more buttons on it.                  |
 | 52:28      | What mouse?                                                                                          |
 | 52:29      | I haven't even heard this.                                                                           |
 | 52:30      | A CAD mouse.                                                                                         |
@@ -925,8 +925,8 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 52:49      | It's meant for manipulating 3D models.                                                               |
 | 52:51      | Also works pretty well for editing audio and video, at least in my trial so far, but it's            |
 | 52:56      | got a whole bunch of extra buttons on there, which I can program.                                    |
-| 53:00      | But mostly I'm using my Stream Deck and folders and profiles within my Stream Deck for handling      |
-| 53:06      | all of that because the folders and profiles in Stream Deck make a huge difference and               |
+| 53:00      | But mostly I'm using my [[Stream Deck]] and folders and profiles within my [[Stream Deck]] for handling      |
+| 53:06      | all of that because the folders and profiles in [[Stream Deck]] make a huge difference and               |
 | 53:10      | being able to easily switch from one profile, aka context, to another gives me 32 buttons,           |
 | 53:19      | which can be folders as well.                                                                        |
 | 53:21      | So I really like that.                                                                               |
@@ -1456,7 +1456,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:25:01   | That's the one I want go because, you know, it's rare that I'm going to have 100 windows             |
 | 01:25:05   | open in an application.                                                                              |
 | 01:25:07   | If I do, it's usually Finder because I've been opening the same Finder window again                  |
-| 01:25:11   | and again and again with Stream Deck.                                                                |
+| 01:25:11   | and again and again with [[Stream Deck]].                                                                |
 | 01:25:15   | And then I just merge all the windows and close them and start over.                                 |
 | 01:25:18   | The most hilarious part is if you have full screen mode on multiple apps and then you                |
 | 01:25:24   | just tap on anything on your desktop and your Mac will then zoom six windows to the right            |

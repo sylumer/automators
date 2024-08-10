@@ -810,7 +810,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:19:37   | because until this year, I think this this year, I got an iMac pro for work, and it's been              |
 | 01:19:46   | amazing. But I literally haven't used a desktop as my main computer since my first iMac when I was      |
 | 01:19:53   | 11. So I mean, there's so much to do with [[BetterTouchTool]]. And with keyword, maestro, I forget        |
-| 01:20:04   | who started the Stream Deck trend. But wow, the Stream Deck is so cool. And I still don't really        |
+| 01:20:04   | who started the [[Stream Deck]] trend. But wow, the [[Stream Deck]] is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
 | 01:20:24   | but the Apple Silicon event is or well, there's some Apple event next week. And I have a feeling        |

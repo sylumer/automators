@@ -1306,7 +1306,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:14:19   | And this year, knowing that they add even more symbols, they added the ability to put                                     |
 | 01:14:24   | colours on them.                                                                                                           |
 | 01:14:25   | So all of a sudden, all of my OmniFocus perspectives are getting new SF symbol based icons and                            |
-| 01:14:34   | my Stream Deck is getting button updates and all this stuff.                                                              |
+| 01:14:34   | my [[Stream Deck]] is getting button updates and all this stuff.                                                              |
 | 01:14:38   | If you look at some of the field guides I've made, even I've used symbols and some of the                                 |
 | 01:14:41   | animations I use in there because they're just so well made.                                                              |
 | 01:14:46   | And do you need to be in the paid developer to get access to that, Rose?                                                  |

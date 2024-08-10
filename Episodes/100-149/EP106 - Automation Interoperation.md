@@ -604,7 +604,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 21:30      | which is that I'm live for iOS today or similar.                  |
 | 21:32      | And, you know, that one was just a test one                       |
 | 21:34      | that I quickly threw together                                     |
-| 21:36      | because I was already doing something similar on Stream Deck,     |
+| 21:36      | because I was already doing something similar on [[Stream Deck]],     |
 | 21:39      | which I want to get to, by the way, David,                        |
 | 21:41      | because [[BetterTouchTool]] is bringing it's A game here.           |
 | 21:43      | It's on the list, it's on the list, yeah.                         |
@@ -771,7 +771,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 28:22      | to get to a website than just start typing the name               |
 | 28:25      | and have it jump there.                                           |
 | 28:27      | All right, now you mentioned earlier,                             |
-| 28:28      | [[BetterTouchTool]] and Stream Deck.                                |
+| 28:28      | [[BetterTouchTool]] and [[Stream Deck]].                                |
 | 28:30      | Here's another ball of yarn that we've got                        |
 | 28:33      | two pins connected suddenly.                                      |
 | 28:35      | What are you doing with [[BetterTouchTool]]?                        |
@@ -809,20 +809,20 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 29:58      | and I'm really liking all of them                                 |
 | 30:01      | and I'm especially liking the fact that right now                 |
 | 30:04      | they've just added support.                                       |
-| 30:06      | It's still in beta for Stream Deck,                               |
-| 30:09      | so you will no longer need the Stream Deck application            |
+| 30:06      | It's still in beta for [[Stream Deck]],                               |
+| 30:09      | so you will no longer need the [[Stream Deck]] application            |
 | 30:12      | on macOS, you would just be able to do everything                 |
 | 30:15      | by a [[BetterTouchTool]].                                           |
 | 30:17      | That is amazing as far as I'm concerned.                          |
-| 30:20      | Yeah, Stream Deck plus [[BetterTouchTool]].                         |
+| 30:20      | Yeah, [[Stream Deck]] plus [[BetterTouchTool]].                         |
 | 30:25      | Yeah, exactly.                                                    |
 | 30:27      | It is great.                                                      |
 | 30:29      | The only problem I've got right now                               |
 | 30:31      | is I've yet to sit down and spend a proper amount of time         |
-| 30:34      | switching everything over from the Stream Deck app                |
+| 30:34      | switching everything over from the [[Stream Deck]] app                |
 | 30:37      | to the [[BetterTouchTool]] app,                                     |
 | 30:39      | and so I have to quit [[BetterTouchTool]]                           |
-| 30:42      | to be able to use my Stream Deck                                  |
+| 30:42      | to be able to use my [[Stream Deck]]                                  |
 | 30:44      | for the show notes and everything                                 |
 | 30:46      | because I use the foot pedal                                      |
 | 30:48      | and it switches to our show notes                                 |
@@ -834,14 +834,14 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 31:01      | that I went to make sure was working today                        |
 | 31:04      | and went, oh no, actually,                                        |
 | 31:06      | I need to quit [[BetterTouchTool]]                                  |
-| 31:08      | and reopen the Stream Deck app                                    |
+| 31:08      | and reopen the [[Stream Deck]] app                                    |
 | 31:10      | so that everything works because otherwise                        |
 | 31:12      | I'm going to be stuck and not adding notes to the show notes      |
 | 31:14      | and that might get us in trouble with Jim                         |
 | 31:16      | and we don't want to do that.                                     |
 | 31:18      | I have to sit down and migrate everything over                    |
 | 31:20      | but I think once I'm done with that                               |
-| 31:22      | I'm going to install in the Stream Deck application.              |
+| 31:22      | I'm going to install in the [[Stream Deck]] application.              |
 | 31:24      | It's okay, but [[BetterTouchTool]]                                  |
 | 31:26      | is going to allow me to do way more things                        |
 | 31:29      | much more efficiently                                             |
@@ -849,7 +849,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 31:34      | I mentioned earlier the shortcut action                           |
 | 31:36      | that I have for tweeting a tweet with Tweetbot.                   |
 | 31:39      | Well, if the native tweet action                                  |
-| 31:42      | in the Stream Deck uses the Twitter API,                          |
+| 31:42      | in the [[Stream Deck]] uses the Twitter API,                          |
 | 31:45      | which is okay, but                                                |
 | 31:47      | I like to have things                                             |
 | 31:49      | actually go out using the apps that I prefer to use               |
@@ -877,11 +877,11 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 32:38      | I'm really glad the developer added                               |
 | 32:40      | for this is...                                                    |
 | 32:43      | It's a two-way system                                             |
-| 32:45      | so you can either replace the Stream Deck                         |
+| 32:45      | so you can either replace the [[Stream Deck]]                         |
 | 32:47      | with [[BetterTouchTool]]                                            |
 | 32:49      | or you can add [[BetterTouchTool]] actions                          |
-| 32:51      | to your Stream Deck.                                              |
-| 32:53      | So if your Stream Deck setup is perfect                           |
+| 32:51      | to your [[Stream Deck]].                                              |
+| 32:53      | So if your [[Stream Deck]] setup is perfect                           |
 | 32:55      | pretty much on you just wanted to add a few more actions          |
 | 32:57      | you can just use the [[BetterTouchTool]] action                     |
 | 32:59      | to add [[BetterTouchTool]] actions,                                 |

@@ -758,7 +758,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 28:31      | It does customising your touch bar.                                 |
 | 28:33      | If you've got a device with a touch bar, you can connect a          |
 | 28:35      | Sierra remote to your Mac and have it do amazing things there.      |
-| 28:38      | Or you can just replace the Stream Deck software with Better        |
+| 28:38      | Or you can just replace the [[Stream Deck]] software with Better        |
 | 28:40      | Touch Tool now.                                                     |
 | 28:41      | That's an option.                                                   |
 | 28:43      | Like, I didn't, I kind of saw it coming, but I also didn't          |
@@ -1538,7 +1538,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:04:22   | I still run these URL actions.                                      |
 | 01:04:24   | They're just so much easier, right?                                 |
 | 01:04:26   | Yeah.                                                               |
-| 01:04:27   | And I like, I have a whole panel of Stream Deck buttons             |
+| 01:04:27   | And I like, I have a whole panel of [[Stream Deck]] buttons             |
 | 01:04:29   | that just run the URL actions and it feels like                     |
 | 01:04:34   | the most natural way to trigger home kit stuff.                     |
 | 01:04:37   | It does, it does.                                                   |

@@ -275,7 +275,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 21:02      | Yeah, so I'm really excited to walk through kind of my process for this, mainly so you                    |
 | 21:10      | can tell me how to do it better. When it comes to automation, I am not extremely, I don't                 |
 | 21:19      | like to just sit and tinker with things. I highly recommend episode 38 of Roboism, where                  |
-| 21:27      | I kind of talk about my discovery of the Stream Deck and [[Keyboard Maestro]] and learning how                |
+| 21:27      | I kind of talk about my discovery of the [[Stream Deck]] and [[Keyboard Maestro]] and learning how                |
 | 21:35      | to do things, mainly because it gave away my secret in that I utilised friends like                       |
 | 21:41      | Rose to do the things for me and figure out how to make them work because I am not a tinkerer.            |
 | 21:50      | I don't like to tinker or create things from scratch or even really think, hmm, how could                 |
@@ -562,8 +562,8 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 49:24      | size image or put it in a shared folder very easily. So that that may be next level for you.              |
 | 49:31      | Yeah. I will send out a request to that agency. And hopefully fingers crossed, she'll reply to me.        |
 | 49:41      | Well, we'll have to see. We'll have to see. I mean, you know, we still need to make sure                  |
-| 49:47      | that I get some time to sit down with you in your Stream Deck, because I know you've been                 |
-| 49:50      | playing with that. And you mentioned it before, are you using the Stream Deck with your photography       |
+| 49:47      | that I get some time to sit down with you in your [[Stream Deck]], because I know you've been                 |
+| 49:50      | playing with that. And you mentioned it before, are you using the [[Stream Deck]] with your photography       |
 | 49:56      | workflow at all? Or are you still using keyboard and mouse for that pretty much?                          |
 | 50:01      | Yeah, I'm still using keyboard and mouse for that, mainly because, partially because, again, I haven't    |
 | 50:06      | had the time slash energy to sit and think about what I could use it for. But also, it's so easy          |
@@ -571,15 +571,15 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 50:24      | folder, et cetera. I'm sure there probably is a way. But yeah, I haven't had a chance to go through       |
 | 50:32      | and tinker it together. One thing you could do with the [[Keyboard Maestro]], and I know you're               |
 | 50:37      | already doing this on your Mac keyboard. But this is kind of an interesting thing. I process email        |
-| 50:42      | often. I'm sorry, not [[Keyboard Maestro]] on the Stream Deck. But I process email with the stream            |
+| 50:42      | often. I'm sorry, not [[Keyboard Maestro]] on the [[Stream Deck]]. But I process email with the stream            |
 | 50:48      | deck where I've set buttons to move to certain folders or archive or delete. And since I have             |
 | 50:57      | three primary accounts, I've got the personal Mac sparking the legal. I've got these buttons set up.      |
-| 51:02      | So I've got like a little, like quick entry board on the Stream Deck. One of the buttons I use,           |
-| 51:09      | and people may not think of this, is I've just put arrow keys on the Stream Deck. And it's just           |
+| 51:02      | So I've got like a little, like quick entry board on the [[Stream Deck]]. One of the buttons I use,           |
+| 51:09      | and people may not think of this, is I've just put arrow keys on the [[Stream Deck]]. And it's just           |
 | 51:17      | pressing the down arrow or the up arrow. So you can navigate quickly. Like I could see you going          |
-| 51:22      | through when you do your initial review of your photos with a Stream Deck, you could put the              |
+| 51:22      | through when you do your initial review of your photos with a [[Stream Deck]], you could put the              |
 | 51:28      | navigation keys, the P key, and whatever other keys you use. And you can zip through them using           |
-| 51:35      | the Stream Deck. Yeah, that's actually a really good idea. Or would it be possible you could combine      |
+| 51:35      | the [[Stream Deck]]. Yeah, that's actually a really good idea. Or would it be possible you could combine      |
 | 51:41      | the P and the arrow key as well. So that yeah, like it would take you to the next photo. And so           |
 | 51:47      | then you just have two buttons. And so you press either the flag and next or next. And that's it.         |
 | 51:53      | Okay. And then it does. Thank you. Next. Thank you. There we go. I'm just going to double check           |
@@ -589,16 +589,16 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 52:27      | So you just press P. Yeah. And then you add another for for right arrow. There we go. And so              |
 | 52:33      | that's a multi action. And then the other one can just be a right arrow. And then you can get fancy       |
 | 52:39      | because I know you're good at this stuff and make them into really pretty icons. I am very lazy. And      |
-| 52:45      | I just use [[Stephen Millard\|Stephen Millard's]] excellent Stream Deck icon generation with shortcuts. So you know that        |
+| 52:45      | I just use [[Stephen Millard\|Stephen Millard's]] excellent [[SF Symbol Icon Generator\|Stream Deck icon generation with Shortcuts]]. So you know that        |
 | 52:54      | works for me. And actually I have a back button in the bottom right hand corner of all of my              |
-| 52:59      | Stream Deck profiles which takes me back to my main action. But there we go. So we've officially          |
+| 52:59      | [[Stream Deck]] profiles which takes me back to my main action. But there we go. So we've officially          |
 | 53:05      | helped you live on air. Everybody can always have it. And then you can add another button that you        |
 | 53:12      | know every time you press it your computer just says something like kabam. You know just to make          |
 | 53:18      | you feel good. Well this was a little discussion we were having before the show. What do unicorns         |
 | 53:23      | sound like? Because if you could have like it make a unicorn sound when it finishes doing your            |
 | 53:29      | automation for watermarking that would be amazing. But what would the unicorn sound like?                 |
 | 53:35      | Sparkles. That's a good one. Good answer. I'm going deeper down this because now as I think               |
-| 53:43      | about it you could also apply a tag with a Stream Deck. So you press a button to apply the tag and        |
+| 53:43      | about it you could also apply a tag with a [[Stream Deck]]. So you press a button to apply the tag and        |
 | 53:49      | then haze on the background auto files it. We're going to automate you Kathy. I love it. We're            |
 | 53:55      | going to get this done. I am here for it. Yes. Especially because as COVID starts to recede               |
 | 54:04      | we will have more competitions and I'm very excited. Yes. This is both a great thing because it means     |

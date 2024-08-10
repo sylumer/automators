@@ -66,9 +66,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 00:11      | how are you today?                                                                                       |
 | 00:12      | I am great, Rose, and this is an episode I've been looking forward to because we're automating           |
 | 00:17      | Rosemary Orchard today.                                                                                  |
-| 00:19      | Yeah. Yeah. Just when you thought that I couldn't be any more automated, I got a Stream Deck             |
-| 00:23      | pedal and the entire thing just went out the window.                                                     |
-| 00:26      | Yeah. We both got a Stream Deck pedals. We're going to talk about that later in the episode,             |
+| 00:19      | Yeah. Yeah. Just when you thought that I couldn't be any more automated, I got a [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]]             |
+| 00:23      | and the entire thing just went out the window.                                                     |
+| 00:26      | Yeah. We both got [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedals]]. We're going to talk about that later in the episode,             |
 | 00:29      | but the key today is we did an episode a few months ago where I walked through the main                  |
 | 00:34      | automation stuff I'm doing, and I'm like, do you think we could do you, Rose? And you're                 |
 | 00:39      | like, yeah. And I'm like, do you think we could do it within five hours? And you're                      |
@@ -445,14 +445,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 31:31      | switches, tell application shortcuts to run shortcut, quote, the name of your shortcut.                  |
 | 31:36      | And you do need quotation marks around the name of your shortcut if it's got a space in                  |
 | 31:40      | it. But it's, it's very easy to do. And there's a number of ways that I can do this. I usually           |
-| 31:46      | trigger bunch primarily from my Stream Deck, because I have the icons there. And I had                   |
+| 31:46      | trigger bunch primarily from my [[Stream Deck]], because I have the icons there. And I had                   |
 | 31:54      | an idea. I only started this the other day, unfortunately, because TJ Lewin created the                  |
-| 32:00      | great calendar icon, which you can have in Stream Deck. And that's controlled through                    |
+| 32:00      | great calendar icon, which you can have in [[Stream Deck]]. And that's controlled through                    |
 | 32:07      | [[Keyboard Maestro]] and you change the background colour of the [[Keyboard Maestro]], the stream                 |
 | 32:13      | deck button, and you change what text is on it all through [[Keyboard Maestro]] and some                     |
 | 32:17      | AppleScript and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
 | 32:22      | I realised what I can probably do a good chunk of the time is read some of that same data                |
-| 32:30      | and actually use it to display the right bunch. So then when I press one Stream Deck button,             |
+| 32:30      | and actually use it to display the right bunch. So then when I press one [[Stream Deck]] button,             |
 | 32:36      | it will almost certainly run exactly the right bunch for exactly what I'm doing. And then                |
 | 32:41      | I'll have another one next to it for just like, you know, give me all the bunches. And                   |
 | 32:44      | I can choose whichever one manually. But I realise, you know, when I'm, when it's Wednesday,             |
@@ -906,8 +906,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:11:46   | automatable on macOS. I really don't know what's going on there. Of course, I can do it on iOS,          |
 | 01:11:51   | but having all of the options everywhere is something that I am hoping to have when it                   |
 | 01:11:57   | comes to a lot of these automation possibilities. No, I agree. And of course, that's the trick to        |
-| 01:12:02   | get it into your Stream Deck as well. Because once you have a URL, then only can you trigger it          |
-| 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a Stream Deck button, which is kind of fun.           |
+| 01:12:02   | get it into your [[Stream Deck]] as well. Because once you have a URL, then only can you trigger it          |
+| 01:12:08   | from [[Keyboard Maestro]], you can insert the URL into a [[Stream Deck]] button, which is kind of fun.           |
 | 01:12:14   | Exactly, yes. And it is really useful for that. I've been enjoying it. There's                           |
 | 01:12:21   | a couple of [[Safari]] extensions. You mentioned Home Safe before. It's not really an automation option,     |
 | 01:12:27   | but it does allow me to get the image from the Key Image from a web page, which can be really            |
@@ -1123,9 +1123,9 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:33:11   | more frequently. So it's less of a chore or pay somebody else to do my laundry, which they're            |
 | 01:33:15   | both valid options. I just need to figure out how much more frequently do I need to do laundry to        |
 | 01:33:21   | make this less of a problem. All right. Before we go, we've gone along today. But before we go,          |
-| 01:33:26   | let's just take a few minutes to check in on initial impressions of the Stream Deck pedal.               |
+| 01:33:26   | let's just take a few minutes to check in on initial impressions of the [[[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].               |
 | 01:33:30   | Like I've just got mine. I just got it installed and set up. I'll tell you a couple of things I          |
-| 01:33:37   | like about it. I like that it's cabled, which sounds weird, but I had been trying a Bluetooth            |
+| 01:33:37   | like about it. I like that it's cabled, which sounds weird, but I had been trying a [[Bluetooth]]            |
 | 01:33:43   | pedal system and it was constantly turning off or not paired and it just wouldn't stay there. So         |
 | 01:33:51   | if you tap on the pedal and nothing happens, then you very quickly lose faith in it. So                  |
 | 01:33:57   | as much as it is a pain to run a cable up the desk, it's actually nice because it's just always          |
@@ -1133,44 +1133,44 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:34:09   | other mistake with the one I had before was they were all the exact same shape. So I don't know.         |
 | 01:34:13   | Oh, right. Yeah. I was referring to it in the MacSparky Labs video as pedal braille,                    |
 | 01:34:17   | but I don't know what the word is, but like with your foot, you can tell where you are without           |
-| 01:34:21   | looking at it. And that's a nice feature that they've got on the Stream Deck pedal. They also,           |
+| 01:34:21   | looking at it. And that's a nice feature that they've got on the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]]. They also,           |
 | 01:34:27   | you know, because it's Elgato, they did a lot of nice little things like they included additional       |
 | 01:34:31   | springs. If you want to make them tighter or looser to press, they even put some rubber                  |
 | 01:34:36   | things in there where you can literally like turn the middle pedal off. You can put them in there        |
 | 01:34:41   | and make it so you can't press it. So if you've resting your foot on it, but I'm not giving up a         |
 | 01:34:46   | third button, right? Oh, no, no, no, no, need all the buttons, definitely all the buttons.               |
-| 01:34:52   | And then the other thing I like about it is that it's a Stream Deck, right? So all the stuff I'm         |
-| 01:34:56   | doing is Stream Deck, keyboard, maestro scripts, whatever I can now stick on my feet. So my initial      |
+| 01:34:52   | And then the other thing I like about it is that it's a [[Stream Deck]], right? So all the stuff I'm         |
+| 01:34:56   | doing is [[Stream Deck]], keyboard, maestro scripts, whatever I can now stick on my feet. So my initial      |
 | 01:35:01   | impression is this is going to be useful for me. I haven't exactly figured out all the ways I'm          |
 | 01:35:06   | going to use it, although I have got a mute button now connected to the centre pedal when I podcast,     |
 | 01:35:12   | which is nice. Yes. Yeah, I am really, really liking it, especially because I record iOS today           |
 | 01:35:19   | live every week. And we display our devices on screen. It's a podcast with video. So we're               |
 | 01:35:26   | displaying our devices as we talk. And so switching between just me on camera versus me and an iPhone    |
-| 01:35:33   | or an iPad with me overlaid on top of it, that's something I was doing before with the Stream Deck.      |
+| 01:35:33   | or an iPad with me overlaid on top of it, that's something I was doing before with the [[Stream Deck]].      |
 | 01:35:40   | But I found, and I need to figure out, I'm going to have to pick your brain David,                       |
-| 01:35:44   | the correct way to do this, because I find different profiles on the Stream Deck tend to                 |
+| 01:35:44   | the correct way to do this, because I find different profiles on the [[Stream Deck]] tend to                 |
 | 01:35:50   | point of a better word, bounce back. So it'll be in whatever profile I've selected. So I'll set it       |
 | 01:35:57   | to say the automators profile. And then after a little while, I'll glance down on my screen deck         |
 | 01:36:02   | and those buttons that I thought were the buttons in the profile. Yeah, they're actually back to my      |
 | 01:36:08   | default buttons in my default profile. And I'm not quite sure why that is. I guess it's because          |
-| 01:36:14   | the Stream Deck doesn't anticipate that you're going to spend an hour and a half                         |
+| 01:36:14   | the [[Stream Deck]] doesn't anticipate that you're going to spend an hour and a half                         |
 | 01:36:18   | still jumping through different applications, but on the same task. And so it bounces you back to        |
 | 01:36:23   | your default. And this is the same sort of thing. I've got it a little bit with the pedal as well.       |
 | 01:36:28   | So what I'm doing at the moment, which I need to figure out a much better way off is I'm actually        |
-| 01:36:33   | going to open up the Stream Deck preferences, and I changed my default profile for the pedal             |
+| 01:36:33   | going to open up the [[Stream Deck]] preferences, and I changed my default profile for the pedal             |
 | 01:36:39   | for each podcast that I do, so that I've got different buttons available to me. And then when            |
 | 01:36:44   | I'm not podcasting, I set it back to my actual default default. Because otherwise, I press the           |
 | 01:36:51   | foot pedal, and I had this before where I was pressing buttons. Fortunately, they are buttons            |
 | 01:36:56   | that are blank on my default profile, but I press it and nothing would happen. And then I glance         |
-| 01:37:01   | down at the Stream Deck and go, oh, that's because there's no button there. And I now have to open       |
+| 01:37:01   | down at the [[Stream Deck]] and go, oh, that's because there's no button there. And I now have to open       |
 | 01:37:05   | the correct profile while I'm podcasting and trying to do all the other things. So I need to             |
 | 01:37:10   | figure out why it's bouncing back or just the correct way to solve this problem.                         |
 | 01:37:17   | Yeah. I haven't had that problem yet, but I haven't been using it that long.                             |
 | 01:37:21   | One big mistake I made was it prompted me and said, do you want to copy your profiles from               |
-| 01:37:27   | your Stream Deck to your... And I just clicked yes without thinking. Well, of course, I have a           |
-| 01:37:32   | Stream Deck with 30 buttons and then a thing with three buttons. That was really dumb to copy            |
+| 01:37:27   | your [[Stream Deck]] to your... And I just clicked yes without thinking. Well, of course, I have a           |
+| 01:37:32   | [[Stream Deck]] with 30 buttons and then a thing with three buttons. That was really dumb to copy            |
 | 01:37:37   | those profiles over. So I'm going to delete them all, which you can do. And if you delete them on        |
-| 01:37:42   | the panel, it does not delete them for the Stream Deck. So I'm going to delete them all and start        |
+| 01:37:42   | the panel, it does not delete them for the [[Stream Deck]]. So I'm going to delete them all and start        |
 | 01:37:47   | over. But I think there's something to this, and I just have to figure out, like I was playing with      |
 | 01:37:53   | in the MacSparky Labs video where I set up the [[Safari]] to move between tabs with the right or left        |
 | 01:37:59   | tab on the thing. You could navigate. That doesn't really make sense. I can do that                      |
@@ -1187,14 +1187,14 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:39:02   | the weirdest positions despite the fact that I've got an air on, which is designed so that it's          |
 | 01:39:07   | really difficult to sit badly in this chair. I still somehow manage it. But I found, actually,           |
 | 01:39:13   | it has got quite a bit of utility. I'm going into meeting mode, hit the button with my foot. I don't     |
-| 01:39:20   | have to reach down and look at the buttons on my Stream Deck for that because that's                     |
+| 01:39:20   | have to reach down and look at the buttons on my [[Stream Deck]] for that because that's                     |
 | 01:39:26   | just a bunch of profile that I want to have available at pretty much any moment. Actually,               |
 | 01:39:31   | it's a screen sharing one. I think now that I'm thinking about it that I trigger. But it's really        |
 | 01:39:36   | useful to be able to do that or just set all my window layouts back to the normal layout                 |
 | 01:39:42   | please. You know, I've been shuffling things around and rearranging them for fixing this problem.        |
 | 01:39:47   | I'm now starting on a new problem, just reset everything to the way it should be.                        |
 | 01:39:51   | And that's been really handy to have just because I actually enjoy having those things                   |
-| 01:39:59   | available without having them take up icons on my Stream Deck, which I try to keep                       |
+| 01:39:59   | available without having them take up icons on my [[Stream Deck]], which I try to keep                       |
 | 01:40:06   | just to the things that I want to be able to reach down and hit a button. But I'm thinking               |
 | 01:40:12   | about which button it is when I hit it, whereas the pedals, I don't think I just tap,                    |
 | 01:40:17   | which I think is the difference there for me. Yeah. Yeah. It's early. I think we'll talk about this      |

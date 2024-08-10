@@ -644,11 +644,11 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 35:19      | shortcuts.                                                                                               |
 | 35:20      | I have to admit, though, for me, the setup shortcuts like all the [[Keyboard Maestro]] stuff                 |
 | 35:24      | to prepare for podcasting or doing one of these things, I really, since I've got a                       |
-| 35:30      | Stream Deck in my life, I've just got a row of buttons dedicated to those.                               |
+| 35:30      | [[Stream Deck]] in my life, I've just got a row of buttons dedicated to those.                               |
 | 35:33      | And there's something very satisfying about sitting down and pressing a button on the                    |
-| 35:37      | Stream Deck and having your computer just reconfigure itself for you like a transformer.                 |
+| 35:37      | [[Stream Deck]] and having your computer just reconfigure itself for you like a transformer.                 |
 | 35:42      | Oh, yeah.                                                                                                |
-| 35:43      | I've got a Stream Deck as well to the XL one, the bigger one.                                            |
+| 35:43      | I've got a [[Stream Deck]] as well to the XL one, the bigger one.                                            |
 | 35:47      | And I find that especially useful when I'm on, especially when I'm like hosting and                      |
 | 35:52      | learn OmniFocus session or something like that, where there's a lot going on and presenting              |
 | 35:56      | on a topic that messages are flying into the chat box.                                                   |
@@ -662,9 +662,9 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 36:25      | Yes.                                                                                                     |
 | 36:26      | Yes.                                                                                                     |
 | 36:27      | I've been experimenting.                                                                                 |
-| 36:28      | I only got the 16 button Stream Deck, but I think I'm going to end up with 32 as well.                   |
+| 36:28      | I only got the 16 button [[Stream Deck]], but I think I'm going to end up with 32 as well.                   |
 | 36:31      | And then the 16 can be, you know, it can travel everywhere with my laptop basically.                     |
-| 36:37      | It's worth noting too that keyboard Maestro now supports the Stream Deck and the icons                   |
+| 36:37      | It's worth noting too that keyboard Maestro now supports the [[Stream Deck]] and the icons                   |
 | 36:43      | can even be changed as a result of what's happening in the keyboard Maestro macro.                       |
 | 36:49      | So if things are changing and they can reveal a status of this is in progress or on hold                 |
 | 36:54      | or it's done or something like that, and so in addition to having buttons to press the                   |
@@ -681,8 +681,8 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 37:43      | about the hyper key, but that stuff is out there where, you know, there's a lot of ways                  |
 | 37:46      | you can trigger shortcuts and palettes and keyboard Maestro are awesome, which gives                     |
 | 37:50      | you even more flexibility.                                                                               |
-| 37:52      | So you could do all this stuff without a Stream Deck, but as someone who doesn't like to have            |
-| 37:58      | a lot of extra stuff on my desk, the Stream Deck has absolutely earned its place for me.                 |
+| 37:52      | So you could do all this stuff without a [[Stream Deck]], but as someone who doesn't like to have            |
+| 37:58      | a lot of extra stuff on my desk, the [[Stream Deck]] has absolutely earned its place for me.                 |
 | 38:04      | Right now I have a Christmas music button.                                                               |
 | 38:05      | I want Christmas music.                                                                                  |
 | 38:06      | I just push a button.                                                                                    |
@@ -694,7 +694,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 38:24      | what sort of work mode you're in, or maybe you're not even working and they're more geared               |
 | 38:28      | towards, you know, watching some media or entertainment or something like that.                          |
 | 38:32      | So it can be, that's something you don't get from a keyboard.                                            |
-| 38:35      | The keyboard looks the same every time you look at it, but the Stream Deck and can really                |
+| 38:35      | The keyboard looks the same every time you look at it, but the [[Stream Deck]] and can really                |
 | 38:39      | shift.                                                                                                   |
 | 38:40      | Yeah.                                                                                                    |
 | 38:41      | Just kind of cue the things that you maybe want to be doing right now, provide as little                 |
@@ -702,13 +702,13 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 38:52      | Yeah.                                                                                                    |
 | 38:53      | I have no regrets over this purchase.                                                                    |
 | 38:56      | Maybe one day, Rose, we'll just have to do a show on all the stuff we're doing with                      |
-| 39:00      | these Stream Decks.                                                                                      |
+| 39:00      | these [[Stream Deck\|Stream Decks]].                                                                                      |
 | 39:01      | I don't know.                                                                                            |
-| 39:02      | Well, I think it would be interesting to see both what we're doing with Stream Decks                     |
-| 39:05      | and what we're not doing with Stream Decks because we've solved them in other ways.                      |
+| 39:02      | Well, I think it would be interesting to see both what we're doing with [[Stream Deck\|Stream Decks]]                     |
+| 39:05      | and what we're not doing with [[Stream Deck\|Stream Decks]] because we've solved them in other ways.                      |
 | 39:08      | Yeah.                                                                                                    |
 | 39:09      | Yeah.                                                                                                    |
-| 39:10      | I've even heard of people having multiple Stream Decks where you can have one that kind                  |
+| 39:10      | I've even heard of people having multiple [[Stream Deck\|Stream Decks]] where you can have one that kind                  |
 | 39:13      | of sets the mode for the other one too.                                                                  |
 | 39:16      | Yes.                                                                                                     |
 | 39:17      | Oh my goodness.                                                                                          |
@@ -724,7 +724,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 39:43      | I feel like that's Kryptonite for me.                                                                    |
 | 39:45      | I don't want to get near it.                                                                             |
 | 39:47      | Yeah.                                                                                                    |
-| 39:48      | Sparky needs more Stream Decks.                                                                          |
+| 39:48      | Sparky needs more [[Stream Deck\|Stream Decks]].                                                                          |
 | 39:49      | That's the secret.                                                                                       |
 | 39:50      | Yeah.                                                                                                    |
 | 39:51      | That's the secret.                                                                                       |
@@ -738,11 +738,11 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 40:01      | They do have an app as well that runs on the iPhone.                                                     |
 | 40:04      | Yeah.                                                                                                    |
 | 40:05      | I haven't actually used it, but yeah, that's a subscription option, but it's great to try                |
-| 40:10      | out if you're looking at the Stream Deck going, I don't know if I want it because the stream             |
+| 40:10      | out if you're looking at the [[Stream Deck]] going, I don't know if I want it because the stream             |
 | 40:13      | deck hardware itself can be kind of pricey, but if you get it on sale on Amazon, it's                    |
 | 40:18      | worth it for sure.                                                                                       |
 | 40:21      | And even if you don't, if you've got the right automations, it's great, but if you                       |
-| 40:24      | want to try it, then you can try the Stream Deck app on like an iPhone or an iPad and                    |
+| 40:24      | want to try it, then you can try the [[Stream Deck]] app on like an iPhone or an iPad and                    |
 | 40:28      | subscribe for a month to see if it's worth it for you.                                                   |
 | 40:33      | This episode is brought to you by Pingdom from SolarWinds.                                               |
 | 40:37      | Today's internet users expect a fast web experience, no matter how good your content                     |

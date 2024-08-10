@@ -160,7 +160,7 @@ flowchart LR
 ```
 
 > [!Info] ⏰  Reminder
->This process is triggered within Path Finder on my local Mac via a Stream Deck button. Select the file, push the button, let the magic happen.
+>This process is triggered within Path Finder on my local Mac via a [[Stream Deck]] button. Select the file, push the button, let the magic happen.
 
 ## Get Episode Number for VTT File
 **Automation Tools:** [[Keyboard Maestro]], Shell Script.

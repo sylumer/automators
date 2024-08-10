@@ -507,11 +507,11 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 35:44      | time and effort to remove it. And they're not going to spend money to remove it. And also,              |
 | 35:51      | they have customers that buy a lot of Macs that do workflows that still use AppleScript. Apple         |
 | 35:56      | uses AppleScripts to run their stuff. So I think it's not going to go away. And honestly, a lot        |
-| 36:01      | of times it's the quickest, fastest solution. This week, because my Stream Deck I'm putting it on,      |
+| 36:01      | of times it's the quickest, fastest solution. This week, because my [[Stream Deck]] I'm putting it on,      |
 | 36:09      | I've been trying to [[BetterTouchTool]], I want to turn volume up and down in [[Apple Music]]                 |
 | 36:14      | without changing the volume of my Mac. And I just opened AppleScript. I looked at the music            |
 | 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line AppleScript            |
-| 36:24      | that turns the volume up and down. And I attached it to buttons on my Stream Deck. And maybe I          |
+| 36:24      | that turns the volume up and down. And I attached it to buttons on my [[Stream Deck]]. And maybe I          |
 | 36:30      | could have found a scripting solution that did that. But it's just so easy. You should have a           |
 | 36:36      | little working knowledge of AppleScript, I guess is what I'm saying. Yeah, it's one of those things    |
 | 36:40      | where often if you Google how to solve this thing on the Mac, there'll be a little bit of Apple         |
@@ -657,7 +657,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 49:08      | hey, wait a minute, what if I just went over and ran image magic from Homebrew and I embedded that      |
 | 49:12      | inside of a [[Keyboard Maestro]] macro. Now that's in my brain. Oh, that's another way to go. I could       |
 | 49:18      | write a shell script in order to, but still use it in [[Keyboard Maestro]] and then maybe attach it to      |
-| 49:23      | my Stream Deck. Each one of these things you do, every time you do it, you're adding to your knowledge  |
+| 49:23      | my [[Stream Deck]]. Each one of these things you do, every time you do it, you're adding to your knowledge  |
 | 49:28      | base. Just like you said, that's a really good point. And it really is remarkable right now             |
 | 49:33      | on the Mac. I feel like we're entering this golden age where you've got [[Hazel]], [[Keyboard Maestro]],        |
 | 49:40      | shortcuts, scripting, even all these different tools. And in the last year, they've all learned         |
@@ -675,12 +675,12 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 50:52      | are some of the most handy. I like to trigger focus modes. You mentioned earlier, hitting               |
 | 50:59      | a focus mode like do not disturb or I have one for podcasting. It's too much work on the Mac.           |
 | 51:06      | And if you trigger a shortcut, you can have a shortcut that has a one action that says                  |
-| 51:13      | start a focus mode. And then you can attach that to a Stream Deck button or a keyboard                  |
+| 51:13      | start a focus mode. And then you can attach that to a [[Stream Deck]] button or a keyboard                  |
 | 51:18      | combination or run it out of, but we can make it as part of a bigger script like you have               |
 | 51:23      | when you start preparing. Those little single actions and shortcuts,                                    |
 | 51:28      | they're absolutely reliable and they're flexible too. Like the other thing you had said earlier was,    |
 | 51:34      | you know, I don't want the do not disturb to wait for an hour or wait for an event and just             |
-| 51:39      | to start. Well, I can tell you, I have two sets. Like I have a Stream Deck panel that's all about       |
+| 51:39      | to start. Well, I can tell you, I have two sets. Like I have a [[Stream Deck]] panel that's all about       |
 | 51:46      | focus modes. And if the button is in gray, like the button with a microphone is gray and I press        |
 | 51:53      | that it's going to turn on podcasting focus mode till the event ends. But if I press the microphone     |
 | 51:58      | with the orange background, it's just going to turn on podcasting focus mode and it's not going to      |
@@ -777,9 +777,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:00:22   | the blank fields, time stamps and more. This will make sure that you still keep the personality         |
 | 01:00:27   | and the communications you send. And TextExpander is available on any device you use across any         |
 | 01:00:33   | app use on Mac, Windows, Chrome and iOS. I use TextExpander for nearly everything.                      |
-| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote Stream Deck       |
+| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote [[Stream Deck]]       |
 | 01:00:44   | but I put no space. For some reason I was thinking it was camel case. So I made a TextExpander snippet. |
-| 01:00:50   | So anytime I type Stream Deck with no space it adds a space using a snippet. Just little human          |
+| 01:00:50   | So anytime I type [[Stream Deck]] with no space it adds a space using a snippet. Just little human          |
 | 01:00:56   | built-in typos can get fixed like that with TextExpander but I can also fill in entire contracts        |
 | 01:01:01   | with TextExpander language. It really boosts your productivity. If repetitive typing is getting         |
 | 01:01:07   | you down you need TextExpander. So check out TextExpander today at textexpander.com/              |

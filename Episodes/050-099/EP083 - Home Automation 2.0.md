@@ -823,7 +823,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 42:16      | And then if I long press it, it turns on because outside my window, there's a little pond with    |
 | 42:21      | a fountain.                                                                                       |
 | 42:22      | It turns on the fountain and so or the waterfall really, but the switches and all this stuff      |
-| 42:29      | is stuff I could have done with home kit, I can even attach it now to a Stream Deck               |
+| 42:29      | is stuff I could have done with home kit, I can even attach it now to a [[Stream Deck]]               |
 | 42:34      | with a third party apple probably get into later.                                                 |
 | 42:37      | But you know, but there's something nice about a physical switch that you can just touch          |
 | 42:41      | and it does it.                                                                                   |

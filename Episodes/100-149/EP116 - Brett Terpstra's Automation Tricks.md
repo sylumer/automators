@@ -750,7 +750,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:10:55   | All right. I will check that out because what you just described, I have that exact same automation       |
 | 01:11:01   | setup in Indigo where I have a motion detector on my office. If I walk in and it's between certain        |
 | 01:11:07   | hours, it will turn on the lights to 20%. And then if I, after sitting in, you know,                      |
-| 01:11:15   | semi-darkness for a while, decide, okay, my eyes have adjusted. If I hit a button on my Stream Deck       |
+| 01:11:15   | semi-darkness for a while, decide, okay, my eyes have adjusted. If I hit a button on my [[Stream Deck]]       |
 | 01:11:21   | that raises the lights to 100%, it registers that I have manually overridden. And next time that          |
 | 01:11:29   | motion detector goes off, it will just give me back to 100% until the next, that night cycle              |
 | 01:11:36   | happens again. I think that's totally possible with [[Home Assistant]]. Yeah. Okay. Good to know.             |

@@ -411,7 +411,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 21:30      | And so at the end of the day, and after I finish going through with the email and things,          |
 | 21:35      | I try to shut the day down and go through and make sure everything is just kind of ready           |
 | 21:40      | for the next day.                                                                                  |
-| 21:42      | But I push a button on my Stream Deck, and I could do this on the time trigger.                    |
+| 21:42      | But I push a button on my [[Stream Deck]], and I could do this on the time trigger.                    |
 | 21:47      | Maybe there's better ways to do it, but I like the physicality of pushing the button.              |
 | 21:50      | But then it just runs a [[Keyboard Maestro]] script.                                                   |
 | 21:53      | Then it does clear out all my windows.                                                             |

@@ -496,15 +496,15 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 20:59      | They're so good and make me not have to write a script, please.                                                  |
 | 21:03      | So [[Hazel]], I am using [[Keyboard Maestro]].                                                                           |
 | 21:09      | I use quite a bit.                                                                                               |
-| 21:10      | I bought a Stream Deck.                                                                                          |
+| 21:10      | I bought a [[Stream Deck]].                                                                                          |
 | 21:12      | Hi, everybody.                                                                                                   |
-| 21:14      | I bought a Stream Deck.                                                                                          |
+| 21:14      | I bought a [[Stream Deck]].                                                                                          |
 | 21:15      | I bought a mini.                                                                                                 |
 | 21:16      | It's only got six buttons on it.                                                                                 |
 | 21:17      | Okay, let's get asked.                                                                                           |
 | 21:18      | How many buttons does this got?                                                                                  |
 | 21:19      | Six.                                                                                                             |
-| 21:20      | I was very much like I don't see the point of the Stream Deck for a very long time.                              |
+| 21:20      | I was very much like I don't see the point of the [[Stream Deck]] for a very long time.                              |
 | 21:24      | And I finally was like, all right, I sort of see it,                                                             |
 | 21:26      | but I'm not buying one of those with lots of buttons.                                                            |
 | 21:28      | So I got the little one.                                                                                         |

@@ -1286,11 +1286,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:23:30   | One of the things I've been doing, which is just really Automators 101, but it has a very                |
 | 01:23:35   | robust keyboard shortcut system.                                                                         |
 | 01:23:38   | And since this is at this point at least a Mac-only app, I have mapped out an entire                     |
-| 01:23:43   | panel of Stream Deck to this app.                                                                        |
-| 01:23:48   | So when I load this app, you can have it, Stream Deck has an option to automatically load a              |
+| 01:23:43   | panel of [[Stream Deck]] to this app.                                                                        |
+| 01:23:48   | So when I load this app, you can have it, [[Stream Deck]] has an option to automatically load a              |
 | 01:23:52   | panel based on which app you're running.                                                                 |
 | 01:23:55   | A lot of the more obscure keyboard shortcut stuff that I don't seem to be able to remember,              |
-| 01:24:00   | I've just added buttons to my Stream Deck for it.                                                        |
+| 01:24:00   | I've just added buttons to my [[Stream Deck]] for it.                                                        |
 | 01:24:03   | Another way that I found it very easy to work with this is doing text replacement stuff,                 |
 | 01:24:09   | like TextExpander or whatnot.                                                                           |
 | 01:24:11   | And also, as I talked about during the show today, creating custom actions and [[Drafts]] where              |
@@ -1305,17 +1305,17 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:24:49   | take an app and kind of take the reins of it using automation tools.                                     |
 | 01:24:53   | Yeah.                                                                                                    |
 | 01:24:54   | I really like that.                                                                                      |
-| 01:24:55   | And I'm glad you mentioned that you can automatically change which Stream Deck profile for the app       |
+| 01:24:55   | And I'm glad you mentioned that you can automatically change which [[Stream Deck]] profile for the app       |
 | 01:25:00   | that you're in, because I find sometimes this is exactly what I need, and sometimes this                 |
 | 01:25:06   | is not what I need.                                                                                      |
-| 01:25:07   | So I've actually dedicated the bottom right-hand corner of my Stream Deck on every single profile        |
+| 01:25:07   | So I've actually dedicated the bottom right-hand corner of my [[Stream Deck]] on every single profile        |
 | 01:25:14   | pretty much to a return to my default profile button, because you can change profiles.                   |
 | 01:25:22   | Which means that when I open OmniFocus, I get my OmniFocus profile and things like that,                 |
 | 01:25:28   | which really helps.                                                                                      |
 | 01:25:30   | But then if I need my regular one, because say I'm in OmniFocus, but now I'm going to                    |
 | 01:25:34   | record automators, so I need my podcasting profile, then I can just bounce back to my                    |
 | 01:25:39   | default one.                                                                                             |
-| 01:25:40   | And then from there, it's essentially an index of my Stream Deck profile.                                |
+| 01:25:40   | And then from there, it's essentially an index of my [[Stream Deck]] profile.                                |
 | 01:25:45   | So I can easily go back to whatever it is I need to do.                                                  |
 | 01:25:48   | So then it's two buttons to get me into podcasting mode.                                                 |
 | 01:25:52   | And that's great.                                                                                        |
@@ -1325,11 +1325,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:26:02   | I should probably change it, because the bottom left is the most inaccessible one, so I'm                |
 | 01:26:06   | less likely to press that accidentally.                                                                  |
 | 01:26:10   | But I'll have to see.                                                                                    |
-| 01:26:11   | I'm also loving the fact that Stream Deck has got so many integrations and apps.                         |
+| 01:26:11   | I'm also loving the fact that [[Stream Deck]] has got so many integrations and apps.                         |
 | 01:26:15   | I recently installed Ecamm Live for iOS today, so I can share my screen.                                 |
 | 01:26:20   | And I love the fact that there are actions for this, so I have my different profiles,                    |
 | 01:26:25   | so I can share iPad versus iPhone versus me.                                                             |
-| 01:26:29   | I like the Stream Deck so much.                                                                          |
+| 01:26:29   | I like the [[Stream Deck]] so much.                                                                          |
 | 01:26:31   | I know that it's an expense, and there are apps out there where you can turn an iPad                     |
 | 01:26:36   | screen into some of these features.                                                                      |
 | 01:26:38   | But there's just something to be said to have a panel of physical buttons next to your Mac,              |
@@ -1343,16 +1343,16 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:27:12   | I've been able to map using [[Keyboard Maestro]] and choose from menu item in [[Keyboard Maestro]].              |
 | 01:27:20   | That's like a very simple command in [[Keyboard Maestro]], but you can go many layers deep                   |
 | 01:27:24   | in submenus and get features added to a [[Keyboard Maestro]] script.                                         |
-| 01:27:29   | And then there is a third-party plugin for the Stream Deck called KMLink.                                |
+| 01:27:29   | And then there is a third-party plugin for the [[Stream Deck]] called KMLink.                                |
 | 01:27:35   | I want to say TJ turned me on to this, but I'm not sure who turned me on to it.                          |
 | 01:27:40   | But the thing I like about that over the native [[Keyboard Maestro]] integration is that once                |
-| 01:27:45   | you put a KMLink script on your Stream Deck, you can move it around.                                     |
-| 01:27:51   | You can drag it to different places on the Stream Deck and the Stream Deck app and not                   |
+| 01:27:45   | you put a KMLink script on your [[Stream Deck]], you can move it around.                                     |
+| 01:27:51   | You can drag it to different places on the [[Stream Deck]] and the [[Stream Deck]] app and not                   |
 | 01:27:57   | have to remap it, because with the built-in one, you have to map it to a particular button.              |
 | 01:28:01   | And I find that really useful to kind of get the layout the way I want.                                  |
 | 01:28:06   | But either way, anytime I want, those three buttons are at the bottom of literally every                 |
-| 01:28:10   | screen on my Stream Deck.                                                                                |
-| 01:28:13   | So I think the Stream Deck is the new drinking game for automators.                                      |
+| 01:28:10   | screen on my [[Stream Deck]].                                                                                |
+| 01:28:13   | So I think the [[Stream Deck]] is the new drinking game for automators.                                      |
 | 01:28:17   | Well, let's see how frequently it comes up, David.                                                       |
 | 01:28:21   | I'm thinking more of a dark chocolate game myself.                                                       |
 | 01:28:23   | An excuse for dark chocolate, right?                                                                     |

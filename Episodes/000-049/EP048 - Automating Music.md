@@ -415,11 +415,11 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 20:17      | for music, then you usually just need to replace the word iTunes with music.                           |
 | 20:22      | And there's more information out there on Doug's site if you want to change something else.               |
 | 20:26      | So where are you bringing in automated music on your Mac?                                              |
-| 20:31      | I am primarily bringing in by having it connected to some [[Keyboard Maestro]] Stream Deck actions.        |
-| 20:39      | So we recently talked about how I wasn't using the Stream Deck as much as I wanted to.                 |
+| 20:31      | I am primarily bringing in by having it connected to some [[Keyboard Maestro]] [[Stream Deck]] actions.        |
+| 20:39      | So we recently talked about how I wasn't using the [[Stream Deck]] as much as I wanted to.                 |
 | 20:44      | But I've got it.                                                                                       |
 | 20:45      | I had it posted to me because I'm in the UK and my stuff is in Australia.                              |
-| 20:48      | But along with some other necessary items, I had the Stream Deck put in a box for me.                  |
+| 20:48      | But along with some other necessary items, I had the [[Stream Deck]] put in a box for me.                  |
 | 20:53      | And I've now got that set up.                                                                          |
 | 20:55      | And that is really nice.                                                                               |
 | 20:56      | You know, I'm there in the mornings and I hit button and it, you know, rearranges some                 |

@@ -320,7 +320,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 22:10      | like move this to there. I do that. For some reason, I prefer to use the terminal to move files to       |
 | 22:19      | certain locations. Like, for example, when I installed TJ Luoma, it's a Fantastical stream                |
 | 22:25      | deck system. I'm calling it a system because it's a whole bunch of [[Keyboard Maestro]] macros               |
-| 22:30      | plus Stream Deck integration. I did, I moved those files I needed to move with [[Alfred]],                   |
+| 22:30      | plus [[Stream Deck]] integration. I did, I moved those files I needed to move with [[Alfred]],                   |
 | 22:36      | rather than anything else. It also has integration with custom themes and 1Password. And sync         |
 | 22:43      | is one of the power pack features. And I personally do love the sync. Even if you only have one mac,     |
 | 22:49      | it means that you're [[Alfred]] settings. It's not really a backup because it's a sync,                      |
@@ -901,7 +901,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:16:33   | just say, automators or nested folders, iOS today, and things like that. And it means also, then         |
 | 01:16:40   | when I get to my Mac, it's, you love contextual computing. My Mac is already going to be in              |
 | 01:16:46   | the context that I need when I get to it because I'll press the button on my way there. So,              |
-| 01:16:50   | I'm quite happy about that. That's a Stream Deck problem for me. But I get it. I mean,                   |
+| 01:16:50   | I'm quite happy about that. That's a [[Stream Deck]] problem for me. But I get it. I mean,                   |
 | 01:16:55   | I think it's cool. I think if you're doing remote stuff, the more ways you have to control your          |
 | 01:17:00   | computer or the better. And honestly, remote control, belt and suspenders is a really good               |
 | 01:17:08   | idea. Because sometimes something for one reason or another just doesn't work.                           |

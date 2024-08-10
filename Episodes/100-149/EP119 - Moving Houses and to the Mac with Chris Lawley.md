@@ -1607,10 +1607,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:29:49   | Like I don't know how anyone can use them.                                                                |
 | 01:29:52   | It does break your brain a little bit sometimes.                                                          |
 | 01:29:54   | Yeah.                                                                                                     |
-| 01:29:55   | So going back to the macro pad, are you using things like a Stream Deck or similar as well                |
+| 01:29:55   | So going back to the macro pad, are you using things like a [[Stream Deck]] or similar as well                |
 | 01:30:02   | for videos or are you just all in on the macro pads?                                                      |
-| 01:30:05   | So right now I'm all in on the macro pad, but Stream Deck actually just sent me the                       |
-| 01:30:10   | new Stream Deck plus.                                                                                     |
+| 01:30:05   | So right now I'm all in on the macro pad, but [[Stream Deck]] actually just sent me the                       |
+| 01:30:10   | new [[Stream Deck#Stream Deck+]].                                                                                     |
 | 01:30:11   | Oh, I love it.                                                                                            |
 | 01:30:12   | I love it.                                                                                                |
 | 01:30:13   | Disclosure.                                                                                               |
@@ -1624,10 +1624,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:30:28   | Yeah.                                                                                                     |
 | 01:30:29   | Because I can share a secret with you.                                                                    |
 | 01:30:30   | First of all, well, two secrets.                                                                          |
-| 01:30:32   | There are other like systems like extensions that you can download into the Stream Deck                   |
+| 01:30:32   | There are other like systems like extensions that you can download into the [[Stream Deck]]                   |
 | 01:30:37   | software for like Zoom, OBS, and I'm using it with Ecamm Live and things like that.                       |
-| 01:30:43   | So you can download that into the software or uninstall the Stream Deck software, install                 |
-| 01:30:49   | [[BetterTouchTool]], and let [[BetterTouchTool]] take over your Stream Deck.                                  |
+| 01:30:43   | So you can download that into the software or uninstall the [[Stream Deck]] software, install                 |
+| 01:30:49   | [[BetterTouchTool]], and let [[BetterTouchTool]] take over your [[Stream Deck]].                                  |
 | 01:30:52   | See, I've been meaning to do that and I just haven't had time to do that.                                 |
 | 01:30:56   | I've heard, I think it was you that talked about it in the past that I heard you talk                     |
 | 01:30:59   | and I was like, oh, I should do that and I wrote it down and I've just never gotten                       |
@@ -1635,21 +1635,21 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:31:02   | It's worth it.                                                                                            |
 | 01:31:03   | So the OBS stuff, the Zoom stuff, I don't do a whole lot of those kinds of things.                        |
 | 01:31:08   | Like I don't do a lot, a lot of live streaming or anything like that.                                     |
-| 01:31:12   | So for me, the Stream Deck plus the only really, the thing that I only use the knobs for was              |
+| 01:31:12   | So for me, the [[Stream Deck#Stream Deck+]] the only really, the thing that I only use the knobs for was              |
 | 01:31:17   | volume control.                                                                                           |
 | 01:31:18   | It was nice to have there that you could do that.                                                         |
-| 01:31:20   | But like the regular Stream Deck, the 15, 16 button one, whatever the normal, the normal                  |
+| 01:31:20   | But like the regular [[Stream Deck]], the 15, 16 button one, whatever the normal, the normal                  |
 | 01:31:27   | one is, is just, it's so, it's perfect for like, if you want like a programmable macro                    |
 | 01:31:34   | pad.                                                                                                      |
 | 01:31:35   | But I really like the keyboard macro pads because one, I like those switches.                             |
 | 01:31:40   | I like that clicky sound.                                                                                 |
 | 01:31:41   | I like being able to customise the keycaps.                                                               |
-| 01:31:44   | And then with via, I can program all the stuff that, you know, I would do on the Stream Deck              |
+| 01:31:44   | And then with via, I can program all the stuff that, you know, I would do on the [[Stream Deck]]              |
 | 01:31:49   | into like the function buttons and stuff on, on my normal mode 80 keyboard.                               |
 | 01:31:55   | Yeah.                                                                                                     |
 | 01:31:56   | Yeah.                                                                                                     |
 | 01:31:57   | That, that makes a lot of sense.                                                                          |
-| 01:31:58   | I personally really like the Stream Deck for, for the fact that the, the pictures behind                  |
+| 01:31:58   | I personally really like the [[Stream Deck]] for, for the fact that the, the pictures behind                  |
 | 01:32:02   | the button can change.                                                                                    |
 | 01:32:03   | Yeah.                                                                                                     |
 | 01:32:04   | That's cool.                                                                                              |
@@ -1664,8 +1664,8 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:32:37   | Um, when I'm not, um, which could just be confusing for people.                                           |
 | 01:32:41   | Um, but yeah, it's, it's, it's one of those things where setting it up, it takes a little                 |
 | 01:32:46   | bit of work, but I feel like it's worth it.                                                               |
-| 01:32:48   | And I, I've really been trying to get more stuff onto the Stream Deck and, and was particularly           |
-| 01:32:53   | with the Stream Deck plus, uh, the, the touch bar, I, I need to check if there's an update                |
+| 01:32:48   | And I, I've really been trying to get more stuff onto the [[Stream Deck]] and, and was particularly           |
+| 01:32:53   | with the [[Stream Deck#Stream Deck+]], uh, the, the touch bar, I, I need to check if there's an update                |
 | 01:32:57   | for [[BetterTouchTool]].                                                                                    |
 | 01:32:58   | Cause, um, I, I've enabled the alpha and I know that last time I checked, um, the, um,                    |
 | 01:33:06   | the touch screen was not yet supported and neither was like a double press on the knobs                   |
@@ -1674,7 +1674,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:33:21   | It's just not here yet.                                                                                   |
 | 01:33:23   | So hold tight.                                                                                            |
 | 01:33:24   | Um, so yeah, but definitely take a look at it.                                                            |
-| 01:33:27   | I personally feel like it is an excellent way to dive into, uh, the Stream Deck a little                  |
+| 01:33:27   | I personally feel like it is an excellent way to dive into, uh, the [[Stream Deck]] a little                  |
 | 01:33:33   | more than, uh, then you, then you may have done, and particularly when you've got things                  |
 | 01:33:37   | like shortcuts that you want to run, it's so easy to just run a shortcut from better                      |
 | 01:33:40   | touch tool.                                                                                               |
@@ -1703,13 +1703,13 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:34:27   | It's, it's going to be good fun.                                                                          |
 | 01:34:28   | And, uh, it's one of those things where like being able to really dive into better touch                  |
 | 01:34:31   | tool and it as an alternative control system is great, um, for, for folks who use windows,                |
-| 01:34:37   | the Stream Deck software is much more powerful on windows, uh, than it is, uh, on Mac, uh,                |
+| 01:34:37   | the [[Stream Deck]] software is much more powerful on windows, uh, than it is, uh, on Mac, uh,                |
 | 01:34:43   | for various reasons, which are not entirely clear to me.                                                  |
-| 01:34:46   | Um, I think it's just that the Stream Deck folks like windows more and think that more                    |
+| 01:34:46   | Um, I think it's just that the [[Stream Deck]] folks like windows more and think that more                    |
 | 01:34:52   | windows people will use it.                                                                               |
 | 01:34:53   | Um, I think it's a chicken and the egg problem, like the Microsoft phone, there are no users              |
 | 01:34:57   | because there are no apps and there are no apps because there are no users.                               |
-| 01:35:00   | We'll have fewer people using the Stream Deck if there's not great software for it.                       |
+| 01:35:00   | We'll have fewer people using the [[Stream Deck]] if there's not great software for it.                       |
 | 01:35:03   | But hey, [[BetterTouchTool]] is here to save the day.                                                       |
 | 01:35:06   | So, uh, yeah, we'll have to, uh, dive into that in a future episode.                                      |
 | 01:35:09   | Now that that's fully here, I may actually have to take this, this, uh, stream day plus                   |

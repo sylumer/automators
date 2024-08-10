@@ -696,7 +696,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 58:13      | with me when I travel, if I'm planning on doing any work is the portable office. Okay. So just to         |
 | 58:21      | get folks a bit of a rundown, the portable office includes obviously a laptop. It also includes a         |
 | 58:25      | Keychron keyboard, a mouse, portable monitor, portable monitor stand, laptop riser, and potentially      |
-| 58:32      | microphone, XLR interface, Stream Deck, and things like ethernet cables, cables to connect                |
+| 58:32      | microphone, XLR interface, [[Stream Deck]], and things like ethernet cables, cables to connect                |
 | 58:38      | portable monitor to the laptop, et cetera, et cetera, et cetera. This is a lot of gear. Now,              |
 | 58:44      | I'm not imagining that I can get rid of the microphone and the XLR interface if I'm planning              |
 | 58:48      | on doing any podcasting. But I'm definitely imagining laptop riser, portable monitor,                     |

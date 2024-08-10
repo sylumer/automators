@@ -205,7 +205,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 14:40      | sort of threshold. I know that this is nonsense to some people, I apologise.                            |
 | 14:46      | No, it makes sense. You're trying to run a command and it doesn't have automation for that.             |
 | 14:51      | And I just needed to click a bunch of little buttons and I couldn't do that until I set up              |
-| 15:00      | [[Keyboard Maestro]] with my Stream Deck and now it works. And I should have done it a long time ago,       |
+| 15:00      | [[Keyboard Maestro]] with my [[Stream Deck]] and now it works. And I should have done it a long time ago,       |
 | 15:08      | but it's there now and I'm grateful for it. So you're telling me that Alex is using keyboard            |
 | 15:15      | maestro doing setups and contextual computing with automation? Are you gaslighting me? Are you          |
 | 15:22      | just trying to get me all excited? I mean, what's going on here? I mean, I heard the magic focus        |
@@ -294,7 +294,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 26:06      | I can just run my MacBook Air in clamshell mode. And I don't need to worry about things being           |
 | 26:16      | pixel perfect anymore, because it's automatically set up that way. But before I would accidentally      |
 | 26:23      | delete a complete track or something with [[Keyboard Maestro]], I'm also Oh, sorry, I'm                     |
-| 26:32      | also using a Stream Deck to run the keyboard, a lot of that stuff in yeah, to run those scripts.        |
+| 26:32      | also using a [[Stream Deck]] to run the keyboard, a lot of that stuff in yeah, to run those scripts.        |
 | 26:42      | Although I have to say, as I learn more about [[Keyboard Maestro]], I'm realising more and more             |
 | 26:51      | each year, along with certain, certain [[AppleScript\|AppleScripts]], shortcuts can do just like more and               |
 | 26:58      | more of it. And whenever I go to like Google something, I don't understand it turns out                 |
@@ -425,9 +425,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 39:11      | whatever it is that you want to do next, once you've built the structure, you duplicate it,             |
 | 39:16      | you change a few things, and then you've got it, you know, and then the last piece of these             |
 | 39:21      | setups is having an easy way to trigger them. And you had said that you were doing it with a            |
-| 39:26      | Stream Deck, which is great. Like [[Keyboard Maestro]], you know, you set up a button, run a keyboard       |
+| 39:26      | [[Stream Deck]], which is great. Like [[Keyboard Maestro]], you know, you set up a button, run a keyboard       |
 | 39:32      | maestro script, you can do the same thing with shortcuts or a bunch. But, you know,                     |
-| 39:36      | making triggers on a Stream Deck is great. If you're using [[Keyboard Maestro]], a conflict                 |
+| 39:36      | making triggers on a [[Stream Deck]] is great. If you're using [[Keyboard Maestro]], a conflict                 |
 | 39:40      | palette can work. There's, there's a lot of different ways. But as you start getting into               |
 | 39:43      | this, you should think about, well, how do I want to trigger these? And what's the easiest way          |
 | 39:47      | for me to jump between them? Yeah, I didn't even mention [[Alfred]] and [[Raycast]], which                      |
@@ -512,7 +512,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 49:02      | another NFC tag. This is a question. Well, I think I will be able to answer this question               |
 | 49:10      | myself. Since I run shortcuts via NFC tag, would I be able to trigger that shortcut and it also         |
 | 49:29      | talks to my muck and arranges it in a certain way? Oh my gosh, I'm so happy. In theory, I could         |
-| 49:37      | just hit a button on my Stream Deck. That's what I do now to set everything up. First thing in the      |
+| 49:37      | just hit a button on my [[Stream Deck]]. That's what I do now to set everything up. First thing in the      |
 | 49:47      | morning is whatever I want to do least. It opens up a specific OmniFocus context in the                 |
 | 50:01      | not context. A perspective that is a list of things I want to do least. It has a naughty word           |
 | 50:12      | as the tag. So let's just say the things I want to do least. It pops up in the corner and my email      |
@@ -636,9 +636,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:02:48   | things like podcasting, automated time tracking and things like that because I use a bunch to start     |
 | 01:02:52   | my podcasting mode. And one of the things it does is run a shortcut that starts my podcasting timer.    |
 | 01:02:59   | And so I can then look back on my week. Even if I've forgotten to do manual time tracking,              |
-| 01:03:04   | which, you know, I'm working on doing some stuff with the Stream Deck and so on, with Keyboard          |
+| 01:03:04   | which, you know, I'm working on doing some stuff with the [[Stream Deck]] and so on, with Keyboard          |
 | 01:03:09   | Maestro, I'm stealing from TJ Luoma as Fantastic L, Fantastic Pal, as script as an idea of like,         |
-| 01:03:16   | you know, I'll just have different colours on a Stream Deck button and have [[Keyboard Maestro]]             |
+| 01:03:16   | you know, I'll just have different colours on a [[Stream Deck]] button and have [[Keyboard Maestro]]             |
 | 01:03:20   | change it based on, you know, stuff that you can check or stuff that gets triggered, which happens      |
 | 01:03:26   | to be done thanks to, you know, timer and shortcuts. Then yeah, like, you know, I even if I forget to   |
 | 01:03:33   | do the manual stuff, it's amazing how much stuff does get logged. And things like turning down          |

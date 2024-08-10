@@ -746,28 +746,28 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 57:04      | this is why we like automation so much. Because once you can create your own trigger, then you       |
 | 57:10      | can make the app perform in the context that works for you. You don't have to go to the app. The app |
 | 57:15      | kind of comes to you. And that's why I feel like more developers need to get on this bandwagon.      |
-| 57:21      | I'm a big proponent of the Stream Decks. A lot of people have asked me, well,                        |
-| 57:24      | how do I get my timers on Stream Deck buttons? And there's a couple of different ways. The way       |
+| 57:21      | I'm a big proponent of the [[Stream Deck\|Stream Decks]]. A lot of people have asked me, well,                        |
+| 57:24      | how do I get my timers on [[Stream Deck]] buttons? And there's a couple of different ways. The way       |
 | 57:30      | I do it is just with them creating a little app. And in shortcuts, you can save a shortcut as an     |
-| 57:37      | app in your dock. And then you can run that as an app in the Stream Deck. And I find that to be      |
+| 57:37      | app in your dock. And then you can run that as an app in the [[Stream Deck]]. And I find that to be      |
 | 57:43      | the fastest and most consistent way for me to do it. I don't know, maybe Rose you have a different     |
 | 57:47      | way of doing it. But then you can also add your own thumbnail to it, go crazy with [[SF Symbols]] or     |
-| 57:54      | whatever. But I find that if you want to put in your Stream Deck, it's not that hard. But give it    |
+| 57:54      | whatever. But I find that if you want to put in your [[Stream Deck]], it's not that hard. But give it    |
 | 58:00      | its own page. Don't stick it everywhere. Or another alternative is if you have pages on a            |
-| 58:05      | Stream Deck related to context, like on my page here on my Stream Deck for podcasting, I have a      |
+| 58:05      | [[Stream Deck]] related to context, like on my page here on my [[Stream Deck]] for podcasting, I have a      |
 | 58:11      | little button that sets the timer in the focus modes if I forgot to do it some other way. And        |
 | 58:17      | it's just running a little shortcut out. So I've actually taken a different approach to my stream    |
 | 58:22      | deck in that I have a button and it's the button in the top right. And that kind of shows me what    |
 | 58:29      | I'm doing. And I say kind of shows me what I'm doing because I've created an icon for various        |
 | 58:35      | different things that I do based on the focus mode icons, which show me like you're currently        |
 | 58:41      | recording automators and so on. And I set the image of that using Keyboard My Show,                  |
-| 58:46      | which is something that I stole the idea of from TJ Luoma, who recently guest on Mac                 |
-| 58:51      | Power Users again. But he created a Fantastical app, or Mac Core series, which will read your        |
+| 58:46      | which is something that I stole the idea of from [[Timothy Luoma\|TJ Luoma]], who recently guest on Mac                 |
+| 58:51      | Power Users again. But he created a [[Fantastical]] app, or Mac Core series, which will read your        |
 | 59:01      | calendars and then show you, you know, in red, like, you know, there's a meeting in less than        |
 | 59:07      | five minutes or yellow, there's a meeting in the next 15 minutes or green, there's a meeting coming  |
 | 59:11      | up, but it's not right now. And so on or there's no events left for today, in which case you get     |
-| 59:16      | the Fantastical. And yeah, so I stole the idea from that because you can use Keyboard My Show to     |
-| 59:23      | do that. I'm working on switching things to using [[BetterTouchTool]] to control my Stream Decks.      |
+| 59:16      | the [[Fantastical]]. And yeah, so I stole the idea from that because you can use [[Keyboard Maestro]] to     |
+| 59:23      | do that. I'm working on switching things to using [[BetterTouchTool]] to control my [[Stream Deck\|Stream Decks]].      |
 | 59:27      | And so I need to figure out how I'm going to do that with that. But I don't think it's going to be   |
 | 59:31      | that difficult to do. And the fact that I can easily get my current status from Timery at any        |
 | 59:37      | point makes it super easy to decide, you know, what, you know, how long it has the time of running   |
@@ -776,7 +776,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 59:56      | at some point, because clearly, Apple didn't give you any homework this summer, you've already done. |
 | 01:00:01   | What's yours? 10, right? You know, you've just got interactive widgets. It's got to be a slam dunk.  |
 | 01:00:07   | It's possibly slightly more complicated than it sounds. But yeah, maybe at some point, if you've     |
-| 01:00:12   | got lots of free time, you'll figure out a way to support Stream Deck buttons from the Timery app.   |
+| 01:00:12   | got lots of free time, you'll figure out a way to support [[Stream Deck]] buttons from the Timery app.   |
 | 01:00:17   | But in the meantime, I think you've probably got plenty of other things to be implementing.          |
 | 01:00:21   | Is there anything in particular you're excited to be working on right now?                           |
 | 01:00:23   | Yeah, I am really excited about the interactive widgets. It was something I was hoping for since,    |

@@ -870,7 +870,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 46:58      | things are happening. So we bounced back a lot of things and we came up, actually had some great       |
 | 47:02      | suggestions from a lot of our readers that basically were able to add clever ways to use               |
 | 47:09      | sort of like [[Unix]] timestamps and stuff like that to sort of fake your way into it and then             |
-| 47:14      | combined also with stuff on the Stream Deck so that we could essentially have a one button,            |
+| 47:14      | combined also with stuff on the [[Stream Deck]] so that we could essentially have a one button,            |
 | 47:20      | press a button and then choose either from like a preset menu of things that have gone wrong,          |
 | 47:25      | right? Like some of these connection drops or somebody swears and needs to get removed or              |
 | 47:29      | you want to put it in a chapter or an ad or something like that and then just have like                |
@@ -883,15 +883,15 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 48:01      | immediately and then go write stuff down, you're always going to lose some time. Yeah, exactly.        |
 | 48:06      | So this does it like instantaneously and that was, that was huge. So it is still something             |
 | 48:10      | that I use pretty frequently when I'm recording a podcast to like sort of hit a button on my           |
-| 48:15      | Stream Deck and be like, oh, yep, got it. Cross talk there or something. Got to take that out.         |
+| 48:15      | [[Stream Deck]] and be like, oh, yep, got it. Cross talk there or something. Got to take that out.         |
 | 48:19      | And it's a great workflow. I was going to say, I have something similar, which I stole                 |
-| 48:25      | from a previous guest on the show, which I'm using the Stream Deck pedal and I'm curious,              |
-| 48:29      | Stream Deck or streamed at pedal or both? I've only used the stream. I just, I have,                   |
-| 48:34      | I'm still in the introductory Stream Deck. I have the six button. I know I haven't done the trade,     |
+| 48:25      | from a previous guest on the show, which I'm using the [[Stream Deck#Stream Deck Pedal]] and I'm curious,              |
+| 48:29      | [[Stream Deck]] or streamed at pedal or both? I've only used the stream. I just, I have,                   |
+| 48:34      | I'm still in the introductory [[Stream Deck]]. I have the six button. I know I haven't done the trade,     |
 | 48:38      | trade, you know, give it to a friend and then buy the bigger version yet, but I see how you people     |
-| 48:43      | work. So what you're saying is you're early in your Stream Deck indoctrination. Indeed.                |
+| 48:43      | work. So what you're saying is you're early in your [[Stream Deck]] indoctrination. Indeed.                |
 | 48:47      | You're only level one, you know, roses level six. So you got it. Yeah, I got it. I got a level up      |
-| 48:53      | here. I need some more. I only have two Stream Decks in this room. You're fine then. You're all        |
+| 48:53      | here. I need some more. I only have two [[Stream Deck\|Stream Decks]] in this room. You're fine then. You're all        |
 | 48:59      | good. Exactly. Yeah. So, uh, but that's, that's been something that's really, I think has, I think     |
 | 49:04      | the thing I struggle oftentimes the most with automation is not doing the automation itself,           |
 | 49:09      | but realising that there is a task to be automated. I think that's the thing that I often              |
@@ -915,7 +915,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 50:44      | grab a date. You set a variable to the current date. So you have that. If you have not entered any     |
 | 50:51      | input value, that's right. It's for the triggering. So he's got his presets where it basically can     |
 | 50:54      | send a payload and say, this is a tech problem. This is a crosstalk. This is somebody swearing,        |
-| 51:01      | et cetera, something like that. So it's already embedded in the triggers from his Stream Deck.         |
+| 51:01      | et cetera, something like that. So it's already embedded in the triggers from his [[Stream Deck]].         |
 | 51:06      | And if there is not text describing the issue, it throws up a prompt. So it doesn't ask for text       |
 | 51:12      | and lets you enter some sort of information about what happened. Otherwise, it uses a text action      |
 | 51:18      | which grabs the shortcut input. It then gets the contents. In my case, this is an alteration I've      |

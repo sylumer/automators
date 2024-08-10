@@ -80,7 +80,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 00:38      | that that is a whole show.                                            |
 | 00:40      | So this is gonna be a fun one, densely packed.                        |
 | 00:43      | We're gonna be talking about things like shortcuts for Mac            |
-| 00:46      | and Stream Deck tricks                                                |
+| 00:46      | and [[Stream Deck]] tricks                                                |
 | 00:48      | because there's a whole bunch of new stuff                            |
 | 00:50      | and obsidian, which isn't really enough for a whole show,             |
 | 00:54      | but I do have a bunch of stuff to share                               |
@@ -1022,12 +1022,12 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:07      | It's just crazy how much the kind of the Apple ecosystem              |
 | 40:12      | has shown up to find ways to make this easy.                          |
 | 40:15      | Yeah.                                                                 |
-| 40:16      | There's also a Stream Deck button.                                    |
+| 40:16      | There's also a [[Stream Deck]] button.                                    |
 | 40:21      | Yeah, which as I said,                                                |
 | 40:23      | Stephen Miller depreciated in section.                                |
 | 40:24      | He did a bypass for shortcuts,                                        |
 | 40:27      | which comes in three parts.                                           |
-| 40:28      | There's a Stream Deck, there's [[Alfred]]                                 |
+| 40:28      | There's a [[Stream Deck]], there's [[Alfred]]                                 |
 | 40:30      | and then there's [[Keyboard Maestro]],                                    |
 | 40:32      | which isn't called bypass,                                            |
 | 40:34      | but I'm gonna classify it in the same group                           |
@@ -1214,10 +1214,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 48:18      | for that 25% off.                                                     |
 | 48:20      | And our thanks to Fitbod for their support of the automators          |
 | 48:23      | and all of Relay FM.                                                  |
-| 48:26      | Okay, Stream Deck check-ins, Rose.                                    |
-| 48:30      | We did the Stream Deck show.                                          |
+| 48:26      | Okay, [[Stream Deck]] check-ins, Rose.                                    |
+| 48:30      | We did the [[Stream Deck]] show.                                          |
 | 48:32      | That was a long time ago in relative terms.                           |
-| 48:35      | What do you do with your Stream Deck these days?                      |
+| 48:35      | What do you do with your [[Stream Deck]] these days?                      |
 | 48:38      | I'm pressing buttons pretty much                                      |
 | 48:40      | and the buttons are doing various different things                    |
 | 48:42      | which is pretty great.                                                |
@@ -1296,14 +1296,14 @@ Rose and David have several automation topics on the table in this episode inclu
 | 51:52      | because I can get back to my personal default profile                 |
 | 51:56      | anytime I like by just pressing,                                      |
 | 51:57      | I've got the same as you, David.                                      |
-| 51:58      | I've got a button on every Stream Deck profile                        |
+| 51:58      | I've got a button on every [[Stream Deck]] profile                        |
 | 52:00      | to get me back there.                                                 |
 | 52:02      | And you know what?                                                    |
 | 52:03      | That person solved my problem by asking a question.                   |
 | 52:05      | If I don't have a default profile,                                    |
-| 52:07      | then my Stream Deck doesn't randomly seemingly switch profiles,       |
+| 52:07      | then my [[Stream Deck]] doesn't randomly seemingly switch profiles,       |
 | 52:11      | which means that I can activate specific profiles                     |
-| 52:15      | on my pedal and on my main Stream Deck                                |
+| 52:15      | on my [[Stream Deck#Stream Deck Pedal\|pedal]] and on my main [[Stream Deck]]                                |
 | 52:17      | and it will just stay there until I go back to the home               |
 | 52:20      | instead of it seemingly randomly                                      |
 | 52:23      | after just XYZ period of time switching my profiles back.             |
@@ -1329,11 +1329,11 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:19      | whenever I go to that page.                                           |
 | 53:20      | And I just like that they just automatically pop up                   |
 | 53:23      | whenever I go in Apple Mail so I can process mail                     |
-| 53:25      | without having to like navigate to it on the Stream Deck.             |
+| 53:25      | without having to like navigate to it on the [[Stream Deck]].             |
 | 53:30      | The other one I do that for,                                          |
 | 53:31      | which I may turn off as an [[Obsidian]]                                   |
 | 53:33      | because I've also programmed a lot of [[Obsidian]]                        |
-| 53:36      | into Stream Deck buttons.                                             |
+| 53:36      | into [[Stream Deck]] buttons.                                             |
 | 53:38      | So there's a couple where it makes sense for me,                      |
 | 53:40      | but generally I don't have those automatic triggers                   |
 | 53:45      | based on apps.                                                        |
@@ -1348,14 +1348,14 @@ Rose and David have several automation topics on the table in this episode inclu
 | 54:15      | but I'm okay with manually selecting my profiles                      |
 | 54:19      | depending on what I'm going to.                                       |
 | 54:20      | The only thing I wish is that there was a way to do that              |
-| 54:22      | through anything other than a button on the Stream Deck               |
-| 54:27      | or opening the Stream Deck software                                   |
+| 54:22      | through anything other than a button on the [[Stream Deck]]               |
+| 54:27      | or opening the [[Stream Deck]] software                                   |
 | 54:31      | and changing the profile,                                             |
 | 54:32      | because that is unfortunately the one thing                           |
 | 54:35      | that I really would like to have entirely automated.                  |
 | 54:38      | So when I select my automators recording bunch,                       |
-| 54:41      | then it also changes my Stream Deck profile                           |
-| 54:44      | to my automators profile,                                             |
+| 54:41      | then it also changes my [[Stream Deck]] profile                           |
+| 54:44      | to my Automators profile,                                             |
 | 54:45      | giving me the things that I need there.                               |
 | 54:47      | Yeah, that's true, I hadn't thought of that.                          |
 | 54:49      | I do find the process of customising it kind of delightful.           |
@@ -1422,7 +1422,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 57:20      | And I've got another one which gets the current timestamp             |
 | 57:23      | and that's hooked up to a couple of things,                           |
 | 57:24      | a keyboard shortcut                                                   |
-| 57:25      | and this amazing Stream Deck pedal macro.                             |
+| 57:25      | and this amazing [[[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] macro.                             |
 | 57:28      | So from anywhere at any time, I can just hit the button,              |
 | 57:31      | it's gonna activate that window, go to the bottom,                    |
 | 57:34      | hit return and insert a timestamp.                                    |
@@ -1441,7 +1441,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 58:05      | and I have a little temporary desk                                    |
 | 58:07      | and I'm recording in the bedroom                                      |
 | 58:08      | back to the MacSparky roots,                                         |
-| 58:11      | but I don't have my Stream Deck or my pedal with me                   |
+| 58:11      | but I don't have my [[Stream Deck]] or [[[Stream Deck#Stream Deck Pedal\|my pedal]] with me                   |
 | 58:13      | because it's all wired into my desk downstairs.                       |
 | 58:16      | And if it wasn't for the fact,                                        |
 | 58:18      | I'm about to spend a pile of money                                    |
@@ -1457,7 +1457,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 58:39      | No, and so this is something that I actually really like.             |
 | 58:41      | If you press your foot on the pedal and you leave it there,           |
 | 58:44      | it doesn't repeat the entry.                                          |
-| 58:46      | And this is something that that's just what Stream Deck does.         |
+| 58:46      | And this is something that that's just what [[Stream Deck]] does.         |
 | 58:49      | If you press and hold any button,                                     |
 | 58:50      | it won't repeat it, at least on the pedal.                            |
 | 58:53      | And so I can just sit here                                            |
@@ -1500,17 +1500,17 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:00:14   | to get that all in, which works great.                                |
 | 01:00:17   | I'm really pleased with it.                                           |
 | 01:00:18   | And what more could I want?                                           |
-| 01:00:21   | When we covered it on the Stream Deck on Mac power users,             |
+| 01:00:21   | When we covered it on the [[Stream Deck]] on Mac power users,             |
 | 01:00:24   | Steven and I were joking,                                             |
 | 01:00:25   | somebody on Etsy 3D printed a thing                                   |
-| 01:00:28   | where you can put two Stream Deck excels together.                    |
+| 01:00:28   | where you can put two [[Stream Deck#Stream Deck XL\|Stream Deck XL]] together.                    |
 | 01:00:31   | So you have like essentially,                                         |
 | 01:00:32   | I think 72 buttons instead of 36.                                     |
 | 01:00:37   | And we're like, who would want one of these?                          |
 | 01:00:38   | I'm thinking, I think Rose might want one.                            |
 | 01:00:41   | I think Rose could find one.                                          |
 | 01:00:42   | You know what I'm thinking, David?                                    |
-| 01:00:43   | I'm thinking that another Stream Deck excels.                         |
+| 01:00:43   | I'm thinking that another [[Stream Deck#Stream Deck XL\|Stream Deck XLs]].                         |
 | 01:00:46   | So you've got one on the desk upstairs                                |
 | 01:00:47   | and one on the desk downstairs,                                       |
 | 01:00:49   | and then the 3D printed thing                                         |
@@ -1525,10 +1525,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:01:06   | the way I'm doing now,                                                |
 | 01:01:07   | I just don't think I need any more buttons.                           |
 | 01:01:09   | I'm good.                                                             |
-| 01:01:10   | But man, I do love that Stream Deck.                                  |
+| 01:01:10   | But man, I do love that [[Stream Deck]].                                  |
 | 01:01:13   | That has really taken off the last couple of years.                   |
 | 01:01:17   | It really has.                                                        |
-| 01:01:17   | And when Elgato shipped the 100-button Stream Deck,                   |
+| 01:01:17   | And when Elgato shipped the 100-button [[Stream Deck]],                   |
 | 01:01:21   | then I'll be right there queuing up behind you.                       |
 | 01:01:23   | Oh, really?                                                           |
 | 01:01:24   | And smiling that you said you didn't need more buttons                |
@@ -1542,7 +1542,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:01:41   | because buttons are convenient.                                       |
 | 01:01:43   | They don't require you to really think about things.                  |
 | 01:01:45   | You press the button and the stuff happens.                           |
-| 01:01:47   | And I think that's why the Stream Deck works so well,                 |
+| 01:01:47   | And I think that's why the [[Stream Deck]] works so well,                 |
 | 01:01:50   | because not only do you have the button                               |
 | 01:01:52   | that makes the stuff happen,                                          |
 | 01:01:53   | but it's got the image on it                                          |
@@ -1566,7 +1566,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:02:37   | I think it's David.                                                   |
 | 01:02:39   | I think it's you, but I don't know.                                   |
 | 01:02:41   | I mean, I've got my stream day pedal.                                 |
-| 01:02:43   | I've got my Stream Deck.                                              |
+| 01:02:43   | I've got my [[Stream Deck]].                                              |
 | 01:02:44   | And I mean, I have space on my desk,                                  |
 | 01:02:46   | but I don't really have more space.                                   |
 | 01:02:48   | Now I have seen a couple of people in our forums.                     |
@@ -1575,7 +1575,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:02:59   | on their main one, which I love the idea of.                          |
 | 01:03:01   | I really do, but it also kind of feels like a waste.                  |
 | 01:03:06   | Sometimes I'm sitting there going,                                    |
-| 01:03:08   | I'm really not using my Stream Deck that much.                        |
+| 01:03:08   | I'm really not using my [[Stream Deck]] that much.                        |
 | 01:03:10   | And then I'd sort of glance down at the calendar icon again,          |
 | 01:03:15   | just to see, wait, is that orange yet?                                |
 | 01:03:18   | Yep, okay, I need to start preparing for the next meeting             |
@@ -1585,7 +1585,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:03:30   | or iCalBuddy magic [[Keyboard Maestro]] actions                           |
 | 01:03:35   | which change the colour of that button                                 |
 | 01:03:38   | so that I get updated calendar information                            |
-| 01:03:42   | on the Stream Deck in one particular spot.                            |
+| 01:03:42   | on the [[Stream Deck]] in one particular spot.                            |
 | 01:03:47   | And if I press that button,                                           |
 | 01:03:48   | then it will open fantastical for me                                  |
 | 01:03:50   | to the calendar event, which is pretty great.                         |
@@ -1593,7 +1593,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:03:54   | For me, it really is a macro pad.                                     |
 | 01:03:57   | For me, if information is gonna make it to my eyeballs,               |
 | 01:04:00   | it needs to be in my menu bar or on my screen somewhere.              |
-| 01:04:02   | I just don't look down at the Stream Deck for information.            |
+| 01:04:02   | I just don't look down at the [[Stream Deck]] for information.            |
 | 01:04:05   | I mean, I don't really look at it for information                     |
 | 01:04:07   | because I'm not reading that information most of the time,            |
 | 01:04:10   | but as I glance down to press a button on there,                      |
@@ -1603,7 +1603,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:04:21   | deliberately consciously aware of,                                    |
 | 01:04:23   | but I am aware of it as a thing                                       |
 | 01:04:26   | and that's been really helpful, actually.                             |
-| 01:04:28   | And I have to say, I'm really pleased that the Stream Deck            |
+| 01:04:28   | And I have to say, I'm really pleased that the [[Stream Deck]]            |
 | 01:04:30   | can do things like that                                               |
 | 01:04:32   | because that just makes it into an even more powerful tool.           |
 | 01:04:38   | If you're a software engineer, you've been there.                     |

@@ -254,8 +254,8 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 13:22      | and then close calculator instead of just being able to hit enter and go into something               |
 | 13:27      | else and paste it like I can with [[Alfred]] and [[Raycast]] and various other things.                        |
 | 13:32      | Interestingly, the pictures that show up when I do type Rosemary Orchard, there are                   |
-| 13:36      | a bunch of pictures of Stream Decks.                                                                  |
-| 13:38      | You and I have been sharing pictures of Stream Decks.                                                 |
+| 13:36      | a bunch of pictures of [[Stream Deck\|Stream Decks]].                                                                  |
+| 13:38      | You and I have been sharing pictures of [[Stream Deck\|Stream Decks]].                                                 |
 | 13:40      | Yeah, yeah, because it's pictures from our messages, right, the stuff that we've shared               |
 | 13:43      | with each other.                                                                                      |
 | 13:49      | So I feel like I'm being too harsh on spotlight.                                                      |

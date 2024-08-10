@@ -1068,12 +1068,12 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 57:13      | Yeah, but I haven't been writing any JavaScript.                                                      |
 | 57:15      | Mine is a little more basic, but I took a real hard look at my legal setup automation                 |
 | 57:23      | in the last few weeks.                                                                                |
-| 57:24      | You know, I've got this Stream Deck that I love, and I'm working on an update to the                  |
+| 57:24      | You know, I've got this [[Stream Deck]] that I love, and I'm working on an update to the                  |
 | 57:28      | [[Keyboard Maestro]] field guide to show off everything it can do, but you know, it's great               |
-| 57:33      | because you can connect the Stream Deck to a [[Keyboard Maestro]] as a trigger.                           |
+| 57:33      | because you can connect the [[Stream Deck]] to a [[Keyboard Maestro]] as a trigger.                           |
 | 57:39      | And it's just the idea of system setups with these buttons is very, I find very handy.                |
 | 57:44      | I mean, you could also do all this stuff with keyboard shortcuts.                                     |
-| 57:47      | You don't need to buy a Stream Deck, but for some reason, the idea of sitting at your computer        |
+| 57:47      | You don't need to buy a [[Stream Deck]], but for some reason, the idea of sitting at your computer        |
 | 57:51      | tapping a button and then getting to work is really nice.                                             |
 | 57:55      | So but I wasn't happy with the automation for the legal stuff I do.                                   |
 | 58:00      | I'm fortunate I've got a 27 inch screen, and then I've got two 4k vertical screens                    |
@@ -1125,30 +1125,30 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:01:13   | So it's just really handy.                                                                            |
 | 01:01:15   | And it sounds dumb.                                                                                   |
 | 01:01:16   | It took me, you know, 15 minutes to set this up.                                                      |
-| 01:01:19   | But every time I sit down now and push the button on my Stream Deck and all the decks                 |
+| 01:01:19   | But every time I sit down now and push the button on my [[Stream Deck]] and all the decks                 |
 | 01:01:24   | get cleared and the right projects get set up, it feels pretty good.                                  |
-| 01:01:28   | I recently got a Stream Deck as well.                                                                 |
+| 01:01:28   | I recently got a [[Stream Deck]] as well.                                                                 |
 | 01:01:30   | I only got the 16 button one to start with.                                                           |
-| 01:01:33   | And I have a feeling that is going to become my laptop Stream Deck and I'm going to be                |
+| 01:01:33   | And I have a feeling that is going to become my laptop [[Stream Deck]] and I'm going to be                |
 | 01:01:37   | getting 32 button one from my Mac, but I have to say.                                                 |
-| 01:01:42   | My proudest Stream Deck button right now, though, is toggling the Christmas tree lights               |
+| 01:01:42   | My proudest [[Stream Deck]] button right now, though, is toggling the Christmas tree lights               |
 | 01:01:47   | on and off because then I can press the button at night when I'm going to bed.                        |
 | 01:01:51   | And it will turn the Christmas tree lights off as I leave the room.                                   |
 | 01:01:54   | And I really like that.                                                                               |
 | 01:01:55   | So is that a web hook that you're hitting?                                                            |
-| 01:01:57   | So there is actually a huge plug in for Stream Deck that you can install and you can have             |
-| 01:02:03   | toggle buttons on the Stream Deck as well.                                                            |
+| 01:01:57   | So there is actually a huge plug in for [[Stream Deck]] that you can install and you can have             |
+| 01:02:03   | toggle buttons on the [[Stream Deck]] as well.                                                            |
 | 01:02:06   | And so when it's on, then it shows up as one colour, mine is set to green for on and red               |
 | 01:02:13   | for off because those are also Christmassy colours.                                                     |
 | 01:02:16   | And yeah, it just toggles.                                                                            |
 | 01:02:18   | So also, if somebody else in my apartment gets up and turns off the Christmas tree at                 |
-| 01:02:22   | some point, then I can just press a button on my Stream Deck and turn it back on.                     |
+| 01:02:22   | some point, then I can just press a button on my [[Stream Deck]] and turn it back on.                     |
 | 01:02:25   | Yeah, it seems kind of, I can just see you sitting there with him, turn it off.                       |
 | 01:02:31   | And then you just reach in over and turn it back on.                                                  |
 | 01:02:34   | Well, I mean, the thing is, so he gets up and he presses the buttons on the smart switches            |
 | 01:02:41   | that we have to turn them off.                                                                        |
 | 01:02:44   | And so he's standing next to the Christmas tree and he's turned it off.                               |
-| 01:02:46   | And then I press the button on my Stream Deck and turn it back on.                                    |
+| 01:02:46   | And then I press the button on my [[Stream Deck]] and turn it back on.                                    |
 | 01:02:48   | Yeah, exactly.                                                                                        |
 | 01:02:49   | I love that.                                                                                          |
 | 01:02:51   | I may be somewhat evil, but I'm doing it to spread the Christmas cheer.                               |
@@ -1175,12 +1175,12 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:03:59   | I have actually been doing something slightly different.                                              |
 | 01:04:02   | I've been experimenting with anything but the [[Keyboard Maestro]] integration.                           |
 | 01:04:06   | Cause I know you've been focusing on the [[Keyboard Maestro]] integration and I am sensing that           |
-| 01:04:09   | we may have a Stream Deck show in our future of how to automate your Mac with your stream             |
+| 01:04:09   | we may have a [[Stream Deck]] show in our future of how to automate your Mac with your stream             |
 | 01:04:14   | deck.                                                                                                 |
 | 01:04:15   | Maybe.                                                                                                |
 | 01:04:16   | Maybe.                                                                                                |
 | 01:04:17   | These things are great fun and they're a lot easier to program than iBeacon.                          |
-| 01:04:19   | So unfortunately for the iBeacon, but fortunately for the Stream Deck, I mean, it really is,          |
+| 01:04:19   | So unfortunately for the iBeacon, but fortunately for the [[Stream Deck]], I mean, it really is,          |
 | 01:04:24   | I guess in like iBeacons, it's just another trigger, you know, it's a button you can                  |
 | 01:04:29   | press and you can, because it's got [[Keyboard Maestro]] integration and because keyboard                 |
 | 01:04:34   | maestro can literally do anything.                                                                    |
@@ -1188,7 +1188,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:04:39   | You can do it.                                                                                        |
 | 01:04:40   | I mean, you could press a button and it could open a new word processing document and paste           |
 | 01:04:45   | text for you.                                                                                         |
-| 01:04:46   | I mean, whatever it is that you want to do, you could do through the Stream Deck and granted,         |
+| 01:04:46   | I mean, whatever it is that you want to do, you could do through the [[Stream Deck]] and granted,         |
 | 01:04:52   | I guess the big qualifier and all this because I'm working on the video on that on the update         |
 | 01:04:56   | for the field guide right now is like, do you need this?                                              |
 | 01:04:59   | I don't think anybody really needs it because like using the hyper key, the cap slot key,             |
@@ -1212,13 +1212,13 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:06:14   | I haven't announced it yet, but I'm going to be doing free zoom conferences for some                  |
 | 01:06:19   | of my field guide customers.                                                                          |
 | 01:06:20   | At some point, I'm kind of getting that set up.                                                       |
-| 01:06:22   | And I think the Stream Deck is actually made for that.                                                |
+| 01:06:22   | And I think the [[Stream Deck]] is actually made for that.                                                |
 | 01:06:26   | So I'm going to get it set up with the buttons configured for streaming and some of the stuff         |
 | 01:06:34   | as well.                                                                                              |
 | 01:06:35   | But I agree.                                                                                          |
 | 01:06:36   | I think if you're looking for something on your holiday list, there's still time for                  |
 | 01:06:41   | that when the show publishes and it'd be too late.                                                    |
-| 01:06:44   | But you want to buy yourself something fun in the new year, Stream Deck may be on your                |
+| 01:06:44   | But you want to buy yourself something fun in the new year, [[Stream Deck]] may be on your                |
 | 01:06:49   | list.                                                                                                 |
 | 01:06:50   | Yes.                                                                                                  |
 | 01:06:51   | I got mine on Amazon.                                                                                 |

@@ -237,8 +237,8 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 08:36      | And then, using the script, you can set your own custom           |
 | 08:40      | keyboard shortcuts for it.                                        |
 | 08:42      | And then, if you've gone full nerd                                |
-| 08:45      | and you've got yourself a Stream Deck,                            |
-| 08:46      | then you can set up a Stream Deck panel that just                 |
+| 08:45      | and you've got yourself a [[Stream Deck]],                            |
+| 08:46      | then you can set up a [[Stream Deck]] panel that just                 |
 | 08:49      | hits those keyboard shortcuts.                                    |
 | 08:51      | And you can have an entirely custom [[OmniFocus]]ed stream           |
 | 08:55      | deck board that manages dates for you.                            |
@@ -263,7 +263,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 09:53      | And then I can just run the shortcut that                         |
 | 09:55      | will do that for me, which that works as well.                    |
 | 09:58      | And I've gone with that approach because it then                  |
-| 10:00      | allows me to have a mini Stream Deck on the side of my iPad       |
+| 10:00      | allows me to have a mini [[Stream Deck]] on the side of my iPad       |
 | 10:06      | when I'm doing things on my iPad so I can just                    |
 | 10:08      | have shortcuts open on the right-hand side of my iPad             |
 | 10:11      | and just have that folder open.                                   |

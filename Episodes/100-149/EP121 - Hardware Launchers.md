@@ -241,8 +241,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 11:12      | true.                                                                                                  |
 | 11:13      | I recommend, you know, you don't start a new one until the one you just created becomes                |
 | 11:18      | second nature.                                                                                         |
-| 11:20      | But that's honestly, I think one of the attractions of the Stream Deck, and we'll talk about the       |
-| 11:24      | Stream Deck later in this episode, but because the Stream Deck allows you to create a graphical        |
+| 11:20      | But that's honestly, I think one of the attractions of the [[Stream Deck]], and we'll talk about the       |
+| 11:24      | [[Stream Deck]] later in this episode, but because the [[Stream Deck]] allows you to create a graphical        |
 | 11:28      | icon for the button, that makes the internalisation process much easier and allows them to switch      |
 | 11:36      | based on app and, you know, the buttons can become dynamic.                                            |
 | 11:39      | But I think that's one of the reasons why all of us nerds are so excited about the Stream              |
@@ -279,8 +279,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 13:45      | Or it may not work, but at less than 10 bucks, I would say it's worth a try if you're interested       |
 | 13:49      | in it.                                                                                                 |
 | 13:50      | Yeah.                                                                                                  |
-| 13:51      | And you could also, I got, I'm going to stop talking about the Stream Decks till we get                |
-| 13:54      | to the Stream Decks, but obviously you can also put all that stuff on a Stream Deck and                |
+| 13:51      | And you could also, I got, I'm going to stop talking about the [[Stream Deck\|Stream Decks]] till we get                |
+| 13:54      | to the [[Stream Deck\|Stream Decks]], but obviously you can also put all that stuff on a [[Stream Deck]] and                |
 | 13:59      | you don't need to go to the number pad.                                                                |
 | 14:02      | The one challenge with using an extended keyboard is if you have a laptop and you get                  |
 | 14:08      | reliant on automation triggers off the extended keyboard, and then you go into laptop mode,            |
@@ -340,7 +340,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 17:44      | And then it's a cable, so you've got another cable stretched out.                                      |
 | 17:48      | But the whole thing looks like the ultimate hacking keyboard.                                          |
 | 17:51      | I don't think I want something like that on my desk, and with my collection, my flock                  |
-| 17:56      | of Stream Decks, I don't think I need one, but that's another way to go about it, if                   |
+| 17:56      | of [[Stream Deck\|Stream Decks]], I don't think I need one, but that's another way to go about it, if                   |
 | 18:02      | you want.                                                                                              |
 | 18:03      | And some people really love that ultimate hacking keyboard.                                            |
 | 18:06      | Yeah.                                                                                                  |
@@ -459,7 +459,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 24:48      | I mean, I was looking at drop.com, which is a great site that always has a variety of                  |
 | 24:53      | macro pads.                                                                                            |
 | 24:54      | And I always keep thinking, you know, maybe I should try one of these things.                          |
-| 24:57      | But because I'm so invested in the Stream Deck ecosystem, do I really need it?                         |
+| 24:57      | But because I'm so invested in the [[Stream Deck]] ecosystem, do I really need it?                         |
 | 25:00      | But like, they've got a cool one here I'm looking at right now.                                        |
 | 25:04      | It's got two dials.                                                                                    |
 | 25:05      | Like it's got a big dial, like a big dial and a little dial inside of it.                              |
@@ -474,7 +474,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 25:35      | I would also know if folks are intrigued by the idea of like a dial, then there is a                   |
 | 25:40      | couple of other things, one that kind of falls technically into the mouse section or maybe             |
 | 25:44      | other hardware.                                                                                        |
-| 25:45      | And then there's a Stream Deck that we're going to talk about later.                                   |
+| 25:45      | And then there's a [[Stream Deck]] that we're going to talk about later.                                   |
 | 25:48      | So you know, don't go by that just yet, but yeah, well, I mean, I'm going to talk you                  |
 | 25:56      | on to a more expensive ledge later, David, let's let's be honest here, but that's how                  |
 | 26:01      | the show works.                                                                                        |
@@ -496,7 +496,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 26:59      | button range and, you know, it's a separate USB-C connector usually.                                   |
 | 27:05      | So you've got a separate cable connection and you can get custom key caps for them.                    |
 | 27:09      | You can get them blank.                                                                                |
-| 27:11      | Kind of imagine it as a Stream Deck without the lit buttons and their physical buttons                 |
+| 27:11      | Kind of imagine it as a [[Stream Deck]] without the lit buttons and their physical buttons                 |
 | 27:17      | and they're super popular and there's lots of ways you can use these things.                           |
 | 27:21      | So they're definitely worth checking out.                                                              |
 | 27:24      | Yeah.                                                                                                  |
@@ -697,16 +697,16 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 38:57      | I forget exactly where they're located, but they make several different attached keyboard              |
 | 39:03      | products that are control surfaces.                                                                    |
 | 39:06      | The Loop Deck is the main one.                                                                         |
-| 39:10      | That's their, I guess they call it the Loop Deck live now.                                             |
+| 39:10      | That's their, I guess they call it the [[Loupedeck Live]] now.                                             |
 | 39:12      | It looks like they may have got a name change, but it's got six big dials on it, a bunch               |
-| 39:17      | of buttons like the Stream Deck.                                                                       |
+| 39:17      | of buttons like the [[Stream Deck]].                                                                       |
 | 39:19      | It has some buttons that are lit behind by an LED screen, so they're programmable.                     |
 | 39:25      | The dials on it are fantastic, positive stops.                                                         |
 | 39:29      | The thing is machined aluminum.                                                                        |
 | 39:31      | I spent a little time with one and it's not for me, because I don't make my living in                  |
-| 39:38      | Final Cut, but if you do a lot of like heavy in video stuff, the Loop Deck is really impressive        |
+| 39:38      | [[Final Cut]], but if you do a lot of like heavy in video stuff, the Loop Deck is really impressive        |
 | 39:46      | for that.                                                                                              |
-| 39:47      | But it's not kind of like the jack of all trades that you get with a Stream Deck.                      |
+| 39:47      | But it's not kind of like the jack of all trades that you get with a [[Stream Deck]].                      |
 | 39:52      | Right.                                                                                                 |
 | 39:53      | Yeah.                                                                                                  |
 | 39:54      | And I think that's one of these things where you have to kind of figure out what it is that            |
@@ -762,7 +762,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 42:44      | So tell me exactly what are you doing with it?                                                         |
 | 42:47      | I mean, what apps do you use it in and where do you find it useful?                                    |
 | 42:51      | Yeah.                                                                                                  |
-| 42:52      | So for me, like my Stream Deck lives kind of behind my keyboard and mouse on like the right            |
+| 42:52      | So for me, like my [[Stream Deck]] lives kind of behind my keyboard and mouse on like the right            |
 | 42:58      | dish side of my desk.                                                                                  |
 | 42:59      | And it's not a stretch to reach it, but it is a little bit out of the way.                             |
 | 43:04      | So I don't poke buttons accidentally.                                                                  |
@@ -770,7 +770,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 43:12      | And so I'm using this for all, like those keyboard shortcuts that you never remember                   |
 | 43:20      | for various different things.                                                                          |
 | 43:22      | And other things where, you know, some of this is actually just replicating what is                    |
-| 43:26      | on my Stream Deck just because I want the button wherever it makes sense.                              |
+| 43:26      | on my [[Stream Deck]] just because I want the button wherever it makes sense.                              |
 | 43:29      | And sometimes I need to be doing something with my mouse, and then I can press the button.             |
 | 43:34      | I often use this for like the keyboard shortcut that I need to press when I've got like this           |
 | 43:39      | thing highlighted or selected or, you know, when I'm dragging something or similar, because            |
@@ -792,7 +792,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 44:50      | I don't need to command space and type SLA.                                                            |
 | 44:52      | I just press a button and open [[Slack]].                                                                  |
 | 44:55      | And so I have it set up for things like that.                                                          |
-| 44:58      | And then, you know, I reserve the Stream Deck for things like yes, [[Slack]] is there, but it's            |
+| 44:58      | And then, you know, I reserve the [[Stream Deck]] for things like yes, [[Slack]] is there, but it's            |
 | 45:02      | also got a calendar next to it showing me, you know, like when I need to be doing the                  |
 | 45:05      | next thing and so on.                                                                                  |
 | 45:06      | Whereas this, it kind of just shows you text in between, which is a little sad, but also               |
@@ -807,7 +807,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 45:39      | the wireless function or is it?                                                                        |
 | 45:42      | So I bought mine in a little bundle of Amazon that came with the dongle and a little case              |
 | 45:48      | for it as well, which is really nice.                                                                  |
-| 45:50      | So I can, you know, like take it places without worrying about damageing it.                            |
+| 45:50      | So I can, you know, like take it places without worrying about damaging it.                            |
 | 45:54      | And yeah, so I got a bundle.                                                                           |
 | 45:57      | I don't know, I suspect based on the fact that their product page has the dongle separately,           |
 | 46:02      | that the, the regular, like just buying that on their website wouldn't include it.                     |
@@ -828,8 +828,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 46:53      | Yeah.                                                                                                  |
 | 46:54      | Exactly.                                                                                               |
 | 46:55      | I have to say, it's 90 pounds or I think it's $95 on the US website.                                   |
-| 47:03      | So it's cheaper than things like the Stream Deck, it's $99.99 on the US website.                       |
-| 47:08      | But it's a little cheaper on the Stream Deck.                                                          |
+| 47:03      | So it's cheaper than things like the [[Stream Deck]], it's $99.99 on the US website.                       |
+| 47:08      | But it's a little cheaper on the [[Stream Deck]].                                                          |
 | 47:10      | It's smaller, it doesn't have as many buttons, but it's definitely worth considering if you're         |
 | 47:14      | looking for an alternative to that just because it does have that screen built in.                     |
 | 47:20      | And for me, my biggest problem 100% of the time is that I forget what macros and magic                 |
@@ -1038,14 +1038,14 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 58:31      | for you.                                                                                               |
 | 58:32      | Once again, that's docparser.com/automators to find out more and get a free parser assistant.    |
 | 58:38      | Our thanks to Docparser for their support of this show and Relay FM.                                  |
-| 58:41      | All right, let's check in on Stream Decks.                                                                |
+| 58:41      | All right, let's check in on [[Stream Deck\|Stream Decks]].                                                                |
 | 58:45      | We did a whole show on it, I think, about a year ago, and things have changed since                    |
-| 58:51      | we were last talking about Stream Decks on the show.                                                      |
+| 58:51      | we were last talking about [[Stream Deck\|Stream Decks]] on the show.                                                      |
 | 58:54      | First let's break down the new hardware.                                                               |
-| 58:57      | In addition to the traditional Stream Decks, which is a panel of X number of buttons, they                |
-| 59:04      | have released the Stream Decks pedal now, which is a USB-C cable-connected pedal that you                 |
+| 58:57      | In addition to the traditional [[Stream Deck\|Stream Decks]], which is a panel of X number of buttons, they                |
+| 59:04      | have released the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] now, which is a USB-C cable-connected pedal that you                 |
 | 59:11      | can put under your desk, and it's got three different pedals on it.                                    |
-| 59:16      | You can program them just like any other Stream Decks button, but you can kick it with                    |
+| 59:16      | You can program them just like any other [[Stream Deck\|Stream Deck's]] button, but you can kick it with                    |
 | 59:20      | your foot and you can mute.                                                                            |
 | 59:23      | Because I use the Elgato WaveXLR for my audio, it's effectively my mute button now.                    |
 | 59:28      | I just reach out with my foot and tap it, and the mic goes dead.                                       |
@@ -1056,12 +1056,12 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 59:45      | I also use it to kick off and stop recordings in [[ScreenFlow]] or any kind of recording I'm               |
 | 59:52      | doing.                                                                                                 |
 | 59:53      | I use pedal buttons for that.                                                                          |
-| 59:54      | I also find it very useful in Zoom.                                                                    |
-| 59:57      | You'll evolve it on Zoom calls, where suddenly the dog races through or whatever, and you              |
+| 59:54      | I also find it very useful in [[Zoom]].                                                                    |
+| 59:57      | You'll evolve it on [[Zoom]] calls, where suddenly the dog races through or whatever, and you              |
 | 01:00:01   | want to turn the camera off.                                                                           |
 | 01:00:02   | You can just do it with your foot, which is kind of nice.                                              |
 | 01:00:06   | I find all sorts of uses for it like that.                                                             |
-| 01:00:08   | I don't find myself using it in things like OmniFocus and [[Apple Mail]], but where I do like              |
+| 01:00:08   | I don't find myself using it in things like [[OmniFocus]] and [[Apple Mail]], but where I do like              |
 | 01:00:15   | it, I use that.                                                                                        |
 | 01:00:16   | That's a new piece of hardware.                                                                        |
 | 01:00:17   | Roasted, what are you doing with your pedal at this point?                                             |
@@ -1116,15 +1116,15 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:03:36   | of awesome.                                                                                            |
 | 01:03:37   | Yeah.                                                                                                  |
 | 01:03:38   | Yeah, exactly.                                                                                         |
-| 01:03:39   | And then most recently, I got to release the Stream Deck Plus, which is a new piece                    |
+| 01:03:39   | And then most recently, I got to release the [[Stream Deck#Stream Deck+\|Stream Deck+]], which is a new piece                    |
 | 01:03:43   | of kit.                                                                                                |
-| 01:03:44   | It's got eight Stream Deck buttons on it, but they're larger than the normal size Stream               |
+| 01:03:44   | It's got eight [[Stream Deck]] buttons on it, but they're larger than the normal size Stream               |
 | 01:03:48   | Deck buttons, which is really nice if you're displaying like information on them.                      |
 | 01:03:54   | And then it's got a touch panel that is the width of four buttons and below that it's                  |
 | 01:04:02   | got four dials.                                                                                        |
 | 01:04:04   | Now these dials are not the quality of the loop deck dials I was talking about earlier,                |
 | 01:04:09   | but they do have positive stops and they work nice enough.                                             |
-| 01:04:13   | And it's kind of an evolution, but the Stream Deck software supports it and there's a multiple         |
+| 01:04:13   | And it's kind of an evolution, but the [[Stream Deck]] software supports it and there's a multiple         |
 | 01:04:18   | functions you can put on it.                                                                           |
 | 01:04:20   | Like the obvious ones are like volume and brightness, like if you have any of the Elgato               |
 | 01:04:25   | lighting, you can control it with those dials.                                                         |
@@ -1140,28 +1140,28 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:05:07   | That's one niggle I have with it.                                                                      |
 | 01:05:09   | But it's an interesting thing and I've got it on my desk and I didn't send it back.                    |
 | 01:05:14   | I immediately found use for it.                                                                        |
-| 01:05:16   | Yeah, one of the things that I have found with the Stream Deck is the Elgato software                  |
+| 01:05:16   | Yeah, one of the things that I have found with the [[Stream Deck]] is the Elgato software                  |
 | 01:05:23   | is okay.                                                                                               |
 | 01:05:24   | Like it's fine, but it's not great and I wish it was better.                                           |
 | 01:05:30   | But fortunately, that after we've been talking about all episode and I mean all episode better         |
-| 01:05:35   | touch tool can program the Stream Deck and I am really pleased I was just poking around                |
+| 01:05:35   | touch tool can program the [[Stream Deck]] and I am really pleased I was just poking around                |
 | 01:05:40   | in there again because I go back in and check periodically, maybe not as often as I should             |
-| 01:05:46   | on how [[BetterTouchTool]] is doing with the Stream Deck Plus.                                           |
+| 01:05:46   | on how [[BetterTouchTool]] is doing with the [[Stream Deck#Stream Deck+\|Stream Deck+]].                                           |
 | 01:05:49   | David, it supports everything except double press on the dials.                                        |
 | 01:05:53   | Yeah, it is.                                                                                           |
 | 01:05:54   | It supports the touch screen and everything.                                                           |
-| 01:05:56   | So to start with when the Stream Deck Plus came out, the folks over at [[BetterTouchTool]],              |
-| 01:06:01   | they added Stream Deck Plus and obviously you've got the eight buttons across the top.                 |
+| 01:05:56   | So to start with when the [[Stream Deck#Stream Deck+\|Stream Deck+]] came out, the folks over at [[BetterTouchTool]],              |
+| 01:06:01   | they added [[Stream Deck#Stream Deck+\|Stream Deck+]] and obviously you've got the eight buttons across the top.                 |
 | 01:06:04   | They could do stuff with that right away.                                                              |
 | 01:06:06   | They figured out the dials going forward and backwards pretty quickly and then they added              |
 | 01:06:11   | the pressing of the dials and now they've added the touch screen.                                      |
 | 01:06:14   | And oh my gosh, am I so excited for this because this has been what's kind of been holding me          |
-| 01:06:17   | back a little bit from working with the Stream Deck or the Stream Deck Plus and with Better            |
-| 01:06:26   | Touch Tool because I much prefer using [[BetterTouchTool]] to program my Stream Deck, but                |
-| 01:06:30   | I also struggle with not being able to use the Plus with that.                                         |
+| 01:06:17   | back a little bit from working with the [[Stream Deck]] or the [[Stream Deck#Stream Deck+\|Stream Deck+]] and with [[BetterTouchTool]]            |
+| 01:06:26   | because I much prefer using [[BetterTouchTool]] to program my [[Stream Deck]], but                |
+| 01:06:30   | I also struggle with not being able to use the [[Stream Deck#Stream Deck+\|'Plus']] with that.                                         |
 | 01:06:35   | And there's two ways that you can use [[BetterTouchTool]] to be clear.                                   |
-| 01:06:38   | You can either replace the Stream Deck software with it or you can just add buttons through            |
-| 01:06:42   | the Stream Deck software and the replace mode is so much more powerful.                                |
+| 01:06:38   | You can either replace the [[Stream Deck]] software with it or you can just add buttons through            |
+| 01:06:42   | the [[Stream Deck]] software and the replace mode is so much more powerful.                                |
 | 01:06:46   | But yeah, it was just one of those things where I was having to wait a little while                    |
 | 01:06:49   | for it and now it's here and I'm, yeah, I would say that's my weekend goal, but I'm                    |
 | 01:06:54   | going away this weekend.                                                                               |
@@ -1173,26 +1173,26 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:07:12   | fully to it and I'm going to do some interviews with them.                                             |
 | 01:07:14   | I haven't done it myself yet because I think it literally is like a full day project to                |
 | 01:07:20   | do this.                                                                                               |
-| 01:07:21   | I have so many buttons programmed and the [[BetterTouchTool]], I'm sorry, the Stream Deck                |
+| 01:07:21   | I have so many buttons programmed and the [[BetterTouchTool]], I'm sorry, the [[Stream Deck]]                |
 | 01:07:26   | software is not terrible, but it's not great either, you know what I mean?                             |
 | 01:07:31   | And the [[BetterTouchTool]] software is great and he, he's listed this as a beta feature                 |
 | 01:07:37   | for a while.                                                                                           |
 | 01:07:39   | So I've always kind of held back, but like you, I keep going in and looking at the tools               |
 | 01:07:43   | he's added.                                                                                            |
 | 01:07:44   | And basically anything you can do with [[BetterTouchTool]] now you can, you can custom program           |
-| 01:07:48   | your Stream Deck to do, which is awesome.                                                              |
+| 01:07:48   | your [[Stream Deck]] to do, which is awesome.                                                              |
 | 01:07:51   | One thing that worries me a little bit about it is the entire thing is reliant on some                 |
-| 01:07:55   | open source software called Hammerspoon, which is another thing a lot of people use to custom          |
-| 01:08:01   | program Stream Decks.                                                                                  |
+| 01:07:55   | open source software called [[Hammerspoon]], which is another thing a lot of people use to custom          |
+| 01:08:01   | program [[Stream Deck\|Stream Decks]].                                                                                  |
 | 01:08:03   | So he's reliant on that continuing to work in order for this to work.                                  |
 | 01:08:08   | If it's open source, then the good news is, is somebody else, if it were to go away, somebody          |
 | 01:08:12   | else is going to be able to pick that up and fork it and continue with it.                             |
 | 01:08:16   | So you know, it's one of those things where it sounds scary, but often when, when it's                 |
 | 01:08:21   | something like this and it's popular, it is much better than it being closed source.                   |
-| 01:08:25   | You know, if Adobe decided tomorrow they weren't going to sell Photoshop anymore, that would           |
+| 01:08:25   | You know, if [[Adobe]] decided tomorrow they weren't going to sell [[Photoshop]] anymore, that would           |
 | 01:08:29   | be the end of it.                                                                                      |
-| 01:08:30   | But something open source like Bunch, or sorry, not Bunch, Bunch is not open source,                   |
-| 01:08:35   | documentation is, but something open source like Hammerspoon absolutely is [[Home Assistant]].             |
+| 01:08:30   | But something open source like Bunch, or sorry, not [[Bunch]], [[Bunch]] is not open source,                   |
+| 01:08:35   | documentation is, but something open source like [[Hammerspoon]] absolutely is [[Home Assistant]].             |
 | 01:08:41   | That's a good example.                                                                                 |
 | 01:08:42   | If the founders of [[Home Assistant]] said they weren't going to do anything tomorrow, which               |
 | 01:08:45   | to be clear, as far as I'm aware, is very definitely not happening.                                    |
@@ -1204,7 +1204,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:09:02   | No.                                                                                                    |
 | 01:09:03   | And that's to finish the thought.                                                                      |
 | 01:09:04   | I have decided, look, it's going to be fine.                                                           |
-| 01:09:07   | And the Stream Deck software, I can always go back to it.                                              |
+| 01:09:07   | And the [[Stream Deck]] software, I can always go back to it.                                              |
 | 01:09:10   | So I'm going to archive obviously my and save backups of my current setup with it.                     |
 | 01:09:16   | But I, I'm going to make the move to [[BetterTouchTool]].                                                |
 | 01:09:19   | I totally believe in the software.                                                                     |
@@ -1222,26 +1222,26 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:09:56   | But there, there are some crazy stuff you can do with this and Rose's right to really                  |
 | 01:10:02   | do this.                                                                                               |
 | 01:10:03   | Right.                                                                                                 |
-| 01:10:04   | You need to let [[BetterTouchTool]] just take over your Stream Decks.                                    |
+| 01:10:04   | You need to let [[BetterTouchTool]] just take over your [[Stream Deck\|Stream Decks]].                                    |
 | 01:10:06   | And that's the other point I wanted to make.                                                           |
-| 01:10:08   | I have, my Stream Decks have multiplied.                                                               |
+| 01:10:08   | I have, my [[Stream Deck\|Stream Decks]] have multiplied.                                                               |
 | 01:10:11   | It's, it's crazy.                                                                                      |
 | 01:10:12   | Last time we talked about it.                                                                          |
-| 01:10:13   | Are you sure it's not the trouble of Stream Decks, David, instead of the trouble of triples?           |
+| 01:10:13   | Are you sure it's not the trouble of [[Stream Deck\|Stream Decks]], David, instead of the trouble of triples?           |
 | 01:10:17   | Yeah, exactly.                                                                                         |
 | 01:10:18   | It feels like it.                                                                                      |
 | 01:10:19   | Yeah.                                                                                                  |
 | 01:10:20   | It does.                                                                                               |
-| 01:10:21   | It feels like there's just Stream Decks everywhere.                                                    |
-| 01:10:22   | Well, the last time we recorded, I had a Stream Deck XL.                                               |
+| 01:10:21   | It feels like there's just [[Stream Deck\|Stream Decks]] everywhere.                                                    |
+| 01:10:22   | Well, the last time we recorded, I had a [[Stream Deck#Stream Deck XL\|Stream Deck XL]].                                               |
 | 01:10:26   | And then in the max market labs, we were doing a meet up and one of the listeners was talking           |
 | 01:10:30   | about, well, he's got two.                                                                             |
-| 01:10:32   | And he uses one as a static Stream Deck where the buttons never change.                                |
+| 01:10:32   | And he uses one as a static [[Stream Deck]] where the buttons never change.                                |
 | 01:10:37   | So like key lighting controls, key setups and things like that are always there.                       |
-| 01:10:42   | And then he's got a second XL that, that is dynamic, you know, like, and I said, oh,                   |
+| 01:10:42   | And then he's got a second [[Stream Deck#Stream Deck XL\|XL]] that, that is dynamic, you know, like, and I said, oh,                   |
 | 01:10:50   | you know, that actually makes a lot of sense.                                                          |
 | 01:10:52   | And then after we finished a call, one of the listeners wrote me and said, Hey, I have                 |
-| 01:10:55   | an XL.                                                                                                 |
+| 01:10:55   | an [[Stream Deck#Stream Deck XL\|XL]].                                                                                                 |
 | 01:10:56   | It's just not for me.                                                                                  |
 | 01:10:58   | I don't use it.                                                                                        |
 | 01:10:59   | It's in a drawer.                                                                                      |
@@ -1261,12 +1261,12 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:11:41   | But like I can tell you right now, it's 753 p.m. in London, you know, it's like, it gives              |
 | 01:11:45   | me everything I need to, to make this show on a, on this dynamic bottom one.                           |
 | 01:11:51   | And it's great.                                                                                        |
-| 01:11:52   | Then of course I added the Stream Deck plus because it couldn't help myself, but I use                 |
+| 01:11:52   | Then of course I added the [[Stream Deck#Stream Deck+\|Stream Deck+]] because it couldn't help myself, but I use                 |
 | 01:11:56   | that largely for recording tools and action.                                                           |
 | 01:12:00   | And then I've got the buttons below, you know, in the pedal.                                           |
-| 01:12:03   | So I have four Stream Decks running.                                                                   |
+| 01:12:03   | So I have four [[Stream Deck\|Stream Decks]] running.                                                                   |
 | 01:12:05   | And that's one of the reasons why I'm a little intimidated by going a [[BetterTouchTool]] over           |
-| 01:12:11   | because I've got to reconfigure four Stream Decks, not just one.                                       |
+| 01:12:11   | because I've got to reconfigure four [[Stream Deck\|Stream Decks]], not just one.                                       |
 | 01:12:15   | And that's going to be work.                                                                           |
 | 01:12:17   | And the one, the dynamic one has about 10 different setups on it, you know, 10 different               |
 | 01:12:22   | screens, whether I'm, you know, an OmniFocus to managing mail, making Mac power users,                 |
@@ -1274,16 +1274,16 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:12:31   | throughout the day.                                                                                    |
 | 01:12:32   | So I got a little project ahead of me, Rose.                                                           |
 | 01:12:36   | You do.                                                                                                |
-| 01:12:37   | I have to say what I did is I managed to go find the actual Stream Deck, like configuration.           |
-| 01:12:42   | I backed up my Stream Decks and exported the backup files.                                             |
+| 01:12:37   | I have to say what I did is I managed to go find the actual [[Stream Deck]], like configuration.           |
+| 01:12:42   | I backed up my [[Stream Deck\|Stream Decks]] and exported the backup files.                                             |
 | 01:12:46   | And then I, you know, just opened up the files in [[BBEdit]].                                             |
-| 01:12:51   | And they're XML files.                                                                                 |
+| 01:12:51   | And they're [[XML]] files.                                                                                 |
 | 01:12:53   | You don't need to be able to read like the code behind it.                                             |
-| 01:12:58   | You can just like look at the words and then you'll see like something that's called omnifocus.        |
+| 01:12:58   | You can just like look at the words and then you'll see like something that's called [[OmniFocus]].        |
 | 01:13:03   | And then, you know, and it does this thing and this thing and this thing.                              |
 | 01:13:06   | And that was very useful.                                                                              |
 | 01:13:08   | The other thing that I did, because once you switch [[BetterTouchTool]] to taking over the               |
-| 01:13:13   | Stream Deck, you need to quit the Stream Deck software to be able to work with it.                     |
+| 01:13:13   | [[Stream Deck]], you need to quit the [[Stream Deck]] software to be able to work with it.                     |
 | 01:13:17   | So I did screenshots of all of the different screens so that I had all of them and that                |
 | 01:13:24   | worked out really nicely as well.                                                                      |
 | 01:13:26   | So it was worth it.                                                                                    |
@@ -1293,13 +1293,13 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:13:36   | into six other things.                                                                                 |
 | 01:13:38   | But you know, it's worth doing it.                                                                     |
 | 01:13:41   | My work machine is a lot happier since I switched to using a [[BetterTouchTool]] instead                 |
-| 01:13:46   | of the Stream Deck software.                                                                           |
+| 01:13:46   | of the [[Stream Deck]] software.                                                                           |
 | 01:13:47   | So I definitely recommend it.                                                                          |
 | 01:13:49   | Yeah.                                                                                                  |
 | 01:13:50   | I'm going to.                                                                                          |
-| 01:13:51   | And you know, I've had plenty of bugs with the Stream Deck software over the years.                    |
+| 01:13:51   | And you know, I've had plenty of bugs with the [[Stream Deck]] software over the years.                    |
 | 01:13:57   | Totally unrelated.                                                                                     |
-| 01:13:58   | I spent more money with Elgato last week.                                                              |
+| 01:13:58   | I spent more money with [[Elgato]] last week.                                                              |
 | 01:14:02   | Did you get the email last week?                                                                       |
 | 01:14:04   | I might have done.                                                                                     |
 | 01:14:05   | They released a green screen and it's a self-contained green screen where it lays on the floor.        |
@@ -1353,10 +1353,10 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:15:50   | The thing that I really like about it is you can chuck it in your back with you and go                 |
 | 01:15:53   | somewhere because it's so small and it's so light.                                                     |
 | 01:15:57   | Yeah.                                                                                                  |
-| 01:15:58   | And that's where it, like it's, it's kind of the portable Stream Deck in the very truly                |
+| 01:15:58   | And that's where it, like it's, it's kind of the portable [[Stream Deck]] in the very truly                |
 | 01:16:03   | portable sense.                                                                                        |
 | 01:16:04   | So yeah.                                                                                               |
-| 01:16:05   | I still don't exactly understand what you do with this CAD mouse.                                      |
+| 01:16:05   | I still don't exactly understand what you do with this [[CAD]] mouse.                                      |
 | 01:16:09   | You know what I mean?                                                                                  |
 | 01:16:10   | It's just like, so it's not really a mouse.                                                            |
 | 01:16:13   | It's just a, it's just a control surface.                                                              |
@@ -1372,29 +1372,29 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:16:24   | Did I tempt you to buy anything today?                                                                 |
 | 01:16:26   | I'm not sure.                                                                                          |
 | 01:16:27   | I mean, mostly that I just need to sit down and spend some time moving everything over                 |
-| 01:16:31   | into the [[BetterTouchTool]] app for my Stream Deck stuff, and then we can come back and                 |
+| 01:16:31   | into the [[BetterTouchTool]] app for my [[Stream Deck]] stuff, and then we can come back and                 |
 | 01:16:35   | talk about that.                                                                                       |
 | 01:16:37   | I am definitely intrigued with the, the contour design shuttle, the little one, not the pro,           |
 | 01:16:46   | but or the controller express, sorry, but I'm not sure.                                                |
 | 01:16:50   | I'll continue thinking about it and see, you know, see what happens.                                   |
 | 01:16:53   | But I'm not sure what that would do for you that the CAD mouse doesn't do.                             |
-| 01:16:56   | Well, the thing with the CAD mouse is it's quite big.                                                  |
+| 01:16:56   | Well, the thing with the [[CAD]] mouse is it's quite big.                                                  |
 | 01:16:59   | So if I need more space on my desk, then I have to put it away.                                        |
 | 01:17:03   | And it is, you know, it's a big thing.                                                                 |
 | 01:17:06   | So for me, this, and the other thing is, is this I would potentially use for volume,                   |
 | 01:17:12   | like a permanent volume dial or similar.                                                               |
 | 01:17:14   | Maybe I should just look for something that's a volume dial.                                           |
 | 01:17:16   | And that's what I actually want because that's usually what I want actually to be fair.                |
-| 01:17:20   | What about the Stream Deck plus button?                                                                |
+| 01:17:20   | What about the [[Stream Deck#Stream Deck+\|Stream Deck+]] button?                                                                |
 | 01:17:22   | Yeah.                                                                                                  |
 | 01:17:23   | I mean, I am using that as well.                                                                       |
 | 01:17:25   | It's just one of those things where sometimes like having like, this is just like this thing           |
 | 01:17:29   | and it does this would be great.                                                                       |
 | 01:17:31   | Maybe what I actually want, I think what I want, David, is I need to hook up.                          |
-| 01:17:36   | I've got, I bought an IKEA symphonist button, one of the old ones.                                     |
+| 01:17:36   | I've got, I bought an [[IKEA]] [[Symphonist]] button, one of the old ones.                                     |
 | 01:17:39   | There's just like a dial.                                                                              |
 | 01:17:40   | And I need to hook that up so that when I use that, then it pauses or resumes playback                 |
-| 01:17:45   | on my HomePods and then adjust the volume up and down here in the office.                             |
+| 01:17:45   | on my [[HomePod\|HomePods]] and then adjust the volume up and down here in the office.                             |
 | 01:17:48   | That's what I need to do.                                                                              |
 | 01:17:49   | Well, either way.                                                                                      |
 | 01:17:50   | That's my project.                                                                                     |

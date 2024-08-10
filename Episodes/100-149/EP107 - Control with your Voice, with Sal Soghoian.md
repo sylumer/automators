@@ -1214,7 +1214,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:16:13   | It's probably one of the few things in life that will respond to what you say.                       |
 | 01:16:18   | Yeah, exactly.                                                                                       |
 | 01:16:20   | Definitely not my dog, but my back will.                                                             |
-| 01:16:24   | I mean, as long as she's not chewing your Stream Deck cable, David, I think we're fine,              |
+| 01:16:24   | I mean, as long as she's not chewing your [[Stream Deck]] cable, David, I think we're fine,              |
 | 01:16:27   | though.                                                                                              |
 | 01:16:28   | I should work on a voice command for that.                                                           |
 | 01:16:29   | I mean, that said, robot vacuums could definitely chew on cables if they want to.                    |

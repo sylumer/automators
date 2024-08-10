@@ -571,7 +571,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 32:53      | to wherever you designate.                                                                         |
 | 32:55      | So when we finish today's show, I will go into the folder that, that I have designated             |
 | 33:03      | to save these recordings, I'll select the files of our recording and I'll push a button            |
-| 33:07      | on my Stream Deck and it will trigger this [[Keyboard Maestro]] script to move the files               |
+| 33:07      | on my [[Stream Deck]] and it will trigger this [[Keyboard Maestro]] script to move the files               |
 | 33:12      | to the editor's shared folder on [[Dropbox]].                                                          |
 | 33:14      | And I've done this for a bunch of things in my life.                                               |
 | 33:17      | The one I'm going to share is one where I share stuff to be edited with JF, the editor             |
@@ -600,7 +600,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 34:44      | deck button and off it goes.                                                                       |
 | 34:46      | And anybody, no matter what job you have, if you think about it, like if you repeatedly            |
 | 34:51      | move files to a certain location, you don't have to open the finder, you don't have to             |
-| 34:55      | drag anything to select the file, push a button on the Stream Deck and off it goes.                |
+| 34:55      | drag anything to select the file, push a button on the [[Stream Deck]] and off it goes.                |
 | 35:00      | And I find that to be something I use daily.                                                       |
 | 35:03      | Well, I also have some very similar actions in [[Keyboard Maestro]] for moving files, but              |
 | 35:12      | I, as always, David, I kind of took it to the next level because it's me we're talking             |

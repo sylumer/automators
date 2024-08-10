@@ -1100,7 +1100,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:05:15   | Oh, gosh, I can feel the excitement coming through right back at me.                                 |
 | 01:05:21   | So I use this and what it does activates [[Audio Hijack]] and it starts the recording and it             |
 | 01:05:25   | sets the timestamp in the [[Keyboard Maestro]] macro.                                                    |
-| 01:05:28   | So whenever I hit my foot pedal on my Stream Deck, then it goes into the [[BBEdit]] document,           |
+| 01:05:28   | So whenever I hit my foot pedal on my [[Stream Deck]], then it goes into the [[BBEdit]] document,           |
 | 01:05:34   | which is the show notes and then it's a return key and then pastes the timestamp with a colon        |
 | 01:05:39   | so I can just type whatever after that so that Jim are fabulous editor who seriously,                |
 | 01:05:44   | one of the best automation hacks for podcasting is to get a really great editor like Jim and         |

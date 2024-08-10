@@ -537,7 +537,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 27:37      | And then I wrote that script that puts in the recipient.                                               |
 | 27:40      | So I just type X high, it'll say high Rosemary, it'll grab your name from the two fields.              |
 | 27:46      | All those little, like I've tweaked Apple Mail to kind of myself and then I've programmed              |
-| 27:51      | all that stuff into my Stream Deck and I've also programmed it into the keypad on my extended          |
+| 27:51      | all that stuff into my [[Stream Deck]] and I've also programmed it into the keypad on my extended          |
 | 27:59      | keyboard.                                                                                              |
 | 28:01      | And so I'm really fast with Apple Mail.                                                                |
 | 28:05      | So it's hard for me to move on and I don't think there's anything else that really supports            |
@@ -574,7 +574,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 30:21      | I do like a morning clear out to catch any emergencies and then the afternoon I actually               |
 | 30:28      | process Mail.                                                                                          |
 | 30:29      | I don't really respond to Mail unless it's an emergency early afternoon, but like I have               |
-| 30:33      | programmed with those AppleScripts on my numeric keypad or on the Stream Deck, I can                  |
+| 30:33      | programmed with those AppleScripts on my numeric keypad or on the [[Stream Deck]], I can                  |
 | 30:41      | type one, two or three.                                                                                |
 | 30:43      | One is priority, two is action, three is read later and then I've got the zero underneath              |
 | 30:49      | it is to archive it.                                                                                   |
@@ -1441,7 +1441,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:24:19   | I love what he's doing.                                                                                |
 | 01:24:23   | And this post just went up today as we're recording, but it's really impressive.                       |
 | 01:24:27   | And he also, Stephen's the guy who also made the cool script where I ran the entire set                |
-| 01:24:33   | of [[SF Symbols]] icons in gray, which now is the basis of so many of my Stream Deck icons.                |
+| 01:24:33   | of [[SF Symbols]] icons in gray, which now is the basis of so many of my [[Stream Deck]] icons.                |
 | 01:24:41   | I mean, it's like this guy just keeps doing stuff.                                                     |
 | 01:24:44   | And so we'll reach out and get him on the show again this year, but he's got that.                     |
 | 01:24:49   | But I think the big deal is we want to do these ask the automator questions going forward.             |

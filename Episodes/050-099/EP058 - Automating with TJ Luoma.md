@@ -86,7 +86,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:24      | not wrecking my floor and I can literally roll across the entire house on one push.                           |
 | 01:29      | So it's awesome. But that's how we're here. We're going to hear today to talk about automation                |
 | 01:34      | and that, like you said, is your hobby. We're going to cover with TJ today because his stack                  |
-| 01:39      | runs deep gang. We're going to, at some point, we're going to get into some Stream Deck cool                  |
+| 01:39      | runs deep gang. We're going to, at some point, we're going to get into some [[Stream Deck]] cool                  |
 | 01:44      | stuff he's doing. And but I think let's start out, TJ, just with a little background. How                     |
 | 01:51      | did you turn this into your hobby? How did you become such a big automator?                                   |
 | 01:55      | Well, you know, it was interesting. I think it goes all the way back to going. I started                      |
@@ -595,15 +595,15 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 43:12      | All right, thanks to ExpressVPN for their support of this show and all of relay.fm.                          |
 | 43:17      | So, TJ, I first reached out about getting you on the show because I was playing with                          |
 | 43:23      | a macro that you posted for a series of macros, actually, that you posted, with calendar integration          |
-| 43:30      | and Stream Deck integration and awesome notary, I think is the correct phrase, which shows                    |
-| 43:37      | your calendar events on your Stream Deck so that you can actually see what's happening                        |
+| 43:30      | and [[Stream Deck]] integration and awesome notary, I think is the correct phrase, which shows                    |
+| 43:37      | your calendar events on your [[Stream Deck]] so that you can actually see what's happening                        |
 | 43:42      | and what's going to happen next and how's your day going. And I love this. How did you                        |
 | 43:47      | come up with this? Where did you get started?                                                                 |
 | 43:49      | Oh, well, again, COVID. There have been so many meetings and among so many Zoom meetings                      |
 | 43:55      | and things like that. And not only is it hard to keep track of what day it is, it was sort                    |
 | 44:00      | of like, am I done? Am I done for the day was really the thing that I wanted to be                            |
-| 44:05      | able to see. And you know, I had no idea what a Stream Deck was until I saw in the release                    |
-| 44:11      | notes for [[Keyboard Maestro]] now support Stream Deck. And I'm like, oh, what's a Stream Deck?                   |
+| 44:05      | able to see. And you know, I had no idea what a [[Stream Deck]] was until I saw in the release                    |
+| 44:11      | notes for [[Keyboard Maestro]] now support [[Stream Deck]]. And I'm like, oh, what's a [[Stream Deck]]?                   |
 | 44:16      | And I looked at it and I'm like, oh, okay, it's a thing for streamers. I don't need that.                     |
 | 44:21      | And then I looked like, oh, what can [[Keyboard Maestro]] do with it? Oh, it can output any                       |
 | 44:25      | text from any macro into a button. And the next thing I knew I had ordered a 32 button                        |
@@ -635,14 +635,14 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 46:52      | colour. And usually all my icons are, you know, have a black background, but then it has,                      |
 | 46:58      | I think it starts out blue, and then it goes to yellow about 15 minutes before the meeting,                   |
 | 47:03      | and then about five minutes before the meeting, it goes red. And that to me, I mean, I'm just                 |
-| 47:07      | always going to see that. I don't know where you all keep your Stream Deck, but for me,                       |
+| 47:07      | always going to see that. I don't know where you all keep your [[Stream Deck]], but for me,                       |
 | 47:11      | it's right above my keyboard. Like it's an extra function row. So I'm always going to                         |
 | 47:17      | see something that's changing colour in that line of sight. And that was really the first                      |
-| 47:23      | time I had really totally geeked out on the Stream Deck and [[Keyboard Maestro]]. And it's                        |
+| 47:23      | time I had really totally geeked out on the [[Stream Deck]] and [[Keyboard Maestro]]. And it's                        |
 | 47:27      | probably still the most complicated thing I've done with it. But I use it every single                        |
 | 47:31      | day and absolutely love, you know, just having that there. And I just know that that's my                     |
 | 47:36      | meeting spot. So when I glance down, I can always know.                                                       |
-| 47:39      | I just remember reading that you were buying a Stream Deck thinking this is going to be                       |
+| 47:39      | I just remember reading that you were buying a [[Stream Deck]] thinking this is going to be                       |
 | 47:44      | so good for us because TJ is going to automate the heck out of this thing. So can you walk                    |
 | 47:49      | us through the steps though? And I've described what it does, but for people who want to try                  |
 | 47:53      | and build this, and we've got links in the show notes, so you can download a bunch of                         |
@@ -674,9 +674,9 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 50:27      | you know, you can control these things. And it really is, I don't know how good of a job                      |
 | 50:33      | I've done at describing it, but with an if-else in [[Keyboard Maestro]], which is just something                  |
 | 50:39      | you drag over, and then you just, you know, type in or click on the new action and just                       |
-| 50:44      | type in Stream Deck and just see what it does. You can't hurt anything. It's not going                        |
+| 50:44      | type in [[Stream Deck]] and just see what it does. You can't hurt anything. It's not going                        |
 | 50:48      | to break it. Yeah. Well, it's really impressive. And just it was very creative. I thought just                |
-| 50:53      | to even come up with the idea and never would have occurred to me to turn Stream Deck buttons                 |
+| 50:53      | to even come up with the idea and never would have occurred to me to turn [[Stream Deck]] buttons                 |
 | 50:59      | into a status panel for your calendar. I mean, what a great idea. Well, I'm really glad that                  |
 | 51:05      | other people have used it. I mean, that to me is the biggest thing. And one of the reasons                    |
 | 51:08      | I like sharing it is like, if I spend, well, let's say two hours, I probably spent more                       |
@@ -685,7 +685,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 51:22      | has benefited, you know, so many more people. Exactly. Yes. And it's one of these things.                     |
 | 51:27      | I saw it and I downloaded it and went, oh, and it immediately gave me ideas for other                         |
 | 51:32      | things that I could use. Somebody in the Mac Power Users for a while ago posted a macro for getting              |
-| 51:37      | your Zoom microphone status. I'm putting that in a [[Keyboard Maestro]] or in a Stream Deck                       |
+| 51:37      | your Zoom microphone status. I'm putting that in a [[Keyboard Maestro]] or in a [[Stream Deck]]                       |
 | 51:45      | button. And so I've done a little bit of modifications there and I've now got it. So if it's running,         |
 | 51:51      | then the macro runs every 30 seconds. But when the macro, when Zoom quits or launches,                        |
 | 51:56      | then it runs the macro too. And it also sets it to the Zoom icon if the Zoom isn't running                    |
@@ -710,20 +710,20 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 53:25      | you don't want to have fun and get nerdy with it, you just want to leave it as it is, you                     |
 | 53:28      | know, that's fine, you know, there's, there's plenty of choices.                                              |
 | 53:31      | Well, I, I think it's brilliant. I love the way you documented it. So anybody that's listening                |
-| 53:36      | to the automators that owns a Stream Deck, go check this out. Even if you're not a shell                      |
+| 53:36      | to the automators that owns a [[Stream Deck]], go check this out. Even if you're not a shell                      |
 | 53:42      | scripter, TJ has done the hard lifting for you. This is, this is so fun to set this up.                       |
 | 53:48      | And I, I agree with Rose. This is a TJ at his best right here doing stuff like this.                          |
-| 53:54      | But you know what, you also on your site have pictures of your Stream Deck buttons and we                     |
+| 53:54      | But you know what, you also on your site have pictures of your [[Stream Deck]] buttons and we                     |
 | 54:01      | need to talk brother. There's some stuff in here that I don't know what it is, but I want,                    |
 | 54:05      | I want to know.                                                                                               |
 | 54:06      | Oh, okay.                                                                                                     |
-| 54:08      | So what else have you done with your Stream Deck? For instance, you've got one that looks                     |
+| 54:08      | So what else have you done with your [[Stream Deck]]? For instance, you've got one that looks                     |
 | 54:11      | like the outline of a processor with the number 3% in it. What's that?                                        |
-| 54:15      | I think is that the one that there is a just in the, if you go to your Stream Deck and                        |
+| 54:15      | I think is that the one that there is a just in the, if you go to your [[Stream Deck]] and                        |
 | 54:21      | you click on the more actions, there is one in there that will have a CPU.                                    |
 | 54:26      | Yes. So you use that one. Yeah, I've never, I've never enabled that one, but I've downloaded                  |
 | 54:33      | several of those, those more action things. In fact, the [[Keyboard Maestro]] action is a                         |
-| 54:38      | quote unquote more action that you need to install on your, your Stream Deck. I find                          |
+| 54:38      | quote unquote more action that you need to install on your, your [[Stream Deck]]. I find                          |
 | 54:44      | the timer ones are very useful. Those were built in like I have a five minute timer and                       |
 | 54:50      | it rings a bell on my Mac, you know, it just starts counting down from five. I have another                   |
 | 54:53      | one for 45 minutes, which is kind of my Pomodoro button. And the, you know, there's a, there's                |
@@ -750,7 +750,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 56:32      | Yeah. Yeah. And that's just another example of window management through [[Keyboard Maestro]].                    |
 | 56:37      | Yeah, exactly. Yep.                                                                                           |
 | 56:39      | Yeah. There's also an analog clock you can download, which I think is kind of clever                          |
-| 56:44      | having a little analog clock right on your Stream Deck. And that's a no brainer for me                        |
+| 56:44      | having a little analog clock right on your [[Stream Deck]]. And that's a no brainer for me                        |
 | 56:50      | putting that one in. There's a random number generator, like I think they sell it as a                        |
 | 56:57      | six-sided dice. I configured it as a two-sided dice. So it was like a coin. And I've had                      |
 | 57:03      | that on there for two months and I've not used it once. So that's going to go away.                           |
@@ -764,12 +764,12 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 57:41      | time zone. Actually, at least two I can think of. I know Steven and Rose are both out of                      |
 | 57:47      | your time zone. You could use that there.                                                                     |
 | 57:49      | Where did you get Bar Raider? I've not heard of that one before. Is that on the list from                     |
-| 57:54      | a Stream Deck or is that outside?                                                                             |
+| 57:54      | a [[Stream Deck]] or is that outside?                                                                             |
 | 57:57      | I think I may have Googled that, but at Bar Raider.com is the...                                              |
 | 58:01      | Got it. Link is in the show notes.                                                                            |
 | 58:04      | Awesome.                                                                                                      |
 | 58:05      | Cool. Yeah, I have been looking at, I've been corresponding, because there's a toggle one                     |
-| 58:10      | too that Stream Deck has on their more actions list, but the guy who put it together did                      |
+| 58:10      | too that [[Stream Deck]] has on their more actions list, but the guy who put it together did                      |
 | 58:16      | not address tags. And like for certain of my toggle timers, I tag them as moving the                          |
 | 58:24      | needle. They're like things that are important to me. And I need, if I'm going to automate                    |
 | 58:28      | a toggle timer, it needs to have a tag ability, but there's activity right now going on where                 |
@@ -784,15 +784,15 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 59:17      | to let her finish it. And then one day I'm just going to open it up and use it. And that's                    |
 | 59:21      | just going to be it. So stay tuned, Automators listeners. I don't think that is that far                      |
 | 59:28      | away. Once we get Rose moved in.                                                                              |
-| 59:30      | Yeah, exactly. Do you all use multiple profiles on your Stream Deck? Or do you just basically                 |
+| 59:30      | Yeah, exactly. Do you all use multiple profiles on your [[Stream Deck]]? Or do you just basically                 |
 | 59:37      | have one?                                                                                                     |
-| 59:38      | I've been using the one profile, but I do use folders on the Stream Deck where I've                           |
+| 59:38      | I've been using the one profile, but I do use folders on the [[Stream Deck]] where I've                           |
 | 59:43      | got things that I can dip into. Because I have so many buttons, I'm not sure I need                           |
 | 59:48      | multiple profiles, but explain how that works for people who especially have the smaller                      |
 | 59:52      | units.                                                                                                        |
 | 59:53      | Right. Well, I think that that may have been where it started for. And I was the same way.                    |
 | 59:58      | I was just sort of like, oh, one screen doll I need, but there is an option. One of the                       |
-| 01:00:02   | built in features of the Stream Deck is to sort of switch profiles. And you can do that                       |
+| 01:00:02   | built in features of the [[Stream Deck]] is to sort of switch profiles. And you can do that                       |
 | 01:00:08   | either through the app on your Mac or on a button. And so the bottom right button on                          |
 | 01:00:13   | mine is a button that called switch profiles. And, you know, once I got out of that idea                      |
 | 01:00:20   | of just having one, I kind of, I think I've got like five or six now. I've got one that                       |
@@ -820,35 +820,35 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:02:06   | it, but I use the menu.                                                                                       |
 | 01:02:07   | Yeah. Because with keyboard my show, you can script anything in the menu bar and you're                       |
 | 01:02:11   | just menu bar automation and then attaching that to a button. And I would presume you're                      |
-| 01:02:17   | probably using the keyboard my show interface to the Stream Deck or using that other app                      |
+| 01:02:17   | probably using the keyboard my show interface to the [[Stream Deck]] or using that other app                      |
 | 01:02:22   | you mentioned a minute ago where you can move it around. That might make more sense.                          |
 | 01:02:25   | No, I'm using key handling for all of these because again, I don't need them to be, you                       |
 | 01:02:30   | know, it doesn't matter what, what button they're at and I want to be able to just move them                  |
 | 01:02:34   | around.                                                                                                       |
-| 01:02:35   | Well, darn you TJ. Now I got to redo my whole Stream Deck. That makes total sense to me.                      |
+| 01:02:35   | Well, darn you TJ. Now I got to redo my whole [[Stream Deck]]. That makes total sense to me.                      |
 | 01:02:42   | Well, like, like open my email application. I could have email buttons to move emails                         |
 | 01:02:47   | to all the various folders.                                                                                   |
 | 01:02:50   | Folders.                                                                                                      |
-| 01:02:51   | We got to stop recording now guys. I got to go re-program my Stream Deck.                                     |
+| 01:02:51   | We got to stop recording now guys. I got to go re-program my [[Stream Deck]].                                     |
 | 01:02:55   | Well, the good news is, is I was playing with this a while ago and I love it because I have                   |
 | 01:03:00   | it activate a different profile when I'm opening OmniFocus for example, and then I have buttons               |
 | 01:03:04   | for different perspectives because I only have a limited number of perspectives in my                         |
 | 01:03:07   | OmniFocus sidebar. And then I just have different ones appear. And especially with moving, I've               |
 | 01:03:12   | had multiple perspectives related to moving, which is, it sounds very nerdy and perhaps                       |
 | 01:03:18   | slightly over the top, but it's really helped me, you know, stay on top of things. And you                    |
-| 01:03:22   | know, I've been very happy with the fact that I've only got the medium sized Stream Deck.                     |
+| 01:03:22   | know, I've been very happy with the fact that I've only got the medium sized [[Stream Deck]].                     |
 | 01:03:27   | So I've got 15 buttons online, which is not as many, but with the ability to switch profiles                  |
 | 01:03:33   | and automatically switch profiles, I'm pretty happy.                                                          |
 | 01:03:37   | Yeah. I'm just thinking [[ScreenFlow]] needs its own deck and, you know, why not [[Safari]]?                          |
 | 01:03:43   | You know, all right. So Rose, I'm so glad you guys figured this out for me. This is                           |
 | 01:03:47   | going to be great. Rose took it a step further. She's automating switching the profile based                  |
-| 01:03:52   | on the app she's in. So can you address the Stream Deck to change to a specific profile                       |
+| 01:03:52   | on the app she's in. So can you address the [[Stream Deck]] to change to a specific profile                       |
 | 01:03:59   | via scripting?                                                                                                |
-| 01:04:00   | I want to say, I did this inside the Stream Deck application. So inside the Stream Deck                       |
+| 01:04:00   | I want to say, I did this inside the [[Stream Deck]] application. So inside the [[Stream Deck]]                       |
 | 01:04:05   | preferences, there's profiles, and then you create your different profiles. And then if                       |
 | 01:04:09   | you click on it, then you can assign it to an application. So I've got an OmniFocus                           |
 | 01:04:13   | profile assigned to OmniFocus.                                                                                |
-| 01:04:14   | So as soon as OmniFocus is active, the whole Stream Deck lights up for OmniFocus.                             |
+| 01:04:14   | So as soon as OmniFocus is active, the whole [[Stream Deck]] lights up for OmniFocus.                             |
 | 01:04:18   | Yeah. It switches over.                                                                                       |
 | 01:04:20   | Okay. I'm in. I'm in.                                                                                         |
 | 01:04:23   | Well I've got another little power tip for you. If you've got a bunch of these and they                       |
@@ -857,7 +857,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:04:41   | of buttons that go to profiles.                                                                               |
 | 01:04:45   | A profile button. I knew that was where you're going. I didn't interrupt you. I'm like, this                  |
 | 01:04:49   | guy's made a profile for profiles.                                                                            |
-| 01:04:51   | Yeah. So the bottom right button on my Stream Deck is it's called switch. And then when                       |
+| 01:04:51   | Yeah. So the bottom right button on my [[Stream Deck]] is it's called switch. And then when                       |
 | 01:04:57   | I hit it, it shows me what my different profiles are. And I can jump right to one. And I just                 |
 | 01:05:02   | use that bottom right button on every single profile. We'll bring that up.                                    |
 | 01:05:06   | Now why would you do that as a separate profile versus just a folder full of profile buttons?                 |
@@ -865,7 +865,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:05:16   | from, from anywhere. I just, from any of my, but yeah, folder, I cut it down folder as                        |
 | 01:05:22   | well.                                                                                                         |
 | 01:05:23   | Okay. So make sure I wasn't missing anything. You also have a volume button on your basic                     |
-| 01:05:29   | Stream Deck profile. So with the number 19 under it, was that, are you able to set your,                      |
+| 01:05:29   | [[Stream Deck]] profile. So with the number 19 under it, was that, are you able to set your,                      |
 | 01:05:34   | you're just setting your input volume or your output volume? What are you doing?                              |
 | 01:05:38   | That's just a quick, it will, it will mute if I hit that button. And if it is muted,                          |
 | 01:05:43   | it will show me that icon will turn red.                                                                      |
@@ -906,13 +906,13 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:08:23   | Wi-Fi, which, you know, is a start. So I've got some switchplate covers arriving that                         |
 | 01:08:30   | hue remotes just sort of magnetise into so that then the real switches are behind it                          |
 | 01:08:35   | and then these hue switches or hue controllers go over the top. But it won't go too crazy.                    |
-| 01:08:42   | And now on my Stream Deck, because TJ reminded me, and I hadn't set it up just yet, I have                    |
+| 01:08:42   | And now on my [[Stream Deck]], because TJ reminded me, and I hadn't set it up just yet, I have                    |
 | 01:08:46   | a button that controls the lights in my office so I can press it and turn off the lights                      |
 | 01:08:50   | and press it and turn on the lights in my office because I've got Philips Hue lights                          |
 | 01:08:54   | in here now. Yeah, the Philips Hue control with the                                                           |
-| 01:08:56   | Stream Deck is like ridiculously easy. You download the button, you tell it what you                          |
+| 01:08:56   | [[Stream Deck]] is like ridiculously easy. You download the button, you tell it what you                          |
 | 01:09:00   | want, and it even changes the state, the colour of the button based on the state. So that's                    |
-| 01:09:06   | almost not automation, but it's, if you've got a Stream Deck, it's a great bonus feature.                     |
+| 01:09:06   | almost not automation, but it's, if you've got a [[Stream Deck]], it's a great bonus feature.                     |
 | 01:09:12   | Yeah, definitely. This episode of The Automators is brought                                                   |
 | 01:09:17   | to you by Mint Mobile. Use Mint Mobile to cut your wireless bill to $15 a month. Mint                         |
 | 01:09:24   | Mobile can cut your wireless bill to $15 a month with their futuristic approach to wireless.                  |
@@ -938,13 +938,13 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:11:07   | for free, go to mintmobile.com/automators. I've been super impressed with Mint Mobile                   |
 | 01:11:13   | on my Android phone, and now I'm using it all the time. That's mintmobile.com/                          |
 | 01:11:19   | automators. Go there now, cut your wireless bill to $15 a month at mintmobile.com/                      |
-| 01:11:25   | automators. Our thanks to Mint Mobile for their support of the automators and all of Real AFM.                |
+| 01:11:25   | automators. Our thanks to Mint Mobile for their support of the automators and all of Relay FM.                |
 | 01:11:32   | So, TJ, while I was digging around in this fabulous calendar macro that you've got for                        |
-| 01:11:38   | Stream Deck, I noticed that there was a link that said Real AFM, a link to the Mac Paris                      |
-| 01:11:43   | users forum. Then I clicked on it, and there's a 32-button Stream Deck with just all of the                   |
+| 01:11:38   | [[Stream Deck]], I noticed that there was a link that said Real AFM, a link to the Mac Paris                      |
+| 01:11:43   | users forum. Then I clicked on it, and there's a 32-button [[Stream Deck]] with just all of the                   |
 | 01:11:49   | Real AFM podcast logos on it. What happened here? What's going on?                                            |
 | 01:11:53   | Yeah, this is one of these. Dave was just saying about going automation crazy. It wasn't too long             |
-| 01:11:59   | after I got my Stream Deck, and I was just playing around with it. I'm like, what can I do with it?           |
+| 01:11:59   | after I got my [[Stream Deck]], and I was just playing around with it. I'm like, what can I do with it?           |
 | 01:12:05   | I do have, again, I've got some automations built around Relay. I listen to, I think I listen                 |
 | 01:12:11   | almost all the Relay shows. So all of a sudden, I was like, huh, I think there are just about as              |
 | 01:12:18   | many Relay shows as I've got buttons on here. What if I made a button for each one of the shows?              |
@@ -969,27 +969,27 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:14:03   | I'm doing prep or I just want to check the sponsors or whatever. And then, you know,                          |
 | 01:14:07   | means that, you know, if I'm recording and I want to check the sponsors, I open the folder and then           |
 | 01:14:11   | I press sponsors. But that's reasonable for me. I was just thinking too, we were talking about                |
-| 01:14:16   | Bitbar a little earlier. I've got a Bitbar script that will tell me if Relay is broadcasting live.            |
+| 01:14:16   | [[Bitbar]] a little earlier. I've got a [[Bitbar]] script that will tell me if Relay is broadcasting live.            |
 | 01:14:23   | And it will also show me the most recent show that was posted to the site. And it even pulls out              |
 | 01:14:29   | the little blurb paragraph. So sometimes if I do find a show that I'm not, you know, I don't listen           |
 | 01:14:34   | to, I'll find an episode that looks interesting up there. And so yeah, you know, I think we really,           |
-| 01:14:39   | Steven now has a Stream Deck. I was very proud that David talked him into getting one, but I think            |
-| 01:14:45   | Mike needs one. And then he probably has one. I saw it on [[Instagram]] the other day. Yeah.                      |
+| 01:14:39   | [[Stephen Hackett\|Stephen]] now has a [[Stream Deck]]. I was very proud that David talked him into getting one, but I think            |
+| 01:14:45   | [[Myke Hurley\|Myke]] needs one. And then he probably has one. I saw it on [[Instagram]] the other day. Yeah.                      |
 | 01:14:50   | Oh, okay. I wonder if that's new. I haven't heard him talk about it.                                          |
 | 01:14:52   | Yeah, I think it was because they're getting ready to do the podcast-a-thon. And the way I                    |
-| 01:14:57   | sold Steven on the Stream Deck was, look, if you're going to be doing a live video thing with                 |
-| 01:15:01   | multiple cameras, the Stream Deck, that's what it was. It's called Stream Deck. You know, that's              |
+| 01:14:57   | sold [[Stephen Hackett\|Stephen]] on the [[Stream Deck]] was, look, if you're going to be doing a live video thing with                 |
+| 01:15:01   | multiple cameras, the [[Stream Deck]], that's what it was. It's called [[Stream Deck]]. You know, that's              |
 | 01:15:05   | what it was made for. Absolutely. Right out of the box, it supports a lot of the tools he's using.            |
 | 01:15:11   | So he got it. But, you know, like a nerd, he's got into it now and he's doing a bunch of other                |
 | 01:15:15   | stuff with it too. Controlling his lights. I'm going to send him a link to this show. I'm sure                |
 | 01:15:19   | Steven will pick up a couple tips from this. It's really crazy. And if he's got one, I'm sure Mike's          |
 | 01:15:25   | going to get one. Do you miss it? Like, I know that you've got your laptop connected to your big              |
 | 01:15:30   | monitor, but presumably sometimes you're not connected to your monitor. You've got so much                    |
-| 01:15:35   | of your workflow going through the Stream Deck. I would imagine that could become a little crippling          |
+| 01:15:35   | of your workflow going through the [[Stream Deck]]. I would imagine that could become a little crippling          |
 | 01:15:39   | to you. Yeah, you know, it is. You know, before March 15th, I didn't even have like a home office             |
 | 01:15:47   | set up at all. And now six months later, I'm thinking, boy, it's going to be tough for me to                  |
 | 01:15:53   | go back to my regular office because now I've got a standing desk and I've got my microphone set up           |
-| 01:15:58   | and I've got my Stream Deck and I've got all this stuff. Like, it's a really nice setup. So                   |
+| 01:15:58   | and I've got my [[Stream Deck]] and I've got all this stuff. Like, it's a really nice setup. So                   |
 | 01:16:03   | I do find that I miss it. I think the saving grace is that a lot of my [[Keyboard Maestro]],                      |
 | 01:16:10   | a lot of my buttons do connect to [[Keyboard Maestro]] things. So I can obviously do that                         |
 | 01:16:14   | another way. But again, I just, you know, it's, it's something, it's some kind of a combination               |
@@ -999,7 +999,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:16:37   | there. And for a while, I was bringing it back and forth between my, my church off the stream                 |
 | 01:16:43   | deck back and forth. And that was, it does not fit in a laptop bag. You know, just get a second one           |
 | 01:16:49   | for as much as you're doing with it. I'm serious. I'm seeing two choices here, either get a second            |
-| 01:16:54   | Stream Deck or use something like [[BetterTouchTool\|BetterTouchTool's]] or program the touch bar so that it's useful             |
+| 01:16:54   | [[Stream Deck]] or use something like [[BetterTouchTool\|BetterTouchTool's]] or program the touch bar so that it's useful             |
 | 01:16:59   | to you. I have been considering getting a second one because I have two machines I record at and              |
 | 01:17:03   | it's really frustrating for me to be here without it. But also at the same time, like, like TJ,               |
 | 01:17:08   | I've scripted a lot of stuff to keyboard shortcuts on [[Keyboard Maestro]] because so much of this stuff          |
@@ -1016,7 +1016,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:18:12   | whatever. But the, I think that, you know, using automation, it's very easy to cut that middle                |
 | 01:18:19   | step out where you go to the app, but you go to the app at the exact website you want or the exact            |
 | 01:18:24   | mailbox you want or whatever the exact thing you want is. And, you know, tying that to keyboard               |
-| 01:18:30   | shortcuts really helps that I think the Stream Deck can serve the exact same purpose. Like the idea           |
+| 01:18:30   | shortcuts really helps that I think the [[Stream Deck]] can serve the exact same purpose. Like the idea           |
 | 01:18:37   | Rose has of saying, when I open OmniFocus, put all of the main buttons I want right here on my stream         |
 | 01:18:43   | deck and then I don't have to think about it. And this is all automation that everybody listening             |
 | 01:18:49   | to the show can do. It's not hard, you know, it's not writing your own shell script, but it can               |
@@ -1063,16 +1063,16 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:22:36   | like adding another whole pile of buttons to your to your computer. So I'm just going to drop that            |
 | 01:22:42   | in your ear. And I'm going to check back with you in a couple of weeks. You've probably don't know            |
 | 01:22:47   | how much how effective that was. Because when you're talking about, you know, bringing your                   |
-| 01:22:51   | Stream Deck with you, I picked up a Mac, no, an iPad mini a couple of months ago on Woot.                     |
+| 01:22:51   | [[Stream Deck]] with you, I picked up a Mac, no, an iPad mini a couple of months ago on Woot.                     |
 | 01:22:58   | And the mistake I made is that it's only a 16 gigabyte, which is so not enough space. I don't                 |
 | 01:23:04   | know what I was thinking. So it'll hold the operating system. Yeah, I think there's I think                   |
 | 01:23:08   | there's like nine gigs left when you're actually using it. But I could I could make that a portable           |
-| 01:23:14   | Stream Deck with this application. So yeah, I think you may just have you may have cost me at                 |
+| 01:23:14   | [[Stream Deck]] with this application. So yeah, I think you may just have you may have cost me at                 |
 | 01:23:22   | least some no, no, you're definitely gonna cost me some money too, aren't you? Because you said it            |
 | 01:23:25   | was $30. So yeah, but there are people that swear by this app. I have not. I can't attest to it yet           |
 | 01:23:33   | because they haven't updated it for us 14. And I've got a bunch of stuff going on where I've                  |
 | 01:23:38   | got to be in these betas. But but man, just looking at the screenshots, I'm thinking this                     |
-| 01:23:43   | combined with a Stream Deck, you, you can have a lot of fun. It could feel like the Starship                  |
+| 01:23:43   | combined with a [[Stream Deck]], you, you can have a lot of fun. It could feel like the Starship                  |
 | 01:23:48   | Enterprise pretty soon sitting at your computer. Yeah, my mini is not running the beta of my 12.9             |
 | 01:23:55   | iPad pro is and my phone is but the mini is not so she was it was meant to be apparently.                     |
 | 01:24:01   | The other thing that I've tried with my mini because I also have an iPad mini, which I love                   |
@@ -1083,9 +1083,9 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:24:31   | keyboard and put it on your iPad either through Luna display or through sidecar. And then you                 |
 | 01:24:37   | can just tap on the buttons. And I've got a Logitech crayon so I can tap on them if I'm using                 |
 | 01:24:42   | sidecar. But most of the time I just use my Luna display actually. And that is pretty awesome.                |
-| 01:24:48   | And both of those help me do a Stream Deck type thing. Of course, there is also a Stream Deck                 |
+| 01:24:48   | And both of those help me do a [[Stream Deck]] type thing. Of course, there is also a [[Stream Deck]]                 |
 | 01:24:53   | for iOS app, but that's a monthly subscription of I think $10. It's not the cheapest. But if you              |
-| 01:24:59   | want to try out the Stream Deck and you don't want to invest in the hardware, then, you know,                 |
+| 01:24:59   | want to try out the [[Stream Deck]] and you don't want to invest in the hardware, then, you know,                 |
 | 01:25:02   | $10 is to try it for a month. If you've already got an iPad, that could be pretty good.                       |
 | 01:25:06   | Yeah. The thing that sells MetaGrid for me is that it built-in support to trigger                             |
 | 01:25:12   | [[Keyboard Maestro]] scripts. And it's like, okay, now I can do anything with this.                               |
@@ -1169,5 +1169,5 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:31:58   | your house. Go do that as soon as you finish your toggle script. Yes, priorities, toggle script,              |
 | 01:32:05   | set up house unpack boxes in that order. I'm going to have to use some automation to write                    |
 | 01:32:09   | my clients to explain why I'm going to be behind on a few things because I'm going to spend the               |
-| 01:32:13   | rest of the day fiddling with my Stream Deck. Thank you. And we're in the audience in two weeks               |
+| 01:32:13   | rest of the day fiddling with my [[Stream Deck]]. Thank you. And we're in the audience in two weeks               |
 | 01:32:18   | and have a great day.                                                                                         |

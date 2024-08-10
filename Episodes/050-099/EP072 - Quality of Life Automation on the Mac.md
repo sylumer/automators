@@ -142,7 +142,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 05:34      | you had your iMac in the middle and two portrait monitors either side. And I've got OmniFocus            |
 | 05:38      | and my calendar on there. And that just means that I can always glance over and see, oh,                 |
 | 05:43      | yeah, like, you know, these, these are the things that I should be seeing. And I've been                 |
-| 05:48      | programming some things so that I use my Stream Deck and keyboard my straight to switch what             |
+| 05:48      | programming some things so that I use my [[Stream Deck]] and [[Keyboard Maestro]] to switch what             |
 | 05:52      | I actually see in either of those. You know, when, when I switch context, so for example,                |
 | 05:58      | if I'm podcasting, then it'll switch to podcasting perspective in OmniFocus and my podcasting            |
 | 06:03      | calendar set in Fantastical, which is great, but I need to do more than just that because                |
@@ -398,7 +398,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 27:30      | you work on repeatedly on your Mac, where you trigger a keyboard Maestro script, and                     |
 | 27:35      | your Mac just assembles itself into the toolset that you want, with the apps that you want               |
 | 27:41      | in the place that you want them. And that is powerful. Yeah. Yeah. So one of the things                  |
-| 27:48      | that I've been doing, or how I started with this was I actually built a Stream Deck profile              |
+| 27:48      | that I've been doing, or how I started with this was I actually built a [[Stream Deck]] profile              |
 | 27:56      | for different contexts. So I've got a podcasting one with separate folders for automators,               |
 | 28:02      | nested folders, iOS today. And then inside of that, I had buttons for each of the applications           |
 | 28:09      | that I would need. And to start with, this was a case of, you know, identifying what                     |
@@ -406,7 +406,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 28:17      | buttons to start applications. And then for most of the show, you know, those buttons                    |
 | 28:23      | were completely and utterly unnecessary. And what I really needed was to run all of them                 |
 | 28:27      | at the same time. So I then combined them. And thanks to your tip, and in the last show,                 |
-| 28:34      | I am actually using the KM link plugin for Stream Deck now, instead of the [[Keyboard Maestro]]              |
+| 28:34      | I am actually using the KM link plugin for [[Stream Deck]] now, instead of the [[Keyboard Maestro]]              |
 | 28:41      | plugin, because this lets me select the macro from the drop-down, and a little hack for people            |
 | 28:47      | if they're finding that the menu of the different [[Keyboard Maestro]] macros is too long, just              |
 | 28:54      | edit the macro that you're looking for, because it's easy to find in [[Keyboard Maestro]], and               |
@@ -526,7 +526,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 38:28      | in a very specific place that I can very easily define, easier than with [[Keyboard Maestro]].               |
 | 38:36      | And then combining that with the power of [[Keyboard Maestro]] and suddenly like, man, I'm                   |
 | 38:40      | off to the races. Rose mentioned KMLink earlier, the way I use that is so I've got buttons               |
-| 38:45      | across the top row of my Stream Deck that just like one of them is legal writing. One                    |
+| 38:45      | across the top row of my [[Stream Deck]] that just like one of them is legal writing. One                    |
 | 38:52      | of them is legal admin. One of them is MacSparky planning. So I've just got a bunch                     |
 | 38:58      | of different buttons. And as I go through my day, I'm like, okay, now I'm going to                       |
 | 39:02      | spend an hour working on writing blog posts. And I press a button and suddenly my computer               |
@@ -721,7 +721,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 56:00      | roll that if I tag the file as podcast backup, that's what I do. I could also base, you know,            |
 | 56:07      | automate the rule based on the name. But because the names change, it's actually kind of difficult to    |
 | 56:12      | come up with a good naming scheme for it. But so it just takes me a second to add a tag called           |
-| 56:17      | podcast backup. In fact, I can automate that with keyboard my share, which is probably a                 |
+| 56:17      | podcast backup. In fact, I can automate that with k[[Keyboard Maestro]], which is probably a                 |
 | 56:22      | discussion for another day. But I have the ability to apply the tag with a very quick keyboard           |
 | 56:27      | shortcut. And so it puts the tag on, and then [[Hazel]] will look for any file or folder on the              |
 | 56:33      | desktop with this tag. And when it sees it, it moves it to a, what I call a podcast archive              |
@@ -858,7 +858,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:08:45   | and sign up now. Our thanks to privacy for their support of this show and Relay FM.                      |
 | 01:08:51   | Maybe the ultimate quality of a life tool on your Mac is [[Keyboard Maestro]]. We've already                 |
 | 01:08:57   | mentioned it several times during the show. Yeah, it's come up how many times now? I mean,               |
-| 01:09:01   | I don't know if we should talk about [[Keyboard Maestro]] or Stream Deck being the bright texture            |
+| 01:09:01   | I don't know if we should talk about [[Keyboard Maestro]] or [[Stream Deck]] being the bright texture            |
 | 01:09:08   | of the automators podcast, where you need to drink a sip of whatever your favourite beverage is           |
 | 01:09:13   | every time you hear it. I highly recommend Cook Zero. That's my current beverage of choice.              |
 | 01:09:18   | But take your pick there. But both applications really do make my life on my Mac much, much easier.      |
@@ -937,8 +937,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:16:05   | now I'm at home does things very differently. It just hides everything else. But it, you know,           |
 | 01:16:10   | it actually, thanks to push, get sense and notification to my phone so that my phone can                 |
 | 01:16:15   | I tap it and it automatically then puts my phone and do not disturb for the length of the meeting        |
-| 01:16:21   | and things like that. But a meeting button is something that you can easily do with Keyboard             |
-| 01:16:26   | Maestro. Yeah. I mean, so much of this stuff, I wish shortcuts had, you know. Yeah. Yeah. Same.          |
+| 01:16:21   | and things like that. But a meeting button is something that you can easily do with [[Keyboard Maestro]].             |
+| 01:16:26   | Yeah. I mean, so much of this stuff, I wish shortcuts had, you know. Yeah. Yeah. Same.          |
 | 01:16:35   | I think we all wish the shortcuts had many of the things that [[Keyboard Maestro]] had,                      |
 | 01:16:39   | but also at the same time, sometimes I wish [[Keyboard Maestro]] had some of the things that                 |
 | 01:16:42   | shortcuts does, just because, you know, they're two very different applications.                         |
@@ -948,8 +948,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:17:04   | so that when I search for things with the shortcuts name, I still find it in [[Keyboard Maestro]] and I      |
 | 01:17:09   | can learn what its real name is. Because every software I look for something, I can't find it,           |
 | 01:17:15   | and I know it exists in [[Keyboard Maestro]]. I just have to Google around until I stumble across the        |
-| 01:17:19   | right name for it. Yeah. Like, you know, a little quality of life thing I did recently with Keyboard     |
-| 01:17:26   | Maestro is a Grammarly workflow. I'm a Grammarly subscriber, so a lot of the stuff I write gets          |
+| 01:17:19   | right name for it. Yeah. Like, you know, a little quality of life thing I did recently with [[Keyboard Maestro]]     |
+| 01:17:26   | is a Grammarly workflow. I'm a Grammarly subscriber, so a lot of the stuff I write gets          |
 | 01:17:33   | run through the Grammarly filter. It's not an end all, but I mean, it's a good, it's the only            |
 | 01:17:38   | Grammar Checker that I've ever really had any reliance on. You know, like the ones built in              |
 | 01:17:43   | the word processors are actually pretty bad. But there's a couple of problems. The first is,             |
@@ -992,22 +992,22 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:21:03   | keyboard. And now we settle for me occasionally not being able to use parts of the keyboard,             |
 | 01:21:07   | which, you know, it's not ideal, but it works. So I'll take it.                                          |
 | 01:21:10   | Yes, you know, a dog doesn't put itself over the keyboard, but it does other things in getting           |
-| 01:21:15   | away of automation. Like I was rearranging my desk and I had the Stream Deck cord hanging off the        |
+| 01:21:15   | away of automation. Like I was rearranging my desk and I had the [[Stream Deck]] cord hanging off the        |
 | 01:21:20   | end and she's never chewed on cables. But for whatever reason, it was like a fabric cable.               |
 | 01:21:26   | Oh, yeah. And I looked down and she just chewed the end right off. And I'm like, damn. But fortunately,  |
-| 01:21:31   | the big Stream Deck, you can actually replace the cable on the smaller ones. I understand you can't.     |
+| 01:21:31   | the big [[Stream Deck]], you can actually replace the cable on the smaller ones. I understand you can't.     |
 | 01:21:36   | Yeah, yeah, I've got the medium size, which actually works great for me. I keep looking at the           |
-| 01:21:40   | large Stream Deck, but it's not available on Amazon at the moment in the UK, though for anybody in       |
+| 01:21:40   | large [[Stream Deck]], but it's not available on Amazon at the moment in the UK, though for anybody in       |
 | 01:21:45   | the UK who's listening, curries do have them in stock. But the problem is, is I don't feel like          |
 | 01:21:52   | I can justify it right now because I'm really happy with the medium size. I would love a replaceable     |
 | 01:21:57   | cable, though, because the cable on this A extremely long, B USB A, not USB C. So, you know,             |
-| 01:22:04   | that would be better. But speaking of the Stream Deck, the Stream Deck actually just on its own          |
+| 01:22:04   | that would be better. But speaking of the [[Stream Deck]], the [[Stream Deck]] actually just on its own          |
 | 01:22:11   | can be a great way to do a whole bunch of things. A recent plugin update for it has allowed a global     |
-| 01:22:20   | mute button in Stream Deck for your microphone. And this previously was a Windows only feature.          |
+| 01:22:20   | mute button in [[Stream Deck]] for your microphone. And this previously was a Windows only feature.          |
 | 01:22:28   | But now it's Windows and Mac, which means it works. And I love it. It's great. I love having             |
 | 01:22:33   | that there. And I've been using that a lot. I have a foot pedal for my external microphone,              |
-| 01:22:38   | but I love the Stream Deck button for it as well. But of course, you can amp up your Stream Deck         |
-| 01:22:43   | massively with Keeper Maestro and the plugin that we mentioned near the start of the show,               |
+| 01:22:38   | but I love the [[Stream Deck]] button for it as well. But of course, you can amp up your [[Stream Deck]]         |
+| 01:22:43   | massively with [[Keyboard Maestro]] and the plugin that we mentioned near the start of the show,               |
 | 01:22:48   | KM Link, because you will just be able to do so many things with that because it's,                      |
 | 01:22:55   | you know, 16 programmable buttons. I have a button here with the automators logo on it,                  |
 | 01:22:59   | David. You know, how cool is that? Yeah. And then I would imagine, is that your                          |
@@ -1024,7 +1024,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:23:56   | have available, like the Relay FM CMS and things like that, so that I can always make sure that          |
 | 01:24:01   | things are there and, you know, the Google Drive folder so that I can always find all of our             |
 | 01:24:07   | documents, which is super handy. The last time we had TJ on, he really gave me religion about            |
-| 01:24:15   | multiple palettes on the Stream Deck, you know, and like a good example. And this really combines        |
+| 01:24:15   | multiple palettes on the [[Stream Deck]], you know, and like a good example. And this really combines        |
 | 01:24:22   | well with [[Keyboard Maestro]]. Like Microsoft Word is a good example. It's an app that I use a lot,         |
 | 01:24:28   | but it's just really kind of sometimes difficult to get it to do, like, repeatable tests. Like,          |
 | 01:24:36   | one of the things I do often is I comment on documents for clients and I put a capitalised word          |
@@ -1036,7 +1036,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:25:09   | [[Keyboard Maestro]] script that uses the keyboard combination for the selected text to add a comment        |
 | 01:25:15   | then writes in the word privilege, puts a colon, adds a new paragraph. At one point, I was highlighting  |
 | 01:25:20   | it, but I thought that was too much. And then once I made that script, then I just added it to a         |
-| 01:25:26   | Stream Deck button. And I have a whole Stream Deck palette that loads every time I open Microsoft        |
+| 01:25:26   | [[Stream Deck]] button. And I have a whole [[Stream Deck]] palette that loads every time I open Microsoft        |
 | 01:25:31   | Word. And that was kind of the gateway. And now all of a sudden, like all the like weird,                |
 | 01:25:35   | repeatable stuff I do in Word, I've made [[Keyboard Maestro]] scripts and buttons. Some of them are          |
 | 01:25:41   | simple as just like a keyboard combination of changing the view from draft view to print preview         |
@@ -1061,13 +1061,13 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:27:34   | [[Keyboard Maestro]] markers for these just because it's easy. And then I have it in [[Keyboard Maestro]]        |
 | 01:27:38   | if I need it elsewhere, like for example, on another Mac, which might happen. Though I do                |
 | 01:27:44   | recommend you backup your [[ScreenFlow]] profiles regularly, and there's a backup function in                |
-| 01:27:48   | Stream Deck for you to do that. But I've got several different ones, you know,                           |
+| 01:27:48   | [[Stream Deck]] for you to do that. But I've got several different ones, you know,                           |
 | 01:27:54   | I've got a couple of different to-dos. I've got one which is notes for JF, who's a managing editor       |
 | 01:27:59   | over at ScreenCast online, and he goes through all the ScreenCasts and so I can leave him a note,        |
 | 01:28:03   | and it just adds one which starts with JF colon. And then of course I need to type in whatever it is.    |
 | 01:28:09   | And it makes my life so much easier to be able to do that because, you know, you press a button          |
 | 01:28:15   | and you're most of the way there. And that's it. And these buttons are right next to my keyboard.        |
-| 01:28:20   | Do you have your Stream Deck on the right or the left of your keyboard, David?                           |
+| 01:28:20   | Do you have your [[Stream Deck]] on the right or the left of your keyboard, David?                           |
 | 01:28:23   | Or in the centre? It's to my left, to my left, just under,                                               |
 | 01:28:26   | just above kind of the upper left portion of the keyboard. I can reach it                                |
 | 01:28:31   | really without moving my hand very far. Okay, mine is, mine's on the right,                              |
@@ -1076,27 +1076,27 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:28:48   | left side of my desk. That said, I am planning on rearranging my desk in the not too distant future.     |
 | 01:28:54   | So hopefully that will, that will move around at some point, because at the moment the right             |
 | 01:28:58   | side of my desk is a little bit cluttered. There's a HomePod, a watch charger, a multi-port              |
-| 01:29:04   | dock, a key charger for my iPhone, an iPad, an extra monitor, a light, and my Stream Deck over           |
+| 01:29:04   | dock, a key charger for my iPhone, an iPad, an extra monitor, a light, and my [[Stream Deck]] over           |
 | 01:29:11   | here, as well as a couple of other things that probably shouldn't be here. Why do I have a               |
 | 01:29:15   | spare lightning cable right there, anyway? I do think if you're going to buy, you know,                  |
-| 01:29:20   | if we've sold you in Stream Deck, you're going to buy one. I would recommend just getting the big        |
+| 01:29:20   | if we've sold you in [[Stream Deck]], you're going to buy one. I would recommend just getting the big        |
 | 01:29:23   | one, because you're just going to keep finding uses for those buttons. Yeah, I mean, I would say         |
 | 01:29:29   | don't get the small one, because it's only six buttons, and six buttons is not enough. If you            |
 | 01:29:35   | want to try it, then there's an iPhone application with a subscription in it, and you can get a          |
 | 01:29:41   | month for free. And that iPhone version is the same number of buttons as the medium size. Now,           |
-| 01:29:48   | I would say the medium size one is good, because the Stream Deck itself is actually quite small,         |
+| 01:29:48   | I would say the medium size one is good, because the [[Stream Deck]] itself is actually quite small,         |
 | 01:29:52   | but it comes with a little stand that's adjustable, so you can have it at different angles. And of       |
 | 01:29:57   | course, with different profiles and folders, you'll be fine with 15 buttons if you're willing to         |
 | 01:30:04   | switch folders and so on. And I don't regret having the 15 button one, aside from the fact that I        |
 | 01:30:09   | can't change the cable. Whereas, of course, David, you know, you could change the cable on yours,        |
-| 01:30:14   | so. Yeah, that paid off for me. Yeah. But you know, Stream Deck and [[Keyboard Maestro]] go together         |
+| 01:30:14   | so. Yeah, that paid off for me. Yeah. But you know, [[Stream Deck]] and [[Keyboard Maestro]] go together         |
 | 01:30:21   | so well. I would argue that if I could only have one, it would absolutely be [[Keyboard Maestro]],           |
-| 01:30:25   | because if you don't want to spend the money on Stream Deck, you can also put together keyboard          |
+| 01:30:25   | because if you don't want to spend the money on [[Stream Deck]], you can also put together keyboard          |
 | 01:30:29   | palettes on screen with [[Keyboard Maestro]] to do a lot of these same things. But there is something,       |
 | 01:30:34   | and as someone who believes in the religion of, you know, keyboard shortcuts, I'm surprised to           |
 | 01:30:40   | say this, but there's just something about having that button list in that separate device with          |
 | 01:30:45   | all those buttons. Yeah. I think it's the pictures that you can add to them. So I'm looking at my        |
-| 01:30:50   | overall, my standard view on the Stream Deck, as it were. And I've got icons here for automators,        |
+| 01:30:50   | overall, my standard view on the [[Stream Deck]], as it were. And I've got icons here for automators,        |
 | 01:30:57   | nested folders, screencast online, iOS today. I've got TJ Luoma is fantastic pal, because,               |
 | 01:31:03   | you know, this is my last meeting of the day. And, you know, it's the last thing that's happening,       |
 | 01:31:08   | and I've got a mute button, and I can switch through. I've also got a button to control                  |
@@ -1107,7 +1107,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:31:33   | kind of a rainbow gradient. Automator is red gear with an A, and it kind of looks like the               |
 | 01:31:39   | Captain America logo. Perfect. And, you know, I love that I just look at it, and my brain                |
 | 01:31:45   | immediately associates the colours and the shapes that it's seeing with the thing that it needs to do.    |
-| 01:31:49   | And that's why, you know, my, my [[ScreenFlow]] profile on my Stream Deck has got things like,              |
+| 01:31:49   | And that's why, you know, my, my [[ScreenFlow]] profile on my [[Stream Deck]] has got things like,              |
 | 01:31:58   | it's a comment bubble with a green checkmark in it. And these are just some things that I've made        |
 | 01:32:04   | by overlaying PNGs on top of each other in Pixelmator. You know, nothing too fancy or crazy,             |
 | 01:32:12   | but it works. So, yeah, I took [[Stephen Millard]], who was a guest in episode 68. He has a script           |
@@ -1130,9 +1130,9 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:33:50   | how I can easily search it. And so I've literally had that open on my iPad and I've been generating      |
 | 01:33:55   | icons on my iPhone, which works really well. Unless the count on your lap decides to randomly            |
 | 01:34:00   | tap the cancel button, which she did once. Yeah, I have a small group of friends that I                  |
-| 01:34:05   | have a shared [[Dropbox]] folder with where we put like Stream Deck icons and things like this.              |
+| 01:34:05   | have a shared [[Dropbox]] folder with where we put like [[Stream Deck]] icons and things like this.              |
 | 01:34:09   | You're in it. So, but maybe we should think of like a GitHub or something we can do for                  |
-| 01:34:14   | the listeners as well. So we can have like a community based location for Stream Deck                    |
+| 01:34:14   | the listeners as well. So we can have like a community based location for [[Stream Deck]]                    |
 | 01:34:19   | icons and OmniFocus perspective icons, because everybody's doing all this stuff on them.                 |
 | 01:34:24   | And if we had a way that everybody could share it, that would make it easier for everyone.               |
 | 01:34:28   | I'll see if I can sort something out with that before the before the episode, David.                     |

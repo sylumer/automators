@@ -705,7 +705,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 40:31      | I'll take a look.                                                                                         |
 | 40:32      | I'm generally in the camp for Elgato because their stuff has always worked so well for                    |
 | 40:38      | me, you know, but let me look at it.                                                                      |
-| 40:40      | Well, this one, of course, he's got Stream Deck buttons for it now and that's in the                      |
+| 40:40      | Well, this one, of course, he's got [[Stream Deck]] buttons for it now and that's in the                      |
 | 40:44      | blog post and that light looks pretty good.                                                               |
 | 40:47      | The other thing that I've done in the past and I have that running now is I just bought                   |
 | 40:52      | some cheap studio lights of Amazon, like USB power ones, like you plug them in there on,                  |
@@ -1265,7 +1265,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:13:41   | I'm going to be able to light it up with like a coloured icon and a little bit of helper                   |
 | 01:13:45   | text underneath to tell me, hey, like you're supposed to be doing this thing now.                         |
 | 01:13:51   | Like you've got XYZ time until this.                                                                      |
-| 01:13:53   | It's a little bit like TJ Luoma's Stream Deck button for the calendar, where it colours                    |
+| 01:13:53   | It's a little bit like TJ Luoma's [[Stream Deck]] button for the calendar, where it colours                    |
 | 01:13:59   | a button like red if there's something immediately happening on your calendar, or yellow if it's          |
 | 01:14:04   | a little while away, or black if it's not happening for ages.                                             |
 | 01:14:09   | And I think that having that tied in there has been really useful.                                        |

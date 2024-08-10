@@ -265,11 +265,11 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 16:03      | So every time I look at your blog, there's something related to something that I've recently             |
 | 16:08      | been doing. So the most recent post as of when we're recording is you've got something                   |
 | 16:13      | there about [[Obsidian]], but a couple of weeks ago I was looking for, or I was trying to                    |
-| 16:18      | fix my Stream Deck setup, and I've got a bunch of icons on there and they're related                     |
+| 16:18      | fix my [[Stream Deck]] setup, and I've got a bunch of icons on there and they're related                     |
 | 16:22      | to apps or podcasts and so on, but I needed just some generic icons that were relatively                 |
 | 16:27      | uniform and I could have a whole bunch of them. And so I opened up [[NetNewsWire]], which                   |
 | 16:32      | is my [[RSS]] app of choice, only to find that you have posted your [[SF Symbol Icon Generator\|Stream Deck icon generator]],              |
-| 16:37      | which is a shortcut which generates Stream Deck icons, which did exactly what I needed                   |
+| 16:37      | which is a shortcut which generates [[Stream Deck]] icons, which did exactly what I needed                   |
 | 16:42      | it to do. So my first question is, how are you reading my mind? And the second question                  |
 | 16:46      | is, how did you come up with this?                                                                       |
 | 16:48      | How am I reading your mind? That would be telling.                                                       |

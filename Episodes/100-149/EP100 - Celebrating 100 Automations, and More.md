@@ -904,7 +904,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 34:41      | or maybe not, and then I end up, you know,                        |
 | 34:43      | putting AppleScript inside of a shortcut,                         |
 | 34:46      | or running a shortcut through AppleScript inside a bunch,         |
-| 34:50      | which is actually run by [[Keyboard Maestro]] from my Stream Deck.    |
+| 34:50      | which is actually run by [[Keyboard Maestro]] from my [[Stream Deck]].    |
 | 34:54      | And so I've ended up kind of nesting automation types             |
 | 34:57      | and crossing streams in ways which I feel                         |
 | 35:00      | can only be beneficial, the fact that, you know,                  |
@@ -1857,8 +1857,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:14:19   | And I lied, it's only got 12 input buttons on the thumb side,     |
 | 01:14:23   | but it comes in a left-handed and a right-handed mode.            |
 | 01:14:26   | And so, yeah.                                                     |
-| 01:14:28   | With that, the multiple Stream Decks                              |
-| 01:14:30   | because the Stream Deck plus the Stream Deck pedal, yeah.         |
+| 01:14:28   | With that, the multiple [[Stream Deck\|Stream Decks]]                              |
+| 01:14:30   | because the [[Stream Deck]] plus the [[Stream Deck#Stream Deck Pedal]], yeah.         |
 | 01:14:34   | I definitely have a lot of input devices                          |
 | 01:14:37   | running around on my desk.                                        |
 | 01:14:38   | All right, let's talk about that at some point.                   |

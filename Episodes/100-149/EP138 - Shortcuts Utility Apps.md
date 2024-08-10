@@ -460,7 +460,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 25:47      | see in Logger what happened.                                                                         |
 | 25:51      | You can have Logger open, I'll say your Mac, and if you've got maybe an iPad that you have           |
 | 25:56      | in front of you, and you're tapping Shortcuts actions on that at various points throughout           |
-| 25:59      | your day, kind of using a little bit like a Stream Deck, but it's an iPad with Shortcuts             |
+| 25:59      | your day, kind of using a little bit like a [[Stream Deck]], but it's an iPad with Shortcuts             |
 | 26:04      | on it, then if those are logging, then you can actually check in Logger what's going                 |
 | 26:09      | on and stuff.                                                                                        |
 | 26:10      | So yeah, that's another nice little one.                                                             |
@@ -1256,7 +1256,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:15:45   | And then work switch to [[Slack]], and now we switch back to Teams, so it works again.                   |
 | 01:15:50   | So yeah, I highly recommend it.                                                                      |
 | 01:15:52   | HomeBot will let you like create [[URL Schemes]] for [[HomeKit]] stuff, so you can use it from               |
-| 01:15:57   | your Stream Deck.                                                                                    |
+| 01:15:57   | your [[Stream Deck]].                                                                                    |
 | 01:15:58   | Yes.                                                                                                 |
 | 01:15:59   | Yeah.                                                                                                |
 | 01:16:00   | Just great.                                                                                          |

@@ -495,7 +495,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 26:28      | key and I find that really just a very easy way when you get a lot of tabs and it's, it's          |
 | 26:35      | just so, you know, so unautomated to stop and take the mouse and go up and click when              |
 | 26:40      | you can just hit a couple of keyboard shortcuts.                                                   |
-| 26:43      | And one of the tricks I did is when I opened [[Safari]], my Stream Deck plus has that dial             |
+| 26:43      | And one of the tricks I did is when I opened [[Safari]], my [[Stream Deck]] plus has that dial             |
 | 26:48      | on it and it actually pre-programs the left most dial to use those keyboard shortcuts              |
 | 26:53      | so I can just spin the dial if I really want.                                                      |
 | 26:55      | I'll let me be honest with you, I still find myself using the keyboard shortcut more than          |

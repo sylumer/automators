@@ -773,7 +773,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 46:54      | on because you're not using the computer at that time. So I have a simple macro in [[Keyboard Maestro]]     |
 | 47:00      | that's called Turn Off Displays, and it just runs the shell script pmset display sleep now,                |
 | 47:07      | which will turn off all the displays but not make everything go to sleep. I should also mention that    |
-| 47:14      | I trigger all of these using the Stream Deck from Elgato. It is my little button presser,               |
+| 47:14      | I trigger all of these using the [[Stream Deck]] from Elgato. It is my little button presser,               |
 | 47:21      | which I'm sure you've talked plenty about, so people probably know about it on the show, but            |
 | 47:25      | I've got a button for Turn Off Display. I've got a button for Type Clipboard,                           |
 | 47:29      | and then the ones that I use regularly are actually one was I made with the help of my friend Dan       |
@@ -816,7 +816,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 51:35      | titles, perhaps, that might have been it. Yeah. I can't remember what that one was for sure,            |
 | 51:40      | but then later on, and we tried a few things and we ended up getting to it in the end,                  |
 | 51:46      | and so in honour of Rosemary, that macro is still called Open Tabs to Unordered List                     |
-| 51:52      | Rosemary Edition. On my Stream Deck, the button has RO for Rosemary Orchard. I just                     |
+| 51:52      | Rosemary Edition. On my [[Stream Deck]], the button has RO for Rosemary Orchard. I just                     |
 | 52:01      | tapped that, and that goes ahead and copies the titles as I need to from the tabs.                      |
 | 52:06      | The other one that Rosemary helped me with is one that I use now for that show and also for             |
 | 52:12      | the tech guy, which I produce on Saturdays when I'm not hosting. For the tech guy, as I mentioned,      |

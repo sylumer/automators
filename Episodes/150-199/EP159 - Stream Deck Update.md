@@ -260,7 +260,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 12:07      | At the moment, I've just gone with there is a folder which shows me which profiles I                                                                                    |
 | 12:13      | can choose, and then I just rely on having selected the right one, but one of the things                                                                                |
 | 12:19      | that I have tried previously is the sort of switch type button that you can have in the                                                                                 |
-| 12:27      | stream deck.                                                                                                                                                            |
+| 12:27      | [[Stream Deck]].                                                                                                                                                            |
 | 12:28      | It's not the one that's a multi-action.                                                                                                                                 |
 | 12:30      | I think it is a switch where someone can have two states, and when you press it, it switches                                                                            |
 | 12:37      | between them, but that only works if you only have two, because I like having the visual                                                                                |
@@ -515,7 +515,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 30:18      | of it being printed as well, it's fun.                                                                                                                                  |
 | 30:22      | But I tend to have that open, little corner of the screen somewhere out of the way while                                                                                |
 | 30:27      | I'm working just because it means that I'm not constantly turning around and moving my                                                                                  |
-| 30:31      | head away to actually see what's happening with my Stream Deck or with my 3D printer                                                                                    |
+| 30:31      | head away to actually see what's happening with my [[Stream Deck]] or with my 3D printer                                                                                    |
 | 30:38      | thanks to the [[Stream Deck]].                                                                                                                                          |
 | 30:39      | And my printer's out in the woodshop, so that camera is actually even more useful for me,                                                                               |
 | 30:43      | but I don't have it connected to a [[Stream Deck]] button.                                                                                                              |
@@ -755,7 +755,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 46:39      | It's just a whole bunch of different collection of things that I find useful when I'm working                                                                           |
 | 46:43      | in that context, and not all of these have all the buttons taken.                                                                                                       |
 | 46:49      | But whenever I find myself doing things repeatedly, I add a button for it.                                                                                              |
-| 46:54      | And it actually is really nice to work in context on stream deck as well as on apps.                                                                                    |
+| 46:54      | And it actually is really nice to work in context on [[Stream Deck]] as well as on apps.                                                                                    |
 | 47:00      | Yeah, I personally find that the context is much more important for me.                                                                                                 |
 | 47:05      | So therefore I use manual profile switching than the automatic one.                                                                                                     |
 | 47:12      | Because for example, right now, we are recording automators.                                                                                                            |
@@ -803,7 +803,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 50:03      | I'm going to talk you into buying another [[Stream Deck#Stream Deck XL\|XL]] because that's the advantage of having                                                     |
 | 50:07      | an a static button.                                                                                                                                                     |
 | 50:08      | I mean, I use the plus for this sort of thing a lot of the time.                                                                                                        |
-| 50:12      | But I usually have a button on the stream deck as well.                                                                                                                 |
+| 50:12      | But I usually have a button on the [[Stream Deck]] as well.                                                                                                                 |
 | 50:15      | It's just, I was shuffling some stuff around on my desk earlier and I've been out with                                                                                  |
 | 50:18      | my [[Stream Deck#Stream Deck+\|Plus]] like shoved over to one side in a not particularly easy to access spot.                                                           |
 | 50:23      | So I'm just going to try and pull that back.                                                                                                                            |
@@ -839,7 +839,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 52:11      | So if you temporarily unplug your [[Stream Deck]] or something, you're not going to be able                                                                             |
 | 52:15      | to use it until you plug it back in, whereas if you create it in shortcuts, [[Keyboard Maestro]],                                                                       |
 | 52:21      | [[Bunch]], [[Alfred]], whatever, like, then you can use that through everything else.                                                                                   |
-| 52:27      | And then you can also trigger it from the stream deck.                                                                                                                  |
+| 52:27      | And then you can also trigger it from the [[Stream Deck]].                                                                                                                  |
 | 52:30      | And so I often use [[KMlink]], which I've linked to in the show notes, to run a particular                                                                              |
 | 52:36      | macro for this sort of thing with [[Keyboard Maestro]].                                                                                                                 |
 | 52:42      | And then [[Keyboard Maestro]] is just, it's actually talking to [[Bunch]].                                                                                              |
@@ -896,7 +896,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 55:43      | It looks like kind of a nice competing platform.                                                                                                                        |
 | 55:46      | The advantage is modularity.                                                                                                                                            |
 | 55:48      | So you can kind of construct the controls the way you want.                                                                                                             |
-| 55:51      | But they're going to have a hard time competing with stream deck unless they're willing to                                                                              |
+| 55:51      | But they're going to have a hard time competing with [[Stream Deck]] unless they're willing to                                                                              |
 | 55:55      | put some money into the software for sure.                                                                                                                              |
 | 55:58      | Well their software, I saw it, I had a little play with it.                                                                                                             |
 | 56:01      | It was on Windows, not Mac, but they did assure me that it's coming on Mac as well.                                                                                     |
@@ -937,7 +937,7 @@ Rose and David review their Stream Deck setups and share some of their best work
 | 58:41      | on battery.                                                                                                                                                             |
 | 58:42      | Yeah.                                                                                                                                                                   |
 | 58:43      | And then there's a whole variety of control surface things for like making final cut videos                                                                             |
-| 58:48      | or whenever the stream deck, while it's useful for those tools, it's not a replacement for                                                                              |
+| 58:48      | or whenever the [[Stream Deck]], while it's useful for those tools, it's not a replacement for                                                                              |
 | 58:54      | those tools.                                                                                                                                                            |
 | 58:55      | And I would say if you, if you know, if you need something like that with the big knobs                                                                                 |
 | 59:00      | on it to do your video edits, it's not that the [[Stream Deck]] is not that either way.                                                                                 |

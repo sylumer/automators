@@ -1315,7 +1315,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 55:51      | I mean, that is some of the best automation time you can spend putting those together.                                                                                   |
 | 55:55      | And it is so satisfying.                                                                                                                                                 |
 | 55:57      | I even think it helps your brain because like you sit down and you push a button, whether                                                                                |
-| 56:03      | it be through [[Keyboard Maestro]] or a Stream Deck or an F sharp on your keyboard.                                                                                          |
+| 56:03      | it be through [[Keyboard Maestro]] or a [[Stream Deck]] or an F sharp on your keyboard.                                                                                          |
 | 56:08      | And suddenly your computer just transforms itself into a machine to do that thing, that                                                                                  |
 | 56:13      | one thing.                                                                                                                                                               |
 | 56:14      | You know, and we were talking earlier about how they're distraction machines.                                                                                            |

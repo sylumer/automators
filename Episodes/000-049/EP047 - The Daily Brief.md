@@ -525,8 +525,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 41:10      | because people have been sending us a lot of questions. And I will do full disclosure. My                |
 | 41:15      | question today comes or the question today comes from me, because I wanted to know, because I've         |
 | 41:21      | been trying to do a better context switching. And this ties into something I talked about a few          |
-| 41:25      | episodes ago where I really want to be using my Stream Deck more. And I thought, you know,               |
-| 41:29      | context switching is like the way to use a Stream Deck, but I like to colour coordinate my stuff.         |
+| 41:25      | episodes ago where I really want to be using my [[Stream Deck]] more. And I thought, you know,               |
+| 41:29      | context switching is like the way to use a [[Stream Deck]], but I like to colour coordinate my stuff.         |
 | 41:34      | So I was wondering, first of all, David, what colour are you using as your accent colour on                |
 | 41:40      | macOS right now? And then secondly, can we automate changing this? Because this is going                 |
 | 41:45      | to be a fun challenge. Yeah, I very I like orange, I like gray. But when you told me your idea of        |
@@ -568,7 +568,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 45:11      | a choice of the different appearance colours. So let's light and dark, the different accent colours        |
 | 45:17      | and the different highlight colours. And that means that you have the values for all of those             |
 | 45:23      | available to you. So what you can do then is instead of just using the script and having to              |
-| 45:30      | set it every time. So every time I run my Automators context button on my Stream Deck,                   |
+| 45:30      | set it every time. So every time I run my Automators context button on my [[Stream Deck]],                   |
 | 45:36      | then it asks me and I have to remember the Automators is red. What I can do instead is I can             |
 | 45:41      | modify the script so it doesn't come up and ask me and it just sets everything to red. And that          |
 | 45:46      | is where where I'm going to be having a lot of fun because I like the idea of doing a little bit         |
@@ -589,7 +589,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 47:02      | Yeah, there's definitely an AppleScript way to change the wallpaper                                     |
 | 47:06      | back in the background. And I'll have to look into it further, but Keyboard                              |
 | 47:10      | Maestro from my five second attempt doesn't look like it does that, but it may do that as well.          |
-| 47:16      | But I love that idea. It's like, so you could automate when you press a button on your Stream Deck       |
+| 47:16      | But I love that idea. It's like, so you could automate when you press a button on your [[Stream Deck]]       |
 | 47:22      | or a keyboard combination with [[Keyboard Maestro]], you get the automator's desktop,                        |
 | 47:29      | then it opens up the apps you want and sets the colours to red, maybe, because that's in our              |
 | 47:34      | icon. I like that. I have a challenge for our listeners because I'm pretty certain that you              |
@@ -674,11 +674,11 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 54:42      | in as a [[Keyboard Maestro]] script, but we'll also put in the AppleScript file and a link to the           |
 | 54:48      | source link we got on this stuff. So you guys can play with it. Let us know what you do with it.         |
 | 54:53      | I'm sure there'll be some interesting uses. I can tell you I'm going to be implementing this with        |
-| 54:58      | my setups on my on my Stream Deck. So like when I go into email mode, I think I'm feeling blue           |
+| 54:58      | my setups on my on my [[Stream Deck]]. So like when I go into email mode, I think I'm feeling blue           |
 | 55:05      | for email. But for recording screencasts, I'm feeling graphite. So it just depends on, you know,         |
 | 55:12      | I like the idea of being able to set the whole system around the current context. So that's              |
 | 55:17      | what I'm going to be doing. I'll be dropping this AppleScript into a bunch of setup scripts.            |
-| 55:20      | I will be doing the same thing. Unfortunately, my Stream Deck is back in Austria. So I'm just            |
+| 55:20      | I will be doing the same thing. Unfortunately, my [[Stream Deck]] is back in Austria. So I'm just            |
 | 55:24      | building the [[Keyboard Maestro]] macros right now and I'm using that on screen palette with keyboard        |
 | 55:28      | maestro, which is pretty cool. But every self done it annoys me a little bit. And so I end up closing    |
 | 55:32      | the palette. But it's a nice little way of trying to do things for sure. You know, you should do         |
@@ -730,8 +730,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 59:57      | something, then we can do that very easily. And then this action, the format action converts             |
 | 01:00:05   | our Markdown HTML. And then the HTML is put into the Google Doc action, which creates the Google         |
 | 01:00:10   | Doc. And then, of course, we have another Airtable action to update our Airtable record with a link      |
-| 01:00:16   | to the show notes. Because this means that what I'm doing with my Stream Deck button, when I get         |
-| 01:00:22   | my Stream Deck back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the Airtable   |
+| 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
+| 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the Airtable   |
 | 01:00:27   | Airtable base in Firefox for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |

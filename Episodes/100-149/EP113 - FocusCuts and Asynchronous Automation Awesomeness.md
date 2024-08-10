@@ -934,7 +934,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 55:49      | You can create a single [[Keyboard Maestro]] macro or a single shortcut or whatever it is that              |
 | 55:54      | will then run all of those other ones for you.                                                          |
 | 55:57      | So you can combine that into one tap for the places where it makes sense.                               |
-| 56:01      | So you can have a single button on your Stream Deck which is for run my work focus mode automations.    |
+| 56:01      | So you can have a single button on your [[Stream Deck]] which is for run my work focus mode automations.    |
 | 56:07      | And you can have a single shortcut show up in your focus cuts menu bar for run my work                  |
 | 56:11      | focus mode automation setup.                                                                            |
 | 56:14      | And then, you know, you can have that there and then you click it once and it runs those                |

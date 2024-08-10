@@ -76,29 +76,29 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 00:18      | Well, let's just say the end of the tax year here in the UK had me going, well, my limited                |
 | 00:23      | company didn't spend much money at all last year, and my accountants, they're going,                      |
 | 00:27      | if there's anything you want to buy for your business, now would be a good time to do so.                 |
-| 00:33      | So I kind of have an extra large Stream Deck sitting on my desk. It probably looks like                   |
+| 00:33      | So I kind of have an extra large [[Stream Deck]] sitting on my desk. It probably looks like                   |
 | 00:38      | yours.                                                                                                    |
-| 00:39      | Yes, I'm glad you supersized your Stream Deck. That's actually the goal for today's show.                 |
-| 00:45      | We keep dancing around the topic of Stream Deck, but it seems like the Stream Deck just                   |
+| 00:39      | Yes, I'm glad you supersized your [[Stream Deck]]. That's actually the goal for today's show.                 |
+| 00:45      | We keep dancing around the topic of [[Stream Deck]], but it seems like the [[Stream Deck]] just                   |
 | 00:50      | continues to grow in popularity. There's a bunch of posts about it in the Automator's                     |
 | 00:55      | forums as well as the Mac Power Users' forums. It just seems like the thing is taking off,                 |
-| 01:01      | and we thought this would be a good show to take on the Stream Deck. We're going to talk                  |
+| 01:01      | and we thought this would be a good show to take on the [[Stream Deck]]. We're going to talk                  |
 | 01:06      | about what it is, why you might want one, what you can do with it, and what we're doing                   |
-| 01:12      | with them. And Rose and I are both heavily invested in Stream Deck. So I think this will                  |
+| 01:12      | with them. And Rose and I are both heavily invested in [[Stream Deck]]. So I think this will                  |
 | 01:17      | be a fun one. A lot of Automator's repercussions.                                                         |
 | 01:20      | Yes, yes. And I should note, before we dive into this, for anybody who doesn't have a                     |
-| 01:26      | Stream Deck and has taken a look and thinks, oh, I'm not sure this is going to be worth                   |
+| 01:26      | [[Stream Deck]] and has taken a look and thinks, oh, I'm not sure this is going to be worth                   |
 | 01:29      | it for me, there is a mobile app that you can download and use on your iPhone, which                      |
-| 01:33      | has the same number of buttons as the medium sized Stream Deck. It's free for the first                   |
-| 01:37      | month and that's $1.99 after that. And so that's a great way of trying the Stream Deck                    |
+| 01:33      | has the same number of buttons as the medium sized [[Stream Deck]]. It's free for the first                   |
+| 01:37      | month and that's $1.99 after that. And so that's a great way of trying the [[Stream Deck]]                    |
 | 01:43      | without buying the hardware up front, just to see whether or not the actual application                   |
 | 01:47      | of this is worth it for you because you may find that you can solve the same problems with                |
-| 01:51      | [[Keyboard Maestro]] pallets or things like that. But I found for me that the Stream Deck is                  |
+| 01:51      | [[Keyboard Maestro]] pallets or things like that. But I found for me that the [[Stream Deck]] is                  |
 | 01:57      | much better than having this little icon floating on my actual computer screen because it's               |
 | 02:02      | out of the way, but it's still visible. But you have to figure out the solution that works                |
 | 02:06      | for you. So the mobile application is definitely worth a try if you haven't already.                      |
-| 02:09      | Yeah. And the Stream Deck is from Elgato. And like Rose said, there's a software you                      |
-| 02:14      | can buy or rent it. I guess it's a subscription app that puts the Stream Deck on a phone or               |
+| 02:09      | Yeah. And the [[Stream Deck]] is from [[Elgato]]. And like Rose said, there's a software you                      |
+| 02:14      | can buy or rent it. I guess it's a subscription app that puts the [[Stream Deck]] on a phone or               |
 | 02:20      | an iPad, but probably more useful and more economical over time because the app subscription              |
 | 02:26      | is not cheap is just to buy their physical hardware. And it's a little hunk of plastic                    |
 | 02:33      | with a series of buttons on it. And there's, we'll talk about that in a minute, how many                  |
@@ -119,7 +119,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 03:44      | for something in particular so that you can, you know, just see what kind of icons you                    |
 | 03:49      | might have. I've personally found black backgrounds or PNGs of just the icons tend to work really         |
 | 03:54      | well for me, David, but I know you've gone great, I think, with yours, you were saying.                   |
-| 03:58      | Yeah, I mean, I just ran all of the [[SF Symbols]] on a gray background and I have a folder full              |
+| 03:58      | Yeah, I mean, I just ran all of the [[SF Symbols]] on a grey background and I have a folder full              |
 | 04:05      | of them. And Rose and I and some other friends have had a shared [[Dropbox]] folder for several               |
 | 04:10      | months now where we've been collecting these. And every time any one of us makes another                  |
 | 04:14      | one, we just stick it in kind of the community folder and the idea with the GitHub repose                 |
@@ -128,7 +128,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 04:30      | it's a pain in the neck to put these together. So if everybody throws a few in there, we're               |
 | 04:34      | going to have a really nice collection when we're done. And so we're kind of getting                      |
 | 04:40      | way ahead of ourselves because we'll talk about customising scripts and buttons later                     |
-| 04:45      | in the show. Just to start out with, there's three different Elgato Stream Decks available.              |
+| 04:45      | in the show. Just to start out with, there's three different [[Elgato]] [[Stream Deck\|Stream Decks]] available.              |
 | 04:51      | The first one has, and it's ranked by the number of buttons on it. The first one has                      |
 | 04:55      | six on it, six buttons. The next level up is three rows of five or 15 buttons. And then                   |
 | 05:03      | after that, there's one with four rows of eight for 32 buttons. And the price ranges                      |
@@ -140,7 +140,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 05:36      | had a sale right as my accountant sent me an email said, you know, if there's anything                    |
 | 05:41      | you would like to purchase, do so now. And I got the email from CamelCamelCamel to tell                   |
 | 05:47      | me that the price had dropped pretty much right after that email and went, okay, well,                    |
-| 05:51      | I guess I'm buying a larger Stream Deck then.                                                             |
+| 05:51      | I guess I'm buying a larger [[Stream Deck]] then.                                                             |
 | 05:53      | Yeah. So I bought mine about a year and a half ago, and I probably paid full price for                    |
 | 05:58      | it. And I just bought the big one. It was in relation to the keyboard and menstrual                       |
 | 06:03      | field guide release. I wanted to include content in the keyboard and menstrual field guide                |
@@ -151,7 +151,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 06:31      | a substitute for a keyboard shortcut or any of the other many triggers you can use with                   |
 | 06:34      | a [[Keyboard Maestro]]. So I got thinking, why would I want that? My hands are already on                     |
 | 06:39      | the keyboard. To push a button, I've got to take my hands off the keyboard, even if it                    |
-| 06:42      | is got a clever screen behind it. But there's something about the Stream Deck that is just,               |
+| 06:42      | is got a clever screen behind it. But there's something about the [[Stream Deck]] that is just,               |
 | 06:49      | it just finds a way to be useful. I don't know how else to put it. We're going to go                      |
 | 06:53      | into the many ways we're using them as we get through the show today, but I quickly                       |
 | 06:58      | realised that this would not be something I'd be sending back. And I'm glad I bought                      |
@@ -171,29 +171,29 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 08:07      | the 32 button one is the only one you can replace the cable on. So if you happen to have                  |
 | 08:12      | a very cute golden doodle who likes cables, like David does, then you may discover that                   |
 | 08:19      | the 32 button one is the better one for you because if a certain somebody gets very excited               |
-| 08:24      | and chews all the way through your Stream Deck cable, then you're going to need to replace                |
-| 08:29      | it or replace the Stream Deck. And so if you've got a replaceable cable, of course, that's                |
+| 08:24      | and chews all the way through your [[Stream Deck]] cable, then you're going to need to replace                |
+| 08:29      | it or replace the [[Stream Deck]]. And so if you've got a replaceable cable, of course, that's                |
 | 08:33      | easier. And the 32 button ships with a nice braided cable as well, which I really like                    |
 | 08:39      | on that.                                                                                                  |
 | 08:40      | Yeah, you know, it's my dog has never chewed a cable and then, but she always sleeps under                |
 | 08:45      | my desk while I'm working through the day. And I was re, you know, as you do, I was                       |
-| 08:49      | resorting cables and I had the Stream Deck cable just hanging off the back of the desk                    |
+| 08:49      | resorting cables and I had the [[Stream Deck]] cable just hanging off the back of the desk                    |
 | 08:56      | with the USB plug in down towards the floor. And I didn't think anything about it. And                    |
-| 09:01      | I got all my cables, you know, figured out and I pulled up the Stream Deck one to replug                  |
+| 09:01      | I got all my cables, you know, figured out and I pulled up the [[Stream Deck]] one to replug                  |
 | 09:06      | it in and the USB plug was hanging on literally by the thread of the braided cable. You know,             |
 | 09:15      | it was, it's like I put it down there in one condition that came up in another. And I don't               |
 | 09:20      | know why she, she's never done it since and she never did it before. But I guess maybe                    |
-| 09:25      | they dipped the Stream Deck cables and kibble before they send it out. I don't know.                      |
+| 09:25      | they dipped the [[Stream Deck]] cables and kibble before they send it out. I don't know.                      |
 | 09:29      | Definitely. That's what they're doing.                                                                    |
 | 09:31      | But the, but anyway, so she chewed it up and my first thought was, well, that cost me $200.               |
-| 09:36      | You know, I was thinking, because if you look at the Stream Deck, it looks like the cables                |
+| 09:36      | You know, I was thinking, because if you look at the [[Stream Deck]], it looks like the cables                |
 | 09:41      | plug in and I've had it so long, I don't remember how I plugged it in. And then I pulled it               |
 | 09:45      | apart and sure enough, it's a, it's a USB C connection at the top and, and a, and a USB                   |
 | 09:53      | A connection at the other end. And I was able to just replace the cable. So that was great.               |
 | 09:59      | Which is perfect. I should also mention, at least for people in the UK, Curry's PC world                  |
-| 10:05      | usually has Stream Decks in stock. And for people in the US, Best Buy and Target are                      |
+| 10:05      | usually has [[Stream Deck\|Stream Decks]] in stock. And for people in the US, Best Buy and Target are                      |
 | 10:11      | the two places that I've seen people in the Relay FM [[Discord]] discussing that they've                     |
-| 10:15      | recently bought their Stream Decks at. So if you can't find it on Amazon or, you know,                    |
+| 10:15      | recently bought their [[Stream Deck\|Stream Decks]] at. So if you can't find it on Amazon or, you know,                    |
 | 10:22      | the shipping's going to take a while, then it's worth having a look in some other places.                 |
 | 10:25      | I'll go to on their website, do link to a local retailer. So check out, you know, whoever's               |
 | 10:30      | local, who are you're living. But there, there's certainly some other options there                       |
@@ -212,7 +212,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 11:24      | Yep. Yep. That's the only way from the 15 inch. Well, I could have gone down to a six                     |
 | 11:28      | button one, but then we probably won't be recording this episode right now. If we'd done that,            |
 | 11:31      | you might have disowned me entirely. But no, I upgraded to the 32 button one. And that's                  |
-| 11:38      | because, you know, over the last couple of years, my Stream Deck usage has increased                      |
+| 11:38      | because, you know, over the last couple of years, my [[Stream Deck]] usage has increased                      |
 | 11:42      | significantly. And in many ways, I should say, so it's not just, you know, that I've                      |
 | 11:49      | found more use cases for it. It's also, you know, I've started doing iOS today on a weekly                |
 | 11:53      | basis with Micah Sargent on the Twitter network. And as part of that, we do a video version.              |
@@ -220,7 +220,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 12:01      | on the screen. And I'm doing that through Zoom. But I can't just, you know, throw up                      |
 | 12:07      | my iPad with that because then you don't see me as well. It just doesn't work quite as                    |
 | 12:10      | nicely. So we're using Ecamm Live. And Ecamm Live is a great piece of software and it ships               |
-| 12:15      | with a Stream Deck, like plug in. So you've got all of and it creates one button for each                 |
+| 12:15      | with a [[Stream Deck]], like plug in. So you've got all of and it creates one button for each                 |
 | 12:22      | of your scenes or so that you can drag them in or it's got a set scene button. And so                     |
 | 12:27      | I can say, okay, I want me with my iPhone to the right of me. Or I want my iPad with                      |
 | 12:33      | me with a little round floating head in the corner. Or I want my iPhone full screen with                  |
@@ -231,25 +231,25 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 12:57      | as well. I'm just getting more and more excited every couple of days, it seems, because there's           |
 | 13:03      | just something else that I see somebody post about or I see an announcement on where, oh,                 |
 | 13:08      | and by the way, you know, now you can do this via [[URL Schemes\|URL scheme]], which means you can run it                  |
-| 13:11      | via the Stream Deck. Or you can, you know, or this has got Stream Deck plugins now or                     |
-| 13:16      | this Stream Deck plugin exists, which is great.                                                           |
+| 13:11      | via the [[Stream Deck]]. Or you can, you know, or this has got [[Stream Deck]] plugins now or                     |
+| 13:16      | this [[Stream Deck]] plugin exists, which is great.                                                           |
 | 13:20      | Well, that camera set up the scripts you were talking about. It's like a piece of hardware                |
 | 13:25      | out there, like black magic makes the HDMI switchers where they do fades between cameras                  |
-| 13:29      | and whatnot. And you can kind of do that on a Stream Deck. Not, you know, it's not as                     |
+| 13:29      | and whatnot. And you can kind of do that on a [[Stream Deck]]. Not, you know, it's not as                     |
 | 13:34      | fancy as what you can do with the black magic stuff, but it's a lot cheaper, you know, to                 |
 | 13:39      | set it up and switching between cameras and managing zoom calls is one of the best uses                   |
 | 13:45      | in my opinion.                                                                                            |
 | 13:46      | Yeah. Yeah. And that was something that came out recently. Somebody's brought out a zoom                  |
-| 13:51      | plugin for the Stream Deck with a whole series of zoom buttons, which of course is incredibly             |
+| 13:51      | plugin for the [[Stream Deck]] with a whole series of zoom buttons, which of course is incredibly             |
 | 13:57      | useful, but there's, you know, other plugins like running [[AppleScript\|AppleScripts]] or [[Zapier]] integrations,           |
 | 14:02      | all sorts of things, which just, you know, makes makes it easier to just say, yes, okay,                  |
 | 14:08      | now I can just do this without thinking about it.                                                         |
-| 14:10      | So one of the concerns you may have if you're thinking about a Stream Deck is third party                 |
+| 14:10      | So one of the concerns you may have if you're thinking about a [[Stream Deck]] is third party                 |
 | 14:15      | software. I know that the whole idea of like getting a keyboard or a mouse or something                   |
-| 14:21      | like a Stream Deck comes with the, you know, it's fraught with peril for Mac users to think               |
+| 14:21      | like a [[Stream Deck]] comes with the, you know, it's fraught with peril for Mac users to think               |
 | 14:27      | about, am I going to run some vendor software for their hardware on my Mac and subject myself             |
-| 14:35      | to whatever madness comes with that software? What are your thoughts on the Stream Deck software?         |
-| 14:41      | Well, I mean, the Stream Deck software is a unique animal. Let's start with that. It                      |
+| 14:35      | to whatever madness comes with that software? What are your thoughts on the [[Stream Deck]] software?         |
+| 14:41      | Well, I mean, the [[Stream Deck]] software is a unique animal. Let's start with that. It                      |
 | 14:46      | is not my favourite piece of software in the world to use. It has a couple of pet piece,                   |
 | 14:50      | which we'll come back to at the end. But overall, it works well. You know, developers can create          |
 | 14:56      | action sets, I call them plugins that you can install. And they can even install an entire                |
@@ -264,27 +264,27 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 15:45      | There's a Nanoleaf plugin and a Philips Hue plugin. So if you want to control your Hue                    |
 | 15:50      | lights or your Nanoleaf light panels, you can do that. But also people like [[Timothy Luoma\|TJ Luoma]]   |
 | 15:55      | through things like keyboard moisture has gone ahead and created plugins. Now, I like                     |
-| 16:00      | the fact that in the Stream Deck software, you can copy and paste actions and move things                 |
+| 16:00      | the fact that in the [[Stream Deck]] software, you can copy and paste actions and move things                 |
 | 16:05      | around because I have some actions which we'll get to in a bit, which are the same on every               |
 | 16:08      | profile to allow me to go back to my home base, basically. And, you know, that is great.                  |
-| 16:16      | But I mean, I think that the Stream Deck software could be better. I would actually quite like            |
+| 16:16      | But I mean, I think that the [[Stream Deck]] software could be better. I would actually quite like            |
 | 16:21      | it to live in my dock or to be able to appear in my dock at times because I frequently want               |
 | 16:29      | to just be able to click on it and find it instead of having to reopen it through [[Alfred]].                 |
 | 16:34      | And I would also like multiple windows so that I could see two profiles at the same                       |
 | 16:38      | time. But, you know, I'm good with it. What do you think, David?                                          |
-| 16:41      | I think it's okay. The Stream Deck is not just a Mac piece of hardware. It runs on Windows                |
+| 16:41      | I think it's okay. The [[Stream Deck]] is not just a Mac piece of hardware. It runs on Windows                |
 | 16:46      | 2. And so they've got software for both platforms. And it feels to me almost like a Windows app           |
 | 16:53      | running on the Mac. They, you know, just doesn't have kind of the friendliness or the UI love             |
 | 17:01      | that a typical Mac app would have. But on the positive side, it's easy to figure out.                     |
-| 17:06      | When you load it up, it has a picture of your Stream Deck and the buttons on the screen match             |
-| 17:11      | the buttons that are actually on your Stream Deck. And as you add buttons in the app, they                |
-| 17:15      | show up on your Stream Deck. You don't have to like push a sync button or do anything                     |
+| 17:06      | When you load it up, it has a picture of your [[Stream Deck]] and the buttons on the screen match             |
+| 17:11      | the buttons that are actually on your [[Stream Deck]]. And as you add buttons in the app, they                |
+| 17:15      | show up on your [[Stream Deck]]. You don't have to like push a sync button or do anything                     |
 | 17:19      | dumb like that where I could see a third party hardware developer making you do, you know,                |
 | 17:25      | jump through hoops like that. This software is largely automated as you update it. They,                  |
 | 17:31      | the developers seem to be actively involved. There was a period of time in the Big Sur                    |
-| 17:37      | beta where they just stopped working, the Stream Deck stopped working with the, with                      |
+| 17:37      | beta where they just stopped working, the [[Stream Deck]] stopped working with the, with                      |
 | 17:42      | the Mac. And that's when I realised exactly how much I've come to rely on it. Because                     |
-| 17:46      | for a couple of weeks I didn't have a Stream Deck. I actually just unplugged it because                   |
+| 17:46      | for a couple of weeks I didn't have a [[Stream Deck]]. I actually just unplugged it because                   |
 | 17:50      | it wasn't working. And the developers were active in the forums about what they were                      |
 | 17:54      | doing and they were getting it fixed. And they got it working well before the Big Sur                     |
 | 17:59      | became out of beta, which for a lot of third party hardware developers, they don't even                   |
@@ -293,22 +293,22 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 18:13      | we'll, we'll fix it. Well, these guys were fixing it beforehand. So that was really encouraging           |
 | 18:18      | to me to see them being active like that. It's not discoverable for some of the best                      |
 | 18:25      | features. Like we talk, we're going to talk today about how we use multiple setups or                     |
-| 18:29      | profiles of Stream Deck. And you have, that's not an easily discoverable feature the way                  |
+| 18:29      | profiles of [[Stream Deck]]. And you have, that's not an easily discoverable feature the way                  |
 | 18:35      | it's set up, but we'll get into it. But the bottom line is it's okay. I mean, I wouldn't                  |
 | 18:41      | be afraid to install it on my Mac. I think it's, you're fine.                                             |
-| 18:45      | Yeah. I will take a moment to say, so in the Stream Deck software, at the top of, in the                  |
-| 18:52      | top left, you've got the name of your Stream Deck. And that's where you set up mobile devices             |
+| 18:45      | Yeah. I will take a moment to say, so in the [[Stream Deck]] software, at the top of, in the                  |
+| 18:52      | top left, you've got the name of your [[Stream Deck]]. And that's where you set up mobile devices             |
 | 18:56      | underneath that you've got profiles. And if you go to edit profiles, then in that preference              |
 | 19:01      | is paying that appears at the bottom right, there's a little arrow, and then there's a                    |
 | 19:04      | button that says backup all. And that's where you can create a backup and restore your profiles           |
 | 19:09      | from backup. Now, I have never had my profiles disappear. And why say never? I mean, never,               |
 | 19:14      | ever. But I attribute some of this to the fact that at least once a week I'm in there                     |
 | 19:18      | clicking create backup for all. Because this way, if anything goes wrong, I've got that                   |
-| 19:24      | backup, which is always nice to have. And it does mean that if I plug my Stream Deck                      |
+| 19:24      | backup, which is always nice to have. And it does mean that if I plug my [[Stream Deck]]                      |
 | 19:29      | in on my MacBook Air, which I've done before, if I'm not using my Mac Mini for whatever                   |
 | 19:36      | reason, then I can restore the profiles onto that device so that I've got whatever the                    |
 | 19:42      | latest state is, because your profiles don't sync between your Macs. And they're not stored               |
-| 19:48      | on the Stream Deck, you know, your Stream Deck setup lives on your Mac. So if you want to                 |
+| 19:48      | on the [[Stream Deck]], you know, your [[Stream Deck]] setup lives on your Mac. So if you want to                 |
 | 19:54      | share it between people or devices, then you need to export profiles and import profiles                  |
 | 19:59      | or just backup everything and then restore everything from backup.                                        |
 | 20:02      | Yeah. And but I will again reiterate backup your profiles. I actually am a victim of                      |
@@ -317,13 +317,13 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 20:19      | I thought it was me at first. And I started doing crazy things to try to get it to work.                  |
 | 20:24      | And then the process managed to nuke my profiles. So that was no fun.                                     |
 | 20:29      | Yeah, I yeah, definitely, definitely check that. And also just dig around in the preferences              |
-| 20:34      | pane of the Stream Deck app in general. I found it's quite it's pretty good to have                       |
+| 20:34      | pane of the [[Stream Deck]] app in general. I found it's quite it's pretty good to have                       |
 | 20:38      | it a full brightness, but you can also have a button or an action set the brightness of                   |
-| 20:42      | your Stream Deck, which I know some people are using myself included at the end of your                   |
-| 20:47      | day so that, you know, your your Stream Deck, you know, dims and, you know, puts your computer            |
+| 20:42      | your [[Stream Deck]], which I know some people are using myself included at the end of your                   |
+| 20:47      | day so that, you know, your your [[Stream Deck]], you know, dims and, you know, puts your computer            |
 | 20:51      | to sleep.                                                                                                 |
 | 20:52      | Yeah.                                                                                                     |
-| 20:53      | And it's kind of fun because you can have it display an image in the in the Stream Deck                   |
+| 20:53      | And it's kind of fun because you can have it display an image in the in the [[Stream Deck]]                   |
 | 20:59      | using all the buttons when you're not in your computer is inactive. I have like the the                   |
 | 21:05      | rebel symbol from Star Wars that shows up on it. And that's kind of cool, but you don't                   |
 | 21:10      | want that blasting at 100% brightness through the night. So have fun with that.                           |
@@ -356,8 +356,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 23:38      | automators and sign up now. All those crooks out there are using sophisticated tools to                   |
 | 23:44      | try and get your money. You need sophisticated tools to protect it. Our thanks to privacy                 |
 | 23:48      | for their support of the automators podcast and all of relay FM.                                          |
-| 23:54      | So we've been talking around the Stream Deck, but let's talk through the process of making                |
-| 23:59      | a programmable button in the Stream Deck. And the, uh, it starts in the Stream Deck                       |
+| 23:54      | So we've been talking around the [[Stream Deck]], but let's talk through the process of making                |
+| 23:59      | a programmable button in the [[Stream Deck]]. And the, uh, it starts in the [[Stream Deck]]                       |
 | 24:05      | software on your Mac or PC. And all you do is you click on a button on the virtual stream                 |
 | 24:11      | deck on your screen. And on the right side of the screen, you've got a scrolling menu                     |
 | 24:19      | of various tools that you can drag onto that button. And that's how you start. You take,                  |
@@ -376,34 +376,34 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 25:33      | once and realised that that was just not a good idea. Or you can just take a JPEG or                      |
 | 25:37      | a PNG that you have and, and put it in there. In the case of hay, I just did a Google image               |
 | 25:43      | search for a hay icon and I found a nice PNG of the icon of, of hay. And I put that on                    |
-| 25:51      | my desktop and I set that to the button in the Stream Deck app. And then I copied the                     |
-| 25:57      | artwork to our shared Stream Deck, um, artwork folder and I'm good. So now if I look on my                |
-| 26:03      | Stream Deck, I've got the hay icon there. If I tap that, then it opens up in [[Safari]],                      |
+| 25:51      | my desktop and I set that to the button in the [[Stream Deck]] app. And then I copied the                     |
+| 25:57      | artwork to our shared [[Stream Deck]], um, artwork folder and I'm good. So now if I look on my                |
+| 26:03      | [[Stream Deck]], I've got the hay icon there. If I tap that, then it opens up in [[Safari]],                      |
 | 26:10      | the hay website. But just to go a step further, I thought, well, they also have a thing on                |
 | 26:15      | hay called set aside, which is where I put important email. I want to clear out at the                    |
-| 26:19      | end of the day. And the same thing. There's a URL for that. So I went in the Stream Deck                  |
+| 26:19      | end of the day. And the same thing. There's a URL for that. So I went in the [[Stream Deck]]                  |
 | 26:24      | software, I hit command C and then I clicked on the button right next to it in the virtual                |
-| 26:31      | Stream Deck on my screen and hit command V to paste it. And all I did was change the URL                  |
+| 26:31      | [[Stream Deck]] on my screen and hit command V to paste it. And all I did was change the URL                  |
 | 26:38      | from the URL for the basic hay app to the basic to the URL for the set aside deck. And                    |
 | 26:44      | in addition to putting artwork, you can also write some words on the button. And I wrote                  |
 | 26:49      | set aside on that one. So the one without set aside is just hay. And then the one that                    |
 | 26:54      | does say set aside is set aside. And so now I can quickly get to those email things by                    |
-| 26:59      | just pressing a button on my Stream Deck. And that is as much as you can do on an audio                   |
+| 26:59      | just pressing a button on my [[Stream Deck]]. And that is as much as you can do on an audio                   |
 | 27:05      | podcast. That's all there is to really setting buttons.                                                   |
 | 27:08      | Yeah. And I have to say, you know, so there's a there's a website button or a website action,             |
 | 27:16      | which is I'm guessing what you're using here, David, but there's also just a straight up                  |
 | 27:20      | open action, which can open apps and files. And between those two, you can go so far in                   |
-| 27:28      | in Stream Deck because you can open any website and any URL. And there's even a button that               |
+| 27:28      | in [[Stream Deck]] because you can open any website and any URL. And there's even a button that               |
 | 27:34      | you can tick in the website action, which says get request in background. So say, for                     |
 | 27:39      | example, you just need to ping a URL somewhere. For example, on your push cut URL, so that                |
 | 27:46      | it sends a thing to your device, you could do that in the background. Now, this doesn't                   |
 | 27:50      | work for things like zoom meetings and stuff like that, those you need to open the URL.                   |
 | 27:54      | So it opens in your browser and you actually see it. But that's great. And the title as                   |
 | 28:00      | well. I actually have a title on most buttons just so that when I look at it, I can in the                |
-| 28:05      | Stream Deck app, I can see it. But I've clicked on the T next to the title box and I've just              |
+| 28:05      | [[Stream Deck]] app, I can see it. But I've clicked on the T next to the title box and I've just              |
 | 28:11      | unchecked show title because, you know, 99% of the time, I don't need to know exactly                     |
 | 28:16      | what that button is. It's just if I'm going through and editing, you know, my buttons                     |
-| 28:21      | in the Stream Deck app, then I like to have the title there. I guess I'm a completionist                  |
+| 28:21      | in the [[Stream Deck]] app, then I like to have the title there. I guess I'm a completionist                  |
 | 28:25      | in that way.                                                                                              |
 | 28:26      | Yeah. Let's talk about the, I mean, the website and the files are very simple ones, but some              |
 | 28:32      | that anybody would use a lot. But let's talk about some more that they've got available.                  |
@@ -421,7 +421,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 29:36      | while because that's one of the reasons why I have so many [[Keyboard Maestro]] macros. But                   |
 | 29:42      | it just inserts the text and then it can press enter and just send it. So I can just click                |
 | 29:46      | in the chat, read what they've said, press the [[Keyboard Maestro]] or press the stream                       |
-| 29:51      | deck button, sorry, not [[Keyboard Maestro]] button, Stream Deck button. And it's it sends back               |
+| 29:51      | deck button, sorry, not [[Keyboard Maestro]] button, [[Stream Deck]] button. And it's it sends back               |
 | 29:55      | a message with, okay, thank you very much for letting me know about this. I'll take a                     |
 | 29:58      | look at it later. Or, hey, thanks for sending me a message, but please can you file a ticket              |
 | 30:02      | in the ticket system? Here's a link. And, you know, a couple of other sort of canned                      |
@@ -434,39 +434,39 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 30:31      | Yeah, I don't use that function. Just use keyboard mice. I use keyboard mice for a text                   |
 | 30:36      | experiment.                                                                                               |
 | 30:37      | That's fair enough.                                                                                       |
-| 30:38      | But it is there. And, you know, you could have the 32 button, 32 button Stream Deck,                      |
+| 30:38      | But it is there. And, you know, you could have the 32 button, 32 button [[Stream Deck]],                      |
 | 30:43      | you could have a screen full of replies, you know, if you wanted and just press the button                |
 | 30:48      | that you want.                                                                                            |
 | 30:49      | Well, I figured when I'm working, I don't really, you know, in my day job, I don't really                 |
-| 30:53      | use the Stream Deck for all that much, but it's still sitting here on my desk. So I figured               |
+| 30:53      | use the [[Stream Deck]] for all that much, but it's still sitting here on my desk. So I figured               |
 | 30:58      | I should use it for something. So I sat aside an hour last week and just thought, okay,                   |
 | 31:02      | what can I do that's going to improve my work life? And I was like, you know what, there                  |
 | 31:06      | are these things that I always send back. And I'll do that. And then I've got some other                  |
 | 31:10      | things which pop up like all of the IP addresses I have at work and stuff like that. So, you              |
 | 31:15      | know, so I've got a number of different things actually, which are quite useful there.                    |
 | 31:19      | Yeah. And if you go through this list of actions, you'll find that there are a bunch of them              |
-| 31:25      | you probably don't want them. I mean, the thing's called a Stream Deck and it really                      |
+| 31:25      | you probably don't want them. I mean, the thing's called a [[Stream Deck]] and it really                      |
 | 31:28      | started life out for people who want to stream online when they're playing video games or                 |
-| 31:34      | doing video conferences or whatever. And Elgato makes a whole bunch of hardware that                      |
+| 31:34      | doing video conferences or whatever. And [[Elgato]] makes a whole bunch of hardware that                      |
 | 31:39      | supports that. Like they have a special light that you can hang off the top of your Mac                   |
 | 31:44      | and it'll give you a really good light on your face as you're doing video calls. And                      |
 | 31:48      | so they've got support for all that stuff built in. And there's a set of tools for game                   |
 | 31:53      | capture. There's a set of tools for sound board, which is an app that a lot of people                     |
 | 31:58      | use in streaming. There's also a set of tools that are just for the operation of the stream               |
 | 32:05      | deck. And this is something that you really want to take a look at. Like one of them is                   |
-| 32:10      | create a folder. So like, let's say you have a six button Stream Deck, but you want to                    |
+| 32:10      | create a folder. So like, let's say you have a six button [[Stream Deck]], but you want to                    |
 | 32:14      | have, you know, some of your favourite music playlists available, but you only have six                    |
 | 32:18      | buttons. Well, you could make a folder that has the music icon on it and you click that.                  |
 | 32:22      | And it's just like a folder. It opens up a whole new six buttons to you. And you can                      |
 | 32:27      | nest these folders even. So they've got an action to create that. We're going to talk                     |
-| 32:32      | about profiles more later, but profiles are different setups for the Stream Deck. And                     |
-| 32:37      | you can set up, there are Stream Deck buttons or actions to switch between those profiles.                |
+| 32:32      | about profiles more later, but profiles are different setups for the [[Stream Deck]]. And                     |
+| 32:37      | you can set up, there are [[Stream Deck]] buttons or actions to switch between those profiles.                |
 | 32:44      | And that's, there's some real power tricks we got for you on that in a few minutes.                       |
-| 32:49      | One thing I should say though is, you know, as you're having a look at the Stream Deck                    |
-| 32:52      | application, which you can download and install for free, you don't need a Stream Deck actually           |
+| 32:49      | One thing I should say though is, you know, as you're having a look at the [[Stream Deck]]                    |
+| 32:52      | application, which you can download and install for free, you don't need a [[Stream Deck]] actually           |
 | 32:56      | to look at this. And you can look at the more actions on the right hand side at the bottom.               |
 | 33:04      | And if you click on the more actions, then it lists a whole bunch of other plugins. And                   |
-| 33:08      | these are all the ones that have been submitted and they've gone through the Elgato, I guess              |
+| 33:08      | these are all the ones that have been submitted and they've gone through the [[Elgato]], I guess              |
 | 33:13      | approval process is the right word. Now you will find some of these are Windows only.                     |
 | 33:18      | And so they might not work on the Mac, but there are, there's ones there for running                      |
 | 33:25      | AppleScript. And there's KM link, which we'll get to and so on. But you know, that's where               |
@@ -474,9 +474,9 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 33:38      | because I have to use PowerPoint at work. So I downloaded the PowerPoint one. And you                     |
 | 33:44      | know, and all of these other ones, which is just, you know, it's very helpful to do that.                 |
 | 33:50      | And if you want, for example, to have a button, which shows you the mail icon with a little               |
-| 33:54      | badge and the badge shows you the current number of unread mail messages, Elgato have made                |
+| 33:54      | badge and the badge shows you the current number of unread mail messages, [[Elgato]] have made                |
 | 34:00      | a plugin for that. And you can have that. So if you usually have your doc hidden, then                    |
-| 34:04      | you can have this in on your Stream Deck. And it'll show you your number of current unread                |
+| 34:04      | you can have this in on your [[Stream Deck]]. And it'll show you your number of current unread                |
 | 34:09      | emails. Personally, I'm a little bit scared to do that. I don't, I don't feel like that's                 |
 | 34:13      | a terrible idea for a button. Yeah, yeah. Well, I mean, when you tap on it, it shows                      |
 | 34:18      | you, you know, your inbox. So, you know, it could, it could be worse. I am considering,                   |
@@ -485,13 +485,13 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 34:32      | focus items that I have due today on my Omni focus button. But, you know, I haven't done                  |
 | 34:39      | that yet. So maybe, maybe by doing this, someone will do that for me. We'll see.                          |
 | 34:45      | Yeah, and Rose is right. There's a ton of custom actions, just to kind of round out some of                |
-| 34:50      | the built in ones in addition to the ones that manage your Stream Deck. There's a whole                   |
+| 34:50      | the built in ones in addition to the ones that manage your [[Stream Deck]]. There's a whole                   |
 | 34:54      | bunch of like Twitch studio and Twitter and things like that, where you can run those                     |
-| 35:00      | off the Stream Deck. One of the nice built in ones is a timer button. And I have two                      |
+| 35:00      | off the [[Stream Deck]]. One of the nice built in ones is a timer button. And I have two                      |
 | 35:06      | of those set up. I have a 45 minute one and a 10 minute one. And it's kind of my makeshift                |
 | 35:11      | Pomodoro. And if I want to like dig in on a project for 45 minutes, I just press the                      |
-| 35:17      | button on the Stream Deck and then it starts counting down. You see the countdown on the                  |
-| 35:22      | Stream Deck and it makes a little arm after 45 minutes. And if I want to take a 10 minute                 |
+| 35:17      | button on the [[Stream Deck]] and then it starts counting down. You see the countdown on the                  |
+| 35:22      | [[Stream Deck]] and it makes a little arm after 45 minutes. And if I want to take a 10 minute                 |
 | 35:26      | break, I do the same thing. I mean, this stuff is, it's more than just starting an app, I                 |
 | 35:31      | guess is my point. And the follow up with what Rose said on the more actions buttons,                     |
 | 35:37      | there's some great stuff here, some nerdy stuff, but there's some great stuff. Like one of                |
@@ -502,15 +502,15 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 36:03      | a free update to the Hazel field guide and hooray, you know, because [[Hazel]] came out with                  |
 | 36:08      | version five and they changed some things, but not enough things to justify charging                      |
 | 36:12      | you to buy it over again. So I made like 15 videos, about 35 minutes of content, but I                    |
-| 36:17      | rendered all that at once. And it was great watching the Elgato Stream Deck report to                     |
+| 36:17      | rendered all that at once. And it was great watching the [[Elgato]] [[Stream Deck]] report to                     |
 | 36:21      | me how much CPUs I was doing as I was burning all those videos out. So that's kind of cool.               |
 | 36:27      | I am so jealous of that. And I'm stealing your 45 minutes and 10 minutes timers for                       |
 | 36:32      | my work profile that I have on my work machine, because that's great. And especially after                |
 | 36:38      | meetings, I feel, you know, five, five minutes to myself is reasonable, you know, get up,                 |
 | 36:43      | get a glass of water, stretch, and, you know, take stock of all the things that have been                 |
 | 36:46      | thrown at you. So yeah, I think the action that we definitely need to talk about though,                  |
-| 36:52      | David, which we have not yet talked about is the multi action in Stream Deck, because                     |
-| 36:57      | without anything else, just using the Stream Deck app, if you drag the multi action onto                  |
+| 36:52      | David, which we have not yet talked about is the multi action in [[Stream Deck]], because                     |
+| 36:57      | without anything else, just using the [[Stream Deck]] app, if you drag the multi action onto                  |
 | 37:03      | it, you know, onto one of your buttons, then you just add more actions into this. So say                  |
 | 37:10      | for example, I have a weekly meeting on Tuesday afternoons. And for this, I need to open a                |
 | 37:18      | zoom link and a Google Docs link. And so I have two website actions in that button, which                 |
@@ -532,8 +532,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 38:36      | that or you could just have one button that opens all three things. So, you know, that's                  |
 | 38:40      | a great way of getting started for people.                                                                |
 | 38:42      | I agreed. And a few other custom ones that are of note, there is one that I don't use                     |
-| 38:49      | enough, but I can't help but keep on my Stream Deck. It's an analog clock, just on a button.              |
-| 38:55      | And I have that in the top right of my Stream Deck and on most of my profiles. And honestly,              |
+| 38:49      | enough, but I can't help but keep on my [[Stream Deck]]. It's an analog clock, just on a button.              |
+| 38:55      | And I have that in the top right of my [[Stream Deck]] and on most of my profiles. And honestly,              |
 | 39:01      | I can't remember the last time I wondered what time it was and I looked at the stream                     |
 | 39:05      | deck, but there's just a part of me that doesn't have the heart to pull that one out. There's             |
 | 39:10      | a counter. Like if you need to do a counter for something related to your work, you can                   |
@@ -544,7 +544,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 39:34      | but you know, go forward if that's your thing. But it is quite remarkable when you get this               |
 | 39:40      | thing out of the box, what you can do with a button. And the button, the most important                   |
 | 39:48      | button we haven't talked about yet and is the integration with [[Keyboard Maestro]]. Because                  |
-| 39:54      | yeah, just like Rose was talking about chaining together different actions on the Stream Deck,            |
+| 39:54      | yeah, just like Rose was talking about chaining together different actions on the [[Stream Deck]],            |
 | 40:00      | you can, you know, [[Keyboard Maestro]] is the ultimate tool for chaining actions together                    |
 | 40:03      | because you can not only say open up this window, but open up this window and put it                      |
 | 40:08      | in the lower right corner. You know, it just, you know, the world is your oyster in terms                 |
@@ -566,14 +566,14 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 41:26      | [[Keyboard Maestro]] macros you've got and how well or poorly in my case organised they                       |
 | 41:34      | are, you may find that you end up using the last modified macro frequently, so I often                    |
 | 41:40      | go into my [[Keyboard Maestro]] macros and I add a comment, and then I go back to KM link                     |
-| 41:46      | in the Stream Deck app, select my macro, and then I can remove the comment in the Keyboard                |
+| 41:46      | in the [[Stream Deck]] app, select my macro, and then I can remove the comment in the Keyboard                |
 | 41:53      | Maestro app or leave it, it's a comment, it doesn't make a difference. And this is great,                 |
 | 41:58      | and it's even better if you want to send something to [[Keyboard Maestro]] with it as well. So,               |
 | 42:03      | for example, if you want to send it the word calendar or the word zoom or something, you                  |
 | 42:08      | can do that. There's a parameter option there as well. I tend not to do that, you know,                   |
 | 42:14      | you can but you don't have to. But this means that you can literally just run a Keyboard                  |
 | 42:18      | Maestro macro and you don't need to set up a trigger in the [[Keyboard Maestro]] application.                 |
-| 42:22      | You can just do it from the Stream Deck and that's it, and it works. And it's great, it's                 |
+| 42:22      | You can just do it from the [[Stream Deck]] and that's it, and it works. And it's great, it's                 |
 | 42:26      | so easy to do. Yeah, I use KM link like 99% of the time to trigger [[Keyboard Maestro]] at                    |
 | 42:32      | this point. And one of the additional features of it is that you can move the button, you                 |
 | 42:38      | know, with the built-in [[Keyboard Maestro]] support, you need to code it to a specific                       |
@@ -590,27 +590,27 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 43:38      | in the exact same section of your [[Keyboard Maestro]] list. So, you don't have to start                      |
 | 43:41      | from the top every time. So, that's a little insider hack. But yeah, the ultimate action,                 |
 | 43:49      | if you're an automator driving a Mac, is the KM link script, which is pretty remarkable.                  |
-| 43:56      | So back to the native [[Keyboard Maestro]] integration with the Stream Deck. So for this, you have            |
+| 43:56      | So back to the native [[Keyboard Maestro]] integration with the [[Stream Deck]]. So for this, you have            |
 | 44:01      | to set a button ID, and then that button ID is what triggers it in [[Keyboard Maestro]].                      |
 | 44:06      | Now, they usually suggest R followed by number, and C followed by number, which is row, whatever,         |
 | 44:12      | column, whatever. But the problem with this is if you use row one, column one, on profile                 |
 | 44:18      | one, say your default profile, and then you create another profile for writing, and you                   |
 | 44:22      | have row one, column one, then both of those do exactly the same thing in [[Keyboard Maestro]].               |
 | 44:28      | Now, if that's what you want, that's perfect. But if you're using the [[Keyboard Maestro]]                    |
-| 44:32      | integration from [[Keyboard Maestro]] back to Stream Deck to, say, do things like update                      |
+| 44:32      | integration from [[Keyboard Maestro]] back to [[Stream Deck]] to, say, do things like update                      |
 | 44:39      | pictures, then you have to consider whether or not you want to do that for both. So I'm                   |
 | 44:44      | using the native [[Keyboard Maestro]] integration very sparingly, and mostly thanks to TJ Luoma,             |
 | 44:51      | who we had on the show a while ago, and he talked about this when he was on the show.                     |
 | 44:54      | He's got a great little plug-in, or it's a series of macros, actually, for [[Keyboard Maestro]],              |
 | 45:00      | which you can download and install. And you set it up, and you specify the number of the                  |
 | 45:06      | button or the button ID, whatever it is. So in my case, that's R3C4, because that's where                 |
-| 45:11      | it used to be on my old Stream Deck, and I've just dragged it into a new place now because                |
+| 45:11      | it used to be on my old [[Stream Deck]], and I've just dragged it into a new place now because                |
 | 45:16      | I'm not using a lot of these buttons this way. And that then goes through, and it tells                   |
 | 45:24      | me how many calendar events I've got left in the day, and it changes colour. So just before                |
 | 45:29      | I started this, I glanced at it, and it was red because I had something in two minutes.                   |
 | 45:33      | And when I tapped on it, it opened up Fantastical for me. And now, because I'm recording automators,      |
 | 45:39      | I have Fantastical smiling back at me. And so if you want to be able to change things                     |
-| 45:46      | in the Stream Deck from [[Keyboard Maestro]], you want the native [[Keyboard Maestro]] integration.               |
+| 45:46      | in the [[Stream Deck]] from [[Keyboard Maestro]], you want the native [[Keyboard Maestro]] integration.               |
 | 45:51      | If you're just getting started or you just want to run a macro, use the KM link script.                   |
 | 45:55      | It's very, very easy, and I would highly recommend that. Both systems are fabulous. I'm not knocking      |
 | 46:02      | the [[Keyboard Maestro]] native integration here, but if you just want very simple, KM link                   |
@@ -633,17 +633,17 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 47:28      | of this show and all of Relay FM.                                                                        |
 | 47:31      | All right, so we talked about buttons. I think another fundamental building block of a stream             |
 | 47:37      | deck is the profiles, which we've been dancing around. But the idea of a profile, so as you               |
-| 47:43      | look at your Stream Deck, there's six, 15, or 32 buttons staring back at you. But that's                  |
+| 47:43      | look at your [[Stream Deck]], there's six, 15, or 32 buttons staring back at you. But that's                  |
 | 47:51      | not all you have. You have different profiles, and each profile is an entirely different                  |
 | 47:56      | setup of buttons. Profiles are configured in the app under the settings button, so you                    |
 | 48:01      | can make custom ones. I have one for my personal life, one for MacSparky, and one for my legal           |
 | 48:07      | life. But you can also have them triggered automatically per application. So if I open                    |
 | 48:14      | OmniFocus, a whole set of buttons show up that allow me to do OmniFocus things, or if                     |
 | 48:20      | I open Microsoft Word, I have one that automatically shows up. And one of the tricks of figuring          |
-| 48:26      | out a Stream Deck is figuring out when you want a manual profile versus an automatic                      |
+| 48:26      | out a [[Stream Deck]] is figuring out when you want a manual profile versus an automatic                      |
 | 48:30      | one.                                                                                                      |
 | 48:31      | Yeah. And actually, David, this is one of the things that prompted me to upgrade to the                   |
-| 48:37      | newer or to the larger Stream Deck, because I was trying to do a lot of this automatic                    |
+| 48:37      | newer or to the larger [[Stream Deck]], because I was trying to do a lot of this automatic                    |
 | 48:42      | profile switching. So I had a profile for [[ScreenFlow]] and I had a profile for QuickTime. And I realised    |
 | 48:49      | that one of my problems was, is frequently when I'm in [[ScreenFlow]], one of the things I                    |
 | 48:54      | need to do is switch to QuickTime and run an action. And by having two separate profiles,                 |
@@ -653,12 +653,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 49:16      | at it and it's like, but the button I want isn't here. And also every software, especially                |
 | 49:24      | when I was doing the upgrade, actually, I noticed that the automatic switching didn't                     |
 | 49:30      | happen. So I would switch to QuickTime and I wouldn't have my QuickTime profile on my                     |
-| 49:35      | Stream Deck. I did fix that actually by unlinking, by not telling it was a profile or telling             |
+| 49:35      | [[Stream Deck]]. I did fix that actually by unlinking, by not telling it was a profile or telling             |
 | 49:42      | it wasn't an application-specific profile and then telling it again that it was. But                      |
 | 49:47      | now I have the left-hand side, which is 16 buttons, is [[ScreenFlow]] and the right-hand                      |
 | 49:52      | side 16 buttons is QuickTime. Now I'm not using all 16 in either case, but it's just                      |
 | 49:57      | a useful split for me to do that. And so I switched profiles manually with an action                      |
-| 50:03      | in Stream Deck called switch profile, which I've assigned some funky icons to.                            |
+| 50:03      | in [[Stream Deck]] called switch profile, which I've assigned some funky icons to.                            |
 | 50:07      | Yeah. So exactly, you don't have to do either one. And it just depends on your particular                 |
 | 50:13      | use. Like if you want it to give you the tool set for the app that you're in, automatically               |
 | 50:19      | you can. But like Rose said, if you want to mix tools, I actually frankly prefer contextual               |
@@ -670,7 +670,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 50:55      | not to share it with the other side. And then it does a colon and then carriage return.                   |
 | 50:59      | And you know, that's something you could do, you know, 20 times every time you read a document            |
 | 51:04      | or you could just program a [[Keyboard Maestro]] script that does all of that and then put                    |
-| 51:08      | it on a button on your Stream Deck. And so on the editing legal documents page, that's                    |
+| 51:08      | it on a button on your [[Stream Deck]]. And so on the editing legal documents page, that's                    |
 | 51:14      | there. But the other, another thing I often do when I'm editing legal documents is I check                |
 | 51:18      | the status of a company. Like if my client is going to make a contract with the ACME                      |
 | 51:23      | company, hey, I want to look them up on the website to make sure that they're still in                    |
@@ -685,10 +685,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 52:08      | Mac mini? You know, other exciting things like that. And so, you know, and then I end                     |
 | 52:13      | up in the wrong application and then I'm in the wrong profile. And the thing that bugged                  |
 | 52:17      | me for quite a while is I had to dedicate a button in every single profile. Now I'm                       |
-| 52:22      | still doing this, but it's a lot easier on a 32-button Stream Deck than it is on a six                    |
-| 52:26      | button Stream Deck. I'm sure of that. Was I was dedicating one button to going back                       |
+| 52:22      | still doing this, but it's a lot easier on a 32-button [[Stream Deck]] than it is on a six                    |
+| 52:26      | button [[Stream Deck]]. I'm sure of that. Was I was dedicating one button to going back                       |
 | 52:31      | to my default profile. And I found I was pressing that button a lot. And when I say a lot,                |
-| 52:36      | I mean, that was my most frequently pressed button on my Stream Deck by far. I am sure                    |
+| 52:36      | I mean, that was my most frequently pressed button on my [[Stream Deck]] by far. I am sure                    |
 | 52:41      | of it. And I know because I added a counter into the multi-action. So I can find out.                     |
 | 52:47      | And it was, you know, and it was just driving me crazy that I was ending up switching profiles            |
 | 52:52      | and I wasn't meant, you know, I wasn't automatically switching back to the right profile. And so          |
@@ -715,7 +715,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 54:42      | The other thing I would say is profiles have advantages over folders in that when you have                |
 | 54:48      | a folder, a button is automatically taken up on your screen to go back up a level to                      |
 | 54:54      | where you've just come from. Whereas a profile doesn't. But you can have your own action                  |
-| 55:00      | to switch back to decks or to switch a profile, sorry, in the Stream Deck, you know, application          |
+| 55:00      | to switch back to decks or to switch a profile, sorry, in the [[Stream Deck]], you know, application          |
 | 55:10      | and you can choose where to put that, you know, wherever is most convenient for you.                      |
 | 55:16      | But by doing a profile, you can also have that same thing available on every page. So                     |
 | 55:21      | I was building a home automation folder and I'll come back to that in a minute on how                     |
@@ -755,8 +755,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 58:17      | is for, you know, iOS today or automators as it is actually right now at this very second.                |
 | 58:23      | And you know, when there's a back button, so I can go back to my podcasting profile.                      |
 | 58:28      | That's always in the top left, by the way. And which is one of the reasons why I have                     |
-| 58:33      | my Stream Deck on the right, because I'm right handed. And so if I'm, you know, I tend to                 |
-| 58:38      | tend to go towards the right side of my Stream Deck. So that's actually quite useful to have              |
+| 58:33      | my [[Stream Deck]] on the right, because I'm right handed. And so if I'm, you know, I tend to                 |
+| 58:38      | tend to go towards the right side of my [[Stream Deck]]. So that's actually quite useful to have              |
 | 58:42      | that button be less automatically accessible. But it just means that all my podcasts are                  |
 | 58:49      | on one profile. So I know I'm doing podcasting. And it doesn't matter what podcasting I'm                 |
 | 58:54      | doing, I just do podcasting. And then it's there going, Okay, what kind of podcast are                    |
@@ -770,7 +770,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 59:28      | one of those buttons, it goes to an independent profile just for that podcast. So I mean,                 |
 | 59:33      | we're doing a little different, but we're kind of accomplishing the same thing. You                       |
 | 59:37      | kind of drill into what your work is. But profiles, folders, I mean, these things really                  |
-| 59:45      | open up the world for the Stream Deck, no matter which size one you get, whether it's                     |
+| 59:45      | open up the world for the [[Stream Deck]], no matter which size one you get, whether it's                     |
 | 59:50      | six buttons or 32, you actually have quite a few more buttons. And that's one of the                      |
 | 59:55      | reasons why I ended up keeping it. I'm like, Oh, this is way more than I thought it was,                  |
 | 01:00:00   | because if you get smart about how you put it together, it's it's a lot of buttons, you                   |
@@ -778,13 +778,13 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:00:09   | Yes. Yes, it is.                                                                                          |
 | 01:00:11   | So we've got profiles, we've got setting buttons. One of the things you just mentioned, I'd               |
 | 01:00:16   | like to just spend a couple of minutes on because I think this is one of the key uses                     |
-| 01:00:20   | for a Stream Deck is what I call setups. And that is you press one button and your computer               |
+| 01:00:20   | for a [[Stream Deck]] is what I call setups. And that is you press one button and your computer               |
 | 01:00:27   | configures itself for some type of work.                                                                  |
 | 01:00:31   | This is something I used to do with a palette and and [[Keyboard Maestro]]. But this was one                  |
-| 01:00:37   | of the quick things I put on the Stream Deck that makes total sense because as you're sitting             |
+| 01:00:37   | of the quick things I put on the [[Stream Deck]] that makes total sense because as you're sitting             |
 | 01:00:43   | down to your computer, getting your fingers into a special keyboard shortcut inside, you                  |
 | 01:00:49   | know, a working computer takes time and effort. Whereas as you're sitting down, just pressing             |
-| 01:00:54   | a button on the Stream Deck is much easier.                                                               |
+| 01:00:54   | a button on the [[Stream Deck]] is much easier.                                                               |
 | 01:00:57   | Yes, it absolutely is. And this is something I to start with, I was experimenting with                    |
 | 01:01:03   | using this combined with a multi action David. So as I was selecting, Oh, I'm doing screen                |
 | 01:01:10   | casting now or I'm doing podcasting now, I would I was using a multi action in in screen                  |
@@ -801,7 +801,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:02:17   | things where once you get that that setup, it really helps. And I'm using cable maestro                   |
 | 01:02:23   | for my setup. And I'm guessing you are too, David, this is one where KM link really pays                  |
 | 01:02:28   | for itself, because setups is a good example of chain together actions that just really                   |
-| 01:02:34   | go beyond the capabilities of the built in actions of the of the Stream Deck. And one                     |
+| 01:02:34   | go beyond the capabilities of the built in actions of the of the [[Stream Deck]]. And one                     |
 | 01:02:39   | of the things Rose said, I really want to put an exclamation point on whatever kind                       |
 | 01:02:44   | of work you do. It's not just one thing you do, like Rose was talking about podcast recording             |
 | 01:02:49   | versus podcast editing, or screencast recording versus screencast editing, or if you're in                |
@@ -817,8 +817,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:03:53   | And it takes a little while to do this, but I just cannot emphasise the payoff that you                   |
 | 01:03:59   | get if you do this.                                                                                       |
 | 01:04:00   | Yeah. And the reason for me why I'm specifically using [[Keyboard Maestro]] versus a multi-action             |
-| 01:04:06   | in Stream Deck to do this is there's a couple of things that I do which aren't, you know,                 |
-| 01:04:12   | directly available inside of Stream Deck. And I figured if I have this macro setup,                       |
+| 01:04:06   | in [[Stream Deck]] to do this is there's a couple of things that I do which aren't, you know,                 |
+| 01:04:12   | directly available inside of [[Stream Deck]]. And I figured if I have this macro setup,                       |
 | 01:04:18   | then I can change this macro and I can use it on another machine if I need to, you know,                  |
 | 01:04:22   | then [[Keyboard Maestro]] macros are automatically synced anyway. So, you know, that's all good.              |
 | 01:04:27   | But to start with, I hide all applications. So I hide everything. Now, I did start closing                |
@@ -843,7 +843,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:06:00   | keyboard Maestro, setting up specific screen sizes is kind of tedious in keyboard Maestro.                |
 | 01:06:07   | It involves math, you know, whereas [[Moom]], you just drag it and then you save it as a                      |
 | 01:06:11   | custom size and put a custom keyboard shortcut on it. And then you can trigger that keyboard              |
-| 01:06:17   | shortcut with keyboard Maestro or even with just the Stream Deck. So, so it really makes                  |
+| 01:06:17   | shortcut with keyboard Maestro or even with just the [[Stream Deck]]. So, so it really makes                  |
 | 01:06:22   | it easy to set these up. And as, as your setups, like Rose was saying, hide all first, that's             |
 | 01:06:28   | the necessary first step for these setup macros. And then you open up the windows and then                |
 | 01:06:33   | you put them exactly on the screen where you want them to be using those [[Moom]] shortcuts.                  |
@@ -852,7 +852,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:06:49   | I think I'm, I'm talking about this too much, but it just delights me when I push that button             |
 | 01:06:56   | and my computer, it just responds to me like, okay, Dave, you want to do legal research.                  |
 | 01:07:01   | Here is the ideal legal research screen for you. Now sit down and get to work. And it                     |
-| 01:07:06   | just works, you know, and, and putting it on a Stream Deck button is like the, it's                       |
+| 01:07:06   | just works, you know, and, and putting it on a [[Stream Deck]] button is like the, it's                       |
 | 01:07:12   | like the icing on the cake because you push the button as you're sitting in the chair.                    |
 | 01:07:17   | By the time you settled in your chair, your computer is just sitting there waiting for                    |
 | 01:07:20   | you to do exactly what you're there for.                                                                  |
@@ -864,15 +864,15 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:07:44   | your dock and go through and fix that and tweak things. And, you know, you may set,                       |
 | 01:07:52   | you know, everything up and it may seem absolutely perfect, but at some point you're going to             |
 | 01:07:55   | want to tweak something and change it. And it's really nice if you, you can do that easily.               |
-| 01:08:01   | And I just find that, you know, this, the Stream Deck in particular for me has made                       |
+| 01:08:01   | And I just find that, you know, this, the [[Stream Deck]] in particular for me has made                       |
 | 01:08:06   | it much easier for me to remember to press these buttons because they're right there                      |
 | 01:08:11   | in my face. And, you know, and I've, I've got all these automations and I've been using                   |
 | 01:08:17   | them for ages and that's fine. But I was using a lot of them less frequently than I should                |
 | 01:08:22   | have been because, you know, we're humans. One of our default ways to do things is the                    |
 | 01:08:27   | way we've always done things. So I would do command space, open this command space, open                  |
-| 01:08:31   | that. And then I, you know, started with Stream Deck and I had different buttons for things.              |
+| 01:08:31   | that. And then I, you know, started with [[Stream Deck]] and I had different buttons for things.              |
 | 01:08:35   | And so instead of pressing command space and typing something, I pressed the key, the,                    |
-| 01:08:38   | the Stream Deck button to open the folder. And then I pressed this button to open that                    |
+| 01:08:38   | the [[Stream Deck]] button to open the folder. And then I pressed this button to open that                    |
 | 01:08:41   | up and this button to open that up and this button to open that up. And I would skip one                  |
 | 01:08:45   | because, oh, I don't need [[Audio Hijack]] just yet. I need [[Audio Hijack]] in a minute. And                     |
 | 01:08:49   | things like that. And that's just, you know, it's a little bit silly in hindsight, looking                |
@@ -892,7 +892,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:09:55   | me that's like, am I ever going to get that time back? Like at the time I put into setting                |
 | 01:09:58   | this automation up, is it going to pay for itself over time? And I'll tell you that                       |
 | 01:10:03   | there is almost no sure bet that it will pay off than in putting these custom setups together,            |
-| 01:10:09   | whether or not use a Stream Deck.                                                                         |
+| 01:10:09   | whether or not use a [[Stream Deck]].                                                                         |
 | 01:10:12   | This episode of the automators podcast is brought to you by ExpressVPN, high speed,                       |
 | 01:10:18   | secure and anonymous VPN services. Go to expressvpn.com/automators and get an extra three months    |
 | 01:10:26   | for free. A few decades ago, it was easy to be a private person. What's changed? Well,                    |
@@ -923,7 +923,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:12:44   | You bet. And I always learn something when I hear what you're doing with your stream                      |
 | 01:12:47   | back rows. So I'm ready. Teach me.                                                                        |
 | 01:12:51   | Well, I'm going to start at the top. And the top is my default profile. So this is the                    |
-| 01:12:55   | one. It's marked as the default in the Stream Deck application. And I have a back button                  |
+| 01:12:55   | one. It's marked as the default in the [[Stream Deck]] application. And I have a back button                  |
 | 01:13:01   | which goes to this in the bottom right corner of every other profile. And this is just a                  |
 | 01:13:06   | button I've set up. It switches to my default profile. And that just means that I can always              |
 | 01:13:10   | come back here. And the reason why I always want to come back here is this is the one                     |
@@ -958,12 +958,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:15:51   | page, it opens up different emails and different calendars because with keyboard, am I sure               |
 | 01:15:55   | you can do that?                                                                                          |
 | 01:15:56   | So I get to have the screen set up for processing email based on what part of my life I'm sitting         |
-| 01:16:03   | in at the moment. And that's the kind of stuff I like to do with the Stream Deck, you know,               |
+| 01:16:03   | in at the moment. And that's the kind of stuff I like to do with the [[Stream Deck]], you know,               |
 | 01:16:09   | because I feel like that's very fast.                                                                     |
 | 01:16:11   | Yeah. And I love that sort of thing as well. Another two buttons, which I've forgotten                    |
 | 01:16:16   | to talk about, I should probably set these up as a switch, but I frequently switch them                   |
 | 01:16:20   | on screen. So I'm not sure how well that's going to work. If I do that as a switch in                     |
-| 01:16:23   | Stream Deck, I've got two buttons here, which are speaker outputs. And I'm using a plug-in                |
+| 01:16:23   | [[Stream Deck]], I've got two buttons here, which are speaker outputs. And I'm using a plug-in                |
 | 01:16:29   | by somebody called Fred Emmett. And he's written two plugins, one, which mutes the                        |
 | 01:16:34   | input on your Mac, but this only works if you're using like a USB microphone or the                       |
 | 01:16:39   | built-in microphone. It doesn't work if, like me, you're using an XLR interface. So I'm                   |
@@ -1038,7 +1038,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:22:23   | I have a physical cover over my camera, not because I'm afraid of nefarious people activating             |
 | 01:22:28   | it, but because this way I know that people can't see me, even if I do something stupid                   |
 | 01:22:32   | and press the button. And honestly, if I'm if I'm in a panic, I'm probably not going                      |
-| 01:22:37   | to look at my Stream Deck and go, okay, this is the toggle video button, I will just activate             |
+| 01:22:37   | to look at my [[Stream Deck]] and go, okay, this is the toggle video button, I will just activate             |
 | 01:22:42   | zoom and click the video button in the bottom. Because that is always there to start and                  |
 | 01:22:48   | stop video unless you don't have a camera attached in which case it's still there, it's                   |
 | 01:22:51   | just grayed out. So you're fine anyway. But yeah, I mean, I have experimented with adding                 |
@@ -1062,9 +1062,9 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:24:27   | I think.                                                                                                  |
 | 01:24:28   | Yes. Yeah. I mean, profiles, I mean, as we said before, they're free. The KM link plugin                  |
 | 01:24:33   | is free. You know, the only thing that you would need to buy is either the physical                       |
-| 01:24:37   | Stream Deck, which I will admit is is not free, or, you know, the subscription, which                     |
+| 01:24:37   | [[Stream Deck]], which I will admit is is not free, or, you know, the subscription, which                     |
 | 01:24:43   | is $1.99 a month on your iPhone to do that. And unfortunately, it doesn't work on the                     |
-| 01:24:48   | iPad. The iPad doesn't give you a 32 button Stream Deck, David. I think Elgato are missing                |
+| 01:24:48   | iPad. The iPad doesn't give you a 32 button [[Stream Deck]], David. I think [[Elgato]] are missing                |
 | 01:24:53   | a trick there.                                                                                            |
 | 01:24:54   | Yeah.                                                                                                     |
 | 01:24:55   | But something you said about [[Drafts]] leads me to something I mentioned earlier, which                      |
@@ -1111,23 +1111,23 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:28:16   | to me very awkward to try and get my fingers around all of them, especially when I'm in                   |
 | 01:28:20   | the middle of recording. So all of those weird even start and stop recording, I've added                  |
 | 01:28:26   | buttons to screen casting my screen casting profile. And I do all of that just on the                     |
-| 01:28:33   | Stream Deck and I just press a button and it seems like it's just so much easier to                       |
+| 01:28:33   | [[Stream Deck]] and I just press a button and it seems like it's just so much easier to                       |
 | 01:28:37   | do it that way. And I would recommend that, frankly, if you have any app in your life                     |
 | 01:28:42   | that has a bunch of shortcuts that you wish you'd use, but it's hard to remember them,                    |
-| 01:28:47   | you can always make a profile on a Stream Deck and just program all those shortcuts into                  |
+| 01:28:47   | you can always make a profile on a [[Stream Deck]] and just program all those shortcuts into                  |
 | 01:28:52   | the buttons. And it just makes it really easy. Yeah.                                                      |
 | 01:28:56   | And not only does that make it easy for you, if there's someone in your life who doesn't,                 |
 | 01:29:00   | you know, really, it doesn't nerd out on computers. It's really handy too. Like my wife does a            |
 | 01:29:05   | lot of zoom calls as well. And she often does them on my computer. And she loves the stream               |
 | 01:29:12   | deck, you know, she loves that she can turn the camera off and on with a very easily recognisable         |
-| 01:29:18   | button on the Stream Deck. Because if you asked her to learn the keyboard shortcut to                     |
+| 01:29:18   | button on the [[Stream Deck]]. Because if you asked her to learn the keyboard shortcut to                     |
 | 01:29:22   | turn the camera off and on, she would just laugh at you, you know, she's not going to                     |
-| 01:29:25   | do that. So I do feel like that's a whole category of use for Stream Deck is like app                     |
+| 01:29:25   | do that. So I do feel like that's a whole category of use for [[Stream Deck]] is like app                     |
 | 01:29:31   | shortcuts. Although I would call it app shortcuts plus because you can only not just do the               |
 | 01:29:39   | keyboard shortcuts, but you could run it through a [[Keyboard Maestro]] script and do way more.               |
 | 01:29:44   | Like you could say, open this specific window and put it right here. Like with the with                   |
 | 01:29:49   | OmniFocus, I often turn off the inspector window, but I can automate that through a                       |
-| 01:29:53   | [[Keyboard Maestro]] script. Or I can just put a short a Stream Deck button. And I have one                   |
+| 01:29:53   | [[Keyboard Maestro]] script. Or I can just put a short a [[Stream Deck]] button. And I have one                   |
 | 01:30:00   | with an arrow pointing right, which is where the inspector is. If I tap that, the inspector               |
 | 01:30:03   | disappears. And I know there's a shortcut for it, but I never can seem to remember it.                    |
 | 01:30:07   | So now I've just put a button on it.                                                                      |
@@ -1139,7 +1139,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:30:34   | is command shift to [[ScreenFlow]] says, try to start recording failed start recording because               |
 | 01:30:39   | your device was not connected or whatever it is. And then it's like, okay, that's fine.                   |
 | 01:30:42   | Because I didn't want [[ScreenFlow]]. I wanted [[Drafts]]. So I've ended up actually changing                    |
-| 01:30:46   | the keyboard shortcut for [[Drafts]]. And then I've got a hot key on my on my Stream Deck                     |
+| 01:30:46   | the keyboard shortcut for [[Drafts]]. And then I've got a hot key on my on my [[Stream Deck]]                     |
 | 01:30:49   | and I've got a hot key on my keyboard, both of which open the quick capture and [[Drafts]]                   |
 | 01:30:53   | for me. But I don't know what it is about [[ScreenFlow]], but it does not like me changing                   |
 | 01:30:57   | the keyboard shortcuts in it, for whatever reason, especially if you want to leave it                     |
@@ -1214,7 +1214,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:36:24   | slash Automators for 10% off. Our thanks to DEVONtechnologies for their support of this                   |
 | 01:36:28   | show and all of Relay FM.                                                                                |
 | 01:36:30   | So as we were prepping for the show, Rose says, hey, have you checked out these automation                |
-| 01:36:37   | tools, these home automation tools with Stream Deck? And I'm like, yeah, but I don't really               |
+| 01:36:37   | tools, these home automation tools with [[Stream Deck]]? And I'm like, yeah, but I don't really               |
 | 01:36:41   | have that many Hue lights. And you know, they're built and automations are all Hue geared.                |
 | 01:36:45   | So I can't really use it that much. And then Rose told me about something amazing. Rose                   |
 | 01:36:51   | shared this amazing news with all of us.                                                                  |
@@ -1245,7 +1245,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:38:55   | on my desk, if it's a little bit dark, and my lava lamp that lives on my desk, those                      |
 | 01:39:00   | are done with IKEA Trad free smart plugs. And so I can't just do that using the hue app                   |
 | 01:39:06   | or whatever, because that's all through the IKEA hub. And maybe somebody's written an                     |
-| 01:39:10   | IKEA plug in for the Stream Deck, and I haven't found it yet. That's entirely possible, probably          |
+| 01:39:10   | IKEA plug in for the [[Stream Deck]], and I haven't found it yet. That's entirely possible, probably          |
 | 01:39:14   | probable. But, you know, I haven't found it, but [[HomeControl Menu for HomeKit\|HomeControl]] means that I can do all of                  |
 | 01:39:20   | that. And I can do that locally. And that, you know, speeds things up just a little bit.                  |
 | 01:39:26   | Because of course, if you have to send a command to the hue servers, and then the hue servers             |
@@ -1261,15 +1261,15 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:40:17   | you include your authentication token every time. So you can't just trigger this. And,                    |
 | 01:40:22   | you know, somebody else can copy it, and they can now also control the lights in your home.               |
 | 01:40:26   | You know, because it's working on your Mac. And this is great. So I've now got buttons.                   |
-| 01:40:31   | I can open and close my curtains, David, from my Stream Deck. That's amazing to me.                       |
+| 01:40:31   | I can open and close my curtains, David, from my [[Stream Deck]]. That's amazing to me.                       |
 | 01:40:36   | Yeah. So you told me about it, and I went and checked it out, and I installed the app.                    |
 | 01:40:41   | I think it was $7 to buy the app. And I got the URL for, there's a little pond outside                    |
 | 01:40:48   | my window where I work, and there's a pump in there that has a little waterfall. It's                     |
 | 01:40:53   | not like super fancy, but I like the sound of the water. And so I set that up and put                     |
-| 01:40:58   | a button on my Stream Deck, and then I press the button, and then I heard water, and it's                 |
+| 01:40:58   | a button on my [[Stream Deck]], and then I press the button, and then I heard water, and it's                 |
 | 01:41:03   | like, oh, this is changes everything. So everything, all my, you know, all my Lutron                      |
 | 01:41:11   | switches, all the, anything that's addressable on [[HomeKit]], I can now put a button on my stream            |
-| 01:41:16   | deck. I also tested it on my front door lock. I can unlock my door with my Stream Deck.                   |
+| 01:41:16   | deck. I also tested it on my front door lock. I can unlock my door with my [[Stream Deck]].                   |
 | 01:41:23   | That is great. I love that. One, or a couple of pro tips that I'm going to give people                    |
 | 01:41:28   | if you get this app. It is $6.99 in the app store, so it's not free. And there's a companion              |
 | 01:41:33   | app for iOS called HomeBot. I haven't played with that yet. But they do say HomeBot will                  |
@@ -1314,12 +1314,12 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:45:02   | is lovely. But realistically, I actually need the light strip to be white and 100% brightness             |
 | 01:45:08   | to just make sure that I'm not really sitting in the dark, or at least doesn't look like                  |
 | 01:45:11   | I'm sitting in the dark. So yeah, so you can do that. But this app is great. And it works                 |
-| 01:45:19   | so well with the Stream Deck as well. I have an entire profile, David, for for automations                |
+| 01:45:19   | so well with the [[Stream Deck]] as well. I have an entire profile, David, for for automations                |
 | 01:45:25   | in my office. So I can open and close the blind, I can open and close the curtains, I can turn            |
 | 01:45:30   | on each individual light. And, of course, then when they're on, I can turn them off.                      |
 | 01:45:35   | And I can even turn off my 3D printer, which is something we'll have to talk about in a                   |
 | 01:45:40   | future show.                                                                                              |
-| 01:45:41   | So do you have any complaints with the Stream Deck?                                                       |
+| 01:45:41   | So do you have any complaints with the [[Stream Deck]]?                                                       |
 | 01:45:44   | Well, I mean, I've got some pet peeves when it comes to the software, I have to say. The                  |
 | 01:45:51   | hardware is great. It works well for me. I would like it if maybe on all of them you                      |
 | 01:45:57   | could have an adjustable frame at the back. So I've got mine, like I've just got it sitting               |
@@ -1332,8 +1332,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:46:36   | open it in something like preview, then you can you can paste or create a new one from                    |
 | 01:46:40   | your clipboard and you can paste this into pages or whatever, you know, you've got plenty                 |
 | 01:46:44   | of choices. And you know, you can export it to a PNG and things like that. But you can't                  |
-| 01:46:50   | copy the app icon from Finder's info pane and paste it in Stream Deck. And I really,                      |
-| 01:46:56   | really wish you could. Similarly, I wish I could open two Stream Deck, you know, instances                |
+| 01:46:50   | copy the app icon from Finder's info pane and paste it in [[Stream Deck]]. And I really,                      |
+| 01:46:56   | really wish you could. Similarly, I wish I could open two [[Stream Deck]], you know, instances                |
 | 01:47:02   | side by side so I can move things from one profile to another profile, or copy things                     |
 | 01:47:07   | from one folder to another if I want to copy multiple things. Like when I was tweaking                    |
 | 01:47:11   | things from folders to profiles, this was definitely a pain point for me. You think                       |
@@ -1361,7 +1361,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:49:08   | script. And as it currently works, you can do up to 10 save timers that way. But I want                   |
 | 01:49:13   | I have more than 10, I just want a way to be able to automate triggering any toggle timer                 |
 | 01:49:19   | without having to do anything like I can on my iPhone, my iPad. And that's not there yet.                 |
-| 01:49:24   | But I feel like that would be perfect for a Stream Deck if it was possible.                               |
+| 01:49:24   | But I feel like that would be perfect for a [[Stream Deck]] if it was possible.                               |
 | 01:49:27   | Yes. Yeah. So hopefully we'll get that. In the meantime, I have had some success through                  |
 | 01:49:34   | our [[Keyboard Maestro]] and running sort of shell scripts with curl to talk directly to the                  |
 | 01:49:39   | toggle API. If that sounds horribly complicated to you, then guess what my experience with                |
@@ -1376,18 +1376,18 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:50:31   | hopefully listeners to add a few more automation options. Or maybe this summer, David, I mean,            |
 | 01:50:37   | they announced [[WWDC]], maybe we'll just get shortcuts for the Mac.                                          |
 | 01:50:40   | Boy, wouldn't that be great? That would be great. Oh yeah. And don't write me about                       |
-| 01:50:45   | the toggle plugin. There's an existing toggle plugin for the Stream Deck. But I've already,               |
+| 01:50:45   | the toggle plugin. There's an existing toggle plugin for the [[Stream Deck]]. But I've already,               |
 | 01:50:52   | I'm in that GitHub and I've let them know it's just not adequate. I mean, you can't                       |
 | 01:50:57   | apply. It doesn't support tags. Yeah. So and it just there, it needs to be better                         |
 | 01:51:03   | than that. And it's just not there yet. So hopefully they'll get there. And I know that                   |
 | 01:51:06   | that team is also aware of this request. So one way or another, we're going to get there.                 |
 | 01:51:11   | And when that happens, guess what? You'll have a profile of toggle timers. So good for                    |
 | 01:51:16   | it. Yeah, fingers crossed, we will either way. We just spent an hour and a half talking                   |
-| 01:51:21   | about the Stream Deck. I hope that you enjoyed it. And I hope that maybe you're motivated                 |
+| 01:51:21   | about the [[Stream Deck]]. I hope that you enjoyed it. And I hope that maybe you're motivated                 |
 | 01:51:24   | to even give one a try because it's, it really is a game changer. I feel like the, and I                  |
 | 01:51:30   | don't keep banging on this, but the setup automation and having that on buttons is going                  |
-| 01:51:36   | to save you so much time that the Stream Deck will pay for itself. And I, I swear I'm not                 |
-| 01:51:42   | making a commission on Stream Deck and Elgato and I have never talked, but it's just a great              |
+| 01:51:36   | to save you so much time that the [[Stream Deck]] will pay for itself. And I, I swear I'm not                 |
+| 01:51:42   | making a commission on [[Stream Deck]] and [[Elgato]] and I have never talked, but it's just a great              |
 | 01:51:47   | thing. It's just a little device that really helps. And I think it's very automator friendly.             |
 | 01:51:52   | If you listen to automators, this is something you probably want to play with.                            |
 | 01:51:55   | Yes, yes. And if you're listening to this and thinking, Oh, I'm on a Windows machine                      |
@@ -1396,7 +1396,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:52:08   | manager stuff does work on Windows and there, there are alternatives for that. So auto hot                |
 | 01:52:13   | key and similar can do a lot of things. So yeah, make sure that you try everything out                    |
 | 01:52:18   | because you, you will hopefully be very pleasantly surprised.                                             |
-| 01:52:22   | Well that about does it for the Stream Deck at this point on the automators. Well, I'm                    |
+| 01:52:22   | Well that about does it for the [[Stream Deck]] at this point on the automators. Well, I'm                    |
 | 01:52:26   | sure we'll be talking about it again in the future as things develop. In the meantime,                    |
 | 01:52:30   | we want to thank our sponsors. That's the folks at privacy, Microsoft, ExpressVPN and                     |
 | 01:52:34   | DEVONthink, and we'll see you in a few weeks.                                                            |

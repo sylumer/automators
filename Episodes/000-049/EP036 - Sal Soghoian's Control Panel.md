@@ -870,7 +870,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 56:46      | You can either call it with the name or call it with the ID of the macro, but it's very                  |
 | 56:50      | simple to do.                                                                                            |
 | 56:51      | And so if you've already got stuff in [[Keyboard Maestro]], that's something that you can do                 |
-| 56:56      | and I know a lot of people have been playing with things like a Stream Deck recently.                    |
+| 56:56      | and I know a lot of people have been playing with things like a [[Stream Deck]] recently.                    |
 | 56:59      | But this, if you already have an iPad, it's a free alternative.                                          |
 | 57:03      | So it's definitely worth giving it a try.                                                                |
 | 57:05      | Yeah, if you're going to set this up, you can not only run AppleScripts, you can run                    |

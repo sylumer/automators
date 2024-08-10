@@ -550,8 +550,8 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 46:19      | an on air sign and I'm like, okay, I've got that in home kit because it's now effectively              |
 | 46:25      | a hue light. And okay, I could tie that into something so that when I hit record on my                 |
 | 46:33      | Mac, the on air light comes on. This seems perfectly plausible, you know, and I've got                 |
-| 46:39      | the bits I have, you know, I have a have my Stream Deck sitting in front of me here. In                |
-| 46:47      | fact, it's your Stream Deck, but everybody just buys bigger and bigger Stream Decks.                   |
+| 46:39      | the bits I have, you know, I have a have my [[Stream Deck]] sitting in front of me here. In                |
+| 46:47      | fact, it's your [[Stream Deck]], but everybody just buys bigger and bigger [[Stream Deck\|Stream Decks]].                   |
 | 46:58      | And I, you know, I could do all these things and I just haven't put the pieces together                |
 | 47:01      | because it feels a bit like my day job. If more frustrating, if that were possible.                    |
 | 47:11      | Yeah. Well, in frustrating that it's not entirely consistent still.                                    |

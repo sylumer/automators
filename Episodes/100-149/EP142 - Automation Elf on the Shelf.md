@@ -885,7 +885,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 54:13      | on your Mac, which is perfect.                                                                      |
 | 54:16      | So I have updated the show notes to reflect that.                                                   |
 | 54:19      | That's fun.                                                                                         |
-| 54:20      | It's like the Elgato ones, except it's cheaper and it also has Stream Deck support.                 |
+| 54:20      | It's like the Elgato ones, except it's cheaper and it also has [[Stream Deck]] support.                 |
 | 54:27      | So our last topic is what's in the present bag and Rose has referenced Elfster.                     |
 | 54:33      | What is Elfster, Rose?                                                                              |
 | 54:35      | So Elfster is a service.                                                                            |

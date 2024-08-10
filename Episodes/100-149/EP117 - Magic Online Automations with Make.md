@@ -86,7 +86,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 02:11      | Yeah, maybe.                                                                                              |
 | 02:12      | Well, since you raised it, actually, let's come back to that in a second, because there's                 |
 | 02:15      | one other announcement I have for you today in automators max, we're going to be talking                  |
-| 02:19      | about the Stream Deck plus that's the new Stream Deck with 400% more knobs.                               |
+| 02:19      | about the [[Stream Deck]] plus that's the new [[Stream Deck]] with 400% more knobs.                               |
 | 02:26      | How's that?                                                                                               |
 | 02:27      | Oh yeah.                                                                                                  |
 | 02:28      | Yeah.                                                                                                     |

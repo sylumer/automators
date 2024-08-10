@@ -1379,7 +1379,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:12:17   | And that's something I would recommend you try heading into the new year.                                |
 | 01:12:20   | Yes.                                                                                                     |
 | 01:12:21   | Yeah.                                                                                                    |
-| 01:12:22   | I've been experimenting a lot with Stream Deck myself to really, you know, make full                     |
+| 01:12:22   | I've been experimenting a lot with [[Stream Deck]] myself to really, you know, make full                     |
 | 01:12:25   | use of it.                                                                                               |
 | 01:12:26   | So I have an automators button.                                                                          |
 | 01:12:27   | I have a nested folders button, got a screencast online button, even got a button David from             |
@@ -1640,9 +1640,9 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:26:08   | I have to reach out to the developer, maybe he's working on a Mac app, or there's some                   |
 | 01:26:12   | reason why it won't work on the Mac, but there isn't a good solution on the Mac.                         |
 | 01:26:17   | I know you've worked on some automation solutions so have I.                                             |
-| 01:26:21   | I'm also bugging the, if you go into the GitHub for the Stream Deck toggle support, I've been            |
+| 01:26:21   | I'm also bugging the, if you go into the GitHub for the [[Stream Deck]] toggle support, I've been            |
 | 01:26:30   | active in there bugging the developer.                                                                   |
-| 01:26:32   | I know they're testing a method now, where you can add tags to a Stream Deck toggle.                     |
+| 01:26:32   | I know they're testing a method now, where you can add tags to a [[Stream Deck]] toggle.                     |
 | 01:26:37   | Oh, good.                                                                                                |
 | 01:26:38   | Yeah.                                                                                                    |
 | 01:26:39   | Yeah.                                                                                                    |

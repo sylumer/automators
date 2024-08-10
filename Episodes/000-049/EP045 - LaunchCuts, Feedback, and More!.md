@@ -455,36 +455,36 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 35:40      | Go to the link right now, expressvpn.com/automators, A-U-T-O-M-A-T-O-R-S,                        |
 | 35:47      | and get an extra three months free on a one-year package. That's expressvpn.com/automators.      |
 | 35:53      | Now to learn more. And our thanks to ExpressVPN for their support of the automators and all of         |
-| 35:59      | Relay FM. I thought it'd be fun to do a little check-in on the Stream Deck, because I know you         |
+| 35:59      | Relay FM. I thought it'd be fun to do a little check-in on the [[Stream Deck]], because I know you         |
 | 36:04      | bought one. I bought one. How's it going, Rose? I have a top row of buttons, but I have to say I       |
 | 36:14      | have not... So I have two problems. Number one, I've not really had the time to do things.             |
 | 36:19      | And number two, I am so frequently right now at my laptop rather than my mech, and I'm at my           |
 | 36:25      | laptop on the sofa, or I had a horrible cold for a week, so I spent most of the week in bed.           |
-| 36:31      | And taking your Stream Deck everywhere with you, I know it can be done, but I haven't done it.         |
+| 36:31      | And taking your [[Stream Deck]] everywhere with you, I know it can be done, but I haven't done it.         |
 | 36:36      | So I'm feeling kind of guilty, because I have this amazing piece of hardware that I really,            |
 | 36:42      | really want to be using more. And I'm just not there yet. That said, as alluded to earlier,            |
 | 36:48      | and we'll get to later, I will be changing things up a bit. And so hopefully I'll be recording at      |
-| 36:52      | my mech mini, which will mean that I can actually use my Stream Deck for recording purposes. And       |
+| 36:52      | my mech mini, which will mean that I can actually use my [[Stream Deck]] for recording purposes. And       |
 | 36:58      | I'm thinking that once I get started with that, it's going to open a whole rabbit hole of things.      |
-| 37:02      | But how are you doing with your Stream Deck, David?                                                    |
+| 37:02      | But how are you doing with your [[Stream Deck]], David?                                                    |
 | 37:04      | Yeah, I'm loving it. And I use it all the time. But I think you're right. This is definitely           |
 | 37:08      | the device best for someone that's at a desktop computer, because I can't really see myself            |
-| 37:13      | carrying this thing around and attaching it to a laptop. But the Stream Deck was designed as a         |
+| 37:13      | carrying this thing around and attaching it to a laptop. But the [[Stream Deck]] was designed as a         |
 | 37:18      | streaming, like for gamers, like game streamers to give them quick access to common commands for       |
 | 37:24      | streaming. But last year, with release of [[Keyboard Maestro]] version nine, Peter put in a feature        |
-| 37:31      | that lets you attach Stream Deck buttons to as triggers and [[Keyboard Maestro]]. And since keyboard       |
+| 37:31      | that lets you attach [[Stream Deck]] buttons to as triggers and [[Keyboard Maestro]]. And since keyboard       |
 | 37:38      | maestro can do almost anything on your Mac, then that basically gave you an external control panel     |
 | 37:45      | that you can make your Mac do almost anything. And so I really liked it. Related, I released an        |
 | 37:52      | update to the [[Keyboard Maestro]] field guide. I think since the last time we published, and I've got a   |
 | 37:56      | whole video in there explaining how to set it up and do all this stuff. But basically, it's not        |
-| 38:00      | that difficult. You've got a little plug in you download for the Stream Deck software. And then        |
+| 38:00      | that difficult. You've got a little plug in you download for the [[Stream Deck]] software. And then        |
 | 38:06      | you can attach a button to a [[Keyboard Maestro]] action. You can even give custom icons to the            |
-| 38:13      | buttons because there's a little LCD screen behind the Stream Deck. So like I've got a bunch of        |
+| 38:13      | buttons because there's a little LCD screen behind the [[Stream Deck]]. So like I've got a bunch of        |
 | 38:18      | icons between like my top row is all set up. So like I push one button, and it sets up all of my       |
 | 38:26      | various screens for writing. I press another one, it sets all of them up for planning. So I can like   |
 | 38:31      | jump between modes of work with just the press of a button. And I know I could do that with fancy      |
 | 38:37      | keyboard shortcuts and other ways with [[Keyboard Maestro]]. But there's something very satisfying         |
-| 38:42      | about sitting down on my computer and pressing a button on the Stream Deck and having my computer      |
+| 38:42      | about sitting down on my computer and pressing a button on the [[Stream Deck]] and having my computer      |
 | 38:47      | just zap into like screencast mode for me. It's just it's great. And so I've got the top row           |
 | 38:54      | buttons for setups. The second row is largely blank at this point, because I'm going to be             |
 | 38:58      | doing some streaming for MacSparky. I'm going to stream to field guide customers, we're going to do   |
@@ -494,38 +494,38 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 39:19      | it sets up my computer to record the automators. And then I've got all this miscellaneous stuff I'm    |
 | 39:24      | using on the bottom row. In fact, I've got a jazz button, there's a saxophone, I press that,           |
 | 39:28      | and jazz music just comes out of my office. It's awesome. Oh man, that sounds like great fun.          |
-| 39:34      | One of the things that I really want to experiment with is the Stream Deck app for iOS,                |
-| 39:40      | because you can turn your iPhone into a Stream Deck. And I think for my current situation where        |
+| 39:34      | One of the things that I really want to experiment with is the [[Stream Deck]] app for iOS,                |
+| 39:40      | because you can turn your iPhone into a [[Stream Deck]]. And I think for my current situation where        |
 | 39:44      | I'm using my laptop a lot, that is a lot more practical. It is unfortunately a subscription,           |
 | 39:49      | it's £2.79 a month for me, but they've just added shortcut support to it. So that you could actually   |
-| 39:56      | trigger Stream Deck actions from shortcuts, which definitely holds a certain amount of appeal for      |
+| 39:56      | trigger [[Stream Deck]] actions from shortcuts, which definitely holds a certain amount of appeal for      |
 | 40:03      | me. Because at the moment, when I start podcasting, I use NFC tags behind my podcast stickers. So I    |
 | 40:09      | have a little podcasting box with gear in which I pull out. And on top of that, I've got my podcast    |
 | 40:16      | stickers. So I've got one for automators, one for nested folders. And on the other side of those       |
 | 40:19      | stickers, I have NFC tags. So when I tap the automators sticker, it pops up a menu and asks me         |
 | 40:25      | what I want to track and it lets me get on with it. And I'm quite happy with that. But I wonder if     |
-| 40:32      | being able to trigger Stream Deck from my iPhone would also be great too. Yeah, I feel like we all     |
+| 40:32      | being able to trigger [[Stream Deck]] from my iPhone would also be great too. Yeah, I feel like we all     |
 | 40:38      | have to make decisions when an app goes subscription based. And when I saw this was subscription,      |
 | 40:43      | I was like, immediate, like, no, I'm not interested in paying a monthly for this one.                  |
-| 40:47      | But because I have this big Stream Deck on my desk, but I get like, if you're on a laptop,             |
+| 40:47      | But because I have this big [[Stream Deck]] on my desk, but I get like, if you're on a laptop,             |
 | 40:52      | that would be kind of nice to have your iPhone as like a control panel for your Mac.                   |
-| 40:57      | But at the same time, for a lot of what the Stream Deck does, especially if you're triggering          |
+| 40:57      | But at the same time, for a lot of what the [[Stream Deck]] does, especially if you're triggering          |
 | 41:00      | [[Keyboard Maestro]] macros, don't forget you can copy like a URL to trigger a [[Keyboard Maestro]]            |
 | 41:05      | macro, you know, from [[Keyboard Maestro]], and then you can just, you know, get contents of URL on        |
 | 41:10      | that inside of shortcuts, and it will do the same thing. Yeah, it might not look pretty in the same    |
-| 41:17      | way that a donated screen Stream Deck action would really said screen deck there. I think              |
+| 41:17      | way that a donated screen [[Stream Deck]] action would really said screen deck there. I think              |
 | 41:21      | that's something else. But it is, you know, another way of automating things on your Mac               |
 | 41:27      | from shortcuts, which is definitely something worth considering. I think the app would be good to      |
 | 41:33      | if I always like to think about automators helping out non-automators and their friends                |
-| 41:37      | and family circle, like if you went to grandma, I think that maybe a Stream Deck set of buttons        |
+| 41:37      | and family circle, like if you went to grandma, I think that maybe a [[Stream Deck]] set of buttons        |
 | 41:45      | would be easier for her as it triggers to shortcuts than the actual shortcuts app would be.            |
 | 41:52      | So I don't know. Yeah. Well, we'll have to see.                                                        |
 | 41:56      | Either way. Yeah, so I'm still using mine. Sounds like Rose is working on it.                          |
 | 42:00      | Yes, yes, I am. And I will be changing some things up in a couple of months. And then I'm              |
 | 42:05      | hoping that I will be able to record everything from my Mac mini, which will mean that I will          |
 | 42:09      | be sitting at my regular desk with my regular computer. And that will mean that I have my              |
-| 42:14      | Stream Deck right in front of me. I've still only got the medium size one. I didn't get the baby,      |
-| 42:18      | I went for the medium. If it goes well, I could foresee a full-size Stream Deck in my future           |
+| 42:14      | [[Stream Deck]] right in front of me. I've still only got the medium size one. I didn't get the baby,      |
+| 42:18      | I went for the medium. If it goes well, I could foresee a full-size [[Stream Deck]] in my future           |
 | 42:24      | and keeping the medium for extra things. So listener solid wrote in about working with                 |
 | 42:30      | timeouts and shortcuts. Yeah. So solid actually posted in the forums because                           |
 | 42:36      | a while ago I talked about a shortcut that I have. So when I open Twitter, it waits a minute,          |
