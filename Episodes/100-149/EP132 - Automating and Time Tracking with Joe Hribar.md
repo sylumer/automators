@@ -61,7 +61,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 00:28      | and with everything going on with the new operating systems and things, we knew we                   |
 | 00:32      | wanted to get a developer and somebody who's up to their elbows in it and Joe, you were              |
 | 00:37      | the first one that came to mind, we were so happy when you came on the show.                         |
-| 00:42      | I'm excited to also make my Relay FMW debut, switch on.                                             |
+| 00:42      | I'm excited to also make my Relay FM debut, switch on.                                             |
 | 00:46      | Yes.                                                                                                 |
 | 00:47      | Long overdue.                                                                                        |
 | 00:48      | Yeah, it's unbelievable that we've not had you on a show yet, you know, because we all               |
