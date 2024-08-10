@@ -1374,7 +1374,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:22:36   | automatically open up all the web pages you need to download bank statements and credit            |
 | 01:22:40   | card statements from.                                                                              |
 | 01:22:41   | My whole means create an automation that clicks at the right thing on the web page thanks          |
-| 01:22:44   | to Hebrew Maestro or just opens the URL of that thing after you've logged in.                      |
+| 01:22:44   | to [[Keyboard Maestro]] or just opens the URL of that thing after you've logged in.                      |
 | 01:22:49   | That's fine.                                                                                       |
 | 01:22:50   | But yeah, maybe just leave logging into the human.                                                 |
 | 01:22:54   | You know, some things aren't worth automating, especially when it comes to financial security.     |
