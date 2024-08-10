@@ -1,7 +1,9 @@
 ---
-status: "complete"
-creator: "IFTTT"
-notetype: "technology"
+status: complete
+creator: IFTTT
+notetype: technology
+aliases:
+  - If This Then That
 ---
 
 # Overview
