@@ -73,7 +73,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 01:07      | like an app on your phone that you open and like it talks to the device.                           |
 | 01:13      | So some of them are like little cameras and so on so that you can view something but you           |
 | 01:18      | don't have to like hook it up to another Wi-Fi network.                                            |
-| 01:21      | My Nintendo Switch is another obvious example of this and I've got a DJI Osmo pocket which         |
+| 01:21      | My [[Nintendo Switch]] is another obvious example of this and I've got a DJI Osmo pocket which         |
 | 01:30      | does the same sort of thing where it's got its Wi-Fi network and you can connect to                |
 | 01:33      | it to download the photos and open and control the camera.                                         |
 | 01:38      | And so I have been setting up little shortcuts automations for these.                              |

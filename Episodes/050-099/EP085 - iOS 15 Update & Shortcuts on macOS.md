@@ -1214,7 +1214,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 47:03      | to fit everything in nicely.                                       |
 | 47:05      | I've decided to go with dedicated charging drawers                 |
 | 47:07      | so that all of my like Nintendo Wii chargers                         |
-| 47:10      | and Nintendo switch controllers                                    |
+| 47:10      | and [[Nintendo Switch]] controllers                                    |
 | 47:12      | and all of that can just be in one place                           |
 | 47:14      | and you pop open a drawer, you select the controller               |
 | 47:16      | you want and it's charged and you're ready to go.                  |

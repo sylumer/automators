@@ -396,7 +396,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 25:50      | them with. But they're pretty good. So there's one by the front door that you just press                 |
 | 25:55      | it once on your way out and everything turns off even the Sonos, which is really good.                   |
 | 26:00      | And then aside from that, we've got a Logitech Harmony Hub, which means that you can switch              |
-| 26:05      | between the media PC attached to our television, the Apple TV or my Nintendo Switch very quickly         |
+| 26:05      | between the media PC attached to our television, the Apple TV or my [[Nintendo Switch]] very quickly         |
 | 26:11      | and it controls the lights as well. Yeah, I want to talk about that Harmony Hub. I've                    |
 | 26:17      | not used one in years. I played with one once, actually sent it back because it wasn't working           |
 | 26:22      | that well for me. But what's the primary goal of it?                                                     |
@@ -408,7 +408,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 26:51      | pick up the remote control versus talk to the television, which of course can be done                    |
 | 26:55      | now because we've got the Harmony Hub. But this way, we have the remote control and with                 |
 | 27:01      | one press, you can either use the media PC or switch to the Apple TV and turn on the                     |
-| 27:08      | gaming, the gaming mode, which is my Nintendo switch, but it also controls the lighting                  |
+| 27:08      | gaming, the gaming mode, which is my [[Nintendo Switch]], but it also controls the lighting                  |
 | 27:13      | as well. And so it will dim the lights when you start doing something and then it will                   |
 | 27:19      | brighten the lights up afterwards, which is really nice.                                                 |
 | 27:22      | Does that device work with home cameras? It just happened to also work with your hues?                   |
@@ -423,7 +423,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 28:10      | TV remote. So I don't even have to... I just have the one remote. It's very convenient.                  |
 | 28:14      | But I don't think I'm really a candidate. I think it's HDMI CEC. That's protocol. It's                   |
 | 28:19      | easy. Our Apple TV did that as well, and you could control it with the television remote,                |
-| 28:24      | but it's switching between my Nintendo switch and back to the Apple TV or over to the media              |
+| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the Apple TV or over to the media              |
 | 28:29      | PC because we don't have regular cable or even watch over-the-air stuff either. That                     |
 | 28:36      | was barking me enough that I was willing to get that and pay the money for it. And my                    |
 | 28:40      | boyfriend is actually very happy with it. So that was a very good investment slash birthday              |

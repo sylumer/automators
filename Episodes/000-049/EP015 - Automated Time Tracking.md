@@ -85,7 +85,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 01:00      | but that's one of the big ones for me,                                          |
 | 01:01      | just so that I know how long I'm spending on these things,                      |
 | 01:04      | so I can look at it and go,                                                     |
-| 01:05      | wait, I spent three hours yesterday playing on the Nintendo Switch,             |
+| 01:05      | wait, I spent three hours yesterday playing on the [[Nintendo Switch]],             |
 | 01:09      | and I was only going to spend 20 minutes.                                       |
 | 01:10      | What happened there?                                                            |
 | 01:11      | Yeah, I think that the concept of time tracking in our little nerd community    |
@@ -716,7 +716,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 27:11      | and I sit down and I start watching it.                                         |
 | 27:13      | And I completely forget to stop my timer.                                       |
 | 27:17      | I don't put the track in the time that I spend on the TV.                       |
-| 27:19      | I do check the time that I spend playing on my Switch,                          |
+| 27:19      | I do check the time that I spend playing on my [[Nintendo Switch\|Switch]],                          |
 | 27:21      | because I only got that for Christmas.                                          |
 | 27:23      | And I am really trying not to spend too much time playing                       |
 | 27:28      | on it, because I'm slightly concerned about RSI issues.                         |

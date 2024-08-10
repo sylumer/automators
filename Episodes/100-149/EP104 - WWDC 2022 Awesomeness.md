@@ -842,9 +842,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 53:33      | just adding quality of life actions like setting your personal hotspot to on or off. So if usually        |
 | 53:39      | when you do a certain thing, then you would turn on your hotspot, you can do that as part                 |
 | 53:44      | of a shortcut. Now, which is very nice if you, for example, have an NFC tag or an amiibo                  |
-| 53:51      | in your Nintendo Switch case, and you would like to be able to tether your Nintendo Switch                |
+| 53:51      | in your [[Nintendo Switch]] case, and you would like to be able to tether your [[Nintendo Switch]]                |
 | 53:55      | to your phone's hotspot, well, now you can tap the amiibo or the NFC tag and turn on                      |
-| 54:01      | the hotspot on your phone so that your Nintendo Switch can connect to it, which I really like.            |
+| 54:01      | the hotspot on your phone so that your [[Nintendo Switch]] can connect to it, which I really like.            |
 | 54:06      | Yeah, that hotspot one, I think, is kind of really useful for a lot of people. Like, you                  |
 | 54:11      | know, sometimes like if you've got a little guy, people have cars that have hotspots built                |
 | 54:16      | in or, you know, there's just a lot of different uses for that and making that an automation              |

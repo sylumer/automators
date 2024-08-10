@@ -611,7 +611,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 59:41      | that's just just a huge thing. I always have a timer running just to make sure that I'm on              |
 | 59:50      | track. Because if at the end of the week, I look at my report, and I haven't done what I set out to     |
 | 59:59      | do, it makes me sad. And sometimes what I set out to do is literally just play video games.             |
-| 01:00:06   | Next to my switch, there's also a little NFC tag. But on the back of my Nintendo switch,                |
+| 01:00:06   | Next to my switch, there's also a little NFC tag. But on the back of my [[Nintendo Switch]],                |
 | 01:00:18   | and that just turns all the lights down and starts my video game timer. I have a timer                  |
 | 01:00:27   | or project in Timery that's just called Life. And that is what I use whenever I am just tracking        |
 | 01:00:40   | existence that isn't work involved. And I want to see that bar of the graph get bigger every            |

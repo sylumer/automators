@@ -320,7 +320,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 17:32      | or my shipping information, or other little small quotes like that sounds good, I'll talk to you         |
 | 17:40      | then, you know, or, or little things like that that I can use that are that are easy to make sure        |
 | 17:45      | that I'm still communicating with people effectively. So I use them for that stuff. And then             |
-| 17:51      | small fun things like my Nintendo switch friend code I have as a TextExpander snippet, and my           |
+| 17:51      | small fun things like my [[Nintendo Switch]] friend code I have as a TextExpander snippet, and my           |
 | 17:56      | Pokemon go friend code I have as a TextExpander snippet, so that it's easy to share them with           |
 | 18:01      | other people. And then, and I know I got it correct. And I don't have to go through all the              |
 | 18:06      | hassle of copying out and pasting it somewhere else every time. So yeah, yeah, no, the forms that        |

@@ -181,7 +181,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 07:00      | Well, I may need to add fancy socks to my packing list.                                                            |
 | 07:03      | But essentially what I do is I build this dictionary.                                                              |
 | 07:05      | So the keys are the different kinds of things that I pack, like clothing, technology, random stuff                 |
-| 07:11      | that apparently I need on the plane, like Nintendo Switch, because why not?                                        |
+| 07:11      | that apparently I need on the plane, like [[Nintendo Switch]], because why not?                                        |
 | 07:15      | And things like that.                                                                                              |
 | 07:16      | And then I go through and I have it give me the list of the keys.                                                  |
 | 07:22      | So it's like, OK, do you need to pack clothing?                                                                    |

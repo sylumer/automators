@@ -978,7 +978,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:30:16   | and have been more proactive in following up on unpaid invoices, they pay more quickly.                                                        |
 | 01:30:21   | Funny how that is. Rose, how do you handle that question of time invested versus time gain?                                                    |
 | 01:30:29   | Automation is a hobby. So I'm going to spend my time doing something, whether it's playing games                                               |
-| 01:30:34   | on Nintendo Switch, moving between countries, planning holidays, you know, doing a variety                                                     |
+| 01:30:34   | on [[Nintendo Switch]], moving between countries, planning holidays, you know, doing a variety                                                     |
 | 01:30:40   | of things. I figure that, you know, as long as I'm enjoying myself and I get the result that                                                   |
 | 01:30:45   | I'm after, it's a good investment of time. Because if I'm looking at this versus, you know,                                                    |
 | 01:30:51   | a variety of other hobbies available to me, it's certainly a lot cheaper than others.                                                          |
