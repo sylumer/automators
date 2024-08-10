@@ -535,20 +535,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 39:18      | of home kit scenes set up for like Iowa's today, where I use different colour lights                      |
 | 39:24      | in the background and things like that. And I've been getting pretty nerdy with the home                 |
 | 39:28      | automation stuff, David. I think there's going to be quite a bit to talk about there.                    |
-| 39:33      | This episode of automators is brought to you by our friends at Texas Fender. Keep everything             |
+| 39:33      | This episode of automators is brought to you by our friends at TextExpander. Keep everything             |
 | 39:37      | consistent and accurate with . In our fast-paced world, things change constantly             |
-| 39:42      | and errors in messaging can have significant consequences. Texas Fender lets you make approved           |
+| 39:42      | and errors in messaging can have significant consequences. TextExpander lets you make approved           |
 | 39:47      | messaging available to every team member instantly with just a few keystrokes. So your team stays        |
-| 39:52      | consistent, current and accurate. With Texas Fender, you can get your message right every                |
+| 39:52      | consistent, current and accurate. With TextExpander, you can get your message right every                |
 | 39:56      | time, expand content that corrects your spelling and keep your language consistent with just             |
 | 40:00      | a few keystrokes. So your team members always know the right message for the right person                |
-| 40:05      | at the right time without relying on memory or copy and paste. I love Texas Fender and                   |
+| 40:05      | at the right time without relying on memory or copy and paste. I love TextExpander and                   |
 | 40:10      | I use it for all sorts of things. Recently, I've been experimenting with app-specific                    |
 | 40:15      | snippets again. And guess what? They're even better when you share them because that means               |
 | 40:19      | that everybody who needs to write their text is certain way so it appears right in this                  |
 | 40:23      | application. Well, they can get it just like that every time. As a listener of automators,               |
 | 40:29      | you can get 20% off your first year. Visit TextExpander.com/podcast to learn more                   |
-| 40:33      | about Texas Fender. That's TextExpander.com/podcast. I'll thanks Texas Fender for                   |
+| 40:33      | about TextExpander. That's TextExpander.com/podcast. I'll thanks TextExpander for                   |
 | 40:38      | their support of this show and Relay FM. Okay, so Rose, every time I talk to you, I                     |
 | 40:44      | feel like your home automation has started over. It's like a very much fast moving train.                |
 | 40:51      | Where are you right now with respect to home automation?                                                 |
