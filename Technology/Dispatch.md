@@ -23,7 +23,7 @@ The following apps were supported in quick actions.
 - 1Password
 - 2 Days
 - Appigo Todo
-- Asana
+- [[Asana]]
 - [[Apple Calendar|Calendar]]
 - Chrome
 - Clear

@@ -773,13 +773,13 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 42:28      | So I can essentially create zaps that treat these WooCommerce and GravityForms as just                   |
 | 42:35      | like other services.                                                                                     |
 | 42:36      | And so I could say if a one that I built quite recently is if there's a payment that fails,              |
-| 42:43      | it creates a task in Asana to follow up with it.                                                         |
-| 42:48      | And the reason I put it in Asana is I'm starting to kind of move some things out of OmniFocus            |
+| 42:43      | it creates a task in [[Asana]] to follow up with it.                                                         |
+| 42:48      | And the reason I put it in [[Asana]] is I'm starting to kind of move some things out of OmniFocus            |
 | 42:54      | in order to have an assistant who's going to be dealing with that stuff so I can start                   |
 | 42:58      | to take some load off my shoulders.                                                                      |
 | 43:02      | But it just automatically happens in the background.                                                     |
 | 43:05      | So instead of getting an email to say this payment is failed, it's just adding it to                     |
-| 43:08      | the list in Asana.                                                                                       |
+| 43:08      | the list in [[Asana]].                                                                                       |
 | 43:10      | It's even pulling in the information about when was the last subscription payment.                       |
 | 43:16      | It automatically builds a link that I can click on that takes me back into the WordPress                 |
 | 43:22      | site back to that specific record in WooCommerce so I can get a better idea of what's going              |
@@ -805,7 +805,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 44:42      | And things are taken care of.                                                                            |
 | 44:43      | And then on the OmniFocus side of things, all I need to do is have an action that repeats                |
 | 44:47      | maybe every weekday saying review failed orders.                                                         |
-| 44:51      | And that has a link into Asana.                                                                          |
+| 44:51      | And that has a link into [[Asana]].                                                                          |
 | 44:52      | I do whatever I need to do, check them complete.                                                         |
 | 44:56      | And it just takes a lot of the friction out of it and keeps OmniFocus nice and clean.                    |
 | 45:01      | And then it opens up the door for someone else to do that work.                                          |
@@ -890,7 +890,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 50:11      | double check that if it's important enough that it ended up in push over, I want to have                 |
 | 50:16      | that extra verification that has been dealt with.                                                        |
 | 50:19      | I might be able to do that some other way.                                                               |
-| 50:21      | I guess I could be adding them to an Asana project the way I do with the payment failures                |
+| 50:21      | I guess I could be adding them to an [[Asana]] project the way I do with the payment failures                |
 | 50:26      | and things like that but yeah, it's just one of those that I've been using for several                   |
 | 50:30      | years now and it's stuck.                                                                                |
 | 50:34      | So Tim, which automation of all of yours gives you the most delight?                                     |
