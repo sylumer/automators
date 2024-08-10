@@ -1035,5 +1035,5 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:35:48   | people there. It's really nice to pop in and go, oh, look, all of these wonderful things have been                                             |
 | 01:35:54   | happening in the last, you know, 20 minutes since I visited because it always feels like I was there                                           |
 | 01:35:58   | 20 minutes ago and so much stuff has happened. Yeah. And we are the automators. You can find                                                   |
-| 01:36:03   | us at relay.fm/automators. Thank you to our sponsors, Smile Express VPN and Dev and                                                            |
-| 01:36:09   | Thank, and we'll see you next week. Goodbye, everyone.                                                                                         |
+| 01:36:03   | us at relay.fm/automators. Thank you to our sponsors, Smile Express VPN and DEVONthink                                                            |
+| 01:36:09   | and we'll see you next week. Goodbye, everyone.                                                                                         |

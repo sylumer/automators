@@ -972,12 +972,12 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:23:18   | instead of sub private things. But for those times when I can't do that, where people insist             |
 | 01:23:23   | that their data has to be in a super secure internal private network, which cannot be accessed           |
 | 01:23:28   | from the bigger network or whatever, then I have separate VPN. So being able to list those out has       |
-| 01:23:33   | been really helpful for me. Another one for me is Dev and think search. There is a Dev and think         |
+| 01:23:33   | been really helpful for me. Another one for me is DEVONthink search. There is a DEVONthink         |
 | 01:23:39   | three shirts by I think Charles Ma. And it does a great job you install and there's different            |
-| 01:23:44   | parameters you can pass to it, like DNF say searches your favourites and Dev and think or,                |
+| 01:23:44   | parameters you can pass to it, like DNF say searches your favourites and DEVONthink or,                |
 | 01:23:50   | you know, D&T is the standard search. But it's a, it's an excellent way kind of like the way I use       |
 | 01:23:57   | the on me focus search. You know, if I can search an app from anywhere on my computer, despite in        |
-| 01:24:02   | command space, why not be able to do searches inside apps and have a lot of data and Dev and think,      |
+| 01:24:02   | command space, why not be able to do searches inside apps and have a lot of data and DEVONthink,      |
 | 01:24:08   | and I want to drill to a specific location. That's where [[Alfred]] kind of lends a hand and it saves        |
 | 01:24:13   | me the trouble of finding the app, opening the app and then drilling through that, you know,             |
 | 01:24:18   | left menu to find where I wanted to be. Yeah. So David, do I get to get really nerdy now on some         |
@@ -1006,7 +1006,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:26:32   | powerful. And I must see even smash to do here as well. I would encourage people if they're              |
 | 01:26:37   | thinking about creating a [[Drafts]] and [[Drafts]] at [[Alfred]] workflow themselves, have a quick look             |
 | 01:26:44   | at what he's done here, go, wow, amazing. And then go have a look at one of the simpler ones             |
-| 01:26:51   | to get started, like the dev and think search. I mean, that one's still kind of complicated,             |
+| 01:26:51   | to get started, like the DEVONthink search. I mean, that one's still kind of complicated,             |
 | 01:26:54   | but send to [[Yoink]], for example, that's a two action workflow. It has your file action,                    |
 | 01:27:00   | which is your trigger, and then it's got an apple script. Okay, time zones, a little bit more            |
 | 01:27:06   | complicated because you've got multiple triggers. But there, there's some great resources on the         |
@@ -1034,7 +1034,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:29:08   | it, like search particular groups of folders, like, let's say you've got a folder with all your          |
 | 01:29:13   | client files in it. So you could have it trigger with CL and just search that folder where the           |
 | 01:29:19   | client folders are and just give you folder lists. So you can get to folders. I mean,                    |
-| 01:29:23   | actually keep a lot of this stuff in Dev and think, but if you kept it on your,                          |
+| 01:29:23   | actually keep a lot of this stuff in DEVONthink, but if you kept it on your,                          |
 | 01:29:27   | on your native drive or even on your iCloud drive, this would give you a quick way to                    |
 | 01:29:32   | get to them. Yeah. I'm actually just looking through here, David. And I've got one that I                |
 | 01:29:37   | created myself. It's called lullaby. And the idea is it's putting my Mac to sleep. But before it         |

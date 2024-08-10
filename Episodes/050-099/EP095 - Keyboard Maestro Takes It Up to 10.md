@@ -935,7 +935,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 58:28      | say now plus 20 minutes or now minus 15 minutes or whatever, which is, again, great for that             |
 | 58:36      | date and time that you were talking about.                                                               |
 | 58:39      | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                  |
-| 58:43      | Dev and Technologies.                                                                                    |
+| 58:43      | DEVONtechnologies.                                                                                    |
 | 58:44      | [[DEVONthink]] is the most professional document and information management application for               |
 | 58:48      | the Mac.                                                                                                 |
 | 58:49      | It's the one place for storing all your documents, snippets, all bookmarks, and working with             |
@@ -968,7 +968,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:00:25   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                          |
 | 01:00:28   | Just go to DEVONtechnologies.com/Automators, that's DEVONtechnologies.com/Automators       |
 | 01:00:32   | for 10% off.                                                                                             |
-| 01:00:33   | I'll thanks the Dev and Technologies for their support of this show and all of Relay FM.                |
+| 01:00:33   | I'll thanks the DEVONtechnologies for their support of this show and all of Relay FM.                |
 | 01:00:38   | All right, so what are some other things you're doing with [[Keyboard Maestro]] these days,                  |
 | 01:00:42   | Rose?                                                                                                    |
 | 01:00:43   | Well, I mean, there's a lot of things which are kind of similar to other things that I've                |

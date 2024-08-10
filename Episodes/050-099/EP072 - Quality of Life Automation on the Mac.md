@@ -1160,9 +1160,9 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:36:31   | stuff and field guide research. I've also got [[DEVONthink]] libraries for a bunch of my legal work.      |
 | 01:36:36   | It's just a great place to go because I control the security, I control the syncing,                     |
 | 01:36:41   | and I have massive, powerful tools at my disposal, way more powerful than what the Finder provides.      |
-| 01:36:48   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com         |
-| 01:36:54   |/automators. That's devontechnologies.com/automators for 10% off. Our thanks to               |
-| 01:37:01   | Dev and Technologies for their support of the automators and all of Relay FM.                            |
+| 01:36:48   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com/automators.         |
+| 01:36:54   | That's devontechnologies.com/automators for 10% off. Our thanks to               |
+| 01:37:01   | DEVONtechnologies for their support of the automators and all of Relay FM.                            |
 | 01:37:05   | So, David, I think we're almost at the end of the show here. I think it's probably time to               |
 | 01:37:13   | round out the episode with the other small things that we're doing. And I think the first place that     |
 | 01:37:19   | we've got to start with here is Automator, because we've not really talked about Automator               |

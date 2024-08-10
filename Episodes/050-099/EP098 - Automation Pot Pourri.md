@@ -1625,7 +1625,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:05:09   | down to the line of code                                              |
 | 01:05:10   | so you know exactly why the problem happened                          |
 | 01:05:12   | and you can resolve it quickly.                                       |
-| 01:05:14   | That's why dev and opt teams at DoorDash, GitHub, Epic Games          |
+| 01:05:14   | That's why Dev and Ops teams at DoorDash, GitHub, Epic Games          |
 | 01:05:17   | and more than 14,000 other companies                                  |
 | 01:05:19   | use New Relic to debug and improve their software.                    |
 | 01:05:22   | Whether you run a cloud native startup                                |

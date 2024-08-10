@@ -801,19 +801,19 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:12:16   | a couple of times a day to update all of the shortcuts that are or the widgets that I have                                       |
 | 01:12:20   | created through widget pack which is one of the ways that I do contextual things because the widget                              |
 | 01:12:25   | pack widgets show me different things based on the time of day as well as you know what content                                  |
-| 01:12:29   | needs to be in there this episode of automators is brought to you by dev and think the flagship                                  |
-| 01:12:35   | product from dev and technologies dev and think is the most professional document and information                                |
+| 01:12:29   | needs to be in there this episode of automators is brought to you by DEVONthink the flagship                                  |
+| 01:12:35   | product from DEVONtechnologies DEVONthink is the most professional document and information                                |
 | 01:12:40   | management application for the Mac it's the one place for storing all your documents snippets                                    |
 | 01:12:45   | all bookmarks and working with them the integrated AI assist you with finding and searching while the                            |
 | 01:12:50   | extensive search language with advanced billion operators means that you have no chance of losing                                |
-| 01:12:55   | anything dev and think features a flexible sync system that supports many cloud services including                               |
+| 01:12:55   | anything DEVONthink features a flexible sync system that supports many cloud services including                               |
 | 01:13:01   | [[Dropbox]] and iCloud or it lets you synchronise over your local network too if that's what you prefer                              |
 | 01:13:07   | and of course everything is securely encrypted this gives you the choice for syncing whichever way                               |
 | 01:13:12   | works best for you it's got smart rules and flexible reminders to let you automate all                                           |
-| 01:13:18   | parts of your workflow and delete boring repeating tasks letting dev and think automatically                                     |
-| 01:13:23   | organise your data with the rules that you define dev and thinks apple script dictionary is one of                               |
-| 01:13:28   | the largest on the Mac there's no part of dev and think that can't be automated and you can                                      |
-| 01:13:33   | accept and dev and thinks functionality with your own commands by adding them to its scripts menu                                |
+| 01:13:18   | parts of your workflow and delete boring repeating tasks letting DEVONthink automatically                                     |
+| 01:13:23   | organise your data with the rules that you define DEVONthink's AppleScript dictionary is one of                               |
+| 01:13:28   | the largest on the Mac there's no part of DEVONthink that can't be automated and you can                                      |
+| 01:13:33   | accept and DEVONthink's functionality with your own commands by adding them to its scripts menu                                |
 | 01:13:38   | even templates can have scripts inside and you can set up new documents with data from                                           |
 | 01:13:42   | placeholders or even inserted by your own apple script code and of course there's so much more                                   |
 | 01:13:47   | including a great iOS companion app which was just updated to version 3.0 there's also email                                     |
@@ -821,13 +821,13 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:13:58   | your entire team for me I love the fact that I have multiple databases and they are everywhere                                   |
 | 01:14:05   | and the rules that I use on those are also everywhere I don't have to worry about syncing                                        |
 | 01:14:09   | things between my MacBook Air and my Mac and my iPad and my iPhone in fact I can just check                                      |
-| 01:14:15   | everything into the inbox and voila dev and think will sort it out for me if you've got                                          |
+| 01:14:15   | everything into the inbox and voila DEVONthink will sort it out for me if you've got                                          |
 | 01:14:21   | documents that you need to manage and you need to make sure that they're the same everywhere                                     |
-| 01:14:25   | and that things always get filed the right way then dev and thinks for you I love it for so many                                 |
-| 01:14:30   | reasons but I have to say shortcuts in dev and think to go 3.0 one of my favourites you can get                                   |
-| 01:14:37   | 10% off dev and think 3 or upgrade to it right now just go to devontechnologies.com/                                      |
-| 01:14:42   | automators that's devontechnologies.com/automators for 10% off our thanks to dev and                                      |
-| 01:14:47   | technologies for their support of this show and all of really fm I you know we have an outline                                   |
+| 01:14:25   | and that things always get filed the right way then DEVONthink for you I love it for so many                                 |
+| 01:14:30   | reasons but I have to say shortcuts in DEVONthink to go 3.0 one of my favourites you can get                                   |
+| 01:14:37   | 10% off DEVONthink 3 or upgrade to it right now just go to devontechnologies.com/                                      |
+| 01:14:42   | automators that's devontechnologies.com/automators for 10% off our thanks to DEVONtechnologies                                      |
+| 01:14:47   | for their support of this show and all of really fm I you know we have an outline                                   |
 | 01:14:53   | for today's show and we have not followed it at all we've got a whole show outline that we haven't                               |
 | 01:15:00   | touched because we've been cerebral talking about shortcuts and I have enjoyed this conversation                                 |
 | 01:15:05   | so much um so this is really one of my favourite episodes but I do want to talk about one thing                                   |

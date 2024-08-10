@@ -133,7 +133,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 05:10      | writing a script for every type of file in there. You just kind of do it as you open                     |
 | 05:15      | the folder and say, wow, what are you doing here? And how long have you been here? And                   |
 | 05:21      | what can I do to make sure I don't have to see you ever again? And then you just make                    |
-| 05:24      | a [[Hazel]] or a Dev and think or whatever your system is, you make a rule to deal with that                 |
+| 05:24      | a [[Hazel]] or a DEVONthink or whatever your system is, you make a rule to deal with that                 |
 | 05:30      | category. And it's fun because then after a while it really becomes like, you know,                      |
 | 05:36      | when you start out the process, there may be a hundred or a thousand files in that folder.               |
 | 05:40      | But then after you do it a while, you're like, oh, there's three files in here. It's like                |
@@ -163,20 +163,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 07:36      | And I've been able, fortunately, with iOS 15 to move that up a level to the top in iCloud,               |
 | 07:42      | which means that I can have magic happen in those places. And I try to keep those folders                |
 | 07:50      | fairly single purpose, if that makes sense. So I have inside of automated actions, a folder              |
-| 07:55      | called add to dev and think, which, funnily enough, adds everything that gets put in there               |
-| 08:00      | into dev and think, and then that's it. Just because I don't, I want it to be very, very                 |
+| 07:55      | called add to DEVONthink, which, funnily enough, adds everything that gets put in there               |
+| 08:00      | into DEVONthink, and then that's it. Just because I don't, I want it to be very, very                 |
 | 08:06      | obvious when I'm trying to create an automation or doing something on say a phone, which is              |
 | 08:10      | not so easy to see document management on, or massive file paths, that that's where that                 |
 | 08:17      | thing is going. Because the last thing you want is to say, hey, put all of the files                     |
 | 08:23      | that I actually wanted to just keep for like 24 hours, just in case, and then get rid of                 |
-| 08:27      | into dev and think, because when I put something in dev and think it's staying there, not because        |
+| 08:27      | into DEVONthink, because when I put something in DEVONthink it's staying there, not because        |
 | 08:31      | it's difficult to delete things. But that's just because I like, if something's going                    |
-| 08:35      | into dev and think for me, that means that it is something that is a relatively permanent                |
+| 08:35      | into DEVONthink for me, that means that it is something that is a relatively permanent                |
 | 08:39      | archive. You know, I say relatively, because there's always exceptions to the rule. I'm                  |
 | 08:44      | sure when my washing machine breaks, I will delete my washing machine manual. But also,                  |
 | 08:49      | you know, that that's one of my solutions. You know, if something is a archive document,                 |
-| 08:53      | you know, I need to keep this, I need to keep this for a long time. It's going in dev and                |
-| 08:57      | think. But will you, you know, sometimes you'll                                                          |
+| 08:53      | you know, I need to keep this, I need to keep this for a long time. It's going in DEVONthink.                |
+| 08:57      | But will you, you know, sometimes you'll                                                          |
 | 08:59      | look in there and you will find a washing machine manual from 20 years ago. Like, maybe                  |
 | 09:03      | you're not old enough yet, but you'll be surprised how much digital detritus you get.                    |
 | 09:07      | I mean, I got my first washing machine manual when I bought, where I currently live two                  |

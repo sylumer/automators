@@ -886,7 +886,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 58:35      | monitoring products that you'd normally buy separately so engineering teams can see across              |
 | 58:39      | their entire software stack in one place. More importantly, you can pinpoint issues down to             |
 | 58:45      | line of code so you know exactly why the problem happened and can resolve it quickly.                   |
-| 58:49      | That's why the dev and op teams at DoorDash, GitHub, Epic Games and more than 14,000 other              |
+| 58:49      | That's why the Dev and Ops teams at DoorDash, GitHub, Epic Games and more than 14,000 other              |
 | 58:55      | companies use New Relic to debug and improve their software. Whether you run a cloud native             |
 | 59:00      | startup or a Fortune 500 company, it takes just five minutes to set up New Relic in your environment.   |
 | 59:05      | That next 9pm call is just waiting to happen. Get New Relic before it does. You can get access to       |

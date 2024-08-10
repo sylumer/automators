@@ -818,7 +818,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 58:49      | if you get New Relic. New Relic combines 16 different monitoring products that you'd normally buy       |
 | 58:55      | separately. So engineering teams can see across their entire software stack in one place. More          |
 | 59:01      | importantly, you can pinpoint the issue down to the line of code so you know exactly why the problem    |
-| 59:06      | happened and can resolve it quickly. That's why the dev and ops teams at DoorDash, GitHub, Epic Games   |
+| 59:06      | happened and can resolve it quickly. That's why the Dev and Ops teams at DoorDash, GitHub, Epic Games   |
 | 59:13      | and more than 14,000 other companies use New Relic to debug and improve their software.                 |
 | 59:17      | Whether you run a cloud-native startup or a Fortune 500 company, it takes just five minutes             |
 | 59:23      | to set up New Relic in your environment. That next 9pm call is just waiting to happen. Get              |

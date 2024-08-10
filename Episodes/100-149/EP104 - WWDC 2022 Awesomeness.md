@@ -671,7 +671,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 40:08      | tab group is, which is great. So yay, thank you.                                                          |
 | 40:13      | Agreed.                                                                                                   |
 | 40:14      | This episode of Automators is brought to you by [[DEVONthink]], the flagship product from                  |
-| 40:19      | Dev and Technologies. [[DEVONthink]] is the most professional document and information                     |
+| 40:19      | DEVONtechnologies. [[DEVONthink]] is the most professional document and information                     |
 | 40:23      | management application for the Mac. It's the one place for storing all your documents,                    |
 | 40:27      | snippets, or bookmarks and working with them. The integrated AI assists you with filing                   |
 | 40:32      | and searching while the extensive search language with advanced breathing and search                      |
@@ -694,12 +694,12 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 41:45      | the washing machine manual, it found the right page inside of the PDF for me and brought                  |
 | 41:49      | it up. And the best part of it is, is I have a tickler system inside of [[DEVONthink]] so                  |
 | 41:54      | that I can be tickled in GTD terms, reminded by in regular human terms of that washing                    |
-| 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go scripty and                     |
+| 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go script and                     |
 | 42:06      | make really awesome reminders in the future with the [[DEVONthink]]'s reminder functionality,              |
 | 42:11      | giving me a complete custom system that's digital that doesn't require me to remember                     |
 | 42:15      | to go check a paper folder. You can get 10% off [[DEVONthink]] 3 or upgrade to it right                    |
 | 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com./automators for             |
-| 42:25      | 10% off. Our thanks to Dev and Technologies for their support of this show and all of                     |
+| 42:25      | 10% off. Our thanks to DEVONtechnologies for their support of this show and all of                     |
 | 42:30      | Relay FM.                                                                                                |
 | 42:31      | Just to go through some more applications that got updates, new maps, actions. Now they've                |
 | 42:36      | got a whole set of them. Apparently people at Apple have been missing their parked cars                   |

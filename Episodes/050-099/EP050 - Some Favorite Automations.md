@@ -215,7 +215,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 12:52      | B and it's a palette of tools I've developed for base camp and it's, you know, a lot of              |
 | 12:58      | them use unique URLs, which you can automate. Some of it is using Zapier, but I'm just trying        |
 | 13:05      | to find as many ways as I can to automate this process. I'm still not even convinced                 |
-| 13:09      | like some part of me is saying, thinking I should just go to Dev and think or do something           |
+| 13:09      | like some part of me is saying, thinking I should just go to [[DEVONthink]] or do something           |
 | 13:13      | local on my system, but a [[Keyboard Maestro]] is giving me a way to try and add automation              |
 | 13:21      | to something that really isn't very automation friendly.                                             |
 | 13:23      | Yeah. And I think that that is something else to keep in mind, you know, just because we're          |

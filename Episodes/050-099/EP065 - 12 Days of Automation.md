@@ -1351,7 +1351,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:10:21   | of removing intermediate steps in my computing.                                                          |
 | 01:10:26   | And there's a lot of reasons why this is now possible, uh, one of which is, you know, the                |
 | 01:10:31   | abundance of URL linking and deep linking that involve that that's in all apps anymore,                  |
-| 01:10:36   | um, where you can like jump to a Dev and think document and then over to a draft, a draft                |
+| 01:10:36   | um, where you can like jump to a [[DEVONthink]] document and then over to a draft, a draft                |
 | 01:10:42   | draft, and you can have all that stuff connected and talking to each other with these URL links.         |
 | 01:10:49   | And, uh, so you create shortcuts or [[Keyboard Maestro]] scripts or however you want to do,                  |
 | 01:10:54   | I'm using conflict palettes is my main kind of way of doing this.                                        |
