@@ -89,7 +89,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 01:38      | It's been a great week in San Jose for [[WWDC]].                                                          |
 | 01:40      | It was really fun.                                                                                    |
 | 01:41      | We're going to talk at the end of the episode about the meet up and just the general vibe              |
-| 01:45      | here at WWDC.                                                                                         |
+| 01:45      | here at [[WWDC]].                                                                                         |
 | 01:47      | It's been great, but it's been wonderful seeing all the automator's fans out there.                   |
 | 01:52      | There's a ton of you, especially in this environment.                                                 |
 | 01:56      | So we thank you all for that.                                                                         |
@@ -105,13 +105,13 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 02:26      | All right.                                                                                            |
 | 02:27      | But we're here to talk about automation.                                                              |
 | 02:30      | And for today's episode, we thought what we'd do is just kind of share the automation                 |
-| 02:34      | news coming out of WWDC.                                                                              |
+| 02:34      | news coming out of [[WWDC]].                                                                              |
 | 02:37      | Yes.                                                                                                  |
 | 02:38      | And let's just say we are going to be going through it fast, not quite as fast as the                 |
 | 02:43      | keynote went, where within 10 minutes they've moved on from watchOS, but there's a lot                |
 | 02:49      | of things to cover here.                                                                              |
 | 02:50      | Yeah.                                                                                                 |
-| 02:51      | The first thing, I mean, this year at WWDC, it seems in particular, Apple had a lot of                |
+| 02:51      | The first thing, I mean, this year at [[WWDC]], it seems in particular, Apple had a lot of                |
 | 02:55      | big news, [[SwiftUI]], the new Mac Pros, they just had a lot of really big items to cover.               |
 | 03:01      | And as a result, automation didn't get the love it did last year, you know, Siri Short                |
 | 03:06      | Cuts was a big feature of the keynote last year, whereas this year it didn't even get                 |
@@ -138,7 +138,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 04:14      | briefly about Mac OS.                                                                                 |
 | 04:16      | Yeah.                                                                                                 |
 | 04:17      | There's not a whole lot of news on Mac OS.                                                            |
-| 04:19      | I mean, there is, because a lot of people have heard, and this was rumored before WWDC,               |
+| 04:19      | I mean, there is, because a lot of people have heard, and this was rumored before [[WWDC]],               |
 | 04:23      | that iTunes is going away.                                                                            |
 | 04:26      | With Mac OS Catalina, iTunes is no more.                                                              |
 | 04:28      | So there's music, there's TV, there's podcasts, they're all separate applications now.                |
@@ -534,7 +534,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 25:00      | And for the developers I've talked to who've been to the shortcuts labs as well, you know,            |
 | 25:03      | they've been really, really helpful there.                                                            |
 | 25:05      | Of course.                                                                                            |
-| 25:06      | I mean, this is WWDC, Apple's not there going, oh, no, no, no, we won't tell you how to do            |
+| 25:06      | I mean, this is [[WWDC]], Apple's not there going, oh, no, no, no, we won't tell you how to do            |
 | 25:10      | this.                                                                                                 |
 | 25:11      | They're showing developers how to do everything, but you know, they're showing developers             |
 | 25:14      | in the nicest way and being excited about it, which is great for everyone.                            |
@@ -1231,7 +1231,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 58:13      | Joe from [[Timery]] was there.                                                                            |
 | 58:14      | Yeah.                                                                                                 |
 | 58:15      | I mean, it was like, it was, I mean.                                                                  |
-| 58:17      | It was the automation meet up of WWDC.                                                                  |
+| 58:17      | It was the automation meet up of [[WWDC]].                                                                  |
 | 58:20      | I'm really proud of the fact that all those people not only listened to the show, but                 |
 | 58:24      | they took their time to come.                                                                         |
 | 58:25      | Yeah.                                                                                                 |
@@ -1250,7 +1250,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 59:02      | It was.                                                                                               |
 | 59:03      | And a thank you to everybody that came.                                                               |
 | 59:05      | For those of you who couldn't come, who wanted to come, my plan is, I have an exciting plan           |
-| 59:11      | for WWDC next year.                                                                                   |
+| 59:11      | for [[WWDC]] next year.                                                                                   |
 | 59:13      | It involves no sprained ankles, but also probably no scooters, but it does involve another            |
 | 59:19      | automator's meet up or two.                                                                            |
 | 59:20      | 100% less scooter next year.                                                                          |
@@ -1263,7 +1263,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 59:28      | We're going to do something cool next year.                                                           |
 | 59:29      | We have no idea what it is as we say here, but we've got ideas.                                       |
 | 59:34      | So we will figure that out.                                                                           |
-| 59:36      | The also just the WWDC experience has always been amazing.                                            |
+| 59:36      | The also just the [[WWDC]] experience has always been amazing.                                            |
 | 59:40      | This year seems very positive and optimistic.                                                         |
 | 59:44      | I think a lot of people are happy with a new hardware, even though none of us can afford              |
 | 59:48      | it.                                                                                                   |

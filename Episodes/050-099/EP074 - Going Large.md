@@ -1374,7 +1374,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:50:22   | when Timery for Mac comes, you know, Joe will see how successful it is because I'm                       |
 | 01:50:26   | sure it will be. And then he'll have some time. And of course, motivation from other                      |
 | 01:50:31   | hopefully listeners to add a few more automation options. Or maybe this summer, David, I mean,            |
-| 01:50:37   | they announced WWDC, maybe we'll just get shortcuts for the Mac.                                          |
+| 01:50:37   | they announced [[WWDC]], maybe we'll just get shortcuts for the Mac.                                          |
 | 01:50:40   | Boy, wouldn't that be great? That would be great. Oh yeah. And don't write me about                       |
 | 01:50:45   | the toggle plugin. There's an existing toggle plugin for the Stream Deck. But I've already,               |
 | 01:50:52   | I'm in that GitHub and I've let them know it's just not adequate. I mean, you can't                       |

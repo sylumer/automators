@@ -78,7 +78,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 00:39      | Thank you.                                                                                             |
 | 00:40      | It's a pleasure to be here.                                                                            |
 | 00:41      | Now Robert, you and I have known each other like 10 years now.                                         |
-| 00:44      | I think the first time I met you was during WWDC or Apple Macworld somewhere and you walked            |
+| 00:44      | I think the first time I met you was during [[WWDC]] or Apple Macworld somewhere and you walked            |
 | 00:52      | up to me and we hit it off.                                                                            |
 | 00:53      | Robert is a consultant who sets up [[HomeKit]] and Home Automation sometimes for very fancy                |
 | 01:02      | people and really knows this business inside out.                                                      |

@@ -131,7 +131,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 07:03      | but the problem I found with it was that it didn't have enough USB-C ports. And the iMac does have,      |
 | 07:10      | if you upgrade it, the four USB-C or rather two, the Thunderbolt ports and then two Thunderbolt          |
 | 07:17      | 3s and USB-C ports. And it's called Ethernet in the power brick. It's interesting, but I'm looking       |
-| 07:23      | for it. I'm hoping for shortcuts at WWDC, David. Whatever the new macOS is, macOS fell off a cliff       |
+| 07:23      | for it. I'm hoping for shortcuts at [[WWDC]], David. Whatever the new macOS is, macOS fell off a cliff       |
 | 07:32      | type thing, whichever cliff in California you're picking, macOS Disneyland. Let's do that one.           |
 | 07:38      | I want shortcuts in it. I was thinking macOS Pomona might work, but I don't know.                        |
 | 07:44      | You got to live here to understand. macOS Big Bear. Oh, there you go. I grew up right between            |
@@ -181,7 +181,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 12:07      | enough chip, we've given enough RAM. Now all the Apple pro apps are going to show up here. And,          |
 | 12:12      | and maybe this is the year who knows. Yeah, yeah, that would be pretty exciting. I've decided            |
 | 12:18      | I am not going to have a laptop anymore. I'm going 12.9 inch iPad pro and an iMac. And until             |
-| 12:25      | WWDC happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
+| 12:25      | [[WWDC]] happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
 | 12:31      | which works as a pretty good solution for getting around these things like, you know,                    |
 | 12:35      | X code and stuff like that. It's not perfect, but it's, it's a good start. And as always,                |
 | 12:40      | we need to start. And then hopefully, we can fill in the rest. But I think David,                        |

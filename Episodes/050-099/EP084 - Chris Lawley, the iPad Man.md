@@ -125,7 +125,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 03:41      | So anything that could, you know, speed up my workflow, give me more time in my day.                      |
 | 03:47      | I am down to do.                                                                                          |
 | 03:49      | Well, you know, Rose and I have covered iOS 15 and shortcuts really kind of briefly right                 |
-| 03:55      | after WWDC, but obviously things have been evolving. We're getting increasingly frequent                  |
+| 03:55      | after [[WWDC]], but obviously things have been evolving. We're getting increasingly frequent                  |
 | 04:02      | betas, which is always a sign that they're getting close to the end. And as we record                     |
 | 04:07      | this, there's a, there's a heck of a rumor out there in a week or two, we're going to                     |
 | 04:10      | have an Apple event to get the new iPhone and a release date for iOS 15. So that may                      |

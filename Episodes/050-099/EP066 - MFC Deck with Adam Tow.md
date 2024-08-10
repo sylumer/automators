@@ -118,7 +118,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 02:21      | And the most recent one you have made is MFC Deck,                                 |
 | 02:24      | which is kind of amazing.                                                          |
 | 02:25      | Thanks.                                                                            |
-| 02:26      | Yeah, the first, I think the second time we met was at WWDC                        |
+| 02:26      | Yeah, the first, I think the second time we met was at [[WWDC]]                        |
 | 02:30      | right after they introduced iOS 13.                                                |
 | 02:33      | And I hadn't written any apps.                                                     |
 | 02:34      | I hadn't written any apps then.                                                    |

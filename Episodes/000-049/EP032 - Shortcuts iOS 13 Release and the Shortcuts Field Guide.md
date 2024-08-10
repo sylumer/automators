@@ -450,7 +450,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 21:05      | Well, I'm just trying to read and relax.                                                               |
 | 21:08      | So I've just automated that, and it's great because I just open the app and it happens.                |
 | 21:14      | I think that the app launch trigger, it's interesting because when we were talking about this at         |
-| 21:17      | WWDC, we're like, well, what do you need that for?                                                     |
+| 21:17      | [[WWDC]], we're like, well, what do you need that for?                                                     |
 | 21:19      | And the best idea we could come up with was Timery that you would automatically fire off               |
 | 21:24      | your Timers when you start something like the Open OmniFocus start your planning timer                 |
 | 21:31      | or you open Ulysses start your writing timer, which is good, and that's a way to use it.               |
@@ -1168,7 +1168,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:03:56   | So once again, that's smilesoftware.com/podcast.                                                 |
 | 01:04:00   | Go check it out.                                                                                       |
 | 01:04:01   | Thanks to PDF pin for their support of this show and all of Relay FM.                                  |
-| 01:04:06   | So when we were at WWDC, I was thinking, well, I can just do an update to the shortcuts                |
+| 01:04:06   | So when we were at [[WWDC]], I was thinking, well, I can just do an update to the shortcuts                |
 | 01:04:17   | field guide.                                                                                           |
 | 01:04:18   | And then I started looking at it and I realised everything has changed.                                |
 | 01:04:22   | Nothing is the same.                                                                                   |
@@ -1308,7 +1308,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:11:55   | people out there with iPhones and or iPads and it's going to be on every single one of                 |
 | 01:12:00   | them from the end of the month, so I think it's worth the discussion.                                  |
 | 01:12:05   | Yeah.                                                                                                  |
-| 01:12:06   | When we had the meet up at WWDC, a large portion of the shortcuts team came to the meet up and           |
+| 01:12:06   | When we had the meet up at [[WWDC]], a large portion of the shortcuts team came to the meet up and           |
 | 01:12:15   | the thing that was surprising for me was number one, the number of people on the team                  |
 | 01:12:19   | that is a big team and number two is the eagerness that they have to find out where are we hitting     |
 | 01:12:27   | roadblocks and how can they make it better?                                                            |

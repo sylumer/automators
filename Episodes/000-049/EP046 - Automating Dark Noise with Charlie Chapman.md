@@ -1106,7 +1106,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:02:34   | Automation, making toilet codes easier for everyone.                                                      |
 | 01:02:39   | This is not something I've had any experience with.                                                       |
 | 01:02:41   | I wonder if it works on your Apple Watch.                                                                 |
-| 01:02:44   | Anyway, something to experiment with if WWDC ever happens again.                                          |
+| 01:02:44   | Anyway, something to experiment with if [[WWDC]] ever happens again.                                          |
 | 01:02:48   | Oh, it will happen.                                                                                       |
 | 01:02:49   | They've announced it.                                                                                     |
 | 01:02:51   | It's just not going to happen with us in the same city.                                                   |

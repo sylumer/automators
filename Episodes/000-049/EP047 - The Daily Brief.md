@@ -171,7 +171,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 09:56      | I think, a very good starting place for me. I get the current date. I get the weather,                   |
 | 10:04      | like one of the things I've done for trips. In fact, we're going to talk about trips later,              |
 | 10:10      | but I will calculate the time between today and an upcoming trip. And then I will give myself            |
-| 10:17      | kind of like an update, like X days until you go to WWDC or wherever it is. Although, like you,          |
+| 10:17      | kind of like an update, like X days until you go to [[WWDC]] or wherever it is. Although, like you,          |
 | 10:24      | there aren't many trips on the books for me this year. But collecting data, I think, is important.       |
 | 10:30      | Location, whether calendar or three of the big ones. Yes. Yeah, definitely. And I do pretty              |
 | 10:37      | much the same thing. In general, what I've been doing actually with the location, because actually       |
@@ -285,7 +285,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 19:59      | a difference between date shortcut, you know, and I would just say get the number of days between        |
 | 20:05      | today and November or whatever that we left. And, and then it would report when it reports a shortcut,   |
 | 20:12      | say X days between now and your trip to Hawaii, Aloha, you know, and so it was like hard written in.     |
-| 20:17      | So the next one I would be doing it for would be WWDC if that were a thing. But since that's             |
+| 20:17      | So the next one I would be doing it for would be [[WWDC]] if that were a thing. But since that's             |
 | 20:22      | another thing, I, I took that out now. So that's, that's blank and it doesn't run. But you know,         |
 | 20:29      | having it look for, I guess, I guess a way to make this easier would be to look for a trip calendar      |
 | 20:34      | and just put all the stuff on trips. And then you would look out pretty far in the future,               |

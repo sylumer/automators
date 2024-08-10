@@ -126,7 +126,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 02:30      | First of all, we really wanted to find a way to celebrate the Automation community.                   |
 | 02:34      | We wanted to put together a special event at the time of year when usually there's not                |
 | 02:41      | a ton of Apple news.                                                                                  |
-| 02:42      | And I mean, sure, we just got the WWDC announcement, but the March event from Apple has passed        |
+| 02:42      | And I mean, sure, we just got the [[WWDC]] announcement, but the March event from Apple has passed        |
 | 02:49      | and now there's usually those couple of months when everybody's just waiting for June.                |
 | 02:54      | And so we thought, can we do something pretty cool here for max stories readers?                      |
 | 02:59      | And what can it be?                                                                                   |
@@ -229,9 +229,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 09:27      | Thank you.                                                                                            |
 | 09:28      | Yes, we have many ideas, but April and May tend to be slow months, also because like                  |
 | 09:37      | developers, for example, indie developers especially, they tend to, at this point, they               |
-| 09:44      | tend to wait for WWDC before releasing new apps.                                                      |
+| 09:44      | tend to wait for [[WWDC]] before releasing new apps.                                                      |
 | 09:48      | So that's why you get the influx of new indie apps in September, October through November,            |
-| 09:53      | maybe, because that's when developers are implementing all the features from WWDC.                    |
+| 09:53      | maybe, because that's when developers are implementing all the features from [[WWDC]].                    |
 | 09:59      | But then when it's springtime, everybody's like, well, you know, do I really want to                  |
 | 10:04      | release a brand new product right now?                                                                |
 | 10:06      | I guess I'm just going to wait for June and see what happens.                                         |
@@ -239,12 +239,12 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 10:09      | Yeah, it makes sense.                                                                                 |
 | 10:10      | And also, people who are indie developers, if they're going to take time off, like now                |
 | 10:15      | is a pretty good time to take some time off of whatever your app is, so that you're rested            |
-| 10:20      | and refreshed, ready for whatever Apple dump on you at WWDC, be that a thousand new features          |
+| 10:20      | and refreshed, ready for whatever Apple dump on you at [[WWDC]], be that a thousand new features          |
 | 10:25      | you can implement, or, oh, I'm going to go rework this area of my app now that there                  |
 | 10:30      | has been some refactoring involved in how everything that I'm using works, as I'm sure                |
 | 10:35      | more than one developer has encountered in the past, which is good.                                   |
 | 10:40      | But do either of you have any particular idea or wish that you would immediately like to              |
-| 10:45      | see four shortcuts at WWDC this year, speaking of the event that was just announced?                  |
+| 10:45      | see four shortcuts at [[WWDC]] this year, speaking of the event that was just announced?                  |
 | 10:51      | Oh, boy.                                                                                              |
 | 10:52      | So many.                                                                                              |
 | 10:53      | So many.                                                                                              |
@@ -306,7 +306,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 14:49      | That would be really great.                                                                           |
 | 14:51      | David, do you have a wish, as we're on Shortcuts wishes right now?                                    |
 | 14:55      | And you know, I'm sure the Shortcuts team have got plenty of time to implement all of                 |
-| 14:59      | this before WWDC.                                                                                     |
+| 14:59      | this before [[WWDC]].                                                                                     |
 | 15:00      | So that's how it works.                                                                               |
 | 15:01      | They listen to podcasts a couple of months before, and then they do it.                               |
 | 15:04      | Yeah, and then magic happens.                                                                         |
@@ -800,7 +800,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 54:20      | have been doing things. Dancing boxes was one of my favourites. You would swipe up and                 |
 | 54:25      | down a list. And the boxes would just rearrange themselves. And the developers weren't doing          |
 | 54:30      | that. No, that was just [[SwiftUI]], adding a little Easter egg.                                         |
-| 54:35      | We talked earlier about a shortcut's wish list, you know, as WWDC approaches. You guys                |
+| 54:35      | We talked earlier about a shortcut's wish list, you know, as [[WWDC]] approaches. You guys                |
 | 54:43      | were focused largely on the Mac. What about on the iOS side? Is there stuff you'd like                |
 | 54:48      | to see other than what we've already talked about?                                                    |
 | 54:52      | I have this this very specific thing about allow people to design more types of UI in                 |
@@ -971,7 +971,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:13:12   | a lot of that in our [[Discord]] community. And it's a lot of work, but it's also very satisfying         |
 | 01:13:17   | work. So we'll probably be pretty spent and tired by the end of April, but it's been well             |
 | 01:13:22   | worth it so far.                                                                                      |
-| 01:13:23   | At least you've got May to recover before WWDC.                                                       |
+| 01:13:23   | At least you've got May to recover before [[WWDC]].                                                       |
 | 01:13:26   | Yes, true, true. But it's really incredible to see one of the features that we have, thanks           |
 | 01:13:33   | to our developer Alex, whenever someone submits a shortcut for the contest, and if they also          |
 | 01:13:40   | happen to be members of the [[Discord]], we have the [MacStories](https://www.macstories.net/) [[Discord]] bot that automatically           |

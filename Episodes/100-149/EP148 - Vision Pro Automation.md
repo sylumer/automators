@@ -674,7 +674,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 40:14      | June to September seems realistic.                                                                    |
 | 40:15      | Yeah.                                                                                                 |
 | 40:16      | But in my heart, I'd really like to see it like when they, they make the announcements                |
-| 40:20      | at WWDC and say, and we have a native [[Apple Reminders\|Reminders]] app, a native calendars app, a native shortcuts       |
+| 40:20      | at [[WWDC]] and say, and we have a native [[Apple Reminders\|Reminders]] app, a native calendars app, a native shortcuts       |
 | 40:26      | app and, you know, app specific or platform specific actions and shortcuts, like, you                 |
 | 40:31      | know, just kind of like finish that, that roll out with stuff.                                        |
 | 40:36      | I'd be disappointed if we got to the next version of iOS or vision OS and all those                   |

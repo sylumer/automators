@@ -248,7 +248,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 09:45      | I have a feeling that that team are still hard at work.                                              |
 | 09:47      | We're seeing a lot of betas on them.                                                                 |
 | 09:49      | Yeah, I love that.                                                                                   |
-| 09:50      | I love that there's so many betas on an Apple product and it's not just WWDC.                        |
+| 09:50      | I love that there's so many betas on an Apple product and it's not just [[WWDC]].                        |
 | 09:56      | Yes, that is always good.                                                                            |
 | 09:59      | Okay, let's take a minute to talk about the sponsor for today's show.                                |
 | 10:05      | And that's our friends over at Smile and their application TextExpander.                             |

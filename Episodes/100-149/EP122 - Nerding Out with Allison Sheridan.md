@@ -544,7 +544,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 38:54      | We can't skip TextExpander. Because TextExpander is probably, I probably should have put it           |
 | 39:01      | earlier in the list of maybe not above my price writing things for me, but way up there. I just         |
 | 39:08      | love fixing my problems before they even start with TextExpander. One of my favourite things to do      |
-| 39:14      | is while I'm listening to WWDC and they tell us the name of the next operating system,                  |
+| 39:14      | is while I'm listening to [[WWDC]] and they tell us the name of the next operating system,                  |
 | 39:19      | is I write a TextExpander snippet for it. Because life is too short to remember whether the M is       |
 | 39:24      | lower uppercase and Mac OS and the, you know, is there a space between Mac and OS and whether,          |
 | 39:30      | you know, what it is. And I just love doing that. I do these templates before I even run into the       |

@@ -174,7 +174,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 09:59      | that I've been working on AppleScript stuff for nearly 30 years.                                      |
 | 10:05      | Yes. I mean, I can imagine it feels that way. I also imagine that it feels very weird that             |
 | 10:10      | if like me, you're currently going, hmm, I should put a link to Apple events in the                    |
-| 10:13      | show dock. You type it into Google and then you realise that WWDC was announced shortly                |
+| 10:13      | show dock. You type it into Google and then you realise that [[WWDC]] was announced shortly                |
 | 10:19      | before we record the show. And that's what everybody thinks an Apple event is nowadays.                |
 | 10:26      | So I'll have to find some other source for that link that I can put in the show notes.                 |
 | 10:32      | Probably buried somewhere on the Internet archive if they have been sued into non-existence            |
@@ -209,7 +209,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 13:34      | software, you know, it's enough keeping my Mac going as it is. And I said, Well, think                 |
 | 13:38      | of it more like early access or whatever, rather beta test, and he was like, Oh, okay.                 |
 | 13:43      | So yeah, he sent me a number of kind of suggestions over the years. And I got to meet up with          |
-| 13:50      | him at WWDC once. And he is he was extremely tall. I'm not I'm not a tall person. And he               |
+| 13:50      | him at [[WWDC]] once. And he is he was extremely tall. I'm not I'm not a tall person. And he               |
 | 13:58      | is a very tall person. And I have a one photo of the two of us. But you can't really tell              |
 | 14:06      | because it's the back of both of our heads. And it was taken on a film camera. And it                  |
 | 14:11      | was very badly exposed. So, you know, it's it's, I know that it was me talking to Douglas,             |
@@ -228,7 +228,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 15:40      | person giving it. But it's yeah.                                                                       |
 | 15:43      | Well, I think you just accurately described how people feel when they meet you, James.                 |
 | 15:48      | So congratulations on that.                                                                            |
-| 15:50      | I have only once felt mildly famous. And that was, I think it was 2018, WWDC, where we                 |
+| 15:50      | I have only once felt mildly famous. And that was, I think it was 2018, [[WWDC]], where we                 |
 | 16:04      | arrived and we went to the the Apple Park, whatever it's called, the                                   |
 | 16:14      | Mr. Centre, the gift shop. Yes. Yes. And I was recognised three times within the first                 |
 | 16:23      | half hour. And I thought, Oh, no, this is going to be this is, I don't know what this                  |
@@ -242,7 +242,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 17:15      | Oh, thank you. And then, you know, took pictures, blah, blah, and and five minutes later, he           |
 | 17:21      | went, Wait, are you James? And yeah, that that is that is the kind of thing that can                   |
 | 17:29      | only happen. Well, okay, I say only happen. Mostly only happens when you're like within                |
-| 17:36      | a one mile radius of WWDC, that there are enough people who might recognise you. However,              |
+| 17:36      | a one mile radius of [[WWDC]], that there are enough people who might recognise you. However,              |
 | 17:43      | there was one time I stepped out of my house. And there was a guy in a car that was parked             |
 | 17:49      | just outside. And he kind of beckoned me over. And I expected him to say, You know, do you             |
 | 17:56      | know the way to someone so street or whatever. And he said, I just saw you on on Twitter.              |
@@ -255,7 +255,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 18:43      | are a celebrity automatically is a negative. Anyway, I'm not a celebrity. It is funny for              |
 | 18:51      | me because I get recognised at Disneyland all the time, because we go there like once                  |
 | 18:56      | every week or two and people know that. And so people see me all the time there. But the               |
-| 19:02      | ones that are funny for me is when I'm at something like WWDC or back in the old days                  |
+| 19:02      | ones that are funny for me is when I'm at something like [[WWDC]] or back in the old days                  |
 | 19:07      | at Macworld, I often would get recognised in elevators because someone would hear me                   |
 | 19:12      | talk because there's so many people that know what I sound like, but not what I look like.             |
 | 19:18      | So I'd just be walking around and say, Oh, Sparky, I recognise your voice. You know,                   |
@@ -266,7 +266,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 19:56      | nobody really knows what he looks like. And so he would, every time the person would say               |
 | 20:02      | something more about [[Cortex]], he would just kind of go, hmm, hmm.                                       |
 | 20:06      | Yeah, I think I remember one of a similar conversation to that because I also met you                  |
-| 20:13      | at WWDC in 2018. And I remember sitting at a table and watching people talking to various              |
+| 20:13      | at [[WWDC]] in 2018. And I remember sitting at a table and watching people talking to various              |
 | 20:21      | other people, not realising that Gray was sat there or you were sat there or something.                |
 | 20:26      | And yeah,                                                                                              |
 | 20:27      | There's a hierarchy of fame at these things. And it's like, you know, if you're sat next               |
@@ -276,9 +276,9 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 20:56      | if you're on your own, then maybe somebody might come up. I mean, I've been doing this                 |
 | 21:00      | long enough that maybe a few people know me.                                                           |
 | 21:04      | I mean, I think you also did some very good secret, both gorilla marketing and also disguise           |
-| 21:10      | work by releasing peacock t-shirts before WWDC, because I know that you are not the                    |
-| 21:16      | only person wearing a peacock t-shirt WWDC, because I was also wearing a peacock t-shirt               |
-| 21:20      | at WWDC.                                                                                               |
+| 21:10      | work by releasing peacock t-shirts before [[WWDC]], because I know that you are not the                    |
+| 21:16      | only person wearing a peacock t-shirt [[WWDC]], because I was also wearing a peacock t-shirt               |
+| 21:20      | at [[WWDC]].                                                                                               |
 | 21:21      | I'm continually amazed at the ability to sell t-shirts for a calculator. And I just did                |
 | 21:31      | a whole bunch of new shirts because basically, Cotton Bureau was starting to charge for storing        |
 | 21:38      | inventory. And I'm like, okay, I need to now make income to cover the cost of storing                  |

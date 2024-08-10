@@ -83,7 +83,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 01:02      | because my feet were really dry,                                                                       |
 | 01:05      | and that was annoying me.                                                                              |
 | 01:06      | Well, that's great.                                                                                    |
-| 01:08      | So next year, my goal at WWDC is to keep Rose off scooters.                                            |
+| 01:08      | So next year, my goal at [[WWDC]] is to keep Rose off scooters.                                            |
 | 01:12      | I think that that is a good goal.                                                                      |
 | 01:14      | And we should also mention that both of us                                                             |
 | 01:16      | are going to be at the Relay FM Fifth Anniversary Show                                                |

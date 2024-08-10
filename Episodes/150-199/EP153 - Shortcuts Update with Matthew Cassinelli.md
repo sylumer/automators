@@ -475,7 +475,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 39:24      | kind of get that sorted. But I feel like things are pretty stable now and...                         |
 | 39:29      | Yeah. I'm glad we recorded this in May and not six months earlier because I think it's               |
 | 39:33      | the same thing of we always kind of forget how it was really rough this fall. And again,             |
-| 39:39      | just like basic stuff kind of performing poorly, I think that's WWDC in the summer.                  |
+| 39:39      | just like basic stuff kind of performing poorly, I think that's [[WWDC]] in the summer.                  |
 | 39:46      | I'm also going to try to file as much performance related feedback as possible because I just        |
 | 39:54      | want [[Shortcuts]] to work when it comes out. The action button is the same thing of because             |
 | 39:59      | my stuff... I heard you and Rose talking about how people didn't really get into it. And             |

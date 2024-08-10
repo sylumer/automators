@@ -386,7 +386,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 16:33      | Yeah.                                                                                                  |
 | 16:34      | And I get that they have privacy and secrecy concerns.                                                 |
 | 16:37      | You know, Apple have had a lot of things leaked before and, you know, especially the week              |
-| 16:41      | or a couple of weeks before WWDC, which we're in as we record this episode and as it releases,         |
+| 16:41      | or a couple of weeks before [[WWDC]], which we're in as we record this episode and as it releases,         |
 | 16:46      | you know, I can imagine it must be really disheartening if you're a developer, you've                  |
 | 16:50      | been working on something for the last year, you know, you've been working really hard.                |
 | 16:54      | And there's going to be like a big keynote, everyone's going to get to watch it and find               |
@@ -442,7 +442,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 19:45      | It just seems to me so counter-intuitive that, you know, there should be a shortcuts team               |
 | 19:51      | person talking to the [[Apple Reminders\|Reminders]] team and fully aware of what they're doing and saying, Hey,            |
 | 19:57      | do you guys need help adding actions or do you want us to do it for you?                               |
-| 20:01      | So when we get to WWDC, they can say, not only do we have this cool feature, you can                   |
+| 20:01      | So when we get to [[WWDC]], they can say, not only do we have this cool feature, you can                   |
 | 20:05      | automate it right out of the box.                                                                      |
 | 20:07      | Instead of making all of us feel dumb, trying to figure out how to add that new feature and            |
 | 20:11      | ultimately realising they just didn't bother to add it, you know, I mean, I have faith in              |

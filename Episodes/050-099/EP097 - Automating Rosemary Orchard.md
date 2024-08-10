@@ -1006,7 +1006,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:21:38   | AppleScript out than to just leave it in. So that's probably what they're going to do.                  |
 | 01:21:43   | But I hope you're right on JavaScript. I would like to see a unified scripting language across           |
 | 01:21:48   | all Apple platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
-| 01:21:55   | like they hinted at it last year in WWDC when they talked about how the shortcuts on the Mac             |
+| 01:21:55   | like they hinted at it last year in [[WWDC]] when they talked about how the shortcuts on the Mac             |
 | 01:22:02   | is just the beginning. And my fingers are crossed and I'm really hoping that they have got a good        |
 | 01:22:09   | answer for that. Yes. So do I. And I do hope that maybe we end up with all the options. Maybe they       |
 | 01:22:18   | go in and they fix JavaScript and add [[Swift]] at the same time. Because that would be pretty amazing.      |

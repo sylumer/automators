@@ -660,7 +660,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 32:30      | They've been really supportive of Jellycuts the whole time from the few of them I've talked         |
 | 32:35      | to.                                                                                                  |
 | 32:36      | Yeah.                                                                                                |
-| 32:37      | And during like the WWDC labs and stuff, they were really cool about everything.                     |
+| 32:37      | And during like the [[WWDC]] labs and stuff, they were really cool about everything.                     |
 | 32:41      | I guess some of them are using it, honestly, because I mean, they're making a lot of shortcuts,      |
 | 32:46      | you know.                                                                                            |
 | 32:47      | All right, Zach, you know, people have gone, you know, up into the episode now and assuming          |

@@ -75,7 +75,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 00:21      | Great to be here.                                                                                     |
 | 00:22      | So, Rose, before we get started, we've got a couple of events we should share.                        |
 | 00:26      | Yeah.                                                                                                 |
-| 00:27      | Did you know about the thing called WWDC?                                                             |
+| 00:27      | Did you know about the thing called [[WWDC]]?                                                             |
 | 00:31      | Have you heard of it before?                                                                          |
 | 00:32      | Yeah.                                                                                                 |
 | 00:33      | Yeah, the Apple annual developers conference.                                                         |
@@ -110,7 +110,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 01:53      | you need to pay for a ticket, but if you can sign up for a ticket so that we know approximately       |
 | 01:57      | how many people are coming and so that we've got a way to contact you just in case anything           |
 | 02:00      | does change, that would be really good.                                                               |
-| 02:03      | And speaking of events, yeah, let's do one at WWDC.                                                   |
+| 02:03      | And speaking of events, yeah, let's do one at [[WWDC]].                                                   |
 | 02:07      | How about Tuesday lunchtime, David?                                                                   |
 | 02:09      | I think that's great.                                                                                 |
 | 02:10      | I'm going to be hanging out with you.                                                                 |
@@ -119,7 +119,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 02:16      | I know that there are some people from the Omni Group who are planning on visiting San                |
 | 02:20      | Jose and they have said that they would be very interested in coming.                                 |
 | 02:24      | And I'm sure there are plenty of people in the audience who possibly live around the                  |
-| 02:29      | San Jose area or who may be attending WWDC, either in a developer capacity or like David              |
+| 02:29      | San Jose area or who may be attending [[WWDC]], either in a developer capacity or like David              |
 | 02:35      | and myself in a nerd capacity.                                                                        |
 | 02:37      | And you are all very welcome.                                                                         |
 | 02:39      | Yes.                                                                                                  |

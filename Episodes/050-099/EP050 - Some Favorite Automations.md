@@ -639,9 +639,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 47:55      | TextExpander.com/password.                                                                     |
 | 47:57      | Our thanks to TextExpander for their support of this show and Relay FM.                             |
 | 48:01      | Okay, Rose, episode 50.                                                                              |
-| 48:05      | We are looking at WWDC and just down the road.                                                       |
+| 48:05      | We are looking at [[WWDC]] and just down the road.                                                       |
 | 48:10      | Yeah.                                                                                                |
-| 48:11      | WWDC starts exactly one month from the day this episode releases.                                    |
+| 48:11      | [[WWDC]] starts exactly one month from the day this episode releases.                                    |
 | 48:16      | I feel like we are giving Apple plenty of notice so that they can fulfill all of our                 |
 | 48:19      | desires here.                                                                                        |
 | 48:20      | Yes.                                                                                                 |
@@ -650,7 +650,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 48:24      | Yes.                                                                                                 |
 | 48:25      | Get to work.                                                                                         |
 | 48:26      | Get to work.                                                                                         |
-| 48:27      | I have to admit, when we did our Meetup, our automakers meet up last year at WWDC and                 |
+| 48:27      | I have to admit, when we did our Meetup, our automakers meet up last year at [[WWDC]] and                 |
 | 48:32      | the Shortcuts team, basically all of them showed up.                                                 |
 | 48:35      | It was very intimidating to me to think, oh, these guys are listening to our show.                   |
 | 48:40      | Yeah.                                                                                                |

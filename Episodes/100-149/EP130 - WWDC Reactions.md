@@ -58,12 +58,12 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 00:17      | I feel I'm pretty good. How about you? Oh, when you said my batteries were running low,                   |
 | 00:20      | I was getting worried. I was thinking that like the bigger sense of the term, like you're really          |
 | 00:24      | tired, but no, you're... No, no. I mean, we all have low batteries during beta season, especially         |
-| 00:29      | crazy nerds like us. I love it. I just got back from WWDC. Saw a bunch of friends there and               |
+| 00:29      | crazy nerds like us. I love it. I just got back from [[WWDC]]. Saw a bunch of friends there and               |
 | 00:34      | they're all software developers and smart, fancy people who say, oh, I remember when I was young,         |
 | 00:40      | like in my teens and twenties, I didn't sell the betas. Now I'm wiser. I never do that. And I was         |
 | 00:45      | thinking to myself, I'm in my fifties and I still install the betas and I love it. And I have lots        |
 | 00:50      | of batteries, so I don't care. But anyway, this is the morning that we get to open the Automation         |
-| 00:55      | Christmas presents for you. Apple just had the WWDC event. They have an automation story. There           |
+| 00:55      | Christmas presents for you. Apple just had the [[WWDC]] event. They have an automation story. There           |
 | 01:02      | is automation news this year. It wasn't part of the keynote. What didn't feature is heavily,              |
 | 01:08      | but there's a lot going on. Rose and I are going to break it all down for you. What's coming with         |
 | 01:13      | the betas, what we like, what we don't like. And also we've got some other stuff to weigh on,             |
@@ -186,7 +186,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 12:06      | do not want to do this to yourself. But every time I tried to open shortcuts on my iPhone, it             |
 | 12:11      | crashed. I want to say it crashed. I mean, I'd see the screen for like a second and a half and then       |
 | 12:17      | bam, closed, gone. And I mentioned this on iOS today when I was reporting that right after                |
-| 12:24      | WWDC, because I restored my phone, tried a number of things to help and none of it worked.                |
+| 12:24      | [[WWDC]], because I restored my phone, tried a number of things to help and none of it worked.                |
 | 12:30      | And somebody reached out to us and mentioned if you've got SOFA installed, which is a great app           |
 | 12:37      | for like tracking what you're going to like watch next, listen to next, play next, etc.                   |
 | 12:43      | Then that might be causing the crash. Try uninstalling it. So I uninstalled SOFA and shortcuts            |
@@ -803,7 +803,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:07:31   | Apollo and Reddit, which I guess I just want to join the chorus of everybody saying, um, I think          |
 | 01:07:37   | it's really unfortunate that Reddit made the decisions it did. And if you're not up to speed on           |
 | 01:07:43   | this, Apollo is a beloved app that is the best way to view Reddit threads. The developer is a             |
-| 01:07:51   | single developer. I met him last year at WWDC, a very nice, very smart guy. And they just kind of         |
+| 01:07:51   | single developer. I met him last year at [[WWDC]], a very nice, very smart guy. And they just kind of         |
 | 01:07:59   | decided to change Reddit, decided to change your business model. Whereas the Apollo developer             |
 | 01:08:06   | once again, a guy who lives in an apartment and is trying to, you know, make his way in the world,        |
 | 01:08:10   | he would have to pay $20 million a year to Reddit in order to keep his app running. So.                   |
@@ -812,7 +812,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:08:26   | be. Um, but they said that the API changes were going to come in from the first of July. So the,          |
 | 01:08:31   | the way that the, the things were running where it was free would end at the end of June. Um,             |
 | 01:08:37   | and that they'd bring that stuff in. And they said this like two, two or so months ago now.               |
-| 01:08:42   | Um, and then they have announced the API pricing in WWDC week pretty much. Yeah.                          |
+| 01:08:42   | Um, and then they have announced the API pricing in [[WWDC]] week pretty much. Yeah.                          |
 | 01:08:50   | So he would have less than 30 days to modify the app to match the, a new business model,                  |
 | 01:08:58   | uh, test it, add documentation for users as to, Hey, this is now changed. You can use Reddit for          |
 | 01:09:05   | like two minutes a day before you have to pay for an extra subscription. Not a great look.                |
@@ -821,7 +821,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:09:21   | documentation and testing everything like app and documentation and getting that all in. Um,              |
 | 01:09:27   | it's also having to go through app review, which even though you can request an expedited app review,     |
 | 01:09:32   | and I'm sure he would do, can still take a chunk of time just because of all of the other things          |
-| 01:09:37   | going on. Plus in case Reddit didn't notice is WWDC, like this is the biggest time of year for            |
+| 01:09:37   | going on. Plus in case Reddit didn't notice is [[WWDC]], like this is the biggest time of year for            |
 | 01:09:43   | the Apple developer community where they have to be like going through looking at all the new             |
 | 01:09:47   | stuff that they can add and figuring out what they're going to be able to add for releases in             |
 | 01:09:52   | September and so on. Um, so yeah, they, they Reddit massively dropped the ball on that. They              |
@@ -831,7 +831,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:10:16   | the keynote as being a great app that would just like work on the vision pro and you can pull in          |
 | 01:10:21   | the Apollo for Reddit, uh, widget on the Mac, um, from your iPhone and stuff like that. And yeah,         |
 | 01:10:26   | he called it out and sadly it's going to have to go away because it's just not going to be possible       |
-| 01:10:31   | for Christian to bring it over to the new Reddit API. And I did not talk to him at all at WWDC,           |
+| 01:10:31   | for Christian to bring it over to the new Reddit API. And I did not talk to him at all at [[WWDC]],           |
 | 01:10:37   | never saw him, but if I understand it correctly and granted I could be wrong,                             |
 | 01:10:43   | that those fees kick in on July 1st. So let's say he tries to do this in Apple                            |
 | 01:10:47   | delay and, and with the amount of users he has, it's in the neighbourhood of $2 million a month.           |
@@ -895,7 +895,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:16:17   | And now he is in real hot water because it cited cases saying things they didn't say.                     |
 | 01:16:23   | And that was bad, you know. So I think this is real fun stuff to explore and play with.                   |
 | 01:16:33   | It comes with the usual asterisks and quite a few of them at that. Last bit I wanted to say               |
-| 01:16:39   | now that we've got the initial news out on WWDC was just curious, Rose,                                   |
+| 01:16:39   | now that we've got the initial news out on [[WWDC]] was just curious, Rose,                                   |
 | 01:16:43   | what do you think? How is shortcuts doing at this point?                                                  |
 | 01:16:46   | I think it is doing a lot better than people might think. You know,                                       |
 | 01:16:51   | it didn't get a lot of screen time in the keynote. It got mentioned briefly in a                          |
@@ -939,7 +939,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:20:13   | You think they have, like, a new version of Sal who just runs around Apple yelling at people to           |
 | 01:20:18   | add automation to their apps? I feel like they do.                                                        |
 | 01:20:21   | I don't know. I hope they do. I do know that somebody who used to be on the AppleScript team             |
-| 01:20:25   | is now on the Shortcuts team. And I actually met this person at an Automatrix WWDC meetup,                |
+| 01:20:25   | is now on the Shortcuts team. And I actually met this person at an Automatrix [[WWDC]] meetup,                |
 | 01:20:34   | the one where I broke my ankle. Didn't know it was broken at the meetup, to be fair.                      |
 | 01:20:38   | That's also where I met Christian, the papal developer, and tell the Shortcuts team turned up.            |
 | 01:20:43   | And it was lovely to see them. And they were talking to Sal, talking to some of the Apple                 |

@@ -65,7 +65,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 00:46      | Yes.                                                                                                 |
 | 00:47      | Long overdue.                                                                                        |
 | 00:48      | Yeah, it's unbelievable that we've not had you on a show yet, you know, because we all               |
-| 00:53      | met at WWDC a couple of years ago, it was the year that I broke my ankle, just to be                 |
+| 00:53      | met at [[WWDC]] a couple of years ago, it was the year that I broke my ankle, just to be                 |
 | 00:58      | clear for the audience, Joe had nothing to do with the ankle breaking, but he was very,              |
 | 01:02      | very helpful after the ankle was broken to, you know, make sure that I didn't damage                 |
 | 01:06      | myself further.                                                                                      |
@@ -226,7 +226,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 12:06      | But it seems like the last six months, some of these companies have got a little too big             |
 | 12:11      | for their breaches, in my opinion, but we'll see.                                                    |
 | 12:16      | So one of the things that you mentioned there, Joe, is the possibility of syncing with iCloud,       |
-| 12:21      | and I know that this year at WWDC, Apple announced a new sort of extension or alternative            |
+| 12:21      | and I know that this year at [[WWDC]], Apple announced a new sort of extension or alternative            |
 | 12:29      | to core data.                                                                                        |
 | 12:30      | Yes.                                                                                                 |
 | 12:31      | Is that the sort of thing that you would be looking at for this?                                     |

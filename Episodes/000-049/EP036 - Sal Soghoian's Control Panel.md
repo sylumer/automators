@@ -62,7 +62,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 00:33      | Greetings.                                                                                               |
 | 00:34      | How are you guys?                                                                                        |
 | 00:35      | Great.                                                                                                   |
-| 00:36      | Sal, when we were up in San Francisco for WWDC, Sal showed us a secret project he was working            |
+| 00:36      | Sal, when we were up in San Francisco for [[WWDC]], Sal showed us a secret project he was working            |
 | 00:43      | on.                                                                                                      |
 | 00:44      | And my first question was, hey, how did you do that?                                                     |
 | 00:48      | And when can we share this with the Automators audience?                                                 |
@@ -72,7 +72,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:06      | We're going to talk about it today.                                                                      |
 | 01:07      | But since Rose raised the spectre of her nemesis, which is apparently leaves, what happened              |
 | 01:17      | to you now, Rose?                                                                                        |
-| 01:18      | Well, for everybody who didn't know, I broke my ankle at WWDC.                                           |
+| 01:18      | Well, for everybody who didn't know, I broke my ankle at [[WWDC]].                                           |
 | 01:22      | I was a scooter.                                                                                         |
 | 01:23      | I had a leaf.                                                                                            |
 | 01:24      | The leaf shredded.                                                                                       |

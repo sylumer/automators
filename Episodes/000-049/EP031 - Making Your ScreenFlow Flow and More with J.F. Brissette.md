@@ -771,7 +771,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 43:16      | Most of the time, honestly, if an app is not willing to support shortcuts, then I am                    |
 | 43:23      | now at the point where I'm seriously considering dropping the application rather than continuing        |
 | 43:29      | to use [[URL Schemes]].                                                                                     |
-| 43:31      | Because with the new parameterised shortcuts, also Apple, in their WWDC, they were very                 |
+| 43:31      | Because with the new parameterised shortcuts, also Apple, in their [[WWDC]], they were very                 |
 | 43:39      | clear that shortcuts is the future and [[URL Schemes]] are insecure, which means that at                    |
 | 43:45      | some point, at least from my perspective, they're going to be either dropping them or                   |
 | 43:50      | blocking them or something.                                                                             |

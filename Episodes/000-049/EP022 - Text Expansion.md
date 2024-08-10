@@ -105,7 +105,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:29      | I have to say I'm going to be wearing mine at some                                       |
 | 01:31      | of our meetups actually.                                                                 |
 | 01:33      | Yes, me too.                                                                             |
-| 01:34      | WWDC baby going to have my automators assemble gear on.                                  |
+| 01:34      | [[WWDC]] baby going to have my automators assemble gear on.                                  |
 | 01:38      | So go check it out.                                                                      |
 | 01:40      | We put a link in the channel.                                                            |
 | 01:41      | Like I said, you'll probably hear about this a couple times,                             |
@@ -115,7 +115,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:48      | get in there and get them now.                                                           |
 | 01:50      | Yeah, definitely.                                                                        |
 | 01:52      | And hopefully the very least for people who are resident                                 |
-| 01:55      | in the U.S., these are going to arrive in time to wear at WWDC                           |
+| 01:55      | in the U.S., these are going to arrive in time to wear at [[WWDC]]                           |
 | 01:59      | as well, which means that if you are thinking of getting one                             |
 | 02:01      | to wear it to wear the meetups,                                                          |
 | 02:03      | it should fingers crossed arrive in time barring                                         |
@@ -137,7 +137,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 02:31      | That may have to be negotiated.                                                          |
 | 02:33      | Yeah.                                                                                    |
 | 02:34      | All right.                                                                               |
-| 02:35      | Well, go get your gear and we will see you wearing it at WWDC.                           |
+| 02:35      | Well, go get your gear and we will see you wearing it at [[WWDC]].                           |
 | 02:42      | Hello, and welcome to Automators.                                                        |
 | 02:44      | I am here with my fabulous co-host, David Sparks.                                        |
 | 02:47      | And we're going to teach you how to use your computers                                   |
@@ -163,8 +163,8 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 03:35      | That is nice.                                                                            |
 | 03:36      | Yes.                                                                                     |
 | 03:37      | There's a lot more spaces in the Orange County meet up                                    |
-| 03:40      | than there are left in the WWDC meetup,                                                  |
-| 03:42      | but we're probably going to be having the WWDC meet up outdoors.                          |
+| 03:40      | than there are left in the [[WWDC]] meetup,                                                  |
+| 03:42      | but we're probably going to be having the [[WWDC]] meet up outdoors.                          |
 | 03:46      | So space hopefully won't be an issue on that front.                                      |
 | 03:50      | Yeah, same thing down here in Orange County.                                             |
 | 03:52      | So there's room for you.                                                                 |
@@ -1567,6 +1567,6 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:07:22   | Yes. And don't forget, it doesn't matter whether or not you think                        |
 | 01:07:26   | you're talented at this stuff, you can do it.                                            |
 | 01:07:28   | Yes. Don't forget to sign up for our Meetups.                                            |
-| 01:07:32   | Rose and I can't wait to meet you in Orange County or at WWDC in San Jose.               |
+| 01:07:32   | Rose and I can't wait to meet you in Orange County or at [[WWDC]] in San Jose.               |
 | 01:07:37   | Also, thank you to our sponsors, Backblaze and Luna Display,                             |
 | 01:07:41   | and we'll see you all in a few weeks.                                                    |

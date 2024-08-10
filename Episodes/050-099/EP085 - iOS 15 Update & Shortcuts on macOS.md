@@ -738,7 +738,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 27:35      | but equally it is definitely getting a lot better,                 |
 | 27:38      | which I'm really pleased about.                                    |
 | 27:40      | Yeah, in terms of actions,                                         |
-| 27:43      | we did talk about this in the WWDC show,                           |
+| 27:43      | we did talk about this in the [[WWDC]] show,                           |
 | 27:45      | but I'm happy to report they survived the beta process.            |
 | 27:49      | There are a bunch of new files based to actions                    |
 | 27:52      | and shortcuts, which I think once they get                         |

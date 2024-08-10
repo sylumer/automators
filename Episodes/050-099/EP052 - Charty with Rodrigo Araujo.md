@@ -145,7 +145,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 04:04      | So it's something about me that I'd like to visualise stuff.                                           |
 | 04:08      | And I've been longing for a way to do this in iOS for ages and less, I guess it was November           |
 | 04:15      | when I saw what [[Alex Hay]] was building with [[Toolbox Pro]].                                                |
-| 04:20      | I got excited and I saw it was possible because even though I watched the WWDC keynote I hadn't        |
+| 04:20      | I got excited and I saw it was possible because even though I watched the [[WWDC]] keynote I hadn't        |
 | 04:29      | realised the power that was being given to developers in iOS 13.                                       |
 | 04:34      | So when I saw what he was doing I noticed that it might be possible to create a YouTube                |
 | 04:41      | tab to create charts directed from shortcuts.                                                          |
@@ -301,7 +301,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 14:59      | So inside the gallery, like have an apps section where they can showcase all of these great            |
 | 15:03      | apps, you know, including Charty and toolbox pro and [[Data Jar]] and all of these amazing                 |
 | 15:08      | things that really make shortcuts better.                                                              |
-| 15:11      | I'm coding that on my WWDC wishlist, David, and I'm claiming that if, if that comes true,              |
+| 15:11      | I'm coding that on my [[WWDC]] wishlist, David, and I'm claiming that if, if that comes true,              |
 | 15:16      | I'm getting a point.                                                                                   |
 | 15:17      | All right.                                                                                             |
 | 15:18      | Gold star for you.                                                                                     |
@@ -320,7 +320,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 16:00      | That would be great.                                                                                   |
 | 16:02      | Yeah.                                                                                                  |
 | 16:03      | Well, I guess while we're here, as the show releases, we're just a few days from, from                 |
-| 16:07      | WWDC.                                                                                                  |
+| 16:07      | [[WWDC]].                                                                                                  |
 | 16:08      | As someone who develops a shortcut supporting app, what would you like to see Apple do to              |
 | 16:15      | make it easier and better?                                                                             |
 | 16:17      | So as Ken just said in the last episode of Automators, they've made a great job of unleashing          |
@@ -1046,7 +1046,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 01:00:58   | Yes.                                                                                                   |
 | 01:00:59   | Definitely.                                                                                            |
 | 01:01:00   | And it's interesting because this is the show comes out the last business day before                   |
-| 01:01:05   | WWDC.                                                                                                  |
+| 01:01:05   | [[WWDC]].                                                                                                  |
 | 01:01:06   | And so it's my last chance to wish cast.                                                               |
 | 01:01:08   | But wouldn't it be great if we can also track our time data the way we can track our health            |
 | 01:01:12   | data?                                                                                                  |
@@ -1073,8 +1073,8 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 01:02:02   | You can find us over at relay.fm/automators.                                                     |
 | 01:02:06   | Anything big going on recently, Rose, that you should share with our listeners?                        |
 | 01:02:11   | Not just yet.                                                                                          |
-| 01:02:12   | I think we will have some bigger stuff to share post WWDC, but let's see what happens.                 |
-| 01:02:17   | Yeah, we are both looking forward to WWDC and the automation story as it continues.                    |
+| 01:02:12   | I think we will have some bigger stuff to share post [[WWDC]], but let's see what happens.                 |
+| 01:02:17   | Yeah, we are both looking forward to [[WWDC]] and the automation story as it continues.                    |
 | 01:02:23   | Hopefully, shortcuts continues to get love.                                                            |
 | 01:02:27   | We're always curious about the future of shortcuts.                                                    |
 | 01:02:30   | Is it going to become more complex or more simple or are they going to, you know, what's               |

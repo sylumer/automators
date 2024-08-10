@@ -273,7 +273,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 09:11      | because at the time we recorded the episodes,                     |
 | 09:13      | Apple released shortcuts.                                         |
 | 09:15      | And...                                                            |
-| 09:16      | Yeah, we were at WWDC.                                            |
+| 09:16      | Yeah, we were at [[WWDC]].                                            |
 | 09:18      | I just spoken to [[Myke Hurley]] and I met Steven.                    |
 | 09:23      | And we were confirming everything was ready to go                 |
 | 09:25      | and we had some episodes.                                         |
@@ -942,7 +942,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 36:11      | when we even started this show.                                   |
 | 36:13      | And for instance, on the Mac,                                     |
 | 36:16      | as we get shortcuts for Mac kind of gets more stable.             |
-| 36:20      | And we're going to talk about WWDC later,                         |
+| 36:20      | And we're going to talk about [[WWDC]] later,                         |
 | 36:22      | but I feel like it's going to get more stable.                    |
 | 36:25      | We're seeing increasingly applications                            |
 | 36:28      | that were not historically automation friendly                    |
@@ -1070,7 +1070,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 41:34      | for their support of the Automators and Olive Relay FM.           |
 | 41:39      | So Rose, we got news.                                             |
 | 41:40      | It's the last time we were on air.                                |
-| 41:42      | WWDC June 6th, not that far off.                                  |
+| 41:42      | [[WWDC]] June 6th, not that far off.                                  |
 | 41:46      | Nope, no, it's really not.                                        |
 | 41:47      | Time is taking away at a relatively rapid pace.                   |
 | 41:51      | But I reckon, David, do you think if we wish hard enough          |
@@ -1086,7 +1086,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 42:14      | I think there's time, you know, they're smart people.             |
 | 42:16      | All right, so from a shortcuts                                    |
 | 42:19      | or just an automation perspective,                                |
-| 42:22      | what would you like to see happen this year at WWDC?              |
+| 42:22      | what would you like to see happen this year at [[WWDC]]?              |
 | 42:26      | I would like to see four specific automation actions              |
 | 42:31      | that are come from shortcuts.                                     |
 | 42:33      | For example, the vibrate action.                                  |
@@ -1363,8 +1363,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 54:27      | If you look at the API calls                                      |
 | 54:29      | and the way you set up a shortcut support,                        |
 | 54:31      | it's not super difficult.                                         |
-| 54:34      | I mean, I sat in in the session in WWDC with this                 |
-| 54:38      | the last time I was able to go to WWDC                            |
+| 54:34      | I mean, I sat in in the session in [[WWDC]] with this                 |
+| 54:38      | the last time I was able to go to [[WWDC]]                            |
 | 54:40      | and it didn't seem to me like this was a mission impossible,      |
 | 54:44      | but I feel like we're getting the developers                      |
 | 54:49      | that are using shortcuts are usually coming in pretty shallow.    |
@@ -1537,7 +1537,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:01:58   | can be converted into shortcuts.                                  |
 | 01:02:00   | And, you know, that is then the end of Automator.                 |
 | 01:02:05   | So I'm wondering if we're going to see Automator                  |
-| 01:02:08   | be removed this year at WWDC                                      |
+| 01:02:08   | be removed this year at [[WWDC]]                                      |
 | 01:02:11   | or if it will hang around for another year                        |
 | 01:02:14   | or maybe to a 0.1 or 0.3 release of Mac OS,                       |
 | 01:02:17   | I guess we'll have to wait and see.                               |
@@ -1571,7 +1571,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:03:29   | And I feel like this is just like growing pains                   |
 | 01:03:31   | more than anything else.                                          |
 | 01:03:32   | But I would like to see more progress on that.                    |
-| 01:03:35   | The share at WWDC.                                                |
+| 01:03:35   | The share at [[WWDC]].                                                |
 | 01:03:37   | Yeah. And I'm sure we will.                                       |
 | 01:03:41   | This episode of The Automators is brought to you                  |
 | 01:03:43   | by LinkedIn Jobs.                                                 |

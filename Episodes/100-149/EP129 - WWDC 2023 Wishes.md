@@ -55,20 +55,20 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 00:26      | I've got a smart water bottle right here on my desk, it's stainless steel, I'm rubbing                |
 | 00:28      | it, there's no genie, but I'm hopeful that Disney Magic is still present somewhere in                 |
 | 00:33      | the world, perhaps, maybe.                                                                            |
-| 00:35      | But either way, we're publishing this shortly before WWDC, so assuming that there is plenty           |
+| 00:35      | But either way, we're publishing this shortly before [[WWDC]], so assuming that there is plenty           |
 | 00:42      | of magic running around, we may see some of these, or maybe the Shortcuts team and the                |
 | 00:48      | Automation teams at Apple are actually just very smart, and they've been listening to                 |
 | 00:53      | the things that we've mentioned offhand over the last year or so, and been forming those              |
-| 00:57      | into actual features that we'll see at WWDC in just a week or so.                                     |
+| 00:57      | into actual features that we'll see at [[WWDC]] in just a week or so.                                     |
 | 01:02      | Yeah, I feel like if we want to make this show more influential, we should probably                   |
 | 01:05      | do it in January, because...                                                                          |
 | 01:08      | I feel like, actually, now is a great time to be doing it, but iOS 17 is going to come                |
 | 01:13      | out in September.                                                                                     |
 | 01:14      | This wish list is probably realistically iOS 18, because that's how much development lead              |
 | 01:18      | time you need with testing and everything else to get it in as a big feature in the                   |
-| 01:23      | WWDC keynote.                                                                                         |
+| 01:23      | [[WWDC]] keynote.                                                                                         |
 | 01:24      | But, of course, there will be updates later.                                                          |
-| 01:27      | But that's the idea today, is we're heading into WWDC.                                                |
+| 01:27      | But that's the idea today, is we're heading into [[WWDC]].                                                |
 | 01:30      | We don't know what's going to come out.                                                               |
 | 01:31      | As of this recording, there haven't been massive leak bombs.                                          |
 | 01:36      | And you don't normally get those on Automation, because it's not sexy enough to warrant leak          |
@@ -96,7 +96,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 02:58      | So we're going to be going through them today.                                                        |
 | 03:01      | For the bonus section for Automator's Max, which is the version of the show you get that's            |
 | 03:07      | ad-free and has additional content, Rose today and I are going to be talking about how to             |
-| 03:12      | best view WWDC and how to get the goods on all the stuff we're talking about today.                   |
+| 03:12      | best view [[WWDC]] and how to get the goods on all the stuff we're talking about today.                   |
 | 03:17      | So we'll be covering that in detail in Automator's Max later, but we've got some categories here.     |
 | 03:23      | Let's start with the first one that we are generally calling OS improvements, you know,               |
 | 03:30      | improvements to the general operating system that will make life easier for automators.               |
@@ -841,7 +841,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 52:04      | Or like, do you want solo navigation is probably what I would have it ask.                            |
 | 52:10      | And I can say yes, if I'm on my own or no, if I'm with other people.                                  |
 | 52:13      | And that would just be very nice.                                                                     |
-| 52:16      | Okay, we stretched a little bit with this next category because it's WWDC.                            |
+| 52:16      | Okay, we stretched a little bit with this next category because it's [[WWDC]].                            |
 | 52:22      | But why not?                                                                                          |
 | 52:23      | Right?                                                                                                |
 | 52:24      | There are already automation wishes related to the Apple ecosystem.                                   |
@@ -1085,7 +1085,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:07:58   | The fact that those kind of come under the same umbrella, but it's more the light in                  |
 | 01:08:02   | the dark side of the moon, it's confusing for users.                                                  |
 | 01:08:07   | Okay.                                                                                                 |
-| 01:08:08   | So now we're going to expand our wishing into hardware and just WWDC in general.                      |
+| 01:08:08   | So now we're going to expand our wishing into hardware and just [[WWDC]] in general.                      |
 | 01:08:14   | This is our last chance to talk before it happens.                                                    |
 | 01:08:17   | What are you looking forward to, Rose?                                                                |
 | 01:08:19   | Well, I mean, so we got a Purple iPhone Pro this year.                                                |

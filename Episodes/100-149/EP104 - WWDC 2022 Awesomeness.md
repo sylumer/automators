@@ -54,7 +54,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 00:06      | How are you today?                                                                                        |
 | 00:07      | Oh, David.                                                                                                |
 | 00:08      | I'm excited.                                                                                              |
-| 00:09      | We've had some WWDC fun as we do and you got invited to Apple Park.                                       |
+| 00:09      | We've had some [[WWDC]] fun as we do and you got invited to Apple Park.                                       |
 | 00:14      | Congratulations.                                                                                          |
 | 00:15      | That was pretty fun.                                                                                      |
 | 00:16      | I got to go into the loop.                                                                                |
@@ -273,7 +273,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 12:04      | I installed it on the 12.9 inch iPad Pro, so I will still have devices that I can do                      |
 | 12:09      | things on.                                                                                                |
 | 12:10      | It's just really frustrating.                                                                             |
-| 12:11      | I wanted to show everything off in the first episode post WWDC and I had to resort to sending             |
+| 12:11      | I wanted to show everything off in the first episode post [[WWDC]] and I had to resort to sending             |
 | 12:15      | screenshots to Micah for him to show on screen.                                                           |
 | 12:17      | That is a good thing I need to check out, because I'm going to do a deep dive for my                      |
 | 12:22      | labs members on iOS, iPad OS 16, and I hadn't tested it yet.                                              |
@@ -566,7 +566,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 31:12      | now if I want to put it on a single shortcut, it needs to know a platform I am on whether                 |
 | 31:18      | or not it runs an action or an AppleScript. But also, it's definitely the right direction.               |
 | 31:25      | And this whole thing with a new API, it looks to me like it's going to make it a lot easier               |
-| 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at WWDC and                      |
+| 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at [[WWDC]] and                      |
 | 31:37      | he had done some preliminary look at the new API and he said, it took away a lot of the                   |
 | 31:41      | like the work of setting up shortcut support in your app. So I think we're going to see                   |
 | 31:46      | even more of that now.                                                                                    |
@@ -861,7 +861,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 55:17      | feature that you really appreciate. And similarly, when you're done with that, you can delete             |
 | 55:20      | a folder and delete a recording. So, yay. Thank you. Thank you. Voice Recording and                       |
 | 55:25      | Shortcuts Team.                                                                                           |
-| 55:26      | Yeah. When I was up in Cupertino for WWDC, I put out, because we have a podcast feed                      |
+| 55:26      | Yeah. When I was up in Cupertino for [[WWDC]], I put out, because we have a podcast feed                      |
 | 55:38      | like a little pocket microphone, but it improves the audio quality quite a bit. And I just                |
 | 55:43      | recorded in my hotel room into my phone, into Voice Memos, and had a remarkably good result               |
 | 55:51      | from it. I was kind of surprised how good it sounded. I mean, it's not as good as my                      |

@@ -578,7 +578,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 49:28      | not a good chunk of them are unless because Twitter doesn't make it easy to manage but                                           |
 | 49:32      | that's how I follow different contexts and it's very kind of like I didn't even think about that                                 |
 | 49:37      | until now that it's I'm doing that same thing there um a couple others are just like I built these                               |
-| 49:43      | for live tweeting like during WWDC it can just automatically append a hashtag to the end of                                      |
+| 49:43      | for live tweeting like during [[WWDC]] it can just automatically append a hashtag to the end of                                      |
 | 49:48      | every tweet before I send it out so that I just don't have to remember how to do that and people                                 |
 | 49:53      | can mute me if they want um different ways to I've also done a series of ways to search and then add um                          |
 | 50:02      | are they called parameters I don't remember with the search like advanced search terms in Twitter                                |

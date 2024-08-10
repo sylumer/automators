@@ -665,7 +665,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:06:03   | putting like pulling shortcut blocks in the air. That's just, that's so exciting to me.                 |
 | 01:06:11   | Because I know folks are very worried about it taking you out of the real world. And sure,              |
 | 01:06:20   | it's very early days, but it's also, I think, about getting the unimportant stuff out of the            |
-| 01:06:31   | way. It's going to make it even easier switching contexts with Vision OS. We saw at WWDC this           |
+| 01:06:31   | way. It's going to make it even easier switching contexts with Vision OS. We saw at [[WWDC]] this           |
 | 01:06:42   | year. I think we saw more entertainment things than productivity and work stuff because that's,         |
 | 01:06:49   | you know, what gets normal people for lack of a better term, excited. And I mean, with Vision           |
 | 01:07:00   | OS already, it's going to, you know, have shortcuts. That's correct, right? They did                    |
@@ -685,7 +685,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:08:57   | because, you know, all of us nerds can go off about the UI of every sort of system preferences          |
 | 01:09:07   | UI. It's just a mess everywhere. I know it's difficult. But accessibility,                              |
 | 01:09:17   | it's definitely changing. But for the longest time, it's not that it was stigmatised,                   |
-| 01:09:24   | but it really wasn't talked about at WWDC. And people, I don't think, were just using it to its         |
+| 01:09:24   | but it really wasn't talked about at [[WWDC]]. And people, I don't think, were just using it to its         |
 | 01:09:34   | full potential. But now that, you know, it's so baked in with shortcuts and stuff like that,            |
 | 01:09:44   | I know that for me, at least, having things on Vision OS and like, you know,                            |
 | 01:09:52   | using voice control and something with Vision OS and having my hands be free to do whatever             |
@@ -732,7 +732,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:14:44   | screens. And Apple's not talking about that, because I feel like they don't really want to              |
 | 01:14:47   | talk about virtual reality. I feel like they did talk about it. And for anybody who hasn't listened     |
 | 01:14:52   | to that [[Cortex]] episode, all about Vision OS and the new Vision Pro that's going to come out,            |
-| 01:15:00   | because Mike got to actually try one at WWDC. If you haven't listened to that, folks,                   |
+| 01:15:00   | because Mike got to actually try one at [[WWDC]]. If you haven't listened to that, folks,                   |
 | 01:15:05   | please do go listen to that, because [[Cortex]] is amazing. And B, because Mike does a really great         |
 | 01:15:09   | job of walking you through exactly what his experience was like. But the digital crown                  |
 | 01:15:14   | on the side of the Vision Pro, that you can turn it and you can adjust how much reality                 |
@@ -776,7 +776,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:18:57   | But there's just the way Apple tells stories, obviously, is always really specific. And right           |
 | 01:19:05   | now, there are two terms that I think make people think certain things, which is artificial             |
 | 01:19:14   | intelligence and virtual reality. And Apple really did kind of talk all about artificial                |
-| 01:19:22   | intelligence and virtual reality in the WWDC keynote. They just didn't use those specifically           |
+| 01:19:22   | intelligence and virtual reality in the [[WWDC]] keynote. They just didn't use those specifically           |
 | 01:19:30   | because they want the Apple words and not the pre-written narrative that society has made.              |
 | 01:19:40   | And I like that. Apple's afraid of the word [[artificial intelligence]]. They don't want it to,             |
 | 01:19:45   | they don't want to get on that train, but they're doing it. Yeah. I had a bet that they would not,      |

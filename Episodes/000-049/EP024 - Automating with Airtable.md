@@ -67,7 +67,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 00:38      | We really appreciate it.                                                                             |
 | 00:40      | We got some milk money out of it, and some really cool T-shirts and hoodies are heading              |
 | 00:44      | out.                                                                                                 |
-| 00:45      | Hopefully, we'll see you wearing them up at WWDC or wherever we bump into you.                       |
+| 00:45      | Hopefully, we'll see you wearing them up at [[WWDC]] or wherever we bump into you.                       |
 | 00:50      | Also, I have released the Keyboard Master of Field Guide.                                            |
 | 00:54      | Hooray.                                                                                              |
 | 00:55      | Yes, and this has been coming for a while.                                                           |
@@ -101,11 +101,11 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 02:28      | the Automator's audience knew about it.                                                              |
 | 02:31      | Head over to learn.macsparky.com and get your copy before the price goes up.                         |
 | 02:38      | As well as producing awesome stuff, you can meet us.                                                 |
-| 02:44      | As David mentioned earlier, if you are coming to WWDC, we've got a meet up there.                     |
+| 02:44      | As David mentioned earlier, if you are coming to [[WWDC]], we've got a meet up there.                     |
 | 02:51      | Prices up for that are unfortunately now sold out officially that free tickets, but keep             |
 | 02:56      | an eye out just in case anybody doesn't need their ticket and releases it, and you can               |
 | 03:00      | still grab a spot.                                                                                   |
-| 03:02      | The other meet up that we're doing before WWDC is near you, isn't it, David?                          |
+| 03:02      | The other meet up that we're doing before [[WWDC]] is near you, isn't it, David?                          |
 | 03:07      | It's Orange County.                                                                                  |
 | 03:08      | We have the Orange County meetup.                                                                    |
 | 03:10      | We've still got some space available.                                                                |

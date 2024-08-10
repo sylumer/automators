@@ -92,14 +92,14 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 02:56      | Oh, thank you so much. That's such a kind way to say that I'm really like needy and                       |
 | 03:03      | bossy.                                                                                                    |
 | 03:04      | Oh, that's not it at all. It is very much the good kind of bossy. So for people who                       |
-| 03:11      | remember the leaf incident at WWDC where I ended up breaking my ankle, Kathy is one                       |
+| 03:11      | remember the leaf incident at [[WWDC]] where I ended up breaking my ankle, Kathy is one                       |
 | 03:16      | of the wonderful people who really looked after me all week. And so she's the good kind                   |
 | 03:22      | of bossy, making sure that I wasn't overdoing things on what I thought was a sprained ankle.              |
 | 03:27      | We both thought it was a sprained ankle and then I got home and I found out it was a very                 |
 | 03:30      | broken ankle. But I hadn't damaged it further and that is mostly down to Kathy and her wonderful          |
 | 03:36      | unicorn stubbornness of not letting me overdo things.                                                     |
 | 03:39      | Well, and like I told you so many times, it was really a pure joy for me as well to have                  |
-| 03:48      | a purpose because this was the first WWDC I'd ever been to. I really had no idea what                     |
+| 03:48      | a purpose because this was the first [[WWDC]] I'd ever been to. I really had no idea what                     |
 | 03:58      | I was doing with my time, effort and energy. And so getting to have a goal and a purpose                  |
 | 04:05      | and help Rose made my anxiety calmed down a lot. And so really, and this is something                     |
 | 04:18      | I've discovered with my therAPIst is that my need to help people is a deep innate trait.                  |

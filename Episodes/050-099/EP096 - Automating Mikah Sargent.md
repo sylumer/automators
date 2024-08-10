@@ -188,9 +188,9 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 08:05      | Yeah, I remember I was in high school one day and me and my buddies went surfing in                     |
 | 08:07      | the morning and snowboarding in the afternoon.                                                          |
 | 08:10      | See, it's wild, it's so wild.                                                                           |
-| 08:13      | Yeah, I was not prepared for it when I came because I visited, I went to WWDC first on                  |
+| 08:13      | Yeah, I was not prepared for it when I came because I visited, I went to [[WWDC]] first on                  |
 | 08:19      | my own for like a week, and obviously that was one experience.                                          |
-| 08:23      | And then the next time I visited David in Orange County and then went out to WWDC, and                  |
+| 08:23      | And then the next time I visited David in Orange County and then went out to [[WWDC]], and                  |
 | 08:30      | that was a different experience, especially Disney.                                                     |
 | 08:32      | And then I went to San Francisco, and it is like pretty much visiting three different                   |
 | 08:35      | countries.                                                                                              |

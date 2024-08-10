@@ -139,7 +139,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 03:43      | Well, I'm excited by this.                                                                                |
 | 03:44      | And what I'm really excited by is the fact that they've tied this into those live notification            |
 | 03:50      | updates.                                                                                                  |
-| 03:51      | So we saw this come out at WWDC, it's not in the 16 release, it'll be in 16.1 by the                      |
+| 03:51      | So we saw this come out at [[WWDC]], it's not in the 16 release, it'll be in 16.1 by the                      |
 | 03:58      | looks of it, where you can have like a notification or a special activity, sorry, it's live activities    |
 | 04:05      | on your lock screen.                                                                                      |
 | 04:06      | So the examples or the classic examples are like you ordered an Uber seeing like, you                     |

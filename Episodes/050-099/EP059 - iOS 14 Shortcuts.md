@@ -1214,7 +1214,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:04:45   | Yeah, me too, definitely.                                                                                |
 | 01:04:47   | I'm genuinely really impressed at everything the shortcuts developers have put out, both                 |
 | 01:04:52   | back when it was workflow and then after they moved to Apple and all of this stuff.                      |
-| 01:04:57   | Last year, they barely got any screen time in WWDC, there were just a few sort of foot                   |
+| 01:04:57   | Last year, they barely got any screen time in [[WWDC]], there were just a few sort of foot                   |
 | 01:05:03   | notes almost, and we got automations.                                                                    |
 | 01:05:06   | That's incredible, and this year we've got even more powerful automations because they're                |
 | 01:05:11   | automatic automations, as you call them, David, so I'm really pleased to see all of that stuff.          |

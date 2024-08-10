@@ -858,7 +858,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 47:03      | That wouldn't be a problem.                                                                                  |
 | 47:05      | Or I could leave it in Zapier.                                                                               |
 | 47:09      | Now, the disadvantage of the Zapier side of things as I discovered last year when I was                      |
-| 47:14      | at WWDC with you was that it was stopping my timer at 10 p.m.                                                |
+| 47:14      | at [[WWDC]] with you was that it was stopping my timer at 10 p.m.                                                |
 | 47:20      | Central European time.                                                                                       |
 | 47:21      | 10 p.m. Central European time is not 10 p.m. San Francisco time.                                             |
 | 47:27      | Time sounds weird.                                                                                           |

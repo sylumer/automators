@@ -59,7 +59,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 00:19      | I don't know if we ever told the show the story about the origin of the show.                     |
 | 00:23      | When we had planned it,                                                                           |
 | 00:24      | we had recorded shows and we went to                                                              |
-| 00:26      | WWDC and Apple announced Siri Shortcuts and we had to throw                                       |
+| 00:26      | [[WWDC]] and Apple announced Siri Shortcuts and we had to throw                                       |
 | 00:29      | a bunch of episodes in the trash and start over again.                                            |
 | 00:31      | Yeah. I mean, they're not completely gone just for the really curious.                            |
 | 00:35      | They're sitting on a hard drive in my desk.                                                       |
@@ -80,7 +80,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:16      | I mean, Siri Shortcuts is really considered in a lot of ways,                                     |
 | 01:19      | a feature of the operating system.                                                                |
 | 01:21      | Usually, you only see updates to the operating system in June.                                    |
-| 01:25      | You know, when they announced at WWDC and they shipped sometime in September.                     |
+| 01:25      | You know, when they announced at [[WWDC]] and they shipped sometime in September.                     |
 | 01:29      | For instance, [[Apple Mail]], the app that we like to beat up on because it never gets updates.       |
 | 01:34      | There's no chance that we're going to see an update to Apple Mail anytime other than June.        |
 | 01:40      | But for whatever reason,                                                                          |

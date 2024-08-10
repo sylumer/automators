@@ -1635,7 +1635,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:13:51   | Apple does seem to be behind it.                                   |
 | 01:13:52   | Apple spent a lot of time talking about this feature               |
 | 01:13:57   | back there in September.                                           |
-| 01:13:59   | And, or was it, were they doing it in June at WWDC?                |
+| 01:13:59   | And, or was it, were they doing it in June at [[WWDC]]?                |
 | 01:14:04   | Whatever it was, whenever, when they introduced it,                |
 | 01:14:07   | they talked a lot about it                                         |
 | 01:14:08   | and they talked a lot about it                                     |

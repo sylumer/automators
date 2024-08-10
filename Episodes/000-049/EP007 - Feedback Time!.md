@@ -397,7 +397,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 12:02      | is this the end of workflow?                                                             |
 | 12:04      | Is it one day just going to disappear?                                                   |
 | 12:06      | We're not gonna hear anything.                                                           |
-| 12:08      | And to see it being demoed on stage at WWDC,                                             |
+| 12:08      | And to see it being demoed on stage at [[WWDC]],                                             |
 | 12:12      | I will grant you, I was in another room                                                  |
 | 12:13      | watching it being live streamed with a bunch of nerds                                    |
 | 12:15      | who kept looking at me like I was some crazy girl                                        |

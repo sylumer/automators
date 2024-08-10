@@ -319,7 +319,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 13:04      | And so what you're doing is you're telling character update the weather                                  |
 | 13:07      | and then, oh, but can you set my my clipboard to the weather please?                                     |
 | 13:11      | That's an extra step so that then you can get it and you can manipulate it.                              |
-| 13:14      | And I'm hoping that we're going to see an improvement to that this WWDC.                                 |
+| 13:14      | And I'm hoping that we're going to see an improvement to that this [[WWDC]].                                 |
 | 13:18      | Yeah, I just I just saw that the other day I was looking Dan Moran's                                     |
 | 13:20      | automation who's doing some shortcuts for sleep tracking.                                                |
 | 13:23      | And, you know, his solution was to call something to write the current time out                          |

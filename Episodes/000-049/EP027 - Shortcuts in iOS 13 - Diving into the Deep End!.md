@@ -56,7 +56,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 00:13      | I'm great, Rose. How are you today? I am very excited because, well, we've been playing with            |
 | 00:18      | Betas and there were no more chapters in Rose versus the leaf. So, yeah, at least I am good.                |
 | 00:25      | Today, I think we're going to focus on shortcuts in iOS 13. We've talked about it a little bit          |
-| 00:33      | at WWDC, the show we had recorded just days after the keynote. Now, both of us have now                 |
+| 00:33      | at [[WWDC]], the show we had recorded just days after the keynote. Now, both of us have now                 |
 | 00:39      | been using the beta for some time. Yes. And there's just so much to talk about with this.               |
 | 00:46      | I thought we should probably update the listeners. Yeah, definitely. And especially the first beta      |
 | 00:53      | was super buggy and it completely broke shortcuts for a lot of people. And then the second beta         |
@@ -106,13 +106,13 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 05:01      | to install it from an iCloud link. Yeah. Yeah, there's a lot of changes. And that's why we're           |
 | 05:08      | here today to talk about shortcuts. And the first thing I would mention is that the name has changed.   |
 | 05:14      | It used to always be called Siri Shortcuts and everything Apple published. And I noticed like           |
-| 05:19      | watching the WWDC sessions, now they're just calling it Shortcuts. Yes. And I think this is             |
+| 05:19      | watching the [[WWDC]] sessions, now they're just calling it Shortcuts. Yes. And I think this is             |
 | 05:27      | because there was a little bit of confusion going on because there were Siri Shortcuts in the settings  |
 | 05:34      | and then there was the Shortcuts application. And it was never clear exactly, at least to me,           |
 | 05:40      | which one they were really referring to as Siri Shortcuts. I always got the impression that the         |
 | 05:44      | app was Shortcuts and then the ones in the settings were Siri Shortcuts. But now it's just              |
 | 05:49      | Shortcuts and everything is in one place in the Shortcuts application, which makes my life              |
-| 05:54      | so much easier. Yeah. And the reason why this got us excited at WWDC, the reason it's getting a         |
+| 05:54      | so much easier. Yeah. And the reason why this got us excited at [[WWDC]], the reason it's getting a         |
 | 06:00      | whole show during the beta is that this is not your usual update. Often when Apple makes something      |
 | 06:07      | new and shiny, they move resources around and it gets a nice big update and then it gets                |
 | 06:13      | smaller incremental updates in the years following, if at all. And in this case, the new version of     |
@@ -127,7 +127,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 07:10      | user interface. It's got a new look and feel that's superior. It's got an entirely new programming      |
 | 07:17      | model. We're going to talk about that later. And it's just more powerful, but it's also easier to       |
 | 07:23      | use. They really walk the line here. And in fact, it's so different, Rose. When I was at                |
-| 07:30      | WWDC, you and I were talking and I was struggling. I was like, how am I going to explain these          |
+| 07:30      | [[WWDC]], you and I were talking and I was struggling. I was like, how am I going to explain these          |
 | 07:35      | changes to the Siri Shortcuts Field Guide customers? And as I got home and looked at it,                |
 | 07:41      | and then the betas got installed, and I started to plan it tomorrow, I realised it's so different.      |
 | 07:44      | I have to build a whole new course. So I'm going to make a brand new Siri Shortcuts Field Guide         |
@@ -296,7 +296,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 23:22      | workflow back in the day, but nowadays, I can just talk to Siri and do the same thing.                  |
 | 23:29      | You need a chocolate button somewhere, right? Just press the button.                                    |
 | 23:32      | Yeah, I do, but it's okay. I have [[Drafts]] now.                                                           |
-| 23:36      | But so with shortcuts, and you and I spent some time with the shortcuts gang up at WWDC,                |
+| 23:36      | But so with shortcuts, and you and I spent some time with the shortcuts gang up at [[WWDC]],                |
 | 23:43      | they really added a lot of triggers, and they were explaining to us when we talked to them that         |
 | 23:49      | they just had this big list and they started checking the items off, and they got a long way            |
 | 23:54      | through the list for iOS 13. Yeah, they did. And it's amazing because these triggers,                   |
@@ -361,7 +361,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 29:19      | Yeah. So one of the new actions is you can, you can set a background wallpaper.                         |
 | 29:24      | So yeah, and we're going to talk about actions later. But I mean, it's, it's just,                      |
 | 29:28      | it opens up a whole lot of new options. I know the easy thing for us to do, and we talked about         |
-| 29:32      | this at WWDC is say, well, for some reason, I always go to music, like, you look at these triggers,     |
+| 29:32      | this at [[WWDC]] is say, well, for some reason, I always go to music, like, you look at these triggers,     |
 | 29:38      | like they have arrival and leaving triggers, like when you arrive and when you leave. And in my head,   |
 | 29:43      | or even like before I need to leave, you know, the how the alarms, the calendar can tell you            |
 | 29:48      | when you need to leave, you know, wouldn't be cool if it started playing this great, you know,          |
@@ -623,7 +623,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 52:35      | easier to manage for Rosa's mom. She's going to be able to grab data from another application           |
 | 52:42      | without ever understanding the URL callback, which she never would have understood. So it's just,       |
 | 52:49      | I think it's just superior. I want to see how it's implemented and I hope that they don't               |
-| 52:54      | put too many limitations on it. But watching the videos of the sessions at WWDC and my own              |
+| 52:54      | put too many limitations on it. But watching the videos of the sessions at [[WWDC]] and my own              |
 | 53:01      | experimentation with it so far, it's just been all positive for me.                                     |
 | 53:05      | Oh yeah. Yeah, it is really good. And I'm really excited to see what developers are doing with          |
 | 53:09      | this as well. So for example, JSON has got some new actions where you can actually give it JSON         |

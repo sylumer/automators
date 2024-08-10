@@ -516,7 +516,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 36:43      | asking for user input. Exactly. And collecting data. But where are you storing the data?               |
 | 36:49      | In the health application. So if you look in shortcuts, then there is an action to log a               |
 | 36:54      | health sample. And this can log pretty much any kind of health sample. Now a few of the things         |
-| 36:59      | added at WWDC last year, so with iOS 13 are not available. So tooth brushing last I checked was        |
+| 36:59      | added at [[WWDC]] last year, so with iOS 13 are not available. So tooth brushing last I checked was        |
 | 37:07      | not in here. And I'm seeing now that it's also still not here. But you've got all sorts of things      |
 | 37:12      | there. So you can track your protein or potassium or the number of times you've fallen or iodine,      |
 | 37:19      | heart rate variability, headphone, audio levels, all sorts of things. So if you've got a device        |

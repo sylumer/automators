@@ -109,10 +109,10 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 01:18      | Well, I think we can let that slide, right?                                                            |
 | 01:19      | Although, if we're going to talk about [[Drafts]] merch, I am in possession of some [[Drafts]]                 |
 | 01:25      | stickers.                                                                                              |
-| 01:26      | If you've seen me at WWDC and you're a draftsman or a draftswoman or a [[Drafts]] anything, let            |
+| 01:26      | If you've seen me at [[WWDC]] and you're a draftsman or a draftswoman or a [[Drafts]] anything, let            |
 | 01:32      | me know.                                                                                               |
 | 01:33      | I will get you a sticker until I run out.                                                              |
-| 01:35      | I would love to meet some [[Drafts]] unicorns at WWDC if you use [[Drafts]], come and talk                     |
+| 01:35      | I would love to meet some [[Drafts]] unicorns at [[WWDC]] if you use [[Drafts]], come and talk                     |
 | 01:40      | to us.                                                                                                 |
 | 01:41      | We want to talk to you.                                                                                |
 | 01:42      | Well, Tim wrote the review for [MacStories](https://www.macstories.net/), kind of the definitive review of [[Drafts]].                   |

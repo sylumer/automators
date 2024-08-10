@@ -193,7 +193,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 07:44      | Because I do everything in OmniFocus, including my packing lists.                                                  |
 | 07:46      | And what I do is I add a specific tag to everything.                                                               |
 | 07:50      | And this tag is called the packing tag.                                                                            |
-| 07:51      | And most of the time this tag is on hold because, for example, the trip to WWDC,                                   |
+| 07:51      | And most of the time this tag is on hold because, for example, the trip to [[WWDC]],                                   |
 | 07:56      | that's going to happen in June this year, I do not need to see the fact that I need                                |
 | 08:00      | to pack five pairs of socks.                                                                                       |
 | 08:02      | Like right now that is not important in my day to day life.                                                        |

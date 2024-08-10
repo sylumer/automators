@@ -854,7 +854,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 54:54      | You know, when I first started working at Apple, I literally lived across the street                  |
 | 55:00      | from Apple.                                                                                           |
 | 55:01      | And I would basically go into work and every night they had a library over in Building 4.             |
-| 55:09      | They had all of these videos of every WWDC session.                                                   |
+| 55:09      | They had all of these videos of every [[WWDC]] session.                                                   |
 | 55:16      | And they also had the Knowledge Navigator video, the famous Knowledge Navigator video.                |
 | 55:22      | And I would go in there around midnight when nobody else was around.                                  |
 | 55:25      | And I would start by watching the Knowledge Navigator video.                                          |

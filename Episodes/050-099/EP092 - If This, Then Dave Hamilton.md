@@ -1786,7 +1786,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:21:42   | machine.                                                                                                                                                                 |
 | 01:21:43   | However, focus mode will be the catalyst to me upgrading to Monterey here much faster                                                                                    |
 | 01:21:48   | than I usually would.                                                                                                                                                    |
-| 01:21:50   | Basically it's about a week before WWDC is when this machine gets the current upgrade                                                                                    |
+| 01:21:50   | Basically it's about a week before [[WWDC]] is when this machine gets the current upgrade                                                                                    |
 | 01:21:57   | and I think it's going to be January.                                                                                                                                    |
 | 01:21:59   | So, so we'll be about six months ahead of schedule.                                                                                                                      |
 | 01:22:02   | In addition to focus mode though, I created a, or in addition to podcast mode, I created                                                                                 |

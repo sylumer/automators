@@ -66,7 +66,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 00:12      | Hey, David.                                                                                               |
 | 00:13      | How are you today?                                                                                        |
 | 00:14      | I am great, and always looking forward to talking to some automators.                                     |
-| 00:17      | We've got a lot on deck for today's show, but also we are recording this as WWDC is getting               |
+| 00:17      | We've got a lot on deck for today's show, but also we are recording this as [[WWDC]] is getting               |
 | 00:25      | closer, and Apple gives us our annual list of goodies for automation.                                     |
 | 00:30      | We've got some show content planned on that.                                                              |
 | 00:32      | If you've got some big wish, something you'd like to see Apple improve or add to automation,              |
@@ -80,7 +80,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 00:52      | It's always exciting theorising what Apple are going to give us, having those hopes and                   |
 | 00:56      | dreams, which may be granted, or maybe... I'm not going to say smashed, deferred by another               |
 | 01:03      | year, but one of the things that I have noticed, and I'm sure you've noticed this as well,                |
-| 01:08      | David, is Apple, they give us the big stuff at WWDC, but they tell us what's their big                    |
+| 01:08      | David, is Apple, they give us the big stuff at [[WWDC]], but they tell us what's their big                    |
 | 01:13      | stuff that's coming.                                                                                      |
 | 01:15      | Not all of that comes out in September or October, but then other stuff will come in                      |
 | 01:19      | throughout the year as well, even though we weren't expecting it, and we'll talk about                    |
@@ -714,7 +714,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 42:29      | And that's not fixed, which is great.                                                                     |
 | 42:32      | This is not the only thing, but what I've really been, I was quite happy in some ways                     |
 | 42:38      | to see that there weren't really any shortcuts updates in iOS 16.5 because that means that                |
-| 42:46      | the shortcuts team were working super hard and was coming at WWDC.                                        |
+| 42:46      | the shortcuts team were working super hard and was coming at [[WWDC]].                                        |
 | 42:50      | So yeah, that's always exciting when it's like 16.5 is here, but is there a specific                      |
 | 42:57      | shortcut update?                                                                                          |
 | 42:58      | And there are a couple of little tweaks that might be in there, some sort of bug fixes                    |
@@ -730,7 +730,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 43:54      | being able to toggle and out certifications has actually been very, very nice.                            |
 | 43:58      | Yeah, 16.4 was a big update in terms of automation and I think you're right.                              |
 | 44:04      | I think that was kind of the last push for iOS 16 and after that they probably move full                  |
-| 44:10      | time into what we're going to get at the WWDC next month.                                                 |
+| 44:10      | time into what we're going to get at the [[WWDC]] next month.                                                 |
 | 44:15      | But you're right, I also feel like there's a lot of really good quality of life improvements.             |
 | 44:21      | You talked about intercom, I just want to bang the drum on that one more time.                            |
 | 44:25      | I am increasingly fighting excuses to send text to my HomePods.                                          |
@@ -1178,7 +1178,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:13:32   | And as you learn the process of doing that, it'll come natural.                                           |
 | 01:13:37   | If you listen to Automators, you'll figure it out.                                                          |
 | 01:13:39   | And then before you know it, you'll start making more.                                                    |
-| 01:13:42   | Boy, I sure hope one of the announcements we get at WWDCs, they give us more than 10                      |
+| 01:13:42   | Boy, I sure hope one of the announcements we get at [[WWDC\|WWDCs]], they give us more than 10                      |
 | 01:13:47   | focus modes.                                                                                              |
 | 01:13:48   | But I'm an edge case.                                                                                     |
 | 01:13:52   | I think a lot of people are just fine with just a couple, you know, two or three of them.                 |

@@ -418,7 +418,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 22:00      | In May of this year, I think pretty much every weekend I was on the road.                                                                                        |
 | 22:05      | I believe I had one weekend off, but I was literally going, coming back, going, coming                                                                           |
 | 22:09      | back, going, coming back.                                                                                                                                        |
-| 22:11      | And then I had a little while and I went to WWDC.                                                                                                                |
+| 22:11      | And then I had a little while and I went to [[WWDC]].                                                                                                                |
 | 22:16      | And so that's the sort of thing where you can't leave planning your packing list until                                                                           |
 | 22:21      | right before you go, because otherwise, guess what, you won't have the laundry done.                                                                             |
 | 22:26      | And for that end, I needed, and this wasn't possible until iOS 13, I believe, the ability                                                                        |
@@ -502,7 +502,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 26:24      | And I'm sure it's possible.                                                                                                                                      |
 | 26:25      | And I'm pretty sure it's on the, the shortcuts team radar that they want, they want to integrate                                                                 |
 | 26:29      | this.                                                                                                                                                            |
-| 26:30      | But they've, they've been getting a lot of things done since WWDC.                                                                                               |
+| 26:30      | But they've, they've been getting a lot of things done since [[WWDC]].                                                                                               |
 | 26:33      | I've, I've had a lot of feedback on my feedback.                                                                                                                 |
 | 26:36      | So I know that they're working hard.                                                                                                                             |
 | 26:38      | Yeah.                                                                                                                                                            |

@@ -52,7 +52,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | :--------- | :------------------------------------------------------------------------------------------------------------------------ |
 | 00:00      | Welcome to The Automators. I'm David Sparks, and I'm joined by my co-host, Rosemary Orchard.                              |
 | 00:07      | How are you, Rosemary?                                                                                                    |
-| 00:09      | Oh, I'm excited, David. WWDC happened. There was an impulse purchase on my end. Yeah,                                     |
+| 00:09      | Oh, I'm excited, David. [[WWDC]] happened. There was an impulse purchase on my end. Yeah,                                     |
 | 00:16      | things are exciting in a very good way.                                                                                   |
 | 00:19      | Yeah, I mean, once a year, Apple unwraps the Christmas presents for us, and as automators,                                |
 | 00:24      | we're always on the lookout for new stuff, and this year they deliver it again.                                           |
@@ -115,7 +115,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 04:20      | and then use your iPad with through like remote desktop to go in and run Mac stuff                                        |
 | 04:27      | off your iPad like it was a laptop.                                                                                       |
 | 04:29      | Yeah, and honestly, my plan for many things is absolutely still that.                                                     |
-| 04:34      | I was hoping a little bit more for more developer-y targeted announcements at WWDC.                                       |
+| 04:34      | I was hoping a little bit more for more developer-y targeted announcements at [[WWDC]].                                       |
 | 04:43      | So, you know, being able to run a standard terminal on my iPad would be great,                                            |
 | 04:48      | but there are apps for that like Secure Shellfish, Prompt from Panic,                                                     |
 | 04:52      | things like that, all of which work great.                                                                                |
@@ -278,7 +278,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 13:46      | Yeah, I think I've definitely met both of them from the shortcuts is coming to Mac OS                                     |
 | 13:52      | session Ayaka and Ian.                                                                                                    |
 | 13:53      | And I mean, they're lovely people in person.                                                                              |
-| 13:55      | And I'm really glad to see, you know, that they are, you know, at WWDC presenting, you                                    |
+| 13:55      | And I'm really glad to see, you know, that they are, you know, at [[WWDC]] presenting, you                                    |
 | 14:01      | know, it's online this year, but hopefully next year there will be in person as well.                                     |
 | 14:05      | Because I would love to meet the entire team again and congratulate them because clearly                                  |
 | 14:10      | this is a huge step.                                                                                                      |
@@ -320,7 +320,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 16:18      | So that that that was a challenge, but I tweeted some people and a lot of people are tweeted                              |
 | 16:24      | back saying, yeah, I've already got, you know, a draft build of this, but, you know, theoretically                        |
 | 16:28      | running on the current macOS beta, which considering the fact that this is like two days after                            |
-| 16:33      | WWDC, I was stunned.                                                                                                      |
+| 16:33      | [[WWDC]], I was stunned.                                                                                                      |
 | 16:36      | And, you know, and other people say that I'm working on our plan to do it and things like                                 |
 | 16:41      | that. So I'm very excited because of course this means that, you know, we're going to                                     |
 | 16:46      | have some of these apps that we already use and enjoy on, you know, on all of our platforms                               |
@@ -1244,7 +1244,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:11:03   | They built a Mac app, they added a bunch of new actions.                                                                  |
 | 01:11:06   | I mean, they've really come a long way with this.                                                                         |
 | 01:11:08   | I mean, you say that, David, but I believe it was Ayaka who mentioned it in the shortcuts                                 |
-| 01:11:13   | for Mac WWDC video, which everybody can get in the developer app.                                                         |
+| 01:11:13   | for Mac [[WWDC]] video, which everybody can get in the developer app.                                                         |
 | 01:11:18   | By the way, for free, you can watch this video.                                                                           |
 | 01:11:21   | She said that it's built, so the Mac OS application is built in [[SwiftUI]] for cross-platform functionality.                |
 | 01:11:29   | So hopefully it's all the same code under the hood, which will make bug fixing much                                       |
@@ -1338,7 +1338,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:16:18   | What a year.                                                                                                              |
 | 01:16:20   | I didn't expect this much automation this year but we got it.                                                             |
 | 01:16:25   | The Mac thing started to feel like it was going to happen towards the end as we approached                                |
-| 01:16:29   | WWDC but that could have gone a lot of ways.                                                                              |
+| 01:16:29   | [[WWDC]] but that could have gone a lot of ways.                                                                              |
 | 01:16:33   | It could have been really ugly if they didn't do it with care and fortunately they did do                                 |
 | 01:16:39   | it with care.                                                                                                             |
 | 01:16:40   | It's not only did we keep our traditional tools.                                                                          |

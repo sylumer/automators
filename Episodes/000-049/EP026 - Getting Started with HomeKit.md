@@ -66,7 +66,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 00:07      | is the podcast where we talk about how to get your technology to do all of your work                     |
 | 00:11      | for you. Hello, David.                                                                                   |
 | 00:13      | Hello, Rose. How are you today?                                                                          |
-| 00:15      | Well, we've got a little bit of follow-up from our WWDC episode, actually, as it turns                   |
+| 00:15      | Well, we've got a little bit of follow-up from our [[WWDC]] episode, actually, as it turns                   |
 | 00:20      | out.                                                                                                     |
 | 00:21      | Yeah, Rose versus the Leaf Chapter 2?                                                                    |
 | 00:23      | Yeah, Rose versus the Leaf Chapter 2. So last time, when we recorded, we were in person                  |
@@ -555,7 +555,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that Lutron             |
 | 36:51      | has purchased its own space in the broadcast spectrum. You know, one of the big issues                   |
 | 36:58      | with all this home automation stuff, just another related conversation I had last week                   |
-| 37:03      | in San Jose when we were at WWDC was I talked to someone on one of the platforms, not Home               |
+| 37:03      | in San Jose when we were at [[WWDC]] was I talked to someone on one of the platforms, not Home               |
 | 37:09      | Kit, but one of the major platforms was there. And I talked to one of their software developers          |
 | 37:14      | and he was explaining that, you know, the big problem is interference in the signal.                     |
 | 37:18      | You know, there's a very limited amount of spectrum that these devices are broadcasting                  |
@@ -704,7 +704,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 48:45      | have to run a bunch of wires. I'm not sure they're entirely responsive. I feel like                      |
 | 48:49      | if someone just kind of runs up to the door and then leaves real quick, I'm not sure it's                |
 | 48:53      | going to capture them. I don't think it's a complete solution. And honestly, when Apple                  |
-| 48:58      | was talking at WWDC saying we're making this new system for cameras to make it ultimate,                 |
+| 48:58      | was talking at [[WWDC]] saying we're making this new system for cameras to make it ultimate,                 |
 | 49:04      | you know, ultra secure and really protect the video of your home, I was really hoping                    |
 | 49:09      | Apple would say, and we have a camera that we're making that you can trust, you know,                    |
 | 49:14      | but they didn't. Instead, they're going to third party vendors. And honestly, it's a                     |
@@ -806,7 +806,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 57:03      | onto everybody's iPhone and iPad that's capable of this, or rather iPad OS will get pushed onto          |
 | 57:08      | everybody's iPad that's capable of this. And we're going to see some differences there just              |
 | 57:15      | because Apple like to try and improve the stuff every year. So why not?                                  |
-| 57:22      | Yeah. We talked about it in the WWDC show, but let's just talk about this in terms of home               |
+| 57:22      | Yeah. We talked about it in the [[WWDC]] show, but let's just talk about this in terms of home               |
 | 57:28      | automation. But with the new version of Siri shortcuts, they have effectively included                   |
 | 57:35      | all of the home automation routines with Siri shortcuts. And you combine that with all these             |
 | 57:42      | great new triggers like when you plug into your, what about when you plug into your car                  |

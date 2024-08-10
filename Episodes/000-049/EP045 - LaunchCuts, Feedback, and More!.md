@@ -606,12 +606,12 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 49:41      | and I won't get to hang out for a week again like we usually do. Yeah. But Apple still has to release  |
 | 49:47      | iOS 14 and whatever comes after Catalina on the Mac and share all the stuff they've been working on    |
 | 49:53      | for the last year. I suspect if they, you know, that we'll get like a, it'll just be a virtual         |
-| 49:59      | WWDC this year. Yeah. Yeah. I think John Gerber called it. There'll be a small press event for,        |
+| 49:59      | [[WWDC]] this year. Yeah. Yeah. I think John Gerber called it. There'll be a small press event for,        |
 | 50:06      | you know, what would be the main keynote. And then that'll be it. And everything else will be online.  |
 | 50:12      | And so I'm sure that people who have been working on all of these features all year are going to       |
 | 50:19      | be sad to miss out on the opportunity of actually getting to talk to the people who are then going     |
 | 50:23      | to implement this stuff into their apps. But I think, you know, it seems highly likely to me that      |
-| 50:32      | WWDC won't go ahead and it will be held virtually. If it does happen, then I'll quite happily hop on   |
+| 50:32      | [[WWDC]] won't go ahead and it will be held virtually. If it does happen, then I'll quite happily hop on   |
 | 50:38      | a plane, come see David. We can go off to Disney again. That was good fun last year. But if not,       |
 | 50:44      | then I'll have to hold out for Mac stock for my personal note fix for some of some of my friends.      |
 | 50:49      | Assuming Disney's open. Yes, that's a good point. So, but, but we're automators. And I just thought    |
@@ -689,7 +689,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 57:37      | anything we can do to make it easier for those developers to add that. I would love that.              |
 | 57:42      | Yes, absolutely. And I've been looking at adding shortcuts to some things recently. And it's like,     |
 | 57:46      | okay, I have no idea where to get started. But that's because I'm not yet an iOS developer,            |
-| 57:51      | something I'm still working on. Well, I watched the WWDC session on it.                                |
+| 57:51      | something I'm still working on. Well, I watched the [[WWDC]] session on it.                                |
 | 57:55      | They had a they had it's in last year's sessions. It really didn't look that hard.                     |
 | 58:00      | I think it's not that hard if you wrote the app that you're trying to do this for.                     |
 | 58:05      | And that's my problem. I didn't actually write the app. And it took me a while to figure out           |

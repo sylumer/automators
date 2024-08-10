@@ -420,7 +420,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 22:25      | FM.                                                                                                     |
 | 22:26      | All right, Rose, before we get into what we're doing with focus mode, let's just talk about             |
 | 22:33      | iOS 16 and focus modes.                                                                                 |
-| 22:36      | I mentioned this briefly on the show during WWDC, but I feel like now that it's shipped                 |
+| 22:36      | I mentioned this briefly on the show during [[WWDC]], but I feel like now that it's shipped                 |
 | 22:41      | we've got a much better idea of all the improvements to focus modes with iOS 16.                        |
 | 22:48      | Where do you want to start?                                                                             |
 | 22:50      | I want to start with the Sherlock Shortcuts Actions, which, to be clear, are still present              |
