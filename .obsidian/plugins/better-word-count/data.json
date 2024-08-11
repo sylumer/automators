@@ -9,18 +9,8 @@
       }
     },
     {
-      "prefix": " ",
-      "suffix": " characters",
-      "metric": {
-        "type": 0,
-        "counter": 1
-      }
-    }
-  ],
-  "altBar": [
-    {
       "prefix": "",
-      "suffix": " files",
+      "suffix": "files",
       "metric": {
         "type": 2,
         "counter": 6
@@ -28,15 +18,16 @@
     },
     {
       "prefix": "",
-      "suffix": "",
+      "suffix": "words in vault",
       "metric": {
         "type": 2,
         "counter": 0
       }
     }
   ],
+  "altBar": [],
   "countComments": false,
-  "collectStats": false,
+  "collectStats": true,
   "displaySectionCounts": false,
   "pageWords": 300,
   "statsPath": ".obsidian/vault-stats.json"
