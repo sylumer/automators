@@ -1,0 +1,43 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " words",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": " ",
+      "suffix": " characters",
+      "metric": {
+        "type": 0,
+        "counter": 1
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " files",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    }
+  ],
+  "countComments": false,
+  "collectStats": false,
+  "displaySectionCounts": false,
+  "pageWords": 300,
+  "statsPath": ".obsidian/vault-stats.json"
+}
