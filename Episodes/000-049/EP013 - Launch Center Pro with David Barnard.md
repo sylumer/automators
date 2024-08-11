@@ -601,19 +601,19 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 26:49      | So I just set the phone into that stand as I sit down                |
 | 26:53      | and I just put that, I went, I committed,                            |
 | 26:56      | I just put the sticker right in the stand there.                     |
-| 26:58      | And when I put it in now, it opens up day one                        |
+| 26:58      | And when I put it in now, it opens up [[Day One]]                        |
 | 27:02      | because the writing desk is where I do a lot of my like              |
 | 27:05      | diary type entries.                                                  |
-| 27:07      | And I found I wasn't using day one enough,                           |
+| 27:07      | And I found I wasn't using [[Day One]] enough,                           |
 | 27:09      | but now I get this constant reminder.                                |
-| 27:11      | I sit down, it opens day one for me immediately.                     |
-| 27:14      | And it does prompt me to use day one more often.                     |
+| 27:11      | I sit down, it opens [[Day One]] for me immediately.                     |
+| 27:14      | And it does prompt me to use [[Day One]] more often.                     |
 | 27:19      | And that's just a very simple use.                                   |
 | 27:22      | I could actually, as we were sitting there thinking about it,        |
 | 27:25      | I could tie it to a Siri shortcut.                                   |
 | 27:27      | That starts the, you know, diary timer,                              |
 | 27:30      | maybe puts it in do not disturb mode                                 |
-| 27:32      | and then opens day one.                                              |
+| 27:32      | and then opens [[Day One]].                                              |
 | 27:34      | Currently, I just have it launching the application.                 |
 | 27:37      | But that, you know, that's just an example for me                    |
 | 27:40      | for something that I wanted to become more deliberate about          |

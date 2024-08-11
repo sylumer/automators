@@ -317,7 +317,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 16:34      | So you know, if you want to, then you can take it a step further with the automation                    |
 | 16:38      | server, which is where you have an iOS device that's just sitting there all the time running            |
 | 16:42      | push cut in the automation server mode, and it will then run shortcuts, and it can run                  |
-| 16:47      | shortcuts automatically at certain times, it can run shortcuts when [[IFTTT\If This Then That]]                    |
+| 16:47      | shortcuts automatically at certain times, it can run shortcuts when [[IFTTT\|If This Then That]]                    |
 | 16:51      | [[Zapier]], [[Make]], just tell it to based on information that happens, or when you call an API yourself.       |
 | 17:00      | And it can then automatically update your widgets for you.                                              |
 | 17:03      | So I've got a couple of widgets that are based on upcoming calendar events, you know, I'm               |
@@ -625,7 +625,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 36:36      | You know, are they, like they'll, they'll talk to a thing.                                              |
 | 36:39      | And if it says, hey, everything's great, then it'll continue.                                           |
 | 36:42      | And if it goes, I don't know, something's wrong, then it's probably actually, you know,                 |
-| 36:47      | it's [[Zapier]], [[IFTTT\If This Then That]], [[Make]] all stop, unless you explicitly say continue anyway,                 |
+| 36:47      | it's [[Zapier]], [[IFTTT\|If This Then That]], [[Make]] all stop, unless you explicitly say continue anyway,                 |
 | 36:51      | if there's an error, [[Keyboard Maestro]] is the same.                                                       |
 | 36:53      | If you don't say just continue regardless of an error, it'll stop at the point where                    |
 | 36:58      | it runs into a problem and just go, I can't deal with that.                                             |

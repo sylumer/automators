@@ -1009,15 +1009,15 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 41:03      | I think is its simplicity.                                                                                                                                               |
 | 41:05      | It is very easy to get into that.                                                                                                                                        |
 | 41:07      | If you're listening, you haven't tried it.                                                                                                                               |
-| 41:09      | Just go IFTTTt.com, set up an account                                                                                                                                      |
+| 41:09      | Just go ifttt.com, set up an account                                                                                                                                      |
 | 41:12      | and just try to make a few basic ones                                                                                                                                    |
 | 41:14      | because even now they've added multiple conditions,                                                                                                                      |
 | 41:17      | which is great, which is what we all wanted.                                                                                                                             |
 | 41:19      | But even just the single condition ones,                                                                                                                                 |
-| 41:21      | I have used IFTTTt this than that extensively with my day one.                                                                                                             |
+| 41:21      | I have used If This Then That extensively with my [[Day One]].                                                                                                             |
 | 41:26      | Every time I put a new blog post up at MacSparky,                                                                                                                       |
 | 41:30      | it grabs the post from the feed                                                                                                                                          |
-| 41:32      | and it creates an entry in day one.                                                                                                                                      |
+| 41:32      | and it creates an entry in [[Day One]].                                                                                                                                      |
 | 41:34      | I've got this running diary of blog posts.                                                                                                                               |
 | 41:38      | I do the same thing with tweets that I favourite.                                                                                                                         |
 | 41:41      | I don't favor it very many,                                                                                                                                              |

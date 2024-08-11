@@ -421,7 +421,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 14:47      | and it is extensible,                                                           |
 | 14:49      | which means it's got things like if this and that                               |
 | 14:50      | and Zapier support, and you can take those reports                              |
-| 14:54      | and put them into day one,                                                      |
+| 14:54      | and put them into [[Day One]],                                                      |
 | 14:56      | but if there's some that if you wanted to.                                      |
 | 14:58      | And this is automated again.                                                    |
 | 14:59      | So if you're using it, then it can say,                                         |

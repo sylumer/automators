@@ -1121,8 +1121,8 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 43:21      | literally tying things together,                                               |
 | 43:24      | it works very well for me.                                                     |
 | 43:26      | Yeah.                                                                          |
-| 43:27      | Are any of you using If This, Then That at this point?                         |
-| 43:30      | I started out using If This, Then That,                                        |
+| 43:27      | Are any of you using [[IFTTT\|If This Then That]] at this point?                         |
+| 43:30      | I started out using [[IFTTT\|If This Then That]],                                        |
 | 43:33      | and I don't think anything is currently actively running on mine.              |
 | 43:38      | I do have some recipes set up,                                                 |
 | 43:40      | and they might just be feeding into something so old                           |
@@ -1130,25 +1130,25 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 43:45      | Yeah, the one that keeps me in that,                                           |
 | 43:47      | because I'm using all three of them,                                           |
 | 43:49      | because I can't handle myself,                                                 |
-| 43:51      | but they've got the day one trigger,                                           |
-| 43:54      | and If This, Then That, and I like day one,                                    |
+| 43:51      | but they've got the [[Day One]] trigger,                                           |
+| 43:54      | and [[IFTTT\|If This Then That]], and I like [[Day One]],                                    |
 | 43:56      | and there's so much you can feed it through their service.                     |
 | 44:00      | I wish that some of these other competing surfaces                             |
-| 44:03      | would also get a day one action.                                               |
+| 44:03      | would also get a [[Day One]] action.                                               |
 | 44:06      | Oh, you know what?                                                             |
 | 44:07      | Come to think of it,                                                           |
-| 44:08      | that is one that I'm using is actually a day one,                              |
-| 44:10      | because I have an If This, Then That recipe                                    |
+| 44:08      | that is one that I'm using is actually a [[Day One]],                              |
+| 44:10      | because I have an [[IFTTT\|If This Then That]] recipe                                    |
 | 44:13      | that pulls my rescue time,                                                     |
 | 44:16      | so it tracks how much time I spent on my phone                                 |
 | 44:19      | on my computer and my sleep from my auto sleep app,                            |
-| 44:24      | and it puts those into a day one journal entry.                                |
-| 44:27      | So I have like a day one journal                                               |
+| 44:24      | and it puts those into a [[Day One]] journal entry.                                |
+| 44:27      | So I have like a [[Day One]] journal                                               |
 | 44:29      | that just has how much time I spent on my computer                             |
 | 44:31      | and how much time I spent sleeping,                                            |
 | 44:33      | which are kind of my two primary metrics in life right now.                    |
 | 44:36      | Fair enough.                                                                   |
-| 44:37      | I have If This, Then That accounts,                                            |
+| 44:37      | I have [[IFTTT\|If This Then That]] accounts,                                            |
 | 44:39      | so I just checked,                                                             |
 | 44:40      | and my applets are currently disabled,                                         |
 | 44:43      | because I can do everything that I was doing,                                  |
@@ -1162,7 +1162,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 45:07      | and that's how we update things                                                |
 | 45:09      | to make sure that all the things,                                              |
 | 45:11      | all of the new options stay available.                                         |
-| 45:13      | So day one probably could integrate                                            |
+| 45:13      | So [[Day One]] probably could integrate                                            |
 | 45:16      | with [[Make]] and [[Zapier]] if they wanted to.                                |
 | 45:19      | I'm guessing they just don't have the resources                                |
 | 45:21      | within their team to be able to do that at the moment,                         |

@@ -416,7 +416,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 33:20      | about this and I've talked about this a couple of times on iOS today because people have no idea                                 |
 | 33:24      | exist but if you think if you go into the health app it's there and then there's um and there's a                                |
 | 33:29      | toggle inside of editing each shortcut to add it to that screen as well but some of these are just                               |
-| 33:34      | things like you know open day one to log a journal and things like that um and I think I have a                                  |
+| 33:34      | things like you know open [[Day One]] to log a journal and things like that um and I think I have a                                  |
 | 33:39      | shortcut to that page which is of course always very meta of it's just a deep link to that one                                   |
 | 33:48      | in the show notes so people can jump straight to that section but I really like it for things like                               |
 | 33:52      | playing my rain sound so that it plays and it checks my wi-fi network first and if I'm at home                                   |

@@ -647,8 +647,8 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 38:27      | And like I said, it's a subpar experience.                                                            |
 | 38:30      | They're not terrible.                                                                                 |
 | 38:32      | Some of the iPad apps work fine.                                                                      |
-| 38:33      | I feel like the day one app works pretty good, but the cat, you know, when you have a native          |
-| 38:38      | vision OS app, it's just a better experience when you're in that headset.                             |
+| 38:33      | I feel like the [[Day One]] app works pretty good, but the cat(ch), you know, when you have a native          |
+| 38:38      | visionOS app, it's just a better experience when you're in that headset.                             |
 | 38:42      | And it's just a little surprising to me, like I can almost forgive shortcuts because of               |
 | 38:48      | the nature of the application, but I feel like the productivity apps should have been                 |
 | 38:52      | there.                                                                                                |

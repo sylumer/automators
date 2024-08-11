@@ -347,21 +347,21 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 29:30      | moves everything from the past week that hasn't been tagged, flagged, or put into,                      |
 | 29:39      | oh yeah, just tagged or flagged, that's still in the inbox and archives it. Because I, you know,        |
 | 29:46      | you know, [[Drafts]] is my inbox now, unlike OmniFocus. And it also works sort of in conjunction            |
-| 29:58      | with shortcuts in day one, in that I have a number of templates for, and I actually don't               |
-| 30:05      | know how this works, but I have a template that sends something to day one, and it might involve        |
+| 29:58      | with shortcuts in [[Day One]], in that I have a number of templates for, and I actually don't               |
+| 30:05      | know how this works, but I have a template that sends something to [[Day One]], and it might involve        |
 | 30:11      | Zapier in that, but I'm not sure. Because again, there's duct tape over it, but I don't really          |
 | 30:19      | know what's going on underneath there. I think your, this was built after you did the Automator's       |
 | 30:26      | episode about journalling, because that's another thing that I was never able to get into until          |
 | 30:33      | something basically could journal for me. I could vomit the thoughts, and then it would do its thing,   |
 | 30:40      | like put the dates out, and all I need to do is jot down a thought, tag it, and then it is all          |
-| 30:47      | pretty when I go and go back to, like, look through my day one journal throughout the year,             |
+| 30:47      | pretty when I go and go back to, like, look through my [[Day One]] journal throughout the year,             |
 | 30:53      | and like, ah, this actually makes sense. Yeah, I'm guessing if you're doing it over the web,            |
-| 30:58      | it's IFTTT, because they have really good integration with day one, and so there's a single             |
-| 31:04      | action. But also, day one has a [[URL Schemes\|URL scheme]], so an easy way to, because I'd use some draft               |
-| 31:11      | entries via day one, and I don't send them to the internet, I just use their [[URL Schemes\|URL scheme]],                |
+| 30:58      | it's IFTTT, because they have really good integration with [[Day One]], and so there's a single             |
+| 31:04      | action. But also, [[Day One]] has a [[URL Schemes\|URL scheme]], so an easy way to, because I'd use some draft               |
+| 31:11      | entries via [[Day One]], and I don't send them to the internet, I just use their [[URL Schemes\|URL scheme]],                |
 | 31:16      | and it just, you know, drops it right in. It even puts it in the appropriate journal,                   |
 | 31:22      | because I have like 10 of them. I have too many journals, but so I have a draft where it takes          |
-| 31:27      | the draft text and runs a [[URL Schemes\|URL scheme]] to send it into day one. Yeah, I'd be curious. Keep writing        |
+| 31:27      | the draft text and runs a [[URL Schemes\|URL scheme]] to send it into [[Day One]]. Yeah, I'd be curious. Keep writing        |
 | 31:34      | that down. Yeah, well, it's, I'll send it to you. I'll put it in the show notes. I'll tell you,         |
 | 31:38      | I'll, maybe I'll do a post on it or something, but the, it's not, it's not that hard to use it,         |
 | 31:45      | but it is a much better platform to get quick text and then send it there. But I want to wind           |
@@ -471,7 +471,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 43:44      | allow me to tweet if it has too many swear words or something that will get me in trouble.              |
 | 43:49      | So you've basically built your own personal filtering system. So instead of having to have              |
 | 43:53      | somebody sit there and go, don't do that. It does it for you. I can think of some other people who      |
-| 43:58      | might need this. I know people who do something similar in day one where they just have a,              |
+| 43:58      | might need this. I know people who do something similar in [[Day One]] where they just have a,              |
 | 44:03      | like one of their journals is just called fake Twitter. And I'm like, I should probably                 |
 | 44:09      | do that and just put all of my bad, one of my tags is bad takes. And that just goes away and            |
 | 44:16      | is deleted after a week. Yeah. As a lawyer, occasionally, some other lawyer will do some                |

@@ -1483,7 +1483,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 01:03:17   | I just fire it off and I'm done.                                                         |
 | 01:03:19   | I can go back to bed and sleep and get better.                                           |
 | 01:03:22   | I've got one for movie reviews.                                                          |
-| 01:03:24   | You know, so when I see a movie, I save it to day one                                    |
+| 01:03:24   | You know, so when I see a movie, I save it to [[Day One]]                                    |
 | 01:03:27   | and I have a little snippet that I fill in.                                              |
 | 01:03:30   | It's kind of fun to go back and look at it in later years                                |
 | 01:03:33   | and see what I thought of that movie when I saw it.                                      |

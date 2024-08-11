@@ -479,7 +479,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 33:47      | results, sometimes very interesting results. I'm sure I've created many new words by doing this.        |
 | 33:53      | But in general, at the moment, I'm just taking a photograph of these things. And depending              |
 | 33:56      | on what it is, it might get attached to a task in OmniFocus or get put into [[DEVONthink]],              |
-| 34:01      | or even occasionally these things end up in day one. But a lot of the time I take a photo as            |
+| 34:01      | or even occasionally these things end up in [[Day One]]. But a lot of the time I take a photo as            |
 | 34:07      | reference and then convert it to whatever its finished format is at some point.                         |
 | 34:12      | Yeah, that's what I do too. The only people that ever see those are me, because if you saw them,        |
 | 34:17      | you'd think it was like the scribblings of a crazy man. But a lot of times, it's a good                 |
@@ -614,13 +614,13 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 46:02      | you know, when did I last replace my content lens case? Instead of actually doing that right now,       |
 | 46:07      | I can, you know, I look at these and I add my extra ideas that are created thanks to reviewing          |
 | 46:13      | my completed actions back into my OmniFocus and then I take my completed actions and anything           |
-| 46:19      | that's not a routine task. So if it doesn't have a routine tag, then that gets put into day one for     |
+| 46:19      | that's not a routine task. So if it doesn't have a routine tag, then that gets put into [[Day One]] for     |
 | 46:25      | me so that I can look back and go, hey, I did stuff today. Yeah, see that part doesn't appeal to me     |
 | 46:30      | of like journalling everything I checked off today. Yeah, I don't journal everything. So I have,         |
 | 46:37      | I have a fairly fine grain set of filters. So specifically, you know, like things that are              |
 | 46:42      | related to different areas of my life do get filtered, but stuff that I do at work, well,               |
 | 46:46      | you know, that's, that's all locked at work. They need to know that, but I don't need that in my        |
-| 46:50      | day one. Thank you very much. That's fine. No, I mean, I totally get, and I think it could be           |
+| 46:50      | [[Day One]]. Thank you very much. That's fine. No, I mean, I totally get, and I think it could be           |
 | 46:54      | something, it's totally legitimate use of the data. And I think there's a lot of people like it.        |
 | 46:58      | But for me, I just don't want to do that. But the, and I was thinking it was silly when you're          |
 | 47:03      | telling me about, but then I got thinking, it's like so often, so I bill for my time as a lawyer.       |
@@ -644,11 +644,11 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 48:35      | time frame. And then you're giving it back to yourself as a text list or how are you reporting          |
 | 48:40      | the data out of shortcuts? So what I'm doing at the moment is I repeat with each on all of these        |
 | 48:48      | actions. And I just ask myself for input and then send that back to OmniFocus. And I'm still fine       |
-| 48:53      | tuning exactly how I'm filtering that so that I can then send the right information to day one,         |
-| 48:58      | because I would actually like to put different chunks of information into different day one             |
-| 49:03      | journals. But I definitely don't want a day one entry for every single task that I've completed.        |
+| 48:53      | tuning exactly how I'm filtering that so that I can then send the right information to [[Day One]],         |
+| 48:58      | because I would actually like to put different chunks of information into different [[Day One]]             |
+| 49:03      | journals. But I definitely don't want a [[Day One]] entry for every single task that I've completed.        |
 | 49:10      | That is the one thing I do not want it under any circumstances. It would be a great way to fill         |
-| 49:16      | up day one. And it would make me look like I'm a very prolific journaler, which I'm not. I wish I       |
+| 49:16      | up [[Day One]]. And it would make me look like I'm a very prolific journaler, which I'm not. I wish I       |
 | 49:21      | was, but it's one of those things where I'm there going, okay, yeah, so I need to figure this out.      |
 | 49:26      | And I didn't want to be running the find actions or find items action multiple time. But I think        |
 | 49:34      | I'm just going to stick with doing that for now, because it's not that complex to do so.                |

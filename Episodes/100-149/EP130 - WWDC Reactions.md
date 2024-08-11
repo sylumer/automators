@@ -741,7 +741,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:02:18   | going to die. He said, it's my, my whole, you know, my adrenaline system, everything kicked in            |
 | 01:02:24   | because my brain was completely fooled, you know, and that, that's what I like here. I mean, not          |
 | 01:02:30   | that I don't want David to be scared, but I just, you know, the idea that I could be at a cabin           |
-| 01:02:34   | at the top of a mountains or somewhere in Yosemite writing a day one draft and I would, I              |
+| 01:02:34   | at the top of a mountains or somewhere in Yosemite writing a [[Day One]] draft and I would, I              |
 | 01:02:39   | would be very comfortable doing that. So, so I'm excited about it too, but you know, there's a lot        |
 | 01:02:44   | to be said and I do think though, as an automator, I think we're going to find ways to automate this      |
 | 01:02:50   | thing. If anybody does, it'll be you and me, Rose. Yeah. I'm really hoping that I'm going to be able      |

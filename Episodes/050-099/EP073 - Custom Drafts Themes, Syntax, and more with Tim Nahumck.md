@@ -642,7 +642,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 50:08      | as you want. So in this case, you said it's your journal. So you want it to look nice                |
 | 50:12      | as it goes into this PDF file.                                                                       |
 | 50:14      | Well, actually, the funny thing is it does format pretty well. And it really mimics what             |
-| 50:22      | I had in day one. So I used to use day one years ago. There were some security things                |
+| 50:22      | I had in [[Day One]]. So I used to use [[Day One]] years ago. There were some security things                |
 | 50:30      | that happened that I particularly was not a fan of. And so I moved that to my own solution           |
 | 50:36      | within [[Drafts]] at the time. But now, you know, I look at the value of what I have in [[Drafts]]           |
 | 50:41      | where it saves me from a couple of different subscriptions with other apps, writing apps,            |

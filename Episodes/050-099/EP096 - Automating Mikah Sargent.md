@@ -641,7 +641,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 36:55      | I'll just write down like a few words in text summarising what I'm like, if I'm writing                 |
 | 37:02      | about a journal entry about, you know, my goals of 2022, I'll just write goals for 2022                 |
 | 37:09      | in text.                                                                                                |
-| 37:10      | And then when I search day one, it'll find that text and then I can read the entry, which               |
+| 37:10      | And then when I search [[Day One]], it'll find that text and then I can read the entry, which               |
 | 37:14      | is very much a hack, you know.                                                                          |
 | 37:17      | But anyway, well, that's cool.                                                                          |
 | 37:20      | We now everybody's looking at the rocket book.                                                          |
@@ -1119,7 +1119,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:21:41   | said. Keep web stuff on the web and keep local stuff local and bridge the gap between the two           |
 | 01:21:47   | carefully. Yeah, like Rose, I use them all. I mean, I make a podcast called The Automator,              |
 | 01:21:52   | so go figure, right? But I do find that there are certain services that work better with one            |
-| 01:21:58   | service over the other. I mentioned day one earlier, their IFTTT integration is really good.            |
+| 01:21:58   | service over the other. I mentioned [[Day One]] earlier, their IFTTT integration is really good.            |
 | 01:22:05   | So that's one of the things I do in IFTTT. And I just kind of go to the tool that works the best.       |
 | 01:22:11   | And that's not really a good answer, because you shouldn't have to subscribe to three of these.         |
 | 01:22:17   | Right, right. But they all have their uses. But like you, I am also leery of local-based                |

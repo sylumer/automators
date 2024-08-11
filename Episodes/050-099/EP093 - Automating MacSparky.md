@@ -1303,7 +1303,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:16:19   | I want to go a little deeper on web automation, Rose.                                                  |
 | 01:16:23   | Which vendor do you think I should be working with right now?                                          |
 | 01:16:26   | Like, for instance, I have a paid IFTTT account and right now it is the two things it's doing          |
-| 01:16:33   | for me is it's capturing a lot of data into my day one journal.                                        |
+| 01:16:33   | for me is it's capturing a lot of data into my [[Day One]] journal.                                        |
 | 01:16:36   | Yeah.                                                                                                  |
 | 01:16:37   | It continues to be very good at that.                                                                  |
 | 01:16:39   | If I favourite a tweet, if I write a post at Max Barkley, all that gets saved to my day                 |

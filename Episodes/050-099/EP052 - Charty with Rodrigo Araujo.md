@@ -218,7 +218,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 10:01      | I bought it instantly and started creating stuff with it because I already like to use                 |
 | 10:06      | [[Launch Center Pro]] and this gets me to how I started building automations in the UOS.                   |
 | 10:15      | It was around 2014 I guess that someone discovered we could use Launch Center Pro early, menu          |
-| 10:23      | building actions to create a sort of questionnaire to automate daily logs to day one.                  |
+| 10:23      | building actions to create a sort of questionnaire to automate daily logs to [[Day One]].                  |
 | 10:32      | So you will obviously remember this.                                                                   |
 | 10:35      | So I created a small questionnaire with seven questions and I was feeling them every day.              |
 | 10:42      | I guess I did it for almost two years.                                                                 |
@@ -226,7 +226,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 10:47      | I can see that this shortcut, it wasn't a shortcut at the time, it prompted me to                      |
 | 10:52      | ask seven questions and then showed me a text box asking me if I had any longer thoughts               |
 | 10:58      | about the day.                                                                                         |
-| 11:00      | And then created a nice markdown form at the table in day one and it's great to see what               |
+| 11:00      | And then created a nice markdown form at the table in [[Day One]] and it's great to see what               |
 | 11:08      | I was thinking.                                                                                        |
 | 11:09      | I was going through it yesterday preparing for the show and it's great to see what I                   |
 | 11:13      | was thinking back in 2014 and 2015.                                                                    |
@@ -283,7 +283,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 13:48      | that's okay because they don't need the data, they just want the chart, but you, you have              |
 | 13:52      | to decide how you're going to store your data.                                                         |
 | 13:54      | And in some cases, as you found, it's great to go back and look at a couple of years entries           |
-| 13:58      | in day one.                                                                                            |
+| 13:58      | in [[Day One]].                                                                                            |
 | 14:00      | It is really remarkable how much third party developers have stepped in during iOS 13.                 |
 | 14:06      | I mean, if you look at it, our show regularly, we're talking about third party apps.                   |
 | 14:11      | We've already talked about Charty and [[Data Jar]], you know, it's just, there's so many                   |

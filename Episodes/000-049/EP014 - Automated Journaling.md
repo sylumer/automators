@@ -107,7 +107,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 00:28      | So I don't see why we're not allowed to talk about it, so let's do journalling today.                |
 | 00:32      | Yeah, we're unhinged.                                                                               |
 | 00:33      | Last January, I decided to do an experiment.                                                        |
-| 00:37      | I signed up for a year subscription with day one, and I really took to that, and I find             |
+| 00:37      | I signed up for a year subscription with [[Day One]], and I really took to that, and I find             |
 | 00:43      | that keeping a journal every day helps me keep sane and gives me all the good feels,                |
 | 00:49      | so it was an experiment that worked for me.                                                         |
 | 00:52      | But having done it for a year, I've added some automation, and I thought it would be                |
@@ -122,7 +122,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 01:30      | automation to it, you can really speed it up, and all you have to do is maybe write a sentence      |
 | 01:34      | or two, and you've got a really nice log of your day, and you can look back at it, and              |
 | 01:40      | you've got all of this data, all of these photos collected in one place for you, which              |
-| 01:45      | can be end-to-end encrypted as well if you're using something like day one, or stored in            |
+| 01:45      | can be end-to-end encrypted as well if you're using something like [[Day One]], or stored in            |
 | 01:49      | whatever format you like, and pretty much everything else, so there's a lot of advantages           |
 | 01:55      | to doing this.                                                                                      |
 | 01:56      | Yeah, you don't need to get a fancy pen and an expensive notebook and a pipe to do this.            |
@@ -151,20 +151,20 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 03:17      | Yes.                                                                                                |
 | 03:18      | See you then.                                                                                       |
 | 03:19      | Let's start with the, I think for automation-friendly, the easiest way to do this involves spending |
-| 03:26      | a little bit of money, and I think day one is an application I would highly recommend               |
+| 03:26      | a little bit of money, and I think [[Day One]] is an application I would highly recommend               |
 | 03:30      | if you wanted to get a journalling habit started.                                                    |
 | 03:33      | This is not a commercial or a paid sponsorship or anything, but it is the app that really,          |
 | 03:38      | I think is just a great solution for this day, it allows you to keep multiple journals.             |
 | 03:43      | So like if you wanted to keep one for work-related stuff and one for personal, I even have one      |
 | 03:48      | for thankfulness, just a thankfulness journal in there.                                             |
-| 03:51      | So I think I actually have six different journals I've created inside day one over the over         |
+| 03:51      | So I think I actually have six different journals I've created inside [[Day One]] over the over         |
 | 03:55      | the year that I've been using it regularly.                                                         |
 | 03:58      | And it's just a great app because it keeps everything for you if you use their service,             |
 | 04:03      | it's encrypted and you got the ability to export them out to an actual book if you want and         |
 | 04:09      | all sorts of cool stuff.                                                                            |
-| 04:11      | But the piece of day one I'd like to focus on for this episode is the automation piece.             |
+| 04:11      | But the piece of [[Day One]] I'd like to focus on for this episode is the automation piece.             |
 | 04:20      | Yeah.                                                                                               |
-| 04:21      | And this is where day one is ahead of the crowd in many respects because they have this and         |
+| 04:21      | And this is where [[Day One]] is ahead of the crowd in many respects because they have this and         |
 | 04:27      | that integration.                                                                                   |
 | 04:28      | There's integration directly into shortcuts with actions that were there from when this             |
 | 04:33      | was workflow.                                                                                       |
@@ -179,7 +179,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 05:09      | for you.                                                                                            |
 | 05:10      | And I do think that if you want to automate a journal, there are pieces of it that are              |
 | 05:17      | definitely amenable to automation.                                                                  |
-| 05:20      | And day one has a feature called activity feed, which I think is a great way to get                 |
+| 05:20      | And [[Day One]] has a feature called activity feed, which I think is a great way to get                 |
 | 05:26      | started from the activity feed.                                                                     |
 | 05:27      | You can grab information like your most recently shot photos, if you've got an [[Instagram]] feed,      |
 | 05:35      | it can attach to that.                                                                              |
@@ -193,8 +193,8 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 05:59      | which is nice.                                                                                      |
 | 06:00      | And so if you're using it, I mean, the advantage of using something like Foursquare or Swarm,       |
 | 06:05      | this is an automation trick, use it, because then when you check in, it just grabs that             |
-| 06:09      | data for you and that just goes straight into day one.                                              |
-| 06:12      | And then you don't have to like open day one and type currently at XYZ restaurant with              |
+| 06:09      | data for you and that just goes straight into [[Day One]].                                              |
+| 06:12      | And then you don't have to like open [[Day One]] and type currently at XYZ restaurant with              |
 | 06:17      | A, B, and C, eating bananas, apparently we're having a banana theme today, and you can just         |
 | 06:25      | type the status.                                                                                    |
 | 06:26      | You say banana with so much more class than I do, I feel like I'm, I don't know, I feel             |
@@ -223,9 +223,9 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 07:46      | I'm that guy.                                                                                       |
 | 07:48      | If there's one drop, I won't get it on my shirt, but that's not what people plugged                 |
 | 07:52      | in today.                                                                                           |
-| 07:53      | So the shortcuts, so to begin with with day one, you've got this activity feed where you            |
+| 07:53      | So the shortcuts, so to begin with with [[Day One]], you've got this activity feed where you            |
 | 07:59      | can pull in location and photo data.                                                                |
-| 08:02      | Another thing day one does that's great is every time you make a new entry, it just grabs           |
+| 08:02      | Another thing [[Day One]] does that's great is every time you make a new entry, it just grabs           |
 | 08:06      | your current location as long as you're giving it access to your location and the weather.          |
 | 08:11      | So like you can start a new entry, it automatically starts with what the current day weather is     |
 | 08:16      | at the time you're making the entry and your location in addition to the time, of course.           |
@@ -251,10 +251,10 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 09:36      | You could give yourself prompts in a sense of a journal.                                            |
 | 09:40      | And then you run a Siri shortcut that asks you those questions.                                     |
 | 09:44      | You can either type in your answers or you can dictate them in using Siri dictation.                |
-| 09:49      | And then when it's done, it can use the new entry Siri shortcut with day one to open day            |
+| 09:49      | And then when it's done, it can use the new entry Siri shortcut with [[Day One]] to open day            |
 | 09:55      | one, which will already have the date and time because it does that every time.                     |
 | 10:00      | And then it'll dump that the prompts and your responses in in a nicely formatted text.              |
-| 10:07      | And you know, because it can use markdown, which is no nice thing about day one.                    |
+| 10:07      | And you know, because it can use markdown, which is no nice thing about [[Day One]].                    |
 | 10:10      | So you could actually format the answers into markdown in the Siri shortcut and get the             |
 | 10:16      | entry built for you.                                                                                |
 | 10:17      | Yes, and that is where, so for example, as well as supporting markdown, it supports markdown        |
@@ -300,10 +300,10 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 12:33      | shortcut would be a great way to do that.                                                           |
 | 12:36      | Definitely.                                                                                         |
 | 12:37      | And that's one of the things that I've been doing recently.                                         |
-| 12:40      | I'm actually, I mean, day one itself has got triggers to prompt you to write, but I'm               |
+| 12:40      | I'm actually, I mean, [[Day One]] itself has got triggers to prompt you to write, but I'm               |
 | 12:44      | using Launch Center Pro to promptly to run the shortcut, which will then give me all                |
 | 12:51      | the prompts.                                                                                        |
-| 12:52      | There's a lot of prompts in this to actually create a nice day one entry with a bunch of            |
+| 12:52      | There's a lot of prompts in this to actually create a nice [[Day One]] entry with a bunch of            |
 | 12:57      | different things.                                                                                   |
 | 12:58      | And it checks my calendar so it knows, hey, like today was the weekend or I was on holiday          |
 | 13:03      | or it was an actual holiday day.                                                                    |
@@ -360,13 +360,13 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 15:41      | more of a, more of a motivation to put meat into one of these journals, which will actually         |
 | 15:48      | make the journal work better for you.                                                               |
 | 15:50      | So these are all good things.                                                                       |
-| 15:53      | You can also do some stuff with day one, if you want to automate a text entry, I mentioned          |
+| 15:53      | You can also do some stuff with [[Day One]], if you want to automate a text entry, I mentioned          |
 | 15:58      | this on Mac Power Users recently, but for those that didn't catch that, I think day                 |
 | 16:04      | one does a great job with text transcription.                                                       |
 | 16:06      | It's using the built-in API, but it, I think the built-in API is a lot better than I thought        |
 | 16:13      | it was.                                                                                             |
-| 16:14      | I've been playing with it a lot lately and just press record on day one.                            |
-| 16:18      | So the way it works is when you go to make your entry inside day one, you just press                |
+| 16:14      | I've been playing with it a lot lately and just press record on [[Day One]].                            |
+| 16:18      | So the way it works is when you go to make your entry inside [[Day One]], you just press                |
 | 16:22      | the record button and record, just like someone who's doing an audio diary.                         |
 | 16:28      | But then when you're done, you press the button to transcribe and it transcribes it for you         |
 | 16:31      | and it's very close.                                                                                |
@@ -377,13 +377,13 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 16:43      | to just, you know, sit down and have a quick chat with your phone.                                  |
 | 16:46      | You know, that's what all of these things are for, right, to get this information out               |
 | 16:50      | of us in whatever format we want to do it.                                                          |
-| 16:53      | And so, and if you're not using day one, you could of course use just press record for              |
+| 16:53      | And so, and if you're not using [[Day One]], you could of course use just press record for              |
 | 16:57      | a very similar option and then you got both the audio and the text of it, which you can             |
 | 17:02      | use later.                                                                                          |
 | 17:03      | Yeah.                                                                                               |
 | 17:04      | And then the other thing, trick you can do in it, this is a form of, and that's not                 |
-| 17:07      | really automation, but it's a good trick anyway, day one is you take a picture and when you         |
-| 17:13      | add the picture to day one, it gives you the option to timestamp that entry to the time             |
+| 17:07      | really automation, but it's a good trick anyway, [[Day One]] is you take a picture and when you         |
+| 17:13      | add the picture to [[Day One]], it gives you the option to timestamp that entry to the time             |
 | 17:19      | of the picture.                                                                                     |
 | 17:20      | So as an example, I went out with my 21-year-old, I mean, anytime your 21-year-old wants to         |
 | 17:25      | go out, you go out, you know, I mean, and I took a picture while we were out together               |
@@ -392,9 +392,9 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 17:37      | It won't be from, you know, today when I'm making the entry.                                        |
 | 17:40      | So that's kind of cool.                                                                             |
 | 17:42      | You want to talk about if this than that integration, a lot of people don't realise how deep that   |
-| 17:46      | can run with day one.                                                                               |
+| 17:46      | can run with [[Day One]].                                                                               |
 | 17:47      | Yeah.                                                                                               |
-| 17:48      | So, I mean, day one has integration with if this than that.                                         |
+| 17:48      | So, I mean, [[Day One]] has integration with if this than that.                                         |
 | 17:51      | And essentially, all it can do is create an entry, but all it can do is not as limiting             |
 | 17:58      | as it sounds because you can add an entry to almost any journal.                                    |
 | 18:03      | If it's enter and encrypted, you can't add to it.                                                   |
@@ -410,7 +410,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 18:46      | And so I can write about that and that's in pictures to it.                                         |
 | 18:48      | And it's already there with all that information for me.                                            |
 | 18:52      | And obviously RSS feeds.                                                                            |
-| 18:54      | So I log all of my blog entries and my micro blog entries into day one into their own journals      |
+| 18:54      | So I log all of my blog entries and my micro blog entries into [[Day One]] into their own journals      |
 | 19:01      | so that I've got those as well so that when I'm looking at it, I can go to it and I can             |
 | 19:06      | just see everything in there that I've done, which is nice.                                         |
 | 19:10      | And I've also, I use this podcast as an excuse to sign up for the premium VIP version of            |
@@ -418,7 +418,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 19:19      | So for people not familiar, track.tv is a watching tracking service.                                |
 | 19:25      | So it allows you to log everything that you watch films, TV shows, etc.                             |
 | 19:32      | And it can produce an RSS feed, it can produce calendar feeds, all sorts of things.                 |
-| 19:37      | And then I take that RSS feed from track.tv and I have that sent to day one.                        |
+| 19:37      | And then I take that RSS feed from track.tv and I have that sent to [[Day One]].                        |
 | 19:43      | So every time I watch something, I use [[Infuse]] on the Apple TV and on iOS a lot of the time          |
 | 19:49      | to watch things, it will automatically log that for me.                                             |
 | 19:54      | And so I'm sitting there and I've watched two episodes of, say, Death in Paradise, rewatching       |
@@ -431,7 +431,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 20:21      | And so then, you know, like I go to the cinema, I can just log what I watched and it automatically  |
 | 20:25      | creates a nice journal entry with the artwork and everything for me.                                |
 | 20:29      | And then I can have my comments later at the end of the day.                                        |
-| 20:31      | Yeah, basically anything with an RSS feed you can put in to day one.                                |
+| 20:31      | Yeah, basically anything with an RSS feed you can put in to [[Day One]].                                |
 | 20:35      | And I think with an RSS feed, calendar feeds, you know, like adding new context to your             |
 | 20:39      | iOS device could create a new journal entry.                                                        |
 | 20:43      | Like, that's how crazy you can get with this.                                                       |
@@ -473,10 +473,10 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 22:54      | prompts for things and you know, it could then have a really nice, you know, gives you that         |
 | 22:59      | really nice text, really good text for you that everybody loves with the somewhat automated         |
 | 23:04      | preview of things where you can hit preview button at any point and then you can save               |
-| 23:08      | that over to day one afterwards as well.                                                            |
+| 23:08      | that over to [[Day One]] afterwards as well.                                                            |
 | 23:10      | So there's a lot of automation options available.                                                   |
 | 23:13      | Yes, there are.                                                                                     |
-| 23:15      | And I want to talk about using those also outside of day one next.                                  |
+| 23:15      | And I want to talk about using those also outside of [[Day One]] next.                                  |
 | 23:19      | But before we do, I want to take a minute to talk about our sponsor of this episode.                |
 | 23:23      | This episode of The Automators is brought to you by PDF pin, the ultimate tool for editing          |
 | 23:27      | PDFs from our friends over at Smile.                                                                |
@@ -523,11 +523,11 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 26:03      | And when you're there, let them know you heard about it here on automators and we really            |
 | 26:08      | appreciate that.                                                                                    |
 | 26:09      | And our thanks to PDF pin for all of their support of the show and all of relay FM.                 |
-| 26:15      | So we talked a lot about automating day one.                                                        |
-| 26:19      | Not everybody wants to use day one though.                                                          |
+| 26:15      | So we talked a lot about automating [[Day One]].                                                        |
+| 26:19      | Not everybody wants to use [[Day One]] though.                                                          |
 | 26:21      | No.                                                                                                 |
 | 26:22      | And I mean, I understand if you don't want to use it, you know, it might be that you                |
-| 26:26      | specifically want to do something that's not able to be done in day one or maybe, you               |
+| 26:26      | specifically want to do something that's not able to be done in [[Day One]] or maybe, you               |
 | 26:31      | know, you just don't feel that you're going to be using general or doing journalling enough          |
 | 26:35      | to actually make any kind of investment right now.                                                  |
 | 26:38      | And that's okay because there's probably a lot of other stuff that you already own that             |
@@ -537,7 +537,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 26:48      | So, but Ulysses is an application allows you to contain text files and keep them in a sort          |
 | 26:56      | of order and it's very automation friendly.                                                         |
 | 26:59      | So you could take all of those prompts and those things we were talking about sending               |
-| 27:02      | to day one, you could just as easily send that into a day one folder and you could give             |
+| 27:02      | to [[Day One]], you could just as easily send that into a [[Day One]] folder and you could give             |
 | 27:07      | each file a name because you name it using automation where you could have like the date            |
 | 27:12      | string at the top of it and just drop that in to Ulysses.                                           |
 | 27:18      | And I suspect a lot of people listening will have like a Ulysses subscription for, you              |
@@ -610,13 +610,13 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 32:02      | master DOM for me.                                                                                  |
 | 32:03      | But all text-based things, I do via the micro.blog app.                                             |
 | 32:08      | And then they get pushed to everywhere else.                                                        |
-| 32:12      | And then I do take this feed actually and put it back into day one, so that it's in                 |
+| 32:12      | And then I do take this feed actually and put it back into [[Day One]], so that it's in                 |
 | 32:17      | my private journal as well.                                                                         |
 | 32:18      | But that's it.                                                                                      |
 | 32:19      | It's a really nice public solution, and it gives you an RSS feed so that everybody can              |
 | 32:23      | stock you at their own pace, which is always fun.                                                   |
 | 32:26      | And then you can do something like that, and then you can still do the naval gazing type            |
-| 32:31      | stuff in day one, which you keep private.                                                           |
+| 32:31      | stuff in [[Day One]], which you keep private.                                                           |
 | 32:34      | Yeah, exactly.                                                                                      |
 | 32:35      | And you can do that with almost anything.                                                           |
 | 32:39      | Actually, you can actually just put it on a WordPress blog if you wanted to.                        |
@@ -648,10 +648,10 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 34:07      | quote in it.                                                                                        |
 | 34:08      | It's kind of a commonplace journal if you know what that is.                                        |
 | 34:12      | And I really like it, but I want to automate that and bring it into my system.                      |
-| 34:17      | So the way I do it currently is because I have a day one account when I'm making my                 |
-| 34:21      | daily entry in day one, I just take a picture of that page in the journal, in the paper             |
+| 34:17      | So the way I do it currently is because I have a [[Day One]] account when I'm making my                 |
+| 34:21      | daily entry in [[Day One]], I just take a picture of that page in the journal, in the paper             |
 | 34:26      | journal, and that gets it automatically added.                                                      |
-| 34:29      | You could also do that if you're not using something like day one.                                  |
+| 34:29      | You could also do that if you're not using something like [[Day One]].                                  |
 | 34:33      | You could take the picture and with one of the apps like Scanner Pro, and then the other            |
 | 34:40      | one is Scanbot.                                                                                     |
 | 34:41      | Those are the two that I usually recommend.                                                         |
@@ -708,10 +708,10 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 37:47      | then I would highly recommend that you look at streaks.                                             |
 | 37:49      | But we're going to come back to habits tracking as an automated adoption in the future episode,     |
 | 37:54      | I think.                                                                                            |
-| 37:55      | And day one will give you a notification as often or as frequently or infrequently as               |
+| 37:55      | And [[Day One]] will give you a notification as often or as frequently or infrequently as               |
 | 38:03      | you want.                                                                                           |
 | 38:04      | But you could have it say, automatically prompt me to write an entry every night if you're          |
-| 38:10      | going to do it yourself without day one, an application like Due is good at nagging               |
+| 38:10      | going to do it yourself without [[Day One]], an application like Due is good at nagging               |
 | 38:16      | you and you could have it tell you once a day, hey, create your journal entry.                      |
 | 38:21      | Yes, which is something that when you're building a new habit, you would definitely like to         |
 | 38:26      | have at least to help you get on the wagon.                                                         |

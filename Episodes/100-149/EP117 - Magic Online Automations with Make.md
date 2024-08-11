@@ -366,11 +366,11 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 16:53      | They both have hooks into the service and you're good to go.                                              |
 | 16:57      | Um, one of the things I've, I've noted is that it does not have a connection to day                       |
 | 17:02      | one.                                                                                                      |
-| 17:03      | And I feel like I don't know what the story is with day one.                                              |
-| 17:06      | Like they got great hooks into, to if TTT or if this than that, but they've been like                     |
+| 17:03      | And I feel like I don't know what the story is with [[Day One]].                                              |
+| 17:06      | Like they got great hooks into, to [[IFTTT]] or [[IFTTT\|If This Then That]], but they've been like                     |
 | 17:12      | silent on all the other platforms and I don't know what the deal is there, but, uh, I love                |
 | 17:16      | those automations when I put a new blog post up at MacSparky, it gets added to a specific                |
-| 17:22      | journal on day one.                                                                                       |
+| 17:22      | journal on [[Day One]].                                                                                       |
 | 17:23      | And there's a couple of other things I do and, uh, it's just a great automation for                       |
 | 17:26      | me to pull something off the web and put it in a book.                                                    |
 | 17:30      | But you know, uh, otherwise it's, it's pretty inclusive.                                                  |
@@ -402,17 +402,17 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 19:07      | data out so not easy or fun.                                                                              |
 | 19:11      | And if the, if you don't have a lot of users who are going to want or need this, then it's                |
 | 19:15      | not going to be easy to do.                                                                               |
-| 19:17      | So, uh, yeah, I'm not, I'm not sure why, uh, day one hasn't added support for a Zapier                    |
+| 19:17      | So, uh, yeah, I'm not, I'm not sure why, uh, [[Day One]] hasn't added support for a Zapier                    |
 | 19:22      | or, um, a make, uh, maybe they will after the show, maybe they're listening and they're                   |
 | 19:26      | going, oh, cool.                                                                                          |
 | 19:27      | Didn't realise people were using me cause let's take a look at that.                                      |
 | 19:30      | As you said, right?                                                                                       |
 | 19:31      | You've got a tool, a lot of tools.                                                                        |
 | 19:32      | You've got to pick the right one for the right job.                                                       |
-| 19:33      | If you want, uh, day one is part of your, your, uh, uh, automations, then you're going                    |
+| 19:33      | If you want, uh, [[Day One]] is part of your, your, uh, uh, automations, then you're going                    |
 | 19:38      | to have to use at least in part if this and that, um, but you can always, you know, have                  |
 | 19:44      | a web hook from make or Zapier over to if this and that, that then takes whatever it's given              |
-| 19:50      | and creates a day one entry for you.                                                                      |
+| 19:50      | and creates a [[Day One]] entry for you.                                                                      |
 | 19:52      | So, you know, there, there's certainly possibilities there.                                               |
 | 19:56      | This episode of automators is brought to you by masterclass.                                              |
 | 19:59      | With masterclass, you can learn from the world's best artists, icons and leaders anytime, anywhere        |
@@ -1003,7 +1003,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 57:22      | It is, it's one of the like magic ways of unlocking this automation is the RSS feature.                   |
 | 57:28      | Yes, exactly.                                                                                             |
 | 57:29      | So, you know, David, you mentioned earlier that you save all of your blog posts over                      |
-| 57:33      | to day one.                                                                                               |
+| 57:33      | to [[Day One]].                                                                                               |
 | 57:34      | Well, I'm guessing you're probably using RSS to do that.                                                  |
 | 57:37      | Exactly.                                                                                                  |
 | 57:38      | And RSS is great because it works regardless of where your website is hosted or how your                  |
@@ -1018,7 +1018,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 58:11      | Hey, have you got anything for me?                                                                        |
 | 58:13      | And so, you know, if you had something that you wanted to be pretty much instantaneous                    |
 | 58:18      | when this thing happened, then you would want to look at using a different trigger for that.              |
-| 58:24      | But saving something into day one, I'm guessing is not quite so time sensitive that you need              |
+| 58:24      | But saving something into [[Day One]], I'm guessing is not quite so time sensitive that you need              |
 | 58:29      | it to happen immediately.                                                                                 |
 | 58:30      | So the RSS feeds just fine.                                                                               |
 | 58:31      | And that WordPress hook thing also allows you to reduce the number of calls.                              |

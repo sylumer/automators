@@ -210,12 +210,12 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 07:37      | And they also have done a good job of app integration for people on Apple platform.                          |
 | 07:41      | So, you know, I don't know what the deal they made with Apple was, but they've got access                    |
 | 07:47      | to some data from your iCloud stuff.                                                                         |
-| 07:50      | One of my personal favourite integrations with if this than that is day one.                                  |
-| 07:54      | I'm a big day one journaler, and I've got a couple day one things going on.                                  |
-| 08:01      | One of them is if I have, if I favourite a tweet, then it gets saved to my day one library                    |
+| 07:50      | One of my personal favourite integrations with [[IFTTT\|If This Then That]] [[Day One]].                                  |
+| 07:54      | I'm a big [[Day One]] journaler, and I've got a couple [[Day One]] things going on.                                  |
+| 08:01      | One of them is if I have, if I favourite a tweet, then it gets saved to my [[Day One]] library                    |
 | 08:08      | through if this than that.                                                                                   |
-| 08:09      | And if I publish a blog post at MacSparky, it gets saved to day one in a separate, you                      |
-| 08:14      | know, diary in day one.                                                                                      |
+| 08:09      | And if I publish a blog post at MacSparky, it gets saved to [[Day One]] in a separate, you                      |
+| 08:14      | know, diary in [[Day One]].                                                                                      |
 | 08:16      | So there's a couple of things I have going that I just don't think I could do in the                         |
 | 08:20      | other way.                                                                                                   |
 | 08:22      | So just to kind of back up a few steps, though, what they've done now used to be that you                    |
@@ -263,7 +263,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 10:43      | I'm already doing.                                                                                           |
 | 10:44      | And most of my, if this, then that's applets, I believe they're called, are just very simple                 |
 | 10:52      | standard as they were before Pro became a thing when this happens, do that.                                  |
-| 10:57      | So I've got a lot of day one integrations just like you, David, where I'm saying, I've                       |
+| 10:57      | So I've got a lot of [[Day One]] integrations just like you, David, where I'm saying, I've                       |
 | 11:03      | set up an integration with Tripit.                                                                           |
 | 11:05      | Now Tripit doesn't have this and that support.                                                               |
 | 11:08      | But what I've done is I've subscribed to my Tripit calendar in Google calendar.                              |
@@ -876,7 +876,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 48:08      | some web-based automation that figure out what is the problem you want to solve.                             |
 | 48:13      | I think that's probably the beginning point.                                                                 |
 | 48:16      | And then look at these tools in relation to that problem.                                                    |
-| 48:19      | Like, if you want to do day one stuff, you're probably going to be on it this than that.                     |
+| 48:19      | Like, if you want to do [[Day One]] stuff, you're probably going to be on it this than that.                     |
 | 48:22      | If you want to do more kind of like data transfer between web services, you're probably over                 |
 | 48:28      | at Zapier or [[Make\|Integromat]], and you just kind of have to approach it from that direction.                       |
 | 48:36      | Because if you just start in the blind, each tool has its positives and negatives.                           |

@@ -144,7 +144,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 03:34      | it was just down the street from the courthouse and I saw that it released.                            |
 | 03:39      | Greg Pierce, the guy who makes [[Drafts]], had made some other apps that I was a fan of,                   |
 | 03:44      | so he let me know it was coming out.                                                                   |
-| 03:46      | I downloaded it on day one and it just happened that that day, when you're busy for work,              |
+| 03:46      | I downloaded it on [[Day One]] and it just happened that that day, when you're busy for work,              |
 | 03:52      | sometimes you've got like a bunch of little things in your mind.                                       |
 | 03:57      | I just opened up [[Drafts]] and just tried and I used dictation, recording emails to do items,             |
 | 04:05      | just everything that was on my brain and I'll never forget sitting in the hotel lobby in               |
@@ -977,7 +977,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 55:17      | And then the other one is journalling.                                                                  |
 | 55:20      | And there was a recent episode about journalling and for, I believe, Mac Power users.                   |
 | 55:27      | Yeah.                                                                                                  |
-| 55:28      | So it, it talked about day one is using that as a journal, which is a wonderful application.           |
+| 55:28      | So it, it talked about [[Day One]] is using that as a journal, which is a wonderful application.           |
 | 55:35      | Something that I'm going to have coming up and it's just a matter of time for me.                      |
 | 55:38      | But it's, I've, I used it one point in time, [[Drafts]] with workflow at the time to roll my               |
 | 55:46      | own solution for making a journal.                                                                     |
@@ -985,11 +985,11 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 55:56      | working through kind of an update of that right now.                                                   |
 | 55:59      | So I can share all of that information with everybody.                                                 |
 | 56:03      | And that's another subscription that I don't necessarily need to have.                                 |
-| 56:06      | Again, day one, wonderful app.                                                                         |
+| 56:06      | Again, [[Day One]], wonderful app.                                                                         |
 | 56:09      | It's not something maybe that I need to keep around when I have other things to do it for              |
 | 56:12      | me.                                                                                                    |
 | 56:13      | So if, if I, if I'm making the personal choice of saying, Hey, okay, Ulysses, I'm not going            |
-| 56:19      | to use that because I'm going to use [[Drafts]] and day one, I'm not going to use that.                    |
+| 56:19      | to use that because I'm going to use [[Drafts]] and [[Day One]], I'm not going to use that.                    |
 | 56:21      | I'm going to use [[Drafts]].                                                                               |
 | 56:23      | I'm saving myself money, even though it's $20 a year.                                                  |
 | 56:26      | Now I'm saving those subscriptions as well.                                                            |

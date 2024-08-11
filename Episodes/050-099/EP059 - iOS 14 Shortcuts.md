@@ -728,8 +728,8 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 37:17      | Yeah.                                                                                                    |
 | 37:18      | I do the same thing.                                                                                     |
 | 37:19      | I also have sometimes where it'll set kind of atmosphere for me.                                         |
-| 37:24      | Like there's certain things I do in like day one.                                                        |
-| 37:28      | And if it's at night and it's day one, I can have it, you know, put some music on and so                 |
+| 37:24      | Like there's certain things I do in like [[Day One]].                                                        |
+| 37:28      | And if it's at night and it's [[Day One]], I can have it, you know, put some music on and so                 |
 | 37:33      | you can like go further steps down the road.                                                             |
 | 37:36      | But the beginning point for it is that an application is opening.                                        |
 | 37:41      | And this is one that you've got the ability to turn off the, you know, confirmed dialogue                |

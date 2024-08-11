@@ -235,7 +235,7 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 13:16      | difficult to decide on what is the actual correct device for you because it's contextual.            |
 | 13:26      | It depends.                                                                                          |
 | 13:28      | So yeah, I mean, there's so many good things about it.                                               |
-| 13:31      | I mean, just most of the stuff I do, like day one entries, drafts entries, [[OmniFocus]]                 |
+| 13:31      | I mean, just most of the stuff I do, like [[Day One]] entries, drafts entries, [[OmniFocus]]                 |
 | 13:39      | work, all that stuff works just fine on the iPad mini.                                               |
 | 13:44      | That's the thing, right?                                                                             |
 | 13:45      | So it does most of the little things I do.                                                           |

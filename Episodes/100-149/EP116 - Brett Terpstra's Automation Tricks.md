@@ -274,7 +274,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 19:47      | do a lot with some of these online document services and the online automation tools.                     |
 | 19:52      | Are you into any of that like, you know, [[Make\|Integromat/Make]] or, you know, Zapier or any of that        |
 | 19:59      | stuff? I use Zapier and I have TTT, but not extensively. I have TTT has really good support               |
-| 20:09      | for day one, which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
+| 20:09      | for [[Day One]], which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
 | 20:15      | like every MacSparky blog post gets added to my journal and like tweets that I heart,                    |
 | 20:21      | which aren't very many anymore. Yeah, well, I have it like any photo I post to [[Instagram]]                  |
 | 20:28      | gets saved with like a markdown note into a [[Dropbox]] file for me, which I always forget is                 |
@@ -282,16 +282,16 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 20:43      | when I used to do Slogger. Do you remember Slogger? Yeah, I forgot about that. Yeah.                      |
 | 20:47      | Yeah. It's dead at this point, but it was a script that would run once a day and gather                   |
 | 20:56      | all of your social media posts across Facebook and Twitter and Flickr and [[Instagram]] and would             |
-| 21:07      | basically and originally it was built to work with day one and it would build like a day one              |
+| 21:07      | basically and originally it was built to work with [[Day One]] and it would build like a [[Day One]]              |
 | 21:12      | calendar of all of your social media output. Yeah. And I still think there's a place for that.            |
 | 21:18      | And there's been some apps that have come out that especially on iOS that kind of fit that niche.         |
 | 21:25      | Slogger was cool because you could write a plugin for just about anything people writing                  |
 | 21:30      | plugins for run trackers and everything. But it kind of the code got unwieldy and                         |
 | 21:39      | APIs kept changing and things kept breaking and I kind of let it go. But it was fun. And I still          |
-| 21:47      | have from the year maybe 13, 2014, I think, I have a great day one view of all of my social media.        |
-| 21:59      | Yeah. I still use day one a lot. I really find that in fact, the days when I'm not                        |
+| 21:47      | have from the year maybe 13, 2014, I think, I have a great [[Day One]] view of all of my social media.        |
+| 21:59      | Yeah. I still use [[Day One]] a lot. I really find that in fact, the days when I'm not                        |
 | 22:04      | journalling are the days where things are a little out of whack for me.                                    |
-| 22:07      | And just out of a curiosity, a few months ago, I clicked the button in the day one app to print           |
+| 22:07      | And just out of a curiosity, a few months ago, I clicked the button in the [[Day One]] app to print           |
 | 22:15      | my journals. And I didn't print them all because I have stuff in there where I record workouts            |
 | 22:20      | and stuff. I didn't want to put all that. But I printed out my main journals and I thought,               |
 | 22:25      | well, I'll put the blog post in there too. Just kind of like when I'm old and drooling on myself,         |
@@ -299,21 +299,21 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 22:36      | volumes. It was literally four volumes of stuff. And you can really collect a lot in that with            |
 | 22:42      | automation if you want. And I've gone back and forth on my other show, Focus, Mike Schmitz,               |
 | 22:49      | and I keep talking because he got really into journalling by hand with a pen and paper.                    |
-| 22:56      | The more I think about it, the more I'm just in the bag for day one. And at this point,                   |
+| 22:56      | The more I think about it, the more I'm just in the bag for [[Day One]]. And at this point,                   |
 | 22:59      | I have a decade of data. If they ever go out of business, I'm in trouble. But they got acquired           |
 | 23:07      | by automatic. Oh, they did? I didn't realise that. The way I understand it is that, I forget              |
 | 23:13      | the guy's name, the guy who runs automatic and slash WordPress is like one of the...                      |
 | 23:19      | Matt Mullenweg. Yeah. He feels like one of the quality rich people on the internet. You know what         |
 | 23:23      | I mean? A lot of these guys that run these companies are a little like, I'm not sure about that guy.      |
 | 23:27      | Sketchy. Yeah. This guy seems like he's really solid. And I guess his dad was dying and he did            |
-| 23:33      | all the journalling in day one and liked the app so much he bought it. But having a big company            |
+| 23:33      | all the journalling in [[Day One]] and liked the app so much he bought it. But having a big company            |
 | 23:39      | behind it, I think, means we're good. And automatic is one of the few privacy-focused                     |
 | 23:44      | companies. So I'm sure the end-to-end encryption is going to remain in place and we're all good.          |
-| 23:50      | Yeah. I met the developers of day one. I think at the time, it was just the one guy,                      |
+| 23:50      | Yeah. I met the developers of [[Day One]]. I think at the time, it was just the one guy,                      |
 | 23:55      | and I've forgotten his name. Yeah, me too. I met him on a dance floor.                                    |
-| 24:00      | Yeah. I met him the year... Day one, I saw the potential in it and I believe that was the year            |
+| 24:00      | Yeah. I met him the year... [[Day One]], I saw the potential in it and I believe that was the year            |
 | 24:08      | that they won an Apple Design Award, if I'm remembering correctly. And from that point on,                |
-| 24:14      | day one became kind of like everyone knew day one. They built a really good app and it deserves           |
+| 24:14      | [[Day One]] became kind of like everyone knew [[Day One]]. They built a really good app and it deserves           |
 | 24:22      | the success it's gotten. Yeah. Yeah, I agree. Well... Oh my God. You know... Sorry. My brain              |
 | 24:29      | just jumped. You know what? The app on Mac that I just constantly admire is these days?                   |
 | 24:36      | What? Clean Shot X. Yes. Agreed. You've used it? Yeah. I mean, it's like a virus. Everybody's using       |

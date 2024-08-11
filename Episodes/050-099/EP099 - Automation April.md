@@ -1301,8 +1301,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:39:39   | you know, all encompassing in some respects, but I don't take it to the length of,                    |
 | 01:39:44   | of managing tasks and calendars as well. Or the other one people always do with it is they put        |
 | 01:39:49   | their journals in it. And, you know, if you've got the end date encryption, I think there's no        |
-| 01:39:54   | reason why you shouldn't. But I like using day one, I've been using it for a long time.               |
-| 01:40:01   | Like making an entry in day one on my iPhone is way easier than it is in [[Obsidian]] on my iPhone.       |
+| 01:39:54   | reason why you shouldn't. But I like using [[Day One]], I've been using it for a long time.               |
+| 01:40:01   | Like making an entry in [[Day One]] on my iPhone is way easier than it is in [[Obsidian]] on my iPhone.       |
 | 01:40:07   | So, you know, I've chosen to, you know, leave other some areas out of it.                             |
 | 01:40:13   | One thing I want to go back to real quick, you talked about like ideas or blog posts,                 |
 | 01:40:18   | and I, that is something I've thought through a lot lately because I am suddenly,                     |

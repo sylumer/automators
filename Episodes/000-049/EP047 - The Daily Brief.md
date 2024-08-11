@@ -473,7 +473,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 36:28      | you say the magic phrase, which is fun. But the 18th time in a row in the morning, just to get           |
 | 36:33      | all the information that you need can be a little wearing. And the other thing that you could do         |
 | 36:37      | with this, which I've just thought of, is if you wanted to, you could save your daily brief into         |
-| 36:43      | day one or something. Now, previously, what I was trying to do back when iOS 13 just was in beta,        |
+| 36:43      | [[Day One]] or something. Now, previously, what I was trying to do back when iOS 13 just was in beta,        |
 | 36:49      | early beta, is I was creating a PDF, converting the PDF to an image, and then setting that to my         |
 | 36:56      | lock screen information. So then when I, when I picked up my lock screen, I got like a little            |
 | 37:01      | overview of my day. Unfortunately, the ability to set the wallpaper automatically has gone.              |

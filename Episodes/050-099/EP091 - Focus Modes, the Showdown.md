@@ -1077,7 +1077,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:41   | home screen came out here.                                                                              |
 | 01:05:42   | Let me turn it on so I can just show you.                                                               |
 | 01:05:44   | Maybe we'll figure out a way to share some of these home screens.                                       |
-| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and day one here, because I actually take            |
+| 01:05:47   | But I've got the audible Kindle, I've got [[Obsidian]] and [[Day One]] here, because I actually take            |
 | 01:05:55   | notes sometimes on books in different contexts.                                                         |
 | 01:05:57   | I've got the [[Apple Books]] app.                                                                           |
 | 01:05:58   | Do you know the [[Apple Books]] app does not have a widget?                                                 |
