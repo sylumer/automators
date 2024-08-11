@@ -326,9 +326,9 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 14:03      | Powerful yet frustrating in its inconsistency.                                                        |
 | 14:07      | At least there's no JavaScript automation on macOS.                                                   |
 | 14:10      | I went to the conference that [[Sal Soghoian]] go and put on, I forget what it was called.                       |
-| 14:16      | Command D.                                                                                            |
+| 14:16      | [[CMD-D Conference\|CMD-D]].                                                                                            |
 | 14:17      | Yeah.                                                                                                 |
-| 14:18      | I went to Command D.                                                                                  |
+| 14:18      | I went to [[CMD-D Conference\|CMD-D]].                                                                                  |
 | 14:19      | Last minute edition.                                                                                  |
 | 14:24      | But his major focus was on JavaScript for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |

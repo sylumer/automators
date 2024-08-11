@@ -831,7 +831,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 01:15:31   | same thing over and over again until my brain is like, oh, wait a second, you have a podcast                                                   |
 | 01:15:36   | called The Automators, right? And then the next level is I'll save a templated set, just like                                                  |
 | 01:15:43   | at the top or the bottom of a directory, like you have a client directory, there'd be one at the                                               |
-| 01:15:47   | bottom says XX, you know, directory structure, and you could just duplicate that command D and                                                 |
+| 01:15:47   | bottom says XX, you know, directory structure, and you could just duplicate that [[CMD-D Conference\|CMD-D]] and                                                 |
 | 01:15:54   | then change the root folder name, which is probably the fastest automation for that.                                                           |
 | 01:15:59   | In honesty. But then I wrote it into an [[AppleScript]] and a [[Keyboard Maestro]]                                                                             |
 | 01:16:06   | script, because then it becomes part of the overall, hey, new client thing, create a set                                                |

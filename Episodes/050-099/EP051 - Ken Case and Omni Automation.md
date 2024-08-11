@@ -622,8 +622,8 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 45:11      | actually, that I run in terminal that takes an OmniFocus database, makes a graph out                    |
 | 45:17      | of it opens that graph in OnmniGraffle. And then I can go and start, you know, working                    |
 | 45:23      | in more detail with that graph and figure out what's going on.                                           |
-| 45:26      | One of my favourite implementations was salsa going in when he did his CMD-D conference.              |
-| 45:31      | He made the Command-D conference logo with a JavaScript in OmniGraffle. And he just run                  |
+| 45:26      | One of my favourite implementations was salsa going in when he did his [[CMD-D Conference]].              |
+| 45:31      | He made the [[CMD-D Conference]] logo with a JavaScript in OmniGraffle. And he just run                  |
 | 45:39      | a script and it created the logo for the event in OmniGraffle. Because, because he's                     |
 | 45:43      | Sal and that's how sell does things.                                                                    |
 | 45:47      | This episode is brought to you by Pingdom from SolarWinds. Today's internet users expect                 |
