@@ -163,9 +163,9 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 04:25      | So, you know, I've never tinkered with [[AppleScript]].                                                    |
 | 04:29      | I don't have any automata actions that I run.                                                           |
 | 04:31      | I own [[Hazel]] and [[Hazel]] does like a couple of super simple things for me.                                 |
-| 04:35      | Like, so right now we are talking on Skype and because whenever I'm talking on Skype,                   |
+| 04:35      | Like, so right now we are talking on [[Skype]] and because whenever I'm talking on [[Skype]],                   |
 | 04:41      | I'm typically recording a podcast.                                                                      |
-| 04:43      | I have Skype core recorder, the app that I use, automatically record the files and drop                 |
+| 04:43      | I have [[Skype Call Recorder]], the app that I use, automatically record the files and drop                 |
 | 04:49      | them in a folder.                                                                                       |
 | 04:50      | And I just have [[Hazel]] watch that folder and every three months it deletes files that are                |
 | 04:54      | older than, you know, like, so like, so every three months it deletes old files, you know,              |

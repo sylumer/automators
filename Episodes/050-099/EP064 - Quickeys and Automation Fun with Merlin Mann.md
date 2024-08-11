@@ -1367,17 +1367,17 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:08:47   | Let's begin.                                                                                                  |
 | 01:08:48   | There's so much more.                                                                                         |
 | 01:08:49   | So let's take that same example here.                                                                         |
-| 01:08:51   | When I started a podcast, I wanted to launch Skype, and I need to open this, but let's                        |
+| 01:08:51   | When I started a podcast, I wanted to launch [[Skype]], and I need to open this, but let's                        |
 | 01:08:57   | just say you've got words and then you've got things like punctuation that mean things.                       |
-| 01:09:04   | So if I do this, it's going to open Skype.                                                                    |
-| 01:09:07   | If I do this, it's going to quit Skype.                                                                       |
+| 01:09:04   | So if I do this, it's going to open [[Skype]].                                                                    |
+| 01:09:07   | If I do this, it's going to quit [[Skype]].                                                                       |
 | 01:09:09   | If I do this, it's going to open this URL.                                                                    |
 | 01:09:12   | If I do that, it's going to open this Finder window, et cetera, et cetera.                                    |
 | 01:09:16   | But it goes further than that.                                                                                |
 | 01:09:17   | He's added so much to this.                                                                                   |
 | 01:09:19   | I mean, the basic part of it is, like for me, I have a bunch called Start Podcast, and                        |
 | 01:09:24   | that does what?                                                                                               |
-| 01:09:25   | It opens Skype.                                                                                               |
+| 01:09:25   | It opens [[Skype]].                                                                                               |
 | 01:09:26   | It opens [[Audio Hijack]].                                                                                        |
 | 01:09:28   | It quits [[Dropbox]].                                                                                             |
 | 01:09:29   | It quits Plex.                                                                                                |
@@ -1415,7 +1415,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:11:09   | So you could basically have, you could abstract out, this is the thing that involves every                    |
 | 01:11:13   | kind of podcast, no matter what.                                                                              |
 | 01:11:16   | This is for this particular podcast.                                                                          |
-| 01:11:18   | So that opens Zoom instead of Skype or what have you.                                                         |
+| 01:11:18   | So that opens Zoom instead of [[Skype]] or what have you.                                                         |
 | 01:11:21   | So I would just say it's a, it would be a fun thing for people to whack around in because                     |
 | 01:11:25   | it is instantly going to be useful.                                                                           |
 | 01:11:27   | It is a little bit fun and nerdy, and if you want to go deeper on it, there's a lot more                      |

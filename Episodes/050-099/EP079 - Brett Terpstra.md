@@ -731,7 +731,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 40:41      | you can't open a specific session in [[Audio Hijack]] without the mouse, which is annoying.              |
 | 40:48      | So it hits, for me, it hits the right arrow 13 times and then hits command, oh, and then             |
 | 40:54      | switches back to that window and closes it and has me all ready to go.                               |
-| 40:59      | Loads up Skype opens Firefox with my, my sponsor list and then runs a [[Moom]], a [[Moom]] snapshot          |
+| 40:59      | Loads up [[Skype]] opens Firefox with my, my sponsor list and then runs a [[Moom]], a [[Moom]] snapshot          |
 | 41:10      | to arrange it all for me.                                                                            |
 | 41:12      | It gets, it's pretty intense.                                                                        |
 | 41:14      | I'm on this campaign to get Mac app developers to become more automation friendly and I found        |
@@ -888,8 +888,8 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 50:28      | it with, if you want to hack your own key bindings file, basically make it so that like on my        |
 | 50:35      | keyboard, if I hit Hyper S, it opens up a launcher, like a macro group in [[Keyboard Maestro]], and       |
 | 50:45      | then another letter will launch an app.                                                              |
-| 50:47      | So instead of taking up Hyper KeyS with, say, Skype, I can make it Hyper KeyS, and then I              |
-| 50:53      | have to ask again to launch Skype, but any other letter.                                             |
+| 50:47      | So instead of taking up [[Hyper Key]]-SS with, say, [[Skype]], I can make it [[Hyper Key]]-SS, and then I              |
+| 50:53      | have to ask again to launch [[Skype]], but any other letter.                                             |
 | 50:56      | So like your entire keyboard opens up again.                                                         |
 | 51:00      | And so it's like gateways into new groups of hotkeys, a lot to memorise, but a lot,                  |
 | 51:05      | but not that much.                                                                                   |

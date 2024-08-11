@@ -653,11 +653,11 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 52:37      | everything. David Sparks. Oh, well. Okay, so we have window management, and there are a lot             |
 | 52:46      | of windows. I don't know how many windows are up on my Mac. But one other thing I want to say           |
 | 52:51      | about window management is I also use [[Keyboard Maestro]] frequently at the end of the day to              |
-| 52:55      | close down a lot of the applications that I have running. So for example, when I Skype,                 |
+| 52:55      | close down a lot of the applications that I have running. So for example, when I [[Skype]],                 |
 | 53:01      | I actually plug my Zoom H4n Pro into my Mac, and that runs a [[Keyboard Maestro]] macro that                |
 | 53:08      | opens a bunch of windows for me. But I don't yet have one that says, hey, when this unplugged,          |
 | 53:14      | close all these windows for me. But at the end of the day, I have a macro that will go through          |
-| 53:19      | and it will close things like Skype and [[Audio Hijack]] unless I'm actively using my computer.             |
+| 53:19      | and it will close things like [[Skype]] and [[Audio Hijack]] unless I'm actively using my computer.             |
 | 53:24      | So that's the trick, making sure that you're not actively using it because I have podcasted at          |
 | 53:29      | odd hours of the day before. And there would be nothing worse than being in the middle of a recording   |
 | 53:33      | and then suddenly [[Keyboard Maestro]] goes, bye bye [[Audio Hijack]]. And you're there going, no,              |

@@ -458,12 +458,12 @@ Rose and David explain many little automations that can improve your quality of 
 | 32:49      | who don't know iOS today is a video as well as an audio podcast. And for the video, Micah                |
 | 32:55      | and I tried to show our iPads and our iPhones with, you know, what we're actually doing                  |
 | 32:59      | on them as part of the show. But in order to do this, we need to use another piece of                    |
-| 33:03      | software which Skype doesn't natively support anymore. So you have to run a terminal script              |
-| 33:09      | first. So instead of me, you know, I have a Skype button in my iOS today segment, which,                 |
+| 33:03      | software which [[Skype]] doesn't natively support anymore. So you have to run a terminal script              |
+| 33:09      | first. So instead of me, you know, I have a [[Skype]] button in my iOS today segment, which,                 |
 | 33:17      | you know, I'm in the process of replacing with a whole series of things that will just                   |
-| 33:21      | open everything at once. But what it actually does is it checks if Skype is open. If Skype               |
-| 33:25      | is open, it quits Skype. And then it runs this terminal command for me and then it opens                 |
-| 33:30      | Skype and then it opens the Skype preferences so I can check to make sure that my virtual                |
+| 33:21      | open everything at once. But what it actually does is it checks if [[Skype]] is open. If [[Skype]]               |
+| 33:25      | is open, it quits [[Skype]]. And then it runs this terminal command for me and then it opens                 |
+| 33:30      | [[Skype]] and then it opens the [[Skype]] preferences so I can check to make sure that my virtual                |
 | 33:34      | camera is working so that I can pipe my iPhone and my iPad through so that my workspace is               |
 | 33:38      | actually set up for me to be able to do the work instead of me thinking it's set up and                  |
 | 33:42      | then finding out that it's not, which, you know, would not be great if you're there trying               |
@@ -707,8 +707,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 54:40      | not too distant future. But it's just a great app for what I would call quality of life problems.        |
 | 54:46      | I mean, it's a whole system. You can create a whole filing system on your Mac with [[Hazel]].                |
 | 54:51      | And maybe we'll talk about that when we give it a whole show. But there's little things it does          |
-| 54:56      | that I find super useful. A good example is we have recently with the death of Skype call recorder       |
-| 55:05      | moved out of Skype as our backbone for podcasting. We now do it in Zoom. But because Zoom has the        |
+| 54:56      | that I find super useful. A good example is we have recently with the death of [[Skype Call Recorder]]       |
+| 55:05      | moved out of [[Skype]] as our backbone for podcasting. We now do it in Zoom. But because Zoom has the        |
 | 55:12      | ability to make the backup recording as part of its service. So whenever we finish a recording,          |
 | 55:18      | a file gets a folder gets saved to my desktop with all the backup recordings. Now, our primary           |
 | 55:24      | recording is done with [[Audio Hijack]] from [[Rogue Amoeba]]. And, you know, like 99% of the time,                  |

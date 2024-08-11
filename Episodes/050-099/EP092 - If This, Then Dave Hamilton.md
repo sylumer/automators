@@ -194,10 +194,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 04:43      | end up with certain tools                                                                                                                                                |
 | 04:44      | and then the automation tricks get passed around.                                                                                                                        |
 | 04:47      | Um, the for so long, you know,                                                                                                                                           |
-| 04:50      | we were all doing Skype call recorder and Skype                                                                                                                          |
+| 04:50      | we were all doing [[Skype]] call recorder and [[Skype]]                                                                                                                          |
 | 04:52      | and every other Mac podcast was, you know,                                                                                                                               |
 | 04:56      | had at least a two minute segment                                                                                                                                        |
-| 04:58      | where they complained about Skype.                                                                                                                                       |
+| 04:58      | where they complained about [[Skype]].                                                                                                                                       |
 | 05:00      | Now it seems like a lot of people are doing it on Zoom.                                                                                                                  |
 | 05:03      | So now we have the two minute segment                                                                                                                                    |
 | 05:04      | where we complain about Zoom.                                                                                                                                            |

@@ -450,7 +450,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 24:25      | I'm not muted.                                                                                         |
 | 24:27      | And then when you tap it, it toggles it.                                                               |
 | 24:29      | But if you work with Microsoft Teams and [[Slack]] and Zoom, and I don't know, maybe throwing              |
-| 24:34      | some WebEx and maybe even Skype still in there.                                                        |
+| 24:34      | some WebEx and maybe even [[Skype]] still in there.                                                        |
 | 24:38      | Well, depending on which app you're in, you're going to need something different in each               |
 | 24:41      | of those apps.                                                                                         |
 | 24:43      | And that's where a macro pad, even just a one button macro pad, could come in super                    |

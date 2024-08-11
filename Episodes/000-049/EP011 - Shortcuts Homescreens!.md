@@ -666,7 +666,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 36:07      | Of course, using [[Drafts]] for this is great.                                                           |
 | 36:10      | But sometimes I just need to check what the person said before applying to them.                     |
 | 36:14      | And that's unfortunately where it's a little more difficult to use [[Drafts]] because then               |
-| 36:18      | I have to open messages or WhatsApp or Skype or whatever communication method it is we're            |
+| 36:18      | I have to open messages or WhatsApp or [[Skype]] or whatever communication method it is we're            |
 | 36:23      | using probably smoke signals by now.                                                                 |
 | 36:26      | And then check it.                                                                                   |
 | 36:27      | And then I go to [[Drafts]] and I write it only to send it back to the application I just                |

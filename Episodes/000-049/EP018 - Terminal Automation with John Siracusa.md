@@ -918,22 +918,22 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 47:42      | that's not of interest to you either.                                                                    |
 | 47:45      | I wouldn't trust any program.                                                                            |
 | 47:46      | I don't do it.                                                                                           |
-| 47:47      | Like I launched Skype today, right?                                                                      |
-| 47:48      | And every time I launched Skype, it decides the little black window that shows like the                  |
+| 47:47      | Like I launched [[Skype]] today, right?                                                                      |
+| 47:48      | And every time I launched [[Skype]], it decides the little black window that shows like the                  |
 | 47:52      | red hang-up button and the mute button and everything, you know, the little black floating               |
 | 47:56      | window that you may have in your screen right now.                                                       |
 | 47:58      | Yeah.                                                                                                    |
 | 47:59      | It, I don't know where it puts it, but it doesn't put it where I want it to be.                          |
-| 48:02      | And every time I launched Skype, I move it back to where I want it to be.                                |
+| 48:02      | And every time I launched [[Skype]], I move it back to where I want it to be.                                |
 | 48:04      | It just doesn't remember that, right?                                                                    |
-| 48:06      | So could I get an AppleScript that would launch Skype, find that window and move to                     |
+| 48:06      | So could I get an AppleScript that would launch [[Skype]], find that window and move to                     |
 | 48:10      | the position I want?                                                                                     |
 | 48:11      | Probably.                                                                                                |
-| 48:12      | I'm kind of going through the exercise to try to see if Skype has enough of a reasonable                 |
+| 48:12      | I'm kind of going through the exercise to try to see if [[Skype]] has enough of a reasonable                 |
 | 48:17      | script and dictionary.                                                                                   |
 | 48:18      | Can I always find that window as the window named or numbered, or does it change in different            |
-| 48:21      | versions of Skype?                                                                                       |
-| 48:22      | And then when I update Skype, having it break and having me redo it, like, I just drag the               |
+| 48:21      | versions of [[Skype]]?                                                                                       |
+| 48:22      | And then when I update [[Skype]], having it break and having me redo it, like, I just drag the               |
 | 48:25      | window to where it's supposed to be.                                                                     |
 | 48:27      | And I drag to the same spot every time.                                                                  |
 | 48:29      | I mean, there is something to be said about doing these things manually, because as you                  |
@@ -1060,7 +1060,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 55:53      | And make sure that this is actually being interpreted as a 44,100 whatever it is input                   |
 | 55:59      | instead of 48,000, which they discovered today depends on the port I plug it into as to whether          |
 | 56:03      | or not it knows which frequency it should be recording at.                                               |
-| 56:10      | And so it walks me through the steps and then at the end, it opens clip and Skype and everything         |
+| 56:10      | And so it walks me through the steps and then at the end, it opens clip and [[Skype]] and everything         |
 | 56:15      | to make sure that I'm ready for recording and opens [[Audio Hijack]].                                        |
 | 56:18      | So I have some more automated it, but just like you, John, I'm hesitant enough that I                    |
 | 56:25      | could theoretically make this 100% automatic, but I'm just hesitant enough that I don't                  |
@@ -1072,7 +1072,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 56:38      | So I've been wary of any program that's going to move my windows because I'm afraid it's                 |
 | 56:40      | just going to scramble my world.                                                                         |
 | 56:42      | And in practice, good Mac applications, remember your window positions.                                  |
-| 56:47      | Like that's, you know, Skype is not a good Mac application as we all know.                               |
+| 56:47      | Like that's, you know, [[Skype]] is not a good Mac application as we all know.                               |
 | 56:53      | It is the only window that I have to move [[Audio Hijack]] is always in the same place.                      |
 | 56:57      | When I, you know, when I launch it, it opens the podcasting, my podcasting setup, like                   |
 | 57:01      | I don't have to touch it.                                                                                |
