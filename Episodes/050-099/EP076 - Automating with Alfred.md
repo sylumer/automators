@@ -807,7 +807,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:07:39   | good. But I use it for things like that because every so often. And I know this is really weird.         |
 | 01:07:45   | I play music from my Mac to my HomePods. And if I'm remoted into my Mac for something else,             |
 | 01:07:52   | because I love my Mac mini, it's great. And it'll seem be a purple iMac, which will be even better.      |
-| 01:08:01   | Then, you know, so I'm often remoted in doing stuff like messing around with Affinity Publisher,        |
+| 01:08:01   | Then, you know, so I'm often remoted in doing stuff like messing around with [[Affinity Publisher]],        |
 | 01:08:07   | which doesn't yet exist on iPad. And if I'm playing music from my iPad, I don't have those               |
 | 01:08:13   | media keys on my iPad. So I can adjust, you know, the volume and the mute as well. And also,             |
 | 01:08:20   | I highly recommend having the mute toggle available. Because if you use the Alpha                        |
