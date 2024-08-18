@@ -160,7 +160,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 04:56      | Well, somehow I never got the message.                                                             |
 | 04:59      | Right now I'm broadcasting on a computer that's running a beta looking at a phone that's on        |
 | 05:04      | a beta and I've got an iPad attached that's on a beta.                                             |
-| 05:07      | All that said, I don't run the technology preview of Safari.                                       |
+| 05:07      | All that said, I don't run the [[Safari Technology Preview\|technology preview of Safari]].                                       |
 | 05:11      | That's like where I draw the line, because I do like having all the features working               |
 | 05:16      | and I don't find that seeing what's next for [[Safari]] is worth the big hole it makes in my           |
 | 05:24      | life of not having [[Safari]] work reliably.                                                           |
@@ -946,7 +946,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 54:59      | But then I also need to open Figma.                                                                |
 | 55:01      | So I just literally just added Figma to this and boom, you know, that's it, it's done.             |
 | 55:07      | And I have to say what the advantage is a bunch as well as if I do change my browser,              |
-| 55:11      | I can literally just go change the word [[Safari]] for [[Safari]] technology preview.                      |
+| 55:11      | I can literally just go change the word [[Safari]] for [[Safari Technology Preview]].                      |
 | 55:15      | And yeah, that's it kind of done, you know, yeah, um, you know, it's one of those things           |
 | 55:22      | that do, do I want to change this?                                                                 |
 | 55:23      | No, I don't necessarily have any intention of changing this, but, you know, the fact               |
