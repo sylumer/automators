@@ -7,7 +7,7 @@ notetype: "technology"
 # Overview
 Microsoft 365, formerly Office 365, is Microsoft's suite of office products backed by a range of cloud-based services and provided on a subscription basis. 
 
-Developed by Microsoft, offering a range of applications and services to facilitate collaboration, communication, and productivity for individuals and businesses. It combines popular Office apps like Word, Excel, and PowerPoint with cloud services, device management, and advanced security features. Microsoft 365 is designed to streamline workflows, enable remote work, and enhance overall efficiency 
+Developed by [[Microsoft]], offering a range of applications and services to facilitate collaboration, communication, and productivity for individuals and businesses. It combines popular Office apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]] with cloud services, device management, and advanced security features. Microsoft 365 is designed to streamline workflows, enable remote work, and enhance overall efficiency 
 
 Hosted on Microsoft's [[Azure]] cloud, the solution launched in 2010 and has been an enterprise mainstay since launch, and a direct competitor to [[Google G-Suite|Google's suite of applications]].
 
@@ -15,7 +15,7 @@ Hosted on Microsoft's [[Azure]] cloud, the solution launched in 2010 and has bee
 - Advanced security features to safeguard data
 - Device management capabilities for IT administrators
 - Integration with third-party apps and services
-- Real-time co-authoring and editing in applications like Word, Excel, and PowerPoint
+- Real-time co-authoring and editing in applications like [Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]]
 
 ## Applications and Platforms
 There are various applications available through different pricing tiers and models (personal and corporate/enterprise). The applications and platforms available across them include:

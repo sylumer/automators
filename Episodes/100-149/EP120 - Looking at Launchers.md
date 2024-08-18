@@ -386,7 +386,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 21:30      | Issue also works seamlessly with the tools you already use and love, like Canva, Dropbox,             |
 | 21:36      | Mailchimp, and InDesign.                                                                              |
 | 21:37      | I've been working with Issue with my team to put together some newsletter data.                       |
-| 21:42      | They have great online templates that work in Microsoft PowerPoint, Keynote, and can                  |
+| 21:42      | They have great online templates that work in [[Microsoft PowerPoint]], Keynote, and can                  |
 | 21:46      | be uploaded to Google Slides if you want.                                                             |
 | 21:48      | It makes it really easy to get in and just start using the tools, and I'd recommend                   |
 | 21:52      | this to anyone who wants to publish information to the web easily.                                    |

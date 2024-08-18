@@ -1147,7 +1147,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:02:39   | view and you can mark up the documents with the scribble tool and add annotations and notes.           |
 | 01:02:44   | This is what I do all the time in the legal half of my life.                                           |
 | 01:02:48   | PDF pin Pro 11 can automatically turn your documents into fillable forms, plus export                  |
-| 01:02:54   | them to Excel, PowerPoint and more.                                                                    |
+| 01:02:54   | them to Excel, [[Microsoft PowerPoint\|PowerPoint]] and more.                                                                    |
 | 01:02:56   | And sharing documents with PDF pin on iPhone and iPad or your Mac is as simple with the                |
 | 01:03:02   | iCloud or [[Dropbox]] storage.                                                                             |
 | 01:03:03   | Now, if you do any work using PDFs, you need PDF pin, it's really powerful.                            |

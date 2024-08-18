@@ -552,7 +552,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 29:03      | to scan documents directly into PDFpen on your Mac.                                                 |
 | 29:06      | It is super slick.                                                                                  |
 | 29:08      | PDFpen Pro 11 can automatically turn your documents into fillable forms, plus it can                |
-| 29:14      | export to Excel, PowerPoint and more.                                                               |
+| 29:14      | export to Excel, [[Microsoft PowerPoint\|PowerPoint]] and more.                                                               |
 | 29:18      | Learn more about PDFpen and PDFpen Pro at smilesoftware.com/podcast.                          |
 | 29:23      | If you do any work with PDFs, you need PDFpen.                                                      |
 | 29:26      | Go to smilesoftware.com/podcast.                                                              |
