@@ -1501,7 +1501,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:23:01   | automation game, but I love this idea.                                                                    |
 | 01:23:04   | So even for just thinking about this on a really basic level, it sounds like via, you                     |
 | 01:23:11   | open a website from what I'm gathering, you've plugged the keyboard into your computer and                |
-| 01:23:17   | having done something similar with, I use Edge because I also don't really want to install                |
+| 01:23:17   | having done something similar with, I use [[Microsoft Edge\\|Edge]] because I also don't really want to install                |
 | 01:23:21   | [[Google Chrome\|Chrome]], it'll pop up and say, hey, do you want to allow this website to access devices                    |
 | 01:23:28   | connected to your Mac and you say, I want it to be able to access this device, so it'll                   |
 | 01:23:33   | just be accessing the keyboard and then you can kind of just go away and click on stuff                   |

@@ -660,7 +660,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 53:51      | of people aren't aware of and don't use. And so use the built-in ones. But if you're                     |
 | 53:58      | currently or constantly going to a single website for searches, just build it into [[Alfred]]. You can       |
 | 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], [[Firefox]], [[Google Chrome\|Chrome]],      |
-| 54:11      | Edge, whatever your browsers of choice, press command L, and then type it in and then search             |
+| 54:11      | [[Microsoft Edge\\|Edge]], whatever your browsers of choice, press command L, and then type it in and then search             |
 | 54:18      | for it. Instead, you just come on space to [[Alfred]], type your search query, done. And I find that to      |
 | 54:25      | be insanely useful. And you want to talk about contacts? Well, before we talk about contacts,            |
 | 54:31      | David, I think I teased people just now. I think we should talk about bookmarks a minute.                |
