@@ -938,7 +938,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:14:54   | and figure out what the difference was and just replace things until it worked. So that was quite        |
 | 01:14:59   | helpful. So being able to create a [[Keyboard Maestro]] macro that didn't click at an image,                 |
 | 01:15:03   | and I could have done it with shortcuts, and maybe I should have because it would have got the front     |
-| 01:15:07   | most [[Safari]] window. But I do use Firefox and Chrome as well at work because I'm a web developer,         |
+| 01:15:07   | most [[Safari]] window. But I do use Firefox and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
 | 01:15:22   | are using JavaScript, as opposed to AppleScript, what is the balance for you between AppleScript         |

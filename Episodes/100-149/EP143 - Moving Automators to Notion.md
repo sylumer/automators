@@ -1148,7 +1148,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:08:25   | That'll be a show we do next year and stay tuned for that.                                           |
 | 01:08:28   | I think perhaps for me, the big thing with bunch versus [[Keyboard Maestro]] for this specifically       |
 | 01:08:33   | is that if I were to change my default browser, for example, I could just search everywhere          |
-| 01:08:38   | for Firefox and I can just replace Firefox with Chrome or whatever it is.                            |
+| 01:08:38   | for Firefox and I can just replace Firefox with [[Google Chrome\|Chrome]] or whatever it is.                            |
 | 01:08:44   | I'm not planning on doing that.                                                                      |
 | 01:08:45   | I prefer Firefox personally for a number of reasons for at least my development work                 |
 | 01:08:49   | and the rest of the time it's [[Safari]].                                                                |

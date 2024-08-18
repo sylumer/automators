@@ -351,8 +351,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 17:05      | inputs and so on, which as you've got, you know, the ability to have popups and so on                   |
 | 17:10      | like asking you like, you know, yes or no or one of these three things and so on can                    |
 | 17:14      | be really useful.                                                                                       |
-| 17:15      | And yeah, there's also Chrome profiles, which I don't use Chrome, but I like the idea of                |
-| 17:20      | using different Chrome profiles and don't get me wrong, I love [[Safari]], but the fact                     |
+| 17:15      | And yeah, there's also [[Google Chrome\|Chrome]] profiles, which I don't use [[Google Chrome\|Chrome]], but I like the idea of                |
+| 17:20      | using different [[Google Chrome\|Chrome]] profiles and don't get me wrong, I love [[Safari]], but the fact                     |
 | 17:25      | that it's really difficult to automate [[Safari]], which is quite sad, like there's some bits               |
 | 17:30      | of [[Safari]] that are super easy to automate, which I love.                                                |
 | 17:33      | And then other bits of [[Safari]] are just so difficult to automate, like, you know, the                    |

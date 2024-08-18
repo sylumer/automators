@@ -14,7 +14,7 @@ TextExpander is a long standing boiler plate and text correction utility that fi
 - iOS
 - iPadOS
 - Windows
-- Chrome Browser (extension)
+- [[Google Chrome\|Chrome Browser]] (extension)
 
 # Features
 - Text insertion (snippet) through replacement of entered textual triggers (abbreviation).
@@ -49,7 +49,7 @@ TextExpander is a long standing boiler plate and text correction utility that fi
 	- They did reduce the subscription cost, but even so, lost a lot of users in the process, and kept the product and the business going.
 	- While they were pioneering, the feedback across the user base and the wider-media was that the switch could have been done differently, and many other organisations learnt from those mistakes prior to their own transitions to subscription models.
 - January 2017 saw TextExpander released for Windows.
-- April 2019 saw TextExpander release a public beta for Chrome, and a full release in February 2020.
+- April 2019 saw TextExpander release a public beta for [[Google Chrome\|Chrome]], and a full release in February 2020.
 - Since the move to a subscription model, the app has received some visual and user interface updates, but the majority of the development time appears to have gone into supporting the development of the organisational and team support.
 
 # Useful Links

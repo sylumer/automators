@@ -2092,10 +2092,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:21   | recording then it                                                                                  |
 | 01:18:23   | so you know I have Bunch                                                                           |
 | 01:18:25   | automatically open a whole bunch of things opens                                                   |
-| 01:18:27   | Chrome for the show notes because Google Docs                                                      |
-| 01:18:29   | does tend to work best in Chrome and also                                                          |
+| 01:18:27   | [[Google Chrome\|Chrome]] for the show notes because Google Docs                                                      |
+| 01:18:29   | does tend to work best in [[Google Chrome\|Chrome]] and also                                                          |
 | 01:18:31   | [[Keyboard Maestro]] can really easily find                                                            |
-| 01:18:33   | the only Chrome window that exists whereas                                                         |
+| 01:18:33   | the only [[Google Chrome\|Chrome]] window that exists whereas                                                         |
 | 01:18:35   | I have like 304 [[Safari]] windows and if                                                              |
 | 01:18:37   | I've moved away from the show notes for                                                            |
 | 01:18:39   | whatever reason to get a link to put in the                                                        |

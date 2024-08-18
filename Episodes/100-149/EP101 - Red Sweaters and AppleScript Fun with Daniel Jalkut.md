@@ -728,9 +728,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 30:01      | without doing it manually, basically.                             |
 | 30:05      | And what I was so delighted to learn recently                     |
 | 30:08      | when I started digging back into it again                         |
-| 30:11      | is that Chrome in particular,                                     |
+| 30:11      | is that [[Google Chrome\|Chrome]] in particular,                                     |
 | 30:15      | this might be old news to you both,                               |
-| 30:17      | but Chrome in particular has something called Headless Chrome.    |
+| 30:17      | but [[Google Chrome\|Chrome]] in particular has something called [[Headless Chrome]].    |
 | 30:22      | And it's a way, it's like a protocol and interface                |
 | 30:25      | for interacting with the browser programmatically                 |
 | 30:30      | without it even necessarily being loaded into a window.           |
@@ -776,7 +776,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 32:26      | because they just make it so hard.                                |
 | 32:28      | So this is actually very encouraging to me,                       |
 | 32:31      | because I wasn't aware                                            |
-| 32:32      | that there was a headless version of Chrome.                      |
+| 32:32      | that there was a headless version of [[Google Chrome\|Chrome]].                      |
 | 32:36      | So how do you get started?                                        |
 | 32:37      | If someone out there is listening                                 |
 | 32:38      | and you've got their interest,                                    |
@@ -811,12 +811,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 33:52      | and these were all designed to allow you                          |
 | 33:57      | to run various web framework, not frameworks,                     |
 | 34:02      | like the actual browser APIs.                                     |
-| 34:06      | What seems to be unique about Headless Chrome                     |
+| 34:06      | What seems to be unique about [[Headless Chrome]]                     |
 | 34:10      | and Puppeteer is this emphasis on the headless aspect,            |
 | 34:15      | so that you can really come up                                    |
 | 34:18      | with more efficient kind of standalone scripts and stuff          |
 | 34:23      | that run without even like the artefact                           |
-| 34:26      | of seeing Chrome or any other browser open.                       |
+| 34:26      | of seeing [[Google Chrome\|Chrome]] or any other browser open.                       |
 | 34:29      | And Selenium might have provided that too, I can't recall,        |
 | 34:33      | but there's two things I wanna mention                            |
 | 34:35      | while I have everybody thinking about this.                       |
@@ -824,10 +824,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 34:43      | you can find, I think you can just Google it,                     |
 | 34:46      | because it's actually one of the other,                           |
 | 34:49      | so the encouraging things about this are,                         |
-| 34:51      | and I'll say, I'm not a huge Chrome fan, personally,              |
-| 34:54      | I don't use Chrome, I use [[Safari]] all the time,                    |
+| 34:51      | and I'll say, I'm not a huge [[Google Chrome\|Chrome]] fan, personally,              |
+| 34:54      | I don't use [[Google Chrome\|Chrome]], I use [[Safari]] all the time,                    |
 | 34:57      | so I'm kind of like the last person                               |
-| 34:59      | you'd expect to go running to Chrome,                             |
+| 34:59      | you'd expect to go running to [[Google Chrome\|Chrome]],                             |
 | 35:01      | but as soon as I see that there's                                 |
 | 35:04      | like this screen scraping technology                              |
 | 35:06      | that is basically endorsed and sponsored by Google,               |
@@ -836,7 +836,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 35:19      | I'm not gonna make, this is like,                                 |
 | 35:20      | you don't get fired for hiring IBM, you know?                     |
 | 35:23      | It's like, this is, just cause I don't particularly               |
-| 35:28      | use Chrome, doesn't mean I won't lean on it                       |
+| 35:28      | use [[Google Chrome\|Chrome]], doesn't mean I won't lean on it                       |
 | 35:31      | to solve this problem for me.                                     |
 | 35:33      | So basically, if you Google for Puppeteer,                        |
 | 35:36      | you will find it, we can put a link in the show notes             |
@@ -844,7 +844,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 35:40      | So the only other thing I wanna mention is,                       |
 | 35:42      | it took me a little while, cause I got it going,                  |
 | 35:44      | so one of the cool things about Puppeteer                         |
-| 35:46      | and Headless Chrome is you can run it,                            |
+| 35:46      | and [[Headless Chrome]] is you can run it,                            |
 | 35:49      | not headless while you're debugging,                              |
 | 35:51      | and so you can like bring up the browser                          |
 | 35:53      | and see what it's doing and try to figure out                     |
@@ -1076,7 +1076,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 45:05      | for their support of the automators and all of Relay FM.          |
 | 45:11      | So, Daniel, obviously you're having fun with, you know,           |
 | 45:14      | some JavaScript there with Node and Puppeteer                     |
-| 45:17      | and Headless Chrome and so on.                                    |
+| 45:17      | and [[Headless Chrome]] and so on.                                    |
 | 45:18      | But you also mentioned before JavaScript,                         |
 | 45:21      | and obviously, you know, nowadays,                                |
 | 45:24      | for starters, it's not the 1990s anymore,                         |

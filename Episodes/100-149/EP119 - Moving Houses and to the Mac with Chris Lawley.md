@@ -1402,7 +1402,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:16:59   | And the unfortunate thing is you have to use it through a Chromium browser.                               |
 | 01:17:04   | It does not work through [[Safari]] or Firefox.                                                               |
 | 01:17:06   | It has to be a Chromium browser.                                                                          |
-| 01:17:08   | So I use Brave because I refuse to install Chrome on my Mac, but plug your keyboard in.                   |
+| 01:17:08   | So I use Brave because I refuse to install [[Google Chrome\|Chrome]] on my Mac, but plug your keyboard in.                   |
 | 01:17:16   | It'll get recognised for it.                                                                              |
 | 01:17:17   | And there's a few things you can do with this.                                                            |
 | 01:17:18   | So you can reassign keys and Via has support for media keys.                                              |
@@ -1502,7 +1502,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:23:04   | So even for just thinking about this on a really basic level, it sounds like via, you                     |
 | 01:23:11   | open a website from what I'm gathering, you've plugged the keyboard into your computer and                |
 | 01:23:17   | having done something similar with, I use Edge because I also don't really want to install                |
-| 01:23:21   | Chrome, it'll pop up and say, hey, do you want to allow this website to access devices                    |
+| 01:23:21   | [[Google Chrome\|Chrome]], it'll pop up and say, hey, do you want to allow this website to access devices                    |
 | 01:23:28   | connected to your Mac and you say, I want it to be able to access this device, so it'll                   |
 | 01:23:33   | just be accessing the keyboard and then you can kind of just go away and click on stuff                   |
 | 01:23:37   | and see what magic happens or doesn't, that's the case maybe.                                             |

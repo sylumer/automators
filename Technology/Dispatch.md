@@ -25,7 +25,7 @@ The following apps were supported in quick actions.
 - Appigo Todo
 - [[Asana]]
 - [[Apple Calendar|Calendar]]
-- Chrome
+- [[Google Chrome|Chrome]]
 - Clear
 - Dolphin Browser
 - [[Drafts]]

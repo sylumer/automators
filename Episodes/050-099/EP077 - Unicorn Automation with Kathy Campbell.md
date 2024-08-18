@@ -149,9 +149,9 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 08:36      | office, I'm in my chair, I'm at my computer, and I'm working. And it lets me kind of focus                |
 | 08:42      | in that mental status. But also, I don't do, like, a lot of random writing. I don't do                    |
 | 08:50      | a ton of stuff that isn't compartmentalised. So a lot of my client work, I try and keep                   |
-| 08:58      | it separated out. So one of my main clients, I only work in Google Chrome for them. So,                   |
+| 08:58      | it separated out. So one of my main clients, I only work in [[Google Chrome]] for them. So,                   |
 | 09:06      | and that's a specific hourly project-based, like, payment structure. And so when I'm in                   |
-| 09:14      | Chrome, I'm working with this client in particular. And then I have specific windows and styles           |
+| 09:14      | [[Google Chrome\|Chrome]], I'm working with this client in particular. And then I have specific windows and styles           |
 | 09:21      | of windows for other clients. And there's some, some clients where I shut everything                      |
 | 09:28      | else down and I'm only working on this one project. And because of that, it's, yes, the                   |
 | 09:35      | iPad is very good at being able to focus on only one thing. But my brain still is like,                   |

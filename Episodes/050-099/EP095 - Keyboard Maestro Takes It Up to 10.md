@@ -823,13 +823,13 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 50:35      | What I was going to say is then you could use the long press command Q to quit.                          |
 | 50:40      | So just make command Q, close tab and long.                                                              |
 | 50:43      | Yeah.                                                                                                    |
-| 50:44      | Chrome has that as a default where you have to hit command Q and then without letting                    |
+| 50:44      | [[Google Chrome\|Chrome]] has that as a default where you have to hit command Q and then without letting                    |
 | 50:47      | go of the command, hit Q again.                                                                          |
-| 50:49      | And I hate it, but it turns out that's a preference you can disable in Chrome.                           |
+| 50:49      | And I hate it, but it turns out that's a preference you can disable in [[Google Chrome\|Chrome]].                           |
 | 50:54      | Thank God.                                                                                               |
-| 50:55      | I try to use Chrome as rarely as possible, but work requires me to make sure that stuff                  |
-| 51:00      | that I write actually works in Chrome as well as Firefox and [[Safari]].                                     |
-| 51:04      | So I do have to open Chrome on a semi-regular basis and finding out that I could disable                 |
+| 50:55      | I try to use [[Google Chrome\|Chrome]] as rarely as possible, but work requires me to make sure that stuff                  |
+| 51:00      | that I write actually works in [[Google Chrome\|Chrome]] as well as Firefox and [[Safari]].                                     |
+| 51:04      | So I do have to open [[Google Chrome\|Chrome]] on a semi-regular basis and finding out that I could disable                 |
 | 51:09      | that preference meant I could actually get rid of the [[Keyboard Maestro]] macro that I had                  |
 | 51:12      | to just hit the Q again, but it's worth knowing that I could have done it with [[Keyboard Maestro]].         |
 | 51:19      | Yeah.                                                                                                    |

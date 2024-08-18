@@ -1186,11 +1186,11 @@ In this episode, Rose and David explain some of their favourite small automation
 | 48:49      | support of the automators.                                          |
 | 48:52      | So David, something else near and dear to my heart is [[Safari]]        |
 | 48:57      | extensions.                                                         |
-| 48:58      | You know, Firefox and Chrome have had loads of extensions           |
+| 48:58      | You know, Firefox and [[Google Chrome\|Chrome]] have had loads of extensions           |
 | 49:01      | for ages, but I find [[Safari]] is so performant on my Mac and          |
 | 49:06      | great at not eating my battery life.                                |
 | 49:08      | You know, the fastest way to run down a Mac's battery is to         |
-| 49:10      | open Chrome, probably with [[Slack]] or something.                      |
+| 49:10      | open [[Google Chrome\|Chrome]], probably with [[Slack]] or something.                      |
 | 49:14      | And then, you know, what is battery life?                           |
 | 49:17      | But [[Safari]] has for a while been, you know, it kind of               |
 | 49:22      | struggled with extensions.                                          |
@@ -1373,7 +1373,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 56:57      | certainly going to want picture in picture.                         |
 | 56:59      | So let me picture and picture it without having                     |
 | 57:02      | to like work around Google's YouTube using like                     |
-| 57:06      | wanting me to use Chrome to do this and other                       |
+| 57:06      | wanting me to use [[Google Chrome\|Chrome]] to do this and other                       |
 | 57:09      | horrible, weird things.                                             |
 | 57:11      | So, uh, yeah, um, I stopped the madness is, is a                    |
 | 57:14      | great app as well, uh, extension as well.                           |

@@ -770,7 +770,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 41:51      | the name of the new application, if you've done, if you've actually put shortcuts on                 |
 | 41:55      | their screen for them, then they have the same icon and they have the same name for                  |
 | 41:59      | the icon and they press it and it just opens the different application.                              |
-| 42:03      | This is a little bit like what I used to do for my grandparents with putting Chrome on               |
+| 42:03      | This is a little bit like what I used to do for my grandparents with putting [[Google Chrome\|Chrome]] on               |
 | 42:07      | the desktop with the Internet Explorer icon because the blue E is the internet.                      |
 | 42:11      | Yeah.                                                                                                |
 | 42:12      | That's clever.                                                                                       |

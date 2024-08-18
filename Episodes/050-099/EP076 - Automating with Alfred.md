@@ -659,13 +659,13 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 53:45      | Yeah. But those web searches, I think, are a killer feature. And one again, I think a lot                |
 | 53:51      | of people aren't aware of and don't use. And so use the built-in ones. But if you're                     |
 | 53:58      | currently or constantly going to a single website for searches, just build it into [[Alfred]]. You can       |
-| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], Firefox, Chrome,      |
+| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], Firefox, [[Google Chrome\|Chrome]],      |
 | 54:11      | Edge, whatever your browsers of choice, press command L, and then type it in and then search             |
 | 54:18      | for it. Instead, you just come on space to [[Alfred]], type your search query, done. And I find that to      |
 | 54:25      | be insanely useful. And you want to talk about contacts? Well, before we talk about contacts,            |
 | 54:31      | David, I think I teased people just now. I think we should talk about bookmarks a minute.                |
 | 54:35      | All right. Let's do that. Because web bookmarks are something, so if you're a Firefox user,              |
-| 54:41      | I am afraid you're out of luck here. [[Alfred]] only integrates with bookmarks in [[Safari]] and Chrome.         |
+| 54:41      | I am afraid you're out of luck here. [[Alfred]] only integrates with bookmarks in [[Safari]] and [[Google Chrome\|Chrome]].         |
 | 54:48      | But basically what this means is you can turn on searching your bookmarks. So obviously,                 |
 | 54:54      | in the bookmarks of [[Safari]], that's my browser of choice, I actually use [[Safari Technology Preview]],       |
 | 55:00      | but it integrates via [[Safari]], so it's fine. If I search for automators, then as well as                  |
@@ -677,8 +677,8 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 55:38      | relater service. If you do use your bookmarks as a relater service, then you may not want to use         |
 | 55:44      | this feature, just because you're going to have tons of stuff. Unless, of course, you want all           |
 | 55:48      | of that stuff to show up, in which case it's perfect. And yeah, they do recommend don't                  |
-| 55:55      | enable browsers that you don't need here. So I do also have Chrome installed for a variety of reasons,   |
-| 56:00      | debugging among them. And I don't have bookmarks enabled for Chrome because, obviously, the more         |
+| 55:55      | enable browsers that you don't need here. So I do also have [[Google Chrome\|Chrome]] installed for a variety of reasons,   |
+| 56:00      | debugging among them. And I don't have bookmarks enabled for [[Google Chrome\|Chrome]] because, obviously, the more         |
 | 56:06      | stuff you put into [[Alfred]], the more it's going to have to process things. And the more it has to         |
 | 56:09      | process, the slower it's going to be overall. I've personally never, ever had a performance              |
 | 56:15      | issue with [[Alfred]], ever. But I don't enable things. I don't need that either.                            |

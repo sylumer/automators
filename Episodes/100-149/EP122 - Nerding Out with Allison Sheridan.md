@@ -743,7 +743,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 57:27      | two parcels. So first of all, I use the sleep focus and sleep mode with the health app on my            |
 | 57:31      | iPhone. So when my wake up alarm is snoozed in the morning, what actually happens is it uses            |
 | 57:38      | a great little app called [[Signals for HomeKit]], and it flashes my bedside lights as brightly as         |
-| 57:43      | it they can go. And it's a really sort of horrible greeny yellow colour. It's not a good colour.          |
+| 57:43      | it they can go. And it's a really sort of horrible greeny-yellow colour. It's not a good colour.          |
 | 57:49      | It's my punishment for hitting the switch button. Does it seem to be the most irritating to you?        |
 | 57:53      | Exactly. And it also slightly increases the volume of my HomePod. Not a lot, but it increased the      |
 | 57:57      | volume of my HomePod. But then the other thing that I do is when my wake up alarm actually goes        |
@@ -777,9 +777,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:00:22   | the blank fields, time stamps and more. This will make sure that you still keep the personality         |
 | 01:00:27   | and the communications you send. And TextExpander is available on any device you use across any         |
 | 01:00:33   | app use on Mac, Windows, Chrome and iOS. I use TextExpander for nearly everything.                      |
-| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote [[Stream Deck]]       |
+| 01:00:40   | Not a day goes by that I don't seem to make a new snippet. Just the other day I wrote "StreamDeck"       |
 | 01:00:44   | but I put no space. For some reason I was thinking it was camel case. So I made a TextExpander snippet. |
-| 01:00:50   | So anytime I type [[Stream Deck]] with no space it adds a space using a snippet. Just little human          |
+| 01:00:50   | So anytime I type "StreamDeck" with no space it adds a space using a snippet. Just little human          |
 | 01:00:56   | built-in typos can get fixed like that with TextExpander but I can also fill in entire contracts        |
 | 01:01:01   | with TextExpander language. It really boosts your productivity. If repetitive typing is getting         |
 | 01:01:07   | you down you need TextExpander. So check out TextExpander today at textexpander.com/              |

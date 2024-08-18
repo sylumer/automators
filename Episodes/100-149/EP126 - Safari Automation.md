@@ -311,7 +311,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 14:43      | [[Safari\|Safari's]] work developer tools, they're not bad, but I'm just so used to the ones in                |
 | 14:46      | Firefox and how Firefox works and quite frankly, at least in my day job, there's very few people   |
 | 14:52      | who are using [[Safari]], so while I open it to test what I've done, I'm better off using              |
-| 14:57      | Firefox, given the choice between that and a Chrome-based browser, like, I stick with              |
+| 14:57      | Firefox, given the choice between that and a [[Google Chrome\|Chrome-based browser]], like, I stick with              |
 | 15:02      | Firefox.                                                                                           |
 | 15:03      | Yeah, Firefox is also my on-deck browser if I need something else for some reason.                 |
 | 15:10      | Although I have to say, I don't hit that problem as much as I used to about [[Safari]] not working     |
@@ -622,7 +622,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 33:55      | But sometimes I need to, like I use CleanShot, and I don't necessarily want to do the scrolling    |
 | 34:00      | screenshot thing.                                                                                  |
 | 34:01      | So I often use AwesomeScreenshot on macOS.                                                         |
-| 34:05      | And what I love about AwesomeScreenshot is it's also available for Firefox and Chrome.             |
+| 34:05      | And what I love about AwesomeScreenshot is it's also available for Firefox and [[Google Chrome\|Chrome]].             |
 | 34:09      | And this can take a screenshot of a whole web page for you so that you can get everything           |
 | 34:15      | in one screenshot.                                                                                 |
 | 34:16      | And then it doesn't just save as a screenshot, it'll let you like share it or upload it somewhere  |
@@ -691,7 +691,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 38:36      | Now, Choosy lets you say, okay, whenever I open this kind of link, so whenever I open              |
 | 38:42      | a link from the [[Slack]] app, I want it to open in this browser.                                      |
 | 38:47      | Whenever I open a link containing relay.fm, I want it to open in [[Safari]], whatever it is.           |
-| 38:53      | But Choosy also has a [[Safari]] extension and Firefox extension and Chrome extension, etc.            |
+| 38:53      | But Choosy also has a [[Safari]] extension and Firefox extension and [[Google Chrome\|Chrome]] extension, etc.            |
 | 39:00      | Because then what I can do is I can say, hey, this page that I'm on, open it in this browser       |
 | 39:04      | for me, please.                                                                                    |
 | 39:06      | And that for me ends up being very useful, because then I can, you know, open any link             |
@@ -952,7 +952,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 55:23      | No, I don't necessarily have any intention of changing this, but, you know, the fact               |
 | 55:27      | that I could, if I wanted to, um, is definitely, uh, you know, an appealing factor.                |
 | 55:33      | Um, and, you know, hopefully at some point, if we get better tab group support and other           |
-| 55:37      | automation things, then, um, you know, just like a bunch can open different Chrome profiles,       |
+| 55:37      | automation things, then, um, you know, just like a bunch can open different [[Google Chrome\|Chrome]] profiles,       |
 | 55:43      | maybe, you know, it can also open things in particular [[Safari]] tab groups that will be              |
 | 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
@@ -1171,7 +1171,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:09:20   | This will make sure you keep the personality in the communication that you send whilst             |
 | 01:09:24   | staying productive.                                                                                |
 | 01:09:26   | Techs Expander is available on any device you use, across any app you use, on Mac, Windows,        |
-| 01:09:30   | Chrome and iOS.                                                                                    |
+| 01:09:30   | [[Google Chrome\|Chrome]] and iOS.                                                                                    |
 | 01:09:31   | I use Techs Expander for all sorts of things but the thing I love the most is the fact             |
 | 01:09:36   | that the snippets sync.                                                                            |
 | 01:09:37   | I update it in one place and it updates everywhere, which means going back to those company FAQs,  |

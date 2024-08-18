@@ -530,20 +530,20 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 27:37      | That was my own little rabbit hole there, but yeah.                                                  |
 | 27:39      | This whole thing has really great support for websites and URLs, and you can even specify            |
 | 27:45      | which browser it opens in.                                                                           |
-| 27:47      | So like if you've got a website that only works in Firefox or Chrome, you could tell                 |
-| 27:54      | it open this URL in Chrome.                                                                          |
+| 27:47      | So like if you've got a website that only works in Firefox or [[Google Chrome\|Chrome]], you could tell                 |
+| 27:54      | it open this URL in [[Google Chrome\|Chrome]].                                                                          |
 | 27:56      | Yeah.                                                                                                |
 | 27:57      | I love this.                                                                                         |
 | 27:58      | I'm using it.                                                                                        |
 | 27:59      | So Google Docs works fine in [[Safari]] on the Mac.                                                      |
-| 28:01      | There's no problem with it, but I like the fact that it's then in a Chrome window because            |
-| 28:06      | then I have [[Moom]] put Chrome in a certain spot, and I do the same thing with Firefox when             |
+| 28:01      | There's no problem with it, but I like the fact that it's then in a [[Google Chrome\|Chrome]] window because            |
+| 28:06      | then I have [[Moom]] put [[Google Chrome\|Chrome]] in a certain spot, and I do the same thing with Firefox when             |
 | 28:12      | I'm recording automators, I open it in Firefox.                                                      |
 | 28:16      | Why am I doing it in two different browsers?                                                         |
 | 28:18      | It seemed like a good idea at the time.                                                              |
 | 28:19      | It probably isn't.                                                                                   |
 | 28:20      | I should probably change that at some point, but for the time being, I'm opening things              |
-| 28:23      | in Firefox and Chrome, and then [[Moom]] knows that, okay, Firefox goes over here, Chrome                |
+| 28:23      | in Firefox and [[Google Chrome\|Chrome]], and then [[Moom]] knows that, okay, Firefox goes over here, [[Google Chrome\|Chrome]]                |
 | 28:29      | goes over here, [[Safari]] goes over there on the other side, and it gets resized much smaller,          |
 | 28:34      | and I really like that.                                                                              |
 | 28:35      | I have another basic concept that we really should tell people about.                                |
