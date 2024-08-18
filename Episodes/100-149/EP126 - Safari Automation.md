@@ -299,21 +299,21 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 13:49      | It's BookMacster.                                                                                 |
 | 13:50      | Mac is in Mac OS and I can put a link to that in the show notes, but what this will                |
 | 13:54      | do is it can go through and, like, I do use it for syncing my bookmarks so that I get              |
-| 13:59      | my bookmarks out of [[Safari]] into Firefox because I have a Firefox profile that then can sync        |
-| 14:05      | that across to other machines and, you know, in those Firefox's.                                   |
+| 13:59      | my bookmarks out of [[Safari]] into [[Firefox]] because I have a [[Firefox]] profile that then can sync        |
+| 14:05      | that across to other machines and, you know, in those [[Firefox\|Firefox's]].                                   |
 | 14:12      | But it can also look for dead links and it can alphabetise links within folders for me             |
 | 14:17      | as well, meaning that, like, you know, the various, you know, folders or bookmarks are             |
 | 14:23      | all alphabetised, which is quite useful when you are looking for something and because             |
 | 14:27      | it will find those dead links, I don't need to worry about, you know, too many, you know,          |
 | 14:33      | bad things popping up and every so often I'll, you know, get that out and run that and, you        |
 | 14:36      | know, usually I'm using [[Safari]].                                                                    |
-| 14:39      | As a developer, I do love using Firefox as well for that stuff.                                    |
+| 14:39      | As a developer, I do love using [[Firefox]] as well for that stuff.                                    |
 | 14:43      | [[Safari\|Safari's]] work developer tools, they're not bad, but I'm just so used to the ones in                |
-| 14:46      | Firefox and how Firefox works and quite frankly, at least in my day job, there's very few people   |
+| 14:46      | [[Firefox]] and how [[Firefox]] works and quite frankly, at least in my day job, there's very few people   |
 | 14:52      | who are using [[Safari]], so while I open it to test what I've done, I'm better off using              |
-| 14:57      | Firefox, given the choice between that and a [[Google Chrome\|Chrome-based browser]], like, I stick with              |
-| 15:02      | Firefox.                                                                                           |
-| 15:03      | Yeah, Firefox is also my on-deck browser if I need something else for some reason.                 |
+| 14:57      | [[Firefox]], given the choice between that and a [[Google Chrome\|Chrome-based browser]], like, I stick with              |
+| 15:02      | [[Firefox]].                                                                                           |
+| 15:03      | Yeah, [[Firefox]] is also my on-deck browser if I need something else for some reason.                 |
 | 15:10      | Although I have to say, I don't hit that problem as much as I used to about [[Safari]] not working     |
 | 15:16      | nicely with whatever websites I go to.                                                             |
 | 15:18      | I mean, it used to be more frequent that [[Safari]] just wouldn't work, but it's big enough.           |
@@ -514,7 +514,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 27:45      | So what you can do then is you can actually press option and then you can close the tabs           |
 | 27:50      | to the left.                                                                                       |
 | 27:51      | I can't believe how long I didn't know that for because like I use this feature heavily            |
-| 27:57      | in Firefox of like closed tabs to the left.                                                        |
+| 27:57      | in [[Firefox]] of like closed tabs to the left.                                                        |
 | 27:59      | I don't want any of the tabs to the left.                                                          |
 | 28:01      | This doesn't, by the way, include pin tabs.                                                        |
 | 28:02      | It won't close those pin tabs unless you explicitly go to close them.                              |
@@ -622,7 +622,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 33:55      | But sometimes I need to, like I use CleanShot, and I don't necessarily want to do the scrolling    |
 | 34:00      | screenshot thing.                                                                                  |
 | 34:01      | So I often use AwesomeScreenshot on macOS.                                                         |
-| 34:05      | And what I love about AwesomeScreenshot is it's also available for Firefox and [[Google Chrome\|Chrome]].             |
+| 34:05      | And what I love about AwesomeScreenshot is it's also available for [[Firefox]] and [[Google Chrome\|Chrome]].             |
 | 34:09      | And this can take a screenshot of a whole web page for you so that you can get everything           |
 | 34:15      | in one screenshot.                                                                                 |
 | 34:16      | And then it doesn't just save as a screenshot, it'll let you like share it or upload it somewhere  |
@@ -691,7 +691,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 38:36      | Now, Choosy lets you say, okay, whenever I open this kind of link, so whenever I open              |
 | 38:42      | a link from the [[Slack]] app, I want it to open in this browser.                                      |
 | 38:47      | Whenever I open a link containing relay.fm, I want it to open in [[Safari]], whatever it is.           |
-| 38:53      | But Choosy also has a [[Safari]] extension and Firefox extension and [[Google Chrome\|Chrome]] extension, etc.            |
+| 38:53      | But Choosy also has a [[Safari]] extension and [[Firefox]] extension and [[Google Chrome\|Chrome]] extension, etc.            |
 | 39:00      | Because then what I can do is I can say, hey, this page that I'm on, open it in this browser       |
 | 39:04      | for me, please.                                                                                    |
 | 39:06      | And that for me ends up being very useful, because then I can, you know, open any link             |

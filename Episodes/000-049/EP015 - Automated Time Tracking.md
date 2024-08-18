@@ -408,7 +408,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 14:11      | Yes, and this was, I believe,                                                   |
 | 14:14      | my very first time tracking application                                         |
 | 14:16      | because I started using it as a browser extension,                              |
-| 14:19      | I think back in Firefox in the day,                                             |
+| 14:19      | I think back in [[Firefox]] in the day,                                             |
 | 14:21      | I've even still been on Windows back then.                                      |
 | 14:23      | And it's, as I said, originators browser extension,                             |
 | 14:28      | you can now install it on Mac OS Windows.                                       |
@@ -429,7 +429,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 15:04      | today I spent a lot of time in PHP storm.                                       |
 | 15:07      | And so it will tell me that I spent probably six hours                          |
 | 15:10      | of my day in PHP storm in the other two hours                                   |
-| 15:12      | of my work day in Firefox.                                                      |
+| 15:12      | of my work day in [[Firefox]].                                                      |
 | 15:15      | So that I have a good idea                                                      |
 | 15:17      | and it can give you more data as well,                                          |
 | 15:19      | which is really nice.                                                           |

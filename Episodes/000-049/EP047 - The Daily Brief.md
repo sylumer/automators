@@ -732,7 +732,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:00:10   | Doc. And then, of course, we have another [[Airtable]] action to update our [[Airtable]] record with a link      |
 | 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
 | 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the [[Airtable]]   |
-| 01:00:27   | [[Airtable]] base in Firefox for me. And then I can see the link to the show notes. And I can just           |
+| 01:00:27   | [[Airtable]] base in [[Firefox]] for me. And then I can see the link to the show notes. And I can just           |
 | 01:00:35   | click on it and go straight to the show notes there. Because, of course, every show has a different      |
 | 01:00:38   | document. Nice. That was a lot of work, though. It sounds like a lot of work, but actually,              |
 | 01:00:43   | once I realised that I just needed a formatter action, it wasn't so much work. I added the script        |

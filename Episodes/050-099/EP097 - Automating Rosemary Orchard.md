@@ -421,10 +421,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 29:22      | or, I don't know, just tell, tell me some of the other setups you've got.                                |
 | 29:26      | Well, I mean, it depends because actually at work, I have three primary setups that                      |
 | 29:31      | I use. I've got coding, which, you know, splits my ID, which PHP storm on one side of my screen,         |
-| 29:37      | Firefox on the other side of my screen. And then on my laptop screen, it'll put item split               |
+| 29:37      | [[Firefox]] on the other side of my screen. And then on my laptop screen, it'll put item split               |
 | 29:42      | into three areas. So running the right commands that I need for, for the day. But then if                |
 | 29:48      | I'm going joining a meeting at work, then it will put teams in the middle because it's,                  |
-| 29:54      | it's going to be teams for meetings, meetings. And it puts, it slims down Firefox and puts               |
+| 29:54      | it's going to be teams for meetings, meetings. And it puts, it slims down [[Firefox]] and puts               |
 | 30:01      | it on the left of that and it slims down PHP storm and puts it on the right just so that                 |
 | 30:06      | if I need to see my code or the, the site that I was on beforehand, I can do that.                       |
 | 30:12      | And then I've also got another one for, I'm screen sharing, because when I'm screen sharing              |
@@ -859,7 +859,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:07:11   | everything click. Because once I figured that out, I figured out not only my text expansions,            |
 | 01:07:16   | but also when I hit save, I needed to do a particular sequence events. I need to activate                |
 | 01:07:22   | the terminal or iTerm as it is now so that I can actually look and see the thing and make sure           |
-| 01:07:27   | that everything's compiling. And then if that's fine, then I can go over to Firefox and refresh          |
+| 01:07:27   | that everything's compiling. And then if that's fine, then I can go over to [[Firefox]] and refresh          |
 | 01:07:32   | the page. But I don't want that to happen when I'm editing certain files. And so because I can           |
 | 01:07:39   | check which files I'm editing, thanks to the property, which is the title of the window,                 |
 | 01:07:45   | I can make different magic happen. And that was one of those things where, yeah,                         |
@@ -938,7 +938,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:14:54   | and figure out what the difference was and just replace things until it worked. So that was quite        |
 | 01:14:59   | helpful. So being able to create a [[Keyboard Maestro]] macro that didn't click at an image,                 |
 | 01:15:03   | and I could have done it with shortcuts, and maybe I should have because it would have got the front     |
-| 01:15:07   | most [[Safari]] window. But I do use Firefox and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
+| 01:15:07   | most [[Safari]] window. But I do use [[Firefox]] and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
 | 01:15:22   | are using JavaScript, as opposed to AppleScript, what is the balance for you between AppleScript         |

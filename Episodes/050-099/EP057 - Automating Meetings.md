@@ -783,7 +783,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 58:23      | tag as well as the store name tag. And so that helps because, you know, you can see                       |
 | 58:32      | how to do that.                                                                                           |
 | 58:33      | And I just like the idea of doing it in JavaScript because then I can just add tons of things.            |
-| 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or Firefox on                       |
+| 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or [[Firefox]] on                       |
 | 58:45      | my work machine. If I'm taking a quick break from work, usually like three pages there.                   |
 | 58:49      | But then I just add them all. And then when I get to it later on whatever platform I'm                    |
 | 58:53      | on, that's why I went with the OmniFocus automation here with the JavaScript scripting. Then I            |

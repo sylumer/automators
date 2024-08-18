@@ -1186,7 +1186,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 48:49      | support of the automators.                                          |
 | 48:52      | So David, something else near and dear to my heart is [[Safari]]        |
 | 48:57      | extensions.                                                         |
-| 48:58      | You know, Firefox and [[Google Chrome\|Chrome]] have had loads of extensions           |
+| 48:58      | You know, [[Firefox]] and [[Google Chrome\|Chrome]] have had loads of extensions           |
 | 49:01      | for ages, but I find [[Safari]] is so performant on my Mac and          |
 | 49:06      | great at not eating my battery life.                                |
 | 49:08      | You know, the fastest way to run down a Mac's battery is to         |

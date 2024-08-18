@@ -931,7 +931,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 39:31      | that I keep installed on my iPad and my iPhone,                   |
 | 39:33      | and I very rarely use.                                            |
 | 39:34      | But what I do when I'm using it is I've set it                    |
-| 39:37      | so that the browser profile is Firefox on Windows.                |
+| 39:37      | so that the browser profile is [[Firefox]] on Windows.                |
 | 39:40      | Because this nearly always gets around the,                       |
 | 39:43      | oh, we've detected you're using an iPad,                          |
 | 39:45      | so we're gonna give you a really janky mobile interface           |

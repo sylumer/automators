@@ -828,7 +828,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 50:49      | And I hate it, but it turns out that's a preference you can disable in [[Google Chrome\|Chrome]].                           |
 | 50:54      | Thank God.                                                                                               |
 | 50:55      | I try to use [[Google Chrome\|Chrome]] as rarely as possible, but work requires me to make sure that stuff                  |
-| 51:00      | that I write actually works in [[Google Chrome\|Chrome]] as well as Firefox and [[Safari]].                                     |
+| 51:00      | that I write actually works in [[Google Chrome\|Chrome]] as well as [[Firefox]] and [[Safari]].                                     |
 | 51:04      | So I do have to open [[Google Chrome\|Chrome]] on a semi-regular basis and finding out that I could disable                 |
 | 51:09      | that preference meant I could actually get rid of the [[Keyboard Maestro]] macro that I had                  |
 | 51:12      | to just hit the Q again, but it's worth knowing that I could have done it with [[Keyboard Maestro]].         |
@@ -975,7 +975,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:00:48   | got, which are things like when I hit save in PHPStorm, it activates my terminal to give                 |
 | 01:00:56   | me a second to look at the information that's being processed and whether or not work is                 |
 | 01:01:01   | updating.                                                                                                |
-| 01:01:03   | And then it activates Firefox for me to go ahead and refresh.                                            |
+| 01:01:03   | And then it activates [[Firefox]] for me to go ahead and refresh.                                            |
 | 01:01:06   | But that only happens when I am not in the office, because otherwise, I found that I                     |
 | 01:01:13   | was getting dragged back and forth between spaces because I use spaces when I'm just                     |
 | 01:01:16   | using a laptop.                                                                                          |

@@ -185,7 +185,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 07:36      | "Automators".                                                                                                      |
 | 07:37      | So otherwise "Automators" at the top "iOS Today" is in the middle.                                                 |
 | 07:40      | And just "Podcast General" is then right at the bottom, which really doesn't help.                                 |
-| 07:45      | And then other than that, if it is an application specific one, it will say "App:Firefox"                          |
+| 07:45      | And then other than that, if it is an application specific one, it will say "App:[[Firefox]]"                          |
 | 07:53      | "App:Finder".                                                                                                      |
 | 07:55      | If it's machine specific group, it'll be "Mac:", because Mac stands conveniently for                               |
 | 08:01      | machine as well as Mac, and then the name of the machine and so on.                                                |
@@ -200,7 +200,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 08:42      | No, it's good.                                                                                                     |
 | 08:43      | Well, I do have a lot of groups, but I don't have that, like I don't have that many differences                    |
 | 08:49      | between those groups, if that makes sense.                                                                         |
-| 08:52      | You know, like a lot of them will just be, you know, like "Work:Citrix", "Work:Firefox",                           |
+| 08:52      | You know, like a lot of them will just be, you know, like "Work:Citrix", "Work:[[Firefox]]",                           |
 | 08:57      | "Work:Microsoft Teams", and so on.                                                                                 |
 | 09:00      | And that will just let me know that this is, you know, work for a specific application.                            |
 | 09:05      | I guess that's why I break from my application rule.                                                               |

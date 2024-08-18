@@ -659,12 +659,12 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 53:45      | Yeah. But those web searches, I think, are a killer feature. And one again, I think a lot                |
 | 53:51      | of people aren't aware of and don't use. And so use the built-in ones. But if you're                     |
 | 53:58      | currently or constantly going to a single website for searches, just build it into [[Alfred]]. You can       |
-| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], Firefox, [[Google Chrome\|Chrome]],      |
+| 54:04      | make it yourself. Yeah. Yeah. So don't necessarily, you won't have to open [[Safari]], [[Firefox]], [[Google Chrome\|Chrome]],      |
 | 54:11      | Edge, whatever your browsers of choice, press command L, and then type it in and then search             |
 | 54:18      | for it. Instead, you just come on space to [[Alfred]], type your search query, done. And I find that to      |
 | 54:25      | be insanely useful. And you want to talk about contacts? Well, before we talk about contacts,            |
 | 54:31      | David, I think I teased people just now. I think we should talk about bookmarks a minute.                |
-| 54:35      | All right. Let's do that. Because web bookmarks are something, so if you're a Firefox user,              |
+| 54:35      | All right. Let's do that. Because web bookmarks are something, so if you're a [[Firefox]] user,              |
 | 54:41      | I am afraid you're out of luck here. [[Alfred]] only integrates with bookmarks in [[Safari]] and [[Google Chrome\|Chrome]].         |
 | 54:48      | But basically what this means is you can turn on searching your bookmarks. So obviously,                 |
 | 54:54      | in the bookmarks of [[Safari]], that's my browser of choice, I actually use [[Safari Technology Preview]],       |

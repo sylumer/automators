@@ -1529,10 +1529,10 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:36:58   | browser.                                                                                             |
 | 01:36:59   | But it's also quite useful to use that as a way to learn JavaScript, because you just                |
 | 01:37:06   | need a browser.                                                                                      |
-| 01:37:07   | Firefox or [[Google Chrome\|Chrome]] are probably best as much as I love [[Safari]], [[Safari\|Safari's]] developer tools.              |
+| 01:37:07   | [[Firefox]] or [[Google Chrome\|Chrome]] are probably best as much as I love [[Safari]], [[Safari\|Safari's]] developer tools.              |
 | 01:37:12   | Don't have things in the same place that a lot of tutorials will tell you where to find              |
-| 01:37:16   | them, but they will have them for Firefox and [[Google Chrome\|Chrome]], but they'll tell you where it                  |
-| 01:37:21   | is in Firefox and [[Google Chrome\|Chrome]], which is useful.                                                           |
+| 01:37:16   | them, but they will have them for [[Firefox]] and [[Google Chrome\|Chrome]], but they'll tell you where it                  |
+| 01:37:21   | is in [[Firefox]] and [[Google Chrome\|Chrome]], which is useful.                                                           |
 | 01:37:23   | But yeah, it's really useful.                                                                        |
 | 01:37:25   | And I just love how universal it's becoming thanks to WebKit.                                        |
 | 01:37:30   | Yes.                                                                                                 |

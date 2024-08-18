@@ -365,7 +365,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 29:34      | like you would for any markdown link. And then in the parentheses, you type exclamation point G,          |
 | 29:40      | which is short for Google. And there's a whole bunch of different bang searches you can use.              |
 | 29:45      | But that right there, when you run that paragraph now through SearchLink, it's going to find that         |
-| 29:51      | link syntax. It's going to search for Brett Terpstra and it's going to find Brett Terpstra.com             |
+| 29:51      | link syntax. It's going to search for Brett Terpstra and it's going to find [brettterpstra.com](https://brettterpstra.com)             |
 | 29:57      | and it's going to replace the search syntax with that markdown link. It makes creating show notes.        |
 | 30:04      | Like I can just write, well, something comes up in a podcast. I can just write what it is that            |
 | 30:12      | I know I'm going to search for and I can leave it. And then at the end of the podcast, I can just go      |
@@ -388,7 +388,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 32:04      | Yeah, I am. All right, so I'm typing Brett Terpstra markdown service tools,                           |
 | 32:13      | and highlighting that, hitting my keyboard shortcut. And it should...                                     |
 | 32:20      | Oh, maybe it doesn't work in Google Docs. Of course not. We're just talking about it.                     |
-| 32:25      | Yeah, it might be a Firefox problem, yet that should have just linked it,                                 |
+| 32:25      | Yeah, it might be a [[Firefox]] problem, yet that should have just linked it,                                 |
 | 32:30      | and it would in a markdown file. But here, let me just give it a shot. I'm going to try it too.           |
 | 32:35      | Isn't this great podcast scene we're experimenting right on?                                              |
 | 32:38      | This is great radio. Yeah, okay, so it doesn't work in Google Docs,                                       |
@@ -818,7 +818,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:17:44   | one of the things I really like about it is the history. Like it shows you the history of the             |
 | 01:17:48   | data collected by the sensor, which gives you a lot of insight when you're building your automations      |
 | 01:17:54   | as to what's working and what's not. Yeah. Cool. I'll check it out. All right. So Brett,                  |
-| 01:18:00   | where can people find you these days? I am as always at brettterpstra.com. That's three T's in            |
+| 01:18:00   | where can people find you these days? I am as always at [brettterpstra.com](https://brettterpstra.com). That's three T's in            |
 | 01:18:07   | the middle. You can find all of my projects there, links to all of my social media. If you're looking     |
 | 01:18:15   | for me on Twitter or Macedon or whatever, I'm everywhere. I am ttscoff, ttscoff. And that will,           |
 | 01:18:28   | that will generally find me. You can even go to ttscoff.me on the web and it will take you to             |

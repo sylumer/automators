@@ -1075,7 +1075,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 55:58      | And nothing was happening.                                                                            |
 | 55:59      | And this was very confusing.                                                                          |
 | 56:00      | And I was like, ah, I'm missing [[BetterTouchTool]] because I use three finger tap as a middle          |
-| 56:05      | click, which in [[Google Chrome\|Chrome]], [[Safari]], Firefox will open a link in a new tab.                                |
+| 56:05      | click, which in [[Google Chrome\|Chrome]], [[Safari]], [[Firefox]] will open a link in a new tab.                                |
 | 56:12      | And very basic one.                                                                                   |
 | 56:15      | Do you use PopClip?                                                                                  |
 | 56:16      | Yeah.                                                                                                 |
