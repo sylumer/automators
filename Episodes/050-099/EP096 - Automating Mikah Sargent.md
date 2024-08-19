@@ -531,7 +531,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 30:32      | It doesn't matter.                                                                                      |
 | 30:33      | Trigger is a trigger, but the automation part is really what comes after the trigger and                |
 | 30:38      | that's like saying, okay, rather than me, go through all the steps to copy this text,                   |
-| 30:43      | put in Grammarly, create a new file, paste it, all the things.                                          |
+| 30:43      | put in [[Grammarly]], create a new file, paste it, all the things.                                          |
 | 30:47      | I just made it automatic, so it just does that for me.                                                  |
 | 30:49      | That's automation, so you're good.                                                                      |
 | 30:51      | Yay.                                                                                                    |

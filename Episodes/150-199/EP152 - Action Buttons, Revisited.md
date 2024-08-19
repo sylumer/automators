@@ -777,8 +777,8 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 31:10      | Yeah, all sorts of things in there.                             |
 | 31:12      | That could work.                                                |
 | 31:13      | You know, another piece of AI I've got in the loop here         |
-| 31:16      | is Grammarly, I feel like has really kind of embraced AI.       |
-| 31:20      | I think they realised that if Grammarly doesn't continue        |
+| 31:16      | is [[Grammarly]], I feel like has really kind of embraced AI.       |
+| 31:20      | I think they realised that if [[Grammarly]] doesn't continue        |
 | 31:23      | to be at the cutting edge of this stuff,                        |
 | 31:24      | we're all gonna cancel our [[Grammarly]] subscriptions              |
 | 31:26      | and just have AI do grammar check for us.                       |

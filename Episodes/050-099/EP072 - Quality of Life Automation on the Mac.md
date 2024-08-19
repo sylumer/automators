@@ -949,18 +949,18 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:17:09   | can learn what its real name is. Because every software I look for something, I can't find it,           |
 | 01:17:15   | and I know it exists in [[Keyboard Maestro]]. I just have to Google around until I stumble across the        |
 | 01:17:19   | right name for it. Yeah. Like, you know, a little quality of life thing I did recently with [[Keyboard Maestro]]     |
-| 01:17:26   | is a Grammarly workflow. I'm a Grammarly subscriber, so a lot of the stuff I write gets          |
-| 01:17:33   | run through the Grammarly filter. It's not an end all, but I mean, it's a good, it's the only            |
+| 01:17:26   | is a [[Grammarly]] workflow. I'm a [[Grammarly]] subscriber, so a lot of the stuff I write gets          |
+| 01:17:33   | run through the [[Grammarly]] filter. It's not an end all, but I mean, it's a good, it's the only            |
 | 01:17:38   | Grammar Checker that I've ever really had any reliance on. You know, like the ones built in              |
 | 01:17:43   | the word processors are actually pretty bad. But there's a couple of problems. The first is,             |
 | 01:17:49   | it's really a web service. It's not an app. Their app is, I think it's an electron piece of garbage.     |
 | 01:17:56   | And their app is slow and just, it's not worth it. So when I do this stuff, I always do it on            |
 | 01:18:03   | their website. But there's a whole process I got to go through. Like, I've written it in [[Drafts]]         |
-| 01:18:08   | or [[Obsidian]]. I've written it somewhere. And then I want to run it through Grammarly. So I found          |
+| 01:18:08   | or [[Obsidian]]. I've written it somewhere. And then I want to run it through [[Grammarly]]. So I found          |
 | 01:18:14   | myself doing the same thing every time, you know, select, copy, you know, open up a website, paste,      |
 | 01:18:20   | you know. So I put all that into a [[Keyboard Maestro]] script. The only tricky thing about it was,          |
 | 01:18:26   | to assemble it was very easy, you know, Command A selects all the text. Command C copies the text.       |
-| 01:18:34   | So I'm running two keyboard commands in, in a [[Keyboard Maestro]]. Open [[Safari]] to the Grammarly             |
+| 01:18:34   | So I'm running two keyboard commands in, in a [[Keyboard Maestro]]. Open [[Safari]] to the [[Grammarly]]             |
 | 01:18:40   | website. And this is where it gets tricky. There's not a keyboard command on their website to open       |
 | 01:18:46   | up a blank document to paste it in. Instead, you have to mouse over a specific icon and press it.        |
 | 01:18:53   | But [[Keyboard Maestro]] has the ability to look for an image on the screen and press it. So                 |
@@ -969,12 +969,12 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:19:10   | V to paste it. And that, that was something I was doing like three or four times a day, you know,        |
 | 01:19:17   | manually. And it just occurred to me like, wait a second, what am I doing here? You know, so             |
 | 01:19:21   | you know, that's a [[Keyboard Maestro]] quality of life in person.                                           |
-| 01:19:25   | Yeah, that is definitely one. And I should, I should steal that, David, because I use Grammarly          |
+| 01:19:25   | Yeah, that is definitely one. And I should, I should steal that, David, because I use [[Grammarly]]          |
 | 01:19:30   | too. And I love the fact that it pops up whenever I'm doing things on the web, so that I can,            |
 | 01:19:36   | you know, have it, have it fix things for me. Because, you know, every so often while I'm                |
 | 01:19:40   | typing in the forums, I'm not so great at typing necessarily, I'm currently fostering a cat and          |
 | 01:19:45   | she likes to sit with her paw on the keyboard. And she's not pressing any buttons. She's just            |
-| 01:19:51   | obscuring those buttons from me. So I can't always press the right button. And Grammarly helps           |
+| 01:19:51   | obscuring those buttons from me. So I can't always press the right button. And [[Grammarly]] helps           |
 | 01:19:55   | by saying, you know, this word is incorrectly spelled. I think you meant this. And of course,            |
 | 01:19:59   | there's built-in spell check on the Mac, but this is also good when I've missed apostrophes and          |
 | 01:20:04   | things like that, so that it can actually fix things. So it's, you know, decent English, so              |

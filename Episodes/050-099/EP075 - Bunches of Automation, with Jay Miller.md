@@ -390,7 +390,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 32:06      | smart enough. Yeah, like you, you I scripting feels like the most powerful thing in the world            |
 | 32:11      | and a house of cards all at once every time I do it, you know, because it doesn't take much for          |
 | 32:17      | everything to go sideways when you're programming at that level with [[Keyboard Maestro]]. I just put        |
-| 32:23      | one of those together recently for Grammarly, because I run all my texts through Grammarly.              |
+| 32:23      | one of those together recently for [[Grammarly]], because I run all my texts through [[Grammarly]].              |
 | 32:27      | And I realised what a pain it was to copy the text, open the website. And there's no way on the          |
 | 32:32      | website with a keyboard shortcut to open a new, open a new document. So I just use the                   |
 | 32:40      | [[Keyboard Maestro]] trick, you know, look for this image on the screen and click it. And so it was          |
@@ -526,7 +526,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 44:48      | close draft [[Drafts]], then [[Keyboard Maestro]] says, Oh, yeah, let me close mark two while you're at it.      |
 | 44:53      | That's ingenious. I really think it's those two and three step automations that really, you know,        |
 | 45:00      | provide the lubricant of the day, you know, it's like just little things like that,                      |
-| 45:05      | even like the one I was talking about earlier, copy text, open Grammarly, push this button and           |
+| 45:05      | even like the one I was talking about earlier, copy text, open [[Grammarly]], push this button and           |
 | 45:09      | paste it, you know, stuff you do every day that is manual. The automation does not require you to        |
 | 45:16      | go super deep into the weeds, but then it just improves your quality of life every day because           |
 | 45:22      | you're doing this stuff repeatedly. I think those are some of the best automations.                      |

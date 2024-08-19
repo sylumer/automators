@@ -488,11 +488,11 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 25:07      | listening to the show, the egg gives you an easy exit off ramp with your text, like no                  |
 | 25:12      | matter what you want to do with it, you push a button and it does it for you.                           |
 | 25:16      | And there's really nothing like that.                                                                   |
-| 25:19      | Another one that's worth mentioned to me is Grammarly, you know, it just, it's slowly                   |
+| 25:19      | Another one that's worth mentioned to me is [[Grammarly]], you know, it just, it's slowly                   |
 | 25:24      | dawned on me that this is a text tool that I use many times a day, you know, I pay for                  |
-| 25:30      | a subscription to Grammarly.                                                                            |
+| 25:30      | a subscription to [[Grammarly]].                                                                            |
 | 25:31      | And over the last year, they've done a better job with their [[Safari]] plugin.                             |
-| 25:36      | So now you don't have to necessarily grab your Grammarly text and go to their website                   |
+| 25:36      | So now you don't have to necessarily grab your [[Grammarly]] text and go to their website                   |
 | 25:41      | to get the full, you know, edit on it.                                                                  |
 | 25:43      | You can do it in most web text editors.                                                                 |
 | 25:47      | And I just, you know, you know, this is to me one of the best examples of AI in motion.                 |
@@ -501,8 +501,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 25:58      | And it makes your writing better.                                                                       |
 | 26:00      | It's just, I think any job you have where you write, you should have a tool like this.                  |
 | 26:06      | Yeah, and I think that's one of the things, you know, there are alternatives out there                  |
-| 26:10      | to Grammarly.                                                                                           |
-| 26:11      | I do also use Grammarly just, you know, it's great for a whole bunch of things.                         |
+| 26:10      | to [[Grammarly]].                                                                                           |
+| 26:11      | I do also use [[Grammarly]] just, you know, it's great for a whole bunch of things.                         |
 | 26:17      | And I do particularly like the fact that they've added specific things like tone detection              |
 | 26:22      | and paraphrasing tools and things like that.                                                            |
 | 26:24      | So if I've got some texts that like, I know this is what I need to say, but it doesn't                  |
@@ -514,19 +514,19 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 26:47      | for it, you know, more often than not.                                                                  |
 | 26:51      | And I have to say it does work pretty well for me with, you know, the things that I need                |
 | 26:56      | it for.                                                                                                 |
-| 26:57      | I don't use it, you know, there's a Grammarly keyboard for iOS.                                         |
+| 26:57      | I don't use it, you know, there's a [[Grammarly]] keyboard for iOS.                                         |
 | 26:59      | I'm not using that as my daily driver keyboard.                                                         |
 | 27:02      | But if I write a longer bit of text, then it is something that I'll switch to and just                  |
 | 27:08      | be like, cool, like, where did iOS swap two words for me that now no longer makes sense                 |
 | 27:15      | that I can't see because I'm now blind to this text because I've been staring at it                     |
 | 27:17      | for three hours and so on.                                                                              |
 | 27:20      | So yeah, that's, it's great for that.                                                                   |
-| 27:23      | There's a challenge for Grammarly because as AI becomes more prevalent, you know, engines               |
+| 27:23      | There's a challenge for [[Grammarly]] because as AI becomes more prevalent, you know, engines               |
 | 27:28      | like [[ChatGPT]] can do grammar check for you.                                                             |
 | 27:30      | You can just ask it and it will do it for you.                                                          |
-| 27:33      | And so, so the question is, why do I pay for a Grammar checker like Grammarly when I could              |
+| 27:33      | And so, so the question is, why do I pay for a Grammar checker like [[Grammarly]] when I could              |
 | 27:39      | get a good AI engine?                                                                                   |
-| 27:42      | And that would just be one of many things it does, but what Grammarly does is they try                  |
+| 27:42      | And that would just be one of many things it does, but what [[Grammarly]] does is they try                  |
 | 27:45      | to go to the next level with it.                                                                        |
 | 27:46      | Like you said, tone detection, just they give you a much better implementation.                         |
 | 27:51      | And I think, I do think like the web and implementation this year got really noticeably better.         |
@@ -534,7 +534,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 28:02      | And that's why I pay for it.                                                                            |
 | 28:04      | But, but, you know, maybe in a couple of years, we will be in a point where like one AI does            |
 | 28:08      | all of this for us and we don't need the separate services.                                             |
-| 28:11      | But at least as we sit here right now, I think Grammarly is kind of killing it if you're                |
+| 28:11      | But at least as we sit here right now, I think [[Grammarly]] is kind of killing it if you're                |
 | 28:15      | willing to pay for it.                                                                                  |
 | 28:17      | Yeah.                                                                                                   |
 | 28:18      | Yeah.                                                                                                   |
@@ -547,7 +547,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 28:39      | And I will continue to do things the way I did before, but I always think that trying                   |
 | 28:43      | these things is such a good way to, you know, encourage yourself to find new automation                 |
 | 28:47      | solutions for problems.                                                                                 |
-| 28:48      | And yes, using something like Grammarly is an automation solution because otherwise you'd               |
+| 28:48      | And yes, using something like [[Grammarly]] is an automation solution because otherwise you'd               |
 | 28:52      | have to sit there and perforate it for the 56th time and then be really annoyed that                    |
 | 28:56      | after you hit send and after your delayed send window is up, that's when you spot that                  |
 | 29:02      | you, you know, made a grammar mistake or something or there's a really obvious typo where you           |

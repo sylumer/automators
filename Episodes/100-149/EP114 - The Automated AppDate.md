@@ -1055,9 +1055,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:01:45   | a lot of great stuff and they're easy to build and they're consistent.                                 |
 | 01:01:51   | Whereas [[Keyboard Maestro]] is kind of the in case of firebreak last thing where it can                   |
 | 01:01:55   | do anything.                                                                                           |
-| 01:01:56   | I mean, like, yeah, I still am amazed like that because I have that Grammarly script                   |
-| 01:02:01   | I run and Grammarly works much better on the internet than it does in the app.                         |
-| 01:02:06   | But there is no way to open a new document Grammarly short of clicking a specific icon                 |
+| 01:01:56   | I mean, like, yeah, I still am amazed like that because I have that [[Grammarly]] script                   |
+| 01:02:01   | I run and [[Grammarly]] works much better on the internet than it does in the app.                         |
+| 01:02:06   | But there is no way to open a new document [[Grammarly]] short of clicking a specific icon                 |
 | 01:02:12   | on the screen.                                                                                         |
 | 01:02:14   | And it just amazes me every time I run that script and it opens the website, waits a few               |
 | 01:02:19   | seconds and then clicks the button for me and then paste the text or in the new document.              |

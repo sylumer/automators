@@ -795,9 +795,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:02      | So yeah, I use Good Links for that as well.                                                        |
 | 45:05      | What about you?                                                                                    |
 | 45:06      | Any final recommendations?                                                                         |
-| 45:07      | A couple, again, I'm getting kind of off the thread of automation, Grammarly.                      |
+| 45:07      | A couple, again, I'm getting kind of off the thread of automation, [[Grammarly]].                      |
 | 45:11      | I guess that you could consider that automation.                                                   |
-| 45:13      | I'm a fan of the Grammarly Grammar Checker.                                                        |
+| 45:13      | I'm a fan of the [[Grammarly]] Grammar Checker.                                                        |
 | 45:17      | I've never had faith in a Grammar Checker in my life, but this one seems to work for               |
 | 45:21      | me.                                                                                                |
 | 45:22      | I think like a hundred bucks a year and they catch errors in my writing all the time.              |
@@ -1096,11 +1096,11 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:05:04   | So that works really nicely for me.                                                                |
 | 01:05:06   | Yeah.                                                                                              |
 | 01:05:07   | And then like kind of next level of this is going to keyboard my show.                             |
-| 01:05:11   | If you want to perform actions on pages, I mean, I've talked about Grammarly already               |
-| 01:05:16   | in this episode, but I prefer the Grammarly web browser to their native Mac app, which             |
+| 01:05:11   | If you want to perform actions on pages, I mean, I've talked about [[Grammarly]] already               |
+| 01:05:16   | in this episode, but I prefer the [[Grammarly]] web browser to their native Mac app, which             |
 | 01:05:21   | is pretty bad.                                                                                     |
 | 01:05:23   | And so I've just got a shortcut that opens up, actually, I don't use it anymore because            |
-| 01:05:27   | I found a URL that gets me a new blank Grammarly documents, so I can just open that and paste      |
+| 01:05:27   | I found a URL that gets me a new blank [[Grammarly]] documents, so I can just open that and paste      |
 | 01:05:32   | into it.                                                                                           |
 | 01:05:33   | But before I had to click a specific button on the screen to get a new one started.                |
 | 01:05:38   | And, um, that's the kind of stuff where, you know, kind of Keyboard Maestro's muscle               |

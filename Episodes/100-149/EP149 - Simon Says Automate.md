@@ -764,7 +764,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 49:01      | Speaking of AI, it's using [[OpenAI]] APIs to correct a text.                                                        |
 | 49:07      | So it's sort of like you send it a text and then you get back a corrected version of that                        |
 | 49:12      | text using [[OpenAI]] APIs.                                                                                          |
-| 49:15      | So it's sort of like, you know, Grammarly but built on [[OpenAI]] and way simpler than [[Grammarly]].                    |
+| 49:15      | So it's sort of like, you know, [[Grammarly]] but built on [[OpenAI]] and way simpler than [[Grammarly]].                    |
 | 49:21      | Even though it's an app that I haven't released yet and I'm actually not sure if I will release                  |
 | 49:25      | it, but maybe I want to mention it because I think others can, other people can find                             |
 | 49:30      | other means to build it today as well.                                                                           |

@@ -507,7 +507,7 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 31:59      | of good solutions to various things there as well.                                                   |
 | 32:05      | Text automation is another area where I find automation useful on iPad because I do so much          |
 | 32:10      | writing there.                                                                                       |
-| 32:11      | I feel like the Grammarly app on iPad has got a lot better in terms of doing the Grammarly           |
+| 32:11      | I feel like the [[Grammarly]] app on iPad has got a lot better in terms of doing the [[Grammarly]]           |
 | 32:17      | bits where it goes through and tries to rewrite and fix text for you, and it can work in any         |
 | 32:22      | app.                                                                                                 |
 | 32:23      | And I really like the way they've kind of integrated it over the years.                              |

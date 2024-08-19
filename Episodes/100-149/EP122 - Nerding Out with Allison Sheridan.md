@@ -413,7 +413,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 27:01      | And the application developers tweak something ever so slightly. And then that image, you have          |
 | 27:07      | to like crop it by one pixel all the way around or something. It's like, stop doing this to me.         |
 | 27:13      | Don't torture me. So some experience for me on that find a image button. I like, I use it on            |
-| 27:19      | Grammarly because I use the Grammarly website and there's no way to open a new document except          |
+| 27:19      | [[Grammarly]] because I use the [[Grammarly]] website and there's no way to open a new document except          |
 | 27:24      | click an image. And I've had the same image and I've been using it like three years and it works        |
 | 27:30      | every time. No problems. But then I was using it just recently because Apple, for whatever reason,      |
 | 27:37      | does not let you automate tab groups on the Mac with shortcuts. You know, they added tab groups,        |
@@ -427,9 +427,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 28:17      | then you don't need to push it. But, you know, it's like, you are getting very fiddly at that point.    |
 | 28:21      | And honestly, the find an image and click a thing is just fiddly by nature because                      |
 | 28:26      | it is a total hack. But it's, there's no other way to do something like that,                           |
-| 28:31      | that shortcut I use for Grammarly, there's literally no other way to do it.                             |
+| 28:31      | that shortcut I use for [[Grammarly]], there's literally no other way to do it.                             |
 | 28:35      | Unless they have an API, which I'm not aware of.                                                        |
-| 28:38      | So there is another way with Grammarly. But what that involves is basically being a little bit          |
+| 28:38      | So there is another way with [[Grammarly]]. But what that involves is basically being a little bit          |
 | 28:44      | of a web developer or at least nerdy enough to like inspect the web page and then find out like          |
 | 28:50      | which either unique identifier is behind that button or like a special like path to get to              |
 | 28:55      | that button so that then you can click at it with JavaScript. And that's something that I can do        |
@@ -477,7 +477,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 32:52      | Occasionally, I have things go wrong with it. But it's something like where the graphic changed or      |
 | 32:59      | things like that. The other piece that causes problems for it sometimes for me is just                  |
 | 33:04      | anything that involves the internet, where the connection is slow. And I find that having an            |
-| 33:10      | extra long wait commands solves that problem. Like the Grammarly thing where it goes to the website     |
+| 33:10      | extra long wait commands solves that problem. Like the [[Grammarly]] thing where it goes to the website     |
 | 33:16      | and pushes the button, I have a three second delay, which is more time than I need. And you do look     |
 | 33:21      | at the screen and say, ah, now my computer just stopped for three seconds. But it's way faster          |
 | 33:27      | than me hunting and pecking on the page. And I can be drinking tea while it's doing it. So              |

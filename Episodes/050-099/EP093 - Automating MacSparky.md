@@ -160,13 +160,13 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 06:06      | Um, so starting on the, uh, on the local Mac level, um, I write blog posts and I continue              |
 | 06:14      | to write them in [[Obsidian]] and Markdown.                                                                |
 | 06:16      | Um, so the automation steps that happen there are, I have, um, I write it in Markdown, then            |
-| 06:23      | I run a keyboard and my script that grabs all the text that goes to [[Safari]], opens Grammarly            |
+| 06:23      | I run a keyboard and my script that grabs all the text that goes to [[Safari]], opens [[Grammarly]]            |
 | 06:29      | and then creates, uses the feature and keyboard Maestro where it looks at the screen and               |
 | 06:33      | clicks a button, you know, which I know is always, a lot of people are afraid of that.                 |
-| 06:37      | But for the Grammarly website, that's the only way to open a new document.                             |
+| 06:37      | But for the [[Grammarly]] website, that's the only way to open a new document.                             |
 | 06:42      | You have to like click a special thing on the screen, but it works every time.                         |
 | 06:46      | And then I use a pause command and then I, I paste the text in.                                        |
-| 06:50      | So it's just like, I put one, I'm just one button away from [[Obsidian]] to Grammarly grammar check.       |
+| 06:50      | So it's just like, I put one, I'm just one button away from [[Obsidian]] to [[Grammarly]] grammar check.       |
 | 06:56      | So that's the first step I do.                                                                         |
 | 06:57      | Yeah.                                                                                                  |
 | 06:58      | Anything I write.                                                                                      |
@@ -182,8 +182,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 07:34      | it.                                                                                                    |
 | 07:35      | But I think one lesson that everybody should take away from this is like, you, you need                |
 | 07:38      | to have a tool that you can use in the way that you want.                                              |
-| 07:42      | Um, because I'm sure, you know, Grammarly, for example, is not necessarily scriptable,                 |
-| 07:49      | but maybe if you tried the Grammarly desktop app, that would be easier.                                |
+| 07:42      | Um, because I'm sure, you know, [[Grammarly]], for example, is not necessarily scriptable,                 |
+| 07:49      | but maybe if you tried the [[Grammarly]] desktop app, that would be easier.                                |
 | 07:52      | Um, and [[Tim Stringer]] actually posted in the [[Mac Power Users]] forums, uh, back in November               |
 | 07:56      | when this finally became available, um, as, um, a built into the Mac thing, but it is                  |
 | 08:02      | then everywhere on your Mac all the time, which some people may or may not want.                       |
@@ -1237,7 +1237,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:12:01   | that I think can get you running on [[Keyboard Maestro]].                                                  |
 | 01:12:04   | But I get these emails every day from people who buy the field guide and are like, I can't             |
 | 01:12:08   | believe how much stuff I'm able to automate with [[Keyboard Maestro]] on my Mac.                           |
-| 01:12:13   | It is just crazy, like I was talking earlier about, like I can go to the Grammarly website             |
+| 01:12:13   | It is just crazy, like I was talking earlier about, like I can go to the [[Grammarly]] website             |
 | 01:12:17   | and have [[Keyboard Maestro]] find a button that seems to move every time I open the website               |
 | 01:12:22   | and click it based on what it looks like.                                                              |
 | 01:12:25   | And like that's one step in [[Keyboard Maestro]].                                                          |
