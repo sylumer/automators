@@ -571,9 +571,9 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 36:22      | and all the different things that [[Keynote]] does, it also has sets of commands.                                                                                        |
 | 36:30      | Commands are verbs like make, print, close, quit, open, and then there are some specialised                                                                              |
 | 36:42      | commands for each application that are commands that just that application does itself.                                                                                  |
-| 36:48      | Like an application like [[TextEdit]] would not understand the word rotate that [[Adobe Photoshop\|Photoshop]]                                                         |
+| 36:48      | Like an application like [[TextEdit]] would not understand the word rotate that [[Photoshop]]                                                         |
 | 36:55      | would use.                                                                                                                                                               |
-| 36:57      | So if you were scripting [[Adobe Photoshop]], you would use the word rotate maybe sometimes                                                                              |
+| 36:57      | So if you were scripting [[Photoshop\|Adobe Photoshop]], you would use the word rotate maybe sometimes                                                                              |
 | 37:02      | if you were adjusting your images.                                                                                                                                       |
 | 37:05      | But [[TextEdit]] doesn't really understand what rotate means and it wouldn't have that as                                                                                |
 | 37:11      | a command.                                                                                                                                                               |

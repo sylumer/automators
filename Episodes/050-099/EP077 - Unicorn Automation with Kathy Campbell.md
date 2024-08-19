@@ -456,7 +456,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 38:56      | there's going to be some people in our forums going, Hey, did you know you can do this with               |
 | 38:59      | Lightroom? Um, and the answer to that will be, I didn't know I could do that with Lightroom               |
 | 39:04      | because I don't really use Lightroom all that much. I have it. Um, but that's because                     |
-| 39:08      | I, I got it with Photoshop. Um, it's the Adobe Creative Cloud Deal. Um, but, uh, you know,                |
+| 39:08      | I, I got it with [[Photoshop]]. Um, it's the Adobe Creative Cloud Deal. Um, but, uh, you know,                |
 | 39:14      | I, I personally don't use Lightroom. So I'm definitely out of, out of, uh, my depth there,                |
 | 39:19      | but [[Hazel]], [[Hazel]], I use and [[Hazel]], I can help you with.                                                   |
 | 39:22      | Yeah. That's amazing.                                                                                     |
@@ -492,14 +492,14 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 41:46      | All right, so you've picked your favourites. You've got the best dance images there are.                   |
 | 41:54      | What do you do next?                                                                                      |
 | 41:55      | So after I export out of Lightroom, I then, so the images are now very, boring is the                     |
-| 42:04      | wrong word, but they don't necessarily have my particular style. I have several Photoshop                 |
+| 42:04      | wrong word, but they don't necessarily have my particular style. I have several [[Photoshop]]                 |
 | 42:16      | actions that I have developed over the years, again, based off of other people's images                   |
 | 42:23      | and actions that they have created. I then have gone in and tweaked everything and made                   |
 | 42:28      | it exactly particular to how I like it. Instead of opening each image and applying those actions          |
 | 42:37      | and then saving it into the edited file and moving on to the next one, that clearly is                    |
 | 42:43      | not very doable with about 1,000 to 3,000 images because I usually will have about half                   |
 | 42:54      | of the photos that I've taken are keepers. So in order to process this, I use the automation              |
-| 43:03      | pieces that are built into Photoshop. So in Photoshop, there's a thing called Automate                    |
+| 43:03      | pieces that are built into [[Photoshop]]. So in [[Photoshop]], there's a thing called Automate                    |
 | 43:10      | and then Batch. And I created an action that runs my particular looking actions, the colouring             |
 | 43:20      | and whatnot. And then it also has a resize the images so that they're not the 5,000 pixels                |
 | 43:32      | because nobody needs that. And it loads and places a watermark on the smaller images.                     |
@@ -514,7 +514,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 44:47      | that I want to run. And I choose the source folder. And then I can save those files in                    |
 | 44:53      | the edited folder. And the edited folder is titled a space edits so that it runs to the                   |
 | 45:03      | top of the folder. And I am able to click OK. And it runs. And I go off and I do something                |
-| 45:12      | else. It just runs in Photoshop in the background. It will let me know if there's any errors.             |
+| 45:12      | else. It just runs in [[Photoshop]] in the background. It will let me know if there's any errors.             |
 | 45:17      | But I have cleaned it up so much that there are no errors. So I don't actually know how                   |
 | 45:23      | long it takes because I'm not paying attention to it. And it just does what it needs to do.               |
 | 45:30      | That sounds like a perfect automation to me. It does what it needs to do. And you go off                  |
@@ -527,7 +527,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 46:00      | it slide a little bit. But because you've got that 24 hours, you're really optimising                     |
 | 46:05      | everything of how quickly can I get this done. And that's where the automation, you know,                 |
 | 46:09      | really serves you because you have other things that you also need to do during that time                 |
-| 46:14      | period. And so having, you know, Photoshop go through and add all these watermarks,                       |
+| 46:14      | period. And so having, you know, [[Photoshop]] go through and add all these watermarks,                       |
 | 46:19      | I mean, I think I would personally go insane if I had to put the watermark                                |
 | 46:23      | on five photos consecutively, let alone a thousand. So, you know, it's smart to deal                      |
 | 46:30      | with that just so that you can, you know, wander off and get a coffee or do any of the                    |
@@ -605,7 +605,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 54:10      | that Avi is going to get to participate in more things but it's also more work for you.                   |
 | 54:16      | So let's temper the excitement of yay more competitions with and more automations to make                 |
 | 54:22      | the more work not as much more work as it could be. As we're thinking this through Rose now let's         |
-| 54:27      | think about the next step where she goes into Photoshop and applies the filter. I don't know              |
+| 54:27      | think about the next step where she goes into [[Photoshop]] and applies the filter. I don't know              |
 | 54:31      | that that really needs a stream back because that's you do it once manually and then you apply to all     |
 | 54:36      | right. I mean there's not a whole lot to do there with a stream back. Yeah because it I am selecting      |
 | 54:42      | the the folder to pull it from and selecting the folder to send it to you and then it's done. So it       |

@@ -439,7 +439,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 26:42      | I know that's something new in Catalina where they offered the ability to have your iPad                 |
 | 26:50      | become an extension screen for your Mac.                                                                 |
 | 26:53      | So you could say, I want my iPad Pro to sit over here and I'd like to take the, you know,                |
-| 27:00      | panels from my Photoshop work and have them show over there, or I want a screen from this                |
+| 27:00      | panels from my [[Photoshop]] work and have them show over there, or I want a screen from this                |
 | 27:06      | and I want that on there.                                                                                |
 | 27:08      | And so, Sidecar has that ability to offer you that, but the problem is, is that Sidecar                  |
 | 27:16      | only allows you to interact with your connected iPad via an Apple Pencil or a two-finger swipe           |
@@ -915,7 +915,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 59:22      | So it's just not that hard to do this.                                                                   |
 | 59:26      | You know, David, that's a great use case.                                                                |
 | 59:29      | If you just think about organising your keyboard shortcuts, right?                                       |
-| 59:35      | How many keyboard shortcuts do you have in a program like Logic, or in Photoshop, or                     |
+| 59:35      | How many keyboard shortcuts do you have in a program like Logic, or in [[Photoshop]], or                     |
 | 59:41      | InDesign, right?                                                                                         |
 | 59:43      | Where you can have all of those.                                                                         |
 | 59:45      | If all of a sudden, instead of having to remember the keyboard shortcut, it became a single              |

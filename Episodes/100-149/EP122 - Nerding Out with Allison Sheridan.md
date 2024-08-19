@@ -336,7 +336,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 19:55      | incredibly well for me. But I can also see why that wouldn't work well for some people because          |
 | 20:00      | they, you know, they're used to, you know, using the trackpad. And especially the maximise windows      |
 | 20:07      | on Mac OS can be quite tricky, I think for some people, because you just kind of lose everything.       |
-| 20:11      | My dad accidentally maximised Photoshop the other day. I had a frantic tech support call going,         |
+| 20:11      | My dad accidentally maximised [[Photoshop]] the other day. I had a frantic tech support call going,         |
 | 20:16      | wait, well, the Mac is gone. Where is the Mac? And eventually after getting a photo of the screen,      |
 | 20:21      | I was like, okay, move your mouse right into the top left corner and then click on the green button.    |
 | 20:25      | And then you'll have your Mac back. He was quite pleased when Mac OS reappeared, but just one of        |

@@ -93,7 +93,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 00:48      | He's in a nice suit and tie.                                                                           |
 | 00:51      | And I will tell you, you'll have to take my word for it, Ryan certainly is dashing.                    |
 | 00:57      | I am going to admit something on air, I guess it'll be recorded forever.                               |
-| 01:01      | That's actually a wedding photo that I Photoshopped the boutonniere out of.                            |
+| 01:01      | That's actually a wedding photo that I [[Photoshop\|Photoshopped]] the boutonniere out of.                            |
 | 01:06      | Oh, really?                                                                                            |
 | 01:07      | Good job on that.                                                                                      |
 | 01:08      | Yeah.                                                                                                  |

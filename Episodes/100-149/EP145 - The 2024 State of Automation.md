@@ -799,8 +799,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 44:56      | that might not sound like a huge thing, but trust me, it is.                                            |
 | 44:59      | I have put shortcuts in the dock on my mom and my dad's Macs.                                           |
 | 45:04      | OK, so my dad has like this whole little guide of like instructions of things of like,                  |
-| 45:09      | hey, so when this keyboard shortcut isn't working in Photoshop,                                         |
-| 45:12      | it's probably because you updated Photoshop and it, you know,                                           |
+| 45:09      | hey, so when this keyboard shortcut isn't working in [[Photoshop]],                                         |
+| 45:12      | it's probably because you updated [[Photoshop]] and it, you know,                                           |
 | 45:15      | unset like one of your preferences.                                                                     |
 | 45:17      | So here's a little guide on how to put it back together.                                                |
 | 45:19      | Obviously, he is still more than welcome to call me                                                     |
@@ -809,7 +809,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 45:26      | So I put together a shortcut that lives in his dock.                                                    |
 | 45:29      | It's got a question mark on it.                                                                         |
 | 45:30      | So he clicks on the question mark and it's like, hey, what do you need help with?                       |
-| 45:33      | Do you need help with your Photoshop keyboard shortcuts?                                                |
+| 45:33      | Do you need help with your [[Photoshop]] keyboard shortcuts?                                                |
 | 45:35      | Do you need help with printing labels for Christmas cards and so on?                                    |
 | 45:39      | And, you know, and it's just there and then it just opens the file for him.                             |
 | 45:45      | And that's it.                                                                                          |

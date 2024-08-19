@@ -597,8 +597,8 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 26:38      | okay, you can put your automated directions inside me and I'll put them there.                                   |
 | 26:42      | It's like, yes, yes, please.                                                                                     |
 | 26:44      | And you can also put like apps in there.                                                                         |
-| 26:47      | So I've got Photoshop in there and I can right-click on a file and choose Photoshop                              |
-| 26:51      | and it will open it in Photoshop.                                                                                |
+| 26:47      | So I've got [[Photoshop]] in there and I can right-click on a file and choose [[Photoshop]]                              |
+| 26:51      | and it will open it in [[Photoshop]].                                                                                |
 | 26:53      | So there's non-scripting things that that's just a nice Mac utility.                                             |
 | 26:57      | And then I'll throw out two other things that I've been doing.                                                   |
 | 27:00      | One of them is just straight-up [[AppleScript]].                                                                    |

@@ -1146,7 +1146,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 59:11      | I only have one Siri remote and it's from ITV, so yeah, yeah, but what I love about                   |
 | 59:16      | [[BetterTouchTool]] though is you can also set this to only do things in specific applications          |
 | 59:20      | or in general do it, but not in this application, which is great if you want to create some           |
-| 59:24      | stuff for just Photoshop, but you don't want the same thing to activate when you're using             |
+| 59:24      | stuff for just [[Photoshop]], but you don't want the same thing to activate when you're using             |
 | 59:28      | pages.                                                                                                |
 | 59:29      | Right.                                                                                                |
 | 59:30      | You know, it's great.                                                                                 |

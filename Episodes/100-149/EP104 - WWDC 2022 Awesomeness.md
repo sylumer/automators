@@ -937,7 +937,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:01:28   | Yeah, I wanted to save this one, David, because it's so cool. So for anybody who didn't see               |
 | 01:01:33   | the keynote, they demoed in the keynote, being able to tap on a subject in an image. So say,              |
 | 01:01:38   | for example, you've got a picture of your really cute dog, David, and you want to be                      |
-| 01:01:42   | able to use just the picture of the dog. And you don't want to have to spend hours Photoshopping          |
+| 01:01:42   | able to use just the picture of the dog. And you don't want to have to spend hours [[Photoshop\|Photoshopping]]          |
 | 01:01:46   | out everything in the background. You just want the dog. Well, you can tap and hold on                    |
 | 01:01:51   | Ashoka, your lovely golden doodle, and pick her up, and then swipe over to messages and                   |
 | 01:01:56   | drop her and tap send. And that's it. And there's nothing else to it. That's the feature.                 |

@@ -240,7 +240,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 14:11      | on the negatives of these apps that I think drives me a little crazy is listing the name               |
 | 14:17      | of the underlying app under the widget. Just, there's a part of me that hates that. Right?             |
 | 14:22      | Yeah. Me too. Me too. I, I mean, I, I both love it because it means that when people                   |
-| 14:27      | take screenshots, um, either they have to Photoshop every single name out or they don't.               |
+| 14:27      | take screenshots, um, either they have to [[Photoshop]] every single name out or they don't.               |
 | 14:32      | And so then you actually know which apps that they use to create all of this. Yeah. And                |
 | 14:35      | that's good for developers. So that there is a plus to that. I'm sure David Smith is                   |
 | 14:39      | very happy that widget Smith appears on every home screen these days. Oh yeah. Exactly.                |

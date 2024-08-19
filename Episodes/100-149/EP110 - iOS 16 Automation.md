@@ -887,7 +887,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:13:45   | them watch you do it and put it into a message and send it to them. And it's a background                |
 | 01:13:49   | removed image with a simple drag. I mean, I guess we should not be as impressed by this as we are        |
 | 01:13:56   | because this has been a technology has been evolving for a long time. First, it was like a               |
-| 01:13:59   | $600 Photoshop feature. Then it eventually became a free preview feature with a little manipulation.     |
+| 01:13:59   | $600 [[Photoshop]] feature. Then it eventually became a free preview feature with a little manipulation.     |
 | 01:14:06   | And now it's just literally drag it out. And it works really well. And I think this is going to          |
 | 01:14:13   | be the one that all the non-nerd types are really excited about because it's just so fun. And            |
 | 01:14:21   | did you use that much in the beta? I mean, I was really impressed with it the first couple               |
