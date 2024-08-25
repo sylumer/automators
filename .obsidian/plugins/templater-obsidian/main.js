@@ -2607,7 +2607,7 @@ var InternalModuleWeb = class extends InternalModule {
   generate_random_picture() {
     return async (size, query, include_size = false) => {
       try {
-        const response = await this.getRequest(`https://templater-unsplash.fly.dev/${query ? "?q=" + query : ""}`).then((res) => res.json());
+        const response = await this.getRequest(`https://templater-unsplash-2.fly.dev/${query ? "?q=" + query : ""}`).then((res) => res.json());
         let url = response.full;
         if (size && !include_size) {
           if (size.includes("x")) {
