@@ -336,7 +336,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 23:39      | And then I'll want to get back to the previous thing that was on my clipboard.                           |
 | 23:42      | And then I won't be able to do it because I don't have [[Alfred]] installed. A lot of people say,            |
 | 23:47      | you know, my computer feels broken before I set up, you know, TextExpander, or Fantastical,              |
-| 23:54      | or Bartender, one of those apps. For me, that app is definitely [[Alfred]]. I mean,                          |
+| 23:54      | or [[Bartender]], one of those apps. For me, that app is definitely [[Alfred]]. I mean,                          |
 | 24:00      | there's several apps, let's be honest. But [[Alfred]] is one of those that I feel like I really need it      |
 | 24:05      | to be actively, productively using my computer. Yeah, you know, I hear that once in a while              |
 | 24:13      | from pundits where they say, hey, I don't want things like [[Alfred]] or keyboard master on my               |
