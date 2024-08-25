@@ -815,7 +815,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:03:49   | then you need FastScripts. And best of all, listeners to the Automator's podcast can get 20%           |
 | 01:03:55   | off for a limited time. Just go to fastscripts.app slash auto, now and access to the exclusive         |
 | 01:04:04   | Automator's discount coupon. That's fastscripts.app slash auto for that 20% off. Our thanks to         |
-| 01:04:10   | FastScripts for their support of the Automator's podcast and Olive Relay FM.                           |
+| 01:04:10   | FastScripts for their support of the Automator's podcast and all of Relay FM.                           |
 | 01:04:17   | Rose, this submarine goes deeper into nerdiness.                                                       |
 | 01:04:22   | Oh, it does. It does. And I think the first one that we have to talk about, unfortunately,             |
 | 01:04:27   | I've not had that much time to use it. I've been playing with it for many other things.                |
