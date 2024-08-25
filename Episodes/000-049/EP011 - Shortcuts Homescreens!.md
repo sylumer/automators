@@ -904,7 +904,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 49:59      | How about you?                                                                                       |
 | 50:00      | I have OmniFocus, [[Drafts]], and Launch Center Pro, and just those three.                               |
 | 50:05      | I keep trying three in the dock, but I use [[Safari]] a lot because I Google so much.                    |
-| 50:11      | So maybe I need to put a shortcut in my dock to Google Things instead of opening [[Safari]].             |
+| 50:11      | So maybe I need to put a shortcut in my dock to Google things instead of opening [[Safari]].             |
 | 50:16      | Well, actually, and I kind of misspoke, it's not actually OmniFocus.                                 |
 | 50:20      | It's OmniSelect.                                                                                     |
 | 50:21      | It's my shortcut we've been talking about because I like to just, I love the idea of                 |
