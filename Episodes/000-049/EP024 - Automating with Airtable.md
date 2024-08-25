@@ -207,7 +207,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 08:35      | different continents, but we both want to access the data and make sure it's always up to date,      |
 | 08:39      | which immediately removes something like numbers.                                                    |
 | 08:42      | Yeah.                                                                                                |
-| 08:43      | I mean, if there are some other solutions, we could have maybe gone with Google Sheets               |
+| 08:43      | I mean, if there are some other solutions, we could have maybe gone with [[Google Sheets]]               |
 | 08:47      | or something like this.                                                                              |
 | 08:48      | But [[Airtable]], it's just because it's more than a halfway house between a spreadsheet                 |
 | 08:55      | and a database.                                                                                      |

@@ -550,7 +550,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 27:51      | some timers have that attached to it and some don't.                                                         |
 | 27:55      | So what I'd like to prepare, and I haven't finished it yet, but I'm working [[Make\|Integromat]]                      |
 | 27:59      | to put together a toggle report.                                                                             |
-| 28:03      | And you can send a toggle report like to Google Sheets or whatever.                                          |
+| 28:03      | And you can send a toggle report like to [[Google Sheets]] or whatever.                                          |
 | 28:08      | But I haven't figured out if I can filter on moving the needle yet, but I think I can.                       |
 | 28:12      | And my goal with that is to send myself a regular report of how much time I'm spending                       |
 | 28:18      | moving the needle as opposed to just time I'm tracking.                                                      |

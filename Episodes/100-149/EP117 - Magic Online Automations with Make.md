@@ -1298,7 +1298,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:15:45   | So the first thing it should do would be delete that and then go through and do the rest of               |
 | 01:15:50   | it.                                                                                                       |
 | 01:15:51   | And I was like, you know what?                                                                            |
-| 01:15:52   | It doesn't matter if we have a couple of extra Google Sheets like Google Docs kicking                     |
+| 01:15:52   | It doesn't matter if we have a couple of extra [[Google Sheets]] like Google Docs kicking                     |
 | 01:15:55   | around in Google Drive.                                                                                   |
 | 01:15:58   | It's not a big deal.                                                                                      |
 | 01:15:59   | We know which ones are right because they're linked in [[Airtable]].                                          |

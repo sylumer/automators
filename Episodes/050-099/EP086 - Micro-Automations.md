@@ -509,7 +509,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 25:55      | And I use that all the time because I have a shared note with Mike Sargent, who I host                  |
 | 26:00      | iOS today with, and we check our show ideas for future shows in there.                                  |
 | 26:05      | And then, you know, when it comes to time to the actual prepping of the show, then,                     |
-| 26:09      | you know, we pull out an idea and I go off to Google Sheets where the actual planning                   |
+| 26:09      | you know, we pull out an idea and I go off to [[Google Sheets]] where the actual planning                   |
 | 26:13      | happens, but, you know, individual notes are pretty useful as part of an automation, especially         |
 | 26:20      | if they're shared note, but sometimes you actually share folders and you can do exactly                 |
 | 26:24      | the same thing again with folders where you just tell application notes to show folder,                 |
