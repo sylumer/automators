@@ -916,7 +916,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 59:26      | You know, David, that's a great use case.                                                                |
 | 59:29      | If you just think about organising your keyboard shortcuts, right?                                       |
 | 59:35      | How many keyboard shortcuts do you have in a program like Logic, or in [[Photoshop]], or                     |
-| 59:41      | InDesign, right?                                                                                         |
+| 59:41      | [[InDesign]], right?                                                                                         |
 | 59:43      | Where you can have all of those.                                                                         |
 | 59:45      | If all of a sudden, instead of having to remember the keyboard shortcut, it became a single              |
 | 59:50      | button on the iPad.                                                                                      |
