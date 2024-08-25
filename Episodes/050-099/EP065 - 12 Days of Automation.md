@@ -714,19 +714,19 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 35:40      | Yeah.                                                                                                    |
 | 35:41      | Yeah.                                                                                                    |
 | 35:42      | That's, that's always great.                                                                             |
-| 35:44      | This episode of automators is brought to you by Fast Scripts.                                            |
+| 35:44      | This episode of automators is brought to you by FastScripts.                                            |
 | 35:47      | What's the point in automating all of these tedious tasks in your life if you don't have                 |
 | 35:50      | instant access to these automations, right at the tip of your fingers.                                   |
-| 35:54      | Fast Scripts is a supercharged script menu for your Mac that makes it easy to organise                   |
+| 35:54      | FastScripts is a supercharged script menu for your Mac that makes it easy to organise                   |
 | 35:58      | and run scripts.                                                                                         |
 | 35:59      | By defining global or app specific keyboard shortcuts, you can customise the behaviours                   |
 | 36:03      | of all your most used Mac apps.                                                                          |
 | 36:05      | You can even use it to override the default keyboard shortcuts in many apps.                             |
-| 36:10      | The best part is Fast Scripts is completely free to use with up to 10 keyboard shortcuts.                |
+| 36:10      | The best part is FastScripts is completely free to use with up to 10 keyboard shortcuts.                |
 | 36:15      | So you can use it as a quick fix to your most urgent needs.                                              |
 | 36:17      | And then when you decide you want more than 10 shortcuts and not premium functionality                   |
 | 36:21      | with a one-time payment of $25.                                                                          |
-| 36:24      | Fast Scripts is really useful for helping you get into the habits of using some of these                 |
+| 36:24      | FastScripts is really useful for helping you get into the habits of using some of these                 |
 | 36:28      | because I know I've written loads of scripts over the years, but unless they're easily                   |
 | 36:31      | accessible, I'm just not going to use it.                                                                |
 | 36:34      | And that means that you should probably be using it as well if you're not already.                       |
@@ -736,11 +736,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 36:46      | which means that if you're like me, yes, you could probably code an [[AppleScript]], but let's              |
 | 36:51      | be honest, it's much easier to copy and paste the bits that you need from different scripts,             |
 | 36:55      | stick it all together, and there you go.                                                                 |
-| 36:57      | So Fast Scripts is a bonus repository as well.                                                           |
+| 36:57      | So FastScripts is a bonus repository as well.                                                           |
 | 37:00      | Access to the Automators podcast can get 20% off for a limited time, so go to fastscripts.app/auto            |
 | 37:06      | now to access the exclusive Automators discount coupon.                                       |
 | 37:10      | That's fastscripts.app slash auto for 20% off.                                                           |
-| 37:14      | Our thanks to Fast Scripts for their support of the show and Relay FM.                                  |
+| 37:14      | Our thanks to FastScripts for their support of the show and Relay FM.                                  |
 | 37:18      | All right, I've got one that is really been useful this year.                                            |
 | 37:24      | We got some holiday cards.                                                                               |
 | 37:26      | I don't know.                                                                                            |

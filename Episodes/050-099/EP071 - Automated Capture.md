@@ -1113,7 +1113,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:11:32   | an email, you do that, and then you know that the mail window has got that, you know, for                |
 | 01:11:38   | the right person.                                                                                        |
 | 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an AppleScript                     |
-| 01:11:45   | that will do this for you, and assign it to say, and either you could use fast scripts,                  |
+| 01:11:45   | that will do this for you, and assign it to say, and either you could use [[FastScripts]],                  |
 | 01:11:50   | they've sponsored the show before, they would be a great way to do this, to assign a keyboard            |
 | 01:11:53   | shortcut to it, or you could, you know, paste it into an automated direction as well for                 |
 | 01:12:00   | that.                                                                                                    |

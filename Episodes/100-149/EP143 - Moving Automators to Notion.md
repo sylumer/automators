@@ -1118,7 +1118,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:06:31   | But it also closed stuff off for me, but I've never really gotten into [[Keyboard Maestro]]              |
 | 01:06:36   | for the whole setup thing.                                                                           |
 | 01:06:37   | My [[Keyboard Maestro]] menu bar list is, I want these automations to be available to me.                |
-| 01:06:44   | It's right next to fast scripts and bunch and I know that there's overlap between all                |
+| 01:06:44   | It's right next to [[FastScripts]] and [[Bunch]] and I know that there's overlap between all                |
 | 01:06:50   | three of these.                                                                                      |
 | 01:06:51   | I'm very aware of it, but I like the fact that if I click on my bunch menu bar, then                 |
 | 01:06:56   | that's just like, get me ready to do this thing.                                                     |
@@ -1129,7 +1129,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:07:08   | This is all day job examples where if I click the [[Keyboard Maestro]] macro, it's, hey, let's           |
 | 01:07:14   | clean up a whole bunch of files that are probably floating around that we don't need anymore         |
 | 01:07:19   | and stuff like that.                                                                                 |
-| 01:07:20   | And fast scripts is, hey, so I'm going to want like five different things open in iTerm              |
+| 01:07:20   | And [[FastScripts]] is, hey, so I'm going to want like five different things open in iTerm              |
 | 01:07:26   | at the same time, go, just do it for me.                                                             |
 | 01:07:30   | So yeah, there's overlap, but I love the menu bar aspect.                                            |
 | 01:07:34   | I think for me, that's a big part of it.                                                             |

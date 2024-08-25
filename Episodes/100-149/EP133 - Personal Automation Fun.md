@@ -986,7 +986,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:11:30   | So yeah, little bonus trick for folks there. Yeah, it is always interesting, you know,                 |
 | 01:11:36   | trying to find different solutions to these things. And it's amazing how many things,                  |
 | 01:11:41   | you know, can be solved with a line of AppleScript that you stole from the internet.                  |
-| 01:11:45   | I want to give a shout out as well, actually, to fast scripts. Because fast scripts can run            |
+| 01:11:45   | I want to give a shout out as well, actually, to [[FastScripts]]. Because [[FastScripts]] can run            |
 | 01:11:50   | any script. It can run shell scripts, it can run Python scripts, it can run AppleScripts.             |
 | 01:11:55   | And it lives in your menu bar, it's just a little script icon that lives in your menu bar, but         |
 | 01:12:01   | you can have it show you different scripts and open the scripts in different places                    |

@@ -1195,17 +1195,17 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:16:00   | a ton of time.                                                                                        |
 | 01:16:02   | Script debugger is a must, must, must.                                                                |
 | 01:16:05   | Yeah.                                                                                                 |
-| 01:16:06   | I'm also going to throw out a recommendation for fast scripts.                                        |
+| 01:16:06   | I'm also going to throw out a recommendation for [[FastScripts]].                                        |
 | 01:16:10   | So obviously if you're using Omni Automation or something, then you'll have the automation            |
 | 01:16:15   | menu inside of that app.                                                                              |
 | 01:16:17   | But if, for example, like me, you may use something like iTerm, which has AppleScript                |
 | 01:16:21   | support, it's got very good AppleScript support, but it doesn't have a way in there                  |
-| 01:16:27   | to necessarily run the script in the manner that I would like, then you can use fast scripts          |
+| 01:16:27   | to necessarily run the script in the manner that I would like, then you can use [[FastScripts]]          |
 | 01:16:33   | to put any script, and I mean any script in your menu bar, and you can have them be application       |
 | 01:16:40   | specific as well.                                                                                     |
 | 01:16:41   | So they can show up, for example, when you're in DEVONthink or when you're in Mail and so             |
 | 01:16:45   | on and so forth.                                                                                      |
-| 01:16:46   | So fast scripts is definitely something that I would recommend folks check out.                       |
+| 01:16:46   | So [[FastScripts]] is definitely something that I would recommend folks check out.                       |
 | 01:16:51   | You can download the free version from Red Sweater Software.                                          |
 | 01:16:53   | We've had Daniel on the show before.                                                                  |
 | 01:16:55   | There is an upgrade to a pro version, which unlocks even more features, which I feel like             |

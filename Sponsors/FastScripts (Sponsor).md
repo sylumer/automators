@@ -4,7 +4,7 @@ notetype: "sponsor"
 alias: []
 ---
 # FastScripts
-FastScripts is a script launcher utility from Red Sweater Software that puts your scripts at your fingertips; beloved by Mac Automation experts for almost 20 years.
+[[FastScripts]] is a script launcher utility from Red Sweater Software that puts your scripts at your fingertips; beloved by Mac Automation experts for almost 20 years.
 
 # People
 - [[Daniel Jalkut]]

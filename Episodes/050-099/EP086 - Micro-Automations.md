@@ -538,7 +538,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 27:57      | file, and file scripts is something we should mention.                                                  |
 | 28:01      | We've sponsored the show before, great application for putting AppleScript in your menu bar            |
 | 28:06      | and assigning keyboard shortcuts to it as well, which is great, because all of these                    |
-| 28:11      | scripts I then also have in fast scripts, because, you know, this way if I'm looking                    |
+| 28:11      | scripts I then also have in [[FastScripts]], because, you know, this way if I'm looking                    |
 | 28:16      | for something, oh yeah, I know it's an AppleScript, I just click the thing, I just click               |
 | 28:20      | the thing, and then I'm good, it's done.                                                                |
 | 28:23      | So yeah, I have multiple ways of running the same scripts, but I try to have one source                 |
@@ -554,8 +554,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 28:56      | There's a text file inside of my cloud drive, and data drive, and that's it.                            |
 | 29:00      | So now, next time it changes, which will probably not be until next year or so, then it'll be           |
 | 29:06      | easy to update.                                                                                         |
-| 29:07      | Yeah, but I do recommend that, whether you use fast scripts or keyboard mice, or I think                |
-| 29:12      | those are, I'm sorry, yeah, keyboard mice, or fast scripts, those are two of the best                   |
+| 29:07      | Yeah, but I do recommend that, whether you use [[FastScripts]] or keyboard mice, or I think                |
+| 29:12      | those are, I'm sorry, yeah, keyboard mice, or [[FastScripts]], those are two of the best                   |
 | 29:16      | ways to do it, but I recommend having some sort of AppleScript launcher.                               |
 | 29:23      | There are other ways to launch these scripts that don't require a third-party app, but                  |
 | 29:27      | I just find having the third-party app makes it so much easier, and then I end up using                 |
@@ -1003,16 +1003,16 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 56:01      | and I'm much more accurate and faster at selecting text with the keyboard the vast majority of          |
 | 56:07      | the time.                                                                                               |
 | 56:08      | But you can control PopClip with AppleScript and then you can set that up to be triggered               |
-| 56:14      | by a keyboard shortcut from an automated service, fast scripts, [[Alfred]], [[LaunchBar]], or even              |
+| 56:14      | by a keyboard shortcut from an automated service, [[FastScripts]], [[Alfred]], [[LaunchBar]], or even              |
 | 56:20      | [[Quicksilver]].                                                                                            |
 | 56:21      | Yeah.                                                                                                   |
 | 56:22      | Now I've got to do this, Rose, because I've just been using it with a mouse.                            |
 | 56:25      | Oh, you're missing out, David.                                                                          |
 | 56:27      | You're missing out.                                                                                     |
-| 56:28      | I'm using fast scripts.                                                                                 |
+| 56:28      | I'm using [[FastScripts]].                                                                                 |
 | 56:30      | They have previously sponsored the show, but I would happily talk about them anyway because             |
 | 56:33      | it's such a great app.                                                                                  |
-| 56:35      | To do this, because I've got lots of little things in fast scripts.                                     |
+| 56:35      | To do this, because I've got lots of little things in [[FastScripts]].                                     |
 | 56:38      | I like having a little script icon in my menu bar.                                                      |
 | 56:41      | It's both nerdy and geeky and makes me happy and it's also just incredibly useful for all               |
 | 56:46      | of these things.                                                                                        |

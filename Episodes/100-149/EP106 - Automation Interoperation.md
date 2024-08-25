@@ -367,12 +367,12 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 12:13      | Of course, [[Hazel]] doesn't have a native replace text               |
 | 12:15      | inside of an ICS file action.                                     |
 | 12:17      | It, you know, and so I actually went to AppleScript               |
-| 12:21      | and FastScripts for this                                          |
+| 12:21      | and [[FastScripts]] for this                                          |
 | 12:22      | because of their regular expression support.                      |
 | 12:24      | So I'm just replacing that line using that.                       |
 | 12:27      | But that's basically, I'm relying on [[Hazel]]                        |
 | 12:29      | and to an extent FastScript's not changing.                       |
-| 12:32      | And as FastScripts has just added that support,                   |
+| 12:32      | And as [[FastScripts]] has just added that support,                   |
 | 12:34      | I doubt that's gonna change any time soon.                        |
 | 12:35      | And I'm pretty confident that [[Hazel]] will flag                     |
 | 12:37      | if they make a change there.                                      |
@@ -542,17 +542,17 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 18:55      | So one of the things I think would be nice                        |
 | 18:58      | to just look at again briefly, David.                             |
 | 19:00      | I know we had Daniel Jalkut on the show recently                  |
-| 19:02      | is at FastScripts because of course,                                 |
-| 19:04      | FastScripts is helping us stick more and more things together now,   |
+| 19:02      | is at [[FastScripts]] because of course,                                 |
+| 19:04      | [[FastScripts]] is helping us stick more and more things together now,   |
 | 19:08      | you know, not only with their regular expression support,         |
 | 19:10      | which has certainly made my life easier                           |
 | 19:13      | in a number of places, but with everything else too.              |
 | 19:16      | Well, what's an example of a use                                  |
-| 19:19      | that you're doing with FastScripts?                                  |
+| 19:19      | that you're doing with [[FastScripts]]?                                  |
 | 19:21      | Well, this is kind of crazy,                                      |
 | 19:23      | but Daniel mentioned when he was on the show                      |
 | 19:26      | and it hadn't occurred to me before then                          |
-| 19:27      | that FastScripts can run any file that's,                            |
+| 19:27      | that [[FastScripts]] can run any file that's,                            |
 | 19:31      | or any kind of script file that's in the folder.                  |
 | 19:33      | So you know that the function                                     |
 | 19:36      | that you have inside of shortcuts,                                |
@@ -560,16 +560,16 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 19:39      | then you can add it to your doc?                                  |
 | 19:42      | Well, that puts that shortcut in your applications folder.        |
 | 19:45      | So I did that with a bunch of shortcuts                           |
-| 19:48      | and moved them into the FastScripts folder                           |
+| 19:48      | and moved them into the [[FastScripts]] folder                           |
 | 19:49      | and had them appear in various places.                            |
-| 19:52      | So now my FastScripts folder                                         |
+| 19:52      | So now my [[FastScripts]] folder                                         |
 | 19:54      | can be a application contextual shortcuts launcher.               |
 | 19:59      | So the shortcuts menu bar                                         |
 | 20:01      | always shows the same shortcuts,                                  |
 | 20:04      | but I thought I'd give it a go                                    |
 | 20:05      | and I thought, well, what's the worst that can happen?            |
 | 20:07      | I have to file a bug report that says, by the way, Daniel,        |
-| 20:09      | I'm really sorry I massively crashed FastScripts.                    |
+| 20:09      | I'm really sorry I massively crashed [[FastScripts]].                    |
 | 20:13      | It turns out it can just run shortcuts that way,                  |
 | 20:15      | which is great.                                                   |
 | 20:16      | So I've ditched my old shortcuts wrappers,                        |
@@ -578,7 +578,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 20:24      | And now I just actually have shortcuts in there.                  |
 | 20:27      | So that works.                                                    |
 | 20:29      | Let's go down that rabbit hole for just a second.                 |
-| 20:31      | So you're primarily using FastScripts                                |
+| 20:31      | So you're primarily using [[FastScripts]]                                |
 | 20:33      | to run shortcuts at this point?                                   |
 | 20:35      | Well, no, not primarily.                                          |
 | 20:37      | It really depends on what application it is that I'm in,          |
@@ -596,7 +596,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 21:09      | based on the app that I have open.                                |
 | 21:12      | So, you know, when I have, for example,                           |
 | 21:15      | if I've got Tweetbot open,                                        |
-| 21:19      | then if I click on the FastScripts menu,                              |
+| 21:19      | then if I click on the [[FastScripts]] menu,                              |
 | 21:21      | then some of the actions that I get there                         |
 | 21:23      | are actually, you know, Tweetbot specific                         |
 | 21:26      | because it's like, you know, like,                                |

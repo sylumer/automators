@@ -510,30 +510,30 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 21:43      | And then I, again, I feel like that motivation is like, how do I make this easier to use?                     |
 | 21:47      | How do I make this more powerful?                                                                             |
 | 21:48      | How do I make it so my family doesn't have to talk to a lamp?                                                 |
-| 21:52      | This episode of The Automators is brought to you by Fast Scripts.                                             |
+| 21:52      | This episode of The Automators is brought to you by FastScripts.                                             |
 | 21:56      | Get powerful script management and instant access to your scripts.                                            |
 | 22:00      | Go to fastscripts.app slash auto to get 20% off.                                                              |
 | 22:04      | What's the point of creating all these automations to deal with the tedious tasks in your life                |
 | 22:09      | if you don't have instant access to those automations at the tip of your fingers?                             |
-| 22:14      | Fast Scripts is a supercharged script menu for your Mac that makes it easy to organise                        |
+| 22:14      | FastScripts is a supercharged script menu for your Mac that makes it easy to organise                        |
 | 22:19      | and run your scripts by defining global or app specific keyboard shortcuts.                                   |
 | 22:24      | You can customise the behaviour of all your most used Mac apps.                                                |
 | 22:28      | You can even use it to override the default keyboard shortcuts in many apps.                                  |
-| 22:32      | The best part is Fast Scripts is completely free to use with up to 10 keyboard shortcuts.                     |
+| 22:32      | The best part is FastScripts is completely free to use with up to 10 keyboard shortcuts.                     |
 | 22:37      | So you can use it as a quick fix for your most urgent needs.                                                  |
 | 22:41      | And when you decide you want more than 10 shortcuts, unlock premium functionality with                        |
 | 22:46      | a one-time payment of $25.                                                                                    |
 | 22:48      | I use my Mac every day and I've tried a lot of different ways to launch scripts and there                     |
-| 22:52      | is nothing faster than Fast Scripts.                                                                          |
+| 22:52      | is nothing faster than FastScripts.                                                                          |
 | 22:55      | I love the way you can use keyboard shortcuts to get everything going.                                        |
 | 22:59      | In fact, after a while, you don't even remember what the keyboard shortcuts are, your fingers                 |
 | 23:03      | just push some buttons and magic starts happening on your Mac.                                                |
-| 23:06      | And that's all because of Fast Scripts.                                                                       |
+| 23:06      | And that's all because of FastScripts.                                                                       |
 | 23:09      | Listeners to The Automators podcast can get 20% off for a limited time.                                       |
 | 23:13      | Just go to fastscripts.app slash auto a-u-t-o.                                                                |
 | 23:17      | Now to access the exclusive Automators discount coupon.                                                       |
 | 23:21      | That's fastscripts.app slash auto for 20% off.                                                                |
-| 23:24      | And our thanks to Fast Scripts for their support of this show and all of Relay FM.                            |
+| 23:24      | And our thanks to FastScripts for their support of this show and all of Relay FM.                            |
 | 23:29      | Hey, let's talk a little bit about shortcuts because we were mentioning it earlier.                           |
 | 23:35      | Are you using shortcuts these days and what are the things that you're doing with it?                         |
 | 23:40      | Yeah, absolutely.                                                                                             |

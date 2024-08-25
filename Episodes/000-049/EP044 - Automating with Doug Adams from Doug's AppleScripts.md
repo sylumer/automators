@@ -929,7 +929,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 48:13      | That's the thing that I'm glad they kept.                                                            |
 | 48:15      | Yes.                                                                                                 |
 | 48:16      | Me too.                                                                                              |
-| 48:17      | I mean, you can use things like fast scripts and so on to add them to your menu bar and              |
+| 48:17      | I mean, you can use things like [[FastScripts]] and so on to add them to your menu bar and              |
 | 48:21      | to add a keyboard shortcut to them so that they're available globally.                               |
 | 48:25      | But you don't necessarily want to do that because I do want some of these things to only             |
 | 48:29      | be available in specific applications, mostly iTunes or music as it is now.                          |

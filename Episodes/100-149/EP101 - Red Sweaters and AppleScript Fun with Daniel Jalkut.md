@@ -93,14 +93,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 00:46      | just to give you a little backstage again,                        |
 | 00:49      | Daniel is an automator,                                           |
 | 00:51      | but he's also a developer,                                        |
-| 00:52      | and he developed one of our favourite apps, Fast Scripts,          |
+| 00:52      | and he developed one of our favourite apps, [[FastScripts]],          |
 | 00:55      | which, you know, I believe,                                       |
 | 00:56      | I think you may have sponsored us at one point,                   |
 | 00:59      | but that's not why we're here.                                    |
 | 01:01      | We don't do that,                                                 |
 | 01:02      | but Daniel's a friend who makes a great automation app,           |
 | 01:05      | and we thought, we got to get Daniel                              |
-| 01:06      | on to talk about Fast Scripts,                                    |
+| 01:06      | on to talk about [[FastScripts]],                                    |
 | 01:08      | and then Daniel's house started getting constructed upon,         |
 | 01:12      | and it just took a long time,                                     |
 | 01:13      | but we did it, and we're here, gang,                              |
@@ -111,13 +111,13 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:25      | I think that's the plan.                                          |
 | 01:27      | That was my promise, so we'll see.                                |
 | 01:28      | Well, I think we've got a pretty good place to get started,       |
-| 01:32      | because not only are you the creator of Fast Scripts,             |
+| 01:32      | because not only are you the creator of [[FastScripts]],             |
 | 01:34      | but if you go to Red Sweater Software,                            |
 | 01:37      | then you can have a poke around,                                  |
 | 01:38      | and there's all sorts of goodies there.                           |
 | 01:41      | Everything from Mars Edit, my favourite blog editor,               |
 | 01:43      | that if only I were not using Jekyll I could use,                 |
-| 01:47      | to obviously Fast Scripts and much more,                          |
+| 01:47      | to obviously [[FastScripts]] and much more,                          |
 | 01:50      | but how did you get started in automation?                        |
 | 01:52      | Because obviously you're here now, you're a developer,            |
 | 01:54      | you're not just automating things,                                |
@@ -1080,7 +1080,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 45:18      | But you also mentioned before JavaScript,                         |
 | 45:21      | and obviously, you know, nowadays,                                |
 | 45:24      | for starters, it's not the 1990s anymore,                         |
-| 45:26      | it's the 2020s, and you've got an app called Fast Scripts.        |
+| 45:26      | it's the 2020s, and you've got an app called [[FastScripts]].        |
 | 45:31      | You know, what are you feeling about AppleScript at the moment?   |
 | 45:34      | Is it going to be replaced by JavaScript                          |
 | 45:36      | for automation on macOS,                                          |
@@ -1122,9 +1122,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 47:28      | it's just not being invested in.                                  |
 | 47:30      | And I don't think we can look forward to it                       |
 | 47:32      | being invested in.                                                |
-| 47:33      | Nonetheless, in the context of fast scripts,                      |
+| 47:33      | Nonetheless, in the context of [[FastScripts]],                      |
 | 47:37      | it's, you know, I guess I should clarify,                         |
-| 47:40      | fast scripts is not technically an AppleScript tool.              |
+| 47:40      | [[FastScripts]] is not technically an AppleScript tool.              |
 | 47:44      | It can run almost anything, almost any script on your Mac.        |
 | 47:50      | However, it has certain sort of integrations                      |
 | 47:53      | with the way it runs AppleScript                                  |
@@ -1146,13 +1146,13 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 48:41      | I can make for myself.                                            |
 | 48:43      | And then it turns out a bunch of other people in the world        |
 | 48:46      | who are still steeped in AppleScript                              |
-| 48:49      | really like using fast scripts.                                   |
+| 48:49      | really like using [[FastScripts]].                                   |
 | 48:52      | Yes.                                                              |
 | 48:53      | Yeah, I didn't realise actually until,                            |
 | 48:54      | I think it was just the last week                                 |
 | 48:55      | that I can use it to run other scripts.                           |
 | 48:57      | Like it never occurred to me that I could do that.                |
-| 49:00      | And so now I've got a bunch of fast scripts                       |
+| 49:00      | And so now I've got a bunch of [[FastScripts]]                       |
 | 49:03      | that I'd written to do various things that work.                  |
 | 49:05      | They're just all sitting in my menu bar on my work machine.       |
 | 49:07      | It's like, oh, great, thanks.                                     |
@@ -1237,10 +1237,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 52:52      | can feel like that.                                               |
 | 52:54      | I do think that we've lost the thread a little bit.               |
 | 52:57      | Yes.                                                              |
-| 52:58      | So you've made this app Fast Scripts,                             |
+| 52:58      | So you've made this app [[FastScripts]],                             |
 | 52:59      | and there are other ways to launch [[AppleScript\|AppleScripts]] on your Mac,     |
-| 53:02      | but tell us, why does Fast Scripts exist?                         |
-| 53:06      | Well, Fast Scripts goes back to a time                            |
+| 53:02      | but tell us, why does [[FastScripts]] exist?                         |
+| 53:06      | Well, [[FastScripts]] goes back to a time                            |
 | 53:09      | before there were many other ways to run scripts                  |
 | 53:13      | for one thing.                                                    |
 | 53:14      | When I wrote it, it was around the turn of the century.           |
@@ -1255,7 +1255,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 53:44      | It would list your scripts,                                       |
 | 53:45      | and you would select them and run them.                           |
 | 53:48      | And the motivation was,                                           |
-| 53:50      | and the reason it's called Fast Scripts,                          |
+| 53:50      | and the reason it's called [[FastScripts]],                          |
 | 53:52      | is because at that time,                                          |
 | 53:54      | Apple and scripting automation people in general                  |
 | 53:57      | were all focused on like long workflows.                          |
@@ -1270,7 +1270,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 54:21      | like opening a script in [[Script Editor]]                            |
 | 54:23      | and manually invoking it with a mouse or something.               |
 | 54:27      | And my idea at the time,                                          |
-| 54:29      | and the very first version of Fast Scripts                        |
+| 54:29      | and the very first version of [[FastScripts]]                        |
 | 54:31      | didn't support keyboard shortcuts or anything.                    |
 | 54:34      | It was just the icon in the menu bar,                             |
 | 54:36      | but the idea was to be able to run scripts                        |
@@ -1293,7 +1293,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 55:27      | I think it would load the whole script into memory                |
 | 55:29      | and then run it.                                                  |
 | 55:30      | And so, there was always a little lag.                            |
-| 55:32      | And so, the first version of Fast Scripts                         |
+| 55:32      | And so, the first version of [[FastScripts]]                         |
 | 55:34      | traded the cost of memory for speed                               |
 | 55:41      | by loading every script into memory ahead of time.                |
 | 55:44      | And so, it would all be there ready to run                        |
@@ -1308,18 +1308,18 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 56:06      | the sort of primary value of the app has changed                  |
 | 56:09      | and it's been interesting for me because,                         |
 | 56:12      | for instance, in the most recent version,                         |
-| 56:15      | Fast Scripts 3, which was just released a few months ago,         |
+| 56:15      | [[FastScripts\\|FastScripts 3]], which was just released a few months ago,         |
 | 56:20      | it, I think it's a few months ago,                                |
 | 56:24      | I'm sort of spacey as everybody else is                           |
 | 56:26      | in pandemic thinking.                                             |
 | 56:30      | One of the things I had to do was abandon                         |
-| 56:32      | my like Fast Scripts 1.0 idea                                     |
+| 56:32      | my like [[FastScripts]] 1.0 idea                                     |
 | 56:35      | that scripts should be loaded into memory.                        |
 | 56:39      | And it turned out it didn't matter                                |
 | 56:41      | because computers are fast now.                                   |
-| 56:44      | Not only, in Fast Scripts 3,                                      |
+| 56:44      | Not only, in [[FastScripts\\|FastScripts 3]],                                      |
 | 56:46      | not only are scripts not pre-loaded into memory,                  |
-| 56:49      | Fast Scripts 3 also adds all these new efficiencies               |
+| 56:49      | [[FastScripts\\|FastScripts 3]] also adds all these new efficiencies               |
 | 56:53      | around being able to run multiple scripts at the same time.       |
 | 56:57      | And that involves this whole system of me                         |
 | 57:02      | spawning a separate application process                           |
@@ -1328,7 +1328,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 57:08      | and inefficient but it's super efficient                          |
 | 57:10      | and it's super fast and it's great                                |
 | 57:12      | because it defies every implementation detail                     |
-| 57:15      | of the first version of Fast Scripts,                             |
+| 57:15      | of the first version of [[FastScripts]],                             |
 | 57:18      | but it still fulfills all of the user expectations.               |
 | 57:22      | Yes, yeah, that is one of the things                              |
 | 57:25      | where I was just thinking like, pooh, yeah,                       |
@@ -1348,16 +1348,16 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 57:57      | Yeah, that's the nerdiest thing I've done                         |
 | 58:00      | for the scripting community in a long time.                       |
 | 58:03      | It's funny because I had all these priorities                     |
-| 58:06      | on my list of things to do for Fast Scripts                       |
+| 58:06      | on my list of things to do for [[FastScripts]]                       |
 | 58:08      | that were things like, I just mentioned things like,              |
 | 58:11      | running multiple scripts at a time                                |
 | 58:13      | and spawning out to different processes,                          |
 | 58:16      | supporting progress feedback through the standard                 |
-| 58:19      | progress mechanism, these things I got into Fast Scripts 3        |
+| 58:19      | progress mechanism, these things I got into [[FastScripts\\|FastScripts 3]]        |
 | 58:23      | and then I was like, breathe a sigh of relief                     |
 | 58:26      | because now all the stuff that's been nagging at me               |
 | 58:30      | that I wanted to do for 10 years or so,                           |
-| 58:33      | I got done in Fast Scripts 3.                                     |
+| 58:33      | I got done in [[FastScripts\\|FastScripts 3]].                                     |
 | 58:35      | And now I can just focus on things                                |
 | 58:37      | that I think are sort of,                                         |
 | 58:39      | it's kind of like I built the house                               |
@@ -1368,10 +1368,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 58:52      | is kind of the first and I hope a long line                       |
 | 58:56      | of scripting affordances for the app.                             |
 | 59:00      | So for anybody out there who uses [[AppleScript]],                   |
-| 59:03      | the idea is basically Fast Scripts is a launcher tool             |
+| 59:03      | the idea is basically [[FastScripts]] is a launcher tool             |
 | 59:06      | but it also supports its own scripting commands                   |
 | 59:09      | that you can easily use and access                                |
-| 59:12      | even if you're not running the script from Fast Scripts,          |
+| 59:12      | even if you're not running the script from [[FastScripts]],          |
 | 59:15      | but it kind of includes its own scripting additions               |
 | 59:18      | and this regular expression thing that Rose is alluding to        |
 | 59:22      | is basically a way to process text in your [[AppleScript\|AppleScripts]]          |
@@ -1382,16 +1382,16 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 59:43      | Yes, so what you can do now is inside your [[AppleScript]]           |
 | 59:47      | wherever you are, where you need to split some text up,           |
 | 59:49      | you can just continue where you are                               |
-| 59:50      | and say, tell Application Fast Scripts,                           |
+| 59:50      | and say, tell Application [[FastScripts]],                           |
 | 59:52      | do whatever the magic is that you need to do                      |
 | 59:55      | and then tell and then you're back in the regular script          |
 | 59:58      | and you've just had a very quick conversation                     |
-| 01:00:01   | with Fast Scripts and it's done some magic.                       |
+| 01:00:01   | with [[FastScripts]] and it's done some magic.                       |
 | 01:00:04   | Yeah, used it a couple of times, I love it.                       |
 | 01:00:06   | That's great, I'm glad to hear it                                 |
 | 01:00:08   | and I want to emphasise for anybody listening                     |
 | 01:00:11   | that that is a completely free feature of the app                 |
-| 01:00:14   | and one of the things I want to do with Fast Scripts              |
+| 01:00:14   | and one of the things I want to do with [[FastScripts]]              |
 | 01:00:17   | and I've wanted to do since the beginning                         |
 | 01:00:19   | is to have it be as a baseline product,                           |
 | 01:00:23   | a better way, basically a better version                          |
@@ -1400,7 +1400,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:00:33   | for free and then premium features                                |
 | 01:00:36   | that you get paying a little bit more.                            |
 | 01:00:38   | So that I encourage people, if they're interested in that,        |
-| 01:00:42   | just consider downloading and using Fast Scripts for free,        |
+| 01:00:42   | just consider downloading and using [[FastScripts]] for free,        |
 | 01:00:46   | don't even worry about whether you might want                     |
 | 01:00:48   | to pay for it someday, because yeah,                              |
 | 01:00:50   | part of that for me is I hope someday you do pay for it,          |
@@ -1413,20 +1413,20 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:01:11   | that make the scripting solutions                                 |
 | 01:01:14   | and the automation solutions                                      |
 | 01:01:15   | that we already use even better.                                  |
-| 01:01:16   | And it's lovely to see Fast Scripts doing this                    |
+| 01:01:16   | And it's lovely to see [[FastScripts]] doing this                    |
 | 01:01:20   | from both sides, both the executing                               |
 | 01:01:23   | as well as the being involved inside of the execution.            |
 | 01:01:29   | So you get all of the advantages, which is even better.           |
 | 01:01:32   | Yeah, and I'll just mention one other thing                       |
-| 01:01:34   | about the whole philosophy of Fast Scripts                        |
+| 01:01:34   | about the whole philosophy of [[FastScripts]]                        |
 | 01:01:36   | is basically since the beginning,                                 |
 | 01:01:38   | whenever I noticed something annoying                             |
 | 01:01:40   | about the process of running a script,                            |
 | 01:01:42   | I think, how can I make that better?                              |
-| 01:01:44   | And so there's little things Fast Scripts does                    |
+| 01:01:44   | And so there's little things [[FastScripts]] does                    |
 | 01:01:47   | that you might not notice unless it wasn't doing them.            |
 | 01:01:50   | And it includes things like there's a priority                    |
-| 01:01:54   | in Fast Scripts that if your script brings up                     |
+| 01:01:54   | in [[FastScripts]] that if your script brings up                     |
 | 01:01:56   | like a prompt or a panel, then that takes attention               |
 | 01:02:02   | away from the app you were in.                                    |
 | 01:02:04   | Now, I'm pretty sure it's still the case                          |
@@ -1440,12 +1440,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:02:26   | And so we'll actually remember what app you were in               |
 | 01:02:29   | and put you back into it after you're done.                       |
 | 01:02:31   | And that's what I was gonna ask really,                           |
-| 01:02:32   | because I feel like although Fast Scripts started out             |
+| 01:02:32   | because I feel like although [[FastScripts]] started out             |
 | 01:02:36   | to run a publishing workflow in the 90s,                          |
 | 01:02:40   | it really has evolved a lot.                                      |
 | 01:02:42   | And like you keep finding all of these rough edges                |
 | 01:02:45   | around automation on the Mac,                                     |
-| 01:02:47   | and then Fast Scripts comes in with a solution,                   |
+| 01:02:47   | and then [[FastScripts]] comes in with a solution,                   |
 | 01:02:49   | whether it be a regular expression tool                           |
 | 01:02:52   | or just a way to get your scripts running faster.                 |
 | 01:02:55   | And then to me, it's not the menu bar, man.                       |
@@ -1456,11 +1456,11 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:03:05   | like she hadn't noticed that you can run non-[[AppleScript\|AppleScripts]].       |
 | 01:03:07   | And I was thinking to myself, you know,                           |
 | 01:03:09   | it's all on me, but the main thing I've done wrong                |
-| 01:03:13   | with Fast Scripts over all these years,                           |
+| 01:03:13   | with [[FastScripts]] over all these years,                           |
 | 01:03:15   | from the beginning, I made it for people                          |
 | 01:03:17   | who basically I knew already knew what they wanted.               |
 | 01:03:21   | And it was, you know, and so I never had to,                      |
-| 01:03:24   | I never felt like I had to explain what Fast Scripts can do.      |
+| 01:03:24   | I never felt like I had to explain what [[FastScripts]] can do.      |
 | 01:03:28   | And the negative of that is that I've been catching up            |
 | 01:03:31   | ever since, and there's all these things in it                    |
 | 01:03:34   | where I've added things over the years to accommodate             |
@@ -1528,7 +1528,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:06:08   | It should be just fine.                                           |
 | 01:06:10   | It's funny, in particular,                                        |
 | 01:06:12   | sim links were a tricky challenge for me                          |
-| 01:06:14   | that I don't think I quite got right until Fast Scripts 3.        |
+| 01:06:14   | that I don't think I quite got right until [[FastScripts\\|FastScripts 3]].        |
 | 01:06:19   | And I hope it's right now                                         |
 | 01:06:20   | and let me know if you run into problems.                         |
 | 01:06:22   | But I did for many, many, many years                              |
@@ -1538,7 +1538,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:06:36   | whereas a sim link is at the file system level.                   |
 | 01:06:39   | But yeah, it should work.                                         |
 | 01:06:40   | And I encourage that.                                             |
-| 01:06:41   | And it's sort of all part of a shortcoming of Fast Scripts        |
+| 01:06:41   | And it's sort of all part of a shortcoming of [[FastScripts]]        |
 | 01:06:45   | that it's not easier to configure it                              |
 | 01:06:47   | to run things outside of the scripts folder.                      |
 | 01:06:49   | But that's probably something on the list for the future.         |
@@ -1548,8 +1548,8 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:07:01   | or to make sim links to folders                                   |
 | 01:07:04   | or to specific scripts that are outside the.                      |
 | 01:07:07   | And that can be really useful in terms of the,                    |
-| 01:07:11   | this is kind of getting into deep Fast Scripts feature territory. |
-| 01:07:15   | But one of the great things about Fast Scripts                    |
+| 01:07:11   | this is kind of getting into deep [[FastScripts]] feature territory. |
+| 01:07:15   | But one of the great things about [[FastScripts]]                    |
 | 01:07:16   | is you can have app-specific scripts                              |
 | 01:07:18   | that are determined just by where they are                        |
 | 01:07:21   | in your scripts hierarchy.                                        |
@@ -1617,7 +1617,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:09:54   | But that's one example of something I use it for.                 |
 | 01:09:58   | I also use it for automating, creating new blog posts             |
 | 01:10:02   | for all of my products themselves, the apps.                      |
-| 01:10:05   | Like when I have a new version of Fast Scripts or MarsEdit,       |
+| 01:10:05   | Like when I have a new version of [[FastScripts]] or MarsEdit,       |
 | 01:10:08   | I have a script for each of those                                 |
 | 01:10:10   | that asks me what version it is                                   |
 | 01:10:13   | and what the release notes are.                                   |
@@ -1669,9 +1669,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:12:38   | Have you explored shortcuts with it?                              |
 | 01:12:41   | I mean, is that something you're interested in?                   |
 | 01:12:43   | With MarsEdit, yeah, it's on my list.                             |
-| 01:12:46   | It's actually on my list with fast scripts too.                   |
+| 01:12:46   | It's actually on my list with [[FastScripts]] too.                   |
 | 01:12:48   | I really think, you know,                                         |
-| 01:12:50   | kind of getting back to fast scripts                              |
+| 01:12:50   | kind of getting back to [[FastScripts]]                              |
 | 01:12:52   | and like what's up with AppleScript and shortcuts.               |
 | 01:12:55   | I think as time goes forward, I'm going to be thinking            |
 | 01:12:59   | increasingly like not what can I do for AppleScript authors,     |
@@ -1687,7 +1687,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:13:29   | But I think there's a lot of things I can do                      |
 | 01:13:32   | to expose the similar, you know,                                  |
 | 01:13:35   | the kinds of things I mentioned, scriptable things.               |
-| 01:13:39   | Like another thing fast scripts has built in                      |
+| 01:13:39   | Like another thing [[FastScripts]] has built in                      |
 | 01:13:41   | is this kind of heads up display message display                  |
 | 01:13:45   | scripting command that lets you kind of do                        |
 | 01:13:47   | a lighter weight feedback like display a message                  |
@@ -1906,7 +1906,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:23:05   | of all the ways that your logic could flow.                       |
 | 01:23:08   | And I could see it expanding in that way.                         |
 | 01:23:13   | It has the potential to be the kind of tool                       |
-| 01:23:17   | like I was alluding to earlier with fast scripts                  |
+| 01:23:17   | like I was alluding to earlier with [[FastScripts]]                  |
 | 01:23:19   | where it could be simple on the surface                           |
 | 01:23:20   | but have depth that's available only if you're interested.        |
 | 01:23:25   | So it would be cool if there were like some power user,           |
@@ -2115,10 +2115,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:32:40   | It's useful after something's happened.                           |
 | 01:32:42   | It can open the console logs for the past                         |
 | 01:32:46   | and even for specific applications, which is great.               |
-| 01:32:49   | So if I find a bug in Fast Scripts at some point                  |
+| 01:32:49   | So if I find a bug in [[FastScripts]] at some point                  |
 | 01:32:52   | and you get logs, you'll know it's because it happened            |
 | 01:32:54   | and I hit the Backlog and was able to go,                         |
-| 01:32:55   | right, show me the Fast Scripts log for the last hour             |
+| 01:32:55   | right, show me the [[FastScripts]] log for the last hour             |
 | 01:32:58   | and I'm going to send those over                                  |
 | 01:32:59   | because I didn't have the console running.                        |
 | 01:33:02   | Yeah, well, I think the only explanation for your mom             |
@@ -2291,7 +2291,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:40:32   | what my Twitter handle is, to spell it out for them,              |
 | 01:40:35   | it's always kind of fun.                                          |
 | 01:40:38   | Well, thank you so much for all the hard work you've done         |
-| 01:40:41   | for our community of Automators and Fast Scripts                  |
+| 01:40:41   | for our community of Automators and [[FastScripts]]                  |
 | 01:40:45   | is just an excellent app, Rose and I both use it                  |
 | 01:40:48   | if you're listening to Automators, go check it out.               |
 | 01:40:50   | And as Daniel again mentioned, but was too nice                   |

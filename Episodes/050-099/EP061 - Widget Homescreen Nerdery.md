@@ -919,6 +919,6 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:13:30   | to abduct your dog because she's adorable and who wouldn't want to steal. I'm just going to threaten   |
 | 01:13:33   | to do it. And then you'll tell us and then everybody's happy. And I might get to borrow                |
 | 01:13:36   | your dog for an hour because she's cute. Okay, that does it for today. We want to thank our            |
-| 01:13:42   | sponsors, Microsoft and Fast Scripts. If you'd like to get active in those forums,                     |
+| 01:13:42   | sponsors, Microsoft and FastScripts. If you'd like to get active in those forums,                     |
 | 01:13:46   | head over to talk.automators.fm. You can find the show at relay.fm/automators,                   |
 | 01:13:52   | and our website is automators.fm. See you next time.                                                   |
