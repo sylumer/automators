@@ -125,18 +125,18 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 04:11      | It's got a rows of applications.                                                                         |
 | 04:13      | It's got rows of setting commands.                                                                       |
 | 04:16      | And he taps something on the glass of his iPad and things start happening on his Mac.                    |
-| 04:22      | And even better, there's a button there for Keynote.                                                     |
-| 04:25      | He taps Keynote.                                                                                         |
-| 04:26      | It opens up the Keynote app on the Mac and then the iPad completely reconfigures itself                  |
-| 04:33      | as a Keynote control panel.                                                                              |
+| 04:22      | And even better, there's a button there for [[Keynote]].                                                     |
+| 04:25      | He taps [[Keynote]].                                                                                         |
+| 04:26      | It opens up the [[Keynote]] app on the Mac and then the iPad completely reconfigures itself                  |
+| 04:33      | as a [[Keynote]] control panel.                                                                              |
 | 04:36      | So you can see all the things.                                                                           |
-| 04:38      | Create a new slide, change a font, whatever you need to do in Keynote.                                   |
+| 04:38      | Create a new slide, change a font, whatever you need to do in [[Keynote]].                                   |
 | 04:42      | You can do it by tapping a button on your iPad.                                                          |
 | 04:45      | So how did you do that?                                                                                  |
 | 04:50      | It's all magic.                                                                                          |
 | 04:52      | It's contextually sensitive.                                                                             |
 | 04:54      | I mean, it's an amazingly powerful way to use an iPad with a Mac because, you know, when                 |
-| 05:00      | you open Keynote, you get your iPad turns into the Keynote support device.                               |
+| 05:00      | you open [[Keynote]], you get your iPad turns into the [[Keynote]] support device.                               |
 | 05:04      | And then when you open Pages, it turns into the Pages support device.                                    |
 | 05:09      | And this is something that users can customise.                                                          |
 | 05:12      | They can lay out the buttons the way they want and they put in the apps the way they                     |
@@ -159,7 +159,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 06:41      | And I was exploring that and exploring using a Luna display.                                             |
 | 06:47      | And I was just so thrilled with what I was able to come up with because they put in the                  |
 | 06:52      | ability for a button to run a script, an [[AppleScript]] script.                                            |
-| 06:56      | And once you have that, then you can take an app like Keynote that's really scriptable                   |
+| 06:56      | And once you have that, then you can take an app like [[Keynote]] that's really scriptable                   |
 | 07:02      | and everything becomes possible.                                                                         |
 | 07:05      | Yeah, you've got to really peel this onion because you get to the accessibility pane                     |
 | 07:10      | on your Mac.                                                                                             |
@@ -209,7 +209,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 10:01      | did make me a little bit sad when I first started playing with this.                                     |
 | 10:04      | Yeah.                                                                                                    |
 | 10:05      | And then of course, you can always have images.                                                          |
-| 10:08      | I used, in my example panel for Keynote, I used a lot of application icons as the buttons.               |
+| 10:08      | I used, in my example panel for [[Keynote]], I used a lot of application icons as the buttons.               |
 | 10:17      | And that makes it really easy to distinguish between the apps that you want to switch                    |
 | 10:24      | to and some of the kind of functions.                                                                    |
 | 10:27      | I have a button on my example keyboard panel that is for [[AirDrop]].                                        |
@@ -221,7 +221,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 10:52      | And those are the kind of functionality that you can build into your own keyboard.                       |
 | 10:58      | And you can also think about how you design them as far as access.                                       |
 | 11:04      | You become your own UI designer with these things.                                                       |
-| 11:07      | For example, I have a key accessibility panel for Keynote.                                               |
+| 11:07      | For example, I have a key accessibility panel for [[Keynote]].                                               |
 | 11:14      | I also have one for other apps like Photos and Maps.                                                     |
 | 11:19      | And I use the same type of configuration idea with each panel.                                           |
 | 11:24      | So the top two rows are just for navigating between apps.                                                |
@@ -249,10 +249,10 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 13:04      | And the other interesting thing that shows you the quality of the work and thought that                  |
 | 13:09      | they've put into the accessibility frameworks is that you can assign a panel to be visible               |
 | 13:17      | when a specific application is frontmost.                                                                |
-| 13:21      | So I can say I want this panel to be visible when Keynote is the frontmost app or when the               |
+| 13:21      | So I can say I want this panel to be visible when [[Keynote]] is the frontmost app or when the               |
 | 13:28      | finders are frontmost app or both of those.                                                              |
 | 13:32      | So you can have it so that the panel switch automatically as the app changes in the foreground.          |
-| 13:40      | So if you go from Keynote to Maps, the panel will reflect that and show the controls for                 |
+| 13:40      | So if you go from [[Keynote]] to Maps, the panel will reflect that and show the controls for                 |
 | 13:47      | maps.                                                                                                    |
 | 13:49      | And then if you use a strategy like I indicated where you have certain rows of buttons that              |
 | 13:56      | stay the same on each one of the panels, then it becomes really easy to navigate around.                 |
@@ -291,7 +291,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 16:17      | What I did is I created a base template that had all of the buttons in the positions that                |
 | 16:26      | I wanted, and then I populated that with my apps and my functions and my system preferences.             |
 | 16:33      | And then you just duplicate that, make a copy of it, and then each panel.                                |
-| 16:39      | So I would duplicate it, make the duplicate called Keynote, duplicate that, make the duplicate           |
+| 16:39      | So I would duplicate it, make the duplicate called [[Keynote]], duplicate that, make the duplicate           |
 | 16:45      | called Pages, same process.                                                                              |
 | 16:48      | And that way you could have the same buttons on each panel in the same exact position.                   |
 | 16:54      | I found it was easiest to start with creating, what do I want my basic panel to be?                      |
@@ -312,7 +312,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 18:09      | And if you want to change it, you can always add another one.                                            |
 | 18:13      | And you can add a button in your panel that will allow you to switch to another panel.                   |
 | 18:19      | So you can have contextual panels or versions of your panel that you can go between.                     |
-| 18:25      | So I could have three different panels that all deal with Keynote, but provide an entirely               |
+| 18:25      | So I could have three different panels that all deal with [[Keynote]], but provide an entirely               |
 | 18:31      | different set of buttons and things, and then switch between them, if that's what you want               |
 | 18:36      | to do.                                                                                                   |
 | 18:37      | I'm just trying to think of all of the possible implications of this, lots of ideas.                     |
@@ -576,7 +576,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 36:13      | Each one of these buttons doesn't have complex scripts behind it.                                        |
 | 36:17      | It just has a link to a function in my AppleScript library.                                              |
 | 36:21      | So I have a library for each panel.                                                                      |
-| 36:25      | Aha, so when I switch from the Keynote panel to the Photos panel, the buttons on the Photos              |
+| 36:25      | Aha, so when I switch from the [[Keynote]] panel to the Photos panel, the buttons on the Photos              |
 | 36:33      | panel connect to the Photos Script Library.                                                              |
 | 36:39      | And that way it's really easy to keep track of everything and update it.                                 |
 | 36:45      | It becomes a much simpler process.                                                                       |
@@ -637,8 +637,8 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 40:26      | And, you know, AppleScript is in many ways a little bit of magic sprinkled with some system              |
 | 40:31      | events here and there.                                                                                   |
 | 40:32      | Well, think about what you're presenting here is actually you're creating an entire extension            |
-| 40:39      | architecture for Keynote.                                                                                |
-| 40:41      | So this would have to be extensions that were put into Keynote, written, signed, notarised               |
+| 40:39      | architecture for [[Keynote]].                                                                                |
+| 40:41      | So this would have to be extensions that were put into [[Keynote]], written, signed, notarised               |
 | 40:48      | to be able to do each one of these little functions that have to be added into the application.          |
 | 40:53      | And then they'd have to figure out some kind of way to expose those to a UI thing.                       |
 | 40:59      | And the fact that this is so lightweight yet so powerful is the real distinguishing factor               |
@@ -848,7 +848,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 55:24      | But where is my bang for my buck?                                                                        |
 | 55:26      | For me, it's taking all the hard work of people at Omni and all the other app developers                 |
 | 55:31      | and combining it to make it work better and faster for me, whether it's two apps talking                 |
-| 55:35      | to each other or like Sal did with these AppleScripts, pulling more features out of Keynote             |
+| 55:35      | to each other or like Sal did with these AppleScripts, pulling more features out of [[Keynote]]             |
 | 55:41      | than actually are built into it.                                                                         |
 | 55:43      | And that's something anybody can do with a little bit of investment of time.                             |
 | 55:47      | Definitely.                                                                                              |

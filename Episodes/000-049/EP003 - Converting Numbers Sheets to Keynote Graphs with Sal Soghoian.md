@@ -590,12 +590,12 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 37:57      | Then we're going to talk to a specific object in that [[Keynote]].                                                                                                       |
 | 38:03      | And it's going to be the current slide of the front document.                                                                                                            |
 | 38:06      | Now what does current slide mean?                                                                                                                                        |
-| 38:09      | Current slide is a property of the document in Keynote.                                                                                                                  |
+| 38:09      | Current slide is a property of the document in [[Keynote]].                                                                                                                  |
 | 38:14      | And it just means which slide you have selected in the interface.                                                                                                        |
 | 38:18      | That's the current slide.                                                                                                                                                |
 | 38:20      | So whatever slide the user currently has selected, we're going to be addressing it.                                                                                      |
 | 38:26      | So tell the current slide of the front document.                                                                                                                         |
-| 38:28      | So if I have two Keynote documents open, it's the one that's on top of the other one.                                                                                    |
+| 38:28      | So if I have two [[Keynote]] documents open, it's the one that's on top of the other one.                                                                                    |
 | 38:34      | And I'm going to talk to the current slide.                                                                                                                              |
 | 38:37      | And then in between the actual command is on line 14 and 15.                                                                                                             |
 | 38:43      | It's actually one line, but I couldn't fit it on one line in the page.                                                                                                   |

@@ -470,7 +470,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 33:13      | approval process is the right word. Now you will find some of these are Windows only.                     |
 | 33:18      | And so they might not work on the Mac, but there are, there's ones there for running                      |
 | 33:25      | AppleScript. And there's KM link, which we'll get to and so on. But you know, that's where               |
-| 33:30      | I've got the ones for Philips Hue, Visual Code Studio, Nanoleaf, Keynote and [[Microsoft PowerPoint\|PowerPoint]],                  |
+| 33:30      | I've got the ones for Philips Hue, Visual Code Studio, Nanoleaf, [[Keynote]] and [[Microsoft PowerPoint\|PowerPoint]],                  |
 | 33:38      | because I have to use [[Microsoft PowerPoint\|PowerPoint]] at work. So I downloaded the [[Microsoft PowerPoint\|PowerPoint]] one. And you                     |
 | 33:44      | know, and all of these other ones, which is just, you know, it's very helpful to do that.                 |
 | 33:50      | And if you want, for example, to have a button, which shows you the mail icon with a little               |

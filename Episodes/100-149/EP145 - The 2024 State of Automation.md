@@ -599,7 +599,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 31:58      | So I don't end up liking using any third-party on-screen keyboards long-term, especially                |
 | 32:03      | on my iPhone, but switching to something and being like, here's a block of text, next,                  |
 | 32:10      | that works really well for me.                                                                          |
-| 32:12      | So yeah, that's what I'm doing with Snipety on iOS, and it's working.                                   |
+| 32:12      | So yeah, that's what I'm doing with Snippety on iOS, and it's working.                                   |
 | 32:15      | And while we're mentioning text expansion, you said text expansion, that's another app                  |
 | 32:20      | that's just, it's still, you know, it's just remarkable how big it's gotten over the years              |
 | 32:24      | and, you know, multi-platform, a lot of companies are using it.                                         |
@@ -651,11 +651,11 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 35:37      | Oh, yeah.                                                                                               |
 | 35:38      | Trust me, I'm filing feedback for everything.                                                           |
 | 35:41      | Like I'm filing feedback for pages.                                                                     |
-| 35:43      | Keynote, numbers, mail, [[Safari]], you name it, every single native macOS application, calendar.           |
+| 35:43      | [[Keynote]], [[Numbers]], [[Apple Mail\|Mail]], [[Safari]], you name it, every single native macOS application, calendar.           |
 | 35:51      | I have filed the same feedback.                                                                         |
 | 35:53      | I'm really sorry to all the people that have to process the radars, especially I know the               |
-| 35:57      | Iwork team has one centralised thing.                                                                   |
-| 36:01      | And so I'm really sorry to the Iwork team for sending you three, but I want one of these                |
+| 35:57      | [[iWork]] team has one centralised thing.                                                                   |
+| 36:01      | And so I'm really sorry to the [[iWork]] team for sending you three, but I want one of these                |
 | 36:07      | for everything.                                                                                         |
 | 36:08      | I want separate ones for numbers and pages and keynote and so on.                                       |
 | 36:11      | And I know if I go to the App Store and I click on the release notes for numbers, pages                 |
