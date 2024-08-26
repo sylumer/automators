@@ -3685,7 +3685,11 @@ var Handlers = class {
         workspaces.saveWorkspace(active);
         new import_obsidian7.Notice(`Saved current workspace to ${active}`);
       }
-      if (parameters.workspace != void 0) {
+      if (parameters.clipboard && parameters.clipboard != "false") {
+        this.tools.copyURI({
+          workspace: workspaces.activeWorkspace
+        });
+      } else if (parameters.workspace != void 0) {
         workspaces.loadWorkspace(parameters.workspace);
       }
       this.plugin.success(parameters);
@@ -3726,7 +3730,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line != void 0 || parameters.column != void 0) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3740,6 +3744,10 @@ var Handlers = class {
           parameters
         });
       }
+    } else if (parameters.openmode || parameters.viewmode) {
+      await this.plugin.open({
+        parameters
+      });
     }
     if (parameters.commandid) {
       this.app.commands.executeCommandById(parameters.commandid);
@@ -3748,12 +3756,21 @@ var Handlers = class {
       for (const command in rawCommands) {
         if (rawCommands[command].name === parameters.commandname) {
           if (rawCommands[command].callback) {
-            rawCommands[command].callback();
+            await rawCommands[command].callback();
           } else {
             rawCommands[command].checkCallback(false);
           }
           break;
         }
+      }
+    }
+    if (parameters.confirm && parameters.confirm != "false") {
+      await new Promise((r) => setTimeout(r, 750));
+      const button = document.querySelector(
+        ".mod-cta:not([style*='display: none'])"
+      );
+      if (button.click instanceof Function) {
+        button.click();
       }
     }
     this.plugin.success(parameters);
@@ -3793,7 +3810,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line != void 0 || parameters.column != void 0) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3979,7 +3996,7 @@ var Handlers = class {
         setting: this.plugin.settings.openFileWithoutWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0 || parameters.column != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.setCursorInLine(parameters);
       }
     }
@@ -4985,7 +5002,7 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
         setting: this.settings.openFileOnWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0 || parameters.column != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.setCursorInLine(parameters);
       }
     }
@@ -4997,6 +5014,7 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
     supportPopover,
     mode
   }) {
+    let leaf;
     if (parameters.openmode == "popover" && (supportPopover != null ? supportPopover : true)) {
       const hoverEditor = this.app.plugins.plugins["obsidian-hover-editor"];
       if (!hoverEditor) {
@@ -5005,18 +5023,12 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
         );
         this.failure(parameters);
       }
-      const leaf = hoverEditor.spawnPopover(void 0, () => {
-        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      await new Promise((resolve) => {
+        leaf = hoverEditor.spawnPopover(void 0, () => {
+          this.app.workspace.setActiveLeaf(leaf, { focus: true });
+          resolve();
+        });
       });
-      let tFile;
-      if (file instanceof import_obsidian14.TFile) {
-        tFile = file;
-      } else {
-        tFile = this.app.vault.getAbstractFileByPath(
-          (0, import_obsidian14.getLinkpath)(file)
-        );
-      }
-      await leaf.openFile(tFile);
     } else {
       let openMode = setting;
       if (parameters.newpane !== void 0) {
@@ -5038,25 +5050,51 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
       if (import_obsidian14.Platform.isMobileApp && openMode == "window") {
         openMode = true;
       }
-      let fileIsAlreadyOpened = false;
-      if (isBoolean(openMode)) {
-        this.app.workspace.iterateAllLeaves((leaf) => {
-          var _a;
-          if (((_a = leaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
-            if (fileIsAlreadyOpened && leaf.width == 0)
-              return;
-            fileIsAlreadyOpened = true;
-            this.app.workspace.setActiveLeaf(leaf, { focus: true });
-          }
-        });
+      if (file != void 0) {
+        let fileIsAlreadyOpened = false;
+        if (isBoolean(openMode)) {
+          this.app.workspace.iterateAllLeaves((existingLeaf) => {
+            var _a;
+            if (((_a = existingLeaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
+              if (fileIsAlreadyOpened && existingLeaf.width == 0)
+                return;
+              fileIsAlreadyOpened = true;
+              this.app.workspace.setActiveLeaf(existingLeaf, {
+                focus: true
+              });
+              leaf = existingLeaf;
+            }
+          });
+        }
       }
-      return this.app.workspace.openLinkText(
-        file instanceof import_obsidian14.TFile ? file.path : file,
+      if (!leaf) {
+        leaf = this.app.workspace.getLeaf(openMode);
+        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      }
+    }
+    if (file instanceof import_obsidian14.TFile) {
+      await leaf.openFile(file);
+    } else if (file != void 0) {
+      await this.app.workspace.openLinkText(
+        file,
         "/",
-        fileIsAlreadyOpened ? false : openMode,
+        false,
         mode != void 0 ? { state: { mode } } : getViewStateFromMode(parameters)
       );
     }
+    if (leaf.view instanceof import_obsidian14.MarkdownView) {
+      const viewState = leaf.getViewState();
+      if (mode != void 0) {
+        viewState.state.mode = mode;
+      } else {
+        viewState.state = {
+          ...viewState.state,
+          ...getViewStateFromMode(parameters).state
+        };
+      }
+      await leaf.setViewState(viewState);
+    }
+    return leaf;
   }
   async setCursor(parameters) {
     const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
@@ -5090,14 +5128,28 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
     const rawColumn = parameters.column ? Number(parameters.column) : void 0;
     viewState.state.mode = "source";
     await view.leaf.setViewState(viewState);
-    const line = rawLine != void 0 ? Math.min(rawLine - 1, view.editor.lineCount() - 1) : view.editor.getCursor().line;
-    const maxColumn = view.editor.getLine(line).length - 1;
-    const column = Math.min(rawColumn - 1, maxColumn);
+    let line, column;
+    if (parameters.offset != void 0) {
+      const pos = view.editor.offsetToPos(Number(parameters.offset));
+      line = pos.line;
+      column = pos.ch;
+    } else {
+      line = rawLine != void 0 ? Math.min(rawLine - 1, view.editor.lineCount() - 1) : view.editor.getCursor().line;
+      const maxColumn = view.editor.getLine(line).length - 1;
+      column = Math.min(rawColumn - 1, maxColumn);
+    }
     view.editor.focus();
     view.editor.setCursor({
       line,
-      ch: column != null ? column : maxColumn
+      ch: column
     });
+    view.editor.scrollIntoView(
+      {
+        from: { line, ch: column },
+        to: { line, ch: column }
+      },
+      true
+    );
     await new Promise((resolve) => setTimeout(resolve, 10));
     if (parameters.viewmode == "preview") {
       viewState.state.mode = "preview";
