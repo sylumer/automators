@@ -722,7 +722,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 54:57      | parts of the text layout system, Alexander is a, is a super great person and a great                   |
 | 55:03      | developer and text testing is a great app. So I think more, Runestone, I think more of                 |
 | 55:08      | that as like, um, on the Mac, you might have, uh, you have text edit, and then you might               |
-| 55:13      | have as a developer, you have a more powerful, um, text editor, could be a Nova, VS code               |
+| 55:13      | have as a developer, you have a more powerful, um, text editor, could be a Nova, [[Visual Studio Code\| VS Code]]               |
 | 55:19      | or whatever. And I think Runestone is more like the text edit on steroids. It's for the,               |
 | 55:26      | it's for the times that you don't need a full fledged powerful editor, but you just need               |
 | 55:31      | something simple. And for some people that might be enough, but if, if it isn't, and                   |

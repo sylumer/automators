@@ -260,7 +260,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 15:22      | next scene, this camera, that camera, play polls, sharing my screen, showing and hiding,                  |
 | 15:27      | picture and picture, muting, things like that. And that's great, because, you know, it makes              |
 | 15:33      | it easier. But there's a lot of, you know, developers out there who've made the point                     |
-| 15:38      | of going and adding things. So there's a keynote plugin, there's a Visual Studio code plugin.             |
+| 15:38      | of going and adding things. So there's a keynote plugin, there's a [[Visual Studio Code]] plugin.             |
 | 15:45      | There's a Nanoleaf plugin and a Philips Hue plugin. So if you want to control your Hue                    |
 | 15:50      | lights or your Nanoleaf light panels, you can do that. But also people like [[Timothy Luoma\|TJ Luoma]]   |
 | 15:55      | through things like keyboard moisture has gone ahead and created plugins. Now, I like                     |

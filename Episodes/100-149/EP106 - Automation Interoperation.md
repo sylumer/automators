@@ -948,7 +948,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 35:04      | I have a bunch to tweak my bunches.                               |
 | 35:06      | David, this is how meta I get.                                    |
 | 35:08      | And what it does is it opens the                                  |
-| 35:10      | Bunch folder in Visual Studio Code                                |
+| 35:10      | Bunch folder in [[Visual Studio Code]]                                |
 | 35:12      | and it opens the Bunch website                                    |
 | 35:14      | so I can check, you know, my front-matter keys                    |
 | 35:16      | and everything and search for stuff.                              |
@@ -1188,7 +1188,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 43:06      | all of those files. You could open them all                       |
 | 43:08      | in [[BBEdit]]. I use visual studio                                   |
 | 43:10      | code because there is a bunch extension                           |
-| 43:12      | for visual studio code, which                                     |
+| 43:12      | for [[Visual Studio Code]], which                                     |
 | 43:14      | helps you with autocomplete and things like that                  |
 | 43:16      | for                                                               |
 | 43:18      | you know, like all of the                                         |

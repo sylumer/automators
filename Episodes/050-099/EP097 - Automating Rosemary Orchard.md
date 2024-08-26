@@ -480,7 +480,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 34:30      | I'd never really bothered to sit down and figure it out. And another feature that I                      |
 | 34:37      | really like, and this is not to say that [[Keyboard Maestro]] is not great for this, is I really             |
 | 34:42      | like the fact that when I open a bunch file, it's pretty much just a list of application                 |
-| 34:46      | names. So I'm skimming it and I'm going, yep, visual studio code. Yeah, that's the one                   |
+| 34:46      | names. So I'm skimming it and I'm going, yep, [[Visual Studio Code]]. Yeah, that's the one                   |
 | 34:52      | that I want, you know, and it's, it's great for both when you're having those brain fart                 |
 | 34:55      | moments where I don't remember what the name of the thing is that I need to open because                 |
 | 35:00      | everybody's brain does that every once in a while. And it's also just very useful for                    |

@@ -354,12 +354,12 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 14:39      | an honour student, but only in the books, not in the development skills.                                |
 | 14:43      | So I'm not actually that talented of a developer, but TypeScript helps with that because what          |
 | 14:49      | TypeScript does, it uses, I guess, if you set it up right and there's lots of guides                   |
-| 14:54      | to doing so on the [[Obsidian]] forums, you're going to use an app like VS Code, which is                  |
+| 14:54      | to doing so on the [[Obsidian]] forums, you're going to use an app like [[Visual Studio Code\| VS Code]], which is                  |
 | 14:59      | a development environment, and it just gives really intelligent suggestions for what you               |
 | 15:04      | should type next, basically.                                                                           |
 | 15:06      | And so I would say if you want to get started in playing around with this, pick a project,             |
 | 15:12      | pick something that you want to change about the experience of using [[Obsidian]], and then                |
-| 15:17      | open up the development environment, VS Code, and start playing with something that already            |
+| 15:17      | open up the development environment, [[Visual Studio Code\| VS Code]], and start playing with something that already            |
 | 15:22      | exists.                                                                                                |
 | 15:23      | The interesting thing about the [[Obsidian]] community is that a lot of these plugins are open source,     |
 | 15:27      | they're on GitHub, you can go and pull somebody else's plugin, a lot of people are really good         |
@@ -386,7 +386,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 16:41      | But it means that you can say, for example, this thing has to be a Boolean or something,               |
 | 16:46      | which you can't usually do in JavaScript, but because you can do that in TypeScript,                   |
 | 16:50      | it does make programming a little easier.                                                              |
-| 16:52      | So I've got some links to what TypeScript is generically, as well as Visual Studio Code                |
+| 16:52      | So I've got some links to what TypeScript is generically, as well as [[Visual Studio Code]]                |
 | 16:56      | and a link in the forums to the [[Obsidian]] forums to how to start developing a plugin.                   |
 | 17:02      | But your advice about pick something that does something similar already and pick that                 |
 | 17:08      | apart, that is absolutely 100% where it would start every single time.                                 |
