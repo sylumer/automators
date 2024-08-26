@@ -122,7 +122,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 03:11      | you want to look into, and I almost would argue that almost anybody could find a use                                    |
 | 03:15      | for this if you're managing tasks through an application.                                                               |
 | 03:19      | We're going to focus on [[OmniFocus]] a lot today because both Rose and I use it, but we are                                |
-| 03:22      | going to cover things and a few other apps that do some of this too, but we're going                                    |
+| 03:22      | going to cover [[Things[[]]]] and a few other apps that do some of this too, but we're going                                    |
 | 03:28      | to focus on [[OmniFocus]] because that's where we're spending our time on it.                                               |
 | 03:33      | I guess another point I'd make is that it doesn't have to be identical projects.                                        |
 | 03:38      | It can be similar projects because once you start using these, we'll talk about it today                                |
@@ -351,7 +351,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 17:46      | these templates, where do you store them?                                                                               |
 | 17:49      | Clearly, you're storing some of them in [[Shortcuts]] or [[Workflow]], I'm storing some in [[Drafts]], are                          |
 | 17:54      | you storing any of your templates anywhere else?                                                                        |
-| 17:56      | Yeah, I've got, and you Lucy, just the folder set aside with a pile of these things, and                                |
+| 17:56      | Yeah, I've got, in [[Ulysses]], just the folder set aside with a pile of these things, and                                |
 | 18:01      | I write them there.                                                                                                     |
 | 18:02      | And then what I do is, and like I said, I've got 30 of these things, these templates, and                               |
 | 18:07      | a lot of them started with one or two good ones, and then I like the one to create a                                    |
@@ -401,7 +401,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 21:30      | project you created and you ran it from inside [[OmniFocus]].                                                               |
 | 21:35      | It was actually quite powerful, but putting it all in [[Workflow]] for me was the magic moment                              |
 | 21:41      | where I could just open up [[Workflow]] and press a button and just make this stuff happen.                                 |
-| 21:47      | One of the things I didn't mention is the add Taskpaper to OmniFocus action in workflow                                 |
+| 21:47      | One of the things I didn't mention is the add [[Taskpaper]] to [[OmniFocus]] action in [[Workflow]]                                 |
 | 21:53      | has got increasingly more powerful, and when it first started, it would just dump the project                           |
 | 21:59      | at the root level of your projects, now you can put them in the inbox, you can attach                                   |
 | 22:06      | them to a specific folder or a specific project, so depending on what you're doing, I have                              |
@@ -623,13 +623,13 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 35:54      | that you can automate project templates in, is it?                                                                      |
 | 35:57      | No, it's not.                                                                                                           |
 | 35:59      | Most of the, I think the upper tier task managers have tried to account for this somehow.                               |
-| 36:06      | Things has got a whole system for it.                                                                                   |
+| 36:06      | [[Things]] has got a whole system for it.                                                                                   |
 | 36:10      | I played with it a little bit.                                                                                          |
 | 36:12      | Honestly I haven't gone into it nearly as deep as I have with [[OmniFocus]].                                                |
 | 36:15      | No, but we do have some links for the show notes where I've had a look around and some                                  |
-| 36:21      | people have got some things together where they figured out how they're automating things.                              |
+| 36:21      | people have got some things together where they figured out how they're automating [[Things]].                              |
 | 36:27      | I did use to do this for my work projects.                                                                              |
-| 36:30      | And one of the things that I did for that was I used Excel.                                                             |
+| 36:30      | And one of the things that I did for that was I used [[Microsoft Excel\|Excel]].                                                             |
 | 36:34      | And [[Microsoft Excel\|Excel]] is one of those tools that you can do an awful lot with it.                                                   |
 | 36:38      | Sometimes you can do a lot of things with it, maybe you shouldn't necessarily be doing.                                 |
 | 36:42      | Some people use it as databases, but it's great actually for tasks.                                                     |
@@ -688,13 +688,13 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 39:03      | Let us know how you're doing with this stuff.                                                                           |
 | 39:05      | We've got a forum and love to hear from you in there.                                                                   |
 | 39:09      | That'd be a great place to share some of your own templates and project management templates.                           |
-| 39:15      | We do have a bunch of links for you if you're on things, but if you have some things, stuff                             |
+| 39:15      | We do have a bunch of links for you if you're on [[Things]], but if you have some things, stuff                             |
 | 39:18      | you want to share there, please do, because Rose and I, neither one of us use it every                                  |
 | 39:21      | day.                                                                                                                    |
 | 39:22      | So we're not the best people to give you advice on it, but we'd love to see talk on                                     |
 | 39:25      | that in the forum.                                                                                                      |
 | 39:27      | Anything else, Rose?                                                                                                    |
-| 39:28      | Well, you can find that forum at talk.automatose.fm and there are a bunch of very lovely Automators                     |
+| 39:28      | Well, you can find that forum at [talk.automators.fm](https://talk.automators.fm) and there are a bunch of very lovely Automators                     |
 | 39:35      | fans in there who have been doing all sorts of crazy and wonderful automation things.                                   |
 | 39:39      | So it's a good place to go and visit, regardless of whether or not this episode has everything                          |
 | 39:44      | in it that you need.                                                                                                    |

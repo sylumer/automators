@@ -48,7 +48,7 @@ The following apps were supported in quick actions.
 - [[Safari]]
 - [[Skype]]
 - The Hit List
-- Things
+- [[Things]]
 - Twitter
 
 # Notes

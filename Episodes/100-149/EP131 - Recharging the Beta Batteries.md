@@ -484,7 +484,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 29:40      | I have a feeling that the real reason for that is underneath notes and [[Apple Reminders\|Reminders]] got                    |
 | 29:45      | a rewrite on macOS, and they are now the same app, where [[Safari]] is still two separate animals           |
 | 29:51      | on iOS and macOS, making that sort of thing much more complicated.                                      |
-| 29:56      | And if you remember back a few years, the Things app would have things for iPhone actions               |
+| 29:56      | And if you remember back a few years, the [[Things]] app would have things for iPhone actions               |
 | 30:01      | and things for iPad actions and things for Mac actions.                                                 |
 | 30:04      | And if you wanted to have the same shortcut work on your iPhone and your iPad, a lot of                 |
 | 30:09      | people worked around that by just installing things for iPhone on their iPad as well so                 |

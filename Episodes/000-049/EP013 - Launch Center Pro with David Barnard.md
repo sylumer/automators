@@ -262,7 +262,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 10:24      | because most of the apps that are of interest                        |
 | 10:29      | to be automated have been pestered enough by us                      |
 | 10:33      | and users over the years to actually add [[URL Schemes]].                |
-| 10:36      | So, things like OmniFocus and Things and Clear                       |
+| 10:36      | So, things like [[OmniFocus]] and [[Things]] and [[Clear]]                       |
 | 10:41      | and all the to-do lists and those sorts of apps.                     |
 | 10:44      | It's kind of all the apps that fit into this space                   |
 | 10:49      | that folks who are into automation                                   |

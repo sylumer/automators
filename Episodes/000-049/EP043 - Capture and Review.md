@@ -282,15 +282,15 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 18:02      | and then out, you know, just do one at a time, but you'll be surprised how quickly these                |
 | 18:06      | things go.                                                                                              |
 | 18:07      | Yes. And something else that we should mention, you know, we're talking about OmniFocus here,           |
-| 18:12      | but in things, which is also another popular task management system has really good URL                 |
-| 18:19      | scheme support. And you might be going, aren't [[URL Schemes]] kind of outdated? And to some extent,        |
-| 18:24      | yes, they are. But because you can use there, there's a [[URL Schemes\|URL scheme]] generator on the things              |
+| 18:12      | but in [[Things]], which is also another popular task management system has really good [[URL Schemes\|URL scheme]]                 |
+| 18:19      | support. And you might be going, aren't [[URL Schemes]] kind of outdated? And to some extent,        |
+| 18:24      | yes, they are. But because you can use there, there's a [[URL Schemes\|URL scheme]] generator on the [[Things]]              |
 | 18:29      | website. So you don't have to manually write everything by hand. So you can go in and tap               |
 | 18:34      | on the add project option, for example, and then you can give it a title and you can specify            |
 | 18:38      | notes and to-dos. And then you can copy that URL. And that's something else you could paste             |
-| 18:44      | that into shortcuts and replace certain words in the URL with variables. And there you go.              |
+| 18:44      | that into [[Shortcuts]] and replace certain words in the URL with variables. And there you go.              |
 | 18:49      | You've got a really nice template ready to go and you can fill it in with other information             |
-| 18:53      | as necessary. It's not quite as easy as the Taskpaper format, but it's definitely deserving            |
+| 18:53      | as necessary. It's not quite as easy as the [[Taskpaper]] format, but it's definitely deserving            |
 | 18:59      | of a mention.                                                                                           |
 | 19:00      | Yeah. And both of those apps have done a really good job of making it easier for users to               |
 | 19:04      | create template projects. You know, you get, you build them and then you always have the                |
