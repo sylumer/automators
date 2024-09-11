@@ -915,7 +915,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 59:50      | When I tell it to turn the lights on, they don't work, okay.                                           |
 | 59:52      | What do you have live, Philips, you, okay.                                                             |
 | 59:55      | Well, show me where it works, take me down to the kitchen.                                             |
-| 59:59      | There is an Amazon Echo device.                                                                        |
+| 59:59      | There is an [[Amazon Echo]] device.                                                                        |
 | 01:00:01   | They're talking to it, lights go on, lights go off, everything is fine.                                |
 | 01:00:05   | They go upstairs to the bedroom.                                                                       |
 | 01:00:07   | There is a Google Home device, and it's not working.                                                   |

@@ -338,7 +338,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 14:03      | I've never been a fan of the [[Amazon Echo]].                                                                                  |
 | 14:07      | It has all these skills that you can pick up with third party devices,                                                     |
 | 14:11      | but you have to remember the magical incantation that they've defined.                                                     |
-| 14:15      | And I've got a few things connected to an Amazon Echo,                                                                     |
+| 14:15      | And I've got a few things connected to an [[Amazon Echo]],                                                                     |
 | 14:19      | and I always forget what I'm supposed to say to get the information I want out of it.                                      |
 | 14:23      | I think the fact that with [[Shortcuts\|Siri Shortcuts]],                                                                                 |
 | 14:25      | you'll be able to define your own phrase will make it a lot easier for you to remember.                                    |

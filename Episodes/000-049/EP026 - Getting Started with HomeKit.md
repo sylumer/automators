@@ -905,7 +905,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:05:35   | into [[HomeKit]] as well. And my Neatobot back is connected. And my Sonos is also connected to [[HomeKit]].       |
 | 01:05:42   | I will say that for some reason, it's not hugely reliable. I'm pretty certain that I did something       |
 | 01:05:47   | wrong in the setup. And that is why because I've not heard this from other people, but it also           |
-| 01:05:51   | means that everything that's available in [[HomeKit]] is also available via my Amazon Echo Lady inside       |
+| 01:05:51   | means that everything that's available in [[HomeKit]] is also available via my [[Amazon Echo]] Lady inside       |
 | 01:05:57   | of the Sonos. So it works in two ways, which does make life a lot easier for me. Until I had that,       |
 | 01:06:03   | I was struggling a little bit with some things. Well, one challenge I'm facing right now is my           |
 | 01:06:07   | in my backyard, I have these string lights, you know, that lights up and they pull too much              |
