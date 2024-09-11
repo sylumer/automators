@@ -306,9 +306,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 27:40      | specifically? All right. So setups, you know, the idea of setting your screen up to do your edits       |
 | 27:45      | or whatever it is work project you want to do. You have done the first building block and that's        |
 | 27:51      | setting windows because I feel like for most people, that's the biggest part, like you sit down         |
-| 27:56      | at your computer and [[Safari]] is open to Amazon, but you need to make, you know, write the report,        |
+| 27:56      | at your computer and [[Safari]] is open to [[Amazon]], but you need to make, you know, write the report,        |
 | 28:02      | edit the podcast, whatever it is you do to pay for your shoes. What if you could hit a magical          |
-| 28:06      | button and Amazon went away and the editing software came up and the windows were just the              |
+| 28:06      | button and [[Amazon]] went away and the editing software came up and the windows were just the              |
 | 28:11      | way you like them. So you can feel like you're in the space to do the work.                             |
 | 28:17      | Keyboard maestro is fine for that. And but the thing is, it's additive as you build that,               |
 | 28:23      | now you've got it. So you can duplicate that and say, well, now what about when I want to do email      |
@@ -481,7 +481,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 44:03      | Okay, vitamins for the Americans. I'm sorry.                                                            |
 | 44:06      | Well, back when I was in university, actually, I was going to say the biggest struggle I have had       |
 | 44:15      | with NFC tags is finding some that don't break. I guess the best luck I've had is with the              |
-| 44:27      | SwitchBot stickers. Those are on Amazon. They're a bit more expensive than the stickers that you        |
+| 44:27      | SwitchBot stickers. Those are on [[Amazon]]. They're a bit more expensive than the stickers that you        |
 | 44:35      | can buy for $3. There's like 80 of these little stickers, but what I use, I guess they're almost        |
 | 44:47      | like cardstock a little bit. They used to be very colourful when I had each of my contexts               |
 | 45:01      | or focus modes. They are based around a certain colour. Let's just say my spouse thought they            |

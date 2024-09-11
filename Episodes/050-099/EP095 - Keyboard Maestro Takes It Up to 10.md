@@ -521,7 +521,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 29:56      | it was being retailed at and then Camel, Camel, Camel said, hey, this is dropped in                      |
 | 30:01      | price to the recommended retail price.                                                                   |
 | 30:04      | And that's the point when I went and bought it and it said it would come at the end of                   |
-| 30:08      | February and then I had an email from Amazon just yesterday actually to say that it should               |
+| 30:08      | February and then I had an email from [[Amazon]] just yesterday actually to say that it should               |
 | 30:12      | be coming earlier.                                                                                       |
 | 30:14      | Okay, well, you're ahead of me.                                                                          |
 | 30:17      | Yeah, well, I'm going to be seeing what [[Keyboard Maestro]] can do with this because, of course,            |
@@ -727,7 +727,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 44:34      | You can, and then of course the [[Stream Deck]] is a huge kind of [[Keyboard Maestro]] launching                 |
 | 44:41      | device for me as well.                                                                                   |
 | 44:42      | I was just looking, do they, do they only make the standard [[Stream Deck]] now that they                    |
-| 44:47      | used to have three sizes, but just looking on Amazon real quickly.                                       |
+| 44:47      | used to have three sizes, but just looking on [[Amazon]] real quickly.                                       |
 | 44:50      | I don't even see that they have the big one for sale anymore.                                            |
 | 44:54      | I did see them the other day when I was having a look and I was just having a look on their              |
 | 44:59      | website and they do seem to be focusing on their [[Stream Deck#Stream Deck MK 2\|Stream Deck MK 2]], which is the medium               |

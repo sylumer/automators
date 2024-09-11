@@ -710,7 +710,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 25:37      | So she downloads all of her receipts as PDF forms                                                                       |
 | 25:40      | into a specific folder.                                                                                                 |
 | 25:41      | I have one rule for every different kind of receipts,                                                                   |
-| 25:43      | Amazon receipts and different online stores,                                                                            |
+| 25:43      | [[Amazon]] receipts and different online stores,                                                                            |
 | 25:46      | train station or train company receipts, all of that.                                                                   |
 | 25:50      | And automatically when she runs a script once,                                                                          |
 | 25:53      | just dumps everything into a seat.                                                                                      |

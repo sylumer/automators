@@ -585,10 +585,10 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 46:59      | target your search? Like, you want to search in Google Maps or Apple Maps, or you want to translate.     |
 | 47:05      | Like, if I just type TRA, then it opens up the ability to translate. One that I do all the time          |
 | 47:13      | is Drive. It's Google Drive. It searches my Google Drive for automators outline, you know.               |
-| 47:19      | IMDB, eBay, another one that I use sadly too much is Amazon. Like, you type Amazon, and it searches      |
-| 47:28      | the Amazon store for whatever it is you want. So rather than going to Amazon and trying to do the        |
+| 47:19      | IMDB, eBay, another one that I use sadly too much is [[Amazon]]. Like, you type [[Amazon]], and it searches      |
+| 47:28      | the [[Amazon]] store for whatever it is you want. So rather than going to [[Amazon]] and trying to do the        |
 | 47:33      | search in their app, you just type AMA, in my case, return, then whatever product you're looking at,     |
-| 47:38      | and it opens up Amazon. Now, in order to make that Amazon one work, one of the things you need to do     |
+| 47:38      | and it opens up [[Amazon]]. Now, in order to make that [[Amazon]] one work, one of the things you need to do     |
 | 47:42      | is when you set up [[Alfred]] the first time under the General tab is you need to indicate your country,     |
 | 47:47      | so it searches the right store. But, you know, you want to do that. But I just, I mean, all of these,    |
 | 47:54      | another one I use all the time is YouTube. Like, I want to go into YouTube and learn about Greek         |
@@ -604,15 +604,15 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 48:48      | Yeah, yeah. So I use the built-in ones, and I've got a couple of custom ones as well.                    |
 | 48:53      | And I definitely second David's tip. Under general, make sure your country is set correctly.             |
 | 48:57      | After I moved from Austria, I had to go and change that because it was searching                         |
-| 49:01      | Amazon Germany for me. Because I actually, so a little tip, if you don't have a local Amazon,            |
+| 49:01      | [[Amazon]] Germany for me. Because I actually, so a little tip, if you don't have a local [[Amazon]],            |
 | 49:07      | so for example, you live in Portugal or the Netherlands or Austria, you won't have a local               |
-| 49:12      | Amazon. There is no Amazon Netherlands, Amazon Portugal, Amazon Austria. You use, you know,              |
+| 49:12      | [[Amazon]]. There is no [[Amazon]] Netherlands, [[Amazon]] Portugal, [[Amazon]] Austria. You use, you know,              |
 | 49:17      | your adjacent country. So for Austrian Netherlands, it's probably Germany. And for Portugal, it's Spain, |
-| 49:23      | there's plenty of other countries in the world that have to use another country's Amazon as well.        |
+| 49:23      | there's plenty of other countries in the world that have to use another country's [[Amazon]] as well.        |
 | 49:27      | And so you can, you can customise that. So I changed mine back to the UK, and voila,                     |
-| 49:33      | I'm now searching UK Amazon and UK eBay and UK Google versus, you know, amazon.com, which                |
+| 49:33      | I'm now searching UK [[Amazon]] and UK eBay and UK Google versus, you know, amazon.com, which                |
 | 49:41      | great, but I get murdered on shipping charges and Prime does not deliver next day if I do that.          |
-| 49:46      | So I'm not going to be doing things like that. My Yale lock came from Amazon UK,                         |
+| 49:46      | So I'm not going to be doing things like that. My Yale lock came from [[Amazon]] UK,                         |
 | 49:50      | thanks to one of their actually very good deals. But yeah, it's well worth doing it.                     |
 | 49:56      | Because the other thing is, say I search for something, I don't know, sleep monitor.                     |
 | 50:01      | One of the things that [[Alfred]] will do for you, if you just search for something and it can't find it     |
@@ -620,8 +620,8 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 50:11      | spotlight does, spotlight or the bottom has options to search the web and search in finder.              |
 | 50:17      | Thanks, spotlight. But if you can't find it in finder, we'll find or find it in finder.                  |
 | 50:22      | If you type something and [[Alfred]] can't find it on your computer, it has built-in options to search       |
-| 50:27      | Google, Amazon, and Wikipedia. So if I type sleep monitor in, which is something I don't have much       |
-| 50:33      | of written about on my Mac, then it gives me the options to search Google, search Amazon,                |
+| 50:27      | Google, [[Amazon]], and Wikipedia. So if I type sleep monitor in, which is something I don't have much       |
+| 50:33      | of written about on my Mac, then it gives me the options to search Google, search [[Amazon]],                |
 | 50:38      | and search Wikipedia for those three options for that phrase or query, rather. And that's great          |
 | 50:47      | because it means if you type something and you thought, oh, man, I thought I bookmarked that             |
 | 50:51      | because guess what, [[Alfred]] can search your bookmarks too. We might have to talk about that in a          |
@@ -769,10 +769,10 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:04:01   | altimeters and the guest who's going to be on because she's fabulous and amazing,                        |
 | 01:04:05   | or something like that. And you know, it ends up being a lot more than I want when I get                 |
 | 01:04:12   | their first thing in the morning. And I just want to quickly do this one. Oh, no, no, okay,              |
-| 01:04:17   | I've got 80,000 things open from yesterday. And I get sucked into this Amazon tab that I had open        |
+| 01:04:17   | I've got 80,000 things open from yesterday. And I get sucked into this [[Amazon]] tab that I had open        |
 | 01:04:22   | looking at battery packs, because I never have enough battery packs. I have a max safe one now,          |
 | 01:04:26   | David. I don't know how that happened. Oh, Rose, just wait till you have kids. I mean,                   |
-| 01:04:30   | honestly, I think I just need to tell Amazon to send me a new battery every two months because           |
+| 01:04:30   | honestly, I think I just need to tell [[Amazon]] to send me a new battery every two months because           |
 | 01:04:37   | they just disappear. Yeah, I keep my battery in my little workbench in my studio and everybody           |
 | 01:04:43   | knows where it is. And every time I go, it's gone. I swear my parents are the same. Like every time      |
 | 01:04:51   | I go over there, I end up giving them a battery pack. My mom really wanted my max safe battery           |
@@ -790,11 +790,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:05:55   | you want. Nice. Does it charge your watch too? No, because it's only, so Apple watches are a bit         |
 | 01:06:03   | finicky to charge. So it doesn't charge that as well, unfortunately. But so, oh wait, it depends         |
 | 01:06:11   | on which one you're looking at. I will make sure that the link to the correct one is in the show         |
-| 01:06:14   | notes for everybody. It doesn't show up immediately when I search for it on Amazon. And I, of course,    |
-| 01:06:21   | bought it from Amazon UK versus Amazon.com. $39.99. It is the 5,000 milliamp hour one,                   |
+| 01:06:14   | notes for everybody. It doesn't show up immediately when I search for it on [[Amazon]]. And I, of course,    |
+| 01:06:21   | bought it from [[Amazon]] UK versus Amazon.com. $39.99. It is the 5,000 milliamp hour one,                   |
 | 01:06:27   | and the link is officially in the show notes. Thank you to [[Alfred]] for helping me create that link.       |
 | 01:06:35   | Well, I do think it's cool that you access this stuff so quickly. In fact, almost some days,             |
-| 01:06:40   | I feel like the Amazon one should be turned off. I want to have a little side rabbit hole there,         |
+| 01:06:40   | I feel like the [[Amazon]] one should be turned off. I want to have a little side rabbit hole there,         |
 | 01:06:44   | gang. But on system settings, one thing you can do is you can actually, in the settings for [[Alfred]],      |
 | 01:06:50   | once again, command space, command comma, if you go under feature, system is towards the bottom.         |
 | 01:06:54   | You can individually require confirmation for a lot of the commands, like restart or shutdown            |

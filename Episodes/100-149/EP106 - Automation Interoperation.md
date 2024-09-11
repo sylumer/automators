@@ -1458,7 +1458,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 52:08      | and then when you add that automation element                     |
 | 52:10      | to it you just can't beat it.                                     |
 | 52:12      | Of course they're compatible with Apple Home Kit                  |
-| 52:14      | but they also work with Amazon Alexa                              |
+| 52:14      | but they also work with [[Amazon]] Alexa                              |
 | 52:16      | Google Assistant, IFTTT                                           |
 | 52:18      | and more. I know that                                             |
 | 52:20      | listeners of this show would really love to be able               |

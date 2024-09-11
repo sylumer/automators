@@ -1643,7 +1643,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:11:17   | like I have little scripts to put in links                        |
 | 01:11:25   | to things that like, with a referral code in them,                |
 | 01:11:29   | like, you know, paste a link into this blog post                  |
-| 01:11:32   | with a referral code from Amazon or whatever.                     |
+| 01:11:32   | with a referral code from [[Amazon]] or whatever.                     |
 | 01:11:36   | And those are the kinds of things that, again,                    |
 | 01:11:38   | it's easy for me to add as I use the app                          |
 | 01:11:42   | and just get annoyed by things.                                   |

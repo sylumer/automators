@@ -1401,11 +1401,11 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:02:08   | A lot of people don't realise Launch Center Pro                      |
 | 01:02:10   | has a barcode scanner in it.                                         |
 | 01:02:12   | So I have an action to scan a barcode                                |
-| 01:02:15   | and launch a search in Amazon.                                       |
+| 01:02:15   | and launch a search in [[Amazon]].                                       |
 | 01:02:17   | So if I'm out shopping and want to do a quick price check            |
 | 01:02:21   | or even just want to add something to a wish list                    |
 | 01:02:23   | that somebody else had or whatever,                                  |
-| 01:02:26   | barcode scan to Amazon.                                              |
+| 01:02:26   | barcode scan to [[Amazon]].                                              |
 | 01:02:29   | I do a lot of searching on the App Store                             |
 | 01:02:31   | to kind of keep tabs on different categories                         |
 | 01:02:34   | and that kind of stuff.                                              |

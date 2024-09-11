@@ -975,11 +975,11 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:03:09   | There are a few cases where it will just mark it as read and leave it in my inbox, but most              |
 | 01:03:13   | of the time it's archived and so it's gone, um, which, uh, is great because the more emails              |
 | 01:03:19   | that can be automatically handled for me, the better.                                                    |
-| 01:03:22   | Um, and a lot of these things are stuff, um, like, for example, um, Amazon returns, whenever             |
-| 01:03:28   | I'm returning something to Amazon, um, I would like a mini OmniFocus project created                      |
+| 01:03:22   | Um, and a lot of these things are stuff, um, like, for example, um, [[Amazon]] returns, whenever             |
+| 01:03:28   | I'm returning something to [[Amazon]], um, I would like a mini OmniFocus project created                      |
 | 01:03:33   | for that.                                                                                                |
 | 01:03:34   | Thank you very much.                                                                                     |
-| 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your Amazon                  |
+| 01:03:35   | Um, and so what I do is I, I have, um, it look, um, for anything, uh, about your [[Amazon]]                  |
 | 01:03:42   | return.                                                                                                  |
 | 01:03:43   | And then this one is actually an [[Make\|Integromat]].                                                            |
 | 01:03:45   | It branches out.                                                                                         |
@@ -1393,7 +1393,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:29:58   | think I know about it.                                                                                   |
 | 01:29:59   | So I'm taking them, but I'm only taking them at a level that I feel like she won't realise               |
 | 01:30:06   | that, you know, it's disappearing a little faster than she thought.                                      |
-| 01:30:10   | Okay, David, can I just say right now for the sake of your marriage, Amazon subscribe                    |
+| 01:30:10   | Okay, David, can I just say right now for the sake of your marriage, [[Amazon]] subscribe                    |
 | 01:30:14   | and save.                                                                                                |
 | 01:30:15   | Yeah.                                                                                                    |
 | 01:30:16   | I guess.                                                                                                 |

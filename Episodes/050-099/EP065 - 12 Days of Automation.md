@@ -139,18 +139,18 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 04:05      | light the trees up automatically?                                                                        |
 | 04:07      | Uh-huh.                                                                                                  |
 | 04:08      | And so we've done this a couple different ways in the Sparks House over the years.                       |
-| 04:14      | I had some old Wemo plugs that just stopped working this year, so instead I went on Amazon.             |
-| 04:23      | I found some plugs on Amazon that were just $15 for a plug, and if you bought two of them,               |
+| 04:14      | I had some old Wemo plugs that just stopped working this year, so instead I went on [[Amazon]].             |
+| 04:23      | I found some plugs on [[Amazon]] that were just $15 for a plug, and if you bought two of them,               |
 | 04:30      | at least I think it might have been a sale, but it was like two of them was like 22 or                   |
 | 04:33      | something.                                                                                               |
 | 04:34      | It wasn't that expensive to buy.                                                                         |
 | 04:36      | We actually have two Christmas trees in our house because that's how we do it, I guess.                  |
 | 04:41      | One is like the real tree and one is a tiny one, but I wanted them both to be able to                    |
 | 04:46      | turn on automatically.                                                                                   |
-| 04:47      | So I found these plugs on Amazon.                                                                        |
+| 04:47      | So I found these plugs on [[Amazon]].                                                                        |
 | 04:50      | It was a third-party vendor that I'd never heard of before, but they were so cheap, and                  |
-| 04:56      | I know with Amazon it's easy enough to send them back if they don't work.                                |
-| 04:59      | So I went ahead and took a shot on them, and I'm quickly scrolling through my Amazon                     |
+| 04:56      | I know with [[Amazon]] it's easy enough to send them back if they don't work.                                |
+| 04:59      | So I went ahead and took a shot on them, and I'm quickly scrolling through my [[Amazon]]                     |
 | 05:05      | history right now to try and find these damn things.                                                     |
 | 05:08      | Oh, there we go.                                                                                         |
 | 05:09      | Me, Ross, M-E-R-O-S-S.                                                                                   |
@@ -965,7 +965,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 48:53      | If you want to, you don't need something with a super great speaker, but you know, you want              |
 | 48:57      | to spend a hundred bucks.                                                                                |
 | 48:58      | I mean, all these people are like putting themselves in knots over, do I get the, you                    |
-| 49:03      | know, do I get the one from Amazon?                                                                      |
+| 49:03      | know, do I get the one from [[Amazon]]?                                                                      |
 | 49:04      | Do I get the one from Apple?                                                                             |
 | 49:05      | It just depends on what ecosystem you're in.                                                             |
 | 49:07      | That's all.                                                                                              |
@@ -991,7 +991,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 50:07      | And so speaking of purchasing items for people and things like that, I have been working                 |
 | 50:14      | this year on automatically handling my email specifically in response to things that I've                |
 | 50:20      | ordered, things that have been dispatched and things that have been delivered.                           |
-| 50:24      | Now I know that Amazon sends me a lot of email on this.                                                  |
+| 50:24      | Now I know that [[Amazon]] sends me a lot of email on this.                                                  |
 | 50:27      | And of course I can just filter this out at the server level, but especially when it comes               |
 | 50:31      | to dispatch and delivery emails, I don't want them gone immediately.                                     |
 | 50:35      | I want them gone about 24 hours after they appear in my mailbox.                                         |
@@ -1323,11 +1323,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:09:06   | of all, the motors are huge.                                                                             |
 | 01:09:07   | Secondly, they're really loud.                                                                           |
 | 01:09:08   | Thirdly, they don't work very well.                                                                      |
-| 01:09:10   | So guess what I'm returning to Amazon because I was just very disappointed.                              |
+| 01:09:10   | So guess what I'm returning to [[Amazon]] because I was just very disappointed.                              |
 | 01:09:15   | So if I want smart blinds in my living room, I'm going to have to come up with something                 |
 | 01:09:17   | else.                                                                                                    |
 | 01:09:18   | And I should probably try some fee or, or whatever the, the, the brand is, um, that, that makes          |
-| 01:09:24   | those, um, the, the good ones, cause these were just Tuya ones that I found on Amazon.                   |
+| 01:09:24   | those, um, the, the good ones, cause these were just Tuya ones that I found on [[Amazon]].                   |
 | 01:09:30   | They were on sale.                                                                                       |
 | 01:09:31   | So I decided to, to jump in and give it a go for, for the sake of the show.                              |
 | 01:09:35   | And, uh, I was horrendously disappointed.                                                                |
@@ -1365,7 +1365,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:11:32   | Yeah.                                                                                                    |
 | 01:11:33   | No, at no point do I get stuck in opening the browser and saying, Oh, there's something                  |
 | 01:11:37   | shiny.                                                                                                   |
-| 01:11:38   | Oh, look, there's something on cell at Amazon.                                                           |
+| 01:11:38   | Oh, look, there's something on cell at [[Amazon]].                                                           |
 | 01:11:40   | That Rose told me about that.                                                                            |
 | 01:11:41   | Now I need to buy.                                                                                       |
 | 01:11:42   | I just go straight from the idea to doing the work.                                                      |

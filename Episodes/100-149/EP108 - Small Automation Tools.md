@@ -1719,7 +1719,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:12:49   | shades automatically adjust for you for the perfect time of         |
 | 01:12:52   | day. That's what you can do with Hunter Douglas.                    |
 | 01:12:55   | Hunter Douglas shades are compatible with all your                  |
-| 01:12:57   | favourite home automation systems, Amazon Alexa, Apple Home          |
+| 01:12:57   | favourite home automation systems, [[Amazon]] Alexa, Apple Home          |
 | 01:13:01   | Kit, Google Assistant, IFTTT and more.                              |
 | 01:13:04   | I know that listeners of the show would really love to be           |
 | 01:13:06   | able to automate this stuff themselves too, helping them            |

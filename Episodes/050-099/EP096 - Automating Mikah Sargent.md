@@ -336,7 +336,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 17:55      | takes a link and shortens it using bit.ly.                                                              |
 | 18:00      | But what's cool about this snippet is that if there's a link shortening service for that                |
 | 18:10      | link that you're using, so apple.co or something, I can't remember what the short one is, but           |
-| 18:17      | apple has one, Amazon has one, a bunch of different ones have one, it will shorten it                   |
+| 18:17      | apple has one, [[Amazon]] has one, a bunch of different ones have one, it will shorten it                   |
 | 18:22      | to that URL, like to that services shortener instead of just doing the bit.ly link.                     |
 | 18:28      | So that is very handy being able to use.                                                                |
 | 18:32      | I would say my most used snippet though is not a very complicated one.                                  |
@@ -1012,7 +1012,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:10:47   | And so my aim is to try and make it invisible, but then give people, you know,                          |
 | 01:10:52   | a way to toggle things like a light or something if they need it.                                       |
 | 01:10:57   | So yeah, I've got, like, Philip's Hue covers or, like, I've got the four button switches and I bought   |
-| 01:11:02   | covers from Amazon just that go over my light switches. And so the Hue buttons are on that.             |
+| 01:11:02   | covers from [[Amazon]] just that go over my light switches. And so the Hue buttons are on that.             |
 | 01:11:07   | And I can take the Hue button off and take part of the cover off and actually control                   |
 | 01:11:10   | the physical switch if I need to, but I rarely need to do that. But people look at it and they          |
 | 01:11:15   | press the top button to turn the light on, they press the button button to turn the light off.          |

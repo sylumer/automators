@@ -240,7 +240,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 09:36      | People are much more open to talking about these things and being excited by possibilities           |
 | 09:41      | and going from there to actually creating things for others can also be great fun.                   |
 | 09:47      | After that one, I have a very simple one, but this is one that I absolutely rely on.                 |
-| 09:53      | I got on Amazon for, I think, all of about $15 or $20 a few years ago, a [[HomeKit]] enabled             |
+| 09:53      | I got on [[Amazon]] for, I think, all of about $15 or $20 a few years ago, a [[HomeKit]] enabled             |
 | 10:00      | plug.                                                                                                |
 | 10:02      | And so they've got a little QR code on it.                                                           |
 | 10:05      | You hold it up to your phone and it pairs with [[HomeKit]] nicely.                                       |
@@ -354,7 +354,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 17:04      | Yeah.                                                                                                |
 | 17:05      | And this is new since the last time we covered this, these smart power strips, for lack of           |
 | 17:12      | a better term.                                                                                       |
-| 17:13      | And I'm just looking at Amazon now and there's a whole bunch of them.                                |
+| 17:13      | And I'm just looking at [[Amazon]] now and there's a whole bunch of them.                                |
 | 17:17      | I know you've been pretty happy with the Meross stuff.                                                |
 | 17:20      | The little power plug I have for the outdoor light is one as well that I bought last year            |
 | 17:24      | on your recommendation.                                                                              |
@@ -635,10 +635,10 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 35:10      | 250 lights are £99 here in the UK from Argus, where they are currently on sale.                      |
 | 35:17      | If you look on the Twinkly website, then they list all the partners for the different kinds          |
 | 35:24      | of things in different countries.                                                                    |
-| 35:27      | So in the US, you can get them apparently on Amazon, and I am just looking right now                 |
+| 35:27      | So in the US, you can get them apparently on [[Amazon]], and I am just looking right now                 |
 | 35:33      | to see.                                                                                              |
 | 35:34      | Yeah.                                                                                                |
-| 35:35      | So on Amazon, you can get a 400 light pack, which is 19 linear feet of lights for $160               |
+| 35:35      | So on [[Amazon]], you can get a 400 light pack, which is 19 linear feet of lights for $160               |
 | 35:45      | as we record.                                                                                        |
 | 35:46      | I don't know if that's a sale or not, and then you can get a two-pack for $320, and                  |
 | 35:54      | I haven't bought these, and I probably won't, to be honest, but it's such a game changer             |
@@ -660,7 +660,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 36:50      | There are the sort of things that you would see at events or permanent outdoor areas that            |
 | 36:55      | maybe you go to a restaurant or a cafe that has that sort of thing hung up outside, and              |
 | 37:01      | you can control those as well, which is quite nice.                                                  |
-| 37:05      | I think those are currently sold out on Amazon in the US, but I've seen them in a couple             |
+| 37:05      | I think those are currently sold out on [[Amazon]] in the US, but I've seen them in a couple             |
 | 37:10      | of places, and they're really nice.                                                                  |
 | 37:12      | If you want to go crazy with this stuff, then have a look at the sales for this or maybe             |
 | 37:18      | wait until January for those, but I've certainly got a lot of enjoyment out of my twinkly lights.    |
@@ -1048,8 +1048,8 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 59:56      | No, no, I did look at trying to hook something up.                                                   |
 | 59:59      | I do use Parcel to track all of my incoming deliveries.                                              |
 | 01:00:03   | I previously used a great app called Deliveries.                                                     |
-| 01:00:06   | I end up switching to Parcel because they have native Amazon integration, which is brilliant         |
-| 01:00:11   | when you buy quite a few things from Amazon and they explicitly say set up mail rules                |
+| 01:00:06   | I end up switching to Parcel because they have native [[Amazon]] integration, which is brilliant         |
+| 01:00:11   | when you buy quite a few things from [[Amazon]] and they explicitly say set up mail rules                |
 | 01:00:16   | to send us the delivery emails or batch emails and things like that, which is really good.           |
 | 01:00:25   | So I use Parcel for that, but they don't have an API to get data out.                                |
 | 01:00:29   | I consider building something where when I forward an email to Parcel, I also forward                |
@@ -1328,7 +1328,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:15:50   | So I'll be giving them the ability to determine this with very, very tiny sensors, which is          |
 | 01:15:57   | hopefully something that will benefit them.                                                          |
 | 01:15:59   | Yeah, that's nice.                                                                                   |
-| 01:16:00   | And the E1 hub is just 30 bucks on Amazon in the United States.                                      |
+| 01:16:00   | And the E1 hub is just 30 bucks on [[Amazon]] in the United States.                                      |
 | 01:16:04   | It's a very easy way, like low barrier of entry.                                                     |
 | 01:16:08   | Yes.                                                                                                 |
 | 01:16:09   | The only thing I'll say is when they first released the E1 hub, it was only available                |

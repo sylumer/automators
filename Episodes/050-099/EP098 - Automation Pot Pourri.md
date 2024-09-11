@@ -1555,10 +1555,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:02:08   | So I can just, you know, sit here and press a button                  |
 | 01:02:12   | and it's gone and it's inserted the timestamp.                        |
 | 01:02:15   | And that's it.                                                        |
-| 01:02:16   | I mean, hypothetically, if I push a button on Amazon,                 |
+| 01:02:16   | I mean, hypothetically, if I push a button on [[Amazon]],                 |
 | 01:02:18   | I could have a second one tomorrow, I'm just saying.                  |
 | 01:02:21   | I mean, it's a very hypothetical theory,                              |
-| 01:02:24   | but I'm sure Amazon would be capable                                  |
+| 01:02:24   | but I'm sure [[Amazon]] would be capable                                  |
 | 01:02:26   | of delivering another one tomorrow for you, David.                    |
 | 01:02:29   | Who do you think as listeners,                                        |
 | 01:02:31   | we can, if you want to say in the form,                               |

@@ -1073,13 +1073,13 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:00:04   | And have a look and see how can I do something with this.                                               |
 | 01:00:07   | And so I've got, I think, I mean, there's only really probably one of the extensions                    |
 | 01:00:12   | that I put on my GitHub page that will probably be of interest to people.                               |
-| 01:00:16   | And that is the Amazon Smile link, because I frequently end up copying links from Amazon                |
+| 01:00:16   | And that is the [[Amazon]] Smile link, because I frequently end up copying links from [[Amazon]]                |
 | 01:00:22   | to people.                                                                                              |
-| 01:00:23   | But if I'm sharing links with my friends, I don't want to be using Amazon affiliate links,              |
+| 01:00:23   | But if I'm sharing links with my friends, I don't want to be using [[Amazon]] affiliate links,              |
 | 01:00:26   | and I definitely don't want them being tracked by all of that, you know, referral rubbish               |
-| 01:00:30   | at the end of an Amazon URL.                                                                            |
-| 01:00:33   | So I have an Amazon Smile PopClip extension, where you can select an Amazon URL, you click              |
-| 01:00:40   | on this little Amazon Smile icon that appears in PopClip, and it will just replace the "www." with "smile".   |
+| 01:00:30   | at the end of an [[Amazon]] URL.                                                                            |
+| 01:00:33   | So I have an [[Amazon]] Smile PopClip extension, where you can select an [[Amazon]] URL, you click              |
+| 01:00:40   | on this little [[Amazon]] Smile icon that appears in PopClip, and it will just replace the "www." with "smile".   |
 | 01:00:49   | And then it also just gets rid of all that tracking gunk at the end.                                    |
 | 01:00:52   | So you end up with a relatively short URL that works, and it donates money to charity,                  |
 | 01:00:56   | which, you know, always feels like a great thing.                                                       |
@@ -1256,7 +1256,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:10:37   | release date.                                                                                           |
 | 01:10:38   | You know, I really like those woven bands.                                                              |
 | 01:10:40   | That's never really come up on any podcast, but I've never bought an Apple one.                         |
-| 01:10:45   | I get them off Amazon and they're like $10 for one on Amazon that I don't know if they're               |
+| 01:10:45   | I get them off [[Amazon]] and they're like $10 for one on [[Amazon]] that I don't know if they're               |
 | 01:10:51   | as good, but they seem like they're pretty good and there's a lot of colours available.                  |
 | 01:10:57   | But I really like just, you know, slipping it over my hand and not having a buckle scratch              |
 | 01:11:02   | my MacBook and it's those bands I think don't get enough credit.                                        |

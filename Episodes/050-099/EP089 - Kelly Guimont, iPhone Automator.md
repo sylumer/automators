@@ -628,7 +628,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 47:18      | the triple problem with HomePod minis. A little bit. Yeah. So like, you know, there'd just be            |
 | 47:25      | one sitting on the counter, you know, that was just sort of a hint to me, like go find a place           |
 | 47:31      | that this needs to be set up. So we now have, so we have them in all the places that the                 |
-| 47:39      | Amazon devices were. And so now I've sort of been working everything into working properly               |
+| 47:39      | [[Amazon]] devices were. And so now I've sort of been working everything into working properly               |
 | 47:47      | with [[HomeKit]] so that it was worth it to actually start deploying those everywhere and make them          |
 | 47:53      | things that it was actually useful to be able to tell her to open the door or open the garage door       |
 | 48:01      | or close the garage door, turn on and off lights and set up some basic scenes for things like            |

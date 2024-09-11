@@ -508,7 +508,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 18:07      | then you will experience the pain                                  |
 | 18:09      | that is a folding keyboard.                                        |
 | 18:10      | Yeah.                                                              |
-| 18:11      | I have like a little folding keyboard I got off Amazon.            |
+| 18:11      | I have like a little folding keyboard I got off [[Amazon]].            |
 | 18:14      | I'll put a link in as well.                                        |
 | 18:16      | I think it was like $20 or $30.                                    |
 | 18:18      | And you charge it with micro USB,                                  |
@@ -524,7 +524,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 18:41      | Yes, and mine actually pairs with multiple devices,                |
 | 18:44      | which is great.                                                    |
 | 18:45      | I love that.                                                       |
-| 18:47      | And I can only find a four pack on Amazon right now,               |
+| 18:47      | And I can only find a four pack on [[Amazon]] right now,               |
 | 18:51      | but I actually use it with a little iPhone stand,                  |
 | 18:57      | which again, folds up to be practically nothing,                   |
 | 19:00      | which is great.                                                    |
@@ -596,7 +596,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 21:48      | I'm always a little sketched out                                   |
 | 21:50      | when I have to give my car details                                 |
 | 21:51      | to somewhere that I don't actually know online.                    |
-| 21:54      | Places like Amazon and so on,                                      |
+| 21:54      | Places like [[Amazon]] and so on,                                      |
 | 21:56      | they've got lots of security behind them                           |
 | 21:58      | that this little shop that I've never heard of before              |
 | 22:00      | but otherwise seems to have good reviews, maybe not.               |
@@ -1413,7 +1413,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 55:03      | I already have the Aqara.                                          |
 | 55:04      | I actually now have the M2 Hub, David,                             |
 | 55:06      | because they are available here in Europe from the Apple stores.   |
-| 55:09      | And they're properly available on Amazon.                          |
+| 55:09      | And they're properly available on [[Amazon]].                          |
 | 55:11      | So I picked up an M2 Hub, which is a European one.                 |
 | 55:14      | And I'm in the process of migrating all my accessories             |
 | 55:16      | from the M1S over.                                                 |
@@ -1446,7 +1446,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 56:26      | The Eve one is $80.                                                |
 | 56:29      | And the Aqara one is $18.                                          |
 | 56:31      | It's like, how do they get away with making this stuff?            |
-| 56:33      | And I'm guessing that's the Amazon price                           |
+| 56:33      | And I'm guessing that's the [[Amazon]] price                           |
 | 56:35      | because if you look on LA Express,                                 |
 | 56:37      | it's probably cheaper than that.                                   |
 | 56:39      | Though you'll have to wait 10 days for it to arrive                |

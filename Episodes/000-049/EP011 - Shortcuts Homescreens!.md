@@ -688,7 +688,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 37:13      | And then I've actually got a bigger shortcut just called play.                                       |
 | 37:17      | And that one launches a whole bunch of stuff.                                                        |
 | 37:19      | It gets me into the Apple store.                                                                     |
-| 37:21      | It gets me on Amazon.                                                                                |
+| 37:21      | It gets me on [[Amazon]].                                                                                |
 | 37:22      | It gets me on the HBO app opens the [[Apple TV App\|TV app]].                                                          |
 | 37:25      | But there's also a button there called saxophone, which exposes that second level of those saxophone |
 | 37:30      | apps.                                                                                                |

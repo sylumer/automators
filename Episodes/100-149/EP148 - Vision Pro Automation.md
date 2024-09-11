@@ -202,10 +202,10 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 09:03      | track pad.                                                                                            |
 | 09:04      | Right.                                                                                                |
 | 09:05      | And for productivity work, I'll say I think that's a necessary accessory.                             |
-| 09:11      | I bought off Amazon, a little plastic tray that you can connect a Apple Bluetooth keyboard            |
+| 09:11      | I bought off [[Amazon]], a little plastic tray that you can connect a Apple Bluetooth keyboard            |
 | 09:17      | and a track pad is as one unit, 12 South has a nicer one, but I haven't bought it.                    |
 | 09:24      | It's a little bit more expensive.                                                                     |
-| 09:25      | I thought I'd just use the Amazon one, at least to start.                                             |
+| 09:25      | I thought I'd just use the [[Amazon]] one, at least to start.                                             |
 | 09:28      | And I keep that in the drawer with my vision pro.                                                     |
 | 09:30      | So when I sit on my, my comfy chair and strap in, I've got a keyboard and track pad in my             |
 | 09:34      | lap and I found using shortcuts so long as I have a keyboard and track pad is quite pleasant.         |

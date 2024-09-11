@@ -840,7 +840,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 49:47      | going to have to wait and see what happens there.                                                             |
 | 49:50      | But I think things are definitely improving a lot.                                                            |
 | 49:52      | And the fact that [[Matter]] is a standard where everybody is working together, Apple and Google                  |
-| 49:57      | and Amazon and everybody else is, it's going to be a good step forward in getting more                        |
+| 49:57      | and [[Amazon]] and everybody else is, it's going to be a good step forward in getting more                        |
 | 50:04      | hardware that actually works in a standardised way.                                                           |
 | 50:08      | Yeah.                                                                                                         |
 | 50:09      | Well, I think it's really interesting and I'm sure, I know you've covered it on the                           |

@@ -470,7 +470,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 39:40      | walk into rooms?                                                                                       |
 | 39:41      | I mean, even in Star Trek, they said computer lights.                                                  |
 | 39:45      | I know.                                                                                                |
-| 39:46      | So, you know, maybe we just need to all use Amazon's Echo system and change the trigger                |
+| 39:46      | So, you know, maybe we just need to all use [[Amazon Echo\|Amazon's Echo]] system and change the trigger                |
 | 39:53      | word to computer.                                                                                      |
 | 39:54      | We're so close, though. You know, it is you're right. That's such an obvious problem. And              |
 | 39:58      | we're so close.                                                                                        |
@@ -496,7 +496,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 41:34      | Yes. I've solved this problem by putting a smart plug in my hallway, which is a power                  |
 | 41:40      | monitoring smart plug. So it tells me how much electricity my dehumidifier is using.                   |
 | 41:45      | And this happens to have a coloured ring around it. Now, this is not home kit compatible.               |
-| 41:50      | I picked it up from Aliexpress and then took it apart to make sure it wasn't going to burn             |
+| 41:50      | I picked it up from Ali Epress and then took it apart to make sure it wasn't going to burn             |
 | 41:54      | my house down before putting it back together. And I will put a link to it in the show notes,          |
 | 41:59      | folks, because I don't expect you all to take apart some random purchase from Aliexpress               |
 | 42:02      | and check whether or not it's going to burn your house down before putting it back together            |
@@ -570,7 +570,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 48:28      | is actually accurate. If you select red, you will get red. If you select orange, you will              |
 | 48:32      | get orange, which is not red and it's not yellow. It's actually orange. Green is green                 |
 | 48:37      | and so on and so forth. And this may sound very obvious to some people. But buy a very                 |
-| 48:43      | cheap smart and I'm using air quotes for that light from Amazon or wherever. And I can guarantee       |
+| 48:43      | cheap smart and I'm using air quotes for that light from [[Amazon]] or wherever. And I can guarantee       |
 | 48:51      | you that the colours will probably not be as bright as the hue stuff. Like there was                   |
 | 48:55      | an IKEA light that a friend was having an issue with a while ago where green just was                  |
 | 48:59      | kind of yellowy. It was an older IKEA light, not a new IKEA light. The newer ones are better,          |

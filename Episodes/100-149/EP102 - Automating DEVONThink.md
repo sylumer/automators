@@ -163,7 +163,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 04:33      | stream it from any service.                                       |
 | 04:35      | I'm sure there's multiple websites out there                      |
 | 04:36      | where I could just watch it, but I actually wanted it.            |
-| 04:39      | So buying DVDs from eBay and Amazon and I'm ripping them          |
+| 04:39      | So buying DVDs from eBay and [[Amazon]] and I'm ripping them          |
 | 04:42      | so that I can watch them on my TV myself is the solution.         |
 | 04:46      | And so I've got one technology for that.                          |
 | 04:47      | And I've got another one which is some documents and stuff        |

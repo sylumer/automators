@@ -412,10 +412,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 13:08      | One of the most profound uses of smart home technology for me                                                                                                            |
 | 13:16      | was when I got smart outdoor lights                                                                                                                                      |
 | 13:21      | and then was able to automate.                                                                                                                                           |
-| 13:24      | We use the Amazon A lady.                                                                                                                                                |
+| 13:24      | We use the [[Amazon]] A lady.                                                                                                                                                |
 | 13:26      | I don't know what you like to say here on that show about her                                                                                                            |
 | 13:28      | so that you don't trigger everybody's devices,                                                                                                                           |
-| 13:31      | but we use the Amazon A lady as our smart home                                                                                                                           |
+| 13:31      | but we use the [[Amazon]] A lady as our smart home                                                                                                                           |
 | 13:36      | sort of foundation, if you will,                                                                                                                                         |
 | 13:38      | but you could use, you know, [[HomeKit]] in Siri                                                                                                                            |
 | 13:40      | and Google one and all the others.                                                                                                                                       |
@@ -537,7 +537,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 18:22      | it.                                                                                                                                                                      |
 | 18:23      | So, so that's sort of the, but like I said, art, I don't really have                                                                                                     |
 | 18:28      | home kit doing automations for me simply because we had previously                                                                                                       |
-| 18:32      | standardised on the Amazon a lady and that that's been fine.                                                                                                             |
+| 18:32      | standardised on the [[Amazon]] a lady and that that's been fine.                                                                                                             |
 | 18:36      | I don't have any reason to switch.                                                                                                                                       |
 | 18:38      | You know, I'm despite being a nerd who lives, who's, who often lives by,                                                                                                 |
 | 18:44      | you know, if it ain't broke, fix it till it is with my home kit stuff.                                                                                                   |

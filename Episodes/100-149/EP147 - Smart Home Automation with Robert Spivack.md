@@ -314,7 +314,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 16:48      | What is the cost of you doing that work?                                                               |
 | 16:51      | Yes.                                                                                                   |
 | 16:52      | Now, apply that to the cost of the product.                                                            |
-| 16:55      | If you buy a $20 Amazon special no-name light switch or you buy a $60 or $80 Lutron or you             |
+| 16:55      | If you buy a $20 [[Amazon]] special no-name light switch or you buy a $60 or $80 Lutron or you             |
 | 17:03      | buy a $50 Eve plug instead of a $10 Meras or other one, if you spend three hours a month               |
 | 17:12      | resetting it and rebooting it and fiddling with it because it never works right, how                   |
 | 17:18      | have you really saved money?                                                                           |
@@ -482,13 +482,13 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 28:23      | away, if you want to shut the lights down, you want to check security, you want to be                  |
 | 28:28      | able to do that when you're not home.                                                                  |
 | 28:30      | So that immediately in [[HomeKit]] that the [[HomeKit]] hub or controller provides that and the [[HomeKit]]        |
-| 28:36      | hub is an Apple TV or a HomePod in systems like Google or Amazon, their apps do that                   |
+| 28:36      | hub is an Apple TV or a HomePod in systems like Google or [[Amazon]], their apps do that                   |
 | 28:44      | through their cloud, their apps do that through their cloud infrastructure and in more advanced        |
 | 28:50      | hobbyist and prosumer devices like [[Home Assistant]] or Hubitat, the hub itself either provides           |
 | 28:58      | it or has an add-on capability for remote access.                                                      |
 | 29:02      | So the first thing you want to do in looking at a bigger system is really choosing, if                 |
 | 29:07      | you want to be organised and not go crazy, choosing one main system to be the heart,                   |
-| 29:13      | whether it's [[HomeKit\\Apple HomeKit]] or Google or Amazon or [[Home Assistant]].                                      |
+| 29:13      | whether it's [[HomeKit\\Apple HomeKit]] or Google or [[Amazon]] or [[Home Assistant]].                                      |
 | 29:17      | My main system, that is a system you first connect everything to when you get a new product.           |
 | 29:24      | You may also connect it to others, but that's going to be your primary.                                |
 | 29:28      | That's where you want it to work reliably.                                                             |
@@ -501,12 +501,12 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 30:01      | So wherever possible, I recommend designating one primary system and only going to the other           |
 | 30:07      | systems when you have unmet needs or capabilities that you want done by them.                          |
 | 30:14      | I'll give an example.                                                                                  |
-| 30:17      | In my home, I use Amazon devices for voice control.                                                    |
+| 30:17      | In my home, I use [[Amazon]] devices for voice control.                                                    |
 | 30:21      | Historically, I started with them first before Apple and Siri had [[HomeKit]] and did much,                |
 | 30:28      | but even today, I don't rely on Siri and HomePods and voice.                                           |
-| 30:33      | I do rely on Apple as the controller, but I rely on Amazon for the voice.                              |
+| 30:33      | I do rely on Apple as the controller, but I rely on [[Amazon]] for the voice.                              |
 | 30:41      | So I've made my complexity a little simpler because I only have to worry about voice access            |
-| 30:47      | from the Amazon ecosystem.                                                                             |
+| 30:47      | from the [[Amazon]] ecosystem.                                                                             |
 | 30:49      | I don't care about using the app.                                                                      |
 | 30:51      | I don't care about using anything else they provide to control things.                                 |
 | 30:54      | I only care about, can I use my voice to turn things on or off in my home that way?                    |
@@ -516,7 +516,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 31:17      | I simply can't bring in, I do it that way.                                                             |
 | 31:21      | Yes, that makes a lot of sense to me because it really depends on what it is that ends                 |
 | 31:27      | up feeling natural.                                                                                    |
-| 31:29      | For some people, they started with Amazon's voice assistant, which I'm not going to say                |
+| 31:29      | For some people, they started with [[Amazon]]'s voice assistant, which I'm not going to say                |
 | 31:33      | the name of in case I trigger it for everybody.                                                        |
 | 31:37      | They started with that because that was one of the first things around, or maybe they had              |
 | 31:42      | some Google Homes or something.                                                                        |
@@ -549,7 +549,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 33:30      | Each ecosystem was isolated.                                                                           |
 | 33:35      | Over time, the manufacturer's brute force made their products work with more than one.                 |
 | 33:41      | So very often, you'd pick up a device and it said, works with [[HomeKit]], works with Google,              |
-| 33:46      | works with Amazon.                                                                                     |
+| 33:46      | works with [[Amazon]].                                                                                     |
 | 33:48      | But they had to go through three times the effort to do that.                                          |
 | 33:52      | And they didn't always work the same with each of these different systems.                             |
 | 33:56      | Now euphemistically, we call that, and it's not just home automations with everything.                 |
@@ -558,7 +558,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 34:09      | what you can do against your own will.                                                                 |
 | 34:13      | I was just going to say, I definitely agree.                                                           |
 | 34:14      | I've seen people purchase like a smart switch or something, and then they can get access               |
-| 34:20      | to the power usage and so on through the Amazon system or through the Google system or through         |
+| 34:20      | to the power usage and so on through the [[Amazon]] system or through the Google system or through         |
 | 34:29      | the app for the device, but they can't get access to that through [[HomeKit]] because it's                 |
 | 34:32      | just not available there.                                                                              |
 | 34:34      | And that's very frustrating for people who want to use this sort of thing with [[HomeKit]].                |
@@ -578,7 +578,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 35:35      | It's succeeding in providing a basic connectivity where a product will work with all of these          |
 | 35:43      | ecosystems at a basic level of functionality.                                                          |
 | 35:47      | So if you buy a new smart plug and it says it's [[Matter]] compatible, that's all you have                 |
-| 35:53      | to worry about, whether you're Google, Amazon, [[HomeKit]], [[Home Assistant]] or others, it will              |
+| 35:53      | to worry about, whether you're Google, [[Amazon]], [[HomeKit]], [[Home Assistant]] or others, it will              |
 | 35:59      | work at a reasonable level with all of them.                                                           |
 | 36:03      | And that's a major accomplishment because until now you had to really buy the product                  |
 | 36:08      | for the system you own.                                                                                |
@@ -619,7 +619,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 38:59      | a Philips smart plug would be able to, I don't think the Philips one does smart monitoring,            |
 | 39:03      | but if it did, then that's how it could expose that.                                                   |
 | 39:08      | And then they would be able to do that in the same way, which will hopefully make it                   |
-| 39:11      | easier for Apple with [[HomeKit]] and Amazon with their system and Google with the home                    |
+| 39:11      | easier for Apple with [[HomeKit]] and [[Amazon]] with their system and Google with the home                    |
 | 39:20      | system to actually read this data in instead of having to do a, well, here is a list of                |
 | 39:25      | 68 different thousands, different possible properties you could pass to us.                            |
 | 39:31      | Please be nice.                                                                                        |
@@ -687,7 +687,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 44:06      | And there are maybe a dozen or so really high quality companies and it's growing.                      |
 | 44:13      | But if you stick to those brands, you're going to have less trouble.                                   |
 | 44:16      | If you want to be the most frugal, then you can go to the second tier companies that are               |
-| 44:20      | now getting [[Matter]] or [[HomeKit]] certified and you can buy them on Amazon.                                |
+| 44:20      | now getting [[Matter]] or [[HomeKit]] certified and you can buy them on [[Amazon]].                                |
 | 44:25      | You can buy them in big box stores.                                                                    |
 | 44:28      | And again, it's relatively safe.                                                                       |
 | 44:30      | When you start going to Aliexpress and buying products directly from Asia with unknown brands,         |
@@ -723,7 +723,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 46:10      | So that's pretty safe.                                                                                 |
 | 46:11      | As an example on that, I have struggled over the years for outdoor smart plugs.                        |
 | 46:17      | I had at one point an outdoor fountain and then this year I had the outdoor Christmas                  |
-| 46:21      | lights and I have made the mistake of buying the cheap one on Amazon and they never work               |
+| 46:21      | lights and I have made the mistake of buying the cheap one on [[Amazon]] and they never work               |
 | 46:29      | or they work for like two weeks.                                                                       |
 | 46:31      | But I finally took your advice.                                                                        |
 | 46:33      | I bought an Eve outdoor plug and I think this is like the third year running.                          |
@@ -923,7 +923,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:00:13   | I said, well, did you configure the Google Home to talk to the Philips SmartBubs?                      |
 | 01:00:18   | And I got a blank stare, and then I showed them, and then I got a bigger stare.                        |
 | 01:00:22   | I said, well, now you're going to have to always replicate what you do in Google with                  |
-| 01:00:27   | what you do with Amazon.                                                                               |
+| 01:00:27   | what you do with [[Amazon]].                                                                               |
 | 01:00:29   | You've got to recreate the same routines, the same commands, et cetera, and they threw                 |
 | 01:00:33   | their hands up.                                                                                        |
 | 01:00:34   | I said, well, let's back up.                                                                           |
@@ -931,7 +931,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:00:38   | Oh, I got that Google thing free when I bought something at the store a few weeks ago.                 |
 | 01:00:44   | Okay.                                                                                                  |
 | 01:00:45   | Well, why don't we not use that?                                                                       |
-| 01:00:48   | Why don't we set everything up with Amazon or even Apple, whatever you like?                           |
+| 01:00:48   | Why don't we set everything up with [[Amazon]] or even Apple, whatever you like?                           |
 | 01:00:52   | Oh, no, I don't want to do that.                                                                       |
 | 01:00:54   | I got it.                                                                                              |
 | 01:00:55   | It's free.                                                                                             |
@@ -990,7 +990,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:04:40   | They're willing to not choose the equipment, choose the brands of lights, choose every                 |
 | 01:04:45   | little gadget because having it work and not worrying about it, it's not a hobby, it's                 |
 | 01:04:50   | not an application, it's just a tool that they want working.                                           |
-| 01:04:55   | I think [[HomeKit]] and even Google and Amazon to some extent are more of that just work                   |
+| 01:04:55   | I think [[HomeKit]] and even Google and [[Amazon]] to some extent are more of that just work                   |
 | 01:05:01   | type of system.                                                                                        |
 | 01:05:02   | The key to bring it all back around, are there really cool automations you want to do or               |
 | 01:05:09   | you have to do?                                                                                        |
@@ -1025,7 +1025,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:07:10   | No, it just works.                                                                                     |
 | 01:07:12   | Home automation is getting there, but it's not there today.                                            |
 | 01:07:16   | The less you do to make it less reliable, the less you mix systems, the less you try                   |
-| 01:07:22   | to use an Amazon device with [[HomeKit\|Apple HomeKit]] products, the less you can experiment, then                 |
+| 01:07:22   | to use an [[Amazon]] device with [[HomeKit\|Apple HomeKit]] products, the less you can experiment, then                 |
 | 01:07:29   | the more reliable you can make it.                                                                     |
 | 01:07:33   | I'm personally a huge fan of being able to look at what happened when you're setting                   |
 | 01:07:38   | things up and figuring out why that thing happened or didn't happen and so on, which                   |
@@ -1154,7 +1154,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:16:42   | Sooner or later, I found most Wi-Fi devices failed.                                                    |
 | 01:16:46   | Softly, they'll disconnect, they'll reconnect, they'll stop working, you'll need to unplug             |
 | 01:16:52   | them and plug them back in.                                                                            |
-| 01:16:54   | I mean, I've seen this with HomePods, I've seen this with Amazon devices, other devices                |
+| 01:16:54   | I mean, I've seen this with HomePods, I've seen this with [[Amazon]] devices, other devices                |
 | 01:17:00   | where they simply don't work unattended.                                                               |
 | 01:17:04   | You once in a while have to kick them or fiddle with them to make them work.                           |
 | 01:17:09   | And the more devices you have, you may have congestion on your Wi-Fi.                                  |
@@ -1394,7 +1394,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:35:43   | support ring, but with hundreds and thousands of devices supporting [[Matter]], it's simply                |
 | 01:35:49   | going to be a matter of time before these bigger systems will have to embrace [[Matter]]                   |
 | 01:35:56   | devices and at least accommodate them, which they do not do today at all, even with [[HomeKit]]            |
-| 01:36:02   | or Google or Amazon products, they're very difficult to connect into larger systems.                   |
+| 01:36:02   | or Google or [[Amazon]] products, they're very difficult to connect into larger systems.                   |
 | 01:36:09   | I hope that will change by the force of the consumer.                                                  |
 | 01:36:12   | Well, Robert, I appreciate you coming in today.                                                        |
 | 01:36:15   | It's always great having you on the show and catching up with automation in general and                |

@@ -113,9 +113,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 03:11      | work with everything and not have to deal with these battles. But at the same time,                      |
 | 03:15      | there are different platform makers that have different visions and ideas. And us as consumers,          |
 | 03:20      | we've been kind of victims of that. I mean, the latest one is the Nest cams, you know,                   |
-| 03:26      | which is something that people bought thinking that they would be useful with the Amazon.                |
-| 03:33      | It's Amazon, right? Everybody's using their Nest cams with Amazon, but then Google has                   |
-| 03:38      | now, who now owns Nest, is not making them as compatible with Amazon. And I know they're                 |
+| 03:26      | which is something that people bought thinking that they would be useful with the [[Amazon]].                |
+| 03:33      | It's [[Amazon]], right? Everybody's using their Nest cams with [[Amazon]], but then Google has                   |
+| 03:38      | now, who now owns Nest, is not making them as compatible with [[Amazon]]. And I know they're                 |
 | 03:44      | still kind of a battle rageing over that may be able to get better, but it's like, you                    |
 | 03:48      | know, we want to buy stuff. We just want it to work, right?                                              |
 | 03:51      | Exactly. And it's very frustrating when you're there trying to set these things up. Usually              |
@@ -255,7 +255,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 14:04      | this to the internet and they just don't go far enough with the security protections.                    |
 | 14:08      | Yeah. They don't realise that these are potentially an issue for them at all.                            |
 | 14:13      | And that's why we really rely on getting back to the beginning of the show, these platform               |
-| 14:19      | vendors. We need Google and Apple and Amazon and whoever else is Samsung to really look                  |
+| 14:19      | vendors. We need Google and Apple and [[Amazon]] and whoever else is Samsung to really look                  |
 | 14:26      | out for us and try and build security into the system, even with not necessarily secure                  |
 | 14:33      | devices connected to it. I don't have all the answers to it. I'm just smart enough to                    |
 | 14:37      | ask the question, what are they doing on that behalf? But like Apple for the longest time                |

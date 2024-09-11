@@ -739,7 +739,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 40:04      | Yeah.                                                                                                    |
 | 40:05      | I haven't actually used it, but yeah, that's a subscription option, but it's great to try                |
 | 40:10      | out if you're looking at the [[Stream Deck]] going, I don't know if I want it because the stream             |
-| 40:13      | deck hardware itself can be kind of pricey, but if you get it on sale on Amazon, it's                    |
+| 40:13      | deck hardware itself can be kind of pricey, but if you get it on sale on [[Amazon]], it's                    |
 | 40:18      | worth it for sure.                                                                                       |
 | 40:21      | And even if you don't, if you've got the right automations, it's great, but if you                       |
 | 40:24      | want to try it, then you can try the [[Stream Deck]] app on like an iPhone or an iPad and                    |

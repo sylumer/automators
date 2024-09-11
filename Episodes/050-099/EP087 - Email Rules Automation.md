@@ -216,7 +216,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 14:43      | example, the Automated Forum, send you email when somebody posts and you've not been around                |
 | 14:49      | in a while, which is something you can set up under your profile settings, then that                       |
 | 14:53      | would appear under forums. But something that is from David Sparks, your newsletter, would                 |
-| 15:00      | probably appear under updates. An email from Amazon telling you about today's treasure                     |
+| 15:00      | probably appear under updates. An email from [[Amazon]] telling you about today's treasure                     |
 | 15:05      | truck deal would land in promotions and updates from Twitter would land under social. And                  |
 | 15:10      | it will just take that stuff and automatically move it. Now, this does mean that it kind                   |
 | 15:15      | of splits up your inbox. You then don't just have an inbox, you've got five inboxes, but                   |
@@ -860,7 +860,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:11:20   | Yeah, exactly.                                                                                             |
 | 01:11:21   | So, I had to pick the folder. But you can specify only unread emails, only read emails,                    |
 | 01:11:29   | all emails, which means that [[Make\|Integromat]] actually can run on emails that you have read. So,                 |
-| 01:11:36   | for example, if you get Amazon dispatch notifications when you buy things from Amazon, and you like        |
+| 01:11:36   | for example, if you get [[Amazon]] dispatch notifications when you buy things from [[Amazon]], and you like        |
 | 01:11:40   | getting them, but you always forget to delete them from your inbox, you know, because something            |
 | 01:11:45   | happens, you know, as you're reading your email. Oh, yeah, I need to reply to, you know,                   |
 | 01:11:48   | this person whose message just came in.                                                                    |

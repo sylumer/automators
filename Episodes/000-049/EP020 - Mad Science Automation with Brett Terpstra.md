@@ -612,8 +612,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 30:33      | What are you working on these days?                                                                   |
 | 30:35      | As of very recently, most of my automation has been kind of along the lines of what we                |
 | 30:41      | were talking about with the HD access file.                                                           |
-| 30:43      | Like I just made it so that if I include a link to an affiliate Amazon product, it automatically      |
-| 30:51      | adds the disclaimer that Amazon requests to the bottom of my post.                                    |
+| 30:43      | Like I just made it so that if I include a link to an affiliate [[Amazon]] product, it automatically      |
+| 30:51      | adds the disclaimer that [[Amazon]] requests to the bottom of my post.                                    |
 | 30:58      | So I don't have to constantly be like, oh, I used an affiliate link.                                  |
 | 31:02      | I better add the disclaimer.                                                                          |
 | 31:04      | It just automates based on what I've already done, things that, you know, I'm going to                |
@@ -676,7 +676,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 33:59      | Let's open the app though.                                                                            |
 | 34:00      | I can tell you real quick, maybe not real quick.                                                      |
 | 34:04      | Yeah.                                                                                                 |
-| 34:05      | It's okay, I'm currently searching on Amazon to see if they have them in Amazon, in Germany.          |
+| 34:05      | It's okay, I'm currently searching on [[Amazon]] to see if they have them in [[Amazon]], in Germany.          |
 | 34:11      | So it can control Chromecast, Harmony Hub, IFTTT, IKEA, Trad Free Lights, Internet                    |
 | 34:21      | Request, IR Blaster, which is, Flick makes an IR Blaster too that you can use to turn                 |
 | 34:27      | a point, like your TV on and off.                                                                     |
@@ -960,7 +960,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 49:38      | Yeah.                                                                                                 |
 | 49:39      | I mean, so let's make it easier for listeners.                                                        |
 | 49:41      | You don't have to go set up a Raspberry Pi to do this.                                               |
-| 49:43      | You can go on Amazon and buy any really ten key, right?                                                 |
+| 49:43      | You can go on [[Amazon]] and buy any really ten key, right?                                                 |
 | 49:48      | Or you can even like, if you've got an extended keyboard, you could attach it to the number           |
 | 49:52      | pad keys.                                                                                             |
 | 49:53      | I mean, something people don't realise is [[BetterTouchTool]] that has, again, one of                   |

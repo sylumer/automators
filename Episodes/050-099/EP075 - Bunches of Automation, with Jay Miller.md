@@ -207,7 +207,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 14:22      | do you know what a hardware store is? You mean like a DIY store? There you go.                           |
 | 14:26      | Like Home Depot type thing? Yeah, exactly. Like we B&Q here or Wickes or Screwfix                        |
 | 14:30      | here, yes. All right, so go there and get yourself a can of glossy purple spray paint.            |
-| 14:38      | And then you just lay the mouse. I already Amazon did. It's arriving tomorrow.                           |
+| 14:38      | And then you just lay the mouse. I already [[Amazon]] did. It's arriving tomorrow.                           |
 | 14:42      | And then just lay the mouse down, go outside, and put some newspaper underneath it so you                |
 | 14:47      | don't mess up the ground. And then just spray it purple and you're good.                                 |
 | 14:51      | Yeah, there's purple spray paint arriving tomorrow. It wasn't for the mouse that I'm tempted.            |
@@ -532,7 +532,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 45:22      | you're doing this stuff repeatedly. I think those are some of the best automations.                      |
 | 45:27      | I recently did one that's very similar to this where it will copy the URL of the currently               |
 | 45:32      | open [[Safari]] window, open deliveries and start adding a new delivery. And I do this for when              |
-| 45:38      | I've ordered things from Amazon, so that I can easily grab that link and just paste it into              |
+| 45:38      | I've ordered things from [[Amazon]], so that I can easily grab that link and just paste it into              |
 | 45:43      | deliveries ready to add that so that I know things are coming. And I realise I don't use                 |
 | 45:49      | it all that often, but I do the same thing. I do command L command C, command space type DEL,            |
 | 45:56      | wait for it to appear, tap enter, command N, and then it delivers picks it up on my keyboard.            |

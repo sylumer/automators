@@ -1147,7 +1147,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:04:15   | I think part of the problem was all these big companies all wanted to own the                           |
 | 01:04:19   | widget at the beginning.                                                                                |
 | 01:04:20   | So it was kind of like a land grab of like, oh, you should just get Apple stuff.                        |
-| 01:04:25   | You should just get Google stuff or Amazon.                                                             |
+| 01:04:25   | You should just get Google stuff or [[Amazon]].                                                             |
 | 01:04:27   | And, and they realised that's just not going to work.                                                   |
 | 01:04:29   | I think they're begrudgingly, maybe all trying to get on this [[Matter]] standard.                          |
 | 01:04:33   | But, but hopefully it works.                                                                            |

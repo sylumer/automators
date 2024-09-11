@@ -383,7 +383,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 29:48      | on these other things for the moment, like the parcel app, for example. I do like to have a badge        |
 | 29:54      | on it, but I don't want a badge on it when I'm podcasting or when I'm working and so on, especially      |
 | 30:01      | podcasting, because then people are like, oh my gosh, why have you got so many things? It's like         |
-| 30:05      | shared Amazon account, well, not shared. I order stuff from my parents and grandparents all the          |
+| 30:05      | shared [[Amazon]] account, well, not shared. I order stuff from my parents and grandparents all the          |
 | 30:09      | time. So yeah, I have a lot of pending notifications in parcel all the time. But yeah, it's useful       |
 | 30:17      | to have that, but I don't want it all the time. And because of that, and being able to dim your          |
 | 30:23      | lock screen and so on. And quite frankly, even if you don't set anything up, you just allow              |

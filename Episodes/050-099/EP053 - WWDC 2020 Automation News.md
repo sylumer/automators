@@ -774,7 +774,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 48:27      | We also got improvements to [[HomeKit]] and yeah, I feel like that's a worthy topic for automators.                                                       |
 | 48:34      | Yeah.                                                                                                                                                     |
 | 48:35      | And I think I'm going to start at the bottom of our notes here in the outline, David and                                                                  |
-| 48:40      | say how amazed I was to see the words Amazon and Google on the screen during [[WWDC]] and that                                                            |
+| 48:40      | say how amazed I was to see the words [[Amazon]] and Google on the screen during [[WWDC]] and that                                                            |
 | 48:49      | Apple are working with them and sharing [[HomeKit]].                                                                                                      |
 | 48:52      | I did see some, some companies, I think it was on venture beat saying that [[HomeKit]] is                                                                 |
 | 48:56      | being open sourced.                                                                                                                                       |
@@ -784,21 +784,21 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 49:10      | Because it does feel like a lot of products ship and say we're going to add [[HomeKit]] support                                                           |
 | 49:13      | later and then they don't do it.                                                                                                                          |
 | 49:15      | So I'm hoping that by [[HomeKit]] support being the thing that you need to use to make these                                                              |
-| 49:21      | devices work on iOS and with Amazon devices and with the Google products, that we're                                                                      |
+| 49:21      | devices work on iOS and with [[Amazon]] devices and with the Google products, that we're                                                                      |
 | 49:27      | going to have a much better unified experience for everybody, regardless of what platform                                                                 |
 | 49:33      | you're using.                                                                                                                                             |
 | 49:34      | And also that all the stuff that works with my HomePod will also work with my [[Sonos One]]                                                               |
 | 49:40      | and I got an [[Amazon Echo\|Echo Dot]] recently, David.                                                                                                   |
 | 49:44      | So I'm really hoping that this is going to significantly improve things.                                                                                  |
 | 49:48      | Well, the announcement was a little vague.                                                                                                                |
-| 49:51      | They said that Apple is working with Google and Amazon and it sounded like for a unified                                                                  |
+| 49:51      | They said that Apple is working with Google and [[Amazon]] and it sounded like for a unified                                                                  |
 | 49:57      | standard.                                                                                                                                                 |
 | 49:58      | That's kind of, that's what I heard from it.                                                                                                              |
 | 50:00      | It's thinking.                                                                                                                                            |
 | 50:01      | Yeah.                                                                                                                                                     |
 | 50:02      | They did say the words unified standard.                                                                                                                  |
-| 50:03      | So when you get, so when you go to Amazon to buy a home automation device, you don't                                                                      |
-| 50:09      | have to look to say Amazon supported, Google supported, [[HomeKit]] supported, that there would                                                           |
+| 50:03      | So when you get, so when you go to [[Amazon]] to buy a home automation device, you don't                                                                      |
+| 50:09      | have to look to say [[Amazon]] supported, Google supported, [[HomeKit]] supported, that there would                                                           |
 | 50:13      | just be one standard in theory that it would work with all devices.                                                                                       |
 | 50:17      | And this is what should happen, but you've got these multi-billion dollar companies that                                                                  |
 | 50:22      | all have egos and all want to say, well, we have the better standard, right?                                                                              |

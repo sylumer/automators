@@ -273,7 +273,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 13:21      | palette ones, which have got blank key caps.                                                           |
 | 13:23      | So there's there's nothing written on the keys.                                                        |
 | 13:26      | And yeah, like I would say that if folks are interested in the idea, you can pick these                |
-| 13:31      | up for less than 10 bucks on Amazon.                                                                   |
+| 13:31      | up for less than 10 bucks on [[Amazon]].                                                                   |
 | 13:33      | So folks should definitely consider this as something to try out and see.                              |
 | 13:39      | And yeah, you know, it might be a really useful pro power tool for you.                                |
 | 13:45      | Or it may not work, but at less than 10 bucks, I would say it's worth a try if you're interested       |
@@ -520,7 +520,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 28:16      | Yeah.                                                                                                  |
 | 28:17      | Like, oh, I'm going to have to go buy a soldering iron first type thing.                               |
 | 28:20      | So yeah, a little piece of buyer beware there, but you can definitely have some fun.                        |
-| 28:27      | And as I mentioned before, you could just pick up a number pad off of Amazon or somewhere              |
+| 28:27      | And as I mentioned before, you could just pick up a number pad off of [[Amazon]] or somewhere              |
 | 28:31      | and give that a try to start with and see if that does something because you've got                    |
 | 28:37      | a cheap way to try something out and then you can get nerdy with the other options in                  |
 | 28:43      | a bit.                                                                                                 |
@@ -805,13 +805,13 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 45:34      | how it works.                                                                                          |
 | 45:35      | Now, does it require, I see they have a dongle, you have to buy the dongle in order to get             |
 | 45:39      | the wireless function or is it?                                                                        |
-| 45:42      | So I bought mine in a little bundle of Amazon that came with the dongle and a little case              |
+| 45:42      | So I bought mine in a little bundle of [[Amazon]] that came with the dongle and a little case              |
 | 45:48      | for it as well, which is really nice.                                                                  |
 | 45:50      | So I can, you know, like take it places without worrying about damaging it.                            |
 | 45:54      | And yeah, so I got a bundle.                                                                           |
 | 45:57      | I don't know, I suspect based on the fact that their product page has the dongle separately,           |
 | 46:02      | that the, the regular, like just buying that on their website wouldn't include it.                     |
-| 46:09      | But yeah, check, check Amazon as well.                                                                 |
+| 46:09      | But yeah, check, check [[Amazon]] as well.                                                                 |
 | 46:12      | I know that I got mine there and it came with the dongle for sure.                                     |
 | 46:17      | And you can also, if you're interested in things like a trackpad, get it with a trackpad               |
 | 46:20      | bundle.                                                                                                |
@@ -1320,7 +1320,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 01:14:46   | I have one of these.                                                                                   |
 | 01:14:47   | It's not an Elgato one, but it's the same sort of thing where it's in like a tube with                 |
 | 01:14:51   | a pole and then you pop it up and you kind of click to the top of the pole.                            |
-| 01:14:55   | And I picked one of those up from Amazon during the pandemic and I have to say it's a really           |
+| 01:14:55   | And I picked one of those up from [[Amazon]] during the pandemic and I have to say it's a really           |
 | 01:14:58   | useful thing when I need it.                                                                           |
 | 01:14:59   | I don't need it super often, but when I do, it's there.                                                |
 | 01:15:03   | And yeah, it's great because it doesn't take up much space.                                            |

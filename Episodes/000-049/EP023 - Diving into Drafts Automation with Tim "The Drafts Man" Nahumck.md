@@ -284,9 +284,9 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 12:12      | That's really annoying.                                                                                |
 | 12:13      | Have you tried talking to one of the ladies in a can recently, adding stuff to your shopping           |
 | 12:17      | list?                                                                                                  |
-| 12:18      | I literally have to go, Amazon lady, please add toilet paper to the shopping list.                     |
-| 12:22      | Amazon lady, please add ketchup to the shopping list.                                                  |
-| 12:25      | Amazon lady, please add XYZ to the shopping list.                                                      |
+| 12:18      | I literally have to go, [[Amazon]] lady, please add toilet paper to the shopping list.                     |
+| 12:22      | [[Amazon]] lady, please add ketchup to the shopping list.                                                  |
+| 12:25      | [[Amazon]] lady, please add XYZ to the shopping list.                                                      |
 | 12:28      | And you're there going in so many more words.                                                          |
 | 12:30      | I'd rather just say the words new line.                                                                |
 | 12:31      | So I'm stealing your action there, Tim.                                                                |

@@ -813,7 +813,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:10:44   | all these plans for travel. So I bought the extended battery case, the Apple battery case,                   |
 | 01:10:50   | which is really cool. It's got a camera button on it. And for my new phone, and man, that's just,            |
 | 01:10:56   | I should have just flushed $200 down the toilet, honestly, it would have served the same purpose.            |
-| 01:11:02   | I got it used like new on Amazon for basically because I used to have a                                      |
+| 01:11:02   | I got it used like new on [[Amazon]] for basically because I used to have a                                      |
 | 01:11:08   | Qi charger on my desk and being in lock down. My Qi charger was in Austria and I was here              |
 | 01:11:13   | and I didn't want to buy another Qi charger. So I was like, oh, get the battery case because              |
 | 01:11:16   | that'll be useful when iOS 14 beta has come out. And it's paid off. So for me, it's been good.               |

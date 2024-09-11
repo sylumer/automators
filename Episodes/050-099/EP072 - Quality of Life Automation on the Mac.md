@@ -997,7 +997,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:21:26   | Oh, yeah. And I looked down and she just chewed the end right off. And I'm like, damn. But fortunately,  |
 | 01:21:31   | the big [[Stream Deck]], you can actually replace the cable on the smaller ones. I understand you can't.     |
 | 01:21:36   | Yeah, yeah, I've got the medium size, which actually works great for me. I keep looking at the           |
-| 01:21:40   | large [[Stream Deck]], but it's not available on Amazon at the moment in the UK, though for anybody in       |
+| 01:21:40   | large [[Stream Deck]], but it's not available on [[Amazon]] at the moment in the UK, though for anybody in       |
 | 01:21:45   | the UK who's listening, curries do have them in stock. But the problem is, is I don't feel like          |
 | 01:21:52   | I can justify it right now because I'm really happy with the medium size. I would love a replaceable     |
 | 01:21:57   | cable, though, because the cable on this A extremely long, B USB A, not USB C. So, you know,             |

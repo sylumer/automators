@@ -753,7 +753,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 39:17      | So when I look and then we run out of carrots, I can just tap it and get to work.                      |
 | 39:22      | So I don't know.                                                                                       |
 | 39:23      | I'm going to have fun with this.                                                                       |
-| 39:24      | I ordered off Amazon some key chain NFC triggers.                                                      |
+| 39:24      | I ordered off [[Amazon]] some key chain NFC triggers.                                                      |
 | 39:27      | They haven't arrived yet, but they're on the way.                                                      |
 | 39:29      | This was kind of my promise to myself once I finished the field guide that I could kind                |
 | 39:34      | of go nuts with NFC.                                                                                   |

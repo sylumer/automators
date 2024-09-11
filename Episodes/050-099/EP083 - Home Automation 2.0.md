@@ -184,7 +184,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 05:46      | They're also the most painful to step on, but that's another problem for another time.            |
 | 05:51      | I did some digging around and I tried light wave.                                                 |
 | 05:55      | For people who aren't familiar with light waves, they're sold on the Apple store in               |
-| 05:58      | the UK and Europe, and you can buy them directly from Amazon or light wave, whoever.              |
+| 05:58      | the UK and Europe, and you can buy them directly from [[Amazon]] or light wave, whoever.              |
 | 06:05      | They are light switches and also they do plug sockets that you can just put on the wall.          |
 | 06:12      | They are smart ones.                                                                              |
 | 06:14      | You press the up and it increases the light and you press it down and it decreases the            |
@@ -199,7 +199,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 06:49      | work if I need something from him.                                                                |
 | 06:53      | He came around and spent a couple of minutes messing with that and he said, this is going         |
 | 06:57      | to drive you insane because the light was flickering.                                             |
-| 07:01      | He uninstalled it for me and sent it back and I sent it back to Amazon and I did some             |
+| 07:01      | He uninstalled it for me and sent it back and I sent it back to [[Amazon]] and I did some             |
 | 07:08      | digging around and I found out Aqara, that's A-Q-A-R-A, have light switches which can be          |
 | 07:14      | compatible with European and UK sockets and they are on off switches.                             |
 | 07:22      | They're like the bouncing switches, if that makes sense, so you press it and the switch           |
@@ -220,7 +220,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 08:18      | M2 hub and actually Aqara on the Apple Store in the UK and much of Europe, not all of Europe.     |
 | 08:25      | For some reason, for example, not available in Portugal, not sure why, but they are on            |
 | 08:30      | the Spanish Apple Store.                                                                          |
-| 08:32      | But they're also now much more widely available on Amazon, which eliminates the problem of        |
+| 08:32      | But they're also now much more widely available on [[Amazon]], which eliminates the problem of        |
 | 08:36      | if I order an M2 hub from China, is it going to be a Chinese hub or a European hub?               |
 | 08:41      | Because they connect to different servers.                                                        |
 | 08:43      | So I ordered the M2 hub and that arrived and I'm slowly migrating all of my devices               |
@@ -240,13 +240,13 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 09:53      | switch or I should turn on the light.                                                             |
 | 09:55      | The light's already on by the time your thought process is going, it's dark.                      |
 | 10:00      | So I've solved that problem and I'm very happy with it.                                           |
-| 10:03      | And just for the listeners in the US, Aqara is fully available in the US Amazon store.            |
+| 10:03      | And just for the listeners in the US, Aqara is fully available in the US [[Amazon]] store.            |
 | 10:09      | M2 hub is $50.                                                                                    |
 | 10:11      | A lot of their hardware is in the $20 price range.                                                |
 | 10:15      | An indoor air quality monitor is only $45.                                                        |
 | 10:18      | I've never seen one that cheap.                                                                   |
 | 10:21      | No, their stuff is incredibly cheap.                                                              |
-| 10:24      | The only thing I would say is don't buy the sensors from Amazon or Apple because they             |
+| 10:24      | The only thing I would say is don't buy the sensors from [[Amazon]] or Apple because they             |
 | 10:30      | are so expensive.                                                                                 |
 | 10:31      | They are about half of the price on Aliexpress and the sensors are exactly the same wherever      |
 | 10:36      | you buy them from.                                                                                |
@@ -612,7 +612,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 31:11      | And then it's been up there for three weeks and the battery's been dead.                          |
 | 31:14      | And so I was going to hire an electrician and then I just got like a, you know, a marketing       |
 | 31:20      | email from eufy that said, Hey, you want to get the solar panel for your camera?                |
-| 31:24      | And I looked at that and it cost about, I'm looking at $60 on Amazon, which is not cheap,         |
+| 31:24      | And I looked at that and it cost about, I'm looking at $60 on [[Amazon]], which is not cheap,         |
 | 31:31      | but it's, it's cheaper than an electrician.                                                       |
 | 31:33      | Yep.                                                                                              |
 | 31:34      | So I thought I'd give it a try and I put one up and it's amazing.                                 |
@@ -773,7 +773,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 39:21      | It pauses playback tools, speakers around the house, and it buzzes my intercom to let whoever     |
 | 39:26      | is at the door in.                                                                                |
 | 39:27      | Wow.                                                                                              |
-| 39:28      | So say, for example, Amazon had not already come today and I was sitting here podcasting          |
+| 39:28      | So say, for example, [[Amazon]] had not already come today and I was sitting here podcasting          |
 | 39:32      | with you and I could, and I heard them buzz at the door.                                          |
 | 39:35      | I could hit this button right here.                                                               |
 | 39:37      | And then that gives me a couple of extra seconds to say to you, hey, I need to be right back      |
@@ -955,7 +955,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 49:29      | so most of the time it lives on a little Qi charger in my hallway, and this is wonderful.         |
 | 49:34      | And I realised IKEA sell these symphonist buttons, so IKEA have a partnership with Sonos where    |
 | 49:40      | they actually will sell Sonos speakers, but they are an IKEA outer design, and they don't         |
-| 49:48      | have voice assistants built in, so the Google and Amazon voice assistant options aren't           |
+| 49:48      | have voice assistants built in, so the Google and [[Amazon]] voice assistant options aren't           |
 | 49:53      | there, so these ones don't have microphones, which is wonderful.                                  |
 | 49:55      | I have to say I've not set my Sonos Roam up with any voice assistant because its primary          |
 | 49:59      | usage is in my bathroom listening to me sing in the shower, and I don't really want that          |
@@ -1011,7 +1011,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 52:56      | They had low battery when I set them up.                                                          |
 | 52:59      | So the CR2032 batteries are cheap.                                                                |
 | 53:02      | They're easy to get.                                                                              |
-| 53:03      | I've gotten Amazon subscribers save for them, so they just arrive and they go and draw and        |
+| 53:03      | I've gotten [[Amazon]] subscribers save for them, so they just arrive and they go and draw and        |
 | 53:08      | then get used up because so many things are using these batteries in my house now.                |
 | 53:13      | But yeah, so I got this symphonist speaker art frame, which is great because I keep the           |
 | 53:21      | room in the hallway most of the time, but frequently it's in the bathroom when I'm going          |
@@ -1391,7 +1391,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:13:37   | And I have to say, I have noticed my eyes and, in general, sinuses feeling a lot better           |
 | 01:13:42   | since I installed air purifiers everywhere.                                                       |
 | 01:13:44   | Yeah, when COVID started, I got the one recommended by Wirecutter.                                |
-| 01:13:50   | It's the Coway COWAY air purifier, I'll put an Amazon link in.                                    |
+| 01:13:50   | It's the Coway COWAY air purifier, I'll put an [[Amazon]] link in.                                    |
 | 01:13:55   | It has no automation tools built in.                                                              |
 | 01:13:58   | I mean, it doesn't connect to anything, except it does have an auto button on it, and it          |
 | 01:14:03   | has a sensor.                                                                                     |
@@ -1490,7 +1490,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:18:25   | Yeah.                                                                                             |
 | 01:18:26   | You fill the head with water.                                                                     |
 | 01:18:27   | You stick cleaning cloth on there.                                                                |
-| 01:18:28   | You put some third-party cleaning cloth on Amazon to bulk it out so that I've got plenty          |
+| 01:18:28   | You put some third-party cleaning cloth on [[Amazon]] to bulk it out so that I've got plenty          |
 | 01:18:32   | to get me through the week.                                                                       |
 | 01:18:33   | You put it down and you press the button.                                                         |
 | 01:18:35   | It can do dry mopping and wet mopping.                                                            |
@@ -1544,9 +1544,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:21:01   | rounded microfiber.                                                                               |
 | 01:21:04   | And the blue cloths go on the wet head.                                                           |
 | 01:21:07   | And then I just check them all in with the other microfiber stuff that I do laundry with.         |
-| 01:21:12   | And just for clarification, US Amazon store, that's $179, so it's not that bad.                   |
+| 01:21:12   | And just for clarification, US [[Amazon]] store, that's $179, so it's not that bad.                   |
 | 01:21:18   | I mean, I have the robot vac, I have an iRobot as well.                                           |
-| 01:21:23   | It's the one, I got it on one of these Amazon sales, I think it might be the prior model,         |
+| 01:21:23   | It's the one, I got it on one of these [[Amazon]] sales, I think it might be the prior model,         |
 | 01:21:27   | but it's the one that has the little housing that it plugs into and cleans itself out.            |
 | 01:21:34   | And it is a spinning vacuum, but I use it on a hardwood floor and it actually picks               |
 | 01:21:40   | up a lot.                                                                                         |
@@ -1749,7 +1749,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:32:10   | That sounds like a recipe for disaster.                                                           |
 | 01:32:11   | TP-Link do have some new ones.                                                                    |
 | 01:32:14   | I have one arriving.                                                                              |
-| 01:32:15   | It should arrive today, but Amazon had a hiccup.                                                  |
+| 01:32:15   | It should arrive today, but [[Amazon]] had a hiccup.                                                  |
 | 01:32:17   | I think they accidentally left the parcel at the depot, David.                                    |
 | 01:32:20   | So I couldn't get it here today and check that it does the same thing.                            |
 | 01:32:24   | But there is a new one, which also does energy monitoring.                                        |
@@ -1867,7 +1867,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:38:42   | So if you've already got spares, you already know what the spares are for, then it's easy         |
 | 01:38:46   | to just pull out a box of batteries and go, ah, these are the ones that say there for             |
 | 01:38:49   | the IKEA sensors, perfect.                                                                        |
-| 01:38:51   | These are CR2032s, Amazon them, as soon as they arrive, write down the CR2032s for the            |
+| 01:38:51   | These are CR2032s, [[Amazon]] them, as soon as they arrive, write down the CR2032s for the            |
 | 01:38:57   | IKEA sensors and stick it back in the box.                                                        |
 | 01:39:00   | It's much easier to really be ahead of this stuff, especially if you get a smart smoke            |
 | 01:39:05   | detector and it takes a non-standard battery, hi, that's me, I bought a Xiaomi one.               |
@@ -1890,7 +1890,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:40:17   | And you don't have to do all the things at once.                                                  |
 | 01:40:19   | I know if you're thinking, oh gosh, 10-day shipping from China with these sensors, I'm            |
 | 01:40:23   | just going to buy all of them at once.                                                            |
-| 01:40:26   | I mean, buy one on Amazon, pay more money for it and get it tomorrow and see if it works          |
+| 01:40:26   | I mean, buy one on [[Amazon]], pay more money for it and get it tomorrow and see if it works          |
 | 01:40:31   | the way you like, if it's the size that you like.                                                 |
 | 01:40:34   | These sensors are pretty small, but you might still think, actually, I don't like the way         |
 | 01:40:38   | that that sticks out on the door frame.                                                           |

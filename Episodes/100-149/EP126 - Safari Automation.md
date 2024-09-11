@@ -398,7 +398,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 20:15      | currently there,..go has 13,563 bangs.                                                             |
 | 20:20      | And what that is, is it's an exclamation point plus a code that allows you to do searches          |
 | 20:26      | directly on other search platforms.                                                                |
-| 20:30      | Like if you wanted to do an Amazon search in..go, you just type exclamation point A                |
+| 20:30      | Like if you wanted to do an [[Amazon]] search in..go, you just type exclamation point A                |
 | 20:37      | and then space and then the search, and you just do that in your search bar.                       |
 | 20:40      | You can also put that exclamation mark at the end, because every so often I'll do this.            |
 | 20:44      | If I, and I haven't needed to do this in a long time, but every so often I'd search for            |
@@ -409,9 +409,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 21:00      | I didn't know that.                                                                                |
 | 21:01      | There we go.                                                                                       |
 | 21:02      | Well, there we go.                                                                                 |
-| 21:03      | We both learned something today, because I didn't realise that an Amazon search was                |
+| 21:03      | We both learned something today, because I didn't realise that an [[Amazon]] search was                |
 | 21:05      | part of this.                                                                                      |
-| 21:06      | I usually use [[Alfred]] to search Amazon, but that's one of those things where you don't              |
+| 21:06      | I usually use [[Alfred]] to search [[Amazon]], but that's one of those things where you don't              |
 | 21:10      | necessarily want to do that.                                                                       |
 | 21:12      | And maybe if you're listening, you're saying, but Dave, Rose, I really love Google search.         |
 | 21:16      | I think the results are good, and I want to use those sometimes.                                   |
@@ -806,7 +806,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 45:37      | Is that automation?                                                                                |
 | 45:38      | I don't know, but it does make your writing better.                                                |
 | 45:41      | And then the Readwise apps, I'm a big fan of Readwise and it's a space repetition system           |
-| 45:47      | for the stuff I read in Amazon and on the web.                                                     |
+| 45:47      | for the stuff I read in [[Amazon]] and on the web.                                                     |
 | 45:50      | And they now have a reader app, it's still in beta, but they've got plug-ins for that              |
 | 45:54      | too.                                                                                               |
 | 45:55      | So saving stuff to Readwise, accessing Readwise and saving to their reader is very useful to       |
@@ -1117,7 +1117,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:06:13   | So you actually know that it does do what you think it does.                                       |
 | 01:06:16   | Um, you know, the downside is you are running code in your browser, um, but the upside is,         |
 | 01:06:21   | you know, then this, this can work in any browser, including on iOS, um, because I recently        |
-| 01:06:26   | had, uh, too many saved items or safe for later items in my Amazon basket.                         |
+| 01:06:26   | had, uh, too many saved items or safe for later items in my [[Amazon]] basket.                         |
 | 01:06:30   | Um, and it was just one of those things where I was like, I'm running into the problem of          |
 | 01:06:33   | I can't find the things that I've definitely wanting to get later because I had too many           |
 | 01:06:36   | things safe for later.                                                                             |

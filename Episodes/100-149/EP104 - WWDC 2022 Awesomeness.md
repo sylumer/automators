@@ -584,7 +584,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 32:42      | I'll use that. I haven't really thought of a good use for it for me.                                      |
 | 32:46      | Well, for me, it's a sort of replacement for smart mailboxes on iOS, right? So where you                  |
 | 32:52      | might frequently want to search for mail from your boss or a partner or from a particular                 |
-| 32:59      | place where you make reservations online or it's all of your Amazon orders are similar,                   |
+| 32:59      | place where you make reservations online or it's all of your [[Amazon]] orders are similar,                   |
 | 33:04      | then you can, you can have a search for that, which I think is, is a nice feature. Because,               |
 | 33:11      | you know, that, that, that to me makes sense. I have actually just thought of a use case                  |
 | 33:14      | for the changing your mail focus mode filters with a shortcut. Imagine that you, when you,                |

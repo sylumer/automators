@@ -547,13 +547,13 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 25:39      | But of course, the listeners were not ready to wait for that.                                                      |
 | 25:43      | So there's a whole thread on this over at the forum.                                                               |
 | 25:48      | Sylumer found USB iBeacons, which looked pretty nice.                                                            |
-| 25:52      | Apparently, the ones we talked about on the show are no longer available on Amazon.                                |
+| 25:52      | Apparently, the ones we talked about on the show are no longer available on [[Amazon]].                                |
 | 25:56      | No.                                                                                                                |
 | 25:57      | So we're post using some by Estimote, and it looks like you can still buy individual ones                            |
-| 26:02      | on Amazon, but the packs of three or four may not be available, at least they're not                               |
+| 26:02      | on [[Amazon]], but the packs of three or four may not be available, at least they're not                               |
 | 26:08      | on amazon.com at the time of recording.                                                                            |
 | 26:11      | If CamelCamelCamel is working, then you can use the website camelcamelcamel.com to track                           |
-| 26:18      | an Amazon listing and find out when it becomes available again or when it goes on sale.                            |
+| 26:18      | an [[Amazon]] listing and find out when it becomes available again or when it goes on sale.                            |
 | 26:25      | So you may want to try that there as we record.                                                                    |
 | 26:28      | They are unfortunately having some server issues, but they should hopefully be back                                |
 | 26:32      | quite soon.                                                                                                        |

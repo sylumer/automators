@@ -79,7 +79,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 01:44      | which was pretty good.                                                                                  |
 | 01:46      | So yeah, I've been solar-powered for a week.                                                            |
 | 01:48      | What was the brand on it?                                                                               |
-| 01:50      | I will find a link, if I can, from Amazon and pop it in the show notes.                                 |
+| 01:50      | I will find a link, if I can, from [[Amazon]] and pop it in the show notes.                                 |
 | 01:56      | It's just one I picked up that I spotted.                                                               |
 | 02:00      | It's not anything particularly amazing.                                                                 |
 | 02:04      | It is a kind of like leave it out in front of your tent all day to repower this 75% of                  |
@@ -137,7 +137,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 05:07      | What's your take on Anker?                                                                              |
 | 05:09      | I mean, personally, I find Anker stuff is great.                                                        |
 | 05:14      | It works, it's reliable if there is a problem with it for some reason.                                  |
-| 05:20      | They're pretty good about sorting it out, and you can get it through Amazon.                            |
+| 05:20      | They're pretty good about sorting it out, and you can get it through [[Amazon]].                            |
 | 05:25      | They tend not necessarily to have the best in class of things, but they're also pretty                  |
 | 05:29      | quick onto the market.                                                                                  |
 | 05:31      | So whenever, for example, the [[MagSafe]] stuff came out, they came out with their MagGo line               |

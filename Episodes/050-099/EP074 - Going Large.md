@@ -133,10 +133,10 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 04:55      | six on it, six buttons. The next level up is three rows of five or 15 buttons. And then                   |
 | 05:03      | after that, there's one with four rows of eight for 32 buttons. And the price ranges                      |
 | 05:10      | for the six button one, it's 80 bucks for the 15 one button one, at least in the US                       |
-| 05:15      | Amazon. It's $150. And the 32 button one is currently unavailable. I think it was a little                |
+| 05:15      | [[Amazon]]. It's $150. And the 32 button one is currently unavailable. I think it was a little                |
 | 05:23      | over $200.                                                                                                |
-| 05:24      | Yeah. So I got mine on Amazon a little while ago for 210 pounds. They were unavailable                    |
-| 05:30      | on Amazon UK for a very long time. And then they popped up at 230 pounds. And then Amazon                 |
+| 05:24      | Yeah. So I got mine on [[Amazon]] a little while ago for 210 pounds. They were unavailable                    |
+| 05:30      | on [[Amazon]] UK for a very long time. And then they popped up at 230 pounds. And then [[Amazon]]                 |
 | 05:36      | had a sale right as my accountant sent me an email said, you know, if there's anything                    |
 | 05:41      | you would like to purchase, do so now. And I got the email from CamelCamelCamel to tell                   |
 | 05:47      | me that the price had dropped pretty much right after that email and went, okay, well,                    |
@@ -146,7 +146,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 06:03      | field guide release. I wanted to include content in the keyboard and menstrual field guide                |
 | 06:09      | because as we'll talk about the show, this is a great tool to trigger [[Keyboard Maestro]]                    |
 | 06:13      | scripts. And I bought it thinking, well, I'm going to try this. And if I like it, I'll                    |
-| 06:18      | keep it. But unless it's really useful to me, I'll end up just returning it to Amazon.                    |
+| 06:18      | keep it. But unless it's really useful to me, I'll end up just returning it to [[Amazon]].                    |
 | 06:26      | As Ro said at the top of the show, for the [[Keyboard Maestro]] element of this, it's just                    |
 | 06:31      | a substitute for a keyboard shortcut or any of the other many triggers you can use with                   |
 | 06:34      | a [[Keyboard Maestro]]. So I got thinking, why would I want that? My hands are already on                     |
@@ -193,7 +193,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 09:59      | Which is perfect. I should also mention, at least for people in the UK, Curry's PC world                  |
 | 10:05      | usually has [[Stream Deck\|Stream Decks]] in stock. And for people in the US, Best Buy and Target are                      |
 | 10:11      | the two places that I've seen people in the Relay FM [[Discord]] discussing that they've                     |
-| 10:15      | recently bought their [[Stream Deck\|Stream Decks]] at. So if you can't find it on Amazon or, you know,                    |
+| 10:15      | recently bought their [[Stream Deck\|Stream Decks]] at. So if you can't find it on [[Amazon]] or, you know,                    |
 | 10:22      | the shipping's going to take a while, then it's worth having a look in some other places.                 |
 | 10:25      | I'll go to on their website, do link to a local retailer. So check out, you know, whoever's               |
 | 10:30      | local, who are you're living. But there, there's certainly some other options there                       |

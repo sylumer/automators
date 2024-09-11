@@ -973,7 +973,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 56:47      | technology.                                                                                         |
 | 56:48      | Like, it was this big thing and then nobody really cared about it and now it's sitting              |
 | 56:52      | around.                                                                                             |
-| 56:53      | I mean, you can order them on Amazon, but it feels a bit forgotten.                                 |
+| 56:53      | I mean, you can order them on [[Amazon]], but it feels a bit forgotten.                                 |
 | 57:00      | This episode of Automators is brought to you by Flatiron School.                                    |
 | 57:05      | Launch a career in tech with Flatiron School's modern curriculum, paired with one-on-one            |
 | 57:09      | support from dedicated career coaches all in just 15 weeks.                                         |
@@ -1009,7 +1009,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 58:58      | sure what you're supposed to do with it.                                                            |
 | 58:59      | I think you're right.                                                                               |
 | 59:00      | And also, I'm not really a big expert on it.                                                        |
-| 59:03      | What I did, I went to Amazon, I typed in iBeacon, and I just ordered the cheapest one.                |
+| 59:03      | What I did, I went to [[Amazon]], I typed in iBeacon, and I just ordered the cheapest one.                |
 | 59:10      | I think it was a three-pack.                                                                        |
 | 59:11      | And I did this like a year ago, and that's pretty much it.                                          |
 | 59:15      | So that's all I have.                                                                               |
@@ -1071,7 +1071,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 01:02:27   | And I've got a couple sitting around in coffee cups on my desk along with some pens and paper       |
 | 01:02:32   | clips and things like that.                                                                         |
 | 01:02:34   | But I have the Estimote Beacons and they are a little more expensive and they're unfortunately      |
-| 01:02:39   | not available on Amazon right now, which makes them a little harder to get hold of because          |
+| 01:02:39   | not available on [[Amazon]] right now, which makes them a little harder to get hold of because          |
 | 01:02:43   | you have to buy them from Estimote directly and they're more set up for developers.                 |
 | 01:02:48   | But they also have an NFC tag built in, which means that the one on my desk at work recently        |
 | 01:02:52   | got taken out of the coffee cup and put it on my desk.                                              |

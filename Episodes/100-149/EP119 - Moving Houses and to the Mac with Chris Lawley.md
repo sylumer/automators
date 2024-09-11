@@ -869,7 +869,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:45      | Yeah.                                                                                                     |
 | 47:46      | I'm very excited about that.                                                                              |
 | 47:48      | The one thing that I am kind of bummed about, but maybe it's a good thing is the Meross one                |
-| 47:52      | isn't one of the ones that works with Amazon that like the Amazon delivery people can just                |
+| 47:52      | isn't one of the ones that works with [[Amazon]] that like the [[Amazon]] delivery people can just                |
 | 47:57      | open up the door, slide your package in and close it.                                                     |
 | 48:00      | My brother has one of those and he absolutely loves that because he doesn't have to like                  |
 | 48:04      | worry about like being home for an important package delivery or something like that.                     |
@@ -1449,7 +1449,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:20:01   | Did you look at using any of the accessibility features for this?                                         |
 | 01:20:04   | Because I know that like iPad OS has a lot of accessibility features support and triggering               |
 | 01:20:10   | keyboard shortcuts is part of this.                                                                       |
-| 01:20:12   | And the reason why this comes to mind is I saw something on Amazon the other day and                      |
+| 01:20:12   | And the reason why this comes to mind is I saw something on [[Amazon]] the other day and                      |
 | 01:20:16   | I'm going to sound crazy when I say this.                                                                 |
 | 01:20:19   | It was a TikTok camera ring.                                                                              |
 | 01:20:22   | I don't entirely understand what this was and how it worked.                                              |

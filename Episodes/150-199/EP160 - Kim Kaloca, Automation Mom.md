@@ -472,7 +472,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 16:36      | and turning on all the lights                                                  |
 | 16:37      | and things like that works pretty well as a basis for me.                      |
 | 16:40      | Yeah, there's another one.                                                     |
-| 16:41      | I think it's still on Amazon, I'll have to look for it.                        |
+| 16:41      | I think it's still on [[Amazon]], I'll have to look for it.                        |
 | 16:43      | It has a propeller on it.                                                      |
 | 16:44      | And when the alarm goes off, it winds up the propeller                         |
 | 16:47      | and it flies off into the room somewhere                                       |

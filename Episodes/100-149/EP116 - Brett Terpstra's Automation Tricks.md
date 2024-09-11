@@ -695,7 +695,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:05:01   | you were good at it. And as it got simpler, it got harder for you.                                        |
 | 01:05:05   | Yeah, that's about right. That's about right. But I got your most recent newsletter this morning          |
 | 01:05:14   | and you talked about a protocol called [[Matter]][^1], which could be the future. I'm really intrigued            |
-| 01:05:23   | by this. Well, I mean, what happened was when Apple, Google and Amazon first started this                 |
+| 01:05:23   | by this. Well, I mean, what happened was when Apple, Google and [[Amazon]] first started this                 |
 | 01:05:30   | 10 years ago or so, they all wanted to become the platform, right? Everybody wanted it like,              |
 | 01:05:37   | oh, you have to get a Google thing because everything works with Google or Apple wanted                   |
 | 01:05:42   | the same thing. Apple had more of a security focus. They wanted hardware encryption on their              |
@@ -708,13 +708,13 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:06:20   | they all spoke the same language and it's called [[Matter]]. And it took them years. They just released       |
 | 01:06:24   | it publicly, I think, earlier this month. So now we're going to start seeing the devices come out         |
 | 01:06:31   | and a lot of the big peripheral kind of sensor, light switch, all those people                            |
-| 01:06:38   | are signing on because Apple, Google, and Amazon are on it. It's going to become the only thing.          |
+| 01:06:38   | are signing on because Apple, Google, and [[Amazon]] are on it. It's going to become the only thing.          |
 | 01:06:45   | So when you go to buy something, you don't have to look at the box with a microscope to                   |
 | 01:06:50   | figure out if it's going to work or not. I just had that happen. I added a room onto my house             |
 | 01:06:56   | because I'm trying to do a better job with the MacSparky stuff. I needed a space and I went to           |
 | 01:07:02   | Home Depot and I bought a Kwikset automation lock because I had already got one on my front door.         |
 | 01:07:07   | I thought, well, I'll put one there. And it looked like the one on my front door and I just picked        |
-| 01:07:12   | it up and drove home and I got home and I looked at it and it had Amazon and Google but no home           |
+| 01:07:12   | it up and drove home and I got home and I looked at it and it had [[Amazon]] and Google but no home           |
 | 01:07:17   | kit. So I took it back and they didn't have the home kit when they were out of stock so I had to          |
 | 01:07:23   | order it. But I mean, it's just like that stuff is going to go away and we're going to get a common       |
 | 01:07:29   | platform. But that doesn't change the underlying technology. There's still a bunch of these that          |
@@ -791,7 +791,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:14:57   | working. I don't think Apple's ever going to not support home kit. But going forward, you don't           |
 | 01:15:03   | have to, that's no longer the gating issue for you. Yeah. Anything that's [[Matter]] will work.               |
 | 01:15:08   | Well, that'll make it way easier for third party developers. Like when I see an automation hardware       |
-| 01:15:15   | item like on Amazon or whatever, they always have to list works with, works with, works with.             |
+| 01:15:15   | item like on [[Amazon]] or whatever, they always have to list works with, works with, works with.             |
 | 01:15:22   | Exactly. And if there was one protocol that they could just say [[Matter]] supported, and I think it          |
 | 01:15:28   | would ease their development time and make devices even cheaper. Yeah. Agreed. I totally agree. And       |
 | 01:15:35   | like some of the stuff with home kit just stops working after a while. We're setting up the Christmas     |

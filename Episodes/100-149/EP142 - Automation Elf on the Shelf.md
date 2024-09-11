@@ -268,7 +268,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 12:44      | I wonder if I could get one of these and program my ceiling fan radio commands into it, you         |
 | 12:49      | know, because my ceiling fan has a remote and that would be kind of fun.                            |
 | 12:54      | It's worth giving it a try.                                                                         |
-| 12:55      | They're like $16 on Amazon on Black Friday sale right now.                                          |
+| 12:55      | They're like $16 on [[Amazon]] on Black Friday sale right now.                                          |
 | 12:59      | So hopefully there will still be some of those sales going on when this episode releases            |
 | 13:03      | and folks can take advantage of that.                                                               |
 | 13:06      | And they have a couple of different ones too.                                                       |
@@ -328,7 +328,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:13      | They're a bit larger physically, but they are fabulous for things like this.                        |
 | 16:18      | And then if you don't have a hub at all and you just want to buy like one smart plug to             |
 | 16:23      | try this thing out, then I'd recommend Merrill's M-E-R-O-S.                                         |
-| 16:28      | You can get those on Amazon.                                                                        |
+| 16:28      | You can get those on [[Amazon]].                                                                        |
 | 16:30      | Make sure to get the ones that work with [[HomeKit]] or [[Matter]], not the ones that don't work with       |
 | 16:34      | [[HomeKit]] or Matter.                                                                                  |
 | 16:35      | And those are the work of a Wi-Fi.                                                                  |
@@ -854,13 +854,13 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 52:17      | And then it'll just be a light that's a little on and off thing, but you know, that works           |
 | 52:21      | really well.                                                                                        |
 | 52:22      | Yeah.                                                                                               |
-| 52:23      | And it's 10 bucks on Amazon in the US, crazy.                                                       |
+| 52:23      | And it's 10 bucks on [[Amazon]] in the US, crazy.                                                       |
 | 52:26      | Yeah, exactly.                                                                                      |
 | 52:28      | So it's worth giving these things a go and trying them out.                                         |
 | 52:32      | And yeah, I have just checked, unfortunately, it looks like those anchor power banks, they          |
 | 52:35      | are insanely popular to the point where they're not shipping for a while.                           |
 | 52:40      | Looks like they're not going to ship until sort of December or so, which is kind of crazy.          |
-| 52:46      | But hopefully, I found whenever I order stuff from Anchor, they use Amazon shipping, same           |
+| 52:46      | But hopefully, I found whenever I order stuff from Anchor, they use [[Amazon]] shipping, same           |
 | 52:50      | as mouse, M-O-U-S-2.                                                                                |
 | 52:53      | And yeah, that definitely speeds things up.                                                         |
 | 52:58      | And they're very much a learn from Apple, under promise, over deliver, we'll tell you               |
@@ -871,7 +871,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 53:15      | Do you want me to make you feel bad?                                                                |
 | 53:17      | Oh, okay.                                                                                           |
 | 53:18      | In the US, I could get it tomorrow.                                                                 |
-| 53:20      | No, I was looking at the Amazon product page in the US for those batteries.                         |
+| 53:20      | No, I was looking at the [[Amazon]] product page in the US for those batteries.                         |
 | 53:25      | I mean, I already have one of those batteries and I have the charger for it as well.                |
 | 53:29      | I really like the fact that the charging base, like you just drop the battery pack on there         |
 | 53:32      | and it charges, like you don't have to have a USB cable to charge the battery.                      |

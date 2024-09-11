@@ -604,7 +604,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 33:54      | I forgot the official name of the sync box, but either way, and the play bars, and you                    |
 | 33:59      | can connect all those, you know, like they both, all of them I think come with like that,                 |
 | 34:05      | the same transformer with multiple plug points on which is quite smart, so that works.                    |
-| 34:09      | And the other thing to do is I got my iris on Amazon and I got it from their like return                  |
+| 34:09      | And the other thing to do is I got my iris on [[Amazon]] and I got it from their like return                  |
 | 34:17      | section, like use like new, and it was genuinely like new, it was like brand new, it still                |
 | 34:22      | had old stickers and everything on it, the box was just damaged.                                          |
 | 34:25      | So it's worth keeping an eye out for that kind of deal.                                                   |
@@ -708,7 +708,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 40:40      | Well, this one, of course, he's got [[Stream Deck]] buttons for it now and that's in the                      |
 | 40:44      | blog post and that light looks pretty good.                                                               |
 | 40:47      | The other thing that I've done in the past and I have that running now is I just bought                   |
-| 40:52      | some cheap studio lights of Amazon, like USB power ones, like you plug them in there on,                  |
+| 40:52      | some cheap studio lights of [[Amazon]], like USB power ones, like you plug them in there on,                  |
 | 40:56      | you unplug them, they're off.                                                                             |
 | 40:58      | And then I bought some smart USB plugs.                                                                   |
 | 41:00      | So they're from Sonoff and it's just USB-A, but you can turn it on and off via Wi-Fi.                     |
@@ -800,11 +800,11 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 46:09      | But if you want something that just works and connects to the Aqara hub and therefore                     |
 | 46:15      | straightened home kit, yeah, this is the one.                                                             |
 | 46:20      | It is exceptionally good.                                                                                 |
-| 46:22      | And that is not in Amazon yet.                                                                            |
+| 46:22      | And that is not in [[Amazon]] yet.                                                                            |
 | 46:24      | As I've heard.                                                                                            |
 | 46:25      | No, no, but it is available, for example, on Aliexpress.                                                  |
 | 46:29      | I got mine within like a week of ordering it, which was pretty great.                                     |
-| 46:33      | And it should be available through Amazon.                                                                |
+| 46:33      | And it should be available through [[Amazon]].                                                                |
 | 46:36      | And if you're in Europe, the Apple store is fairly soon, I believe, but it is definitely                  |
 | 46:44      | coming.                                                                                                   |
 | 46:45      | But this thing is impressive.                                                                             |
@@ -870,7 +870,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 50:29      | And that was impressive.                                                                                  |
 | 50:30      | I was really pleased about that.                                                                          |
 | 50:32      | So I feel like this is definitely going to be one worth looking at.                                       |
-| 50:37      | They are going to be sort of like $65-ish when they're available on Amazon.                               |
+| 50:37      | They are going to be sort of like $65-ish when they're available on [[Amazon]].                               |
 | 50:43      | But one good sensor, definitely worth having over multiple cheaper sensors that you have                  |
 | 50:49      | to position carefully and replace batteries on.                                                           |
 | 50:52      | Yeah.                                                                                                     |
@@ -964,7 +964,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 56:16      | the lights, but that doesn't mean that it's dark for the whole house necessarily.                         |
 | 56:21      | So that certainly helps improve the lighting for me as needed.                                            |
 | 56:27      | Yeah.                                                                                                     |
-| 56:28      | I'm going to have to look those because I don't see that they sell those on Amazon.                       |
+| 56:28      | I'm going to have to look those because I don't see that they sell those on [[Amazon]].                       |
 | 56:31      | They've got a million Aqara products.                                                                     |
 | 56:33      | Yeah, I just need to look deeper.                                                                         |
 | 56:35      | Yes.                                                                                                      |
@@ -1290,7 +1290,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:15:32   | One of the things I'm interested in is this idea of a status board and I've been using                    |
 | 01:15:37   | an iPad parked under my main screen for about a year now and that works great.                            |
 | 01:15:42   | But because I'm spending so much money, I figured why not spend a little more?                            |
-| 01:15:46   | I bought a deal on a TV off Amazon that I'm going to hang in the studio.                                  |
+| 01:15:46   | I bought a deal on a TV off [[Amazon]] that I'm going to hang in the studio.                                  |
 | 01:15:53   | It's not going to be in my direct line of sight when I get my screen, my computer screen.                 |
 | 01:15:59   | But one of the ideas for it is to have an iPad driving just the iPad home screen at it                    |
 | 01:16:06   | all day and set it up as a big status board, where it's going to have the time, my appointments,          |

@@ -724,7 +724,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 35:29      | kind of looking for gifts, whether for other people or for yourself, the way most of us              |
 | 35:33      | do that anymore is on the web.                                                                       |
 | 35:34      | I mean, so you're searching through, you've gone through Wirecutter, you've got the various          |
-| 35:40      | Amazon pages or whatever you found for the gifts that you want to give or get.                       |
+| 35:40      | [[Amazon]] pages or whatever you found for the gifts that you want to give or get.                       |
 | 35:46      | And maybe you just need a list of those URLs.                                                        |
 | 35:50      | That's kind of an interesting problem to automate that issue.                                        |
 | 35:53      | I was kind of playing with it before we recorded.                                                    |
@@ -757,7 +757,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 37:51      | on it that she can click on and then purchase stuff for me, that's much easier.                      |
 | 37:56      | And yeah, that's good.                                                                               |
 | 37:58      | Don't forget as well, if you're looking for things to get people and you're stuck for                |
-| 38:02      | ideas, Amazon does have a feature where you can search for public wish lists of people.              |
+| 38:02      | ideas, [[Amazon]] does have a feature where you can search for public wish lists of people.              |
 | 38:07      | So if you search, I would caution you, if you search for David Sparks, you will not                  |
 | 38:13      | find David, just because there are hundreds of David Sparks, unfortunately.                          |
 | 38:18      | But yeah, it might well be that somebody has already created a wish list for themselves              |

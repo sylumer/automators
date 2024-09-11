@@ -1176,7 +1176,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:13:00   | I can tell you, I've had like seven different listeners send me links to various reviews               |
 | 01:13:07   | and links to this product.                                                                             |
 | 01:13:09   | I wanted to talk to you about it, Rose.                                                                |
-| 01:13:10   | I actually looked at it, they're still not available on Amazon as we record this, apparently           |
+| 01:13:10   | I actually looked at it, they're still not available on [[Amazon]] as we record this, apparently           |
 | 01:13:14   | they sold out very quickly.                                                                            |
 | 01:13:17   | This is, it looks like a different device than the Aqara Human Presence Sensor that                    |
 | 01:13:22   | I ordered from Aliexpress, but I'm not sure.                                                           |

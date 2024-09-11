@@ -278,7 +278,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 09:59      | And as I sit here in the year of our Lord 2020, November 24th, I'm sitting here and                           |
 | 10:03      | it's still astonishing to me that my Series 6 watch, it takes about five times as long                        |
 | 10:13      | for Siri on my watch to get and do what I'm saying on very fast Wi-Fi.                                        |
-| 10:19      | It's about five times slower than I want to say the Amazon lady in the tube.                                  |
+| 10:19      | It's about five times slower than I want to say the [[Amazon]] lady in the tube.                                  |
 | 10:23      | If I say the lady in the tube, set a 21 minute pasta timer, well, that would be a really                      |
 | 10:27      | bad pasta, set a 10 minute pasta timer.                                                                       |
 | 10:30      | It's like, bang, the words are barely out of my mouth and it's done.                                          |
@@ -305,10 +305,10 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 11:19      | I've set a 20 second timer, only 10 seconds had already elapsed by the time it got to                         |
 | 11:22      | this point.                                                                                                   |
 | 11:23      | It's maddening though, because one of my most common, so I've done a little bit of nerdy,                     |
-| 11:30      | very hacky stuff, because it turns out though, because the Amazon lady in a tube, that family                 |
+| 11:30      | very hacky stuff, because it turns out though, because the [[Amazon]] lady in a tube, that family                 |
 | 11:35      | of products is faster and more able than the Apple family, at least for now.                                  |
 | 11:41      | You know what I end up doing?                                                                                 |
-| 11:42      | I end up saying that thing into the Amazon product.                                                           |
+| 11:42      | I end up saying that thing into the [[Amazon]] product.                                                           |
 | 11:47      | And I will say something like, oh gosh, now you're going to make me think, add by flower                      |
 | 11:53      | to my shopping list or, you know, doesn't search.                                                             |
 | 11:56      | And then I've created, I've repurposed somebody else's automator script for grabbing multiple                 |
@@ -562,7 +562,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 25:24      | What are some examples of ways you're using it for [[HomeKit]]?                                                   |
 | 25:29      | [[HomeKit]] is a real mixed bag for me.                                                                           |
 | 25:32      | When I first started getting into this stuff, the two platforms that I kind of got most                       |
-| 25:38      | invested in were Philips Hue lights and the Amazon voice products because they're both                        |
+| 25:38      | invested in were Philips Hue lights and the [[Amazon]] voice products because they're both                        |
 | 25:45      | real reliable, they're real good.                                                                             |
 | 25:47      | We rent, so we're not going to be able to rewire our whole house and Hue's been pretty                        |
 | 25:52      | good for that along the way things have improved.                                                             |
@@ -670,7 +670,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 31:21      | I mean, here's a company that likes to charge money for stuff that you bring home and plug                    |
 | 31:28      | into your wall.                                                                                               |
 | 31:30      | And so much of these problems to me sourced back to third-party hardware.                                     |
-| 31:34      | We just got a... we started setting up our Christmas decorations while I bought off Amazon                    |
+| 31:34      | We just got a... we started setting up our Christmas decorations while I bought off [[Amazon]]                    |
 | 31:39      | from a third-party, some of these [[HomeKit]]-enabled plugs, you know, you plug them in the wall                  |
 | 31:44      | and they say they work with [[HomeKit]] great.                                                                    |
 | 31:46      | It's got the little funny little QR code thing on top of it that you scan with the [[HomeKit]]                    |
@@ -715,7 +715,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 33:33      | I'm sorry, I'm just bitching at this point.                                                                   |
 | 33:35      | But there is something that's supremely frustrating about when this moves in the wrong direction.             |
 | 33:43      | So for example, at my office, I decided years ago when I started doing...                                     |
-| 33:48      | I would have the Amazon family of products, but I would use Belkin's Wemo family of products                  |
+| 33:48      | I would have the [[Amazon]] family of products, but I would use Belkin's Wemo family of products                  |
 | 33:54      | for sensors and lights.                                                                                       |
 | 33:56      | So basically, I got a bunch of these plugs for my plugs and I didn't want to do things                        |
 | 34:02      | with colours and brightness.                                                                                   |
@@ -837,7 +837,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 39:41      | it just works, but also privacy, right?                                                                       |
 | 39:43      | So I love the fact that they put privacy first to the extent that I can tell, but for a long                  |
 | 39:48      | time that led to some huge limitations.                                                                       |
-| 39:53      | You go into Amazon, ALEXA skills, or you know, you go into, you just say, you know, discover                  |
+| 39:53      | You go into [[Amazon]], ALEXA skills, or you know, you go into, you just say, you know, discover                  |
 | 39:59      | my devices, you talk to your Google hub, all those things, there's so many integrations.                      |
 | 40:04      | Now, not all of them are great, but they basically said, hey, this whole ecosystem is open, have              |
 | 40:09      | fun with it.                                                                                                  |
@@ -1798,7 +1798,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:33:15   | are risks to getting this stuff wrong, getting the wrong camera in the wrong place with the                   |
 | 01:33:20   | wrong setting with poor geolocation has consequences.                                                         |
 | 01:33:25   | There was the thing I just saw today and I didn't read the whole article, but apparently                      |
-| 01:33:28   | you just see the thing about the at home hubs or routers is a new kind of like an Amazon                      |
+| 01:33:28   | you just see the thing about the at home hubs or routers is a new kind of like an [[Amazon]]                      |
 | 01:33:33   | only router has like a built in backdoor that's not been announced, stuff like that.                          |
 | 01:33:39   | There's consequences to getting this stuff wrong and that that makes us, I think a little                     |
 | 01:33:43   | timid about whether it's safe to go all in.                                                                   |

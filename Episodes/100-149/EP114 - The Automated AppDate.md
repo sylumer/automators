@@ -345,7 +345,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 16:29      | iPad 11 inch.                                                                                          |
 | 16:31      | What I would recommend for the iPad Mini for folks who have one or are interested in one               |
 | 16:35      | is don't get a keyboard case, but get one of those folding keyboards.                                  |
-| 16:39      | You can get them on Amazon.                                                                            |
+| 16:39      | You can get them on [[Amazon]].                                                                            |
 | 16:41      | They're about 30 bucks and they're fine.                                                               |
 | 16:43      | Like I have one and it's great.                                                                        |
 | 16:45      | Oh yeah, they are great.                                                                               |

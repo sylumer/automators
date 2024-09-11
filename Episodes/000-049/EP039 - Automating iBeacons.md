@@ -201,7 +201,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 08:11      | And one of the things we discovered this week or over the last few weeks that we've been              |
 | 08:16      | testing these is that not all iBeacons are created equal.                                             |
 | 08:21      | Oh, no, there is a wide choice out of there.                                                          |
-| 08:25      | There is also, in my case, the invisible and missing iBeacon because Amazon failed to deliver         |
+| 08:25      | There is also, in my case, the invisible and missing iBeacon because [[Amazon]] failed to deliver         |
 | 08:29      | the extra test ones I ordered, unfortunately.                                                         |
 | 08:33      | So the one that both Rose and I bought, I bought this over a year ago, was the ST-                    |
 | 08:39      | Yeah, I think I actually recommended it to you.                                                       |
@@ -223,7 +223,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 09:35      | Yeah.                                                                                                 |
 | 09:36      | I like the ST-Modes also, they have a nice app in the App Store that allows you to make               |
 | 09:42      | those changes that we're going to kind of go through.                                                 |
-| 09:45      | And overall, having bought about two different third-party beacons, iBeacons, from Amazon,            |
+| 09:45      | And overall, having bought about two different third-party beacons, iBeacons, from [[Amazon]],            |
 | 09:53      | one of them was the most recommended, the Blue Charm beacon, and the app they recommend               |
 | 10:00      | you use to tune it is not been updated for the most recent iPhones.                                   |
 | 10:05      | It is very cryptic how to use it.                                                                     |
@@ -240,8 +240,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 10:47      | With [[Amazon Prime]] shipping, you may be able to order, say, five or so different kinds                 |
 | 10:51      | of iBeacons and play with them during some of that miraculous free-down time that we                  |
 | 10:55      | have and give them a go.                                                                              |
-| 10:59      | Unfortunately, the ones I ordered, I ordered the Gigaset ones, which on Amazon Germany                |
-| 11:03      | had really great reviews, but mine had a slight issue with the Amazon Korea not being able            |
+| 10:59      | Unfortunately, the ones I ordered, I ordered the Gigaset ones, which on [[Amazon]] Germany                |
+| 11:03      | had really great reviews, but mine had a slight issue with the [[Amazon]] Korea not being able            |
 | 11:09      | to locate the door to my building and saying that there was no entrance.                              |
 | 11:13      | So I unfortunately can't recommend those, but I can't say that they're bad either because             |
 | 11:17      | I haven't got a chance to test them yet.                                                              |
@@ -681,7 +681,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 35:22      | that is as reliable, and maybe we'll update.                                                          |
 | 35:27      | Maybe I can get this blue charm to work better and I'll report back, and I know Rose has              |
 | 35:31      | a couple that she's ordered as well.                                                                  |
-| 35:34      | But if the Amazon Courier decides that my building has an entrance before this episode                |
+| 35:34      | But if the [[Amazon]] Courier decides that my building has an entrance before this episode                |
 | 35:38      | releases, then I promise I will write up my experience with the Gigaset iBeacons.                     |
 | 35:42      | But I just, I'm not getting a lot of confidence because you need an app that makes it easy            |
 | 35:49      | to go in and edit this data that we're talking about, and Estimote just is the gold standard          |
@@ -1221,8 +1221,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 01:06:44   | But you want to buy yourself something fun in the new year, [[Stream Deck]] may be on your                |
 | 01:06:49   | list.                                                                                                 |
 | 01:06:50   | Yes.                                                                                                  |
-| 01:06:51   | I got mine on Amazon.                                                                                 |
-| 01:06:53   | It said that it was, so it was one of the Amazon warehouse deals.                                     |
+| 01:06:51   | I got mine on [[Amazon]].                                                                                 |
+| 01:06:53   | It said that it was, so it was one of the [[Amazon]] warehouse deals.                                     |
 | 01:06:58   | And it said it had some minor scratches on the front and or rear side and it's mint condition.        |
 | 01:07:04   | I'm really happy with it and it works perfectly.                                                      |
 | 01:07:07   | It's a really lovely little device and it's nice, it's fun to sit down and literally press            |

@@ -330,7 +330,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 23:50      | Yeah, pretty much. I've had some interesting moments where things have randomly restarted.             |
 | 23:55      | And I had, I confess a brief flirtation with a 12.9 inch iPad pro. Okay. In what way? Because          |
 | 24:02      | I bought one. Oh, wait, wait, wait, you didn't tell me that. Okay. So, but I had it for a couple       |
-| 24:09      | of weeks. Amazon over here in Europe has a 30 day return policy. And with the pretend with the rumors  |
+| 24:09      | of weeks. [[Amazon]] over here in Europe has a 30 day return policy. And with the pretend with the rumors  |
 | 24:16      | of the new iPads being released this coming month and some changes coming up in my life,               |
 | 24:22      | some of which we'll get to later in the show. I was there on the fence going, so do I want             |
 | 24:27      | another small iPad or do I want a big iPad? I will think I want a big iPad. But do I really want a     |

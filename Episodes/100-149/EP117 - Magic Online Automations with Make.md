@@ -596,7 +596,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 31:35      | But it's also got some other tools in there like sleeping for a little bit.                               |
 | 31:39      | So wait 15 minutes before you do the next bit, setting and getting variables.                             |
 | 31:44      | And then one of my favourites, the text parser, because I use this to, you know, parse out                 |
-| 31:50      | some emails that I get so that I get tasks in OmniFocus to remind me about the Amazon                     |
+| 31:50      | some emails that I get so that I get tasks in OmniFocus to remind me about the [[Amazon]]                     |
 | 31:55      | returns that I've set up.                                                                                 |
 | 31:57      | Otherwise I might forget to package at the parcel before the delivery person or the collection            |
 | 32:01      | person comes to get it.                                                                                   |
@@ -881,7 +881,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 48:54      | or sorry, yeah, four that I think are probably going to be the most interesting ones to folks             |
 | 48:58      | here.                                                                                                     |
 | 48:59      | So saving all of my start RSS items for use later, which goes into good links, adding                     |
-| 49:05      | Amazon returns into OmniFocus, creating our automators show notes because of course that's                |
+| 49:05      | [[Amazon]] returns into OmniFocus, creating our automators show notes because of course that's                |
 | 49:11      | automated and handling iOS today feedback that comes in via email.                                        |
 | 49:16      | And I should note that any folks who send us feedback on iOS today, so that's the podcast                 |
 | 49:22      | of Micah and I host on Twitter, they have the option of sending us the pet text, which                    |
@@ -1030,7 +1030,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 58:59      | with this stuff.                                                                                          |
 | 59:00      | All right.                                                                                                |
 | 59:01      | Now I'll go to the next one.                                                                              |
-| 59:02      | Amazon returns to OmniFocus.                                                                              |
+| 59:02      | [[Amazon]] returns to OmniFocus.                                                                              |
 | 59:05      | The thing I like about this is you're attaching the web, but you're also going to a local                 |
 | 59:09      | app like OmniFocus.                                                                                       |
 | 59:11      | So you've already told us a little bit about it, but I want to hear the gory details of                   |
@@ -1046,14 +1046,14 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 59:48      | triggered with that.                                                                                      |
 | 59:50      | So I'm using that to forward emails.                                                                      |
 | 59:53      | So the trigger inside of [[Make]] is a web hook, which is a mail hook specifically.                           |
-| 01:00:00   | And I've created a special one for Amazon returns.                                                        |
+| 01:00:00   | And I've created a special one for [[Amazon]] returns.                                                        |
 | 01:00:03   | And this has given me a beautiful at hook.make.com email address.                                         |
 | 01:00:09   | Fortunately, there is a nice handy little copy address to clipboard function right there.                 |
 | 01:00:13   | So I can copy that and then paste that into my FastMail rule.                                             |
 | 01:00:19   | And that was the start.                                                                                   |
 | 01:00:21   | And then I need to go through.                                                                            |
-| 01:00:23   | So I get Amazon returns sent over via the mail rule.                                                      |
-| 01:00:27   | And that deals with what is an Amazon return email for me very nicely.                                    |
+| 01:00:23   | So I get [[Amazon]] returns sent over via the mail rule.                                                      |
+| 01:00:27   | And that deals with what is an [[Amazon]] return email for me very nicely.                                    |
 | 01:00:30   | Now I have to get the data out of this.                                                                   |
 | 01:00:33   | Okay, so what is it that I'm returning?                                                                   |
 | 01:00:35   | Does it have a date that needs to be returned by or does it have a date that's going to                   |
@@ -1072,7 +1072,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:01:17   | option of going and dropping it off, if for example, the pickup doesn't happen or whatever.               |
 | 01:01:22   | It's looking then at the return method.                                                                   |
 | 01:01:25   | And then it's looking for a particular URL.                                                               |
-| 01:01:29   | Now the URL is actually the Amazon like return label page.                                                |
+| 01:01:29   | Now the URL is actually the [[Amazon]] like return label page.                                                |
 | 01:01:36   | Because what it's doing is then actually like getting that page.                                          |
 | 01:01:42   | And it's just saving that into the note.                                                                  |
 | 01:01:46   | And then what I've done here is it's an old school approach.                                              |
@@ -1157,7 +1157,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:06:54   | Go there now to get your free pair of Beats Solo 3 headphones today for scheduling a meeting.             |
 | 01:06:59   | Our thanks to Electric for their support of this show.                                                    |
 | 01:07:02   | All right, so let's move on Rose.                                                                         |
-| 01:07:06   | We've talked about Amazon Returns of OmniFocus.                                                           |
+| 01:07:06   | We've talked about [[Amazon]] Returns of OmniFocus.                                                           |
 | 01:07:09   | We have mentioned on the show, I don't think we've ever gone into the detail on it, but                   |
 | 01:07:13   | we are using [[Make]] as a back automation based on the creation of an air table.                             |
 | 01:07:20   | Then you've got a whole bunch of stuff going on it with the show prep for Automators.                     |

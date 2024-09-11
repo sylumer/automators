@@ -778,11 +778,11 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 55:28      | but I could put it through the people. And so I got the ring people, and I'm using Homebridge           |
 | 55:34      | to get that into [[HomeKit]], which means that I can see the camera in [[HomeKit]]. And also,                   |
 | 55:39      | when it rings, I get chimes on my HomePods throughout the house, which is really, really               |
-| 55:43      | nice. That is an excellent point. And I'm looking in my Amazon order history, because just a few        |
+| 55:43      | nice. That is an excellent point. And I'm looking in my [[Amazon]] order history, because just a few        |
 | 55:49      | weeks ago, I spent 36 bucks that I would have saved if it had done that, because what I did for         |
 | 55:53      | that very same problem is I bought a second eufye doorbell chime. And so now when someone rings          |
 | 56:00      | my doorbell, I have the eufye hub, which is downstairs in my house, which goes ding dong.                |
-| 56:05      | And then this thing that I bought on Amazon just a few weeks ago, and it's probably literally           |
+| 56:05      | And then this thing that I bought on [[Amazon]] just a few weeks ago, and it's probably literally           |
 | 56:09      | only been tested a few times, how many people have rung my doorbell in the last week or two.            |
 | 56:13      | But I have this second unit plugged into an outlet upstairs, and so it also dings. But you're           |
 | 56:18      | right, I do have HomePod minis in my house, and it would have been nicer if I could have used those     |

@@ -536,7 +536,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 25:42      | Or I can use Automated to try to put this stuff together but inevitably you run up against               |
 | 25:45      | something weird like, oh well, to make a Kindle Book, there's no thing with an [[AppleScript]]able          |
 | 25:51      | Dictionary that does that.                                                                               |
-| 25:54      | Amazon provides tools for making Kindle Books and they may provide like a GUI application                |
+| 25:54      | [[Amazon]] provides tools for making Kindle Books and they may provide like a GUI application                |
 | 25:58      | for doing it but it probably doesn't have an [[AppleScript]] dictionary.                                    |
 | 26:01      | So what they also provide is a command line tool that will make a Kindle Book, right?                    |
 | 26:06      | And it's like, aha, a command line tool that might lead me towards thinking, you know,                   |

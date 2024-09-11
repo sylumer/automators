@@ -478,7 +478,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 35:13      | running 24-7, but Calibre has a built-in ebook server, which I use with Marvin on my iPad mini       |
 | 35:19      | so that I can just grab ebooks and read them. And so it's really nice if all the ebooks are just     |
 | 35:25      | there. And if Calibre's running all the time, why not have it watch a folder in [[Dropbox]] and          |
-| 35:29      | just do some more magic for me? Yeah, I've bought so many books through Amazon that if they ever     |
+| 35:29      | just do some more magic for me? Yeah, I've bought so many books through [[Amazon]] that if they ever     |
 | 35:34      | like shut down or lock me out, I'm screwed. Oh, yeah. I have it download all of my Kindle books      |
 | 35:40      | as well and store those in Calibre as well, just so that I have everything there. Thanks,            |
 | 35:46      | my love. It's a little easier. But the magic that I am particularly proud of, which was the most     |

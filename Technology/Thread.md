@@ -39,7 +39,7 @@ It can be useful to understand how Thread compares to other popular wireless pro
 - **Bluetooth** - Bluetooth, and especially Bluetooth Low Energy (BLE), is designed for short-range communication and is often used for direct pairing between devices, but lacks the mesh networking capabilities of Thread.
 
 # Thread and Smart Home Integration
-One of Thread's main selling points is its ability to integrate with smart home ecosystems easily. Major tech companies like Google, Apple, and Amazon support Thread, aiming for a unified and seamless smart home experience.
+One of Thread's main selling points is its ability to integrate with smart home ecosystems easily. Major tech companies like Google, Apple, and [[Amazon]] support Thread, aiming for a unified and seamless smart home experience.
 
 # Episodes
 ```dataviewjs

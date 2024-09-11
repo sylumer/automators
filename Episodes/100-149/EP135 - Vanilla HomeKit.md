@@ -923,7 +923,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 56:49      | the the like the sensors and someone from Aliexpress in particular you can definitely get                 |
 | 56:56      | you know good bundles very cheaply you'll have to wait a little bit for postage it could be               |
 | 57:01      | you know 10 days two weeks for it but you know it's I feel like it's worth waiting the 10 days            |
-| 57:08      | to two weeks if you know like buy one from Amazon by all means and get it tomorrow to try it out          |
+| 57:08      | to two weeks if you know like buy one from [[Amazon]] by all means and get it tomorrow to try it out          |
 | 57:13      | but then if you go okay I want six of these buttons then yeah you can save quite a bundle                 |
 | 57:19      | by buying them on Ali Express and they'll all connect to the same hub and Zigbee, Z-Wave,              |
 | 57:24      | etc. they are global they use slightly different channels in various areas at least                       |

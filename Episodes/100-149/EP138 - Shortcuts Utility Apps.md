@@ -1028,7 +1028,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:01:31   | Yeah.                                                                                                |
 | 01:01:32   | Exactly.                                                                                             |
 | 01:01:33   | And it can be useful for all sorts of things like opening Aliexpress apps in the right               |
-| 01:01:37   | thing or opening Amazon links in the Amazon app and stuff like that.                                 |
+| 01:01:37   | thing or opening [[Amazon]] links in the [[Amazon]] app and stuff like that.                                 |
 | 01:01:42   | But you can also like specifically open things in third-party browsers and it's got a URL            |
 | 01:01:48   | scheme.                                                                                              |
 | 01:01:49   | So, and it can also detect Amp links to open them if you wanted to.                                   |

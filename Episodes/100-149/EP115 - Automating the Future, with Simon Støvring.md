@@ -214,7 +214,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 11:53      | Yeah.                                                                                                  |
 | 11:54      | Yeah, we have that.                                                                                    |
 | 11:55      | Yeah. Well, there we go. Minor detour taken, but yes. Meccano, by the way, is still available          |
-| 12:01      | and is actually available for sale on Amazon. So there we go, folks. I apologise to everybody's        |
+| 12:01      | and is actually available for sale on [[Amazon]]. So there we go, folks. I apologise to everybody's        |
 | 12:06      | Christmases, but I will put a link to the Wikipedia page in the show notes.                            |
 | 12:11      | Well, you know, and also I'd say as someone who's not setting up development environments,             |
 | 12:17      | the fact that development is so closely related to text, there is a benefit for anybody who            |

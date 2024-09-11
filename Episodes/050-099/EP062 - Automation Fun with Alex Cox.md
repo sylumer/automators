@@ -371,7 +371,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 32:09      | and brackets. It is essentially a find and replace. And, you know, how the, the one like                |
 | 32:18      | forever bug in markdown, where if you do a Wikipedia link, where anything is parenthesised,             |
 | 32:24      | it's just, sometimes it'll work. Sometimes it doesn't. It looks for those two and                       |
-| 32:30      | also anything that in the, like, the markdown links, if it's, it finds Amazon colon space               |
+| 32:30      | also anything that in the, like, the markdown links, if it's, it finds [[Amazon]] colon space               |
 | 32:41      | and just gets rid of that. And then in order to send, how I'm opening [[Drafts]] right now to               |
 | 32:48      | figure out how I send it to simple cast. Oh yeah, that just ends up being a Zapier automation,          |
 | 32:56      | actually, to get it into simple cast. It creates, it's, it creates a draft of an episode. And then      |
@@ -388,7 +388,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 34:10      | these changes to it. And there are apps out there like [[TextSoap]] that can help you. But if it's a        |
 | 34:16      | very particular kind of modification, doing it in [[Drafts]] makes a lot of sense. And I'm guessing         |
 | 34:23      | it took you a while to kind of tune that to get exactly what you wanted in terms of removing            |
-| 34:28      | parentheses and removing the Amazon colon. It didn't work the first time, right? Yeah, I mean,          |
+| 34:28      | parentheses and removing the [[Amazon]] colon. It didn't work the first time, right? Yeah, I mean,          |
 | 34:34      | actually now it only breaks. And by break, I mean, I have to just go in and adjust one or two           |
 | 34:42      | links or something like that every like three months or so. But I'd say it took like a couple           |
 | 34:48      | weeks of tuning it exactly to like our show notes needs. And I actually have another action for         |

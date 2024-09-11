@@ -1082,10 +1082,10 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:28:57   | because, well, magic just happens and projects appear in OmniFocus or documents appear in                |
 | 01:29:05   | Finder or DEVONthink or wherever they need to be and I'm not thinking about it, which is really          |
 | 01:29:10   | the magic. So I'm just opening [[Make]] right now to just double check because I know I've got a lot         |
-| 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is Amazon        |
-| 01:29:23   | Returns. If I return something to Amazon, this doesn't happen very often. I try to be smart              |
+| 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is [[Amazon]]        |
+| 01:29:23   | Returns. If I return something to [[Amazon]], this doesn't happen very often. I try to be smart              |
 | 01:29:28   | when I buy something, so I'm not constantly doing returns. It's not great for the environment or         |
-| 01:29:33   | anything else, but whenever I do an Amazon return, it grabs that email, that email gets forwarded        |
+| 01:29:33   | anything else, but whenever I do an [[Amazon]] return, it grabs that email, that email gets forwarded        |
 | 01:29:40   | to it. I use FastMail's rules to forward that to a [[Mailhook\|mailhook]] at [[Make]] and it grabs a bunch of              |
 | 01:29:46   | information out of it and adds that as a task or actually a project in [[OmniFocus]]. So I end up with       |
 | 01:29:55   | an auto-completing project which will complete with the last item and then inside of it,                 |

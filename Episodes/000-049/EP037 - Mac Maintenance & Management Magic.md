@@ -637,7 +637,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 51:19      | or the customer support button, and everything comes up to do all your customer support stuff,          |
 | 51:24      | and it's just on your screen, and you can just start doing it. And it's a good way, I guess,            |
 | 51:30      | the experience I have is it allows me to avoid getting sidetracked. I think when I first sit            |
-| 51:35      | down, my computer's a very easy time to find myself drifting into the web browser or Amazon             |
+| 51:35      | down, my computer's a very easy time to find myself drifting into the web browser or [[Amazon]]             |
 | 51:40      | or someplace where I would get sidetracked. Yes. Yeah, I find that as well. I sit down and it's         |
 | 51:45      | like, oh, I'll just quickly check Twitter, and then like three hours later, it's like, wait,            |
 | 51:49      | what rabbit hole did I fall into? Well, there was Mary Poppins, and there was something about this      |
