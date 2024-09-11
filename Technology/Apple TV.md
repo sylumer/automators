@@ -9,7 +9,7 @@ Apple TV is a digital media player developed by Apple. It allows users to stream
 The primary purpose of Apple TV is to provide an all-in-one entertainment hub, simplifying the way users access and manage their digital content. It is controlled by a remote (physical or app/OS feature), although it can also be navigated using the Apple TV app on an iPhone or iPad.
 
 # Features
-- Apple TV supports a wide range of streaming services - e.g. Netflix, Amazon Prime Video, Disney+, Apple TV+, BBC iPlayer.
+- Apple TV supports a wide range of streaming services - e.g. Netflix, [[Amazon Prime]] Video, Disney+, Apple TV+, BBC iPlayer.
 - Apple TV comes with an App Store, allowing users to download various apps and games.
 - Apple TV includes support for [[Siri]].
 - [[[[AirPlay]]]] is a feature that allows content from iPhones, iPads, and Macs to be mirrored or sent directly to Apple TV. 

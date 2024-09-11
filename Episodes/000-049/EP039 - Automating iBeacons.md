@@ -237,7 +237,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 10:36      | Now, if you have time to play around with something like this, as this episode releases               |
 | 10:41      | were right before the holiday season, depending on where you are, you may have a good couple          |
 | 10:46      | of holiday days.                                                                                      |
-| 10:47      | With Amazon Prime shipping, you may be able to order, say, five or so different kinds                 |
+| 10:47      | With [[Amazon Prime]] shipping, you may be able to order, say, five or so different kinds                 |
 | 10:51      | of iBeacons and play with them during some of that miraculous free-down time that we                  |
 | 10:55      | have and give them a go.                                                                              |
 | 10:59      | Unfortunately, the ones I ordered, I ordered the Gigaset ones, which on Amazon Germany                |
