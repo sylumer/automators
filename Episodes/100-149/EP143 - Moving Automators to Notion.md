@@ -201,10 +201,10 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 09:22      | should try it with automators and see what automation spin we can put on it.                         |
 | 09:26      | And so far I'm feeling like we've been pretty successful with this.                                  |
 | 09:31      | But obviously, you know, I have a perhaps different perspective because I set up the                 |
-| 09:36      | Rube Goldberg machine is not quite the right name for it, but I set up the system of automating      |
+| 09:36      | [[Rube Goldberg|Rube Goldberg Machine]] is not quite the right name for it, but I set up the system of automating      |
 | 09:40      | our previous workflow.                                                                               |
 | 09:42      | So obviously, you know, you were sort of at my mercy there, David.                                   |
-| 09:46      | Well, not entirely, I understood it, but the, but it was a little Rube Goldberg and sometimes        |
+| 09:46      | Well, not entirely, I understood it, but the, but it was a little [[Rube Goldberg]] and sometimes        |
 | 09:52      | like you push a button on one end and the widget wouldn't come out the other end.                    |
 | 09:57      | Well, you know, I do feel like you're right about us building too many sidecars on a motorcycle.     |
 | 10:03      | And I think that's a great way to explain it.                                                        |

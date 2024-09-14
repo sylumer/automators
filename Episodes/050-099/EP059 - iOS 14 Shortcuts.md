@@ -1095,7 +1095,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 57:03      | So that's done by a combination of Integra, Met, and Zapier, because I started changing                  |
 | 57:10      | things on Zapier and then realised that I needed to trigger it in a different way.                       |
 | 57:14      | And so I decided just to use Integra, Met to do that, which is, you know, it sounds                      |
-| 57:18      | more complex than it is, and it's definitely more Rube Goldberg machine than is necessary                |
+| 57:18      | more complex than it is, and it's definitely more [[Rube Goldberg|Rube Goldberg Machine]] than is necessary                |
 | 57:23      | for the vast majority of people.                                                                         |
 | 57:25      | But whenever these show notes are actually created, then it pings my push cut for me                     |
 | 57:31      | on all of my devices and goes, hey, the show notes for this show were created.                           |

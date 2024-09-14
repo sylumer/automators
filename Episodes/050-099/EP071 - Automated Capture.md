@@ -1250,7 +1250,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:20:45   | All of these players have got different areas of focus.                                                  |
 | 01:20:49   | I have TTT, Zapier, [[Make\|Integromat]], and I guess if you want to try this out, you just got                    |
 | 01:20:54   | to really take a look at each tool and see what problems you're trying to solve.                         |
-| 01:20:59   | But I still wouldn't recommend making them to Rube Goldberg because you're adding the                    |
+| 01:20:59   | But I still wouldn't recommend making them to [[Rube Goldberg]] because you're adding the                    |
 | 01:21:05   | internet to the mix on every step for these solutions.                                                   |
 | 01:21:09   | And it could be no fault of [[Make\|Integromat]], but something may not work because the service                   |
 | 01:21:15   | you're connecting to is having issues, and then you get frustrated.                                      |

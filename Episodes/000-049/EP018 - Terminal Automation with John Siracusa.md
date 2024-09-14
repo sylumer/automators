@@ -241,7 +241,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 09:18      | But very quickly, I will run up against a situation                                                      |
 | 09:22      | where I can't find a block that does what I want                                                         |
 | 09:24      | or I see how it has to combine these five blocks to do something.                                        |
-| 09:26      | And it seems like a Rube Goldberg machine and I get frustrated.                                          |
+| 09:26      | And it seems like a [[Rube Goldberg|Rube Goldberg Machine]] and I get frustrated.                                          |
 | 09:29      | But for other people, if they don't have any other outlet,                                               |
 | 09:31      | the blocks are all there are and it's reasonable.                                                        |
 | 09:34      | I just I just question it as the like there needs to be more than that, right?                           |
@@ -272,7 +272,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 10:42      | Yeah, you know, that that's a good example.                                                              |
 | 10:44      | And honestly, there are things in automator                                                              |
 | 10:47      | and to a lesser extent, Siri shortcuts where you can't make the thing                                    |
-| 10:51      | no matter how Rube Goldberg you go.                                                                      |
+| 10:51      | no matter how [[Rube Goldberg]] you go.                                                                      |
 | 10:53      | I mean, there are certain limits to what you can do with those.                                          |
 | 10:56      | And when we talk to our listeners, we hear about that.                                                   |
 | 10:58      | And that's the folks that suddenly get interested in learning to program                                 |
@@ -326,7 +326,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 13:27      | to a text file and then have something else read the text file                                           |
 | 13:30      | and get the time from it.                                                                                |
 | 13:31      | And it's like, oh, like you can get it done.                                                             |
-| 13:34      | But that's that's that's why I keep saying Rube Goldberg.                                                |
+| 13:34      | But that's that's that's why I keep saying [[Rube Goldberg]].                                                |
 | 13:36      | It's you you would never choose to do it that way.                                                       |
 | 13:39      | Like in if you're writing an actual program or an AppleScript,                                          |
 | 13:42      | like very few AppleScripts, I imagine, take a value and write it to a file on disk                      |

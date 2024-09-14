@@ -202,10 +202,10 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 05:59      | No.                                                                                                    |
 | 06:00      | When I was like a five year old and my parents brought in the first Windows desktop, you               |
 | 06:04      | know, taupe machine into the home office, one of the games was the incredible machine.                 |
-| 06:11      | And it's this old DOS game that is basically a bunch of puzzles that are made up of Rube               |
-| 06:17      | Goldberg machines, right?                                                                              |
+| 06:11      | And it's this old DOS game that is basically a bunch of puzzles that are made up of               |
+| 06:17      | [[Rube Goldberg\|Rube Goldberg Machines]], right?                                                                              |
 | 06:19      | And so when you asked me this question, I was thinking about what my start was.                        |
-| 06:23      | And since so many automations really are Rube Goldberg machines, you know, these contraptions          |
+| 06:23      | And since so many automations really are [[Rube Goldberg\|Rube Goldberg Machines]], you know, these contraptions          |
 | 06:27      | where you stitch together a thousand different little pieces that really probably shouldn't            |
 | 06:31      | work together, but because you're able to fill in the gaps and because so many developers              |
 | 06:35      | have made some brilliant kind of magic glues that fit everything together, you can make                |

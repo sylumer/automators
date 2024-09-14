@@ -122,7 +122,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:59      | was this app that you could run that would do, in some ways, it's a little bit like the                       |
 | 02:04      | way that I would use, for example, the way you all use [[Keyboard Maestro]], the way that                         |
 | 02:10      | I use [[BetterTouchTool]], but all the way down to wait this many seconds, and then click                       |
-| 02:16      | in this area, and you could create all these really wackadoo macros and Rube Goldberg devices,                |
+| 02:16      | in this area, and you could create all these really wackadoo macros and [[Rube Goldberg]] devices,                |
 | 02:23      | but it was a real crapshoot if it would work at all, and that's still true in some ways                       |
 | 02:29      | today, but now there's an entire community of people like Rosemary, like all these other                      |
 | 02:34      | folks that are making the fellow that made the ThoughtAsylum thing for [[Drafts]], there's                       |
@@ -923,7 +923,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 45:16      | I also want to be able to like send stuff to a spreadsheet.                                                   |
 | 45:19      | I want, I want to be able to do that.                                                                         |
 | 45:20      | I don't want to have to open up like a, a Zapier or whatever in order to like, you know,                      |
-| 45:26      | create a third Rube Goldberg device for my other Rube Goldberg devices.                                       |
+| 45:26      | create a third [[Rube Goldberg]] device for my other [[Rube Goldberg]] devices.                                       |
 | 45:29      | That's crazy making.                                                                                          |
 | 45:31      | Well, you have just solved the mystery that I have been struggling to solve, which is                         |
 | 45:35      | why am I not, why do I have massive holes of six days of no data in the, the energy                           |

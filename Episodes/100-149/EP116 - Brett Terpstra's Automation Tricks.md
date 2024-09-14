@@ -804,7 +804,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:16:19   | want to do that too. Because if we have one protocol, you know, then there's only one,                    |
 | 01:16:25   | it's like the United Nations of home automation, right? Every only one language is being spoken.          |
 | 01:16:29   | And then all of a sudden we get, you know, anything can possibly work. Yeah. But when I                   |
-| 01:16:36   | talked to you, it was like you had this Rube Goldberg thing going on, you know, where I                   |
+| 01:16:36   | talked to you, it was like you had this [[Rube Goldberg]] thing going on, you know, where I                   |
 | 01:16:40   | think it was buttering your toast or something. I forget you were doing so much with it. I'm              |
 | 01:16:44   | surprised that you're a little behind on it now. Yeah. I keep exploring different like avenues            |
 | 01:16:54   | for the future because I don't see a future for like my legacy setup. Yeah. So I'm constantly             |

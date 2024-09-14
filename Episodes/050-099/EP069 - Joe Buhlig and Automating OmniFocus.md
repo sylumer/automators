@@ -552,7 +552,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 44:25      | why are these things in the wrong place? And I can't fix it on my iPhone. And now I can just           |
 | 44:30      | fix it on all the platforms because I can run the script anywhere.                                     |
 | 44:33      | Yeah. And that's the advantage of the multi platform scripting language is all the                     |
-| 44:36      | Rube Goldberg stuff just goes out the window. You don't need any of that anymore.                      |
+| 44:36      | [[Rube Goldberg]] stuff just goes out the window. You don't need any of that anymore.                      |
 | 44:41      | Yeah, exactly. And it just means that things are more stable. And I've yet to 100% decide how I        |
 | 44:47      | want things to be automatically parsed for my inbox because I have the script and it would be          |
 | 44:53      | great if it ran automatically after stuff was put into my inbox. And maybe one day that will be        |
