@@ -589,7 +589,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 39:33      | ability to replace switches where you live and you want a reliable lighting control,                     |
 | 39:38      | it's the Casetas switches. I am so happy with them. I've got one now on the porch light.                |
 | 39:43      | So I talked earlier about how we'll turn on lights as we're coming home. It's the home                   |
-| 39:48      | kit driving the Casetass to turn on those lights. And it's great.                                       |
+| 39:48      | kit driving the Casetas to turn on those lights. And it's great.                                       |
 | 39:53      | Yes. Yeah, it is. I can confirm it because I tested it in person.                                        |
 | 39:57      | Now, also in addition with the Hue lights, I just on a whim, I was at Home Depot. It                     |
 | 40:04      | was like a home improvement superstore that's in a lot of communities here in the US. And                |
