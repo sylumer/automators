@@ -160,7 +160,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 07:08      | and I just made me realise how those things are fighting for your airspace in your apartment        |
 | 07:14      | somehow with all the frequencies intermixing and stuff like that.                                   |
 | 07:19      | That's so tenuous, if you know what's going on.                                                     |
-| 07:23      | That's one of the reasons why I like those Lutron Casetaa switches.                                |
+| 07:23      | That's one of the reasons why I like those [[Lutron]] Caseta switches.                                |
 | 07:27      | Another person, Robert Spivack, who was a guest on MPU a while back and is really connected          |
 | 07:33      | on this home automation stuff, was telling me they have their own bandwidth.                        |
 | 07:37      | They bought their own section of the spectrum for their switches, and I think that's why            |
@@ -259,7 +259,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 14:02      | I want.                                                                                             |
 | 14:03      | No, you're never going to get past the light switch.                                                |
 | 14:07      | You got to design it around people's preferences.                                                   |
-| 14:11      | That's why in my case, buying the Lutron switches solve that problem because, oh yeah, the switch   |
+| 14:11      | That's why in my case, buying the [[Lutron]] switches solve that problem because, oh yeah, the switch   |
 | 14:16      | is still there.                                                                                     |
 | 14:17      | They can turn it off and on, but I can still automate and the light situation is kind of            |
 | 14:21      | handled for me, but triggering them, which is the problem Simon is talking about, is                |

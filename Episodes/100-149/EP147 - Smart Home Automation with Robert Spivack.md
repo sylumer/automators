@@ -314,7 +314,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 16:48      | What is the cost of you doing that work?                                                               |
 | 16:51      | Yes.                                                                                                   |
 | 16:52      | Now, apply that to the cost of the product.                                                            |
-| 16:55      | If you buy a $20 [[Amazon]] special no-name light switch or you buy a $60 or $80 Lutron or you             |
+| 16:55      | If you buy a $20 [[Amazon]] special no-name light switch or you buy a $60 or $80 [[Lutron]] or you             |
 | 17:03      | buy a $50 Eve plug instead of a $10 Meras or other one, if you spend three hours a month               |
 | 17:12      | resetting it and rebooting it and fiddling with it because it never works right, how                   |
 | 17:18      | have you really saved money?                                                                           |
@@ -322,7 +322,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 17:22      | This is definitely something that I think it's very easy to fall into the trap of starting             |
 | 17:28      | out by buying the cheapest and messing with that.                                                      |
 | 17:32      | Because often I find people who start by buying the cheapest thing have a really bad experience.       |
-| 17:38      | Whereas people who start with something like Philips Hue lights or the Lutron Cassata stuff            |
+| 17:38      | Whereas people who start with something like Philips Hue lights or the [[Lutron]] Cassata stuff            |
 | 17:42      | if you're in the US, they tend to have a much better experience because those companies,               |
 | 17:48      | well, they're selling a hub, which means that they want you to buy a whole bunch of their              |
 | 17:52      | devices.                                                                                               |
@@ -347,12 +347,12 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 19:21      | You can't just buy some chips, put them in a box and send it out the door and hope it                  |
 | 19:25      | works.                                                                                                 |
 | 19:26      | There's more to it.                                                                                    |
-| 19:28      | And I would add about that cost element because a good example for me is Lutron Casetta because        |
+| 19:28      | And I would add about that cost element because a good example for me is [[Lutron]] Casetta because        |
 | 19:35      | I struggled with smart lights.                                                                         |
 | 19:37      | I tried the Hue route and in the early days, it was misery because your family would turn              |
 | 19:43      | off the switch and then all the automation would stop and it was expensive to buy all                  |
 | 19:47      | these bulbs, especially in the early days and it was obvious to me once I got my first                 |
-| 19:53      | Lutron Casetta that this is the solution for my house because the family can use them,                 |
+| 19:53      | [[Lutron]] Casetta that this is the solution for my house because the family can use them,                 |
 | 19:58      | no problem.                                                                                            |
 | 19:59      | I don't have to replace each individual bulb and they are just dead on reliable and they've            |
 | 20:05      | been that way for me since the beginning.                                                              |
@@ -362,7 +362,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 20:22      | dumb and we all do that, right, you get the bug like, I want to buy myself something.                  |
 | 20:27      | And over the course of about 18 months, I replaced every switch in the house that I                    |
 | 20:32      | needed.                                                                                                |
-| 20:33      | I don't really want to think about how much money I ultimately spent on Lutron switches,               |
+| 20:33      | I don't really want to think about how much money I ultimately spent on [[Lutron]] switches,               |
 | 20:38      | but I would guess it's probably $300 or $400 total.                                                    |
 | 20:41      | And that was five, six years ago and they're awesome and they still work.                              |
 | 20:47      | And when I hear a noise in the house at night, I push a button and the entire house lights             |
@@ -682,7 +682,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 43:39      | So it really, unless you're buying the least expensive product to just play with, I would              |
 | 43:46      | recommend going with the standardised products, looking for products from major manufacturers.         |
 | 43:52      | And if you go out online and read the reviews, you get a sense of who the big brands are,              |
-| 43:57      | who the big companies are, companies like Aqara, companies like Lutron, companies like                 |
+| 43:57      | who the big companies are, companies like Aqara, companies like [[Lutron]], companies like                 |
 | 44:03      | Ecobee or Ecobee for thermostats.                                                                      |
 | 44:06      | And there are maybe a dozen or so really high quality companies and it's growing.                      |
 | 44:13      | But if you stick to those brands, you're going to have less trouble.                                   |
@@ -703,10 +703,10 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 45:07      | I mean, when you're setting it up, Robert, what are the brands that you rely on?                       |
 | 45:12      | Sure.                                                                                                  |
 | 45:13      | Now, with all the usual disclaimers, et cetera, there are four wired switches.                         |
-| 45:18      | And dimmers, I always recommend Lutron.                                                                |
+| 45:18      | And dimmers, I always recommend [[Lutron]].                                                                |
 | 45:21      | They're my number one choice.                                                                          |
 | 45:23      | They're just so reliable.                                                                              |
-| 45:25      | The only complaint I hear on Lutron is the price, not anything else.                                   |
+| 45:25      | The only complaint I hear on [[Lutron]] is the price, not anything else.                                   |
 | 45:30      | For smart bulbs where you can't do wired switches or you have lamps and other reasons, you want        |
 | 45:36      | colour variation, you want tunable white, then Phillips Hue is my number one go-to brand                |
 | 45:43      | in that arena.                                                                                         |
@@ -732,7 +732,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 46:45      | it just gets rid of all the headaches.                                                                 |
 | 46:49      | The other area where I would recommend clearly a brand or two and that's motorised shades              |
 | 46:55      | and blinds.                                                                                            |
-| 46:57      | Once again, I'm a big fan of Lutron.                                                                   |
+| 46:57      | Once again, I'm a big fan of [[Lutron]].                                                                   |
 | 46:59      | The Serena is the consumer line.                                                                       |
 | 47:02      | Also Songfi, but you really have to go through a dealer for that.                                      |
 | 47:06      | And quite honestly, Hunter Douglas has been doing very well.                                           |
@@ -740,7 +740,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 47:15      | retail, not just through dealers.                                                                      |
 | 47:18      | But to be honest, the two issues with window coverings are aesthetics, the fabric choices              |
 | 47:24      | and the colours and the motors.                                                                         |
-| 47:27      | And the number one reason I choose Lutron is they are incredibly quiet and precision.                  |
+| 47:27      | And the number one reason I choose [[Lutron]] is they are incredibly quiet and precision.                  |
 | 47:34      | If you do a house where you have three or four or five blinds or shades, when they all                 |
 | 47:40      | completely go up and down, completely synchronised, they're not all at a half inch off of each         |
 | 47:45      | other.                                                                                                 |
@@ -758,7 +758,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 48:22      | They aren't the quietest, but they're certainly not loud.                                              |
 | 48:26      | And I also have some Aqara blind controllers and Aqara and SwitchBot curtain motors that               |
 | 48:32      | you can put onto like a curtain rail to move your curtains back and forth.                             |
-| 48:37      | And they all work very well, you know, obviously the Lutron ones and the Hunter Douglas ones           |
+| 48:37      | And they all work very well, you know, obviously the [[Lutron]] ones and the Hunter Douglas ones           |
 | 48:44      | would be lovely, but those aren't available over here in the UK, which meant that I was                |
 | 48:49      | limited to what I could get elsewhere.                                                                 |
 | 48:51      | And I've had the Aqara ones in particular, I really like they can deal with some very                  |
@@ -1057,7 +1057,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:09:43   | all the automations you've painfully built up over the years?                                          |
 | 01:09:47   | It's sadly necessary to become a nerd and document spreadsheets or notes.                              |
 | 01:09:53   | Write down what it's supposed to do, what you want it to do.                                           |
-| 01:09:57   | Now the good thing is if you use a hub, if you use Lutron or use Aqara, there's what                   |
+| 01:09:57   | Now the good thing is if you use a hub, if you use [[Lutron]] or use Aqara, there's what                   |
 | 01:10:02   | I call the number one magic trick of smart home.                                                       |
 | 01:10:06   | That's the first time you mess up and rebuild your system when you add the hub and all the             |
 | 01:10:12   | devices connected to the hub just populate and come right back into your system versus                 |
@@ -1201,7 +1201,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:20:26   | If you've ever used your earphones in a kitchen and you turn on the microwave oven, suddenly           |
 | 01:20:32   | all your audio drops out.                                                                              |
 | 01:20:35   | So the reason Zigbee that you mentioned and there are other standards, the Z-Wave is still             |
-| 01:20:41   | in use, although some people feel it may be dying, and Lutron and others, they use frequencies         |
+| 01:20:41   | in use, although some people feel it may be dying, and [[Lutron]] and others, they use frequencies         |
 | 01:20:48   | of the radio that are very different than Wi-Fi.                                                       |
 | 01:20:51   | So it's sort of at a physical level, it's like driving a car in a freeway.                             |
 | 01:20:56   | If you have a lane that's reserved for you to drive in, no [[Matter]] whether you're going                 |
@@ -1351,7 +1351,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:31:51   | to connect really well wherever you are in your home.                                                  |
 | 01:31:54   | I would say slightly differently along those lines.                                                    |
 | 01:31:58   | Instead of buying new Wi-Fi equipment, replace those smart home devices with non-Wi-Fi devices.        |
-| 01:32:05   | Get some Zigbee or get some Lutron or whatever Philips Hue for Zigbee lights.                          |
+| 01:32:05   | Get some Zigbee or get some [[Lutron]] or whatever Philips Hue for Zigbee lights.                          |
 | 01:32:11   | Put your budget into getting all your [[HomeKit]] or smart home devices off Wi-Fi as much as               |
 | 01:32:18   | possible.                                                                                              |
 | 01:32:20   | That's such an easy call.                                                                              |

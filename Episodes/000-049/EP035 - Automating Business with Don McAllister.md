@@ -1102,7 +1102,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:06:12   | settled down and got to grips with it. So yeah, I probably want to think a bit more                    |
 | 01:06:17   | about doing some home automation stuff rather than sort of Mac or iOS automation.                      |
 | 01:06:22   | Yeah, I've been in a lot of trouble for home automation, luckily, in my house. Yeah, because           |
-| 01:06:27   | we've we've switched, changed all the switches out to those Lutron Casetaa switches so I              |
+| 01:06:27   | we've we've switched, changed all the switches out to those [[Lutron]] Caseta switches so I              |
 | 01:06:32   | can automate anything. And I always had the idea. And my wife's like, I don't understand               |
 | 01:06:39   | in the middle of the night, sometimes all the lights in the house are turning on. What                 |
 | 01:06:43   | have you done to our house? Literally, the house was lighting up like, and what I realised             |
@@ -1142,8 +1142,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:09:28   | like sockets that you can replace the ones in your wall with, which I think is a much                  |
 | 01:09:32   | more standard user friendly approach because then you don't lose your current functionality,           |
 | 01:09:38   | you're just adding more functionality to it. Okay.                                                     |
-| 01:09:42   | And the Lutron stuff, in particular, Robert Spivack, who guested on MPU, he's kind of my                |
-| 01:09:46   | sensei on all this stuff. He told me, I didn't realise this, Lutron bought their own radio             |
+| 01:09:42   | And the [[Lutron]] stuff, in particular, Robert Spivack, who guested on MPU, he's kind of my                |
+| 01:09:46   | sensei on all this stuff. He told me, I didn't realise this, [[Lutron]] bought their own radio             |
 | 01:09:53   | bandwidth and as a result, those switches are on a different frequency than most and                   |
 | 01:10:01   | they've just been so rock solid. You do have to add another hub to your media closet.                  |
 | 01:10:08   | And it's one more thing you have to plug in, but man, they're solid. We have them all over             |

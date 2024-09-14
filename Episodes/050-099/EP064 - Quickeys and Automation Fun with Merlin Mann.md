@@ -987,8 +987,8 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 48:33      | And so I genuinely thought I'd done that.                                                                     |
 | 48:35      | And then I realised that I'd put the find robot vacuum button in there by accident.                           |
 | 48:39      | It was not light.                                                                                             |
-| 48:41      | So with all my lights, you know, because we have the Lutron Casetas, we went with switches                   |
-| 48:45      | instead of light bulbs, because I live in my house and I have one, one Lutron switch                          |
+| 48:41      | So with all my lights, you know, because we have the [[Lutron]] Casetas, we went with switches                   |
+| 48:45      | instead of light bulbs, because I live in my house and I have one, one [[Lutron]] switch                          |
 | 48:52      | in my side, you know, next to my bed there, if I push it, it turns all the lights on in                       |
 | 48:57      | the house.                                                                                                    |
 | 48:58      | So if you hear a noise at night, you know, except for the bedrooms, it turns the lights                       |
@@ -1020,7 +1020,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 50:03      | And if I end up getting divorced, it will be because of that.                                                 |
 | 50:09      | I recently, okay, so you see this here in my small automation area, but I had to mention                      |
 | 50:13      | this because this is exactly the kind of stupid brain I've got.                                               |
-| 50:17      | So we've got a Lutron cassette dimmer in our, we call it the nook, like a little like miniature               |
+| 50:17      | So we've got a [[Lutron]] Caseta dimmer in our, we call it the nook, like a little like miniature               |
 | 50:23      | dining room that's kind of also like where we build Lego and stuff like that.                                 |
 | 50:27      | But yeah, the nook, right?                                                                                    |
 | 50:28      | So we got the cassette and it's great.                                                                        |
@@ -1031,23 +1031,23 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 50:46      | see anything anymore.                                                                                         |
 | 50:47      | I need really bright light, three giant, beautiful, slightly dimmable, but not great LED lights               |
 | 50:54      | in the overhead.                                                                                              |
-| 50:55      | Casetaa works great for that.                                                                                |
+| 50:55      | Caseta works great for that.                                                                                |
 | 50:56      | But you know what, I also wanted to have my wife likes to hang out there and drink coffee                     |
 | 50:59      | in the morning with not bright lights.                                                                        |
 | 51:01      | So I put a Hue light in a small lamp and it's nice and warm and beautiful, but they can't                     |
-| 51:08      | really talk to each other because the Lutron, you know what I mean?                                           |
+| 51:08      | really talk to each other because the [[Lutron]], you know what I mean?                                           |
 | 51:11      | They're kind of in different ecosystems.                                                                      |
 | 51:13      | So you know what I finally did?                                                                               |
 | 51:14      | I think I did this in Home Plus.                                                                              |
 | 51:15      | I don't even remember.                                                                                        |
 | 51:16      | I did the most boneheaded thing.                                                                              |
-| 51:18      | So the thing is you hit the Casetaa, well, the other light's still on.                                       |
-| 51:21      | You turn the other light off, the Casetaa's still on.                                                        |
-| 51:24      | So I set it so the Hue bulb is watching the Casetaa setting and if the overhead light                        |
+| 51:18      | So the thing is you hit the Caseta, well, the other light's still on.                                       |
+| 51:21      | You turn the other light off, the Caseta's still on.                                                        |
+| 51:24      | So I set it so the Hue bulb is watching the Caseta setting and if the overhead light                        |
 | 51:32      | is all the way off, it turns itself off.                                                                      |
 | 51:36      | If the overhead light is on at all, it turns itself on.                                                       |
 | 51:39      | So that was my hack.                                                                                          |
-| 51:40      | That was my solution is when I hit the Casetaa, now some other system is monitoring the status               |
+| 51:40      | That was my solution is when I hit the Caseta, now some other system is monitoring the status               |
 | 51:45      | of that overhead light and Rose, I'm sure you could tell me a more efficient way to                           |
 | 51:48      | do that.                                                                                                      |
 | 51:49      | But that's the kind of thing where I end up spending time is like, how do I make this                         |

@@ -1104,7 +1104,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 57:16      | to do a lot more.                                                                                    |
 | 57:18      | But for me, I find that actually, you know, the Automator level is probably fine for most            |
 | 57:24      | of the home automation I do, but I do have the ability to like, and the game changer                 |
-| 57:30      | for me with the lighting was the Lutron Casetaa switches, which requires you to rewire your         |
+| 57:30      | for me with the lighting was the [[Lutron]] Caseta switches, which requires you to rewire your         |
 | 57:37      | house.                                                                                               |
 | 57:38      | Yes.                                                                                                 |
 | 57:39      | But automation for lighting in the light bulb is far inferior to automation handled at the           |

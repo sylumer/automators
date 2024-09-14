@@ -601,8 +601,8 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 41:16      | of like getting work done, which is important and is great and makes you feel good when you're          |
 | 41:19      | efficient. But [[HomeKit]] is like where I love to have fun with automation. And this is the one            |
 | 41:24      | that sort of brings a smile on my face more. I love doing it. One of the big [[HomeKit]] things             |
-| 41:30      | that I have in my house are the Lutron lights that anyone who's listened to this podcast has            |
-| 41:34      | heard. People talk about a million times, but I love the Lutron system because they work really         |
+| 41:30      | that I have in my house are the [[Lutron]] lights that anyone who's listened to this podcast has            |
+| 41:34      | heard. People talk about a million times, but I love the [[Lutron]] system because they work really         |
 | 41:38      | well. They're incredibly dependable. And so, you know, of course, the first thing that I ever did       |
 | 41:43      | when I set them up is to have the lights in the front of my house, you know, come on at sunset          |
 | 41:49      | or you can put a certain amount of time before or after that and then go off at sunrise. And,           |
@@ -731,9 +731,9 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 51:49      | No. I mean, it's just adding to things over time. You know, David, you had said something,              |
 | 51:53      | I think it was on an automator a very long time ago, or maybe it was pack power users,                  |
 | 51:57      | that you started off with [[HomeKit]] just by getting that first, I think for you, just like me, it was     |
-| 52:01      | that first Lutron switch, and then you add to it over time, and then now you get another one,           |
+| 52:01      | that first [[Lutron]] switch, and then you add to it over time, and then now you get another one,           |
 | 52:06      | now you get another one. And then the same has been true for me. When I first bought my first           |
-| 52:11      | Lutron device, [[HomeKit]] had not even been inventid yet. I think that was in 2015 when it came out.       |
+| 52:11      | [[Lutron]] device, [[HomeKit]] had not even been inventid yet. I think that was in 2015 when it came out.       |
 | 52:16      | But then it became [[HomeKit]] compatible, and then I added more and more, and you know,                    |
 | 52:21      | through Eve devices or other devices that I have, I mean, they have just slowly started to accumulate   |
 | 52:26      | in my house. And I'm not in the same situation where y'all are with all of your water sensors and       |

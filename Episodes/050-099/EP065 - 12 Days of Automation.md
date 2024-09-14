@@ -209,7 +209,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 08:19      | savvy with this stuff.                                                                                   |
 | 08:21      | There's a big button there, it says turn trees on, and she taps it, and the trees go on.                 |
 | 08:26      | And interestingly, historically, I've done these where I would attach it to a switch,                    |
-| 08:30      | like I would use one of our Lutron cassettes, because Lutron makes the thing you can plug                |
+| 08:30      | like I would use one of our [[Lutron]] Caseta, because [[Lutron]] makes the thing you can plug                |
 | 08:36      | into the wall and plug lights into it.                                                                   |
 | 08:39      | I'm not doing that this year.                                                                            |
 | 08:40      | Just for giggles, I decided, what if I did it this year, where there was no physical                     |

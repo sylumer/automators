@@ -327,18 +327,18 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 15:03      | Yeah.                                                                                             |
 | 15:04      | Yeah.                                                                                             |
 | 15:05      | Well, anyway, so wall switches, I'm glad you found a solution.                                    |
-| 15:08      | And we talked about this and that power users years ago, but I discovered the Lutron Casetaa     |
+| 15:08      | And we talked about this and that power users years ago, but I discovered the [[Lutron]] Caseta     |
 | 15:13      | system and I have never looked back and it took me like a year to kind of get them where          |
 | 15:19      | I wanted in the house.                                                                            |
 | 15:20      | But at this point, all the lights in the house that I really want to control with automation,     |
-| 15:25      | including the bathroom lights are on a Lutron Casetaa and it's amazing because it solves         |
+| 15:25      | including the bathroom lights are on a [[Lutron]] Caseta and it's amazing because it solves         |
 | 15:30      | two problems.                                                                                     |
 | 15:31      | Number one is it is rock solid.                                                                   |
 | 15:34      | You push the button on your phone or whatever and the lights just go on a friend of mine,         |
 | 15:39      | Bob Spivack, who was a guest on MPU at one point and like does this commercially, was              |
 | 15:44      | telling me that they have their own bandwidth and I don't know what the whole story is behind     |
 | 15:48      | that.                                                                                             |
-| 15:49      | But whatever the radio signal for these Lutron Casetaas is a great.                              |
+| 15:49      | But whatever the radio signal for these [[Lutron]] Casetas is a great.                              |
 | 15:53      | Zigbee.                                                                                           |
 | 15:54      | Yeah.                                                                                             |
 | 15:55      | You have to get your own base unit forward, but you buy that with the first switch and            |
@@ -876,7 +876,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 45:37      | to go.                                                                                            |
 | 45:38      | Yeah.                                                                                             |
 | 45:39      | The switches are really handy and I'm a big fan of, one other switch I have is I have             |
-| 45:45      | a Lutron Casetaa switch.                                                                         |
+| 45:45      | a [[Lutron]] Caseta switch.                                                                         |
 | 45:47      | Most of them are off on and dim, but they've also got one that's just off and on.                 |
 | 45:53      | And I installed that next to the door, the front door of the house.                               |
 | 45:58      | And if you press the top button, it lights up all of the lights in the house except the           |

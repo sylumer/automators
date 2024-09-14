@@ -751,7 +751,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 45:07      | because most people have seasonal and holiday lighting that they would like to turn on and          |
 | 45:11      | off at certain times, like on its sunset and off at 10pm or something like that, so a smart         |
 | 45:17      | plug can be a great gift for somebody like that a little earlier in the holiday season.             |
-| 45:22      | One of the best gifts you can give somebody in the United States is a Lutron Casetaa               |
+| 45:22      | One of the best gifts you can give somebody in the United States is a [[Lutron]] Caseta               |
 | 45:25      | switch because you have to install it for them or get an electrician if they don't                  |
 | 45:30      | know what they're doing with the wall switches, but boy, that's an automation that immediately      |
 | 45:35      | takes for people, but I want to go back also to, I have something for you.                          |

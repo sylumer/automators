@@ -972,7 +972,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:07:29   | find a better version of that that's controlled by a Zigbee or something that people can actually       |
 | 01:07:35   | use and rely on to work instantly when they want to do stuff. I mean, it's only going to be relatively  |
 | 01:07:40   | instantly because there's the arm that has to come out and press the button versus something            |
-| 01:07:45   | like a Lutron Casetas, which obviously is going to be pretty much instant. But I mean,                 |
+| 01:07:45   | like a [[Lutron]] Casetas, which obviously is going to be pretty much instant. But I mean,                 |
 | 01:07:50   | it's a great tool. I just wish that I knew of some better options than that. It is pretty good.         |
 | 01:07:56   | And if you use Homebridge, you can get it into [[HomeKit]] as well. They write their own Homebridge         |
 | 01:08:00   | plugin, but it is unfortunately Bluetooth. I have a question for you too as automators.                 |
@@ -1021,7 +1021,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:11:28   | the, you know, when I first started playing with the stuff, I was trying to use the smart               |
 | 01:11:32   | light bulbs, but then they would turn off the switch and the light bulb would stop working              |
 | 01:11:37   | and I'd be unhappy and they'd be unhappy because sometimes they would flip the switch and the           |
-| 01:11:42   | light wouldn't go off and on. And that's what led me down the road to the Lutron Casetaa               |
+| 01:11:42   | light wouldn't go off and on. And that's what led me down the road to the [[Lutron]] Caseta               |
 | 01:11:48   | switches. So now they can turn the switch off or on and I can also control the automation. And          |
 | 01:11:54   | you want to be as transparent as possible, but you really do have to have a conversation like,          |
 | 01:11:58   | look, hey, I really love you and you love me. Living with me means occasionally things are              |

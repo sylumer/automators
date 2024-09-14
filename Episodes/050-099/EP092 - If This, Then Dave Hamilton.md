@@ -614,9 +614,9 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 22:36      | automation stuff I bring in, making sure there's like an analog method.                                                                                                  |
 | 22:40      | Like I'm really a big fan of the, the switches, you know, where you put the switches in.                                                                                 |
 | 22:45      | I use the, why am I forgetting the new...                                                                                                                                |
-| 22:49      | Lutron Casetaa.                                                                                                                                                         |
-| 22:50      | Yes, Lutron Casetaa.                                                                                                                                                    |
-| 22:51      | I use the Lutron Casetaa switches.                                                                                                                                      |
+| 22:49      | [[Lutron]] Caseta.                                                                                                                                                         |
+| 22:50      | Yes, [[Lutron]] Caseta.                                                                                                                                                    |
+| 22:51      | I use the [[Lutron]] Caseta switches.                                                                                                                                      |
 | 22:53      | So they can still hit the switch on the wall and lights go off and on,                                                                                                   |
 | 22:56      | but I can still control them as well.                                                                                                                                    |
 | 22:58      | And, you know, same thing, we did a front door lock and I got one that has a key in it                                                                                   |

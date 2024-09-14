@@ -550,9 +550,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 36:15      | wanted to make better automation. So I talk about the Hue lights and I still have a few                  |
 | 36:21      | of those in lamps, you know, where we have lamps that are connected to walls. They still                 |
 | 36:26      | are the best solution for that. But I also had some of the ceiling ones. I sold those                    |
-| 36:31      | to a friend and I started replacing the wall switches with the Lutron Casetaa wall switches.            |
+| 36:31      | to a friend and I started replacing the wall switches with the [[Lutron]] Caseta wall switches.            |
 | 36:39      | And I was talking to a friend of mine, Robert Spivack, who was a guest on MPU, I don't know,              |
-| 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that Lutron             |
+| 36:46      | over a year ago, I guess he's a home automation guy. And he was explaining to me that [[Lutron]]             |
 | 36:51      | has purchased its own space in the broadcast spectrum. You know, one of the big issues                   |
 | 36:58      | with all this home automation stuff, just another related conversation I had last week                   |
 | 37:03      | in San Jose when we were at [[WWDC]] was I talked to someone on one of the platforms, not Home               |
@@ -562,7 +562,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 37:22      | on. And while one may work, once you have five, they're all conflicting with each other                  |
 | 37:27      | in that same spectrum. And that makes communication difficult. And that's one of the primary challenges  |
 | 37:34      | that people that make this stuff face.                                                                   |
-| 37:35      | Definitely, yes. So Lutron, for me, has always been the exception. They just work. I mean,               |
+| 37:35      | Definitely, yes. So [[Lutron]], for me, has always been the exception. They just work. I mean,               |
 | 37:41      | they do, they do have a base unit that you get when you buy your first one. And I think                  |
 | 37:45      | that's a key component. But I've got these things now in almost every, every major switch                |
 | 37:52      | in the house. And, you know, I keep adding them every time I have money to burn and I                    |
@@ -573,14 +573,14 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 38:16      | just not cutting the power off to the smart device like you do with a Hue light. The other               |
 | 38:21      | thing is nice is there's different kinds of switches. You had talked about how you have                  |
 | 38:25      | the button at your door that you can turn everything off with. I have one as well. And                   |
-| 38:30      | it's a Lutron switch that can, if you press the top button, it lights up almost the entire               |
+| 38:30      | it's a [[Lutron]] switch that can, if you press the top button, it lights up almost the entire               |
 | 38:37      | house. And if you press the bottom one, it turns off every light in the house. So if                     |
 | 38:42      | you're showing up late at night and you're uncomfortable or you hear a noise, whatever,                  |
 | 38:46      | you press that button in the house, lights up like a Christmas tree. It just goes up                     |
 | 38:50      | everywhere. But at the same time, as you're walking out the door, if you're like, oh,                    |
 | 38:53      | I'm not sure if I turned off the light, you just press the bottom button and all the lights              |
 | 38:57      | get turned off when you leave. And it's great, right?                                                    |
-| 39:00      | I love that. If there were Lutron cassettes, which is available in Europe, then I would                  |
+| 39:00      | I love that. If there were [[Lutron]] Casetas, which is available in Europe, then I would                  |
 | 39:05      | have actually probably got those instead of the Phillips Hue because they are much more                  |
 | 39:11      | friendly to other people. And you do have the advantage of the ability to just turn                      |
 | 39:18      | it off with a button without replacing your light bulbs.                                                 |

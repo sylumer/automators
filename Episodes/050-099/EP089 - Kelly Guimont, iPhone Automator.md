@@ -993,7 +993,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:22:04   | automation. Maybe it should be titled the time I nearly got divorced or something. Even if you're        |
 | 01:22:15   | not married to your partner, I can imagine them being angry enough that that might be the                |
 | 01:22:21   | considered solution to their problems at that moment in time with some of the issues that                |
-| 01:22:26   | people encounter. In my bedside table, I have a Lutron switch, which is like the Panic switch.           |
+| 01:22:26   | people encounter. In my bedside table, I have a [[Lutron]] switch, which is like the Panic switch.           |
 | 01:22:32   | If I push it, it turns all the lights in the house on. Like at night, if you hear a noise,               |
 | 01:22:38   | I just reach over and push that button. But I also program it that if you long press it,                 |
 | 01:22:44   | it turns all the lights off in the house. And I have to do a thing with my eyes at nights.               |

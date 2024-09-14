@@ -123,7 +123,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 03:05      | And I'm doing that even more in this new place.                                                           |
 | 03:07      | So I've been deep into the Philips Hue stuff for a while.                                                 |
 | 03:12      | I am going to stick on the Philips Hue train for now until I kind of see what's happening                 |
-| 03:18      | with Lutron Casetta and what's going to happen with all that [[Matter]] stuff, is it going to                 |
+| 03:18      | with [[Lutron]] Casetta and what's going to happen with all that [[Matter]] stuff, is it going to                 |
 | 03:25      | matter?                                                                                                   |
 | 03:26      | But I'm sorry, I'm so sorry.                                                                              |
 | 03:28      | You just lost half your audience there.                                                                   |
@@ -670,7 +670,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 35:02      | Yeah.                                                                                                     |
 | 35:03      | What about lights and switches?                                                                           |
 | 35:04      | I mean, you said you said you're going to keep your light bulbs, your smart light bulbs.                  |
-| 35:10      | Now that you've got space, I would recommend looking into Lutron, I mean, it's such a game                |
+| 35:10      | Now that you've got space, I would recommend looking into [[Lutron]], I mean, it's such a game                |
 | 35:15      | changer for home automation.                                                                              |
 | 35:17      | Can you use those in combination of smart bulbs or do you have to buy like special ones                   |
 | 35:21      | to use with smart bulbs?                                                                                  |
@@ -684,14 +684,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 35:55      | the big kicker for me.                                                                                    |
 | 35:57      | I think like if you like you were saying Rose, like if you turn off a light switch and the                |
 | 36:03      | smart bulbs is connected to that, you're going to have a whole bunch of error issues.                     |
-| 36:07      | But what I would ultimately love to be all in on Lutron Caseta, I've heard nothing but                    |
+| 36:07      | But what I would ultimately love to be all in on [[Lutron]] Caseta, I've heard nothing but                    |
 | 36:13      | good things from all the podcasters, all the friends, everyone that's gone in on it.                      |
 | 36:18      | I've never heard anyone say anything bad about it, it is a little pricey to get in and stuff              |
 | 36:23      | like that, which, you know, all this stuff adds up, but the nice thing is it's just once                  |
 | 36:30      | it's in, it's there and it's reliable.                                                                    |
 | 36:34      | So I think for now, I ordered a couple extra Hue bulbs just so I could get up and running,                |
 | 36:40      | but I am kind of waiting to see how all the [[Matter]] stuff shakes out because not only do                   |
-| 36:44      | I want to go in for Lutron Caseta for the lights, but I also want to go in with Lutron                    |
+| 36:44      | I want to go in for [[Lutron]] Caseta for the lights, but I also want to go in with [[Lutron]]                    |
 | 36:49      | Caseta for the blinds as well, like I want to, the place that I'm moving into just has                    |
 | 36:55      | dumb pole blinds, you know, the metal blinds that you see in most American homes.                         |
 | 37:01      | I don't know, you know, outside of America what they are, but American homes are like                     |
@@ -703,10 +703,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 37:20      | So if there's somewhere where you can't get like a blind, a smart blind to fit that space,                |
 | 37:24      | but you can get a blind that you like the look of, then you could always just add a                       |
 | 37:27      | smart controller to that, to work around it, not being so smart.                                          |
-| 37:32      | I also, by the way, just to backtrack a little bit, just found if you don't go in on Lutron               |
-| 37:36      | Caseta, you go in on Lutron Aurora, those control smart bulbs, they are smart bulb dimmers.               |
+| 37:32      | I also, by the way, just to backtrack a little bit, just found if you don't go in on [[Lutron]]               |
+| 37:36      | Caseta, you go in on [[Lutron]] Aurora, those control smart bulbs, they are smart bulb dimmers.               |
 | 37:42      | And I'll put a link to those in the show notes for folks so that you can have a look at them.             |
-| 37:47      | Because I knew that Lutron did something for smart bulbs, and so I've just found it on                    |
+| 37:47      | Because I knew that [[Lutron]] did something for smart bulbs, and so I've just found it on                    |
 | 37:52      | their website, which is, I think, useful to know because, yeah, if you want, if you want                  |
 | 37:58      | like things like changing white colours or changing colours, then you're going to want                      |
 | 38:04      | a smart bulb, but you don't want to be killing the power to those.                                        |

@@ -1232,9 +1232,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:10:53   | they turn off and on.                                                                                |
 | 01:10:55   | And the trick is just finding a solution for them.                                                   |
 | 01:10:59   | And I really think one of the best ways to do it, if you have the ability and if they                |
-| 01:11:03   | live in circumstances where you can, is getting someone like a switch, get a Lutron Casetaa         |
+| 01:11:03   | live in circumstances where you can, is getting someone like a switch, get a [[Lutron]] Caseta         |
 | 01:11:12   | switch and maybe like a door trigger.                                                                |
-| 01:11:16   | I feel like, so you're in for under a hundred bucks to have one Lutron switch and a door             |
+| 01:11:16   | I feel like, so you're in for under a hundred bucks to have one [[Lutron]] switch and a door             |
 | 01:11:22   | trigger.                                                                                             |
 | 01:11:23   | And that way they've got the ability to turn the light off and on as they always did.                |
 | 01:11:29   | So you're not taking away anything.                                                                  |
@@ -1245,7 +1245,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:11:46   | And I think, you know, if you can do something like that, I think you're good.                       |
 | 01:11:50   | And but it seems to me like lights are kind of the entry point for this stuff.                       |
 | 01:11:55   | Yeah.                                                                                                |
-| 01:11:56   | The only thing I'll say about something like the Lutron Casetaa is that's kind of light             |
+| 01:11:56   | The only thing I'll say about something like the [[Lutron]] Caseta is that's kind of light             |
 | 01:11:59   | switch that you install in a wall.                                                                   |
 | 01:12:02   | And so if you're going to do that, you probably want to install it yourself.                         |
 | 01:12:05   | Oh yeah.                                                                                             |

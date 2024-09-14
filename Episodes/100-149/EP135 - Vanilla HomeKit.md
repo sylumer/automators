@@ -581,7 +581,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 32:24      | But you'll find some things which basically kind of only exist as Wi-Fi.                                  |
 | 32:28      | And that's fine.                                                                                          |
 | 32:29      | But if you've got the choice of, you know, something that has a hub.                                      |
-| 32:33      | So for example, David, you're a big fan of the Lutron Caseta light switches, and those                    |
+| 32:33      | So for example, David, you're a big fan of the [[Lutron]] Caseta light switches, and those                    |
 | 32:39      | come with a hub.                                                                                          |
 | 32:40      | And so all of your light switches just connect to one hub, and then that just works.                      |
 | 32:45      | And that's going to be a lot less painful on your network.                                                |
@@ -595,12 +595,12 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 33:11      | And then there's one connection between that and home kit, essentially, which is to the                   |
 | 33:16      | internet, then the better.                                                                                |
 | 33:18      | Yeah, exactly.                                                                                            |
-| 33:19      | And that's why Lutron was such a big win for me.                                                          |
+| 33:19      | And that's why [[Lutron]] was such a big win for me.                                                          |
 | 33:22      | I didn't even really realise why I liked it so much until my friend Robert said, oh,                      |
 | 33:29      | no, they've got their own bandwidth.                                                                      |
 | 33:32      | It's just rock solid because, you know, they're on that, that hub, and it just, that solved               |
 | 33:38      | the problem.                                                                                              |
-| 33:39      | And that's why everybody who discovers Lutron is like, oh, these are the greatest lights                  |
+| 33:39      | And that's why everybody who discovers [[Lutron]] is like, oh, these are the greatest lights                  |
 | 33:42      | in the world.                                                                                             |
 | 33:43      | They just turn on when you push the button, and that's what you want, right?                              |
 | 33:47      | But that, that, so that's a part of home kit.                                                             |
@@ -634,7 +634,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 35:31      | You're going to drive yourself crazy.                                                                     |
 | 35:33      | Also let's talk for a minute about third party apps, because as you get into the home kit                 |
 | 35:39      | world, one of the things they'll be surprised to learn is that all of these vendors that                  |
-| 35:43      | make the things, Lutron as an example, they have apps, but then you have the home kit                     |
+| 35:43      | make the things, [[Lutron]] as an example, they have apps, but then you have the home kit                     |
 | 35:48      | app and the pairing process happens in the home kit app.                                                  |
 | 35:52      | You don't really go into the third party app to make all this work, but then you still                    |
 | 35:57      | kind of need it.                                                                                          |
@@ -642,7 +642,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 36:03      | party apps and where you use them and don't use them?                                                     |
 | 36:06      | Yeah, basically my personal opinion on third party apps for things like this, and Apple                   |
 | 36:10      | are really working hard to bring things like updates to devices into home kits so that                    |
-| 36:15      | you don't need to use, for example, the Hue app or the Lutron app to update stuff.                        |
+| 36:15      | you don't need to use, for example, the Hue app or the [[Lutron]] app to update stuff.                        |
 | 36:18      | You can do it through home kit.                                                                           |
 | 36:20      | It's not 100% there yet.                                                                                  |
 | 36:21      | So you may slash probably will need the third party app for these things.                                 |
@@ -933,7 +933,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 57:50      | is the sensors because it's expensive some sensors are like $50 just to buy a single sensor and           |
 | 57:56      | they're just so much less expensive and they work rock solid with the car just get yourself a hub         |
 | 58:02      | and if you want to add sensors throughout your house you're going to save yourself a ton of money         |
-| 58:05      | another vendor that we have talked about you know is my Lutron Casetaa only in the US as far as I        |
+| 58:05      | another vendor that we have talked about you know is my [[Lutron]] Caseta only in the US as far as I        |
 | 58:11      | understand not in Europe but boy if you want a great light solution in fact I've talked about             |
 | 58:17      | this a bunch on the automators podcast in the past I'm not going to dwell on it but you replace           |
 | 58:21      | the switches and that's the trick with lights if you put automated switches in the wall then all          |
@@ -942,11 +942,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 58:38      | know the muggles for lack of a better word in your house they just want to hit the switch and             |
 | 58:43      | turn the light off and on and those still do so nothing changes the light switch still works              |
 | 58:48      | but it does also automation friendly so I think if you are in the US at least and you want to             |
-| 58:54      | really just get a great home kit experience by the Lutron Casetaa switches they're expensive             |
+| 58:54      | really just get a great home kit experience by the [[Lutron]] Caseta switches they're expensive             |
 | 59:01      | don't buy them all at once I think I've got them in every key switch in my house but it took me           |
 | 59:07      | about a year and every month I would go buy another one and switch it out and eventually I had it         |
 | 59:11      | everywhere I needed it but they're they're awesome do you have a switch recommendation that's not         |
-| 59:17      | Lutron? So I did try Lightwave, Lightwave RF over here in the UK despite the name including RF            |
+| 59:17      | [[Lutron]]? So I did try Lightwave, Lightwave RF over here in the UK despite the name including RF            |
 | 59:25      | they are not using radio frequency in the sense of you know like old-fashioned radio frequency            |
 | 59:30      | they're using Z-Wave or Z-Wave depending on your pronunciation I say I tried because the                  |
 | 59:37      | switches are required the the lights to be dimmable and the light that I was trying was not               |

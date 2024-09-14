@@ -266,13 +266,13 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 15:28      | the term for it. But anyways, one of these paddle switches, it's like a dollar, literally                |
 | 15:31      | a dollar. You know, they're not, they're not particularly complicated or fancy things                    |
 | 15:36      | to just for the regular ones, but there were a handful of places that I wanted to put in                 |
-| 15:41      | Caseta switches. And did you know folks, Lutron is so good. It's so freaking good. It is so              |
+| 15:41      | Caseta switches. And did you know folks, [[Lutron]] is so good. It's so freaking good. It is so              |
 | 15:48      | expensive because it's like literally $70 a switch for one of these switches, but it                     |
 | 15:54      | never, ever fails, ever. And I think part of the reason that that's the case is because                  |
 | 16:02      | the Caseta stuff is all in, I guess, David jumping when you're ready here, but the Caseta                |
 | 16:05      | stuff is all on its own, like private proprietary radio network. And there's a bridge to bridge          |
 | 16:11      | you to [[HomeKit]] and the, you know, the IP network. But whenever you do anything with                      |
-| 16:18      | the Lutron stuff, it's communicating between the different devices with RF and it is just                |
+| 16:18      | the [[Lutron]] stuff, it's communicating between the different devices with RF and it is just                |
 | 16:24      | rock solid. And we only put in a handful of these switches, but they're amazing.                         |
 | 16:28      | Yeah. I mean, and that's the trick with them is start small and just slowly grow it. I                   |
 | 16:34      | mean, it took me like two years to fill up my house with them. And there are still plugs                 |
@@ -301,11 +301,11 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from Aqara.                 |
 | 18:40      | And some days it works. And some days it doesn't. And that's the kind of thing that makes you,           |
 | 18:45      | you know, want to throw a brick through a window because it's like, well, what? Absolutely.              |
-| 18:48      | Why is it not working? That never happens with Lutron. You push the button on your phone                 |
+| 18:48      | Why is it not working? That never happens with [[Lutron]]. You push the button on your phone                 |
 | 18:54      | or you put it in your shortcut and it lights up. I have some buttons here on my stream                   |
 | 18:59      | deck and cause I've got a little studio and I push one button in the room rigs itself                    |
 | 19:03      | for work lighting. I push another button, the room rigs itself for video lighting and,                   |
-| 19:08      | and that's all Lutron Casetaa based and it has not failed a single time. And that's                     |
+| 19:08      | and that's all [[Lutron]] Caseta based and it has not failed a single time. And that's                     |
 | 19:13      | why you pay the money for it, Casey. And my advice is just buy some more, but just do                    |
 | 19:17      | it over time. You know, you'll be fine. I bet it's cheaper than your dad's X10 was.                      |
 | 19:22      | Probably yeah. That's probably true. And, you know, the thing with Caseta is not only                    |
@@ -322,7 +322,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 20:13      | a hundred percent right, but I was close. And so in part of that process, that's when                    |
 | 20:17      | I put in the Caseta stuff. And, and I'm so glad I did because even though I only put                     |
 | 20:21      | it in a handful of places, it really has worked out well. And just a final note on this, not             |
-| 20:26      | an ad ad for Lutron. One of the things I love so much about it as compared to like a smart               |
+| 20:26      | an ad ad for [[Lutron]]. One of the things I love so much about it as compared to like a smart               |
 | 20:31      | bulb is that it is still a physical switch. It is both a dumb switch and a smart switch.                 |
 | 20:38      | So asking my family who could not really care less about any of this to roll with my ridiculous          |
 | 20:44      | idea for smart switches is much easier when there's a physical switch that will always                   |
@@ -341,7 +341,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 21:49      | and then you have to pull out your phone, but your phone's on charge in the other room.                  |
 | 21:52      | So you have to go back to the other room to get your phone to turn on the light. And yeah,               |
 | 21:56      | that's never going to be a good experience ever. So yeah, this is definitely the way                     |
-| 22:00      | to win. Sadly, as David mentioned, we can't get Lutron Crusader over here in the UK. Lutron              |
+| 22:00      | to win. Sadly, as David mentioned, we can't get [[Lutron]] Crusader over here in the UK. [[Lutron]]              |
 | 22:05      | do have a few options, but there are lots of other options for us, including some that                   |
 | 22:10      | are available in the US. Aqara, A-Q-A-R-A have a bunch of smart switches. And I have                     |
 | 22:15      | one in my kitchen and one of the things I love about this is it is a bounce switch.                      |
@@ -366,7 +366,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 23:38      | Yeah. Well, I've popped a link to the Aqara ones in the show notes for folks in case anyone              |
 | 23:42      | is curious. And I've also shared that with David and Casey as well. So hopefully you                     |
 | 23:47      | might find a solution there.                                                                             |
-| 23:49      | And just to finish the loop on Lutron, the new switches are much more attractive. And                    |
+| 23:49      | And just to finish the loop on [[Lutron]], the new switches are much more attractive. And                    |
 | 23:54      | if you're working with your family where you don't have necessarily buy in on automation                 |
 | 24:00      | of these, the new ones look even more just like your typical switch. Whereas the old                     |
 | 24:04      | ones were kind of a button you had to push, but there is a limit to my madness. I will                   |
@@ -421,7 +421,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 27:56      | doing. So some of this stuff maybe won't make sense to anyone else but my family, but I                  |
 | 28:02      | think maybe talking about it will hopefully give people some ideas. So the initial stuff                 |
 | 28:08      | was like, oh, when it's kiddo bedtime, turn their overhead fans on, which are either                     |
-| 28:12      | on Lutron or Wiimos switches. So whatever time this normal bedtime, turn their overhead                  |
+| 28:12      | on [[Lutron]] or Wiimos switches. So whatever time this normal bedtime, turn their overhead                  |
 | 28:16      | fans on. Not a big deal. But then, I think it was last year, what we fell into for a                     |
 | 28:23      | routine was that Erin would wake up somewhere around six o'clock, give or take a smidge,                 |
 | 28:29      | and go downstairs by herself and have a cup of coffee and get kiddo lunches ready and                    |

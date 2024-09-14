@@ -346,7 +346,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 17:28      | and don't really care about a lot of that stuff.                                                          |
 | 17:31      | Excellent.                                                                                                |
 | 17:32      | So I've always had to like kind of reign myself in a little bit.                                          |
-| 17:36      | You know, that's one of the reasons why the Lutron Casetaa switches were such a win                      |
+| 17:36      | You know, that's one of the reasons why the [[Lutron]] Caseta switches were such a win                      |
 | 17:39      | for me because, you know, my wife and kids could still turn the lights off and on without                 |
 | 17:44      | an, without an app, right?                                                                                |
 | 17:47      | But it occurs to me Rose that this room is my room.                                                       |
@@ -462,10 +462,10 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 24:03      | the studio.                                                                                               |
 | 24:04      | That's not really lighting.                                                                               |
 | 24:05      | But so there's a four switch like thing as you walk in.                                                   |
-| 24:10      | The only thing I've done so far in terms of automation is I bought four Lutron Casetaa                   |
+| 24:10      | The only thing I've done so far in terms of automation is I bought four [[Lutron]] Caseta                   |
 | 24:16      | switches for that hurt.                                                                                   |
 | 24:18      | Those are expensive, but they're all completely controllable through apps and automation and              |
-| 24:24      | everything because they're all Lutron Casetaa.                                                           |
+| 24:24      | everything because they're all [[Lutron]] Caseta.                                                           |
 | 24:26      | Yes.                                                                                                      |
 | 24:27      | And I think, I mean, the really good thing about that as well is it's then consistent                     |
 | 24:32      | with the rest of your house, right?                                                                       |
@@ -476,14 +476,14 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 24:50      | or looking for you and they need to turn on a light, they're going to know how to do it.                  |
 | 24:56      | And there's definitely something to be said there for the consistency of selling of that.                 |
 | 25:02      | So those are also dimmable, right?                                                                        |
-| 25:05      | Those Lutron Caseta.                                                                                     |
+| 25:05      | Those [[Lutron]] Caseta.                                                                                     |
 | 25:06      | Yeah, they have two different versions.                                                                   |
 | 25:08      | I got dimmables.                                                                                          |
 | 25:09      | Nice.                                                                                                     |
 | 25:10      | Okay.                                                                                                     |
 | 25:11      | Well, that is a great start because you've already got the lighting and you've got the                    |
 | 25:13      | ability to control that.                                                                                  |
-| 25:14      | And you're going to be able to use the Lutron Casetaa with whatever solutions you end up                 |
+| 25:14      | And you're going to be able to use the [[Lutron]] Caseta with whatever solutions you end up                 |
 | 25:19      | looking at because I think for me, one of the things that has worked incredibly well                      |
 | 25:24      | for my home automation when it comes to recording podcasts and video is being able to tie the             |
 | 25:31      | automation of things like the lights into the other context switching that I do because                   |
@@ -1398,7 +1398,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:40   | checked, I'm just going to go to the [[Home Assistant]] website a second, which is homeassistant.io           |
 | 01:22:44   | Home Dash Assistant, it is 2,176 integrations in [[Home Assistant]].                                          |
 | 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct Zigbee                    |
-| 01:23:01   | and Z-Wave integrations, Ring Doorbell, Lutron, and Leviton, for example, but it also integrates          |
+| 01:23:01   | and Z-Wave integrations, Ring Doorbell, [[Lutron]], and Leviton, for example, but it also integrates          |
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |
 | 01:23:23   | company to tell you how much energy you're using, and of course, it's got [[HomeKit]] support                 |
