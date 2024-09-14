@@ -582,7 +582,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 46:43      | offer is search Google for, and then you hit return. And then you type your search, you know,            |
 | 46:48      | automators podcast, and then it goes off and does a search of automators podcast on Google for you.      |
 | 46:54      | But there's so much more because, you know, everybody does Google searches, but why not                  |
-| 46:59      | target your search? Like, you want to search in Google Maps or Apple Maps, or you want to translate.     |
+| 46:59      | target your search? Like, you want to search in Google Maps or [[Apple Maps]], or you want to translate.     |
 | 47:05      | Like, if I just type TRA, then it opens up the ability to translate. One that I do all the time          |
 | 47:13      | is Drive. It's Google Drive. It searches my Google Drive for automators outline, you know.               |
 | 47:19      | IMDB, eBay, another one that I use sadly too much is [[Amazon]]. Like, you type [[Amazon]], and it searches      |

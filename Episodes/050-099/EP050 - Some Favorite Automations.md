@@ -386,9 +386,9 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 27:03      | that just skips us. If I pick other, then it allows me to input an address with dictation,           |
 | 27:10      | because I'm probably about to start a car, so I shouldn't be typing. And then and if                 |
 | 27:14      | I pick one of them, then it uses that. And then I found around here, Google Maps is actually         |
-| 27:19      | best. I wanted to use Apple Maps, but Google Maps is better. It's for for this area. And             |
+| 27:19      | best. I wanted to use [[Apple Maps]], but Google Maps is better. It's for for this area. And             |
 | 27:24      | it shows the speed limit on the screen and everything for me all the time, which I noticed           |
-| 27:27      | Apple Maps not always doing. So it gets the directions using that for me. And it will do             |
+| 27:27      | [[Apple Maps]] not always doing. So it gets the directions using that for me. And it will do             |
 | 27:32      | that right at the end of the script then. And then it also picks a random driving playlist.          |
 | 27:37      | I've created five different driving playlists. And it picks a random one of those for me,            |
 | 27:41      | and then it plays it. And, you know, that's that's it. But at the same time, it's really             |
@@ -403,7 +403,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 28:30      | of the shortcut for me. Yeah, exactly. And and I also the the frequent destination stuff             |
 | 28:36      | is nice. Because you can just when you're in the car, you can make it easy to go there.              |
 | 28:43      | Although, if they're frequent destinations, do you need directions? Is there a way to                |
-| 28:47      | script because in Apple Maps, you can manually tell it, you know, just give me directions,           |
+| 28:47      | script because in [[Apple Maps]], you can manually tell it, you know, just give me directions,           |
 | 28:54      | give me verbals, you know, so it just gives it on the screen. Because I actually like                |
 | 28:58      | knowing ETA information and how long until my next turn, even though I know where I'm                |
 | 29:04      | going. So I use directions all the time for that. But I don't know that there's a way                |

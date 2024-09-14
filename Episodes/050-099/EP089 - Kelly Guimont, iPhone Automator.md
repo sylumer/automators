@@ -889,7 +889,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:11:58   | features and working right now. And so that's something that I think we could use. And the               |
 | 01:12:03   | thing that worries me about that stuff is that a lot of people are now discovering shortcuts             |
 | 01:12:08   | because it suddenly appeared on their Mac. And if their initial experiences are bad,                     |
-| 01:12:14   | then it's going to be the Apple Maps problem all over again. There's some people like,                   |
+| 01:12:14   | then it's going to be the [[Apple Maps]] problem all over again. There's some people like,                   |
 | 01:12:18   | this is bad. I'm not going to do this anymore. And it's going to get a bad reputation from               |
 | 01:12:22   | people who haven't spent the time. And David, the thing I take away from your story is                   |
 | 01:12:30   | that not everyone has rosemary to text and go, here's what happened to my shortcut.                      |
