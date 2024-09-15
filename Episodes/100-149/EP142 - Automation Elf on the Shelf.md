@@ -111,7 +111,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 03:13      | to turn it back on?                                                                                 |
 | 03:16      | This question that I'll let you all answer at home, connect the dots.                               |
 | 03:21      | I see some of you are going, uh-huh, uh-huh, I got it, I got it, I got it.                          |
-| 03:25      | So yeah, use, if you're going to do that, a Zigbee one or something that can remember               |
+| 03:25      | So yeah, use, if you're going to do that, a [[Zigbee]] one or something that can remember               |
 | 03:29      | the time and power itself back on after like a minute or something like that.                       |
 | 03:34      | Personally I don't do that, I don't have those on a smart plug.                                     |
 | 03:37      | I have them on a UPS, actually the UPS is connected to a smart plug, but that's only                |

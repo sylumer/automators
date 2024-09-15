@@ -684,7 +684,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:03:36   | So what do you think about home automation these days, Brett? I know that you've always                   |
 | 01:03:41   | been somebody kind of ahead of the curve on this stuff.                                                   |
 | 01:03:46   | Except I feel like since [[HomeKit]], I have fallen behind the curve. I used to be back in the days           |
-| 01:03:55   | when you had Insteon and Zigbee. I had systems that allowed me to integrate all kinds of stuff.           |
+| 01:03:55   | when you had Insteon and [[Zigbee]]. I had systems that allowed me to integrate all kinds of stuff.           |
 | 01:04:06   | I programmed them through Indigo on a Mac Mini in my basement that ran my whole house.                    |
 | 01:04:15   | But Indigo doesn't work with [[HomeKit]] or Alexa devices. And so then I have to run Homebridge               |
 | 01:04:23   | to try to bring everything together and things get messy. And buying [[HomeKit]] devices means                |
@@ -718,9 +718,9 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:07:17   | kit. So I took it back and they didn't have the home kit when they were out of stock so I had to          |
 | 01:07:23   | order it. But I mean, it's just like that stuff is going to go away and we're going to get a common       |
 | 01:07:29   | platform. But that doesn't change the underlying technology. There's still a bunch of these that          |
-| 01:07:34   | run on Wi-Fi and some that run on Zigbee and you've got all these different ways for them to              |
+| 01:07:34   | run on Wi-Fi and some that run on [[Zigbee]] and you've got all these different ways for them to              |
 | 01:07:39   | communicate. And I think that's probably the bigger problem that you're up against,                       |
-| 01:07:45   | just determining the technology stack for it. Right. My Mac Mini in my basement has a Zigbee              |
+| 01:07:45   | just determining the technology stack for it. Right. My Mac Mini in my basement has a [[Zigbee]]              |
 | 01:07:54   | and an Insteon external controllers attached to it. And between the two of those using Indigo,            |
 | 01:08:03   | I can automate anything in my house except for hue light bulbs and home kit devices.                      |
 | 01:08:11   | And what I would love is to have, with a minimal amount of hardware to be able to... Have you ever        |

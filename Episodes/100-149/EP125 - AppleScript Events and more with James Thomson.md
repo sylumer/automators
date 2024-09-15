@@ -415,7 +415,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 34:33      | is no movement. There is no person. It is a, is somebody there? Sensor, which is a good                |
 | 34:41      | idea. David has one and he's had a few issues with it. And I have two of them. I did have              |
 | 34:47      | some issues with one of mine for a while and then I installed a firmware update on it.                 |
-| 34:51      | I installed a firmware update on my Zigbee hub and then everything's working fine with that,             |
+| 34:51      | I installed a firmware update on my [[Zigbee]] hub and then everything's working fine with that,             |
 | 34:55      | which is great. So it's certainly worth looking into, but the Aqara FP1 is sort of the probably        |
 | 35:05      | best one to try there just because it does mm-wave. And this may be something in its favor              |
 | 35:15      | for some people. This may be against it for some other people. It's USB powered. So there              |

@@ -388,7 +388,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 21:23      | onto your probably not ready for this Wi-Fi, but at some point, you end up with the Aqara                 |
 | 21:30      | hub, the IKEA hub, the Hue hub, this other hub that came from this other company.                         |
 | 21:36      | 60 different hubs or something, it can feel like being able to consolidate that down to                   |
-| 21:42      | [[Home Assistant]] with Zigbee and Z-Wave and [[Thread]] support is very, very nice.                              |
+| 21:42      | [[Home Assistant]] with [[Zigbee]] and Z-Wave and [[Thread]] support is very, very nice.                              |
 | 21:50      | That's what I really get out of it.                                                                       |
 | 21:52      | I have a funny story about [[Home Assistant]] and automation.                                                 |
 | 21:58      | I think I'll just leave it with this before we move on, but I have to share it with somebody,             |
@@ -505,7 +505,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 28:12      | You may need a hub to go with the something home kit.                                                     |
 | 28:14      | For example, if you buy a Hue light bulb, unless it's one of the Bluetooth ones, which                    |
 | 28:19      | I'm not sure I really recommend Bluetooth is never great for smart home devices.                          |
-| 28:26      | I would much prefer Zigbee, Z-Wave, [[Thread]], or even Wi-Fi over Bluetooth.                                 |
+| 28:26      | I would much prefer [[Zigbee]], Z-Wave, [[Thread]], or even Wi-Fi over Bluetooth.                                 |
 | 28:32      | But yeah, you might need a hub.                                                                           |
 | 28:35      | It's certainly if you're buying like an IKEA light or whether the IKEA sensors or buttons,                |
 | 28:44      | then you will need one of their hubs.                                                                     |
@@ -541,7 +541,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 30:07      | traffic to your Wi-Fi signal.                                                                             |
 | 30:10      | And that can make them inconsistent and slower and not as good.                                           |
 | 30:15      | So I think with both, and I think under Rose's tutelage, I've come to learn this.                         |
-| 30:20      | If there's a Zigbee hub, if there's a device that comes with a hub, I almost welcome it                   |
+| 30:20      | If there's a [[Zigbee]] hub, if there's a device that comes with a hub, I almost welcome it                   |
 | 30:25      | because maybe it costs us a little bit more, but you know the communications between the                  |
 | 30:30      | device and the system is going to be rock solid and it's just more consistent.                            |
 | 30:35      | So I almost lean toward hubs more than away from them.                                                    |
@@ -576,7 +576,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 32:02      | somebody sticks a label on and says, oh yeah, it's enterprise-grade, you're probably going                |
 | 32:07      | to run into problems if you go with a whole bunch of Wi-Fi devices.                                       |
 | 32:10      | You know, there are some things that are fine on Wi-Fi cameras, doorbells, that sort of thing,            |
-| 32:14      | you know, that you won't find a Zigbee camera, doesn't exist because the Zigbee protocol                  |
+| 32:14      | you know, that you won't find a [[Zigbee]] camera, doesn't exist because the [[Zigbee]] protocol                  |
 | 32:19      | isn't big enough basically for videos and images.                                                         |
 | 32:24      | But you'll find some things which basically kind of only exist as Wi-Fi.                                  |
 | 32:28      | And that's fine.                                                                                          |
@@ -692,7 +692,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 39:07      | Obviously it, it varies not even depending on the vendor, but depending on what device                    |
 | 39:12      | type it is and protocol it is and things like that.                                                       |
 | 39:15      | So a Bluetooth version of this light bulb might not be able to install the update through                 |
-| 39:19      | the home kit app, but a Zigbee version of the light bulb that otherwise looks identical                   |
+| 39:19      | the home kit app, but a [[Zigbee]] version of the light bulb that otherwise looks identical                   |
 | 39:22      | could or vice versa.                                                                                      |
 | 39:25      | It's very difficult to pinpoint exactly what it is.                                                       |
 | 39:29      | And in some cases it's just a case of like the vendors have got a limited number of developers            |
@@ -778,10 +778,10 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 44:32      | to their software so I feel like there are a few vendors that I'm comfortable recommending                |
 | 44:36      | one of them is Aqara and Rosemary actually I think you turn me on to them first because                   |
 | 44:44      | you started buying their stuff the interesting thing about Aqara is it does require a hub                 |
-| 44:48      | but it's a hub in the best of ways because it is giving you I think is it a Zigbee I                      |
-| 44:53      | don't know what they're underlying yeah they have a Zigbee and [[Thread]] I can't remember                    |
+| 44:48      | but it's a hub in the best of ways because it is giving you I think is it a [[Zigbee]] I                      |
+| 44:53      | don't know what they're underlying yeah they have a [[Zigbee]] and [[Thread]] I can't remember                    |
 | 44:58      | if [[Thread]] is in the newest hub or if it's in one of the ones coming but they certainly                    |
-| 45:02      | it's a Zigbee based hub but depending on which hub you buy there's like a teeny tiny little               |
+| 45:02      | it's a [[Zigbee]] based hub but depending on which hub you buy there's like a teeny tiny little               |
 | 45:06      | stick one which is great if you just want to like try some stuff out and you know get                     |
 | 45:10      | something very cheap they've got a couple of camera ones so your hub is also a camera                     |
 | 45:16      | which is really cool and then they've got just sort of like a black round circular                        |
@@ -925,9 +925,9 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 57:01      | you know 10 days two weeks for it but you know it's I feel like it's worth waiting the 10 days            |
 | 57:08      | to two weeks if you know like buy one from [[Amazon]] by all means and get it tomorrow to try it out          |
 | 57:13      | but then if you go okay I want six of these buttons then yeah you can save quite a bundle                 |
-| 57:19      | by buying them on Ali Express and they'll all connect to the same hub and Zigbee, Z-Wave,              |
+| 57:19      | by buying them on Ali Express and they'll all connect to the same hub and [[Zigbee]], Z-Wave,              |
 | 57:24      | etc. they are global they use slightly different channels in various areas at least                       |
-| 57:30      | Zigbee does but the the actual hardware devices will connect regardless of where they're from            |
+| 57:30      | [[Zigbee]] does but the the actual hardware devices will connect regardless of where they're from            |
 | 57:36      | so it's well worth saving some money on those if you've got a hub so yeah definitely recommend            |
 | 57:43      | those and I think like you said the sensors to me is really the the Aqara the gold in the car             |
 | 57:50      | is the sensors because it's expensive some sensors are like $50 just to buy a single sensor and           |

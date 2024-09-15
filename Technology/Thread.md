@@ -35,7 +35,7 @@ In a Thread network, devices can join or leave the network dynamically. They aut
 It can be useful to understand how Thread compares to other popular wireless protocols.
 
 - **Wi-Fi** - while Wi-Fi offers higher data rates and longer range, it consumes more power and is less suited for simple IoT devices.
-- **Zigbee** - like Thread, Zigbee is also a low-power mesh network. However, Thread offers better security features and is based on IP standards, making it easier to integrate with other internet-connected devices.
+- **[[Zigbee]]** - like Thread, [[Zigbee]] is also a low-power mesh network. However, Thread offers better security features and is based on IP standards, making it easier to integrate with other internet-connected devices.
 - **Bluetooth** - Bluetooth, and especially Bluetooth Low Energy (BLE), is designed for short-range communication and is often used for direct pairing between devices, but lacks the mesh networking capabilities of Thread.
 
 # Thread and Smart Home Integration

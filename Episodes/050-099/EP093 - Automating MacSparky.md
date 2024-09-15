@@ -1712,12 +1712,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:38:19   | I think so far I'm good on that, but, but I am going to put one in my mailbox.                         |
 | 01:38:24   | The question there is, will the range work?                                                            |
 | 01:38:27   | You know, and                                                                                          |
-| 01:38:28   | I mean, the range on Zigbee stuff is pretty good.                                                      |
+| 01:38:28   | I mean, the range on [[Zigbee]] stuff is pretty good.                                                      |
 | 01:38:32   | It may or may not work.                                                                                |
 | 01:38:34   | If not, you could get an Aqara E1 hub and like plug it in as close to your mailbox,                    |
 | 01:38:41   | like house wise as you can, because that, that can just, you know, those hubs are very                 |
 | 01:38:46   | cheap and, and that could be the solution for that particular thing.                                   |
-| 01:38:52   | And it will extend the, if you set it up right, it could extend the Zigbee network for Aqara           |
+| 01:38:52   | And it will extend the, if you set it up right, it could extend the [[Zigbee]] network for Aqara           |
 | 01:38:57   | in your home, which would be quite good too.                                                           |
 | 01:38:59   | Well, we will, I'll let you know, it's supposed to get delivered here in the next day or two.          |
 | 01:39:05   | And so maybe next show I can report back on how I did with that.                                       |

@@ -809,11 +809,11 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 46:44      | coming.                                                                                                   |
 | 46:45      | But this thing is impressive.                                                                             |
 | 46:47      | It is incredibly good at sensing people, you know, even when you're asleep.                               |
-| 46:51      | And it's using the newer Zigbee 3.0, which is slightly better at doing, you know, handoff                 |
-| 46:57      | and so on, because Zigbee is a mesh network, right, where battery powered devices will                    |
+| 46:51      | And it's using the newer [[Zigbee]] 3.0, which is slightly better at doing, you know, handoff                 |
+| 46:57      | and so on, because [[Zigbee]] is a mesh network, right, where battery powered devices will                    |
 | 47:02      | connect to powered devices on that same mesh so that they can, you know, pass the message                 |
 | 47:08      | along essentially.                                                                                        |
-| 47:09      | But previous generations of Zigbee and especially the Aqara stuff, it would just pair to whatever         |
+| 47:09      | But previous generations of [[Zigbee]] and especially the Aqara stuff, it would just pair to whatever         |
 | 47:16      | it was closest to and it would never look for another friend to help it talk to the                       |
 | 47:20      | hub or the coordinator in the centre.                                                                     |
 | 47:24      | And the 3.0 stuff is really good at doing that.                                                           |
@@ -828,7 +828,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 47:57      | affordable.                                                                                               |
 | 47:58      | Their stuff itself is actually quite small, which is nice, you know, not taking up a huge                 |
 | 48:03      | amount of physical space.                                                                                 |
-| 48:06      | And I find Zigbee is exceptionally good for a connectivity option.                                        |
+| 48:06      | And I find [[Zigbee]] is exceptionally good for a connectivity option.                                        |
 | 48:11      | You know, [[Thread]] is definitely something to look at and the Eve things look pretty great.                 |
 | 48:16      | But there's not a lot of options out there which drives up the cost.                                      |
 | 48:21      | Whereas if you get the slightly older generation of Aqara stuff, then that's even more affordable,        |
@@ -1077,9 +1077,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:02:25   | I have the IKEA blinds, IKEA have more options now than they did before.                                  |
 | 01:02:30   | They don't just have blackout labels and the translucent ones.                                            |
 | 01:02:33   | They've got like a pleated one, which is quite nice and so on.                                            |
-| 01:02:37   | And there's a lot more options out there, and especially with the advent of the Zigbee                    |
-| 01:02:43   | controllers for this, which I personally feel that if you've got a choice between a Zigbee                |
-| 01:02:49   | or a [[Thread]] device or a Wi-Fi device, then you're better off with the Zigbee or [[Thread]]                    |
+| 01:02:37   | And there's a lot more options out there, and especially with the advent of the [[Zigbee]]                    |
+| 01:02:43   | controllers for this, which I personally feel that if you've got a choice between a [[Zigbee]]                |
+| 01:02:49   | or a [[Thread]] device or a Wi-Fi device, then you're better off with the [[Zigbee]] or [[Thread]]                    |
 | 01:02:54   | one.                                                                                                      |
 | 01:02:55   | Instead of the Wi-Fi one, the more things that you shove onto your network that are connected             |
 | 01:02:58   | to the internet, the more likely it is something is going to go wrong.                                    |
@@ -1397,7 +1397,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:32   | yellow that you get, David, which will let you integrate with, I believe, last time I                     |
 | 01:22:40   | checked, I'm just going to go to the [[Home Assistant]] website a second, which is homeassistant.io           |
 | 01:22:44   | Home Dash Assistant, it is 2,176 integrations in [[Home Assistant]].                                          |
-| 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct Zigbee                    |
+| 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct [[Zigbee]]                    |
 | 01:23:01   | and Z-Wave integrations, Ring Doorbell, [[Lutron]], and Leviton, for example, but it also integrates          |
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |

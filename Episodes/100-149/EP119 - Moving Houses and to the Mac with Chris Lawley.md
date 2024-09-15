@@ -760,7 +760,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 41:03      | Yeah.                                                                                                     |
 | 41:04      | That makes a lot of sense.                                                                                |
 | 41:05      | And I've been doing something similar as well.                                                            |
-| 41:07      | I've recently got a Zigbee RGB LED strip is actually RGB, CCT, FCOB, because all of the                   |
+| 41:07      | I've recently got a [[Zigbee]] RGB LED strip is actually RGB, CCT, FCOB, because all of the                   |
 | 41:17      | acronyms are needed.                                                                                      |
 | 41:18      | So RGB, red, green, blue, CCT, colour changing temperature, FCOB, flexible, something or                   |
 | 41:26      | other, obviously, the CAB, it's the one where the LEDs are so close together in the, in the               |
@@ -860,7 +860,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:12      | And I've currently just got Z-Wave modules in, which I just shared to [[Home Assistant]]                      |
 | 47:16      | and then shared it back into [[HomeKit]].                                                                     |
 | 47:18      | That was my first use of [[HomeKit]] actually, just it's cheaper to buy the Z-Wave modules                    |
-| 47:23      | by a lot over here than the Control 4, which is a Zigbee.                                                 |
+| 47:23      | by a lot over here than the Control 4, which is a [[Zigbee]].                                                 |
 | 47:29      | And I didn't know how to get stuff into [[HomeKit]] in any other way at the time.                             |
 | 47:34      | So I just went with [[Home Assistant]] and one large rabbit hole later, having foam automating                |
 | 47:39      | things.                                                                                                   |

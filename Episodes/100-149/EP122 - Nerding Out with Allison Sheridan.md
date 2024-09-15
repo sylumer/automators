@@ -845,8 +845,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:06:42   | is in charge of everything. Oh, see, I'm a, I used to be, I didn't like the idea of, of hubs,           |
 | 01:06:49   | but man, when you do a network change, a hub is a beautiful thing because everything just moves         |
 | 01:06:54   | with one device. Oh yeah, not having to individually connect things to Wi-Fi. Yeah, no, it's just,      |
-| 01:06:58   | my case, like, because Hue is using the Zigbee protocol, everything's just connected directly to        |
-| 01:07:03   | the Zigbee stick in the [[Home Assistant]] hub. And then [[Home Assistant]] gets a new IP address,              |
+| 01:06:58   | my case, like, because Hue is using the [[Zigbee]] protocol, everything's just connected directly to        |
+| 01:07:03   | the [[Zigbee]] stick in the [[Home Assistant]] hub. And then [[Home Assistant]] gets a new IP address,              |
 | 01:07:07   | and that's it, done. And that works pretty well for me. Hey, at the risk of turning this into           |
 | 01:07:12   | tech support for Alison, you said there's a way to see scenes that aren't favourites in, in the          |
 | 01:07:18   | Home app. In the Home app, yeah. So in general, in the Home app, things that are not favourites          |

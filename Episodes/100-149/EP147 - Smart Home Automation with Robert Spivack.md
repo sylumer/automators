@@ -765,15 +765,15 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 48:56      | heavy curtains without any issues.                                                                     |
 | 48:59      | That sounds good.                                                                                      |
 | 49:01      | And you did mention Aqara.                                                                             |
-| 49:02      | I did want to say that in general, that the line of products from Aqara on Zigbee, which               |
+| 49:02      | I did want to say that in general, that the line of products from Aqara on [[Zigbee]], which               |
 | 49:08      | is a type of wireless communication, is a great selection of great variety, very cost                  |
 | 49:14      | effective.                                                                                             |
 | 49:15      | Personally, I'm not ready to deploy [[Thread]] devices as a wireless interface.                            |
 | 49:20      | I think it's still immature.                                                                           |
 | 49:22      | There's still a lot of kinks being worked out.                                                         |
-| 49:24      | So in the short term, I would stick with Zigbee as a wireless communications method for shades,        |
+| 49:24      | So in the short term, I would stick with [[Zigbee]] as a wireless communications method for shades,        |
 | 49:32      | blind sensors, anything that can not have to be Wi-Fi and needs to be low power.                       |
-| 49:39      | Zigbee is a great choice and Aqara is really hitting them out of the park now.                         |
+| 49:39      | [[Zigbee]] is a great choice and Aqara is really hitting them out of the park now.                         |
 | 49:44      | I've been very lucky with the Aqara things because I was able to buy the hub, the home                 |
 | 49:50      | kit enabled hub, which I actually ended up connecting to home assistant here in the UK.                |
 | 49:56      | But the sensors I was able to pick up on Aliexpress, so like the door sensors, the window sensors,     |
@@ -957,7 +957,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:02:16   | But also, it's just like it's so much better in terms of like interactions, like I've                  |
 | 01:02:20   | got a Samsung TV in here that I can control with [[Home Assistant]] and I've got apparently                |
 | 01:02:25   | a car that I can monitor with [[Home Assistant]] and it seems like or even those Aqara sensors             |
-| 01:02:32   | seem to kind of work better with [[Home Assistant]] because of the Zigbee or whatever.                     |
+| 01:02:32   | seem to kind of work better with [[Home Assistant]] because of the [[Zigbee]] or whatever.                     |
 | 01:02:37   | I'm a little bit out of my league here.                                                                |
 | 01:02:39   | But there's a lot of reasons to want to do more with it.                                               |
 | 01:02:45   | But at the same time, if my wife wants to turn out the lights in the kitchen, she's                    |
@@ -1176,7 +1176,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:18:26   | a 5 gigahertz network.                                                                                 |
 | 01:18:28   | And usually when that happens, I find that the result is actually that when the 5 gigahertz            |
 | 01:18:35   | comes back on, the device seems to work fine, but it will randomly just be periodically                |
-| 01:18:41   | flaky, whereas with my Zigbee devices in particular, so they're on a different network, they are       |
+| 01:18:41   | flaky, whereas with my [[Zigbee]] devices in particular, so they're on a different network, they are       |
 | 01:18:50   | rock solid.                                                                                            |
 | 01:18:51   | They work fine.                                                                                        |
 | 01:18:52   | The only time they don't work is when I don't have a battery left in them if they're a battery         |
@@ -1184,7 +1184,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:19:03   | Why is it not working?                                                                                 |
 | 01:19:05   | Because it was unplugged from the wall.                                                                |
 | 01:19:07   | I need to have another work with my dad about that.                                                    |
-| 01:19:10   | I found Zigbee not to have problems with that sort of thing, whereas Wi-Fi devices, you're             |
+| 01:19:10   | I found [[Zigbee]] not to have problems with that sort of thing, whereas Wi-Fi devices, you're             |
 | 01:19:17   | trying to cram so many things onto a network, and you still want to be able to stream Netflix          |
 | 01:19:20   | or Apple TV and so on, it's just asking for trouble, isn't it?                                         |
 | 01:19:25   | Yes, but I don't think it's the case of the bandwidth or the network itself.                           |
@@ -1200,7 +1200,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:20:19   | very common kitchen appliance that works on 2.4 gigahertz, and that's the microwave oven.              |
 | 01:20:26   | If you've ever used your earphones in a kitchen and you turn on the microwave oven, suddenly           |
 | 01:20:32   | all your audio drops out.                                                                              |
-| 01:20:35   | So the reason Zigbee that you mentioned and there are other standards, the Z-Wave is still             |
+| 01:20:35   | So the reason [[Zigbee]] that you mentioned and there are other standards, the Z-Wave is still             |
 | 01:20:41   | in use, although some people feel it may be dying, and [[Lutron]] and others, they use frequencies         |
 | 01:20:48   | of the radio that are very different than Wi-Fi.                                                       |
 | 01:20:51   | So it's sort of at a physical level, it's like driving a car in a freeway.                             |
@@ -1212,7 +1212,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:21:26   | So rather than designing around it and optimising your Wi-Fi radios and being very careful of          |
 | 01:21:33   | overloading the channels or not, if you have nothing that can interfere in the first place,            |
 | 01:21:39   | you're far ahead.                                                                                      |
-| 01:21:41   | And therefore, I would strongly recommend using Zigbee devices or other proprietary                    |
+| 01:21:41   | And therefore, I would strongly recommend using [[Zigbee]] devices or other proprietary                    |
 | 01:21:48   | radios, even though that's a dirty word, than using Wi-Fi for these sensors and general                |
 | 01:21:55   | IoT devices.                                                                                           |
 | 01:21:57   | And I can read Rosa's mind.                                                                            |
@@ -1222,7 +1222,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:22:14   | life easier.                                                                                           |
 | 01:22:15   | I was just thinking, I've got my office lights, I've got three in there, I've got three in             |
 | 01:22:20   | the bedroom, I've got one in the hallway, five in the living room, one in the kitchen.                 |
-| 01:22:26   | All of those are connected to my Zigbee network, which is one dongle that's plugged in.                |
+| 01:22:26   | All of those are connected to my [[Zigbee]] network, which is one dongle that's plugged in.                |
 | 01:22:31   | And that's it.                                                                                         |
 | 01:22:33   | But if I had all of those connected to the Wi-Fi, then I would be very dependent on not                |
 | 01:22:38   | just my Wi-Fi, but also my neighbour's Wi-Fi.                                                           |
@@ -1240,7 +1240,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:23:29   | I still recommend wired shades, wired door sensors, but that's not practical in many                   |
 | 01:23:35   | situations.                                                                                            |
 | 01:23:36   | And I understand that and I do that myself.                                                            |
-| 01:23:39   | So at least get your sensors and other devices on to Zigbee or something else.                         |
+| 01:23:39   | So at least get your sensors and other devices on to [[Zigbee]] or something else.                         |
 | 01:23:45   | And you'll be solving your problems from the beginning rather than troubleshooting them                |
 | 01:23:50   | afterwards.                                                                                            |
 | 01:23:51   | Yeah.                                                                                                  |
@@ -1347,11 +1347,11 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:31:36   | that everything's connecting through.                                                                  |
 | 01:31:40   | Moving some things around, if you do have multiple routers or upgrading to a mesh network,             |
 | 01:31:44   | it's probably going to fix that for that device.                                                       |
-| 01:31:47   | Next time you know better, you can get Zigbee, but you're still going to want all your devices         |
+| 01:31:47   | Next time you know better, you can get [[Zigbee]], but you're still going to want all your devices         |
 | 01:31:51   | to connect really well wherever you are in your home.                                                  |
 | 01:31:54   | I would say slightly differently along those lines.                                                    |
 | 01:31:58   | Instead of buying new Wi-Fi equipment, replace those smart home devices with non-Wi-Fi devices.        |
-| 01:32:05   | Get some Zigbee or get some [[Lutron]] or whatever Philips Hue for Zigbee lights.                          |
+| 01:32:05   | Get some [[Zigbee]] or get some [[Lutron]] or whatever Philips Hue for [[Zigbee]] lights.                          |
 | 01:32:11   | Put your budget into getting all your [[HomeKit]] or smart home devices off Wi-Fi as much as               |
 | 01:32:18   | possible.                                                                                              |
 | 01:32:20   | That's such an easy call.                                                                              |

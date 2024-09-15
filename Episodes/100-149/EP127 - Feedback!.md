@@ -1183,7 +1183,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:13:27   | What do you know about it?                                                                             |
 | 01:13:28   | So Aqara has two FP products, they've got the FP1 and the FP2.                                         |
 | 01:13:36   | I'm just double-checking to refresh my memory.                                                         |
-| 01:13:38   | I know that the FP1 is a Zigbee-based present sensor and the FP2 is Wi-Fi-based.                       |
+| 01:13:38   | I know that the FP1 is a [[Zigbee]]-based presence sensor and the FP2 is Wi-Fi-based.                       |
 | 01:13:44   | Personally, I dislike Wi-Fi connected devices simply because why do I need more things on              |
 | 01:13:51   | my network that can talk to their own servers?                                                         |
 | 01:13:55   | That doesn't seem to make a huge amount of sense.                                                      |
@@ -1199,7 +1199,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:14:44   | It's one of those things.                                                                              |
 | 01:14:45   | I've heard very good things about it.                                                                  |
 | 01:14:46   | I've heard a lot of people loving it.                                                                  |
-| 01:14:49   | I did initially have some difficulties with my FP1, which is the Zigbee-based one, and                 |
+| 01:14:49   | I did initially have some difficulties with my FP1, which is the [[Zigbee]]-based one, and                 |
 | 01:14:54   | then I went through a couple of forum threads, fortunately the [[Home Assistant]] forum had some           |
 | 01:14:59   | and some other places, and it turned out, essentially, I was understanding how the sensors sense       |
 | 01:15:05   | things a little bit.                                                                                   |
@@ -1250,7 +1250,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:17:45   | to work differently for that.                                                                          |
 | 01:17:47   | So yeah.                                                                                               |
 | 01:17:48   | Well, either way, I feel like we're on the verge of something here with these human                    |
-| 01:17:52   | present sensors, and if they do work reliably, it's going to make the automation story so              |
+| 01:17:52   | presence sensors, and if they do work reliably, it's going to make the automation story so              |
 | 01:17:58   | much easier for people.                                                                                |
 | 01:17:59   | You can just have one that says, when I'm in the room, turn the lights on, when I leave                |
 | 01:18:02   | the room, turn the lights off, that kind of stuff reliably, that will be awesome.                      |

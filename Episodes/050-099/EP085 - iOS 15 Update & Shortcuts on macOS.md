@@ -1457,7 +1457,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 56:48      | Yeah, you probably wouldn't get an Aqara hub.                      |
 | 56:50      | If you don't have an Aqara hub                                     |
 | 56:52      | but you are looking into [[Home Assistant]],                           |
-| 56:55      | you could get a Zigbee dongle for [[Home Assistant]],                  |
+| 56:55      | you could get a [[Zigbee]] dongle for [[Home Assistant]],                  |
 | 56:59      | plug that in and pair the Aqara stuff with that                    |
 | 57:02      | and then share it back to [[HomeKit]].                                 |
 | 57:05      | That is something that you can do.                                 |

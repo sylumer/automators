@@ -969,7 +969,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:07:10   | close a minute or so later, perhaps it's never even that long. It's fine. But when you walk into        |
 | 01:07:17   | a room and you want the light to turn on, waiting 30 seconds for the light to turn on, because          |
 | 01:07:23   | it's got to communicate via the hub and everything, that's not great. And so I would really have        |
-| 01:07:29   | find a better version of that that's controlled by a Zigbee or something that people can actually       |
+| 01:07:29   | find a better version of that that's controlled by a [[Zigbee]] or something that people can actually       |
 | 01:07:35   | use and rely on to work instantly when they want to do stuff. I mean, it's only going to be relatively  |
 | 01:07:40   | instantly because there's the arm that has to come out and press the button versus something            |
 | 01:07:45   | like a [[Lutron]] Casetas, which obviously is going to be pretty much instant. But I mean,                 |

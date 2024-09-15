@@ -566,8 +566,8 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 42:06      | I will not have Wi-Fi signal even though the router is literally in the next room. That                  |
 | 42:10      | massively interferes with things. The IKEA hub, unfortunately, really, really, really                    |
 | 42:15      | struggled for me. I've ended up moving all of my IKEA things into home assistant because                 |
-| 42:21      | home assistant, you can plug a Zigbee dongle into it. I bought a Zigbee dongle and I paired              |
-| 42:28      | everything with home assistant. Home assistant and the Zigbee dongle that I bought seem                  |
+| 42:21      | home assistant, you can plug a [[Zigbee]] dongle into it. I bought a [[Zigbee]] dongle and I paired              |
+| 42:28      | everything with home assistant. Home assistant and the [[Zigbee]] dongle that I bought seem                  |
 | 42:32      | to be doing a really, really great job of getting all of my things to talk to each other.                |
 | 42:39      | I can share those back into [[HomeKit]] so I'm not losing out on the fact that I can then                    |
 | 42:43      | talk to a home pot and say open and close this blind and do these things and so on and                   |
@@ -626,7 +626,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 47:24      | that somebody had made. They made an add-on. And the difference between the two, I'm not                 |
 | 47:29      | going to go into here because it's not important for the terms of the show, but somebody had             |
 | 47:33      | made something that I could try and it worked. And basically what they're doing is they're               |
-| 47:39      | using a different protocol. It's not like Zigbee, it's a messaging protocol, but they                    |
+| 47:39      | using a different protocol. It's not like [[Zigbee]], it's a messaging protocol, but they                    |
 | 47:47      | can actually talk directly to this. And [[Home Assistant]] itself supports it. So essentially                |
 | 47:52      | they're just bridging between the two of those. And that's something they can do because                 |
 | 47:57      | [[Home Assistant]] already supports all of this. And that is very nice to be able to do. And                 |
@@ -660,7 +660,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 50:00      | which will be nice.                                                                                      |
 | 50:01      | Yeah, yeah. It is great that you can do that. So I have a smart smoke detector, but there                |
 | 50:08      | are I think the only smart smoke detector available in the UK is the Netatmo one, which                  |
-| 50:11      | is fairly pricey. I bought a 10 pound Zigbee smart smoke detector and it works exactly                |
+| 50:11      | is fairly pricey. I bought a 10 pound [[Zigbee]] smart smoke detector and it works exactly                |
 | 50:18      | the same way as a regular smart smoke detector, except I also paired it to [[Home Assistant]] and            |
 | 50:22      | shared it to [[HomeKit]] and I attempted to test it. It was really difficult. Like I had to                  |
 | 50:29      | actually have to set several light several candles underneath it and close a bunch of                    |
@@ -680,7 +680,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 51:43      | hit 32 devices much quicker than Rose had anticipated. Surprise. And so I ended up needing               |
 | 51:50      | another Aqara hub. And so I bought the Aqara M2 hub, and the Aqara M2 hub is great, but                  |
 | 51:56      | migrating things between the devices or between the hubs started breaking some of my automations.        |
-| 52:03      | And it was at this point that I had already bought a Zigbee dongle for [[Home Assistant]] because            |
+| 52:03      | And it was at this point that I had already bought a [[Zigbee]] dongle for [[Home Assistant]] because            |
 | 52:07      | I wanted to try the smart smoke detector because I was, I got woken up at three o'clock in               |
 | 52:13      | the morning by the smoke detector going, beep, I'm running out of battery, beep, I'm running             |
 | 52:17      | out of battery, which is everybody's worst nightmare. So being able to check the battery                 |

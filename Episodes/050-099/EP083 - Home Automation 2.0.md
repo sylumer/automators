@@ -225,8 +225,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 08:41      | Because they connect to different servers.                                                        |
 | 08:43      | So I ordered the M2 hub and that arrived and I'm slowly migrating all of my devices               |
 | 08:48      | over to that hub, which is much better because it's also micro-USB powered.                       |
-| 08:57      | So in the meantime, I had a $7 Zigbee stick, which I plugged into [[Home Assistant]] and I'm            |
-| 09:04      | using [[Home Assistant]] kind of like a Zigbee hub, like you can use it the same as a Hue hub           |
+| 08:57      | So in the meantime, I had a $7 [[Zigbee]] stick, which I plugged into [[Home Assistant]] and I'm            |
+| 09:04      | using [[Home Assistant]] kind of like a [[Zigbee]] hub, like you can use it the same as a Hue hub           |
 | 09:09      | or an IKEA hub and so I set that up and gave that a whirl and I was impressed.                    |
 | 09:15      | It works incredibly quickly.                                                                      |
 | 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the Aqara hub, detects      |
@@ -339,7 +339,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 15:44      | telling me that they have their own bandwidth and I don't know what the whole story is behind     |
 | 15:48      | that.                                                                                             |
 | 15:49      | But whatever the radio signal for these [[Lutron]] Casetas is a great.                              |
-| 15:53      | Zigbee.                                                                                           |
+| 15:53      | [[Zigbee]].                                                                                           |
 | 15:54      | Yeah.                                                                                             |
 | 15:55      | You have to get your own base unit forward, but you buy that with the first switch and            |
 | 15:59      | then you're kind of in.                                                                           |
@@ -1617,7 +1617,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:46   | Or in my case, I bought a Raspberry Pi.                                                           |
 | 01:24:49   | I bought a blue case for it because [[Home Assistant]]'s icon is blue.                                |
 | 01:24:54   | And that is my [[Home Assistant]] setup, and it's just running on that.                               |
-| 01:24:59   | And I actually went as far as to get a Zigbee dongle and a Z-Wave dongle, which means it's        |
+| 01:24:59   | And I actually went as far as to get a [[Zigbee]] dongle and a Z-Wave dongle, which means it's        |
 | 01:25:05   | like a Hue or an Aqara or an IKEA hub.                                                            |
 | 01:25:09   | And Z-Wave is the same thing, but for my Yale locks, which we'll get to in a little bit.          |
 | 01:25:14   | But it can, so it can both read stuff in from [[HomeKit]] and it can also share stuff out to          |
@@ -1668,8 +1668,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:27:37   | The door opens at the end of the cycle, but stuff's still really, really hot from the cycle.      |
 | 01:27:42   | And so instead, I have a, I actually bought a Xiaomi button because I was playing around          |
 | 01:27:47   | with this stuff.                                                                                  |
-| 01:27:48   | And I paired that to the Zigbee dongle.                                                           |
-| 01:27:49   | And I paired an Aqara door sensor to the Zigbee dongle as well.                                   |
+| 01:27:48   | And I paired that to the [[Zigbee]] dongle.                                                           |
+| 01:27:49   | And I paired an Aqara door sensor to the [[Zigbee]] dongle as well.                                   |
 | 01:27:53   | And so I stuck the Aqara door sensor on my dishwasher.                                            |
 | 01:27:56   | And the reason why I ended up with the button is because during the day, as I load my dishwasher, |
 | 01:28:02   | I open and close the door.                                                                        |
