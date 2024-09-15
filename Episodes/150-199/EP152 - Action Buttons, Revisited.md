@@ -402,7 +402,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 15:11      | And all the kind of home kit enabled stuff                      |
 | 15:13      | that I've put together, I've put in there.                      |
 | 15:16      | Like I want to add to it                                        |
-| 15:18      | because I bought one of those [[Broadlink IR Blaster\|Broadlink blasters]]                |
+| 15:18      | because I bought one of those [[Broadlink Smart IR Blaster\|Broadlink blasters]]                |
 | 15:22      | that you told me about.                                         |
 | 15:23      | So it sends out an [[IR]] signal                                    |
 | 15:25      | and I've got it all now hooked up                               |

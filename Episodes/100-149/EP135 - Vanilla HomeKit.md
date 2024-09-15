@@ -785,8 +785,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 45:06      | stick one which is great if you just want to like try some stuff out and you know get                     |
 | 45:10      | something very cheap they've got a couple of camera ones so your hub is also a camera                     |
 | 45:16      | which is really cool and then they've got just sort of like a black round circular                        |
-| 45:20      | puck but it's got an IR blaster in it as well which is very cool so it can control things                 |
-| 45:26      | like TV and stuff that that unfortunately the IR blaster stuff last time I double checked                 |
+| 45:20      | puck but it's got an [[IR blaster]] in it as well which is very cool so it can control things                 |
+| 45:26      | like TV and stuff that that unfortunately the [[IR blaster]] stuff last time I double checked                 |
 | 45:32      | it didn't turn up in home kit which was a little bit of a shame but I think they've                       |
 | 45:36      | been working on that so that may appear soon or is already there I'm not 100% certain but                 |
 | 45:41      | yeah their their stuff is very affordable as well I find yeah that's the advantage so                     |

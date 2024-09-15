@@ -204,7 +204,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 09:09      | the environment, things like that, you know, if you have Aircon, then yeah, you can turn            |
 | 09:14      | off the Aircon.                                                                                     |
 | 09:15      | It might even be worth looking into, you know, a lot of folks have got Aircon with like a           |
-| 09:20      | remote control that you can control via an IR blaster.                                              |
+| 09:20      | remote control that you can control via an [[IR blaster]].                                              |
 | 09:25      | So something that doesn't have home kit support, I'm going to completely forget the name of         |
 | 09:30      | it now.                                                                                             |
 | 09:31      | But it does have an app and it can learn.                                                           |
@@ -232,7 +232,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 10:29      | Yeah, I can control that via this little smart device.                                              |
 | 10:33      | So I've got it linked into my Chromecast now, which is really cool.                                 |
 | 10:37      | So when I turn my Chromecast on, the TV turns on, et cetera.                                        |
-| 10:40      | So I've just managed to double check and it is the broad link IR blaster.                           |
+| 10:40      | So I've just managed to double check and it is the broad link [[IR blaster]].                           |
 | 10:44      | And yeah, so they don't work with [[HomeKit]], unfortunately, or at least not yet.                      |
 | 10:48      | Maybe at some point they'll add master support and then we can use them in [[HomeKit]].                 |
 | 10:54      | But as it is, it's great for learning, like I've got this fan heater that's got a remote            |

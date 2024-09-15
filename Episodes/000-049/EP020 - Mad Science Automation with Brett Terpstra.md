@@ -678,7 +678,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:04      | Yeah.                                                                                                 |
 | 34:05      | It's okay, I'm currently searching on [[Amazon]] to see if they have them in [[Amazon]], in Germany.          |
 | 34:11      | So it can control Chromecast, Harmony Hub, IFTTT, IKEA, Trad Free Lights, Internet                    |
-| 34:21      | Request, IR Blaster, which is, Flick makes an IR Blaster too that you can use to turn                 |
+| 34:21      | Request, [[IR Blaster]], which is, Flick makes an [[IR Blaster]] too that you can use to turn                 |
 | 34:27      | a point, like your TV on and off.                                                                     |
 | 34:30      | Yeah.                                                                                                 |
 | 34:31      | So LIFX, Philips Hue, Play a Sound, [[Slack]] Post, Sonos, [[Spotify]], Zapier, VLC, Wemo, Wink.              |
@@ -691,8 +691,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:51      | Well, I have five around the house, but that's the one that's in my office.                           |
 | 34:57      | One of them just turns on the whole entertainment system.                                             |
 | 34:59      | It's mounted underneath the lip of the dining room, coffee table.                                     |
-| 35:03      | So using the IR Blaster to do that, I mean, you still got to get a TV turned on, okay.                |
-| 35:08      | I use the IR, and I use a Harmony, whatever their hub is called.                                      |
+| 35:03      | So using the [[IR Blaster]] to do that, I mean, you still got to get a TV turned on, okay.                |
+| 35:08      | I use the [[IR]], and I use a Harmony, whatever their hub is called.                                      |
 | 35:14      | Yeah.                                                                                                 |
 | 35:15      | Yeah.                                                                                                 |
 | 35:16      | I think it's the Logitech Harmony Hub or something along those lines.                                 |
