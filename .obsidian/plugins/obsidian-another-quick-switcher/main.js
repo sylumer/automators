@@ -43,9 +43,8 @@ var require_dist = __commonJS({
       __assign = Object.assign || function(t) {
         for (var s, i = 1, n = arguments.length; i < n; i++) {
           s = arguments[i];
-          for (var p in s)
-            if (Object.prototype.hasOwnProperty.call(s, p))
-              t[p] = s[p];
+          for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+            t[p] = s[p];
         }
         return t;
       };
@@ -53,34 +52,28 @@ var require_dist = __commonJS({
     };
     var __read = exports && exports.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
-      if (!m)
-        return o;
+      if (!m) return o;
       var i = m.call(o), r, ar = [], e;
       try {
-        while ((n === void 0 || n-- > 0) && !(r = i.next()).done)
-          ar.push(r.value);
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
       } catch (error) {
         e = { error };
       } finally {
         try {
-          if (r && !r.done && (m = i["return"]))
-            m.call(i);
+          if (r && !r.done && (m = i["return"])) m.call(i);
         } finally {
-          if (e)
-            throw e.error;
+          if (e) throw e.error;
         }
       }
       return ar;
     };
     var __spreadArray = exports && exports.__spreadArray || function(to, from, pack) {
-      if (pack || arguments.length === 2)
-        for (var i = 0, l = from.length, ar; i < l; i++) {
-          if (ar || !(i in from)) {
-            if (!ar)
-              ar = Array.prototype.slice.call(from, 0, i);
-            ar[i] = from[i];
-          }
+      if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
+        if (ar || !(i in from)) {
+          if (!ar) ar = Array.prototype.slice.call(from, 0, i);
+          ar[i] = from[i];
         }
+      }
       return to.concat(ar || Array.prototype.slice.call(from));
     };
     Object.defineProperty(exports, "__esModule", { value: true });
@@ -1015,7 +1008,8 @@ var AppHelper = class {
     const editor = activeMarkdownView.editor;
     editor.replaceSelection(str);
   }
-  insertLinkToActiveFileBy(file, phantom) {
+  insertLinkToActiveFileBy(file, phantom, displayedString) {
+    var _a;
     const activeMarkdownView = this.unsafeApp.workspace.getActiveViewOfType(import_obsidian.MarkdownView);
     if (!(activeMarkdownView == null ? void 0 : activeMarkdownView.file)) {
       return;
@@ -1024,6 +1018,21 @@ var AppHelper = class {
       file,
       activeMarkdownView.file.path
     );
+    if (displayedString) {
+      if (this.unsafeApp.vault.config.useMarkdownLinks) {
+        const { text, link } = Array.from(
+          linkText.matchAll(/\[(?<text>[^\]]+)]\((?<link>.+)\)/g)
+        )[0].groups;
+        if (text !== displayedString) {
+          linkText = `[${displayedString}](${link})`;
+        }
+      } else {
+        const text = (_a = Array.from(linkText.matchAll(/\[\[(?<text>[^\]]+)]]/g))[0].groups) == null ? void 0 : _a.text;
+        if (text !== displayedString) {
+          linkText = `[[${text}|${displayedString}]]`;
+        }
+      }
+    }
     if (phantom) {
       linkText = linkText.replace(/\[\[.*\/([^\]]+)]]/, "[[$1]]");
     }
@@ -1397,6 +1406,22 @@ function stampMatchResults(item, queries, options) {
   return {
     ...item,
     matchResults: matchQueryAll(item, queries, options)
+  };
+}
+function getMatchedTitleAndAliases(item) {
+  const matchTitle = item.matchResults.find(
+    (x) => ["word-perfect", "prefix-name", "name", "fuzzy-name"].includes(x.type) && !x.alias
+  );
+  const displayedAliases = uniqFlatMap(
+    item.matchResults.filter((res) => res.alias),
+    (x) => {
+      var _a;
+      return (_a = x.meta) != null ? _a : [];
+    }
+  );
+  return {
+    title: matchTitle ? item.file.basename : void 0,
+    aliases: displayedAliases
   };
 }
 
@@ -2846,7 +2871,7 @@ function createMetaDiv(args) {
         title: key,
         text: key
       });
-      for (const v of [value].flat()) {
+      for (const v of [value].flat().filter(isPresent)) {
         frontMatterDiv.createSpan({
           cls: "another-quick-switcher__item__meta__front_matter__value",
           title: v.toString(),
@@ -2946,16 +2971,11 @@ function createDescriptionDiv(args) {
 }
 function createElements(item, options) {
   var _a;
-  const aliases = uniqFlatMap(
-    item.matchResults.filter((res) => res.alias),
-    (x) => {
-      var _a2;
-      return (_a2 = x.meta) != null ? _a2 : [];
-    }
-  );
+  const { title, aliases } = getMatchedTitleAndAliases(item);
+  const matchedAliasesOnly = title ? [] : aliases;
   const itemDiv = createItemDiv(
     item,
-    options.displayAliaseAsTitle ? item.aliases : aliases,
+    options.displayAliaseAsTitle ? item.aliases : matchedAliasesOnly,
     options
   );
   const frontMatter = omitBy(
@@ -2999,7 +3019,7 @@ function createElements(item, options) {
   );
   const descriptionDiv = aliases.length !== 0 || tags.length !== 0 || Object.keys(countByLink).length !== 0 || Object.keys(countByHeader).length !== 0 ? createDescriptionDiv({
     item,
-    aliases,
+    aliases: matchedAliasesOnly,
     tags,
     countByLink,
     countByHeader,
@@ -3618,8 +3638,12 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       }
     });
     this.registerKeys("insert to editor", async () => {
-      var _a, _b, _c, _d, _e;
-      const file = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
+      var _a, _b;
+      const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
+      if (!item) {
+        return;
+      }
+      const file = item.file;
       if (!file) {
         return;
       }
@@ -3627,15 +3651,21 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       if (this.appHelper.isActiveLeafCanvas()) {
         this.appHelper.addFileToCanvas(file);
       } else {
+        const { title, aliases } = getMatchedTitleAndAliases(item);
         this.appHelper.insertLinkToActiveFileBy(
           file,
-          (_e = (_d = (_c = this.chooser.values) == null ? void 0 : _c[this.chooser.selectedItem]) == null ? void 0 : _d.phantom) != null ? _e : false
+          (_b = item.phantom) != null ? _b : false,
+          this.settings.showAliasesOnTop ? title != null ? title : aliases.at(0) : void 0
         );
       }
     });
     this.registerKeys("insert to editor in background", async () => {
-      var _a, _b, _c, _d, _e;
-      const file = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
+      var _a, _b;
+      const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
+      if (!item) {
+        return;
+      }
+      const file = item.file;
       if (!file) {
         return;
       }
@@ -3647,9 +3677,11 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       if (this.appHelper.isActiveLeafCanvas()) {
         this.appHelper.addFileToCanvas(file);
       } else {
+        const { title, aliases } = getMatchedTitleAndAliases(item);
         this.appHelper.insertLinkToActiveFileBy(
           file,
-          (_e = (_d = (_c = this.chooser.values) == null ? void 0 : _c[this.chooser.selectedItem]) == null ? void 0 : _d.phantom) != null ? _e : false
+          (_b = item.phantom) != null ? _b : false,
+          this.settings.showAliasesOnTop ? title != null ? title : aliases.at(0) : void 0
         );
         this.appHelper.insertStringToActiveFile("\n");
       }
@@ -3666,7 +3698,12 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
           });
           offsetX += cv.width + 30;
         } else {
-          this.appHelper.insertLinkToActiveFileBy(x.file, x.phantom);
+          const { title, aliases } = getMatchedTitleAndAliases(x);
+          this.appHelper.insertLinkToActiveFileBy(
+            x.file,
+            x.phantom,
+            this.settings.showAliasesOnTop ? title != null ? title : aliases.at(0) : void 0
+          );
           this.appHelper.insertStringToActiveFile("\n");
         }
       }
