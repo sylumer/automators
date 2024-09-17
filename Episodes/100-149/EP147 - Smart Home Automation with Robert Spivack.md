@@ -756,7 +756,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 48:18      | less expensive.                                                                                        |
 | 48:20      | I personally have IKEA blinds.                                                                         |
 | 48:22      | They aren't the quietest, but they're certainly not loud.                                              |
-| 48:26      | And I also have some Aqara blind controllers and Aqara and SwitchBot curtain motors that               |
+| 48:26      | And I also have some Aqara blind controllers and Aqara and [[SwitchBot Curtain Opener\|SwitchBot curtain motors]] that               |
 | 48:32      | you can put onto like a curtain rail to move your curtains back and forth.                             |
 | 48:37      | And they all work very well, you know, obviously the [[Lutron]] ones and the Hunter Douglas ones           |
 | 48:44      | would be lovely, but those aren't available over here in the UK, which meant that I was                |

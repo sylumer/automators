@@ -279,11 +279,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 14:12      | as far as home kit is concerned, especially with regards to the fact that you can then                    |
 | 14:17      | bring devices into home kit that weren't previously home kit compatible by buying a [[Matter]] Hub            |
 | 14:23      | or using a [[Matter]] Hub and having those devices connected to it.                                           |
-| 14:28      | I have SwitchBot, I have SwitchBot curtains, and previously I was not able to get those                   |
+| 14:28      | I have [[SwitchBot Bot\|SwitchBot]], I have [[SwitchBot Curtain Opener\|SwitchBot curtains]], and previously I was not able to get those                   |
 | 14:35      | into home kit natively.                                                                                   |
-| 14:37      | I would have had to go through Homebridge, which is what I did originally, and then later                 |
+| 14:37      | I would have had to go through [[Homebridge]], which is what I did originally, and then later                 |
 | 14:43      | I moved to using [[Home Assistant]] for that.                                                                 |
-| 14:45      | Now I can buy a SwitchBot Smart Hub and add that to the [[Matter]]-based one.                                 |
+| 14:45      | Now I can buy a [[SwitchBot Hub\|SwitchBot Smart Hub]] and add that to the [[Matter]]-based one.                                 |
 | 14:53      | It's got a little temperature dial and temperature screen and everything built into it, which             |
 | 14:57      | is very nice.                                                                                             |
 | 14:58      | I can connect that to the curtains and connect that to home kit, and voila, my curtains are               |
@@ -909,9 +909,9 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 55:25      | are like eye rail or they're like in inside a little rail there's like hooky plasticky things             |
 | 55:32      | inside of a rail that slide back and forth either way and I have as well I mentioned SiwtchBots           |
 | 55:39      | ones earlier but I have some Aqara motors for controlling curtains and the Aqara motors are               |
-| 55:45      | better than the SwitchBot motors in some sense in many senses because they are more powerful and          |
+| 55:45      | better than the [[SwitchBot Curtain Opener\|SwitchBot]] motors in some sense in many senses because they are more powerful and          |
 | 55:50      | when you have floor length velvet curtains like I do you need the more powerful motors because            |
-| 55:56      | the SwitchBots could not handle those and so I have Aqara curtain sensors and I also have blind           |
+| 55:56      | the [[SwitchBot Curtain Opener\|SwitchBot's]] could not handle those and so I have Aqara curtain sensors and I also have blind           |
 | 56:01      | or not curtain sensors curtain motors as a blind motors which have like a little cog on them and          |
 | 56:07      | the chain from the blind goes in there and then it can open and close the the blinds automatically        |
 | 56:13      | for me based on you know just like me arriving home and yeah then my my blinds by my door open            |
@@ -920,7 +920,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 56:33      | point another way so that I don't end up sitting there with a whole bunch of like sun shining             |
 | 56:37      | into my eyes attempting to blind me which is great but I so good to take advantage of the sunlight        |
 | 56:43      | I think Aqara is the one who I bought the most products from at this point yeah yeah if you buy           |
-| 56:49      | the the like the sensors and someone from Aliexpress in particular you can definitely get                 |
+| 56:49      | the the like the sensors and someone from Ali Express in particular you can definitely get                 |
 | 56:56      | you know good bundles very cheaply you'll have to wait a little bit for postage it could be               |
 | 57:01      | you know 10 days two weeks for it but you know it's I feel like it's worth waiting the 10 days            |
 | 57:08      | to two weeks if you know like buy one from [[Amazon]] by all means and get it tomorrow to try it out          |

@@ -175,7 +175,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 10:40      | recently with a software update. I don't want to get into it today because I need to do a little        |
 | 10:45      | more prep on it. But if you've got Aqara sensors and you want to get some of those additional           |
 | 10:50      | features into [[HomeKit]], it's actually easier now than it used to be. So yeah, I've seen that and         |
-| 10:55      | I've also seen the SwitchBot appears to be doing something very similar as well with their              |
+| 10:55      | I've also seen the [[SwitchBot]] appears to be doing something very similar as well with their              |
 | 10:58      | [[Matter]]-based hub. So that's definitely something that we should look into because yeah, I've had       |
 | 11:03      | some questions come in about that recently. Oh, that's so cool. I look forward to that show.            |
 | 11:08      | Alex, you got to find Aqara in your life if you're doing a home automation. It's just so great.         |
@@ -481,7 +481,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 44:03      | Okay, vitamins for the Americans. I'm sorry.                                                            |
 | 44:06      | Well, back when I was in university, actually, I was going to say the biggest struggle I have had       |
 | 44:15      | with NFC tags is finding some that don't break. I guess the best luck I've had is with the              |
-| 44:27      | SwitchBot stickers. Those are on [[Amazon]]. They're a bit more expensive than the stickers that you        |
+| 44:27      | [[SwitchBot Tag\|SwitchBot stickers]]. Those are on [[Amazon]]. They're a bit more expensive than the stickers that you        |
 | 44:35      | can buy for $3. There's like 80 of these little stickers, but what I use, I guess they're almost        |
 | 44:47      | like cardstock a little bit. They used to be very colourful when I had each of my contexts               |
 | 45:01      | or focus modes. They are based around a certain colour. Let's just say my spouse thought they            |

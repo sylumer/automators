@@ -957,14 +957,14 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:06:04   | in there sometime where we need to do like a landlord friendly automation show because that's           |
 | 01:06:09   | a problem a lot of people have. I mean, it's like I want to do automation, but I can't replace          |
 | 01:06:15   | light switches. I mean, what can I do? And I get it. It's got to be a struggle.                         |
-| 01:06:23   | Yeah. Yeah. I'm currently looking for a better alternative to the SwitchBot.                            |
-| 01:06:27   | SwitchBot for people who don't know is a tiny little device. It's got a plastic arm in it               |
-| 01:06:33   | and it's Bluetooth, but you stick it on something like a light switch and the arm reaches out and       |
+| 01:06:23   | Yeah. Yeah. I'm currently looking for a better alternative to the [[SwitchBot Bot\|SwitchBot]].                            |
+| 01:06:27   | [[SwitchBot Bot\|SwitchBot]] for people who don't know is a tiny little device. It's got a plastic arm in it               |
+| 01:06:33   | and it's [[Bluetooth]], but you stick it on something like a light switch and the arm reaches out and       |
 | 01:06:37   | presses the switch for you. So it's great for things like coffee makers and so on or a light            |
-| 01:06:43   | switch where you can't replace a light switch. The problem that it is is Bluetooth. Like [[Thread]]         |
+| 01:06:43   | switch where you can't replace a light switch. The problem that it is is [[Bluetooth]]. Like [[Thread]]         |
 | 01:06:49   | is much better, but these are not [[Thread]]. They are Bluetooth. And I think you had that, Micah,          |
 | 01:06:55   | with the Belkin Wemo switch until recently, until it finally got [[Thread]] where it was just              |
-| 01:07:01   | terrible. Like the SwitchBot curtains are great because let's face it, how often do you actually        |
+| 01:07:01   | terrible. Like the [[SwitchBot Curtain Opener\|SwitchBot curtains]] are great because let's face it, how often do you actually        |
 | 01:07:06   | interact with your curtains on a daily basis? Probably twice a day and having them open or              |
 | 01:07:10   | close a minute or so later, perhaps it's never even that long. It's fine. But when you walk into        |
 | 01:07:17   | a room and you want the light to turn on, waiting 30 seconds for the light to turn on, because          |

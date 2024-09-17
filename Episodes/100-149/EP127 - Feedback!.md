@@ -1125,18 +1125,18 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:09:43   | Yeah, a little bit of experience with Hoops.                                                           |
 | 01:09:46   | It's one of those things where it's definitely nice and easy because you just kind of buy              |
 | 01:09:51   | the box, you plug it in and it works.                                                                  |
-| 01:09:53   | Under the hood, it's basically running Homebridge.                                                     |
-| 01:09:56   | So if anybody's going, oh, that sounds really easy, it is running Homebridge.                          |
-| 01:10:02   | If you have a computer at home like a Synology or something, you can definitely run this               |
+| 01:09:53   | Under the hood, it's basically running [[Homebridge]].                                                     |
+| 01:09:56   | So if anybody's going, oh, that sounds really easy, it is running [[Homebridge]].                          |
+| 01:10:02   | If you have a computer at home like a [[Synology]] or something, you can definitely run this               |
 | 01:10:08   | yourself and you can make it a lot easier for yourself.                                                |
-| 01:10:14   | So Hoops is great.                                                                                     |
+| 01:10:14   | So Hoobs is great.                                                                                     |
 | 01:10:15   | I personally prefer [[Home Assistant]] for a load of the stuff, but yeah, there's a lot of great           |
 | 01:10:21   | options out there.                                                                                     |
 | 01:10:22   | It's worth considering.                                                                                |
-| 01:10:24   | That said, at the moment, a Hoops starter box is on sale for $249.99, so I feel like                   |
+| 01:10:24   | That said, at the moment, a Hoobs starter box is on sale for $249.99, so I feel like                   |
 | 01:10:33   | if somebody is looking at using this to solve their home automation problems, definitely               |
-| 01:10:38   | take a look at Homebridge and [[Home Assistant]] first because they are free.                              |
-| 01:10:42   | If you already have Hoops, that's great.                                                               |
+| 01:10:38   | take a look at [[Homebridge]] and [[Home Assistant]] first because they are free.                              |
+| 01:10:42   | If you already have Hoobs, that's great.                                                               |
 | 01:10:47   | It works.                                                                                              |
 | 01:10:48   | It's wonderful.                                                                                        |
 | 01:10:49   | That's good.                                                                                           |
@@ -1146,9 +1146,9 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:11:02   | automation devices, which will then work with [[Matter]] and [[HomeKit]] in the near future.                   |
 | 01:11:07   | How long do you think we're going to have to wait for Matter to really land?                           |
 | 01:11:13   | I mean, I kind of feel like to an extent it's already here.                                            |
-| 01:11:15   | I got the new SwitchBot Hub the other day, which I've only just started playing with                   |
-| 01:11:20   | it, but that's a Matter Hub.                                                                           |
-| 01:11:22   | That will integrate the things like the curtains, the SwitchBot curtains that I have into [[HomeKit]]      |
+| 01:11:15   | I got the new [[SwitchBot Hub]] the other day, which I've only just started playing with                   |
+| 01:11:20   | it, but that's a [[Matter]] hub.                                                                           |
+| 01:11:22   | That will integrate the things like the curtains, the [[SwitchBot Curtain Opener\|SwitchBot curtains]] that I have into [[HomeKit]]      |
 | 01:11:27   | directly as well as [[Home Assistant]], which is great.                                                    |
 | 01:11:31   | I'm looking forward to giving that a better try.                                                       |
 | 01:11:33   | I've only just set it up, so I can't really talk about that yet.                                       |

@@ -1085,7 +1085,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:02:58   | to the internet, the more likely it is something is going to go wrong.                                    |
 | 01:03:02   | But yeah, so I have smart blinds.                                                                         |
 | 01:03:05   | And then in front of that, I've got smart curtains.                                                       |
-| 01:03:07   | And I've got a combination of SwitchBot curtain controllers, and I've got some Aqara ones                 |
+| 01:03:07   | And I've got a combination of [[SwitchBot Curtain Opener\|SwitchBot curtain controllers]], and I've got some Aqara ones                 |
 | 01:03:11   | as well, which basically what they do is they sit on the curtain rail, and they grip the                  |
 | 01:03:17   | curtain rail, and they are next to the innermost ring.                                                    |
 | 01:03:22   | So they're between the first ring, like if you have two curtains closing in the centre,                   |
@@ -1117,9 +1117,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:04:55   | they're kind of heavy.                                                                                    |
 | 01:04:56   | So.                                                                                                       |
 | 01:04:57   | Yeah.                                                                                                     |
-| 01:04:58   | In my sense, the Aqara driver for the curtains is better than the SwitchBot one.                          |
-| 01:05:01   | SwitchBot now has a version two, which is really looking, you know, really, really good because           |
-| 01:05:07   | I found that the SwitchBot previously struggled with my floor length curtains in the living               |
+| 01:04:58   | In my sense, the Aqara driver for the curtains is better than the [[SwitchBot Curtain Opener\|SwitchBot]] one.                          |
+| 01:05:01   | [[SwitchBot]] now has a version two, which is really looking, you know, really, really good because           |
+| 01:05:07   | I found that the [[SwitchBot Curtain Opener\|SwitchBot]] previously struggled with my floor length curtains in the living               |
 | 01:05:12   | room.                                                                                                     |
 | 01:05:13   | Yeah.                                                                                                     |
 | 01:05:14   | Now, they're a really nice sort of crushed velvet.                                                        |
@@ -1131,12 +1131,12 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:05:41   | curious and wanted to try it out and see if it was really good.                                           |
 | 01:05:44   | And honestly, it's impressive.                                                                            |
 | 01:05:48   | It's very, very powerful, which is great.                                                                 |
-| 01:05:52   | And I have to say, it's nice that there is a solar panel option with the SwitchBot.                       |
+| 01:05:52   | And I have to say, it's nice that there is a solar panel option with the [[SwitchBot Curtain Opener\|SwitchBot]].                       |
 | 01:05:58   | That being said, I found just based on the fact that it's so high up, and maybe it's                      |
 | 01:06:03   | just the way that we hang our curtains in the UK, but the curtain rod is not level with                   |
 | 01:06:07   | the top of the window.                                                                                    |
 | 01:06:08   | It's above the top of the window.                                                                         |
-| 01:06:10   | So by attaching the solar panel to like the SwitchBot, where the SwitchBot is hanging,                    |
+| 01:06:10   | So by attaching the solar panel to like the [[SwitchBot Curtain Opener\|SwitchBot]], where the [[SwitchBot Curtain Opener\|SwitchBot]] is hanging,                    |
 | 01:06:17   | like it doesn't get as much light as it probably ought to.                                                |
 | 01:06:22   | And so it can struggle with recharging via solar.                                                         |
 | 01:06:25   | But honestly, I just throw a large battery pack on the windowsill with some long USB-C                    |

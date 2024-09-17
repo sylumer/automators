@@ -231,7 +231,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 09:15      | It works incredibly quickly.                                                                      |
 | 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the Aqara hub, detects      |
 | 09:23      | motion and the light turns on.                                                                    |
-| 09:25      | So that's all kinds of magic running incredibly quickly because the SwitchBot solution I had,     |
+| 09:25      | So that's all kinds of magic running incredibly quickly because the [[SwitchBot]] solution I had,     |
 | 09:31      | it worked really well, it was just slow.                                                          |
 | 09:34      | You walk into the kitchen and you'd have a glass that was half full of water before the           |
 | 09:39      | light turned on and that just wasn't good because then you end up turning the light on yourself.  |
@@ -310,18 +310,18 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 13:58      | this way.                                                                                         |
 | 13:59      | I don't know.                                                                                     |
 | 14:00      | I feel like that's like not impossible for Rosemary Orchard to have something like that.          |
-| 14:04      | I mean, actually I looked at the SwitchBot because I thought the SwitchBot can do, so             |
-| 14:09      | the SwitchBot for people who don't know, it's a little robot that you stick on a surface          |
+| 14:04      | I mean, actually I looked at the [[SwitchBot Bot\|SwitchBot]] because I thought the [[SwitchBot Bot\|SwitchBot]] can do, so             |
+| 14:09      | the [[SwitchBot Bot\|SwitchBot]] for people who don't know, it's a little robot that you stick on a surface          |
 | 14:14      | and it's got an arm that can come out and press something, but it can also turn things            |
 | 14:18      | off by pulling.                                                                                   |
 | 14:21      | And I thought maybe if I set it up and so I threaded some like fishing line or floss              |
-| 14:27      | or something through the cord that is on this light and had the SwitchBot pull rather than        |
+| 14:27      | or something through the cord that is on this light and had the [[SwitchBot Bot\|SwitchBot]] pull rather than        |
 | 14:39      | push, that could work.                                                                            |
 | 14:42      | And then I decided that that really feels very janky and I did some basic experiments             |
 | 14:48      | and I don't think it would pull with enough force to actually succeed.                            |
 | 14:53      | Yeah.                                                                                             |
 | 14:54      | The tension on a pole switch is actually pretty high.                                             |
-| 14:56      | So all it would probably do is cause your SwitchBot to lift off the counter and then              |
+| 14:56      | So all it would probably do is cause your [[SwitchBot Bot\|SwitchBot]] to lift off the counter and then              |
 | 15:00      | float back down.                                                                                  |
 | 15:02      | Exactly.                                                                                          |
 | 15:03      | Yeah.                                                                                             |
@@ -572,7 +572,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 28:43      | You have an entry in the outline solar panels.                                                    |
 | 28:47      | I want to know what you're doing with solar panels.                                               |
 | 28:50      | Well, I've got a couple of things running on solar panels now.                                    |
-| 28:54      | All of my curtain openers, which are a SwitchBot curtain openers are now solar panel powered.     |
+| 28:54      | All of my curtain openers, which are [[SwitchBot Curtain Opener\|SwitchBot curtain openers]] are now solar panel powered.     |
 | 29:01      | And this, it won't charge them from flat to fully charged, but it will absolutely keep            |
 | 29:08      | them fully charged if they're charged up.                                                         |
 | 29:11      | And so I've got solar panels in the bedroom in the office.                                        |
@@ -582,8 +582,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 29:24      | So I've just hung them on the door frame.                                                         |
 | 29:28      | And so they're, they're just there.                                                               |
 | 29:29      | They're actually on the door itself.                                                              |
-| 29:31      | So when you open the door, I had to buy some USB-C extension cables, which are card don't         |
-| 29:35      | officially, sorry, which a SwitchBot don't officially support, but it works fine.                 |
+| 29:31      | So when you open the door, I had to buy some USB-C extension cables, which [[Aqara]] don't         |
+| 29:35      | officially, sorry, which err [[SwitchBot]] don't officially support, but it works fine.                 |
 | 29:40      | I have no problem with that.                                                                      |
 | 29:43      | So yeah, I've got solar powered stuff everywhere.                                                 |
 | 29:46      | And I recently got my parents some cameras and a solar panel for that as well for the             |
