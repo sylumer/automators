@@ -1355,7 +1355,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:32:11   | Put your budget into getting all your [[HomeKit]] or smart home devices off Wi-Fi as much as               |
 | 01:32:18   | possible.                                                                                              |
 | 01:32:20   | That's such an easy call.                                                                              |
-| 01:32:21   | I mean, Rose and I talk about Aqara, I feel like every episode, but get an Aqara hub and               |
+| 01:32:21   | I mean, Rose and I talk about Aqara, I feel like every episode, but get an [[Aqara Hub]] and               |
 | 01:32:27   | the Aqara sensors and devices are not that expensive.                                                  |
 | 01:32:32   | It's shocking how reliable they are for how little they cost.                                          |
 | 01:32:37   | That brings up a related point is besides the fear or the reluctance to buy a so-called                |

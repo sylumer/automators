@@ -673,20 +673,20 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 51:03      | but it does give you a great interface for editing automations, which for me is definitely               |
 | 51:10      | something I'm very excited by.                                                                           |
 | 51:12      | Now, you're also, I guess, at war against your hubs, right?                                              |
-| 51:16      | Yeah. Yeah, I kind of am. So originally I bought the Aqara M1S, which is a round, white                  |
+| 51:16      | Yeah. Yeah, I kind of am. So originally I bought the [[Aqara Hub#M1S (Gen 1)\|Aqara M1S]], which is a round, white                  |
 | 51:24      | round plug, which kind of looks like a doorbell chime, because it also functions as a doorbell           |
 | 51:29      | chime with a light around it that you just plug into the wall and it's Wi-Fi. And at                     |
 | 51:35      | the time, I thought, 32 devices? I'm not going to hit 32 devices. Editor, note, Rose                     |
 | 51:43      | hit 32 devices much quicker than Rose had anticipated. Surprise. And so I ended up needing               |
-| 51:50      | another Aqara hub. And so I bought the Aqara M2 hub, and the Aqara M2 hub is great, but                  |
+| 51:50      | another [[Aqara Hub]]. And so I bought the [[Aqara Hub#M2\|Aqara M2 hub]], and the [[Aqara Hub#M2\|Aqara M2 hub]] is great, but                  |
 | 51:56      | migrating things between the devices or between the hubs started breaking some of my automations.        |
 | 52:03      | And it was at this point that I had already bought a [[Zigbee]] dongle for [[Home Assistant]] because            |
 | 52:07      | I wanted to try the smart smoke detector because I was, I got woken up at three o'clock in               |
 | 52:13      | the morning by the smoke detector going, beep, I'm running out of battery, beep, I'm running             |
 | 52:17      | out of battery, which is everybody's worst nightmare. So being able to check the battery                 |
-| 52:21      | level from Home Kid and [[Home Assistant]] is really useful. And so I bought this dongle                     |
+| 52:21      | level from [[HomeKit]] and [[Home Assistant]] is really useful. And so I bought this dongle                     |
 | 52:26      | and I thought, you know, if I'm moving things from one device to another, why don't I just               |
-| 52:32      | try pairing the Aqara stuff straight into [[Home Assistant]]? And it worked. It worked really,               |
+| 52:32      | try pairing the [[Aqara]] stuff straight into [[Home Assistant]]? And it worked. It worked really,               |
 | 52:38      | really well. And then I realised that I could get a bit nerdier and combine two devices so                |
 | 52:45      | that if both the motion sensors on my chair notice something, then actually, or if either                |
 | 52:51      | motion sensor on my chair notices something in my office, then that appears as motion                    |

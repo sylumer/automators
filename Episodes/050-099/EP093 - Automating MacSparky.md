@@ -1600,7 +1600,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:32:20   | that home and sensors, which is great.                                                                 |
 | 01:32:21   | Did the same thing.                                                                                    |
 | 01:32:22   | I told my sister because I have a brother-in-law, it's kind of nerdy.                                  |
-| 01:32:25   | I said, buy him the Aqara hub and two water sensors and he's already called me and he                  |
+| 01:32:25   | I said, buy him the [[Aqara Hub]] and two [[Aqara Water Leak Sensor\|water sensors]] and he's already called me and he                  |
 | 01:32:31   | wants to get more and I gave him the low down in terms of mobile sensors, sensors that grow            |
 | 01:32:39   | legs.                                                                                                  |
 | 01:32:40   | Let me tell you something.                                                                             |

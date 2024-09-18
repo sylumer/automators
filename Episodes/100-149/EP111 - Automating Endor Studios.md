@@ -797,7 +797,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 46:00      | Like I've been playing with a Raspberry Pi and a thermal camera in one room just to                       |
 | 46:04      | see if I can do something with that.                                                                      |
 | 46:08      | And they all work really well.                                                                            |
-| 46:09      | But if you want something that just works and connects to the Aqara hub and therefore                     |
+| 46:09      | But if you want something that just works and connects to the [[Aqara Hub]] and therefore                     |
 | 46:15      | straightened home kit, yeah, this is the one.                                                             |
 | 46:20      | It is exceptionally good.                                                                                 |
 | 46:22      | And that is not in [[Amazon]] yet.                                                                            |
@@ -969,7 +969,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 56:33      | Yeah, I just need to look deeper.                                                                         |
 | 56:35      | Yes.                                                                                                      |
 | 56:36      | So the originally, I think they were separately available from Xiaomi and could be a pair                 |
-| 56:43      | to the Aqara hub, but I just ordered my own ones again.                                                   |
+| 56:43      | to the [[Aqara Hub]], but I just ordered my own ones again.                                                   |
 | 56:52      | I tend to order my Aqara accessories from Aliexpress just because they are affordable                     |
 | 56:57      | and they arrive pretty quickly.                                                                           |
 | 56:59      | But I think that one is a newer one and they definitely had a problem with the chip shortage              |
@@ -1205,7 +1205,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:09:49   | My favourite part of this, David, is you already own one, which of course is everybody's favourite          |
 | 01:09:55   | price tag, right?                                                                                         |
 | 01:09:56   | It's free.                                                                                                |
-| 01:09:57   | But if you've got an Aqara hub, it has an alarm system built in if you get door sensors                   |
+| 01:09:57   | But if you've got an [[Aqara Hub]], it has an alarm system built in if you get door sensors                   |
 | 01:10:01   | and motion sensors.                                                                                       |
 | 01:10:02   | I didn't know that.                                                                                       |
 | 01:10:04   | It does.                                                                                                  |
@@ -1223,7 +1223,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:10:48   | And the eufye camera system has options to do home mode and away mode, where it can record                 |
 | 01:10:53   | differently to the base station, which is really nice.                                                    |
 | 01:10:57   | And obviously home kit already handles the home kit secure video side of things.                          |
-| 01:11:02   | But the Aqara hub with those door and window sensors that I mentioned earlier and a motion                |
+| 01:11:02   | But the [[Aqara Hub]] with those door and window sensors that I mentioned earlier and a motion                |
 | 01:11:06   | sensor can also work as an alarm system for you.                                                          |
 | 01:11:10   | And you can have it set into different modes semi-automatically through home kit.                         |
 | 01:11:15   | Now I say semi-automatically because controlling an alarm system is something that requires               |

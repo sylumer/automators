@@ -229,7 +229,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 09:04      | using [[Home Assistant]] kind of like a [[Zigbee]] hub, like you can use it the same as a Hue hub           |
 | 09:09      | or an IKEA hub and so I set that up and gave that a whirl and I was impressed.                    |
 | 09:15      | It works incredibly quickly.                                                                      |
-| 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the Aqara hub, detects      |
+| 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the [[Aqara Hub]], detects      |
 | 09:23      | motion and the light turns on.                                                                    |
 | 09:25      | So that's all kinds of magic running incredibly quickly because the [[SwitchBot]] solution I had,     |
 | 09:31      | it worked really well, it was just slow.                                                          |
@@ -418,7 +418,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 20:21      | And so I did some digging around and I found that me, that's MI, and they're part of the          |
 | 20:27      | Xiaomi brand, make some light sensors, which are pretty small.                                    |
 | 20:30      | They're like an inch or so in diameter.                                                           |
-| 20:36      | And they pair directly with the Aqara hub and they appear in [[HomeKit]].                             |
+| 20:36      | And they pair directly with the [[Aqara Hub]] and they appear in [[HomeKit]].                             |
 | 20:39      | And so I got four of those and I've stuck one on the windowsill or the window frame               |
 | 20:43      | in every room, and that was it.                                                                   |
 | 20:47      | There's no extra work to it.                                                                      |
@@ -533,7 +533,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 26:55      | And also [[Controller for HomeKit]].                                                                  |
 | 26:58      | [[Controller for HomeKit]] has saved my bacon multiple times as I've gone through messing             |
 | 27:02      | with stuff.                                                                                       |
-| 27:04      | I accidentally reset my original Aqara hub at some point.                                         |
+| 27:04      | I accidentally reset my original [[Aqara Hub]] at some point.                                         |
 | 27:08      | And of course, it removed everything.                                                             |
 | 27:10      | Ouch.                                                                                             |
 | 27:11      | Yeah.                                                                                             |
@@ -542,7 +542,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 27:15      | Except while it did that, I'd made a backup earlier that day when playing with [[Controller for HomeKit]]        |
 | 27:21      | Yeah.                                                                                             |
 | 27:22      | And [[Controller for HomeKit]] has complete backups with automations, scenes, names, etc.             |
-| 27:27      | So I just had to pair the Aqara hub again, sync the names from the Aqara app into [[HomeKit]],        |
+| 27:27      | So I just had to pair the [[Aqara Hub]] again, sync the names from the Aqara app into [[HomeKit]],        |
 | 27:34      | which fortunately there's a button in the Aqara app settings to do that.                          |
 | 27:38      | And so it pushed all the names because I try to keep the names and sync between the apps          |
 | 27:42      | and because there's buttons for this, I do this regularly whenever I'm adding stuff from          |

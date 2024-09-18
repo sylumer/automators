@@ -1453,15 +1453,15 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 56:41      | instead of it coming tomorrow.                                     |
 | 56:43      | But they still work, right?                                        |
 | 56:44      | I guess I'd have to buy a hub too.                                 |
-| 56:46      | I don't have an Aqara hub.                                         |
-| 56:48      | Yeah, you probably wouldn't get an Aqara hub.                      |
-| 56:50      | If you don't have an Aqara hub                                     |
+| 56:46      | I don't have an [[Aqara Hub]].                                         |
+| 56:48      | Yeah, you probably wouldn't get an [[Aqara Hub]].                      |
+| 56:50      | If you don't have an [[Aqara Hub]]                                     |
 | 56:52      | but you are looking into [[Home Assistant]],                           |
 | 56:55      | you could get a [[Zigbee]] dongle for [[Home Assistant]],                  |
 | 56:59      | plug that in and pair the Aqara stuff with that                    |
 | 57:02      | and then share it back to [[HomeKit]].                                 |
 | 57:05      | That is something that you can do.                                 |
-| 57:07      | But that is a lot more work than just buying the Aqara hub.        |
+| 57:07      | But that is a lot more work than just buying the [[Aqara Hub]].        |
 | 57:10      | For most people, I would not recommend that route.                 |
 | 57:12      | It's just if you're really interested                              |
 | 57:14      | in all of the [[Home Assistant]] stuff                                 |
@@ -1499,7 +1499,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 58:25      | Yeah, it really is good.                                           |
 | 58:27      | So Aqara make things for Xiaomi.                                   |
 | 58:30      | And so you can actually buy the Xiaomi things                      |
-| 58:34      | and pair them in the Aqara app to the Aqara Hub                    |
+| 58:34      | and pair them in the Aqara app to the [[Aqara Hub]]                    |
 | 58:40      | and they should still appear in [[HomeKit]].                           |
 | 58:43      | So for example, I bought some Xiaomi motion sensors                |
 | 58:49      | because I couldn't get the Aqara one at a time.                    |

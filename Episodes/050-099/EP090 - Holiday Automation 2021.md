@@ -1293,7 +1293,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:13:50   | It's USB.                                                                                            |
 | 01:13:51   | So it's operating over Wi-Fi, which, you know, has pros and cons.                                    |
 | 01:13:56   | But I'm planning on setting this stuff up in my parents' living room.                                |
-| 01:14:00   | So I'm getting them an Aqara hub, an E1 hub, a motion sensor, and a light sensor, a luminance        |
+| 01:14:00   | So I'm getting them an [[Aqara Hub]], an [[Aqara Hub#E1\|E1 hub]], a motion sensor, and a light sensor, a luminance        |
 | 01:14:07   | sensor.                                                                                              |
 | 01:14:08   | Yeah.                                                                                                |
 | 01:14:09   | Because this way, if they're at home and there's movement in the living room and it's                |
@@ -1315,7 +1315,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:15:13   | of mutterings.                                                                                       |
 | 01:15:14   | It was an interesting conversation, trying to explain that actually Ethernet is better               |
 | 01:15:18   | than the Wi-Fi sometimes.                                                                            |
-| 01:15:20   | So I've gone with the Aqara E1 hub because you just need to plug it into USB somewhere               |
+| 01:15:20   | So I've gone with the [[Aqara Hub#E1\|Aqara E1 hub]] because you just need to plug it into USB somewhere               |
 | 01:15:24   | for power and that's it.                                                                             |
 | 01:15:27   | And yeah, and this means that of course, then I can get them and I have got them some temperature    |
 | 01:15:32   | and humidity sensors.                                                                                |
@@ -1328,20 +1328,20 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:15:50   | So I'll be giving them the ability to determine this with very, very tiny sensors, which is          |
 | 01:15:57   | hopefully something that will benefit them.                                                          |
 | 01:15:59   | Yeah, that's nice.                                                                                   |
-| 01:16:00   | And the E1 hub is just 30 bucks on [[Amazon]] in the United States.                                      |
+| 01:16:00   | And the [[Aqara Hub#E1\|E1 hub]] is just 30 bucks on [[Amazon]] in the United States.                                      |
 | 01:16:04   | It's a very easy way, like low barrier of entry.                                                     |
 | 01:16:08   | Yes.                                                                                                 |
-| 01:16:09   | The only thing I'll say is when they first released the E1 hub, it was only available                |
-| 01:16:15   | on the Chinese Aqara server or in [[HomeKit]] only mode, I believe.                                      |
+| 01:16:09   | The only thing I'll say is when they first released the [[Aqara Hub#E1\|E1 hub]], it was only available                |
+| 01:16:15   | on the Chinese [[Aqara]] server or in [[HomeKit]] only mode, I believe.                                      |
 | 01:16:21   | And now it should be available in [[HomeKit]] mode everywhere because they are advertising               |
 | 01:16:24   | it with [[HomeKit]] mode.                                                                                |
 | 01:16:25   | So just double check the Aqara website first to make sure that it is in [[HomeKit]] mode.                |
 | 01:16:30   | But I'm 99% certain it is available for [[HomeKit]] on the UK, EU and US servers.                        |
 | 01:16:39   | So yeah, but it's pretty great.                                                                      |
-| 01:16:41   | And the Aqara stuff is very affordable as well, which makes it a really good gift because            |
+| 01:16:41   | And the [[Aqara]] stuff is very affordable as well, which makes it a really good gift because            |
 | 01:16:46   | then if they decide that they want some more temperature sensors, it's going to be easy              |
 | 01:16:49   | to get them.                                                                                         |
-| 01:16:50   | Yeah, door sensors are $15.                                                                          |
+| 01:16:50   | Yeah, [[Aqara Door and Window Sensor\|door sensors]] are $15.                                                                          |
 | 01:16:54   | Temperature sensors.                                                                                 |
 | 01:16:55   | And they're really small.                                                                            |
 | 01:16:56   | They are really small.                                                                               |

@@ -1207,7 +1207,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:15:12   | didn't quite tally up, and it turns out now I have a perfectly working [[Human Presence Sensor\|human presence sensor]],                  |
 | 01:15:18   | which is great, but yeah, the FP2 should be able to do multi-person detection.                 |
 | 01:15:23   | It's got a built-in light sensor.                                                                      |
-| 01:15:25   | It can do zone positioning, interference compensation on the Aqara hub.                                |
+| 01:15:25   | It can do zone positioning, interference compensation on the [[Aqara Hub]].                                |
 | 01:15:30   | It does local automations to an extent with other Aqara products.                                      |
 | 01:15:35   | I wouldn't necessarily want it to do that, but yeah, it's got some nice things in there.               |
 | 01:15:43   | The availability is the most difficult part.                                                           |
