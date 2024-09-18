@@ -25,6 +25,9 @@ The Aqara Hub M2 is a high-performance hub designed for more extensive smart hom
 ## M3
 The M3 Aqara Hub is an advanced, all-in-one hub featuring the latest communication protocols for comprehensive smart home connectivity. In addition to [[Zigbee]] 3.0, Wi-Fi, and [[Bluetooth]] mesh, it includes support for [[Matter]].
 
+## G2H Pro
+The Aqara Hub G2H Pro combines smart home connectivity with enhanced security features. It serves as both a central hub for [[Aqara]] devices and a security camera, offering 1080p HD resolution, motion detection, and two-way audio. The G2H Pro supports [[Zigbee]] 3.0 and Wi-Fi, and is compatible with major smart home platforms such as [[HomeKit|Apple HomeKit]], [[Google Assistant]], and [[Amazon Alexa]]. It is ideal for users looking for an integrated solution that provides both home automation and surveillance capabilities.
+
 ## G3
 The Aqara Hub G3 stands out with its built-in camera and additional security features. It not only serves as a central hub for smart devices but also functions as a security camera with motion detection, facial recognition, and two-way audio. The G3 supports [[Zigbee]] 3.0, Wi-Fi, and features [[IR]] remote control capabilities.
 
