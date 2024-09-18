@@ -821,10 +821,10 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 47:29      | Of course, this is plug-in itself, which is great that I'm very impressed with it.                        |
 | 47:34      | And I definitely recommend if you're looking for motion sensors, then this would be where                 |
 | 47:40      | to go.                                                                                                    |
-| 47:41      | And honestly, the Aqara door sensors, and you've already got the flood sensor, you've                     |
-| 47:45      | had the fun with the dog that stole the flood sensor.                                                     |
+| 47:41      | And honestly, the [[Aqara Door and Window Sensor\|Aqara door sensors]], and you've already got the [[Aqara Water Leak Sensor\|flood sensor]], you've                     |
+| 47:45      | had the fun with the dog that stole [[Aqara Water Leak Sensor\|the flood sensor]].                                                     |
 | 47:50      | So your fridge was leaking, but it wasn't before.                                                         |
-| 47:54      | But I definitely recommend looking into the Aqara stuff for sensors because it's very                     |
+| 47:54      | But I definitely recommend looking into the [[Aqara]] stuff for sensors because it's very                     |
 | 47:57      | affordable.                                                                                               |
 | 47:58      | Their stuff itself is actually quite small, which is nice, you know, not taking up a huge                 |
 | 48:03      | amount of physical space.                                                                                 |
@@ -843,7 +843,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 48:50      | sensor.                                                                                                   |
 | 48:51      | Like, I mean, actually, I'd just go with a smart thermostat if I could.                                   |
 | 48:55      | Because that is going to be the best way of controlling things because the other thing                    |
-| 48:58      | is you only want the heat to be on to human comfort levels rather than, you know, mold                    |
+| 48:58      | is you only want the heat to be on to human comfort levels rather than, you know, mould                    |
 | 49:05      | avoidance levels when you're actually in your office, you know, or you're going to be in                  |
 | 49:10      | your office shortly.                                                                                      |
 | 49:11      | You don't want it heating up at like three o'clock in the morning when you fall asleep                    |

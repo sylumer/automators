@@ -768,7 +768,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:12:45   | you know, $15 water sensor or something. So like I've got the sensors under all the sinks                 |
 | 01:12:50   | and the toilets and the water heater. So if things leak, I find out about it. I'm putting                 |
 | 01:12:55   | vibration sensors and kind of building my own home automation. And the hub, the hub has 360 degree        |
-| 01:13:02   | IR blasting. So you can automate anything with an infrared remote. Yeah. That was intriguing too,         |
+| 01:13:02   | [[IR Blaster\|IR blasting]]. So you can automate anything with an [[IR\|infrared]] remote. Yeah. That was intriguing too,         |
 | 01:13:10   | if you want to use it as an alarm system. They've just got a lot of good stuff and                        |
 | 01:13:16   | they just released, it's only available at this point in Asia. I ordered one off of Ali Express,          |
 | 01:13:21   | but I haven't received it yet, but they have what they call it. I've ordered from Ali and                 |

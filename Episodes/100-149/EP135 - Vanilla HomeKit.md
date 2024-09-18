@@ -795,11 +795,11 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 45:56      | different capabilities in terms of how many devices they can drive and whatnot but once                   |
 | 46:01      | you get the hub then the actual hardware is very affordable and I feel like you get the                   |
 | 46:07      | hub money back if you pretty quickly like you were talking earlier about the leak detection               |
-| 46:12      | and I'm assuming you're using Aqara leak detectors so I did that too and honestly it paid for             |
+| 46:12      | and I'm assuming you're using [[Aqara Water Leak Sensor\|Aqara leak detectors]] so I did that too and honestly it paid for             |
 | 46:18      | the hub just the leak detectors and I don't know it's a thing here in California where                    |
 | 46:23      | you go out of town and your house has a leak and it does you know multiple you know tens                  |
 | 46:28      | of thousands of dollars of damage so I have friends that have experienced that so that's                  |
-| 46:34      | always been a worry for me and these Aqara leak detectors are just awesome they're small                  |
+| 46:34      | always been a worry for me and these [[Aqara Water Leak Sensor\|Aqara leak detectors]] are just awesome they're small                  |
 | 46:39      | they're inexpensive I think you get if you buy them in multiples they're about $15 each                   |
 | 46:44      | and you can just you know they they work rock solid I put an indelible marker on them and                 |
 | 46:50      | then I stick them under the water heater under the toilets you know they're all over the house            |
@@ -813,8 +813,8 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 47:33      | off not only my device went off on everybody and the family and she wasn't she was you                    |
 | 47:39      | know two and a half hours away from me and she got the alarm so and that's what you want                  |
 | 47:44      | when you have a water leak right you want everybody to know right away so I feel like                     |
-| 47:49      | you know the car stuff just as the leak detectors are a good example but let's just go through            |
-| 47:54      | it really quick so both you and I use the leak detectors I think their switches are                       |
+| 47:49      | you know the car stuff just as the [[Aqara Water Leak Sensor\|leak detectors]] are a good example but let's just go through            |
+| 47:54      | it really quick so both you and I use the [[Aqara Water Leak Sensor\|leak detectors]] I think their switches are                       |
 | 47:59      | really good too like one of the things with [[HomeKit]] is just having a physical switch                      |
 | 48:03      | to where you can push the button and it triggers an automation so it's essentially a light switch         |
 | 48:08      | you can stick anywhere in the house and I feel like the car they're very reasonably priced                |

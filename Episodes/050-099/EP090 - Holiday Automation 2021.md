@@ -1366,7 +1366,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:18:06   | somewhere.                                                                                           |
 | 01:18:07   | And the light sensor I'll be putting on the windowsill to get an appropriate and accurate            |
 | 01:18:11   | light reading.                                                                                       |
-| 01:18:12   | Yeah, another really affordable Aqara sensor is a water leak detector for $18.                       |
+| 01:18:12   | Yeah, another really affordable [[Aqara Water Leak Sensor\|Aqara sensor is a water leak detector for $18]].                       |
 | 01:18:16   | I mean, if you've got something that could leak water, you're washing machine, your dishwasher,      |
 | 01:18:24   | things like that.                                                                                    |
 | 01:18:25   | I've got one.                                                                                        |
@@ -1384,11 +1384,11 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:19:07   | See, now the fact that I know this exists for $18, it's like, and if someday I do have               |
 | 01:19:13   | a water problem, I'm going to be really upset that I didn't do this.                                 |
 | 01:19:16   | Yes.                                                                                                 |
-| 01:19:17   | The only thing I'll say is if you're looking at getting an Aqara hub for yourself, check             |
+| 01:19:17   | The only thing I'll say is if you're looking at getting an [[Aqara Hub]] for yourself, check             |
 | 01:19:21   | the number of devices that can be paired with the hub, the E1 has got a lower number of              |
 | 01:19:25   | devices that can be paired with it compared to the other hubs.                                       |
-| 01:19:28   | The M2 can pair 128 sensors.                                                                         |
-| 01:19:31   | I started out with the M1S, which has a limit of 32, and you probably go 32, that's so               |
+| 01:19:28   | The [[Aqara Hub#M2|M2]] can pair 128 sensors.                                                                         |
+| 01:19:31   | I started out with the [[Aqara Hub#M1S (Gen 1)|M1S]], which has a limit of 32, and you probably go 32, that's so               |
 | 01:19:36   | many sensors.                                                                                        |
 | 01:19:37   | Once you add door sensors to most of your doors and your windows, and then you add a                 |
 | 01:19:42   | vibration sensor to the back of your office chair and so on and so forth, you very quickly           |

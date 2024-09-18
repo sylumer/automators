@@ -145,7 +145,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 07:50      | have peed somewhere or put something somewhere that they shouldn't know that could be causing the       |
 | 07:54      | issue. But yeah, blame the pets. Even if you've got a budgie or something, they are creative            |
 | 08:00      | creatures. You can blame a budgie. I'm sure of it. Listen, if it can fart, then it can break            |
-| 08:06      | an automation. If you're going to blame it. Everything buts can fart, apparently.                       |
+| 08:06      | an automation. If you're going to blame it. Everything but sloths can fart, apparently.                       |
 | 08:11      | Oh, wow. This is a discussion that came up at work the other week. Don't ask me how stand up went       |
 | 08:15      | out of the rails, but it did. This is what happens when the boss is out. Yeah, if it's not a sloth      |
 | 08:22      | that can fart. I just had a little insight though. I was thinking, leak sensors actually could be       |
@@ -156,8 +156,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 08:57      | we call it. The dog at least knows that if there's going to be an accident, he goes over there.         |
 | 09:04      | There's a little motion sensor that works with [[HomeKit]]. Then he's like, my brother's like,              |
 | 09:13      | oh, all right, I guess I got to go home and deal with that, but it prepares.                            |
-| 09:18      | You could go a level deeper. You could get in a car leak sensor. They're about 15 bucks,                |
-| 09:22      | but you'd have to also get in a car hub, by the way. If he got that, when it gets wet,                  |
+| 09:18      | You could go a level deeper. You could get an [[Aqara Water Leak Sensor\|Aqara leak sensor]]. They're about 15 bucks,                |
+| 09:22      | but you'd have to also get an [[Aqara Hub]], by the way. If he got that, when it gets wet,                  |
 | 09:29      | it would, he would get a, but the funny thing is the way it integrates with [[HomeKit]] is it goes off      |
 | 09:34      | like there is actually a leak, like an alarm goes off. Everybody in the house hears it.                 |
 | 09:39      | It comes through as a critical alert. It sings out on the HomePods. I'm using the word sing             |

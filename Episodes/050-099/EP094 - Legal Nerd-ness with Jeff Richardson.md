@@ -795,7 +795,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 56:52      | there is no vacuum support at all. So, you know, that's not eufye's fault there.                         |
 | 56:57      | And I know you were kind of making fun of me earlier about my leak detectors, Jeff, but                 |
 | 57:01      | I have found religion on these things. I think Rose is the one who really kind of got me to try         |
-| 57:06      | the Aqara Hub. Does your toilet leak that often because she may have big problems?                        |
+| 57:06      | the [[Aqara Hub]]. Does your toilet leak that often because she may have big problems?                        |
 | 57:12      | You don't want to find out the wrong way. That's the thing, right? If there's water,                    |
 | 57:16      | it's kind of already a bit too late by the time you notice it. So getting a sensor to say,              |
 | 57:21      | you know, that actually your dog stole the flood sensor and is chewing on it is probably better         |

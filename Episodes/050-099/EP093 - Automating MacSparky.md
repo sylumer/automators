@@ -1516,7 +1516,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:28:02   | It's brilliant.                                                                                        |
 | 01:28:03   | Yeah.                                                                                                  |
 | 01:28:04   | So I got my parents for Christmas.                                                                     |
-| 01:28:05   | I got them the Aqara E1 hub, which is like a USB stick, and it's really small.                         |
+| 01:28:05   | I got them the [[Aqara Hub#E1\|Aqara E1 hub]], which is like a USB stick, and it's really small.                         |
 | 01:28:12   | It doesn't connect very ethernet or anything, but my parents really don't have a lot of                |
 | 01:28:16   | smart home stuff.                                                                                      |
 | 01:28:17   | And so I got them just sensors for Christmas.                                                          |
@@ -1605,7 +1605,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:32:39   | legs.                                                                                                  |
 | 01:32:40   | Let me tell you something.                                                                             |
 | 01:32:41   | So the other day I was working and my refrigerator water sensor went off and I'm like, ah, no,         |
-| 01:32:49   | my refrigerator is leaking, but also, yay, my Aqara works, you know.                                   |
+| 01:32:49   | my refrigerator is leaking, but also, yay, my [[Aqara Water Leak Sensor\|Aqara]] works, you know.                                   |
 | 01:32:54   | So I ran into the kitchen and I couldn't find any water anywhere.                                      |
 | 01:32:57   | I literally pulled the refrigerator away from the wall.                                                |
 | 01:33:00   | I'm like, I can't figure out.                                                                          |
@@ -1613,7 +1613,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:33:04   | And I'm looking around and the sensors nowhere to be found.                                            |
 | 01:33:08   | And I'm scratching my head and I go back over to my desk and my dog sleeps under my desk               |
 | 01:33:12   | while I work and she's like chewing on something.                                                      |
-| 01:33:16   | And sure enough, she found the Aqara refrigerator sensor and I guess if you put enough dog saliva      |
+| 01:33:16   | And sure enough, she found the [[Aqara Water Leak Sensor\|Aqara refrigerator sensor]] and I guess if you put enough dog saliva      |
 | 01:33:22   | on it, it will trigger as a leak.                                                                      |
 | 01:33:26   | I mean, it worked.                                                                                     |
 | 01:33:28   | It worked.                                                                                             |
@@ -1630,7 +1630,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:33:53   | I think we're good now.                                                                                |
 | 01:33:54   | I don't think she's going to find anymore, but that was kind of funny, I thought.                      |
 | 01:33:58   | Yeah.                                                                                                  |
-| 01:33:59   | One thing you can do with the Aqara leak sensors that I should have mentioned before is they've        |
+| 01:33:59   | One thing you can do with the [[Aqara Water Leak Sensor\|Aqara leak sensors]] that I should have mentioned before is they've        |
 | 01:34:04   | got two tiny little screws on the back, which you can adjust them.                                     |
 | 01:34:09   | So this means that you could connect something like a water level sensor to it if you wanted           |
 | 01:34:13   | to.                                                                                                    |
@@ -1643,7 +1643,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:34:40   | is down on the floor, you know, where it's going to detect the leak.                                   |
 | 01:34:44   | And so, you know, obviously, you know, that's not necessarily the best solution for these              |
 | 01:34:49   | things, but it can be a very good solution for certain use cases.                                      |
-| 01:34:55   | And also, I may or may not have started deconstructing what the Aqara door sensors, David, I may       |
+| 01:34:55   | And also, I may or may not have started deconstructing what the [[Aqara Door and Window Sensor\|Aqara door sensors]], David, I may       |
 | 01:35:01   | or may not be able to tell you that you can do the same kind of thing with a door sensor               |
 | 01:35:05   | to know whether or not something is open or closed or on or off because it's a binary                  |
 | 01:35:09   | sensor, it has exactly two states.                                                                     |
