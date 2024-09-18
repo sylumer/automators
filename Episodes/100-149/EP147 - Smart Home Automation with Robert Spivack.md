@@ -488,7 +488,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 28:58      | it or has an add-on capability for remote access.                                                      |
 | 29:02      | So the first thing you want to do in looking at a bigger system is really choosing, if                 |
 | 29:07      | you want to be organised and not go crazy, choosing one main system to be the heart,                   |
-| 29:13      | whether it's [[HomeKit\\Apple HomeKit]] or Google or [[Amazon]] or [[Home Assistant]].                                      |
+| 29:13      | whether it's [[HomeKit\|Apple HomeKit]] or Google or [[Amazon]] or [[Home Assistant]].                                      |
 | 29:17      | My main system, that is a system you first connect everything to when you get a new product.           |
 | 29:24      | You may also connect it to others, but that's going to be your primary.                                |
 | 29:28      | That's where you want it to work reliably.                                                             |
