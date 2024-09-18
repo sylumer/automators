@@ -5,10 +5,15 @@ notetype: organisation
 # Overview  
 Aqara is a technology company known for its smart home products and solutions. The company focuses on developing devices that make homes safer, more convenient, and energy-efficient. Founded with the aim of integrating advanced technology with daily life, Aqara has gained recognition for its user-friendly and innovative products designed to connect seamlessly with popular smart home ecosystems.
 
-# Products and Services  
+# Products and Services
 - [[Aqara Hub|Smart Home Hubs]]
 - Smart Lights and Switches
-- Smart Sensors (e.g., motion, [[Aqara Presence Sensor|presence]], temperature, and [[Aqara Water Leak Sensor|water leak sensors]])
+- Smart Sensors
+	- Motion
+	- [[Aqara Door and Window Sensor|Door & window]]
+	- [[Aqara Presence Sensor|Presence]]
+	- Temperature
+	- [[Aqara Water Leak Sensor|Water leak sensors]]
 - Security Cameras
 - Smart Door Locks
 - Smart Plugs and Outlets
