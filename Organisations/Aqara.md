@@ -8,6 +8,7 @@ Aqara is a technology company known for its smart home products and solutions. T
 # Products and Services
 - [[Aqara Hub|Smart Home Hubs]]
 - Smart Lights and Switches
+	- [[Aqara Cube\|Cube]]
 - Smart Sensors
 	- Motion
 	- [[Aqara Door and Window Sensor|Door & window]]

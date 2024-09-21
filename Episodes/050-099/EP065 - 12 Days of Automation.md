@@ -503,7 +503,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 24:15      | that it's a 1970s disco, so it can be quite nice to have that.                                           |
 | 24:20      | And you can add in some funky remote system as well.                                                     |
 | 24:22      | Nanoleaf have one, I think it's a dodecahedron, no, that's incorrect, it's a nine-sided shape.           |
-| 24:29      | But Aqara also have a six-sided cube, and you could just have these set up to trigger                   |
+| 24:29      | But [[Aqara Cube\|Aqara also have a six-sided cube]], and you could just have these set up to trigger                   |
 | 24:35      | different scenes and then kind of roll them like dice and just see where they land.                      |
 | 24:39      | I would suggest rolling them on a soft surface rather than, you know, smashing them around               |
 | 24:42      | on something hard.                                                                                       |
