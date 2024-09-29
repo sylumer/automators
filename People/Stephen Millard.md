@@ -35,7 +35,6 @@ await dv.view('dv_AuthoredAutomationsList')
 - [stephenmillard.com](https://stephenmillard.com) - Professional
 - [Tech Tutorials](https://tutorials.thoughtasylum.com) - Video Tutorials for Technology
 - [GitHub - sylumer](https://github.com/sylumer)
-- 
 
 # Social Media
 - **Mastodon:** [@sylumer@mastodon.social](https://mastodon.social/home)
