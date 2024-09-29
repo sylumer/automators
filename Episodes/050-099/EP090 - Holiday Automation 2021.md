@@ -1335,7 +1335,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:16:15   | on the Chinese [[Aqara]] server or in [[HomeKit]] only mode, I believe.                                      |
 | 01:16:21   | And now it should be available in [[HomeKit]] mode everywhere because they are advertising               |
 | 01:16:24   | it with [[HomeKit]] mode.                                                                                |
-| 01:16:25   | So just double check the Aqara website first to make sure that it is in [[HomeKit]] mode.                |
+| 01:16:25   | So just double check the [[Aqara]] website first to make sure that it is in [[HomeKit]] mode.                |
 | 01:16:30   | But I'm 99% certain it is available for [[HomeKit]] on the UK, EU and US servers.                        |
 | 01:16:39   | So yeah, but it's pretty great.                                                                      |
 | 01:16:41   | And the [[Aqara]] stuff is very affordable as well, which makes it a really good gift because            |
@@ -1353,7 +1353,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:17:12   | of automation.                                                                                       |
 | 01:17:13   | So if you're looking for some ideas of some things that people could get you, things like            |
 | 01:17:17   | the door sensor and window sensor are really good.                                                   |
-| 01:17:20   | Aqara also sell a vibration sensor, which I have stuck to the back of my office chair.               |
+| 01:17:20   | [[Aqara]] also sell a vibration sensor, which I have stuck to the back of my office chair.               |
 | 01:17:25   | And this is one of the ways that I tell whether or not my office is occupied because the motion      |
 | 01:17:31   | sensor on my chair is much more likely to pick up some movement while I'm sitting here               |
 | 01:17:34   | recording a podcast than the other motion sensors, which are traditional motion sensors              |
@@ -1362,7 +1362,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:17:47   | And I'm hoping that the motion sensor, we may have to play a little bit with positioning             |
 | 01:17:51   | to find a good spot to put it in where it can always see people, but my parents don't                |
 | 01:17:56   | feel like it's obtrusive.                                                                            |
-| 01:17:59   | But the Aqara things are very small, which makes it much easier to stow a motion sensor              |
+| 01:17:59   | But the [[Aqara]] things are very small, which makes it much easier to stow a motion sensor              |
 | 01:18:06   | somewhere.                                                                                           |
 | 01:18:07   | And the light sensor I'll be putting on the windowsill to get an appropriate and accurate            |
 | 01:18:11   | light reading.                                                                                       |
@@ -1396,10 +1396,10 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:19:48   | So I would recommend potentially looking at one of their hubs.                                       |
 | 01:19:53   | They do some cameras, which are also hubs as well.                                                   |
 | 01:19:57   | So if you're looking for a home kit camera, then you can get a home kit camera that is               |
-| 01:20:02   | also in Aqara hub and do a 2-in-1, and those compare 64 devices with them.                           |
+| 01:20:02   | also in[[ Aqara Hub]] and do a 2-in-1, and those compare 64 devices with them.                           |
 | 01:20:07   | So that's quite nice.                                                                                |
 | 01:20:08   | Yeah.                                                                                                |
-| 01:20:09   | And the other thing is, all the Aqara stuff is home kit compatible, which means all of               |
+| 01:20:09   | And the other thing is, all the [[Aqara]] stuff is home kit compatible, which means all of               |
 | 01:20:14   | these sensors become triggers in a home kit without having to go to any other third party            |
 | 01:20:18   | options.                                                                                             |
 | 01:20:19   | So that's nice.                                                                                      |

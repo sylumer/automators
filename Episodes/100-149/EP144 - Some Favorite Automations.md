@@ -356,11 +356,11 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 18:14      | appropriate and like if you stop moving, then they would turn the lights off while you're          |
 | 18:19      | still in the room.                                                                                 |
 | 18:20      | And [[Human Presence Sensor\|human presence sensors]] are supposed to solve that problem.                                     |
-| 18:23      | That was one of the big things of 2023 is the arrival of these Aqara sensors.                      |
+| 18:23      | That was one of the big things of 2023 is the arrival of these [[Aqara]] sensors.                      |
 | 18:28      | But I think it must have got itself a hardware, like a firmware update or something without        |
 | 18:34      | me realising it, or maybe when [[HomeKit\|Apple HomeKit]] switched architecture, which it did about             |
 | 18:39      | two months ago, maybe that's when it got better.                                                   |
-| 18:42      | But either way, suddenly, my Aqara [[HomeKit]] enabled, [[Human Presence Sensor\|human presence sensor]] just started             |
+| 18:42      | But either way, suddenly, my [[Aqara]] [[HomeKit]] enabled, [[Human Presence Sensor\|human presence sensor]] just started             |
 | 18:48      | working and now when I walk in the room, lights turn on, walk out of the room, lights turn         |
 | 18:52      | off, very useful, except when I want to use the room as a studio where I need lighting             |
 | 18:57      | at a certain level and then I just turn that automation off and I have different automations.      |
@@ -383,9 +383,9 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 20:13      | I had been messing in my office.                                                                   |
 | 20:15      | My office is the room that I'm allowed to mess with things with, as long as I also leave           |
 | 20:18      | a working solution in place.                                                                       |
-| 20:21      | I've been messing with some of the Aqara motion sensors.                                           |
+| 20:21      | I've been messing with some of the [[Aqara Presence Sensor\|Aqara motion sensors]].                                           |
 | 20:24      | And so I have replaced my battery powered motion sensor in my hallway with a USB powered           |
-| 20:28      | Aqara motion sensor, which is the FP1 [[Human Presence Sensor\|human presence sensor]].                                       |
+| 20:28      | [[Aqara Presence Sensor\|Aqara motion sensors]], which is the [[Aqara Presence Sensor#FP1\|FP1]] [[Human Presence Sensor\|human presence sensor]].                                       |
 | 20:32      | And I am liking that in my hallway.                                                                |
 | 20:35      | And I really like the fact that it's not battery powered.                                          |
 | 20:38      | So I don't have to worry about replacing the battery at any point.                                 |

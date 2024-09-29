@@ -1152,36 +1152,35 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:11:27   | directly as well as [[Home Assistant]], which is great.                                                    |
 | 01:11:31   | I'm looking forward to giving that a better try.                                                       |
 | 01:11:33   | I've only just set it up, so I can't really talk about that yet.                                       |
-| 01:11:37   | It feels like there's a lot of Matter-compatible devices here, and they're already bringing            |
+| 01:11:37   | It feels like there's a lot of [[Matter\|Matter-compatible]] devices here, and they're already bringing            |
 | 01:11:42   | things into systems that previously they weren't able to do, they weren't compatible with.             |
 | 01:11:49   | That said, the [[Matter]] and [[Thread]] spec, they're not fully rolled out yet, so there are limitations      |
 | 01:11:55   | to that, but we're definitely going down that path already.                                            |
 | 01:11:59   | It's coming faster than I thought it would.                                                            |
 | 01:12:02   | I still don't think that if you've got a bunch of Hue lights, you should be throwing                   |
-| 01:12:06   | them out to buy Matter-compatible ones.                                                                |
+| 01:12:06   | them out to buy [[Matter\|Matter-compatible]] ones.                                                                |
 | 01:12:08   | A, because Hue's got a hub coming, and just buy the new hub of people, please don't buy                |
 | 01:12:12   | all new light bulbs.                                                                                   |
 | 01:12:13   | That'll be very expensive.                                                                             |
-| 01:12:15   | And B, if AIM broke, don't fix it, don't change stuff that works just because there's                  |
+| 01:12:15   | And B, if it ain't broke, don't fix it, don't change stuff that works just because there's                  |
 | 01:12:20   | a theoretically better one out there.                                                                  |
 | 01:12:22   | If you're, for example, light bulb is too dim, and therefore you are looking to get                    |
-| 01:12:26   | a brighter light bulb, and you find a brighter light bulb that is also Matter-compatible,              |
+| 01:12:26   | a brighter light bulb, and you find a brighter light bulb that is also [[Matter\|Matter-compatible]],              |
 | 01:12:32   | then that's great.                                                                                     |
 | 01:12:33   | Bio means upgrade that, but yeah, don't throw away the stuff that's working just to get                |
 | 01:12:37   | it matched your stuff, it doesn't matter, at least with that much.                                     |
-| 01:12:45   | Don't replace equipment, but if you're buying new equipment, try and get Matter, because               |
+| 01:12:45   | Don't replace equipment, but if you're buying new equipment, try and get [[Matter]], because               |
 | 01:12:49   | I think that's what you're going to want to have in a few years, or even sooner.                       |
-| 01:12:55   | Another home kit product that is making the news right now is the Aqara Presence Sensor                |
-| 01:12:59   | FP2.                                                                                                   |
+| 01:12:55   | Another home kit product that is making the news right now is the [[Aqara Presence Sensor#FP2|Aqara Presence Sensor FP2]].                |
 | 01:13:00   | I can tell you, I've had like seven different listeners send me links to various reviews               |
 | 01:13:07   | and links to this product.                                                                             |
 | 01:13:09   | I wanted to talk to you about it, Rose.                                                                |
 | 01:13:10   | I actually looked at it, they're still not available on [[Amazon]] as we record this, apparently           |
 | 01:13:14   | they sold out very quickly.                                                                            |
-| 01:13:17   | This is, it looks like a different device than the Aqara Human Presence Sensor that                    |
-| 01:13:22   | I ordered from Aliexpress, but I'm not sure.                                                           |
+| 01:13:17   | This is, it looks like a different device than the [[Aqara Presence Sensor\|Aqara Human Presence Sensor]] that                    |
+| 01:13:22   | I ordered from Ali Express, but I'm not sure.                                                           |
 | 01:13:27   | What do you know about it?                                                                             |
-| 01:13:28   | So Aqara has two FP products, they've got the FP1 and the FP2.                                         |
+| 01:13:28   | So [[Aqara]] has two FP products, they've got the [[Aqara Presence Sensor#FP1\|FP1]] and the [[Aqara Presence Sensor#FP2\|FP2]].                                         |
 | 01:13:36   | I'm just double-checking to refresh my memory.                                                         |
 | 01:13:38   | I know that the FP1 is a [[Zigbee]]-based presence sensor and the FP2 is Wi-Fi-based.                       |
 | 01:13:44   | Personally, I dislike Wi-Fi connected devices simply because why do I need more things on              |
@@ -1199,23 +1198,23 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:14:44   | It's one of those things.                                                                              |
 | 01:14:45   | I've heard very good things about it.                                                                  |
 | 01:14:46   | I've heard a lot of people loving it.                                                                  |
-| 01:14:49   | I did initially have some difficulties with my FP1, which is the [[Zigbee]]-based one, and                 |
+| 01:14:49   | I did initially have some difficulties with my [[Aqara Presence Sensor#FP1\|FP1]], which is the [[Zigbee]]-based one, and                 |
 | 01:14:54   | then I went through a couple of forum threads, fortunately the [[Home Assistant]] forum had some           |
 | 01:14:59   | and some other places, and it turned out, essentially, I was understanding how the sensors sense       |
 | 01:15:05   | things a little bit.                                                                                   |
 | 01:15:07   | I hadn't quite understood the labels, the way that they've been translated from Chinese                |
 | 01:15:12   | didn't quite tally up, and it turns out now I have a perfectly working [[Human Presence Sensor\|human presence sensor]],                  |
-| 01:15:18   | which is great, but yeah, the FP2 should be able to do multi-person detection.                 |
+| 01:15:18   | which is great, but yeah, the [[Aqara Presence Sensor#FP2\|FP2]] should be able to do multi-person detection.                 |
 | 01:15:23   | It's got a built-in light sensor.                                                                      |
 | 01:15:25   | It can do zone positioning, interference compensation on the [[Aqara Hub]].                                |
-| 01:15:30   | It does local automations to an extent with other Aqara products.                                      |
+| 01:15:30   | It does local automations to an extent with other [[Aqara]] products.                                      |
 | 01:15:35   | I wouldn't necessarily want it to do that, but yeah, it's got some nice things in there.               |
 | 01:15:43   | The availability is the most difficult part.                                                           |
-| 01:15:45   | I was able to pick up the FP1 on Aliexpress pretty easily, not hugely expensive at the                 |
+| 01:15:45   | I was able to pick up the [[Aqara Presence Sensor#FP1\|FP1]] on Ali Express pretty easily, not hugely expensive at the                 |
 | 01:15:50   | time, and it just plugs into a USB slot.                                                               |
-| 01:15:54   | I'm not quite sure exactly what this uses for power, but just like the FP1, this is                    |
+| 01:15:54   | I'm not quite sure exactly what this uses for power, but just like the [[Aqara Presence Sensor#FP1\|FP1]], this is                    |
 | 01:15:59   | going to be a powered device, it's not running on battery.                                             |
-| 01:16:03   | When you say the FP1, is that the same thing as the [[Human Presence Sensor\|human presence sensor]] that I bought?               |
+| 01:16:03   | When you say the [[Aqara Presence Sensor#FP1\|FP1]], is that the same thing as the [[Human Presence Sensor\|human presence sensor]] that I bought?               |
 | 01:16:07   | That's what we have.                                                                                   |
 | 01:16:08   | Yes.                                                                                                   |
 | 01:16:09   | Yeah.                                                                                                  |
@@ -1227,7 +1226,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:16:17   | Generally, I find Wi-Fi devices a little slower, and they make everything a little worse               |
 | 01:16:22   | on my Wi-Fi network.                                                                                   |
 | 01:16:24   | Most I don't like to have a lot of them, but I'm super curious to see how this works.                  |
-| 01:16:27   | My biggest gripe with the FP1 is a little bit, it's just a little slow, and it's not                   |
+| 01:16:27   | My biggest gripe with the [[Aqara Presence Sensor#FP1\|FP1]] is a little bit, it's just a little slow, and it's not                   |
 | 01:16:34   | working quite as I thought.                                                                            |
 | 01:16:37   | I thought if I had this in here, and wanted to talk about my studio automation another                 |
 | 01:16:41   | day, but I've been working on it, but I would thought that it would always know I was in               |

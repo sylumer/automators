@@ -648,8 +648,8 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 30:07      | But at the same time, I also understand that Apple want to keep this stuff relatively simple.                 |
 | 30:12      | So the way that I am taking the Keep It Silly Simple approach is I use the Hue app and the                    |
 | 30:20      | IKEA app to add the items to [[HomeKit]].                                                                         |
-| 30:23      | And that is where my usage of the Hue app, the IKEA app, the Aqara app almost ends.                          |
-| 30:29      | The Aqara app, I've got two buttons working as doorbells and the way that they talk to                       |
+| 30:23      | And that is where my usage of the Hue app, the IKEA app, the [[Aqara]] app almost ends.                          |
+| 30:29      | The [[Aqara]] app, I've got two buttons working as doorbells and the way that they talk to                       |
 | 30:33      | their hub to make a ding-dong sound is best done through their app.                                           |
 | 30:37      | But that is the sole exception that I have made to this particular rule.                                      |
 | 30:41      | Because otherwise, you do have to...                                                                          |

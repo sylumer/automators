@@ -268,7 +268,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 20:22      | kitchen light is officially in there. It's it was on Kickstarter, they even have like a curtain         |
 | 20:27      | track thing. But unfortunately, that looks like it's not available yet in Europe, which is a shame,     |
 | 20:31      | because I would like to automate my curtains, but I was not interested in buying the specific curtain   |
-| 20:36      | rails and everything from Aqara, or Xiaomi, which, yeah, sell all of that stuff. But it's              |
+| 20:36      | rails and everything from [[Aqara]], or Xiaomi, which, yeah, sell all of that stuff. But it's              |
 | 20:44      | good fun. And home automation is definitely something that I have been spending a reasonable            |
 | 20:50      | amount of time with. Let's put it that way. This episode of The Automators is brought to you by         |
 | 20:55      | PDFpen from our friends at Smile. Go to smilesoftware.com/podcast and let them know you heard     |

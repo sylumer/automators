@@ -298,7 +298,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 18:17      | think that the reason so many people love it is because it does the thing that it says                   |
 | 18:24      | it does on the can. And so often in home automation, it doesn't do the thing, or at least it doesn't     |
 | 18:29      | do it consistently. Right. It does it. You set it up. It works. And then one day it doesn't              |
-| 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from Aqara.                 |
+| 18:34      | work. I'm struggling right now. I bought one of these [[Human Presence Sensor\|human presence sensors]] from [[Aqara]].                 |
 | 18:40      | And some days it works. And some days it doesn't. And that's the kind of thing that makes you,           |
 | 18:45      | you know, want to throw a brick through a window because it's like, well, what? Absolutely.              |
 | 18:48      | Why is it not working? That never happens with [[Lutron]]. You push the button on your phone                 |
@@ -343,7 +343,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 21:56      | that's never going to be a good experience ever. So yeah, this is definitely the way                     |
 | 22:00      | to win. Sadly, as David mentioned, we can't get [[Lutron]] Crusader over here in the UK. [[Lutron]]              |
 | 22:05      | do have a few options, but there are lots of other options for us, including some that                   |
-| 22:10      | are available in the US. Aqara, A-Q-A-R-A have a bunch of smart switches. And I have                     |
+| 22:10      | are available in the US. [[Aqara]], A-Q-A-R-A have a bunch of smart switches. And I have                     |
 | 22:15      | one in my kitchen and one of the things I love about this is it is a bounce switch.                      |
 | 22:20      | So toggle and rocker switches will show you a state like they'll show you up or down,                    |
 | 22:26      | which means that especially with a smart switch, right? It can get out of sync with                      |
@@ -363,7 +363,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 23:26      | it took. Just so I can stop looking at this and getting stressed out every time one of                   |
 | 23:30      | the kids flips one of the switches on and then it forgets to turn it off. And then some                  |
 | 23:34      | other one gets turned on and it just drives me bananas.                                                  |
-| 23:38      | Yeah. Well, I've popped a link to the Aqara ones in the show notes for folks in case anyone              |
+| 23:38      | Yeah. Well, I've popped a link to the [[Aqara]] ones in the show notes for folks in case anyone              |
 | 23:42      | is curious. And I've also shared that with David and Casey as well. So hopefully you                     |
 | 23:47      | might find a solution there.                                                                             |
 | 23:49      | And just to finish the loop on [[Lutron]], the new switches are much more attractive. And                    |

@@ -168,17 +168,17 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 10:04      | going to the toilet. So yeah. It's like red alert, red alert, rover, let it, let it flow.               |
 | 10:11      | I love that. That's something you may want to look into. Something which you mentioned                  |
 | 10:17      | along those lines. And at some point, when we get to the next feedback show, I want to go into          |
-| 10:21      | this deeper rows, but Aqara has done something cool because there's all these features with the         |
-| 10:26      | Aqara hardware and Rose and I always have this asterisk. Well, Aqara cameras do this or Aqara           |
+| 10:21      | this deeper rows, but [[Aqara]] has done something cool because there's all these features with the         |
+| 10:26      | [[Aqara]] hardware and Rose and I always have this asterisk. Well, [[Aqara]] cameras do this or [[Aqara]]           |
 | 10:30      | sensors do that, but they don't talk to [[HomeKit]]. Well, now they've got a way to share workflows         |
-| 10:35      | from the Aqara app to [[HomeKit]]. Have you seen those rows? It's a nice feature they've added              |
+| 10:35      | from the [[Aqara]] app to [[HomeKit]]. Have you seen those rows? It's a nice feature they've added              |
 | 10:40      | recently with a software update. I don't want to get into it today because I need to do a little        |
-| 10:45      | more prep on it. But if you've got Aqara sensors and you want to get some of those additional           |
+| 10:45      | more prep on it. But if you've got [[Aqara]] sensors and you want to get some of those additional           |
 | 10:50      | features into [[HomeKit]], it's actually easier now than it used to be. So yeah, I've seen that and         |
 | 10:55      | I've also seen the [[SwitchBot]] appears to be doing something very similar as well with their              |
 | 10:58      | [[Matter]]-based hub. So that's definitely something that we should look into because yeah, I've had       |
 | 11:03      | some questions come in about that recently. Oh, that's so cool. I look forward to that show.            |
-| 11:08      | Alex, you got to find Aqara in your life if you're doing a home automation. It's just so great.         |
+| 11:08      | Alex, you got to find [[Aqara]] in your life if you're doing a home automation. It's just so great.         |
 | 11:13      | But you had said earlier, I'm not going to let you get away with this. You said that you had            |
 | 11:17      | grown as an automator. Tell us a little bit about that. What are the automations and platforms that     |
 | 11:24      | you have found yourself gravitating to in the last two years? I have finally been using a               |

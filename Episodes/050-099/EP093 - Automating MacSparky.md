@@ -1494,8 +1494,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:27:12   | So I would like to know when he puts the mail in there.                                                |
 | 01:27:16   | So I don't go out two or three times to find an empty box, so I don't leave the mail in                |
 | 01:27:20   | there for four hours.                                                                                  |
-| 01:27:21   | So I ordered one, and of course, I'm using the Aqara stuff because now that I have their               |
-| 01:27:28   | hub, I'm all in.                                                                                       |
+| 01:27:21   | So I ordered one, and of course, I'm using the [[Aqara]] stuff because now that I have their               |
+| 01:27:28   | [[Aqara Hub\|hub]], I'm all in.                                                                                       |
 | 01:27:30   | Yep.                                                                                                   |
 | 01:27:31   | Yep.                                                                                                   |
 | 01:27:32   | Since we talked about the water sensors, what is it that we call them?                                 |
@@ -1593,7 +1593,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:31:54   | I was just hoping to give my parents some data because they've been looking at smart                   |
 | 01:31:57   | heating systems and they really didn't know whether or not it's worth it.                              |
 | 01:32:01   | So I'm hoping by giving them some easily accessible temperature data that it will be like they'll      |
-| 01:32:05   | be able to make that decision and the Aqara stuff is so affordable that, you know, my                  |
+| 01:32:05   | be able to make that decision and the [[Aqara]] stuff is so affordable that, you know, my                  |
 | 01:32:10   | parents have now said like, oh, maybe we can get some more temperature sensors and I linked            |
 | 01:32:14   | them to a bundle of four.                                                                              |
 | 01:32:16   | They realised how cheap this stuff is and so they're they're probably going to just carpet             |
@@ -1714,10 +1714,10 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:38:27   | You know, and                                                                                          |
 | 01:38:28   | I mean, the range on [[Zigbee]] stuff is pretty good.                                                      |
 | 01:38:32   | It may or may not work.                                                                                |
-| 01:38:34   | If not, you could get an Aqara E1 hub and like plug it in as close to your mailbox,                    |
+| 01:38:34   | If not, you could get an [[Aqara Hub#E1\|Aqara E1]] hub and like plug it in as close to your mailbox,                    |
 | 01:38:41   | like house wise as you can, because that, that can just, you know, those hubs are very                 |
 | 01:38:46   | cheap and, and that could be the solution for that particular thing.                                   |
-| 01:38:52   | And it will extend the, if you set it up right, it could extend the [[Zigbee]] network for Aqara           |
+| 01:38:52   | And it will extend the, if you set it up right, it could extend the [[Zigbee]] network for [[Aqara]]           |
 | 01:38:57   | in your home, which would be quite good too.                                                           |
 | 01:38:59   | Well, we will, I'll let you know, it's supposed to get delivered here in the next day or two.          |
 | 01:39:05   | And so maybe next show I can report back on how I did with that.                                       |

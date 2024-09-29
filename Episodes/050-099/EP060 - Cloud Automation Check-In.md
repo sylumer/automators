@@ -78,7 +78,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00      | Yeah.                                                                                                        |
 | 01:01      | It looked like a very large pile in the photo that I sent you, David, and I'll see if I                      |
 | 01:06      | can find a way to upload this photo for the show notes.                                                      |
-| 01:09      | I've got some Aqara things.                                                                                |
+| 01:09      | I've got some [[Aqara]] things.                                                                                |
 | 01:11      | Yeah.                                                                                                        |
 | 01:12      | I'll get it in the show notes.                                                                               |
 | 01:13      | So I have a way.                                                                                             |

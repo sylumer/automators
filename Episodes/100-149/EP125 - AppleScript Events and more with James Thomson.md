@@ -409,20 +409,20 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 33:57      | people out, simple. The downside to this is I have never once gone to the high home website            |
 | 34:03      | and clicked order now and discovered that I could order it and it's no longer available.               |
 | 34:10      | So yeah, as of January, it became defunct and no longer available. And I think a lot                   |
-| 34:16      | of this is due to the development of mm-wave sensors. And mm-wave is millimeter wave and                 |
+| 34:16      | of this is due to the development of mm-wave sensors. And mm-wave is millimetre wave and                 |
 | 34:23      | essentially it is a, is a person here sensor. So it's not a motion sensor in the sense that            |
 | 34:29      | like the Phillips Hue motion sensor is like, Oh, there is movement. I see person. There                |
 | 34:33      | is no movement. There is no person. It is a, is somebody there? Sensor, which is a good                |
 | 34:41      | idea. David has one and he's had a few issues with it. And I have two of them. I did have              |
 | 34:47      | some issues with one of mine for a while and then I installed a firmware update on it.                 |
 | 34:51      | I installed a firmware update on my [[Zigbee]] hub and then everything's working fine with that,             |
-| 34:55      | which is great. So it's certainly worth looking into, but the Aqara FP1 is sort of the probably        |
-| 35:05      | best one to try there just because it does mm-wave. And this may be something in its favor              |
+| 34:55      | which is great. So it's certainly worth looking into, but the [[Aqara Presence Sensor#FP1\|Aqara FP1]] is sort of the probably        |
+| 35:05      | best one to try there just because it does mm-wave. And this may be something in its favour              |
 | 35:15      | for some people. This may be against it for some other people. It's USB powered. So there              |
 | 35:20      | are no batteries to change. Now the Phillips Hue sensors aren't that big, but they use                 |
-| 35:25      | a triple A battery. The Aqara regular motion sensors are tiny, tiny, tiny. And they use                |
-| 35:32      | a CR2032 battery, which is like a watch battery. And they are like the size of that. The Aqara         |
-| 35:39      | FP1 is closer to the size of the Phillips Hue sensor, but it's just USB powered. But                   |
+| 35:25      | a triple A battery. The [[Aqara]] regular motion sensors are tiny, tiny, tiny. And they use                |
+| 35:32      | a CR2032 battery, which is like a watch battery. And they are like the size of that. The [[Aqara Presence Sensor#FP1\|Aqara FP1]]        |
+| 35:39      | is closer to the size of the Phillips Hue sensor, but it's just USB powered. But                   |
 | 35:43      | it is a very good sensor I found, especially now I know how to use it. It is even better.              |
 | 35:50      | So that is certainly what I would look into for those rooms where you continue to exist                |
 | 35:55      | after you stop moving, you know, like places where you sleep, places where you sit, places             |
@@ -501,7 +501,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 41:59      | folks, because I don't expect you all to take apart some random purchase from Aliexpress               |
 | 42:02      | and check whether or not it's going to burn your house down before putting it back together            |
 | 42:06      | and installing it in your hallway. But it means that I have something in my hallway,                   |
-| 42:10      | which is a nightlight and that comes on. So I have two of the tiny little Aqara motion                 |
+| 42:10      | which is a nightlight and that comes on. So I have two of the tiny little [[Aqara]] motion                 |
 | 42:15      | sensors sort of like adjacent to my bed. And if I put like a foot out of bed in the night              |
 | 42:20      | to like get up, then it will turn on that light and some other very dim lights so that                 |
 | 42:27      | I can then see enough to go to the bathroom without blinding myself. But the actual overhead           |

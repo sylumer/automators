@@ -336,7 +336,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 16:45      | know, you just want to try one smart plug, then those are very affordable to give it                |
 | 16:50      | a go.                                                                                               |
 | 16:51      | Yeah.                                                                                               |
-| 16:52      | I have been buying the Aqara stuff.                                                                 |
+| 16:52      | I have been buying the [[Aqara]] stuff.                                                                 |
 | 16:53      | I'm so in the bag for them at this point and their smart plugs are good.                            |
 | 16:58      | Another thing I would recommend, since we're kind of in that neighbourhood and we're talking         |
 | 17:02      | about the holidays, is on your advice, about three or four years ago, I bought a [[HomeKit]]            |

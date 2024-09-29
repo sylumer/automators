@@ -646,7 +646,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 40:53      | But it's a subtle issue also.                                                                          |
 | 40:57      | A lot of the features we want that are in the device can be used from the existing ecosystems.         |
 | 41:03      | If you take a motion sensor and you go into the app for the motion sensor, for example,                |
-| 41:10      | the Aqara FP2, which uses radar-type technology, micro-millimeter wave, you can go into the            |
+| 41:10      | the [[Aqara Presence Sensor#FP2\|Aqara FP2]], which uses radar-type technology, micro-millimetre wave[^1], you can go into the            |
 | 41:19      | app and set zones and set a lot of advanced features, but you don't need to deal with                  |
 | 41:26      | that in [[HomeKit]].                                                                                       |
 | 41:28      | When you go into [[HomeKit]], you simply have a trigger saying, if this motion happened,                   |
@@ -682,7 +682,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 43:39      | So it really, unless you're buying the least expensive product to just play with, I would              |
 | 43:46      | recommend going with the standardised products, looking for products from major manufacturers.         |
 | 43:52      | And if you go out online and read the reviews, you get a sense of who the big brands are,              |
-| 43:57      | who the big companies are, companies like Aqara, companies like [[Lutron]], companies like                 |
+| 43:57      | who the big companies are, companies like [[Aqara]], companies like [[Lutron]], companies like                 |
 | 44:03      | Ecobee or Ecobee for thermostats.                                                                      |
 | 44:06      | And there are maybe a dozen or so really high quality companies and it's growing.                      |
 | 44:13      | But if you stick to those brands, you're going to have less trouble.                                   |
@@ -756,16 +756,16 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 48:18      | less expensive.                                                                                        |
 | 48:20      | I personally have IKEA blinds.                                                                         |
 | 48:22      | They aren't the quietest, but they're certainly not loud.                                              |
-| 48:26      | And I also have some Aqara blind controllers and Aqara and [[SwitchBot Curtain Opener\|SwitchBot curtain motors]] that               |
+| 48:26      | And I also have some [[Aqara Blind Controller\|Aqara blind controllers]] and [[Aqara Smart Curtain Motor\|Aqara]] and [[SwitchBot Curtain Opener\|SwitchBot curtain motors]] that               |
 | 48:32      | you can put onto like a curtain rail to move your curtains back and forth.                             |
 | 48:37      | And they all work very well, you know, obviously the [[Lutron]] ones and the Hunter Douglas ones           |
 | 48:44      | would be lovely, but those aren't available over here in the UK, which meant that I was                |
 | 48:49      | limited to what I could get elsewhere.                                                                 |
-| 48:51      | And I've had the Aqara ones in particular, I really like they can deal with some very                  |
+| 48:51      | And I've had the [[Aqara]] ones in particular, I really like they can deal with some very                  |
 | 48:56      | heavy curtains without any issues.                                                                     |
 | 48:59      | That sounds good.                                                                                      |
-| 49:01      | And you did mention Aqara.                                                                             |
-| 49:02      | I did want to say that in general, that the line of products from Aqara on [[Zigbee]], which               |
+| 49:01      | And you did mention [[Aqara]].                                                                             |
+| 49:02      | I did want to say that in general, that the line of products from [[Aqara]] on [[Zigbee]], which               |
 | 49:08      | is a type of wireless communication, is a great selection of great variety, very cost                  |
 | 49:14      | effective.                                                                                             |
 | 49:15      | Personally, I'm not ready to deploy [[Thread]] devices as a wireless interface.                            |
@@ -773,10 +773,10 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 49:22      | There's still a lot of kinks being worked out.                                                         |
 | 49:24      | So in the short term, I would stick with [[Zigbee]] as a wireless communications method for shades,        |
 | 49:32      | blind sensors, anything that can not have to be Wi-Fi and needs to be low power.                       |
-| 49:39      | [[Zigbee]] is a great choice and Aqara is really hitting them out of the park now.                         |
-| 49:44      | I've been very lucky with the Aqara things because I was able to buy the hub, the home                 |
-| 49:50      | kit enabled hub, which I actually ended up connecting to home assistant here in the UK.                |
-| 49:56      | But the sensors I was able to pick up on Aliexpress, so like the door sensors, the window sensors,     |
+| 49:39      | [[Zigbee]] is a great choice and [[Aqara]] is really hitting them out of the park now.                         |
+| 49:44      | I've been very lucky with the [[Aqara]] things because I was able to buy [[Aqara Hub\|the hub]], the [[HomeKit]]                 |
+| 49:50      | enabled hub, which I actually ended up connecting to home assistant here in the UK.                |
+| 49:56      | But the sensors I was able to pick up on Ali Express, so like the door sensors, the window sensors,     |
 | 50:01      | the temperature sensors, motion sensors, and things like that, and because they're connecting          |
 | 50:06      | to the hub and they aren't Wi-Fi based, I didn't have to worry about them phoning home                 |
 | 50:12      | or anything because they're just sending data to a hub that says, I'm open, I'm closed.                |
@@ -825,8 +825,8 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 53:09      | That's E-X-P-R-E-S-S-V-P-N.com/Automators to get those three extra months completely             |
 | 53:17      | free.                                                                                                  |
 | 53:18      | And our thanks to ExpressVPN for their support of the Automators and all of Relay FM.                  |
-| 53:25      | Before the break, Rose was talking about Aqara.                                                        |
-| 53:27      | I bought a Aqara [[Human Presence Sensor\|human presence sensor]], and it is really impressive, because in the past               |
+| 53:25      | Before the break, Rose was talking about [[Aqara]].                                                        |
+| 53:27      | I bought a [[Aqara Presence Sensor\|Aqara human presence sensor]], and it is really impressive, because in the past               |
 | 53:34      | I've tried to do the thing where you have the motion sensor in the room, but then when                 |
 | 53:38      | you sit still, all the lights turn off, the [[Human Presence Sensor\|human presence sensor]] to me feels like a step              |
 | 53:45      | above, but it hasn't entirely solved the problem yet.                                                  |
@@ -956,7 +956,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:02:13   | But at the same time, I can see why that would be pretty scary for some people.                        |
 | 01:02:16   | But also, it's just like it's so much better in terms of like interactions, like I've                  |
 | 01:02:20   | got a Samsung TV in here that I can control with [[Home Assistant]] and I've got apparently                |
-| 01:02:25   | a car that I can monitor with [[Home Assistant]] and it seems like or even those Aqara sensors             |
+| 01:02:25   | a car that I can monitor with [[Home Assistant]] and it seems like or even those [[Aqara]] sensors             |
 | 01:02:32   | seem to kind of work better with [[Home Assistant]] because of the [[Zigbee]] or whatever.                     |
 | 01:02:37   | I'm a little bit out of my league here.                                                                |
 | 01:02:39   | But there's a lot of reasons to want to do more with it.                                               |
@@ -1057,7 +1057,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:09:43   | all the automations you've painfully built up over the years?                                          |
 | 01:09:47   | It's sadly necessary to become a nerd and document spreadsheets or notes.                              |
 | 01:09:53   | Write down what it's supposed to do, what you want it to do.                                           |
-| 01:09:57   | Now the good thing is if you use a hub, if you use [[Lutron]] or use Aqara, there's what                   |
+| 01:09:57   | Now the good thing is if you use a hub, if you use [[Lutron]] or use [[Aqara]], there's what                   |
 | 01:10:02   | I call the number one magic trick of smart home.                                                       |
 | 01:10:06   | That's the first time you mess up and rebuild your system when you add the hub and all the             |
 | 01:10:12   | devices connected to the hub just populate and come right back into your system versus                 |
@@ -1355,8 +1355,8 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:32:11   | Put your budget into getting all your [[HomeKit]] or smart home devices off Wi-Fi as much as               |
 | 01:32:18   | possible.                                                                                              |
 | 01:32:20   | That's such an easy call.                                                                              |
-| 01:32:21   | I mean, Rose and I talk about Aqara, I feel like every episode, but get an [[Aqara Hub]] and               |
-| 01:32:27   | the Aqara sensors and devices are not that expensive.                                                  |
+| 01:32:21   | I mean, Rose and I talk about [[Aqara]], I feel like every episode, but get an [[Aqara Hub]] and               |
+| 01:32:27   | the [[Aqara]] sensors and devices are not that expensive.                                                  |
 | 01:32:32   | It's shocking how reliable they are for how little they cost.                                          |
 | 01:32:37   | That brings up a related point is besides the fear or the reluctance to buy a so-called                |
 | 01:32:43   | hub device to connect all these devices, some people that still have a small internet router           |
@@ -1415,3 +1415,5 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:37:02   | We want to thank our sponsors today, LinkedIn Talent Solutions, ExpressVPN, and Vitally.                |
 | 01:37:08   | If you want to check in on the forums, you can find them over at talk.automators.fm.                   |
 | 01:37:13   | And we'll see you next time.                                                                           |
+
+[^1]: "micro-millimetre wave" is not a thing. There are microwaves and there are millimetre waves - separate things and based on the wavelengths of the waves. [[Human Presence Sensor\|Human presence sensors]] currently use millimetre wavelength electromagnetic waves

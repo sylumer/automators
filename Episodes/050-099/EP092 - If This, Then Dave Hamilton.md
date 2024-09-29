@@ -949,7 +949,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 38:50      | that has window and door sensors, which would,                                                                                                                           |
 | 38:53      | which will almost certainly integrate with if this and that,                                                                                                             |
 | 38:56      | which is pretty good.                                                                                                                                                    |
-| 38:57      | I'm using Aqara sensors and so on personally,                                                                                                                            |
+| 38:57      | I'm using [[Aqara]] sensors and so on personally,                                                                                                                            |
 | 39:00      | but I'm using that either with [[Home Assistant]]                                                                                                                            |
 | 39:03      | or directly locally.                                                                                                                                                     |
 | 39:04      | So that's not going to necessarily have if this and that,                                                                                                                |

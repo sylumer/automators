@@ -1501,11 +1501,11 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:27:45   | The built-in lights are no longer sufficient.                                                             |
 | 01:27:47   | So that one is just kind of on the back burner for me, but I think it's out there.                        |
 | 01:27:51   | But they are quite expensive, like they're, and that, that is something that is no fun.                   |
-| 01:27:57   | The only thing I did really this year, because Aqara has taken over my automation triggers,               |
-| 01:28:02   | is I bought a couple Aqara switches.                                                                      |
+| 01:27:57   | The only thing I did really this year, because [[Aqara]] has taken over my automation triggers,               |
+| 01:28:02   | is I bought a couple [[Aqara]] switches.                                                                      |
 | 01:28:05   | I had the flick switches, but I used them up and I, do I get more flick switches or                       |
-| 01:28:10   | just get Aqara?                                                                                           |
-| 01:28:11   | I got the Aqara switches on Black Friday and I've put a couple switches in the house and                  |
+| 01:28:10   | just get [[Aqara]]?                                                                                           |
+| 01:28:11   | I got the [[Aqara]] switches on Black Friday and I've put a couple switches in the house and                  |
 | 01:28:17   | I have wired all of the interior Christmas stuff to these switches.                                       |
 | 01:28:21   | And the idea just is, you know, making it easy for the rest of my family to turn the lights               |
 | 01:28:25   | on for the tree in the village.                                                                           |

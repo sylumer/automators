@@ -761,7 +761,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:12:04   | and the stuff that's coming out of that. I feel like we're getting a lot more of it and it's              |
 | 01:12:08   | getting cheaper and all that stuff can be hooked into [[Home Assistant]]. But I mean, that stuff can          |
 | 01:12:12   | also be hooked into [[HomeKit]], but it's just not as powerful. Yeah. Like I have, I don't know if            |
-| 01:12:17   | you're familiar with this company, Aqara, A-Q-A-R-A. I followed a link in your newsletter and I           |
+| 01:12:17   | you're familiar with this company, [[Aqara]], A-Q-A-R-A. I followed a link in your newsletter and I           |
 | 01:12:23   | checked out their hardware that looked intriguing. Rose turned me on to that too, but I am like           |
 | 01:12:29   | all in because they've got their own base unit. So they're on their own frequency                         |
 | 01:12:37   | but you can put like 150 items on it or something. And the peripherals are relatively cheap like,         |

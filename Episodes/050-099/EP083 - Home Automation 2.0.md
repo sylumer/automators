@@ -200,7 +200,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 06:53      | He came around and spent a couple of minutes messing with that and he said, this is going         |
 | 06:57      | to drive you insane because the light was flickering.                                             |
 | 07:01      | He uninstalled it for me and sent it back and I sent it back to [[Amazon]] and I did some             |
-| 07:08      | digging around and I found out Aqara, that's A-Q-A-R-A, have light switches which can be          |
+| 07:08      | digging around and I found out [[Aqara]], that's A-Q-A-R-A, have light switches which can be          |
 | 07:14      | compatible with European and UK sockets and they are on off switches.                             |
 | 07:22      | They're like the bouncing switches, if that makes sense, so you press it and the switch           |
 | 07:27      | immediately pops back up and that can turn on off automatically.                                  |
@@ -214,22 +214,22 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 07:57      | Way over 32.                                                                                      |
 | 07:59      | Okay, so would you get another hub or would you do?                                               |
 | 08:01      | So there is a couple of different ways around this.                                               |
-| 08:04      | I did actually get the new hub because I have the M1S hub.                                        |
-| 08:08      | There's also the camera, the G2H camera that you can pair 64 devices with.                        |
+| 08:04      | I did actually get the new hub because I have the [[Aqara Hub#M1S (Gen 1)\|M1S hub]].                                        |
+| 08:08      | There's also the camera, the [[Aqara Hub#G2H Pro\|G2H camera]] that you can pair 64 devices with.                        |
 | 08:13      | Well, I already have cameras so I didn't really want or need a camera but they now have the       |
-| 08:18      | M2 hub and actually Aqara on the Apple Store in the UK and much of Europe, not all of Europe.     |
+| 08:18      | [[Aqara Hub#M2\|M2 hub]] and actually [[Aqara]] on the Apple Store in the UK and much of Europe, not all of Europe.     |
 | 08:25      | For some reason, for example, not available in Portugal, not sure why, but they are on            |
 | 08:30      | the Spanish Apple Store.                                                                          |
 | 08:32      | But they're also now much more widely available on [[Amazon]], which eliminates the problem of        |
-| 08:36      | if I order an M2 hub from China, is it going to be a Chinese hub or a European hub?               |
+| 08:36      | if I order an [[Aqara Hub#M2\|M2 hub]] from China, is it going to be a Chinese hub or a European hub?               |
 | 08:41      | Because they connect to different servers.                                                        |
-| 08:43      | So I ordered the M2 hub and that arrived and I'm slowly migrating all of my devices               |
+| 08:43      | So I ordered the [[Aqara Hub#M2\|M2 hub]] and that arrived and I'm slowly migrating all of my devices               |
 | 08:48      | over to that hub, which is much better because it's also micro-USB powered.                       |
 | 08:57      | So in the meantime, I had a $7 [[Zigbee]] stick, which I plugged into [[Home Assistant]] and I'm            |
 | 09:04      | using [[Home Assistant]] kind of like a [[Zigbee]] hub, like you can use it the same as a Hue hub           |
 | 09:09      | or an IKEA hub and so I set that up and gave that a whirl and I was impressed.                    |
 | 09:15      | It works incredibly quickly.                                                                      |
-| 09:17      | I walk into my kitchen, my Aqara motion sensor, which is connected to the [[Aqara Hub]], detects      |
+| 09:17      | I walk into my kitchen, my [[Aqara Motion Sensor]], which is connected to the [[Aqara Hub]], detects      |
 | 09:23      | motion and the light turns on.                                                                    |
 | 09:25      | So that's all kinds of magic running incredibly quickly because the [[SwitchBot]] solution I had,     |
 | 09:31      | it worked really well, it was just slow.                                                          |
@@ -1618,7 +1618,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:49   | I bought a blue case for it because [[Home Assistant]]'s icon is blue.                                |
 | 01:24:54   | And that is my [[Home Assistant]] setup, and it's just running on that.                               |
 | 01:24:59   | And I actually went as far as to get a [[Zigbee]] dongle and a Z-Wave dongle, which means it's        |
-| 01:25:05   | like a Hue or an Aqara or an IKEA hub.                                                            |
+| 01:25:05   | like a Hue or an [[Aqara]] or an IKEA hub.                                                            |
 | 01:25:09   | And Z-Wave is the same thing, but for my Yale locks, which we'll get to in a little bit.          |
 | 01:25:14   | But it can, so it can both read stuff in from [[HomeKit]] and it can also share stuff out to          |
 | 01:25:19   | [[HomeKit]].                                                                                          |
@@ -1669,8 +1669,8 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:27:42   | And so instead, I have a, I actually bought a Xiaomi button because I was playing around          |
 | 01:27:47   | with this stuff.                                                                                  |
 | 01:27:48   | And I paired that to the [[Zigbee]] dongle.                                                           |
-| 01:27:49   | And I paired an Aqara door sensor to the [[Zigbee]] dongle as well.                                   |
-| 01:27:53   | And so I stuck the Aqara door sensor on my dishwasher.                                            |
+| 01:27:49   | And I paired an [[Aqara Door and Window Sensor\|Aqara door sensor]] to the [[Zigbee]] dongle as well.                                   |
+| 01:27:53   | And so I stuck the [[Aqara Door and Window Sensor\|Aqara door sensor]] on my dishwasher.                                            |
 | 01:27:56   | And the reason why I ended up with the button is because during the day, as I load my dishwasher, |
 | 01:28:02   | I open and close the door.                                                                        |
 | 01:28:03   | And I didn't want this to, I didn't want my automation to trigger just any time the               |
@@ -1934,7 +1934,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:42:38   | He lives in an apartment here, so he can't go about replacing light switches.                     |
 | 01:42:41   | But he said, if somebody was on a budget and wanted to automate their home lighting, what         |
 | 01:42:45   | products would you recommend?                                                                     |
-| 01:42:47   | And I think I'm probably going to have to say light bulbs, IKEA light bulbs, Aqara light          |
+| 01:42:47   | And I think I'm probably going to have to say light bulbs, IKEA light bulbs, [[Aqara]] light          |
 | 01:42:51   | bulbs, Meross light bulbs, Nanoleaf Essentials light bulbs, or IKEA ones probably are going       |
 | 01:43:00   | to be the option, aside from the Nanoleaf, they're all going to need a hub.                      |
 | 01:43:05   | But Nanoleaf, if you've got a HomePod Mini, should work because it's thread.                     |
