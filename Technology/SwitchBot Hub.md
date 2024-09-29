@@ -14,7 +14,7 @@ The SwitchBot Hub works with the SwitchBot app to offer advanced features like s
 
 - **Scheduled Tasks** - You can set up specific times for your devices to turn on or off. For instance, you could schedule your [[SwitchBot Curtain Opener]] to open your curtains every morning at 7 am.
 - **Scene Creation** - Scenes allow you to control multiple devices simultaneously with a single command. For example, a "Good Night" scene could turn off all lights, close curtains, and lock the doors.
-- **Integrations** - The Hub can often be integrated with other smart home ecosystems like [[Amazon Alexa]], [[Google Assistant,]] and [[IFTTT]].
+- **Integrations** - The Hub can often be integrated with other smart home ecosystems like [[Amazon Alexa]], [[Google Assistant]], and [[IFTTT]].
 
 # Types
 
