@@ -677,7 +677,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:00      | I can tell you real quick, maybe not real quick.                                                      |
 | 34:04      | Yeah.                                                                                                 |
 | 34:05      | It's okay, I'm currently searching on [[Amazon]] to see if they have them in [[Amazon]], in Germany.          |
-| 34:11      | So it can control Chromecast, Harmony Hub, IFTTT, IKEA, Trad Free Lights, Internet                    |
+| 34:11      | So it can control [[Chromecast]], [[Logitech Harmony\|Harmony Hub]], [[IFTTT]], IKEA, Trad Free Lights, Internet                    |
 | 34:21      | Request, [[IR Blaster]], which is, Flick makes an [[IR Blaster]] too that you can use to turn                 |
 | 34:27      | a point, like your TV on and off.                                                                     |
 | 34:30      | Yeah.                                                                                                 |
@@ -692,10 +692,10 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 34:57      | One of them just turns on the whole entertainment system.                                             |
 | 34:59      | It's mounted underneath the lip of the dining room, coffee table.                                     |
 | 35:03      | So using the [[IR Blaster]] to do that, I mean, you still got to get a TV turned on, okay.                |
-| 35:08      | I use the [[IR]], and I use a Harmony, whatever their hub is called.                                      |
+| 35:08      | I use the [[IR]], and I use a [[Logitech Harmony\|Harmony]], whatever their hub is called.                                      |
 | 35:14      | Yeah.                                                                                                 |
 | 35:15      | Yeah.                                                                                                 |
-| 35:16      | I think it's the Logitech Harmony Hub or something along those lines.                                 |
+| 35:16      | I think it's the [[Logitech Harmony\|Logitech Harmony Hub]] or something along those lines.                                 |
 | 35:20      | Something like that, yeah.                                                                            |
 | 35:21      | Yeah.                                                                                                 |
 | 35:22      | I feel like everybody who's interested in automation eventually gets to the point where               |
@@ -705,20 +705,20 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 35:31      | Yeah.                                                                                                 |
 | 35:32      | It's hard because you have the different inputs and they're using old technology, you know,           |
 | 35:37      | really, I mean, to get them working.                                                                  |
-| 35:40      | So is that, is that, so you're solving that problem with the Harmony remote and the flip              |
+| 35:40      | So is that, is that, so you're solving that problem with the [[Logitech Harmony\|Harmony remote]] and the flip              |
 | 35:44      | buttons?                                                                                              |
 | 35:45      | Yeah.                                                                                                 |
-| 35:46      | I like the Harmony remote.                                                                            |
+| 35:46      | I like the [[Logitech Harmony\|Harmony remote]].                                                                            |
 | 35:48      | I have programmed to control my soundbar, my TV, and my Apple TV, and the Roku.                       |
 | 35:56      | So I basically, I can narrow it down to just one remote.                                              |
-| 35:59      | I keep the Apple TV remote out because the touchpad is basically how you navigate.                    |
-| 36:07      | But for turning power on, off, changing inputs, volume, all done through the Harmony remote.          |
+| 35:59      | I keep the [[Apple TV]] remote out because the touchpad is basically how you navigate.                    |
+| 36:07      | But for turning power on, off, changing inputs, volume, all done through the Logitech Harmony\|Harmony remote]].          |
 | 36:14      | Yeah.                                                                                                 |
 | 36:15      | I forget how much, Brett.                                                                             |
 | 36:17      | I mean, from your very roots with the X10, you have always been a guy that liked to not               |
 | 36:21      | only automate like pixels moving around on your screen, but just automate everything                  |
 | 36:26      | in your life.                                                                                         |
-| 36:27      | I am enamored with automation.                                                                        |
+| 36:27      | I am enamoured with automation.                                                                        |
 | 36:30      | Now, I remember when you were telling me, I forget the name of the device, there was                  |
 | 36:34      | that device that sold for a while where you could wave your hands in front of your computer           |
 | 36:38      | and it could.                                                                                         |

@@ -351,19 +351,19 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 16:24      | So I've ordered some sensors that might work for that, um, we'll see.                                        |
 | 16:28      | Um, but there, there's, you know, all of these things, this is, you know, where if this than                 |
 | 16:32      | that, you know, really is extremely strong because they have, you know, things like when                     |
-| 16:38      | your Logitech Harmony scene starts and Logitech Harmony doesn't integrate with home kit.                     |
+| 16:38      | your [[Logitech Harmony]] scene starts and [[Logitech Harmony]] doesn't integrate with [[HomeKit]].                     |
 | 16:43      | So I can't, you know, directly do that.                                                                      |
-| 16:45      | I can work around it with Homebridge or I can work around it with if this than that.                        |
-| 16:49      | Um, and the harmony stuff is going through the harmony system anyway.                                        |
-| 16:53      | So I'm, I'm definitely going to be, uh, playing with the, the, uh, harmony things here to                    |
+| 16:45      | I can work around it with [[Homebridge]] or I can work around it with [[IFTTT\|If This Then That]].                        |
+| 16:49      | Um, and the [[Logitech Harmony\|Harmony]] stuff is going through the [[Logitech Harmony\|Harmony system]] anyway.                                        |
+| 16:53      | So I'm, I'm definitely going to be, uh, playing with the, the, uh, [[Logitech Harmony\|Harmony]] things here to                    |
 | 16:59      | get that working.                                                                                            |
-| 17:00      | But my harmony stuff is currently in a box because my place is being redecorated.                            |
+| 17:00      | But my [[[[Logitech Harmony\|Harmony]] stuff is currently in a box because my place is being redecorated.                            |
 | 17:04      | So everything was out of boxes.                                                                              |
 | 17:05      | No, it's back in boxes.                                                                                      |
 | 17:07      | Unfortunately.                                                                                               |
 | 17:08      | Um, another one that's on if this than that, that I haven't seen elsewhere, although it                      |
-| 17:12      | may be on Zapier, I need to check is Instapaper, you know, and saving articles, Instapaper                |
-| 17:18      | or starring an article, Instapaper can trigger off an automation.                                            |
+| 17:12      | may be on [[Zapier]], I need to check is [[Instapaper]], you know, and saving articles, [[Instapaper]]                |
+| 17:18      | or starring an article, [[Instapaper]] can trigger off an automation.                                            |
 | 17:22      | And that's the kind of stuff I think if this than that, so good for, um, and the negative                    |
 | 17:25      | column, you know, because I've been playing with it the last few weeks prepping for today's                  |
 | 17:29      | show.                                                                                                        |

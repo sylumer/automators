@@ -201,21 +201,21 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 08:56      | And that's part of winter, I guess, in the Northern Hemisphere, at least, holiday automation.       |
 | 09:01      | Always feels like it involves winter because, you know, we both grew up here.                       |
 | 09:05      | I mean, if you're in Australia, turn off the fans when you leave the house, you know, save          |
-| 09:09      | the environment, things like that, you know, if you have Aircon, then yeah, you can turn            |
-| 09:14      | off the Aircon.                                                                                     |
+| 09:09      | the environment, things like that, you know, if you have air-con, then yeah, you can turn            |
+| 09:14      | off the air-con.                                                                                     |
 | 09:15      | It might even be worth looking into, you know, a lot of folks have got Aircon with like a           |
 | 09:20      | remote control that you can control via an [[IR blaster]].                                              |
 | 09:25      | So something that doesn't have home kit support, I'm going to completely forget the name of         |
 | 09:30      | it now.                                                                                             |
 | 09:31      | But it does have an app and it can learn.                                                           |
-| 09:35      | I'm not thinking of the Logitech Harmony.                                                           |
+| 09:35      | I'm not thinking of the [[Logitech Harmony\|Logitech Harmony]].                                                           |
 | 09:37      | That was a great one.                                                                               |
 | 09:40      | I have to pour one out.                                                                             |
 | 09:41      | I'm going to miss that.                                                                             |
 | 09:42      | That was a great device.                                                                            |
 | 09:43      | I mean, I still have mine.                                                                          |
 | 09:45      | It still works.                                                                                     |
-| 09:46      | Logitech say they're going to keep it going.                                                        |
+| 09:46      | [[Logitech]] say they're going to keep it going.                                                        |
 | 09:48      | So you know, that's great.                                                                          |
 | 09:50      | But yeah, I don't know how long that's actually going to keep going.                                |
 | 09:55      | But there is an alternative one.                                                                    |
@@ -230,13 +230,13 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 10:24      | it thinks it's slightly larger than it is, so stuff is constantly slightly off the edges            |
 | 10:28      | of the screen.                                                                                      |
 | 10:29      | Yeah, I can control that via this little smart device.                                              |
-| 10:33      | So I've got it linked into my Chromecast now, which is really cool.                                 |
-| 10:37      | So when I turn my Chromecast on, the TV turns on, et cetera.                                        |
+| 10:33      | So I've got it linked into my [[Chromecast]] now, which is really cool.                                 |
+| 10:37      | So when I turn my [[Chromecast]] on, the TV turns on, et cetera.                                        |
 | 10:40      | So I've just managed to double check and it is the broad link [[IR blaster]].                           |
 | 10:44      | And yeah, so they don't work with [[HomeKit]], unfortunately, or at least not yet.                      |
 | 10:48      | Maybe at some point they'll add master support and then we can use them in [[HomeKit]].                 |
 | 10:54      | But as it is, it's great for learning, like I've got this fan heater that's got a remote            |
-| 11:01      | control for it or an aircon unit or a whole home heating unit that's got one of those               |
+| 11:01      | control for it or an air-con unit or a whole home heating unit that's got one of those               |
 | 11:07      | remote controls that sends out an IR blast of some kind.                                            |
 | 11:11      | And it will work with that over Wi-Fi.                                                              |
 | 11:14      | It doesn't work with [[HomeKit]], so you'll have to use its app or something like [[Home Assistant]]        |

@@ -1178,9 +1178,9 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:01:19   | like not having light switches and things like that and he doesn't want to have to get               |
 | 01:01:23   | out his phone and especially he has an Android.                                                      |
 | 01:01:26   | So that means that he doesn't even just have one app to deal with stuff because there is             |
-| 01:01:30   | no home app for Android, which integrates the Nanoleaf and the Hue and the Logitech                  |
-| 01:01:36   | Harmony for the television, everything.                                                              |
-| 01:01:39   | So the Logitech Harmony that I bought, I bought with remote control and I hooked it up to            |
+| 01:01:30   | no home app for Android, which integrates the Nanoleaf and the Hue and the [[Logitech Harmony\|Logitech Harmony]]                 |
+| 01:01:36   | for the television, everything.                                                              |
+| 01:01:39   | So the [[Logitech Harmony]] that I bought, I bought with remote control and I hooked it up to            |
 | 01:01:44   | the Hue lighting and everything.                                                                     |
 | 01:01:45   | So when we start watching, you know, a film or something, then it dims the lights for                |
 | 01:01:49   | some things like that, but I bought the Logitech Pop Buttons.                                        |

@@ -395,9 +395,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 25:45      | Logitech pop buttons again, if I was replacing them, but I'm not sure what I would replace               |
 | 25:50      | them with. But they're pretty good. So there's one by the front door that you just press                 |
 | 25:55      | it once on your way out and everything turns off even the Sonos, which is really good.                   |
-| 26:00      | And then aside from that, we've got a Logitech Harmony Hub, which means that you can switch              |
+| 26:00      | And then aside from that, we've got a [[Logitech Harmony\|Logitech Harmony Hub]], which means that you can switch              |
 | 26:05      | between the media PC attached to our television, the Apple TV or my [[Nintendo Switch]] very quickly         |
-| 26:11      | and it controls the lights as well. Yeah, I want to talk about that Harmony Hub. I've                    |
+| 26:11      | and it controls the lights as well. Yeah, I want to talk about that [[Logitech Harmony\|Harmony Hub]]. I've                    |
 | 26:17      | not used one in years. I played with one once, actually sent it back because it wasn't working           |
 | 26:22      | that well for me. But what's the primary goal of it?                                                     |
 | 26:26      | The primary goal was actually for me to not have to cycle through all of the different                   |
@@ -406,7 +406,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 26:39      | as well. Because one thing I've noticed my boyfriend really likes dealing with physical                  |
 | 26:44      | things when controlling stuff. So he's much more of this kind of person who would happily                |
 | 26:51      | pick up the remote control versus talk to the television, which of course can be done                    |
-| 26:55      | now because we've got the Harmony Hub. But this way, we have the remote control and with                 |
+| 26:55      | now because we've got the [[Logitech Harmony\|Harmony Hub]]. But this way, we have the remote control and with                 |
 | 27:01      | one press, you can either use the media PC or switch to the Apple TV and turn on the                     |
 | 27:08      | gaming, the gaming mode, which is my [[Nintendo Switch]], but it also controls the lighting                  |
 | 27:13      | as well. And so it will dim the lights when you start doing something and then it will                   |
@@ -499,7 +499,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 32:32      | I just went and sat on the sofa and told it, go clean my desk. So that was a very good                   |
 | 32:38      | investment.                                                                                              |
 | 32:39      | Yeah. I'll talk about, I have one too. I'll talk about it a little bit.                                  |
-| 32:42      | Yeah. Yeah. And then in the evening, so the, as I mentioned before the Harmony Hub, when                 |
+| 32:42      | Yeah. Yeah. And then in the evening, so the, as I mentioned before the [[Logitech Harmony\|Harmony Hub]], when                 |
 | 32:48      | you start and end different activities, it can do different things with the lighting.                    |
 | 32:54      | But then half an hour or so before sunset, I play with how long before sunset at different               |
 | 32:59      | times of the year because sometimes in the winter, you know, it's more like to be 45                     |
@@ -765,7 +765,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 53:33      | I think the more people you have in your house, the more you rely on the manual control.                 |
 | 53:37      | Potentially, yes. I find a lot of the time I pull out my phone or my Apple watch and I                   |
 | 53:42      | trigger a scene manually. Just because, you know, I've decided that we're going to sit                   |
-| 53:46      | down and watch film or something. And the Logitech Harmony Hub is great, but it can't                    |
+| 53:46      | down and watch film or something. And the [[Logitech Harmony\|Logitech Harmony Hub]] is great, but it can't                    |
 | 53:51      | differentiate between us watching TV and us watching a film.                                             |
 | 53:55      | Before we continue, I want to talk about timing, the automatic time tracking app for Mac OS.             |
 | 54:01      | Use the link in the show notes to get 10% off your purchase.                                             |

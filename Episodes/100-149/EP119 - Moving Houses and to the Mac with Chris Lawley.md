@@ -395,7 +395,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 19:17      | That's a little too much for me right now.                                                                |
 | 19:19      | But I could see me doing it in the future, for sure.                                                      |
 | 19:22      | Yeah, yeah, no, I nearly, before Christmas, talked myself into buying a Sonos soundbar,                   |
-| 19:27      | because I was getting annoyed my Logitech Harmony Hub's been having a couple of issues                    |
+| 19:27      | because I was getting annoyed my [[Logitech Harmony\|Logitech Harmony Hub's]] been having a couple of issues                    |
 | 19:31      | turning on specifically my soundbar.                                                                      |
 | 19:34      | I mean, a soundbar was going to sleep at times, like when I paused the TV and wandered off                |
 | 19:39      | for a bit, I would have the Apple screens, they were kicking and so on, like come back                    |
