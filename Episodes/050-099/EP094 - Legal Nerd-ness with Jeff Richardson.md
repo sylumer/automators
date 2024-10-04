@@ -697,13 +697,13 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 48:50      | like, you know, an animal, a cat walking in the backyard or something like that. But once you           |
 | 48:54      | figure out what the appropriate motion detection level is, now it works great. So there's a number      |
 | 49:00      | of reasons that this little automation, you know, when you see things in the backyard, go ahead and     |
-| 49:05      | turn on the lights and it's going to record it through the eufycam. Really nice. Yeah, I really          |
-| 49:10      | like the eufycam products. I've got several of their indoor and outdoor cameras. I also bought           |
-| 49:15      | one of the, a couple of the eufycam spotlights, where it's a LED spotlight with an incorporated          |
+| 49:05      | turn on the lights and it's going to record it through the [[eufy]] cam. Really nice. Yeah, I really          |
+| 49:10      | like the [[eufy]] cam products. I've got several of their indoor and outdoor cameras. I also bought           |
+| 49:15      | one of the, a couple of the [[eufy]] cam spotlights, where it's a LED spotlight with an incorporated          |
 | 49:23      | camera that saves locally on device. And it is not part of [[HomeKit]]. They have not connected to          |
 | 49:29      | [[HomeKit]]. I'm hoping that Rose's encouragement to buy me, for me to buy a home assistant will help       |
 | 49:34      | that. But it is, I have generally been pretty happy with the UV stuff. It's not super expensive.        |
-| 49:42      | And it seems to be pretty reliable. Yeah, I found the eufycam is great. I have several of                |
+| 49:42      | And it seems to be pretty reliable. Yeah, I found the [[eufy]] cam is great. I have several of                |
 | 49:48      | their indoor cameras. And I have an outdoor camera as well, which I've not got outdoors.                |
 | 49:52      | It's inside of a storage cupboard that's attached to the building that I rent. I say                    |
 | 49:56      | covered. It's concrete. Either way, it's a great place to put things like garden furniture and          |
@@ -733,7 +733,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 51:57      | that you started off with [[HomeKit]] just by getting that first, I think for you, just like me, it was     |
 | 52:01      | that first [[Lutron]] switch, and then you add to it over time, and then now you get another one,           |
 | 52:06      | now you get another one. And then the same has been true for me. When I first bought my first           |
-| 52:11      | [[Lutron]] device, [[HomeKit]] had not even been inventid yet. I think that was in 2015 when it came out.       |
+| 52:11      | [[Lutron]] device, [[HomeKit]] had not even been invented yet. I think that was in 2015 when it came out.       |
 | 52:16      | But then it became [[HomeKit]] compatible, and then I added more and more, and you know,                    |
 | 52:21      | through Eve devices or other devices that I have, I mean, they have just slowly started to accumulate   |
 | 52:26      | in my house. And I'm not in the same situation where y'all are with all of your water sensors and       |
@@ -741,8 +741,8 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 52:36      | more thing, you can solve one more problem, or to be fair, just do something that's fun and just        |
 | 52:41      | gives me happiness because it works, even if it wasn't necessarily a problem beforehand. So it's        |
 | 52:46      | been nice to expand. You know, one of the things I don't know if I regret or not, but I've been         |
-| 52:51      | thinking about it because a few months ago, I was so happy with the eufy stuff that I also got the    |
-| 52:55      | eufy doorbell, which is nice and works well with the eufy app, but it's not [[HomeKit]] compatible.     |
+| 52:51      | thinking about it because a few months ago, I was so happy with the [[eufy]] stuff that I also got the    |
+| 52:55      | [[eufy]] doorbell, which is nice and works well with the [[eufy]] app, but it's not [[HomeKit]] compatible.     |
 | 53:01      | And I knew that when I bought it. And of course, at the time, I'm like, well, maybe they'll add         |
 | 53:05      | this down the road. So far, I have not yet thought of how, like what I'm missing out on by it not       |
 | 53:13      | being [[HomeKit]] compatible, because I don't have any things that just as one example, there's a sensor    |
@@ -780,19 +780,19 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 55:39      | when it rings, I get chimes on my HomePods throughout the house, which is really, really               |
 | 55:43      | nice. That is an excellent point. And I'm looking in my [[Amazon]] order history, because just a few        |
 | 55:49      | weeks ago, I spent 36 bucks that I would have saved if it had done that, because what I did for         |
-| 55:53      | that very same problem is I bought a second eufye doorbell chime. And so now when someone rings          |
-| 56:00      | my doorbell, I have the eufye hub, which is downstairs in my house, which goes ding dong.                |
+| 55:53      | that very same problem is I bought a second [[eufy]] doorbell chime. And so now when someone rings          |
+| 56:00      | my doorbell, I have the [[eufy]] hub, which is downstairs in my house, which goes ding dong.                |
 | 56:05      | And then this thing that I bought on [[Amazon]] just a few weeks ago, and it's probably literally           |
 | 56:09      | only been tested a few times, how many people have rung my doorbell in the last week or two.            |
 | 56:13      | But I have this second unit plugged into an outlet upstairs, and so it also dings. But you're           |
 | 56:18      | right, I do have HomePod minis in my house, and it would have been nicer if I could have used those     |
 | 56:23      | instead of this. So I guess the lack of support cost me an extra 36 bucks.                              |
 | 56:27      | Yeah. So yeah, we'll see. From what I've understood, it's actually different                            |
-| 56:33      | parts of eufye that do the cameras versus doing the doorbell, even though depending on which             |
+| 56:33      | parts of [[eufy]] that do the cameras versus doing the doorbell, even though depending on which             |
 | 56:38      | doorbell it is, it connects to the same base station as some of the [[HomeKit]] compatible cameras.         |
 | 56:43      | It's a bit of a bit confusing like that. But I think the doorbell comes from the same group,            |
 | 56:47      | the work on the robot vacuum, which is also not [[HomeKit]] compatible, though to be fair, at [[HomeKit]],      |
-| 56:52      | there is no vacuum support at all. So, you know, that's not eufye's fault there.                         |
+| 56:52      | there is no vacuum support at all. So, you know, that's not [[eufy\|eufy's]] fault there.                         |
 | 56:57      | And I know you were kind of making fun of me earlier about my leak detectors, Jeff, but                 |
 | 57:01      | I have found religion on these things. I think Rose is the one who really kind of got me to try         |
 | 57:06      | the [[Aqara Hub]]. Does your toilet leak that often because she may have big problems?                        |

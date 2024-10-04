@@ -48,7 +48,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 - [DEEBOT X1 OMNI | All-in-One Robotic Vacuum and Mop Combo-ECOVACS UK](https://www.ecovacs.com/uk/deebot-robotic-vacuum-cleaner/deebot-x1-omni)
 	- Rosemary has the X1 Omni Turbo—keep an eye out for deals on Amazon.
 - [All the HomeKit locks that support Apple Home Key | AppleInsider](https://appleinsider.com/articles/22/03/16/all-the-homekit-locks-that-support-apple-home-key)
-- [SmartDrop, Smart Delivery Box - eufy](https://us.eufy.com/products/t8790)
+- [SmartDrop, Smart Delivery Box - eufy](https://us.[[eufy]].com/products/t8790)
 - [Raycast](https://www.raycast.com/)
 - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Extensions](https://www.raycast.com/store)
@@ -591,7 +591,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 30:53      | You can make some really good ones as well, which are the lower end of the price range,                   |
 | 30:57      | especially when they're on sale.                                                                          |
 | 30:59      | Definitely worth looking at.                                                                              |
-| 31:00      | I had a eufy one before and the only reason why I upgraded was I got a really good deal                   |
+| 31:00      | I had a [[eufy]] one before and the only reason why I upgraded was I got a really good deal                   |
 | 31:03      | on the ECOVACS.                                                                                            |
 | 31:04      | Yeah.                                                                                                     |
 | 31:05      | So what I was saying is you can get one fairly inexpensive, so look for them.                             |
@@ -610,7 +610,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 31:49      | Yeah.                                                                                                     |
 | 31:50      | Oh yeah.                                                                                                  |
 | 31:51      | There's actually like a naming place in the ECOVACS app.                                                   |
-| 31:53      | I'm pretty certain there was one in the eufy app as well.                                                 |
+| 31:53      | I'm pretty certain there was one in the [[eufy]] app as well.                                                 |
 | 31:56      | If folks want to chime in in the forums and let us know whether or not you can name your                  |
 | 32:00      | robot mobs and vacuums in their app or if you have to resort to like putting a label                      |
 | 32:04      | on them with Sharpie or something to name them, please do let us know.                                    |
@@ -640,7 +640,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 33:25      | whatever is needed for where you live.                                                                    |
 | 33:27      | But the robot vacuum can run multiple times a day if needed because it won't get tired                    |
 | 33:33      | and want to go on strike unless it goes back on the docking correctly and doesn't charge,                 |
-| 33:37      | which hasn't happened to me with the ECOVACS, happened to me occasionally with the Eufy,                   |
+| 33:37      | which hasn't happened to me with the ECOVACS, happened to me occasionally with the [[eufy]],                   |
 | 33:43      | though I think the cat I was fostering for a while may have been responsible for some                     |
 | 33:46      | of that.                                                                                                  |
 | 33:47      | So, if you have pets, make sure that the robot has poop detection as a side note or check                 |
@@ -873,10 +873,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 47:57      | open up the door, slide your package in and close it.                                                     |
 | 48:00      | My brother has one of those and he absolutely loves that because he doesn't have to like                  |
 | 48:04      | worry about like being home for an important package delivery or something like that.                     |
-| 48:08      | Well, you can always look into that eufy package box that they brought out for things                   |
+| 48:08      | Well, you can always look into that [[eufy]] package box that they brought out for things                   |
 | 48:13      | like that.                                                                                                |
 | 48:14      | Oh, okay.                                                                                                 |
-| 48:15      | I think it was eufy that brought out the package box.                                                   |
+| 48:15      | I think it was [[eufy]] that brought out the package box.                                                   |
 | 48:17      | Somebody brought out like a smart package delivery box.                                                   |
 | 48:20      | I'll see if I can find a link for the show notes.                                                         |
 | 48:24      | This episode of the automators is brought to you by Electric.                                             |

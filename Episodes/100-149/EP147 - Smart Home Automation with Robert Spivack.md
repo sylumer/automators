@@ -1322,7 +1322,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:29:47   | just could never get a Wi-Fi, and then they just switched it over, and I'm like, we used               |
 | 01:29:53   | all our data in two days, but that doesn't happen anymore.                                             |
 | 01:29:57   | With these networks, not only do I get it throughout the house, I get it in the backyard.              |
-| 01:30:01   | I've got some Wi-Fi cameras for the eufye system, and they need a Wi-Fi signal, and they work           |
+| 01:30:01   | I've got some Wi-Fi cameras for the [[eufy]] system, and they need a Wi-Fi signal, and they work           |
 | 01:30:07   | in the front yard.                                                                                     |
 | 01:30:08   | It's all like it was a magic cure for me in terms of it.                                               |
 | 01:30:13   | Robert talked about how that was a big jump, but I don't think everybody has got on board              |

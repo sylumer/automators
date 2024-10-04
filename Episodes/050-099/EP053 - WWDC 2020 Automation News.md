@@ -846,7 +846,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 52:41      | I trust Apple more than anybody else with this problem.                                                                                                   |
 | 52:44      | And it's been a year since they announced [[HomeKit]] secure video, but now it seems like                                                                 |
 | 52:49      | it's becoming real.                                                                                                                                       |
-| 52:50      | Like eufy, eufy, the company, it's a subsidiary of Anker that they make a bunch of cameras.                                                               |
+| 52:50      | Like [[eufy]], [[eufy]], the company, it's a subsidiary of Anker that they make a bunch of cameras.                                                               |
 | 52:57      | They are getting [[HomeKit]] support in their cameras and there's a bunch of them that are                                                                |
 | 53:00      | starting to show up.                                                                                                                                      |
 | 53:01      | So I feel like we're getting there finally and we'll definitely be doing some content                                                                     |

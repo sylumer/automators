@@ -1025,7 +1025,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 01:03:06   | You can get ones which will lift their mop section as they go on to carpet, that may                   |
 | 01:03:10   | be preferable for some people, the Roborock ones can do that, but it really depends on                 |
 | 01:03:16   | the kind of flooring you have as to what it is that you're going to want.                              |
-| 01:03:21   | These things can be incredibly cheap, Prime Day sales, Anker does the eufy range of                  |
+| 01:03:21   | These things can be incredibly cheap, Prime Day sales, Anker does the [[eufy]] range of                  |
 | 01:03:26   | robot vacuums, I had one of those before, it was great.                                                |
 | 01:03:30   | Personally I went with the auto emptying and self-cleaning mop heads because I will                    |
 | 01:03:36   | forget to do this, and there is nothing worse than coming home and finding that your robot             |

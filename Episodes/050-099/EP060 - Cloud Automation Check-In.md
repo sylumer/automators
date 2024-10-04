@@ -396,18 +396,18 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 19:00      | recipe I put together years ago, and it just saves the weight to my health app and I don't                   |
 | 19:05      | have to bother with it, you know, automatically, you know, entering it in any way.                           |
 | 19:09      | Yeah.                                                                                                        |
-| 19:10      | I just bought a new scale, 30 pounds, uh, eufy U F Y by the people who make the Anker                        |
+| 19:10      | I just bought a new scale, 30 pounds, uh, [[eufy]] E U F Y by the people who make the Anker                        |
 | 19:15      | stuff.                                                                                                       |
 | 19:16      | Um, and it integrates with iOS health directly.                                                              |
 | 19:18      | So really?                                                                                                   |
 | 19:19      | Yeah.                                                                                                        |
-| 19:20      | eufy, you mean?                                                                                               |
+| 19:20      | [[eufy]], you mean?                                                                                               |
 | 19:21      | Yeah.                                                                                                        |
 | 19:22      | Yeah.                                                                                                        |
-| 19:23      | eufy.                                                                                                         |
+| 19:23      | [[eufy]].                                                                                                         |
 | 19:24      | Yeah.                                                                                                        |
 | 19:25      | That's great.                                                                                                |
-| 19:26      | eufy on their security cameras.                                                                               |
+| 19:26      | [[eufy]] on their security cameras.                                                                               |
 | 19:28      | Oh yeah.                                                                                                     |
 | 19:29      | I'm very tempted to do the security cameras.                                                                 |
 | 19:31      | They're, they're very reasonable too.                                                                        |
@@ -429,7 +429,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 20:08      | I've told to the other people in the building as well before I do anything.                                  |
 | 20:11      | I don't want to make anybody upset.                                                                          |
 | 20:12      | All right.                                                                                                   |
-| 20:13      | eufy scale.                                                                                                   |
+| 20:13      | [[eufy]] scale.                                                                                                   |
 | 20:14      | Well, there we go, Rose.                                                                                     |
 | 20:15      | Now you're going to cost me money.                                                                           |
 | 20:18      | They're surprisingly cheap.                                                                                  |

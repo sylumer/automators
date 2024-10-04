@@ -591,11 +591,11 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 29:55      | So but I see you also have solar.                                                                 |
 | 29:58      | Yeah.                                                                                             |
 | 29:59      | I think the similar thing, you know, I went just like you got into a car.                         |
-| 30:03      | I have kind of gone all in with the Eufy EUFY brand, particularly their camera systems.           |
+| 30:03      | I have kind of gone all in with the [[eufy]], E-U-F-Y brand, particularly their camera systems.           |
 | 30:11      | This is a subsidiary of Anchor, if you remember Anchor cables, and I've always kind of liked      |
 | 30:15      | and trusted the company.                                                                          |
 | 30:17      | And so I bought some of their, their camera stuff and maybe we'll talk about cameras later,       |
-| 30:22      | but one of the things I like about Eufy is that they store locally.                               |
+| 30:22      | but one of the things I like about [[eufy]] is that they store locally.                               |
 | 30:25      | So you don't have to pay them to store it and you don't have to worry about them securing         |
 | 30:29      | your camera footage.                                                                              |
 | 30:30      | You actually store it locally in twice.                                                           |
@@ -611,7 +611,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 31:09      | I lose track of that.                                                                             |
 | 31:11      | And then it's been up there for three weeks and the battery's been dead.                          |
 | 31:14      | And so I was going to hire an electrician and then I just got like a, you know, a marketing       |
-| 31:20      | email from eufy that said, Hey, you want to get the solar panel for your camera?                |
+| 31:20      | email from [[eufy]] that said, Hey, you want to get the solar panel for your camera?                |
 | 31:24      | And I looked at that and it cost about, I'm looking at $60 on [[Amazon]], which is not cheap,         |
 | 31:31      | but it's, it's cheaper than an electrician.                                                       |
 | 31:33      | Yep.                                                                                              |
@@ -1119,12 +1119,12 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 59:19      | But I know my parents, they will complain about having to pay for the subscription,               |
 | 59:23      | but then they will complain about not having the later playback features.                         |
 | 59:28      | So fortunately, this was at the same time as they were looking at an outdoor camera.              |
-| 59:32      | I just bought them a eufy set and set it up and I'm quite pleased with that.                    |
-| 59:36      | And I'm guessing that you've also managed to get a eufy doorbell.                               |
+| 59:32      | I just bought them a [[eufy]] set and set it up and I'm quite pleased with that.                    |
+| 59:36      | And I'm guessing that you've also managed to get a [[eufy]] doorbell.                               |
 | 59:39      | Yeah.                                                                                             |
-| 59:40      | I want to hear about your experience with eufy because I don't know many other people           |
+| 59:40      | I want to hear about your experience with [[eufy]] because I don't know many other people           |
 | 59:44      | that use it other than me.                                                                        |
-| 59:46      | And I, like I said, when they first kind of came on the scene, I knew they were an Anker         |
+| 59:46      | And I, like I said, when they first kind of came on the scene, I knew they were an [[Anker]]         |
 | 59:50      | subsidiary, so I'm like, okay, those are good guys.                                               |
 | 59:53      | And I like that when you get it, like the doorbell comes with a little unit that you              |
 | 59:58      | plug into your, you know, to your switch, you know, it's another thing you plug into              |
@@ -1132,14 +1132,14 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:00:05   | But it's got onboard storage.                                                                     |
 | 01:00:06   | I wish that you could like put a memory stick in it because it's, I think it's...                 |
 | 01:00:11   | Yeah.                                                                                             |
-| 01:00:12   | So there's two different eufy doorbells.                                                        |
+| 01:00:12   | So there's two different [[eufy]] doorbells.                                                        |
 | 01:00:13   | I'm guessing you've got the 2K one, which is the one my parents also have.                        |
 | 01:00:16   | And it comes with a base station, which looks kind of like an airport extreme or time capsule     |
 | 01:00:21   | did.                                                                                              |
 | 01:00:22   | That's what I know.                                                                               |
 | 01:00:23   | From Apple.                                                                                       |
 | 01:00:24   | And that's limited 16 gigabytes of storage.                                                       |
-| 01:00:25   | Eeronically, if you've got the 1080p camera, it would have come with a different door chime        |
+| 01:00:25   | Ironically, if you've got the 1080p camera, it would have come with a different door chime        |
 | 01:00:33   | plug-in with antenna on it.                                                                       |
 | 01:00:35   | And that can take a microSD card.                                                                 |
 | 01:00:37   | So you could have put any size microSD card in there and you'd have been fine.                    |
@@ -1149,7 +1149,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:00:48   | And so I put it in and this has been like a year now that it's been in, put it in when            |
 | 01:00:55   | COVID was kind of getting started.                                                                |
 | 01:00:57   | And it's been great because we did get more, you know, deliveries during this time, obviously     |
-| 01:01:01   | we couldn't go out and it, you know, you've got to use the eufy app.                            |
+| 01:01:01   | we couldn't go out and it, you know, you've got to use the [[eufy]] app.                            |
 | 01:01:06   | And when I first bought it, there were all these forum messages about saying home kit             |
 | 01:01:09   | integration is coming in and at the same time they had already upgraded some of their existing    |
 | 01:01:14   | cameras to home kit integration.                                                                  |
@@ -1158,10 +1158,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:01:22   | And I just assumed it was a question of months and of course now it's been a year and it          |
 | 01:01:25   | still doesn't have home kit integration.                                                          |
 | 01:01:28   | I don't know if it ever will.                                                                     |
-| 01:01:29   | No, but it does have a Homebridge plug-in.                                                       |
+| 01:01:29   | No, but it does have a [[Homebridge]] plug-in.                                                       |
 | 01:01:32   | All right.                                                                                        |
 | 01:01:33   | Well, I want to get to that.                                                                      |
-| 01:01:34   | We're going to talk about Homebridge later because I want to talk about that.                    |
+| 01:01:34   | We're going to talk about [[Homebridge]] later because I want to talk about that.                    |
 | 01:01:37   | Yeah, because this is something I'm looking at setting up for my parents.                         |
 | 01:01:40   | For some reason, I've been struggling to get that outdoor camera into home kit even though        |
 | 01:01:43   | their outdoor camera is most definitely home kit compatible.                                      |
@@ -1231,17 +1231,17 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:04:54   | So I was able to see exactly where the fires were.                                                |
 | 01:04:57   | I was able to look out my windows the whole time we were evacuated and that was really            |
 | 01:05:01   | handy.                                                                                            |
-| 01:05:02   | And so there's a lot to like about the eufys and they're not expensive.                            |
+| 01:05:02   | And so there's a lot to like about the [[eufy\|eufys]] and they're not expensive.                            |
 | 01:05:06   | I mean, the cameras, if you get them on sale or they're, I think even like the fancy ones         |
 | 01:05:12   | with the motors are under $50 and you shouldn't buy those because you can't control those         |
 | 01:05:16   | motors from home kits.                                                                            |
-| 01:05:17   | No, you can't, but you can control them in the eufys security app.                                 |
+| 01:05:17   | No, you can't, but you can control them in the [[eufy]] security app.                                 |
 | 01:05:20   | And actually I'm a big fan of those.                                                              |
 | 01:05:21   | I've got some running around.                                                                     |
-| 01:05:22   | I have one in the kitchen when I was fostering Smudge the Adorable Kitty, who I'm pleased         |
+| 01:05:22   | I have one in the kitchen when I was fostering Smudge the adorable kitty, who I'm pleased         |
 | 01:05:26   | to say is doing very well in her new home for anybody who's wondering.                            |
 | 01:05:30   | She's apparently ruling the roost.                                                                |
-| 01:05:32   | But it was, it's really good because in the eufy app, you can rotate it.                           |
+| 01:05:32   | But it was, it's really good because in the [[eufy]] app, you can rotate it.                           |
 | 01:05:36   | So I'm actually going to be taking a little bit of a break.                                       |
 | 01:05:38   | I'm going on holiday, precise location to be determined, depending on, you know, restrictions,    |
 | 01:05:44   | problems with the world, et cetera.                                                               |
@@ -1302,10 +1302,10 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:08:57   | which maybe we should go into in the future.                                                      |
 | 01:08:59   | It's nice to be able to check in and see in high resolution how things are doing and so           |
 | 01:09:03   | on.                                                                                               |
-| 01:09:04   | And the other thing we've not mentioned about the eufye indoor cameras is you can stick a          |
+| 01:09:04   | And the other thing we've not mentioned about the [[eufy]] indoor cameras is you can stick a          |
 | 01:09:07   | microSD card in the camera.                                                                       |
 | 01:09:09   | Yes.                                                                                              |
-| 01:09:10   | Because the eufye indoor cameras are Wi-Fi.                                                        |
+| 01:09:10   | Because the [[eufy]] indoor cameras are Wi-Fi.                                                        |
 | 01:09:11   | They do not connect to a base station, but you can stick a microSD card in it so it's             |
 | 01:09:15   | got on-device storage if you want to.                                                             |
 | 01:09:18   | You don't have to, but you can.                                                                   |

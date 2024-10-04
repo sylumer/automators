@@ -1219,8 +1219,8 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:10:31   | them to break more things for you.                                                                        |
 | 01:10:35   | So I'd just go with the silent option and just turn on all the lights, make it really,                    |
 | 01:10:39   | really bright, freak them out that way.                                                                   |
-| 01:10:44   | But the thing is, you've got two alarm systems, actually, because you've got the eufye.                    |
-| 01:10:48   | And the eufye camera system has options to do home mode and away mode, where it can record                 |
+| 01:10:44   | But the thing is, you've got two alarm systems, actually, because you've got the [[eufy]].                    |
+| 01:10:48   | And the [[eufy]] camera system has options to do home mode and away mode, where it can record                 |
 | 01:10:53   | differently to the base station, which is really nice.                                                    |
 | 01:10:57   | And obviously home kit already handles the home kit secure video side of things.                          |
 | 01:11:02   | But the [[Aqara Hub]] with those door and window sensors that I mentioned earlier and a motion                |

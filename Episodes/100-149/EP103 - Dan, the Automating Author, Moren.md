@@ -1133,8 +1133,8 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 01:10:01   | different way to do it. But the best way to do it is the way that you've done it, because it's         |
 | 01:10:05   | actually done. That's right. That's a great call. Yeah. So it makes a lot of sense. No, I really       |
 | 01:10:11   | like that, because especially if you don't already have a smart scale, and then, you know, like,       |
-| 01:10:15   | is it only operating on your home network? I have a eufy scale, and it's not that I don't            |
-| 01:10:19   | trust eufy, but I've used the Arrow app to block its internet access, so that it's just,             |
+| 01:10:15   | is it only operating on your home network? I have a [[eufy]] scale, and it's not that I don't            |
+| 01:10:19   | trust [[eufy]], but I've used the Arrow app to block its internet access, so that it's just,             |
 | 01:10:24   | you know, it logs via the app on my phone to the health kit, and that's it. Thank you very much.       |
 | 01:10:28   | But I appreciate the fact that it does do that, you know, when my phone turns on,                      |
 | 01:10:33   | and I open the app. But I can imagine that a lot of people wouldn't necessarily want a Wi-Fi           |

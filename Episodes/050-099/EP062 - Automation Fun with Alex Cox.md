@@ -766,8 +766,8 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:15:20   | at home a lot of the time, I think the Homebridge ecosystem has really started expanding and            |
 | 01:15:26   | people are using Pushcut more and we're kind of in this like overall dark place in the world,         |
 | 01:15:34   | but we're all getting into home automation since we're here all the darn time.                          |
-| 01:15:41   | Yeah, I have also been diving into this a lot, and I don't have a Roomba, I have a eufy robot         |
-| 01:15:49   | vacuum, her name's Buttercup from the Princess Bride, but she, but unfortunately to get your eufy    |
+| 01:15:41   | Yeah, I have also been diving into this a lot, and I don't have a Roomba, I have a [[eufy]] robot         |
+| 01:15:49   | vacuum, her name's Buttercup from the Princess Bride, but she, but unfortunately to get your [[eufy]]    |
 | 01:15:56   | into Homebridge, the person who wrote the plug-in, you need to get the device ID and                    |
 | 01:16:03   | something else and unfortunately to do this, I had to set up an Android emulator and do like            |
 | 01:16:10   | network tracing and stuff like that, I actually have an Android phone and so to start with,             |
