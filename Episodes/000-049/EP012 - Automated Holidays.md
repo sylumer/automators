@@ -169,7 +169,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 04:50      | That's really only two or three step shortcut.                                                       |
 | 04:52      | If you look at some of the stuff we did on date shortcuts earlier in the run of the show,            |
 | 04:57      | you could easily convert one of those to add specific code.                                          |
-| 05:00      | I mean, obviously Apple and Google all these have already hard coded in where you can just           |
+| 05:00      | I mean, obviously [[Apple]] and Google all these have already hard coded in where you can just           |
 | 05:06      | ask the device how many days until Christmas and it's going to know that.                            |
 | 05:09      | But if you want to include that in an automation, you're going to have to kind of build it yourself. |
 | 05:14      | But it's an easy date math automation.                                                               |
@@ -194,7 +194,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 06:27      | that.                                                                                                |
 | 06:28      | But at the most basic level, if you've got a especially if you've got a music subscription           |
 | 06:33      | service, but also if you just bought all your own music, you can easily put together a playlist.     |
-| 06:38      | I'm going to be Apple centric on this discussion because that's where I spend most of my time.       |
+| 06:38      | I'm going to be [[Apple]] centric on this discussion because that's where I spend most of my time.       |
 | 06:44      | And and I since I have an Apple music subscription, I have over the years put together what I think  |
 | 06:49      | is a mighty fine playlist.                                                                           |
 | 06:51      | I call it Yule, why you ULE and in fact, I'll put a link for it in the show notes.                   |
@@ -248,7 +248,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 09:45      | I have a feeling that that team are still hard at work.                                              |
 | 09:47      | We're seeing a lot of betas on them.                                                                 |
 | 09:49      | Yeah, I love that.                                                                                   |
-| 09:50      | I love that there's so many betas on an Apple product and it's not just [[WWDC]].                        |
+| 09:50      | I love that there's so many betas on an [[Apple]] product and it's not just [[WWDC]].                        |
 | 09:56      | Yes, that is always good.                                                                            |
 | 09:59      | Okay, let's take a minute to talk about the sponsor for today's show.                                |
 | 10:05      | And that's our friends over at Smile and their application TextExpander.                             |
@@ -489,14 +489,14 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 23:13      | And it's pretty amazing how much that did get done.                                                  |
 | 23:16      | So I'm not going to be super upset.                                                                  |
 | 23:18      | It takes them another year to get that figured out.                                                  |
-| 23:20      | Well, Apple, this is one of our Christmas wishes.                                                    |
+| 23:20      | Well, [[Apple]], this is one of our Christmas wishes.                                                    |
 | 23:23      | Please can we have it?                                                                               |
 | 23:24      | Yeah.                                                                                                |
 | 23:25      | Right.                                                                                               |
 | 23:26      | Yeah.                                                                                                |
 | 23:27      | I mean, you knew as soon as they gave us [[Shortcuts\|Siri Shortcuts]], we were never going to be just            |
 | 23:30      | happy with that, right?                                                                              |
-| 23:31      | Apple?                                                                                               |
+| 23:31      | [[Apple]]?                                                                                               |
 | 23:32      | I mean, we're going to want more.                                                                    |
 | 23:33      | Yes.                                                                                                 |
 | 23:34      | Automators, nerds want everything and we want it all now.                                            |
@@ -525,15 +525,15 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 24:55      | But the mechanics of that is usually, I think the best way to do that on a Mac at this point         |
 | 25:02      | is to put it into a numbers or an Excel spreadsheet.                                                 |
 | 25:08      | You can do it sort of out of the contacts database, but the problem is that the contact              |
-| 25:13      | fields in the contact database are kind of predesignated by Apple, and there is no potential         |
+| 25:13      | fields in the contact database are kind of predesignated by [[Apple]], and there is no potential         |
 | 25:19      | field that you can say the Sparks family, which is what you'd want to say instead of                 |
 | 25:23      | David or Daisy.                                                                                      |
 | 25:25      | And I've actually talked to some of the developers that have been working on some of the contact     |
 | 25:28      | related apps, and they all are aware of this problem, but the problem is that the way the            |
-| 25:33      | contact database is, which is what every address book app uses is the Apple's native contact         |
+| 25:33      | contact database is, which is what every address book app uses is the [[Apple|Apple's]] native contact         |
 | 25:39      | database, because it wouldn't make any sense to roll your own, because then you'd have               |
 | 25:43      | inconsistent data.                                                                                   |
-| 25:44      | So they've got to use Apple's database, and Apple's database simply doesn't have a field             |
+| 25:44      | So they've got to use [[Apple|Apple's]] database, and [[Apple|Apple's]] database simply doesn't have a field             |
 | 25:48      | for this.                                                                                            |
 | 25:49      | So what I would recommend is you export out of contacts, make a specific contact group               |
 | 25:56      | over the people you want to get your cards, export that out, then import it into numbers             |

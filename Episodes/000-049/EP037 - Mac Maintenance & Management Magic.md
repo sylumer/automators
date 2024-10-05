@@ -83,8 +83,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:01      | up in general, which is perhaps the end of what you do at the end of the day, rather.                   |
 | 01:07      | But I feel that that's a good place to start, because that's one of the easiest things to               |
 | 01:10      | accomplish, in my opinion. Yeah. One of the things that people have lost track of is                    |
-| 01:16      | the Mac maintenance tools made by Apple, and they're there, but they're not necessarily                 |
-| 01:23      | where you think they are. One of the places you go to it is the Apple menu about this Mac,              |
+| 01:16      | the Mac maintenance tools made by [[Apple]], and they're there, but they're not necessarily                 |
+| 01:23      | where you think they are. One of the places you go to it is the [[Apple]] menu about this Mac,              |
 | 01:31      | and if you go there, you'll see that they've got a bunch of information in that. You know,              |
 | 01:35      | they've got information about your displays, your storage, showing, you know, what's going on with      |
 | 01:40      | what's stored on your hard drive. They've also got, if you've got Apple care attached or support        |
@@ -118,7 +118,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 04:10      | automatically delete anything that's been in my trash for two days or a week or something,              |
 | 04:14      | which is more of a fine grain control over what's built into the Mac.                                   |
 | 04:18      | Yeah, this is one of those examples of a third-party developer showing up and just,                     |
-| 04:24      | you know, doing a better job of it than Apple with more details, you know, more                         |
+| 04:24      | you know, doing a better job of it than [[Apple]] with more details, you know, more                         |
 | 04:29      | automator love here. And the thing I like about the way [[Hazel]] does it is, first of all,                 |
 | 04:35      | you can make rules in [[Hazel]] that manage your trash, and we're going to talk about [[Hazel]] later           |
 | 04:40      | with respect to the Finder and automatically managing files. But the trash button in [[Hazel]],             |
@@ -138,7 +138,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 05:58      | operating system has evolved so much that there's plenty of apps that write little files into your      |
 | 06:04      | user folder in different places. So with Hazel's AppSweep, it will go through and clean all that        |
 | 06:09      | out, too. So if you want to manage your, you know, cleaning your trash automatically,                   |
-| 06:15      | I would definitely turn on the Apple thing, the 30 day thing from Apple if you don't have anything,     |
+| 06:15      | I would definitely turn on the [[Apple]] thing, the 30 day thing from [[Apple]] if you don't have anything,     |
 | 06:22      | but I would honestly consider purchasing [[Hazel]] and installing it. I think it's a much more powerful     |
 | 06:28      | tool along with one other that I think is really good for trash management. And these two apps          |
 | 06:35      | are going to probably be the stars of this episode because they come up in so many different            |
@@ -408,7 +408,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 30:37      | because it's got my wife's name in it. That's kind of fun. But they do these concentric circles.        |
 | 30:42      | It's very, it's a very nice way to find data hogs. And then Rose mentioned, once again,                 |
 | 30:48      | CleanMyMac, that's that app that is going to keep showing up. They've got a system to do the same       |
-| 30:52      | thing. theirs is also prettier than the Apple one. I think the CleanMyMac one is better for             |
+| 30:52      | thing. theirs is also prettier than the [[Apple]] one. I think the CleanMyMac one is better for             |
 | 31:00      | people who are not super nerdy. I think it does a better job of exposing the big files                  |
 | 31:07      | for you. So I would recommend that for people that, if you've got someone in your life that             |
 | 31:13      | is interested in getting a little bit better at this, just install CleanMyMac for them,                 |

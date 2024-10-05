@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview
-x-callback-url is a standardised system for inter-app communication on iOS devices. It allows apps to communicate with each other by using [[URL Schemes|URLs]] to trigger actions in other apps *and* receive responses back. This system was particularly useful for developers who wanted to create workflows that involve multiple apps working together seamlessly before the introduction of Shortcuts intents on Apple's platforms.
+x-callback-url is a standardised system for inter-app communication on iOS devices. It allows apps to communicate with each other by using [[URL Schemes|URLs]] to trigger actions in other apps *and* receive responses back. This system was particularly useful for developers who wanted to create workflows that involve multiple apps working together seamlessly before the introduction of Shortcuts intents on [[Apple|Apple's]] platforms.
 
 # Key Components
 - **URL Scheme**: Each app that supports x-callback-url has a unique [[URL Schemes\|URL scheme]] that defines how other apps can communicate with it.

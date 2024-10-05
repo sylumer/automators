@@ -271,13 +271,13 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 09:06      | we had recorded some episodes                                     |
 | 09:08      | and then everything got replaced                                  |
 | 09:11      | because at the time we recorded the episodes,                     |
-| 09:13      | Apple released shortcuts.                                         |
+| 09:13      | [[Apple]] released shortcuts.                                         |
 | 09:15      | And...                                                            |
 | 09:16      | Yeah, we were at [[WWDC]].                                            |
 | 09:18      | I just spoken to [[Myke Hurley]] and I met Steven.                    |
 | 09:23      | And we were confirming everything was ready to go                 |
 | 09:25      | and we had some episodes.                                         |
-| 09:27      | And then Apple threw a really lovely curve ball                   |
+| 09:27      | And then [[Apple]] threw a really lovely curve ball                   |
 | 09:30      | in the forward shortcuts.                                         |
 | 09:31      | And it's like, all right, where's the trash can?                  |
 | 09:34      | We need that.                                                     |
@@ -325,7 +325,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 11:10      | Or it's really under powered                                       |
 | 11:11      | because you can't just type what you want into it.                |
 | 11:14      | But honestly, it is a really great tool                           |
-| 11:18      | that is now ubiquitous on Apple platforms.                        |
+| 11:18      | that is now ubiquitous on [[Apple]] platforms.                        |
 | 11:21      | Some of the actions aren't,                                       |
 | 11:22      | but the app itself and its existence is.                          |
 | 11:25      | I mean, assuming everyone is running, you know,                   |
@@ -1075,7 +1075,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 41:47      | Time is taking away at a relatively rapid pace.                   |
 | 41:51      | But I reckon, David, do you think if we wish hard enough          |
 | 41:55      | and talk about all the things that we want,                       |
-| 41:57      | Apple have got time?                                              |
+| 41:57      | [[Apple]] have got time?                                              |
 | 41:58      | Like from my counting, they've got like six weeks until.          |
 | 42:01      | Sure, they can just add all that in, why not?                     |
 | 42:04      | Yeah, yeah, yeah.                                                 |
@@ -1127,7 +1127,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 44:05      | which all do that sort of thing                                   |
 | 44:08      | where it just doesn't work, unfortunately.                        |
 | 44:10      | Yeah, I would like to even just state that request                |
-| 44:13      | more generally and have Apple just get better                     |
+| 44:13      | more generally and have [[Apple]] just get better                     |
 | 44:16      | at device conflicts, you know?                                    |
 | 44:18      | Mm-hmm.                                                           |
 | 44:19      | You know, now that you've got shortcuts                           |
@@ -1371,11 +1371,11 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 54:53      | They're not going in very deep with it.                           |
 | 54:54      | Not everybody is [[BetterTouchTool]].                               |
 | 54:57      | And I think that one of the reasons is                            |
-| 54:59      | is Apple could do a better job making it easier                   |
+| 54:59      | is [[Apple]] could do a better job making it easier                   |
 | 55:01      | to integrate shortcuts with the core functions                    |
 | 55:03      | of your application.                                              |
 | 55:05      | Yes.                                                              |
-| 55:06      | And I'd like to see them do that rather than Apple                |
+| 55:06      | And I'd like to see them do that rather than [[Apple]]                |
 | 55:08      | spend their time making a bunch of actions,                       |
 | 55:10      | let the developers do it.                                         |
 | 55:11      | Cause that's what we want them for.                               |
@@ -1393,7 +1393,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 55:34      | one of the most powerful Mac apps ever,                           |
 | 55:38      | you know, has to ask these questions                              |
 | 55:40      | really means that, you know, there's something lacking there      |
-| 55:45      | that just doesn't make it quite as easy as Apple think it is.     |
+| 55:45      | that just doesn't make it quite as easy as [[Apple]] think it is.     |
 | 55:49      | And related to that, I really wish that they would do             |
 | 55:51      | a better job of educating app review                              |
 | 55:55      | on what the heck is shortcuts                                     |
@@ -1422,7 +1422,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 56:58      | create a shortcut showcase on their website of,                   |
 | 57:01      | hey, here are some example shortcuts                              |
 | 57:02      | some of our users are using,                                      |
-| 57:04      | which promote shortcuts and promotes iOS and Apple.               |
+| 57:04      | which promote shortcuts and promotes iOS and [[Apple]].               |
 | 57:08      | And then, you know, they can link back to that sort of thing.     |
 | 57:11      | But I can't even search for shortcuts                             |
 | 57:14      | which contain actions from a specific app right now,              |
@@ -1430,7 +1430,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 57:19      | Wait, which was the shortcut that had my app's action in it?      |
 | 57:23      | Well, they have to go through and open them and find out.         |
 | 57:26      | It's not great.                                                   |
-| 57:27      | Yeah, but, you know, that's always been a challenge at Apple      |
+| 57:27      | Yeah, but, you know, that's always been a challenge at [[Apple]]      |
 | 57:29      | to get kind of company-wide buy-in to automation.                 |
 | 57:33      | I mean, I remember...                                             |
 | 57:34      | Well, it's not so much automation that I'm concerned about.       |
@@ -1445,8 +1445,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 58:01      | but they had Automator actions                                    |
 | 58:04      | that were way better than what they had for pages.                |
 | 58:07      | You know, I mean, it just...                                      |
-| 58:08      | And it's just Apple,                                              |
-| 58:10      | just because Apple as a platform developer                        |
+| 58:08      | And it's just [[Apple]],                                              |
+| 58:10      | just because [[Apple]] as a platform developer                        |
 | 58:12      | has this shortcut thing,                                          |
 | 58:14      | it doesn't seem like everybody in app review                      |
 | 58:17      | gets behind it and understands how important this is.             |
@@ -1497,7 +1497,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:00:07   | [[Safari]] updates as part of Mac OS or independently.                |
 | 01:00:11   | And [[Xcode]], you know, [[Xcode]] could add some actions.                |
 | 01:00:14   | So be nice, you know, it would be a really great                  |
-| 01:00:18   | to see buy-in from internal Apple software developers             |
+| 01:00:18   | to see buy-in from internal [[Apple]] software developers             |
 | 01:00:22   | as well as all of the other app developers out there              |
 | 01:00:26   | doing all of those things.                                        |
 | 01:00:28   | I remember reading in Machiavelli,                                |
@@ -1627,7 +1627,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:05:31   | I did.                                                            |
 | 01:05:31   | The Mac Studio display is, well,                                  |
 | 01:05:34   | existence is theoretical.                                         |
-| 01:05:36   | Apple have told me it should be with me sometime                  |
+| 01:05:36   | [[Apple]] have told me it should be with me sometime                  |
 | 01:05:38   | between the 20th of May and something of June.                    |
 | 01:05:42   | So, you know, I'm sure that it exists in theory.                  |
 | 01:05:45   | Maybe the box already exists,                                     |

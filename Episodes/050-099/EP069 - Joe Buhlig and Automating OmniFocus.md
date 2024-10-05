@@ -184,9 +184,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 09:07      | made WordBasic anymore, but that was actually pretty powerful if you wanted to do some automation.     |
 | 09:14      | But the OmniFocus automation, I think, is interesting that they have built around. And                 |
 | 09:21      | I think I really admire the work they've done in order to make their app more automation friendly.     |
-| 09:27      | I mean, initially, when OmniFocus released, all the Omni apps always have great AppleScript support.   |
+| 09:27      | I mean, initially, when [[OmniFocus]] released, all the Omni apps always have great AppleScript support.   |
 | 09:35      | And I guess let's just do a little history lesson here for a minute.                                   |
-| 09:38      | You know, so they had the AppleScript and OmniFocus was a Mac app. I mean, it was, it grew            |
+| 09:38      | You know, so they had the [[AppleScript]] and OmniFocus was a Mac app. I mean, it was, it grew            |
 | 09:45      | out of Kinklesst GTD, which was an Omni Outliner kind of plug-in or add-on. Either of you guys          |
 | 09:53      | have been around long enough to remember that, except before your time. It was before me.              |
 | 09:58      | I think that was before my time. Yeah. So, yeah, they made, I forget his name, but there was a guy,    |
@@ -195,23 +195,23 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 10:18      | task manager. And we were all, and on the Mac, there were no good task managers. As weird as           |
 | 10:24      | that sounds, because now there are so many good ones, but back then there were no good ones.           |
 | 10:28      | And Ethan Schoonover made these plugins with OmniOutliner. Then the Omni Group actually made           |
-| 10:32      | a separate product, but they started with excellent AppleScript support. But then after,              |
-| 10:37      | and I don't know, have you guys either of you done any AppleScript stuff in OmniFocus?                |
+| 10:32      | a separate product, but they started with excellent [[AppleScript]] support. But then after,              |
+| 10:37      | and I don't know, have you guys either of you done any [[AppleScript]] stuff in [[OmniFocus]]?                |
 | 10:44      | Yeah. Yeah. I mean, all the tools you need are there. But the problem is, of course,                   |
-| 10:49      | AppleScript doesn't exist on the iPhone and iPad, which emerged after the app.                        |
-| 10:54      | And so then the Omni Group did the shortcut support for OmniFocus, which Rose and I have               |
+| 10:49      | [[AppleScript]] doesn't exist on the iPhone and iPad, which emerged after the app.                        |
+| 10:54      | And so then the Omni Group did the shortcut support for [[OmniFocus]], which Rose and I have               |
 | 11:01      | talked about at length on the show. And that's how I trigger so many of my templated projects.         |
-| 11:06      | But then after Sal Soghoianin left Apple, he started working with Omni Group. And I guess Sal's not       |
+| 11:06      | But then after [[Sal Soghoian]] left [[Apple]], he started working with Omni Group. And I guess [[Sal Soghoian\|Sal's]] not       |
 | 11:15      | the only person. I know a lot of people at Omni are smart and we're thinking about this, but they      |
 | 11:19      | wanted to come up with a scripting language that would allow you to work on both iPhone,               |
 | 11:26      | iPad, and Mac. So you write your automation once and it works on all platforms. And that's what        |
 | 11:34      | they've done. And I think they've done it very well, honestly, because it's pretty slick, kind of      |
 | 11:40      | going back to some of those first scripts I was referring to earlier. Those were all built on          |
 | 11:45      | AppleScript, which was great. You could do a lot with that. But I've been a primary Mac user for      |
-| 11:55      | pretty much my entire Apple existence. And I've done some things with the iPad in the past,            |
+| 11:55      | pretty much my entire [[Apple]] existence. And I've done some things with the iPad in the past,            |
 | 12:01      | but I've just learned like I'm a Mac and iPhone personally. I've had great, but it just doesn't        |
-| 12:06      | fit a lot of my workflows. So whenever I was working on a lot of these Omni focus setups,              |
-| 12:13      | it's always been AppleScript, which is why when Sal came on and started helping them develop this     |
+| 12:06      | fit a lot of my workflows. So whenever I was working on a lot of these [[OmniFocus]] setups,              |
+| 12:13      | it's always been [[AppleScript]], which is why when Sal came on and started helping them develop this     |
 | 12:20      | whole Omni automation ecosystem for being kind of a universal plug-in structure,                       |
 | 12:26      | like I immediately wanted to move a lot of my scripts over to this setup. But it of course             |
 | 12:33      | means you're rebuilding them from the ground up. So it takes some time. And with me having kind of     |
@@ -219,7 +219,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 12:45      | focus, it's like, okay, obviously, this is a no-brainer. Let's move some of this stuff over.           |
 | 12:50      | Because again, it is super powerful. Yeah. And I feel like what they've done is really an evolution.   |
 | 12:57      | I mean, it is so good now because of all the steps they've taken over the years.                       |
-| 13:02      | But what they've created is it's largely a JavaScript language, but it's a little bit                  |
+| 13:02      | But what they've created is it's largely a [[JavaScript]] language, but it's a little bit                  |
 | 13:08      | different. I mean, I've been able to fiddle with it and I'm not a programmer. It's not that hard.      |
 | 13:14      | And the cool part is you make these plug-in scripts. And when you install them into Omni               |
 | 13:21      | focus, you install them directly into the app, you're essentially adding feature sets to the app.      |
@@ -333,7 +333,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 23:18      | as we mentioned at the top of the show, you can just take other people's scripts and use them          |
 | 23:21      | as they are. You don't even have to change them if you don't want to. Yeah. I feel like the trick      |
 | 23:26      | is, first, you got to know what tools are in the box. If you don't know what's in the toolbox,         |
-| 23:32      | do one of the courses. But then after that, it really is... I mean, that's the way I Apple             |
+| 23:32      | do one of the courses. But then after that, it really is... I mean, that's the way I [[Apple]]             |
 | 23:37      | Script, even though I've read many books and do it, I still like hunting back at stuff. The beauty     |
 | 23:43      | of [[AppleScript]] is it's been around so long that the web is full of great snippets to solve a problem  |
 | 23:49      | in [[AppleScript]] that's already pre-written code. Army Automation isn't as new, however,                |

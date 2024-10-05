@@ -565,7 +565,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 24:24      | unfortunately, you can maybe work around it                                                        |
 | 24:26      | with third-party applications,                                                                     |
 | 24:28      | but you can't access [[Dropbox]].                                                                      |
-| 24:30      | And this is kind of [[Dropbox]] plus Apple,                                                            |
+| 24:30      | And this is kind of [[Dropbox]] plus [[Apple]],                                                            |
 | 24:34      | apparently, according to [[Dropbox]].                                                                  |
 | 24:36      | I'm not sure how much.                                                                             |
 | 24:37      | I 100% believe that because if little indie developers                                             |
@@ -1357,7 +1357,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 53:47      | and that's five apps folks.                                                                        |
 | 53:49      | Plus don't forget that you've got Apple Silicon                                                    |
 | 53:51      | and you've got                                                                                     |
-| 53:53      | Apple Intel machines                                                                               |
+| 53:53      | [[Apple]] Intel machines                                                                               |
 | 53:55      | and then you've got Windows and you've got the Windows Linux                                       |
 | 53:57      | sub system and all of the different                                                                |
 | 53:59      | Linux varieties. There's a heck of a lot of stuff                                                  |

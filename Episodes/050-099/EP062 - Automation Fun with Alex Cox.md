@@ -166,7 +166,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 10:19      | back down into, into like a COVID lock down. And having systems in place where I just                    |
 | 10:27      | don't need to think is so, so great. I mean, gosh, I am preaching to the choir,                         |
 | 10:33      | to the folks who are listening to this. But I actually would like to encourage folks to                 |
-| 10:39      | kind of look at all of their systems they have in place now, which I think in like our Apple            |
+| 10:39      | kind of look at all of their systems they have in place now, which I think in like our [[Apple]]            |
 | 10:45      | communities, everyone kind of is doing, especially with like note taking. But I mean, we're in a        |
 | 10:52      | different worlds right now. And I think every time there's a big milestone in your life,                |
 | 10:57      | whether it's moving or having kids or spending your entire time in your apartment, being able           |
@@ -479,14 +479,14 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 44:27      | I'm like, you know what? I'm just going to sleep on this one before I send this one off to email.       |
 | 44:32      | And quite often I wake up the next day, I'm like, oh, I need to rewrite this. This is not,              |
 | 44:36      | this is not me. This is a crazy person. One of the things about [[Drafts]] that I would,                    |
-| 44:43      | and it's not on the developer, it's really on Apple, but, you know, because we're talking about         |
+| 44:43      | and it's not on the developer, it's really on [[Apple]], but, you know, because we're talking about         |
 | 44:47      | all these text things we make, like I, like Alex, I open [[Drafts]] constantly. Every time I have a         |
 | 44:53      | phone call of any substance with a client, I take notes and [[Drafts]] and I save all these little          |
 | 44:57      | markdown files. So I've got records. And the problem is you have two choices. You either save           |
 | 45:03      | it to [[Dropbox]] and [[Dropbox]] is its own kind of like hive of villainy, right? But you also,                |
 | 45:10      | or you can save it to iCloud. But iCloud only will save it to the [[Drafts]] folder, right? Because of      |
 | 45:17      | the iCloud system, they won't let you save outside of the app folder. And I guess this is a security    |
-| 45:22      | measure that Apple has. But man, it makes me crazy. And I've got all these [[Hazel]] rules back on my       |
+| 45:22      | measure that [[Apple]] has. But man, it makes me crazy. And I've got all these [[Hazel]] rules back on my       |
 | 45:27      | Mac that do nothing all day, but sort out iCloud folders and move files for me. And I don't really      |
 | 45:34      | know what the answer to it is. I guess if you, you could just use [[Dropbox]] and then you would have more  |
 | 45:39      | granular access or you have to deal with this second step. How do you deal with that, Rose?             |
@@ -534,10 +534,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 49:46      | need is pretty small, but then it becomes staggering when I look at all of my folders,                  |
 | 49:50      | which I mean, I never really had a need for folders until the new widget came to iOS 14.                |
 | 49:59      | So being able to run shortcuts from my home screen has been absolutely wild. So the thing that          |
-| 50:08      | really got me into shortcuts was health stuff, actually, once Apple acquired                            |
+| 50:08      | really got me into shortcuts was health stuff, actually, once [[Apple]] acquired                            |
 | 50:13      | shortcuts, you know, formally workflow, because I never wanted to get into it because I really          |
-| 50:21      | thought, oh, there's no way Apple is going to continue to allow this. Like there's no way Apple         |
-| 50:27      | is going to continue to let me log all of my health data and stuff that, you know, Apple thinks that    |
+| 50:21      | thought, oh, there's no way [[Apple]] is going to continue to allow this. Like there's no way [[Apple]]         |
+| 50:27      | is going to continue to let me log all of my health data and stuff that, you know, [[Apple]] thinks that    |
 | 50:36      | it's data that they shouldn't have, but it's data that I want to have. But now, you know,               |
 | 50:42      | I have a widget just completely dedicated to health stuff. And a lot of it is really, again,            |
 | 50:49      | easy, simple, single actions, like working with one of my favourite apps, WaterMinder,                   |
@@ -647,7 +647,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:03:10   | and the other one is just a random list. And I think [[Matthew Cassinelli]] taught me how to make           |
 | 01:03:18   | those from actually a shortcut he made that was pull a random episode of the office up for me,          |
 | 01:03:28   | because he had watched the office so many times. And so now I have the same thing with the Simpsons,    |
-| 01:03:33   | but unfortunately, there's nothing you can do to have, like, I gosh, I wish that Apple or TVOS          |
+| 01:03:33   | but unfortunately, there's nothing you can do to have, like, I gosh, I wish that [[Apple]] or TVOS          |
 | 01:03:43   | or whatever it's called, would get its stuff together and work with shortcuts more because I            |
 | 01:03:48   | want to push a button and then just have what I'm watching pop up on the screen. Like, yep,             |
 | 01:03:55   | all right. Soak over me, Sideshow Bob. Let's just, let's just get into this and then fall asleep.       |
@@ -813,7 +813,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:20:04   | who started the [[Stream Deck]] trend. But wow, the [[Stream Deck]] is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
-| 01:20:24   | but the Apple Silicon event is or well, there's some Apple event next week. And I have a feeling        |
+| 01:20:24   | but the Apple Silicon event is or well, there's some [[Apple]] event next week. And I have a feeling        |
 | 01:20:30   | that I might be purchasing a personal computer after that. And I don't know what's gonna happen.        |
 | 01:20:37   | Like when I really hope that shortcuts is coming to the Mac, I bet it's not. I mean, I'm sure it's      |
 | 01:20:44   | not going to be for like another year or so. But since I'm at a point in my life now, where I           |
@@ -843,7 +843,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:23:23   | think, which is another one of those apps that I really, really love. And it's kind of becoming my      |
 | 01:23:29   | main archival tool. But I don't like that I have to have it running in the background on my at          |
 | 01:23:36   | iMac to make sure that it's always up to date on my phone. It's worked great so far. But, you know,     |
-| 01:23:43   | you never know what Apple will do in the next version of Mac OS.                                        |
+| 01:23:43   | you never know what [[Apple]] will do in the next version of Mac OS.                                        |
 | 01:23:48   | Yeah. Yeah, but that's, and that's where automation comes in, you could run a script to like just       |
 | 01:23:53   | open it up at 2am every day. And that's what I do actually. Yeah, I stole that from you. Yeah.          |
 | 01:23:58   | And it is, but I mean, you are so far down the road on automation, I just can't wait to hear            |

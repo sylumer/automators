@@ -210,7 +210,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 07:52      | So I love the Apple Watch functionality and the fact that you can have it tag automatically.           |
 | 07:57      | Everything that comes from the Apple Watch is so useful because then as you say to him,                |
 | 08:01      | it doesn't always understand what you say quite right.                                                 |
-| 08:03      | And this is on Apple's dictation.                                                                      |
+| 08:03      | And this is on [[Apple\Apple's]] dictation.                                                                      |
 | 08:06      | I should point out, agile tortures hasn't written their own dictation engine.                          |
 | 08:10      | They use the built-in dictation engine.                                                                |
 | 08:13      | So that means all of your data is nice and secure and safe as well.                                    |
@@ -250,7 +250,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 10:20      | and it's a built-in action for a list to [[Apple Reminders\|Reminders]].                                                    |
 | 10:25      | And I tap that, it's added to my grocery list and I'm done.                                            |
 | 10:29      | That is genius.                                                                                        |
-| 10:30      | Yeah, I know we have some listeners at Apple and I'd ask the listeners at Apple right                  |
+| 10:30      | Yeah, I know we have some listeners at [[Apple]] and I'd ask the listeners at [[Apple]] right                  |
 | 10:34      | now to just think pleasant thoughts for a moment and tune out because one of the things                |
 | 10:39      | [[Drafts]] does, I'm not sure if this is even allowed, but he manages to loop dictation                    |
 | 10:46      | in a way because usually there's a dictation timer on the iPhone and iPad where after about            |

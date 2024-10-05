@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/federicoviticci
 ![[Federico Viticci.jpg|200x200]]
 
 # About
-Federico Viticci is the founder of MacStories, where he currently serves as the editor-in-chief. He writes about the Apple ecosystem and appears as a host and regular guest on a variety of podcasts.
+Federico Viticci is the founder of MacStories, where he currently serves as the editor-in-chief. He writes about the [[Apple]] ecosystem and appears as a host and regular guest on a variety of podcasts.
 
 # Guest Episodes
 ```dataviewjs

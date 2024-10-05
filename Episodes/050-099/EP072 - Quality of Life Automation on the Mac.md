@@ -91,12 +91,12 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:05      | the most lately is window management. I haven't talked about it on this show, but I went through         |
 | 01:10      | a whole sordid tale where I traded my iMac Pro to a guy and, you know, money changed                     |
 | 01:17      | hands. And I ended up with a ridiculously overrated, overpriced, I guess it's not overrated              |
-| 01:26      | or overpriced, but it's out of my wheelhouse. I bought one of those fancy Apple monitors                 |
+| 01:26      | or overpriced, but it's out of my wheelhouse. I bought one of those fancy [[Apple]] monitors                 |
 | 01:32      | through a trade. And it's way more monitor than I need. It's got a bunch of features                     |
 | 01:39      | that I don't really use, but I figured the Intel iMac wasn't going to have value much                    |
 | 01:45      | longer. So trading it for a fancy monitor that I can use with hopefully a future Apple                   |
 | 01:50      | Silicon Mac just kind of made sense. Wait, David, are you telling me that you have a                     |
-| 01:55      | crystal ball because you got rid of your iMac Pro before Apple killed the iMac Pro line?                 |
+| 01:55      | crystal ball because you got rid of your iMac Pro before [[Apple]] killed the iMac Pro line?                 |
 | 02:01      | Yeah, I felt better after that happened. I mean, I felt kind of sad because I thought                    |
 | 02:04      | that was probably my favourite Intel Mac I ever owned, but, but, you know, getting rid                    |
 | 02:09      | of it, you know, the writing was on the wall when you see that a MacBook Air can render                  |
@@ -554,7 +554,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 40:53      | a 12 inch, it feels so much easier. So worst case scenario, folks borrow somebody's 12                   |
 | 40:59      | inch machine for a little while and see how you feel about it. However, you know, the trick              |
 | 41:06      | is, um, for me, like, you know, figuring out how much do I actually need to see on this                  |
-| 41:13      | machine at this time. And also using spaces, spaces in the, the Apple sense of this space                |
+| 41:13      | machine at this time. And also using spaces, spaces in the, the [[Apple]] sense of this space                |
 | 41:20      | has these applications or this space has these applications on it and using the multi finger             |
 | 41:24      | swipe to swipe between the spaces, because that's what I do, especially on the 12 inch                   |
 | 41:29      | and the 13 inch. And I find that that really works. You know, I can say, okay, I'm, I'm                  |
@@ -687,7 +687,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 52:47      | And you can, you know, and where you're doing the the format rename, it's got custom format.             |
 | 52:52      | And you do have to have something in there for it to do that. But oh my gosh, that's this.               |
 | 52:58      | It's just great. And wow, am I impressed with this?                                                      |
-| 53:02      | Yeah. And Apple, I haven't found a knowledge based article on it, but they do have a user guide.         |
+| 53:02      | Yeah. And [[Apple]], I haven't found a knowledge based article on it, but they do have a user guide.         |
 | 53:09      | They've got some details on this. And we're going to put that in the show notes and                      |
 | 53:14      | and let people check that out. But it is really nice to know you can do this without a third party app.  |
 | 53:19      | So yeah, it really is. And it can just be as simple as, you know, you've you've dragged,                 |
@@ -1111,8 +1111,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:31:58   | it's a comment bubble with a green checkmark in it. And these are just some things that I've made        |
 | 01:32:04   | by overlaying PNGs on top of each other in Pixelmator. You know, nothing too fancy or crazy,             |
 | 01:32:12   | but it works. So, yeah, I took [[Stephen Millard]], who was a guest in episode 68. He has a script           |
-| 01:32:21   | that will run and pull out all of the [[SF Symbols]] which is Apple's kind of open source. Well,            |
-| 01:32:27   | it's not open source, but Apple's common icon set. And he can in, so I just ran his script to put        |
+| 01:32:21   | that will run and pull out all of the [[SF Symbols]] which is [[Apple\|Apple's]] kind of open source. Well,            |
+| 01:32:27   | it's not open source, but [[Apple\|Apple's]] common icon set. And he can in, so I just ran his script to put        |
 | 01:32:33   | them all on a dark gray background. And so for like in the Microsoft Word one, it's just a               |
 | 01:32:38   | bunch of icons, but it's just faster seeing the icon and pushing the button than any other way           |
 | 01:32:43   | that I'm aware of. So it's pretty cool. I really love that. And I also have a bonus tip for you,         |
@@ -1239,8 +1239,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:44:08   | Before we go, you and I had both written down a couple apps in the process of this outline that          |
 | 01:44:14   | are kind of like quality of life automation apps that are kind of out of the normal that                 |
 | 01:44:19   | I thought we should mention. Yeah. I'll start with [[Amphetamine]]. No, it's not a drug. It's a drug for     |
-| 01:44:26   | your Mac. It's in the Mac App Store. There was recently a thing where Apple asked them to rename         |
-| 01:44:32   | even though they've had that name for years and then Apple went back and said, actually, no, it's        |
+| 01:44:26   | your Mac. It's in the Mac App Store. There was recently a thing where [[Apple]] asked them to rename         |
+| 01:44:32   | even though they've had that name for years and then [[Apple]] went back and said, actually, no, it's        |
 | 01:44:36   | fine. But I love [[Amphetamine]] because it's for people who've used the caffeine command in the             |
 | 01:44:43   | terminal or Java, latte, there's a couple of different ones. They're all pretty much coffee              |
 | 01:44:51   | based names for the Mac. Little menu bar applications that sit in the menu bar on your Mac               |

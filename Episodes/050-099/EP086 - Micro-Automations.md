@@ -101,7 +101,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:53      | I think if you're going to be doing a lot of automation for iPhone and iPad, if you're                  |
 | 01:58      | going mobile, I think JavaScript will serve you better at this point because AppleScript               |
 | 02:03      | isn't over there.                                                                                       |
-| 02:04      | And I wish that Apple had put Apple events and AppleScript into the iPad and iPhone                    |
+| 02:04      | And I wish that [[Apple]] had put Apple events and AppleScript into the iPad and iPhone                    |
 | 02:09      | because AppleScript is really quite powerful.                                                          |
 | 02:12      | But if you work at the Mac, sometimes there are automation problems for which there is                  |
 | 02:19      | no solution, but an AppleScript.                                                                       |
@@ -126,7 +126,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 03:31      | And so the specific problem that you're talking about is getting to a specific system setting           |
 | 03:36      | pane.                                                                                                   |
 | 03:37      | And that is actually not so easily automated.                                                           |
-| 03:42      | I mean, Apple doesn't really have a like, for instance, the new shortcuts from act is                   |
+| 03:42      | I mean, [[Apple]] doesn't really have a like, for instance, the new shortcuts from act is                   |
 | 03:48      | doesn't have commands to open a specific settings panel.                                                |
 | 03:53      | And sometimes there are settings panels that you need to get into.                                      |
 | 03:55      | And sometimes they're two or three clicks deep into the system.                                         |
@@ -155,7 +155,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 05:14      | They agreed.                                                                                            |
 | 05:15      | And, and that's where these tiny AppleScripts can come in handy because I think the thing              |
 | 05:21      | that to understand about AppleScript is that it addresses applications directly, you                   |
-| 05:28      | know, and yeah, that's done not only by Apple, you know, Apple in this case, Apple has created          |
+| 05:28      | know, and yeah, that's done not only by [[Apple]], you know, [[Apple]] in this case, [[Apple]] has created          |
 | 05:35      | AppleScript hooks into specific views of the system preferences, but also third party                  |
 | 05:40      | applications.                                                                                           |
 | 05:41      | Like I was telling Rose before we started today, recently wrote an AppleScript where                   |
@@ -205,7 +205,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 08:32      | and you're technically having it run the exact same commands in AppleScript and in JavaScript          |
 | 08:37      | in the JavaScript just doesn't work or bugs out or something.                                           |
 | 08:40      | And that's not JavaScript, the languages fault.                                                         |
-| 08:43      | It's somehow Apple didn't quite hook everything into Apple events quite the same way.                   |
+| 08:43      | It's somehow [[Apple]] didn't quite hook everything into Apple events quite the same way.                   |
 | 08:47      | So things just don't work very well.                                                                    |
 | 08:50      | And it's a shame because I actually, I spent about 50% of my time developing in JavaScript.             |
 | 08:57      | And so it'd be really good if I could reuse those skills with Automation.                               |
@@ -220,7 +220,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 09:31      | the book to start with.                                                                                 |
 | 09:33      | There are other ones out there that are good too, but Sal's a friend and when I read it,                |
 | 09:38      | I hear his voice and I took his course at Macworld and I think, you know, he's the guy                  |
-| 09:43      | who was writing AppleScript for Apple for so long.                                                     |
+| 09:43      | who was writing AppleScript for [[Apple]] for so long.                                                     |
 | 09:47      | But the, but another good way to learn AppleScript, honestly, is to grab somebody else's               |
 | 09:53      | AppleScript and start fiddling with it.                                                                |
 | 09:56      | And that's basically how I created that OmniFocus script is I started looking at a bunch of             |
@@ -259,7 +259,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 11:59      | I get the E and the C the wrong way around or there's an extra S in there or a double                   |
 | 12:03      | F or something.                                                                                         |
 | 12:04      | You know what I hate?                                                                                   |
-| 12:05      | I hate that Apple calls it system preferences in the Mac and settings on the iPhone and                 |
+| 12:05      | I hate that [[Apple]] calls it system preferences in the Mac and settings on the iPhone and                 |
 | 12:10      | iPad.                                                                                                   |
 | 12:11      | I mean, it's like, just pick one, you know, it's like, it's the same thing and it's got                 |
 | 12:17      | two different names.                                                                                    |
@@ -482,8 +482,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 24:27      | A whole AppleScript in one line.                                                                       |
 | 24:29      | Yeah.                                                                                                   |
 | 24:30      | My favourite example of a one liner is just the say command.                                             |
-| 24:34      | If you ever just want to be a goofy person and make your computer talk, open the Apple                  |
-| 24:40      | script editor, or it's now called script editor, and just type say and then put in quotes               |
+| 24:34      | If you ever just want to be a goofy person and make your computer talk, open the [[AppleScript]] editor,                  |
+| 24:40      | or it's now called [[Script Editor]], and just type say and then put in quotes               |
 | 24:46      | whatever you want your computer to say.                                                                 |
 | 24:48      | And occasionally like my computer will have conversations with my kids as I'm sitting                   |
 | 24:52      | on the couch.                                                                                           |
@@ -570,7 +570,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 30:01      | to solve them as we sit here today.                                                                     |
 | 30:03      | One of the ones that I was bumping into was opening particular mailboxes or moving mail                 |
 | 30:11      | to particular mailboxes.                                                                                |
-| 30:12      | I mean, starting with Catalina, Apple allowed you to remove the Unified Inbox from Apple                |
+| 30:12      | I mean, starting with Catalina, [[Apple]] allowed you to remove the Unified Inbox from Apple                |
 | 30:18      | mail, and you can put multiple boxes under the Favourites tab, and they have built-in                    |
 | 30:25      | keyboard shortcuts.                                                                                     |
 | 30:26      | If you hold down, man, I've got to remember what it is.                                                 |
@@ -595,7 +595,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 31:35      | So it's number one.                                                                                     |
 | 31:36      | It allows you to address more than 10, and number two, it always works.                                 |
 | 31:41      | If you move the mailboxes in your Favourites list, it doesn't care because that's not what               |
-| 31:45      | it's doing, and that's a feature that Apple really didn't write into AppleScript, but                  |
+| 31:45      | it's doing, and that's a feature that [[Apple]] really didn't write into AppleScript, but                  |
 | 31:50      | you can add as a savvy automator.                                                                       |
 | 31:54      | Yeah, and I think a lot of people think, oh, AppleScript, it's going to be difficult                   |
 | 32:00      | and complicated and so on.                                                                              |
@@ -669,8 +669,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 35:12      | So like you can put content plus flag status.                                                           |
 | 35:16      | And [[Drafts]] started out as an iPhone and iPad app, and obviously didn't have any AppleScript            |
 | 35:22      | support when Greg brought the application to the Mac, he wrote in AppleScript support.                 |
-| 35:28      | I mean, the app has to support it, but because Greg is Greg, of course, it has great Apple              |
-| 35:34      | script support when it shows up on the Mac.                                                             |
+| 35:28      | I mean, the app has to support it, but because Greg is Greg, of course, it has great [[AppleScript]]              |
+| 35:34      | support when it shows up on the Mac.                                                             |
 | 35:37      | But that brings up the subject of dictionaries.                                                         |
 | 35:40      | Can you explain what that is?                                                                           |
 | 35:42      | Yeah.                                                                                                   |
@@ -739,7 +739,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 38:59      | I mean, it's been around forever.                                                                       |
 | 39:01      | And it is kind of the power tool for AppleScript and all the people that I bump into that               |
 | 39:08      | really write a lot of AppleScript, just get [[Script Debugger]] because the dictionaries are                |
-| 39:13      | more thorough and it just has more tools than Apple was willing to put into the free app.               |
+| 39:13      | more thorough and it just has more tools than [[Apple]] was willing to put into the free app.               |
 | 39:20      | Which app do you use, ROSE, to write your AppleScripts?                                                 |
 | 39:24      | So it varies, actually, David.                                                                          |
 | 39:25      | If I'm doing something on my work machine, then it's usually, I'm just trying to do like                |
@@ -827,7 +827,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 44:32      | that.                                                                                                   |
 | 44:33      | So this runs entirely in the background.                                                                |
 | 44:34      | And one last bit on [[Script Debugger]], they have a light mode, which in my opinion is                     |
-| 44:39      | still better than the built-in script editor that Apple gives you.                                      |
+| 44:39      | still better than the built-in script editor that [[Apple]] gives you.                                      |
 | 44:42      | So if you don't want to pay for it, even the light mode is free and they have a 20-day                  |
 | 44:47      | trial with all the features.                                                                            |
 | 44:49      | So you got no excuse if you want to try this AppleScript stuff out, go to late night software,         |
@@ -841,8 +841,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 45:25      | I'm looking at Calendar and there is an option for a new event, I think there is somewhere.             |
 | 45:32      | I'll go with get your offer now.                                                                        |
 | 45:34      | So I'm actually doing this in the dictionary right as I talk.                                           |
-| 45:37      | I can click Paste Tell at the top and it will paste this information into the Apple                     |
-| 45:45      | script and it pastes tell application calendar as well and the end tell as well.                        |
+| 45:37      | I can click Paste Tell at the top and it will paste this information into the [[AppleScript]]                     |
+| 45:45      | and it pastes tell application calendar as well and the end tell as well.                        |
 | 45:51      | So it pastes the whole thing for me so that I know that this is a complete little script.               |
 | 45:56      | It doesn't necessarily mean that that script will run exactly as it is.                                 |
 | 45:59      | You might well need to get some other information and put some other puzzle pieces together,            |
@@ -900,7 +900,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 49:01      | And I believe they can sell you can buy directly from their website too.                                |
 | 49:04      | But you know that little thing on iPhone and iPad where when you select text, it pops up                |
 | 49:10      | a little menu like you want to copy this or paste it and it's a very limited set of things              |
-| 49:16      | you can do with the text on iPhone and iPad, you know, Apple controls that.                             |
+| 49:16      | you can do with the text on iPhone and iPad, you know, [[Apple]] controls that.                             |
 | 49:22      | But this PopClip app was an effort to add that feature to the Mac.                                      |
 | 49:26      | So when you select text on your Mac, excuse me, it opens up like a little selection right               |
 | 49:35      | over the selected text where you can do things like you can copy and paste and do things                |
@@ -1252,16 +1252,16 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:10:20   | So I will be getting a new one and again, switching to a cellular one because I'm hoping                |
 | 01:10:24   | to be leaving the house on a more regular basis and maybe leaving my iPhone behind                      |
 | 01:10:28   | at times but wanting to still be able to communicate with people.                                       |
-| 01:10:32   | So yeah, Apple Watch is in my future, but not yet because Apple haven't announced the                   |
+| 01:10:32   | So yeah, Apple Watch is in my future, but not yet because [[Apple]] haven't announced the                   |
 | 01:10:37   | release date.                                                                                           |
 | 01:10:38   | You know, I really like those woven bands.                                                              |
-| 01:10:40   | That's never really come up on any podcast, but I've never bought an Apple one.                         |
+| 01:10:40   | That's never really come up on any podcast, but I've never bought an [[Apple]] one.                         |
 | 01:10:45   | I get them off [[Amazon]] and they're like $10 for one on [[Amazon]] that I don't know if they're               |
 | 01:10:51   | as good, but they seem like they're pretty good and there's a lot of colours available.                  |
 | 01:10:57   | But I really like just, you know, slipping it over my hand and not having a buckle scratch              |
 | 01:11:02   | my MacBook and it's those bands I think don't get enough credit.                                        |
 | 01:11:08   | No, I've got the Pride one as well.                                                                     |
-| 01:11:10   | That was the first one of the woven ones that I got from Apple.                                         |
+| 01:11:10   | That was the first one of the woven ones that I got from [[Apple]].                                         |
 | 01:11:13   | And what I like about it is I frequently end up checking my wrist to make sure I'm wearing              |
 | 01:11:16   | my watch because it's so comfortable and it doesn't feel like I'm wearing it.                           |
 | 01:11:20   | And that to me is a sign that I've A, got the size just right and B, it's just incredibly               |
@@ -1357,7 +1357,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:16:45   | would allow me to run a shortcut because I just have it open notability, that would                     |
 | 01:16:49   | be fine.                                                                                                |
 | 01:16:50   | But no, they can't do that yet, maybe.                                                                  |
-| 01:16:54   | Maybe next year, Apple, if you're listening, please let us turn that into an accessibility              |
+| 01:16:54   | Maybe next year, [[Apple]], if you're listening, please let us turn that into an accessibility              |
 | 01:16:58   | shortcut of some kind, and I can run a shortcut with it.                                                |
 | 01:17:02   | Just give us a little more power.                                                                       |
 | 01:17:03   | Let us have a doc grid and determine how big the note is by default.                                    |
@@ -1527,7 +1527,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:25:40   | And I think the wallet's good.                                                                          |
 | 01:25:41   | I mean, I've never, I don't worry about losing it.                                                      |
 | 01:25:45   | I got the new wallet in Dark Cherry because I've, because I do have a couple of cards                   |
-| 01:25:52   | and I didn't like the fact that there was no find my, in the other Apple wallet.                        |
+| 01:25:52   | and I didn't like the fact that there was no find my, in the other [[Apple]] wallet.                        |
 | 01:25:58   | So I did upgrade my Apple wallet.                                                                       |
 | 01:26:00   | Sounds ridiculous to have done that bonus.                                                              |
 | 01:26:03   | It's also purple now.                                                                                   |
@@ -1639,7 +1639,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:33:06   | Well, I can tell you that when I did that morning of test shooting at Disneyland, I wiped out           |
 | 01:33:11   | the battery in that thing in six hours because I was walking around with the camera running             |
 | 01:33:16   | like the whole time, but that would kill the battery in any phone, even the Pro Max.                    |
-| 01:33:23   | So it's all good, but I really think that Apple is on the right track.                                  |
+| 01:33:23   | So it's all good, but I really think that [[Apple]] is on the right track.                                  |
 | 01:33:28   | I mean, they just make good iPhones.                                                                    |
 | 01:33:30   | I mean, every year they make good iPhones.                                                              |
 | 01:33:31   | It's really not a surprise.                                                                             |
@@ -1674,7 +1674,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:35:10   | already good enough, I think, I mean, I'd be shocked if adding a gimbal and having one                  |
 | 01:35:15   | more thing to carry is worth the trouble, but who knows, we'll see.                                     |
 | 01:35:20   | All right.                                                                                              |
-| 01:35:21   | Well, either way, it sounds like we're both pretty happy, and Apple got some of our money,              |
+| 01:35:21   | Well, either way, it sounds like we're both pretty happy, and [[Apple]] got some of our money,              |
 | 01:35:26   | so they should be happy too.                                                                            |
 | 01:35:28   | Got some automation today covered, we've got some new gear.                                             |
 | 01:35:31   | Well, I sure am looking forward to M1X.                                                                 |

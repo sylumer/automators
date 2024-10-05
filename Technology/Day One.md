@@ -34,7 +34,7 @@ Day One is a personal journaling application that provides users with a simple y
 - Day One was acquired by [[Automattic]], the company behind [[WordPress]], in 2021 who have continued to let it operate as a separate business entity
 - Free tier of use offers limited functionality and a subscription model allows access to a greater range of features.
 - [[IFTTT]] is an integration available to Day One subscribers that can automatically bring in data from sources external to devices.
-- Supports automation through [[Shortcuts]] on Apple platforms.
+- Supports automation through [[Shortcuts]] on [[Apple]] platforms.
 
 # Links
 - [Official Website](https://dayoneapp.com)

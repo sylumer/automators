@@ -4,10 +4,10 @@ creator: James Thomson
 notetype: technology
 ---
 # Overview  
-PCalc is a powerful calculator app in the Apple ecosystem. It has received praise for its extensive feature set being suitable for both basic arithmetic tasks and complex scientific calculations. It offers wide array of customisation options to suit any individual's customised calculator needs.
+PCalc is a powerful calculator app in the [[Apple]] ecosystem. It has received praise for its extensive feature set being suitable for both basic arithmetic tasks and complex scientific calculations. It offers wide array of customisation options to suit any individual's customised calculator needs.
 
 # History  
-PCalc was created by [[James Thomson]], and originally released in 1992 for the Apple Macintosh. The app was designed to provide a more versatile alternative to the limited built-in calculators available at the time. Over the years, PCalc has been continuously updated to incorporate the latest technologies and user feedback, expanding its reach across various Apple platforms including iOS, macOS, iPadOS, watchOS, tvOS, and visionOS. PCalc's long-standing reputation for reliability and innovation has made it a favourite tool for professionals and enthusiasts alike.
+PCalc was created by [[James Thomson]], and originally released in 1992 for the Apple Macintosh. The app was designed to provide a more versatile alternative to the limited built-in calculators available at the time. Over the years, PCalc has been continuously updated to incorporate the latest technologies and user feedback, expanding its reach across various [[Apple]] platforms including iOS, macOS, iPadOS, watchOS, tvOS, and visionOS. PCalc's long-standing reputation for reliability and innovation has made it a favourite tool for professionals and enthusiasts alike.
 
 # Operating Systems  
 - iOS
@@ -26,7 +26,7 @@ PCalc was created by [[James Thomson]], and originally released in 1992 for the 
 - **Programmable Functions**: Users can define their own functions and constants.
 - **Multiple Undo and Redo**: Easily correct mistakes without starting over.
 - **Apple Watch Support**: A tailored version of the app designed for quick calculations on the go.
-- **iCloud Sync**: Synchronise data across all Apple devices using iCloud.
+- **iCloud Sync**: Synchronise data across all [[Apple]] devices using iCloud.
 - **VoiceOver Support**: Fully accessible with VoiceOver for visually impaired users.
 - **Data Sharing**: Export and share calculations and results via various methods.
 - **Haptic Feedback**: Enhanced user experience with tactile feedback during calculations.

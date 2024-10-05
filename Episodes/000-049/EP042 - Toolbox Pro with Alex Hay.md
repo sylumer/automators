@@ -79,7 +79,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 01:16      | And you didn't just do that.                                                                                |
 | 01:17      | I believe you were saying a while ago, it might have been on [[Twitter]], that you have officially          |
 | 01:22      | discovered that there is a limit to the number of [[Shortcuts]] actions that you can, I think               |
-| 01:27      | the technical word according to Apple is donate, which I have issues with, but that's beside                |
+| 01:27      | the technical word according to [[Apple]] is donate, which I have issues with, but that's beside                |
 | 01:31      | the point.                                                                                                  |
 | 01:32      | So you've run into that limit because you have so many actions in your app, right?                          |
 | 01:35      | Yeah, unfortunately, I have, which isn't ideal.                                                             |
@@ -100,7 +100,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 02:29      | oh, I guess no one's ever going to add more than a hundred actions to one app.                              |
 | 02:35      | So I'm not sure.                                                                                            |
 | 02:36      | But hopefully that will be fixed in the future, we'll see.                                                  |
-| 02:38      | Apple, if you're listening, add a couple of zeros after that for us.                                        |
+| 02:38      | [[Apple]], if you're listening, add a couple of zeros after that for us.                                        |
 | 02:41      | Yeah.                                                                                                       |
 | 02:42      | And it's not like 128 or 256, it's a hundred.                                                               |
 | 02:46      | So I suspect it's just the number somebody put in there.                                                    |
@@ -120,7 +120,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 03:10      | Well, I wouldn't necessarily set it as a challenge for you, but there's a lot of different actions          |
 | 03:15      | here already, which are pretty awesome.                                                                     |
 | 03:17      | So when we were at [[WWDC]] and we saw the big changes, [[Shortcuts]], and it seems to me like              |
-| 03:25      | Apple really doesn't want [[URL schemes]] to become the lingua franca of applications.                      |
+| 03:25      | [[Apple]] really doesn't want [[URL schemes]] to become the lingua franca of applications.                      |
 | 03:32      | I think that's a fair assumption.                                                                           |
 | 03:33      | I'm sure there's security issues, and it's also very user-unfriendly unless you're a                        |
 | 03:38      | nerd that listens to the Automators podcast.                                                                |
@@ -188,7 +188,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 07:22      | before iOS 13?                                                                                              |
 | 07:24      | Yeah, I think I was quite late to the automation party on iOS.                                              |
 | 07:30      | I'd sort of use...                                                                                          |
-| 07:31      | Okay, so it was Apple.                                                                                      |
+| 07:31      | Okay, so it was [[Apple]].                                                                                      |
 | 07:32      | Yeah, they certainly were.                                                                                  |
 | 07:34      | I hadn't really used workflow a huge amount.                                                                |
 | 07:39      | So when it became shortcuts, I started hearing about it a lot more and that's when I really                 |
@@ -199,7 +199,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 08:00      | Yes, and then, did you see the keynote and immediately go, I can do this with Toolbox                       |
 | 08:06      | Pro or was it an idea that sat around for a while and then percolated before you really                     |
 | 08:10      | could seize it and run with it?                                                                             |
-| 08:11      | Yeah, I mean, I think when I heard that Apple were putting it as a first party app, my mind                 |
+| 08:11      | Yeah, I mean, I think when I heard that [[Apple]] were putting it as a first party app, my mind                 |
 | 08:20      | was sort of boggling at the possibilities of what they could be adding because I think                      |
 | 08:26      | shortcuts is an incredible tool and it makes it really easy for people who don't know how                   |
 | 08:31      | to code to sort of build things that really help them with their sort of professional                       |
@@ -217,7 +217,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 09:25      | Mac if you know what you're doing amazing and that wasn't built into iOS.                                   |
 | 09:34      | So then they had this change of heart and now we're catching up and you're exactly right.                   |
 | 09:41      | Normal users can't access something like an Apple event to create their automation.                         |
-| 09:47      | So we need Apple to give us the tools through shortcuts and we need developers like you                     |
+| 09:47      | So we need [[Apple]] to give us the tools through shortcuts and we need developers like you                     |
 | 09:52      | to build the tools that aren't already there because if you don't have the tool, you're                     |
 | 09:57      | not going to magically run an [[AppleScript]] on an iPhone to create an automation.                         |
 | 10:02      | It's not possible.                                                                                          |
@@ -278,7 +278,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 13:13      | Yeah.                                                                                                       |
 | 13:14      | All right.                                                                                                  |
 | 13:15      | Anyway.                                                                                                     |
-| 13:16      | So Apple comes out with [[Shortcuts]] and they add this mechanism for developers to much                        |
+| 13:16      | So [[Apple]] comes out with [[Shortcuts]] and they add this mechanism for developers to much                        |
 | 13:26      | more easily share data between apps.                                                                        |
 | 13:29      | And I don't know if you were on the beta or you waited until the...                                         |
 | 13:32      | I know you were on the beta because I saw your app coming out in the beta, but at what                      |
@@ -299,7 +299,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 14:34      | So really, I thought, oh, you know, that's something I should be able to do.                                |
 | 14:37      | And then so after I'd seen the shortcuts, and after I'd seen [[SwiftUI]], I think I watched                     |
 | 14:42      | one of the [[WWDC]] videos where they were talking about improvements to the vision framework,                  |
-| 14:48      | and the vision framework is one of Apple's frameworks that does image recognition.                          |
+| 14:48      | and the vision framework is one of [[Apple|Apple's]] frameworks that does image recognition.                          |
 | 14:53      | So they use that for, so the example you were talking about earlier with the detecting faces,               |
 | 14:59      | that's part of the vision framework.                                                                        |
 | 15:01      | It's also the obstacle character recognition, so the [[OCR]], which pulls text out of images,                   |
@@ -324,7 +324,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 16:23      | Like I remember when [[Evernote]] first came out, that was a big selling point that you'd put                   |
 | 16:28      | your pictures up there and it would give you the text out of them.                                          |
 | 16:31      | And this is being done on your iPhone with no cloud resources through shortcuts, where                      |
-| 16:37      | you're literally building your own app using the Apple API that Alex has conveniently added                 |
+| 16:37      | you're literally building your own app using the [[Apple]] API that Alex has conveniently added                 |
 | 16:42      | to [[Shortcuts]] for us.                                                                                        |
 | 16:45      | It's really impressive what you did.                                                                        |
 | 16:48      | Cool.                                                                                                       |
@@ -361,7 +361,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 18:27      | I think everyone is so used to having quite sort of limited automation on iOS that as soon                  |
 | 18:33      | as you add just like a couple of things that you can do with sort of native apps that you                   |
 | 18:38      | couldn't do before inside shortcuts, people like react really well to it because it's                       |
-| 18:43      | like our internal programming is we only get that from Apple.                                               |
+| 18:43      | like our internal programming is we only get that from [[Apple]].                                               |
 | 18:47      | I mean, the only people who are going to add [[Apple Reminders\|Reminders]] shortcuts is the people who made                     |
 | 18:51      | it, right?                                                                                                  |
 | 18:52      | Exactly.                                                                                                    |
@@ -417,7 +417,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 22:17      | have a huge amount of content in the app.                                                                   |
 | 22:20      | Like [[Toolbox Pro]] is mostly, when you open it, it's mostly documentation about how each                  |
 | 22:26      | of the tools work and a bunch of examples about demonstrating how those tools work.                         |
-| 22:34      | So in my head, I was sort of thinking this could be something that Apple just reject                        |
+| 22:34      | So in my head, I was sort of thinking this could be something that [[Apple]] just reject                        |
 | 22:39      | outright as being not a proper app because it's a bit of a gray area with the app review                    |
 | 22:46      | team, whether it was going to get through or not.                                                           |
 | 22:49      | So as soon as it got through the test fly beta and I submit it to the [[App Store]] and it                      |
@@ -433,9 +433,9 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 23:33      | We've already talked a little bit about images, but as I understand it, all this image stuff                |
 | 23:39      | you're doing, like when you didn't mention was you can, you've got a shortcut that can                      |
 | 23:43      | pull the colours out of an image or look for an area of focus.                                              |
-| 23:46      | And as I understand that, that's all using Apple's machine learning algorithm?                              |
+| 23:46      | And as I understand that, that's all using [[Apple|Apple's]] machine learning algorithm?                              |
 | 23:50      | Yeah, yeah, it is actually.                                                                                 |
-| 23:53      | So I tried to do, yeah, I mean, there's some really powerful frameworks that Apple have                     |
+| 23:53      | So I tried to do, yeah, I mean, there's some really powerful frameworks that [[Apple]] have                     |
 | 23:59      | that use machine learning, like the [[OCR]] one is machine learning, the image recognition                      |
 | 24:05      | one that detects faces is all machine learning.                                                             |
 | 24:09      | And it's really about sort of boiling though that sort of complexity down into something                    |
@@ -523,21 +523,21 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 29:27      | I mean, one thing that's been clear to me talking to the shortcuts team is they really                      |
 | 29:32      | want shortcuts to succeed.                                                                                  |
 | 29:33      | So, you know, things like 100 donation limit and memory limitations, I'm sure there are                     |
-| 29:41      | people on Apple right now fighting for you on that kind of stuff.                                           |
+| 29:41      | people on [[Apple]] right now fighting for you on that kind of stuff.                                           |
 | 29:44      | Yeah, I hope so.                                                                                            |
 | 29:47      | I have a feeling that the the shortcuts team are they're going, hmm, so how can we get                      |
 | 29:52      | rid of these limitations and just make everything [[Shortcuts]]?                                                |
 | 29:56      | Just because they they probably like all of us secretly want to take over the world,                        |
 | 30:00      | but they're they're having fun while doing it.                                                              |
-| 30:02      | It's amazing, you know, how much the shortcuts team have done inside Apple in such a short                  |
+| 30:02      | It's amazing, you know, how much the shortcuts team have done inside [[Apple]] in such a short                  |
 | 30:07      | amount of time.                                                                                             |
 | 30:08      | Like, when you think about taking an app like an independent app like [[Workflow]] and having                   |
-| 30:12      | to integrate that within, you know, Apple's ecosystem and suddenly hooking it up to [[Siri]]                    |
+| 30:12      | to integrate that within, you know, [[Apple|Apple's]] ecosystem and suddenly hooking it up to [[Siri]]                    |
 | 30:18      | and being accessed by, you know, hundreds of millions of people, you know, that must                        |
 | 30:23      | be a huge amount of work for them.                                                                          |
 | 30:25      | So I think it's incredible what they've achieved in such a short space of time.                             |
 | 30:28      | Yeah.                                                                                                       |
-| 30:29      | And it just shows a commitment on Apple's behalf to make automation work or either that                     |
+| 30:29      | And it just shows a commitment on [[Apple|Apple's]] behalf to make automation work or either that                     |
 | 30:34      | or they've got naked pictures of somebody, but the but I just like who knew that they                       |
 | 30:39      | would redevelop the app in one year and I don't know what we're going to get in June                        |
 | 30:44      | this year, but I'm sure that, you know, shortcuts is going to to get some nice improvements.                |
@@ -565,7 +565,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 31:51      | Yeah.                                                                                                       |
 | 31:52      | I use that all the time, like, you know, to live a sort of live this sort of paperless                      |
 | 31:56      | lifestyle as it were.                                                                                       |
-| 31:58      | I do think that, you know, the scanning mechanism Apple created for for notes is superior than              |
+| 31:58      | I do think that, you know, the scanning mechanism [[Apple]] created for for notes is superior than              |
 | 32:03      | most of the third party apps and now we can have it as shortcuts users.                                     |
 | 32:07      | Rose, what's your favourite image related shortcut you've built out of the stuff that                       |
 | 32:12      | Alex has built?                                                                                             |
@@ -640,7 +640,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 36:00      | I'm going to make sure that that one's in the show notes for people because it's a pretty                   |
 | 36:02      | cool way of doing it.                                                                                       |
 | 36:03      | I think if I remember correctly, I've been struggling a little bit with my shortcut sync,                   |
-| 36:08      | but I think I got it fixed with some more help from the team over at Apple because, but                     |
+| 36:08      | but I think I got it fixed with some more help from the team over at [[Apple]] because, but                     |
 | 36:15      | if I've still got that action, if not, I have to recreate it, then you can, you share it                    |
 | 36:20      | multiple images.                                                                                            |
 | 36:21      | It calculates whether or not most of your images are landscape or portrait and then                         |
@@ -934,7 +934,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 54:49      | So it'd be great if you could explain how that works so I can steal that information                        |
 | 54:52      | and use it.                                                                                                 |
 | 54:53      | Sure.                                                                                                       |
-| 54:54      | So basically in iOS 13, Apple introduced for developers something called [[SF Symbols]].                    |
+| 54:54      | So basically in iOS 13, [[Apple]] introduced for developers something called [[SF Symbols]].                    |
 | 55:03      | And that is like a list of 2,000 symbols, I think it is something like that, that developers                |
 | 55:10      | can use within their apps.                                                                                  |
 | 55:13      | And they're great, they're resizable, you can sort of colour them, they match the text                      |
@@ -943,7 +943,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 55:24      | So you can actually use the name of an [[SF Symbols\|SF symbol]], which you can find, there's a couple                      |
 | 55:31      | of apps on iOS that let you sort of search all the symbols and find the names of them.                      |
 | 55:37      | I think 'SF Symbol Search' is one of them.                                                                    |
-| 55:40      | And there's the [[SF Symbols]] app on the Mac, which is downloaded from Apple.                                  |
+| 55:40      | And there's the [[SF Symbols]] app on the Mac, which is downloaded from [[Apple]].                                  |
 | 55:45      | But if you type the name of that into the menu item creator, you can also enter a colour                    |
 | 55:51      | for it just like a hex code.                                                                                |
 | 55:53      | And it will use those to create these sort of really attractive menu items, basically.                      |

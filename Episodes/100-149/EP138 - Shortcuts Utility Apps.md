@@ -81,7 +81,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 00:41      | had the idea of what if I just made an app that added actions even though my app doesn't             |
 | 00:46      | really do anything else and it's allowing third party developers to kind of fill in                  |
 | 00:53      | the gaps.                                                                                            |
-| 00:54      | That's the stuff that shortcuts doesn't do and it seems to me that Apple has a very                  |
+| 00:54      | That's the stuff that shortcuts doesn't do and it seems to me that [[Apple]] has a very                  |
 | 00:58      | laissez-faire attitude about it.                                                                     |
 | 01:00      | They're like letting this stuff in that's adding all sorts of features.                              |
 | 01:04      | Yeah, I mean yes and no.                                                                             |
@@ -94,7 +94,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:23      | Yeah.                                                                                                |
 | 01:24      | What's the difference?                                                                               |
 | 01:25      | At which point they decided that it was okay and that they would let him at it.                      |
-| 01:29      | But yeah, I have definitely heard plenty of stories from app developers of Apple saying              |
+| 01:29      | But yeah, I have definitely heard plenty of stories from app developers of [[Apple]] saying              |
 | 01:35      | yeah, we don't think that this app will do anything for users, what's the point of this?             |
 | 01:41      | But at the same time, you do have great things out there which do just add functionality.            |
 | 01:46      | Yeah, and it's like you do get the occasional bozo and app review but I'm talking about              |
@@ -103,7 +103,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:58      | and the [[Apple Reminders\|Reminders]] has built-in shortcuts actions but they're kind of crippled in several ways.       |
 | 02:05      | Well, maybe I'm over exaggerating.                                                                   |
 | 02:07      | They're not as good as they could be whereas [[Toolbox Pro]] has some really good ones that              |
-| 02:12      | are better and Apple doesn't seem to mind that.                                                      |
+| 02:12      | are better and [[Apple]] doesn't seem to mind that.                                                      |
 | 02:16      | If you use shortcuts and you run into barriers a lot of times, it's these third-party apps           |
 | 02:21      | that help you out and today what we thought we'd do is just kind of survey them, talk                |
 | 02:25      | about some of the high points.                                                                       |
@@ -141,7 +141,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 04:42      | Yeah, me too.                                                                                        |
 | 04:43      | I got in that beta and I'm like, yes, this is exactly what we need.                                  |
 | 04:47      | Yeah, exactly.                                                                                       |
-| 04:48      | Actually, I remember getting in the beta thinking, oh boy, I hope Apple lets this through because    |
+| 04:48      | Actually, I remember getting in the beta thinking, oh boy, I hope [[Apple]] lets this through because    |
 | 04:53      | it's too good.                                                                                       |
 | 04:54      | Well, that's just it.                                                                                |
 | 04:55      | It was just like workflow.                                                                           |
@@ -175,7 +175,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 06:53      | That said, Alex Hay was working on Toolbox Pro 2 and we are picking up where he left                 |
 | 06:57      | off.                                                                                                 |
 | 06:58      | We've also got a couple of interesting problems that we need to deal with in Toolbox Pro 1           |
-| 07:03      | because Apple did not tell us before the apps were transferred that basically the way that           |
+| 07:03      | because [[Apple]] did not tell us before the apps were transferred that basically the way that           |
 | 07:07      | all of your variables and bookmarks are stored.                                                      |
 | 07:13      | When we update the app from our developer account, all of those will be reset for people.            |
 | 07:17      | So we need to figure out a way to deal with this and hopefully try and help folks recover            |
@@ -185,12 +185,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 07:33      | have any of those issues at all and it will also be available on the Mac.                            |
 | 07:38      | And as somebody who's been beta testing it, it's good.                                               |
 | 07:41      | It's going to solve all of your problems, I think, David.                                            |
-| 07:44      | And also because Apple did a little update a little while ago, folks might remember things           |
+| 07:44      | And also because [[Apple]] did a little update a little while ago, folks might remember things           |
 | 07:49      | like things, the app things specifically, a lot of folks would end up installing the                 |
 | 07:55      | iPhone app on the iPad so that they could use the shortcuts actions and just have one                |
 | 07:59      | shortcut that ran on both the iPad and the iPhone because they had different shortcuts               |
 | 08:04      | actions.                                                                                             |
-| 08:05      | Well, Apple solved that and they had a really clever way of doing that so that you can have          |
+| 08:05      | Well, [[Apple]] solved that and they had a really clever way of doing that so that you can have          |
 | 08:09      | two apps like say OmniFocus 3 and OmniFocus 4 or things for iPad, things for iPhone and              |
 | 08:15      | they have the same shortcuts actions.                                                                |
 | 08:17      | So if you uninstall one of the apps and you install the other, the shortcuts actions will            |
@@ -223,20 +223,20 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 09:45      | it feels like the reminder team has got a lot they're doing, and the shortcuts is just               |
 | 09:50      | not getting quite as much attention as it deserves.                                                  |
 | 09:53      | Well, Alex and now Rose have this great set of [[Apple Reminders\|Reminders]] actions in Toolbox Pro that honestly        |
-| 10:02      | run circles around the ones that Apple makes.                                                        |
+| 10:02      | run circles around the ones that [[Apple]] makes.                                                        |
 | 10:04      | I mean, like one of the things I can do now is get the UUID, the unique identifier of a              |
 | 10:12      | reminder, which means that I can link it somewhere else in a different application.                  |
-| 10:17      | And like all this stuff that I just don't know that Apple will ever do, but even the                 |
-| 10:22      | create reminder tasks they have there is better than the Apple one.                                  |
+| 10:17      | And like all this stuff that I just don't know that [[Apple]] will ever do, but even the                 |
+| 10:22      | create reminder tasks they have there is better than the [[Apple]] one.                                  |
 | 10:27      | It does, you know, it gives you more options.                                                        |
-| 10:29      | Some of this stuff on the Apple thing just doesn't work where this one is fully baked.               |
+| 10:29      | Some of this stuff on the [[Apple]] thing just doesn't work where this one is fully baked.               |
 | 10:34      | And this is just one example.                                                                        |
 | 10:36      | I mean, Toolbox Pro is not just a reminder's alternative.                                            |
 | 10:41      | I mean, they've got stuff on images, dictionaries, calendar entries, contacts, you know, anything    |
 | 10:47      | you want to automate.                                                                                |
 | 10:48      | The list of actions they have for audio is really impressive.                                        |
 | 10:51      | I think it's about 15 or 20 different things you can do.                                             |
-| 10:54      | And all of these are bits that just go a little further than what Apple's given you and sometimes    |
+| 10:54      | And all of these are bits that just go a little further than what [[Apple|Apple's]] given you and sometimes    |
 | 11:00      | quite a bit further.                                                                                 |
 | 11:01      | So it is, you know, the app is appropriately named, you know, Toolbox Pro is just what               |
 | 11:07      | it sounds like.                                                                                      |
@@ -262,7 +262,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 12:05      | So yeah, being able to do things like that, and I fully believe that Alex Hay in particular          |
 | 12:10      | was one of the people that helped push the number of actions that we get in shortcuts                |
 | 12:18      | now from all of these apps because if Toolbox Pro hadn't been there with people using these          |
-| 12:23      | things, then I don't think Apple would have gone, huh, maybe we should just have shortcuts           |
+| 12:23      | things, then I don't think [[Apple]] would have gone, huh, maybe we should just have shortcuts           |
 | 12:31      | actions in everything.                                                                               |
 | 12:33      | And I wish the [[Apple Reminders\|Reminders]] team had a bit more capacity so that every time they add a new              |
 | 12:38      | feature, somebody also had a story.                                                                  |
@@ -279,11 +279,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 13:17      | a real shame.                                                                                        |
 | 13:18      | Yeah, but I remember talking to Alex about this and him telling me that he wanted to                 |
 | 13:23      | be Sherlocked.                                                                                       |
-| 13:24      | Like he's like, I celebrate when Apple Sherlocks me, meaning there's some action he developed        |
-| 13:29      | for Toolbox Pro and someone in Apple saw it and said that's a good idea and they added               |
+| 13:24      | Like he's like, I celebrate when [[Apple]] Sherlocks me, meaning there's some action he developed        |
+| 13:29      | for Toolbox Pro and someone in [[Apple]] saw it and said that's a good idea and they added               |
 | 13:33      | it to the native stuff.                                                                              |
 | 13:35      | And then he pulls it out of his app and he is constantly or was constantly finding new               |
-| 13:41      | stuff that hopefully Apple would Sherlock again in the future.                                       |
+| 13:41      | stuff that hopefully [[Apple]] would Sherlock again in the future.                                       |
 | 13:44      | I'm sure your team kind of has the same feeling about it.                                            |
 | 13:46      | Yeah, definitely.                                                                                    |
 | 13:48      | We're currently going through looking at all of the actions there, going, okay, well,                |
@@ -473,7 +473,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 26:38      | this is a tool for that.                                                                             |
 | 26:40      | When you start getting longer Shortcuts, I feel like you definitely need something like              |
 | 26:43      | this to keep things in check, because Shortcuts behaves funny sometimes when it has too much         |
-| 26:49      | to do, and Apple doesn't really give you a debugging tool to find out where the problem              |
+| 26:49      | to do, and [[Apple]] doesn't really give you a debugging tool to find out where the problem              |
 | 26:55      | is, and this solves that.                                                                            |
 | 26:56      | Yeah, exactly.                                                                                       |
 | 26:58      | Honestly, even if you do have shorter actions, say you're doing something that involves talking      |
@@ -520,12 +520,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 30:18      | you only have one Mac, and secondly, that you always want the same shortcuts actions,                |
 | 30:23      | neither of which is true in my case, so yeah, it's nice to have the option of doing this             |
 | 30:28      | in Focus Cuts where it's deliberately set up per machine.                                            |
-| 30:31      | Yeah, and I really believe that that is something Apple will never add, right?                       |
-| 30:36      | Even if you buy Focus Cuts and next year Apple adds the check on the Mac to say, well, what          |
+| 30:31      | Yeah, and I really believe that that is something [[Apple]] will never add, right?                       |
+| 30:36      | Even if you buy Focus Cuts and next year [[Apple]] adds the check on the Mac to say, well, what          |
 | 30:43      | Focus Mode am I in?                                                                                  |
 | 30:45      | They show like one piece of it, but the more advanced stuff that you get with these apps,            |
 | 30:50      | that stuff is never going away.                                                                      |
-| 30:51      | I mean, Apple's never going to make a thing where it's contextual and your menu bar gives            |
+| 30:51      | I mean, [[Apple|Apple's]] never going to make a thing where it's contextual and your menu bar gives            |
 | 30:55      | you a list of shortcuts.                                                                             |
 | 30:56      | I feel like that's just something they won't do, you know?                                           |
 | 31:00      | I mean, that's one of the reasons why we added that feature as well, because we were like,           |
@@ -541,7 +541,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 31:28      | Yeah, and honestly, I want an app that is constantly trying to bring me more shortcuts               |
 | 31:34      | power with focus modes.                                                                              |
 | 31:37      | I would hope that you guys come up with new cool things.                                             |
-| 31:41      | As Apple starts to evolve focus modes, maybe there's more stuff you can do, and so I want            |
+| 31:41      | As [[Apple]] starts to evolve focus modes, maybe there's more stuff you can do, and so I want            |
 | 31:47      | to support that, and I want it to continue.                                                          |
 | 31:49      | I have a list for you.                                                                               |
 | 31:50      | Someday we'll talk.                                                                                  |
@@ -614,7 +614,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 36:16      | But I created that using Push Cut, because I can have that update every day.                         |
 | 36:22      | And we have just added support, and this is very exciting, for multiple actions from                 |
 | 36:27      | a widget.                                                                                            |
-| 36:28      | So more widgets are still limited to one action, because that's what Apple do.                       |
+| 36:28      | So more widgets are still limited to one action, because that's what [[Apple]] do.                       |
 | 36:32      | But medium-sized widgets and large widgets now have the option of having multiple actions            |
 | 36:36      | on them, so that you can have, when I tap on this bit of a widget, run this shortcut.                |
 | 36:40      | When I tap on that bit of a widget, open OmniFocus.                                                  |
@@ -634,7 +634,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 37:38      | And I'm really looking forward to the public release of the version that supports Mac 2,             |
 | 37:44      | because I kind of want...                                                                            |
 | 37:46      | The one thing that held me back with Push Cut is it's always been iOS only, but I feel               |
-| 37:50      | like this is such a natural for the Mac, and of my Apple devices, I spend the most time              |
+| 37:50      | like this is such a natural for the Mac, and of my [[Apple]] devices, I spend the most time              |
 | 37:55      | at the Mac, so I would like to incorporate a bunch of this stuff into my Mac.                        |
 | 38:00      | So man, full steam ahead on that, Rose, and keep us posted.                                          |
 | 38:04      | As automators, listeners, we have, or I say we, Rose and her team have opened up the public          |
@@ -714,7 +714,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 42:43      | And when I want a shortcut to call that stuff, I can do that.                                        |
 | 42:48      | But if it changes, then I can just go change the global variable, and it updates automatically       |
 | 42:52      | in all my Shortcuts.                                                                                 |
-| 42:53      | It's such an easy little problem to solve that Apple, I don't think, will ever address,              |
+| 42:53      | It's such an easy little problem to solve that [[Apple]], I don't think, will ever address,              |
 | 43:01      | and [[Data Jar]], man.                                                                                    |
 | 43:03      | Go check it out.                                                                                     |
 | 43:04      | Yeah.                                                                                                |
@@ -782,7 +782,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 46:41      | It doesn't have any kind of authentication, so it's not going to like face ID you when               |
 | 46:45      | you log in and stuff.                                                                                |
 | 46:47      | That said, it's using, I believe, CloudKit.                                                          |
-| 46:50      | Certainly it's syncing your data via Apple's iCloud and stuff, so that's all linked to               |
+| 46:50      | Certainly it's syncing your data via [[Apple|Apple's]] iCloud and stuff, so that's all linked to               |
 | 46:54      | your Apple ID.                                                                                       |
 | 46:55      | It's not like somebody can just log in on the internet and find all this data.                         |
 | 46:58      | So it's not the best idea, it's not the worst idea in the world.                                     |
@@ -832,7 +832,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 49:59      | I don't even know, can we talk about [[Charty]] for a minute?                                           |
 | 50:03      | Yeah, sure.                                                                                          |
 | 50:04      | It's a quick, simple one, but you want to make charts with shortcuts.                                |
-| 50:08      | It's like, I'm just imagining a meeting at Apple, right?                                             |
+| 50:08      | It's like, I'm just imagining a meeting at [[Apple]], right?                                             |
 | 50:12      | Someone walks in a room and they're looking at all the things they need to work on, right?           |
 | 50:16      | And somebody says to Federighi, hey, I'd like to spend the next three months making a bunch          |
 | 50:22      | of cool actions in Shortcuts where people can make really impressive charts with no work.            |
@@ -950,10 +950,10 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 57:22      | it's like they pulled one off.                                                                       |
 | 57:23      | And the shortcuts actions are so powerful.                                                           |
 | 57:26      | When I did the shortcuts for Mac Field Guide, I called [[BetterTouchTool]] my secret weapon               |
-| 57:30      | because all of the actions that I wanted Apple to do that they didn't do, they added in Better       |
+| 57:30      | because all of the actions that I wanted [[Apple]] to do that they didn't do, they added in Better       |
 | 57:36      | Touch Tool.                                                                                          |
 | 57:37      | Like, you know, push a button in a menu item.                                                        |
-| 57:40      | Like, I even asked an Apple person about that when we interviewed them on Mac Power                  |
+| 57:40      | Like, I even asked an [[Apple]] person about that when we interviewed them on Mac Power                  |
 | 57:43      | Users.                                                                                               |
 | 57:44      | They said, oh, I don't think we're going to do something like that.                                  |
 | 57:46      | Well, it's in [[BetterTouchTool]] and that and many other things like it.                              |
@@ -1167,13 +1167,13 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:10:01   | Thank you to the developer whose name I've forgotten it's now blurred out.                           |
 | 01:10:06   | Unit number five, yeah, they're not using their name name, they're using their company               |
 | 01:10:12   | name, but yeah, this app is very, very useful, so I highly recommend it.                             |
-| 01:10:19   | Why do you think Apple hasn't got to this?                                                           |
+| 01:10:19   | Why do you think [[Apple]] hasn't got to this?                                                           |
 | 01:10:22   | I guess the question I should explain for people who aren't aware is, you can add personal           |
 | 01:10:27   | automations to shortcuts on your iPhone and on your iPad and do cool stuff, and they have            |
 | 01:10:33   | shortcuts on the Mac, but that button isn't there.                                                   |
 | 01:10:36   | You can't do it.                                                                                     |
 | 01:10:38   | I feel like this is one of those things where part of me thinks that it's something to do            |
-| 01:10:45   | with some Apple exec somewhere, was just like, no, that's a step too far, we're not letting          |
+| 01:10:45   | with some [[Apple]] exec somewhere, was just like, no, that's a step too far, we're not letting          |
 | 01:10:49   | these cool kids do what they want, and then response to the shortcuts team.                          |
 | 01:10:55   | Another part of me thinks that there was just an argument and they spent six months trying           |
 | 01:10:59   | to figure out what triggers they would have and ended up with none of them because they              |
@@ -1219,7 +1219,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:13:20   | Well, yeah, that's shorty, shall we have a quick chat about some other useful Mac apps               |
 | 01:13:27   | while we're here?                                                                                    |
 | 01:13:28   | Because ShareBot and MenuBot kind of have to be mentioned, right, because, like, so                |
-| 01:13:34   | Apple kind of fixes in Sonoma with ShareBot, at least where, or maybe it was even Ventura,          |
+| 01:13:34   | [[Apple]] kind of fixes in Sonoma with ShareBot, at least where, or maybe it was even Ventura,          |
 | 01:13:42   | where apps like Shortcuts are properly in your share sheet on Mac OS, but ShareBot                  |
 | 01:13:47   | got there first.                                                                                     |
 | 01:13:49   | And so it definitely deserves a mention for that.                                                    |

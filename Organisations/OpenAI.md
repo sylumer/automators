@@ -30,7 +30,7 @@ The mission of OpenAI is "*to ensure that artificial general intelligence—AI s
 - 2024 - GPT-4o released.
 
 # Notes
-- At [[WWDC]] 2024, Apple announced a non-exclusive partnership with OpenAI to bring their [[ChatGPT]] functionality into the Apple ecosystem as an extension to [[Apple Intelligence]].
+- At [[WWDC]] 2024, [[Apple]] announced a non-exclusive partnership with OpenAI to bring their [[ChatGPT]] functionality into the [[Apple]] ecosystem as an extension to [[Apple Intelligence]].
 
 # Links
 - [OpenAI Official Website](https://www.openai.com)

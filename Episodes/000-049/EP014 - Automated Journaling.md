@@ -481,7 +481,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 23:23      | This episode of The Automators is brought to you by PDF pin, the ultimate tool for editing          |
 | 23:27      | PDFs from our friends over at Smile.                                                                |
 | 23:30      | Now everybody has a need to use PDFs and you know, occasionally you need more than what             |
-| 23:36      | Apple's willing to give you and PDF pin is the application you need for that problem.               |
+| 23:36      | [[Apple\|Apple's]] willing to give you and PDF pin is the application you need for that problem.               |
 | 23:43      | With PDF pin, you can say goodbye to manual forms or remember getting out typewriters               |
 | 23:48      | to fill out forms.                                                                                  |
 | 23:49      | Maybe you're too young to have such a pain in the neck.                                             |

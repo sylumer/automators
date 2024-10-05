@@ -16,11 +16,11 @@ showpage: https://www.relay.fm/mpu
 ![[mpu.png|200x200]]
 
 # Overview
-Mac Power Users is a podcast about empowering listeners to become more efficient and productive users of their Apple devices through discussions on various software, hardware, and workflows.
+Mac Power Users is a podcast about empowering listeners to become more efficient and productive users of their [[Apple]] devices through discussions on various software, hardware, and workflows.
 
- The two hosts who are long time Apple users share their knowledge and tips on how to get the most out of Macs, iPhones, iPads, and other Apple products. They also frequently interview guests who have expertise in specific areas of Apple technology, providing listeners with further valuable insights and advice.
+ The two hosts who are long time [[Apple]] users share their knowledge and tips on how to get the most out of Macs, iPhones, iPads, and other [[Apple]] products. They also frequently interview guests who have expertise in specific areas of [[Apple]] technology, providing listeners with further valuable insights and advice.
 
-Overall, Mac Power Users, or "MPU", is a podcast designed for Apple enthusiasts who want to deepen their understanding of Apple technology and improve their efficiency and productivity in their personal and professional lives. Whether you are a seasoned Apple user looking to level up your skills or a beginner seeking guidance on how to make the most of your Apple devices, Mac Power Users offers valuable insights and practical advice to help you become a more proficient user of your Apple products.
+Overall, Mac Power Users, or "MPU", is a podcast designed for [[Apple]] enthusiasts who want to deepen their understanding of [[Apple]] technology and improve their efficiency and productivity in their personal and professional lives. Whether you are a seasoned [[Apple]] user looking to level up your skills or a beginner seeking guidance on how to make the most of your [[Apple]] devices, Mac Power Users offers valuable insights and practical advice to help you become a more proficient user of your [[Apple]] products.
 
 # Notes
 - Mac Power Users first released 5 May 2009.

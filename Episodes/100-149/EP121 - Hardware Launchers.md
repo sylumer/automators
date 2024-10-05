@@ -190,8 +190,8 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 07:54      | You touch, you touch on something else though that I want to mention, and that is your keyboard        |
 | 07:58      | itself.                                                                                                |
 | 07:59      | Like, you know, there are different keyboards out there.                                               |
-| 08:01      | Let's talk about the world of Apple keyboards before we get into some of the others.                   |
-| 08:06      | But the, you know, Apple has some great keyboards they're making these days and they've done           |
+| 08:01      | Let's talk about the world of [[Apple]] keyboards before we get into some of the others.                   |
+| 08:06      | But the, you know, [[Apple]] has some great keyboards they're making these days and they've done           |
 | 08:11      | a good job of remapping the function row to common features that you would want, you know,             |
 | 08:18      | starting and stopping music and turning up and down brightness, things like that.                      |
 | 08:22      | But you can also toggle those to be function keys if you want.                                         |
@@ -527,12 +527,12 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 28:44      | All right, let's talk about my sing track pads real quick.                                             |
 | 28:48      | I guess there's there's additional control services game we're going to get there.                     |
 | 28:52      | But let's just talk about what you already have on your desk.                                          |
-| 28:54      | And if you're using an apple magic mouse, there's actually quite a bit you can do with                 |
+| 28:54      | And if you're using an [[Apple Magic Mouse]], there's actually quite a bit you can do with                 |
 | 28:59      | it.                                                                                                    |
 | 29:00      | If you go to the mouse settings, they've got some additional settings where you can                    |
-| 29:03      | do scrolling and swiping with that surface of the apple magic mouse.                                   |
+| 29:03      | do scrolling and swiping with that surface of the [[Apple Magic Mouse]].                                   |
 | 29:08      | But this is another one where [[BetterTouchTool]] really comes to the rescue.                            |
-| 29:13      | The [[BetterTouchTool]], the tool set for the apple magic mouse is I think that's the reason             |
+| 29:13      | The [[BetterTouchTool]], the tool set for the [[Apple Magic Mouse]] is I think that's the reason             |
 | 29:19      | I think that's the original reason better touch will exist was either the mouse of the                 |
 | 29:24      | track that I'm not sure which one came first, but there are so many gestures that they add             |
 | 29:29      | like, you know, one finger tap to the left, you know, scroll up with a modifier key, you               |
@@ -723,7 +723,7 @@ After diving into software launchers in episode 120, Rosemary and David take a l
 | 40:35      | But those are two companies that make good stuff.                                                      |
 | 40:38      | The Contour design stuff is plastic, well-made plastic.                                                |
 | 40:44      | The Loop Deck stuff is the build quality is better.                                                    |
-| 40:47      | It almost feels like if Apple made something like this and it's priced appropriately, you              |
+| 40:47      | It almost feels like if [[Apple]] made something like this and it's priced appropriately, you              |
 | 40:51      | know, they're more expensive, but they're very nice.                                                   |
 | 40:55      | But it really requires that you need those types of controls and, you know, you know                   |
 | 41:01      | who you are.                                                                                           |

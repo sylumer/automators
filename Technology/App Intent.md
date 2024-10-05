@@ -4,7 +4,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-An App Intent in is a way for apps to communicate with each other and with the operating system in the Apple ecosystem. It enables apps to perform specific actions or provide particular information to users or other apps. 
+An App Intent in is a way for apps to communicate with each other and with the operating system in the [[Apple]] ecosystem. It enables apps to perform specific actions or provide particular information to users or other apps. 
 
 # How App Intents Work
 App Intents are typically predefined actions that can be understood by the system. These actions are defined by app developers u. Each intent has specific parameters that describe what it can do, what information it needs, and what it will provide in return.

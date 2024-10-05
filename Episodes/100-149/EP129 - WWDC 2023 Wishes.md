@@ -57,7 +57,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 00:33      | the world, perhaps, maybe.                                                                            |
 | 00:35      | But either way, we're publishing this shortly before [[WWDC]], so assuming that there is plenty           |
 | 00:42      | of magic running around, we may see some of these, or maybe the Shortcuts team and the                |
-| 00:48      | Automation teams at Apple are actually just very smart, and they've been listening to                 |
+| 00:48      | Automation teams at [[Apple]] are actually just very smart, and they've been listening to                 |
 | 00:53      | the things that we've mentioned offhand over the last year or so, and been forming those              |
 | 00:57      | into actual features that we'll see at [[WWDC]] in just a week or so.                                     |
 | 01:02      | Yeah, I feel like if we want to make this show more influential, we should probably                   |
@@ -186,7 +186,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 08:47      | Yeah, I mean, that really is a great point, Rose, because I feel like one of the way you              |
 | 08:53      | get users to adopt the feature is to allow them to make it more their own and colours                  |
 | 08:58      | and icons are very much a part of that.                                                               |
-| 09:01      | And Apple has this rich [[SF Symbols]] database.                                                          |
+| 09:01      | And [[Apple]] has this rich [[SF Symbols]] database.                                                          |
 | 09:04      | There are multiple focus modes I have where my icon is a compromise, right?                           |
 | 09:10      | Like the podcasting, when I'm looking at right now my menu bar, it's a set of headphones.             |
 | 09:14      | It should be the microphone, but it's not in like if I could have a microphone with                   |
@@ -196,7 +196,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 09:27      | I mean, note the stuff we've asked for so far are not complex requests, but they would                |
 | 09:34      | drastically improve our ability to use the feature.                                                   |
 | 09:37      | Now, let's move into that second piece of it, more complex stuff.                                     |
-| 09:41      | I feel like focus modes must have some sort of advocate at Apple because they did it the              |
+| 09:41      | I feel like focus modes must have some sort of advocate at [[Apple]] because they did it the              |
 | 09:47      | first year they created the feature, which was a lot of work.                                         |
 | 09:50      | And then the next year they made significant improvements to the feature.                             |
 | 09:55      | Now we can do the inverse where you can say, only show me these people or show me everybody,          |
@@ -209,7 +209,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 10:29      | set your appearance to light mode or dark mode and turn low power mode on and off.                    |
 | 10:32      | And I feel like they can definitely go further with some nice simple ones in here.                    |
 | 10:35      | Like turning on and off, announce notifications, for example, or the ability to listen for            |
-| 10:42      | the Hey Apple lady phrase.                                                                            |
+| 10:42      | the Hey [[Apple]] lady phrase.                                                                            |
 | 10:45      | And assuming, and I'm guessing if we get this one, we're not going to hear about until                |
 | 10:49      | September, assuming that the hardware switch for the silent mode becomes a button rather              |
 | 10:55      | than a switch, silent mode, turning silent mode on and off would be great.                            |
@@ -357,7 +357,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 20:16      | Agreed.                                                                                               |
 | 20:17      | I agreed with all of that, but I would say that I feel like mail is ripe.                             |
 | 20:24      | And this is a year where we're going to find out if last year was a fluke or if last year             |
-| 20:27      | was the beginning of a trend because some of the Apple productivity apps and notes and                |
+| 20:27      | was the beginning of a trend because some of the [[Apple]] productivity apps and notes and                |
 | 20:32      | [[Apple Reminders\|Reminders]] in particular got better and then kept getting better and some get like one                 |
 | 20:38      | year of support and then they kind of go back into the wilderness.                                    |
 | 20:41      | And I don't know what that will be this year, but if they were going to improve mail, they            |
@@ -368,7 +368,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 21:04      | Are you using any of your devices?                                                                    |
 | 21:06      | Yeah, I use it on all of my devices.                                                                  |
 | 21:09      | And honestly, another thing that I've just thought of that I have to say, especially                  |
-| 21:14      | because even if you've only got a week left, Apple developer, as you listen to this, I                |
+| 21:14      | because even if you've only got a week left, [[Apple]] developer, as you listen to this, I                |
 | 21:19      | think you can do it.                                                                                  |
 | 21:20      | I believe in you.                                                                                     |
 | 21:22      | There is the action for a Mail rule to run [[AppleScript]].                                              |
@@ -471,7 +471,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 27:46      | Let's dig in on that now.                                                                             |
 | 27:48      | I'll kick it off.                                                                                     |
 | 27:49      | I'll just say more triggers.                                                                          |
-| 27:51      | I feel like the Apple has made a lot of progress towards making more triggers, but there aren't       |
+| 27:51      | I feel like the [[Apple]] has made a lot of progress towards making more triggers, but there aren't       |
 | 27:57      | enough of them.                                                                                       |
 | 27:58      | I think we're at a time now where a third-party app should be allowed to give us shortcut             |
 | 28:05      | triggers.                                                                                             |
@@ -481,7 +481,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 28:19      | where we can turn off like asked before running.                                                      |
 | 28:23      | And maybe if you go into settings or system settings on Mac OS and you go look for shortcuts,         |
 | 28:31      | there are some advanced toggles that you can turn on there to allow you to do more dangerous          |
-| 28:37      | things as far as Apple is concerned.                                                                  |
+| 28:37      | things as far as [[Apple]] is concerned.                                                                  |
 | 28:40      | And I'm just looking for this because I accidentally scrolled way too far and it turns out I've       |
 | 28:45      | got a lot of apps installed on my phone, so I now can't find shortcuts.                               |
 | 28:49      | But yes, it's things like being able to delete large amounts of data and stuff like that              |
@@ -491,7 +491,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 29:08      | be okay with that, but it would be really nice if various different apps could hook                   |
 | 29:13      | in and be like, oh, hey, this thing has happened.                                                     |
 | 29:17      | Now, obviously, there are going to have to be limitations on this.                                    |
-| 29:20      | I can't imagine Apple being like, yeah, OmniFocus can run an automation every time you create         |
+| 29:20      | I can't imagine [[Apple]] being like, yeah, OmniFocus can run an automation every time you create         |
 | 29:25      | a new task.                                                                                           |
 | 29:27      | I don't think that's necessarily something that I'd want, but for example, if I run                   |
 | 29:32      | an Omni Automation script in OmniFocus and then I want that to trigger something, that                 |
@@ -509,8 +509,8 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 30:31      | I am going to do this thing of send a message, which says, hey, thanks for that.                      |
 | 30:37      | See you soon or whatever it is.                                                                       |
 | 30:40      | Depending on whatever you want to set up, that'd be really nice.                                      |
-| 30:44      | And I don't know, maybe we'd see more stuff coming out from inside of Apple as well as                |
-| 30:47      | outside of Apple.                                                                                     |
+| 30:44      | And I don't know, maybe we'd see more stuff coming out from inside of [[Apple]] as well as                |
+| 30:47      | outside of [[Apple]].                                                                                     |
 | 30:49      | I understand the security argument.                                                                   |
 | 30:51      | I know that causes some consternation, but a setting that says, hey, do you really want               |
 | 30:56      | to do this would be enough for me.                                                                    |
@@ -536,7 +536,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 32:04      | And I have a feeling that, you know, with shortcuts, we're going to reach that point                  |
 | 32:07      | at some point, possibly in the not too distant future, of there will be people who don't              |
 | 32:11      | use shortcuts because it doesn't support the things that they want and need.                          |
-| 32:16      | And Apple will look at it from one perspective and go, well, people don't really want to              |
+| 32:16      | And [[Apple]] will look at it from one perspective and go, well, people don't really want to              |
 | 32:21      | use shortcuts all that much.                                                                          |
 | 32:22      | So, you know, we're not going to give the team more space for growth.                                 |
 | 32:26      | And I really hope that that's not the case because it seems to me, you know, based on                 |
@@ -548,17 +548,17 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 32:50      | Let David and I and Matthew and all the other shortcuts nerds like [[Federico Viticci]] just go            |
 | 32:56      | nuts and see what we can do with this with a couple of great app developers.                          |
 | 33:01      | And you know, at the moment, if you want to send an emergency notification, like a critical           |
-| 33:07      | alert from an iPhone app, you have to ask Apple for a special allowance for this.                     |
+| 33:07      | alert from an iPhone app, you have to ask [[Apple]] for a special allowance for this.                     |
 | 33:14      | I could quite easily see this being a special allowance request type thing of I would like            |
 | 33:20      | to trigger shortcuts, automations and having to go through a separate review process when             |
 | 33:24      | you apply for that at the moment, just to get started.                                                |
 | 33:29      | And then later open it up to more people, but then they could start by opening up to                  |
-| 33:33      | trusted developers who've got, you know, a long time history of working with Apple or                 |
+| 33:33      | trusted developers who've got, you know, a long time history of working with [[Apple]] or                 |
 | 33:37      | working in this sort of area and then expand it from there and see what the masses come               |
 | 33:42      | up with after that.                                                                                   |
 | 33:44      | But I do think they should just let people go mad for a bit and see what happens.                     |
 | 33:49      | Because you know, they've taken features away from us before.                                         |
-| 33:51      | I don't want a seizure taken away, but if that's going to make somebody at Apple say,                 |
+| 33:51      | I don't want a seizure taken away, but if that's going to make somebody at [[Apple]] say,                 |
 | 33:56      | go on then, then, you know, I'll pretend to let you take it away later and be polite about            |
 | 34:01      | it when you do.                                                                                       |
 | 34:02      | Yeah.                                                                                                 |
@@ -734,14 +734,14 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 44:47      | And you kind of go through and you probably hit the hoop and send it flying across the                |
 | 44:49      | room a couple of times because that's what happens.                                                   |
 | 44:52      | The reality of it is, sometimes the actions in shortcuts don't work properly because they're          |
-| 44:59      | not written by Apple, they're written by a third party, and something somewhere has                   |
+| 44:59      | not written by [[Apple]], they're written by a third party, and something somewhere has                   |
 | 45:04      | gone very wrong or somebody left a show when run action on and it didn't work and that                |
 | 45:11      | should probably default to off, actually, if we're asking for shortcuts improvements,                 |
 | 45:15      | if you're using it in an automation, show when run, probably default to off, please.                  |
 | 45:19      | But yeah, there's a number of reasons why stuff could go wrong.                                       |
 | 45:24      | And I feel like adding better error reporting is one of those things and nobody wants to              |
 | 45:28      | do this because that's kind of like emitting failure.                                                 |
-| 45:31      | But a good chunk of the failure is not on the Apple or the shortcuts team.                            |
+| 45:31      | But a good chunk of the failure is not on the [[Apple]] or the shortcuts team.                            |
 | 45:35      | It's on me, the end user sitting there, tapping stuff in on my phone and not realising that           |
 | 45:39      | I haven't connected this stuff up or potentially on an app developer who's created an action          |
 | 45:46      | that they never expected to be run without show when run on and then it turns out that                |
@@ -844,7 +844,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 52:16      | Okay, we stretched a little bit with this next category because it's [[WWDC]].                            |
 | 52:22      | But why not?                                                                                          |
 | 52:23      | Right?                                                                                                |
-| 52:24      | There are already automation wishes related to the Apple ecosystem.                                   |
+| 52:24      | There are already automation wishes related to the [[Apple]] ecosystem.                                   |
 | 52:27      | We've got a couple.                                                                                   |
 | 52:28      | I mean, there's there's plenty of apps that don't have shortcut support, right?                       |
 | 52:32      | And then there are the apps that have special shortcut support.                                       |
@@ -887,7 +887,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 55:17      | a text message and be like, sorry, forgot to turn on live location sharing.                           |
 | 55:22      | And yeah, it'd be really nice if apps that supported things like sending messages and                 |
 | 55:26      | sharing live location had shortcut action support.                                                    |
-| 55:29      | And I kind of want Apple to be like, you know what?                                                   |
+| 55:29      | And I kind of want [[Apple]] to be like, you know what?                                                   |
 | 55:31      | You have to have an automation action for this now, because you can do this.                          |
 | 55:36      | And then perhaps more people would know that this stuff existed as well.                              |
 | 55:40      | It's definitely a way to solve the problem.                                                           |
@@ -910,7 +910,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 56:48      | obviously WhatsApp is very popular over here in Europe.                                               |
 | 56:51      | So yeah, but like the fact that there are two actions that don't work, which I'm pretty               |
 | 56:55      | certain that shortcuts can't get rid of, or like, you know, WhatsApp can't get rid of                 |
-| 57:00      | in shortcuts because they have to go to Apple.                                                        |
+| 57:00      | in shortcuts because they have to go to [[Apple]].                                                        |
 | 57:02      | I feel like somebody needs to go through that old list and just have a, have an audit and             |
 | 57:08      | potentially maybe just break those for, for folks, you know, I don't think there'll be                |
 | 57:13      | an easy transition method for that, but fingers crossed, you know, they can, they can tidy            |
@@ -919,16 +919,16 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 57:25      | hope somebody helps the new users.                                                                    |
 | 57:27      | All right.                                                                                            |
 | 57:29      | What about [[HomeKit]]?                                                                                   |
-| 57:30      | I mean, that's the Apple automation platform that we hear a little bit about every year.              |
+| 57:30      | I mean, that's the [[Apple]] automation platform that we hear a little bit about every year.              |
 | 57:35      | I know that in the last year, you've become a big fan of [[Home Assistant]].                              |
 | 57:40      | How much are you doing with [[HomeKit]] and what could they change to bring you back, Rose?               |
 | 57:47      | Right now, [[HomeKit]], it serves for a way to manually control devices when they need manual             |
 | 57:53      | control, which is rarely and it's pretty much it.                                                     |
-| 57:58      | So I mean, personally, I don't think that Apple are going to bring me back just because               |
+| 57:58      | So I mean, personally, I don't think that [[Apple]] are going to bring me back just because               |
 | 58:03      | the fact that I have all of the features in [[Home Assistant]] and everything set up there                |
 | 58:08      | means that I'm going to have to do a lot of work to bring things back.                                |
 | 58:13      | But specifically, like starting at the low end of the fruit hanging spectrum, I feel                  |
-| 58:20      | like there are a number of features that Apple could add to make [[HomeKit]] more appealing               |
+| 58:20      | like there are a number of features that [[Apple]] could add to make [[HomeKit]] more appealing               |
 | 58:28      | to folks.                                                                                             |
 | 58:29      | So for example, at the moment, if you create a scene, you can turn that scene off, assuming           |
 | 58:36      | that the scene turns things on, so say that scene turns on a plug.                                    |
@@ -972,10 +972,10 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:00:49   | And there are definite third party [[HomeKit]] related apps that have more power in them.                 |
 | 01:00:55   | I would like to see that find its way into the [[HomeKit]] app itself, because in my experience           |
 | 01:01:01   | almost nobody uses those third party apps except our, except our devoted fans, right?                 |
-| 01:01:05   | I feel like normal people are just going to use Apple's app.                                          |
+| 01:01:05   | I feel like normal people are just going to use [[Apple|Apple's]] app.                                          |
 | 01:01:09   | And the only way to move the ball forward is to add multiple triggers and a few conditions            |
 | 01:01:15   | and just give it another degree of complexity.                                                        |
-| 01:01:19   | I know that word complexity makes people Apple nervous, but if we want a [[HomeKit]] to                   |
+| 01:01:19   | I know that word complexity makes people [[Apple]] nervous, but if we want a [[HomeKit]] to                   |
 | 01:01:24   | really take off, I think it needs a little bit more.                                                  |
 | 01:01:28   | And then the other thing, this is not automation really, but I just need it to be more consistent.    |
 | 01:01:32   | I mean, just like in the last week, we've been having a thing with our front door forever.            |
@@ -1091,7 +1091,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:08:19   | Well, I mean, so we got a Purple iPhone Pro this year.                                                |
 | 01:08:23   | I love it.                                                                                            |
 | 01:08:24   | It's amazing.                                                                                         |
-| 01:08:25   | Apple, please, please, please, please, please make Purple part of the standard lineup for             |
+| 01:08:25   | [[Apple]], please, please, please, please, please make Purple part of the standard lineup for             |
 | 01:08:29   | Pro devices everywhere.                                                                               |
 | 01:08:31   | I'll buy a new Mac Studio.                                                                            |
 | 01:08:32   | I'll buy a new iPad Pro.                                                                              |
@@ -1124,7 +1124,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:09:54   | I don't really play many other games on it, but it is quite nice for a quick workout.                 |
 | 01:10:00   | But yeah, like I'm curious, but I feel like VR struggles really in a number of places                 |
 | 01:10:12   | A, it's expensive.                                                                                    |
-| 01:10:14   | Obviously, people buying Apple devices do tend to be on the higher side of disposable                 |
+| 01:10:14   | Obviously, people buying [[Apple]] devices do tend to be on the higher side of disposable                 |
 | 01:10:19   | income, but that doesn't mean that everybody's got that.                                              |
 | 01:10:21   | I know plenty of people who are using multiple year old iPhones.                                      |
 | 01:10:26   | And the other thing, which I think is going to be more of a problem for folks, is physical            |
@@ -1192,7 +1192,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:13:54   | I don't think we're going to hear about that until September.                                         |
 | 01:13:56   | No, I don't think so either, but at the same time, this is our wishes for the next couple             |
 | 01:14:02   | of months and we'll see what happens.                                                                 |
-| 01:14:04   | On the headset, I guess I have one more additional point to make is that I remember when Apple        |
+| 01:14:04   | On the headset, I guess I have one more additional point to make is that I remember when [[Apple]]        |
 | 01:14:09   | was working on a phone and when they were kind of a tablet.                                           |
 | 01:14:13   | And particularly with respect to the phone, we all had a preconceived notion of what a                |
 | 01:14:18   | smartphone was and what they announced was something completely different.                            |
@@ -1219,7 +1219,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:15:34   | It's just, it's got to be there.                                                                      |
 | 01:15:36   | I agree.                                                                                              |
 | 01:15:38   | In terms of software, we had a lot of fun talking about today through the show, but you know,         |
-| 01:15:43   | Apple doesn't leak very much, you know, when it comes to software, all that stuff is done             |
+| 01:15:43   | [[Apple]] doesn't leak very much, you know, when it comes to software, all that stuff is done             |
 | 01:15:46   | in Cupertino, those people know how to keep secrets.                                                  |
 | 01:15:50   | It's the manufacturing stuff that you don't, you know, the leaks on.                                  |
 | 01:15:54   | So I don't think there's a whole lot of rumors out about what's going to change with the software     |
@@ -1230,7 +1230,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:16:16   | what that means.                                                                                      |
 | 01:16:17   | Any of the rumors that have surfaced particularly stand out for you on the software side?             |
 | 01:16:23   | I don't think so, no.                                                                                 |
-| 01:16:25   | I mean, it's one of those things where, yeah, like the Apple or I think getting a little              |
+| 01:16:25   | I mean, it's one of those things where, yeah, like the [[Apple]] or I think getting a little              |
 | 01:16:30   | better about keeping, keeping the leaks in and I'm also getting a little bit better about             |
 | 01:16:34   | not reading them.                                                                                     |
 | 01:16:36   | And you know, we're, we're very close to release as, as this episode comes out.                       |

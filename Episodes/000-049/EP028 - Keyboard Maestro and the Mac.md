@@ -310,7 +310,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 13:29      | number pad there means I have to like go over the top of that every time I want to use the track pad.  |
 | 13:34      | And, you know, I don't, I don't really use a number pad as a number pad very often, maybe like         |
 | 13:40      | once a month. And so in the back of my mind, I thought, well, maybe someday when I'm filling           |
-| 13:46      | fat with cash, I'll just buy the Apple wireless keyboard without the number pad on it. But then        |
+| 13:46      | fat with cash, I'll just buy the [[Apple]] wireless keyboard without the number pad on it. But then        |
 | 13:54      | as the deeper I get into Keyboard My Stripe, I realise, oh, no, I need that number pad because         |
 | 13:58      | that's a whole additional set of shortcut keys for me, basically. Oh, yeah, exactly. So, so now        |
 | 14:05      | me and the number pad, we get along just fine. It's not going anywhere. I'm not replacing the          |
@@ -390,11 +390,11 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 20:40      | you know, whatever script you need and drop it in there and let it run it as part of your              |
 | 20:45      | [[Keyboard Maestro]] script. So suddenly things just just like expand much to even much higher altitudes.  |
 | 20:55      | Yes. And it allows you to also take scripting knowledge to say, for example, you know how to           |
-| 20:59      | do something with one document in AppleScript, but you have not yet learned how to go through         |
+| 20:59      | do something with one document in [[AppleScript]], but you have not yet learned how to go through         |
 | 21:04      | a series of documents. Well, you can cheat. You can have [[Keyboard Maestro]] go through each of the       |
-| 21:09      | documents and run your AppleScript on it, which means that you don't need to modify your script.      |
+| 21:09      | documents and run your [[AppleScript]] on it, which means that you don't need to modify your script.      |
 | 21:14      | It will just do it. It works. And this is a great way, especially if you're learning how to write      |
-| 21:19      | AppleScript or you've just learned a little bit of bash. So you want to execute yourself a shell      |
+| 21:19      | [[AppleScript]] or you've just learned a little bit of bash. So you want to execute yourself a shell      |
 | 21:23      | script or ZSH as it will be from September, then you can do that because it still works.               |
 | 21:30      | Well, I'll tell you what I really want to do is hear some of Rose's favourite keyboard                  |
 | 21:35      | maestro scripts because we haven't prepped the show to the extent that we've shared these with         |
@@ -446,7 +446,7 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 25:41      | and then it cranks out documents based on that. And because some of the transactions I do are          |
 | 25:46      | complex, sometimes it may generate one or it may generate 10 documents. But just getting that initial  |
 | 25:52      | kind of document generation done, I have tried it so many different ways, Rose. I've built it,         |
-| 25:58      | custom AppleScripts. I've done a lot of things over the years to try and make this document           |
+| 25:58      | custom [[AppleScript\|AppleScripts]]. I've done a lot of things over the years to try and make this document           |
 | 26:04      | automation easier. And for me, [[Keyboard Maestro]] is the key. It's just the best way to do it.            |
 | 26:09      | And it's very easy. The automation itself isn't that difficult. But once you figure it out,            |
 | 26:14      | you just have to go through and generate it. And it's pretty awesome.                                  |
@@ -478,8 +478,8 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 28:28      | start OmniFocus and by which time I've forgotten my task. So this solves many problems and also        |
 | 28:34      | eliminates email from people who already have enough email to deal with, I'm sure.                     |
 | 28:38      | Yeah, another problem I solved with [[Keyboard Maestro]] is just setups. And there's a lot of               |
-| 28:44      | applications that let you set up window management and window control. You can also do with Apple      |
-| 28:49      | Script, but there's just so much more power with [[Keyboard Maestro]]. Like you can say, I want this        |
+| 28:44      | applications that let you set up window management and window control. You can also do with [[AppleScript]], |
+| 28:49      | but there's just so much more power with [[Keyboard Maestro]]. Like you can say, I want this        |
 | 28:55      | specific application to be on the screen. And as I have added additional screens to my setup,          |
 | 29:00      | so I'm more than just the main screen now, it's even more important to me to be able to set            |
 | 29:05      | things up properly. And because I have two jobs, some days I'm a lawyer, some days I'm a nerd.         |
@@ -537,34 +537,34 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 34:08      | like the entry point, I mean, you can do the really fancy document machine and things like that.       |
 | 34:13      | But it's just like, what are the little friction points you have on your Mac every day, the things     |
 | 34:18      | that you do over an organ? Like for me, it was the process of opening contacts. I mean, I met          |
-| 34:23      | one of the Apple contacts people at dub dub this year. And I said, man, could you just simplify        |
+| 34:23      | one of the [[Apple]] contacts people at dub dub this year. And I said, man, could you just simplify        |
 | 34:28      | and make it easier to use a keyboard to run that up? You know, because it's just like,                 |
 | 34:32      | it's such a pain in the neck. There's so many clicks and you got to go to each field. And so           |
-| 34:37      | and CardHop solve that to a large extent, but I wanted it even more automated. So when you have         |
+| 34:37      | and [[CardHop]] solve that to a large extent, but I wanted it even more automated. So when you have         |
 | 34:42      | those friction points on your Mac, that's where [[Keyboard Maestro]] can really help you.                  |
 | 34:46      | Yes. And speaking of friction points, this one is a little more complicated than the previous          |
 | 34:52      | ones that I've shared. It's called cycle mail flags. And I should give full credit where credit        |
-| 34:58      | is due. I did not create this. A lovely person in the Keyboard Maestro forums called G click           |
+| 34:58      | is due. I did not create this. A lovely person in the [[Keyboard Maestro]] forums called G click           |
 | 35:05      | created this some time ago, and I stole it from them. So I'm sharing it with full credit.              |
-| 35:11      | And what it does, it starts by executing some AppleScript to get the flag item of the                 |
+| 35:11      | And what it does, it starts by executing some [[AppleScript]] to get the flag item of the                 |
 | 35:16      | the selected mail. And then I can just hit F12. So for me, that's actually FN plus F12.                |
 | 35:24      | And it will cycle the flag. So that means that if it's red, then it will become orange. And if         |
 | 35:29      | it's orange, it will go yellow. And if it's yellow, it will go green, green, goes to blue, blue,       |
-| 35:33      | goes to purple, then gray, and then zero flag. And now that the iOS and iPadOS 13 betas have           |
+| 35:33      | goes to purple, then grey, and then zero flag. And now that the iOS and iPadOS 13 betas have           |
 | 35:40      | got coloured flags in, I'm finding that I'm using coloured flags more. But I am too lazy to hit menu,    |
 | 35:46      | flag, and then set the right colour every time. And so I like to just cycle through and see what        |
 | 35:52      | colour takes my fancy. And I feel is appropriate because I'm still defining what the different          |
 | 35:56      | colour flags mean right now. I've got all in with coloured flags on the beta. Yeah, because I have,      |
 | 36:03      | at the same time, kind of given up on some of the more power mail stuff I do happening on iOS.         |
-| 36:11      | Because, you know, like with AppleScript on my Mac, I guess at some point, you know, I should         |
+| 36:11      | Because, you know, like with [[AppleScript]] on my Mac, I guess at some point, you know, I should         |
 | 36:15      | talk about how we automate email. We haven't done that on the show yet heavily. I don't think so.      |
 | 36:18      | But, but I've got some cool stuff I do on the Mac with, with mail. And so, and I'm at the Mac          |
 | 36:25      | every day. So there's no point in doing it, or it takes three times as long on iOS. So I just flag     |
 | 36:32      | it. And I have like, for me, blue is MacSparky, red is legal, orange is personal. So I've already     |
 | 36:38      | got the taxonomy in my head. So it's very easy now just to apply a flag on iOS. And then I archive     |
 | 36:44      | the message. And then when I sit at my Mac, I just clear through the flags. And that's been my mail    |
-| 36:52      | solution on iOS. It makes sense, though, you know, I mean, it's just, it's just because I use Apple    |
-| 37:00      | Mail, there's some features I like in it. And now I just kind of offload a few other things. I guess   |
+| 36:52      | solution on iOS. It makes sense, though, you know, I mean, it's just, it's just because I use [[Apple Mail]],    |
+| 37:00      | there's some features I like in it. And now I just kind of offload a few other things. I guess   |
 | 37:06      | something I want to figure out, you have to help me out this, this Rose, I'm sure I could do it,       |
 | 37:11      | is maybe I need to designate a flag for forwarding to my, my, my assistant. Although I guess it'd be   |
 | 37:19      | just as easy just to forward it to my assistant. But at the same time, if you're on a plane or         |

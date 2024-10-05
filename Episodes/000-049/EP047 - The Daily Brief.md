@@ -545,9 +545,9 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 43:00      | for things like the arrows of drop-downs. And the highlight colour is shown when you actually              |
 | 43:04      | highlight something. So by default, it's blue. And both of those are blue by default, but you can        |
 | 43:10      | change them. And I found a one line AppleScript that I'm going to read to people here, because          |
-| 43:14      | I think you're going to be pretty impressed at how short this AppleScript is. It's tell application     |
-| 43:20      | system events to tell Apple, sorry, tell application system events to tell appearance                    |
-| 43:26      | preferences to set highlight colour to green. That's it. That's the entire AppleScript for               |
+| 43:14      | I think you're going to be pretty impressed at how short this [[AppleScript]] is. It's `tell application`     |
+| 43:20      | `system events to tell Apple`, sorry, `tell application system events to tell appearance`                    |
+| 43:26      | `preferences to set highlight colour to green`. That's it. That's the entire [[AppleScript]] for               |
 | 43:32      | changing the highlight colour. Unfortunately, changing the accent colours David and I discovered           |
 | 43:37      | proved to be a little more complicated. Yeah, it just doesn't address itself to that. And                |
 | 43:43      | instead, what you have to do is you have to you have to address the specific system event box.           |
@@ -559,9 +559,9 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 44:19      | mouse or anything. It just shows up and then goes away. But with this script, you can address            |
 | 44:25      | lighter dark mode, you can address the highlight colour and the and also the the accent colour. So         |
 | 44:32      | you can set everything you want. Like if you want to make the accent colour orange and the                |
-| 44:36      | highlight colour red and set it to dark mode, you can do that. And it's a relatively small Apple          |
-| 44:41      | script. It's about looking at it. I think it's about 10 lines. And so we got that put together.          |
-| 44:49      | And then we put it into a [[Keyboard Maestro]] run AppleScript command. And now we can run it in            |
+| 44:36      | highlight colour red and set it to dark mode, you can do that. And it's a relatively small [[AppleScript]].          |
+| 44:41      | It's about looking at it. I think it's about 10 lines. And so we got that put together.          |
+| 44:49      | And then we put it into a [[Keyboard Maestro]] run [[AppleScript]] command. And now we can run it in            |
 | 44:55      | [[Keyboard Maestro]]. So if you want to set up a specific, you know, a specific work mode where              |
 | 45:02      | everything is orange, then you can do that. That's a very nice script. And what I like                   |
 | 45:07      | about this script is it shows you how to create dialogue boxes as well. So you can give yourself         |
@@ -575,13 +575,13 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 45:51      | of colour changing. I may even change my wallpaper, David, you know, because we've got that really        |
 | 45:55      | nice automators wallpaper for the Relay FM members. And I have that. That sounds like a                 |
 | 46:00      | rotation, but I may just start changing my wallpaper programmatically based on what I'm doing.           |
-| 46:04      | And now that I think about that, does Keyboard Master have a method to change the wallpaper              |
-| 46:10      | without running an AppleScript? I believe we're both going to be looking. It's a race,                  |
-| 46:14      | people. Are you counting the moments to see who runs it fast? I've not even got Keyboard                 |
-| 46:18      | Master's editor open yet. Oh, wait. Let's see here. I'm working on it. I'm working on it.                |
+| 46:04      | And now that I think about that, does [[Keyboard Maestro]] have a method to change the wallpaper              |
+| 46:10      | without running an [[AppleScript]]? I believe we're both going to be looking. It's a race,                  |
+| 46:14      | people. Are you counting the moments to see who runs it fast? I've not even got [[Keyboard Maestro\|Keyboard Maestro's]]                 |
+| 46:18      | editor open yet. Oh, wait. Let's see here. I'm working on it. I'm working on it.                |
 | 46:27      | Am I going to be David? I don't think so. I don't think it's there. It's not there. I can't find it.     |
-| 46:32      | I look for background and wallpaper, but you can definitely do that with AppleScript. If you can't      |
-| 46:37      | do it with AppleScript, you can do it with automator. Yeah, that's another option there. So             |
+| 46:32      | I look for background and wallpaper, but you can definitely do that with [[AppleScript]]. If you can't      |
+| 46:37      | do it with [[AppleScript]], you can do it with [[Automator]]. Yeah, that's another option there. So             |
 | 46:41      | you could build an entire context switching, which just changes the appearance of your machine.          |
 | 46:45      | You can even toggle light and dark mode, of course. Personally, I don't know about you, David,           |
 | 46:51      | but I'm liking the Mac OS Catalina option, where it will just change automatically at sunset.            |
@@ -642,7 +642,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 51:45      | use it. You've got all the colours listed in the second option as well. They've got the properties        |
 | 51:51      | listed at the top. Look in that to find out what you need to copy. There's blue, purple, pink, red,      |
 | 51:56      | orange, yellow, green, graphite. In the case of a highlight colour, there's also other.                   |
-| 52:01      | I wonder why pink dropped off of that one. I guess an API problem, maybe Apple added pink and            |
+| 52:01      | I wonder why pink dropped off of that one. I guess an API problem, maybe [[Apple]] added pink and            |
 | 52:09      | when this was written, they never added it as a parameter. Maybe. The thing is, when you compile         |
 | 52:16      | that script, that's using that little hammer icon in the script editor, then for all of the other        |
 | 52:21      | colours, it changes them from just black monoprint to blue italic. But when you do pink, it comes         |

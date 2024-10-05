@@ -203,7 +203,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 07:54      | But by filtering it down, by deleting the file at the end.                                           |
 | 07:58      | You're removing it from the pool.                                                                    |
 | 07:59      | You're taking it out of the pool and that way you've not got true random, which is just              |
-| 08:03      | like iTunes, now [[Apple Music|Apple Music's]] random is not true random.                                            |
+| 08:03      | like iTunes, now [[Apple Music\|Apple Music's]] random is not true random.                                            |
 | 08:07      | They try to make sure that you hear everything before it starts over.                                |
 | 08:11      | This will work the same way.                                                                         |
 | 08:12      | And what I would also do is before I would not make that folder, the only place I keep               |
@@ -899,9 +899,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 49:40      | And recently he calculated he has three years of labels left in the box of labels that he            |
 | 49:49      | bought over 20 years ago.                                                                            |
 | 49:51      | So if you do want a cheap option, then you can just buy a box of labels.                             |
-| 49:55      | And then I think you use this, David, there's an option to print mailing labels in Apple             |
-| 50:02      | Contacts where it will then lay them all out on a sheet and you can customise that from              |
-| 50:11      | Contacts only on the Mac.                                                                            |
+| 49:55      | And then I think you use this, David, there's an option to print mailing labels in [[Apple Contacts]]            |
+| 50:02      | where it will then lay them all out on a sheet and you can customise that from              |
+| 50:11      | [[Apple Contacts\|Contacts]] only on the Mac.                                                                            |
 | 50:13      | You can't do this from iOS, which is a bit of a shame, but it is pretty great to be                  |
 | 50:18      | able to do that.                                                                                     |
 | 50:19      | And one of the ways that I have made this much easier for myself is I've created a group             |
@@ -923,7 +923,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 51:14      | And that works, but I have come to the conclusion that Contacts really isn't made for this,          |
 | 51:20      | and I do occasionally run into problems, and there are various problems.                             |
 | 51:24      | Sometimes it just doesn't work, and I'm not really sure why.                                         |
-| 51:27      | And I don't think the Contacts app gets a ton of love and attention from Apple.                      |
+| 51:27      | And I don't think the Contacts app gets a ton of love and attention from [[Apple]].                      |
 | 51:32      | So I don't know when they're going to get around updating it.                                        |
 | 51:35      | So I just manually create these groups.                                                              |
 | 51:38      | It is not that hard.                                                                                 |
@@ -936,7 +936,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 51:58      | I like CodeHop on iOS for this because you can tap and hold on a contact and just select             |
 | 52:01      | the groups right there, which is really easy when you've added a contact or if you're thinking       |
 | 52:05      | about things to do that.                                                                             |
-| 52:08      | And I want to give full props to Apple's Contacts here because when you print labels from Contacts,  |
+| 52:08      | And I want to give full props to [[Apple Contacts\|Apple's Contacts]] here because when you print labels from Contacts,  |
 | 52:14      | you can say that you want to print, for example, the company, that's a checkbox, but the country     |
 | 52:20      | or region is an option, but underneath that you can say, except my country or region.                |
 | 52:26      | So for example, I can include the country on all of the addresses except for those people            |
@@ -954,9 +954,9 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 53:28      | you can even define a custom label size as well in mail, which is really good.                       |
 | 53:33      | And I don't know now if I'm going to use Contacts print or the Brother P-Touch software,               |
 | 53:39      | which has, of course, a mail merge option to create labels with.                                     |
-| 53:44      | Yeah, and this is all, we're sourcing this from an Apple article for this purpose, we'll             |
+| 53:44      | Yeah, and this is all, we're sourcing this from an [[Apple]] article for this purpose, we'll             |
 | 53:48      | put links in the show notes.                                                                         |
-| 53:50      | The Apple Context app formats it automatically for Avery standard, Avery's a vendor here in          |
+| 53:50      | The [[Apple Contacts]] app formats it automatically for Avery standard, Avery's a vendor here in          |
 | 53:56      | the United States that makes basically labels that you can run through a printer and then            |
 | 54:01      | unstick them.                                                                                        |
 | 54:02      | But I believe, looking at the article, it also supports A4, which is probably what you               |
@@ -984,7 +984,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 55:44      | I didn't know that.                                                                                  |
 | 55:45      | Yeah, that's weird.                                                                                  |
 | 55:46      | Yes, we buy our fuel in liters, which is just a whole other thing.                                   |
-| 55:50      | But yes, we are getting sidetracked, but yes, fortunately, Apple contacts can print on A4            |
+| 55:50      | But yes, we are getting sidetracked, but yes, fortunately, [[Apple Contacts]] can print on A4            |
 | 55:57      | or anything else, and you can define custom as well, which is quite important for those              |
 | 56:02      | people who have maybe got labels, which aren't quite the same size as something else.                |
 | 56:09      | The package that my dad has, I believe they were Avery, but that box of labels is over               |
@@ -1448,7 +1448,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:22:51   | of OmniFocus 4, and that's in [[SwiftUI]], and they've been running into issues with [[SwiftUI]],            |
 | 01:22:57   | which are things crash, and it's not because Omni Group have necessarily programmed things            |
 | 01:23:02   | wrong, it's because of [[SwiftUI]], and they've said this several times over the beta, you               |
-| 01:23:08   | know, like, there's a [[SwiftUI]] bug here, we're working on trying to get it fixed with Apple,          |
+| 01:23:08   | know, like, there's a [[SwiftUI]] bug here, we're working on trying to get it fixed with [[Apple]],          |
 | 01:23:13   | but they're having to write some things in AppKit to go around that, or UIKit, and so                |
 | 01:23:21   | on, which is just, you know, it's less than ideal, and I wonder if the Shortcuts team have           |
 | 01:23:25   | run into the same issue, or let's face it, they've got an inside line, right, to the                 |

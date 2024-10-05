@@ -5,7 +5,7 @@ notetype: technology
 ---
 
 # Overview
-Crouton is an application designed to help users keep track of their recipes on their Apple devices. It provides a platform for storing, organising, and sharing recipes, making cooking and meal planning and cooking easier.
+Crouton is an application designed to help users keep track of their recipes on their [[Apple]] devices. It provides a platform for storing, organising, and sharing recipes, making cooking and meal planning and cooking easier.
 
 # Operating Systems
 - iOS

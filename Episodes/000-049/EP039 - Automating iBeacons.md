@@ -118,7 +118,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 02:35      | So Rose and I have been burying ourselves in iBeacon apps and hardware the last two                   |
 | 02:42      | or three weeks in preparation, and today we're going to talk about automation with iBeacon.           |
 | 02:48      | Yeah.                                                                                                 |
-| 02:49      | So this is a really fun technology because it was developed by Apple, and it was announced            |
+| 02:49      | So this is a really fun technology because it was developed by [[Apple]], and it was announced            |
 | 02:52      | in 2013.                                                                                              |
 | 02:53      | So it's not something that's hot off the process.                                                     |
 | 02:56      | It's been around for a while, but it is one of those things that's more used by developers            |
@@ -211,7 +211,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 08:51      | No, they're still available as a developer package.                                                   |
 | 08:54      | I'll make sure the link is in the show notes.                                                         |
 | 08:57      | And it's advertised as a developer package, but there's nothing to say that you actually              |
-| 09:01      | need to be a developer with an Apple developer account or anything like that to use these.            |
+| 09:01      | need to be a developer with an [[Apple]] developer account or anything like that to use these.            |
 | 09:08      | They're just intending them to be sold to somebody who's going to program something                   |
 | 09:12      | with them.                                                                                            |
 | 09:13      | But if you're going to use one of the apps that we're going to talk about in today's                  |
@@ -596,7 +596,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 31:05      | And this can scan and show you a list of iBeacons around you.                                         |
 | 31:11      | And you might be surprised to find that there are already iBeacons in a lot of places.                |
 | 31:15      | A lot of home automation devices are actually iBeacons.                                               |
-| 31:19      | Apple stores are full of iBeacons.                                                                    |
+| 31:19      | [[Apple Store\|Apple stores]] are full of iBeacons.                                                                    |
 | 31:22      | And there are iBeacons in many, many places.                                                          |
 | 31:25      | So you could use these, you know, instead of attaching one to something or someone.                   |
 | 31:34      | You could just use their signal.                                                                      |
@@ -669,7 +669,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 34:42      | in general, you can pretty much just set them up and run with them and just copy the                  |
 | 34:45      | UID and go, and you don't need to tweak anything.                                                     |
 | 34:48      | The only thing that you may want to change there is the advertising frequency.                        |
-| 34:53      | Apple recommends setting this to 100 milliseconds.                                                    |
+| 34:53      | [[Apple]] recommends setting this to 100 milliseconds.                                                    |
 | 34:56      | This is going to be a little harder on the battery life than the default 300 milliseconds             |
 | 35:01      | that mine came set to, but the batteries are replaceable in the estimates.                            |
 | 35:06      | So that's going to work pretty well.                                                                  |
@@ -693,12 +693,12 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 36:10      | If you're an automator, you should definitely give it a try.                                          |
 | 36:14      | I don't think this is something that's earth-shattering.                                              |
 | 36:17      | I think it is fiddly, it's not going to work necessarily always the way you want it.                  |
-| 36:23      | Because Apple has done such a good job of increasing the other triggers and shortcuts                 |
+| 36:23      | Because [[Apple]] has done such a good job of increasing the other triggers and shortcuts                 |
 | 36:29      | and location and Wi-Fi or two that really stand out to me, but Bluetooth connection                   |
 | 36:34      | is another one.                                                                                       |
 | 36:36      | They do overlap some existing features, so it's not necessarily that something you                    |
 | 36:40      | must do, but it's definitely worth trying.                                                            |
-| 36:43      | Also, if you want to send feedback to Apple and say, hey, why don't we have iBeacons as               |
+| 36:43      | Also, if you want to send feedback to [[Apple]] and say, hey, why don't we have iBeacons as               |
 | 36:48      | triggers and shortcuts?                                                                               |
 | 36:49      | I know they read that feedback.                                                                       |
 | 36:51      | Oh, yeah.                                                                                             |

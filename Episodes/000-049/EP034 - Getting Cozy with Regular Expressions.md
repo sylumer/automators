@@ -691,7 +691,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 37:00      | to be an expert at it, you can always go back and relearn it.                                       |
 | 37:03      | I don't do it as often as Rose does, I feel like you're more fluent in it than I am.                |
 | 37:07      | Well, I am a programmer, so it comes with the territory.                                            |
-| 37:11      | So I have like a cheat sheet in my Apple Notes that I just keep dropping regular expressions        |
+| 37:11      | So I have like a cheat sheet in my [[Apple Notes]] that I just keep dropping regular expressions        |
 | 37:15      | as I use them and kind of perfect them.                                                             |
 | 37:18      | But there is a good use for them, and a problem I had, I was working on a big, a client was         |
 | 37:23      | in the middle of an acquisition, and so we were doing all these meetings, and everybody             |
@@ -709,7 +709,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 38:22      | colon and it has the word Rose after that, then I want you to take, that's the regular              |
 | 38:28      | expression, and then with Shortcuts, you can say that essentially creates an if statement,          |
 | 38:34      | you know, you say, use regular expressions, look for word distribution followed by Rose.            |
-| 38:40      | If you see that, then do the following, and then it's just mechanics in Shortcuts, but              |
+| 38:40      | If you see that, then do the following, and then it's just mechanics in [[Shortcuts]], but              |
 | 38:44      | what the mechanic is is it grabs the minutes and it adds them to an email, it prepares              |
 | 38:49      | an email to Rose with a subject line that says, here are the minutes, you know, and                 |
 | 38:53      | then it sends the email off.                                                                        |

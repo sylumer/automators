@@ -181,7 +181,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 04:09      | The text expansion is something that started showing up                                  |
 | 04:15      | inward processors years ago, but then it kind of grew                                    |
 | 04:20      | to the operating systems.                                                                |
-| 04:22      | And I want to talk about the Apple operating system                                      |
+| 04:22      | And I want to talk about the [[Apple]] operating system                                      |
 | 04:24      | implementation in general later.                                                         |
 | 04:27      | But, you know, the idea behind text expansion is real basic.                             |
 | 04:30      | It's you type one thing and then the computer is monitoring                              |
@@ -1104,7 +1104,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 45:57      | read your keyboard keystrokes                                                            |
 | 45:59      | and allows you to insert text on any application.                                        |
 | 46:02      | It's a security thing.                                                                   |
-| 46:04      | I kind of wish Apple would make some exceptions for companies                            |
+| 46:04      | I kind of wish [[Apple]] would make some exceptions for companies                            |
 | 46:07      | like Smile because they've clearly established                                           |
 | 46:10      | that they're a good player in this community,                                            |
 | 46:13      | but they don't.                                                                          |
@@ -1125,7 +1125,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 46:51      | But I have to activate that in TextExpander,                                            |
 | 46:55      | but then I can paste it into an email                                                    |
 | 46:57      | or something else very easily.                                                           |
-| 46:59      | I really wish that Apple would make it                                                   |
+| 46:59      | I really wish that [[Apple]] would make it                                                   |
 | 47:03      | when you have an attached keyboard to an iMac,                                           |
 | 47:06      | that it would allow you to use third-party keyboard tools.                               |
 | 47:10      | And TextExpander is the poster child for this.                                          |

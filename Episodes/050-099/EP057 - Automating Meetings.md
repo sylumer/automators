@@ -656,7 +656,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 47:53      | inline script inside of shortcuts. So you can stick inside of shortcuts, you'll just                      |
 | 47:56      | need to have the Scriptable app installed as well.                                                        |
 | 47:59      | Yeah, I think the other problem with Michael's question is the trigger problem, like he wants             |
-| 48:03      | to run it at 1150pm. Now, in a couple months when Apple releases iOS 14, this problem is                  |
+| 48:03      | to run it at 1150pm. Now, in a couple months when [[Apple]] releases iOS 14, this problem is                  |
 | 48:09      | solved because we have a time based trigger that doesn't require confirmation. So in a                    |
 | 48:15      | couple months, this will be really easy. Now, however, it's possible, but a little complicated.           |
 | 48:21      | How would you solve it before we have time based triggers, Rose?                                          |
@@ -892,27 +892,27 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:07:39   | mention briefly is I have talked many times on Mac power users in this show about my dislike              |
 | 01:07:45   | for the tagging system and iOS, you know, when you go to add tags to an item, it is very                  |
 | 01:07:53   | difficult because if you have more than 10, you've got to scroll through a massive list                   |
-| 01:07:57   | and hope you don't accidentally hit a tag as you're scrolling. And it's just Apple has                    |
+| 01:07:57   | and hope you don't accidentally hit a tag as you're scrolling. And it's just [[Apple]] has                    |
 | 01:08:02   | not figured out that we need a search bar when you're applying tags. I don't know. It's                   |
 | 01:08:09   | it's it's stunning to me that after like four or five releases of iOS with this problem,                  |
 | 01:08:14   | it hasn't been fixed. But there's a solution I discovered recently, I think it's been around              |
 | 01:08:19   | for almost a year. And I just didn't know about it. [[Toolbox Pro]] [[Alex Hay]], that guy man,                  |
 | 01:08:25   | we had him on the show, David. Yeah, I know. But I just didn't it didn't sink in how easy                 |
-| 01:08:30   | it is. And so toolbox pro, you can apply tags very easily. Again, like on iOS, a choose                   |
+| 01:08:30   | it is. And so [[Toolbox Pro]], you can apply tags very easily. Again, like on iOS, a choose                   |
 | 01:08:35   | from menu shortcut would be a good idea. I did a whole video on this in the paperless                     |
 | 01:08:41   | field guide that's not out yet, but it will be soon. But it's just, you know, good job.                   |
 | 01:08:46   | So if you're trying to apply tags on iOS, and you're like me and hadn't sunk through                      |
-| 01:08:51   | your thick skull yet, just get yourself toolbox pro, get the pay for the additional features.             |
+| 01:08:51   | your thick skull yet, just get yourself [[Toolbox Pro]], get the pay for the additional features.             |
 | 01:08:57   | That's one of the additional features. And you can absolutely tag with with search and                    |
-| 01:09:03   | T and speed on the iPhone and iPad. Yeah, that's I love toolbox pro. I've been doing                      |
+| 01:09:03   | T and speed on the iPhone and iPad. Yeah, that's I love [[Toolbox Pro]]. I've been doing                      |
 | 01:09:09   | some playing extra playing with it recently, because I'm doing a little screencast night                  |
 | 01:09:13   | over a screencast online, hopefully in the not too distant future. And, you know, it's                    |
 | 01:09:19   | great to see, you know, what things can be made available by a developer who just clearly                 |
-| 01:09:23   | wants shortcuts to be better. And so, I mean, if Apple tried to hire him, I wouldn't be                   |
+| 01:09:23   | wants [[Shortcuts]] to be better. And so, I mean, if [[Apple]] tried to hire him, I wouldn't be                   |
 | 01:09:28   | that upset if all of the features made it over. Maybe. Yeah, I would actually not want                    |
 | 01:09:33   | them to hire him because I feel like he's going to come up with even more that will                       |
-| 01:09:36   | take too long. Yeah, this is true. This is true. Very true. Sorry, [[Alex]], we do love you,                  |
-| 01:09:42   | but we won't let you be hired by Apple. If Alex needs good benefits and retirement                        |
+| 01:09:36   | take too long. Yeah, this is true. This is true. Very true. Sorry, [[Alex Hay\|Alex]], we do love you,                  |
+| 01:09:42   | but we won't let you be hired by [[Apple]]. If [[Alex Hay\|Alex]] needs good benefits and retirement                        |
 | 01:09:47   | and stock options, I would not begrudge him. Well, this is very true. Yeah. All right.                    |
 | 01:09:53   | Well, that was a lot of automation, Rosemary. Oh, it was, but it's great. And now we're                   |
 | 01:09:57   | going to have some fun guests on in the not too distant future. And so we're going to                     |

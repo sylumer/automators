@@ -6,7 +6,7 @@ aliases:
   - Home
 ---
 # Overview
-Apple Home is a smart home platform that allows users to control various smart home devices through their Apple devices, like iPhones, iPads, and Macs.  The platform is intended to provide a unified and secure way to manage home automation, ranging from lights and thermostats to locks and security cameras.
+Apple Home is a smart home platform that allows users to control various smart home devices through their [[Apple]] devices, like iPhones, iPads, and Macs.  The platform is intended to provide a unified and secure way to manage home automation, ranging from lights and thermostats to locks and security cameras.
 
 # Structure
 - Apple Home works by controlling compatible smart devices via a central hub, typically an [[Apple TV]] or [[HomePod]].
@@ -39,7 +39,7 @@ Examples:
 # Privacy and Security
 Apple Home is designed with a strong emphasis on user privacy and security.
 
-- [[HomeKit]] ensures that data transferred between smart home devices and Apple devices is end-to-end encrypted.
+- [[HomeKit]] ensures that data transferred between smart home devices and [[Apple]] devices is end-to-end encrypted.
 - Adding new devices requires authentication, ensuring that unauthorised devices cannot be added to the network.
 - Where possible, [[HomeKit]] processes commands on the local network, reducing dependence on the cloud and minimising the data sent out of the home network.
 

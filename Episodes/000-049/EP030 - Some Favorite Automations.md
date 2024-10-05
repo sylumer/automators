@@ -89,22 +89,22 @@ Rose and David share some of their favourite recently created automations rangin
 | 02:38      | I don't know, but I just... I'm a little nervous. I don't want to be against you, whatever.          |
 | 02:43      | I'm a lover, not a fighter. But anyway, so we're going to be up there. And we're going               |
 | 02:47      | to be up there with a friend of ours, [[Sal Soghoian]] and his lovely wife, Naomi. And who                |
-| 02:54      | is... Sal is the guy. He's the one who was at Apple for all those years behind Apple                 |
-| 02:58      | Script and Automator. And now he's outside the company doing other stuff. And we thought,            |
+| 02:54      | is... [[Sal Soghoian\|Sal]] is the guy. He's the one who was at [[Apple]] for all those years behind [AppleScript](https://AppleScript)                 |
+| 02:58      | and [Automator](https://Automator). And now he's outside the company doing other stuff. And we thought,            |
 | 03:03      | let's do something with Sal for this bonus episode. And let's do something fun. And                  |
 | 03:08      | so we decided a board game, but it had to be a board game that involved automation.                  |
-| 03:13      | So guys, we are going to play Mousetrap with [[Sal Soghoian]].                                            |
+| 03:13      | So guys, we are going to play [Mousetrap]([Mouse Trap (board game) - Wikipedia](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game))) with [[Sal Soghoian]].                                            |
 | 03:18      | Yeah. It's going to be so much fun. And just to make it even more fun, we're going to do             |
 | 03:23      | our best. No complete promises, but we're going to try to also do it as a video episode              |
 | 03:29      | so that you can watch me lose so terribly, because the only time I've ever played this               |
 | 03:35      | game, I lost really badly.                                                                           |
 | 03:37      | Well, when I was a kid, I didn't have it. A friend of mine had it, but all he would                  |
 | 03:40      | do is go in his room and set up the Mousetrap. I've never actually played the game. I have           |
-| 03:45      | no ideas what the rules are. Sal had never heard the game at all. So I don't know what's             |
+| 03:45      | no ideas what the rules are. [[Sal Soghoian\|Sal]] had never heard the game at all. So I don't know what's             |
 | 03:52      | going to happen, but it's going to be fun. So that's something to look forward to if                 |
 | 03:54      | you're a member. So make sure you don't miss out. Head to relay.fm/automators to               |
-| 04:02      | become a member of the automators. And if you'd like to learn more and support more                  |
-| 04:07      | shows, go to relay.fm slash membership. That URL one more time is relay.fm/automators.         |
+| 04:02      | become a member of the Automators. And if you'd like to learn more and support more                  |
+| 04:07      | shows, go to relay.fm/membership. That URL one more time is relay.fm/automators.         |
 | 04:17      | And thank you for your support of the automators.                                                    |
 | 04:19      | Yes. Well, we're going to have some fun, but we've had some fun recently, right?                     |
 | 04:24      | Yeah. Well, we've been automating some problems. And so we have a little bit of a grab bag           |
@@ -116,8 +116,8 @@ Rose and David share some of their favourite recently created automations rangin
 | 04:57      | to me as a person ends up going there. And I recently decided that I was going to consolidate        |
 | 05:01      | all of this and put it all in one place. But I'll have it die hard and especially typing             |
 | 05:07      | memory apparently is for me impossible to change. So I decided that I was going to change            |
-| 05:11      | my TextExpander snippets that expanded to these email addresses to one email address                |
-| 05:17      | that I'm now using. So even if I type the TextExpander snippet for the old one, I now               |
+| 05:11      | my [[TextExpander]] snippets that expanded to these email addresses to one email address                |
+| 05:17      | that I'm now using. So even if I type the [[TextExpander]] snippet for the old one, I now               |
 | 05:21      | get the new email address, which is super helpful. Because also then when I can't look               |
 | 05:26      | into a website, I realise what the problem is and I look and I change my email address               |
 | 05:30      | and I'm done.                                                                                        |

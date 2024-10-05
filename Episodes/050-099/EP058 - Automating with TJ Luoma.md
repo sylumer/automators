@@ -554,12 +554,12 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 39:52      | So even though I should probably just go plug it in during the day when my phone is not                       |
 | 39:55      | in charge, so I should do that tomorrow. But yeah, I'm going to need that place.                              |
 | 40:00      | I am writing myself another note.                                                                             |
-| 40:02      | I was spoiled by the, because for years I used just the Apple keyboard and trackpad                           |
+| 40:02      | I was spoiled by the, because for years I used just the [[Apple]] keyboard and trackpad                           |
 | 40:06      | and mouse. And then I went to the Logitech mouse, which also runs forever on a charge.                        |
 | 40:14      | But then I went to the Logitech craft keyboard and that sucker needs to get charged like                      |
 | 40:18      | once a week, you know, it's got a backlight, it's got three Bluetooth radios. And there's                     |
 | 40:24      | a whole lot of reasons I like using it. One thing I don't like about it is I have to charge                   |
-| 40:27      | it every week. But the trackpad is the only Apple device left. And you're exactly right.                      |
+| 40:27      | it every week. But the trackpad is the only [[Apple]] device left. And you're exactly right.                      |
 | 40:34      | It seems like it waits till the last minute and says, Oh, by the way, I'm about to die.                       |
 | 40:37      | Well, well, at least the trackpad, you know, you can use while it's charging, unlike that                     |
 | 40:41      | mouse.                                                                                                        |
@@ -571,7 +571,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 41:03      | What does Marco call it? I think like harpooning a turtle or something.                                       |
 | 41:06      | Whereas the Logitech mouse, which I'm using right now charges by USB C and just like the                      |
 | 41:15      | trackpad and even the keyboard, you can actually use it while it's charging because they put                  |
-| 41:19      | the charger on the front. So revolutionary idea, revolutionary idea. Maybe maybe Apple                        |
+| 41:19      | the charger on the front. So revolutionary idea, revolutionary idea. Maybe maybe [[Apple]]                        |
 | 41:27      | should talk to Logitech at some point.                                                                        |
 | 41:31      | This episode of Automators is brought to you by ExpressVPN. In the real world, if you're                      |
 | 41:35      | looking for privacy, you close the door. But online, we leave doors open everywhere we                        |

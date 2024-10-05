@@ -83,9 +83,9 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:10      | Somebody should automate something and fix that.                                                                                 |
 | 01:13      | It's really going to be hard for me because I just called you Matt again, but Matthew is one of the                              |
 | 01:19      | shortcuts of wizards of the internet. Maybe the shortcuts wizard, dare I say. Matthew worked with                                |
-| 01:27      | the workflow team back before they were acquired by Apple, and then you joined Apple when workflows                              |
+| 01:27      | the workflow team back before they were acquired by [[Apple]], and then you joined [[Apple]] when workflows                              |
 | 01:33      | were acquired. You were the one who sherpaed so many of us into getting better at automation                                     |
-| 01:41      | with all of the tools that those guys were building. You have since left Apple and you've got your own                           |
+| 01:41      | with all of the tools that those guys were building. You have since left [[Apple]] and you've got your own                           |
 | 01:47      | website at MatthewCassinelli.com. We'll put a link to the website, but there's two L's gang. Don't forget that.                  |
 | 01:54      | And you do a bunch of stuff there for shortcuts, but you also do videos. You're                                                  |
 | 01:59      | on smart tech today with Micah, and you just got a bunch of stuff going on and you're helping people                             |
@@ -97,10 +97,10 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 02:34      | Yeah, because I do think that there was this debate, are they going to make it better for the                                    |
 | 02:40      | power users or better for the normal users? I think with iOS 14, you could make the argument.                                    |
 | 02:46      | They really scratched both issues. And I think, I mean, you could also say the                                                   |
-| 02:52      | users forced it and made it better for themselves in a way that Apple probably didn't even expect,                               |
+| 02:52      | users forced it and made it better for themselves in a way that [[Apple]] probably didn't even expect,                               |
 | 02:57      | which was awesome to see with the whole TikTok home screen customisation trend that blew up                                      |
 | 03:04      | last September. Yeah, that is something that got... I'm sure the guys on the shortcut                                            |
-| 03:10      | seemed super happy when that happened, right? Because all of a sudden, Apple had a good reason                                   |
+| 03:10      | seemed super happy when that happened, right? Because all of a sudden, [[Apple]] had a good reason                                   |
 | 03:15      | to give them more resources. I mean, I would hope so. I have no idea internally or anything like                                 |
 | 03:22      | that, but it definitely... I mean, when iOS 14 came out, I think... I don't know about you,                                      |
 | 03:29      | but we had all been, at least in the power user realm or whatever, been doing home screen                                        |
@@ -114,9 +114,9 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 04:23      | people now and learned about this app, because most people didn't even know about it before.                                     |
 | 04:28      | So, I think that was a great just awareness thing that's like, this is here. I still think                                       |
 | 04:33      | probably most people aren't running fancy shortcuts every day or anything like that,                                             |
-| 04:38      | but it at least made Apple make the add to home screen thing work entirely without opening the                                   |
+| 04:38      | but it at least made [[Apple]] make the add to home screen thing work entirely without opening the                                   |
 | 04:44      | app. So, that was great. I think it was like 14.2 or something. I think it was 14.3. I mean,                                     |
-| 04:51      | the first round of the beta, it was only the Apple apps, and then they said, no, no, no, wait,                                   |
+| 04:51      | the first round of the beta, it was only the [[Apple]] apps, and then they said, no, no, no, wait,                                   |
 | 04:55      | let's just do everything. But you do have that pop up at the top every time that says shortcuts is                               |
 | 05:01      | or whatever it says. I've kind of tuned out now.                                                                                 |
 | 05:04      | Just a little checkmark. Yeah. Yeah, I have it open [[Safari]] to a new [[DuckDuckGo]] page every time,                                 |
@@ -233,7 +233,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 16:06      | ever. But like Matthew, I almost never use my voice anymore to trigger shortcuts.                                                |
 | 16:11      | Loretta I use my voice a lot to trigger home kit things. So for example, it's been cold recently,                                |
 | 16:17      | so I've been turning on the electric blanket before I go to bed and things like that. And I                                      |
-| 16:21      | absolutely love being able to talk to the magical Apple lady and the speakers to get that to happen.                             |
+| 16:21      | absolutely love being able to talk to the magical [[Apple]] lady and the speakers to get that to happen.                             |
 | 16:28      | But I would say the vast majority of shortcuts that I run are through automations through                                        |
 | 16:33      | things like a little NFC chip. I've got some sort of dime sized ones here. Dime is in the US                                     |
 | 16:39      | coin rather than chocolates. If they had NFC tags and chocolates, I would have bought them,                                      |
@@ -332,11 +332,11 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 25:10      | it's the, the people at the sharp end of the stick that are, are hitting these barriers are, I think                             |
 | 25:16      | the reason that they're making progress and, and again, they're walking that line between trying                                 |
 | 25:21      | to make it easy for people who just want to make their icons look cool and the people who actually                               |
-| 25:26      | want to turn it into a productivity tool. I think what's also, it's just sort of how Apple would                                 |
+| 25:26      | want to turn it into a productivity tool. I think what's also, it's just sort of how [[Apple]] would                                 |
 | 25:33      | operate if they were going to be doing this. It is a feat. It's a fundamental change to the system.                              |
 | 25:38      | And so it'll just take, they only do that once a year pretty much. And so I think that's,                                        |
 | 25:44      | I mean, that is like low key. One of the reasons I didn't totally want to work there is the release                              |
-| 25:50      | cycle of Apple is pretty slow compared to the ability to use shortcuts and share them with people                                |
+| 25:50      | cycle of [[Apple]] is pretty slow compared to the ability to use shortcuts and share them with people                                |
 | 25:56      | is so much quicker. And so that's what I've been, I love doing for people online. And I think                                    |
 | 26:02      | what I'm excited about with my new system is I think, I think my major paradox of choice over                                    |
 | 26:09      | the last few years with having so many shortcuts and not, I should, I really should have done the                                |
@@ -377,7 +377,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 29:35      | out. Our thanks to the Intrazone by Microsoft SharePoint for their support of the automators                                     |
 | 29:40      | and all of Relay FM. Speaking of how people can use this all a daily basis, recently in the 14.5                                 |
 | 29:48      | beta, so this isn't out yet as we record though knowing our luck in the couple of days between                                   |
-| 29:52      | recording and release, Apple will go, and here it is because it's got emoji and everything in it.                                |
+| 29:52      | recording and release, [[Apple]] will go, and here it is because it's got emoji and everything in it.                                |
 | 29:57      | There's a couple of new actions in shortcuts. Specifically, take screenshot, orientation                                         |
 | 30:02      | lock and data mode. So I immediately added two shortcuts triggered by automations with the                                       |
 | 30:09      | YouTube app. Opening the YouTube app and closing the YouTube app. Opening it turns off orientation                               |
@@ -394,22 +394,22 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 31:15      | so how am I going to use that and I think orientation lock totally makes sense and I think                                       |
 | 31:21      | that's an interesting I went I did think about this topic that I'm curious if you agree that                                     |
 | 31:27      | some I saw somebody on Twitter saying I want this as a function in settings that I can just set by                               |
-| 31:33      | app and I'm curious if this is either now what Apple is just going to give people to so that they                                |
+| 31:33      | app and I'm curious if this is either now what [[Apple]] is just going to give people to so that they                                |
 | 31:39      | can do it but not make it into a feature and or it's going to be this is how they test whether                                   |
 | 31:46      | or not they should do that and if everybody loves this they might add it like or because I pretty                                |
 | 31:52      | sure that the community responses to automations is what's made things like time automations                                     |
 | 31:58      | actually move forward which has been great like I feel like people we want this so badly and                                     |
-| 32:04      | I love when Apple like listens and gives us those features and so I hope that stuff like this                                    |
+| 32:04      | I love when [[Apple]] like listens and gives us those features and so I hope that stuff like this                                    |
 | 32:10      | I mean I don't know what do you think like it could be either I mean it seems like that's a                                      |
 | 32:15      | poor way to gauge it because like you could make a shortcut now saying when I launched the Kindle                                |
 | 32:22      | app lock orientation because I like to read embed on my side you know and that that is a                                         |
 | 32:30      | automation you pull but we make a podcast called the automators and used to work on the automation                               |
-| 32:36      | team at Apple and there's some people out there that will figure that out but there's a lot more                                 |
+| 32:36      | team at [[Apple]] and there's some people out there that will figure that out but there's a lot more                                 |
 | 32:41      | people that read the Kindle embed at night on their side who don't have any idea the shortcuts                                   |
 | 32:46      | exist or if they do they think it's a way to make cool icons in their home screen I just don't think                             |
 | 32:51      | it's a good way to measure I mean it's a good way to measure among super nerds but yeah you know                                 |
 | 32:56      | I'm not sure it really gives them the data they need if that's what they're doing that's fair                                    |
-| 33:00      | though I do think Apple is making progress with some of these things so for example in in the                                    |
+| 33:00      | though I do think [[Apple]] is making progress with some of these things so for example in in the                                    |
 | 33:05      | health app with the with the new sleep feature the sleep tracking they've got shortcuts where it                                 |
 | 33:10      | just suggests shortcuts that it will add to your home screen and then when you're in sleep mode then                             |
 | 33:15      | there's a shortcuts button if you've got shortcuts which shows up now a lot of people don't know                                 |
@@ -425,12 +425,12 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 34:06      | wi-fi networks because I'm not going anywhere um you know we're we're still anticipating the end                                 |
 | 34:12      | of the world here in the UK apparently things will change I do wish this is one of those times                                   |
 | 34:19      | where I wish I could ask the team because they were so so like deep in iOS before they worked at                                 |
-| 34:24      | Apple that they were the kind of people that would know it but I do wonder if even putting it into                               |
+| 34:24      | [[Apple]] that they were the kind of people that would know it but I do wonder if even putting it into                               |
 | 34:30      | shortcuts on on a low level gives iOS a route in terms of like APIs and connecting into those                                    |
 | 34:39      | realms with orientation lock that then could later be added as a feature because that's part of                                  |
 | 34:45      | just the technical level is there's got to be code somewhere to do this stuff and so once it's in                                |
 | 34:50      | shortcuts it can extend out and especially as uh shortcuts API is getting better and better I think                              |
-| 34:56      | need to Apple should set examples for app developers for years have been able to control                                         |
+| 34:56      | need to [[Apple]] should set examples for app developers for years have been able to control                                         |
 | 35:01      | orientation in their phones so for example if you turn your phone upside down so the camera is at                                |
 | 35:05      | the bottom or the notch um or whatever then then most apps will not orientate themselves to that                                 |
 | 35:11      | orientation there are very few apps that will uh and your phone will not face id unlock in that                                  |
@@ -441,9 +441,9 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 35:41      | that want to have app specific orientation you know and the more they keep doing that the better                                 |
 | 35:48      | it is for us those of us that are that have figured it out or want to figure it out and um and I hope                            |
 | 35:55      | people are using those features because I think you know to argue against myself I think it does                                 |
-| 36:01      | show Apple that people want to make stuff like this happen if you'll give us the tools yeah                                      |
+| 36:01      | show [[Apple]] that people want to make stuff like this happen if you'll give us the tools yeah                                      |
 | 36:07      | especially I mean I think that's why shows like this are also good ways to for us to share that                                  |
-| 36:13      | with people and it's even like I don't know ultimately Apple needs to like talk more about                                       |
+| 36:13      | with people and it's even like I don't know ultimately [[Apple]] needs to like talk more about                                       |
 | 36:20      | shortcuts I think do people and show them that these kind of things are possible um I do think                                   |
 | 36:26      | even specifically with the automations I still feel like they're not very approachable because                                   |
 | 36:33      | of the notifications in the way that they just say like here it's running an automation for                                      |
@@ -698,7 +698,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:01:42   | with unique identifiers that just look weird having the shortcut itself abstract that or even                                    |
 | 01:01:51   | I always imagine like the variables and shortcuts being some sort of link outside of the                                         |
 | 01:01:57   | shortcuts app like you could link two different documents in other apps using an inline shortcut                                 |
-| 01:02:04   | module or something like that in any app. Maybe I should have told that to Apple when I work there.                              |
+| 01:02:04   | module or something like that in any app. Maybe I should have told that to [[Apple]] when I work there.                              |
 | 01:02:09   | I never mentioned that. Honestly, it might have been too late because I feel like that's                                         |
 | 01:02:14   | something they needed to address when they first started building iOS like the Macintosh has this                                |
 | 01:02:21   | whole system for Apple events built in that makes everything addressable and I've been on this                                   |
@@ -712,7 +712,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:03:18   | like possible technically and so I think that's what's so cool. I think it will I will say that                                  |
 | 01:03:23   | would be complicated and sounds sometimes I can now like be like that's a cool idea that would                                   |
 | 01:03:30   | probably take them three years and like of just like how much time it takes to make it right or                                  |
-| 01:03:35   | to make it Apple level quality or yeah if there was a bug suddenly it's pushed to the next year                                  |
+| 01:03:35   | to make it [[Apple]] level quality or yeah if there was a bug suddenly it's pushed to the next year                                  |
 | 01:03:41   | and so like I think some of that stuff I would love like maybe I should file feedback please add                                 |
 | 01:03:47   | deep linking via shortcuts like and that even the interface of it is an important thing that                                     |
 | 01:03:53   | something that people are expected or like used to so maybe a shortcut's become more common that                                 |
@@ -720,7 +720,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:04:04   | another year you know that's like a way I mean just the part about it not being a link and still                                 |
 | 01:04:10   | being secure like even shortcuts itself is a technical route that these apps can do that now                                     |
 | 01:04:16   | and so turning it into an interface is like the technical part is maybe already there and                                        |
-| 01:04:21   | then would just take time or Apple thinking it's what they need to do and or like I mean if we                                   |
+| 01:04:21   | then would just take time or [[Apple]] thinking it's what they need to do and or like I mean if we                                   |
 | 01:04:30   | ever get shortcuts for Mac and that sort of linking system came from the Mac or was built                                        |
 | 01:04:36   | and inspired by that and deep linked across the entire ecosystem like holy cow that sounds awesome                               |
 | 01:04:41   | oh my gosh my heart's racing you gotta stop talking like that                                                                    |
@@ -815,7 +815,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:13:28   | the largest on the Mac there's no part of DEVONthink that can't be automated and you can                                      |
 | 01:13:33   | accept and DEVONthink's functionality with your own commands by adding them to its scripts menu                                |
 | 01:13:38   | even templates can have scripts inside and you can set up new documents with data from                                           |
-| 01:13:42   | placeholders or even inserted by your own apple script code and of course there's so much more                                   |
+| 01:13:42   | placeholders or even inserted by your own [[AppleScript]] code and of course there's so much more                                   |
 | 01:13:47   | including a great iOS companion app which was just updated to version 3.0 there's also email                                     |
 | 01:13:53   | archiving scanning and there's even an embedded web server for sharing your data securely with                                   |
 | 01:13:58   | your entire team for me I love the fact that I have multiple databases and they are everywhere                                   |
@@ -844,7 +844,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:16:18   | functions that are available in shortcuts for people to use because I think one of the things                                    |
 | 01:16:22   | that happens with shortcuts is people don't go through every action and so you think that                                        |
 | 01:16:28   | shortcuts should be able to do more than it can because it like in theory when you conceptualise                                 |
-| 01:16:34   | it it should be able to touch every part of the system and it's honestly a little weird that apple                               |
+| 01:16:34   | it it should be able to touch every part of the system and it's honestly a little weird that [[Apple]]                               |
 | 01:16:39   | hasn't added more functionality in there for certain stuff but it's still just a way to see on a high                            |
 | 01:16:46   | level here are the um main categories there's also inside each action group there's headers                                      |
 | 01:16:54   | for the different groups and so just by pulling those out and saying here's what's available                                     |
@@ -1004,7 +1004,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:31:56   | the the the address lists that I built for my driving destinations so I opened [[Data Jar]] if I                                     |
 | 01:32:02   | haven't opened it that day and then it shows me a notification so I can just easily tap on it while                              |
 | 01:32:07   | I'm you know putting my seatbelt on to jump back to shortcuts and then continue the shortcut um but                              |
-| 01:32:12   | it's yeah it's a little bit of a hack I think the biggest thing that apple could do to make                                      |
+| 01:32:12   | it's yeah it's a little bit of a hack I think the biggest thing that [[Apple]] could do to make                                      |
 | 01:32:20   | shortcuts successful is shortcuts for Mac because ultimately I think especially with like people                                 |
 | 01:32:27   | getting excited about the m1 max and just the shared I mean I don't know I'm not technical                                       |
 | 01:32:33   | enough to call it a shared architecture but just conceptually like being more similar                                            |

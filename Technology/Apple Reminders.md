@@ -26,7 +26,7 @@ Apple Reminders is a task management application designed to help users keep tra
 - [[iCloud]] Sync
 
 # Notes
-- Apple Reminders is a free application bundled with the operating system on Apple Devices.
+- Apple Reminders is a free application bundled with the operating system on [[Apple]] Devices.
 - [[Shortcuts]] includes support for Reminders.
 
 # Links

@@ -111,7 +111,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 02:35      | And, you know, like, whereas if you spend a time learning [[AppleScript]],                                  |
 | 02:38      | it's only one platform.                                                                                  |
 | 02:39      | Yeah, that's another accident in history.                                                                |
-| 02:41      | Like, so Apple didn't want to allow programming languages,                                               |
+| 02:41      | Like, so [[Apple]] didn't want to allow programming languages,                                               |
 | 02:45      | basically, to run on, you know, on the phone or on iOS or on anything like that.                         |
 | 02:50      | They didn't want to give you basically an ID                                                             |
 | 02:51      | where you can write your own software                                                                    |
@@ -133,8 +133,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 03:32      | and it's because it's the thing that works on the phone and the iPad.                                    |
 | 03:36      | So we should have asked Sal to go in about this,                                                         |
 | 03:38      | but I don't even, is it possible?                                                                        |
-| 03:40      | Because I don't think iOS supports Apple live-ins at this point.                                         |
-| 03:43      | Are we past the point that Apple live-in support could be added?                                         |
+| 03:40      | Because I don't think iOS supports [[Apple]] live-ins at this point.                                         |
+| 03:43      | Are we past the point that [[Apple]] live-in support could be added?                                         |
 | 03:47      | I don't know.                                                                                            |
 | 03:47      | You're never past the point, but I'm going to say I don't see that happening.                            |
 | 03:51      | Yeah.                                                                                                    |
@@ -387,7 +387,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 16:27      | With TextExpander, you can store your frequently used phrases into snippets                            |
 | 16:31      | and they'll expand with a short abbreviation as you type.                                                |
 | 16:34      | TextExpander works in all your apps so you can use it everywhere.                                      |
-| 16:38      | It works with Apple's pages, Microsoft Word and Excel, Adobe Illustrator and InDesign.                   |
+| 16:38      | It works with [[Apple|Apple's]] pages, Microsoft Word and Excel, Adobe Illustrator and InDesign.                   |
 | 16:43      | No matter where you can type words, TextExpander can do the job.                                       |
 | 16:46      | And the shiny new TextExpander 6.5 is out now.                                                         |
 | 16:50      | It has a new visual editor for snippets, which gives you visual access to fill-ins,                      |
@@ -500,7 +500,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 23:10      | Not only do they not have source code to the frameworks, but they can't even modify the                  |
 | 23:16      | call private functions that they're not supposed to call, even though they know they're there            |
 | 23:18      | because they can run class stop or whatever.                                                             |
-| 23:20      | So that's a nice benefit of being a web developer instead of a developer for an Apple platform.          |
+| 23:20      | So that's a nice benefit of being a web developer instead of a developer for an [[Apple]] platform.          |
 | 23:26      | Yes, agreed.                                                                                             |
 | 23:27      | I also do web development and I may or may not have modified several very popular libraries              |
 | 23:33      | available in PHP to do exactly what I want to do because that's what you can do and that's               |
@@ -531,8 +531,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 25:26      | to see how it looks, I want to see how it looks on the web, I want to make sure it's                     |
 | 25:30      | correct for the CMS, how is it going to look in context on Ars Technica, what is the Kindle              |
 | 25:34      | Book going to look like and what is the iBook going to look like, right?                                 |
-| 25:37      | That's a lot of steps and because you're on the Mac, you could say like, I could Apple                   |
-| 25:41      | Script this, right?                                                                                      |
+| 25:37      | That's a lot of steps and because you're on the Mac, you could say like, I could [[AppleScript]]                   |
+| 25:41      | this, right?                                                                                      |
 | 25:42      | Or I can use Automated to try to put this stuff together but inevitably you run up against               |
 | 25:45      | something weird like, oh well, to make a Kindle Book, there's no thing with an [[AppleScript]]able          |
 | 25:51      | Dictionary that does that.                                                                               |
@@ -583,8 +583,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 28:44      | You could have done it a different way, but given my skill set, that's the way I decided                 |
 | 28:47      | to do it.                                                                                                |
 | 28:48      | Put that flexibility on the Mac is really nice because another way you could do that                     |
-| 28:51      | is you could write it from AppleScript or you could use AppleScript to trigger Java                    |
-| 28:55      | scripts.                                                                                                 |
+| 28:51      | is you could write it from AppleScript or you could use AppleScript to trigger [[JavaScript]].                    |
 | 28:56      | I mean, it's just like, there's so many different ways to skin that cat on the Mac and that's            |
 | 29:01      | something I didn't really appreciate till I was listening to you talk about it because                   |
 | 29:05      | I never really thought about Perl as like a basis for a scripting language, but it sounds                |
@@ -821,7 +820,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 41:33      | at it just because I'm curious.                                                                          |
 | 41:35      | Like, how did they do this thing that seems almost impossible or what's the state of the                 |
 | 41:39      | art in shortcuts?                                                                                        |
-| 41:40      | Or, you know, and occasionally I'll find some utility like we were fighting over Apple's                 |
+| 41:40      | Or, you know, and occasionally I'll find some utility like we were fighting over [[Apple|Apple's]]                 |
 | 41:45      | contacts with some vaguely written rules that said if the image is too big, it won't                     |
 | 41:49      | sync them or something.                                                                                  |
 | 41:51      | And so a bunch of people wrote shortcuts that will find all the images that are over that                |
@@ -1096,15 +1095,15 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 58:02      | don't honour, don't honour my, my inputs, they don't, they don't take my work seriously.                   |
 | 58:06      | I moved that window there for a reason, it wasn't frivolous.                                             |
 | 58:09      | So John, as someone who started a website called hypercritical, if Tim Cook called you                   |
-| 58:14      | and said, Hey, John, we want you to become the overlord of automation at Apple, you know,                |
+| 58:14      | and said, Hey, John, we want you to become the overlord of automation at [[Apple]], you know,                |
 | 58:21      | what were some, what would be some steps you'd take to make it better for people?                        |
 | 58:25      | Kind of touched on this before, and I feel like what's, what's lacking, and maybe Sal                    |
 | 58:30      | would agree is a proper modern successor to AppleScript and Apple events.                               |
 | 58:37      | Because shortcuts are great and everything, but on the Mac, all we've got is AppleScript                |
 | 58:42      | and Apple events, and on iOS, we have none of those things, but we have a bunch of other                 |
 | 58:47      | technologies.                                                                                            |
-| 58:48      | Both of those things need to be changed on the Mac, I feel like Apple events and Apple                   |
-| 58:50      | script are old languages that are not suited to the modern world, so they need to be updated             |
+| 58:48      | Both of those things need to be changed on the Mac, I feel like Apple events and [[AppleScript]]                   |
+| 58:50      | are old languages that are not suited to the modern world, so they need to be updated             |
 | 58:55      | and revamped.                                                                                            |
 | 58:56      | And on iOS, we don't have any equivalent of AppleScript and AppleScript dictionaries                   |
 | 58:59      | for automation where, like we said before, you have a general purpose system of for people               |
@@ -1124,13 +1123,13 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 59:47      | So that's why people like Omni and I was there, maybe [[Rogue Amoeba]], no, [[Flying Meat Software\|Flying Meat]], maybe Gus               |
 | 59:53      | Mueller.                                                                                                 |
 | 59:54      | Anyway, a bunch of good Mac applications have taken it upon themselves to make their own                 |
-| 59:59      | system for doing automation because Apple hasn't provided a modern system level and that's               |
+| 59:59      | system for doing automation because [[Apple]] hasn't provided a modern system level and that's               |
 | 01:00:05   | on the Mac where at least you have options.                                                              |
-| 01:00:07   | On iOS, there's nothing because Apple has to officially support it because it's the only                 |
+| 01:00:07   | On iOS, there's nothing because [[Apple]] has to officially support it because it's the only                 |
 | 01:00:10   | way anything will work.                                                                                  |
 | 01:00:11   | I mean, you've got shortcuts, but there's no next level to that.                                         |
 | 01:00:14   | There's no, and it would be easier.                                                                      |
-| 01:00:16   | Like instead of doing, you know, every time Apple comes out with new one of these APIs,                  |
+| 01:00:16   | Like instead of doing, you know, every time [[Apple]] comes out with new one of these APIs,                  |
 | 01:00:20   | I had these hooks so you can support share sheets so you can support shortcuts and Siri                  |
 | 01:00:25   | shortcuts and that's all well and good.                                                                  |
 | 01:00:28   | But if you could just say all iOS applications like Mac applications in the past should be               |
@@ -1138,7 +1137,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 01:00:39   | like the sort of accessibility stuff that's built into the frameworks, automation should                 |
 | 01:00:42   | also be built into the frameworks in a modern way, in a deep way, and yes, it would have                 |
 | 01:00:46   | to be in a secure way.                                                                                   |
-| 01:00:47   | So I'm not saying this is an easy problem, but that's what I think Apple needs on all                    |
+| 01:00:47   | So I'm not saying this is an easy problem, but that's what I think [[Apple]] needs on all                    |
 | 01:00:52   | of its platforms, a modern successor to AppleScript and Apple events.                                   |
 | 01:00:57   | Across both platforms.                                                                                   |
 | 01:00:58   | Right.                                                                                                   |

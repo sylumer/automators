@@ -897,7 +897,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:12:38   | that had four by four because I would use that in a whole lot more places. Yeah, so                  |
 | 01:12:42   | yeah. And also, this is an obvious one that would benefit from an interactive widget. It             |
 | 01:12:47   | would be cool if you could have a display draft and have it interact. And that's just                |
-| 01:12:51   | something Apple hasn't got to yet. I would be surprised if we don't get that at [[WWDC]]                 |
+| 01:12:51   | something [[Apple]] hasn't got to yet. I would be surprised if we don't get that at [[WWDC]]                 |
 | 01:12:56   | this year. I think everybody knows. Oh, that's a feature. Yeah. Yeah, even even for their            |
 | 01:13:01   | own apps, reminders, you can't check those off anymore. That's something that I just                 |
 | 01:13:06   | can't believe they ship that without thinking of the usability of it. And people I'm sure            |
@@ -1124,13 +1124,13 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:31:32   | know, no offense to David Smith or anything. It's just like, I don't want to see the word            |
 | 01:31:35   | widget Smith on my home screen five times. I just want to see nothing. I just want the               |
 | 01:31:40   | picture that I have behind it. And so this is an app that allows that. I just didn't                 |
-| 01:31:44   | think that Apple was originally going to approve it. So hopefully they're not going to take          |
-| 01:31:48   | that away. You know, Apple is Apple. So sometimes they do that. But hopefully, hopefully it's        |
+| 01:31:44   | think that [[Apple]] was originally going to approve it. So hopefully they're not going to take          |
+| 01:31:48   | that away. You know, [[Apple]] is [[Apple]]. So sometimes they do that. But hopefully, hopefully it's        |
 | 01:31:55   | something that stays, but I've been using it that way for a while.                                   |
 | 01:31:57   | Well, gang, if you're interested, you should probably download it soon.                              |
 | 01:32:01   | Yeah. Yeah. Yeah, definitely. Well, those things to grab while it's there. Because,                  |
 | 01:32:07   | you know, even if you think right now that you don't want it, then, you know, if you                 |
-| 01:32:10   | do in six weeks, and it turns out it's temporarily not there for whatever reason, we know Apple      |
+| 01:32:10   | do in six weeks, and it turns out it's temporarily not there for whatever reason, we know [[Apple]]      |
 | 01:32:15   | do these things from time to time, then, yeah, then you can get it back.                             |
 | 01:32:20   | So the only thing that makes me kind of, I guess, think that they're going to allow it               |
 | 01:32:26   | is that other apps have popped up that offer the same functionality. And so those are all            |

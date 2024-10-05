@@ -5,7 +5,7 @@ notetype: "technology"
 aliases: ["Mail"]
 ---
 # Overview  
-Mail is the default email application on Apple platforms.
+Mail is the default email application on [[Apple]] platforms.
 
 # Operating Systems  
 - macOS
@@ -24,7 +24,7 @@ Mail is the default email application on Apple platforms.
 - Offline access
 
 # Notes  
-- Mail is a free application on Apple platforms
+- Mail is a free application on [[Apple]] platforms
 - Supports automation integration with [[AppleScript]] and [[Shortcuts]]
 - Users can create custom mail rules and filters for incoming emails
 

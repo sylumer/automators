@@ -68,8 +68,8 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 00:17      | Hello. Thank you for having me.                                                                                                                                                    |
 | 00:19      | Matthew was one of the guys over on the [[Workflow]] team. That's when I first met you. You were                                                                                   |
 | 00:24      | working for a [[Workflow]]. In fact, I've got some stickers that you gave me that are on                                                                                           |
-| 00:28      | my luggage. When Apple bought [[Workflow]], Matthew went into Apple with the rest of the team.                                                                                     |
-| 00:34      | Now he's left Apple, and he's out, but he knows a ton about iOS automation. So we're                                                                                               |
+| 00:28      | my luggage. When [[Apple]] bought [[Workflow]], Matthew went into [[Apple]] with the rest of the team.                                                                                     |
+| 00:34      | Now he's left [[Apple]], and he's out, but he knows a ton about iOS automation. So we're                                                                                               |
 | 00:40      | going to get some knowledge from Matthew today. Currently, he writes for several websites,                                                                                         |
 | 00:49      | [The Sweet Setup](https://thesweetsetup.com), [TechCrunch](https://techcrunch.com). He's got his own blog over at [matthewcassinelli.com](https://matthewcassinelli.com). And best |
 | 00:55      | of all, he's got a new podcast with our pal [[Alex Cox]] at [supercomputer.fm](https://supercomputer.fm), where they talk                                                          |
@@ -130,7 +130,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 05:08      | So, so Matt, how did you just briefly, I mean, why is this iOS automation stuff so important                                                                                       |
 | 05:15      | to you?                                                                                                                                                                            |
 | 05:16      | So, I mean, some of my history from it was this is a little sappy story, but David, you                                                                                            |
-| 05:22      | were probably one of the people that got me interested in the Apple community. So I talked                                                                                         |
+| 05:22      | were probably one of the people that got me interested in the [[Apple]] community. So I talked                                                                                         |
 | 05:27      | about this on my podcast, but when I first moved to the Bay Area, I would be commuting                                                                                             |
 | 05:32      | on the train and have no service. And I realised I needed something to listen to. And so I                                                                                         |
 | 05:37      | found something that was called podcasts and a little show called [[Mac Power Users]] and downloaded                                                                                   |
@@ -852,7 +852,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:13:28   | the [[Shortcuts]] file there is the [[XML]] inside. So that's the alternative to [[JSON]] I was talking                                                                                        |
 | 01:13:33   | about earlier. And it is possible to go through and decode it. It's not the most fun thing to                                                                                      |
 | 01:13:39   | go through and decode speaking from experience. So I would highly recommend sticking with the                                                                                      |
-| 01:13:43   | lovely user interface provided for us by Apple. Yeah, it's like getting a little intense there.                                                                                    |
+| 01:13:43   | lovely user interface provided for us by [[Apple]]. Yeah, it's like getting a little intense there.                                                                                    |
 | 01:13:51   | Yeah, well, they either way, I mean, it is a little bit of a chewing gum thing, but it works.                                                                                      |
 | 01:13:56   | You've done some date math to get the UTC to, to Pacific time. And obviously, if you're doing                                                                                      |
 | 01:14:05   | this on the East Coast or some other country, you'd have to change those numbers, but you can                                                                                      |

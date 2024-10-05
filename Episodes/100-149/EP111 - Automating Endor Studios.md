@@ -132,7 +132,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 03:20      | good.                                                                                                     |
 | 03:21      | I was doing some pixel peeping this morning on some of the 2X photos and they look very                   |
 | 03:26      | good.                                                                                                     |
-| 03:27      | And granted, I know Apple does a ton of post-production on those pixels, but they look better than        |
+| 03:27      | And granted, I know [[Apple]] does a ton of post-production on those pixels, but they look better than        |
 | 03:33      | I expected on the 2X.                                                                                     |
 | 03:34      | And then I also am really curious for you as a software developer, what is your feeling                   |
 | 03:39      | on the Dynamic Island and how does it look to you and all that?                                           |
@@ -154,7 +154,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 04:48      | there will be enough users for [[Instagram]] on the iPad and it's like, yes, because he prevent               |
 | 04:53      | them from using [[Instagram]] on the iPad, that's why.                                                        |
 | 04:56      | But you know, so I'm really glad that it ties in and I feel like this, this really is, you                |
-| 05:02      | know, Apple saying like, hey, cool new feature, there's already rumors it's going to be across            |
+| 05:02      | know, [[Apple]] saying like, hey, cool new feature, there's already rumors it's going to be across            |
 | 05:06      | the iOS 15 lineup, of course.                                                                             |
 | 05:10      | And you know, and also we're trying to make it easy on those awesome developers that,                     |
 | 05:15      | you know, we keep talking about how great our app store is, we're trying to make it                       |
@@ -197,9 +197,9 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 07:24      | They are making a feature of it.                                                                          |
 | 07:26      | So, you know, I don't know if we're getting a better camera, but there's two sensors up                   |
 | 07:29      | there.                                                                                                    |
-| 07:30      | You know, it's entirely possible that Apple are taking advantage of the fact that they've                 |
+| 07:30      | You know, it's entirely possible that [[Apple]] are taking advantage of the fact that they've                 |
 | 07:36      | put some software around that bit of hardware to give us something even more awesome.                     |
-| 07:41      | So and I wouldn't put that past Apple.                                                                    |
+| 07:41      | So and I wouldn't put that past [[Apple]].                                                                    |
 | 07:44      | They've always been sometimes slow to implement a feature, right?                                         |
 | 07:48      | But then they say, yeah, but we did it better.                                                            |
 | 07:51      | And you know, sometimes they're wrong, but sometimes they're right.                                       |
@@ -230,7 +230,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 09:23      | Yeah, I agree.                                                                                            |
 | 09:24      | While we're on this topic before we move on, we started talking about the fact that shortcuts             |
 | 09:29      | isn't really there.                                                                                       |
-| 09:30      | I'm going to put you in charge of Apple and the shortcuts scene.                                          |
+| 09:30      | I'm going to put you in charge of [[Apple]] and the shortcuts scene.                                          |
 | 09:34      | How would you like to see shortcuts arrive in the dynamic island?                                         |
 | 09:38      | Well, it's one of those things where on the one hand, do shortcuts belong in the dynamic                  |
 | 09:43      | island?                                                                                                   |
@@ -251,7 +251,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 10:52      | When you go into the app switcher and it suggests apps for you based on handoff and things that           |
 | 10:58      | you often use at this time of day and so on, it would be really nice.                                     |
 | 11:01      | Maybe if the dynamic island could integrate with this too.                                                |
-| 11:04      | It sure would and I do think that Apple is watching that every time they do something                     |
+| 11:04      | It sure would and I do think that [[Apple]] is watching that every time they do something                     |
 | 11:10      | like this, sometimes it will get completely ignored, remember the touch bar and then sometimes            |
 | 11:18      | they'll build on it like focus modes last year, they really built on a lot and I think                    |
 | 11:24      | dynamic island is interesting enough that this one merits further work and making it                      |
@@ -410,7 +410,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 20:45      | shares all of my sensors and things back to home assistant at home kit.                                   |
 | 20:49      | If I actually want them in home kit because I've discovered I'd actually, like for example,               |
 | 20:54      | the power plug that monitors my washing machine and tumble dryer, I do not want those in home             |
-| 20:59      | kit because otherwise if I say, hey, Apple lady, turn everything off.                                     |
+| 20:59      | kit because otherwise if I say, hey, [[Apple]] lady, turn everything off.                                     |
 | 21:02      | Yeah.                                                                                                     |
 | 21:03      | Yeah, it doesn't matter if my washing machine's in mid-cycle, she's going to turn it off,                 |
 | 21:07      | which is very much not my desire.                                                                         |
@@ -1389,7 +1389,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:03   | But if you use, say, controller for [[HomeKit]] or Home Plus, then you get more options when                  |
 | 01:22:08   | you run an automation.                                                                                    |
 | 01:22:09   | Yeah.                                                                                                     |
-| 01:22:10   | You know, you can improve it, but Apple's still limiting you.                                             |
+| 01:22:10   | You know, you can improve it, but [[Apple\|Apple's]] still limiting you.                                             |
 | 01:22:13   | And I'm not suggesting this is an artificial limitation.                                                  |
 | 01:22:16   | It's set up because, quite frankly, this is what a lot of people want or need.                            |
 | 01:22:21   | But for those of us who want or need to be able to do more, [[Home Assistant]] is an open                     |
@@ -1410,7 +1410,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:23:52   | you go and look at a case for a phone, if you're looking for a case for, say, I don't                     |
 | 01:23:57   | know, a Samsung phone, it's probably, say, 20 bucks.                                                      |
 | 01:24:00   | And if you look at the same case for an iPhone, it's 25.                                                  |
-| 01:24:03   | You've got the Apple tax, right?                                                                          |
+| 01:24:03   | You've got the [[Apple]] tax, right?                                                                          |
 | 01:24:05   | And some of this is warranted, some of it's not warranted, but if you look for a [[HomeKit]]                  |
 | 01:24:08   | compatible device, you will always be looking at a more expensive option pretty much, like,               |
 | 01:24:14   | it's really going to be cheaper than the non-[[HomeKit]] one.                                                 |

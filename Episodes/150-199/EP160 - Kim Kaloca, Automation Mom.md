@@ -826,7 +826,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 31:12      | instead of just being it on the automation.                                    |
 | 31:16      | And so I was thinking that for next year,                                      |
 | 31:18      | we could have it say, and I borrow this from you,                              |
-| 31:20      | hey, Apple lady, Merry Christmas.                                              |
+| 31:20      | hey, [[Apple]] lady, Merry Christmas.                                              |
 | 31:23      | And that way the [[HomePod]] can turn on the Christmas tree                    |
 | 31:25      | or the outside lights or anything like that.                                   |
 | 31:27      | So that's one idea I have for a little bit of magic                            |

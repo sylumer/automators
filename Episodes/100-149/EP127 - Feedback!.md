@@ -171,7 +171,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 07:38      | However, I know personally, if I see the same reminder every single day, I'll basically become         |
 | 07:44      | immune to it, especially when a chunk of the time there isn't necessarily anything there.              |
 | 07:50      | And I mean, one of the things I've done, which I'm just going to sort of share with everyone           |
-| 07:55      | because I think it's quite useful, is I will say, you know, hey, Apple lady, add this to               |
+| 07:55      | because I think it's quite useful, is I will say, you know, hey, [[Apple]] lady, add this to               |
 | 08:00      | the shopping list or the grocery list.                                                                 |
 | 08:04      | And then things will add and add it to those lists.                                                    |
 | 08:07      | And what then happens is I have a shortcut run periodically that just pulls those things               |
@@ -285,7 +285,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 14:53      | And then you can insert that in the text for that email that gets sent out via the shortcut.           |
 | 14:58      | And then you can also create the event on the calendar for the preparation event as well               |
 | 15:03      | as the sales presentation.                                                                             |
-| 15:06      | And you could create a note in an Apple shared note folder, or you could create, like in               |
+| 15:06      | And you could create a note in an [[Apple]] shared note folder, or you could create, like in               |
 | 15:12      | my case, I do it with Kraft.                                                                           |
 | 15:14      | My team uses the Kraft application.                                                                    |
 | 15:16      | We create a new page in Kraft for every new project and everybody can see it and it can                |
@@ -511,7 +511,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 29:31      | If it is a Bluetooth shortcuts automation trigger, there is no way to turn off Ask Before              |
 | 29:38      | Running.                                                                                               |
 | 29:39      | This is a security thing.                                                                              |
-| 29:40      | Apple have decided that you can't do that.                                                             |
+| 29:40      | [[Apple]] have decided that you can't do that.                                                             |
 | 29:43      | Or you didn't notice that there is an Ask Before Running trigger that you can turn off.                |
 | 29:48      | Guessing based on the John's asking this question is John's looked for this and hasn't found               |
 | 29:52      | it.                                                                                                    |
@@ -538,14 +538,14 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 31:23      | I mean, it's just like, I don't want notifications for my shortcuts.                                   |
 | 31:26      | I made the shortcut, it's fine.                                                                        |
 | 31:28      | But I do understand why they exist.                                                                    |
-| 31:30      | Apple is worried about security, like the Bluetooth example is a good one.                             |
+| 31:30      | [[Apple]] is worried about security, like the Bluetooth example is a good one.                             |
 | 31:35      | If your phone connects to some random Bluetooth and stuff starts automatically happening on            |
 | 31:40      | your phone, that could be bad, right?                                                                  |
 | 31:43      | I think shortcuts is pretty safe, I mean, but yeah, there's no limit on what ill will                  |
 | 31:50      | people could do if they were able to hijack you through shortcuts and a Bluetooth connection.          |
-| 31:55      | But that's the thinking at Apple.                                                                      |
+| 31:55      | But that's the thinking at [[Apple]].                                                                      |
 | 31:58      | If you go back in time, Chase, I'm sorry, if you go back in time, John, you'll see that                |
-| 32:05      | Apple didn't let you turn it off on hardly anything at the beginning.                                  |
+| 32:05      | [[Apple]] didn't let you turn it off on hardly anything at the beginning.                                  |
 | 32:09      | And over the years, they've kind of softened on it.                                                    |
 | 32:11      | And hopefully every year, it gets a little easier.                                                     |
 | 32:14      | But sometimes if you don't have the switch to turn it off, there's no way to stop it.                  |
@@ -794,12 +794,12 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 47:54      | And then you would follow up to figure out if your intern knew what the heck he or she                 |
 | 47:58      | was talking about.                                                                                     |
 | 48:00      | And that's kind of the way you've got to approach this stuff.                                          |
-| 48:02      | But I do think, getting back to Chase, this is a good resource if you're learning Apple                |
-| 48:08      | Script and you can't figure out how to do something, you can't find it on the internet.                |
+| 48:02      | But I do think, getting back to Chase, this is a good resource if you're learning [[AppleScript]]       |
+| 48:08      | and you can't figure out how to do something, you can't find it on the Internet.                |
 | 48:12      | You know, go ahead and ask the question, see what it comes up with.                                    |
 | 48:14      | It's getting better.                                                                                   |
 | 48:16      | [[AppleScript]] to me, I think, is the hardest one for [[ChatGPT]] to get right.                             |
-| 48:20      | Like I had it do some JavaScript for me and everything was super clean.                                |
+| 48:20      | Like I had it do some [[JavaScript]] for me and everything was super clean.                                |
 | 48:24      | I have it too.                                                                                         |
 | 48:25      | [[AppleScript]] and sometimes it falls flat on its face.                                                  |
 | 48:27      | So just be wary.                                                                                       |

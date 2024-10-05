@@ -277,7 +277,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 08:58      | but sometimes they get complicated too.                           |
 | 09:00      | But a lot of automators like do a level of program.               |
 | 09:04      | It's not the same thing that you'll do                            |
-| 09:06      | when you're working at Apple or making an app,                    |
+| 09:06      | when you're working at [[Apple]] or making an app,                    |
 | 09:09      | but it is a level of programming.                                 |
 | 09:11      | And it takes that kind of mindset,                                |
 | 09:13      | the logical progression,                                          |
@@ -442,7 +442,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 16:50      | it was my first Mac that I owned                                  |
 | 16:52      | and could use for myself, my family was not a Mac family.         |
 | 16:55      | So I brought my family kicking and screaming                      |
-| 16:58      | into the Apple ecosystem, but I got my first Mac                  |
+| 16:58      | into the [[Apple]] ecosystem, but I got my first Mac                  |
 | 17:02      | and I thought this has graphics                                   |
 | 17:03      | and I need to learn how to program it.                            |
 | 17:06      | And so I got this great app on the Mac at that time.              |
@@ -465,7 +465,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 17:55      | Like I said, I didn't learn to program until kind of late         |
 | 17:59      | for a programmer's son,                                           |
 | 18:01      | but by within a few years,                                        |
-| 18:04      | I was working at my first job at Apple                            |
+| 18:04      | I was working at my first job at [[Apple]]                            |
 | 18:07      | as a quality engineer, a tester                                   |
 | 18:11      | and managed to just get into the right doors                      |
 | 18:15      | to end up programming for the System 7 team.                      |
@@ -521,9 +521,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 20:37      | And I'll tell you what,                                           |
 | 20:38      | this is perfect for the automators show                           |
 | 20:40      | because my dad at some point grudgingly,                          |
-| 20:44      | I think what happened is after I was working at Apple             |
+| 20:44      | I think what happened is after I was working at [[Apple]]             |
 | 20:46      | for a while, he was sort of proud enough of me working            |
-| 20:49      | at Apple that he thought maybe he should get a Mac                |
+| 20:49      | at [[Apple]] that he thought maybe he should get a Mac                |
 | 20:51      | just like be play for the home team.                              |
 | 20:54      | And they got a Mac and being a programmer that he is,             |
 | 20:58      | he started getting, he bought like an [[AppleScript]] book.          |
@@ -535,7 +535,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 21:21      | but it's a real programming language.                             |
 | 21:24      | And I was like, yes, you get it.                                  |
 | 21:26      | Like this is, and that was a great testament to him               |
-| 21:31      | sort of finding a route to respecting Apple and the Mac           |
+| 21:31      | sort of finding a route to respecting [[Apple]] and the Mac           |
 | 21:36      | was through AppleScript of all things.                           |
 | 21:39      | And I didn't know how, at that time,                              |
 | 21:40      | I didn't know how to use AppleScript at all,                     |
@@ -597,7 +597,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 24:26      | I mean, so long as you're staying on the Mac,                     |
 | 24:28      | once you get on the mobile,                                       |
 | 24:29      | you're not gonna get anything with AppleScript.                   |
-| 24:32      | But I stand by the belief that Apple is not going                 |
+| 24:32      | But I stand by the belief that [[Apple]] is not going                 |
 | 24:35      | to remove AppleScript from the Mac.                               |
 | 24:37      | I don't need, I think it would require effort                     |
 | 24:40      | on their behalf to do so.                                         |
@@ -614,7 +614,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 25:15      | is that it naturally stops being used                             |
 | 25:18      | and people move on to other things.                               |
 | 25:21      | Maybe that will be shortcuts to a large extent                    |
-| 25:23      | if Apple continues to invest in shortcuts.                        |
+| 25:23      | if [[Apple]] continues to invest in shortcuts.                        |
 | 25:26      | Maybe it'll be JavaScript-based automations.                      |
 | 25:29      | But I agree, the thing is some of the best things                 |
 | 25:36      | about AppleScript actually are the ways                           |
@@ -1088,7 +1088,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 45:43      | And you know, where do you think this is going right now?         |
 | 45:46      | Yeah, I mean, it's funny, if I dig into my archives,              |
 | 45:49      | I have some old blog post probably from 10 plus years ago,        |
-| 45:54      | strongly urging Apple to switch to JavaScript                     |
+| 45:54      | strongly urging [[Apple]] to switch to JavaScript                     |
 | 45:57      | for automation on the Mac.                                        |
 | 45:59      | And it wasn't in the context, if I recall correctly,              |
 | 46:01      | it wasn't in the context of like what they ended up doing,        |
@@ -1096,7 +1096,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 46:07      | to basically the same infrastructure as AppleScript.              |
 | 46:12      | I just thought I could see the writing on the wall                |
 | 46:13      | at that time, like it was already,                                |
-| 46:15      | Apple was already becoming like an industry leader                |
+| 46:15      | [[Apple]] was already becoming like an industry leader                |
 | 46:19      | in JavaScript by way of WebKit.                                   |
 | 46:23      | And it just seemed like that was the place                        |
 | 46:25      | they should focus their efforts.                                  |
@@ -1212,9 +1212,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 51:41      | but what it has, it can do sometimes quite quickly.               |
 | 51:44      | Well, I mean, I think also with AppleScript,                      |
 | 51:47      | there was a honeymoon period where there were a group             |
-| 51:49      | of extremely smart people at Apple working actively               |
+| 51:49      | of extremely smart people at [[Apple]] working actively               |
 | 51:54      | on making AppleScript really awesome.                             |
-| 51:57      | And while Apple kind of the bloom fell off the rose for Apple,    |
+| 51:57      | And while [[Apple]] kind of the bloom fell off the rose for [[Apple]],    |
 | 52:00      | that work was done.                                               |
 | 52:02      | I'm not sure there was ever a honeymoon period                    |
 | 52:04      | for implementation of JavaScript on the Mac.                      |
@@ -1257,7 +1257,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 53:48      | And the motivation was,                                           |
 | 53:50      | and the reason it's called [[FastScripts]],                          |
 | 53:52      | is because at that time,                                          |
-| 53:54      | Apple and scripting automation people in general                  |
+| 53:54      | [[Apple]] and scripting automation people in general                  |
 | 53:57      | were all focused on like long workflows.                          |
 | 54:01      | Like the main use case for scripts                                |
 | 54:03      | was to write something that you could point at your pile          |
@@ -1395,7 +1395,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:00:17   | and I've wanted to do since the beginning                         |
 | 01:00:19   | is to have it be as a baseline product,                           |
 | 01:00:23   | a better way, basically a better version                          |
-| 01:00:25   | of Apple's script menu, but that also does something,             |
+| 01:00:25   | of [[Apple|Apple's]] script menu, but that also does something,             |
 | 01:00:29   | does that job better and then also offers extra things            |
 | 01:00:33   | for free and then premium features                                |
 | 01:00:36   | that you get paying a little bit more.                            |
@@ -1678,7 +1678,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:13:04   | but what can I do for anybody                                     |
 | 01:13:05   | who's automating something on the Mac, you know?                  |
 | 01:13:08   | So I have ideas along those lines.                                |
-| 01:13:11   | The Apple's infrastructure so far                                 |
+| 01:13:11   | The [[Apple|Apple's]] infrastructure so far                                 |
 | 01:13:14   | doesn't let you do a ton as far as running shortcuts goes.        |
 | 01:13:17   | You're pretty much limited to just like                           |
 | 01:13:20   | ask the shortcut system to run a shortcut by name.                |
@@ -1752,7 +1752,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:16:20   | Yeah, well, again, it's probably not imminent or anything,        |
 | 01:16:23   | but one of the reasons, I think for example,                      |
 | 01:16:26   | in the Omni case, they were strongly motivated to do that         |
-| 01:16:29   | in part because Apple didn't have                                 |
+| 01:16:29   | in part because [[Apple]] didn't have                                 |
 | 01:16:32   | automation solution for iOS                                       |
 | 01:16:34   | and they wanted to offer something cross-platform                 |
 | 01:16:38   | if I have my memory of that right.                                |
@@ -1871,14 +1871,14 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:21:05   | So I've looked at it enough to be excited about it                |
 | 01:21:09   | and where it's going.                                             |
 | 01:21:12   | I don't know if, for example,                                     |
-| 01:21:14   | the future that Apple has in mind would include more.             |
+| 01:21:14   | the future that [[Apple]] has in mind would include more.             |
 | 01:21:20   | I could imagine there being like a nesting system                 |
 | 01:21:25   | for shortcuts.                                                    |
 | 01:21:26   | They already have the ability to run a shortcut                   |
 | 01:21:28   | from another shortcut,                                            |
 | 01:21:31   | but if you can think back,                                        |
 | 01:21:35   | has either of you ever used the [[Quartz Composer]]                   |
-| 01:21:38   | that Apple used to support?                                       |
+| 01:21:38   | that [[Apple]] used to support?                                       |
 | 01:21:40   | I vaguely remember playing with this a few times.                 |
 | 01:21:43   | It was very much a kind of general purpose,                       |
 | 01:21:47   | scripted visual scripting tool for graphics.                      |
@@ -1982,7 +1982,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:26:34   | in many of the same ways that a shortcut run on iOS               |
 | 01:26:38   | or the Mac should behave a certain way, you know?                 |
 | 01:26:42   | And, but I'm constantly frustrated                                |
-| 01:26:45   | by the little things that Apple has not stepped up                |
+| 01:26:45   | by the little things that [[Apple]] has not stepped up                |
 | 01:26:49   | to provide parity for between iOS and the Mac                     |
 | 01:26:52   | and it comes down to like things as simple                        |
 | 01:26:55   | as like setting timers, right?                                    |
@@ -2000,20 +2000,20 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:27:29   | as much as they possibly can.                                     |
 | 01:27:31   | And maybe shortcuts will provide the kind of like enthusiasm      |
 | 01:27:37   | and attention to automation                                       |
-| 01:27:40   | that actually inspires Apple to want to provide that parity.      |
+| 01:27:40   | that actually inspires [[Apple]] to want to provide that parity.      |
 | 01:27:43   | I can't help but feel like their idea                             |
 | 01:27:47   | of the future of automation is more democratic                    |
 | 01:27:49   | but less powerful.                                                |
 | 01:27:51   | I think that's really where they're heading.                      |
 | 01:27:53   | I think you're probably right,                                    |
-| 01:27:54   | but I think that's where hopefully somebody at Apple              |
+| 01:27:54   | but I think that's where hopefully somebody at [[Apple]]              |
 | 01:27:58   | will make the argument and win for that whole idea                |
 | 01:28:01   | of simple on the surface,                                         |
 | 01:28:03   | but broad and deep where people want it.                          |
 | 01:28:06   | You know, just give people the out.                               |
 | 01:28:09   | Give people, it's kind of like, you know,                         |
 | 01:28:13   | [[Safari]] supporting app extensions or [[Safari]] plugins.               |
-| 01:28:18   | It's like Apple's not going to emphasise                          |
+| 01:28:18   | It's like [[Apple|Apple's]] not going to emphasise                          |
 | 01:28:22   | the desire or need to like go install                             |
 | 01:28:27   | some random third party, you know,                                |
 | 01:28:31   | like the, you know, if eBay has a plugin                          |
@@ -2146,7 +2146,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:33:59   | to be this world where Mac users can tap into things              |
 | 01:34:03   | like [[AppleScript]] and Apple Events                                |
 | 01:34:06   | and iOS users can't.                                              |
-| 01:34:08   | And I don't know that Apple's ever really going to be able        |
+| 01:34:08   | And I don't know that [[Apple|Apple's]] ever really going to be able        |
 | 01:34:10   | to fix that at this point.                                        |
 | 01:34:12   | Yeah, well, you know, speaking of the idea of having,             |
 | 01:34:16   | like if I look at shortcuts right now,                            |
@@ -2235,7 +2235,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:38:07   | but they left some out, you know,                                 |
 | 01:38:09   | there's some that didn't make it.                                 |
 | 01:38:10   | And like this year, and when we get to June,                      |
-| 01:38:14   | well, we see Apple move more from the category                    |
+| 01:38:14   | well, we see [[Apple]] move more from the category                    |
 | 01:38:16   | of Automator to shortcuts.                                        |
 | 01:38:18   | And then the other thing I think                                  |
 | 01:38:20   | that is very illustrative of your point                           |

@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/chrislawley
 ![[Chris Lawley.jpg|200x200]]
 
 # About
-Chris Lawley is a blogger and YouTuber known for his focus on iPad-related content. With a passion for exploring the capabilities of Apple's tablet, Chris shares his insights and tips with a wide audience through his online platforms.
+Chris Lawley is a blogger and YouTuber known for his focus on iPad-related content. With a passion for exploring the capabilities of [[Apple|[[Apple|Apple's]]]] tablet, Chris shares his insights and tips with a wide audience through his online platforms.
 
 # Guest Episodes
 ```dataviewjs

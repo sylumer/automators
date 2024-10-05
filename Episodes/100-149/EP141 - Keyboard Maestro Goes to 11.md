@@ -299,11 +299,11 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 14:50      | [[Tesseract]] had some issues.                                                                                     |
 | 14:51      | Like I, I noticed like on a dark screen, it barely worked and there's some forum threads                           |
 | 14:56      | that, that kind of confirmed that.                                                                                 |
-| 14:58      | Um, but they, uh, but they added now the Apple [[OCR]] engine.                                                     |
-| 15:03      | So the Apple text recognition is an [[OCR]] option going forward, starting with this version                       |
+| 14:58      | Um, but they, uh, but they added now the [[Apple]] [[OCR]] engine.                                                     |
+| 15:03      | So the [[Apple]] text recognition is an [[OCR]] option going forward, starting with this version                       |
 | 15:09      | 11.                                                                                                                |
 | 15:10      | And I recommend it.                                                                                                |
-| 15:11      | If you're running an automation that does [[OCR]], use the Apple engine, you're going to                           |
+| 15:11      | If you're running an automation that does [[OCR]], use the [[Apple]] engine, you're going to                           |
 | 15:15      | be much happier.                                                                                                   |
 | 15:17      | Just a nice quality of life improvement.                                                                           |
 | 15:19      | But for people who want to grab text out of something, now you've got a much better way                            |
@@ -411,7 +411,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 21:01      | I don't think it's as good as them as shortcuts are.                                                               |
 | 21:04      | And I think that's probably because of just kind of the nature of the beast.                                       |
 | 21:08      | [[Keyboard Maestro]] is made for doing all kinds of crazy, powerful stuff, but in dealing with                     |
-| 21:13      | the native apps, I think Apple has more of a focus on that.                                                        |
+| 21:13      | the native apps, I think [[Apple]] has more of a focus on that.                                                        |
 | 21:16      | And it feels like, uh, [[Keyboard Maestro]] is starting to kind of nudge back that direction                       |
 | 21:22      | or at least add more features in.                                                                                  |
 | 21:24      | Um, I did run some tests on the new create calendar event and it works just like it does                           |

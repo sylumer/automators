@@ -165,7 +165,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 05:27      | They have private APIs and it's built inside.                                                            |
 | 05:30      | So it's fun, but I mean, I'm not going to use it.                                                        |
 | 05:34      | I don't feel a burning desire to play a music quiz game on my watch, but maybe you do and                |
-| 05:39      | Apple has built it for you.                                                                              |
+| 05:39      | [[Apple]] has built it for you.                                                                              |
 | 05:41      | So, but the point of this sidebar is you look over there and you can get access not only                 |
 | 05:46      | to all your shortcuts, but you can also get access to the ones that are in the share sheet               |
 | 05:49      | and the ones that are in the watch and it just really simplifies that process and thumbs                 |
@@ -265,7 +265,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 10:12      | So you've got the sidebars and then the big win on the sidebars is the addition of folders.              |
 | 10:17      | I mean, this isn't rocket science.                                                                       |
 | 10:20      | You and I have been talking about the need for organisational tools for a long time.                     |
-| 10:24      | I never believed Apple was going to put a tagging system on the iPhone for shortcuts                     |
+| 10:24      | I never believed [[Apple]] was going to put a tagging system on the iPhone for shortcuts                     |
 | 10:30      | because I just don't believe they really sold on tagging, but the folders make a lot                     |
 | 10:35      | of sense.                                                                                                |
 | 10:36      | They show up in the sidebar.                                                                             |
@@ -280,7 +280,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 11:10      | You cannot adjust the colour, which would be kind of nice if you could, you know, kind                    |
 | 11:14      | of, because you've got two ways, you've got the object and you've got the colour, so allow                |
 | 11:19      | your brain to get to the right folder faster.                                                            |
-| 11:22      | But you know, I understand it's Apple.                                                                   |
+| 11:22      | But you know, I understand it's [[Apple]].                                                                   |
 | 11:24      | They want it to look pretty.                                                                             |
 | 11:25      | They want a bunch of ugly colours spread out, but I feel like overall, they did a good job                |
 | 11:31      | giving us this organisational tool.                                                                      |
@@ -556,7 +556,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 26:17      | I was just thinking like hold down the shift key and arrow down.                                         |
 | 26:19      | And if you don't have a track or keyboard or something like that, like, you know, if,                    |
 | 26:23      | if it's a pro user feature, the vast majority of us pro users are going to be using either,              |
-| 26:27      | you know, appointing device as Apple still calls them or keyboard attached to our iPads.                 |
+| 26:27      | you know, appointing device as [[Apple]] still calls them or keyboard attached to our iPads.                 |
 | 26:32      | And especially with the magic keyboard and that new iPad era that supports the magic                     |
 | 26:35      | keyboard, um, I believe, um, then, you know, I think we're, we're, you know, in for a lot                |
 | 26:42      | more fun on that front in the future.                                                                    |
@@ -568,7 +568,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 27:07      | Um, yeah, now we talked in, right after dub dub, we talked about the, uh, the new triggers               |
 | 27:15      | and I kind of came to this term as I was working on the field guide, but automatic automation.           |
 | 27:21      | It's like, you know, this is something that I just want to acknowledge, you know, uh,                    |
-| 27:27      | this year, I guess Apple, for whatever reason, didn't trust us enough on some of these shortcuts.        |
+| 27:27      | this year, I guess [[Apple]], for whatever reason, didn't trust us enough on some of these shortcuts.        |
 | 27:32      | So you could have automatic shortcuts, but they wouldn't trigger unless you tapped a                     |
 | 27:37      | confirmation dialogue.                                                                                   |
 | 27:39      | And this year they've removed that from nearly all of them.                                              |
@@ -614,7 +614,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 30:15      | Same way you're using it for email, I could imagine it, you know, the opposition calls                   |
 | 30:18      | and you'd also like to, you know, be able to start your timer then for that, but you                     |
 | 30:23      | know, they didn't.                                                                                       |
-| 30:24      | I think Apple's logic is we don't want someone else to trigger a shortcut on your device                 |
+| 30:24      | I think [[Apple|Apple's]] logic is we don't want someone else to trigger a shortcut on your device                 |
 | 30:30      | by contacting you, but they don't even have an option to, to have an ask and run trigger.                |
 | 30:36      | That's the thing, you know, what is the iPhone?                                                          |
 | 30:38      | I thought it was supposed to be a phone as well.                                                         |
@@ -1196,24 +1196,24 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:03:36   | I want the dust to settle this year, I understand that app developers can put more power into            |
 | 01:03:41   | the shortcut.                                                                                            |
 | 01:03:42   | I want to see what happens.                                                                              |
-| 01:03:44   | I feel like Apple has done a good job with shortcuts of making simple shortcuts that                     |
+| 01:03:44   | I feel like [[Apple]] has done a good job with shortcuts of making simple shortcuts that                     |
 | 01:03:49   | do simple things, like at 10 o'clock change my watch face.                                               |
 | 01:03:53   | I would like to see them expand towards the upper end to the power user end, and I believe               |
 | 01:03:59   | they can do that without compromising the lower end, the simple end.                                     |
 | 01:04:04   | I would like to see better UI elements.                                                                  |
 | 01:04:08   | Let us be more like app developers and build our shortcuts to look pretty, and I know there's            |
-| 01:04:15   | third-party apps that kind of help with that, but it really needs to come from Apple, and                |
+| 01:04:15   | third-party apps that kind of help with that, but it really needs to come from [[Apple]], and                |
 | 01:04:20   | I would just like to see it become, I'd like to see them go even further.                                |
 | 01:04:25   | I don't think it happens overnight.                                                                      |
 | 01:04:27   | I actually think that I have a lot of respect for all the work the shortcut scene has done.              |
-| 01:04:30   | I think that in a company like Apple, when you look how far they've come in just a couple                |
+| 01:04:30   | I think that in a company like [[Apple]], when you look how far they've come in just a couple                |
 | 01:04:34   | of years, I'm actually really impressed.                                                                 |
 | 01:04:37   | Oh yeah, me too.                                                                                         |
 | 01:04:38   | If you listen to me, I seem to whine a lot, but it's because they've done such a good                    |
 | 01:04:43   | job, I just keep wanting more.                                                                           |
 | 01:04:45   | Yeah, me too, definitely.                                                                                |
 | 01:04:47   | I'm genuinely really impressed at everything the shortcuts developers have put out, both                 |
-| 01:04:52   | back when it was workflow and then after they moved to Apple and all of this stuff.                      |
+| 01:04:52   | back when it was workflow and then after they moved to [[Apple]] and all of this stuff.                      |
 | 01:04:57   | Last year, they barely got any screen time in [[WWDC]], there were just a few sort of foot                   |
 | 01:05:03   | notes almost, and we got automations.                                                                    |
 | 01:05:06   | That's incredible, and this year we've got even more powerful automations because they're                |

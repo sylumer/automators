@@ -4,13 +4,13 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-The HomePod is a smart speaker developed by Apple. It utilises [[Siri]], for a hands-free way to interact with services and [[HomeKit]] linked smart home devices.
+The HomePod is a smart speaker developed by [[Apple]]. It utilises [[Siri]], for a hands-free way to interact with services and [[HomeKit]] linked smart home devices.
 
 # Key Features
 - **Siri Integration:** Users can interact with the HomePod using voice commands, such as playing music, setting reminders, or controlling smart home devices.
 - **High-Quality Audio:** The HomePod is designed to deliver crisp and clear sound in any room, adapting its audio output based on the room's acoustics.
 - **Smart Home Control:** Users can use the HomePod to control compatible smart home devices, such as lights, thermostats, and door locks, using Siri commands.
-- **Privacy and Security:** Apple emphasises user privacy and security, ensuring that data collected by the HomePod is encrypted and kept secure.
+- **Privacy and Security:** [[Apple]] emphasises user privacy and security, ensuring that data collected by the HomePod is encrypted and kept secure.
 
 # Models
 

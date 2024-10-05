@@ -4,7 +4,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-Safari is Apple's native web browser application. Safari therefore integrates deeply with the Apple ecosystem, allowing users to synchronise browsing activities across multiple Apple devices through [[iCloud]].
+Safari is [[Apple|Apple's]] native web browser application. Safari therefore integrates deeply with the [[Apple]] ecosystem, allowing users to synchronise browsing activities across multiple [[Apple]] devices through [[iCloud]].
 
 # Operating Systems
 
@@ -26,7 +26,7 @@ Safari is Apple's native web browser application. Safari therefore integrates de
 # Notes
 - Safari is a free browser pre-installed on macOS, iOS, and iPadOS.
 - Safari supports automation via [[AppleScript]] and [[Shortcuts]], but support for the latter can vary by platform.
-- Between 2007 and 2010, Apple also distributed Safari for Windows, but ceased updates in 2012.
+- Between 2007 and 2010, [[Apple]] also distributed Safari for Windows, but ceased updates in 2012.
 - The core engine for Safari is known as [[WebKit]].
 - The test version of Safari is known as [[Safari Technology Preview]].
 

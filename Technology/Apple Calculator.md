@@ -6,7 +6,7 @@ aliases:
   - Calculator
 ---
 # Overview
-Apple's Calculator app is suitable for basic arithmetic as well as more advanced scientific calculations.
+[[Apple|Apple's]] Calculator app is suitable for basic arithmetic as well as more advanced scientific calculations.
 
 # Operating Systems
 - macOS

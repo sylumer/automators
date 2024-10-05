@@ -762,7 +762,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 59:02      | this cute little cartoon image of Yoda. And so I went ahead and decided that was going to be my         |
 | 59:10      | home screen for a while. And then I wanted to make a shortcuts-based home screen that kind of           |
 | 59:15      | followed that theme. And our friend [[Federico Viticci]] released a bunch of cool custom icons,            |
-| 59:21      | and then Apple also has a really nice set of icons that now they ship with iOS 13 that you can          |
+| 59:21      | and then [[Apple]] also has a really nice set of icons that now they ship with iOS 13 that you can          |
 | 59:26      | access. So I built an entirely shortcuts-based home screen. And what I did was I pulled a colour         |
 | 59:36      | green out of the Yoda image and used that as the background. So for each shortcut I make,               |
 | 59:42      | I put that icon on top of the exact same colour green, and then I used that same colour for the           |

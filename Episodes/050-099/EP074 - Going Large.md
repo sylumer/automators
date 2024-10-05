@@ -225,7 +225,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 12:27      | I can say, okay, I want me with my iPhone to the right of me. Or I want my iPad with                      |
 | 12:33      | me with a little round floating head in the corner. Or I want my iPhone full screen with                  |
 | 12:38      | me as a little round floating head, because then if I rotate my iPhone, like if I'm showing               |
-| 12:42      | off an Apple Arcade game or something, which is better in landscape, then, you know, I                    |
+| 12:42      | off an [[Apple Arcade]] game or something, which is better in landscape, then, you know, I                    |
 | 12:46      | can do that too. And it's really useful for things like that. But also just so many more                  |
 | 12:52      | apps have been adding support and people have been creating third party plugins for these                 |
 | 12:57      | as well. I'm just getting more and more excited every couple of days, it seems, because there's           |
@@ -289,7 +289,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 17:54      | doing and they were getting it fixed. And they got it working well before the Big Sur                     |
 | 17:59      | became out of beta, which for a lot of third party hardware developers, they don't even                   |
 | 18:04      | start looking at, at their hardware until after Big Sur ships, you know, for, for a                       |
-| 18:10      | lot of the third party stuff, they'll say, well, we'll wait until Apple's done and then                   |
+| 18:10      | lot of the third party stuff, they'll say, well, we'll wait until [[Apple\|Apple's]] done and then                   |
 | 18:13      | we'll, we'll fix it. Well, these guys were fixing it beforehand. So that was really encouraging           |
 | 18:18      | to me to see them being active like that. It's not discoverable for some of the best                      |
 | 18:25      | features. Like we talk, we're going to talk today about how we use multiple setups or                     |
@@ -976,7 +976,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:17:17   | that button. Because of course, whenever I start podcasting, then the audio input has                     |
 | 01:17:21   | to be set to, or yes, or the audio output has to be set to my XLR interface.                              |
 | 01:17:27   | Nice. Yeah, I've looked at that one and I've not used it because of the XLR problem. I                    |
-| 01:17:34   | would love the ability to switch the input, but I guess that's an Apple thing because                     |
+| 01:17:34   | would love the ability to switch the input, but I guess that's an [[Apple]] thing because                     |
 | 01:17:39   | all the apps-                                                                                             |
 | 01:17:40   | The switch to the input is what I'm doing. So that works really well. And I've got a                      |
 | 01:17:44   | link to that one in the show notes for everyone.                                                          |
@@ -1250,7 +1250,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:39:20   | that. And I can do that locally. And that, you know, speeds things up just a little bit.                  |
 | 01:39:26   | Because of course, if you have to send a command to the hue servers, and then the hue servers             |
 | 01:39:30   | have to send that to your hue hub, and then your hue hub has to send that to your light                   |
-| 01:39:33   | bulbs, that's going to take longer than your Mac going to your Apple TV or HomePod or HomePod             |
+| 01:39:33   | bulbs, that's going to take longer than your Mac going to your [[Apple TV]] or HomePod or HomePod             |
 | 01:39:38   | Mini and going, hey, lights turn on, which, you know, communicates with the hub. But because              |
 | 01:39:43   | it's all on a local network, it's just much faster. And so you can do, you can run actions,               |
 | 01:39:49   | and then you can, you've got an action type, which you trigger, which can be a scene, or                  |

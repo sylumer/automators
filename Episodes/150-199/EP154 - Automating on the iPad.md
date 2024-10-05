@@ -20,7 +20,7 @@ title: "154: Automating on the iPad"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-After Apple's latest announcement, Rosemary and David review their iPad usage and how they automate on it.
+After [[Apple|Apple's]] latest announcement, Rosemary and David review their iPad usage and how they automate on it.
 
 # Hosts
 - [[David Sparks]]
@@ -52,13 +52,13 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 00:11      | Hello, Rose.                                                                                         |
 | 00:12      | Hey, David, how are you?                                                                             |
 | 00:14      | I'm great.                                                                                           |
-| 00:16      | As we record this, Apple had an announcement with a bunch of new iPads and updates, and              |
+| 00:16      | As we record this, [[Apple]] had an announcement with a bunch of new iPads and updates, and              |
 | 00:21      | we thought it would be a good chance for us to stop and check in on how we use iPad and              |
 | 00:26      | how we automate iPad.                                                                                |
 | 00:29      | That's the schedule for today.                                                                       |
 | 00:31      | Yeah.                                                                                                |
 | 00:32      | Yeah.                                                                                                |
-| 00:33      | It's one of those things where Apple doesn't necessarily update every product super frequently,      |
+| 00:33      | It's one of those things where [[Apple]] doesn't necessarily update every product super frequently,      |
 | 00:39      | but they definitely do update various products on a regular basis, and when they do, it's            |
 | 00:46      | always a nice opportunity to actually look at your devices and review your usage of them             |
 | 00:50      | and whether or not it's worth upgrading, because the temptation is always, oh, pretty                |
@@ -110,7 +110,7 @@ After Apple's latest announcement, Rosemary and David review their iPad usage an
 | 04:13      | I look through my calendar, sort things out.                                                         |
 | 04:16      | I answer emails.                                                                                     |
 | 04:18      | I dictate a bunch of text, and all of those things are really easy to do on iPad, and I              |
-| 04:26      | feel like the magical piece of glass that Apple talks about kind of is true for that                 |
+| 04:26      | feel like the magical piece of glass that [[Apple]] talks about kind of is true for that                 |
 | 04:33      | kind of work.                                                                                        |
 | 04:34      | I'd say that's probably the first big use I have for it is just the little daily task                |
 | 04:40      | kind of stuff getting me away from my desk.                                                          |

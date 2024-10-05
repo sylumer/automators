@@ -133,7 +133,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 04:18      | which are shortcuts to automated notion, sadly passed away earlier this year.                             |
 | 04:24      | Obviously, this is very sad for all of us because he was a fabulous developer and very                    |
 | 04:28      | supportive of other developers and shortcuts creators in just talking to people and setting               |
-| 04:34      | up demo code that people could play with, passing in feedback to Apple, and so on.                        |
+| 04:34      | up demo code that people could play with, passing in feedback to [[Apple]], and so on.                        |
 | 04:38      | Obviously, also, he's been on the show before.                                                            |
 | 04:40      | You can go back and listen to his episode.                                                                |
 | 04:43      | Just a lovely guy.                                                                                        |
@@ -445,13 +445,13 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 24:49      | All right, Rose, let's get into the basics of [[HomeKit]].                                                    |
 | 24:54      | And some of this stuff you may already know, but stick with us.                                           |
 | 24:56      | We're going to get deeper as we go through the outline.                                                   |
-| 24:58      | But just as a starting point for someone like the listener who wrote in, Apple doesn't make               |
+| 24:58      | But just as a starting point for someone like the listener who wrote in, [[Apple]] doesn't make               |
 | 25:03      | the [[HomeKit]] hardware.                                                                                     |
-| 25:04      | I think that's something people are mistaken because, you know, it doesn't have the Apple                 |
+| 25:04      | I think that's something people are mistaken because, you know, it doesn't have the [[Apple]]                 |
 | 25:07      | thing.                                                                                                    |
 | 25:08      | They always make the whole widget.                                                                        |
 | 25:09      | When it comes to [[HomeKit]], that's not true.                                                                |
-| 25:13      | They make the phone and they make some of the Apple hardware that connects to [[HomeKit]]                     |
+| 25:13      | They make the phone and they make some of the [[Apple]] hardware that connects to [[HomeKit]]                     |
 | 25:18      | devices, but the actual making of the light switches and the light bulbs and the security                 |
 | 25:23      | cameras, they've left that to other people.                                                               |
 | 25:26      | And then it's up to them to support the [[HomeKit]] protocol.                                                 |
@@ -465,7 +465,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 26:00      | because if you have more than one of these, then they sort of go around and around Robin.                 |
 | 26:04      | You used to be able to, and I emphasise used to here, use an iPad.                                        |
 | 26:10      | In my experience, anybody who used an iPad found themselves in for a world of trouble                     |
-| 26:14      | when it came to [[HomeKit]] stuff, which is probably one of the reasons why Apple has removed this            |
+| 26:14      | when it came to [[HomeKit]] stuff, which is probably one of the reasons why [[Apple]] has removed this            |
 | 26:18      | feature.                                                                                                  |
 | 26:20      | And if you previously set up [[HomeKit]] and you had an iPad as a hub, then you may not have                  |
 | 26:27      | been able to upgrade to the new [[HomeKit]] architecture.                                                     |
@@ -640,7 +640,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 35:57      | kind of need it.                                                                                          |
 | 35:58      | And it's like, could you explain Rose, how you, what your thought is about these third                    |
 | 36:03      | party apps and where you use them and don't use them?                                                     |
-| 36:06      | Yeah, basically my personal opinion on third party apps for things like this, and Apple                   |
+| 36:06      | Yeah, basically my personal opinion on third party apps for things like this, and [[Apple]]                   |
 | 36:10      | are really working hard to bring things like updates to devices into home kits so that                    |
 | 36:15      | you don't need to use, for example, the Hue app or the [[Lutron]] app to update stuff.                        |
 | 36:18      | You can do it through home kit.                                                                           |
@@ -719,7 +719,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 40:35      | know what their intentions are and what they're actually doing on your device.                            |
 | 40:39      | They just want some basic automation and I feel like that's who this shows for people                     |
 | 40:43      | that want to do this stuff.                                                                               |
-| 40:44      | They want to trust Apple.                                                                                 |
+| 40:44      | They want to trust [[Apple]].                                                                                 |
 | 40:46      | And so my, my thoughts is the third party apps, install them as little as possible and                    |
 | 40:50      | open them as little as possible.                                                                          |
 | 40:52      | Yeah.                                                                                                     |
@@ -805,7 +805,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 46:50      | then I stick them under the water heater under the toilets you know they're all over the house            |
 | 46:55      | yeah and just like Rose said this is one where I think [[HomeKit]] is really good at this because             |
 | 47:00      | of the exact problem Rose described when they detect a leak they go crazy they set off [[HomeKit]]            |
-| 47:05      | as an alarm system in a way that I'm not sure a third-party app could do I think only Apple's             |
+| 47:05      | as an alarm system in a way that I'm not sure a third-party app could do I think only [[Apple|Apple's]]             |
 | 47:10      | sort of access could give you that alarm that goes off like you know the missiles are coming              |
 | 47:14      | in and it's great in fact when I was testing it my daughter who was up in Westwood at the                 |
 | 47:22      | time I you know it's a different she lives she goes to school UCLA so she's up there                      |
@@ -1092,7 +1092,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:12:50   | on halfway and lock the doors or whatever you can do that with the scene yeah now it should be noted      |
 | 01:12:58   | because you mentioned there lock the door the anything that involves a security device so that            |
 | 01:13:03   | would be like doors windows locks garage doors things like that in home kit is going to require           |
-| 01:13:10   | confirmation it's not just to be able to run entirely automatically because apple being apple             |
+| 01:13:10   | confirmation it's not just to be able to run entirely automatically because [[Apple]] being [[Apple]]             |
 | 01:13:16   | want to keep you safe and secure they don't want you accidentally setting up an automation for            |
 | 01:13:19   | whenever the bathroom light turns on unlocks the front door that would possibly go very badly in          |
 | 01:13:24   | some places so yeah that you're gonna you won't be able to just automate lots of things including         |
@@ -1265,7 +1265,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:28:24   | and voila you're set up yeah but what we're trying to do is make it easier so that you can expand         |
 | 01:28:29   | things and make it better and smarter and better for yourself later um I think my only parting piece      |
 | 01:28:37   | of advice for people is going to be when you run into a limitation that you can't do something with       |
-| 01:28:41   | home kit or whatever remember home kit is limited apple have tried to set it up to be simple for          |
+| 01:28:41   | home kit or whatever remember home kit is limited [[Apple]] have tried to set it up to be simple for          |
 | 01:28:50   | everyone which means for my grandmother as well as for me the result of that is I'm going to be           |
 | 01:28:57   | the one that gets very frustrated because I can't have it automatically do this thing                     |
 | 01:29:02   | rather than my grandmother getting frustrated because she can't figure out that this button               |

@@ -450,7 +450,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 32:06      | live side by side. I mean, I started developing Scriptable way before, no, actually not way            |
 | 32:12      | before, maybe like a few months, four months before shortcuts was a thing. And I thought               |
 | 32:17      | that it would be like, yeah, I didn't really have a plan for the app back then. To be honest,          |
-| 32:21      | I was just building something on my own that I thought was fun. And then Apple came along              |
+| 32:21      | I was just building something on my own that I thought was fun. And then [[Apple]] came along              |
 | 32:26      | and introduced SiriKit. And it was immediately clear for me that this, this is a companion             |
 | 32:31      | to shortcuts. So they introduced SiriKit in like June at Adobe 2018, I believe. And it                 |
 | 32:39      | just Scriptable immediately clicked for me. I knew that it had to be a companion for shortcuts.        |
@@ -460,7 +460,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 33:05      | And yes, you know, it's in some cases, it can be for somebody who wants to dip their                   |
 | 33:09      | toe into the programming world without leaving behind, you know, all of the things that they've        |
 | 33:14      | already built and created with shortcuts. But in other cases, it is a companion just                   |
-| 33:19      | like Apple when they brought shortcuts to the Mac, they added a run AppleScript action                |
+| 33:19      | like [[Apple]] when they brought shortcuts to the Mac, they added a run AppleScript action                |
 | 33:24      | and run shell script and so on. Because yeah, all of these things can work together. So                |
 | 33:27      | yes, that is a very good point.                                                                        |
 | 33:30      | So at this point, Scriptable has been around a while. Where do you want to go with the app?            |
@@ -478,7 +478,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 34:35      | to a [[SwiftUI]]. So doing a one to one bridge between the JavaScript side of things and                  |
 | 34:42      | then native [[SwiftUI]] components. So what I really want to do is making, making it possible             |
 | 34:48      | for people to use, if not all, then many of the, the concepts that we're used to in [[SwiftUI]],       |
-| 34:57      | Apple's new framework for, for building UIs and making, making those available to                  |
+| 34:57      | [[Apple\|Apple's]] new framework for, for building UIs and making, making those available to                  |
 | 35:04      | people who are more comfortable with JavaScript. And hopefully if everything goes as planned,          |
 | 35:10      | because this is still in like the exploration phase, but, but things seem to be turning                |
 | 35:14      | out quite well. But if, if they go well, bring that into Scriptable. So that's, I think                |
@@ -528,7 +528,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 38:50      | That's fine.                                                                                           |
 | 38:51      | What I really like about this is it's almost like, kind of like the app going in full circle           |
 | 38:55      | coming back now to [[Swift]], right? You know, where it started as a, really an option to                  |
-| 39:01      | what Apple was doing or what was coming. And now it's back in the middle of, I don't know,             |
+| 39:01      | what [[Apple]] was doing or what was coming. And now it's back in the middle of, I don't know,             |
 | 39:07      | it's, I like, I like the idea of that. And that is a, that is a big plan. I asked you                  |
 | 39:13      | that question, not knowing the answer. And you really, you have big plans, Simon. It's                 |
 | 39:18      | very clear.                                                                                            |
@@ -792,7 +792,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:00:46   | number in [[Data Jar]], and all those shortcuts just magically have the new data.                           |
 | 01:00:51   | And this is something that is shockingly not in shortcuts, you know, the idea of a memory              |
 | 01:00:57   | of a variable across different shortcuts. And Simon scratched that it's so well that                   |
-| 01:01:04   | I don't care if Apple ever fixes it, because I'm super happy with [[Data Jar]]. But I mean,                 |
+| 01:01:04   | I don't care if [[Apple]] ever fixes it, because I'm super happy with [[Data Jar]]. But I mean,                 |
 | 01:01:09   | it's just a little problem. And I do think that like, you know, when we talk about things              |
 | 01:01:14   | like Scriptable, some people say, well, JavaScript, I don't know how much I'm going to do that.        |
 | 01:01:18   | Look, [[Data Jar]] is something everybody who owns shortcuts or makes a shortcut can use because            |

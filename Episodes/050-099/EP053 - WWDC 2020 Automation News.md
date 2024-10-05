@@ -20,7 +20,7 @@ title: "53: WWDC 2020 Automation News"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-Rose and David bring all the automation news from Apple's 2020 Developer Conference.
+Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Developer Conference.
 
 # Hosts
 - [[David Sparks]]
@@ -62,7 +62,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 00:42      | it was okay. It was good fun. I enjoyed it. I was missing it as well. Not the broken ankle,                                                               |
 | 00:46      | just you.                                                                                                                                                 |
 | 00:47      | It was fun. It was fun being together. But this year we've had a bunch more announcements                                                                 |
-| 00:53      | about automation on the various Apple platforms. It didn't feature as heavily in the keynote                                                              |
+| 00:53      | about automation on the various [[Apple]] platforms. It didn't feature as heavily in the keynote                                                              |
 | 00:59      | but once you start digging in the weeds you find out, hey, there's a lot of stuff going                                                                   |
 | 01:03      | on. So we thought today we would share with you a bunch of information about new shortcuts                                                                |
 | 01:10      | and also some of the stuff on the Mac and [[HomeKit]] as well. I guess just to begin that                                                                     |
@@ -73,8 +73,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:34      | going to be more sessions and I think some workshops later in the week with the shortcuts                                                                 |
 | 01:39      | team. But I started watching one of the sessions earlier and there was just so much information                                                           |
 | 01:45      | in there that wasn't in the keynote and it's great and I've been playing with it. So full                                                                 |
-| 01:50      | disclosure, I have it installed, the betas installed on my iPhone, my iPad and my Apple                                                                   |
-| 01:57      | watch.                                                                                                                                                    |
+| 01:50      | disclosure, I have it installed, the betas installed on my iPhone, my iPad and my Apple Watch.                                                                  |
 | 01:58      | David, where are you at beta-wise right now?                                                                                                              |
 | 02:00      | Okay, so I have just gone completely crazy. I've got it on, I've got the Big Sur on the                                                                   |
 | 02:06      | laptop but not on my main machine and everything else that I own has the beta sign except my                                                              |
@@ -87,7 +86,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 02:38      | especially at beta one. But that's okay, it didn't break your watch and that happened                                                                     |
 | 02:44      | for a few years.                                                                                                                                          |
 | 02:45      | No, it's just rebooted. It's fine again now.                                                                                                              |
-| 02:47      | So Apple really has done a lot for automation. It almost feels like they're listening once                                                                |
+| 02:47      | So [[Apple]] really has done a lot for automation. It almost feels like they're listening once                                                                |
 | 02:54      | in a while and I thought why don't we start with iOS because that's, I believe, probably                                                                  |
 | 03:02      | the area that needs the most help with automation. I mean, there are so many great tools on the                                                           |
 | 03:06      | Mac, whether you use like a developer generating tool like [[Keyboard Maestro]] or [[TextExpander]]                                                        |
@@ -146,7 +145,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 07:12      | called home screen, and then I added home screen 2, because I wanted to try stacking.                                                                     |
 | 07:18      | And so people who've not seen the keynote, you can add a widget just like you previously                                                                  |
 | 07:23      | have had in this debut on your home screen. Now, app developers are going to have to rewrite                                                              |
-| 07:27      | most of their, their widgets because it's [[SwiftUI]] only, which is Apple's new user interface                                                          |
+| 07:27      | most of their, their widgets because it's [[SwiftUI]] only, which is [[Apple|Apple's]] new user interface                                                          |
 | 07:35      | design, which they released last year and they've added to this year. And it's non-interactive                                                            |
 | 07:41      | except [[Shortcuts]]. So if I tap on a [[Shortcuts]] shortcut inside of a widget, then it actually                                                        |
 | 07:49      | animates a little bit and does stuff. But most of the time, if you tap on something,                                                                      |
@@ -209,10 +208,10 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 12:08      | well, I have all these, you know, great smart folders. Well, you know, which, which shortcuts                                                             |
 | 12:13      | are in those again? But, you know, I'll get there.                                                                                                        |
 | 12:17      | Yeah. Just like so often, it's like the difference between [[Apple Calendar\|Calendar]] and [[Fantastical]].                                              |
-| 12:21      | I mean, Apple will do a good job of it.                                                                                                                   |
+| 12:21      | I mean, [[Apple]] will do a good job of it.                                                                                                                   |
 | 12:24      | Oh yeah.                                                                                                                                                  |
 | 12:25      | But when a developer comes in and they say, I'm going to spend all my time working on                                                                     |
-| 12:28      | this one problem, they always have more features. And I think Apple's actually afraid to put                                                              |
+| 12:28      | this one problem, they always have more features. And I think [[Apple|Apple's]] actually afraid to put                                                              |
 | 12:33      | in some of the features that you get with launch cuts because it just gets too fiddly                                                                     |
 | 12:38      | for a lot of users. And they want to keep it simple. But either way, man, folders and                                                                     |
 | 12:44      | shortcuts, widgets on the, on the home screen, those are great things for automators because                                                              |
@@ -520,7 +519,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 36:00      | on my planning face. Uh, yeah. Like the sleep one, it automatically changes my watch face                                                                 |
 | 36:06      | to my sleep watch face. Yes. I have a sleep watch face. It's the, uh, the, the extra large                                                                |
 | 36:10      | in red. Um, just so that I, if I do look at it, it doesn't ruin my eyesight at night.                                                                     |
-| 36:15      | Um, but you know, this is amazing. I thought Apple added a special face when you put it                                                                   |
+| 36:15      | Um, but you know, this is amazing. I thought [[Apple]] added a special face when you put it                                                                   |
 | 36:19      | into sleep mode now. They did, they did, but I like to have, uh, my, my standard one at                                                                   |
 | 36:24      | the moment because I'm still playing with things.                                                                                                         |
 | 36:26      | Yeah. Well, I'll tell you this, I feel like this is great and a lot of people use the                                                                     |
@@ -577,7 +576,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 38:45      | It's lovely to have, but sometimes I feel like I don't need it.                                                                                           |
 | 38:48      | And especially with the watchOS beta, um, I don't know how your battery life is doing,                                                                    |
 | 38:52      | uh, David, on your phone.                                                                                                                                 |
-| 38:54      | Um, but I bought the, the battery pack from Apple for, for my 11, uh, kind of for this.                                                                   |
+| 38:54      | Um, but I bought the, the battery pack from [[Apple]] for, for my 11, uh, kind of for this.                                                                   |
 | 39:00      | And I'm kind of glad I did because I am going through battery faster, not as fast as I have                                                               |
 | 39:05      | done with previous betas where I was basically plugged into the largest possible battery pack                                                             |
 | 39:09      | I could find from 10 AM, uh, having left my hotel at nine, but, um, you know, it's, it                                                                    |
@@ -677,7 +676,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 43:26      | files.                                                                                                                                                    |
 | 43:27      | Yeah.                                                                                                                                                     |
 | 43:28      | And when [[Shortcuts]] first came out, the first version of [[Shortcuts]], um, on iOS, when it                                                            |
-| 43:33      | was still a download this from the app store and install it, but it belongs to Apple app.                                                                 |
+| 43:33      | was still a download this from the app store and install it, but it belongs to [[Apple]] app.                                                                 |
 | 43:37      | Um, you could still import `.shortcut` files and then last year it went away and people                                                                   |
 | 43:43      | were very, very sad.                                                                                                                                      |
 | 43:44      | And now it appears to be working again.                                                                                                                   |
@@ -692,7 +691,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 44:03      | they brought it back.                                                                                                                                     |
 | 44:04      | So maybe it was a programming thing.                                                                                                                      |
 | 44:06      | Um, I mean, we also got to run shortcuts automatically at a specific time.                                                                                |
-| 44:10      | So tell, tell Apple everything's fine here.                                                                                                               |
+| 44:10      | So tell, tell [[Apple]] everything's fine here.                                                                                                               |
 | 44:13      | Um, you know, if anybody asks, it's all good.                                                                                                             |
 | 44:15      | No, I agree.                                                                                                                                              |
 | 44:16      | I feel like we've really kind of hit the jackpot for this.                                                                                                |
@@ -775,7 +774,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 48:34      | Yeah.                                                                                                                                                     |
 | 48:35      | And I think I'm going to start at the bottom of our notes here in the outline, David and                                                                  |
 | 48:40      | say how amazed I was to see the words [[Amazon]] and Google on the screen during [[WWDC]] and that                                                            |
-| 48:49      | Apple are working with them and sharing [[HomeKit]].                                                                                                      |
+| 48:49      | [[Apple]] are working with them and sharing [[HomeKit]].                                                                                                      |
 | 48:52      | I did see some, some companies, I think it was on venture beat saying that [[HomeKit]] is                                                                 |
 | 48:56      | being open sourced.                                                                                                                                       |
 | 48:57      | I'm not sure exactly how it's being shared.                                                                                                               |
@@ -791,7 +790,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 49:40      | and I got an [[Amazon Echo\|Echo Dot]] recently, David.                                                                                                   |
 | 49:44      | So I'm really hoping that this is going to significantly improve things.                                                                                  |
 | 49:48      | Well, the announcement was a little vague.                                                                                                                |
-| 49:51      | They said that Apple is working with Google and [[Amazon]] and it sounded like for a unified                                                                  |
+| 49:51      | They said that [[Apple]] is working with Google and [[Amazon]] and it sounded like for a unified                                                                  |
 | 49:57      | standard.                                                                                                                                                 |
 | 49:58      | That's kind of, that's what I heard from it.                                                                                                              |
 | 50:00      | It's thinking.                                                                                                                                            |
@@ -802,12 +801,12 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 50:13      | just be one standard in theory that it would work with all devices.                                                                                       |
 | 50:17      | And this is what should happen, but you've got these multi-billion dollar companies that                                                                  |
 | 50:22      | all have egos and all want to say, well, we have the better standard, right?                                                                              |
-| 50:26      | And I think part of the thing is that Apple has not really been super successful.                                                                         |
+| 50:26      | And I think part of the thing is that [[Apple]] has not really been super successful.                                                                         |
 | 50:31      | I would say that [[HomeKit]] is the least supported of those three standards.                                                                             |
 | 50:35      | Unfortunately.                                                                                                                                            |
 | 50:36      | So if you can't beat them, join them kind of thing.                                                                                                       |
 | 50:39      | And I'm wondering, is Google giving up their standard?                                                                                                    |
-| 50:42      | I mean, are we truly going to have one unified standard or is it just that Apple's making                                                                 |
+| 50:42      | I mean, are we truly going to have one unified standard or is it just that [[Apple|Apple's]] making                                                                 |
 | 50:47      | [[HomeKit]] more open so anybody can address it?                                                                                                          |
 | 50:50      | I just don't really, I feel like there's details missing on this, but either way, it sounds                                                               |
 | 50:55      | like it is going to be more accessible and we're going to have more [[HomeKit]] devices.                                                                      |
@@ -843,7 +842,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 52:28      | to store my video for me online, but I just don't like the fact that there's some third                                                                   |
 | 52:33      | party company that has my video, especially because some of the cameras are in my house                                                                   |
 | 52:37      | and who knows who's going to buy the company, who's going to hack their server.                                                                           |
-| 52:41      | I trust Apple more than anybody else with this problem.                                                                                                   |
+| 52:41      | I trust [[Apple]] more than anybody else with this problem.                                                                                                   |
 | 52:44      | And it's been a year since they announced [[HomeKit]] secure video, but now it seems like                                                                 |
 | 52:49      | it's becoming real.                                                                                                                                       |
 | 52:50      | Like [[eufy]], [[eufy]], the company, it's a subsidiary of Anker that they make a bunch of cameras.                                                               |
@@ -941,8 +940,8 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 57:52      | it works eventually.                                                                                                                                      |
 | 57:53      | And then the rules still run, but there's some sort of underlying bug.                                                                                    |
 | 57:56      | I recently corresponded with Paul over at noodle soft and he says he's trying to get                                                                      |
-| 58:01      | Apple to fix.                                                                                                                                             |
-| 58:02      | There's something Apple needs to fix that's causing this, but with that same bug still                                                                    |
+| 58:01      | [[Apple]] to fix.                                                                                                                                             |
+| 58:02      | There's something [[Apple]] needs to fix that's causing this, but with that same bug still                                                                    |
 | 58:05      | exists in my experiments on Big Sur, but [[Hazel]] still works.                                                                                           |
 | 58:10      | Um, [[Keyboard Maestro]] works fine.                                                                                                                      |
 | 58:12      | There's no problems and [[AppleScript\|AppleScripts]] obviously still work.                                                                               |
@@ -950,7 +949,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 58:20      | Yeah.                                                                                                                                                     |
 | 58:21      | Um, the, uh, so you're good.                                                                                                                              |
 | 58:24      | Somebody was tweeting me and, um, the [[Keyboard Maestro]] developer question about, well, if                                                             |
-| 58:30      | Apple switches to our max or quote unquote Apple Silicon max, is that going to break                                                                      |
+| 58:30      | [[Apple]] switches to our max or quote unquote Apple Silicon max, is that going to break                                                                      |
 | 58:36      | tools like [[Keyboard Maestro]]?                                                                                                                          |
 | 58:38      | I don't think it is, but I thought that'd be a fun question to talk about with you.                                                                       |
 | 58:42      | Do you see any problems with the switch to Apple Silicon for our automation tools?                                                                        |
@@ -969,7 +968,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 59:34      | So that that's two years plus allow a year for delays.                                                                                                    |
 | 59:37      | So that's going to be three years.                                                                                                                        |
 | 59:39      | But I think that this is mostly going to be a good thing.                                                                                                 |
-| 59:43      | Now I did hear, and I'm not sure whether or not like Apple or Microsoft have said anything                                                                |
+| 59:43      | Now I did hear, and I'm not sure whether or not like [[Apple]] or Microsoft have said anything                                                                |
 | 59:48      | officially about this, I did hear [[Boot Camp]] is gone, which means that dual booting is not                                                             |
 | 59:53      | going to happen anymore.                                                                                                                                  |
 | 59:54      | But for people who have been developing for Windows stuff and they've been writing cross                                                                  |
@@ -1001,7 +1000,7 @@ Rose and David bring all the automation news from Apple's 2020 Developer Confere
 | 01:01:30   | [Virtual Machine\|virtual machines]] basically.                                                                                                           |
 | 01:01:32   | And so those people have had to dual boot.                                                                                                                |
 | 01:01:36   | So we're going to see what happens on that front, but we've got a couple of years before                                                                  |
-| 01:01:39   | it becomes a problem because as well as Apple saying, hey, we're switching to Apple Silicon,                                                              |
+| 01:01:39   | it becomes a problem because as well as [[Apple]] saying, hey, we're switching to Apple Silicon,                                                              |
 | 01:01:44   | they also said, and we've got new Intel stuff in the pipeline as well.                                                                                    |
 | 01:01:48   | So they're urging their bets a little bit there, which I think is a good thing because                                                                    |
 | 01:01:52   | some people are obviously going to be a little worried about this.                                                                                        |

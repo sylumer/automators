@@ -95,7 +95,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 01:56      | So we thank you all for that.                                                                         |
 | 01:59      | Also was one other bit of news is the Mac Power users scored a big win this year.                     |
 | 02:03      | We got to interview the product manager for the new Mac Pros.                                         |
-| 02:07      | So if you're interested at all in that, even just to kind of get an idea of what Apple's              |
+| 02:07      | So if you're interested at all in that, even just to kind of get an idea of what [[Apple|Apple's]]              |
 | 02:11      | thinking with those fancy new Macs, go over and listen to the latest episode of Mac Power             |
 | 02:16      | Users.                                                                                                |
 | 02:17      | I'll put it in the show notes.                                                                        |
@@ -111,10 +111,10 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 02:43      | keynote went, where within 10 minutes they've moved on from watchOS, but there's a lot                |
 | 02:49      | of things to cover here.                                                                              |
 | 02:50      | Yeah.                                                                                                 |
-| 02:51      | The first thing, I mean, this year at [[WWDC]], it seems in particular, Apple had a lot of                |
+| 02:51      | The first thing, I mean, this year at [[WWDC]], it seems in particular, [[Apple]] had a lot of                |
 | 02:55      | big news, [[SwiftUI]], the new Mac Pros, they just had a lot of really big items to cover.               |
-| 03:01      | And as a result, automation didn't get the love it did last year, you know, Siri Short                |
-| 03:06      | Cuts was a big feature of the keynote last year, whereas this year it didn't even get                 |
+| 03:01      | And as a result, automation didn't get the love it did last year, you know, [[Shortcuts\|Siri Shortcuts]]                |
+| 03:06      | was a big feature of the keynote last year, whereas this year it didn't even get                 |
 | 03:11      | mentioned in the keynote.                                                                             |
 | 03:12      | It was it was mentioned in the state of the union.                                                    |
 | 03:16      | And so from the outside, you may think, oh, they didn't do much this year.                            |
@@ -122,7 +122,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 03:20      | Exactly.                                                                                              |
 | 03:21      | It's just because they had such big news that this news kind of got buried.                           |
 | 03:26      | And Rose and I have both had the opportunity to spend quite a bit of time this week with              |
-| 03:30      | the Siri Short Cuts team and some of the other Automator folks at Apple.                              |
+| 03:30      | the [[Shortcuts\|Siri Shortcuts]] team and some of the other [[Automator]] folks at [[Apple]].                              |
 | 03:33      | They're super proud.                                                                                  |
 | 03:35      | And I would argue in a lot of ways, the news we're about to share with you about Siri Short           |
 | 03:40      | Cuts.                                                                                                 |
@@ -131,14 +131,14 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 03:47      | It's a whole new level.                                                                               |
 | 03:48      | I feel like, you know, it's kind of when you planted a flower and the first year it needs             |
 | 03:53      | you know, it needs time for the roots to take hold before it really takes off.                        |
-| 03:57      | Well, this year, Siri Short Cuts is in full bloom because there there's just an incredible            |
-| 04:03      | amount of new stuff we're going to be able to do with Siri Short Cuts.                                |
+| 03:57      | Well, this year, [[Shortcuts\|Siri Shortcuts]] is in full bloom because there there's just an incredible            |
+| 04:03      | amount of new stuff we're going to be able to do with [[Shortcuts\|Siri Shortcuts]].                                |
 | 04:07      | Automation is going to get easier, more powerful and stronger.                                        |
 | 04:10      | But before we, that was a tease, Rose, because I think before we do that, let's just talk             |
 | 04:14      | briefly about Mac OS.                                                                                 |
 | 04:16      | Yeah.                                                                                                 |
 | 04:17      | There's not a whole lot of news on Mac OS.                                                            |
-| 04:19      | I mean, there is, because a lot of people have heard, and this was rumored before [[WWDC]],               |
+| 04:19      | I mean, there is, because a lot of people have heard, and this was rumoured before [[WWDC]],               |
 | 04:23      | that iTunes is going away.                                                                            |
 | 04:26      | With Mac OS Catalina, iTunes is no more.                                                              |
 | 04:28      | So there's music, there's TV, there's podcasts, they're all separate applications now.                |
@@ -186,7 +186,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 06:25      | Well, I mean, it's never really been the same.                                                        |
 | 06:27      | I mean, there's always been things you could do on iPad that you can do on the phone and              |
 | 06:31      | vice versa.                                                                                           |
-| 06:32      | But I do appreciate that Apple now has a separate and if you haven't heard this yet, they have        |
+| 06:32      | But I do appreciate that [[Apple]] now has a separate and if you haven't heard this yet, they have        |
 | 06:37      | what they call iPadOS versus iOS, which is kind of funny.                                             |
 | 06:41      | Historically, originally it was iPhoneOS when they first made the iPhone and then they made           |
 | 06:46      | a big deal.                                                                                           |
@@ -333,7 +333,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 14:38      | like you, me, [[Matthew Cassinelli\|Matt Cassinelli]], [[Federico Viticci\|Federico]], the folks who have many, many, many shortcuts.               |
 | 14:43      | Yeah.                                                                                                 |
 | 14:44      | Most of all have a few that work for me and they're sane as opposed to insane.                        |
-| 14:48      | So I'm sure Apple saw those numbers.                                                                  |
+| 14:48      | So I'm sure [[Apple]] saw those numbers.                                                                  |
 | 14:50      | And if I was looking at the whiteboard and said, well, do I create folders for the super              |
 | 14:54      | nerds or do I just make it more powerful for everyone?                                                |
 | 14:57      | And I think they made the right decision.                                                             |
@@ -477,7 +477,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 22:13      | Now, you had said earlier that it's now as the fact that as a result of the fact that                 |
 | 22:18      | shortcuts is now part of the operating system, we have got to deal with updates.                      |
 | 22:23      | Now, I really liked, frankly, in that first year that we could get updates to serious                 |
-| 22:28      | shortcuts independent of operating system updates, because Apple doesn't do that many                 |
+| 22:28      | shortcuts independent of operating system updates, because [[Apple]] doesn't do that many                 |
 | 22:33      | of those, you know, they'll do a couple point updates over the course of the year.                    |
 | 22:36      | And then we have to wait, you know, every year for the big update.                                    |
 | 22:39      | Yeah.                                                                                                 |
@@ -512,17 +512,17 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 24:03      | than mine does.                                                                                       |
 | 24:05      | And that's good because you want those folks working on it and and they're all passionate             |
 | 24:09      | about it.                                                                                             |
-| 24:10      | So, you know, sometimes Apple makes products and they release it and they say, hey, this              |
+| 24:10      | So, you know, sometimes [[Apple]] makes products and they release it and they say, hey, this              |
 | 24:14      | is the greatest thing in the world and then you don't see much from it for years.                     |
 | 24:18      | We already saw in the first year shortcuts, isn't that product?                                       |
 | 24:21      | They've already been updating it, but it looks to me like into the at least immediate future          |
-| 24:26      | Apple continues to be funding and pressing this.                                                      |
+| 24:26      | [[Apple]] continues to be funding and pressing this.                                                      |
 | 24:30      | And I'm really happy to see that I'm that was one of the most encouraging things I saw                |
 | 24:33      | today.                                                                                                |
 | 24:34      | It's just the number of people that are working on shortcuts and how passionate they are about        |
 | 24:38      | it.                                                                                                   |
 | 24:39      | Yeah, they're so excited about this as well.                                                          |
-| 24:40      | Like obviously, you know, everybody who works at Apple is disappointed when their product             |
+| 24:40      | Like obviously, you know, everybody who works at [[Apple]] is disappointed when their product             |
 | 24:44      | doesn't get keynote time, but these people were still so excited and so happy.                        |
 | 24:48      | And you know, saying like, you know, have you seen this feature?                                      |
 | 24:50      | Have you seen that feature?                                                                           |
@@ -534,7 +534,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 25:00      | And for the developers I've talked to who've been to the shortcuts labs as well, you know,            |
 | 25:03      | they've been really, really helpful there.                                                            |
 | 25:05      | Of course.                                                                                            |
-| 25:06      | I mean, this is [[WWDC]], Apple's not there going, oh, no, no, no, we won't tell you how to do            |
+| 25:06      | I mean, this is [[WWDC]], [[Apple|Apple's]] not there going, oh, no, no, no, we won't tell you how to do            |
 | 25:10      | this.                                                                                                 |
 | 25:11      | They're showing developers how to do everything, but you know, they're showing developers             |
 | 25:14      | in the nicest way and being excited about it, which is great for everyone.                            |
@@ -562,7 +562,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 26:33      | the system before, and I'm going to use the only focus one as a great example, the adding             |
 | 26:37      | a task to OmniFocus, that was created by the shortcuts team.                                          |
 | 26:41      | So you had your task name, you had your project name and things like that, which meant that           |
-| 26:45      | whenever OmniFocus updated, they had to file a radar with Apple or whatever it is that                |
+| 26:45      | whenever OmniFocus updated, they had to file a radar with [[Apple]] or whatever it is that                |
 | 26:50      | they had to do.                                                                                       |
 | 26:51      | And they had to wait for the shortcuts team to update this.                                           |
 | 26:54      | Now there are billions of apps on the app store.                                                      |
@@ -1093,7 +1093,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 52:26      | And it's awesome.                                                                                     |
 | 52:29      | And I mean, I'm sure there are lots of people listening.                                              |
 | 52:32      | They really want to play with this.                                                                   |
-| 52:33      | Apple does say it on the developer website.                                                           |
+| 52:33      | [[Apple]] does say it on the developer website.                                                           |
 | 52:35      | Okay.                                                                                                 |
 | 52:36      | Do not download this for thrill seekers.                                                              |
 | 52:39      | Please wait till public beta one.                                                                     |
@@ -1111,7 +1111,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 53:11      | I played with roses and some other friends that have also installed it.                               |
 | 53:14      | And it looks like this one has a lot of pain and suffering installed involved.                        |
 | 53:19      | In fact, it's interesting.                                                                            |
-| 53:21      | This is the first time in years that Apple's made it to put the beta on your iPhone or iPad.          |
+| 53:21      | This is the first time in years that [[Apple|Apple's]] made it to put the beta on your iPhone or iPad.          |
 | 53:26      | You literally have to download the restore image.                                                     |
 | 53:28      | Yeah.                                                                                                 |
 | 53:29      | You have to wipe your device for this and then restoring it messes a bunch of stuff up.               |
@@ -1132,7 +1132,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 54:07      | Yeah.                                                                                                 |
 | 54:08      | Usually it's a week after, but either way, it's going to get better.                                  |
 | 54:12      | And the other thing that happens, if you're not a developer, but you're just curious about            |
-| 54:16      | this stuff, is I often find because of the features and because all the Apple ecosystem               |
+| 54:16      | this stuff, is I often find because of the features and because all the [[Apple]] ecosystem               |
 | 54:21      | is so tied together, it's like once you download the beta somewhere, then one place, then things      |
 | 54:27      | start breaking.                                                                                       |
 | 54:28      | It's almost encourages you to just download the betas everywhere to kind of keep everything           |
@@ -1191,7 +1191,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 56:29      | And then of course we all went to the cool Apple store they have down there, which is                 |
 | 56:32      | kind of amazing.                                                                                      |
 | 56:34      | And then we had the meet up here in San Jose.                                                          |
-| 56:39      | That was the day we did, [[Stephen Hackett\|Stephen]] and I did the interview with the Apple guy.                          |
+| 56:39      | That was the day we did, [[Stephen Hackett\|Stephen]] and I did the interview with the [[Apple]] guy.                          |
 | 56:41      | So we actually had to push the thing back to two o'clock.                                             |
 | 56:46      | But when I got there, it's kind of funny because I got there at two, the time it was designated.      |
 | 56:50      | Yeah.                                                                                                 |
@@ -1223,7 +1223,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 57:52      | So I went over and it was like, it was the meeting place.                                             |
 | 57:56      | It was like, it was like the round table of automation.                                               |
 | 58:00      | The Siri shortcut scene was there.                                                                    |
-| 58:02      | There was a bunch of guys from the Apple automator slash [[AppleScript]] stuff.                          |
+| 58:02      | There was a bunch of guys from the [[Automator\|Apple Automator]]/[[AppleScript]] stuff.                          |
 | 58:07      | There were a bunch of users and power users.                                                          |
 | 58:09      | [[Adam Tow\|Adam]] was there.                                                                                       |
 | 58:11      | [[Sal Soghoian]] was there.                                                                              |
@@ -1237,7 +1237,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 58:25      | Yeah.                                                                                                 |
 | 58:26      | It was so nice.                                                                                       |
 | 58:28      | And for all of the regular listeners that came, I don't mean this in a negative way.                  |
-| 58:32      | I mean, you don't happen to work for Apple or develop an app that we use every day.                   |
+| 58:32      | I mean, you don't happen to work for [[Apple]] or develop an app that we use every day.                   |
 | 58:38      | It was amazing to see everybody there and it went that everybody could talk to each                   |
 | 58:41      | other.                                                                                                |
 | 58:42      | And from what I saw, everyone was having an amazing time.                                             |
@@ -1270,7 +1270,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 59:49      | And the and really just I just wrote a post to MacSparky this morning.                               |
 | 59:54      | I feel like there is a renewed focus on Mac and iPad that we haven't really seen.                     |
 | 59:59      | I mean, that we've we've heard through the grapevine that is coming for whatever reason,              |
-| 01:00:05   | Apple has turned a lot of its attention back towards products other than the iPhone.                  |
+| 01:00:05   | [[Apple]] has turned a lot of its attention back towards products other than the iPhone.                  |
 | 01:00:10   | And for people like us that make our livings working on iPads and Macs, I think that's                |
 | 01:00:15   | great news.                                                                                           |
 | 01:00:16   | It is.                                                                                                |

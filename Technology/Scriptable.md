@@ -4,7 +4,7 @@ creator: Simon Støvring
 notetype: technology
 ---
 # Overview
-Scriptable is an app that allows users to write [[JavaScript]] scripts to control various aspects of their Apple device and beyond. Users can create custom scripts to interact with data from other integrated apps, web API, and more, making it a powerful tool for enhancing productivity and personalising the user experience.
+Scriptable is an app that allows users to write [[JavaScript]] scripts to control various aspects of their [[Apple]] device and beyond. Users can create custom scripts to interact with data from other integrated apps, web API, and more, making it a powerful tool for enhancing productivity and personalising the user experience.
 
 # Operating Systems
 - iOS

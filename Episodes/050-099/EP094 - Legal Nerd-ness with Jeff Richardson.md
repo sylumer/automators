@@ -758,7 +758,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 53:56      | [[HomeKit]]? Why can't I tell [[HomeKit]] that when something happens to send me a text message,                |
 | 54:01      | I don't think that's possible right now at [[HomeKit]]. I am sure there's other ways that y'all can         |
 | 54:05      | tell me how to do that using third party stuff or online things. But, you know, I want [[HomeKit]] to       |
-| 54:10      | expand and do more. And sometimes I get frustrated that Apple has not been moving more quickly,         |
+| 54:10      | expand and do more. And sometimes I get frustrated that [[Apple]] has not been moving more quickly,         |
 | 54:16      | but that they are improving it, and it is getting better, which is good.                                |
 | 54:19      | I hate to do this to you, Jeff, but I'll tell you what the problem is with your doorbell cam,           |
 | 54:24      | because I have the same one as you can't put it on your Apple TV.                                       |

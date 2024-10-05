@@ -470,7 +470,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 23:58      | I always thought that was too much for what I'm doing.                                                 |
 | 24:01      | But again, I'm trying to honestly, it really depends.                                                  |
 | 24:04      | Like there are there are so many variances in the kind of ticket systems out there.                    |
-| 24:08      | You know, if you email Apple, if you email Tim Cook, you probably don't get an alter                   |
+| 24:08      | You know, if you email [[Apple]], if you email Tim Cook, you probably don't get an alter                   |
 | 24:13      | reply.                                                                                                 |
 | 24:14      | But I 100% bet that lands in a ticket system and there's a team of stops sorting it out                |
 | 24:18      | and they'll funnel things into, hey, this needs to get filed filed into feedback please                |
@@ -974,7 +974,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 55:14      | And if something like if he was using a different app or something, then that would have been          |
 | 55:18      | much more complicated.                                                                                 |
 | 55:19      | And he did try running it on his watch and it got very confused.                                       |
-| 55:23      | I'm really curious to see what Apple does with this, you know, next year or this year,                 |
+| 55:23      | I'm really curious to see what [[Apple]] does with this, you know, next year or this year,                 |
 | 55:29      | I guess.                                                                                               |
 | 55:30      | I feel like they're going to respond to this.                                                          |
 | 55:33      | But I feel like they will, yeah.                                                                       |
@@ -1202,7 +1202,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:10:02   | Yeah, exactly.                                                                                         |
 | 01:10:03   | I mean, you know, one of the things that changed for me over the last year is I've stopped             |
 | 01:10:08   | trying to be so demanding on an iPad.                                                                  |
-| 01:10:11   | I'm trying to try to treat the iPad kind of the way Apple views it in my opinion.                      |
+| 01:10:11   | I'm trying to try to treat the iPad kind of the way [[Apple]] views it in my opinion.                      |
 | 01:10:15   | So a lot of my more advanced automation, I'm not trying to like jump through a million                 |
 | 01:10:20   | hoops in shortcuts.                                                                                    |
 | 01:10:21   | I'm just writing a [[Keyboard Maestro]] script on my Mac and running it there.                             |

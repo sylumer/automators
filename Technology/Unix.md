@@ -46,7 +46,7 @@ Understanding these principles can improve problem-solving strategies and softwa
 Many operating systems have been derived from Unix, including:
 
 - **Linux** - an open-source Unix-like operating system widely used in servers, desktops, and embedded systems.
-- **macOS** - Apple's operating system for Mac computers, which is built on a Unix foundation.
+- **macOS** - [[Apple|Apple's]] operating system for Mac computers, which is built on a Unix foundation.
 - **BSD (Berkeley Software Distribution)** - A Unix-like operating system known for its reliability and advanced networking features.
 
 

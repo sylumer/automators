@@ -16,7 +16,7 @@ ScreenFlow is a professional-grade video editing and screen recording software d
 - **Audio Recording & Editing**: High-quality audio capture from computer audio, microphones, and other devices, with advanced editing features.
 - **Transitions & Animations**: Apply a variety of transitions and animations to create professional-looking videos.
 - **Templates & Stock Media**: Access to a library of pre-made templates, stock images, audio tracks, and video clips.
-- **Export Options**: Export videos in various formats and resolutions suitable for YouTube, Vimeo, Apple Devices, and other destinations.
+- **Export Options**: Export videos in various formats and resolutions suitable for YouTube, Vimeo, [[Apple]] Devices, and other destinations.
 - **Closed Captions**: Create and embed captions to make videos accessible.
 
 # Notes

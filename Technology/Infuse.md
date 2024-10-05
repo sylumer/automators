@@ -4,7 +4,7 @@ creator: Firecore
 notetype: technology
 ---
 # Overview  
-Infuse is a versatile media player application for Apple platforms that allows users to organise, stream, and play a wide range of media formats. It provides a seamless, feature-rich experience for managing media libraries, with support for a wide variety of [[Codecs\|codecs]], subtitles, and direct playback from network-stored content.
+Infuse is a versatile media player application for [[Apple]] platforms that allows users to organise, stream, and play a wide range of media formats. It provides a seamless, feature-rich experience for managing media libraries, with support for a wide variety of [[Codecs\|codecs]], subtitles, and direct playback from network-stored content.
 
 # Operating Systems  
 - iOS  
@@ -24,7 +24,7 @@ Infuse is a versatile media player application for Apple platforms that allows u
 - Library sharing for unified access across all devices
 - Picture-in-Picture mode on supported devices
 - Parental controls and content restriction settings
-- iCloud syncing for a consistent experience across Apple devices
+- iCloud syncing for a consistent experience across [[Apple]] devices
 - Custom playback settings, including playback speed and auto-play next episode
 
 # Notes  

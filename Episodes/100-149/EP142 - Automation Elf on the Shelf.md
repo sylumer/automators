@@ -440,11 +440,11 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 23:57      | But I do like to automate it, and there's a couple of ways you can do it.                           |
 | 24:02      | I'm trying to keep it simple, and this is one that absolutely lends itself to [[HomeKit]].              |
 | 24:08      | You don't have to have any fancy home assistant or any other technology to make it work.            |
-| 24:12      | If you've got Apple Tech and you've got Apple Music, you can run this holiday playlist via          |
+| 24:12      | If you've got [[Apple]] Tech and you've got Apple Music, you can run this holiday playlist via          |
 | 24:19      | a shortcut.                                                                                         |
 | 24:21      | And it's not that hard, really.                                                                     |
 | 24:23      | You just have a shortcut that plays a specific playlist on a specific device.                       |
-| 24:29      | The problem is that Apple's not consistent.                                                         |
+| 24:29      | The problem is that [[Apple\|Apple's]] not consistent.                                                         |
 | 24:35      | You can address a specific sound device on the iPhone, but not on the Mac.                          |
 | 24:41      | So every time I talk about this, people write me, like, I spent an hour, and I can't figure         |
 | 24:45      | out how to find my home bot.                                                                        |
@@ -679,7 +679,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 39:48      | You may be not using automation too often, but you're like, Hey, why not?                           |
 | 39:53      | It's the holidays.                                                                                  |
 | 39:54      | I want to automate my lights.                                                                       |
-| 39:56      | There's a couple of ways to trigger these automations on Apple platforms.                           |
+| 39:56      | There's a couple of ways to trigger these automations on [[Apple]] platforms.                           |
 | 39:59      | You can do it in the home app where it has an automations button, where you can set                 |
 | 40:03      | up an automation.                                                                                   |
 | 40:05      | You can also do them through a more advanced shortcut.                                              |
@@ -815,7 +815,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 49:51      | That's one of my recommendations.                                                                   |
 | 49:53      | Yeah, Anker makes such great batteries.                                                             |
 | 49:56      | I only buy their stuff and there's a lot of press right now about fake products that look           |
-| 50:05      | like an Apple power supply and then they X-ray them and they don't have all the parts inside        |
+| 50:05      | like an [[Apple]] power supply and then they X-ray them and they don't have all the parts inside        |
 | 50:10      | them that they need.                                                                                |
 | 50:12      | For instance, the ground wire is not attached.                                                      |
 | 50:16      | But Anker is a company I feel like I can trust.                                                     |
@@ -863,7 +863,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 52:46      | But hopefully, I found whenever I order stuff from Anchor, they use [[Amazon]] shipping, same           |
 | 52:50      | as mouse, M-O-U-S-2.                                                                                |
 | 52:53      | And yeah, that definitely speeds things up.                                                         |
-| 52:58      | And they're very much a learn from Apple, under promise, over deliver, we'll tell you               |
+| 52:58      | And they're very much a learn from [[Apple]], under promise, over deliver, we'll tell you               |
 | 53:03      | it'll be here by the end of next month and then it turns up like four days later or something       |
 | 53:07      | like that.                                                                                          |
 | 53:08      | So yeah, definitely, it's the right way to do it if you're going to make a promise there            |

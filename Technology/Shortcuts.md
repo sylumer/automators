@@ -6,9 +6,9 @@ notetype: "technology"
 ---
  
 # Overview
-Shortcuts is the successor to [[Workflow]], and provides a way to automate actions on Apple Devices including the iPhone, iPad, Mac, Apple Watch, and Home Pod. Apple acquired [[DeskConnect Inc]], the team behind Workflow, in March 2017, and then incorporated the app into the Apple ecosystem as Shortcuts in iOS 12 (released September 2018).
+Shortcuts is the successor to [[Workflow]], and provides a way to automate actions on [[Apple]] Devices including the iPhone, iPad, Mac, Apple Watch, and Home Pod. [[Apple]] acquired [[DeskConnect Inc]], the team behind Workflow, in March 2017, and then incorporated the app into the [[Apple]] ecosystem as Shortcuts in iOS 12 (released September 2018).
 
-The application utilises a feature known as the *content graph*. This feature provides Shortcuts with a processing engine that converts virtual objects from one type to another - e.g.,  images to PDFs, Markdown text to HTML or rich text. Underpinned by Apple's [[App Intent\|App Intents]] framework Shortcuts has moved away from [[URL Schemes]] as used by Workflow to provide a more flexible and resilient way of building application interactions.
+The application utilises a feature known as the *content graph*. This feature provides Shortcuts with a processing engine that converts virtual objects from one type to another - e.g.,  images to PDFs, Markdown text to HTML or rich text. Underpinned by [[Apple|Apple's]] [[App Intent\|App Intents]] framework Shortcuts has moved away from [[URL Schemes]] as used by Workflow to provide a more flexible and resilient way of building application interactions.
 
 The application uses an [[Automator]]-like drag & drop block-based linear approach to build the shortcuts. These shortcuts can be saved to file, or shared via an iCloud URL.
 

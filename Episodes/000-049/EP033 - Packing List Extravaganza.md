@@ -134,7 +134,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 03:22      | Yeah, I decided I'll try the smaller one because within two weeks, you can always return it.                                                                     |
 | 03:27      | So yeah, I went back to smaller, and I'm happy with it.                                                                                                          |
 | 03:33      | Yeah, I have to admit, because we did the thing where I gave my old phone to my daughter,                                                                        |
-| 03:37      | then I took her phone to sell it to Apple.                                                                                                                       |
+| 03:37      | then I took her phone to sell it to [[Apple]].                                                                                                                       |
 | 03:41      | I decided to try that this time.                                                                                                                                 |
 | 03:42      | I hadn't done that before, and I was looking at the smaller pro, and that's actually a                                                                           |
 | 03:48      | really nice phone.                                                                                                                                               |
@@ -282,13 +282,13 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 13:17      | It's also a trigger list, which is a great getting things done technique.                                                                                        |
 | 13:22      | This episode of Automators is brought to you by Daylight from Market Circle.                                                                                     |
 | 13:25      | Daylight is the small business CRM and project management app for Mac, iPhone and iPad.                                                                          |
-| 13:32      | Daylight is made for entrepreneurs and small businesses that use Apple devices.                                                                                  |
+| 13:32      | Daylight is made for entrepreneurs and small businesses that use [[Apple]] devices.                                                                                  |
 | 13:35      | It doesn't matter what kind of company you have, whether it's a financial service, a                                                                             |
 | 13:39      | marketing agency, photography, real estate agent, or maybe even a podcaster.                                                                                     |
 | 13:44      | Juggling multiple clients and projects can be a challenge.                                                                                                       |
 | 13:48      | You might forget to follow up or lose track of details, emails and next steps.                                                                                   |
 | 13:53      | Daylight solves all of those problems.                                                                                                                           |
-| 13:55      | It has Apple Meal, contact and calendar integration.                                                                                                             |
+| 13:55      | It has Apple Mail, Contact and Calendar integration.                                                                                                             |
 | 13:58      | You can track all your leads in the sales pipeline and it even has document management                                                                           |
 | 14:02      | so you can attach relevant files.                                                                                                                                |
 | 14:03      | Plus, you can manage projects to keep track of all of the moving pieces.                                                                                         |
@@ -297,7 +297,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 14:19      | It's worth checking out.                                                                                                                                         |
 | 14:20      | 95% of their customers that they surveyed said Daylight improves overall organisation                                                                            |
 | 14:25      | and productivity.                                                                                                                                                |
-| 14:26      | That's MarketCircle.com.                                                                                                                                         |
+| 14:26      | That's marketcircle.com.                                                                                                                                         |
 | 14:27      | Our thanks to Daylight for their support of Automators and all of Relay FM.                                                                                     |
 | 14:34      | All right.                                                                                                                                                       |
 | 14:35      | The thing I did next after that was the problem I was having is I didn't like having to read                                                                     |
@@ -906,7 +906,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 50:22      | to say a note, an OmniFocus, or a link to something.                                                                                                             |
 | 50:27      | Unique links out of OmniFocus, [[Drafts]], Ulysses, [[DEVONthink]].                                                                                                   |
 | 50:31      | All these apps make them, right?                                                                                                                                 |
-| 50:34      | Except the Apple native app.                                                                                                                                     |
+| 50:34      | Except the [[Apple]] native app.                                                                                                                                     |
 | 50:35      | In that case, you've got to come up with some goofy search term and that anyway.                                                                                 |
 | 50:41      | Whatever.                                                                                                                                                        |
 | 50:42      | Well, you can use, don't forget, 1Password has a feature where you can generate a password                                                                     |

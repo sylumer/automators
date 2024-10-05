@@ -126,7 +126,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 03:38      | extensibility.                                                                                       |
 | 03:39      | That said, I did buy mine directly from Bare Bones, so I haven't checked it, but I know              |
 | 03:45      | that there was originally with the Mac App Store, there were some definite sandboxing                |
-| 03:48      | issues where you can do this and that and the other, but Apple seemed to have lightened              |
+| 03:48      | issues where you can do this and that and the other, but [[Apple]] seemed to have lightened              |
 | 03:52      | that up in recent years.                                                                             |
 | 03:53      | And I'm very glad because something David doesn't know about me, Doug Script is one                  |
 | 03:57      | of the reasons why I got into the Mac in the first place.                                            |
@@ -168,8 +168,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 05:25      | I mean, at my site you can.                                                                          |
 | 05:27      | Any strange little thing you can find.                                                               |
 | 05:30      | I am, a few years ago, I had the pleasure of speaking at Sal's conference on automation              |
-| 05:35      | and he had a bunch of guys there from Apple or some of them.                                         |
-| 05:40      | They were from Apple, some of them were formerly Apple, talking about kind of the, you know,         |
+| 05:35      | and he had a bunch of guys there from [[Apple]] or some of them.                                         |
+| 05:40      | They were from [[Apple]], some of them were formerly [[Apple]], talking about kind of the, you know,         |
 | 05:45      | the birth of [[AppleScript]] and Apple Events and as users, you know, we kind of take it                |
 | 05:51      | for granted, but the fact that they were able to create a system and [[AppleScript]] is kind            |
 | 05:57      | of what, what drives the system, but the underlying system is Apple Events.                          |
@@ -180,12 +180,12 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 06:25      | of extra work.                                                                                       |
 | 06:27      | Thank goodness it was before all the security problems because I think in modern day, I              |
 | 06:33      | don't think that any company would ever approve you putting something like Apple Events in           |
-| 06:37      | and in fact, Apple did not approve something like that in the iOS operating system.                  |
+| 06:37      | and in fact, [[Apple]] did not approve something like that in the iOS operating system.                  |
 | 06:43      | So they created this thing and then they said, okay, we, you know, it's like the dog that            |
 | 06:47      | catches the car, what are we going to do with it?                                                    |
 | 06:49      | And then they came up with a whole idea of [[AppleScript]] and it really is something that              |
 | 06:54      | is not documented very well, but one of those little things that only could have happened            |
-| 06:59      | at Apple at a certain time.                                                                          |
+| 06:59      | at [[Apple]] at a certain time.                                                                          |
 | 07:01      | You know, it's funny you say it's not documented and then that's, you know, that's a double          |
 | 07:05      | its sword because real developers hate [[AppleScript]] because you can't nail it down.                  |
 | 07:12      | It's so squishy.                                                                                     |
@@ -304,23 +304,23 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 14:00      | Yo, $300, that's good for you.                                                                       |
 | 14:03      | And anyway, so I didn't think much of computers really, but in fact, I thought of this the           |
 | 14:10      | other day.                                                                                           |
-| 14:11      | My experience of Apple was working with an audio, with a music guy in a studio one time.             |
+| 14:11      | My experience of [[Apple]] was working with an audio, with a music guy in a studio one time.             |
 | 14:17      | And he had a sequencer, a music sequencer on his Apple II, I think it was.                           |
 | 14:22      | And every so often, he had to whack the side of it with his open palm, because something              |
 | 14:27      | inside wasn't connected correctly.                                                                   |
-| 14:29      | And that was my impression of Apple.                                                                 |
+| 14:29      | And that was my impression of [[Apple]].                                                                 |
 | 14:30      | It was like, well, if he got to hit him on the side, it can't be any good.                           |
 | 14:33      | So I might as well just hold on to the Commodore.                                                    |
 | 14:35      | Yeah, it was probably the Apple II expansions.                                                       |
 | 14:39      | Those were classic for those expansion, it was like the old video game cartridges.                   |
 | 14:44      | And if you didn't see it just right, it didn't work.                                                 |
 | 14:47      | Well, that's what must have been happening.                                                          |
-| 14:50      | So anyway, so I didn't think much of Apple until my wife needed something to print out               |
+| 14:50      | So anyway, so I didn't think much of [[Apple]] until my wife needed something to print out               |
 | 14:56      | to papers for school.                                                                                |
-| 14:58      | So I said, all right, we'll buy an Apple and we'll be fine.                                          |
+| 14:58      | So I said, all right, we'll buy an [[Apple]] and we'll be fine.                                          |
 | 15:00      | I bought a Performa or something.                                                                    |
 | 15:02      | And that had, that came with 7.1 and that had [[AppleScript]] on it.                                    |
-| 15:06      | So I was looking for something to do on the Apple because I was still using the Commodore            |
+| 15:06      | So I was looking for something to do on the [[Apple]] because I was still using the Commodore            |
 | 15:10      | for music.                                                                                           |
 | 15:11      | And I couldn't really afford any [[Apple Music]] software because that was, that's when you              |
 | 15:14      | got into expensive stuff.                                                                            |
@@ -342,7 +342,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 16:13      | And Tech Set It Plus kind of stopped developing it after a while.                                    |
 | 16:17      | But anyway, I was always looking for something to AppleScript and Sound Jam was there.              |
 | 16:23      | I was using that.                                                                                    |
-| 16:25      | And so I wrote some scripts for Sound Jam and put those up on the website and then Apple             |
+| 16:25      | And so I wrote some scripts for Sound Jam and put those up on the website and then [[Apple]]             |
 | 16:29      | bought Sound Jam.                                                                                    |
 | 16:30      | And then so I had an iTunes website.                                                                 |
 | 16:32      | So then the rest is history.                                                                         |
@@ -352,7 +352,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 16:43      | And I know a lot of listeners, I'm sure have gone to your website.                                   |
 | 16:46      | I know, I think, I think I'm a customer, I think I've bought scripts from you.                       |
 | 16:49      | You had some packages over the years that I've purchased.                                            |
-| 16:53      | And, and then Apple came out with music, Apple Music, as opposed to iTunes and we're all             |
+| 16:53      | And, and then [[Apple]] came out with music, Apple Music, as opposed to iTunes and we're all             |
 | 16:58      | worried is Doug going to be okay.                                                                    |
 | 17:00      | Yeah, my first reaction was, wait, what's happening to Doug's scripts?                               |
 | 17:05      | Well, you know, I'm trying to remember what I thought they were going to do because there            |
@@ -407,12 +407,12 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 19:43      | But you can do quite a bit using, you know, a lot of the frameworks that are available               |
 | 19:49      | otherwise to cocoa.                                                                                  |
 | 19:51      | That's something we have salsa going to think for, because everybody always saw Sal as the           |
-| 19:57      | guy who was the, you know, the advocate for automation for Apple customers.                          |
-| 20:02      | I think his job more was being the advocate for automation to Apple developers.                      |
+| 19:57      | guy who was the, you know, the advocate for automation for [[Apple]] customers.                          |
+| 20:02      | I think his job more was being the advocate for automation to [[Apple]] developers.                      |
 | 20:07      | I think he was running around.                                                                       |
 | 20:10      | One of the stories I heard recently, I hope I don't get, he didn't tell me the story.                |
 | 20:15      | It was told me about him that when one of the teams was working on a particular piece                |
-| 20:20      | of Apple software and the, the head developer of that software did not want to spend a lot           |
+| 20:20      | of [[Apple]] software and the, the head developer of that software did not want to spend a lot           |
 | 20:25      | of time on AppleScript.                                                                             |
 | 20:26      | They were working on other things.                                                                   |
 | 20:27      | It wasn't a priority that the team would put Sal into the room through the back door.                |
@@ -427,8 +427,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 21:00      | Yeah, it's true.                                                                                     |
 | 21:01      | I'm glad he did because it's really, it is a terrific, terrific thing.                               |
 | 21:04      | Yeah.                                                                                                |
-| 21:05      | And it means that we have all of these fabulous things in all of the apps that support Apple         |
-| 21:09      | script, you know, because just because an app supports AppleScript doesn't mean, well,              |
+| 21:05      | And it means that we have all of these fabulous things in all of the apps that support [[AppleScript]],         |
+| 21:09      | you know, because just because an app supports AppleScript doesn't mean, well,              |
 | 21:13      | you know, you can do everything, but there's, there's so much there that's built in by default       |
 | 21:17      | from the operating system, which gives developers a head start.                                      |
 | 21:21      | And that makes it much easier for all of us who want to automate things.                             |
@@ -436,7 +436,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 21:26      | Yep.                                                                                                 |
 | 21:27      | Yep.                                                                                                 |
 | 21:28      | One of the things I wanted to talk about was AppleScripting tools.                                  |
-| 21:30      | Now, Apple ships, AppleScript editor, which is a good tool for making AppleScripts.                |
+| 21:30      | Now, [[Apple]] ships, AppleScript editor, which is a good tool for making AppleScripts.                |
 | 21:37      | But there's also a very popular one out there called [[Script Debugger]], and, and you used              |
 | 21:41      | a different, I said it was text edit plus, I believe it was called years ago.                        |
 | 21:46      | Years ago.                                                                                           |
@@ -477,12 +477,12 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 23:35      | I really like it.                                                                                    |
 | 23:36      | Well, and it was interesting because he was at this conference, this automation conference           |
 | 23:39      | Sal gave and he talked as well and they had a list that they wanted, you know, the perfect           |
-| 23:45      | AppleScript writing app they wanted to build when they were at Apple.                               |
+| 23:45      | AppleScript writing app they wanted to build when they were at [[Apple]].                               |
 | 23:49      | And of course, you know, there's priorities, you know, and AppleScript isn't the number             |
-| 23:53      | one priority at Apple and they're like, well, we're going to give you enough time and budget         |
+| 23:53      | one priority at [[Apple]] and they're like, well, we're going to give you enough time and budget         |
 | 23:56      | to get this far down that road, but you know, you're not going to get everything on your             |
 | 24:00      | list.                                                                                                |
-| 24:01      | So, so he let when he left Apple, eventually he's like, okay, well, I'm going to finish              |
+| 24:01      | So, so he let when he left [[Apple]], eventually he's like, okay, well, I'm going to finish              |
 | 24:04      | that list.                                                                                           |
 | 24:05      | And [[Script Debugger]] is basically the AppleScript editor, plus all the extra tools, the              |
 | 24:09      | guys that made AppleScript wanted.                                                                  |
@@ -508,8 +508,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 25:14      | And so that's, that's kind of what the challenge is for me.                                          |
 | 25:16      | I've got plenty of time.                                                                             |
 | 25:17      | I mean, this is kind of what I do.                                                                   |
-| 25:20      | I mean, I know people probably imagine, oh, he gets up at seven o'clock and writes Apple             |
-| 25:23      | script all day.                                                                                      |
+| 25:20      | I mean, I know people probably imagine, oh, he gets up at seven o'clock and writes [[AppleScript]]             |
+| 25:23      | all day.                                                                                      |
 | 25:24      | That's not what I do.                                                                                |
 | 25:25      | But I mean, I have the time to spend, yeah, it's my thing, exactly.                                  |
 | 25:30      | It's my hobby and my thing.                                                                          |
@@ -618,8 +618,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 30:46      | I needed to store digital information on a computer.                                                 |
 | 30:49      | I went out and bought a Commodore and learned how to program the database, you know, sometimes       |
 | 30:53      | you just have to like, you have to do it yourself.                                                   |
-| 30:57      | Where would you recommend someone go to get started if they wanted to get better at Apple            |
-| 31:02      | script?                                                                                              |
+| 30:57      | Where would you recommend someone go to get started if they wanted to get better at [[AppleScript]]?            |
 | 31:03      | Well, it's tough to say nowadays because, you know, back in the day, AppleScript was                |
 | 31:07      | everywhere and you really could just type it AppleScript into a search engine into                  |
 | 31:10      | Jumbo, no, probably, or something like that, or Alta Vista, and, you know, when you'd find           |
@@ -665,8 +664,8 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 33:31      | And it gives you a motivation to keep learning.                                                      |
 | 33:34      | That's a good point.                                                                                 |
 | 33:35      | And I'll tell you why.                                                                               |
-| 33:36      | A lot of people see, and I don't see a lot of people, many people will see that an Apple             |
-| 33:42      | script can do something that looks fairly amazing, but they don't realise that a lot                 |
+| 33:36      | A lot of people see, and I don't see a lot of people, many people will see that an [[AppleScript]]             |
+| 33:42      | can do something that looks fairly amazing, but they don't realise that a lot                 |
 | 33:46      | of the things you can do already, for instance, they're looking for a script that will sort          |
 | 33:51      | their playlist.                                                                                      |
 | 33:52      | Well, they already have smart playlists, and they already have, you know, this column sorting        |
@@ -999,7 +998,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 51:35      | It's kind of strange.                                                                                |
 | 51:37      | But I like listening to albums.                                                                      |
 | 51:39      | Yeah, and that podcast, by the way, is The Next Track with Kirk McElhearn, who's a really              |
-| 51:44      | well-respected journalist that writes about Apple all the time.                                      |
+| 51:44      | well-respected journalist that writes about [[Apple]] all the time.                                      |
 | 51:49      | Where's Kirk writing these days?                                                                     |
 | 51:50      | I'm not sure where he's at.                                                                          |
 | 51:53      | He still writes.                                                                                     |
@@ -1287,7 +1286,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:06:57   | So I have to get, they make them more with higher wattage and I just have to spend money,            |
 | 01:07:01   | you know, but I haven't done it yet, but that, I think that someone that can make Doug's             |
 | 01:07:07   | scripts could probably go crazy, in fact, we're going to have you back on some day, Doug,            |
-| 01:07:10   | and we're going to hear how you've apple scripted your home automation.                              |
+| 01:07:10   | and we're going to hear how you've [[AppleScript\|AppleScript-ed]] your home automation.                              |
 | 01:07:14   | I remember when I was a kid, there was a book for kids, I think it was called Henry or something,    |
 | 01:07:19   | but he had to stay home one day from school and he had a big ball of string and he attached          |
 | 01:07:26   | everything that he thought he would need at home to the end of a string and he could bring           |

@@ -5,7 +5,7 @@ creator_individual: "Greg Pierce"
 notetype: "technology"
 ---
 # Overview
-Drafts is a versatile note-taking and text editing application that allows users to capture, create, and automate processing text. It is available across Apple's platforms and serves as a hub for quickly noting ideas, writing content, and transforming text into actionable matter.
+Drafts is a versatile note-taking and text editing application that allows users to capture, create, and automate processing text. It is available across [[Apple|Apple's]] platforms and serves as a hub for quickly noting ideas, writing content, and transforming text into actionable matter.
 
 # Operating Systems
 - macOS

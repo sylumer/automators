@@ -435,7 +435,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 21:00      | pace.                                                                                                     |
 | 21:01      | Masterclass gives you cinema quality classes that offer unparalleled access to a host of                  |
 | 21:05      | renowned instructors.                                                                                     |
-| 21:07      | You can explore lessons in any audio you'd like, across your phone, tablet, Apple TV,                     |
+| 21:07      | You can explore lessons in any audio you'd like, across your phone, tablet, [[Apple TV]],                     |
 | 21:11      | computer, and on the go with audio mode.                                                                  |
 | 21:13      | And lessons are approximately 10 to 15 minutes, which makes it easy to fit into your everyday             |
 | 21:17      | life.                                                                                                     |

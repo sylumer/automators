@@ -5,7 +5,7 @@ notetype: technology
 ---
 
 # Overview
-SF Symbols is a set of hundreds of icons designed by Apple for developers to use in their apps. These symbols are designed to be consistent with the overall visual language of Apple's operating systems, with the basic intention of making it easier for developers to create visually appealing and intuitive user interfaces. 
+SF Symbols is a set of hundreds of icons designed by [[Apple]] for developers to use in their apps. These symbols are designed to be consistent with the overall visual language of [[Apple|Apple's]] operating systems, with the basic intention of making it easier for developers to create visually appealing and intuitive user interfaces. 
 
 Symbols can be drawn with different colours to match an app's design aesthetic, and some symbols come in multiple weights for the outline.
 

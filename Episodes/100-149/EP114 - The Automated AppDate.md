@@ -85,9 +85,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:36      | There are rainbows.                                                                                    |
 | 01:37      | All right.                                                                                             |
 | 01:38      | Well, we're going to talk about that.                                                                  |
-| 01:39      | But first, before we get into anything, as we do, we occasionally hear from Apple, and                 |
+| 01:39      | But first, before we get into anything, as we do, we occasionally hear from [[Apple]], and                 |
 | 01:46      | they've got some new hardware.                                                                         |
-| 01:49      | Once we recorded last, Apple has added some new iPads, and we thought it'd be fun to take              |
+| 01:49      | Once we recorded last, [[Apple]] has added some new iPads, and we thought it'd be fun to take              |
 | 01:55      | a minute to talk about that.                                                                           |
 | 01:58      | So we've got the, was it the 10th generation iPad, which is almost an iPad Air, but uses               |
 | 02:05      | a really old Apple pencil?                                                                             |
@@ -108,8 +108,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 02:40      | And this was fine when everything was using lightning.                                                 |
 | 02:43      | But I guess maybe Mr. Logistics Cook guessed wrong on the number of units they were going              |
 | 02:51      | to sell or something because the new iPad is USB-C.                                                    |
-| 02:55      | And so they are selling a bonus USB-C to lightning adapter that you can buy to use the Apple           |
-| 03:00      | pencil, which is the one that works with the iPad because the new Apple pencil, the one                |
+| 02:55      | And so they are selling a bonus USB-C to lightning adapter that you can buy to use the Apple Pencil,   |
+| 03:00      | which is the one that works with the iPad because the new Apple pencil, the one                |
 | 03:05      | that magnetises to the side of your iPad, doesn't stick to it and doesn't work with                    |
 | 03:09      | it because they move the camera to the top of the iPad.                                                |
 | 03:12      | I'm just so confused.                                                                                  |
@@ -128,7 +128,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 03:49      | I don't actually have a use case for it.                                                               |
 | 03:51      | I should probably sell it, but yeah, it's a weird time to be buying an Apple pencil.                   |
 | 04:01      | I'm just looking and it's not showing up on the website.                                               |
-| 04:05      | Excellent work there, Apple.                                                                           |
+| 04:05      | Excellent work there, [[Apple]].                                                                           |
 | 04:06      | Excellent work.                                                                                        |
 | 04:07      | USB-C to Apple Pencil adapter.                                                                         |
 | 04:11      | There we go.                                                                                           |
@@ -216,10 +216,10 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 09:05      | got new silicon, a couple small changes, but overall it's not a huge change.                           |
 | 09:11      | And I'm not sure that we needed a huge change.                                                         |
 | 09:13      | Like I for one really like the current iPad design with the squared off edges.                         |
-| 09:20      | If Apple suddenly decided to like turn it into the bar of soap that the iPhone was for                 |
+| 09:20      | If [[Apple]] suddenly decided to like turn it into the bar of soap that the iPhone was for                 |
 | 09:24      | so long, I'd be sad.                                                                                   |
 | 09:26      | So I'm glad they're sticking with the same industrial design.                                          |
-| 09:29      | And I'm also happy to see that, you know, in Apple's mind, every time we get a new generation          |
+| 09:29      | And I'm also happy to see that, you know, in [[Apple|Apple's]] mind, every time we get a new generation          |
 | 09:35      | of Apple Silicon, that their products get updated.                                                     |
 | 09:38      | I mean, that's, we've already got an M2 MacBook Air, we've got an M2 iPad.                             |
 | 09:43      | If the rumors are correct, we're going to have M2 MacBook Pros.                                        |
@@ -227,7 +227,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 09:52      | because we're recording a little early this, this, this episode.                                       |
 | 09:56      | And the rumors are there's going to drop in October and November.                                      |
 | 09:59      | So it's, you know, it's good.                                                                          |
-| 10:00      | I like that Apple's doing that.                                                                        |
+| 10:00      | I like that [[Apple|Apple's]] doing that.                                                                        |
 | 10:03      | That doesn't mean if you have the M1 that you're missing out, you need to run out and                  |
 | 10:07      | get the M2.                                                                                            |
 | 10:08      | Like, this is the iPad, if somebody has an ageing iPad and they want to get the latest                  |
@@ -407,7 +407,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 20:02      | In fact, I had, you know, done the thing online where they were going to send me the box and           |
 | 20:06      | I thought, well, let me just try this one thing before I leave.                                        |
 | 20:09      | And I'll tell you, I really like this 12.9 inch iPad under my screen.                                  |
-| 20:14      | I use it all day and, you know, now that Apple has the ability to share a mouse and keyboard           |
+| 20:14      | I use it all day and, you know, now that [[Apple]] has the ability to share a mouse and keyboard           |
 | 20:19      | between the two devices, the 12.9 inch iPad is the iPad I probably use the most, but I                 |
 | 20:25      | never move it from its location.                                                                       |
 | 20:28      | And the 11 inch goes with me to Disneyland and on trips and things and even around the                 |
@@ -509,7 +509,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 26:05      | Yep.                                                                                                   |
 | 26:06      | Yeah, I will do.                                                                                       |
 | 26:07      | And, uh, yeah, I'm crossing my fingers that the new fun things will actually be new and                |
-| 26:11      | fun, but, uh, it's always good to see that, uh, Apple are, you know, bringing out updates              |
+| 26:11      | fun, but, uh, it's always good to see that, uh, [[Apple]] are, you know, bringing out updates              |
 | 26:16      | and especially, um, you know, the, the updates, the Apple TV don't sound like much, but they           |
 | 26:20      | have explicitly added a, the ability for it to be a threat border router, which for those              |
 | 26:24      | of you into smart home things, if you've been looking at a new Apple TV for a while now,               |
@@ -565,13 +565,13 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 29:22      | from the refurb store.                                                                                 |
 | 29:23      | They already had one with a touch bar.                                                                 |
 | 29:26      | Didn't seem to be around for super long, but spotlight quick actions essentially is                    |
-| 29:30      | Apple making the most of the fact that they're bringing the stocks app, the weather app,               |
+| 29:30      | [[Apple]] making the most of the fact that they're bringing the stocks app, the weather app,               |
 | 29:34      | the clock app, and things like that over to Mac OS Ventura, because now with spotlight,                |
 | 29:40      | you can run a quick action.                                                                            |
 | 29:41      | So if you type command space and enter spotlight, then you can start a timer, nine minutes,            |
 | 29:48      | or just nine minute timer seem to work for me as well.                                                 |
 | 29:51      | Or if you type weather, it'll show you the weather.                                                    |
-| 29:54      | And if you type stocks, AAPL, it shows you the Apple stock price.                                      |
+| 29:54      | And if you type stocks, AAPL, it shows you the [[Apple]] stock price.                                      |
 | 30:01      | But I think that this is really actually a good thing because we've had shortcuts in                   |
 | 30:05      | spotlight on the iPhone for a while now.                                                               |
 | 30:09      | And it was one of those things where if it's not in spotlight, all of the other apps that              |
@@ -824,7 +824,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 46:49      | are great to have.                                                                                     |
 | 46:50      | And I really believe the only reason they put the clock app on here was to enable that                 |
 | 46:55      | stuff with spotlight and shortcuts.                                                                    |
-| 46:58      | I think the app is secondary really in Apple's eyes.                                                   |
+| 46:58      | I think the app is secondary really in [[Apple|Apple's]] eyes.                                                   |
 | 47:02      | Well, I don't know if the app is secondary because this is something that I've discovered              |
 | 47:06      | periodically with my parents, you know, we'll go through this song and dance every couple              |
 | 47:10      | of months of, hey, this app's not on my Mac.                                                           |
@@ -843,7 +843,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 47:49      | And yeah, it's kind of, you know, one of those things where, yeah, okay, there's websites              |
 | 47:55      | for all of this stuff, but people who especially those upgrading from an iPad are familiar with        |
 | 48:02      | there's an app for that.                                                                               |
-| 48:04      | And especially Apple's apps, you know, they now that they've got a catalyst and, you know,             |
+| 48:04      | And especially [[Apple|Apple's]] apps, you know, they now that they've got a catalyst and, you know,             |
 | 48:10      | they're similar methods of making things cross-platform, making their own apps actually go across      |
 | 48:14      | the platform seems like a really good move.                                                            |
 | 48:17      | So I'm glad that they've done that because it will hopefully finally end the quest of                  |
@@ -864,10 +864,10 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 49:05      | Yes.                                                                                                   |
 | 49:06      | Yeah, exactly.                                                                                         |
 | 49:07      | And, you know, it's just one of those things where having everything everywhere definitely             |
-| 49:13      | makes it easier and knowing that it's Apple stuff that's available everywhere too really               |
+| 49:13      | makes it easier and knowing that it's [[Apple]] stuff that's available everywhere too really               |
 | 49:19      | helps.                                                                                                 |
 | 49:20      | You know, I've just double-checking.                                                                   |
-| 49:22      | The Mac OS Ventura, like the Apple newsroom actual article about Mac OS Ventura coming                 |
+| 49:22      | The Mac OS Ventura, like the [[Apple]] newsroom actual article about Mac OS Ventura coming                 |
 | 49:28      | out, which I'll make a point of putting in the show notes, only talks about weathering                 |
 | 49:31      | clocks.                                                                                                |
 | 49:32      | That's not even mentioned here, which is kind of funny for me.                                         |
@@ -968,7 +968,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 55:42      | But it feels like, you know, especially with things like [[Safari]] tab groups and so on, not              |
 | 55:47      | yet having actions, despite the fact that they're on iOS, like they're still a way to                  |
 | 55:51      | go.                                                                                                    |
-| 55:52      | And I don't know how much of that [[Shortcuts]] versus other teams at Apple, or if it's a                  |
+| 55:52      | And I don't know how much of that [[Shortcuts]] versus other teams at [[Apple]], or if it's a                  |
 | 55:56      | case of like they need to find the time to work together.                                              |
 | 55:59      | Yeah, I feel like there are lines for me, too.                                                         |
 | 56:02      | Like [[Shortcuts]] for me is, there are some things [[Shortcuts]] are better than [[Keyboard Maestro]].            |
@@ -1185,7 +1185,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:09:42   | And yeah, it drives me crazy that there's like a difference between these.                             |
 | 01:09:46   | And I know that it's just, that's how this works on iOS and that's how this works on                   |
 | 01:09:50   | Mac OS.                                                                                                |
-| 01:09:51   | Like they're just using the defaults, but it feels like maybe somebody at Apple needs                  |
+| 01:09:51   | Like they're just using the defaults, but it feels like maybe somebody at [[Apple]] needs                  |
 | 01:09:56   | to go, hey, the way we do things on Mac OS and iOS is totally different.                               |
 | 01:10:00   | We should take a look at this because it's confusing our users.                                        |
 | 01:10:03   | Would you like a ray of sunshine?                                                                      |
@@ -1204,7 +1204,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:10:40   | And to be clear, I don't know that, for example, the mail team is responsible for their own            |
 | 01:10:46   | shortcuts actions, but it feels to me like that's the only way that this can work long                 |
 | 01:10:50   | term.                                                                                                  |
-| 01:10:51   | One of the things that shortcuts did after being bought by Apple as workflow and made                  |
+| 01:10:51   | One of the things that shortcuts did after being bought by [[Apple]] as workflow and made                  |
 | 01:10:57   | into shortcuts was, okay, developers, here's how you make your own actions.                            |
 | 01:11:02   | You go to the difficult work on your end of figuring out what it is and how it works and               |
 | 01:11:07   | we'll provide all of the links between all of the things to connect it all together.                   |
@@ -1336,7 +1336,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:19:14   | It's more of a layering like you were talking about.                                                   |
 | 01:19:17   | That actually is really useful.                                                                        |
 | 01:19:19   | I think it's good.                                                                                     |
-| 01:19:21   | I feel like [[Stage Manager]] has taken a lot of heat from the echo chamber of Apple people.               |
+| 01:19:21   | I feel like [[Stage Manager]] has taken a lot of heat from the echo chamber of [[Apple]] people.               |
 | 01:19:29   | I think it's better than people are giving it credit for it, but it does give you that                 |
 | 01:19:33   | ability to set certain segments of apps.                                                               |
 | 01:19:36   | That's great.                                                                                          |
@@ -1344,7 +1344,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:19:40   | I think I will end up using it on the iPad, though, because there really isn't any other               |
 | 01:19:43   | options where on the Mac, there are so many options.                                                   |
 | 01:19:47   | You've got spaces.                                                                                     |
-| 01:19:52   | Apple has tried all these different window management systems over the years and they've               |
+| 01:19:52   | [[Apple]] has tried all these different window management systems over the years and they've               |
 | 01:19:56   | just left them all in.                                                                                 |
 | 01:19:57   | This is one more of several, and then there's third-party apps too, like [[Moom]] and these                |
 | 01:20:01   | other apps you can use to arrange windows and automate a bunch of this stuff.                          |
@@ -1394,7 +1394,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:22:55   | Where it falls down is the subject of the show, automation.                                            |
 | 01:22:59   | It is not nearly friendly enough with automation tools.                                                |
 | 01:23:04   | I find it funny that actually, if you look, I can't find the page now that I saw where                 |
-| 01:23:10   | Apple were talking about this, but they said, it's the automated way of doing window management.       |
+| 01:23:10   | [[Apple]] were talking about this, but they said, it's the automated way of doing window management.       |
 | 01:23:20   | Where's the automation side of it?                                                                     |
 | 01:23:22   | Because there is no shortcut support, and it seems like it's kind of like it remembers                 |
 | 01:23:31   | stuff, but it just doesn't feel like you can push things into it particularly easily.                  |
@@ -1429,7 +1429,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:25:52   | One of the problems I can see is that how does it know which one you want?                             |
 | 01:25:57   | It doesn't give you the ability to name groupings.                                                     |
 | 01:25:59   | Maybe they need to add some more underlying user-addressable identification to it.                     |
-| 01:26:06   | This is Apple.                                                                                         |
+| 01:26:06   | This is [[Apple]].                                                                                         |
 | 01:26:07   | It's a solvable problem, and it doesn't seem like they're trying to solve it.                          |
 | 01:26:11   | That's the part I don't understand.                                                                    |
 | 01:26:13   | Yeah.                                                                                                  |
@@ -1585,9 +1585,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:34:22   | my [[Stage Manager]] to work so I can have a stage, but it's a portable stage, you know, why can't         |
 | 01:34:27   | I take it with me?                                                                                     |
 | 01:34:28   | And I know stages develop into theatres, theatres don't fit in your pocket.                            |
-| 01:34:32   | Um, but this is Apple, they make anything happen.                                                      |
+| 01:34:32   | Um, but this is [[Apple]], they make anything happen.                                                      |
 | 01:34:34   | So it would be great if they could, you know, make [[Stage Manager]] at least somewhat portable.           |
-| 01:34:38   | Um, you know, and if somebody at Apple listens to that idea and goes, well, yeah, but what             |
+| 01:34:38   | Um, you know, and if somebody at [[Apple]] listens to that idea and goes, well, yeah, but what             |
 | 01:34:44   | if you don't have the same apps installed, um, on your Macs, um, I'd like to point out                 |
 | 01:34:47   | that shortcuts for iOS doesn't guarantee that you have the same shortcuts installed, um,               |
 | 01:34:52   | across your iOS and iPad OS devices.                                                                   |

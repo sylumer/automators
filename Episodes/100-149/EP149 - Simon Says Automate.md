@@ -221,7 +221,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 10:35      | But I'm guessing you didn't have access to a Vision Pro during the development phase                             |
 | 10:40      | of this.                                                                                                         |
 | 10:41      | I did not, no, I did not.                                                                                        |
-| 10:43      | I did attend one of the labs that Apple had during the, during the winter.                                       |
+| 10:43      | I did attend one of the labs that [[Apple]] had during the, during the winter.                                       |
 | 10:49      | So I did have a chance to try [[Runestone]] on the, on the Apple Vision Pro.                                     |
 | 10:54      | Well, I mean, developing for a platform you never used before is a challenge, but, but                           |
 | 10:58      | one of the things you've also done, and one of the reasons I want to talk to you with                            |
@@ -309,7 +309,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 16:44      | And if you're building straightforward actions, it's not that bad really.                                        |
 | 16:48      | And I don't want to discourage any developers from doing it, because it's also, I mean,                          |
 | 16:52      | quite fun.                                                                                                       |
-| 16:53      | I think Apple's heard that as well, there's been various new ways to create [[Shortcuts]]                        |
+| 16:53      | I think [[Apple|Apple's]] heard that as well, there's been various new ways to create [[Shortcuts]]                        |
 | 16:59      | actions and it's like, okay, great, but that way is not compatible with this way.                                |
 | 17:02      | And if you do it that old way, then you don't have this feature and so on and so forth.                          |
 | 17:07      | But they are listening and making it easier for developers.                                                      |
@@ -333,7 +333,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 18:36      | run shortcut action, but it was still working.                                                                   |
 | 18:39      | It was just it was taking text as an input instead of a variable and everything and that                         |
 | 18:44      | just somehow caused everything to break.                                                                         |
-| 18:45      | I did file feedback with Apple with the original broken shortcut and everything, but I now                       |
+| 18:45      | I did file feedback with [[Apple]] with the original broken shortcut and everything, but I now                       |
 | 18:50      | have a working automation that does not randomly go off and just, you know, open 16 different                    |
 | 18:56      | apps as it updates a bunch of stuff in the mornings, which is a huge improvement, but                            |
 | 19:00      | things like that make it difficult for developers to find what the problem is, but also difficult                |
@@ -345,10 +345,10 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 19:26      | dramatically and that just, I mean, slipped my mind in my previous rant, I guess.                                |
 | 19:31      | But the technology has become so much better.                                                                    |
 | 19:35      | And just to point out one thing, previously, originally, when we were building [[Shortcuts]]                         |
-| 19:40      | actions, our actions would run in a separate process, and that would be encouraged by Apple.                     |
+| 19:40      | actions, our actions would run in a separate process, and that would be encouraged by [[Apple]].                     |
 | 19:45      | I mean, they were like, this is the way to do it because it's way faster.                                        |
 | 19:48      | But that has changed.                                                                                            |
-| 19:50      | Apple has changed their mind, it seems, because the actions that we build now run in the same                    |
+| 19:50      | [[Apple]] has changed their mind, it seems, because the actions that we build now run in the same                    |
 | 19:55      | process as the main app, which, yeah, without getting it to like two nitty gritty, it just                       |
 | 20:03      | makes things way simpler for us as developers.                                                                   |
 | 20:06      | Yeah.                                                                                                            |
@@ -408,7 +408,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 23:25      | Simon, one of the things that's changed since we had you on last is shortcuts came to the                        |
 | 23:33      | Mac and now shortcuts is sort of envision OS and shortcuts is no longer the iPhone and                           |
 | 23:41      | iPad automation tool.                                                                                            |
-| 23:42      | It's really Apple's looking at it as a universal automation tool to be used across other devices.                |
+| 23:42      | It's really [[Apple|Apple's]] looking at it as a universal automation tool to be used across other devices.                |
 | 23:51      | Does that go into your calculus as to whether you include it and what does that add to your                      |
 | 23:56      | work if you say, I'm going to need to make this work on a Mac as well?                                           |
 | 24:01      | I guess you really don't have an app.                                                                            |
@@ -453,14 +453,14 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 26:30      | Well, you know, and another question that comes in my mind from your comments in the                             |
 | 26:35      | earlier segment was about making easier or simpler shortcuts and or shortcuts actions.                           |
 | 26:43      | And I think you're really onto something.                                                                        |
-| 26:45      | I mean, I think if you look at the shortcuts arc, Apple's goal with this, I think, is to                         |
+| 26:45      | I mean, I think if you look at the shortcuts arc, [[Apple|Apple's]] goal with this, I think, is to                         |
 | 26:51      | make very simple actions with the idea that people will make shortcuts that are between                          |
 | 26:58      | two and ten steps that solves a few small problems for them.                                                      |
 | 27:04      | And when you look at this, we've all been in this in the long game.                                              |
 | 27:08      | I remember some very advanced [[AppleScript\|AppleScripts]] we would write in the back in the old days                            |
 | 27:14      | to try and make the stuff do a lot on the Mac.                                                                   |
 | 27:18      | And it feels to me like they aren't even really aiming for that with shortcuts.                                  |
-| 27:21      | I think Apple's vision of this is that people who don't write software for a living, but                         |
+| 27:21      | I think [[Apple|Apple's]] vision of this is that people who don't write software for a living, but                         |
 | 27:26      | just want to glue a couple of apps together or just make it a little easier to get some                          |
 | 27:31      | data and want to do something and they can, you know, learn this this language very quickly                      |
 | 27:38      | because it's modular, you know, Lego like nature.                                                                |
@@ -509,14 +509,14 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 30:59      | a reply to, to people kind of asking me for these actions that details the actions, the                          |
 | 31:06      | shortcuts actions they would need to achieve the same thing.                                                     |
 | 31:09      | Yeah.                                                                                                            |
-| 31:10      | And like for instance, like when you look at the way Apple, [[Apple Notes]] to me is like                            |
+| 31:10      | And like for instance, like when you look at the way [[Apple]], [[Apple Notes]] to me is like                            |
 | 31:15      | a bit of guidance, right?                                                                                        |
 | 31:17      | [[Apple Notes]] has a ton of little atomic actions like find note, open note, you know, create                       |
-| 31:25      | note, the very simple things, but, and I feel like this is one that Apple has actually                           |
+| 31:25      | note, the very simple things, but, and I feel like this is one that [[Apple]] has actually                           |
 | 31:30      | paid attention to as opposed to [[Apple Reminders\|Reminders]], which is I think kind of behind.                                      |
 | 31:35      | But you see the shortcut support there and it's these small actions.                                             |
 | 31:40      | And it makes me wonder, I mean, now this is pure speculation territory.                                          |
-| 31:44      | We've all heard rumours that Apple is pursuing AI somehow in relation to [[Shortcuts]], maybe                         |
+| 31:44      | We've all heard rumours that [[Apple]] is pursuing AI somehow in relation to [[Shortcuts]], maybe                         |
 | 31:50      | this year, [[WWDC]], maybe next year, but I think they're really one of the goals of their AI                         |
 | 31:57      | initiative would be to simplify the on ramp to automation to say, Hey, can you, you know,                        |
 | 32:05      | use your voice to give your, your, your device an instruction and have it do something for                       |
@@ -551,12 +551,12 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 33:50      | So I'm guessing in theory, if that's possible, then you could write some AI thingy that takes                    |
 | 33:57      | text or voice and turns it into a shortcut or creates a shortcut from it.                                        |
 | 34:02      | Well, and that seems to be what Ari is working on, you know, the granddaddy of [[Shortcuts]]                         |
-| 34:07      | who's left Apple and formed a new company based on the news articles I've read, it's                             |
+| 34:07      | who's left [[Apple]] and formed a new company based on the news articles I've read, it's                             |
 | 34:14      | like he's thinking about that.                                                                                   |
-| 34:15      | But I would imagine Apple has to be thinking about that internally too.                                          |
+| 34:15      | But I would imagine [[Apple]] has to be thinking about that internally too.                                          |
 | 34:19      | Oh, yeah, yeah, I'm sure I have.                                                                                 |
-| 34:21      | Yeah, I mean, there was something in the news this week as we're recording about how Apple's                     |
-| 34:28      | shareholders want to force Apple to tell them what they're going to be doing with AI.                            |
+| 34:21      | Yeah, I mean, there was something in the news this week as we're recording about how [[Apple|Apple's]]                     |
+| 34:28      | shareholders want to force [[Apple]] to tell them what they're going to be doing with AI.                            |
 | 34:33      | And yeah, I think as well, those things are like, they've got a really long list, they're                        |
 | 34:37      | just not ready to share it yet, because of course, they're trying out all of these things.                       |
 | 34:41      | And I feel like actually, to an extent, with some of the recent [[Shortcuts]] developments                           |
@@ -601,7 +601,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 37:39      | That would be really nice because that would allow you to take advantage of what the operating                   |
 | 37:45      | system is already offering, and give users what they want, plus it encourages people                             |
 | 37:52      | to use shortcuts.                                                                                                |
-| 37:53      | And it also means that if Apple has to update that, well, the work's on them, not on you.                        |
+| 37:53      | And it also means that if [[Apple]] has to update that, well, the work's on them, not on you.                        |
 | 37:57      | And I feel like allowing developers to say, hey, these actions also work with my app would                       |
 | 38:04      | be a really nice way of getting the ball rolling there.                                                          |
 | 38:08      | Oh, yeah, yeah.                                                                                                  |
@@ -748,7 +748,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 48:16      | So Simon, we've been talking to you about app development and shortcuts, Linda.                                  |
 | 48:20      | What are you automating these days?                                                                              |
 | 48:22      | I know as a developer, I guess there are some limits as to what you can do.                                      |
-| 48:27      | You can't have it write [[Xcode]] for you, although I think Apple would like to be able to tell                     |
+| 48:27      | You can't have it write [[Xcode]] for you, although I think [[Apple]] would like to be able to tell                     |
 | 48:31      | you they could.                                                                                                  |
 | 48:32      | Right?                                                                                                           |
 | 48:33      | Isn't that the other big AI improvement we might see at some point where it starts writing                       |

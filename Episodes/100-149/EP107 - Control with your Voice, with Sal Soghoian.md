@@ -66,7 +66,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 00:30      | I so enjoy this show, and I enjoy your audience and their goals in life.                             |
 | 00:35      | Yes.                                                                                                 |
 | 00:36      | We want to automate.                                                                                 |
-| 00:37      | And Sal, for folks who don't know, worked at Apple for many years.                                   |
+| 00:37      | And Sal, for folks who don't know, worked at [[Apple]] for many years.                                   |
 | 00:43      | He is an amazing guitarist, which I never talk about, but you went to Berkeley, right,               |
 | 00:48      | Sal?                                                                                                 |
 | 00:49      | Yes.                                                                                                 |
@@ -91,10 +91,10 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:39      | Showing off.                                                                                         |
 | 01:40      | Yeah.                                                                                                |
 | 01:41      | Either way.                                                                                          |
-| 01:42      | But at Apple, your job wasn't to play the guitar.                                                    |
+| 01:42      | But at [[Apple]], your job wasn't to play the guitar.                                                    |
 | 01:46      | You worked extensively, I don't know, what was your exact title?                                     |
 | 01:49      | But I know you were the grand poobah of automation, whatever that meant, right?                      |
-| 01:53      | Actually, I was the product manager of automation technologies at Apple.                             |
+| 01:53      | Actually, I was the product manager of automation technologies at [[Apple]].                             |
 | 01:58      | Yeah.                                                                                                |
 | 01:59      | But part of my job was playing the guitar.                                                           |
 | 02:01      | I happened to, of course, hang out with the guys that were running the music software.               |
@@ -124,12 +124,12 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 03:38      | once that was very famous and they were trying to automate the process of exporting their            |
 | 03:46      | data into a format for iTunes.                                                                       |
 | 03:51      | And I automated that process while being there.                                                      |
-| 03:54      | And we shipped a set of scripts that are still being used by Apple today to automatically            |
+| 03:54      | And we shipped a set of scripts that are still being used by [[Apple]] today to automatically            |
 | 04:00      | convert the data format you have to a higher level that they use.                                    |
 | 04:06      | And the same with retail.                                                                            |
 | 04:07      | I often spent a lot of time down there on Banley hanging out with the retail folks finding           |
 | 04:13      | their issues and getting them involved with automation.                                              |
-| 04:18      | And the same with engineering and all the different groups at Apple.                                 |
+| 04:18      | And the same with engineering and all the different groups at [[Apple]].                                 |
 | 04:22      | I considered it my job to be out with the rest of the company as much as within my                   |
 | 04:27      | own world of, you know, OS product marketing.                                                        |
 | 04:31      | That's kind of fascinating because I've always felt like with respect to our audience, all           |
@@ -167,7 +167,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 06:21      | Now you are, I mean, you taught me [[AppleScript]], what would I know of it?                            |
 | 06:26      | You've written a great book called [[AppleScript]] 123 and you like our writing scripts for recording   |
 | 06:32      | studios and retail and publishing houses.                                                            |
-| 06:37      | Were you at Apple when [[AppleScript]] first came into being or you came to Apple when                  |
+| 06:37      | Were you at [[Apple]] when [[AppleScript]] first came into being or you came to [[Apple]] when                  |
 | 06:43      | it was already there, correct?                                                                       |
 | 06:46      | Yes.                                                                                                 |
 | 06:47      | I first found [[AppleScript]] in 1993 on a developer CD.                                                |
@@ -202,25 +202,25 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 09:22      | relevant stuff, put it in and format it.                                                             |
 | 09:25      | And that just took off and my whole career took off and started writing books and magazines          |
 | 09:31      | about that.                                                                                          |
-| 09:32      | And then Apple saw me and they asked me to join.                                                     |
+| 09:32      | And then [[Apple]] saw me and they asked me to join.                                                     |
 | 09:35      | And that was back in 97.                                                                             |
-| 09:37      | So I got to Apple in January of 97, which was about four years after they had started                |
+| 09:37      | So I got to [[Apple]] in January of 97, which was about four years after they had started                |
 | 09:43      | and dropped AppleScript.                                                                            |
 | 09:45      | They introduced it and immediately forgot about it.                                                  |
 | 09:50      | Yeah.                                                                                                |
 | 09:51      | But you know, somebody told me once, I'm going to, I'm going to toot your horn for you.              |
-| 09:56      | An insider at Apple once told me, yeah, you know how Apple survived the nineties?                    |
+| 09:56      | An insider at [[Apple]] once told me, yeah, you know how [[Apple]] survived the nineties?                    |
 | 10:03      | And I said, how?                                                                                     |
 | 10:04      | And he said, Sal's the going.                                                                        |
 | 10:05      | He said, Sal was writing these scripts for these publishing houses.                                  |
-| 10:08      | They were so tied to the Apple platform because of all his scripts that they had to buy Apple        |
+| 10:08      | They were so tied to the [[Apple]] platform because of all his scripts that they had to buy [[Apple]]        |
 | 10:13      | hardware.                                                                                            |
 | 10:14      | And at the time, when the company was circling the drain, what kept the lights on was the            |
 | 10:18      | hardware that Sal was selling.                                                                       |
 | 10:21      | Somebody told me about that, about you once I've never shared that with you.                         |
 | 10:24      | Okay, let's see, that narrows it down to some people I have to look at.                              |
-| 10:32      | I do think that Apple enthusiasts, we all are thankful for all the hard work you've done             |
-| 10:37      | because you really did carry the torch for automation for a lot of years when Apple wasn't,          |
+| 10:32      | I do think that [[Apple]] enthusiasts, we all are thankful for all the hard work you've done             |
+| 10:37      | because you really did carry the torch for automation for a lot of years when [[Apple]] wasn't,          |
 | 10:43      | you know, really super aggressive about it, you know, you had to like really go out and              |
 | 10:49      | advocate for it.                                                                                     |
 | 10:50      | And then the other thing you did to further tell you how much we all love you is you came            |
@@ -231,7 +231,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 11:13      | I mean, we see it in [[Keyboard Maestro]].                                                               |
 | 11:16      | All these apps out there are using this stack of action, component automation, yeah.                 |
 | 11:22      | And you were there at the beginning.                                                                 |
-| 11:25      | It was one of those rare moments in Apple history.                                                   |
+| 11:25      | It was one of those rare moments in [[Apple]] history.                                                   |
 | 11:31      | It was a confluence of a bunch of very creative people who just happened to have a spark together.   |
 | 11:39      | It was Eric Payton and Tim Bumgarner, Todd Fernandez and me and Chris Nebel and everybody            |
 | 11:47      | who was around the automation team.                                                                  |
@@ -298,7 +298,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 16:17      | We did our job.                                                                                      |
 | 16:18      | We laid the groundwork, proved the concept and Ari and the guys have taken it and they've            |
 | 16:25      | run with it.                                                                                         |
-| 16:26      | Now it's so part of Apple's core with everything that we're going to have automation forever.        |
+| 16:26      | Now it's so part of [[Apple|Apple's]] core with everything that we're going to have automation forever.        |
 | 16:34      | It's not going to go away anymore.                                                                   |
 | 16:37      | This episode of Automators is brought to you by Electric.                                            |
 | 16:40      | When leading a small business is not all glamour, in fact, sometimes it's a matter of spending       |
@@ -326,7 +326,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 18:01      | Just go to electric.ai slash Automators, that's electric.ai slash Automators.                        |
 | 18:06      | Go there now to get your free pair of Beats Solo 3 headphones today for scheduling a meeting.        |
 | 18:10      | Our thanks to Electric for their support of this show.                                               |
-| 18:14      | So Sal, since you left Apple, the shortcuts has really come to the forefront and that                |
+| 18:14      | So Sal, since you left [[Apple]], the shortcuts has really come to the forefront and that                |
 | 18:20      | must make you really happy.                                                                          |
 | 18:22      | Oh, it's tremendously gratifying to know that the team that's working on that now are just           |
 | 18:31      | so inspiring and they're really creative and they totally get it.                                    |
@@ -556,11 +556,11 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 31:37      | Make yourself a domain and make a name for yourself with Hover.                                      |
 | 31:40      | All right.                                                                                           |
 | 31:41      | Thanks to Hover for their support of the AUTOMATORS podcast and all of Relay FM.                     |
-| 31:47      | So after you left Apple, you started doing a bunch of work with Omni Group and have been             |
+| 31:47      | So after you left [[Apple]], you started doing a bunch of work with Omni Group and have been             |
 | 31:52      | working extensively on Omni Automation.                                                              |
 | 31:54      | Can you explain kind of generally what that is for folks and then I want to get into this            |
 | 31:59      | voice thing you've been working on?                                                                  |
-| 32:01      | Shortly after I left Apple, I was talking to Ken Case and Ken said that they were                    |
+| 32:01      | Shortly after I left [[Apple]], I was talking to Ken Case and Ken said that they were                    |
 | 32:07      | facing a challenge.                                                                                  |
 | 32:09      | They were trying to provide their customers with the level of automation that they had               |
 | 32:15      | been doing with AppleScript, but they wanted it uniformly on all of their devices.                  |
@@ -571,7 +571,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 32:39      | works in the real world.                                                                             |
 | 32:42      | And they came upon a couple brilliant things that really opened the door.                            |
 | 32:46      | The first was they based all of their Omni Automation on core JavaScript from WebKit.                |
-| 32:55      | And since WebKit ships on every Apple device, they had this consistent source of highly              |
+| 32:55      | And since WebKit ships on every [[Apple]] device, they had this consistent source of highly              |
 | 33:00      | optimised language that they could use.                                                              |
 | 33:04      | And so Omni Automation is JavaScript.                                                                |
 | 33:08      | And what they did is they exposed the object model of their applications kind of like they           |
@@ -598,7 +598,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 34:44      | automation script URL.                                                                               |
 | 34:47      | And then they focused on security, because you want to make sure that you just can't                 |
 | 34:53      | have these things popping off whenever you go to a web page or something.                            |
-| 34:58      | So they worked with Apple, and Apple had some great suggestions on it.                               |
+| 34:58      | So they worked with [[Apple]], and [[Apple]] had some great suggestions on it.                               |
 | 35:03      | And so the way that they ended up is that you had to enable external scripts.                        |
 | 35:08      | And the first time any script was run, you would actually see it.                                    |
 | 35:12      | And they have a window, and you can look at it, expose it, and decide whether you want               |
@@ -619,7 +619,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 36:11      | I mean, it's everywhere.                                                                             |
 | 36:12      | Yes, and that's the beauty of it.                                                                    |
 | 36:16      | It really is the way that it should be.                                                              |
-| 36:19      | You know, I always thought that Apple should have a universal scripting architecture that            |
+| 36:19      | You know, I always thought that [[Apple]] should have a universal scripting architecture that            |
 | 36:25      | works across all the devices, but they never followed that approach because they were developing     |
 | 36:31      | the different operating systems separate from each other rather than as an overall strategy.         |
 | 36:36      | iOS kind of popped up and lived in its own world, in its own set of buildings in Cupertino.          |
@@ -708,7 +708,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 42:25      | combine all of that to truly create the best automation and interaction experience that              |
 | 42:31      | you can.                                                                                             |
 | 42:32      | Right.                                                                                               |
-| 42:33      | So, during my time at Apple, I spent a lot of time with the Siri team, and we were developing        |
+| 42:33      | So, during my time at [[Apple]], I spent a lot of time with the Siri team, and we were developing        |
 | 42:41      | [[AppleScript]] running with Siri so that you could give a command, and [[AppleScript]] would              |
 | 42:47      | be the hands that would execute it.                                                                  |
 | 42:50      | And during that time, we looked a lot at how you give commands and what works best.                  |
@@ -724,7 +724,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 43:46      | in your phrases.                                                                                     |
 | 43:48      | So for example, if I had sides in, and I made in an optional word, then I could just say             |
 | 43:55      | sides, or I could say sides in, and they both would work.                                            |
-| 44:00      | And in voice control on all Apple devices, you can have multiple phrases to trigger a                |
+| 44:00      | And in voice control on all [[Apple]] devices, you can have multiple phrases to trigger a                |
 | 44:07      | command, and those phrases can have optional words.                                                  |
 | 44:12      | So you really don't need a natural language recognition engine like Siri has on a server.            |
 | 44:20      | You can create, you know, six or seven or eight or 10 variations that work with most                 |
@@ -746,7 +746,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 45:30      | the computer becomes the, the computer abstracts whatever you say and tries to interpret that        |
 | 45:38      | and, and do what it thinks you just asked for, which I think is in the long term, the answer.        |
 | 45:45      | Maybe not in our lifetimes, maybe in 10 years, I don't know.                                         |
-| 45:48      | You know, that's why Apple's putting so much effort into AI.                                         |
+| 45:48      | You know, that's why [[Apple|Apple's]] putting so much effort into AI.                                         |
 | 45:52      | But you, you took the first path with this, which I think is the right path for, for where           |
 | 45:57      | we are right now.                                                                                    |
 | 45:59      | Yeah.                                                                                                |
@@ -784,7 +784,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 48:29      | But when you combine all those together with customised voice commands that do the kind              |
 | 48:34      | of things that you do in OmniFocus, then you really have a winning recipe.                          |
 | 48:40      | And you get used to them, David, like you said, the dependability that they're there,                |
-| 48:46      | the architecture that Apple has in place on all of their devices for voice control is                |
+| 48:46      | the architecture that [[Apple]] has in place on all of their devices for voice control is                |
 | 48:51      | highly accurate, and it's also integrated with dictation.                                            |
 | 48:56      | So you can interspersed in what you're doing, start dictating in a text field, and the software      |
 | 49:03      | is intelligent enough to know the difference between when you're dictating or when you're            |
@@ -849,18 +849,18 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 52:37      | And there's a link in the show notes.                                                                |
 | 52:38      | Yes.                                                                                                 |
 | 52:39      | And that's an entire section of the website that's devoted toward using the voice control            |
-| 52:48      | interface that is part of all of Apple devices with Omni Automation.                                 |
+| 52:48      | interface that is part of all of [[Apple]] devices with Omni Automation.                                 |
 | 52:55      | Okay and so let me interrupt there for a second.                                                     |
-| 52:57      | So a fundamental piece of this is Apple's voice control engine, which they announced                 |
+| 52:57      | So a fundamental piece of this is [[Apple|Apple's]] voice control engine, which they announced                 |
 | 53:02      | I believe two years ago at [[WWDC]].                                                                     |
 | 53:05      | It started as an accessibility feature, but it's really way more than that.                          |
-| 53:10      | It's Apple's version of Dragon dictate where not only can you dictate text, but you can              |
+| 53:10      | It's [[Apple|Apple's]] version of Dragon dictate where not only can you dictate text, but you can              |
 | 53:17      | also control the operation of your Mac.                                                              |
-| 53:21      | And so that's been around for a couple years, but Apple has put a plug-in process into that.         |
+| 53:21      | And so that's been around for a couple years, but [[Apple]] has put a plug-in process into that.         |
 | 53:27      | And that's the foothold that Sal needed to do this.                                                  |
 | 53:31      | Yes.                                                                                                 |
 | 53:32      | What they implemented, first of all, they brought it to iOS, which was great, right?                 |
-| 53:38      | Because that totally frees up people to be able to use their voice on all of their Apple             |
+| 53:38      | Because that totally frees up people to be able to use their voice on all of their [[Apple]]             |
 | 53:43      | devices.                                                                                             |
 | 53:44      | But they recently implemented on the Mac the ability to take your custom commands and                |
 | 53:51      | export them as small little XML files, right?                                                        |
@@ -880,7 +880,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 55:06      | And then you map that to whatever kind of custom command you want to do.                             |
 | 55:11      | Eventually we're powered right now by the open URL action on the Mac and shortcuts on                |
 | 55:20      | iOS.                                                                                                 |
-| 55:21      | If Apple brings the open URL to iOS, then we'll have a consistent way to do across all platforms.    |
+| 55:21      | If [[Apple]] brings the open URL to iOS, then we'll have a consistent way to do across all platforms.    |
 | 55:29      | And that'll be pretty amazing.                                                                       |
 | 55:31      | But right now we have the two ways to do it.                                                         |
 | 55:33      | And it's really not difficult to install, but a lot of fun to use.                                   |
@@ -1307,7 +1307,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:22:26   | You can't actually have it just toggle voice control, which will just flip it between on             |
 | 01:22:30   | and off if you like, or you can do whatever it is you like.                                          |
 | 01:22:35   | So that's another thing to consider because I know that some employers may have requirements         |
-| 01:22:42   | about not having the, hey, Apple lady functionality, I'm not going to say it, because otherwise      |
+| 01:22:42   | about not having the, hey, [[Apple]] lady functionality, I'm not going to say it, because otherwise      |
 | 01:22:47   | my HomePods are going to trigger as well as my phone, but you know, some employers                  |
 | 01:22:52   | may have requirements about not having devices have that functionality activated at work.            |
 | 01:22:56   | And if you want a quick way to turn it on and off, then shortcuts can turn on and off                |
@@ -1416,7 +1416,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:28:43   | And they're starting to talk about that I have shortcut support in my app.                           |
 | 01:28:48   | And I just have so much confidence in the team that's there right now in their vision                |
 | 01:28:55   | and their ability to execute.                                                                        |
-| 01:28:58   | And it's just so ingrained now that it's part of the Apple environment.                              |
+| 01:28:58   | And it's just so ingrained now that it's part of the [[Apple]] environment.                              |
 | 01:29:04   | Being shortcuts, you don't need to really explain it anymore.                                        |
 | 01:29:07   | People are using it.                                                                                 |
 | 01:29:09   | And I think you're right, David, this is like a new birth of automation-ness coming up.              |
@@ -1427,8 +1427,8 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:29:32   | so they didn't bother.                                                                               |
 | 01:29:35   | But they know that people are using shortcuts.                                                       |
 | 01:29:38   | And I think users are demanding it now.                                                              |
-| 01:29:41   | They want to see shortcuts, actions, and then Apple is also, I don't know if you spent               |
-| 01:29:48   | much time with Ventura and iOS 16, but Apple is now making it easier than ever for developers        |
+| 01:29:41   | They want to see shortcuts, actions, and then [[Apple]] is also, I don't know if you spent               |
+| 01:29:48   | much time with Ventura and iOS 16, but [[Apple]] is now making it easier than ever for developers        |
 | 01:29:54   | to add shortcuts automation.                                                                         |
 | 01:29:57   | Yep.                                                                                                 |
 | 01:29:58   | Thanks to the team.                                                                                  |
@@ -1453,12 +1453,12 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:31:32   | their version of JavaScript with Omni Automation.                                                    |
 | 01:31:36   | That makes it easier for somebody that's looking to automate something very specific                 |
 | 01:31:42   | in a unique way, it makes that possible.                                                             |
-| 01:31:46   | Is what the Omni Group did something that ultimately Apple should do for the operating               |
+| 01:31:46   | Is what the Omni Group did something that ultimately [[Apple]] should do for the operating               |
 | 01:31:52   | system or is this something where you really need the app developers to implement it on              |
 | 01:31:55   | an app-by-app basis?                                                                                 |
 | 01:31:58   | No matter what you do, developers are going to have to be on board with it, right?                   |
 | 01:32:03   | And at this point, so many developers have come up with their own solutions and they're              |
-| 01:32:09   | unifying pretty much unlike the JavaScript world that if Apple came in and threw the                 |
+| 01:32:09   | unifying pretty much unlike the JavaScript world that if [[Apple]] came in and threw the                 |
 | 01:32:15   | card upside down by adding something totally different, that would be kind of disruptive             |
 | 01:32:22   | at this point.                                                                                       |
 | 01:32:24   | I don't know, I've always thought that everything should be scriptable, that every application,      |

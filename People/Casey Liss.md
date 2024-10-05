@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/caseyliss
 ![[Casey Liss.jpg|200x200]]
 
 # About
-Casey is an iOS app developer, podcaster and car reviewer living in the US. He is perhaps best known among Apple enthusiasts for his Accidental Tech Podcast (ATP).
+Casey is an iOS app developer, podcaster and car reviewer living in the US. He is perhaps best known among [[Apple]] enthusiasts for his Accidental Tech Podcast (ATP).
 
 # Guest Episodes
 ```dataviewjs

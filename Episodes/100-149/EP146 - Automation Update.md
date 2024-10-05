@@ -104,14 +104,14 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 02:17      | But we also have to make everything work.                         |
 | 02:20      | And I know that they definitely ran into some issues              |
 | 02:22      | at various points.                                                |
-| 02:23      | And I'm sure they had to file some bug reports with Apple         |
+| 02:23      | And I'm sure they had to file some bug reports with [[Apple]]         |
 | 02:26      | to try and get some things fixed in [[SwiftUI]]                       |
 | 02:31      | or try and work around it.                                        |
 | 02:33      | But I feel like they've done a really good job.                   |
 | 02:34      | And it shows with the universal unified UI                        |
 | 02:37      | that you get across all the devices now.                          |
 | 02:39      | So it's got the [[SwiftUI]], which gives it the foundation            |
-| 02:43      | to work across all Apple platforms going forward.                 |
+| 02:43      | to work across all [[Apple]] platforms going forward.                 |
 | 02:47      | So if they want to add a new feature now,                         |
 | 02:49      | it's not like implementing it three times for iPhone, iPad,       |
 | 02:54      | and Mac, or even Vision Pro going forward.                        |
@@ -221,7 +221,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 07:46      | And it's one of the features of OmniFocus                         |
 | 07:49      | that makes it the app of choice for me.                           |
 | 07:52      | But automating those in the early days was very difficult.        |
-| 07:55      | I wrote these really archaic Apple scripts                        |
+| 07:55      | I wrote these really archaic [[AppleScript\|AppleScripts]]        |
 | 08:00      | that would go through and set it a fur date.                      |
 | 08:02      | But it always felt to me kind of like throwing the dice           |
 | 08:05      | every time I ran that script.                                     |
@@ -248,7 +248,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 09:06      | to a pre-written script and then hooking up the buttons.          |
 | 09:09      | Or if you just want to use the keyboard,                          |
 | 09:11      | you can do that too.                                              |
-| 09:13      | Whereas lately, I've come to using my extended Apple keyboard.    |
+| 09:13      | Whereas lately, I've come to using my extended [[Apple]] keyboard.    |
 | 09:17      | For some reason, I got it out.                                    |
 | 09:19      | And that number pad for an automator can be quite useful.         |
 | 09:24      | Yeah, definitely.                                                 |
@@ -418,7 +418,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 16:30      | or say, okay, if it's on this iPad                                |
 | 16:32      | because I haven't updated that iPad yet, it just works.           |
 | 16:36      | And that for me is like, wow, you know, like, you know,           |
-| 16:39      | it's a feature that Apple and the shortcuts team added            |
+| 16:39      | it's a feature that [[Apple]] and the [[Shortcuts]] team added            |
 | 16:43      | a couple of iOS's ago,                                            |
 | 16:44      | but we haven't really seen it appear in many places.              |
 | 16:47      | The only place I've really seen it happen before                  |
@@ -447,7 +447,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 17:38      | So that to me is, you know, my favourite feature.                  |
 | 17:41      | Is that because of [[SwiftUI]] that it's working so well,            |
 | 17:44      | or did they do something else, you think?                         |
-| 17:46      | No, so Apple explicitly added something                           |
+| 17:46      | No, so [[Apple]] explicitly added something                           |
 | 17:49      | where if you've got two apps by the same app developer            |
 | 17:53      | and their shortcuts, the shortcuts action                         |
 | 17:55      | is using the same signature, then it is the same action.          |

@@ -4,10 +4,10 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-AirDrop is a feature on Apple devices that allows users to easily share files, photos, and other data with nearby Apple devices. It uses a combination of [[Bluetooth]] and Wi-Fi technology to create a peer-to-peer connection between devices, allowing for fast and secure file transfers without the need for an internet connection.
+AirDrop is a feature on [[Apple]] devices that allows users to easily share files, photos, and other data with nearby [[Apple]] devices. It uses a combination of [[Bluetooth]] and Wi-Fi technology to create a peer-to-peer connection between devices, allowing for fast and secure file transfers without the need for an internet connection.
 
 # How AirDrop Works
-AirDrop uses both [[Bluetooth]] and Wi-Fi technology to establish a direct connection between two Apple devices. When a user selects the files they want to share and chooses the recipient device, AirDrop creates a secure connection between the two devices using [[Bluetooth]]. Once the connection is established, AirDrop switches to a Wi-Fi connection for faster data transfer speeds.
+AirDrop uses both [[Bluetooth]] and Wi-Fi technology to establish a direct connection between two [[Apple]] devices. When a user selects the files they want to share and chooses the recipient device, AirDrop creates a secure connection between the two devices using [[Bluetooth]]. Once the connection is established, AirDrop switches to a Wi-Fi connection for faster data transfer speeds.
 
 # Privacy and Security
 AirDrop uses encryption to secure file transfers between devices, ensuring that sensitive information is not intercepted by unauthorised users. Users have the option to restrict AirDrop to only receive files from contacts or turn off AirDrop completely to prevent unwanted file transfers.

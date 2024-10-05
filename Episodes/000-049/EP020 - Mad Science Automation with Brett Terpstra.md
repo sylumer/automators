@@ -78,7 +78,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 00:27      | Did you know about the thing called [[WWDC]]?                                                             |
 | 00:31      | Have you heard of it before?                                                                          |
 | 00:32      | Yeah.                                                                                                 |
-| 00:33      | Yeah, the Apple annual developers conference.                                                         |
+| 00:33      | Yeah, the [[Apple]] annual developers conference.                                                         |
 | 00:36      | We're pulling you out of Europe and bringing you back to California.                                  |
 | 00:39      | Yeah.                                                                                                 |
 | 00:40      | Yeah.                                                                                                 |
@@ -354,16 +354,16 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 15:55      | to create something for both the iOS and the Mac.                                                     |
 | 15:59      | So if you're working on both platforms, it's very helpful.                                            |
 | 16:02      | I think the really underlying problem is that doesn't need to come from Omni, it needs to             |
-| 16:06      | come from Apple.                                                                                      |
+| 16:06      | come from [[Apple]].                                                                                      |
 | 16:07      | And, and I don't know if we ever will see something.                                                  |
-| 16:11      | I don't know if Apple cares enough to develop something like AppleScript across both platforms.      |
+| 16:11      | I don't know if [[Apple]] cares enough to develop something like AppleScript across both platforms.      |
 | 16:15      | Well, I hear they have this automation team working with the Siri people who are really,              |
 | 16:21      | you know, into this kind of thing.                                                                    |
 | 16:22      | So maybe, maybe the shortcuts guys will get their hands on this.                                      |
 | 16:25      | Yeah.                                                                                                 |
-| 16:26      | There was a lot of fear for everyone when Sal was removed from Apple.                                 |
+| 16:26      | There was a lot of fear for everyone when Sal was removed from [[Apple]].                                 |
 | 16:30      | Yeah.                                                                                                 |
-| 16:31      | Everyone assumed, oh, Apple just doesn't care about automation, but then with the acquisition         |
+| 16:31      | Everyone assumed, oh, [[Apple]] just doesn't care about automation, but then with the acquisition         |
 | 16:36      | of workflow and their stunning ability not to ruin it, yeah, my faith was restored.                   |
 | 16:44      | I think at least for iOS, well, not only have they not ruined it, they've improved it.                |
 | 16:49      | I mean, workflow had limitations that Siri shortcuts do not and that they've continued                |
@@ -381,7 +381,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 17:37      | that in a smart way and I see the more apps that add shortcut actions, the more interactivity         |
 | 17:46      | we'll be able to do without the hassle of JavaScript.                                                 |
 | 17:50      | Yeah.                                                                                                 |
-| 17:51      | And I think that's the path Apple sees too.                                                           |
+| 17:51      | And I think that's the path [[Apple]] sees too.                                                           |
 | 17:53      | I mean, we were just talking a few episodes ago about, you know, what's going to happen               |
 | 17:57      | next in one idea being floated is what if Siri shortcuts finds its way to the Mac and                 |
 | 18:03      | that would be great, but it's definitely not going to be as powerful as what like you're              |
@@ -768,7 +768,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 38:18      | Just say it.                                                                                          |
 | 38:19      | Just say it.                                                                                          |
 | 38:20      | Stop typing.                                                                                          |
-| 38:21      | I do think it's on Apple a little bit because you have to have the cursor in the right place          |
+| 38:21      | I do think it's on [[Apple]] a little bit because you have to have the cursor in the right place          |
 | 38:27      | to make the search work.                                                                              |
 | 38:29      | I feel like the operating system could be fixed to say, look, if you're in YouTube and you            |
 | 38:34      | hold the microphone button down, just go to the search and type in, you know, it's not                |
@@ -782,7 +782,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 39:00      | Siri should do that.                                                                                  |
 | 39:01      | But if you say something and it goes, I'll put this in the search of the application that             |
 | 39:06      | I'm currently in.                                                                                     |
-| 39:07      | That would be a smart solution from Apple and that would be a great automation for us                 |
+| 39:07      | That would be a smart solution from [[Apple]] and that would be a great automation for us                 |
 | 39:11      | so that we could be even lazier, which everybody loves to be.                                         |
 | 39:14      | You know, you can specify apps to search now.                                                         |
 | 39:18      | You can say search for this in YouTube or search Netflix for this.                                    |
@@ -977,7 +977,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 50:30      | If you have a touch bar on your laptop, you can put stuff on there like the time or whatever,         |
 | 50:35      | you know, just pieces of data that are important to you are just going to show up there.              |
 | 50:40      | And I feel like [[BetterTouchTool]] is like, I mean, it'll never get sure locked because                |
-| 50:47      | it's too nerdy, but man, Apple didn't even think about that stuff when they shipped the,              |
+| 50:47      | it's too nerdy, but man, [[Apple]] didn't even think about that stuff when they shipped the,              |
 | 50:53      | you know, this touch bar.                                                                             |
 | 50:54      | But anyway.                                                                                           |
 | 50:55      | Well, and all the way back to its original intention with the track pad, like I am so                 |

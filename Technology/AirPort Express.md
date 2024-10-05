@@ -4,7 +4,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-The AirPort Express was a small wireless router created by Apple. It was released in 2004 and discontinued in 2018. The primary purpose of the AirPort Express was to help users set up a wireless home network easily.
+The AirPort Express was a small wireless router created by [[Apple]]. It was released in 2004 and discontinued in 2018. The primary purpose of the AirPort Express was to help users set up a wireless home network easily.
 
 # Key Features
 
@@ -13,7 +13,7 @@ The AirPort Express was a small wireless router created by Apple. It was release
 - It operated on both the 2.4GHz and 5GHz frequency bands, helping to reduce interference and improve network performance.
 
 ## AirPlay
-One of the most popular features was AirPlay. Users could stream audio from [[iTunes]], [[Apple Music]], or any other app on their Apple devices directly to speakers connected to the AirPort Express. This was handy for setting up wireless multi-room audio systems without needing additional expensive equipment.
+One of the most popular features was AirPlay. Users could stream audio from [[iTunes]], [[Apple Music]], or any other app on their [[Apple]] devices directly to speakers connected to the AirPort Express. This was handy for setting up wireless multi-room audio systems without needing additional expensive equipment.
 
 > [!INFO] AirPlay Today
 > See [[AirPlay]] for how the feature expanded across the ecosystem.

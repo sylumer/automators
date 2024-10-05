@@ -85,16 +85,16 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 01:13      | So that's good.                                                                                    |
 | 01:14      | I mean, you say that, David.                                                                       |
 | 01:16      | I believe at that point we'd actually recorded two trial episodes and then the wonderful           |
-| 01:24      | folks at Apple were like, oh, by the way, here's shortcuts.                                        |
+| 01:24      | folks at [[Apple]] were like, oh, by the way, here's shortcuts.                                        |
 | 01:27      | So we just had to throw it out and start over again.                                               |
 | 01:29      | But that was probably a pretty good sign that automation is important to people because            |
 | 01:35      | look at where we are now.                                                                          |
-| 01:38      | Folks said that workflow wouldn't be as good under the Apple banner, but I'd argue that            |
+| 01:38      | Folks said that workflow wouldn't be as good under the [[Apple]] banner, but I'd argue that            |
 | 01:41      | it is so much better than it could ever previously been because it's got such deep integration     |
 | 01:47      | and automation in general has just come so far in such a good way.                                 |
 | 01:52      | And more to come.                                                                                  |
 | 01:53      | I expect, I feel like we're going to get even more like AI-themed automation in a few months       |
-| 01:59      | from Apple too.                                                                                    |
+| 01:59      | from [[Apple]] too.                                                                                    |
 | 02:00      | So I can't wait to see what we have next, but it is nice to stop for a moment and just             |
 | 02:04      | appreciate and enjoy getting to episode 150.                                                       |
 | 02:08      | Today on the bonus section for our members, for the automators, members, we're going to            |
@@ -244,7 +244,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 11:46      | just super easy.                                                                                   |
 | 11:48      | Another piece of it that I like is the [[Dropbox]] support.                                            |
 | 11:52      | I feel like they did a really good job of making [[Dropbox]] work with it.                             |
-| 11:56      | You know, [[Dropbox]] does, wants to do more under the hood than Apple really wants it to, but         |
+| 11:56      | You know, [[Dropbox]] does, wants to do more under the hood than [[Apple]] really wants it to, but         |
 | 12:02      | with this third-party integration, you can right-click to get your share links and all             |
 | 12:07      | that stuff just, I feel like is really beneficial.                                                 |
 | 12:10      | Yes, yeah, I would agree.                                                                          |
@@ -318,7 +318,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 16:15      | One of the things I really like about [[Path Finder]] is the drop stack where you can just drop         |
 | 16:21      | files into it.                                                                                     |
 | 16:22      | It's like a shelf basically in the [[Finder]].                                                         |
-| 16:24      | I wish Apple would copy that feature.                                                              |
+| 16:24      | I wish [[Apple]] would copy that feature.                                                              |
 | 16:26      | I think that's often useful, like when you're going between things.                                |
 | 16:31      | You've got also, of course, you know, multi-paying support and that other stuff that you get,      |
 | 16:38      | you know, with [[Forklift]].                                                                           |
@@ -516,7 +516,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 29:32      | Yeah.                                                                                              |
 | 29:33      | It really feels like [[Default Folder X]] started with one feature and it's been around forever.       |
 | 29:39      | I mean, the reason it's called X, I believe, is because it was on, it predates Steve Jobs'         |
-| 29:46      | return to Apple.                                                                                   |
+| 29:46      | return to [[Apple]].                                                                                   |
 | 29:47      | It was, it was either on next, I think it was on next and then came to the Mac with                |
 | 29:55      | Steve Jobs move and the, and the transition back in the day, or it was already on Mac,             |
 | 30:00      | but it's just been around a long time.                                                             |

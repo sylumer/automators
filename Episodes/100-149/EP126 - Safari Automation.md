@@ -114,12 +114,12 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 02:17      | And you know, you helped me generate that when we used a race for it.                              |
 | 02:20      | It's more complicated than a very simple text list, but I'm really happy with it.                  |
 | 02:26      | Either way, today we wanted to talk about [[Safari]] automation and I know this is a very              |
-| 02:32      | narrow topic, but [[Safari]] is Apple's browser.                                                       |
+| 02:32      | narrow topic, but [[Safari]] is [[Apple|Apple's]] browser.                                                       |
 | 02:36      | They use it across all their devices.                                                              |
 | 02:39      | The reason I use [[Safari]] more than any other is because it's so respectful of battery life          |
 | 02:45      | compared to its competitors.                                                                       |
 | 02:47      | And I do a lot of stuff on mobile, you know, when you're in your laptop, your iPad, your           |
-| 02:50      | iPhone, you don't watch your browser killing your battery and Apple does a good job of             |
+| 02:50      | iPhone, you don't watch your browser killing your battery and [[Apple]] does a good job of             |
 | 02:54      | that.                                                                                              |
 | 02:55      | I'm also pretty invested in iCloud and I like the way it shares tabs and does things.              |
 | 02:59      | But there are limitations and we're going to talk about that today.                                |
@@ -181,7 +181,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 06:19      | But I do think you kind of have a great point that the first step of automating [[Safari]] is          |
 | 06:25      | in the setup of the application.                                                                   |
 | 06:28      | I think a lot of people just go with the default setups and those are okay, but those are made     |
-| 06:34      | by Apple for all consumers.                                                                        |
+| 06:34      | by [[Apple]] for all consumers.                                                                        |
 | 06:35      | But if you're an automator, you may need to take it up a much.                                     |
 | 06:39      | Yeah.                                                                                              |
 | 06:40      | Yeah.                                                                                              |
@@ -379,7 +379,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 19:02      | them to the search result.                                                                         |
 | 19:05      | If I copy the link from [[DuckDuckGo]], I get the link that is the real link.                          |
 | 19:09      | It's the end result.                                                                               |
-| 19:10      | So if I was searching for Apple, then the Google link would be Google blah blah blah               |
+| 19:10      | So if I was searching for [[Apple]], then the Google link would be Google blah blah blah               |
 | 19:14      | blah blah blah blah blah blah blah blah, you know, something very decipherable.                    |
 | 19:18      | And then if I copy it from..go, it'll be apple.com, or HTTPS colon, www.apple.com.                 |
 | 19:26      | And that is just something that I really like, because it can give somebody the real link.         |
@@ -954,7 +954,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 55:33      | Um, and, you know, hopefully at some point, if we get better tab group support and other           |
 | 55:37      | automation things, then, um, you know, just like a bunch can open different [[Google Chrome\|Chrome]] profiles,       |
 | 55:43      | maybe, you know, it can also open things in particular [[Safari]] tab groups that will be              |
-| 55:47      | really cool, assuming that, you know, Apple give, you know, the support, uh, for this              |
+| 55:47      | really cool, assuming that, you know, [[Apple]] give, you know, the support, uh, for this              |
 | 55:55      | because right now that's kind of missing, but, uh, yeah, just to, just to continue on              |
 | 55:59      | obviously, um, you know, [[Keyboard Maestro]] also has some great integration options.                 |
 | 56:04      | Um, and one of the things that I do, um, which, you know, maybe, maybe this is over the top        |
@@ -1022,7 +1022,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:00:14   | You know, there are points where shortcuts does good and other points where it falls               |
 | 01:00:18   | down.                                                                                              |
 | 01:00:19   | There's one huge gaping problem, which we're going to talk about when we get to talking            |
-| 01:00:23   | about tab groups, um, but the, uh, in general, I feel like the Apple's done a pretty good          |
+| 01:00:23   | about tab groups, um, but the, uh, in general, I feel like the [[Apple|Apple's]] done a pretty good          |
 | 01:00:28   | job of giving us a nice set of tools to, uh, to automate [[Safari]] with other than opening            |
 | 01:00:34   | tabs.                                                                                              |
 | 01:00:35   | What other things do you do with shortcuts in [[Safari]]?                                              |
@@ -1186,7 +1186,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:10:14   | We can.                                                                                            |
 | 01:10:15   | I do love TAB groups.                                                                              |
 | 01:10:19   | They're pretty awesome.                                                                            |
-| 01:10:20   | TAB groups are a feature Apple added, I believe two years ago now, where it solves the problem     |
+| 01:10:20   | TAB groups are a feature [[Apple]] added, I believe two years ago now, where it solves the problem     |
 | 01:10:27   | we were talking about in the last segment of opening up a group of tabs to do a specific           |
 | 01:10:30   | task and then you can have them and you can just jump between them with a click of the             |
 | 01:10:36   | mouse on the Mac or a selection on the iPhone and iPad.                                            |
@@ -1203,7 +1203,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:11:18   | Any time I want, I click on one of those and it just opens them up for me, gives me exactly        |
 | 01:11:22   | what I want.                                                                                       |
 | 01:11:24   | I love them, but then there is a but.                                                              |
-| 01:11:29   | Apple hasn't got its Automation Act together fully with this stuff yet.                            |
+| 01:11:29   | [[Apple]] hasn't got its Automation Act together fully with this stuff yet.                            |
 | 01:11:33   | No, the thing that for me is missing straight off the bat is reset my TAB group.                   |
 | 01:11:38   | I want to be able to reset my TAB group back to just those tabs that I had when I started,         |
 | 01:11:45   | because my TAB group is actually something that this is the basis and then I'm going               |
@@ -1304,7 +1304,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:17:35   | a nice solution, and then it'd be very easy to see the kind of junk tabs that get added            |
 | 01:17:41   | as you're doing the project and make it really easy to clear those out, and then kind of reset     |
 | 01:17:45   | it, like you were saying.                                                                          |
-| 01:17:49   | Apple just give me and Rose a day up there to talk to a couple of engineers, but we'll             |
+| 01:17:49   | [[Apple]] just give me and Rose a day up there to talk to a couple of engineers, but we'll             |
 | 01:17:52   | sort it out for you, no problem.                                                                   |
 | 01:17:54   | I think, David, you've just made me realise I've had a [[Safari]] bug every once in a while            |
 | 01:17:58   | where a tab can't be moved to another window, like it kind of duplicates itself into the           |

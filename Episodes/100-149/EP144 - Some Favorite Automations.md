@@ -216,7 +216,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 10:17      | And the thing that you wanted to do at that time could be pushed back by 15, 20 minutes.           |
 | 10:21      | Then yeah, I think using the just open an app at this time automations can be a little             |
 | 10:27      | bit tricky.                                                                                        |
-| 10:29      | So yeah, it's one of those things where I, it almost makes me wonder, Apple, we're kind            |
+| 10:29      | So yeah, it's one of those things where I, it almost makes me wonder, [[Apple]], we're kind            |
 | 10:33      | of slow to implement, you know, automation, like proper automation for all of the other            |
 | 10:38      | triggers, but they were really gung-ho happy of, yeah, sure, at this specific time, your           |
 | 10:42      | phone could just go off and do this thing for you.                                                 |

@@ -7,7 +7,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-Calendar is Apple's stock application for management of event information. It runs on iPhone, iPad, Mac, and Apple Watch, and includes extensive support in Shortcuts. It provides a user-friendly interface for creating, editing, and viewing calendars to keep track of important dates and events.
+Calendar is [[Apple|Apple's]] stock application for management of event information. It runs on iPhone, iPad, Mac, and Apple Watch, and includes extensive support in Shortcuts. It provides a user-friendly interface for creating, editing, and viewing calendars to keep track of important dates and events.
 
 # Operating Systems  
 - macOS
@@ -34,7 +34,7 @@ Calendar is Apple's stock application for management of event information. It ru
 
 # Notes  
 - Apple Calendar is free to use on macOS and iOS devices
-- It supports integration with Apple's [[Shortcuts]] app for automation tasks
+- It supports integration with [[Apple|Apple's]] [[Shortcuts]] app for automation tasks
 - Calendar's database acts as a calendar database for many other calendar apps because it is part of iCloud services.
 
 # Links  

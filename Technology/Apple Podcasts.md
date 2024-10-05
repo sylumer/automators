@@ -6,7 +6,7 @@ notetype: "technology"
 ---
 
 # Overview
-Podcasts is an Apple app for playing podcasts via download or streaming. It evolved out of the podcasts functionality available in [[iTunes]]. With Podcasts, users can access and organise shows, explore new content, and download episodes for offline listening.
+Podcasts is an [[Apple]] app for playing podcasts via download or streaming. It evolved out of the podcasts functionality available in [[iTunes]]. With Podcasts, users can access and organise shows, explore new content, and download episodes for offline listening.
 
 # Operating Systems  
 - macOS
@@ -32,7 +32,7 @@ Podcasts is an Apple app for playing podcasts via download or streaming. It evol
 - Support for CarPlay for easy listening while driving
 
 # Notes  
-- Podcasts is a free application available on all supported Apple platforms.
+- Podcasts is a free application available on all supported [[Apple]] platforms.
 - The app supports Siri voice commands for hands-free control.
 - Podcasts actions can be found in [[Shortcuts]].
 

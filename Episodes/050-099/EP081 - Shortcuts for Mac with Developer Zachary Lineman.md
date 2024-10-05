@@ -162,8 +162,8 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 05:11      | A little history lesson.                                                                             |
 | 05:12      | Back in the workflow days, that was a method that they used to allow you to export and               |
 | 05:17      | share shortcuts or workflows.                                                                        |
-| 05:20      | And then when the workflow got purchased by Apple, there was a couple years of uncertainty           |
-| 05:26      | whether Apple was going to make that a thing or not.                                                 |
+| 05:20      | And then when the workflow got purchased by [[Apple]], there was a couple years of uncertainty           |
+| 05:26      | whether [[Apple]] was going to make that a thing or not.                                                 |
 | 05:28      | And now it seems like they fully embraced it and the export methods that we've got coming            |
 | 05:35      | with iOS 15 and as Zach has already discovered with the P list of, we are able to edit those         |
 | 05:42      | files and create and move shortcuts that way.                                                        |
@@ -241,7 +241,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 09:19      | What kind of resources have you been using for our other listeners who are curious, you              |
 | 09:22      | know, I want to learn [[Swift]] as well?                                                                 |
 | 09:24      | You know, obviously I'm guessing when [[Swift]] first came out, that's when they were at the             |
-| 09:28      | Apple resources and the Apple resources and that was it.                                             |
+| 09:28      | [[Apple]] resources and the [[Apple]] resources and that was it.                                             |
 | 09:32      | But nowadays, of course, there's a little bit more out there.                                        |
 | 09:35      | When I first started off, I was using YouTube, just like YouTube tutorials.                          |
 | 09:39      | And that's what I've really used for a long time.                                                    |
@@ -387,7 +387,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 16:41      | It feels really hacky to be doing that, especially right now on iOS 15, where how do I put this?     |
 | 16:48      | Drag and drop is feeling very broken.                                                                |
 | 16:51      | Things don't land where I expect them to.                                                            |
-| 16:53      | I have sent feedback to Apple on this.                                                               |
+| 16:53      | I have sent feedback to [[Apple]] on this.                                                               |
 | 16:55      | I am sure the shortcuts team is aware of this.                                                       |
 | 16:58      | But yeah, it's one of those things where, you know, it's difficult.                                  |
 | 17:01      | And also things like I'm going to use a really basic example here, setting the volume on             |
@@ -622,7 +622,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 30:27      | I mean, these are tools to make shortcuts.                                                           |
 | 30:29      | They're not really anything more than that, but there's a market out there.                          |
 | 30:33      | People are supporting these people and allowing them to make stuff.                                  |
-| 30:37      | And also, frankly, I'm thankful that Apple is taking kind of a liberal approach to these             |
+| 30:37      | And also, frankly, I'm thankful that [[Apple]] is taking kind of a liberal approach to these             |
 | 30:41      | tools and allowing them to be released.                                                              |
 | 30:44      | I mean, make it an IDE for shortcuts.                                                                |
 | 30:47      | I don't know that that was a sure thing.                                                             |
@@ -644,7 +644,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 31:37      | eventually.                                                                                          |
 | 31:38      | But yeah, I spent a while with them and app review trying to figure out what was wrong.              |
 | 31:44      | But it did eventually get approved after about a month.                                              |
-| 31:47      | And I'm not trying to be like an Apple cheerleader, but I do think, frankly, the shortcuts team      |
+| 31:47      | And I'm not trying to be like an [[Apple]] cheerleader, but I do think, frankly, the shortcuts team      |
 | 31:52      | is all four stuff like this.                                                                         |
 | 31:53      | And I think they want this stuff to get out there because, you know, they can't.                     |
 | 31:58      | They can't make a text editor, you know, JavaScript shortcuts builder because that's                 |
@@ -811,7 +811,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 40:24      | That's Audible.com/Automators or text Automators to 500-500.                                   |
 | 40:30      | I hope you love Audible as much as I do.                                                             |
 | 40:33      | Our thanks to Audible for their support of the Automators and all of Relay FM.                       |
-| 40:38      | Alright, so as we're recording this, Apple is in the midst of the betas for iOS 15 and               |
+| 40:38      | Alright, so as we're recording this, [[Apple]] is in the midst of the betas for iOS 15 and               |
 | 40:44      | Mac OS Monterey and Shortcuts is coming over to the Mac and I understand Jellycuts is               |
 | 40:52      | too.                                                                                                 |
 | 40:53      | Yes, yeah, Jellycuts is coming to the Mac with a native [[SwiftUI]] app.                               |
@@ -1072,7 +1072,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 56:52      | now?                                                                                                 |
 | 56:53      | I mean, what do they say to you when they realise what you're up to?                                 |
 | 56:56      | Yeah, my parents have been super supportive of everything I've done, and helping me through          |
-| 57:01      | everything, especially with all the Apple stuff.                                                     |
+| 57:01      | everything, especially with all the [[Apple]] stuff.                                                     |
 | 57:05      | Yeah.                                                                                                |
 | 57:06      | And then yeah, my friends also really supportive of everything.                                      |
 | 57:10      | Whenever anyone is like, or my parents have posted stuff and they're like, I mean, my                |
@@ -1099,23 +1099,23 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 58:09      | you end up, you're going to do fine.                                                                 |
 | 58:11      | I mean, I think we all know that Zachary Lyman has a future with this stuff.                         |
 | 58:18      | Thank you.                                                                                           |
-| 58:19      | Would you say no to an internship at Apple if they offered you one?                                  |
+| 58:19      | Would you say no to an internship at [[Apple]] if they offered you one?                                  |
 | 58:23      | Probably not.                                                                                        |
 | 58:24      | I would say yeah for an internship.                                                                  |
 | 58:26      | Yeah.                                                                                                |
 | 58:27      | I think it's one of those things where I've seen quite a few developers who've done                  |
-| 58:33      | internships with Apple and Christy and the guy behind Apollo is one of them.                         |
+| 58:33      | internships with [[Apple]] and Christy and the guy behind Apollo is one of them.                         |
 | 58:39      | The Nudget developer, of course, you know, there's some people who are very good developers          |
 | 58:43      | who've done that.                                                                                    |
 | 58:44      | And yeah, I always find it super interesting.                                                        |
 | 58:46      | So you've already got a great app under your belt.                                                   |
 | 58:49      | So I think you might even get to chill out a little bit while you're doing that.                     |
 | 58:54      | I mean, I say that.                                                                                  |
-| 58:55      | I don't think working at Apple is really chilled.                                                    |
+| 58:55      | I don't think working at [[Apple]] is really chilled.                                                    |
 | 58:57      | I think it's probably quite a bit going on.                                                          |
 | 58:59      | I have a feeling they give their interns plenty to do.                                               |
 | 59:02      | Yeah, without writing an app on the side, you know, from scratch at the same time, perhaps.          |
-| 59:08      | I feel like if they put Zach as an internet Apple, there'd be like some secret button                |
+| 59:08      | I feel like if they put Zach as an internet [[Apple]], there'd be like some secret button                |
 | 59:12      | in Shortcuts, nobody would know it, like maybe an invisible button and you tap it and suddenly       |
 | 59:18      | it goes into command line mode.                                                                      |
 | 59:20      | It was like, how did this get here?                                                                  |
@@ -1126,7 +1126,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 59:34      | You've got third party integration, you've got the Mac stuff coming out.                             |
 | 59:39      | What should users be looking for?                                                                    |
 | 59:42      | Definitely iOS 15 support coming soon.                                                               |
-| 59:46      | I've been working really hard on adapting to Apple's new sharing standards for iOS 15.               |
+| 59:46      | I've been working really hard on adapting to [[Apple|Apple's]] new sharing standards for iOS 15.               |
 | 59:52      | I had to build an entire signing server for Shortcuts recently just to get it to work on             |
 | 59:59      | iOS 15, so I'm super excited to get that out.                                                        |
 | 01:00:03   | Definitely the iOS 15 support and then all of the Jelly, just the Jelly language evolution           |

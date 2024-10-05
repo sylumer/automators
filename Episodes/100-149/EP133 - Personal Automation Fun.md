@@ -354,8 +354,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 18:55      | Now, thanks to Vitally for their support of this show and really AFM.                                   |
 | 19:01      | I've got one for you.                                                                                  |
 | 19:02      | It's quite simple, but we're going to start simple and get more complex through the show.              |
-| 19:07      | But I have recently been doing a lot of testing with [[Apple Reminders\|Apple's Reminders app]].                            |
-| 19:11      | We're in beta season, so I always like to try and kick the tires on what Apple's working               |
+| 19:07      | But I have recently been doing a lot of testing with [[Apple Reminders\|[[Apple|Apple's]] Reminders app]].                            |
+| 19:11      | We're in beta season, so I always like to try and kick the tires on what [[Apple|Apple's]] working               |
 | 19:15      | on.                                                                                                    |
 | 19:16      | And one of the things about it that is more difficult than with OmniFocus is capture,                  |
 | 19:23      | the creating a new task isn't as easy as it is with some more powerful task managers.                  |
@@ -433,7 +433,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 24:03      | I didn't take that many slots on my root directory, and I liked the ability to just tap an icon        |
 | 24:08      | in the dock and then tap an icon in to have a pre-filled task item.                                    |
 | 24:12      | With [[Apple Reminders\|Reminders]], it feels like a lot more.                                                              |
-| 24:14      | But honestly, I don't know that I'll be using [[Apple Reminders\|Reminders]] in a few months once Apple ships               |
+| 24:14      | But honestly, I don't know that I'll be using [[Apple Reminders\|Reminders]] in a few months once [[Apple]] ships               |
 | 24:18      | all this stuff.                                                                                        |
 | 24:19      | So maybe I'll just go with it as it is for now.                                                        |
 | 24:22      | But that's a nice way to handle the problem.                                                           |
@@ -686,7 +686,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 42:34      | to try it out. I mean, I did give it a solo try for a couple of days. And then I decided               |
 | 42:40      | that I had too much going on in my life at the moment to actually consider really switching            |
 | 42:45      | productivity systems because that's always an endeavor. And so instead, I decided that                 |
-| 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, Apple            |
+| 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, [[Apple]]            |
 | 42:58      | lady, add this thing to blah, blah list or remind me to bunk. And so I've mentioned                    |
 | 43:05      | this before, you know, I have reminders, you know, when I get out of the car, when I get               |
 | 43:09      | home and things like that. So anything that I add to [[Apple Reminders\|Reminders]], my default list in [[Apple Reminders\|Reminders]]           |
@@ -714,11 +714,11 @@ Rose and David share a collection of their favourite personal automations rangin
 | 45:17      | due at the same time because due watches that list. And then everything else in automated              |
 | 45:23      | processing gets dumped into my OmniFocus inbox. Very, very simple. But anything on my shopping         |
 | 45:29      | list or my grocery list gets a little extra processing. Now, I should know actually in                 |
-| 45:35      | both automated processing and this, I have a tendency to say, Hey, Apple lady, blah,                   |
-| 45:42      | blah, blah. And then every so often Apple lady will get, you know, a little bit confused.              |
-| 45:47      | And so I'll be like, cancel, no, Hey, Apple lady cancel. And somehow cancel gets added                 |
+| 45:35      | both automated processing and this, I have a tendency to say, Hey, [[Apple]] lady, blah,                   |
+| 45:42      | blah, blah. And then every so often [[Apple]] lady will get, you know, a little bit confused.              |
+| 45:47      | And so I'll be like, cancel, no, Hey, [[Apple]] lady cancel. And somehow cancel gets added                 |
 | 45:54      | to my list, whatever list it was that I was adding something to. And now sometimes I do                |
-| 45:59      | need to cancel things. And that may be something that I say, Hey, Apple lady remind me to,             |
+| 45:59      | need to cancel things. And that may be something that I say, Hey, [[Apple]] lady remind me to,             |
 | 46:04      | I don't know, cancel the automated reminder from the management company about the gardening.           |
 | 46:11      | I don't know, they don't actually send me a reminder. It'd be very nice if they did.                   |
 | 46:15      | But yeah, the, you know, if I, if I want to add something with the word cancel in, then                |
@@ -752,7 +752,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 48:58      | on my Mac, running every 30 minutes and tidying this up. However, there is a slight problem            |
 | 49:03      | with this because, you know, what always happens when I'm driving to the grocery store? Yeah,          |
 | 49:08      | I think of things that I need to buy. Oh yeah, I need to do this. I need to buy that. You              |
-| 49:12      | know, I need to buy some more juice or something like that. And so I can say, hey, Apple lady,         |
+| 49:12      | know, I need to buy some more juice or something like that. And so I can say, hey, [[Apple]] lady,         |
 | 49:17      | add this to my, you know, grocery list or shopping list. And that's great. But unless                  |
 | 49:25      | I take a very long detour, I am not going to be driving for over half an hour. And so                  |
 | 49:30      | the chances of PushCut picking this up are pretty low. But you may remember, David, right              |
@@ -779,7 +779,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 51:23      | nerdy, but it's working for me. Yeah. I mean, you went all the way in. Yeah. Yeah. I really            |
 | 51:31      | feel like the, you know, the idea of grocery list is a great source of automation exploration,         |
 | 51:38      | right? You know, because I think it's something we all need to do. It's something we'd all             |
-| 51:43      | like to see be more effective. And the Apple has actually made progress on that in the                 |
+| 51:43      | like to see be more effective. And the [[Apple]] has actually made progress on that in the                 |
 | 51:47      | latest betas. They, if you make a list called grocery list or you designated list as your              |
 | 51:52      | grocery list in your [[Apple Reminders\|Reminders]] app, it sorts them into the various aisles that they need               |
 | 51:58      | to be in, you know, and I should have clarified earlier. Even when I'm not testing [[Apple Reminders\|Reminders]],          |
@@ -900,7 +900,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:02:47   | for you with a little creativity. I have several examples here, but I'm going to start with            |
 | 01:02:54   | one. I mentioned earlier I record a lot. When I decide to open up a recording session,                 |
 | 01:03:04   | one of the things I do is I change the resolution of my screen. Well, that is a pain in the            |
-| 01:03:08   | neck. The way Apple makes it, you got to go to the display setting, you got to go find                 |
+| 01:03:08   | neck. The way [[Apple]] makes it, you got to go to the display setting, you got to go find                 |
 | 01:03:12   | a little button, you got to click on it. It's very human-intensive to switch resolution.               |
 | 01:03:19   | I know people listening might be rolling their eyes, but it is. When you want to get to work,          |
 | 01:03:23   | you want to get to work. I tried to [[AppleScript]] that forever and I never could find                   |
@@ -913,8 +913,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:04:04   | It's like, oh, wait a second. I can AppleScript display resolution using a third-party                |
 | 01:04:10   | app. To solve the problem, what I had to do was I had to get a third-party app, in this                |
 | 01:04:16   | case display menu, and then figure out their AppleScript implementation, which they do                |
-| 01:04:21   | a pretty good job of explaining on their website. Then I can reset a resolution with an Apple          |
-| 01:04:27   | script call. Now that I have that, it's a one-line code of AppleScript. I'm not sharing               |
+| 01:04:21   | a pretty good job of explaining on their website. Then I can reset a resolution with an [[AppleScript]]          |
+| 01:04:27   | call. Now that I have that, it's a one-line code of AppleScript. I'm not sharing               |
 | 01:04:34   | this so you guys all can change your resolution. Very few people need to do it as often as             |
 | 01:04:38   | I do, but this is an example of the way I solved the problem. Now that I've got that                   |
 | 01:04:43   | little snippet of code, I save it as a TextExpander snippet. I can dump it into a shortcut.           |
@@ -941,7 +941,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:06:42   | care and they would leave it on 100% of the time, but if you're recording, you don't really want a     |
 | 01:06:47   | digital clock up there because sometimes you make a mistake and you have to reset something, and then  |
 | 01:06:52   | if people are watching the recording, they see suddenly 10 minutes just dropped off the universe.      |
-| 01:06:58   | There's not an ideal fix for that because now it has to be there because the way Apple has done        |
+| 01:06:58   | There's not an ideal fix for that because now it has to be there because the way [[Apple]] has done        |
 | 01:07:03   | the sidebar. Yeah. But what you can do is make it more obtuse, and if you switch it to the analog      |
 | 01:07:10   | clock, you're much less likely to notice that the analog minute hand jumped a little bit than you are  |
 | 01:07:16   | to see the digital hand jumped up 10 minutes. I wanted to easily change that. Again, you can do        |
@@ -952,7 +952,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 01:07:48   | that. Again, I've got that thing spread all over the place, and it's just a little thing I call.       |
 | 01:07:54   | There is no automator or shortcut action that does this. There is no keyboard. You can run a           |
 | 01:08:01   | shell script through shortcuts or [[Keyboard Maestro]]. Yeah. Well, that's my point, but there is no built |
-| 01:08:08   | in native action to do this. It's too niche. Apple is never going to make that. Once I got the shell   |
+| 01:08:08   | in native action to do this. It's too niche. [[Apple]] is never going to make that. Once I got the shell   |
 | 01:08:15   | script, then I made a shortcut action, and I made a [[Keyboard Maestro]] action. Now I've got one more     |
 | 01:08:21   | little thing in my bag of tricks of automation I can use. I feel like that's the extreme. If I lost    |
 | 01:08:29   | you in that, you're like, I'm not going to do shell scripts. You're growing off the deep and           |

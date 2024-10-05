@@ -221,7 +221,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 08:26      | once in a while, and the only fix that I've had for it is rebooting my Mac.                               |
 | 08:32      | I tried rebooting.                                                                                        |
 | 08:33      | I've just noticed there's another Ventura update that I can install, so I'll do that                      |
-| 08:37      | after the show and see if maybe that fixes it, but I have reported this to Apple and                      |
+| 08:37      | after the show and see if maybe that fixes it, but I have reported this to [[Apple]] and                      |
 | 08:41      | then I got a message back from whoever is triaging the support thing saying, what did                    |
 | 08:45      | you do?                                                                                                   |
 | 08:46      | I'm like, as I wrote, I tried to open the [[Shortcuts]] app.                                                  |
@@ -283,7 +283,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 12:52      | They're fine for podcasts.                                                                                |
 | 12:53      | I don't like them for music.                                                                              |
 | 12:55      | They don't have that umph the original ones have.                                                         |
-| 12:57      | I'm still better at Apple for cancelling or getting rid of the original ones without                      |
+| 12:57      | I'm still better at [[Apple]] for cancelling or getting rid of the original ones without                      |
 | 13:02      | coming out with a replacement for them.                                                                   |
 | 13:05      | My original ones are barely hanging on.                                                                   |
 | 13:09      | They struggle.                                                                                            |
@@ -295,14 +295,14 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 13:25      | In fact, I've actually got to the point where I'm so tired of having to crawl behind the                  |
 | 13:30      | bookshelf that they're on to unplug them that I put a smart power strip back behind there                 |
 | 13:36      | so I can just toggle it from home kit and just reboot them that way.                                      |
-| 13:42      | I very much want Apple to do big HomePods again.                                                         |
+| 13:42      | I very much want [[Apple]] to do big HomePods again.                                                         |
 | 13:47      | I also just bought for my new apartment a sound bar, sound system thing.                                  |
 | 13:53      | It's a sound bar, but it's also got the rear speakers and a subwoofer as well.                            |
 | 13:58      | It has [[AirPlay]] too, so I will actually be able to add that to my shortcut for playing                     |
 | 14:04      | music throughout the house.                                                                               |
 | 14:06      | Not only will it play to the HomePods, but it'll also play in the living room where that                 |
 | 14:10      | will be set up as well.                                                                                   |
-| 14:12      | I'm very much looking forward to that configuration, but I would very much appreciate if Apple            |
+| 14:12      | I'm very much looking forward to that configuration, but I would very much appreciate if [[Apple]]            |
 | 14:18      | made something with a little more oomph than the HomePod minis because they just don't                   |
 | 14:22      | have that sound the original ones have.                                                                   |
 | 14:26      | I'm not an audio person.                                                                                  |
@@ -398,7 +398,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 19:27      | because I was getting annoyed my [[Logitech Harmony\|Logitech Harmony Hub's]] been having a couple of issues                    |
 | 19:31      | turning on specifically my soundbar.                                                                      |
 | 19:34      | I mean, a soundbar was going to sleep at times, like when I paused the TV and wandered off                |
-| 19:39      | for a bit, I would have the Apple screens, they were kicking and so on, like come back                    |
+| 19:39      | for a bit, I would have the [[Apple]] screens, they were kicking and so on, like come back                    |
 | 19:42      | and hit play, and there'd be no sound, and I'd have to like scrabble around and toggle                    |
 | 19:47      | the soundbar to turn it back on.                                                                          |
 | 19:49      | And so I was like, okay, this is it, I've got an excuse, I'm upgrading to a Sonos soundbar.               |
@@ -1480,7 +1480,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:21:41   | Yeah.                                                                                                     |
 | 01:21:42   | It was more than what I needed.                                                                           |
 | 01:21:45   | And I just want to, okay, I'm going to pull back the curtain.                                             |
-| 01:21:49   | I have made a request to Apple to pull just the keyboard shortcut bit out of that accessibility           |
+| 01:21:49   | I have made a request to [[Apple]] to pull just the keyboard shortcut bit out of that accessibility           |
 | 01:21:56   | feature and make it a separate thing.                                                                     |
 | 01:21:58   | So that way we could just have keyboard shortcuts for shortcuts.                                          |
 | 01:22:04   | But yeah, but enabling that feature just enabled a bunch of other stuff.                                  |
@@ -1742,10 +1742,10 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:36:21   | So, uh, you know, you have a problem when you have a notes document of, Hey, here's a bunch               |
 | 01:36:26   | of stuff I want to buy.                                                                                   |
 | 01:36:27   | Yeah.                                                                                                     |
-| 01:36:28   | And then, you know, the, the, the darn thing is the Apple keyboard has the touch ID button                |
+| 01:36:28   | And then, you know, the, the, the darn thing is the [[Apple]] keyboard has the touch ID button                |
 | 01:36:33   | and that, that is so addictive.                                                                           |
 | 01:36:35   | Okay.                                                                                                     |
-| 01:36:36   | So, um, did you know that you can take the Apple keyboard apart and if you have a friend                  |
+| 01:36:36   | So, um, did you know that you can take the [[Apple]] keyboard apart and if you have a friend                  |
 | 01:36:41   | with 3D printer, just, just saying, uh, then they can 3D print a little housing so that                   |
 | 01:36:47   | you can put the touch ID from the magic keyboard with the touch ID into that housing.                     |
 | 01:36:51   | So you can just have a touch ID button on your desk, which for me is great because when                   |

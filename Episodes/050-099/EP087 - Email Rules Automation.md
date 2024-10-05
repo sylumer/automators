@@ -64,7 +64,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 00:21      | Is that a word? Automator-ish? Yes.                                                                        |
 | 00:23      | A gas? I mean, Automator itself might feature in the episode.                                              |
 | 00:28      | Yeah. We're going to talk about mail rules today, but we also are going to talk about                      |
-| 00:33      | all the cool new gadgets coming out of Apple this week with the new MacBook Pro.                           |
+| 00:33      | all the cool new gadgets coming out of [[Apple]] this week with the new MacBook Pro.                           |
 | 00:41      | But the [[Apple Mail]] rules are just mail rules in general. We've covered email automation                    |
 | 00:47      | before in some prior episodes, but both of us have been experimenting a lot lately with                    |
 | 00:54      | mail services and mail servers. That opens up a new can of worms for mail automation rules.                |
@@ -317,7 +317,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 23:57      | will have the right time. But also, if you're setting these things up, you can change that                 |
 | 24:02      | time to live to be shorter. I wouldn't recommend leaving it shorter to be clear, just while                |
 | 24:07      | you're getting things set up and making sure everything works, because you do need to make                 |
-| 24:11      | sure you copy and paste this stuff accurately. And one thing which I did report to Apple and               |
+| 24:11      | sure you copy and paste this stuff accurately. And one thing which I did report to [[Apple]] and               |
 | 24:17      | may have been fixed, but it's very difficult for me to check, is when I switched to iCloud's               |
 | 24:24      | email with my personal domain, one of the records they gave me had a typo in it. It                        |
 | 24:29      | had a space where there shouldn't have been a space. And I looked at it and I was there                    |
@@ -328,11 +328,11 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 24:54      | copied everything out of the email when I was actually having problems. I decided this                     |
 | 24:58      | has been long enough of maybe I should just wait for things to expire.                                     |
 | 25:03      | Did you file a bug report on that?                                                                         |
-| 25:04      | I did. I did. I filed a bug report with Apple. So fingers crossed that has actually been                   |
+| 25:04      | I did. I did. I filed a bug report with [[Apple]]. So fingers crossed that has actually been                   |
 | 25:10      | fixed now. That would be really good if it has. But yeah, make sure you are very precise                   |
 | 25:14      | about copying and pasting. Some of these rules must end with a full stop and so on. And if                 |
 | 25:19      | you don't put the full stop in, then that will automatically append your domain name.                      |
-| 25:24      | So in my case, it would put, you know, Apple, iCloud, email. And that's where it's supposed                |
+| 25:24      | So in my case, it would put, you know, [[Apple]], iCloud, email. And that's where it's supposed                |
 | 25:30      | to point. But it would put dot rosemaryorchard.com on the end unless I put that full stop in there.        |
 | 25:36      | So make sure you are very precise when you copy and paste all this stuff for setting                       |
 | 25:40      | these things up. Because the other thing is, is if you do own your own domain, that means                  |
@@ -408,25 +408,25 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 31:40      | of depends on you switching domains. If you hear one of the services today that you want                   |
 | 31:44      | to try out. But, but Rose, you went into iCloud. So iCloud, you can attach your domain to now,             |
 | 31:51      | which is what we just described. So rosemaryorchard.com can be hosted at iCloud. There's some good         |
-| 31:57      | reasons for that. Apple is definitely more privacy focused. If you're using Apple Mail,                    |
+| 31:57      | reasons for that. [[Apple]] is definitely more privacy focused. If you're using Apple Mail,                    |
 | 32:04      | you know, using iCloud is going to obviously be well supported in your Apple Mail client                   |
 | 32:09      | because it's made by the same people. However, the online rules are not great.                             |
 | 32:16      | Yeah. So first of all, one of the things I want to address, which you will get with                        |
 | 32:20      | the vast majority of services where you can host your email is something called the wild                   |
 | 32:25      | card. And this basically means if you set this up, anything going to your domain.com,                      |
 | 32:32      | you can have land in your, your default inbox. And you can also set it up so you can reply                 |
-| 32:37      | from that from those addresses as well. Apple doesn't support this. So this means that if                  |
+| 32:37      | from that from those addresses as well. [[Apple]] doesn't support this. So this means that if                  |
 | 32:45      | you have or had multiple handles, you need to set up each of those individually. But                       |
 | 32:50      | if I send something to zebra at rosemaryorchard.com, it's going to bounce back because that mail           |
-| 32:56      | address hasn't explicitly been told to exist. And Apple, at least at the time of recording,                |
+| 32:56      | address hasn't explicitly been told to exist. And [[Apple]], at least at the time of recording,                |
 | 33:02      | does not support this wild card system, which means that I have to go in and manually set                  |
 | 33:10      | up every single alias, and I can't set up that many aliases. So this is something you                      |
 | 33:15      | need to be aware of. Another thing, which could be a gotcha for some people, it was                        |
 | 33:19      | for me, I resolved it by using another domain that I also own, is you cannot have multiple                 |
-| 33:25      | Apple accounts with the same domain name. This is if you're using them personally. So                      |
+| 33:25      | [[Apple]] accounts with the same domain name. This is if you're using them personally. So                      |
 | 33:30      | my developer account is actually attached to another email, which was a different handle                   |
 | 33:35      | on my regular domain. So it was just something else in front of it. And I was then suddenly                |
-| 33:40      | unable to look into my developer account. First of all, Apple really need to probably                      |
+| 33:40      | unable to look into my developer account. First of all, [[Apple]] really need to probably                      |
 | 33:44      | fix that and still let me look in. And well, I was able to look in, but it was, you know,                  |
 | 33:50      | doing funny things and clearly not very happy about it. So I ended up just changing that                   |
 | 33:54      | to I've got rosemaryorchard.dev as well. So I just changed it to that, which, funnily enough,              |
@@ -524,7 +524,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 42:03      | just mentioned there, David. The fact that you've got three different people on your                       |
 | 42:06      | domain, if they're not part of your iCloud family, you can't do that. And do you really                    |
 | 42:10      | want your assistant and your editor as part of your iCloud family? You already have two                    |
-| 42:13      | children and a wife. So you actually can't. You can only have five people in an Apple                      |
+| 42:13      | children and a wife. So you actually can't. You can only have five people in an [[Apple]]                      |
 | 42:18      | family.                                                                                                    |
 | 42:19      | You're like, sorry, honey, you got to go. JF's coming in.                                                  |
 | 42:21      | Yeah, exactly. You know, and I'm sure JF would appreciate, you know, the free app downloads                |
@@ -665,7 +665,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 54:40      | week plans in the middle of the week. So the fact that I could snooze all emails from them                 |
 | 54:45      | until, say, Friday evening would be amazing.                                                               |
 | 54:50      | Yeah.                                                                                                      |
-| 54:51      | And then like another one I'm working on right now is Apple Receipt. I bought a few Apple                  |
+| 54:51      | And then like another one I'm working on right now is [[Apple]] Receipt. I bought a few [[Apple]]                  |
 | 54:55      | products in the last few days and I'm going to create one that auto filters and files                      |
 | 55:01      | those as they come in because that's an easy rule apply. They always come from the same                    |
 | 55:05      | email address and they always have the same subject line. I get several newsletters and                    |
@@ -1043,14 +1043,14 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:26:48   | going to, like, it works to slow down how quickly your battery is used up, but it is not a Disney          |
 | 01:26:54   | battery pack, something like the Anker one. Technically, it charges slower, but it's got                   |
 | 01:26:59   | so much more inside of it that it is a better one. You know what? I disagree. I bought that                |
-| 01:27:06   | overpriced Apple [[MagSafe]] battery. I mean, I have both, David, so. All right. I love it. I mean,            |
+| 01:27:06   | overpriced [[Apple]] [[MagSafe]] battery. I mean, I have both, David, so. All right. I love it. I mean,            |
 | 01:27:12   | I know I paid too much money for it, but the fact that I don't have to, like, have a cable hanging         |
 | 01:27:18   | out of my pocket and I can just snap it on and then I'll put my phone in my pocket and it's                |
 | 01:27:23   | charging while I'm walking around. And then when I pull it, I can just snap it off if I need to.           |
 | 01:27:28   | And we're starting to shoot all of our Disneyland Field Guide video with the iPhone because it's           |
 | 01:27:33   | got good enough. I can do that now. So I'm using battery more than ever. And I love that little            |
 | 01:27:38   | white thing in my pocket. It just takes a little space. But anyway, that's another,                        |
-| 01:27:43   | that's another whole other topic. Speaking of giving money to Apple, though, we got the                   |
+| 01:27:43   | that's another whole other topic. Speaking of giving money to [[Apple]], though, we got the                   |
 | 01:27:50   | announcement this week of the new MacBook Pros. And I know that you have been a user of MacBook            |
 | 01:27:58   | Pros in the past. And so what do you think? And we're also covering this on the Mac Power users.           |
 | 01:28:03   | So I'm not going to go into great length about my thoughts on it. But I wanted, you know,                  |
@@ -1083,7 +1083,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:30:47   | Hertz screen, we're going to go deep on this on the episode of Mac Paris that's releasing.                 |
 | 01:30:54   | I mean, it's probably already out by the time this show releases. So you can hear me like                  |
 | 01:30:59   | wax on about I don't want to waste everybody's time, but I'm a fan of them. I'm going to be                |
-| 01:31:04   | using one as my desktop machine. I sold my M1 Mac Mini back to Apple and then I use that money             |
+| 01:31:04   | using one as my desktop machine. I sold my M1 Mac Mini back to [[Apple]] and then I use that money             |
 | 01:31:13   | to put down on the MacBook Pro. And that's going to be plugged into my fancy monitor and it's going        |
 | 01:31:20   | to stay there most times. When I need to have power on the go, I'll be able to take it with me.            |
 | 01:31:26   | And when I don't, I'm going to keep my M1 laptop, my 13 inch, so I can like make that the Starbucks        |
@@ -1094,7 +1094,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:31:58   | for one second outside of the box for people who don't speak English with crystal clear                    |
 | 01:32:03   | pronunciation, which let's face it, unless you're using received pronunciation all the time,               |
 | 01:32:08   | it just doesn't happen. The number of times that people are going to be confused by somebody               |
-| 01:32:14   | talking about Macs plural Apple computers versus Macs the size. I never thought of that, right?            |
+| 01:32:14   | talking about Macs plural [[Apple]] computers versus Macs the size. I never thought of that, right?            |
 | 01:32:20   | If you say M1 Macs, you're like, well, did you just buy two of them? Yeah. Yeah. Like that,                |
 | 01:32:26   | that right there is a problem. M1 Macs, right? Yeah, I mean, that I guess that's how it works.             |
 | 01:32:33   | And also, I feel like they could have done better with the naming. Just generally,                         |
@@ -1160,7 +1160,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:38:34   | that they are big. And apparently the Max is heavier than the Pro as well, not by a lot.                   |
 | 01:38:40   | I think by the time you're looking at it, if you pick them up, you probably wouldn't notice.               |
 | 01:38:44   | But that is something to factor in when you're looking at all this information.                            |
-| 01:38:49   | Well, either way, I think Apple hit it out of the park for people who want a Max with Pro.                 |
+| 01:38:49   | Well, either way, I think [[Apple]] hit it out of the park for people who want a Max with Pro.                 |
 | 01:38:56   | Now you have me thoroughly confused about the Max term, so now I'm going to have to                        |
 | 01:39:00   | struggle with that. So thanks for putting that on me.                                                      |
 | 01:39:03   | Please feel free to share it with Stephen Hackett. I'm sure he'll appreciate that.                         |

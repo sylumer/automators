@@ -12,7 +12,7 @@ relayurl: ""
 ![[John Voorhees.jpg|200x200]]
 
 # About
-John Voorhees is the managing editor at MacStories. He writes about the Apple ecosystem and hosts several podcasts. He also used to develop apps for iOS.
+John Voorhees is the managing editor at MacStories. He writes about the [[Apple]] ecosystem and hosts several podcasts. He also used to develop apps for iOS.
 
 # Guest Episodes
 ```dataviewjs

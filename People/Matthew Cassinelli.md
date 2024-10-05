@@ -12,7 +12,7 @@ relayurl: "https://www.relay.fm/people/matthewcassinelli"
 ![[Matthew Cassinelli.jpg|200x200]]
 
 # About
-Matthew Cassinelli is a writer and podcaster working in the Apple Technology domain. He has a particular specialisation in [[Shortcuts]] after working in marketing and community management for [[DeskConnect Inc]], the developers of [[Workflow]].
+Matthew Cassinelli is a writer and podcaster working in the [[Apple]] Technology domain. He has a particular specialisation in [[Shortcuts]] after working in marketing and community management for [[DeskConnect Inc]], the developers of [[Workflow]].
 
 # Guest Episodes
 ```dataviewjs

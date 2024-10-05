@@ -120,11 +120,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 05:55      | Rose, we need an explanation of what that cryptic text meant.                                            |
 | 06:00      | Okay, well, it's not that cryptic. So for people that aren't aware, my favourite colour is purple.         |
 | 06:05      | And therefore, the correct answer to are you getting a new iMac, which is M1, is                         |
-| 06:13      | my Mac mini still within its return period. So thank you, Apple. Yes, I am. Are you getting              |
+| 06:13      | my Mac mini still within its return period. So thank you, [[Apple]]. Yes, I am. Are you getting              |
 | 06:19      | a new iPhone in purple? No, no, I'm not because I have the iPhone 12 Pro Max. It's only the iPhone 12    |
 | 06:25      | that is available in purple. So it's the 12 and the 12 mini. And Jay, I want to pick your brains         |
 | 06:30      | a little bit about the mini actually. When we get to that, I want a purple iPhone. I want a pro          |
-| 06:36      | purple iPhone so much. They did green. They're doing blue this year. Please, Apple purple next           |
+| 06:36      | purple iPhone so much. They did green. They're doing blue this year. Please, [[Apple]] purple next           |
 | 06:42      | year. A lovely dark sort of mystical purple on the pro iPhones. That would just be magical.              |
 | 06:49      | Absolutely magical. But yeah, I'm getting a new iMac, David. I've never had an iMac before. It's         |
 | 06:55      | going to be exciting. And yeah, I can't wait because I've been trialling this M1 Mac mini,                |
@@ -161,14 +161,14 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 10:05      | I'll be traveling a lot. You know, that's I mean, we're already having those conversations about         |
 | 10:09      | next year and like making sure we have the right miles and stuff set up. So for me, it's like,           |
 | 10:16      | do I really want to invest in this beautiful screen that I'm only going to get to play with              |
-| 10:22      | half of the time? And part of me says, yes, absolutely 100% you're an Apple nerd, you do that.           |
+| 10:22      | half of the time? And part of me says, yes, absolutely 100% you're an [[Apple]] nerd, you do that.           |
 | 10:29      | The other part of me is like, well, they have this iPad. And I have like a work,                         |
 | 10:36      | you know, laptop that's fine. I could just use that to invest in an iPad. And I mean, I have             |
 | 10:42      | and the new iPad has so much with this supporting Thunderbolt. So now I can plug it into my LG,          |
 | 10:49      | you know, cinema display thing, that this massive screen here. And I, I'm really excited about how       |
 | 10:57      | much power comes in that new iPad. But I really need them to make some applications that are             |
 | 11:03      | going to use that power. And I'm specifically talking about logic and final cut for me. But              |
-| 11:09      | I know that there are a few alternatives out there. But I, I'm just begging Apple, like if               |
+| 11:09      | I know that there are a few alternatives out there. But I, I'm just begging [[Apple]], like if               |
 | 11:16      | you've given me a $2,000 iPad that I want to buy, give me the applications that will make me             |
 | 11:22      | say this is a no brainer, you know, shut up and take my money.                                           |
 | 11:26      | Yeah, I talked to a friend years ago about why they don't have the pro apps on the iPad after            |
@@ -178,7 +178,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 11:51      | now this new one, if you get the terabyte size one has 16 gigabytes of RAM. And all of a sudden,         |
 | 11:57      | I feel like maybe we're, you know, I don't want to be too hopeful because, you know, we've been down     |
 | 12:02      | this road before, but maybe this is the year that they're like, okay, we built it with a powerful        |
-| 12:07      | enough chip, we've given enough RAM. Now all the Apple pro apps are going to show up here. And,          |
+| 12:07      | enough chip, we've given enough RAM. Now all the [[Apple]] pro apps are going to show up here. And,          |
 | 12:12      | and maybe this is the year who knows. Yeah, yeah, that would be pretty exciting. I've decided            |
 | 12:18      | I am not going to have a laptop anymore. I'm going 12.9 inch iPad pro and an iMac. And until             |
 | 12:25      | [[WWDC]] happens, I'm going to be using Jump Desktop whenever I need to get onto my Mac,                     |
@@ -195,9 +195,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 13:17      | purple story here. I'm not doing magic mouse. So I don't, I don't really have many issues,               |
 | 13:24      | but I do have a slight case of arthritis in my hands. And it's just one of those things where            |
 | 13:29      | if I do the smart thing and I use a good ergonomic mouse and stuff like that, I don't have a problem.    |
-| 13:35      | The Apple Magic keyboard is fine for me 90% of the time. And the other 10% of the time,                  |
+| 13:35      | The [[Apple Magic Keyboard]] is fine for me 90% of the time. And the other 10% of the time,                  |
 | 13:40      | I've got plenty of other keyboards running around way too many keyboards. So that's all good.            |
-| 13:45      | So I will be getting the Apple Magic keyboard. And with the iMac configuration I'm looking at,           |
+| 13:45      | So I will be getting the [[Apple Magic Keyboard]]. And with the iMac configuration I'm looking at,           |
 | 13:51      | it will come with the Touch ID built in, and I'll be getting the matching purple trackpad.               |
 | 13:56      | And this will be accompanied by my standee, my city friend, the Logitech MX Master 3,                    |
 | 14:03      | which is an excellent ergonomic mouse with a horizontal scroll wheel,                                    |
@@ -244,9 +244,9 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 17:57      | I'd only had like one like MacBook Pro. And I wasn't thinking about things like [[Keyboard Maestro]]                |
 | 18:03      | or all this other stuff. So yeah, a lot of my automation really started on iOS devices and,       |
 | 18:09      | you know, [[Drafts]] being the biggest part of that. Because at the time, I think I remember the day         |
-| 18:16      | when a friend of mine showed me this app called Workflow. And I was just like, Apple's never             |
+| 18:16      | when a friend of mine showed me this app called Workflow. And I was just like, [[Apple\|Apple's]] never             |
 | 18:22      | going to let this thing stay in the store. Like, it's crazy.                                             |
-| 18:26      | The joke at the time was that they had naked pictures of somebody at Apple, because there's              |
+| 18:26      | The joke at the time was that they had naked pictures of somebody at [[Apple]], because there's              |
 | 18:31      | no other way it would have got approved. Maybe that's how they all got hired.                            |
 | 18:37      | Yeah, you know, something I didn't know, Jay, was that you actually learned development and              |
 | 18:43      | programming through [[Drafts]] automation. That is, that's a great story. And I know there's a lot           |
@@ -910,7 +910,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:22:05   | meetings. I average, you know, I think 4.2 something zoom calls a day. So for me,                        |
 | 01:22:16   | whenever I have a meeting pop up, I have all of the context around that meeting stored on the            |
 | 01:22:22   | event itself via hook. And the cool thing is if you're using something like just this generic            |
-| 01:22:28   | Apple calendars app, it even supports repeating events. So I don't have to hook them every single        |
+| 01:22:28   | [[Apple Calendar\|Apple Calendars app]], it even supports repeating events. So I don't have to hook them every single        |
 | 01:22:35   | time. I just have to hook it to one instance. And it's always there. So if I'm doing like our            |
 | 01:22:41   | YouTube planning session, or if I'm meeting with a new customer or a new partner that we're working      |
 | 01:22:47   | with, I can just activate hook, do a quick search for this whole workflow that I have set up for,        |

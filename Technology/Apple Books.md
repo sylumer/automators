@@ -6,7 +6,7 @@ aliases:
   - Books
 ---
 # Overview
-Books is an e-book and audiobook reading application by Apple for use on its platforms. It allows users to purchase, download, and consumer a wide range of books available via online library. 
+Books is an e-book and audiobook reading application by [[Apple]] for use on its platforms. It allows users to purchase, download, and consumer a wide range of books available via online library. 
 
 # Operating Systems
 - iOS
@@ -14,7 +14,7 @@ Books is an e-book and audiobook reading application by Apple for use on its pla
 - macOS
 
 # Features
-- **Large Library Access**: Purchase and download books and audiobooks from the Apple Books Store.
+- **Large Library Access**: Purchase and download books and audiobooks from the [[Apple]] Books Store.
 - **Customisable Reading Experience**: Adjust font, text size, background colour, and screen brightness.
 - **Audiobook Support**: Listen to a wide range of audiobooks with adjustable playback speeds.
 - **Sync Across Devices**: Seamlessly sync books, bookmarks, highlights, and notes via iCloud.
@@ -28,7 +28,7 @@ Books is an e-book and audiobook reading application by Apple for use on its pla
 # Notes
 - Apple Books is free to download and use; however, books and audiobooks are generally paid unless specified otherwise.
 - The app supports integration with the [[Shortcuts]] app for automation.
-- Apple Books comes pre-installed on most Apple devices.
+- Apple Books comes pre-installed on most [[Apple]] devices.
 
 # Links
 - [Apple Books Official Site](https://www.apple.com/apple-books/)

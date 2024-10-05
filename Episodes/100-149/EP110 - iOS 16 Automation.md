@@ -74,7 +74,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:53      | things I feel very privileged to take apart in every year. And I hope you do too. Once                   |
 | 01:57      | again, that link is stjude.org slash relay. Help us all take on childhood cancer and help                |
 | 02:04      | us all do some good. All right, now let's talk some nerdy stuff.                                         |
-| 02:08      | Just as a clarifier for everybody, like we are recording this before the Apple announcement,             |
+| 02:08      | Just as a clarifier for everybody, like we are recording this before the [[Apple]] announcement,             |
 | 02:13      | but I know I am right in saying that there will be a gorgeous sort of plum, aubergine,                   |
 | 02:18      | colour, metallic, purple iPhone pro. Like that that's happening. And so you've all heard                  |
 | 02:25      | me now predict the future. You can send me the congratulatory messages. And if there                     |
@@ -123,18 +123,18 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 05:48      | had an NFC tag reader in it, but it didn't just let you read an NFC tag by just sort                     |
 | 05:53      | of, you know, placing your phone towards it. So yeah, that's how that happened. And I                    |
 | 05:59      | was sure I would be fine. And this year, I feel like I'm fine, but I also think I'm                      |
-| 06:02      | going to end up upgrading for some reason. Like Apple always comes out with something                    |
+| 06:02      | going to end up upgrading for some reason. Like [[Apple]] always comes out with something                    |
 | 06:06      | plus, you know, it's kind of part of my job to have the latest and greatest shiny thing.                 |
 | 06:10      | So, you know, hopefully it'll be a purple one. Yeah, I always get a new one every year.                  |
 | 06:14      | I can't help myself. We do, we do recycle them down through the family and one comes                     |
 | 06:19      | out the bottom and I sell it back. But I don't know what I'll be getting, but I'm leaning                |
 | 06:25      | towards Max. But I don't know, like I said, it's always kind of fun, though, to speculate.               |
-| 06:30      | But the good news is Apple is going to have answers out by the time this show publishes.                 |
+| 06:30      | But the good news is [[Apple]] is going to have answers out by the time this show publishes.                 |
 | 06:34      | But you know what we don't have to speculate about is the new features coming to shortcuts.              |
 | 06:39      | Both you and I installed the very first beta as soon as this thing shipped. And we have                  |
 | 06:45      | been using them extensively. We both have made publications. I made a field guide, you                   |
 | 06:51      | made a book about shortcuts. So we kind of make it our business to dig in on this stuff.                 |
-| 06:56      | And this is the show, man, because if Apple falls, again, this is kind of a guess early,                 |
+| 06:56      | And this is the show, man, because if [[Apple]] falls, again, this is kind of a guess early,                 |
 | 07:02      | but usually they release the, they have the announcement on Wednesday, my guess will be                  |
 | 07:07      | that they'll probably release iOS 16 the following Wednesday and then the iPhone a couple days           |
 | 07:12      | after that. Yeah, yeah, I'm kind of anticipating, you know, from a developer perspective that            |
@@ -149,7 +149,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 08:00      | always go perfectly smoothly. So fingers crossed that will end up being okay. But there's no             |
 | 08:05      | new iPad OS yet, David. iOS or iPad OS 16.0 is dead. It's not coming. They told us the                   |
 | 08:12      | first one we're getting is 16.1. Yeah, which doesn't entirely surprise me.                               |
-| 08:17      | No, they did a lot this year with [[Stage Manager]] and the iPhone is where Apple makes the most             |
+| 08:17      | No, they did a lot this year with [[Stage Manager]] and the iPhone is where [[Apple]] makes the most             |
 | 08:25      | amount of money. I said this on [[Mac Power Users]] last week, but that's the one thing                      |
 | 08:29      | that could get Tim Cook fired would be botching an iPhone launch. So, of course, they're going           |
 | 08:34      | to spend a lot of time, you know, making sure the iPhone is right on target and everything's             |
@@ -165,11 +165,11 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 09:25      | to know with iOS 16. We've got various categories to go through. What about, you want to talk            |
 | 09:32      | about Sherlock first? Yeah, yeah, because iOS 16 Sherlock, some                                          |
 | 09:37      | short cut sort of nations that I was doing, and I'm sure a bunch of other people are doing               |
-| 09:40      | because I'm pretty certain that Apple doesn't have somebody just watching my anonymised                  |
+| 09:40      | because I'm pretty certain that [[Apple]] doesn't have somebody just watching my anonymised                  |
 | 09:45      | iPhone usage and going, right, okay, that's what she's doing. We're going to add that                    |
 | 09:48      | feature for everyone. But they've killed, David, they've killed my need to use the set                   |
 | 09:53      | Apple watch face action and the set background action because they've built it into focus                |
-| 09:58      | modes, which I'm so excited about because this is very clearly in a case of Apple listening              |
+| 09:58      | modes, which I'm so excited about because this is very clearly in a case of [[Apple]] listening              |
 | 10:06      | to user requests and what people are doing and going, well, why don't we just build that                 |
 | 10:10      | in? Clearly people want this. Let's just put it everywhere for them.                                     |
 | 10:13      | Yeah. So I want to talk about focus mode in detail because the changes this year are substantial,        |
@@ -204,7 +204,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 12:42      | But the whole idea of these lock screen widgets, some of this stuff is beta, we probably can't           |
 | 12:49      | talk about it all, but I can tell you that I've been included in some third party betas.                 |
 | 12:54      | And I feel like the focus, I'm sorry, the lock screen widgets, actually, there's like                    |
-| 12:59      | two levels of making this better. The first is getting apps other than Apple's apps in.                  |
+| 12:59      | two levels of making this better. The first is getting apps other than [[Apple|Apple's]] apps in.                  |
 | 13:04      | So, you know, your particular task manager or whatever it is that you want to get data                   |
 | 13:09      | from, I think that's going to make it better. And I think the big move is going to be when               |
 | 13:14      | they, they get that always on screen, which is highly rumored and it'll be shocking if                   |
@@ -216,7 +216,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 13:41      | nightstand mode that they implement the same kind of thing on your iPhone. Because I don't               |
 | 13:48      | know about you and all the folks listening at home, but I have quite a few of those sort                 |
 | 13:53      | of like upright chargers. I've got an Anker, a mega go magnetic charging stand. And I've                |
-| 13:58      | got by my bed, Apple Frequently Partner with the Belkin. I've got the trio. So on the left,              |
+| 13:58      | got by my bed, [[Apple]] Frequently Partner with the Belkin. I've got the trio. So on the left,              |
 | 14:05      | it's got the [[MagSafe]] pad on the right. It's got the Apple Watch pad on the base. You                     |
 | 14:08      | can sort of drop your AirPods for charging. I have that by my bed. If my iPhone is stood                 |
 | 14:14      | upright and it's glowing all night, that is going to really annoy me. But I'm sure Lola                  |
@@ -315,7 +315,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 21:40      | Obviously, App Store review could possibly be the failure point there. I know that they're               |
 | 21:45      | going to work as hard as they can on it, but I've been trying the beta and it's awesome.                 |
 | 21:49      | You know, just being able to give myself a button that I can tap it and it'll do whatever                |
-| 21:53      | it is that I need it to do. It's great. I'm not sure Apple would do it because it seems                  |
+| 21:53      | it is that I need it to do. It's great. I'm not sure [[Apple]] would do it because it seems                  |
 | 21:59      | to me like, you know, shortcuts is interactive and the whole idea of these lock screen widgets           |
 | 22:03      | is to be passive. Yeah. But equally, they'll let you run it from a double tap on the back                |
 | 22:08      | of your iPhone, which is incredibly easy to accidentally trigger. So, you know, I don't                  |
@@ -324,7 +324,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 22:25      | to send email later, but not through a shortcut. We got medication tracking, not in shortcuts.           |
 | 22:31      | We got stops and maps, but we can't add them in shortcuts. And those are the three things                |
 | 22:37      | that stand out to me as kind of like missing and are very much on my wish list. And I'm                  |
-| 22:41      | really hoping they don't go into the iOS 17 bucket. Please, anybody at Apple who's listening,            |
+| 22:41      | really hoping they don't go into the iOS 17 bucket. Please, anybody at [[Apple]] who's listening,            |
 | 22:47      | who has influence who can help make this happen, like give them apps team and the mail team              |
 | 22:51      | and the health team some support and integrating the stuff, please. You know, but, you know,             |
 | 22:57      | other than that, yeah, there's only about like 500 new shortcut sections, David. Yeah,                   |
@@ -338,7 +338,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 23:38      | action of saying, well, open the MacSparky inbox, you keep opening that one. So do you                  |
 | 23:42      | want to do that? And then it went away. And like I included it in the one of the original                |
 | 23:47      | iterations of the shortcuts for iPhone field guide and people started writing me saying,                 |
-| 23:52      | oh, this will happen. This doesn't work anymore. And Apple for whatever reason just really               |
+| 23:52      | oh, this will happen. This doesn't work anymore. And [[Apple]] for whatever reason just really               |
 | 23:56      | didn't address it. And I guess maybe it stopped watching mail. It may have been a privacy                |
 | 24:02      | or a security thing. But now they have an action where you can say, open this particular                 |
 | 24:06      | mailbox, you don't have to throw salt anymore. You just throw in an action and you're off                |
@@ -393,14 +393,14 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 28:21      | new chapter of automation focused mail. Me too. You know, I'm not 100% certain it is, but I feel         |
 | 28:27      | like they've, they've really been listening to user feedback and they've looked at the features          |
 | 28:31      | that other people are using other mail apps for, you know, they've not implemented snooze,               |
-| 28:37      | they've implemented remind me later because this is Apple and they always have to do their own           |
+| 28:37      | they've implemented remind me later because this is [[Apple]] and they always have to do their own           |
 | 28:42      | special thing. But equally, you know, actually snoozing mail sometimes is not what I want.               |
 | 28:49      | Sometimes it is what I want. I want to just hide it until a specific date, sort of like a GTD            |
 | 28:55      | tickler thing. But sometimes it's just that, you know, like I need, like I need to like still have       |
 | 29:01      | this around, but I just want to be reminded about this on Tuesday, because I'm not working right         |
 | 29:06      | now and I'll deal with this later type thing. But, you know, and, and so, you know, it's good            |
 | 29:11      | that we've got that hopefully we will get actual snooze at some point that would be really good.         |
-| 29:15      | Please Apple like just archive it temporarily or something, whatever, you know, add a snooze             |
+| 29:15      | Please [[Apple]] like just archive it temporarily or something, whatever, you know, add a snooze             |
 | 29:21      | folder, be like every other mail client and add your own folders to things. It's fine. But yeah,         |
 | 29:27      | we'll see. But I'm optimistic this is going to be the new chapter of Apple Mail.                         |
 | 29:32      | Yeah, I tend to agree. I feel like they they're moving now, they're not going to stop. And,              |
@@ -437,7 +437,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 32:21      | relevant to that, you can do all of that now. And that's just so amazing.                                |
 | 32:27      | Yeah, I mean, what they've done is they've just given you almost complete control with automation        |
 | 32:33      | of almost anything you could do in the app with your finger in iOS 15. And can we just, let's put        |
-| 32:41      | a pin in Apple, let's just talk about this big change with donation of automation actions and            |
+| 32:41      | a pin in [[Apple]], let's just talk about this big change with donation of automation actions and            |
 | 32:48      | how that's changed. You as a developer, maybe you're probably best suited to explain it, but             |
 | 32:54      | they have dramatically simplified the process for app developers.                                        |
 | 32:59      | Yes. Yeah. So previously, and I've attempted to do this multiple times before,                           |
@@ -478,7 +478,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 36:21      | called shortcuts. And then you go to the folders view. You know, so from from like all shortcuts         |
 | 36:27      | or one of your folders, if you go backwards on the iPhone or just look in the left tab on your Mac,      |
 | 36:33      | you'll see a new section called app shortcuts, which are guess what, there's one one action              |
-| 36:37      | shortcuts that you had before. And voice memos is in there. That's the the Apple demo, which has         |
+| 36:37      | shortcuts that you had before. And voice memos is in there. That's the the [[Apple]] demo, which has         |
 | 36:44      | two actions, or two shortcuts, record voice memo, and play last voice memo. And when you open those,     |
 | 36:51      | it does just, you know, do exactly what you would expect it to do. But you can then like it looks        |
 | 36:59      | like a shortcut, but it's an action. And some other developers have got things in here as well,          |
@@ -504,7 +504,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 38:41      | when we do the show, we have guests, we always ask for a simple automation in addition to a complex      |
 | 38:46      | when everybody wants to show off, right? And give you their 30 action shortcut, which is cool.           |
 | 38:52      | But you know, what people really need, honestly, is one to three action shortcuts that just solve        |
-| 38:56      | a problem for them. Those are the ones that are going to get used. And I think Apple is really           |
+| 38:56      | a problem for them. Those are the ones that are going to get used. And I think [[Apple]] is really           |
 | 39:00      | leaning into that. And so, you know, getting so returning to notes, notes, the development team          |
 | 39:08      | on notes was must must have been the, you know, the canary for this, because they went in and            |
 | 39:13      | they did that they went they took the effort and like delete note pin note open notes account. So        |
@@ -519,12 +519,12 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 40:02      | you go ahead and every time you get a new client, you give them a folder. Well,                          |
 | 40:05      | now you can create that folder in the same process of as part of a bigger shortcut. And                  |
 | 40:11      | I'm really excited about that, you know. Yeah, I mean, I'm just imagining like a whole new project       |
-| 40:18      | workflow. Okay, and I kind of feel like this is a shortcut that Apple ought to make and put in the       |
+| 40:18      | workflow. Okay, and I kind of feel like this is a shortcut that [[Apple]] ought to make and put in the       |
 | 40:22      | shortcuts gallery, because like, imagine it pops up and it asks you, Hey, what's the new project?        |
 | 40:28      | And so you type in the project name or you speak the project name, depending on how you've,              |
 | 40:32      | you know, implemented or called the shortcut. And then it goes off and it creates a folder               |
 | 40:37      | and Apple notes, it creates a list of reminders. And, you know, it adds a new pinned note in that        |
-| 40:43      | Apple in the Apple notes folder with project setup with a whole bunch of checkboxes in there.            |
+| 40:43      | [[Apple]] in the Apple notes folder with project setup with a whole bunch of checkboxes in there.            |
 | 40:50      | And, you know, adds the tag project setup to that. And then, you know, it creates a new                  |
 | 40:58      | tab group for that project. And, you know, that just right there is really, really simple. It's          |
 | 41:05      | only a couple of actions. But imagine how much time that would save somebody. You know, they'd           |
@@ -533,7 +533,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 41:19      | got a [[Apple Reminders\|Reminders]] list for this. They've got a tab group. So when they're looking at links,                |
 | 41:22      | oh, right, I can send that over to the tab group for this project, perfect, done.                        |
 | 41:26      | That's so simple, but so useful to people. And I feel like, you know, this is why                        |
-| 41:33      | the Apple stuff implementing good shortcut sections is really so critical. Because a lot of people       |
+| 41:33      | the [[Apple]] stuff implementing good shortcut sections is really so critical. Because a lot of people       |
 | 41:41      | will just try and do stuff with the native apps, and they're not going to go looking for something       |
 | 41:46      | else. If they don't think that it's even vaguely going to be possible. Whereas if they get the           |
 | 41:50      | idea that there's a possibility that they could tap a button or speak a phrase, and then just add        |
@@ -682,7 +682,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 54:59      | And like browser setups and contexts are things I've historically done in [[Keyboard Maestro]],              |
 | 55:04      | which tied me to the Mac. And now with these tools coming in, I can actually rewrite these               |
 | 55:09      | into shortcuts and use them on an iPad or a phone or Mac, you know, I can use them on any device         |
-| 55:14      | from Apple. And, you know, that's the kind of stuff I like. I like it to get my automation more          |
+| 55:14      | from [[Apple]]. And, you know, that's the kind of stuff I like. I like it to get my automation more          |
 | 55:20      | mobile between my devices. So it doesn't matter which one I'm on. Yeah. Yeah. I've also just noticed     |
 | 55:25      | they snuck in another one, David, find tab groups. I can get a list of all of my tab groups. This is     |
 | 55:30      | great. Yeah, I don't know. Like maybe it just appeared in the latest beta. But who knows,                |
@@ -719,7 +719,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 58:19      | it apparently when you're running a beta iOS. So that was a fun discussion when I found that out.        |
 | 58:24      | And a long story short as I'm switching banks, but you know, it's, it's much less likely that            |
 | 58:30      | somebody is going to update their Mac day one of a new operating system than it is they will their       |
-| 58:34      | iPhone. Well, I will tell you one thing. I think somebody at Apple, high up, you know, I don't           |
+| 58:34      | iPhone. Well, I will tell you one thing. I think somebody at [[Apple]], high up, you know, I don't           |
 | 58:40      | know, maybe, maybe it was Phil Schiller, but I know he's not, he's not as active. Somebody               |
 | 58:45      | went somewhere and they parked their car and then they couldn't find it because now we have a bunch      |
 | 58:50      | of support and maps to, to find your parked car. Yeah, you can mark your car as parked as well.          |
@@ -962,7 +962,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:20:42   | We get to the release of the operating system and then we were kind of settled for a year.               |
 | 01:20:47   | And some apps will show up on the scene like [[Drafts]] and really take advantage of it. But                 |
 | 01:20:52   | in general, the growth rate of new actions has been revolving around September every year when           |
-| 01:20:59   | Apple releases the new update. And I feel like that is changing this year. And I think that's the        |
+| 01:20:59   | [[Apple]] releases the new update. And I feel like that is changing this year. And I think that's the        |
 | 01:21:05   | thing that's going to be fun for us as automators as we make shows throughout the rest of the year.      |
 | 01:21:09   | I think we're going to have a lot of apps that show up that suddenly have way more shortcut              |
 | 01:21:14   | support, which gives you more toys to play with, which allows you to easily make better                  |
@@ -973,9 +973,9 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:21:41   | take that away from the show and you bring a sense of curiosity to shortcuts because I think             |
 | 01:21:46   | every time you open it up, you may find some new actions in there.                                       |
 | 01:21:49   | Yeah, exactly. And honestly, it's just so great to see all the developers inside and outside of          |
-| 01:21:56   | Apple going, yeah, shortcuts is shortcuts for everyone. They renamed my shortcuts to shortcuts,          |
+| 01:21:56   | [[Apple]] going, yeah, shortcuts is shortcuts for everyone. They renamed my shortcuts to shortcuts,          |
 | 01:22:03   | but I feel like they're also taking shortcuts from just a nerd tool to, hey,                             |
-| 01:22:08   | shortcuts is giving us some great idea. This is what people have been doing with it and Apple            |
+| 01:22:08   | shortcuts is giving us some great idea. This is what people have been doing with it and [[Apple]]            |
 | 01:22:14   | have taken some of that and implemented it straight into the operating system, which I'm                 |
 | 01:22:18   | excited about to be clear. You can still do this stuff through shortcuts, setting your wallpaper,        |
 | 01:22:22   | setting your watch face. But you can now do it really easily integrated into a focus mode.               |

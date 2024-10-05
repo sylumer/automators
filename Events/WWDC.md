@@ -3,17 +3,17 @@ status: "complete"
 notetype: "event"
 ---
 # Overview
-The Apple Worldwide Developers Conference (WWDC) is an annual event held by Apple where developers from around the world come together to learn about the latest advancements in Apple technology, attend workshops, and network with other developers. The event typically includes keynote presentations announcing new software updates, tools, and products.
+The Apple Worldwide Developers Conference (WWDC) is an annual event held by [[Apple]] where developers from around the world come together to learn about the latest advancements in [[Apple]] technology, attend workshops, and network with other developers. The event typically includes keynote presentations announcing new software updates, tools, and products.
 
 # History
 | Year | Location      | OS                                                                | Highlight                                                                                                                      |
 | ---- | ------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2024 | Online        | iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, tvOS 18, visionOS 2 | Apple announced general platform enhancements and lots of features based around [[Apple Intelligence]]                         |
-| 2023 | Online        | iOS 17, iPadOS 17, macOS Sonoma, watchOS 10, tvOS 17              | Apple announced Apple Vision Pro, a new 15" MacBook Air, the Mac Studio, and the Mac Pro  utilising the M2 ultra chip.         |
+| 2024 | Online        | iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, tvOS 18, visionOS 2 | [[Apple]] announced general platform enhancements and lots of features based around [[Apple Intelligence]]                         |
+| 2023 | Online        | iOS 17, iPadOS 17, macOS Sonoma, watchOS 10, tvOS 17              | [[Apple]] announced Apple Vision Pro, a new 15" MacBook Air, the Mac Studio, and the Mac Pro  utilising the M2 ultra chip.         |
 | 2022 | Online        | iOS 16, iPadOS 16, macOS Ventura, watchOS 9, tvOS 16              | M2 chip in Macbook Air and 13" Pro, iPhone lock screen widgets, and [[Stage Manager]].                                         |
-| 2021 | Online        | iOS 15, iPadOS 15, macOS Monterey, watchOS 8, tvOS 15             | Apple announced iOS 15 with new [[FaceTime]] features, macOS Monterey with Universal Control, and updates to watchOS and tvOS. |
-| 2020 | Online        | iOS 14, iPadOS 14, macOS Big Sur, watchOS 7, tvOS 14              | Apple unveiled iOS 14 with widgets and App Library, macOS Big Sur with redesigned interface, and updates to watchOS and tvOS.  |
-| 2019 | San Jose      | iOS 13, macOS Catalina, watchOS 6, tvOS 13                        | Apple introduced iOS 13 with Dark Mode, macOS Catalina with Sidecar, and updates to watchOS and tvOS.                          |
+| 2021 | Online        | iOS 15, iPadOS 15, macOS Monterey, watchOS 8, tvOS 15             | [[Apple]] announced iOS 15 with new [[FaceTime]] features, macOS Monterey with Universal Control, and updates to watchOS and tvOS. |
+| 2020 | Online        | iOS 14, iPadOS 14, macOS Big Sur, watchOS 7, tvOS 14              | [[Apple]] unveiled iOS 14 with widgets and App Library, macOS Big Sur with redesigned interface, and updates to watchOS and tvOS.  |
+| 2019 | San Jose      | iOS 13, macOS Catalina, watchOS 6, tvOS 13                        | [[Apple]] introduced iOS 13 with Dark Mode, macOS Catalina with Sidecar, and updates to watchOS and tvOS.                          |
 | 2018 | San Jose      | iOS 12, macOS Mojave, watchOS 5, tvOS 12                          | iOS 12 with Screen Time, macOS Mojave with Dark Mode.                                                                          |
 | 2017 | San Jose      | iOS 11, macOS High Sierra, watchOS 4, tvOS 11                     | iOS 11 with ARKit, macOS High Sierra with APFS.                                                                                |
 | 2016 | San Francisco | iOS 10, macOS Sierra, watchOS 3, tvOS 10                          | iOS 10 with iMessage effects, macOS Sierra with Siri.                                                                          |

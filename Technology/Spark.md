@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview  
-Spark is an e-mail client application available on Apple platforms. It offers a range of features to streamline email processing that make it appeal not only to individuals, but also to organisations where collaborative processing of e-mails is beneficial.
+Spark is an e-mail client application available on [[Apple]] platforms. It offers a range of features to streamline email processing that make it appeal not only to individuals, but also to organisations where collaborative processing of e-mails is beneficial.
 
 # Operating Systems  
 - macOS

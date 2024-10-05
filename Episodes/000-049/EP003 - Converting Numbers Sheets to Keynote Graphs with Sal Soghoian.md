@@ -80,14 +80,14 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 01:05      | for, I don't know, something like 10 years now, all the time to help me get automation                                                                                   |
 | 01:10      | better.                                                                                                                                                                  |
 | 01:11      | And for the longest time, Sal was the term product manager.                                                                                                              |
-| 01:15      | I mean, you were basically the guy for automation at Apple for a long time.                                                                                              |
+| 01:15      | I mean, you were basically the guy for automation at [[Apple]] for a long time.                                                                                              |
 | 01:19      | My job was kind of overloaded.                                                                                                                                           |
 | 01:21      | My title was product manager automation technologies, but I also functioned as the dev representer                                                                       |
 | 01:29      | and I would, the public meeting presenter and PR guy and a bunch of other things too.                                                                                    |
 | 01:36      | We're all encompassed within that title.                                                                                                                                 |
 | 01:38      | Well, I mean, the fact that Sal loves automation and it's infectious if you spend any time                                                                               |
 | 01:44      | with him because there's so many ways you can make your life easier with this stuff.                                                                                     |
-| 01:49      | And now you're not with Apple, but you're still doing that.                                                                                                              |
+| 01:49      | And now you're not with [[Apple]], but you're still doing that.                                                                                                              |
 | 01:51      | You're helping [[Omni Group\|Omni]] with the [[JavaScript]] implementation they're doing.                                                                                |
 | 01:55      | You're constantly publishing stuff over at Mac automation, I'm sorry, macosxautomation.com.                                                                              |
 | 02:02      | And you're just a treasure of the community for the automation stuff, I mean, honestly.                                                                                  |
@@ -101,12 +101,12 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 02:25      | the world through very creative ways and orchard related presentations.                                                                                                  |
 | 02:32      | I'm just thrilled with what you're doing too.                                                                                                                            |
 | 02:35      | Yeah, I do.                                                                                                                                                              |
-| 02:36      | I must say that I actually am working with Apple.                                                                                                                        |
-| 02:40      | I have an Apple badge.                                                                                                                                                   |
+| 02:36      | I must say that I actually am working with [[Apple]].                                                                                                                        |
+| 02:40      | I have an [[Apple]] badge.                                                                                                                                                   |
 | 02:43      | I work as a contractor with HCS which is Craig Cohen's organisation for the enterprise team                                                                              |
-| 02:51      | at Apple.                                                                                                                                                                |
+| 02:51      | at [[Apple]].                                                                                                                                                                |
 | 02:52      | I help them to develop automation tools for setting up iOS devices using Macs.                                                                                           |
-| 03:01      | And so some of that stuff that we developed early during my time at Apple, we're still                                                                                   |
+| 03:01      | And so some of that stuff that we developed early during my time at [[Apple]], we're still                                                                                   |
 | 03:07      | using and advancing and it's really incredible.                                                                                                                          |
 | 03:10      | Just give a shout out to JD and Adam and Ricardo and the rest of the team over there.                                                                                    |
 | 03:16      | They're doing a really great job on automating iOS devices using Macs.                                                                                                   |
@@ -132,14 +132,14 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 04:41      | There's a whole [[AppleScript]] there that's annotated for you.                                                                                                          |
 | 04:44      | It's got videos to show.                                                                                                                                                 |
 | 04:45      | And we're going to talk through it on the show today.                                                                                                                    |
-| 04:47      | So I think one of the best ways to get your very first lesson in auto script from Apple                                                                                  |
-| 04:52      | script from the guy is to sit down, listen to our show and just open that website on                                                                                     |
+| 04:47      | So I think one of the best ways to get your very first lesson in auto script from [[AppleScript]]                                                                                  |
+| 04:52      | from the guy is to sit down, listen to our show and just open that website on                                                                                     |
 | 04:57      | your Mac and you're going to get the code and everything you need.                                                                                                       |
 | 05:01      | Before we get started, I think if anybody's getting serious about AppleScript, one thing                                                                                 |
-| 05:05      | I would recommend you do, Apple has a built-in AppleScript editor on your Mac.                                                                                           |
+| 05:05      | I would recommend you do, [[Apple]] has a built-in AppleScript editor on your Mac.                                                                                           |
 | 05:09      | But if you want to get serious about the stuff, the app that I've been using, and Sal told                                                                               |
 | 05:13      | me about this app way, way long ago when I took his course, is you want to get yourself                                                                                  |
-| 05:19      | over to late night software.                                                                                                                                             |
+| 05:19      | over to [[Late Night Software]].                                                                                                                                             |
 | 05:20      | There's an app called [[Script Debugger]].                                                                                                                               |
 | 05:22      | And for years I paid for this app, bought it, they had a purchase system.                                                                                                |
 | 05:27      | Now they've got a thing where you can, I believe you can just download it and upgrade your                                                                               |
@@ -704,7 +704,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 45:25      | post it in the forum so that everybody else can steal it because this is an amazing way                                                                                  |
 | 45:30      | to get started.                                                                                                                                                          |
 | 45:32      | So please, please share what tweaks you make to make it yours.                                                                                                           |
-| 45:36      | To borrow a great idea that Apple has of everybody can code.                                                                                                             |
+| 45:36      | To borrow a great idea that [[Apple]] has of everybody can code.                                                                                                             |
 | 45:41      | Well, I think we can even go a step before that.                                                                                                                         |
 | 45:45      | Everybody can script.                                                                                                                                                    |
 | 45:46      | You know, it's coding and it uses the same kind of concepts of understanding objects                                                                                     |
@@ -712,7 +712,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 46:02      | And scripting is a great way to get yourself into the idea of that the power of the computer                                                                             |
 | 46:10      | should reside in the hands of the one using it, that this is there for you.                                                                                              |
 | 46:16      | This is built into this computer.                                                                                                                                        |
-| 46:19      | It's built into the Apple software.                                                                                                                                      |
+| 46:19      | It's built into the [[Apple]] software.                                                                                                                                      |
 | 46:21      | It's built into third party software and it's waiting for you to just spend a little bit                                                                                 |
 | 46:28      | of time to take advantage of it.                                                                                                                                         |
 | 46:30      | Yeah, we were talking before we start recording how it feels like there's a little bit of                                                                                |
@@ -720,8 +720,8 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 46:39      | And honestly, we started developing the show months before any of that stuff got announced.                                                                              |
 | 46:43      | So we just got lucky, I guess.                                                                                                                                           |
 | 46:45      | But how do you see, Sal, as someone who's so knowledgeable about [[AppleScript]] and [[JavaScript]]                                                                      |
-| 46:52      | and worked for Apple for so long, how do you see all this fitting together with the Siri                                                                                 |
-| 46:58      | shortcuts and the stuff that Apple is now bringing to the forefront?                                                                                                     |
+| 46:52      | and worked for [[Apple]] for so long, how do you see all this fitting together with the Siri                                                                                 |
+| 46:58      | shortcuts and the stuff that [[Apple]] is now bringing to the forefront?                                                                                                     |
 | 47:04      | Automation is a fundamental thing about computers and not only computers, but just humans.                                                                               |
 | 47:11      | As humans, we've always looked for ways to automate what we do.                                                                                                          |
 | 47:16      | It's just a natural instinct.                                                                                                                                            |
@@ -748,19 +748,19 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 49:21      | You write the same script that runs on both platforms the same.                                                                                                          |
 | 49:26      | And I think that that's the beginning of a new wave of automation, a new wave of user                                                                                    |
 | 49:32      | empowerment, and I think that's coming.                                                                                                                                  |
-| 49:35      | And it's really important for Apple to be part of that as well.                                                                                                          |
-| 49:42      | I think that Apple wants to grow their platform, especially in the enterprise and education                                                                              |
+| 49:35      | And it's really important for [[Apple]] to be part of that as well.                                                                                                          |
+| 49:42      | I think that [[Apple]] wants to grow their platform, especially in the enterprise and education                                                                              |
 | 49:49      | markets, and I'll bet you as more automation comes to iOS that you're going to see an increase                                                                           |
 | 49:55      | in sales in the enterprise because all of a sudden now you can make that device yours.                                                                                   |
 | 50:02      | You can create a set of tools that your team or your staff use that solve those problems                                                                                 |
 | 50:09      | and freeze them from drudgery and allows them to be as productive as they can be for you.                                                                                |
-| 50:17      | And I think that Apple senses that too as well.                                                                                                                          |
+| 50:17      | And I think that [[Apple]] senses that too as well.                                                                                                                          |
 | 50:21      | I'm looking at the changes that they made in Mojave and I'm looking at what they're                                                                                      |
 | 50:26      | doing with iOS 12 and Siri shortcuts and I'm going, mm-hmm, it's part of it.                                                                                             |
-| 50:33      | They're embracing this and I bet you it's going to reward Apple with increased sales,                                                                                    |
+| 50:33      | They're embracing this and I bet you it's going to reward [[Apple]] with increased sales,                                                                                    |
 | 50:39      | increased loyalty, increased excitement about their products again.                                                                                                      |
 | 50:44      | And once you get that excitement going, it's infectious.                                                                                                                 |
-| 50:48      | Apple love to share the tools that they've created.                                                                                                                      |
+| 50:48      | [[Apple]] love to share the tools that they've created.                                                                                                                      |
 | 50:51      | They love to make productivity things and then share that with their team or share that                                                                                  |
 | 50:57      | with other individuals.                                                                                                                                                  |
 | 50:59      | And Rose, you're a great example of that.                                                                                                                                |
@@ -775,14 +775,14 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 51:21      | Yeah.                                                                                                                                                                    |
 | 51:22      | I'm like, [[Automator]], [[Automator]], you could use [[AppleScript]].                                                                                                   |
 | 51:24      | It's like, yes, but [[Automator]] is a very good starting point.                                                                                                         |
-| 51:27      | I can tell you that [[Automator]] and [[AppleScript]] have been part of every Apple keynote.                                                                             |
+| 51:27      | I can tell you that [[Automator]] and [[AppleScript]] have been part of every [[Apple]] keynote.                                                                             |
 | 51:34      | They run in the background.                                                                                                                                              |
 | 51:37      | When all of a sudden an email comes in from Tim or something, that just doesn't happen                                                                                   |
 | 51:41      | by magic.                                                                                                                                                                |
 | 51:42      | Yeah.                                                                                                                                                                    |
 | 51:43      | Or when all of a sudden, Craig walks up to the machine and it's perfectly set up for                                                                                     |
 | 51:49      | this particular demo, there's a reason behind that.                                                                                                                      |
-| 51:54      | And Apple uses automation to a high degree like any other large company.                                                                                                 |
+| 51:54      | And [[Apple]] uses automation to a high degree like any other large company.                                                                                                 |
 | 52:00      | I mean, 80% of top tier companies that have a lot of computers use automation, they rely                                                                                 |
 | 52:08      | on it.                                                                                                                                                                   |
 | 52:09      | You can't make charts by hand.                                                                                                                                           |
@@ -819,7 +819,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 53:52      | That's the sort of thing that gets people on board.                                                                                                                      |
 | 53:54      | Yeah.                                                                                                                                                                    |
 | 53:55      | And, you know, if there's a mission statement to this podcast, it's that you don't need                                                                                  |
-| 53:57      | to be Apple to take advantage of this stuff.                                                                                                                             |
+| 53:57      | to be [[Apple]] to take advantage of this stuff.                                                                                                                             |
 | 54:00      | It's easy enough and it's fast enough that anybody can do it, whether you're a one-person                                                                                |
 | 54:05      | shop or whether you're managing your kid's soccer team or you've got a dental practice                                                                                   |
 | 54:11      | or whatever.                                                                                                                                                             |
@@ -891,7 +891,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 58:13      | at [[QuarkXTensions]], and that was quite useful.                                                                                                                        |
 | 58:16      | We developed a couple things, one of which was [[ShadowCaster]] that did drop shadows on                                                                                 |
 | 58:22      | text.                                                                                                                                                                    |
-| 58:23      | It was like the first time that was done, but then I saw an ad in the Apple Developer                                                                                    |
+| 58:23      | It was like the first time that was done, but then I saw an ad in the [[Apple]] Developer                                                                                    |
 | 58:30      | Magazine for this scripting language called [[AppleScript]], natural English-like language                                                                               |
 | 58:36      | for controlling applications and computer.                                                                                                                               |
 | 58:40      | I bought the CD and I spent, I think, $10 or $14 on the [[Scriptable Finder]].                                                                                           |
@@ -919,7 +919,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 01:00:26   | I wrote scripts for everybody from Showtime to hundreds of big name companies and it's                                                                                   |
 | 01:00:36   | a common thing.                                                                                                                                                          |
 | 01:00:37   | Everybody needs automation and I got into the desktop publishing with the local real estate                                                                              |
-| 01:00:43   | magazine and I created catalogue publishing scripts for that that eventually Apple saw                                                                                   |
+| 01:00:43   | magazine and I created catalogue publishing scripts for that that eventually [[Apple]] saw                                                                                   |
 | 01:00:50   | me and convinced me through much trickery, they convinced me to join the company and                                                                                     |
 | 01:00:57   | once I did it, it just took off and accelerated but that's how I got started, just one line                                                                              |
 | 01:01:04   | of code.                                                                                                                                                                 |

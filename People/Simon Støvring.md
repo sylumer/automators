@@ -12,7 +12,7 @@ relayurl: "https://www.relay.fm/people/simonstvring"
 ![[Simon Stovring.jpg|200x200]]
 
 # About
-Simon Støvring is a professional developer with a passion for building developer tools and applications for Apple platforms. He has created a number of applications to bolster the capabilities of [[Shortcuts]], as well as to provide independent sets of functionality.
+Simon Støvring is a professional developer with a passion for building developer tools and applications for [[Apple]] platforms. He has created a number of applications to bolster the capabilities of [[Shortcuts]], as well as to provide independent sets of functionality.
 
 # Guest Episodes
 ```dataviewjs

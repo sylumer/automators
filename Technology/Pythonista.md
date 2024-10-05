@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview
-Pythonista is an application for macOS and iOS that allows users to write and run [[Python]] scripts on their Apple devices. It provides a powerful development environment with plenty of tools to help Python programmers be more productive.
+Pythonista is an application for macOS and iOS that allows users to write and run [[Python]] scripts on their [[Apple]] devices. It provides a powerful development environment with plenty of tools to help Python programmers be more productive.
 
 # Operating Systems
 - iOS

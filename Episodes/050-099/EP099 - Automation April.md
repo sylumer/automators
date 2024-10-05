@@ -125,8 +125,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 02:21      | So our idea was we actually came to this idea starting from a couple of different points.             |
 | 02:30      | First of all, we really wanted to find a way to celebrate the Automation community.                   |
 | 02:34      | We wanted to put together a special event at the time of year when usually there's not                |
-| 02:41      | a ton of Apple news.                                                                                  |
-| 02:42      | And I mean, sure, we just got the [[WWDC]] announcement, but the March event from Apple has passed        |
+| 02:41      | a ton of [[Apple]] news.                                                                                  |
+| 02:42      | And I mean, sure, we just got the [[WWDC]] announcement, but the March event from [[Apple]] has passed        |
 | 02:49      | and now there's usually those couple of months when everybody's just waiting for June.                |
 | 02:54      | And so we thought, can we do something pretty cool here for max stories readers?                      |
 | 02:59      | And what can it be?                                                                                   |
@@ -134,7 +134,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 03:06      | candidate for us because we write about shortcuts, we share shortcuts, we love Automation and         |
 | 03:13      | we use it, we use shortcuts on every device every day.                                                |
 | 03:17      | So it felt like a like a nice match for Mac stories, but more than that, we also wanted               |
-| 03:24      | to put the spotlight on on creators, on people who can use shortcuts on Apple devices, especially     |
+| 03:24      | to put the spotlight on on creators, on people who can use shortcuts on [[Apple]] devices, especially     |
 | 03:33      | now that it's also available on Mac OS and use shortcuts to create just cool stuff, cool              |
 | 03:39      | things, useful workflows, useful automations.                                                         |
 | 03:43      | And to put the spotlight on those people doing so in a way that we can go beyond what we              |
@@ -215,9 +215,9 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 08:24      | last year on our platforms, really, and especially the Mac, it feels like it's really breathing       |
 | 08:31      | new life into the community in us, even like, I think I also speak for John here.                     |
 | 08:39      | We're going through this really creative period for automation and shortcuts in our                   |
-| 08:44      | own personal use cases, which is a good sign because it means that Apple is giving us the             |
+| 08:44      | own personal use cases, which is a good sign because it means that [[Apple]] is giving us the             |
 | 08:49      | tools to come up with new ideas and to share them with people.                                        |
-| 08:53      | And so the timing was right, you know, for us and for shortcuts, Apple is still continuing            |
+| 08:53      | And so the timing was right, you know, for us and for shortcuts, [[Apple]] is still continuing            |
 | 09:00      | to fix problems, so that's also a good sign.                                                          |
 | 09:04      | And honestly, and, you know, we had nothing else to do.                                               |
 | 09:09      | True.                                                                                                 |
@@ -239,7 +239,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 10:09      | Yeah, it makes sense.                                                                                 |
 | 10:10      | And also, people who are indie developers, if they're going to take time off, like now                |
 | 10:15      | is a pretty good time to take some time off of whatever your app is, so that you're rested            |
-| 10:20      | and refreshed, ready for whatever Apple dump on you at [[WWDC]], be that a thousand new features          |
+| 10:20      | and refreshed, ready for whatever [[Apple]] dump on you at [[WWDC]], be that a thousand new features          |
 | 10:25      | you can implement, or, oh, I'm going to go rework this area of my app now that there                  |
 | 10:30      | has been some refactoring involved in how everything that I'm using works, as I'm sure                |
 | 10:35      | more than one developer has encountered in the past, which is good.                                   |
@@ -449,7 +449,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 24:33      | use the conditions because there's really no other solution.                                          |
 | 24:38      | Ideally, this wouldn't be necessary though, ideally the iPad and the Mac would all have               |
 | 24:44      | the same actions, so maybe this year we'll get some of that feature parity.                           |
-| 24:50      | What would you do if you were at Apple to fix this issue?                                             |
+| 24:50      | What would you do if you were at [[Apple]] to fix this issue?                                             |
 | 24:54      | So for listeners who aren't familiar, sometimes you'll run a shortcut, you'll make it on your         |
 | 24:58      | iPhone and it just won't run on the Mac because of the differences.                                   |
 | 25:03      | I guess you'd look for a way to make every action work on every platform.                             |
@@ -461,8 +461,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 25:37      | why are some actions not supported on iPad?                                                           |
 | 25:42      | So there's an argument there, I guess, where finder actions, they should become compatible            |
 | 25:49      | with files or find windows, why is it not supported on iPad?                                          |
-| 25:55      | So I guess the problem, if I were at Apple, I would say, how can we make sure that all                |
-| 26:00      | these actions, with some exceptions, because I mean, AppleScript, does Apple really want             |
+| 25:55      | So I guess the problem, if I were at [[Apple]], I would say, how can we make sure that all                |
+| 26:00      | these actions, with some exceptions, because I mean, AppleScript, does [[Apple]] really want             |
 | 26:06      | to run AppleScript on iPad OS?                                                                       |
 | 26:08      | Probably not.                                                                                         |
 | 26:09      | So I would try as much as possible to trim the list of these exceptions and make all actions          |
@@ -483,8 +483,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 27:06      | There's greater compatibility between the two platforms.                                              |
 | 27:11      | Yeah.                                                                                                 |
 | 27:12      | Yeah.                                                                                                 |
-| 27:13      | For me, I'd love to see things like the vibrate action, which only works on iPhone and Apple          |
-| 27:17      | Watch.                                                                                                |
+| 27:13      | For me, I'd love to see things like the vibrate action, which only works on iPhone and Apple Watch.          |
 | 27:18      | Like, it should just be ignored on the other platforms, like maybe it should pop up like              |
 | 27:22      | a thing that said, hey, I couldn't vibrate because I'm not a machine that has a vibrate               |
 | 27:27      | feature in, but it shouldn't crash, like just stop your shortcut at the point where it would          |
@@ -532,19 +531,19 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 29:43      | sense that the Mac has a different history and as a result, the focus on that kind of                 |
 | 29:50      | sharing mechanism just isn't there and hasn't ever really been there.                                 |
 | 29:54      | And so as a result, they haven't gotten to it because of that, you know what I mean?                  |
-| 29:59      | I also wonder if maybe Apple is looking at this from a different perspective because                  |
-| 30:05      | we're here asking for the same share sheet on the Mac and usually Apple likes to take                 |
+| 29:59      | I also wonder if maybe [[Apple]] is looking at this from a different perspective because                  |
+| 30:05      | we're here asking for the same share sheet on the Mac and usually [[Apple]] likes to take                 |
 | 30:13      | a look at what people are asking and saying, well, you're asking for this, but what you               |
 | 30:18      | really want, it's something else.                                                                     |
 | 30:21      | It makes like, I look at stuff like what they added in iOS 15, right?                                 |
-| 30:26      | With the receive what's on screen as a sign of how Apple may be looking at this.                      |
+| 30:26      | With the receive what's on screen as a sign of how [[Apple]] may be looking at this.                      |
 | 30:34      | They added this whole system, which is an action, but also an input type, which is whatever           |
 | 30:39      | is displayed on screen can become input for a shortcut.                                               |
 | 30:44      | And it doesn't always work great, but at least they're trying.                                        |
 | 30:48      | So whether you're looking at a [[Safari]] web page, the shortcut knows it's a link.                       |
 | 30:52      | And if you're looking at an image, the shortcut knows you want to share an image.                     |
 | 30:55      | That's the idea.                                                                                      |
-| 30:56      | So maybe Apple is listening to this feedback, asking for the share sheet on the Mac, but              |
+| 30:56      | So maybe [[Apple]] is listening to this feedback, asking for the share sheet on the Mac, but              |
 | 31:02      | maybe they will have a special twist on it, which is, well, it's not a share sheet, but               |
 | 31:09      | now you can trigger all your shortcuts with input from [[Spotlight]] or something like that.              |
 | 31:16      | So like the idea that it's a Mac and it's different and it's primarily keyboard based,                |
@@ -586,7 +585,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 34:20      | that idea that I just saved at the beginning of this section. So it uses the finder actions,          |
 | 34:27      | which on iOS and app at OS would be the files actions, and it modifies the dashboard note,            |
 | 34:33      | which is a markdown file, and that's super easy. I've also now, thanks to the bug fixes               |
-| 34:39      | that Apple made, I have been playing around more with the multitasking actions. So for                |
+| 34:39      | that [[Apple]] made, I have been playing around more with the multitasking actions. So for                |
 | 34:46      | example, one shortcut that I built, and that I'm going to share soon, I think, is this                |
 | 34:52      | shortcut to create my, this is something that I really would love to have on iPadOS 16                |
 | 34:58      | as a system feature, but anyway, a shortcut that lets me create my favourite combinations              |
@@ -622,7 +621,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 37:53      | Is there a particular reason why you're using the shell to call AppleScript for that rather          |
 | 37:57      | than just using an AppleScript command directly?                                                     |
 | 38:01      | Because yeah, also a very good question because for whatever reason, in 12.3, I couldn't put          |
-| 38:08      | variables in the AppleScript. I think it's because Apple wants to validate the code of               |
+| 38:08      | variables in the AppleScript. I think it's because [[Apple]] wants to validate the code of               |
 | 38:14      | the AppleScript before it runs. Like you have the little hammer icon that sort of checks             |
 | 38:20      | your code. And I guess that code cannot be dynamic. It cannot have variables. I guess                 |
 | 38:26      | they don't care with the shell because you can put variables in the shell. So the name                |
@@ -684,15 +683,15 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 43:26      | dot com/automators to learn more about TextExpander. Once again, that is TextExpander         |
 | 43:32      | dot com/automators and our thanks to TextExpander for their support of the automators          |
 | 43:37      | and all of relay FM. Now, Federico, we've been talking about shortcuts, but you're on the             |
-| 43:43      | Mac and there's other automation platforms. And I know you're pretty familiar with Apple              |
-| 43:48      | script and shell scripting. And I don't know, are you doing any stuff with keyboard measure?          |
+| 43:43      | Mac and there's other automation platforms. And I know you're pretty familiar with [[AppleScript]]              |
+| 43:48      | and shell scripting. And I don't know, are you doing any stuff with keyboard measure?          |
 | 43:52      | What are the non shortcuts automation platforms you're using at this point on your Mac?               |
 | 44:00      | I think the sort of the auxiliary tools that I'm using, I'm mostly copying copying copying            |
 | 44:07      | from John. So John has gone, I think has a few more examples to share here. But John                  |
 | 44:12      | really introduced me to this sort of cult in a good way of [[BetterTouchTool]]. All the                 |
 | 44:20      | things you can do with [[BetterTouchTool]], if you combine that with shortcuts. So that's               |
 | 44:25      | also something that I've been doing. Especially in terms of sending keystrokes to apps from           |
-| 44:35      | a shortcut via the [[BetterTouchTool]] action. And I'm actually surprised that Apple doesn't            |
+| 44:35      | a shortcut via the [[BetterTouchTool]] action. And I'm actually surprised that [[Apple]] doesn't            |
 | 44:41      | have a native version of this, that you have to use the [[BetterTouchTool]] action to simulate          |
 | 44:46      | sending a keystroke to an app. But for example, I have a shortcut that in the music app for           |
 | 44:52      | Mac, it lets me view the lyrics sidebar. When I'm listening to a song and I want to check             |
@@ -706,8 +705,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 45:38      | you about this, John, because to me, Better Touch is like the pot of gold in shortcuts,               |
 | 45:43      | like you install [[BetterTouchTool]], which is a great app to do a bunch of stuff. But then             |
 | 45:46      | you look at it shortcut sections, and it's like, all of the stuff that fell off the back              |
-| 45:50      | of the truck at Apple got added to [[BetterTouchTool]]. I mean, not only can you trigger                |
-| 45:54      | short keyboard, you can also trigger menu items. I mean, I, when we had the Apple guys                |
+| 45:50      | of the truck at [[Apple]] got added to [[BetterTouchTool]]. I mean, not only can you trigger                |
+| 45:54      | short keyboard, you can also trigger menu items. I mean, I, when we had the [[Apple]] guys                |
 | 46:00      | on Mac Power users, I'd asked them, are you ever going to let us do that? And they, they              |
 | 46:04      | were very nice, but they kind of said no, you know, and, and [[BetterTouchTool]] is like,               |
 | 46:09      | oh, no problem, we'll let you trigger anything in your menu bar with the shortcut. So what            |
@@ -764,7 +763,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 51:02      | makes it very easy. This is my second, the second thing that I like. It also makes it                 |
 | 51:06      | very easy to give a to give a hotkey to any shortcut. And for whatever reason, these hotkeys          |
 | 51:12      | that I set in [[Raycast]] are more reliable than the native hotkeys in shortcuts itself. So               |
-| 51:21      | I never use the Apple provided option for system white hotkeys. I use [[Raycast]] because                 |
+| 51:21      | I never use the [[Apple]] provided option for system white hotkeys. I use [[Raycast]] because                 |
 | 51:28      | they trigger all the time without error whatsoever. Yeah, I've talked to [[Raycast]] about that doing     |
 | 51:35      | the input thing, Federico, and I have my fingers across that they're going to allow it because        |
 | 51:42      | they have something similar, which is you can set up a website query where you type                   |
@@ -810,7 +809,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 55:25      | have thumbnails or subtitles or checkboxes, you know, I want to be able to control the                |
 | 55:34      | UI design aspect of shortcuts more. Apps like Pythonista and editorial did this right years           |
 | 55:43      | ago. There was a whole UI building block in Pythonista and editorial in 2013, well before             |
-| 55:50      | the days of workflow even. And I would love to see Apple do more along these lines. So                |
+| 55:50      | the days of workflow even. And I would love to see [[Apple]] do more along these lines. So                |
 | 55:57      | more UI building features for power users for people who want to have like this sort                  |
 | 56:05      | of mini apps in shortcuts, if you will. I also want to have more flexibility in the                   |
 | 56:11      | widgets. I still believe that the shortcuts widget could use a lot more density in the                |
@@ -860,7 +859,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:00:30   | a lot easier.                                                                                         |
 | 01:00:31   | Yeah, I mean, using [[Keyboard Maestro]], you can do a lot of that stuff. And it really feels             |
 | 01:00:37   | crippling when you get over to shortcuts for Mac and you can't. But I want to talk about              |
-| 01:00:42   | the, the debugging stuff, because I feel like that is a tough needle to thread for Apple              |
+| 01:00:42   | the, the debugging stuff, because I feel like that is a tough needle to thread for [[Apple]]              |
 | 01:00:47   | because I agree with everything you said. I think we need better debugging tools, especially          |
 | 01:00:51   | for advanced users. But I also think we need better debugging for simple users or for people          |
 | 01:00:58   | who are getting started, because when you run a shortcut and just nothing happens that                |
@@ -882,7 +881,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:02:12   | always ask me is like, so how many of your shortcuts are using Toolbox Pro? And that's              |
 | 01:02:16   | not something I can answer using shortcuts. I mean, not directly, you can break it down               |
 | 01:02:21   | and try and parse through things and do P lists and stuff, but it's suddenly incredibly               |
-| 01:02:26   | complicated to do that. And, you know, fortunately, Apple have finally given us the ability or        |
+| 01:02:26   | complicated to do that. And, you know, fortunately, [[Apple]] have finally given us the ability or        |
 | 01:02:32   | given developers the ability to share shortcuts actions across application versions, because          |
 | 01:02:38   | that was a thing where, you know, you would have, for example, different shortcuts actions            |
 | 01:02:43   | for things on iPadOS versus iPhone. So you had to do, if it's the iPhone, do this, and                |
@@ -942,12 +941,12 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:10:12   | like, well, no, no, it was AppleScript. Before I was a primarily iPhone and iPad user, I              |
 | 01:10:23   | realised, I don't know, I've always been into like, customising things and modifying things           |
 | 01:10:28   | to make them more personalised and better for me. I've always been a tinkerer with computers.         |
-| 01:10:36   | And I don't know how exactly, but it must have been one of [[Brett Terpstra\|Brett Terpstra's]] old Apple                 |
-| 01:10:43   | Scripts or like Markdown things or something from Doug's iTunes [[AppleScript\|AppleScripts]] back in the             |
+| 01:10:36   | And I don't know how exactly, but it must have been one of [[Brett Terpstra\|Brett Terpstra's]] old [[AppleScript\|AppleScripts]]                 |
+| 01:10:43   | or like [[Markdown]] things or something from Doug's iTunes [[AppleScript\|AppleScripts]] back in the             |
 | 01:10:52   | day. And I think I started tinkering there on my Mac. So we're talking 2008, 2009. And                |
-| 01:11:02   | later, my interest in automation really picked up though with Launch Center Pro [[Drafts]] and            |
-| 01:11:08   | really with Pythonista and Editorial. So that would be 2012 and 2013 when Editorial came              |
-| 01:11:16   | out. And I really never stopped. So starting with Pythonista in 2012, Editorial in 2013,              |
+| 01:11:02   | later, my interest in automation really picked up though with [[Launch Center Pro]], [[Drafts]] and            |
+| 01:11:08   | really with [[Pythonista]] and [[Editorial]]. So that would be 2012 and 2013 when [[Editorial]] came              |
+| 01:11:16   | out. And I really never stopped. So starting with Pythonista in 2012, [[Editorial]] in 2013,              |
 | 01:11:24   | and then Workflow in 2014. That's when it really started for me, this kind of modern                  |
 | 01:11:31   | automation. And then with Workflow and later shortcuts. And here we are today.                        |
 | 01:11:36   | How about you, John? Where did you get started with automation?                                       |
@@ -1002,8 +1001,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:15:41   | Good.                                                                                                 |
 | 01:15:42   | Perfect. Yeah.                                                                                        |
 | 01:15:43   | The more people out there that figure out this stuff, the better we all are. And honestly,            |
-| 01:15:48   | you know, we talked a lot today about things we'd like to see Apple change, but you know              |
-| 01:15:51   | what? We'll get Apple to put more bodies on this problem. It's more people creating shortcuts         |
+| 01:15:48   | you know, we talked a lot today about things we'd like to see [[Apple]] change, but you know              |
+| 01:15:51   | what? We'll get [[Apple]] to put more bodies on this problem. It's more people creating shortcuts         |
 | 01:15:57   | and more people talking about it and sharing it. And, you know, it's the reason Automator             |
 | 01:16:02   | died on the vine. I mean, there was a lot of reasons, I'm sure, but one of them was                   |
 | 01:16:06   | it's never got the traction it needed. And so anything we can all do to help everybody                |

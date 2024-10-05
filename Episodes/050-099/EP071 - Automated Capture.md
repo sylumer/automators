@@ -179,7 +179,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 10:15      | iOS 14. You can you can set it to do specific things like take a screenshot or something                 |
 | 10:20      | like that. But I have set it to open [[Drafts]]. And for a long time, I thought that this feature            |
 | 10:25      | was kind of flaky. And that was because I was trying to double tap the bottom of my                      |
-| 10:28      | iPhone. It turns out if you double tap the Apple logo, then it works every single time,                  |
+| 10:28      | iPhone. It turns out if you double tap the [[Apple]] logo, then it works every single time,                  |
 | 10:33      | guaranteed. And I've set that up so they create a new draft automatically. That's the shortcut           |
 | 10:37      | is running create draft and it and then it opens that a new draft for me. Because that                   |
 | 10:43      | gets me into [[Drafts]] super, super quickly. The other thing, of course, that I have is                     |
@@ -222,7 +222,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:57      | for capture and use the downloaded actions that are available, then you can do that.                     |
 | 14:02      | And I would argue that you should do that because [[Drafts]] is a great application for                      |
 | 14:06      | this. But I mean, there are plenty of other applications that you could use. I mean, I                   |
-| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, Apple lady, and                      |
+| 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, [[Apple]] lady, and                      |
 | 14:16      | she's listening because I've got a speaker in almost every room now. I don't have one                    |
 | 14:20      | in the hallway, but there are three rooms adjacent to the hallway with these. I don't                    |
 | 14:24      | have one in the bathroom. So I have to use my Apple watch there if I need to capture                     |
@@ -614,7 +614,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 40:27      | with fill-in-the-blank fields using quick abbreviations, save serious time by storing                    |
 | 40:32      | and expanding phrases you type frequently, and get your message right every time by expanding            |
 | 40:37      | content that corrects your spelling and keeps your language consistent with a few keystrokes.            |
-| 40:43      | TextExpander is on all of the Apple platforms as well as Windows, and I find so many uses                |
+| 40:43      | TextExpander is on all of the [[Apple]] platforms as well as Windows, and I find so many uses                |
 | 40:49      | for it.                                                                                                  |
 | 40:50      | We're talking a lot today about [[Drafts]], but did you know [[Drafts]] has built-in TextExpander                |
 | 40:54      | support?                                                                                                 |
@@ -630,7 +630,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 41:29      | FM.                                                                                                      |
 | 41:30      | So, David, I think we need to talk about more ways that we automate capture, because there               |
 | 41:37      | are lots of ways.                                                                                        |
-| 41:38      | And I touched on this a little bit earlier, but I say, hey Apple lady, and use that as                   |
+| 41:38      | And I touched on this a little bit earlier, but I say, hey [[Apple]] lady, and use that as                   |
 | 41:45      | a capture method.                                                                                        |
 | 41:47      | This may not sound super automated, but when I break it down, it actually is.                            |
 | 41:54      | So I'll do that.                                                                                         |
@@ -693,7 +693,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 45:29      | I mean, rather than going to specific apps.                                                              |
 | 45:31      | Yeah.                                                                                                    |
 | 45:32      | Yeah.                                                                                                    |
-| 45:33      | Because you can say, hey, Apple Lady, create a note in [[Drafts]].                                           |
+| 45:33      | Because you can say, hey, [[Apple]] Lady, create a note in [[Drafts]].                                           |
 | 45:40      | But that's more words than, well, it's actually the same number of words as remind me to,                |
 | 45:46      | or pretty much.                                                                                          |
 | 45:48      | But I just find that remind me to is easy syntax.                                                        |
@@ -927,7 +927,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:00:09   | tasks based on it or whatever, I'll take care of it all.                                                 |
 | 01:00:12   | But that quick capture to me, and I'd love to hear from people in the audience if they've                |
 | 01:00:17   | got a better solution, but everything I've tried feels very tenuous.                                     |
-| 01:00:22   | Like trying to capture a specific text message is not easy and Apple just doesn't make it                |
+| 01:00:22   | Like trying to capture a specific text message is not easy and [[Apple]] just doesn't make it                |
 | 01:00:29   | easy.                                                                                                    |
 | 01:00:30   | I found that, you know, the screen grab is the easiest way I could do it.                                |
 | 01:00:34   | Yeah.                                                                                                    |

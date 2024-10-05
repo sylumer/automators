@@ -228,7 +228,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 12:50      | a lot. If someone came up to you today and said, hey, I want to start automating, where                  |
 | 12:54      | would you send them other than this podcast? Well, I probably asked them to show me their                |
 | 13:02      | phone, to be honest. Most people's first computer these days is their mobile device. So if it            |
-| 13:11      | was an Apple device, then I would absolutely send them to Automators first. There's nowhere              |
+| 13:11      | was an [[Apple]] device, then I would absolutely send them to Automators first. There's nowhere              |
 | 13:17      | else to go. But if it was an Android phone, I'd kind of point them in the direction of                   |
 | 13:24      | a few apps. It's been a few years since I've used Android, but I think [[Tasker]] is still                  |
 | 13:28      | the best automation on that platform. But I think being able to show someone immediately                 |
@@ -293,13 +293,13 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 18:36      | around that most of the time and I found that if I just actually just generated smaller                  |
 | 18:40      | subsets, I could very quickly get through it without any issues and so I put together                    |
 | 18:46      | this shortcut and it can generate based on the font awesome icons that are in there and                  |
-| 18:51      | the SF icons that Apple produce and it just generates a full set of these icons with just                |
+| 18:51      | the SF icons that [[Apple]] produce and it just generates a full set of these icons with just                |
 | 18:59      | two different colours. So you can pick colours that match most of mine. I have a nice gold                 |
 | 19:04      | or a yellow with just a plain background and I find that less distracting than all these                 |
 | 19:09      | pastel, glaring sort of buttons that you would have otherwise. And so I did that sometime                |
 | 19:15      | last year and then I eventually got around to writing about it a few weeks ago.                          |
 | 19:19      | I want to tell you that this post saved me so many hours because I too am a [[Stream Deck]]                  |
-| 19:26      | user and I've really grown accustomed to the [[SF Symbols]], which is Apple has released its                 |
+| 19:26      | user and I've really grown accustomed to the [[SF Symbols]], which is [[Apple]] has released its                 |
 | 19:32      | own icon set, which they've done over the last year and a half and you get this big                      |
 | 19:38      | list of these icons and the way I was using them was just the word, I shouldn't even be                  |
 | 19:44      | allowed to be on automators because of the way I was using these. I would open them up                   |

@@ -228,7 +228,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 12:51      | just use the basic plan and I use it to track food and it also tracks my log out, my workouts.         |
 | 12:57      | So it just kind of gives me running tally as I get through the day of how I'm doing.                   |
 | 13:01      | Um, something you mentioned, Rose, I'd like to kind of go in a little deeper. I don't                  |
-| 13:04      | think a lot of people understand is the data sharing model with Apple's health and fitness             |
+| 13:04      | think a lot of people understand is the data sharing model with [[Apple|Apple's]] health and fitness             |
 | 13:10      | data.                                                                                                  |
 | 13:11      | Oh yeah, this is so good. So there are a whole host of devices, a lot of them available in             |
 | 13:16      | the Apple store, but they're not exclusively available in the Apple store. There are devices           |
@@ -242,8 +242,8 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 13:56      | get a lot of this data and it's really nice, you know, being able to do an ECG on your                 |
 | 13:59      | watch and show it to somebody, that's pretty cool. And being able to send that as a PDF                |
 | 14:04      | by email is even better.                                                                               |
-| 14:06      | Yeah, I just think this is something that, uh, where Apple has really done well. I mean,               |
-| 14:11      | we give Apple a hard time sometimes on the show, but, uh, the management of health data,               |
+| 14:06      | Yeah, I just think this is something that, uh, where [[Apple]] has really done well. I mean,               |
+| 14:11      | we give [[Apple]] a hard time sometimes on the show, but, uh, the management of health data,               |
 | 14:17      | first they protect your privacy, they keep it on device. Um, but they encrypt it so you                |
 | 14:22      | can make a backup of it. I mean, for a while that was an issue, like you lose data if you              |
 | 14:26      | had a new device because of the way the health data was stored, but also they have a completely        |
@@ -259,7 +259,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 15:18      | good implementation. In fact, I look at this and then I look at what they've done with                 |
 | 15:24      | the time tracking stuff, you know, where they app tracking and how many times you pick up              |
 | 15:29      | your phone and all that. Um, they don't do any of that with that data. You know, that                  |
-| 15:33      | data is completely siloed in that, uh, the Apple application. I would love to see third                |
+| 15:33      | data is completely siloed in that, uh, the [[Apple]] application. I would love to see third                |
 | 15:40      | party developers be able to access and use that data, but they can't. Uh, so it is an                  |
 | 15:44      | interesting contrast, but for health data, you have the benefit of being able to put                   |
 | 15:49      | it anywhere you want. And that that allows you to get apps like water tracking apps or                 |
@@ -272,7 +272,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 16:24      | tracking, that's really useful for those people who need it. And, uh, I'm really pleased               |
 | 16:28      | to see that this is continuing to grow and be better. And, uh, there's stuff's working                 |
 | 16:33      | really well for me. Um, and, uh, the, the new UI is pretty. So that always helps.                      |
-| 16:39      | I just feel like this is one section of Apple that's like clicking on all cylinders right              |
+| 16:39      | I just feel like this is one section of [[Apple]] that's like clicking on all cylinders right              |
 | 16:43      | now. They're just doing a great job.                                                                   |
 | 16:45      | Yes, definitely.                                                                                       |
 | 16:49      | This episode of automators is brought to you by Kensington, the people who make universal              |
@@ -390,7 +390,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 26:14      | with some, some things at the gym recently. Yeah, I mean, I just, we, the type of, of                  |
 | 26:22      | gym we go to, but it's like a, the workout is like planned for you. You go in and they                 |
 | 26:28      | push you around. They're like, jump on the treadmill, go lift weights, you know, whatever.             |
-| 26:31      | So, so it's nice. And Apple added the high interval, what's it called, the high intense                |
+| 26:31      | So, so it's nice. And [[Apple]] added the high interval, what's it called, the high intense                |
 | 26:37      | and interval training as a, as a potential, which is the type of work I did. Because when              |
 | 26:41      | I was doing it, before they added that, I would do these workouts and I'd be on the                    |
 | 26:45      | treadmill, but then I'd switch over to the weights or to the rowing machine. And I was                 |
@@ -721,7 +721,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 55:00      | So Launch Cuts is just kind of an ingenious way to take, it gets, it looks at your shortcuts           |
 | 55:07      | library and gets all the names out of it, and then allows you to organise them within folders.         |
 | 55:12      | So it's like a, it's kind of a launcher for shortcuts, but it just adds a bunch of features            |
-| 55:17      | that Apple hasn't got around to.                                                                       |
+| 55:17      | that [[Apple]] hasn't got around to.                                                                       |
 | 55:19      | Yes. And this is so useful. So I finally managed to get all of my shortcuts for screen                 |
 | 55:23      | accounts online in one folder and automators in one folder and the suite set up in one                 |
 | 55:27      | folder. And it's so nice to have like those 10 shortcuts together, not scattered around                |

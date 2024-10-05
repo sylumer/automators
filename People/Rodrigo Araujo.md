@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/rodrigoaraujo
 ![[Rodrigo Araujo.jpg|200x200]]
 
 # About
-Rodrigo is an indie software developer for Apple platforms, and is probably best known for his [[Shortcuts]] companion app, [[Charty]].
+Rodrigo is an indie software developer for [[Apple]] platforms, and is probably best known for his [[Shortcuts]] companion app, [[Charty]].
 
 # Guest Episodes
 ```dataviewjs

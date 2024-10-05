@@ -91,7 +91,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:04      | and I love that name by the way, I love the name.                     |
 | 01:06      | So good.                                                              |
 | 01:07      | So you think we should change the name to Automator's Ultra?          |
-| 01:10      | Now that Apple has announced                                          |
+| 01:10      | Now that [[Apple]] has announced                                          |
 | 01:11      | that there's an even more powerful Mac with an Ultra chip.            |
 | 01:14      | I mean, my studio is not gonna have an Ultra                          |
 | 01:15      | and it's just gonna have whatever the almost-based model is.          |
@@ -118,7 +118,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 02:17      | And so I was very tempted.                                            |
 | 02:18      | I was like, maybe I get a new laptop,                                 |
 | 02:20      | maybe I get a new laptop.                                             |
-| 02:21      | Let's see what Apple do.                                              |
+| 02:21      | Let's see what [[Apple]] do.                                              |
 | 02:23      | And then they did the Mac Studio.                                     |
 | 02:26      | So yeah, maybe it should be Automators Studio.                        |
 | 02:29      | I never know.                                                         |
@@ -187,7 +187,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 05:06      | Because I've got this theory,                                         |
 | 05:08      | and maybe you and I are exceptions                                    |
 | 05:10      | because it's hard for us to hold on                                   |
-| 05:11      | to Apple hardware, it seems.                                          |
+| 05:11      | to [[Apple]] hardware, it seems.                                          |
 | 05:12      | But I really think that these Apple Silicon chips                     |
 | 05:17      | are going to be very reliable.                                        |
 | 05:20      | And I've said this on the Mac Power user,                             |
@@ -518,8 +518,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 18:24      | for this field guide six months ago,                                  |
 | 18:26      | it's crazy that this one has taken so long.                           |
 | 18:29      | But they were like looking at my notes.                               |
-| 18:30      | There's all these videos where it's like hold for Apple bug,           |
-| 18:34      | hold for Apple bug.                                                    |
+| 18:30      | There's all these videos where it's like hold for [[Apple]] bug,           |
+| 18:34      | hold for [[Apple]] bug.                                                    |
 | 18:35      | That was like a category.                                             |
 | 18:37      | And so many of the videos I couldn't record at the beginning          |
 | 18:40      | because there was some problem.                                       |
@@ -534,7 +534,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 19:02      | I know they worked really hard on it.                                 |
 | 19:04      | Kind of behind the scenes stuff you've seen                           |
 | 19:07      | just through social media and whatnot.                                |
-| 19:10      | Some of the old [[AppleScript]] [[Automator]] gang at Apple,                 |
+| 19:10      | Some of the old [[AppleScript]] [[Automator]] gang at [[Apple]],                 |
 | 19:14      | the people who were there with [[Sal Soghoian\|Sal]]                                    |
 | 19:15      | at the beginning showing up on the shortcuts team now.                |
 | 19:18      | And I think that's a really good sign                                 |
@@ -639,7 +639,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 23:19      | I mean, I think this is really coming along                           |
 | 23:21      | and the promise is here, you know,                                    |
 | 23:24      | we're gonna get good automation tools                                 |
-| 23:25      | that we can use across all of Apple platforms.                        |
+| 23:25      | that we can use across all of [[Apple]] platforms.                        |
 | 23:28      | I do think that in the future,                                        |
 | 23:30      | we'll look back on this year as the rough one, you know,              |
 | 23:33      | when they were getting it onto the Mac                                |
@@ -703,7 +703,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 26:07      | which essentially just open applications in sequence                  |
 | 26:09      | and then open, it creates a new sticky                                |
 | 26:13      | and it puts the information in sticky.                                |
-| 26:15      | I had to farm out to Apple Skip for that bit.                         |
+| 26:15      | I had to farm out to [[AppleScript]] for that bit.                         |
 | 26:18      | But what I've done for him is I used the add shortcuts                |
 | 26:22      | to doc option, which is only available                                |
 | 26:24      | from the main shortcuts window.                                       |
@@ -1019,7 +1019,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 40:01      | they're right there.                                                  |
 | 40:03      | So that makes it even better.                                         |
 | 40:06      | Yeah, I agree.                                                        |
-| 40:07      | It's just crazy how much the kind of the Apple ecosystem              |
+| 40:07      | It's just crazy how much the kind of the [[Apple]] ecosystem              |
 | 40:12      | has shown up to find ways to make this easy.                          |
 | 40:15      | Yeah.                                                                 |
 | 40:16      | There's also a [[Stream Deck]] button.                                    |

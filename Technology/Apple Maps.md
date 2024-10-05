@@ -6,7 +6,7 @@ notetype: technology
 # Overview
 Apple Maps is the default mapping application developed by [[Apple]] for its suite of devices. The app provides detailed maps, turn-by-turn navigation, real-time traffic updates, and public transit information, making it a useful tool for travel and navigation.
 
-Apple Maps leverages Apple's integration across its ecosystem, enabling things such as use with Siri for voice-activated navigation and synchronised navigation across all devices.
+Apple Maps leverages [[Apple|Apple's]] integration across its ecosystem, enabling things such as use with Siri for voice-activated navigation and synchronised navigation across all devices.
 
 # Operating Systems
 - iOS
@@ -29,7 +29,7 @@ Apple Maps leverages Apple's integration across its ecosystem, enabling things s
 - **Share ETA** - shares your estimated time of arrival with family and friends.
 
 # Notes
-- Apple Maps is included with Apple devices.
+- Apple Maps is included with [[Apple]] devices.
 - Apple Maps supports [[Shortcuts]].
 
 # Links

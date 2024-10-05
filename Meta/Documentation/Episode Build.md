@@ -268,9 +268,9 @@ flowchart TD
 	class 2A,4A,5B SHORTCUT
 ```
 
-Details about other Apple Shortcuts and [[Keyboard Maestro]] macros that this macro uses can be found below.
+Details about other [[Shortcuts|Apple Shortcuts]] and [[Keyboard Maestro]] macros that this macro uses can be found below.
 
-- Apple Shortcuts
+- [[Shortcuts|Apple Shortcuts]]
 	- `Automators Episode Info`
 	- `Automators Episode Path`
 	- `Automators Open Show Notes`

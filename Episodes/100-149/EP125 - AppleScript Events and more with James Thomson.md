@@ -166,9 +166,9 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 09:04      | it that was very hard because, like, you know, all the stuff where you have all the little             |
 | 09:09      | like the clauses like you give me all of these things where the name is this and this matches          |
 | 09:15      | and this matches or whatever. All that stuff you had to write yourself. Like there wasn't              |
-| 09:21      | any support from Apple for doing that. So you would find apps that kind of worked. And                 |
+| 09:21      | any support from [[Apple]] for doing that. So you would find apps that kind of worked. And                 |
 | 09:28      | then if you tried to make any complex query against them, we would just completely fall                |
-| 09:31      | apart. There was some open source stuff from Apple written by a friend of mine who fight.              |
+| 09:31      | apart. There was some open source stuff from [[Apple]] written by a friend of mine who fight.              |
 | 09:42      | But I used that made some of that easier. But it's easier today with AppKit because                    |
 | 09:50      | AppKit does a lot of the kind of heavy lifting of that stuff for you. But it just feels weird          |
 | 09:59      | that I've been working on AppleScript stuff for nearly 30 years.                                      |
@@ -191,7 +191,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 11:40      | They chose not to, which is what led to kind of this long path toward shortcuts. But, you              |
 | 11:47      | know, Apple events and AppleScript are embedded in the operating system at this point. I mean,        |
 | 11:53      | we hear from people on the inside all the time, they're using AppleScript to keep                     |
-| 11:56      | Apple running. It's not going to go anywhere. And it really was the start of user based                |
+| 11:56      | [[Apple]] running. It's not going to go anywhere. And it really was the start of user based                |
 | 12:02      | automation in a lot of ways. Yeah. And it wasn't just, you know, like just                             |
 | 12:08      | the AppleScript that they have the whole kind of underlying architecture that other                   |
 | 12:14      | people could do their own languages as well, because there was the frontier by user land               |
@@ -215,7 +215,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 14:11      | was very badly exposed. So, you know, it's it's, I know that it was me talking to Douglas,             |
 | 14:18      | but there's no actual physical proof from this photo.                                                  |
 | 14:24      | What was his what was his personality that you got to spend a little time with him?                    |
-| 14:28      | Yeah, he seemed really nice. I mean, he was like, obviously very enthusiastic about Apple.             |
+| 14:28      | Yeah, he seemed really nice. I mean, he was like, obviously very enthusiastic about [[Apple]].             |
 | 14:33      | Yeah, because I think he was famously the first person in the UK to buy a Mac. I think                 |
 | 14:38      | Steven Fry was second. And he was really nice. Just kind of I need to find the exact quote,            |
 | 14:49      | but we were talking about the the the G4 cube. And he called it something like, you know,              |
@@ -236,7 +236,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 16:34      | actually like after that, it kind of settled down. And I was running around with a big                 |
 | 16:39      | piquant T shirt. And there was a on the top of the visitor centre, there's a bit where                 |
 | 16:48      | you could look out and you could see like a vague outline of a roof of Apple Park and                  |
-| 16:52      | a lot of trees. And people were getting the photos taken up there. And there was an Apple              |
+| 16:52      | a lot of trees. And people were getting the photos taken up there. And there was an [[Apple]]              |
 | 17:00      | employee whose job it was to basically take photos of people and and be nice. And the                  |
 | 17:07      | guy there pointed at my t-shirt or whatever and said, That's a great app. And I said,                  |
 | 17:15      | Oh, thank you. And then, you know, took pictures, blah, blah, and and five minutes later, he           |
@@ -720,7 +720,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:03:16   | these things, writing automation support is difficult. And I think there's a reason why                |
 | 01:03:20   | a lot of apps don't do it well. I'm not saying that I do it perfectly. But you come across             |
 | 01:03:26   | apps that have nothing, no AppleScript, no Shortcuts. And part of that is because it's                |
-| 01:03:33   | hard and it's annoying and it's brittle and things break. And then Apple says, oh no,                  |
+| 01:03:33   | hard and it's annoying and it's brittle and things break. And then [[Apple]] says, oh no,                  |
 | 01:03:39   | that way that we were doing Shortcuts for the last couple of years, well, throw away                   |
 | 01:03:42   | all your code and here's a completely new way of doing it in [[Swift]]. And you go, okay,                  |
 | 01:03:47   | well, maybe next year.                                                                                 |
@@ -749,10 +749,10 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:06:03   | Yeah. And yeah, it's not always, it's, I don't, I don't have any analytics in my apps,                 |
 | 01:06:12   | which is one of those kind of point of principle things, you know, it's like, no, I don't want         |
 | 01:06:21   | to, I don't want to know what you're doing, which is good. But it also means I don't know what         |
-| 01:06:26   | people are doing. Yeah. And I did have Apple once there was like, there was a feature or               |
+| 01:06:26   | people are doing. Yeah. And I did have [[Apple]] once there was like, there was a feature or               |
 | 01:06:32   | something. And somebody was like, you know, so what do people use your application for?                |
 | 01:06:36   | I'm like, I have literally no idea, you know, it's a calculator, they calculate things.                |
-| 01:06:44   | And I had, I basically, you know, because I needed to give Apple an answer to this, I was,             |
+| 01:06:44   | And I had, I basically, you know, because I needed to give [[Apple]] an answer to this, I was,             |
 | 01:06:53   | I asked a bunch of people, do you know people who use this? And do you know what they use it for?      |
 | 01:06:57   | And the answers that I got back were terrifying in that there was one person who was using it to       |
 | 01:07:04   | calculate the amount of anesthetic to give people who were going under for operations.                 |
@@ -828,11 +828,11 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:14:53   | there's things where AppleScript, as dead as a Dodo maybe, we still have stuff Dodo's around and       |
 | 01:15:00   | they still look like Dodo's. AppleScript, it's a bit more alive than the Dodo, but it's not that       |
 | 01:15:04   | dissimilar. Well, let me just interrupt there. I don't think AppleScript is dead. I don't think        |
-| 01:15:10   | it's going to be actively added to, but I think it's working just fine. And I don't think Apple        |
+| 01:15:10   | it's going to be actively added to, but I think it's working just fine. And I don't think [[Apple]]        |
 | 01:15:18   | has any intention of removing it. I don't think they even could if they wanted to.                     |
 | 01:15:22   | I mean, you say that, but I remember when all the 32-bit apps, including every single traditional      |
-| 01:15:30   | Mac app went away, all the carbon stuff. And it's like Apple, something from my developer              |
-| 01:15:37   | perspective, Apple don't have any problem with turning around one year and saying,                     |
+| 01:15:30   | Mac app went away, all the carbon stuff. And it's like [[Apple]], something from my developer              |
+| 01:15:37   | perspective, [[Apple]] don't have any problem with turning around one year and saying,                     |
 | 01:15:43   | oh, yeah, that thing, that thing's not a thing anymore. And you go, but I use that thing and they      |
 | 01:15:48   | go, well, find a new thing. Yeah, but wasn't it, it wouldn't take active work for them to              |
 | 01:15:55   | remove AppleScript? I mean, it's not something. The thing is, I don't think at this point,             |
@@ -840,10 +840,10 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:16:11   | would I take a bet on [[AppleScript]] still being in the system in 10 years? I don't know. I mean,         |
 | 01:16:18   | five years, probably. I mean, like these things, a lot of things stay around because there's           |
 | 01:16:24   | inertia and people are busy working on cars and AR goggles and whatever and don't have the time to     |
-| 01:16:32   | just go in and rip out stuff. But I honestly would not be surprised if at some point Apple just said,  |
+| 01:16:32   | just go in and rip out stuff. But I honestly would not be surprised if at some point [[Apple]] just said,  |
 | 01:16:40   | look, we are duplicating effort. It's time to focus on this. This is a new way of doing things. And    |
-| 01:16:47   | Apple is not a sentimental company. I mean, individuals, perhaps, but overall, no.                     |
-| 01:16:53   | Yeah, but I mean, that applies. 10 years applies to anything Apple makes. I mean,                      |
+| 01:16:47   | [[Apple]] is not a sentimental company. I mean, individuals, perhaps, but overall, no.                     |
+| 01:16:53   | Yeah, but I mean, that applies. 10 years applies to anything [[Apple]] makes. I mean,                      |
 | 01:16:58   | would you bet that shortcuts exist in 10 years? I mean, it may not. You just never know what           |
 | 01:17:03   | they're gonna do. I mean, it may transform in that time, but I would say that it will still exist.     |
 | 01:17:09   | For me, [[AppleScript]] support is not going to go away while apps are not universal apps.                 |
@@ -859,7 +859,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:18:06   | There is no sending mail, email action shortcuts on macOS. By the way, mail team, if you're listening, |
 | 01:18:15   | I got a really, like a lovely little piece of low hanging fruit. As we record this,                    |
 | 01:18:19   | or like as this releases, it's just about April. Okay, you've got a couple of months.                  |
-| 01:18:24   | Do me a favor, stick it in the beta, please, please. And if folks, if you know somebody                |
+| 01:18:24   | Do me a favour, stick it in the beta, please, please. And if folks, if you know somebody                |
 | 01:18:31   | on the mail team, please send them a nice little gift basket and just say like a little                |
 | 01:18:36   | shortcuts icon as like the gift tag or something. Like don't like harass them or anything. Send        |
 | 01:18:43   | them presents because we like the mail team. They make a good app, but shortcut support, please.       |
@@ -872,21 +872,21 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:19:28   | do this, but it should work. And it's like, oh, now I feel bad because the person who actually         |
 | 01:19:33   | was responsible for the thing that I complained about loudly read that. And maybe I made their         |
 | 01:19:39   | day slightly less fun. Yeah. Which is why I said send gift baskets because people like presents.       |
-| 01:19:46   | Except Apple employees can't accept anything. It used to be, I think there was a minimum that          |
+| 01:19:46   | Except [[Apple]] employees can't accept anything. It used to be, I think there was a minimum that          |
 | 01:19:51   | they could do and it was like nothing above $5 or whatever. But the gift policy, I think is            |
 | 01:19:56   | now nothing because you can't induce them. Okay. File feedback people, but add like                    |
 | 01:20:04   | positive emojis to your feedback. Yes. This is a happy emoji count as a bribe. I don't know.           |
-| 01:20:13   | Maybe if you send them hearts, that would count as a bribe or something against Apple's                |
+| 01:20:13   | Maybe if you send them hearts, that would count as a bribe or something against [[Apple|Apple's]]                |
 | 01:20:18   | policies. I do note that over the past few years, we've seen this several times where                  |
-| 01:20:24   | Apple made substantive improvements to a Mac app. And the following year, it got better automation     |
+| 01:20:24   | [[Apple]] made substantive improvements to a Mac app. And the following year, it got better automation     |
 | 01:20:31   | support. It seems like there's almost like [[Appl Reminders\|Reminders]] stands out for me that [[Apple Reminders\|Reminders]]                 |
 | 01:20:37   | got a lot of updates with features, but it's always like a year or two behind with the shortcuts       |
 | 01:20:42   | and automation support. So it may be just like a process, but it is odd to me that shortcuts,          |
-| 01:20:49   | which they say is their automation story going forward, has two different stories for Apple            |
-| 01:20:54   | Mail, one of their primary productivity apps, whereas it has pretty robust support on iOS              |
+| 01:20:49   | which they say is their automation story going forward, has two different stories for Apple Mail,           |
+| 01:20:54   | one of their primary productivity apps, whereas it has pretty robust support on iOS              |
 | 01:21:01   | and less so on the Mac. But getting back to my point, if you want to spend a little time with          |
 | 01:21:06   | AppleScript, you can do almost anything with Apple Mail. I think it's that also people assume         |
-| 01:21:11   | that Apple, because they're a multi-trillion dollar company, have an infinite number of                |
+| 01:21:11   | that [[Apple]], because they're a multi-trillion dollar company, have an infinite number of                |
 | 01:21:15   | employees working on all this stuff. And sometimes you look at the team sizes for these things,        |
 | 01:21:21   | and you think, the whole thing was just written by whatever. I mean, when I worked on the finder,      |
 | 01:21:26   | and previously you did say, by the way, that I wrote the doc, and I wish to                            |
@@ -895,18 +895,18 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:21:42   | But not that I'm bitter some years later. But anyway, the point is, the finder team at that            |
 | 01:21:54   | time, it was like six people or something like that. It was a very small team. And things like         |
 | 01:22:01   | that are pretty common. It's not like you hear these stories of Facebook having 600 people             |
-| 01:22:11   | working on an app or whatever. It's small. And maybe Apple should pay more, put more money into        |
+| 01:22:11   | working on an app or whatever. It's small. And maybe [[Apple]] should pay more, put more money into        |
 | 01:22:24   | their development teams and their support teams and things. Because I know quite a lot of people       |
 | 01:22:28   | are complaining about how they can't even get open job racks and things, because it's just...          |
 | 01:22:36   | It reminds me a little bit of the story of the open graphing calculator,                               |
 | 01:22:40   | or the graphing calculator. I don't know if either of you have read or are familiar with this. I'll    |
 | 01:22:44   | include a link to it in show notes. But the graphing calculator that is now on the Mac,                |
 | 01:22:51   | which was bundled with the original PowerPC, was created by two people who weren't even working        |
-| 01:22:56   | for Apple because their project got cancelled. I believe the current graphing calculator that          |
+| 01:22:56   | for [[Apple]] because their project got cancelled. I believe the current graphing calculator that          |
 | 01:23:01   | ships is not by Ron. But the original one. The original one. And he does have a new version            |
 | 01:23:08   | of the graphing calculator available. Anyway, all the calculator people stick together. I don't        |
 | 01:23:14   | know why. But yes, I mean, it's an interesting thing with them sneaking in. And it's like,             |
-| 01:23:26   | I worked on... When I was at Apple, my first couple of weeks, I was working on Copeland.               |
+| 01:23:26   | I worked on... When I was at [[Apple]], my first couple of weeks, I was working on Copeland.               |
 | 01:23:34   | I started in October, 1996. And Copeland was cancelled in August, 1996. I was still working            |
 | 01:23:41   | on it when I started. It was a very weird time. But yes. One of those things where, yeah,              |
 | 01:23:48   | all of these things end up adding up to some very interesting stories. And yes,                        |
@@ -1020,7 +1020,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:35:34   | these things to, you know, search engines or whatever, or cars seems like a terrible idea,             |
 | 01:35:43   | which everybody's rushing to do because the shareholders are saying, oh, we must, we must move         |
 | 01:35:48   | away from doing blockchain stuff and we must now do AI things. And people saying, you know,            |
-| 01:35:55   | oh, Apple should replace Siri with this stuff. It's clear that Siri's an old technology, it's no       |
+| 01:35:55   | oh, [[Apple]] should replace Siri with this stuff. It's clear that Siri's an old technology, it's no       |
 | 01:36:04   | good. See, I don't want my home to confidently tell me the doors are locked, but not actually          |
 | 01:36:12   | understand what a door is and also for my doors to not be locked while it's telling me the doors       |
 | 01:36:17   | are locked. That seems like a bad move. You know, all of these things have language around them,       |

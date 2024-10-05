@@ -25,7 +25,7 @@ Things is a task management application from [[Cultured Code]] that helps users 
 # Notes
 - Things is a paid app, with separate purchases required for macOS, iOS/watchOS, iPadOS, and visionOS.
 - Things supports [[Shortcuts]] for automation.
-- Cultured Code won Apple's design award in 2017 for Things, and Apple named Things the app of the year that same year.
+- Cultured Code won [[Apple|Apple's]] design award in 2017 for Things, and [[Apple]] named Things the app of the year that same year.
 
 # Links
 - [Official Website](https://culturedcode.com/things/)

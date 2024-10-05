@@ -12,7 +12,7 @@ relayurl: "https://www.relay.fm/people/alexhay"
 ![[Alex Hay.jpg|200x200]]
 
 # About
-Alex was a documentary editor and the Indie developer behind several of the Apple community's favourite [[Shortcuts]] utility applications. Alex lived in London in the UK.
+Alex was a documentary editor and the Indie developer behind several of the [[Apple]] community's favourite [[Shortcuts]] utility applications. Alex lived in London in the UK.
 
 > [!INFO] In Memoriam
 > In March 2023, Alex passed away after a battle with cancer. You can find out more and donate to charities fighting cancer via [this article](https://www.macstories.net/stories/remembering-alex-hay-the-maker-of-toolbox-pro-during-automation-april/) from MacStories.

@@ -214,7 +214,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 09:28      | adjacent apps. There's so much to do there like if you're just if you're interested in home             |
 | 09:33      | automation and you're just using the home app even though it gets better with the next release,         |
 | 09:39      | you're missing out. I mean, and we've talked about on the show we've done episodes before with all      |
-| 09:43      | these apps, but it is a truly remarkable number one that Apple left the door open for third party       |
+| 09:43      | these apps, but it is a truly remarkable number one that [[Apple]] left the door open for third party       |
 | 09:50      | developers to get in and you know, fiddle around with [[HomeKit]] and number two, the way the developers    |
 | 09:57      | have delivered the goods on this stuff. But we skipped over Scotty. So we started this conversation     |
 | 10:04      | around focus. What are the kinds of focus modes that you're using? So like I say, I think there's       |
@@ -369,10 +369,10 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 24:39      | I need to investigate this. Rose, have you ever played with this? But basically, you've got...          |
 | 24:43      | Yeah, I have. And it's one of those things that a lot of the time, depending on what kind of calendar   |
 | 24:49      | it is, so your calendar has to be a local calendar on your Mac. This is something that is really,       |
-| 24:55      | really important for that to work. It can't be like an iCloud calendar or something even or             |
+| 24:55      | really important for that to work. It can't be like an iCloud Calendar or something even or             |
 | 25:02      | Google Calendar that doesn't work. And then once you've added the event and you go back in and you      |
-| 25:07      | try to edit it, then there is probably but not guaranteed to be the option to add the Apple             |
-| 25:14      | script. So I don't do that. I just have anything that's scheduled for things like that I have in        |
+| 25:07      | try to edit it, then there is probably but not guaranteed to be the option to add the [[AppleScript]].       |
+| 25:14      | So I don't do that. I just have anything that's scheduled for things like that I have in        |
 | 25:20      | [[Keyboard Maestro]] with a trigger for the right time. And that just deals with it for me.                 |
 | 25:26      | Well, the advantage of putting it on a calendar event and the way it does is you open a file,           |
 | 25:30      | they got rid of the run AppleScript command that they used to have years ago, which I wish they had.     |
@@ -388,7 +388,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 26:18      | says, today, I'm going to spend the day, you know, you know, I don't know, watering the garden,         |
 | 26:23      | I'm not going to do the focus stuff today. And you just delete it for that day. And then                |
 | 26:28      | the light doesn't turn purple that day. So I feel like there's something to this. I need to dig         |
-| 26:32      | into it. But Apple has definitely made triggering events, triggering scripts with calendar events       |
+| 26:32      | into it. But [[Apple]] has definitely made triggering events, triggering scripts with calendar events       |
 | 26:38      | harder over the last few years. I don't think many people were using it.                                |
 | 26:43      | No, no. So just for anybody who's listening, who wants to know, you have to add the event to            |
 | 26:49      | your calendar, then you add an alert, go all the way to the bottom of the list, custom. And then        |

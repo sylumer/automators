@@ -95,7 +95,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 01:25      | It's pretty amazing.                                                                                    |
 | 01:26      | The way you and I met is we were both speakers at Macworld back when there was such a thing             |
 | 01:32      | called Macworld, and we used to hang out together back then, and you do a lot of computing,             |
-| 01:40      | a lot of Apple-related computing.                                                                       |
+| 01:40      | a lot of [[Apple]]-related computing.                                                                       |
 | 01:42      | One of the things J.F. does is he's the supervising editor for Screencast Online, which means           |
 | 01:47      | it tells what that means, J.F.                                                                          |
 | 01:50      | Oh, yeah.                                                                                               |
@@ -509,7 +509,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 26:24      | Yes, it's a fun one for sure.                                                                           |
 | 26:25      | I teach that one to people all the time.                                                                |
 | 26:28      | Yeah, there's some use there.                                                                           |
-| 26:30      | I do wonder now, Apple is taking some of the terminal tools out with Catalina as I understand           |
+| 26:30      | I do wonder now, [[Apple]] is taking some of the terminal tools out with Catalina as I understand           |
 | 26:38      | it.                                                                                                     |
 | 26:39      | I don't know all the details.                                                                           |
 | 26:40      | I think they're actually switching.                                                                     |
@@ -527,7 +527,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 27:11      | of you curious about the name, Bourne Again Shell, just like Jason Bourne from the movies,                  |
 | 27:16      | you can.                                                                                                |
 | 27:17      | You can keep using it.                                                                                  |
-| 27:18      | But indeed, Apple, Rose has switched across.                                                            |
+| 27:18      | But indeed, [[Apple]], Rose has switched across.                                                            |
 | 27:20      | I'm not exactly sure I haven't read about the exact reason why that is, Dr. Drang will                    |
 | 27:25      | probably let us know why that is, but you can still use BASH if you like.                               |
 | 27:30      | All right.                                                                                              |
@@ -771,7 +771,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 43:16      | Most of the time, honestly, if an app is not willing to support shortcuts, then I am                    |
 | 43:23      | now at the point where I'm seriously considering dropping the application rather than continuing        |
 | 43:29      | to use [[URL Schemes]].                                                                                     |
-| 43:31      | Because with the new parameterised shortcuts, also Apple, in their [[WWDC]], they were very                 |
+| 43:31      | Because with the new parameterised shortcuts, also [[Apple]], in their [[WWDC]], they were very                 |
 | 43:39      | clear that shortcuts is the future and [[URL Schemes]] are insecure, which means that at                    |
 | 43:45      | some point, at least from my perspective, they're going to be either dropping them or                   |
 | 43:50      | blocking them or something.                                                                             |
@@ -795,7 +795,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 44:54      | So even when iOS 13 launches, not every application is going to be ready to support this straight       |
 | 45:00      | off the bat.                                                                                            |
 | 45:01      | Depending on what their application is, they may have had a considerable amount of work                 |
-| 45:04      | to do this summer, thanks to Apple's annual announcement, or they may have not had so                   |
+| 45:04      | to do this summer, thanks to [[Apple\|Apple's]] annual announcement, or they may have not had so                   |
 | 45:09      | much work, but they had other priorities that they needed to get fixed.                                 |
 | 45:13      | But if they're not planning on supporting parameterised shortcuts and they're just sticking             |
 | 45:17      | with [[URL Schemes]], then, well, I would at the very least caution any developer in that case              |

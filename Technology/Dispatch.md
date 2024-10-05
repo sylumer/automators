@@ -54,7 +54,7 @@ The following apps were supported in quick actions.
 # Notes
 - Dispatch was a paid application
 - Supported [[IMAP]] only
-- The application supported integration with Apple's Shortcuts app for automation
+- The application supported integration with [[Apple|Apple's]] Shortcuts app for automation
 - The application supported the `x-dispatch://` [[URL Schemes\|URL scheme]], but for this to work on the Mac, a [Download Dispatch OS X URL Helper](https://web.archive.org/web/20201130200053/http://www.dispatchapp.net/downloads/DispatchURLHelper.dmg) application was necessary.
 - Created by Muh Hon Cheng and Lin Junjie.
 

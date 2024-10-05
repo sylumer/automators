@@ -4,7 +4,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-Apple TV is a digital media player developed by Apple. It allows users to stream content like movies, TV shows, music, and even play games on their televisions. The device connects to a TV via an HDMI cable and uses the Internet to fetch media from various streaming services.
+Apple TV is a digital media player developed by [[Apple]]. It allows users to stream content like movies, TV shows, music, and even play games on their televisions. The device connects to a TV via an HDMI cable and uses the Internet to fetch media from various streaming services.
 
 The primary purpose of Apple TV is to provide an all-in-one entertainment hub, simplifying the way users access and manage their digital content. It is controlled by a remote (physical or app/OS feature), although it can also be navigated using the Apple TV app on an iPhone or iPad.
 

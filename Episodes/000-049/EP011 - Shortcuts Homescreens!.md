@@ -534,7 +534,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 27:33      | new post.                                                                                            |
 | 27:34      | In fact, I just had one this morning, and I'm going to write up rows about all the low-hanging       |
 | 27:37      | fruit in iOS.                                                                                        |
-| 27:38      | I'm tired of people saying that it's just an iPad, but there's some things Apple needs               |
+| 27:38      | I'm tired of people saying that it's just an iPad, but there's some things [[Apple]] needs               |
 | 27:43      | to do, like they need to fix, like you should be able to create a folder and do better tags          |
 | 27:48      | and stuff.                                                                                           |
 | 27:49      | So I have this whole idea.                                                                           |
@@ -687,7 +687,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 37:10      | So I made one of these shortcuts based on that.                                                      |
 | 37:13      | And then I've actually got a bigger shortcut just called play.                                       |
 | 37:17      | And that one launches a whole bunch of stuff.                                                        |
-| 37:19      | It gets me into the Apple store.                                                                     |
+| 37:19      | It gets me into the [[Apple]] store.                                                                     |
 | 37:21      | It gets me on [[Amazon]].                                                                                |
 | 37:22      | It gets me on the HBO app opens the [[Apple TV App\|TV app]].                                                          |
 | 37:25      | But there's also a button there called saxophone, which exposes that second level of those saxophone |
@@ -938,7 +938,7 @@ Have you heard of the Shortcuts home screen fad? Where your home screen is just 
 | 51:49      | It's not quite what you want, and you have to specify how many photos you want to take               |
 | 51:54      | and which camera you want to take it with the front camera or the back camera and whether            |
 | 51:57      | or not you want to show a camera preview and all of that stuff.                                      |
-| 52:01      | It is odd that some of the Apple apps are the ones that are not Siri shortcut-friendly.              |
+| 52:01      | It is odd that some of the [[Apple]] apps are the ones that are not Siri shortcut-friendly.              |
 | 52:05      | Yeah.                                                                                                |
 | 52:06      | But then again...                                                                                    |
 | 52:07      | It's also weird that you can turn off showing a camera preview because if you do that, then          |

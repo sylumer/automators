@@ -349,7 +349,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 11:51      | But, you know, it is limited in that respect.                                   |
 | 11:54      | But for that trade-off, it is 100% automatic.                                   |
 | 11:58      | So that's a good start, right?                                                  |
-| 12:00      | Yeah, it is, you know, I really wish Apple would open this up,                  |
+| 12:00      | Yeah, it is, you know, I really wish [[Apple]] would open this up,                  |
 | 12:03      | though.                                                                         |
 | 12:04      | Oh, yeah.                                                                       |
 | 12:05      | Just let third parties access that data.                                        |

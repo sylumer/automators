@@ -128,7 +128,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 02:20      | And just a warning in this show, not every show is going to be the same, but in this                                   |
 | 02:24      | show we're going to talk about workflow a lot because it is so convenient for calendar                                 |
 | 02:29      | event management and the tools are actually quite powerful.                                                            |
-| 02:33      | You can download workflow for free, Apple owns it, they just announced that they're                                    |
+| 02:33      | You can download workflow for free, [[Apple]] owns it, they just announced that they're                                    |
 | 02:37      | going to be switching over to these Siri shortcuts, which both Rose and I were in San Jose when                        |
 | 02:43      | it happened and talked to several people and it sounds like all the workflow stuff is going                            |
 | 02:47      | to come over to Siri shortcut.                                                                                         |
@@ -188,7 +188,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 06:06      | to and back.                                                                                                           |
 | 06:07      | And you can make it, like, if you want to get fancy, you can make it a menu selection                                  |
 | 06:09      | where you can pick how long it's going to take.                                                                        |
-| 06:12      | And you know, like where Apple, like Apple's [[Apple Calendar\|calendar]] app has the option to put travel             |
+| 06:12      | And you know, like where [[Apple]], like [[Apple\|Apple's]] [[Apple Calendar\|calendar]] app has the option to put travel             |
 | 06:16      | time in, but it only gives you travel time getting there.                                                              |
 | 06:20      | Like a lot of times I have events that are away from the office or the home.                                           |
 | 06:24      | It takes 30 minutes to get there, but I have to get back afterwards.                                                   |

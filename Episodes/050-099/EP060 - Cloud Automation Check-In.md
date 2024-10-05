@@ -207,8 +207,8 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 07:25      | you've ever thought of is seems like it's in there.                                                          |
 | 07:28      | But also, I feel like it's very good at like grabbing one thing from the internet and using                  |
 | 07:34      | it at some other point in the internet.                                                                      |
-| 07:37      | And they also have done a good job of app integration for people on Apple platform.                          |
-| 07:41      | So, you know, I don't know what the deal they made with Apple was, but they've got access                    |
+| 07:37      | And they also have done a good job of app integration for people on [[Apple]] platform.                          |
+| 07:41      | So, you know, I don't know what the deal they made with [[Apple]] was, but they've got access                    |
 | 07:47      | to some data from your iCloud stuff.                                                                         |
 | 07:50      | One of my personal favourite integrations with [[IFTTT\|If This Then That]] [[Day One]].                                  |
 | 07:54      | I'm a big [[Day One]] journaler, and I've got a couple [[Day One]] things going on.                                  |
@@ -1088,7 +1088,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:00:11   | Well, I, my automation problems I've been working on lately are just a lot of stuff                          |
 | 01:00:15   | in [[Drafts]].                                                                                                   |
 | 01:00:16   | I mean, we had Greg on recently, but after we recorded that show, he, because I pestered                     |
-| 01:00:22   | him on the show, I think he added the ability to turn [[Drafts]] tags into Apple finder tags.                    |
+| 01:00:22   | him on the show, I think he added the ability to turn [[Drafts]] tags into [[Finder\|Apple Finder]] tags.                    |
 | 01:00:29   | So now like one of the automations I use is like when I have a phone call come in for                        |
 | 01:00:34   | a client matter, I just have a draft that runs a text template.                                              |
 | 01:00:39   | And you can do that in [[Drafts]] where it just inserts text.                                                    |
@@ -1107,7 +1107,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:01:38   | immediately where they belong.                                                                               |
 | 01:01:41   | And it's totally secure because it's just on my drive.                                                       |
 | 01:01:43   | It's not going to the cloud anywhere.                                                                        |
-| 01:01:45   | And all that's because Greg got it, that ability to export the tags as Apple tags.                           |
+| 01:01:45   | And all that's because Greg got it, that ability to export the tags as [[Apple]] tags.                           |
 | 01:01:53   | And I'm so thankful to him for taking the time to do that because I think he really                          |
 | 01:01:58   | only did it to shut me up.                                                                                   |
 | 01:02:00   | Well, I've seen snippets of this workflow coming through, David.                                             |

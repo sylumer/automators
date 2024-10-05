@@ -126,7 +126,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 04:36      | we talked on this show a little over a year ago about the hypothetical shortcut to end                 |
 | 04:42      | all shortcuts, you know, the one that would take your calendar, turn it into the wallpaper             |
 | 04:47      | and save it to the wallpaper of your phone. And that was one both of us had developed.                 |
-| 04:54      | And then Apple yanked the carpet from under us by taking away the set wallpaper action                 |
+| 04:54      | And then [[Apple]] yanked the carpet from under us by taking away the set wallpaper action                 |
 | 04:59      | from shortcuts. So that never happened. I had to cut a bunch out of the shortcuts field                |
 | 05:02      | guide because I had already planned to publish on it. But the, but now you get that with,              |
 | 05:08      | you know, pick the calendar app of your choice that has a widget and you've got an automatically       |
@@ -144,11 +144,11 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 06:06      | I don't get ahead of myself. We got some cool stuff to talk about in today's show.                     |
 | 06:12      | The downside though of the widgets is it's not really interactive. And we've talked about              |
 | 06:16      | this on the show a few times now. It's, you know, the data update is slow. Some apps are               |
-| 06:23      | worse than others where, you know, using the [[Apple Calendar|calendar]] app as an example, if you change                 |
+| 06:23      | worse than others where, you know, using the [[Apple Calendar\|Calendar app]] as an example, if you change                 |
 | 06:28      | your appointments around, there's a chance your calendar on your home screen isn't going               |
 | 06:32      | to be up to date. So that's an issue. There is a limitation on the sizes. You know, they've            |
 | 06:38      | got the small, medium, large sizes on Android. You can kind of make widgets any way or shape           |
-| 06:43      | or form you want and put them anywhere. And Apple kind of has this grid system. I don't                |
+| 06:43      | or form you want and put them anywhere. And [[Apple]] kind of has this grid system. I don't                |
 | 06:49      | really think that's a negative, but I know some people on the internet do. I kind of                   |
 | 06:53      | like it to be clean. So I'm okay with that. What are your thoughts on that? Yeah, me too.              |
 | 06:59      | I mean, I, on the one hand, I would like to just be able to float anything anywhere. And               |
@@ -249,17 +249,17 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 14:53      | with it. They're not that many anymore. Yeah. Uh, I'll tell you, one of the native app widgets         |
 | 14:59      | that I think deserves call out is Fantastical. Um, they just, you know, they've always               |
 | 15:05      | got a good eye for design over there. And I think they just really did a great job with                |
-| 15:11      | these widgets and you know, the Apple calendar app widgets were fine, but as soon as I saw             |
-| 15:18      | the Fantastical widgets, it immediately replaced them on my home screen. Yeah. Um,                   |
+| 15:11      | these widgets and you know, the [[Apple Calendar]] app widgets were fine, but as soon as I saw             |
+| 15:18      | the [[Fantastical]] widgets, it immediately replaced them on my home screen. Yeah. Um,                   |
 | 15:24      | and I like the fact that it's got, you know, not just calendar in there. It sounds ridiculous.         |
 | 15:28      | It's a calendar app, but adding the weather for me made it into, from a good app icon                  |
 | 15:34      | or app widget, sorry, into a great app widget. I pestered them about that so much through              |
 | 15:38      | the beta. I'm like, just because that just get, that's one less widget I have to deal                  |
 | 15:43      | with if I can get today's weather on my calendar. And, uh, I know that was a challenge for them        |
 | 15:49      | figuring out where do you put it that doesn't get in the way of calendar data, but I think             |
-| 15:53      | they did a good job. And if you use Fantastical, they have, I don't know, they have many             |
+| 15:53      | they did a good job. And if you use [[Fantastical]], they have, I don't know, they have many             |
 | 15:59      | widgets to choose from. So you can choose whatever size you want and how big or how                    |
-| 16:05      | much data you want. Uh, which one, do you use the Fantastical widget? Yes. I am currently            |
+| 16:05      | much data you want. Uh, which one, do you use the [[Fantastical]] widget? Yes. I am currently            |
 | 16:11      | experimenting with the medium size in a stack. Um, but I may try the small size later. Uh,             |
 | 16:17      | but, uh, at the moment I'm using the medium one. Yeah. I'm using the large one and I'm                 |
 | 16:23      | using the version of large one that gives me the monthly calendar and like today's date                |
@@ -290,7 +290,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 18:29      | so that I can, you know, start capturing immediately or it's a widget on my home screen.               |
 | 18:34      | All right. Um, one, another one. And I, I promise we're going to get to the nerdy or,                  |
 | 18:40      | you know, build your own widgets in a minute, but there's a couple I just want to call out.            |
-| 18:44      | And one is it's an Apple widget, but I have not seen anybody write about it or talk about              |
+| 18:44      | And one is it's an [[Apple]] widget, but I have not seen anybody write about it or talk about              |
 | 18:50      | it, but it's the files app. And this one is very useful. Just gives me the eight documents             |
 | 18:57      | I've used most recently in files. And since I use files to store a lot of my work documents,           |
 | 19:02      | this makes it super convenient for me to get to those on iPad or iPhone. And I feel like               |
@@ -421,7 +421,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 28:17      | So it's so much so that some of the developers have resorted to like fuzzy time and different          |
 | 28:23      | ways to do it that is less precise because they can't do it. And this gets back to that                |
 | 28:30      | whole lack of interactivity. And I guess kind of a sub issue is that these widgets, the                |
-| 28:36      | Apple doesn't want these widgets killing your battery. So they use very little power. The              |
+| 28:36      | [[Apple]] doesn't want these widgets killing your battery. So they use very little power. The              |
 | 28:40      | screen gets updated and that's basically it until the next scheduled update, which is                  |
 | 28:46      | not every 30 seconds. I don't know. I haven't looked into the API. I don't know what's the             |
 | 28:51      | most frequent and app can update its widget.                                                           |
@@ -674,7 +674,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 50:57      | your search. And then what you get with this app with, you know, I forget the name already,            |
 | 51:05      | it's a widget pack. With widget pack is then you can say, okay, now take all that data that I've       |
 | 51:10      | just found through these fancy filters and display as data. And it's not ugly. I mean,                 |
-| 51:16      | Rose just kind of breeze by the fact that she's using [[SF Symbols]], but that's Apple has made            |
+| 51:16      | Rose just kind of breeze by the fact that she's using [[SF Symbols]], but that's [[Apple]] has made            |
 | 51:22      | its own basically icon set for developers that normal people can use. And she's hitting that in        |
 | 51:29      | shortcuts to make a really attractive widget that shows her stuff happening over next week.            |
 | 51:35      | Not everybody listening has a podcast schedule, but maybe you've got a team meeting schedule or        |
@@ -692,7 +692,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 52:37      | a link to in the show notes, because [[SF Symbols]], San Francisco symbols, is a really nice way of        |
 | 52:43      | showing, you know, an icon to represent something. And there, there's a great app that you can use     |
 | 52:51      | on your iPhone to, to see, you know, all the different symbols. There's also an app from               |
-| 52:56      | Apple on your Mac, which you can download and look at for free. But I'm using this iPhone one,         |
+| 52:56      | [[Apple]] on your Mac, which you can download and look at for free. But I'm using this iPhone one,         |
 | 53:03      | which I've linked in the show notes now. I've gone all in with [[SF Symbols]]. If you've seen              |
 | 53:08      | any of the presentations I've done lately, I use them as my icons and the paper was field guide,       |
 | 53:13      | which will get released after Big Sur. The [[SF Symbols]] show up throughout the, those,                   |
@@ -801,7 +801,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:02:27   | FastScripts is completely free to use with up to 10 keyboard shortcuts. So you can use it as a quick   |
 | 01:02:34   | fix for your most urgent needs. And when you decide you want more than 10 shortcuts, unlock premium    |
 | 01:02:39   | functionality with a one-time payment of $25. We talk a lot about creating scripts on this show,       |
-| 01:02:46   | but Apple doesn't really make it easy to trigger these on your Mac. And that's where FastScripts       |
+| 01:02:46   | but [[Apple]] doesn't really make it easy to trigger these on your Mac. And that's where FastScripts       |
 | 01:02:50   | comes in. FastScripts picks up where Apple leaves off. With FastScripts, you get that enhanced upgrade |
 | 01:02:57   | to the [[AppleScript]] menu. And it's a familiar design that you see, but it's a better user interface    |
 | 01:03:03   | and easier to get to your scripts. But even more important is the powerful keyboard shortcuts. With    |
@@ -871,7 +871,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:09:17   | then you have specific people on your home screen, you just tap it and it does that action.            |
 | 01:09:21   | And that to me is, it looks so nice as well. And I downloaded this one and give it a try.              |
 | 01:09:30   | That's actually how I messaged you earlier today, David. And it's great.                               |
-| 01:09:35   | Yeah. And I saw this one and I was thinking, how come Apple didn't do a context widget?                |
+| 01:09:35   | Yeah. And I saw this one and I was thinking, how come [[Apple]] didn't do a context widget?                |
 | 01:09:42   | I mean, they also didn't add a phone trigger to shortcuts when they added message and email            |
 | 01:09:46   | triggers. So I'm guessing they don't think that the iPhone is used for calling anymore,                |
 | 01:09:50   | which is kind of funny because it's still called a phone, but anyway.                                  |

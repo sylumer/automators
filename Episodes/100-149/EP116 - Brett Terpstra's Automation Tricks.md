@@ -149,10 +149,10 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 07:44      | Googling, yeah, examples. And yeah, it's, it's, it's powerful, but not an ideal programming               |
 | 07:53      | language. And it's not gone. It's still there, you know, and like all that work. And I think              |
 | 07:58      | it, I think it will continue to be. Yeah. Well, I think my theory is it would be so much effort           |
-| 08:04      | to remove it. It's so baked into the operating system at this point that Apple would never                |
+| 08:04      | to remove it. It's so baked into the operating system at this point that [[Apple]] would never                |
 | 08:09      | pay to remove it. You know what I mean? I think if they could throw a switch and turn                     |
 | 08:14      | it off, they might be tempted to do that. But, you know, I say that, I don't think they'd                 |
-| 08:17      | even do that. I hear from birdies that, you know, a bunch of the background stuff at Apple                |
+| 08:17      | even do that. I hear from birdies that, you know, a bunch of the background stuff at [[Apple]]                |
 | 08:23      | is run on AppleScript and who wants to have to rebuild all that stuff when you've got                    |
 | 08:29      | it working. So I think they're just going to quietly leave it there.                                      |
 | 08:33      | It would cause some serious waves if they were to discontinue that.                                       |
@@ -454,7 +454,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 39:20      | app, yeah, to do things in a different way. And that those choices have been taken away from us.          |
 | 39:26      | Yeah. And I don't think that's going to change, you know, I mean, hopefully shortcuts gets powerful       |
 | 39:33      | enough to catch up with some of this stuff. But it's never going to get as powerful as those under        |
-| 39:37      | the hood tools. Well, I think it's very telling that Apple stopped distributing Python, Ruby,             |
+| 39:37      | the hood tools. Well, I think it's very telling that [[Apple]] stopped distributing Python, Ruby,             |
 | 39:45      | Perl, PHP, like all of these processors that used to be built into the operating system.                 |
 | 39:52      | And like you could rely, if I was going to share a Python script, I could rely on any Mac user            |
 | 40:00      | having Python available to run that script. Yeah. That isn't that is no longer the case. Now you          |
@@ -482,7 +482,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 42:01      | Brett, we were talking before the break about the kind of evolution of macOS and removal Python.          |
 | 42:08      | There's another kind of story going on with this. I'd love to hear your take on it with                   |
 | 42:13      | programming languages and underlying code. Like now we have a lot of people going to Electron.            |
-| 42:19      | We've got [[SwiftUI]]. We've got all these options to make apps on the Mac now. And Apple is, I think,        |
+| 42:19      | We've got [[SwiftUI]]. We've got all these options to make apps on the Mac now. And [[Apple]] is, I think,        |
 | 42:26      | finally really being clear that [[SwiftUI]] is the future. But where do you see the state of that             |
 | 42:31      | stuff as someone who is developing apps? I feel like I am way behind the ball on modern technologies.     |
 | 42:40      | Like I haven't like I've played with [[SwiftUI]]. I have not developed anything like using cross              |
@@ -695,11 +695,11 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:05:01   | you were good at it. And as it got simpler, it got harder for you.                                        |
 | 01:05:05   | Yeah, that's about right. That's about right. But I got your most recent newsletter this morning          |
 | 01:05:14   | and you talked about a protocol called [[Matter]][^1], which could be the future. I'm really intrigued            |
-| 01:05:23   | by this. Well, I mean, what happened was when Apple, Google and [[Amazon]] first started this                 |
+| 01:05:23   | by this. Well, I mean, what happened was when [[Apple]], Google and [[Amazon]] first started this                 |
 | 01:05:30   | 10 years ago or so, they all wanted to become the platform, right? Everybody wanted it like,              |
-| 01:05:37   | oh, you have to get a Google thing because everything works with Google or Apple wanted                   |
-| 01:05:42   | the same thing. Apple had more of a security focus. They wanted hardware encryption on their              |
-| 01:05:47   | stuff. So Apple wanted it so somebody on the other side of the world couldn't turn on your                |
+| 01:05:37   | oh, you have to get a Google thing because everything works with Google or [[Apple]] wanted                   |
+| 01:05:42   | the same thing. [[Apple]] had more of a security focus. They wanted hardware encryption on their              |
+| 01:05:47   | stuff. So [[Apple]] wanted it so somebody on the other side of the world couldn't turn on your                |
 | 01:05:51   | air conditioner. And over the years, those positions have evolved, but they've also                       |
 | 01:05:56   | realised that there's no clear winner. It is like, what was that TV show again? Highlander,               |
 | 01:06:03   | or remember Highlander where that can only be one? Yeah, it can be only one. Yeah. Well,                  |
@@ -708,7 +708,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:06:20   | they all spoke the same language and it's called [[Matter]]. And it took them years. They just released       |
 | 01:06:24   | it publicly, I think, earlier this month. So now we're going to start seeing the devices come out         |
 | 01:06:31   | and a lot of the big peripheral kind of sensor, light switch, all those people                            |
-| 01:06:38   | are signing on because Apple, Google, and [[Amazon]] are on it. It's going to become the only thing.          |
+| 01:06:38   | are signing on because [[Apple]], Google, and [[Amazon]] are on it. It's going to become the only thing.          |
 | 01:06:45   | So when you go to buy something, you don't have to look at the box with a microscope to                   |
 | 01:06:50   | figure out if it's going to work or not. I just had that happen. I added a room onto my house             |
 | 01:06:56   | because I'm trying to do a better job with the MacSparky stuff. I needed a space and I went to           |
@@ -788,7 +788,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:14:41   | this for a fact, but I think they've already even announced with the latest Mac Ventura update that     |
 | 01:14:46   | has [[Matter]] support now. It's like they're putting it in stuff and products are starting to ship now       |
 | 01:14:52   | with [[Matter]] in it. And I don't think that means your existing home kit stuff is going to stop             |
-| 01:14:57   | working. I don't think Apple's ever going to not support home kit. But going forward, you don't           |
+| 01:14:57   | working. I don't think [[Apple\|Apple's]] ever going to not support home kit. But going forward, you don't           |
 | 01:15:03   | have to, that's no longer the gating issue for you. Yeah. Anything that's [[Matter]] will work.               |
 | 01:15:08   | Well, that'll make it way easier for third party developers. Like when I see an automation hardware       |
 | 01:15:15   | item like on [[Amazon]] or whatever, they always have to list works with, works with, works with.             |

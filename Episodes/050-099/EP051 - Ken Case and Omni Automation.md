@@ -156,14 +156,14 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 07:43      | And then magically, you have this whole project in OmniFocus, which, you know, from your side            |
 | 07:47      | of things over at Omni Group must have taken a bit longer to set up than it now takes me                  |
 | 07:51      | to do. But it's certainly an easy way to modify my work and get all of that stuff in there.              |
-| 07:58      | Yeah, I really love, well, I love what Apple's done with shortcuts since, since acquiring                |
+| 07:58      | Yeah, I really love, well, I love what [[Apple|Apple's]] done with shortcuts since, since acquiring                |
 | 08:03      | the workflow team and the direction they seem to be taking it just, it just keeps better                 |
 | 08:08      | and better.                                                                                              |
 | 08:09      | And, you know, as an enthusiast for all this stuff, I just wanted, I don't, I've never                   |
 | 08:13      | told you this, but I just wanted to thank you for being there early with automation,                     |
 | 08:18      | particularly with OmniFocus because I use that app so much. But just like using the                      |
 | 08:23      | URL stuff, I mean, it was the developers like you at the beginning who were finding ways                 |
-| 08:29      | to shoehorn in automation that I think really led to Apple paying attention to something                 |
+| 08:29      | to shoehorn in automation that I think really led to [[Apple]] paying attention to something                 |
 | 08:33      | like workflow. And I'm not sure that we would be where we are if, if you guys hadn't started             |
 | 08:39      | the ball rolling.                                                                                        |
 | 08:40      | Oh, well, thank you. It was, you know, an important, as I mentioned, it was important                    |
@@ -174,7 +174,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 09:09      | and that really helped the ecosystem take off, I think, with different apps being able                   |
 | 09:13      | to talk to each other and then get results back, which of course is then what led to                     |
 | 09:19      | things like Launch Center Pro and the workflow team then building this, their app, which                 |
-| 09:26      | Apple acquired and turned it into shortcuts. So yeah, I love that history.                               |
+| 09:26      | [[Apple]] acquired and turned it into shortcuts. So yeah, I love that history.                               |
 | 09:29      | And that leads us to today where you guys have, Omni Group, guys and gals have done a tremendous          |
 | 09:35      | amount of work on building out automation on iOS. That, you know, the iPhone and iPad                    |
 | 09:42      | have always a bit had one hand tied behind their back for automation. They don't have                    |
@@ -189,9 +189,9 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 10:30      | Thank you. Yeah, the first one, shortcuts, I think is important because it lets us play                  |
 | 10:38      | in that ecosystem that all the other apps are working in. And it's sort of the outside                   |
 | 10:42      | interface to the application. How do I want to get something done? So we added shortcuts.                |
-| 10:46      | You know, we'd always had, I shouldn't say always, but before Apple acquired workflow,                   |
+| 10:46      | You know, we'd always had, I shouldn't say always, but before [[Apple]] acquired workflow,                   |
 | 10:50      | we had already had shortcuts in place for adding one item at a time or adding a task                     |
-| 10:55      | paper collection of items at once. And when Apple announced, you know, last of the DC                    |
+| 10:55      | paper collection of items at once. And when [[Apple]] announced, you know, last of the DC                    |
 | 11:02      | almost a year ago now, that shortcuts would be getting that you could build your own shortcut            |
 | 11:10      | extensions that provided their own actions. That was really exciting because that meant                  |
 | 11:13      | we could start thinking about extra logic we could put in there to interact with shortcuts.              |
@@ -205,19 +205,19 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 11:53      | because it's automation.                                                                                 |
 | 11:55      | Yeah. And so historically, when it was workflow, you guys, the developer, you guys being the             |
 | 12:01      | developers, you didn't have the ability to write those extensions for workflow. They                     |
-| 12:04      | actually wrote those at workflow. And I believe Apple kind of inherited those when they purchased        |
+| 12:04      | actually wrote those at workflow. And I believe [[Apple]] kind of inherited those when they purchased        |
 | 12:10      | workflow.                                                                                                |
 | 12:11      | Yes, that's right.                                                                                       |
-| 12:12      | But like you said, in June of 2019, Apple announced that now developers can make their                   |
+| 12:12      | But like you said, in June of 2019, [[Apple]] announced that now developers can make their                   |
 | 12:19      | own extensions. And you see that, you know, if you're listening to automators and you                    |
 | 12:23      | have shortcuts, go in and look at that list of apps in there. And your favourite apps are                 |
 | 12:28      | hopefully going to have lots of these shortcuts where the developers have implemented them.              |
 | 12:33      | How difficult is it as a developer to plug into shortcuts and make these additions?                      |
-| 12:38      | I think the shortcut side of it is about as easy as Apple could make it, given the problem               |
+| 12:38      | I think the shortcut side of it is about as easy as [[Apple]] could make it, given the problem               |
 | 12:44      | that they're trying to do. So it's not too hard to add that integration. The tricky part                 |
 | 12:49      | is designing your application so that the information can get shared between your app                    |
 | 12:55      | and the shortcut in an efficient way. So it was really easy to do those first shortcut                   |
-| 12:59      | integrations that Apple had already built because all of the communication was one way.                  |
+| 12:59      | integrations that [[Apple]] had already built because all of the communication was one way.                  |
 | 13:05      | They were saying, I just want to add an item or I want to add a Taskpaper. And it didn't                |
 | 13:08      | matter what was already in your database. You weren't trying to get anything back out.                   |
 | 13:12      | You weren't actually trying to share information. You were just trying to send information.              |
@@ -362,7 +362,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 24:31      | it an hour or two to learn it, and you'd be surprised how much you can do.                               |
 | 24:34      | Yeah, there are a couple of reasons that we chose JavaScript. One, of course, was this                   |
 | 24:39      | efficiency that I was talking about. We really wanted something that would be fast, and we               |
-| 24:41      | knew that Apple was really tuning JavaScript performance because it's used for scripting                 |
+| 24:41      | knew that [[Apple]] was really tuning JavaScript performance because it's used for scripting                 |
 | 24:47      | web pages, and the web to be really fast on all their devices.                                           |
 | 24:52      | But another reason was that at the moment, because it's the scripting language of the                    |
 | 24:59      | web, it's the language that has probably the most beginner tutorials out there available                 |
@@ -556,7 +556,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 39:52      | I feel like the in-game is like kind of [Graffletopia](https://www.graffletopia.com/) kind of thing where it's a menu in the app           |
 | 39:58      | and you just go pick the one you want, you press the button and it applies it. But you're                |
 | 40:02      | really not that far from that already.                                                                   |
-| 40:04      | Yeah, shortcuts did a really good job of this, or workflow I should say, before Apple                    |
+| 40:04      | Yeah, shortcuts did a really good job of this, or workflow I should say, before [[Apple]]                    |
 | 40:10      | even acquired it, where you could just easily do some searches for here's the sort of thing              |
 | 40:14      | I'm trying to do and it would return a bunch of matching workflows and you would say, okay,              |
 | 40:19      | yeah, let me try that one. And I'd like to see us get to that point too.                                 |
@@ -752,7 +752,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 56:28      | Yeah. There were a lot of tools built for the terminal back when the terminal was the user               |
 | 56:35      | interface that everybody had available. So back in the sort of heyday of [[Unix]] command line experience,   |
 | 56:43      | let's say the 70s, 80s. I mean, I learned on a terminal computer. I started on Tandy,                    |
-| 56:52      | and Atari, and several of the, you know, and the Apple too, all these terminal-based computers.          |
+| 56:52      | and Atari, and several of the, you know, and the [[Apple]] too, all these terminal-based computers.          |
 | 56:58      | That was what I did. But as soon as the graphical user interface showed up, I left it in the rear        |
 | 57:03      | view mirror. Right. So yeah, there are a lot of tools. Like if you look back at the old [[Unix]]             |
 | 57:08      | manual pages, the BSD manual pages, you'll find there are these things in there for doing like           |
@@ -803,7 +803,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 01:01:09   | generous to the community is that it's not proprietary. I mean, these scripts can run                    |
 | 01:01:15   | across multiple apps. And I would love nothing better than a year or two from now to have so             |
 | 01:01:20   | many big productivity apps using the same mechanism to really make automation possible                   |
-| 01:01:25   | across the entire Apple ecosystem. Sounds great to me. Yeah, let's do it. All right. Let's change        |
+| 01:01:25   | across the entire [[Apple]] ecosystem. Sounds great to me. Yeah, let's do it. All right. Let's change        |
 | 01:01:33   | the world. Everybody at home, you have your commands. All right. And we are the automators,              |
 | 01:01:42   | but Ken, where can people find you? Well, you can find me personally on Twitter @kcase.                       |
 | 01:01:47   | That's my first initial K, Ken, and last name, Case, C-A-S-E. And you can also,                   |

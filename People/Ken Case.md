@@ -14,7 +14,7 @@ relayurl: "https://www.relay.fm/people/Kencase"
 # About
 Ken Case is an original founder and CEO of [[The Omni Group (Sponsor)|The Omni Group]]. A computer geek at heart, he continues to contribute directly to all of The Omni Group's products as a product designer and software engineer. 
 
-Prior to founding The Omni Group, Ken worked as an application programmer for [[NeXT]], the company founded by Steve Jobs when he left Apple.
+Prior to founding The Omni Group, Ken worked as an application programmer for [[NeXT]], the company founded by Steve Jobs when he left [[Apple]].
 
 # Guest Episodes
 ```dataviewjs

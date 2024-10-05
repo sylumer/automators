@@ -118,17 +118,17 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 03:31      | And so we, Rose and I have been working with this app while it was in beta.                                       |
 | 03:36      | And I'll have to admit, this is one I was worried about.                                                          |
 | 03:39      | I had the same feeling with this one that I had back in the days of the [[Workflow]].                                |
-| 03:42      | Like, is Apple going to let him publish this?                                                                     |
+| 03:42      | Like, is [[Apple]] going to let him publish this?                                                                     |
 | 03:45      | Because you just never know, right?                                                                               |
 | 03:47      | I mean, they did let [[Python]] use it through, so I thought that was a hope.                                         |
 | 03:51      | And it does seem like they're getting pretty automation friendly.                                                 |
 | 03:54      | So if I had a better nickel, I would have said that you were going to get through.                                |
 | 03:57      | But there was some worry.                                                                                         |
 | 03:58      | Were you ever at any point worried that you were going to do all this work                                        |
-| 04:00      | and Apple wasn't going to let you publish the app?                                                                |
+| 04:00      | and [[Apple]] wasn't going to let you publish the app?                                                                |
 | 04:02      | Oh, yeah, I had a lot of worrying.                                                                                |
 | 04:06      | I worried a lot about that.                                                                                       |
-| 04:08      | But I mean, Apple changed their guidelines for like that.                                                         |
+| 04:08      | But I mean, [[Apple]] changed their guidelines for like that.                                                         |
 | 04:14      | The App Store guidelines recently, a year or two ago,                                                             |
 | 04:18      | to allow apps that run code to be on the App Store.                                                               |
 | 04:23      | So I knew that part.                                                                                              |
@@ -151,7 +151,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 05:55      | And then it was just about figuring out what to do.                                                               |
 | 05:59      | Yes.                                                                                                              |
 | 06:00      | Yeah.                                                                                                             |
-| 06:01      | Yes, because of course, it used to be as well, going back a little bit, that Apple wouldn't                       |
+| 06:01      | Yes, because of course, it used to be as well, going back a little bit, that [[Apple]] wouldn't                       |
 | 06:06      | allow, so they did allow [[Pythonista]] on to the App Store, but [[Pythonista]] was not                             |
 | 06:10      | allowed to synchronise their scripts with [[iCloud]].                                                                 |
 | 06:12      | And they weren't, I don't think they were allowed to import scripts as well if I'm remembering                    |
@@ -160,7 +160,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 06:21      | I have [[Scriptable]] on my iPhone and [[Scriptable]] on my iPad, more than one iPad because multi-iPad           |
 | 06:26      | lifestyle and all of my scripts are everywhere, which is wonderful.                                               |
 | 06:29      | So that if I want to run something on my iPad or my iPhone, then I have no problem doing                          |
-| 06:34      | it, it just works, which is of course, one of the reasons why we do usually love Apple                            |
+| 06:34      | it, it just works, which is of course, one of the reasons why we do usually love [[Apple]]                            |
 | 06:39      | if it works.                                                                                                      |
 | 06:40      | That makes things easier, doesn't it?                                                                             |
 | 06:42      | It is a great feeling though, when you manipulate, I don't know, maybe I'm just a nerd, but I                     |
@@ -169,9 +169,9 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 06:58      | And that's special.                                                                                               |
 | 06:59      | And I always felt like the iPhone and the iPad was a device where you weren't really                              |
 | 07:03      | going to be able to do that.                                                                                      |
-| 07:04      | I mean, Apple itself doesn't have a native programming environment for iOS.                                       |
+| 07:04      | I mean, [[Apple]] itself doesn't have a native programming environment for iOS.                                       |
 | 07:09      | You have to go to a Mac to program an iOS device.                                                                 |
-| 07:11      | So you're in some ways, you're ahead of Apple on this stuff.                                                      |
+| 07:11      | So you're in some ways, you're ahead of [[Apple]] on this stuff.                                                      |
 | 07:14      | Well, they do have the [[Swift Playgrounds]] though.                                                                  |
 | 07:17      | Yeah, that's true.                                                                                                |
 | 07:19      | That's true.                                                                                                      |
@@ -357,7 +357,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 19:05      | the same restrictions.                                                                                            |
 | 19:08      | I would assume that the new [[Shortcuts]] app doesn't have it.                                                        |
 | 19:10      | They probably have some special entitlement allowing them to use more memory.                                     |
-| 19:15      | Yeah, I guess that's one of the advantages of getting bought by Apple is they get more                            |
+| 19:15      | Yeah, I guess that's one of the advantages of getting bought by [[Apple]] is they get more                            |
 | 19:19      | memory.                                                                                                           |
 | 19:20      | I have to say, actually, in my experience, [[Shortcuts]] does occasionally error out when                             |
 | 19:26      | I try, for example, if I try and share like four or five photos to add an app frame, it                           |
@@ -396,7 +396,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 21:26      | a special Automators episode in [[OmniFocus]], for example.                                                           |
 | 21:30      | Yeah.                                                                                                             |
 | 21:31      | You know what I love?                                                                                             |
-| 21:33      | Apple has not really done a great job at this point of giving us ways to pass data.                               |
+| 21:33      | [[Apple]] has not really done a great job at this point of giving us ways to pass data.                               |
 | 21:38      | I mean, you can have variables inside a [[Siri]] shortcut, but you know, you can't, it's not                          |
 | 21:43      | that easy to put data into it and you've got [[Scriptable]] and you've got [[Shortcuts\|Siri Shortcuts]]                         |
 | 21:49      | and everybody's coming up with these creative solutions to get around that limitation.                            |
@@ -404,7 +404,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 21:59      | But I just love that, you know, the community is like, okay, that's fine, we'll use the                           |
 | 22:03      | clipboard, we'll use [[URL Schemes]], we'll do whatever we need to do to get what we want.                            |
 | 22:08      | Yes, nerds will not be stopped, I think is the correct answer there.                                              |
-| 22:15      | And hopefully in a future release, we'll get, you know, the Apple will formalise that to                          |
+| 22:15      | And hopefully in a future release, we'll get, you know, the [[Apple]] will formalise that to                          |
 | 22:18      | where we don't need to do this stuff, but for now, we do have a solution.                                         |
 | 22:22      | I love that.                                                                                                      |
 | 22:24      | Yes.                                                                                                              |
@@ -474,7 +474,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 26:51      | So if you're running the script and you turn your phone face down, you could theoretically                        |
 | 26:55      | have it reduce the brightness and things like that just to save battery if you wanted to,                         |
 | 27:02      | I suppose.                                                                                                        |
-| 27:03      | Although, I think Apple's already doing that to be able to set up anything.                                       |
+| 27:03      | Although, I think [[Apple|Apple's]] already doing that to be able to set up anything.                                       |
 | 27:07      | Yeah.                                                                                                             |
 | 27:08      | But if you've left your screen on and you're running the [[Scriptable]] app, it's just a question                 |
 | 27:15      | of, of course, when does it check the screen configuration?                                                       |
@@ -537,7 +537,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 30:47      | So as soon as you have the basics, I think [[Scriptable]] is also a decent place to learn                         |
 | 30:54      | some [[JavaScript]].                                                                                              |
 | 30:55      | Yeah, I really believe that this is to me the platform to learn [[JavaScript]] on.                                |
-| 31:02      | If you like iOS, if you're listening to this show, you're probably an Apple person.                               |
+| 31:02      | If you like iOS, if you're listening to this show, you're probably an [[Apple]] person.                               |
 | 31:07      | But like I said earlier, it allows you to tie into stuff.                                                         |
 | 31:13      | [[JavaScript]] is not that hard to learn.                                                                         |
 | 31:14      | If you just took a weekend and went to [Code Academy](https://codecademy.com) or to one of these sites that teaches                         |
@@ -663,7 +663,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 38:12      | And you're in essence tied into those APIs that Simon spent all of his time making for                            |
 | 38:16      | us.                                                                                                               |
 | 38:17      | So, that's the payoff, you know, you do a little bit of code and then you tie into                                |
-| 38:22      | something that Apple and Simon have already generously created for us and you get the                             |
+| 38:22      | something that [[Apple]] and Simon have already generously created for us and you get the                             |
 | 38:27      | benefit of it.                                                                                                    |
 | 38:28      | That's fun.                                                                                                       |
 | 38:29      | You know, the stuff can be fun if you spend a little time with it.                                                |

@@ -155,7 +155,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 03:30      | but then they're continuing to iterate                              |
 | 03:31      | and add cool new things throughout the year.                        |
 | 03:34      | And I really love that developers don't feel beholden               |
-| 03:36      | to the Apple release cycle, because they shouldn't be.              |
+| 03:36      | to the [[Apple]] release cycle, because they shouldn't be.              |
 | 03:40      | And it also gives us way more to talk about all year round          |
 | 03:42      | instead of talking about something                                  |
 | 03:43      | three months after it was released.                                 |
@@ -237,7 +237,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 06:48      | And I hate this.                                                    |
 | 06:50      | I'm sure everybody who has ever experienced this hates it,          |
 | 06:53      | especially when you use things like your HomePod to say             |
-| 06:56      | to your HomePod, hey Apple lady,                                    |
+| 06:56      | to your HomePod, hey [[Apple]] lady,                                    |
 | 06:58      | you know, turn off the lights                                       |
 | 07:00      | because the HomePod will turn off the lights                        |
 | 07:01      | that are in the same home room as it is in,                         |
@@ -282,7 +282,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 08:33      | I mean, it gives you a lot of troubleshooting tools,                |
 | 08:36      | logs, maintenance and it gives you the traditional home kit tools   |
 | 08:40      | as well, room management, scene management.                         |
-| 08:42      | I do wish that Apple built this stuff into home kit.                |
+| 08:42      | I do wish that [[Apple]] built this stuff into home kit.                |
 | 08:46      | I feel like their desire to make it user friendly                   |
 | 08:49      | sometimes goes a little bit too far with home automation stuff.     |
 | 08:54      | Yeah, yeah, this is very definitely a fabulous app                  |
@@ -882,7 +882,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 34:28      | keyboard my show and I never get it to reliably work, whereas       |
 | 34:31      | I get it to reliably work with [[BetterTouchTool]].                   |
 | 34:34      | And another one that, you know, it seems to me like a big           |
-| 34:38      | miss for Apple.                                                     |
+| 34:38      | miss for [[Apple]].                                                     |
 | 34:39      | They don't really have a built-in keyboard shortcut to move         |
 | 34:42      | an app to a different space.                                        |
 | 34:45      | And [[BetterTouchTool]] has that as available action.                 |
@@ -1088,9 +1088,9 @@ In this episode, Rose and David explain some of their favourite small automation
 | 44:17      | It's great.                                                         |
 | 44:18      | Yeah, and I like a good example is title case.                      |
 | 44:21      | You know, I spent so many years writing interesting title           |
-| 44:24      | case scripts, whether it being [[Keyboard Maestro]] apple               |
-| 44:27      | script or whatever.                                                 |
-| 44:29      | The PopClip has a thing where you just select the text and          |
+| 44:24      | case scripts, whether it being [[Keyboard Maestro]] [[AppleScript]]               |
+| 44:27      | or whatever.                                                 |
+| 44:29      | The [[PopClip]] has a thing where you just select the text and          |
 | 44:32      | it gives you an option.                                             |
 | 44:33      | You push one button and it applies title case, you know,            |
 | 44:36      | it's just like, I feel like it's a very automation friendly         |
@@ -1098,14 +1098,14 @@ In this episode, Rose and David explain some of their favourite small automation
 | 44:45      | You know, so if you're listening to this, you're like, well,        |
 | 44:47      | you know, I don't want to spend a bunch of time writing a           |
 | 44:49      | bunch of scripts.                                                   |
-| 44:50      | Well, you download PopClip, you go to their library page,           |
-| 44:53      | you install whatever useful PopClip's you want and then,             |
+| 44:50      | Well, you download [[PopClip]], you go to their library page,           |
+| 44:53      | you install whatever useful [[PopClip\|PopClip's]] you want and then,             |
 | 44:58      | you know, it's based on, you know, the history of this is,          |
 | 45:02      | you know, on the phone when you select text, it gives you           |
 | 45:05      | a little pop up that says, you know, make this bold or italic       |
 | 45:09      | or depending on which app you're in, it gives you additional        |
 | 45:11      | options.                                                            |
-| 45:12      | Well, PopClip is like that, but it allows the community to          |
+| 45:12      | Well, [[PopClip]] is like that, but it allows the community to          |
 | 45:16      | create those actions and there are so many of them, you know,       |
 | 45:19      | added to OmniFocus, you know, search it, you know, reveal it        |
 | 45:24      | and find her, you know, go into an online thesaurus, you            |
@@ -1612,7 +1612,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:07:35   | Honestly, go check out some of Pedro's apps because he's made       |
 | 01:07:39   | some great ones.                                                    |
 | 01:07:41   | There's all sorts there, like [[MakePass]], making passes for           |
-| 01:07:45   | your Apple wallet and so on.                                        |
+| 01:07:45   | your [[Apple Wallet]] and so on.                                        |
 | 01:07:47   | That's not strictly automation related that has shortcut support.   |
 | 01:07:51   | But yeah, go check out some of his work.                            |
 | 01:07:53   | He's done some really great things there,                           |
@@ -1719,8 +1719,8 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:12:49   | shades automatically adjust for you for the perfect time of         |
 | 01:12:52   | day. That's what you can do with Hunter Douglas.                    |
 | 01:12:55   | Hunter Douglas shades are compatible with all your                  |
-| 01:12:57   | favourite home automation systems, [[Amazon]] Alexa, Apple Home          |
-| 01:13:01   | Kit, Google Assistant, IFTTT and more.                              |
+| 01:12:57   | favourite home automation systems, Amazon Alexa, Apple HomeKit          |
+| 01:13:01   | Google Assistant, IFTTT and more.                              |
 | 01:13:04   | I know that listeners of the show would really love to be           |
 | 01:13:06   | able to automate this stuff themselves too, helping them            |
 | 01:13:09   | integrate their shades with their other products in their           |
@@ -1847,7 +1847,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:18:41   | for a long time due to sandboxing.                                  |
 | 01:18:43   | And, you know, the best version of [[BBEdit]]                          |
 | 01:18:45   | is still the version directly from Bare Bones,                      |
-| 01:18:48   | if only because Apple don't take their cut out of it.               |
+| 01:18:48   | if only because [[Apple]] don't take their cut out of it.               |
 | 01:18:51   | But also you get things like the terminal integration,              |
 | 01:18:54   | which, you know, if you are into scripting and so on,               |
 | 01:18:57   | is really nice to have even if you think,                           |
@@ -1880,7 +1880,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 01:20:01   | The reason it has the X in the name is because I believe            |
 | 01:20:03   | it was on Next before it was on Mac.                                |
 | 01:20:07   | You know, it's one of these apps that kind of came over             |
-| 01:20:10   | with Steve Jobs to Apple.                                           |
+| 01:20:10   | with Steve Jobs to [[Apple]].                                           |
 | 01:20:13   | And it's, you know, I have it running almost all the time.          |
 | 01:20:16   | I have to remember to turn it off when I screencast                 |
 | 01:20:18   | because I always get a lot of questions from people saying,         |

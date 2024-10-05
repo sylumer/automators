@@ -652,9 +652,9 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 35:12      | We have a master table that contains all the shows and all the publication dates.                      |
 | 35:19      | Because we have a specific process that takes the show through the various stages of setting           |
 | 35:26      | the show up, creating the folder structures within the Mac to receive all the files, to                |
-| 35:34      | getting in touch with Apple, because we have an SEO showcase app, which allows us to sell              |
+| 35:34      | getting in touch with [[Apple]], because we have an SEO showcase app, which allows us to sell              |
 | 35:41      | individual episodes of the shows.                                                                      |
-| 35:42      | It needs a code from Apple, basically, to sell it within the app.                                      |
+| 35:42      | It needs a code from [[Apple]], basically, to sell it within the app.                                      |
 | 35:50      | That's one process.                                                                                    |
 | 35:52      | We then set up a record for the guest presenters to know what the file name is going to be,            |
 | 36:00      | repository for them to put all the summary information, repository for them to put the                 |
@@ -756,7 +756,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 42:20      | but also have the process to be a bit more intelligent than just sort of filling in a                  |
 | 42:25      | spreadsheet or whatever.                                                                               |
 | 42:26      | I just wanted something that was a bit more interactive and it seemed to fit the bill.                 |
-| 42:30      | Now, you're even combining this product with some native Apple Labs for your newsletter                |
+| 42:30      | Now, you're even combining this product with some native [[Apple]] Labs for your newsletter                |
 | 42:35      | or your magazine article production.                                                                   |
 | 42:38      | For the magazine, yeah.                                                                                |
 | 42:40      | Yeah, because I've been using Podio to manage the video workflow, when we started the magazine,        |
@@ -830,16 +830,16 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 47:51      | author platform if I wanted it to work, so I've been there, and I have been there.                     |
 | 47:59      | Something you said quickly, the sales are going in scripts, one of my very favourite                    |
 | 48:03      | web pages on the entire internet is macosxautomation.com, and that's where, I don't know how this      |
-| 48:10      | worked, because Sal wrote this when he was at Apple, now he's not there, but it's still                |
+| 48:10      | worked, because Sal wrote this when he was at [[Apple]], now he's not there, but it's still                |
 | 48:14      | on the internet, but it's got some great scripts.                                                      |
-| 48:17      | If you want to use Pages or any of the Apple standard apps, there's some great automation              |
+| 48:17      | If you want to use Pages or any of the [[Apple]] standard apps, there's some great automation              |
 | 48:23      | there, and if you're listening to the show, this is a page that you should have bookmarked.            |
 | 48:28      | Yeah, definitely.                                                                                      |
-| 48:29      | I think Sal actually did it, although he was working for Apple at the time, he did it independently,   |
+| 48:29      | I think Sal actually did it, although he was working for [[Apple]] at the time, he did it independently,   |
 | 48:33      | he got some dispensation to do it completely independently, so presumably now he's no longer           |
 | 48:37      | there, it's an independent web publication, but yeah, there's a ton of stuff in there                  |
 | 48:44      | that's well worth having a look at.                                                                    |
-| 48:45      | One of the first things I did when I heard he was leaving Apple's, I ran in and downloaded             |
+| 48:45      | One of the first things I did when I heard he was leaving [[Apple\|Apple's]], I ran in and downloaded             |
 | 48:49      | everything, and then of course, you know, he had exactly, although I probably could                    |
 | 48:54      | have emailed him, but yeah, either way, it's up, and I think it's there for the duration,              |
 | 48:59      | so if you're interested, go check that out, there is so much great automation on that                  |
@@ -855,7 +855,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 49:38      | of weekends for you.                                                                                   |
 | 49:40      | Yeah, I just went to the page, I hadn't been there for a while, and as soon as you open                |
 | 49:44      | up, you've got to picture yourself and says, welcome to macosxautomation.com.                           |
-| 49:49      | This website is not hosted by Apple Inc.                                                               |
+| 49:49      | This website is not hosted by [[Apple]] Inc.                                                               |
 | 49:55      | The internet makes me happy sometimes.                                                                 |
 | 49:57      | Yes, sometimes.                                                                                        |
 | 49:59      | All right, so you've got Podio working both on video production and magazine production.               |
@@ -1126,7 +1126,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:08:13   | to the bathroom and you come back from the bathroom and then the lights just turn off like             |
 | 01:08:16   | five minutes later and so good. Yeah, it's really nice, Don. I mean, the stuff they've                 |
 | 01:08:21   | got now in home kit, I think it's pretty solid. I mean, I've adopted it. To me, the piece of           |
-| 01:08:30   | that that still is a question mark is the security camera stuff Apple announced in June                |
+| 01:08:30   | that that still is a question mark is the security camera stuff [[Apple]] announced in June                |
 | 01:08:35   | that they're going to have a new system where they're going to store video for you in a                |
 | 01:08:38   | safe and secure place. It seems like the right solution, but we haven't really heard much              |
 | 01:08:42   | about it since then. And that's one of the weak points of home kit automation, although                |

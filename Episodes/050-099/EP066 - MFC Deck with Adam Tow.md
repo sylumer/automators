@@ -142,7 +142,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 03:10      | that shortcuts lacks,                                                              |
 | 03:11      | and I try to implement them in an app.                                             |
 | 03:13      | And then a year later,                                                             |
-| 03:15      | Apple goes in and implements those features themselves                             |
+| 03:15      | [[Apple]] goes in and implements those features themselves                             |
 | 03:18      | into the main app.                                                                 |
 | 03:20      | I mean, they implemented some other features of launch cuts,                       |
 | 03:22      | but they certainly didn't implement smart folders,                                 |
@@ -157,13 +157,13 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 03:39      | And I feel like you are in safe space there.                                       |
 | 03:42      | You make apps that kind of go beyond                                               |
 | 03:45      | the most basic features,                                                           |
-| 03:46      | because Apple can't do real complicated things                                     |
+| 03:46      | because [[Apple]] can't do real complicated things                                     |
 | 03:50      | along these features,                                                              |
 | 03:51      | because they want their users not to get confused,                                 |
 | 03:54      | and they want to make it easy for everyone.                                        |
 | 03:56      | But you're there for the power users                                               |
 | 03:58      | with the stuff you make.                                                           |
-| 03:59      | And honestly, I really have to give a shout out to Apple.                          |
+| 03:59      | And honestly, I really have to give a shout out to [[Apple]].                          |
 | 04:03      | When you first started building these apps,                                        |
 | 04:05      | I was a little worried                                                             |
 | 04:06      | that it wasn't going to get through the app store,                                 |
@@ -212,7 +212,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 05:46      | and really go in deep is just wonderful.                                           |
 | 05:49      | I think it really comes down to how many shortcuts you have.                       |
 | 05:51      | I mean, if you've got 30 shortcuts,                                                |
-| 05:53      | Apple's folder system is fine.                                                     |
+| 05:53      | [[Apple|Apple's]] folder system is fine.                                                     |
 | 05:55      | If you have 400, it probably isn't.                                                |
 | 05:58      | So, and that's where you want to upgrade                                           |
 | 06:01      | to something like launch cuts.                                                     |
@@ -244,7 +244,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 07:07      | And with that, you can kind of create                                              |
 | 07:09      | a visual representation of your shortcut after it's run.                           |
 | 07:14      | So I developed this before iOS 14                                                  |
-| 07:17      | home screen widgets were announced by Apple.                                       |
+| 07:17      | home screen widgets were announced by [[Apple]].                                       |
 | 07:20      | And so the original kind of tagline                                                |
 | 07:22      | was widget ties your shortcuts.                                                    |
 | 07:24      | And then iOS 14 came out and everyone's been, you know,                            |
@@ -254,7 +254,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 07:36      | and put them into a control panel,                                                 |
 | 07:39      | or what I'm calling a deck within the MFC Deck app.                                |
 | 07:42      | So you can kind of visually see your shortcuts as widgets.                         |
-| 07:47      | Yeah, and, you know, Apple does give widget support                                |
+| 07:47      | Yeah, and, you know, [[Apple]] does give widget support                                |
 | 07:50      | for shortcuts once again, but it's under their terms                               |
 | 07:54      | and under very kind of restrictive terms                                           |
 | 07:57      | about the way it works, where MFC Deck kind of gives                               |
@@ -410,7 +410,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 14:44      | If you had to create those shortcuts in the shortcuts app today,                   |
 | 14:47      | you'd have to have six or seven basically duplicate shortcuts,                     |
 | 14:50      | right?                                                                             |
-| 14:51      | But I can easily see the iOS team at Apple just adding just                        |
+| 14:51      | But I can easily see the iOS team at [[Apple]] just adding just                        |
 | 14:56      | that little text input field so that you can have one shortcut                     |
 | 15:00      | but then you can duplicate it on the home screen to kind of                        |
 | 15:04      | create this kind of control deck.                                                  |
@@ -1125,7 +1125,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 46:21      | And so, you know, when you, when you, when I read that thing                       |
 | 46:23      | or listened to bemoaning, you know, the state of mail plugins,                     |
 | 46:26      | I intimately know about that because every year whenever                           |
-| 46:29      | Apple releases a new version of macOS, all plugins break,                          |
+| 46:29      | [[Apple]] releases a new version of macOS, all plugins break,                          |
 | 46:33      | there's like a little tweak that they make to the mail app that                    |
 | 46:36      | causes all mail plugin developers to have to like rewrite                          |
 | 46:39      | just a small bit of, or maybe a large portion of their,                            |
@@ -1155,7 +1155,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 47:44      | Yeah.                                                                              |
 | 47:45      | It is really frustrating.                                                          |
 | 47:47      | I do think the reason why Apple Mail hasn't got a lot of                           |
-| 47:50      | new features is I think Apple has been really focused on                           |
+| 47:50      | new features is I think [[Apple]] has been really focused on                           |
 | 47:53      | security.                                                                          |
 | 47:54      | And you know, you're always hoping that the plugin marketplace                     |
 | 47:57      | can make up for the slack, but I'm honestly just starting                          |
@@ -1199,12 +1199,12 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 49:29      | They have to use it because that's what work requires                              |
 | 49:31      | from them on their devices.                                                        |
 | 49:33      | Um, but it's a shame that things don't work differently.                           |
-| 49:36      | Yeah, let's hope that, you know, Apple continues to extend                         |
+| 49:36      | Yeah, let's hope that, you know, [[Apple]] continues to extend                         |
 | 49:39      | kind of the automation features within mail.                                       |
 | 49:41      | So I mean, they do have that one automation, like when an                          |
 | 49:44      | email comes in from a particular recipient, right?                                 |
 | 49:47      | You do need to tap a button though.                                                |
-| 49:49      | But maybe in the future, Apple will release an automation                          |
+| 49:49      | But maybe in the future, [[Apple]] will release an automation                          |
 | 49:52      | framework for apps.                                                                |
 | 49:54      | So similar to kind of creating custom shortcut actions,                            |
 | 49:57      | maybe you can have a plugin that runs automatically when                           |
@@ -1226,7 +1226,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 50:40      | I think once they unlock that so that we can just run                              |
 | 50:43      | that without asking, then people are going to get much                             |
 | 50:46      | more excited about this.                                                           |
-| 50:48      | I would have loved to have been a fly on the wall when Apple                       |
+| 50:48      | I would have loved to have been a fly on the wall when [[Apple]]                       |
 | 50:51      | made the decisions for iOS 14 about which apps get,                                |
 | 50:54      | I'm sorry, which triggers get the automatic automation                             |
 | 50:57      | versus which triggers do not.                                                      |
@@ -1258,7 +1258,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 51:56      | specific cases, you can't just do it entirely automatically.                       |
 | 52:00      | You know, you would want it to be doing all of the things for                      |
 | 52:04      | you.                                                                               |
-| 52:05      | I'm curious to learn the stats from Apple and how many people                      |
+| 52:05      | I'm curious to learn the stats from [[Apple]] and how many people                      |
 | 52:08      | actually have created an automation, whether it's a                                |
 | 52:10      | personal automation or a home automation.                                          |
 | 52:13      | Do you have an idea of, of how many people are using                               |
@@ -1422,7 +1422,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 58:59      | Yeah.                                                                              |
 | 59:00      | And I'm sure you'll be using it for years to come and I                            |
 | 59:03      | don't know.                                                                        |
-| 59:04      | It's weird, you know, as Apple, I went through this with                           |
+| 59:04      | It's weird, you know, as [[Apple]], I went through this with                           |
 | 59:07      | the headphones.                                                                    |
 | 59:08      | I bought the headphones that are $500.                                             |
 | 59:10      | I joked on my colleges, but it's true.                                             |
@@ -1457,7 +1457,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:00:19   | And I'm very sad to say that I'm probably going to be keeping                      |
 | 01:00:22   | them because they are extremely comfortable and I like them.                       |
 | 01:00:25   | And I wish I didn't.                                                               |
-| 01:00:26   | I had this picture of like a meeting somewhere at Apple where                      |
+| 01:00:26   | I had this picture of like a meeting somewhere at [[Apple]] where                      |
 | 01:00:29   | someone's like, yeah, and then we're going to make a cable                         |
 | 01:00:31   | so you can plug it into your Mac, but we're going to charge                        |
 | 01:00:34   | you $35 for it, you know?                                                          |
@@ -1521,7 +1521,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:02:54   | and we're keeping her old computer.                                                |
 | 01:02:56   | I mean, her old computer has zero value.                                           |
 | 01:02:58   | I couldn't sell it.                                                                |
-| 01:02:59   | I couldn't, the only thing I can do is turn it to Apple                            |
+| 01:02:59   | I couldn't, the only thing I can do is turn it to [[Apple]]                            |
 | 01:03:01   | and let them recycle it.                                                           |
 | 01:03:02   | We're going to hold on to it for like six months to make sure                      |
 | 01:03:04   | we got everything off of it we needed.                                             |
@@ -1543,7 +1543,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:03:47   | And I was thinking it'd be a fun game to play.                                     |
 | 01:03:50   | What if Tim Cook calls you up and says, hey, Adam,                                 |
 | 01:03:53   | I love your apps.                                                                  |
-| 01:03:55   | I want you to come in and be the king of shortcuts at Apple.                       |
+| 01:03:55   | I want you to come in and be the king of shortcuts at [[Apple]].                       |
 | 01:03:59   | What would you change about shortcuts                                              |
 | 01:04:01   | if you had those godlike powers?                                                   |
 | 01:04:04   | Oh, great power comes great responsibility.                                        |

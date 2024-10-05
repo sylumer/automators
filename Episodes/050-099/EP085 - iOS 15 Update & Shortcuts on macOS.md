@@ -64,11 +64,11 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 00:21      | but we missed out on talking to each other for a bit,                |
 | 00:23      | which is a shame.                                                    |
 | 00:23      | Yeah. I mean, so much has happened.                                  |
-| 00:25      | We've had Apple events,                                              |
+| 00:25      | We've had [[Apple]] events,                                              |
 | 00:26      | and iOS releases, and a lot of this stuff                            |
 | 00:31      | does impact automation,                                              |
 | 00:32      | so we've got a kind of a smorgasbord of automation today.            |
-| 00:37      | Yeah. I feel like we should start with the Apple event,              |
+| 00:37      | Yeah. I feel like we should start with the [[Apple]] event,              |
 | 00:40      | because while the new devices themselves                             |
 | 00:42      | don't necessarily make any significant changes to our automations,   |
 | 00:45      | they're shiny and new,                                               |
@@ -213,7 +213,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 06:16      | And I can't wait to get it.                                          |
 | 06:18      | We haven't got reviews yet, but that camera system,                  |
 | 06:21      | I am super into it.                                                  |
-| 06:23      | And I hope that it is as good as Apple says it is.                   |
+| 06:23      | And I hope that it is as good as [[Apple]] says it is.                   |
 | 06:27      | Yes, yeah, I'm very much looking forward to this.                    |
 | 06:31      | The cinematic mode, I think is gonna be really fun                   |
 | 06:34      | for recording some stuff.                                            |
@@ -308,7 +308,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 10:10      | meant that things were considerably less painful                     |
 | 10:13      | than they would have been on an Intel machine.                       |
 | 10:14      | And that was really good.                                            |
-| 10:16      | We got all excited about Apple gear and automation.                  |
+| 10:16      | We got all excited about [[Apple]] gear and automation.                  |
 | 10:18      | We didn't talk about that.                                           |
 | 10:19      | And it's been an amazing year.                                       |
 | 10:21      | They've raised $500,000 this year,                                   |
@@ -452,7 +452,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 15:51      | we're gonna cover it too.                                            |
 | 15:51      | They had this new feature, Quick Note.                               |
 | 15:54      | And the argument I made on Mac Power Users                           |
-| 15:57      | is this is Apple's response to pad of paper and pencil.              |
+| 15:57      | is this is [[Apple|Apple's]] response to pad of paper and pencil.              |
 | 16:00      | Like the historic problem is if I had a pad of paper                 |
 | 16:05      | and a pencil and I met you in a hallway                              |
 | 16:07      | and you started telling me a phone number,                           |
@@ -498,7 +498,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 17:46      | It's my previous me charging.                                        |
 | 17:47      | And it's pretty good.                                                |
 | 17:49      | I also ordered and have already received                             |
-| 17:51      | because Apple shipping and logistics,                                |
+| 17:51      | because [[Apple]] shipping and logistics,                                |
 | 17:53      | the Logitech keys to go in a pink colour,                            |
 | 17:56      | because that does not fold.                                          |
 | 17:57      | And the one complaint I have about the MoKo foldable                 |
@@ -555,7 +555,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 20:03      | but it's also apparently a very durable keyboard.                    |
 | 20:06      | So I'm gonna have to see how that pans out.                          |
 | 20:09      | All right, well, sounds like we're set for hardware                  |
-| 20:13      | until Apple announces the M1X.                                       |
+| 20:13      | until [[Apple]] announces the M1X.                                       |
 | 20:16      | I don't think I'm gonna be getting one.                              |
 | 20:18      | I mean, famous last words, right?                                    |
 | 20:19      | I wasn't gonna get an M1 Mac, but laptop                             |
@@ -962,7 +962,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 36:39      | So I'm glad that that exists.                                        |
 | 36:41      | I'm a big fan of focus mode.                                         |
 | 36:45      | I think it's something that everybody should consider.               |
-| 36:48      | I do think Apple has a little bit of work                            |
+| 36:48      | I do think [[Apple]] has a little bit of work                            |
 | 36:50      | to make it more accessible to people.                                |
 | 36:53      | Yes.                                                                 |
 | 36:54      | Because like for instance right now                                  |
@@ -1658,7 +1658,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:05:01   | I'd like this to be available to third party developers              |
 | 01:05:03   | so they can develop apps using screen time data.                     |
 | 01:05:06   | I feel like screen time is just a feature                            |
-| 01:05:08   | that Apple kind of built and then kind of ignored.                   |
+| 01:05:08   | that [[Apple]] kind of built and then kind of ignored.                   |
 | 01:05:11   | But if you can just give me that data                                |
 | 01:05:13   | where a third party app developer could use the data                 |
 | 01:05:16   | to give me better features,                                          |

@@ -180,7 +180,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 11:58      | to get a black case because even though I'm sure I could ask you very nicely for a unicorn                |
 | 12:03      | sticker, and we could probably manage to sort something out there, I don't trust myself                   |
 | 12:08      | with a white iPad case, and especially keyboard where I'm typing on it all the time, actually             |
-| 12:12      | have an Apple Magic keyboard here in front of me at the moment. I've just been trying                     |
+| 12:12      | have an [[Apple Magic Keyboard]] here in front of me at the moment. I've just been trying                     |
 | 12:17      | it out while podcasting because I already had it and I was not using it and I realised                    |
 | 12:21      | it's quite quiet. And oh my gosh, I have to clean this thing like every single day because                |
 | 12:25      | it just looks grumpy. And I swear, I'm washing my hands regularly. I guess it's just my hand              |
@@ -464,7 +464,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 39:28      | is a nail. But, but also just to your earlier point, Kathy, where you said, Well, I don't,                |
 | 39:35      | you know, get into the weeds on this stuff. I, you know, I use other people's work. A                     |
 | 39:39      | lot of automators do that. I mean, myself included. I mean, almost every [[AppleScript]]                     |
-| 39:44      | I've ever written started with somebody else's AppleScript. Um, very few have been written               |
+| 39:44      | I've ever written started with somebody else's [[AppleScript]]. Um, very few have been written               |
 | 39:48      | from scratch. So it's okay. You know, and I think that's kind of embraced in the community.               |
 | 39:53      | That's why there's all these websites like, you know, automators.fm where you can go in                   |
 | 39:57      | and talk to other people and say, Hey, how did you scratch that itch? You know, and somebody              |
@@ -669,8 +669,8 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 01:00:56   | in that I will usually make playlists out of albums so that I can not listen to if there's                |
 | 01:01:03   | any songs in an album that I don't want to listen to I don't have to have it in the playlist              |
 | 01:01:10   | or if I want to listen to say both of Taylor Swift's folklore and evermore albums together                |
-| 01:01:18   | I have a playlist with that and I was very disappointed and still am with the the apple                   |
-| 01:01:27   | music widget items I want like recent stuff to be playlist and they but they don't have that as           |
+| 01:01:18   | I have a playlist with that and I was very disappointed and still am with the the [[Apple Music]]                  |
+| 01:01:27   | widget items I want like recent stuff to be playlist and they but they don't have that as           |
 | 01:01:38   | an option you have like specific albums but not the playlist to choose from and so I was                  |
 | 01:01:46   | really really angry because it would keep showing like the Christmas album I listened to                  |
 | 01:01:54   | and it's February and I'm like this is not this is not what I want and so I created my very first         |
@@ -863,7 +863,7 @@ David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk a
 | 01:22:35   | podcasts and businesses that I do or if you need more unicorn magic in your life for your specific        |
 | 01:22:43   | business uh you can find me at theunicornsidekick.com let me tell you about another show on Relay FM      |
 | 01:22:50   | Rocket if you like automators there's a good chance you'll like Rocket as well Rocket covers all the      |
-| 01:22:55   | hard tech news of the week but in a fun way from the latest Apple news to scams with fake blood           |
+| 01:22:55   | hard tech news of the week but in a fun way from the latest [[Apple]] news to scams with fake blood           |
 | 01:22:59   | testing companies Rocket is there and you can be too at relay.fm slash rocket or search for Rocket        |
 | 01:23:07   | wherever you get your podcasts in the meantime if you're looking for our forums you can find those        |
 | 01:23:11   | at talk.relay.fm and of course there'll be a link to the show notes there as well goodbye everyone        |

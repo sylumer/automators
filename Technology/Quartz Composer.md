@@ -4,7 +4,7 @@ creator: ""
 notetype: technology
 ---
 # Overview
-Quartz Composer is a visual programming application developed by Apple, designed for processing and rendering graphical data. It allows users to create compositions by linking patches to manipulate images, video, and other media in real-time. The application is particularly useful for designers, artists, and developers looking to prototype user interfaceI elements, create live graphics, or build interactive visual effects.
+Quartz Composer is a visual programming application developed by [[Apple]], designed for processing and rendering graphical data. It allows users to create compositions by linking patches to manipulate images, video, and other media in real-time. The application is particularly useful for designers, artists, and developers looking to prototype user interfaceI elements, create live graphics, or build interactive visual effects.
 
 # Operating Systems
 - macOS

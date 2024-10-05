@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/Jasonsnell
 ![[Jason Snell.jpg|200x200]]
 
 # About
-Jason Snell is one of the most well known voices of the Apple community both through his writing and his podcasting. Editing at MacWorld for over a decade, Jason brings a wealth of experience and insight to his writing and podcasting, making him aa sought after guest for many Apple panel podcasts.
+Jason Snell is one of the most well known voices of the [[Apple]] community both through his writing and his podcasting. Editing at MacWorld for over a decade, Jason brings a wealth of experience and insight to his writing and podcasting, making him aa sought after guest for many [[Apple]] panel podcasts.
 
 # Guest Episodes
 ```dataviewjs

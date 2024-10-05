@@ -95,7 +95,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 02:37      | And so yeah, in my mind, it's IMDB, but it doesn't suck. But you know, that's the way                    |
 | 02:42      | I think. Yeah.                                                                                           |
 | 02:43      | But yeah, great job and congratulations again on all these apps. Casey is also on the Accidental         |
-| 02:49      | Tech podcast, ATP, which is one of the premier podcasts in the Apple space. And occasionally,            |
+| 02:49      | Tech podcast, ATP, which is one of the premier podcasts in the [[Apple]] space. And occasionally,            |
 | 02:59      | Casey talks about his automation over there and I do feel like we need to give him a forum               |
 | 03:05      | to talk about it. And so I thought we'd start, Casey, tell us, how did you get started in                |
 | 03:10      | automation?                                                                                              |
@@ -591,7 +591,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 41:50      | know, don't worry your pretty little head attitude about home kit. They should, they                     |
 | 41:54      | should expose more. Um, and some of it's that this is fairly new technology and they're                  |
 | 41:59      | trying to build it out in a way that incorporates security and, you know, compatibility. I don't         |
-| 42:06      | think it's an easy problem to solve. I don't think we can just tell Apple to throw a switch              |
+| 42:06      | think it's an easy problem to solve. I don't think we can just tell [[Apple]] to throw a switch              |
 | 42:10      | somewhere and suddenly it gets better. But I think more feedback would be useful or some                 |
 | 42:15      | diagnostic mode for us that want it even if you have to, you know, go to the web or click                |
 | 42:20      | some button somewhere. Uh, but I, I find Rose got me into home assistant, which gives you                |
@@ -964,7 +964,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:12:26   | sharing with shortcuts is set to while using the app with precise location. Because if                   |
 | 01:12:34   | it isn't, [[HomeKit]] actions may actually be doing weird things. And I don't understand                     |
 | 01:12:40   | quite why the precise location thing seems to be needed. And I need to try and figure                    |
-| 01:12:46   | out exactly what's going on and actually file some feedback with Apple on this. Because                  |
+| 01:12:46   | out exactly what's going on and actually file some feedback with [[Apple]] on this. Because                  |
 | 01:12:50   | I found that if I didn't have precise location enable for shortcuts, and I tried to do a                 |
 | 01:12:54   | home connection, it would fail about 50% of the time. And that was very weird. And I don't               |
 | 01:13:00   | know why may have just been coincidence could have been something else happening at the                  |

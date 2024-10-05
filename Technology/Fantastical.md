@@ -5,7 +5,7 @@ notetype: "technology"
 os: ["macOS", "iOS", "iPadOS", "watchOS"]
 ---
 # Overview
-Fantastical is a calendaring app that is available on most of the Apple platforms. It is well known for its natural language parsing of input to create events. Something which had been notably slow in Apple's own solutions when Fantastical was introduced.
+Fantastical is a calendaring app that is available on most of the [[Apple]] platforms. It is well known for its natural language parsing of input to create events. Something which had been notably slow in [[Apple|Apple's]] own solutions when Fantastical was introduced.
 
 Moving to a freemium-subscription model, it now offers [a range of functionality](https://flexibits.com/pricing) that retains many of the original features for free, but offers newer features around scheduling, productivity, customisation, and collaboration for those who need it via the subscription.
 

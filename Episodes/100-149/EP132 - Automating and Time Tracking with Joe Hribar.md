@@ -114,7 +114,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 04:07      | as I'm sure has done the same thing.                                                                 |
 | 04:10      | And you're really out there helping people automate.                                                 |
 | 04:13      | Tell us a little bit about your history.                                                             |
-| 04:15      | I mean, how did you get into software development and on the Apple platforms?                        |
+| 04:15      | I mean, how did you get into software development and on the [[Apple]] platforms?                        |
 | 04:20      | My journey to Timery, it's sort of by way of I started doing web development back in                 |
 | 04:28      | the day and also flash development, good old flash.                                                  |
 | 04:32      | Wow, that goes back.                                                                                 |
@@ -226,7 +226,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 12:06      | But it seems like the last six months, some of these companies have got a little too big             |
 | 12:11      | for their breaches, in my opinion, but we'll see.                                                    |
 | 12:16      | So one of the things that you mentioned there, Joe, is the possibility of syncing with iCloud,       |
-| 12:21      | and I know that this year at [[WWDC]], Apple announced a new sort of extension or alternative            |
+| 12:21      | and I know that this year at [[WWDC]], [[Apple]] announced a new sort of extension or alternative            |
 | 12:29      | to core data.                                                                                        |
 | 12:30      | Yes.                                                                                                 |
 | 12:31      | Is that the sort of thing that you would be looking at for this?                                     |
@@ -248,10 +248,10 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 13:39      | You know what I really love about this whole cloud-syncing thing is, I feel like this is             |
 | 13:44      | an evolution that I predicted.                                                                       |
 | 13:46      | If you go back, like, old MPU, when Google was the only company that could sync data.                |
-| 13:52      | Remember, I don't know if you guys remember, like, some of the dot-max syncing that Apple            |
+| 13:52      | Remember, I don't know if you guys remember, like, some of the dot-max syncing that [[Apple]]            |
 | 13:56      | did in the early days, where you try to sync a text file and it took 30 minutes?                     |
 | 14:01      | There was a time when Google was the only company that could do it.                                  |
-| 14:03      | Then eventually big companies like Apple also learned to do it, and now medium-sized companies       |
+| 14:03      | Then eventually big companies like [[Apple]] also learned to do it, and now medium-sized companies       |
 | 14:09      | are doing it.                                                                                        |
 | 14:10      | The Omni Group is a good example.                                                                    |
 | 14:12      | They run their own cloud-sync service for their applications, and now it's just a thing              |
@@ -305,7 +305,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 17:01      | All right, so, Joe, you've built Timery.                                                             |
 | 17:05      | It's really got some automation in it just with the layout and build of the application,             |
 | 17:09      | but that wasn't enough for you.                                                                      |
-| 17:11      | As Apple started opening up shortcuts and making user-based automation, you have always              |
+| 17:11      | As [[Apple]] started opening up shortcuts and making user-based automation, you have always              |
 | 17:17      | been one of the earliest and most aggressive developers about including those features.              |
 | 17:23      | Why is that?                                                                                         |
 | 17:24      | Why are you so into automation on this stuff?                                                        |
@@ -379,7 +379,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 23:14      | different Shortcuts actions, and it works regardless of how I'm attempting to manipulate             |
 | 23:20      | the data. Manipulate the data is the wrong way to put it. Create the data and organise               |
 | 23:25      | it. I think that might be a better way of putting it.                                                |
-| 23:27      | Joe, when Apple first started supporting Shortcuts, my understanding was what they had was they      |
+| 23:27      | Joe, when [[Apple]] first started supporting Shortcuts, my understanding was what they had was they      |
 | 23:33      | called [[App Intent\|Intents]], where you could go and create actions out of [[App Intent\|Intents]], but it felt to me              |
 | 23:41      | kind of klugey. As a user, it wasn't clear that the actions necessarily came available               |
 | 23:48      | to me without using that feature in the application, but obviously this has evolved over the time.   |
@@ -417,7 +417,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 27:12      | It's maybe if they're not familiar enough with shortcuts or the power it gives to users.             |
 | 27:20      | I'm not sure, but it's something that, yeah, I think it could be useful for more people              |
 | 27:26      | too.                                                                                                 |
-| 27:27      | Does Apple give sufficient resources for developers that want to add shortcut support? Is that       |
+| 27:27      | Does [[Apple]] give sufficient resources for developers that want to add shortcut support? Is that       |
 | 27:33      | something where they're giving you guys the resources to learn how to do it? Could that              |
 | 27:39      | be a hang up or is it just people just aren't bothering?                                             |
 | 27:43      | I think the resources are useful and are sufficient. I've managed to look through the documentation  |
@@ -426,7 +426,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 28:07      | developers to be able to ask people directly on the teams questions. That's been very                |
 | 28:13      | helpful.                                                                                             |
 | 28:14      | Yeah, because I get the impression the shortcuts team is all in. These guys and gals, they want      |
-| 28:20      | everybody to use shortcuts. They get it. I love that there are people inside Apple that              |
+| 28:20      | everybody to use shortcuts. They get it. I love that there are people inside [[Apple]] that              |
 | 28:25      | are excited about automation. But it is strange to me because I feel like now shortcuts has          |
 | 28:31      | been around a while. It's not a flash in the pan, but there are so many apps that just               |
 | 28:36      | seem like they just don't bother.                                                                    |
@@ -446,7 +446,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 29:46      | it's a non-issue, but if you have a little shortcut support and I'm sure Joe experiences             |
 | 29:51      | this, when you add a shortcut action to do X, then people suddenly want action Y.                    |
 | 29:58      | I think for me and Joe, you can weigh in on this as well. One of the things I'm really               |
-| 30:04      | liking that Apple is doing is to get actions from your app to show up in Siri. For example,          |
+| 30:04      | liking that [[Apple]] is doing is to get actions from your app to show up in Siri. For example,          |
 | 30:11      | running a specific book in books or scanning a document in files, the way that you do that           |
 | 30:17      | is through shortcut support. You add your Siri intents and definitions, and then those               |
 | 30:25      | show up in the shortcuts app. There's a new UI for that this year with iOS 17, but then              |
@@ -462,7 +462,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 31:28      | to, those apps become essential. The people that don't get it, those apps don't get discussed.       |
 | 31:37      | I do think there's a case to be made here. Maybe I am biased, and we're definitely at                |
 | 31:42      | the sharp end of the stick of automation. We make a podcast about it, but I really think             |
-| 31:47      | this stuff can be useful. The way Apple set up shortcuts is to make it easy for people.              |
+| 31:47      | this stuff can be useful. The way [[Apple]] set up shortcuts is to make it easy for people.              |
 | 31:54      | I do wish more people did it. Joe, how about this? Is there any friction points? You're              |
 | 32:00      | one of more experienced automation than shortcuts developers. What is the white whale or the         |
 | 32:05      | thing that you want to add that just isn't quite there yet in terms of shortcut support?             |
@@ -485,7 +485,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 33:47      | That would be great too.                                                                             |
 | 33:49      | We've talked about third-party triggers a few times over the years. I feel like it's                 |
 | 33:54      | possible. Originally, when we discussed it, I thought it would never happen because of               |
-| 33:59      | security. If Apple lets a third-party app trigger something, what if it's malicious?                 |
+| 33:59      | security. If [[Apple]] lets a third-party app trigger something, what if it's malicious?                 |
 | 34:04      | Then when you look at the automatic triggers that have populated over the years on shortcuts         |
 | 34:11      | where now, even this year, we've got additional automatic triggers that don't require confirmation,  |
 | 34:18      | I feel like third-party triggers can't be far behind that. I get that you would probably             |
@@ -530,7 +530,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 37:14      | it really simple for people. And the problem is that people start to want more. And the              |
 | 37:21      | only way you can get more is to make it without those additional tools. The only way you can         |
 | 37:25      | get to that more is to make it super complicated, right? So it almost like defeats its purpose       |
-| 37:30      | of being simple by not having a few extra tools there. And I also think Apple should                 |
+| 37:30      | of being simple by not having a few extra tools there. And I also think [[Apple]] should                 |
 | 37:36      | look at this as an evolution, right? As people grow up with shortcuts and use shortcuts,             |
 | 37:42      | they're naturally going to become more advanced users at it and you should give them the tools       |
 | 37:46      | they need. And if else statement for a new user is not going to get in the way, they're              |
@@ -557,8 +557,8 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 39:26      | up in my new watch OS Siri doc. I'm calling it the Siri doc because it's kind of the replacement     |
 | 39:32      | for the Siri watch face, which still exists. But essentially you swipe up from the bottom            |
 | 39:36      | and there's widgets in there. And I'm there looking at it going, hang on a minute, timer             |
-| 39:41      | is in here? Does Joe know something I don't know? Is Joe secretly working at Apple? And              |
-| 39:46      | I'm guessing it's not that you're secretly working at Apple. I'm guessing it's that                  |
+| 39:41      | is in here? Does Joe know something I don't know? Is Joe secretly working at [[Apple]]? And              |
+| 39:46      | I'm guessing it's not that you're secretly working at [[Apple]]. I'm guessing it's that                  |
 | 39:50      | you implemented the new watch complications or something like that and those work as widgets.        |
 | 39:58      | But days are features. Pretty awesome work there.                                                    |
 | 40:02      | That was exactly it. Last year for watch OS nine, I rewrote the Timery complications                 |
@@ -773,7 +773,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 59:37      | point makes it super easy to decide, you know, what, you know, how long it has the time of running   |
 | 59:44      | and show it there. And Shortcuts even has support now for, I think, formatting durations better.     |
 | 59:50      | So you can do it all with Shortcuts. Though, I don't know, maybe we'll get something from Joe        |
-| 59:56      | at some point, because clearly, Apple didn't give you any homework this summer, you've already done. |
+| 59:56      | at some point, because clearly, [[Apple]] didn't give you any homework this summer, you've already done. |
 | 01:00:01   | What's yours? 10, right? You know, you've just got interactive widgets. It's got to be a slam dunk.  |
 | 01:00:07   | It's possibly slightly more complicated than it sounds. But yeah, maybe at some point, if you've     |
 | 01:00:12   | got lots of free time, you'll figure out a way to support [[Stream Deck]] buttons from the Timery app.   |
@@ -788,7 +788,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:01:07   | complications on the watch and so on. And it all links together because I think that's where,        |
 | 01:01:13   | especially, you're one person making this app. And it's a great app, but you've got it on Mac,       |
 | 01:01:19   | you've got it on iPhone, you've got it on iPad, you've got it on the watch. That's not a small       |
-| 01:01:24   | amount of work, especially when Apple every year in the summer just like dump, here's a massive      |
+| 01:01:24   | amount of work, especially when [[Apple]] every year in the summer just like dump, here's a massive      |
 | 01:01:29   | list of homework, go. And I'm guessing based on me that your user base are this sort that go,        |
 | 01:01:37   | ooh, new features on day one, please. Whereas some other apps like, I don't know, say the            |
 | 01:01:43   | Microsoft Word app, like if they're going to add new features, they're going to do it in their       |
@@ -799,13 +799,13 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:02:16   | better for you with only having one set of code? It's a really good to have frameworks like that     |
 | 01:02:23   | where you can do the work for one thing and it ends up working for another thing too. That's         |
 | 01:02:29   | really helpful. And like you said, especially for just a single person doing all of the platforms,   |
-| 01:02:36   | that's very appreciative. So thank you all the teams at Apple for making that happen.                |
+| 01:02:36   | that's very appreciative. So thank you all the teams at [[Apple]] for making that happen.                |
 | 01:02:40   | One last year when we got the iPhone lock screen widgets, those same views to make the               |
 | 01:02:55   | lock screen widgets were the same for the Apple Watch complications. So those enable                 |
 | 01:03:02   | sharing code in views between the two things. So you make one and it works on the other one too.     |
 | 01:03:09   | I mean, it's not just that simple, of course, but it makes things a lot easier. Very thankful for    |
 | 01:03:16   | that. Yeah, that is good. It feels to me like this year we're starting to get the real payoff to     |
-| 01:03:22   | developers who have kind of gone into the new [[SwiftUI]] and kind of Apple programming interfaces      |
+| 01:03:22   | developers who have kind of gone into the new [[SwiftUI]] and kind of [[Apple]] programming interfaces      |
 | 01:03:28   | that they've been developing over the last several years. I mean, not only things like               |
 | 01:03:33   | watch widgets, but also the vision OS is largely based on that. And like suddenly people who         |
 | 01:03:40   | invested time in learning the new systems are getting all these extra little benefits.               |
@@ -813,7 +813,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:03:51   | making [[App Intent\|App Intents]] actions for shortcuts last year, then you can either use those exact same         |
 | 01:03:57   | ones, which I am doing for the interactive widgets or something similar for them too.                |
 | 01:04:02   | So if you started working on that last year, you're understanding already how to make the            |
-| 01:04:10   | widgets interactive too. It reminds me at the time that Apple was like, hey,                         |
+| 01:04:10   | widgets interactive too. It reminds me at the time that [[Apple]] was like, hey,                         |
 | 01:04:14   | so we're bringing in this new thing called auto layout and the developers that went with it next     |
 | 01:04:18   | year when there was split screen on the iPad. And they were like, yes, it basically you just need    |
 | 01:04:22   | to rebuild and do a couple of tweaks and ta-da, you've got split screen and all the developers       |

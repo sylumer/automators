@@ -78,7 +78,7 @@ Welcome to Automators! In this preview episode David Sparks and Rosemary Orchard
 | 01:15      | I don't really understand computers.                           |
 | 01:17      | I can't do stuff like that.                                    |
 | 01:19      | And the fact is you can,                                       |
-| 01:21      | because Apple makes it really easy                             |
+| 01:21      | because [[Apple]] makes it really easy                             |
 | 01:23      | for a lot of the stuff to be implemented.                      |
 | 01:25      | There's some great app developers out there                    |
 | 01:27      | that have made some apps to help you do it.                    |

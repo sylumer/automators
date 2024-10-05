@@ -273,7 +273,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 13:31      | Go to masterclass.com/Automators now.                                                             |
 | 13:34      | That's masterclass.com/Automators for 15% off Masterclass.                                        |
 | 13:38      | Our thanks to Masterclass for their support of this show and all of Relay FM.                          |
-| 13:42      | Yeah, I mean, Apple really doesn't make that data easy to access, and it's shocking to                  |
+| 13:42      | Yeah, I mean, [[Apple]] really doesn't make that data easy to access, and it's shocking to                  |
 | 13:49      | me because the more hooks we get into focus modes, the more we're likely to use them.                   |
 | 13:55      | But I also want to talk about, because you guys, in addition to doing focus cuts, which                 |
 | 13:59      | I think everybody should go check out, I mean, if you enjoyed our last episode about focus              |
@@ -349,9 +349,9 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 18:45      | I played with it occasionally.                                                                          |
 | 18:46      | I haven't got it running, but I mean, this is an app that you have no worry about ever                  |
 | 18:50      | getting Sherlock because this is taking shortcuts to like entirely new levels and I can't imagine       |
-| 18:57      | Apple ever like going down these rabbit holes, but it's awesome.                                        |
+| 18:57      | [[Apple]] ever like going down these rabbit holes, but it's awesome.                                        |
 | 19:01      | Yeah.                                                                                                   |
-| 19:02      | It seems unlikely that Apple are going to do this themselves, but it is pretty fun to,                  |
+| 19:02      | It seems unlikely that [[Apple]] are going to do this themselves, but it is pretty fun to,                  |
 | 19:08      | to be working on it.                                                                                    |
 | 19:09      | You know, I've been massively updating the website recently, so I've been going through                 |
 | 19:12      | documenting every shortcut section that we have and so on and what is the difference                    |
@@ -384,7 +384,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 20:54      | PushCut.                                                                                                |
 | 20:55      | You know, there's limitations on it, obviously, because, you know, we can't just take over              |
 | 20:59      | your phone and make it start doing stuff without you touching it and interacting with it.               |
-| 21:03      | That would break all of Apple's guidelines and everything that anybody wants out of iOS.                |
+| 21:03      | That would break all of [[Apple\|Apple's]] guidelines and everything that anybody wants out of iOS.                |
 | 21:07      | That would just not be nice, but you can actually, you know, get things happening automatically         |
 | 21:12      | based on you going somewhere, which is pretty nice.                                                     |
 | 21:15      | You can also use these webhooks to get into [[Keyboard Maestro]], you know, it's like, it's                 |

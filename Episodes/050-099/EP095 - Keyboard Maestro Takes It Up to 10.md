@@ -87,8 +87,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 02:07      | how you sync it, which means that I can sync it to my work machine as well and have the                  |
 | 02:12      | things there, even though I don't actually sync shortcuts to my work machine.                            |
 | 02:18      | So it's quite useful being able to do that.                                                              |
-| 02:21      | Yeah, and, you know, shortcuts has done a lot, you know, they allow scripting and Apple                  |
-| 02:27      | Script and a lot of very powerful automation to be embedded in a shortcut, but there's                   |
+| 02:21      | Yeah, and, you know, shortcuts has done a lot, you know, they allow scripting and [[AppleScript]]                  |
+| 02:27      | and a lot of very powerful automation to be embedded in a shortcut, but there's                   |
 | 02:32      | a lot it's still not very good at, you know, like one very basic feature is just select                  |
 | 02:38      | an item from the menu, you know, I mean, that is something that people want to do in                     |
 | 02:42      | automation and [[Apple Mail]], for a long time, that was one of the ways I was filing messages               |
@@ -161,8 +161,8 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 07:29      | I feel like they're difficult to script in [[Keyboard Maestro]].                                             |
 | 07:33      | I mean, you can do it.                                                                                   |
 | 07:34      | You can write an [[AppleScript]] to do anything with contacts, but I don't want to have to                  |
-| 07:38      | break out the AppleScript.                                                                              |
-| 07:40      | I don't have to break glass and break out AppleScript just to change a contact detail                   |
+| 07:38      | break out the [[AppleScript]].                                                                              |
+| 07:40      | I don't have to break glass and break out [[AppleScript]] just to change a contact detail                   |
 | 07:45      | where with shortcuts, they make that very easy.                                                          |
 | 07:50      | These are not, neither one replaces the other.                                                           |
 | 07:54      | They both have things they're good at and bad at.                                                        |
@@ -1177,13 +1177,13 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:16:16   | and they've got aliases for a lot of the icons in there as well. If you search for a package,            |
 | 01:16:23   | then I said, I don't think it was package. I was searching for mail and I got envelope.                  |
 | 01:16:27   | That was it. The fact that that works and that's available, other developers have                        |
-| 01:16:34   | done this. Apple does not, from my understanding, have a limited number of developers.                   |
+| 01:16:34   | done this. [[Apple]] does not, from my understanding, have a limited number of developers.                   |
 | 01:16:39   | I'm sure they're all very busy, but it'd be really great if we had the FSF symbols everywhere,           |
 | 01:16:43   | and maybe even take a leaf out of the OmniFocus four book and give us an option to just choose           |
 | 01:16:49   | any colour we like. Because yes, it's slightly limiting to have to think, okay, which shade               |
 | 01:16:55   | of blue is this one going to be? Or which shade of pink? And yeah, I mean, it's fine,                    |
 | 01:17:00   | but it would be lovely to have more. I've been lately doing this thing where I just got the              |
-| 01:17:05   | Apple Six Colors, and I've been using them and a lot of stuff I do lately. And just like,                |
+| 01:17:05   | [[Apple]] Six Colors, and I've been using them and a lot of stuff I do lately. And just like,                |
 | 01:17:11   | that is like my go-to set of colours for stuff like this. I'm using it for my calendars. If you           |
 | 01:17:16   | look at the MacSparky.com web page, the Six Colors show up in different ways, you know,                   |
 | 01:17:22   | like on the lapse page I'm using them. And it just makes it kind of easy. They're not very,              |
@@ -1195,9 +1195,9 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:17:51   | And I am very much still in love with them. And I really like the, the ability because                   |
 | 01:17:59   | do not disturb is just so extreme. And it makes it hard to work because sometimes you do need to         |
 | 01:18:05   | talk to people that you work with. So you punch a little hole for that person, but otherwise             |
-| 01:18:10   | you're left alone. And that is exactly what we've wanted. Yeah, I'm a big fan. I hope that Apple         |
+| 01:18:10   | you're left alone. And that is exactly what we've wanted. Yeah, I'm a big fan. I hope that [[Apple]]         |
 | 01:18:17   | continues to develop on it. I hope a lot of people are using it. I think that a lot of times,            |
-| 01:18:21   | whether Apple gives something more attention depends on how much it gets adopted. So, you know,          |
+| 01:18:21   | whether [[Apple]] gives something more attention depends on how much it gets adopted. So, you know,          |
 | 01:18:27   | and they know that already, how many people are using it. So hopefully that means it will get            |
 | 01:18:32   | more of it. But man, I am not like souring on this, or, or like it's not like falling by the             |
 | 01:18:39   | wayside, like some features sometimes do for me. No, it's been very useful for me as well.               |

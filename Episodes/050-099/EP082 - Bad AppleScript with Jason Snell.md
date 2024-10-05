@@ -70,13 +70,13 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 00:49      | You say that, but I'm not that great at multitasking, unfortunately.                                             |
 | 00:54      | It's hard to multitask a podcast.                                                                                |
 | 00:56      | For the folks who don't know Jason, he's the former editor of MacBook Magazine.                                  |
-| 01:01      | He now is the proprietor of SixColours.com, one of my very favourite websites covering Apple.                      |
+| 01:01      | He now is the proprietor of SixColours.com, one of my very favourite websites covering [[Apple]].                      |
 | 01:07      | The former host of an amazing podcast called Free Agents.                                                        |
 | 01:12      | I don't know how that ever ended.                                                                                |
 | 01:15      | But, yeah, Jason makes a couple podcasts.                                                                        |
 | 01:18      | The incomparable, and you've got several shows here on Relay, and Rose is right, though, Jason.                  |
 | 01:26      | Everybody does love you because you've been around the block so many times.                                      |
-| 01:30      | You bring so much experience to the Apple community.                                                             |
+| 01:30      | You bring so much experience to the [[Apple]] community.                                                             |
 | 01:34      | I told you when you first left Macworld and you made SixColours,                                                  |
 | 01:38      | the thing I loved most about that move was that you were going to be doing less administrating and more writing, |
 | 01:43      | and we all get the benefit of the great stuff you've been writing.                                               |
@@ -588,8 +588,8 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 26:08      | I didn't know about this app.                                                                                    |
 | 26:09      | It's in the show notes, everybody.                                                                               |
 | 26:11      | Yeah, I mean, it's in the show notes and I'm installing it right now because I need this.                        |
-| 26:16      | So this is the thing that's a little bit ridiculous is that Apple,                                               |
-| 26:21      | so Apple has led to put automations in the Quick Actions or Services submenus                                    |
+| 26:16      | So this is the thing that's a little bit ridiculous is that [[Apple]],                                               |
+| 26:21      | so [[Apple]] has led to put automations in the Quick Actions or Services submenus                                    |
 | 26:26      | when you right-click on a file in the Finder,                                                                    |
 | 26:28      | but apps can put things at the top level.                                                                        |
 | 26:30      | And so like [[Dropbox]] spams like eight things in that.                                                             |
@@ -666,13 +666,13 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 30:39      | It's a lot, but like I keep coming back to the fact that Automator is at the heart of a lot of it,               |
 | 30:44      | not because Automator is great because it's really not, it's very outmoded.                                      |
 | 30:47      | Shortcuts is going to be so much better.                                                                         |
-| 30:49      | But because Apple has opened that door for you to put whatever you want inside an Automator action               |
+| 30:49      | But because [[Apple]] has opened that door for you to put whatever you want inside an Automator action               |
 | 30:57      | and put it in the Finder and act on all your files and on the Mac, that is so powerful.                          |
 | 31:01      | You can put any script in as a payload inside Automator,                                                         |
 | 31:05      | and then suddenly Automator is actually quite powerful.                                                          |
 | 31:08      | It's a Trojan horse, right?                                                                                      |
 | 31:09      | And it's silly.                                                                                                  |
-| 31:10      | I do have a few cases where like my charts that I do every quarter for Apple's financial results on Six Colors,  |
+| 31:10      | I do have a few cases where like my charts that I do every quarter for [[Apple|Apple's]] financial results on Six Colors,  |
 | 31:18      | I have a chart and it's like 20 charts that come out of the numbers spreadsheet.                                 |
 | 31:23      | And I'm doing the charting in numbers.                                                                           |
 | 31:25      | I'm not doing the charting using Python or anything like that.                                                   |
@@ -826,8 +826,8 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 39:06      | you can't use the same scripts in any of them                                                                    |
 | 39:08      | because they all have their own specific JavaScript implementation.                                              |
 | 39:12      | And it drives me up a tree                                                                                       |
-| 39:14      | because this is where I really want Apple, ultimately,                                                           |
-| 39:18      | I want Apple to on macOS and iOS and iPadOS                                                                      |
+| 39:14      | because this is where I really want [[Apple]], ultimately,                                                           |
+| 39:18      | I want [[Apple]] to on macOS and iOS and iPadOS                                                                      |
 | 39:22      | to say, all right, if you need more than shortcuts,                                                              |
 | 39:27      | here's the scripting language to use                                                                             |
 | 39:30      | and have it be everybody go, okay, we'll use that.                                                               |
@@ -1567,12 +1567,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:07:50   | and so on which has been great. And I know                                                                       |
 | 01:07:52   | various different people have                                                                                    |
 | 01:07:54   | been able to actually talk                                                                                       |
-| 01:07:56   | to Apple for various reasons                                                                                     |
+| 01:07:56   | to [[Apple]] for various reasons                                                                                     |
 | 01:07:58   | about different things. One particular                                                                           |
 | 01:08:00   | person had a very weird buck with                                                                                |
 | 01:08:02   | cellular data and so they ended up                                                                               |
 | 01:08:04   | talking to an engineering team. So it's not like                                                                 |
-| 01:08:06   | Apple just said, hey, this is it.                                                                                |
+| 01:08:06   | [[Apple]] just said, hey, this is it.                                                                                |
 | 01:08:08   | It's a beta go.                                                                                                  |
 | 01:08:10   | It's a beta. It is                                                                                               |
 | 01:08:12   | going to improve. I'm just hoping it's                                                                           |

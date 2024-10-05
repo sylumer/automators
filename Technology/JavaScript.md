@@ -4,7 +4,7 @@ creator: Brendan Eich
 notetype: technology
 ---
 # Overview
-JavaScript is a versatile and popular programming language commonly used for web development. Developed by Brendan Eich in 1995, JavaScript is primarily used to add interactivity, dynamic content, and behaviour to websites. It is a client-side scripting language, meaning it runs on the user's web browser rather than on the server. It has also slowly become a lingua franca for creating automations in many leading apps on Apple's operating systems as those operating systems bundle the core JavaScript library into the systems.
+JavaScript is a versatile and popular programming language commonly used for web development. Developed by Brendan Eich in 1995, JavaScript is primarily used to add interactivity, dynamic content, and behaviour to websites. It is a client-side scripting language, meaning it runs on the user's web browser rather than on the server. It has also slowly become a lingua franca for creating automations in many leading apps on [[Apple|Apple's]] operating systems as those operating systems bundle the core JavaScript library into the systems.
 
 JavaScript is known for its flexibility and ease of use, making it an essential tool for creating interactive web applications, animations, and games. It works seamlessly with HTML and CSS, forming the foundation of modern web development.
 

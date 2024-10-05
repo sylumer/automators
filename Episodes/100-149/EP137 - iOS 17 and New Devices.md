@@ -53,7 +53,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 00:16      | How are you today, David?                                                                                |
 | 00:17      | I'm doing great, Rose.                                                                                   |
 | 00:19      | Very excited as this show drops, we are getting the iOS 17 and I believe iPadOS 17 releases              |
-| 00:28      | out the door for everybody, and that's pretty, I think Apple kind of got on top of it this               |
+| 00:28      | out the door for everybody, and that's pretty, I think [[Apple]] kind of got on top of it this               |
 | 00:34      | year.                                                                                                    |
 | 00:35      | They got the iPad went out the same day as the iPhone and the Mac isn't far behind,                      |
 | 00:40      | so I'm really looking forward today to talking about some of the new automation tricks and               |
@@ -128,7 +128,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 06:07      | pretty cool stuff. And I'm hoping that the action button will unlock some new things for me there.       |
 | 06:14      | Yeah. And I agree with you that it opens a lot more possibility on the iPhone. I heard from a            |
 | 06:21      | lot of MacSparky listeners and lab members with small risks that really wanted the ultra to get         |
-| 06:27      | smaller this year and they didn't. And I'm sure that's on the Apple's list, but I, I appreciate          |
+| 06:27      | smaller this year and they didn't. And I'm sure that's on the [[Apple|Apple's]] list, but I, I appreciate          |
 | 06:33      | what you're saying because I love my ultra watch and I would not give it up. I'm going to,               |
 | 06:38      | I'm not going to update it. I think that the new one is cool, but I don't need to,                       |
 | 06:41      | to buy a new ultra watch every year. But the, but I do think that the action button                      |
@@ -323,7 +323,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 23:56      | for a free pair of AirPods Pro when you schedule a qualified meeting. Our thanks to Vitally for           |
 | 24:01      | their support of this show and Relay FM. All right, Rose, let's talk about some of the new              |
 | 24:08      | actions we're getting in shortcuts. We've speculated, we've talked about some of them that               |
-| 24:12      | were in the early betas, but now we've got a list blessed by Apple of the final new actions we're        |
+| 24:12      | were in the early betas, but now we've got a list blessed by [[Apple]] of the final new actions we're        |
 | 24:19      | getting in shortcuts. And I thought it'd be fun to go through that.                                      |
 | 24:22      | There is a brand brand new one as well that only came out in this latest beta,                           |
 | 24:27      | which is obviously because it was under lock and key for hardware reasons. And that's                    |
@@ -473,7 +473,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 38:25      | believe you can do lens selection too. I need to actually get the new camera or the new phone to         |
 | 38:30      | check it. But I thought that was an interesting one. Yeah. So there is a preference with the             |
 | 38:38      | settings now because this is something that they actually mentioned in the keynote.                      |
-| 38:42      | And I saw other things. I'm thrilled that Apple are not sure looking shortcuts, but they are             |
+| 38:42      | And I saw other things. I'm thrilled that [[Apple]] are not sure looking shortcuts, but they are             |
 | 38:49      | understanding what people are using shortcuts for and actually putting that into features.               |
 | 38:56      | We saw this before with being able to set your watch face when your focus mode starts and so on.         |
 | 39:01      | But there is a setting somewhere for the camera. It may only be on the new phones,                       |
@@ -524,7 +524,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 43:06      | which I think is nice. Yeah, exactly. Like I've just run the action and there were 87 alarms,            |
 | 43:14      | just called alarm. There are no more 87 alarms called alarm because I've just deleted them.              |
 | 43:19      | But yeah, that's something that's left over from previously. So I'm glad that that's gone away.          |
-| 43:25      | You know, Apple, everybody keeps wondering why Apple doesn't make its own passwords application,         |
+| 43:25      | You know, [[Apple]], everybody keeps wondering why [[Apple]] doesn't make its own passwords application,         |
 | 43:30      | you know, because they do have kind of a lot of password management built in.                            |
 | 43:35      | They did take a step that direction with a new action called show passwords.                             |
 | 43:41      | And you can have it show you a specific password that it gets from the settings                          |
@@ -560,7 +560,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 46:29      | they've been listening for that and so on. And so we've got all of those options. And speaking of        |
 | 46:37      | options, health samples have significantly improved. So there was actually a thing that                  |
 | 46:44      | was mentioned in the keynote where now you're going to be able to say to Siri like, you know,            |
-| 46:48      | hey apple lady, I weigh blah, blah, blah today. And that will get logged automatically into health.      |
+| 46:48      | hey [[Apple]] lady, I weigh blah, blah, blah today. And that will get logged automatically into health.      |
 | 46:55      | That's so great because a number of times I've created a shortcut for somebody that will just            |
 | 46:59      | log their current blood pressure or weight or whatever, because they don't have a smart scale            |
 | 47:04      | or a smart blood pressure monitor or they do have a smart one, but it's not smart with health kit        |
@@ -840,7 +840,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:14:25   | to run scripts for things, and that can include shortcuts. So, you can set up automations using          |
 | 01:14:33   | [[Audio Hijack]]. So, when [[Audio Hijack]] starts recording, turn off Time Machine or stop Time                 |
 | 01:14:39   | Machine, and when it stops recording, start Time Machine. There you go. Nice and simple.                 |
-| 01:14:45   | Well, you know, nice work, Apple. Like I said, they didn't rebuild the world of automation this          |
+| 01:14:45   | Well, you know, nice work, [[Apple]]. Like I said, they didn't rebuild the world of automation this          |
 | 01:14:52   | year, but they made it a lot easier in a lot of ways. Hopefully, some of the things we talked            |
 | 01:14:58   | about today make you want to go and play with it. It's Friday. You got the weekend. Why don't you        |
 | 01:15:03   | go build a cool automation shirt with us? We'd love to hear from you. Something I want to do,            |
@@ -849,7 +849,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:15:16   | stuff we bought lately. Mine is somewhat related automation. I'm not sure if yours does, but I           |
 | 01:15:22   | think it's very timely, given that today is the day the new iPhones are shipping. Would you buy?         |
 | 01:15:28   | I bought an Anker battery pack. So, Anker have been heavily promoting USB-C this summer. Now,            |
-| 01:15:36   | I'm not going to say for sure that they knew something was coming, but Apple definitely do               |
+| 01:15:36   | I'm not going to say for sure that they knew something was coming, but [[Apple]] definitely do               |
 | 01:15:41   | give certain bits of information to certain partners of theirs like Belkin,                              |
 | 01:15:50   | so that they can have products ready on day zero of the iPhone launch. Earlier this year,                |
 | 01:15:57   | I think it was, Anker released a 5,000mAh battery pack, which plugged into the bottom of your iPhone.    |
@@ -887,22 +887,22 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:18:44   | but I've been replacing batteries, and they still aren't working as well. Maybe it's my fault,           |
 | 01:18:48   | and there's something wrong with the network. I don't know, but I just decided I got a couple            |
 | 01:18:54   | of CARA buttons in replacement, and they're much more stable for me, so I'm switching                    |
-| 01:18:59   | those over to a CARA where possible. But it's the same technique. It's just a button you can             |
+| 01:18:59   | those over to a [[Aqara]] where possible. But it's the same technique. It's just a button you can             |
 | 01:19:04   | stick it anywhere, and you can click it once, twice, or a long press. But I have these things            |
 | 01:19:09   | all over the place, and they're just super useful to turn lights off and on and do home                  |
-| 01:19:14   | automation stuff, and they're not very expensive to buy the a CARA one, so I bought five of them.        |
+| 01:19:14   | automation stuff, and they're not very expensive to buy the a [[Aqara]] one, so I bought five of them.        |
 | 01:19:21   | And now every desk I sit at, I've got the ability to manage the lights and do some                       |
 | 01:19:26   | automation stuff, but it's very basic home automation. But if you have even just the                     |
 | 01:19:31   | real basic home kit, no home assistant, nothing fancy, just the bare bones home kit,                     |
 | 01:19:36   | these buttons are totally worth it, and I would recommend the a CARA ones.                               |
 | 01:19:40   | Yeah, yeah, they're great. They're tiny. So I've got small ones, and then I've recently                  |
-| 01:19:48   | been playing with some of their bigger buttons, the a CARA Apple switches, which look a little bit       |
+| 01:19:48   | been playing with some of their bigger buttons, the a Aqara Opple switches, which look a little bit       |
 | 01:19:54   | more like a regular European, I guess, light switch, and they're large and square, but they can have     |
 | 01:20:03   | four or even six buttons on them, but each of those responds to single press, double press,              |
 | 01:20:07   | long press, and some of them even respond to triple press, which I'm not going for the triple press.     |
 | 01:20:12   | I have enough problems differentiating between the double back tap and triple back tap on my iPhone,     |
 | 01:20:18   | though some of that's probably the case that my phone is in and detection there. But yeah,               |
-| 01:20:26   | it's really nice to have those as options, and they just use standard CR2 3.2 batteries as well.         |
+| 01:20:26   | it's really nice to have those as options, and they just use standard CR2032 batteries as well.         |
 | 01:20:32   | So if they're running out, then those little watch batteries, it's not difficult to have a               |
 | 01:20:36   | couple of those in a little, I really love those plastic mesh sip wallets. I have those for              |
 | 01:20:44   | organising cables, so I've got like one for USB-A to lightning cables, one for USB-C to                  |
@@ -934,7 +934,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:23:16   | or opening, you know, a blind or, you know, turning on your TV, even that could be really useful.        |
 | 01:23:24   | Either way, we are the automators. You can find us at relay.fm/automators.                         |
 | 01:23:29   | Thank you to our sponsors, Vitally, Electric and HelloFresh. If you're doing something cool with          |
-| 01:23:34   | these new automation actions that Apple just gave us, let us know. Like we said, we'd like to feature    |
+| 01:23:34   | these new automation actions that [[Apple]] just gave us, let us know. Like we said, we'd like to feature    |
 | 01:23:39   | some of the listeners' interesting automations. So just drop us a note. The feedback form is             |
 | 01:23:43   | right there at relay.fm/automators. And for those of you that are automators max supporters,       |
 | 01:23:49   | that you get the ad-free extended version of the show, Rose and I are going to be talking about          |

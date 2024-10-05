@@ -105,21 +105,21 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 02:49      | David Sparks Well, if you're tuning in for the first                                                |
 | 02:52      | time and you're still here, we are the Automators.                                                  |
 | 02:54      | We like to talk about automation in different ways you can use it in your life.                     |
-| 02:58      | And today we've got a very exciting topic because Apple released the new iPhone 15 Pro              |
+| 02:58      | And today we've got a very exciting topic because [[Apple]] released the new iPhone 15 Pro              |
 | 03:03      | since the last time we recorded.                                                                    |
 | 03:06      | And both Rose and I have been having a lot of fun with the action button.                           |
-| 03:10      | So Apple added a button to the phone that they call the action button.                              |
+| 03:10      | So [[Apple]] added a button to the phone that they call the action button.                              |
 | 03:15      | And by default, it's a silencer button, you know, just like the old ring silence physical           |
 | 03:21      | button used to have.                                                                                |
 | 03:22      | Now it's a programmable button.                                                                     |
-| 03:25      | And Apple's got a bunch of options with it, like a lot of people have immediately reprogrammed      |
+| 03:25      | And [[Apple|Apple's]] got a bunch of options with it, like a lot of people have immediately reprogrammed      |
 | 03:30      | it.                                                                                                 |
 | 03:31      | So it's their camera button.                                                                        |
 | 03:32      | So if you push it, it gets you to your camera and you can take a picture really quick.              |
 | 03:37      | And there's other things you can do with it, like you can have it record a voice memo.              |
 | 03:41      | And there's a bunch of built-in features.                                                           |
 | 03:43      | But what Rose and I were both super interested in is you can make it run a shortcut.                |
-| 03:48      | And I love it when Apple ties shortcuts to things, because then if you're an automator,             |
+| 03:48      | And I love it when [[Apple]] ties shortcuts to things, because then if you're an automator,             |
 | 03:54      | you can make that button do way more than the default single functions.                             |
 | 04:00      | And we've been talking about it.                                                                    |
 | 04:01      | We both got new iPhones and we've we've both got thoughts and ideas and tips for getting            |
@@ -881,7 +881,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 01:02:35   | add it to a feedback episode, but let us know. Yeah. And also, you know, I mentioned earlier        |
 | 01:02:40   | there's that menu box beta because, you know, we really want to get Alex's app out there.           |
 | 01:02:46   | We're also going to be releasing an update to toolbox pro folks. But unfortunately, this            |
-| 01:02:51   | one comes with a little bit of a warning when Apple transferred the app to us. The way that         |
+| 01:02:51   | one comes with a little bit of a warning when [[Apple]] transferred the app to us. The way that         |
 | 01:02:57   | it worked out is that if we when we update this global variables and bookmark folders               |
 | 01:03:02   | are going to disappear and there's literally nothing we can do about this other than help           |
 | 01:03:08   | you get it back if you've got a Mac. So I'm saying this now. If you're using global variables       |
@@ -899,9 +899,9 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 01:04:04   | phone experience.                                                                                   |
 | 01:04:05   | Yeah, I'm going to be digging in on that. I just got in the beta myself. I can't wait               |
 | 01:04:09   | to give that a try. And the, you know, the nature of toolbox pro is it's always going               |
-| 01:04:13   | to be evolving, I would think, because Apple is going to Sherlock some of the stuff you             |
+| 01:04:13   | to be evolving, I would think, because [[Apple]] is going to [[Sherlocking\|Sherlock]] some of the stuff you             |
 | 01:04:18   | guys do is they add it to their own features or make changes. But the good news is, you             |
-| 01:04:23   | know, the toolbox pro team has a list of mile long of stuff they want to add.                       |
+| 01:04:23   | know, the [[Toolbox Pro]] team has a list of mile long of stuff they want to add.                       |
 | 01:04:27   | If it were only a mile long, our life would be so much easier. Our task management system           |
 | 01:04:31   | is literally exploding at the seams with all of the feature requests that we've got and             |
 | 01:04:35   | our ideas of our own and things like that that we've, we've got in there. So it's, you              |
@@ -910,7 +910,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 01:04:50   | much love there is and has been for [[Alex Hay]], and we've passed a whole bunch of down               |
 | 01:04:55   | to his family as well, you know, letting them know, you know, the, the lovely things that           |
 | 01:04:59   | people have said, which, you know, is why we took over the apps.                                    |
-| 01:05:02   | Well, I just love that toolbox pro is back under active development and I, I will be                |
+| 01:05:02   | Well, I just love that [[Toolbox Pro]] is back under active development and I, I will be                |
 | 01:05:07   | looking forward to every new release Rose and thanks for sharing that with us. Meantime,            |
 | 01:05:12   | if you've got that button on your phone and you're not using it, spend some time as we              |
 | 01:05:16   | can use it. Look at the stuff we're sharing with you from the show. Let us know what you're         |

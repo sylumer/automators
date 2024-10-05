@@ -28,7 +28,7 @@ Google Chrome is a cross-platform web browser developed by [[Google]].
 
 # Notes
 - Google Chrome is free to download and use.
-- Google Chrome uses the [[Blink]] rendering engine for most platforms. A notable exception for iOS where it uses [[WebKit]] due to Apple's app store policies, though it may leverage an alternative engines on iOS at some future date following the January 2024 European ruling (see [Apple newsroom](https://www.apple.com/uk/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)).
+- Google Chrome uses the [[Blink]] rendering engine for most platforms. A notable exception for iOS where it uses [[WebKit]] due to [[Apple|Apple's]] app store policies, though it may leverage an alternative engines on iOS at some future date following the January 2024 European ruling (see [Apple newsroom](https://www.apple.com/uk/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)).
 - Supports [[Shortcuts]] for automation.
 - The [[ChromeOS]] operating system is built around the Chrome browser.
 - The open source project on which Chrome and. many other browsers are built is [[Chromium]].

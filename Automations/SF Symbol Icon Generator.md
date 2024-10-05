@@ -7,7 +7,7 @@ author: Stephen Millard
 **Author:** `$="[[" + dv.current().author + "]]"`
 
 # Overview
-Through the use of [[Toolbox Pro]] and [[Shortcuts]], it is possible to generate an image file from Apple's [[SF Symbols]] that can then be used to give you a broad and standardised set of icons for use with the [[Stream Deck|Elgato Stream Deck]], the Mac Touch Bar, [[Keyboard Maestro]] macro, or any number of launchers and tools where you might want an icon.
+Through the use of [[Toolbox Pro]] and [[Shortcuts]], it is possible to generate an image file from [[Apple|Apple's]] [[SF Symbols]] that can then be used to give you a broad and standardised set of icons for use with the [[Stream Deck|Elgato Stream Deck]], the Mac Touch Bar, [[Keyboard Maestro]] macro, or any number of launchers and tools where you might want an icon.
 
 # How it Works
 The shortcut sets some default colours (icon and background) if none have been set. These are stored in Toolbox Pro global variables. A menu is presented that allows the user to change those colours, generate a set of icons, or generate an icon by name.

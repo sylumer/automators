@@ -147,7 +147,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 04:36      | is definitely very attractive.                                                                           |
 | 04:38      | I don't need to worry about leaving a Mac on or updating software and things like that.                  |
 | 04:45      | And then the third is shortcuts.                                                                         |
-| 04:48      | And I've been really amazed with what Apple has done with that in iOS and iPadOS 13.                     |
+| 04:48      | And I've been really amazed with what [[Apple]] has done with that in iOS and iPadOS 13.                     |
 | 04:54      | It went far beyond what I was expecting them to do as an upgrade.                                        |
 | 04:59      | And certainly watching your field guide, David got, really got the wheels moving in terms                |
 | 05:04      | of exploring a whole bunch of different possibilities.                                                   |
@@ -501,7 +501,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 26:14      | with OmniFocus 3.4, they've got a lot more options in terms of using shortcuts within                    |
 | 26:21      | OmniFocus with the parameter-based shortcuts and so forth, so that's definitely got the                  |
 | 26:28      | wheels turning.                                                                                          |
-| 26:29      | I'll tell you, every time I corner the shortcuts team at Apple, I complain about the notes               |
+| 26:29      | I'll tell you, every time I corner the shortcuts team at [[Apple]], I complain about the notes               |
 | 26:35      | field, the text field, because basically because of OmniFocus templates, because they're long            |
 | 26:41      | text for me.                                                                                             |
 | 26:42      | I mean, I've got kind of complex templates, I use them when I make new companies and do                  |
@@ -861,7 +861,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 48:16      | then I remove it from the queue and Push Over and I'm good to go at that point.                          |
 | 48:20      | When I meet automators, listeners at conferences and whatnot, often they're very deep into               |
 | 48:26      | shortcuts and [[Keyboard Maestro]] and like TextExpander and the other kind of usual suspects               |
-| 48:32      | on the Apple platforms.                                                                                  |
+| 48:32      | on the [[Apple]] platforms.                                                                                  |
 | 48:35      | Rarely are they trying any of this cloud stuff and I really would like you, if you're listening          |
 | 48:39      | to this right now, challenge you to go out, set up and if this, then that account may                    |
 | 48:44      | be teased with a Zap year.                                                                               |
@@ -945,7 +945,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 53:36      | like that where it'd be nice to not have that extra step.                                                |
 | 53:40      | Confirmation.                                                                                            |
 | 53:41      | Yeah, confirmation.                                                                                      |
-| 53:42      | At the same time, I can see why Apple, I can see the logic of why they did things the way                |
+| 53:42      | At the same time, I can see why [[Apple]], I can see the logic of why they did things the way                |
 | 53:46      | they did and just to protect people from themselves, I think, by adding in that extra step and people    |
 | 53:52      | might complain about it, but I think there are instances where things can go off the                     |
 | 53:58      | rails pretty quickly if a shortcut goes awry or something like that.                                     |
@@ -1004,7 +1004,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 58:09      | updated for these, but it's just like, I feel like we're just starting, there's going to                 |
 | 58:14      | be even more of these apps and like, [[Adam Tow]], our friend that we've talked to on the                    |
 | 58:21      | show has got stuff he's working on, there's a whole bunch of cool stuff coming out for                   |
-| 58:25      | shortcuts and this is exactly what we get because Apple opened it up to third-party                      |
+| 58:25      | shortcuts and this is exactly what we get because [[Apple]] opened it up to third-party                      |
 | 58:30      | development.                                                                                             |
 | 58:31      | I mean, I'm so happy with what they've done with shortcuts.                                              |
 | 58:34      | I mean, the fact that we're having a conversation about realistically using iOS as an automation         |

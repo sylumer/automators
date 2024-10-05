@@ -128,7 +128,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 03:55      | after [[WWDC]], but obviously things have been evolving. We're getting increasingly frequent                  |
 | 04:02      | betas, which is always a sign that they're getting close to the end. And as we record                     |
 | 04:07      | this, there's a, there's a heck of a rumor out there in a week or two, we're going to                     |
-| 04:10      | have an Apple event to get the new iPhone and a release date for iOS 15. So that may                      |
+| 04:10      | have an [[Apple]] event to get the new iPhone and a release date for iOS 15. So that may                      |
 | 04:18      | be out actually before the show releases.                                                                 |
 | 04:20      | Oh, wow.                                                                                                  |
 | 04:21      | We're jumping time here, guys, but either way. But Chris, what are you particularly                       |
@@ -164,7 +164,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 06:49      | in them that is not necessary.                                                                            |
 | 06:51      | Yeah. The number of times I've been given a PDF and every fourth page is blank or something               |
 | 06:56      | because they intended this to be printed or whatever it is. No, I, I'm not printing                       |
-| 07:01      | this. I've got an iPad pro with an Apple Pen. So why would I print this?                                  |
+| 07:01      | this. I've got an iPad pro with an Apple Pencil. So why would I print this?                                  |
 | 07:05      | Exactly. Yeah. Yeah. Being able to take advantage of that. And yeah, the split PDF document               |
 | 07:09      | into pages action is, is great. I was actually using previously, I was always hacking the                 |
 | 07:14      | make PDF action where you could include specific pages, page range, which would help, but you             |
@@ -175,10 +175,10 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 07:40      | on the Mac is they want it to eventually replace automators. So they're pulling those actions             |
 | 07:44      | over and we got a whole PDF suite now on iPad and iPhone. It's like, awesome. You know,                   |
 | 07:51      | all this stuff is, I'm really happy with the state of shortcuts. You know, I mean, when                   |
-| 07:57      | you think about when Apple bought it, and everybody was like, Oh, that's that, you know,                  |
+| 07:57      | you think about when [[Apple]] bought it, and everybody was like, Oh, that's that, you know,                  |
 | 08:02      | they're going to put those guys, you know, those guys are going to be working on font                     |
 | 08:05      | implementation in numbers or something. They're not going to be making automation tools anymore.          |
-| 08:10      | And no, they really just let them run. I feel like this is Apple at its best, you know,                   |
+| 08:10      | And no, they really just let them run. I feel like this is [[Apple]] at its best, you know,                   |
 | 08:16      | bringing in an outside company and then putting their cool tool inside the operating system.              |
 | 08:21      | Yeah, 100%. I, I'm so excited the, the, the jumps that shortcuts has made every single                    |
 | 08:29      | year since what was it iOS 12 that it was put in. I mean, that wasn't that long ago.                      |
@@ -428,7 +428,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 29:48      | down, I have my research and writing process down, I feel like I can finally tackle this.                 |
 | 29:53      | I made two videos, one about just making a simple workflow, and then the second one                       |
 | 29:58      | I think was talking about magic variable. No, no, I'm sorry, that was later on, but                       |
-| 30:03      | there was a second video, and then right after that second video is when Apple purchased                  |
+| 30:03      | there was a second video, and then right after that second video is when [[Apple]] purchased                  |
 | 30:07      | workflow. It kind of took the air out of the tires                                                        |
 | 30:11      | because we didn't know what was happening, but then I think they put out the magic variable               |
 | 30:15      | update later on or something like, I don't remember the timeline of everything. It's                      |
@@ -450,7 +450,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 31:38      | Yes. One of my absolute favourite features in iPadOS 15 is a quick note. I think it's                      |
 | 31:46      | a fantastic feature basically allows you to take a note anywhere in the OS when you're                    |
 | 31:51      | on an iPad. But one of the issues with it is it's limited to the Notes app. What I would                  |
-| 32:02      | like to see in the future, and this is totally besides the point, is Apple open that up to                |
+| 32:02      | like to see in the future, and this is totally besides the point, is [[Apple]] open that up to                |
 | 32:05      | third parties and give like a quick note API and let apps like [[Drafts]] or Bear or Craft                    |
 | 32:11      | or [[Obsidian]] or whatever make their own version of quick note. That would be cool. But that's              |
 | 32:16      | not there today.                                                                                          |
@@ -516,7 +516,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 37:24      | a hundred action shortcut. In fact, I don't think I've made that many like plus 50 action                 |
 | 37:31      | shortcuts. I think most useful ones for me are kind of in that like five to 20 action                     |
 | 37:37      | range when they like useful complex shortcuts.                                                            |
-| 37:40      | Yeah, well, clearly Apple doesn't want you to make really long ones because the interface                 |
+| 37:40      | Yeah, well, clearly [[Apple]] doesn't want you to make really long ones because the interface                 |
 | 37:44      | has no capability of really doing that right.                                                             |
 | 37:48      | Yeah, I mean, there is so in iOS and iPad OS 15, you can now collapse actions like menus                  |
 | 37:55      | and if statements and that's nice. The actions themselves are smaller. They don't take up                 |
@@ -584,7 +584,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 43:13      | sorry, I've simulated with the accessibility feature for double back tap and I've assigned it             |
 | 43:18      | to a shortcut which creates a new blank draft and opens it in [[Drafts]]. That's clever. Yeah,                |
 | 43:23      | that's a good idea. Because then I can just pick up my phone. I double tap approximately                  |
-| 43:28      | where the Apple logo is. This works in a case. It runs my automation and a couple of seconds              |
+| 43:28      | where the [[Apple]] logo is. This works in a case. It runs my automation and a couple of seconds              |
 | 43:32      | later I'm in [[Drafts]] and or not even a couple of seconds. It's half a second, I guess I'm in [[Drafts]]       |
 | 43:39      | right now. So I just tapped it. So yeah, I love that feature. Yeah. I mean, and as much as I love         |
 | 43:45      | that ugly beast that is obsidian, I really think that there's a place in my heart always for [[Drafts]]      |
@@ -930,7 +930,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:16:04   | and I have a theory on why that is, but that's besides the point. But there's stuff I like                |
 | 01:16:09   | from all of them. But the best combination that I found is using Apple Mail with SaneBox. SaneBox,        |
 | 01:16:17   | that basically having server side filtering is just really nice. Why there's not filtering                |
-| 01:16:24   | in Apple's mail apps, I don't understand are on the iPad and iPhone at least. Why there's                 |
+| 01:16:24   | in [[Apple|Apple's]] mail apps, I don't understand are on the iPad and iPhone at least. Why there's                 |
 | 01:16:30   | not filtering there. It doesn't make any sense. Like even just some sort of smart folder,                 |
 | 01:16:35   | but with SaneBox, I have public email addresses that are in the description of my YouTube videos.         |
 | 01:16:41   | There's business contacts and stuff like that. People like to sign me up for newsletters that             |
@@ -938,7 +938,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:16:51   | ability to drag it to the same black hole folder is really nice. And to be able to organise things        |
 | 01:16:56   | and then like Sane news or Sane later is really handy. Yeah, I have a suggestion for you. Now that        |
 | 01:17:02   | you have that Mac mini, turn on Apple Mail and the Mac mini and use the Apple Mail rules in               |
-| 01:17:09   | Apple Mail rather than rely because Apple has lousy cloud support for Apple Mail rules. But               |
+| 01:17:09   | Apple Mail rather than rely because [[Apple]] has lousy cloud support for Apple Mail rules. But               |
 | 01:17:15   | the Apple Mail app on the Mac has a very powerful rule set. And if you've got that Mac mini running,      |
 | 01:17:21   | why not have Apple Mail in the background, set up your own custom rules and then that stuff will          |
 | 01:17:26   | just show up on your iPad because the accounts are synced. Yes, I tried that, but I think there was       |

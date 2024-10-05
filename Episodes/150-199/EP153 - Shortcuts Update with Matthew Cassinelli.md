@@ -56,14 +56,14 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 00:18      | Oh, Matt, I'm so glad that you were able to come in today and talk to us. You are one                |
 | 00:23      | of my very favourite automators. Is that a thing? Can you be one of my favourites?                     |
 | 00:27      | Sure. I mean, you guys made it a thing. Thank you.                                                   |
-| 00:29      | Yeah, why not? Matt is a [[Shortcuts]] guru. He worked at Apple for a while, helping them                |
-| 00:38      | out when the [[Shortcuts]] team first came into Apple. Since then, he's left. [MattCassinelli.com](https://MattCassinelli.com),        |
+| 00:29      | Yeah, why not? Matt is a [[Shortcuts]] guru. He worked at [[Apple]] for a while, helping them                |
+| 00:38      | out when the [[Shortcuts]] team first came into [[Apple]]. Since then, he's left. [MattCassinelli.com](https://MattCassinelli.com),        |
 | 00:44      | I believe, is the website? [MatthewCassinelli.com](https://MatthewCassinelli.com), but yeah.                                          |
 | 00:47      | Matthew, I'm sorry. I should get both. I've never thought about it.                                  |
 | 00:52      | You should get both. You should get both. Anyway, [MatthewCassinelli.com](https://MatthewCassinelli.com), great place to learn        |
 | 00:57      | [[Shortcuts]]. He shares a ton of them. He's got a membership. I'm a member. I'm a paying                |
 | 01:01      | member. Matt, did you know that I joined? I'm pretty sure.                                           |
-| 01:04      | And he does all sorts of cool stuff with [[Shortcuts]] and Apple automation. So of course, if Rose       |
+| 01:04      | And he does all sorts of cool stuff with [[Shortcuts]] and [[Apple]] automation. So of course, if Rose       |
 | 01:11      | couldn't make it today, Matt's the guy. And we have a lot on our agenda today. I'm particularly      |
 | 01:17      | interested in talking about focus modes with you, Matt. But I think before we get there,             |
 | 01:22      | let's just catch up. I haven't seen you for a while. What are you automating these days              |
@@ -73,11 +73,11 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 01:44      | some time. I don't even remember when last year was I tried to simplify and removed a                |
 | 01:48      | bunch of my shortcuts. And then after I did that, it was a huge mistake. And so I added              |
 | 01:53      | them all back. And now I have thousands on thousands. But there's some like high level               |
-| 01:58      | stuff that I think Apple could do to help something like that not be necessary for people.           |
+| 01:58      | stuff that I think [[Apple]] could do to help something like that not be necessary for people.           |
 | 02:04      | And then even App [[Shortcuts]] is a major feature that I dove into this year because I did some         |
 | 02:09      | consulting work with indie developers and really help them implement like the best version           |
 | 02:16      | of I worked with the team at Structured. And we kind of built out their app shortcuts.               |
-| 02:21      | And I even discovered some features that I didn't really know existed or like Apple barely           |
+| 02:21      | And I even discovered some features that I didn't really know existed or like [[Apple]] barely           |
 | 02:26      | mentioned in the documentation. So that's been pretty fun just because I think that's                |
 | 02:32      | setting up before the future like app intents, the API that powers app shortcuts is everything       |
 | 02:38      | that's widgets and stuff like that. So going forward, I think that's going to be a major             |
@@ -92,7 +92,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 03:30      | something that we need more of. So at this point, we've got [[Shortcuts]] on iPhone, iPad                |
 | 03:36      | and Mac. So it's across all the platforms. And I want to come back to [[Shortcuts]] for                  |
 | 03:42      | Mac, but just the story of app support and developers getting on board with [[Shortcuts]].               |
-| 03:49      | How do you think we're doing at this point? I think we or Apple are two different areas.             |
+| 03:49      | How do you think we're doing at this point? I think we or [[Apple]] are two different areas.             |
 | 03:58      | I think it's sort of a, I think this year, iOS 17 was an inflection point where like                 |
 | 04:04      | the [[Shortcuts]] APIs got good enough or what they were kind of supposed to be the whole                |
 | 04:10      | time, I think. So I think that sort of created a weird situation where developers who adopted        |
@@ -120,7 +120,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 06:12      | like workflow day users kind of the power user side. And then the regular people can                 |
 | 06:17      | just kind of say like, open my tasks for today and it works. And they don't even have to             |
 | 06:21      | have ever even opened [[Shortcuts]].                                                                       |
-| 06:23      | Yeah, I feel like there is always been an advocacy problem with automation at Apple,                 |
+| 06:23      | Yeah, I feel like there is always been an advocacy problem with automation at [[Apple]],                 |
 | 06:30      | like they've, they've had the tools for a long time. I mean, you know, [[AppleScript]]                  |
 | 06:34      | was a very powerful automation tool. But you know, they've never really advocated hard               |
 | 06:41      | on it and almost like developer support for that almost feel like that needs to be like              |
@@ -130,13 +130,13 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 07:06      | Mac. I mean, everything you can think of that you want to do in [[Shortcuts]] automation, if             |
 | 07:11      | you install [[Sound Source]] there, it's like 30 something actions. And they're like, how               |
 | 07:16      | come other developers are not jumping on that? And is it, is it that they don't know it has          |
-| 07:22      | Apple made it too difficult for them? Well, I would argue that Apple's made it a lot easier,         |
+| 07:22      | [[Apple]] made it too difficult for them? Well, I would argue that [[Apple|Apple's]] made it a lot easier,         |
 | 07:26      | but it's still something that requires work and updating like you got to keep up with                |
 | 07:31      | it. But even thinking about this, what I was just talking about is they don't get the benefit        |
 | 07:36      | of apps work. That's that whole side that is worth implementing for iOS and iPad or                  |
 | 07:42      | iPhone iPad. There isn't a feature for that on the Mac. So they kind of only have like               |
 | 07:49      | put in this work for power users, which is you think would be the bread and butter anyways.          |
-| 07:53      | But yeah, I mean, just advocacy there and examples. And honestly, from Apple, like they              |
+| 07:53      | But yeah, I mean, just advocacy there and examples. And honestly, from [[Apple]], like they              |
 | 07:59      | need Final Cut Pro to have actions so that developers can understand, Oh, I can do this.             |
 | 08:05      | Yeah, but not just put out [[Shortcuts]] for Mac and say it's the feature of automation and              |
 | 08:10      | then just wait for that feature to arrive. Like that's kind of where we're at now is                 |
@@ -149,7 +149,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 08:48      | it was a good impetus for developers to at least try because then they could have one                |
 | 08:55      | action available in that action button setup screen. And so I think the action button coming         |
 | 09:01      | to more iPhones would really boost people forward. And just in terms of like, I should               |
-| 09:08      | do this now. And then now that what's always hard with Apple and even having worked there            |
+| 09:08      | do this now. And then now that what's always hard with [[Apple]] and even having worked there            |
 | 09:14      | for like a little bit, I can like understand now is like, they put out the feature so that           |
 | 09:19      | they have a year of development onto it, and then it kind of gets pushed wider. And that's           |
 | 09:24      | really when it's ready. So I think even like the action button didn't, it kept like timing           |
@@ -178,11 +178,11 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 11:25      | for normal users. And, and it just never got the widespread adoption, I think that they              |
 | 11:30      | had hoped. And then, and then there was automator, right? [[Automator]] to me was the precursor of       |
 | 11:36      | [[Shortcuts]], you know, Lego block-based automation, but it just never got the buy-in. And not          |
-| 11:43      | only did I get the buy-in from app developers, I didn't get the buy-in at Apple. I have this         |
-| 11:47      | picture of my mind of salsa going and like running around Apple, trying to convince people           |
+| 11:43      | only did I get the buy-in from app developers, I didn't get the buy-in at [[Apple]]. I have this         |
+| 11:47      | picture of my mind of salsa going and like running around [[Apple]], trying to convince people           |
 | 11:51      | to write plugins for, for auto.                                                                      |
 | 11:53      | Yeah. I mean, that's what funny about all the like internal stuff is like, I could have              |
-| 11:59      | done that job at Apple of the internal development stuff. But then I also, it's like, I wanted       |
+| 11:59      | done that job at [[Apple]] of the internal development stuff. But then I also, it's like, I wanted       |
 | 12:05      | to do like three separate jobs and there's, you kind of need one person to do that whole             |
 | 12:10      | thing. So that was, it's always just interesting. Like the gallery alone is like, that's kind        |
 | 12:15      | of what I'm doing now in many ways is a gallery of shortcuts and they still have my shortcuts        |
@@ -310,7 +310,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 23:24      | handle searching through the lit? I couldn't use the single widget just because it couldn't          |
 | 23:28      | present my list of shortcuts for a long time. Really understanding the power user experience         |
 | 23:35      | and what does it mean to successfully adopt this tool beyond just running one or two                 |
-| 23:41      | shortcuts a day, but this is an operating system for Apple devices and software and                  |
+| 23:41      | shortcuts a day, but this is an operating system for [[Apple]] devices and software and                  |
 | 23:50      | they need to give us the tooling that other software ecosystems have.                                |
 | 23:56      | Another thing too with all the examples and stuff is an app store would do very well.                |
 | 24:03      | Obviously, I'm selfishly would want it, but it is just being able to give stuff away for             |
@@ -325,7 +325,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 24:57      | the store and hopefully sales. That would make sense.                                                |
 | 25:02      | Can we start one in the EU?                                                                          |
 | 25:04      | Yeah. I mean, none of this stuff is easy. The other question is, I don't know legitimately           |
-| 25:14      | how much support there is for automation at Apple when the rubber meets the road. I know             |
+| 25:14      | how much support there is for automation at [[Apple]] when the rubber meets the road. I know             |
 | 25:20      | that they must be interested in it or they wouldn't have [[Shortcuts]], but how many people              |
 | 25:26      | do they actually have working on it? How much developer support are they willing to do?              |
 | 25:30      | How much money are they going to spend? Or how much of their valuable public time are                |
@@ -333,7 +333,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 25:40      | to do and sell?                                                                                      |
 | 25:41      | Yeah. That's something that I haven't thought about enough sometimes in the past about how           |
 | 25:49      | do they make money from this kind of thing? It seems like an original sin to say that                |
-| 25:55      | about Apple software because that's not typically how they make stuff, but just investing into       |
+| 25:55      | about [[Apple]] software because that's not typically how they make stuff, but just investing into       |
 | 26:01      | that ecosystem. I think that's why I think if it is part of their AI strategy, I'm going             |
 | 26:08      | to be more bullish than ever on it. I'm curious where that split is. Also, the [[Shortcuts]] app         |
 | 26:17      | versus the app intense ecosystem and Siri are all amorphous and overlapping. There's                 |
@@ -350,10 +350,10 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 27:33      | had filed it, it would be fixed by now and I'm still dealing with it. That's not my fault,           |
 | 27:40      | but also I'm like, damn, I really should have done that.                                             |
 | 27:45      | Another piece of this that really, in my opinion, is true is the people that are working on          |
-| 27:51      | [[Shortcuts]] at Apple are really into it and they want it to succeed just as much as we                 |
+| 27:51      | [[Shortcuts]] at [[Apple]] are really into it and they want it to succeed just as much as we                 |
 | 27:56      | do. That's not always the case. I don't feel like there is as strong a team advocating               |
-| 28:02      | for their product as much for all the products at Apple as there are for [[Shortcuts]].                  |
-| 28:07      | I think it's well-liked, I'm pretty sure, within the company. I think Apple employees                |
+| 28:02      | for their product as much for all the products at [[Apple]] as there are for [[Shortcuts]].                  |
+| 28:07      | I think it's well-liked, I'm pretty sure, within the company. I think [[Apple]] employees                |
 | 28:15      | use [[Shortcuts]] a lot too. I think it's the same thing. They do one big release a year                 |
 | 28:21      | and they're a massive corporation and they all have their own priorities too. It's not               |
 | 28:28      | an indie team where they can just focus on this. They have to get buy-in and then that's             |
@@ -370,8 +370,8 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 29:42      | [[Shortcuts]] experience than the [[Shortcuts]] team, which is crazy to say, but that's kind of              |
 | 29:47      | just how it goes when you're a developer also. That's why I truly trying to synthesise what          |
 | 29:53      | do you actually want or what's wrong versus what could it be versus what can one small               |
-| 30:00      | team at Apple do within the next 12 months can all be are all slightly different. We                 |
-| 30:07      | should talk about it more and say it because if it goes on said, I don't know, Apple employees       |
+| 30:00      | team at [[Apple]] do within the next 12 months can all be are all slightly different. We                 |
+| 30:07      | should talk about it more and say it because if it goes on said, I don't know, [[Apple]] employees       |
 | 30:13      | are also experiencing the way the rest of us are in the last four years. Having someone              |
 | 30:19      | that's just like, hey, you guys should do this and it's a good idea and they can do                  |
 | 30:23      | it feasibly. They're going to be like, sure, great. Thank you. Why not? If there's problems          |
@@ -379,7 +379,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 30:36      | internally because I also haven't worked there in years and years just to be clear, but we           |
 | 30:42      | can guide it as much as they're building this thing that they already just landed in their           |
 | 30:47      | lap from the workflow team. So there is like a symbiotic relationship with the community             |
-| 30:54      | and what Apple's doing there.                                                                        |
+| 30:54      | and what [[Apple|Apple's]] doing there.                                                                        |
 | 30:56      | All right. I want to shift gears because you talked about focus so high level. I love                |
 | 31:02      | it though. Yeah, that's okay. We talked about focus modes and I am a constant advocate for           |
 | 31:09      | focus modes. I don't think enough people use them. If you're interested in automation,               |
@@ -497,10 +497,10 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 41:20      | stuff was on the pro and so I do think there is the action button in particular has a chance         |
 | 41:25      | for revival now that they did have a year to fix all the issues. Like I said, it comes               |
 | 41:30      | out a year later is when it actually is the full implementation of it. For power users               |
-| 41:36      | who are excited about it, we have the enthusiasm and Apple doesn't let us take that and run          |
+| 41:36      | who are excited about it, we have the enthusiasm and [[Apple]] doesn't let us take that and run          |
 | 41:42      | with it and that can be pretty frustrating. That's why honestly, I love talking to you               |
 | 41:49      | and Rose and just the community. I think we all should, we got to find a way to get excited          |
-| 41:55      | about this beyond when Apple is just releasing that stuff because it's all that potential            |
+| 41:55      | about this beyond when [[Apple]] is just releasing that stuff because it's all that potential            |
 | 41:59      | is still there at all times and it's really like making it available and just kind of                |
 | 42:04      | having fun with people too.                                                                          |
 | 42:09      | This episode of Automators is brought to you by Computex 2024. It's worth the world's                |

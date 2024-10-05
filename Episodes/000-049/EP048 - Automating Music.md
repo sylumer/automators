@@ -158,7 +158,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 05:54      | heard recently, and it was automatically updating itself because once you play it, then it's           |
 | 05:59      | been played within the last three months, and it gets dropped off the playlist, and it's               |
 | 06:02      | a great way to listen to some of your favourite music that you don't hear all the time.                 |
-| 06:06      | And Apple did a really good job at the beginning of creating those rule sets.                          |
+| 06:06      | And [[Apple]] did a really good job at the beginning of creating those rule sets.                          |
 | 06:11      | Yeah.                                                                                                  |
 | 06:12      | For people who've never played with a playlist in music or iTunes, it's very much like [[Hazel]]           |
 | 06:18      | in that you can have a set of rules, and then instead of having the actions, there are no              |
@@ -184,7 +184,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 07:37      | know that the app could do that, because it's built in, you know.                                      |
 | 07:41      | So he discovered when he saw my screencast that that option existed.                                   |
 | 07:44      | So that's a great trick to have up your sleeve when you're doing automation.                           |
-| 07:49      | I was very worried when I heard that Apple was going to take iTunes out and put the                    |
+| 07:49      | I was very worried when I heard that [[Apple]] was going to take iTunes out and put the                    |
 | 07:54      | music app in, and I was afraid that they were going to remove a lot of that automation options,        |
 | 08:00      | but fortunately, it still exists in the music app.                                                     |
 | 08:03      | Yes, it does.                                                                                          |
@@ -407,7 +407,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 19:52      | It took a very long time to download a lot of music turned out I had to limit it because               |
 | 19:56      | I was trying to download too much.                                                                     |
 | 19:59      | It seemed to work.                                                                                     |
-| 20:00      | I am glad that Apple has left all these hooks in though.                                               |
+| 20:00      | I am glad that [[Apple]] has left all these hooks in though.                                               |
 | 20:04      | So you know, the music app is just as automation friendly as iTunes was in that regard.                |
 | 20:11      | And that's good.                                                                                       |
 | 20:12      | Yes, it is.                                                                                            |
@@ -1051,7 +1051,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 58:08      | with the time I spend on prep.                                                                         |
 | 58:11      | So you know, so all that stuff is very possible.                                                       |
 | 58:13      | And as Google calendars are very automation friendly for web-based automation, if you're               |
-| 58:20      | on Apple platforms, the iCloud calendars are super automation friendly for shortcuts.                  |
+| 58:20      | on [[Apple]] platforms, the iCloud calendars are super automation friendly for shortcuts.                  |
 | 58:26      | Just like really powerful tools.                                                                       |
 | 58:29      | Yeah.                                                                                                  |
 | 58:30      | And if you add your Google account as an account to your iPhone or iPad, then you can access           |

@@ -112,11 +112,11 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 04:52      | I did not. And honestly, I've said this number of times, but I'm one of the poorest advocates                |
 | 04:58      | of my own spec in the sense that I don't think it ever should have had to exist.                             |
 | 05:03      | I agree with that. And I honestly thought it was something that we would just,                               |
-| 05:07      | it was a hack we put in place for a year or maybe two years until Apple provided a better way for            |
+| 05:07      | it was a hack we put in place for a year or maybe two years until [[Apple]] provided a better way for            |
 | 05:13      | apps to work together. And that just didn't come for year after year, new iOS versions                       |
 | 05:19      | were coming out. And there was no, no solution to that problem. So more and more people relied               |
 | 05:25      | on the [[URL Schemes]] and it grew. Yeah, but it is, it is kind of interesting when you think about it,          |
-| 05:30      | because, because Apple never really got on the horse until many years later, you built basically             |
+| 05:30      | because, because [[Apple]] never really got on the horse until many years later, you built basically             |
 | 05:37      | the backbone of what became [[Drafts]]. And also you built the backbone of what became [[Workflow]],                 |
 | 05:43      | which would became [[Shortcuts]], which is one of the most frequent topics of automation on iOS.                 |
 | 05:49      | So I mean, I just feel like you guys did something special that day.                                         |
@@ -263,7 +263,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 19:30      | because as an automator, that opens up so many options. One of the tools I was using before                  |
 | 19:35      | I went all in with [[Drafts]] for my notes storage was [[Apple Notes]], and they didn't have, I don't know why,      |
 | 19:41      | they don't have a unique identifier system built into [[Apple Notes]]. So the way I would do it is I             |
-| 19:48      | would go into [[1Password]] and generate a one-time password and put it at the bottom of an Apple note.          |
+| 19:48      | would go into [[1Password]] and generate a one-time password and put it at the bottom of an [[Apple]] note.          |
 | 19:55      | So I basically had my own [[UUID]] system, and then I could do a search in shortcuts for that                    |
 | 20:01      | password. I've got air quotes up right now to find the specific note, because otherwise you had to           |
 | 20:06      | like search, and if you like, if it was like a client name, what if I had four notes with that               |
@@ -328,7 +328,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 25:31      | [[Airtable]]? Because I wrote my own [[Airtable]] support for [[Drafts]], of course. But this is much easier           |
 | 25:38      | for people to use, which is great. Right. I mean, at the basic level, the actions in [[Drafts]]                  |
 | 25:44      | incorporate [[JavaScript]] and they use [[JavaScript]] core, which is a basic version of the core language           |
-| 25:49      | that's provided by Apple on all the platforms. And it's the same [[JavaScript]] engine that runs in              |
+| 25:49      | that's provided by [[Apple]] on all the platforms. And it's the same [[JavaScript]] engine that runs in              |
 | 25:54      | [[Safari]] and stuff, but it doesn't have all the features you have when running in a browser.                   |
 | 25:59      | You know, a lot of [[JavaScript]] libraries are written to rely on things like the document                      |
 | 26:05      | object model and the [[Ajax]] tools that are added to the [[JavaScript]] language in the context of a                |
@@ -459,7 +459,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 37:37      | We got to add actions. I have a cutting plan. [[Dark Noise]] is amazing and has loads of sounds.                 |
 | 37:43      | What we could do is just have a shortcut that calls out to [[Dark Noise]] and plays a 10-second                  |
 | 37:48      | or a two-second [[Dark Noise]] sound and pings back to [[Drafts]]. Or you could just get like the old                |
-| 37:54      | sounds of a pre-Big Sur Mac and just put them, I'm sure Apple Legal would have no problem with you           |
+| 37:54      | sounds of a pre-Big Sur Mac and just put them, I'm sure [[Apple]] Legal would have no problem with you           |
 | 38:01      | embedding those in your house. Okay, a small caveat. I only want this if you can stay on the [[App Store]]       |
 | 38:10      | because if you can't stay on the App Store, then that makes [[Drafts]] very unhelpful to a lot of                |
 | 38:15      | people. That would be fun because it would be a very simple action if it was already in the                  |
@@ -631,7 +631,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 54:01      | Yeah. And then there'll be a bunch of user created syntax that we can all download and use if we             |
 | 54:07      | don't want to bother making our own. And, you know, and like one out of five will be awesome and four        |
 | 54:14      | out of five will be terrible, but the one out of five will be totally there. Just the same reason            |
-| 54:20      | Apple's not making custom watch faces, right? But yeah, I'm really looking forward to that feature           |
+| 54:20      | [[Apple|Apple's]] not making custom watch faces, right? But yeah, I'm really looking forward to that feature           |
 | 54:28      | coming out. Rose, I'm with you on this. I'm slowly moving all of my text fields out of                       |
 | 54:35      | shortcuts and setting them up in [[Drafts]]. And I'll have to use these tools, although mine are all             |
 | 54:40      | kind of pretty much created already. So it's just a, you know, it's a much simpler process.                  |
@@ -767,9 +767,9 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:06:40   | everywhere, it does this on this iPhone 6s, which is sitting in like a remote control                        |
 | 01:06:45   | holder from IKEA. It's permanently plugged in. I never look at it. And it just runs and it's                 |
 | 01:06:50   | brilliant. It's magic. You know, when some of these third parties come up with ways to further               |
-| 01:06:56   | automation with third party apps, and you always worry about, you know, is Apple going to sure               |
+| 01:06:56   | automation with third party apps, and you always worry about, you know, is [[Apple]] going to sure               |
 | 01:07:01   | lock them or, you know, and fold this into [[Shortcuts]] or something on the Mac? I never worry                  |
-| 01:07:08   | about that when it comes to the [[Pushcut]] automation server. That is something Apple will never go that       |
+| 01:07:08   | about that when it comes to the [[Pushcut]] automation server. That is something [[Apple]] will never go that       |
 | 01:07:13   | far on. No, never, never. And it's great because I can just have it do these things. And okay,               |
 | 01:07:20   | sometimes [[Pushcut]] automation server just runs shortcuts or whatever. But in this particular                 |
 | 01:07:24   | case, it's handing all of the heavy lifting off to [[Drafts]] and [[Drafts]] is there going, yep,                    |
@@ -810,7 +810,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:10:27   | it in its battery case today. And like, so this was, we started recording at I think 7 PM. And                |
 | 01:10:35   | at that point it was down to 11% battery. And I was like, okay, I really need to put this on                 |
 | 01:10:39   | charge now. Yeah, I started this year with a bunch of speaking gigs on the calendar and like                 |
-| 01:10:44   | all these plans for travel. So I bought the extended battery case, the Apple battery case,                   |
+| 01:10:44   | all these plans for travel. So I bought the extended battery case, the [[Apple]] battery case,                   |
 | 01:10:50   | which is really cool. It's got a camera button on it. And for my new phone, and man, that's just,            |
 | 01:10:56   | I should have just flushed $200 down the toilet, honestly, it would have served the same purpose.            |
 | 01:11:02   | I got it used like new on [[Amazon]] for basically because I used to have a                                      |
@@ -869,7 +869,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:16:06   | Yeah, just do it in your free time. No, I am just 14 work at all.                                            |
 | 01:16:09   | No. What do you think of iOS 14? Has it got you thinking about anything for [[Drafts]], you know,                |
 | 01:16:15   | pluses or minuses? Clearly widgets are pretty huge for [[Drafts]]. And I've got an implementation                |
-| 01:16:22   | in place that is going into testing here as soon as Apple works out some of the deployment bugs.             |
+| 01:16:22   | in place that is going into testing here as soon as [[Apple]] works out some of the deployment bugs.             |
 | 01:16:27   | But a lot of the other iOS 14, some summers I cringe after [[WWDC]] and I've got a lot of work to do,            |
 | 01:16:34   | but it's not too bad this year. A lot of the new features I like as a user and are super convenient          |
 | 01:16:40   | and cool, but don't really affect my life as a developer. You know, I don't have to do any work              |
@@ -878,8 +878,8 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:16:58   | you know, in previous years or stuff like that. So other than widgets, it hasn't affected [[Drafts]]             |
 | 01:17:04   | that much. A little more on the Mac side, I think adopting some of the new Big Sur                           |
 | 01:17:10   | conventions will be interesting. And I haven't dug too deep on that yet. But I'm excited about               |
-| 01:17:17   | the new platform updates. I think they look great. I think that Apple set it in the right                    |
-| 01:17:21   | direction on a lot of stuff. I think this is a real fun time to be a fan of Apple products.                  |
+| 01:17:17   | the new platform updates. I think they look great. I think that [[Apple]] set it in the right                    |
+| 01:17:21   | direction on a lot of stuff. I think this is a real fun time to be a fan of [[Apple]] products.                  |
 | 01:17:28   | And I'm just super curious to see what the Mac experience is going to be like in a year or two               |
 | 01:17:34   | from now, because I think it's going to be substantially different on a kind of like a                       |
 | 01:17:39   | quantum level. You know, we've had small changes for years, but this is, I mean, just think about it.        |
@@ -901,7 +901,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:19:14   | like what kind of battery life they end up having and stuff to know. Yeah, that's the thing. And             |
 | 01:19:20   | the MacBook Air is still nice. And, you know, especially now working from home all the time,                 |
 | 01:19:24   | I can use the Mac mini for the vast majority of things. So. Rose is an amazing how our brains                |
-| 01:19:29   | like can justify something. It's like, Oh, yeah. Oh, my mom really needs a computer. And Apple just          |
+| 01:19:29   | like can justify something. It's like, Oh, yeah. Oh, my mom really needs a computer. And [[Apple]] just          |
 | 01:19:36   | happens to have a new one coming out that I'd really like. I get it. I get it. I'm not, I am                 |
 | 01:19:41   | trying to make my own life easier with tech support. It's much easier with the computers faster.             |
 | 01:19:46   | I know my wife's computer is so ready for replacement. I can't even tell you. I mean,                        |

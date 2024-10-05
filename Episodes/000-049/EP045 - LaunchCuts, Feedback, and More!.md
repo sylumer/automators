@@ -270,11 +270,11 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 18:03      | beta operating system, be that iOS or macOS, you can use feedback assistant on the device running      |
 | 18:09      | beta software. If you are not running beta software for whatever reason, you can go to                 |
 | 18:15      | feedbackassistant.apple.com. And you'll have to sign in to fill that out. But you will also            |
-| 18:21      | potentially be able to get feedback from Apple. Now, I can't promise that you'll get feedback          |
-| 18:25      | from Apple. But usually, at some point, you'll get an automated message saying, hey, this appears      |
+| 18:21      | potentially be able to get feedback from [[Apple]]. Now, I can't promise that you'll get feedback          |
+| 18:25      | from [[Apple]]. But usually, at some point, you'll get an automated message saying, hey, this appears      |
 | 18:31      | to be resolved in this latest beta. Or in this release, can you confirm this or close your ticket      |
 | 18:37      | please? And that's the place to file it. Because if we don't file it officially, then it often can't   |
-| 18:44      | get escalated just because there's too much going on. Apple's a very big machine. They need to have    |
+| 18:44      | get escalated just because there's too much going on. [[Apple|Apple's]] a very big machine. They need to have    |
 | 18:49      | the data in front of them in the systems that they're using so that they can prioritise these issues.  |
 | 18:55      | Okay, so when you were just answering that, Rose, one of the things you said that just made me giggle  |
 | 19:01      | is you said, if you're not running the beta for whatever reason. So in the mind of Rosemary,           |
@@ -368,9 +368,9 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 27:31      | we'll see what else they add to it. But back on to automation. There was someone asking in the         |
 | 27:38      | forum, is it worth learning [[AppleScript]]? Yes. This is a very good question. And to which my           |
 | 27:46      | answer would be yes, if you want to automate stuff on a Mac, AppleScript is the way to go. So there   |
-| 27:52      | is JavaScript for the Mac where you can automate stuff. It's called JXA JavaScript for automation.     |
+| 27:52      | is [[JavaScript]] for the Mac where you can automate stuff. It's called JXA JavaScript for automation.     |
 | 27:59      | And it's kind of janky. It's based on the AppleScript, essentially. So it doesn't flow the same       |
-| 28:07      | way that regular JavaScript would. And it's very AppleScript-y. And if you're looking for examples,    |
+| 28:07      | way that regular [[JavaScript]] would. And it's very AppleScript-y. And if you're looking for examples,    |
 | 28:12      | you're going to find AppleScript everywhere, but you're going to struggle to find JavaScript          |
 | 28:16      | examples. So you're going to have to learn the AppleScript so that you can translate                  |
 | 28:20      | the AppleScript into JavaScript anyway. And I saw the other day that agile tortoise is working on     |
@@ -385,11 +385,11 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 29:10      | automation on the Mac. The downside is it does not come over to iOS. You're not going to be            |
 | 29:15      | able to use that AppleScript knowledge on iOS. And AppleScript is so different from JavaScript       |
 | 29:21      | that I would recommend that you also learn JavaScript. You probably need them both for                 |
-| 29:27      | automation. But I think there's this impression because of the kind of rise of JavaScript for          |
-| 29:34      | automation that AppleScript is no longer relevant. And we've had Sal on the show in the past and Doug |
+| 29:27      | automation. But I think there's this impression because of the kind of rise of [[JavaScript]] for          |
+| 29:34      | automation that AppleScript is no longer relevant. And we've had [[Sal Soghoian\|Sal]] on the show in the past and Doug |
 | 29:41      | Adams and these guys, there are things they do with a Mac that I don't think is possible with          |
-| 29:46      | anything but AppleScript. And if you really want to dive deep on the Mac, you need to learn Apple     |
-| 29:51      | script. Yes, absolutely. It's not that hard to get, to understand the basics of, you know,             |
+| 29:46      | anything but AppleScript. And if you really want to dive deep on the Mac, you need to learn [[AppleScript]].     |
+| 29:51      | Yes, absolutely. It's not that hard to get, to understand the basics of, you know,             |
 | 30:00      | you can get to grips with the AppleScript pretty easily. And also, if people are looking for books,   |
 | 30:05      | don't be put off potentially by an older book, because AppleScript hasn't changed that much           |
 | 30:11      | in a very long time, which you might think is a bad thing. But in general, it's not. At some point,    |
@@ -398,7 +398,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 30:27      | You know, you want things to be relatively consistent. And the fact that AppleScript hasn't           |
 | 30:33      | changed is a good thing in that case. And that also means that you can often pick up second hand       |
 | 30:37      | copies of books very cheaply as well, if you're looking for something that's like an in depth guide.   |
-| 30:43      | Yeah, I would recommend AppleScript 123 by [[Sal Soghoian]], the grandmaster. And honestly,                 |
+| 30:43      | Yeah, I would recommend "AppleScript 123" by [[Sal Soghoian]], the grandmaster. And honestly,                 |
 | 30:50      | just think of a few problems in search for existing scripts. I mean, AppleScript even                 |
 | 30:55      | is one language where you can very much cobble together scripts even if you're not fully fluent        |
 | 31:00      | in the language. Because it's written in plain English that it's not that hard to make little          |
@@ -568,7 +568,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 45:58      | want to create data for is health data. And I didn't want to have to process that into series,         |
 | 46:03      | which is what it uses to create charts. I just wanted to be able to create a chart                     |
 | 46:10      | with health information. So I've been experimenting with that as well. And that's been pretty nice.    |
-| 46:16      | Yeah. And once again, if they're going to give health data, Apple, please release time tracking        |
+| 46:16      | Yeah. And once again, if they're going to give health data, [[Apple]], please release time tracking        |
 | 46:21      | data. Oh yeah. Yeah. I mean, that would be another great use for [[Charty]].                               |
 | 46:26      | Yes, it absolutely would. It looks like, I'm just so happy to see this rich ecosystem of               |
 | 46:32      | shortcuts apps showing up. Yeah. And there's another one that's coming soon as well, [[Data Jar]]           |
@@ -590,20 +590,20 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 48:05      | whatever you want in there, you can put entire dictionaries in there and get them back out.            |
 | 48:09      | And all sorts of things, which is great. And then you can reuse them in multiple applications.         |
 | 48:14      | If you make a change to the dictionary, it's going to, the change will reflect in every shortcut       |
-| 48:20      | you access it in. It's like, I look at this when I'm like, oh, come on, Apple, this just needs to      |
+| 48:20      | you access it in. It's like, I look at this when I'm like, oh, come on, [[Apple]], this just needs to      |
 | 48:27      | be in shortcuts. Yeah. It does kind of feel like it needs to be Sherlocked, which is meant in the      |
 | 48:33      | best possible way, Simon, if you're listening to this. But it's great. It syncs using iCloud as        |
 | 48:38      | well. So you can have a database on all your devices. And this has been quite useful for me            |
 | 48:42      | because I've been able to store bits of information from things that have run on another device        |
 | 48:47      | and retrieve them on my iPhone when I'm out and about. So I'm really enjoying [[Data Jar]]. And I          |
 | 48:54      | suspect most people here will as well when it finally releases, which will hopefully be in the         |
-| 48:59      | not too distant future. And honestly, if Apple did Sherlock it, there's no way they would make it      |
+| 48:59      | not too distant future. And honestly, if [[Apple]] did Sherlock it, there's no way they would make it      |
 | 49:03      | as feature rich as [[Simon Støvring\|Simon]] has. So we'd still be using [[Data Jar]]. But yeah, what a great app.             |
 | 49:10      | Yes, it really is. So we mentioned iOS 14 earlier in the future, but I think it might be time to       |
 | 49:17      | get out our crystal balls, David, because it's March. And that means that [[WWDC\|WWDCs]] in a couple of         |
 | 49:24      | months, right? Maybe? Yeah. I don't know what the format will be. I have a feeling that with the       |
 | 49:32      | problems California is experiencing with this virus, that there may be no [[WWDC]] event. So Rose          |
-| 49:41      | and I won't get to hang out for a week again like we usually do. Yeah. But Apple still has to release  |
+| 49:41      | and I won't get to hang out for a week again like we usually do. Yeah. But [[Apple]] still has to release  |
 | 49:47      | iOS 14 and whatever comes after Catalina on the Mac and share all the stuff they've been working on    |
 | 49:53      | for the last year. I suspect if they, you know, that we'll get like a, it'll just be a virtual         |
 | 49:59      | [[WWDC]] this year. Yeah. Yeah. I think John Gerber called it. There'll be a small press event for,        |

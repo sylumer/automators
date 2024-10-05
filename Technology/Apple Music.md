@@ -5,7 +5,7 @@ aliases: ["Music"]
 notetype: "technology"
 ---
 # Overview
-Music is a music streaming service and accompanying application developed by Apple. It allows users to listen to music from a library of songs, create playlists, and discover new music. Music, can also download music for offline listening and access exclusive content such as artist interviews and live performances.
+Music is a music streaming service and accompanying application developed by [[Apple]]. It allows users to listen to music from a library of songs, create playlists, and discover new music. Music, can also download music for offline listening and access exclusive content such as artist interviews and live performances.
 
 The functionality in Music evolved from the music playback and streaming features in [[iTunes]].
 

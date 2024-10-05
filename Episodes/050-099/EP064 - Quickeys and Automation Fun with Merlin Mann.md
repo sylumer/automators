@@ -53,7 +53,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 - [Wemo Bridge for Apple HomeKit - Smart Home Automation | Belkin](https://www.belkin.com/us/p/P-F7C074/)
 - [Philips Hue Adds Support for HomeKit Adaptive Lighting to Ambiance Lights - MacRumors](https://www.macrumors.com/2020/11/12/philips-hue-homekit-adaptive-lighting-ambiance/)
 - [Alexa Skills Guide - Amazon.com](https://www.amazon.com/Alexa-Skills-Getting-Started-Guide/b?node=15144553011)
-- [Why Thread is a game-changer for Apple's HomeKit | AppleInsider](https://appleinsider.com/articles/20/11/13/why-thread-is-a-game-changer-for-apples-homekit)
+- [Why Thread is a game-changer for [[Apple|Apple's]] HomeKit | AppleInsider](https://appleinsider.com/articles/20/11/13/why-thread-is-a-game-changer-for-apples-homekit)
 - [Thread | Apple Developer Documentation](https://developer.apple.com/documentation/foundation/thread)
 - [Eve Energy | evehome.com](https://www.evehome.com/en/eve-energy)
 - [Eve Degree | evehome.com](https://www.evehome.com/en/eve-degree)
@@ -70,7 +70,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 - [Hook - Find without searching](https://hookproductivity.com/)
 - [Resolved: Stop Blaming the Pancake | 43 Folders](http://www.43folders.com/2011/01/07/first-pancake) - Merlin's post on New Year's Resolutions.
 - [Obsidian](https://obsidian.md/)
-- [On Apple's Piss-Poor Documentation - Liss is More](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation) - As per the title, this does contain explicit language
+- [On [[Apple|Apple's]] Piss-Poor Documentation - Liss is More](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation) - As per the title, this does contain explicit language
 - [Synology Inc.](https://www.synology.com/en-uk)
 - [Universal Plug and Play - Wikipedia](https://en.wikipedia.org/wiki/Universal_Plug_and_Play)
 - [Watch Free Movies & TV | Stream Smarter with Plex](https://www.plex.tv/en-gb/?langr=1)
@@ -306,7 +306,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 11:22      | this point.                                                                                                   |
 | 11:23      | It's maddening though, because one of my most common, so I've done a little bit of nerdy,                     |
 | 11:30      | very hacky stuff, because it turns out though, because the [[Amazon]] lady in a tube, that family                 |
-| 11:35      | of products is faster and more able than the Apple family, at least for now.                                  |
+| 11:35      | of products is faster and more able than the [[Apple]] family, at least for now.                                  |
 | 11:41      | You know what I end up doing?                                                                                 |
 | 11:42      | I end up saying that thing into the [[Amazon]] product.                                                           |
 | 11:47      | And I will say something like, oh gosh, now you're going to make me think, add by flower                      |
@@ -375,9 +375,9 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 14:53      | I mean, that's a lot of different things to call Siri.                                                        |
 | 14:56      | Yeah.                                                                                                         |
 | 14:57      | I think that, I imagine that's somewhat confusing for people.                                                 |
-| 14:59      | It's very Apple though.                                                                                       |
+| 14:59      | It's very [[Apple]] though.                                                                                       |
 | 15:00      | They take one, you know, iCloud, Siri, there's a bunch of words that mean a lot of things                     |
-| 15:04      | coming out of Apple.                                                                                          |
+| 15:04      | coming out of [[Apple]].                                                                                          |
 | 15:05      | Oh, you mean like Apple TV where I can watch Apple TV plus on the [[Apple TV app]] of my Apple                    |
 | 15:09      | TV?                                                                                                           |
 | 15:10      | Yes.                                                                                                          |
@@ -418,7 +418,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 16:51      | and I don't want constant notifications.                                                                      |
 | 16:53      | You can snooze that, you can snooze it for an hour, you can snooze it for 24 hours.                           |
 | 16:57      | But that's part of the app.                                                                                   |
-| 16:59      | That is not part of, of the Apple product.                                                                    |
+| 16:59      | That is not part of, of the [[Apple]] product.                                                                    |
 | 17:03      | And so there are times where I'm just like, you know, this entire kind of notification,                       |
 | 17:07      | I wish to be, you could deliver quietly, you could turn off, I wish I got up and there's                      |
 | 17:12      | probably a shortcut where I could do this, but I would love a pop-up that says, don't                         |
@@ -461,7 +461,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 19:08      | And it's really intuitive.                                                                                    |
 | 19:09      | I love stuff like that.                                                                                       |
 | 19:11      | I do, there's so many things where I wish, I'm grateful that it exists, but as with                           |
-| 19:15      | so many things in life, in technology, with Apple, the more you use it, the more you realise                  |
+| 19:15      | so many things in life, in technology, with [[Apple]], the more you use it, the more you realise                  |
 | 19:20      | what the limitations are and you're so like hungry for a certain kind of thing.                               |
 | 19:25      | That pop-up that says that my watch is charged, how long has the Apple Watch been out?                        |
 | 19:29      | How long has it been something that is until very recently, very much tied to an iPhone?                      |
@@ -486,7 +486,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 20:22      | Like the way that Google Calendar tries to guess what kind of graphic to give you based                       |
 | 20:26      | on like lunch or picnic or whatever.                                                                          |
 | 20:28      | Yeah.                                                                                                         |
-| 20:29      | But at the same time, Apple gets on stage once a year and says that, you know, we have                        |
+| 20:29      | But at the same time, [[Apple]] gets on stage once a year and says that, you know, we have                        |
 | 20:33      | a neural engine that can run one trillion operations per second or some crazy number.                         |
 | 20:39      | And all we really want is when we go in a meeting for the thing to be smart enough to                         |
 | 20:43      | go into do not disturb without us having to write an automation for it.                                       |
@@ -645,7 +645,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 29:57      | motion and the bathroom light isn't on, then turn on the bathroom light dimly.                                |
 | 30:03      | But you can't do that in the home app.                                                                        |
 | 30:04      | And that feels like a maddening oversight.                                                                    |
-| 30:07      | But at the same time, I also understand that Apple want to keep this stuff relatively simple.                 |
+| 30:07      | But at the same time, I also understand that [[Apple]] want to keep this stuff relatively simple.                 |
 | 30:12      | So the way that I am taking the Keep It Silly Simple approach is I use the Hue app and the                    |
 | 30:20      | IKEA app to add the items to [[HomeKit]].                                                                         |
 | 30:23      | And that is where my usage of the Hue app, the IKEA app, the [[Aqara]] app almost ends.                          |
@@ -664,8 +664,8 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 31:03      | But yeah, I'd gone away from Home Plus for a while, but recently came back to it.                             |
 | 31:07      | And I guess I didn't realise how much is in there, there's so much good stuff in there.                       |
 | 31:11      | Yeah, there really is.                                                                                        |
-| 31:12      | But I do think the hardware problem with [[HomeKit]] is one that Apple...                                         |
-| 31:17      | I really just don't understand why they didn't solve it, why Apple doesn't make their own                     |
+| 31:12      | But I do think the hardware problem with [[HomeKit]] is one that [[Apple]]...                                         |
+| 31:17      | I really just don't understand why they didn't solve it, why [[Apple]] doesn't make their own                     |
 | 31:20      | hardware.                                                                                                     |
 | 31:21      | I mean, here's a company that likes to charge money for stuff that you bring home and plug                    |
 | 31:28      | into your wall.                                                                                               |
@@ -743,7 +743,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 35:08      | order to be in order to be able to say hey dingus lights off, something's breaking down                       |
 | 35:14      | at that point.                                                                                                |
 | 35:15      | So on the one hand, you know, the one of my no time for this today, but one of my concerns                    |
-| 35:19      | with Apple is if you set aside the iPhone, it's difficult to know what is it they super                       |
+| 35:19      | with [[Apple]] is if you set aside the iPhone, it's difficult to know what is it they super                       |
 | 35:24      | care about right now?                                                                                         |
 | 35:25      | Like what is what is their heart really in?                                                                   |
 | 35:28      | Is it Ted Lasso?                                                                                              |
@@ -758,7 +758,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 35:45      | home kit built in like make good devices for these things make software that's really reliable                |
 | 35:50      | or just let people like Belkin, you know, strap stuff onto your system and hope that                          |
 | 35:55      | it works.                                                                                                     |
-| 35:56      | But that most people are not going to blame Belkin for that they're going to blame Apple                      |
+| 35:56      | But that most people are not going to blame Belkin for that they're going to blame [[Apple]]                      |
 | 36:00      | for that.                                                                                                     |
 | 36:01      | Yeah.                                                                                                         |
 | 36:02      | If that stuff doesn't work together.                                                                          |
@@ -827,7 +827,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 39:00      | So I can work around that with, except for the switch bot.                                                    |
 | 39:03      | But that's really the problem, I think, is that like, you got to have three different                         |
 | 39:07      | bridges and all these other apps to make this work.                                                           |
-| 39:11      | I feel like, you know, Apple is a company that became, you know, made its bones by making                     |
+| 39:11      | I feel like, you know, [[Apple]] is a company that became, you know, made its bones by making                     |
 | 39:16      | the whole widget, you know, and they still to this day brag about that, but for whatever                      |
 | 39:20      | reason in home automation, they decided we'll give you kind of the brain, but you're going                    |
 | 39:26      | to go to other parties to buy all the pieces.                                                                 |
@@ -841,11 +841,11 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 39:59      | my devices, you talk to your Google hub, all those things, there's so many integrations.                      |
 | 40:04      | Now, not all of them are great, but they basically said, hey, this whole ecosystem is open, have              |
 | 40:09      | fun with it.                                                                                                  |
-| 40:10      | And Apple did not do that, and I think on the one hand, I understand why they did that                        |
+| 40:10      | And [[Apple]] did not do that, and I think on the one hand, I understand why they did that                        |
 | 40:14      | because they don't want security cameras on there that aren't secure, but I like that                         |
 | 40:19      | they open that up more, but even that is still a little bit wild because I have some cameras                  |
 | 40:24      | like that.                                                                                                    |
-| 40:25      | Again, that Logitech, that is 100% like Apple's okey-dokey, but the Arlo cameras are only                     |
+| 40:25      | Again, that Logitech, that is 100% like [[Apple|Apple's]] okey-dokey, but the Arlo cameras are only                     |
 | 40:31      | partially supported, so you get some kinds of features, but not others.                                       |
 | 40:34      | If you want to see face detection, you have to go drill down five levels in the home app,                     |
 | 40:38      | which is not a ton of fun.                                                                                    |
@@ -864,7 +864,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 42:02      | Visit textexpander.com/podcast to learn more about TextExpander.                                        |
 | 42:07      | Go there now, you won't regret it.                                                                            |
 | 42:09      | Our thanks to TextExpander and Smell for their support of the show and Relay FM.                             |
-| 42:14      | One thing that we should note, though, the Apple has made an improvement on is [[Thread]],                        |
+| 42:14      | One thing that we should note, though, the [[Apple]] has made an improvement on is [[Thread]],                        |
 | 42:19      | which is a new feature that came with the HomePod Minis.                                                      |
 | 42:23      | And I have a HomePod Minis sitting in my kitchen.                                                             |
 | 42:25      | And this is apparently a really great way to speed up the connectivity with certain devices.                  |
@@ -880,7 +880,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 42:59      | Yeah.                                                                                                         |
 | 43:00      | So [[Thread]] is new.                                                                                             |
 | 43:02      | Don't ask me exactly how it works.                                                                            |
-| 43:03      | I will try and find one of the Apple technical support documents that we can throw in the                     |
+| 43:03      | I will try and find one of the [[Apple]] technical support documents that we can throw in the                     |
 | 43:08      | show notes so that people can actually learn about how this works instead of how I think                      |
 | 43:12      | it works.                                                                                                     |
 | 43:13      | But from what I've read on [[HomeKit]] forums and so on, it just basically speeds up your                         |
@@ -956,10 +956,10 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 46:41      | I think, you know, just kind of to put a cap, er on it, home kit, it's got some great things                    |
 | 46:46      | like just being able to sit there and yell into the air, turn the Christmas tree lights                       |
 | 46:50      | on and see them turn on is, is awesome.                                                                       |
-| 46:53      | But they need help and honestly, I really think that Apple needs to make the hardware                         |
+| 46:53      | But they need help and honestly, I really think that [[Apple]] needs to make the hardware                         |
 | 46:58      | because the, this whole ecosystem where you've got to go into these third party apps and                      |
 | 47:03      | bounce back and forth, it's just not, it definitely is not historically what we would                         |
-| 47:07      | think of as something from Apple.                                                                             |
+| 47:07      | think of as something from [[Apple]].                                                                             |
 | 47:09      | And it, it comes with all of the harrowing war stories that we've been sharing.                               |
 | 47:13      | It does.                                                                                                      |
 | 47:14      | And this is why yesterday when I was playing with a new nighttime routine, I accidentally                     |
@@ -1539,7 +1539,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:17:40   | Let's wait for it to update.                                                                                  |
 | 01:17:41   | Well, they did update it nine months ago with support for the iPhone X screen resolution,                     |
 | 01:17:46   | so that was a good start.                                                                                     |
-| 01:17:48   | But like all like so many apps, like Apple's Notes app, like if I just want to pop it open                    |
+| 01:17:48   | But like all like so many apps, like [[Apple|Apple's]] Notes app, like if I just want to pop it open                    |
 | 01:17:52   | for a second while I'm like out on the street with my phone, I do have to- I scroll down                      |
 | 01:17:57   | a little bit and wait.                                                                                        |
 | 01:17:58   | And it's not until I see the top of the page because it reloaded, that's when it got updated                  |
@@ -1720,7 +1720,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:28:21   | That's a really good question.                                                                                |
 | 01:28:23   | Of the things that I have any control over, one of the things I've always loved on a Mac,                     |
 | 01:28:30   | and this happens other places, but I've been using a Mac pretty much every day since 1987,                    |
-| 01:28:35   | and there's one phenomenon of using Apple products in general that never gets old for                         |
+| 01:28:35   | and there's one phenomenon of using [[Apple]] products in general that never gets old for                         |
 | 01:28:40   | me.                                                                                                           |
 | 01:28:41   | It doesn't happen every day, but have you ever had- I'm sure you've had this situation                        |
 | 01:28:44   | where you say, huh, I wonder what would happen if I click on that, or I wonder what would                     |
@@ -1772,7 +1772,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:31:30   | with.                                                                                                         |
 | 01:31:31   | And it's crazy making to me how much inconsistency there is between different things, like, make              |
 | 01:31:37   | sure you buy this right thing in this configuration, there's not clarity to all of these things.              |
-| 01:31:43   | What we sacrifice for the simplicity of an Apple presentation is that sometimes has wrought                   |
+| 01:31:43   | What we sacrifice for the simplicity of an [[Apple]] presentation is that sometimes has wrought                   |
 | 01:31:49   | extreme confusion in like, how do I actually, how do I deal with this thing if it doesn't                     |
 | 01:31:55   | work?                                                                                                         |
 | 01:31:56   | Oh, I mean, I guess you take it in, you can't put RAM in there, you can't open it up, you                     |
@@ -1811,10 +1811,10 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:33:59   | I've been recording podcasts all day and I'm hungry and I'm losing my mind.                                   |
 | 01:34:02   | So I'm probably losing the thread a little bit.                                                               |
 | 01:34:04   | No, I mean, I think that you're, I'm with you though.                                                         |
-| 01:34:07   | I feel like, for instance, getting to the security thing, the reason why I buy Apple                          |
-| 01:34:12   | stuff, the reason why I was whining earlier that I want Apple to make a more expensive                        |
+| 01:34:07   | I feel like, for instance, getting to the security thing, the reason why I buy [[Apple]]                          |
+| 01:34:12   | stuff, the reason why I was whining earlier that I want [[Apple]] to make a more expensive                        |
 | 01:34:16   | light bulb is because I don't want to think about that stuff.                                                 |
-| 01:34:20   | And I do believe that Apple is a company that is privacy minded.                                              |
+| 01:34:20   | And I do believe that [[Apple]] is a company that is privacy minded.                                              |
 | 01:34:24   | I mean, they don't make their money by selling advertising.                                                   |
 | 01:34:29   | So they don't have the same motivations that tech companies do.                                               |
 | 01:34:34   | Yeah.                                                                                                         |

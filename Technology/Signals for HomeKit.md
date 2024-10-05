@@ -6,7 +6,7 @@ aliases:
   - Signals
 ---
 # Overview  
-Signals for HomeKit is an application designed to enhance and streamline an Apple smart home experience by providing custom notifications and alerts through [[HomeKit]]-enabled devices. It allows users to create visual signals via smart lights and other devices to notify them of various events or actions at home. 
+Signals for HomeKit is an application designed to enhance and streamline an [[Apple]] smart home experience by providing custom notifications and alerts through [[HomeKit]]-enabled devices. It allows users to create visual signals via smart lights and other devices to notify them of various events or actions at home. 
 
 # Operating Systems  
 - iOS  

@@ -20,7 +20,7 @@ title: "148: Vision Pro Automation"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-David's strapped on his Vision Pro and the Automators take a look to see what can (and can not) be automated on Apple's new platform.
+David's strapped on his Vision Pro and the Automators take a look to see what can (and can not) be automated on [[Apple|Apple's]] new platform.
 
 # Hosts
 - [[David Sparks]]
@@ -202,7 +202,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 09:03      | track pad.                                                                                            |
 | 09:04      | Right.                                                                                                |
 | 09:05      | And for productivity work, I'll say I think that's a necessary accessory.                             |
-| 09:11      | I bought off [[Amazon]], a little plastic tray that you can connect a Apple Bluetooth keyboard            |
+| 09:11      | I bought off [[Amazon]], a little plastic tray that you can connect a [[Apple]] Bluetooth keyboard            |
 | 09:17      | and a track pad is as one unit, 12 South has a nicer one, but I haven't bought it.                    |
 | 09:24      | It's a little bit more expensive.                                                                     |
 | 09:25      | I thought I'd just use the [[Amazon]] one, at least to start.                                             |
@@ -375,7 +375,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 20:20      | And you know, fingers crossed, Finn will find ways to enhance his application so that it              |
 | 20:25      | can continue being available to everybody.                                                            |
 | 20:28      | But you know, we're going to find out about these things because people are experimenting             |
-| 20:32      | with it and it's not going to be exactly the same as what the folks at Apple necessarily              |
+| 20:32      | with it and it's not going to be exactly the same as what the folks at [[Apple]] necessarily              |
 | 20:40      | imagined, which, you know, I think is quite exciting because, you know, it's only when                |
 | 20:44      | people actually get their hands on stuff that it really, you know, starts evolving and working        |
 | 20:50      | or not working, however, you know, people might want to expect.                                       |
@@ -409,7 +409,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 22:34      | I think that's kind of a form of automation, at least.                                                |
 | 22:37      | Yeah, I definitely say it is and things like this are, you know, it's such a different                |
 | 22:43      | kind of tool to what you would need, you know, you might need this or want this on your Apple         |
-| 22:49      | Watch, but you're not going to read this back on your Apple Watch, are you?                           |
+| 22:49      | Watch, but you're not going to read this back on your [[Apple]] Watch, are you?                           |
 | 22:52      | If you have something, you know, like record it and transcribe it, this is what sort of               |
 | 22:56      | just press record or similar is for, because it records it and then you can transcribe                |
 | 22:59      | it and look at it on your phone later, whereas on Vision Pro, you are really going to want            |
@@ -540,7 +540,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 30:43      | you know, the things I want, some of the stuff I want at least now is there.                          |
 | 30:47      | Like I'll be in visionOS and decide I want to trigger a shortcut to create a blog post                |
 | 30:53      | on this thing I'm reading and it will give me a link to the source material.                          |
-| 30:58      | It'll create the Apple node.                                                                          |
+| 30:58      | It'll create the [[Apple]] node.                                                                          |
 | 31:00      | It'll create the task list and the calendar items and all the various bits and pieces                 |
 | 31:05      | I do with a project creation shortcut and those work fine.                                            |
 | 31:10      | Triggering focus modes works.                                                                         |
@@ -556,7 +556,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 31:50      | We couldn't automatically run shortcuts when you connected to a specific Wi-Fi or Bluetooth,          |
 | 31:57      | you know, connection or, you know, and we couldn't automatically run shortcuts, you                   |
 | 32:02      | know, when messages arrived or emails arrived and so on.                                              |
-| 32:05      | We had to manually tap to run and it's only after a lot of feedback that Apple eventually             |
+| 32:05      | We had to manually tap to run and it's only after a lot of feedback that [[Apple]] eventually             |
 | 32:09      | conceded that, okay, if people really want to be able to do this, like really, really                 |
 | 32:14      | want to be able to do this, then sure, go ahead, let them do it.                                      |
 | 32:18      | And I feel like this is something that we are going to see evolve over time with Vision               |
@@ -641,7 +641,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 37:55      | was done and the software was, was some of the delay on the release of the product.                   |
 | 38:01      | But a lot of the software isn't there.                                                                |
 | 38:03      | Like it's shocking to me that the [[Apple Reminders\|Reminders]] app doesn't have a native vision OS application.          |
-| 38:09      | I mean, [[Apple Reminders\|Reminders]], I mean, that's Apple's big push at a task manager app, you know, and               |
+| 38:09      | I mean, [[Apple Reminders\|Reminders]], I mean, that's [[Apple|Apple's]] big push at a task manager app, you know, and               |
 | 38:17      | it's not a native app or calendar that, you know, the native calendar app is [[Fantastical]].             |
 | 38:24      | It's not the [[Apple Calendar]] app because they didn't get a native app out.                             |
 | 38:27      | And like I said, it's a subpar experience.                                                            |
@@ -701,7 +701,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 42:07      | become, you know, more available with regards to the software that is on it.                          |
 | 42:12      | Yeah.                                                                                                 |
 | 42:13      | And that's something of human mind as a relative platform size.                                       |
-| 42:15      | I think, I think the estimates are, you know, if Apple's really fortunate and able to get             |
+| 42:15      | I think, I think the estimates are, you know, if [[Apple|Apple's]] really fortunate and able to get             |
 | 42:22      | all the parts that they're going to sell a million of these, whereas there are billions               |
 | 42:26      | of iPhones.                                                                                           |
 | 42:27      | So, so I understand the relative importance of the platforms, but I also want it all.                 |
@@ -724,8 +724,8 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 43:28      | He created a great YouTube app for this, but the headlines are still that there isn't a               |
 | 43:33      | YouTube app, not that there's a great alternative YouTube app.                                        |
 | 43:36      | So you know, we're going to have to wait and see what happens there.                                  |
-| 43:40      | But I'm hoping that because this is Apple and the Apple name is behind it, the Apple                  |
-| 43:44      | branding is on it and it's Apple hardware, that we're going to see this be incredibly                 |
+| 43:40      | But I'm hoping that because this is [[Apple]] and the [[Apple]] name is behind it, the [[Apple]]                  |
+| 43:44      | branding is on it and it's [[Apple]] hardware, that we're going to see this be incredibly                 |
 | 43:49      | popular.                                                                                              |
 | 43:50      | And this, this won't be like another airpower charging pad where, you know, it gets talked            |
 | 43:55      | about and, you know, this time it's got all the way out, but hopefully it will continue               |
@@ -738,11 +738,11 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 44:25      | And actually, since it's released, I've heard from multiple developers, you and I know                |
 | 44:30      | a lot of developers, you are a developer who are like now getting on board and saying,                |
 | 44:35      | I wanted to get the hardware in my hands before I started doing something, but now I've got           |
-| 44:39      | some ideas and, and Apple has created an architecture.                                                |
+| 44:39      | some ideas and, and [[Apple]] has created an architecture.                                                |
 | 44:42      | We're making an app for the iPad or the iPhone is very similar to making an app for Vision            |
 | 44:48      | OS.                                                                                                   |
 | 44:49      | So it's not the kind of boil the ocean product that you have to do to show up on the platform.        |
-| 44:55      | If you already know how to make an app for the other Apple platforms, it's not going                  |
+| 44:55      | If you already know how to make an app for the other [[Apple]] platforms, it's not going                  |
 | 44:59      | to be that hard to make one here.                                                                     |
 | 45:02      | It's like the IECO app is a good example, it's a simple AI, you know, voice to text                   |
 | 45:07      | app, but he made it for iPhone, iPad and Mac.                                                         |

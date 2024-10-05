@@ -13,7 +13,7 @@ relayurl: https://www.relay.fm/people/tjluoma
 ![[Timothy Luoma.jpg|200x200]]
 
 # About
-TJ Luoma is a Presbyterian pastor and lover of Apple technology. TJ has been a regular on Apple podcasts and a writer for TUAW, Engadget and TidBITS.
+TJ Luoma is a Presbyterian pastor and lover of [[Apple]] technology. TJ has been a regular on [[Apple]] podcasts and a writer for TUAW, Engadget and TidBITS.
 
 # Guest Episodes
 ```dataviewjs

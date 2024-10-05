@@ -146,7 +146,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 04:48      | And the other thing is, you know, there are so many different services it directly integrates                                                  |
 | 04:52      | with as well, which makes it super easy.                                                                                                       |
 | 04:55      | Yeah.                                                                                                                                          |
-| 04:56      | And they're on all the devices, you know, Apple, all the devices in the Apple ecosystem.                                                       |
+| 04:56      | And they're on all the devices, you know, [[Apple]], all the devices in the [[Apple]] ecosystem.                                                       |
 | 05:00      | So if it's stable, I think that would be a great option.                                                                                       |
 | 05:03      | So explain to me how you do templates in [[Airmail]].                                                                                          |
 | 05:06      | Well, in [[Airmail]], what you do is you open up a new email and you start typing.                                                             |
@@ -289,7 +289,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 13:08      | that [[TextExpander]] snippet goes with me.                                                                                                    |
 | 13:11      | So that's all that is upside for [[TextExpander]] downside is it's not as easy on iPhone and                                                   |
 | 13:17      | iPad as I'd like it to be.                                                                                                                     |
-| 13:19      | And, you know, Apple just doesn't make it possible for somebody like [[Smile Software\|Smile]] to insert                                       |
+| 13:19      | And, you know, [[Apple]] just doesn't make it possible for somebody like [[Smile Software\|Smile]] to insert                                       |
 | 13:26      | text insertion in any old app they want to, it's part of the security model.                                                                   |
 | 13:31      | But using the [[TextExpander]] app on iPhone and iPad, which a lot of people don't realise,                                                    |
 | 13:37      | you can run those a lot of more complicated snippets there and then you just block and                                                         |
@@ -606,16 +606,16 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 32:22      | I go through and process my inbox after I've started my workday, just to make sure that                                                        |
 | 32:27      | I'm on top of things.                                                                                                                          |
 | 32:29      | But that works super well for me.                                                                                                              |
-| 32:31      | I feel like there's nothing more indicative of the differences between Apple and Google                                                        |
+| 32:31      | I feel like there's nothing more indicative of the differences between [[Apple]] and Google                                                        |
 | 32:36      | than the pluses and minuses in the way they handle mail.                                                                                       |
-| 32:39      | Like Google has amazing online rule support and I mean, it's not even that Apple doesn't                                                       |
+| 32:39      | Like Google has amazing online rule support and I mean, it's not even that [[Apple]] doesn't                                                       |
 | 32:47      | hold a candle to it.                                                                                                                           |
-| 32:48      | Apple's not even in the game for online.                                                                                                       |
+| 32:48      | [[Apple|Apple's]] not even in the game for online.                                                                                                       |
 | 32:51      | They have like three rules you can apply online.                                                                                               |
 | 32:53      | It's crazy how little you can do, whereas Google has an amazing rule set.                                                                      |
 | 32:58      | So Rose can add those rules to her [[Gmail]] account and they apply everywhere and it happens on                                               |
 | 33:03      | the server before she sees the email.                                                                                                          |
-| 33:06      | Whereas Apple, the [[Apple Mail]] has almost no cloud support, but it has a very secure mail                                                   |
+| 33:06      | Whereas [[Apple]], the [[Apple Mail]] has almost no cloud support, but it has a very secure mail                                                   |
 | 33:13      | application and it has an insane amount of automation on device.                                                                               |
 | 33:19      | Like that those [[Apple Mail]] rules, if you've never looked at them, I recommend you go into                                                  |
 | 33:24      | [[Apple Mail]] on a Mac, even if you don't use [[Apple Mail]], just go in and look at all of                                                   |
@@ -640,7 +640,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 34:27      | are blue.                                                                                                                                      |
 | 34:28      | That means that they're from somebody who's very important, and I should make sure I reply                                                     |
 | 34:31      | to that fast.                                                                                                                                  |
-| 34:35      | And that, you know, there's an example, news from Apple rule, which is shipped for free                                                        |
+| 34:35      | And that, you know, there's an example, news from [[Apple]] rule, which is shipped for free                                                        |
 | 34:39      | on every Mac.                                                                                                                                  |
 | 34:41      | But as you go through and add the rules, it is very Hazel-like in all the different things.                                                    |
 | 34:47      | I mean, I think [[Hazel]] was probably based on the Mac Mail rules originally at some point                                                    |

@@ -20,7 +20,7 @@ Keynote is a powerful presentation application designed to help you create visua
 - **Slide Design Tools** - usual sort of. complement of text, image, shape, animations, charts, master templates, transitions, etc.
 - **Collaborative Editing** - real-time collaboration with colleagues via [[iCloud]].
 - **Export Options** - export presentations to various formats including [[Microsoft PowerPoint\|PowerPoint]], PDF, and HTML.
-- **Integration** - seamless integration with other Apple apps.
+- **Integration** - seamless integration with other [[Apple]] apps.
 - **Apple Pencil Support** - compatibility with Apple Pencil for drawing and annotating directly on slides on iPad.
 - **Accessibility** - support for [[VoiceOver]], closed captions, and other accessibility features.
 

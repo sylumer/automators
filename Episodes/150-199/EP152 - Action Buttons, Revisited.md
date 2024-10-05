@@ -507,7 +507,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 19:21      | but also run that shortcut through [[Siri]] whenever I need.        |
 | 19:24      | Well, who knows what the rumours are going to be                 |
 | 19:27      | whether this actually happens or not,                           |
-| 19:28      | but let's say that Apple does put a dedicated capture button    |
+| 19:28      | but let's say that [[Apple]] does put a dedicated capture button    |
 | 19:32      | on the iPhone in addition to the action button.                 |
 | 19:35      | So that would presumably be hardwired to your camera, right?    |
 | 19:38      | Just hold it up, push it and take a picture.                    |
@@ -526,7 +526,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 20:13      | Because you've got the action button,                           |
 | 20:14      | the action button is camera and the capture button is a note    |
 | 20:17      | or something like that.                                         |
-| 20:18      | But you know, Apple, if you're going to give us another button, |
+| 20:18      | But you know, [[Apple]], if you're going to give us another button, |
 | 20:21      | just make it programmable again.                                |
 | 20:23      | Like by all means have a default, but make it programmable.     |
 | 20:26      | And yeah, I'll be happy button.                                 |
@@ -866,7 +866,7 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 34:54      | Where would we be without [[Drafts]], Rose?                         |
 | 34:57      | Greg always, Greg gives us,                                     |
 | 35:00      | he is the lubricant of automation,                              |
-| 35:02      | of text automation and all these Apple stuff.                   |
+| 35:02      | of text automation and all these [[Apple]] stuff.                   |
 | 35:05      | Yeah, yeah.                                                     |
 | 35:07      | All right, got a short one this week.                           |
 | 35:09      | I hope you enjoyed it.                                          |

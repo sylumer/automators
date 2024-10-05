@@ -179,10 +179,10 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 07:18      | So I guess we should just get started.                                                               |
 | 07:20      | Well, yes, but just to get started, we need to go back to the beginning, don't we?                   |
 | 07:24      | Because we didn't start out with [[Airtable]].                                                           |
-| 07:26      | We started out with notes.                                                                           |
+| 07:26      | We started out with [[Apple Notes\|Notes]].                                                                           |
 | 07:28      | Yeah.                                                                                                |
 | 07:29      | Yeah.                                                                                                |
-| 07:30      | And it's not terrible, which sounds like a criticism, but really Apple Notes is pretty               |
+| 07:30      | And it's not terrible, which sounds like a criticism, but really [[Apple Notes]] is pretty               |
 | 07:35      | good.                                                                                                |
 | 07:36      | And the collaboration was decent as well.                                                            |
 | 07:37      | We could see who had added what, but it quickly grew out of control, and it was difficult            |
@@ -242,7 +242,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 10:34      | because quite often people pitch themselves or somebody pitches somebody else, and we                |
 | 10:38      | keep information on those folks, so we may want to use them at some point in the future.             |
 | 10:44      | We've got our own list of people that we'd like to put on someday.                                   |
-| 10:46      | So in the old days, we would have a separate Apple Network where we just kept that list              |
+| 10:46      | So in the old days, we would have a separate [[Apple]] Network where we just kept that list              |
 | 10:51      | and we would move the names between different categories.                                            |
 | 10:55      | And now we've got a part of our air table database for the show is a sheet, I guess,                 |
 | 11:03      | for lack of a better term that has a list of all these guests with all our notes.                    |
@@ -264,22 +264,22 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 12:11      | in one place and sort it and filter it by all the different columns, you can do almost               |
 | 12:17      | anything with the data.                                                                              |
 | 12:19      | Anyway, back to our show planning sheet, we also have, we have notes, which is just,                 |
-| 12:24      | so when you come up with an idea, so for example, automating automations with air table, what        |
+| 12:24      | so when you come up with an idea, so for example, automating automations with [[Airtable]], what        |
 | 12:30      | are we actually going to cover in this?                                                              |
 | 12:32      | So you scribble down some notes and then we have the show outline table, which is when               |
 | 12:36      | we move it from our idea status to the planning status.                                              |
-| 12:41      | And that's when we create a quip document.                                                           |
-| 12:43      | So we don't have the entire show outline in air table.                                               |
+| 12:41      | And that's when we create a [[Quip]] document.                                                           |
+| 12:43      | So we don't have the entire show outline in [[Airtable]].                                               |
 | 12:46      | We could, there's nothing stopping us, but we are using quip just because it's easy to               |
-| 12:50      | share one quip document with a guest when, when you're recording.                                    |
+| 12:50      | share one [[Quip]] document with a guest when, when you're recording.                                    |
 | 12:55      | And we do like to have our outlines and share them with people.                                      |
-| 12:59      | And honestly, quip is a better tool to outline a podcast than air table.                             |
+| 12:59      | And honestly, [[Quip]] is a better tool to outline a podcast than air table.                             |
 | 13:03      | So but it, because that's also a web tool, it's very easy to create a link to that page              |
 | 13:10      | and embed it in the air table.                                                                       |
-| 13:12      | So as you're working through the air table, if you want to get to the outline, you just              |
+| 13:12      | So as you're working through the [[Airtable]], if you want to get to the outline, you just              |
 | 13:16      | push the link and then it gets you straight to the appropriate quip document.                        |
 | 13:20      | It's, it's very clever the way the whole thing ties together.                                        |
-| 13:23      | Well, it seemed more clever where we get to the Zapier Automation that actually does that            |
+| 13:23      | Well, it seemed more clever where we get to the [[Zapier]] automation that actually does that            |
 | 13:28      | automatically for us.                                                                                |
 | 13:29      | Yeah.                                                                                                |
 | 13:30      | We're going to explain that in a little bit, but, but then, you know, Rose had talked earlier        |
@@ -610,7 +610,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 32:14      | this is a tool you should at least spend a little time playing with to see if this scratches         |
 | 32:19      | the itch for you because it is just so good at that collaboration.                                   |
 | 32:24      | It really, really is.                                                                                |
-| 32:26      | And I have to say, this is obviously considerably better than our previous solution with Apple       |
+| 32:26      | And I have to say, this is obviously considerably better than our previous solution with [[[Apple Notes]],      |
 | 32:31      | Notes, but I can't think of a tool better suited to managing a podcast than air table.               |
 | 32:38      | I mean, there probably are tools, but for managing a collaborative podcast the way                   |
 | 32:42      | we do, especially I use shortcuts to add ideas all the time.                                         |
@@ -646,7 +646,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 34:52      | and myself, where we put all the recording and the releases and we've titled the releases            |
 | 34:58      | so we know whose release belongs to who, et cetera, et cetera, which I have to say works             |
 | 35:04      | very well, especially we have time zones involved and anybody who's worked with time zones knows     |
-| 35:11      | that they're not easy and it's much easier to just let Apple handle that for us, I have              |
+| 35:11      | that they're not easy and it's much easier to just let [[Apple]] handle that for us, I have              |
 | 35:16      | to say.                                                                                              |
 | 35:17      | Hey, how do you handle time zones in general, because I feel like you probably have to deal          |
 | 35:20      | with them more than most people.                                                                     |

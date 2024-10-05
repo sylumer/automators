@@ -138,7 +138,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 03:11      | And that's something I have been struggling with a little bit with some of the things because     |
 | 03:16      | you know, there's a lot of great home automation stuff out there that's not home kit compatible.  |
 | 03:22      | And there's good reasons for this.                                                                |
-| 03:23      | You know, there are extra hoops to jump through for Apple and so on.                              |
+| 03:23      | You know, there are extra hoops to jump through for [[Apple]] and so on.                              |
 | 03:27      | But this does appear in [[Home Assistant]].                                                           |
 | 03:30      | So I've only got one of these so far because I am playing with it still and trying to make        |
 | 03:34      | sure that it works as I wanted to, but it appears that I can connect it to [[Home Assistant]]         |
@@ -246,7 +246,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 10:15      | An indoor air quality monitor is only $45.                                                        |
 | 10:18      | I've never seen one that cheap.                                                                   |
 | 10:21      | No, their stuff is incredibly cheap.                                                              |
-| 10:24      | The only thing I would say is don't buy the sensors from [[Amazon]] or Apple because they             |
+| 10:24      | The only thing I would say is don't buy the sensors from [[Amazon]] or [[Apple]] because they             |
 | 10:30      | are so expensive.                                                                                 |
 | 10:31      | They are about half of the price on Aliexpress and the sensors are exactly the same wherever      |
 | 10:36      | you buy them from.                                                                                |
@@ -824,7 +824,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 42:21      | a fountain.                                                                                       |
 | 42:22      | It turns on the fountain and so or the waterfall really, but the switches and all this stuff      |
 | 42:29      | is stuff I could have done with home kit, I can even attach it now to a [[Stream Deck]]               |
-| 42:34      | with a third party apple probably get into later.                                                 |
+| 42:34      | with a third party [[Apple]] probably get into later.                                                 |
 | 42:37      | But you know, but there's something nice about a physical switch that you can just touch          |
 | 42:41      | and it does it.                                                                                   |
 | 42:43      | I put another one in my bedside table and I stuck it to the inside of the drawer.                 |
@@ -1024,7 +1024,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 53:42      | So earlier today, when my boss called me at work, I just reached out and pressed Paul's,          |
 | 53:47      | put on my AirPods Max and spoke to him.                                                           |
 | 53:50      | And that was it.                                                                                  |
-| 53:51      | And there were no dramatics, there was no, the Apple Assistant has misunderstood me.              |
+| 53:51      | And there were no dramatics, there was no, the [[Apple]] Assistant has misunderstood me.              |
 | 53:57      | No, I don't want to know what the price of jam in Italy is today.                                 |
 | 54:02      | I would like to pause my music or whatever weird thing it interprets what you're saying           |
 | 54:06      | is.                                                                                               |
@@ -1047,7 +1047,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 54:58      | many sales on these HomePods.                                                                    |
 | 55:00      | So at this point, I've got, I don't even know how many, I have four of them now.                  |
 | 55:06      | And my daughter has a mini in her room.                                                           |
-| 55:09      | So we've got like a kind of a HomePod network and the nice thing because I use Apple hardware,   |
+| 55:09      | So we've got like a kind of a HomePod network and the nice thing because I use [[Apple]] hardware,   |
 | 55:14      | everything just kind of works together and I don't need one in the shower.                        |
 | 55:19      | The way our shower, the room that has like the shower in the sink is, doesn't have a              |
 | 55:23      | door and it's connected to our bedroom.                                                           |
@@ -1137,7 +1137,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:00:16   | And it comes with a base station, which looks kind of like an airport extreme or time capsule     |
 | 01:00:21   | did.                                                                                              |
 | 01:00:22   | That's what I know.                                                                               |
-| 01:00:23   | From Apple.                                                                                       |
+| 01:00:23   | From [[Apple]].                                                                                       |
 | 01:00:24   | And that's limited 16 gigabytes of storage.                                                       |
 | 01:00:25   | Ironically, if you've got the 1080p camera, it would have come with a different door chime        |
 | 01:00:33   | plug-in with antenna on it.                                                                       |
@@ -1251,7 +1251,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:05:59   | I will actually be able to rotate it to point into the room as well.                              |
 | 01:06:02   | So I can just check everything's okay, which is really nice.                                      |
 | 01:06:08   | And those cameras do connect to home kit.                                                         |
-| 01:06:11   | And once Apple gets this home kit, you know, multiple camera, like right now you get five,        |
+| 01:06:11   | And once [[Apple]] gets this home kit, you know, multiple camera, like right now you get five,        |
 | 01:06:16   | but you know, for a couple hundred bucks, you could put five of these things all over             |
 | 01:06:20   | your house when you're gone, you could have a ton of coverage outside or inside.                  |
 | 01:06:25   | And they're also so cheap.                                                                        |
@@ -1262,7 +1262,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:06:39   | of the episode, because I know some people would like to have their cameras on, for example,      |
 | 01:06:45   | when they're asleep, but they don't want them on during the day when they're at home.             |
 | 01:06:50   | And so the way to do that with a camera is to kill the power to it.                               |
-| 01:06:55   | Because Apple doesn't have an option for off when I'm awake, but on when I'm asleep.              |
+| 01:06:55   | Because [[Apple]] doesn't have an option for off when I'm awake, but on when I'm asleep.              |
 | 01:07:00   | It's either it's on when you're at home or it's off when you're at home, full stop.               |
 | 01:07:04   | And so I am also considering toying with the Sonoff USB smart adapters to turn the cameras        |
 | 01:07:10   | off, you know, when I'm at home in rooms doing stuff.                                             |
@@ -1643,7 +1643,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:26:39   | And that combined together is now a thermostat.                                                   |
 | 01:26:42   | And I've set this up in [[Home Assistant]].                                                           |
 | 01:26:44   | It's called a generic thermostat.                                                                 |
-| 01:26:45   | I'll link to a specific piece of documentation, but it means I can say, hey, Apple lady, set      |
+| 01:26:45   | I'll link to a specific piece of documentation, but it means I can say, hey, [[Apple]] lady, set      |
 | 01:26:51   | the temperature in the bedroom to 21 degrees.                                                     |
 | 01:26:54   | That's Celsius, by the way, for people getting very concerned that I'm trying to freeze           |
 | 01:26:58   | myself to death.                                                                                  |
@@ -1984,7 +1984,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:45:35   | I've been there.                                                                                  |
 | 01:45:36   | I made that mistake once never again.                                                             |
 | 01:45:39   | Yeah.                                                                                             |
-| 01:45:40   | And like Apple has promised like facial recognition with cameras and that's been there for like   |
+| 01:45:40   | And like [[Apple]] has promised like facial recognition with cameras and that's been there for like   |
 | 01:45:46   | a year or two now.                                                                                |
 | 01:45:47   | I honestly cannot get that to work.                                                               |
 | 01:45:50   | I pointed a UV camera at the front door as you walk through the front door, it sees your          |

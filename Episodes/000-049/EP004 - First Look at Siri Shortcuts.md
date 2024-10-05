@@ -71,9 +71,9 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 00:13      | Yes. Very exciting. I like even numbers.                                                                                   |
 | 00:16      | There you go. We had a lot of people writing into us and asking in forums about [[Shortcuts\|Siri Shortcuts]],                            |
 | 00:23      | and we thought it made sense to give that a show because it's just such a big deal.                                        |
-| 00:28      | It's kind of funny because you and I were developing this show before Apple announced [[Shortcuts\|Siri Shortcuts]],                      |
-| 00:33      | so it seems like Apple got on board with automation right after we decided to.                                             |
-| 00:37      | Yeah, definitely. I'm convinced that maybe somebody at Apple...                                                            |
+| 00:28      | It's kind of funny because you and I were developing this show before [[Apple]] announced [[Shortcuts\|Siri Shortcuts]],                      |
+| 00:33      | so it seems like [[Apple]] got on board with automation right after we decided to.                                             |
+| 00:37      | Yeah, definitely. I'm convinced that maybe somebody at [[Apple]]...                                                            |
 | 00:41      | I'm not going to say that they were spying on my phone, but maybe they just got the vibe that I was super into automation, |
 | 00:48      | talking to you a lot, and then they just went, yeah, yeah, this is a good year for it.                                     |
 | 00:52      | On the other hand, they probably decide pretty early what's going to make it in.                                           |
@@ -83,7 +83,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 01:05      | It was announced at [[WWDC]], and it is basically... There's a couple elements to [[Shortcuts\|Siri Shortcuts]].                              |
 | 01:13      | I think that's one of the problems.                                                                                        |
 | 01:14      | Yeah.                                                                                                                      |
-| 01:15      | Apple does a really good job of giving a generic name to something that then encompasses multiple products.                |
+| 01:15      | [[Apple]] does a really good job of giving a generic name to something that then encompasses multiple products.                |
 | 01:20      | Yeah.                                                                                                                      |
 | 01:21      | I kind of got that here.                                                                                                   |
 | 01:23      | Yes, definitely. Yeah, because essentially, [[Shortcuts\|Siri Shortcuts]] is actually split into two things.                              |
@@ -171,7 +171,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 05:54      | And so I don't want to, I don't know,                                                                                      |
 | 05:56      | I think [[Greg Pierce\|Greg]] deserves a lot of credit for coming up with the idea.                                                         |
 | 06:00      | And then the developer community immediately adopted it                                                                    |
-| 06:03      | because Apple has never done a very good job                                                                               |
+| 06:03      | because [[Apple]] has never done a very good job                                                                               |
 | 06:05      | of allowing you to communicate between apps on your iPhone and iPad.                                                       |
 | 06:09      | But the problem with that is I feel like we squeezed                                                                       |
 | 06:13      | every ounce of life out of [[URL schemes]] that we ever could have.                                                            |
@@ -180,7 +180,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 06:25      | And it was just because the workflow team worked so hard                                                                   |
 | 06:28      | at like digging down into the weeds and finding every way we could do it.                                                  |
 | 06:32      | But the problem with that is it was never baked into the operating system.                                                 |
-| 06:36      | And when Apple purchased workflow,                                                                                         |
+| 06:36      | And when [[Apple]] purchased workflow,                                                                                         |
 | 06:38      | the most optimistic view we all had was wouldn't it be great                                                               |
 | 06:42      | if they incorporated this into the operating system                                                                        |
 | 06:44      | so developers could write code into their apps                                                                             |
@@ -334,7 +334,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 13:53      | So for example, juice me up.                                                                                               |
 | 13:55      | You don't have to remember exactly what kind of coffee it is that I want again.                                            |
 | 13:59      | You just give it your phrase and you're good to go.                                                                        |
-| 14:01      | Yeah, I mean, that's Apple's solution.                                                                                     |
+| 14:01      | Yeah, I mean, that's [[Apple|Apple's]] solution.                                                                                     |
 | 14:03      | I've never been a fan of the [[Amazon Echo]].                                                                                  |
 | 14:07      | It has all these skills that you can pick up with third party devices,                                                     |
 | 14:11      | but you have to remember the magical incantation that they've defined.                                                     |
@@ -372,7 +372,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 15:45      | I don't know anything I should point out,                                                                                  |
 | 15:47      | but it's possible that these actions will come back.                                                                       |
 | 15:50      | If you remember, some people will,                                                                                         |
-| 15:53      | when Apple first bought workflow, several actions disappeared.                                                             |
+| 15:53      | when [[Apple]] first bought workflow, several actions disappeared.                                                             |
 | 15:57      | And I have heard through the grapevine                                                                                     |
 | 16:00      | that it was basically everybody got a release                                                                              |
 | 16:03      | from the workflow team if your app was in it                                                                               |
@@ -717,7 +717,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 30:04      | I mean, this is the first iteration of this.                                                                               |
 | 30:06      | Oh, yes.                                                                                                                   |
 | 30:07      | And I do believe, I mean, I talked to Ari and some of the team at [[WWDC]].                                                    |
-| 30:11      | I think Apple is paying very close attention to how many people are going to be using this.                                |
+| 30:11      | I think [[Apple]] is paying very close attention to how many people are going to be using this.                                |
 | 30:15      | And if they see that people are using automation and they're using [[Shortcuts\|Siri Shortcuts]],                                         |
 | 30:20      | my guess is that team's going to get more resources                                                                        |
 | 30:22      | and it's going to get even better in the future.                                                                           |
@@ -907,16 +907,16 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 39:58      | I mean, are we getting what we want with the [[Shortcuts\|Siri Shortcuts]]?                                                             |
 | 40:01      | Definitely.                                                                                                                |
 | 40:02      | I think we may not be able to get everything right away, but the fact that this, you know,                                 |
-| 40:06      | Apple didn't buy workflow and kill it.                                                                                     |
+| 40:06      | [[Apple]] didn't buy workflow and kill it.                                                                                     |
 | 40:08      | They bought workflow and they made part of it into the operating system.                                                   |
 | 40:14      | Yeah.                                                                                                                      |
 | 40:15      | I'm ecstatic, basically.                                                                                                   |
-| 40:17      | So we get what we want and hopefully we can help Apple bring it to everybody else.                                         |
+| 40:17      | So we get what we want and hopefully we can help [[Apple]] bring it to everybody else.                                         |
 | 40:22      | So I'm pretty certain my grandmother is going to start talking to [[Siri]] a bit more now.                                     |
 | 40:27      | Excellent.                                                                                                                 |
 | 40:28      | And the other thing for me is I feel like we got more than we could have ever asked for,                                   |
 | 40:32      | you know, with them doing this.                                                                                            |
-| 40:34      | I mean, it was the best acquisition in the history of Apple, maybe short of next in my                                     |
+| 40:34      | I mean, it was the best acquisition in the history of [[Apple]], maybe short of next in my                                     |
 | 40:37      | opinion.                                                                                                                   |
 | 40:38      | But now that we've got more than we asked for, it's not nearly enough.                                                     |
 | 40:44      | Hell yeah.                                                                                                                 |

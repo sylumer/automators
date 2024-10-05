@@ -103,7 +103,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 02:08      | The 32-inch ultra-wide has gone absolutely nowhere.               |
 | 02:12      | Now, the fun thing is, as we record this episode,                 |
 | 02:16      | as the episode releases, I'm actually on holiday in New York,     |
-| 02:18      | that is also the day that Apple is currently estimating           |
+| 02:18      | that is also the day that [[Apple]] is currently estimating           |
 | 02:21      | that they will be delivering                                      |
 | 02:22      | my Apple Studio display to me.                                    |
 | 02:25      | So we're going to see what happens there.                         |
@@ -1627,7 +1627,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:07:48   | if I've had to pay tax on something,                              |
 | 01:07:50   | that is a field that I have added.                                |
 | 01:07:53   | And when I import my IKEA receipts,                               |
-| 01:07:56   | sorry, not my IKEA receipts, my Apple receipts,                   |
+| 01:07:56   | sorry, not my IKEA receipts, my [[Apple]] receipts,                   |
 | 01:07:59   | it scans the text for the regular expression,                     |
 | 01:08:01   | VAT charged at 20% and that looks for any number                  |
 | 01:08:05   | of literally any characters unfortunately                         |

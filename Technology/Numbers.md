@@ -6,7 +6,7 @@ notetype: "technology"
 ---
 
 # Overview
-Numbers is a spreadsheet application created by Apple as part of its iWork suite of applications. It adopts a non-traditional model for the spreadsheet where a tabular grid is not in fact the base component but rather a canvas. This approach enables Numbers spreadsheets to be composed in a way that allows for easier styling for output in a non-traditional format as any included media is not tied to a table cell.
+Numbers is a spreadsheet application created by [[Apple]] as part of its iWork suite of applications. It adopts a non-traditional model for the spreadsheet where a tabular grid is not in fact the base component but rather a canvas. This approach enables Numbers spreadsheets to be composed in a way that allows for easier styling for output in a non-traditional format as any included media is not tied to a table cell.
 
 # Operating Systems
 - macOS

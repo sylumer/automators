@@ -223,7 +223,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 10:51      | And one of the reasons why we've reconsidered automation is Google no longer is the only             |
 | 10:56      | game in town.                                                                                        |
 | 10:57      | There's a lot of companies making contemporaneous editable text documents.                           |
-| 11:05      | And you know, even Apple Notes, honestly, is pretty good at this point for that kind                 |
+| 11:05      | And you know, even [[Apple Notes]], honestly, is pretty good at this point for that kind                 |
 | 11:10      | of thing.                                                                                            |
 | 11:11      | And, and [[Notion]] is among those.                                                                      |
 | 11:13      | It has the ability to create a document or get related to a record, Rose and I are in                |
@@ -749,7 +749,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 44:47      | it goes over to notion, adds the record, does its thing over there.                                  |
 | 44:51      | And very quickly, you can go from thought to fully germinated project with just a couple,            |
 | 44:58      | you know, shortcuts.                                                                                 |
-| 44:59      | And I think that's for people on the Apple platforms that that's golden and it makes                 |
+| 44:59      | And I think that's for people on the [[Apple]] platforms that that's golden and it makes                 |
 | 45:04      | notion to me a lot more attractive.                                                                  |
 | 45:07      | Yes, definitely.                                                                                     |
 | 45:09      | And I think the other thing is, is if I've had an idea for a show, then you can also                 |
@@ -782,7 +782,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 47:01      | an online only service.                                                                              |
 | 47:04      | If you're putting your data with somebody else, I'm much more of a fan of kind of keeping            |
 | 47:07      | it local.                                                                                            |
-| 47:08      | Or if I'm going to put it in the cloud, I'd prefer, frankly, an Apple's Cloud, because               |
+| 47:08      | Or if I'm going to put it in the cloud, I'd prefer, frankly, an [[Apple\|Apple's]] Cloud, because               |
 | 47:12      | I think they do a better job of protecting security and with advanced data protection,               |
 | 47:16      | you can end to encrypt it.                                                                           |
 | 47:19      | End to end encryption is not an option with notion, to my knowledge.                                 |
@@ -1036,7 +1036,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 01:01:43   | Why do we have it and how does it work?                                                              |
 | 01:01:45   | And so on.                                                                                           |
 | 01:01:46   | So, yeah, but I've sent a couple of these to my parents as well.                                     |
-| 01:01:50   | My dad was asking me, wait, so how can I work that John Lennon thing on Apple thing, what's          |
+| 01:01:50   | My dad was asking me, wait, so how can I work that John Lennon thing on [[Apple]] thing, what's          |
 | 01:01:56   | it?                                                                                                  |
 | 01:01:57   | And like, you know, I've, I just, you know, took a couple of screenshots and showed him              |
 | 01:02:02   | how to do it and he's watching the new John Lennon documentary and he's happy.                       |

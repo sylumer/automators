@@ -20,7 +20,7 @@ title: "156: WWDC 2024 Automation News"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-Rose and David break down all the new automation options from Apple's WWDC announcements.
+Rose and David break down all the new automation options from [[Apple|Apple's]] WWDC announcements.
 
 # Hosts
 - [[David Sparks]]
@@ -39,7 +39,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 - [[ExpressVPN (Sponsor)|ExpressVPN]] - High-Speed, Secure & Anonymous VPN Service.
 
 # Show Notes
-- Rose and David break down all the new automation options from Apple's WWDC announcements.
+- Rose and David break down all the new automation options from [[Apple|Apple's]] WWDC announcements.
 - ---
 - [WWDC24: The OS Bento Boxes – 512 Pixels](https://512pixels.net/2024/06/wwdc24-the-os-bento-boxes/)
 	- All of those summary screenshots from the keynote.
@@ -52,7 +52,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 00:00      | Welcome to The Automators. I'm David Sparks and joined by my co-host, Rosemary Orchard.                  |
 | 00:06      | Hello, Rosemary. Hey, David. How are you? Good. Good. We are The Automators, where we talk about         |
 | 00:11      | how to automate your technology and do your work for you. And this is the week that I like to think      |
-| 00:18      | of as Nerd Christmas. [[WWDC]] came out for Apple, a ton of new announcements, some of which are             |
+| 00:18      | of as Nerd Christmas. [[WWDC]] came out for [[Apple]], a ton of new announcements, some of which are             |
 | 00:25      | automation related, not as many as I would like to be honest, but there's some good news for us,         |
 | 00:30      | Automators. So, Rose, I think it's time to do the [[WWDC]] reaction show. Yeah. Yeah. I think it is,          |
 | 00:38      | because we all sat around and Tim got on stage and introduced a bunch of people. Craig jumped            |
@@ -96,7 +96,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 04:27      | but they've got lock screen widgets. So this is all a good start and I guess we will have to             |
 | 04:34      | see from there where everything goes. But fingers crossed, it will give us exactly                       |
 | 04:40      | what we want when it comes to [[Shortcuts]] actions. Yeah, that feels to me like kind of a hidden            |
-| 04:45      | benefit to automation. But like you said, Apple did work on [[Shortcuts]] this year too.                     |
+| 04:45      | benefit to automation. But like you said, [[Apple]] did work on [[Shortcuts]] this year too.                     |
 | 04:52      | So why don't we talk about the new user interface?                                                       |
 | 04:54      | Yeah, so the new user interface, it wasn't explicitly demoed in [[WWDC]], but it was definitely              |
 | 05:05      | shown off through [[Apple Photos\|Photos]] and so on because [[Apple Photos\|Photos]] has a lovely new UI and [[Shortcuts]] has                  |
@@ -179,7 +179,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 12:59      | really good step closer to, you know, getting some of the more fine grain controls that people           |
 | 13:05      | have been asking for through [[Shortcuts]] without it being overwhelming and requiring every app             |
 | 13:10      | developer to have to jump through a whole bunch of hoops to make everything available.                   |
-| 13:14      | Yeah, no, it makes total sense to me. Like, it feels to me like every year Apple picks two or            |
+| 13:14      | Yeah, no, it makes total sense to me. Like, it feels to me like every year [[Apple]] picks two or            |
 | 13:20      | three of their own apps to get like the [[Shortcuts]] treatment. Like I felt like last year, it was          |
 | 13:26      | Apple notes, like Apple notes got a bunch of interesting and useful actions, but [[Apple Reminders\|Reminders]]               |
 | 13:31      | didn't get any. And now this year, [[Apple Reminders\|Reminders]] get some new ones. So you can open any lists,               |
@@ -353,7 +353,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 30:02      | screen. And that is great. But, you know, it gets a little better, doesn't it, David?                    |
 | 30:08      | Yeah, I mean, it's just like, this is something we've wanted for so long, just the ability to            |
 | 30:13      | have third party apps in the [[Control Centre]]. Or like you said, [[PCalc]], right? I mean,                    |
-| 30:18      | I don't want to use [[Apple Calculator\|Apple's calculator]]. I want to open [[PCalc]] from the [[Control Centre]].                   |
+| 30:18      | I don't want to use [[Apple Calculator\|[[Apple|Apple's]] calculator]]. I want to open [[PCalc]] from the [[Control Centre]].                   |
 | 30:21      | That's going to be possible now. So I think it's going to be fun really setting this up. And I mean,     |
 | 30:26      | eager to hear from some of the listeners too, what they're doing with it, because, you know,             |
 | 30:30      | customise [[Control Centre]] now, it's a it's a good time to come up with some interesting ideas.            |
@@ -364,7 +364,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 30:54      | So if an app developer wants to create an action for the action button, it's not going to have to        |
 | 31:00      | be by going through [[Shortcuts]] anymore. And some folks will say that's that's [[Sherlocking]] [[Shortcuts]].     |
 | 31:06      | But, you know, we saw this happen with the Apple Watch controls and lock screens and home screens        |
-| 31:13      | and backgrounds with focus modes. People did this manually using [[Shortcuts]]. And then Apple went,         |
+| 31:13      | and backgrounds with focus modes. People did this manually using [[Shortcuts]]. And then [[Apple]] went,         |
 | 31:20      | that's a really good idea. We're going to pull that in and make that part of your focus mode.            |
 | 31:24      | They've seen that people are using a shortcut to run a particular action. And the app developers         |
 | 31:28      | are linking people to a shortcut that they can install to do a thing from the action button.             |
@@ -472,7 +472,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 41:12      | let you tell us about energy provider integration and robot vacuum supply. Yeah. Are you with Pacific    |
 | 41:18      | Gas and Electric by any chance, David? Because there's a feature. Well, there's a feature only           |
 | 41:25      | available in California, at least to start with. And if you are using Pacific Gas and Electric,          |
-| 41:31      | Apple will partner with them to be able to pull your energy usage data into [[HomeKit]],                    |
+| 41:31      | [[Apple]] will partner with them to be able to pull your energy usage data into [[HomeKit]],                    |
 | 41:36      | into the [[Apple Home\|home]] app. So you're going to be able to see from in the home app what your current              |
 | 41:42      | data usage is and I guess what the bill is like. I don't exactly know what precisely this will look      |
 | 41:48      | like for everybody else, but you'll be able to see your electricity usage on a daily, weekly,            |
@@ -491,7 +491,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 43:04      | So hey, you know, if the sun is out or, you know, when the room hits this temperature,                   |
 | 43:11      | if my energy usage today is below this, then turn on the air-con. But if it's above this,                 |
 | 43:16      | then don't turn on the air-con or something like that. You know, who knows where this is going            |
-| 43:21      | to go. But I have a feeling that Apple plan to make it part of their green stuff, which is always        |
+| 43:21      | to go. But I have a feeling that [[Apple]] plan to make it part of their green stuff, which is always        |
 | 43:26      | a nice option. Well, I could see a use for it as an electric car owner, like, you know,                  |
 | 43:30      | determining when the electric car gets charged. And I'll have to look into this and see if it's          |
 | 43:35      | something that's actually supported. There are different, like, divisions of PG&E. So I don't            |
@@ -578,14 +578,14 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 51:24      | a cloud option, but they are, you know, getting that or setting that up so that people can               |
 | 51:31      | independently verify that it's safe and secure and data is not going to be stored there,                 |
 | 51:35      | and so on. And I think that this is a really good start. You know, the first half of the                 |
-| 51:41      | keynote, Apple didn't mention [[Apple Intelligence]] at all. They were, you know, just talking about         |
+| 51:41      | keynote, [[Apple]] didn't mention [[Apple Intelligence]] at all. They were, you know, just talking about         |
 | 51:46      | [[App Intent\|App Intents]] and so on. And then in the second half, they went, Oh, by the way, we know we've been going  |
 | 51:50      | at 2x for the whole, you know, like first thing, but that's because everything's to do with [[Apple Intelligence]].        |
 | 51:55      | And this is how it all ties in together. And I think it's really nice the way              |
 | 52:00      | that they've, you know, a lot of these things aren't going to require going off to other servers.        |
 | 52:04      | It can all be done locally on your device. But, you know, for those things that do need that,            |
 | 52:09      | then, you know, we'll be able to take advantage of those options.                                        |
-| 52:14      | Yeah. I mean, I feel like Apple did it the Apple way. And that's what we're looking for. They're         |
+| 52:14      | Yeah. I mean, I feel like [[Apple]] did it the [[Apple]] way. And that's what we're looking for. They're         |
 | 52:20      | going to have artificial intelligence, but it's going to be rational. It's going to be private.          |
 | 52:26      | It's not going to be probably as powerful as what you get with a big [[Large Language Model\|LLM]], like, you know,                |
 | 52:33      | [[Google Gemini]] or open, was it a [[ChatGPT]] of [[OpenAI]]? But in some ways, I think it's better because        |
@@ -599,17 +599,17 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 53:23      | have done as part of this is they have partnered with [[ChatGPT]]. But I feel like they're also doing        |
 | 53:29      | this the right way in the sense that if [[Siri]] doesn't have the answer to something, so say, for example,  |
 | 53:35      | you were looking in your fridge and you saw that you had bacon, cheese, eggs, maybe some like bell       |
-| 53:42      | peppers or something. And you said, hey, you know, hey, Apple lady, give me a recipe to use, you know,   |
+| 53:42      | peppers or something. And you said, hey, you know, hey, [[Apple]] lady, give me a recipe to use, you know,   |
 | 53:49      | eggs, bacon, cheese, bell peppers. And [[Siri\|Siri's]] life, I don't know what to do with that. It will then      |
 | 53:56      | prompt you to ask [[ChatGPT]]. And if you say yes, which also you're going to be able to do by nodding       |
 | 54:02      | your head if you've got AirPods in, I freaking love that. That's amazing. That's a very, very,           |
 | 54:07      | very nice improvement to the whole [[Siri]] interaction. But the fact that you'll be able to say yes,        |
 | 54:13      | please go and ask [[ChatGPT]] about this means it can then go off and ask, you know, some of the more        |
 | 54:18      | powerful, large language models for this sort of thing. Of course, we are going to have to be a bit      |
-| 54:24      | careful and I'm interested to see how Apple addresses, you know, the mirage problem of                   |
+| 54:24      | careful and I'm interested to see how [[Apple]] addresses, you know, the mirage problem of                   |
 | 54:30      | [[ChatGPT]] not coming back with what I would expect from those ingredients, which would be an omelet.       |
 | 54:35      | And instead coming back with brownies, that would be concerning if it came out with brownies. And        |
-| 54:41      | I don't know how Apple is going to handle this and what kind of disclaimers they're going to put         |
+| 54:41      | I don't know how [[Apple]] is going to handle this and what kind of disclaimers they're going to put         |
 | 54:46      | on responses from [[ChatGPT]]. But it is, you know, nice that they are going to have the option              |
 | 54:53      | for things like that. And if you have a page at GPT subscription, then you're going to be                |
 | 54:57      | able to sign into it so that you can get access to your extra features and so on. Again, this is         |
@@ -669,7 +669,7 @@ Rose and David break down all the new automation options from Apple's WWDC annou
 | 59:56      | person, perhaps this person person, that then ties together. And that means that if [[Slack]] says,          |
 | 01:00:03   | oh, right, you know, there's a reminder about a call with David, then that means that that               |
 | 01:00:10   | information, if that gets surfaced to [[Siri]], then I can say, hey, David, what do I need to remember       |
-| 01:00:17   | about David? Sorry, hey, hey, Apple lady, what do I need to remember about David? And [[Slack]] can          |
+| 01:00:17   | about David? Sorry, hey, hey, [[Apple]] lady, what do I need to remember about David? And [[Slack]] can          |
 | 01:00:22   | surface the fact that I was going to talk to you in half an hour or something like that. And I feel      |
 | 01:00:26   | like this is where it all really ties together, you know, there's a lot of hidden threads that are       |
 | 01:00:31   | woven very deep down that we're not necessarily seeing. But as we start to pull on them, I think         |

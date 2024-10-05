@@ -63,7 +63,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 00:40      | like in my teens and twenties, I didn't sell the betas. Now I'm wiser. I never do that. And I was         |
 | 00:45      | thinking to myself, I'm in my fifties and I still install the betas and I love it. And I have lots        |
 | 00:50      | of batteries, so I don't care. But anyway, this is the morning that we get to open the Automation         |
-| 00:55      | Christmas presents for you. Apple just had the [[WWDC]] event. They have an automation story. There           |
+| 00:55      | Christmas presents for you. [[Apple]] just had the [[WWDC]] event. They have an automation story. There           |
 | 01:02      | is automation news this year. It wasn't part of the keynote. What didn't feature is heavily,              |
 | 01:08      | but there's a lot going on. Rose and I are going to break it all down for you. What's coming with         |
 | 01:13      | the betas, what we like, what we don't like. And also we've got some other stuff to weigh on,             |
@@ -74,7 +74,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:38      | For those of you that are Automators Max supporters, that's the bonus version of the show.                |
 | 01:43      | Gets you some extra content, gets rid of the ads. We'd love to have you join. You can do that at          |
 | 01:48      | the web page for relay.fm slash Automators. But we're going to go through both of us, or at least          |
-| 01:55      | I know I am seriously, once again, looking at [[Stage Manager]]. I got motivated by Apple, of course.         |
+| 01:55      | I know I am seriously, once again, looking at [[Stage Manager]]. I got motivated by [[Apple]], of course.         |
 | 02:02      | Anytime you go up to Cupertino and bathe in the reality of storage and field, you come back with          |
 | 02:08      | all these great ideas. But we're going to talk about that in Automators Max today, ways that you          |
 | 02:12      | can use [[Stage Manager]] to be efficient. And it's an experiment at this point, but I want to talk           |
@@ -132,7 +132,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 06:58      | users to do more with shortcuts. So when you go to add an action, it makes app suggestions that           |
 | 07:05      | are based on the app. So right now, I just open mine and I haven't got a shortcut started. I've           |
 | 07:12      | got a test one that's empty and it's giving me suggested actions in the clock, in [[Drafts]], in              |
-| 07:18      | notes, in voice memos. All the built-in Apple apps begin with because we're on the beta.                  |
+| 07:18      | notes, in voice memos. All the built-in [[Apple]] apps begin with because we're on the beta.                  |
 | 07:25      | But as I understand it, the developer API lets the developer choose specific actions that are             |
 | 07:31      | ready to roll in that actions menu now. So a user can just tap it and they've got a shortcut              |
 | 07:37      | without any work whatsoever. And I think that's going to really be a nice entry point for people          |
@@ -147,9 +147,9 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 08:26      | really bringing these shortcuts into everybody's front of mind. And of course, inside of shortcuts,       |
 | 08:32      | if I tap on the book section, I can disable those appearing as [[Spotlight]] or Siri. But the                 |
 | 08:38      | fact that they're there and the clock app and so on has got these as well. So does files for              |
-| 08:45      | scanning a document. It's really nice to see Apple not just releasing a feature, but going like,          |
-| 08:50      | hey, you should use us. And for existing non-Apple apps, it does a good job of showing not just           |
-| 08:57      | apps, but app suggestions within those, like those that don't have the big Apple block behind them        |
+| 08:45      | scanning a document. It's really nice to see [[Apple]] not just releasing a feature, but going like,          |
+| 08:50      | hey, you should use us. And for existing non-[[Apple]] apps, it does a good job of showing not just           |
+| 08:57      | apps, but app suggestions within those, like those that don't have the big [[Apple]] block behind them        |
 | 09:04      | already have really discoverable features. I happen to own a trigger barbecue,                            |
 | 09:10      | Rose. That's the nerdy barbecue with an app. And I was just going through it and it's like,               |
 | 09:15      | oh, what's the current temperature of my meat? I can find out now. I can just push a button               |
@@ -236,7 +236,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 16:39      | that's connected to the hotel TV. But if somebody had done that maliciously to run my                     |
 | 16:46      | shortcut that was on my phone that they probably didn't have access to, maybe that would be a             |
 | 16:50      | problem. Maybe it wouldn't be. But I understand why in the purposes of it's going to send you             |
-| 16:55      | an automation. Apple have gone with, okay, well, we'll let people run it automatically,                   |
+| 16:55      | an automation. [[Apple]] have gone with, okay, well, we'll let people run it automatically,                   |
 | 16:59      | but they're getting a notification whether they like it or not. So yeah, it's pretty cool. And            |
 | 17:04      | quite a few things have got that as well. So physical location has not had this option                    |
 | 17:11      | added for that. But email and message also got the same when like automatic running.                      |
@@ -248,7 +248,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 17:48      | I would have said no, that they're just never going to let you do that because                            |
 | 17:52      | then someone else in the world by the mere act of sending you a message is able to                        |
 | 17:58      | cause something to happen on your device. Well, we're all big boys and girls.                             |
-| 18:03      | We're okay with that. But I just feel like Apple would never let us do it. And they did. So I'm           |
+| 18:03      | We're okay with that. But I just feel like [[Apple]] would never let us do it. And they did. So I'm           |
 | 18:07      | very happy about that. David, can I just take a moment to be very European and say, please,               |
 | 18:11      | can you tell your cell phone carriers this because they charge you to receive text messages? Like         |
 | 18:16      | you have a limited number of messages that you can send and receive. Most people are probably on          |
@@ -289,9 +289,9 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 21:33      | Wi-Fi, I want you to stop the Timery Timer for commuting, then you can do that. That's now possible       |
 | 21:40      | without you having to tap to run a single automation. And that's amazing.                                 |
 | 21:44      | Yeah, it is really great. And the great thing about shortcuts as the app developers are giving            |
-| 21:50      | us actions that we can do things, but Apple has so much power. When they give us triggers like this,      |
+| 21:50      | us actions that we can do things, but [[Apple]] has so much power. When they give us triggers like this,      |
 | 21:57      | it just makes everything else so much better, right? We can make more happen because now we've            |
-| 22:03      | got a system level trigger that only Apple can give us. And yeah, I never even thought of this as         |
+| 22:03      | got a system level trigger that only [[Apple]] can give us. And yeah, I never even thought of this as         |
 | 22:10      | being a trigger. I guess my brain was not expansive enough. But when I saw it, I'm like, yes, please.     |
 | 22:16      | And it's like there's, like you said, there's so many different ways in your everyday life,               |
 | 22:21      | you can use this. I can't help but wonder if this is somehow related to the journal app,                  |
@@ -301,7 +301,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 22:39      | shortcuts around that action or that trigger. Yeah. I should note that if you select the                  |
 | 22:44      | payment transaction type, then you get to choose from a variety of categories, including food and         |
 | 22:50      | drinks, shopping, travel, services, entertainment, health and transport. And so these are the             |
-| 22:56      | automatic categorisations that Apple give you for this stuff. Unfortunately, when I checked it out        |
+| 22:56      | automatic categorisations that [[Apple]] give you for this stuff. Unfortunately, when I checked it out        |
 | 23:02      | last time, just trying to check it out again, just to make sure that I'm right. Obviously,                |
 | 23:07      | we're still on beta one here as we record. So it's entirely possible that things will change.             |
 | 23:12      | I believe the shortcut input doesn't provide you with any information. No, it does not. So,               |
@@ -425,7 +425,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 34:04      | it's a different time, I can then delete it, which is great. So I am pretty happy with that,              |
 | 34:10      | because that's going to really clean up that shortcut. And then hopefully I can write that                |
 | 34:13      | up and share that with folks. So yeah, this is going to be really, really useful for a number             |
-| 34:19      | of things. And there, there, there's even more, there's actions being discovered. I wish Apple            |
+| 34:19      | of things. And there, there, there's even more, there's actions being discovered. I wish [[Apple]]            |
 | 34:24      | did a better job of saying, here's everything that changed in shortcuts. Well, they do,                   |
 | 34:29      | but they only do it when the release goes public. Yeah. So there's a great page that they                 |
 | 34:34      | is shortcuts team update every time a release happens, but they don't release it with for the             |
@@ -480,7 +480,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 38:58      | hear it dinging repeatedly. Yeah. Yeah. So that that's sad. And I'm actually going to submit              |
 | 39:04      | feedback on that and I'd recommend everybody that does want features that they're missing,                |
 | 39:09      | including maybe you feel strongly about tab groups and email boxes. Just submit feedback                  |
-| 39:15      | to Apple if you're on the beta and let them know. And hopefully, you know, sometimes things do            |
+| 39:15      | to [[Apple]] if you're on the beta and let them know. And hopefully, you know, sometimes things do            |
 | 39:21      | change between beta one for the better and the end. I was just gonna say if you're not on the             |
 | 39:25      | beta, so you can still go to apple.com/feedback to file feedback. If you are on the                 |
 | 39:30      | betas, then obviously you can use feedback assistance to do the feedback assistance to do                 |
@@ -494,7 +494,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 40:08      | can't use contact groups and stuff that I think would be low hanging fruit for it. None of that           |
 | 40:13      | happened. So hopefully next year, I'd hate focus modes to be a thing that just kind of stops evolving     |
 | 40:20      | because it's such a great idea. And at a time when our technology is increasingly                         |
-| 40:27      | interfering with our ability to do our best work, I feel like this is apple doing the right thing.        |
+| 40:27      | interfering with our ability to do our best work, I feel like this is [[Apple]] doing the right thing.        |
 | 40:32      | I just hope that continues. Yeah, me too. And I got really excited for a moment because I was just        |
 | 40:37      | going through and like trying to use groups and contacts. And I realised that there was a select          |
 | 40:42      | contacts like bar across the bottom. So I tapped it. And I realised that it's telling me to select        |
@@ -595,12 +595,12 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 49:38      | he's not that cool. And then a bunch of people like turn you down and you're like, well, we got           |
 | 49:43      | room. Let's invite Uncle Ralph. I was the Uncle Ralph of WWZ. I got invited with the second round,        |
 | 49:48      | but it was fun being there. And I was listening to people talk about this Vision Pro and what's           |
-| 49:54      | the automation story about it? Like one of the things I heard, and I wasn't able to get Apple             |
+| 49:54      | the automation story about it? Like one of the things I heard, and I wasn't able to get [[Apple]]             |
 | 49:58      | to confirm it to me, is that if you put the Vision Pro on in a different room,                            |
 | 50:04      | it, you can have a different setup in it. Like if you were in your office, you'd put it on and            |
 | 50:08      | it would automatically be set up for office mode. And if you put it on in your living room, it'd          |
 | 50:13      | be automatically set up to watch movies. And I, two people told me that I didn't get anybody              |
-| 50:20      | from Apple to tell me that. But that kind of, that's the kind of automation stuff I'm actually            |
+| 50:20      | from [[Apple]] to tell me that. But that kind of, that's the kind of automation stuff I'm actually            |
 | 50:24      | kind of interested in with this new hardware. And, you know, shortcuts was not one of the                 |
 | 50:29      | icons on the screen. But I do think there's an automation story around this device once it gets           |
 | 50:35      | out into the wild. Definitely. And we're six months out from release as well on that. So I                |
@@ -683,8 +683,8 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 57:01      | demos. So there was only a few people that could get in. But everybody I talked to that did it was        |
 | 57:05      | super impressed with the technology, even the people who are not supposed to be impressed                 |
 | 57:10      | with stuff, right? You know, the serious media types. And the question though always becomes,             |
-| 57:16      | well, what are you going to use it for? And that is the question that Apple has to answer. And I          |
-| 57:21      | feel like more than any other product that Apple's ever made, this is the one that's going to have        |
+| 57:16      | well, what are you going to use it for? And that is the question that [[Apple]] has to answer. And I          |
+| 57:21      | feel like more than any other product that [[Apple|Apple's]] ever made, this is the one that's going to have        |
 | 57:27      | the most answers, different answers. Like into the watch, it started out, is it a fashion thing?          |
 | 57:33      | Well, it turns out it's a fitness and health thing. That's really what it's for. Maybe a                  |
 | 57:36      | notification thing for some people. But this thing I think is going to be a way to watch football         |
@@ -762,7 +762,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:04:03   | all set up and so on. Just like, um, you know, the watches where if you want one of the solo straps,      |
 | 01:04:08   | like you should go in store really and try it on if you can so that you get a good fit because            |
 | 01:04:13   | otherwise, you know, what you think is going to be a good fit. It often ends up fortunately,              |
-| 01:04:17   | Apple has free returns with doing a bit of back and forth of, okay, I ordered the five. Uh,               |
+| 01:04:17   | [[Apple]] has free returns with doing a bit of back and forth of, okay, I ordered the five. Uh,               |
 | 01:04:22   | I'm guessing based on the feel of this, I probably need what, maybe a four or three,                      |
 | 01:04:25   | so whatever three that's too tight and you have to send it back and get a four and you should             |
 | 01:04:29   | probably have ordered four in the first place. But yeah, it's, it's, uh, yeah, it's going to be           |
@@ -798,7 +798,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:07:04   | Agreed. Um, but it wasn't a banner year for [[HomeKit]]. You know, we didn't get a lot of,                   |
 | 01:07:09   | of new stuff, but that, that is one of the things we got and that's cool. Um, I feel like                 |
 | 01:07:16   | as [[Matter]] sinks in, I feel like [[HomeKit]] is going to evolve more probably in future years.                |
-| 01:07:21   | I also think a lot of people at Apple are really busy working on a thing that you strap to your           |
+| 01:07:21   | I also think a lot of people at [[Apple]] are really busy working on a thing that you strap to your           |
 | 01:07:25   | head so they don't have a lot of time. Yeah. We already mentioned the, you know, the thing with           |
 | 01:07:31   | Apollo and Reddit, which I guess I just want to join the chorus of everybody saying, um, I think          |
 | 01:07:37   | it's really unfortunate that Reddit made the decisions it did. And if you're not up to speed on           |
@@ -822,7 +822,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:09:27   | it's also having to go through app review, which even though you can request an expedited app review,     |
 | 01:09:32   | and I'm sure he would do, can still take a chunk of time just because of all of the other things          |
 | 01:09:37   | going on. Plus in case Reddit didn't notice is [[WWDC]], like this is the biggest time of year for            |
-| 01:09:43   | the Apple developer community where they have to be like going through looking at all the new             |
+| 01:09:43   | the [[Apple]] developer community where they have to be like going through looking at all the new             |
 | 01:09:47   | stuff that they can add and figuring out what they're going to be able to add for releases in             |
 | 01:09:52   | September and so on. Um, so yeah, they, they Reddit massively dropped the ball on that. They              |
 | 01:09:58   | also managed to accuse him of, um, trying to blackmail or extort them. I don't know like                  |
@@ -833,9 +833,9 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:10:26   | he called it out and sadly it's going to have to go away because it's just not going to be possible       |
 | 01:10:31   | for Christian to bring it over to the new Reddit API. And I did not talk to him at all at [[WWDC]],           |
 | 01:10:37   | never saw him, but if I understand it correctly and granted I could be wrong,                             |
-| 01:10:43   | that those fees kick in on July 1st. So let's say he tries to do this in Apple                            |
+| 01:10:43   | that those fees kick in on July 1st. So let's say he tries to do this in [[Apple]]                            |
 | 01:10:47   | delay and, and with the amount of users he has, it's in the neighbourhood of $2 million a month.           |
-| 01:10:54   | Let's say that he, um, well, maybe less, but you know, it's in that ballpark. Let's say Apple delays      |
+| 01:10:54   | Let's say that he, um, well, maybe less, but you know, it's in that ballpark. Let's say [[Apple]] delays      |
 | 01:10:59   | him two weeks into July. Does he just now incur a million dollars in liability to Reddit? I mean,         |
 | 01:11:06   | it's just, I don't, I don't understand it. Um, I have some ideas as a former lawyer of what's             |
 | 01:11:12   | going on, but I don't want to speculate. Um, but I suspect this was not aimed at him, but he was,         |
@@ -847,14 +847,14 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:11:45   | that's also just a warning anytime you build an app platform on somebody else's thing,                    |
 | 01:11:51   | they can always do it to you. You know, I mean, which is sad. So I, I don't know that I have              |
 | 01:11:57   | anything positive to say about this, except I'm sorry that Apollo isn't there. But I would say            |
-| 01:12:02   | is if you are an Apollo subscriber, as I am, as he shuts it down, sometimes Apple goes through            |
+| 01:12:02   | is if you are an Apollo subscriber, as I am, as he shuts it down, sometimes [[Apple]] goes through            |
 | 01:12:07   | a process where they say, well, the developer is stopping the app and we're offering you a refund.        |
 | 01:12:12   | I would encourage you and that we, it hasn't got to that point yet, but if it gets to that point,         |
 | 01:12:16   | I would encourage you as a listener to decline the refund and at least let him keep the few bucks         |
 | 01:12:23   | that you gave him. This was not something that he controlled and, and give him some runway to,            |
 | 01:12:30   | to make the next great thing. Cause he's a very smart guy and he will make a great thing,                 |
 | 01:12:33   | whatever the next thing he makes is. Yeah. Yeah. Christian mentioned he has been talking to Paul          |
-| 01:12:38   | from Tapbots because Tweetbot had to go through the same thing and he's working with Apple. So that         |
+| 01:12:38   | from Tapbots because Tweetbot had to go through the same thing and he's working with [[Apple]]. So that         |
 | 01:12:43   | that's, that's all going to be sorted out. And yeah, I would say the same thing. If you're looking,       |
 | 01:12:48   | if you're a member of the shortcut subreddit and you are looking for a new home, I would                  |
 | 01:12:52   | heartily recommend the Automators forum at talk.automators.fm. There is an entire shortcut               |
@@ -885,7 +885,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:15:19   | your own personal information to dump into there. Yeah, rewriting the weather information to make         |
 | 01:15:25   | it funny is a great use of this. Using it to do your work is a really bad idea for multiple               |
 | 01:15:31   | reasons. Number one is it is not, you know, it's not an end-to-end encrypted thing where,                 |
-| 01:15:37   | you know, your data is protected. In fact, I think I'm counting on Apple to, you know,                    |
+| 01:15:37   | you know, your data is protected. In fact, I think I'm counting on [[Apple]] to, you know,                    |
 | 01:15:43   | at some point put this stuff on chip and give us more power with a privacy angle to it.                   |
 | 01:15:48   | The other thing is a lot of times [[ChatGPT]] is as wrong as it could be, you know, I.                       |
 | 01:15:54   | Oh, yes. And it's very confidently incorrect. They asked it to do a bio of me and it talked               |
@@ -900,7 +900,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:16:46   | I think it is doing a lot better than people might think. You know,                                       |
 | 01:16:51   | it didn't get a lot of screen time in the keynote. It got mentioned briefly in a                          |
 | 01:16:56   | shortcuts widget for Mac OS, because Mac OS widgets are coming back to the desktop.                       |
-| 01:17:01   | Woo hoo. But I saw some tweets from Symbolx on the Apple team. They were saying, you know,                 |
+| 01:17:01   | Woo hoo. But I saw some tweets from Symbolx on the [[Apple]] team. They were saying, you know,                 |
 | 01:17:10   | like, the whole new interactive widgets is built around App Intents, which is shortcut stuff.             |
 | 01:17:15   | And I feel like, you know, the way that everything in the system is making its way                        |
 | 01:17:20   | into shortcuts and shortcuts is making its way into everything in the system and enabling                 |
@@ -934,24 +934,24 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:19:50   | we didn't get everything we wanted. No, we're never going to get everything we wanted. We                 |
 | 01:19:55   | still got great things and they've knocked it out of the park. So congratulations, Shortcuts team.        |
 | 01:19:59   | You've done a great job. And also thank you, if this is the case, for getting all those other             |
-| 01:20:04   | app teams inside of Apple to, you know, work on, you know, new app intents and shortcuts actions,         |
+| 01:20:04   | app teams inside of [[Apple]] to, you know, work on, you know, new app intents and shortcuts actions,         |
 | 01:20:09   | because that is really cool. And I'm really excited about that.                                           |
-| 01:20:13   | You think they have, like, a new version of Sal who just runs around Apple yelling at people to           |
+| 01:20:13   | You think they have, like, a new version of Sal who just runs around [[Apple]] yelling at people to           |
 | 01:20:18   | add automation to their apps? I feel like they do.                                                        |
 | 01:20:21   | I don't know. I hope they do. I do know that somebody who used to be on the AppleScript team             |
-| 01:20:25   | is now on the Shortcuts team. And I actually met this person at an Automatrix [[WWDC]] meetup,                |
+| 01:20:25   | is now on the [Shortcuts](https://Shortcuts) team. And I actually met this person at an Automators [[WWDC]] meetup,                |
 | 01:20:34   | the one where I broke my ankle. Didn't know it was broken at the meetup, to be fair.                      |
-| 01:20:38   | That's also where I met Christian, the papal developer, and tell the Shortcuts team turned up.            |
-| 01:20:43   | And it was lovely to see them. And they were talking to Sal, talking to some of the Apple                 |
-| 01:20:46   | script team and just generally nerding out and being awesome people. But yeah, it's really                |
-| 01:20:51   | exciting to see, you know, like that that sort of stuff inside of Apple. And I really hope that,          |
+| 01:20:38   | That's also where I met Christian, the [[Apollo]] developer, and all the [[Shortcuts]] team turned up.            |
+| 01:20:43   | And it was lovely to see them. And they were talking to Sal, talking to some of the [[AppleScript]]                 |
+| 01:20:46   | team and just generally nerding out and being awesome people. But yeah, it's really                |
+| 01:20:51   | exciting to see, you know, like that that sort of stuff inside of [[Apple]]. And I really hope that,          |
 | 01:20:56   | you know, the fact that some of these folks have been there for quite a while now, you know,              |
-| 01:20:59   | short Apple Shortcuts or workflows, it was a long time ago. And it's just getting better every year.      |
-| 01:21:06   | I feel like people inside of Apple are taking note of that. And also, even if they are still kind         |
+| 01:20:59   | sure [[Apple]] bought [[Shortcuts]] or [[Workflow]], as it was, a long time ago. And it's just getting better every year.      |
+| 01:21:06   | I feel like people inside of [[Apple]] are taking note of that. And also, even if they are still kind         |
 | 01:21:12   | of going in Shortcuts app nerdy, like the fact that the interactive widgets are app intense,              |
 | 01:21:18   | which then work with Shortcuts to an extent. And like the Apple Watch Ultra button,                       |
 | 01:21:24   | like that to me is just, yeah, like the icing on the cake of this is, this is here to stay.               |
-| 01:21:29   | And it's only going to get better. All right. We are at the Automatrix podcast. You can find              |
+| 01:21:29   | And it's only going to get better. All right. We are at the Automators podcast. You can find              |
 | 01:21:34   | us at relay.fm/automators. You can find our website at automators.fm. We have the forums            |
 | 01:21:42   | Rosa's talking about at talk.automators.fm. And it's a great place, some of the best automation           |
 | 01:21:48   | discussion on the internet. Shortcuts is heavily discussed there. And that's a great place to             |

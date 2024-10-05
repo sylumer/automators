@@ -503,7 +503,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 39:07      | because you can't decide what's best. So saving them all in your email application doesn't work for      |
 | 39:11      | you. So save them as text snippets instead, and then expand them wherever you need them.                 |
 | 39:16      | Yeah, you know, the emoji problem is an interesting one. So this is one more potential solution for      |
-| 39:22      | it. I mean, the real problem with emoji, in my opinion, is that, you know, Apple didn't finish           |
+| 39:22      | it. I mean, the real problem with emoji, in my opinion, is that, you know, [[Apple]] didn't finish           |
 | 39:27      | the job, you know, control command space opens up a keyboard with the emoji where you can pick           |
 | 39:34      | from it, but it doesn't have an easy search. And it's just like, it's like, they had a lunch             |
 | 39:39      | meeting that day or something, and they forgot to come back to it. I don't know what happened there.     |
@@ -753,7 +753,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:02:30   | wait till later, because while we're on these little ones, I think another one I would mention           |
 | 01:02:35   | is system preferences and system commands. So with [[Alfred]], like you can put your computer to             |
 | 01:02:45   | sleep, and all you have to do is type command space and then sleep, and then it puts your computer       |
-| 01:02:51   | to sleep, or restart. And there's some of these things that for whatever reason, Apple just doesn't      |
+| 01:02:51   | to sleep, or restart. And there's some of these things that for whatever reason, [[Apple]] just doesn't      |
 | 01:02:57   | put those in spotlight. Maybe they don't want somebody accidentally shutting down, but [[Alfred]]            |
 | 01:03:01   | trusts you. And so all the system commands that you normally do, like I can never remember               |
 | 01:03:07   | the weird keyboard shortcuts for restart, sleep, turn monitor off. I know it involves the escape         |
@@ -1008,7 +1008,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:26:44   | at what he's done here, go, wow, amazing. And then go have a look at one of the simpler ones             |
 | 01:26:51   | to get started, like the DEVONthink search. I mean, that one's still kind of complicated,             |
 | 01:26:54   | but send to [[Yoink]], for example, that's a two action workflow. It has your file action,                    |
-| 01:27:00   | which is your trigger, and then it's got an apple script. Okay, time zones, a little bit more            |
+| 01:27:00   | which is your trigger, and then it's got an [[AppleScript]]. Okay, time zones, a little bit more            |
 | 01:27:06   | complicated because you've got multiple triggers. But there, there's some great resources on the         |
 | 01:27:11   | [[Alfred]] website, which I've linked to in the show notes for everybody, so that you can see,               |
 | 01:27:18   | you know, how to create one. But it is kind of amazing that, you know, you can do all of this.           |

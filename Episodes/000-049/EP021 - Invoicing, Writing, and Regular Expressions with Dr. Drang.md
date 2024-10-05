@@ -363,7 +363,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 12:47      | in those early days, that was all him.                             |
 | 12:50      | Yeah.                                                              |
 | 12:50      | I mean, he's the one that when they brought on                     |
-| 12:52      | the productivity expert at Apple,                                  |
+| 12:52      | the productivity expert at [[Apple]],                                  |
 | 12:55      | who wanted the programmers to turn in                              |
 | 12:56      | the number of lines of code they wrote every week.                 |
 | 12:59      | Yeah, he wrote, and you know, he turned in a report                |
@@ -1202,7 +1202,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 53:01      | but obviously they have a business to run.                         |
 | 53:04      | Well, at least it's still running for you.                         |
 | 53:06      | Which is an indication of how well it's written,                   |
-| 53:08      | because Apple is changing things underneath,                       |
+| 53:08      | because [[Apple]] is changing things underneath,                       |
 | 53:11      | but it's still running along because they didn't do,               |
 | 53:14      | obviously they didn't do cheating things                           |
 | 53:17      | in the development of that app.                                    |
@@ -1248,7 +1248,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 54:46      | add some sort of Pong game,                                        |
 | 54:48      | and then make it part of the new                                   |
 | 54:51      | Apple Game Subscription service.                                   |
-| 54:55      | Have Apple throw like millions of dollars at them                  |
+| 54:55      | Have [[Apple]] throw like millions of dollars at them                  |
 | 54:57      | to get the app, you know, tuned up again.                          |
 | 55:01      | And we'll all subscribe to the gaming service                      |
 | 55:03      | and use transmit.                                                  |
@@ -1520,7 +1520,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:08:45   | Yeah.                                                              |
 | 01:08:46   | So, but I do think and that happens                                |
 | 01:08:49   | and the thing I wanna emphasise about this is                      |
-| 01:08:53   | Apple is updating a product more than once a year.                 |
+| 01:08:53   | [[Apple]] is updating a product more than once a year.                 |
 | 01:08:56   | So it's like, that's good.                                         |
 | 01:08:58   | You know, I mean, I know that there was a problem with this        |
 | 01:09:01   | but the fact that they continue to push                            |
@@ -1627,13 +1627,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:13:26   | back last September, it wasn't part of workflow.                   |
 | 01:13:30   | And it was in particular,                                          |
 | 01:13:32   | it was something that could not have been done                     |
-| 01:13:35   | if the workflow people had not been bought up by Apple.            |
+| 01:13:35   | if the workflow people had not been bought up by [[Apple]].            |
 | 01:13:39   | I think that is one of the best things                             |
 | 01:13:42   | about shortcuts as opposed to workflow.                            |
 | 01:13:46   | And, you know, apart from all the things about, you know,          |
-| 01:13:49   | it's got the full force of Apple behind it.                        |
-| 01:13:51   | Apple does seem to be behind it.                                   |
-| 01:13:52   | Apple spent a lot of time talking about this feature               |
+| 01:13:49   | it's got the full force of [[Apple]] behind it.                        |
+| 01:13:51   | [[Apple]] does seem to be behind it.                                   |
+| 01:13:52   | [[Apple]] spent a lot of time talking about this feature               |
 | 01:13:57   | back there in September.                                           |
 | 01:13:59   | And, or was it, were they doing it in June at [[WWDC]]?                |
 | 01:14:04   | Whatever it was, whenever, when they introduced it,                |
@@ -1689,7 +1689,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:16:22   | the unlimited power or automation you want,                        |
 | 01:16:26   | but it's definitely going to get higher.                           |
 | 01:16:29   | Yeah, well, I don't think it can                                   |
-| 01:16:32   | because Apple wants iOS to be a more locked down system               |
+| 01:16:32   | because [[Apple]] wants iOS to be a more locked down system               |
 | 01:16:38   | than the Mac.                                                      |
 | 01:16:38   | In fact, it's making Mac more locked down                             |
 | 01:16:42   | than it ever has been before.                                      |
@@ -1697,7 +1697,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:16:45   | We live in a different world                                       |
 | 01:16:47   | where security is far more important to all of us.                 |
 | 01:16:51   | And so it's legitimate                                             |
-| 01:16:53   | that Apple has locked things down more.                            |
+| 01:16:53   | that [[Apple]] has locked things down more.                            |
 | 01:16:56   | But yeah, it is.                                                   |
 | 01:16:58   | So when we were talking about regular expressions,                 |
 | 01:17:01   | we talked about, I'm sorry,                                        |
@@ -1743,7 +1743,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:19:11   | that there have been two significant updates                       |
 | 01:19:13   | in between iOS updates.                                            |
 | 01:19:18   | That's encouraging to me.                                          |
-| 01:19:19   | I do think that Apple, at least for the immediate future,          |
+| 01:19:19   | I do think that [[Apple]], at least for the immediate future,          |
 | 01:19:23   | is invested in Siri shortcuts.                                     |
 | 01:19:26   | So I'm hoping that in June,                                        |
 | 01:19:28   | we get a whole bunch of new toys                                   |
@@ -1751,7 +1751,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:19:31   | for another year.                                                  |
 | 01:19:33   | And, you know, but I guess we're just gonna have to wait           |
 | 01:19:34   | and see, I mean, the other fear in the back of my mind             |
-| 01:19:37   | is what if Apple loses interest in this, you know?                 |
+| 01:19:37   | is what if [[Apple]] loses interest in this, you know?                 |
 | 01:19:40   | Cause like I feel like Automator started                           |
 | 01:19:42   | with the best of intentions,                                       |
 | 01:19:43   | but at some point, you know,                                       |
@@ -1792,7 +1792,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:20   | It is amazing.                                                     |
 | 01:21:22   | Well, I mean, you know,                                            |
 | 01:21:23   | Ben Walde is the guy who wrote those for Microsoft                 |
-| 01:21:26   | and now he works for Apple.                                        |
+| 01:21:26   | and now he works for [[Apple]].                                        |
 | 01:21:27   | So I suspect there's nobody at Microsoft                           |
 | 01:21:30   | that knows how to write the Automator action.                      |
 | 01:21:34   | That would explain a lot.                                          |
@@ -1803,7 +1803,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:48   | AppleScript has gone through this in the past,                     |
 | 01:21:51   | not just Automator, but AppleScript itself, you know.              |
 | 01:21:53   | Is AppleScript dead?                                               |
-| 01:21:55   | Is Apple, it's not.                                                |
+| 01:21:55   | Is [[Apple]], it's not.                                                |
 | 01:21:57   | You know, a few years ago, they actually came,                     |
 | 01:21:59   | amazingly, they decided to come out                                |
 | 01:22:01   | with an entirely new language that looks at Apple events,          |

@@ -336,7 +336,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 17:55      | takes a link and shortens it using bit.ly.                                                              |
 | 18:00      | But what's cool about this snippet is that if there's a link shortening service for that                |
 | 18:10      | link that you're using, so apple.co or something, I can't remember what the short one is, but           |
-| 18:17      | apple has one, [[Amazon]] has one, a bunch of different ones have one, it will shorten it                   |
+| 18:17      | [[Apple]] has one, [[Amazon]] has one, a bunch of different ones have one, it will shorten it                   |
 | 18:22      | to that URL, like to that services shortener instead of just doing the bit.ly link.                     |
 | 18:28      | So that is very handy being able to use.                                                                |
 | 18:32      | I would say my most used snippet though is not a very complicated one.                                  |
@@ -1035,7 +1035,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:12:46   | wouldn't be fun if I had like a different song that would play, whether it's my wife or my daughter     |
 | 01:12:51   | or me. And it's just not smart enough yet. And even though they say they have the feature,              |
 | 01:12:56   | it doesn't work. So you have to experiment and realise where the limits are of this stuff,              |
-| 01:13:02   | even beyond what Apple or the manufacturers are telling you. Yeah, yeah. Yeah, definitely. Also         |
+| 01:13:02   | even beyond what [[Apple]] or the manufacturers are telling you. Yeah, yeah. Yeah, definitely. Also         |
 | 01:13:10   | invite requesting bug reports. It's an interesting experience, but also very useful. The last thing     |
 | 01:13:17   | you want if you're sharing home automations is for the person to never tell you that the thing is       |
 | 01:13:21   | broken from their perspective. That's a really good point. Yeah, because if something works the         |

@@ -146,7 +146,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 04:47      | It's just something out there that a small percentage of users use.                                     |
 | 04:52      | And the other point would be that even though it's a small percentage, it's an important                |
 | 04:55      | percentage.                                                                                             |
-| 04:56      | Like, one of the most important companies that relies on [[AppleScript]] is Apple, you know.               |
+| 04:56      | Like, one of the most important companies that relies on [[AppleScript]] is [[Apple]], you know.               |
 | 05:02      | I mean, a lot of the stuff they use in the back end to keep all the Macs running at                     |
 | 05:07      | Cupertino use [[AppleScript]].                                                                             |
 | 05:09      | So why on earth would they pull that out?                                                               |
@@ -211,7 +211,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 08:25      | some feature they want to add that's not really easier, convenient, but by adding a simple              |
 | 08:31      | [[AppleScript]] support that it gives users a little bit more power without a lot of investment.           |
 | 08:36      | And so that stuff continues.                                                                            |
-| 08:38      | I don't think Apple is going to continue to like try and push the, the, the ball forward                |
+| 08:38      | I don't think [[Apple]] is going to continue to like try and push the, the, the ball forward                |
 | 08:44      | on [[AppleScript]] support.                                                                                |
 | 08:45      | I mean, when Sal was there, like it got added to [[Swift]], not [[Swift]], it got added to the                  |
 | 08:51      | [[Xcode]] years ago.                                                                                        |
@@ -299,13 +299,13 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 13:18      | Or hey, that's amazing.                                                                                 |
 | 13:19      | I've just added a thing that means that now that that can be running from here or something.            |
 | 13:24      | And the way that everything does just work together and have ways to work together.                     |
-| 13:28      | This is one of the reasons, as I know, by the way, why I really love Bunch, because every               |
-| 13:32      | time I call on the Bunch documentation site, I stumble across a new way of automating something         |
+| 13:28      | This is one of the reasons, as I know, by the way, why I really love [[Bunch]], because every               |
+| 13:32      | time I call on the [[Bunch]] documentation site, I stumble across a new way of automating something         |
 | 13:39      | that I don't necessarily end up using in Bunch.                                                         |
-| 13:41      | But because, you know, Brett is so open to you should be using all the great tools and,                 |
+| 13:41      | But because, you know, [[Brett Terpstra\|Brett]] is so open to you should be using all the great tools and,                 |
 | 13:47      | you know, whatever tool works best for you is the tool that you should have.                            |
-| 13:51      | It means that I'm just constantly finding things like that's where I got the Apple                      |
-| 13:53      | Script or a [[Moom]] stuff, and, you know, then I come up with ideas for, oh wait, but I could              |
+| 13:51      | It means that I'm just constantly finding things like that's where I got the [[AppleScript]]                      |
+| 13:53      | or a [[Moom]] stuff, and, you know, then I come up with ideas for, oh wait, but I could              |
 | 13:58      | open a draft and have it tagged with this automatically because I'm running this and                    |
 | 14:02      | so on.                                                                                                  |
 | 14:03      | And I just, I love that interaction that we have within the automation community, especially            |
@@ -313,13 +313,13 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 14:13      | you know, they're friendly, fairly friendly folks, but I really feel like especially the                |
 | 14:17      | indie dev community on Mac OS and iOS, they are just such awesome, lovely nerds.                        |
 | 14:23      | It's great.                                                                                             |
-| 14:24      | Yeah, so what is the recent big additions to Bunch and where is it going in your opinion?               |
+| 14:24      | Yeah, so what is the recent big additions to [[Bunch]] and where is it going in your opinion?               |
 | 14:32      | So I'm not sure exactly what big additions there have been recently.                                    |
 | 14:37      | It's one of those things where I'm just constantly, you know, finding cool little new things in         |
 | 14:43      | there that I didn't know existed.                                                                       |
 | 14:45      | And that doesn't mean to say that, you know, they weren't there for a while, but yeah,                  |
 | 14:50      | I've been toying with integrating Bunch and Marked recently, that's for sure.                           |
-| 14:56      | And yeah, I am on the Bunch beta and I know Brett was doing a bunch of work over the holidays           |
+| 14:56      | And yeah, I am on the [[Bunch]] beta and I know [[Brett]] was doing a bunch of work over the holidays           |
 | 15:02      | recently, you know, updating some of the requests that people had of like, I'm not sure how             |
 | 15:06      | to do this, what should I be doing and so on.                                                           |
 | 15:09      | So yeah, I will have to double check exactly what it is that has been happening with Bunch              |
@@ -327,7 +327,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 15:21      | so I should probably actually read the notes this is, we're done and then I can tell folks.             |
 | 15:25      | But oh, I've just found them, he's added support for Arc Browser and yeah, there's been some            |
 | 15:32      | other stuff as well, you know, some little fixes and so on.                                             |
-| 15:36      | So yeah, there's a proper changelog so I can put a link to that in the show notes for folks             |
+| 15:36      | So yeah, there's a proper change log so I can put a link to that in the show notes for folks             |
 | 15:39      | if people are interested.                                                                               |
 | 15:41      | So [[Bunch]] is for people who don't know, it's made by our favourite nerd, [[Brett Terpstra]].                  |
 | 15:47      | It's like a plain text kind of setup where you can open apps and websites and close apps                |
@@ -359,7 +359,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 17:37      | new stuff like, you know, targeting the profiles and the tab groups and so on, like you can             |
 | 17:42      | do some of it with shortcuts, but not all of it.                                                        |
 | 17:46      | That's something that I would really like to see an improvement for.                                    |
-| 17:49      | So there you go, Apple, have some homework, [[Safari]] team, you know, your WebKit stuff's                  |
+| 17:49      | So there you go, [[Apple]], have some homework, [[Safari]] team, you know, your WebKit stuff's                  |
 | 17:53      | great.                                                                                                  |
 | 17:54      | Just more shortcuts, more shortcuts and automation, give everyone some AppleScript support and         |
 | 17:58      | Apple events and then everybody will just go nuts over it.                                              |
@@ -607,7 +607,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 32:33      | people, and it's like, now it can do that.                                                              |
 | 32:36      | And I remember when it was a small app, but it really does a lot now, and that's good                   |
 | 32:42      | news for automation.                                                                                    |
-| 32:44      | All right, we have been ignoring the big app, the big automation app from Apple throughout              |
+| 32:44      | All right, we have been ignoring the big app, the big automation app from [[Apple]] throughout              |
 | 32:51      | this segment, but it's time to talk about shortcuts on the Mac.                                         |
 | 32:54      | It's been a few years.                                                                                  |
 | 32:56      | I would say it had a bit of a rough launch, you know, but it got better quickly.                        |
@@ -647,7 +647,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 35:22      | So I'm going to tell the Shortcuts team that they did a 10 out of 10 job just by adding                 |
 | 35:27      | that, because that makes it so much more adult as far as applications and automation systems            |
 | 35:34      | go.                                                                                                     |
-| 35:35      | And don't you wish Apple did that across the board?                                                     |
+| 35:35      | And don't you wish [[Apple]] did that across the board?                                                     |
 | 35:37      | Oh, yeah.                                                                                               |
 | 35:38      | Trust me, I'm filing feedback for everything.                                                           |
 | 35:41      | Like I'm filing feedback for pages.                                                                     |
@@ -705,7 +705,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 38:59      | And often it turns out that I taught how to do it on the iPhone, but on the Mac the                     |
 | 39:05      | action isn't there.                                                                                     |
 | 39:06      | So you have to write back and say, no, it's not you.                                                    |
-| 39:09      | It's just that Apple hasn't enabled that on the Mac yet and it's really frustrating to                  |
+| 39:09      | It's just that [[Apple]] hasn't enabled that on the Mac yet and it's really frustrating to                  |
 | 39:14      | have to tell people that and it makes people like leery of shortcuts and automation.                    |
 | 39:20      | They're like, oh, so what you're saying is that it will randomly not work sometimes on                  |
 | 39:24      | the other platform.                                                                                     |
@@ -725,7 +725,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 40:15      | a whole bunch of massive list of things that they have to do with all of the things.                    |
 | 40:20      | But as it is, I feel like that's the one big area that they still have to improve as well               |
 | 40:26      | along with not necessarily having parity between the platforms.                                         |
-| 40:32      | And I think a lot of that is down to the apps within Apple like the [[Safari]] team don't necessarily       |
+| 40:32      | And I think a lot of that is down to the apps within [[Apple]] like the [[Safari]] team don't necessarily       |
 | 40:41      | add the same things on Mac OS that they do on iOS.                                                      |
 | 40:45      | The mail team, just as I mentioned before, kind of seems to be on a holiday and not quite               |
 | 40:48      | sure what's happening there.                                                                            |
@@ -748,17 +748,17 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 41:55      | I feel like it's holding up shortcuts.                                                                  |
 | 41:57      | Yeah.                                                                                                   |
 | 41:58      | And I don't think that this is the shortcuts team fault to be clear.                                    |
-| 42:01      | I think that they're doing what they can as much as they can, but somebody at Apple is                  |
+| 42:01      | I think that they're doing what they can as much as they can, but somebody at [[Apple]] is                  |
 | 42:06      | like, well, you don't need a vibrate.                                                                   |
 | 42:08      | Whatever.                                                                                               |
 | 42:09      | Just ignore it.                                                                                         |
 | 42:10      | I'm pretty certain they're basically just being stuck into a corner because they want                   |
-| 42:18      | everything to work, but I suspect a bunch of people at Apple aren't necessarily the sort                |
+| 42:18      | everything to work, but I suspect a bunch of people at [[Apple]] aren't necessarily the sort                |
 | 42:23      | of people who will create a shortcut and just expect it to work everywhere.                             |
 | 42:28      | They will expect to create a Mac version and an iPad version and an iPhone version.                     |
 | 42:32      | And if that's you, that's fine.                                                                         |
 | 42:34      | If that's what you want to do, but that shouldn't affect the person who doesn't really know             |
-| 42:40      | how this works and they saw something cool in an Apple keynote and so they tried it on                  |
+| 42:40      | how this works and they saw something cool in an [[Apple]] keynote and so they tried it on                  |
 | 42:44      | their iPhone and it worked and they sent it to their friend on their iPad or their Mac                  |
 | 42:50      | and it doesn't work because then you go from like, oh my God, this is really cool.                      |
 | 42:54      | Look at this.                                                                                           |
@@ -946,7 +946,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 53:20      | should be doing.                                                                                        |
 | 53:21      | And every year it's getting a little better.                                                            |
 | 53:23      | And I love that.                                                                                        |
-| 53:24      | But, but increasingly Apple is building a tool set into its mobile devices that                         |
+| 53:24      | But, but increasingly [[Apple]] is building a tool set into its mobile devices that                         |
 | 53:30      | allow you to control how much it, it notifies you and bothers you.                                      |
 | 53:35      | What you see and what you don't see, allowing you to work harder and more                               |
 | 53:40      | efficiently and without distraction.                                                                    |
@@ -964,7 +964,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 54:16      | I mean, I just, we were at an event recently and there was a guy there that                             |
 | 54:21      | I know and he was in the corner the whole time on his phone.                                            |
 | 54:24      | I mean, not engaging and it's like, come on man, you know, and I think that                             |
-| 54:30      | this is something adults face as well and Apple is building the tool set there                          |
+| 54:30      | this is something adults face as well and [[Apple]] is building the tool set there                          |
 | 54:35      | and I feel like most people don't realise it or don't want to try and turn it on.                       |
 | 54:40      | Maybe we'll cover this will be a show this year, but I, I want to talk about                            |
 | 54:44      | context automation and how this is something you can do to help, help yourself                          |
@@ -972,8 +972,8 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 54:54      | It's not super difficult, but I aggressively use this stuff.                                            |
 | 54:59      | And it makes my life better and it makes my relationship with my technology                             |
 | 55:04      | more healthy and, and I'm a big fan of contextual automation and I feel like                            |
-| 55:09      | Apple has really helped in that way.                                                                    |
-| 55:12      | I don't know who is behind this at Apple or what the story is, but the man                              |
+| 55:09      | [[Apple]] has really helped in that way.                                                                    |
+| 55:12      | I don't know who is behind this at [[Apple]] or what the story is, but the man                              |
 | 55:17      | more of that please.                                                                                    |
 | 55:19      | Yeah.                                                                                                   |
 | 55:20      | And honestly, yeah, this is, this is just really, really useful to see things                           |
@@ -1081,7 +1081,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:00:35   | But like that sort of mistake goes way back.                                                            |
 | 01:00:37   | And fixing that sort of thing is really difficult.                                                      |
 | 01:00:40   | But we're also seeing, you know, improvements because, you know,                                        |
-| 01:00:44   | Apple is part of [[Matter]].                                                                                |
+| 01:00:44   | [[Apple]] is part of [[Matter]].                                                                                |
 | 01:00:46   | And they're part of the people creating the [[Matter]] standard.                                            |
 | 01:00:49   | That means that there is [[Thread]], which is another way to connect devices                                |
 | 01:00:54   | together.                                                                                               |
@@ -1125,7 +1125,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:03:10   | and your neighbour is on your exact bandwidth.                                                           |
 | 01:03:12   | So you have poor Wi-Fi and the system just can't find what it needs.                                    |
 | 01:03:18   | And even though it looks like it should work, it doesn't.                                               |
-| 01:03:21   | But, you know, and then on Apple's side, there's a lack of transparency to tell you                     |
+| 01:03:21   | But, you know, and then on [[Apple|Apple's]] side, there's a lack of transparency to tell you                     |
 | 01:03:25   | where the problem is.                                                                                   |
 | 01:03:26   | So there's a bunch of things and the money is an issue, but I think it's bigger than                    |
 | 01:03:31   | I think people are, some people are saying, I'll pay four times.                                        |
@@ -1146,7 +1146,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:04:12   | I mean, it's certainly an attempt.                                                                      |
 | 01:04:15   | I think part of the problem was all these big companies all wanted to own the                           |
 | 01:04:19   | widget at the beginning.                                                                                |
-| 01:04:20   | So it was kind of like a land grab of like, oh, you should just get Apple stuff.                        |
+| 01:04:20   | So it was kind of like a land grab of like, oh, you should just get [[Apple]] stuff.                        |
 | 01:04:25   | You should just get Google stuff or [[Amazon]].                                                             |
 | 01:04:27   | And, and they realised that's just not going to work.                                                   |
 | 01:04:29   | I think they're begrudgingly, maybe all trying to get on this [[Matter]] standard.                          |
@@ -1181,7 +1181,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:05:45   | Because otherwise, you know, previously you'd be like taping over a light                               |
 | 01:05:48   | switch and telling people, please don't touch the light switch, leave it alone.                         |
 | 01:05:51   | The lights will turn on automatically or get out your phone and say, hey,                               |
-| 01:05:54   | Apple lady, turn on my lights, please.                                                                  |
+| 01:05:54   | [[Apple]] lady, turn on my lights, please.                                                                  |
 | 01:05:56   | And, you know, that, that, that doesn't, you know, that's not a nice experience.                        |
 | 01:06:01   | And I think, you know, the home is so difficult because everybody's home has                            |
 | 01:06:05   | its own unique challenges, you know.                                                                    |
@@ -1213,7 +1213,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:07:11   | can't access the [[HomeKit]] home.                                                                          |
 | 01:07:13   | There's just no devices in it or it just doesn't work.                                                  |
 | 01:07:16   | And I'm not quite sure what's going on there, but I have told those folks to                            |
-| 01:07:19   | get in touch with Apple and, you know, try, you know, wiping the devices                                |
+| 01:07:19   | get in touch with [[Apple]] and, you know, try, you know, wiping the devices                                |
 | 01:07:23   | and stuff like that and, you know, get actual support on it.                                            |
 | 01:07:26   | But yeah, the fact that that is still happening is problematic,                                         |
 | 01:07:30   | but I do think we're getting there with this stuff.                                                     |
@@ -1326,12 +1326,12 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:12:46   | in order to consistently work.                                                                          |
 | 01:12:48   | So there are hurdles to be overcome,                                                                    |
 | 01:12:51   | but I feel like that is something headed our way.                                                       |
-| 01:12:54   | And I can't imagine Apple is not experimenting with this.                                               |
+| 01:12:54   | And I can't imagine [[Apple]] is not experimenting with this.                                               |
 | 01:12:57   | There are rumors that shortcuts is going to get a bunch of AI                                           |
 | 01:13:00   | in the future, but I would like to see it be involved                                                   |
 | 01:13:03   | with actual shortcut creation.                                                                          |
 | 01:13:05   | Yeah, and I think, you know, like we can already see right now                                          |
-| 01:13:08   | Apple is using AI locally on our devices                                                                |
+| 01:13:08   | [[Apple]] is using AI locally on our devices                                                                |
 | 01:13:12   | for the journal app.                                                                                    |
 | 01:13:14   | So it's going through and it's looking at photos.                                                       |
 | 01:13:17   | It's looking at music that you've listened to.                                                          |
@@ -1371,7 +1371,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:14:43   | So I'm a little worried doing that right now, to be honest.                                             |
 | 01:14:45   | But as it is, you know, there's definitely areas                                                        |
 | 01:14:48   | for this stuff to really excel.                                                                         |
-| 01:14:50   | And I feel like Apple's probably being smart                                                            |
+| 01:14:50   | And I feel like [[Apple|Apple's]] probably being smart                                                            |
 | 01:14:52   | starting with stuff like journal                                                                        |
 | 01:14:54   | and, you know, you can have do not disturb                                                              |
 | 01:14:56   | automatically turn on and things like that.                                                             |
@@ -1392,7 +1392,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:15:35   | come out of that.                                                                                       |
 | 01:15:36   | And yeah, it would be really nice to just find out,                                                     |
 | 01:15:41   | you know, where all this is going.                                                                      |
-| 01:15:43   | But as always, Apple reveal it in their own very good time.                                             |
+| 01:15:43   | But as always, [[Apple]] reveal it in their own very good time.                                             |
 | 01:15:47   | Yeah. Well, overall gang, I'd say the state of automation                                               |
 | 01:15:51   | right now is pretty good.                                                                               |
 | 01:15:52   | And it's a great time to start automating if you want to.                                               |

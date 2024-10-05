@@ -96,7 +96,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 00:52      | By the way, DaveTheNerd, is that still a thing?                                                                                                                          |
 | 00:54      | DaveTheNerd.com, that's in fact a fine way to reach me. Absolutely.                                                                                                      |
 | 00:58      | I love that. I love that.                                                                                                                                                |
-| 00:59      | But Dave has done all sorts of work in related to the Apple ecosystem.                                                                                                   |
+| 00:59      | But Dave has done all sorts of work in related to the [[Apple]] ecosystem.                                                                                                   |
 | 01:04      | He makes the very fine podcast.                                                                                                                                          |
 | 01:08      | How long have you guys been doing that now?                                                                                                                              |
 | 01:10      | The Mac Geek Gab?                                                                                                                                                         |
@@ -125,7 +125,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 02:01      | We love it.                                                                                                                                                              |
 | 02:02      | And it gives us new content every week.                                                                                                                                  |
 | 02:05      | Yeah, there's no end of questions.                                                                                                                                       |
-| 02:08      | And Apple just keeps doing weird things                                                                                                                                  |
+| 02:08      | And [[Apple]] just keeps doing weird things                                                                                                                                  |
 | 02:10      | to allow people to have questions.                                                                                                                                       |
 | 02:12      | So there you go.                                                                                                                                                         |
 | 02:13      | Yeah, and right, the questions are troubleshooting for sure.                                                                                                             |
@@ -226,7 +226,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 05:45      | But if it doesn't support chapters,                                                                                                                                      |
 | 05:47      | then maybe you're missing out on some other amazing features, too.                                                                                                       |
 | 05:50      | To be fair, though,                                                                                                                                                      |
-| 05:51      | Apple's Apple's player did not support it                                                                                                                                |
+| 05:51      | [[Apple\|Apple's]] [[Apple\|Apple's]] player did not support it                                                                                                                                |
 | 05:55      | until it became podcasts, right?                                                                                                                                         |
 | 05:57      | Like for MP3s, especially on the Mac, right?                                                                                                                             |
 | 06:00      | It was so it wasn't until we split iTunes on the Mac                                                                                                                     |
@@ -516,10 +516,10 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 17:12      | So I mean, we, you know, we have ring cameras and various other cameras                                                                                                  |
 | 17:15      | outside.                                                                                                                                                                 |
 | 17:16      | Um, I, you know, I, because I'm a nerd and I do Mac Geek Gab, I've had,                                                                                                    |
-| 17:22      | I started getting into home automation well before Apple ever even began                                                                                                 |
+| 17:22      | I started getting into home automation well before [[Apple]] ever even began                                                                                                 |
 | 17:27      | with home kit and then certainly ever got to a point where home kit                                                                                                      |
 | 17:31      | was actually feasible for most people to use with the devices that they had.                                                                                             |
-| 17:36      | Apple sort of screwed up that entry, but that's fine.                                                                                                                    |
+| 17:36      | [[Apple]] sort of screwed up that entry, but that's fine.                                                                                                                    |
 | 17:39      | So I have devices that work with all different platforms,                                                                                                                |
 | 17:43      | most of which are not home kit.                                                                                                                                          |
 | 17:45      | So I also run.                                                                                                                                                           |
@@ -1569,11 +1569,11 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:10:44   | Dave, so you were an automator and pro.                                                                                                                                  |
 | 01:10:46   | You've been doing this a long time.                                                                                                                                      |
 | 01:10:47   | I know you do AppleScript, we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
-| 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that Apple's been                                                                                      |
+| 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that [[Apple|\Apple's]] been                                                                                      |
 | 01:10:56   | pushing now for a few years.                                                                                                                                             |
 | 01:10:58   | What do you think about it and where are you using it?                                                                                                                   |
 | 01:11:01   | Oh, I love shortcuts.                                                                                                                                                    |
-| 01:11:02   | I loved it when it was workflow before Apple picked it up and I still think the way those                                                                                |
+| 01:11:02   | I loved it when it was workflow before [[Apple]] picked it up and I still think the way those                                                                                |
 | 01:11:07   | guys figured out how to leverage the things that were publicly available in iOS to do the                                                                                |
 | 01:11:13   | magic that they do is like they deserve all the success and credit that they've had.                                                                                     |
 | 01:11:18   | Oh, yeah, totally.                                                                                                                                                       |

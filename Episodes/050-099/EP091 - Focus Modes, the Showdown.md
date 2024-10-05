@@ -104,7 +104,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 02:56      | Because in the past, like, I would not turn on, well, I would turn on do not disturb but                |
 | 03:01      | on podcasting.                                                                                          |
 | 03:02      | But it was always a, this harrowing thing because like, what if we're interviewing someone              |
-| 03:07      | from Apple and Steven's texting me about the question we should ask, but it's getting kicked            |
+| 03:07      | from [[Apple]] and Steven's texting me about the question we should ask, but it's getting kicked            |
 | 03:12      | back to him with do not disturb because, you know, that that's what happens when you turn               |
 | 03:17      | on something, which is a much of a blunt instrument is do not disturb and focus mode gives you          |
 | 03:23      | a lot more granularity and it is way better.                                                            |
@@ -172,7 +172,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 07:53      | We're going to get to that in a minute, but I think the overall statement I want to say                 |
 | 07:57      | about focus mode is that it really works.                                                               |
 | 08:00      | Yes.                                                                                                    |
-| 08:01      | You know, sometimes Apple does release half baked features where it was like some idea                  |
+| 08:01      | You know, sometimes [[Apple]] does release half baked features where it was like some idea                  |
 | 08:05      | that didn't get really completed or all the, you know, dots didn't get connected.                       |
 | 08:11      | Focus mode largely is a complete feature and impressively it's a complete feature on all                |
 | 08:18      | of the platforms.                                                                                       |
@@ -222,7 +222,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 11:28      | But yeah, that is, you know, something that then, you know, you can, you can just do.                   |
 | 11:35      | So there's arguments for and against, but I think it's pretty much all in favor of for                  |
 | 11:39      | syncing across your devices.                                                                            |
-| 11:42      | And also another point about focus mode is this is a feature that only Apple could bring.               |
+| 11:42      | And also another point about focus mode is this is a feature that only [[Apple]] could bring.               |
 | 11:47      | Third-party apps don't have this power.                                                                 |
 | 11:50      | Basecamp famously was one of the early kind of web-based collaborative apps that put in                 |
 | 11:55      | a downtime like feature in the app where they would put a thing in like after five o'clock.             |
@@ -232,8 +232,8 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 12:13      | should not be interrupted by work, which I think is a good, good feature.                               |
 | 12:17      | But you couldn't do that across all these apps and with the notification system and                     |
 | 12:22      | everything else on the, the iPhone, iPad and Mac, there's just no way to like universally               |
-| 12:28      | block that stuff unless it comes from Apple.                                                            |
-| 12:31      | So Apple had to do this and they've done a really good job.                                             |
+| 12:28      | block that stuff unless it comes from [[Apple]].                                                            |
+| 12:31      | So [[Apple]] had to do this and they've done a really good job.                                             |
 | 12:35      | I mean, this is like that Basecamp feature, but it's across all of your apps or all the                 |
 | 12:39      | apps you choose for it to be and across all of the people, except the people you choose                 |
 | 12:44      | to allow.                                                                                               |
@@ -248,7 +248,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 13:12      | I think it is one of those things that once you get started figuring this out, you'll                   |
 | 13:16      | quickly see other applications where you could use it.                                                  |
 | 13:19      | There's one tiny little thing that I have to mention, David, because I would really,                    |
-| 13:23      | really, really like Apple to fix this.                                                                  |
+| 13:23      | really, really like [[Apple]] to fix this.                                                                  |
 | 13:26      | And I have filed feedback on this to be clear.                                                          |
 | 13:29      | And I'm sure the people have as well.                                                                   |
 | 13:30      | By default, if you allow notifications from an application, then you allow notifications                |
@@ -473,7 +473,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 27:17      | which then cover all of Disney.                                                                         |
 | 27:19      | It might be a bit tricky, but I think you can probably do it with a bit of research to                  |
 | 27:24      | find the addresses of multiple places.                                                                  |
-| 27:27      | That said, Apple, you let us have the ever-increasing circle in Find My, where we can set up large      |
+| 27:27      | That said, [[Apple]], you let us have the ever-increasing circle in Find My, where we can set up large      |
 | 27:35      | circles for locations of people to be notified.                                                         |
 | 27:38      | It would be really nice if we could just increase the circle in focus modes as well.                    |
 | 27:43      | Feels like that's something they maybe didn't anticipate, large working areas, but I'm                  |
@@ -552,7 +552,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 32:35      | And then you could also run a time-based automation to just say turn off focus mode.                    |
 | 32:41      | When you set the focus mode up, it gives you the ability to say, like, leave it on for                  |
 | 32:45      | an hour or until I leave this location.                                                                 |
-| 32:48      | So there's a lot of different ways Apple goes about helping you out with this, but that                 |
+| 32:48      | So there's a lot of different ways [[Apple]] goes about helping you out with this, but that                 |
 | 32:52      | is something you need to be aware of, that if you get into focus modes, make sure you've                |
 | 32:57      | got a way to remind you.                                                                                |
 | 33:00      | And honestly, the phone makes it so easy, because the lock screen of the phone shows                    |
@@ -688,7 +688,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 40:48      | know, there's a lot of ways to trigger it.                                                              |
 | 40:50      | And I think that's the point we're making.                                                              |
 | 40:52      | And whether you want to push a button like me, whether you want to have a trigger automatically,        |
-| 40:57      | these focus modes, Apple has come up with a lot of solutions.                                           |
+| 40:57      | these focus modes, [[Apple]] has come up with a lot of solutions.                                           |
 | 41:01      | I am very curious for myself personally, now that I'm going to put this bait on my phone,               |
 | 41:06      | it'll be more, it'll be sooner than I thought.                                                          |
 | 41:09      | The ability to trigger the shortcut rather than from the menu item in my dock, but by                   |
@@ -855,13 +855,13 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 51:28      | Yeah.                                                                                                   |
 | 51:29      | I also have a bonus hidden feature or fact for people that the briefcase that they use                  |
 | 51:36      | for the focus mode icon is not the San Francisco symbol for the briefcase.                              |
-| 51:43      | All of the other symbols are San Francisco symbols from Apple's San Francisco symbol                    |
+| 51:43      | All of the other symbols are San Francisco symbols from [[Apple|Apple's]] San Francisco symbol                    |
 | 51:47      | font.                                                                                                   |
 | 51:49      | But that one isn't for whatever reason.                                                                 |
 | 51:51      | I don't know why that particular one isn't, but there we go.                                            |
 | 51:56      | It would be really nice to have a lot more icons, I have to say, but equally, I'm okay                  |
 | 52:02      | with it.                                                                                                |
-| 52:03      | And Apple has [[SF Symbols]].                                                                               |
+| 52:03      | And [[Apple]] has [[SF Symbols]].                                                                               |
 | 52:04      | They have a font family of symbols.                                                                     |
 | 52:06      | So it's like, they don't even have to make them again.                                                  |
 | 52:09      | Just click more boxes.                                                                                  |
@@ -1006,7 +1006,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:01:13   | One of the things that you realised earlier, David, with you, you made me realise earlier,              |
 | 01:01:18   | sorry, with your Disneyland podcast, is I have a fitness focus mode.                                    |
 | 01:01:23   | And this is one of the, I don't think it's a default one, but it's one of those sort                    |
-| 01:01:28   | of recommended ones that Apple will let you set up.                                                     |
+| 01:01:28   | of recommended ones that [[Apple]] will let you set up.                                                     |
 | 01:01:32   | And the fitness focus mode, I've just added the location of my ballet studio to it.                     |
 | 01:01:38   | Because whenever I go to my ballet studio, I'm only going there for ballet.                             |
 | 01:01:41   | I don't go there for anything else.                                                                     |
@@ -1082,7 +1082,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:05:57   | I've got the [[Apple Books]] app.                                                                           |
 | 01:05:58   | Do you know the [[Apple Books]] app does not have a widget?                                                 |
 | 01:06:01   | How crazy is that?                                                                                      |
-| 01:06:02   | Apple, Apple makes the [[Apple Books]] app, it does not have a widget.                                      |
+| 01:06:02   | [[Apple]], [[Apple]] makes the [[Apple Books]] app, it does not have a widget.                                      |
 | 01:06:06   | And then I've got a widget for reader, although I don't, you really use reading mode and reader         |
 | 01:06:13   | that often, my RSS stuff, but the main thing I do with this, the screen is Kindle.                      |
 | 01:06:19   | And then I take a lot of notes on books I read.                                                         |
@@ -1262,7 +1262,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 01:16:19   | medium sized widget, but it gives me hourly weather. So if I get rain coming in or whatever             |
 | 01:16:25   | battery status really matters when you're there because you're burning up a lot of                      |
 | 01:16:31   | battery, you take pictures and all that.                                                                |
-| 01:16:33   | And with the Apple, I even have the Apple magnetic battery.                                             |
+| 01:16:33   | And with the [[Apple]], I even have the [[Apple]] magnetic battery.                                             |
 | 01:16:36   | I wanted to see what the status of that is when I plug it in.                                           |
 | 01:16:39   | So I have the small size battery widget that shows me the status of my watch phone and                  |
 | 01:16:44   | battery. I've got again, the clock widget, which is weird, right?                                       |

@@ -81,7 +81,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 00:26      | Good to be here.                                                                                              |
 | 00:27      | Yeah.                                                                                                         |
 | 00:28      | Paul is the, I think I would call it the chief mugwump and broom pusher over at [[Rogue Amoeba]].             |
-| 00:37      | In my opinion, the best audio software company out there in the Apple ecosystem.                              |
+| 00:37      | In my opinion, the best audio software company out there in the [[Apple]] ecosystem.                              |
 | 00:43      | You guys make a lot of applications, including [[Audio Hijack]], which I'm using at this very                 |
 | 00:47      | moment to record this very show.                                                                              |
 | 00:50      | Excellent.                                                                                                    |
@@ -101,7 +101,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 01:37      | Yeah, absolutely.                                                                                             |
 | 01:39      | As you said, we've been around a long time.                                                                   |
 | 01:40      | It's almost 22 years now, and we've seen some changes in terms of how automation works                        |
-| 01:45      | on Apple's platforms and tried to adapt to those.                                                             |
+| 01:45      | on [[Apple|Apple's]] platforms and tried to adapt to those.                                                             |
 | 01:49      | Paul, one thing I've never had a chance to ask you is, how is it that you got into this                       |
 | 01:56      | audio specialty?                                                                                              |
 | 01:59      | What was it that led you down the road to learn so much about the Mac's audio systems?                        |
@@ -126,7 +126,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 03:17      | well, this is silly.                                                                                          |
 | 03:18      | This is clearly something that our users can use, a huge percentage of our existing users                     |
 | 03:22      | can use, and so we said, all right, let's make an audio editor, and we made [[Fission]].                      |
-| 03:28      | We had the ability to capture any audio, and so in the mid-2000s, when Apple had the [[AirPort Express]], |
+| 03:28      | We had the ability to capture any audio, and so in the mid-2000s, when [[Apple]] had the [[AirPort Express]], |
 | 03:34      | people said, oh, I want to stream audio to the [[AirPort Express]], and what eventually                       |
 | 03:38      | became [[AirTunes]] and [[AirPlay]] on dozens, hundreds of devices, and we said, all right, well,             |
 | 03:43      | we have half of that equation, we have the audio capture part, so you can take audio                          |
@@ -238,7 +238,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 11:44      | we need to make.                                                                                              |
 | 11:45      | So at this point in 2024, we're in a weird place with automation, you know, historically                      |
 | 11:51      | [[AppleScript]] was the best place to automate, but it only worked on the Mac.                                   |
-| 11:56      | Now Apple, of course, is not just the Mac company, it's the iPhone company, and kind                          |
+| 11:56      | Now [[Apple]], of course, is not just the Mac company, it's the iPhone company, and kind                          |
 | 12:02      | of the Mac company, and they've got new automation platforms like [[Shortcuts]], there's a lot of                 |
 | 12:08      | people doing stuff with [[JavaScript]].                                                                           |
 | 12:11      | As a developer and you look at this climate, what are the automation platforms that are                       |
@@ -249,7 +249,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 12:31      | used it, great, and nothing really needed to change too much, but [[AppleScript]] sort                           |
 | 12:35      | of withered and pretty much died at this point.                                                               |
 | 12:40      | Over the, maybe, you know, into the 2010s, 2015 or so, up till that point, automation                         |
-| 12:46      | was, you know, in a pretty dark place where it was not on the Mac and on Apple's platforms                    |
+| 12:46      | was, you know, in a pretty dark place where it was not on the Mac and on [[Apple|Apple's]] platforms                    |
 | 12:51      | where it just wasn't well supported, and so something like [[Shortcuts]] is, that's certainly                     |
 | 12:56      | the, to us, the most, how do I want to put it, it's certainly the most accessible for                         |
 | 13:02      | users.                                                                                                        |
@@ -278,20 +278,20 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 14:42      | is in [[Audio Hijack]], it's in [[SoundSource]], it's in [[Farrago]], our soundboard app, and probably                |
 | 14:48      | in more apps in the future because that is so much more accessible to people.                                 |
 | 14:52      | Could you summarise for the listeners, because, you know, a lot of our listeners are automation               |
-| 14:57      | enthusiasts, but not necessarily programmers, but Apple's kind of taking you guys, you developers             |
+| 14:57      | enthusiasts, but not necessarily programmers, but [[Apple|Apple's]] kind of taking you guys, you developers             |
 | 15:03      | on a journey in terms of [[Shortcuts]] integration, can you talk through kind of the various phases               |
 | 15:08      | we've been through and where we are now?                                                                      |
 | 15:11      | Yeah, well, just in terms of [[Shortcuts]] or in terms of all automation?                                         |
 | 15:15      | Well, let's focus on [[Shortcuts]], and I think that's one that a lot of people are interested                    |
 | 15:18      | in, and I guess the point I'm making, I'm just to kind of cheat and tell everybody,                           |
-| 15:23      | it feels to me like it's been hard for developers, because Apple's changed the narrative a bit                |
+| 15:23      | it feels to me like it's been hard for developers, because [[Apple|Apple's]] changed the narrative a bit                |
 | 15:28      | on how to implement them, and like time you put in on this three years ago was probably                       |
 | 15:33      | not that valuable at this point, and you've got to kind of, it seems like every couple                        |
 | 15:37      | of years they changed the integration with [[Shortcuts]].                                                         |
 | 15:42      | For us, it's something where for a long time we have sort of taken it slow with any new                       |
-| 15:47      | thing that Apple does, and I don't know how much, you know, if listeners have looked at                       |
+| 15:47      | thing that [[Apple]] does, and I don't know how much, you know, if listeners have looked at                       |
 | 15:52      | apps over the years and seen things like the Apple Design Awards, the Apple Design Awards                     |
-| 15:58      | often have a category for whatever the new technology that Apple is pushing is.                               |
+| 15:58      | often have a category for whatever the new technology that [[Apple]] is pushing is.                               |
 | 16:03      | So it'll be best new app written in [[Swift]] or best [[Shortcuts]] support in an app the very                        |
 | 16:09      | first year that they announced [[Shortcuts]] support.                                                             |
 | 16:12      | And that's great, it gets you great publicity, and there are developers out there who move                    |
@@ -305,11 +305,11 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 16:51      | implementing it.                                                                                              |
 | 16:52      | So I don't know that we have had the experience of needing to re-implement too much of it,                    |
 | 16:56      | but it is certainly something that we see both with that and with a lot of technologies                       |
-| 16:59      | that Apple introduces.                                                                                        |
+| 16:59      | that [[Apple]] introduces.                                                                                        |
 | 17:02      | Well, I'd like to brag about one of your implementations because I love what you guys have done with          |
 | 17:08      | [[SoundSource]].                                                                                                  |
 | 17:09      | So just for the audience who haven't, are familiar with this app, it's a Mac app, it                          |
-| 17:13      | works out of your menu bar, and it is the sound controller that Apple's [[Control Centre]]                         |
+| 17:13      | works out of your menu bar, and it is the sound controller that [[Apple|Apple's]] [[Control Centre]]                         |
 | 17:20      | should have had, honestly, in my opinion.                                                                     |
 | 17:23      | It's like, it gives you minute and granular control over all the way audio comes in and                       |
 | 17:28      | out of your device.                                                                                           |
@@ -386,12 +386,12 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 21:56      | that it's just going to do all sound effects through the speakers, because why not?                           |
 | 22:02      | And getting to that control is not easy, as [[SoundSource]] just puts it right in front of                        |
 | 22:06      | you.                                                                                                          |
-| 22:07      | Yeah, I always wonder, like, when you see something like this, how come Apple doesn't                         |
+| 22:07      | Yeah, I always wonder, like, when you see something like this, how come [[Apple]] doesn't                         |
 | 22:13      | spend more time, you know, on their controls, because this is, I mean, you guys, I'm sure                     |
 | 22:19      | there's a lot of audio programming involved with this, because you're rerouting.                              |
 | 22:24      | But there's also a delightful bit of user interface here that, you know, the vendor                           |
 | 22:31      | didn't do.                                                                                                    |
-| 22:32      | Like, you know, Apple didn't make it nice like this.                                                          |
+| 22:32      | Like, you know, [[Apple]] didn't make it nice like this.                                                          |
 | 22:35      | And it's just, well, you know, I guess it gives you a market.                                                 |
 | 22:39      | I was going to say, don't talk them into it, you know, it's certainly, I don't know, it's                     |
 | 22:46      | a huge platform, and it's a huge, how many platforms do they have now, you know, a half                       |
@@ -410,19 +410,19 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 23:36      | and the way you guys do and constantly revisit, you know, it just doesn't happen.                             |
 | 23:41      | And that's nice.                                                                                              |
 | 23:45      | This episode of The Automators is brought to you by ScreenCastsOnline.                                        |
-| 23:49      | Get the most out of your Apple devices and save 20% on your plan.                                             |
+| 23:49      | Get the most out of your [[Apple]] devices and save 20% on your plan.                                             |
 | 23:53      | Just go to screencastsonline.com/automators.                                                                  |
-| 23:58      | We love our Apple devices for their innovation and style, but it can be hard to keep up with                  |
+| 23:58      | We love our [[Apple]] devices for their innovation and style, but it can be hard to keep up with                  |
 | 24:04      | the ever-evolving world of apps and services.                                                                 |
 | 24:07      | ScreenCastsOnline is on hand to help.                                                                         |
 | 24:10      | They've been providing video tutorials for 19 years, so you can unlock the full potential                     |
-| 24:15      | of your Apple hardware.                                                                                       |
+| 24:15      | of your [[Apple]] hardware.                                                                                       |
 | 24:17      | ScreenCastsOnline is for everyone, regardless of skill level.                                                 |
 | 24:21      | Each tutorial is designed for maximum learning and minimal time.                                              |
 | 24:25      | So stop struggling with unfamiliar programs and unlock access to all their existing content,                  |
 | 24:31      | from new releases to old favourites, all without breaking a sweat.                                            |
 | 24:35      | So how does it work?                                                                                          |
-| 24:37      | Each week, ScreenCastsOnline publishes a 30- to 40-minute Apple-related video tutorial,                       |
+| 24:37      | Each week, ScreenCastsOnline publishes a 30- to 40-minute [[Apple]]-related video tutorial,                       |
 | 24:43      | as well as a shorter 10- to 15-minute tip video that gets added to its ever-expanding                         |
 | 24:48      | library of over 1,300 tutorials.                                                                              |
 | 24:51      | As a member, you have access to the whole archive, which you can access through the ScreenCast                |
@@ -529,17 +529,17 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 30:36      | You know, just, just a few minutes ago, we were talking, I was saying that there was                          |
 | 30:38      | this dark period where [[AppleScript]] was pretty much dead and nothing had replaced it.                          |
 | 30:43      | And it seemed, I don't know how much you've talked about it on the show over the years,                       |
-| 30:47      | but it seemed to me like that Apple didn't really care that much about automation until                       |
+| 30:47      | but it seemed to me like that [[Apple]] didn't really care that much about automation until                       |
 | 30:52      | they bought the [[Workflow]] and [[Workflow]] and, and turned it into [[Shortcuts]] and then brought                      |
 | 30:57      | that to the Mac that really sort of revitalised things.                                                       |
 | 31:00      | And it certainly revitalised things for us where we said, oh, you know what, this is,                         |
-| 31:05      | this shows us that Apple cares, it shows us that they are interested in supporting this                       |
+| 31:05      | this shows us that [[Apple]] cares, it shows us that they are interested in supporting this                       |
 | 31:08      | sort of automation and users have always cared.                                                               |
 | 31:11      | But when it wasn't, when there just wasn't a good way to do it, then there wasn't a good                      |
 | 31:14      | way to do it.                                                                                                 |
 | 31:15      | But when the underpinnings are put back into the OS with [[Shortcuts]], it's something where                      |
 | 31:21      | I feel, you know, I feel good about it for the future.                                                        |
-| 31:23      | I feel like there's a good future for this and Apple has put a pretty good, pretty user                       |
+| 31:23      | I feel like there's a good future for this and [[Apple]] has put a pretty good, pretty user                       |
 | 31:28      | accessible face on this and we can extend that with our own apps.                                             |
 | 31:32      | Yeah.                                                                                                         |
 | 31:33      | I mean, the problem with [[AppleScript]] was always that it was like too, it was too friendly                     |
@@ -560,11 +560,11 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 32:23      | And the fact that they're really building all of these things together and we've seen                         |
 | 32:27      | it year after year, you know, there's something that's available in [[Shortcuts]].                                |
 | 32:30      | They add a new action and people do things with it.                                                           |
-| 32:33      | And then Apple go, oh, that's an idea.                                                                        |
+| 32:33      | And then [[Apple]] go, oh, that's an idea.                                                                        |
 | 32:36      | And the next year, it magically appears in the operating system.                                              |
 | 32:39      | Like the classic one for me is changing your background and your Apple Watch face with                       |
 | 32:42      | your [[Focus Mode]] because they added [[Focus Mode]] triggers.                                                       |
-| 32:45      | People went and did that manually and the next year, Apple were like, we put it into                          |
+| 32:45      | People went and did that manually and the next year, [[Apple]] were like, we put it into                          |
 | 32:49      | [[Focus Mode\|Focus Modes]] for you.                                                                                          |
 | 32:51      | And I feel like that is just such a brilliant way of, you know, really actually finding                       |
 | 32:56      | out what people want.                                                                                         |
@@ -639,7 +639,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 37:10      | So I was doing it, I need to find the name of the tool.                                                       |
 | 37:13      | I was doing it just in the '*na-board*', native keyboard settings, which a lot of people don't                |
 | 37:18      | know about and probably on this show more people know about, but it's, it's definitely                        |
-| 37:23      | a very powerful thing, very powerful part of macOS that is, I don't know how Apple could                      |
+| 37:23      | a very powerful thing, very powerful part of macOS that is, I don't know how [[Apple]] could                      |
 | 37:29      | advertise it better, but it's, it's certainly something, throw it in the tips app or something                |
 | 37:33      | like that because the ability to change your keyboard [[Shortcuts]] and to make keyboard, new                     |
 | 37:37      | keyboard [[Shortcuts]] that run things like scripts makes it very easy to do powerful things with                 |
@@ -727,7 +727,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 42:46      | I, well, I should, I should be clear.                                                                         |
 | 42:48      | So that's, that's, you know, as you said, that's like a vertical pipeline, just a just                        |
 | 42:51      | top to bottom.                                                                                                |
-| 42:53      | [[Audio Hijack]] itself took inspiration from another Apple application called [[Quartz Composer]],                   |
+| 42:53      | [[Audio Hijack]] itself took inspiration from another [[Apple]] application called [[Quartz Composer]],                   |
 | 42:58      | which was part of [[Xcode]].                                                                                      |
 | 43:01      | And so people look that up, they can sort of see that, oh yeah, there's, there's blocks                       |
 | 43:05      | that then it's, it's sort of a pipeline.                                                                      |
@@ -818,7 +818,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 48:19      | now [[Thread]] and [[Matter]] are going to be the way that these things are powered and it'll                         |
 | 48:23      | be a lot more useful for automation.                                                                          |
 | 48:25      | But right now it's good but not as good as it should be, I think.                                             |
-| 48:28      | Yeah, because Apple announced at [[WWDC]] the nearby or Express Mode, I think it is called,                       |
+| 48:28      | Yeah, because [[Apple]] announced at [[WWDC]] the nearby or Express Mode, I think it is called,                       |
 | 48:35      | or iOS 18 for home kit locks, which will need to have, I think, a U1 chip in them.                           |
 | 48:43      | But essentially if you get within six feet of your front door, then it can automatically                      |
 | 48:47      | unlock and to me, six feet is probably about the right range because even if I'm the only                     |
@@ -839,7 +839,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 49:44      | I just haven't got around to it yet, but yeah, it's just one of those things where we're                      |
 | 49:47      | going to have to wait and see what happens there.                                                             |
 | 49:50      | But I think things are definitely improving a lot.                                                            |
-| 49:52      | And the fact that [[Matter]] is a standard where everybody is working together, Apple and Google                  |
+| 49:52      | And the fact that [[Matter]] is a standard where everybody is working together, [[Apple]] and Google                  |
 | 49:57      | and [[Amazon]] and everybody else is, it's going to be a good step forward in getting more                        |
 | 50:04      | hardware that actually works in a standardised way.                                                           |
 | 50:08      | Yeah.                                                                                                         |

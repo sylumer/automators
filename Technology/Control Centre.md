@@ -6,7 +6,7 @@ aliases:
   - Control Center
 ---
 # Overview
-The Control Centre on Apple platforms is a feature that provides quick access to essential settings and controls from anywhere on the device. Introduced on iOS, iPadOS and macOS, Control Centre is designed to streamline commonly used functions, allowing users to adjust settings without having to navigate through multiple menus.
+The Control Centre on [[Apple]] platforms is a feature that provides quick access to essential settings and controls from anywhere on the device. Introduced on iOS, iPadOS and macOS, Control Centre is designed to streamline commonly used functions, allowing users to adjust settings without having to navigate through multiple menus.
 
 When you swipe down from the upper-right corner on an iPhone or iPad, or click the Control Centre icon in the menu bar on a Mac, the Control Centre panel opens, displaying a variety of controls. These controls can include brightness, volume, Wi-Fi, Bluetooth, and other toggles. The layout and content can be customised based on your preferences, and from the 2024 major OS releases, further customisations will be available.
 

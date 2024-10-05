@@ -69,11 +69,11 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 00:26      | It better.                                                                                             |
 | 00:27      | I don't know.                                                                                          |
 | 00:28      | It better.                                                                                             |
-| 00:29      | If it doesn't, I'm going to be very upset because there was an Apple event this week,                  |
+| 00:29      | If it doesn't, I'm going to be very upset because there was an [[Apple]] event this week,                  |
 | 00:34      | and there are lots of new Chinese, including some things that we weren't expecting like                |
 | 00:38      | an iPad, which is apparently a thing.                                                                  |
 | 00:42      | Can I just say, I mean, this show is not about hardware stuff, but the iPad for $329, that             |
-| 00:49      | may be the best deal Apple has.                                                                        |
+| 00:49      | may be the best deal [[Apple]] has.                                                                        |
 | 00:51      | I mean, that is a great iPad for $300.                                                                 |
 | 00:55      | I feel that it is actually relevant to our show because there are a lot of people listening            |
 | 00:59      | and I see a lot of people in the forums who have only got an iPhone, and they're trying                |
@@ -95,7 +95,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:57      | All the stuff that it didn't work with before for me, it's worked for.                                 |
 | 02:01      | I was thinking this is something we can really recommend to non-supergeek friends as they're           |
 | 02:08      | computing device now.                                                                                  |
-| 02:10      | And for $329, they're done, which is really a good deal to get into some Apple hardware.               |
+| 02:10      | And for $329, they're done, which is really a good deal to get into some [[Apple]] hardware.               |
 | 02:16      | So anyway, I didn't mean, I think that's not in the outline, I just kind of fell into that.            |
 | 02:20      | But I do want to talk a little bit about the hardware because it happened this week.                   |
 | 02:25      | You and I were text messaging each other as I was going down, so Rose, what's the damage               |
@@ -191,7 +191,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 06:40      | a 13 release, but it's for an iPad.                                                                    |
 | 06:42      | So what do they do because iPad doesn't get it yet and it's, it's very confusing as to                 |
 | 06:48      | what's happening.                                                                                      |
-| 06:49      | So hopefully Apple is going to guide us through this and it won't be too insane.                       |
+| 06:49      | So hopefully [[Apple]] is going to guide us through this and it won't be too insane.                       |
 | 06:53      | But if it is, then just spend two weeks playing with automations and install the public page           |
 | 06:58      | on your iPad.                                                                                          |
 | 06:59      | Maybe if that's a, if that's a big problem for you.                                                    |
@@ -329,8 +329,8 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 14:29      | amazing app.                                                                                           |
 | 14:30      | You can use it to make this ultimately happen when that does stuff, answer for your relatives          |
 | 14:36      | that they will get and that they can apply and understand because the more people that                 |
-| 14:39      | use this, the more Apple is going to actually give resources to the shortcuts team.                    |
-| 14:44      | And that's what we want at the end of the day, automation to be a key thing at Apple.                  |
+| 14:39      | use this, the more [[Apple]] is going to actually give resources to the shortcuts team.                    |
+| 14:44      | And that's what we want at the end of the day, automation to be a key thing at [[Apple]].                  |
 | 14:48      | You can also point them in my field guide, just saying, right?                                         |
 | 14:51      | Yeah.                                                                                                  |
 | 14:52      | Definitely.                                                                                            |
@@ -549,7 +549,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 26:34      | And I'm finding that to be much more useful as well, because unfortunately, for example,               |
 | 26:38      | the run app shortcut, you can only choose one app.                                                     |
 | 26:41      | So despite the fact that I've got maybe five apps that I want to do the same thing with,               |
-| 26:45      | I have to create five automations, which is a point of improvement for iOS 14, FYI Apple.              |
+| 26:45      | I have to create five automations, which is a point of improvement for iOS 14, FYI [[Apple]].              |
 | 26:50      | I will be sending feedback on this.                                                                    |
 | 26:53      | But at the same time, it's quite useful because then if I decide, actually, I want to change           |
 | 26:57      | this, I feel the 60 seconds is maybe a little too short.                                               |
@@ -588,7 +588,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 29:04      | shortcut.                                                                                              |
 | 29:05      | So I am now super happy.                                                                               |
 | 29:06      | I'm still using the run shortcut though.                                                               |
-| 29:09      | As you can tell, we are playing as we record because yesterday was the Apple announcement,             |
+| 29:09      | As you can tell, we are playing as we record because yesterday was the [[Apple]] announcement,             |
 | 29:15      | but that also meant that there were new betas.                                                         |
 | 29:17      | And I've been trying to find out what actually works again.                                            |
 | 29:20      | And I'm very excited to find out when that one works, so.                                              |
@@ -617,8 +617,8 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 30:53      | So as you're watching the field guide, you can download the shortcut and play along.                   |
 | 30:59      | I found that the easiest way to do it, honestly, I did it manually.                                    |
 | 31:01      | I just sat in front of the TV and pressed the share button.                                            |
-| 31:06      | But then you got to prove it and then I had it, but I had on my iPad and I had an Apple                |
-| 31:11      | Notes document next to it and I've got all those links there so I can just go in and                   |
+| 31:06      | But then you got to prove it and then I had it, but I had on my iPad and I had an [[Apple Notes]]               |
+| 31:11      | document next to it and I've got all those links there so I can just go in and                   |
 | 31:16      | pull anyone I want when I need to access them.                                                         |
 | 31:20      | An interesting thing I noted, Rose, is you can't share the automatic triggers.                         |
 | 31:25      | No, you can't.                                                                                         |
@@ -671,7 +671,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 34:23      | perspective if annoying for us users who would really like to just be like, yeah, this is              |
 | 34:28      | my home network.                                                                                       |
 | 34:29      | If somebody spoofs it, I'll live with the fact that it asks me to stop my time talking.                |
-| 34:36      | Another thing as part of Apple's just overall security push as of late, now if you want                |
+| 34:36      | Another thing as part of [[Apple|Apple's]] just overall security push as of late, now if you want                |
 | 34:41      | to download shortcuts from third parties like the ones Rosa and I will be posting or the               |
 | 34:46      | ones that are in my field guide, you've got to go into the shortcut settings and check                 |
 | 34:51      | the box to allow, I think they call it untrusted shortcuts.                                            |
@@ -829,7 +829,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 43:52      | be able to build their own actions.                                                                    |
 | 43:55      | That's good because it means that we're no longer going to have that massive bottleneck                |
 | 43:59      | that we previously had of if a developer wanted to add an action to shortcuts and they had             |
-| 44:03      | to contact the team over at Apple and say, hey, we have this action.                                   |
+| 44:03      | to contact the team over at [[Apple]] and say, hey, we have this action.                                   |
 | 44:08      | Can you edit shortcuts?                                                                                |
 | 44:09      | Did it approve?                                                                                        |
 | 44:10      | Did it add it?                                                                                         |
@@ -882,7 +882,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 47:17      | I do think that URL shortcuts are not going away in the next year, I think we're going                 |
 | 47:21      | to be fine.                                                                                            |
 | 47:22      | In fact, I included a URL shortcut explanation and video and in the new field guide.                   |
-| 47:27      | But I also think that Apple's counting on developers to really kind of step up and create              |
+| 47:27      | But I also think that [[Apple|Apple's]] counting on developers to really kind of step up and create              |
 | 47:34      | the automations.                                                                                       |
 | 47:35      | I think for a lot of people, the URL shortcuts are kind of a block, they have trouble or like,         |
 | 47:40      | you have to go to a website and you have to figure out how to structure it.                            |
@@ -929,14 +929,14 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 50:10      | And that will inspire them to hopefully go put the time in to make those.                              |
 | 50:14      | And like I said, I'm sure we're good for a year.                                                       |
 | 50:18      | I mean, I'm not sure.                                                                                  |
-| 50:19      | I don't know what's going on inside Apple, but I would suspect we're good for at least                 |
+| 50:19      | I don't know what's going on inside [[Apple]], but I would suspect we're good for at least                 |
 | 50:22      | a year on this.                                                                                        |
 | 50:24      | But I don't think we should be just sitting back assuming that [[URL Schemes]] are going to                |
 | 50:27      | be there forever.                                                                                      |
 | 50:28      | So if you're using them, you know, start talking to your developers now and hopefully                  |
-| 50:36      | getting them on the track of getting you away from the [[URL Schemes\|URL scheme]] in case Apple ever pulls             |
+| 50:36      | getting them on the track of getting you away from the [[URL Schemes\|URL scheme]] in case [[Apple]] ever pulls             |
 | 50:41      | the rug on that.                                                                                       |
-| 50:42      | And even if Apple doesn't pull the rug on it, you know, how many more people may end                   |
+| 50:42      | And even if [[Apple]] doesn't pull the rug on it, you know, how many more people may end                   |
 | 50:46      | up using this application because it turns out that there is a great automated way that                |
 | 50:50      | they can, I don't know, add a list that they can add packing items to that they want to                |
 | 50:56      | pack for their next trip, not that I've been battling with this problem at all recently.               |
@@ -1072,7 +1072,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 58:36      | The other thing you do, I do with this is the, I have in the bottom dock, I have four                  |
 | 58:42      | apps, you know, actually I have three apps I have.                                                     |
 | 58:45      | Right now, calendar, I was, I'm jumping between fantastic calendar and calendar.                       |
-| 58:49      | Always during the beta I try to use the Apple native stuff.                                            |
+| 58:49      | Always during the beta I try to use the [[Apple]] native stuff.                                            |
 | 58:52      | But I've got calendar right now and I've got OmniFocus and I'm trying to do more with                  |
 | 58:57      | Apple Notes because that's also something that got a lot of improvement with this new                  |
 | 59:00      | one.                                                                                                   |
@@ -1324,7 +1324,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:13:08   | being forwarded rather than one-off requests, but they intend to go through all of it.                 |
 | 01:13:14   | I just have had to stay intent to go through all of that feedback, it gives me the good                |
 | 01:13:19   | feels.                                                                                                 |
-| 01:13:20   | And I know that Apple's watching how much this gets used and I think the future of                     |
+| 01:13:20   | And I know that [[Apple|Apple's]] watching how much this gets used and I think the future of                     |
 | 01:13:25   | shortcuts is partly dependent on user usage, so everybody needs to be trying this out.                 |
 | 01:13:32   | As Rose said earlier in the show, you can build shortcuts for grandma.                                 |
 | 01:13:38   | Grandma may not want to buy the field guide and figure all this stuff out herself, but                 |

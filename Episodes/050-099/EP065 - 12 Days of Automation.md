@@ -393,7 +393,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 17:40      | I know Wemo do some, but of course they are understandably a bit more pricey.                            |
 | 17:44      | But I'm finding that there are a lot of newcomers in the home kit market actually right now,             |
 | 17:48      | which are producing things at more affordable prices.                                                    |
-| 17:51      | I think Apple's requirement of secure self-wear rather than a specific chip in their devices             |
+| 17:51      | I think [[Apple|Apple's]] requirement of secure self-wear rather than a specific chip in their devices             |
 | 17:57      | is definitely making more manufacturers jump on board.                                                   |
 | 18:00      | And the way I'm doing this one is actually I run the cord for the lights from the garage                 |
 | 18:06      | to just under the garage door.                                                                           |
@@ -949,7 +949,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 48:23      | I have six rooms to put HomePods in and I've got, I nearly have a HomePod for each                     |
 | 48:27      | room.                                                                                                    |
 | 48:28      | I'm currently missing the hallway in the bathroom, the bedroom, I believe is being dispatched            |
-| 48:32      | at the moment because shortly before we started recording, Apple billed me so that HomePod              |
+| 48:32      | at the moment because shortly before we started recording, [[Apple]] billed me so that HomePod              |
 | 48:37      | mini is on the way.                                                                                      |
 | 48:38      | All right.                                                                                               |
 | 48:39      | Good.                                                                                                    |
@@ -961,12 +961,12 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 48:45      | Yeah.                                                                                                    |
 | 48:46      | I'm pleased with that.                                                                                   |
 | 48:47      | I'm used to the, to the big one, but you know, but you know, it really is a thing.                       |
-| 48:50      | If you're into the Apple ecosystem, that's the one you want.                                             |
+| 48:50      | If you're into the [[Apple]] ecosystem, that's the one you want.                                             |
 | 48:53      | If you want to, you don't need something with a super great speaker, but you know, you want              |
 | 48:57      | to spend a hundred bucks.                                                                                |
 | 48:58      | I mean, all these people are like putting themselves in knots over, do I get the, you                    |
 | 49:03      | know, do I get the one from [[Amazon]]?                                                                      |
-| 49:04      | Do I get the one from Apple?                                                                             |
+| 49:04      | Do I get the one from [[Apple]]?                                                                             |
 | 49:05      | It just depends on what ecosystem you're in.                                                             |
 | 49:07      | That's all.                                                                                              |
 | 49:08      | Yeah.                                                                                                    |
@@ -1032,7 +1032,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 52:51      | So if you want to like power up Apple Mail, that's what I would recommend using.                         |
 | 52:57      | Mail act on in particular allows you to do some more stuff with mail rules that you wouldn't             |
 | 53:02      | otherwise be able to do, like apply to outgoing and doing some other stuff.                              |
-| 53:05      | But yeah, I, I get where you're coming from, part of me wishes Apple would just put those,               |
+| 53:05      | But yeah, I, I get where you're coming from, part of me wishes [[Apple]] would just put those,               |
 | 53:10      | all those powerful rules in the cloud, but also part of me acknowledges that they will                   |
 | 53:15      | just never do that.                                                                                      |
 | 53:16      | I just don't think that's ever going to happen.                                                          |
@@ -1481,7 +1481,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:17:40   | Once again, go to setup.com to see how it fits with your workflow.                                       |
 | 01:17:43   | Now thanks to Setup for their support of the show and all of Relay FM.                                  |
 | 01:17:47   | All right.                                                                                               |
-| 01:17:49   | So Apple has now made a new Mac based on Apple Silicon as opposed to Intel chips.                        |
+| 01:17:49   | So [[Apple]] has now made a new Mac based on Apple Silicon as opposed to Intel chips.                        |
 | 01:17:55   | And Rose is the smart one.                                                                               |
 | 01:17:57   | She didn't buy one.                                                                                      |
 | 01:17:58   | She's waiting for next year's version.                                                                   |
@@ -1513,7 +1513,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:19:16   | gung-ho about it, or they'll be willing to upgrade again and I could get a great deal.                   |
 | 01:19:20   | Yeah.                                                                                                    |
 | 01:19:21   | Well, it is, I mean, this is the entry level and it's crazy.                                             |
-| 01:19:25   | And every time I talk about it on a podcast, I sound like an Apple fanboy, but I mean,                   |
+| 01:19:25   | And every time I talk about it on a podcast, I sound like an [[Apple]] fanboy, but I mean,                   |
 | 01:19:30   | it's just so rare to see a computer improve so drastically, so quickly, and it is, it's                  |
 | 01:19:36   | remarkable.                                                                                              |
 | 01:19:37   | But we've had a lot of questions from automators listeners about, you know, what does that               |
@@ -1556,7 +1556,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:21:42   | So I was disappointed here.                                                                              |
 | 01:21:43   | It wasn't going to work.                                                                                 |
 | 01:21:44   | And then [[SwiftBar]] is out, which solves that problem.                                                     |
-| 01:21:49   | And some of this is, you know, thanks to changes that Apple have made with Big Sur.                      |
+| 01:21:49   | And some of this is, you know, thanks to changes that [[Apple]] have made with Big Sur.                      |
 | 01:21:53   | So for example, [[Hazel]] needed a new version because it can't be a preference pane anymore.                |
 | 01:21:57   | It needs to be a standalone application.                                                                 |
 | 01:22:01   | And there's a whole bunch of different things in there.                                                  |
@@ -1588,7 +1588,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:23:03   | because, you know, it would be nice to have that.                                                        |
 | 01:23:05   | But at the same time, I'm doing all right with what I've got.                                            |
 | 01:23:07   | And so I'm going to hold off for a little bit and wait and see.                                          |
-| 01:23:10   | We had an Apple executive Mac Power users and one of the things he talked about is like,                 |
+| 01:23:10   | We had an [[Apple]] executive Mac Power users and one of the things he talked about is like,                 |
 | 01:23:13   | they have the ability to walk down the hall to the hardware team and say like, there's                   |
 | 01:23:18   | this thing we do with our app that would could really use hardware acceleration.                         |
 | 01:23:24   | And they can write it onto the chip because guess what?                                                  |
@@ -1675,7 +1675,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:28:17   | day job or whatever it is that you do on the Mac, then of course you're going to have to                 |
 | 01:28:20   | check those out.                                                                                         |
 | 01:28:21   | I think for most people, you know, for people who are doing, you know, I would say less                  |
-| 01:28:27   | non-Apple development work than they'll probably be fine, but it of course depends, you know,            |
+| 01:28:27   | non-[[Apple]] development work than they'll probably be fine, but it of course depends, you know,            |
 | 01:28:32   | you have to take that with a pinch of salt and do your own research, but I'm very excited                |
 | 01:28:36   | to see what comes out of this.                                                                           |
 | 01:28:38   | Me too.                                                                                                  |

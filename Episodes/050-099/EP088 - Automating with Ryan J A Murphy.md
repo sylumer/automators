@@ -1015,9 +1015,9 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 53:55      | come with a notification of my dad just added 50,000 photos, go check it out.                          |
 | 54:00      | Fortunately, he's not adding so many anymore.                                                          |
 | 54:03      | Although I would say those shared libraries are, I realise it's not really automation,                 |
-| 54:07      | but that is a really good solution for this problem if you have a family in the Apple                  |
+| 54:07      | but that is a really good solution for this problem if you have a family in the [[Apple]]                  |
 | 54:12      | ecosystem, and that kind of just solves the problem, you save it to the shared library                 |
-| 54:17      | and then everybody gets it, even the rudimentary commenting system Apple has put in place is           |
+| 54:17      | and then everybody gets it, even the rudimentary commenting system [[Apple]] has put in place is           |
 | 54:22      | iPhone good enough.                                                                                    |
 | 54:25      | Yeah, it's on my to-do list to figure it out, because we're going to be doing this for a               |
 | 54:30      | long time.                                                                                             |
@@ -1050,7 +1050,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 55:42      | Yeah.                                                                                                  |
 | 55:43      | No, that's a great question.                                                                           |
 | 55:45      | I mean, I'm curious about other people's solutions to the photo sharing thing because                  |
-| 55:49      | not everybody in our family is on Apple devices.                                                       |
+| 55:49      | not everybody in our family is on [[Apple]] devices.                                                       |
 | 55:53      | I mean, I did just look at that actually, Ryan, because I was curious, and it does say                 |
 | 55:57      | actually here, you can even share albums with friends and family who don't use iCloud.                 |
 | 56:02      | Just open the shared album you created, go to the people tab, and turn on public website.              |
@@ -1239,7 +1239,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 01:05:54   | This comes from the word or the phrase augmented intelligence comes from, I think it was Doug          |
 | 01:05:58   | Engelbart, one of the founding people of computing.                                                 |
 | 01:06:03   | He sat at Xerox park.                                                                                |
-| 01:06:04   | He came up with a lot of the ideas that Apple ended up adopting into its early operating               |
+| 01:06:04   | He came up with a lot of the ideas that [[Apple]] ended up adopting into its early operating               |
 | 01:06:07   | systems and made the computer what it is today.                                                        |
 | 01:06:11   | So Doug was really excited about this idea of augmented intelligence.                                  |
 | 01:06:14   | How computers shouldn't just be these like rote convenience tools, but they should help                |

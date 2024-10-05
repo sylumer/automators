@@ -105,7 +105,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 04:56      | shortcuts because one of the changes now is you cannot install shortcuts from a file, you need          |
 | 05:01      | to install it from an iCloud link. Yeah. Yeah, there's a lot of changes. And that's why we're           |
 | 05:08      | here today to talk about shortcuts. And the first thing I would mention is that the name has changed.   |
-| 05:14      | It used to always be called Siri Shortcuts and everything Apple published. And I noticed like           |
+| 05:14      | It used to always be called Siri Shortcuts and everything [[Apple]] published. And I noticed like           |
 | 05:19      | watching the [[WWDC]] sessions, now they're just calling it Shortcuts. Yes. And I think this is             |
 | 05:27      | because there was a little bit of confusion going on because there were Siri Shortcuts in the settings  |
 | 05:34      | and then there was the Shortcuts application. And it was never clear exactly, at least to me,           |
@@ -113,7 +113,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 05:44      | app was Shortcuts and then the ones in the settings were Siri Shortcuts. But now it's just              |
 | 05:49      | Shortcuts and everything is in one place in the Shortcuts application, which makes my life              |
 | 05:54      | so much easier. Yeah. And the reason why this got us excited at [[WWDC]], the reason it's getting a         |
-| 06:00      | whole show during the beta is that this is not your usual update. Often when Apple makes something      |
+| 06:00      | whole show during the beta is that this is not your usual update. Often when [[Apple]] makes something      |
 | 06:07      | new and shiny, they move resources around and it gets a nice big update and then it gets                |
 | 06:13      | smaller incremental updates in the years following, if at all. And in this case, the new version of     |
 | 06:20      | Shortcuts is fundamentally different than the iOS 12 version of Shortcuts. Yes, it is. And that's       |
@@ -123,7 +123,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 06:48      | it's fully rooted. And now it's an application that ships on every device. So no longer do you          |
 | 06:54      | have to go to the App Store and download it. And it's got even more connections as we're going to       |
 | 06:59      | talk in the show between triggers and actions and things you can do from within the operating system    |
-| 07:05      | we're fully benefiting from the fact that it's an internal Apple product now. They redesigned the       |
+| 07:05      | we're fully benefiting from the fact that it's an internal [[Apple]] product now. They redesigned the       |
 | 07:10      | user interface. It's got a new look and feel that's superior. It's got an entirely new programming      |
 | 07:17      | model. We're going to talk about that later. And it's just more powerful, but it's also easier to       |
 | 07:23      | use. They really walk the line here. And in fact, it's so different, Rose. When I was at                |
@@ -134,7 +134,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 07:49      | because all the stuff I did last year really doesn't apply anymore with this new system.                |
 | 07:54      | And if you bought the old one, I'm going to give you a discount on it. But I've got a three-month       |
 | 07:58      | project ahead of me in order to explain this. And it's that different. And it's just kind of            |
-| 08:04      | remarkable that Apple made something brand new last year. And this year, they made something            |
+| 08:04      | remarkable that [[Apple]] made something brand new last year. And this year, they made something            |
 | 08:09      | brand new again. And I think both of us would agree that, except for the bugginess of the betas,        |
 | 08:15      | almost everything that I've seen in it is an improvement.                                               |
 | 08:19      | Oh yeah, definitely. Especially for people who don't have that programming, you know,                   |
@@ -175,7 +175,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 11:47      | or begins with or ends with and I've just typed the word David. So it literally says if text            |
 | 11:52      | contains David, and then I put whatever it is I want inside of that or inside of the otherwise.         |
 | 11:58      | It's and I'm done. And that I feel is going to be really useful for people who maybe even last          |
-| 12:06      | year thought even though Apple owns them, I'm just not going to bother. You know, it seems              |
+| 12:06      | year thought even though [[Apple]] owns them, I'm just not going to bother. You know, it seems              |
 | 12:10      | like too much work. It's a lot easier now. Well, I think I can speak from my own experiences quite      |
 | 12:15      | often. When I was learning workflow and then shortcuts to begin with, the sticky point for              |
 | 12:22      | me was trying to figure out how to give an action the proper data to work with.                         |
@@ -389,7 +389,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 31:45      | it's kind of crazy. I've been rebooting everything, reinstalling everything, and it's all stuck.        |
 | 31:49      | Yeah. And, but I mean, so with this new, this automatic triggers that will do things on an              |
 | 31:57      | event as opposed to you physically pressing a button, some of them do kick up a confirmation            |
-| 32:02      | dialog box. And Apple has a logic to that. You know, it's stuff that would happen automatically,        |
+| 32:02      | dialog box. And [[Apple]] has a logic to that. You know, it's stuff that would happen automatically,        |
 | 32:07      | will happen automatically, and stuff that you would normally go and tap buttons to happen.              |
 | 32:10      | You're going to have to tap a confirmation. I think that's probably a good idea. I, you know,           |
 | 32:15      | I don't think we want automation unchecked. You know, that's going to lead to the robot                 |
@@ -614,8 +614,8 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 51:44      | of having to type them out once I'm in [[Drafts]] or trying to URL encode them and add them into a          |
 | 51:50      | [[URL Schemes\|URL scheme]], which yes, I have previously been doing and now I no longer need to do. So yeah,            |
 | 51:57      | this is really good. And hopefully this will replace the [[URL Schemes\|URL scheme]]. This is not to say that            |
-| 52:03      | [[URL Schemes]] are bad, but I mean, Apple have been saying [[URL Schemes]] are not the most secure because     |
-| 52:09      | well, anybody can run them with anything. And this is a framework offered by Apple specifically for     |
+| 52:03      | [[URL Schemes]] are bad, but I mean, [[Apple]] have been saying [[URL Schemes]] are not the most secure because     |
+| 52:09      | well, anybody can run them with anything. And this is a framework offered by [[Apple]] specifically for     |
 | 52:13      | shortcuts, which means that you can pass data to it and from it. Because once you've created that       |
 | 52:19      | draft in [[Drafts]] and adult horses can pass back whatever information they think you're going to          |
 | 52:25      | need, which is of course, exactly what we want. Developers giving us that data back.                    |
@@ -634,10 +634,10 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 53:35      | Yeah, and you put it back. Yeah, crazy. Yeah, Rose, I am so excited with shortcuts. I feel like         |
 | 53:42      | it was, I was a little surprised because at the keynote, they didn't really mention it. They            |
 | 53:46      | didn't mention it at all, but then it did come in the up in the state of the union. And the             |
-| 53:51      | the, and that's just because frankly, Apple had so much on their plate this year at the keynote.        |
+| 53:51      | the, and that's just because frankly, [[Apple]] had so much on their plate this year at the keynote.        |
 | 53:55      | But to me, this is, I mean, the changes between Siri shortcuts and iOS 12 and shortcuts and             |
 | 54:05      | iOS 13 are greater than the changes between workflow and shortcuts. Yeah. You know, if you              |
-| 54:12      | look at the way it changed when they brought it into Apple, they were just getting it settled in.       |
+| 54:12      | look at the way it changed when they brought it into [[Apple]], they were just getting it settled in.       |
 | 54:16      | Those roots were still growing. This year, the changes are more extreme and they're all                 |
 | 54:21      | generally for the better. Yeah, yeah, they are. And, you know, it's a little bit of pain for            |
 | 54:27      | us early adopters to have to rewrite some shortcuts. But we're early adopters here,                     |

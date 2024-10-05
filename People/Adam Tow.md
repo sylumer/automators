@@ -12,7 +12,7 @@ relayurl: "https://www.relay.fm/people/adamtow"
 ![[Adam Tow.jpg|200x200]]
 
 # About
-Adam Tow is a lead software engineer at [Zoom](https://zoom.us), and previously worked for [AllThingsD.com](https://allthingsd.com) and [Recode.net](https://vox.com/technology). He has developed a number of applications for Apple's platforms and complex shortcuts for [[Shortcuts|Apple Shortcuts]].
+Adam Tow is a lead software engineer at [Zoom](https://zoom.us), and previously worked for [AllThingsD.com](https://allthingsd.com) and [Recode.net](https://vox.com/technology). He has developed a number of applications for [[Apple|Apple's]] platforms and complex shortcuts for [[Shortcuts|Apple Shortcuts]].
 
 # Guest Episodes
 ```dataviewjs

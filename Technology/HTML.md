@@ -33,4 +33,4 @@ await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");
 ```
 
 
-[^1:] Popular web browsers include [[Google Chrome]], [[Mozilla Firefox\|Firefox]], [[Microsoft Edge]], and Apple's [[Safari]], but there are many  variations available that make use of a small set of core rendering engines.
+[^1:] Popular web browsers include [[Google Chrome]], [[Mozilla Firefox\|Firefox]], [[Microsoft Edge]], and [[Apple|Apple's]] [[Safari]], but there are many  variations available that make use of a small set of core rendering engines.

@@ -4,7 +4,7 @@ creator: ""
 notetype: "technology"
 ---
 # Overview  
-Mail Act On, now part of the "MailSuite 2022" plugin by SmallCubed, is a powerful email management tool designed to enhance productivity and efficiency within Apple's [[Apple Mail|Mail]] application. This plugin allows users to streamline their email workflow by providing quick and easy ways to organise, sort, and process email messages.
+Mail Act On, now part of the "MailSuite 2022" plugin by SmallCubed, is a powerful email management tool designed to enhance productivity and efficiency within [[Apple|Apple's]] [[Apple Mail|Mail]] application. This plugin allows users to streamline their email workflow by providing quick and easy ways to organise, sort, and process email messages.
 
 # Operating Systems  
 - macOS
