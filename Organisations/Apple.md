@@ -25,7 +25,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **[[Compressor]]** - An advanced encoding tool for digital video compression and distribution.  
 - **[[Safari]]** - Apple's web browser for macOS and iOS, known for its speed and energy efficiency.  
 - **[[HomePod]]** - A smart speaker designed to work within the Apple ecosystem, focusing on high-quality audio.  
-- **Apple Arcade** - A game subscription service providing access to a collection of new and exclusive games.  
+- **[[Apple Arcade]]** - A game subscription service providing access to a collection of new and exclusive games.  
 - **MobileMe** - A previous Internet service that offered email, cloud storage, and synchronisation services, succeeded by iCloud.  
 - **Ping** - A former social networking service for music lovers that was integrated into iTunes but discontinued.  
 - **Apple News+** - A subscription service offering access to a variety of magazines and news publications.  

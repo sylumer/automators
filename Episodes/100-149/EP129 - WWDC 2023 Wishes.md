@@ -1209,7 +1209,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:15:05   | true.                                                                                                 |
 | 01:15:06   | And I would like this to be that version of it.                                                       |
 | 01:15:09   | Yeah.                                                                                                 |
-| 01:15:10   | I think it would be good to see Apple Arcade support for this as well just because or just            |
+| 01:15:10   | I think it would be good to see [[Apple Arcade]] support for this as well just because or just            |
 | 01:15:16   | game support as well rather than just purely VR AR and so on, just because I think that               |
 | 01:15:22   | there will be a lot of people who'd be like, but I want to play Beat Saber.                           |
 | 01:15:25   | Oh, no, I agree.                                                                                      |
