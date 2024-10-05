@@ -687,7 +687,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 35:15      | I'm loving NFC so much, especially because I realised that my work ID is an NFC card.                  |
 | 35:22      | Oh, really?                                                                                            |
 | 35:23      | And so I can use my work ID to trigger stuff.                                                          |
-| 35:25      | And you can actually use bank cards as well as a tip, don't try and use an Apple pay device            |
+| 35:25      | And you can actually use bank cards as well as a tip, don't try and use an [[Apple Pay]] device            |
 | 35:29      | because it generates a new number every time and that obviously will not work because it's             |
 | 35:34      | looking for the same NFC tag every time rather than different ones.                                    |
 | 35:38      | But you can use like bank cards, ID cards, stuff like that.                                            |

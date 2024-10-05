@@ -278,14 +278,14 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 20:26      | So David, there is another automation trigger that's been added to shortcuts that we're going             |
 | 20:31      | to have to talk about, because it's there on the iPhone, it's there on the iPad, and it's something       |
 | 20:36      | people have been asking for, it's transactions. So when you use your Apple wallet to pay for              |
-| 20:42      | something, so Apple Pay, and you select your card, you can select run immediately, that's fine.           |
+| 20:42      | something, so [[Apple Pay]], and you select your card, you can select run immediately, that's fine.           |
 | 20:49      | You can choose to notify when you're running, and then you select what kind of transaction. So            |
 | 20:53      | there's payment, public transport, or I presume public transit, if you're in the US, access               |
 | 20:58      | e-money and identity. And so depending on what you use, like your wallet for, then you can have           |
 | 21:08      | it automatically, for example, log commuting when you do a public transport transaction.                  |
 | 21:15      | So if you wanted to track your time with Timery and time spent commuting as one of those things,          |
 | 21:21      | then you could say, okay, so when I use a public transport type of transaction                            |
-| 21:27      | on this card in Apple Pay, I want you to start a Timery Timer, and then when I connect to my work         |
+| 21:27      | on this card in [[Apple Pay]], I want you to start a Timery Timer, and then when I connect to my work         |
 | 21:33      | Wi-Fi, I want you to stop the Timery Timer for commuting, then you can do that. That's now possible       |
 | 21:40      | without you having to tap to run a single automation. And that's amazing.                                 |
 | 21:44      | Yeah, it is really great. And the great thing about shortcuts as the app developers are giving            |

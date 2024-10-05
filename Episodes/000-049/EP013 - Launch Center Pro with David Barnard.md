@@ -1205,7 +1205,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 53:40      | So it's kind of an automatic thing                                   |
 | 53:42      | if you subscribe in the app                                          |
 | 53:44      | and you purchase within the app,                                     |
-| 53:45      | and you can use Apple Pay inside the app,                            |
+| 53:45      | and you can use [[Apple Pay]] inside the app,                            |
 | 53:48      | it'll automatically apply a 10% discount to your whole cart.         |
 | 53:51      | So there'll also be t-shirts and mugs and hats                       |
 | 53:56      | and I'm actually wearing my Launch Center Pro hat right now.         |
@@ -1549,7 +1549,7 @@ In this episode David and Rose dive deep into the new version 3 of Launch Center
 | 01:09:13   | They did not.                                                        |
 | 01:09:15   | iPads do not have NFC at all, which is,                              |
 | 01:09:19   | I can understand from one perspective,                               |
-| 01:09:22   | I think they see the NFC as like Apple Pay                           |
+| 01:09:22   | I think they see the NFC as like [[Apple Pay]]                           |
 | 01:09:27   | and card scanning and like ID card kind of replacements              |
 | 01:09:33   | and getting in and out of buildings and things like that.            |
 | 01:09:35   | So in some ways I can see that they don't think                      |

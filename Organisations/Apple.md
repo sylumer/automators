@@ -15,7 +15,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **[[Apple Music]]** - A subscription-based streaming service providing access to a vast library of music and expert-curated playlists.  
 - **App Store** - An online platform for purchasing and downloading apps for iOS devices, including curated selections and developer tools.  
 - **[[iCloud]]** - A cloud storage and computing service offering backup and syncing services across Apple devices.  
-- **Apple Pay** - A mobile payment service enabling secure and easy payments via compatible Apple devices.  
+- **[[Apple Pay]]** - A mobile payment service enabling secure and easy payments via compatible Apple devices.  
 - **iPod** - A line of portable media players, including the iPod Classic, Nano, Shuffle, and Touch, once famous for revolutionising how people listen to music.  
 - **[[iWork]]** - A suite of productivity software that includes [[Apple Pages|Pages]] (word processing), [[Numbers|Numbers]] (spreadsheets), and [[Keynote]] (presentations) for Mac and iOS devices.  
 - **[[iLife]]** - A suite of multimedia software products, including iMovie for video editing, iPhoto for photo management, and [[GarageBand]] for music creation.  

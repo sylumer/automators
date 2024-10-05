@@ -1535,8 +1535,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:26:06   | And yeah, I like the fact that Find My can say when it was lost, detached from my iPhone                |
 | 01:26:10   | or where it was when it was detached.                                                                   |
 | 01:26:13   | And that works pretty well for me.                                                                      |
-| 01:26:14   | I use Apple Pay most of the time, but it's nice.                                                        |
-| 01:26:17   | I just leave the phone in my bag and use Apple Pay on my watch actually most of the time.               |
+| 01:26:14   | I use [[Apple Pay]] most of the time, but it's nice.                                                        |
+| 01:26:17   | I just leave the phone in my bag and use [[Apple Pay]] on my watch actually most of the time.               |
 | 01:26:24   | But then, you know, if I do need a card for some reason or I need my ID to collect parcel               |
 | 01:26:28   | or, you know, if I'm buying something and they want to check my ID, then I've got my                    |
 | 01:26:33   | ID right there and I don't need to, you know, carry more stuff with me than is necessary,               |

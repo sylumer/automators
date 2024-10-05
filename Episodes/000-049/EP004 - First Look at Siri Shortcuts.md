@@ -423,8 +423,8 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 17:59      | If you live in a country where this is supported,                                                                          |
 | 18:02      | like David does, you can send a request to payments                                                                        |
 | 18:05      | through [[Apple Wallet]], which is very nice.                                                                                  |
-| 18:08      | So if you have Apple pay cash, you can do that.                                                                            |
-| 18:11      | Unfortunately, I do not have Apple pay cash,                                                                               |
+| 18:08      | So if you have [[Apple Pay]] cash, you can do that.                                                                            |
+| 18:11      | Unfortunately, I do not have [[Apple Pay]] cash,                                                                               |
 | 18:13      | so I can't test it.                                                                                                        |
 | 18:15      | I should just have one.                                                                                                    |
 | 18:17      | So every time my kids text me, it just sends them $20,                                                                     |
@@ -436,7 +436,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 18:34      | Well, I think if it's part of something else.                                                                              |
 | 18:37      | So for example, if you were just, I don't know,                                                                            |
 | 18:40      | cutting somebody's lawn, or you cut lawns for a living,                                                                    |
-| 18:43      | and people paid you about Apple pay cash,                                                                                  |
+| 18:43      | and people paid you about [[Apple Pay]] cash,                                                                                  |
 | 18:45      | then being able to queue it up and send somebody a message                                                                 |
 | 18:47      | to say, hey, your lawn's been cut.                                                                                         |
 | 18:49      | That will be $40, please.                                                                                                  |
