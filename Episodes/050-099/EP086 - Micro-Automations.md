@@ -1528,7 +1528,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:25:41   | I mean, I've never, I don't worry about losing it.                                                      |
 | 01:25:45   | I got the new wallet in Dark Cherry because I've, because I do have a couple of cards                   |
 | 01:25:52   | and I didn't like the fact that there was no find my, in the other [[Apple]] wallet.                        |
-| 01:25:58   | So I did upgrade my Apple wallet.                                                                       |
+| 01:25:58   | So I did upgrade my [[Apple Wallet]].                                                                       |
 | 01:26:00   | Sounds ridiculous to have done that bonus.                                                              |
 | 01:26:03   | It's also purple now.                                                                                   |
 | 01:26:04   | So that's a definite win.                                                                               |
@@ -1548,7 +1548,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:26:47   | Apparently they're coming over here, but I will believe that when I see it because we                   |
 | 01:26:49   | frequently get promised these things and it takes forever for them to show up and then                  |
 | 01:26:53   | they're not as good as was advertised.                                                                  |
-| 01:26:55   | But we do have at the very least COVID passes in our Apple wallet through the NHS application,          |
+| 01:26:55   | But we do have at the very least COVID passes in our [[Apple Wallet]] through the NHS application,          |
 | 01:27:01   | which I am a great fan of, though you do have to update it on a monthly basis and download              |
 | 01:27:05   | a new one.                                                                                              |
 | 01:27:06   | Yeah.                                                                                                   |

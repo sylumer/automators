@@ -277,7 +277,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 20:20      | Our thanks to ExpressVPN for their support of this show and relay.fm.                                     |
 | 20:26      | So David, there is another automation trigger that's been added to shortcuts that we're going             |
 | 20:31      | to have to talk about, because it's there on the iPhone, it's there on the iPad, and it's something       |
-| 20:36      | people have been asking for, it's transactions. So when you use your Apple wallet to pay for              |
+| 20:36      | people have been asking for, it's transactions. So when you use your [[Apple Wallet]] to pay for              |
 | 20:42      | something, so [[Apple Pay]], and you select your card, you can select run immediately, that's fine.           |
 | 20:49      | You can choose to notify when you're running, and then you select what kind of transaction. So            |
 | 20:53      | there's payment, public transport, or I presume public transit, if you're in the US, access               |
