@@ -23,7 +23,7 @@ When deactivating a focus mode, likewise you way see switches in the opposite di
 
 # Advanced Features
 - **Smart Activation**: The Focus Mode can be automatically enabled based on location, time of day, or when using specific apps.
-- **Sharing Across Devices**: When a Focus Mode is activated on one [[Apple]] device, it is automatically enabled on all other devices signed in to the same Apple ID.
+- **Sharing Across Devices**: When a Focus Mode is activated on one [[Apple]] device, it is automatically enabled on all other devices signed in to the same [[Apple ID]].
 - **Customisation**: You can create custom Focus Modes tailored for specific needs - e.g. reading, gaming, or exercising.
 
 # Episodes

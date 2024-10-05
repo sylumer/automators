@@ -34,7 +34,7 @@ FaceTime is a video and audio calling application developed by [[Apple]] Inc. It
 # Notes
 - FaceTime is a free application for all [[Apple]] device users.
 - Supports automation via Shortcuts.
-- Requires an Apple ID to use.
+- Requires an [[Apple ID]] to use.
 - Available on all modern [[Apple]] devices, including iPhone, iPad, Mac, and Apple Watch.
 - Relies on internet connectivity; data charges may apply if using cellular data.
 

@@ -1147,7 +1147,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:05:13   | And this is now enabled by default.                                                                                       |
 | 01:05:16   | Previously, this was not enabled by default.                                                                              |
 | 01:05:18   | So by default, people can now share and receive shortcuts via an iCloud link.                                             |
-| 01:05:24   | And this is now signed using your Apple ID as well.                                                                       |
+| 01:05:24   | And this is now signed using your [[Apple ID]] as well.                                                                       |
 | 01:05:28   | So I'm not 100% certain how this is going to work because you need to be signed into                                      |
 | 01:05:34   | iCloud to do this, and [[Apple]] don't tend to revoke people's iCloud IDs for things.                                         |
 | 01:05:39   | Developers occasionally don't get banned from the developer store or from the app store                                   |

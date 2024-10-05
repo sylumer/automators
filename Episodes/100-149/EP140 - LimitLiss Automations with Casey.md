@@ -574,10 +574,10 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 40:35      | my Mac is the thing that's sharing my or that's, that's defining my location, which would                |
 | 40:40      | be surprising, especially since find my friend seems to be fine. But you never know, sometimes           |
 | 40:44      | this stuff is a little wonky. Yeah, it could be something simple, like you gave one of                   |
-| 40:48      | your kids a device and they have their own Apple ID, which you added to home kit, and                    |
+| 40:48      | your kids a device and they have their own [[Apple ID]], which you added to home kit, and                    |
 | 40:52      | then that device never leaves home. That's another option to consider, which I just thought              |
 | 40:58      | of because, um, yeah, of course, you have kids and they possibly use iPads or similar                    |
-| 41:04      | to watch things on and play games. So if they have their own Apple ID and you've added that              |
+| 41:04      | to watch things on and play games. So if they have their own [[Apple ID]] and you've added that              |
 | 41:08      | to home kit, and then that device never leaves home, that could also be part of your problem.            |
 | 41:13      | So it's all worth investigating with all of these things.                                                |
 | 41:16      | Yep. And there's, you know, there's easier ways to do this sort of thing. Like I'm, I've                 |
