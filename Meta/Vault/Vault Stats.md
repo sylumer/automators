@@ -11,6 +11,5 @@ status: "complete"
 
 ---
 
-| Deeper Stats          |
-| --------------------- |
-| - [[Page Link Stats]] |
+**Deeper Stats**
+ - [[Page Link Stats]] 
