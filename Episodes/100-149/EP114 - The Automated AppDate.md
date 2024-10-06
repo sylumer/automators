@@ -471,7 +471,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 24:01      | angles.                                                                                                |
 | 24:02      | It can do the, what is it, the autofocus things where it'll follow you around and yeah, centre         |
 | 24:10      | stage that's the one and I'm just looking forward to it.                                               |
-| 24:13      | It like the little Belkin adapters are available in the Apple Store now so I've ordered one            |
+| 24:13      | It like the little Belkin adapters are available in the [[Apple Store]] now so I've ordered one            |
 | 24:17      | and fingers crossed it's actually supposed to be arriving tomorrow but yeah, it's one                  |
 | 24:23      | of those things where I'm thought, you know, that that actually, especially if you've,                 |
 | 24:29      | you know, if you're somebody who travels and you need to take your Mac with you and you                |

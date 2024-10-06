@@ -129,8 +129,8 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 03:16      | So this is one of Bluetooth low energy, and like Rose said, it's been around for a while.             |
 | 03:21      | The original pitch for this was the idea of you going to a museum, and your iPhone can                |
 | 03:26      | know exactly where in the museum you are, so it can give you information about the display            |
-| 03:32      | you're standing in front of, or if you go into an Apple store today, and it says, hey,                |
-| 03:38      | welcome to the Apple store.                                                                           |
+| 03:32      | you're standing in front of, or if you go into an [[Apple Store]] today, and it says, hey,                |
+| 03:38      | welcome to the [[Apple Store]].                                                                           |
 | 03:39      | How did that happen?                                                                                  |
 | 03:40      | I'm pretty sure they're using iBeacons inside the store to do that.                                   |
 | 03:45      | And I was told after the last episode that they are indeed using iBeacons.                            |
@@ -588,7 +588,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 30:47      | Yeah.                                                                                                 |
 | 30:48      | I mean, the other thing that you can do, and this is something I really wanted to experiment          |
 | 30:51      | with this, but unfortunately I've been really busy this week, so I didn't get a chance to             |
-| 30:55      | make it to the Apple Store for testing purposes.                                                      |
+| 30:55      | make it to the [[Apple Store]] for testing purposes.                                                      |
 | 30:57      | Yeah.                                                                                                 |
 | 30:58      | Yeah.                                                                                                 |
 | 30:59      | There are apps out there.                                                                             |

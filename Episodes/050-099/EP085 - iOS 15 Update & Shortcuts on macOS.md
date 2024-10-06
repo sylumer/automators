@@ -1412,7 +1412,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 55:02      | They're fairly cheap.                                                |
 | 55:03      | I already have the [[Aqara]].                                        |
 | 55:04      | I actually now have the [[Aqara Hub#M2\|M2 Hub]], David,             |
-| 55:06      | because they are available here in Europe from the Apple stores.     |
+| 55:06      | because they are available here in Europe from the [[Apple Store\|Apple Stores]].     |
 | 55:09      | And they're properly available on [[Amazon]].                        |
 | 55:11      | So I picked up an [[Aqara Hub#M2\|M2 Hub]], which is a European one. |
 | 55:14      | And I'm in the process of migrating all my accessories               |

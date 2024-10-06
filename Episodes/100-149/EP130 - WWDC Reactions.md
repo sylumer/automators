@@ -559,7 +559,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 46:12      | but also I don't know if I'm like, I don't know if I can buy it. I mean, I could buy a Mac Pro.           |
 | 46:17      | I don't need a Mac Pro, but I don't know. Like the Vision Pro, that's only coming to the U.S.             |
 | 46:23      | to start with. Like I'm gonna have to come on holiday to the U.S. when it's my birthday and buy           |
-| 46:26      | one if it's coming out then. So yeah. Hey, you sleep on my couch. We got a local Apple store.             |
+| 46:26      | one if it's coming out then. So yeah. Hey, you sleep on my couch. We got a local [[Apple Store]].             |
 | 46:31      | Take it out, get you set up. Sounds perfect. Yeah, I'll wear my P-Calc t-shirt in all the colours.         |
 | 46:38      | Yeah, I guess I've spoken enough about the new hardware that I feel like the MacBook Air is               |
 | 46:44      | in nice addition with a larger screen. It's not going to set the world on fire, but I think it's          |

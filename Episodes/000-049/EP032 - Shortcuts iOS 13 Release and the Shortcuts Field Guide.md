@@ -398,7 +398,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 18:13      | refund.                                                                                                |
 | 18:14      | Backblaze has restored over 40 billion files.                                                          |
 | 18:17      | That's a lot of saved projects, assignments and family photo albums.                                   |
-| 18:21      | I once saw somebody in the Apple store who lost all their pictures and it was just crushing            |
+| 18:21      | I once saw somebody in the [[Apple Store]] who lost all their pictures and it was just crushing            |
 | 18:28      | watching her sit there.                                                                                |
 | 18:29      | She was crying silently.                                                                               |
 | 18:31      | I felt so bad for her.                                                                                 |

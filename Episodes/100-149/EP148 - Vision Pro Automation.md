@@ -77,7 +77,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 01:07      | Eve might work, too.                                                                                  |
 | 01:08      | Yeah, you're right.                                                                                   |
 | 01:09      | Well, Rose, my couch is sitting here waiting.                                                         |
-| 01:11      | The Irvine Apple Store is six miles from my house, so when you can't take it anymore,                 |
+| 01:11      | The Irvine [[Apple Store]] is six miles from my house, so when you can't take it anymore,                 |
 | 01:17      | just come on over.                                                                                    |
 | 01:18      | I'll take you out to Gumbo afterwards or something, you know, so you feel a little bit                |
 | 01:23      | better about the cost between the flight and the unit.                                                |

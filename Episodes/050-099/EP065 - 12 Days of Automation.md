@@ -1505,7 +1505,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:18:44   | And my machine is working really well.                                                                   |
 | 01:18:46   | I definitely want that shiny new silicon machine.                                                        |
 | 01:18:49   | If it ran shortcuts, I would, there wouldn't have been a moment's hesitation.                            |
-| 01:18:55   | I would have been, you know, on the Apple store website buying, buying, buying, no doubt                 |
+| 01:18:55   | I would have been, you know, on the [[Apple Store]] website buying, buying, buying, no doubt                 |
 | 01:18:59   | at all.                                                                                                  |
 | 01:19:00   | But as it is, I do have working Macs and I'm pretty happy with what I've got right now.                  |
 | 01:19:07   | So I'm going to wait and see if there's an M1X or an M2 sometime next year.                              |

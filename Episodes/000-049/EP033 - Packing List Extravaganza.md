@@ -118,7 +118,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 02:39      | My phone locked up.                                                                                                                                              |
 | 02:40      | It overheated.                                                                                                                                                   |
 | 02:41      | It was non-responsive, so I just left it, and when I came back, the back had just shattered.                                                                     |
-| 02:46      | I think maybe after expansion or something, I need to take it to the Apple Store.                                                                                |
+| 02:46      | I think maybe after expansion or something, I need to take it to the [[Apple Store]].                                                                                |
 | 02:50      | I should point out I did stop using it after this.                                                                                                               |
 | 02:54      | I just left it turned off and dead.                                                                                                                              |
 | 02:56      | Since I've got it home, I have plugged it in where I have safety equipment, like a bucket                                                                        |
@@ -128,7 +128,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 03:06      | That's crazy.                                                                                                                                                    |
 | 03:07      | It already had impact points on the back that I'm 100% sure of because otherwise it wouldn't                                                                     |
 | 03:12      | shatter the way it has done, but it is broken.                                                                                                                   |
-| 03:16      | So I'm going to take it to the Apple Store and have them have a look at it at some point.                                                                        |
+| 03:16      | So I'm going to take it to the [[Apple Store]] and have them have a look at it at some point.                                                                        |
 | 03:20      | But yeah.                                                                                                                                                        |
 | 03:21      | So I kept dropping it.                                                                                                                                           |
 | 03:22      | Yeah, I decided I'll try the smaller one because within two weeks, you can always return it.                                                                     |

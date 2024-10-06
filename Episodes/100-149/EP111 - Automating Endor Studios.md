@@ -805,7 +805,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 46:25      | No, no, but it is available, for example, on Aliexpress.                                                  |
 | 46:29      | I got mine within like a week of ordering it, which was pretty great.                                     |
 | 46:33      | And it should be available through [[Amazon]].                                                                |
-| 46:36      | And if you're in Europe, the Apple store is fairly soon, I believe, but it is definitely                  |
+| 46:36      | And if you're in Europe, the [[Apple Store]] is fairly soon, I believe, but it is definitely                  |
 | 46:44      | coming.                                                                                                   |
 | 46:45      | But this thing is impressive.                                                                             |
 | 46:47      | It is incredibly good at sensing people, you know, even when you're asleep.                               |

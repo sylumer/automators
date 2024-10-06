@@ -231,7 +231,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 13:04      | think a lot of people understand is the data sharing model with [[Apple|Apple's]] health and fitness             |
 | 13:10      | data.                                                                                                  |
 | 13:11      | Oh yeah, this is so good. So there are a whole host of devices, a lot of them available in             |
-| 13:16      | the Apple store, but they're not exclusively available in the Apple store. There are devices           |
+| 13:16      | the [[Apple Store]], but they're not exclusively available in the [[Apple Store]]. There are devices           |
 | 13:20      | available elsewhere that can connect directly to the health app. So you can get things like            |
 | 13:24      | thermometers and scales and jump ropes that track how many times you've jumped rope. Um,               |
 | 13:30      | and these connect to the health app. Um, but a lot of these just work on device. They don't            |

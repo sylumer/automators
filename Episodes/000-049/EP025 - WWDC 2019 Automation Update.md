@@ -1188,7 +1188,7 @@ Happy WWDC week! David and Rose are on the ground at WWDC in San Jose to bring y
 | 56:22      | And it was really great talking to automators, listeners, and hearing how you guys are using          |
 | 56:25      | automation and also just hanging out together.                                                        |
 | 56:28      | Oh yeah.                                                                                              |
-| 56:29      | And then of course we all went to the cool Apple store they have down there, which is                 |
+| 56:29      | And then of course we all went to the cool [[Apple Store]] they have down there, which is                 |
 | 56:32      | kind of amazing.                                                                                      |
 | 56:34      | And then we had the meet up here in San Jose.                                                          |
 | 56:39      | That was the day we did, [[Stephen Hackett\|Stephen]] and I did the interview with the [[Apple]] guy.                          |

@@ -728,7 +728,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 44:13      | for people who want it and for people who need it as an accessibility feature, and B,                               |
 | 44:18      | because I don't have a Vision Pro yet.                                                                              |
 | 44:19      | I haven't even tried a Vision Pro yet.                                                                              |
-| 44:21      | They're not available here in the UK, not even for testing in the Apple stores.                                     |
+| 44:21      | They're not available here in the UK, not even for testing in the [[Apple Store\|Apple Stores]].                                     |
 | 44:24      | Like they don't even have like fake ones that you can like see the size of it or anything.                          |
 | 44:29      | But when I get it, I have a feeling that the way that you interact with it is going to                              |
 | 44:33      | change my mind on voice automation, at least to an extent, you know, I'm sure I'm still                             |

@@ -104,7 +104,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 03:05      | And I know that you do a lot of automation stuff, but I don't know how you got started in it.            |
 | 03:12      | What led you down the garden path of automation?                                                         |
 | 03:18      | Well, it was sort of a one-two punch.                                                                    |
-| 03:22      | So I live in Portland and before Apple stores, [[Apple]] retail stores were a common site.                   |
+| 03:22      | So I live in Portland and before [[Apple Store\|Apple Stores]], [[Apple]] retail stores were a common site.                   |
 | 03:30      | Most of the time, if you wanted sort of that retail experience,                                          |
 | 03:33      | but to have it be around [[Apple]] products, you had to have an [[Apple]] authorised reseller                    |
 | 03:39      | where you were that had a storefront that you could actually go to.                                      |

@@ -1103,7 +1103,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:32:56   | so we don't have iPad Max. We have iPhone and iPhone Pro and iPhone Pro Max. So yeah, I mean.              |
 | 01:33:05   | If they release next week one that's 15 or 18 inches, iPhone Pro iPad Pro Max, would you get one?          |
 | 01:33:14   | Again, I don't think I need one right now, but I would probably definitely want it and visit               |
-| 01:33:21   | a couple of Apple stores to play with it for a while. And I know people who would happily buy              |
+| 01:33:21   | a couple of [[Apple Store\|Apple Stores]] to play with it for a while. And I know people who would happily buy              |
 | 01:33:25   | a 15-inch iPad because they want a bigger tablet. I have to say, the iPad Mini that I got.                 |
 | 01:33:31   | Well, also, it'd be great for a sidecar. Like if you like a sidecar user, you get a 15-inch iPad,          |
 | 01:33:38   | you've got a second monitor for your Mac. That would be an incredibly expensive second monitor.            |

@@ -1137,7 +1137,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:09:05   | and they'll expect it to turn on. But you've used the hue feature to not turn the lights               |
 | 01:09:09   | back on when they lose power because otherwise when you lose power at three o'clock in the             |
 | 01:09:12   | morning, everybody is very grumpy because all the lights magically turned on. It feels                 |
-| 01:09:18   | like you can't win. But the Apple store in the UK and here in Austria as well, I've noticed            |
+| 01:09:18   | like you can't win. But the [[Apple Store]] in the UK and here in Austria as well, I've noticed            |
 | 01:09:22   | they relatively recently added some light switches and they also have plugs as well,                   |
 | 01:09:28   | like sockets that you can replace the ones in your wall with, which I think is a much                  |
 | 01:09:32   | more standard user friendly approach because then you don't lose your current functionality,           |

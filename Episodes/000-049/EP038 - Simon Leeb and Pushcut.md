@@ -944,14 +944,14 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 55:19      | or stores or like museums to place them and have their apps pick up on them.                        |
 | 55:25      | I believe, I think that was the original intent.                                                    |
 | 55:28      | It was, I believe it was done by [[Apple]] originally to help track the flow of customers in the        |
-| 55:33      | Apple Store.                                                                                        |
+| 55:33      | [[Apple Store]].                                                                                        |
 | 55:34      | I'm probably completely wrong on this, so I'll try and find the original information                |
 | 55:37      | for the show notes.                                                                                 |
 | 55:39      | But it's so that they can tell where you are in the store and give you information based            |
 | 55:43      | on that.                                                                                            |
-| 55:44      | Because if you've noticed, if you're like right in front of or inside an Apple store,               |
-| 55:48      | whether or not you're connected to the Wi-Fi, if you have the Apple Store app installed on          |
-| 55:52      | your phone, it pops up and goes, hi, welcome to XYZ Apple Store.                                    |
+| 55:44      | Because if you've noticed, if you're like right in front of or inside an [[Apple Store]],               |
+| 55:48      | whether or not you're connected to the Wi-Fi, if you have the [[Apple Store]] app installed on          |
+| 55:52      | your phone, it pops up and goes, hi, welcome to XYZ [[Apple Store]].                                    |
 | 55:58      | And I'm pretty certain that that is done with iBeacons.                                             |
 | 56:01      | Somebody from [[Apple]], if you know that this is done with iBeacons and you want to write              |
 | 56:04      | to me and let me know, I will not tell anybody, but I can just follow up on a future podcast.       |

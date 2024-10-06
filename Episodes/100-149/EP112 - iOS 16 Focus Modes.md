@@ -100,7 +100,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 02:52      | 100%.                                                                                                   |
 | 02:53      | If they had offered the smaller one, this would have been a no-brainer instead of me slowly             |
 | 02:57      | trying to talk myself into it for a couple of weeks and then managing to get an appointment             |
-| 03:02      | at the Apple Store to pick one up on launch day, which they still had them in stock when                |
+| 03:02      | at the [[Apple Store]] to pick one up on launch day, which they still had them in stock when                |
 | 03:07      | I left, which was good to know.                                                                         |
 | 03:10      | But yeah, it's one of those things, especially coming from the smaller watch.                           |
 | 03:14      | That means that none of my previous straps fit, which is just a little bit sad, but you                 |

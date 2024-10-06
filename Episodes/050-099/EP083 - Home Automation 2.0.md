@@ -183,7 +183,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 05:44      | Our plugs are some of the safest in the world.                                                    |
 | 05:46      | They're also the most painful to step on, but that's another problem for another time.            |
 | 05:51      | I did some digging around and I tried light wave.                                                 |
-| 05:55      | For people who aren't familiar with light waves, they're sold on the Apple store in               |
+| 05:55      | For people who aren't familiar with light waves, they're sold on the [[Apple Store]] in               |
 | 05:58      | the UK and Europe, and you can buy them directly from [[Amazon]] or light wave, whoever.              |
 | 06:05      | They are light switches and also they do plug sockets that you can just put on the wall.          |
 | 06:12      | They are smart ones.                                                                              |
@@ -217,9 +217,9 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 08:04      | I did actually get the new hub because I have the [[Aqara Hub#M1S (Gen 1)\|M1S hub]].                                        |
 | 08:08      | There's also the camera, the [[Aqara Hub#G2H Pro\|G2H camera]] that you can pair 64 devices with.                        |
 | 08:13      | Well, I already have cameras so I didn't really want or need a camera but they now have the       |
-| 08:18      | [[Aqara Hub#M2\|M2 hub]] and actually [[Aqara]] on the Apple Store in the UK and much of Europe, not all of Europe.     |
+| 08:18      | [[Aqara Hub#M2\|M2 hub]] and actually [[Aqara]] on the [[Apple Store]] in the UK and much of Europe, not all of Europe.     |
 | 08:25      | For some reason, for example, not available in Portugal, not sure why, but they are on            |
-| 08:30      | the Spanish Apple Store.                                                                          |
+| 08:30      | the Spanish [[Apple Store]].                                                                          |
 | 08:32      | But they're also now much more widely available on [[Amazon]], which eliminates the problem of        |
 | 08:36      | if I order an [[Aqara Hub#M2\|M2 hub]] from China, is it going to be a Chinese hub or a European hub?               |
 | 08:41      | Because they connect to different servers.                                                        |
