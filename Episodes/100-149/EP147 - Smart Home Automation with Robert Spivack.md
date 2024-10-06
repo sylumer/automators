@@ -1390,7 +1390,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:35:16   | A lot of the existing systems are just way overpriced for what they do, but more importantly,          |
 | 01:35:22   | they're clunky, their technology is still 1980s, 1990s, there's no reason for them to                  |
 | 01:35:30   | be so far behind other than having captive customers and captive dealers.                              |
-| 01:35:36   | We do see the classic ring doorbell encroaching and dealers and systems saying, okay, we'll            |
+| 01:35:36   | We do see the classic [[Ring Doorbell]] encroaching and dealers and systems saying, okay, we'll            |
 | 01:35:43   | support ring, but with hundreds and thousands of devices supporting [[Matter]], it's simply                |
 | 01:35:49   | going to be a matter of time before these bigger systems will have to embrace [[Matter]]                   |
 | 01:35:56   | devices and at least accommodate them, which they do not do today at all, even with [[HomeKit]]            |

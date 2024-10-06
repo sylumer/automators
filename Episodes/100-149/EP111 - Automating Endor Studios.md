@@ -1398,7 +1398,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 01:22:40   | checked, I'm just going to go to the [[Home Assistant]] website a second, which is homeassistant.io           |
 | 01:22:44   | Home Dash Assistant, it is 2,176 integrations in [[Home Assistant]].                                          |
 | 01:22:53   | So this is everything from Sonos and the IKEA stuff to, you know, it has direct [[Zigbee]]                    |
-| 01:23:01   | and Z-Wave integrations, Ring Doorbell, [[Lutron]], and Leviton, for example, but it also integrates          |
+| 01:23:01   | and Z-Wave integrations, [[Ring Doorbell]], [[Lutron]], and Leviton, for example, but it also integrates          |
 | 01:23:10   | with [[Google Calendar]], [[Todoist]], [[Remember the Milk]], and it can even integrate with things                   |
 | 01:23:16   | like Starling, which is a bank over here in the UK, it can integrate with your energy                     |
 | 01:23:23   | company to tell you how much energy you're using, and of course, it's got [[HomeKit]] support                 |

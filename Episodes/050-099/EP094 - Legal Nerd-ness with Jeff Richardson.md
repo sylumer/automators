@@ -773,7 +773,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 55:02      | The same person also makes HomeRun, which allows you to more easily do [[HomeKit]] control from your        |
 | 55:07      | [[Apple Watch]] and HomePass to store all of the QR codes for setting up your devices.                      |
 | 55:12      | But one other thing you're missing out on by not having a [[HomeKit]] compatible doorbell                   |
-| 55:17      | is chimes on HomePods, because I have a ring doorbell, it's actually the peep hole one,                |
+| 55:17      | is chimes on HomePods, because I have a [[Ring Doorbell]], it's actually the peep hole one,                |
 | 55:23      | because I couldn't install something on the outside of my front door, I live in an apartment,           |
 | 55:28      | but I could put it through the people. And so I got the ring people, and I'm using Homebridge           |
 | 55:34      | to get that into [[HomeKit]], which means that I can see the camera in [[HomeKit]]. And also,                   |

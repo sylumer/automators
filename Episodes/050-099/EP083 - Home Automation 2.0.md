@@ -1099,7 +1099,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 58:08      | like what's happened in the hallway and so on.                                                    |
 | 58:12      | So at this time, the ring people camera had not been discontinued.                                |
 | 58:17      | This was the one where you can take out the spyhole on your door or replace it with a             |
-| 58:20      | ring doorbell camera.                                                                             |
+| 58:20      | [[Ring Doorbell\|Ring Doorbell camera]].                                                                             |
 | 58:23      | So I got one of those.                                                                            |
 | 58:25      | And it means that you don't need to drill anything.                                               |
 | 58:28      | And I set it up and I set it up through Homebridge so it's in my home kit set up.                 |
@@ -1115,7 +1115,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 59:08      | It wouldn't get me in trouble, but it might get me a sternly worded letter.                       |
 | 59:12      | So I decided against that.                                                                        |
 | 59:14      | My parents on the other hand wanted a smart doorbell and were telling me, oh, we want             |
-| 59:17      | to get this ring doorbell.                                                                        |
+| 59:17      | to get this [[Ring Doorbell]].                                                                        |
 | 59:19      | But I know my parents, they will complain about having to pay for the subscription,               |
 | 59:23      | but then they will complain about not having the later playback features.                         |
 | 59:28      | So fortunately, this was at the same time as they were looking at an outdoor camera.              |
@@ -1859,7 +1859,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:38:08   | for a car sensor, spare batteries for IKEA sensors, spare battery for IKEA blinds, spare          |
 | 01:38:13   | battery for ring doorbells and cameras, whatever it is, just write it on there, label all things  |
 | 01:38:20   | and then you've got extra batteries.                                                              |
-| 01:38:22   | Now I don't have an extra battery for my ring doorbell because I have one ring doorbell.          |
+| 01:38:22   | Now I don't have an extra battery for my [[Ring Doorbell]] because I have one [[Ring Doorbell]].          |
 | 01:38:26   | If I had six ring doorbells, I would have a spare battery, but I don't.                           |
 | 01:38:31   | Yeah, those are my big tips because stuff, you're going to have to tweak and modify things,       |
 | 01:38:36   | make it as easy as possible for you to do that and also when you're playing with stuff            |
