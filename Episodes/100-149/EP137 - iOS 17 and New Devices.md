@@ -633,7 +633,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 54:13      | can address it towards media volume or ringtone volume. Yes. It was to change your ringtone volume,      |
 | 54:20      | so useful. It's also actually helped me solve recently a conundrum I was having, David.                  |
 | 54:26      | I was trying to... The Disney Plus app on your phone has support for Chromecast                          |
-| 54:33      | built-in, which is handy because if you're somewhere that doesn't have an Apple TV,                      |
+| 54:33      | built-in, which is handy because if you're somewhere that doesn't have an [[Apple TV]],                      |
 | 54:36      | there's a fairly good chance the TV will have Chromecast support built-in, or I often have a             |
 | 54:42      | tiny Chromecast with me in my techier pouch, if I'm going somewhere, I'm planning on sharing             |
 | 54:48      | media with folks like that. It was always coming through really, really quietly. I discovered            |

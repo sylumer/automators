@@ -172,7 +172,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 05:49      | I've moved one arrow from one wall at the office to another wall at the office.                           |
 | 05:53      | I think I shouldn't have done that.                                                                       |
 | 05:55      | I moved it back, and things seem to have gone back to normal since then.                                  |
-| 05:58      | My Apple TV and my bedroom works better now as well.                                                      |
+| 05:58      | My [[Apple TV]] and my bedroom works better now as well.                                                      |
 | 06:01      | But yeah, so if you tap on the set part of that set playback destination action, then                     |
 | 06:08      | you can change it to add, and then you can add more things to it.                                         |
 | 06:11      | Or you can remove something from your playback destination if you don't want it there anymore.            |

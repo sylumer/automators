@@ -10,7 +10,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **iPad** - A range of tablets offering versatile computing functionalities and high-resolution displays, including iPad Pro, iPad Air, iPad Mini, and standard iPad models.  
 - **Mac** - A series of personal computers, including MacBook laptops, iMac desktops, and Mac mini, known for their powerful performance and macOS operating system.  
 - **Apple Watch** - A line of smartwatches that integrate health and fitness tracking with communication tools.  
-- **[[Apple TV]]** - A streaming device and a platform offering original content via Apple TV+, as well as access to other digital content.  
+- **[[Apple TV]]** - A streaming device and a platform offering original content via [[Apple TV]]+, as well as access to other digital content.  
 - **AirPods** - Wireless earbuds and headphones featuring seamless connectivity and noise cancellation technologies.  
 - **[[Apple Music]]** - A subscription-based streaming service providing access to a vast library of music and expert-curated playlists.  
 - **App Store** - An online platform for purchasing and downloading apps for iOS devices, including curated selections and developer tools.  

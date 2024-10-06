@@ -1137,7 +1137,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:05:00   | And then yeah, they said purple.                                                                     |
 | 01:05:02   | So I held out until after that keynote before I decided to buy the Mac mini, but the iMacs           |
 | 01:05:08   | did not excite me enough to change my Mac mini plan.                                                 |
-| 01:05:13   | I did, however, immediately order a new Apple TV remote.                                             |
+| 01:05:13   | I did, however, immediately order a new [[Apple TV]] remote.                                             |
 | 01:05:16   | Yeah.                                                                                                |
 | 01:05:17   | Same.                                                                                                |
 | 01:05:18   | Or a week later anyway.                                                                              |

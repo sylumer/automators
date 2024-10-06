@@ -673,7 +673,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:05:49   | So you can do fancy stuff with that. And I love the fact that I can pick, like, I can use my phone,     |
 | 01:05:55   | the Plex app on my phone as basically a remote for my television and then say, hey, play this thing.    |
 | 01:06:01   | And so with the addition of a couple of shortcuts, which are, I've got a shortcut,                      |
-| 01:06:06   | which literally just turns on my Apple TV and tells it to open the Plex app. And then it opens          |
+| 01:06:06   | which literally just turns on my [[Apple TV]] and tells it to open the Plex app. And then it opens          |
 | 01:06:12   | the Plex app on my phone so I can pick something and then it just goes over. And that is beautiful.     |
 | 01:06:19   | And it works. And it's also fairly other people friendly if you have, you know,                         |
 | 01:06:23   | other people in your household, which I know both of you do.                                            |
@@ -700,7 +700,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:08:05   | media to need re-encoding. So if it needs re-encoding, then you need a much more powerful               |
 | 01:08:09   | machine. But all of my stuff, when I ripped it, I formatted it so that I could play it.                 |
 | 01:08:13   | Like it was originally in iTunes so that I could use iTunes home sharing. I think it was called         |
-| 01:08:21   | back in the day where you would have your Mac on and then you could play it on the Apple TV             |
+| 01:08:21   | back in the day where you would have your Mac on and then you could play it on the [[Apple TV]]             |
 | 01:08:26   | or your iPad or something. And then after, for a while, I switched over to [[Infuse]] and just shared       |
 | 01:08:31   | the drive on my network, which worked pretty well. And then I decided that actually I wanted            |
 | 01:08:36   | it to be available outside of my network and for my parents to also be able to access it.               |

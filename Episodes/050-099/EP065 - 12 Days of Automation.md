@@ -1295,10 +1295,10 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:07:46   | So there's a button in every room, then it puts up the blinds in the other two rooms                     |
 | 01:07:50   | for them as well.                                                                                        |
 | 01:07:51   | So that they only need to open one blind.                                                                |
-| 01:07:53   | And they're really happy and my mom was super excited because they're Apple TV for some                  |
+| 01:07:53   | And they're really happy and my mom was super excited because they're [[Apple TV]] for some                  |
 | 01:07:57   | reason hadn't been functioning as a home cat hub.                                                        |
 | 01:07:59   | And now it does because I actually installed the updates pro tip folks, if, if something's               |
-| 01:08:04   | not working and you're using an Apple TV as a home hub, install the updates.                             |
+| 01:08:04   | not working and you're using an [[Apple TV]] as a home hub, install the updates.                             |
 | 01:08:07   | It makes a difference.                                                                                   |
 | 01:08:08   | But yeah.                                                                                                |
 | 01:08:09   | And so, you know, she, she, she went out and disconnected from the Wi-Fi network while                   |

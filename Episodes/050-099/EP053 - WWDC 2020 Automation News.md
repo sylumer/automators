@@ -591,24 +591,24 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 39:39      | You know, I'm not traveling, doesn't, you know, if something goes wrong, I can rebuild                                                                    |
 | 39:44      | it.                                                                                                                                                       |
 | 39:45      | It's not the end of the world.                                                                                                                            |
-| 39:46      | Uh, the, uh, now you put a note in here about Apple TV on, um, automations.                                                                               |
+| 39:46      | Uh, the, uh, now you put a note in here about [[Apple TV]] on, um, automations.                                                                               |
 | 39:50      | I didn't even realise that was in this.                                                                                                                   |
 | 39:53      | Have you played with that?                                                                                                                                |
 | 39:54      | Okay.                                                                                                                                                     |
-| 39:55      | So the Apple TV had a bunch of automation actions already in there, like waking your                                                                      |
-| 39:58      | Apple TV, opening apps on your Apple TV and stuff like that.                                                                                              |
+| 39:55      | So the [[Apple TV]] had a bunch of automation actions already in there, like waking your                                                                      |
+| 39:58      | [[Apple TV]], opening apps on your [[Apple TV]] and stuff like that.                                                                                              |
 | 40:01      | This year, I think I've only spotted two actions, which I'm pretty certain were not there before,                                                         |
-| 40:06      | which is switching users on the Apple TV and starting the screensaver on the Apple TV.                                                                    |
+| 40:06      | which is switching users on the [[Apple TV]] and starting the screensaver on the [[Apple TV]].                                                                    |
 | 40:11      | Um, there may be other actions that are new, but there are quite a few actions to control                                                                 |
-| 40:15      | your Apple TV.                                                                                                                                            |
-| 40:16      | And especially if you have a shared Apple TV, um, and most people control it by their                                                                     |
+| 40:15      | your [[Apple TV]].                                                                                                                                            |
+| 40:16      | And especially if you have a shared [[Apple TV]], um, and most people control it by their                                                                     |
 | 40:20      | phones because you lost that remote years ago and nobody knows where it is anymore.                                                                       |
 | 40:25      | Um, then, uh, you can actually set up a shortcut on everyone's phone that's going to open it                                                              |
 | 40:29      | with their user profile.                                                                                                                                  |
 | 40:31      | Um, so it'll have their watch history for things and their game history, um, which is                                                                     |
 | 40:37      | improved this year in tvOS, I believe.                                                                                                                    |
 | 40:39      | I'm just thinking through an automation where I walk in the room where we have our TV and                                                                 |
-| 40:45      | my, uh, my shortcuts recognises it and sets my watch face to the one with the Apple TV                                                                    |
+| 40:45      | my, uh, my shortcuts recognises it and sets my watch face to the one with the [[Apple TV]]                                                                    |
 | 40:52      | remote on it.                                                                                                                                             |
 | 40:53      | So much to play with.                                                                                                                                     |
 | 40:54      | All right.                                                                                                                                                |
@@ -852,7 +852,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 53:06      | in the next year about [[HomeKit]].                                                                                                                       |
 | 53:07      | Oh yeah, especially with some of the other stuff coming.                                                                                                  |
 | 53:10      | So you mentioned that it can announce on a [[HomePod]] that when somebody's at the door,                                                                  |
-| 53:14      | it can also show you that video on the Apple TV of that person at your door, which is great.                                                              |
+| 53:14      | it can also show you that video on the [[Apple TV]] of that person at your door, which is great.                                                              |
 | 53:20      | And it'll come up and it'll send pushes to your devices so that you'll know who's at                                                                      |
 | 53:24      | the door and you can look at them and you can watch them and go, hmm, do you look like                                                                    |
 | 53:27      | they're in a good mood?                                                                                                                                   |

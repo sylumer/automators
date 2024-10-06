@@ -1081,8 +1081,8 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:00:55   | Um, uh, but then why wouldn't you just pick up your iPhone to do the action instead?                                      |
 | 01:01:00   | Either way, um, this is slightly, uh, frustrating.                                                                        |
 | 01:01:04   | Uh, yes, press the type.                                                                                                  |
-| 01:01:06   | And then if I tap on notification, it's kind of like the Apple TV remote where you can                                    |
-| 01:01:11   | then type onto the Apple TV from your iPhone or your iPad, except it's slow and it comes                                  |
+| 01:01:06   | And then if I tap on notification, it's kind of like the [[Apple TV]] remote where you can                                    |
+| 01:01:11   | then type onto the [[Apple TV]] from your iPhone or your iPad, except it's slow and it comes                                  |
 | 01:01:15   | up with connecting to start with.                                                                                         |
 | 01:01:18   | Well, I, uh, I love focus modes.                                                                                          |
 | 01:01:21   | I think it's great and it, even as it's shipping, I'm very happy with it.                                                 |

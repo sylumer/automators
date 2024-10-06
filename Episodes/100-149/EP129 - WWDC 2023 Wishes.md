@@ -256,7 +256,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 13:24      | I feel like going slightly nerdier here, the ability to adjust your control centre would              |
 | 13:32      | be really nice as well.                                                                               |
 | 13:35      | Because there are things that I don't need access to in certain focus modes.                          |
-| 13:40      | For example, in my work focus mode, I don't need access to the Apple TV remote.                       |
+| 13:40      | For example, in my work focus mode, I don't need access to the [[Apple TV]] remote.                       |
 | 13:45      | That's just something I don't need.                                                                   |
 | 13:46      | And in my fitness focus mode, I want access to music recognition.                                     |
 | 13:50      | That is something I definitely want, because in my belly class, a number of times that                |
@@ -305,8 +305,8 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 16:42      | At the moment, we have triggers for shortcuts on iPhone, we've got triggers for shortcuts             |
 | 16:47      | on iPad.                                                                                              |
 | 16:48      | We don't have them on the Apple Watch and we don't have them on the Mac.                              |
-| 16:51      | We also don't have them on Apple TV, but that's a little different.                                   |
-| 16:53      | I feel like Apple TV maybe could potentially trigger a focus mode if you're playing something,        |
+| 16:51      | We also don't have them on [[Apple TV]], but that's a little different.                                   |
+| 16:53      | I feel like [[Apple TV]] maybe could potentially trigger a focus mode if you're playing something,        |
 | 16:58      | but that's a problem for another time, but right now, shortcuts on Mac, no automation                 |
 | 17:05      | triggers.                                                                                             |
 | 17:06      | And even though there are ways around this to an extent there, there are pretty apps                  |
@@ -1015,7 +1015,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:04:06   | I'll sit down and figure this out.                                                                    |
 | 01:04:08   | It's three o'clock in the morning.                                                                    |
 | 01:04:09   | You get woken up and you want to go back to sleep and you're cranky.                                  |
-| 01:04:12   | Like worst case scenario, well, best case scenario is the Apple TV guess right now out the window     |
+| 01:04:12   | Like worst case scenario, well, best case scenario is the [[Apple TV]] guess right now out the window     |
 | 01:04:17   | or something and fingers crossed it bounces.                                                          |
 | 01:04:19   | But, you know, if that happens, you're going to be cranky and it's going to be understandable         |
 | 01:04:24   | and you're not going to want to debug it, you're just going to be like, no, turn off                  |

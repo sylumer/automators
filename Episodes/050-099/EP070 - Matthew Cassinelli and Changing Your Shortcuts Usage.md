@@ -1018,7 +1018,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:33:23   | I think there's a lot to shortcuts now I think even I mean just like control basic controls over                                 |
 | 01:33:30   | the Mac from shortcuts would be cool like being able to just turn on your computer and stuff that                                |
 | 01:33:35   | you can do via ssh right now with shortcuts which most people probably don't know about but it's still                           |
-| 01:33:41   | powerful there and having control over all your ios devices like I put I would I would use apple tv                              |
+| 01:33:41   | powerful there and having control over all your ios devices like I put I would I would use [[Apple TV]]                              |
 | 01:33:48   | shortcuts if they were on there yeah well I've got one that's not on your list Matthew which I think                             |
 | 01:33:53   | you would like is uh just like they've got uh sections in the Mac in the app store for uh in                                     |
 | 01:33:59   | app purchases and things like that I kind of feel that there ought to be a section for shortcuts                                 |

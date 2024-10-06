@@ -378,7 +378,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 14:59      | It's very [[Apple]] though.                                                                                       |
 | 15:00      | They take one, you know, iCloud, Siri, there's a bunch of words that mean a lot of things                     |
 | 15:04      | coming out of [[Apple]].                                                                                          |
-| 15:05      | Oh, you mean like Apple TV where I can watch Apple TV plus on the [[Apple TV app]] of my Apple                    |
+| 15:05      | Oh, you mean like [[Apple TV]] where I can watch [[Apple TV]] plus on the [[Apple TV app]] of my Apple                    |
 | 15:09      | TV?                                                                                                           |
 | 15:10      | Yes.                                                                                                          |
 | 15:11      | Exactly like that.                                                                                            |
@@ -497,7 +497,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 20:57      | And you know, the thought that goes through my mind, it's not particularly useful, but                        |
 | 21:00      | the thought that goes through my mind is like, I know a little bit about this stuff.                          |
 | 21:04      | I know enough to be dangerous, but like for somebody who saw one of those presentations                       |
-| 21:09      | and then tried to put it in place, I mean, just setting up an Apple TV could be, can                          |
+| 21:09      | and then tried to put it in place, I mean, just setting up an [[Apple TV]] could be, can                          |
 | 21:15      | be kind of crazy.                                                                                             |
 | 21:16      | You know, like you go to your relative's house and they'll have motion smoothing turned                       |
 | 21:19      | on because they've never learned that motion smoothing is a thing.                                            |
@@ -747,7 +747,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 35:24      | care about right now?                                                                                         |
 | 35:25      | Like what is what is their heart really in?                                                                   |
 | 35:28      | Is it Ted Lasso?                                                                                              |
-| 35:29      | Is it Apple TV?                                                                                               |
+| 35:29      | Is it [[Apple TV]]?                                                                                               |
 | 35:30      | Like which thing is it?                                                                                       |
 | 35:31      | I don't have an answer to that and I'm not trying to be coy.                                                  |
 | 35:34      | But I do know that.                                                                                           |
@@ -1767,7 +1767,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:31:13   | HomePod Mini has a lot to recommend it.                                                                       |
 | 01:31:15   | You can do a stereo pair, but guess what?                                                                     |
 | 01:31:16   | It doesn't do Atmos, okay, oh, but I can still make that the permanent source coming out                      |
-| 01:31:20   | of my Apple TV, no, that's just on the other Apple TV, and it's like, okay, like, I know                      |
+| 01:31:20   | of my [[Apple TV]], no, that's just on the other [[Apple TV]], and it's like, okay, like, I know                      |
 | 01:31:26   | all that because I watched Tim get up there and learn what he's excited for me to do something                |
 | 01:31:30   | with.                                                                                                         |
 | 01:31:31   | And it's crazy making to me how much inconsistency there is between different things, like, make              |
@@ -1857,7 +1857,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:36:16   | One of the hallmark features though, in some ways, is all these apps you can run, productivity                |
 | 01:36:22   | apps.                                                                                                         |
 | 01:36:23   | Replacements for [[Dropbox]], replacements for G Suite, maybe not as good, but like a video                       |
-| 01:36:28   | serving system that you could like look at videos on your Apple TV, even if you're not                        |
+| 01:36:28   | serving system that you could like look at videos on your [[Apple TV]], even if you're not                        |
 | 01:36:32   | a Plex user.                                                                                                  |
 | 01:36:33   | But of course, yes, it has Plex.                                                                              |
 | 01:36:34   | It's got all of the things.                                                                                   |

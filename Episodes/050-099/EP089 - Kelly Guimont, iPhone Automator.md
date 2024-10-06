@@ -706,8 +706,8 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 54:57      | as like control centre, like if you spend 10 minutes making all the buttons in control centre,           |
 | 55:01      | the things that you actually need them to be, like control centre, all of a sudden becomes               |
 | 55:06      | super duper useful, you know, and it's not useful to a lot of people, depending on what's in there       |
-| 55:11      | now. So put this in it or, you know, add the calculator or add the Apple TV remote or take               |
-| 55:16      | away the Apple TV remote and make it something else that you use a lot instead. And it's really          |
+| 55:11      | now. So put this in it or, you know, add the calculator or add the [[Apple TV]] remote or take               |
+| 55:16      | away the [[Apple TV]] remote and make it something else that you use a lot instead. And it's really          |
 | 55:21      | about sort of coming at it fresh every time and being able to go, Okay, this is the problem I'm          |
 | 55:27      | trying to solve and be able being able to see it for what it is and not just well, this is the way       |
 | 55:32      | things are, I guess I just come home and it's dark and there's nothing to be done. You know,             |

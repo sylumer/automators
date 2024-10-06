@@ -705,8 +705,8 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 59:05      | you know, getting the laptop up to an ergonomic height or anything. And that keyboard and mouse           |
 | 59:10      | would then also be able to work directly with the Vision Pro for input purposes, which would be,          |
 | 59:15      | you know, pretty, pretty cool. But this would then also allow me to ditch things like I usually           |
-| 59:20      | take a Chromecast with me rather than the Apple TV just because it's physically smaller. But if I,        |
-| 59:25      | you know, I have taken Apple TVs with me when traveling before. And so I wouldn't need that               |
+| 59:20      | take a Chromecast with me rather than the [[Apple TV]] just because it's physically smaller. But if I,        |
+| 59:25      | you know, I have taken [[Apple TV\|Apple TVs]] with me when traveling before. And so I wouldn't need that               |
 | 59:29      | either because I could just sit in bed with the Vision Pro on and watch probably a better screen          |
 | 59:34      | than there is in the hotel room after I spent five minutes futzing with the TV to try and get             |
 | 59:38      | its term to Chromecast input. And ended up using my portable monitor anyway. And things like that.        |

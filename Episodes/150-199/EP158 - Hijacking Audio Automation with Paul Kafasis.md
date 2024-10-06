@@ -427,7 +427,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 24:48      | library of over 1,300 tutorials.                                                                              |
 | 24:51      | As a member, you have access to the whole archive, which you can access through the ScreenCast                |
 | 24:56      | Online website or through their dedicated Mac and iOS app, or sit back and watch on                           |
-| 25:01      | your Apple TV.                                                                                                |
+| 25:01      | your [[Apple TV]].                                                                                                |
 | 25:02      | You'll also get access to all issues of their monthly digital magazine, which is filled                       |
 | 25:07      | with content that helps you learn more about all aspects related to your device, with original                |
 | 25:12      | articles from contributors like Don McAllister, Allison Sheridan, and even myself.                            |
@@ -853,7 +853,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 50:45      | And I could explain to her, hey, wouldn't it be nice if your lights could turn on and                         |
 | 50:49      | off when you want on vacation?                                                                                |
 | 50:51      | And here's how we can set that up with, at this point, like $30 worth of hardware and                         |
-| 50:56      | then the Apple TV that she already has, and that'll work automatically.                                       |
+| 50:56      | then the [[Apple TV]] that she already has, and that'll work automatically.                                       |
 | 51:00      | Whereas if I tried to explain, oh, you can automate [[Audio Hijack]] to do these various                      |
 | 51:05      | things, that would be beyond, she could probably understand it, but it'd be beyond anything                   |
 | 51:10      | that she was interested in.                                                                                   |

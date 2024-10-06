@@ -216,7 +216,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 09:40      | I'll be joining that soon.                                                                              |
 | 09:42      | And then I also do Clockwise, hair on relay FM with Dan Moran, and a podcast called Unhelpful           |
 | 09:52      | Suggestions, which is just an occasional podcast I do with my pal, Joe Rosensteel, where we             |
-| 09:56      | mostly talk about sort of Apple TV and media, but also end up talking about pies and all                |
+| 09:56      | mostly talk about sort of [[Apple TV]] and media, but also end up talking about pies and all                |
 | 10:02      | sorts of all sorts of fun stuff.                                                                        |
 | 10:04      | And then the last one that I'll mention, because it's also more regular is a podcast called             |
 | 10:09      | Total Party Kill, The Dog and Pony Show, which is on the incomparable network.                          |
@@ -1143,7 +1143,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:24:05   | trigger, that farms out to if this and that, which processes it as soon as it can, obviously,           |
 | 01:24:12   | but that's not necessarily going to be instant. And then it has to come back. You've got so many        |
 | 01:24:17   | potential points of failure added over something like [[HomeKit]] where the processing is done locally      |
-| 01:24:22   | in your home on a HomePod or an Apple TV. And that's why local based automations when you want          |
+| 01:24:22   | in your home on a HomePod or an [[Apple TV]]. And that's why local based automations when you want          |
 | 01:24:30   | the start and the ends to be local are usually the best. That's just the way that these things          |
 | 01:24:37   | end up working. So, Micah, if there's one area of automation you'd like to get better at, what is it?   |
 | 01:24:44   | Oh, man. I think it would be in more of the auto automations. It's the stuff that happens               |

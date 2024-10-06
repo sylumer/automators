@@ -482,7 +482,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 28:23      | away, if you want to shut the lights down, you want to check security, you want to be                  |
 | 28:28      | able to do that when you're not home.                                                                  |
 | 28:30      | So that immediately in [[HomeKit]] that the [[HomeKit]] hub or controller provides that and the [[HomeKit]]        |
-| 28:36      | hub is an Apple TV or a HomePod in systems like Google or [[Amazon]], their apps do that                   |
+| 28:36      | hub is an [[Apple TV]] or a HomePod in systems like Google or [[Amazon]], their apps do that                   |
 | 28:44      | through their cloud, their apps do that through their cloud infrastructure and in more advanced        |
 | 28:50      | hobbyist and prosumer devices like [[Home Assistant]] or Hubitat, the hub itself either provides           |
 | 28:58      | it or has an add-on capability for remote access.                                                      |
@@ -1186,7 +1186,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:19:07   | I need to have another work with my dad about that.                                                    |
 | 01:19:10   | I found [[Zigbee]] not to have problems with that sort of thing, whereas Wi-Fi devices, you're             |
 | 01:19:17   | trying to cram so many things onto a network, and you still want to be able to stream Netflix          |
-| 01:19:20   | or Apple TV and so on, it's just asking for trouble, isn't it?                                         |
+| 01:19:20   | or [[Apple TV]] and so on, it's just asking for trouble, isn't it?                                         |
 | 01:19:25   | Yes, but I don't think it's the case of the bandwidth or the network itself.                           |
 | 01:19:30   | It's the design of the devices and the software and the firmware.                                      |
 | 01:19:33   | You'll note most new devices now use Bluetooth for initial setup, and that bypasses the problematic    |

@@ -1250,7 +1250,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:05:25   | inside their phones or usually their Apple watches.                                                  |
 | 01:05:27   | And occasionally their iPads I noticed this weekend to turn on the lamp.                             |
 | 01:05:31   | And that they really like because it also means that, you know, if they're out and they've           |
-| 01:05:35   | forgotten because they do have an Apple TV, if they've forgotten that, you know, to turn             |
+| 01:05:35   | forgotten because they do have an [[Apple TV]], if they've forgotten that, you know, to turn             |
 | 01:05:40   | the lamp off or they think, did we remember to turn the lamp off?                                    |
 | 01:05:43   | They can open their phones and look at it and turn it off.                                           |
 | 01:05:47   | That was also useful a couple of months ago when I was trying to call my parents and they            |

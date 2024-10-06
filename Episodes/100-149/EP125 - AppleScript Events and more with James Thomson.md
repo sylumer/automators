@@ -364,8 +364,8 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 29:10      | So I basically, I had started with one room and replaced all the lights in one room. And               |
 | 29:17      | it was working reasonably well. And we ended up with a pair, well, first one HomePod Mini              |
 | 29:24      | and then a second one, which now work as they're a stereo set for our television connected             |
-| 29:32      | to the Apple TV. And virtually everything that we watched on television is through the                 |
-| 29:36      | Apple TV. So, you know, I have that. And so we were just switching the lights off and                  |
+| 29:32      | to the [[Apple TV]]. And virtually everything that we watched on television is through the                 |
+| 29:36      | [[Apple TV]]. So, you know, I have that. And so we were just switching the lights off and                  |
 | 29:43      | on in the room with Siri. And Siri, 90% works. Usually it's the trigger that fails for me              |
 | 29:56      | for some reason. But anyway, because pandemic, nobody else was coming into our place. So               |
 | 30:06      | it didn't really matter that, you know, if some random person was here that they couldn't              |

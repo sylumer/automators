@@ -709,7 +709,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 35:44      | buttons?                                                                                              |
 | 35:45      | Yeah.                                                                                                 |
 | 35:46      | I like the [[Logitech Harmony\|Harmony remote]].                                                                            |
-| 35:48      | I have programmed to control my soundbar, my TV, and my Apple TV, and the Roku.                       |
+| 35:48      | I have programmed to control my soundbar, my TV, and my [[Apple TV]], and the Roku.                       |
 | 35:56      | So I basically, I can narrow it down to just one remote.                                              |
 | 35:59      | I keep the [[Apple TV]] remote out because the touchpad is basically how you navigate.                    |
 | 36:07      | But for turning power on, off, changing inputs, volume, all done through the Logitech Harmony\|Harmony remote]].          |
@@ -747,7 +747,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 37:33      | I'm glad you're still using it.                                                                       |
 | 37:34      | Yeah.                                                                                                 |
 | 37:35      | Now, that's pretty cool.                                                                              |
-| 37:36      | Going back to Siri, do you ever use Siri on the Apple TV?                                             |
+| 37:36      | Going back to Siri, do you ever use Siri on the [[Apple TV]]?                                             |
 | 37:40      | Yes, all the time.                                                                                    |
 | 37:42      | Yeah.                                                                                                 |
 | 37:43      | And it's great for dictating in searches and stuff.                                                   |

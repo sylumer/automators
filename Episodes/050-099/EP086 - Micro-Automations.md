@@ -1276,7 +1276,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:11:49   | Yes.                                                                                                    |
 | 01:11:50   | So I already had the Apple pencil for my 12.9 inch iPad pro.                                            |
 | 01:11:55   | I have not bought a second Apple pencil.                                                                |
-| 01:11:57   | I do not need two Apple pencils.                                                                        |
+| 01:11:57   | I do not need two [[Apple Pencil\|Apple Pencils]].                                                                        |
 | 01:11:59   | So I just have the same one.                                                                            |
 | 01:12:00   | And because you just pair it by sticking it to the side, it's really easy.                              |
 | 01:12:05   | If I want to use it on the bigger one, I have hot swap between them a couple of times.                  |

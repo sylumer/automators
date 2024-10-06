@@ -175,7 +175,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 08:06      | the temperature to that and turns on the television or something.                                        |
 | 08:09      | Yeah, so combination. So rather than the five or six individual switches, you can throw                  |
 | 08:15      | one switch and make a whole series of things happen. And that remote control extends outside             |
-| 08:20      | the front door with the Apple [[HomeKit]]. If you have an Apple TV or even an enabled iPad                   |
+| 08:20      | the front door with the Apple [[HomeKit]]. If you have an [[Apple TV]] or even an enabled iPad                   |
 | 08:27      | at the house, you can control those devices remotely and just to go back to the air conditioning         |
 | 08:32      | example, it gets really hot here in Southern California. So if the whole family's been                   |
 | 08:37      | out of the house and we're heading back in the afternoon and we're going to know we're                   |
@@ -183,9 +183,9 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 08:46      | we can turn on the air conditioning so we can home the house is a little cooler.                         |
 | 08:51      | Yes. And I should also point out you don't have to make these available on the wider                     |
 | 08:57      | internet, but the advantage with [[HomeKit]] is it is available just for you. And as well                    |
-| 09:01      | as an iPad or an Apple TV, you can actually use a HomePod as well. So if you've been on                  |
+| 09:01      | as an iPad or an [[Apple TV]], you can actually use a HomePod as well. So if you've been on                  |
 | 09:07      | the fence about getting a smart speaker and you haven't picked one yet, but you don't                    |
-| 09:12      | have an Apple TV or an iPad that lives at home to control [[HomeKit]] things, then maybe                     |
+| 09:12      | have an [[Apple TV]] or an iPad that lives at home to control [[HomeKit]] things, then maybe                     |
 | 09:17      | a HomePod is the right solution for you because it will also work as an automation hub.                  |
 | 09:21      | Yeah, another another car automation that we do is I have a series of buttons that turn                  |
 | 09:26      | on the porch light, the interior light and some of the lights that we would want when                    |
@@ -363,7 +363,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 23:01      | somewhere had a refurbished one or a returned one or something. And they said it was in                  |
 | 23:07      | like excellent condition. And I got it and the cellophane on the box didn't even appear                  |
 | 23:10      | to have been touched. So I now have a HomePod and a Sonos, which means that my HomePod could             |
-| 23:17      | act as an automation hub. I also have an Apple TV and iPads galore, it seems like. So I have             |
+| 23:17      | act as an automation hub. I also have an [[Apple TV]] and iPads galore, it seems like. So I have             |
 | 23:24      | plenty of options there as my [[HomeKit]] hub. So those are the two speakers that I've got.                  |
 | 23:30      | And then as far as lighting goes, it's predominantly Philips Hue lights. We replaced our bedroom         |
 | 23:36      | light with a light that's got a fan above it last year. And one of the requirements                      |
@@ -396,7 +396,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 25:50      | them with. But they're pretty good. So there's one by the front door that you just press                 |
 | 25:55      | it once on your way out and everything turns off even the Sonos, which is really good.                   |
 | 26:00      | And then aside from that, we've got a [[Logitech Harmony\|Logitech Harmony Hub]], which means that you can switch              |
-| 26:05      | between the media PC attached to our television, the Apple TV or my [[Nintendo Switch]] very quickly         |
+| 26:05      | between the media PC attached to our television, the [[Apple TV]] or my [[Nintendo Switch]] very quickly         |
 | 26:11      | and it controls the lights as well. Yeah, I want to talk about that [[Logitech Harmony\|Harmony Hub]]. I've                    |
 | 26:17      | not used one in years. I played with one once, actually sent it back because it wasn't working           |
 | 26:22      | that well for me. But what's the primary goal of it?                                                     |
@@ -407,23 +407,23 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 26:44      | things when controlling stuff. So he's much more of this kind of person who would happily                |
 | 26:51      | pick up the remote control versus talk to the television, which of course can be done                    |
 | 26:55      | now because we've got the [[Logitech Harmony\|Harmony Hub]]. But this way, we have the remote control and with                 |
-| 27:01      | one press, you can either use the media PC or switch to the Apple TV and turn on the                     |
+| 27:01      | one press, you can either use the media PC or switch to the [[Apple TV]] and turn on the                     |
 | 27:08      | gaming, the gaming mode, which is my [[Nintendo Switch]], but it also controls the lighting                  |
 | 27:13      | as well. And so it will dim the lights when you start doing something and then it will                   |
 | 27:19      | brighten the lights up afterwards, which is really nice.                                                 |
 | 27:22      | Does that device work with home cameras? It just happened to also work with your hues?                   |
 | 27:27      | It happens to work with the hues. So unfortunately, it doesn't control my Nanoleaf light panels,         |
 | 27:31      | but they're also not right next to the television. So that's not too much of a problem.                  |
-| 27:36      | Since we cut our cable, I mean, we really only use the Apple TV. So we just have the                     |
-| 27:41      | one... We have the Apple TV remote that everybody hates, but I did put it in a little case as            |
+| 27:36      | Since we cut our cable, I mean, we really only use the [[Apple TV]]. So we just have the                     |
+| 27:41      | one... We have the [[Apple TV]] remote that everybody hates, but I did put it in a little case as            |
 | 27:49      | a magnet in it, so we just stick it to the TV. And my TV has that ability to... There's                  |
 | 27:55      | a setting for it, and somebody listening knows and they're banging their head against the                |
 | 27:59      | dashboard, but there's a setting in a lot of the more modern TVs where you can say get                   |
-| 28:04      | your power from the device connected to you. So the TV turns on when I press the Apple TV                   |
+| 28:04      | your power from the device connected to you. So the TV turns on when I press the [[Apple TV]]                   |
 | 28:10      | remote. So I don't even have to... I just have the one remote. It's very convenient.                  |
 | 28:14      | But I don't think I'm really a candidate. I think it's HDMI CEC. That's protocol. It's                   |
-| 28:19      | easy. Our Apple TV did that as well, and you could control it with the television remote,                |
-| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the Apple TV or over to the media              |
+| 28:19      | easy. Our [[Apple TV]] did that as well, and you could control it with the television remote,                |
+| 28:24      | but it's switching between my [[Nintendo Switch]] and back to the [[Apple TV]] or over to the media              |
 | 28:29      | PC because we don't have regular cable or even watch over-the-air stuff either. That                     |
 | 28:36      | was barking me enough that I was willing to get that and pay the money for it. And my                    |
 | 28:40      | boyfriend is actually very happy with it. So that was a very good investment slash birthday              |

@@ -160,7 +160,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 05:54      | And so I had a look in there and went, huh, okay, so based on, you know, what I, what               |
 | 05:59      | I'm looking at here, I should probably add some of these as options.                                |
 | 06:03      | So I have choosing a focus mode.                                                                    |
-| 06:05      | I've got toggling silent and rotation lock and the Apple TV remote is in there as well              |
+| 06:05      | I've got toggling silent and rotation lock and the [[Apple TV]] remote is in there as well              |
 | 06:13      | because that's pretty useful as a scanning a QR code.                                               |
 | 06:16      | And then I've also added some other options for like playing music where it'll pick, you            |
 | 06:21      | know, like a particular playlist and play it, but it picks a different playlist contextually        |

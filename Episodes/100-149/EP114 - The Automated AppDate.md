@@ -133,7 +133,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 04:07      | USB-C to Apple Pencil adapter.                                                                         |
 | 04:11      | There we go.                                                                                           |
 | 04:12      | It showed up in the search and apparently right now, if I look to order it, it's arriving              |
-| 04:17      | next week just before the Apple TV.                                                                    |
+| 04:17      | next week just before the [[Apple TV]].                                                                    |
 | 04:20      | So it's not too bad over here, but if you desperately need one, David, I'll ship one                   |
 | 04:26      | to you.                                                                                                |
 | 04:27      | It'll get there faster.                                                                                |
@@ -445,9 +445,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 22:15      | But I'll live with that.                                                                               |
 | 22:16      | But yeah, if I just need screen space, then I'll take the spare monitor with me.                       |
 | 22:21      | So yeah, but you know, I'm, I'm looking forward to the new 11 inch arriving and also my new            |
-| 22:28      | Apple TV, because I bought new Apple TV two weeks earlier.                                             |
+| 22:28      | [[Apple TV]], because I bought new [[Apple TV]] two weeks earlier.                                             |
 | 22:31      | So I was able to return it and get the new one that's coming in, which is good.                        |
-| 22:36      | So I'm going to shuffle some Apple TVs around because the new one I bought, I think was                |
+| 22:36      | So I'm going to shuffle some [[Apple TV\|Apple TVs]] around because the new one I bought, I think was                |
 | 22:42      | the same gen as the one in my living room.                                                             |
 | 22:43      | So I just chucked it in the bedroom, but now I'm getting the new one, like the new, new                |
 | 22:47      | one.                                                                                                   |
@@ -510,9 +510,9 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 26:06      | Yeah, I will do.                                                                                       |
 | 26:07      | And, uh, yeah, I'm crossing my fingers that the new fun things will actually be new and                |
 | 26:11      | fun, but, uh, it's always good to see that, uh, [[Apple]] are, you know, bringing out updates              |
-| 26:16      | and especially, um, you know, the, the updates, the Apple TV don't sound like much, but they           |
+| 26:16      | and especially, um, you know, the, the updates, the [[Apple TV]] don't sound like much, but they           |
 | 26:20      | have explicitly added a, the ability for it to be a threat border router, which for those              |
-| 26:24      | of you into smart home things, if you've been looking at a new Apple TV for a while now,               |
+| 26:24      | of you into smart home things, if you've been looking at a new [[Apple TV]] for a while now,               |
 | 26:29      | you know, this is the one to get it.                                                                   |
 | 26:31      | Well, it's, I mean, you get the, the slightly more expensive one, which is the same price              |
 | 26:35      | as it was previously anyway.                                                                           |

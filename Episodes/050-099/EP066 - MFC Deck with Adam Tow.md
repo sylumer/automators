@@ -1010,8 +1010,8 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 41:42      | this automation stuff.                                                             |
 | 41:43      | And I think that's just because I gave them an Eve energy                          |
 | 41:45      | plug before and they're, and it's Bluetooth based and their                        |
-| 41:48      | Apple TV was not working as a home get hub spoiler people.                         |
-| 41:51      | You need to update the Apple TV if you want it to work as a                        |
+| 41:48      | [[Apple TV]] was not working as a home get hub spoiler people.                         |
+| 41:51      | You need to update the [[Apple TV]] if you want it to work as a                        |
 | 41:54      | good home care hub.                                                                |
 | 41:55      | If you don't update it, it just doesn't work.                                      |
 | 41:57      | So, you know, they told me they don't really like                                  |

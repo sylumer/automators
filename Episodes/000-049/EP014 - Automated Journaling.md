@@ -419,7 +419,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 19:25      | So it allows you to log everything that you watch films, TV shows, etc.                             |
 | 19:32      | And it can produce an RSS feed, it can produce calendar feeds, all sorts of things.                 |
 | 19:37      | And then I take that RSS feed from track.tv and I have that sent to [[Day One]].                        |
-| 19:43      | So every time I watch something, I use [[Infuse]] on the Apple TV and on iOS a lot of the time          |
+| 19:43      | So every time I watch something, I use [[Infuse]] on the [[Apple TV]] and on iOS a lot of the time          |
 | 19:49      | to watch things, it will automatically log that for me.                                             |
 | 19:54      | And so I'm sitting there and I've watched two episodes of, say, Death in Paradise, rewatching       |
 | 19:59      | last season in anticipation of the new season coming next week, I believe, when this episode        |

@@ -867,7 +867,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 49:34      | So there are two different playback actions inside of shortcuts.                                          |
 | 49:39      | There's one which says, set the playback of your device, set your playback destination,                   |
 | 49:44      | sorry.                                                                                                    |
-| 49:45      | And that you can specify, you know, like an Apple TV or a HomePod.                                       |
+| 49:45      | And that you can specify, you know, like an [[Apple TV]] or a HomePod.                                       |
 | 49:49      | And that's what I mostly use, but you can also hand off the playback to be completely                     |
 | 49:53      | independent.                                                                                              |
 | 49:54      | Can you do that with [[Dark Noise]] with that work?                                                           |
@@ -876,10 +876,10 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 50:03      | So you can't, it has to be coming through the phone, which I think is the case for anything               |
 | 50:09      | third party at the moment.                                                                                |
 | 50:10      | Like I still can't even play like [[Spotify]] through my HomePod unless it's coming through                  |
-| 50:15      | my phone or my Apple TV.                                                                                  |
+| 50:15      | my phone or my [[Apple TV]].                                                                                  |
 | 50:17      | Yeah.                                                                                                     |
 | 50:18      | Which is unfortunate.                                                                                     |
-| 50:19      | Will there be [[Dark Noise]] for the Apple TV though?                                                         |
+| 50:19      | Will there be [[Dark Noise]] for the [[Apple TV]] though?                                                         |
 | 50:22      | That's a question.                                                                                        |
 | 50:23      | It's definitely on my list of things that I would like to add, but I'm trying to get                      |
 | 50:26      | the iOS app fully featured first.                                                                         |

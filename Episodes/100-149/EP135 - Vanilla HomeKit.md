@@ -459,7 +459,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 25:34      | you need to buy a box that's got a doodad in it that says [[HomeKit]] on the box.                             |
 | 25:39      | That's where it starts.                                                                                   |
 | 25:40      | Yeah.                                                                                                     |
-| 25:41      | Well, I mean, you could also argue that it starts with a Apple TV or a HomePod as well.                   |
+| 25:41      | Well, I mean, you could also argue that it starts with a [[Apple TV]] or a HomePod as well.                   |
 | 25:47      | Because in order for your [[HomeKit]] home to be a properly smart home, you are going to                      |
 | 25:52      | need a device that lives at home to be the controller or one of the controllers, realistically,           |
 | 26:00      | because if you have more than one of these, then they sort of go around and around Robin.                 |
@@ -471,7 +471,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 26:27      | been able to upgrade to the new [[HomeKit]] architecture.                                                     |
 | 26:31      | So you would need to remove the iPad as [[HomeKit]] hub and then update that.                                 |
 | 26:35      | But it also took it away in the iPadOS settings as well.                                                  |
-| 26:38      | But yeah, so you'll need either a HomePod or an Apple TV or more than one of those to                     |
+| 26:38      | But yeah, so you'll need either a HomePod or an [[Apple TV]] or more than one of those to                     |
 | 26:43      | be a [[HomeKit]] hub.                                                                                         |
 | 26:45      | And then, yeah, some kind of [[HomeKit]] widgety-wadgety.                                                     |
 | 26:48      | It could be a [[HomeKit]] light, it could be a [[HomeKit]] camera, doorbell, it could just be                     |

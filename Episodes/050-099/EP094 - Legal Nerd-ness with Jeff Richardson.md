@@ -644,7 +644,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 44:43      | finishes, it reopens it. You can't just say that. You just can't say that, Rose. I've been playing      |
 | 44:48      | with [[Home Assistant]] a bit, David. Maybe we'll do a future show on it. But just real quick,              |
 | 44:52      | how are you using your TV as a trigger? So specifically, because I'm using [[Home Assistant]]               |
-| 45:00      | for this, you can tell when the Apple TV starts playing something and when it pauses. And so I          |
+| 45:00      | for this, you can tell when the [[Apple TV]] starts playing something and when it pauses. And so I          |
 | 45:07      | actually use that, which means that if I pause for a bathroom break, then the lights come back on.      |
 | 45:11      | But yeah, and that's pretty cool.                                                                       |
 | 45:14      | But what a tease. Rose may work for this.                                                               |
@@ -661,7 +661,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 46:06      | things called a Eufy Cam. It's just a camera, you know, a camera for the outside of the house.          |
 | 46:10      | And I've got one in my front yard, pointed out my front yard. And I've got one pointed at my            |
 | 46:14      | backyard. This isn't really an automation thing. But I have to admit, since I've had them, I think      |
-| 46:18      | it's really cool that I can just use my iPhone or iPad or whatever Mac or Apple TV even. And you        |
+| 46:18      | it's really cool that I can just use my iPhone or iPad or whatever Mac or [[Apple TV]] even. And you        |
 | 46:24      | know, you can very easily see what's going on in the front of your house, what's going on in the        |
 | 46:28      | back of your house. I've liked it because it's cool. And my wife, who's not very techie, she            |
 | 46:34      | likes it just to know what's going on. So anything that can please both of us, you know, is a real      |
@@ -761,10 +761,10 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 54:10      | expand and do more. And sometimes I get frustrated that [[Apple]] has not been moving more quickly,         |
 | 54:16      | but that they are improving it, and it is getting better, which is good.                                |
 | 54:19      | I hate to do this to you, Jeff, but I'll tell you what the problem is with your doorbell cam,           |
-| 54:24      | because I have the same one as you can't put it on your Apple TV.                                       |
-| 54:28      | Oh, actually, that's a good point. Yeah, because what I love on the Apple TV,                           |
+| 54:24      | because I have the same one as you can't put it on your [[Apple TV]].                                       |
+| 54:28      | Oh, actually, that's a good point. Yeah, because what I love on the [[Apple TV]],                           |
 | 54:31      | and I'm sure you know this, and folks don't have this, if you have multiple cameras in your house,      |
-| 54:35      | there's a way on the Apple TV, you can see just with one screen, all the different cameras at once.     |
+| 54:35      | there's a way on the [[Apple TV]], you can see just with one screen, all the different cameras at once.     |
 | 54:40      | Now, because I have a front yard camera, you know, the additional angle that I would get from a         |
 | 54:44      | doorbell camera versus the front yard. I mean, there's so much overlap there that I'm not really        |
 | 54:49      | missing out. But yeah, that's the one thing I knew about, and it hasn't been a big deal,                |

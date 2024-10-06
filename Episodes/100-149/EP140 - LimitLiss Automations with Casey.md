@@ -538,7 +538,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 37:34      | I can't, you know, I don't actually know what the problem is. I'm doing some guesswork                   |
 | 37:39      | here. But I've not had it happen to me, but I'm also the only person in my smart home,                   |
 | 37:44      | which makes a bit of a difference with the automations. So yeah, fingers crossed, they're                |
-| 37:49      | changing your location sharing to another device, reboot all the things, reboot Apple TVs                |
+| 37:49      | changing your location sharing to another device, reboot all the things, reboot [[Apple TV\|Apple TVs]]                |
 | 37:54      | and HomePods and stuff like that as well. Yeah, like literally reboot everything and                     |
 | 37:59      | then turn change the location back and then see if it starts working again magically. And                |
 | 38:05      | hopefully it will. But it's kind of tricky to figure this stuff out. So you are not the                  |
@@ -630,7 +630,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 45:04      | Yeah. What I'll say about home assistant versus Homebridge, you know, Homebridges is, is               |
 | 45:08      | fine. And I used it for a while. The, the problem with Homebridge is you're still relying               |
 | 45:14      | on home kit. And that is for better and for worse. So yes, everything is running, you                    |
-| 45:20      | know, on HomePods and Apple TVs in your home, you don't need anything extra and stuff like              |
+| 45:20      | know, on HomePods and [[Apple TV\|Apple TVs]] in your home, you don't need anything extra and stuff like              |
 | 45:25      | that other than, you know, the device running Homebridge, but you're still reliant on home              |
 | 45:31      | kit. And so you end up doing things like creating a dummy switch that when it turns on, turns            |
 | 45:35      | off automatically after 15 minutes so that you can have an automation turn it on. And                    |

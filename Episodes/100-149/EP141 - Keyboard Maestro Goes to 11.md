@@ -508,7 +508,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 26:55      | you know, when you screencast, you want to set your resolution bigger.                                             |
 | 27:00      | Here's a screencaster trick for the audience.                                                                      |
 | 27:02      | You don't want your standard high fidelity screen resolution when you screencast because                           |
-| 27:08      | when people are watching it at home on their Apple TV or their small screen, it's hard                             |
+| 27:08      | when people are watching it at home on their [[Apple TV]] or their small screen, it's hard                             |
 | 27:12      | to read the text and everything is smaller than it should be.                                                      |
 | 27:15      | So you actually want to bump up the resolution to a much where the text is bigger, you know,                       |
 | 27:22      | it's not something I would use daily as I'm working with the computer, but when I record                           |

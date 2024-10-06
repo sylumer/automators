@@ -602,7 +602,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 45:21      | and a number of things, but [[Home Assistant]] is a very big one and it's open source. And                   |
 | 45:26      | essentially, the idea is that it is a small brain that lives in your house on a computer                 |
 | 45:31      | and it does a variety of different things. But on [[HomeKit]], where you have to have an                     |
-| 45:39      | always-on iPad that stays at home or an Apple TV or a HomePod, you can run this on a computer            |
+| 45:39      | always-on iPad that stays at home or an [[Apple TV]] or a HomePod, you can run this on a computer            |
 | 45:46      | that you might already have that's in your home. So I was running on a Raspberry Pi for                  |
 | 45:51      | a while and then I ended up buying a slightly more powerful machine because I wanted to be               |
 | 45:56      | able to do lots of things with data tracking. But the idea is that you run a small server                |
