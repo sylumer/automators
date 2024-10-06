@@ -547,7 +547,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 43:04      | going to type when this is done. And then you can also just ignore dynamic placeholders,                 |
 | 43:10      | which means that those things won't be expanded for you.                                                 |
 | 43:14      | So I mean, this is, it's not as fully fledged as something like TextExpander,                           |
-| 43:20      | where you can use JavaScript to write custom things, which will do magical math to make stuff            |
+| 43:20      | where you can use [[JavaScript]] to write custom things, which will do magical math to make stuff            |
 | 43:25      | happen. But it's pretty good. Like if you want to get started with text expansion,                       |
 | 43:31      | you could do much worse than starting with [[Alfred]].                                                       |
 | 43:33      | Yeah, especially if you've already got a license. I mean, go for it.                                     |

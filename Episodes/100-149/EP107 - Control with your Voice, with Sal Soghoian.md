@@ -570,15 +570,15 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 32:35      | Because they come from an engineering background and I had a lot of experience with how it           |
 | 32:39      | works in the real world.                                                                             |
 | 32:42      | And they came upon a couple brilliant things that really opened the door.                            |
-| 32:46      | The first was they based all of their Omni Automation on core JavaScript from WebKit.                |
+| 32:46      | The first was they based all of their Omni Automation on core [[JavaScript]] from WebKit.                |
 | 32:55      | And since WebKit ships on every [[Apple]] device, they had this consistent source of highly              |
 | 33:00      | optimised language that they could use.                                                              |
-| 33:04      | And so Omni Automation is JavaScript.                                                                |
+| 33:04      | And so Omni Automation is [[JavaScript]].                                                                |
 | 33:08      | And what they did is they exposed the object model of their applications kind of like they           |
 | 33:15      | did with AppleScript.                                                                               |
 | 33:16      | You know, in AppleScript, you can script a task or a project, right?                                |
 | 33:25      | And it has properties and each one of those properties is available to the script.                   |
-| 33:30      | Well, they did that same thing with JavaScript.                                                      |
+| 33:30      | Well, they did that same thing with [[JavaScript]].                                                      |
 | 33:33      | And so the first thing that we talked about was, well, how do we communicate that script             |
 | 33:41      | between applications and from external sources?                                                      |
 | 33:44      | And we came up with the concept of using it in a URL.                                                |
@@ -627,12 +627,12 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 36:49      | structures that you're still working around today.                                                   |
 | 36:53      | But this concept, since Omni had, you know, ownership of all four of their productivity              |
 | 36:59      | apps, they were able to make this possible.                                                          |
-| 37:02      | And it's been interesting that other developers have also decided that JavaScript is a default       |
+| 37:02      | And it's been interesting that other developers have also decided that [[JavaScript]] is a default       |
 | 37:08      | language that they use.                                                                              |
-| 37:10      | And many of the apps like Rosemary said, like [[Drafts]], use JavaScript-based as their automation       |
+| 37:10      | And many of the apps like Rosemary said, like [[Drafts]], use [[JavaScript]]-based as their automation       |
 | 37:18      | as well.                                                                                             |
 | 37:19      | And so it works well.                                                                                |
-| 37:21      | And since HTML also is integrated with JavaScript, running Omni Automation within HTML works         |
+| 37:21      | And since HTML also is integrated with [[JavaScript]], running Omni Automation within HTML works         |
 | 37:27      | really well.                                                                                         |
 | 37:28      | It works very good as well.                                                                          |
 | 37:31      | And that's why when you go to the Omni-Automation website, the examples on the web page you          |
@@ -1438,7 +1438,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:30:13   | I'm super happy to see it coming around and like you, man, I just want to see more app               |
 | 01:30:17   | developers jump in.                                                                                  |
 | 01:30:20   | But yeah, the other piece of that is it's making the other automation apps like Keyboard             |
-| 01:30:25   | Maestro and [[Hazel]] and even like going to AppleScript and JavaScript, it's like it's                 |
+| 01:30:25   | Maestro and [[Hazel]] and even like going to AppleScript and [[JavaScript]], it's like it's                 |
 | 01:30:32   | pulling all this stuff together where now we can just pick and choose what tool we want              |
 | 01:30:37   | and combine it all into one thing.                                                                   |
 | 01:30:40   | Right.                                                                                               |
@@ -1450,7 +1450,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:31:16   | achieve what you want.                                                                               |
 | 01:31:18   | And it'd be great the more that applications expose themselves to automation if they also            |
 | 01:31:25   | support that with internal scripting as well, like in the way that the Omni Group did with           |
-| 01:31:32   | their version of JavaScript with Omni Automation.                                                    |
+| 01:31:32   | their version of [[JavaScript]] with Omni Automation.                                                    |
 | 01:31:36   | That makes it easier for somebody that's looking to automate something very specific                 |
 | 01:31:42   | in a unique way, it makes that possible.                                                             |
 | 01:31:46   | Is what the Omni Group did something that ultimately [[Apple]] should do for the operating               |
@@ -1458,7 +1458,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:31:55   | an app-by-app basis?                                                                                 |
 | 01:31:58   | No matter what you do, developers are going to have to be on board with it, right?                   |
 | 01:32:03   | And at this point, so many developers have come up with their own solutions and they're              |
-| 01:32:09   | unifying pretty much unlike the JavaScript world that if [[Apple]] came in and threw the                 |
+| 01:32:09   | unifying pretty much unlike the [[JavaScript]] world that if [[Apple]] came in and threw the                 |
 | 01:32:15   | card upside down by adding something totally different, that would be kind of disruptive             |
 | 01:32:22   | at this point.                                                                                       |
 | 01:32:24   | I don't know, I've always thought that everything should be scriptable, that every application,      |
@@ -1470,15 +1470,15 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:33:03   | it can be very disruptive.                                                                           |
 | 01:33:06   | Just making it easier for developers to implement a scripting architecture would be very helpful.    |
 | 01:33:14   | If somebody's listening and they want to go to the next level and they say, okay, I need             |
-| 01:33:18   | to get better at JavaScript so I can enter the race here, any recommendations for places             |
+| 01:33:18   | to get better at [[JavaScript]] so I can enter the race here, any recommendations for places             |
 | 01:33:25   | to go learn that stuff?                                                                              |
-| 01:33:27   | That's one of the beautiful things about JavaScript.                                                 |
-| 01:33:29   | I mean, JavaScript is not one of my preferred languages, but the thing about it, it's so             |
+| 01:33:27   | That's one of the beautiful things about [[JavaScript]].                                                 |
+| 01:33:29   | I mean, [[JavaScript]] is not one of my preferred languages, but the thing about it, it's so             |
 | 01:33:35   | well documented and it's so optimised.                                                               |
 | 01:33:39   | So it's very fast and you can always find documentation about it.                                    |
 | 01:33:45   | There are some online resources that we list.                                                        |
 | 01:33:49   | If you go to like the OmniFocus section of the Omni Automation website, we list a bunch              |
-| 01:33:56   | of different places to go to learn JavaScript at various levels of expertise.                        |
+| 01:33:56   | of different places to go to learn [[JavaScript]] at various levels of expertise.                        |
 | 01:34:03   | And there's lots of resources publicly available in videos.                                          |
 | 01:34:07   | And like Rose says, there's plenty of examples to steal from.                                        |
 | 01:34:12   | You just go to the website and we try to make everything bite-sized so that you can just             |
@@ -1494,7 +1494,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:34:53   | paste or copy-pasta, as it's sometimes referred to, those chunks.                                    |
 | 01:34:57   | Because then they know that this section here is the bit that does what they need without            |
 | 01:35:02   | necessarily having to read the whole script.                                                         |
-| 01:35:04   | And that's why a little bit of formatting is really useful, although JavaScript doesn't              |
+| 01:35:04   | And that's why a little bit of formatting is really useful, although [[JavaScript]] doesn't              |
 | 01:35:09   | require you to add extra spaces and line breaks and so on.                                           |
 | 01:35:12   | It can make it really nice and easy for other people.                                                |
 | 01:35:14   | And I know my scripts are not great examples, the ones that I've written of that.                    |
@@ -1524,10 +1524,10 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:36:37   | down a particular path and you can see why they've got stuck where they're stuck, but                |
 | 01:36:40   | actually taking a few steps back is going to make it a lot easier for them.                          |
 | 01:36:44   | So yeah, but it's really great to see what other people are stealing.                                |
-| 01:36:49   | And the only thing about JavaScript is a lot of the tutorials you'll find on the internet            |
-| 01:36:53   | are for the web, because JavaScript is what is used to do lots of magic things in your               |
+| 01:36:49   | And the only thing about [[JavaScript]] is a lot of the tutorials you'll find on the internet            |
+| 01:36:53   | are for the web, because [[JavaScript]] is what is used to do lots of magic things in your               |
 | 01:36:58   | browser.                                                                                             |
-| 01:36:59   | But it's also quite useful to use that as a way to learn JavaScript, because you just                |
+| 01:36:59   | But it's also quite useful to use that as a way to learn [[JavaScript]], because you just                |
 | 01:37:06   | need a browser.                                                                                      |
 | 01:37:07   | [[Firefox]] or [[Google Chrome\|Chrome]] are probably best as much as I love [[Safari]], [[Safari\|Safari's]] developer tools.              |
 | 01:37:12   | Don't have things in the same place that a lot of tutorials will tell you where to find              |
@@ -1536,7 +1536,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:37:23   | But yeah, it's really useful.                                                                        |
 | 01:37:25   | And I just love how universal it's becoming thanks to WebKit.                                        |
 | 01:37:30   | Yes.                                                                                                 |
-| 01:37:31   | And as the most novice JavaScript person on this podcast, I'll say that I've learned a               |
+| 01:37:31   | And as the most novice [[JavaScript]] person on this podcast, I'll say that I've learned a               |
 | 01:37:35   | lot just looking at the voice control scripts, because for each one, Sal has listed the code         |
 | 01:37:43   | underneath it.                                                                                       |
 | 01:37:44   | You can, it's not just download this file, you can literally look through the code, and              |
@@ -1600,7 +1600,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:40:07   | that whole website.                                                                                  |
 | 01:40:08   | There is so much good stuff there, because it's not just OmniFocus.                                  |
 | 01:40:13   | You've got stuff there for the other Omni apps as well.                                               |
-| 01:40:15   | And all of this is JavaScript Automation, which can be applied on any device, whichever              |
+| 01:40:15   | And all of this is [[JavaScript]] Automation, which can be applied on any device, whichever              |
 | 01:40:20   | you have for your Omni apps.                                                                          |
 | 01:40:21   | Anywhere else people should go, Sal, to check this stuff out?                                        |
 | 01:40:25   | That's our one-stop shop right now is the Omni-Automation website.                                   |

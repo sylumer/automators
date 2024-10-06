@@ -19,7 +19,7 @@ The service operates with a freemium model that offers only a small number of za
 - Filter results to ensure only relevant data is transferred
 - Built-in tools for debugging and monitoring Zaps
 - Support for multi-step conditional logic
-- Advanced features using JavaScript code snippets
+- Advanced features using [[JavaScript]] code snippets
 - Access to pre-made templates for common workflows
 - Detailed analytics and reporting on automation performance
 - Security features such as encryption and two-factor authentication

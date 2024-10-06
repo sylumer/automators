@@ -849,7 +849,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:06:18   | in those applications. And I've got some smart groups that are just for my development applications.     |
 | 01:06:24   | But it's even smarter than that in that it looks at the name of the window, and it checks what the       |
 | 01:06:29   | file extension is in the name of the window. And then if it's a PHP file, it will do one thing.          |
-| 01:06:36   | And if it's a JavaScript file, it will do a different thing and so on and so forth so that               |
+| 01:06:36   | And if it's a [[JavaScript]] file, it will do a different thing and so on and so forth so that               |
 | 01:06:40   | I can type whatever my magic incantation is. And I get exactly the right result for whatever          |
 | 01:06:46   | language I'm programming in, which is I think something I would have struggled to do with                |
 | 01:06:51   | just playing text expansion. But I was really pleased to be able to sort that out with keyboard          |
@@ -941,21 +941,21 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:15:07   | most [[Safari]] window. But I do use [[Firefox]] and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
-| 01:15:22   | are using JavaScript, as opposed to AppleScript, what is the balance for you between AppleScript         |
+| 01:15:22   | are using [[JavaScript]], as opposed to AppleScript, what is the balance for you between AppleScript         |
 | 01:15:28   | and other languages? I mean, it really depends. Honestly, if I'm actually going to be writing            |
-| 01:15:34   | a script to automate something on the Mac, I am not going to use JavaScript. JavaScript for              |
+| 01:15:34   | a script to automate something on the Mac, I am not going to use [[JavaScript]]. [[JavaScript]] for              |
 | 01:15:39   | automation is one of those things that was a lovely idea. And when I say JavaScript for                  |
-| 01:15:43   | automation, I'm talking specifically the JavaScript version of AppleScript, not JavaScript, as you       |
+| 01:15:43   | automation, I'm talking specifically the [[JavaScript]] version of AppleScript, not [[JavaScript]], as you       |
 | 01:15:48   | would find it in [[Drafts]] or similar. But it was a wonderful idea. And I love what they were going         |
 | 01:15:54   | for. But somehow, it just does not have all the same event hooks as AppleScript, which means that        |
-| 01:16:02   | you can write the same script in AppleScript and JavaScript. And the AppleScript one will work           |
-| 01:16:08   | consistently. And the JavaScript one will just sometimes randomly stop or miss something or not          |
+| 01:16:02   | you can write the same script in AppleScript and [[JavaScript]]. And the AppleScript one will work           |
+| 01:16:08   | consistently. And the [[JavaScript]] one will just sometimes randomly stop or miss something or not          |
 | 01:16:14   | be triggered or not do something that you would expect. And I don't know why that is. I've talked        |
 | 01:16:19   | to a number of different people. And essentially, the running theory appears to be that it didn't        |
 | 01:16:24   | quite get hooked up in all the same places. And so therefore, it sometimes just doesn't work,            |
 | 01:16:30   | which is a real shame. So I am using AppleScript for anything very specifically Mac. But where I'm       |
 | 01:16:38   | doing something that will be multi-platform, where I want it on my iPhone as well, I will go             |
-| 01:16:43   | with JavaScript because I can write JavaScript and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
+| 01:16:43   | with [[JavaScript]] because I can write [[JavaScript]] and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
 | 01:16:47   | I can use it in Scriptable. I could use it in the browser. And I can use it on my Mac or my iPhone       |
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |
@@ -978,7 +978,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:18:46   | If you use the word let in [[Swift]], that is a constant. And so just things like that will trip             |
 | 01:18:51   | up people who are a bit newer to language, which is a bit of a shame, perhaps, but also, you know,       |
 | 01:18:56   | there's reasons behind why they've created [[Swift]], the way they've created it. And it's an                |
-| 01:19:01   | incredibly powerful language. So it would be lovely. But I feel like maybe because JavaScript            |
+| 01:19:01   | incredibly powerful language. So it would be lovely. But I feel like maybe because [[JavaScript]]            |
 | 01:19:08   | was already on every device as something that, for example, agile torches could just bundle              |
 | 01:19:14   | into [[Drafts]] and expose to people. And it's used in [[Obsidian]] and other things. It's                       |
 | 01:19:22   | perhaps accidentally gained a lot of momentum as an automation language.                                 |
@@ -989,22 +989,22 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:19:53   | to automation languages, you know, the Omni Group have spent a lot of time creating Omni                 |
 | 01:19:59   | Automation with [[Sal Soghoian]] for all of their apps, agile torches has got everything. You know,           |
 | 01:20:05   | [[Simon Støvring]] created Scriptable, created Scriptable, which essentially bridges a ton of [[Swift]]          |
-| 01:20:11   | into JavaScript. You know, [[Apple]] could do that. They could say, no, no, no, it's [[Swift]] from now          |
+| 01:20:11   | into [[JavaScript]]. You know, [[Apple]] could do that. They could say, no, no, no, it's [[Swift]] from now          |
 | 01:20:18   | on out. And I'm sure it would do fine. But I think it would end up being more like AppleScript                 |
 | 01:20:25   | in the sense that it's considered a relatively niche, odd thing. The significant[[                  ]]|
 | 01:20:34   | advantage for it would be that developers would be able to create a whole bunch of automations to        |
 | 01:20:38   | help them as part of their development process, because they're already writing [[Swift]]. But               |
 | 01:20:45   | I don't know. I feel like if they're going to do something, they should probably go with                 |
 | 01:20:48   | [[JavaScript]], because it's just the one that's there. I mean, they added the action. This was              |
-| 01:20:54   | what I was 13 of run JavaScript on [[Safari]] page, where you can run essentially a bookmarklet              |
+| 01:20:54   | what I was 13 of run [[JavaScript]] on [[Safari]] page, where you can run essentially a bookmarklet              |
 | 01:21:00   | on the [[Safari]] web page through shortcuts and then get that information back.                             |
 | 01:21:11   | There's the option when they added shortcuts to the Mac, they added a run [[JavaScript]] for Mac             |
 | 01:21:18   | automation, along with the run AppleScript automation. I have a feeling AppleScript is                 |
 | 01:21:22   | probably not going anywhere. But I hope maybe that somebody goes in and has a poke around with           |
-| 01:21:29   | JavaScript for Mac and tries to find some of that weirdness that I've been experiencing.                 |
+| 01:21:29   | [[JavaScript]] for Mac and tries to find some of that weirdness that I've been experiencing.                 |
 | 01:21:34   | And I know a lot of other people have as well. I do think that it's probably more work to take           |
 | 01:21:38   | AppleScript out than to just leave it in. So that's probably what they're going to do.                  |
-| 01:21:43   | But I hope you're right on JavaScript. I would like to see a unified scripting language across           |
+| 01:21:43   | But I hope you're right on [[JavaScript]]. I would like to see a unified scripting language across           |
 | 01:21:48   | all [[Apple]] platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
 | 01:21:55   | like they hinted at it last year in [[WWDC]] when they talked about how the shortcuts on the Mac             |
 | 01:22:02   | is just the beginning. And my fingers are crossed and I'm really hoping that they have got a good        |
@@ -1022,7 +1022,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:23:16   | not a laptop if they don't feel like they need a laptop 99% of the time, but they would quite            |
 | 01:23:21   | like an iPad. So they should be able to do their work on it. And I think adding [[Swift]] as a scripting     |
 | 01:23:26   | language on iOS is much less likely than opening up shortcuts some more and giving people some           |
-| 01:23:33   | extra JavaScript that they can run with it. This episode of Automators is brought to you by              |
+| 01:23:33   | extra [[JavaScript]] that they can run with it. This episode of Automators is brought to you by              |
 | 01:23:39   | Hover, one of Relay FM's longest running sponsors. When you have that one big idea,                     |
 | 01:23:43   | where do you go? Well, your business starts with a domain name. And so for many entrepreneurs,           |
 | 01:23:48   | Hover is that big leap. Hover has over 300 domain extensions to choose from. No matter what you          |

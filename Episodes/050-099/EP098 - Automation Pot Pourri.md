@@ -2000,8 +2000,8 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:22:19   | and you've got it everywhere.                                         |
 | 01:22:20   | And what you can do is even if you...                                 |
 | 01:22:23   | So the template or plug-in in [[Obsidian]]                                |
-| 01:22:26   | will allow you to just run JavaScript.                                |
-| 01:22:28   | So you could write your own JavaScript automations                    |
+| 01:22:26   | will allow you to just run [[JavaScript]].                                |
+| 01:22:28   | So you could write your own [[JavaScript]] automations                    |
 | 01:22:30   | that will ask you questions and pop up fields                         |
 | 01:22:33   | and prompts and let you input stuff.                                  |
 | 01:22:35   | But what you could also do is just input placeholders.                |
@@ -2074,7 +2074,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:25:29   | But you can go and look at stuff                                      |
 | 01:25:32   | and find how do they do this.                                         |
 | 01:25:35   | I want something that's almost the same.                              |
-| 01:25:37   | Well, if you've been learning JavaScript                              |
+| 01:25:37   | Well, if you've been learning [[JavaScript]]                              |
 | 01:25:39   | to do automation with [[Drafts]] or Scriptable                            |
 | 01:25:42   | or Omni applications or similar,                                      |
 | 01:25:44   | then you could modify these.                                          |
@@ -2084,7 +2084,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 01:25:54   | I'm not a coder, I couldn't do it.                                    |
 | 01:25:56   | I'm 100% confident that if you wanted to,                             |
 | 01:25:59   | you could or you would find the help to do it                         |
-| 01:26:02   | because it's JavaScript at the end of the day                         |
+| 01:26:02   | because it's [[JavaScript]] at the end of the day                         |
 | 01:26:05   | and it's automation and you could write your own automations          |
 | 01:26:08   | for this if you wanted to.                                            |
 | 01:26:10   | It's not necessarily the right solution.                              |

@@ -219,7 +219,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 10:29      | You have also made a group of 100-plus OmniFocus scripts.                                             |
 | 10:34      | One of the things they did with the currently shipping versions of OmniFocus and OmniFocus            |
 | 10:40      | 4, which is in the works, is they've added this robust OmniJavaScript automation engine               |
-| 10:47      | and Sal's been with your knowledge of JavaScript, you've been building out all these automations.     |
+| 10:47      | and Sal's been with your knowledge of [[JavaScript]], you've been building out all these automations.     |
 | 10:53      | So basically, you've added 100, I would say, features or utilities to the application.                |
 | 11:00      | So if you wanted to, like I at one point asked you, can you make one that takes every active          |
 | 11:06      | task and puts a deferred date to today?                                                               |
@@ -263,13 +263,13 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 14:00      | their implementation of automation so that it makes it easy for an automator to create                |
 | 14:06      | something, a tool, and then just use it everywhere and not worry about it.                            |
 | 14:11      | The other nice thing I like about what you've done is you've shared everything.                       |
-| 14:14      | So if you're listening and when I say JavaScript, your mind gets a little foggy and you're a          |
-| 14:20      | little worried about it, actually, it's a great JavaScript course, in essence, because                |
+| 14:14      | So if you're listening and when I say [[JavaScript]], your mind gets a little foggy and you're a          |
+| 14:20      | little worried about it, actually, it's a great [[JavaScript]] course, in essence, because                |
 | 14:25      | you know what the script is doing, so I'll explain it, but he gives you the source right              |
 | 14:30      | on the page.                                                                                          |
-| 14:32      | And I am a JavaScript spelunker, if I would say, you know, if you say, sit down and write             |
-| 14:38      | a JavaScript from scratch, I probably would fail.                                                     |
-| 14:42      | But if you said, put a JavaScript together that does this thing, well, I've got enough                |
+| 14:32      | And I am a [[JavaScript]] spelunker, if I would say, you know, if you say, sit down and write             |
+| 14:38      | a [[JavaScript]] from scratch, I probably would fail.                                                     |
+| 14:42      | But if you said, put a [[JavaScript]] together that does this thing, well, I've got enough                |
 | 14:46      | examples of stuff, I can usually kind of cobble it together to work.                                  |
 | 14:52      | And it's on my list of things to do is one day is to get much better at it.                           |
 | 14:56      | But you don't give me much motivation to do that because Sal makes them and then I just               |
@@ -279,7 +279,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 15:12      | So like there's a function in this one about how to get it to speak the text, because a               |
 | 15:18      | lot of these scripts you've written, not only just doing you ask, but it also says,                   |
 | 15:22      | hey, I'm opening the such and such project.                                                           |
-| 15:25      | And now I've got this, I actually saved that snippet of JavaScript in here.                           |
+| 15:25      | And now I've got this, I actually saved that snippet of [[JavaScript]] in here.                           |
 | 15:29      | And I'm like, well, the next time I make one and I want to have it call out what it's doing,          |
 | 15:34      | now I've got Sal's script here, I can just go ahead and make a few changes and get it                 |
 | 15:38      | going.                                                                                                |
@@ -352,28 +352,28 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 20:03      | There's certain pages in the Omni Automation website that are just designed to do that                |
 | 20:09      | for you, and we have links to them within the [[Alfred]] documentation.                                   |
 | 20:14      | Of course you've solved the problem already.                                                          |
-| 20:19      | If somebody is listening, and they're like, well, I might be a little better at JavaScript            |
+| 20:19      | If somebody is listening, and they're like, well, I might be a little better at [[JavaScript]]            |
 | 20:23      | than Sparky, and I want to start building my own, what are some places they should                    |
 | 20:28      | go to?                                                                                                |
 | 20:29      | Obviously, Omni Automation is a great place to get started, but I guess this Omni flavour              |
-| 20:35      | of JavaScript really is the trick for automating all of the Omni Group apps, which I'm asking         |
+| 20:35      | of [[JavaScript]] really is the trick for automating all of the Omni Group apps, which I'm asking         |
 | 20:43      | you to agree with me.                                                                                 |
 | 20:44      | Is that basically where you should start?                                                             |
-| 20:47      | Yeah, the reason is because it's really based on core JavaScript with WebKit, so it's foundational.   |
+| 20:47      | Yeah, the reason is because it's really based on core [[JavaScript]] with WebKit, so it's foundational.   |
 | 20:55      | You're not learning special case scenarios where you have to have some library installed              |
 | 21:01      | or something.                                                                                         |
-| 21:02      | You're learning core JavaScript, which is super well documented on the Internet.                      |
-| 21:07      | We list on many of the pages resources for online training for doing basic JavaScript,                |
-| 21:15      | and all of your basic JavaScript functions work there.                                                |
+| 21:02      | You're learning core [[JavaScript]], which is super well documented on the Internet.                      |
+| 21:07      | We list on many of the pages resources for online training for doing basic [[JavaScript]],                |
+| 21:15      | and all of your basic [[JavaScript]] functions work there.                                                |
 | 21:19      | What we've done at Omni is expose all the different elements of the applications to                   |
-| 21:26      | that core JavaScript.                                                                                 |
-| 21:29      | There's some terminology like task, project, that aren't part of JavaScript, but are used             |
-| 21:36      | with JavaScript.                                                                                      |
+| 21:26      | that core [[JavaScript]].                                                                                 |
+| 21:29      | There's some terminology like task, project, that aren't part of [[JavaScript]], but are used             |
+| 21:36      | with [[JavaScript]].                                                                                      |
 | 21:37      | It's almost like an extension.                                                                        |
 | 21:39      | Yeah.                                                                                                 |
 | 21:40      | Yeah.                                                                                                 |
 | 21:41      | It's all logical, and once you learn the basic principles of, okay, how do I do a loop,               |
-| 21:47      | or how do I describe a property, or how do I create a JavaScript object?                              |
+| 21:47      | or how do I describe a property, or how do I create a [[JavaScript]] object?                              |
 | 21:53      | Once you've learned the basic things from an online course, then you can quickly put                  |
 | 21:59      | together these.                                                                                       |
 | 22:00      | We also have tutorials.                                                                               |
@@ -943,7 +943,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:00:28   | Number one, should I learn [[AppleScript]]?                                                              |
 | 01:00:31   | And the implicit question there is, look, it just works on the Mac.                                   |
 | 01:00:34   | It doesn't work on the iPhone and iPad.                                                               |
-| 01:00:36   | Should I be spending my time in JavaScript instead?                                                   |
+| 01:00:36   | Should I be spending my time in [[JavaScript]] instead?                                                   |
 | 01:00:38   | That's the first question we get.                                                                     |
 | 01:00:39   | And the second question is, how do I learn [[AppleScript]]?                                              |
 | 01:00:43   | And Rose and I give advice, but I'm like, you know, there was a guy in charge of this                 |
@@ -1022,7 +1022,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:05:52   | want to do.                                                                                           |
 | 01:05:53   | Yeah, and, you know, when you talked about how some developer people don't like [[AppleScript]],                 |
 | 01:05:57   | see, I am the flip side of that coin.                                                         |
-| 01:06:00   | Like, to me, I look at JavaScript and I have to really parse it because there's a bunch               |
+| 01:06:00   | Like, to me, I look at [[JavaScript]] and I have to really parse it because there's a bunch               |
 | 01:06:06   | of periods and brackets and all this stuff.                                                           |
 | 01:06:09   | And I know that if I get any of that wrong, it all breaks.                                            |
 | 01:06:12   | And I grew up using [[AppleScript]], you know, at your knee.                                             |
@@ -1054,7 +1054,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:07:54   | off to the races.                                                                                     |
 | 01:07:55   | Yeah.                                                                                                 |
 | 01:07:56   | It's not that hard, honestly.                                                                         |
-| 01:07:58   | I mean, I would argue the even JavaScript and some of the more complex stuff is not that              |
+| 01:07:58   | I mean, I would argue the even [[JavaScript]] and some of the more complex stuff is not that              |
 | 01:08:02   | hard if you've got good examples, but [[AppleScript]] in particular is not that hard.                    |
 | 01:08:07   | The other advantage of [[AppleScript]] is it's been around so long that you are one Google               |
 | 01:08:12   | search away from an answer of almost anything.                                                        |
@@ -1131,7 +1131,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:12:29   | You're fine learning [[AppleScript]].                                                                    |
 | 01:12:30   | Yeah.                                                                                                 |
 | 01:12:31   | Maybe if you want to extend out into other platforms, it's a launching point to something             |
-| 01:12:35   | like JavaScript.                                                                                      |
+| 01:12:35   | like [[JavaScript]].                                                                                      |
 | 01:12:36   | But I can tell you personally, I do a lot of my most important work on the Mac and there's            |
 | 01:12:41   | a bunch of stuff I've automated over the years that I just can't do on a mobile device with,          |
 | 01:12:49   | but I can do it with [[AppleScript]] on the Mac.                                                         |
@@ -1144,14 +1144,14 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:13:14   | So then I put that into a TextExpander, snip it.                                                     |
 | 01:13:17   | So I just say X high and it says high sell.                                                           |
 | 01:13:20   | And I can't build that in [[Apple Mail]] on the iPhone because it doesn't have AppleScript               |
-| 01:13:27   | and there's no way to do it with JavaScript because they don't give me enough access,                 |
+| 01:13:27   | and there's no way to do it with [[JavaScript]] because they don't give me enough access,                 |
 | 01:13:31   | blah, blah, blah, blah.                                                                               |
 | 01:13:33   | But I can do that and I can do it on the platform that I use the most because of AppleScript.        |
 | 01:13:40   | It's quite viable and I still use it.                                                                 |
 | 01:13:43   | It's a prime automation tool for me.                                                                  |
 | 01:13:46   | I use it to create other automations.                                                                 |
 | 01:13:49   | And a lot of the times, you know, the examples that I put on Omni Automation are all done             |
-| 01:13:55   | with AppleScript generating the JavaScript.                                                          |
+| 01:13:55   | with AppleScript generating the [[JavaScript]].                                                          |
 | 01:13:59   | How do you do that?                                                                                   |
 | 01:14:02   | I use [[BBEdit]], which is a remarkable tool if you have to deal with text.                              |
 | 01:14:08   | I've heard Rose mentioned that app on show many times.                                                |
@@ -1163,7 +1163,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:14:32   | It is incredibly useful.                                                                              |
 | 01:14:33   | Yeah.                                                                                                 |
 | 01:14:34   | I'd never really thought of that like, you know, taking an AppleScript and converting                |
-| 01:14:38   | it to JavaScript because my JavaScript knowledge is too weak, but having an automated process         |
+| 01:14:38   | it to [[JavaScript]] because my [[JavaScript]] knowledge is too weak, but having an automated process         |
 | 01:14:45   | that's very attractive to me, that idea.                                                              |
 | 01:14:48   | Okay.                                                                                                 |
 | 01:14:49   | Well, I think we've made the case for AppleScript guys.                                              |

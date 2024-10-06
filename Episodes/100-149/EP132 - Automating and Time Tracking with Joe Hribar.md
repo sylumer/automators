@@ -408,7 +408,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 26:21      | What about the other developers? Because I feel like when I see an app like Timery,                  |
 | 26:27      | it really does vex me sometimes when there are other apps out there that obviously I                 |
 | 26:33      | would like to automate more, but there's no action available. On iOS and iPad, shortcuts             |
-| 26:39      | really is it in a lot of ways. There are some JavaScript things you can do, but you don't            |
+| 26:39      | really is it in a lot of ways. There are some [[JavaScript]] things you can do, but you don't            |
 | 26:44      | have [[AppleScript]] to fall back on and a lot of the other tools we get on the Mac. It feels           |
 | 26:49      | like a lot of developers have just taken a pass on automation. Why do you think that                 |
 | 26:54      | is? Why is everybody giving me toothbrushes, Joe?                                                    |

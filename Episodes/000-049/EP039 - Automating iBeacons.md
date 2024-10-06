@@ -1020,7 +1020,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:03      | your link there.                                                                                      |
 | 55:04      | And you're doing that with a [[Drafts]] action.                                                           |
 | 55:06      | Yeah.                                                                                                 |
-| 55:07      | JavaScript action that I wrote.                                                                       |
+| 55:07      | [[JavaScript]] action that I wrote.                                                                       |
 | 55:08      | Yeah.                                                                                                 |
 | 55:09      | You could also do that with [[Keyboard Maestro]] if you wanted.                                           |
 | 55:11      | Yeah, you could.                                                                                      |
@@ -1036,7 +1036,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 55:27      | Yeah.                                                                                                 |
 | 55:28      | I mean, maybe, maybe that's your hard work for this week.                                             |
 | 55:31      | I don't know.                                                                                         |
-| 55:32      | It's a thing you could do in [[Keyboard Maestro]] without running JavaScript.                             |
+| 55:32      | It's a thing you could do in [[Keyboard Maestro]] without running [[JavaScript]].                             |
 | 55:34      | You could, you could just make it an easy search and replace and a, a variable for the, and           |
 | 55:39      | a, and a pace, or you could even just grab the clipboard contents and automatically insert            |
 | 55:43      | it.                                                                                                   |
@@ -1065,7 +1065,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 57:00      | That's kensington.com/automators to learn more.                                                        |
 | 57:04      | Our thanks to Kensington for their support of this show and all of Relay FM.                         |
 | 57:09      | So David, I'm not the only person who's been solving automation problems, am I?                       |
-| 57:13      | Yeah, but I haven't been writing any JavaScript.                                                      |
+| 57:13      | Yeah, but I haven't been writing any [[JavaScript]].                                                      |
 | 57:15      | Mine is a little more basic, but I took a real hard look at my legal setup automation                 |
 | 57:23      | in the last few weeks.                                                                                |
 | 57:24      | You know, I've got this [[Stream Deck]] that I love, and I'm working on an update to the                  |

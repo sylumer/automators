@@ -769,7 +769,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 57:13      | because they were on the wrong list.                                                                      |
 | 57:15      | Yeah, I mean, that makes makes a lot of sense. You know, I would have, you know, when was                 |
 | 57:20      | it when you're a carpenter, when you have a hammer, everything's a nail. So, so I would                   |
-| 57:26      | have done this with the rather than trying to JavaScript it, I would have just used a                     |
+| 57:26      | have done this with the rather than trying to [[JavaScript]] it, I would have just used a                     |
 | 57:31      | choose from menu selection. Like if I, because I would, I do all shopping on iOS anyway.                  |
 | 57:37      | So if I was on iOS and I hit the share button on a website, what I would do is have a choose              |
 | 57:43      | from menu list and then I would have all of my typical locations because with OmniFocus                   |
@@ -782,21 +782,21 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 58:18      | I add a new store. And also the last store on the list had, it adds both my supermarket                   |
 | 58:23      | tag as well as the store name tag. And so that helps because, you know, you can see                       |
 | 58:32      | how to do that.                                                                                           |
-| 58:33      | And I just like the idea of doing it in JavaScript because then I can just add tons of things.            |
+| 58:33      | And I just like the idea of doing it in [[JavaScript]] because then I can just add tons of things.            |
 | 58:38      | I usually go through an open 10, 15 pages inside of, you know, [[Safari]] or [[Firefox]] on                       |
 | 58:45      | my work machine. If I'm taking a quick break from work, usually like three pages there.                   |
 | 58:49      | But then I just add them all. And then when I get to it later on whatever platform I'm                    |
-| 58:53      | on, that's why I went with the OmniFocus automation here with the JavaScript scripting. Then I            |
+| 58:53      | on, that's why I went with the OmniFocus automation here with the [[JavaScript]] scripting. Then I            |
 | 58:59      | can just run this and it will just clean up my inbox for me. And it's only if I'm doing                   |
 | 59:05      | the create a task with transport text. So that's the things that start with dash dash                     |
 | 59:10      | that it will go ahead and actually, you know, potentially put it in a project. Most of the                |
 | 59:15      | time it's just adding tags. And I've set my OmniFocus to only clean up my inbox if items                  |
 | 59:21      | have a project. So that's how that works for me.                                                          |
-| 59:26      | And honestly, this is a very easy to read JavaScript. So if you want to like get better                   |
+| 59:26      | And honestly, this is a very easy to read [[JavaScript]]. So if you want to like get better                   |
 | 59:32      | at it with OmniFocus, and Rose, you're going to make this available.                                      |
 | 59:36      | Yeah, the link is already in the show notes, prepped for everybody.                                       |
 | 59:39      | So this is an excellent one to download. Because it's so obvious when you look at it, even                |
-| 59:44      | if you're not a JavaScript programmer, you can see how it's very easy. Like, and I love                   |
+| 59:44      | if you're not a [[JavaScript]] programmer, you can see how it's very easy. Like, and I love                   |
 | 59:48      | the the step of removing the tag text. So you're essentially using names as tags, and                     |
 | 59:53      | you remove the tag. Yeah, yeah. Because it's very easy to spot a pattern                                  |
 | 59:59      | with things. And the last thing I want to have inside of my my list. Now, I'm not using                   |
@@ -835,7 +835,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 01:02:47   | say January 1, 2020, it says January 1, 2020. And so I need to put ordinals and dates and                 |
 | 01:02:56   | I want to do that automatically with TextExpander. So I can not only like call up a specific             |
 | 01:03:01   | date, but I can put in a code and it'll pick the date two weeks ago, or two weeks from now,               |
-| 01:03:06   | and add ordinals. And I know there's a way to do with JavaScript, but I'm not like Rose,                  |
+| 01:03:06   | and add ordinals. And I know there's a way to do with [[JavaScript]], but I'm not like Rose,                  |
 | 01:03:11   | I can't just write it off the top of my head, I actually have to research that one. And it's              |
 | 01:03:15   | on my list of things to do, but I haven't got there yet. Another thing I'm automating                     |
 | 01:03:21   | is getting texts out of Roam Research. So I talked about how they've got extensions on                    |

@@ -371,9 +371,9 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 27:52      | is [[JavaScript]] for the Mac where you can automate stuff. It's called JXA JavaScript for automation.     |
 | 27:59      | And it's kind of janky. It's based on the AppleScript, essentially. So it doesn't flow the same       |
 | 28:07      | way that regular [[JavaScript]] would. And it's very AppleScript-y. And if you're looking for examples,    |
-| 28:12      | you're going to find AppleScript everywhere, but you're going to struggle to find JavaScript          |
+| 28:12      | you're going to find AppleScript everywhere, but you're going to struggle to find [[JavaScript]]          |
 | 28:16      | examples. So you're going to have to learn the AppleScript so that you can translate                  |
-| 28:20      | the AppleScript into JavaScript anyway. And I saw the other day that agile tortoise is working on     |
+| 28:20      | the AppleScript into [[JavaScript]] anyway. And I saw the other day that agile tortoise is working on     |
 | 28:30      | AppleScript support for the Mac of [[Drafts]] or [[Drafts]] for Mac, which is going to be a pretty            |
 | 28:35      | awesome way to automate stuff. Imagine having keyboard moisture automatically fire things off          |
 | 28:40      | and generate a bunch of [[Drafts]] because you've got an AppleScript to tell it to do so.                 |
@@ -383,8 +383,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 29:00      | that is the language where you can take one bit of data and drive seven different applications         |
 | 29:05      | and make all sorts of cool things happen. So it is absolutely worth learning if you want to do any     |
 | 29:10      | automation on the Mac. The downside is it does not come over to iOS. You're not going to be            |
-| 29:15      | able to use that AppleScript knowledge on iOS. And AppleScript is so different from JavaScript       |
-| 29:21      | that I would recommend that you also learn JavaScript. You probably need them both for                 |
+| 29:15      | able to use that AppleScript knowledge on iOS. And AppleScript is so different from [[JavaScript]]       |
+| 29:21      | that I would recommend that you also learn [[JavaScript]]. You probably need them both for                 |
 | 29:27      | automation. But I think there's this impression because of the kind of rise of [[JavaScript]] for          |
 | 29:34      | automation that AppleScript is no longer relevant. And we've had [[Sal Soghoian\|Sal]] on the show in the past and Doug |
 | 29:41      | Adams and these guys, there are things they do with a Mac that I don't think is possible with          |

@@ -494,7 +494,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 34:59      | I've got two or three of them sitting around me at the same time? So, you know, it's not, it almost      |
 | 35:06      | would be creepy if they did know exactly which one I wanted every time. But the other thing I love       |
 | 35:11      | about this is, you know, we do the show Automators, and we talk to a lot of people about automation.     |
-| 35:16      | And some people have very complicated, you know, very deep JavaScript automation that does amazing       |
+| 35:16      | And some people have very complicated, you know, very deep [[JavaScript]] automation that does amazing       |
 | 35:23      | things. And I love that stuff. But I want the listeners to know that you don't have to do that           |
 | 35:29      | to make a very useful automation. In this case, Kelly made a, really, it's a one step automation         |
 | 35:35      | in shortcuts. It's setting the output to the AirPods. And then you were smart enough to realise,         |
@@ -838,7 +838,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:06:57   | better. Not that I don't want them to fail, because there's always going to be things that               |
 | 01:07:01   | are going to fail for whatever reason, but I would like the failure to be more obvious,                  |
 | 01:07:06   | and I would like the failure to be better delineated. If the problem is the script,                      |
-| 01:07:16   | the JavaScript that I inserted into a shortcut or something, just tell me, I can't run the script        |
+| 01:07:16   | the [[JavaScript]] that I inserted into a shortcut or something, just tell me, I can't run the script        |
 | 01:07:23   | even as opposed to just computer says no, which is usually what we get, and then you have to figure      |
 | 01:07:30   | out, in my two-step shortcut, it's pretty easy to tell which step is the one that didn't work,           |
 | 01:07:36   | but if you have 10 or 15 even, and that's not even close to being sort of an adult-sized                 |

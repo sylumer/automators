@@ -190,7 +190,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 08:46      | And most importantly for automation, you can run an [[AppleScript]] based on that button.                   |
 | 08:51      | So if you can visualise it, you can use this custom keyboard creator to lay out a keyboard               |
 | 08:59      | full of buttons that you like.                                                                           |
-| 09:00      | Like I'm going to make one on OmniFocus because there's all this OmniFocus JavaScript stuff              |
+| 09:00      | Like I'm going to make one on OmniFocus because there's all this OmniFocus [[JavaScript]] stuff              |
 | 09:07      | coming out.                                                                                              |
 | 09:08      | I'm going to figure out how to do that with this system.                                                 |
 | 09:10      | Well, I have been playing with that as a cell.                                                           |
@@ -825,7 +825,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 53:19      | having the ability to control applications through scripts brings.                                       |
 | 53:27      | Not having a system-wide scripting language on iOS has really limited some of the things                 |
 | 53:34      | that you can do.                                                                                         |
-| 53:37      | And the fact that Omni has now created this wonderful implementation of core JavaScript                  |
+| 53:37      | And the fact that Omni has now created this wonderful implementation of core [[JavaScript]]                  |
 | 53:43      | and exposed all the object models of the applications, and you can control those and script those,       |
 | 53:49      | gives that kind of ability in the same manner that AppleScript does on Mac OS.                          |
 | 53:55      | But it's really important that when [[Apple|Apple's]] thinking about the future and thinking about                 |
@@ -988,7 +988,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:04:02   | are scriptable.                                                                                          |
 | 01:04:04   | OmniFocus is still in developmental final mental stages at this point, but the basic                     |
 | 01:04:13   | library of scriptability and functionality has been put in place.                                        |
-| 01:04:18   | And it's quite remarkable that I can write a short JavaScript to automate something in                   |
+| 01:04:18   | And it's quite remarkable that I can write a short [[JavaScript]] to automate something in                   |
 | 01:04:25   | OmniFocus and that that script works the same on my phone, on my iPad, and on my Mac.                    |
 | 01:04:34   | That's quite impressive, the work that that team has done.                                               |
 | 01:04:38   | And it's really exciting, and I think it presents a vision for the future that is really comprehensive   |
@@ -1007,7 +1007,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:05:34   | a different perspective.                                                                                 |
 | 01:05:35   | And that's, for me, very inspiring because I'm looking through the documentation and                     |
 | 01:05:39   | I go, oh, well, what does this do?                                                                       |
-| 01:05:41   | And then I go down a rabbit hole and emerge six hours later, covered in JavaScript and                   |
+| 01:05:41   | And then I go down a rabbit hole and emerge six hours later, covered in [[JavaScript]] and                   |
 | 01:05:46   | set me colons, wondering why I didn't actually get anything done in OmniFocus, but I feel                |
 | 01:05:51   | really good about myself.                                                                                |
 | 01:05:53   | Possibly a life lesson to be learned there of maybe not getting quite so deep into these                 |
@@ -1021,10 +1021,10 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:06:20   | how useful it can make the Mac, but you don't have AppleScript on iOS.                                  |
 | 01:06:25   | So this solution you guys came up with gives you something that we thought we'd never have               |
 | 01:06:32   | on the Mac, an actual scripting language.                                                                |
-| 01:06:35   | And it's based on core JavaScript from WebKit.                                                           |
+| 01:06:35   | And it's based on core [[JavaScript]] from WebKit.                                                           |
 | 01:06:39   | So it's on all [[Apple]] devices and it's really optimised and fast.                                         |
-| 01:06:45   | And JavaScript is so documented and it's so widely used that anybody can get up to speed                 |
-| 01:06:56   | fairly quickly on the basics of writing JavaScript.                                                      |
+| 01:06:45   | And [[JavaScript]] is so documented and it's so widely used that anybody can get up to speed                 |
+| 01:06:56   | fairly quickly on the basics of writing [[JavaScript]].                                                      |
 | 01:07:00   | It's not as expressive as languages AppleScript is, but it is quite approachable and                    |
 | 01:07:07   | is well documented and easy to do.                                                                       |
 | 01:07:11   | I've been doing a lot of traveling this year and one of the things I have to do every time               |
@@ -1116,7 +1116,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:13:33   | to share what they have.                                                                                 |
 | 01:13:35   | And I'm always amazed at some of the integration that they've been able to do with other applications    |
 | 01:13:41   | like [[Drafts]].                                                                                             |
-| 01:13:44   | And it's just remarkable the tools that they've created using JavaScript where they're communicating     |
+| 01:13:44   | And it's just remarkable the tools that they've created using [[JavaScript]] where they're communicating     |
 | 01:13:51   | between all of these different applications and the Omni apps, too, as well.                              |
 | 01:13:56   | It's just remarkable.                                                                                    |
 | 01:13:58   | It is.                                                                                                   |
@@ -1124,12 +1124,12 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:14:00   | And I mean, so you talked about your packing lists earlier, I've created a whole action                  |
 | 01:14:05   | group for doing my packing lists and [[Drafts]], which I've been working on enhancing a little               |
 | 01:14:10   | bit today as well, because that's what I do in my spare time, apparently.                                |
-| 01:14:15   | But the other thing with all of the Omni Automation stuff is they're using JavaScript, well,[[Drafts]]      |
-| 01:14:20   | also uses JavaScript and Scriptable uses JavaScript.                                                     |
-| 01:14:23   | So if you start learning JavaScript for automation purposes, then suddenly, instead of being able        |
+| 01:14:15   | But the other thing with all of the Omni Automation stuff is they're using [[JavaScript]], well,[[Drafts]]      |
+| 01:14:20   | also uses [[JavaScript]] and Scriptable uses [[JavaScript]].                                                     |
+| 01:14:23   | So if you start learning [[JavaScript]] for automation purposes, then suddenly, instead of being able        |
 | 01:14:28   | to automate just [[Drafts]], you can also use Scriptable.                                                    |
 | 01:14:32   | You can use four Omni Group apps and whatever other apps that are out there that can use                  |
-| 01:14:37   | JavaScript as well, because it's very similar.                                                           |
+| 01:14:37   | [[JavaScript]] as well, because it's very similar.                                                           |
 | 01:14:41   | Like AppleScript, you need to read a library, but you can get kind of crazy with this stuff.             |
 | 01:14:46   | And I'm enjoying possibly going a little too crazy, but it's good fun.                                   |
 | 01:14:51   | Well, I think the thing is, it's early days, too.                                                        |
@@ -1139,7 +1139,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:15:09   | to see obvious uses, I think, come out of these applications.                                            |
 | 01:15:12   | And I'm just so glad that the Omni Group got to OmniFocus, because that's the app I spend                 |
 | 01:15:17   | the most time in of all their applications, and I'm definitely going to be putting some                  |
-| 01:15:22   | of this JavaScript to use as I kind of try and automate that further.                                    |
+| 01:15:22   | of this [[JavaScript]] to use as I kind of try and automate that further.                                    |
 | 01:15:27   | Me too.                                                                                                  |
 | 01:15:28   | Now, I will put a plug in for omni-automation.com, my website, where I have a lot of examples            |
 | 01:15:37   | in detail about each one of the Omni applications, even the OmniFocus application.                       |

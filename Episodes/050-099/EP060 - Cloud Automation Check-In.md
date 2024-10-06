@@ -287,11 +287,11 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 12:17      | with, I was using the dark skies to see, well, dark skies knows if it's dark outside.                        |
 | 12:23      | So I'll use that part of it, this and that.                                                                  |
 | 12:26      | So if I unlock the door and it's dark outside, then turn the lights on.                                      |
-| 12:30      | And they even have a JavaScript filter you can run, which you, it looks like you almost                      |
-| 12:35      | have to, in order to kind of put logic between those two pieces, but you can write JavaScript                |
+| 12:30      | And they even have a [[JavaScript]] filter you can run, which you, it looks like you almost                      |
+| 12:35      | have to, in order to kind of put logic between those two pieces, but you can write [[JavaScript]]                |
 | 12:42      | into this online automation.                                                                                 |
 | 12:46      | And so at the qualifying level, one of the things that I thought was interesting was,                        |
-| 12:51      | even if I use this JavaScript to write in a pause, you know, something I've always wanted                    |
+| 12:51      | even if I use this [[JavaScript]] to write in a pause, you know, something I've always wanted                    |
 | 12:55      | in these cloud services was the ability to pause.                                                            |
 | 12:58      | And even with, you know, the home kit stuff.                                                                 |
 | 13:01      | So like, let's say if I unlock the front door, wait five minutes.                                            |
@@ -299,7 +299,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 13:12      | lock the door.                                                                                               |
 | 13:13      | I need enough time to get my groceries in or whatever.                                                       |
 | 13:15      | But if I forget to lock the door, then go ahead and lock it for me.                                          |
-| 13:18      | And I think I could do that with JavaScript.                                                                 |
+| 13:18      | And I think I could do that with [[JavaScript]].                                                                 |
 | 13:22      | And if this than that, like you, I have bought a subscription.                                               |
 | 13:24      | I have not pledged $10 a month.                                                                              |
 | 13:27      | I've pledged less.                                                                                           |
@@ -312,9 +312,9 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 13:52      | like lock the door or turn on another light or whatever it is you've got hooked up with                      |
 | 13:58      | if this than that.                                                                                           |
 | 13:59      | So this is what I was looking for.                                                                           |
-| 14:02      | Um, I, it's not clear to me exactly how necessary the JavaScript filtering is.                               |
+| 14:02      | Um, I, it's not clear to me exactly how necessary the [[JavaScript]] filtering is.                               |
 | 14:10      | You know, um, if it is truly necessary for any qualification to work, it's having to                         |
-| 14:17      | stop and write a JavaScript, seem to me like a huge barrier for a lot of people.                             |
+| 14:17      | stop and write a [[JavaScript]], seem to me like a huge barrier for a lot of people.                             |
 | 14:20      | I mean, I can do it, but it's just going to, it's like, do I want to put the time into                       |
 | 14:24      | it?                                                                                                          |
 | 14:25      | Yeah, definitely.                                                                                            |
@@ -1120,7 +1120,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:02:24   | So I'm going to be doing an overhaul of my system at the Finder tags.                                        |
 | 01:02:27   | I'm thinking I'm going to be taking a leaf out of your book here because that's pretty                       |
 | 01:02:31   | darn cool.                                                                                                   |
-| 01:02:32   | And then I also have the JavaScript step that looks at the note.                                             |
+| 01:02:32   | And then I also have the [[JavaScript]] step that looks at the note.                                             |
 | 01:02:35   | And if there's anything in there that starts with a dash, then it gets added to the Omni                     |
 | 01:02:38   | focus inbox.                                                                                                 |
 | 01:02:39   | So if I give myself a task arising out of the call of the say dash, you know, write contract                 |

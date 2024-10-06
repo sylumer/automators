@@ -666,7 +666,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 50:40      | And, you know, that's kind of what you're doing with this review of completed tasks. So,                |
 | 50:47      | and that's just like a taste. I feel like there's so much more that we're going to get once they        |
 | 50:51      | finish that. Yes. Well, I've been playing with the Omni Automation as it's called,                      |
-| 50:55      | which is a JavaScript scripting for OmniFocus. And I have to say, it's definitely a super               |
+| 50:55      | which is a [[JavaScript]] scripting for OmniFocus. And I have to say, it's definitely a super               |
 | 51:01      | parry user feature. You know, you're going to have to get really nerdy if you want to write             |
 | 51:04      | these scripts the same way if you would, if you want to write nerdy scripts to automate [[Drafts]]         |
 | 51:09      | or something. You know, only this is an entire task management application with all of the              |
@@ -675,7 +675,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 51:26      | complex, but I think we're going to have fun when we can actually do all of that.                       |
 | 51:30      | But also that's all shareable. So like once we kind of, the nerds of us really figure it out,           |
 | 51:35      | we can share these scripts and even typical users that are aware of them can run them. So,              |
-| 51:41      | you know, you don't have to learn JavaScript to, to do these scripts. I mean, and honestly,             |
+| 51:41      | you know, you don't have to learn [[JavaScript]] to, to do these scripts. I mean, and honestly,             |
 | 51:47      | once you go in, you can probably make small tweaks even that it's just like AppleScript and all        |
 | 51:52      | these other scripting languages. One of the best ways to learn it is to take one that works and         |
 | 51:56      | break it and then try and fix it, you know, and make it work for you. Definitely. Anyway, that's,       |

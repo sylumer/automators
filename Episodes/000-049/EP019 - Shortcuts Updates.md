@@ -1540,7 +1540,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:03:40   | but eventually I would like to see it on the Mac, too.                                            |
 | 01:03:43   | Yes, and I will mention somebody,                                                                 |
 | 01:03:45   | I'll see if I can find a link to it to put it in the show.                                        |
-| 01:03:47   | Somebody has made a JavaScript editor for shortcuts, I believe,                                   |
+| 01:03:47   | Somebody has made a [[JavaScript]] editor for shortcuts, I believe,                                   |
 | 01:03:51   | and it looks pretty good,                                                                         |
 | 01:03:53   | but I love native solutions of the Shortcuts team.                                                |
 | 01:03:56   | We're able to do this,                                                                            |

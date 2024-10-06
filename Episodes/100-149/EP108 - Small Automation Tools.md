@@ -622,7 +622,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 22:50      | OmniFocus inbox.                                                    |
 | 22:51      | So I have an Omni automation script.                                |
 | 22:53      | You know, we had to tell in the last show and it's,                 |
-| 22:55      | you know, where the JavaScript scripts that you can                 |
+| 22:55      | you know, where the [[JavaScript]] scripts that you can                 |
 | 22:58      | create for OmniFocus and that will just pick out                    |
 | 23:02      | things that are in my inbox and clean them up                       |
 | 23:04      | automatically as much as it can.                                    |

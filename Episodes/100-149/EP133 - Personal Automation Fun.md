@@ -467,7 +467,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 26:25      | But edit, select like three or four things that I want to add subtasks to.                             |
 | 26:30      | And then in the Omni Automation menu, run a little automation, that doesn't take very                   |
 | 26:39      | long at all.                                                                                           |
-| 26:41      | And I was able to put together four lines of Omni Automation JavaScript, which add child                |
+| 26:41      | And I was able to put together four lines of Omni Automation [[JavaScript]], which add child                |
 | 26:46      | tasks to all of the selected tasks, and it makes sure that the parent task is set to                   |
 | 26:53      | being completed when all of the child tasks are completed.                                             |
 | 26:56      | And honestly, this has saved me quite a bit of typing and dragging and dropping, but it's              |

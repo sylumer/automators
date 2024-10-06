@@ -862,7 +862,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:28:05   | this whole cool new thing. And at the moment, I can write a script and run a script                     |
 | 01:28:10   | on another machine from Shortcuts. I say another machine, like, macOS Shortcuts has support for         |
 | 01:28:18   | command line scripts, AppleScripts, et cetera. But iOS just doesn't have that. The closest it's        |
-| 01:28:23   | got is being able to run JavaScript on a page, on, like, a web page, which is a bookmarklet,            |
+| 01:28:23   | got is being able to run [[JavaScript]] on a page, on, like, a web page, which is a bookmarklet,            |
 | 01:28:29   | essentially. But it would be really cool if you could integrate [[Swift Playgrounds]] stuff                 |
 | 01:28:34   | with Shortcuts and then you could just automate all the things. Because [[Swift]] is a really powerful      |
 | 01:28:38   | language. So I feel like you can pretty much do anything when you got those two. So maybe               |

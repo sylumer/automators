@@ -561,7 +561,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 42:40      | ending up in my OmniFocus. And that, of course, was a significant failing on my side because I       |
 | 42:46      | wasn't automating adding the tasks, which is why I switched back to using mail drop because then     |
 | 42:49      | the very least the tasks were there. But it still wasn't perfect. And now it's getting pretty close  |
-| 42:54      | to perfect with this. Yeah. Well, whenever you get around to the OmniFocus JavaScript version of     |
+| 42:54      | to perfect with this. Yeah. Well, whenever you get around to the OmniFocus [[JavaScript]] version of     |
 | 42:59      | this, let me know, I'll be your beta tester. But I well, I think there'll be a couple of people      |
 | 43:03      | who want to I may actually modify it so that just handles Taskpaper instead. Yeah. Because that's   |
 | 43:09      | a format that everybody's familiar with instead of the format that Joe created this before OmniFocus |

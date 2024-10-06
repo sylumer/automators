@@ -818,7 +818,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 49:06      | app that it kind of doesn't belong here because it does a lot more, but Jayson, Jayson on the            |
 | 49:11      | other hand, J-A-Y-S-O-N, is a great app and it's a utility app.                                      |
 | 49:16      | It doesn't exist purely to add utility to shortcuts, but oh my gosh, is it useful?                   |
-| 49:21      | Like you get something, you get some JSON back, J-S-O-N, JavaScript object notation, back            |
+| 49:21      | Like you get something, you get some JSON back, J-S-O-N, [[JavaScript]] object notation, back            |
 | 49:27      | from an API, for example, or you've got a dictionary in Shortcuts.                                   |
 | 49:30      | You can open it in JSON and you can see it.                                                          |
 | 49:33      | And this is so great on the iPad where you can like split screen between JSON and Shortcuts          |

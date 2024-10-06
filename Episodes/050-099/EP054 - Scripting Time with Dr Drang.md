@@ -333,7 +333,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 25:27      | write an [[AppleScript]] and I, I'm a big user of [[AppleScript\|AppleScripts]], but I understand that the                                                      |
 | 25:33      | stuff I create there is not going to work on my iPad and iPhone. And that's kind of                                                            |
 | 25:37      | getting back to why I think [[JavaScript]] is such a great jumping off point. I know in                                                            |
-| 25:41      | my case, I didn't have any formal JavaScript training. So I don't know about three, four                                                       |
+| 25:41      | my case, I didn't have any formal [[JavaScript]] training. So I don't know about three, four                                                       |
 | 25:47      | years ago, I went to [Code Academy](https://codecademy.com) and it's [codeacademy.com](https://codeacademy.com). They've got a free [[JavaScript]]                           |
 | 25:51      | course there. It took me like a weekend to go through it. And now I had, I know just                                                           |
 | 25:58      | enough about [[JavaScript]] that when I go find code samples, I can cobble things together.                                                        |

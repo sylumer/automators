@@ -38,7 +38,7 @@ Drafts is a versatile note-taking and text editing application that allows users
 # See Also
 - [[Greg Pierce]] - Drafts' developer.
 - [[Doctor Drafts]] - an Alfred workflow for interacting with Drafts.
-- [[TADpoLe]] - a JavaScript library for use with Drafts.
+- [[TADpoLe]] - a [[JavaScript]] library for use with Drafts.
 
 # Episodes
 ```dataviewjs

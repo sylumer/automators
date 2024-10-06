@@ -620,7 +620,7 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 25:53      | and we'll probably cover that on this show,                                                                                |
 | 25:55      | and I've even covered that in my OmniFocus Field Guide.                                                                    |
 | 25:58      | And even better, they're going to adopt                                                                                    |
-| 26:00      | the OmniFocus interpretation of JavaScript                                                                                 |
+| 26:00      | the OmniFocus interpretation of [[JavaScript]]                                                                                 |
 | 26:03      | into OmniFocus with this new version.                                                                                      |
 | 26:05      | So you'll be able to write scripts                                                                                         |
 | 26:07      | that work both on the Mac, iPad, and iPhone.                                                                               |

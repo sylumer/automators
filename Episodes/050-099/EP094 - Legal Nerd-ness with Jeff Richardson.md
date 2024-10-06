@@ -535,7 +535,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 35:53      | and my Mac because of [[Keyboard Maestro]] is going through all the tedious nonsense of getting             |
 | 35:57      | logged in and I love it. The pause until conditions are met. One of the options there is found          |
 | 36:02      | image condition, which is really great because then you can say, hey, wait until you find,              |
-| 36:07      | found this image, then wait an extra second because sometimes the JavaScript still needs                |
+| 36:07      | found this image, then wait an extra second because sometimes the [[JavaScript]] still needs                |
 | 36:11      | a bit of time to load or something and then, and then go and that is super useful. Yeah, yeah.          |
 | 36:16      | That was the first reason I started using [[Keyboard Maestro]] was to automate that one task,               |
 | 36:20      | which used to drive me crazy, but I've found it useful for other reasons too. I mean, I like the        |

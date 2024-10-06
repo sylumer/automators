@@ -322,7 +322,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 19:49      | and soon to be Siri shortcuts dialled into OmniFocus so hard. I have to have an iPad next to my Mac                                   |
 | 19:56      | all day so I can run them to script new projects in OmniFocus. It's just the best way to get this                                     |
 | 20:01      | stuff done and really keeps me on track. In addition, for automator fans, Omni Group is working on a                                  |
-| 20:07      | version of JavaScript for their app that's going to allow us to further script it on all platforms.                                   |
+| 20:07      | version of [[JavaScript]] for their app that's going to allow us to further script it on all platforms.                                   |
 | 20:11      | So listen, if you're listening to the automators, you're going to like the Omni software and we                                       |
 | 20:15      | are so happy to have them as a sponsor. Did you know they agreed to sponsor the show before they                                      |
 | 20:19      | even heard an episode? Since they heard what me and Rose were up to, they said they wanted in.                                        |

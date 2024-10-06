@@ -638,7 +638,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 35:43      | And you know, it's, it's great that everything is just there and can be run anywhere.                                     |
 | 35:51      | Yeah.                                                                                                                     |
 | 35:52      | And we've talked about how it supports traditional automation.                                                            |
-| 35:57      | There's a trifecta of commands, run shell script, run AppleScript and run JavaScript                                     |
+| 35:57      | There's a trifecta of commands, run shell script, run AppleScript and run [[JavaScript]]                                     |
 | 36:03      | for Mac automation, which are the three traditional ways we created advanced automation on the                            |
 | 36:08      | Mac.                                                                                                                      |
 | 36:09      | All of that can be run from right inside your shortcuts.                                                                  |
@@ -653,7 +653,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 36:45      | time you do it, you'll, you'll be prompted if you want to allow scripting actions.                                        |
 | 36:49      | And this is in the preferences of shortcuts then, if you say yes, where you need to take                                  |
 | 36:53      | a box that enables or allow running scripts, which says when enabled, the, the actions                                    |
-| 36:58      | run AppleScript, run shell script, run JavaScript for Mac automation, run JavaScript on web page                          |
+| 36:58      | run AppleScript, run shell script, run [[JavaScript]] for Mac automation, run [[JavaScript]] on web page                          |
 | 37:03      | and, and I can't read the rest of it because it's, it's running out of the box.                                           |
 | 37:09      | And that's a box that I need to file through, through the feedback app, but basically it's                                |
 | 37:14      | a checkbox that you need to turn on.                                                                                      |

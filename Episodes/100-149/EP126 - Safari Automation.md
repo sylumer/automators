@@ -973,8 +973,8 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 57:02      | window or wait for [[Safari]] to finish loading and focus this field, um, or, you know, set            |
 | 57:10      | this field to this text or set this checkbox and submit the form, you know, like it's,             |
 | 57:16      | it's kind of crazy, like in a very good way just to be clear, um, but yeah, and it can             |
-| 57:20      | even execute JavaScript in [[Safari]], which if you're going, wait, what?                              |
-| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, JavaScript on a web page in [[Safari]].     |
+| 57:20      | even execute [[JavaScript]] in [[Safari]], which if you're going, wait, what?                              |
+| 57:25      | Bookmarklet just like, you know, um, shortcuts can run, um, [[JavaScript]] on a web page in [[Safari]].     |
 | 57:31      | That's a bookmarklet and [[Keyboard Maestro]] can do the same thing.                                   |
 | 57:35      | Yeah.                                                                                              |
 | 57:36      | And, and that is, you know, where you go next level with it.                                       |

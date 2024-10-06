@@ -324,30 +324,30 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 13:52      | But that said, AppleScript, because it does do Apple events is extremely powerful.                   |
 | 13:57      | So there are less things that AppleScript can't do compared to something like shortcuts.             |
 | 14:03      | Powerful yet frustrating in its inconsistency.                                                        |
-| 14:07      | At least there's no JavaScript automation on macOS.                                                   |
+| 14:07      | At least there's no [[JavaScript]] automation on macOS.                                                   |
 | 14:10      | I went to the conference that [[Sal Soghoian]] go and put on, I forget what it was called.                       |
 | 14:16      | [[CMD-D Conference\|CMD-D]].                                                                                            |
 | 14:17      | Yeah.                                                                                                 |
 | 14:18      | I went to [[CMD-D Conference\|CMD-D]].                                                                                  |
 | 14:19      | Last minute edition.                                                                                  |
-| 14:24      | But his major focus was on JavaScript for automation and especially on Omni's new kind                |
+| 14:24      | But his major focus was on [[JavaScript]] for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |
 | 14:36      | And it was impressive yet also when you apply the inconsistency of AppleScript to the less           |
-| 14:48      | natural language of JavaScript, it can take me twice as long to write something in JXA                |
+| 14:48      | natural language of [[JavaScript]], it can take me twice as long to write something in JXA                |
 | 14:57      | as it can to write it in AppleScript.                                                                |
 | 15:00      | Yeah.                                                                                                 |
 | 15:01      | It depends.                                                                                           |
-| 15:02      | Because the JavaScript built into macOS is supposed to be the replacement for AppleScript.           |
+| 15:02      | Because the [[JavaScript]] built into macOS is supposed to be the replacement for AppleScript.           |
 | 15:06      | That is extremely weird in some cases.                                                                |
-| 15:08      | And in some cases, the JavaScript doesn't do what the equivalent AppleScript command                 |
+| 15:08      | And in some cases, the [[JavaScript]] doesn't do what the equivalent AppleScript command                 |
 | 15:11      | does because it's missing a trigger or something to talk to something else.                           |
-| 15:15      | To get the contents of a web page using just JavaScript, you have to use Objective C bridging         |
+| 15:15      | To get the contents of a web page using just [[JavaScript]], you have to use Objective C bridging         |
 | 15:24      | and use those very verbose get contents of URL with encoding type methods.                            |
 | 15:32      | And it is, it's a mess.                                                                               |
 | 15:34      | I don't, I don't love it.                                                                             |
 | 15:35      | Yeah.                                                                                                 |
 | 15:36      | And I just want to pull out of the weeds for a minute.                                                |
-| 15:38      | So the JavaScript that we're talking about is that the variant that the Omni group is                 |
+| 15:38      | So the [[JavaScript]] that we're talking about is that the variant that the Omni group is                 |
 | 15:42      | made that allows you to automate their applications.                                                  |
 | 15:46      | And the advantage of it is that it works across platforms.                                            |
 | 15:49      | So where AppleScript only allows you to create something for the Mac, this JXA allows you            |
@@ -379,7 +379,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 17:26      | more app as desktop idea of iOS.                                                                      |
 | 17:31      | It's a different concept that requires a different approach and I think shortcuts is really tackling  |
 | 17:37      | that in a smart way and I see the more apps that add shortcut actions, the more interactivity         |
-| 17:46      | we'll be able to do without the hassle of JavaScript.                                                 |
+| 17:46      | we'll be able to do without the hassle of [[JavaScript]].                                                 |
 | 17:50      | Yeah.                                                                                                 |
 | 17:51      | And I think that's the path [[Apple]] sees too.                                                           |
 | 17:53      | I mean, we were just talking a few episodes ago about, you know, what's going to happen               |

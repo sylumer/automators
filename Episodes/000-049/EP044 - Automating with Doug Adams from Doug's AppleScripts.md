@@ -632,7 +632,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 31:50      | objective C and [[Swift]] syntax just to, you know, just to know how those things work.                  |
 | 31:57      | I mean, it's not, once I figured out AppleScript, I pretty much figured out everything              |
 | 32:00      | else.                                                                                                |
-| 32:01      | JavaScript, the Perl came really easy, and then everything else just fell into place                 |
+| 32:01      | [[JavaScript]], the Perl came really easy, and then everything else just fell into place                 |
 | 32:06      | after that.                                                                                          |
 | 32:07      | I would add to that a book recommendation, Sal Soghoians, AppleScript one, two, three.             |
 | 32:11      | That's a good one.                                                                                   |

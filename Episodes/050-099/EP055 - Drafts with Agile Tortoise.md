@@ -367,7 +367,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 29:27      | because I work on the Mac more hours a day than I work on iOS. And I always loved when I was using           |
 | 29:34      | [[Drafts]], the thought of saying, wouldn't it be great if I can just go to my Mac and finish this?              |
 | 29:38      | And you did that. But you didn't just, well, you didn't just make a basic version. You actually              |
-| 29:44      | included the actions, the JavaScript support. Just, you know, great job getting the feature set              |
+| 29:44      | included the actions, the [[JavaScript]] support. Just, you know, great job getting the feature set              |
 | 29:51      | and the parity over to the extent that we can use our cool automations on all platforms.                     |
 | 29:57      | Thanks. It was a lot of work, and it was a multi-year transition in process of                               |
 | 30:01      | planning to get there. But I'm pretty happy with the result. And I really do what I sat down to              |
@@ -690,7 +690,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 59:42      | have a sub folder in [[Drafts]] called, you know, SL notes and [[Hazel]] looks at that. And there's a [[Hazel]]          |
 | 59:48      | rule that just takes every file that gets saved there and moves it to the location that my Mac               |
 | 59:53      | looks at. So I have two [[Hazel]] rules. The first one on iOS moves it to the proper folder in the               |
-| 59:59      | second one files and sorts it. And then I run a JavaScript action that I cribbed from your, your             |
+| 59:59      | second one files and sorts it. And then I run a [[JavaScript]] action that I cribbed from your, your             |
 | 01:00:05   | your forms for Greg. And it, it, it looks for any line in that note that has a dash at the beginning.        |
 | 01:00:14   | And it parses that out and saves it to [[OmniFocus]] as a inbox item. And this was something that was            |
 | 01:00:22   | interesting for me because [[OmniFocus]] has rich support in [[Drafts]]. There's a lot of people that                |

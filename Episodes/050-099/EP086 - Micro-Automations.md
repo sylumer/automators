@@ -99,7 +99,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:45      | I hear that once I'm off from people saying, should I learn AppleScript or not?                        |
 | 01:50      | And I do have a little bit of a qualification.                                                          |
 | 01:53      | I think if you're going to be doing a lot of automation for iPhone and iPad, if you're                  |
-| 01:58      | going mobile, I think JavaScript will serve you better at this point because AppleScript               |
+| 01:58      | going mobile, I think [[JavaScript]] will serve you better at this point because AppleScript               |
 | 02:03      | isn't over there.                                                                                       |
 | 02:04      | And I wish that [[Apple]] had put Apple events and AppleScript into the iPad and iPhone                    |
 | 02:09      | because AppleScript is really quite powerful.                                                          |
@@ -163,7 +163,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 05:52      | out one day from today, you know, and it's just a little script that changes the defer                  |
 | 05:56      | date with, but that is addressable via AppleScript and OmniFocus.                                      |
 | 06:00      | And I don't think there's any other way to do that.                                                     |
-| 06:02      | I mean, there is, there is no shell script or a JavaScript that I'm aware of that can                   |
+| 06:02      | I mean, there is, there is no shell script or a [[JavaScript]] that I'm aware of that can                   |
 | 06:07      | go on OmniFocus and change a parameter of a record.                                                     |
 | 06:11      | And that's why AppleScript is still worthy of, you know, of learning and fiddling with.                |
 | 06:16      | But, but Rose did, and this is kind of something I want to focus on here for a minute is she            |
@@ -192,24 +192,24 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 07:41      | I was impressed when I was looking at all this stuff at how easy it was actually to                     |
 | 07:47      | write some of these, because I'm somebody who doesn't really end up writing a lot of                    |
 | 07:51      | AppleScript just because there are alternatives most of the time for what I need.                      |
-| 07:56      | But as people who have tried JXA before, that's JavaScript for Automation on Mac, it was supposed       |
+| 07:56      | But as people who have tried JXA before, that's [[JavaScript]] for Automation on Mac, it was supposed       |
 | 08:02      | to be the successor to AppleScript.                                                                    |
 | 08:04      | It's bye.                                                                                               |
 | 08:05      | Okay, so AppleScript, you can write something in AppleScript.                                         |
 | 08:09      | So say for example, I'm just going to say tell application [[Drafts]] to create a new clipboard             |
 | 08:15      | with a new note with a clipboard.                                                                       |
 | 08:17      | It's actually to make new [[Drafts]] with properties, content, the clipboard, but you can do that.          |
-| 08:22      | You can write theoretically the exact same thing, but in JavaScript.                                    |
+| 08:22      | You can write theoretically the exact same thing, but in [[JavaScript]].                                    |
 | 08:27      | And it won't work.                                                                                      |
 | 08:28      | Well, that particular one might work, but there will be things where you've written                     |
-| 08:32      | and you're technically having it run the exact same commands in AppleScript and in JavaScript          |
-| 08:37      | in the JavaScript just doesn't work or bugs out or something.                                           |
-| 08:40      | And that's not JavaScript, the languages fault.                                                         |
+| 08:32      | and you're technically having it run the exact same commands in AppleScript and in [[JavaScript]]          |
+| 08:37      | in the [[JavaScript]] just doesn't work or bugs out or something.                                           |
+| 08:40      | And that's not [[JavaScript]], the languages fault.                                                         |
 | 08:43      | It's somehow [[Apple]] didn't quite hook everything into Apple events quite the same way.                   |
 | 08:47      | So things just don't work very well.                                                                    |
-| 08:50      | And it's a shame because I actually, I spent about 50% of my time developing in JavaScript.             |
+| 08:50      | And it's a shame because I actually, I spent about 50% of my time developing in [[JavaScript]].             |
 | 08:57      | And so it'd be really good if I could reuse those skills with Automation.                               |
-| 09:00      | So I actually put my skills in project with JavaScript to use a different way, David,                   |
+| 09:00      | So I actually put my skills in project with [[JavaScript]] to use a different way, David,                   |
 | 09:05      | this week.                                                                                              |
 | 09:06      | And I wrote a couple of bookmarklets to get some data from a web page so that I can easily              |
 | 09:10      | copy it and use it elsewhere.                                                                           |

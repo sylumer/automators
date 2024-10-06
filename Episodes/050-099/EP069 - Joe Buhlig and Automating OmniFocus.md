@@ -228,11 +228,11 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 13:38      | you can install it basically to the cloud. And then every instance of Omni focus iPhone down to        |
 | 13:45      | the biggest iMac is going to have those scripts available to them and be able to do work for you.      |
 | 13:52      | And the best part is, if you're listening to this and saying, blah, blah, blah,                        |
-| 13:56      | I don't have time for JavaScript. Time to turn this podcast off. Stop for a second. Because            |
+| 13:56      | I don't have time for [[JavaScript]]. Time to turn this podcast off. Stop for a second. Because            |
 | 14:01      | there's a massive library of these things out there already now that people like Joe and Rose          |
 | 14:06      | have made. And they've shared. And so many of the features you may want to add have already            |
 | 14:13      | been scripted. And all you have to do is go to a website and download them and install them.           |
-| 14:17      | That's one of the reasons why I really love this. Because I mean, it's using JavaScript,               |
+| 14:17      | That's one of the reasons why I really love this. Because I mean, it's using [[JavaScript]],               |
 | 14:22      | which is the same as [[Drafts]] and the same as, you know, Scriptable and other applications as well.      |
 | 14:26      | So that means that if you if you learn this, then you're going to be able to turn your hand to         |
 | 14:30      | automating, you know, automating and [[Scriptable]] full stop, but also doing more detail, more complex    |
@@ -257,25 +257,25 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 16:16      | you can modify the script. And or you can just take the completed one that he's made and install       |
 | 16:21      | it in [[OmniFocus]] and start using it. So I would recommend, even if you don't have any knowledge         |
 | 16:27      | of [[JavaScript]], to go in there and play with this. There are some good online resources for learning    |
-| 16:36      | JavaScript though. So if you want to get like more of a basic JavaScript programming language,         |
-| 16:42      | I learned it on a website. Let me look it up. Where did you guys learn JavaScript?                     |
+| 16:36      | [[JavaScript]] though. So if you want to get like more of a basic [[JavaScript]] programming language,         |
+| 16:42      | I learned it on a website. Let me look it up. Where did you guys learn [[JavaScript]]?                     |
 | 16:49      | I learned it because my boss at work told me, hey, you can't do this entire website in PHP             |
-| 16:55      | and HTML. We need some JavaScript. And so I ended up googling bits and pieces to try and               |
-| 17:01      | figure it out. And I don't think I've ever sat down to learn JavaScript. I've just figured             |
+| 16:55      | and HTML. We need some [[JavaScript]]. And so I ended up googling bits and pieces to try and               |
+| 17:01      | figure it out. And I don't think I've ever sat down to learn [[JavaScript]]. I've just figured             |
 | 17:05      | stuff out as I went, which I would suggest is probably not the ideal approach to do it if              |
 | 17:11      | you're learning for the purpose of automation. If you're learning for the purposes of web              |
 | 17:16      | development and you already have another language under your belt, that's fine. But for development,   |
 | 17:21      | you might or for scripting and automation, I'm guessing Joe might have a couple of suggestions,        |
 | 17:27      | though you've of course been diving in scripting before Joe.                                           |
-| 17:31      | Yeah. So the nice thing is like with JavaScript, if you come from a web development background,        |
+| 17:31      | Yeah. So the nice thing is like with [[JavaScript]], if you come from a web development background,        |
 | 17:36      | you really don't have to learn it. Like you already know it pretty much. So                            |
 | 17:40      | there's that side of it. I will say though, I don't think we should under emphasise the importance     |
 | 17:46      | of this Omni Automation site that Sal's put together, because it's one of the best documentation       |
 | 17:51      | sites I've run across. And I've been through hundreds of these things. And like for me,                |
-| 17:56      | when I learned JavaScript, it was because I had a client paying me to build a website. It's like,      |
+| 17:56      | when I learned [[JavaScript]], it was because I had a client paying me to build a website. It's like,      |
 | 18:02      | well, I guess I'm going to have to pick this up like now because someone's paying me to do it.         |
 | 18:06      | So I went to at the time, it was W3 schools to run through, and I just ran through all of their        |
-| 18:14      | quick tutorials on JavaScript. And that gave me kind of a base. What is the syntax? How do I format    |
+| 18:14      | quick tutorials on [[JavaScript]]. And that gave me kind of a base. What is the syntax? How do I format    |
 | 18:21      | this? And it still throws me off because I learned with putting a semicolon at the end of everything   |
 | 18:26      | and all of the stuff and Omni Automation does not have that. And it still messes me up. So             |
 | 18:32      | you can put it in there, but it doesn't seem like it matters or not.                                   |
@@ -293,8 +293,8 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 19:33      | semicolon breaks things up so that you know that, yes, there is supposed to be a break here,           |
 | 19:39      | which is good or bad. W3Schools is really good. There's also the JavaScript Beginners Handbook         |
 | 19:45      | by Flavio Cops, which I've got a link to in the show notes. It's online. It's part of free code        |
-| 19:50      | camp. It's free. And it has 27 sections, including history, just JavaScript, a brief intro to          |
-| 19:58      | JavaScript, and a section on semicolons, which will probably disagree with what I just said.           |
+| 19:50      | camp. It's free. And it has 27 sections, including history, just [[JavaScript]], a brief intro to          |
+| 19:58      | [[JavaScript]], and a section on semicolons, which will probably disagree with what I just said.           |
 | 20:04      | But that's okay, because, you know, everybody has their own opinion. I'm just offering mine.           |
 | 20:09      | But yeah, it goes through a lot of things. The other resource I would 110% recommend                   |
 | 20:15      | is Mozilla's developer documentation. Now, this is not something where you necessarily want to         |
@@ -306,15 +306,15 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 20:48      | out how they work with some simple examples. So there's links to all of those in the show notes.       |
 | 20:53      | Yeah, and just looking back, so the way I learned it, and this is a good place to start for a          |
 | 20:57      | beginner is [Code Academy](https://codecademy.com), codeacademy.com. I don't know, like five years ago,                          |
-| 21:03      | I went through their JavaScript course back before Omni Automation was a glimmer in                    |
+| 21:03      | I went through their [[JavaScript]] course back before Omni Automation was a glimmer in                    |
 | 21:08      | sales to go in and can case his eyes. But it's just having that knowledge has been very useful         |
 | 21:14      | because I learned, I am a script or I am not a programmer like you guys. And so I've only learned      |
 | 21:21      | automation in programming through automation. And so I was pretty fluent in AppleScript,              |
-| 21:27      | but I knew JavaScript was kind of like the next thing that everybody was going to be using because     |
+| 21:27      | but I knew [[JavaScript]] was kind of like the next thing that everybody was going to be using because     |
 | 21:32      | of the multi-platform nature of it. So I went through that. Also, I did the Lynda course,             |
 | 21:37      | I created the Lynda course for [[OmniFocus]], which you know, one of the side benefits of that is        |
-| 21:44      | I get access to the Lynda.com stuff. And I went through a bunch of their JavaScript stuff as well.    |
-| 21:48      | But if you don't know anything about JavaScript, honestly, just go through the [Code Academy](https://codecademy.com) course     |
+| 21:44      | I get access to the Lynda.com stuff. And I went through a bunch of their [[JavaScript]] stuff as well.    |
+| 21:48      | But if you don't know anything about [[JavaScript]], honestly, just go through the [Code Academy](https://codecademy.com) course     |
 | 21:52      | and then head over to the Omni Automation website. This is like a weekend project and you can be       |
 | 21:58      | doing a lot more of this than you think you can. Something else I would just throw in that mix too     |
 | 22:03      | because when it comes to writing scripts and doing this, I find that it's quite helpful to have        |
@@ -328,7 +328,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 22:50      | scripts and trying to grab pieces of individual code banks here and there to try to put together       |
 | 22:57      | what I want. That goes a long ways for me. Yeah. I would say if you don't know what a variable is,     |
 | 23:02      | then you probably want to read either the beginner's handbook, do the tutorial on code academy,        |
-| 23:07      | read eloquent JavaScript, something like that. If you do know what a variable is and that sort         |
+| 23:07      | read eloquent [[JavaScript]], something like that. If you do know what a variable is and that sort         |
 | 23:12      | of thing, then you can definitely start with just trying to piece bits together. Of course,            |
 | 23:18      | as we mentioned at the top of the show, you can just take other people's scripts and use them          |
 | 23:21      | as they are. You don't even have to change them if you don't want to. Yeah. I feel like the trick      |
@@ -353,7 +353,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 24:56      | for Sync Up wherever you get your podcasts. That's S-Y-N-C-U-P, or just click on the link               |
 | 25:02      | in the show notes. Go check it out. Our thanks to Sync Up and Microsoft for their support of this       |
 | 25:07      | show and all of Relay FM. All right, so Joe, now Omni has got to a point where we can write this cool |
-| 25:15      | kind of JavaScript variant feature to add features to their applications. Tell us about                |
+| 25:15      | kind of [[JavaScript]] variant feature to add features to their applications. Tell us about                |
 | 25:22      | your experience with it and what you're doing. Yeah, so there's a couple of things I've learned        |
 | 25:27      | in the process, because yes, it's super simple to get into having built scripts and put scripts and    |
 | 25:37      | code into a lot of different projects. There are some things, like I've had some back and forth with   |
@@ -369,14 +369,14 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 26:36      | So just seeing that is really, really nice, because I love to be able to see those scripts and then    |
 | 26:42      | know where did that come from, or rather, who did I steal that from? Because I just copy pasted it,    |
 | 26:48      | like that's, I had to do that because I've got one, one of the first scripts I wrote on this Omni      |
-| 26:54      | Automation Platform in JavaScript was just a standard placeholder templates script, which I            |
+| 26:54      | Automation Platform in [[JavaScript]] was just a standard placeholder templates script, which I            |
 | 27:00      | know there are a bunch of these out there, but I couldn't find one that did exactly what I wanted.     |
 | 27:05      | So I knew I could take somebody's and tweak it, which is what I did. And I just took somebody's        |
 | 27:12      | script from the discourse forums that Omni Group has and tweaked it, but I had forgotten where it      |
 | 27:18      | came from and I was like, I should probably figure this out before I record with Rose and David.       |
 | 27:22      | So I just looked at that metadata at the beginning to tell me where that, where that came from,        |
 | 27:27      | which is super nice. So I love that they have that up there. The rest of it's pretty standard,         |
-| 27:34      | to be honest with you, like it's, it's all JavaScript flowing. So it's, it's easy to follow            |
+| 27:34      | to be honest with you, like it's, it's all [[JavaScript]] flowing. So it's, it's easy to follow            |
 | 27:39      | it. I find it very easy to read. Maybe that's because I've written it for so long now, but             |
 | 27:44      | I don't know. I like it. It's, it's simple. It doesn't take a lot to do some very basic things         |
 | 27:51      | in the language. And I love that it's very universal. One thing that I know that kind of tripped me up |
@@ -388,7 +388,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 28:30      | share it that way. So anyway, that's me rambling a little bit on it, but I don't know. I really        |
 | 28:35      | like it. It's a, it's a pretty slick setup. Yeah. I mean, that template script is one,                 |
 | 28:40      | I'm working, I feel like everybody has their own version of it, you know, but the, but I'm working     |
-| 28:46      | on it too, because I intend to move all of my templates into their JavaScript templating system        |
+| 28:46      | on it too, because I intend to move all of my templates into their [[JavaScript]] templating system        |
 | 28:53      | because it's, you know, it's better. I think it's faster. I mean, Shortcuts is awesome,                |
 | 29:00      | but Shortcuts is a little rickety, you know, it's, it's like a whole different system driving a        |
 | 29:05      | different system where this is all integrated into the application. It feels much more like an         |
@@ -425,7 +425,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 32:05      | want to clutter up my toolbar with it. So this, this gets in the weeds a little bit, but there is      |
 | 32:11      | a way with a URL to run one of these scripts. Yeah. And it's a little bit messy to set up. This        |
 | 32:18      | is one of the things I want them to change. Like I want to be able to just tell it to run a script     |
-| 32:24      | based on the name, but they have like running the script as JavaScript URL encoded, which is a         |
+| 32:24      | based on the name, but they have like running the script as [[JavaScript]] URL encoded, which is a         |
 | 32:30      | whole other thing too. I don't like that, but I think it does work. However, I have an Elgato         |
 | 32:38      | [[Stream Deck]] sitting in front of me on my desk. If you know what that is, it's basically a macro pad.   |
 | 32:43      | This thing is amazing. But because you can run you are like open URLs with the [[Stream Deck]],            |
@@ -656,7 +656,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 53:53      | you do right now, you do have a lot to choose from. Yeah, because if you look at this [[Kanban]]           |
 | 53:59      | setup, it's very similar to Rose, your script of the complete and await reply. Maybe I should          |
 | 54:05      | call it Kurt's script. I don't know, between the two of you. I would credit it to Kurt. I took         |
-| 54:09      | all of his logic and I just translated it into JavaScript. So really, it's all his.                    |
+| 54:09      | all of his logic and I just translated it into [[JavaScript]]. So really, it's all his.                    |
 | 54:13      | But it's very similar, right? So you have a task that you have, in this case, a project that you       |
 | 54:18      | have selected. And all it's doing is removing a tag and putting another one on it. That's it.          |
 | 54:25      | And then you have a perspective or a view that shows you that view, you know, you can set it up        |
@@ -712,9 +712,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 59:44      | email and stuff. It's a pretty common script that people love. I mean, obviously, Rose,                |
 | 59:48      | I know you've gotten into it as well. And it made sense to me that that would then be translated       |
 | 59:56      | into this Omni Automation system. I was a little concerned whenever I embarked on transferring         |
-| 01:00:06   | it over that that little one liner of doing the parse text wouldn't exist in the JavaScript            |
+| 01:00:06   | it over that that little one liner of doing the parse text wouldn't exist in the [[JavaScript]]            |
 | 01:00:13   | side of things. So I was a little worried, but thankfully, they did bring it over. So that             |
-| 01:00:19   | meant that all I had to do was create the same logic in JavaScript. The only thing I                   |
+| 01:00:19   | meant that all I had to do was create the same logic in [[JavaScript]]. The only thing I                   |
 | 01:00:26   | have found with doing that transferring is I don't know that there's a way to just automatically       |
 | 01:00:32   | run it on iOS or iPadOS. I don't think I've found a way to do that. I thought I was close              |
 | 01:00:39   | at one point with a home automation via shortcuts where you could potentially run it at a certain      |
@@ -726,7 +726,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:01:14   | because I'm not really using the inbox in OmniFocus, but I know that a lot of people absolutely love   |
 | 01:01:19   | that thing. Yeah. So here is a fun little Easter egg piece of trivia for both of you and of course     |
 | 01:01:26   | everybody listening. I actually requested the transport text early on because I was originally         |
-| 01:01:31   | using your script Joe and I wanted to be able to use it in JavaScript. And so I fired off an email     |
+| 01:01:31   | using your script Joe and I wanted to be able to use it in [[JavaScript]]. And so I fired off an email     |
 | 01:01:36   | and they go back to me and said, yeah, sure, that seems like a reasonable thing to add.                |
 | 01:01:41   | And they added it. So, you know, things have come a full circle.                                       |
 | 01:01:44   | That's really cool. Good call. Well, I'm glad you did that because that's a cool,                      |
@@ -845,7 +845,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:11:24   | HelloFresh is America's number one meal kit, and I am a believer.                                      |
 | 01:11:28   | Our thanks go to HelloFresh for their support of the Automators and Olive Relay FM.                    |
 | 01:11:35   | Okay, guys, so I probably got this wrong.                                                              |
-| 01:11:38   | But if there's somebody listening that is not intimately knowledgeable with JavaScript,                |
+| 01:11:38   | But if there's somebody listening that is not intimately knowledgeable with [[JavaScript]],                |
 | 01:11:43   | we should have probably covered this earlier in the episode.                                           |
 | 01:11:45   | So if you're listening, congratulations.                                                               |
 | 01:11:49   | Let's talk through kind of the mechanics for someone who doesn't want a script,                        |
@@ -1068,7 +1068,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:23:53   | setup.                                                                                                 |
 | 01:23:54   | So I can get you a link to this, but yeah, they've got it set up in the exact same way                 |
 | 01:23:58   | I do.                                                                                                  |
-| 01:23:59   | They just converted it over to the JavaScript setup so you can run it on any of the devices            |
+| 01:23:59   | They just converted it over to the [[JavaScript]] setup so you can run it on any of the devices            |
 | 01:24:03   | now.                                                                                                   |
 | 01:24:04   | I was going to say, if somebody hasn't already done this, I will do this by the time the               |
 | 01:24:08   | show goes live, but I'm very glad to hear somebody has done it.                                        |
@@ -1092,7 +1092,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:25:20   | These are these are both really handy.                                                                 |
 | 01:25:21   | And I just put links to both of those in the show notes for people as well.                            |
 | 01:25:24   | Well, I guess the point is that the Omni Group has done something really great here and they've        |
-| 01:25:32   | given the users the ability to create features in their application via JavaScript.                    |
+| 01:25:32   | given the users the ability to create features in their application via [[JavaScript]].                    |
 | 01:25:39   | And if you're an automation fan, this is something you should definitely be looking into.              |
 | 01:25:43   | I would definitely agree because even if all you want to do is just copy and paste bits                |
 | 01:25:49   | out from scripts that do the bits that you need or chain it together and copy and paste                |
@@ -1124,7 +1124,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:27:24   | That's my other home on the internet, but between those two, you'll find pretty much                   |
 | 01:27:30   | everything I do.                                                                                       |
 | 01:27:32   | And we've got links to all of those in the show notes.                                                 |
-| 01:27:35   | Joe didn't say it in the show, but I know for a fact that all of these JavaScript he                   |
+| 01:27:35   | Joe didn't say it in the show, but I know for a fact that all of these [[JavaScript]] he                   |
 | 01:27:38   | writes, he first writes it with a broad tip nib fountain pen.                                          |
 | 01:27:44   | Right?                                                                                                 |
 | 01:27:45   | That's how you write your code, right?                                                                 |

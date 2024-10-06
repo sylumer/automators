@@ -99,7 +99,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 02:19      | making widgets, you know, the kind of the meta level. As automators, this is the kind of               |
 | 02:24      | stuff that really pushes our buttons. And Rose and I have gone deep. We've got kind                    |
 | 02:29      | of a learning curve on this one. We're going to start with the easy ones. We're going to               |
-| 02:32      | get to the hard ones. And by the end, we're going to be writing JavaScript widgets of                  |
+| 02:32      | get to the hard ones. And by the end, we're going to be writing [[JavaScript]] widgets of                  |
 | 02:36      | our own. So it's going to be fun. So I guess we should just get started.                               |
 | 02:42      | Yeah. Before we do, there's a couple overview things                                                   |
 | 02:46      | on widgets that kind of like kind of hangs as like a cloud. Some of them are really pretty             |
@@ -512,7 +512,7 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 36:05      | know, wanting like a custom widget, it could be like install Widgeridoo, you know, that that's           |
 | 36:09      | going to do what you want, where you can get the different pieces of information that you              |
 | 36:12      | want in the, in the format that you want. But it's not so complex that you need to like                |
-| 36:17      | go and program a shortcut or write a JavaScript script to make it happen and to update it.             |
+| 36:17      | go and program a shortcut or write a [[JavaScript]] script to make it happen and to update it.             |
 | 36:22      | You can just put the stuff in and it does it.                                                          |
 | 36:25      | Yeah, I downloaded the app on your recommendation and I bought it. I bought the upgrade. I think       |
 | 36:30      | it was like four bucks and you unlock everything. And this is very much, you know, kind of the         |
@@ -853,14 +853,14 @@ In this episode, David and Rosemary look at the widgets in iOS 14 and how you ca
 | 01:07:34   | And I love that idea. It's great because you just have a sticky note and it's on your home screen.     |
 | 01:07:41   | And then once it's done, you leave it and you can change it and make a different one.                  |
 | 01:07:48   | And that's been really helpful for getting some things done.                                           |
-| 01:07:51   | Yeah. And, you know, anything you can do with JavaScript, you can turn into a widget. Like,            |
+| 01:07:51   | Yeah. And, you know, anything you can do with [[JavaScript]], you can turn into a widget. Like,            |
 | 01:07:55   | I think at one point, I saw [[Jason Snell]] had written a [[JavaScript]] accessing the home weather data       |
 | 01:08:02   | from his home weather station in California. We're dealing with a lot of poor air quality              |
 | 01:08:07   | as the fires kind of go off and on. So he wanted to get his backyard air quality                       |
 | 01:08:12   | in a widget and he did that with the Scriptable, just pulling the data off of his backyard weather     |
 | 01:08:17   | station. I mean, this is the kind of stuff you can do with this. And it's not that inaccessible        |
 | 01:08:25   | if you go into it. Even if you're not a professional programmer like me, you can,                      |
-| 01:08:29   | this JavaScript feels to me a lot like [[AppleScript]]. You just need to find an example and start         |
+| 01:08:29   | this [[JavaScript]] feels to me a lot like [[AppleScript]]. You just need to find an example and start         |
 | 01:08:34   | hacking at it and you can make it work. Yes. The other thing that I like is a lot of people have       |
 | 01:08:39   | gone to great lengths to try and share their scripts with you. So there are scripts in the             |
 | 01:08:46   | forum, but there is one particular person and his name is Andy. And he's created a widget              |

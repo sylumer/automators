@@ -91,7 +91,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:32      | can do absolutely everything that they want and need and more.    |
 | 01:35      | My problem was specifically related to programming                |
 | 01:38      | where I was doing a lot of very intensive stuff                   |
-| 01:41      | simultaneously, like running multiple JavaScript applications     |
+| 01:41      | simultaneously, like running multiple [[JavaScript]] applications     |
 | 01:46      | and one or more simulations of an iOS application                 |
 | 01:50      | to track down a bug between the app and the server                |
 | 01:52      | where you needed to add debugging and stuff.                      |

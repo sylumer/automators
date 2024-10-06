@@ -1217,16 +1217,16 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:31:48   | it's so close to almost there. And so I think I just need to maybe do a little bit of searching       |
 | 01:31:52   | on the [[Obsidian]] forums of I've yet to spend real time doing that. I've just tried a few               |
 | 01:31:57   | of what seemed to me like the obvious things. Of course, I'm looking at this from the perspective     |
-| 01:32:02   | as a developer who writes PHP and JavaScript every single day. So it may not be actually              |
+| 01:32:02   | as a developer who writes PHP and [[JavaScript]] every single day. So it may not be actually              |
 | 01:32:07   | what the logical thing is for an [[Obsidian]] user. But I yeah, I'm I'm very much enjoying                |
 | 01:32:13   | how extensible the data view plugin is. And also just the template or plugin as well, because         |
 | 01:32:20   | I know you use a lot of templates, but I realised the template or plugin and there's also another     |
-| 01:32:25   | plugin called custom JS will let you just run JavaScript on things, which means that                  |
+| 01:32:25   | plugin called custom JS will let you just run [[JavaScript]] on things, which means that                  |
 | 01:32:30   | I can take something out of a file and use that to rename the file if I wanted to, which              |
 | 01:32:36   | has been very helpful for renaming certain files like for example, my blog post for me                |
 | 01:32:43   | because I create my blog post from a template. But it just gives it like a placeholder name.          |
 | 01:32:49   | But then once I've added the title and everything into the into the metadata, then I can run          |
-| 01:32:54   | my it's it's custom JavaScript, but I could do the same thing with template to to rename              |
+| 01:32:54   | my it's it's custom [[JavaScript]], but I could do the same thing with template to to rename              |
 | 01:32:59   | that file to the correct name, which has everything in it as it as it needs to for Jekyll, which      |
 | 01:33:04   | is really nice. And I really like that. Yeah, I mean, my work is kind of wrapping up on               |
 | 01:33:09   | the shortcuts or Mac field guide now, there's still post production happening, but I'm not            |

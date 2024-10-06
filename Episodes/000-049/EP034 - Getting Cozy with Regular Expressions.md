@@ -942,7 +942,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 51:45      | So there are things called functions that you can use that will do regular expressions              |
 | 51:51      | for you.                                                                                            |
 | 51:52      | So for example, begins with and ends with and contains.                                             |
-| 51:56      | And if these sound familiar, that's because they're not just in JavaScript as a function.           |
+| 51:56      | And if these sound familiar, that's because they're not just in [[JavaScript]] as a function.           |
 | 52:01      | They're also in shortcuts and in many other applications.                                           |
 | 52:05      | And that is one of the big secrets to regular expressions.                                          |
 | 52:09      | You don't necessarily have to write everything yourself.                                            |
@@ -1021,7 +1021,7 @@ Roll up your sleeves Automators. This week Rose and David tackle regular express
 | 56:16      | And there's also a resource that we'll put in the show notes for the shortcuts format               |
 | 56:20      | of regular expressions, because some programming languages and therefore some applications          |
 | 56:26      | use different formats of regular expressions.                                                       |
-| 56:29      | Now usually these don't vary a lot, but JavaScript has some slight oddities, perhaps you could      |
+| 56:29      | Now usually these don't vary a lot, but [[JavaScript]] has some slight oddities, perhaps you could      |
 | 56:37      | call it, or uniqueness.                                                                             |
 | 56:39      | And so you'll want to make sure that you're using the right format, and Shortcuts uses              |
 | 56:43      | the ICU format for a lot of things, for date formatting, and for regular expressions.               |

@@ -770,7 +770,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 32:52      | where I've got backtick, backtick, backtick.                                                       |
 | 32:55      | Before the new line, I have the word there                                                         |
 | 32:58      | of whatever kind of code it is.                                                                    |
-| 33:01      | So if I'm pasting JavaScript code, then I'll type JS.                                              |
+| 33:01      | So if I'm pasting [[JavaScript]] code, then I'll type JS.                                              |
 | 33:04      | If it's PHP, I type PHP, and if it's Ruby, I'll type RB                                            |
 | 33:07      | or Py for Python.                                                                                  |
 | 33:09      | And those all combined together mean                                                               |
@@ -1270,7 +1270,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 50:53      | Only these templates are                                                                           |
 | 50:55      | on steroids. You can                                                                               |
 | 50:57      | have it do all sorts of things.                                                                    |
-| 50:59      | I've got custom JavaScript in there                                                                |
+| 50:59      | I've got custom [[JavaScript]] in there                                                                |
 | 51:01      | doing things when I                                                                                |
 | 51:03      | create stuff, but also I just                                                                      |
 | 51:05      | have like little snippets                                                                          |
@@ -2200,7 +2200,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:21:57   | accessibility through                                                                              |
 | 01:21:59   | all of the existing infrastructure                                                                 |
 | 01:22:01   | that it doesn't matter                                                                             |
-| 01:22:03   | whether you feel at home writing JavaScript                                                        |
+| 01:22:03   | whether you feel at home writing [[JavaScript]]                                                        |
 | 01:22:05   | in which case you can write your own [[Obsidian]] plugin                                               |
 | 01:22:07   | if you want or if you're                                                                           |
 | 01:22:09   | just getting started with shortcuts                                                                |

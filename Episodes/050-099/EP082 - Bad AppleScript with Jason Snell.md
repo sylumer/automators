@@ -697,12 +697,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 32:21      | I want to talk a bit about the idea of Python as your project.                                                   |
 | 32:26      | Because a lot of people do write in asking where, you know, if they want to go to the next level,                |
 | 32:31      | what should they do?                                                                                             |
-| 32:32      | Often my advice to people is JavaScript.                                                                         |
-| 32:35      | Because I feel like JavaScript is, you know, applicable not only on the Mac,                                     |
-| 32:39      | but there's a lot of stuff on iOS and iPad OS that uses JavaScript.                                              |
+| 32:32      | Often my advice to people is [[JavaScript]].                                                                         |
+| 32:35      | Because I feel like [[JavaScript]] is, you know, applicable not only on the Mac,                                     |
+| 32:39      | but there's a lot of stuff on iOS and iPad OS that uses [[JavaScript]].                                              |
 | 32:44      | The Omni Automation is all Java based.                                                                           |
 | 32:47      | I hadn't really thought of recommending Python.                                                                  |
-| 32:50      | Are you already fluent with JavaScript or did you actively choose Python over JavaScript?                        |
+| 32:50      | Are you already fluent with [[JavaScript]] or did you actively choose Python over [[JavaScript]]?                        |
 | 32:57      | So going back to the idea that I'm not a programmer, right?                                                      |
 | 33:00      | Yeah.                                                                                                            |
 | 33:01      | What I have done is botched things together.                                                                     |
@@ -722,25 +722,25 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 33:51      | 14? 13? Where are we now?                                                                                        |
 | 33:53      | 14. The new widgets.                                                                                             |
 | 33:55      | And there's the Scriptable app.                                                                                  |
-| 33:57      | It lets you write widgets in JavaScript.                                                                         |
+| 33:57      | It lets you write widgets in [[JavaScript]].                                                                         |
 | 34:00      | And I found a widget that was not what I wanted, but it was doing sort of what I wanted.                         |
 | 34:03      | And I massively expanded on that and got some help from people using,                                            |
 | 34:08      | basically by posting it on GitHub and people made some changes                                                   |
-| 34:11      | and they taught me a bunch of stuff about JavaScript.                                                            |
-| 34:13      | So I spent a lot of time building that widget for my iPad and my iPhone using JavaScript.                        |
+| 34:11      | and they taught me a bunch of stuff about [[JavaScript]].                                                            |
+| 34:13      | So I spent a lot of time building that widget for my iPad and my iPhone using [[JavaScript]].                        |
 | 34:19      | And so I had this and then my son is going to be taking AP computer principles or something in the fall          |
 | 34:27      | and they're going to write everything in Python.                                                                 |
 | 34:29      | And I thought, oh, Python.                                                                                       |
 | 34:31      | Well, I'm excited that he's doing that and I would like to know more about it.                                   |
 | 34:34      | So I bought a book about Python.                                                                                 |
-| 34:36      | The reason I ended up spending a lot of time in Python and not JavaScript,                                       |
+| 34:36      | The reason I ended up spending a lot of time in Python and not [[JavaScript]],                                       |
 | 34:40      | which I think is eminently reasonable because you're right, David,                                               |
 | 34:43      | I think it's more applicable to a lot of areas                                                                   |
 | 34:47      | and you can even script applications with it on Mac OS if you want to.                                           |
 | 34:52      | I went with Python, honestly, because Python made more sense to me.                                              |
-| 34:56      | I spent enough time with PHP and JavaScript that I had this moment that was like,                                |
+| 34:56      | I spent enough time with PHP and [[JavaScript]] that I had this moment that was like,                                |
 | 35:00      | this must be how programmers feel, where I have opinions about languages.                                        |
-| 35:05      | But after spending all that time with JavaScript,                                                                |
+| 35:05      | But after spending all that time with [[JavaScript]],                                                                |
 | 35:07      | if I don't see another semicolon until the day I die, it'll be too soon.                                         |
 | 35:12      | Literally, when I started seeing Python scripts and understanding how Python                                     |
 | 35:17      | did everything with indentation and not having mandatory semicolons and stuff like that,                         |
@@ -751,27 +751,27 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 35:29      | I would like to think that because all of these scripting languages are similar.                                 |
 | 35:34      | Perl, I did learning Perl and programming Perl in the 90s at one point,                                          |
 | 35:39      | so I don't remember any of it, but I did go down that path a little bit.                                         |
-| 35:43      | Perl, JavaScript, Python, they all have so many commonalities                                                    |
+| 35:43      | Perl, [[JavaScript]], Python, they all have so many commonalities                                                    |
 | 35:50      | and also are so different from AppleScript in some ways, right?                                                 |
 | 35:54      | Yeah.                                                                                                            |
-| 35:55      | That I feel like if I needed to do something in JavaScript now,                                                  |
+| 35:55      | That I feel like if I needed to do something in [[JavaScript]] now,                                                  |
 | 35:58      | I could, I would have to change the idiom                                                                        |
 | 36:00      | and it would be a little bit of a learning curve,                                                                |
 | 36:02      | but I feel like just taking a deeper dive on Python has got me to a place                                        |
-| 36:08      | where I could cross train and go back to doing JavaScript again,                                                 |
+| 36:08      | where I could cross train and go back to doing [[JavaScript]] again,                                                 |
 | 36:12      | but in the meantime, I'm just kind of having fun using Python                                                    |
 | 36:16      | and it feels clearer to me and I needed to pick something                                                        |
 | 36:20      | and so this is the one that I chose.                                                                             |
 | 36:22      | I think you made a really good choice of Python                                                                  |
-| 36:24      | because JavaScript is great if what you're learning to do is upskill                                             |
+| 36:24      | because [[JavaScript]] is great if what you're learning to do is upskill                                             |
 | 36:27      | in doing things like building [[Drafts]] automations,                                                                |
 | 36:30      | using Omni Automation, creating Scriptable widgets,                                                                |
-| 36:34      | maybe even JavaScript for automation.                                                                            |
+| 36:34      | maybe even [[JavaScript]] for automation.                                                                            |
 | 36:36      | Probably don't just stick with AppleScript for that.                                                            |
-| 36:38      | JavaScript for automation is kind of broken on iOS.                                                              |
+| 36:38      | [[JavaScript]] for automation is kind of broken on iOS.                                                              |
 | 36:40      | Yeah, that's my understanding.                                                                                   |
 | 36:43      | But if you want a script that you can throw on a server                                                          |
-| 36:46      | and have do stuff, you could write it in JavaScript, sure,                                                       |
+| 36:46      | and have do stuff, you could write it in [[JavaScript]], sure,                                                       |
 | 36:50      | but you're going to have a much better time writing that in Python                                               |
 | 36:53      | because you'll have your requirements.txt file,                                                                  |
 | 36:55      | which tells your program which libraries do you need.                                                            |
@@ -813,7 +813,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 38:24      | In fact, I would say it's actually kind of illogical                                                             |
 | 38:26      | that I'm using Python because the two apps I write on iOS                                                        |
 | 38:29      | are [[Drafts]] and 1Writer,                                                                                        |
-| 38:31      | which use JavaScript as their automation tools,                                                                  |
+| 38:31      | which use [[JavaScript]] as their automation tools,                                                                  |
 | 38:34      | and I would probably be served to write some tools there.                                                        |
 | 38:37      | I will say, we haven't talked a lot about iOS automation here,                                                   |
 | 38:41      | this is my great frustration with iOS automation right now,                                                      |
@@ -822,21 +822,21 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 38:51      | And what I have learned, for example,                                                                            |
 | 38:54      | is that although that you could use Taio                                                                          |
 | 38:58      | or 1Writer or [[Drafts]] to do automation                                                                          |
-| 39:03      | in your writing tool using JavaScript,                                                                           |
+| 39:03      | in your writing tool using [[JavaScript]],                                                                           |
 | 39:06      | you can't use the same scripts in any of them                                                                    |
-| 39:08      | because they all have their own specific JavaScript implementation.                                              |
+| 39:08      | because they all have their own specific [[JavaScript]] implementation.                                              |
 | 39:12      | And it drives me up a tree                                                                                       |
 | 39:14      | because this is where I really want [[Apple]], ultimately,                                                           |
 | 39:18      | I want [[Apple]] to on macOS and iOS and iPadOS                                                                      |
 | 39:22      | to say, all right, if you need more than shortcuts,                                                              |
 | 39:27      | here's the scripting language to use                                                                             |
 | 39:30      | and have it be everybody go, okay, we'll use that.                                                               |
-| 39:33      | Because right now, I could switch to JavaScript                                                                  |
+| 39:33      | Because right now, I could switch to [[JavaScript]]                                                                  |
 | 39:36      | and figure it out,                                                                                               |
 | 39:38      | but the fact that I can't take my 1Writer script                                                               |
 | 39:41      | and run it in Taio or in [[Drafts]],                                                                                  |
 | 39:44      | because they're different,                                                                                       |
-| 39:45      | their JavaScript implementation is different.                                                                    |
+| 39:45      | their [[JavaScript]] implementation is different.                                                                    |
 | 39:48      | They're using different things to do user interface                                                              |
 | 39:51      | and to describe what the page contents are.                                                                      |
 | 39:55      | And it's so frustrating.                                                                                         |
@@ -850,12 +850,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 40:14      | And I also think Rose makes an excellent point.                                                                  |
 | 40:16      | I mean, you are in the business of publishing on the web                                                         |
 | 40:20      | and you're dealing with servers a lot.                                                                           |
-| 40:22      | And I think Python is probably far superior to JavaScript                                                        |
+| 40:22      | And I think Python is probably far superior to [[JavaScript]]                                                        |
 | 40:26      | for all that automation.                                                                                         |
-| 40:28      | Yeah, I mean, I've done JavaScript.                                                                              |
+| 40:28      | Yeah, I mean, I've done [[JavaScript]].                                                                              |
 | 40:30      | I mean, don't get me wrong.                                                                                      |
 | 40:32      | Like I said, I've got a [[SwiftBar]] plugin                                                                         |
-| 40:34      | that's written in JavaScript                                                                                     |
+| 40:34      | that's written in [[JavaScript]]                                                                                     |
 | 40:36      | and one that's written in PHP,                                                                                   |
 | 40:38      | which is like, I mean, right?                                                                                    |
 | 40:40      | Because then you're doing Node and you're right.                                                                 |
@@ -906,7 +906,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 42:53      | you're using to automate on iPhone and iPad                                                                      |
 | 42:55      | because I do know you use your iPad quite a bit.                                                                 |
 | 42:58      | I do.                                                                                                            |
-| 42:59      | Other than that script that I did in JavaScript                                                                  |
+| 42:59      | Other than that script that I did in [[JavaScript]]                                                                  |
 | 43:02      | with the help of a bunch of people using Scriptable,                                                             |
 | 43:07      | most of the stuff that I'm doing is just shortcuts.                                                              |
 | 43:12      | And I try to just use shortcuts.                                                                                 |
@@ -1693,7 +1693,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:12:04   | they didn't                                                                                                      |
 | 01:12:06   | turn off other automation tools you know                                                                         |
 | 01:12:08   | they you know all the AppleScript                                                                               |
-| 01:12:10   | the JavaScript the Python the keyboard                                                                           |
+| 01:12:10   | the [[JavaScript]] the Python the keyboard                                                                           |
 | 01:12:12   | my store the [[Hazel]] all that stuff still                                                                          |
 | 01:12:14   | works so it may take                                                                                             |
 | 01:12:16   | a little longer to get to where we want                                                                          |

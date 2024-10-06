@@ -5,7 +5,7 @@ notetype: technology
 ---
 
 # Overview
-JSON is short for JavaScript Object Notation. It is a data-interchange format that is intended to be easy for humans to read and write as well as being straight forward for computers to process. It is commonly used for transmitting data between a server and a web application, as well as for configuration files and APIs.
+JSON is short for [[JavaScript]] Object Notation. It is a data-interchange format that is intended to be easy for humans to read and write as well as being straight forward for computers to process. It is commonly used for transmitting data between a server and a web application, as well as for configuration files and APIs.
 
 # Structure of JSON
 - JSON data is organised in key-value pairs

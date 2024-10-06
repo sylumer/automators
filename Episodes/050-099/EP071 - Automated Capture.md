@@ -443,14 +443,14 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 29:01      | to this show.                                                                                            |
 | 29:03      | It is super easy.                                                                                        |
 | 29:04      | You go online and you look at sample actions and you're like, oh my gosh, these guys are                 |
-| 29:09      | writing massive JavaScript and I'm not going to be able to do that and it's just going                   |
+| 29:09      | writing massive [[JavaScript]] and I'm not going to be able to do that and it's just going                   |
 | 29:13      | to break.                                                                                                |
 | 29:14      | I'm going to waste a bunch of time.                                                                      |
 | 29:15      | So I'm not going to do that.                                                                             |
 | 29:16      | But like, capture is a great example.                                                                    |
 | 29:18      | Like I have one for client phone calls, right?                                                           |
 | 29:22      | And all of this is templated, you know, you can template text in a draft action.                         |
-| 29:27      | You don't have to write any JavaScript to do that.                                                       |
+| 29:27      | You don't have to write any [[JavaScript]] to do that.                                                       |
 | 29:29      | All you do is say, insert template text and in there, you can put variables like the current             |
 | 29:35      | date and time.                                                                                           |
 | 29:36      | So like as soon as a client calls me or since I hang up from a client, I open a draft.                   |
@@ -526,7 +526,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 34:40      | And I've tried to experiment with expanding this a little bit on macOS and writing custom                |
 | 34:46      | bookmarklets.                                                                                            |
 | 34:47      | Sure.                                                                                                    |
-| 34:48      | Bookmarklets are essentially JavaScript that you can click to do something.                              |
+| 34:48      | Bookmarklets are essentially [[JavaScript]] that you can click to do something.                              |
 | 34:53      | And there are lots of examples out there that you can find of bookmarklets.                              |
 | 34:56      | I mean, we actually have one for Relay FM, where I can click a magic button and it appends               |
 | 35:02      | a link to the Automator show notes.                                                                      |
@@ -546,7 +546,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 36:00      | than it is on the Mac because we don't have shortcuts on the Mac.                                        |
 | 36:04      | And shortcuts parses the entire website for you and you just build out a text file that                  |
 | 36:09      | says title and you insert the title that you pull out with the shortcut.                                 |
-| 36:14      | Rather than monkeying around with JavaScript that may break with the next JavaScript update              |
+| 36:14      | Rather than monkeying around with [[JavaScript]] that may break with the next [[JavaScript]] update              |
 | 36:18      | or next time you update your Mac for some reason, it may stop working.                                   |
 | 36:23      | The shortcuts method is faster to create and more reliable.                                              |
 | 36:26      | So I find myself doing the same.                                                                         |

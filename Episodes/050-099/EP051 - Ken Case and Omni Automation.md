@@ -184,7 +184,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 10:02      | events on iPhone and iPad make it much harder to implement this stuff. But you guys have                 |
 | 10:07      | done a couple of things. I want to talk about both of them today. Number one, you've greatly             |
 | 10:11      | increased the support for OmniFocus in shortcuts, but you've also come up with a basically a             |
-| 10:19      | JavaScript implementation to create a form of automation that can be done both on iPad,                  |
+| 10:19      | [[JavaScript]] implementation to create a form of automation that can be done both on iPad,                  |
 | 10:25      | iPhone and Mac with the same scripting language. And both of those are very exciting developments.       |
 | 10:30      | Thank you. Yeah, the first one, shortcuts, I think is important because it lets us play                  |
 | 10:38      | in that ecosystem that all the other apps are working in. And it's sort of the outside                   |
@@ -320,11 +320,11 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 20:32      | and get an extra three months free. Protect your internet stay with the VPN that'll keep                 |
 | 20:37      | your data safe. That's expressvpn.com/automators. Our thanks to ExpressVPN for their               |
 | 20:43      | support of automators and all of Relay FM.                                                               |
-| 20:47      | So Ken, in addition to the work you've done with shortcuts, you've also got this JavaScript              |
+| 20:47      | So Ken, in addition to the work you've done with shortcuts, you've also got this [[JavaScript]]              |
 | 20:55      | implementation. Can you just kind of give me the 20,000 foot view of that to begin?                      |
 | 21:00      | Sure. So Omni-automation is multi-platform automation for our Mac, iPad, and iPhone apps.                |
 | 21:07      | And with it, you can run pre-built plugins and scripts, or you can write your own in                     |
-| 21:12      | JavaScript. But all of those things are sort of predefined, and they involve some sort                   |
+| 21:12      | [[JavaScript]]. But all of those things are sort of predefined, and they involve some sort                   |
 | 21:18      | of round trip between what's happening in shortcuts and what's happening in OmniFocus.                   |
 | 21:23      | Similarly, [[AppleScript]] on the Mac has been kind of this API that you could use to talk                   |
 | 21:30      | with OmniFocus. API is just an application programming interface that you could use to                   |
@@ -336,54 +336,54 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 22:01      | at the low levels of the database on everything that's available in that database instead                |
 | 22:06      | of just being limited to the set of public interface things that we happen to provide                    |
 | 22:13      | to shortcuts or to AppleScript.                                                                          |
-| 22:16      | And so that's what we've built in in our JavaScript support, which is now in all four                    |
+| 22:16      | And so that's what we've built in in our [[JavaScript]] support, which is now in all four                    |
 | 22:21      | of our apps. It started in [[OmniGraffle]] and OmniOutliner, and then we shipped it in OmniPlan              |
 | 22:28      | last year, I believe, and now with OmniFocus 3.8, it's finally in all of our apps. This                  |
-| 22:34      | lets people create a JavaScript plug-in or write some external JavaScript that they pass                 |
+| 22:34      | lets people create a [[JavaScript]] plug-in or write some external [[JavaScript]] that they pass                 |
 | 22:41      | to the app, which can then quickly manipulate anything that's in the database or in a document,          |
 | 22:48      | get results, process things around, change them around, and it's just so much faster                     |
 | 22:52      | than earlier things based around AppleScript or than any shortcut interactions would be.                 |
 | 22:58      | So then it, of course, can return results back to shortcuts or to AppleScript if that's                  |
 | 23:05      | where it was invoked from, but it was collecting that information in a way that lets it do               |
 | 23:12      | more things and also makes it much faster.                                                               |
-| 23:17      | So as an example, if we had had this JavaScript stuff available back when Kinklesst GTD was               |
-| 23:24      | written, I have to think that Ethan would have written Kinklesst GTD as a JavaScript                      |
+| 23:17      | So as an example, if we had had this [[JavaScript]] stuff available back when Kinklesst GTD was               |
+| 23:24      | written, I have to think that Ethan would have written Kinklesst GTD as a [[JavaScript]]                      |
 | 23:28      | plug-in instead, and it would have been lightning fast to do some of those operations instead            |
 | 23:34      | of feeling like this slow slog as you waited for these things to get encoded into Apple                  |
 | 23:40      | events and back.                                                                                         |
 | 23:42      | Yeah, it's really impressive. For a couple of reasons to me, one of them is AppleScript                  |
 | 23:47      | has never existed on an iPhone and iPad, so AppleScript automation you'd write for the                   |
 | 23:52      | app on the Mac wouldn't work on the other devices, and then you had this unequal world                   |
-| 23:58      | where you couldn't do all of your work on whichever device you wanted, and JavaScript                    |
-| 24:04      | will work on all platforms. And for people listening who've never done JavaScript, I                     |
-| 24:11      | can tell you I'm more savvy with AppleScript than I am with JavaScript, but I've taken                   |
-| 24:18      | the course. I can hack my way through JavaScript. This is not something you need to be a Kink            |
+| 23:58      | where you couldn't do all of your work on whichever device you wanted, and [[JavaScript]]                    |
+| 24:04      | will work on all platforms. And for people listening who've never done [[JavaScript]], I                     |
+| 24:11      | can tell you I'm more savvy with AppleScript than I am with [[JavaScript]], but I've taken                   |
+| 24:18      | the course. I can hack my way through [[JavaScript]]. This is not something you need to be a Kink            |
 | 24:24      | case-level programmer to do. It's fairly simple once you wrap your arms around it and give               |
 | 24:31      | it an hour or two to learn it, and you'd be surprised how much you can do.                               |
-| 24:34      | Yeah, there are a couple of reasons that we chose JavaScript. One, of course, was this                   |
+| 24:34      | Yeah, there are a couple of reasons that we chose [[JavaScript]]. One, of course, was this                   |
 | 24:39      | efficiency that I was talking about. We really wanted something that would be fast, and we               |
-| 24:41      | knew that [[Apple]] was really tuning JavaScript performance because it's used for scripting                 |
+| 24:41      | knew that [[Apple]] was really tuning [[JavaScript]] performance because it's used for scripting                 |
 | 24:47      | web pages, and the web to be really fast on all their devices.                                           |
 | 24:52      | But another reason was that at the moment, because it's the scripting language of the                    |
 | 24:59      | web, it's the language that has probably the most beginner tutorials out there available                 |
-| 25:06      | if you want to learn JavaScript. It's not something where we have to teach you. There                    |
-| 25:11      | are lots of resources out there that will help you learn about JavaScript, how to build                  |
-| 25:14      | JavaScript. And if you learn this, it's something you can also leverage in other tools. You              |
+| 25:06      | if you want to learn [[JavaScript]]. It's not something where we have to teach you. There                    |
+| 25:11      | are lots of resources out there that will help you learn about [[JavaScript]], how to build                  |
+| 25:14      | [[JavaScript]]. And if you learn this, it's something you can also leverage in other tools. You              |
 | 25:19      | can leverage it if you want to work on a web page or all sorts of other things. It's just                |
 | 25:25      | nice to be working with a language that is widely available, even though it has some                     |
 | 25:30      | quirks. I wouldn't say it's necessarily my favourite language in the world in that sense.                 |
-| 25:34      | Yeah, I was going to say JavaScript is kind of quirky. A book that I've seen frequently                  |
-| 25:39      | recommended for people not familiar with JavaScript. I learned JavaScript as a web developer,            |
+| 25:34      | Yeah, I was going to say [[JavaScript]] is kind of quirky. A book that I've seen frequently                  |
+| 25:39      | recommended for people not familiar with [[JavaScript]]. I learned [[JavaScript]] as a web developer,            |
 | 25:42      | so for me, programming for an application is like, whoa, whole other mindset, but eloquent               |
-| 25:48      | JavaScript. I can't speak English today either, David. I'm joining you there. It's the book              |
+| 25:48      | [[JavaScript]]. I can't speak English today either, David. I'm joining you there. It's the book              |
 | 25:54      | that I keep seeing recommended, and I skimmed through it. I don't need to read it, of course,            |
-| 25:59      | understanding JavaScript already, but it looks pretty good to me as well. So for people                  |
-| 26:03      | who are looking and going, okay, well, why would I learn JavaScript? Well, as well as                    |
-| 26:07      | the Omni apps, there's also [[Drafts]] and scriptable out there. They'll also use JavaScript. So              |
+| 25:59      | understanding [[JavaScript]] already, but it looks pretty good to me as well. So for people                  |
+| 26:03      | who are looking and going, okay, well, why would I learn [[JavaScript]]? Well, as well as                    |
+| 26:07      | the Omni apps, there's also [[Drafts]] and scriptable out there. They'll also use [[JavaScript]]. So              |
 | 26:11      | it's, in my opinion, becoming the de facto, you know, next AppleScript, even, you know,                 |
 | 26:17      | maybe it's not the language everybody would prefer. I know Python has many, many, many                   |
 | 26:22      | devout followers. I personally would just do everything in PHP, but the world might kill                 |
-| 26:26      | me if I did that. But I'm thinking JavaScript is a pretty good solution because, I mean,                 |
+| 26:26      | me if I did that. But I'm thinking [[JavaScript]] is a pretty good solution because, I mean,                 |
 | 26:30      | you get it for free on iOS, and that's a very, very good starting point.                                 |
 | 26:35      | It does seem to be kind of the gravity seems to be pulling it towards automation for all                 |
 | 26:40      | these various solutions that we talk about on this show so often. Like you said, [[Drafts]],                 |
@@ -395,7 +395,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 27:12      | apps and send it to one of the other apps. But maybe you want to filter through your                     |
 | 27:16      | whole database to do it. So you could build a shortcut that does this. And, you know,                    |
 | 27:21      | people are, as we saw with those graphs that we were talking about earlier. But if you're                |
-| 27:28      | using some JavaScript, you can write some code that will filter through the entire database,             |
+| 27:28      | using some [[JavaScript]], you can write some code that will filter through the entire database,             |
 | 27:32      | do it really quickly, and then make some decisions about, well, what do I want to include? What          |
 | 27:38      | do I not want to include? How do I want to format it? And then maybe it takes those results              |
 | 27:41      | and it sends them off to OmniOutliner, to OmniGraffle, like maybe a graph of how your                    |
@@ -406,7 +406,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 28:11      | some examples of some of these things that are posted over at omni-automation.com. That's                 |
 | 28:15      | Omni-automation. And I'm sure Link will be in the show notes. And so that's a great place                |
 | 28:23      | to see some of these examples of things you can do when you're taking apps and now you're                |
-| 28:28      | having them work together, not just one app at a time. Because one of the things JavaScript              |
+| 28:28      | having them work together, not just one app at a time. Because one of the things [[JavaScript]]              |
 | 28:32      | is good at is letting you build some dynamic code, send it somewhere else, and execute                   |
 | 28:38      | it in a different environment. So you can build a plug-in for OmniPlan that goes and                     |
 | 28:44      | fetches some data from OmniFocus or vice versa.                                                          |
@@ -423,9 +423,9 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 29:34      | you know about the dictionaries, where an application will provide certain data through                  |
 | 29:40      | its dictionary to AppleScript. I guess you can call that a donation, just like they do                  |
 | 29:44      | now with shortcuts. But I feel like, and Ken can tell me if I'm wrong, but the quote-unquote             |
-| 29:51      | dictionary you built with this JavaScript implementation looks like it's just almost                     |
+| 29:51      | dictionary you built with this [[JavaScript]] implementation looks like it's just almost                     |
 | 29:55      | everything you can do in the app. Like, for instance, just like I was looking at the search              |
-| 29:59      | functions, because I was trying to do some JavaScript in around search, I can look for                   |
+| 29:59      | functions, because I was trying to do some [[JavaScript]] in around search, I can look for                   |
 | 30:04      | search terms in the projects, the folders and the tags. So I can get very specific with                  |
 | 30:10      | my search based on which context of the database I want to hit. And it's just like, it's that            |
 | 30:17      | way throughout this whole implementation, you guys have just basically made the entire                   |
@@ -433,7 +433,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 30:28      | it.                                                                                                      |
 | 30:29      | I think it's great what we've done. I wouldn't say that we've gotten 100% of the way there               |
 | 30:33      | yet. I know Rosa sent us some bugs about things around date parsing, for example, that are               |
-| 30:39      | not yet exposed to the JavaScript side of things. But it's certainly our goal to get                     |
+| 30:39      | not yet exposed to the [[JavaScript]] side of things. But it's certainly our goal to get                     |
 | 30:43      | all of those things there. And of course, there are things you can do when you have                      |
 | 30:49      | that raw access to these underlying tasks that you can't really do very easily in the                    |
 | 30:54      | interfaces. It's super easy to make up your own sorting criteria for a tag, for example,                 |
@@ -514,18 +514,18 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 36:28      | Whether you have a personal website you want to get a following on or your company needs                 |
 | 36:33      | more traffic to convert into sales. Go there now to a hrefs.com to get that $7 trial.                    |
 | 36:42      | Our thanks to hrefs for their support of automators and all of relay FM.                                 |
-| 36:47      | And if you're listening to this and you're like, ah, JavaScript, I don't want to learn                   |
+| 36:47      | And if you're listening to this and you're like, ah, [[JavaScript]], I don't want to learn                   |
 | 36:51      | a new language. One of the things with the side benefit of all this is if you go to that                 |
 | 36:56      | Omni automation site, we're going to put in the show notes. We'll put there's a specific                 |
-| 37:01      | page where Sal has created 30 some automations already using JavaScript. And these are just              |
+| 37:01      | page where Sal has created 30 some automations already using [[JavaScript]]. And these are just              |
 | 37:09      | plugins you can download, plug in and start using immediately with OmniFocus. So you don't               |
-| 37:15      | have to write a lick of JavaScript to still get advantages of this. And a lot of these                   |
+| 37:15      | have to write a lick of [[JavaScript]] to still get advantages of this. And a lot of these                   |
 | 37:19      | are really useful. Like you can, like I was just looking at, there's one here where you                  |
 | 37:22      | can clear tags from selected tasks. Well, sometimes I need to kind of flush tags down                    |
 | 37:28      | the toilet, right? And so I could select a bunch of these, run this plugin, and it does                  |
 | 37:32      | it for me automatically, which is, you know, the whole point of the automators.                          |
 | 37:37      | That's really our vision for this in the end is that, of course, there are going to be                   |
-| 37:41      | some people who are excited to write JavaScript and develop these plugins. But most people,              |
+| 37:41      | some people who are excited to write [[JavaScript]] and develop these plugins. But most people,              |
 | 37:48      | you know, much like with Kinklesst GTD back in the Omni Outliner days 15 years ago, most                  |
 | 37:52      | people are just going to be wanting to run plugins that other people have written. And                   |
 | 37:57      | I think we still have more work we can do on our end to make that even easier. So it's                   |
@@ -537,7 +537,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 38:20      | one of these plugins, once you download it, how do you get it working with the application,              |
 | 38:24      | whether you're on iPhone or Mac?                                                                         |
 | 38:27      | If it's stored as a plugin, and I've been working with Sal about how can we get this                     |
-| 38:33      | site set up so that a lot of these are more easily available as JavaScript plugins, we                   |
+| 38:33      | site set up so that a lot of these are more easily available as [[JavaScript]] plugins, we                   |
 | 38:38      | have a special extension for it, just like a normal document extension for like an Omni                  |
 | 38:44      | Focus plugin or an Omni Outliner plugin or whatever. And so the website will just provide                |
 | 38:49      | this plugin download, you click on it, and whichever platform you're on, whether you're                  |
@@ -563,10 +563,10 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 40:22      | Yeah, well, and the nice thing is, in addition to the ones that Sal's created, you'll have               |
 | 40:28      | other people in the community like Rosemary Orchard putting ones together and there'll                  |
 | 40:32      | be this kind of rich, hopefully assortment of scripts that you can download. And because                 |
-| 40:38      | they're JavaScript, if you do want to wade into the waters a bit, taking one someone's                   |
+| 40:38      | they're [[JavaScript]], if you do want to wade into the waters a bit, taking one someone's                   |
 | 40:43      | already written and making changes to it is, you know, that's my sweet spot for scripting.               |
 | 40:49      | I mean, I can't tell you how many AppleScripts I've written that started with somebody else's           |
-| 40:53      | script, you know, and I think that'll work the same way with this JavaScript. So it's                    |
+| 40:53      | script, you know, and I think that'll work the same way with this [[JavaScript]]. So it's                    |
 | 40:57      | not that difficult to understand how it works, even if you don't do all the online courses               |
 | 41:01      | once you look at one that and you know what it's doing and you know how it works.                        |
 | 41:05      | Yeah, absolutely. That's how so much programming starts, in fact, and whenever you're working            |
@@ -574,7 +574,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 41:17      | a little bit of complexity to it. So to start with, you're going to want to have a look                  |
 | 41:20      | at, you know, like, what is, you know, like, how does a project work? Like, what does it                 |
 | 41:24      | have? Okay, so I need to set project dot due date to set the due date of the project.                    |
-| 41:28      | But once you're familiar with JavaScript objects and so on, it's relatively easy to figure               |
+| 41:28      | But once you're familiar with [[JavaScript]] objects and so on, it's relatively easy to figure               |
 | 41:32      | out. And I'm just looking at a sample script that I threw together earlier and [[BBEdit]]                   |
 | 41:36      | tells me it's 65 lines long, when people listening are beginning, whoa, 65 lines, that's a lot           |
 | 41:41      | of code. But if I look at it, the first 11 lines are comments to tell OmniFocus how to                   |
@@ -594,7 +594,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 42:53      | done to save me a few taps. And it didn't take long to put together with a little bit                    |
 | 42:56      | of help from the website. Yeah, you know, like as we're recording this, I've just shipped                |
 | 43:01      | the new photos field guide, and I'm working on the next title already. And I am working                  |
-| 43:06      | on a JavaScript in my head, it's not done yet. But did I can combine an outline that                     |
+| 43:06      | on a [[JavaScript]] in my head, it's not done yet. But did I can combine an outline that                     |
 | 43:12      | I create on the outliner to convert that into an overall plan and OmniPlan and a task list               |
 | 43:18      | and OmniFocus? I feel like I'm going to get there. There may be some other people helping               |
 | 43:22      | me along the way, but the stuff isn't that hard really. And and I love the idea of, you                  |
@@ -623,7 +623,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 45:17      | of it opens that graph in OnmniGraffle. And then I can go and start, you know, working                    |
 | 45:23      | in more detail with that graph and figure out what's going on.                                           |
 | 45:26      | One of my favourite implementations was salsa going in when he did his [[CMD-D Conference]].              |
-| 45:31      | He made the [[CMD-D Conference]] logo with a JavaScript in OmniGraffle. And he just run                  |
+| 45:31      | He made the [[CMD-D Conference]] logo with a [[JavaScript]] in OmniGraffle. And he just run                  |
 | 45:39      | a script and it created the logo for the event in OmniGraffle. Because, because he's                     |
 | 45:43      | Sal and that's how sell does things.                                                                    |
 | 45:47      | This episode is brought to you by Pingdom from SolarWinds. Today's internet users expect                 |
@@ -643,10 +643,10 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 46:47      | you sign up, use the code AUTOMATORS at checkout to get an awesome 30% off your first invoice.           |
 | 46:53      | Thanks to Pingdom for SolarWinds of their support at this show and relayfm.                              |
 | 46:58      | OmniGraffle also added the ability to copy one of your graphics or whatever it is that you                  |
-| 47:04      | have on your canvas as JavaScript, which makes it even easier to get started with that because           |
+| 47:04      | have on your canvas as [[JavaScript]], which makes it even easier to get started with that because           |
 | 47:11      | say for example you want to learn how to draw a square in the centre of your canvas. Well,               |
 | 47:16      | you draw a square and you centre on your canvas and then you can just at least on the Mac                |
-| 47:19      | right click copy as JavaScript and that gives you the ability to redraw that circle with                 |
+| 47:19      | right click copy as [[JavaScript]] and that gives you the ability to redraw that circle with                 |
 | 47:24      | exactly that script time and time again, which for me is a really nice way to get started                |
 | 47:29      | on that because for me, you know, I've never really worked with user interfaces of that                  |
 | 47:34      | kind. I've only ever worked with web browsers where everything is different on every single              |
@@ -656,15 +656,15 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 47:53      | they're really seeing. So, you have to sort of just guesstimate, but a canvas in OmniGraffle             |
 | 47:58      | is, you know, it's precise. And I love the fact that you can specifically say, okay,                     |
 | 48:02      | right. So, now I've drawn like the outline that I want for every single diagram of this                  |
-| 48:08      | kind and copy those elements as JavaScript and that to me is a really great way to get                   |
+| 48:08      | kind and copy those elements as [[JavaScript]] and that to me is a really great way to get                   |
 | 48:13      | started wrapping my head around something that for me is a totally alien concept.                        |
 | 48:17      | Yeah, I find that tool useful myself when I'm wanting to set things up and I don't necessarily           |
 | 48:22      | remember. All right, how do I assign a colour to the shape or to its border or whatever                   |
 | 48:27      | else I'm trying to do? So, it's much easier sometimes just manipulate it directly, copy                  |
-| 48:32      | it back out into JavaScript, as you said, and paste it into your script and then you                     |
+| 48:32      | it back out into [[JavaScript]], as you said, and paste it into your script and then you                     |
 | 48:38      | can make your changes from there. Yes. And that's one of the things I like with the examples             |
 | 48:43      | that are there either directly from the app or from the website, it's easy to get started.               |
-| 48:49      | Ken, what's some of your favourite implementations of JavaScript on the Omni apps now that you've         |
+| 48:49      | Ken, what's some of your favourite implementations of [[JavaScript]] on the Omni apps now that you've         |
 | 48:54      | been playing with it for a while? Oh, that's an interesting question. Well, I haven't actually           |
 | 48:59      | played with the Omni focused stuff that much yet because it's so new. I mean, it's been                  |
 | 49:03      | developed meant what for a couple of years now. But in terms of finally having all of                    |
@@ -767,7 +767,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 57:58      | for system administrators. It's great for programmers, developers. But yeah, for a lot                   |
 | 58:06      | of people's daily tasks, they're probably going to find more use out of a spreadsheet,                   |
 | 58:09      | to be honest, right? And the automations they can do there.                                              |
-| 58:13      | Well, either way, I am just so happy that you guys have got to the finish line with this JavaScript.     |
+| 58:13      | Well, either way, I am just so happy that you guys have got to the finish line with this [[JavaScript]].     |
 | 58:18      | And I know you're going to tell me you're still working on it, but you've got it out now for all         |
 | 58:22      | of your apps. And now I can truly start scripting between all of my army apps. And I'm so happy          |
 | 58:27      | about that. Oh, thank you. Yeah, it's, it's an exciting milestone to finally have reached. Even          |
@@ -782,7 +782,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 59:19      | you can just download and start using them and start picking them apart. You know, rather than           |
 | 59:24      | watch something dumb on TV, spend an evening just on this website. And you are going to learn to         |
 | 59:30      | learn to automate your omni applications. It's just, it's not as hard as it sounds. And even if          |
-| 59:37      | you don't want to get into the weeds with JavaScript, there are so many great actions already built      |
+| 59:37      | you don't want to get into the weeds with [[JavaScript]], there are so many great actions already built      |
 | 59:43      | that you're going to make these applications more valuable to yourself just by going to this website.    |
 | 59:47      | We'll put a link to the collection straight in the show notes too. So if you just want to look at        |
 | 59:51      | the examples that already exist, like copying tags between selected tasks, like that, that exists.       |
@@ -797,8 +797,8 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 01:00:37   | nothing makes me happier than companies that are willing to not only give automation lip service,        |
 | 01:00:42   | but actually put their time and money behind it. And the Omni Group has done that so much. And I         |
 | 01:00:48   | feel like you guys have set such a great example. I hope a lot of the other developers out there         |
-| 01:00:53   | with productivity apps tie into this, because this is just JavaScript. I mean, there's no reason         |
-| 01:00:58   | why I can't use a JavaScript plugin for OmniFocus to tie into some other third party application         |
+| 01:00:53   | with productivity apps tie into this, because this is just [[JavaScript]]. I mean, there's no reason         |
+| 01:00:58   | why I can't use a [[JavaScript]] plugin for OmniFocus to tie into some other third party application         |
 | 01:01:04   | too, if I want. And, and you guys, that's one of the things you did with this that makes it so           |
 | 01:01:09   | generous to the community is that it's not proprietary. I mean, these scripts can run                    |
 | 01:01:15   | across multiple apps. And I would love nothing better than a year or two from now to have so             |

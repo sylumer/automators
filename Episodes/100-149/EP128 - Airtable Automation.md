@@ -515,8 +515,8 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 30:17      | of those curly brackets, which will then filter the thing that comes out of there from a                  |
 | 30:23      | markdown to HTML conversion.                                                                              |
 | 30:25      | You can also uppercase things and lowercase things, URL escape things, HTML escape things,                |
-| 30:31      | or even JavaScript escape things.                                                                         |
-| 30:33      | So if you want to be able to insert some raw JavaScript and have it, you know, escape                     |
+| 30:31      | or even [[JavaScript]] escape things.                                                                         |
+| 30:33      | So if you want to be able to insert some raw [[JavaScript]] and have it, you know, escape                     |
 | 30:36      | so that it doesn't run or something, then you can do that.                                                |
 | 30:40      | And I just think it's a really nice sign of how powerful this stuff has become that not                   |
 | 30:46      | only are people asking for this, people are using it as well, you know, you end up seeing                 |
@@ -1056,7 +1056,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:04:57   | If you want something scripty, you probably mean [[JavaScript]].                                              |
 | 01:05:02   | If you learn Java, you're going to be doing a lot of typing, long variable names and class                |
 | 01:05:06   | names and function names are common in Java, in fact, that's the style, choice of language.               |
-| 01:05:11   | You may want JavaScript because that can run on your phone and your iPad and a Mac.                       |
+| 01:05:11   | You may want [[JavaScript]] because that can run on your phone and your iPad and a Mac.                       |
 | 01:05:16   | You might want shortcuts because if you don't have any experience with writing automations,               |
 | 01:05:21   | it's quite nice to have blocks that you can drag and drop into place.                                     |
 | 01:05:24   | AppleScript could be a good choice if you're just looking to automate stuff on the Mac.                   |
@@ -1090,19 +1090,19 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:17   | The good knowledge of all this, I really think, is that all this stuff at this point builds               |
 | 01:07:21   | on each other.                                                                                            |
 | 01:07:24   | Once you learn shortcuts, maybe you go to [[Keyboard Maestro]], then suddenly things like                     |
-| 01:07:28   | AppleScript, JavaScript, all that stuff becomes additive and you can learn it as you need                 |
+| 01:07:28   | AppleScript, [[JavaScript]], all that stuff becomes additive and you can learn it as you need                 |
 | 01:07:35   | it.                                                                                                       |
 | 01:07:36   | My recommendation if you're getting started with automation, start easy and I can confidently             |
 | 01:07:42   | say no matter which [[Apple]] platform you're on, that's shortcuts.                                           |
 | 01:07:46   | I would definitely also recommend shortcuts.                                                              |
 | 01:07:49   | If you're a programmer and you've already done some of this stuff before, maybe even                      |
 | 01:07:55   | if it was a while ago and you're like, I'm not sure about drag and drop blocks, I kind                    |
-| 01:07:59   | of really wanted to type something, I'd definitely be recommending JavaScript as the language             |
+| 01:07:59   | of really wanted to type something, I'd definitely be recommending [[JavaScript]] as the language             |
 | 01:08:05   | just because then you can create actions for [[Obsidian]] or extensions for [[Obsidian]].                         |
 | 01:08:10   | You can create actions for [[Drafts]].                                                                        |
 | 01:08:12   | You can create [[Safari]] bookmarklets and all sorts of things.                                               |
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
-| 01:08:23   | JavaScript is just a good place to start for that, but really, you should probably look                   |
+| 01:08:23   | [[JavaScript]] is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
 | 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
 | 01:08:40   | Well, Shortcuts has got great action support for lots of things and more importantly, those               |

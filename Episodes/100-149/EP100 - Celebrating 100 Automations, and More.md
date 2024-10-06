@@ -501,7 +501,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 18:23      | I mean, those are absolute avenues of automation.                 |
 | 18:28      | And then I guess the last category is I would just say scripts    |
 | 18:32      | or scripting languages.                                           |
-| 18:34      | AppleScript, JavaScript, Python.                                 |
+| 18:34      | AppleScript, [[JavaScript]], Python.                                 |
 | 18:37      | And we haven't covered those as in much detail                    |
 | 18:40      | but we do link out to them quite often.                           |
 | 18:42      | The problem with those is how do you explain                      |
@@ -1920,11 +1920,11 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:16:55   | And at the same time,                                             |
 | 01:16:57   | I think [[JavaScript]] is going to become more essential              |
 | 01:17:01   | for automation.                                                   |
-| 01:17:02   | I think a lot of people are leaning into JavaScript.              |
+| 01:17:02   | I think a lot of people are leaning into [[JavaScript]].              |
 | 01:17:04   | I mean, they just released [[Audio Hijack\|Audio Hijack 4]],                        |
 | 01:17:08   | which has shortcuts integration,                                  |
 | 01:17:09   | but it also has [[JavaScript]] automation.                            |
-| 01:17:12   | And JavaScript is where you can really                            |
+| 01:17:12   | And [[JavaScript]] is where you can really                            |
 | 01:17:14   | make that application dance.                                      |
 | 01:17:16   | I think if you want to automate,                                  |
 | 01:17:18   | starting to get a little familiar with [[JavaScript]]                 |
@@ -1952,7 +1952,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:18:08   | But I think, you know,                                            |
 | 01:18:09   | if people are looking to just upgrade                             |
 | 01:18:12   | their automation knowledge,                                       |
-| 01:18:14   | then we've got JavaScript there ready.                            |
+| 01:18:14   | then we've got [[JavaScript]] there ready.                            |
 | 01:18:16   | You know, it's not waiting in the wings.                          |
 | 01:18:18   | It's just, you know, it's in the starting blocks                  |
 | 01:18:20   | for a lot of people,                                              |

@@ -87,7 +87,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:56      | And then I'd like to say that in the evening, I'm an indie developer. I don't really know              |
 | 01:59      | if that qualifies as an indie developer, but that's how I like to think about it. And I                |
 | 02:04      | do apps like you, before you mentioned Scriptable, that's one of them. And app for programming,        |
-| 02:11      | writing small programs in JavaScript on your iPhone and iPad. I do Rune Stone, a classic               |
+| 02:11      | writing small programs in [[JavaScript]] on your iPhone and iPad. I do Rune Stone, a classic               |
 | 02:16      | plain text editor, an app called JSON for browsing JSON and [[Data Jar]], a database that's built           |
 | 02:24      | for shortcuts. And many of these apps have this thing in common that they're really                    |
 | 02:29      | meant for power users like you, Rose and David. And that also means that they tend to tie              |
@@ -352,11 +352,11 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 23:28      | a great app where you can completely and fully program your own widget without having to               |
 | 23:34      | write your own iOS app. And of course, you've done all the heavy lifting in the back end               |
 | 23:38      | so that the widgets themselves can be updated and so on automatically and things like that,            |
-| 23:43      | which means that somebody who already knows a little bit of JavaScript can then say, okay,             |
+| 23:43      | which means that somebody who already knows a little bit of [[JavaScript]] can then say, okay,             |
 | 23:49      | so I am going to, if it's a Tuesday, I'm going to try and get this comic, but if it's                  |
 | 23:55      | a Wednesday, I'm going to get this web comic and pull that in and display that in a widget             |
 | 24:00      | or they can go really nerdy and complex and build their own, I don't know, [[Todoist]] widget              |
-| 24:06      | with JavaScript if they wanted to, which is really cool that, you know, that's something               |
+| 24:06      | with [[JavaScript]] if they wanted to, which is really cool that, you know, that's something               |
 | 24:10      | that's possible and it's not just, you know, get some data and, you know, do something                 |
 | 24:16      | that previously you couldn't do in shortcuts, you know, for a long time, a lot of us, myself           |
 | 24:19      | included, were using [[Scriptable]] to edit reminders because editing a reminder was not something         |
@@ -371,19 +371,19 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 25:00      | really good that Scriptable has been one of those ones that you can rely on to do that                 |
 | 25:04      | because it has got such good access to all things.                                                     |
 | 25:07      | Yeah, so I mean, and we just kind of jumped into a bit Scriptable what it is, it's an                  |
-| 25:11      | app for your phone or your iPad, and it allows you to write JavaScript, which will automate            |
+| 25:11      | app for your phone or your iPad, and it allows you to write [[JavaScript]], which will automate            |
 | 25:18      | your phone. It's like an alternative automation platform. But instead of using like shortcuts,         |
-| 25:24      | you write [[JavaScript]]. But in addition, shortcuts can run these JavaScript applets that you             |
+| 25:24      | you write [[JavaScript]]. But in addition, shortcuts can run these [[JavaScript]] applets that you             |
 | 25:32      | make. So you can add features to Shortcuts, but you can also just use a separate platform.             |
-| 25:36      | And even if you don't speak a lick of JavaScript, it comes with a bunch of nice ones built in          |
+| 25:36      | And even if you don't speak a lick of [[JavaScript]], it comes with a bunch of nice ones built in          |
 | 25:40      | to kind of get you a start. I am the least qualified on this podcast to talk about it                  |
-| 25:46      | when it comes to JavaScript. I'm like a blind hog, smelling for an acorn, you know, occasionally       |
-| 25:51      | I find one. But I'm able to cobble them together because JavaScript has such a big resource            |
+| 25:46      | when it comes to [[JavaScript]]. I'm like a blind hog, smelling for an acorn, you know, occasionally       |
+| 25:51      | I find one. But I'm able to cobble them together because [[JavaScript]] has such a big resource            |
 | 25:58      | on the internet. There's so many people that have shown you how to do stuff between that,              |
 | 26:02      | the samples. It really does give you some extra tools like Rose was saying, historically               |
 | 26:09      | we would use it for to get around problems with [[Apple Reminders\|Reminders]], but there's always little                   |
 | 26:13      | bits of glue that you need for automation or maybe even something fancier that you can                 |
-| 26:19      | only do with a bit of JavaScript. It's really great for calling out to the internet. Like              |
+| 26:19      | only do with a bit of [[JavaScript]]. It's really great for calling out to the internet. Like              |
 | 26:24      | you've got the built in one for the current weather and the polling count. I think those               |
 | 26:28      | are excellent where it's just going to the internet, figuring it out and reporting back                |
 | 26:31      | to you. And it's a really interesting application. I think if you're interested in automation          |
@@ -395,8 +395,8 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 27:08      | especially if you've got, say, a raise of data where it's a list with... It could have                 |
 | 27:13      | anywhere between five and seven responses. It can be kind of tricky to go through all                  |
 | 27:19      | of that. You'll end up nesting lots of repeats and so on to try and get all the way into               |
-| 27:23      | it. But it feels like it's a lot easier in Scriptable and JavaScript for a lot of this,                |
-| 27:31      | just because, especially JSON, it is JavaScript object notation. So it's not surprising that           |
+| 27:23      | it. But it feels like it's a lot easier in Scriptable and [[JavaScript]] for a lot of this,                |
+| 27:31      | just because, especially JSON, it is [[JavaScript]] object notation. So it's not surprising that           |
 | 27:36      | it's quite easy to manipulate. And I'm just very glad that Scriptable is there for those               |
 | 27:40      | people who are willing to take a step up from Shortcuts to something that is going to make             |
 | 27:47      | their life a little bit easier, or a lot easier in some cases, but they can still use it as            |
@@ -411,16 +411,16 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 28:35      | problems as a developer who's used to writing code. So these drag-and-drop blocks, it didn't           |
 | 28:42      | feel flexible enough for me. I mean, I've gotten more used to it over the years. But                   |
 | 28:46      | back then, it's going to take me half an hour to make this small program in Workflow or                |
-| 28:53      | Shortcuts, and I could do it in five minutes in JavaScript. So that's really why I started             |
+| 28:53      | Shortcuts, and I could do it in five minutes in [[JavaScript]]. So that's really why I started             |
 | 28:58      | building Scriptable back then. And I like to think of it as what [[AppleScript]] was to automate           |
 | 29:04      | us. No, what was I called? The Mac App? Automator. Yes. Automators is the podcast. Automator           |
 | 29:12      | is the app. Yeah, so I like to think of it as what AppleScript was to automate us back                 |
 | 29:18      | then. That was like Scriptable to Workflow or Scriptable to Shortcuts. And to your point,              |
 | 29:25      | there are some operations on data, on maybe JSON in particular, that's easier to do in                 |
-| 29:32      | JavaScript than it might be in Shortcuts, especially if you're like used to programming                |
+| 29:32      | [[JavaScript]] than it might be in Shortcuts, especially if you're like used to programming                |
 | 29:37      | in whatever language, which was part of the motivation for doing the run inline action                 |
-| 29:43      | a few years ago. So you can even have a Shortcut and you can drag a JSON or JavaScript block           |
-| 29:50      | into your Shortcut. So it lives within the Shortcut and you can run a piece of JavaScript              |
+| 29:43      | a few years ago. So you can even have a Shortcut and you can drag a JSON or [[JavaScript]] block           |
+| 29:50      | into your Shortcut. So it lives within the Shortcut and you can run a piece of [[JavaScript]]              |
 | 29:55      | in Scriptable, even though you're running a Shortcut. And I often use that to do some                  |
 | 30:00      | data manipulation. Yeah, yes. And also, you know, I think it's also not just necessarily               |
 | 30:06      | for people who are ready to move on from Shortcuts to something more powerful, but also for            |
@@ -441,7 +441,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 31:20      | just because I could do it in shortcuts, but drilling down to that data and that level                 |
 | 31:27      | and figuring out, you know, and which of the, you know, 16 array elements that I get back,             |
 | 31:33      | you know, there are 16 items in this list that are returned and I need two of them.                    |
-| 31:37      | Which ones do I need? That's something that's very easy to do in JavaScript, not so easy               |
+| 31:37      | Which ones do I need? That's something that's very easy to do in [[JavaScript]], not so easy               |
 | 31:40      | to do in shortcuts. It can be done in shortcuts. It's just a little trickier to do.                    |
 | 31:46      | So you mentioned that Scriptable isn't necessarily for people who are ready to move on from shortcuts  |
 | 31:52      | to something more powerful. And I just wanted to mention that that's not really how I like             |
@@ -474,12 +474,12 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 34:11      | to take a lot more time that I had imagined. So bringing that into Scriptable is, is like              |
 | 34:17      | the next step. But that's just, that's just a small step in like a bigger thing I want                 |
 | 34:24      | to do with Scriptable. So anyone who might have like followed me online for the past                   |
-| 34:30      | few months might have seen that I'm also working on, on bringing a bridging JavaScript                 |
-| 34:35      | to a [[SwiftUI]]. So doing a one to one bridge between the JavaScript side of things and                  |
+| 34:30      | few months might have seen that I'm also working on, on bringing a bridging [[JavaScript]]                 |
+| 34:35      | to a [[SwiftUI]]. So doing a one to one bridge between the [[JavaScript]] side of things and                  |
 | 34:42      | then native [[SwiftUI]] components. So what I really want to do is making, making it possible             |
 | 34:48      | for people to use, if not all, then many of the, the concepts that we're used to in [[SwiftUI]],       |
 | 34:57      | [[Apple\|Apple's]] new framework for, for building UIs and making, making those available to                  |
-| 35:04      | people who are more comfortable with JavaScript. And hopefully if everything goes as planned,          |
+| 35:04      | people who are more comfortable with [[JavaScript]]. And hopefully if everything goes as planned,          |
 | 35:10      | because this is still in like the exploration phase, but, but things seem to be turning                |
 | 35:14      | out quite well. But if, if they go well, bring that into Scriptable. So that's, I think                |
 | 35:20      | that's like, that's, that's the next step. Because as I said a few minutes ago, Scriptable             |
@@ -522,7 +522,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 38:27      | I'm looking forward to the, the beta of that when, whenever you get around to it. So I                 |
 | 38:31      | feel free to put me on the early beta list and I will do my best to test it to its limits.             |
 | 38:36      | I've, I've been playing a lot with [[Swift Playgrounds]] recently and [[SwiftUI]]. So fingers crossed          |
-| 38:40      | I'll be able to translate that knowledge back into JavaScript. And yeah, I can't wait to               |
+| 38:40      | I'll be able to translate that knowledge back into [[JavaScript]]. And yeah, I can't wait to               |
 | 38:43      | see what you've got for us.                                                                            |
 | 38:44      | Sure. I'll, I'll make sure to add you to the beta and in many months time probably.                    |
 | 38:50      | That's fine.                                                                                           |
@@ -575,7 +575,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 42:32      | month out of the calendar of my spare time at least and see how far can I get building                 |
 | 42:38      | my own text editor? Because as I mentioned a bit earlier, I wanted a custom text editor                |
 | 42:43      | in my app Scriptable, which obviously a big part of that app is a text viewer way, right?              |
-| 42:50      | Um, JavaScript. And that has previously, uh, and actually it still is to this day based                |
+| 42:50      | Um, [[JavaScript]]. And that has previously, uh, and actually it still is to this day based                |
 | 42:55      | on some open source component that isn't, um, that performant, especially not with large               |
 | 43:00      | files. And I knew that if I wanted to take Scriptable to the next level, I had to build                |
 | 43:05      | my own, um, text editor for various reasons. So I wanted, I, I, I promised myself that                 |
@@ -794,7 +794,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:00:57   | of a variable across different shortcuts. And Simon scratched that it's so well that                   |
 | 01:01:04   | I don't care if [[Apple]] ever fixes it, because I'm super happy with [[Data Jar]]. But I mean,                 |
 | 01:01:09   | it's just a little problem. And I do think that like, you know, when we talk about things              |
-| 01:01:14   | like Scriptable, some people say, well, JavaScript, I don't know how much I'm going to do that.        |
+| 01:01:14   | like Scriptable, some people say, well, [[JavaScript]], I don't know how much I'm going to do that.        |
 | 01:01:18   | Look, [[Data Jar]] is something everybody who owns shortcuts or makes a shortcut can use because            |
 | 01:01:24   | it's just what I said. It's a little jar full of data. In fact, maybe that's how you                   |
 | 01:01:31   | came up with the name, right? Exactly. Yes. Yeah. For me, one of the most useful things                |

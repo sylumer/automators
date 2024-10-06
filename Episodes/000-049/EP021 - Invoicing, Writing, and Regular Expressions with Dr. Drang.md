@@ -433,7 +433,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 15:32      | but there are a lot of scripts written in Perl running around.     |
 | 15:34      | And I have to say, as somebody who's, you know,                    |
 | 15:37      | my first programming experience as programming language            |
-| 15:40      | was Java, not JavaScript Java.                                     |
+| 15:40      | was Java, not [[JavaScript]] Java.                                     |
 | 15:43      | And as somebody who started with that, looking at Perl,            |
 | 15:46      | it's actually, you know,                                           |
 | 15:48      | I don't know why it's got this bad reputation,                     |
@@ -906,7 +906,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 38:06      | When I opened those pages now,                                     |
 | 38:08      | because they were basically just web pages                         |
 | 38:10      | that were sort of made on the fly                                  |
-| 38:13      | through like JavaScript or whatever.                               |
+| 38:13      | through like [[JavaScript]] or whatever.                               |
 | 38:15      | And now they're dead now.                                          |
 | 38:17      | So I'm, so I have to use more standard weather apps.               |
 | 38:22      | And I haven't gone back to find another API to do that.            |
@@ -966,7 +966,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 41:02      | I do use Textastic a bit because it's                              |
 | 41:05      | got a broader range of syntax highlighting for me.                 |
 | 41:12      | [[Drafts]] is pretty well-limited in its syntax highlighting           |
-| 41:14      | to Markdown and JavaScript and then the very Taskpaper            |
+| 41:14      | to Markdown and [[JavaScript]] and then the very Taskpaper            |
 | 41:20      | and the simple list thing.                                         |
 | 41:21      | But I write in late tech and I program in Python.                  |
 | 41:27      | And so I like having Textastic sometimes.                          |
@@ -1018,7 +1018,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 43:51      | except it does it in [[Drafts]].                                       |
 | 43:53      | So I was thinking about writing my own.                            |
 | 43:55      | I was thinking about taking that AppleScript                      |
-| 43:57      | and converting it into JavaScript                                  |
+| 43:57      | and converting it into [[JavaScript]]                                  |
 | 43:59      | so that it would work in [[Drafts]] and realised, oh,                  |
 | 44:02      | I don't have to.                                                   |
 | 44:03      | This is already done for me.                                       |
@@ -1807,8 +1807,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:57   | You know, a few years ago, they actually came,                     |
 | 01:21:59   | amazingly, they decided to come out                                |
 | 01:22:01   | with an entirely new language that looks at Apple events,          |
-| 01:22:06   | you know, JavaScript for applications.                             |
-| 01:22:09   | And I don't like it because I'm not a big fan of JavaScript.       |
+| 01:22:06   | you know, [[JavaScript]] for applications.                             |
+| 01:22:09   | And I don't like it because I'm not a big fan of [[JavaScript]].       |
 | 01:22:15   | And also because I find it,                                        |
 | 01:22:18   | you know, how you write an AppleScript,                            |
 | 01:22:21   | which is you start writing and then you realise,                   |
@@ -1824,7 +1824,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:22:48   | because AppleScript has been around for such a long time.          |
 | 01:22:51   | It's very hard to find JXA solutions,                              |
 | 01:22:55   | or is it JXA or JESA, whatever it is,                              |
-| 01:22:57   | in JavaScript solutions for these problems,                        |
+| 01:22:57   | in [[JavaScript]] solutions for these problems,                        |
 | 01:23:01   | because it just hasn't been around for very long.                  |
 | 01:23:03   | So I end up still writing mostly in AppleScript,                   |
 | 01:23:07   | even though it's not a language that I particularly like.          |

@@ -524,7 +524,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 31:08      | So I started creating one using the template, and then I gave me the instructions which were          |
 | 31:13      | to run NPM install and then build it, and that was the point where I went, ah, I can                  |
 | 31:21      | do this.                                                                                              |
-| 31:22      | I'm an expert developer, I use Node and JavaScript as part of my day job.                             |
+| 31:22      | I'm an expert developer, I use Node and [[JavaScript]] as part of my day job.                             |
 | 31:27      | If when I said NPM install, you went, wait, what's that?                                              |
 | 31:33      | Then you're probably not going to be writing a [[Raycast]] extension anytime soon, basically.             |
 | 31:38      | And that's kind of the thing that I feel is a bit of a shame.                                         |
@@ -1174,7 +1174,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:13:54   | shipping a bunch of the stuff in the terminal or in the, you know, you're going to, I don't           |
 | 01:13:58   | know the term of art to say, but basically you didn't have the pieces underneath that                 |
 | 01:14:02   | it was using to run.                                                                                  |
-| 01:14:04   | I think it was the JavaScript element that is not there anymore.                                      |
+| 01:14:04   | I think it was the [[JavaScript]] element that is not there anymore.                                      |
 | 01:14:08   | And they have a new version out, but you need to install Node and actually I discovered               |
 | 01:14:13   | it like 30 minutes before we start recording today and I didn't want to start messing around          |
 | 01:14:18   | with that before we record a show.                                                                    |

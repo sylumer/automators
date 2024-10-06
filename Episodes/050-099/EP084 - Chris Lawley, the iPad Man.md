@@ -606,8 +606,8 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 45:20      | I do all my note taking research, script writing, anything that you can kind of think of here,            |
 | 45:27      | here and between like, all all my text writing happens in [[Drafts]], which is nice, because I like           |
 | 45:35      | having just one application where everything lives. But I use an action, I did not make this              |
-| 45:41      | action because my my JavaScript skills are aren't that impressive. They are my my auto teacher used       |
-| 45:48      | to say, you know enough to be dangerous. And that's how I feel about my JavaScript skills. I know         |
+| 45:41      | action because my my [[JavaScript]] skills are aren't that impressive. They are my my auto teacher used       |
+| 45:48      | to say, you know enough to be dangerous. And that's how I feel about my [[JavaScript]] skills. I know         |
 | 45:53      | enough to be dangerous. So I most of the time break things or don't write it correctly. So I got this     |
 | 46:00      | action from the [[Drafts]] action dictionary called cross linking. And what this does is it gives             |
 | 46:05      | when you hit it, it gives you a menu option for finding another draft. And then it will do the            |
@@ -617,7 +617,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 46:31      | So when I do a video, I usually will have three, four, five different [[Drafts]] documents. I'll have         |
 | 46:36      | notes, research, the script, sponsorship, stuff like that. And I can link all those two together.         |
 | 46:44      | Yeah. I mean, [[Drafts]] has a back linking functionality that's created through a                            |
-| 46:48      | JavaScript plugin that that was done. I use the same one. I don't we should give credit to                |
+| 46:48      | [[JavaScript]] plugin that that was done. I use the same one. I don't we should give credit to                |
 | 46:55      | ever wrote it, but I don't have access to that that right now. I believe so the cross linking             |
 | 47:00      | a couple of people. So Tim, the hammock was certainly trying this along with several other                |
 | 47:04      | people. And then Greg Pierce adult tortoise himself created a common fruits and action,                   |
@@ -659,10 +659,10 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 50:35      | with [[Obsidian]] is it's like, it's the ultimate customisability, you can write plugins and                  |
 | 50:42      | do things with it. But but if you just if you're happy with the built in craft feature set,               |
 | 50:46      | you're saving yourself a lot of pain and suffering. Yeah. So I have to say, Chris, you said you know      |
-| 50:52      | enough to be dangerous as a [[JavaScript]] developer. That's all JavaScript developers know. I write          |
-| 50:56      | JavaScript. JavaScript is 50% of my day job. And it's I know enough to be dangerous and break             |
+| 50:52      | enough to be dangerous as a [[JavaScript]] developer. That's all [[JavaScript]] developers know. I write          |
+| 50:56      | [[JavaScript]]. [[JavaScript]] is 50% of my day job. And it's I know enough to be dangerous and break             |
 | 51:02      | the things I need to break in order to find what I need to fix to fix the problem. There are many         |
-| 51:07      | people out there better JavaScript developers than me. But unless it's literally, you know,               |
+| 51:07      | people out there better [[JavaScript]] developers than me. But unless it's literally, you know,               |
 | 51:11      | your primary development focus, it's one of those languages that especially with the variations of        |
 | 51:17      | [[Angular]], [[AngularJS]], [[React]], all of the different options, there's so much going on that it's               |
 | 51:23      | impossible to know everything. Yeah. And that describes 99% of people who write [[AppleScript]],             |

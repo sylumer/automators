@@ -149,20 +149,20 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 04:22      | which has just been significantly improved,                       |
 | 04:26      | that makes my life a lot easier.                                  |
 | 04:27      | And I really love that about it.                                  |
-| 04:29      | Yeah, and to me, the big one is the OmniFocus JavaScript          |
+| 04:29      | Yeah, and to me, the big one is the OmniFocus [[JavaScript]]          |
 | 04:34      | automation flavour that they've built.                             |
 | 04:38      | And this, I want to give a lot of the credit                      |
 | 04:41      | to [[Sal Soghoian]], but I know that it was the OmniGroup2.            |
 | 04:44      | But they came up with a new automation language in essence.       |
-| 04:48      | It's a very, it's a flavour of JavaScript.                         |
+| 04:48      | It's a very, it's a flavour of [[JavaScript]].                         |
 | 04:51      | But it really applies to OmniApplications.                        |
 | 04:55      | And what the effect is, is you can essentially                    |
 | 04:59      | build any feature you want in the app                             |
-| 05:01      | if you have JavaScript skills.                                    |
+| 05:01      | if you have [[JavaScript]] skills.                                    |
 | 05:04      | But they've also pre-populated it.                                |
 | 05:07      | I've lost track.                                                  |
 | 05:08      | It's over 100 new features that you can add just                  |
-| 05:11      | by implementing one of these JavaScript implementations.          |
+| 05:11      | by implementing one of these [[JavaScript]] implementations.          |
 | 05:14      | And the beauty of it is it doesn't just work on Mac.              |
 | 05:18      | It works on all platforms.                                        |
 | 05:20      | And so you add a new feature, and the feature                     |
@@ -469,7 +469,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 18:39      | I'm not sure, but there is,                                       |
 | 18:43      | there's a couple of things going on over there.                   |
 | 18:45      | First of all, he's added a ton of features                        |
-| 18:48      | through this new automation JavaScript scheme.                    |
+| 18:48      | through this new automation [[JavaScript]] scheme.                    |
 | 18:51      | And it's kind of fun to just go feature shopping.                 |
 | 18:53      | Like, you go in there and you download an automation              |
 | 18:57      | and just add a feature to OmniFocus                               |
@@ -594,7 +594,7 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 24:38      | to create all these additional features.                          |
 | 24:40      | And you too, dear listener,                                       |
 | 24:41      | if you want to put some effort into it,                           |
-| 24:44      | JavaScript's not that hard.                                       |
+| 24:44      | [[JavaScript\|JavaScript's]] not that hard.                                       |
 | 24:46      | You can usually kind of finagle your way through it,              |
 | 24:49      | but I would also recommend writing into the Omni-Group            |
 | 24:52      | if there's one you'd like.                                        |
@@ -650,8 +650,8 @@ In this episode of Automators, David and Rosemary talk about the new automation 
 | 27:05      | Yeah, and that is just something that, you know,                  |
 | 27:08      | makes lives a lot easier and not only that,                       |
 | 27:11      | but this is also a great way to see some of the ways              |
-| 27:16      | that you can use JavaScript with OmniFocus as well,               |
-| 27:21      | because there's JavaScript in the workflow.                       |
+| 27:16      | that you can use [[JavaScript]] with OmniFocus as well,               |
+| 27:21      | because there's [[JavaScript]] in the workflow.                       |
 | 27:23      | If you download it, then you can actually, you know,              |
 | 27:25      | edit it and play with it.                                         |
 | 27:27      | It's not, you know, just compiled in a way                        |

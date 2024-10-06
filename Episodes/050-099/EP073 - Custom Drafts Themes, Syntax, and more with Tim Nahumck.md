@@ -311,7 +311,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 20:44      | of explaining what is a syntax and why is that important in [[Drafts]]?                                  |
 | 20:49      | I will try to do that justice. A syntax is just the built-in grammar that the file uses.             |
 | 20:59      | You might just want simple text. You might want to write in markdown or multi-markdown.              |
-| 21:03      | You may be writing JavaScript or even setting some things up in Taskpaper. Those have been          |
+| 21:03      | You may be writing [[JavaScript]] or even setting some things up in Taskpaper. Those have been          |
 | 21:08      | kind of the general syntaxes for a while. What a syntax file allows you to do is it's                |
 | 21:16      | a lot more complicated than a theme file is. It still uses JSON to really navigate everything,       |
 | 21:25      | but you need to know regular expressions, more commonly called regex. It's not for the               |
@@ -332,7 +332,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 23:05      | how everything looks. It's a really powerful tool. I don't know if you have anything more            |
 | 23:10      | to add to that, Rose.                                                                                |
 | 23:12      | I would also mention that syntax is commonly referred to in programming terms, so you have           |
-| 23:18      | a programming syntax and that's usually, if you open, say for example, a JavaScript file,            |
+| 23:18      | a programming syntax and that's usually, if you open, say for example, a [[JavaScript]] file,            |
 | 23:25      | then that will look one way and then if you open, I don't know, say just a text file,                |
 | 23:32      | then that will just probably be like black text on a white background. Usually that's                |
 | 23:35      | what happens. An application, I'm going to use [[BBEdit]] as an example here because it supports           |

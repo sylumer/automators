@@ -102,7 +102,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 02:45      | it shouldn't work, but he writes these super detailed tutorial show notes. You can read                 |
 | 02:49      | the show notes, you can listen to him, you listen to me in the front row going, I don't                 |
 | 02:53      | understand, can you back up and explain that again? And we've been going over four years                |
-| 02:58      | and worked our way through HTML, CSS, JavaScript, we're doing some shell scripting right now.           |
+| 02:58      | and worked our way through HTML, CSS, [[JavaScript]], we're doing some shell scripting right now.           |
 | 03:05      | We've learned how to wrap our apps up for deployment. We learned all about [[Git]]. It's                    |
 | 03:10      | been a lot of fun.                                                                                      |
 | 03:13      | And Allison does excellent show notes. And if you listen to the automators, I think that                |
@@ -432,7 +432,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 28:38      | So there is another way with [[Grammarly]]. But what that involves is basically being a little bit          |
 | 28:44      | of a web developer or at least nerdy enough to like inspect the web page and then find out like          |
 | 28:50      | which either unique identifier is behind that button or like a special like path to get to              |
-| 28:55      | that button so that then you can click at it with JavaScript. And that's something that I can do        |
+| 28:55      | that button so that then you can click at it with [[JavaScript]]. And that's something that I can do        |
 | 29:01      | because my day job is being a web developer. It's not something that I would necessarily expect         |
 | 29:05      | somebody who doesn't spend all day messing around with websites and breaking them to necessarily        |
 | 29:10      | want to do, let alone know where to start with. You know, there are plenty of guides online.            |

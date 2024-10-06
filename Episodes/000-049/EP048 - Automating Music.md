@@ -949,7 +949,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 52:13      | Now, in this particular case, they were specifying that they wanted to do it from Google Calendar      |
 | 52:17      | and they were using the different colours of the different events in Google Calendar.                   |
 | 52:21      | And I did some pretty intense digging and the only way that I found that you might be                  |
-| 52:24      | able to do that exact solution would be to use the JavaScript automation that you can                  |
+| 52:24      | able to do that exact solution would be to use the [[JavaScript]] automation that you can                  |
 | 52:30      | use with Google.                                                                                       |
 | 52:32      | But it's not going to be easy to do.                                                                   |
 | 52:34      | However, if you just want to create a score.                                                           |

@@ -1234,7 +1234,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 44:38      | But of course, [[Rogue Amoeba]]                                       |
 | 44:40      | has also been bringing their A-game.                              |
 | 44:42      | Audio hijack has full                                             |
-| 44:44      | shortcut support now, including their own JavaScript              |
+| 44:44      | shortcut support now, including their own [[JavaScript]]              |
 | 44:46      | engine. Woo!                                                      |
 | 44:48      | And then they did the same thing with [[SoundSource]],                |
 | 44:50      | which is great.                                                   |

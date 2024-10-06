@@ -758,7 +758,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 41:39      | to an extent, but equally, it's a very effective shortcut.                                             |
 | 41:42      | So it does exactly what you need, and why wouldn't you just leave it as it is?                         |
 | 41:46      | Yeah.                                                                                                  |
-| 41:47      | And I'm just going crazy with OmniFocus JavaScript stuff and adding more and more of that.             |
+| 41:47      | And I'm just going crazy with OmniFocus [[JavaScript]] stuff and adding more and more of that.             |
 | 41:54      | And yeah.                                                                                              |
 | 41:56      | So in terms of task management, I'm automating a lot of stuff.                                         |
 | 42:00      | I really do want to look at other options to OmniFocus.                                                |

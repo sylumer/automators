@@ -273,32 +273,32 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 10:54      | It's mostly, yeah, mostly based on a lot of it's based on [[Swift]] and how [[Swift]] kind of                |
 | 10:59      | declares things.                                                                                     |
 | 11:00      | Yeah.                                                                                                |
-| 11:01      | So one of the community, like the Shortcuts community knows JavaScript from when I found.            |
+| 11:01      | So one of the community, like the Shortcuts community knows [[JavaScript]] from when I found.            |
 | 11:05      | Yes.                                                                                                 |
-| 11:06      | So I've taken things from JavaScript and use them in the language.                                   |
+| 11:06      | So I've taken things from [[JavaScript]] and use them in the language.                                   |
 | 11:11      | So like, no, like variables aren't like you don't declare your types on variables or anything.       |
-| 11:18      | So that's one thing I took, I guess from [[Swift]] and kind of from JavaScript at the same time.         |
-| 11:23      | But it's mostly, yeah, it's a mix of [[Swift]] and JavaScript to get what it is now, but                 |
+| 11:18      | So that's one thing I took, I guess from [[Swift]] and kind of from [[JavaScript]] at the same time.         |
+| 11:23      | But it's mostly, yeah, it's a mix of [[Swift]] and [[JavaScript]] to get what it is now, but                 |
 | 11:29      | I've been slowly expanding it more and it'll probably go more in the direction of [[Swift]]              |
 | 11:34      | just because that's what I know more of.                                                             |
 | 11:36      | Yeah.                                                                                                |
-| 11:37      | But as I learn more JavaScript, there may be more JavaScript-esque things that show up.              |
+| 11:37      | But as I learn more [[JavaScript]], there may be more [[JavaScript]]-esque things that show up.              |
 | 11:42      | Yeah.                                                                                                |
 | 11:43      | Yeah.                                                                                                |
 | 11:44      | That makes sense.                                                                                    |
-| 11:45      | And I'm not surprised that a lot of Shortcuts users know JavaScript.                                 |
-| 11:47      | First of all, there's of course the Shortcuts action to run JavaScript on a web page, which           |
+| 11:45      | And I'm not surprised that a lot of Shortcuts users know [[JavaScript]].                                 |
+| 11:47      | First of all, there's of course the Shortcuts action to run [[JavaScript]] on a web page, which           |
 | 11:50      | I'm sure a lot of people have hacked.                                                                |
 | 11:52      | And if people haven't played with that yet, they should do it, do it.                                |
 | 11:56      | It's a bookmarklet.                                                                                  |
 | 11:57      | Just think of it as a bookmarklet.                                                                   |
 | 11:58      | You can do things.                                                                                   |
 | 11:59      | And of course, we've got other great applications like Scriptable and [[Drafts]].                        |
-| 12:04      | And even Omni's applications, which have got Omni Automation in them, which uses JavaScript,         |
-| 12:08      | all of them use JavaScript.                                                                          |
-| 12:10      | So it's not a surprise to see people who are familiar with JavaScript.                               |
+| 12:04      | And even Omni's applications, which have got Omni Automation in them, which uses [[JavaScript]],         |
+| 12:08      | all of them use [[JavaScript]].                                                                          |
+| 12:10      | So it's not a surprise to see people who are familiar with [[JavaScript]].                               |
 | 12:14      | But I'm pleased you haven't just limited yourself to it because of course Shortcuts isn't [[Swift]].     |
-| 12:19      | It's not JavaScript.                                                                                 |
+| 12:19      | It's not [[JavaScript]].                                                                                 |
 | 12:20      | Yeah.                                                                                                |
 | 12:21      | It's not Ruby.                                                                                       |
 | 12:22      | It's certainly not PHP.                                                                              |
@@ -647,7 +647,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 31:47      | And I'm not trying to be like an [[Apple]] cheerleader, but I do think, frankly, the shortcuts team      |
 | 31:52      | is all four stuff like this.                                                                         |
 | 31:53      | And I think they want this stuff to get out there because, you know, they can't.                     |
-| 31:58      | They can't make a text editor, you know, JavaScript shortcuts builder because that's                 |
+| 31:58      | They can't make a text editor, you know, [[JavaScript]] shortcuts builder because that's                 |
 | 32:04      | really against the whole nature of the app.                                                          |
 | 32:06      | I mean, the idea is that my sister who doesn't listen to the automators can make a shortcut          |
 | 32:12      | to, you know, make her whatever, right?                                                              |
@@ -1145,7 +1145,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 01:00:49   | you think and go on the website, look at the documentation, but I would recommend if you're          |
 | 01:00:55   | listening to the Automators, this may be something you want.                                         |
 | 01:00:57   | I believe anybody that listens to the show, if they spent a weekend learning Zach's Jelly            |
-| 01:01:03   | language, I mean, it's a nice combination of really JavaScript and a couple other things,            |
+| 01:01:03   | language, I mean, it's a nice combination of really [[JavaScript]] and a couple other things,            |
 | 01:01:09   | you could pick it up and you could be making Shortcuts faster and more efficient and solve           |
 | 01:01:13   | all those problems we've been talking about throughout the show today.                               |
 | 01:01:16   | Thank you.                                                                                           |

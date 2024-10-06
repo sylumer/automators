@@ -175,7 +175,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 11:17      | stuck in automation is when I've just used something for so long that I don't even know how it works    |
 | 11:24      | anymore. So it's like, okay, I'm going to just keep on using this. It's fine. It's fine. But then       |
 | 11:31      | eventually it ends up being like, all right, me writing down my to-do list is way easier than,          |
-| 11:38      | you know, transferring this JavaScript automation into the new version of OmniFocus. And I don't        |
+| 11:38      | you know, transferring this [[JavaScript]] automation into the new version of OmniFocus. And I don't        |
 | 11:47      | know if it's the beta or if it's me or you know what, I'm just going to write it down. Stuff like       |
 | 11:52      | that. No, it can become a rabbit hole of its own. Lately, I've been really interested in what I         |
 | 11:59      | call contextual computing, where, you know, you use a combination of automation and smarts to           |
@@ -405,7 +405,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 36:06      | you do, let's say you go to a meeting every Monday and you want to just open a draft and have it put    |
 | 36:13      | all the template in for your meeting. You just do that once and you save it as an insert text           |
 | 36:18      | action. And you can download any of many from the [[Drafts]] action directory, or this is when you          |
-| 36:23      | create yourself. And then once you've created it, that's all you do. There's no magic JavaScript        |
+| 36:23      | create yourself. And then once you've created it, that's all you do. There's no magic [[JavaScript]]        |
 | 36:29      | programming going on. It's just dropping text into your draft for you. So you can have a starting       |
 | 36:34      | point, you know, you can have like going to the meeting example, because I have one like that,          |
 | 36:38      | that puts the date and time, it puts the people who are in attendance, because it's always the same     |

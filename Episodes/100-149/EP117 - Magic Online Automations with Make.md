@@ -391,7 +391,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 18:21      | of connect to your usual API.                                                                             |
 | 18:23      | Um, but, um, if this and that does require a little more massageing and, uh, Zapier requires               |
 | 18:29      | you to create like a whole little special thing, uh, for them, um, which fortunately                      |
-| 18:33      | for me is in JavaScript, but, uh, I can imagine that for some developers, this might be a                 |
+| 18:33      | for me is in [[JavaScript]], but, uh, I can imagine that for some developers, this might be a                 |
 | 18:38      | tricky thing to do.                                                                                       |
 | 18:39      | And in some cases it's just straight up not possible.                                                     |
 | 18:42      | Like I don't think you are going to see, uh, a [[Drafts]] integration with, um, make if this                  |

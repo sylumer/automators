@@ -19,7 +19,7 @@ TextExpander is a long standing boiler plate and text correction utility that fi
 # Features
 - Text insertion (snippet) through replacement of entered textual triggers (abbreviation).
 - Supports plain and rich text, plus fill in forms, special TextExpander defined tokens (e.g. date/time data), and scripted content.
-	- JavaScript works cross-platform.
+	- [[JavaScript]] works cross-platform.
 	- Shell script only available on Mac.
 - TextExpander used to be AppleScriptable, but that was silently removed in version 6.
 	- TextExpander currently have no plans to restore this functionality.

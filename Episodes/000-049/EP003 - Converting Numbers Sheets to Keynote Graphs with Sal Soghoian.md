@@ -534,7 +534,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 33:35      | You can use the word beginning.                                                                                                                                          |
 | 33:37      | AppleScript understands that.                                                                                                                                            |
 | 33:40      | In AppleScript, the index of the first item in a list is one.                                                                                                            |
-| 33:46      | In JavaScript, they use a zero index.                                                                                                                                    |
+| 33:46      | In [[JavaScript]], they use a zero index.                                                                                                                                    |
 | 33:50      | So the first item is zero, item zero.                                                                                                                                    |
 | 33:53      | But AppleScript is more English-like, and in English we don't go, will the zero person                                                                                   |
 | 34:00      | please stand up?                                                                                                                                                         |

@@ -69,7 +69,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 - [Toolbox Pro](https://toolboxpro.app/)
 - [Data Jar](https://datajar.app/)
 - [Drafts Directory | Drafts Action Directory](https://actions.getdrafts.com/)
-- [TADpoLe | ThoughtAsylum](https://www.thoughtasylum.com/tadpole/) - The ThoughtAsylum [[Drafts]] Library, also known as TADpoLe, is a collection of JavaScript for working with the [[Drafts]] application.
+- [TADpoLe | ThoughtAsylum](https://www.thoughtasylum.com/tadpole/) - The ThoughtAsylum [[Drafts]] Library, also known as TADpoLe, is a collection of [[JavaScript]] for working with the [[Drafts]] application.
 - [ThoughtAsylum | Drafts Action Directory](https://actions.getdrafts.com/g/1aM)
 - [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, Gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
 - [Capturing for Obsidian Using Drafts and GitHub | ThoughtAsylum](https://www.thoughtasylum.com/2021/01/18/capturing-for-obsidian-using-drafts-and-github/)

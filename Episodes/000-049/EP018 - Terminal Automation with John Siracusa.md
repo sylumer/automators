@@ -72,8 +72,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 00:44      | It's all the typical web technologies and languages.                                                     |
 | 00:48      | But these days, I've been branching out a little bit more.                                               |
 | 00:50      | I think the main thing that we've been working with server side                                          |
-| 00:53      | is JavaScript, actually,                                                                                 |
-| 00:55      | which is the same as JavaScript on the front end,                                                        |
+| 00:53      | is [[JavaScript]], actually,                                                                                 |
+| 00:55      | which is the same as [[JavaScript]] on the front end,                                                        |
 | 00:57      | but not really because on the server side,                                                               |
 | 00:59      | you get to use newer versions of language with all sorts of new features.                                |
 | 01:01      | So I've been doing a Node.js on the server side for a while now.                                         |
@@ -84,7 +84,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 01:15      | but it's a lot of folks that want to get their computers                                                 |
 | 01:19      | to do things automatically for them.                                                                     |
 | 01:20      | And there's a growing flock of the people who listen to the show                                         |
-| 01:24      | that are spending their time learning JavaScript                                                         |
+| 01:24      | that are spending their time learning [[JavaScript]]                                                         |
 | 01:27      | because it is becoming a tool of automation.                                                             |
 | 01:30      | Yeah, which it kind of pains me                                                                          |
 | 01:32      | because it's not the best language,                                                                      |
@@ -94,18 +94,18 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 01:44      | And now, there's always been a desire to not have two different languages                                |
 | 01:48      | on the server side and the client side.                                                                  |
 | 01:50      | So it's through a series of improbable, ridiculous events,                                               |
-| 01:54      | this language, JavaScript, which is getting better,                                                      |
+| 01:54      | this language, [[JavaScript]], which is getting better,                                                      |
 | 01:56      | but it's still very strange and awkward and not great,                                                   |
 | 02:00      | quote unquote, wins because it has to be everywhere.                                                     |
 | 02:03      | And so, you know, we are all, everyone's learning it                                                     |
 | 02:07      | or forced to learn it or kind of wants to learn it                                                       |
 | 02:10      | because you can run it everywhere and make it do all sorts of things.                                    |
-| 02:13      | And for automation, it's real nice because JavaScript-based automation,                                  |
+| 02:13      | And for automation, it's real nice because [[JavaScript]]-based automation,                                  |
 | 02:18      | as it's being created by like the Omni groups,                                                           |
 | 02:21      | I think they called it Omni Java.                                                                        |
 | 02:23      | Is that what they call it, Rosa?                                                                         |
 | 02:24      | I think they're just calling it Omni Automation                                                          |
-| 02:27      | and they're using JavaScript for it.                                                                     |
+| 02:27      | and they're using [[JavaScript]] for it.                                                                     |
 | 02:28      | Yeah, but the advantage is if you write that script,                                                     |
 | 02:32      | it's going to work on iOS devices and the Mac.                                                           |
 | 02:35      | And, you know, like, whereas if you spend a time learning [[AppleScript]],                                  |
@@ -119,16 +119,16 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 02:55      | or various other reasons why they wouldn't want you to be able to sell a program.                        |
 | 02:59      | Lots of the people write programs that then run on your phone.                                           |
 | 03:01      | Like, you know, you could use it as a side loading mechanism to anyway.                                  |
-| 03:05      | But they did let you run JavaScript                                                                      |
-| 03:07      | because you have to be able to use [[Safari]] and [[Safari]] run JavaScript                                      |
+| 03:05      | But they did let you run [[JavaScript]]                                                                      |
+| 03:07      | because you have to be able to use [[Safari]] and [[Safari]] run [[JavaScript]]                                      |
 | 03:10      | and you could put a web view into your application,                                                      |
-| 03:12      | which could then run JavaScript.                                                                         |
-| 03:14      | So JavaScript has always been like kind of the back door                                                 |
+| 03:12      | which could then run [[JavaScript]].                                                                         |
+| 03:14      | So [[JavaScript]] has always been like kind of the back door                                                 |
 | 03:16      | into programmability on iOS.                                                                             |
 | 03:19      | And, you know, I think we've moved on from that now                                                      |
 | 03:21      | where it's more officially supported along with other languages,                                         |
 | 03:23      | but it's another weird accident of history and, you know, corporate policy that,                         |
-| 03:29      | yeah, we're using JavaScript to automate everything                                                      |
+| 03:29      | yeah, we're using [[JavaScript]] to automate everything                                                      |
 | 03:31      | because it's the same everywhere                                                                         |
 | 03:32      | and it's because it's the thing that works on the phone and the iPad.                                    |
 | 03:36      | So we should have asked Sal to go in about this,                                                         |
@@ -138,20 +138,20 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 03:47      | I don't know.                                                                                            |
 | 03:47      | You're never past the point, but I'm going to say I don't see that happening.                            |
 | 03:51      | Yeah.                                                                                                    |
-| 03:52      | So what do you think of JavaScript as a programming language for automation?                             |
+| 03:52      | So what do you think of [[JavaScript]] as a programming language for automation?                             |
 | 03:56      | I mean, the advantages it has is that it's fairly high level.                                            |
 | 03:59      | So you're not dealing with like pointers or memory management or anything like that.                     |
 | 04:05      | And it is also familiar to a lot of people because they've seen it                                       |
 | 04:08      | in their web browsers for so many years.                                                                 |
 | 04:11      | And there's, you know, Node.js on the server and there's various versions                                |
-| 04:13      | of JavaScript and web browsers.                                                                          |
+| 04:13      | of [[JavaScript]] and web browsers.                                                                          |
 | 04:15      | And so if you're asked to automate something with some language                                          |
 | 04:20      | and you had to guess what language is reasonably well suited to this task                                |
-| 04:24      | that people might know, JavaScript is the answer, right?                                                 |
+| 04:24      | that people might know, [[JavaScript]] is the answer, right?                                                 |
 | 04:27      | So it could be much worse.                                                                               |
 | 04:29      | Let's put it that way.                                                                                   |
 | 04:31      | Trying to automate things with C would really close the door on a lot of people.                         |
-| 04:35      | JavaScript, you can more or less pick up if you've done any programming                                  |
+| 04:35      | [[JavaScript]], you can more or less pick up if you've done any programming                                  |
 | 04:39      | in any language and it's very friendly.                                                                  |
 | 04:41      | Like it won't, whatever you write will do something.                                                     |
 | 04:44      | It won't crash your program.                                                                             |
@@ -181,14 +181,14 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 06:03      | I would be tempted to say, oh, geez, I'm such a Perl-head.                                               |
 | 06:08      | I'd be tempted to say it, Perl six, except Perl six is fiendishly complicated,                         |
 | 06:13      | but it does make easy things easy.                                                                       |
-| 06:15      | And I think it's a way better language than JavaScript.                                                  |
+| 06:15      | And I think it's a way better language than [[JavaScript]].                                                  |
 | 06:17      | But nobody knows Perl six because it hasn't been very successful                                        |
 | 06:21      | and as much greater competition.                                                                         |
 | 06:23      | So I would say either a language that doesn't exist                                                      |
 | 06:26      | or a fantasy alternate universe where Perl six became immensely popular,                                |
 | 06:30      | despite the fact that it is incredibly complicated                                                       |
 | 06:32      | because you can write baby Perl six and it will work fine.                                              |
-| 06:35      | And it's a better language than JavaScript by far.                                                       |
+| 06:35      | And it's a better language than [[JavaScript]] by far.                                                       |
 | 06:38      | I think that's the strange dichotomy of this issue is that you want a powerful language,                 |
 | 06:45      | but you also with automation by its definition,                                                          |
 | 06:48      | you're going to have a lot of people that are going to start playing with it                             |
@@ -210,7 +210,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 07:41      | And almost every high level language passes that bar.                                                    |
 | 07:44      | But if you're looking for a really good language,                                                        |
 | 07:47      | you want it to be not particularly awkward to write functions with no strange limitations.               |
-| 07:52      | You also don't want weird corner cases like JavaScript is full of them.                                  |
+| 07:52      | You also don't want weird corner cases like [[JavaScript]] is full of them.                                  |
 | 07:55      | The fact that he uses floating point numbers behind the scenes,                                          |
 | 07:57      | something you usually don't have to think about,                                                         |
 | 07:59      | but it comes back to bite you as soon as you start dealing with very large numbers                       |
@@ -218,8 +218,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 08:03      | And you wonder why weird stuff is happening in your program.                                             |
 | 08:06      | Sort of the day-to-day hygiene of how easy is it to manipulate strings                                   |
 | 08:12      | and how many gotchas are there.                                                                          |
-| 08:13      | Like JavaScript is full of just sharp edges and weird things due to history.                             |
-| 08:18      | And then the advanced versions of JavaScript are very complicated,                                       |
+| 08:13      | Like [[JavaScript]] is full of just sharp edges and weird things due to history.                             |
+| 08:18      | And then the advanced versions of [[JavaScript]] are very complicated,                                       |
 | 08:22      | like destructuring syntax.                                                                               |
 | 08:25      | Try explaining that to a beginner.                                                                       |
 | 08:26      | It's a language that gets hard really fast and has lots of sharp edges.                                  |
@@ -276,7 +276,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 10:53      | I mean, there are certain limits to what you can do with those.                                          |
 | 10:56      | And when we talk to our listeners, we hear about that.                                                   |
 | 10:58      | And that's the folks that suddenly get interested in learning to program                                 |
-| 11:02      | JavaScript or AppleScript, depending on, you know, what platforms they're on.                           |
+| 11:02      | [[JavaScript]] or AppleScript, depending on, you know, what platforms they're on.                           |
 | 11:06      | And they want to go to that next level.                                                                  |
 | 11:08      | But I do think that a failing of the Lego automation apps is is the power level.                         |
 | 11:15      | There is a ceiling on them and I would like to see that ceiling get higher.                              |
@@ -400,7 +400,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 17:12      | an email to a recipient.                                                                                 |
 | 17:13      | So if I make an email to Rose, it says,                                                                  |
 | 17:16      | hi Rose, comma at the beginning with just a short snippet.                                               |
-| 17:20      | With TextExpander, automation is even easier with JavaScript syntax highlighting.                      |
+| 17:20      | With TextExpander, automation is even easier with [[JavaScript]] syntax highlighting.                      |
 | 17:24      | And Windows users get offline editing support plus improved expansion.                                   |
 | 17:29      | And don't forget to search their blog for industry tips and snippet tricks.                              |
 | 17:33      | To me, TextExpander is the first step of automation.                                                   |
@@ -554,7 +554,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 26:57      | contents of them and directories and running commands and managing the output of them,                   |
 | 27:02      | the input of them, there are lots of languages like that, people call them glue languages                |
 | 27:05      | or scripting languages.                                                                                  |
-| 27:07      | Perl is one, which is the one I use because I know it best, but you can do it from JavaScript            |
+| 27:07      | Perl is one, which is the one I use because I know it best, but you can do it from [[JavaScript]]            |
 | 27:11      | and Node.js these days if you don't mind going slightly into callback hell or async stuff,               |
 | 27:16      | which is a whole other kettle of fish.                                                                   |
 | 27:18      | You could probably do it from [[AppleScript]] if you were well versed in that language,                     |
@@ -1115,10 +1115,10 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 59:22      | other programs and as a way for people who write other programs to allow themselves to                   |
 | 59:25      | be driven.                                                                                               |
 | 59:26      | And you see Omni doing that, I think there's a bunch of other applications, Mac applications             |
-| 59:30      | out there that use like JS Talk or other JavaScript based automations, like everyone's rolling           |
+| 59:30      | out there that use like JS Talk or other [[JavaScript]] based automations, like everyone's rolling           |
 | 59:35      | their own because they realise, well, we could use AppleScript and if we're a good Mac,                 |
 | 59:39      | Mac application, we do, but it's kind of creaky and everything.                                          |
-| 59:43      | And it would be nice if you could write your automation to JavaScript, which way more people             |
+| 59:43      | And it would be nice if you could write your automation to [[JavaScript]], which way more people             |
 | 59:46      | know than AppleScript.                                                                                  |
 | 59:47      | So that's why people like Omni and I was there, maybe [[Rogue Amoeba]], no, [[Flying Meat Software\|Flying Meat]], maybe Gus               |
 | 59:53      | Mueller.                                                                                                 |

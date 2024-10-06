@@ -367,7 +367,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 15:14      | And the best part of it all is you can share it with everyone you work with.                                           |
 | 15:18      | These responses are easily accessible and even searchable to make sure everyone can                                    |
 | 15:23      | find the best response.                                                                                                |
-| 15:24      | You can even make these snippets more powerful by using AppleScript and JavaScript to automate                         |
+| 15:24      | You can even make these snippets more powerful by using AppleScript and [[JavaScript]] to automate                         |
 | 15:29      | things.                                                                                                                |
 | 15:31      | TextExpander for teams allows everyone to be on the same page, which helps avoid confusing                             |
 | 15:35      | your team and your customers.                                                                                          |

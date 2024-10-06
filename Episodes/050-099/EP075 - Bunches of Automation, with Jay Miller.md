@@ -238,8 +238,8 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 17:13      | text my mom or just have an application button that says, you know, sorry, I haven't messaged in so      |
 | 17:19      | long. Just kind of those classic ones. And then I started getting into programming. And from there,      |
 | 17:28      | it became, you know, for those that don't know, there's a script box in Draft Actions. And it's          |
-| 17:34      | been there for some time now that allows for JavaScript. And I was like, Oh, I can use this to           |
-| 17:43      | learn how to code. So for me, going in and learning, you know, Python and learning JavaScript for        |
+| 17:34      | been there for some time now that allows for [[JavaScript]]. And I was like, Oh, I can use this to           |
+| 17:43      | learn how to code. So for me, going in and learning, you know, Python and learning [[JavaScript]] for        |
 | 17:51      | most of this type of automation stuff. And I had, I had not really at the time, I don't even think       |
 | 17:57      | I'd only had like one like MacBook Pro. And I wasn't thinking about things like [[Keyboard Maestro]]                |
 | 18:03      | or all this other stuff. So yeah, a lot of my automation really started on iOS devices and,       |
@@ -252,7 +252,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 18:43      | programming through [[Drafts]] automation. That is, that's a great story. And I know there's a lot           |
 | 18:50      | of people out there listening who like automation, they're not developers, they don't know much about    |
 | 18:55      | programming. But they probably would like to learn more. And I think, you know, [[Drafts]] automation,       |
-| 19:02      | particularly JavaScript automation, is a great place to get started. How did you go about learning,      |
+| 19:02      | particularly [[JavaScript]] automation, is a great place to get started. How did you go about learning,      |
 | 19:08      | you know, the craft? Well, and I would say I have to be fair and say I was interested in                 |
 | 19:15      | Python development at the time. And I was, you know, I was doing kind of the, you know, free code camp   |
 | 19:21      | and like those courses. And I had mentors. But I think what [[Drafts]] and what iOS automation taught        |
@@ -261,7 +261,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 19:42      | things with that platform. And like everything is so well documented. Now I'm like, wow, I wish I        |
 | 19:46      | would have had this, you know, almost eight years ago, or seven years ago. But it's, it's interesting    |
 | 19:55      | because at the time, all you could do is go on to Stack Overflow and like, how do I do a for loop        |
-| 20:01      | in JavaScript? And in your mind, you're like, okay, there's a chance that the developer hasn't           |
+| 20:01      | in [[JavaScript]]? And in your mind, you're like, okay, there's a chance that the developer hasn't           |
 | 20:09      | included this kind of logic, or there's a chance that it just won't translate one to one. So in my       |
 | 20:15      | mind, I'm like, oh, this works like this. But then there are all these other things that I don't really  |
 | 20:21      | know about. And it just became, well, let's try it and let's build what we know and build off of what    |
@@ -275,7 +275,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 21:11      | okay. I just, I'm really curious because for everybody, their first automation that they                 |
 | 21:16      | remembered, you know, doing that was held together with duct tape, hopes, wishes, and unicorn tears      |
 | 21:22      | is always special. So, so, so what was this, you know, how, how did you create, obviously,               |
-| 21:26      | you know, use [[Drafts]] and JavaScript from the sounds of it? But, but what was the purpose of this?        |
+| 21:26      | you know, use [[Drafts]] and [[JavaScript]] from the sounds of it? But, but what was the purpose of this?        |
 | 21:32      | So I, I've been a productivity fan person for a long time. And one of the things that I had,             |
 | 21:40      | you know, really started thinking about was how does my mood affect my productivity? Like,               |
 | 21:45      | I mean, obviously, we just have days where we just can't even. And, and that's, you know,                |
@@ -336,7 +336,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 26:51      | it just is kind of a Swiss Army knife for text. And if someone works with text, this is a great          |
 | 26:57      | automation platform because you can make your life so much easier with it. But let's talk a bit about    |
 | 27:05      | some of your other automation because you've gone far beyond that since, you know, your initial          |
-| 27:10      | exploration into [[Drafts]] and JavaScript. Yeah, so I mentioned that, you know, that quickly turned         |
+| 27:10      | exploration into [[Drafts]] and [[JavaScript]]. Yeah, so I mentioned that, you know, that quickly turned         |
 | 27:16      | into programming. And I feel like anyone that can write a shortcut, anyone that can write a              |
 | 27:24      | workflow or a [[Keyboard Maestro]] action, you're already on the right track. I tell people my             |
 | 27:32      | claim to automation fame for the people that I worked around was I got in trouble once for not           |
