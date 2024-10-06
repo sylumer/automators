@@ -234,7 +234,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 12:02      | that allow you to do that as well. I have this issue lately where somebody has got some business                                      |
 | 12:07      | where they edit photos. It's a photo editing service. And they have managed to breach my walls.                                       |
 | 12:14      | I mean, they send me two or three emails a day and they have it from a different sender every                                         |
-| 12:19      | time. So it's just not something that's easily defeatable. So I came up with an Apple Mail rule                                       |
+| 12:19      | time. So it's just not something that's easily defeatable. So I came up with an [[Apple Mail]] rule                                       |
 | 12:26      | that looks for certain words in the subject line. And all I'm going to say, if you send me an email                                   |
 | 12:30      | about feedback and it includes words like photo editing service in the subject line, I'm never                                        |
 | 12:35      | going to see it. That's the great thing. I've done that as well. There's some certain newsletters                                     |

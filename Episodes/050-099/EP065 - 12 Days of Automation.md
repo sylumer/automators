@@ -996,7 +996,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 50:31      | to dispatch and delivery emails, I don't want them gone immediately.                                     |
 | 50:35      | I want them gone about 24 hours after they appear in my mailbox.                                         |
 | 50:41      | So I'm using [[Apple Mail]] for this.                                                                        |
-| 50:45      | And what I'm doing is I've written a series of rules, which you can do in Apple Mail.                    |
+| 50:45      | And what I'm doing is I've written a series of rules, which you can do in [[Apple Mail]].                    |
 | 50:50      | And then I have [[Keyboard Maestro]] activate itself at one o'clock in the morning.                          |
 | 50:54      | It opens mail.                                                                                           |
 | 50:55      | Mail is pretty much always in the inbox for me.                                                          |
@@ -1022,21 +1022,21 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 52:17      | And then, and then they get a colour to show that they've been handled and that they are                  |
 | 52:22      | in deliveries.                                                                                           |
 | 52:23      | Yeah.                                                                                                    |
-| 52:24      | Apple Mail rules have so much promise, but so often they break your heart, like something                |
+| 52:24      | [[Apple Mail]] rules have so much promise, but so often they break your heart, like something                |
 | 52:28      | silly happens and they just don't run when you, you look at it and it looks like it should               |
 | 52:33      | run.                                                                                                     |
 | 52:34      | And what you find out is there's all these conditions that you don't even know exist.                    |
 | 52:38      | I related up mail, was it a, was it called a small cube is the name, oh, mail act on                     |
 | 52:46      | and mail tags.                                                                                           |
 | 52:48      | They just released their update for the M1 Max and for Big Sur.                                          |
-| 52:51      | So if you want to like power up Apple Mail, that's what I would recommend using.                         |
+| 52:51      | So if you want to like power up [[Apple Mail]], that's what I would recommend using.                         |
 | 52:57      | Mail act on in particular allows you to do some more stuff with mail rules that you wouldn't             |
 | 53:02      | otherwise be able to do, like apply to outgoing and doing some other stuff.                              |
 | 53:05      | But yeah, I, I get where you're coming from, part of me wishes [[Apple]] would just put those,               |
 | 53:10      | all those powerful rules in the cloud, but also part of me acknowledges that they will                   |
 | 53:15      | just never do that.                                                                                      |
 | 53:16      | I just don't think that's ever going to happen.                                                          |
-| 53:18      | I mean, it's also great because I don't necessarily have to use Apple Mail as my primary mail            |
+| 53:18      | I mean, it's also great because I don't necessarily have to use [[Apple Mail]] as my primary mail            |
 | 53:21      | client in order to use these rules because I can just have it running in the background.                 |
 | 53:26      | And that's pretty much what I do.                                                                        |
 | 53:28      | It's just there and it's running in the background, it automatically handles stuff for me.               |

@@ -1324,11 +1324,11 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:05      | it jumps to their profile.                                            |
 | 53:07      | I find that useful for a couple things like for [[Apple Mail]]            |
 | 53:11      | because I've got a very complicated set of AppleScripts              |
-| 53:14      | running to kind of add features to Apple Mail.                        |
+| 53:14      | running to kind of add features to [[Apple Mail]].                        |
 | 53:17      | And I get a whole list of buttons                                     |
 | 53:19      | whenever I go to that page.                                           |
 | 53:20      | And I just like that they just automatically pop up                   |
-| 53:23      | whenever I go in Apple Mail so I can process mail                     |
+| 53:23      | whenever I go in [[Apple Mail]] so I can process mail                     |
 | 53:25      | without having to like navigate to it on the [[Stream Deck]].             |
 | 53:30      | The other one I do that for,                                          |
 | 53:31      | which I may turn off as an [[Obsidian]]                                   |

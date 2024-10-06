@@ -398,7 +398,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 30:50      | on that number for a couple of hours. And that was the point where I just went, I'm                        |
 | 30:53      | going to quit mail, reopen mail, I quit and reopen mail. And it resumed at 5,923 or whatever               |
 | 31:00      | it was the next number after that. And it just continued on with it. So something with                     |
-| 31:06      | Apple Mail, I had the exact same experience. But yeah, yeah, I think it just times out                     |
+| 31:06      | [[Apple Mail]], I had the exact same experience. But yeah, yeah, I think it just times out                     |
 | 31:10      | at a certain number of numbers after a certain number of emails transferring them. And also                |
 | 31:15      | it might be rate limited. You know, some of these things might not let you just upload                     |
 | 31:21      | 10,000 emails. But you know what, if you give it enough time, do it in batches and maybe                   |
@@ -408,8 +408,8 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 31:40      | of depends on you switching domains. If you hear one of the services today that you want                   |
 | 31:44      | to try out. But, but Rose, you went into iCloud. So iCloud, you can attach your domain to now,             |
 | 31:51      | which is what we just described. So rosemaryorchard.com can be hosted at iCloud. There's some good         |
-| 31:57      | reasons for that. [[Apple]] is definitely more privacy focused. If you're using Apple Mail,                    |
-| 32:04      | you know, using iCloud is going to obviously be well supported in your Apple Mail client                   |
+| 31:57      | reasons for that. [[Apple]] is definitely more privacy focused. If you're using [[Apple Mail]],                    |
+| 32:04      | you know, using iCloud is going to obviously be well supported in your [[Apple Mail]] client                   |
 | 32:09      | because it's made by the same people. However, the online rules are not great.                             |
 | 32:16      | Yeah. So first of all, one of the things I want to address, which you will get with                        |
 | 32:20      | the vast majority of services where you can host your email is something called the wild                   |
@@ -724,7 +724,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:00:02   | and disadvantages. I miss custom swipe actions. So I'm going to have to solve that problem                 |
 | 01:00:08   | soon.                                                                                                      |
 | 01:00:09   | I'll tell you one thing that I was hoping FastMail would solve for me was consistent                      |
-| 01:00:14   | flag status. Apple Mail, I cannot get Apple Mail to give me consistent flag status. Like,                  |
+| 01:00:14   | flag status. [[Apple Mail]], I cannot get [[Apple Mail]] to give me consistent flag status. Like,                  |
 | 01:00:21   | on the Mac, it's fine. Anything I flag on the Mac gets flagged. On one Mac, it's flagged                   |
 | 01:00:26   | on the other Mac. Right now, I only own one Mac. But when I have two, it's very consistent.                |
 | 01:00:32   | But I do not get consistent flagging between iOS devices and the Mac. And it's like I'll                   |
@@ -883,7 +883,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 01:13:12   | point, and that is really nice. So, I'm very appreciative of that.                                         |
 | 01:13:17   | Yeah. Today's show is going to be about online rule systems, because we've gone long. But                  |
 | 01:13:25   | someday, we're going to come back to local mail rules, because I've written a bunch of                     |
-| 01:13:29   | [[AppleScript\|AppleScripts]]. And there's a lot of stuff you can do with Apple Mail. It's pretty powerful.                |
+| 01:13:29   | [[AppleScript\|AppleScripts]]. And there's a lot of stuff you can do with [[Apple Mail]]. It's pretty powerful.                |
 | 01:13:34   | But I want to put a pin in that. But one last cloud service I've mentioned a few times today               |
 | 01:13:39   | is SaneBox. And where for me, FastMail is the very deliberate online rule system where                     |
 | 01:13:47   | I set specific conditions and have things happen. SaneBox is a service I pay for. And                      |

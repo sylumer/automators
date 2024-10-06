@@ -857,7 +857,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:23      | opens Dash with, you know, what I've got selected.                  |
 | 33:25      | And that works really well for me.                                  |
 | 33:27      | I'm really pleased with it.                                         |
-| 33:28      | Yeah, like I don't like the Apple Mail default send button,         |
+| 33:28      | Yeah, like I don't like the [[Apple Mail]] default send button,         |
 | 33:32      | which is Command Shift D.                                           |
 | 33:33      | You had mentioned that earlier.                                     |
 | 33:35      | So I don't really understand how that would ever became             |
@@ -869,7 +869,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 33:47      | Shift Enter is so much better, you know, and that's the one         |
 | 33:51      | most other mail apps use.                                           |
 | 33:52      | So I created a shortcut in keyboard in my show.                     |
-| 33:56      | If I hit Shift Enter when I'm in Apple Mail, then hit the           |
+| 33:56      | If I hit Shift Enter when I'm in [[Apple Mail]], then hit the           |
 | 33:59      | keyboard combination, Command Shift D.                              |
 | 34:02      | I could have just as easily as done that in [[BetterTouchTool]]       |
 | 34:05      | because [[BetterTouchTool]] fully supports those keyboard shortcuts   |

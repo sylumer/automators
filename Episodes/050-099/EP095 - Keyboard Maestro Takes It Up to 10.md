@@ -559,7 +559,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 32:32      | you don't want to use up, like Ctrl L to me gets a copy of the [[Obsidian]] URL when I'm                     |
 | 32:39      | in [[Obsidian]] because it's only going to work.                                                             |
 | 32:42      | That Ctrl L is only going to work to run that command when I'm in [[Obsidian]].                              |
-| 32:47      | When I go over to OmniFocus or Fantastical or whatever or Apple Mail, it's going to use                   |
+| 32:47      | When I go over to OmniFocus or Fantastical or whatever or [[Apple Mail]], it's going to use                   |
 | 32:53      | it.                                                                                                      |
 | 32:54      | Ctrl L maybe do something entirely different.                                                            |
 | 32:56      | And it, in effect, allows you to make app-specific shortcuts or triggers that, you know, once            |
@@ -590,7 +590,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 35:00      | outdent things in my inbox and they get converted to be a project.                                       |
 | 35:04      | Another use for these app-specific groups is to create individual conflict pellets inside                |
 | 35:10      | the app.                                                                                                 |
-| 35:11      | Like I have a bunch of scripts over it in Apple Mail, they're AppleScripts to move                      |
+| 35:11      | Like I have a bunch of scripts over it in [[Apple Mail]], they're AppleScripts to move                      |
 | 35:16      | a message to a specific mailbox and do other things with messages.                                       |
 | 35:20      | But one of them is move, like I like to move messages, like maybe I want to move it to                   |
 | 35:25      | the same box black hole or to the priority folder or whatever.                                           |
@@ -997,7 +997,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:02:10   | Because Memoji sounds like a drink, you know, honestly.                                                  |
 | 01:02:13   | But anyway, so the Memoji of me with my thumbs up and on the iPhone iPad, that's super easy.             |
 | 01:02:19   | And I wanted to make that easy on the Mac.                                                               |
-| 01:02:22   | So in the Apple Mail group, so the app colon mail, in that group, I created a set of scripts,            |
+| 01:02:22   | So in the [[Apple Mail]] group, so the app colon mail, in that group, I created a set of scripts,            |
 | 01:02:33   | and all it does is it hits command R, which is reply.                                                    |
 | 01:02:39   | And then it pays a special clipboard.                                                                    |
 | 01:02:42   | And what I did was I went on the iPad, I believe I did on my iPad, and I just looked at the              |
@@ -1007,7 +1007,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:03:04   | as saved clipboards, because in [[Keyboard Maestro]], you can have a bunch of clipboards.                    |
 | 01:03:09   | So I've got all these images, and I gave them a specific name, it's Memoji-call-me, Memoji-celebrate,    |
 | 01:03:17   | or curse, and I've got a bunch of the ones that I'd saved.                                               |
-| 01:03:22   | And so now in [[Keyboard Maestro]], in Apple Mail, I hit command R, and then here, let me just               |
+| 01:03:22   | And so now in [[Keyboard Maestro]], in [[Apple Mail]], I hit command R, and then here, let me just               |
 | 01:03:29   | go look and make sure I'm getting this right.                                                            |
 | 01:03:31   | I hit command R, I wait 0.3 seconds, because, you know, wait is always there, pause.                     |
 | 01:03:37   | And then I paste the named clipboard, and then I, and you can select, you know, in the                   |
@@ -1290,7 +1290,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 01:27:01   | works really well. And you can build an entire automation system inside [[DEVONthink]].                   |
 | 01:27:07   | Yes. I guess we need to talk about that at some point. I guess we should probably go into that.          |
 | 01:27:11   | Yeah. Yeah, we should. Because there's so much automation that you can do with it. I've got it           |
-| 01:27:16   | pulling stuff out of Apple Mail and converting it to PDFs, all sorts of things. So yeah, there's         |
+| 01:27:16   | pulling stuff out of [[Apple Mail]] and converting it to PDFs, all sorts of things. So yeah, there's         |
 | 01:27:22   | definitely plenty that we can talk about there. But in the meantime, you'll be pleased to hear           |
 | 01:27:26   | I got everything to my accountants in record time. They were expecting it to take me two weeks.          |
 | 01:27:31   | And I got it back to them in two days, because I just had everything. Like I just created a rule.        |

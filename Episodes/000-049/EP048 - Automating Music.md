@@ -1193,7 +1193,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 01:06:59   | for automators.                                                                                        |
 | 01:07:00   | You know, I talk about how I'm jealous of Google's cloud-based automation tools, but                   |
 | 01:07:07   | I think at least the last time I looked at Google's email sorting set, it didn't come                  |
-| 01:07:11   | close to what you can do with Apple Mail natively on a Mac.                                            |
+| 01:07:11   | close to what you can do with [[Apple Mail]] natively on a Mac.                                            |
 | 01:07:15   | But the Mac has to be running in the background in order to make that work.                            |
 | 01:07:18   | I solved a similar problem, well, not similar, but an email-related problem, an attachment             |
 | 01:07:24   | problem, kind of from the other direction.                                                             |

@@ -585,7 +585,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 30:54      | I think it's Control Command.                                                                           |
 | 30:55      | But the problem is, if you accidentally resort that Favourites list, then number five no                 |
 | 31:01      | longer corresponds to the one you thought, and in my case, I have three email accounts                  |
-| 31:06      | I'm running through Apple Mail, and then I've got multiple boxes that I want to address                 |
+| 31:06      | I'm running through [[Apple Mail]], and then I've got multiple boxes that I want to address                 |
 | 31:11      | in each account, and 10 slots is just not enough.                                                       |
 | 31:15      | I run out of numbers, and that's that problem.                                                          |
 | 31:20      | It seems insurmountable, but there's an AppleScript that it's not a one-liner.                         |
@@ -717,7 +717,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 37:47      | The dictionary really is the trick to all this.                                                         |
 | 37:50      | As you start working in AppleScript, you'll see AppleScript's other people wrote in an                  |
 | 37:53      | app you may be trying to automate.                                                                      |
-| 37:55      | For me, quite often it's OmniFocus and Apple Mail and the productivity apps I use.                      |
+| 37:55      | For me, quite often it's OmniFocus and [[Apple Mail]] and the productivity apps I use.                      |
 | 37:59      | And I can get so far with other people's scripts, but when you combine that with the                    |
 | 38:03      | dictionary that shows you the exact syntax they need, suddenly ideas start opening up                   |
 | 38:09      | to you.                                                                                                 |

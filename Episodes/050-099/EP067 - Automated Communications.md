@@ -484,7 +484,7 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 25:06      | absolutely is because it means that next time I take a break from work, I won't come back                                                      |
 | 25:09      | to 600 unread emails in my inbox.                                                                                                              |
 | 25:11      | I think the overall strategy for email filters, no matter what system you're using, whether                                                    |
-| 25:16      | you're in Gmail, Apple Mail, or whatever, is to make them as you need them.                                                                    |
+| 25:16      | you're in Gmail, [[Apple Mail]], or whatever, is to make them as you need them.                                                                    |
 | 25:21      | I wouldn't recommend spending three days creating email filters, but what I would do is like                                                   |
 | 25:27      | an email comes in and just be aware of, hey, I can make this so this doesn't happen again                                                      |
 | 25:32      | and just smack the flies as they show up, and I think that's a much more saving way                                                            |

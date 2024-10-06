@@ -82,7 +82,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 01:21      | Usually, you only see updates to the operating system in June.                                    |
 | 01:25      | You know, when they announced at [[WWDC]] and they shipped sometime in September.                     |
 | 01:29      | For instance, [[Apple Mail]], the app that we like to beat up on because it never gets updates.       |
-| 01:34      | There's no chance that we're going to see an update to Apple Mail anytime other than June.        |
+| 01:34      | There's no chance that we're going to see an update to [[Apple Mail]] anytime other than June.        |
 | 01:40      | But for whatever reason,                                                                          |
 | 01:42      | Siri Shortcuts, partly because it's a separate download I would presume,                          |
 | 01:46      | has been getting regular updates since it originally shipped                                      |

@@ -680,7 +680,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 52:35      | And I covered this in the webinar I did last week as a show publishes. But the                            |
 | 52:41      | I got it working for every mailbox except the inbox. And I spent like an hour googling it. I              |
 | 52:49      | was about to write Sal because I was just about to give up. And I thought, well, let me try this.         |
-| 52:53      | And I just made the word inbox all caps. And it started working and buried in the Apple Mail              |
+| 52:53      | And I just made the word inbox all caps. And it started working and buried in the [[Apple Mail]]              |
 | 52:59      | dictionary somewhere for AppleScript is a requirement that if you're going to designate                  |
 | 53:03      | the inbox, it'd be in all caps. And I'm like, sure, why not? You know, it's like somebody                 |
 | 53:09      | at some point felt that was a good idea. Yeah. Oh my gosh, that and that's probably sensitivity.          |
@@ -928,7 +928,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:15:49   | system with your iPad? Oh, so I, this is a source of contention with me. I've never found an email        |
 | 01:15:57   | app that I am happy with. No, you're like everybody else. Nobody is happy. Yeah. Nobody, there is no,     |
 | 01:16:04   | and I have a theory on why that is, but that's besides the point. But there's stuff I like                |
-| 01:16:09   | from all of them. But the best combination that I found is using Apple Mail with SaneBox. SaneBox,        |
+| 01:16:09   | from all of them. But the best combination that I found is using [[Apple Mail]] with SaneBox. SaneBox,        |
 | 01:16:17   | that basically having server side filtering is just really nice. Why there's not filtering                |
 | 01:16:24   | in [[Apple|Apple's]] mail apps, I don't understand are on the iPad and iPhone at least. Why there's                 |
 | 01:16:30   | not filtering there. It doesn't make any sense. Like even just some sort of smart folder,                 |
@@ -937,14 +937,14 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:16:46   | I don't want to be on. And we all know the unsubscribe button doesn't work. So just the                   |
 | 01:16:51   | ability to drag it to the same black hole folder is really nice. And to be able to organise things        |
 | 01:16:56   | and then like Sane news or Sane later is really handy. Yeah, I have a suggestion for you. Now that        |
-| 01:17:02   | you have that Mac mini, turn on Apple Mail and the Mac mini and use the Apple Mail rules in               |
-| 01:17:09   | Apple Mail rather than rely because [[Apple]] has lousy cloud support for Apple Mail rules. But               |
-| 01:17:15   | the Apple Mail app on the Mac has a very powerful rule set. And if you've got that Mac mini running,      |
-| 01:17:21   | why not have Apple Mail in the background, set up your own custom rules and then that stuff will          |
+| 01:17:02   | you have that Mac mini, turn on [[Apple Mail]] and the Mac mini and use the [[Apple Mail]] rules in               |
+| 01:17:09   | [[Apple Mail]] rather than rely because [[Apple]] has lousy cloud support for [[Apple Mail]] rules. But               |
+| 01:17:15   | the [[Apple Mail]] app on the Mac has a very powerful rule set. And if you've got that Mac mini running,      |
+| 01:17:21   | why not have [[Apple Mail]] in the background, set up your own custom rules and then that stuff will          |
 | 01:17:26   | just show up on your iPad because the accounts are synced. Yes, I tried that, but I think there was       |
 | 01:17:34   | like an issue when I tried that with a beta. Oh no, it was my email account. Never mind. I need           |
-| 01:17:39   | to try that again. You're 100% correct. That is a good idea. Yeah, I mean, the Apple Mail rules are       |
-| 01:17:46   | for automators. I mean, the Apple Mail rules that I'm not aware of any native app that has                |
+| 01:17:39   | to try that again. You're 100% correct. That is a good idea. Yeah, I mean, the [[Apple Mail]] rules are       |
+| 01:17:46   | for automators. I mean, the [[Apple Mail]] rules that I'm not aware of any native app that has                |
 | 01:17:51   | more powerful rules. I think Google Mail or Gmail has better cloud-based rules. Yeah, so Gmail has        |
 | 01:17:57   | really great cloud rules better than iCloud's cloud rules. But the beauty of the of mail's                |
 | 01:18:03   | rules is you can have it run on stuff that you've read. So at night, I actually have keyboard             |

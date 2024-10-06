@@ -874,7 +874,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 53:59      | is, um, is the worst of it.                                                                             |
 | 54:01      | I mean, they, they just need to do more.                                                                |
 | 54:03      | I feel like Notes is probably the best, uh, [[Apple]] app with automation in terms of the                   |
-| 54:08      | productivity spear, but like, uh, Apple Mail and [[Apple Reminders\|Reminders]] and some of their other, like                |
+| 54:08      | productivity spear, but like, uh, [[Apple Mail]] and [[Apple Reminders\|Reminders]] and some of their other, like                |
 | 54:14      | we talked earlier about [[Safari]].                                                                         |
 | 54:16      | I just feel like there, there's, there's more work to be done there.                                    |
 | 54:20      | Yes.                                                                                                    |

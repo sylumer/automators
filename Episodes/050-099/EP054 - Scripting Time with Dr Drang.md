@@ -425,7 +425,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 33:57      | is the flagship product from DEVONtechnologies and it's a professional document                                                        |
 | 34:02      | and information management application for the Mac and it helps you collect, file, organise,                                                   |
 | 34:07      | edit and annotate all sorts of documents so you can reach digital organisational heaven.                                                       |
-| 34:13      | Archive all of your email with the enhanced email archiver. You press a button and Apple Mail                                                      |
+| 34:13      | Archive all of your email with the enhanced email archiver. You press a button and [[Apple Mail]]                                                      |
 | 34:17      | and it saves it to DEVONthink and you can do the same thing with paper documents.                                                         |
 | 34:21      | They attach directly to your scanner. So you press a button on your scanner. You save the                                                      |
 | 34:26      | documents straight to DEVONthink. You can even imprint PDFs with custom stamps before                                                          |

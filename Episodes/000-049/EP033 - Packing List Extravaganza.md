@@ -288,7 +288,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 13:44      | Juggling multiple clients and projects can be a challenge.                                                                                                       |
 | 13:48      | You might forget to follow up or lose track of details, emails and next steps.                                                                                   |
 | 13:53      | Daylight solves all of those problems.                                                                                                                           |
-| 13:55      | It has Apple Mail, Contact and Calendar integration.                                                                                                             |
+| 13:55      | It has [[Apple Mail]], Contact and Calendar integration.                                                                                                             |
 | 13:58      | You can track all your leads in the sales pipeline and it even has document management                                                                           |
 | 14:02      | so you can attach relevant files.                                                                                                                                |
 | 14:03      | Plus, you can manage projects to keep track of all of the moving pieces.                                                                                         |

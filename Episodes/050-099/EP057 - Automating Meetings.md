@@ -116,13 +116,13 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 04:20      | Well, I think you could do that again with an [[Apple Mail]] rule because Fantastical tags                    |
 | 04:25      | those males. So yeah, I just have to see what I think the subject line has the same text                  |
 | 04:30      | all the time.                                                                                             |
-| 04:31      | Except for the fact that I don't use Apple Mail on my personal side of things. I'm currently              |
+| 04:31      | Except for the fact that I don't use [[Apple Mail]] on my personal side of things. I'm currently              |
 | 04:35      | using [[Airmail]] and I like to make sure that everything works. So I tend to do things like                  |
 | 04:39      | that on the server side. But yeah, there are plenty of options and Fantastical's.                          |
-| 04:44      | Kind of digression for a second. You're using Airmail and Apple Mail at the same time. Airmail            |
-| 04:50      | when you try to save a link to a mail uses an Airmail link. Yes. And Apple Mail does                      |
+| 04:44      | Kind of digression for a second. You're using Airmail and [[Apple Mail]] at the same time. Airmail            |
+| 04:50      | when you try to save a link to a mail uses an Airmail link. Yes. And [[Apple Mail]] does                      |
 | 04:56      | not. Doesn't that drive you crazy having two separate sources for those links?                            |
-| 05:01      | No, because my work mail is done with Apple Mail and then my personal stuff is done with                  |
+| 05:01      | No, because my work mail is done with [[Apple Mail]] and then my personal stuff is done with                  |
 | 05:07      | Airmail. So it works perfectly segregated.                                                                |
 | 05:10      | The only thing is is in mail on my iOS device. I also have one of my personal accounts enabled            |
 | 05:17      | because whenever you try to send a bug report in an app, it defaults to the mail app at                   |
@@ -141,8 +141,8 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 06:19      | me, Hey, do you think we should get together on Tuesday at 10? And I can actually just                    |
 | 06:24      | add it to my calendar for Tuesday at 10, that email. And then I have that reference back                  |
 | 06:28      | when I get to that meeting time Tuesday at 10, which is really handy for me.                              |
-| 06:34      | Yeah, you can do the same thing with Apple Mail, but it requires a drag. You can drag                     |
-| 06:38      | from the, like on iOS, you can drag from the Apple Mail to the, to the calendar event,                    |
+| 06:34      | Yeah, you can do the same thing with [[Apple Mail]], but it requires a drag. You can drag                     |
+| 06:38      | from the, like on iOS, you can drag from the [[Apple Mail]] to the, to the calendar event,                    |
 | 06:44      | whether it's in Fantastical or the standard [[Apple Calendar|calendar]] app, the, the email links can come                      |
 | 06:49      | over on the Mac. It's even easier. But you know, what we didn't talk about is what happens                |
 | 06:54      | if you want to get together more than two or three people? What if you want to put six                    |

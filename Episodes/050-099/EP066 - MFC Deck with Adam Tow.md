@@ -1103,7 +1103,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 45:29      | I know this is a complete kind of left turn in the conversation,                   |
 | 45:32      | but automation with respect to email is always a challenge.                        |
 | 45:37      | I was bemoaning on a recent episode of Mac Power users how,                        |
-| 45:41      | you know, the state general state of Apple Mail plugins.                           |
+| 45:41      | you know, the state general state of [[Apple Mail]] plugins.                           |
 | 45:44      | And I guess you've got some knowledge on this.                                     |
 | 45:46      | I do.                                                                              |
 | 45:47      | I have a mail plugin that I've been developing for over a                          |
@@ -1154,12 +1154,12 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 47:43      | What do I do?                                                                      |
 | 47:44      | Yeah.                                                                              |
 | 47:45      | It is really frustrating.                                                          |
-| 47:47      | I do think the reason why Apple Mail hasn't got a lot of                           |
+| 47:47      | I do think the reason why [[Apple Mail]] hasn't got a lot of                           |
 | 47:50      | new features is I think [[Apple]] has been really focused on                           |
 | 47:53      | security.                                                                          |
 | 47:54      | And you know, you're always hoping that the plugin marketplace                     |
 | 47:57      | can make up for the slack, but I'm honestly just starting                          |
-| 48:02      | to lose faith in Apple Mail.                                                       |
+| 48:02      | to lose faith in [[Apple Mail]].                                                       |
 | 48:04      | It's like they, they continue to kind of let it linger on                          |
 | 48:07      | iOS.                                                                               |
 | 48:08      | And as I have been for the last 15 years, I'm actively                             |

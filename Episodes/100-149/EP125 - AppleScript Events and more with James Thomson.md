@@ -791,11 +791,11 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:10:45   | of the segment, you were talking about the automation you're doing in [[Apple Mail]] with                  |
 | 01:10:49   | [[AppleScript]]. And I think that does demonstrate one of the limitations of shortcuts. Shortcuts         |
 | 01:10:56   | is super powerful. I'm a big fan of it. I feel like a lot of people are automating that never          |
-| 01:11:01   | did before because of shortcuts. And that's good. But Apple Mail, in particular, doesn't have a lot    |
-| 01:11:08   | of shortcuts implementation. The Apple Mail team, for whatever reason, has kind of limited what you    |
+| 01:11:01   | did before because of shortcuts. And that's good. But [[Apple Mail]], in particular, doesn't have a lot    |
+| 01:11:08   | of shortcuts implementation. The [[Apple Mail]] team, for whatever reason, has kind of limited what you    |
 | 01:11:14   | do. And they've got different feature sets on iPhone and iPad versus the Mac. Whereas on your Mac,     |
 | 01:11:21   | you know, with that limitation, it can only happen on your Mac. It's an Apple event based              |
-| 01:11:25   | [[AppleScript]]. There's a rich amount of automation you can do in Apple Mail only with [[AppleScript]].     |
+| 01:11:25   | [[AppleScript]]. There's a rich amount of automation you can do in [[Apple Mail]] only with [[AppleScript]].     |
 | 01:11:34   | And I think the fact that you do that is something people should take note of, because if you're       |
 | 01:11:39   | out there and you don't have to be a programmer, maybe you're a stockbroker or a teacher or whatever,  |
 | 01:11:47   | but if you want to automate email and you're willing to do it just at your Mac, there is a             |
@@ -806,11 +806,11 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:12:24   | hardline approach to privacy stuff, or at least I tried to. And yes, I can only do stuff on my Mac     |
 | 01:12:33   | or on my Macs, but I like the fact that it's local and I'm not sending people's customer data back     |
 | 01:12:42   | and forth, particularly because who knows what terrible GDPR crime you could be committing             |
-| 01:12:51   | accidentally. Are there any fun script tricks you're doing in Apple Mail that bring you join           |
+| 01:12:51   | accidentally. Are there any fun script tricks you're doing in [[Apple Mail]] that bring you join           |
 | 01:12:58   | Delight? Anything that you have? For instance, I have one. If I type X high, it takes the address      |
 | 01:13:05   | e's name from the two field that inserts it. So it would say, hi, James, if I wrote one to you         |
 | 01:13:11   | and I don't have to type your name. Any of those little things that make you happy when you do         |
-| 01:13:17   | the scripting in Apple Mail? No, but that is a really good idea and I should do something like that.   |
+| 01:13:17   | the scripting in [[Apple Mail]]? No, but that is a really good idea and I should do something like that.   |
 | 01:13:23   | I'll share it with you. I think I posted it. I'll put a link in the show notes for you.                |
 | 01:13:28   | I'm going to check just out of curiosity and see if I can see when I wrote these scripts               |
 | 01:13:33   | because that is probably going to tell me something. Okay, mail scripts. When did I write              |
@@ -882,10 +882,10 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:20:31   | support. It seems like there's almost like [[Appl Reminders\|Reminders]] stands out for me that [[Apple Reminders\|Reminders]]                 |
 | 01:20:37   | got a lot of updates with features, but it's always like a year or two behind with the shortcuts       |
 | 01:20:42   | and automation support. So it may be just like a process, but it is odd to me that shortcuts,          |
-| 01:20:49   | which they say is their automation story going forward, has two different stories for Apple Mail,           |
+| 01:20:49   | which they say is their automation story going forward, has two different stories for [[Apple Mail]],           |
 | 01:20:54   | one of their primary productivity apps, whereas it has pretty robust support on iOS              |
 | 01:21:01   | and less so on the Mac. But getting back to my point, if you want to spend a little time with          |
-| 01:21:06   | AppleScript, you can do almost anything with Apple Mail. I think it's that also people assume         |
+| 01:21:06   | AppleScript, you can do almost anything with [[Apple Mail]]. I think it's that also people assume         |
 | 01:21:11   | that [[Apple]], because they're a multi-trillion dollar company, have an infinite number of                |
 | 01:21:15   | employees working on all this stuff. And sometimes you look at the team sizes for these things,        |
 | 01:21:21   | and you think, the whole thing was just written by whatever. I mean, when I worked on the finder,      |

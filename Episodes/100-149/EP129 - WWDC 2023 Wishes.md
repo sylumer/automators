@@ -319,7 +319,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 17:38      | Another category under the OS topic is some of the productivity apps that really should               |
 | 17:43      | have more automation support.                                                                         |
 | 17:45      | And this is the one I have a glimmer of hope for, it's [[Apple Mail]].                                    |
-| 17:48      | Last year, we got some new features in Apple Mail, but a lot of the automator stuff didn't            |
+| 17:48      | Last year, we got some new features in [[Apple Mail]], but a lot of the automator stuff didn't            |
 | 17:53      | make it into that round, and there is some, they're using [[artificial intelligence]] to try              |
 | 17:58      | and figure out who you reply from, and they're trying to help you a little bit with auto              |
 | 18:03      | sorting mail.                                                                                         |
@@ -364,7 +364,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 20:45      | should definitely work on the automation elements of it and even some of the things like deferred     |
 | 20:51      | mailboxes and some of the features that people are finding in almost every mail app these             |
 | 20:56      | days.                                                                                                 |
-| 20:57      | I have to ask you, Rose, I was thinking, are you using Apple Mail for anything these days?            |
+| 20:57      | I have to ask you, Rose, I was thinking, are you using [[Apple Mail]] for anything these days?            |
 | 21:04      | Are you using any of your devices?                                                                    |
 | 21:06      | Yeah, I use it on all of my devices.                                                                  |
 | 21:09      | And honestly, another thing that I've just thought of that I have to say, especially                  |
@@ -394,7 +394,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 22:53      | new blah, blah, blah from this template where it automatically pops up and asks me three              |
 | 22:58      | questions and then it puts some data together through a shortcut.                                     |
 | 23:02      | That's a special notes template kind of shortcut that I've been able to put together or something.    |
-| 23:07      | Another great thing we'd like is parity of features because Apple Mail suffers right                  |
+| 23:07      | Another great thing we'd like is parity of features because [[Apple Mail]] suffers right                  |
 | 23:13      | now.                                                                                                  |
 | 23:14      | There are things that work on one platform that don't work on the other.                              |
 | 23:17      | It's also true for their shortcut support.                                                            |
@@ -649,7 +649,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 39:47      | Well, I would like to see, and we kind of mentioned this in the last segment, but just                |
 | 39:52      | in general, a parody audit of Mac OS shortcuts versus mobile shortcuts, because, and I'm              |
 | 40:00      | not going to go into a great length as we talked about, but there are, it's not just                  |
-| 40:03      | Apple Mail.                                                                                           |
+| 40:03      | [[Apple Mail]].                                                                                           |
 | 40:04      | There are tons of situations in these two versions of shortcuts where actions just                    |
 | 40:10      | don't work across the platforms and sometimes cause catastrophic failure of your automation.          |
 | 40:16      | And I feel like that it's been two years, no longer should that be a thing.                           |

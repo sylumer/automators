@@ -526,22 +526,22 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 26:52      | But again, I've been paying for it since before they were sponsored and just all these methods         |
 | 26:58      | I'm using to try and keep email to something manageable and just see what I need to see.               |
 | 27:04      | I use the smart mailboxes.                                                                             |
-| 27:07      | I'm using Apple Mail across the board.                                                                 |
+| 27:07      | I'm using [[Apple Mail]] across the board.                                                                 |
 | 27:10      | I think I'm going to try and do that.                                                                  |
 | 27:12      | One of those runs again through third party apps to see what's out there again.                        |
 | 27:15      | Yes.                                                                                                   |
-| 27:16      | But Apple Mail is pretty much working for me.                                                          |
+| 27:16      | But [[Apple Mail]] is pretty much working for me.                                                          |
 | 27:19      | And the thing I love about it is the [[AppleScript]] availability.                                        |
 | 27:23      | I did a webinar on this last year, but I've written [[AppleScript\|AppleScripts]] that can move messages,              |
-| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript\|AppleScripts]] inside Apple Mail.             |
+| 27:29      | can copy messages, can do all sorts of manipulations with [[AppleScript\|AppleScripts]] inside [[Apple Mail]].             |
 | 27:37      | And then I wrote that script that puts in the recipient.                                               |
 | 27:40      | So I just type X high, it'll say high Rosemary, it'll grab your name from the two fields.              |
-| 27:46      | All those little, like I've tweaked Apple Mail to kind of myself and then I've programmed              |
+| 27:46      | All those little, like I've tweaked [[Apple Mail]] to kind of myself and then I've programmed              |
 | 27:51      | all that stuff into my [[Stream Deck]] and I've also programmed it into the keypad on my extended          |
 | 27:59      | keyboard.                                                                                              |
-| 28:01      | And so I'm really fast with Apple Mail.                                                                |
+| 28:01      | And so I'm really fast with [[Apple Mail]].                                                                |
 | 28:05      | So it's hard for me to move on and I don't think there's anything else that really supports            |
-| 28:08      | [[AppleScript]] customisation the way Apple Mail does, but I'm using a ton of automation.                 |
+| 28:08      | [[AppleScript]] customisation the way [[Apple Mail]] does, but I'm using a ton of automation.                 |
 | 28:14      | I want to say MailMate does, I think MailMate possibly does, but one of the things I found             |
 | 28:20      | when you're switching between mail applications is like leaving a default setup.                       |
 | 28:24      | So I have mail configured on iOS, I don't use it, but I have it configured and shortcuts               |
@@ -552,11 +552,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 28:43      | it just works, which I love.                                                                           |
 | 28:45      | But like being able to just, you know, swap things around without breaking all of the                  |
 | 28:51      | automations can be quite useful.                                                                       |
-| 28:53      | So even if you end up leaving, you know, Apple Mail on your Mac and you switch to it for               |
+| 28:53      | So even if you end up leaving, you know, [[Apple Mail]] on your Mac and you switch to it for               |
 | 28:58      | certain things, you know, that's not a bad thing.                                                      |
 | 29:00      | I actually need to go back to MailMate.                                                                |
 | 29:02      | I got really into it last year, I bought a license, I pre-wrote all the key bindings                   |
-| 29:09      | so I had basically all the kind of automation that I have with Apple Mail that I got through           |
+| 29:09      | so I had basically all the kind of automation that I have with [[Apple Mail]] that I got through           |
 | 29:16      | MailMate, but the problem was I had two Macs at the time and getting those rules to sync               |
 | 29:22      | over actually is almost impossible.                                                                    |
 | 29:25      | And then I was tagging inside the app and that also was a sticking point.                              |

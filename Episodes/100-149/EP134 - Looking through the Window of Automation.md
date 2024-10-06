@@ -1143,7 +1143,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:13:13   | puts his name in.                                                                                     |
 | 01:13:14   | So then I put that into a TextExpander, snip it.                                                     |
 | 01:13:17   | So I just say X high and it says high sell.                                                           |
-| 01:13:20   | And I can't build that in Apple Mail on the iPhone because it doesn't have AppleScript               |
+| 01:13:20   | And I can't build that in [[Apple Mail]] on the iPhone because it doesn't have AppleScript               |
 | 01:13:27   | and there's no way to do it with JavaScript because they don't give me enough access,                 |
 | 01:13:31   | blah, blah, blah, blah.                                                                               |
 | 01:13:33   | But I can do that and I can do it on the platform that I use the most because of AppleScript.        |

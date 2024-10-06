@@ -1133,7 +1133,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:12:49   | But I did feel that it fitted the topic today, because we did end up in email quite well.                |
 | 01:12:55   | Another option for John, this is a much, you know, hacky, sparky solution.                               |
 | 01:12:59   | If you've got an iPhone or an iPad, you could easily create a shortcut that would prompt                 |
-| 01:13:05   | you to search for emails by a specific name, or you could do this in Apple Mail.                         |
+| 01:13:05   | you to search for emails by a specific name, or you could do this in [[Apple Mail]].                         |
 | 01:13:10   | But with shortcuts, you could make a choose from list shortcut, like if this is a group                  |
 | 01:13:14   | of employees or coworkers, and let's say it's a group of 10 people, you're always going                  |
 | 01:13:18   | to the same 10.                                                                                          |
@@ -1162,7 +1162,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |
 | 01:14:57   | the problem.                                                                                             |
 | 01:14:58   | I'll put a link in the show notes.                                                                       |
-| 01:14:59   | I made an AppleScript for Apple Mail that grabs the name of the person in the to field                   |
+| 01:14:59   | I made an AppleScript for [[Apple Mail]] that grabs the name of the person in the to field                   |
 | 01:15:05   | and then creates the salutation.                                                                         |
 | 01:15:07   | But you don't need the second part, but if you're doing a search, grabbing the name from                 |
 | 01:15:11   | the to field could be helpful.                                                                           |
@@ -1174,7 +1174,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:15:38   | And if I double click it, then it is actually showing me the name, but that's because you're             |
 | 01:15:44   | in my contacts, though I would hope if you're sending people email, then they're in your                 |
 | 01:15:48   | contacts.                                                                                                |
-| 01:15:49   | Yeah, Apple Mail, it's so often there's so many things about it to like as an automator                  |
+| 01:15:49   | Yeah, [[Apple Mail]], it's so often there's so many things about it to like as an automator                  |
 | 01:15:55   | that it's addressable by AppleScript, but it's so wonky.                                                 |
 | 01:15:59   | I mean, just like I was writing an AppleScript where I wanted to get the to field and I needed           |
 | 01:16:05   | to make it plural.                                                                                       |

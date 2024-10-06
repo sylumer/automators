@@ -330,10 +330,10 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 22:57      | other than that, yeah, there's only about like 500 new shortcut sections, David. Yeah,                   |
 | 23:01      | we'll cover that in an hour, right? Yeah, I can I start with mail because I am there's                   |
 | 23:06      | one here in particular that I'm very excited about. And that is an [[Apple Mail]]. If you use                |
-| 23:12      | Apple Mail, you can now configure it so it can open a specific mailbox. And this is a                    |
+| 23:12      | [[Apple Mail]], you can now configure it so it can open a specific mailbox. And this is a                    |
 | 23:19      | feature that we had in earlier iterations of shortcuts. But to make it happen was one                    |
 | 23:24      | of those things where you threw salt over your left shoulder and spun around three times.                |
-| 23:28      | You had to the trick was you went into Apple Mail, you just kept opening the mailbox and                 |
+| 23:28      | You had to the trick was you went into [[Apple Mail]], you just kept opening the mailbox and                 |
 | 23:32      | eventually if you went in the shortcuts app, it would spit up a selected or a recommended                |
 | 23:38      | action of saying, well, open the MacSparky inbox, you keep opening that one. So do you                  |
 | 23:42      | want to do that? And then it went away. And like I included it in the one of the original                |
@@ -383,7 +383,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 27:27      | And it's also this, this new action is really good for mode shifting. If you just want to say,           |
 | 27:32      | I want to start, you know, answering customer service email, and then it can set a timer and             |
 | 27:38      | timer and it can open the inbox and it can play some nice music, you can, it's really kind of like       |
-| 27:43      | the ideal situation. So we've had this long hiatus in new features in Apple Mail. And,                   |
+| 27:43      | the ideal situation. So we've had this long hiatus in new features in [[Apple Mail]]. And,                   |
 | 27:50      | you know, I have my own theory on it. I think they were working on security for a long time,             |
 | 27:54      | but for whatever reason, I think now they're starting to turn their attention on more UI                 |
 | 27:59      | and user focused features. So we got a bunch this year, you know, send later and some other stuff.       |
@@ -402,9 +402,9 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 29:11      | that we've got that hopefully we will get actual snooze at some point that would be really good.         |
 | 29:15      | Please [[Apple]] like just archive it temporarily or something, whatever, you know, add a snooze             |
 | 29:21      | folder, be like every other mail client and add your own folders to things. It's fine. But yeah,         |
-| 29:27      | we'll see. But I'm optimistic this is going to be the new chapter of Apple Mail.                         |
+| 29:27      | we'll see. But I'm optimistic this is going to be the new chapter of [[Apple Mail]].                         |
 | 29:32      | Yeah, I tend to agree. I feel like they they're moving now, they're not going to stop. And,              |
-| 29:38      | and you know, the people working on Apple Mail want to put these features in, right? It's not            |
+| 29:38      | and you know, the people working on [[Apple Mail]] want to put these features in, right? It's not            |
 | 29:42      | like they're being jerks about it. I think they've just probably been really busy with other stuff.      |
 | 29:48      | But I really hope this is the beginning. Yeah, well, I think it's just like the folks over on            |
 | 29:52      | the iWork team. It's not that they didn't want to add mail merge back. It was that they had to deal      |
@@ -701,7 +701,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 56:38      | on the Mac. Unfortunately, I think particularly with the Mac, it seems like some of these actions,       |
 | 56:44      | we got some new actions on the Mac that didn't show up anywhere else, but we also didn't get some        |
 | 56:49      | of these actions over on the Mac. Like as of the last beta I checked on the Mac,                         |
-| 56:55      | go to a specific Apple Mail mailbox is not available. I don't have a beta in front of me                 |
+| 56:55      | go to a specific [[Apple Mail]] mailbox is not available. I don't have a beta in front of me                 |
 | 56:59      | right now, but I assume that's still the case. And it could just be a thing where they just              |
 | 57:04      | haven't got there yet to implement it. You know, they haven't, they're not shipping that until           |
 | 57:08      | maybe October. So, but there may be some hangups as you get this out into the public and actions         |

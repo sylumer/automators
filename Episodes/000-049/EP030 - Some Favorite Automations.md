@@ -217,11 +217,11 @@ Rose and David share some of their favourite recently created automations rangin
 | 13:37      | I don't have to go through that process over and over again.                                         |
 | 13:40      | That makes sense. Yeah, I really like that.                                                          |
 | 13:44      | I haven't really thought it through a little bit for, I think the next step of automation            |
-| 13:47      | for this would be for me to perhaps use an Apple Mail rule to look at subject lines                  |
+| 13:47      | for this would be for me to perhaps use an [[Apple Mail]] rule to look at subject lines                  |
 | 13:54      | and senders to say like if an email comes in from this particular person who's maybe                 |
 | 14:00      | counsel on the other side of a contract we're negotiating, I'm only going to get emails              |
 | 14:05      | from that guy on the Acme contract. So if I get an email from him, just go ahead and                 |
-| 14:10      | forward it to the Magic Basecamp email address. I could do that with an Apple Mail rule.             |
+| 14:10      | forward it to the Magic Basecamp email address. I could do that with an [[Apple Mail]] rule.             |
 | 14:15      | You could. I would be a little cautious of doing that purely because of the legal standpoint.        |
 | 14:21      | That person then ends up emailing you about something else six months in the future and              |
 | 14:25      | it accidentally gets put in the old person's, in the old projects base camp. Yeah, you would         |
@@ -245,7 +245,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 16:00      | this is one I believe I've shared on the show. And it's a TextExpander snippet that just            |
 | 16:05      | grabs the message URL for the active email or the currently selected email. And I tied               |
 | 16:13      | it to a TextExpander command E-Link, E-L-I-N-K. So if I type E-L-I-N-K, no matter what app          |
-| 16:20      | I'm in, it looks at my Apple Mail program and says, oh, this is the message he has selected.         |
+| 16:20      | I'm in, it looks at my [[Apple Mail]] program and says, oh, this is the message he has selected.         |
 | 16:25      | And so if I'm taking some notes and [[Apple Notes]] about something I'm working on, and                  |
 | 16:31      | I'll say source email, and then I have a [[Keyboard Maestro]] script that selects that, creates          |
 | 16:39      | hyperlink and then types E-Link. And so I'm combining [[Keyboard Maestro]] and TextExpander.            |
@@ -429,7 +429,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 31:04      | if you're interested in automation, it opens up the world. I mean, there's just so much more         |
 | 31:10      | you can do with it. I mean, I've played with the NAS drives in the past and, you know,               |
 | 31:16      | and I thought about all these solutions. But at the end of the day, having a Mac running 24 seven    |
-| 31:21      | with all the cool things like [[Keyboard Maestro]], Apple Mail rules, [[Hazel]], having that running 24      |
+| 31:21      | with all the cool things like [[Keyboard Maestro]], [[Apple Mail]] rules, [[Hazel]], having that running 24      |
 | 31:28      | seven really can change your game for automation. So I totally understand why you got one.           |
 | 31:32      | Yeah, absolutely. And also as a note, if you're on the fence about whether or not it's a good        |
 | 31:37      | idea, you could try say a month of Mac stadium, I think it's $40 or $50 for a month. So it's not     |
@@ -590,7 +590,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 45:21      | but I don't know. I really need to get a handle on this because there's just so much in my inbox     |
 | 45:25      | right now and it's crazy. Maybe we need to go back and do this show on that because I feel like      |
 | 45:30      | I've got that problem pretty solved between my same box subscription and a lot of AppleScripts I    |
-| 45:36      | use with Apple Mail on the Mac. I've talked about this on MPU, but I'm just getting where I don't    |
+| 45:36      | use with [[Apple Mail]] on the Mac. I've talked about this on MPU, but I'm just getting where I don't    |
 | 45:42      | do hardly any email on my iPhone and the stuff that gets too complicated on my iPad, I just tag      |
 | 45:50      | an archive and then I just manage the tags on the Mac. I've got some ideas on that. We should        |
 | 45:55      | probably do future content on that. Definitely. Let's do that. Is there anything else that you're    |
