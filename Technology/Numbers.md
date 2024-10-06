@@ -29,7 +29,7 @@ Numbers is a spreadsheet application created by [[Apple]] as part of its iWork s
 # Notes
 - Numbers is available for free on macOS and iOS devices.
 - Numbers has very limited support in [[Shortcuts]], and more extensive automation support through [[AppleScript]].
-- Integration with Apple Pencil on iPad
+- Integration with [[Apple Pencil]] on iPad
 
 # Links
 - [Official Numbers Website](https://www.apple.com/uk/numbers/)
