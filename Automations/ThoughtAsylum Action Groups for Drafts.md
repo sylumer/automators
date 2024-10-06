@@ -50,7 +50,7 @@ The ThoughtAsylum Action Groups are a set of over 600 actions for use with the [
 
 # Notes
 - The action groups should not be modified - you can create your own actions to include them. That way when an action group is updated, you don't lose any of your own work, and you can benefit from the changes.
-- The action groups are based on the "TADpoLe" (ThoughtAsylum Drafts Library) library of JavaScript code for Drafts.
+- The action groups are based on the "TADpoLe" (ThoughtAsylum Drafts Library) library of [[JavaScript]] code for Drafts.
 - The core action group can auto update the TADpoLe library in the background.
 - The documentation linked below for the TAAGS actions is self-generated.
 

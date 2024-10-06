@@ -19,7 +19,7 @@ The process of minifying code typically involves:
 3. **Shortening Variable and Function Names** - Variable and function names can be shortened to one or two characters to save space.
 4. **Removing Unnecessary Code** - Any redundant code that does not affect the program’s output is eliminated.
 
-For example, the following piece of JavaScript code before minification:
+For example, the following piece of [[JavaScript]] code before minification:
 
 ```javascript
 function add(a, b) {
@@ -40,8 +40,8 @@ As you can see, the minified code is much more compact.
 # Tools for Minification
 There are numerous tools available to automate the process of minifying code which ensures that developers don’t have to manually strip out characters. Some popular tools include:
 
-- **[Terser](https://terser.org)** - An efficient JavaScript minifier that is a successor to UglifyJS with added capabilities.
-- **[UglifyJS](https://github.com/mishoo/UglifyJS)** - A JavaScript minifier known for its robust processing capability.
+- **[Terser](https://terser.org)** - An efficient [[JavaScript]] minifier that is a successor to UglifyJS with added capabilities.
+- **[UglifyJS](https://github.com/mishoo/UglifyJS)** - A [[JavaScript]] minifier known for its robust processing capability.
 - **[CSSnano](https://github.com/cssnano/cssnano)** - A tool specifically designed to minify CSS files efficiently.
 
 # Benefits
