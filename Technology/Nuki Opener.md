@@ -4,7 +4,7 @@ creator: Nuki
 notetype: technology
 ---
 # Overview
-The Nuki Opener is a smart device that allows you to control door access from your smartphone for intercom-based access controlled doors. I
+The [[Nuki]] Opener is a smart device that allows you to control door access from your smartphone for intercom-based access controlled doors. I
 
 
 # Features
