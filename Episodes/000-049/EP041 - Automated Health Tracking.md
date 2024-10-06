@@ -460,7 +460,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 31:40      | so you don't go, well, I was going to go for a walk, but now it's raining and it's going               |
 | 31:43      | rain for the rest of the day. When actually you had four hours before that, you just didn't            |
 | 31:47      | know it was going to start raining then. And so I'm using that. And I'm trying to extract              |
-| 31:51      | the data out of carrot to do that. The Apple weather application is really good. I just                |
+| 31:51      | the data out of carrot to do that. The [[Apple Weather]] application is really good. I just                |
 | 31:57      | prefer the carrot weather, because it also has snarky comments. Yeah. And going back                   |
 | 32:02      | to the show we did on calendar automation, a lot of this stuff also lends into that.                   |
 | 32:08      | You could automate calendar blocks like for workouts or taking walks or whatever. And                  |

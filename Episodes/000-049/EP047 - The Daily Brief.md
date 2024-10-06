@@ -316,7 +316,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 22:44      | reporting a little bit further, but in this case, let's talk about how we're doing it with weather.      |
 | 22:49      | I think this is for me like one of the simpler ones I do, but where I live, it gets real windy           |
 | 22:56      | sometimes, but not often, but when it does, it's real windy. So I have one where it's using the          |
-| 23:03      | shortcut connection to the Apple weather application, and it's just looking to see wind speed. And if    |
+| 23:03      | shortcut connection to the [[Apple Weather]] application, and it's just looking to see wind speed. And if    |
 | 23:10      | wind speed is greater than 10 miles an hour, then it creates a text block that said wind speed is        |
 | 23:16      | expected to be, and then it inserts the miles per hour, the wind speed variable. And then I save         |
 | 23:24      | that as a variable, and then when I do my reporting, it'll show up. But I only see that if it is over    |
