@@ -1822,8 +1822,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:22:43   | The solution is almost,                                            |
 | 01:22:45   | there are lots of solutions for AppleScript problems               |
 | 01:22:48   | because AppleScript has been around for such a long time.          |
-| 01:22:51   | It's very hard to find JXA solutions,                              |
-| 01:22:55   | or is it JXA or JESA, whatever it is,                              |
+| 01:22:51   | It's very hard to find [[JXA]] solutions,                              |
+| 01:22:55   | or is it [[JXA]] or JESA, whatever it is,                              |
 | 01:22:57   | in [[JavaScript]] solutions for these problems,                        |
 | 01:23:01   | because it just hasn't been around for very long.                  |
 | 01:23:03   | So I end up still writing mostly in AppleScript,                   |

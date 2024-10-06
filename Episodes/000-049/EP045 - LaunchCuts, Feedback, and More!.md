@@ -368,7 +368,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 27:31      | we'll see what else they add to it. But back on to automation. There was someone asking in the         |
 | 27:38      | forum, is it worth learning [[AppleScript]]? Yes. This is a very good question. And to which my           |
 | 27:46      | answer would be yes, if you want to automate stuff on a Mac, AppleScript is the way to go. So there   |
-| 27:52      | is [[JavaScript]] for the Mac where you can automate stuff. It's called JXA JavaScript for automation.     |
+| 27:52      | is [[JavaScript]] for the Mac where you can automate stuff. It's called [[JXA]] [[JXA\|JavaScript for Automation]].     |
 | 27:59      | And it's kind of janky. It's based on the AppleScript, essentially. So it doesn't flow the same       |
 | 28:07      | way that regular [[JavaScript]] would. And it's very AppleScript-y. And if you're looking for examples,    |
 | 28:12      | you're going to find AppleScript everywhere, but you're going to struggle to find [[JavaScript]]          |

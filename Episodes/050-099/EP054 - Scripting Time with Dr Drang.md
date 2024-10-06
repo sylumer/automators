@@ -144,7 +144,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 06:59      | to be doing something in [[Shortcuts]], and similarly on the Mac, there are sometimes, if you've                                               |
 | 07:04      | got to work back and forth with [[Apple Contacts\|Contacts]] or the [[Apple Calendar\|Calendar]] or whatever, well, you're going               |
 | 07:10      | to be writing an [[AppleScript]] or nowadays [[JavaScript]] for applications. No, it's not                                                     |
-| 07:16      | [[JavaScript]]. [[JXA]] is 'JavaScript for Automation', not applications. But it's got to be one                                               |
+| 07:16      | [[JavaScript]]. [[JXA]] is '[[JXA\|JavaScript for Automation]]', not applications. But it's got to be one                                               |
 | 07:22      | of those, too, because you can't get into the other things. [[Keyboard Maestro]] helps                                                         |
 | 07:28      | out quite a lot in that, but still, ultimately, you're going to end up with something [[AppleScript\|AppleScript-y]]                                            |
 | 07:34      | Yeah, so often, it just ends up in [[Keyboard Maestro]],                                                                                       |
@@ -315,7 +315,7 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 23:39      | am not a big fan of [[JXA]] not because I don't, it's because if you are trying to get something                                                   |
 | 23:50      | done in [[AppleScript]] and you are searching the web for someone who has done something                                                       |
 | 23:54      | similar or maybe even exactly the same thing, you're likely to find it in [[AppleScript]] rather                                               |
-| 23:59      | than JXA simply because [[AppleScript]] has been around for so long. You just see more example                                                 |
+| 23:59      | than [[JXA]] simply because [[AppleScript]] has been around for so long. You just see more example                                                 |
 | 24:06      | scripts in [[AppleScript]]. So ultimately, I think it's helpful to know a little bit of                                                        |
 | 24:11      | [[AppleScript]], even if you prefer to write in a [[JavaScript]] on your Mac and access all                                                        |
 | 24:18      | of the, all of the [[AppleScript\|AppleScript-y]] stuff by way of [[JavaScript]], it's probably helpful to                                                          |

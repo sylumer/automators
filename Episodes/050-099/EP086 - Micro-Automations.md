@@ -192,7 +192,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 07:41      | I was impressed when I was looking at all this stuff at how easy it was actually to                     |
 | 07:47      | write some of these, because I'm somebody who doesn't really end up writing a lot of                    |
 | 07:51      | AppleScript just because there are alternatives most of the time for what I need.                      |
-| 07:56      | But as people who have tried JXA before, that's [[JavaScript]] for Automation on Mac, it was supposed       |
+| 07:56      | But as people who have tried [[JXA]] before, that's [[JavaScript]] for Automation on Mac, it was supposed       |
 | 08:02      | to be the successor to AppleScript.                                                                    |
 | 08:04      | It's bye.                                                                                               |
 | 08:05      | Okay, so AppleScript, you can write something in AppleScript.                                         |

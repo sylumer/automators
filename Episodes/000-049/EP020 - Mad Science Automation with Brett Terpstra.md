@@ -333,7 +333,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 14:24      | But his major focus was on [[JavaScript]] for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |
 | 14:36      | And it was impressive yet also when you apply the inconsistency of AppleScript to the less           |
-| 14:48      | natural language of [[JavaScript]], it can take me twice as long to write something in JXA                |
+| 14:48      | natural language of [[JavaScript]], it can take me twice as long to write something in [[JXA]]                |
 | 14:57      | as it can to write it in AppleScript.                                                                |
 | 15:00      | Yeah.                                                                                                 |
 | 15:01      | It depends.                                                                                           |
@@ -350,7 +350,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 15:38      | So the [[JavaScript]] that we're talking about is that the variant that the Omni group is                 |
 | 15:42      | made that allows you to automate their applications.                                                  |
 | 15:46      | And the advantage of it is that it works across platforms.                                            |
-| 15:49      | So where AppleScript only allows you to create something for the Mac, this JXA allows you            |
+| 15:49      | So where AppleScript only allows you to create something for the Mac, this [[JXA]] allows you            |
 | 15:55      | to create something for both the iOS and the Mac.                                                     |
 | 15:59      | So if you're working on both platforms, it's very helpful.                                            |
 | 16:02      | I think the really underlying problem is that doesn't need to come from Omni, it needs to             |

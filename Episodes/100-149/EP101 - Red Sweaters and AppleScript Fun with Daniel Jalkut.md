@@ -1106,7 +1106,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 46:39      | And I mean, except, you know, so the thing is,                    |
 | 46:42      | as it relates to AppleScript,                                     |
 | 46:44      | in my opinion, the [[JavaScript]] OSA,                                |
-| 46:47      | the JavaScript for automation as they call it,                    |
+| 46:47      | the [[JXA\|JavaScript for Automation]] as they call it,                    |
 | 46:50      | it just shouldn't be there.                                       |
 | 46:51      | Like it's just, I know some people use it                         |
 | 46:53      | and apologies if you use it and like it more power to you,        |
@@ -1115,7 +1115,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 47:05      | like impedance mismatch between the language                      |
 | 47:08      | and the AppleScript infrastructure.                               |
 | 47:11      | And it's just, I find it really tedious to write myself.          |
-| 47:15      | I wouldn't write a script in JavaScript for automation,           |
+| 47:15      | I wouldn't write a script in [[JXA\|JavaScript for Automation]],           |
 | 47:19      | but it's there.                                                   |
 | 47:20      | And the state of things now as we, you know,                      |
 | 47:25      | AppleScript is sort of, as most people know,                      |
@@ -1185,7 +1185,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 50:19      | with AppleScript.                                                 |
 | 50:19      | And oddly enough, I've read a lot of [[JavaScript]] day to day,       |
 | 50:24      | but if you write the same script in AppleScript                   |
-| 50:28      | and in JavaScript object notation, JavaScript for automation,     |
+| 50:28      | and in JavaScript object notation, [[JXA\|JavaScript for Automation]],     |
 | 50:32      | you'll often find the AppleScript ones faster.                    |
 | 50:35      | Sometimes by a very significant amount,                           |
 | 50:37      | which is just very weird and entertaining.                        |
@@ -1204,7 +1204,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 51:16      | running all the commands to be fast on a 1990s Mac.               |
 | 51:20      | And you know how it is now, you run some old 1990s software       |
 | 51:24      | on a current Mac, it's gonna blaze.                               |
-| 51:26      | And whereas with the JavaScript for automation stuff,             |
+| 51:26      | And whereas with the [[JXA\|JavaScript for Automation]] stuff,             |
 | 51:29      | they have to load in the whole infrastructure                     |
 | 51:32      | of [[JavaScript]] engine that can power the web.                      |
 | 51:36      | And so I don't know, that's kind of an interesting example        |
@@ -1233,7 +1233,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 52:41      | It's like, great, thanks, you know, technically compliant,        |
 | 52:44      | but not actually being useful.                                    |
 | 52:45      | You may as well have not bothered.                                |
-| 52:47      | And unfortunately, sometimes JavaScript for automation            |
+| 52:47      | And unfortunately, sometimes [[JXA\|JavaScript for Automation]]            |
 | 52:52      | can feel like that.                                               |
 | 52:54      | I do think that we've lost the thread a little bit.               |
 | 52:57      | Yes.                                                              |
@@ -1924,7 +1924,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:24:06   | in the chain of execution                                         |
 | 01:24:08   | that's already there with shortcuts.                              |
 | 01:24:11   | Yes, yeah, because right now it's got options to do things        |
-| 01:24:14   | like run [[JavaScript]], run JavaScript for automation,               |
+| 01:24:14   | like run [[JavaScript]], run [[JXA\|JavaScript for Automation]],               |
 | 01:24:16   | run this terminal command and things like that.                   |
 | 01:24:19   | But as you say, it is a very linear list.                         |
 | 01:24:21   | It reminds me in some ways of the differences between Zapier      |
@@ -2158,7 +2158,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:34:31   | For instance, I typed in earlier                                  |
 | 01:34:33   | while we were talking about that.                                 |
 | 01:34:34   | And this, I've already got like one for [[Audio Hijack]],             |
-| 01:34:36   | one for the web, one for JavaScript for automation.               |
+| 01:34:36   | one for the web, one for [[JXA\|JavaScript for Automation]].               |
 | 01:34:42   | Hopefully there will just be so many options                      |
 | 01:34:45   | that they'll have to organise this better.                        |
 | 01:34:46   | And, you know, I don't know why I kind of,                        |
