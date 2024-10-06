@@ -1429,7 +1429,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:23:35   | But one of the things I wanted to mention recently, [[Stephen Millard]], who's been on the show before,    |
 | 01:23:41   | he's been doing a lot of amazingly cool things recently.                                               |
 | 01:23:45   | So he's done an [[Alfred]] action or [[Alfred]] workflow to integrate with shortcuts.                          |
-| 01:23:52   | More recently, he's done a [[Keyboard Maestro]] plug-in for Apple shortcuts, which allows                   |
+| 01:23:52   | More recently, he's done a [[Keyboard Maestro]] plug-in for [[Shortcuts\|Apple Shortcuts]], which allows                   |
 | 01:23:55   | you to run a shortcut in [[Keyboard Maestro]].                                                              |
 | 01:23:59   | And it's brilliant.                                                                                    |
 | 01:24:00   | I love it, David.                                                                                      |

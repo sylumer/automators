@@ -668,7 +668,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 49:11      | that stuff.                                                                                          |
 | 49:12      | I feel, yes, it's a third-party thing, but that's not a bad thing.                                   |
 | 49:15      | It means that those can iterate and improve at a separate pace and so on.                            |
-| 49:21      | But I feel like we need more Apple Shortcuts actions.                                                |
+| 49:21      | But I feel like we need more [[Shortcuts\|Apple Shortcuts]] actions.                                                |
 | 49:25      | Do not disturb while driving.                                                                        |
 | 49:26      | I mentioned this earlier.                                                                            |
 | 49:27      | I can't enable that in Shortcuts.                                                                    |

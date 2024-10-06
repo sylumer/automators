@@ -118,7 +118,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 03:50      | mess because by default, everything gets added to the widget. This is a default behaviour               |
 | 03:54      | that I sincerely hope gets changed. But as it is, I'm now able to easily find everything               |
 | 04:00      | that's in the widget and I can tap on the three dots and it will, you know, sort it.                   |
-| 04:05      | I can't help but feel like, you know, the Apple shortcuts team has been in this marathon               |
+| 04:05      | I can't help but feel like, you know, the [[Shortcuts\|Apple Shortcuts]] team has been in this marathon               |
 | 04:09      | race the last couple of years. They're trying to get as many features out as possible. And             |
 | 04:14      | somebody wrote on the whiteboard somewhere, better organisation, but they never quite                  |
 | 04:19      | get to it, you know, because, you know, honestly, the features are more important than organisation.   |
