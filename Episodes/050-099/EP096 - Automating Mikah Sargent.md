@@ -597,7 +597,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 34:21      | very cool.                                                                                              |
 | 34:22      | Yeah, sorry about that.                                                                                 |
 | 34:23      | So thank you for that.                                                                                  |
-| 34:24      | I mean, the Apple Pencil and Notability are also great, but I'm frequently doing this                   |
+| 34:24      | I mean, the [[Apple Pencil]] and Notability are also great, but I'm frequently doing this                   |
 | 34:28      | like on my iPad.                                                                                        |
 | 34:30      | And then I want to look at everything and it's really nice to be able to have multiple                  |
 | 34:33      | shortcuts on my screen as well as the reference to what I was looking at.                               |
@@ -633,7 +633,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 36:25      | So it never, so it puts random capital.                                                                 |
 | 36:27      | I think that throws some of them because I do that too.                                                 |
 | 36:31      | And like I've, I've, I've found more apps struggle to recognise a photo of my handwriting,              |
-| 36:37      | but on the inverse side, things like notability with the Apple Pencil do a really great job             |
+| 36:37      | but on the inverse side, things like notability with the [[Apple Pencil]] do a really great job             |
 | 36:41      | of recognising my handwriting.                                                                          |
 | 36:43      | So swings and roundabouts.                                                                              |
 | 36:46      | So what I do is I'll take a picture of something I've written down and then if it's like day            |

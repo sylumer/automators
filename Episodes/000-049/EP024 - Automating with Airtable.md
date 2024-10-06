@@ -382,7 +382,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 19:19      | Just connect with USB.                                                                               |
 | 19:21      | It's super simple to get set up and you'll love that extra screen real estate.                       |
 | 19:25      | Luna Display is a complete extension to your Mac.                                                    |
-| 19:28      | It supports external keyboards as well as Apple Pencil and touch interactions.                       |
+| 19:28      | It supports external keyboards as well as [[Apple Pencil]] and touch interactions.                       |
 | 19:32      | It basically turns your Mac into a touchscreen device.                                               |
 | 19:35      | And the all new liquid video engine brings a significantly reduced latency and a faster              |
 | 19:40      | screen refresh rate.                                                                                 |

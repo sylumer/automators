@@ -632,11 +632,11 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 30:40      | So what we do is the first thing I have is the name of the person and then the gift and              |
 | 30:44      | then parentheses, I put the person who's going to buy it, because a lot of times we'll divide        |
 | 30:49      | and conquer.                                                                                         |
-| 30:50      | So it'll say Rose hyphen, apple pencil, and then parentheses is like David.                          |
-| 30:56      | And then in that case, if we're saying we're going to get Rose and apple pencil and David's          |
+| 30:50      | So it'll say Rose hyphen, [[Apple Pencil]], and then parentheses is like David.                          |
+| 30:56      | And then in that case, if we're saying we're going to get Rose and [[Apple Pencil]] and David's          |
 | 31:02      | going to take care of it.                                                                            |
 | 31:05      | But it's not necessarily written in stone that I'm going to take care of it.                         |
-| 31:08      | If she's somewhere and she picks up the apple pencil, she'll check it off.                           |
+| 31:08      | If she's somewhere and she picks up the [[Apple Pencil]], she'll check it off.                           |
 | 31:11      | And then so the point is we just occasionally check in on that to see what's left that we            |
 | 31:15      | need to buy.                                                                                         |
 | 31:16      | And that works really well for the two of us, but I don't know how geeky it is.                      |

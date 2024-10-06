@@ -306,7 +306,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 14:49      | If I'm going to bring an iPad with me, there's a list of things I need.                                                                                          |
 | 14:53      | I need a charger.                                                                                                                                                |
 | 14:54      | I need a keyboard.                                                                                                                                               |
-| 14:55      | I need an Apple Pencil.                                                                                                                                          |
+| 14:55      | I need an [[Apple Pencil]].                                                                                                                                          |
 | 14:58      | There's things I need.                                                                                                                                           |
 | 15:00      | Whereas if I'm going to bring a Mac, it's a different list or if I'm going to be going                                                                           |
 | 15:03      | into cold weather, it's one list or if I'm going into rain, it's a different list.                                                                               |

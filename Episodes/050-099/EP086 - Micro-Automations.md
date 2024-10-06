@@ -1272,10 +1272,10 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:11:42   | was purple because the iPhone's not purple, David.                                                      |
 | 01:11:44   | I'm sad.                                                                                                |
 | 01:11:45   | Okay.                                                                                                   |
-| 01:11:46   | So with the iPad mini, are you using the Apple pencil?                                                  |
+| 01:11:46   | So with the iPad mini, are you using the [[Apple Pencil]]?                                                  |
 | 01:11:49   | Yes.                                                                                                    |
-| 01:11:50   | So I already had the Apple pencil for my 12.9 inch iPad pro.                                            |
-| 01:11:55   | I have not bought a second Apple pencil.                                                                |
+| 01:11:50   | So I already had the [[Apple Pencil]] for my 12.9 inch iPad pro.                                            |
+| 01:11:55   | I have not bought a second [[Apple Pencil]].                                                                |
 | 01:11:57   | I do not need two [[Apple Pencil\|Apple Pencils]].                                                                        |
 | 01:11:59   | So I just have the same one.                                                                            |
 | 01:12:00   | And because you just pair it by sticking it to the side, it's really easy.                              |
@@ -1287,7 +1287,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:12:18   | I like it because it's usually, you know, I'll go and I'll be doing tech support at                     |
 | 01:12:23   | my grandmother's or something and she's trying to tell me all this information.                         |
 | 01:12:27   | And I don't want to take a 12.9 inch iPad pro with a keyboard with me or even 11 inch.                  |
-| 01:12:31   | That was a little too big for that, but taking the iPad mini in the Apple pencil allows me              |
+| 01:12:31   | That was a little too big for that, but taking the iPad mini in the [[Apple Pencil]] allows me              |
 | 01:12:36   | to just scribble this information down.                                                                 |
 | 01:12:38   | And then I can look at it and go, okay, so she's giving me all this information.                        |
 | 01:12:42   | The two things that are actually relevant here are this.                                                |
@@ -1326,7 +1326,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:14:49   | it's not like the full page.                                                                            |
 | 01:14:52   | And I know that there's another thing you can do where you tap it with a pencil and                     |
 | 01:14:55   | it opens a new one as well in Apple notes.                                                              |
-| 01:14:57   | But just the bottom line is Apple notes, to me, could get better at Apple pencil input.                 |
+| 01:14:57   | But just the bottom line is Apple notes, to me, could get better at [[Apple Pencil]] input.                 |
 | 01:15:05   | And I really like their tool, their pencil tool, you know, where you can change the                     |
 | 01:15:08   | brush and the colour and everything, but just like things like dot grid or good notes has                |
 | 01:15:14   | this great feature where it has like a large section at the bottom that you write in and                |

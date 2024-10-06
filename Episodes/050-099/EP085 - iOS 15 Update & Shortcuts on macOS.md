@@ -90,7 +90,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:31      | I mean, I do a lot of reading on it,                                 |
 | 01:32      | but I don't know, maybe I could do more with one,                    |
 | 01:35      | and I really like that new design language.                          |
-| 01:39      | I really like that it works with the new Apple Pencil,               |
+| 01:39      | I really like that it works with the new [[Apple Pencil]],               |
 | 01:42      | so I'm very tempted by that.                                         |
 | 01:44      | Yes.                                                                 |
 | 01:45      | How about you?                                                       |
@@ -457,7 +457,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 16:05      | and a pencil and I met you in a hallway                              |
 | 16:07      | and you started telling me a phone number,                           |
 | 16:09      | I could write it down.                                               |
-| 16:10      | Whereas if I'm holding an iPad and an Apple pencil                   |
+| 16:10      | Whereas if I'm holding an iPad and an [[Apple Pencil]]                   |
 | 16:14      | and you start telling me a phone number,                             |
 | 16:16      | there is like a 10 or 15 seconds of things I need to do              |
 | 16:20      | before I can write it down.                                          |
@@ -470,11 +470,11 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 16:33      | for taking notes on an iPad?                                         |
 | 16:35      | Well, at the moment, I have been using Quick Note a bit,             |
 | 16:39      | but obviously the previous iPad Mini                                 |
-| 16:41      | uses the old Apple pencil,                                           |
+| 16:41      | uses the old [[Apple Pencil]],                                           |
 | 16:43      | which means that there's always the tap on the screen                |
-| 16:45      | with the Apple pencil.                                               |
-| 16:47      | Apple pencil's out of battery.                                       |
-| 16:49      | Plug the Apple pencil into a lightning port like a dork.             |
+| 16:45      | with the [[Apple Pencil]].                                               |
+| 16:47      | [[Apple Pencil\|Apple Pencil's]] out of battery.                                       |
+| 16:49      | Plug the [[Apple Pencil]] into a lightning port like a dork.             |
 | 16:52      | Wait for it to charge up, get distracted, do other things.           |
 | 16:58      | But basically a lot of the ways that I currently use                 |
 | 17:01      | the iPad Mini is with a small folding Bluetooth keyboard.            |

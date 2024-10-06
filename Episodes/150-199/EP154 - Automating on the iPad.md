@@ -169,7 +169,7 @@ After [[Apple|Apple's]] latest announcement, Rosemary and David review their iPa
 | 08:25      | It's fantastic.                                                                                      |
 | 08:26      | Yeah.                                                                                                |
 | 08:27      | That's one of the things that I am intrigued by with the new iPads with the new [Apple Pencil\|Apple Pencils]]        |
-| 08:33      | because I don't use my Apple Pencil as much as I could.                                              |
+| 08:33      | because I don't use my [[Apple Pencil]] as much as I could.                                              |
 | 08:36      | I'm aware of that, and there are definitely people out there who will use it a lot more              |
 | 08:41      | than I do, but I do love being able to just pick it up and quickly draw a diagram and                |
 | 08:45      | sketch something out.                                                                                |

@@ -457,7 +457,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 21:42      | across your devices when you use the [[Dropbox]] or iCloud.                                                      |
 | 21:46      | I love using PDFpen, I had to fill out a form for my new apartment earlier today and it                      |
 | 21:51      | just worked.                                                                                                 |
-| 21:52      | I filled it up in PDFpen on my iPad, filled it out using my Apple Pencil and sent it back                    |
+| 21:52      | I filled it up in PDFpen on my iPad, filled it out using my [[Apple Pencil]] and sent it back                    |
 | 21:58      | after adding my signature from my template.                                                                  |
 | 22:01      | Learn more about PDFpen and PDFpen Pro at Smile Software.com/podcast.                                   |
 | 22:06      | If you do any work with PDFs, you need PDFpen, go to Smile Software.com/podcast.                        |

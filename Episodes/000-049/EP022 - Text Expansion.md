@@ -1185,7 +1185,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 49:27      | It's super simple to set up,                                                             |
 | 49:29      | and you'll love that extra screen real estate.                                           |
 | 49:32      | Lunar Display is a complete extension to your Mac.                                       |
-| 49:35      | It supports external keyboards as well as Apple Pencil                                   |
+| 49:35      | It supports external keyboards as well as [[Apple Pencil]]                                   |
 | 49:37      | and touch interactions.                                                                  |
 | 49:39      | It basically turns your Mac into a touchscreen device.                                   |
 | 49:42      | And the all-new liquid video engine                                                      |

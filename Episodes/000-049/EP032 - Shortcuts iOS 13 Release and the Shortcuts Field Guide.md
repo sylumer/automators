@@ -87,7 +87,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 01:32      | And you could have bought three of them for what I paid for my iPad Pro.                               |
 | 01:35      | It's just bananas.                                                                                     |
 | 01:36      | You know, I mean, it's crazy.                                                                          |
-| 01:39      | And like it has keyboard support, it has Apple Pencil support.                                         |
+| 01:39      | And like it has keyboard support, it has [[Apple Pencil]] support.                                         |
 | 01:41      | I was talking to my wife and kids, I was thinking, you know, there's a lot of people in our            |
 | 01:46      | family that are not high-end computer users and with iOS 13's new [[Safari]] that works with               |
 | 01:53      | just about everything.                                                                                 |

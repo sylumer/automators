@@ -90,7 +90,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 01:49      | Once we recorded last, [[Apple]] has added some new iPads, and we thought it'd be fun to take              |
 | 01:55      | a minute to talk about that.                                                                           |
 | 01:58      | So we've got the, was it the 10th generation iPad, which is almost an iPad Air, but uses               |
-| 02:05      | a really old Apple pencil?                                                                             |
+| 02:05      | a really old [[Apple Pencil]]?                                                                             |
 | 02:06      | I mean, I don't know.                                                                                  |
 | 02:08      | Yes.                                                                                                   |
 | 02:09      | Yeah.                                                                                                  |
@@ -108,8 +108,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 02:40      | And this was fine when everything was using lightning.                                                 |
 | 02:43      | But I guess maybe Mr. Logistics Cook guessed wrong on the number of units they were going              |
 | 02:51      | to sell or something because the new iPad is USB-C.                                                    |
-| 02:55      | And so they are selling a bonus USB-C to lightning adapter that you can buy to use the Apple Pencil,   |
-| 03:00      | which is the one that works with the iPad because the new Apple pencil, the one                |
+| 02:55      | And so they are selling a bonus USB-C to lightning adapter that you can buy to use the [[Apple Pencil]],   |
+| 03:00      | which is the one that works with the iPad because the new [[Apple Pencil]], the one                |
 | 03:05      | that magnetises to the side of your iPad, doesn't stick to it and doesn't work with                    |
 | 03:09      | it because they move the camera to the top of the iPad.                                                |
 | 03:12      | I'm just so confused.                                                                                  |
@@ -126,11 +126,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 03:45      | I'm just checking here to see if it's backordered as well because I think I have all those Apple       |
 | 03:48      | pencils hanging around.                                                                                |
 | 03:49      | I don't actually have a use case for it.                                                               |
-| 03:51      | I should probably sell it, but yeah, it's a weird time to be buying an Apple pencil.                   |
+| 03:51      | I should probably sell it, but yeah, it's a weird time to be buying an [[Apple Pencil]].                   |
 | 04:01      | I'm just looking and it's not showing up on the website.                                               |
 | 04:05      | Excellent work there, [[Apple]].                                                                           |
 | 04:06      | Excellent work.                                                                                        |
-| 04:07      | USB-C to Apple Pencil adapter.                                                                         |
+| 04:07      | USB-C to [[Apple Pencil]] adapter.                                                                         |
 | 04:11      | There we go.                                                                                           |
 | 04:12      | It showed up in the search and apparently right now, if I look to order it, it's arriving              |
 | 04:17      | next week just before the [[Apple TV]].                                                                    |
@@ -139,7 +139,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 04:27      | It'll get there faster.                                                                                |
 | 04:28      | Yeah.                                                                                                  |
 | 04:29      | Although in fairness, a lot of people buy iPads and never use the pencil.                              |
-| 04:33      | So for those that don't care about the Apple pencil, it's actually a pretty good iPad.                 |
+| 04:33      | So for those that don't care about the [[Apple Pencil]], it's actually a pretty good iPad.                 |
 | 04:37      | It's shockingly close to the iPad Air and that always happens with the iPads when they                 |
 | 04:43      | release new ones.                                                                                      |
 | 04:44      | They inch up towards the next tier above them.                                                         |
@@ -169,14 +169,14 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 06:08      | And I don't know.                                                                                      |
 | 06:09      | I feel like they kind of, they're doing what they need to do, although the whole thing                 |
 | 06:12      | with the pencil, I think is a huge fumble and they should have been a way to figure                    |
-| 06:17      | out how to get the second generation Apple pencil to work with it.                                     |
+| 06:17      | out how to get the second generation [[Apple Pencil]] to work with it.                                     |
 | 06:21      | I just don't get it.                                                                                   |
 | 06:23      | Yeah.                                                                                                  |
 | 06:24      | Like I heard basically what it is because what they've done is they've moved the camera                |
 | 06:28      | from the left-hand side whilst it's in like the keyboard mode to the top, which is a more              |
 | 06:35      | logical place for a camera.                                                                            |
 | 06:37      | I'll admit, but because they've put that there, that's where the magnetic part for                     |
-| 06:43      | the Apple pencil is on the iPad Pros and on the iPad Air and on the iPad Mini.                         |
+| 06:43      | the [[Apple Pencil]] is on the iPad Pros and on the iPad Air and on the iPad Mini.                         |
 | 06:48      | And basically they apparently are unable to put the charger and the camera in the same                 |
 | 06:52      | spot.                                                                                                  |
 | 06:53      | Now, that does make sense.                                                                             |
@@ -184,19 +184,19 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 07:01      | bit elsewhere, but then you still got to have the magnet for the iPad there somehow.                   |
 | 07:07      | And yeah, it feels like it's quite tricky, especially with the speakers.                               |
 | 07:11      | Now maybe if they put the speakers on the top of the iPad instead of on the sides, then                |
-| 07:17      | this wouldn't have been a problem because they could have put the Apple pencil at the                  |
+| 07:17      | this wouldn't have been a problem because they could have put the [[Apple Pencil]] at the                  |
 | 07:20      | bottom opposite the power button or you would have charged it with the tip always up so                |
 | 07:25      | that the pencil tip is next to the power button for touch ID, I don't know.                            |
-| 07:30      | But I understand why they've gone with the older Apple pencil, but it just feels like                  |
+| 07:30      | But I understand why they've gone with the older [[Apple Pencil]], but it just feels like                  |
 | 07:35      | maybe they shouldn't have moved the camera if they were going to be that stuck.                        |
 | 07:39      | Yeah.                                                                                                  |
-| 07:40      | And honestly, kind of my conclusion on that is if you're going to use the Apple pencil                 |
+| 07:40      | And honestly, kind of my conclusion on that is if you're going to use the [[Apple Pencil]]                 |
 | 07:44      | a lot, just get an iPad Air, you know, save for another month or two if you need to, because           |
-| 07:49      | the generation to Apple pencil is not a incremental improvement over the first one.                    |
+| 07:49      | the generation to [[Apple Pencil]] is not a incremental improvement over the first one.                    |
 | 07:56      | It is a massive improvement.                                                                           |
 | 07:58      | And if you're going to do pencil stuff, just like I said, if you have to wait longer than              |
 | 08:03      | wait longer, but get yourself into the iPad Air, because this silly thing with this cable              |
-| 08:11      | and frankly, the original Apple pencil, it's just, it was a good start, but the generation             |
+| 08:11      | and frankly, the original [[Apple Pencil]], it's just, it was a good start, but the generation             |
 | 08:16      | to fixes so many problems with it, just, just waiting.                                                 |
 | 08:20      | Yes.                                                                                                   |
 | 08:21      | Yeah, exactly.                                                                                         |
@@ -244,11 +244,11 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 10:43      | pretty much the same as a Mac, so, you know, you got to consider the pros and cons of it.              |
 | 10:50      | But it does feel like the iPad Pro line, at the very least, is nice and stable.                        |
 | 10:55      | They've not made any changes to the smart keyboard folio or the Magic keyboard in options.             |
-| 11:03      | The Apple Pencil is the same.                                                                          |
+| 11:03      | The [[Apple Pencil]] is the same.                                                                          |
 | 11:05      | It now has a new feature, which I really like the idea of.                                             |
 | 11:09      | It's basically got a proximity sensor.                                                                 |
-| 11:11      | So as your Apple Pencil gets closer to the screen, it sort of indicates where it is,                   |
-| 11:18      | so that, you know, it gives you a kind of visual indication that the Apple Pencil is                   |
+| 11:11      | So as your [[Apple Pencil]] gets closer to the screen, it sort of indicates where it is,                   |
+| 11:18      | so that, you know, it gives you a kind of visual indication that the [[Apple Pencil]] is                   |
 | 11:20      | like almost on screen, almost on screen, almost on screen.                                             |
 | 11:23      | And now it's touching it, but you've kind of seen things maybe move a little bit depending             |
 | 11:27      | on what the app is beneath it first, which is a lovely idea.                                           |

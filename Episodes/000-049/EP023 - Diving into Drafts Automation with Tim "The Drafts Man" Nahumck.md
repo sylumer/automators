@@ -765,7 +765,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 41:52      | You can also connect via USB.                                                                          |
 | 41:55      | Luna Display is super simple to set up, and you'll love that extra screen real estate.                 |
 | 42:00      | The Luna Display is a complete extension to your Mac.                                                  |
-| 42:03      | It supports external keyboards as well as Apple Pencil and touch interactions.                         |
+| 42:03      | It supports external keyboards as well as [[Apple Pencil]] and touch interactions.                         |
 | 42:07      | You can basically have a touchscreen Mac by using your Luna Display on your iPad.                      |
 | 42:13      | And the all new liquid video engine brings significantly reduced latency and a faster                  |
 | 42:17      | screen refresh rate.                                                                                   |

@@ -128,7 +128,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 05:44      | of your cupboard when you open it up, right? Yeah, yeah, I did. So I had a tape measure                  |
 | 05:49      | and I just grabbed all that stuff and and or, you know, looked at it and I considered                    |
 | 05:55      | taking a photo of the cupboard and then diagramming it. And I realised that by the time I did that,      |
-| 05:59      | I could just grab my Apple pencil and draw it on my iPad. And then, you know, I had it                   |
+| 05:59      | I could just grab my [[Apple Pencil]] and draw it on my iPad. And then, you know, I had it                   |
 | 06:03      | right there. And I will confess that one didn't go into my typical capture system, but I'm               |
 | 06:09      | always willing to make allowances so that I actually have the data captured in the format                |
 | 06:13      | that makes the most sense for the data rather than saying that I have to stick to a specific             |

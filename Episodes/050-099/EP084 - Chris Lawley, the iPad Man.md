@@ -164,7 +164,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 06:49      | in them that is not necessary.                                                                            |
 | 06:51      | Yeah. The number of times I've been given a PDF and every fourth page is blank or something               |
 | 06:56      | because they intended this to be printed or whatever it is. No, I, I'm not printing                       |
-| 07:01      | this. I've got an iPad pro with an Apple Pencil. So why would I print this?                                  |
+| 07:01      | this. I've got an iPad pro with an [[Apple Pencil]]. So why would I print this?                                  |
 | 07:05      | Exactly. Yeah. Yeah. Being able to take advantage of that. And yeah, the split PDF document               |
 | 07:09      | into pages action is, is great. I was actually using previously, I was always hacking the                 |
 | 07:14      | make PDF action where you could include specific pages, page range, which would help, but you             |
@@ -908,7 +908,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:13:42   | anything smaller than the 12.9 inch iPad pro. I am in the camp of bring me the 15 inch iPad pro next.     |
 | 01:13:50   | Like that's what I want. I'm ready for that. I've even talked in the past about like,                     |
 | 01:13:57   | how cool would it be to have like an iPad that's the Microsoft studio style thing where it's a            |
-| 01:14:03   | desktop computer plugged into power. You can tilt it, move it around, use the Apple pencil on it          |
+| 01:14:03   | desktop computer plugged into power. You can tilt it, move it around, use the [[Apple Pencil]] on it          |
 | 01:14:09   | and stuff like that. That would be pretty cool. Obviously, that's far off like if that were to            |
 | 01:14:14   | ever happen. But I would be there for that. If I got Tim Koch's job today, I would say guys,              |
 | 01:14:22   | I want you to take a Microsoft studio type tilting iMac. And when it's standing up, I want it to be       |

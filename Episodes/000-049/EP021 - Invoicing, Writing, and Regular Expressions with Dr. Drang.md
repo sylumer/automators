@@ -589,7 +589,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 22:12      | and make sure that I actually did press the record button.         |
 | 22:15      | Luna Display is a complete extension to your Mac.                  |
 | 22:18      | It supports external keyboards,                                    |
-| 22:20      | as well as Apple Pencil and touch interactions.                    |
+| 22:20      | as well as [[Apple Pencil]] and touch interactions.                    |
 | 22:23      | It basically turns your Mac into a touch screen device             |
 | 22:26      | and the all new liquid video engine                                |
 | 22:28      | brings significantly reduced latency                               |

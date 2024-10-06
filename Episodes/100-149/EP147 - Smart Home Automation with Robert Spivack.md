@@ -1034,7 +1034,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 01:07:54   | and it said, no, oh, that's because today's Tuesday, well, okay, so that did work, but                 |
 | 01:08:00   | maybe I need something that works on Tuesdays and Thursdays and figuring it out.                       |
 | 01:08:04   | I think one of the key skills to remember when you're looking at all of this stuff is                  |
-| 01:08:09   | your basic troubleshooting, grabbing a pen and paper or an iPad Pro and an Apple Pencil                |
+| 01:08:09   | your basic troubleshooting, grabbing a pen and paper or an iPad Pro and an [[Apple Pencil]]                |
 | 01:08:14   | and writing down, okay, so when this happens, then that happens and just figuring out the              |
 | 01:08:21   | basics and starting with that and then working on the refinements slowly and carefully from            |
 | 01:08:26   | there.                                                                                                 |

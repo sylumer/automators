@@ -442,7 +442,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 27:00      | panels from my [[Photoshop]] work and have them show over there, or I want a screen from this                |
 | 27:06      | and I want that on there.                                                                                |
 | 27:08      | And so, Sidecar has that ability to offer you that, but the problem is, is that Sidecar                  |
-| 27:16      | only allows you to interact with your connected iPad via an Apple Pencil or a two-finger swipe           |
+| 27:16      | only allows you to interact with your connected iPad via an [[Apple Pencil]] or a two-finger swipe           |
 | 27:25      | for navigating a column of data.                                                                         |
 | 27:29      | And unfortunately, they don't support touch.                                                             |
 | 27:34      | So you can't use your finger as a touch and that means you can't, you know, hit a button.                |
@@ -693,13 +693,13 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 44:28      | I mean, you know, and [[Apple]] is trying to show the, you know, the synergy effect of buying                |
 | 44:34      | multiple devices from them.                                                                              |
 | 44:36      | This is a great example of how that could be done.                                                       |
-| 44:40      | I love my Apple pencil, but the way that I want to use it, I can't use it on the devices.                |
+| 44:40      | I love my [[Apple Pencil]], but the way that I want to use it, I can't use it on the devices.                |
 | 44:48      | I want it to be a text input device.                                                                     |
 | 44:52      | I'd like to be able in any text field to be able to do handwriting recognition and use                   |
 | 44:58      | it as my main text input instead of typing.                                                              |
 | 45:03      | But that's not possible.                                                                                 |
 | 45:04      | You have to go to certain apps that are designed to do handwriting recognition, but it should            |
-| 45:12      | be system wide and then that would be able to use the Apple pencil.                                      |
+| 45:12      | be system wide and then that would be able to use the [[Apple Pencil]].                                      |
 | 45:17      | Otherwise, as they currently have sidecar setup, it's really for annotating and for                      |
 | 45:23      | doing artistic things.                                                                                   |
 | 45:25      | And that's nice for a particular audience and a particular segment, but I would like                     |
@@ -739,7 +739,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 47:41      | app level is really good.                                                                                |
 | 47:43      | So why not just turn that on and have that be part of the whole operating system?                        |
 | 47:48      | Yeah, I agree.                                                                                           |
-| 47:49      | I think it'd be great to be able to pull the Apple Pencil and just right across the bottom               |
+| 47:49      | I think it'd be great to be able to pull the [[Apple Pencil]] and just right across the bottom               |
 | 47:53      | of the screen and have the tech show up.                                                                 |
 | 47:55      | Hey, the next time you guys have Tim on, you could ask him that question.                                |
 | 47:58      | Yeah.                                                                                                    |
@@ -1165,7 +1165,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:17:15   | going to be videos and downloadable stuff in there.                                                      |
 | 01:17:18   | So if you were at all interested in this, I recommend you spend some time trying it.                     |
 | 01:17:23   | If you don't have the Luna display, you can do it with the side card, just you got to                    |
-| 01:17:31   | use an Apple Pencil.                                                                                     |
+| 01:17:31   | use an [[Apple Pencil]].                                                                                     |
 | 01:17:32   | It's not really as nice, to be honest with you, but if you just want to give it a try                    |
 | 01:17:36   | to see if it'll work, you can do it without a Luna display.                                              |
 | 01:17:39   | But I suspect you're going to want to get a Luna display if you want to bring this into                  |

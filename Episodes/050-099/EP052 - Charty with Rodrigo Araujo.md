@@ -651,7 +651,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 34:45      | your file size.                                                                                        |
 | 34:47      | Plus, PDFpen Pro 12 users get built-in DocuSign support for digital signing.                           |
 | 34:53      | PDFpen for Mac supports Mac OS Catalina and PDFpen for iPad and iPhone supports iOS 13                 |
-| 34:59      | and Apple Pencil.                                                                                      |
+| 34:59      | and [[Apple Pencil]].                                                                                      |
 | 35:00      | Learn more about PDFpen and PDFpen Pro at Smile Software.com/podcast.                             |
 | 35:07      | If you do any work with PDFs, you need PDFpen.                                                         |
 | 35:10      | Go to Smile Software.com/podcast.                                                                 |

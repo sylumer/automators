@@ -684,7 +684,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 36:18      | the future.                                                                                         |
 | 36:19      | You're saving yourself time by just taking one quick snap now.                                      |
 | 36:23      | Another thing you could do to journal, another idea that occurs to me is if you like writing        |
-| 36:29      | but you don't care about paper that much and you want to write with an Apple Pencil                 |
+| 36:29      | but you don't care about paper that much and you want to write with an [[Apple Pencil]]                 |
 | 36:34      | on an iPad, the usual suspects would all be good at that.                                           |
 | 36:41      | I would actually really recommend GoodNotes for this because they have a bunch of different         |
 | 36:45      | template options.                                                                                   |
@@ -699,7 +699,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 37:16      | Exactly.                                                                                            |
 | 37:17      | And so you can have the exact diary page you want with the exact prompts you want.                  |
 | 37:23      | And you could even make them different ones for different days like we were talking about           |
-| 37:26      | earlier and just fill that out with your Apple Pencil.                                              |
+| 37:26      | earlier and just fill that out with your [[Apple Pencil]].                                              |
 | 37:28      | So anyway, there's a lot of ways to automate journalling.                                            |
 | 37:32      | If you're thinking about it and you're listening to the show, maybe that's what you need to         |
 | 37:38      | get a daily habit of doing it and why not?                                                          |
