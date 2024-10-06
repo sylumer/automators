@@ -312,7 +312,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 23:50      | Yeah. I met the developers of [[Day One]]. I think at the time, it was just the one guy,                      |
 | 23:55      | and I've forgotten his name. Yeah, me too. I met him on a dance floor.                                    |
 | 24:00      | Yeah. I met him the year... [[Day One]], I saw the potential in it and I believe that was the year            |
-| 24:08      | that they won an Apple Design Award, if I'm remembering correctly. And from that point on,                |
+| 24:08      | that they won an [[Apple Design Award]], if I'm remembering correctly. And from that point on,                |
 | 24:14      | [[Day One]] became kind of like everyone knew [[Day One]]. They built a really good app and it deserves           |
 | 24:22      | the success it's gotten. Yeah. Yeah, I agree. Well... Oh my God. You know... Sorry. My brain              |
 | 24:29      | just jumped. You know what? The app on Mac that I just constantly admire is these days?                   |
