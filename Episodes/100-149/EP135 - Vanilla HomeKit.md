@@ -174,7 +174,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 07:07      | them of a little burden there, and keep something running for the community, which is, I think            |
 | 07:14      | I hope what Alex would have wanted, we basically just want to keep it running.                            |
 | 07:20      | I know so many of the actions that he added in Toolbox Pro, the very first Toolbox Pro,                   |
-| 07:24      | it kind of got Sherlocked by the Shortcuts team, but in a good way.                                       |
+| 07:24      | it kind of got [[Sherlocking\|Sherlocked]] by the Shortcuts team, but in a good way.                                       |
 | 07:28      | He was happy about it.                                                                                    |
 | 07:29      | He was like, these actions are going to go away because they're now part of Shortcuts.                    |
 | 07:32      | This is great.                                                                                            |

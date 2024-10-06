@@ -1501,7 +1501,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:26:50   | there isn't one on the Mac, and that was something that drove me a little bit crazy, but somebody    |
 | 01:26:55   | of course has written their own app, which its entire purpose is to be the Automation                |
 | 01:27:02   | tab of Shortcuts on the Mac.                                                                         |
-| 01:27:04   | So I both love this, and I think they're going to get Sherlocked next year.                         |
+| 01:27:04   | So I both love this, and I think they're going to get [[Sherlocking\|Sherlocked]] next year.                         |
 | 01:27:09   | Oh, definitely.                                                                                      |
 | 01:27:10   | I think this will be built in.                                                                       |
 | 01:27:11   | But at the same time, it is fabulous that somebody out there has done this, and so I'll              |

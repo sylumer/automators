@@ -954,7 +954,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 36:56      | and it does just do all the things,                                   |
 | 36:59      | which makes me pretty darn happy.                                     |
 | 37:01      | Yeah, and this is one that I really hope gets                         |
-| 37:03      | Sherlocked at some point, but until then, for three bucks,            |
+| 37:03      | [[Sherlocking\|Sherlocked]] at some point, but until then, for three bucks,            |
 | 37:07      | it's worth it.                                                        |
 | 37:08      | Yes, exactly, there could be workarounds                              |
 | 37:12      | with a bunch of other things,                                         |

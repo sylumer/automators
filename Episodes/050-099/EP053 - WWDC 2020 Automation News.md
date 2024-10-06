@@ -202,7 +202,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 11:38      | I don't think you can. Like you can open a shortcut so that shortcut could open [[Shortcuts]].                                                            |
 | 11:44      | But I'm not willing to sacrifice one of those big spaces for that. So at the moment I have                                                                |
 | 11:49      | [[LaunchCuts]] in my dock and I have [[Shortcuts]] on my home screen because even though we got                                                           |
-| 11:53      | folders inside of [[Shortcuts]], I think [[LauchCuts]] has not been Sherlocked here because                                                               |
+| 11:53      | folders inside of [[Shortcuts]], I think [[LauchCuts]] has not been [[Sherlocking\|Sherlocked]] here because                                                               |
 | 11:57      | [[LaunchCuts]] does smart folders. And so for me, the smart folders alone, like I'm going                                                                 |
 | 12:03      | to have to use those to make manual folders for the time being because it's like, okay,                                                                   |
 | 12:08      | well, I have all these, you know, great smart folders. Well, you know, which, which shortcuts                                                             |

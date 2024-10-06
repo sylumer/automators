@@ -163,8 +163,8 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 09:15      | why not, right? Rosa and I still have wishes and ideas, so we thought that'd be fun for                  |
 | 09:20      | the bonus episode today. But let's get it back to, you know, what people are getting                     |
 | 09:25      | to know with iOS 16. We've got various categories to go through. What about, you want to talk            |
-| 09:32      | about Sherlock first? Yeah, yeah, because iOS 16 Sherlock, some                                          |
-| 09:37      | short cut sort of nations that I was doing, and I'm sure a bunch of other people are doing               |
+| 09:32      | about [[Sherlocking\|Sherlock]] first? Yeah, yeah, because iOS 16 [[Sherlocking\|Sherlocked]], some                                          |
+| 09:37      | [[Shortcuts]] automations that I was doing, and I'm sure a bunch of other people are doing               |
 | 09:40      | because I'm pretty certain that [[Apple]] doesn't have somebody just watching my anonymised                  |
 | 09:45      | iPhone usage and going, right, okay, that's what she's doing. We're going to add that                    |
 | 09:48      | feature for everyone. But they've killed, David, they've killed my need to use the set                   |
@@ -297,13 +297,13 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 20:11      | apps to me like people who I know who love an app. And so often I find the app and set                   |
 | 20:16      | up. So I'm already, I've already got access to the app with my set up subscription. And                  |
 | 20:20      | I didn't even know I had it. So I go in and download it. And so often it's true. And I                   |
-| 20:24      | add it to the mix. Now until September 15, if you use the code, automators, A U T O M                    |
-| 20:30      | A T O R S, you get a free month free trial. That's a great idea. Go in there, try it for                 |
+| 20:24      | add it to the mix. Now until September 15, if you use the code, automators, A-U-T-O-M-A-T-O-R-S,                   |
+| 20:30      | you get a free month free trial. That's a great idea. Go in there, try it for                 |
 | 20:36      | a month and just see how much you love all these great set up apps. So head over to set                  |
-| 20:39      | up.com and redeem your code. That's S E T A P P.com with the code, automators and our                    |
+| 20:39      | up.com and redeem your code. That's setapp.com with the code, automators and our                    |
 | 20:46      | thanks to set up for the support of the automators and all of relay FM.                                  |
 | 20:51      | All right, we went down a little bit of rabbit hole. Let's talk about some automation. We                |
-| 20:57      | had started, we started with the Sherlock automations.                                                   |
+| 20:57      | had started, we started with the [[Sherlocking\|Sherlocked]] automations.                                                   |
 | 20:59      | Yeah. Yeah. And then we got a little sidetracked though. I mean, tying back into the automation          |
 | 21:05      | theme, I feel I should mention, you know, there's a lot of app developers of the apps                    |
 | 21:08      | that we know and love and talk about all the time who are releasing lock screen widgets,                 |

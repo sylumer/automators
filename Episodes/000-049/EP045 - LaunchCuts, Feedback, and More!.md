@@ -591,13 +591,13 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 48:09      | And all sorts of things, which is great. And then you can reuse them in multiple applications.         |
 | 48:14      | If you make a change to the dictionary, it's going to, the change will reflect in every shortcut       |
 | 48:20      | you access it in. It's like, I look at this when I'm like, oh, come on, [[Apple]], this just needs to      |
-| 48:27      | be in shortcuts. Yeah. It does kind of feel like it needs to be Sherlocked, which is meant in the      |
+| 48:27      | be in shortcuts. Yeah. It does kind of feel like it needs to be [[Sherlocking\|Sherlocked]], which is meant in the      |
 | 48:33      | best possible way, Simon, if you're listening to this. But it's great. It syncs using iCloud as        |
 | 48:38      | well. So you can have a database on all your devices. And this has been quite useful for me            |
 | 48:42      | because I've been able to store bits of information from things that have run on another device        |
 | 48:47      | and retrieve them on my iPhone when I'm out and about. So I'm really enjoying [[Data Jar]]. And I          |
 | 48:54      | suspect most people here will as well when it finally releases, which will hopefully be in the         |
-| 48:59      | not too distant future. And honestly, if [[Apple]] did Sherlock it, there's no way they would make it      |
+| 48:59      | not too distant future. And honestly, if [[Apple]] did [[Sherlocking\|Sherlock]] it, there's no way they would make it      |
 | 49:03      | as feature rich as [[Simon Støvring\|Simon]] has. So we'd still be using [[Data Jar]]. But yeah, what a great app.             |
 | 49:10      | Yes, it really is. So we mentioned iOS 14 earlier in the future, but I think it might be time to       |
 | 49:17      | get out our crystal balls, David, because it's March. And that means that [[WWDC\|WWDCs]] in a couple of         |

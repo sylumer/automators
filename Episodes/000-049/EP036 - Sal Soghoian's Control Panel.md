@@ -463,7 +463,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 28:34      | Sorry.                                                                                                   |
 | 28:35      | That's okay.                                                                                             |
 | 28:36      | But they're great folks and it's just another example.                                                   |
-| 28:39      | Some of these companies get Sherlock and they, for a lot of them, it just means that they                |
+| 28:39      | Some of these companies get [[Sherlocking\|Sherlocked]] and they, for a lot of them, it just means that they                |
 | 28:44      | make their product better.                                                                               |
 | 28:45      | I mean, they want it to be, you know, [[Apple]] does the basic functionality with Luna.                      |
 | 28:51      | Not only do they have the ability to use touch on your connected iPad, now they've added                 |

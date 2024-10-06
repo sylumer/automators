@@ -348,7 +348,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 18:43      | something you've been doing for years.                                                                  |
 | 18:45      | I played with it occasionally.                                                                          |
 | 18:46      | I haven't got it running, but I mean, this is an app that you have no worry about ever                  |
-| 18:50      | getting Sherlock because this is taking shortcuts to like entirely new levels and I can't imagine       |
+| 18:50      | getting [[Sherlocking\|Sherlocked]] because this is taking [[Shortcuts]] to like entirely new levels and I can't imagine       |
 | 18:57      | [[Apple]] ever like going down these rabbit holes, but it's awesome.                                        |
 | 19:01      | Yeah.                                                                                                   |
 | 19:02      | It seems unlikely that [[Apple]] are going to do this themselves, but it is pretty fun to,                  |

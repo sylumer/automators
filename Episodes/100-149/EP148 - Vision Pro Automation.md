@@ -370,7 +370,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 19:59      | And so you can then look at it and tap and, you know, you tap your index finger and your              |
 | 20:04      | thumb together and then you run, you know, a shortcut, which is something that, you know,             |
 | 20:08      | didn't exist natively in visionOS, but things like that, you know, I'm not hoping that Finn           |
-| 20:12      | gets Sherlocked at all, but at the same time, I feel like that's the sort of thing that               |
+| 20:12      | gets [[Sherlocking\|Sherlocked]] at all, but at the same time, I feel like that's the sort of thing that               |
 | 20:17      | should end up being built into the operating system.                                                  |
 | 20:20      | And you know, fingers crossed, Finn will find ways to enhance his application so that it              |
 | 20:25      | can continue being available to everybody.                                                            |

@@ -412,7 +412,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 21:54      | better than that.                                                                                       |
 | 21:56      | Switch to Amazon Pharmacy and save time, save money, and stay healthy.                                  |
 | 22:00      | Learn more at amazon.com/automators.                                                              |
-| 22:03      | That's AMAZON.com/automators.                                                                     |
+| 22:03      | That's amazon.com/automators.                                                                     |
 | 22:07      | Those average savings are based on usage and inside RX data as compared to cash prices.                 |
 | 22:13      | Average savings for all generics are 78%, 37% for selected brand medications, and restrictions          |
 | 22:20      | do apply.                                                                                               |
@@ -423,8 +423,8 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 22:36      | I mentioned this briefly on the show during [[WWDC]], but I feel like now that it's shipped                 |
 | 22:41      | we've got a much better idea of all the improvements to focus modes with iOS 16.                        |
 | 22:48      | Where do you want to start?                                                                             |
-| 22:50      | I want to start with the Sherlock Shortcuts Actions, which, to be clear, are still present              |
-| 22:54      | in shortcuts.                                                                                           |
+| 22:50      | I want to start with the [[Sehrlocking\|Sherlocked]] [[Shortcuts]] Actions, which, to be clear, are still present              |
+| 22:54      | in [[Shortcuts]].                                                                                           |
 | 22:55      | But I feel like the fact that [[Apple]] have taken what a lot of people were doing with shortcuts           |
 | 23:02      | related to the focus modes and brought that into the focus modes itself is, A, fabulous.                |
 | 23:09      | I'm really pleased to see that they're clearly making the use of this anonymous feedback                |

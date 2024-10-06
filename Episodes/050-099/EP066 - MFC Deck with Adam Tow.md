@@ -217,7 +217,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 05:58      | So, and that's where you want to upgrade                                           |
 | 06:01      | to something like launch cuts.                                                     |
 | 06:02      | And it's a great app,                                                              |
-| 06:04      | and I would argue it has not been Sherlock,                                        |
+| 06:04      | and I would argue it has not been [[Sherlocking\|Sherlocked]],                                        |
 | 06:07      | although some of its features                                                      |
 | 06:09      | have been incorporated into shortcuts.                                             |
 | 06:10      | And I think that's almost the best of both worlds.                                 |

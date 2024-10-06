@@ -923,7 +923,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 39:16      | I keep expecting to see an update note to [[Obsidian]]                                                 |
 | 39:19      | where there's going to be a checkbox,                                                              |
 | 39:21      | and this is a built-in thing.                                                                      |
-| 39:22      | I mean, this feels to me like one that is on the Sherlock list.                                    |
+| 39:22      | I mean, this feels to me like one that is on the [[Sherlocking\|Sherlock]] list.                                    |
 | 39:25      | I mean, how is that not already in?                                                                |
 | 39:27      | But that little plugin, I use it every day, and I love it.                                         |
 | 39:31      | Yeah, yeah, it just saves.                                                                         |
@@ -2148,7 +2148,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:20:13   | and it's like a                                                                                    |
 | 01:20:15   | graveyard of                                                                                       |
 | 01:20:17   | automations I've written that                                                                      |
-| 01:20:19   | then got Sherlocked by a plugin                                                                    |
+| 01:20:19   | then got [[Sherlocking\|Sherlocked]] by a plugin                                                                    |
 | 01:20:21   | like                                                                                               |
 | 01:20:23   | in fact if you look at the [[Obsidian]] forums                                                         |
 | 01:20:25   | I wrote a [[Keyboard Maestro]] script to create                                                        |

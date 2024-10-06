@@ -278,12 +278,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 13:11      | But yeah, as it is [[Apple Reminders\|Reminders]] and [[Safari]] in particular, lacking a bit behind, which is                |
 | 13:17      | a real shame.                                                                                        |
 | 13:18      | Yeah, but I remember talking to Alex about this and him telling me that he wanted to                 |
-| 13:23      | be Sherlocked.                                                                                       |
-| 13:24      | Like he's like, I celebrate when [[Apple]] Sherlocks me, meaning there's some action he developed        |
+| 13:23      | be [[Sherlocking\|Sherlocked]].                                                                                       |
+| 13:24      | Like he's like, I celebrate when [[Apple]] [[Sherlocking\|Sherlocks]] me, meaning there's some action he developed        |
 | 13:29      | for Toolbox Pro and someone in [[Apple]] saw it and said that's a good idea and they added               |
 | 13:33      | it to the native stuff.                                                                              |
 | 13:35      | And then he pulls it out of his app and he is constantly or was constantly finding new               |
-| 13:41      | stuff that hopefully [[Apple]] would Sherlock again in the future.                                       |
+| 13:41      | stuff that hopefully [[Apple]] would [[Sherlocking\|Sherlock]] again in the future.                                       |
 | 13:44      | I'm sure your team kind of has the same feeling about it.                                            |
 | 13:46      | Yeah, definitely.                                                                                    |
 | 13:48      | We're currently going through looking at all of the actions there, going, okay, well,                |
@@ -294,11 +294,11 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 14:06      | Yeah, I forgot about that.                                                                           |
 | 14:08      | Yeah, Alex told me the same thing.                                                                   |
 | 14:09      | He's like, I can't add anymore because they won't let me.                                            |
-| 14:14      | So now I need them to Sherlock me so I can take it off my list and put something new                 |
+| 14:14      | So now I need them to [[Sherlocking\|Sherlock]] me so I can take it off my list and put something new                 |
 | 14:18      | in the backend.                                                                                      |
 | 14:19      | Yes, exactly.                                                                                        |
 | 14:20      | But I think I suspect things like generate UUID and stuff, they're probably never going              |
-| 14:26      | to get Sherlocked, get colours as hex or get colours from this image and things like that.             |
+| 14:26      | to get [[Sherlocking\|Sherlocked]], get colours as hex or get colours from this image and things like that.             |
 | 14:30      | But getting your connection status and stuff like that, that's been just pulled into your            |
 | 14:37      | device, which is now a variable that just constantly exists in shortcuts when you go                 |
 | 14:41      | to insert a variable, then your device is just one of those things that's always there,              |
@@ -310,8 +310,8 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 15:01      | I want to get through more.                                                                          |
 | 15:02      | But before we go, so I've told you lately my favourites have been the [[Apple Reminders\|Reminders]] ones                  |
 | 15:07      | because I've been doing a lot of work with them.                                                     |
-| 15:08      | But honestly, my favourites in Toolbox Pro just usually whatever I've worked with last.               |
-| 15:13      | But what is your favourite set in Toolbox Pro, Rose?                                                  |
+| 15:08      | But honestly, my favourites in [[Toolbox Pro]] just usually whatever I've worked with last.               |
+| 15:13      | But what is your favourite set in [[Toolbox Pro]], Rose?                                                  |
 | 15:18      | So this is really difficult to pick because there's some things like scan the QR code                |
 | 15:25      | in this image or remove emoji from this text or take this thing out of this list, which              |
 | 15:31      | is just so difficult to do otherwise.                                                                |
@@ -529,7 +529,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 30:55      | you a list of shortcuts.                                                                             |
 | 30:56      | I feel like that's just something they won't do, you know?                                           |
 | 31:00      | I mean, that's one of the reasons why we added that feature as well, because we were like,           |
-| 31:03      | well, if we get Sherlock next year, we don't want people to feel like they paid a little             |
+| 31:03      | well, if we get [[Sherlocking\|Sherlock]] next year, we don't want people to feel like they paid a little             |
 | 31:07      | bit of money.                                                                                        |
 | 31:08      | We're not charging a huge amount for it, but we don't want people to feel like they paid             |
 | 31:11      | for something that now they're getting for free.                                                     |

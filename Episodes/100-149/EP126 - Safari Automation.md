@@ -603,7 +603,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 32:56      | And for over the years, I had got the habit of going into the URL bar, you know, and just          |
 | 33:02      | grabbing that text and saving it to OmniFocus with that built-in shortcut.                         |
 | 33:06      | But OmSave is so much better.                                                                      |
-| 33:10      | I mean, this is one that almost needs to be Sherlocked by the Omni Group.                           |
+| 33:10      | I mean, this is one that almost needs to be [[Sherlocking\|Sherlocked]] by the Omni Group.                           |
 | 33:14      | But it's a great little feature, and I'm with you 100% on that.                                    |
 | 33:19      | But there are more.                                                                                |
 | 33:20      | There are definitely more.                                                                         |
