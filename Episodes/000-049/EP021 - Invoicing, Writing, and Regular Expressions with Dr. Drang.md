@@ -1546,7 +1546,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:09:46   | So often, especially with a simplified programming environment     |
 | 01:09:50   | which Siri Shortcuts is,                                           |
 | 01:09:52   | you wanna be able to just paste them                               |
-| 01:09:54   | like in Keyboard Master all the time.                              |
+| 01:09:54   | like in [[Keyboard Maestro}] all the time.                              |
 | 01:09:56   | You get something figured out, Command C, Command V                |
 | 01:09:59   | and then suddenly you've duplicated at 17 times                    |
 | 01:10:02   | and it's great.                                                    |

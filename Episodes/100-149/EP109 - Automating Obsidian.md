@@ -1584,7 +1584,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:01:25   | with a make through the                                                                            |
 | 01:01:27   | box sync at the moment                                                                             |
 | 01:01:29   | that I have experimented a bit with                                                                |
-| 01:01:31   | keyboard master and shortcuts for this                                                             |
+| 01:01:31   | [[Keyboard Maestro}] and shortcuts for this                                                             |
 | 01:01:33   | I've just ended up using make because                                                              |
 | 01:01:35   | the data that triggers this is on the internet                                                     |
 | 01:01:37   | so it makes sense to use something                                                                 |

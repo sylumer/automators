@@ -596,7 +596,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 35:25      | the same box black hole or to the priority folder or whatever.                                           |
 | 35:30      | And I've just done a conflict pallet for MacSparky stuff, I hit Control M. And this is                  |
 | 35:38      | a feature that used to be in some of the third-party mail plugins where you could do this, but           |
-| 35:43      | I just wrote them as [[AppleScript\|AppleScripts]] and embedded them in Keyboard Master, so I don't have to              |
+| 35:43      | I just wrote them as [[AppleScript\|AppleScripts]] and embedded them in [[Keyboard Maestro}], so I don't have to              |
 | 35:48      | worry about losing the plug-in support.                                                                  |
 | 35:53      | But I've got a bunch of those, and they do have specific keyboard shortcuts, like I can                  |
 | 35:57      | hit Control 1 for a certain folder, Control 2, whatever.                                                 |

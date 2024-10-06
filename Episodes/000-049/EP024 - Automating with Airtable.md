@@ -68,7 +68,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 00:40      | We got some milk money out of it, and some really cool T-shirts and hoodies are heading              |
 | 00:44      | out.                                                                                                 |
 | 00:45      | Hopefully, we'll see you wearing them up at [[WWDC]] or wherever we bump into you.                       |
-| 00:50      | Also, I have released the Keyboard Master of Field Guide.                                            |
+| 00:50      | Also, I have released the [[Keyboard Maestro}] of Field Guide.                                            |
 | 00:54      | Hooray.                                                                                              |
 | 00:55      | Yes, and this has been coming for a while.                                                           |
 | 00:57      | We've been teasing it for quite a long time.                                                         |

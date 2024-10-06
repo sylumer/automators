@@ -662,7 +662,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 35:25      | Well, and that's the nice thing about Bunch is because it's a text file, you could easily            |
 | 35:29      | duplicate it and tweak it very quickly.                                                              |
 | 35:33      | And that is the reason why I'm really attracted to this for this purpose.                            |
-| 35:37      | I mean, Keyboard Master is still amazing app, but I still use it all the time, but I feel            |
+| 35:37      | I mean, [[Keyboard Maestro}] is still amazing app, but I still use it all the time, but I feel            |
 | 35:40      | like this might be a more efficient way for me to handle the setup issue.                            |
 | 35:45      | And I don't even need to pass a variable to Bunch.                                                   |
 | 35:48      | I just need to like, because for me kind of mission control for me is [[Obsidian]].                      |

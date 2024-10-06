@@ -361,10 +361,10 @@ Rose and David explain many little automations that can improve your quality of 
 | 24:08      | So, David, one of the things that we kind of touched on, slash, danced around in the                     |
 | 24:14      | window management segment was the workspace setup and getting applications open when we                  |
 | 24:21      | need them, and closing them when we don't need them, and things like that. And I know                    |
-| 24:27      | I'm using Keyboard Master for this. I'm guessing you're probably using Keyboard Master, too?             |
+| 24:27      | I'm using [[Keyboard Maestro}] for this. I'm guessing you're probably using [[Keyboard Maestro}], too?             |
 | 24:31      | Yeah. I mean, historically, that's been the whole thing. I did a video on YouTube on                     |
 | 24:35      | it a couple of years ago, and a lot of people have used that as a basis. And so, window                  |
-| 24:42      | setup with Keyboard Master, as I was saying, is possible. You can put it on. And the way                 |
+| 24:42      | setup with [[Keyboard Maestro}], as I was saying, is possible. You can put it on. And the way                 |
 | 24:48      | he did it, which I think is really actually pretty clever, is you set the window size                    |
 | 24:54      | based on a percentage of screen size, because if you're in an iMac and then you go over                  |
 | 24:58      | to a laptop, you know, if you set specific pixels, it's just going to be a mess, and                     |

@@ -311,7 +311,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 20:49      | of macros that I can, I can tap to run has been a game changer.                                      |
 | 20:53      | Well, I will say about that, though, is he opened my eyes about some of the [[AppleScript\|AppleScripts]]            |
 | 20:58      | to control system preferences and system events. And a bunch of those scripts, I've just basically   |
-| 21:04      | copied any keyboard master into a, into a palette. But yeah, that was probably one of                |
+| 21:04      | copied any [[Keyboard Maestro}] into a, into a palette. But yeah, that was probably one of                |
 | 21:10      | my favourite guests. And what about you? Any particular guest stand out for you as we get             |
 | 21:14      | through episode 50?                                                                                  |
 | 21:15      | I mean, it's, it's really hard to pick a favourite because I've loved everybody that                  |

@@ -339,7 +339,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 23:54      | or [[Bartender]], one of those apps. For me, that app is definitely [[Alfred]]. I mean,                          |
 | 24:00      | there's several apps, let's be honest. But [[Alfred]] is one of those that I feel like I really need it      |
 | 24:05      | to be actively, productively using my computer. Yeah, you know, I hear that once in a while              |
-| 24:13      | from pundits where they say, hey, I don't want things like [[Alfred]] or keyboard master on my               |
+| 24:13      | from pundits where they say, hey, I don't want things like [[Alfred]] or [[Keyboard Maestro}] on my               |
 | 24:18      | computer, because I want to be able to sit at any Mac and be able to run it the same,                    |
 | 24:22      | and I have to worry about that. And that argument is completely lost on me. I'm like,                    |
 | 24:28      | how often do you sit at some random computer and do work? I mean, the only computers I sit               |

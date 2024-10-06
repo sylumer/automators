@@ -1025,7 +1025,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 42:57      | I used to toy with the idea of creating an [[AppleScript]]                                   |
 | 43:01      | or a [[JavaScript]] with TextExpander to fix smart quotes                                   |
 | 43:06      | and I think, but I actually figured out a way                                            |
-| 43:09      | to do that with keyboard master that made more sense.                                    |
+| 43:09      | to do that with [[Keyboard Maestro}] that made more sense.                                    |
 | 43:12      | But there's just a lot you can do with this stuff                                        |
 | 43:15      | once you start getting into the automation,                                              |
 | 43:17      | and the way it works is rather than having a,                                            |

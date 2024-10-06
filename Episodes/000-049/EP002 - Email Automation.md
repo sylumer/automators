@@ -675,7 +675,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 50:55      | server, so that happens even before my Mac mini sees it. Gotcha. Okay. Well, it would work either                                     |
 | 51:00      | way, but you can go level deeper with this stuff if you roll your own. Yeah. The web-based email                                      |
 | 51:10      | composition, I don't do much of this to tell you the truth, but all the stuff we were talking about,                                  |
-| 51:15      | like auto-creating emails, a keyboard master workflow, that's available to a lesser extent                                            |
+| 51:15      | like auto-creating emails, a [[Keyboard Maestro}] workflow, that's available to a lesser extent                                            |
 | 51:22      | through services like [[IFTTT]], if this than that, or [[Zapier]]. I feel like in order to get the most out                           |
 | 51:29      | of [[IFTTT]] with email, you really need to be on a Gmail account. The [[IMAP]] tools are very limited,                               |
 | 51:36      | whereas Gmail gives them information about the sender and contents. So you can get a lot more                                         |

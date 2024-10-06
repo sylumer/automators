@@ -962,7 +962,7 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:19:04   | Definitely. Yeah. I agree. I think that's something that could get better. Overall,                      |
 | 01:19:13   | I'm really happy with the, especially on the Mac, the number of different ways we can automate.          |
 | 01:19:19   | It's crazy. And they all kind of serve a different purpose. I guess we should have                       |
-| 01:19:24   | mentioned Rose at the beginning of the show. Keyboard Master has a new version out, guys.                |
+| 01:19:24   | mentioned Rose at the beginning of the show. [[Keyboard Maestro}] has a new version out, guys.                |
 | 01:19:30   | Yeah. Yeah. We're going to dive into that at some point in the not too distant future.                   |
 | 01:19:33   | Yeah. We're going to give it an episode, but it looks really good. But I mean,                           |
 | 01:19:38   | you've got stuff like [[Keyboard Maestro]] and [[AppleScript]] and [[JavaScript]], but you've also got                |

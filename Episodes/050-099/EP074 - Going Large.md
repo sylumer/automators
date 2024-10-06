@@ -1025,7 +1025,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:21:20   | or ask everybody to unmute and things like that. And also for leaving the meeting, though                 |
 | 01:21:25   | pro tip, you can also just do that with command w. And if you if you leave the meeting or want            |
 | 01:21:32   | to end the meeting, that works too. So, you know, that that's another way of doing it.                    |
-| 01:21:38   | But the beauty of this is people won't need to sit out there and keyboard master macros                   |
+| 01:21:38   | But the beauty of this is people won't need to sit out there and [[Keyboard Maestro}] macros                   |
 | 01:21:42   | and things like that. And if something changes, then the person behind this plugin is going               |
 | 01:21:45   | to go ahead and do it. And of course, this has got icons automatically associated with                    |
 | 01:21:49   | it. Whereas if you do everything with the KM link plugin, you're going to want to change                  |

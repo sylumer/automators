@@ -728,7 +728,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 56:07      | what I use on iOS and that's it. But I don't do a lot of work other than just writing, for example,     |
 | 56:13      | and bear. So I don't know what to automate over there. Well, sounds like you don't need it, but         |
 | 56:19      | the... I mean, all of those home kit things that you were talking about, including in                   |
-| 56:23      | My Keyboard Master and so on, you could chain those together as a series of actions in a shortcut.      |
+| 56:23      | My [[Keyboard Maestro}] and so on, you could chain those together as a series of actions in a shortcut.      |
 | 56:28      | And that could be useful. There are also home kit shortcuts. And I was just saying just now             |
 | 56:34      | that home kit shortcuts don't have the ability to send a notification because it runs on a              |
 | 56:38      | HomePod. It doesn't know who owns the shortcut. But what it could do is, for example, at sunset        |

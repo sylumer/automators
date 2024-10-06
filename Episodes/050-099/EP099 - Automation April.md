@@ -1127,7 +1127,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:24:02   | folders, which is not fun. I don't love it, but it also works. So I'm okay with it. But               |
 | 01:24:11   | it's, it's tricky.                                                                                    |
 | 01:24:12   | Yeah, that's the way I've solved it is I'm just generally running, still running them                 |
-| 01:24:17   | from keyboard master on my Mac. And then when I'm on, I generally run them with shortcuts             |
+| 01:24:17   | from [[Keyboard Maestro}] on my Mac. And then when I'm on, I generally run them with shortcuts             |
 | 01:24:22   | on my iPhone and that they all work there. And yeah, it just takes a minute. Another                  |
 | 01:24:27   | thing I'm doing in [[Obsidian]] is data view filters, you know, you can filter on different               |
 | 01:24:33   | methods. And like, one of the things I keep, Federico had talked about how he has like                |

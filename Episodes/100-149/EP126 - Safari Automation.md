@@ -1125,7 +1125,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:06:43   | actively say for later into my, move them back to my regular basket and then used a                |
 | 01:06:47   | little, uh, bookmarklet to get rid of all of the things from my safe for later section.            |
 | 01:06:52   | And that solved that problem very nicely.                                                          |
-| 01:06:54   | And we talk about the find and click on image feature and keyboard master every two or three       |
+| 01:06:54   | And we talk about the find and click on image feature and [[Keyboard Maestro}] every two or three       |
 | 01:06:59   | shows here because it's just such a, an excellent automation tool, but it really is the tool       |
 | 01:07:05   | of last resort because when you're asking the computer to find an image on the screen              |
 | 01:07:11   | and click it automatically, there, there's always things that can go wrong.                        |

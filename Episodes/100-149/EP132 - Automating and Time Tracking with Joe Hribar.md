@@ -436,7 +436,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 28:55      | some of those users really want and would not switch to the app, despite it otherwise                |
 | 29:02      | being perfect without it. This is one of the things I find with many of my apps, something           |
 | 29:08      | cool and new and shiny comes along and I look at it and I go, cool, where's the API? Shortcut        |
-| 29:13      | support? [[AppleScript]]? Command line? Anything? Because if I have to resort to keyboard masters,      |
+| 29:13      | support? [[AppleScript]]? Command line? Anything? Because if I have to resort to [[Keyboard Maestro}]s,      |
 | 29:22      | click an image to do something, it's a workaround, but I'm not going to do that with a tool that     |
 | 29:27      | I'm using every single day.                                                                          |
 | 29:28      | That makes a lot of sense.                                                                           |
