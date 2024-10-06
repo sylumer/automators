@@ -562,9 +562,9 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 30:55      | they've made an improvement there. And fingers crossed, it will soon be rolling out to all                |
 | 31:01      | of the other apps as well.                                                                                |
 | 31:03      | Yeah. And the Mac thing I had solved a long time ago with the shortcut, I'm sorry, with                   |
-| 31:08      | the AppleScript embedded in a shortcut step, but now it's a little more complicated because              |
+| 31:08      | the [[AppleScript]] embedded in a shortcut step, but now it's a little more complicated because              |
 | 31:12      | now if I want to put it on a single shortcut, it needs to know a platform I am on whether                 |
-| 31:18      | or not it runs an action or an AppleScript. But also, it's definitely the right direction.               |
+| 31:18      | or not it runs an action or an [[AppleScript]]. But also, it's definitely the right direction.               |
 | 31:25      | And this whole thing with a new API, it looks to me like it's going to make it a lot easier               |
 | 31:31      | for people to add shortcuts. I was talking to Marco Arment about this up at [[WWDC]] and                      |
 | 31:37      | he had done some preliminary look at the new API and he said, it took away a lot of the                   |
@@ -622,7 +622,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 35:56      | put at the plasterboard, they're skimming the walls type thing, because we got shortcut                   |
 | 36:00      | support for tab groups in [[Safari]], David. Tab groups in [[Safari]] have shortcut support.                      |
 | 36:05      | I am unbelievably ridiculously excited by this. Because again, this is something that                     |
-| 36:11      | we always get asked by people, how do I access a tab group in shortcuts and AppleScript                  |
+| 36:11      | we always get asked by people, how do I access a tab group in shortcuts and [[AppleScript]]                  |
 | 36:16      | and through [[Keyboard Maestro]] and [[Hazel]] and things like that. And the answer was, sorry,                   |
 | 36:21      | not. And the answer now is you can use shortcuts for that, which is great. So you can open                |
 | 36:28      | a tab group, and you can add a tab to a tab group, and you can create a tab group. And                    |

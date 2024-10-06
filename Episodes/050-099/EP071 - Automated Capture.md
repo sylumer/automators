@@ -1112,7 +1112,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:11:26   | Now this isn't automated, which is unfortunate, but it does mean that every time you're processing       |
 | 01:11:32   | an email, you do that, and then you know that the mail window has got that, you know, for                |
 | 01:11:38   | the right person.                                                                                        |
-| 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an AppleScript                     |
+| 01:11:39   | Now I am 100% certain that with the right Google Foo, you could find an [[AppleScript]]                     |
 | 01:11:45   | that will do this for you, and assign it to say, and either you could use [[FastScripts]],                  |
 | 01:11:50   | they've sponsored the show before, they would be a great way to do this, to assign a keyboard            |
 | 01:11:53   | shortcut to it, or you could, you know, paste it into an automated direction as well for                 |
@@ -1154,15 +1154,15 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:14:07   | However, in this particular case, [[Keyboard Maestro]] can't do this.                                        |
 | 01:14:11   | And [[Keyboard Maestro]] doesn't have as many options available to it as Automator does.                     |
 | 01:14:16   | It's only got two macros or two actions, whereas Automator has several.                                  |
-| 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at AppleScript                     |
+| 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at [[AppleScript]]                     |
 | 01:14:27   | pretty much, and that is going to be, you know, your process.                                            |
 | 01:14:33   | Now you could probably use [[Keyboard Maestro\|Keyboard Maestro's]] click-it image to find the drop-down arrow                 |
 | 01:14:42   | next to the person in the to field and click that, and then click search for person.                     |
 | 01:14:51   | But I think that's going to be a pretty hacky way of doing it.                                           |
-| 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |
+| 01:14:54   | So I would recommend sticking to it manually unless you can find an [[AppleScript]] that solves              |
 | 01:14:57   | the problem.                                                                                             |
 | 01:14:58   | I'll put a link in the show notes.                                                                       |
-| 01:14:59   | I made an AppleScript for [[Apple Mail]] that grabs the name of the person in the to field                   |
+| 01:14:59   | I made an [[AppleScript]] for [[Apple Mail]] that grabs the name of the person in the to field                   |
 | 01:15:05   | and then creates the salutation.                                                                         |
 | 01:15:07   | But you don't need the second part, but if you're doing a search, grabbing the name from                 |
 | 01:15:11   | the to field could be helpful.                                                                           |
@@ -1175,10 +1175,10 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:15:44   | in my contacts, though I would hope if you're sending people email, then they're in your                 |
 | 01:15:48   | contacts.                                                                                                |
 | 01:15:49   | Yeah, [[Apple Mail]], it's so often there's so many things about it to like as an automator                  |
-| 01:15:55   | that it's addressable by AppleScript, but it's so wonky.                                                 |
-| 01:15:59   | I mean, just like I was writing an AppleScript where I wanted to get the to field and I needed           |
+| 01:15:55   | that it's addressable by [[AppleScript]], but it's so wonky.                                                 |
+| 01:15:59   | I mean, just like I was writing an [[AppleScript]] where I wanted to get the to field and I needed           |
 | 01:16:05   | to make it plural.                                                                                       |
-| 01:16:06   | I mean, it's just like weird, weird stuff, like whoever was like making the AppleScript                  |
+| 01:16:06   | I mean, it's just like weird, weird stuff, like whoever was like making the [[AppleScript]]                  |
 | 01:16:12   | commands that day had a bad day or maybe it was drinking, I'm not sure what happened                     |
 | 01:16:17   | there because nothing is consistent, but you've really got to kind of dig into the code to               |
 | 01:16:22   | figure that out.                                                                                         |

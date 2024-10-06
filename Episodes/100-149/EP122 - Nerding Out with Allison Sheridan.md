@@ -486,7 +486,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 33:43      | Okay. As a challenge to you and to the audience, I want you to open up a PNG that has the Alpha         |
 | 33:51      | channel checked. I open it in preview and uncheck that checkbox and get it to work 20 times in a        |
 | 34:00      | row, like across two days. So what I would do with that, what I would do with the way I'd solve         |
-| 34:06      | that problem is I would find the AppleScript dictionary for preview and see if I could just            |
+| 34:06      | that problem is I would find the [[AppleScript]] dictionary for preview and see if I could just            |
 | 34:10      | script it. Well, I did one better than that. I run image magic from [[Homebrew]] and I just did             |
 | 34:19      | a one line script and I shoved that inside [[Keyboard Maestro]] so I can hit a button and have it           |
 | 34:25      | remove the Alpha channel for me. Yeah. I mean, that's way better than UI scripting,                     |
@@ -495,34 +495,34 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 34:41      | automation that isn't quite working right, like obviously doing the basic steps of how I actually       |
 | 34:47      | got a screenshot of the right image and so on is worth checking. But sometimes that is a signal         |
 | 34:51      | that this is not necessarily the right way to automate this. But with some applications,                |
-| 34:55      | there is just no way to automate it because they don't come with an AppleScript dictionary. There      |
+| 34:55      | there is just no way to automate it because they don't come with an [[AppleScript]] dictionary. There      |
 | 35:00      | are no shortcut sections. There is no API. There is nothing that you can do other than try and          |
 | 35:06      | find this image on the page, please and click it. Yeah. I'm also trying not to learn a lot about        |
 | 35:12      | [[AppleScript]] just because I'm afraid it's going to be taken away from me. So I'm leaning away           |
 | 35:18      | from spending my energy and time on that and doing more towards shell scripting.                        |
-| 35:23      | I think that's probably a good idea in general, but I don't think AppleScript is going to be           |
-| 35:28      | taken away from you. I think the problem with AppleScript, it only works on your Mac. And if           |
-| 35:32      | you start to want to run stuff on your iPad and your iPhone, AppleScript doesn't help you. But         |
-| 35:36      | I think the way I understand it, AppleScript is so embedded into the Mac OS that it would take         |
+| 35:23      | I think that's probably a good idea in general, but I don't think [[AppleScript]] is going to be           |
+| 35:28      | taken away from you. I think the problem with [[AppleScript]], it only works on your Mac. And if           |
+| 35:32      | you start to want to run stuff on your iPad and your iPhone, [[AppleScript]] doesn't help you. But         |
+| 35:36      | I think the way I understand it, [[AppleScript]] is so embedded into the Mac OS that it would take         |
 | 35:44      | time and effort to remove it. And they're not going to spend money to remove it. And also,              |
-| 35:51      | they have customers that buy a lot of Macs that do workflows that still use AppleScript. [[Apple]]         |
+| 35:51      | they have customers that buy a lot of Macs that do workflows that still use [[AppleScript]]. [[Apple]]         |
 | 35:56      | uses [[AppleScript\|AppleScripts]] to run their stuff. So I think it's not going to go away. And honestly, a lot        |
 | 36:01      | of times it's the quickest, fastest solution. This week, because my [[Stream Deck]] I'm putting it on,      |
 | 36:09      | I've been trying to [[BetterTouchTool]], I want to turn volume up and down in [[Apple Music]]                 |
-| 36:14      | without changing the volume of my Mac. And I just opened AppleScript. I looked at the music            |
-| 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line AppleScript            |
+| 36:14      | without changing the volume of my Mac. And I just opened [[AppleScript]]. I looked at the music            |
+| 36:19      | dictionary, the command for volume up is real simple. I wrote like a three line [[AppleScript]]            |
 | 36:24      | that turns the volume up and down. And I attached it to buttons on my [[Stream Deck]]. And maybe I          |
 | 36:30      | could have found a scripting solution that did that. But it's just so easy. You should have a           |
-| 36:36      | little working knowledge of AppleScript, I guess is what I'm saying. Yeah, it's one of those things    |
+| 36:36      | little working knowledge of [[AppleScript]], I guess is what I'm saying. Yeah, it's one of those things    |
 | 36:40      | where often if you Google how to solve this thing on the Mac, there'll be a little bit of [[AppleScript]]         |
 | 36:43      | somewhere, which worst case scenario, like goes through like system events to like click         |
-| 36:48      | at specific things. But yeah, I will absolutely go plagiarise an AppleScript. I'm not above that       |
+| 36:48      | at specific things. But yeah, I will absolutely go plagiarise an [[AppleScript]]. I'm not above that       |
 | 36:55      | going out and saying, okay, somebody's already written it. I'm going to splat it in there and           |
 | 36:59      | see if it does what I wanted to do. But I'm not going to invest as much time as I am. And like          |
-| 37:03      | I said, in learning AppleScripts, yeah, learning shell scripts, I meant.                               |
+| 37:03      | I said, in learning [[AppleScript\|AppleScripts]], yeah, learning shell scripts, I meant.                               |
 | 37:08      | Yeah. And what I would add to that is also in addition to being able to go pull a script                |
 | 37:12      | off the internet is I would with your level of knowledge, you should just learn a basic                 |
-| 37:17      | understanding of how dictionaries work in AppleScript. I spent a bunch of time on that, David.         |
+| 37:17      | understanding of how dictionaries work in [[AppleScript]]. I spent a bunch of time on that, David.         |
 | 37:21      | And I just life's too short. I'm learning other things. Okay. All right. Well, speaking of other        |
 | 37:27      | things, you mentioned Alison that you're using image magic through brew to fix the alpha channel        |
 | 37:33      | problem with the image. There is another solution to this problem, which I'd like to recommend for      |

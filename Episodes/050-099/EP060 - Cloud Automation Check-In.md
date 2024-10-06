@@ -1223,7 +1223,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 01:09:03   | The primary thing I've been doing with Hook is using it for file links and also email links.                 |
 | 01:09:09   | But I can do email links also with an [[AppleScript]], but actually it's faster for me to                       |
 | 01:09:14   | do it with Hook.                                                                                             |
-| 01:09:15   | And I rewrote the AppleScript in Hook to allow me to use an AppleScript message link                       |
+| 01:09:15   | And I rewrote the [[AppleScript]] in Hook to allow me to use an [[AppleScript]] message link                       |
 | 01:09:20   | as opposed to the Hook link.                                                                                 |
 | 01:09:22   | So it's not proprietary, and I can open it on iPad.                                                          |
 | 01:09:24   | But I'm rambling.                                                                                            |

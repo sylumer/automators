@@ -529,7 +529,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 41:29      | context switching is like the way to use a [[Stream Deck]], but I like to colour coordinate my stuff.         |
 | 41:34      | So I was wondering, first of all, David, what colour are you using as your accent colour on                |
 | 41:40      | macOS right now? And then secondly, can we automate changing this? Because this is going                 |
-| 41:45      | to be a fun challenge. Yeah, I very I like orange, I like gray. But when you told me your idea of        |
+| 41:45      | to be a fun challenge. Yeah, I very I like orange, I like grey. But when you told me your idea of        |
 | 41:51      | saying when I'm switching context, I want my highlight colours to change, that immediately                |
 | 41:56      | pushed some buttons in my nerd brain that are like, yes, yes, I want that now. So immediately,           |
 | 42:03      | when you asked me the question, my first go to was a stopover [[Keyboard Maestro]] [[Keyboard Maestro]]          |
@@ -539,19 +539,19 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 42:26      | So you and I started talking about this before we started recording the show. And then immediately,      |
 | 42:31      | you know, once we realised [[Keyboard Maestro]] will not solve this problem, the obvious answer was,         |
 | 42:36      | I'm sure [[AppleScript]] has a way to do it. So we started digging and both of us found two different       |
-| 42:42      | AppleScripts methods to to make this switch. Yeah, so I actually found a really nice one liner          |
+| 42:42      | [[AppleScript]] methods to to make this switch. Yeah, so I actually found a really nice one liner          |
 | 42:50      | that almost perfectly works. But this only changes the highlight colour. So for people not familiar,      |
 | 42:55      | a macOS has an accent colour and a highlight colour that you can set. Now the accent colour is used         |
 | 43:00      | for things like the arrows of drop-downs. And the highlight colour is shown when you actually              |
 | 43:04      | highlight something. So by default, it's blue. And both of those are blue by default, but you can        |
-| 43:10      | change them. And I found a one line AppleScript that I'm going to read to people here, because          |
+| 43:10      | change them. And I found a one line [[AppleScript]] that I'm going to read to people here, because          |
 | 43:14      | I think you're going to be pretty impressed at how short this [[AppleScript]] is. It's `tell application`     |
 | 43:20      | `system events to tell Apple`, sorry, `tell application system events to tell appearance`                    |
 | 43:26      | `preferences to set highlight colour to green`. That's it. That's the entire [[AppleScript]] for               |
 | 43:32      | changing the highlight colour. Unfortunately, changing the accent colours David and I discovered           |
 | 43:37      | proved to be a little more complicated. Yeah, it just doesn't address itself to that. And                |
 | 43:43      | instead, what you have to do is you have to you have to address the specific system event box.           |
-| 43:50      | So we've got an AppleScript that will open up. And in full credit, I got started on this journey        |
+| 43:50      | So we've got an [[AppleScript]] that will open up. And in full credit, I got started on this journey        |
 | 43:58      | over at [Stack Exchange](https://stackexchange.com/), somebody had started something on this. So we'll put a link for that             |
 | 44:02      | in as well. But the script we ended up with is great because it addresses the system event box.          |
 | 44:10      | So the actual preference will show up on the screen for an instant when you run it, which                |
@@ -586,7 +586,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 46:45      | You can even toggle light and dark mode, of course. Personally, I don't know about you, David,           |
 | 46:51      | but I'm liking the Mac OS Catalina option, where it will just change automatically at sunset.            |
 | 46:56      | So mine is literally about to change as we record this right now. It's pretty cool.                      |
-| 47:02      | Yeah, there's definitely an AppleScript way to change the wallpaper                                     |
+| 47:02      | Yeah, there's definitely an [[AppleScript]] way to change the wallpaper                                     |
 | 47:06      | back in the background. And I'll have to look into it further, but Keyboard                              |
 | 47:10      | Maestro from my five second attempt doesn't look like it does that, but it may do that as well.          |
 | 47:16      | But I love that idea. It's like, so you could automate when you press a button on your [[Stream Deck]]       |
@@ -622,10 +622,10 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 49:54      | dock you have that little bit of space. That's assuming that you have your window set to as              |
 | 50:01      | much of the screen as possible. Well, I think it's a good idea, man, to try and automate the way         |
 | 50:09      | your computer looks based on different types of work you're doing. I think that we've solved the         |
-| 50:15      | mystery here with this AppleScript. We'll put it in the show notes in one way or another.               |
+| 50:15      | mystery here with this [[AppleScript]]. We'll put it in the show notes in one way or another.               |
 | 50:21      | Maybe I'll just put together a [[Keyboard Maestro]] script on it and we'll share that in the show            |
 | 50:26      | notes so you can just download it and it's already loaded up and ready to go. To change it, all you      |
-| 50:31      | do because it's AppleScript is very easy. If you want dark mode or light mode, wherever it says         |
+| 50:31      | do because it's [[AppleScript]] is very easy. If you want dark mode or light mode, wherever it says         |
 | 50:35      | dark, you change it to light. If you want to make it whatever colour you want, you just have to change    |
 | 50:41      | the colours. If it's red, change it to blue. A couple things we learned in our experimentation.           |
 | 50:47      | There is no gray, but there is a graphite. Yes. That threw me for a while because I was                  |
@@ -655,7 +655,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 52:56      | Yeah. And when we run it and we type pink, it works. So yeah, that's it. We'll have to reach             |
 | 53:02      | out. Maybe if Sal, if you're listening, let us know. Here's a guy. He probably knows.                    |
 | 53:08      | Maybe it was a joke. Maybe Sal just doesn't like pink and decided to leave it out,                       |
-| 53:13      | you know, when he was doing it. So if anybody is on the AppleScript team and has a way to fix           |
+| 53:13      | you know, when he was doing it. So if anybody is on the [[AppleScript]] team and has a way to fix           |
 | 53:19      | that, please give me a fix on the highlight colours and let me set pink and also let me set               |
 | 53:24      | accent colours the same way because that would be pretty cool, but you can't set accent colours so         |
 | 53:28      | quickly, unfortunately. Yeah, it would be nice to get the accent colours with a one line script as        |
@@ -663,21 +663,21 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 53:38      | it does everything. It does the light versus dark mode highlight and accent colour all in one go.         |
 | 53:45      | So that's kind of nice. Yes. And it's very easy to take a look at it. I mean, it just says, you          |
 | 53:49      | know, like click this checkbox and set it to that colour because it turns out single selects in           |
-| 53:57      | AppleScript are actually checkboxes. So this tells you actually how to script a user interface          |
+| 53:57      | [[AppleScript]] are actually checkboxes. So this tells you actually how to script a user interface          |
 | 54:02      | where something doesn't have the explicit ability to say, hey, set the accent colour of Mac OS to         |
 | 54:06      | purple. You know, you click a specific checkbox, which is the single choice list there in its            |
 | 54:14      | very specific area. And that's a pretty cool thing to learn because that'll help you a lot with          |
-| 54:19      | with applications who are unfortunately not so scriptable in AppleScript. And also, I think             |
+| 54:19      | with applications who are unfortunately not so scriptable in [[AppleScript]]. And also, I think             |
 | 54:24      | if you want to automate any of the system settings, this is going to be all you need. I mean, once       |
-| 54:30      | you figure this out, you can do almost anything in your system settings with an AppleScript.            |
+| 54:30      | you figure this out, you can do almost anything in your system settings with an [[AppleScript]].            |
 | 54:35      | Yeah, absolutely. Okay, so we'll put that one in and everybody download it. So we'll I'll put it         |
-| 54:42      | in as a [[Keyboard Maestro]] script, but we'll also put in the AppleScript file and a link to the           |
+| 54:42      | in as a [[Keyboard Maestro]] script, but we'll also put in the [[AppleScript]] file and a link to the           |
 | 54:48      | source link we got on this stuff. So you guys can play with it. Let us know what you do with it.         |
 | 54:53      | I'm sure there'll be some interesting uses. I can tell you I'm going to be implementing this with        |
 | 54:58      | my setups on my on my [[Stream Deck]]. So like when I go into email mode, I think I'm feeling blue           |
 | 55:05      | for email. But for recording screencasts, I'm feeling graphite. So it just depends on, you know,         |
 | 55:12      | I like the idea of being able to set the whole system around the current context. So that's              |
-| 55:17      | what I'm going to be doing. I'll be dropping this AppleScript into a bunch of setup scripts.            |
+| 55:17      | what I'm going to be doing. I'll be dropping this [[AppleScript]] into a bunch of setup scripts.            |
 | 55:20      | I will be doing the same thing. Unfortunately, my [[Stream Deck]] is back in Austria. So I'm just            |
 | 55:24      | building the [[Keyboard Maestro]] macros right now and I'm using that on screen palette with keyboard        |
 | 55:28      | maestro, which is pretty cool. But every self done it annoys me a little bit. And so I end up closing    |
@@ -816,5 +816,5 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:07:14   | can find us over at relay.fm/automators. You can find the forum over at talk.automators.fm.        |
 | 01:07:21   | Let us know what you want to do. Ask the automators there. We're going to start                          |
 | 01:07:24   | doing that on future episodes. It's kind of fun getting little puzzles and trying to solve them.         |
-| 01:07:29   | You'll find a bunch of stuff in the show notes today, including all those AppleScripts we talked        |
+| 01:07:29   | You'll find a bunch of stuff in the show notes today, including all those [[AppleScript\|AppleScripts]] we talked        |
 | 01:07:32   | about. We'll see you next time. Yeah. See you in two weeks, everybody.                                   |

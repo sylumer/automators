@@ -978,7 +978,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 58:59      | be really useful for me.                                                                             |
 | 59:01      | Yeah.                                                                                                |
 | 59:02      | That would easy.                                                                                     |
-| 59:03      | I mean, we've got the little hack we do with the AppleScript, right?                                |
+| 59:03      | I mean, we've got the little hack we do with the [[AppleScript]], right?                                |
 | 59:07      | And that's the one...                                                                                |
 | 59:08      | Well, yeah, executing [[Moom]] is fine.                                                                  |
 | 59:09      | It's just creating, like saving a window layout.                                                     |

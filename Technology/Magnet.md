@@ -19,7 +19,7 @@ Magnet is a utility that helps users manage their workspace by snapping windows 
 
 # Notes
 - Magnet is a paid for application
-- Supports automation integration via AppleScript
+- Supports automation integration via [[AppleScript]]
 
 # Links
 - [Magnet Website](https://magnet.crowdcafe.com)

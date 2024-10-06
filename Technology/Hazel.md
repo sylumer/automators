@@ -16,7 +16,7 @@ Hazel is an application for macOS that automates file organisation and managemen
 - Move or copy files to designated locations
 - Rename files using custom criteria
 - Filter files based on file types, tags, dates, and more
-- Run AppleScripts and [[Automator]] workflows alongside Hazel rules
+- Run [[AppleScript\|AppleScripts]] and [[Automator]] workflows alongside Hazel rules
 - Rule preview
 
 # Notes  

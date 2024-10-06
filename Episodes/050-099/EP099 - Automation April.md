@@ -462,8 +462,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 25:42      | So there's an argument there, I guess, where finder actions, they should become compatible            |
 | 25:49      | with files or find windows, why is it not supported on iPad?                                          |
 | 25:55      | So I guess the problem, if I were at [[Apple]], I would say, how can we make sure that all                |
-| 26:00      | these actions, with some exceptions, because I mean, AppleScript, does [[Apple]] really want             |
-| 26:06      | to run AppleScript on iPad OS?                                                                       |
+| 26:00      | these actions, with some exceptions, because I mean, [[AppleScript]], does [[Apple]] really want             |
+| 26:06      | to run [[AppleScript]] on iPad OS?                                                                       |
 | 26:08      | Probably not.                                                                                         |
 | 26:09      | So I would try as much as possible to trim the list of these exceptions and make all actions          |
 | 26:18      | compatible cross-platform.                                                                            |
@@ -556,7 +556,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 31:51      | it's not there on the Mac.                                                                            |
 | 31:52      | And I know that there are many ways that you can trigger shortcuts actions or shortcuts               |
 | 31:57      | on the Mac from a number of different things, but I think for your less technical user,               |
-| 32:03      | the idea of having to use something like [[Keyboard Maestro]] or an AppleScript or something to          |
+| 32:03      | the idea of having to use something like [[Keyboard Maestro]] or an [[AppleScript]] or something to          |
 | 32:07      | trigger a shortcut to run automatically is a step too far where they're just not even                 |
 | 32:14      | going to try.                                                                                         |
 | 32:15      | You try and tell somebody what a cron job is and they're just going to run away screaming             |
@@ -612,21 +612,21 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 37:00      | because it was saying you're trying to place a window for this application on the right               |
 | 37:05      | side. But this application is not actually open. You have to find the app first. Yeah.                |
 | 37:10      | Exactly. So for that potential problem, I added a shell script action that uses the                   |
-| 37:20      | OSA script command. So it's like a basically AppleScript from the shell that activates               |
+| 37:20      | OSA script command. So it's like a basically [[AppleScript]] from the shell that activates               |
 | 37:25      | the application. First, if it's not finding any window belonging to that application uses             |
 | 37:32      | the shell to fall back and say, okay, this app is not running, activate the app, wait                 |
 | 37:38      | two seconds, and then try again. So even though even if the app is not running, the shortcut          |
 | 37:45      | takes care of opening the app for me, wait a couple of seconds and try again to create                |
 | 37:50      | the [[Split View]]. And it works pretty nicely.                                                           |
-| 37:53      | Is there a particular reason why you're using the shell to call AppleScript for that rather          |
-| 37:57      | than just using an AppleScript command directly?                                                     |
+| 37:53      | Is there a particular reason why you're using the shell to call [[AppleScript]] for that rather          |
+| 37:57      | than just using an [[AppleScript]] command directly?                                                     |
 | 38:01      | Because yeah, also a very good question because for whatever reason, in 12.3, I couldn't put          |
-| 38:08      | variables in the AppleScript. I think it's because [[Apple]] wants to validate the code of               |
-| 38:14      | the AppleScript before it runs. Like you have the little hammer icon that sort of checks             |
+| 38:08      | variables in the [[AppleScript]]. I think it's because [[Apple]] wants to validate the code of               |
+| 38:14      | the [[AppleScript]] before it runs. Like you have the little hammer icon that sort of checks             |
 | 38:20      | your code. And I guess that code cannot be dynamic. It cannot have variables. I guess                 |
 | 38:26      | they don't care with the shell because you can put variables in the shell. So the name                |
 | 38:31      | of the app that I want to launch is a text variable. And that's why I'm using also script             |
-| 38:36      | with the shell instead of proper AppleScript.                                                        |
+| 38:36      | with the shell instead of proper [[AppleScript]].                                                        |
 | 38:39      | That makes perfect sense.                                                                             |
 | 38:41      | Yeah. So this is nice. And lastly, another one that John knows about this one. I was                  |
 | 38:49      | trying to use, so I don't know if you guys know, there's an incredible emulator for                   |
@@ -719,8 +719,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 46:42      | Mac that incorporate shortcuts. So that's really a breath of fresh air. But I'm doing                 |
 | 46:48      | a lot of the things that as Federico said, I'm doing triggering keyboard shortcuts. That's            |
 | 46:54      | something that you just don't have. And it's very explicitly not allowed because you can,             |
-| 47:00      | if you try to do it with AppleScript, you'll get an error that says that you can't send              |
-| 47:04      | keystrokes with AppleScript using shortcuts. So I always fall back with [[BetterTouchTool]]            |
+| 47:00      | if you try to do it with [[AppleScript]], you'll get an error that says that you can't send              |
+| 47:04      | keystrokes with [[AppleScript]] using shortcuts. So I always fall back with [[BetterTouchTool]]            |
 | 47:11      | on that because even sometimes when I'm trying to trigger a shortcut, you can obviously create        |
 | 47:18      | your own keyboard shortcuts in the shortcuts app itself. However, I found at least early,             |
 | 47:26      | in the first releases of Monterey, the [[BetterTouchTool]] implementation of that actually              |
@@ -938,7 +938,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:09:52   | now legendary for your prowess with shortcuts, but you had to start somewhere. Where was              |
 | 01:09:57   | the first thing you ever automated on one of your computers or devices?                               |
 | 01:10:02   | Man, probably Launch Center Pro, I think, back in the days of [[URL Schemes]], it was probably            |
-| 01:10:12   | like, well, no, no, it was AppleScript. Before I was a primarily iPhone and iPad user, I              |
+| 01:10:12   | like, well, no, no, it was [[AppleScript]]. Before I was a primarily iPhone and iPad user, I              |
 | 01:10:23   | realised, I don't know, I've always been into like, customising things and modifying things           |
 | 01:10:28   | to make them more personalised and better for me. I've always been a tinkerer with computers.         |
 | 01:10:36   | And I don't know how exactly, but it must have been one of [[Brett Terpstra\|Brett Terpstra's]] old [[AppleScript\|AppleScripts]]                 |

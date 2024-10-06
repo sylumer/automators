@@ -667,7 +667,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 51:17      | [[Angular]], [[AngularJS]], [[React]], all of the different options, there's so much going on that it's               |
 | 51:23      | impossible to know everything. Yeah. And that describes 99% of people who write [[AppleScript]],             |
 | 51:29      | honestly. You know, you got like salsa going in and a couple other folks who like really know             |
-| 51:34      | what they're doing in AppleScript and the rest of us that start with Google. Yeah. Yeah. I mean,         |
+| 51:34      | what they're doing in [[AppleScript]] and the rest of us that start with Google. Yeah. Yeah. I mean,         |
 | 51:40      | that's how I primarily learned [[PowerShell]] in my IT days is I just Googled everything. And then I          |
 | 51:47      | read a book and I cannot remember. Oh, it was learn [[PowerShell]] in 30 days of lunches or something         |
 | 51:54      | like that. I think it's something something in a month of lunches. I've just found it on Google           |
@@ -675,13 +675,13 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 52:06      | [[PowerShell]] to automate most of that IT job, so you don't actually have to do that IT job,                 |
 | 52:11      | that is a solid solid book right there. Yeah. The other book I'd recommend for people who are             |
 | 52:16      | looking at that and going, oh, [[PowerShell]], I don't I don't use Windows is automate the boring stuff       |
-| 52:21      | with Python. Yeah. That's a good option too. I wrote an AppleScript recently to                          |
+| 52:21      | with Python. Yeah. That's a good option too. I wrote an [[AppleScript]] recently to                          |
 | 52:28      | either go to and select a specific mailbox in [[Apple Mail]] or move a message to a specific mailbox.         |
 | 52:35      | And I covered this in the webinar I did last week as a show publishes. But the                            |
 | 52:41      | I got it working for every mailbox except the inbox. And I spent like an hour googling it. I              |
 | 52:49      | was about to write Sal because I was just about to give up. And I thought, well, let me try this.         |
 | 52:53      | And I just made the word inbox all caps. And it started working and buried in the [[Apple Mail]]              |
-| 52:59      | dictionary somewhere for AppleScript is a requirement that if you're going to designate                  |
+| 52:59      | dictionary somewhere for [[AppleScript]] is a requirement that if you're going to designate                  |
 | 53:03      | the inbox, it'd be in all caps. And I'm like, sure, why not? You know, it's like somebody                 |
 | 53:09      | at some point felt that was a good idea. Yeah. Oh my gosh, that and that's probably sensitivity.          |
 | 53:14      | It's the bane and the savior of many an automation. And that's probably been there for 20 plus years      |
@@ -915,7 +915,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:14:29   | running Mac OS. And when it tilts down, I want it to be a 27 inch iPad. That'd be pretty cool.            |
 | 01:14:34   | You guys, it's got the same silicon in it. There's really, this is something that they could do if        |
 | 01:14:39   | they wanted. And that would be my dream Mac. I mean, just think about that. You know, the ability         |
-| 01:14:45   | to sit up there and have AppleScript running everything, then tilt it down and opening your              |
+| 01:14:45   | to sit up there and have [[AppleScript]] running everything, then tilt it down and opening your              |
 | 01:14:49   | favourite drawing app or whatever. I mean, that would be amazing. But unfortunately,                       |
 | 01:14:56   | I don't have Tim Koch's job. Yeah. Yeah. Yeah. Come on. Be a little optimistic there. Come on.            |
 | 01:15:03   | They would literally, I have, they'd say, you got to go to this meeting and I'd be like, ah,              |

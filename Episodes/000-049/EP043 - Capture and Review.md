@@ -676,7 +676,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 51:30      | But also that's all shareable. So like once we kind of, the nerds of us really figure it out,           |
 | 51:35      | we can share these scripts and even typical users that are aware of them can run them. So,              |
 | 51:41      | you know, you don't have to learn [[JavaScript]] to, to do these scripts. I mean, and honestly,             |
-| 51:47      | once you go in, you can probably make small tweaks even that it's just like AppleScript and all        |
+| 51:47      | once you go in, you can probably make small tweaks even that it's just like [[AppleScript]] and all        |
 | 51:52      | these other scripting languages. One of the best ways to learn it is to take one that works and         |
 | 51:56      | break it and then try and fix it, you know, and make it work for you. Definitely. Anyway, that's,       |
 | 52:03      | that's some powerful review stuff that I'd never really considered as review, but you know, it          |

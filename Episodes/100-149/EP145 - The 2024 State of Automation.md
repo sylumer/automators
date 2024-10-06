@@ -278,7 +278,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 12:06      | People are just nailing it.                                                                             |
 | 12:07      | It's, it's so good.                                                                                     |
 | 12:08      | Yeah.                                                                                                   |
-| 12:09      | And it's much more accessible than AppleScript because it's, it's, you know, block style               |
+| 12:09      | And it's much more accessible than [[AppleScript]] because it's, it's, you know, block style               |
 | 12:12      | automation.                                                                                             |
 | 12:13      | You just drag and drop blocks, although it's the most complex version of block style automation,        |
 | 12:19      | but it's also one of the most powerful because of that.                                                 |
@@ -361,7 +361,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 17:46      | That's something that I would really like to see an improvement for.                                    |
 | 17:49      | So there you go, [[Apple]], have some homework, [[Safari]] team, you know, your WebKit stuff's                  |
 | 17:53      | great.                                                                                                  |
-| 17:54      | Just more shortcuts, more shortcuts and automation, give everyone some AppleScript support and         |
+| 17:54      | Just more shortcuts, more shortcuts and automation, give everyone some [[AppleScript]] support and         |
 | 17:58      | Apple events and then everybody will just go nuts over it.                                              |
 | 18:01      | Yeah, it's a shame we didn't get that on mobile.                                                        |
 | 18:05      | [[Hazel]], that's another automation tool.                                                                  |
@@ -370,7 +370,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 18:14      | It does everything.                                                                                     |
 | 18:16      | They're currently shipping version five.                                                                |
 | 18:18      | It does work with the other apps though, like one of the things you can do if a file gets               |
-| 18:23      | triggered by [[Hazel]] is run a shortcut or, you know, trigger an AppleScript, which gives                 |
+| 18:23      | triggered by [[Hazel]] is run a shortcut or, you know, trigger an [[AppleScript]], which gives                 |
 | 18:28      | you basically the ability to do anything.                                                               |
 | 18:31      | And that app just continues to rock.                                                                    |
 | 18:33      | They made it an independent app with version five, it used to be in the system preferences.             |
@@ -840,7 +840,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 46:57      | All right, overall, on the Mac, just summing up, I continue to argue                                    |
 | 47:01      | or in a golden age of automation, there are tools at every level,                                       |
 | 47:05      | whether you're just entering in with shortcuts or you're becoming a                                     |
-| 47:10      | power [[Keyboard Maestro]] user or you're an AppleScript, you know, person,                                |
+| 47:10      | power [[Keyboard Maestro]] user or you're an [[AppleScript]], you know, person,                                |
 | 47:14      | whatever is, there are solutions and they all talk to each other.                                       |
 | 47:18      | I just think we continue to be in really great shape on the Mac for automation.                         |
 | 47:24      | Yes, definitely.                                                                                        |
@@ -1023,7 +1023,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 57:30      | I would say we're doing pretty well.                                                                    |
 | 57:32      | You know, there's a fundamental disconnect between mobile and the Mac in the                            |
 | 57:37      | sense that the Mac is way more addressable, you know, going back to a discussion                        |
-| 57:41      | of AppleScript.                                                                                        |
+| 57:41      | of [[AppleScript]].                                                                                        |
 | 57:42      | So you don't have the same level of power, you know, it's like earlier when                             |
 | 57:46      | I was talking about the new text expansion tool, she's trying one of my                                 |
 | 57:50      | questions was how is our mobile because text expansion isn't as easy on mobile                          |
@@ -1223,7 +1223,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 01:07:41   | because I feel like there is an argument for AI and automation                                          |
 | 01:07:46   | that we need to make and people need to be aware of.                                                    |
 | 01:07:50   | I have found it useful in the last, you know, six months                                                |
-| 01:07:54   | to help me sometimes generate an AppleScript or get me started on it.                                  |
+| 01:07:54   | to help me sometimes generate an [[AppleScript]] or get me started on it.                                  |
 | 01:07:58   | Other types of scripting is available to it, but more importantly,                                      |
 | 01:08:02   | I would like to see automation further democratise automation creation.                                 |
 | 01:08:07   | I feel like, you know, so often you need to know the secrets.                                           |

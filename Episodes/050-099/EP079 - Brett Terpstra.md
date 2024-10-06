@@ -242,7 +242,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 09:34      | text.                                                                                                |
 | 09:35      | And you can do that at any point in a bunch.                                                         |
 | 09:38      | Um, and then you can run all the commands or just go in parentheses.                                 |
-| 09:42      | And a lot of this is stuff you can do in [[AppleScript]], but it's way simpler than AppleScript.       |
+| 09:42      | And a lot of this is stuff you can do in [[AppleScript]], but it's way simpler than [[AppleScript]].       |
 | 09:48      | You just put in parentheses DND and that will turn on, do not disturb, uh, put dark mode             |
 | 09:55      | and it'll switch your, your screen to dark.                                                          |
 | 09:57      | You can even, as of the latest update, you can even change your keyboard input language              |
@@ -285,7 +285,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 12:12      | So you get all the apps you want to arrange on the screen, hide everything else.                     |
 | 12:17      | And then put them where you want them and take a snapshot, and then you can just give                |
 | 12:21      | it a name.                                                                                           |
-| 12:22      | And then in your Bunch, Bunch can run AppleScript raw commands.                                      |
+| 12:22      | And then in your Bunch, Bunch can run [[AppleScript]] raw commands.                                      |
 | 12:26      | You just start the line with an asterisk.                                                            |
 | 12:28      | And then tell application [[Moom]] to arrange windows according to snapshot.                             |
 | 12:33      | And then the name of the snapshot you made.                                                          |
@@ -316,7 +316,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 14:21      | You know, it's not like you're going to be trying, well, if you're like this, you might              |
 | 14:24      | be trying a lot of new apps.                                                                         |
 | 14:25      | But a couple inserts there on kind of follow up on [[Moom]].                                             |
-| 14:30      | You had talked about running an AppleScript to run a [[Moom]] setup, but you can also attach            |
+| 14:30      | You had talked about running an [[AppleScript]] to run a [[Moom]] setup, but you can also attach            |
 | 14:36      | keyboard shortcuts to those setups in [[Moom]].                                                          |
 | 14:38      | Why wouldn't you just press the keyboard shortcut?                                                   |
 | 14:41      | Keyboard shortcuts are valuable.                                                                     |
@@ -324,7 +324,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 14:49      | you can have.                                                                                        |
 | 14:50      | And in the case of snapshots, like I don't need to use a keyboard shortcut on that because           |
 | 14:55      | I'm going to always call that snapshot from like a bunch or from some automation tools.              |
-| 15:01      | So I just give it a name and call it with AppleScript.                                              |
+| 15:01      | So I just give it a name and call it with [[AppleScript]].                                              |
 | 15:04      | And that just reminded me that you are an owner of a hacker keyboard.                                |
 | 15:08      | So we are going to put a pin in that and come back to that about you and your keyboards.             |
 | 15:12      | But I have come across a bit of an epiphany on my keyboard arrangement shortcuts with                |
@@ -689,7 +689,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 37:18      | And honestly, for the kind of stuff Bunch does, I find creating macros for it frustrating,           |
 | 37:26      | which is why, you know, I thought this should just be plain text, yeah.                              |
 | 37:32      | We haven't even mentioned, well, we did mention briefly.                                             |
-| 37:35      | You can fire off an AppleScript with an asterisk, I mean, that's it, you know, type                 |
+| 37:35      | You can fire off an [[AppleScript]] with an asterisk, I mean, that's it, you know, type                 |
 | 37:41      | it in, but you can also do other types of scripting.                                                 |
 | 37:44      | So this actually can run very deep if you want to go down that, down that path.                      |
 | 37:49      | And with stuff like shell scripts, it even offers script monitors.                                   |
@@ -735,7 +735,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 41:10      | to arrange it all for me.                                                                            |
 | 41:12      | It gets, it's pretty intense.                                                                        |
 | 41:14      | I'm on this campaign to get Mac app developers to become more automation friendly and I found        |
-| 41:19      | an avenue that works and that is, because people don't want to deal with AppleScript                |
+| 41:19      | an avenue that works and that is, because people don't want to deal with [[AppleScript]]                |
 | 41:25      | implementation or, you know, whatever the, you know, whatever the hangup is that they                |
 | 41:30      | just don't want to go there because I feel like [[Audio Hijack]] is nearly a perfect app                 |
 | 41:34      | except it is not that automation friendly.                                                           |
@@ -748,7 +748,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 42:00      | Once you put it in the menu bar, I'm home.                                                           |
 | 42:02      | I can, I can automate it, you know, well, and being like, so in the case of forklift,                |
 | 42:08      | which is my favourite file manager, there's a lot of automation that it cannot do that                |
-| 42:13      | finder typically with a little, actually with a lot of AppleScript, you can make finder             |
+| 42:13      | finder typically with a little, actually with a lot of [[AppleScript]], you can make finder             |
 | 42:18      | do it, but you can't do it at all in forklift, but forklift lets you add custom keyboard             |
 | 42:24      | shortcuts for just about everything and including like save sets of windows and tabs.                |
 | 42:30      | And you can just assign a keyboard shortcut and then something like bunch can easily just            |
@@ -765,10 +765,10 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 43:03      | but the Charlie Chapman, the app developer, Charlie, I sent him a note.                              |
 | 43:07      | Hey, Charlie, give me a menu item.                                                                   |
 | 43:09      | That's all I need.                                                                                   |
-| 43:10      | And he wrote me back as like, Oh, that's a lot easier than AppleScript.                             |
+| 43:10      | And he wrote me back as like, Oh, that's a lot easier than [[AppleScript]].                             |
 | 43:14      | Yep.                                                                                                 |
 | 43:15      | Yeah.                                                                                                |
-| 43:16      | AppleScript is not fun to implement.                                                                |
+| 43:16      | [[AppleScript]] is not fun to implement.                                                                |
 | 43:18      | Yeah.                                                                                                |
 | 43:19      | Well, gang, we're going to talk, we're going to go down that rabbit hole.                            |
 | 43:23      | We're going back to it in just a minute, but if you haven't tried bunch, you should.                 |

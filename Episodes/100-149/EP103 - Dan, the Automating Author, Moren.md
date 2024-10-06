@@ -117,7 +117,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 03:00      | But at the same time, I have often found myself frustrated by the resources available.                 |
 | 03:06      | Because I mean, I remember in the very earliest days, you know, if you wanted to script anything       |
 | 03:10      | on the Mac, you're doing [[AppleScript]].                                                                 |
-| 03:12      | And AppleScript was something that I always struggled with.                                           |
+| 03:12      | And [[AppleScript]] was something that I always struggled with.                                           |
 | 03:14      | I never quite understood how to make it do the things that I wanted it to do and always                |
 | 03:20      | seemed a bit arcane.                                                                                   |
 | 03:21      | And I sort of knew there was all this stuff that you could do.                                         |
@@ -125,21 +125,21 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 03:28      | until I started learning like programming languages later.                                             |
 | 03:31      | For some reason, even those, you know, ended up being more accessible to me than [[AppleScript]].       |
 | 03:36      | In my earliest days, you know, learning basic and even hyper talk, like, I could get my,               |
-| 03:41      | I can understand what I was doing there, whereas with AppleScript, it felt like it should             |
+| 03:41      | I can understand what I was doing there, whereas with [[AppleScript]], it felt like it should             |
 | 03:45      | be something I could easily, oh yeah, just do this thing and it does this, but it never                |
 | 03:50      | seemed to quite work for me.                                                                           |
 | 03:51      | So I struggle with that.                                                                               |
-| 03:52      | I think the challenge with AppleScript is that, you know, they, they really wanted it                 |
+| 03:52      | I think the challenge with [[AppleScript]] is that, you know, they, they really wanted it                 |
 | 03:56      | to be more accessible to non programmers.                                                              |
 | 03:59      | Yeah.                                                                                                  |
 | 04:00      | So it's got a certain fuzziness to it that you really have to get used to.                             |
 | 04:05      | And like if you are a more traditional programmer and you know how to declare a variable and           |
 | 04:11      | do certain things and it always works the same way, but you always do it exactly the                   |
-| 04:15      | same way, a language that is, you know, more that is fuzzier like AppleScript, it can                 |
+| 04:15      | same way, a language that is, you know, more that is fuzzier like [[AppleScript]], it can                 |
 | 04:22      | be vexing.                                                                                             |
 | 04:23      | Yeah.                                                                                                  |
 | 04:24      | And I think part of the challenge for me, especially as someone who also does a lot of writing         |
-| 04:28      | is the AppleScript always purports to be this like written in English style programming               |
+| 04:28      | is the [[AppleScript]] always purports to be this like written in English style programming               |
 | 04:33      | language, right?                                                                                       |
 | 04:34      | And, but it doesn't look like English and it doesn't look like programming and I always                |
 | 04:38      | just was like super confused.                                                                          |
@@ -147,7 +147,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 04:41      | I get it, man.                                                                                         |
 | 04:42      | I think a lot of people struggle with that, which is a, I think one of the reasons [[Apple]]               |
 | 04:45      | has gone so hard on shortcuts is they want something that, you know, people can do without             |
-| 04:50      | having to decipher AppleScript.                                                                       |
+| 04:50      | having to decipher [[AppleScript]].                                                                       |
 | 04:53      | Right.                                                                                                 |
 | 04:54      | And then in the meantime, in like the interim there, we had Automator, right on the, on                |
 | 04:57      | the Mac.                                                                                               |
@@ -163,7 +163,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 05:28      | date.                                                                                                  |
 | 05:29      | Like you select a date from a date picker and then it stays like that.                                 |
 | 05:31      | It's not like a dynamic thing and, and, and stuff like that.                                           |
-| 05:34      | I, I found it very frustrating and similarly, you know, with AppleScript, like you can                |
+| 05:34      | I, I found it very frustrating and similarly, you know, with [[AppleScript]], like you can                |
 | 05:40      | say like with records from shortcuts or for each, but you don't use for each to go through             |
 | 05:48      | it.                                                                                                    |
 | 05:49      | It's like repeat with shortcut in folder from shortcuts or something like that.                        |
@@ -803,7 +803,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 42:26      | Then it hits the tab key and goes to the body and types the body message.                              |
 | 42:29      | So I can do all of this in one step.                                                                   |
 | 42:31      | There's just no other text expansion tool that can do that.                                            |
-| 42:35      | It can also run AppleScript.                                                                           |
+| 42:35      | It can also run [[AppleScript]].                                                                           |
 | 42:36      | So I have it pull the first name from the recipient of the email and put it into the email.            |
 | 42:41      | So it'll say, hi, Rose, because it got it out of the recipient name in the email.                      |
 | 42:46      | It can also use the contents of the clipboard.                                                         |
@@ -975,7 +975,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 56:08      | Let's talk about that whole date and elapsed time bit in the middle. Because I think that's            |
 | 56:14      | something that a lot of people could benefit from. Shortcuts, in my opinion, actually really           |
 | 56:19      | simplifies dealing with dates and actually getting time between dates too. Because if you've ever done |
-| 56:25      | date automation in AppleScript or any of the traditional programming languages,                        |
+| 56:25      | date automation in [[AppleScript]] or any of the traditional programming languages,                        |
 | 56:31      | it does require you to use, I guess, what they call absolute time, which is where you                  |
 | 56:35      | got to use the [[Unix]] command and go and figure out what second you are basically in the universe        |
 | 56:40      | to establish a baseline for time. It's a huge pain. At some point, Rose and I probably should          |

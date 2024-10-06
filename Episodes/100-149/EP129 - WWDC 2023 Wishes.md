@@ -376,7 +376,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 21:32      | to run blah, blah, blah shortcut".                                                                     |
 | 21:34      | And it doesn't really work.                                                                           |
 | 21:36      | It would be amazing if you would let me run a shortcut.                                               |
-| 21:39      | Like where it says run AppleScript and the line that runs shortcut.                                  |
+| 21:39      | Like where it says run [[AppleScript]] and the line that runs shortcut.                                  |
 | 21:43      | Even if it only makes it vaguely into the keynote, it's like a thing and then it kind                 |
 | 21:47      | of disappears for a couple of months and then maybe reappears and actually works later.               |
 | 21:51      | I would love that because at the moment, if you want to automate something in mail and                |
@@ -385,7 +385,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 22:13      | I don't really use reply to forward or redirect either.                                               |
 | 22:17      | I have previously used redirect, but I find those are better on server side rules anyway.             |
 | 22:21      | I do use delete message, markers read, markers flagged, and move message.                             |
-| 22:28      | I don't really use copy message, but as well as run AppleScript, I'd love it if I could              |
+| 22:28      | I don't really use copy message, but as well as run [[AppleScript]], I'd love it if I could              |
 | 22:33      | run a shortcut, that would be so great.                                                               |
 | 22:38      | Fingers crossed, we'll get to see some of that because yeah, I think we're at the point               |
 | 22:41      | where not only do we want the actions in shortcuts, but we want them everywhere else in the OS        |

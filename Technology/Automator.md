@@ -14,7 +14,7 @@ Automator is a Mac application that allows users to automate repetitive tasks by
 - Integration with various system applications and utilities
 - Library of pre-built actions for common tasks
 - Ability to save and reuse workflows
-- Support for scripting languages like AppleScript and [[JavaScript]]
+- Support for scripting languages like [[AppleScript]] and [[JavaScript]]
 - Automate tasks across multiple apps
 - Debugging tools for troubleshooting workflows
 - Compatibility with external apps and services

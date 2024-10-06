@@ -1004,8 +1004,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 58:53      | useful. We use that a lot, setting up shows and setting up the magazine issues.                        |
 | 58:58      | That seems almost like just an [[AppleScript]].                                                           |
 | 59:01      | It could be, but it's just so simple to use. It just takes away the pain of writing the                |
-| 59:05      | AppleScript. To be honest, I always find managing files and folders with AppleScript                 |
-| 59:10      | is a huge pain. That's the least intuitive part of AppleScript, how you manage and                    |
+| 59:05      | [[AppleScript]]. To be honest, I always find managing files and folders with [[AppleScript]]                 |
+| 59:10      | is a huge pain. That's the least intuitive part of [[AppleScript]], how you manage and                    |
 | 59:17      | create folders and files. But this is great. You can set up multiple templates. I have                 |
 | 59:22      | one for a video project. I have one for a magazine project. It provides some for motion                |
 | 59:28      | graphics templates and video editing templates and all stuff like that. I'll patch it to               |
@@ -1080,7 +1080,7 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:04:34   | of text. But if people are looking for an iOS alternative, I use this one all the time.                |
 | 01:04:39   | And it's very useful.                                                                                  |
 | 01:04:40   | And Text Case is shortcuts friendly. So that's another good for automation.                            |
-| 01:04:45   | It doesn't have AppleScript support because it's on iOS, but it does have shortcut support.            |
+| 01:04:45   | It doesn't have [[AppleScript]] support because it's on iOS, but it does have shortcut support.            |
 | 01:04:49   | So automate all of the text. And he must be doing a lot with regular expressions. And                  |
 | 01:04:55   | if you're curious about those, we did show that.                                                       |
 | 01:04:59   | Yes.                                                                                                   |
@@ -1088,8 +1088,8 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 01:05:06   | automate that you can't seem to get to?                                                                |
 | 01:05:11   | That's a terrible idea.                                                                                |
 | 01:05:17   | To be honest, most things are automatable. It's just the level of effort required to                   |
-| 01:05:22   | do it. I wish it was better at AppleScript. I mean, I don't use AppleScript a lot, but                 |
-| 01:05:27   | the scripts that we have are written in AppleScript. I find I'm not one of these people who sort       |
+| 01:05:22   | do it. I wish it was better at [[AppleScript]]. I mean, I don't use [[AppleScript]] a lot, but                 |
+| 01:05:27   | the scripts that we have are written in [[AppleScript]]. I find I'm not one of these people who sort       |
 | 01:05:32   | of know the ins and outs of it. If I wanted to do something, I'm one of these that will                |
 | 01:05:36   | go away to the internet and search and find out if someone else has done it and how they've            |
 | 01:05:40   | done it and try to understand how they've done it and then sort of turn it around that way.            |

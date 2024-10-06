@@ -817,23 +817,23 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 33:39      | You've posted a blog post                                          |
 | 33:41      | where you've listed all of these scripts,                          |
 | 33:42      | and you're running it through a Python script,                     |
-| 33:45      | but the AppleScript language is embedded in that script.           |
-| 33:48      | So anybody that wants to just do this with AppleScript             |
+| 33:45      | but the [[AppleScript]] language is embedded in that script.           |
+| 33:48      | So anybody that wants to just do this with [[AppleScript]]             |
 | 33:51      | could do it.                                                       |
 | 33:52      | You could.                                                         |
 | 33:54      | I don't recommend it to doing things                               |
 | 33:56      | because there's a certain amount of text processing,               |
 | 34:01      | and there's a certain amount of calendar processing                |
-| 34:06      | that I think Python is just flatly better at than AppleScript.     |
-| 34:10      | But yes, I write AppleScript inside my Python,                     |
+| 34:06      | that I think Python is just flatly better at than [[AppleScript]].     |
+| 34:10      | But yes, I write [[AppleScript]] inside my Python,                     |
 | 34:14      | and I have a self-made, very simple library                        |
-| 34:24      | called, I think it's called AppleScript,                           |
+| 34:24      | called, I think it's called [[AppleScript]],                           |
 | 34:26      | and it has only a couple of commands in it                         |
 | 34:31      | that one of them I think is quote, and one of them is run.         |
 | 34:34      | And so usually I just create a string                              |
-| 34:36      | that would be my AppleScript.                                      |
+| 34:36      | that would be my [[AppleScript]].                                      |
 | 34:38      | Within the Python program, I create a string                       |
-| 34:40      | for the command that I would give in AppleScript,                  |
+| 34:40      | for the command that I would give in [[AppleScript]],                  |
 | 34:42      | and then there's, you know,                                        |
 | 34:43      | AppleScript.run that string, and it does it.                       |
 | 34:47      | But the point is you can actually take pieces of this out          |
@@ -854,8 +854,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 35:28      | So what my script does on Tuesday morning is say,                  |
 | 35:32      | which reminders have come due today?                               |
 | 35:34      | Okay.                                                              |
-| 35:35      | And AppleScript allows you to do that.                             |
-| 35:38      | The AppleScript library or dictionary for [[Apple Reminders\|Reminders]]                |
+| 35:35      | And [[AppleScript]] allows you to do that.                             |
+| 35:38      | The [[AppleScript]] library or dictionary for [[Apple Reminders\|Reminders]]                |
 | 35:43      | has pieces like that, commands for doing that.                     |
 | 35:46      | So what it does is it gives me a list then                         |
 | 35:49      | of all of the invoices that are all of the [[Apple Reminders\|Reminders]]               |
@@ -1012,12 +1012,12 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 43:33      | And it mimics, well, mimics.                                       |
 | 43:35      | I'm sure he did this on his own, or she                            |
 | 43:37      | did this on his own on her own, but it matches so perfectly        |
-| 43:42      | an AppleScript that I wrote many years ago                        |
+| 43:42      | an [[AppleScript]] that I wrote many years ago                        |
 | 43:45      | for doing this in [[BBEdit]].                                         |
 | 43:47      | It does exactly what I used to do in [[BBEdit]],                      |
 | 43:51      | except it does it in [[Drafts]].                                       |
 | 43:53      | So I was thinking about writing my own.                            |
-| 43:55      | I was thinking about taking that AppleScript                      |
+| 43:55      | I was thinking about taking that [[AppleScript]]                      |
 | 43:57      | and converting it into [[JavaScript]]                                  |
 | 43:59      | so that it would work in [[Drafts]] and realised, oh,                  |
 | 44:02      | I don't have to.                                                   |
@@ -1673,8 +1673,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:15:39   | are completely legitimate,                                         |
 | 01:15:40   | especially just the lack of power                                  |
 | 01:15:43   | for a programming environment as someone who, you know,            |
-| 01:15:48   | spends his time writing in Python and even AppleScript.           |
-| 01:15:51   | I mean, AppleScript, everybody makes fun of it,                   |
+| 01:15:48   | spends his time writing in Python and even [[AppleScript]].           |
+| 01:15:51   | I mean, [[AppleScript]], everybody makes fun of it,                   |
 | 01:15:53   | but it's a powerful scripting language                             |
 | 01:15:56   | combined with Apple events.                                        |
 | 01:15:58   | You can do almost anything on a Mac with it.                       |
@@ -1763,7 +1763,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:20:00   | crap, there's no step,                                             |
 | 01:20:01   | there's no piece that I can stick in here in Automator.            |
 | 01:20:06   | And then I would end up going back                                 |
-| 01:20:08   | and doing it in AppleScript.                                      |
+| 01:20:08   | and doing it in [[AppleScript]].                                      |
 | 01:20:09   | Yeah, or writing a script to drop into the Automator.              |
 | 01:20:12   | What are they like?                                                |
 | 01:20:13   | Yeah, something like that.                                         |
@@ -1800,9 +1800,9 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:21:40   | especially of course, when it's something that you rely on,        |
 | 01:21:43   | seems to get abandoned.                                            |
 | 01:21:44   | And it's just, you know,                                           |
-| 01:21:48   | AppleScript has gone through this in the past,                     |
-| 01:21:51   | not just Automator, but AppleScript itself, you know.              |
-| 01:21:53   | Is AppleScript dead?                                               |
+| 01:21:48   | [[AppleScript]] has gone through this in the past,                     |
+| 01:21:51   | not just Automator, but [[AppleScript]] itself, you know.              |
+| 01:21:53   | Is [[AppleScript]] dead?                                               |
 | 01:21:55   | Is [[Apple]], it's not.                                                |
 | 01:21:57   | You know, a few years ago, they actually came,                     |
 | 01:21:59   | amazingly, they decided to come out                                |
@@ -1810,7 +1810,7 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:22:06   | you know, [[JavaScript]] for applications.                             |
 | 01:22:09   | And I don't like it because I'm not a big fan of [[JavaScript]].       |
 | 01:22:15   | And also because I find it,                                        |
-| 01:22:18   | you know, how you write an AppleScript,                            |
+| 01:22:18   | you know, how you write an [[AppleScript]],                            |
 | 01:22:21   | which is you start writing and then you realise,                   |
 | 01:22:23   | I don't know exactly how the dictionary                            |
 | 01:22:26   | for this particular app that I want to automate works.             |
@@ -1820,13 +1820,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:22:37   | Does it have this, does it have that?                              |
 | 01:22:39   | And then you just start typing into Google your problem.           |
 | 01:22:43   | The solution is almost,                                            |
-| 01:22:45   | there are lots of solutions for AppleScript problems               |
-| 01:22:48   | because AppleScript has been around for such a long time.          |
+| 01:22:45   | there are lots of solutions for [[AppleScript]] problems               |
+| 01:22:48   | because [[AppleScript]] has been around for such a long time.          |
 | 01:22:51   | It's very hard to find [[JXA]] solutions,                              |
 | 01:22:55   | or is it [[JXA]] or JESA, whatever it is,                              |
 | 01:22:57   | in [[JavaScript]] solutions for these problems,                        |
 | 01:23:01   | because it just hasn't been around for very long.                  |
-| 01:23:03   | So I end up still writing mostly in AppleScript,                   |
+| 01:23:03   | So I end up still writing mostly in [[AppleScript]],                   |
 | 01:23:07   | even though it's not a language that I particularly like.          |
 | 01:23:11   | It's the only one where I can get things done,                     |
 | 01:23:15   | certain things done.                                               |

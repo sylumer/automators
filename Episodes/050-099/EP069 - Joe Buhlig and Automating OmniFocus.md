@@ -184,7 +184,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 09:07      | made WordBasic anymore, but that was actually pretty powerful if you wanted to do some automation.     |
 | 09:14      | But the OmniFocus automation, I think, is interesting that they have built around. And                 |
 | 09:21      | I think I really admire the work they've done in order to make their app more automation friendly.     |
-| 09:27      | I mean, initially, when [[OmniFocus]] released, all the Omni apps always have great AppleScript support.   |
+| 09:27      | I mean, initially, when [[OmniFocus]] released, all the Omni apps always have great [[AppleScript]] support.   |
 | 09:35      | And I guess let's just do a little history lesson here for a minute.                                   |
 | 09:38      | You know, so they had the [[AppleScript]] and OmniFocus was a Mac app. I mean, it was, it grew            |
 | 09:45      | out of Kinklesst GTD, which was an Omni Outliner kind of plug-in or add-on. Either of you guys          |
@@ -207,7 +207,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 11:26      | iPad, and Mac. So you write your automation once and it works on all platforms. And that's what        |
 | 11:34      | they've done. And I think they've done it very well, honestly, because it's pretty slick, kind of      |
 | 11:40      | going back to some of those first scripts I was referring to earlier. Those were all built on          |
-| 11:45      | AppleScript, which was great. You could do a lot with that. But I've been a primary Mac user for      |
+| 11:45      | [[AppleScript]], which was great. You could do a lot with that. But I've been a primary Mac user for      |
 | 11:55      | pretty much my entire [[Apple]] existence. And I've done some things with the iPad in the past,            |
 | 12:01      | but I've just learned like I'm a Mac and iPhone personally. I've had great, but it just doesn't        |
 | 12:06      | fit a lot of my workflows. So whenever I was working on a lot of these [[OmniFocus]] setups,              |
@@ -309,7 +309,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 21:03      | I went through their [[JavaScript]] course back before Omni Automation was a glimmer in                    |
 | 21:08      | sales to go in and can case his eyes. But it's just having that knowledge has been very useful         |
 | 21:14      | because I learned, I am a script or I am not a programmer like you guys. And so I've only learned      |
-| 21:21      | automation in programming through automation. And so I was pretty fluent in AppleScript,              |
+| 21:21      | automation in programming through automation. And so I was pretty fluent in [[AppleScript]],              |
 | 21:27      | but I knew [[JavaScript]] was kind of like the next thing that everybody was going to be using because     |
 | 21:32      | of the multi-platform nature of it. So I went through that. Also, I did the Lynda course,             |
 | 21:37      | I created the Lynda course for [[OmniFocus]], which you know, one of the side benefits of that is        |
@@ -485,9 +485,9 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 38:06      | but then you need to check back on that. And how do you do that? Yeah, I think that script comes       |
 | 38:11      | from Curt Clifton. That's who I was thinking of. Yeah, you and Curt Clifton definitely inspired        |
 | 38:16      | me a lot when I first got into scripting OmniFocus. And in fact, I think my entire collection of       |
-| 38:20      | AppleScripts came pretty much from the two of you over the years. And Curt used to work               |
+| 38:20      | [[AppleScript\|AppleScripts]] came pretty much from the two of you over the years. And Curt used to work               |
 | 38:26      | for Omni Group actually, no longer does, but still has lots of great scripts out there.                |
-| 38:31      | I mean, doesn't like every OmniFocus AppleScript at some point go back to Curt Clifton.               |
+| 38:31      | I mean, doesn't like every OmniFocus [[AppleScript]] at some point go back to Curt Clifton.               |
 | 38:37      | I mean, he's like the original source. And the thing is, so Rose made this cool script and             |
 | 38:44      | the way you trigger it once you install it is you just go and you can do it from the sharing menu      |
 | 38:49      | on the iOS device or you can do it from the scripting menu right on the Mac and the menu bar.          |
@@ -543,10 +543,10 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 43:32      | hacks and tricks to try and get stuff to run automatically on my Mac when things happen.               |
 | 43:36      | So Zapier would send something off to OmniFocus usually via email. And then I had it run a             |
 | 43:44      | [[Keyboard Maestro]] macro to sync OmniFocus on my Mac. So it would ping the [[Keyboard Maestro]] URL,         |
-| 43:52      | which would then run the AppleScript in OmniFocus to tell OmniFocus to sync.                          |
+| 43:52      | which would then run the [[AppleScript]] in OmniFocus to tell OmniFocus to sync.                          |
 | 43:57      | And then it would sleep for five minutes. And then it would ping another keyboard                      |
 | 44:00      | maestro macro URL that would say, hey, the sync's finished. Now run the past the inbox task script,    |
-| 44:08      | which was your original AppleScript, Joe, that really got me interested in doing a lot of this        |
+| 44:08      | which was your original [[AppleScript]], Joe, that really got me interested in doing a lot of this        |
 | 44:13      | stuff with OmniFocus. But it was just so fragile. And sometimes the sync wouldn't finish or sometimes  |
 | 44:20      | my Mac would just be offline and stuff like that. And then I'd open up my inbox on my iPad and go,     |
 | 44:25      | why are these things in the wrong place? And I can't fix it on my iPhone. And now I can just           |
@@ -703,7 +703,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 58:52      | and it would run that script at any point when that database had changed, which was just awesome       |
 | 58:57      | because it meant I could just send it in there. OmniFocus would sync because it got a new inbox        |
 | 59:02      | task. And then that meant that the database modified date would change. So then [[Hazel]] would run the    |
-| 59:07      | rule, which would run the AppleScript, which then parsed the inbox item, and then my someday          |
+| 59:07      | rule, which would run the [[AppleScript]], which then parsed the inbox item, and then my someday          |
 | 59:14      | maybes would show up where they were supposed to be without me having to do anything other than        |
 | 59:20      | create the someday maybe list in [[Drafts]], action it off with the correct someday maybe list,            |
 | 59:26      | and it just magically showed up where it was supposed to be in OmniFocus with all the correct          |
@@ -802,7 +802,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:08:18   | If you put two of them in there, I think it leaves the due date blank, but I'm not certain,            |
 | 01:08:22   | I'd have to test that to be sure.                                                                      |
 | 01:08:24   | Yeah, I am not certain either, but I do have a link to your very original blog post in the             |
-| 01:08:29   | show notes, which I am just trying to open up, which you had the original AppleScript one,             |
+| 01:08:29   | show notes, which I am just trying to open up, which you had the original [[AppleScript]] one,             |
 | 01:08:35   | which I believe was in 2015, yeah, and you had a little link somewhere as to,                          |
 | 01:08:45   | yeah, and here we go, and it's got something.                                                          |
 | 01:08:48   | I know that the new article, I've got that syntax reiterated on that, so the most recent               |
@@ -1049,7 +1049,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:22:30   | And I found that this is very useful because I, one of the things I love about OmniFocus               |
 | 01:22:35   | is that infinite depth and that I can go as deep as I like.                                            |
 | 01:22:38   | And so being able to add a task with multiple subtasks is great.                                       |
-| 01:22:43   | Here's one that I wrote this one a while back for in AppleScript, but it's a read books               |
+| 01:22:43   | Here's one that I wrote this one a while back for in [[AppleScript]], but it's a read books               |
 | 01:22:52   | script.                                                                                                |
 | 01:22:53   | And it's one that, you know, I was using a lot and I dabble with it still occasionally,                |
 | 01:23:00   | but being someone who podcasts about books as well, like I always end up reading books                 |
@@ -1064,7 +1064,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:23:33   | number of days were there, say it's 14, it would take the 200 pages or so and create                   |
 | 01:23:39   | tasks for each day with due dates for each day of how many pages you're supposed to be,                |
 | 01:23:44   | where are you supposed to be at in the book and such.                                                  |
-| 01:23:47   | So I wrote that in AppleScript and someone took that and converted it to the Omni Automation          |
+| 01:23:47   | So I wrote that in [[AppleScript]] and someone took that and converted it to the Omni Automation          |
 | 01:23:53   | setup.                                                                                                 |
 | 01:23:54   | So I can get you a link to this, but yeah, they've got it set up in the exact same way                 |
 | 01:23:58   | I do.                                                                                                  |

@@ -707,7 +707,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:08:40   | So I switched over to Plex. That's actually really interesting that you use a Raspberry Pi              |
 | 01:08:46   | because I have a very, I have a very old TV. So I have like ripped a bunch of Blu-rays, but I don't,    |
 | 01:08:53   | I don't need them at a super high quality. And I have a ton of files that were ripped from DVDs         |
-| 01:08:59   | from Handbrake. And I had some, I think I had an AppleScript. It's lost to time, but it would,         |
+| 01:08:59   | from Handbrake. And I had some, I think I had an [[AppleScript]]. It's lost to time, but it would,         |
 | 01:09:07   | you know, rip things from Handbrake and then put it into iTunes and then form, what was it called?      |
 | 01:09:12   | Like Front Row, which is like a little movie theatre in your Mac. And that's such a good idea           |
 | 01:09:19   | because it's definitely on an old, like an archived media drive somewhere. I just don't want            |
@@ -832,7 +832,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:22:20   | to use in the real world. Does that sort of make make sense? Yeah, it does. And I think if you're       |
 | 01:22:27   | since you're already fluent in shortcuts, I think you're going to find keyboard my show very easy.      |
 | 01:22:31   | It's a, I think keyboard my show is a little nerdier, but it's also a little more powerful too,         |
-| 01:22:36   | because you can like run AppleScripts to virtually do anything on your Mac that                        |
+| 01:22:36   | because you can like run [[AppleScript\|AppleScripts]] to virtually do anything on your Mac that                        |
 | 01:22:41   | that you're going to go crazy. Once you get into keyboard my show, you're going to have a bunch         |
 | 01:22:45   | of, you know, you're going to have a bunch of scripts. Just that'll be great. That's what I             |
 | 01:22:49   | actually found with with these, I don't want to call them legacy Mac apps, because that makes           |

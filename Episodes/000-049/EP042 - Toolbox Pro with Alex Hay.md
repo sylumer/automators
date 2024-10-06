@@ -384,7 +384,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 19:48      | If you're listening to The Automators and you want to get better at this stuff, TextExpander                |
 | 19:52      | gives you an easy on-ramp.                                                                                  |
 | 19:54      | With TextExpander, you can automate common emails you send to people, you can even add                      |
-| 19:58      | AppleScript and advanced tools to make your text expansion snippets really dance for you.                   |
+| 19:58      | [[AppleScript]] and advanced tools to make your text expansion snippets really dance for you.                   |
 | 20:05      | Just imagine if you could have a text expansion snippet that would automatically include the                |
 | 20:08      | contents of your clipboard.                                                                                 |
 | 20:11      | You can do that with TextExpander.                                                                          |

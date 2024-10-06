@@ -414,7 +414,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 28:53      | Shortcuts, and I could do it in five minutes in [[JavaScript]]. So that's really why I started             |
 | 28:58      | building Scriptable back then. And I like to think of it as what [[AppleScript]] was to automate           |
 | 29:04      | us. No, what was I called? The Mac App? Automator. Yes. Automators is the podcast. Automator           |
-| 29:12      | is the app. Yeah, so I like to think of it as what AppleScript was to automate us back                 |
+| 29:12      | is the app. Yeah, so I like to think of it as what [[AppleScript]] was to automate us back                 |
 | 29:18      | then. That was like Scriptable to Workflow or Scriptable to Shortcuts. And to your point,              |
 | 29:25      | there are some operations on data, on maybe JSON in particular, that's easier to do in                 |
 | 29:32      | [[JavaScript]] than it might be in Shortcuts, especially if you're like used to programming                |
@@ -460,7 +460,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 33:05      | And yes, you know, it's in some cases, it can be for somebody who wants to dip their                   |
 | 33:09      | toe into the programming world without leaving behind, you know, all of the things that they've        |
 | 33:14      | already built and created with shortcuts. But in other cases, it is a companion just                   |
-| 33:19      | like [[Apple]] when they brought shortcuts to the Mac, they added a run AppleScript action                |
+| 33:19      | like [[Apple]] when they brought shortcuts to the Mac, they added a run [[AppleScript]] action                |
 | 33:24      | and run shell script and so on. Because yeah, all of these things can work together. So                |
 | 33:27      | yes, that is a very good point.                                                                        |
 | 33:30      | So at this point, Scriptable has been around a while. Where do you want to go with the app?            |

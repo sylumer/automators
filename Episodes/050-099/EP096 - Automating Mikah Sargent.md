@@ -800,7 +800,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 49:46      | that took a lot of time, and I knew that that process could be automated. Dan Sturm helped              |
 | 49:53      | me create a [[Keyboard Maestro]] macro that helped me to see all of those [[Safari]] tabs, get the              |
 | 50:03      | headline from those pages, because usually it's the title that gets put into the tab.                   |
-| 50:09      | Grab it from there. I think tab names is the deal in AppleScript or whatever. Then                      |
+| 50:09      | Grab it from there. I think tab names is the deal in [[AppleScript]] or whatever. Then                      |
 | 50:18      | there's a little bit of regular expression work that happens because the set of tabs always             |
 | 50:25      | is set up the same, where the first two tabs are my Gmail account because I have that pinned,           |
 | 50:32      | and then the next one to that is the one-note document. We worked out a regular expression to           |

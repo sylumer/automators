@@ -195,7 +195,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 06:06      | it really easy to look at.                                                                              |
 | 06:07      | And that's something that everybody can use.                                                            |
 | 06:10      | So I would argue that one of the challenges with automation on the Mac is that it is really             |
-| 06:16      | not as friendly as automation is on iOS because AppleScript, you know, it's a little bit               |
+| 06:16      | not as friendly as automation is on iOS because [[AppleScript]], you know, it's a little bit               |
 | 06:22      | of an oddball.                                                                                          |
 | 06:23      | And you have to, in trying to make it natural language, sometimes it gets harder for people.            |
 | 06:30      | And it is, it's a skill you have to learn.                                                              |

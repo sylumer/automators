@@ -328,22 +328,22 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 21:18      | of round trip between what's happening in shortcuts and what's happening in OmniFocus.                   |
 | 21:23      | Similarly, [[AppleScript]] on the Mac has been kind of this API that you could use to talk                   |
 | 21:30      | with OmniFocus. API is just an application programming interface that you could use to                   |
-| 21:35      | talk to OmniFocus using the AppleScript language. But every time you went from your script to            |
+| 21:35      | talk to OmniFocus using the [[AppleScript]] language. But every time you went from your script to            |
 | 21:41      | the app and back, this involved a round trip of switching from one process to another,                   |
 | 21:44      | and it was relatively inefficient and slow.                                                              |
 | 21:48      | So as we were thinking about automation, we were thinking about, well, how can we let                    |
 | 21:54      | people build sort of a richer set of operations they can do that is really fast and can operate          |
 | 22:01      | at the low levels of the database on everything that's available in that database instead                |
 | 22:06      | of just being limited to the set of public interface things that we happen to provide                    |
-| 22:13      | to shortcuts or to AppleScript.                                                                          |
+| 22:13      | to shortcuts or to [[AppleScript]].                                                                          |
 | 22:16      | And so that's what we've built in in our [[JavaScript]] support, which is now in all four                    |
 | 22:21      | of our apps. It started in [[OmniGraffle]] and OmniOutliner, and then we shipped it in OmniPlan              |
 | 22:28      | last year, I believe, and now with OmniFocus 3.8, it's finally in all of our apps. This                  |
 | 22:34      | lets people create a [[JavaScript]] plug-in or write some external [[JavaScript]] that they pass                 |
 | 22:41      | to the app, which can then quickly manipulate anything that's in the database or in a document,          |
 | 22:48      | get results, process things around, change them around, and it's just so much faster                     |
-| 22:52      | than earlier things based around AppleScript or than any shortcut interactions would be.                 |
-| 22:58      | So then it, of course, can return results back to shortcuts or to AppleScript if that's                  |
+| 22:52      | than earlier things based around [[AppleScript]] or than any shortcut interactions would be.                 |
+| 22:58      | So then it, of course, can return results back to shortcuts or to [[AppleScript]] if that's                  |
 | 23:05      | where it was invoked from, but it was collecting that information in a way that lets it do               |
 | 23:12      | more things and also makes it much faster.                                                               |
 | 23:17      | So as an example, if we had had this [[JavaScript]] stuff available back when Kinklesst GTD was               |
@@ -351,12 +351,12 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 23:28      | plug-in instead, and it would have been lightning fast to do some of those operations instead            |
 | 23:34      | of feeling like this slow slog as you waited for these things to get encoded into Apple                  |
 | 23:40      | events and back.                                                                                         |
-| 23:42      | Yeah, it's really impressive. For a couple of reasons to me, one of them is AppleScript                  |
-| 23:47      | has never existed on an iPhone and iPad, so AppleScript automation you'd write for the                   |
+| 23:42      | Yeah, it's really impressive. For a couple of reasons to me, one of them is [[AppleScript]]                  |
+| 23:47      | has never existed on an iPhone and iPad, so [[AppleScript]] automation you'd write for the                   |
 | 23:52      | app on the Mac wouldn't work on the other devices, and then you had this unequal world                   |
 | 23:58      | where you couldn't do all of your work on whichever device you wanted, and [[JavaScript]]                    |
 | 24:04      | will work on all platforms. And for people listening who've never done [[JavaScript]], I                     |
-| 24:11      | can tell you I'm more savvy with AppleScript than I am with [[JavaScript]], but I've taken                   |
+| 24:11      | can tell you I'm more savvy with [[AppleScript]] than I am with [[JavaScript]], but I've taken                   |
 | 24:18      | the course. I can hack my way through [[JavaScript]]. This is not something you need to be a Kink            |
 | 24:24      | case-level programmer to do. It's fairly simple once you wrap your arms around it and give               |
 | 24:31      | it an hour or two to learn it, and you'd be surprised how much you can do.                               |
@@ -380,7 +380,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 25:59      | understanding [[JavaScript]] already, but it looks pretty good to me as well. So for people                  |
 | 26:03      | who are looking and going, okay, well, why would I learn [[JavaScript]]? Well, as well as                    |
 | 26:07      | the Omni apps, there's also [[Drafts]] and scriptable out there. They'll also use [[JavaScript]]. So              |
-| 26:11      | it's, in my opinion, becoming the de facto, you know, next AppleScript, even, you know,                 |
+| 26:11      | it's, in my opinion, becoming the de facto, you know, next [[AppleScript]], even, you know,                 |
 | 26:17      | maybe it's not the language everybody would prefer. I know Python has many, many, many                   |
 | 26:22      | devout followers. I personally would just do everything in PHP, but the world might kill                 |
 | 26:26      | me if I did that. But I'm thinking [[JavaScript]] is a pretty good solution because, I mean,                 |
@@ -419,9 +419,9 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 29:13      | at once. This might explain a few of the problems I'm having. Because I'm only one person. You           |
 | 29:19      | can only allocate a person resource to do one thing at a time. As much as I love multitasking,           |
 | 29:24      | I suck at it. So it's really been useful for that for me. Yeah.                                          |
-| 29:28      | Well, I mean, just to give folks a little bit of context, if you've done AppleScripts,                  |
+| 29:28      | Well, I mean, just to give folks a little bit of context, if you've done [[AppleScript\|AppleScripts]],                  |
 | 29:34      | you know about the dictionaries, where an application will provide certain data through                  |
-| 29:40      | its dictionary to AppleScript. I guess you can call that a donation, just like they do                  |
+| 29:40      | its dictionary to [[AppleScript]]. I guess you can call that a donation, just like they do                  |
 | 29:44      | now with shortcuts. But I feel like, and Ken can tell me if I'm wrong, but the quote-unquote             |
 | 29:51      | dictionary you built with this [[JavaScript]] implementation looks like it's just almost                     |
 | 29:55      | everything you can do in the app. Like, for instance, just like I was looking at the search              |
@@ -565,7 +565,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 40:32      | be this kind of rich, hopefully assortment of scripts that you can download. And because                 |
 | 40:38      | they're [[JavaScript]], if you do want to wade into the waters a bit, taking one someone's                   |
 | 40:43      | already written and making changes to it is, you know, that's my sweet spot for scripting.               |
-| 40:49      | I mean, I can't tell you how many AppleScripts I've written that started with somebody else's           |
+| 40:49      | I mean, I can't tell you how many [[AppleScript\|AppleScripts]] I've written that started with somebody else's           |
 | 40:53      | script, you know, and I think that'll work the same way with this [[JavaScript]]. So it's                    |
 | 40:57      | not that difficult to understand how it works, even if you don't do all the online courses               |
 | 41:01      | once you look at one that and you know what it's doing and you know how it works.                        |

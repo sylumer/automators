@@ -548,7 +548,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 28:40      | What if I want to do something like this in the Mac?                                                                                                             |
 | 28:42      | And it seems to me there's really two ways to do it, at least in my kind of automation                                                                           |
 | 28:47      | legal.                                                                                                                                                           |
-| 28:48      | You could definitely do it with an [[AppleScript]], but I did not write an AppleScript for this.                                                                   |
+| 28:48      | You could definitely do it with an [[AppleScript]], but I did not write an [[AppleScript]] for this.                                                                   |
 | 28:52      | With the way, the two ways I did it was with two additional tools.                                                                                               |
 | 28:56      | I did it both with [[Keyboard Maestro]] and I did it with TextExpander.                                                                                             |
 | 29:01      | And it wasn't that difficult with either one.                                                                                                                    |

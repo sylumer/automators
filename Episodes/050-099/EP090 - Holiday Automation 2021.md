@@ -726,7 +726,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 40:19      | And you can extend DEVONthink's functionality with your own commands by adding them to its           |
 | 40:22      | scripts menu.                                                                                        |
 | 40:23      | Even templates can have scripts inside them and you can set up new documents with data               |
-| 40:27      | from placeholders or inserted by your own AppleScript code.                                          |
+| 40:27      | from placeholders or inserted by your own [[AppleScript]] code.                                          |
 | 40:30      | And of course, it's got smart rules and flexible reminders that let you automate all parts           |
 | 40:35      | of your workflow and delegate boring and repeating tasks.                                            |
 | 40:38      | Let DEVONthink automatically organise your data with rules you define.                               |

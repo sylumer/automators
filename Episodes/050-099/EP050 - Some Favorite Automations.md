@@ -131,7 +131,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 05:48      | like it is the it is the hammer that that, you know, hammers all nails because it's                  |
 | 05:54      | just so great. It has it's so deep in its integration with the Mac operating system.                 |
 | 06:00      | And there's almost nothing that you can't do with it. And sometimes you will have to                 |
-| 06:06      | resort to like an AppleScript or something a little more advanced. In fact, one of my               |
+| 06:06      | resort to like an [[AppleScript]] or something a little more advanced. In fact, one of my               |
 | 06:10      | automations I'm going to share in today's show involves [[Keyboard Maestro]] and an [[AppleScript\|AppleScripts]].                 |
 | 06:14      | But for so much of the things you want to do, it just works. I mean, you talked              |
 | 06:20      | earlier about, you know, find a button on the screen and push it, you know, and one                  |
@@ -288,7 +288,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 19:02      | talk to him or hear him on the show, you know, this guy believes in this so much. And I loved        |
 | 19:07      | the episode where he came on to share that crazy control board he made. And we'll put                |
 | 19:13      | a link to it. And this is something if you want a fun weekend project, try and set up                |
-| 19:18      | Sal's control board with your iPad and your Mac. He's driving AppleScripts from the,                |
+| 19:18      | Sal's control board with your iPad and your Mac. He's driving [[AppleScript\|AppleScripts]] from the,                |
 | 19:23      | from the glass screen of his iPad. It's just kind of amazing. And, you know, it's just,              |
 | 19:29      | it just epitomises Sal's creative thinking about automation and, and what he's done for              |
 | 19:35      | the Mac and iOS now.                                                                                 |
@@ -309,7 +309,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 20:38      | I don't have enough ports for this. So I'm using the macOS Catalina screen extension                 |
 | 20:44      | to do this. But, you know, having that both as an extra display and then also as a palette           |
 | 20:49      | of macros that I can, I can tap to run has been a game changer.                                      |
-| 20:53      | Well, I will say about that, though, is he opened my eyes about some of the AppleScripts            |
+| 20:53      | Well, I will say about that, though, is he opened my eyes about some of the [[AppleScript\|AppleScripts]]            |
 | 20:58      | to control system preferences and system events. And a bunch of those scripts, I've just basically   |
 | 21:04      | copied any keyboard master into a, into a palette. But yeah, that was probably one of                |
 | 21:10      | my favourite guests. And what about you? Any particular guest stand out for you as we get             |
@@ -541,17 +541,17 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 40:09      | have contacts, actions built, you know, it does has a lot of built-in actions, but for               |
 | 40:15      | whatever reason, contacts is not one of them. There's not like a built-in [[Keyboard Maestro]]           |
 | 40:20      | action to create a new contact or to alter a contact. So I went, you know, to our old                |
-| 40:26      | different AppleScript. And, you know, with a couple of Google searches, I was able to               |
-| 40:29      | very quickly get the syntax to create a new contact card using AppleScript. And I opened            |
+| 40:26      | different [[AppleScript]]. And, you know, with a couple of Google searches, I was able to               |
+| 40:29      | very quickly get the syntax to create a new contact card using [[AppleScript]]. And I opened            |
 | 40:35      | up the script editor on the Mac and ran some samples and very quickly had it running the             |
-| 40:40      | way I wanted. But this is a case where I want to run an AppleScript that's going to have            |
+| 40:40      | way I wanted. But this is a case where I want to run an [[AppleScript]] that's going to have            |
 | 40:46      | changing data in it. You know, the actual email is going to change and the description               |
-| 40:50      | of the project is going to change. So I wanted to write variables into an AppleScript. And          |
+| 40:50      | of the project is going to change. So I wanted to write variables into an [[AppleScript]]. And          |
 | 40:56      | I wanted to run the whole thing through [[Keyboard Maestro]] because I already have a whole series       |
 | 41:01      | of Basecamp related automations built on that caps lock B button. So I have like a palette           |
 | 41:07      | of, and I just wanted to make this one more thing on the palette. So the challenge I had             |
-| 41:12      | was to create a [[Keyboard Maestro]] script that would run an AppleScript that would grab               |
-| 41:18      | a variable that I created in [[Keyboard Maestro]] and insert it into an AppleScript. And I              |
+| 41:12      | was to create a [[Keyboard Maestro]] script that would run an [[AppleScript]] that would grab               |
+| 41:18      | a variable that I created in [[Keyboard Maestro]] and insert it into an [[AppleScript]]. And I              |
 | 41:23      | had never done that before. So I had to do some research and I figured it out. So, and               |
 | 41:27      | I'll put the, I made a video on it and I'll put it in the show notes. But the, so what               |
 | 41:32      | I do in the [[Keyboard Maestro]] half of it is the first thing I do is I grab a prompt from              |
@@ -566,24 +566,24 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 42:15      | the clipboard contents and assigns that to a variable as well. And the re, I'll explain              |
 | 42:22      | why I did that in a minute. But so at the end of the process, the [[Keyboard Maestro]] half              |
 | 42:26      | of this is I've created two variables. One is the name of the project. One is the magic              |
-| 42:31      | email address. And then I run it a AppleScript. And the way you get [[Keyboard Maestro]] variables      |
-| 42:38      | into an AppleScript is a AppleScript to [[Keyboard Maestro]]. There's actually a Keyboard              |
-| 42:43      | Maestro is AppleScript addressable. So you can set a AppleScript variable to the contents          |
+| 42:31      | email address. And then I run it a [[AppleScript]]. And the way you get [[Keyboard Maestro]] variables      |
+| 42:38      | into an [[AppleScript]] is a [[AppleScript]] to [[Keyboard Maestro]]. There's actually a Keyboard              |
+| 42:43      | Maestro is [[AppleScript]] addressable. So you can set a [[AppleScript]] variable to the contents          |
 | 42:52      | of a variable from [[Keyboard Maestro]]. So all you do is say, you know, get or set magic                |
 | 42:58      | email, which is the magic email address to the, the variable, you know, clipboard email              |
 | 43:06      | that I had in [[Keyboard Maestro]]. So all I'm doing in that step is grabbing a variable                 |
-| 43:10      | out of [[Keyboard Maestro]], inserting it into memory for AppleScript. And I do that for                |
-| 43:14      | both of those. So it's a, it's like a three step keyboard, AppleScript to grab the variables        |
+| 43:10      | out of [[Keyboard Maestro]], inserting it into memory for [[AppleScript]]. And I do that for                |
+| 43:14      | both of those. So it's a, it's like a three step keyboard, [[AppleScript]] to grab the variables        |
 | 43:20      | out of [[Keyboard Maestro]]. Then once I have those, I'm golden, you know, I can just run                |
-| 43:26      | the typical create a new contact AppleScript command. And mine is very simple because I             |
+| 43:26      | the typical create a new contact [[AppleScript]] command. And mine is very simple because I             |
 | 43:32      | don't have email address. I'm sorry, I don't have phone numbers and, and physical addresses.         |
 | 43:37      | All I'm doing is one email address and the name of the organisation. And when you make               |
-| 43:43      | that identification with the AppleScript name of organisation, but you don't do first               |
+| 43:43      | that identification with the [[AppleScript]] name of organisation, but you don't do first               |
 | 43:48      | name and last name, it automatically creates a contact and marks it as an organisation               |
 | 43:54      | because it says, Hey, he didn't give me a first or last name. So I'm going to assume                 |
-| 43:57      | this is an organisation. I thought that was really smart by the contacts slash AppleScript          |
+| 43:57      | this is an organisation. I thought that was really smart by the contacts slash [[AppleScript]]          |
 | 44:02      | team. And then I just add to that the, the magic email. And then the final thing I do                |
-| 44:08      | is you can use an AppleScript, add a contact to a group. So then I add the new contact              |
+| 44:08      | is you can use an [[AppleScript]], add a contact to a group. So then I add the new contact              |
 | 44:14      | to the group called base camp filings, which is a specific group of my contacts database.            |
 | 44:20      | And all that happens in the background when you run this little script. And when I'm done,           |
 | 44:25      | you don't see anything. All you do is you copy the, you know, the email, you hit the                 |
@@ -775,7 +775,7 @@ David and Rose celebrate episode 50 buy looking at the different flavours of aut
 | 56:11      | and how you can literally script anything on your Mac.                                               |
 | 56:15      | What is the necessity of shortcuts?                                                                  |
 | 56:18      | I think it's going to be more limited than what we can already do, but it does offer                 |
-| 56:23      | a different avenue for people who don't want to learn AppleScript or deal with Keyboard              |
+| 56:23      | a different avenue for people who don't want to learn [[AppleScript]] or deal with Keyboard              |
 | 56:27      | Maestro.                                                                                             |
 | 56:28      | I think there's a benefit to it.                                                                     |
 | 56:30      | I'd like to see it happen, but I am super curious when they do get around to it to see               |

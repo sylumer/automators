@@ -388,8 +388,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 22:25      | I've been trying to roll my own version of that by turning it on and then having [[Moom]]                   |
 | 22:33      | window setup saved that I can run.                                                                      |
 | 22:36      | There is an [[AppleScript]] command to run a [[Moom]] setup.                                                    |
-| 22:43      | To run it out of shortcuts, you use the on-run shortcut AppleScript.                                    |
-| 22:48      | There's an AppleScript action that has an on-run command in it.                                         |
+| 22:43      | To run it out of shortcuts, you use the on-run shortcut [[AppleScript]].                                    |
+| 22:48      | There's an [[AppleScript]] action that has an on-run command in it.                                         |
 | 22:52      | But the actual shortcut is tell application, open quote, [[Moom]], close quote, to arrange                  |
 | 22:59      | windows according to the snapshot, and then you put in the name of the snapshot, like                   |
 | 23:04      | mail processing, or podcasting, or whatever it is you do, and that has to be in quotes,                 |
@@ -399,14 +399,14 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 23:16      | I will put something in the show notes.                                                                 |
 | 23:19      | What I can do is I'll put a link to the bunch docs in here because Bunch actually has this              |
 | 23:25      | exact one listed in their [[Moom]] documentation section.                                                   |
-| 23:30      | I'll pop that into the show notes and just note that that's the AppleScript to run [[Moom]].                |
+| 23:30      | I'll pop that into the show notes and just note that that's the [[AppleScript]] to run [[Moom]].                |
 | 23:37      | Yes.                                                                                                    |
 | 23:38      | What I'm doing is I'm activating the [[Stage Manager]], I'm arranging, and then I'm opening                 |
 | 23:44      | the apps that I want, and then I'm hitting a button in [[Moom]] that does it, and I can                     |
 | 23:49      | open the apps also via automation.                                                                      |
 | 23:52      | I've been trying to figure out a way to do this with shortcuts only.                                    |
 | 23:55      | This would be a lot easier using [[Keyboard Maestro]] because it gives you more granular                    |
-| 23:59      | control, but the combination of open app plus that [[Moom]] AppleScript that you can embed in               |
+| 23:59      | control, but the combination of open app plus that [[Moom]] [[AppleScript]] that you can embed in               |
 | 24:08      | a shortcut gives me a way to assemble setups the way I want them, and then they're just                 |
 | 24:14      | shown on the left side of the screen.                                                                   |
 | 24:16      | The idea of this is to allow you to focus on just what you're working on.                               |
@@ -464,7 +464,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 28:03      | Lovely idea, 10 out of 10 in favor of that.                                                             |
 | 28:06      | This is in addition to tab groups, so I'm there going, brilliant, love it, and yeah,                    |
 | 28:14      | you guessed it, folks.                                                                                  |
-| 28:16      | There's no shortcut sections for this, this is an AppleScript, this is nothing, and it's               |
+| 28:16      | There's no shortcut sections for this, this is an [[AppleScript]], this is nothing, and it's               |
 | 28:20      | just one of those things of like, I just wanted the support for that because [[Safari]] on Mac              |
 | 28:28      | is unfortunately liking behind [[Safari]] on iOS and iPadOS with regards to shortcut sections,              |
 | 28:34      | and it's just one of those things of, you know, if they brought out the shortcut sections               |
@@ -915,7 +915,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 56:39      | Like when it came on the Mac, there was a part of me that thought I would never really                  |
 | 56:43      | use it much because I am a power automator.                                                             |
 | 56:46      | I, I wrote a book on [[Keyboard Maestro]].                                                                  |
-| 56:49      | I know my way around AppleScript there.                                                                |
+| 56:49      | I know my way around [[AppleScript]] there.                                                                |
 | 56:52      | There's a lot of great options on the Mac.                                                              |
 | 56:53      | You know, what do I need this, you know, pedestrian themed shortcuts for?                               |
 | 56:58      | But the fact is shortcuts is the best tool in the belt, occasionally for automation and                 |

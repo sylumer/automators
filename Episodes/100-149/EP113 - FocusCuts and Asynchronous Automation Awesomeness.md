@@ -812,7 +812,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 48:18      | And now I just need you to go do this bit of it, you know, like maybe these folders                     |
 | 48:22      | got created in [[Dropbox]] and, you know, this, this, I don't know, something got created                   |
 | 48:26      | in Evernote if you're using Evernote or similar.                                                        |
-| 48:29      | And now I need you to, you know, run this AppleScript on my Mac.                                       |
+| 48:29      | And now I need you to, you know, run this [[AppleScript]] on my Mac.                                       |
 | 48:31      | Well, it doesn't have to happen right now.                                                              |
 | 48:34      | So as well as using, you know, your web triggers, you can then use the folder trigger, but you          |
 | 48:38      | can also have, you know, other triggers, you know, like I mentioned before, the login trigger,          |

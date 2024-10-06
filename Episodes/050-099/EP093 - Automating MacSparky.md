@@ -288,11 +288,11 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 13:21      | Yeah.                                                                                                  |
 | 13:22      | And so that, it's up and running and the automation has begun.                                         |
 | 13:25      | So as I said earlier, I'm doing some local automation, getting it to team members.                     |
-| 13:31      | I have different post workflows like that post I mentioned earlier about the AppleScript.             |
+| 13:31      | I have different post workflows like that post I mentioned earlier about the [[AppleScript]].             |
 | 13:37      | I have a couple of friends or people, maybe we'll get to today if we have time is since                |
 | 13:43      | I'm really like put it going all in on MacSparky, I'm really kind of growing a team                   |
 | 13:47      | around it too.                                                                                         |
-| 13:48      | And I've got people that back me up and like technical posts like one about an AppleScript.           |
+| 13:48      | And I've got people that back me up and like technical posts like one about an [[AppleScript]].           |
 | 13:52      | I'm going to have a few people read it before it gets posted to make sure everything works             |
 | 13:57      | for them too.                                                                                          |
 | 13:58      | And I don't post something that's not right.                                                           |
@@ -574,7 +574,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 30:21      | I do like a morning clear out to catch any emergencies and then the afternoon I actually               |
 | 30:28      | process Mail.                                                                                          |
 | 30:29      | I don't really respond to Mail unless it's an emergency early afternoon, but like I have               |
-| 30:33      | programmed with those AppleScripts on my numeric keypad or on the [[Stream Deck]], I can                  |
+| 30:33      | programmed with those [[AppleScript\|AppleScripts]] on my numeric keypad or on the [[Stream Deck]], I can                  |
 | 30:41      | type one, two or three.                                                                                |
 | 30:43      | One is priority, two is action, three is read later and then I've got the zero underneath              |
 | 30:49      | it is to archive it.                                                                                   |
@@ -790,7 +790,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 43:32      | I don't need to go over all here, but I love calendar blocks.                                          |
 | 43:36      | Shortcuts makes it really easy.                                                                        |
 | 43:38      | There's no other tool in my mind that automates calendars better than shortcuts.                       |
-| 43:42      | As much as I love things like [[Keyboard Maestro]], AppleScript, and all the other stuff, they're         |
+| 43:42      | As much as I love things like [[Keyboard Maestro]], [[AppleScript]], and all the other stuff, they're         |
 | 43:48      | much more fiddly for calendar events than shortcuts.                                                   |
 | 43:52      | In my experience, I don't know if you agree or disagree.                                               |
 | 43:55      | I find shortcuts is just so incredibly easy because it's very simple to just have that                 |

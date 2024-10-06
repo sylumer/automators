@@ -1940,7 +1940,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:21:25   | But there's one there and you can automate the process            |
 | 01:21:29   | of creating those notes.                                          |
 | 01:21:31   | And then if you want to take it to the next level,                |
-| 01:21:33   | you're going to have it execute AppleScripts                     |
+| 01:21:33   | you're going to have it execute [[AppleScript\|AppleScripts]]                     |
 | 01:21:35   | to do like fill in fields at the same time.                       |
 | 01:21:39   | So it can grab data from elsewhere                                |
 | 01:21:41   | in your DEVONthink database or query you for like,               |
@@ -2021,11 +2021,11 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 01:24:50   | but they are very automation,                                     |
 | 01:24:52   | they're enthusiasts of automation.                                |
 | 01:24:54   | So they keep bringing things.                                     |
-| 01:24:55   | And the reason why there's so many great AppleScripts,           |
+| 01:24:55   | And the reason why there's so many great [[AppleScript\|AppleScripts]],           |
 | 01:24:58   | I'm convinced is every time somebody writes an email              |
 | 01:25:01   | to them asking for some feature,                                  |
-| 01:25:03   | they'll just, they just write and publish an AppleScript         |
-| 01:25:06   | to add the feature in essence via AppleScript                    |
+| 01:25:03   | they'll just, they just write and publish an [[AppleScript]]         |
+| 01:25:06   | to add the feature in essence via [[AppleScript]]                    |
 | 01:25:08   | because it's just so powerful.                                    |
 | 01:25:10   | So yeah, it's a great app and I'm a huge fan                      |
 | 01:25:14   | and I use it every day.                                           |

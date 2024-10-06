@@ -741,7 +741,7 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 54:39      | time. There's always the IKEA dot com link in the note. And there's always face dash                      |
 | 54:44      | base IKEA at the end of the task. And lots of stores do the same sort of thing where                      |
 | 54:49      | maybe they've got a pipe before their shop name or something like that. And I actually                    |
-| 54:54      | got this idea from [[Joe Buhlig]]. And he had an [[AppleScript\|AppleScript]] still has an AppleScript, where                 |
+| 54:54      | got this idea from [[Joe Buhlig]]. And he had an [[AppleScript\|AppleScript]] still has an [[AppleScript]], where                 |
 | 55:01      | it could automatically parse tasks in your inbox using a format called transport text.                    |
 | 55:07      | Now transport text predates Taskpaper. And it's not quite as flexible. But it's great                    |
 | 55:14      | for adding things by an automated system where you can get it into OmniFocus via the                      |

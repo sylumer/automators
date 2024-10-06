@@ -483,7 +483,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 29:30      | actions.                                                                                              |
 | 29:31      | I'm going to have to dig that out.                                                                    |
 | 29:32      | I didn't know that that was there, but yeah, that was one of the first examples.                      |
-| 29:36      | And that's used, and that is using an AppleScript underneath the, how is it resizing                 |
+| 29:36      | And that's used, and that is using an [[AppleScript]] underneath the, how is it resizing                 |
 | 29:40      | the windows?                                                                                          |
 | 29:41      | Well, what it does is when the finder would trigger the folder action event, it would                 |
 | 29:48      | pass the window object to the script that gets called.                                                |
@@ -1109,7 +1109,7 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:10:58   | somebody told me once that, you know, back in the battle days of the mid nineties, when               |
 | 01:11:04   | [[Apple]] was on the ropes, the that what happened, you know, they weren't selling many computers,        |
 | 01:11:14   | but the computers they were selling were to publishing houses and people that were using              |
-| 01:11:18   | Macs and they had all built out AppleScript, automations and complex automations to keep             |
+| 01:11:18   | Macs and they had all built out [[AppleScript]], automations and complex automations to keep             |
 | 01:11:25   | their, their publishing pipeline going.                                                               |
 | 01:11:27   | And they were reliant on [[Apple]] for that.                                                              |
 | 01:11:29   | And that is what kept the company on life support until kind of the big change.                       |
@@ -1117,11 +1117,11 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:11:38   | say this, but the Steve Jobs said once, Sal's the guy that kept it, kept the lights on.               |
 | 01:11:43   | Is that true?                                                                                         |
 | 01:11:44   | I don't know if Steve said that, but I was definitely out there pushing, especially with              |
-| 01:11:52   | the publishing world, they were heavily invested in AppleScript.                                     |
+| 01:11:52   | the publishing world, they were heavily invested in [[AppleScript]].                                     |
 | 01:11:56   | I mean, all the way up to the New York Times stock pages, the weather pages for the Chronicle.        |
 | 01:12:02   | I mean, it was everywhere and it still is quite highly used in all forms of media production.         |
 | 01:12:10   | Well, and so my point is, for the people writing me saying, well, I'm worried about                   |
-| 01:12:14   | all your AppleScript that they're going to take it out.                                              |
+| 01:12:14   | all your [[AppleScript]] that they're going to take it out.                                              |
 | 01:12:17   | A lot of those publishing houses are still using this stuff, you know, [[Apple]] still uses               |
 | 01:12:21   | it.                                                                                                   |
 | 01:12:22   | Everybody's using this underlying script.                                                             |
@@ -1143,46 +1143,46 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:13:13   | puts his name in.                                                                                     |
 | 01:13:14   | So then I put that into a TextExpander, snip it.                                                     |
 | 01:13:17   | So I just say X high and it says high sell.                                                           |
-| 01:13:20   | And I can't build that in [[Apple Mail]] on the iPhone because it doesn't have AppleScript               |
+| 01:13:20   | And I can't build that in [[Apple Mail]] on the iPhone because it doesn't have [[AppleScript]]               |
 | 01:13:27   | and there's no way to do it with [[JavaScript]] because they don't give me enough access,                 |
 | 01:13:31   | blah, blah, blah, blah.                                                                               |
-| 01:13:33   | But I can do that and I can do it on the platform that I use the most because of AppleScript.        |
+| 01:13:33   | But I can do that and I can do it on the platform that I use the most because of [[AppleScript]].        |
 | 01:13:40   | It's quite viable and I still use it.                                                                 |
 | 01:13:43   | It's a prime automation tool for me.                                                                  |
 | 01:13:46   | I use it to create other automations.                                                                 |
 | 01:13:49   | And a lot of the times, you know, the examples that I put on Omni Automation are all done             |
-| 01:13:55   | with AppleScript generating the [[JavaScript]].                                                          |
+| 01:13:55   | with [[AppleScript]] generating the [[JavaScript]].                                                          |
 | 01:13:59   | How do you do that?                                                                                   |
 | 01:14:02   | I use [[BBEdit]], which is a remarkable tool if you have to deal with text.                              |
 | 01:14:08   | I've heard Rose mentioned that app on show many times.                                                |
 | 01:14:12   | It's extremely powerful and useful.                                                                   |
 | 01:14:15   | And I have [[BBEdit]] automated that I can take any Omni Automation script and convert it                |
-| 01:14:21   | into the HTML using AppleScript and it just generates it like instant for me.                        |
+| 01:14:21   | into the HTML using [[AppleScript]] and it just generates it like instant for me.                        |
 | 01:14:28   | It saves me tremendous amount of work.                                                                |
 | 01:14:31   | Yeah.                                                                                                 |
 | 01:14:32   | It is incredibly useful.                                                                              |
 | 01:14:33   | Yeah.                                                                                                 |
-| 01:14:34   | I'd never really thought of that like, you know, taking an AppleScript and converting                |
+| 01:14:34   | I'd never really thought of that like, you know, taking an [[AppleScript]] and converting                |
 | 01:14:38   | it to [[JavaScript]] because my [[JavaScript]] knowledge is too weak, but having an automated process         |
 | 01:14:45   | that's very attractive to me, that idea.                                                              |
 | 01:14:48   | Okay.                                                                                                 |
-| 01:14:49   | Well, I think we've made the case for AppleScript guys.                                              |
+| 01:14:49   | Well, I think we've made the case for [[AppleScript]] guys.                                              |
 | 01:14:51   | What do you think?                                                                                    |
 | 01:14:52   | I think so.                                                                                           |
 | 01:14:55   | Mission succeeded.                                                                                    |
 | 01:14:56   | Yeah.                                                                                                 |
 | 01:14:57   | So we're going to put some links in the show.                                                         |
 | 01:15:01   | The video that Sal was talking about, the tutorial is going to be there as well and the link          |
-| 01:15:06   | to AppleScript one, two, three.                                                                      |
+| 01:15:06   | to [[AppleScript]] one, two, three.                                                                      |
 | 01:15:09   | And the other thing I'm going to add is a link to the app script debugger.                            |
 | 01:15:14   | Now [[Apple]] has a free scripting app that you get with your Mac and it does a decent job                |
-| 01:15:18   | of AppleScript.                                                                                      |
-| 01:15:19   | The script debugger, I think you explained it to me one day is the AppleScript app [[Apple]]             |
+| 01:15:18   | of [[AppleScript]].                                                                                      |
+| 01:15:19   | The script debugger, I think you explained it to me one day is the [[AppleScript]] app [[Apple]]             |
 | 01:15:25   | should have made.                                                                                     |
 | 01:15:26   | Yeah.                                                                                                 |
 | 01:15:27   | Yeah.                                                                                                 |
 | 01:15:28   | It's much more powerful.                                                                              |
-| 01:15:29   | And if you want to, if you want to spend any time making AppleScript, just spend the                 |
+| 01:15:29   | And if you want to, if you want to spend any time making [[AppleScript]], just spend the                 |
 | 01:15:33   | money and buy script debugger.                                                                        |
 | 01:15:35   | And the thing personally that I would recommend it for is I talked earlier about these dictionaries   |
 | 01:15:42   | where every app has its own dictionary.                                                               |
@@ -1197,8 +1197,8 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:16:06   | I'm also going to throw out a recommendation for [[FastScripts]].                                        |
 | 01:16:10   | So obviously if you're using Omni Automation or something, then you'll have the automation            |
 | 01:16:15   | menu inside of that app.                                                                              |
-| 01:16:17   | But if, for example, like me, you may use something like iTerm, which has AppleScript                |
-| 01:16:21   | support, it's got very good AppleScript support, but it doesn't have a way in there                  |
+| 01:16:17   | But if, for example, like me, you may use something like iTerm, which has [[AppleScript]]                |
+| 01:16:21   | support, it's got very good [[AppleScript]] support, but it doesn't have a way in there                  |
 | 01:16:27   | to necessarily run the script in the manner that I would like, then you can use [[FastScripts]]          |
 | 01:16:33   | to put any script, and I mean any script in your menu bar, and you can have them be application       |
 | 01:16:40   | specific as well.                                                                                     |
@@ -1209,21 +1209,21 @@ In this episode, Rosemary and David are joined by Sal Soghoian to talk about eve
 | 01:16:53   | We've had Daniel on the show before.                                                                  |
 | 01:16:55   | There is an upgrade to a pro version, which unlocks even more features, which I feel like             |
 | 01:17:02   | I never scratch the surface off, but it's well worth it regardless because it just makes              |
-| 01:17:06   | it so easy to run AppleScript or any other script.                                                   |
+| 01:17:06   | it so easy to run [[AppleScript]] or any other script.                                                   |
 | 01:17:09   | And of course, with all these scripts, go steal what sales are already written.                       |
 | 01:17:14   | Or somebody.                                                                                          |
 | 01:17:15   | I mean, there's just so much of it out there.                                                         |
 | 01:17:16   | Yeah.                                                                                                 |
-| 01:17:17   | On that general theme, if you're listening and you've created an interesting AppleScript             |
+| 01:17:17   | On that general theme, if you're listening and you've created an interesting [[AppleScript]]             |
 | 01:17:21   | to solve an interesting problem, let us know because we do these feedback shows once in               |
 | 01:17:25   | a while.                                                                                              |
 | 01:17:26   | I'd love to share some of the work that our listeners have done because there's a lot                 |
 | 01:17:31   | of people listening to this show that are pretty good automators.                                     |
-| 01:17:34   | So we'd love to hear what you're doing with AppleScript and kind of share the love.                  |
+| 01:17:34   | So we'd love to hear what you're doing with [[AppleScript]] and kind of share the love.                  |
 | 01:17:38   | All right.                                                                                            |
 | 01:17:40   | Well, I think that's going to wrap it up.                                                             |
 | 01:17:42   | So Sal, we've got links in for Omni Automation and Omni Voice Control.                                |
-| 01:17:47   | We're going to have some links to all the stuff we just talked about AppleScript.                    |
+| 01:17:47   | We're going to have some links to all the stuff we just talked about [[AppleScript]].                    |
 | 01:17:50   | Where else should people go if they want to keep up with what you're doing?                           |
 | 01:17:53   | In fact, let's share your music.                                                                      |
 | 01:17:56   | Oh, I'm using a wonderful service called Sound Slice.                                                 |

@@ -825,7 +825,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 33:59      | by adding to it with its Scripts menu.                                                                                                                                   |
 | 34:01      | Even templates can have Scripts inside,                                                                                                                                  |
 | 34:03      | and you can set up new documents with data from placeholders                                                                                                             |
-| 34:06      | or insert it by your own AppleScript code.                                                                                                                               |
+| 34:06      | or insert it by your own [[AppleScript]] code.                                                                                                                               |
 | 34:08      | And of course, there's so much more,                                                                                                                                     |
 | 34:10      | from an iOS companion app to email archiving, scanning,                                                                                                                  |
 | 34:12      | or even embedded web server                                                                                                                                              |
@@ -1150,7 +1150,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 46:48      | Yeah.                                                                                                                                                                    |
 | 46:49      | Yeah.                                                                                                                                                                    |
 | 46:50      | So what, what are the tools you use to do automation on the Mac?                                                                                                         |
-| 46:53      | I use AppleScript.                                                                                                                                                      |
+| 46:53      | I use [[AppleScript]].                                                                                                                                                      |
 | 46:55      | I use automator, but really for me these days, the present and I believe, well,                                                                                          |
 | 47:01      | maybe not entire future of automation on the Mac has been [[Keyboard Maestro]] shortcuts,                                                                                    |
 | 47:06      | changes that a little bit and which in a good way,                                                                                                                       |
@@ -1158,7 +1158,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 47:11      | But for me, [[Keyboard Maestro]] sort of sits at the core of what I do on the Mac.                                                                                           |
 | 47:17      | It is my default go to when I need to automate something on my Mac.                                                                                                      |
 | 47:22      | Just because it's so flexible and so powerful and it's so well integrated with everything                                                                                |
-| 47:28      | that I would need to do, including automator and AppleScript and the terminal.                                                                                          |
+| 47:28      | that I would need to do, including automator and [[AppleScript]] and the terminal.                                                                                          |
 | 47:33      | And you know, it's, it's so flexible.                                                                                                                                    |
 | 47:36      | I know we started here in the episode talking about my podcast chaptering tool,                                                                                          |
 | 47:40      | which is [[Keyboard Maestro]] and [[Keyboard Maestro]] macros sync to all of my Macs if I want them to,                                                                          |
@@ -1207,7 +1207,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 50:30      | So I'm, I am occasionally disconnecting this computer from the disk array and the,                                                                                       |
 | 50:36      | the screen and everything to take it somewhere else.                                                                                                                     |
 | 50:39      | And you want to properly eject your disks like a gentleman.                                                                                                              |
-| 50:43      | And I wrote like a two line AppleScript that does it, you know, it's very simple,                                                                                       |
+| 50:43      | And I wrote like a two line [[AppleScript]] that does it, you know, it's very simple,                                                                                       |
 | 50:48      | but then I just embed that into [[Keyboard Maestro]].                                                                                                                        |
 | 50:51      | And now it's a thing I can run as part of any automation, like I'm ready to go.                                                                                          |
 | 50:56      | I don't have to go look for some dumb menu bar app or anything.                                                                                                          |
@@ -1568,7 +1568,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:10:38   | Our thanks to Hover for their support of the automators and all of Relay FM.                                                                                             |
 | 01:10:44   | Dave, so you were an automator and pro.                                                                                                                                  |
 | 01:10:46   | You've been doing this a long time.                                                                                                                                      |
-| 01:10:47   | I know you do AppleScript, we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
+| 01:10:47   | I know you do [[AppleScript]], we've just kind of proven your [[Keyboard Maestro]] chops.                                                                                       |
 | 01:10:52   | Let's talk about shortcuts, you know, the democratised automation that [[Apple|\Apple's]] been                                                                                      |
 | 01:10:56   | pushing now for a few years.                                                                                                                                             |
 | 01:10:58   | What do you think about it and where are you using it?                                                                                                                   |
@@ -1884,7 +1884,7 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:26:37   | I'm going to clear the decks.                                                                                                                                            |
 | 01:26:38   | I'm going to start recording the podcast.                                                                                                                                |
 | 01:26:40   | It clears the decks.                                                                                                                                                     |
-| 01:26:41   | I use [[Safari]], sorry, AppleScript to open a new [[Safari]] window.                                                                                                           |
+| 01:26:41   | I use [[Safari]], sorry, [[AppleScript]] to open a new [[Safari]] window.                                                                                                           |
 | 01:26:45   | So I clear the decks.                                                                                                                                                    |
 | 01:26:46   | I hide all the applications that I do want to keep.                                                                                                                      |
 | 01:26:48   | And then I hide all of the other [[Safari]].                                                                                                                                 |

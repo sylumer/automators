@@ -172,9 +172,9 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 10:58      | and asking for it, but the people who are doing it are vocal.                                        |
 | 11:01      | Yeah, it's like a chicken and egg always.                                                            |
 | 11:03      | Yeah, I agree. But at least it's there. Like, when you look at like, let's look at historical        |
-| 11:08      | work, you had AppleScript, which was probably the most powerful thing they ever did in terms        |
+| 11:08      | work, you had [[AppleScript]], which was probably the most powerful thing they ever did in terms        |
 | 11:14      | of user automation and the lease adopted because it was quirky and you had to understand it.         |
-| 11:20      | Like the problem with AppleScript is it was too simple for developers and too complex               |
+| 11:20      | Like the problem with [[AppleScript]] is it was too simple for developers and too complex               |
 | 11:25      | for normal users. And, and it just never got the widespread adoption, I think that they              |
 | 11:30      | had hoped. And then, and then there was automator, right? [[Automator]] to me was the precursor of       |
 | 11:36      | [[Shortcuts]], you know, Lego block-based automation, but it just never got the buy-in. And not          |
@@ -637,7 +637,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 53:32      | in like no time flat. And I'm good at keyboard shortcuts, but there's no way I could match that      |
 | 53:37      | speed with the with the keyboard. It's just not necessary to and like you can just get               |
 | 53:43      | that combination like the weird keyboard, like that's what I'm doing the same thing, but I'm         |
-| 53:49      | turning those into AppleScripts shortcuts instead of just relying on the [[Stream Deck]] part,          |
+| 53:49      | turning those into [[AppleScript\|AppleScripts]] shortcuts instead of just relying on the [[Stream Deck]] part,          |
 | 53:54      | because then it's also in my menu bar, or I can just use that using run shortcut and put it into     |
 | 54:01      | a sub routine where like that workflow to set up all this stuff can also trigger that one keyboard   |
 | 54:06      | shortcut as well. And for me, because then I can just share them with people and it's like here's    |

@@ -319,8 +319,8 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 28:49      | MacSparky Labs challenged me to do them in shortcuts. And honestly, I can do it in shortcuts           |
 | 28:54      | just as easily because shortcuts has got powerful enough. And the window management piece of it         |
 | 29:00      | was always the tricky part. The shortcuts window management can't hold a candle to                      |
-| 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an AppleScript. And there's an app called        |
-| 29:09      | [[Moom]], M-O-O-M. I'm going to give you a labs video where I explain it. [[Moom]] has AppleScript support.    |
+| 29:04      | to [[Keyboard Maestro]]. But what shortcuts can do is run an [[AppleScript]]. And there's an app called        |
+| 29:09      | [[Moom]], M-O-O-M. I'm going to give you a labs video where I explain it. [[Moom]] has [[AppleScript]] support.    |
 | 29:16      | So you can set up the windows exactly as you want with [[Moom]]. And then you can run a one step            |
 | 29:21      | shortcut that says, run my [[Moom]] view for editing podcasts. And they'll say, Oh, great, Alex, no         |
 | 29:29      | problem. Here's logic. Here's your text edit. Here's your notes. Here's your whatever. And              |
@@ -353,9 +353,9 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 32:27      | things where it worked. And if it didn't, I could text Brett and say, what am I doing wrong?            |
 | 32:33      | And you'd be like, here, here's the right script that you need to run it.                               |
 | 32:38      | And in fairness, that thing I just described, you could do the entire thing in bunch,                   |
-| 32:42      | because bunch can make shortcuts and it can run AppleScript. So you really get to choose your          |
+| 32:42      | because bunch can make shortcuts and it can run [[AppleScript]]. So you really get to choose your          |
 | 32:48      | weapon. Yeah. And the other thing is, I'm pretty certain the bunch docs are where David found the       |
-| 32:52      | AppleScript for [[Moom]] as well to run [[Moom]] to set the screen. The other thing I want to mention,         |
+| 32:52      | [[AppleScript]] for [[Moom]] as well to run [[Moom]] to set the screen. The other thing I want to mention,         |
 | 32:59      | by the way, about [[Moom]] is what you do with [[Moom]] is you click on the [[Moom]] menu bar icon,                 |
 | 33:06      | and then you just click on save window layout snapshot. So like you put your windows where              |
 | 33:10      | you want them, and then you're just like, just save it. Like, just save what I've got. Like,            |
@@ -409,7 +409,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 37:46      | and, you know, but I just find it really hard to not recommend [[Moom]] because                             |
 | 37:53      | the combination, it has so many window management features built in. And then                           |
 | 37:57      | the ease of you saving a set up windows like Rose was talking about, and then the ease of               |
-| 38:02      | triggering it via AppleScript. It's just such a killer combination. I just don't know how you          |
+| 38:02      | triggering it via [[AppleScript]]. It's just such a killer combination. I just don't know how you          |
 | 38:07      | not use that. And it, Rose is right. Like setting it up in [[Keyboard Maestro]], as much as I'm a           |
 | 38:13      | fan of [[Keyboard Maestro]], it is a thing where you have to set a percentage or you have to set a pixel    |
 | 38:18      | location. But what if you change your screen display or whatever? And [[Moom]] just kind of solves          |
@@ -861,7 +861,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:27:59   | bringing that into Shortcuts, like, visionOS is kind of the place to do it because it's                 |
 | 01:28:05   | this whole cool new thing. And at the moment, I can write a script and run a script                     |
 | 01:28:10   | on another machine from Shortcuts. I say another machine, like, macOS Shortcuts has support for         |
-| 01:28:18   | command line scripts, AppleScripts, et cetera. But iOS just doesn't have that. The closest it's        |
+| 01:28:18   | command line scripts, [[AppleScript\|AppleScripts]], et cetera. But iOS just doesn't have that. The closest it's        |
 | 01:28:23   | got is being able to run [[JavaScript]] on a page, on, like, a web page, which is a bookmarklet,            |
 | 01:28:29   | essentially. But it would be really cool if you could integrate [[Swift Playgrounds]] stuff                 |
 | 01:28:34   | with Shortcuts and then you could just automate all the things. Because [[Swift]] is a really powerful      |

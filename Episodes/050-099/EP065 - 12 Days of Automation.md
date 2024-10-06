@@ -102,11 +102,11 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 02:11      | of them do a very good job of it.                                                                        |
 | 02:13      | So I tried a bunch of tools out.                                                                         |
 | 02:15      | Ultimately, I ended up writing an [[AppleScript]] to do it, and you can write nested folders                |
-| 02:21      | with AppleScript, and you can even write it where you can choose a source folder, or                    |
+| 02:21      | with [[AppleScript]], and you can even write it where you can choose a source folder, or                    |
 | 02:26      | you can have it just automatically create a certain folder.                                              |
 | 02:30      | And then I spent another hour trying to figure out how to do it on an iCloud directory, because          |
 | 02:34      | iCloud directories are a completely different animal.                                                    |
-| 02:37      | But I eventually figured it all out, and I sent it to Sal, the master of AppleScript                    |
+| 02:37      | But I eventually figured it all out, and I sent it to Sal, the master of [[AppleScript]]                    |
 | 02:43      | say, is there any way I could do this better, and he's like, no, you basically got it.                   |
 | 02:48      | That is high praise indeed, because sometimes it's really tricky to figure these things                  |
 | 02:51      | out, and then somebody else looks at it and goes, but why didn't you just press the widget               |
@@ -1520,7 +1520,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:19:41   | mean for Mac automation, and how does it affect your Mac automation?                                     |
 | 01:19:45   | And I thought it'd be interesting to talk about, you know, my experiences.                               |
 | 01:19:50   | For the, a lot of the automation type work I do, which is largely, I mean, the deepest                   |
-| 01:19:56   | I go down the stack really is AppleScript and some Java scripting.                                      |
+| 01:19:56   | I go down the stack really is [[AppleScript]] and some Java scripting.                                      |
 | 01:20:01   | It's fine.                                                                                               |
 | 01:20:02   | I mean, [[Keyboard Maestro]] works.                                                                          |
 | 01:20:03   | I have not had any of my [[Keyboard Maestro]] scripts that, you know, used to work on Intel                  |
@@ -1536,7 +1536,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:20:37   | I mean, it rocks solid.                                                                                  |
 | 01:20:39   | All of my typical automation tools work fine.                                                            |
 | 01:20:42   | My automator scripts work.                                                                               |
-| 01:20:44   | All the AppleScripts I've written still work.                                                           |
+| 01:20:44   | All the [[AppleScript\|AppleScripts]] I've written still work.                                                           |
 | 01:20:47   | I understand if I were to go deeper down the stack into some of the terminal tools, some                 |
 | 01:20:52   | of those don't work yet, but like, I believe, what is it, Homebridge, is Homebridge not working          |
 | 01:20:58   | on M1 yet?                                                                                               |

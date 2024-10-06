@@ -1146,7 +1146,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:11:37   | help and then there's a plus.                                                                         |
 | 01:11:39   | There are templates, so you can have web and URLs, there's follows and apps show [[Alfred]]               |
 | 01:11:46   | with specific text, there's some essentials like taking a keyword and passing it into                 |
-| 01:11:50   | [[AppleScript]] or a script filter going into AppleScript or keyword goes to a terminal                   |
+| 01:11:50   | [[AppleScript]] or a script filter going into [[AppleScript]] or keyword goes to a terminal                   |
 | 01:11:54   | command, things like that, but there's also clipboard, pasting text from a hotkey, pasting            |
 | 01:12:01   | this plain text from a hotkey, controlling music and things like that as great examples.              |
 | 01:12:06   | And then there's also getting started, so you can use other ones there, but I mean I                  |
@@ -1160,7 +1160,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:12:38   | Really simple, really effective and it works.                                                         |
 | 01:12:42   | And I did this as a test for myself just to see how easily can I create an [[Alfred]] workflow            |
 | 01:12:52   | using somebody who's been playing with shortcuts and things like that for a while but doesn't         |
-| 01:12:57   | necessarily know how to write a full-blown search filter in AppleScript or how to write               |
+| 01:12:57   | necessarily know how to write a full-blown search filter in [[AppleScript]] or how to write               |
 | 01:13:04   | a Python script to do something could do this and I was like, okay, well, [[URL Schemes]],                |
 | 01:13:08   | there's plenty of examples of those out there.                                                        |
 | 01:13:09   | The OmniFocus website shows a number of [[URL Schemes]].                                                  |
@@ -1261,7 +1261,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:19:49   | And if [[Amphetamine]] is running, well, [[Amphetamine]] is just told to turn off regardless of whether       |
 | 01:19:55   | or not it's running, and then it runs a sleep command, and that's it.                                 |
 | 01:20:01   | But it's really nice to be able to do that, and it didn't take me long to find all of                 |
-| 01:20:07   | the places where I could just copy and paste these tiny little bits of AppleScript from.             |
+| 01:20:07   | the places where I could just copy and paste these tiny little bits of [[AppleScript]] from.             |
 | 01:20:12   | If application music is running, then tell application music if player state is playing,              |
 | 01:20:18   | and pause, and tell, and if that was it.                                                              |
 | 01:20:22   | And that's the longest part of the script.                                                            |

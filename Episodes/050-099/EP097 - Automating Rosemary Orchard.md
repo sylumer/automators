@@ -450,7 +450,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 32:00      | great calendar icon, which you can have in [[Stream Deck]]. And that's controlled through                    |
 | 32:07      | [[Keyboard Maestro]] and you change the background colour of the [[Keyboard Maestro]], the stream                 |
 | 32:13      | deck button, and you change what text is on it all through [[Keyboard Maestro]] and some                     |
-| 32:17      | AppleScript and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
+| 32:17      | [[AppleScript]] and bash scripts and everything. It's, it's genuinely amazing. And I love it.               |
 | 32:22      | I realised what I can probably do a good chunk of the time is read some of that same data                |
 | 32:30      | and actually use it to display the right bunch. So then when I press one [[Stream Deck]] button,             |
 | 32:36      | it will almost certainly run exactly the right bunch for exactly what I'm doing. And then                |
@@ -809,7 +809,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:02:28   | you define. DEVONthink's [[AppleScript Dictionary is one of the largest on the Mac. There's no           |
 | 01:02:32   | part of DEVONthink that can't be automated. Except when [[DEVONthink's functionality with                |
 | 01:02:36   | your own commands by adding them into a scripts menu. Even templates can have scripts inside             |
-| 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own AppleScript        |
+| 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own [[AppleScript]]        |
 | 01:02:45   | Code. And of course there's so much more from an iOS companion app to email archiving, scanning,         |
 | 01:02:50   | or even an embedded web server for sharing your data securely with your team. I did mention earlier      |
 | 01:02:55   | on the show that I personally use and love DEVONthink and I would say that even if they weren't         |
@@ -831,7 +831,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:04:22   | windows positioned in a different way. And I could get terminal to open three windows.                   |
 | 01:04:28   | And I could get them positioned, but getting the correct one to do the correct command                   |
 | 01:04:34   | was not working for me. So I ended up switching to item. But a lot of what I've been doing recently,     |
-| 01:04:39   | it has been a little bit of AppleScript where possible or where necessary, maybe text expansion         |
+| 01:04:39   | it has been a little bit of [[AppleScript]] where possible or where necessary, maybe text expansion         |
 | 01:04:46   | in a few places and [[Keyboard Maestro]] just stepping in and rescuing me in all the places where usually    |
 | 01:04:53   | this thing would be disabled. But actually in this particular scenario, I wanted to happen. So           |
 | 01:04:58   | [[Keyboard Maestro]] bridges a gap to make magic. Can you give me an example? Yeah, so I don't use text      |
@@ -941,31 +941,31 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:15:07   | most [[Safari]] window. But I do use [[Firefox]] and [[Google Chrome\|Chrome]] as well at work because I'm a web developer,         |
 | 01:15:12   | and I have to use all the browsers. Now, talking to you, I get the impression that,                      |
 | 01:15:18   | like, when you have to, like, roll up your sleeves for an automation that you generally                  |
-| 01:15:22   | are using [[JavaScript]], as opposed to AppleScript, what is the balance for you between AppleScript         |
+| 01:15:22   | are using [[JavaScript]], as opposed to [[AppleScript]], what is the balance for you between [[AppleScript]]         |
 | 01:15:28   | and other languages? I mean, it really depends. Honestly, if I'm actually going to be writing            |
 | 01:15:34   | a script to automate something on the Mac, I am not going to use [[JavaScript]]. [[JavaScript]] for              |
 | 01:15:39   | automation is one of those things that was a lovely idea. And when I say JavaScript for                  |
-| 01:15:43   | automation, I'm talking specifically the [[JavaScript]] version of AppleScript, not [[JavaScript]], as you       |
+| 01:15:43   | automation, I'm talking specifically the [[JavaScript]] version of [[AppleScript]], not [[JavaScript]], as you       |
 | 01:15:48   | would find it in [[Drafts]] or similar. But it was a wonderful idea. And I love what they were going         |
-| 01:15:54   | for. But somehow, it just does not have all the same event hooks as AppleScript, which means that        |
-| 01:16:02   | you can write the same script in AppleScript and [[JavaScript]]. And the AppleScript one will work           |
+| 01:15:54   | for. But somehow, it just does not have all the same event hooks as [[AppleScript]], which means that        |
+| 01:16:02   | you can write the same script in [[AppleScript]] and [[JavaScript]]. And the [[AppleScript]] one will work           |
 | 01:16:08   | consistently. And the [[JavaScript]] one will just sometimes randomly stop or miss something or not          |
 | 01:16:14   | be triggered or not do something that you would expect. And I don't know why that is. I've talked        |
 | 01:16:19   | to a number of different people. And essentially, the running theory appears to be that it didn't        |
 | 01:16:24   | quite get hooked up in all the same places. And so therefore, it sometimes just doesn't work,            |
-| 01:16:30   | which is a real shame. So I am using AppleScript for anything very specifically Mac. But where I'm       |
+| 01:16:30   | which is a real shame. So I am using [[AppleScript]] for anything very specifically Mac. But where I'm       |
 | 01:16:38   | doing something that will be multi-platform, where I want it on my iPhone as well, I will go             |
 | 01:16:43   | with [[JavaScript]] because I can write [[JavaScript]] and use it in [[Drafts]]. I can use it in [[Obsidian]].           |
 | 01:16:47   | I can use it in Scriptable. I could use it in the browser. And I can use it on my Mac or my iPhone       |
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |
-| 01:17:06   | Yeah. No, that's not happening. I feel like I'm doing more AppleScript than I have in a while            |
+| 01:17:06   | Yeah. No, that's not happening. I feel like I'm doing more [[AppleScript]] than I have in a while            |
 | 01:17:11   | because of the [[Apple Silicon]] Macs. And they have an all day battery. And like all of a sudden, I'm       |
-| 01:17:18   | doing less work on the iPad. So I don't mind having Mac only automation. And AppleScript for Mac is      |
+| 01:17:18   | doing less work on the iPad. So I don't mind having Mac only automation. And [[AppleScript]] for Mac is      |
 | 01:17:25   | so good. I mean, there's so many apps that are really hooked into it. So you can do a lot of cool        |
-| 01:17:30   | stuff with AppleScript. But I don't know that that's the long term play. What do you think is the        |
+| 01:17:30   | stuff with [[AppleScript]]. But I don't know that that's the long term play. What do you think is the        |
 | 01:17:36   | long term play from [[Apple]]? I mean, so clearly [[Shortcuts]], they've said is the future and they're          |
-| 01:17:42   | going to try and do more shortcut stuff. But are they going to have an AppleScript like language         |
+| 01:17:42   | going to try and do more shortcut stuff. But are they going to have an [[AppleScript]] like language         |
 | 01:17:49   | that goes across all their platforms? I mean, I've heard people speculate that they think [[SwiftUI]]       |
 | 01:17:55   | is going to have an automation version that that's the plan. But I don't know. I mean, what do you       |
 | 01:18:01   | think? I mean, [[Swift]] is an automation language, definitely would have a lot of advantages.               |
@@ -990,7 +990,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:19:59   | Automation with [[Sal Soghoian]] for all of their apps, agile torches has got everything. You know,           |
 | 01:20:05   | [[Simon Støvring]] created Scriptable, created Scriptable, which essentially bridges a ton of [[Swift]]          |
 | 01:20:11   | into [[JavaScript]]. You know, [[Apple]] could do that. They could say, no, no, no, it's [[Swift]] from now          |
-| 01:20:18   | on out. And I'm sure it would do fine. But I think it would end up being more like AppleScript                 |
+| 01:20:18   | on out. And I'm sure it would do fine. But I think it would end up being more like [[AppleScript]]                 |
 | 01:20:25   | in the sense that it's considered a relatively niche, odd thing. The significant[[                  ]]|
 | 01:20:34   | advantage for it would be that developers would be able to create a whole bunch of automations to        |
 | 01:20:38   | help them as part of their development process, because they're already writing [[Swift]]. But               |
@@ -999,11 +999,11 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:20:54   | what I was 13 of run [[JavaScript]] on [[Safari]] page, where you can run essentially a bookmarklet              |
 | 01:21:00   | on the [[Safari]] web page through shortcuts and then get that information back.                             |
 | 01:21:11   | There's the option when they added shortcuts to the Mac, they added a run [[JavaScript]] for Mac             |
-| 01:21:18   | automation, along with the run AppleScript automation. I have a feeling AppleScript is                 |
+| 01:21:18   | automation, along with the run [[AppleScript]] automation. I have a feeling [[AppleScript]] is                 |
 | 01:21:22   | probably not going anywhere. But I hope maybe that somebody goes in and has a poke around with           |
 | 01:21:29   | [[JavaScript]] for Mac and tries to find some of that weirdness that I've been experiencing.                 |
 | 01:21:34   | And I know a lot of other people have as well. I do think that it's probably more work to take           |
-| 01:21:38   | AppleScript out than to just leave it in. So that's probably what they're going to do.                  |
+| 01:21:38   | [[AppleScript]] out than to just leave it in. So that's probably what they're going to do.                  |
 | 01:21:43   | But I hope you're right on [[JavaScript]]. I would like to see a unified scripting language across           |
 | 01:21:48   | all [[Apple]] platforms. And I feel like they must have a plan for it. I would hope. And it seems            |
 | 01:21:55   | like they hinted at it last year in [[WWDC]] when they talked about how the shortcuts on the Mac             |
@@ -1012,7 +1012,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:22:18   | go in and they fix [[JavaScript]] and add [[Swift]] at the same time. Because that would be pretty amazing.      |
 | 01:22:25   | And I have to say, you know, if people ask me, you know, which automation language should I              |
 | 01:22:30   | learn, I usually recommend [[JavaScript]] just because it opens up so many more options in so many more      |
-| 01:22:36   | apps than AppleScript does. I mean, AppleScript is great assuming that you're on the Mac.              |
+| 01:22:36   | apps than [[AppleScript]] does. I mean, [[AppleScript]] is great assuming that you're on the Mac.              |
 | 01:22:41   | But our lives are becoming more and more mobile. We're working from home. And, you know, sometimes       |
 | 01:22:48   | that does involve working from the sofa or the breakfast bar or wherever ends up being convenient        |
 | 01:22:53   | because, you know, unexpected work on your house or guests or something and you just need to get         |

@@ -103,7 +103,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 02:23      | is devoted to automating music, but that's all Mac stuff.                                              |
 | 02:27      | It's [[AppleScript\|AppleScripts]], and then over on the iOS side, you've got kind of a different tool                 |
 | 02:31      | set.                                                                                                   |
-| 02:32      | Yes, yes, you do, and it's intriguing that on the Mac, we turn to AppleScripts, so most               |
+| 02:32      | Yes, yes, you do, and it's intriguing that on the Mac, we turn to [[AppleScript\|AppleScripts]], so most               |
 | 02:38      | people would assume that on iOS, you turn to shortcuts, and in some ways, you can turn                 |
 | 02:43      | to shortcuts.                                                                                          |
 | 02:44      | Shortcuts does have music integration, but really, you need to be looking at something                 |
@@ -283,10 +283,10 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 13:16      | Well, in my case, these were very much teaching dis so sometimes it was songs, but a lot of            |
 | 13:20      | the time it was a random excerpt from, you know, some, somebody reading a Shakespeare                  |
 | 13:26      | play or something like that, yeah, a bit of a mood killer when you're not expecting it.                |
-| 13:32      | But we should probably move on and look at some of the great AppleScript options that                 |
+| 13:32      | But we should probably move on and look at some of the great [[AppleScript]] options that                 |
 | 13:36      | you can do because there's a lot that you can do.                                                      |
 | 13:39      | One of the ones that I used to use a lot and I should probably get back into the habit                 |
-| 13:43      | of using is the block party playlist, which is an AppleScript available on Doug's site.               |
+| 13:43      | of using is the block party playlist, which is an [[AppleScript]] available on Doug's site.               |
 | 13:49      | This is [[Doug Adams]], who was on the show recently.                                                      |
 | 13:53      | And this allows you to create a playlist from a variety of artists.                                    |
 | 13:58      | And it just puts either 25 artists and two tracks per artist in there, or you can specify              |
@@ -411,7 +411,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 20:04      | So you know, the music app is just as automation friendly as iTunes was in that regard.                |
 | 20:11      | And that's good.                                                                                       |
 | 20:12      | Yes, it is.                                                                                            |
-| 20:13      | And if you find any old AppleScripts for iTunes and you want to update them to work                   |
+| 20:13      | And if you find any old [[AppleScript\|AppleScripts]] for iTunes and you want to update them to work                   |
 | 20:17      | for music, then you usually just need to replace the word iTunes with music.                           |
 | 20:22      | And there's more information out there on Doug's site if you want to change something else.               |
 | 20:26      | So where are you bringing in automated music on your Mac?                                              |
@@ -439,8 +439,8 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 21:32      | a playlist very quickly with a keyboard.                                                               |
 | 21:35      | But I think for true automation type stuff where I do this and that happens, I think                   |
 | 21:41      | there's no easier tool than, than a [[Keyboard Maestro]].                                                  |
-| 21:45      | You can also do them via AppleScript, but [[Keyboard Maestro]] has already kind of got the                |
-| 21:50      | components in it to do it without having to fiddle around with AppleScript.                           |
+| 21:45      | You can also do them via [[AppleScript]], but [[Keyboard Maestro]] has already kind of got the                |
+| 21:50      | components in it to do it without having to fiddle around with [[AppleScript]].                           |
 | 21:54      | So that's where I do it too.                                                                           |
 | 21:55      | Yeah.                                                                                                  |
 | 21:56      | Yeah.                                                                                                  |
@@ -481,7 +481,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 23:59      | Like I do emails all the time with TextExpander and I write the TextExpander snippet in the          |
 | 24:03      | subject line and TextExpander will then fill in the subject line using the current date               |
 | 24:09      | and month, then it'll hit the tab key, and then it'll grab the person's name, the recipient's          |
-| 24:15      | name from the email because it's using an AppleScript because you can do that with                    |
+| 24:15      | name from the email because it's using an [[AppleScript]] because you can do that with                    |
 | 24:18      | TextExpander.                                                                                         |
 | 24:20      | And then it'll hit the carriage return and type the email for me.                                      |
 | 24:22      | It does all of this work, making automation just just golden when you use TextExpander.               |
@@ -494,7 +494,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 24:50      | Our thanks to TextExpander for the support of this show and all of relay FM.                          |
 | 24:56      | So I think we've covered the Mac pretty thoroughly there, David.                                       |
 | 24:59      | I mean, all things considered, there's a lot more that we could dive into, especially when             |
-| 25:03      | it comes to AppleScript and smart playlists, you can really go nuts.                                  |
+| 25:03      | it comes to [[AppleScript]] and smart playlists, you can really go nuts.                                  |
 | 25:07      | But I think we should take a look at iOS now.                                                          |
 | 25:09      | Yeah, we do, because it's a totally different ball game over there.                                    |
 | 25:12      | It is because until, you know, iOS 13, we didn't even have a way to automatically trigger              |

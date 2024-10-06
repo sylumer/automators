@@ -10,7 +10,7 @@ author: David Sparks
 This automation is for use with [[TextExpander]], and was triggered by David with a case sensitive trigger of `xnm`. It checks the recipient in the *To* field in your [[Apple Mail]] e-mail, and then using some [[AppleScript]], attempts to extract the first name of the recipient from the contact details. If there is a comma, it will take the second name, otherwise it will take the first name; the name being returned is pasted out by TextExpander.
 
 # AppleScript
-The following AppleScript code can be used in the TextExpander snippet, and was revised by [Greg Forcey](https://twitter.com/GregForcey), and shared back to David when it stopped working on a later version of macOS.
+The following [[AppleScript]] code can be used in the TextExpander snippet, and was revised by [Greg Forcey](https://twitter.com/GregForcey), and shared back to David when it stopped working on a later version of macOS.
 
 ```applescript
 tell application "System Events"
@@ -29,7 +29,7 @@ tell application "System Events"
 end tell
 ```
 
-You can view the original AppleScript by expanding the section below.
+You can view the original [[AppleScript]] by expanding the section below.
 
 > [!History]- Legacy Code
 > ```applescript
@@ -46,7 +46,7 @@ You can view the original AppleScript by expanding the section below.
 >```
 
 # TextExpander Embedded Example
-This is an example showing how the AppleScript-based snippet can be included within other e-mail snippets.
+This is an example showing how the [[AppleScript]]-based snippet can be included within other e-mail snippets.
 
 ```plaintext
 Purchase Confirmation%key:tab%Dear %snippet:nm%,

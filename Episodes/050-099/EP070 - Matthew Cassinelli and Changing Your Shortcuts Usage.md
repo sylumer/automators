@@ -811,7 +811,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:13:07   | and of course everything is securely encrypted this gives you the choice for syncing whichever way                               |
 | 01:13:12   | works best for you it's got smart rules and flexible reminders to let you automate all                                           |
 | 01:13:18   | parts of your workflow and delete boring repeating tasks letting DEVONthink automatically                                     |
-| 01:13:23   | organise your data with the rules that you define DEVONthink's AppleScript dictionary is one of                               |
+| 01:13:23   | organise your data with the rules that you define DEVONthink's [[AppleScript]] dictionary is one of                               |
 | 01:13:28   | the largest on the Mac there's no part of DEVONthink that can't be automated and you can                                      |
 | 01:13:33   | accept and DEVONthink's functionality with your own commands by adding them to its scripts menu                                |
 | 01:13:38   | even templates can have scripts inside and you can set up new documents with data from                                           |

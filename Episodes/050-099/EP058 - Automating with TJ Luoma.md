@@ -169,17 +169,17 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 08:18      | Well, continuing my belief that there are only about seven or eight actual people in                          |
 | 08:26      | the world who write [[AppleScript]] and then the rest of us just Google and copy and paste.                      |
 | 08:30      | Yes.                                                                                                          |
-| 08:31      | I found a glorious thing that which is an AppleScript that will move your dock from                          |
+| 08:31      | I found a glorious thing that which is an [[AppleScript]] that will move your dock from                          |
 | 08:38      | being on the left to move it to the bottom. Because when I'm editing files in a vision,                       |
 | 08:44      | I want to be able to go all the way to the left side of my screen without popping up                          |
 | 08:48      | the dock or getting into the dock. So usually I've got my dock on the left, which is where                    |
 | 08:52      | God wants it to be. But you know, sometimes I do will move it out of the way. And what                        |
 | 08:57      | I was doing before was I was using a shell script, but it had to kill the dock. And                           |
-| 09:07      | with the AppleScript, you don't have to kill the dock, which has some other side things.                     |
+| 09:07      | with the [[AppleScript]], you don't have to kill the dock, which has some other side things.                     |
 | 09:11      | And so now I've got this little toggle where I hit option D, and it'll either if it's                         |
 | 09:15      | on the left, it goes to the bottom. If it's on the bottom, it goes to the left. And like                      |
 | 09:19      | two days later, I saw somebody, I think, on either the automators or MPU forum asking,                        |
-| 09:23      | Hey, how do I move my my dock around? And I'm like, Hey, let me share this AppleScript                       |
+| 09:23      | Hey, how do I move my my dock around? And I'm like, Hey, let me share this [[AppleScript]]                       |
 | 09:28      | that somebody wrote 10 years ago that I have now copied that you can now copy.                                |
 | 09:32      | Yeah, you know, it took me a minute to compute that because I was thinking you were talking                   |
 | 09:35      | about a document. And you're talking about the dock with the apps. And of course, yeah.                       |
@@ -529,7 +529,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 38:03      | And we'll get a link to that in the show notes. Bit bar is something I think automators, listeners            |
 | 38:07      | should check out. Because as TJ was, was mentioning, you know, it's just a basically a framework              |
 | 38:14      | when you install it, but then there's a bunch of prewritten automation on it. And, you know,                  |
-| 38:19      | using the AppleScript model, you can take something somebody else's written and start                        |
+| 38:19      | using the [[AppleScript]] model, you can take something somebody else's written and start                        |
 | 38:24      | modifying it to kind of suit yourself. And you can also write a lot on your own. [[Jason Snell]]                       |
 | 38:30      | actually has been very active with this app lately. It seems like every time I go                       |
 | 38:34      | over to Six Colors, I see something new. He's done with the bar.                                              |
@@ -694,7 +694,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 52:12      | start it with something because this way that you broke it down for me at least made a lot                    |
 | 52:16      | of sense. And it's all documented on GitHub, which we've got the link to in the show notes.                   |
 | 52:21      | Well, that's awesome. Because again, I mean, sort of like the, you know, the few people                       |
-| 52:25      | who write AppleScripts, I realised that not a lot of people may be able to write the shell                   |
+| 52:25      | who write [[AppleScript\|AppleScripts]], I realised that not a lot of people may be able to write the shell                   |
 | 52:30      | scripts. But I've always been somebody who I learned very early that if I did not comment                     |
 | 52:35      | on things, I would come back and have no idea what it did or why I did something a certain                    |
 | 52:40      | way. And so I've, I sort of see comments as a teaching tool of, you know, not only for                        |

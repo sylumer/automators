@@ -20,7 +20,7 @@ Audio Hijack is an audio recording and tool for macOS. It enables users to captu
 - **Post-Processing**: Automated enhancements like audio levelling and noise gating.
 - **Input & Output Management**: Route audio to and from multiple sources and destinations.
 - **Session Templates**: Quickly set up common recording scenarios.
-- **Scripting**: Use AppleScript for advanced automation and customisation.
+- **Scripting**: Use [[AppleScript]] for advanced automation and customisation.
 - **Audio Monitoring**: Real-time visual and audio monitoring tools to ensure recording quality.
 - **Multi-channel Audio**: Work with both stereo and surround sound audio.
 

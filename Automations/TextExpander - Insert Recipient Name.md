@@ -9,7 +9,7 @@ author: "David Sparks"
 # Overview
 This automation utilises [[AppleScript]], [[Apple|Apple's]] [[Mail]] app, and [[TextExpander]] to automatically populate a mail with a suitable first name intro when replying to an e-mail.
 
-TextExpander is used to trigger the following AppleScript.
+TextExpander is used to trigger the following [[AppleScript]].
 
 ```applescript
 tell application "System Events"
@@ -28,7 +28,7 @@ tell application "System Events"
 end tell
 ```
 
-You can reuse the AppleScript by nesting it as a snippet in other snippets. The result can then be prefixed with your preferred salutation (e.g. "Dear", "Hi", "*{nothing}*").
+You can reuse the [[AppleScript]] by nesting it as a snippet in other snippets. The result can then be prefixed with your preferred salutation (e.g. "Dear", "Hi", "*{nothing}*").
 
 # Notes
 - The improved version was actually a revision buy Twitter user [Greg Forcey](https://twitter.com/GregForcey).

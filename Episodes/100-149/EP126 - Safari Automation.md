@@ -887,16 +887,16 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 50:30      | like that.                                                                                         |
 | 50:31      | And that works very well for me.                                                                   |
 | 50:33      | And I've emptied this up a little bit with some [[AppleScript]].                                       |
-| 50:39      | So what I do with the AppleScript is I have AppleScript open a new web page or a new window,       |
+| 50:39      | So what I do with the [[AppleScript]] is I have [[AppleScript]] open a new web page or a new window,       |
 | 50:48      | sorry, brand new window in [[Safari]].                                                                 |
 | 50:51      | So it's just a new empty window.                                                                   |
 | 50:53      | And then it'll open up one particular web page that I use all the time whenever I am               |
 | 50:58      | podcasting, and that is [[DuckDuckGo]].                                                                |
-| 51:01      | And so this is just a little AppleScript that opens a new window with [[DuckDuckGo]].                  |
+| 51:01      | And so this is just a little [[AppleScript]] that opens a new window with [[DuckDuckGo]].                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
 | 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
 | 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |
-| 51:19      | So it will first run that AppleScript and then it will open the pages I need.                      |
+| 51:19      | So it will first run that [[AppleScript]] and then it will open the pages I need.                      |
 | 51:25      | So for automators, I'll be, you know, the thanks for our sponsors and the really CMS               |
 | 51:29      | so we can save all those good links and our automators base, which works very well for             |
 | 51:34      | me.                                                                                                |
@@ -980,13 +980,13 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 57:36      | And, and that is, you know, where you go next level with it.                                       |
 | 57:39      | I mean, starting is opening a group of tabs and then beyond that is having it operate              |
 | 57:44      | on those tabs.                                                                                     |
-| 57:45      | And that's where I think a tool like [[Keyboard Maestro]] and AppleScript become kind of essential    |
+| 57:45      | And that's where I think a tool like [[Keyboard Maestro]] and [[AppleScript]] become kind of essential    |
 | 57:50      | because that, that's what you need to like go to that next level.                                  |
 | 57:53      | Um, and I do want to talk about tab groups, let's, let's hold off on that because I think          |
 | 57:58      | for a lot of people, especially right now as things stand, um, opening them through traditional    |
 | 58:05      | automation means like a bunch shortcut or [[Keyboard Maestro]] is frankly the best way, but there's    |
 | 58:10      | pieces of this.                                                                                    |
-| 58:11      | Like one of the things Rose did that I thought was really smart is she runs an AppleScript        |
+| 58:11      | Like one of the things Rose did that I thought was really smart is she runs an [[AppleScript]]        |
 | 58:15      | to open essentially a new window and that way this tab group you open has a distinct               |
 | 58:21      | place that exists in, um, another way you could do that is you could close your [[Safari]]             |
 | 58:27      | window via automation, which you can do in shortcuts and, and [[Keyboard Maestro]], I'm not,           |
@@ -1003,7 +1003,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 59:02      | Yeah.                                                                                              |
 | 59:03      | Um, and then I open a new one and I just open the tabs that I need and that's it.                  |
 | 59:07      | Um, and by the way, when you open a new [[Safari]] window, it has to have a tab, which is why,         |
-| 59:12      | you know, for me, it'll be the start page, but that's why I will use AppleScript specifically     |
+| 59:12      | you know, for me, it'll be the start page, but that's why I will use [[AppleScript]] specifically     |
 | 59:17      | to open it with the URL for Dr. Go because that way it's not opening my start page.                |
 | 59:22      | And then, you know, if I want to get rid of that, because I activate it using command              |
 | 59:25      | one, um, which you can, you can execute through anything, um, then, um, yeah, then I can,          |

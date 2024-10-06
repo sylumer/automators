@@ -138,14 +138,14 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 06:33      | you can integrate that and anywhere that isn't like automatically available. The ecosystem                |
 | 06:40      | is far better for having that kind of cross talk as possible. I feel like it's the best                   |
 | 06:48      | we've ever had on the Mac in terms of automation. Oh, it's, it's insanely good. I mean, now               |
-| 06:55      | granted, AppleScript has always been super powerful, you know, but it's also a bit cryptic.              |
+| 06:55      | granted, [[AppleScript]] has always been super powerful, you know, but it's also a bit cryptic.              |
 | 07:01      | And even, you know, I mean, to me at least I always have to go explore every time I start                 |
-| 07:06      | playing with that. That's the problem with AppleScript is that every app was required                    |
+| 07:06      | playing with that. That's the problem with [[AppleScript]] is that every app was required                    |
 | 07:13      | to define their own dictionary. Yeah. And there was no real standard set that this is                     |
 | 07:20      | how you're going to refer to an element in your app. Yeah. So every app has different                     |
 | 07:26      | language, like even a different syntax for creating a new item or, or adding an item.                     |
 | 07:33      | And there's very little that is portable from one app to another. So really anytime you're                |
-| 07:40      | sitting down where an AppleScript, you're, you're opening up the dictionary, you're probably             |
+| 07:40      | sitting down where an [[AppleScript]], you're, you're opening up the dictionary, you're probably             |
 | 07:44      | Googling, yeah, examples. And yeah, it's, it's, it's powerful, but not an ideal programming               |
 | 07:53      | language. And it's not gone. It's still there, you know, and like all that work. And I think              |
 | 07:58      | it, I think it will continue to be. Yeah. Well, I think my theory is it would be so much effort           |
@@ -153,7 +153,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 08:09      | pay to remove it. You know what I mean? I think if they could throw a switch and turn                     |
 | 08:14      | it off, they might be tempted to do that. But, you know, I say that, I don't think they'd                 |
 | 08:17      | even do that. I hear from birdies that, you know, a bunch of the background stuff at [[Apple]]                |
-| 08:23      | is run on AppleScript and who wants to have to rebuild all that stuff when you've got                    |
+| 08:23      | is run on [[AppleScript]] and who wants to have to rebuild all that stuff when you've got                    |
 | 08:29      | it working. So I think they're just going to quietly leave it there.                                      |
 | 08:33      | It would cause some serious waves if they were to discontinue that.                                       |
 | 08:36      | Yeah. But the overall, I mean, for people who want to start automating, this is like                      |
@@ -167,8 +167,8 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 09:08      | Bunch's Brett's app that is kind of boy, how do you describe it? It's a window manager.                   |
 | 09:14      | It's kind of like a setup tool.                                                                           |
 | 09:16      | No, it's, it's everything but a window manager, actually, all right. It's, it's plain text                |
-| 09:22      | automation. It's like AppleScript, but with way simpler syntax. And it can't do everything               |
-| 09:27      | AppleScript can do with its default syntax. But the idea is that it builds contexts where                |
+| 09:22      | automation. It's like [[AppleScript]], but with way simpler syntax. And it can't do everything               |
+| 09:27      | [[AppleScript]] can do with its default syntax. But the idea is that it builds contexts where                |
 | 09:36      | you have like your work context and you want this browser open and this task manager open                 |
 | 09:42      | and you want your, your certain URLs loaded up and you want, do not disturb, turn on or                   |
 | 09:49      | off or whatever. And you just write all of that out in a text file. Just like, if you                     |
@@ -179,7 +179,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 10:19      | to keep the syntax as simple as possible. So really, it feels just like writing out                       |
 | 10:25      | a very basic script. And I like it because like I originally built it because I wanted                    |
 | 10:33      | to launch a bunch of apps at once. And I wanted like one click to launch five different apps.             |
-| 10:40      | And you can do that pretty easily with AppleScript, but the syntax was annoying. And I                   |
+| 10:40      | And you can do that pretty easily with [[AppleScript]], but the syntax was annoying. And I                   |
 | 10:46      | wanted to just be able to write down the name of five apps in a text file and have it launch              |
 | 10:49      | that. And that turned into a much more complex application in the end, but that was kind                  |
 | 10:57      | of the, the idea was just to have a, a, one file that defined a quote unquote bunch of                    |
@@ -200,14 +200,14 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 12:20      | then run the moon keyboard shortcut to put them on the screen. Yeah. Like so moon,                        |
 | 12:25      | moon allows you to save snapshots. So you get all your windows that you want open, open,                  |
 | 12:31      | and you put them exactly where you want them. And then you save a moon snapshot of the windows.           |
-| 12:35      | And then you can run that with one line of AppleScript that you just tag into a bunch.                   |
-| 12:41      | So after it's launched, all of the appropriate apps, you just call that AppleScript and moon             |
+| 12:35      | And then you can run that with one line of [[AppleScript]] that you just tag into a bunch.                   |
+| 12:41      | So after it's launched, all of the appropriate apps, you just call that [[AppleScript]] and moon             |
 | 12:46      | does all of the window positioning. And that's how I do pretty much all of my bunches and with            |
 | 12:51      | a moon call. Are you in touch with the moon guys is, have you talked to them about this?                  |
 | 12:57      | Or is this just no, I haven't, I haven't talked to you. I haven't talked to, is it many tricks?           |
 | 13:02      | I haven't talked to them since, since before I developed a bunch. So yeah, no.                            |
 | 13:08      | Yeah, it really is a way to go. In fact, I'm not doing it the way you're doing it. Now I'm                |
-| 13:12      | then listening to you like, yes, I got to switch over to the AppleScript call because                    |
+| 13:12      | then listening to you like, yes, I got to switch over to the [[AppleScript]] call because                    |
 | 13:16      | by individually setting windows, sometimes things can go a little haywire. But yeah,                      |
 | 13:21      | this is all depends because every app shows its windows at a different speed. Yes. So if you try          |
 | 13:28      | to automate like a keyboard shortcut that's going to move a window to the right half of your screen,      |
@@ -215,7 +215,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 13:39      | the snapshots, I put the snapshots because you can delay anything in bunch by putting                     |
 | 13:45      | tilde and a number at the end of it. So like tilde five at the end would wait five                        |
 | 13:50      | seconds before it triggers it. Yeah. So I just, I add a bunch call at the end with like a five            |
-| 13:57      | second delay to wait for everything, an AppleScript call to moon with a five second delay.               |
+| 13:57      | second delay to wait for everything, an [[AppleScript]] call to moon with a five second delay.               |
 | 14:04      | Yeah. So just, and I use these for like, when I want to record podcast ads, I have one that just          |
 | 14:10      | gives me those tools, you know, or yeah, recording the show is different. And the thing I really          |
 | 14:17      | like about bunch is just the simplicity of it. Like, historically, I built these in keyboard              |
@@ -431,7 +431,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 36:36      | then you could use system event scripting to tell when someone had clicked something that                 |
 | 36:43      | is no longer available. And like, what's system settings it's called now, which is annoying               |
 | 36:49      | because my launcher, my muscle memory is for SP for system preferences. So I had to manually override     |
-| 36:58      | that. But system settings has an AppleScript dictionary that is completely empty. There's                |
+| 36:58      | that. But system settings has an [[AppleScript]] dictionary that is completely empty. There's                |
 | 37:05      | no way to focus a specific pain. And little things like that that I worry they're not                     |
 | 37:13      | interested in providing that level of automation anymore. But maybe it's just                             |
 | 37:20      | something that was a back burner thing. We'll see. I feel like they, to answer your question,             |

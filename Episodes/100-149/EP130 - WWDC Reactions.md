@@ -938,7 +938,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:20:09   | because that is really cool. And I'm really excited about that.                                           |
 | 01:20:13   | You think they have, like, a new version of Sal who just runs around [[Apple]] yelling at people to           |
 | 01:20:18   | add automation to their apps? I feel like they do.                                                        |
-| 01:20:21   | I don't know. I hope they do. I do know that somebody who used to be on the AppleScript team             |
+| 01:20:21   | I don't know. I hope they do. I do know that somebody who used to be on the [[AppleScript]] team             |
 | 01:20:25   | is now on the [Shortcuts](https://Shortcuts) team. And I actually met this person at an Automators [[WWDC]] meetup,                |
 | 01:20:34   | the one where I broke my ankle. Didn't know it was broken at the meetup, to be fair.                      |
 | 01:20:38   | That's also where I met Christian, the [[Apollo]] developer, and all the [[Shortcuts]] team turned up.            |

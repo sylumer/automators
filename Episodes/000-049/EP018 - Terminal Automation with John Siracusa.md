@@ -168,7 +168,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 05:18      | And if it succeeds and if we've heard of it and know the name of it,                                     |
 | 05:21      | it's probably because it did something useful in some realm                                              |
 | 05:24      | and was shaped by that area.                                                                             |
-| 05:26      | And so not many languages other than, say, AppleScript were designed                                     |
+| 05:26      | And so not many languages other than, say, [[AppleScript]] were designed                                     |
 | 05:31      | from the start as automation languages and succeeded in that realm.                                      |
 | 05:35      | I don't know if Tickle was, I don't remember Tickle was used for automation                              |
 | 05:38      | a lot, but I don't know if it was designed for that.                                                     |
@@ -237,7 +237,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 09:04      | So you can't make that the basis of your automation or it'll just be too closed off.                     |
 | 09:09      | And practically speaking, sometimes when I want to automate something,                                   |
 | 09:12      | I will briefly think, oh, this is something I should be able to do                                       |
-| 09:15      | in automator or in AppleScript.                                                                         |
+| 09:15      | in automator or in [[AppleScript]].                                                                         |
 | 09:18      | But very quickly, I will run up against a situation                                                      |
 | 09:22      | where I can't find a block that does what I want                                                         |
 | 09:24      | or I see how it has to combine these five blocks to do something.                                        |
@@ -246,17 +246,17 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 09:31      | the blocks are all there are and it's reasonable.                                                        |
 | 09:34      | I just I just question it as the like there needs to be more than that, right?                           |
 | 09:38      | If you think about how it is slash was on the Mac, automator exists,                                     |
-| 09:42      | but also AppleScript exists.                                                                            |
+| 09:42      | but also [[AppleScript]] exists.                                                                            |
 | 09:44      | And you can combine the two.                                                                             |
 | 09:46      | If you just had automator and said, this is that's it,                                                   |
 | 09:48      | that's the automation solution for the Mac, you'd be like, that's great and all.                         |
 | 09:51      | But sometimes I just want to do something a little bit different.                                        |
 | 09:53      | Oh, well, then just combine these automator blocks                                                       |
 | 09:56      | and increasingly Byzantine ways.                                                                         |
-| 09:59      | And you could ask, I would like to be able to just write some AppleScript.                              |
+| 09:59      | And you could ask, I would like to be able to just write some [[AppleScript]].                              |
 | 10:02      | And maybe I can make that into an ordinary block or use automator                                        |
-| 10:04      | to call out to that AppleScript.                                                                        |
-| 10:05      | Or maybe I'll just write the whole thing in AppleScript                                                 |
+| 10:04      | to call out to that [[AppleScript]].                                                                        |
+| 10:05      | Or maybe I'll just write the whole thing in [[AppleScript]]                                                 |
 | 10:07      | because I've moved beyond automated.                                                                     |
 | 10:08      | It always has to be something more.                                                                      |
 | 10:10      | Otherwise, you're using Legos is kind of a leading example.                                              |
@@ -276,7 +276,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 10:53      | I mean, there are certain limits to what you can do with those.                                          |
 | 10:56      | And when we talk to our listeners, we hear about that.                                                   |
 | 10:58      | And that's the folks that suddenly get interested in learning to program                                 |
-| 11:02      | [[JavaScript]] or AppleScript, depending on, you know, what platforms they're on.                           |
+| 11:02      | [[JavaScript]] or [[AppleScript]], depending on, you know, what platforms they're on.                           |
 | 11:06      | And they want to go to that next level.                                                                  |
 | 11:08      | But I do think that a failing of the Lego automation apps is is the power level.                         |
 | 11:15      | There is a ceiling on them and I would like to see that ceiling get higher.                              |
@@ -287,18 +287,18 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 11:30      | an automated bull and the ways you do that influence how it can be used.                                 |
 | 11:34      | If the only way you can make your thing                                                                  |
 | 11:36      | automatable is by including like hooks for shortcuts on iOS or whatever.                                 |
-| 11:40      | That's more limited than the old AppleScript dictionary way,                                            |
+| 11:40      | That's more limited than the old [[AppleScript]] dictionary way,                                            |
 | 11:43      | where you could essentially define any number of functions and                                           |
 | 11:46      | and, you know, nouns and verbs for your application that suit your application.                          |
 | 11:50      | And it was you could design your own API and because you're doing it                                     |
-| 11:53      | with Apple events and AppleScript, the limit is only your imagination.                                  |
+| 11:53      | with Apple events and [[AppleScript]], the limit is only your imagination.                                  |
 | 11:57      | What nouns are there in your application?                                                                |
 | 11:59      | What verbs can you do to them?                                                                           |
 | 12:00      | Whereas shortcuts is much more limited in how much you can expose.                                       |
 | 12:03      | And every time you think of something new, you have to basically make that.                              |
 | 12:07      | It's it's not as it's not as modular as being able to just define.                                       |
-| 12:11      | I don't know what they're called in AppleScript,                                                        |
-| 12:12      | but like the things are in the AppleScript dictionary,                                                  |
+| 12:11      | I don't know what they're called in [[AppleScript]],                                                        |
+| 12:12      | but like the things are in the [[AppleScript]] dictionary,                                                  |
 | 12:13      | the various functions that you can call and action.                                                      |
 | 12:17      | Yeah, I think they're library entries or something like that.                                            |
 | 12:19      | But yeah, whatever the whatever the equivalent of nouns and verbs are                                    |
@@ -328,8 +328,8 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 13:31      | And it's like, oh, like you can get it done.                                                             |
 | 13:34      | But that's that's that's why I keep saying [[Rube Goldberg]].                                                |
 | 13:36      | It's you you would never choose to do it that way.                                                       |
-| 13:39      | Like in if you're writing an actual program or an AppleScript,                                          |
-| 13:42      | like very few AppleScripts, I imagine, take a value and write it to a file on disk                      |
+| 13:39      | Like in if you're writing an actual program or an [[AppleScript]],                                          |
+| 13:42      | like very few [[AppleScript\|AppleScripts]], I imagine, take a value and write it to a file on disk                      |
 | 13:46      | and then invoke a function to read that file back from this because it's all                             |
 | 13:50      | or even worse, use the system clipboard as a temporary holding place                                     |
 | 13:54      | rather than memory, you know, for I mean, it's bananas.                                                  |
@@ -361,7 +361,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 15:07      | I'm very much hoping that happens for us.                                                                |
 | 15:09      | Well, those radars.                                                                                      |
 | 15:11      | But I do think, John, as a point, I don't know if we're ever going to get to                             |
-| 15:14      | AppleScript level of customisability and scripting on iOS.                                              |
+| 15:14      | [[AppleScript]] level of customisability and scripting on iOS.                                              |
 | 15:20      | Yeah, well, it's a simpler time with Apple events where the, you know,                                   |
 | 15:23      | the idea that the computer was one big trusted environment, kind of like the                             |
 | 15:29      | unique systems of old before the internet spread everywhere that just like,                              |
@@ -583,7 +583,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 28:44      | You could have done it a different way, but given my skill set, that's the way I decided                 |
 | 28:47      | to do it.                                                                                                |
 | 28:48      | Put that flexibility on the Mac is really nice because another way you could do that                     |
-| 28:51      | is you could write it from AppleScript or you could use AppleScript to trigger [[JavaScript]].                    |
+| 28:51      | is you could write it from [[AppleScript]] or you could use [[AppleScript]] to trigger [[JavaScript]].                    |
 | 28:56      | I mean, it's just like, there's so many different ways to skin that cat on the Mac and that's            |
 | 29:01      | something I didn't really appreciate till I was listening to you talk about it because                   |
 | 29:05      | I never really thought about Perl as like a basis for a scripting language, but it sounds                |
@@ -610,7 +610,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 30:12      | you want it to do.                                                                                       |
 | 30:13      | I'm just thinking you could also perhaps even do this with [[Keyboard Maestro]] because                      |
 | 30:17      | [[Keyboard Maestro]] has various blocks where you can execute command line scripts and you                   |
-| 30:21      | can execute AppleScript and you can do all sorts of things.                                             |
+| 30:21      | can execute [[AppleScript]] and you can do all sorts of things.                                             |
 | 30:25      | And in some ways, for some people, that might be better because I know as soon as I start                |
 | 30:31      | getting into doing multiple things that talk to a lot of servers, I start turning things                 |
 | 30:36      | into functions.                                                                                          |
@@ -622,11 +622,11 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 31:00      | here and I've got a block there and I can see, okay, well, this is wording in the wrong                  |
 | 31:06      | order, so I'm just going to move this block up here.                                                     |
 | 31:08      | And that might be quite useful for some of our listeners as well because don't forget                    |
-| 31:11      | you can execute AppleScript and Shell Scripts directly from [[Keyboard Maestro]].                            |
+| 31:11      | you can execute [[AppleScript]] and Shell Scripts directly from [[Keyboard Maestro]].                            |
 | 31:16      | Yeah, you can always pick who's in charge or what is the entry point because you can                     |
 | 31:20      | call from one realm into another.                                                                        |
 | 31:22      | You can make a bunch of scripts in the language of your choice, but you could have Automator             |
-| 31:27      | or [[Keyboard Maestro]] or AppleScript be the driver where it starts and it kicks off your                   |
+| 31:27      | or [[Keyboard Maestro]] or [[AppleScript]] be the driver where it starts and it kicks off your                   |
 | 31:31      | thing and then it bounces back to that thing and it goes, it just depends on what you're                 |
 | 31:35      | most comfortable with.                                                                                   |
 | 31:36      | There's no, you're not forced to choose one or the other depending on like, oh, I'm going                |
@@ -925,7 +925,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 47:59      | It, I don't know where it puts it, but it doesn't put it where I want it to be.                          |
 | 48:02      | And every time I launched [[Skype]], I move it back to where I want it to be.                                |
 | 48:04      | It just doesn't remember that, right?                                                                    |
-| 48:06      | So could I get an AppleScript that would launch [[Skype]], find that window and move to                     |
+| 48:06      | So could I get an [[AppleScript]] that would launch [[Skype]], find that window and move to                     |
 | 48:10      | the position I want?                                                                                     |
 | 48:11      | Probably.                                                                                                |
 | 48:12      | I'm kind of going through the exercise to try to see if [[Skype]] has enough of a reasonable                 |
@@ -940,7 +940,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 48:35      | like after the podcast, and it's, it's mental cues to your brain, which is getting at focus              |
 | 48:40      | territory here and stealing from Mike on, on your other podcast, David.                                  |
 | 48:45      | But, you know, there is something to be said for that.                                                   |
-| 48:48      | I do find that I don't sit down and do, oh, yeah, I'm going to write an AppleScript for                 |
+| 48:48      | I do find that I don't sit down and do, oh, yeah, I'm going to write an [[AppleScript]] for                 |
 | 48:53      | this.                                                                                                    |
 | 48:54      | Like that's, that's really something that I'm going to do just because as you said, John,                |
 | 48:59      | we spend all day sitting there programming.                                                              |
@@ -1020,7 +1020,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 53:43      | and all that other stuff, like things can go wrong and I'm more confident that I can                     |
 | 53:50      | do these three or four simple steps and know that they're done.                                          |
 | 53:53      | If I'm using all these programs the way they're meant to be used and rather than hoping their            |
-| 53:57      | AppleScript dictionaries do what they say and using keyboard or Maestro or something                    |
+| 53:57      | [[AppleScript]] dictionaries do what they say and using keyboard or Maestro or something                    |
 | 54:01      | to do the fancier stuff that the programs were unprepared for, like I don't want to                      |
 | 54:06      | be thinking about my program.                                                                            |
 | 54:07      | It's like one more level of concern.                                                                     |
@@ -1098,14 +1098,14 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 58:14      | and said, Hey, John, we want you to become the overlord of automation at [[Apple]], you know,                |
 | 58:21      | what were some, what would be some steps you'd take to make it better for people?                        |
 | 58:25      | Kind of touched on this before, and I feel like what's, what's lacking, and maybe Sal                    |
-| 58:30      | would agree is a proper modern successor to AppleScript and Apple events.                               |
-| 58:37      | Because shortcuts are great and everything, but on the Mac, all we've got is AppleScript                |
+| 58:30      | would agree is a proper modern successor to [[AppleScript]] and Apple events.                               |
+| 58:37      | Because shortcuts are great and everything, but on the Mac, all we've got is [[AppleScript]]                |
 | 58:42      | and Apple events, and on iOS, we have none of those things, but we have a bunch of other                 |
 | 58:47      | technologies.                                                                                            |
 | 58:48      | Both of those things need to be changed on the Mac, I feel like Apple events and [[AppleScript]]                   |
 | 58:50      | are old languages that are not suited to the modern world, so they need to be updated             |
 | 58:55      | and revamped.                                                                                            |
-| 58:56      | And on iOS, we don't have any equivalent of AppleScript and AppleScript dictionaries                   |
+| 58:56      | And on iOS, we don't have any equivalent of [[AppleScript]] and [[AppleScript]] dictionaries                   |
 | 58:59      | for automation where, like we said before, you have a general purpose system of for people               |
 | 59:03      | who are writing programs to define the nouns and verbs that their programs support in a                  |
 | 59:06      | flexible way that doesn't hem people in.                                                                 |
@@ -1116,10 +1116,10 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 59:25      | be driven.                                                                                               |
 | 59:26      | And you see Omni doing that, I think there's a bunch of other applications, Mac applications             |
 | 59:30      | out there that use like JS Talk or other [[JavaScript]] based automations, like everyone's rolling           |
-| 59:35      | their own because they realise, well, we could use AppleScript and if we're a good Mac,                 |
+| 59:35      | their own because they realise, well, we could use [[AppleScript]] and if we're a good Mac,                 |
 | 59:39      | Mac application, we do, but it's kind of creaky and everything.                                          |
 | 59:43      | And it would be nice if you could write your automation to [[JavaScript]], which way more people             |
-| 59:46      | know than AppleScript.                                                                                  |
+| 59:46      | know than [[AppleScript]].                                                                                  |
 | 59:47      | So that's why people like Omni and I was there, maybe [[Rogue Amoeba]], no, [[Flying Meat Software\|Flying Meat]], maybe Gus               |
 | 59:53      | Mueller.                                                                                                 |
 | 59:54      | Anyway, a bunch of good Mac applications have taken it upon themselves to make their own                 |
@@ -1138,7 +1138,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 01:00:42   | also be built into the frameworks in a modern way, in a deep way, and yes, it would have                 |
 | 01:00:46   | to be in a secure way.                                                                                   |
 | 01:00:47   | So I'm not saying this is an easy problem, but that's what I think [[Apple]] needs on all                    |
-| 01:00:52   | of its platforms, a modern successor to AppleScript and Apple events.                                   |
+| 01:00:52   | of its platforms, a modern successor to [[AppleScript]] and Apple events.                                   |
 | 01:00:57   | Across both platforms.                                                                                   |
 | 01:00:58   | Right.                                                                                                   |
 | 01:00:59   | Obviously it'd be the same across both platforms and it would have to take security into account         |

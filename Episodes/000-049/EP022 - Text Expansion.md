@@ -791,9 +791,9 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 32:57      | And that part, "Rose", is that nested snippet.                                             |
 | 33:00      | But if I type xhello, it'll say hello, Rose.                                             |
 | 33:03      | Or if I type xhey, it'll say hey, Rose.                                                  |
-| 33:05      | And so it was a way to not have to replace that AppleScript                              |
+| 33:05      | And so it was a way to not have to replace that [[AppleScript]]                              |
 | 33:11      | in every different iteration of how I want to send an email.                             |
-| 33:14      | And if I want to make an adjustment to the AppleScript                                   |
+| 33:14      | And if I want to make an adjustment to the [[AppleScript]]                                   |
 | 33:17      | recently with some listener feedback,                                                    |
 | 33:19      | I actually made a few changes to it.                                                     |
 | 33:21      | I only had to fix it in one place.                                                       |
@@ -808,7 +808,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 33:42      | Yeah, I never really thought of it in those terms                                        |
 | 33:44      | in TextExpander, but you're absolutely right.                                           |
 | 33:46      | That's what it is.                                                                       |
-| 33:47      | Especially if you're calling something like your AppleScript                             |
+| 33:47      | Especially if you're calling something like your [[AppleScript]]                             |
 | 33:49      | or as we'll get to you later, some of the [[JavaScript]],                                    |
 | 33:51      | it's a function.                                                                         |
 | 33:53      | Another thing you can do with a TextExpander                                            |
@@ -877,9 +877,9 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 36:30      | what it puts the date and the subject line and then hits the tab key.                    |
 | 36:33      | The next thing it'll say is hello,                                                       |
 | 36:35      | and then I have a fill-in for the client name.                                           |
-| 36:38      | And the reason I don't use the AppleScript for that                                     |
+| 36:38      | And the reason I don't use the [[AppleScript]] for that                                     |
 | 36:42      | is because I'm doing it on a web form                                                    |
-| 36:44      | and that there isn't an AppleScript to address as the web form.                         |
+| 36:44      | and that there isn't an [[AppleScript]] to address as the web form.                         |
 | 36:47      | And sometimes I want to address it to someone else at the company.                       |
 | 36:51      | And so there's a basic one-line fill-in                                                  |
 | 36:54      | where I can type in the name of the recipient.                                           |
@@ -964,13 +964,13 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 40:19      | Yeah, and that is where it gets really crazy                                             |
 | 40:21      | because you can, and what I love about a TextExpander here                              |
 | 40:25      | is that you've got the option of doing this in [[JavaScript]]                                |
-| 40:27      | or AppleScript and I personally find [[JavaScript]]                                         |
+| 40:27      | or [[AppleScript]] and I personally find [[JavaScript]]                                         |
 | 40:30      | for me is a lot easier for manipulating text                                             |
 | 40:32      | because you can get the first character of a string,                                     |
 | 40:35      | the last character of a string and it's much easier                                      |
 | 40:38      | and I find regular expressions to be easier                                              |
 | 40:41      | in [[JavaScript]] as well.                                                                   |
-| 40:43      | I've never really tried them with AppleScript                                           |
+| 40:43      | I've never really tried them with [[AppleScript]]                                           |
 | 40:46      | and regular expressions are really good.                                                 |
 | 40:48      | If you've got, for example, something on your keyboard,                                  |
 | 40:50      | or on your clipboard, on your keyboard,                                                  |
@@ -1012,8 +1012,8 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 42:23      | I think you guys might have that one right.                                              |
 | 42:25      | Yeah, but it's very useful for doing things like that,                                   |
 | 42:28      | because of course you can use,                                                           |
-| 42:30      | you can do this in [[JavaScript]] or AppleScript,                                            |
-| 42:32      | so your AppleScript one of grabbing the context name                                     |
+| 42:30      | you can do this in [[JavaScript]] or [[AppleScript]],                                            |
+| 42:32      | so your [[AppleScript]] one of grabbing the context name                                     |
 | 42:34      | in the email is perfect,                                                                 |
 | 42:36      | but being able to manipulate things,                                                     |
 | 42:38      | or for example, turning a comma separated list                                           |
@@ -1022,7 +1022,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 42:49      | and I just use the text expansion,                                                       |
 | 42:52      | [[JavaScript]] function to split,                                                            |
 | 42:54      | and then to combine those back together afterwards.                                      |
-| 42:57      | I used to toy with the idea of creating an AppleScript                                   |
+| 42:57      | I used to toy with the idea of creating an [[AppleScript]]                                   |
 | 43:01      | or a [[JavaScript]] with TextExpander to fix smart quotes                                   |
 | 43:06      | and I think, but I actually figured out a way                                            |
 | 43:09      | to do that with keyboard master that made more sense.                                    |
@@ -1033,18 +1033,18 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 43:25      | rather than saying, when I type this,                                                    |
 | 43:27      | I want you to type that,                                                                 |
 | 43:29      | you say when I type this, I want you to run certain code,                                |
-| 43:31      | and you can select [[JavaScript]] or AppleScript,                                            |
+| 43:31      | and you can select [[JavaScript]] or [[AppleScript]],                                            |
 | 43:34      | and then you just paste the code into it,                                                |
 | 43:36      | and it runs it.                                                                          |
 | 43:37      | It's really convenient.                                                                  |
 | 43:39      | Yes, it definitely is.                                                                   |
-| 43:41      | And you don't need to become a [[JavaScript]] or AppleScript person                          |
+| 43:41      | And you don't need to become a [[JavaScript]] or [[AppleScript]] person                          |
 | 43:46      | to do this.                                                                              |
 | 43:47      | I mean, there are a bunch of examples of these scripts                                   |
 | 43:49      | are already on the web.                                                                  |
 | 43:50      | You can just block and copy them in.                                                     |
 | 43:52      | Some of the ones that both Rose and I give away                                          |
-| 43:54      | have AppleScript embedded in them.                                                       |
+| 43:54      | have [[AppleScript]] embedded in them.                                                       |
 | 43:56      | You don't have to worry about it.                                                        |
 | 43:57      | It's just there for you.                                                                 |
 | 43:59      | The fact is, once you have an application                                                |

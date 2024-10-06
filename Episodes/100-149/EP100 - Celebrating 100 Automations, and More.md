@@ -501,7 +501,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 18:23      | I mean, those are absolute avenues of automation.                 |
 | 18:28      | And then I guess the last category is I would just say scripts    |
 | 18:32      | or scripting languages.                                           |
-| 18:34      | AppleScript, [[JavaScript]], Python.                                 |
+| 18:34      | [[AppleScript]], [[JavaScript]], Python.                                 |
 | 18:37      | And we haven't covered those as in much detail                    |
 | 18:40      | but we do link out to them quite often.                           |
 | 18:42      | The problem with those is how do you explain                      |
@@ -650,7 +650,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 24:22      | but sitting there typing out a list of my events every day        |
 | 24:26      | that's bananas, you know what I mean?                             |
 | 24:28      | And with shortcuts, this stuff is easy.                           |
-| 24:30      | Now I could have done it with some clever AppleScript            |
+| 24:30      | Now I could have done it with some clever [[AppleScript]]            |
 | 24:33      | and [[Keyboard Maestro]],                                             |
 | 24:34      | but shortcuts make stuff like this way easier.                    |
 | 24:38      | And lately I've really been appreciating                          |
@@ -902,8 +902,8 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 34:36      | in crossing the streams, Ghostbusters style,                      |
 | 34:39      | you know, where you've thought about it a little bit,             |
 | 34:41      | or maybe not, and then I end up, you know,                        |
-| 34:43      | putting AppleScript inside of a shortcut,                         |
-| 34:46      | or running a shortcut through AppleScript inside a bunch,         |
+| 34:43      | putting [[AppleScript]] inside of a shortcut,                         |
+| 34:46      | or running a shortcut through [[AppleScript]] inside a bunch,         |
 | 34:50      | which is actually run by [[Keyboard Maestro]] from my [[Stream Deck]].    |
 | 34:54      | And so I've ended up kind of nesting automation types             |
 | 34:57      | and crossing streams in ways which I feel                         |
@@ -918,7 +918,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 35:16      | And I think that is a trend which, you know,                      |
 | 35:20      | I'm seeing in a lot of places, you know,                          |
 | 35:23      | somebody tweeted at us a little while ago                         |
-| 35:26      | to say that they've used their first AppleScript,                 |
+| 35:26      | to say that they've used their first [[AppleScript]],                 |
 | 35:28      | which they copied and pasted it into a [[Keyboard Maestro]] macro.    |
 | 35:32      | And, you know, and that is great.                                 |
 | 35:35      | I'm really thrilled that more people are doing things like that   |
@@ -926,9 +926,9 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 35:41      | when you can just go, right,                                      |
 | 35:43      | well, [[Keyboard Maestro]], for example,                              |
 | 35:45      | can do everything I need except this little bit,                  |
-| 35:47      | but AppleScript can do that.                                      |
+| 35:47      | but [[AppleScript]] can do that.                                      |
 | 35:48      | And this person wrote a script,                                   |
-| 35:49      | which I can read because it's AppleScript.                        |
+| 35:49      | which I can read because it's [[AppleScript]].                        |
 | 35:51      | So I know what it's doing because it's just words.                |
 | 35:53      | So I'll just copy and paste that                                  |
 | 35:55      | and put that in this [[Keyboard Maestro]] macro                       |
@@ -1031,7 +1031,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 40:01      | is one of the largest on the Mac.                                 |
 | 40:02      | There's no part of DEVONthink that can't be automated.            |
 | 40:05      | And because the app has such a rich history on the Mac,           |
-| 40:07      | there are so many existing AppleScripts                           |
+| 40:07      | there are so many existing [[AppleScript\|AppleScripts]]                           |
 | 40:10      | that have been written to make DEVONthink work harder for you.    |
 | 40:12      | You can extend DEVONthink's functionality                         |
 | 40:14      | with your own commands by adding them to its scripts menu.        |

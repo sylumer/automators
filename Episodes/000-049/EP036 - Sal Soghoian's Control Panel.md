@@ -531,10 +531,10 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 32:43      | presentation.                                                                                            |
 | 32:45      | One of the advantages of the fact that you're creating this for you to solve your problems,              |
 | 32:52      | to solve, you know, the build tools that solve your needs.                                               |
-| 32:57      | So like for instance, the metadata, I assume you're running an AppleScript that gets the                |
+| 32:57      | So like for instance, the metadata, I assume you're running an [[AppleScript]] that gets the                |
 | 33:02      | information and just using the say command to speak it to you.                                           |
 | 33:06      | Yeah.                                                                                                    |
-| 33:07      | It's really just, you know, a couple lines of AppleScript because every image in keynote                |
+| 33:07      | It's really just, you know, a couple lines of [[AppleScript]] because every image in keynote                |
 | 33:13      | has a description field.                                                                                 |
 | 33:16      | And if I've written my importing scripts, so when I automate the import of an image into                 |
 | 33:23      | keynote, I actually go to the file and read the metadata out of the image file because                   |
@@ -555,41 +555,41 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 34:24      | It's pretty trivial.                                                                                     |
 | 34:26      | I'm glad you mentioned that because there's a strategy behind the scripting of these that                |
 | 34:32      | I'll share with your listeners.                                                                          |
-| 34:36      | It has this great feature, it's called AppleScript Libraries.                                            |
-| 34:40      | And an AppleScript library is just an AppleScript script that you put your favourite functions            |
+| 34:36      | It has this great feature, it's called [[AppleScript]] Libraries.                                            |
+| 34:40      | And an [[AppleScript]] library is just an [[AppleScript]] script that you put your favourite functions            |
 | 34:48      | into this script.                                                                                        |
 | 34:50      | And then you save that script and you put it in the Script Libraries folder in your                      |
 | 34:55      | User Library folder.                                                                                     |
 | 34:58      | So you go to your User Library folder and if there's not a folder called Script Libraries,               |
-| 35:03      | then you create one and you create an AppleScript script file, save it, put it into that Script          |
+| 35:03      | then you create one and you create an [[AppleScript]] script file, save it, put it into that Script          |
 | 35:13      | Libraries folder and it becomes integrated into the operating system and any script can                  |
 | 35:20      | call that library and call functions from that library automatically.                                    |
 | 35:25      | It's that easy.                                                                                          |
 | 35:27      | So then what I do is I keep all my functions in one script.                                              |
 | 35:33      | So if I need to update them or add to them or edit them or change something, it's in                     |
 | 35:38      | one particular file that I can edit, save and move between machines if I need to.                        |
-| 35:45      | To call that script, I use another little short AppleScript that says, tell script name                  |
+| 35:45      | To call that script, I use another little short [[AppleScript]] that says, tell script name                  |
 | 35:51      | of my script library.                                                                                    |
 | 35:54      | And then I put in the function whatever it is I'm calling, like, you know, new default                   |
 | 36:00      | document and voila, it will execute that function from the Script Library for you automatically.         |
 | 36:08      | And those are the scripts that I use to assign to these buttons.                                         |
 | 36:13      | Each one of these buttons doesn't have complex scripts behind it.                                        |
-| 36:17      | It just has a link to a function in my AppleScript library.                                              |
+| 36:17      | It just has a link to a function in my [[AppleScript]] library.                                              |
 | 36:21      | So I have a library for each panel.                                                                      |
 | 36:25      | Aha, so when I switch from the [[Keynote]] panel to the Photos panel, the buttons on the Photos              |
 | 36:33      | panel connect to the Photos Script Library.                                                              |
 | 36:39      | And that way it's really easy to keep track of everything and update it.                                 |
 | 36:45      | It becomes a much simpler process.                                                                       |
-| 36:47      | I had no idea about these AppleScript libraries until I watched your video on this.                      |
+| 36:47      | I had no idea about these [[AppleScript]] libraries until I watched your video on this.                      |
 | 36:53      | I don't know how that never landed on my radar.                                                          |
-| 36:57      | But I've got these folders full of tiny AppleScripts.                                                    |
+| 36:57      | But I've got these folders full of tiny [[AppleScript\|AppleScripts]].                                                    |
 | 37:01      | And that's on my list now.                                                                               |
 | 37:02      | I'm going to start combining them into libraries.                                                        |
 | 37:05      | It just makes so much more sense this way.                                                               |
 | 37:07      | If you want to know the difference between macOS, iPadOS, and iOS, here's the big difference.            |
-| 37:16      | You can create an AppleScript Script Library yourself that has all the different functions               |
+| 37:16      | You can create an [[AppleScript]] Script Library yourself that has all the different functions               |
 | 37:22      | that you'd like to use.                                                                                  |
-| 37:24      | They talk to applications, they talk to files, that even use AppleScript Objective-C to call             |
+| 37:24      | They talk to applications, they talk to files, that even use [[AppleScript]] Objective-C to call             |
 | 37:30      | into the frameworks if you want.                                                                         |
 | 37:32      | You can save that, put it into the Script Libraries folder in your User Library folder, and it           |
 | 37:38      | becomes part of the operating system.                                                                    |
@@ -634,7 +634,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 40:18      | And there's some things that just, it works in my brain at any rate.                                     |
 | 40:21      | When I can just reach out and touch it and things happen, it really does feel like I'm                   |
 | 40:25      | doing magic.                                                                                             |
-| 40:26      | And, you know, AppleScript is in many ways a little bit of magic sprinkled with some system              |
+| 40:26      | And, you know, [[AppleScript]] is in many ways a little bit of magic sprinkled with some system              |
 | 40:31      | events here and there.                                                                                   |
 | 40:32      | Well, think about what you're presenting here is actually you're creating an entire extension            |
 | 40:39      | architecture for [[Keynote]].                                                                                |
@@ -667,7 +667,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 42:23      | I mean, for the basics of just getting something running where you can jump between apps and             |
 | 42:28      | add a few buttons for keyboard shortcuts, it's ridiculously simple, you know, I think                    |
 | 42:34      | the hardest part then is just figuring out how you're going to lay out the screen.                       |
-| 42:38      | But once you start adding AppleScript, it just adds so much more power.                                 |
+| 42:38      | But once you start adding [[AppleScript]], it just adds so much more power.                                 |
 | 42:43      | Definitely.                                                                                              |
 | 42:44      | I mean, if you look at the opening slide, I have a picture of a power of not a power                     |
 | 42:51      | book of a MacBook Pro with the iPad sitting next to it.                                                  |
@@ -772,7 +772,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 49:29      | Oh, yeah.                                                                                                |
 | 49:30      | How many times you go to system preferences, you want to go to a specific tab in a specific              |
 | 49:34      | preference?                                                                                              |
-| 49:35      | Well, you can do that with AppleScript.                                                                  |
+| 49:35      | Well, you can do that with [[AppleScript]].                                                                  |
 | 49:38      | The system preferences app has a very small scripting dictionary where you set the current               |
 | 49:44      | pane and each pane has an ID that you can get by just asking for what's the ID of the                    |
 | 49:51      | current pane.                                                                                            |
@@ -782,14 +782,14 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 50:12      | So you can say reveal anchor keyboard of current pane and it will do that.                               |
 | 50:22      | So you can have one line that goes to the pane that you want and then one line that                      |
 | 50:27      | reveals the anchor of that pane.                                                                         |
-| 50:30      | So those are all very short AppleScript scripts that really save a lot of time.                          |
+| 50:30      | So those are all very short [[AppleScript]] scripts that really save a lot of time.                          |
 | 50:37      | When I want to go to sharing preferences, you don't want to have to open up the app.                     |
 | 50:41      | You just tap it.                                                                                         |
 | 50:42      | It brings the app forward, goes right to where you need to be.                                           |
 | 50:47      | Or if you want to go to privacy or to start a disk or displays, but it's just a simple                   |
 | 50:53      | thing.                                                                                                   |
 | 50:54      | See, and the challenge for a lot of us is just discoverability of that.                                  |
-| 50:58      | Like I've spent a lot of time doing AppleScripts, read your book, went to your course.                   |
+| 50:58      | Like I've spent a lot of time doing [[AppleScript\|AppleScripts]], read your book, went to your course.                   |
 | 51:03      | But I wasn't aware that you could get to a specific pane.                                                |
 | 51:07      | And I knew there was a way to get to system parameters.                                                  |
 | 51:09      | I didn't know you can get to a specific pane until you just told us.                                     |
@@ -813,7 +813,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 52:19      | One is create default.                                                                                   |
 | 52:22      | The other is create default with certain dimensions.                                                     |
 | 52:25      | And the other is create a specific template with a certain dimensions.                                   |
-| 52:30      | And each one of those can be called with a single line of AppleScript.                                  |
+| 52:30      | And each one of those can be called with a single line of [[AppleScript]].                                  |
 | 52:35      | And you pass in, like, if I want a specific template with a certain dimension, I will                    |
 | 52:40      | call this function and say gradient and then 1920 by 1080.                                               |
 | 52:47      | And it does all the work of creating the presentation, zooming it up to fill the screen and setting      |
@@ -821,13 +821,13 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 52:56      | It's just a simple call.                                                                                 |
 | 52:58      | So that library has a lot of those kind of things in it that I find quite useful.                        |
 | 53:05      | And that allows to kind of spelunk through your code to come up with our own ideas.                      |
-| 53:10      | It just shows that when you have a technology like AppleScript behind this, how much value              |
+| 53:10      | It just shows that when you have a technology like [[AppleScript]] behind this, how much value              |
 | 53:19      | having the ability to control applications through scripts brings.                                       |
 | 53:27      | Not having a system-wide scripting language on iOS has really limited some of the things                 |
 | 53:34      | that you can do.                                                                                         |
 | 53:37      | And the fact that Omni has now created this wonderful implementation of core [[JavaScript]]                  |
 | 53:43      | and exposed all the object models of the applications, and you can control those and script those,       |
-| 53:49      | gives that kind of ability in the same manner that AppleScript does on Mac OS.                          |
+| 53:49      | gives that kind of ability in the same manner that [[AppleScript]] does on Mac OS.                          |
 | 53:55      | But it's really important that when [[Apple|Apple's]] thinking about the future and thinking about                 |
 | 54:00      | how they're going to present applications on their platforms to provide that level of                    |
 | 54:06      | functionality through scripting, because these are the kind of things that you can do through            |
@@ -848,24 +848,24 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 55:24      | But where is my bang for my buck?                                                                        |
 | 55:26      | For me, it's taking all the hard work of people at Omni and all the other app developers                 |
 | 55:31      | and combining it to make it work better and faster for me, whether it's two apps talking                 |
-| 55:35      | to each other or like Sal did with these AppleScripts, pulling more features out of [[Keynote]]             |
+| 55:35      | to each other or like Sal did with these [[AppleScript\|AppleScripts]], pulling more features out of [[Keynote]]             |
 | 55:41      | than actually are built into it.                                                                         |
 | 55:43      | And that's something anybody can do with a little bit of investment of time.                             |
 | 55:47      | Definitely.                                                                                              |
 | 55:48      | And this actually brings to mind something that I was experimenting with today.                          |
 | 55:52      | I have a fairly large library of [[Keyboard Maestro]] macros and I didn't have time when I was playing       |
-| 55:58      | with this today to really convert all of those to AppleScripts.                                         |
-| 56:03      | Some of them probably should be AppleScripts, most of them can be AppleScripts.                        |
-| 56:07      | But what I did is I used AppleScript to run my [[Keyboard Maestro]] macros because that's                   |
-| 56:12      | three lines of AppleScript and I then didn't actually have to write any AppleScript because            |
+| 55:58      | with this today to really convert all of those to [[AppleScript\|AppleScripts]].                                         |
+| 56:03      | Some of them probably should be [[AppleScript\|AppleScripts]], most of them can be [[AppleScript\|AppleScripts]].                        |
+| 56:07      | But what I did is I used [[AppleScript]] to run my [[Keyboard Maestro]] macros because that's                   |
+| 56:12      | three lines of [[AppleScript]] and I then didn't actually have to write any [[AppleScript]] because            |
 | 56:18      | I already had these in my [[Keyboard Maestro]] macros.                                                       |
-| 56:21      | And this also lets me do some things with some apps which maybe don't have AppleScript                  |
+| 56:21      | And this also lets me do some things with some apps which maybe don't have [[AppleScript]]                  |
 | 56:26      | support because I have to click it images and things like that.                                          |
 | 56:29      | And I can use all of these features from this accessibility pane on my iPad now through                  |
 | 56:35      | [[Keyboard Maestro]].                                                                                        |
 | 56:36      | And it's actually really good.                                                                           |
 | 56:37      | And for anybody interested, I'll try and make sure the link is in the show notes of how                  |
-| 56:41      | to run a [[Keyboard Maestro]] macro through AppleScript.                                                    |
+| 56:41      | to run a [[Keyboard Maestro]] macro through [[AppleScript]].                                                    |
 | 56:45      | There are two ways of doing it.                                                                          |
 | 56:46      | You can either call it with the name or call it with the ID of the macro, but it's very                  |
 | 56:50      | simple to do.                                                                                            |
@@ -873,7 +873,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 56:56      | and I know a lot of people have been playing with things like a [[Stream Deck]] recently.                    |
 | 56:59      | But this, if you already have an iPad, it's a free alternative.                                          |
 | 57:03      | So it's definitely worth giving it a try.                                                                |
-| 57:05      | Yeah, if you're going to set this up, you can not only run AppleScripts, you can run                    |
+| 57:05      | Yeah, if you're going to set this up, you can not only run [[AppleScript\|AppleScripts]], you can run                    |
 | 57:09      | [[Keyboard Maestro]] scripts off a button on your iPad that drives on your Mac.                              |
 | 57:14      | I mean, it's great.                                                                                      |
 | 57:16      | And the nice thing about that is you get the contextual sensitivity.                                     |
@@ -888,7 +888,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 57:45      | Yeah.                                                                                                    |
 | 57:46      | But we have all these things that we're doing while we're podcasting, like add this link                 |
 | 57:50      | to the show notes or make a note of this edit point.                                                     |
-| 57:53      | This is all stuff that could be done by AppleScript because I think [[Audio Hijack]] has [[AppleScript]]              |
+| 57:53      | This is all stuff that could be done by [[AppleScript]] because I think [[Audio Hijack]] has [[AppleScript]]              |
 | 57:57      | support and a lot of the other apps that we do have at the very least APIs that                   |
 | 58:01      | we can connect to.                                                                                       |
 | 58:03      | Yeah, we need something that can grab a timestamp out of our various recording apps and drop             |
@@ -999,7 +999,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:05:05   | What do you think about that, Rose?                                                                      |
 | 01:05:07   | Well, I've been very excited because, of course, the first thing that you have to do                     |
 | 01:05:11   | is you have to think, what do I actually want to do with this?                                           |
-| 01:05:13   | Because, of course, there's a bunch of AppleScripts out there to control things like                    |
+| 01:05:13   | Because, of course, there's a bunch of [[AppleScript\|AppleScripts]] out there to control things like                    |
 | 01:05:16   | OmniFocus and OmniOutliner, [[OmniGraffle]], and even OmniPlan, which I unfortunately don't                  |
 | 01:05:21   | get to use a lot.                                                                                        |
 | 01:05:23   | And so you can start just by converting those, but once you sit and think about it, you can              |
@@ -1017,15 +1017,15 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:06:10   | channel in there.                                                                                        |
 | 01:06:11   | And I'm seeing a lot of people doing some really interesting things with Omni Automation                  |
 | 01:06:14   | as well, which is really nice.                                                                           |
-| 01:06:16   | Well, it solves a problem really because you were talking earlier about AppleScript and                 |
-| 01:06:20   | how useful it can make the Mac, but you don't have AppleScript on iOS.                                  |
+| 01:06:16   | Well, it solves a problem really because you were talking earlier about [[AppleScript]] and                 |
+| 01:06:20   | how useful it can make the Mac, but you don't have [[AppleScript]] on iOS.                                  |
 | 01:06:25   | So this solution you guys came up with gives you something that we thought we'd never have               |
 | 01:06:32   | on the Mac, an actual scripting language.                                                                |
 | 01:06:35   | And it's based on core [[JavaScript]] from WebKit.                                                           |
 | 01:06:39   | So it's on all [[Apple]] devices and it's really optimised and fast.                                         |
 | 01:06:45   | And [[JavaScript]] is so documented and it's so widely used that anybody can get up to speed                 |
 | 01:06:56   | fairly quickly on the basics of writing [[JavaScript]].                                                      |
-| 01:07:00   | It's not as expressive as languages AppleScript is, but it is quite approachable and                    |
+| 01:07:00   | It's not as expressive as languages [[AppleScript]] is, but it is quite approachable and                    |
 | 01:07:07   | is well documented and easy to do.                                                                       |
 | 01:07:11   | I've been doing a lot of traveling this year and one of the things I have to do every time               |
 | 01:07:17   | we get ready to leave is I have to pack and I have to create a list of, okay, what do                    |
@@ -1130,7 +1130,7 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:14:28   | to automate just [[Drafts]], you can also use Scriptable.                                                    |
 | 01:14:32   | You can use four Omni Group apps and whatever other apps that are out there that can use                  |
 | 01:14:37   | [[JavaScript]] as well, because it's very similar.                                                           |
-| 01:14:41   | Like AppleScript, you need to read a library, but you can get kind of crazy with this stuff.             |
+| 01:14:41   | Like [[AppleScript]], you need to read a library, but you can get kind of crazy with this stuff.             |
 | 01:14:46   | And I'm enjoying possibly going a little too crazy, but it's good fun.                                   |
 | 01:14:51   | Well, I think the thing is, it's early days, too.                                                        |
 | 01:14:54   | I mean, this was an idea that you guys had about a year or two ago, and now it's starting                |
@@ -1182,13 +1182,13 @@ Sal Soghoian returns to the Automators to share his ingenious Mac control panel 
 | 01:18:22   | show, or do we just give it a whole show?                                                                |
 | 01:18:26   | And we were right, it needed a whole show, because this is excellent, and I would encourage              |
 | 01:18:31   | people, even if you think, oh, scripting, no.                                                            |
-| 01:18:33   | Remember, you can trigger a [[Keyboard Maestro]] scripts with just three lines of AppleScript,              |
+| 01:18:33   | Remember, you can trigger a [[Keyboard Maestro]] scripts with just three lines of [[AppleScript]],              |
 | 01:18:39   | and you can copy and paste so much from all the websites out there that you don't need                   |
 | 01:18:43   | to know how to script by yourself.                                                                       |
 | 01:18:45   | You can just put it all together, and it works.                                                          |
 | 01:18:47   | I just had an idea.                                                                                      |
 | 01:18:49   | You just have a button, you add a button called affirmation, and any time you press it, it's             |
-| 01:18:55   | a single script, AppleScript, say, and then you put in the quote, hi, David, you're doing               |
+| 01:18:55   | a single script, [[AppleScript]], say, and then you put in the quote, hi, David, you're doing               |
 | 01:19:02   | fine, just keep out it, buddy.                                                                           |
 | 01:19:06   | You're good enough, you're smart enough, and gosh darn people like you.                                  |
 | 01:19:12   | Yes, there you go.                                                                                       |

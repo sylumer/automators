@@ -209,14 +209,14 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 09:30      | It's just shortcuts.                                                                                                      |
 | 09:32      | And number two, I was worried about if [[Apple]] shows up with shortcuts on the Mac, what,                                    |
 | 09:38      | you know, are they going to start lobbying hand grenades at their competition?                                            |
-| 09:43      | And like, are they going to disable AppleScript or are they going to make it so apps                                     |
+| 09:43      | And like, are they going to disable [[AppleScript]] or are they going to make it so apps                                     |
 | 09:49      | like [[Keyboard Maestro]] can't work on a Mac?                                                                                |
 | 09:52      | And that's not the case.                                                                                                  |
 | 09:54      | I mean, I think my worries were ill founded in hindsight because just on the, you know,                                   |
 | 10:01      | zooming out on the 50,000 foot level, we've got shortcuts on the Mac, which brings over                                   |
 | 10:07      | a bunch of cool actions from shortcuts on iOS that we didn't have on the Mac.                                             |
 | 10:11      | Stuff that only [[Apple]] could really address through automation.                                                            |
-| 10:15      | We still have Shell scripting and AppleScript in place.                                                                  |
+| 10:15      | We still have Shell scripting and [[AppleScript]] in place.                                                                  |
 | 10:19      | They have not removed it.                                                                                                 |
 | 10:20      | Not only have they not removed it, they've added support for it in the new shortcuts,                                     |
 | 10:24      | which means [[Apple]] is kind of on board with that stuff.                                                                    |
@@ -298,7 +298,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 14:53      | And there are so many pieces of shortcuts that are easier to automate than with shell and                                 |
 | 15:01      | AppleScripting, like, you know, inherent pieces.                                                                         |
 | 15:04      | Like I'm always struggling when I try to do shortcuts around contacts because there's                                     |
-| 15:10      | just really not a good way to do that with AppleScript and shell script.                                                 |
+| 15:10      | just really not a good way to do that with [[AppleScript]] and shell script.                                                 |
 | 15:13      | And I know people are going to start writing me their scripts and tell me how great they                                  |
 | 15:16      | are at it.                                                                                                                |
 | 15:17      | And it's just like, you know, kind of the layer automation that you get with keyboard                                     |
@@ -356,22 +356,22 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 18:35      | is in my menu bar.                                                                                                        |
 | 18:36      | I do think that, historically, setting up automation for a Mac developer was a challenge                                  |
 | 18:43      | because there's two things going on.                                                                                      |
-| 18:46      | First, it's a lot of work to add AppleScript support to your app.                                                         |
+| 18:46      | First, it's a lot of work to add [[AppleScript]] support to your app.                                                         |
 | 18:50      | I mean, it's a lot of work to add any kind of support to your app.                                                        |
-| 18:53      | But, you know, AppleScript is a language that a lot of programmers don't like because it's                                |
+| 18:53      | But, you know, [[AppleScript]] is a language that a lot of programmers don't like because it's                                |
 | 18:59      | supposed to be more human-friendly.                                                                                       |
-| 19:01      | I actually like AppleScript.                                                                                              |
+| 19:01      | I actually like [[AppleScript]].                                                                                              |
 | 19:03      | I'm comfortable with it, but I understand why some people don't.                                                          |
 | 19:06      | So, you've got that barrier, but you also have the barrier knowing that very few users                                    |
-| 19:11      | understand or have any desire to use AppleScript.                                                                         |
+| 19:11      | understand or have any desire to use [[AppleScript]].                                                                         |
 | 19:14      | So, it's like, am I going to add a new feature to my app that everybody can take advantage                                |
-| 19:20      | of, or am I going to spend that same time building an AppleScript support for a very                                      |
+| 19:20      | of, or am I going to spend that same time building an [[AppleScript]] support for a very                                      |
 | 19:24      | small subset of my users?                                                                                                 |
 | 19:26      | And I think too often the answer is, well, I'm going to add the new feature.                                              |
 | 19:31      | But now, with shortcuts, you're going to have a massively bigger user base that wants these                               |
 | 19:39      | shortcuts.                                                                                                                |
 | 19:40      | So, and frankly, [[Apple]], I think, is putting in the time in the developer kit to make these                                |
-| 19:46      | intents and these methods of using shortcuts much easier than historical AppleScript methods.                             |
+| 19:46      | intents and these methods of using shortcuts much easier than historical [[AppleScript]] methods.                             |
 | 19:53      | So, it's going to be a lower barrier and more users are going to want it.                                                 |
 | 19:58      | And also, there's that thing.                                                                                             |
 | 20:00      | You know whenever [[Apple]] adds a new feature, and this is a thing developers know, maybe                                    |
@@ -437,7 +437,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 23:51      | of specifically for the Mac, but it's not just specific for the Mac.                                                      |
 | 23:56      | Getting apps is clearly targeted at macOS.                                                                                |
 | 24:00      | And perhaps getting on-screen content as well.                                                                            |
-| 24:04      | And clearly, AppleScript and  shell script execution is also, you know, macOS stuff.                                        |
+| 24:04      | And clearly, [[AppleScript]] and  shell script execution is also, you know, macOS stuff.                                        |
 | 24:09      | But some of this stuff, like split screen apps, doesn't just work on Mac.                                                 |
 | 24:13      | It also works on iPad.                                                                                                    |
 | 24:15      | And I'm pretty, you know, excited about this because there's a lot that you can do with                                   |
@@ -638,12 +638,12 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 35:43      | And you know, it's, it's great that everything is just there and can be run anywhere.                                     |
 | 35:51      | Yeah.                                                                                                                     |
 | 35:52      | And we've talked about how it supports traditional automation.                                                            |
-| 35:57      | There's a trifecta of commands, run shell script, run AppleScript and run [[JavaScript]]                                     |
+| 35:57      | There's a trifecta of commands, run shell script, run [[AppleScript]] and run [[JavaScript]]                                     |
 | 36:03      | for Mac automation, which are the three traditional ways we created advanced automation on the                            |
 | 36:08      | Mac.                                                                                                                      |
 | 36:09      | All of that can be run from right inside your shortcuts.                                                                  |
 | 36:13      | So while shortcuts, as we've said, is kind of the basic language of automation, if you've                                 |
-| 36:17      | got an advanced AppleScript and you just decide to embed it in a shortcut step, your                                     |
+| 36:17      | got an advanced [[AppleScript]] and you just decide to embed it in a shortcut step, your                                     |
 | 36:23      | shortcut just got very powerful.                                                                                          |
 | 36:26      | Yeah, it did.                                                                                                             |
 | 36:28      | And speaking of shortcuts getting more powerful, we've still got actions like running shell                               |
@@ -653,7 +653,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 36:45      | time you do it, you'll, you'll be prompted if you want to allow scripting actions.                                        |
 | 36:49      | And this is in the preferences of shortcuts then, if you say yes, where you need to take                                  |
 | 36:53      | a box that enables or allow running scripts, which says when enabled, the, the actions                                    |
-| 36:58      | run AppleScript, run shell script, run [[JavaScript]] for Mac automation, run [[JavaScript]] on web page                          |
+| 36:58      | run [[AppleScript]], run shell script, run [[JavaScript]] for Mac automation, run [[JavaScript]] on web page                          |
 | 37:03      | and, and I can't read the rest of it because it's, it's running out of the box.                                           |
 | 37:09      | And that's a box that I need to file through, through the feedback app, but basically it's                                |
 | 37:14      | a checkbox that you need to turn on.                                                                                      |
@@ -1361,8 +1361,8 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:17:24   | not they feel like they need automation in their life.                                                                    |
 | 01:17:27   | And I feel like it's going to be a good gateway drug for things.                                                          |
 | 01:17:30   | We haven't talked about today some of the other things that you can do.                                                   |
-| 01:17:34   | You can run shortcuts from the command line and from AppleScripts.                                                       |
-| 01:17:39   | So as well as running command line scripts and AppleScripts inside of shortcuts, those                                   |
+| 01:17:34   | You can run shortcuts from the command line and from [[AppleScript\|AppleScripts]].                                                       |
+| 01:17:39   | So as well as running command line scripts and [[AppleScript\|AppleScripts]] inside of shortcuts, those                                   |
 | 01:17:44   | things can run shortcuts which is kind of mind boggling and great but also app developers                                 |
 | 01:17:51   | can build in options to run shortcuts as part of their app.                                                               |
 | 01:17:56   | And they can ship shortcuts with their app with the links.                                                                |
@@ -1393,7 +1393,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:19:37   | the Mac is a much bigger deal than we can really convey in a single episode and it's                                      |
 | 01:19:42   | going to be an ongoing topic on this show and it's just going to be a way for a lot                                       |
 | 01:19:46   | of people that had trouble automating before, you know, a lot of people never could figure                                |
-| 01:19:50   | out AppleScript.                                                                                                         |
+| 01:19:50   | out [[AppleScript]].                                                                                                         |
 | 01:19:51   | Well, guess what?                                                                                                         |
 | 01:19:52   | You don't need to.                                                                                                        |
 | 01:19:53   | You're going to be able to do a lot of automation without ever touching it.                                               |

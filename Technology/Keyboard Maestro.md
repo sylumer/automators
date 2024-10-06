@@ -23,7 +23,7 @@ Keyboard Maestro is a flexible Mac automation tool designed to streamline tasks.
 - **HTML Prompt**: Design custom dialogs and forms for user interaction within macros.
 - **Palette**: Organise and access macros via a customisable palette for efficient execution.
 - **Syncing**: Synchronise macros across multiple macOS devices for seamless workflow continuity.
-- **Scripting Support**: Integrate AppleScript, [[JavaScript]], Shell Scripting, and other scripting languages for advanced automation.
+- **Scripting Support**: Integrate [[AppleScript]], [[JavaScript]], Shell Scripting, and other scripting languages for advanced automation.
 - **Conditional Logic**: Apply conditions to macros for executing actions based on specific criteria.
 - **Accessibility Features**: Enhance accessibility through features like VoiceOver support and actions tailored for visually impaired users.
 - **Remote Triggers**: Trigger macros remotely using iOS devices or web browser, expanding automation possibilities beyond the Mac.

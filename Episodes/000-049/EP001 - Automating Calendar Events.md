@@ -367,7 +367,7 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 15:14      | And the best part of it all is you can share it with everyone you work with.                                           |
 | 15:18      | These responses are easily accessible and even searchable to make sure everyone can                                    |
 | 15:23      | find the best response.                                                                                                |
-| 15:24      | You can even make these snippets more powerful by using AppleScript and [[JavaScript]] to automate                         |
+| 15:24      | You can even make these snippets more powerful by using [[AppleScript]] and [[JavaScript]] to automate                         |
 | 15:29      | things.                                                                                                                |
 | 15:31      | TextExpander for teams allows everyone to be on the same page, which helps avoid confusing                             |
 | 15:35      | your team and your customers.                                                                                          |
@@ -526,9 +526,9 @@ Then they wrap up, having given you, dear listener, a pile of ways to avoid ever
 | 24:55      | So feel free to play with that and have some fun.                                                                      |
 | 24:58      | But I think that's as far as we're going to go with [[AppleScript]] in this episode.                                   |
 | 25:01      | Yeah.                                                                                                                  |
-| 25:02      | The only thing I'll say about it is the AppleScript is somewhat inflexible.                                            |
+| 25:02      | The only thing I'll say about it is the [[AppleScript]] is somewhat inflexible.                                            |
 | 25:08      | So you might want to look, if you do have [[Fantastical]], [[Fantastical]] is also [[AppleScript\|AppleScriptable]]    |
-| 25:13      | and you can make it parse sentences through AppleScript, which I will also have a version                              |
+| 25:13      | and you can make it parse sentences through [[AppleScript]], which I will also have a version                              |
 | 25:18      | of that you can get, which of course is a little bit easier, especially if you already                                 |
 | 25:23      | have a list of events that you want to add and you just need it parsed and put onto your                               |
 | 25:27      | calendar.                                                                                                              |

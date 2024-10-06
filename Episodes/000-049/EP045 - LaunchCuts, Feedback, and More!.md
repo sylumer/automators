@@ -367,43 +367,43 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 27:24      | camera system that really isn't that attractive to me. Honestly, I'm not sure I care, but I guess      |
 | 27:31      | we'll see what else they add to it. But back on to automation. There was someone asking in the         |
 | 27:38      | forum, is it worth learning [[AppleScript]]? Yes. This is a very good question. And to which my           |
-| 27:46      | answer would be yes, if you want to automate stuff on a Mac, AppleScript is the way to go. So there   |
+| 27:46      | answer would be yes, if you want to automate stuff on a Mac, [[AppleScript]] is the way to go. So there   |
 | 27:52      | is [[JavaScript]] for the Mac where you can automate stuff. It's called [[JXA]] [[JXA\|JavaScript for Automation]].     |
-| 27:59      | And it's kind of janky. It's based on the AppleScript, essentially. So it doesn't flow the same       |
-| 28:07      | way that regular [[JavaScript]] would. And it's very AppleScript-y. And if you're looking for examples,    |
-| 28:12      | you're going to find AppleScript everywhere, but you're going to struggle to find [[JavaScript]]          |
-| 28:16      | examples. So you're going to have to learn the AppleScript so that you can translate                  |
-| 28:20      | the AppleScript into [[JavaScript]] anyway. And I saw the other day that agile tortoise is working on     |
-| 28:30      | AppleScript support for the Mac of [[Drafts]] or [[Drafts]] for Mac, which is going to be a pretty            |
+| 27:59      | And it's kind of janky. It's based on the [[AppleScript]], essentially. So it doesn't flow the same       |
+| 28:07      | way that regular [[JavaScript]] would. And it's very [[AppleScript]]-y. And if you're looking for examples,    |
+| 28:12      | you're going to find [[AppleScript]] everywhere, but you're going to struggle to find [[JavaScript]]          |
+| 28:16      | examples. So you're going to have to learn the [[AppleScript]] so that you can translate                  |
+| 28:20      | the [[AppleScript]] into [[JavaScript]] anyway. And I saw the other day that agile tortoise is working on     |
+| 28:30      | [[AppleScript]] support for the Mac of [[Drafts]] or [[Drafts]] for Mac, which is going to be a pretty            |
 | 28:35      | awesome way to automate stuff. Imagine having keyboard moisture automatically fire things off          |
-| 28:40      | and generate a bunch of [[Drafts]] because you've got an AppleScript to tell it to do so.                 |
+| 28:40      | and generate a bunch of [[Drafts]] because you've got an [[AppleScript]] to tell it to do so.                 |
 | 28:44      | Yeah. I think that, and we talked about this with Doug Adams very recently, but                        |
-| 28:48      | there really is nothing like AppleScript for automating the Mac because it ties into those            |
+| 28:48      | there really is nothing like [[AppleScript]] for automating the Mac because it ties into those            |
 | 28:54      | Apple events. And the developers that have supported it have given deep, deep integration. So          |
 | 29:00      | that is the language where you can take one bit of data and drive seven different applications         |
 | 29:05      | and make all sorts of cool things happen. So it is absolutely worth learning if you want to do any     |
 | 29:10      | automation on the Mac. The downside is it does not come over to iOS. You're not going to be            |
-| 29:15      | able to use that AppleScript knowledge on iOS. And AppleScript is so different from [[JavaScript]]       |
+| 29:15      | able to use that [[AppleScript]] knowledge on iOS. And [[AppleScript]] is so different from [[JavaScript]]       |
 | 29:21      | that I would recommend that you also learn [[JavaScript]]. You probably need them both for                 |
 | 29:27      | automation. But I think there's this impression because of the kind of rise of [[JavaScript]] for          |
-| 29:34      | automation that AppleScript is no longer relevant. And we've had [[Sal Soghoian\|Sal]] on the show in the past and Doug |
+| 29:34      | automation that [[AppleScript]] is no longer relevant. And we've had [[Sal Soghoian\|Sal]] on the show in the past and Doug |
 | 29:41      | Adams and these guys, there are things they do with a Mac that I don't think is possible with          |
-| 29:46      | anything but AppleScript. And if you really want to dive deep on the Mac, you need to learn [[AppleScript]].     |
+| 29:46      | anything but [[AppleScript]]. And if you really want to dive deep on the Mac, you need to learn [[AppleScript]].     |
 | 29:51      | Yes, absolutely. It's not that hard to get, to understand the basics of, you know,             |
-| 30:00      | you can get to grips with the AppleScript pretty easily. And also, if people are looking for books,   |
-| 30:05      | don't be put off potentially by an older book, because AppleScript hasn't changed that much           |
+| 30:00      | you can get to grips with the [[AppleScript]] pretty easily. And also, if people are looking for books,   |
+| 30:05      | don't be put off potentially by an older book, because [[AppleScript]] hasn't changed that much           |
 | 30:11      | in a very long time, which you might think is a bad thing. But in general, it's not. At some point,    |
 | 30:17      | a programming language has to stay fairly static. I asked a couple of app developers who started       |
 | 30:22      | with [[Swift]] one about their nightmare switching from [[Swift]] one to two to three to four to five.         |
-| 30:27      | You know, you want things to be relatively consistent. And the fact that AppleScript hasn't           |
+| 30:27      | You know, you want things to be relatively consistent. And the fact that [[AppleScript]] hasn't           |
 | 30:33      | changed is a good thing in that case. And that also means that you can often pick up second hand       |
 | 30:37      | copies of books very cheaply as well, if you're looking for something that's like an in depth guide.   |
 | 30:43      | Yeah, I would recommend "AppleScript 123" by [[Sal Soghoian]], the grandmaster. And honestly,                 |
-| 30:50      | just think of a few problems in search for existing scripts. I mean, AppleScript even                 |
+| 30:50      | just think of a few problems in search for existing scripts. I mean, [[AppleScript]] even                 |
 | 30:55      | is one language where you can very much cobble together scripts even if you're not fully fluent        |
 | 31:00      | in the language. Because it's written in plain English that it's not that hard to make little          |
 | 31:04      | changes, you'll figure it out. So yeah, to answer that, I think Rose and I are both thumbs up for      |
-| 31:10      | AppleScript. Oh yeah, definitely. And you know, even if you only learn teeny tiny bits and you        |
+| 31:10      | [[AppleScript]]. Oh yeah, definitely. And you know, even if you only learn teeny tiny bits and you        |
 | 31:16      | just cobble together scripts with copy and paste, guess what? If you've got a script that works,       |
 | 31:20      | that's an automation. And that's all that matters. I still just wish so badly that they had integrated |
 | 31:26      | something like Apple events into iOS at the beginning. I don't know that it's even possible now.       |
@@ -703,7 +703,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 58:44      | Things like the Home app are intriguing to use right now, I have to say. And it would be great         |
 | 58:51      | if we got at the very minimum, you know, some basic support for certain home kit things so             |
 | 58:58      | that we could then run those automatically from our Macs. Because right now, the Home app doesn't      |
-| 59:04      | even have AppleScript support because it's a Catalyst app and it just didn't get that.                |
+| 59:04      | even have [[AppleScript]] support because it's a Catalyst app and it just didn't get that.                |
 | 59:10      | And it would be great to see it, but I'm not sure this year is the year, to be honest.                 |
 | 59:14      | Yeah, I feel the same way. I don't know anything. I haven't talked to anybody. I have no inside        |
 | 59:18      | knowledge, but I feel like this year, they're going to further clamp down the iOS version of           |

@@ -1059,7 +1059,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:05:11   | You may want [[JavaScript]] because that can run on your phone and your iPad and a Mac.                       |
 | 01:05:16   | You might want shortcuts because if you don't have any experience with writing automations,               |
 | 01:05:21   | it's quite nice to have blocks that you can drag and drop into place.                                     |
-| 01:05:24   | AppleScript could be a good choice if you're just looking to automate stuff on the Mac.                   |
+| 01:05:24   | [[AppleScript]] could be a good choice if you're just looking to automate stuff on the Mac.                   |
 | 01:05:29   | Keyboard maestro might be a good choice if you want to be able to download lots of Mac                    |
 | 01:05:33   | automations that people have already made and just use them.                                              |
 | 01:05:37   | It really kind of depends.                                                                                |
@@ -1074,7 +1074,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:06:07   | You'll be surprised with an afternoon, how much you can learn and how quickly you can                     |
 | 01:06:13   | bring this into your life and start getting some benefit from it.                                         |
 | 01:06:16   | I think that's a very easy honour app.                                                                     |
-| 01:06:19   | Trying to start with AppleScript is a bad idea because it's a programming language and it's               |
+| 01:06:19   | Trying to start with [[AppleScript]] is a bad idea because it's a programming language and it's               |
 | 01:06:24   | a little bit funky as a programming language.                                                             |
 | 01:06:27   | You could spend months at it before you really get good enough to use it, whereas shortcuts               |
 | 01:06:32   | are going to get immediate payoff.                                                                        |
@@ -1090,7 +1090,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:07:17   | The good knowledge of all this, I really think, is that all this stuff at this point builds               |
 | 01:07:21   | on each other.                                                                                            |
 | 01:07:24   | Once you learn shortcuts, maybe you go to [[Keyboard Maestro]], then suddenly things like                     |
-| 01:07:28   | AppleScript, [[JavaScript]], all that stuff becomes additive and you can learn it as you need                 |
+| 01:07:28   | [[AppleScript]], [[JavaScript]], all that stuff becomes additive and you can learn it as you need                 |
 | 01:07:35   | it.                                                                                                       |
 | 01:07:36   | My recommendation if you're getting started with automation, start easy and I can confidently             |
 | 01:07:42   | say no matter which [[Apple]] platform you're on, that's shortcuts.                                           |
@@ -1104,10 +1104,10 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:08:16   | That gives you a lot of options and especially with things like Scriptable and so on, then                |
 | 01:08:23   | [[JavaScript]] is just a good place to start for that, but really, you should probably look                   |
 | 01:08:30   | at shortcuts first and don't forget if you're there going, okay, but what if I can't do                   |
-| 01:08:34   | something in Shortcuts and I need AppleScript or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
+| 01:08:34   | something in Shortcuts and I need [[AppleScript]] or I need [[Drafts]] or any [[Keyboard Maestro]]?                   |
 | 01:08:40   | Well, Shortcuts has got great action support for lots of things and more importantly, those               |
 | 01:08:46   | apps have got action support in Shortcuts, so you can run a [[Drafts]] action on a draft                      |
-| 01:08:51   | or on text, you can run AppleScript, you can run a [[Keyboard Maestro]] macro, it's called                    |
+| 01:08:51   | or on text, you can run [[AppleScript]], you can run a [[Keyboard Maestro]] macro, it's called                    |
 | 01:08:55   | Execute Macro, that's the name of the action, but you can do all of these things from the                 |
 | 01:09:00   | other stuff, so if you find that you can just download this bit from here or copy that bit                |
 | 01:09:04   | from there, then you can stick it all together, duct tape, superglue, WD-40, whatever it is               |

@@ -338,7 +338,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 24:03      | if it's a file that includes the name Rose and it's a PDF, put it in this folder.                       |
 | 24:08      | You know, I did a whole screencast field guide on [[Hazel]]. I've done a ton of free stuff too.             |
 | 24:15      | If you go to MacSparky, Rose has done stuff on [[Hazel]] too. It's just, it's just an amazing tool.        |
-| 24:22      | I used to, before I knew about [[Hazel]], I used to write AppleScripts to try and manage this stuff.       |
+| 24:22      | I used to, before I knew about [[Hazel]], I used to write [[AppleScript\|AppleScripts]] to try and manage this stuff.       |
 | 24:26      | [[Hazel]] does such a better job. It's more consistent. It's very easy and anybody can do it, you know.     |
 | 24:32      | It's so you, like I said earlier, you can set multiple conditions and in the event that conditions      |
 | 24:37      | are satisfied or not satisfied, it's very flexible. You can have it move, delete, do just about any     |
@@ -907,7 +907,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:14:38   | create the project. And that is a form of automation, but just a little different than the way we       |
 | 01:14:44   | typically talk about it on the automators. Yes. And it's a really good one. And                         |
 | 01:14:49   | that's something that I'm working on as well. I was there trying to figure out the other day,           |
-| 01:14:52   | how do I create an AppleScript that automatically creates a new mind node document. And then I         |
+| 01:14:52   | how do I create an [[AppleScript]] that automatically creates a new mind node document. And then I         |
 | 01:14:58   | realised I can just put a blank mind node document in post-haste and use it. And I don't need to        |
 | 01:15:04   | automate it. So that's something I'm working on. And I'm hoping that I have that one ready to talk      |
 | 01:15:08   | about in our what we've recently been working on part of our next episode. Maybe I'll need a couple     |

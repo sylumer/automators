@@ -878,7 +878,7 @@ In this episode, Rose and David explain some of their favourite small automation
 | 34:13      | handy contextual menus like, you know, mouse contextual menus.      |
 | 34:19      | You can automate those with [[BetterTouchTool]] that I'm not          |
 | 34:22      | aware of any other way to do that.                                  |
-| 34:24      | I mean, I've, I mean, I've tried it with AppleScript and           |
+| 34:24      | I mean, I've, I mean, I've tried it with [[AppleScript]] and           |
 | 34:28      | keyboard my show and I never get it to reliably work, whereas       |
 | 34:31      | I get it to reliably work with [[BetterTouchTool]].                   |
 | 34:34      | And another one that, you know, it seems to me like a big           |

@@ -897,9 +897,9 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 45:11      | Yeah.                                                                                                |
 | 45:12      | And the other thing I think that really stands out on the Mac is I think there's this huge           |
 | 45:14      | opportunity.                                                                                         |
-| 45:15      | There's a lot of historical Mac apps that didn't go down the AppleScript path because I feel        |
+| 45:15      | There's a lot of historical Mac apps that didn't go down the [[AppleScript]] path because I feel        |
 | 45:23      | like the developers felt like there weren't enough users to justify the expense of building          |
-| 45:28      | in AppleScript support, whereas I think a lot of those same developers are going to                 |
+| 45:28      | in [[AppleScript]] support, whereas I think a lot of those same developers are going to                 |
 | 45:33      | be creating Shortcuts actions because I think they get a lot more return on investment for           |
 | 45:39      | creating them.                                                                                       |
 | 45:41      | So I expect you're going to have yourself, you're going to be busy keeping up with all               |

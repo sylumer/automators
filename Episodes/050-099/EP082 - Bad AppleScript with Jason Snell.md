@@ -215,7 +215,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 09:15      | and add a new subroutine and all of that.                                                                        |
 | 09:17      | And that was that moment where the light went on.                                                                |
 | 09:20      | And so then when I got to the Mac                                                                                |
-| 09:22      | and System 7 came out and AppleScript came out                                                                   |
+| 09:22      | and System 7 came out and [[AppleScript]] came out                                                                   |
 | 09:25      | and there came a time,                                                                                           |
 | 09:28      | I think when I was still in college,                                                                             |
 | 09:31      | where I was doing an online magazine                                                                             |
@@ -230,7 +230,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 09:54      | It was a lot of work.                                                                                            |
 | 09:55      | And that was that moment.                                                                                        |
 | 09:56      | That was my formative Mac automation moment                                                                      |
-| 09:58      | where I ended up writing an AppleScript.                                                                         |
+| 09:58      | where I ended up writing an [[AppleScript]].                                                                         |
 | 10:00      | And again, stealing code from examples                                                                           |
 | 10:03      | that people were providing on, you know,                                                                         |
 | 10:06      | Usenet or in books or wherever you could find it                                                                 |
@@ -383,20 +383,20 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 15:46      | But the, the benefit of it is once you start learning                                                            |
 | 15:48      | automation tools, they, you know,                                                                                |
 | 15:51      | you can quickly capitalise on it.                                                                                |
-| 15:53      | You write a couple of AppleScripts and suddenly                                                                 |
+| 15:53      | You write a couple of [[AppleScript\|AppleScripts]] and suddenly                                                                 |
 | 15:55      | the third one is really easy to write.                                                                           |
 | 15:58      | And that's one of the reasons why I talk so much on the show                                                     |
 | 16:01      | about tools like [[Hazel]] and keyboard my show,                                                                     |
 | 16:04      | because I feel like they really kind of                                                                          |
 | 16:07      | make that on ramp easier and faster,                                                                             |
 | 16:10      | because they do a lot of the stuff behind the scenes                                                             |
-| 16:12      | that normally you would have to do an AppleScript                                                               |
+| 16:12      | that normally you would have to do an [[AppleScript]]                                                               |
 | 16:15      | or some scripting language.                                                                                      |
 | 16:17      | So I think that's a great way to start to, you know,                                                             |
 | 16:20      | pay somebody for one of these third party tools.                                                                 |
 | 16:23      | And, you know, then the time you spend will be less.                                                             |
 | 16:27      | And in some ways you'll be able to do things with those tools                                                    |
-| 16:29      | you couldn't do with AppleScript anyway.                                                                        |
+| 16:29      | you couldn't do with [[AppleScript]] anyway.                                                                        |
 | 16:31      | But it's okay to lose time when you first go down this road                                                      |
 | 16:36      | because in the long run you'll be amazed at how much it helps.                                                   |
 | 16:40      | Yeah, I mean, there is an initial investment                                                                     |
@@ -447,7 +447,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 18:35      | It opens the email and bam, done.                                                                                |
 | 18:37      | It's like, oh, wow.                                                                                              |
 | 18:38      | Okay.                                                                                                            |
-| 18:39      | I was expecting to write an AppleScript for this or whatever.                                                   |
+| 18:39      | I was expecting to write an [[AppleScript]] for this or whatever.                                                   |
 | 18:41      | I was going to do an Omni Automation.                                                                            |
 | 18:43      | It's like, no, no, no, no, no.                                                                                   |
 | 18:44      | Simplify.                                                                                                        |
@@ -536,9 +536,9 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 22:40      | So I am using that using my sort of script tools.                                                                |
 | 22:45      | And that's a real hodgepodge too.                                                                                |
 | 22:47      | I've got plugins for Bit Bar and [[SwiftBar]] that are like,                                                        |
-| 22:51      | I've got Python and PHP and shell scripting and AppleScript even,                                                |
+| 22:51      | I've got Python and PHP and shell scripting and [[AppleScript]] even,                                                |
 | 22:57      | where it's just running an OSA script command.                                                                   |
-| 23:02      | I literally have an AppleScript file in there that runs AppleScript.                                              |
+| 23:02      | I literally have an [[AppleScript]] file in there that runs [[AppleScript]].                                              |
 | 23:07      | It's kind of amazing.                                                                                            |
 | 23:08      | But the number one thing is Automator.                                                                           |
 | 23:10      | And I'm working on my Mac OS Monterey review.                                                                    |
@@ -557,9 +557,9 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 24:00      | you can right click on a file in the Finder.                                                                     |
 | 24:03      | And you can act upon that file or folder with an Automation of your choosing.                                    |
 | 24:12      | And I use that every day because I have wired a whole bunch of things,                                           |
-| 24:17      | most of which are like AppleScripts or shell scripts or AppleScripts that run shell scripts,                       |
+| 24:17      | most of which are like [[AppleScript\|AppleScripts]] or shell scripts or [[AppleScript\|AppleScripts]] that run shell scripts,                       |
 | 24:23      | which is another great thing about the stackability of all the Automation here is that,                          |
-| 24:27      | and even when Shortcuts comes in, you can write an AppleScript that runs a Shortcut                              |
+| 24:27      | and even when Shortcuts comes in, you can write an [[AppleScript]] that runs a Shortcut                              |
 | 24:30      | that runs a shell script that runs a Perl script.                                                                 |
 | 24:32      | You can stack them all and use the pieces that serve you.                                                        |
 | 24:36      | And so I have, for all my podcast stuff, I have these tools that convert your files                              |
@@ -627,19 +627,19 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 28:22      | And then the last thing is I've been learning Python,                                                            |
 | 28:25      | which is kind of wild and out there,                                                                             |
 | 28:27      | but it's like I thought I wanted to learn a scripting language because                                           |
-| 28:31      | I don't really know any scripting language well except for AppleScript.                                          |
-| 28:34      | You can't really ever know AppleScript well because essentially the dialect,                                     |
+| 28:31      | I don't really know any scripting language well except for [[AppleScript]].                                          |
+| 28:34      | You can't really ever know [[AppleScript]] well because essentially the dialect,                                     |
 | 28:38      | you have to speak changes for every single different app that you script.                                        |
-| 28:42      | And I was doing a lot of things in AppleScript that were totally not necessary                                   |
-| 28:48      | because I knew AppleScript.                                                                                      |
+| 28:42      | And I was doing a lot of things in [[AppleScript]] that were totally not necessary                                   |
+| 28:48      | because I knew [[AppleScript]].                                                                                      |
 | 28:50      | So if you're doing loading web content, there are better tools.                                                  |
 | 28:54      | And every tool does looping and basic logic.                                                                     |
-| 29:00      | And yet I was doing these things in AppleScript and I thought,                                                   |
+| 29:00      | And yet I was doing these things in [[AppleScript]] and I thought,                                                   |
 | 29:03      | this has got to stop.                                                                                            |
 | 29:04      | I need to perform an intervention on myself and try something new.                                               |
 | 29:07      | And so I took that newsletter script that automatically generates the Six Colors                                 |
 | 29:10      | newsletter on a weekly basis and I redid it in Python                                                            |
-| 29:16      | because I thought this is a script that doesn't need to be in AppleScript.                                       |
+| 29:16      | because I thought this is a script that doesn't need to be in [[AppleScript]].                                       |
 | 29:20      | And then I could put it up on my web server and just have it run automatically up there.                         |
 | 29:24      | And I don't have to worry that the Mac that it's running on is running every week.                               |
 | 29:28      | And I did that and that was really instructive.                                                                  |
@@ -679,12 +679,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 31:28      | It's just in numbers.                                                                                            |
 | 31:29      | Numbers makes pretty charts.                                                                                     |
 | 31:30      | That's why I'm using numbers.                                                                                    |
-| 31:31      | And my Automator action for that is not an AppleScript.                                                         |
+| 31:31      | And my Automator action for that is not an [[AppleScript]].                                                         |
 | 31:34      | It's an Automator action.                                                                                        |
 | 31:35      | And the reason is Automator because I found like the best way to do it was to write a script to export this PDF. |
 | 31:43      | The only way to get high quality files and images out of numbers is to use PDF.                                  |
 | 31:48      | Exports a PDF and then it uses Automator's tool to generate an image from a PDF.                                 |
-| 31:55      | And then it goes to another AppleScript that does the rest of the work.                                         |
+| 31:55      | And then it goes to another [[AppleScript]] that does the rest of the work.                                         |
 | 31:58      | And that's a case where I actually thought, you know, the easiest way to do this is just split my script in two  |
 | 32:04      | and put an Automator action in the middle.                                                                       |
 | 32:06      | And so I have to give Automator credit.                                                                          |
@@ -752,7 +752,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 35:34      | Perl, I did learning Perl and programming Perl in the 90s at one point,                                          |
 | 35:39      | so I don't remember any of it, but I did go down that path a little bit.                                         |
 | 35:43      | Perl, [[JavaScript]], Python, they all have so many commonalities                                                    |
-| 35:50      | and also are so different from AppleScript in some ways, right?                                                 |
+| 35:50      | and also are so different from [[AppleScript]] in some ways, right?                                                 |
 | 35:54      | Yeah.                                                                                                            |
 | 35:55      | That I feel like if I needed to do something in [[JavaScript]] now,                                                  |
 | 35:58      | I could, I would have to change the idiom                                                                        |
@@ -767,7 +767,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 36:27      | in doing things like building [[Drafts]] automations,                                                                |
 | 36:30      | using Omni Automation, creating Scriptable widgets,                                                                |
 | 36:34      | maybe even [[JavaScript]] for automation.                                                                            |
-| 36:36      | Probably don't just stick with AppleScript for that.                                                            |
+| 36:36      | Probably don't just stick with [[AppleScript]] for that.                                                            |
 | 36:38      | [[JavaScript]] for automation is kind of broken on iOS.                                                              |
 | 36:40      | Yeah, that's my understanding.                                                                                   |
 | 36:43      | But if you want a script that you can throw on a server                                                          |
@@ -1057,7 +1057,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 49:19      | you're pulling out of that?                                                                                      |
 | 49:21      | Oh, okay, David.                                                                                                 |
 | 49:23      | This is one of those things where it's going to be                                                               |
-| 49:25      | a bad AppleScript.                                                                                              |
+| 49:25      | a bad [[AppleScript]].                                                                                              |
 | 49:27      | That's bad shortcuts.                                                                                            |
 | 49:28      | That's okay. Me too, baby.                                                                                       |
 | 49:29      | I use a regular expression match                                                                                 |
@@ -1438,7 +1438,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:03:32   | an error return saying                                                                                           |
 | 01:03:34   | Finder can't get                                                                                                 |
 | 01:03:36   | the current folder of that file. Well, it works                                                                  |
-| 01:03:38   | in AppleScript in the script                                                                                    |
+| 01:03:38   | in [[AppleScript]] in the script                                                                                    |
 | 01:03:40   | editor. It just doesn't work inside                                                                              |
 | 01:03:42   | of workflow. And like                                                                                            |
 | 01:03:44   | either it's a security issue                                                                                     |
@@ -1692,7 +1692,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:12:02   | and we can be cool because                                                                                       |
 | 01:12:04   | they didn't                                                                                                      |
 | 01:12:06   | turn off other automation tools you know                                                                         |
-| 01:12:08   | they you know all the AppleScript                                                                               |
+| 01:12:08   | they you know all the [[AppleScript]]                                                                               |
 | 01:12:10   | the [[JavaScript]] the Python the keyboard                                                                           |
 | 01:12:12   | my store the [[Hazel]] all that stuff still                                                                          |
 | 01:12:14   | works so it may take                                                                                             |

@@ -19,7 +19,7 @@ BBEdit is a powerful text editor designed for macOS and used for writing, editin
 
 # Notes
 - BBEdit is a paid for application.
-- Supports various automation integrations such as AppleScript.
+- Supports various automation integrations such as [[AppleScript]].
 
 # Links
 - [Official BBEdit Website](https://www.barebones.com/products/bbedit/)

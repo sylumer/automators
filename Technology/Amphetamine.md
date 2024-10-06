@@ -17,7 +17,7 @@ Amphetamine is a utility application designed to keep your Mac awake and prevent
 - Trigger based on events, such as being on a particular WiFi network
 - Trigger Amphetamine with a hotkey
 - Allow/disallow system sleep while lid is closed on MacBooks
-- AppleScript and URL Scheme support for advanced automations
+- [[AppleScript]] and URL Scheme support for advanced automations
 - Screen saver controls
 - Session timing options (indefinite or specific duration)
 - Permit or prevent screen lock

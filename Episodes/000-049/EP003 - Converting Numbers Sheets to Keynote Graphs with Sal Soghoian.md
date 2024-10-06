@@ -92,7 +92,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 01:55      | You're constantly publishing stuff over at Mac automation, I'm sorry, macosxautomation.com.                                                                              |
 | 02:02      | And you're just a treasure of the community for the automation stuff, I mean, honestly.                                                                                  |
 | 02:08      | Definitely.                                                                                                                                                              |
-| 02:09      | I mean, I wouldn't have got started with AppleScript if it hadn't been for you and your                                                                                  |
+| 02:09      | I mean, I wouldn't have got started with [[AppleScript]] if it hadn't been for you and your                                                                                  |
 | 02:12      | websites.                                                                                                                                                                |
 | 02:13      | So thank you because I'm here today because of you.                                                                                                                      |
 | 02:16      | I am so impressed and inspired.                                                                                                                                          |
@@ -110,9 +110,9 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 03:07      | using and advancing and it's really incredible.                                                                                                                          |
 | 03:10      | Just give a shout out to JD and Adam and Ricardo and the rest of the team over there.                                                                                    |
 | 03:16      | They're doing a really great job on automating iOS devices using Macs.                                                                                                   |
-| 03:22      | And are they using AppleScript for that?                                                                                                                                 |
+| 03:22      | And are they using [[AppleScript]] for that?                                                                                                                                 |
 | 03:24      | Or I don't know if you can say at all.                                                                                                                                   |
-| 03:26      | AppleScript comes into play quite a bit.                                                                                                                                 |
+| 03:26      | [[AppleScript]] comes into play quite a bit.                                                                                                                                 |
 | 03:27      | It's mostly based on automator.                                                                                                                                          |
 | 03:30      | They use workflows upon attachment to automate the setup of iOS devices for companies, usually                                                                           |
 | 03:38      | large installations and maybe tens of thousands of iOS devices where they might not have access                                                                          |
@@ -125,7 +125,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 04:15      | And gang, if you're, first of all, this is an episode we want you to listen to in front                                                                                  |
 | 04:20      | of a computer because Sal, as the first guest, has set the bar so high that I don't think                                                                                |
 | 04:26      | any future guest will match.                                                                                                                                             |
-| 04:28      | We're going to get into the weeds on some AppleScript today because that's what we                                                                                       |
+| 04:28      | We're going to get into the weeds on some [[AppleScript]] today because that's what we                                                                                       |
 | 04:32      | do on the show.                                                                                                                                                          |
 | 04:33      | Sal set up a website for you.                                                                                                                                            |
 | 04:35      | So if you go to macosxautomation.com/automators, you'll see how he did that.                                                                                             |
@@ -135,8 +135,8 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 04:47      | So I think one of the best ways to get your very first lesson in auto script from [[AppleScript]]                                                                                  |
 | 04:52      | from the guy is to sit down, listen to our show and just open that website on                                                                                     |
 | 04:57      | your Mac and you're going to get the code and everything you need.                                                                                                       |
-| 05:01      | Before we get started, I think if anybody's getting serious about AppleScript, one thing                                                                                 |
-| 05:05      | I would recommend you do, [[Apple]] has a built-in AppleScript editor on your Mac.                                                                                           |
+| 05:01      | Before we get started, I think if anybody's getting serious about [[AppleScript]], one thing                                                                                 |
+| 05:05      | I would recommend you do, [[Apple]] has a built-in [[AppleScript]] editor on your Mac.                                                                                           |
 | 05:09      | But if you want to get serious about the stuff, the app that I've been using, and Sal told                                                                               |
 | 05:13      | me about this app way, way long ago when I took his course, is you want to get yourself                                                                                  |
 | 05:19      | over to [[Late Night Software]].                                                                                                                                             |
@@ -185,7 +185,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 07:25      | All right, so what is this script about?                                                                                                                                 |
 | 07:27      | So when you asked me about doing the podcast, the thousands of scripts that I've written                                                                                 |
 | 07:36      | or seen in my life, I said, you know, is there some type of script that shows some of the                                                                                |
-| 07:42      | basic power behind AppleScript and some of the remarkable abilities that it has, but                                                                                     |
+| 07:42      | basic power behind [[AppleScript]] and some of the remarkable abilities that it has, but                                                                                     |
 | 07:48      | at the same time is quite functional and easy to understand.                                                                                                             |
 | 07:53      | And my mind instantly went to this script and what the script does is it takes a table                                                                                   |
 | 08:03      | in numbers and takes the data from the table and makes a chart in a slide on keynote.                                                                                    |
@@ -389,7 +389,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 22:51      | minus one of the first row of the cell range.                                                                                                                            |
 | 22:56      | And cell range is a property of the table that is a list of positions.                                                                                                   |
 | 23:02      | So you don't even have to know this is cell A1C or cell 3B2 or whatever.                                                                                                 |
-| 23:10      | You just talk to the cell range and ask AppleScript to find it and it will do that for you.                                                                              |
+| 23:10      | You just talk to the cell range and ask [[AppleScript]] to find it and it will do that for you.                                                                              |
 | 23:18      | This episode of Automators is brought to you by TextExpander from Smile.                                                                                                 |
 | 23:22      | TextExpander multiplies your team's productivity, making up-to-date shared knowledge available                                                                           |
 | 23:27      | instantly to everybody.                                                                                                                                                  |
@@ -490,12 +490,12 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 30:18      | And then we're going to extract the data from those rows.                                                                                                                |
 | 30:21      | That's basically what's going to happen.                                                                                                                                 |
 | 30:23      | So that's why we're saying repeat with a I and in this case, I is just a container.                                                                                      |
-| 30:31      | Although that is a word I in AppleScript, it's not a word.                                                                                                               |
+| 30:31      | Although that is a word I in [[AppleScript]], it's not a word.                                                                                                               |
 | 30:36      | So it looks at it as a container.                                                                                                                                        |
 | 30:39      | It's called a loop counter and it basically it's just going to each time the loop occurs,                                                                                |
 | 30:46      | it's going to have a value indicating the loop that it's going through.                                                                                                  |
 | 30:53      | And that loop counter is going to be from two to the count of rows.                                                                                                      |
-| 30:58      | So I'm asking AppleScript to count how many rows there are and start at the second one                                                                                   |
+| 30:58      | So I'm asking [[AppleScript]] to count how many rows there are and start at the second one                                                                                   |
 | 31:04      | and go to the end.                                                                                                                                                       |
 | 31:05      | So if there's five rows and it starts at the second, it's going to do two, three, four                                                                                   |
 | 31:11      | and five.                                                                                                                                                                |
@@ -515,7 +515,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 32:07      | Set the end of the table data.                                                                                                                                           |
 | 32:10      | It's your appending information to a list.                                                                                                                               |
 | 32:14      | So if I have a list and my list has three things on it, and I want to add something                                                                                      |
-| 32:19      | to the end of the list, this is how you do it in AppleScript.                                                                                                            |
+| 32:19      | to the end of the list, this is how you do it in [[AppleScript]].                                                                                                            |
 | 32:22      | You say set the end of this list, table data, to the value of cells two through minus one.                                                                               |
 | 32:33      | Remember minus one is just in programming a fancy way of saying the last item, the last                                                                                  |
 | 32:39      | row, the last column.                                                                                                                                                    |
@@ -532,18 +532,18 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 33:31      | If you needed to flip your data for whatever reason.                                                                                                                     |
 | 33:34      | Exactly.                                                                                                                                                                 |
 | 33:35      | You can use the word beginning.                                                                                                                                          |
-| 33:37      | AppleScript understands that.                                                                                                                                            |
-| 33:40      | In AppleScript, the index of the first item in a list is one.                                                                                                            |
+| 33:37      | [[AppleScript]] understands that.                                                                                                                                            |
+| 33:40      | In [[AppleScript]], the index of the first item in a list is one.                                                                                                            |
 | 33:46      | In [[JavaScript]], they use a zero index.                                                                                                                                    |
 | 33:50      | So the first item is zero, item zero.                                                                                                                                    |
-| 33:53      | But AppleScript is more English-like, and in English we don't go, will the zero person                                                                                   |
+| 33:53      | But [[AppleScript]] is more English-like, and in English we don't go, will the zero person                                                                                   |
 | 34:00      | please stand up?                                                                                                                                                         |
 | 34:01      | We say, well, the first person stand up.                                                                                                                                 |
-| 34:03      | So AppleScript uses the one as the index for the first value of a list or an array.                                                                                      |
+| 34:03      | So [[AppleScript]] uses the one as the index for the first value of a list or an array.                                                                                      |
 | 34:12      | And end is identified to show where you're going to be appending the data to instead                                                                                     |
 | 34:18      | of beginning or the end.                                                                                                                                                 |
 | 34:19      | You could also say middle.                                                                                                                                               |
-| 34:22      | AppleScript uses a lot of positional indicators that are just normal English language.                                                                                   |
+| 34:22      | [[AppleScript]] uses a lot of positional indicators that are just normal English language.                                                                                   |
 | 34:30      | And so then the other, once we've closed off our repeat and we close the Intel for the                                                                                   |
 | 34:38      | block talking to the table, and then Intel for the application, we've completed the conversation                                                                         |
 | 34:44      | with numbers.                                                                                                                                                            |
@@ -700,7 +700,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 45:14      | fix it.                                                                                                                                                                  |
 | 45:15      | And before you know it, you're programming and that's the beauty of this stuff.                                                                                          |
 | 45:19      | Yes.                                                                                                                                                                     |
-| 45:20      | And if anybody makes any tweaks to the original AppleScript to make it work for them, please                                                                             |
+| 45:20      | And if anybody makes any tweaks to the original [[AppleScript]] to make it work for them, please                                                                             |
 | 45:25      | post it in the forum so that everybody else can steal it because this is an amazing way                                                                                  |
 | 45:30      | to get started.                                                                                                                                                          |
 | 45:32      | So please, please share what tweaks you make to make it yours.                                                                                                           |
@@ -826,10 +826,10 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 54:12      | And we really want you to take that out of this show that you can do this stuff.                                                                                         |
 | 54:16      | Yes, definitely.                                                                                                                                                         |
 | 54:17      | So, you know, one way you could get better at doing this stuff is going and taking a three-day                                                                           |
-| 54:21      | course on AppleScript.                                                                                                                                                   |
+| 54:21      | course on [[AppleScript]].                                                                                                                                                   |
 | 54:23      | And there just happens to be one in October.                                                                                                                             |
 | 54:27      | The [[CMD-D Conference\|CMD-D Down Home Scripting Bootcamp]], where you get taught by the master, Sal will                                                                             |
-| 54:32      | be there teaching you for three days about how to get better at AppleScript.                                                                                             |
+| 54:32      | be there teaching you for three days about how to get better at [[AppleScript]].                                                                                             |
 | 54:35      | And, you know, I think back to those two days I spent with you at Mackerel, I really think                                                                               |
 | 54:42      | it was a huge step for me in my automation journey.                                                                                                                      |
 | 54:45      | And I hope anybody that's interested in this stuff goes and checks it out.                                                                                               |

@@ -833,7 +833,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 01:01:45   | mode to dark mode, it will set my volume all the way down on my phone, it will turn on                   |
 | 01:01:49   | do not disturb for a certain amount of time. But the other thing it does, which I was very               |
 | 01:01:54   | proud of figuring out is it will actually SSH into my Mac, and it will run a one line                    |
-| 01:02:00   | AppleScript command set volume zero. So this way, if I just even though I'm already on                  |
+| 01:02:00   | [[AppleScript]] command set volume zero. So this way, if I just even though I'm already on                  |
 | 01:02:06   | do not disturb and it's all synced up or whatever, just in case what it will do is it will go            |
 | 01:02:11   | ahead and turn the volume on my Mac all the way down because I can hear it from the from                 |
 | 01:02:17   | the bedroom if it's not. And so this way, no matter what's going on, nothing's waking                    |

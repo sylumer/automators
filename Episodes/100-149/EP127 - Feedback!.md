@@ -444,7 +444,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 24:55      | So yeah, you get to reuse format date and you can adjust it to the start of the day.                   |
 | 24:59      | Yeah, I've always found that trying to automate calendar information with shortcuts always             |
 | 25:05      | felt a little like difficult to me, and there's a lot of, I'm sorry, in [[AppleScript]], I miss            |
-| 25:11      | spoke, formatting dates in AppleScript has always been difficult for me, and it's just                 |
+| 25:11      | spoke, formatting dates in [[AppleScript]] has always been difficult for me, and it's just                 |
 | 25:16      | really because they use, the way they tell time is weird, and I don't even, Rose will                  |
 | 25:23      | know the exact language, but basically they're counting from the, I don't know, was at the             |
 | 25:26      | beginning of time, what is that?                                                                       |
@@ -710,7 +710,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 42:39      | to help boost your knowledge with some idea of what's going on.                                        |
 | 42:44      | And I would suggest not necessarily going straight to [[ChatGPT]], but making sure that                   |
 | 42:48      | you use the other resources available, such as Stack Overflow and so on as well, because               |
-| 42:52      | there's a lot of stuff out there on the internet, especially for AppleScript already, where           |
+| 42:52      | there's a lot of stuff out there on the internet, especially for [[AppleScript]] already, where           |
 | 42:57      | somebody's written exactly what you want.                                                              |
 | 43:01      | And yeah, especially as we find more and more [[ChatGPT]] answers being posted on the internet,           |
 | 43:06      | that feeds the data set, which especially if it's wrong, is them feeding it more wrong                 |
@@ -725,8 +725,8 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 43:42      | Well, I think I'm more optimistic than you.                                                            |
 | 43:44      | The key question and the key phrase in Chase's question is using it as a launching point.              |
 | 43:50      | And I think it can work.                                                                               |
-| 43:51      | I mean, AppleScript to me is the one I keep throwing at these and it has the hardest time             |
-| 43:56      | with, because AppleScript was really meant to be kind of human, writable and readable.               |
+| 43:51      | I mean, [[AppleScript]] to me is the one I keep throwing at these and it has the hardest time             |
+| 43:56      | with, because [[AppleScript]] was really meant to be kind of human, writable and readable.               |
 | 44:01      | I mean, we've had salsa going on the show to talk about that in the past.                              |
 | 44:04      | So it's a weird language and I feel like [[ChatGPT]] stumbles on that one.                                |
 | 44:10      | I've had it write scripts for me just for tests.                                                       |
@@ -738,7 +738,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 44:28      | You just grab the script and you're off to the races.                                                  |
 | 44:32      | But if you're just hitting a brick wall, you can't find any good examples on the internet.             |
 | 44:38      | Using [[ChatGPT]] for I have subscribed because I'm trying to figure out this stuff like everybody        |
-| 44:44      | else while Rose was talking, I asked it, write an AppleScript to ask for a date and present           |
+| 44:44      | else while Rose was talking, I asked it, write an [[AppleScript]] to ask for a date and present           |
 | 44:50      | a dialogue box with a date two days before that.                                                       |
 | 44:54      | And this script looks to me like it'll work.                                                           |
 | 44:57      | I haven't, you know, I just did this and I haven't had time.                                           |
@@ -956,7 +956,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 58:12      | And I would say if you spend primarily your time on the Macintosh, you really should look              |
 | 58:16      | at timing because it tracks what's going on, on your computer and the automation, I mean,              |
 | 58:22      | there's lots of automation and I could go deeper down the rabbit hole because with timing,             |
-| 58:25      | you can write AppleScripts to do pretty much anything you can do with Timer, but, and I've            |
+| 58:25      | you can write [[AppleScript\|AppleScripts]] to do pretty much anything you can do with Timer, but, and I've            |
 | 58:29      | done some of that.                                                                                     |
 | 58:31      | But the real automation of timing really is you just train it whenever I'm at this web                 |
 | 58:36      | page and then track that as recording the automators podcast because you only go to                    |

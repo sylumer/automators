@@ -205,7 +205,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 09:32      | And then [[Apple]] saw me and they asked me to join.                                                     |
 | 09:35      | And that was back in 97.                                                                             |
 | 09:37      | So I got to [[Apple]] in January of 97, which was about four years after they had started                |
-| 09:43      | and dropped AppleScript.                                                                            |
+| 09:43      | and dropped [[AppleScript]].                                                                            |
 | 09:45      | They introduced it and immediately forgot about it.                                                  |
 | 09:50      | Yeah.                                                                                                |
 | 09:51      | But you know, somebody told me once, I'm going to, I'm going to toot your horn for you.              |
@@ -237,7 +237,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 11:47      | who was around the automation team.                                                                  |
 | 11:51      | We merged two ideas.                                                                                 |
 | 11:52      | Eric was working on a pipeline architecture for the command line and Tim was working with            |
-| 11:58      | a pipeline architecture for AppleScript and the two got together and it was just, it took            |
+| 11:58      | a pipeline architecture for [[AppleScript]] and the two got together and it was just, it took            |
 | 12:05      | over and it was pretty amazing.                                                                      |
 | 12:09      | And we just kept pushing it and pushing it and pushing it, but we were taking it around              |
 | 12:14      | to different executives in the company trying to get buy-in and all of them were amazed              |
@@ -563,7 +563,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 32:01      | Shortly after I left [[Apple]], I was talking to Ken Case and Ken said that they were                    |
 | 32:07      | facing a challenge.                                                                                  |
 | 32:09      | They were trying to provide their customers with the level of automation that they had               |
-| 32:15      | been doing with AppleScript, but they wanted it uniformly on all of their devices.                  |
+| 32:15      | been doing with [[AppleScript]], but they wanted it uniformly on all of their devices.                  |
 | 32:22      | And could I assist with that?                                                                        |
 | 32:24      | Could I advise them and point out directions they should take or just help them with certain         |
 | 32:32      | aspects of brown automation?                                                                         |
@@ -575,8 +575,8 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 33:00      | optimised language that they could use.                                                              |
 | 33:04      | And so Omni Automation is [[JavaScript]].                                                                |
 | 33:08      | And what they did is they exposed the object model of their applications kind of like they           |
-| 33:15      | did with AppleScript.                                                                               |
-| 33:16      | You know, in AppleScript, you can script a task or a project, right?                                |
+| 33:15      | did with [[AppleScript]].                                                                               |
+| 33:16      | You know, in [[AppleScript]], you can script a task or a project, right?                                |
 | 33:25      | And it has properties and each one of those properties is available to the script.                   |
 | 33:30      | Well, they did that same thing with [[JavaScript]].                                                      |
 | 33:33      | And so the first thing that we talked about was, well, how do we communicate that script             |
@@ -1032,7 +1032,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:05:44   | the Mac or the iPhone, it's just a pain in the neck.                                                 |
 | 01:05:47   | I mean, there's no, and I've talked to the Omni group about it, but there's just not                 |
 | 01:05:51   | really an easy way to automatically or easily say push this forward two or three days.               |
-| 01:05:57   | I wrote some custom AppleScripts for it a few years ago and I mapped those to stream                |
+| 01:05:57   | I wrote some custom [[AppleScript\|AppleScripts]] for it a few years ago and I mapped those to stream                |
 | 01:06:01   | dick buttons.                                                                                        |
 | 01:06:02   | But I find now that I've got voice control, I use the arrow keys.                                    |
 | 01:06:06   | I just go in that perspective, select an item, I'll say, you know, add two days to defer             |
@@ -1423,7 +1423,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:29:17   | I think it's definitely moving that way.                                                             |
 | 01:29:20   | And we can only benefit from this as it starts expanding and more apps contribute to the automation  |
 | 01:29:27   | environment.                                                                                         |
-| 01:29:28   | Yeah, I feel like developers didn't have faith that their users would learn AppleScript             |
+| 01:29:28   | Yeah, I feel like developers didn't have faith that their users would learn [[AppleScript]]             |
 | 01:29:32   | so they didn't bother.                                                                               |
 | 01:29:35   | But they know that people are using shortcuts.                                                       |
 | 01:29:38   | And I think users are demanding it now.                                                              |
@@ -1438,7 +1438,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:30:13   | I'm super happy to see it coming around and like you, man, I just want to see more app               |
 | 01:30:17   | developers jump in.                                                                                  |
 | 01:30:20   | But yeah, the other piece of that is it's making the other automation apps like Keyboard             |
-| 01:30:25   | Maestro and [[Hazel]] and even like going to AppleScript and [[JavaScript]], it's like it's                 |
+| 01:30:25   | Maestro and [[Hazel]] and even like going to [[AppleScript]] and [[JavaScript]], it's like it's                 |
 | 01:30:32   | pulling all this stuff together where now we can just pick and choose what tool we want              |
 | 01:30:37   | and combine it all into one thing.                                                                   |
 | 01:30:40   | Right.                                                                                               |

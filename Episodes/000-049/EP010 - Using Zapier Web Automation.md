@@ -424,10 +424,10 @@ Today we venture into the brave new world of web automation, and we start with g
 | 14:38      | I can include the tab key.                                                                                     |
 | 14:40      | So I can run the snippet in the subject line of the email.                                                     |
 | 14:43      | It fills in a subject line, then it tabs down to the body.                                                     |
-| 14:46      | And I can embed an AppleScript in there,                                                                      |
+| 14:46      | And I can embed an [[AppleScript]] in there,                                                                      |
 | 14:48      | so it gets the person's name from the email                                                                    |
 | 14:51      | and puts it, it says hi, and then insert name Rose, right?                                                     |
-| 14:55      | Because it gets it from the thing I'm running an AppleScript.                                                 |
+| 14:55      | Because it gets it from the thing I'm running an [[AppleScript]].                                                 |
 | 14:58      | And I can insert data, and I can copy things                                                                   |
 | 15:01      | from the clipboard, and it'll drop into the email.                                                             |
 | 15:04      | It's just like way more powerful than anything                                                                 |

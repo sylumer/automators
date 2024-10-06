@@ -375,7 +375,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 25:14      | So I don't do that. I just have anything that's scheduled for things like that I have in        |
 | 25:20      | [[Keyboard Maestro]] with a trigger for the right time. And that just deals with it for me.                 |
 | 25:26      | Well, the advantage of putting it on a calendar event and the way it does is you open a file,           |
-| 25:30      | they got rid of the run AppleScript command that they used to have years ago, which I wish they had.     |
+| 25:30      | they got rid of the run [[AppleScript]] command that they used to have years ago, which I wish they had.     |
 | 25:34      | But I believe you can save a script file or an actual, an app out of automator. But how long            |
 | 25:41      | is automator going to be around? Well, you can save a shortcut to your doc and then it gets             |
 | 25:45      | put in your users applications folder. And then that shortcut is just like a mini application           |
@@ -576,7 +576,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 45:20      | And now it's easy because all of those decisions have been made and the                                 |
 | 45:25      | pieces put in place for it. But before that, it was not easy.                                           |
 | 45:28      | Well, I do think it's interesting to think of automation beyond the normal tools. We talk               |
-| 45:34      | about things like AppleScript and [[Keyboard Maestro]], yada, yada, yada. But there are a lot              |
+| 45:34      | about things like [[AppleScript]] and [[Keyboard Maestro]], yada, yada, yada. But there are a lot              |
 | 45:40      | of pro level tools that do have their own automation built in. I'm not real familiar with               |
 | 45:46      | Farad. I do most of my audio stuff in Logic. But this is news to me. I didn't realise some              |
 | 45:52      | of these tools were already built for you. And whether you do it with a fancy script or the             |
@@ -762,8 +762,8 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:02:58   | done here and repurpose it for any of those applications. DEVONthink has really well                    |
 | 01:03:04   | documented [[URL Schemes\|URL scheme]] support. [[Obsidian]] has [[URL Schemes\|URL scheme]] support, though you might want one of the        |
 | 01:03:10   | extra plugins for that to improve it. And, you know, I'm sure for a lot of applications that            |
-| 01:03:17   | people are using, it'll either have [[URL Schemes\|URL scheme]] support or shortcut support or AppleScript              |
-| 01:03:22   | support or something. And yeah, you can run an AppleScript, you know, quite easily through a           |
+| 01:03:17   | people are using, it'll either have [[URL Schemes\|URL scheme]] support or shortcut support or [[AppleScript]]              |
+| 01:03:22   | support or something. And yeah, you can run an [[AppleScript]], you know, quite easily through a           |
 | 01:03:29   | [[URL Schemes\|URL scheme]], you know, either wrap it in a shortcut or something. So, you know, I think that this,       |
 | 01:03:36   | you know, creating an interactive dashboard for your day automatically, which, you know,                |
 | 01:03:43   | shows you what you need. But it's also not automatically updating necessarily, because                  |

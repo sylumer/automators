@@ -553,7 +553,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 46:11      | that, you know, for text, I'm running down just a simple way use it. You can also have fill-in          |
 | 46:16      | snippets where it prompts you to write in the name. You know, the most obvious examples,                |
 | 46:21      | when you're sending an email, you can have it fill in the name of the person you're sending the email   |
-| 46:25      | to. But you could also use AppleScripts with TextExpander. So I've got an [[AppleScript]] that            |
+| 46:25      | to. But you could also use [[AppleScript\|AppleScripts]] with TextExpander. So I've got an [[AppleScript]] that            |
 | 46:29      | automatically generates that name. But I still use the fill-in as well for different things. And        |
 | 46:34      | you can, one thing an automator can do is you can repeat that field. So if you have the same            |
 | 46:39      | text snippet two or three different places, you can just repeat it in TextExpander. You don't           |

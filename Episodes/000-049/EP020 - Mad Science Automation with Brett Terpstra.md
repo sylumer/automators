@@ -278,8 +278,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 11:11      | So I broke the DIY principles, do not repeat yourself.                                                |
 | 11:16      | And I wrote an app in [[AppleScript]] called Moodblast that would take one status update                 |
 | 11:23      | and send it to 12 different services.                                                                 |
-| 11:25      | Now, had you had any experience with AppleScript at that point?                                      |
-| 11:28      | No, that was my learning AppleScript.                                                                |
+| 11:25      | Now, had you had any experience with [[AppleScript]] at that point?                                      |
+| 11:28      | No, that was my learning [[AppleScript]].                                                                |
 | 11:32      | Yeah.                                                                                                 |
 | 11:33      | That's not a small project to start with.                                                             |
 | 11:35      | No.                                                                                                   |
@@ -287,7 +287,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 11:39      | Yeah, if that works, right?                                                                           |
 | 11:41      | So that's what counts.                                                                                |
 | 11:42      | Well, you almost had to to make HTTP post requests with various headers.                              |
-| 11:51      | And that morphed into an Objective C bridged AppleScript application so I could put an               |
+| 11:51      | And that morphed into an Objective C bridged [[AppleScript]] application so I could put an               |
 | 11:57      | interface on it and that was my first like real success in the world.                                 |
 | 12:01      | My blog went from 10 hit today to a thousand hit today as I built up that audience for                |
 | 12:08      | this stuff I was I was making.                                                                        |
@@ -297,21 +297,21 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 12:17      | I'm a sucker for likes.                                                                               |
 | 12:20      | So when I got positive feedback in comments and and then moving on to writing for two                 |
 | 12:26      | and everything, it just constantly drove me to not only automate, which I would do anyway,            |
-| 12:34      | but to automate in ways that I could share and to learn things like AppleScript that                 |
+| 12:34      | but to automate in ways that I could share and to learn things like [[AppleScript]] that                 |
 | 12:40      | more people could easily grasp.                                                                       |
-| 12:42      | People write me often say, well, I want to learn AppleScript.                                        |
+| 12:42      | People write me often say, well, I want to learn [[AppleScript]].                                        |
 | 12:45      | What do I do?                                                                                         |
 | 12:46      | And, you know, I usually say, well, buy salsa going in his book because the guy is he's               |
 | 12:50      | the guy.                                                                                              |
 | 12:51      | But I think the real answer to that question is find a problem that you can solve with                |
-| 12:55      | AppleScript and then make an AppleScript to solve the problem because learning that                 |
+| 12:55      | [[AppleScript]] and then make an [[AppleScript]] to solve the problem because learning that                 |
 | 13:00      | stuff in the abstract doesn't it just doesn't gel at least for me.                                    |
 | 13:04      | I have to try and be fixing something in order for me to really get it.                               |
 | 13:08      | Yeah.                                                                                                 |
 | 13:09      | Well, I need a problem to solve.                                                                      |
 | 13:11      | And then it's easy for me to keep searching and digging until I find the way to solve                 |
 | 13:15      | it and in the process, picking up all the tools that of course, there are some things                 |
-| 13:19      | that you can't solve with AppleScript, which is something of a danger.                               |
+| 13:19      | that you can't solve with [[AppleScript]], which is something of a danger.                               |
 | 13:22      | I was there the other day trying to figure out how to turn a CSV, which was not a CSV                 |
 | 13:28      | but a semicolon separated file into a particular format of XML with shortcuts.                        |
 | 13:35      | And after a good half an hour, I decided, you know what, I'm just going to use Python.                |
@@ -321,8 +321,8 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 13:45      | in every language.                                                                                    |
 | 13:46      | And sometimes you do make it a little bit more difficult for yourself to do it in other               |
 | 13:50      | languages or not on impossible.                                                                       |
-| 13:52      | But that said, AppleScript, because it does do Apple events is extremely powerful.                   |
-| 13:57      | So there are less things that AppleScript can't do compared to something like shortcuts.             |
+| 13:52      | But that said, [[AppleScript]], because it does do Apple events is extremely powerful.                   |
+| 13:57      | So there are less things that [[AppleScript]] can't do compared to something like shortcuts.             |
 | 14:03      | Powerful yet frustrating in its inconsistency.                                                        |
 | 14:07      | At least there's no [[JavaScript]] automation on macOS.                                                   |
 | 14:10      | I went to the conference that [[Sal Soghoian]] go and put on, I forget what it was called.                       |
@@ -332,14 +332,14 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 14:19      | Last minute edition.                                                                                  |
 | 14:24      | But his major focus was on [[JavaScript]] for automation and especially on Omni's new kind                |
 | 14:33      | of interface language that they had created.                                                          |
-| 14:36      | And it was impressive yet also when you apply the inconsistency of AppleScript to the less           |
+| 14:36      | And it was impressive yet also when you apply the inconsistency of [[AppleScript]] to the less           |
 | 14:48      | natural language of [[JavaScript]], it can take me twice as long to write something in [[JXA]]                |
-| 14:57      | as it can to write it in AppleScript.                                                                |
+| 14:57      | as it can to write it in [[AppleScript]].                                                                |
 | 15:00      | Yeah.                                                                                                 |
 | 15:01      | It depends.                                                                                           |
-| 15:02      | Because the [[JavaScript]] built into macOS is supposed to be the replacement for AppleScript.           |
+| 15:02      | Because the [[JavaScript]] built into macOS is supposed to be the replacement for [[AppleScript]].           |
 | 15:06      | That is extremely weird in some cases.                                                                |
-| 15:08      | And in some cases, the [[JavaScript]] doesn't do what the equivalent AppleScript command                 |
+| 15:08      | And in some cases, the [[JavaScript]] doesn't do what the equivalent [[AppleScript]] command                 |
 | 15:11      | does because it's missing a trigger or something to talk to something else.                           |
 | 15:15      | To get the contents of a web page using just [[JavaScript]], you have to use Objective C bridging         |
 | 15:24      | and use those very verbose get contents of URL with encoding type methods.                            |
@@ -350,13 +350,13 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 15:38      | So the [[JavaScript]] that we're talking about is that the variant that the Omni group is                 |
 | 15:42      | made that allows you to automate their applications.                                                  |
 | 15:46      | And the advantage of it is that it works across platforms.                                            |
-| 15:49      | So where AppleScript only allows you to create something for the Mac, this [[JXA]] allows you            |
+| 15:49      | So where [[AppleScript]] only allows you to create something for the Mac, this [[JXA]] allows you            |
 | 15:55      | to create something for both the iOS and the Mac.                                                     |
 | 15:59      | So if you're working on both platforms, it's very helpful.                                            |
 | 16:02      | I think the really underlying problem is that doesn't need to come from Omni, it needs to             |
 | 16:06      | come from [[Apple]].                                                                                      |
 | 16:07      | And, and I don't know if we ever will see something.                                                  |
-| 16:11      | I don't know if [[Apple]] cares enough to develop something like AppleScript across both platforms.      |
+| 16:11      | I don't know if [[Apple]] cares enough to develop something like [[AppleScript]] across both platforms.      |
 | 16:15      | Well, I hear they have this automation team working with the Siri people who are really,              |
 | 16:21      | you know, into this kind of thing.                                                                    |
 | 16:22      | So maybe, maybe the shortcuts guys will get their hands on this.                                      |
@@ -371,7 +371,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 16:58      | Yeah.                                                                                                 |
 | 16:59      | No shortcuts is amazing.                                                                              |
 | 17:00      | I also think though, the shortcuts is, you know, if we're looking at the stuff on a spectrum,         |
-| 17:04      | this is never going to run as deep as AppleScript and certainly not as deep as any sort              |
+| 17:04      | this is never going to run as deep as [[AppleScript]] and certainly not as deep as any sort              |
 | 17:10      | of shell scripting can do.                                                                            |
 | 17:12      | No, probably not.                                                                                     |
 | 17:14      | That's also part of like on a Mac with the idea of a desktop with multiple applications               |
@@ -1090,7 +1090,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 56:37      | Exactly.                                                                                              |
 | 56:38      | If you select text with the keyboard, PopClip doesn't activate.                                      |
 | 56:40      | So that's a pain.                                                                                     |
-| 56:42      | So you can add, I mine is a tip tap middle and you can have it run an AppleScript to                 |
+| 56:42      | So you can add, I mine is a tip tap middle and you can have it run an [[AppleScript]] to                 |
 | 56:48      | launch PopClip.                                                                                      |
 | 56:50      | So when I've selected text and for whatever reason the PopClip window hasn't come up,                |
 | 56:55      | I can just tip tap on my, uh, keypad or on my trackpad and bring up PopClip to way to                |

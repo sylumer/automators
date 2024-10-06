@@ -648,7 +648,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 23:42      | and I'm happy it exists                                               |
 | 23:43      | because it's allowing me to do some automations                       |
 | 23:45      | that were quite difficult before                                      |
-| 23:48      | without really digging deep on AppleScript.                          |
+| 23:48      | without really digging deep on [[AppleScript]].                          |
 | 23:50      | Yes.                                                                  |
 | 23:51      | But one of the things on the Mac that has come up                     |
 | 23:55      | and has kind of made the rounds is                                    |
@@ -937,7 +937,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 36:10      | but I suspect most people probably aren't using that.                 |
 | 36:12      | Yeah, that's another one I just don't find much use for.              |
 | 36:15      | If I'm going to run it through a script call,                         |
-| 36:17      | I'll just do it through AppleScript                                  |
+| 36:17      | I'll just do it through [[AppleScript]]                                  |
 | 36:19      | because I'm rarely in the terminal.                                   |
 | 36:22      | Yeah, it makes sense.                                                 |
 | 36:23      | There is more though.                                                 |
@@ -1106,12 +1106,12 @@ Rose and David have several automation topics on the table in this episode inclu
 | 43:38      | which I really appreciate.                                            |
 | 43:40      | Yeah, I haven't tried this yet,                                       |
 | 43:41      | but like one of my common [[Hazel]] plug-ins                              |
-| 43:44      | is I have an AppleScript that adds a task to OmniFocus               |
+| 43:44      | is I have an [[AppleScript]] that adds a task to OmniFocus               |
 | 43:47      | based on the type of document that I'm processing.                    |
 | 43:50      | Like if I get the water bill,                                         |
 | 43:53      | then it adds a task, pay water bill to OmniFocus                      |
-| 43:56      | using an AppleScript.                                                |
-| 43:56      | Well, AppleScript is kind of creaky.                                 |
+| 43:56      | using an [[AppleScript]].                                                |
+| 43:56      | Well, [[AppleScript]] is kind of creaky.                                 |
 | 43:59      | I'm assuming I could make a really simple shortcut                    |
 | 44:02      | that would add that OmniFocus task                                    |
 | 44:04      | and just run it out of [[Hazel]]                                          |
@@ -1323,7 +1323,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 53:01      | where with some apps, when I trigger an app,                          |
 | 53:05      | it jumps to their profile.                                            |
 | 53:07      | I find that useful for a couple things like for [[Apple Mail]]            |
-| 53:11      | because I've got a very complicated set of AppleScripts              |
+| 53:11      | because I've got a very complicated set of [[AppleScript\|AppleScripts]]              |
 | 53:14      | running to kind of add features to [[Apple Mail]].                        |
 | 53:17      | And I get a whole list of buttons                                     |
 | 53:19      | whenever I go to that page.                                           |

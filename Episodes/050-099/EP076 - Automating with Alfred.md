@@ -874,7 +874,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:13:54   | web searches, bookmarks, music control and clipboard snippets. And each of these gives you               |
 | 01:14:02   | a 16 button pane. So, you can also add, there's also workflows and blank pages. So, if you added         |
 | 01:14:09   | a blank page, you'd get a grid of 16 buttons. And those 16 buttons, you can program.                     |
-| 01:14:17   | Oh, wow, David, you can do anything you like. You can run an AppleScript command,                       |
+| 01:14:17   | Oh, wow, David, you can do anything you like. You can run an [[AppleScript]] command,                       |
 | 01:14:20   | terminal command, keyboard combination. You can trigger a specific [[Alfred]] workflow. We're going          |
 | 01:14:25   | to have to talk about those in a minute. You can open [[Alfred]] preferences. You can do                     |
 | 01:14:32   | anything you like. Open URLs, open files. You name it, David. It's here.                                 |

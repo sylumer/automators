@@ -89,11 +89,11 @@ Rose and David share some of their favourite recently created automations rangin
 | 02:38      | I don't know, but I just... I'm a little nervous. I don't want to be against you, whatever.          |
 | 02:43      | I'm a lover, not a fighter. But anyway, so we're going to be up there. And we're going               |
 | 02:47      | to be up there with a friend of ours, [[Sal Soghoian]] and his lovely wife, Naomi. And who                |
-| 02:54      | is... [[Sal Soghoian\|Sal]] is the guy. He's the one who was at [[Apple]] for all those years behind [AppleScript](https://AppleScript)                 |
-| 02:58      | and [Automator](https://Automator). And now he's outside the company doing other stuff. And we thought,            |
+| 02:54      | is... [[Sal Soghoian\|Sal]] is the guy. He's the one who was at [[Apple]] for all those years behind [[AppleScript]]  |
+| 02:58      | and [[Automator]]. And now he's outside the company doing other stuff. And we thought,            |
 | 03:03      | let's do something with Sal for this bonus episode. And let's do something fun. And                  |
 | 03:08      | so we decided a board game, but it had to be a board game that involved automation.                  |
-| 03:13      | So guys, we are going to play [Mousetrap]([Mouse Trap (board game) - Wikipedia](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game))) with [[Sal Soghoian]].                                            |
+| 03:13      | So guys, we are going to play [Mousetrap](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game)) with [[Sal Soghoian]].                                            |
 | 03:18      | Yeah. It's going to be so much fun. And just to make it even more fun, we're going to do             |
 | 03:23      | our best. No complete promises, but we're going to try to also do it as a video episode              |
 | 03:29      | so that you can watch me lose so terribly, because the only time I've ever played this               |
@@ -506,7 +506,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 37:48      | Usually a non-alcoholic one, just because adding any alcohol to a trip involving four                |
 | 37:53      | flights is a recipe for disaster. Yeah, I could see that. You can pretend that it's got alcohol      |
 | 37:59      | and a few onto. There. Yes. So whenever this file gets added to the folder, [[Hazel]] pops up and goes,  |
-| 38:07      | oh, I should run this AppleScript. And I've just put this in as an embedded AppleScript in the     |
+| 38:07      | oh, I should run this [[AppleScript]]. And I've just put this in as an embedded [[AppleScript]] in the     |
 | 38:11      | rule. And then it moves that file off to the trash. And then it's done. And this is great because    |
 | 38:16      | it means that I don't have the script running 24-7 in the background because most of the tasks I     |
 | 38:21      | add to OmniFocus, quite frankly, don't need this. But when I add those tasks with that formatting    |
@@ -589,7 +589,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 45:16      | else yet. I'm thinking I'm going to end up with a combination of server side rules and mail rules,   |
 | 45:21      | but I don't know. I really need to get a handle on this because there's just so much in my inbox     |
 | 45:25      | right now and it's crazy. Maybe we need to go back and do this show on that because I feel like      |
-| 45:30      | I've got that problem pretty solved between my same box subscription and a lot of AppleScripts I    |
+| 45:30      | I've got that problem pretty solved between my same box subscription and a lot of [[AppleScript\|AppleScripts]] I    |
 | 45:36      | use with [[Apple Mail]] on the Mac. I've talked about this on MPU, but I'm just getting where I don't    |
 | 45:42      | do hardly any email on my iPhone and the stuff that gets too complicated on my iPad, I just tag      |
 | 45:50      | an archive and then I just manage the tags on the Mac. I've got some ideas on that. We should        |
