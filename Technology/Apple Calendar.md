@@ -7,7 +7,7 @@ creator: Apple
 notetype: technology
 ---
 # Overview
-Calendar is [[Apple|Apple's]] stock application for management of event information. It runs on iPhone, iPad, Mac, and Apple Watch, and includes extensive support in Shortcuts. It provides a user-friendly interface for creating, editing, and viewing calendars to keep track of important dates and events.
+Calendar is [[Apple|Apple's]] stock application for management of event information. It runs on iPhone, iPad, Mac, and [[Apple Watch]], and includes extensive support in Shortcuts. It provides a user-friendly interface for creating, editing, and viewing calendars to keep track of important dates and events.
 
 # Operating Systems  
 - macOS

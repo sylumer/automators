@@ -771,7 +771,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 54:53      | because I've already got one in the front yard. Yeah, if you want to do that on your iPad or            |
 | 54:57      | even an iPhone, by the way, I'd recommend HomeCam. It's a great little utility application.             |
 | 55:02      | The same person also makes HomeRun, which allows you to more easily do [[HomeKit]] control from your        |
-| 55:07      | Apple Watch and HomePass to store all of the QR codes for setting up your devices.                      |
+| 55:07      | [[Apple Watch]] and HomePass to store all of the QR codes for setting up your devices.                      |
 | 55:12      | But one other thing you're missing out on by not having a [[HomeKit]] compatible doorbell                   |
 | 55:17      | is chimes on HomePods, because I have a ring doorbell, it's actually the peep hole one,                |
 | 55:23      | because I couldn't install something on the outside of my front door, I live in an apartment,           |
@@ -1029,10 +1029,10 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 01:16:16   | as soon as there's an earthquake, everybody's checking in. And I have a shortcut that sends             |
 | 01:16:22   | out a text message and gives my location and says I'm okay. And just like gets it out because you       |
 | 01:16:28   | have like 30 to 60 seconds before the cell towers break down, you know.                                 |
-| 01:16:33   | Is that one you've made available to your Apple Watch, David? Because that seems to me to be a          |
-| 01:16:36   | prime candidate for the Apple Watch because not most shortcuts are useless on the Apple Watch.          |
+| 01:16:33   | Is that one you've made available to your [[Apple Watch]], David? Because that seems to me to be a          |
+| 01:16:36   | prime candidate for the [[Apple Watch]] because not most shortcuts are useless on the [[Apple Watch]].          |
 | 01:16:41   | They don't necessarily have the way to input things in the way that we need. But that's                 |
-| 01:16:45   | a perfect candidate. Yeah, that's a good one. I should put that one on my Apple Watch. But you          |
+| 01:16:45   | a perfect candidate. Yeah, that's a good one. I should put that one on my [[Apple Watch]]. But you          |
 | 01:16:49   | know, it's, it's a, you know, it is funny though, how automation can actually be very useful for        |
 | 01:16:55   | those types of emergencies, if you think of it ahead of time. The only other one I was going to         |
 | 01:16:59   | mention, it's a shortcut that I use all the time is I have a very simple shortcut for logging meals     |

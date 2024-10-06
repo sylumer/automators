@@ -168,7 +168,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 09:40      | because I'm pretty certain that [[Apple]] doesn't have somebody just watching my anonymised                  |
 | 09:45      | iPhone usage and going, right, okay, that's what she's doing. We're going to add that                    |
 | 09:48      | feature for everyone. But they've killed, David, they've killed my need to use the set                   |
-| 09:53      | Apple watch face action and the set background action because they've built it into focus                |
+| 09:53      | [[Apple Watch]] face action and the set background action because they've built it into focus                |
 | 09:58      | modes, which I'm so excited about because this is very clearly in a case of [[Apple]] listening              |
 | 10:06      | to user requests and what people are doing and going, well, why don't we just build that                 |
 | 10:10      | in? Clearly people want this. Let's just put it everywhere for them.                                     |
@@ -189,7 +189,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 11:28      | lock screen widgets, David, because I think that they are going to solve a lot of problems               |
 | 11:33      | for people with regards to having easy access to contextual data at the right time, especially           |
 | 11:40      | when combined with the fact that you can set your lock screen for your focus mode too.                   |
-| 11:45      | So you've got your lock screen, your home screen, and your Apple watch face. So you                      |
+| 11:45      | So you've got your lock screen, your home screen, and your [[Apple Watch]] face. So you                      |
 | 11:50      | can have that data right there. And the today screen, like that widget view to the left                  |
 | 11:56      | of the home screen, it's not gone yet. But I'm wondering if that's going to disappear                    |
 | 11:59      | kind of soon now that we've got lock screen widgets.                                                     |
@@ -212,15 +212,15 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 13:25      | turn off. So if you've got a widget on your screen and you set your phone down next to                   |
 | 13:30      | your computer, you can look down at any time and see your next event or your time or whatever            |
 | 13:35      | it is that you want to see.                                                                              |
-| 13:36      | Yeah, I really hope if they do do that, that like, just like the Apple Watch has got a                   |
+| 13:36      | Yeah, I really hope if they do do that, that like, just like the [[Apple Watch]] has got a                   |
 | 13:41      | nightstand mode that they implement the same kind of thing on your iPhone. Because I don't               |
 | 13:48      | know about you and all the folks listening at home, but I have quite a few of those sort                 |
 | 13:53      | of like upright chargers. I've got an Anker, a mega go magnetic charging stand. And I've                |
 | 13:58      | got by my bed, [[Apple]] Frequently Partner with the Belkin. I've got the trio. So on the left,              |
-| 14:05      | it's got the [[MagSafe]] pad on the right. It's got the Apple Watch pad on the base. You                     |
+| 14:05      | it's got the [[MagSafe]] pad on the right. It's got the [[Apple Watch]] pad on the base. You                     |
 | 14:08      | can sort of drop your AirPods for charging. I have that by my bed. If my iPhone is stood                 |
 | 14:14      | upright and it's glowing all night, that is going to really annoy me. But I'm sure Lola                  |
-| 14:18      | thought about this and just like the Apple Watch, you know, while it's in sleep mode,                    |
+| 14:18      | thought about this and just like the [[Apple Watch]], you know, while it's in sleep mode,                    |
 | 14:23      | it will then, you know, not show your watch face or not show your iPhone home screen.                    |
 | 14:31      | It'll just be, you know, black until you sort of tap it or something, which, you know, I                 |
 | 14:36      | think would work quite well. Or maybe it'll be like the Samsung frame TV and use ambient                 |
@@ -254,7 +254,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 16:57      | moment is the Anker 533 magnetic wireless charger three in one stand, which is 59.99.                   |
 | 17:04      | But don't forget Anker stuff always goes on sale. Um, and it's got a Mac, it's sort                     |
 | 17:09      | of a [[MagSafe]] charger for your iPhone or [[MagSafe]] like, um, and, uh, the AirPods charger in                |
-| 17:15      | the base and a space for your Apple Watch charger. You'll have to provide your own cable,                |
+| 17:15      | the base and a space for your [[Apple Watch]] charger. You'll have to provide your own cable,                |
 | 17:19      | but it looks pretty similar. So I'll make sure that we pop a link to that into our show                  |
 | 17:23      | notes for folks.                                                                                         |
 | 17:24      | I like the 12 South one too. Just looking here as we talk, they've got one where it                      |
@@ -262,7 +262,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 17:37      | it or you even turn it.                                                                                  |
 | 17:38      | Oh, the high rise one. Um, is that it is called a 12 South 40 for iPhone.                                |
 | 17:46      | Oh, nice. I'll get a link to that in show notes because I like their high rise. That's                   |
-| 17:52      | also a three in one charging stand. Um, it's got like the, you pop the Apple Watch on the                |
+| 17:52      | also a three in one charging stand. Um, it's got like the, you pop the [[Apple Watch]] on the                |
 | 17:57      | back of it. Um, there's the AirPods charger in the base and then your phone magnetises                   |
 | 18:01      | to the front.                                                                                            |
 | 18:02      | Oh man, that's nice too. But that one's a little expensive, but yeah, it is, but it's                    |
@@ -271,7 +271,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 18:15      | Okay.                                                                                                    |
 | 18:16      | What are we doing here guys? I, well, that's going to cost me a little bit.                              |
 | 18:20      | Enabling David, that's what we're doing. Yeah, clearly, clearly. I like the fact that the                |
-| 18:24      | Forte has a separate Apple Watch charger as a side note. Um, but yeah, I'll put links                    |
+| 18:24      | Forte has a separate [[Apple Watch]] charger as a side note. Um, but yeah, I'll put links                    |
 | 18:28      | to the studio neat, um, stuff and, uh, the 12 South options in our show notes for everyone               |
 | 18:34      | so that they can go and have a look. The only thing I don't like about Anker is how quickly             |
 | 18:38      | they changed their product lineup. It feels like I did not get this charger that long                    |

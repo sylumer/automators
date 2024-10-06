@@ -304,7 +304,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 16:41      | would not go amiss.                                                                                   |
 | 16:42      | At the moment, we have triggers for shortcuts on iPhone, we've got triggers for shortcuts             |
 | 16:47      | on iPad.                                                                                              |
-| 16:48      | We don't have them on the Apple Watch and we don't have them on the Mac.                              |
+| 16:48      | We don't have them on the [[Apple Watch]] and we don't have them on the Mac.                              |
 | 16:51      | We also don't have them on [[Apple TV]], but that's a little different.                                   |
 | 16:53      | I feel like [[Apple TV]] maybe could potentially trigger a focus mode if you're playing something,        |
 | 16:58      | but that's a problem for another time, but right now, shortcuts on Mac, no automation                 |
@@ -774,7 +774,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 47:29      | I think I've been noodling on about this for about nine months.                                       |
 | 47:33      | I want shortcuts on my CarPlay home screen.                                                           |
 | 47:37      | Now this would have to be a very limited subset of actions, just like the ones that you put           |
-| 47:42      | on the Apple Watch.                                                                                   |
+| 47:42      | on the [[Apple Watch]].                                                                                   |
 | 47:44      | But imagine if on the home screen of my CarPlay, I had a series of shortcuts, or maybe there          |
 | 47:50      | was just a shortcut button which listed a limited number of shortcuts, it could just                  |
 | 47:55      | do like another grid, just like the CarPlay home screen.                                              |
@@ -1096,7 +1096,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 01:08:31   | I'll buy a new Mac Studio.                                                                            |
 | 01:08:32   | I'll buy a new iPad Pro.                                                                              |
 | 01:08:34   | I'll buy a new iPhone.                                                                                |
-| 01:08:35   | I'll buy a new Apple Watch Ultra.                                                                     |
+| 01:08:35   | I'll buy a new [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]].                                                                     |
 | 01:08:36   | If you give me a Purple button on it, please.                                                         |
 | 01:08:38   | Like the Purple is gorgeous.                                                                          |
 | 01:08:40   | I love it.                                                                                            |

@@ -848,7 +848,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 46:40      | It's not necessarily at the top of my like, Hey, these are the things I need to do within                 |
 | 46:44      | the first week of moving in.                                                                              |
 | 46:46      | But it's on my list of things I want to look into because yeah, especially one with the                   |
-| 46:52      | the home key, the one where you could just use like your Apple watch to unlock the door.                  |
+| 46:52      | the home key, the one where you could just use like your [[Apple Watch]] to unlock the door.                  |
 | 46:55      | That would be very, very convenient.                                                                      |
 | 46:58      | Yeah.                                                                                                     |
 | 46:59      | Yeah.                                                                                                     |
@@ -1751,7 +1751,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:36:51   | So you can just have a touch ID button on your desk, which for me is great because when                   |
 | 01:36:55   | I walk into a room, like I can, I could use touch ID to, to wake up my Mac and also authenticate          |
 | 01:37:00   | like passwords and stuff on the Mac.                                                                      |
-| 01:37:02   | Um, if you're, if you're Apple watches in sleep mode, you can't use it to, um, like                       |
+| 01:37:02   | Um, if you're, if you're [[Apple Watch\|Apple Watches]] in sleep mode, you can't use it to, um, like                       |
 | 01:37:06   | unlock things and similar on, on Mac OS.                                                                  |
 | 01:37:09   | Um, and so when I, when I walk in, it's like being able to touch ID, hit a couple of stream               |
 | 01:37:13   | depth buttons to get things set up the way I want.                                                        |

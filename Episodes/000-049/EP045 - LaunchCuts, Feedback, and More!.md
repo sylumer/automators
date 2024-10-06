@@ -429,7 +429,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 33:16      | even if the default was to have the security turned on. For those of us that want to be big boys and   |
 | 33:23      | girls and take the risk, why not let us throw the switch? Because the idea of automation is it         |
 | 33:29      | happens in your pocket. The notification in your pocket isn't good enough.                             |
-| 33:34      | Yeah. And especially, we can't run these things on our Apple Watches in many cases either,             |
+| 33:34      | Yeah. And especially, we can't run these things on our [[Apple Watch\|Apple Watches]] in many cases either,             |
 | 33:41      | which means even if you do have a computer on your wrist, thinking back all those years ago,           |
 | 33:48      | one day the computers will be on your wrist. Well, they are, but we still can't quite get              |
 | 33:53      | everything that we want running from there, unfortunately.                                             |

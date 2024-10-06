@@ -461,7 +461,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 30:32      | Yes, please.                                                                                             |
 | 30:33      | After you Googled it anyway, because I told you not to. But yeah, so try and pick something              |
 | 30:37      | sort of neutral.                                                                                         |
-| 30:38      | Yeah, I just used the Apple Watch, the Apple Watch one, because I get up pretty early and                |
+| 30:38      | Yeah, I just used the [[Apple Watch]], the [[Apple Watch]] one, because I get up pretty early and                |
 | 30:42      | I don't want to wake my wife up, and it just vibrates on my wrist.                                       |
 | 30:45      | Yeah, I often use that, but apparently the way I sleep, I sort of smash my wrist into                    |
 | 30:49      | the mattress and it does wake up my boyfriend because it vibrates the mattress enough. Who               |
@@ -763,7 +763,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 53:22      | Yeah, it is. But, you know, there's a lot you can do with this stuff. And                                |
 | 53:26      | Oh, so much. And in addition to the automation, the manual control is also very useful.                  |
 | 53:33      | I think the more people you have in your house, the more you rely on the manual control.                 |
-| 53:37      | Potentially, yes. I find a lot of the time I pull out my phone or my Apple watch and I                   |
+| 53:37      | Potentially, yes. I find a lot of the time I pull out my phone or my [[Apple Watch]] and I                   |
 | 53:42      | trigger a scene manually. Just because, you know, I've decided that we're going to sit                   |
 | 53:46      | down and watch film or something. And the [[Logitech Harmony\|Logitech Harmony Hub]] is great, but it can't                    |
 | 53:51      | differentiate between us watching TV and us watching a film.                                             |
@@ -950,7 +950,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:09:37   | And Home Run is the one with the complications changing that I use on my watch.                          |
 | 01:09:41   | And Home Dash is the one that I've been playing with. But right now, I'm kind of focused on the          |
 | 01:09:46   | [[Apple]] app because betas, right? Yes, exactly. But at the same time, I have to say I've not               |
-| 01:09:52   | had any problems with any of this stuff on the iOS 13 beta. I will grant you my Apple Watch and my       |
+| 01:09:52   | had any problems with any of this stuff on the iOS 13 beta. I will grant you my [[Apple Watch]] and my       |
 | 01:09:57   | iPhone are actually not on the on the betas right now, because I'm waiting for the public                |
 | 01:10:03   | betas on those because always first developer beta is a little wonky. But                                |
 | 01:10:08   | Yeah, I guess one point we didn't make about the iOS 13 beta is the controls are better.                 |

@@ -550,7 +550,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 38:49      | Hooray for more buttons. Hooray.                                                                     |
 | 38:51      | Yes. But speaking of iOS 17, I actually wanted to talk to you, Joe, about the new watch              |
 | 38:56      | OS. Because I noticed day one, I was that crazy lady. I installed the watch beta on                  |
-| 39:02      | my Apple Watch Ultra. I did have a minor issue when I had to do install the update that came         |
+| 39:02      | my [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]]. I did have a minor issue when I had to do install the update that came         |
 | 39:08      | out in that it didn't. And it kind of just stuck in a boot loop for a while. And then                |
 | 39:13      | I first restarted it like three times and then it was fine. But I am suspiciously checking           |
 | 39:18      | my watch every like five minutes still. But I noticed day zero, what apps we're showing              |
@@ -653,7 +653,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 48:22      | bunch of things at the same time. And so often Timery for me, even though it's a single action,      |
 | 48:28      | is a key part of that.                                                                               |
 | 48:30      | I have to agree. I've got a lot of seemingly very simple things set up. So for example,              |
-| 48:37      | one of them is whenever I start an Apple Watch workout, I start my time tracker for exercise.        |
+| 48:37      | one of them is whenever I start an [[Apple Watch]] workout, I start my time tracker for exercise.        |
 | 48:44      | And it goes into my calendar and figures out based on the calendar events that are going             |
 | 48:48      | on, what kind of exercise I'm doing and so on. So that it can log that appropriately                 |
 | 48:54      | in the time tracker. But that's one of the things I do. And then of course, when the                 |
@@ -783,7 +783,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:00:32   | well, I guess I was 14 when they came out. So I've been having a lot of fun with both with just      |
 | 01:00:39   | playing around with them and then imagining how to turn the existing widgets into more interactive   |
 | 01:00:46   | widgets. It's been a lot of fun. Nice. Because there are widgets everywhere on the home screen       |
-| 01:00:52   | and the iPad lock screen on Mac desktop on Apple Watch now too. It's a great year of widgets.        |
+| 01:00:52   | and the iPad lock screen on Mac desktop on [[Apple Watch]] now too. It's a great year of widgets.        |
 | 01:01:01   | I was just thinking it's really nice that WidgetKit has become the framework for this. So            |
 | 01:01:07   | complications on the watch and so on. And it all links together because I think that's where,        |
 | 01:01:13   | especially, you're one person making this app. And it's a great app, but you've got it on Mac,       |
@@ -801,7 +801,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:02:29   | really helpful. And like you said, especially for just a single person doing all of the platforms,   |
 | 01:02:36   | that's very appreciative. So thank you all the teams at [[Apple]] for making that happen.                |
 | 01:02:40   | One last year when we got the iPhone lock screen widgets, those same views to make the               |
-| 01:02:55   | lock screen widgets were the same for the Apple Watch complications. So those enable                 |
+| 01:02:55   | lock screen widgets were the same for the [[Apple Watch]] complications. So those enable                 |
 | 01:03:02   | sharing code in views between the two things. So you make one and it works on the other one too.     |
 | 01:03:09   | I mean, it's not just that simple, of course, but it makes things a lot easier. Very thankful for    |
 | 01:03:16   | that. Yeah, that is good. It feels to me like this year we're starting to get the real payoff to     |

@@ -770,7 +770,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 59:15      | not as nerdy as you. Yeah. Are they able to get into [[HomeKit]] to see the rules? I mean,                   |
 | 59:20      | can you live with somebody else is I guess what I'm asking, like with [[HomeKit]]? Well,                     |
 | 59:24      | I guess the question is, why do they need to see the rules? Yeah. Because [[Home Assistant]],                |
-| 59:30      | everybody can have their own account, and it's got an iOS app, it's got an Apple Watch app.              |
+| 59:30      | everybody can have their own account, and it's got an iOS app, it's got an [[Apple Watch]] app.              |
 | 59:36      | And so they can log in. And if you share things with them, like the automations and so on,               |
 | 59:42      | you give them access to it, then they'll be able to see and edit all of those things.                    |
 | 59:46      | The same as you can share that access through [[HomeKit]]. But ideally, my aim for every setup is            |

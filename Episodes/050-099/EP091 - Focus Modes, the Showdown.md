@@ -179,7 +179,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 08:19      | So like before we started the show today, I set my podcast focus mode, I'm going to tell                |
 | 08:24      | you about that later in the show, but I'm sitting here looking at my Mac and I look                     |
 | 08:28      | in the upper corner and the podcast focus mode is turned on on my Mac.                                  |
-| 08:31      | So it, it just populates all the way down from the Apple watch to the biggest Mac Pro,                  |
+| 08:31      | So it, it just populates all the way down from the [[Apple Watch]] to the biggest Mac Pro,                  |
 | 08:37      | you're going to have a consistency of focus mode across your devices.                                   |
 | 08:41      | Yes.                                                                                                    |
 | 08:42      | And you don't have to enable that, but I definitely considered it a very good reason to upgrade.        |
@@ -559,9 +559,9 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 33:03      | you an icon of the current focus mode.                                                                  |
 | 33:06      | So anytime you look at your phone, you know what focus mode it's set in.                                |
 | 33:10      | So they obviously thought this through.                                                                 |
-| 33:13      | And it shows it as an icon on the top of your Apple Watch face as well, which is really                 |
+| 33:13      | And it shows it as an icon on the top of your [[Apple Watch]] face as well, which is really                 |
 | 33:18      | nice.                                                                                                   |
-| 33:19      | You know, you glance at your Apple Watch face, and right now I can see some headphones,                 |
+| 33:19      | You know, you glance at your [[Apple Watch]] face, and right now I can see some headphones,                 |
 | 33:23      | and that's because I'm in my podcasting mode.                                                           |
 | 33:26      | Me too.                                                                                                 |
 | 33:27      | Yeah, they didn't have a microphone.                                                                    |
@@ -907,8 +907,8 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 54:43      | I mean, one of the things I should say actually, David, is you've just made me realise, mentioning      |
 | 54:48      | your podcast modes, that of course I can trigger the focus mode from a shortcut.                        |
 | 54:55      | Now the problem is I trigger my podcasting focus mode from the Mac, so I can't change,                  |
-| 54:59      | for example, my Apple Watch face, but if I were triggering it from the iPhone, then I                   |
-| 55:03      | could change my Apple Watch face and then set the focus mode from there.                                |
+| 54:59      | for example, my [[Apple Watch]] face, but if I were triggering it from the iPhone, then I                   |
+| 55:03      | could change my [[Apple Watch]] face and then set the focus mode from there.                                |
 | 55:08      | So I might have to experiment with an ask before running option, or maybe I can just                    |
 | 55:13      | use the calendar.                                                                                       |
 | 55:14      | I can use the calendar to figure out what podcasts I'm recording and change my watch                    |
@@ -921,7 +921,7 @@ In this episode, David and Rosemary dive into Focus modes, how they use them, an
 | 55:30      | mention earlier, I also trigger a timer when I start podcasting the automator, so it's                  |
 | 55:35      | a special timer that gets thrown and stuff like that.                                                   |
 | 55:38      | One of the things I'm jealous of, because I haven't been able to get the automation                     |
-| 55:43      | to trigger based on me setting the focus mode is on the Apple Watch.                                    |
+| 55:43      | to trigger based on me setting the focus mode is on the [[Apple Watch]].                                    |
 | 55:47      | If you swipe up from the bottom, you can pick any one of your focus modes and trigger it                |
 | 55:52      | from your wrist, and I think that is really cool.                                                       |
 | 55:54      | And maybe that would be the thing that pushes me over the edge if I have a reliable automation          |

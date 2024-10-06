@@ -559,7 +559,7 @@ It's time for some automation feedback. Topics include task inbox processing, au
 | 32:41      | It's that area right above, it's kind of like behind the face ID sensor.                               |
 | 32:45      | If you have one of those, you know, in the middle at the top, you just have to hover                   |
 | 32:49      | your phone over it while unlocked.                                                                     |
-| 32:51      | But if you've got face ID and or an Apple Watch, then your phone is probably going to                  |
+| 32:51      | But if you've got face ID and or an [[Apple Watch]], then your phone is probably going to                  |
 | 32:55      | unlock when you pick it up.                                                                            |
 | 32:58      | And it recognises either your face or your watch is nearby.                                            |
 | 33:01      | And then you can just kind of hover it over that and then it will run it from there.                   |

@@ -1200,7 +1200,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 47:35      | and recently got an update with a fantastic new design.               |
 | 47:39      | With brand new HD video tutorials shot from multiple angles           |
 | 47:42      | to make sure that learning each exercise is a breeze.                 |
-| 47:46      | And it also integrates with your Apple Watch,                         |
+| 47:46      | And it also integrates with your [[Apple Watch]],                         |
 | 47:48      | Wear OS, SmartWatch and apps like Strava, Fitbit                      |
 | 47:51      | and [[Apple Health]].                                                     |
 | 47:53      | Personalised training of this quality can be expensive,               |

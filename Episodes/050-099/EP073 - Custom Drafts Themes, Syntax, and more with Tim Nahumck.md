@@ -1044,11 +1044,11 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:25:23   | It's been great.                                                                                     |
 | 01:25:24   | We had a couple of friends over for like the first time in a year, I think, you know, recently       |
 | 01:25:30   | and we were in the backyard and we wanted to take a group photo and I set the camera                 |
-| 01:25:34   | on a tripod and then use the Apple Watch camera app. This is kind of an automation. Maybe            |
-| 01:25:40   | you don't know, but if you've got an Apple Watch, it gives you a preview of what the                 |
+| 01:25:34   | on a tripod and then use the [[Apple Watch]] camera app. This is kind of an automation. Maybe            |
+| 01:25:40   | you don't know, but if you've got an [[Apple Watch]], it gives you a preview of what the                 |
 | 01:25:43   | phone sees and then you can press a button on the watch and it counts down three seconds             |
 | 01:25:47   | and takes a picture. And everybody was very impressed with me that I had that ability.               |
-| 01:25:54   | And it's something that everybody owns an Apple Watch and an iPhone can do.                          |
+| 01:25:54   | And it's something that everybody owns an [[Apple Watch]] and an iPhone can do.                          |
 | 01:25:57   | Yeah, I highly recommend that. I've used that several times just to make sure because it's           |
 | 01:26:03   | easier than setting something up on a timer with a countdown and then running to get into            |
 | 01:26:08   | position. You can actually be in position and make sure that you are in the shot because             |

@@ -787,7 +787,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:05:38   | say, our Anker? I think PowerWave? Yeah. And it showed up. It was the first result.                     |
 | 01:05:44   | You can get a 10,000 milliamp hour one delivered tomorrow for $49.99. Boy, they make it easy,            |
 | 01:05:51   | don't they? I see the little circle on the back. So you can just lay your phone on top of it if          |
-| 01:05:55   | you want. Nice. Does it charge your watch too? No, because it's only, so Apple watches are a bit         |
+| 01:05:55   | you want. Nice. Does it charge your watch too? No, because it's only, so [[Apple Watch\|Apple Watches]] are a bit         |
 | 01:06:03   | finicky to charge. So it doesn't charge that as well, unfortunately. But so, oh wait, it depends         |
 | 01:06:11   | on which one you're looking at. I will make sure that the link to the correct one is in the show         |
 | 01:06:14   | notes for everybody. It doesn't show up immediately when I search for it on [[Amazon]]. And I, of course,    |

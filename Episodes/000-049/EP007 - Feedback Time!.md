@@ -424,7 +424,7 @@ In this episode Rose and David dive into their very first feedback show. There's
 | 13:00      | and I really, really like it                                                             |
 | 13:02      | and I'm triggering a lot more things now with my voice                                   |
 | 13:05      | than I was previously between that                                                       |
-| 13:08      | and my series for Apple Watch.                                                           |
+| 13:08      | and my series for [[Apple Watch]].                                                           |
 | 13:10      | This month may have been a little expensive.                                             |
 | 13:13      | I did, did you get it already?                                                           |
 | 13:15      | Yeah, I got it on lunch day.                                                             |

@@ -730,11 +730,11 @@ Rose and David revisit their Action Buttons and share some of their automations.
 | 28:57      | with no work by me, zero work.                                  |
 | 29:00      | There's nothing else, I just do it and it's done.               |
 | 29:02      | And then you add the last piece of the puzzle                   |
-| 29:04      | is they've got a Apple Watch complication                       |
+| 29:04      | is they've got a [[Apple Watch]] complication                       |
 | 29:07      | and shortcut support for [[Whisper Memos]].                       |
 | 29:10      | So you can either add it as a complication,                     |
 | 29:12      | but in my case, I've added it to the action button              |
-| 29:15      | on the Apple Watch Ultra.                                       |
+| 29:15      | on the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]].                                       |
 | 29:16      | So now I just push the big orange button                        |
 | 29:20      | and I start talking.                                            |
 | 29:22      | And when I'm done, it's in my [[Drafts]] inbox.                     |

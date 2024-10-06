@@ -453,10 +453,10 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 36:56      | it's like hey it's 10 a.m now it's time to check your deliveries and like do your daily I don't                                  |
 | 37:02      | know finance checkup or something like that versus it just says running not running shortcut even                                |
 | 37:08      | specifically running automation even yeah yeah um the the new set watch face actions for short                                   |
-| 37:14      | for the Apple watch which are amazing because I don't know if you all know this that you can have                                |
+| 37:14      | for the [[Apple Watch]] which are amazing because I don't know if you all know this that you can have                                |
 | 37:19      | like 40 to 50 watch faces now um which of course I did and I have them all contextually set for                                  |
 | 37:26      | every one of those home screens if any of those apps were used it would change my watch face yeah                                |
-| 37:31      | first of all it just I'm pretty sure just broke my Apple watch a little bit because it was like                                  |
+| 37:31      | first of all it just I'm pretty sure just broke my [[Apple Watch]] a little bit because it was like                                  |
 | 37:35      | oh god like too much data trying to be passed but all those notifications just said opened one of 16                             |
 | 37:42      | apps running your automation and and like anytime I opened any app and ultimately it just became a                               |
 | 37:49      | burden instead of something that I could technically do and was fun but I don't want to see the orientation                      |
@@ -735,7 +735,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:05:33   | what I need although also like on some level being a solo person and needing some sort of                                        |
 | 01:05:40   | project management not task management thing is relevant and things still might fit into                                         |
 | 01:05:47   | a task manager for me because or it's still it's my favourite way to see tasks on my wrist still                                  |
-| 01:05:52   | I still love their Apple Watch app so I think it's it always does come down to a blend                                           |
+| 01:05:52   | I still love their [[Apple Watch]] app so I think it's it always does come down to a blend                                           |
 | 01:05:57   | and sometimes I mean between craft and [[Notion]] both of them I'd say I'm using because I could see                                 |
 | 01:06:05   | that they were working on stuff that would be relevant to me like because I mean craft was                                       |
 | 01:06:10   | also new and so I talked to them a lot in the betas being like if you want it to be something                                    |

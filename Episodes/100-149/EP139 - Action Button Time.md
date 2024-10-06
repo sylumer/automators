@@ -587,7 +587,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 36:47      | just turn it on like if I if I if I press this button just turn on this focus mode I'm              |
 | 36:51      | good I'm happy with that and then you can branch out of okay so I press my action button            |
 | 36:56      | and according to my phone I am in my fitness focus mode so I would like it to maybe play            |
-| 37:02      | a playlist for me or maybe start a workout for me or you know an Apple Watch workout                |
+| 37:02      | a playlist for me or maybe start a workout for me or you know an [[Apple Watch]] workout                |
 | 37:08      | to be clear or maybe it can then go okay so she press the action button you know the device         |
 | 37:14      | is unlocked and the focus mode is fitness she's not at home I'm going to start this                 |
 | 37:22      | workout she is at home I'm going to work I'm gonna start this workout and play this music           |
@@ -623,11 +623,11 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 39:50      | about all of them and just share one of them I caught myself before the break I was calling         |
 | 39:53      | it the shortcuts button and it's actually the action button but it we're running shortcuts          |
 | 39:59      | from it so yeah it's it to me it's the shortcuts button and that's what it will always be in        |
-| 40:04      | fact one quick side note here I have an Apple Watch Ultra that also has an action button            |
+| 40:04      | fact one quick side note here I have an [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] that also has an action button            |
 | 40:10      | I am not having nearly as much fun with the watch action button as I am with the phone              |
 | 40:15      | I mean when you have the full shortcuts the big screen it just gives you so many more               |
 | 40:20      | options than the watch action button does you know just there's no the if you're used               |
-| 40:27      | to using it on the Apple Watch Ultra like it's gonna be just like that no this is this              |
+| 40:27      | to using it on the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] like it's gonna be just like that no this is this              |
 | 40:30      | is better but anyway let me let me let's just go through and share what we're doing I'm             |
 | 40:37      | gonna go first Rose because I have a feeling yours is more complex than mine well my current        |
 | 40:42      | iteration of it is very very simple it's it's literally just you know giving me a menu with         |
@@ -774,8 +774,8 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 53:04      | my action button the first menu item that appears at the top is just titled go to bed               |
 | 53:10      | it's very simple because it's a reminder hey you're messing around on your phone you're             |
 | 53:16      | doing whatever go to bed and it's you know it's just an attempt to help me. I'd really              |
-| 53:21      | love it if it could say charge your watch because I switched from an Apple Watch Ultra              |
-| 53:25      | I've still got my Apple Watch Ultra but I switched down to a Series 9 because I wanted              |
+| 53:21      | love it if it could say charge your watch because I switched from an [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]]              |
+| 53:25      | I've still got my [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] but I switched down to a Series 9 because I wanted              |
 | 53:31      | to experiment with the tap actions where you tap your finger and thumb together which is            |
 | 53:36      | going to be coming in the next release of watch OS and oh my gosh has that been a learning          |
 | 53:42      | curve to remember that I have to charge my watch. It feels like I'm running out of charge           |
@@ -862,7 +862,7 @@ In this episode, David and Rosemary dive into the power of the action button on 
 | 01:01:03   | and then it appears. So you select it and then you add some actions back and then it                |
 | 01:01:06   | stops working. And it's really tricky to figure out what is going to work and what isn't            |
 | 01:01:12   | going to work there. So yeah, it's a shame that the action button on the Ultra isn't                |
-| 01:01:18   | more customisable. You can do things like Apple Watch workouts and stuff from there,                |
+| 01:01:18   | more customisable. You can do things like [[Apple Watch]] workouts and stuff from there,                |
 | 01:01:23   | which I really loved. But because it was so slow, I found myself just adding complications          |
 | 01:01:28   | to a watch face and tapping those instead.                                                          |
 | 01:01:31   | So I tried to make the Ultra button work. I wrote a shortcut for it. And because you                |

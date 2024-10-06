@@ -137,7 +137,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 06:01      | and then it triggers a [[Keyboard Maestro]] script.                                                          |
 | 06:05      | So not only can you trigger it with your [[Stream Deck]] or some keyboard shortcut, or you can               |
 | 06:10      | trigger it with a keyboard and attach and a keyboard and a [[MIDI]] note.                                    |
-| 06:14      | You can also trigger it with your phone or iPad or Apple Watch.                                          |
+| 06:14      | You can also trigger it with your phone or iPad or [[Apple Watch]].                                          |
 | 06:19      | And that is kind of awesome.                                                                             |
 | 06:21      | But people are already going the other direction now to where they're allowing [[Keyboard Maestro]]          |
 | 06:27      | to trigger shortcuts.                                                                                    |

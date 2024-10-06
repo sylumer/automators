@@ -363,7 +363,7 @@ Rose and David break down all the new automation options from [[Apple|Apple's]] 
 | 30:50      | home screen too. They are also going to be available inside of or on your action button.                 |
 | 30:54      | So if an app developer wants to create an action for the action button, it's not going to have to        |
 | 31:00      | be by going through [[Shortcuts]] anymore. And some folks will say that's that's [[Sherlocking]] [[Shortcuts]].     |
-| 31:06      | But, you know, we saw this happen with the Apple Watch controls and lock screens and home screens        |
+| 31:06      | But, you know, we saw this happen with the [[Apple Watch]] controls and lock screens and home screens        |
 | 31:13      | and backgrounds with focus modes. People did this manually using [[Shortcuts]]. And then [[Apple]] went,         |
 | 31:20      | that's a really good idea. We're going to pull that in and make that part of your focus mode.            |
 | 31:24      | They've seen that people are using a shortcut to run a particular action. And the app developers         |
@@ -447,7 +447,7 @@ Rose and David break down all the new automation options from [[Apple|Apple's]] 
 | 39:00      | modern home key stuff because the ones I have are older and they work with my existing locks, but        |
 | 39:07      | you know, every year, it gets a little more tempting to get the new fancy ones.                          |
 | 39:13      | Yeah, no, I know what you mean. Like home key is already pretty cool because you can use your            |
-| 39:20      | iPhone or an Apple Watch to unlock the door by just putting your device really close to it.              |
+| 39:20      | iPhone or an [[Apple Watch]] to unlock the door by just putting your device really close to it.              |
 | 39:26      | But you have had to authenticate with that. And now they're giving you the option to just keep it        |
 | 39:31      | in your pocket and not pick up your watch and try and use that to unlock your door. If you're            |
 | 39:39      | within six foot, you can unlock the door. And this is something that you have to turn on. So if          |

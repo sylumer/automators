@@ -225,7 +225,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 14:11      | actually do use [[Apple Reminders\|Reminders]] for some things because when I say hello, [[Apple]] lady, and                      |
 | 14:16      | she's listening because I've got a speaker in almost every room now. I don't have one                    |
 | 14:20      | in the hallway, but there are three rooms adjacent to the hallway with these. I don't                    |
-| 14:24      | have one in the bathroom. So I have to use my Apple watch there if I need to capture                     |
+| 14:24      | have one in the bathroom. So I have to use my [[Apple Watch]] there if I need to capture                     |
 | 14:29      | something there. But you know, if I say hey, lady, then she captures stuff. And that works               |
 | 14:37      | really well because then anything with a time on, I just assume that it's got to go into                 |
 | 14:43      | you. So geo automatically grabs that for me. If it's got a location on, then it gets left                |

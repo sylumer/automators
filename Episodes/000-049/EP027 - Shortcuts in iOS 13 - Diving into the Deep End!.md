@@ -342,9 +342,9 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 27:35      | Yeah, I just find snoozing doesn't help me. So it just makes things worse quite often.                  |
 | 27:41      | And I think that knowing in my head that there is no ability to snooze, it's like,                      |
 | 27:46      | it forces you open. Yeah. All right. So in addition to using the snooze as a trigger,                   |
-| 27:52      | you can also use an Apple Watch workout. I mean, it's just crazy how far they went with this stuff.     |
+| 27:52      | you can also use an [[Apple Watch]] workout. I mean, it's just crazy how far they went with this stuff.     |
 | 27:59      | Yeah, it really is. And it's so amazing what you can actually do, because when you start                |
-| 28:08      | an Apple Watch workout, you can have it automatically start your playlist and things                    |
+| 28:08      | an [[Apple Watch]] workout, you can have it automatically start your playlist and things                    |
 | 28:12      | like that. But at the same time, when you end it, you can also automatically have it open               |
 | 28:16      | the health application for you. And that's great, because then you can review not just                  |
 | 28:22      | the workout that you've done, but all of the other things that you've done throughout your day.         |

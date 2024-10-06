@@ -9,7 +9,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **iPhone** - Apple's flagship line of smartphones powered by the iOS operating system, known for their advanced technology and App Store access.  
 - **iPad** - A range of tablets offering versatile computing functionalities and high-resolution displays, including iPad Pro, iPad Air, iPad Mini, and standard iPad models.  
 - **Mac** - A series of personal computers, including MacBook laptops, iMac desktops, and Mac mini, known for their powerful performance and macOS operating system.  
-- **Apple Watch** - A line of smartwatches that integrate health and fitness tracking with communication tools.  
+- **[[Apple Watch]]** - A line of smartwatches that integrate health and fitness tracking with communication tools.  
 - **[[Apple TV]]** - A streaming device and a platform offering original content via [[Apple TV]]+, as well as access to other digital content.  
 - **AirPods** - Wireless earbuds and headphones featuring seamless connectivity and noise cancellation technologies.  
 - **[[Apple Music]]** - A subscription-based streaming service providing access to a vast library of music and expert-curated playlists.  
@@ -52,7 +52,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **2007** - Introduction of the iPhone, a significant milestone that marked Apple's entry into the mobile phone market.  
 - **2010** - iPad was introduced, defining a new category of smart mobile devices.  
 - **2011** - Tim Cook succeeded Steve Jobs as CEO of Apple.  
-- **2015** - Apple Watch was launched, entering the wearable tech market.  
+- **2015** - [[Apple Watch]] was launched, entering the wearable tech market.  
 - **2020** - Apple transitioned its Mac computers from Intel processors to its custom-designed [[Apple Silicon]] chips, starting with the M1 chip.  
 - **2023** - Apple introduced the Vision Pro, a high-end AR headset aimed at developers.
 

@@ -1109,7 +1109,7 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 01:14:31   | yeah agreed I I really feel like that's like the power move if you're just going to work with the         |
 | 01:14:36   | home kit app is you get everything you know build it out put your devices in by your hardware but         |
 | 01:14:43   | the end of the day make scenes and think about it and those are the easiest way to call them off with     |
-| 01:14:48   | Siri if you want to do that with Siri you can put like on your Apple watch you can put buttons for        |
+| 01:14:48   | Siri if you want to do that with Siri you can put like on your [[Apple Watch]] you can put buttons for        |
 | 01:14:54   | the individual scenes it's much easier than trying to control the lights with your watch but              |
 | 01:14:58   | you can have a list of five scenes and just scroll through on your watch and they've even got a           |
 | 01:15:02   | complication for it it's just the actual moment point of control scenes are the way to go it's            |

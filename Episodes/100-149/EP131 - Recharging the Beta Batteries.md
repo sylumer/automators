@@ -158,7 +158,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 06:41      | So we did get down a little rabbit hole there, but sorry for that, my fault.                            |
 | 06:45      | But let's talk about these betas.                                                                       |
 | 06:47      | What have you got installed where?                                                                      |
-| 06:49      | Okay, so I have the beta installed on my iPhone and my iPad Pro, my Apple Watch, and a Spare            |
+| 06:49      | Okay, so I have the beta installed on my iPhone and my iPad Pro, my [[Apple Watch]], and a Spare            |
 | 06:59      | at MacBook Pro.                                                                                         |
 | 07:00      | Now I've barely been at home in the last two weeks, so I was able to install Sonoma on                  |
 | 07:06      | my MacBook Pro and go, cool, that boots, that works, hey, shortcuts are here, my shortcuts              |
@@ -169,7 +169,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 07:32      | and potentially battery life is always a concern when you're running a developer beta, so having        |
 | 07:38      | something that would stay connected to the internet because it didn't just overheat itself              |
 | 07:43      | and run out of battery was definitely a priority there.                                                 |
-| 07:46      | But I'm pleased to say that my Apple Watch Ultra has been working really well on the                    |
+| 07:46      | But I'm pleased to say that my [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] has been working really well on the                    |
 | 07:51      | beta and that battery life has not been terrible on it.                                                 |
 | 07:55      | So I've tried Loot Power Mode and having the Always On Display off and things like that                 |
 | 08:02      | as well to test that out, and everything seems to be working pretty well.                               |
@@ -555,8 +555,8 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 34:15      | That would be great.                                                                                    |
 | 34:17      | That's all.                                                                                             |
 | 34:18      | I'm just going to give you some work.                                                                   |
-| 34:20      | Let's talk about the Apple watch.                                                                       |
-| 34:21      | There are some nice changes with this Apple watch.                                                      |
+| 34:20      | Let's talk about the [[Apple Watch]].                                                                       |
+| 34:21      | There are some nice changes with this [[Apple Watch]].                                                      |
 | 34:24      | I'm just going to go out right in front of this one.                                                    |
 | 34:26      | I've been using the beta watch.                                                                         |
 | 34:28      | I think this is the best improvement to the watch OS that has happened yet.                             |
@@ -627,7 +627,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 38:26      | be good to go.                                                                                          |
 | 38:27      | And all the developers who'd hard coded everything went, ah, it feels like, yeah, it feels like         |
 | 38:32      | that where, you know, whoever was using the latest widget kit stuff and, and complication               |
-| 38:36      | stuff for the Apple watch, maybe got a bit of a freebie here.                                           |
+| 38:36      | stuff for the [[Apple Watch]], maybe got a bit of a freebie here.                                           |
 | 38:39      | Hope fingers crossed for you developers that it is indeed a freebie, but it's, it's pretty              |
 | 38:43      | nice to see that there's apps already in, in my watch with these, these fancy widgets.                  |
 | 38:49      | And there is a limit you can, so you can add apps to the scrolling list, but I think it's               |

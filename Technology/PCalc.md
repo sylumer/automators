@@ -25,7 +25,7 @@ PCalc was created by [[James Thomson]], and originally released in 1992 for the 
 - **RPN Mode**: Supports Reverse Polish Notation (RPN) for those who prefer this method.
 - **Programmable Functions**: Users can define their own functions and constants.
 - **Multiple Undo and Redo**: Easily correct mistakes without starting over.
-- **Apple Watch Support**: A tailored version of the app designed for quick calculations on the go.
+- **[[Apple Watch]] Support**: A tailored version of the app designed for quick calculations on the go.
 - **iCloud Sync**: Synchronise data across all [[Apple]] devices using iCloud.
 - **VoiceOver Support**: Fully accessible with VoiceOver for visually impaired users.
 - **Data Sharing**: Export and share calculations and results via various methods.

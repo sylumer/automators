@@ -193,7 +193,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 06:46      | I'm just capturing that and I'll deal with it later.                                                   |
 | 06:49      | And that's the, that's the whole beauty of this.                                                       |
 | 06:50      | Yeah.                                                                                                  |
-| 06:51      | You know, some people complain about complications on the Apple watch, how they don't work well        |
+| 06:51      | You know, some people complain about complications on the [[Apple Watch]], how they don't work well        |
 | 06:56      | because so often a developer is trying to jam a very complicated app into a very small                 |
 | 07:01      | screen with no buttons.                                                                                |
 | 07:05      | And [[Drafts]] is one of the exceptions to that because like Tim was saying, [[Drafts]] is kind                |
@@ -207,14 +207,14 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 07:46      | right?                                                                                                 |
 | 07:47      | And the badge just represents anything in the inbox that hasn't been processed.                        |
 | 07:51      | Yeah.                                                                                                  |
-| 07:52      | So I love the Apple Watch functionality and the fact that you can have it tag automatically.           |
-| 07:57      | Everything that comes from the Apple Watch is so useful because then as you say to him,                |
+| 07:52      | So I love the [[Apple Watch]] functionality and the fact that you can have it tag automatically.           |
+| 07:57      | Everything that comes from the [[Apple Watch]] is so useful because then as you say to him,                |
 | 08:01      | it doesn't always understand what you say quite right.                                                 |
 | 08:03      | And this is on [[Apple\Apple's]] dictation.                                                                      |
 | 08:06      | I should point out, agile tortures hasn't written their own dictation engine.                          |
 | 08:10      | They use the built-in dictation engine.                                                                |
 | 08:13      | So that means all of your data is nice and secure and safe as well.                                    |
-| 08:16      | And I like to tag everything that comes from the Apple Watch because then when I'm looking             |
+| 08:16      | And I like to tag everything that comes from the [[Apple Watch]] because then when I'm looking             |
 | 08:19      | at it and I'm like, what did I mean, six "catala"?                                                       |
 | 08:22      | What?                                                                                                  |
 | 08:23      | What is that?                                                                                          |
@@ -225,7 +225,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 08:32      | My only question was if it's six, why isn't it 10, honestly?                                           |
 | 08:37      | I think it was a specific recipe that I was actually making sure I had the ingredients                 |
 | 08:42      | for because I had the recipe on my iPad and I was going through the stuff in the kitchen               |
-| 08:47      | and it was much easier to just talk to my Apple Watch.                                                 |
+| 08:47      | and it was much easier to just talk to my [[Apple Watch]].                                                 |
 | 08:50      | I believe I was making chocolate brownies.                                                             |
 | 08:52      | Nice.                                                                                                  |
 | 08:53      | See, I thought it was 10 is six and six is none.                                                       |

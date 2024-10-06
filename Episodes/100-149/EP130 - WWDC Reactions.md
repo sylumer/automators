@@ -463,7 +463,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 37:25      | Yay, simple sleep focus mode is still not available as a trigger in the automations list for              |
 | 37:32      | I don't know what reason. Like I understand that on, you know, sleep is related to health and that        |
 | 37:39      | was originally only on the iPhone and you set your sleep schedule in the health app on the iPhone         |
-| 37:45      | and it ties in with the Apple Watch. But I would still like a trigger for the focus mode turning          |
+| 37:45      | and it ties in with the [[Apple Watch]]. But I would still like a trigger for the focus mode turning          |
 | 37:51      | on and turning off because that's like the start and the end of my day or the end of the start            |
 | 37:55      | of my day if I'm going to get it the right way around. And it would be really, really useful              |
 | 37:59      | to have those like properly like on top of each other like there so that then, you know, it's             |
@@ -656,10 +656,10 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 54:43      | it'll switch it to red. So it doesn't like light up your bedroom. In fact, you can also make it so        |
 | 54:48      | it only shows up when it detects motion. So yeah, I really like that. Yeah. Cause I, I, I struggle        |
 | 54:56      | a little bit with light in the bedroom or from trying to sleep, you know, really, you know,               |
-| 54:59      | it does wake me up. And I usually wear my Apple watch while I sleep. So I don't get the benefit           |
+| 54:59      | it does wake me up. And I usually wear my [[Apple Watch]] while I sleep. So I don't get the benefit           |
 | 55:04      | of nightstand mode from it. But this is really cool because last night I got up to go to the              |
 | 55:09      | bathroom and I was like, Oh, my phone screen is not on. I wonder, you know, what time it is,              |
-| 55:13      | because running the beta Apple watch ultra ran out of battery surprise. So that was also                  |
+| 55:13      | because running the beta [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] ran out of battery surprise. So that was also                  |
 | 55:18      | on charge on the dock. But it's kind of like behind it on the stand that I've got. And I went             |
 | 55:24      | over to my iPhone. I did not touch my iPhone. I did not touch the table. The floor in this room           |
 | 55:28      | is nice and solid. So it wasn't that. And I just kind of like reached from my phone and the screen        |
@@ -949,7 +949,7 @@ David and Rose review all the automation changes coming to the Apple platforms f
 | 01:20:59   | sure [[Apple]] bought [[Shortcuts]] or [[Workflow]], as it was, a long time ago. And it's just getting better every year.      |
 | 01:21:06   | I feel like people inside of [[Apple]] are taking note of that. And also, even if they are still kind         |
 | 01:21:12   | of going in Shortcuts app nerdy, like the fact that the interactive widgets are app intense,              |
-| 01:21:18   | which then work with Shortcuts to an extent. And like the Apple Watch Ultra button,                       |
+| 01:21:18   | which then work with Shortcuts to an extent. And like the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] button,                       |
 | 01:21:24   | like that to me is just, yeah, like the icing on the cake of this is, this is here to stay.               |
 | 01:21:29   | And it's only going to get better. All right. We are at the Automators podcast. You can find              |
 | 01:21:34   | us at relay.fm/automators. You can find our website at automators.fm. We have the forums            |

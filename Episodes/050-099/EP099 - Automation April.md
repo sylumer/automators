@@ -483,7 +483,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 27:06      | There's greater compatibility between the two platforms.                                              |
 | 27:11      | Yeah.                                                                                                 |
 | 27:12      | Yeah.                                                                                                 |
-| 27:13      | For me, I'd love to see things like the vibrate action, which only works on iPhone and Apple Watch.          |
+| 27:13      | For me, I'd love to see things like the vibrate action, which only works on iPhone and [[Apple Watch]].          |
 | 27:18      | Like, it should just be ignored on the other platforms, like maybe it should pop up like              |
 | 27:22      | a thing that said, hey, I couldn't vibrate because I'm not a machine that has a vibrate               |
 | 27:27      | feature in, but it shouldn't crash, like just stop your shortcut at the point where it would          |

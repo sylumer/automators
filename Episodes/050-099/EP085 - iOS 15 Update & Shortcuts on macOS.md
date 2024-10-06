@@ -232,10 +232,10 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 07:01      | I'm so glad the iPad mini has that as well                           |
 | 07:03      | because centre stage really is just a nice feature                   |
 | 07:06      | because you really are focused on the iPad.                          |
-| 07:10      | And then the Apple Watch isn't out yet,                              |
+| 07:10      | And then the [[Apple Watch]] isn't out yet,                              |
 | 07:12      | but has a decision been made?                                        |
 | 07:15      | Yes, I unfortunately have had a couple of minor incidents            |
-| 07:19      | with my Apple Watch over the last year                               |
+| 07:19      | with my [[Apple Watch]] over the last year                               |
 | 07:20      | and the face on this one is scratched.                               |
 | 07:23      | So I'm upgrading to a series seven                                   |
 | 07:26      | and I'm gonna get stylised.                                          |
@@ -249,7 +249,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 07:46      | and there are other carriers with better signal.                     |
 | 07:48      | So I'm gonna be paying a bit more money                              |
 | 07:49      | and I thought let's pay all the more money                           |
-| 07:52      | and get a cellular Apple Watch as well                               |
+| 07:52      | and get a cellular [[Apple Watch]] as well                               |
 | 07:54      | because there are times when I have gone out                         |
 | 07:56      | and I've forgotten my phone at home.                                 |
 | 07:58      | It doesn't usually happen, but it does happen at times               |

@@ -1268,7 +1268,7 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 01:15:12   | Yeah.                                                                                              |
 | 01:15:13   | I mean, that's not just what we want, that's what we need, because we shouldn't have to            |
 | 01:15:18   | be going through, oh, so if this is a Mac, then I want to run a [[Keyboard Maestro]] macro.            |
-| 01:15:24   | If this is an iPhone or an iPad, then I want to do this, and if this is an Apple Watch,            |
+| 01:15:24   | If this is an iPhone or an iPad, then I want to do this, and if this is an [[Apple Watch]],            |
 | 01:15:28   | how on earth did this start running in the first place?                                            |
 | 01:15:30   | I just want to exit, and it gets very frustrating when you're trying to deal with all that.        |
 | 01:15:35   | Honestly, if they get it sorted out, I mean, we're recording this just a little bit before         |

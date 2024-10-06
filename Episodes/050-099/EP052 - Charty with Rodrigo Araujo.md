@@ -1005,7 +1005,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 58:16      | the book tracking shortcut, but perhaps a little more complex than the standard every                  |
 | 58:23      | day.                                                                                                   |
 | 58:24      | How much did I sleep?                                                                                  |
-| 58:25      | Because that's ultimately tracked by my Apple Watch and the Health App.                                |
+| 58:25      | Because that's ultimately tracked by my [[Apple Watch]] and the Health App.                                |
 | 58:28      | I just need to know, Rose, in your mind, does American chocolate even qualify as chocolate             |
 | 58:33      | and your chocolate tracking list?                                                                      |
 | 58:35      | That's a nice question.                                                                                |

@@ -752,7 +752,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 58:13      | phone, but it starts playing music. And it also starts running various automations like it opens        |
 | 58:18      | the blind in my bedroom so that I've got some natural light coming in to help me wake up because        |
 | 58:22      | my alarm's going off. I should probably be getting up and so on. And it also sets another alarm one     |
-| 58:29      | minute into the future because I wear an Apple watch while I sleep. And of course that vibrates         |
+| 58:29      | minute into the future because I wear an [[Apple Watch]] while I sleep. And of course that vibrates         |
 | 58:33      | on your wrist. It doesn't give you an audible alarm. And despite blinds going up, lights flashing at    |
 | 58:39      | me and so on, I've had days where I can still just kind of go back to sleep, which is not good.         |
 | 58:44      | So I found like setting another alarm like one minute into the future of like, no,                      |

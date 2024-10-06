@@ -573,8 +573,8 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 42:24      | Yeah. And the great thing about your iPhone, and this is, you know, you'll probably hear me say                                       |
 | 42:29      | this hundreds of times, is it's the device you have with you. You know, if you have an iPhone,                                        |
 | 42:34      | you're going to have it with you most of the time. And some of these, you could actually even trigger                                 |
-| 42:38      | from your Apple Watch and just have it run from there. I wouldn't necessarily recommend sending                                       |
-| 42:43      | email from your Apple Watch. It might be ill advised, depending on exactly what you're doing.                                         |
+| 42:38      | from your [[Apple Watch]] and just have it run from there. I wouldn't necessarily recommend sending                                       |
+| 42:43      | email from your [[Apple Watch]]. It might be ill advised, depending on exactly what you're doing.                                         |
 | 42:48      | But, you know, there's so much power in that small device that you have with you.                                                     |
 | 42:52      | So, yes, it's very, very useful.                                                                                                      |
 | 42:54      | What about you? Any interesting [[Workflow]] email automations you'd like to share?                                                   |
@@ -710,7 +710,7 @@ Then our hosts address cloud-based automation, and David closes up banging the d
 | 54:17      | a stopwatch against it, it was about 45 seconds. But Greg has done a thing where it somehow loops                                     |
 | 54:23      | magically and you can talk longer than 45 seconds and the dictation continues to run,                                                 |
 | 54:28      | which is very convenient. It's the best use of [[Siri]] dictation on the iPhone is in that app.                                       |
-| 54:35      | So that's another place you may want to try. And you can use that on the Apple Watch as well,                                         |
+| 54:35      | So that's another place you may want to try. And you can use that on the [[Apple Watch]] as well,                                         |
 | 54:39      | which means that you can be going around talking to your watch, composing that email,                                                 |
 | 54:44      | you know, potentially we're doing a bunch of other things as well, because we're all very                                             |
 | 54:47      | busy people. And that's really, really nice. I talk to my watch a lot more than I should                                              |

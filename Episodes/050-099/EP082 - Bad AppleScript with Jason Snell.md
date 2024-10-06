@@ -1331,7 +1331,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 59:56      | I don't use my iPhone a lot. I work at                                                                           |
 | 59:58      | home                                                                                                             |
 | 01:00:00   | and when I go out, in fact a lot of times I go out                                                               |
-| 01:00:02   | with just my Apple Watch because I have a cellular Apple Watch                                                   |
+| 01:00:02   | with just my [[Apple Watch]] because I have a cellular [[Apple Watch]]                                                   |
 | 01:00:04   | so I'm not                                                                                                       |
 | 01:00:06   | using my iPhone enough to do a lot of automation there.                                                          |
 | 01:00:10   | This episode of The Automators                                                                                   |
@@ -1401,7 +1401,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:02:18   | So Jason                                                                                                         |
 | 01:02:20   | you said you don't really use shortcuts on your phone                                                            |
 | 01:02:22   | which is fine and I'm guessing that probably                                                                     |
-| 01:02:24   | since the Apple Watch. How about                                                                                 |
+| 01:02:24   | since the [[Apple Watch]]. How about                                                                                 |
 | 01:02:26   | macOS Monterey? Because I get the impression                                                                     |
 | 01:02:28   | that you have opinions, let's say                                                                                |
 | 01:02:30   | about shortcuts on macOS Monterey                                                                                |

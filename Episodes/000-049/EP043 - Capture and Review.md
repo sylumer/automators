@@ -433,7 +433,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 30:01      | something. It usually happens just as I'm walking out the door with my hands full or                    |
 | 30:05      | something, I think of something and then it's gone before I get a chance to put my bags                 |
 | 30:10      | down and get, get a device so I can capture it, you know, even, even with capture on the                |
-| 30:14      | Apple watch, it's difficult to, to actually capture everything even when with your hands                |
+| 30:14      | [[Apple Watch]], it's difficult to, to actually capture everything even when with your hands                |
 | 30:19      | full.                                                                                                   |
 | 30:20      | And do you run these scripts? I usually run them as part of a review process. So like                   |
 | 30:25      | you, I've split my review into multiple sections. So I do different parts of reviews pretty             |

@@ -454,7 +454,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 16:50      | So you'll say after three o'clock switch to the night deck,                        |
 | 16:54      | something like that.                                                               |
 | 16:55      | Right.                                                                             |
-| 16:56      | So it's similar to like setting your Apple watch face, right?                      |
+| 16:56      | So it's similar to like setting your [[Apple Watch]] face, right?                      |
 | 16:59      | I have a morning action that changes my watch face to this                         |
 | 17:02      | and then evening it switches to that.                                              |
 | 17:03      | So it's the same thing, same concept.                                              |

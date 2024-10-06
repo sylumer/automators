@@ -132,10 +132,10 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 04:01      | to use shortcuts.                                                                                        |
 | 04:02      | Oh yeah.                                                                                                 |
 | 04:03      | Especially.                                                                                              |
-| 04:04      | So if you go into any of these smart folders, so say for example, the Apple watch and then               |
+| 04:04      | So if you go into any of these smart folders, so say for example, the [[Apple Watch]] and then               |
 | 04:08      | you tap on the select, then you can use select all in the top left and you can remove all                |
-| 04:13      | of them from your Apple watch if you have like 954 shortcuts attempting to sync to your                  |
-| 04:18      | Apple watch to start with.                                                                               |
+| 04:13      | of them from your [[Apple Watch]] if you have like 954 shortcuts attempting to sync to your                  |
+| 04:18      | [[Apple Watch]] to start with.                                                                               |
 | 04:20      | And you're there going like, why are these not syncing?                                                  |
 | 04:22      | Well, it's possibly because you have too many.                                                           |
 | 04:24      | So I literally just took all of mine off of my watch and have gone through and manually                  |
@@ -234,7 +234,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 09:09      | Yeah, but I think 12 is a fair number.                                                                   |
 | 09:12      | But the...                                                                                               |
 | 09:13      | Yeah.                                                                                                    |
-| 09:14      | I'm fixing that by putting Apple Watch chargers everywhere.                                              |
+| 09:14      | I'm fixing that by putting [[Apple Watch]] chargers everywhere.                                              |
 | 09:16      | So this is one of the things that I'm doing because that way, because I noticed shortly                  |
 | 09:20      | after moving that I was charging my watch in the bedroom and I was sitting at my desk                    |
 | 09:23      | and I didn't want to get up to go and get my watch when I got the notification on my                     |
@@ -832,8 +832,8 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 43:08      | Just, you know, just you have to make your own decisions.                                                |
 | 43:10      | But you can do these power saving steps where maybe then you don't get to low power mode                 |
 | 43:15      | until bedtime and then you're, you know, you're getting more out of your phone.                          |
-| 43:19      | I would like them to add a trigger for attaching power to the Apple Watch or disconnect the              |
-| 43:25      | Apple Watch.                                                                                             |
+| 43:19      | I would like them to add a trigger for attaching power to the [[Apple Watch]] or disconnect the              |
+| 43:25      | [[Apple Watch]].                                                                                             |
 | 43:26      | I would solve the problem I was talking about earlier.                                                   |
 | 43:28      | I could have it auto create a timer for me or maybe even send me reminders.                              |
 | 43:33      | You're still plugged in.                                                                                 |
@@ -907,15 +907,15 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 46:54      | And I have been making sure that it automatically changes my watch face to an appropriate watch          |
 | 47:00      | face, so that I've got good information when I'm at work versus other things.                            |
 | 47:05      | And that is working really well for me.                                                                  |
-| 47:08      | What I am also loving, even though there's a sleep mode on Apple Watch, I have been disabling            |
+| 47:08      | What I am also loving, even though there's a sleep mode on [[Apple Watch]], I have been disabling            |
 | 47:13      | the always on screen and enabling theatre mode at around about nine PM every night on                    |
-| 47:20      | my Apple Watch.                                                                                          |
+| 47:20      | my [[Apple Watch]].                                                                                          |
 | 47:21      | And I'm turning it off at eight AM.                                                                      |
 | 47:23      | And that for me is great.                                                                                |
 | 47:26      | Sometimes I sleep badly and the little dim screen every so often wakes me up or I wake                   |
 | 47:32      | up and I've managed to change my watch face to something else.                                           |
 | 47:35      | So being able to automatically set the sleep watch face, I have a specific sleep watch                   |
-| 47:40      | face, which I use behind the sleep function of the Apple Watch, which is the really big                  |
+| 47:40      | face, which I use behind the sleep function of the [[Apple Watch]], which is the really big                  |
 | 47:47      | numbers.                                                                                                 |
 | 47:48      | And that's it.                                                                                           |
 | 47:49      | That is great because then it's kind of a reminder for me, a subtle reminder that I                      |
@@ -1037,7 +1037,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 53:43      | open up the shortcuts app on your watch and trigger them.                                                |
 | 53:47      | Yeah.                                                                                                    |
 | 53:48      | The question becomes, what do you really want to trigger from your watch?                                |
-| 53:52      | I mean, Apple Watch Automations for me was the first one where I can have it change the                  |
+| 53:52      | I mean, [[Apple Watch]] Automations for me was the first one where I can have it change the                  |
 | 53:58      | face to this and mute.                                                                                   |
 | 54:00      | My watch spends most of its time on mute, but every so often I'll unmute it.                             |
 | 54:03      | And so being able to make sure it's muted is great.                                                      |
@@ -1070,8 +1070,8 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 55:43      | It seems to work really well, but I don't know if it's working just because my phone                     |
 | 55:49      | is right next to my watch, and it's doing things through that.                                           |
 | 55:52      | I've had some interesting experiences with stuff going, hey, that's not possible on the                  |
-| 55:55      | Apple Watch.                                                                                             |
-| 55:56      | At the moment, the run shortcut action does appear to be broken on Apple Watch, which                    |
+| 55:55      | [[Apple Watch]].                                                                                             |
+| 55:56      | At the moment, the run shortcut action does appear to be broken on [[Apple Watch]], which                    |
 | 56:00      | is a shame.                                                                                              |
 | 56:01      | But fortunately, I wasn't really using that on my watch, which is good.                                  |
 | 56:05      | Yeah.                                                                                                    |
@@ -1079,8 +1079,8 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 56:08      | So there's a bunch of things that just won't work on the watch, but it's there now.                      |
 | 56:13      | And I feel like they've planted their flag and it's going to get better.                                 |
 | 56:16      | Yeah.                                                                                                    |
-| 56:17      | I have to say, I am still using push cut on my Apple Watch quite a bit because I can,                    |
-| 56:24      | or rather I'm using it through shortcuts on my Apple Watch, because then I can say, hey,                 |
+| 56:17      | I have to say, I am still using push cut on my [[Apple Watch]] quite a bit because I can,                    |
+| 56:24      | or rather I'm using it through shortcuts on my [[Apple Watch]], because then I can say, hey,                 |
 | 56:28      | go and do this thing.                                                                                    |
 | 56:29      | And it's something that needs a phone, but it doesn't necessarily need me at the phone                   |
 | 56:33      | to do it.                                                                                                |

@@ -791,7 +791,7 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 46:17      | All right, I've got a little automation I'm working on.                                            |
 | 46:21      | This was inspired by a labs member, member Ward.                                                   |
 | 46:24      | We do these meet ups and MacSparky Labs and people share nerdy tips with each other.               |
-| 46:28      | And the topic of the Apple Watch Ultra came up and Ward was doing a thing where he presses         |
+| 46:28      | And the topic of the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] came up and Ward was doing a thing where he presses         |
 | 46:33      | the action button and it records his voice.                                                        |
 | 46:36      | Then eventually he gets that into whisper transcription and gets transcripts of voice              |
 | 46:42      | recordings that he makes while just by hitting the action button on his ultra watch.               |
@@ -828,9 +828,9 @@ Rosemary and David have multiple ways to automate file management on your Mac.
 | 48:48      | reliably via AI shows up in my inbox.                                                              |
 | 48:52      | Then you take the next step, [[Whisper Memos]] has shortcut support.                                   |
 | 48:56      | And it's not a lot because there's not a whole lot you can do.                                     |
-| 48:59      | The app does one thing, but you install the app on your Apple Watch and either via a complication  |
+| 48:59      | The app does one thing, but you install the app on your [[Apple Watch]] and either via a complication  |
 | 49:06      | or the action button, you trigger this feature where it starts a new recording.                    |
-| 49:12      | And with the Apple Watch Ultra, all I have to do now is press the orange button and start          |
+| 49:12      | And with the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]], all I have to do now is press the orange button and start          |
 | 49:18      | talking.                                                                                           |
 | 49:19      | And then when I hit stop, everything is just handled.                                              |
 | 49:21      | And I'm putting so much text in that way.                                                          |

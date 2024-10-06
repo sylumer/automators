@@ -340,10 +340,10 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 17:46      | shortcut sections.                                                                                                        |
 | 17:47      | So, you won't need to check, hopefully, if it's Mac, do this action.                                                      |
 | 17:50      | If it's not Mac, do this other action.                                                                                    |
-| 17:53      | And if it's Apple Watch, then crash and die because this, you know, this doesn't work on                                  |
-| 17:58      | Apple Watch or whatever.                                                                                                  |
+| 17:53      | And if it's [[Apple Watch]], then crash and die because this, you know, this doesn't work on                                  |
+| 17:58      | [[Apple Watch]] or whatever.                                                                                                  |
 | 17:59      | I'm being hyperbolic.                                                                                                     |
-| 18:00      | You know, there are some things that don't necessarily work on the Apple Watch the same                                   |
+| 18:00      | You know, there are some things that don't necessarily work on the [[Apple Watch]] the same                                   |
 | 18:04      | as they don't work on the HomePod, just because, you know, it needs to go in and do this or                               |
 | 18:09      | do that or whatever.                                                                                                      |
 | 18:10      | But, you know, most things work everywhere.                                                                               |
@@ -585,14 +585,14 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 32:30      | watch.                                                                                                                    |
 | 32:32      | And so you'll need to use get device details.                                                                             |
 | 32:34      | And I would suggest something like device model.                                                                          |
-| 32:38      | There's also device is watch, which is, you know, your device is an Apple watch.                                          |
+| 32:38      | There's also device is watch, which is, you know, your device is an [[Apple Watch]].                                          |
 | 32:42      | And if I get the device model on this MacBook Pro, then it tells me it's a Mac, Mac with                                  |
 | 32:48      | a capital M.                                                                                                              |
 | 32:50      | So if it's a Mac, don't vibrate, you know.                                                                                |
 | 32:52      | Yeah, exactly.                                                                                                            |
 | 32:53      | So I mean, in this case, you'll probably want to say if it's an iPhone vibrate, I don't                                   |
-| 32:58      | know if you're going to be running your shortcut on the Apple watch.                                                      |
-| 33:01      | And if you will want the haptic feedback in which case you can vibrate on the Apple watch,                                |
+| 32:58      | know if you're going to be running your shortcut on the [[Apple Watch]].                                                      |
+| 33:01      | And if you will want the haptic feedback in which case you can vibrate on the [[Apple Watch]],                                |
 | 33:08      | that might be a little tricky to do, you probably have to do a nested if else if, and then just                           |
 | 33:15      | otherwise don't vibrate, you know, go on to the next section because, you know, Macs                                      |
 | 33:20      | don't have vibration.                                                                                                     |
@@ -863,9 +863,9 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 49:52      | Wow.                                                                                                                      |
 | 49:53      | Okay.                                                                                                                     |
 | 49:54      | This is crazy because I've been trying for days, like my plus button is just gone.                                        |
-| 49:59      | It doesn't help that every time I, I put my, uh, my Apple watch near my iPad or my iPhone,                                |
+| 49:59      | It doesn't help that every time I, I put my, uh, my [[Apple Watch]] near my iPad or my iPhone,                                |
 | 50:04      | I get a notification at the top saying, would you like to use this device as a keyboard                                   |
-| 50:07      | for your Apple watch?                                                                                                     |
+| 50:07      | for your [[Apple Watch]]?                                                                                                     |
 | 50:08      | No.                                                                                                                       |
 | 50:09      | Um, it's just popped up again, but I, I definitely can't add more than five.                                              |
 | 50:14      | Okay.                                                                                                                     |
@@ -1040,10 +1040,10 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 59:04      | Like it's kind of mind boggling to think, you know, that they can do all of these things.                                 |
 | 59:08      | Uh, but I'm, I'm extremely happy with it.                                                                                 |
 | 59:11      | Yeah.                                                                                                                     |
-| 59:12      | And I would really like to see them add, um, focus mode buttons to the Apple watch, um,                                   |
+| 59:12      | And I would really like to see them add, um, focus mode buttons to the [[Apple Watch]], um,                                   |
 | 59:19      | which I have not figured out how to do yet.                                                                               |
 | 59:22      | I mean, I can do it via automation with a shortcut, but, um, it would be cool if like,                                    |
-| 59:28      | you know, we had a very easy way to trigger focuses, even just with the Apple watch, because                              |
+| 59:28      | you know, we had a very easy way to trigger focuses, even just with the [[Apple Watch]], because                              |
 | 59:32      | that's all you need.                                                                                                      |
 | 59:33      | Yeah.                                                                                                                     |
 | 59:34      | So, um, if I tap, that's the wrong button, uh, this is kind of tricky.                                                    |
@@ -1070,12 +1070,12 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:00:17   | My watch is like three years old, so it'll just be worse.                                                                 |
 | 01:00:19   | Oh, okay.                                                                                                                 |
 | 01:00:20   | Um, I mean, you're, you're going to get like five minutes out of it if you're lucky.                                      |
-| 01:00:24   | Um, also it keeps waking up all of my other devices because anytime I put my Apple Watch                                  |
-| 01:00:30   | near an iPad or an iPhone, they light up and say Apple Watch keyboard input, enter text                                   |
-| 01:00:36   | on your Apple Watch using, sorry, I need to move it back again because I moved it further                                 |
+| 01:00:24   | Um, also it keeps waking up all of my other devices because anytime I put my [[Apple Watch]]                                  |
+| 01:00:30   | near an iPad or an iPhone, they light up and say [[Apple Watch]] keyboard input, enter text                                   |
+| 01:00:36   | on your [[Apple Watch]] using, sorry, I need to move it back again because I moved it further                                 |
 | 01:00:40   | away because this is annoying me.                                                                                         |
 | 01:00:41   | And now the notification doesn't show.                                                                                    |
-| 01:00:43   | Basically, you can use your iPhone and iPad to type into your Apple Watch, which I'm not                                  |
+| 01:00:43   | Basically, you can use your iPhone and iPad to type into your [[Apple Watch]], which I'm not                                  |
 | 01:00:47   | 100% certain I understand the utility of, uh, for, uh, an average user, perhaps, uh,                                      |
 | 01:00:52   | for accessibility purposes, it makes sense.                                                                               |
 | 01:00:55   | Um, uh, but then why wouldn't you just pick up your iPhone to do the action instead?                                      |

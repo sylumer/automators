@@ -5,7 +5,7 @@ notetype: "technology"
 ---
 
 # Overview
-Siri is a virtual assistant developed by [[Apple]] Inc. that uses voice recognition and natural language processing to perform a variety of tasks on [[Apple]] devices. It was first introduced on the iPhone 4S in 2011 and has since been integrated into other [[Apple]] products such as the iPad, Apple Watch, and Mac computers.
+Siri is a virtual assistant developed by [[Apple]] Inc. that uses voice recognition and natural language processing to perform a variety of tasks on [[Apple]] devices. It was first introduced on the iPhone 4S in 2011 and has since been integrated into other [[Apple]] products such as the iPad, [[Apple Watch]], and Mac computers.
 
 Users can interact with Siri by speaking commands or asking questions, and Siri responds with spoken feedback or on-screen information. Siri can help with tasks like sending messages, setting reminders, making phone calls, searching the web, running [[Shortcuts|Shortcuts automations]] and controlling smart home devices.
 

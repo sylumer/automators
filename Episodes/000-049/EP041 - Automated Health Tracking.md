@@ -397,7 +397,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 26:49      | doing this constantly and it's like, you couldn't stop and reset a workout every like 10 minutes.      |
 | 26:55      | It's madness. So it's nice. Yes, definitely. Getting back to good data because of the technology.      |
 | 27:01      | Yes, absolutely. And I, what I've done at the moment is I've got a couple of automations               |
-| 27:07      | built in. I've been trying to use the, started an Apple Watch workout automation, but the              |
+| 27:07      | built in. I've been trying to use the, started an [[Apple Watch]] workout automation, but the              |
 | 27:14      | problem is, is that the swimming pool, I leave my phone in the locker and it's too far away            |
 | 27:18      | and there's no wifi at the swimming pool, which is probably for the best because do                    |
 | 27:21      | you really want to take your iPad for a swim? Probably not. But it means that I can't use              |
@@ -426,7 +426,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 29:10      | work with my particular gym, but that would be another way if you're having trouble. Fortunately,      |
 | 29:17      | you know, as habits go, I'm totally ingrained now. Once I sit down to start a workout, I               |
 | 29:22      | do it on my watch and I don't need my technology to remind me, but it did take a few months            |
-| 29:26      | for me to get there. Yes. And fortunately, you know, the Apple Watch is helping us there               |
+| 29:26      | for me to get there. Yes. And fortunately, you know, the [[Apple Watch]] is helping us there               |
 | 29:30      | now with its own automation of when you when you've started doing something that it thinks             |
 | 29:34      | is a workout, it prompts you to track it. And this happened to me quite a few times                    |
 | 29:39      | over Christmas. So a lot of people think, oh Christmas, yes, time to sit back and relax.               |
@@ -606,10 +606,10 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 44:41      | will actually tell you once a day, Hey, I'm a meditated, you want to do that now? So                   |
 | 44:45      | so you can you can do solve that problem several ways if that's something you're trying to get         |
 | 44:49      | started on. Yes, that that's an interesting one. I've been trying, you know, not quite meditation,     |
-| 44:56      | but definitely the breathing exercises with the Apple Watch. And that's definitely interesting.        |
-| 45:02      | And I've been using streaks, actually, because the Apple Watch has a maximum number of minutes         |
+| 44:56      | but definitely the breathing exercises with the [[Apple Watch]]. And that's definitely interesting.        |
+| 45:02      | And I've been using streaks, actually, because the [[Apple Watch]] has a maximum number of minutes         |
 | 45:06      | that you can do it for at once. And I'm finding 15 minutes is actually pretty good to help me          |
-| 45:10      | go to sleep at night. But you can't actually do that with the Apple Watch. So I set the Apple Watch    |
+| 45:10      | go to sleep at night. But you can't actually do that with the [[Apple Watch]]. So I set the [[Apple Watch]]    |
 | 45:16      | for as long as you can go. I think it was 10 minutes last time I tried. And then and then I            |
 | 45:21      | set a streaks timer for 15 minutes for the habit. And then it locks it for me. Yeah,                   |
 | 45:26      | if you wanted to try it, the one I would recommend for someone new to it would be headspace. I think   |

@@ -1244,15 +1244,15 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:09:53   | Okay, so now you've got a purple iMac, purple iPad mini, any other purple gear in your life             |
 | 01:09:59   | first?                                                                                                  |
 | 01:10:00   | Is that it?                                                                                             |
-| 01:10:01   | I got the new Apple Watch straps, the braided woven loops in English lavender and dark cherry,          |
+| 01:10:01   | I got the new [[Apple Watch]] straps, the braided woven loops in English lavender and dark cherry,          |
 | 01:10:11   | because they're purple too.                                                                             |
-| 01:10:13   | I will hopefully be getting a new Apple Watch.                                                          |
+| 01:10:13   | I will hopefully be getting a new [[Apple Watch]].                                                          |
 | 01:10:14   | This one, unfortunately, had a little bit of an accident a while ago and it's got some                  |
 | 01:10:18   | pretty horrible scratches on the screen.                                                                |
 | 01:10:20   | So I will be getting a new one and again, switching to a cellular one because I'm hoping                |
 | 01:10:24   | to be leaving the house on a more regular basis and maybe leaving my iPhone behind                      |
 | 01:10:28   | at times but wanting to still be able to communicate with people.                                       |
-| 01:10:32   | So yeah, Apple Watch is in my future, but not yet because [[Apple]] haven't announced the                   |
+| 01:10:32   | So yeah, [[Apple Watch]] is in my future, but not yet because [[Apple]] haven't announced the                   |
 | 01:10:37   | release date.                                                                                           |
 | 01:10:38   | You know, I really like those woven bands.                                                              |
 | 01:10:40   | That's never really come up on any podcast, but I've never bought an [[Apple]] one.                         |

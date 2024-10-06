@@ -375,7 +375,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 18:08      | And yeah, the 11 inch, I think really is the sweet spot for me, you know, I tried going                |
 | 18:13      | big on the iPhone, that didn't work out, I tried going big on the iPad, that didn't                    |
 | 18:17      | work out.                                                                                              |
-| 18:18      | I am still on though on the Apple watch ultra train and that for me is working out.                    |
+| 18:18      | I am still on though on the [[Apple Watch#Apple Watch Ultra\|Apple Watch Ultra]] train and that for me is working out.                    |
 | 18:24      | I'm loving how big the screen is and how great the battery life is.                                    |
 | 18:27      | So yeah, fingers crossed that one continues to work out for me.                                        |
 | 18:31      | But I think for the rest of the devices, I will stay happily in the medium side zone.                  |

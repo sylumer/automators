@@ -463,7 +463,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 19:11      | I do, there's so many things where I wish, I'm grateful that it exists, but as with                           |
 | 19:15      | so many things in life, in technology, with [[Apple]], the more you use it, the more you realise                  |
 | 19:20      | what the limitations are and you're so like hungry for a certain kind of thing.                               |
-| 19:25      | That pop-up that says that my watch is charged, how long has the Apple Watch been out?                        |
+| 19:25      | That pop-up that says that my watch is charged, how long has the [[Apple Watch]] been out?                        |
 | 19:29      | How long has it been something that is until very recently, very much tied to an iPhone?                      |
 | 19:34      | And it wasn't until 2020 that we got a pop-up that says your watch is charged.                                |
 | 19:37      | Guess what I did?                                                                                             |

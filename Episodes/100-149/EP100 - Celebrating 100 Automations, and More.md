@@ -1798,7 +1798,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:11:53   | So that will go with it.                                          |
 | 01:11:54   | But I may end up with another magic keyboard                      |
 | 01:11:58   | with the Touch ID on because Touch ID is useful.                  |
-| 01:12:01   | But honestly, with the Unlock with Apple Watch feature            |
+| 01:12:01   | But honestly, with the Unlock with [[Apple Watch]] feature            |
 | 01:12:03   | that I've got on, that you can just enable on your Mac,           |
 | 01:12:08   | I don't need Touch ID most of the time.                           |
 | 01:12:12   | I can just double press the side of my watch                      |

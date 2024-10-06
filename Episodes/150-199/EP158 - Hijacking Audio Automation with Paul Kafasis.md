@@ -562,7 +562,7 @@ In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba
 | 32:30      | They add a new action and people do things with it.                                                           |
 | 32:33      | And then [[Apple]] go, oh, that's an idea.                                                                        |
 | 32:36      | And the next year, it magically appears in the operating system.                                              |
-| 32:39      | Like the classic one for me is changing your background and your Apple Watch face with                       |
+| 32:39      | Like the classic one for me is changing your background and your [[Apple Watch]] face with                       |
 | 32:42      | your [[Focus Mode]] because they added [[Focus Mode]] triggers.                                                       |
 | 32:45      | People went and did that manually and the next year, [[Apple]] were like, we put it into                          |
 | 32:49      | [[Focus Mode\|Focus Modes]] for you.                                                                                          |

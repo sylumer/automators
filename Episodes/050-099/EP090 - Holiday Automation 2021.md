@@ -1226,7 +1226,7 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:10:26   | I used last year for my tree and lights and the remote for it.                                       |
 | 01:10:30   | So now their tree and lights will also be smart controlled, but they've got a little                 |
 | 01:10:37   | button that they can use on that to turn that on and off manually if they want to.                   |
-| 01:10:41   | Or it turns out my parents love talking to their Apple Watches, so that's what they                  |
+| 01:10:41   | Or it turns out my parents love talking to their [[Apple Watch\|Apple Watches]], so that's what they                  |
 | 01:10:45   | do most of the time.                                                                                 |
 | 01:10:46   | Yeah, I think that lights are a great kind of entry point because it's just so obvious,              |
 | 01:10:53   | they turn off and on.                                                                                |

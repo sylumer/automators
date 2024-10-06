@@ -526,7 +526,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 26:38      | looking inside of those personal automations, you know, like when might you want to start              |
 | 26:42      | playing music?                                                                                         |
 | 26:43      | So for me, the key ones are when I stop my alarm in the morning or when I snooze my alarm              |
-| 26:47      | in the morning, when I start a workout on my Apple Watch and car play, I've been driving               |
+| 26:47      | in the morning, when I start a workout on my [[Apple Watch]] and car play, I've been driving               |
 | 26:52      | another car that has car play as well.                                                                 |
 | 26:55      | But another one has been airplane mode and airplane mode is great because when I put                   |
 | 27:00      | airplane mode on, that's nearly always because I'm on a plane and that means I have headphones         |

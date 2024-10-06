@@ -305,8 +305,8 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 13:32      | I'm really excited by, you know, there's got so many things.                                              |
 | 13:38      | But first of all, the feature that I used all the time was shortcuts, personal automation,                |
 | 13:44      | X focus mode turns on, or X focus mode turns off.                                                         |
-| 13:48      | And that is what I use to change my Apple Watch face.                                                     |
-| 13:51      | Goodbye, automations, to change my Apple Watch face.                                                      |
+| 13:48      | And that is what I use to change my [[Apple Watch]] face.                                                     |
+| 13:51      | Goodbye, automations, to change my [[Apple Watch]] face.                                                      |
 | 13:53      | You are no longer needed, because this has been built into the focus modes.                               |
 | 13:57      | And you know what, David, I am 100% confident in saying this, and I don't care if I'm wrong.              |
 | 14:02      | I think that this feature exists purely because people did this with shortcuts, automations,              |
@@ -334,7 +334,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 15:14      | So I didn't know if that was a bug.                                                                       |
 | 15:16      | Yeah, I've found the watch has been a little tricky to get working like this.                             |
 | 15:21      | The other thing that tripped me up, which I don't think is the problem for you, but                       |
-| 15:24      | just for anybody listening, if you have two Apple watches and you've only updated one                     |
+| 15:24      | just for anybody listening, if you have two [[Apple Watch\|Apple Watches]] and you've only updated one                     |
 | 15:28      | of them, then if you have the wrong [[Apple]] watch connected to your phone at that point                     |
 | 15:34      | in time when you're selecting the watch face, then the entire thing just doesn't work.                    |
 | 15:39      | And I need file feedback on that, actually.                                                               |
@@ -1006,7 +1006,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:07:21   | more than 26 notes previously, if it found more than 26, it would just stop at 26. But                    |
 | 01:07:26   | I'm just very excited by the fact that we have these apps everywhere. Because, like,                      |
 | 01:07:32   | for example, the clock actions, okay, you still can't set multiple timers on anything                     |
-| 01:07:36   | but an Apple Watch and a HomePod. But you can, you know, open the clock app on the Mac                    |
+| 01:07:36   | but an [[Apple Watch]] and a HomePod. But you can, you know, open the clock app on the Mac                    |
 | 01:07:41   | so that you can see whatever timer is running. Which, for all those people who just want                  |
 | 01:07:46   | a simple timer on their Mac, they can do that. And just like a spotlight on iOS could open                |
 | 01:07:52   | a Shortcut to run it, well, a spotlight on macOS can run Shortcuts now, which is great                    |
@@ -1016,7 +1016,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 01:08:11   | I mean, it really felt broken when you could do something on one platform that seemed like                |
 | 01:08:16   | it should work on another platform and it didn't. Yes, yeah, exactly. And I think it's                    |
 | 01:08:21   | just one of those things where they're trying to bring things more into alignment, like                   |
-| 01:08:28   | the torch or flashlight, as the Americans call it, on your Apple Watch. That didn't                       |
+| 01:08:28   | the torch or flashlight, as the Americans call it, on your [[Apple Watch]]. That didn't                       |
 | 01:08:33   | used to work with the Set Flashlight function. But now that does work. And I do think that,               |
 | 01:08:40   | you know, they're making things just always work and work more consistently is very useful.               |
 | 01:08:46   | So if you had a lot, if you've got lots of photos, and I'm sure many of our listeners                     |

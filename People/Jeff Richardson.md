@@ -12,7 +12,7 @@ relayurl: https://www.relay.fm/people/jeffrichardson
 ![[Jeff Richardson.jpg|200x200]]
 
 # About
-Jeff Richardson is an attorney who started his iPhone web site for lawyers back in 2008, a site focused on how attorneys can use [[Apple|Apple's]] mobile devices, including the iPhone, iPad and Apple Watch.
+Jeff Richardson is an attorney who started his iPhone web site for lawyers back in 2008, a site focused on how attorneys can use [[Apple|Apple's]] mobile devices, including the iPhone, iPad and [[Apple Watch]].
 
 # Guest Episodes
 ```dataviewjs

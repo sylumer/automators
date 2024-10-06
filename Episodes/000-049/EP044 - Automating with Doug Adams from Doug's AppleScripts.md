@@ -1247,7 +1247,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:05:14   | And then a Christmas, I'm not sure they're supposed to do this, but they put an extension            |
 | 01:05:18   | lead on it and have a lamp and the Christmas tree.                                                   |
 | 01:05:21   | And so the lamp and the Christmas tree come on at the same time when they ask the lady               |
-| 01:05:25   | inside their phones or usually their Apple watches.                                                  |
+| 01:05:25   | inside their phones or usually their [[Apple Watch\|Apple Watches]].                                                  |
 | 01:05:27   | And occasionally their iPads I noticed this weekend to turn on the lamp.                             |
 | 01:05:31   | And that they really like because it also means that, you know, if they're out and they've           |
 | 01:05:35   | forgotten because they do have an [[Apple TV]], if they've forgotten that, you know, to turn             |

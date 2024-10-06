@@ -922,9 +922,9 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 50:10      | And if you tap that, then you can select different colour devices.                                     |
 | 50:14      | And if you tap the settings icon, then you can choose from different devices.                         |
 | 50:17      | So you could say that you have an iPhone 11 Pro in the fantastic midnight green, or you               |
-| 50:25      | have an iPhone 8 Plus, an iPad Pro, or an Apple Watch Series 4.                                       |
-| 50:30      | And you can actually frame an iPhone screenshot in an Apple Watch Series 4 because it will            |
-| 50:37      | stretch the Apple Watch frame to fit the content, which looks kind of crazy, but that may be          |
+| 50:25      | have an iPhone 8 Plus, an iPad Pro, or an [[Apple Watch]] Series 4.                                       |
+| 50:30      | And you can actually frame an iPhone screenshot in an [[Apple Watch]] Series 4 because it will            |
+| 50:37      | stretch the [[Apple Watch]] frame to fit the content, which looks kind of crazy, but that may be          |
 | 50:45      | the artwork of this chapter.                                                                          |
 | 50:48      | So double check.                                                                                      |
 | 50:49      | Yeah, I do, because I just do a shortcut with an embedded frame, and then I update it whenever        |

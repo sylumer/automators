@@ -804,7 +804,7 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:06:16   | quickly with each other by talking and not having to get your phone out of your pockets,                 |
 | 01:06:19   | especially in your case, your kids at grownups. So that's not a worry for you, but especially if         |
 | 01:06:25   | you've got small children, you're wrangling small children, just being able to walkie-talkie through     |
-| 01:06:29   | your Apple Watch is yes. But there's part of me that just loves the idea of a text message               |
+| 01:06:29   | your [[Apple Watch]] is yes. But there's part of me that just loves the idea of a text message               |
 | 01:06:35   | because it's so much less invasive. It is, but the problem with a text message is you can't              |
 | 01:06:41   | necessarily like, unless you've got AirPods in your ears, your watch isn't going to read it out.         |
 | 01:06:45   | And then you're going to have to like, look at it to try and read it. And I don't know about you,        |

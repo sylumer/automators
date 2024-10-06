@@ -73,7 +73,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 01:34      | going to be more sessions and I think some workshops later in the week with the shortcuts                                                                 |
 | 01:39      | team. But I started watching one of the sessions earlier and there was just so much information                                                           |
 | 01:45      | in there that wasn't in the keynote and it's great and I've been playing with it. So full                                                                 |
-| 01:50      | disclosure, I have it installed, the betas installed on my iPhone, my iPad and my Apple Watch.                                                                  |
+| 01:50      | disclosure, I have it installed, the betas installed on my iPhone, my iPad and my [[Apple Watch]].                                                                  |
 | 01:58      | David, where are you at beta-wise right now?                                                                                                              |
 | 02:00      | Okay, so I have just gone completely crazy. I've got it on, I've got the Big Sur on the                                                                   |
 | 02:06      | laptop but not on my main machine and everything else that I own has the beta sign except my                                                              |
@@ -96,12 +96,12 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 03:24      | Yeah, and well keynote wise, there were a couple of things. I spotted [[Shortcuts]] in a                                                                  |
 | 03:29      | couple of places in the keynote and the widgets on the screen and I've since played and I                                                                 |
 | 03:33      | love that I can stack multiple [[Shortcuts]] widgets on top of one another. And I also did spot                                                           |
-| 03:38      | it on the Apple Watch, which is great as well. So [[Shortcuts]] is actually on my Apple Watch                                                             |
-| 03:43      | and I now have 666 shortcuts on my Apple Watch because it just put all of them on there.                                                                  |
+| 03:38      | it on the [[Apple Watch]], which is great as well. So [[Shortcuts]] is actually on my [[Apple Watch]]                                                             |
+| 03:43      | and I now have 666 shortcuts on my [[Apple Watch]] because it just put all of them on there.                                                                  |
 | 03:48      | So that's great.                                                                                                                                          |
 | 03:49      | That'll be a fun afternoon moving some of those off or like 660 of them off.                                                                              |
 | 03:55      | So just to kind of go in the weeds on that, when you create any shortcut and you modify                                                                   |
-| 04:00      | the shortcut, there's now a switch that allows you to say put this on Apple Watch. So I'm                                                                 |
+| 04:00      | the shortcut, there's now a switch that allows you to say put this on [[Apple Watch]]. So I'm                                                                 |
 | 04:05      | guessing what happens is that switches on by default. So all of your shortcuts have                                                                       |
 | 04:09      | that box.                                                                                                                                                 |
 | 04:10      | Yeah.                                                                                                                                                     |
@@ -292,13 +292,13 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 18:23      | Yeah. One of the things that I forgot to mention at the top of the show is that the shortcuts                                                             |
 | 18:27      | colours are more colourful now. They're not quite as muted. It looks nice.                                                                                |
 | 18:32      | Yeah, it is nice. It's a little bit more vibrant and adds a bit more back.                                                                                |
-| 18:37      | Now a trigger because with the new operating system and the Apple Watch update, they're                                                                   |
+| 18:37      | Now a trigger because with the new operating system and the [[Apple Watch]] update, they're                                                                   |
 | 18:43      | really making a big push on sleep. And [[Mike Schmitz\|Mike]] and I talked about this over on [[Focused]] podcast.                                        |
 | 18:47      | I'm sure you guys have probably talked about it on [[Nested Folders]] as well. But the big                                                                |
 | 18:51      | deal with sleep is not getting a pretty alarm. It's actually getting enough sleep.                                                                        |
 | 18:56      | I know. And I like that the shortcuts team was able to get on that bandwagon too because                                                                  |
 | 19:02      | now going to sleep is a trigger.                                                                                                                          |
-| 19:05      | Yeah, it is. So they added sleeping as a whole feature to the Apple Watch and to your iPhone.                                                             |
+| 19:05      | Yeah, it is. So they added sleeping as a whole feature to the [[Apple Watch]] and to your iPhone.                                                             |
 | 19:12      | And it syncs across devices, which is great. So it's automatically going to put all of                                                                    |
 | 19:16      | your devices in do not disturb at the same time for sleep, which is great. And you can                                                                    |
 | 19:21      | run shortcuts as part of this with the wind down and when you're going to sleep and things                                                                |
@@ -429,7 +429,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 29:21      | Yeah. And especially the workout stuff combined with the fact [[Shortcuts]] is now on the Apple                                                           |
 | 29:25      | Watch. Yeah.                                                                                                                                              |
 | 29:26      | That is great because now you can actually start, and you can have a specific shortcut                                                                    |
-| 29:31      | in a specific, uh, complication on your Apple watch. So you can switch to your, your workout                                                              |
+| 29:31      | in a specific, uh, complication on your [[Apple Watch]]. So you can switch to your, your workout                                                              |
 | 29:36      | face and have, um, you know, your shortcut there and just tap on it and it'll start the                                                                   |
 | 29:41      | workout. It'll play your music, put you in, do not disturb it and so on. And then when                                                                    |
 | 29:45      | you end the workout, it'll do a bunch of other things, you know, whatever it is you                                                                       |
@@ -468,7 +468,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 32:15      | this year. I'm, I'm very happy because when you want, when we watched the short, the,                                                                     |
 | 32:19      | uh, the keynote, they didn't even mention. So I'm like, well, did [[Shortcuts]] get love                                                                  |
 | 32:23      | this year? And it did. Oh yeah. All the love. Um, we've been talking off and on throughout                                                                |
-| 32:28      | the show about [[Shortcuts]] and the Apple watch, but now there's [[Shortcuts]] on the Apple watch.                                                       |
+| 32:28      | the show about [[Shortcuts]] and the [[Apple Watch]], but now there's [[Shortcuts]] on the [[Apple Watch]].                                                       |
 | 32:33      | Yes, there is. And, um, I alluded to this earlier, but what you can do is, uh, one app                                                                    |
 | 32:40      | can now have multiple complications in, um, so say, for example, you've got that, um,                                                                     |
 | 32:47      | what is it? The infograph face, infograph modular. That's what I'm thinking of. Okay.                                                                     |
@@ -504,8 +504,8 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 34:54      | going to be fun.                                                                                                                                          |
 | 34:55      | And I'm going to be updating [Take Control of Shortcuts](https://www.takecontrolbooks.com/shortcuts/) as well for anybody who's, who's                    |
 | 35:00      | got that book. It's going to need an update after all this.                                                                                               |
-| 35:03      | Yeah, definitely. Apple Watch, well, we're talking about the Apple Watch. Let's talk                                                                      |
-| 35:07      | about the Apple Watch related actions because we get some new actions related Apple Watch.                                                                |
+| 35:03      | Yeah, definitely. [[Apple Watch]], well, we're talking about the [[Apple Watch]]. Let's talk                                                                      |
+| 35:07      | about the [[Apple Watch]] related actions because we get some new actions related [[Apple Watch]].                                                                |
 | 35:11      | Yeah, we did. So this is one I asked for. And I'm sure I bugged the [[Shortcuts]] team about                                                              |
 | 35:16      | this like 8,000 times. So thank you to everybody else who also bugged the [[Shortcuts]] team about                                                        |
 | 35:21      | this by filing feedback. Uh, we can change our watch faces by a shortcut action now.                                                                      |
@@ -553,7 +553,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 37:58      | Um, and one of the things that we'll do now is it will, as well as starting my swimming                                                                   |
 | 38:02      | workout, uh, it's also going to turn on the water lock.                                                                                                   |
 | 38:06      | And then when I finished, I can turn off the water lock.                                                                                                  |
-| 38:08      | Did you see the guy that did the slow motion video of the Apple watch ejecting the water?                                                                 |
+| 38:08      | Did you see the guy that did the slow motion video of the [[Apple Watch]] ejecting the water?                                                                 |
 | 38:13      | I did not.                                                                                                                                                |
 | 38:14      | That sounds pretty cool.                                                                                                                                  |
 | 38:15      | I'm going to put it in the show notes.                                                                                                                    |

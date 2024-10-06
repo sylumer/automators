@@ -114,8 +114,8 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 03:11      | on.                                                                                                   |
 | 03:12      | But at the same time, just like the early iPad, even the early iPods and iPhones, there               |
 | 03:18      | were big jumps between those first releases.                                                          |
-| 03:22      | If we look at a more recent example of the Apple Watch, there was a huge jump between                 |
-| 03:27      | the first gen Apple Watch and the later Apple Watches, especially when it came to the operating       |
+| 03:22      | If we look at a more recent example of the [[Apple Watch]], there was a huge jump between                 |
+| 03:27      | the first gen [[Apple Watch]] and the later [[Apple Watch\|Apple Watches]], especially when it came to the operating       |
 | 03:31      | system on it.                                                                                         |
 | 03:34      | And on top of that, we've got the M1 Max that came out.                                               |
 | 03:37      | They made some pretty big jumps as well.                                                              |
@@ -568,7 +568,7 @@ David's strapped on his Vision Pro and the Automators take a look to see what ca
 | 32:40      | forget it.                                                                                            |
 | 32:41      | That's out already.                                                                                   |
 | 32:43      | And Vision OS 1.1 is in beta, it's in developer beta to be clear, I don't think there's a             |
-| 32:48      | public beta of it and it's kind of like the Apple Watch, I'm not sure, you know, how willing          |
+| 32:48      | public beta of it and it's kind of like the [[Apple Watch]], I'm not sure, you know, how willing          |
 | 32:53      | people should be to just throw a beta on their Vision Pro, because I don't know how easy              |
 | 32:58      | that thing is to restore if it goes wrong, but yeah, you know, I think we're going to                 |
 | 33:03      | see a lot of changes in a very short period of time, which is one of the reasons why I'm              |

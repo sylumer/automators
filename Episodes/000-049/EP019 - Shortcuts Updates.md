@@ -502,7 +502,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 22:21      | I have no idea why I put that there one day, but it's there.                                      |
 | 22:24      | Yep, yep, that's one of these things.                                                             |
 | 22:27      | And don't forget that there are separate alarms                                                   |
-| 22:30      | on your Apple Watches to the ones on your iPhone as well.                                         |
+| 22:30      | on your [[Apple Watch\|Apple Watches]] to the ones on your iPhone as well.                                         |
 | 22:33      | So you may want to pop in and check on that                                                       |
 | 22:35      | if you're having a clear route.                                                                   |
 | 22:37      | Those are more tedious to get rid of too,                                                         |

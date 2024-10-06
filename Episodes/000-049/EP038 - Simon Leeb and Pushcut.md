@@ -195,7 +195,7 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 09:55      | It's good they work and nothing, series of lovely lady I'm sure, but I was never, maybe             |
 | 10:00      | it's also the German thing, it doesn't feel all too reliable, and it always felt weird              |
 | 10:06      | to me to speak out loud in my apartment, especially when other people are home.                     |
-| 10:12      | And I always really loved the Apple Watch, the complications with quick buttons and that            |
+| 10:12      | And I always really loved the [[Apple Watch]], the complications with quick buttons and that            |
 | 10:19      | sort of thing.                                                                                      |
 | 10:20      | I loved having the one, two taps for the things where you can trigger the things you                |
 | 10:27      | do every day with a tap instead of talking to some lady in the can.                                 |
@@ -537,11 +537,11 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 31:34      | And the notification system is pretty much instant too.                                             |
 | 31:38      | So I was quite happy with that, to be honest, I felt like now it has arrived.                       |
 | 31:42      | Now that's what I wanted.                                                                           |
-| 31:44      | And you add in the Apple Watch app in the mix.                                                      |
+| 31:44      | And you add in the [[Apple Watch]] app in the mix.                                                      |
 | 31:47      | And it's truly magical little interactions, I feel like.                                            |
 | 31:50      | That's kind of like that happened recently.                                                         |
 | 31:53      | So a few weeks ago, I felt like now it's what I always wanted it to be in a way.                    |
-| 31:58      | Well, before we dive into the Apple Watch app, I do just want to ask a few more questions           |
+| 31:58      | Well, before we dive into the [[Apple Watch]] app, I do just want to ask a few more questions           |
 | 32:02      | because you mentioned that you can just paste the URL for the notification to the get contents      |
 | 32:07      | of your election.                                                                                   |
 | 32:08      | But I know that that makes a get call, which basically goes, hello, can you give me something?      |
@@ -771,14 +771,14 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 45:37      | Because then it doesn't mean that your mistake is the end of your PushCut experience.               |
 | 45:41      | Now, Simon, you added a feature recently.                                                           |
 | 45:44      | In fact, it's one of the main reasons I want to have you on the show, because I think it's          |
-| 45:47      | just so useful, is the Apple Watch integration.                                                     |
+| 45:47      | just so useful, is the [[Apple Watch]] integration.                                                     |
 | 45:50      | Why don't you talk us through that?                                                                 |
-| 45:52      | You know, I love the Apple Watch.                                                                   |
+| 45:52      | You know, I love the [[Apple Watch]].                                                                   |
 | 45:54      | I have for years.                                                                                   |
 | 45:57      | But for this app, I didn't really feel the originally it ran shortcuts, and it would                |
 | 46:03      | open other apps through the URLs, right?                                                            |
 | 46:05      | That's what you would do.                                                                           |
-| 46:07      | And both of these things don't work on the Apple Watch.                                             |
+| 46:07      | And both of these things don't work on the [[Apple Watch]].                                             |
 | 46:10      | So sadly, I just felt, well, not this time, maybe with the next step I do, I'll make something      |
 | 46:16      | more watch-friendly.                                                                                |
 | 46:18      | But then I started adding online actions where you can trigger Zapier or [[Make\|Integromat]] directly.       |

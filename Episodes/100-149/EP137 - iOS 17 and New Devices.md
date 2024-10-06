@@ -64,14 +64,14 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 01:02      | automation possibilities brought by new hardware are actually really exciting.                           |
 | 01:10      | I'm also very excited to see how some of the things from Vision Pro are clearly making                   |
 | 01:15      | their way into other software, so that pinching your finger and thumb together to do things              |
-| 01:21      | on your Apple Watch.                                                                                     |
+| 01:21      | on your [[Apple Watch]].                                                                                     |
 | 01:22      | I've heard that there isn't an API for this, that this is only available to first-party                  |
 | 01:28      | apps like the native timer app rather than, say, a timer-y, but I still think that that's                |
 | 01:34      | going to be pretty awesome, and I'm very excited to see what I'm going to be able to do with             |
 | 01:37      | shortcuts with that because, yeah, just tapping my finger and thumb together to run a shortcut,          |
 | 01:43      | that could be pretty cool, so yeah, well, I guess I'll have to wait and see on that,                     |
-| 01:46      | but I might have already bought my new Apple Watch, David.                                               |
-| 01:50      | Yeah, you need the new Apple Watch with the neural engine on the chip to do that, so if                  |
+| 01:46      | but I might have already bought my new [[Apple Watch]], David.                                               |
+| 01:50      | Yeah, you need the new [[Apple Watch]] with the neural engine on the chip to do that, so if                  |
 | 01:55      | you've got an older one, it's not going to work yet, but you know how it goes.                           |
 | 01:59      | Once they add this to the stack, it's just a question of time until you get an update                    |
 | 02:03      | in a year or two, and then you've got that feature too, but it is totally in my mind                     |
@@ -122,7 +122,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 05:40      | button, I find I found myself not using it as much as I thought I would or hoped I would.                |
 | 05:45      | And the performance just wasn't there. However, I feel like on the iPhone, a, we're going                |
 | 05:51      | to have like all of the shortcuts actions that we have in shortcuts instead of that limited              |
-| 05:54      | subset that work on the Apple Watch because you've installed the apps on the Apple Watch                 |
+| 05:54      | subset that work on the [[Apple Watch]] because you've installed the apps on the [[Apple Watch]]                 |
 | 05:58      | and so on and so forth. And, and be, you know, we've just got a whole lot more power. I mean,            |
 | 06:02      | there's a 17 processor in the iPhone pro. So I feel like it's going to be able to do some                |
 | 06:07      | pretty cool stuff. And I'm hoping that the action button will unlock some new things for me there.       |
@@ -265,7 +265,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 18:45      | this year. So that's pretty cool. Yeah. And yeah, I'm glad that shortcuts was explicitly called out      |
 | 18:52      | on stage and like shown right there in the middle of the bottom row as one of the options that you       |
 | 18:56      | can do with this. All right. Without getting deep into all the details of the new hardware,              |
-| 19:02      | what are you ordering? So I've already mentioned I've ordered a pink Apple Watch Series 9                |
+| 19:02      | what are you ordering? So I've already mentioned I've ordered a pink [[Apple Watch]] Series 9                |
 | 19:08      | at the 41 millimeters because the ultra hanging off the sides of my wrist is not the limited to          |
 | 19:15      | the ultra. This happens with any big watch and the small one will be pretty much the same size           |
 | 19:19      | as that. And I'm going to go, David, I'm going Pro Max this year. I'm going for the iPhone 15            |
@@ -370,7 +370,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 28:30      | is an option, we can silence notifications always or while locked. So I guess that's new.                |
 | 28:36      | All right. It's hard to keep track of this stuff, Rose. But yeah, that's some great                      |
 | 28:39      | automation there. Go in when you get in and just use focus modes. We did a poll in the                   |
-| 28:45      | MacSparky Labs related to the Apple Watch. And one of my questions was, do you use the Apple Watch      |
+| 28:45      | MacSparky Labs related to the [[Apple Watch]]. And one of my questions was, do you use the [[Apple Watch]]      |
 | 28:52      | to trigger focus modes? And it had abysmally low response rate, that question. And as I got            |
 | 28:59      | talking to people who answered the poll, I just think not very many people use focus modes.              |
 | 29:04      | And man, as automators, this is such gold, these focus modes, they make it so easy to                    |
@@ -428,7 +428,7 @@ In this episode, David and Rosemary do a recap of what's new in iOS 17 and iPadO
 | 34:08      | harder. But man, the shortcut stuff is really easy. It's a one action, start a timer.                    |
 | 34:13      | Yeah. The only thing that's missing from the timer actions, and I don't know why this is missing,        |
 | 34:18      | I have file feedback on this to be clear. But so now on the iPhone, what you can do is just like         |
-| 34:25      | you could do on HomePod in the Apple Watch before, you can have multiple concurrent timers and you       |
+| 34:25      | you could do on HomePod in the [[Apple Watch]] before, you can have multiple concurrent timers and you       |
 | 34:30      | can give them labels. For some reason, labels are not present in shortcuts. So if you wanted to have     |
 | 34:36      | like a thing that would, I don't know, help you cook a lovely meal. And it's something that you          |
 | 34:41      | do on a regular basis. And you know, this needs to cook for 12 minutes. And that needs to rest           |

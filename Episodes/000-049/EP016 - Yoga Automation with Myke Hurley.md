@@ -534,7 +534,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 28:57      | that's textexpander.com/podcast our thanks to TextExpander for their support of             |
 | 29:02      | this show and all of Relay FM so mike uh let's uh let's talk about some more of your your favourite      |
 | 29:10      | shortcuts all right so I have one called yoga time which is very simple okay uh I don't wear an         |
-| 29:18      | apple watch uh so I can't track my exercise using the apple watch but shortcuts has some                |
+| 29:18      | [[Apple Watch]] uh so I can't track my exercise using the [[Apple Watch]] but shortcuts has some                |
 | 29:25      | actions built right in for uh the health app so when I hit the yoga time it puts my phone on do         |
 | 29:33      | not disturb for 30 minutes and sets a 30 minute manual workout into the health app um and I haven't     |
 | 29:41      | done this yet but I'm I also like to do my I also like to do yoga at home and I like to do about        |
@@ -687,7 +687,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 43:39      | the lights um and I wanted to um usually remind me to do something i I do use [[Apple Reminders\|Reminders]] for just a      |
 | 43:46      | few things just to have it like tell me and uh it doesn't work then because it hasn't my iPhone         |
 | 43:52      | hasn't yet connected to the wi-fi or the HomePod hasn't yet recognised that the iPhone is              |
-| 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my apple watch now which        |
+| 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my [[Apple Watch]] now which        |
 | 44:04      | is working quite nicely I have to say yeah that's something that could get better yeah definitely       |
 | 44:11      | but mike you don't just do [[Shortcuts\|Siri Shortcuts]] you also have gone down the rabbit hole of web              |
 | 44:17      | automation mm-hmm yeah I use I use Zapier most pretty much entirely for my web automation now             |

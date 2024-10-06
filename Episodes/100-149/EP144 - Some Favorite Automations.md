@@ -173,7 +173,7 @@ Rosemary and David share some of their favourite automations as the year wraps u
 | 07:42      | That was an automation that didn't really work for me, even though it should have, right?          |
 | 07:47      | In terms of getting me to do the comms, I've tried all these different techniques and what         |
 | 07:51      | I've settled on the last three or four months is, and this is where I'm not sure if it's           |
-| 07:56      | automation, but every day at four o'clock there's a standing alarm on my Apple Watch               |
+| 07:56      | automation, but every day at four o'clock there's a standing alarm on my [[Apple Watch]]               |
 | 08:02      | and my wrist taps.                                                                                 |
 | 08:03      | So no matter where I am, it just taps and it does say, hey, column's time, you know,               |
 | 08:09      | whatever.                                                                                          |

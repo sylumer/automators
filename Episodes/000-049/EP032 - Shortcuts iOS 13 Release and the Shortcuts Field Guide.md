@@ -103,7 +103,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 02:31      | Okay.                                                                                                  |
 | 02:32      | It could have been worse.                                                                              |
 | 02:34      | They could have also announced the tracking thingy, which I would totally have thought.                |
-| 02:39      | But as it is, I've already ordered an Apple Watch.                                                     |
+| 02:39      | But as it is, I've already ordered an [[Apple Watch]].                                                     |
 | 02:42      | It is arriving on release day and I will be getting an iPhone 11 Pro, not the Max, because             |
 | 02:50      | I currently have the Max and I drop it somewhat frequently and I feel like it didn't drop              |
 | 02:54      | my 10 and you went near as much.                                                                       |
@@ -134,7 +134,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 03:55      | I want to use those three lenses to do some examples in that book.                                     |
 | 04:00      | But the thing that got me in the presentation was the watch because I knew I did not need              |
 | 04:07      | a new watch.                                                                                           |
-| 04:08      | I have a nice Apple watch and it's like, it's funny when they say always on how fast                   |
+| 04:08      | I have a nice [[Apple Watch]] and it's like, it's funny when they say always on how fast                   |
 | 04:14      | the switch flipped in my brain.                                                                        |
 | 04:16      | Yeah.                                                                                                  |
 | 04:17      | Yeah.                                                                                                  |

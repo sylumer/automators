@@ -327,7 +327,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 10:40      | Yeah.                                                                          |
 | 10:41      | Yeah.                                                                          |
 | 10:42      | Oh wow.                                                                        |
-| 10:43      | I believe it's only iPhones and Apple Watches                                  |
+| 10:43      | I believe it's only iPhones and [[Apple Watch\|Apple Watches]]                                  |
 | 10:46      | that it will go to as well.                                                    |
 | 10:49      | But yeah, there's the option,                                                  |
 | 10:52      | I believe it is under in the Home app.                                         |

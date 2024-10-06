@@ -627,7 +627,7 @@ Alex Cox returns to the Automators to share a few new automation tricks and get 
 | 01:01:56   | not that being a giant thing. This isn't do by Friday, this is automated, sorry.                        |
 | 01:02:04   | But at the same time, time tracking is a really valuable tool and being able to automate that           |
 | 01:02:10   | is something that's really, really useful. So I've been automating a bunch of my time tracking.         |
-| 01:02:14   | You know, if I'm taking a ballet class or an acrobatics class, guess what? I run my Apple Watch         |
+| 01:02:14   | You know, if I'm taking a ballet class or an acrobatics class, guess what? I run my [[Apple Watch]]         |
 | 01:02:20   | workout tracking and that starts a timer timer. And then when it stops, it stops the timer timer.       |
 | 01:02:26   | Really simple. I get into my car and start driving. It starts a driving timer. I get out of my car      |
 | 01:02:31   | and therefore I've stopped driving. It stops my driving timer and it allows me to just know where       |
