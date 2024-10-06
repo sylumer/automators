@@ -139,7 +139,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 03:31      | And then data analysis in an app just kind of led to probably what became Charty, right?              |
 | 03:37      | Yeah, sort of.                                                                                         |
 | 03:39      | I've always loved data visualisation and starting data about myself.                                   |
-| 03:43      | So I've used Apple health and everything to start data about me and stuff I do.                        |
+| 03:43      | So I've used [[Apple Health]] and everything to start data about me and stuff I do.                        |
 | 03:50      | So there was one year I guess it was 2009 that I've started every, the data I've watched               |
 | 03:58      | each TV series for a year and in the end I made an infographic.                                        |
 | 04:04      | So it's something about me that I'd like to visualise stuff.                                           |

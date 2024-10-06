@@ -742,7 +742,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 43:49      | The FitBod app is so simple to use and recently got updated with a fantastic new design                 |
 | 43:54      | with brand new HD video tutorials shot from multiple angles to make sure that learning                  |
 | 44:00      | each exercise is a breeze, and it also integrates with your Apple Watch.                                |
-| 44:05      | Wear OS smartwatch and apps like Strava, Fitbit, and Apple Health.                                      |
+| 44:05      | Wear OS smartwatch and apps like Strava, Fitbit, and [[Apple Health]].                                      |
 | 44:10      | Personalised training of this quality can be expensive, but FitBod is just $12.99 a month               |
 | 44:15      | or $79.99 a year, and you can get an even better price.                                                 |
 | 44:19      | You can get 25% off your membership by signing up at fitbod.me/automators.                        |

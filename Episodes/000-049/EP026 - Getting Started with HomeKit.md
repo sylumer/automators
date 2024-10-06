@@ -849,7 +849,7 @@ Rose is now banned from scooters, and how get started with HomeKit - from buildi
 | 01:00:55   | the week. Yeah. And then have all the days of the week in a dictionary and have different songs          |
 | 01:01:00   | connected to them. Yes. Or different playlists. What I what I need is a is a Wi-Fi enabled mood          |
 | 01:01:07   | ring. Right. Oh, yeah. So I think there is actually like a health tracking fitness ring,                 |
-| 01:01:13   | but I don't know if it actually connects into Apple health. Yeah. If I could read my mood,               |
+| 01:01:13   | but I don't know if it actually connects into [[Apple Health]]. Yeah. If I could read my mood,               |
 | 01:01:17   | then it could play like maybe it plays some Miles Davis, if I'm kind of down and it plays,               |
 | 01:01:22   | you know, Star Wars, if I'm really up. I don't know. This story is not finished yet.                     |
 | 01:01:27   | Let's just put it that way. No, we'll put this way. We're going to come back into a follow-up            |

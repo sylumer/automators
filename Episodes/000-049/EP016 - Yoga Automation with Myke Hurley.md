@@ -553,7 +553,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 30:50      | read the data that's in there out yes it doesn't make any sense because it's like it's between two      |
 | 30:55      | iPhones why can't you just let me have it on the iPad exactly though if this is the reason that I       |
 | 30:59      | actually started this work this shortcut because the app that I use which is called uh it's called      |
-| 31:07      | daily yoga it has a apple health integration but it doesn't work on the iPad yeah right so it it can    |
+| 31:07      | daily yoga it has a [[Apple Health]] integration but it doesn't work on the iPad yeah right so it it can    |
 | 31:14      | write the health data but only if you use it on the iPhone so that was when I was like I wonder         |
 | 31:19      | if shortcuts has the ability to add that and as has been since shortcuts existed typically the          |
 | 31:26      | answer is yes now I'm supposed to know um and yeah there's health actions in there so I can even uh     |

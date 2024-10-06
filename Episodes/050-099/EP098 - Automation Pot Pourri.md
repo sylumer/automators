@@ -1202,7 +1202,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 47:42      | to make sure that learning each exercise is a breeze.                 |
 | 47:46      | And it also integrates with your Apple Watch,                         |
 | 47:48      | Wear OS, SmartWatch and apps like Strava, Fitbit                      |
-| 47:51      | and Apple Health.                                                     |
+| 47:51      | and [[Apple Health]].                                                     |
 | 47:53      | Personalised training of this quality can be expensive,               |
 | 47:56      | but Fitbod is just $12.99 a month or $79.99 a year.                   |
 | 48:00      | But you can get 25% off your membership                               |

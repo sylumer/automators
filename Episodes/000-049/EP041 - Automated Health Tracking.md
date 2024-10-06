@@ -216,7 +216,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 11:57      | health application. You may have to trigger it from inside the, my fitness pal settings                |
 | 12:01      | to do that. Um, but you, you can integrate with all of that information there and sink                 |
 | 12:05      | your weights and everything. So if you've got, for example, health kit scales, uh, like                |
-| 12:09      | the, I think it's why things scale, um, connects to the apple health app, then that data also          |
+| 12:09      | the, I think it's why things scale, um, connects to the [[Apple Health]] app, then that data also          |
 | 12:14      | ends up in my fitness pal, um, very easily, which is very useful. Um, and I, I have to                 |
 | 12:20      | say I've always enjoyed my fitness pal and the fact that you can create recipes in it                  |
 | 12:24      | as well because I love to kick. So being able to put my recipe in there and then say, okay,            |
@@ -501,7 +501,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 35:27      | We do.                                                                                                 |
 | 35:28      | Yes. And I think the first one that I would like to mention is turning the not so smart health         |
 | 35:35      | tracking devices that we have. I've got a pair of Fitbit scales and I want to get this information     |
-| 35:42      | into the Apple Health app. And so I've set up a series of shortcuts and I have a shortcut whenever     |
+| 35:42      | into the [[Apple Health]] app. And so I've set up a series of shortcuts and I have a shortcut whenever     |
 | 35:48      | I step on the scales, I run it and it asks me how much I weigh, what my body fat percentage is,        |
 | 35:52      | and then it calculates my BMI and it saves all of these three data points into shortcuts.              |
 | 35:58      | And this led me down a whole rabbit hole because it turns out my dad has been testing his blood        |

@@ -410,7 +410,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 25:20      | to make sure you're not overworking anything. The Fitbod app is so simple to use and recently           |
 | 25:25      | got updated with a fantastic new design with brand new HD video tutorials shot from multiple            |
 | 25:30      | angles to make sure that learning each exercise is a breeze. And it also integrates with your Apple     |
-| 25:35      | watch, Wear OS, smartwatch and apps like Strava, Fitbit and Apple Health. Personalised training         |
+| 25:35      | watch, Wear OS, smartwatch and apps like Strava, Fitbit and [[Apple Health]]. Personalised training         |
 | 25:42      | of this quality can be expensive, but Fitbod is just $12.99 a month or $79.99 a year. But you can       |
 | 25:48      | get 25% off your membership by signing up at Fitbod.me/automators. So kick off the new year       |
 | 25:55      | right and get your customised fitness plan at Fitbod.me/automators and you'll get that 25%        |
