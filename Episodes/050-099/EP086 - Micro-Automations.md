@@ -216,7 +216,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 09:12      | But it is very easy to write a single line of [[AppleScript]] and have it do great things.                 |
 | 09:18      | Yeah.                                                                                                   |
 | 09:19      | I would recommend if you're unfamiliar with [[AppleScript]], if you want to do the proper                  |
-| 09:25      | thing and get a book on it, I think [[Sal Soghoian\|Sal Soghoian's]] AppleScript one, two, three is probably              |
+| 09:25      | thing and get a book on it, I think [[Sal Soghoian\|Sal Soghoian's]] AppleScript 1-2-3 is probably              |
 | 09:31      | the book to start with.                                                                                 |
 | 09:33      | There are other ones out there that are good too, but Sal's a friend and when I read it,                |
 | 09:38      | I hear his voice and I took his course at Macworld and I think, you know, he's the guy                  |

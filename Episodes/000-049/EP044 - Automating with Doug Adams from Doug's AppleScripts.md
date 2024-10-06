@@ -634,7 +634,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 32:00      | else.                                                                                                |
 | 32:01      | [[JavaScript]], the Perl came really easy, and then everything else just fell into place                 |
 | 32:06      | after that.                                                                                          |
-| 32:07      | I would add to that a book recommendation, Sal Soghoians, AppleScript one, two, three.             |
+| 32:07      | I would add to that a book recommendation, [[Sal Soghoian\|Sal Soghoian's]], AppleScript 1-2-3.             |
 | 32:11      | That's a good one.                                                                                   |
 | 32:12      | Absolutely.                                                                                          |
 | 32:13      | Yeah.                                                                                                |
