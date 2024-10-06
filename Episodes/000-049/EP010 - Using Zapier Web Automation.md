@@ -855,7 +855,7 @@ Today we venture into the brave new world of web automation, and we start with g
 | 34:57      | it will actually send me a push notification to go,                                                            |
 | 34:59      | hey, there was a problem, you should fix this                                                                  |
 | 35:03      | and tell me what the error was and where I can find more information.                                          |
-| 35:06      | So I've integrated that same thing into my [[Zapier]]'s apps                                                       |
+| 35:06      | So I've integrated that same thing into my [[Zapier\|Zapier's]] apps                                                       |
 | 35:08      | where I need to know that they've happened.                                                                    |
 | 35:11      | And you can actually even use this, this is a tip for people listening.                                        |
 | 35:15      | If you want to, you can use [[URL Schemes]] with it.                                                               |

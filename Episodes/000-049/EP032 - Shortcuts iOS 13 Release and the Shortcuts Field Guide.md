@@ -233,7 +233,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 09:17      | Automators should automate donations, right?                                                           |
 | 09:20      | Yeah.                                                                                                  |
 | 09:21      | Well, you could set it up on a monthly cycle if you really want to.                                    |
-| 09:24      | Well, no, I was thinking like, you know, maybe a [[Keyboard Maestro]]'s script on the web page.            |
+| 09:24      | Well, no, I was thinking like, you know, maybe a [[Keyboard Maestro\|Keyboard Maestro's]] script on the web page.            |
 | 09:29      | I don't know.                                                                                          |
 | 09:30      | I bet you could do it.                                                                                 |
 | 09:31      | Somebody in the forums is going to come up with something great of that, I'm sure.                     |

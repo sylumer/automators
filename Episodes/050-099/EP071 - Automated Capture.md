@@ -1156,7 +1156,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 01:14:16   | It's only got two macros or two actions, whereas Automator has several.                                  |
 | 01:14:23   | So if you need to upgrade from Automator, you are going to be looking at AppleScript                     |
 | 01:14:27   | pretty much, and that is going to be, you know, your process.                                            |
-| 01:14:33   | Now you could probably use [[Keyboard Maestro]]'s click-it image to find the drop-down arrow                 |
+| 01:14:33   | Now you could probably use [[Keyboard Maestro\|Keyboard Maestro's]] click-it image to find the drop-down arrow                 |
 | 01:14:42   | next to the person in the to field and click that, and then click search for person.                     |
 | 01:14:51   | But I think that's going to be a pretty hacky way of doing it.                                           |
 | 01:14:54   | So I would recommend sticking to it manually unless you can find an AppleScript that solves              |

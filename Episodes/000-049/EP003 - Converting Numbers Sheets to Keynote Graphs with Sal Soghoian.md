@@ -325,7 +325,7 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 18:12      | With [[AppleScript]], let's look at the second line here, tell the first table of the active                                                                             |
 | 18:18      | sheet of the front document.                                                                                                                                             |
 | 18:21      | So that means we're targeting a very specific object that's in the front document.                                                                                       |
-| 18:28      | And you'll notice the word front, that indicates [[AppleScript]]'s way of saying the first item,                                                                         |
+| 18:28      | And you'll notice the word front, that indicates [[AppleScript\|AppleScript's]] way of saying the first item,                                                                         |
 | 18:36      | the first document, and maybe a stack of documents.                                                                                                                      |
 | 18:39      | On the Mac, we can have multiple documents open simultaneously.                                                                                                          |
 | 18:44      | So [[AppleScript]] needs a way to indicate which one is the one you want to talk to.                                                                                     |

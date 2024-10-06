@@ -1201,7 +1201,7 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:06:55   | So I will, I'll have to avoid that.                                                                       |
 | 01:06:57   | So let me weigh in a little bit.                                                                          |
 | 01:06:58   | I've been using them both and they're both delightful.                                                    |
-| 01:07:01   | I think [[Alfred]]'s new extension system is really good and [[Raycast]] has some amazing pre-written             |
+| 01:07:01   | I think [[Alfred\|Alfred's]] new extension system is really good and [[Raycast]] has some amazing pre-written             |
 | 01:07:08   | extensions.                                                                                               |
 | 01:07:10   | I will say [[Alfred]], if you do any sort of file management, in my experience, [[Alfred]] runs                   |
 | 01:07:16   | circles around [[Raycast]].                                                                                   |

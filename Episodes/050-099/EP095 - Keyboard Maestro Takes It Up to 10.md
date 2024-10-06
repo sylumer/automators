@@ -934,23 +934,23 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 58:23      | And of course, the other option that you've got is to be able to calculate the time and                  |
 | 58:28      | say now plus 20 minutes or now minus 15 minutes or whatever, which is, again, great for that             |
 | 58:36      | date and time that you were talking about.                                                               |
-| 58:39      | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                  |
+| 58:39      | This episode of Automated is brought to you by DEVONthink, the flagship product from                  |
 | 58:43      | DEVONtechnologies.                                                                                    |
-| 58:44      | [[DEVONthink]] is the most professional document and information management application for               |
+| 58:44      | DEVONthink is the most professional document and information management application for               |
 | 58:48      | the Mac.                                                                                                 |
 | 58:49      | It's the one place for storing all your documents, snippets, all bookmarks, and working with             |
 | 58:53      | them.                                                                                                    |
 | 58:54      | The integrated AIs assist you with filing and searching or the extensive search language                 |
 | 58:58      | with advanced billions of search operators means you're never going to not find something.               |
-| 59:03      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
+| 59:03      | DEVONthink features a flexible sync system that supports many cloud services or lets                  |
 | 59:07      | you synchronise over the local network too, with everything securely encrypted.                          |
 | 59:11      | This gives you the choice for however syncing works best for you.                                        |
 | 59:14      | It has smart rules and flexible reminders that let you automate all parts of your workflow               |
 | 59:18      | and delegate boring, repeating tasks.                                                                    |
-| 59:21      | Let [[DEVONthink]] automate your data with rules you define.                                              |
-| 59:25      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac.                                |
-| 59:27      | There's no part of [[DEVONthink]] that can't be automated.                                                |
-| 59:30      | Extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts                |
+| 59:21      | Let DEVONthink automate your data with rules you define.                                              |
+| 59:25      | DEVONthink's AppleScript dictionary is one of the largest on the Mac.                                |
+| 59:27      | There's no part of DEVONthink that can't be automated.                                                |
+| 59:30      | Extend DEVONthink's functionality with your own commands by adding them to its scripts                |
 | 59:33      | menu.                                                                                                    |
 | 59:35      | Open templates can have scripts inside, and you can set up new documents with data from                  |
 | 59:38      | placeholders or inserted by your own AppleScript code.                                                  |
@@ -960,12 +960,12 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 59:54      | So everything that you can do in a rule you can do with batch processing, which means                    |
 | 59:57      | that that's great for one-off tasks, and then once I've figured it out, I can turn                       |
 | 01:00:01   | it into a rule, which is even better because all of my work does double duty.                            |
-| 01:00:05   | You should use [[DEVONthink]] if you've got documents and you're going to need to find                    |
+| 01:00:05   | You should use DEVONthink if you've got documents and you're going to need to find                    |
 | 01:00:09   | what's where, and you don't necessarily want to have to do all the filing yourself,                      |
 | 01:00:13   | but you need everything to be available everywhere.                                                      |
 | 01:00:16   | And I have to say, being able to find something, whether I archived it and filed it on my Mac            |
 | 01:00:20   | or my laptop or my phone, really makes my life much easier.                                              |
-| 01:00:25   | You can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                          |
+| 01:00:25   | You can get 10% off DEVONthink 3 or upgrade to it right now.                                          |
 | 01:00:28   | Just go to DEVONtechnologies.com/Automators, that's DEVONtechnologies.com/Automators       |
 | 01:00:32   | for 10% off.                                                                                             |
 | 01:00:33   | I'll thanks the DEVONtechnologies for their support of this show and all of Relay FM.                |

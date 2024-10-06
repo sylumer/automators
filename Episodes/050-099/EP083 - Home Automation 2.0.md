@@ -1615,7 +1615,7 @@ In this episode of Automators. David and Rosemary dive into Rosemary's updates t
 | 01:24:39   | The best way to do it is to run it as an operating system, either in something called a Docker    |
 | 01:24:42   | container, which is basically like a container with everything in it.                             |
 | 01:24:46   | Or in my case, I bought a Raspberry Pi.                                                           |
-| 01:24:49   | I bought a blue case for it because [[Home Assistant]]'s icon is blue.                                |
+| 01:24:49   | I bought a blue case for it because [[Home Assistant\|Home Assistant's]] icon is blue.                                |
 | 01:24:54   | And that is my [[Home Assistant]] setup, and it's just running on that.                               |
 | 01:24:59   | And I actually went as far as to get a [[Zigbee]] dongle and a Z-Wave dongle, which means it's        |
 | 01:25:05   | like a Hue or an [[Aqara]] or an IKEA hub.                                                            |

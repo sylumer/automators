@@ -530,7 +530,7 @@ Rose and David dig deep on all of Automator's varied automation tools.
 | 20:22      | and this is a historical tool                                     |
 | 20:24      | where it will use the [[artificial intelligence]].                    |
 | 20:26      | And we haven't mentioned it yet,                                  |
-| 20:28      | but one of [[DEVONthink]]'s selling points                         |
+| 20:28      | but one of [[DEVONthink\|DEVONthink's]] selling points                         |
 | 20:30      | is that it's really invested in AI in terms of search             |
 | 20:34      | and recognising what a file is and what a file contains.          |
 | 20:39      | And so they have this cool trick                                  |

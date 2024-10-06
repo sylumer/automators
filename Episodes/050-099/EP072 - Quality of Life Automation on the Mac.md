@@ -764,7 +764,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:00:08   | called me and had a couple of questions and I wanted to record that call into an [[Obsidian]] note.          |
 | 01:00:15   | So I quickly dictated it and I made a [[Drafts]] action that saves it to a very particular folder            |
 | 01:00:22   | in [[Dropbox]]. And the reason I use [[Dropbox]] for this one is because you can address individual              |
-| 01:00:27   | folders in [[Dropbox]] where with the iCloud you can't. So back on my Mac, [[Hazel]]'s looking at that folder    |
+| 01:00:27   | folders in [[Dropbox]] where with the iCloud you can't. So back on my Mac, [[Hazel\|Hazel's]] looking at that folder    |
 | 01:00:34   | and one of them is, you know, client communication notes, whatever, blah, blah, blah. But it sees a      |
 | 01:00:39   | new file appeared there and it just drops it right into [[Obsidian]] in the right place. So,                 |
 | 01:00:46   | you know, I can go to my Mac and everything is already there and I didn't have to spend a                |
@@ -1150,8 +1150,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:35:34   | network to with everything securely encrypted. This gives you the choice for however syncing             |
 | 01:35:39   | works best for you. It has smart rules and flexible reminders that let you automate all parts of your    |
 | 01:35:45   | workflow and delegate boring, repeating tasks. Let [[DEVONthink]] automatically organise your data        |
-| 01:35:50   | with rules you define. [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.         |
-| 01:35:55   | There's no part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality           |
+| 01:35:50   | with rules you define. [[DEVONthink\|DEVONthink's]] [[AppleScript]] dictionary is one of the largest on the Mac.         |
+| 01:35:55   | There's no part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink\|DEVONthink's]] functionality           |
 | 01:36:00   | with your own commands by adding them to its Scripts menu. Even templates can have Scripts inside        |
 | 01:36:06   | and you can set up new documents with data from placeholders or inserted by your own [[AppleScript]]        |
 | 01:36:12   | code. And of course, there's so much more from the iOS companion app to email archiving, scanning,       |

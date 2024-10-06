@@ -499,7 +499,7 @@ This week, Rosemary and David are joined by Jeff Richardson: lawyer by day, auto
 | 32:57      | I just fire up my iPad and then just use log me in to connect to the PC, which is always on in my       |
 | 33:03      | office and do what I need to do. But getting the access can be a little difficult. And this was a       |
 | 33:09      | perfect use of [[Keyboard Maestro]], especially a skill that you all have talked about before,              |
-| 33:14      | which is [[Keyboard Maestro]]'s ability to actually look at a part of a screen. Because when you have       |
+| 33:14      | which is [[Keyboard Maestro\|Keyboard Maestro's]] ability to actually look at a part of a screen. Because when you have       |
 | 33:19      | apps and log me in on the Mac as an example of it, it's an app that does not really want to be          |
 | 33:24      | automated. But that's okay, because [[Keyboard Maestro]], let's me get around that. I can just              |
 | 33:28      | tell [[Keyboard Maestro]], you know, when I press one key, I want you to log me into my Mac at my           |

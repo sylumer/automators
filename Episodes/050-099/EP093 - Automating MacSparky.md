@@ -984,40 +984,40 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 55:51      | Mac field guide, like in November, it just wasn't working.                                             |
 | 55:55      | Now it's working.                                                                                      |
 | 55:56      | So that's good, but there's some points.                                                               |
-| 56:01      | This episode of the automators is brought to you by [[DEVONthink]], the flagship product                  |
+| 56:01      | This episode of the automators is brought to you by DEVONthink, the flagship product                  |
 | 56:06      | from Devon Technologies.                                                                               |
 | 56:09      | Get organised and unleash your creativity.                                                             |
 | 56:11      | Just go to devontechnologies.com/automators to get 10% off.                                      |
-| 56:17      | [[DEVONthink]] is the most professional document and information management application for               |
+| 56:17      | DEVONthink is the most professional document and information management application for               |
 | 56:21      | the Mac.                                                                                               |
 | 56:22      | It's the one place for storing all of your documents, snippets and bookmarks and working               |
 | 56:27      | with them.                                                                                             |
 | 56:28      | Integrated artificial intelligence assists you with filing and searching while the extensive           |
 | 56:33      | search language with advanced Boolean operators is there to help you find even more.                   |
-| 56:38      | [[DEVONthink]] features a flexible sync system that supports many cloud services or lets                  |
+| 56:38      | DEVONthink features a flexible sync system that supports many cloud services or lets                  |
 | 56:43      | you synchronise over the local network too with everything securely encrypted.                         |
 | 56:48      | This gives you the choice of however syncing works best for you.                                       |
 | 56:52      | It has smart rules and flexible reminders that let you automate all parts of your workflow             |
 | 56:56      | and delegate boring repeating tasks.                                                                   |
-| 56:59      | So let [[DEVONthink]] automatically organise your data with rules you define.                             |
-| 57:04      | [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac.                                |
-| 57:07      | There's no part of [[DEVONthink]] that can't be automated.                                                |
-| 57:09      | So extend [[DEVONthink]]'s functionality with your own commands by adding them to its scripts             |
+| 56:59      | So let DEVONthink automatically organise your data with rules you define.                             |
+| 57:04      | DEVONthink's [[AppleScript dictionary is one of the largest on the Mac.                                |
+| 57:07      | There's no part of DEVONthink that can't be automated.                                                |
+| 57:09      | So extend DEVONthink's functionality with your own commands by adding them to its scripts             |
 | 57:14      | menu.                                                                                                  |
 | 57:15      | Even templates have scripts inside and you can set up new documents with data from placeholders        |
-| 57:20      | or inserted by your own [[AppleScript]] code.                                                             |
+| 57:20      | or inserted by your own AppleScript code.                                                             |
 | 57:23      | It's really kind of awesome.                                                                           |
 | 57:25      | And of course there's so much more from an iOS companion app to email archiving scanning               |
 | 57:30      | or even an embedded web server for sharing your data securely with your team.                          |
-| 57:35      | I'm a big fan of [[DEVONthink]].                                                                          |
+| 57:35      | I'm a big fan of DEVONthink.                                                                          |
 | 57:36      | I keep a bunch of data in there.                                                                       |
 | 57:39      | Not only do I like the way it manages documents, I like the automation.                                |
-| 57:43      | I like the fact that you can link anything inside [[DEVONthink]].                                         |
+| 57:43      | I like the fact that you can link anything inside DEVONthink.                                         |
 | 57:46      | If you want to do contextual computing, this is perfect for you because no matter what                 |
 | 57:50      | the file is, you've got just one link away from it anywhere on your Mac.                               |
 | 57:55      | Whether you're managing a lot of documents or doing a lot of research, you should be                   |
-| 57:58      | checking out [[DEVONthink]].                                                                              |
-| 58:00      | And you can get 10% off [[DEVONthink]] 3 or upgrade to it right now.                                      |
+| 57:58      | checking out DEVONthink.                                                                              |
+| 58:00      | And you can get 10% off DEVONthink 3 or upgrade to it right now.                                      |
 | 58:04      | Just go to devontechnologies.com/automators.                                                     |
 | 58:08      | That's devontechnologies.com/automators for that 10% off.                                        |
 | 58:13      | And our thanks to Devon Technologies for their support of the automators and all of RelayFM.           |

@@ -330,7 +330,7 @@ Keyboard Maestro got a big update, and the Automators are here to report on the 
 | 16:50      | Um, you know, I, I don't have parental control set up on those machines because, you know,                         |
 | 16:55      | my parents are, you know, they're not necessarily the best with tech, but they are definitely                      |
 | 16:59      | giving it their all and it would be hampering for them to not be able to just do things.                           |
-| 17:05      | Um, but there's a couple of times where [[Keyboard Maestro]]'s just sort of snuck in and been                      |
+| 17:05      | Um, but there's a couple of times where [[Keyboard Maestro\|Keyboard Maestro's]] just sort of snuck in and been                      |
 | 17:09      | like, I'm just gonna, you know, deal with this and, you know, every so often it'll do                              |
 | 17:13      | a little backup copy of all my dad's pictures to the [[NAS]] and stuff like that so that he                        |
 | 17:17      | doesn't have to do it and it's just really great that, you know, all of these things                               |

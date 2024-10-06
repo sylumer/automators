@@ -1186,30 +1186,30 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:34:10   | everywhere. And I'm looking forward actually to my Sonos Roam arriving. I should arrive                   |
 | 01:34:14   | hopefully just before this episode releases, but we're recording a little bit in advance                  |
 | 01:34:18   | here so I can also have music in the bathroom. So that'll be good.                                        |
-| 01:34:25   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from                     |
-| 01:34:28   | Devon Technologies. [[DEVONthink]] is the most professional document and information management              |
+| 01:34:25   | This episode of Automated is brought to you by DEVONthink, the flagship product from                     |
+| 01:34:28   | Devon Technologies. DEVONthink is the most professional document and information management              |
 | 01:34:33   | application for the Mac. It's the one place for storing all your documents, snippets,                     |
 | 01:34:38   | or bookmarks and working with them. The integrated AI assists you with filing and searching or            |
 | 01:34:43   | the extensive search language with advanced billion search operators means you'll never                   |
-| 01:34:47   | lose anything again. [[DEVONthink]] features a flexible sync system that supports many cloud                 |
+| 01:34:47   | lose anything again. DEVONthink features a flexible sync system that supports many cloud                 |
 | 01:34:52   | services or lets you synchronise over the local network too with everything securely                      |
 | 01:34:57   | encrypted. This gives you the choice for however syncing works best for you. It has smart rules           |
 | 01:35:03   | and flexible reminders that let you automate all parts of your workflow and delegate boring               |
-| 01:35:07   | repeating tasks. Let [[DEVONthink]] automatically organise your data with the rules you define.              |
-| 01:35:14   | [[DEVONthink]]'s [[AppleScript]] dictionary is one of the largest on the Mac. There's no                        |
-| 01:35:17   | part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality with your                 |
+| 01:35:07   | repeating tasks. Let DEVONthink automatically organise your data with the rules you define.              |
+| 01:35:14   | DEVONthink's AppleScript dictionary is one of the largest on the Mac. There's no                        |
+| 01:35:17   | part of DEVONthink that can't be automated. Extend DEVONthink's functionality with your                 |
 | 01:35:21   | own commands by adding them to its Scripts menu. Even templates can have scripts inside                   |
 | 01:35:26   | and you can set up new documents with data from placeholders or inserted by your own                      |
-| 01:35:30   | [[AppleScript]] code. And of course, there's so much more. From an iOS companion app to                      |
+| 01:35:30   | AppleScript code. And of course, there's so much more. From an iOS companion app to                      |
 | 01:35:35   | email archiving, scanning, or even an embedded web server for sharing your data securely                  |
-| 01:35:40   | with your team. I love the fact that I can just throw things at [[DEVONthink]] and really                    |
+| 01:35:40   | with your team. I love the fact that I can just throw things at DEVONthink and really                    |
 | 01:35:44   | it's like magic happens. And honestly, when I haven't set up my rules and I haven't set                   |
 | 01:35:49   | up things, I don't need to worry because I will be able to find that document again.                      |
 | 01:35:54   | Anybody who needs to manage lots of documents of loads of different types and make notes                  |
-| 01:35:58   | on them should take a look at [[DEVONthink]]. I love it because I can literally throw anything               |
-| 01:36:03   | in it. And because it's using my [[Dropbox]], in my case, it could use iCloud for you. I                      |
+| 01:35:58   | on them should take a look at DEVONthink. I love it because I can literally throw anything               |
+| 01:36:03   | in it. And because it's using my Dropbox, in my case, it could use iCloud for you. I                      |
 | 01:36:08   | don't need to worry about running out of storage space or paying for an extra subscription.               |
-| 01:36:12   | I'm just using what I've got. You can get an extra 10% off [[DEVONthink]] or upgrade to                      |
+| 01:36:12   | I'm just using what I've got. You can get an extra 10% off DEVONthink or upgrade to                      |
 | 01:36:16   | it right now. Just go to DEVONtechnologies.com/Automators. That's DEVONtechnologies.com             |
 | 01:36:24   | slash Automators for 10% off. Our thanks to DEVONtechnologies for their support of this                   |
 | 01:36:28   | show and all of Relay FM.                                                                                |

@@ -218,7 +218,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 10:47      | Yeah.                                                                                                 |
 | 10:48      | Whereas when I search these out in [[Raycast]], it just finds the right one.                              |
 | 10:51      | I don't deal with that.                                                                               |
-| 10:53      | When I search them in [[Alfred]], in fact, I kind of prefer [[Alfred]]'s method where you actually            |
+| 10:53      | When I search them in [[Alfred]], in fact, I kind of prefer [[Alfred\|Alfred]], in fact, I kind of prefer [[Alfred's]] method where you actually            |
 | 10:59      | use a modifier, so then you're only searching shortcuts, and that's why you don't get those           |
 | 11:05      | extra search results.                                                                                 |
 | 11:06      | Yeah, it feels to me like it's okay, and they are continuing to improve upon it, but                  |
@@ -866,7 +866,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 52:12      | to admit, I don't really use that much.                                                               |
 | 52:14      | The contacts, we talked about contacts earlier in the episode and we were talking about how           |
 | 52:19      | they work in spotlight and how they're great, but they're slow and they take a lot of mousing         |
-| 52:23      | or arrow pressing to get to the right one and [[Raycast]]'s contacts, you can search the                  |
+| 52:23      | or arrow pressing to get to the right one and [[Raycast\|Raycast's]] contacts, you can search the                  |
 | 52:30      | contacts database, you can surface them, but you can't really navigate them well.                     |
 | 52:34      | I feel like that's something [[Raycast]] needs to work on, frankly, but in [[Alfred]], contacts               |
 | 52:40      | are awesome and they're awesome and ugly all at once because if I type Rosemary Orchard,              |
@@ -919,7 +919,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 56:13      | right because that's what we're doing with automation, right?                                         |
 | 56:16      | We're doing automation to make sure that we get the right results consistently rather                 |
 | 56:21      | than just fast and inaccurate.                                                                        |
-| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, [[Alfred]]'s got              |
+| 56:25      | So yeah, for me, just being able to navigate around and don't forget folks, [[Alfred\|Alfred's]] got              |
 | 56:29      | themes as well.                                                                                       |
 | 56:30      | So if you've looked at [[Alfred]] before and gone, I don't really like how it looks.                      |
 | 56:33      | First of all, make sure you've checked out the modern themes, which were introduced                   |
@@ -1004,7 +1004,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 01:01:35   | I vary between two.                                                                                   |
 | 01:01:37   | I like the Nord colour set, and if you're familiar with it, there's a kind of a colour scheme           |
 | 01:01:41   | called Nord and David Zhang, Z-H-A-N-G built a Nord view for [[Alfred]], which I use.                  |
-| 01:01:49   | I also like [[Alfred]]'s modern dark view, and I switch between those two kind of depending               |
+| 01:01:49   | I also like [[Alfred\|Alfred's]] modern dark view, and I switch between those two kind of depending               |
 | 01:01:55   | on my mood, but currently I'm using the [[Alfred]] Nord.                                                  |
 | 01:01:59   | Yeah.                                                                                                 |
 | 01:02:00   | That makes sense.                                                                                     |

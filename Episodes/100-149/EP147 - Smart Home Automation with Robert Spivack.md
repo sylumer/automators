@@ -516,7 +516,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 31:17      | I simply can't bring in, I do it that way.                                                             |
 | 31:21      | Yes, that makes a lot of sense to me because it really depends on what it is that ends                 |
 | 31:27      | up feeling natural.                                                                                    |
-| 31:29      | For some people, they started with [[Amazon]]'s voice assistant, which I'm not going to say                |
+| 31:29      | For some people, they started with [[Amazon\|Amazon's]] voice assistant, which I'm not going to say                |
 | 31:33      | the name of in case I trigger it for everybody.                                                        |
 | 31:37      | They started with that because that was one of the first things around, or maybe they had              |
 | 31:42      | some Google Homes or something.                                                                        |

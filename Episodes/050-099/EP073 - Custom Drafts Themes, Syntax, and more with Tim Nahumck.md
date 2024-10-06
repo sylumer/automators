@@ -742,7 +742,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 58:42      | I can access it from a whole bunch of places, which makes it pretty easy.                            |
 | 58:45      | I have solved or dealt with two similar problems lately. Um, like you, I also use [[Obsidian]]           |
 | 58:51      | to store a lot of data and I write everything in [[Drafts]]. You know, I don't write that much           |
-| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian]]'s end-to-end encryption      |
+| 58:57      | in obsidian, at least initially. And, um, uh, because I'm using [[Obsidian\|Obsidian's]] end-to-end encryption      |
 | 59:03      | model, I don't have a [[Dropbox]] resource to dump these, these files into and said, I've                |
 | 59:08      | got it on my native drive on my Mac. So I made a special folder that's watched by our                |
 | 59:14      | dear friend [[Hazel]]. And, um, I have, um, [[Drafts]] saved to that folder and then Mac, the Mac,           |

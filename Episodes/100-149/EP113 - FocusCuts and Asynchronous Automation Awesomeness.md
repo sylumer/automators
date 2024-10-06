@@ -490,7 +490,7 @@ In this news, Rosemary and David look into non-continuous automations and how br
 | 27:46      | This bit happens immediately when I get to this place, or this focus mode starts.                       |
 | 27:51      | My phone does this bit, and then maybe it can drop something somewhere else, where then                 |
 | 27:56      | when you're max next on, it'll pick it up, and it'll just continue with the next bit.                   |
-| 28:01      | It'll drop a file in a folder, [[Hazel]] will pick it up, [[Hazel]]'s asynchronous, it'll just pick             |
+| 28:01      | It'll drop a file in a folder, [[Hazel]] will pick it up, [[Hazel]] will pick it up, [[Hazel's]] asynchronous, it'll just pick             |
 | 28:04      | up whatever.                                                                                            |
 | 28:06      | There's also just asynchronous of something will just get put somewhere and get picked                  |
 | 28:14      | up on later entirely, or there's two things happening at the same time, potentially.                    |

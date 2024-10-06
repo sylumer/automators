@@ -449,7 +449,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 34:00      | kind of a solved problem. I like the ability that it can run [[AppleScript\|AppleScripts]]. And I've just got            |
 | 34:05      | all kinds of weird automation stuff running through TextExpander. But what are the advantages for       |
 | 34:10      | [[Alfred]]? How does this emoji thing work? Well, let's start with snippets and [[Alfred]]. So once              |
-| 34:16      | again, you're going to need to open [[Alfred]]'s preferences, command space, command comma.                  |
+| 34:16      | again, you're going to need to open [[Alfred\|Alfred's]] preferences, command space, command comma.                  |
 | 34:21      | And then under the feature section, there's snippets and clippings. So to start with,                    |
 | 34:28      | you're probably going to want to have a poke around there. And I know those of you who used              |
 | 34:32      | [[Alfred]] before might find things like [[Alfred]] to snippets hanging around, which yes, I have. And           |
@@ -930,14 +930,14 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:19:20   | You want to share one of your favourites? I mean, I love those. So do I get to dive right into the        |
 | 01:19:27   | weeds now? David or do you want one of my simpler ones to start with? Yeah, you can have a simple        |
 | 01:19:31   | one. Let's try this. Okay. Well, one of my simple ones is with [[Yoink]]. So I mentioned this before,        |
-| 01:19:36   | but in [[Yoink]]'s preferences, so [[Yoink]] is a Mac application, which is a shelf. And I have it               |
+| 01:19:36   | but in [[Yoink\|Yoink's]] preferences, so [[Yoink]] is a Mac application, which is a shelf. And I have it               |
 | 01:19:41   | appear over on the left side of my screen, my start dragging a file, because then I can shove            |
 | 01:19:46   | that file in [[Yoink]]. And this is really useful. It doesn't actually, the file doesn't actually            |
 | 01:19:49   | move to [[Yoink]]. It just basically a shortcut to the file lives there. And then you can drag it off        |
 | 01:19:54   | to wherever later. And this can be useful for a variety of things. But finding files by digging          |
 | 01:20:00   | through Finder is one of my least favourite things to do. You know, I just, I don't really do it.         |
 | 01:20:06   | And so I usually find it with [[Alfred]]. And then I have [[Yoink]] as one of my options there. So I can         |
-| 01:20:13   | add that to [[Yoink]]. And this is specified as a file action. So under [[Yoink]]'s preferences,                 |
+| 01:20:13   | add that to [[Yoink]]. And this is specified as a file action. So under [[Yoink\|Yoink's]] preferences,                 |
 | 01:20:18   | you can actually specify to install this [[Alfred]] workflow. And I'd highly recommend doing that            |
 | 01:20:25   | if you use [[Yoink]]. Yeah, okay. That's a good one. We talked, I think, on this show recently about         |
 | 01:20:32   | how the ones that I'm really, I'm just a huge fan of the OmniFocus ones that were created by,            |
@@ -1070,11 +1070,11 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:32:16   | change the trigger to option space, and then that frees up command space for [[Alfred]].                     |
 | 01:32:23   | The couple other things in the general where you talked about, make sure you set your country.           |
 | 01:32:31   | What about appearance? [[Alfred]] has a bunch of different themes. Do you have a...                          |
-| 01:32:35   | So I mean, I'm using, I think it's [[[Alfred]] purple](https://www.alfredforum.com/topic/4028-minimal-purple-alfred-theme/) version two by @ianisted. And I don't remember         |
-| 01:32:43   | now if this is a default one or if it's one that you need to install. But under [[Alfred]]'s appearance,     |
+| 01:32:35   | So I mean, I'm using, I think it's [Alfred purple](https://www.alfredforum.com/topic/4028-minimal-purple-alfred-theme/) version two by @ianisted. And I don't remember         |
+| 01:32:43   | now if this is a default one or if it's one that you need to install. But under [[Alfred\|Alfred's]] appearance,     |
 | 01:32:51   | you can also control a whole bunch of other things as well. So if you go into the appearance one,        |
 | 01:32:57   | it's the paint roller, then you can have a look through. There's a whole bunch of themes on              |
-| 01:33:04   | various websites out there. And [[Alfred]]'s natively got light themes and dark themes and                   |
+| 01:33:04   | various websites out there. And [[Alfred\|Alfred's]] natively got light themes and dark themes and                   |
 | 01:33:09   | modern themes with more rounded corners, a classic one, which has a kind of                              |
 | 01:33:15   | dark translucent gray chunky border around things, a macOS one, which is very Big Sur.                   |
 | 01:33:23   | And of course, macOS dark. And once you've found your theme, then if you tap on or click on the          |
@@ -1086,7 +1086,7 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 01:33:58   | result shortcuts means the command and the number. So if I was talking about that earlier in your        |
 | 01:34:03   | diagram, I don't see that you've probably hidden that with this option. And you can talk about           |
 | 01:34:09   | that on and off per theme. Okay. So make sure that you change that. This is also where you               |
-| 01:34:15   | hide or unhide the menu bar icon. I believe [[Alfred]]'s menu bar icon is hidden by default.                 |
+| 01:34:15   | hide or unhide the menu bar icon. I believe [[Alfred\|Alfred's]] menu bar icon is hidden by default.                 |
 | 01:34:22   | And you can always, you know, get it back. I quite like having it. I've got it hidden in                 |
 | 01:34:27   | bartender. But it's, you know, it's useful to have. And then under this, I mean,                         |
 | 01:34:36   | there's a whole bunch of options in here, we can talk about this for hours, David.                       |

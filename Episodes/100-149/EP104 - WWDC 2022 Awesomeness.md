@@ -670,35 +670,35 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 40:04      | tab group, but we also got open new tab, which will just fall into whatever your current                  |
 | 40:08      | tab group is, which is great. So yay, thank you.                                                          |
 | 40:13      | Agreed.                                                                                                   |
-| 40:14      | This episode of Automators is brought to you by [[DEVONthink]], the flagship product from                  |
-| 40:19      | DEVONtechnologies. [[DEVONthink]] is the most professional document and information                     |
+| 40:14      | This episode of Automators is brought to you by DEVONthink, the flagship product from                  |
+| 40:19      | DEVONtechnologies. DEVONthink is the most professional document and information                     |
 | 40:23      | management application for the Mac. It's the one place for storing all your documents,                    |
 | 40:27      | snippets, or bookmarks and working with them. The integrated AI assists you with filing                   |
 | 40:32      | and searching while the extensive search language with advanced breathing and search                      |
-| 40:35      | operators means that you're never not going to find something. [[DEVONthink]] features                     |
+| 40:35      | operators means that you're never not going to find something. DEVONthink features                     |
 | 40:40      | a flexible sync system, which supports many cloud services or lets you synchronise over                   |
 | 40:44      | the local network with everything securely encrypted. This gives you the choice for however               |
 | 40:48      | for syncing what is best and most securely for you. It has smart rules and flexible reminders             |
 | 40:53      | that let you automate all parts of your workflow and delegate boring repeating tasks. Let Dev             |
 | 40:58      | and Think automate that you organise your data with rules you define.                                     |
-| 41:02      | [[DEVONthink]]'s AppleScript dictionary is one of the largest on the Mac. There's no                       |
-| 41:05      | part of [[DEVONthink]] that can't be automated. Extend [[DEVONthink]]'s functionality with                  |
+| 41:02      | DEVONthink's AppleScript dictionary is one of the largest on the Mac. There's no                       |
+| 41:05      | part of DEVONthink that can't be automated. Extend [[DEVONthink's functionality with                  |
 | 41:09      | your own commands by adding them to its Scripts menu. Even templates can have Scripts inside              |
 | 41:14      | and you can set up new documents with days from placeholders or insert it by your own                     |
 | 41:18      | AppleScript code. And of course, there's so much more, from an iOS companion app to                       |
 | 41:22      | email archiving, scanning, or even an embedded web server for sharing your data securely                  |
 | 41:27      | with your team. For me, honestly, the search stands out as useful. And this is a very silly               |
 | 41:32      | example, but the other day I needed to clean the detergent drawer on my washing machine                   |
-| 41:35      | and I wasn't even thinking I just typed detergent drawer into [[DEVONthink]]. Well,                        |
+| 41:35      | and I wasn't even thinking I just typed detergent drawer into DEVONthink. Well,                        |
 | 41:40      | because I've got the PDF of my washing machine manual in there, even though I wasn't in                   |
 | 41:45      | the washing machine manual, it found the right page inside of the PDF for me and brought                  |
-| 41:49      | it up. And the best part of it is, is I have a tickler system inside of [[DEVONthink]] so                  |
+| 41:49      | it up. And the best part of it is, is I have a tickler system inside of DEVONthink so                  |
 | 41:54      | that I can be tickled in GTD terms, reminded by in regular human terms of that washing                    |
 | 42:01      | machine manual. Even, you know, if I wanted to be more specific, I can go script and                     |
-| 42:06      | make really awesome reminders in the future with the [[DEVONthink]]'s reminder functionality,              |
+| 42:06      | make really awesome reminders in the future with the DEVONthink's reminder functionality,              |
 | 42:11      | giving me a complete custom system that's digital that doesn't require me to remember                     |
-| 42:15      | to go check a paper folder. You can get 10% off [[DEVONthink]] 3 or upgrade to it right                    |
-| 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com./automators for             |
+| 42:15      | to go check a paper folder. You can get 10% off DEVONthink 3 or upgrade to it right                    |
+| 42:20      | now. Just go to devontechnologies.com./automators. That's devontechnologies.com/automators for             |
 | 42:25      | 10% off. Our thanks to DEVONtechnologies for their support of this show and all of                     |
 | 42:30      | Relay FM.                                                                                                |
 | 42:31      | Just to go through some more applications that got updates, new maps, actions. Now they've                |

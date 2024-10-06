@@ -309,7 +309,7 @@ Ryan J. A. Murphy joins to share automation tips for Obsidian, augmented intelli
 | 12:20      | And yet everybody wants to help each other and build tools that really change what people              |
 | 12:26      | are able to do.                                                                                        |
 | 12:27      | No, I was bragging about the NPU forums earlier.                                                       |
-| 12:30      | I feel like [[Obsidian]]'s the same way.                                                                   |
+| 12:30      | I feel like [[Obsidian\|Obsidian's]] the same way.                                                                   |
 | 12:32      | It's a very supportive environment.                                                                    |
 | 12:34      | Whatever your problem is, somebody will try and help you.                                              |
 | 12:36      | And for any of our listeners that look at the forum, by the way, and think, huh, this                  |

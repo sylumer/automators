@@ -870,12 +870,12 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:18:06   | okay, cool. Thanks. Anytime that you hook a web URL. So if I go to macsparkyy.com or relay.fm slash        |
 | 01:18:15   | automators and I hook it, if I immediately go to pinboard, it's there. And if it was already there,      |
 | 01:18:22   | then it, hey, it shows that it's already there. And it adds this tag, this from dot or from colon        |
-| 01:18:27   | hook tag. So if I have a pinboard, you know, client on my iPhone, which I do, I have Pinstachio,        |
+| 01:18:27   | hook tag. So if I have a pinboard, you know, client on my iPhone, which I do, I have [[Pinstachio]],        |
 | 01:18:36   | that's my pinboard client of choice for iOS, then I can just search for that from hook tag or,           |
 | 01:18:45   | you know, most cases, I just have it, it's the last thing that was open or because I'm often             |
 | 01:18:49   | just storing everything with hook. Now it's the top thing on that menu. So if you have files that        |
 | 01:18:56   | you'd have URLs that you know, you've hooked, you can then go into your pinboard client on your          |
-| 01:19:02   | mobile device and they're there. Okay, I really like this. I did not know about Pinstachio. I've        |
+| 01:19:02   | mobile device and they're there. Okay, I really like this. I did not know about [[Pinstachio]]. I've        |
 | 01:19:07   | been looking for a new pinboard application for, for, for iOS. And I think you've just solved my         |
 | 01:19:13   | problem. And it's a clever name. Gotta give them. Yeah, bonus points for being clever.                   |
 | 01:19:21   | Could you give us an example of how you're using hook in your work life? Obviously,                      |
@@ -883,16 +883,16 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:19:29   | still trying to wrap their head around it, maybe, you know, an example of how you're using it day        |
 | 01:19:34   | to day would help, I think. So if I can, if we can talk inside baseball on a podcast,                    |
 | 01:19:42   | we have the automators dock here that we've planned. I have that hooked to a lot of the                  |
-| 01:19:50   | different websites that we've talked about. So I have it hooked to Bunch. I have it hooked to            |
-| 01:19:55   | [[Alfred]]'s website. I have it hooked to some of the videos that I have in the notes and a lot of           |
+| 01:19:50   | different websites that we've talked about. So I have it hooked to [[Bunch]]. I have it hooked to            |
+| 01:19:55   | [[Alfred\|Alfred's]] website. I have it hooked to some of the videos that I have in the notes and a lot of           |
 | 01:20:02   | the documentation and a lot of these links that we've, we've saved here, I have them all hooked.         |
 | 01:20:08   | So in the future, if I'm talking with someone and maybe we're talking about Mac automation and           |
-| 01:20:14   | they're like, oh, hey, you did that cool thing with Bunch. I can go, yeah, let me show you               |
-| 01:20:18   | the website. And if I go to the Bunch website, because that's hooked to this, I could, if I              |
-| 01:20:24   | just activate hook really quick, I can go, oh, you know what, I was on Automator 75. You should,         |
+| 01:20:14   | they're like, oh, hey, you did that cool thing with [[Bunch]]. I can go, yeah, let me show you               |
+| 01:20:18   | the website. And if I go to the [[Bunch]] website, because that's hooked to this, I could, if I              |
+| 01:20:24   | just activate Hook really quick, I can go, oh, you know what, I was on Automator 75. You should,         |
 | 01:20:30   | you should check that out. And then once the episode is live, because again, we're talking in            |
 | 01:20:33   | the past, I will have that hooked as well. And I'll probably remove the show notes,                      |
-| 01:20:39   | because I won't need that anymore. So then I can go to Bunch and I can say, oh, yeah,                    |
+| 01:20:39   | because I won't need that anymore. So then I can go to [[Bunch]] and I can say, oh, yeah,                    |
 | 01:20:44   | it's really cool. You know what, I could talk about this for hours, but I already did that               |
 | 01:20:51   | on the show. And here's a link to it. And then just copy that link and then send it off to him.          |
 | 01:20:55   | Nice. Yeah, I use it both for MacSparky and Legal in much the same way. And like one thing              |

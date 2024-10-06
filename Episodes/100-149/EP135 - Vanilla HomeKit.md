@@ -375,10 +375,10 @@ In this episode, Rosemary and David talk about what's happening with Alex Hay's 
 | 20:34      | It might have caught them a few times.                                                                    |
 | 20:36      | Probably fine, but I personally just don't like the idea of sticking a camera out there                   |
 | 20:40      | when it's not necessary, so instead, what I've done is I've got a smart button stuck                      |
-| 20:45      | out there, which when I press it, as far as [[HomeKit\|HomeKit's]]ø concerned, it's a doorbell, so                      |
+| 20:45      | out there, which when I press it, as far as [[HomeKit\|HomeKit's]] concerned, it's a doorbell, so                      |
 | 20:49      | I get the chime on my HomePods and everything, and I just stuck a fake picture in there.                 |
 | 20:52      | It literally just says the word doorbell as an image, and [[HomeKit]] sees that as the camera,                |
-| 20:59      | and [[Home Assistant]]'s just there going, by the way, [[HomeKit]], hey, here's a doorbell.                       |
+| 20:59      | and [[Home Assistant\|Home Assistant's]] just there going, by the way, [[HomeKit]], hey, here's a doorbell.                       |
 | 21:03      | This is a doorbell as far as you're concerned.                                                            |
 | 21:05      | Have fun with it.                                                                                         |
 | 21:06      | Being able to do that and not having a million and one hubs, hubs are great.                              |

@@ -796,28 +796,28 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:01:31   | and off the light in there is either on or it's off. But if you go in there and then you close           |
 | 01:01:37   | the door, it will leave the light on until you've opened the door and left. Because the last thing       |
 | 01:01:42   | you want is the light turning off in the middle of a shower.                                             |
-| 01:01:46   | This episode of Automated is brought to you by [[DEVONthink]], the flagship product from Devon              |
-| 01:01:49   | Technologies. [[DEVONthink]] is the most professional document and information management application       |
+| 01:01:46   | This episode of Automated is brought to you by DEVONthink, the flagship product from Devon              |
+| 01:01:49   | Technologies. DEVONthink is the most professional document and information management application       |
 | 01:01:54   | for the Mac. It's the one place for storing all your documents, snippets, all bookmarks,                 |
 | 01:01:58   | and working with them. The integrated AI assists you with filing and searching,                          |
 | 01:02:01   | while the extensive search language with advanced billion-search operators makes sure                    |
-| 01:02:05   | you're never looking for something and not finding it. [[DEVONthink]] features a flexible                   |
+| 01:02:05   | you're never looking for something and not finding it. DEVONthink features a flexible                   |
 | 01:02:09   | sync system that supports many cloud services or lets you synchronise over the local network too         |
 | 01:02:14   | with everything securely encrypted. It secures you the choice for however syncing works best for         |
 | 01:02:18   | you. It has smart rules and flexible reminders that let you automate all parts of your workflow          |
-| 01:02:23   | and delegate boring repeating tasks. Let [[DEVONthink]] automatically organise your data with rules         |
-| 01:02:28   | you define. [[DEVONthink]]'s [[AppleScript]] Dictionary is one of the largest on the Mac. There's no           |
-| 01:02:32   | part of [[DEVONthink]] that can't be automated. Except when [[DEVONthink]]'s functionality with                |
+| 01:02:23   | and delegate boring repeating tasks. Let DEVONthink automatically organise your data with rules         |
+| 01:02:28   | you define. DEVONthink's [[AppleScript Dictionary is one of the largest on the Mac. There's no           |
+| 01:02:32   | part of DEVONthink that can't be automated. Except when [[DEVONthink's functionality with                |
 | 01:02:36   | your own commands by adding them into a scripts menu. Even templates can have scripts inside             |
-| 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own [[AppleScript]]        |
+| 01:02:40   | and you can set up new documents from data with placeholders or inserted by your own AppleScript        |
 | 01:02:45   | Code. And of course there's so much more from an iOS companion app to email archiving, scanning,         |
 | 01:02:50   | or even an embedded web server for sharing your data securely with your team. I did mention earlier      |
-| 01:02:55   | on the show that I personally use and love [[DEVONthink]] and I would say that even if they weren't         |
+| 01:02:55   | on the show that I personally use and love DEVONthink and I would say that even if they weren't         |
 | 01:02:59   | sponsoring today's episode, but one of the features I've been using recently is the Convert              |
-| 01:03:03   | File feature. Because [[DEVONthink]] automatically imports email and with Convert File you can              |
+| 01:03:03   | File feature. Because DEVONthink automatically imports email and with Convert File you can              |
 | 01:03:08   | actually convert it to a PDF. Yup, so my emails get imported and converted into PDFs automatically.      |
 | 01:03:14   | Perfect for accounting. So if you think that you need somewhere where you can organise your files        |
-| 01:03:19   | and easily find them, and maybe even convert some documents, check out [[DEVONthink]]. You can get 10%      |
+| 01:03:19   | and easily find them, and maybe even convert some documents, check out DEVONthink. You can get 10%      |
 | 01:03:24   | of [[DEVONthink]] 3 or upgrade to it right now. Just go to devontechnologies.com/automators.          |
 | 01:03:29   | That's devontechnologies.com/automators for 10% off. Our thanks to Devon Technologies for          |
 | 01:03:34   | their support of this show and all of Relay FM. So Rose, you've got a lot of great automations,          |
