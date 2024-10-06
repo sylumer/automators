@@ -631,7 +631,7 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 38:41      | Yeah. So this is nice. And lastly, another one that John knows about this one. I was                  |
 | 38:49      | trying to use, so I don't know if you guys know, there's an incredible emulator for                   |
 | 38:54      | old Nintendo consoles called Dolphin emulator. And it lets you play old GameCube and Nintendo         |
-| 39:01      | Wii games. And Dolphin emulator was actually updated with Apple Silicon compatibility.                |
+| 39:01      | Wii games. And Dolphin emulator was actually updated with [[Apple Silicon]] compatibility.                |
 | 39:07      | And it's got this, it's got amazing performance. So you can take like 20 year old games from          |
 | 39:12      | the GameCube and you can play them in app scaled mode at 4K. Like obviously the GameCube              |
 | 39:19      | did not have a 20 console. It was a 480p console 20 years ago. But you can play things like           |

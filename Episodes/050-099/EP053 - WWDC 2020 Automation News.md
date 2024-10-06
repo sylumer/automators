@@ -949,14 +949,14 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 58:20      | Yeah.                                                                                                                                                     |
 | 58:21      | Um, the, uh, so you're good.                                                                                                                              |
 | 58:24      | Somebody was tweeting me and, um, the [[Keyboard Maestro]] developer question about, well, if                                                             |
-| 58:30      | [[Apple]] switches to our max or quote unquote Apple Silicon max, is that going to break                                                                      |
+| 58:30      | [[Apple]] switches to our max or quote unquote [[Apple Silicon]] max, is that going to break                                                                      |
 | 58:36      | tools like [[Keyboard Maestro]]?                                                                                                                          |
 | 58:38      | I don't think it is, but I thought that'd be a fun question to talk about with you.                                                                       |
-| 58:42      | Do you see any problems with the switch to Apple Silicon for our automation tools?                                                                        |
+| 58:42      | Do you see any problems with the switch to [[Apple Silicon]] for our automation tools?                                                                        |
 | 58:48      | I mean, I don't see like anything we already have, like they've said is going to keep working.                                                            |
 | 58:54      | So as far as I see it, it's more that there are going to be more possibilities.                                                                           |
 | 59:00      | So everything that's built for the iPad, and they did say this in the keynote, um, that                                                                   |
-| 59:04      | you're going to be able to run iOS and iPad OS apps straight on these Apple Silicon machines.                                                             |
+| 59:04      | you're going to be able to run iOS and iPad OS apps straight on these [[Apple Silicon]] machines.                                                             |
 | 59:11      | Like there's not going to be like capitalist or anything involved.                                                                                        |
 | 59:14      | It's just going to be this app now runs on this device too, which I can only see as a                                                                     |
 | 59:18      | benefit.                                                                                                                                                  |
@@ -964,7 +964,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 59:23      | Yes.                                                                                                                                                      |
 | 59:24      | Like that's going to be amazing.                                                                                                                          |
 | 59:26      | Now bearing in mind, it's going to take a couple of years to get there.                                                                                   |
-| 59:28      | They did say that the first Mac Pro with Apple Silicon is not going to be out until 2022.                                                                 |
+| 59:28      | They did say that the first Mac Pro with [[Apple Silicon]] is not going to be out until 2022.                                                                 |
 | 59:34      | So that that's two years plus allow a year for delays.                                                                                                    |
 | 59:37      | So that's going to be three years.                                                                                                                        |
 | 59:39      | But I think that this is mostly going to be a good thing.                                                                                                 |
@@ -1000,7 +1000,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 01:01:30   | [Virtual Machine\|virtual machines]] basically.                                                                                                           |
 | 01:01:32   | And so those people have had to dual boot.                                                                                                                |
 | 01:01:36   | So we're going to see what happens on that front, but we've got a couple of years before                                                                  |
-| 01:01:39   | it becomes a problem because as well as [[Apple]] saying, hey, we're switching to Apple Silicon,                                                              |
+| 01:01:39   | it becomes a problem because as well as [[Apple]] saying, hey, we're switching to [[Apple Silicon]],                                                              |
 | 01:01:44   | they also said, and we've got new Intel stuff in the pipeline as well.                                                                                    |
 | 01:01:48   | So they're urging their bets a little bit there, which I think is a good thing because                                                                    |
 | 01:01:52   | some people are obviously going to be a little worried about this.                                                                                        |
@@ -1008,10 +1008,10 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 01:01:58   | And I'd point you toward to this week's episode of [[Mac Power Users\|MPU]] because [[Stephen Hackett\|Stephen]] actually did a bunch                     |
 | 01:02:02   | of research.                                                                                                                                              |
 | 01:02:03   | You can't even buy Windows for [[ARM]] as a product.                                                                                                      |
-| 01:02:06   | I mean, it's just, I think it's unlikely that these new new Apple Silicon machines                                                                        |
+| 01:02:06   | I mean, it's just, I think it's unlikely that these new new [[Apple Silicon]] machines                                                                        |
 | 01:02:11   | are going to run Windows.                                                                                                                                 |
 | 01:02:13   | And while it's going to be a couple of years for the Mac Pro, they are going to be really                                                                 |
-| 01:02:15   | seeing Apple Silicon Macs before the end of this year.                                                                                                    |
+| 01:02:15   | seeing [[Apple Silicon]] Macs before the end of this year.                                                                                                    |
 | 01:02:20   | The rumor mill is an iMac and a 13-inch MacBook Pro.                                                                                                      |
 | 01:02:24   | Who knows if that's true or not, but something you said that I want to go back to talk about                                                              |
 | 01:02:28   | is once you have one of these [[ARM]] machines, you will be able to run iPad and iPhone apps                                                              |
@@ -1055,7 +1055,7 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 01:04:41   | little device.                                                                                                                                            |
 | 01:04:42   | But having used it as my production machine for coming on 14 weeks now, I'm feeling like                                                                  |
 | 01:04:46   | it's owed an upgrade.                                                                                                                                     |
-| 01:04:48   | So one of those 13-inch MacBook Pros running on Apple Silicon that have been rumored may                                                                  |
+| 01:04:48   | So one of those 13-inch MacBook Pros running on [[Apple Silicon]] that have been rumored may                                                                  |
 | 01:04:53   | well be in my future.                                                                                                                                     |
 | 01:04:54   | Oh, yeah.                                                                                                                                                 |
 | 01:04:55   | It'll be very tempting to sell your other devices and get into one of those, for no other                                                                 |

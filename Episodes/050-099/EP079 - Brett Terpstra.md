@@ -838,7 +838,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 47:08      | But last time I tried it, it wasn't as lag-free and seamless as using Karabiner elements.            |
 | 47:17      | So I still am currently using Karabiner elements, but I use [[BetterTouchTool]] so much that if it       |
 | 47:24      | becomes truly viable, I will gladly consolidate and just do it all in [[BetterTouchTool]].               |
-| 47:30      | And I'm hearing reports from people on Apple Silicon having significant problems with Karabiner?     |
+| 47:30      | And I'm hearing reports from people on [[Apple Silicon]] having significant problems with Karabiner?     |
 | 47:36      | Oh, I am not.                                                                                        |
 | 47:39      | Even with SIP enabled on my M1, Karabiner works fine, the latest versions do.                        |
 | 47:43      | Well, I heard from one listener who was having crashes until he had installed Karabiner and          |
@@ -1074,7 +1074,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 01:01:11   | It's such a like ingrained part of my life now that I don't think about it all that much.            |
 | 01:01:17   | So I do a lot of key binding hacking.                                                                |
 | 01:01:20   | You're probably familiar with my massive key bindings file for Mac OS, which still works             |
-| 01:01:26   | with Big Sur and Apple Silicon.                                                                      |
+| 01:01:26   | with Big Sur and [[Apple Silicon]].                                                                      |
 | 01:01:29   | I love that it does.                                                                                 |
 | 01:01:32   | So a lot of my keyboard hack, hackery isn't specific to the UHK, um, however, I do have              |
 | 01:01:41   | it customised to the point where even if I got another UHK, I wouldn't be able to use                |

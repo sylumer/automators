@@ -53,7 +53,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **2010** - iPad was introduced, defining a new category of smart mobile devices.  
 - **2011** - Tim Cook succeeded Steve Jobs as CEO of Apple.  
 - **2015** - Apple Watch was launched, entering the wearable tech market.  
-- **2020** - Apple transitioned its Mac computers from Intel processors to its custom-designed Apple silicon chips, starting with the M1 chip.  
+- **2020** - Apple transitioned its Mac computers from Intel processors to its custom-designed [[Apple Silicon]] chips, starting with the M1 chip.  
 - **2023** - Apple introduced the Vision Pro, a high-end AR headset aimed at developers.
 
 # Notes  

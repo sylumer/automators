@@ -1481,7 +1481,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:17:40   | Once again, go to setup.com to see how it fits with your workflow.                                       |
 | 01:17:43   | Now thanks to Setup for their support of the show and all of Relay FM.                                  |
 | 01:17:47   | All right.                                                                                               |
-| 01:17:49   | So [[Apple]] has now made a new Mac based on Apple Silicon as opposed to Intel chips.                        |
+| 01:17:49   | So [[Apple]] has now made a new Mac based on [[Apple Silicon]] as opposed to Intel chips.                        |
 | 01:17:55   | And Rose is the smart one.                                                                               |
 | 01:17:57   | She didn't buy one.                                                                                      |
 | 01:17:58   | She's waiting for next year's version.                                                                   |
@@ -1664,7 +1664,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 01:27:39   | for iPhone and iPad apps over on the M1 Mac, but kind of getting back to the point of this               |
 | 01:27:45   | segment, all of the, the garden variety automation tools, I have had no problems at all.                 |
 | 01:27:52   | And I, I even wrote like the [[Keyboard Maestro]] developer to ask if he's seen any issues and               |
-| 01:27:57   | he said he hasn't, and he was right on top of it for the Apple Silicon.                                  |
+| 01:27:57   | he said he hasn't, and he was right on top of it for the [[Apple Silicon]].                                  |
 | 01:28:01   | So you know, [[Keyboard Maestro]] is the one that I do the most kind of complex work with and                |
 | 01:28:06   | that one works.                                                                                          |
 | 01:28:07   | So I think you're probably going to be fine.                                                             |

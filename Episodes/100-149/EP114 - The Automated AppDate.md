@@ -220,7 +220,7 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 09:24      | so long, I'd be sad.                                                                                   |
 | 09:26      | So I'm glad they're sticking with the same industrial design.                                          |
 | 09:29      | And I'm also happy to see that, you know, in [[Apple|Apple's]] mind, every time we get a new generation          |
-| 09:35      | of Apple Silicon, that their products get updated.                                                     |
+| 09:35      | of [[Apple Silicon]], that their products get updated.                                                     |
 | 09:38      | I mean, that's, we've already got an M2 MacBook Air, we've got an M2 iPad.                             |
 | 09:43      | If the rumors are correct, we're going to have M2 MacBook Pros.                                        |
 | 09:46      | In fact, based on recording times, it may exist already by the time this show ships                    |

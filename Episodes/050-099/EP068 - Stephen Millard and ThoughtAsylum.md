@@ -461,7 +461,7 @@ Stephen Millard from ThoughtAsylum joins in to share his automation journey and 
 | 32:24      | AirBuddy can also show you battery information for your iPhone, iPad or iPod touch and their             |
 | 32:30      | accessories. And the battery's widget can be added to Notification Centre on macOS.                      |
 | 32:35      | Only I kill a feature according to me. AirBuddy is sandbox and it doesn't require any kernel             |
-| 32:40      | extensions to work. Plus, it's fully compatible with macOS Big Sur and Apple Silicon, but                |
+| 32:40      | extensions to work. Plus, it's fully compatible with macOS Big Sur and [[Apple Silicon]], but                |
 | 32:45      | it works on any Mac with Bluetooth low energy running macOS 10.14.6 or later. If you have                |
 | 32:52      | AirPods and a Mac, you need AirBuddy. Go to airbuddy.app/automators to learn more.                       |
 | 32:58      | The first 100 automated listeners to use that URL will get AirBuddy with a 20% discount.                 |

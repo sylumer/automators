@@ -386,7 +386,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 31:11      | that would have been the path I went down. But I'm pretty happy to have a native [[AppKit]]                      |
 | 31:15      | traditional Mac app fully formed as well, because I think it gives a better overall                          |
 | 31:21      | user experience on the Mac. Absolutely. 100%. Even if they had, you know,                                    |
-| 31:26      | even if you had just waited for the Apple Silicon Mac and just said, well, you can just run my,              |
+| 31:26      | even if you had just waited for the [[Apple Silicon]] Mac and just said, well, you can just run my,              |
 | 31:31      | you know, my iPad app on your Mac, I don't feel like that's the experience that would have been              |
 | 31:36      | satisfactory to me. You know, I want a Mac app when I'm on the Mac. And I think the, you know,               |
 | 31:42      | good on you. Yeah. I think it's another case of categories matter. You know, is that a good                  |
@@ -892,7 +892,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 01:18:20   | It's not going to be two years. So some buckling, maybe. Well, the upgrade path on Macs is a little          |
 | 01:18:28   | slower. I mean, you have an early adopter kind of listener base on the podcast, but people tend to           |
 | 01:18:33   | hang on to Macs for a while. So I think it's more like three or four years before the primary                |
-| 01:18:38   | core users have Apple Silicon and stuff. Let's see what happens there. I have a feeling that we              |
+| 01:18:38   | core users have [[Apple Silicon]] and stuff. Let's see what happens there. I have a feeling that we              |
 | 01:18:46   | are going to see an interesting split of people who the number of people rushing to buy Intel Macs            |
 | 01:18:51   | Now versus the people going, I'm going to wait. You know, I've got a MacBook Air sitting in front            |
 | 01:18:56   | of me and I'm thinking, well, I mean, it's new. But at the same time, my mom's MacBook definitely            |

@@ -136,7 +136,7 @@ Rose and David get out their scorecards for the existing automation platforms.
 | 04:10      | Let's start with [[AppleScript]].                                                                          |
 | 04:12      | I think the news about [[AppleScript]] is that it's still here.                                            |
 | 04:15      | I think that for a while, people were predicting the untimely end of [[AppleScript]] saying, you           |
-| 04:21      | know, they're going to move on, you know, Apple Silicon, you know, 64-bit, there's been                 |
+| 04:21      | know, they're going to move on, you know, [[Apple Silicon]], you know, 64-bit, there's been                 |
 | 04:27      | all these reasons why [[AppleScript]] was going to get yanked out of Mac OS.                               |
 | 04:32      | And I have never believed it.                                                                           |
 | 04:34      | I will be shocked if [[AppleScript]] disappears for a couple of reasons.                                   |

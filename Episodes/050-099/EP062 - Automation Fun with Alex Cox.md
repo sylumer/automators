@@ -316,7 +316,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 25:48      | for [[Drafts]] that they introduced in, I believe, at the end of September, but they also have              |
 | 25:55      | a ton of shortcuts if you want to make the most of your experiences on mobile as well.                  |
 | 26:04      | That's kind of what I am looking for is something that will work both always on my Mac and always       |
-| 26:12      | on my iOS devices, and maybe Apple Silicon will make that easier. But right now, [[Drafts]] is kind         |
+| 26:12      | on my iOS devices, and maybe [[Apple Silicon]] will make that easier. But right now, [[Drafts]] is kind         |
 | 26:21      | of the only thing that I can rely on to be on both operating systems and work the way I want it to.     |
 | 26:31      | Yeah, I mean, getting [[Drafts]] on both the Mac and iOS and iPad and having all that automation            |
 | 26:38      | transfer over the way Greg did it makes the app, it's like one of these things like 1 plus 1 equals     |
@@ -813,7 +813,7 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 01:20:04   | who started the [[Stream Deck]] trend. But wow, the [[Stream Deck]] is so cool. And I still don't really        |
 | 01:20:13   | know what to do with it. But I know I want to do a lot of things with it. But I'm also cautious         |
 | 01:20:19   | about going down these rabbit holes, because, you know, I don't know when this is coming out,           |
-| 01:20:24   | but the Apple Silicon event is or well, there's some [[Apple]] event next week. And I have a feeling        |
+| 01:20:24   | but the [[Apple Silicon]] event is or well, there's some [[Apple]] event next week. And I have a feeling        |
 | 01:20:30   | that I might be purchasing a personal computer after that. And I don't know what's gonna happen.        |
 | 01:20:37   | Like when I really hope that shortcuts is coming to the Mac, I bet it's not. I mean, I'm sure it's      |
 | 01:20:44   | not going to be for like another year or so. But since I'm at a point in my life now, where I           |

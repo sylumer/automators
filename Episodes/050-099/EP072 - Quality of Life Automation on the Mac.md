@@ -101,7 +101,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 02:04      | that was probably my favourite Intel Mac I ever owned, but, but, you know, getting rid                    |
 | 02:09      | of it, you know, the writing was on the wall when you see that a MacBook Air can render                  |
 | 02:15      | video faster than my iMac Pro. So you can only imagine what it's going to be like when                   |
-| 02:21      | they release future Apple Silicon Macs that have more cores and are going to, you know,                  |
+| 02:21      | they release future [[Apple Silicon]] Macs that have more cores and are going to, you know,                  |
 | 02:26      | just run circles around an iMac Pro. So, so anyway, I've got a very fancy monitor that                   |
 | 02:31      | I feel guilty about owning because it's more monitor than I deserve. It does a lot in terms              |
 | 02:38      | of brightness that I don't really need. But one thing I really like about it is the size.                |

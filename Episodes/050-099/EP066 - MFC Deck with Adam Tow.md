@@ -1492,10 +1492,10 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:01:39   | That'd be a nice time to have it clear out as you're switching,                    |
 | 01:01:41   | you know, chips.                                                                   |
 | 01:01:43   | I also feel like, like the apps, you want to make sure the apps                    |
-| 01:01:46   | get the Apple Silicon version installed.                                           |
+| 01:01:46   | get the [[Apple Silicon]] version installed.                                           |
 | 01:01:49   | Yeah.                                                                              |
 | 01:01:50   | Like Zoom has a different version that you need to download                        |
-| 01:01:52   | if you, if you're using the Apple Silicon version.                                 |
+| 01:01:52   | if you, if you're using the [[Apple Silicon]] version.                                 |
 | 01:01:55   | So there's, there's going to be a couple of those, I'm sure.                       |
 | 01:01:59   | That's what I would be doing.                                                      |
 | 01:02:00   | I'm sticking with my Intel Mac Mini for now.                                       |
@@ -1514,7 +1514,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:02:34   | It clearly, like even the wallpaper wasn't right.                                  |
 | 01:02:37   | So something went wrong.                                                           |
 | 01:02:39   | I think maybe migration assistant is choking a bit going                           |
-| 01:02:43   | between Intel and Apple Silicon.                                                   |
+| 01:02:43   | between Intel and [[Apple Silicon]].                                                   |
 | 01:02:45   | And I'm sure they'll get a future update and that'll go away.                      |
 | 01:02:48   | But I can tell you, I had a similar problem.                                       |
 | 01:02:51   | And now I'm just going to manually move her files over                             |

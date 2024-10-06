@@ -188,7 +188,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 05:08      | and maybe you and I are exceptions                                    |
 | 05:10      | because it's hard for us to hold on                                   |
 | 05:11      | to [[Apple]] hardware, it seems.                                          |
-| 05:12      | But I really think that these Apple Silicon chips                     |
+| 05:12      | But I really think that these [[Apple Silicon]] chips                     |
 | 05:17      | are going to be very reliable.                                        |
 | 05:20      | And I've said this on the Mac Power user,                             |
 | 05:21      | so this might not be a surprise to listeners.                         |

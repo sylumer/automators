@@ -689,7 +689,7 @@ Stephen Millard, one of our favourite automators, returns to the show with ideas
 | 44:40      | So it runs this session and it triggers the [[Whisper]] AI installation to go through and process           |
 | 44:48      | the podcast file.                                                                                       |
 | 44:49      | Because my machine is so old, it usually takes about five or six hours.                                 |
-| 44:53      | I'm sure a lovely nice new Apple Silicon one would probably do it in minutes instead.                   |
+| 44:53      | I'm sure a lovely nice new [[Apple Silicon]] one would probably do it in minutes instead.                   |
 | 44:58      | But it's not an urgent thing, I can just offload it onto that machine and just leave it to              |
 | 45:03      | run.                                                                                                    |
 | 45:04      | And that produces a set of files and one of those is having a VTT file, which is a transcript           |

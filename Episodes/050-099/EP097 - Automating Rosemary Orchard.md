@@ -960,7 +960,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:16:52   | or my iPad, which means that it works anywhere, which is really, really nice. Because the last           |
 | 01:16:59   | thing I want is to sit down and go, oh, yeah, I wanted to do this. Oh, now I need my Mac. Right.         |
 | 01:17:06   | Yeah. No, that's not happening. I feel like I'm doing more AppleScript than I have in a while            |
-| 01:17:11   | because of the Apple Silicon Macs. And they have an all day battery. And like all of a sudden, I'm       |
+| 01:17:11   | because of the [[Apple Silicon]] Macs. And they have an all day battery. And like all of a sudden, I'm       |
 | 01:17:18   | doing less work on the iPad. So I don't mind having Mac only automation. And AppleScript for Mac is      |
 | 01:17:25   | so good. I mean, there's so many apps that are really hooked into it. So you can do a lot of cool        |
 | 01:17:30   | stuff with AppleScript. But I don't know that that's the long term play. What do you think is the        |

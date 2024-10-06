@@ -1355,7 +1355,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 53:43      | an Android app, a Mac OS app                                                                       |
 | 53:45      | and a Windows app and a Linux app                                                                  |
 | 53:47      | and that's five apps folks.                                                                        |
-| 53:49      | Plus don't forget that you've got Apple Silicon                                                    |
+| 53:49      | Plus don't forget that you've got [[Apple Silicon]]                                                    |
 | 53:51      | and you've got                                                                                     |
 | 53:53      | [[Apple]] Intel machines                                                                               |
 | 53:55      | and then you've got Windows and you've got the Windows Linux                                       |
