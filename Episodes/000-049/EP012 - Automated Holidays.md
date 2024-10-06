@@ -195,7 +195,7 @@ Next, they get to holiday music. It's great that you can automate music playback
 | 06:28      | But at the most basic level, if you've got a especially if you've got a music subscription           |
 | 06:33      | service, but also if you just bought all your own music, you can easily put together a playlist.     |
 | 06:38      | I'm going to be [[Apple]] centric on this discussion because that's where I spend most of my time.       |
-| 06:44      | And and I since I have an Apple music subscription, I have over the years put together what I think  |
+| 06:44      | And and I since I have an [[Apple Music]] subscription, I have over the years put together what I think  |
 | 06:49      | is a mighty fine playlist.                                                                           |
 | 06:51      | I call it Yule, why you ULE and in fact, I'll put a link for it in the show notes.                   |
 | 06:57      | So if you want to subscribe to it, it's just a whole bunch of jazz related Christmas stuff           |

@@ -17,7 +17,7 @@ With macOS 10.15 (Catalina) and Windows 11, iTunes functionality has been split 
 - Organise, purchase, download, stream, and play offline multiple types of media, including music, movies, TV shows, and audiobooks
 - Create and share playlists
 - Sync content with [[Apple]] devices
-- Discover new music with Apple Music
+- Discover new music with [[Apple Music]]
 - Support for Internet radio stations
 - Backup and restore iOS devices
 - Home sharing for streaming media within a network

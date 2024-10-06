@@ -440,7 +440,7 @@ Happy Automated Holidays! The Automators have a pile of new ideas for automating
 | 23:57      | But I do like to automate it, and there's a couple of ways you can do it.                           |
 | 24:02      | I'm trying to keep it simple, and this is one that absolutely lends itself to [[HomeKit]].              |
 | 24:08      | You don't have to have any fancy home assistant or any other technology to make it work.            |
-| 24:12      | If you've got [[Apple]] Tech and you've got Apple Music, you can run this holiday playlist via          |
+| 24:12      | If you've got [[Apple]] Tech and you've got [[Apple Music]], you can run this holiday playlist via          |
 | 24:19      | a shortcut.                                                                                         |
 | 24:21      | And it's not that hard, really.                                                                     |
 | 24:23      | You just have a shortcut that plays a specific playlist on a specific device.                       |

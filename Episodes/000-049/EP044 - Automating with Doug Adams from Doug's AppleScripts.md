@@ -352,7 +352,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 16:43      | And I know a lot of listeners, I'm sure have gone to your website.                                   |
 | 16:46      | I know, I think, I think I'm a customer, I think I've bought scripts from you.                       |
 | 16:49      | You had some packages over the years that I've purchased.                                            |
-| 16:53      | And, and then [[Apple]] came out with music, Apple Music, as opposed to iTunes and we're all             |
+| 16:53      | And, and then [[Apple]] came out with music, [[Apple Music]], as opposed to iTunes and we're all             |
 | 16:58      | worried is Doug going to be okay.                                                                    |
 | 17:00      | Yeah, my first reaction was, wait, what's happening to Doug's scripts?                               |
 | 17:05      | Well, you know, I'm trying to remember what I thought they were going to do because there            |
@@ -886,9 +886,9 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 46:05      | And that is such a great idea.                                                                       |
 | 46:06      | So I have this thing with this artist Dexter Gordon, nobody's ever heard of him unless               |
 | 46:10      | you're really into jazz, but he's kind of an obscure tenor sax player.                               |
-| 46:14      | But when I got into Apple music, I realised that there's a lot of Dexter out there that              |
+| 46:14      | But when I got into [[Apple Music]], I realised that there's a lot of Dexter out there that              |
 | 46:20      | I had.                                                                                               |
-| 46:21      | I wasn't aware of an Apple music's got a pretty deep library on it.                                  |
+| 46:21      | I wasn't aware of an [[Apple Music\|Apple Music's]] got a pretty deep library on it.                                  |
 | 46:24      | So I've got like 60 or 70 Dexter albums on my library now.                                           |
 | 46:30      | And this, but I want to listen to it.                                                                |
 | 46:32      | I've got this massive playlist and it's just crazy having something so big.                          |

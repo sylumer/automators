@@ -197,7 +197,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 11:39      | shortcuts with us, Matt? Totally. I have a couple here for you today. I have one that                                                                                              |
 | 11:46      | I use to open my Twitter lists, which might be handy if you're suffering from a lack of                                                                                            |
 | 11:52      | tweet bot in your life lately. And then I also have a fun one that I use to create master                                                                                          |
-| 11:59      | versions of all of my Apple music playlists, which I then use this shortcut to update,                                                                                             |
+| 11:59      | versions of all of my [[Apple Music]] playlists, which I then use this shortcut to update,                                                                                             |
 | 12:05      | run, open, then do multiple tasks on. And then assuming we have enough time because I've                                                                                           |
 | 12:12      | got lots of material. I have another one that's called when is golden hour? And it looks at                                                                                        |
 | 12:17      | [[Dark Sky]] and calls their API. And then from the [[JSON]] response that they give back, which                                                                                           |

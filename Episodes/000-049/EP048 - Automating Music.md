@@ -853,7 +853,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 46:10      | Of course, it has to be the right kind of music, so less death metal, but it's okay.                   |
 | 46:16      | So for me, music, the automation story for music for me has really altered over the years.             |
 | 46:22      | Years ago, my automation fund was creating very Byzantine style smart playlists, you                   |
-| 46:29      | know, like I talked about at the top of the show, you can still do that in Apple music.                |
+| 46:29      | know, like I talked about at the top of the show, you can still do that in [[Apple Music]].                |
 | 46:33      | But for me now, it's been more about automating different types of music for different contexts        |
 | 46:41      | or types of work I'm doing.                                                                            |
 | 46:43      | So many of my shortcuts now have a play music step in them.                                            |
@@ -878,7 +878,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 48:11      | So that's kind of where it is for me now.                                                              |
 | 48:13      | But the actual generating the playlist of what plays from those, those are manually curated            |
 | 48:19      | by me at this point or, and we haven't really mentioned it on the show, but if you have                |
-| 48:24      | an Apple Music subscription, there are great playlists curated by other people.                        |
+| 48:24      | an [[Apple Music]] subscription, there are great playlists curated by other people.                        |
 | 48:29      | And you can download those very easily.                                                                |
 | 48:31      | So whatever your favourite artist or type of music is, you type it in and there's a bunch               |
 | 48:35      | of available playlists for you.                                                                        |
@@ -888,7 +888,7 @@ David and Rose tackle the best ways to automate your music. They also talk about
 | 48:42      | I have to say the Friends Mix is something that I've really been enjoying getting some                 |
 | 48:46      | some interesting different music into my playlist every week.                                          |
 | 48:49      | There that said, I'm not 100% certain Phil Schiller actually listens to everything that                |
-| 48:53      | ends up in my Friends Mix because you can add Phil Schiller on Apple Music.                            |
+| 48:53      | ends up in my Friends Mix because you can add Phil Schiller on [[Apple Music]].                            |
 | 48:57      | But there's always some interesting stuff in there.                                                    |
 | 49:00      | So it's worth looking at.                                                                              |
 | 49:03      | And the big caveat there is you have to download it.                                                   |
