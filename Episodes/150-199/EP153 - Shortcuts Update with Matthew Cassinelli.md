@@ -164,7 +164,7 @@ Shortcuts guru, Matthew Cassinelli joins to discuss the state of shortcuts and s
 | 10:19      | Yeah, why not?                                                                                       |
 | 10:21      | I mean, it's kind of like that's like you are doing it. So now suddenly, Oh, plus you                |
 | 10:27      | bonus get shortcuts, and then you get iPhone action button, you get it app shortcuts on              |
-| 10:33      | the Apple Vision Pro. So like, it's a smart strategy in the long run. And then I think               |
+| 10:33      | the [[Apple Vision Pro]]. So like, it's a smart strategy in the long run. And then I think               |
 | 10:38      | the developers have to catch up and the I think the users need to demand it as well.                 |
 | 10:44      | I think that's something that like, people like us shout about it, but regular people                |
 | 10:49      | also like can motivate their teams to do it by asking for it.                                        |

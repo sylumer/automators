@@ -20,7 +20,7 @@ title: "151: OmniVision with Ken Case"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-Ken Case joins David Sparks and Rosemary Orchard to talk about automating all the things from the Omni Group, including OmniFocus on Apple Vision Pro.
+Ken Case joins David Sparks and Rosemary Orchard to talk about automating all the things from the Omni Group, including OmniFocus on [[Apple Vision Pro]].
 
 # Hosts
 - [[David Sparks]]
@@ -429,7 +429,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 23:10      | Let's just make a mode where you can add a whole [[Taskpaper]] set of input or tasks all                            |
 | 23:14      | at once and do that.                                                                                                |
 | 23:16      | And, you know, that same sort of thing happens, still happens today, like when we started                           |
-| 23:21      | looking at Omni Automation on the Apple Vision Pro, we realised, oh, it's really awkward                            |
+| 23:21      | looking at Omni Automation on the [[Apple Vision Pro]], we realised, oh, it's really awkward                            |
 | 23:26      | to download something from the Omni-automation website and one of these plug-ins and try                            |
 | 23:31      | to, you know, it ends up in your downloads folder and then you have to go to the files                              |
 | 23:35      | app and you have to open it and all of this sort of mess there.                                                     |
@@ -685,7 +685,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 41:11      | getting people in your team helping as well, but Sal has written this crazy voice control                           |
 | 41:17      | system again, not just for [[OmniFocus]], but for, I think all of your apps at this point                           |
 | 41:21      | where you can sit and talk to them and they just work and you, you could think about it                             |
-| 41:27      | as an accessibility feature, but honestly what it is, it's an Apple Vision Pro feature                              |
+| 41:27      | as an accessibility feature, but honestly what it is, it's an [[Apple Vision Pro]] feature                              |
 | 41:32      | as you're sitting there with that face computer on and you just start talking and [[OmniFocus]]                     |
 | 41:37      | just starts going off to the races where you, I mean, that was another big move of automation                       |
 | 41:42      | that you guys kind of jumped on that nobody saw coming.                                                             |
@@ -700,13 +700,13 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 42:24      | the voice activation to the plugin system and then [[Sal Soghoian\|Sal]] did the heavy lifting of, all right,       |
 | 42:32      | now let's sit down and write a hundred different things that you might do with that.                                |
 | 42:37      | It's available.                                                                                                     |
-| 42:39      | And yeah, that's a great use on the Apple Vision Pro where you might, you know, the                                 |
-| 42:43      | three built-in forms of input that you have on the Apple Vision Pro are your eyes with                              |
+| 42:39      | And yeah, that's a great use on the [[Apple Vision Pro]] where you might, you know, the                                 |
+| 42:43      | three built-in forms of input that you have on the [[Apple Vision Pro]] are your eyes with                              |
 | 42:48      | the, you know, gaze tracking.                                                                                       |
 | 42:50      | You have your hands that you can tap your fingers together to click on something and                                |
 | 42:54      | then or tap on something I think is their official terminology.                                                     |
 | 42:59      | And then you have your voice.                                                                                       |
-| 43:01      | And personally, when I use the Apple Vision Pro, I actually use a keyboard much more                                |
+| 43:01      | And personally, when I use the [[Apple Vision Pro]], I actually use a keyboard much more                                |
 | 43:06      | often because a lot of the work that I do involves the keyboard.                                                    |
 | 43:10      | But if you happen to just be wandering around only with those three things, the voice is                            |
 | 43:14      | the input mechanism that lets you get the most data in the most quickly.                                            |

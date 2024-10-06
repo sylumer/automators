@@ -39,7 +39,7 @@ Apple is a global technology company headquartered in Cupertino, California. The
 - **[[Apple Wallet]]** - A digital wallet app that securely stores users' credit, debit, and prepaid cards, as well as tickets, boarding passes, and transit cards, facilitating easy, contactless payments and organisation.  
 - **[[FaceTime]]** - A video and audio calling service exclusively for Apple devices, allowing users to make high-quality calls over Wi-Fi or cellular data, supporting group calls with multiple participants.  
 - **[[Apple Reminders]]** - A task management application available on iOS and macOS that helps users create, organise, and track reminders and to-do lists, featuring notifications, due dates, and location-based alerts for improved productivity and task management.  
-- **Apple Vision Pro** An advanced augmented reality (AR) headset featuring high-resolution displays, integrated sensors, and a focus on immersive experiences.
+- **[[Apple Vision Pro]]** An advanced augmented reality (AR) headset featuring high-resolution displays, integrated sensors, and a focus on immersive experiences.
 
 
 

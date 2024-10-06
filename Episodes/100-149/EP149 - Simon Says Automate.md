@@ -222,7 +222,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 10:40      | of this.                                                                                                         |
 | 10:41      | I did not, no, I did not.                                                                                        |
 | 10:43      | I did attend one of the labs that [[Apple]] had during the, during the winter.                                       |
-| 10:49      | So I did have a chance to try [[Runestone]] on the, on the Apple Vision Pro.                                     |
+| 10:49      | So I did have a chance to try [[Runestone]] on the, on the [[Apple Vision Pro]].                                     |
 | 10:54      | Well, I mean, developing for a platform you never used before is a challenge, but, but                           |
 | 10:58      | one of the things you've also done, and one of the reasons I want to talk to you with                            |
 | 11:03      | the Automator's audience is because I feel like you, Simon, are in my mind one of the                            |
