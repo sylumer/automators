@@ -20,7 +20,7 @@ title: "118: Ask the Automators"
 ![Automators Logo|200x200](Logo.jpg)
 
 # Synopsis
-In this episode Rose and David dig into the questions and feedback bag. Topics include Apple Notes and Reminders, home automation (hooray for doorbell cams!), window management, and IR blasting. Good times!
+In this episode Rose and David dig into the questions and feedback bag. Topics include [[Apple Notes]] and Reminders, home automation (hooray for doorbell cams!), window management, and IR blasting. Good times!
 
 # Hosts
 - [[David Sparks]]
@@ -281,7 +281,7 @@ In this episode Rose and David dig into the questions and feedback bag. Topics i
 | 16:12      | You know, make a funny list like what's your favourite movies or whatever, but have them check the boxes and look at the pictures and find which ones land for them the best.                                                                                                                                               |
 | 16:21      | And then you share that with your customers.                                                                                                                                                                                                                                                                               |
 | 16:23      | But it's going to take a little work on your behalf either way.                                                                                                                                                                                                                                                            |
-| 16:27      | And at the end of this, the product isn't as good as using Apple notes.                                                                                                                                                                                                                                                    |
+| 16:27      | And at the end of this, the product isn't as good as using [[Apple Notes]].                                                                                                                                                                                                                                                    |
 | 16:31      | So keep that for your folks that are on [[Apple]] platforms.                                                                                                                                                                                                                                                                   |
 | 16:35      | Yeah.                                                                                                                                                                                                                                                                                                                      |
 | 16:36      | One of the things I did just think of is notes sharing actually doesn't necessarily need the other person to be on iPhone.                                                                                                                                                                                                 |

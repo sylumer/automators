@@ -1074,12 +1074,12 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 58:45      | Right now, calendar, I was, I'm jumping between fantastic calendar and calendar.                       |
 | 58:49      | Always during the beta I try to use the [[Apple]] native stuff.                                            |
 | 58:52      | But I've got calendar right now and I've got OmniFocus and I'm trying to do more with                  |
-| 58:57      | Apple Notes because that's also something that got a lot of improvement with this new                  |
+| 58:57      | [[Apple Notes]] because that's also something that got a lot of improvement with this new                  |
 | 59:00      | one.                                                                                                   |
-| 59:01      | So I've got Apple Notes down there.                                                                    |
+| 59:01      | So I've got [[Apple Notes]] down there.                                                                    |
 | 59:02      | And then I actually got, I have one more shortcut in the bottom, which is kind of what                 |
 | 59:06      | I call kind of my input shortcut, where it's like it creates a new draft, creates a new                |
-| 59:11      | OmniFocus inbox items, creates new Apple Notes.                                                        |
+| 59:11      | OmniFocus inbox items, creates new [[Apple Notes]].                                                        |
 | 59:14      | So it does a whole bunch of stuff.                                                                     |
 | 59:15      | I've got that in the dock for now.                                                                     |
 | 59:16      | But the, and then at the top row, I put the four folders, you know, I've talked about                  |

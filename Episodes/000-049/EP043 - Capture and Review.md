@@ -253,7 +253,7 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 15:38      | means that when I make a change, I can go look it up and see where else I need to go                    |
 | 15:43      | and update this, just in case. Huge automators power tip there is in [[Drafts]],                            |
 | 15:47      | you can get a unique identifier for every single draft you make, which is way easier                    |
-| 15:53      | than if you're using Apple Notes and you have to use a goofy search technique and hope that             |
+| 15:53      | than if you're using [[Apple Notes]] and you have to use a goofy search technique and hope that             |
 | 15:57      | you get the right one. I mean, the way I do it in Notes is I actually create a unique                   |
 | 16:02      | identifier, which is a strange string of text and I just searched for it that would only                |
 | 16:06      | be in that one note, but that is like a total hack and the [[Drafts]] does it so much better.               |

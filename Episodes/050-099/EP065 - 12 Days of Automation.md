@@ -919,14 +919,14 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 46:58      | So first you're grabbing the name of the person and then you're, then you type in what it                |
 | 47:04      | is you just bought.                                                                                      |
 | 47:05      | And so, you know, Rosemary, you know, new home kit, you know, switches and, and then                     |
-| 47:13      | you hit enter and then it saves it with an append to note and Apple notes and a shared                   |
+| 47:13      | you hit enter and then it saves it with an append to note and [[Apple Notes]] and a shared                   |
 | 47:18      | note.                                                                                                    |
 | 47:19      | We have a shared note between us for the gifts we bought and it just appends to that note                |
 | 47:23      | that append is important there.                                                                          |
 | 47:24      | You don't want to rewrite the note.                                                                      |
 | 47:26      | You wanted to just add to the note and it does a great job and it, and I format it.                      |
 | 47:30      | So it says Rosemary dash new, you know, home kit switches.                                               |
-| 47:35      | And so then that updates automatically and because of the magic of note, Apple notes                     |
+| 47:35      | And so then that updates automatically and because of the magic of note, [[Apple Notes]]                     |
 | 47:40      | sharing, it updates automatically on both phones.                                                        |
 | 47:43      | So when either one of us goes to buy something, all she has to do is check the Apple note.               |
 | 47:47      | And then after she done buying something, just run this, the little shortcut script.                     |
@@ -977,7 +977,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 49:14      | Next year, like I had thought about different ways of doing this, not well, maybe I could                |
 | 49:17      | make an error table and like my wife is never going to work with an error table.                         |
 | 49:21      | That is like just not going to happen.                                                                   |
-| 49:23      | And so Apple notes seem like the obvious choice.                                                         |
+| 49:23      | And so [[Apple Notes]] seem like the obvious choice.                                                         |
 | 49:27      | I think what I would do next year, and this really isn't automator is like, we also often                |
 | 49:34      | sit down and talk about gift ideas is for that destination note where we do the append                   |
 | 49:39      | stuff.                                                                                                   |

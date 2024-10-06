@@ -936,7 +936,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 39:17      | and it is super automation friendly.                                                              |
 | 39:19      | It, I mean, there's so much you can do                                                            |
 | 39:22      | through Siri shortcuts with Bear                                                                  |
-| 39:24      | that you cannot do with Apple Notes.                                                              |
+| 39:24      | that you cannot do with [[Apple Notes]].                                                              |
 | 39:26      | But frankly, I found that I wasn't really doing                                                   |
 | 39:28      | much of that automation.                                                                          |
 | 39:29      | And I don't really like the way Bear displays the text                                            |
@@ -949,13 +949,13 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 39:49      | with notes for now.                                                                               |
 | 39:50      | And as I was making that decision, I got this beta                                                |
 | 39:53      | and they said, oh, by the way,                                                                    |
-| 39:54      | Siri shortcuts now supports Apple Notes.                                                          |
+| 39:54      | Siri shortcuts now supports [[Apple Notes]].                                                          |
 | 39:56      | So it's kind of like a couple of things happening at once,                                        |
 | 39:59      | but yay, we get Apple Note,                                                                       |
 | 40:01      | or at least a basic level of Apple Note support                                                   |
 | 40:03      | through Siri shortcuts now.                                                                       |
 | 40:05      | Yeah, I mean, we always had the ability                                                           |
-| 40:06      | to create notes in Apple Notes, but that was kind of it.                                          |
+| 40:06      | to create notes in [[Apple Notes]], but that was kind of it.                                          |
 | 40:09      | It was this one way entry into a black hole                                                       |
 | 40:13      | and you were stuck with it.                                                                       |
 | 40:15      | But now you can find notes and then once you found it,                                            |
@@ -985,7 +985,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 41:20      | and I've got a note where I'm tracking the stuff                                                  |
 | 41:23      | we're working on that project,                                                                    |
 | 41:25      | I can just quickly create an entry                                                                |
-| 41:27      | without even going on Apple notes and just using my voice.                                        |
+| 41:27      | without even going on [[Apple Notes]] and just using my voice.                                        |
 | 41:29      | And that kind of stuff, I think, is really a nice addition.                                       |
 | 41:33      | Yes, and I would make a point here.                                                               |
 | 41:37      | There are some people who are used to using things                                                |
@@ -1058,7 +1058,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 44:31      | but if you do something repeatedly and you have,                                                  |
 | 44:34      | like, that workflow of choosing between multiples                                                 |
 | 44:37      | and you're gonna make a bunch of different shortcuts                                              |
-| 44:39      | that relate to Apple Notes,                                                                       |
+| 44:39      | that relate to [[Apple Notes]],                                                                       |
 | 44:41      | why not make it a subroutine that you just drop in                                                |
 | 44:44      | with the run shortcut command,                                                                    |
 | 44:46      | rather than having to create it from scratch every time?                                          |

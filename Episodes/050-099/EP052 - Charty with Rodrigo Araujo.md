@@ -826,7 +826,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 46:31      | you've got a little bit of time.                                                                       |
 | 46:32      | So.                                                                                                    |
 | 46:33      | Yeah, that's one more thing I would like to see [[Apple]] improve using notes with automation              |
-| 46:38      | is very difficult because Apple notes really isn't that friendly to shortcuts.                         |
+| 46:38      | is very difficult because [[Apple Notes]] really isn't that friendly to shortcuts.                         |
 | 46:42      | Yeah, the, the fine notes is actually a source of headaches every time I try to use it until           |
 | 46:48      | I can remember the exact way to, to search for a note and get the note title and whatever              |
 | 46:55      | it takes me a while every time.                                                                        |
@@ -834,7 +834,7 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 46:57      | Yeah.                                                                                                  |
 | 46:58      | So almost every application has a way to identify specific note or piece of data to identify           |
 | 47:06      | through shortcuts.                                                                                     |
-| 47:08      | Apple notes does not.                                                                                  |
+| 47:08      | [[Apple Notes]] does not.                                                                                  |
 | 47:09      | So I create like a little hash at the bottom of random characters that would only show                 |
 | 47:14      | up in that note.                                                                                       |
 | 47:15      | So I, in this instance, create my own, I guess, UID for.                                               |

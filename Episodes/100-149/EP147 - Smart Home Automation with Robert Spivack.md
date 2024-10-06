@@ -522,7 +522,7 @@ In this episode, Rosemary and David are joined by smart home guru Robert Spivack
 | 31:42      | some Google Homes or something.                                                                        |
 | 31:44      | And so, yeah, if you've already got those devices and they're okay, they're working                    |
 | 31:48      | for you, then upgrading to Home Pods everywhere or even HomePod Minis everywhere could be a            |
-| 31:54      | very expensive endeavor.                                                                               |
+| 31:54      | very expensive endeavour.                                                                               |
 | 31:56      | You mentioned earlier about starting with the pain points.                                             |
 | 32:01      | If those things are working for you and your family, your home is working with them, then              |
 | 32:07      | there's no reason to throw them away and start over unless there is something specific                 |

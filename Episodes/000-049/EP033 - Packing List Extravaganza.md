@@ -563,7 +563,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 29:39      | And if you check the box for that, then it's going to add the, you know, the items contained                                                                     |
 | 29:45      | within that optional selection to your text list.                                                                                                                |
 | 29:49      | And then you could just go through and, you know, basically paste in or you trigger the                                                                          |
-| 29:55      | snippet and whatever text editor of your choice, Apple notes to whatever.                                                                                        |
+| 29:55      | snippet and whatever text editor of your choice, [[Apple Notes]] to whatever.                                                                                        |
 | 30:01      | And then I didn't think about trying to [[Apple Reminders\|Reminders]], but I don't think it would work.                                                                              |
 | 30:06      | I'll test that out before we publish.                                                                                                                            |
 | 30:08      | But the other way, so you would just trigger the TextExpander snippet.                                                                                          |
@@ -880,7 +880,7 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 48:51      | Yeah.                                                                                                                                                            |
 | 48:52      | I did a video in the shortcuts field guide on [[Drafts]] and one of the things I really                                                                              |
 | 48:55      | like about it is that it gives a unique identifier to each draft's note, which it makes accessing                                                                |
-| 49:01      | it from outside like from OmniFocus really easy, whereas Apple Notes doesn't give you                                                                            |
+| 49:01      | it from outside like from OmniFocus really easy, whereas [[Apple Notes]] doesn't give you                                                                            |
 | 49:06      | that unique identifier.                                                                                                                                          |
 | 49:08      | The only way I came up with to really reliably get to a specific Apple Note is to insert some                                                                    |
 | 49:15      | unique string into it, like a password almost, like some just unique group of letters and                                                                        |

@@ -246,7 +246,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 16:05      | grabs the message URL for the active email or the currently selected email. And I tied               |
 | 16:13      | it to a TextExpander command E-Link, E-L-I-N-K. So if I type E-L-I-N-K, no matter what app          |
 | 16:20      | I'm in, it looks at my Apple Mail program and says, oh, this is the message he has selected.         |
-| 16:25      | And so if I'm taking some notes and Apple notes about something I'm working on, and                  |
+| 16:25      | And so if I'm taking some notes and [[Apple Notes]] about something I'm working on, and                  |
 | 16:31      | I'll say source email, and then I have a [[Keyboard Maestro]] script that selects that, creates          |
 | 16:39      | hyperlink and then types E-Link. And so I'm combining [[Keyboard Maestro]] and TextExpander.            |
 | 16:46      | It's like chocolate and peanut butter. But the idea at the end is that I've got a link               |
@@ -349,9 +349,9 @@ Rose and David share some of their favourite recently created automations rangin
 | 24:50      | in there and have calls come in or something. And I call it meeting mode. And then I just            |
 | 24:57      | run a couple of things. The first, I'm collecting data then at this point. So the idea of the        |
 | 25:02      | script is to run and then get a kick off point for writing down notes during the meeting.            |
-| 25:09      | And I've been using Apple notes for it. With iOS 13 beta, I've been using Apple notes                |
+| 25:09      | And I've been using [[Apple Notes]] for it. With iOS 13 beta, I've been using [[Apple Notes]]                |
 | 25:14      | a lot more. You know, now that you have nested folders and you can create them on the iOS            |
-| 25:18      | device, I feel like I'm going to be doing more on Apple notes than I used to. So anyway,             |
+| 25:18      | device, I feel like I'm going to be doing more on [[Apple Notes]] than I used to. So anyway,             |
 | 25:24      | so the first thing it does is it turns on do not disturb. And I turn it on just until                |
 | 25:28      | I leave, you know, because you can do that, which is kind of nice. And then the next thing           |
 | 25:33      | I do is I grab the current date. And, you know, that's going to be used in the minutes.              |
@@ -367,7 +367,7 @@ Rose and David share some of their favourite recently created automations rangin
 | 26:22      | date from that date call. And it inserts the subject from the subject call. And then it              |
 | 26:27      | puts down a list of attendees, you know, from the, the choose from list. And then it types           |
 | 26:33      | in, you know, items discussed and action items. And it drops that into an Apple note and it          |
-| 26:39      | opens into Apple notes. So that's all it does. I mean, it just grabs some information and            |
+| 26:39      | opens into [[Apple Notes]]. So that's all it does. I mean, it just grabs some information and            |
 | 26:44      | creates the note with all the basics in it. And then I type in the note as we're talking             |
 | 26:48      | to the meeting and at the end of the meeting, I summarise the action items and who's going           |
 | 26:54      | to do them. And I type them into this document. So that's the first script. And then the second      |

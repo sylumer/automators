@@ -133,7 +133,7 @@ Rose and David spent some time looking at Raycast, the latest Mac launcher to ar
 | 04:41      | The advantage of [[Spotlight]], of course, is it's so integrated to Mac OS, it gets access                |
 | 04:45      | to files and data that the other ones don't get.                                                      |
 | 04:49      | Then if I hit Return on Rosemary for the version of your contact card, it's even better.              |
-| 04:55      | It's like I've got Apple Notes showing up that you're in reminders that we have together              |
+| 04:55      | It's like I've got [[Apple Notes]] showing up that you're in reminders that we have together              |
 | 05:02      | and mail messages.                                                                                    |
 | 05:05      | Then at the top, they've got a button you can press to send a message, do a [[FaceTime]]                  |
 | 05:08      | call, send an email.                                                                                  |

@@ -368,7 +368,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 15:53      | and B, you can also access it in shortcuts.                                                            |
 | 15:54      | You have to talk about it every time, but like that's table stakes at this point.                      |
 | 15:58      | Yeah.                                                                                                  |
-| 15:59      | Like two that really stand out are Apple notes and [[Apple Reminders\|Reminders]].                                          |
+| 15:59      | Like two that really stand out are [[Apple Notes]] and [[Apple Reminders\|Reminders]].                                          |
 | 16:01      | Like [[Apple Reminders\|Reminders]] got new features last year.                                                             |
 | 16:04      | Yeah.                                                                                                  |
 | 16:05      | And even though there is good support in shortcuts or [[Apple Reminders\|Reminders]], none of the new features got          |

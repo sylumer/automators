@@ -587,7 +587,7 @@ In this episode, David and Rosemary are joined by Greg Pierce of Agile Tortoise 
 | 49:52      | of utility. Yeah, I forgot to mention on mine the same thing. I use tags now that I'm using [[Drafts]]           |
 | 49:57      | as note storage. I use the tags there as well, because tags are the way I can find things later.             |
 | 50:04      | So that that's really useful. Although I am going to continue to bug you, I want someday to be able          |
-| 50:10      | to export those tags as Apple notes or as Apple tags. I don't know if that's possible or not.                |
+| 50:10      | to export those tags as [[Apple Notes]] or as Apple tags. I don't know if that's possible or not.                |
 | 50:15      | But yeah, it is. That's something on the feature list. I think I actually have some code in there            |
 | 50:21      | for it yet, but didn't finish it. It'll get there. So I guess that's why I had you on today,                 |
 | 50:26      | so I could bug you about that publicly, since I've done it enough privately. Fair enough.                    |

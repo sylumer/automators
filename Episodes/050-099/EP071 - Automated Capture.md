@@ -215,7 +215,7 @@ In this episode, David and Rosemary tackle the sticky subject of automated captu
 | 13:27      | whole procedure and we're going to talk about that later about, you know, how do you get                 |
 | 13:30      | the stuff out of [[Drafts]] into the various buckets they belong later. But but otherwise, yeah,             |
 | 13:36      | just just get something like that. You know, if you don't want to spend money, you could                 |
-| 13:41      | do it in Apple notes, you could just open an Apple note and you could have one ready.                    |
+| 13:41      | do it in [[Apple Notes]], you could just open an Apple note and you could have one ready.                    |
 | 13:45      | Well, I mean, [[Drafts]] is free. That's something that people will keep forgetting [[Drafts]] is                |
 | 13:49      | actually free. The in-app purchase is only necessary if you're doing things like creating                |
 | 13:53      | your own actions and workspaces and stuff like that. If you just want to use [[Drafts]]                     |

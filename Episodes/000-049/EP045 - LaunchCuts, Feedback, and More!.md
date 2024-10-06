@@ -237,15 +237,15 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 14:56      | who's been on the show as well. Yeah. And if you don't, if you didn't listen to that show, UUID is     |
 | 15:01      | something that allows you to tell the computer this is a unique item. And it's super useful for        |
 | 15:08      | automation because it has to find that UUID in order to get where it belongs. The best example         |
-| 15:16      | this for me is when I'm automating with Ulysses versus Apple Notes in shortcuts. Ulysses sets          |
+| 15:16      | this for me is when I'm automating with Ulysses versus [[Apple Notes]] in shortcuts. Ulysses sets          |
 | 15:24      | a unique identifier for each note. So when you want to append to a note or make a change to a note,    |
-| 15:30      | it always goes to exactly the right one. For whatever reason, Apple Notes doesn't do that.             |
+| 15:30      | it always goes to exactly the right one. For whatever reason, [[Apple Notes]] doesn't do that.             |
 | 15:35      | Instead, you've got to search for it. So one of my tricks is to generate a UUID                        |
 | 15:40      | and then drop it in the bottom of an Apple Note. And then I just search for that UUID and it's only    |
 | 15:46      | going to ever find that one note. So I never have a problem. Like if you were to use like a text       |
 | 15:51      | phrase or a customer name or something that could appear in more than one note, you're not necessarily |
 | 15:57      | going to perform the automation where you want to. So generate a UUID, put it in the bottom of an      |
-| 16:02      | Apple Note. So you're basically adding the UUID feature to Apple Notes. Yes. And I should mention      |
+| 16:02      | Apple Note. So you're basically adding the UUID feature to [[Apple Notes]]. Yes. And I should mention      |
 | 16:08      | as well that Alan's website, so I'll link to the version for generation because that's a random        |
 | 16:14      | generator. But there's a button there where you can copy an API call. And then if you use that URL     |
 | 16:20      | in the get contents of URL action in shortcuts, then it will just return a unique identifier to        |

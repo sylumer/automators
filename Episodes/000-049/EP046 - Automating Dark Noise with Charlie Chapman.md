@@ -397,7 +397,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 21:38      | an idea of or something they may want to do?                                                              |
 | 21:40      | Yeah, so I mean, outside of the, all the ones that I would use as a sort of promotion for                 |
 | 21:44      | my app, one of the ones I do use a lot is I just have one called thoughts.                                |
-| 21:51      | And whenever I click on it, it just pops up a list of different Apple notes I have for                    |
+| 21:51      | And whenever I click on it, it just pops up a list of different [[Apple Notes]] I have for                    |
 | 21:57      | like my different podcasts, my app, I have, I have an Apple note that's just ideas.                       |
 | 22:03      | And like anytime I think of an idea, I just want to throw it in there as quick as I can.                  |
 | 22:07      | And so I have a little shortcut that just pops up the different buckets of ideas I have                   |
@@ -1045,9 +1045,9 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 58:41      | Yeah.                                                                                                     |
 | 58:42      | Specifically, one of the things that they changed was, for some reason, so the way that my app            |
 | 58:47      | works, most shortcuts that you see are automatically registered as shortcuts for the app.                 |
-| 58:54      | So like Apple Notes has a create note, find note, all that kind of stuff, but then there's                |
+| 58:54      | So like [[Apple Notes]] has a create note, find note, all that kind of stuff, but then there's                |
 | 59:01      | also the shortcuts that you donate as you use the app.                                                    |
-| 59:04      | So like in Apple Notes, if you open up a certain note, you can donate that.                               |
+| 59:04      | So like in [[Apple Notes]], if you open up a certain note, you can donate that.                               |
 | 59:11      | Open this particular note.                                                                                |
 | 59:13      | So that's how I'm setting up the shortcuts for each of the sounds.                                        |
 | 59:20      | So whenever you open up the app, it goes through all the current sounds, which this is important          |

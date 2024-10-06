@@ -181,7 +181,7 @@ Rose and David break down all the new automation options from [[Apple|Apple's]] 
 | 13:10      | developer to have to jump through a whole bunch of hoops to make everything available.                   |
 | 13:14      | Yeah, no, it makes total sense to me. Like, it feels to me like every year [[Apple]] picks two or            |
 | 13:20      | three of their own apps to get like the [[Shortcuts]] treatment. Like I felt like last year, it was          |
-| 13:26      | Apple notes, like Apple notes got a bunch of interesting and useful actions, but [[Apple Reminders\|Reminders]]               |
+| 13:26      | [[Apple Notes]], like [[Apple Notes]] got a bunch of interesting and useful actions, but [[Apple Reminders\|Reminders]]               |
 | 13:31      | didn't get any. And now this year, [[Apple Reminders\|Reminders]] get some new ones. So you can open any lists,               |
 | 13:37      | you can pin and unpin reminders, and show and hide smart lists as [[Shortcuts]] actions.                     |
 | 13:44      | Quite frankly, still not enough in my opinion. Like I was trying to do for a lab member,                 |
@@ -200,7 +200,7 @@ Rose and David break down all the new automation options from [[Apple|Apple's]] 
 | 15:07      | about handling all of the nitty gritty as a [[Shortcuts]] app developer or anything else.                    |
 | 15:14      | So yeah, it's pretty nice to be able to just be like, okay, well, I'm going to open the app              |
 | 15:20      | settings for this particular app and go from there. Yeah, you know, when you mention it,                 |
-| 15:25      | you're right. A lot of those Apple notes items are settings. They're not really actions in terms         |
+| 15:25      | you're right. A lot of those [[Apple Notes]] items are settings. They're not really actions in terms         |
 | 15:31      | of taking action with the application. What do you think about [[Apple Home\|Home]]? It got a new action?                |
 | 15:39      | Yeah, so [[Apple Home\|Home]] has got a new action, which I'm not 100% certain I completely understand the               |
 | 15:44      | purpose of right now. But there is find a selected home and then it's find all selected homes.           |

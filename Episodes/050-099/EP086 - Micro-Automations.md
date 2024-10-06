@@ -502,7 +502,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 25:39      | of your note in there, David, and it works.                                                             |
 | 25:41      | Yeah.                                                                                                   |
 | 25:42      | And it's the note title that you want to get.                                                           |
-| 25:46      | So there's not like a unique identifier for Apple notes.                                                |
+| 25:46      | So there's not like a unique identifier for [[Apple Notes]].                                                |
 | 25:50      | You actually use the note title.                                                                        |
 | 25:52      | Yeah.                                                                                                   |
 | 25:53      | But it works.                                                                                           |
@@ -602,7 +602,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 32:02      | So the ones that I've got on GitHub, the vast majority of them, you can download them and               |
 | 32:06      | run them as they are.                                                                                   |
 | 32:07      | There are some where you might need to replace part of it.                                              |
-| 32:10      | So for example, the name of the note that you want to open in Apple Notes or the name                   |
+| 32:10      | So for example, the name of the note that you want to open in [[Apple Notes]] or the name                   |
 | 32:13      | of the folder, and those you will be able to spot easily because, first of all, I put                   |
 | 32:17      | a comment at the top of the file so you can see what it is that you need to do.                         |
 | 32:21      | And secondly, it's there inside of square brackets, inside the file, and so you delete                  |
@@ -1308,7 +1308,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:13:24   | So, you know, this means that I can just be sort of scribbling and, you know, as long                   |
 | 01:13:29   | as my letters are approximately correct, it will do that.                                               |
 | 01:13:32   | Now if I am going to be taking notes from something, say my grandmother said or something,              |
-| 01:13:38   | then I will usually switch to maybe Apple notes, but often notability because I like                    |
+| 01:13:38   | then I will usually switch to maybe [[Apple Notes]], but often notability because I like                    |
 | 01:13:44   | the dotted background on that and I like the ever scrolling pages of it.                                |
 | 01:13:49   | For some reason, notes has just never really clicked in my head as a place to handwrite                 |
 | 01:13:53   | notes.                                                                                                  |
@@ -1319,21 +1319,21 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:14:12   | But I went through a similar process, recently, you know, we've released iOS 15 and it's                |
 | 01:14:18   | got this new feature where if you swipe up from the upper right corner with your pencil,                |
 | 01:14:22   | it opens a new Apple note that you can start drawing on.                                                |
-| 01:14:27   | But I just find, number one, my writing in Apple notes is not very legible, that there's                |
+| 01:14:27   | But I just find, number one, my writing in [[Apple Notes]] is not very legible, that there's                |
 | 01:14:35   | no dot grid or any lines, it's just a blank page and my brain has trouble like organising               |
 | 01:14:41   | that into straight lines.                                                                               |
 | 01:14:43   | And number two, it's not customisable enough in terms of size, it's like a sticky pad,                  |
 | 01:14:49   | it's not like the full page.                                                                            |
 | 01:14:52   | And I know that there's another thing you can do where you tap it with a pencil and                     |
-| 01:14:55   | it opens a new one as well in Apple notes.                                                              |
-| 01:14:57   | But just the bottom line is Apple notes, to me, could get better at [[Apple Pencil]] input.                 |
+| 01:14:55   | it opens a new one as well in [[Apple Notes]].                                                              |
+| 01:14:57   | But just the bottom line is [[Apple Notes]], to me, could get better at [[Apple Pencil]] input.                 |
 | 01:15:05   | And I really like their tool, their pencil tool, you know, where you can change the                     |
 | 01:15:08   | brush and the colour and everything, but just like things like dot grid or good notes has                |
 | 01:15:14   | this great feature where it has like a large section at the bottom that you write in and                |
 | 01:15:19   | then it puts the text and the, you know, the appropriate size into the document.                        |
 | 01:15:25   | And I really like that because I can write kind of big, but then it's more legible when                 |
 | 01:15:29   | I'm done and it's straight lines.                                                                       |
-| 01:15:32   | And Apple notes has nothing like that.                                                                  |
+| 01:15:32   | And [[Apple Notes]] has nothing like that.                                                                  |
 | 01:15:34   | Yeah, yeah, no, I find particularly the lack of dot grid gets to me because notes has lines             |
 | 01:15:41   | and it has a grid, but I like a dot grid a lot of the time.                                             |
 | 01:15:44   | I will frequently write with lines, but if I want diagrams and stuff, I want a dot grid                 |
@@ -1341,7 +1341,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:15:52   | doing it, I guess.                                                                                      |
 | 01:15:53   | Yeah, me too.                                                                                           |
 | 01:15:54   | And I'm a very much a visual thinker, so I do make diagrams and things when I'm taking                  |
-| 01:15:59   | notes and like you, I've kind of given up on Apple notes, so my go to is good notes.                    |
+| 01:15:59   | notes and like you, I've kind of given up on [[Apple Notes]], so my go to is good notes.                    |
 | 01:16:06   | And I've got it in my doc.                                                                              |
 | 01:16:08   | And if I need to use the pencil to get something in, I find that it takes a few extra seconds           |
 | 01:16:14   | to get into good notes, but the notes I take are so much better that it's worth a few extra             |

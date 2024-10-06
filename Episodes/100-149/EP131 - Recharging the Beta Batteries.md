@@ -726,7 +726,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 44:39      | here and there's, there's columns, but they're empty because I didn't put anything in them.             |
 | 44:42      | Do I have to put something in them?                                                                     |
 | 44:44      | Things like that, it gets overwhelming fast.                                                            |
-| 44:48      | I will say the cross linking inside Apple Notes is great.                                               |
+| 44:48      | I will say the cross linking inside [[Apple Notes]] is great.                                               |
 | 44:53      | I'm really excited by that.                                                                             |
 | 44:54      | And also the PDF annotation there too.                                                                  |
 | 44:56      | I think that that is really nice.                                                                       |

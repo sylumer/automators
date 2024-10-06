@@ -611,7 +611,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 36:26      | all good podcasts have good preparation and so I have like a couple of things that's going on so        |
 | 36:32      | pretty much every day I'm doing some kind of prep for some show yeah so I and then there's two things   |
 | 36:37      | that's going on here I want to be able to quickly access the documents wherever they are wherever       |
-| 36:42      | they're google docs or sometimes apple notes and I also want to be able to set my toggle timers         |
+| 36:42      | they're google docs or sometimes [[Apple Notes]] and I also want to be able to set my toggle timers         |
 | 36:48      | for time tracking sure so I have a an action that it starts with a menu and it asks me which show       |
 | 36:55      | and it has all of my shows listed um and I tap the show and then what will happen is uh it goes         |
 | 37:02      | it's like a it goes to each show and it takes the name this is kind of this is kind of complicated      |

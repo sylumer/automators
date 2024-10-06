@@ -1087,12 +1087,12 @@ Automating the Holidays has never been easier. Rose and David have a pile of hol
 | 01:02:20   | She just fills them out by hand.                                                                     |
 | 01:02:21   | And then, like I said, with gift tracking, we really just keep it simple, just a shared              |
 | 01:02:27   | note.                                                                                                |
-| 01:02:28   | And Apple Notes has got so much better at stuff like this.                                           |
+| 01:02:28   | And [[Apple Notes]] has got so much better at stuff like this.                                           |
 | 01:02:30   | So I mean, in the years past, we had done databases and other solutions.                             |
-| 01:02:36   | But now that Apple Notes is pretty reliable and shared notes are really easy, Daisy and              |
+| 01:02:36   | But now that [[Apple Notes]] is pretty reliable and shared notes are really easy, Daisy and              |
 | 01:02:41   | I actually just have a shared folder.                                                                |
 | 01:02:44   | Now that's a new thing you can do as of, I think, last year.                                         |
-| 01:02:47   | So in Apple Notes, we have a shared folder.                                                          |
+| 01:02:47   | So in [[Apple Notes]], we have a shared folder.                                                          |
 | 01:02:49   | And then I can add any document to that shared folder.                                               |
 | 01:02:52   | And we don't have to go through the process of hooking up a sync for each new note.                  |
 | 01:02:57   | It's just part of that folder.                                                                       |

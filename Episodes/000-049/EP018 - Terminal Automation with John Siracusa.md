@@ -347,7 +347,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 14:27      | Like that's not the system is not helping you there.                                                     |
 | 14:29      | Well, if there's if there's one bit of sunlight here, it's that even since they                          |
 | 14:34      | released the most recent version of iOS, the series shortcut team has done several updates.              |
-| 14:39      | They've got one right now in beta where they're giving you more access to Apple notes.                   |
+| 14:39      | They've got one right now in beta where they're giving you more access to [[Apple Notes]].                   |
 | 14:43      | It seems like this is something that's very actively developed.                                          |
 | 14:46      | So I hope that they have a big whiteboard with a lot of these ideas covered.                             |
 | 14:50      | Yes, I'm very much hoping so, too.                                                                       |

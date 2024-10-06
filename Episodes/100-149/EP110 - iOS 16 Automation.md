@@ -389,7 +389,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 27:59      | and user focused features. So we got a bunch this year, you know, send later and some other stuff.       |
 | 28:05      | Do you think this is like a one and done, like they, they're going to leave mail us to stagnate          |
 | 28:10      | again? Or do you think this is going to be the beginning of like additional features like we             |
-| 28:15      | got with Apple notes and [[Apple Reminders\|Reminders]]? I'm going to be optimistic and say this is the beginning of a        |
+| 28:15      | got with [[Apple Notes]] and [[Apple Reminders\|Reminders]]? I'm going to be optimistic and say this is the beginning of a        |
 | 28:21      | new chapter of automation focused mail. Me too. You know, I'm not 100% certain it is, but I feel         |
 | 28:27      | like they've, they've really been listening to user feedback and they've looked at the features          |
 | 28:31      | that other people are using other mail apps for, you know, they've not implemented snooze,               |
@@ -416,21 +416,21 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 30:22      | everything, you know, into the state where they can then just continually add awesome great new          |
 | 30:28      | features on a regular basis. Go vertical. Yeah. Yeah. If their implementation of the focus modes         |
 | 30:35      | is anything to go by, I'm going to be very, very optimistic there.                                       |
-| 30:38      | All right. So I talked a minute ago about Apple Notes. And Apple Notes right now seems to be kind        |
+| 30:38      | All right. So I talked a minute ago about [[Apple Notes]]. And [[Apple Notes]] right now seems to be kind        |
 | 30:43      | of like the poster child for this new, you know, strategy for the native apps of like,                   |
-| 30:49      | let's slowly get them better every year. Apple Notes has been on that slow climb. I mean,                |
+| 30:49      | let's slowly get them better every year. [[Apple Notes]] has been on that slow climb. I mean,                |
 | 30:54      | I remember with, you know, it was a joke with all of its Comic Sans glory for so long. And then one      |
-| 31:01      | year all of a sudden Apple Notes was just better. And then they didn't stop. And there's a lot of        |
-| 31:06      | people who have completely replaced services like Evernote at this point with Apple Notes.               |
-| 31:12      | But I have always complained in you as well that there's not enough automation in Apple Notes. I         |
+| 31:01      | year all of a sudden [[Apple Notes]] was just better. And then they didn't stop. And there's a lot of        |
+| 31:06      | people who have completely replaced services like Evernote at this point with [[Apple Notes]].               |
+| 31:12      | But I have always complained in you as well that there's not enough automation in [[Apple Notes]]. I         |
 | 31:18      | mean, it's like this shortcuts were always a little bit behind. Well, this is the year                   |
-| 31:22      | because Apple Notes got a lot of love from shortcuts this year.                                          |
+| 31:22      | because [[Apple Notes]] got a lot of love from shortcuts this year.                                          |
 | 31:28      | Yeah. Yeah, it did. You know, they've just really updated all of it to make it so much easier,           |
 | 31:35      | I think. And this is, you know, evidenced with, you know, there's the number of new actions,             |
 | 31:42      | which really are power user features, but they're not just for power users. You know,                    |
 | 31:48      | like creating a tag is something that, you know, okay, only a power user is going to put that into       |
 | 31:54      | an automation. Are you sure? Like somebody who's trying to do like a project setup to make it            |
-| 32:00      | really easy for themselves, like being able to create any folder in Apple Notes and create a new         |
+| 32:00      | really easy for themselves, like being able to create any folder in [[Apple Notes]] and create a new         |
 | 32:05      | tag with, you know, specific, you know, sub tags, perhaps, you know, however they want to do that        |
 | 32:10      | and moving notes that already exist into a folder, things like that and removing a note attack from      |
 | 32:16      | a note if they've decided that, hey, all the things in this category are no longer, you know,            |
@@ -514,7 +514,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 39:34      | Rose was talking earlier about tags. I mean, they have really done a great job of taking so many         |
 | 39:40      | of the features that you would normally have to do by tapping on the screen and giving you               |
 | 39:45      | shortcuts action so you can automate a bunch of this. And you know, then it's up to you to go            |
-| 39:49      | figure out how you're going to string this stuff together. Maybe you have maybe use Apple notes          |
+| 39:49      | figure out how you're going to string this stuff together. Maybe you have maybe use [[Apple Notes]]          |
 | 39:55      | as like a depository of information. It's your own personal version of [[Obsidian]] or [[Craft]]. And            |
 | 40:02      | you go ahead and every time you get a new client, you give them a folder. Well,                          |
 | 40:05      | now you can create that folder in the same process of as part of a bigger shortcut. And                  |
@@ -523,8 +523,8 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 40:22      | shortcuts gallery, because like, imagine it pops up and it asks you, Hey, what's the new project?        |
 | 40:28      | And so you type in the project name or you speak the project name, depending on how you've,              |
 | 40:32      | you know, implemented or called the shortcut. And then it goes off and it creates a folder               |
-| 40:37      | and Apple notes, it creates a list of reminders. And, you know, it adds a new pinned note in that        |
-| 40:43      | [[Apple]] in the Apple notes folder with project setup with a whole bunch of checkboxes in there.            |
+| 40:37      | and [[Apple Notes]], it creates a list of reminders. And, you know, it adds a new pinned note in that        |
+| 40:43      | [[Apple]] in the [[Apple Notes]] folder with project setup with a whole bunch of checkboxes in there.            |
 | 40:50      | And, you know, adds the tag project setup to that. And then, you know, it creates a new                  |
 | 40:58      | tab group for that project. And, you know, that just right there is really, really simple. It's          |
 | 41:05      | only a couple of actions. But imagine how much time that would save somebody. You know, they'd           |
@@ -538,7 +538,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 41:46      | else. If they don't think that it's even vaguely going to be possible. Whereas if they get the           |
 | 41:50      | idea that there's a possibility that they could tap a button or speak a phrase, and then just add        |
 | 41:56      | a few details, then, and suddenly they've got a whole project set up ready for them. Well, that's        |
-| 42:02      | pretty cool. So if you use Apple notes, I strongly recommend, as soon as you get this installed as       |
+| 42:02      | pretty cool. So if you use [[Apple Notes]], I strongly recommend, as soon as you get this installed as       |
 | 42:08      | iOS 16, go in shortcuts and take a look at all the actions for notes. Because I suspect you'll           |
 | 42:13      | find new ways to automate if you do. This episode of Automators is brought to you by TextExpander.       |
 | 42:20      | When you work in a small team, every moment counts. You don't want to be wasting your                    |
@@ -826,7 +826,7 @@ iOS 16 is nearly here, and there are a lot of automation updates to try out. In 
 | 01:08:09   | you could have a shortcut that sets you up to read those books or some other kind of books.              |
 | 01:08:15   | You can also change the point size. And I think this is another one where they got the                   |
 | 01:08:21   | automation boon of the simplicity of adding actions. The books team has gone through and                 |
-| 01:08:27   | done the same thing the Apple Notes team did. Yes. Yeah, I really feel like they did. The only           |
+| 01:08:27   | done the same thing the [[Apple Notes]] team did. Yes. Yeah, I really feel like they did. The only           |
 | 01:08:31   | thing I'm noting right now is I've just opened my phone to double-check what the actions were.           |
 | 01:08:35   | And the Books app has disappeared. It did briefly have an open PDF in Books action,                      |
 | 01:08:42   | and then the Books app just disappeared entirely. But I'm going to blame that on the fact that most      |
