@@ -13467,6 +13467,7 @@ var PodNotes = class extends import_obsidian24.Plugin {
     this.downloadedEpisodesController = new DownloadedEpisodesController(downloadedEpisodes, this).on();
     this.currentEpisodeController = new CurrentEpisodeController(currentEpisode, this).on();
     this.transcriptionService = new TranscriptionService(this);
+    this.api = new API();
     this.addCommand({
       id: "podnotes-show-leaf",
       name: "Show PodNotes",
@@ -13599,7 +13600,6 @@ var PodNotes = class extends import_obsidian24.Plugin {
     this.addSettingTab(new PodNotesSettingsTab(this.app, this));
     this.registerView(VIEW_TYPE, (leaf) => {
       this.view = new MainView(leaf, this);
-      this.api = new API();
       return this.view;
     });
     this.app.workspace.onLayoutReady(this.onLayoutReady.bind(this));
