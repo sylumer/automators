@@ -2004,7 +2004,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:20:02   | script and share it with you.                              |
 | 01:20:04   | And that is great.                                                |
 | 01:20:06   | And web services that add APIs will end up                        |
-| 01:20:09   | with things like [[Make}]] and [[Zapier]] integrations,                    |
+| 01:20:09   | with things like [[Make]] and [[Zapier]] integrations,                    |
 | 01:20:12   | but they'll also have people just create tools                    |
 | 01:20:15   | that do something using their application.                        |
 | 01:20:17   | And more and more people use our application                      |
