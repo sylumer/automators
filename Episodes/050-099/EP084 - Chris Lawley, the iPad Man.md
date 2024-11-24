@@ -637,7 +637,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 48:25      | which is really great in the latest update. I love that preview feature.                                  |
 | 48:29      | I mean, and [[Drafts]] really is kind of a more generic tool. And I think Greg, if he was here,               |
 | 48:35      | would agree. I mean, it's written to be able to do whatever you need with text, where things like         |
-| 48:41      | [[Roam]] and [[Craft]] and [[Obsidian]] even are very kind of opinionated. And there's a way right way to use         |
+| 48:41      | [[Roam Research\|Roam]] and [[Craft]] and [[Obsidian]] even are very kind of opinionated. And there's a way right way to use         |
 | 48:48      | those apps where [[Drafts]], you can, you can bend it to your will. And I think that that's to me why         |
 | 48:55      | I think that there's, you know, like I said earlier, I think [[Drafts]] is the place where I                  |
 | 48:59      | capture text. And for me, [[Obsidian]] is the place with long term storage and other things that I            |
