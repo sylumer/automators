@@ -498,7 +498,7 @@ As the Automators ride off into the sunset, they talk about the importance and f
 | 36:31      | and some of the [[Keyboard Maestro]] macros we were using at the time, you know, that's stuff                                  |
 | 36:36      | that you can still go back and listen to, even if you've listened to it before, and,                                      |
 | 36:40      | you know, get some useful knowledge out of. And the other thing, of course, that we should                                |
-| 36:44      | mention is [[Stephen Millarrd]], who's been on the show a few times, has his wonderful automators.                              |
+| 36:44      | mention is [[Stephen Millard]], who's been on the show a few times, has his wonderful automators.                              |
 | 36:52      | I'm blanking on the correct word for it that he used, but he's created automated transcripts                              |
 | 36:57      | of Automators episodes and all of the notes and everything compiled together. So, I will                                  |
 | 37:03      | make sure to pop a link to that in the show notes.                                                                        |
