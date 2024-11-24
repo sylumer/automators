@@ -215,7 +215,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 11:38      | because, you know, over the last couple of years, my [[Stream Deck]] usage has increased                      |
 | 11:42      | significantly. And in many ways, I should say, so it's not just, you know, that I've                      |
 | 11:49      | found more use cases for it. It's also, you know, I've started doing iOS today on a weekly                |
-| 11:53      | basis with Micah Sargent on the Twitter network. And as part of that, we do a video version.              |
+| 11:53      | basis with [[Mikah Sargent]] on the TwiT network. And as part of that, we do a video version.              |
 | 11:58      | We record that at the same time as the audio version, I'm showing my iPhone or my iPad                    |
 | 12:01      | on the screen. And I'm doing that through Zoom. But I can't just, you know, throw up                      |
 | 12:07      | my iPad with that because then you don't see me as well. It just doesn't work quite as                    |

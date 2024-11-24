@@ -133,7 +133,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 05:01      | ask Siri, what's the next chit chat across the pond? What's the next programming by stealth?            |
 | 05:06      | What's, you know, I can ask it. And, and it's automated and it's great. And I, and I've                 |
 | 05:10      | always felt really stupid that she had to write this for me, but it's a perfect solution.               |
-| 05:14      | So get this, I'm on [[Clockwise]]. And that story comes up and [[Micah Sargent\|Micah]] starts laughing hysterically,          |
+| 05:14      | So get this, I'm on [[Clockwise]]. And that story comes up and [[Mikah Sargent\|Mikah]] starts laughing hysterically,          |
 | 05:23      | because he had, I wait, I forget who wrote it for who, but it was [[Jason Snell]] or him,                   |
 | 05:28      | I forget one of them couldn't add by the number one either. And the other one wrote the exact           |
 | 05:32      | same script for them. Yeah, yeah. So what I did for you, Alison, because you had a number               |

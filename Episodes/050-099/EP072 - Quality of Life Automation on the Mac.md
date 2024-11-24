@@ -455,7 +455,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 32:34      | Maestro because it's possible to do all the stuff with keyboard Maestro. It's just been                  |
 | 32:38      | a little bit fiddly to get everything done. But keyboard Maestro has actually meant that                 |
 | 32:41      | my workspace setup for iOS today is considerably more stable because I realised, so for people           |
-| 32:49      | who don't know iOS today is a video as well as an audio podcast. And for the video, Micah                |
+| 32:49      | who don't know iOS today is a video as well as an audio podcast. And for the video, Mikah                |
 | 32:55      | and I tried to show our iPads and our iPhones with, you know, what we're actually doing                  |
 | 32:59      | on them as part of the show. But in order to do this, we need to use another piece of                    |
 | 33:03      | software which [[Skype]] doesn't natively support anymore. So you have to run a terminal script              |

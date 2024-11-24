@@ -88,7 +88,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 01:41      | with all of the tools that those guys were building. You have since left [[Apple]] and you've got your own                           |
 | 01:47      | website at MatthewCassinelli.com. We'll put a link to the website, but there's two L's gang. Don't forget that.                  |
 | 01:54      | And you do a bunch of stuff there for shortcuts, but you also do videos. You're                                                  |
-| 01:59      | on smart tech today with Micah, and you just got a bunch of stuff going on and you're helping people                             |
+| 01:59      | on smart tech today with Mikah, and you just got a bunch of stuff going on and you're helping people                             |
 | 02:05      | automate, and I really just want to take every chance I can to point my spotlight at you because                                 |
 | 02:10      | I just love the stuff you do, Matthew. Well, I appreciate that. It's fun to share, and especially                                |
 | 02:16      | now that shortcuts has been getting better and better. I feel like somewhat low key, but also                                    |

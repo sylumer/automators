@@ -822,7 +822,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:07:17   | We thank FreshBooks for their support of this show and Relay FM.                                       |
 | 01:07:21   | Okay. I always like to talk about some of the automation problems we're solving or working on.          |
 | 01:07:27   | You got any this month, Russ? Oh, yes. I'm just looking at my shortcuts. And I've actually got a        |
-| 01:07:33   | couple of little ones. And the first one is actually one that I made for Micah Sargent. He's a fellow    |
+| 01:07:33   | couple of little ones. And the first one is actually one that I made for [[Mikah Sargent]]. He's a fellow    |
 | 01:07:39   | host on Relay FM. He hosts Clockwise here. But he also hosts a couple of shows over on the             |
 | 01:07:45   | Twitter network. And I was a guest on iOS today the other day. And one of the things that we did        |
 | 01:07:51   | is we talked about a bunch of writing apps. And I had a ton of writing apps I wanted to talk about.     |

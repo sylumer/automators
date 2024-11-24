@@ -1347,7 +1347,7 @@ Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting 
 | 01:24:57   | That's very clever.                                                                                  |
 | 01:24:58   | Rose, you're amazing.                                                                                |
 | 01:25:00   | Your depth of knowledge is always stunning.                                                          |
-| 01:25:02   | Well, it's because I keep listening to people like you and David and Micah Sargent as well           |
+| 01:25:02   | Well, it's because I keep listening to people like you and David and [[Mikah Sargent]] as well           |
 | 01:25:07   | in iOS today and everybody else who's there using features.                                          |
 | 01:25:10   | And then I see something and I join the dots and it makes me look really, really smart because       |
 | 01:25:14   | I was just standing in the right place to see the dots, but the dots were there.                     |

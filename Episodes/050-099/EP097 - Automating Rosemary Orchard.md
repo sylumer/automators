@@ -1045,11 +1045,11 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:25:16   | effort into that. How are you automating podcasting? I don't think anybody is going to be surprised if   |
 | 01:25:22   | I say air table. It's the magic word. But essentially, I've got four air table databases                 |
 | 01:25:32   | which drive a lot of the podcasting things for me. I have four because iOS today has feedback            |
-| 01:25:38   | which gets shared with Micah and I wanted my personal stuff to not end up taking up                      |
+| 01:25:38   | which gets shared with Mikah and I wanted my personal stuff to not end up taking up                      |
 | 01:25:44   | all of the feedback base. So I just split those into two separate things. But you and I have             |
 | 01:25:49   | got a pretty great air table base which has all of our future episodes in. It's got all of our guests.   |
 | 01:25:57   | They're not actually living in the base. We do let them escape occasionally.                             |
-| 01:26:01   | I hear the Twitch studios are nice from the last time we let Micah out. But all of these give me         |
+| 01:26:01   | I hear the Twitch studios are nice from the last time we let Mikah out. But all of these give me         |
 | 01:26:07   | a lot of data which I can then access in a lot of other places. So I've been using a lot of Zap here     |
 | 01:26:13   | and some of this is migrated to [[Make]] which very recently rebranded from [[Make\|Integromat]].                      |
 | 01:26:21   | And those do things like watch certain views and then go great. It's time to create a new show           |

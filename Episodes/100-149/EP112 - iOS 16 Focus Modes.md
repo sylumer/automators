@@ -1252,7 +1252,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:13:10   | well.                                                                                                   |
 | 01:13:11   | Flighty is also on the list, obviously.                                                                 |
 | 01:13:15   | And then, you know, phone calls for my favourites and my parents.                                        |
-| 01:13:18   | And again, you're in there, David, along with Micah and Scotty, just because, you know,                 |
+| 01:13:18   | And again, you're in there, David, along with Mikah and Scotty, just because, you know,                 |
 | 01:13:24   | if something podcasting comes up while I'm traveling, you know, it's probable that I'm                  |
 | 01:13:27   | going to be able to answer you and say something about it, even if I can't necessarily do something     |
 | 01:13:31   | about it at that moment.                                                                                |

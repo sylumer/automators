@@ -75,7 +75,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 00:17      | fun, and we have an amazing guest lined up for today as well.                                           |
 | 00:20      | Yes.                                                                                                    |
 | 00:21      | This is a person that I've been wanting to introduce Rosemary to.                                       |
-| 00:24      | Welcome to the show, Micah Sargent.                                                                     |
+| 00:24      | Welcome to the show, [[Mikah Sargent]].                                                                     |
 | 00:27      | Yeah.                                                                                                   |
 | 00:28      | Hello.                                                                                                  |
 | 00:29      | Hello.                                                                                                  |
@@ -85,10 +85,10 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 00:41      | I mean, we talk a lot about shortcuts on our show iOS today, but to actually get to dive                |
 | 00:49      | in deep with automations, that's just wonderful.                                                        |
 | 00:51      | Yeah.                                                                                                   |
-| 00:52      | So that's the joke from the intro, is Micah and Rosemary have a show together.                          |
+| 00:52      | So that's the joke from the intro, is Mikah and Rosemary have a show together.                          |
 | 00:56      | They do iOS today over on the Twitter network.                                                          |
 | 01:00      | It's an excellent show.                                                                                 |
-| 01:01      | I love watching the two of you, and I think, but what we haven't done is gone deep on Micah's           |
+| 01:01      | I love watching the two of you, and I think, but what we haven't done is gone deep on Mikah's           |
 | 01:08      | Automation game.                                                                                        |
 | 01:09      | So we're putting the spotlight on you today.                                                            |
 | 01:11      | Thanks so much for agreeing to come in.                                                                 |
@@ -105,7 +105,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 02:06      | a programmer, but I would like to get better at this stuff.                                             |
 | 02:10      | When you hear from a, I guess, for lack of a better word, normal person, someone who doesn't            |
 | 02:16      | make their living writing code, using automation, I think it inspires people.                           |
-| 02:21      | So you are here for a very good reason, Micah, and I'm looking forward to hearing what you're           |
+| 02:21      | So you are here for a very good reason, Mikah, and I'm looking forward to hearing what you're           |
 | 02:26      | doing.                                                                                                  |
 | 02:27      | Yes.                                                                                                    |
 | 02:28      | I knew that we had to have you as a guest on the show very early on, and then especially                |
@@ -115,7 +115,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 02:41      | been enhancing things as you go just trying to make your life easier.                                   |
 | 02:46      | So I have no doubt that we are going to have a great show because it's always good fun                  |
 | 02:51      | to get nerdy.                                                                                           |
-| 02:53      | So Micah, before we get started, just tell everybody about you a little bit.                            |
+| 02:53      | So Mikah, before we get started, just tell everybody about you a little bit.                            |
 | 02:56      | I know you're doing some stuff over on Twitter.                                                         |
 | 02:59      | How did you get started with technology, and what are your current shows at this point?                 |
 | 03:04      | Oh man, so too many shows, but I, so long ago, I remember sort of being in high school,                 |
@@ -253,7 +253,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 11:33      | Yes.                                                                                                    |
 | 11:34      | That was how we did D&D in my day, you know.                                                            |
 | 11:36      | That's awesome.                                                                                         |
-| 11:37      | Anyway, how did you get into automation, Micah?                                                         |
+| 11:37      | Anyway, how did you get into automation, Mikah?                                                         |
 | 11:41      | So this is a fun story, too.                                                                            |
 | 11:43      | I was actually, TextExpander from Smile is a sponsor of the network and has had a long                  |
 | 11:54      | history in my life, and so I ended up remembering this story.                                           |
@@ -345,7 +345,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 18:50      | makes you happy every time you use it, and that is a really good way to get started,                    |
 | 18:55      | because let's face it, we wouldn't automate these things if we weren't trying to make                   |
 | 18:57      | our lives easier and therefore happier.                                                                 |
-| 19:01      | So yeah, I'm going to have to steal that TextExpander snippet for me, Micah.                           |
+| 19:01      | So yeah, I'm going to have to steal that TextExpander snippet for me, Mikah.                           |
 | 19:04      | I've only got one that can just shorten URLs.                                                           |
 | 19:06      | I haven't got one that shortens and uses the URLs shortener of that service, and that                   |
 | 19:12      | is very cool.                                                                                           |
@@ -522,7 +522,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 30:03      | Right?                                                                                                  |
 | 30:04      | It's okay.                                                                                              |
 | 30:05      | The robot mop won't gang up on you with it, so you'll be fine.                                          |
-| 30:10      | Micah, a couple things.                                                                                 |
+| 30:10      | Mikah, a couple things.                                                                                 |
 | 30:12      | First of all, I feel like you're absolutely an automator.                                               |
 | 30:14      | To me, automation, I guess I have a little more technical view of it.                                   |
 | 30:18      | To me, it's two things.                                                                                 |
@@ -750,7 +750,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 44:30      | and you'll get 25% off your membership.                                                                 |
 | 44:33      | That's fitbod.me/automators for 25% off.                                                          |
 | 44:38      | Our thanks to FitBod for their support of the automators and all of Relay FM.                           |
-| 44:43      | Micah, you mentioned [[Keyboard Maestro]], and I know I sent you a few macros in the past,                  |
+| 44:43      | Mikah, you mentioned [[Keyboard Maestro]], and I know I sent you a few macros in the past,                  |
 | 44:47      | but what are you doing with it? Because I know you're doing lots of things.                             |
 | 44:51      | Yeah, so [[Keyboard Maestro]] has quickly become the tool that I use most when it comes to                  |
 | 44:58      | automation stuff. One of my most common ones is, oh man, I just get so much satisfaction                |
@@ -839,7 +839,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 54:03      | but it can kind of pretty much tell you the first tab and that's it. It can't even interact             |
 | 54:08      | with tab groups because if you had a tab group and it could pull everything out of the tab group,       |
 | 54:12      | that would be amazing, but it can't, which is a real shame because it is actually pretty good           |
-| 54:18      | at regular expressions and so on because I've just tracked back, by the way, Micah, it was a            |
+| 54:18      | at regular expressions and so on because I've just tracked back, by the way, Mikah, it was a            |
 | 54:22      | regular expression problem that you are having. If there was a comma in the title, then that was        |
 | 54:27      | getting split up when things got parsed and so I helped you figure that one out. It ended up            |
 | 54:37      | pulling them and creating a CSV or a set of CSVs, I guess, comma-separated values and so we needed      |
@@ -865,7 +865,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 56:37      | you're dealing with other people. [[Brett Terpstra]], since we're talking about him,                        |
 | 56:45      | Markdown Service Tools has created a Markdown Service Tool that gives you a list of all the             |
 | 56:50      | [[Safari]] links in the open browser in Markdown. Oh, really? Yes, I use that as part of the                |
-| 56:56      | basis for some of the stuff that I've done for Micah because the thing with good artists create         |
+| 56:56      | basis for some of the stuff that I've done for Mikah because the thing with good artists create         |
 | 57:02      | great artists steal, great automators steal from the things that they and other people have done        |
 | 57:06      | as well because you don't need to reinvent the wheel every time. Sadly, the twit back end I             |
 | 57:14      | recently confirmed does not support Markdown, which just breaks my heart. So I ended up just            |
@@ -894,7 +894,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 59:16      | Sign up at NewRelic.com/Automators. That's N-E-W-R-E-L-I-C.com/Automators.                  |
 | 59:24      | That URL one more time, NewRelic.com/Automators. Our thanks to New Relic for their                |
 | 59:29      | support of this show and all of Relay FM. So we talked around [[HomeKit]] a little bit earlier,             |
-| 59:35      | Micah, and I know a lot of our listeners are really into home automation. How far down that             |
+| 59:35      | Mikah, and I know a lot of our listeners are really into home automation. How far down that             |
 | 59:40      | rabbit hole have you gone? This is one of the other downsides, I guess, of moving to California         |
 | 59:47      | is things are a lot more expensive here when it comes to housing. I lived in Springfield,               |
 | 59:54      | Missouri, which is in southern Missouri, in a three-bedroom detached home with a huge backyard,         |
@@ -962,7 +962,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:06:33   | and it's [[Bluetooth]], but you stick it on something like a light switch and the arm reaches out and       |
 | 01:06:37   | presses the switch for you. So it's great for things like coffee makers and so on or a light            |
 | 01:06:43   | switch where you can't replace a light switch. The problem that it is is [[Bluetooth]]. Like [[Thread]]         |
-| 01:06:49   | is much better, but these are not [[Thread]]. They are Bluetooth. And I think you had that, Micah,          |
+| 01:06:49   | is much better, but these are not [[Thread]]. They are Bluetooth. And I think you had that, Mikah,          |
 | 01:06:55   | with the Belkin Wemo switch until recently, until it finally got [[Thread]] where it was just              |
 | 01:07:01   | terrible. Like the [[SwitchBot Curtain Opener\|SwitchBot curtains]] are great because let's face it, how often do you actually        |
 | 01:07:06   | interact with your curtains on a daily basis? Probably twice a day and having them open or              |
@@ -1050,7 +1050,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:14:10   | they're in the bathroom using the shower or whatever it is. So I've yet to have a bug report            |
 | 01:14:15   | come out of that. But I do make point of telling people, if something doesn't work the way you're       |
 | 01:14:20   | expecting it to, you need to tell me because then I can fix it. Because the worst thing is not          |
-| 01:14:25   | knowing that something's broken. Micah, you also mentioned earlier that you're using some of the        |
+| 01:14:25   | knowing that something's broken. Mikah, you also mentioned earlier that you're using some of the        |
 | 01:14:29   | web internet automation stuff like Zapier and IFTTT. Yeah. Any favourites there you can share?           |
 | 01:14:36   | So those ones are, I can't go into too much detail simply because it does have to do with               |
 | 01:14:47   | stuff with work that's sort of on the back end and the way that we kind of do things. But I will        |
@@ -1145,7 +1145,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:24:17   | potential points of failure added over something like [[HomeKit]] where the processing is done locally      |
 | 01:24:22   | in your home on a HomePod or an [[Apple TV]]. And that's why local based automations when you want          |
 | 01:24:30   | the start and the ends to be local are usually the best. That's just the way that these things          |
-| 01:24:37   | end up working. So, Micah, if there's one area of automation you'd like to get better at, what is it?   |
+| 01:24:37   | end up working. So, Mikah, if there's one area of automation you'd like to get better at, what is it?   |
 | 01:24:44   | Oh, man. I think it would be in more of the auto automations. It's the stuff that happens               |
 | 01:24:53   | automatically in the background. There was one point when I had [[Hazel]] downloaded and installed          |
 | 01:24:58   | on my Mac. And I was trying because I will admit to being pretty laissez-faire as it were with my       |
@@ -1206,12 +1206,12 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:30:23   | Yeah, exactly. And you don't have to do everything all at once, but you can start with,                 |
 | 01:30:27   | you know, these are the easy low hanging pieces of fruit, you know, anything                            |
 | 01:30:30   | that's got this particular name and this kind of file extension. I want to go in this folder over       |
-| 01:30:35   | here and get started like that. Makes sense. Well, Micah, you are an automator. I don't care            |
+| 01:30:35   | here and get started like that. Makes sense. Well, Mikah, you are an automator. I don't care            |
 | 01:30:43   | what you're saying. We're doing some cool stuff and we really appreciate you coming in to share         |
-| 01:30:49   | that with us. Where do people find you, Micah, if they want to connect with you on the internet?        |
+| 01:30:49   | that with us. Where do people find you, Mikah, if they want to connect with you on the internet?        |
 | 01:30:53   | The best place is just going to chihuahua.coffee. That's C-H-I-H-U-A-H-U-A.coffee. There you'll           |
 | 01:31:00   | find links to the places I'm most active online. But if you're wanting to, like,                        |
-| 01:31:05   | get in touch, tweeting at me, at Micah Sargent is a good way to get in touch. And                       |
+| 01:31:05   | get in touch, tweeting at me, at Mikah Sargent is a good way to get in touch. And                       |
 | 01:31:11   | Hardy, thank you to the both of you for having me on the show. I've inspired. I've got several tabs     |
 | 01:31:16   | open. I'm signing up for Integral Mat after this. Like, they're so much fun. Well, you are such an      |
 | 01:31:21   | inspiration for me, too. I love the stuff you're creating over at Twitter and it's just such a          |

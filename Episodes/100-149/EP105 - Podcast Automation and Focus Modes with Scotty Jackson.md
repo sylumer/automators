@@ -196,7 +196,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 08:09      | I'm here.                                                                                               |
 | 08:10      | I'm here.                                                                                               |
 | 08:11      | I'm here to get this or whatever it is, you know, but yeah, I like [[Signals for HomeKit]]              |
-| 08:16      | [[Micah Sargent]] is actually the one that turned me onto this because I think the idea is like              |
+| 08:16      | [[Mikah Sargent]] is actually the one that turned me onto this because I think the idea is like              |
 | 08:19      | parents telling their kids it's time for dinner or something, but you can use it with any               |
 | 08:24      | of your personal shortcuts.                                                                             |
 | 08:26      | It doesn't have home kit.                                                                               |

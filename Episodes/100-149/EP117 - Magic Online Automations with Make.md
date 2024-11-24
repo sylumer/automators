@@ -884,7 +884,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 49:05      | [[Amazon]] returns into OmniFocus, creating our automators show notes because of course that's                |
 | 49:11      | automated and handling iOS today feedback that comes in via email.                                        |
 | 49:16      | And I should note that any folks who send us feedback on iOS today, so that's the podcast                 |
-| 49:22      | of Micah and I host on Twitter, they have the option of sending us the pet text, which                    |
+| 49:22      | of Mikah and I host on TwiT, they have the option of sending us the pet text, which                    |
 | 49:27      | is the text that you are politely requested if you have a pet and are willing to pay when                 |
 | 49:32      | you send us feedback.                                                                                     |
 | 49:33      | So you send us a cute picture of your cat, your dog, your snake, hamsters, whatever pet                   |

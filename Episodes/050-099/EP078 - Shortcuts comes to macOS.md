@@ -1514,7 +1514,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 01:25:31   | You don't have lots of time to catch up on everything that happens in tech every week.                                    |
 | 01:25:34   | I know you're busy automating.                                                                                            |
 | 01:25:36   | Twice is a weekly roundtable which covers four tech topics in 30 minutes.                                                 |
-| 01:25:41   | Join hosts Dan Moran and Micah Sargent every Wednesday as they welcome two special guests                                 |
+| 01:25:41   | Join hosts Dan Moran and [[Mikah Sargent]] every Wednesday as they welcome two special guests                                 |
 | 01:25:45   | from a diverse pool of tech punnets, writers, podcasters, developers, and more to Tech Talk.                              |
 | 01:25:50   | Both David and I have been on the show.                                                                                   |
 | 01:25:52   | Whether it's what's going on in the news this week or timeless tech questions, it's                                       |

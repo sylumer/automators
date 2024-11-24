@@ -509,7 +509,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 27:07      | I'm wondering if maybe like one, two or even three colour lights just putting colour onto                   |
 | 27:15      | the wood wall behind you, these are not intended necessarily to provide light in the sense                |
 | 27:20      | of I'm seeing what I'm doing, but yeah, just accent lighting because that's one of the                    |
-| 27:24      | things that Micah does on iOS today and I do as well.                                                     |
+| 27:24      | things that Mikah does on iOS today and I do as well.                                                     |
 | 27:28      | And I see quite a few creators doing and of course, the best part of this is is you can                   |
 | 27:32      | do seasonal theming.                                                                                      |
 | 27:34      | So at Christmas, you can go all out with Christmassy colours, Valentine's Day, you could do reds            |

@@ -495,7 +495,7 @@ Rose and David break down all the new automation options from [[Apple|Apple's]] 
 | 43:26      | a nice option. Well, I could see a use for it as an electric car owner, like, you know,                  |
 | 43:30      | determining when the electric car gets charged. And I'll have to look into this and see if it's          |
 | 43:35      | something that's actually supported. There are different, like, divisions of PG&E. So I don't            |
-| 43:39      | even know if I'm in the right one. But yeah, I know Micah Sargent was able to set up on his iPad.        |
+| 43:39      | even know if I'm in the right one. But yeah, I know [[Mikah Sargent]] was able to set up on his iPad.        |
 | 43:47      | So that's, you know, that that's working for him. But that doesn't mean say that it's available          |
 | 43:51      | for you just yet. It does say that it'll be available to various, you know, different people             |
 | 43:56      | at different times. So and it's if you're eligible, which is always an interesting way of phrasing it.   |

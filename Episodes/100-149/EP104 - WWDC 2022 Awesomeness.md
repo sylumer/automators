@@ -274,7 +274,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 12:09      | things on.                                                                                                |
 | 12:10      | It's just really frustrating.                                                                             |
 | 12:11      | I wanted to show everything off in the first episode post [[WWDC]] and I had to resort to sending             |
-| 12:15      | screenshots to Micah for him to show on screen.                                                           |
+| 12:15      | screenshots to Mikah for him to show on screen.                                                           |
 | 12:17      | That is a good thing I need to check out, because I'm going to do a deep dive for my                      |
 | 12:22      | labs members on iOS, iPad OS 16, and I hadn't tested it yet.                                              |
 | 12:26      | I may have a problem.                                                                                     |

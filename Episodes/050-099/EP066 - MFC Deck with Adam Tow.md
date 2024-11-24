@@ -66,12 +66,12 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 00:25      | Yes, yes, I do.                                                                    |
 | 00:26      | I am officially joining TWIT,                                                      |
 | 00:28      | not involving moving to California joining TWIT,                                   |
-| 00:31      | but I am helping Micah Sargent host iOS today as of January.                       |
+| 00:31      | but I am helping [[Mikah Sargent]] host iOS today as of January.                       |
 | 00:35      | So that's a weekly show available over at TWIT.tv.                                 |
 | 00:39      | And we get to talk about all things iOS,                                           |
 | 00:41      | including sometimes automation,                                                    |
 | 00:43      | but mostly just iOS and our workflows.                                             |
-| 00:46      | I mean, Micah is one of my favourite people in technology,                          |
+| 00:46      | I mean, Mikah is one of my favourite people in technology,                          |
 | 00:49      | and honestly, he's better than me,                                                 |
 | 00:52      | so you've upgraded co-hosts in my opinion.                                         |
 | 00:55      | I wouldn't say it's an upgrade.                                                    |
