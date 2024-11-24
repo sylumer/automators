@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"type":"file","file":"Episodes/Meta/Episode Stats.md","id":"0a3c9e160d95a369","x":-760,"y":-1240,"width":340,"height":220,"color":"#0a4260"},
-		{"type":"file","file":"Episodes/Meta/Episode Listings.md","id":"822c29ad16b2fd8c","x":-1820,"y":-1240,"width":380,"height":460,"color":"#0a425d"},
-		{"type":"file","file":"Meta/Vault/Useful Notes.md","id":"7ee170682478a8f8","x":-1420,"y":-1240,"width":360,"height":460,"color":"#0a425d"},
-		{"type":"file","file":"Meta/Vault/Vault Stats.md","id":"116c7ba00aeea484","x":-1040,"y":-1240,"width":260,"height":460,"color":"#0a4260"},
+		{"type":"file","file":"Episodes/Meta/Episode Listings.md","id":"822c29ad16b2fd8c","x":-1820,"y":-1240,"width":380,"height":400,"color":"#0a425d"},
+		{"type":"file","file":"Meta/Vault/Useful Notes.md","id":"7ee170682478a8f8","x":-1420,"y":-1240,"width":360,"height":400,"color":"#0a425d"},
+		{"type":"file","file":"Meta/Vault/Vault Stats.md","id":"116c7ba00aeea484","x":-1040,"y":-1240,"width":260,"height":400,"color":"#0a4260"},
 		{"type":"text","text":"This vault has been crafted by [[Stephen Millard]]. If you find it useful, consider donating a coffee to him to say thanks.\n<br>\n\n<center><a href=\"https://www.buymeacoffee.com/sylumer\"><img src=\"https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sylumer&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff\" /></a></center>","id":"f9f75d0d0d4421ca","x":-760,"y":-1750,"width":340,"height":260,"color":"#bea50b"},
 		{"type":"text","text":"To search across the vault (on Apple Devices), you can trigger core **Search** with ⌘⇧F, or trigger **OmniSearch** with ^⌘⇧F (or the magnifying glass icon on the ribbon). Both options are also accessible via the command palette.","id":"36fd5e5db30d3f15","x":-1820,"y":-1750,"width":1040,"height":80,"color":"2"},
 		{"type":"file","file":"Episodes/Meta/Recent Episodes.md","id":"0d672f190d0d4755","x":-1440,"y":-1640,"width":660,"height":370,"color":"#ffffff"},
