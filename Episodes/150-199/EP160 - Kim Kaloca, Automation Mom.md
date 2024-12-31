@@ -1,5 +1,5 @@
 ---
-status: "incomplete"
+status: "complete"
 fc-date:
   year: 2024
   month: 07
@@ -60,7 +60,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 00:04      | the automation podcast where we talk about grabbing                            |
 | 00:06      | your technology and teaching it to do your bidding for you.                    |
 | 00:09      | My name is Rosemary Orchard,                                                   |
-| 00:11      | and I'm joined as always by my cat,                                            |
+| 00:11      | and I'm joined as always by my                                            |
 | 00:13      | pal and co-host, David Sparks.                                                 |
 | 00:14      | Hey, David, how are you?                                                       |
 | 00:15      | I'm great, Rose.                                                               |
@@ -330,7 +330,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 10:43      | I believe it's only iPhones and [[Apple Watch\|Apple Watches]]                                  |
 | 10:46      | that it will go to as well.                                                    |
 | 10:49      | But yeah, there's the option,                                                  |
-| 10:52      | I believe it is under in the Home app.                                         |
+| 10:52      | I believe it is under in the [[Apple Home\|Home]] app.                                         |
 | 10:56      | If you go into the Home settings, I think it is.                               |
 | 11:00      | And then under intercom,                                                       |
 | 11:02      | yeah, I can see receive notifications when never,                              |
@@ -374,7 +374,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 12:38      | The other thing I use for him is right,                                        |
 | 12:39      | if I'm coming in for bedtime from my desk,                                     |
 | 12:42      | I'll have a, you know, I'm meticulously track my time.                         |
-| 12:47      | So when I change my, my Timery tracking,                                       |
+| 12:47      | So when I change my, my [[Timery]] tracking,                                       |
 | 12:52      | it turns off my work timer,                                                    |
 | 12:54      | turns on my kid's bedtime timer.                                               |
 | 12:57      | And it asks me if it's time for snuggles or not                                |
@@ -385,7 +385,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 13:08      | to say it's time for chair snuggles.                                           |
 | 13:11      | And to my little one who doesn't realise                                       |
 | 13:14      | that's because I'm pushing a button to make it say that,                       |
-| 13:17      | he's like, oh, Siri said it's time for chair snuggles.                         |
+| 13:17      | he's like, oh, [[Siri]] said it's time for chair snuggles.                         |
 | 13:19      | Yeah, I love it.                                                               |
 | 13:21      | So, yeah.                                                                      |
 | 13:22      | Now push that button as often as you can                                       |
@@ -402,7 +402,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 13:43      | there's one sort of mother of all shortcuts                                    |
 | 13:46      | that I've made to be just intensely funny and annoying.                        |
 | 13:53      | So I have it flash his lights in his room.                                     |
-| 13:59      | Siri will go off on a repeat with the,                                         |
+| 13:59      | [[Siri]] will go off on a repeat with the,                                         |
 | 14:02      | have you ever heard the song that never ends?                                  |
 | 14:03      | Like this is the song that never ends,                                         |
 | 14:05      | this goes on and on my friends.                                                |
@@ -551,8 +551,8 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 19:51      | they're kind of monitored his internet activity                                |
 | 19:54      | by this device.                                                                |
 | 19:55      | It's a safety device kind of thing.                                            |
-| 19:57      | It's like a blocker, a CDN blocker,                                            |
-| 20:00      | so it doesn't, or what is it, the DNS blocker, right?                          |
+| 19:57      | It's like a blocker, a [[CDN]] blocker,                                            |
+| 20:00      | so it doesn't, or what is it, the [[DNS]] blocker, right?                          |
 | 20:05      | Yeah, yeah.                                                                    |
 | 20:07      | And it has an app,                                                             |
 | 20:08      | but they don't have any [[Shortcuts]] automation.                              |
@@ -619,7 +619,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 22:47      | Good for you, good for you.                                                    |
 | 22:49      | Why did you decide on the [[Bark]] device?                                         |
 | 22:52      | I mean, you're pretty clever.                                                  |
-| 22:53      | There's a lot of software DNS blocking services out there.                     |
+| 22:53      | There's a lot of software [[DNS]] blocking services out there.                     |
 | 22:57      | What landed you on this one?                                                   |
 | 22:59      | Well, I did a lot of research                                                  |
 | 23:01      | and I tried a few different apps before I went                                 |
@@ -644,7 +644,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 23:59      | and I can see value in what he's doing                                         |
 | 24:03      | because he looks up things like how to speed run games                         |
 | 24:09      | or how to create a glitch or how to,                                           |
-| 24:11      | he also is learning how to code on scratch.                                    |
+| 24:11      | he also is learning how to code in [[Scratch]].                                    |
 | 24:14      | So he looks up videos on how to code different things.                         |
 | 24:17      | He wants to be a developer.                                                    |
 | 24:20      | And I wanted a way to give him some freedom                                    |
@@ -707,22 +707,22 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 26:40      | when you're raising kids                                                       |
 | 26:41      | because you do want to give them independence.                                 |
 | 26:44      | I mean, when I was young,                                                      |
-| 26:46      | we didn't have cell phones or pages or anything.                               |
+| 26:46      | we didn't have cell phones or pagers or anything.                               |
 | 26:48      | We went out on our bikes, nobody knew where we were                            |
 | 26:51      | and we did our thing.                                                          |
 | 26:52      | And I feel like that's part of growing up.                                     |
 | 26:54      | So you definitely want to give them that freedom,                              |
 | 26:56      | but we live in this world where there's all these risks                        |
-| 26:59      | that especially with the internet                                              |
+| 26:59      | that especially with the Internet                                              |
 | 27:02      | that a lot of parents aren't aware of.                                         |
 | 27:05      | So I think you're doing a good job.                                            |
 | 27:08      | I mean, I don't know where the line is,                                        |
 | 27:10      | but at least you're bringing intentionality.                                   |
 | 27:13      | I have the same struggle with my kids.                                         |
-| 27:14      | My kids are grown up, but we are all on fine friends.                          |
+| 27:14      | My kids are grown up, but we are all on [[Find My\|find friends]].                          |
 | 27:18      | And I'm very careful when I tell them,                                         |
 | 27:20      | I never check where you are.                                                   |
-| 27:22      | The purpose of fine friends                                                    |
+| 27:22      | The purpose of [[Find My\|find friends]]                                                    |
 | 27:23      | is if nobody knows where you are and there's a problem.                        |
 | 27:27      | It's not for me to keep track of you                                           |
 | 27:29      | when you go on a date or whatever.                                             |
@@ -766,7 +766,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 28:49      | that if he asks for time and it makes sense                                    |
 | 28:52      | to give him time as long as things are done                                    |
 | 28:54      | and he's healthy about it, then it's fine.                                     |
-| 28:57      | Well, I ran DNS blocking throughout my children's,                             |
+| 28:57      | Well, I ran [[DNS]] blocking throughout my children's,                             |
 | 29:01      | I mean, the whole run.                                                         |
 | 29:03      | And we had the house,                                                          |
 | 29:05      | we always wanted our house to be the one                                       |
@@ -774,7 +774,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 29:07      | So we'd always have chips and drinks                                           |
 | 29:10      | and things that they would want, you know?                                     |
 | 29:12      | And the, but they all knew that at the Sparks house,                           |
-| 29:16      | you weren't gonna get very far on the internet                                 |
+| 29:16      | you weren't gonna get very far on the Internet                                 |
 | 29:18      | because I had a pretty hard lockdown on where you could go.                    |
 | 29:23      | And, you know, it was easy for me                                              |
 | 29:26      | because I don't go to those sites.                                             |
@@ -826,7 +826,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 31:12      | instead of just being it on the automation.                                    |
 | 31:16      | And so I was thinking that for next year,                                      |
 | 31:18      | we could have it say, and I borrow this from you,                              |
-| 31:20      | hey, [[Apple]] lady, Merry Christmas.                                              |
+| 31:20      | "Hey, Apple-lady, Merry Christmas".                                              |
 | 31:23      | And that way the [[HomePod]] can turn on the Christmas tree                    |
 | 31:25      | or the outside lights or anything like that.                                   |
 | 31:27      | So that's one idea I have for a little bit of magic                            |
@@ -845,7 +845,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 31:59      | So yeah, I like that solution, that's nice.                                    |
 | 32:04      | Yeah, and right now being in the joys of summer,                               |
 | 32:07      | I'm figuring out my air conditioning automation.                               |
-| 32:10      | So this is one I just put on my Instagram                                      |
+| 32:10      | So this is one I just put on my [[Instagram]]                                      |
 | 32:12      | that just because you don't have central air conditioning                      |
 | 32:16      | doesn't mean that you can't sort of have your house                            |
 | 32:19      | kind of run on a thermostat situation.                                         |
@@ -930,7 +930,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 35:25      | Another thing is I have a,                                                     |
 | 35:28      | so I do have a [[Stream Deck]] on my desk                                      |
 | 35:30      | and I cannot for the life of me get this tedious task                          |
-| 35:34      | I have to do for my client of Facebook ads reporting.                          |
+| 35:34      | I have to do for my client of [[Facebook]] Ads reporting.                          |
 | 35:37      | So I'll go into the ads manager,                                               |
 | 35:39      | I'll grab all of the numbers that I need                                       |
 | 35:41      | to sort of click, highlight each of them and copy them.                        |
@@ -1010,10 +1010,10 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 38:51      | that we used to have to do manually                                            |
 | 38:53      | with plugging that information in.                                             |
 | 38:55      | Yeah, I can just imagine                                                       |
-| 38:56      | if somebody got the wrong Zoom link for something like that,                   |
+| 38:56      | if somebody got the wrong [[Zoom]] link for something like that,                   |
 | 38:59      | it would be a very understandable human error                                  |
 | 39:01      | on the part of the people sending that link                                    |
-| 39:03      | that there's six different, 10 different Zoom links.                           |
+| 39:03      | that there's six different, 10 different [[Zoom]] links.                           |
 | 39:06      | Of course, sometimes somebody would get the wrong one,                         |
 | 39:08      | but by using the automation, that's not a problem.                             |
 | 39:11      | I'm guessing it has also possibly cut down                                     |
@@ -1032,7 +1032,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 39:39      | using [[Airtable]] because I do love that app so much.                             |
 | 39:42      | Oh, I love it.                                                                 |
 | 39:43      | Yeah, and it's kind of been a multiple pass thing.                             |
-| 39:46      | At first, I used [[Airtable]] to just create the Zoom links                        |
+| 39:46      | At first, I used [[Airtable]] to just create the [[Zoom]] links                        |
 | 39:50      | and then I used [[Airtable]] to determine                                          |
 | 39:52      | the dates of the sessions.                                                     |
 | 39:53      | Like, okay, if the first session is on this day,                               |
@@ -1192,10 +1192,10 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 46:23      | and in particular, in [[Make]],                                                |
 | 46:25      | I do really like the branching                                                 |
 | 46:28      | and the fact that you can filter data on your flow as well.                    |
-| 46:36      | So, for example, whenever I get feedback for iOS today,                        |
+| 46:36      | So, for example, whenever I get feedback for [[iOS Today]],                        |
 | 46:41      | sometimes people will send in pet pictures for the pet tax,                    |
 | 46:45      | which is a non-obligatory tax                                                  |
-| 46:48      | where people are sending in a question for *[[Shortcuts]] corner*              |
+| 46:48      | where people are sending in a question for *Shortcuts Corner*              |
 | 46:51      | or show feedback, then they can send it a pet picture as well                  |
 | 46:53      | and we show it on the show.                                                    |
 | 46:55      | But if they do that, then I need to upload that image to [[Dropbox]]               |
@@ -1213,7 +1213,7 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 47:28      | And then when I go to look at that feedback,                                   |
 | 47:31      | I can see all the [[Dropbox]] links                                                |
 | 47:33      | and I can just click one thing and copy everything                             |
-| 47:36      | straight into the Google Sheet for the show.                                   |
+| 47:36      | straight into the [[Google Sheets\|Google Sheet]] for the show.                                   |
 | 47:39      | And that makes my life a lot easier,                                           |
 | 47:41      | the fact that I can just filter and say, hey,                                  |
 | 47:43      | so keep going from here,                                                       |
@@ -1284,9 +1284,9 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 50:18      | Yeah.                                                                          |
 | 50:19      | Fortunately.                                                                   |
 | 50:20      | Yeah.                                                                          |
-| 50:21      | Fortunately, I've actually not had that issue with make.                       |
+| 50:21      | Fortunately, I've actually not had that issue with [[Make]].                   |
 | 50:23      | And I have been using [[Make]] for a really long time.                         |
-| 50:26      | Some of the terminology is very developing.                                    |
+| 50:26      | Some of the terminology is very developery.                                    |
 | 50:29      | Yes.                                                                           |
 | 50:30      | But I do like the fact that on every action,                                   |
 | 50:33      | there's a little question mark bubble when you click on,                       |
@@ -1305,13 +1305,13 @@ This week, David and Rosemary are joined by Kim Caloca to talk about how automat
 | 51:09      | that's come from the developer and that's just how they name                   |
 | 51:12      | things in their API or whatever.                                               |
 | 51:14      | So it can be very much just like, you know,                                    |
-| 51:17      | you're just talking to the developers API in a prettier                        |
+| 51:17      | you're just talking to the developer's API in a prettier                        |
 | 51:21      | format or something.                                                           |
 | 51:23      | But yeah, it's quite nice as well with, you know,                              |
 | 51:25      | it's got things like the text parsing and filtering and so on.                 |
 | 51:27      | One thing that's really cool in [[Zapier]],                                    |
 | 51:29      | if you haven't played in it lately,                                            |
-| 51:31      | they have added an AI right inside of [[Zapier]].                              |
+| 51:31      | they have added an [[Artificial Intelligence\|AI]] right inside of [[Zapier]].                              |
 | 51:35      | So before you're even starting a zap,                                          |
 | 51:37      | you can type into this thing and say,                                          |
 | 51:39      | this is what I'm trying to do.                                                 |
