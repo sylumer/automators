@@ -67,25 +67,25 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | :--------- | :-------------------------------------------------------------------------------------------------------- |
 | 00:00      | Welcome to The Automators. I'm David Sparks and joined by my co-host, Rosemary Orchard.                   |
 | 00:07      | How are you today, Rosemary?                                                                              |
-| 00:08      | I'm good, David. I lost some AirPods the other day, and so I ordered a case of an AirTag                  |
-| 00:13      | holder, an AirTag. Found my AirPods. They're now in the case with the AirTag. So next time                |
+| 00:08      | I'm good, David. I lost some AirPods the other day, and so I ordered a case of an [[AirTag]]                  |
+| 00:13      | holder, an [[AirTag]]. Found my [[AirPods]]. They're now in the case with the AirTag. So next time                |
 | 00:17      | I lose them, I can automate finding them, which is great.                                                 |
-| 00:20      | Wait, wait a second. So you lost the entire AirPods or just the case?                                     |
+| 00:20      | Wait, wait a second. So you lost the entire [[AirPods]] or just the case?                                     |
 | 00:25      | Yeah, AirPods plus case.                                                                                  |
 | 00:26      | Okay. Well, that hurts.                                                                                   |
 | 00:28      | Yeah.                                                                                                     |
-| 00:29      | Well, the worst thing is, is when you open the AirPods case and there's one AirPod in                     |
+| 00:29      | Well, the worst thing is, is when you open the [[AirPods]] case and there's one [[AirPods\|AirPod]] in                     |
 | 00:33      | there, and you're like, oh boy. And the other one's not in your ear. Oh boy. Right?                       |
 | 00:38      | Yep.                                                                                                      |
-| 00:39      | So, but you can now get an AirPods case that has a holder for an AirTag.                                  |
+| 00:39      | So, but you can now get an [[AirPods]] case that has a holder for an [[AirTag]].                                  |
 | 00:44      | Huh?                                                                                                      |
-| 00:45      | Yeah, yeah. There's a Spigen one for the AirPods Pro, but I just grabbed, they have some little          |
-| 00:50      | ones with keychains on the side. So I just charged an AirTag on that because that works                   |
+| 00:45      | Yeah, yeah. There's a Spigen one for the [[AirPods#AirPods Pro\|AirPods Pro]], but I just grabbed, they have some little          |
+| 00:50      | ones with keychains on the side. So I just charged an [[AirTag]] on that because that works                   |
 | 00:53      | for me.                                                                                                   |
-| 00:54      | Well, if only the same company made the AirTags and AirPods, then they could combine the AirTag           |
-| 00:59      | technology into the AirPod case, but...                                                                   |
+| 00:54      | Well, if only the same company made the [[AirTag\|AirTags]] and [[AirPods]], then they could combine the [[AirTag]]           |
+| 00:59      | technology into the [[AirPod]] case, but...                                                                   |
 | 01:02      | It's insane.                                                                                              |
-| 01:03      | Yeah. But hey, we are the automators. We're not here to talk about AirPods and AirTags.                   |
+| 01:03      | Yeah. But hey, we are the automators. We're not here to talk about [[AirPods]] and [[AirTag\|AirTags]].                   |
 | 01:07      | We're here to talk about automation. And we have an excellent guest today. Welcome to                     |
 | 01:12      | the show, Chris Lawley.                                                                                   |
 | 01:13      | Hey, thank you guys for having me on. Excellent guest. Woo. That's, that's some pressure right            |
