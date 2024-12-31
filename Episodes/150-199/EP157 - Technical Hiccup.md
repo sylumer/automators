@@ -6,7 +6,7 @@ fc-date:
   day: 
 fc-category: podcast
 podcast: Automators
-published: 
+published: 2024-06-28
 duration: 
 formattedduration: 
 hosts: 
