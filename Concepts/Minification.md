@@ -1,7 +1,8 @@
 ---
 status: complete
 notetype: concept
-aliaes: ["Minify"]
+aliases:
+  - Minify
 ---
 
 # Overview
