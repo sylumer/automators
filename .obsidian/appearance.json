@@ -8,7 +8,8 @@
     "obsidian-default-theme",
     "custom-callouts",
     "mermaid",
-    "minimal-header-spacing"
+    "minimal-header-spacing",
+    "properties"
   ],
   "cssTheme": "Minimal"
 }
