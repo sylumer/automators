@@ -1,0 +1,30 @@
+body:not(.is-mobile) .mod-root .metadata-container
+{
+	interpolate-size: allow-keywords;
+
+	.metadata-content
+	{
+		height: 0;
+		opacity: 0.6;
+		overflow: hidden;
+		transition: height 300ms ease-in-out, opacity 300ms;
+	}
+
+	&:has(.metadata-properties-heading:hover) .metadata-content, .metadata-content:hover
+	{
+		height: auto;
+		opacity: 1;
+	}
+	
+	.metadata-properties-heading
+	{ 
+		margin-bottom: 0;
+		padding-bottom: var(--size-4-3);
+		width: 10rem;
+	}
+}
+
+ .markdown-embed .metadata-container, .markdown-embed-content .metadata-container
+ {
+ 	display: none !important;
+ }
