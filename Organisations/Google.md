@@ -11,7 +11,7 @@ Google is a multinational technology company known for its internet-related prod
 - Online advertising platform (Google Ads)
 - Web browsing ([[Google Chrome]])
 - Cloud computing services (Google Cloud Platform)
-- Mobile operating system ([[Android]])
+- Mobile operating system (Android)
 - Productivity tools ([[Google G-Suite|Google WorkSpace]])
 - [[Artificial Intelligence]] ([[Google Gemini]])
 
