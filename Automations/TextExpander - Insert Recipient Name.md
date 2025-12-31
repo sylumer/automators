@@ -31,7 +31,7 @@ end tell
 You can reuse the [[AppleScript]] by nesting it as a snippet in other snippets. The result can then be prefixed with your preferred salutation (e.g. "Dear", "Hi", "*{nothing}*").
 
 # Notes
-- The improved version was actually a revision buy Twitter user [Greg Forcey](https://twitter.com/GregForcey).
+- The improved version was actually a revision by Twitter user [Greg Forcey](https://twitter.com/GregForcey).
 
 # Links
 - [Improved AppleScript to Automatically Insert Recipient's Name in Apple Mail using TextExpander - MacSparky](https://www.macsparky.com/blog/2019/02/2019-2-improved-applescript-to-automatically-insert-recipients-name-in-apple-mail-using-textexpander/)
