@@ -1,5 +1,5 @@
 ---
-status: "incomplete"
+status: "complete"
 fc-date:
   year: 2019
   month: 01
@@ -47,14 +47,14 @@ Day One is friends with [Siri Shortcuts](https://support.apple.com/en-us/HT20905
 
 Rosemary goes a step further by using [Launch Center Pro](https://www.google.com/search?client=safari&rls=en&q=launch+centre+pro&ie=UTF-8&oe=UTF-8) to launch her Siri Shortcut to launch her journalling prompts. This lets her present different prompts on different days of the week. Clever. We've shared a link to Rose's shortcut in the show notes.
 
-David explains audio transcription in Day One, that works much better than you think it would be.
+David explains audio transcription in [[Day One]], that works much better than you think it would be.
 
-If This Then That (IFTTT) can also create a Day One entry, pulling data from other web services. Think about that one for a moment. Simple things, like a Google Calendar event, can be enough to trigger a new Day One entry. Rose has a cool automation that helps her log and journal television consumption using automation between [trakt.tv](https://trakt.tv) and Day One.
+If This Then That ([[IFTTT]]) can also create a Day One entry, pulling data from other web services. Think about that one for a moment. Simple things, like a Google Calendar event, can be enough to trigger a new [[Day One]] entry. Rose has a cool automation that helps her log and journal television consumption using automation between [trakt.tv](https://trakt.tv) and [[Day One]].
 
 Another way to automate journal creation is through text automation. You could use tools like [Drafts](https://getdrafts.com) or [TextExpander](https://textexpander.com) to give you prompts to easily create journal entries.
 
 ## Other Options
-Then our hosts talk about journalling solutions outside of Day One. Using third-party applications like [Ulysses](https://ulysses.app) or even just a plain text file, you can use many of the above referenced prompt-based journal automation to create new entries. There can be some challenges with things like photos and other media, but it can work. David even at one point suggests using [Pages](https://www.apple.com/pages/), which would work better than you think if you want media in your journal. 
+Then our hosts talk about journalling solutions outside of [[Day One]]. Using third-party applications like [Ulysses](https://ulysses.app) or even just a plain text file, you can use many of the above referenced prompt-based journal automation to create new entries. There can be some challenges with things like photos and other media, but it can work. David even at one point suggests using [Pages](https://www.apple.com/pages/), which would work better than you think if you want media in your journal. 
 
 Next, our hosts discuss automating public journals with services like [micro.blog](https://micro.blog).
 
@@ -73,7 +73,6 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 - [Do more with Day One - IFTTT](https://IFTTTtt.com/services/day_one)
 - [Swarm | Remember everywhere.](https://www.swarmapp.com/)
 - [Instagram](https://www.instagram.com/)
-- [Track.tv](http://track.tv/)
 - [Automatically track TV & movies you're watching - Trakt.tv](https://trakt.tv/)
 - [Ulysses](https://ulysses.app/)
 - [Drafts. Where Text Starts. | Drafts](https://getdrafts.com/)
@@ -136,7 +135,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 02:25      | Yes.                                                                                                |
 | 02:26      | So we were thinking about maybe doing some kind of automators meetup.                               |
 | 02:29      | We haven't got any plans as we record this, but we will.                                            |
-| 02:33      | So if you're interested, go to talk.automators.fm, we'll have a post in there, and probably         |
+| 02:33      | So if you're interested, go to [talk.automators.fm](https://talk.automators.fm), we'll have a post in there, and probably         |
 | 02:40      | the evening of Saturday the 19th, we're going to try and do something.                              |
 | 02:44      | Yes.                                                                                                |
 | 02:45      | If there is anything, I can guarantee there will be stickers at the very least, and that            |
@@ -184,14 +183,14 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 05:27      | You can grab information like your most recently shot photos, if you've got an [[Instagram]] feed,      |
 | 05:35      | it can attach to that.                                                                              |
 | 05:37      | I believe it's a, you know, I just close the app.                                                   |
-| 05:42      | There's also a Foursquare, if you've got a Foursquare, I mean, who does Foursquare                  |
+| 05:42      | There's also a [[Foursquare]], if you've got a [[Foursquare]], I mean, who does [[Foursquare]]                  |
 | 05:45      | anymore, Rose?                                                                                      |
 | 05:46      | I'm not sure.                                                                                       |
-| 05:47      | Well, it's now called Swarm, I think, and I've actually used that.                                  |
+| 05:47      | Well, it's now called [[Swarm]], I think, and I've actually used that.                                  |
 | 05:51      | And I know a lot of people who are indie web people are using this because there's a great          |
 | 05:55      | service which will get you later where you can then put this stuff on your own blog,                |
 | 05:59      | which is nice.                                                                                      |
-| 06:00      | And so if you're using it, I mean, the advantage of using something like Foursquare or Swarm,       |
+| 06:00      | And so if you're using it, I mean, the advantage of using something like [[Foursquare]] or [[Swarm]],       |
 | 06:05      | this is an automation trick, use it, because then when you check in, it just grabs that             |
 | 06:09      | data for you and that just goes straight into [[Day One]].                                              |
 | 06:12      | And then you don't have to like open [[Day One]] and type currently at XYZ restaurant with              |
@@ -231,12 +230,12 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 08:16      | at the time you're making the entry and your location in addition to the time, of course.           |
 | 08:21      | So there's a lot of automation stuff in there that's happening just by the nature of using          |
 | 08:26      | the application.                                                                                    |
-| 08:28      | As Rose mentioned, it has Siri shortcut support.                                                    |
-| 08:31      | In my opinion, the Siri shortcut support could go deeper.                                           |
+| 08:28      | As Rose mentioned, it has [[Shortcuts\|Siri Shortcuts]] support.                                                    |
+| 08:31      | In my opinion, the [[Shortcuts\|Siri Shortcuts]] support could go deeper.                                           |
 | 08:34      | It allows you to create a new entry, a new audio recording, a new video.                            |
 | 08:42      | So it allows you to kind of automate the capture.                                                   |
 | 08:47      | But as an automator, you can go deeper without even the application adding the support.             |
-| 08:53      | And the way you do that is through Siri shortcuts, you can ask yourself specific questions.         |
+| 08:53      | And the way you do that is through [[Shortcuts\|Siri Shortcuts]], you can ask yourself specific questions.         |
 | 08:59      | For instance, I was thinking about it, occasionally I talk about meditation, people want to get     |
 | 09:06      | into that.                                                                                          |
 | 09:07      | I think one way to do that would be maybe to keep a meditation journal.                             |
@@ -254,12 +253,12 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 09:49      | And then when it's done, it can use the new entry Siri shortcut with [[Day One]] to open day            |
 | 09:55      | one, which will already have the date and time because it does that every time.                     |
 | 10:00      | And then it'll dump that the prompts and your responses in in a nicely formatted text.              |
-| 10:07      | And you know, because it can use markdown, which is no nice thing about [[Day One]].                    |
-| 10:10      | So you could actually format the answers into markdown in the Siri shortcut and get the             |
+| 10:07      | And you know, because it can use [[Markdown]], which is one nice thing about [[Day One]].                    |
+| 10:10      | So you could actually format the answers into [[Markdown]] in the Siri shortcut and get the             |
 | 10:16      | entry built for you.                                                                                |
-| 10:17      | Yes, and that is where, so for example, as well as supporting markdown, it supports markdown        |
+| 10:17      | Yes, and that is where, so for example, as well as supporting [[Markdown]], it supports Markdown        |
 | 10:23      | extra, which means that you can input a table.                                                      |
-| 10:25      | But I don't know if you've ever tried to write a table in markdown, David, I have.                  |
+| 10:25      | But I don't know if you've ever tried to write a table in [[Markdown]], David, I have.                  |
 | 10:28      | It is frustrating because you've got pipes and you've got columns and you've got dashes             |
 | 10:33      | and it means alignment.                                                                             |
 | 10:35      | And then it doesn't quite line up and nothing looks right at all when you're writing it             |
@@ -282,7 +281,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 11:27      | exactly the sort of thing that you're going to want to look back at and go, I did have              |
 | 11:31      | a good day that day.                                                                                |
 | 11:34      | Look at all these things I did accomplish.                                                          |
-| 11:37      | My buddy, Mike Schmitz, who co-hosts the focused podcast with me, made one that he has all          |
+| 11:37      | My buddy, [[Mike Schmitz]], who co-hosts the [[Focused]] podcast with me, made one that he has all          |
 | 11:43      | of his daily prompts in there.                                                                      |
 | 11:45      | And I actually texted him last night before we recorded to see if he's published that               |
 | 11:49      | anywhere.                                                                                           |
@@ -311,8 +310,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 13:07      | So it asked me, you know, what I did versus like, what did you do at work and things like           |
 | 13:11      | that.                                                                                               |
 | 13:12      | Okay.                                                                                               |
-| 13:13      | So you've got it looking at what, where is it looking at what day is, is that in Siri               |
-| 13:16      | shortcuts?                                                                                          |
+| 13:13      | So you've got it looking at what, where is it looking at what day is, is that in [[Shortcuts\|Siri Shortcuts]]? |
 | 13:17      | Yeah.                                                                                               |
 | 13:18      | Yeah.                                                                                               |
 | 13:19      | So it does that.                                                                                    |
@@ -399,40 +397,40 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 17:58      | as it sounds because you can add an entry to almost any journal.                                    |
 | 18:03      | If it's enter and encrypted, you can't add to it.                                                   |
 | 18:05      | It only works on the ones that aren't encrypted, but you can do this based on a bunch of things.    |
-| 18:10      | So for example, I'm subscribed to my Tripit calendar in Google Calendar, and I'm using            |
-| 18:14      | Google Calendar for this because then whenever an event on that calendar starts, I can have         |
+| 18:10      | So for example, I'm subscribed to my [[Tripit]] calendar in Google Calendar, and I'm using            |
+| 18:14      | [[Google Calendar]] for this because then whenever an event on that calendar starts, I can have         |
 | 18:20      | a new entry added to my journal for travel.                                                         |
 | 18:25      | So I have a specific travel journal.                                                                |
 | 18:27      | And then every time something starts, like a flight starts or an event starts, it's in              |
-| 18:33      | my Tripit calendar, it opens a new entry in the journal for me, which is really nice              |
+| 18:33      | my [[Tripit]] calendar, it opens a new entry in the journal for me, which is really nice              |
 | 18:39      | because then afterwards, like I can think back and go, oh, yeah, I really enjoyed the               |
 | 18:45      | food that I had on the plane.                                                                       |
 | 18:46      | And so I can write about that and that's in pictures to it.                                         |
 | 18:48      | And it's already there with all that information for me.                                            |
-| 18:52      | And obviously RSS feeds.                                                                            |
+| 18:52      | And obviously [[RSS]] feeds.                                                                            |
 | 18:54      | So I log all of my blog entries and my micro blog entries into [[Day One]] into their own journals      |
 | 19:01      | so that I've got those as well so that when I'm looking at it, I can go to it and I can             |
 | 19:06      | just see everything in there that I've done, which is nice.                                         |
 | 19:10      | And I've also, I use this podcast as an excuse to sign up for the premium VIP version of            |
-| 19:17      | track.tv.                                                                                           |
-| 19:19      | So for people not familiar, track.tv is a watching tracking service.                                |
+| 19:17      | [trakt.tv](https://trakt.tv).                                                                                           |
+| 19:19      | So for people not familiar, [trakt.tv](https://trakt.tv) is a watching tracking service.                                |
 | 19:25      | So it allows you to log everything that you watch films, TV shows, etc.                             |
-| 19:32      | And it can produce an RSS feed, it can produce calendar feeds, all sorts of things.                 |
-| 19:37      | And then I take that RSS feed from track.tv and I have that sent to [[Day One]].                        |
+| 19:32      | And it can produce an [[RSS]] feed, it can produce calendar feeds, all sorts of things.                 |
+| 19:37      | And then I take that [[RSS]] feed from track.tv and I have that sent to [[Day One]].                        |
 | 19:43      | So every time I watch something, I use [[Infuse]] on the [[Apple TV]] and on iOS a lot of the time          |
 | 19:49      | to watch things, it will automatically log that for me.                                             |
-| 19:54      | And so I'm sitting there and I've watched two episodes of, say, Death in Paradise, rewatching       |
+| 19:54      | And so I'm sitting there and I've watched two episodes of, say, [Death in Paradise](https://en.wikipedia.org/wiki/Death_in_Paradise), rewatching       |
 | 19:59      | last season in anticipation of the new season coming next week, I believe, when this episode        |
 | 20:04      | is.                                                                                                 |
 | 20:06      | And that just gets added and it takes the show artwork and it puts that in as an image as           |
 | 20:10      | well, which is really nice.                                                                         |
-| 20:12      | And there are lots of apps for iOS for track TV.                                                    |
-| 20:16      | I'm using check tracked where if I watch something on Netflix, I can log it as well.                |
+| 20:12      | And there are lots of apps for iOS for [trakt.tv](https://trakt.tv).                                                    |
+| 20:16      | I'm using *Check Trakt*[^1] where if I watch something on [[Netflix]], I can log it as well.                |
 | 20:21      | And so then, you know, like I go to the cinema, I can just log what I watched and it automatically  |
 | 20:25      | creates a nice journal entry with the artwork and everything for me.                                |
 | 20:29      | And then I can have my comments later at the end of the day.                                        |
-| 20:31      | Yeah, basically anything with an RSS feed you can put in to [[Day One]].                                |
-| 20:35      | And I think with an RSS feed, calendar feeds, you know, like adding new context to your             |
+| 20:31      | Yeah, basically anything with an [[RSS]] feed you can put in to [[Day One]].                                |
+| 20:35      | And I think with an [[RSS]] feed, calendar feeds, you know, like adding new context to your             |
 | 20:39      | iOS device could create a new journal entry.                                                        |
 | 20:43      | Like, that's how crazy you can get with this.                                                       |
 | 20:46      | And it's really nice to be able to do that because if those are important, then you can             |
@@ -446,28 +444,28 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 21:16      | I can just delete the ones that I don't want afterwards.                                            |
 | 21:19      | It's easier than trying to create all of the ones that I did want.                                  |
 | 21:22      | Yeah.                                                                                               |
-| 21:23      | If TrackTV tracked me, it would just say that I watch a lot of saxophone players on YouTube.        |
-| 21:29      | It does not track YouTube.                                                                          |
+| 21:23      | If [trakt.tv](https://trakt.tv) tracked me, it would just say that I watch a lot of saxophone players on [[YouTube]].        |
+| 21:29      | It does not track [[YouTube]].                                                                          |
 | 21:31      | It's for tracking, like, regular TV and films.                                                      |
 | 21:35      | The service is actually free.                                                                       |
-| 21:38      | It's just if you want the RSS feeds for automating journalling and so on, then you need to pay       |
+| 21:38      | It's just if you want the [[RSS]] feeds for automating journalling and so on, then you need to pay       |
 | 21:43      | for it.                                                                                             |
 | 21:44      | But I think it was $30 for a year and I thought considering how much I use it, that's not           |
 | 21:48      | a huge price to pay to A, support the service and B, to get this data out, which is fun.            |
 | 21:55      | Another thing I got thinking while you were talking is this is kind of going back to a              |
-| 21:58      | serious shortcut, but I block my time for the day and I do adjust it as the day goes                |
+| 21:58      | Siri shortcut, but I block my time for the day and I do adjust it as the day goes                |
 | 22:04      | by.                                                                                                 |
 | 22:05      | You know, like today we ended up recording earlier than we expected to.                             |
 | 22:07      | So I've moved my blocks a little bit, but at the end of the day, there's no reason why              |
-| 22:11      | I couldn't have Siri shortcut just pull the calendar, create like a text list of what               |
+| 22:11      | I couldn't have [[Shortcuts\|Siri Shortcuts]] just pull the calendar, create like a text list of what               |
 | 22:16      | I did in terms of events and put that at the top of my entry and just kind of put that              |
 | 22:21      | in there for the day and fully automate it.                                                         |
 | 22:24      | That would not be difficult.                                                                        |
-| 22:25      | So this stuff is, I think Siri shortcuts really gives you a way to make journalling a lot easier     |
+| 22:25      | So this stuff is, I think [[Shortcuts\|Siri Shortcuts]] really gives you a way to make journalling a lot easier     |
 | 22:34      | than it traditionally would be.                                                                     |
 | 22:36      | Yes, definitely.                                                                                    |
-| 22:38      | And I mean, you can also use something like TextExpander to give you a really nice template        |
-| 22:43      | and you could do this on iOS as well in the TextExpander application with like pop-ups             |
+| 22:38      | And I mean, you can also use something like [[TextExpander]] to give you a really nice template        |
+| 22:43      | and you could do this on iOS as well in the [[TextExpander]] application with like pop-ups             |
 | 22:47      | and fill-ins and all sorts of things.                                                               |
 | 22:49      | Or you could use [[Drafts]] and you could have [[Drafts]] walk you through with a bunch of different        |
 | 22:54      | prompts for things and you know, it could then have a really nice, you know, gives you that         |
@@ -481,11 +479,11 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 23:23      | This episode of The Automators is brought to you by PDF pin, the ultimate tool for editing          |
 | 23:27      | PDFs from our friends over at Smile.                                                                |
 | 23:30      | Now everybody has a need to use PDFs and you know, occasionally you need more than what             |
-| 23:36      | [[Apple\|Apple's]] willing to give you and PDF pin is the application you need for that problem.               |
-| 23:43      | With PDF pin, you can say goodbye to manual forms or remember getting out typewriters               |
+| 23:36      | Apple's willing to give you and PDF Pen is the application you need for that problem.               |
+| 23:43      | With PDF Pen, you can say goodbye to manual forms or remember getting out typewriters               |
 | 23:48      | to fill out forms.                                                                                  |
 | 23:49      | Maybe you're too young to have such a pain in the neck.                                             |
-| 23:52      | But with PDF pin, you can go completely paperless and in addition to allowing you to manage         |
+| 23:52      | But with PDF Pen, you can go completely paperless and in addition to allowing you to manage         |
 | 23:58      | and fill out PDFs, PDF pin and all of its versions has built in optical character recognition.      |
 | 24:06      | And to me, this is one of the killer features of the application because when you get scanned       |
 | 24:11      | documents sent to you, quite often they're not scanned for optical character recognition.           |
@@ -499,30 +497,30 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 24:29      | bong sound at the end and you've got OCR on your document.                                          |
 | 24:33      | It's even automation friendly.                                                                      |
 | 24:35      | Rose and I should talk about that someday.                                                          |
-| 24:37      | Also with PDF pin, you can mark up and highlight PDFs.                                              |
+| 24:37      | Also with PDF Pen, you can mark up and highlight PDFs.                                              |
 | 24:40      | You can search and redact sensitive information like account numbers, you know, don't send          |
 | 24:45      | your bank account information or your credit card number with the PDF, get it out of there.         |
 | 24:50      | And that redaction is a way to get it out of there for good.                                        |
 | 24:54      | You can correct text inside the PDFs, you can insert, remove, reorder pages, move and               |
 | 24:59      | adjust images, record and playback audio annotations.                                               |
 | 25:03      | That's a cool trick.                                                                                |
-| 25:04      | I use the PDFs where when I go through contracts, sometimes I'll use PDF pin to record my voice     |
+| 25:04      | I use the PDFs where when I go through contracts, sometimes I'll use PDF Pen to record my voice     |
 | 25:09      | talking about an extended problem and send it to someone they can listen to me talk about           |
 | 25:13      | it.                                                                                                 |
 | 25:14      | You can even add watermarks.                                                                        |
-| 25:15      | And if that's not enough, you get the PDF pin pro, which allows you to create the PDF               |
+| 25:15      | And if that's not enough, you get the PDF Pen Pro, which allows you to create the PDF               |
 | 25:20      | forms and to edit the table of contents, convert websites into PDFs and do a whole bunch more.      |
-| 25:27      | And if you like dark mode, PDF pin supports that now.                                               |
+| 25:27      | And if you like dark mode, PDF Pen supports that now.                                               |
 | 25:30      | So with the most recent version 10.2, it's got full support for dark mode and Mojave,               |
 | 25:35      | which looks good.                                                                                   |
 | 25:36      | They even added smoother scrolling and some better thumbnail drawing and some other new             |
 | 25:40      | features with that new version 10.2.                                                                |
-| 25:44      | Basically when I bought PDF pin years and years ago for my Mac, it's just solved a huge             |
+| 25:44      | Basically when I bought PDF Pen years and years ago for my Mac, it's just solved a huge             |
 | 25:49      | problem for me and I daily deal with PDFs and I needed a more powerful tool.                        |
-| 25:56      | So to learn more about PDF pin and PDF pin probe, go to smile software.com/podcast.           |
+| 25:56      | So to learn more about PDF Pen and PDF Pen Pro, go to smilesoftware.com/podcast.           |
 | 26:03      | And when you're there, let them know you heard about it here on automators and we really            |
 | 26:08      | appreciate that.                                                                                    |
-| 26:09      | And our thanks to PDF pin for all of their support of the show and all of relay FM.                 |
+| 26:09      | And our thanks to PDF Pen for all of their support of the show and all of relay FM.                 |
 | 26:15      | So we talked a lot about automating [[Day One]].                                                        |
 | 26:19      | Not everybody wants to use [[Day One]] though.                                                          |
 | 26:21      | No.                                                                                                 |
@@ -534,34 +532,34 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 26:41      | you can use to journal.                                                                             |
 | 26:43      | Yeah.                                                                                               |
 | 26:44      | I was thinking one of the best ways to do this for me, but this is another subscription.            |
-| 26:48      | So, but Ulysses is an application allows you to contain text files and keep them in a sort          |
+| 26:48      | So, but [[Ulysses]] is an application allows you to contain text files and keep them in a sort          |
 | 26:56      | of order and it's very automation friendly.                                                         |
 | 26:59      | So you could take all of those prompts and those things we were talking about sending               |
 | 27:02      | to [[Day One]], you could just as easily send that into a [[Day One]] folder and you could give             |
 | 27:07      | each file a name because you name it using automation where you could have like the date            |
-| 27:12      | string at the top of it and just drop that in to Ulysses.                                           |
-| 27:18      | And I suspect a lot of people listening will have like a Ulysses subscription for, you              |
+| 27:12      | string at the top of it and just drop that in to [[Ulysses]].                                           |
+| 27:18      | And I suspect a lot of people listening will have like a [[Ulysses]] subscription for, you              |
 | 27:22      | know, other purposes.                                                                               |
 | 27:23      | So if, you know, if you already have it, then you can also use it for this, you know, you           |
 | 27:27      | can create different folders for things like that, which is always nice.                            |
-| 27:31      | And another option that you could of course look at is [[Dropbox]] or iCloud files where you            |
+| 27:31      | And another option that you could of course look at is [[Dropbox]] or [[iCloud]] files where you            |
 | 27:37      | can have folders and you can have maybe one folder for a year and inside that folder for            |
 | 27:42      | each month and then you just have dated text entries and you could put photos in there              |
 | 27:46      | as well with, you know, give them the same, the name of the date or something and the               |
 | 27:51      | time that they were taken at.                                                                       |
 | 27:53      | Of course you won't be viewing photos in line with the text necessarily if you write everything     |
-| 27:59      | in Markdown and save it as a Markdown file and then use something like marked on your               |
+| 27:59      | in [[Markdown]] and save it as a [[Markdown]] file and then use something like [[Marked 2\|Marked]] on your               |
 | 28:03      | Mac to preview it, then it can reference the local image.                                           |
 | 28:07      | So that might work actually for you, it depends on what you want, of course.                        |
 | 28:11      | I'd have to think about it a little bit further, but I wonder if you could save the images          |
-| 28:15      | to like a hosting service like Droplr and then use Droplr links inside of the auto-created      |
+| 28:15      | to like a hosting service like [[Droplr]] and then use [[Droplr]] links inside of the auto-created      |
 | 28:21      | text.                                                                                               |
 | 28:22      | I mean, it would require you putting your photos out there somewhere.                               |
 | 28:26      | Yeah, I mean, you can just actually save it in the same folder and then, you know, just             |
-| 28:32      | so the reference to the image normally in Markdown, if you're referencing an image,                 |
+| 28:32      | so the reference to the image normally in [[Markdown]], if you're referencing an image,                 |
 | 28:36      | it's exclamation mark, open square bracket, optional caption or alt text depending on               |
 | 28:41      | the service, close square bracket, open round bracket, the reference to the file and traditionally  |
-| 28:47      | this would start with something like HTTPS, kill on slash slash, URL goes here, image               |
+| 28:47      | this would start with something like `https://`, URL goes here, image               |
 | 28:52      | name goes here, dot image extension, close bracket, but you could just have, if the text            |
 | 28:58      | file is in the same folder as the image, just put the name of the image in there.                   |
 | 29:02      | Yeah, and I was thinking about this initially as just, you know, to make it super friendly          |
@@ -579,9 +577,9 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 29:56      | is another way to make kind of a prettier journal if you want it.                                   |
 | 30:00      | Yeah, and I mean, if you have a Mac or iOS device, then absolutely look into that.                  |
 | 30:05      | If you're on Windows, then you might want to look into Word.                                        |
-| 30:08      | If you've got Word or Dropbox paper is actually quite a nice solution for some of these things.     |
+| 30:08      | If you've got [[Microsoft Word\|Word]] or [[Dropbox Paper]] is actually quite a nice solution for some of these things.     |
 | 30:14      | It's a service offered by [[Dropbox]] where you can write text in [[Dropbox]] as it sounds.                 |
-| 30:21      | But you know, you could use something like that or Google Docs maybe, though I would                |
+| 30:21      | But you know, you could use something like that or [[Google Docs]] maybe, though I would                |
 | 30:27      | mention for people who are iOS heavy that their app doesn't usually get updated for                 |
 | 30:32      | new features and screen sizes that quickly, which might mean that you end up having some            |
 | 30:36      | awkward UI issues for a while every so often, that that's definitely an excellent solution          |
@@ -589,38 +587,38 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 30:43      | Now, you put an entry in the outline about doing instead of a personal journal, a public            |
 | 30:48      | journal.                                                                                            |
 | 30:49      | Yeah.                                                                                               |
-| 30:50      | So, I mean, a lot of us have Twitter accounts and [[Instagram]] accounts and maybe four square          |
+| 30:50      | So, I mean, a lot of us have [[Twitter]] accounts and [[Instagram]] accounts and maybe [[Foursquare]]          |
 | 30:56      | accounts and all of these other things and we're everywhere on the Internet.                        |
-| 31:00      | And what I do, I use a micro.blog, I actually host my own, well, public journal, essentially,       |
-| 31:09      | and you can use micro.blog or you can host it yourself.                                             |
-| 31:13      | I would recommend you look at the micro.blog website with their instructions for how to             |
+| 31:00      | And what I do, I use a [[micro.blog]], I actually host my own, well, public journal, essentially,       |
+| 31:09      | and you can use [[micro.blog]] or you can host it yourself.                                             |
+| 31:13      | I would recommend you look at the [micro.blog website](https://micro.blog) with their instructions for how to             |
 | 31:18      | figure that out.                                                                                    |
 | 31:19      | We're not going to cover that.                                                                      |
 | 31:20      | But there are some really nice services that you can use in conjunction with this, like             |
-| 31:24      | own your gram and own your swarm.                                                                   |
+| 31:24      | [OwnYourGram](https://ownyourgram.com)[^2] and [OwnYourSwarm](https://ownyourswarm.p3k.io/docs).                                                                   |
 | 31:27      | And these are free services made by people who just want you to be able to get your own             |
 | 31:31      | data.                                                                                               |
-| 31:32      | And own your gram will take [[Instagram]] posts and host them to a micro.blog endpoint, such            |
-| 31:36      | as the one available on micro.blog.                                                                 |
-| 31:40      | And own your swarm does exactly the same thing with swarm four square check-ins.                    |
+| 31:32      | And [OwnYourGram](https://ownyourgram.com)[^2] will take [[Instagram]] posts and host them to a [[micro.blog]] endpoint, such            |
+| 31:36      | as the one available on [[micro.blog]].                                                                 |
+| 31:40      | And [OwnYourSwarm](https://ownyourswarm.p3k.io/docs) does exactly the same thing with [[Swarm]] [[Foursquare]] check-ins.                    |
 | 31:44      | And then that means that it's on the same place.                                                    |
-| 31:47      | And what I use micro.blog for is it will then cross post to Twitter and master DOM for me.          |
+| 31:47      | And what I use [[micro.blog]] for is it will then cross-post to [[Twitter]] and [[Mastodon]] for me.          |
 | 31:53      | So essentially, if I create an image post, I'll do it on [[Instagram]].                                 |
-| 31:57      | And then that gets cross posted to my blog, which then gets pushed out onto Twitter and             |
-| 32:02      | master DOM for me.                                                                                  |
-| 32:03      | But all text-based things, I do via the micro.blog app.                                             |
+| 31:57      | And then that gets cross posted to my blog, which then gets pushed out onto [[Twitter]] and             |
+| 32:02      | [[Mastodon]] for me.                                                                                  |
+| 32:03      | But all text-based things, I do via the [[micro.blog]] app.                                             |
 | 32:08      | And then they get pushed to everywhere else.                                                        |
 | 32:12      | And then I do take this feed actually and put it back into [[Day One]], so that it's in                 |
 | 32:17      | my private journal as well.                                                                         |
 | 32:18      | But that's it.                                                                                      |
-| 32:19      | It's a really nice public solution, and it gives you an RSS feed so that everybody can              |
+| 32:19      | It's a really nice public solution, and it gives you an [[RSS]] feed so that everybody can              |
 | 32:23      | stock you at their own pace, which is always fun.                                                   |
 | 32:26      | And then you can do something like that, and then you can still do the naval gazing type            |
 | 32:31      | stuff in [[Day One]], which you keep private.                                                           |
 | 32:34      | Yeah, exactly.                                                                                      |
 | 32:35      | And you can do that with almost anything.                                                           |
-| 32:39      | Actually, you can actually just put it on a WordPress blog if you wanted to.                        |
-| 32:45      | I just like micro.blog because you've got some social interaction there, which is nice.             |
+| 32:39      | Actually, you can actually just put it on a [[WordPress]] blog if you wanted to.                        |
+| 32:45      | I just like [[micro.blog]] because you've got some social interaction there, which is nice.             |
 | 32:49      | So if you post a fun picture, then you'll get comments back from people saying that                 |
 | 32:53      | they like it or wanting to know where you got that really good-looking steak, things                |
 | 32:57      | like that.                                                                                          |
@@ -631,7 +629,7 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 33:18      | pen addict as well, which is another show on Relay FM where Mike and Brad go all in                 |
 | 33:23      | on pens.                                                                                            |
 | 33:24      | Oh, man.                                                                                            |
-| 33:25      | That show, I think how people tell me that, you know, Mac Power users cost them money.              |
+| 33:25      | That show, I think how people tell me that, you know, [[Mac Power Users]] cost them money.              |
 | 33:28      | That show is one.                                                                                   |
 | 33:29      | That is some dangerous stuff for me, man, when I listen to that show.                               |
 | 33:33      | Oh, yeah.                                                                                           |
@@ -652,13 +650,13 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 34:21      | daily entry in [[Day One]], I just take a picture of that page in the journal, in the paper             |
 | 34:26      | journal, and that gets it automatically added.                                                      |
 | 34:29      | You could also do that if you're not using something like [[Day One]].                                  |
-| 34:33      | You could take the picture and with one of the apps like Scanner Pro, and then the other            |
-| 34:40      | one is Scanbot.                                                                                     |
+| 34:33      | You could take the picture and with one of the apps like [[Scanner Pro]], and then the other            |
+| 34:40      | one is [[Scanbot]].                                                                                     |
 | 34:41      | Those are the two that I usually recommend.                                                         |
 | 34:43      | And you take a picture with one of those and you can save it and you can run it through             |
 | 34:46      | all the automation routines as well.                                                                |
 | 34:49      | You could use the Siri shortcut to save it with the current date and the name Diary in              |
-| 34:53      | it or something like that and save it to a specific location on iCloud or [[Dropbox]].                  |
+| 34:53      | it or something like that and save it to a specific location on [[iCloud]] or [[Dropbox]].                  |
 | 34:58      | And then you basically get the paper journal, but you also have the permanence of the digital       |
 | 35:03      | ones and zeros so you can see it later.                                                             |
 | 35:05      | Yes.                                                                                                |
@@ -686,16 +684,16 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 36:23      | Another thing you could do to journal, another idea that occurs to me is if you like writing        |
 | 36:29      | but you don't care about paper that much and you want to write with an [[Apple Pencil]]                 |
 | 36:34      | on an iPad, the usual suspects would all be good at that.                                           |
-| 36:41      | I would actually really recommend GoodNotes for this because they have a bunch of different         |
+| 36:41      | I would actually really recommend [[GoodNotes]] for this because they have a bunch of different         |
 | 36:45      | template options.                                                                                   |
 | 36:46      | So you can have the automation aspect of the actual template.                                       |
 | 36:52      | So how would you rate this on a scale from one to five and things like that.                        |
 | 36:58      | And it's very book-like.                                                                            |
-| 37:00      | Notability is often one of my preferred applications, so I do use GoodNotes a lot.                  |
+| 37:00      | Notability is often one of my preferred applications, so I do use [[GoodNotes]] a lot.                  |
 | 37:06      | And it has infinite scrolling, which is great, but if I want something that's more book-like,       |
-| 37:09      | I always go for GoodNotes.                                                                          |
+| 37:09      | I always go for [[GoodNotes]].                                                                          |
 | 37:11      | Yeah, great.                                                                                        |
-| 37:12      | And GoodNotes, you can add custom paper to this so you can create your own.                         |
+| 37:12      | And [[GoodNotes]], you can add custom paper to this so you can create your own.                         |
 | 37:16      | Exactly.                                                                                            |
 | 37:17      | And so you can have the exact diary page you want with the exact prompts you want.                  |
 | 37:23      | And you could even make them different ones for different days like we were talking about           |
@@ -705,13 +703,13 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 37:38      | get a daily habit of doing it and why not?                                                          |
 | 37:42      | Yeah.                                                                                               |
 | 37:43      | And if you're looking for an app to track the fact that you're doing this daily habit,              |
-| 37:47      | then I would highly recommend that you look at streaks.                                             |
+| 37:47      | then I would highly recommend that you look at [[Streaks]].                                             |
 | 37:49      | But we're going to come back to habits tracking as an automated adoption in the future episode,     |
 | 37:54      | I think.                                                                                            |
 | 37:55      | And [[Day One]] will give you a notification as often or as frequently or infrequently as               |
 | 38:03      | you want.                                                                                           |
 | 38:04      | But you could have it say, automatically prompt me to write an entry every night if you're          |
-| 38:10      | going to do it yourself without [[Day One]], an application like Due is good at nagging               |
+| 38:10      | going to do it yourself without [[Day One]], an application like [[Due]] is good at nagging               |
 | 38:16      | you and you could have it tell you once a day, hey, create your journal entry.                      |
 | 38:21      | Yes, which is something that when you're building a new habit, you would definitely like to         |
 | 38:26      | have at least to help you get on the wagon.                                                         |
@@ -726,20 +724,20 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 38:59      | All right.                                                                                          |
 | 39:00      | So if you want to find us, we're the Automators.                                                    |
 | 39:02      | So many places to find us.                                                                          |
-| 39:04      | You can find us over at automators.fm.                                                              |
+| 39:04      | You can find us over at [automators.fm](https://automators.fm).                                                              |
 | 39:06      | That's the website for the show.                                                                    |
-| 39:08      | If you want to participate in the forums over at talk.automators.fm, the show itself is             |
-| 39:15      | hosted over at relayfm at relay.fm/automators.                                                |
-| 39:20      | Rose is, I'm going to get it wrong, is it rosemaryorchard.com?                                      |
-| 39:25      | Yes, I am rosemaryorchard.com.                                                                      |
+| 39:08      | If you want to participate in the forums over at [talk.automators.fm](https://talk.automators.fm), the show itself is             |
+| 39:15      | hosted over at relayfm at [relay.fm/automators](https://relay.fm/automators).                                                |
+| 39:20      | Rose is, I'm going to get it wrong, is it [rosemaryorchard.com](https://rosemaryorchard.com)?                                      |
+| 39:25      | Yes, I am [rosemaryorchard.com](https://rosemaryorchard.com).                                                                      |
 | 39:26      | There we go.                                                                                        |
-| 39:27      | I am David Sparks, but you can find me at macsparky.com.                                            |
+| 39:27      | I am David Sparks, but you can find me at [macsparky.com](https://macsparky.com).                                            |
 | 39:31      | Anything else, Rose?                                                                                |
-| 39:32      | The show is Automators FM on Twitter and you will find both David and I there with Max              |
-| 39:37      | Sparks and rosemaryorchard as well.                                                                 |
+| 39:32      | The show is @AutomatorsFM on [[Twitter]] and you will find both David and I there with @MacSparky              |
+| 39:37      | and @RosemaryOrchard as well.                                                                 |
 | 39:39      | So if for some reason you are unable to join the forum and you want to send us feedback,            |
-| 39:43      | then Twitter is a great place to do it because if you add the hashtag feedback when you tweet       |
-| 39:48      | at automators.fm, then you will be able to get that automatically input into our feedback           |
+| 39:43      | then [[Twitter]] is a great place to do it because if you add the hashtg "#feedback" when you tweet       |
+| 39:48      | @automatorsfm, then you will be able to get that automatically input into our feedback           |
 | 39:56      | spreadsheet.                                                                                        |
 | 39:57      | So.                                                                                                 |
 | 39:58      | Automation at work.                                                                                 |
@@ -749,3 +747,6 @@ It's January and a great time to develop a journalling habit. Why don't you use 
 | 40:04      | See you in two weeks.                                                                               |
 | 40:06      | Bye.                                                                                                |
 | 40:07      | Bye.                                                                                                |
+
+[^1]: Could not find any existence of an app of this name.
+[^2]: No longer available.
