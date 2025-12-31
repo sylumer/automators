@@ -903,16 +903,16 @@ In this episode, Rosemary and David climb out of their suitcases armed with a va
 | 50:10      | It would be really nice.                                                                                                                                         |
 | 50:11      | And I really like having deep links as well, because things like [[DEVONthink]] have got                                                                          |
 | 50:17      | unique links to all of the documents and groups and databases, which are perfect for adding                                                                      |
-| 50:22      | to say a note, an OmniFocus, or a link to something.                                                                                                             |
-| 50:27      | Unique links out of OmniFocus, [[Drafts]], Ulysses, [[DEVONthink]].                                                                                                   |
+| 50:22      | to say a note, an [[OmniFocus]], or a link to something.                                                                                                             |
+| 50:27      | Unique links out of OmniFocus, [[Drafts]], [[Ulysses]], [[DEVONthink]].                                                                                                   |
 | 50:31      | All these apps make them, right?                                                                                                                                 |
 | 50:34      | Except the [[Apple]] native app.                                                                                                                                     |
 | 50:35      | In that case, you've got to come up with some goofy search term and that anyway.                                                                                 |
 | 50:41      | Whatever.                                                                                                                                                        |
 | 50:42      | Well, you can use, don't forget, 1Password has a feature where you can generate a password                                                                     |
 | 50:45      | made of different words.                                                                                                                                         |
-| 50:48      | So like correct horse battery staple is the standard XKCD example for a Word password,                                                                           |
-| 50:54      | but 1Password has this feature, so you could theoretically use that and copy it.                                                                               |
+| 50:48      | So like correct horse battery staple is the standard [XKCD](https://xkcd.com) example for a Word password,                                                                           |
+| 50:54      | but [[1Password]] has this feature, so you could theoretically use that and copy it.                                                                               |
 | 50:59      | Usually what I just do is I put the name at the bottom of the note with the letter X in                                                                          |
 | 51:04      | front of it, and that's enough.                                                                                                                                  |
 | 51:05      | I don't need to go that far, but it's just, why should I have to do that?                                                                                        |

@@ -130,7 +130,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 04:18      | And like one of the things I can do with the labs is I can say, like, if you are a subscriber          |
 | 04:22      | at this level, there are certain pages only you can see, you know, with extra content                  |
 | 04:27      | and you can't do that in Squarespace.                                                                  |
-| 04:29      | So I, um, I realised I needed to switch to, to WordPress.                                              |
+| 04:29      | So I, um, I realised I needed to switch to, to [[WordPress]].                                              |
 | 04:34      | And I mean, the first thing I did was reach out to my friend Rose and ask if she thought               |
 | 04:38      | that was a dumb idea.                                                                                  |
 | 04:40      | And she said it wasn't.                                                                                |
@@ -146,22 +146,22 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 05:20      | You know, it's my website.                                                                             |
 | 05:21      | It's the centre of my universe for the MacSparky stuff I do.                                          |
 | 05:27      | And I want that to always be available and always to be fast and work and, you know,                   |
-| 05:33      | there are other options with WordPress, you pick a, you know, a server and there's all                 |
+| 05:33      | there are other options with [[WordPress]], you pick a, you know, a server and there's all                 |
 | 05:36      | sorts of vendors that'll do it, but I went with the best as far as I understand.                       |
 | 05:42      | And so anyway, I spent money on it and, um, I did it, but there is an automation level                 |
 | 05:47      | to this as well.                                                                                       |
 | 05:49      | Hmm.                                                                                                   |
 | 05:50      | I bet there is.                                                                                        |
-| 05:51      | Because one of the reasons why I said it wasn't crazy because I know that things like Zapier           |
-| 05:54      | and [[Make\|Integromat]] and shortcuts and [[Drafts]] have all got support for WordPress, which makes                |
+| 05:51      | Because one of the reasons why I said it wasn't crazy because I know that things like [[Zapier]]           |
+| 05:54      | and [[Make\|Integromat]] and [[Shortcuts]] and [[Drafts]] have all got support for [[WordPress]], which makes                |
 | 05:59      | life a little bit easier for you, I hope.                                                              |
 | 06:01      | Yeah, exactly.                                                                                         |
 | 06:02      | And I'm really just getting my arms wrapped around it.                                                 |
 | 06:06      | Um, so starting on the, uh, on the local Mac level, um, I write blog posts and I continue              |
-| 06:14      | to write them in [[Obsidian]] and Markdown.                                                                |
-| 06:16      | Um, so the automation steps that happen there are, I have, um, I write it in Markdown, then            |
+| 06:14      | to write them in [[Obsidian]] and [[Markdown]].                                                                |
+| 06:16      | Um, so the automation steps that happen there are, I have, um, I write it in [[Markdown]], then            |
 | 06:23      | I run a keyboard and my script that grabs all the text that goes to [[Safari]], opens [[Grammarly]]            |
-| 06:29      | and then creates, uses the feature and keyboard Maestro where it looks at the screen and               |
+| 06:29      | and then creates, uses the feature and [[Keyboard Maestro]] where it looks at the screen and               |
 | 06:33      | clicks a button, you know, which I know is always, a lot of people are afraid of that.                 |
 | 06:37      | But for the [[Grammarly]] website, that's the only way to open a new document.                             |
 | 06:42      | You have to like click a special thing on the screen, but it works every time.                         |
@@ -188,16 +188,16 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 07:56      | when this finally became available, um, as, um, a built into the Mac thing, but it is                  |
 | 08:02      | then everywhere on your Mac all the time, which some people may or may not want.                       |
 | 08:06      | Um, but, you know, once you start connecting all these things together, which you're now               |
-| 08:11      | going to be very much more able to do just because WordPress has got an API, a web API,                |
+| 08:11      | going to be very much more able to do just because [[WordPress]] has got an API, a web API,                |
 | 08:16      | an open API that you can use, and everybody else can use that as well.                                 |
 | 08:21      | Um, and so you could do things like, for example, whenever [[Mac Power Users]] posts create a draft        |
-| 08:26      | post directly in WordPress with everything from the [[Mac Power Users]] feed.                              |
+| 08:26      | post directly in [[WordPress]] with everything from the [[Mac Power Users]] feed.                              |
 | 08:31      | And then you can go in and make your tweaks and, you know, be done with it type thing.                 |
 | 08:35      | And that's now possible, which previously you would have had to have extra steps involved              |
 | 08:40      | to achieve that.                                                                                       |
 | 08:41      | Yeah.                                                                                                  |
 | 08:42      | And that's like something I need to follow up on.                                                      |
-| 08:44      | Like this is, uh, the, the WordPress installation is pretty new.                                       |
+| 08:44      | Like this is, uh, the, the [[WordPress]] installation is pretty new.                                       |
 | 08:48      | Like I'm also interested in going over to Red Sweater and trying, you know, their blogging             |
 | 08:52      | platform software.                                                                                     |
 | 08:53      | Yeah.                                                                                                  |
@@ -218,19 +218,19 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 09:48      | on some photo and image automations, you know, the trick with a website is you want to get             |
 | 09:54      | the images big enough that they look good, but not so big that they take a long time                   |
 | 09:58      | to load.                                                                                               |
-| 09:59      | It's like a kind of a balancing act, um, modern WordPress actually handles a lot of that for           |
+| 09:59      | It's like a kind of a balancing act, um, modern [[WordPress]] actually handles a lot of that for           |
 | 10:05      | you.                                                                                                   |
 | 10:06      | If you throw a really big image.                                                                       |
 | 10:07      | Yeah.                                                                                                  |
 | 10:08      | I'll kind of take care of it for you.                                                                  |
-| 10:10      | By the way, WordPress, the last time I used it was like 10 years ago.                                  |
+| 10:10      | By the way, [[WordPress]], the last time I used it was like 10 years ago.                                  |
 | 10:13      | It is, of course, it's a lot better than it used to be.                                                |
 | 10:16      | It's changed a lot, especially in the last few years, it has changed quite a significant               |
 | 10:20      | amount.                                                                                                |
 | 10:21      | And by using, um, WP engine rather than entirely self hosting it, um, they, they'll be doing           |
 | 10:27      | a whole bunch of, um, back updates and stuff on the backend, which will protect you from               |
-| 10:32      | some of the potential security flaws that are often associated with WordPress, where                   |
-| 10:37      | it's basically just like you haven't installed updates on WordPress or your server in four             |
+| 10:32      | some of the potential security flaws that are often associated with [[WordPress]], where                   |
+| 10:37      | it's basically just like you haven't installed updates on [[WordPress]] or your server in four             |
 | 10:41      | years.                                                                                                 |
 | 10:42      | Yeah.                                                                                                  |
 | 10:43      | And that's what that's, you know, like, of course there's going to be security issues                  |
@@ -238,15 +238,15 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 10:50      | Mac, um, or an iPad or an iPhone.                                                                      |
 | 10:53      | Um, so it's, it's, it's good that you've got like the better solution.                                 |
 | 10:57      | And because you come in after such a long break, there have been some really big changes,              |
-| 11:00      | which I do feel generally makes WordPress much more user friendly, um, which is a good                 |
+| 11:00      | which I do feel generally makes [[WordPress]] much more user friendly, um, which is a good                 |
 | 11:05      | thing.                                                                                                 |
-| 11:06      | And another bit of human automation is I have hired a WordPress guy, you know, somebody                |
-| 11:11      | who, uh, sleeps with the WordPress code under his pillow and he has full access and like               |
+| 11:06      | And another bit of human automation is I have hired a [[WordPress]] guy, you know, somebody                |
+| 11:11      | who, uh, sleeps with the [[WordPress]] code under his pillow and he has full access and like               |
 | 11:17      | when plugins come in, I just said, you figure out, you know, when to update them and, you              |
 | 11:22      | know, I'm really offloading a lot of it as much as a nerd I am.                                        |
 | 11:27      | I don't really want to be a web development nerd.                                                      |
 | 11:29      | And that was the advantage of Squarespace and, and I've kind of done repeated that here                |
-| 11:34      | with WordPress by getting someone else to kind of manage a lot of that for me.                         |
+| 11:34      | with [[WordPress]] by getting someone else to kind of manage a lot of that for me.                         |
 | 11:38      | Like one of the issues we had was because I had been on Squarespace for so long, um,                   |
 | 11:44      | the blog started out, MacSparky started out in like 2007 as a, um, a, what was it, a dot              |
 | 11:54      | me website?                                                                                            |
@@ -268,7 +268,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 12:18      | putting money into it to make it right.                                                                |
 | 12:21      | And I had all these issues with plugins and I was just getting really frustrated.                      |
 | 12:25      | So I just jumped over to Squarespace about 10 years ago.                                               |
-| 12:29      | And then I am, and then when I, now I've gone back to WordPress.                                       |
+| 12:29      | And then I am, and then when I, now I've gone back to [[WordPress]].                                       |
 | 12:33      | You know, we brought all of those posts over, but of course, because I'd been on multiple              |
 | 12:37      | platforms, there were some issues when we first released it.                                           |
 | 12:41      | So we had to do some redirect magic to kind of fix some 404 errors.                                    |
@@ -316,7 +316,7 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 14:54      | And so anyway, that, that, so there's a lot of human-based automation in the blog generation           |
 | 15:00      | right now.                                                                                             |
 | 15:02      | And I would like to get the robots more involved.                                                      |
-| 15:05      | And now that I've got WordPress, I can, you know, so that's cool.                                      |
+| 15:05      | And now that I've got [[WordPress]], I can, you know, so that's cool.                                      |
 | 15:09      | Yeah.                                                                                                  |
 | 15:10      | Definitely.                                                                                            |
 | 15:11      | It makes a lot of sense for things like that.                                                          |
@@ -340,14 +340,14 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 16:02      | Because I've used previous versions of this and alternative things to it, but this is                  |
 | 16:06      | a quite a popular plugin nowadays.                                                                     |
 | 16:09      | It's got 6,000 active installations.                                                                   |
-| 16:12      | So, according to WordPress.com, so, yeah, there's some options there.                                  |
+| 16:12      | So, according to [wordpress.com](https://wordpress.com), so, yeah, there's some options there.                                  |
 | 16:18      | Yeah.                                                                                                  |
 | 16:19      | In terms of plugins, I'm running one for Memberful, obviously, so I can, you know, put the page        |
 | 16:27      | access.                                                                                                |
 | 16:28      | There's one in there for ConvertKit, which is what I run my newsletter through.                        |
 | 16:33      | And there is, there's one in there that the developer put in for SEO, which tells me every             |
 | 16:40      | post I write is bad SEO.                                                                               |
-| 16:42      | I don't apparently write very well for Google.                                                         |
+| 16:42      | I don't apparently write very well for [[Google]].                                                         |
 | 16:45      | Yeah.                                                                                                  |
 | 16:46      | I mean, it's one of those things where if you're writing for Google, are you writing                   |
 | 16:49      | for the people?                                                                                        |
@@ -1034,8 +1034,8 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 59:10      | I have one screen that I call my status board.                                                         |
 | 59:14      | And on it, I've got an OmniFocus perspective that I've got, I've got a lot of stuff on                 |
 | 59:21      | the screen.                                                                                            |
-| 59:22      | I've got, I'm just thinking through it mentally now, Messages, [[Slack]], Basecamp, Twitter, Time          |
-| 59:30      | Tracking, Timery, and I think I've got like eight apps on a screen laid out very carefully.            |
+| 59:22      | I've got, I'm just thinking through it mentally now, Messages, [[Slack]], [[Basecamp]], [[Twitter]], Time Tracking,         |
+| 59:30      | [[Timery]], and I think I've got like eight apps on a screen laid out very carefully.            |
 | 59:37      | And it's just like the right swipe for me.                                                             |
 | 59:39      | If I want to check in on that stuff, I swipe over and it's there.                                      |
 | 59:43      | And I was having trouble getting those to lay out properly with [[Moom]] because it was                    |
@@ -1313,25 +1313,25 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:16:46   | Another thing it's doing is like I found there are a few people who write blog posts that              |
 | 01:16:50   | I want to read everything they put.                                                                    |
 | 01:16:52   | They're a very low signal to noise websites and they don't post often.                                 |
-| 01:16:57   | So I have IFTTT instead of reading those in my RSS feed because I found I was always sending           |
-| 01:17:02   | them the Instapaper.                                                                                   |
-| 01:17:04   | I cut them out of my RSS and I just have IFTTT.                                                        |
+| 01:16:57   | So I have [[IFTTT]] instead of reading those in my [[RSS]] feed because I found I was always sending           |
+| 01:17:02   | them the [[Instapaper]].                                                                                   |
+| 01:17:04   | I cut them out of my [[RSS]] and I just have [[IFTTT]].                                                        |
 | 01:17:09   | You just have them appear in Instapaper.                                                               |
 | 01:17:10   | Yeah.                                                                                                  |
-| 01:17:11   | So IFTTT follows their RSS feed and puts everything in Instapaper as it gets published.                |
+| 01:17:11   | So [[IFTTT]] follows their [[RSS]] feed and puts everything in [[Instapaper]] as it gets published.                |
 | 01:17:17   | So I'm doing that with it.                                                                             |
-| 01:17:20   | I've played in the past with Zapier and some of the other competitors.                                 |
+| 01:17:20   | I've played in the past with [[Zapier]] and some of the other competitors.                                 |
 | 01:17:26   | Which one do you think I should be going at given the tool sets I've been talking about                |
 | 01:17:30   | today?                                                                                                 |
-| 01:17:31   | Honestly, with the tool sets that you're talking about with things like Basecamp and WordPress         |
-| 01:17:34   | and so on, I would be looking at either [[Make\|Integromat]] or Zapier.                                          |
+| 01:17:31   | Honestly, with the tool sets that you're talking about with things like [[Basecamp]] and [[WordPress]]         |
+| 01:17:34   | and so on, I would be looking at either [[Make\|Integromat]] or [[Zapier]].                                          |
 | 01:17:40   | And my inclination is probably going to be to point you towards [[Make\|Integromat]] just because                |
 | 01:17:44   | I find the user interface is a lot easier to just dive in and do things.                               |
 | 01:17:51   | It's a visual user interface.                                                                          |
 | 01:17:53   | And so you can see, for example, there's an RSS icon and when you click on it, you see                 |
-| 01:17:56   | the details of the RSS feed and then there's an arrow going out of it to, I don't know,                |
-| 01:18:01   | WordPress.                                                                                             |
-| 01:18:03   | And then that's creating WordPress post or maybe there's an RSS feed and it splits out.                |
+| 01:17:56   | the details of the [[RSS]] feed and then there's an arrow going out of it to, I don't know,                |
+| 01:18:01   | [[WordPress]].                                                                                             |
+| 01:18:03   | And then that's creating [[WordPress]] post or maybe there's an [[RSS]] feed and it splits out.                |
 | 01:18:08   | And then the word MacSparky is on one line and the word, I don't know, 512 pixels is                  |
 | 01:18:14   | on another if we're talking about something for my power users.                                        |
 | 01:18:18   | And you can just see immediately and then you just look at the icons after that and                    |
@@ -1339,12 +1339,12 @@ David's made a few changes and it's time for an Automator-style audit. In this e
 | 01:18:27   | You can get very nerdy and granular with it, but also you don't have to and it does work               |
 | 01:18:31   | with all the Pro Tools plus it's very affordable, which I think quite a few of our listeners           |
 | 01:18:36   | will very much appreciate.                                                                             |
-| 01:18:38   | I'm paying for Zapier and [[Make\|Integromat]] on higher tiers because I'm using them all the time               |
+| 01:18:38   | I'm paying for [[Zapier]] and [[Make\|Integromat]] on higher tiers because I'm using them all the time               |
 | 01:18:44   | and actually a whole chunk of things just wouldn't be done without them.                               |
 | 01:18:48   | So for example, creating show notes for automators and indeed creating new automations, episodes       |
 | 01:18:53   | and things like that.                                                                                  |
 | 01:18:54   | A whole bunch of that is just handled for me with absolutely no work on my part anymore                |
-| 01:18:59   | thanks to Zapier, Zaps and [[Make\|Integromat]] scenarios and they just do things and I don't even think         |
+| 01:18:59   | thanks to [[Zapier]], Zaps and [[Make\|Integromat]] scenarios and they just do things and I don't even think         |
 | 01:19:05   | about it and the notes are just there and it's brilliant.                                              |
 | 01:19:09   | Of course, I still have to actually turn up and think about the notes, but it means that               |
 | 01:19:12   | I'm never sitting down and creating a Google Doc for any of this, which is of course not               |

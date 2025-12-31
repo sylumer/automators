@@ -932,17 +932,17 @@ David and Rose then talk about the various ways they are gaming their iPhones to
 | 41:14      | I'm very much hoping that we get all of that and more.                                                                     |
 | 41:16      | They've given us an inch.                                                                                                  |
 | 41:17      | We're going to circumnavigate the globe next.                                                                              |
-| 41:19      | You can find us on Twitter @automatorsfm and the show notes, of course, will be at                                       |
+| 41:19      | You can find us on [[Twitter]] @automatorsfm and the show notes, of course, will be at                                       |
 | 41:26      | relay.fm/automators.                                                                                                |
 | 41:27      | This is episode four.                                                                                                      |
 | 41:29      | David, where can people find you on the Internet?                                                                          |
 | 41:32      | Over at [macsparky.com](https://macsparky.com).                                                                                                     |
 | 41:33      | Everything is there.                                                                                                       |
 | 41:34      | Excellent.                                                                                                                 |
-| 41:35      | And you are @macsparky on Twitter?                                                                                          |
+| 41:35      | And you are @macsparky on [[Twitter]]?                                                                                          |
 | 41:37      | I am.                                                                                                                      |
 | 41:38      | How about you?                                                                                                             |
-| 41:39      | I am at [rosemaryorchard.com](https://rosemaryorchard.com) and I'm @rosemaryorchard on [Micro.blog](https://micro.blog) and Twitter.                                              |
+| 41:39      | I am at [rosemaryorchard.com](https://rosemaryorchard.com) and I'm @rosemaryorchard on [Micro.blog](https://micro.blog) and [[Twitter]].                                              |
 | 41:44      | And we will see you in the forums to talk about the episode.                                                               |
 | 41:47      | That's at [talk.automators.fm](https://talk.automators.fm).                                                                                              |
 | 41:49      | See you next time.                                                                                                         |

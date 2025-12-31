@@ -275,7 +275,7 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 15:20      | and iPad OS 16 and watch OS nine, I could maybe simplify that a little bit. But having that shortcut    |
 | 15:28      | trigger those different states and appearances of my devices. Also, you know, settings in the           |
 | 15:34      | focus of, okay, no badges, badges are all turned off. So even if I've got, you know, 18 unread emails   |
-| 15:42      | and a couple of unread Twitter DMs, those are not going to appear visibly to me. And I've               |
+| 15:42      | and a couple of unread [[Twitter]] DMs, those are not going to appear visibly to me. And I've               |
 | 15:48      | limited my home screen to a screen that has no icons on it. So all I have is the dock all I have        |
 | 15:53      | is the dock and big purple. And that is what again, what reminds me, don't start, you know,             |
 | 16:00      | getting distracted now, you know, open up calendar, sure, as needed, like a, like a good boy, and       |
@@ -837,6 +837,6 @@ In this episode, David and Rosemary are joined once more by Scotty Jackson. They
 | 01:10:21   | definitely worth considering. Either way, we are the Automators podcast. You can find us over at        |
 | 01:10:27   | relay.fm slash Automators. You can check out our forums over at talk.automators.fm.                     |
 | 01:10:33   | Scotty, where do people find you? Well, I may be found on the internet at hayscottyj.com,               |
-| 01:10:38   | or by the same name, at hayscottyj on Twitter. And of course, as part of Nested Folders,                |
-| 01:10:43   | at nestedfolderspodcast.com. All right. Thanks to our sponsors,                                         |
-| 01:10:47   | Tech's Expander and Electric. We'll see you next time. Goodbye, everyone.                               |
+| 01:10:38   | or by the same name, at hayscottyj on [[Twitter]]. And of course, as part of [[Nested Folders]],                |
+| 01:10:43   | at [nestedfolderspodcast.com](https://nestedfolderspodcast.com). All right. Thanks to our sponsors,                                         |
+| 01:10:47   | TextExpander and Electric. We'll see you next time. Goodbye, everyone.                               |

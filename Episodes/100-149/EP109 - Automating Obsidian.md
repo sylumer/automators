@@ -302,8 +302,8 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 10:52      | And then, you know, I've put it in the wiki                                                        |
 | 10:54      | and other people improve it and enhance it because, yeah,                                          |
 | 10:59      | just a plain text file is really difficult to collaborate on.                                      |
-| 11:03      | You know, this is why Google Docs is so popular, right?                                            |
-| 11:07      | Because you can have 16 people typing into Google Docs                                             |
+| 11:03      | You know, this is why [[Google Docs]] is so popular, right?                                            |
+| 11:07      | Because you can have 16 people typing into [[Google Docs]]                                             |
 | 11:09      | at the same time.                                                                                  |
 | 11:10      | And unless you all lose your internet connection,                                                  |
 | 11:13      | like it's going to handle it just fine.                                                            |
@@ -420,10 +420,10 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 16:36      | And then I just type a few letters of the template name,                                           |
 | 16:39      | AUT for Automator's Episode.                                                                       |
 | 16:42      | And then it just dumps the text into a new document with all the, you know,                        |
-| 16:47      | the [[YAML]] data for automators and status and recording information in Google Docs.                  |
+| 16:47      | the [[YAML]] data for automators and status and recording information in [[Google Docs]].                  |
 | 16:53      | All that stuff just gets dumped right on the page.                                                 |
 | 16:56      | And it's super useful.                                                                             |
-| 16:57      | And even though there's more advanced template stuff you can do in obsidian,                       |
+| 16:57      | And even though there's more advanced template stuff you can do in [[Obsidian]],                       |
 | 17:01      | this one's enough for a lot of people.                                                             |
 | 17:03      | Yeah, yeah, it absolutely is.                                                                      |
 | 17:05      | You're kind of starting us down the rabbit hole of the automation plugins already, which is great. |
@@ -2092,7 +2092,7 @@ From simple improvements to deep cross-linking and pages which update, there's a
 | 01:18:21   | recording then it                                                                                  |
 | 01:18:23   | so you know I have Bunch                                                                           |
 | 01:18:25   | automatically open a whole bunch of things opens                                                   |
-| 01:18:27   | [[Google Chrome\|Chrome]] for the show notes because Google Docs                                                      |
+| 01:18:27   | [[Google Chrome\|Chrome]] for the show notes because [[Google Docs]]                                                      |
 | 01:18:29   | does tend to work best in [[Google Chrome\|Chrome]] and also                                                          |
 | 01:18:31   | [[Keyboard Maestro]] can really easily find                                                            |
 | 01:18:33   | the only [[Google Chrome\|Chrome]] window that exists whereas                                                         |

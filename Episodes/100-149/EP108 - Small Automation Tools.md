@@ -1411,38 +1411,38 @@ In this episode, Rose and David explain some of their favourite small automation
 | 58:41      | a small shout out to you, David, which is all of                    |
 | 58:43      | those great apps with an open in feature.                           |
 | 58:46      | So, you know, when you try and open, um, a link and                 |
-| 58:49      | it's like, Hey, you need to log into Twitter to view                |
+| 58:49      | it's like, Hey, you need to log into [[Twitter]] to view                |
 | 58:52      | the tweet, um, or whatever it is.                                   |
 | 58:55      | I hate that.                                                        |
 | 58:56      | Everybody hates that because are you looked into                    |
-| 58:58      | Twitter and [[Safari]]?                                                 |
+| 58:58      | [[Twitter]] and [[Safari]]?                                                 |
 | 58:59      | No, you have an app for that.                                       |
 | 59:01      | Well, uh, every app developer who, um, works, you                   |
-| 59:05      | know, creates a Twitter app, every app developer who                |
-| 59:07      | creates a Reddit app and I'm sure plenty of others                  |
+| 59:05      | know, creates a [[Twitter]] app, every app developer who                |
+| 59:07      | creates a [[Reddit]] app and I'm sure plenty of others                  |
 | 59:09      | out there have added these great open in features.                  |
 | 59:12      | So it, it's kind of bouncy in that you open the link                |
 | 59:16      | and it takes you to [[Safari]] and the [[Safari]] redirects                 |
 | 59:18      | you to whichever application it is that you have set                |
 | 59:21      | up, but it also works and it works really well.                     |
 | 59:24      | So I no longer have the horrible experience of a friend             |
-| 59:28      | has sent me a Twitter link.                                         |
+| 59:28      | has sent me a [[Twitter]] link.                                         |
 | 59:29      | Obviously I can tell because most of the tweet seems                |
 | 59:32      | to be missing that they quoted something, which is                  |
 | 59:35      | not in the preview.                                                 |
-| 59:36      | Thanks, Twitter.                                                    |
-| 59:37      | So I tap the Twitter link.                                          |
-| 59:38      | It opens Twitter and I see a login screen.                          |
+| 59:36      | Thanks, [[Twitter]].                                                    |
+| 59:37      | So I tap the [[Twitter]] link.                                          |
+| 59:38      | It opens [[Twitter]] and I see a login screen.                          |
 | 59:42      | I get instead, uh, it opens [[Safari]], which then sends                |
-| 59:45      | me over to Tweetbot and I then see the tweet properly               |
-| 59:48      | in Tweetbot full context with everything.                           |
+| 59:45      | me over to [[Tweetbot]] and I then see the tweet properly               |
+| 59:48      | in [[Tweetbot]] full context with everything.                           |
 | 59:51      | Um, and that is my, my preferred way of doing things.               |
 | 59:55      | So if you don't have those [[Safari]] extensions enabled,               |
 | 59:58      | you can do this on Mac OS and iOS, then, then just                  |
 | 01:00:01   | enable those so that you then, uh, get, you know,                   |
 | 01:00:04   | redirected to the, the app of your choice, um, which                |
-| 01:00:09   | means that, you know, if you do have, um, Twitter                   |
-| 01:00:12   | and Tweetbot installed or Twitter epic or whatever,                 |
+| 01:00:09   | means that, you know, if you do have, um, [[Twitter]]                   |
+| 01:00:12   | and [[Tweetbot]] installed or [[Twitter]] epic or whatever,                 |
 | 01:00:14   | then you can disable the other options and it will                  |
 | 01:00:17   | still open in your preferred app.                                   |
 | 01:00:18   | And I'm very much appreciate that this is a feature                 |

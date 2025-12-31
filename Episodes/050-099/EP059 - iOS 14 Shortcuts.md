@@ -1100,10 +1100,10 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 57:25      | But whenever these show notes are actually created, then it pings my push cut for me                     |
 | 57:31      | on all of my devices and goes, hey, the show notes for this show were created.                           |
 | 57:36      | Here's a link.                                                                                           |
-| 57:37      | So that I can just tap on it and it opens straight to Google Docs and I'm in and I can                   |
+| 57:37      | So that I can just tap on it and it opens straight to [[Google Docs]] and I'm in and I can                   |
 | 57:42      | go do it because, you know, if I'm creating stuff, I want to be able to just jump right                  |
 | 57:45      | into it and do it.                                                                                       |
-| 57:47      | A somewhat related note, IFTTT has a pro version now, where you can actually do multiple steps           |
+| 57:47      | A somewhat related note, [[IFTTT]] has a pro version now, where you can actually do multiple steps           |
 | 57:54      | and do all the things we've complained about that it couldn't do for so long.                            |
 | 57:58      | We are planning a future show roundup, Rose and I are both playing with it, that's coming.               |
 | 58:03      | And if you have not signed up for it yet, I believe before, at some point in October,                    |
@@ -1153,7 +1153,7 @@ In this episode, David and Rosemary dive into the iOS 14 update to Shortcuts and
 | 01:01:06   | Because I think that that is a sign, especially if they link that to like, hey, you've arrived           |
 | 01:01:11   | at this location.                                                                                        |
 | 01:01:12   | I see that you usually open this app at this location.                                                   |
-| 01:01:15   | I distinctly remember, I think it was on Twitter, somebody was saying that whenever they were            |
+| 01:01:15   | I distinctly remember, I think it was on [[Twitter]], somebody was saying that whenever they were            |
 | 01:01:20   | at a specific Starbucks, they always checked a specific draft in [[Drafts]] for the code to                  |
 | 01:01:25   | use the bathroom.                                                                                        |
 | 01:01:28   | They noticed it was starting to show up whenever they hit that particular Starbucks because              |

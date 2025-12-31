@@ -761,7 +761,7 @@ The holidays are here so let's Automate! Rose and David cover 12 days of automat
 | 38:13      | So of course, I've got some ideas on it.                                                                 |
 | 38:16      | But I wanted to put together a simple automation where anybody in the family could do it.                |
 | 38:22      | So what I did was I installed Scan Pro Plus.                                                             |
-| 38:25      | It used to be called Scan Bot, but now it's Scan Pro Plus, but they changed the name.                    |
+| 38:25      | It used to be called [[Scanbot]], but now it's Scan Pro Plus, but they changed the name.                    |
 | 38:31      | But it's a really good scanning app that can go on your phone.                                           |
 | 38:34      | And my wife and I are the only people to do it.                                                          |
 | 38:35      | The kids will never bother.                                                                              |

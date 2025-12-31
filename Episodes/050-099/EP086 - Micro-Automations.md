@@ -1328,7 +1328,7 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:14:55   | it opens a new one as well in [[Apple Notes]].                                                              |
 | 01:14:57   | But just the bottom line is [[Apple Notes]], to me, could get better at [[Apple Pencil]] input.                 |
 | 01:15:05   | And I really like their tool, their pencil tool, you know, where you can change the                     |
-| 01:15:08   | brush and the colour and everything, but just like things like dot grid or good notes has                |
+| 01:15:08   | brush and the colour and everything, but just like things like dot grid or [[GoodNotes]] has                |
 | 01:15:14   | this great feature where it has like a large section at the bottom that you write in and                |
 | 01:15:19   | then it puts the text and the, you know, the appropriate size into the document.                        |
 | 01:15:25   | And I really like that because I can write kind of big, but then it's more legible when                 |
@@ -1341,10 +1341,10 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:15:52   | doing it, I guess.                                                                                      |
 | 01:15:53   | Yeah, me too.                                                                                           |
 | 01:15:54   | And I'm a very much a visual thinker, so I do make diagrams and things when I'm taking                  |
-| 01:15:59   | notes and like you, I've kind of given up on [[Apple Notes]], so my go to is good notes.                    |
+| 01:15:59   | notes and like you, I've kind of given up on [[Apple Notes]], so my go to is [[GoodNotes]].                    |
 | 01:16:06   | And I've got it in my doc.                                                                              |
 | 01:16:08   | And if I need to use the pencil to get something in, I find that it takes a few extra seconds           |
-| 01:16:14   | to get into good notes, but the notes I take are so much better that it's worth a few extra             |
+| 01:16:14   | to get into [[GoodNotes]], but the notes I take are so much better that it's worth a few extra             |
 | 01:16:19   | seconds.                                                                                                |
 | 01:16:20   | Yes, exactly.                                                                                           |
 | 01:16:21   | And I love the idea of quick note that flies in from the bottom right where you drag it                 |
@@ -1364,8 +1364,8 @@ Micro-Automations! It's those tiny little automations that can make your life ea
 | 01:17:08   | Because the thing we haven't mentioned is that the quick note is contextual computing                   |
 | 01:17:15   | implemented because if you quick note from a web page, it creates a link to the page as                  |
 | 01:17:20   | you create the note.                                                                                    |
-| 01:17:21   | I mean, there's so much of it that's superior to me going to good notes or you going to                 |
-| 01:17:25   | notability.                                                                                             |
+| 01:17:21   | I mean, there's so much of it that's superior to me going to [[GoodNotes]] or you going to                 |
+| 01:17:25   | [[Notability]].                                                                                             |
 | 01:17:27   | I would really like to make it work, but I just find trying to take notes with a pencil                 |
 | 01:17:34   | in that little yellow box with no guidance whatsoever, it just doesn't work for me.                     |
 | 01:17:41   | Yeah, it's really good if you do need to see what's on the screen behind it, but frequently             |

@@ -1086,8 +1086,8 @@ Charty developer Rodrigo Araujo joins us to talk about using Charty with Shortcu
 | 01:02:41   | Thanks guys.                                                                                           |
 | 01:02:42   | Thanks for having me in the show.                                                                      |
 | 01:02:43   | It was great talking to you.                                                                           |
-| 01:02:44   | I met Rodrigo Raújo, like the episode name, at Twitter, and also at Charty iOS in Twitter.            |
-| 01:02:52   | And you can find more information about Charty in the Charty iOS.app website.                        |
+| 01:02:44   | I met Rodrigo Raújo, like the episode name, at [[Twitter]], and also at Charty iOS in [[Twitter]].            |
+| 01:02:52   | And you can find more information about [[Charty]] in the Charty iOS.app website.                        |
 | 01:02:56   | Yeah.                                                                                                  |
 | 01:02:57   | We've got links to all of those in the show notes as well for people.                                  |
 | 01:03:01   | Yeah, exactly.                                                                                         |

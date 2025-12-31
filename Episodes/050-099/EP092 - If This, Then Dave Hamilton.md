@@ -1516,16 +1516,16 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:07:36   | The only problem with that is sometimes I copy text that intentionally has spaces in                                                                                     |
 | 01:07:41   | it.                                                                                                                                                                      |
 | 01:07:42   | No, no, no.                                                                                                                                                              |
-| 01:07:43   | You would still do it the same way that you're doing things with the OmniFocus action.                                                                                   |
+| 01:07:43   | You would still do it the same way that you're doing things with the [[OmniFocus]] action.                                                                                   |
 | 01:07:45   | Right now, you just replace what you're currently doing with the backspacing to just remove                                                                              |
 | 01:07:50   | the white space.                                                                                                                                                         |
-| 01:07:51   | Because when OmniFocus fix that bug, I know, I'm sure Omni Group will, you're going to be                                                                                 |
+| 01:07:51   | Because when [[OmniFocus]] fix that bug, I know, I'm sure [[Omni Group]] will, you're going to be                                                                                 |
 | 01:07:56   | accidentally backspacing and removing a character from the end of the URL and that is going                                                                              |
 | 01:07:59   | to break stuff.                                                                                                                                                          |
 | 01:08:00   | That is bad.                                                                                                                                                             |
 | 01:08:01   | So I would recommend trim white space.                                                                                                                                   |
 | 01:08:04   | That's what it's usually called in programming languages.                                                                                                                |
-| 01:08:06   | So I was able to find it thanks to keep up my streaks, excellent wiki.                                                                                                   |
+| 01:08:06   | So I was able to find it thanks to keep up my [[Streaks]], excellent wiki.                                                                                                   |
 | 01:08:09   | That's awesome.                                                                                                                                                          |
 | 01:08:12   | This episode of The Automators is brought to you by Hover.                                                                                                               |
 | 01:08:16   | Go to hover.com/automators and make a name for yourself and get 10% off any domain                                                                                 |
@@ -1941,8 +1941,8 @@ David and Rosemary were joined by Dave Hamilton, the man with many automations -
 | 01:29:38   | to the middle and it's like, no, no, no, no, over there, please.                                                                                                         |
 | 01:29:42   | So Dave, where do people find you?                                                                                                                                       |
 | 01:29:44   | We're going to put links in the show for Mac Geek Gab and Mac Observer.                                                                                                    |
-| 01:29:48   | Who are you on Twitter?                                                                                                                                                  |
-| 01:29:49   | I'm Dave at Dave Hamilton on Twitter.                                                                                                                                    |
+| 01:29:48   | Who are you on [[Twitter]]?                                                                                                                                                  |
+| 01:29:49   | I'm Dave at Dave Hamilton on [[Twitter]].                                                                                                                                    |
 | 01:29:52   | I am at Hamilton.Dave on Facebook.                                                                                                                                       |
 | 01:29:54   | If anybody wants to find me there, of course, without the at sign, but at the slash and                                                                                  |
 | 01:29:57   | the things before it, you'll figure it out.                                                                                                                              |

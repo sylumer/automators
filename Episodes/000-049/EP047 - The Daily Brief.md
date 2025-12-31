@@ -702,8 +702,8 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 57:18      | extra three months free on a one year package. Visit ExpressVPN.com/automators now                 |
 | 57:25      | to learn more. Our thanks to ExpressVPN for their support of the automators and all of Relay FM.         |
 | 57:32      | All right, Rose, what else are you automating these days?                                                |
-| 57:35      | All right. So recently here at Automators, we switched from using Quip for our show notes to             |
-| 57:41      | using Google Docs. Now Quip was great because it supports Markdown and it does do multiple               |
+| 57:35      | All right. So recently here at Automators, we switched from using [[Quip]] for our show notes to             |
+| 57:41      | using [[Google Docs]]. Now [[Quip]] was great because it supports [[Markdown]] and it does do multiple               |
 | 57:49      | editors at the same time and so on. But you and I were running into some odd issues here and there.      |
 | 57:53      | We were inviting guests to view the show notes for their shows and they were having to sign up           |
 | 57:58      | and ask for permission to view things, which is not what we wanted at all. And we don't want             |
@@ -711,24 +711,24 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 58:08      | I was finding that I couldn't take notes as we were recording. So as we record, we create a list         |
 | 58:14      | of edit points just for any time we mess something up or so that we can make sure that our chapter       |
 | 58:19      | markers are in the right space. And this was driving me a little bit insane and you weren't              |
-| 58:23      | that happy with it either. So we decided we're switching from Quip to Google Docs, which means           |
-| 58:29      | that I had to change the automations in Zapier. Because Zapier for us automatically creates the          |
+| 58:23      | that happy with it either. So we decided we're switching from [[Quip]] to [[Google Docs]], which means           |
+| 58:29      | that I had to change the automations in [[Zapier]]. Because [[Zapier]] for us automatically creates the          |
 | 58:35      | show notes doc so that then, especially for guests, we have a predetermined outline that we              |
 | 58:42      | will use as a basis. And then we will go in and edit it. We try and get this to be a similar             |
 | 58:50      | format every time so that people can jump to the same places in the show, if that's what                 |
 | 58:54      | they're listening for the next time around. And so I had to change this. And this meant that I had       |
-| 59:01      | to do a few things. First of all, I had to swap the Quip action for a Google Docs action to create       |
-| 59:06      | a Google Doc. But the Google Docs action does not support Markdown. So I also had to go and add          |
-| 59:13      | an action before this. And to do that, I use the formatter option in Zapier. And this is really          |
+| 59:01      | to do a few things. First of all, I had to swap the [[Quip]] action for a [[Google Docs]] action to create       |
+| 59:06      | a [[Google Docs\|Google Doc]]. But the [[Google Docs]] action does not support [[Markdown]]. So I also had to go and add          |
+| 59:13      | an action before this. And to do that, I use the formatter option in [[Zapier]]. And this is really          |
 | 59:19      | great. I think it might be called format text, actually. But what you can do among a variety             |
-| 59:25      | of other things is you can convert Markdown to HTML. And the Google Docs action to create a new          |
-| 59:30      | Google Docs supports HTML. So our entire show notes are based on information that we have in             |
-| 59:36      | [[Airtable]]. And then this is extracted. And then there's a script inside of Zapier. I'm not going          |
+| 59:25      | of other things is you can convert [[Markdown]] to [[HTML]]. And the [[Google Docs]] action to create a new          |
+| 59:30      | [[Google Docs]] supports [[HTML]]. So our entire show notes are based on information that we have in             |
+| 59:36      | [[Airtable]]. And then this is extracted. And then there's a script inside of [[Zapier]]. I'm not going          |
 | 59:41      | to go into the details there, but essentially it checks whether or not we have a guest. And it           |
 | 59:45      | generates some different things based on that and the notes that are passed into this from [[Airtable]].     |
-| 59:51      | And then that is all in Markdown because that means that if David or I want to pop in and edit           |
+| 59:51      | And then that is all in [[Markdown]] because that means that if David or I want to pop in and edit           |
 | 59:57      | something, then we can do that very easily. And then this action, the format action converts             |
-| 01:00:05   | our Markdown HTML. And then the HTML is put into the Google Doc action, which creates the Google         |
+| 01:00:05   | our [[Markdown]] [[HTML]]. And then the [[HTML]] is put into the [[Google Docs\|Google Doc]] action, which creates the Google         |
 | 01:00:10   | Doc. And then, of course, we have another [[Airtable]] action to update our [[Airtable]] record with a link      |
 | 01:00:16   | to the show notes. Because this means that what I'm doing with my [[Stream Deck]] button, when I get         |
 | 01:00:22   | my [[Stream Deck]] back for the time being, it's just the [[Keyboard Maestro]] macro, is it opens the [[Airtable]]   |
@@ -742,18 +742,18 @@ In this episode, Rosemary and David dive into how they do a daily brief with Sho
 | 01:01:02   | I upload the audio to? And we want to make it easy for everybody so we don't have to fumble for          |
 | 01:01:07   | finding links and stuff like that. So yeah, it's been a little bit of work over time to do it,           |
 | 01:01:13   | but the payoff is so good. Because now we have all the information right here                            |
-| 01:01:18   | in Google Docs in front of me. And you and I are both editing today's show notes as we go                |
+| 01:01:18   | in [[Google Docs]] in front of me. And you and I are both editing today's show notes as we go                |
 | 01:01:22   | at the same time to make sure we've got all the links in at the bottom. And that's pretty awesome.       |
 | 01:01:27   | Yeah, it seems to be a little more consistent. And, you know, that's why we did it. But I've             |
-| 01:01:34   | always thought of Google Docs and the Google suite in general is fairly automation friendly in terms     |
-| 01:01:39   | of web-based automation. You know, like they have a lot more hooks in Zapier and if this,                |
+| 01:01:34   | always thought of [[Google Docs]] and the Google suite in general is fairly automation friendly in terms     |
+| 01:01:39   | of web-based automation. You know, like they have a lot more hooks in [[Zapier]] and if this,                |
 | 01:01:44   | then that and these other web-based automation services, because just the nature of the beast,           |
-| 01:01:49   | I never realised the problem with Markdown. Yeah, I mean, it's not really a problem with Markdown.       |
-| 01:01:55   | I just, I'm not sure if it's maybe on the Zapier side of the action, or maybe if it's on the Google      |
-| 01:02:00   | Docs side, that it doesn't support Markdown. But at the same time, I'm already paying for Zapier         |
+| 01:01:49   | I never realised the problem with [[Markdown]]. Yeah, I mean, it's not really a problem with Markdown.       |
+| 01:01:55   | I just, I'm not sure if it's maybe on the [[Zapier]] side of the action, or maybe if it's on the Google      |
+| 01:02:00   | Docs side, that it doesn't support [[Markdown]]. But at the same time, I'm already paying for Zapier         |
 | 01:02:07   | so that I can add lots and lots of actions to one Zap. So I can do many, many things,                    |
 | 01:02:12   | which is very useful. And then, you know, so I just added this format direction, you know,               |
-| 01:02:17   | it's free for me. Zapier has a little bit more work on their servers, but I'm sure they don't            |
+| 01:02:17   | it's free for me. [[Zapier]] has a little bit more work on their servers, but I'm sure they don't            |
 | 01:02:22   | mind converting a couple of hundred words from Markdown to HTML. And then that means, you know,          |
 | 01:02:28   | we end up with everything in the Google Doc ready to go nicely formatted for us.                         |
 | 01:02:33   | Nice. Nice. So I have been doing some simple automation lately. [[Drafts]] has been, I don't know,           |

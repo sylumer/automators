@@ -1057,7 +1057,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:26:32   | I'm going to replace these placeholders in the template with this data and bam,                          |
 | 01:26:37   | here is a new show document for you. That's one thing I've been tweaking recently because                |
 | 01:26:43   | we had an automators document for a long time which had all the data in but it wasn't very pretty.       |
-| 01:26:48   | So I got you to work your magic because I've seen your Mac Power users outline                           |
+| 01:26:48   | So I got you to work your magic because I've seen your [[Mac Power Users]] outline                           |
 | 01:26:53   | to make it a lot prettier. It's very useful that both of us can go in and edit all of this data          |
 | 01:27:02   | in air table and then it just bam magically appears in the Google Doc in a nice formatted view           |
 | 01:27:08   | that we can easily share with our guests. Yeah, it's impressive. And organising Google Doc creation      |
@@ -1071,16 +1071,16 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:27:58   | air table, which puts the data in the right place really, really easily. And there's static              |
 | 01:28:08   | information in there that stays the same from show to show. So that just lives in there and it means     |
 | 01:28:13   | that if you want to go in and make an edit to the template, you can do it. And the next template         |
-| 01:28:17   | that gets created will be correct rather than having a text file which is converted to HTML,             |
-| 01:28:23   | which is shoved into Google Docs, which was the kind of hack that I was using before,                    |
+| 01:28:17   | that gets created will be correct rather than having a text file which is converted to [[HTML]],             |
+| 01:28:23   | which is shoved into [[Google Docs]], which was the kind of hack that I was using before,                    |
 | 01:28:27   | which was okay, but it didn't result in very pretty documents.                                           |
 | 01:28:30   | Yeah, I've been playing with the same thing for Mac power users and auto-generating the template and     |
 | 01:28:34   | this is not rocket science if you want to do it. I guess that kind of gives me a bigger question is      |
 | 01:28:40   | what else are you doing with like [[Make\|Make/Integromat]] and [[Zapier]] and some of the other              |
 | 01:28:46   | web tools? What's your involvement with those at this point?                                             |
 | 01:28:51   | I mean, there's a whole bunch of things happening that I just don't even think about anymore,            |
-| 01:28:57   | because, well, magic just happens and projects appear in OmniFocus or documents appear in                |
-| 01:29:05   | Finder or DEVONthink or wherever they need to be and I'm not thinking about it, which is really          |
+| 01:28:57   | because, well, magic just happens and projects appear in [[OmniFocus]] or documents appear in                |
+| 01:29:05   | Finder or [[DEVONthink]] or wherever they need to be and I'm not thinking about it, which is really          |
 | 01:29:10   | the magic. So I'm just opening [[Make]] right now to just double check because I know I've got a lot         |
 | 01:29:15   | of different things in here, which help me keep track of things. One I've recently done is [[Amazon]]        |
 | 01:29:23   | Returns. If I return something to [[Amazon]], this doesn't happen very often. I try to be smart              |
@@ -1123,7 +1123,7 @@ In this episode, David asks all the questions and we get into the nitty gritty d
 | 01:33:11   | more frequently. So it's less of a chore or pay somebody else to do my laundry, which they're            |
 | 01:33:15   | both valid options. I just need to figure out how much more frequently do I need to do laundry to        |
 | 01:33:21   | make this less of a problem. All right. Before we go, we've gone along today. But before we go,          |
-| 01:33:26   | let's just take a few minutes to check in on initial impressions of the [[[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].               |
+| 01:33:26   | let's just take a few minutes to check in on initial impressions of the [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]].               |
 | 01:33:30   | Like I've just got mine. I just got it installed and set up. I'll tell you a couple of things I          |
 | 01:33:37   | like about it. I like that it's cabled, which sounds weird, but I had been trying a [[Bluetooth]]            |
 | 01:33:43   | pedal system and it was constantly turning off or not paired and it just wouldn't stay there. So         |

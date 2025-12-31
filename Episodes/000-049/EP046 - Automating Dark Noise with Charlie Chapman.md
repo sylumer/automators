@@ -329,29 +329,29 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 17:27      | And while the hooks aren't necessarily great, it still was nice to be able to have it prompt              |
 | 17:34      | me to ask what's the title, what's the link to it, and what number episode is it.                         |
 | 17:41      | And then it would at least copy and paste and put into the paste board and then open                      |
-| 17:45      | up Reddit or open up Twitter and sort of get me moving through all the different social                   |
+| 17:45      | up Reddit or open up [[Twitter]] and sort of get me moving through all the different social                   |
 | 17:49      | platforms I needed to post to.                                                                            |
 | 17:51      | That's one of those things where people may think, oh yeah, well, I could probably just                   |
-| 17:55      | use something like Hootsuite or Buffer for this.                                                          |
+| 17:55      | use something like [[Hootsuite]] or [[Buffer]] for this.                                                          |
 | 17:57      | But if you want to integrate with more than a couple of platforms, that starts costing                    |
 | 18:00      | a lot of money very quickly.                                                                              |
-| 18:02      | And it can be a lot easier to just use something like Shortcuts, which, okay, me still take               |
+| 18:02      | And it can be a lot easier to just use something like [[Shortcuts]], which, okay, me still take               |
 | 18:06      | a few taps every time.                                                                                    |
 | 18:08      | But if it gets you most of the way there and in your little short on cash, then it's worth                |
 | 18:13      | spending the time to, instead of the cash, I would say, especially if something like                      |
 | 18:17      | that were, you know, it's nice to double check these things before they got the door instead              |
 | 18:21      | of 100% automating them.                                                                                  |
-| 18:23      | Now, Charlie, were you ever a workflow user or did you find shortcuts after [[Apple]] acquired                |
+| 18:23      | Now, Charlie, were you ever a [[Workflow]] user or did you find [[Shortcuts]] after [[Apple]] acquired                |
 | 18:27      | workflow?                                                                                                 |
-| 18:29      | So as a [[Cortex]] listener, I had been taught the praises of workflow for a long time, but                   |
+| 18:29      | So as a [[Cortex]] listener, I had been taught the praises of [[Workflow]] for a long time, but                   |
 | 18:36      | I had never bitten the bullet and actually jumped into it until right after [[Apple]] bought                  |
 | 18:40      | them and then they made it free.                                                                          |
 | 18:41      | And I was like, Oh, maybe I'll dip my toes in the water.                                                  |
 | 18:43      | And that was when I started playing around with like, how can I automate or closely get                   |
 | 18:49      | close to automating posting to all these different things.                                                |
-| 18:53      | So I was late to the game on workflow, but I did play around with it before shortcuts.                    |
+| 18:53      | So I was late to the game on [[Workflow]], but I did play around with it before [[Shortcuts]].                    |
 | 18:57      | I've heard from some app developer friends who get a little frustrated by apps like                       |
-| 19:02      | workflow or then shortcuts, because they're used to kind of a real true programming model                 |
+| 19:02      | [[Workflow]] or then [[Shortcuts]], because they're used to kind of a real true programming model                 |
 | 19:06      | where this is more kind of generated for anybody can program.                                             |
 | 19:11      | Did you find any resistance with that kind of those kind of issues?                                       |
 | 19:14      | I mean, I think there's definitely an element of that where I can sort of in my mind write                |
@@ -465,7 +465,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 24:25      | Yeah.                                                                                                     |
 | 24:26      | I mean, it has to because if you go to delete one somewhere in their code, they have to                   |
 | 24:28      | be saying which one they're deleting.                                                                     |
-| 24:30      | And I also do have, I have a couple in here too that are Google docs.                                     |
+| 24:30      | And I also do have, I have a couple in here too that are [[Google Docs]].                                     |
 | 24:35      | And so that's just, you know, the URL as text and then open up that in [[Safari]].                            |
 | 24:39      | Yeah.                                                                                                     |
 | 24:40      | That's, I didn't, I guess that's really the only way to do that, but that's a cool shortcut.              |
@@ -576,7 +576,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 30:51      | Yeah, they've either reduced their shortcut support if they ever had it, or they've broken                |
 | 30:58      | the APIs that people were previously using, which is a real shame because social media                    |
 | 31:03      | is the perfect thing to automate for something like that.                                                 |
-| 31:05      | We're very fortunate that we can still post the automators stuff to Twitter automatically.                |
+| 31:05      | We're very fortunate that we can still post the [[Automators]] stuff to [[Twitter]] automatically.                |
 | 31:09      | I'm waiting for that to break at some point though.                                                       |
 | 31:12      | Yeah, I feel like they're the ones that are the most likely to keep support.                              |
 | 31:16      | Yes, yeah.                                                                                                |
@@ -584,16 +584,16 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 31:22      | working in general, just as a concept?                                                                    |
 | 31:25      | So what I would do is I would ask for text for the title of the episode, and then it                      |
 | 31:34      | would ask for text for the URL of the episode, and then it would first, so whenever I built               |
-| 31:44      | this to age it, I guess, was when Mastodon was definitely going to become very popular.                   |
-| 31:49      | So it would first open up a [[Safari]] web view with the Mastodon posting page, which you                     |
+| 31:44      | this to age it, I guess, was when [[Mastodon]] was definitely going to become very popular.                   |
+| 31:49      | So it would first open up a [[Safari]] web view with the [[Mastodon]] posting page, which you                     |
 | 32:00      | could automate through query string parameters to automatically fill in what the actual post              |
 | 32:08      | would be.                                                                                                 |
 | 32:09      | And so it would just have the title of the episode, oh, it would also ask for the description.            |
 | 32:14      | So it would ask for three things whenever you launched it.                                                |
 | 32:17      | So it would put the title of the episode, carriage return, the description, carriage                      |
 | 32:21      | return, and then the URL to that episode.                                                                 |
-| 32:24      | And then it would do the same thing for Twitter, and then it would do the same thing for Reddit.          |
-| 32:31      | And Reddit was kind of the same deal where the Reddit app doesn't support anything, but                   |
+| 32:24      | And then it would do the same thing for [[Twitter]], and then it would do the same thing for Reddit.          |
+| 32:31      | And Reddit was kind of the same deal where the [[Reddit]] app doesn't support anything, but                   |
 | 32:35      | you could use query string parameters to fill out certain parts of the form.                              |
 | 32:39      | And so there I would only use the title and the URL.                                                      |
 | 32:44      | So for people not familiar, what is a query string parameter?                                             |
@@ -654,7 +654,7 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 36:03      | I have a shortcut that I use when I'm posting over at the suite setup where most of the                   |
 | 36:09      | images.                                                                                                   |
 | 36:10      | So if you take a screenshot of an iPhone, it's really tall and skinny.                                    |
-| 36:12      | If you throw that in WordPress, then that image becomes the width of your text in WordPress.              |
+| 36:12      | If you throw that in [[WordPress]], then that image becomes the width of your text in [[WordPress]].              |
 | 36:18      | So you're there reading and there's like giant iPhone screen fully by more text and it looks              |
 | 36:23      | a little bit silly.                                                                                       |
 | 36:24      | So to get around this, you can overlay the iPhone on a transparent background.                            |
@@ -1161,15 +1161,15 @@ title: "46: Automating [[Dark Noise]] with Charlie Chapman"
 | 01:05:35   | Oh, man.                                                                                                  |
 | 01:05:36   | When the show goes up, it'll have your picture up there.                                                  |
 | 01:05:39   | Where can folks find you, Charlie?                                                                        |
-| 01:05:40   | Like Twitter?                                                                                             |
+| 01:05:40   | Like [[Twitter]]?                                                                                             |
 | 01:05:41   | I know you've got a website for your app.                                                                 |
 | 01:05:44   | What is it?                                                                                               |
 | 01:05:45   | I think darknoise.app.                                                                                    |
 | 01:05:46   | Yeah, darknoise.app is my website.                                                                        |
 | 01:05:49   | It's a pretty standard website.                                                                           |
-| 01:05:51   | I'd say Twitter underscore Chuck E.C. is my Twitter and then they can go to at darknoise.app              |
+| 01:05:51   | I'd say [[Twitter]] underscore Chuck E.C. is my [[Twitter]] and then they can go to @darknoise.app              |
 | 01:05:58   | for the app itself.                                                                                       |
-| 01:05:59   | Twitter is definitely my first source of information or first place I put information and then everything |
+| 01:05:59   | [[Twitter]] is definitely my first source of information or first place I put information and then everything |
 | 01:06:05   | else follows from there.                                                                                  |
 | 01:06:07   | You mentioned your podcast.                                                                               |
 | 01:06:08   | Tell us about that.                                                                                       |

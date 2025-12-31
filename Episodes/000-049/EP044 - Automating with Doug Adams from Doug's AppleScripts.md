@@ -577,7 +577,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 28:29      | The, um, absolutely writing it by hand.                                                              |
 | 28:31      | I mean, it's, it's a badge of honour to me to write stuff by hand.                                    |
 | 28:38      | I don't like templates.                                                                              |
-| 28:39      | My, my website, I do it by hand with the, with the exception of the WordPress blog                   |
+| 28:39      | My, my website, I do it by hand with the, with the exception of the [[WordPress]] blog                   |
 | 28:44      | portion, everything else I've written in hand coded in PHP and in [[BBEdit]] and the database           |
 | 28:51      | management stuff.                                                                                    |
 | 28:52      | I've all, I do it by hand.                                                                           |
@@ -1321,7 +1321,7 @@ Doug Adams from Doug's AppleScripts joins us to explain how he got started with 
 | 01:09:06   | We're going to have those in the show notes.                                                         |
 | 01:09:08   | Anywhere else people should look for you, Doug?                                                      |
 | 01:09:10   | Don't bother.                                                                                        |
-| 01:09:11   | I'm on Twitter @dougscripts, and that's about it.                                                   |
+| 01:09:11   | I'm on [[Twitter]] @dougscripts, and that's about it.                                                   |
 | 01:09:15   | Yeah, I was on Facebook, but I burned that bridge.                                                   |
 | 01:09:17   | Yeah, me too.                                                                                        |
 | 01:09:18   | Me too.                                                                                              |

@@ -161,7 +161,7 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 06:35      | comes in, and then another big use for me with [[Airtable]], in fact, really the biggest                      |
 | 06:41      | use for me with [[Airtable]] is the field guides that I make.                                                 |
 | 06:46      | We try to bunch of different tools to track status of how things are going.                               |
-| 06:51      | We had Google Docs, we had shared [[Apple]] documents, and we tried all these different systems.              |
+| 06:51      | We had [[Google Docs]], we had shared Apple documents, and we tried all these different systems.              |
 | 06:57      | The one, though, that immediately stuck for us was [[Airtable]].                                              |
 | 07:02      | For each new field guide, we have this [[Airtable]], and I can see who's working on it, like if               |
 | 07:07      | there's editing being done by someone else.                                                               |
@@ -1010,11 +1010,11 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:02:36   | Well, we're trying to keep up with questions and answers.                                                 |
 | 01:02:40   | There's always a lot coming in.                                                                           |
 | 01:02:43   | We got a couple.                                                                                          |
-| 01:02:44   | One was on mastodon.                                                                                      |
+| 01:02:44   | One was on [[Mastodon]].                                                                                      |
 | 01:02:45   | Yeah.                                                                                                     |
 | 01:02:46   | Yeah.                                                                                                     |
-| 01:02:47   | So I had some feedback sent to me on mastodon, which was lovely as just saying that after                 |
-| 01:02:53   | our recent Q&A episode or automators feedback show, that the segment where we talked about                |
+| 01:02:47   | So I had some feedback sent to me on [[Mastodon]], which was lovely as just saying that after                 |
+| 01:02:53   | our recent Q&A episode or Automators feedback show, that the segment where we talked about                |
 | 01:03:02   | our project list and specifically my automations from my day at the office, it really spoke               |
 | 01:03:07   | to Josh.                                                                                                  |
 | 01:03:08   | And so he's created his own little shortcut to schedule events in a calendar and create                   |
@@ -1146,9 +1146,9 @@ Some of the Automators' favourite apps are upping their automation game with upd
 | 01:11:26   | means you can have multiple locations, multiple apps, multiple time sets, all sorts of things.            |
 | 01:11:33   | So really, I would just go in and look at the focus filters and see if you used Evan                      |
 | 01:11:38   | Think, then you can filter your databases.                                                                |
-| 01:11:41   | If you use Good Links, you can filter your tags, if you use One Password, you can choose                  |
-| 01:11:45   | the account or collection that you want to use, Agenda, Messages, [[Safari]], Streaks, all                    |
-| 01:11:51   | of these apps, even Tasked has got support for this and [[Safari]].                                           |
+| 01:11:41   | If you use [[Good Links]], you can filter your tags, if you use [[1Password]], you can choose                  |
+| 01:11:45   | the account or collection that you want to use, [[Agenda]], [[Messages]], [[Safari]], [[Streaks]], all                    |
+| 01:11:51   | of these apps, even [[Taskheat]] has got support for this and [[Safari]].                                           |
 | 01:11:55   | And then you've also got things like you're always on display, the appearance and low                     |
 | 01:11:59   | power mode.                                                                                               |
 | 01:12:00   | So you can turn on and off the always on display, set your appearance to light mode or dark               |

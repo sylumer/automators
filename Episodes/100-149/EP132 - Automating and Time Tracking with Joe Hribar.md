@@ -826,7 +826,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:05:08   | setting some actions before I go to bed and stuff like that.                                         |
 | 01:05:13   | One of them, but some of, I guess, maybe a slightly little more complex one,                         |
 | 01:05:21   | not super complex. But anytime I share framed screenshots of stuff I'm working on,                   |
-| 01:05:26   | like on Mastodon and whatnot, I like to put a colour background behind them that sort of              |
+| 01:05:26   | like on [[Mastodon]] and whatnot, I like to put a colour background behind them that sort of              |
 | 01:05:33   | matches what the content of the image is. So I built a shortcut that does that. It adds a            |
 | 01:05:44   | overlays the frame screenshot over some solid colour background. And I can either pick                |
 | 01:05:52   | from some preset colours or I can use, using [[Toolbox Pro]]. Thank you, [[Alex Hay\|Alex]], for that to get the image  |
@@ -878,7 +878,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:10:36   | strange issue at some point and I was doing a very convoluted workflow to make it happen and         |
 | 01:10:40   | going, do I actually message you about this or do I just hope that no other user goes through        |
 | 01:10:45   | such a strange series of steps that I did? And why was I doing that anyway?                          |
-| 01:10:49   | Well, we have links in the show notes, but you can find Joe's Timery application at Timeryapp.com.   |
+| 01:10:49   | Well, we have links in the show notes, but you can find Joe's [[Timery]] application at Timeryapp.com.   |
 | 01:10:59   | You go there, you can get links to all the various places. We didn't give enough time                |
 | 01:11:03   | today talking about the Mac implementation, which also was very well done, Joe, and hats off to you  |
 | 01:11:09   | on that. I mean, this isn't just a simple port. This is an application that thinks about being       |
@@ -886,7 +886,7 @@ Timery developer Joe Hribar joins the Automators to talk about what's involved w
 | 01:11:23   | in all the right Mac ways. We mentioned the Watch app. If you're doing timers,                       |
 | 01:11:27   | having them on your wrist is a great place to do them, but it's all at Timeryapp.com.                |
 | 01:11:33   | Anywhere else people should go to get in contact with you, Joe?                                      |
-| 01:11:36   | I'm on Mastodon. I'm at Joe Hribar at Mastodon.social. And Hribar is spelled H-R-I-B-A-R, so.          |
+| 01:11:36   | I'm on [[Mastodon]]. I'm at Joe Hribar at Mastodon.social. And Hribar is spelled H-R-I-B-A-R, so.          |
 | 01:11:47   | Yes, sorry, I should have spelled that, yes. No worries. That'll catch it.                           |
 | 01:11:50   | We will also have links in the show notes. If you click on Joe, once you are on the podcast page,    |
 | 01:11:56   | then you'll get a little profile with all the links to his stuff. So fingers crossed,                |

@@ -1588,9 +1588,9 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:08:29   | because you've got another app                                    |
 | 01:08:31   | that's not an automation focused app,                             |
 | 01:08:33   | but an app that benefits from automation integration.             |
-| 01:08:36   | And that's MarsEdit.                                              |
-| 01:08:37   | MarsEdit is an excellent blogging tool.                           |
-| 01:08:40   | In fact, I recently switched to WordPress                         |
+| 01:08:36   | And that's [[MarsEdit]].                                              |
+| 01:08:37   | [[MarsEdit]] is an excellent blogging tool.                           |
+| 01:08:40   | In fact, I recently switched to [[WordPress]]                         |
 | 01:08:43   | and hooray, I'm able to use MarsEdit again.                       |
 | 01:08:46   | And it's so nice having like a native app on my Mac.              |
 | 01:08:48   | I can write on and not worry about, you know,                     |
@@ -1599,8 +1599,8 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:08:57   | because you come to this with a kind of an automator's mindset,   |
 | 01:09:01   | you have brought automation to MarsEdit.                          |
 | 01:09:03   | Can you kind of share for the audience                            |
-| 01:09:04   | some of the stuff you're doing in MarsEdit?                       |
-| 01:09:07   | Yeah, well, so MarsEdit automation                                |
+| 01:09:04   | some of the stuff you're doing in [[MarsEdit]]?                       |
+| 01:09:07   | Yeah, well, so [[MarsEdit]] automation                                |
 | 01:09:11   | is largely oriented around,                                       |
 | 01:09:13   | you know, editing the contents of a particular post               |
 | 01:09:18   | or putting together a post.                                       |
@@ -1624,10 +1624,10 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:10:15   | And that just automatically generates a new blog post             |
 | 01:10:19   | document that I can then send to the blog.                        |
 | 01:10:23   | That's one thing, you know, some people, I will say,              |
-| 01:10:26   | some people look at MarsEdit and they think,                      |
+| 01:10:26   | some people look at [[MarsEdit]] and they think,                      |
 | 01:10:28   | great, this thing's automatable.                                  |
 | 01:10:30   | I'm gonna use it to migrate my whole blog                         |
-| 01:10:33   | from like, let's say blogger to WordPress.                        |
+| 01:10:33   | from like, let's say blogger to [[WordPress]].                        |
 | 01:10:35   | And I usually discourage that.                                    |
 | 01:10:38   | And in fact, I don't have great support for that,                 |
 | 01:10:42   | in part because MarsEdit is limited                               |
@@ -1652,7 +1652,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:11:51   | And for example, I recently added support                         |
 | 01:11:54   | for setting the contents of, one of the things                    |
 | 01:11:57   | you can do in MarsEdit is you can configure                       |
-| 01:11:59   | your custom fields if you have those in WordPress.                |
+| 01:11:59   | your custom fields if you have those in [[WordPress]].                |
 | 01:12:02   | And so one expansion to the automation I recently added           |
 | 01:12:06   | lets you set the values of the custom fields,                     |
 | 01:12:08   | which was great because I do all my sponsorships                  |
@@ -1662,7 +1662,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:12:22   | okay, put the, you know, so happens, text expand                  |
 | 01:12:26   | or sometimes sponsors my podcast.                                 |
 | 01:12:28   | So coincidence there, but, you know,                              |
-| 01:12:30   | I can run a script that says put the TextExpander details        |
+| 01:12:30   | I can run a script that says put the [[TextExpander]] details        |
 | 01:12:34   | into this blog post.                                              |
 | 01:12:36   | Yeah.                                                             |
 | 01:12:37   | Things like that are great.                                       |
@@ -1709,7 +1709,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:14:29   | Yes, I can imagine that would be really useful.                   |
 | 01:14:33   | I look forward to potentially a future                            |
 | 01:14:35   | where you're crazy enough to start supporting                     |
-| 01:14:38   | text-based CMS, I use Jackal.                                     |
+| 01:14:38   | text-based [[Content Management System\|CMS]], I use [[Jekyll]].                                     |
 | 01:14:42   | The number of custom fields possible with that is just,           |
 | 01:14:45   | well, I mean, it's literally limitless                            |
 | 01:14:47   | because it's a text file, you can put anything in there.          |
@@ -1720,12 +1720,12 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:00   | but I also don't think you need to feel hopeless about it.        |
 | 01:15:03   | It's definitely on my list.                                       |
 | 01:15:05   | It's funny because years and years and years ago,                 |
-| 01:15:08   | Mars Edit did support a text-based system called Blossom.         |
+| 01:15:08   | [[MarsEdit]] did support a text-based system called Blossom.         |
 | 01:15:12   | You might remember that.                                          |
 | 01:15:14   | But it basically ran up against,                                  |
 | 01:15:18   | I had other priorities,                                           |
-| 01:15:19   | I needed to support things for Blogger and WordPress              |
-| 01:15:22   | and Tumblr and all these other services.                          |
+| 01:15:19   | I needed to support things for [[Blogger]] and [[WordPress]]              |
+| 01:15:22   | and [[Tumblr]] and all these other services.                          |
 | 01:15:24   | And I fell by the wayside.                                        |
 | 01:15:26   | And it's been on my mind,                                         |
 | 01:15:28   | I wanna get back to it at some point                              |
@@ -1741,7 +1741,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:15:52   | is [[Rogue Amoeba]] recently added shortcut support                   |
 | 01:15:55   | and a new scripting support with custom [[JavaScript]],               |
 | 01:15:59   | I believe it was for [[Audio Hijack]].                                |
-| 01:16:02   | Obviously, Omni Group have got custom [[JavaScript]],                 |
+| 01:16:02   | Obviously, [[Omni Group]] have got custom [[JavaScript]],                 |
 | 01:16:05   | [[Drafts]] has got custom [[JavaScript]].                                 |
 | 01:16:07   | If you get nerdy, you can write [[Obsidian]] plugins.                 |
 | 01:16:09   | Do you think maybe there's a future                               |
@@ -2277,18 +2277,18 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:39:48   | which is, you know, where all these great apps are.               |
 | 01:39:50   | Anywhere else people should look for you, Daniel.                 |
 | 01:39:53   | Oh, well, if you just wanna get like my less professional         |
-| 01:39:56   | side, you can find me on Twitter, Daniel Punkass.                 |
+| 01:39:56   | side, you can find me on [[Twitter]], Daniel Punkass.                 |
 | 01:40:00   | That's kind of the breadth of most of my stuff                    |
 | 01:40:03   | is either Red Sweater or kind of being a smart alec               |
-| 01:40:07   | on Twitter, so.                                                   |
-| 01:40:09   | Simultaneously the best and worst Twitter handle                  |
+| 01:40:07   | on [[Twitter]], so.                                                   |
+| 01:40:09   | Simultaneously the best and worst [[Twitter]] handle                  |
 | 01:40:13   | of any of my friends, I'll have to say.                           |
 | 01:40:15   | It really, it's funny, I will say really quickly                  |
 | 01:40:20   | I had a cause this past weekend for several local news stations   |
 | 01:40:25   | to get in touch with me about an accident                         |
 | 01:40:27   | that I witnessed on a highway around here.                        |
 | 01:40:30   | And to have to explain to all of them                             |
-| 01:40:32   | what my Twitter handle is, to spell it out for them,              |
+| 01:40:32   | what my [[Twitter]] handle is, to spell it out for them,              |
 | 01:40:35   | it's always kind of fun.                                          |
 | 01:40:38   | Well, thank you so much for all the hard work you've done         |
 | 01:40:41   | for our community of Automators and [[FastScripts]]                  |
@@ -2307,7 +2307,7 @@ In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the 
 | 01:41:18   | as the developer of a blog editor, but my main                    |
 | 01:41:22   | technology blog is bitsplitting.org.                              |
 | 01:41:26   | It's kind of like my home base really on the web, I guess.        |
-| 01:41:31   | So between that, Twitter and my company website,                  |
+| 01:41:31   | So between that, [[Twitter]] and my company website,                  |
 | 01:41:33   | redsweater.com, you'll find plenty                                |
 | 01:41:36   | to hopefully state your curiosity.                                |
 | 01:41:39   | There you go.                                                     |

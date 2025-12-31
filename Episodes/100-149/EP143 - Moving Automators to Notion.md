@@ -144,7 +144,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 05:21      | But it is useful and especially in the context of collaboration.                                     |
 | 05:27      | But maybe before we get into what we're doing with [[Notion]], we should talk about where we             |
 | 05:30      | were and why we're leaving.                                                                          |
-| 05:33      | Yeah, yeah, because to be clear, it's not that we hate [[Airtable]] and Google Docs now.                 |
+| 05:33      | Yeah, yeah, because to be clear, it's not that we hate [[Airtable]] and [[Google Docs]] now.                 |
 | 05:38      | That is not the case.                                                                                |
 | 05:40      | We have just decided though we're going to simplify things and use this as an opportunity            |
 | 05:45      | to review the workflows and processes involved and see if we can simplify stuff.                     |
@@ -162,7 +162,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 06:50      | Huh, that's easier.                                                                                  |
 | 06:52      | Let's give that a try.                                                                               |
 | 06:53      | And so where we started was, well, way back in the day, we were using this service called            |
-| 06:59      | Quip, Q-U-I-P, which is a sort of alternative to Google Docs for simultaneous like, you know,        |
+| 06:59      | [[Quip]], Q-U-I-P, which is a sort of alternative to [[Google Docs]] for simultaneous like, you know,        |
 | 07:08      | show note writing and so on, so that we could both be in the document at the same time because       |
 | 07:11      | that is something that is absolutely critical for us and part of our process, where both             |
 | 07:16      | of us have to be able to be in the notes at the same time and making changes and adding              |
@@ -170,22 +170,22 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 07:23      | So we can check things off that we've talked about already and add things if something comes         |
 | 07:27      | up that we want to talk about as, you know, as we're recording.                                      |
 | 07:31      | And so that was a hard requirement.                                                                  |
-| 07:33      | We started out with Quip.                                                                            |
-| 07:34      | Quip was okay.                                                                                       |
+| 07:33      | We started out with [[Quip]].                                                                            |
+| 07:34      | [[Quip]] was okay.                                                                                       |
 | 07:35      | It was a good idea to experiment with it and even had automation options, but it was not             |
 | 07:40      | the best solution.                                                                                   |
 | 07:41      | So we then moved from just kind of, we're just going to have like a standard shared                  |
-| 07:47      | Mac OS iOS calendar to and Quip to we're going to use Google Docs and [[Airtable]].                      |
+| 07:47      | Mac OS iOS calendar to and Quip to we're going to use [[Google Docs]] and [[Airtable]].                      |
 | 07:55      | And so we had a really lovely database set up in [[Airtable]] so we'd have, you know, all                |
 | 08:00      | the future shows that we were planning, you know, we had a list of guests with who was               |
 | 08:04      | like the main contact person for the guests and so on and so forth in there.                         |
 | 08:08      | So we could plan everything.                                                                         |
-| 08:10      | And then I set up some Zapier and make a formerly known as [[Make\|Integromat]] automations that when,         |
+| 08:10      | And then I set up some [[Zapier]] and make a formerly known as [[Make\|Integromat]] automations that when,         |
 | 08:18      | for example, when we'd set up a show in [[Airtable]], it would go and create a new Google Doc for        |
 | 08:23      | us and put it in the right place and, you know, replace bits of text in it and so on                 |
 | 08:27      | and so forth.                                                                                        |
 | 08:29      | And this was all working pretty well.                                                                |
-| 08:30      | Google Docs is pretty much bulletproof when it comes to multiple people editing at the               |
+| 08:30      | [[Google Docs]] is pretty much bulletproof when it comes to multiple people editing at the               |
 | 08:33      | same time and so on.                                                                                 |
 | 08:35      | But the problem is really like understanding that we needed like these four fields filled            |
 | 08:40      | out in [[Airtable]] to, you know, produce the Google Doc and so on.                                      |
@@ -219,8 +219,8 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 10:36      | and write in there.                                                                                  |
 | 10:37      | Okay, we'll move this to the next show or whatever during recording makes the recording              |
 | 10:42      | really smooth and, you know, just gives us a way to, to make a better show.                          |
-| 10:48      | And when all this started, the only tool to do it was Google Docs.                                   |
-| 10:51      | And one of the reasons why we've reconsidered automation is Google no longer is the only             |
+| 10:48      | And when all this started, the only tool to do it was [[Google Docs]].                                   |
+| 10:51      | And one of the reasons why we've reconsidered automation is [[Google]] no longer is the only             |
 | 10:56      | game in town.                                                                                        |
 | 10:57      | There's a lot of companies making contemporaneous editable text documents.                           |
 | 11:05      | And you know, even [[Apple Notes]], honestly, is pretty good at this point for that kind                 |
@@ -233,7 +233,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 11:25      | So we absolutely can see our edits and what the other person is doing.                               |
 | 11:29      | And so that fundamental requirement is satisfied, but there's a lot of tools that could do that      |
 | 11:35      | now.                                                                                                 |
-| 11:36      | You know, Google was the first, but they're no longer the only and they're all reliable              |
+| 11:36      | You know, [[Google]] was the first, but they're no longer the only and they're all reliable              |
 | 11:41      | and good enough.                                                                                     |
 | 11:43      | So then we got thinking, well, what could we do more if we had it all in one place?                  |
 | 11:47      | And we are still experimenting with it to be honest with you.                                        |
@@ -266,7 +266,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 13:27      | we needed some other information like, you know, who's going to record which ad and what             |
 | 13:34      | topics are we going to talk about and so on and so forth so that we can put all of that              |
 | 13:38      | together.                                                                                            |
-| 13:39      | And that was just, you know, we had an outline in Google Docs that, you know, was being manipulated  |
+| 13:39      | And that was just, you know, we had an outline in [[Google Docs]] that, you know, was being manipulated  |
 | 13:44      | and massaged together by [[Make]].                                                                       |
 | 13:49      | And you know, we were able to just take that and modify it a little bit and turn it into             |
 | 13:55      | a [[Notion]] template that now whenever we create a new episode idea, it just feels like, you            |
@@ -312,7 +312,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 16:48      | like a public link that shouldn't have required them to sign up and they ended up having to          |
 | 16:51      | like create accounts and we had to grant them access to stuff and all sorts of weirdness.            |
 | 16:55      | So that was definitely not great.                                                                    |
-| 16:56      | And you know, obviously Google Docs, pretty much everybody's run into Google Docs before,            |
+| 16:56      | And you know, obviously [[Google Docs]], pretty much everybody's run into [[Google Docs]] before,            |
 | 16:59      | but [[Notion]] is just as simple to use and it's got all the information in there for us, which          |
 | 17:06      | definitely makes it a lot easier.                                                                    |
 | 17:08      | Yeah, so, but just to kind of get on the automation thread, templates are a great way to automate    |
@@ -592,7 +592,7 @@ In this episode, David and Rosemary explore the how and why of moving Automators
 | 33:44      | And it's one of those things where, as with all of these things, you've got to have like             |
 | 33:48      | the right data and the right structure and so on in place in the first place.                        |
 | 33:52      | And that's one of the reasons why we are not just copy pasting everything that we had.               |
-| 33:58      | I mean, we did start by copy pasting a bunch of stuff from our Google Docs into [[Notion]],              |
+| 33:58      | I mean, we did start by copy pasting a bunch of stuff from our [[Google Docs]] into [[Notion]],              |
 | 34:03      | but we're not just leaving it at that.                                                               |
 | 34:05      | Using this as an opportunity to review how we do things and why we do things the way                 |
 | 34:09      | that we do them so that we can make sure that things are set up in a way that will make              |

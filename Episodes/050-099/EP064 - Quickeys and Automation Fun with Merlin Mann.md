@@ -1323,7 +1323,7 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:06:35   | There's an app for almost any task, so you can stay in your flow and finish what you                          |
 | 01:06:40   | started.                                                                                                      |
 | 01:06:41   | And now you can take your projects to your iPhones and iPads with support for iOS companion                   |
-| 01:06:45   | apps for your Mac favourites, like Ulysses, Todo, and Tasky.                                                 |
+| 01:06:45   | apps for your Mac favourites, like Ulysses, Todo, and Taskheat.                                                 |
 | 01:06:50   | Setup has a dedicated curation team that only selects the highest quality apps, which means                   |
 | 01:06:55   | you don't have to spend a lot of time searching for great tools, and it's just such a great                   |
 | 01:07:00   | value instead of paying thousands of dollars for separate app licenses.                                       |
@@ -1571,33 +1571,33 @@ In this episode, David and Rosemary are joined by the magical Merlin Mann to tal
 | 01:19:02   | And I think it's really interesting.                                                                          |
 | 01:19:03   | I feel like this weekend is the first time I finally kind of got my head around it.                           |
 | 01:19:07   | I still don't know if it's, what's neat about it to me is if I am going to be using                           |
-| 01:19:11   | Taskpaper in the Taskpaper app on my Mac, like it's pretty powerful to me the way in                        |
-| 01:19:16   | his YouTube video, you might want to put that in notes, in his YouTube video, he basically                    |
+| 01:19:11   | [[Taskpaper]] in the [[Taskpaper]] app on my Mac, like it's pretty powerful to me the way in                        |
+| 01:19:16   | his YouTube video, you might want to put that in notes, in his [[YouTube]] video, he basically                    |
 | 01:19:20   | explains how you can create these hubs, involves like replicating templates and it could be                   |
-| 01:19:25   | this entire world view and his videos go by really fast, but at the heart of it, Hook                         |
+| 01:19:25   | this entire world view and his videos go by really fast, but at the heart of it, [[Hook]]                         |
 | 01:19:30   | is an app that lets you say to, what's the word, to, you hook a thing to another thing                        |
 | 01:19:38   | and it's bi-directional.                                                                                      |
 | 01:19:40   | So if I'm on a web page, I open this thing up, it's like [[LaunchBar]], it's like [[Alfred]].                         |
-| 01:19:44   | Open this thing up and I want you to associate that with this Taskpaper file.                                |
+| 01:19:44   | Open this thing up and I want you to associate that with this [[Taskpaper]] file.                                |
 | 01:19:49   | So now, if I ever open that web page again, I'm a keystroke away from seeing all the things                   |
 | 01:19:53   | that it's attached to.                                                                                        |
-| 01:19:55   | And unlike [[DEVONthink]]ing stuff like that, very powerful, what I love about Hook or what                      |
-| 01:20:00   | is interesting to me about Hook, a lot of [[LaunchBar]] is that it exists outside of all                          |
+| 01:19:55   | And unlike [[DEVONthink]]ing stuff like that, very powerful, what I love about [[Hook]] or what                      |
+| 01:20:00   | is interesting to me about [[Hook]], a lot of [[LaunchBar]] is that it exists outside of all                          |
 | 01:20:06   | those separate documents, all those separate web pages, small pieces loosely joined.                          |
 | 01:20:12   | There's nothing formal, there's not like a big dumb database where I have to put all                          |
 | 01:20:16   | these PDFs, you can just open up one file, drag a bunch of stuff into it and then guess                       |
 | 01:20:22   | what, those are associated now.                                                                               |
-| 01:20:24   | So it's kind of like a, I think he might say, it's like this cognitive CMS for how you work,                  |
+| 01:20:24   | So it's kind of like a, I think he might say, it's like this cognitive [[Content Management System\|CMS]] for how you work,                  |
 | 01:20:30   | but it's extremely lightweight.                                                                               |
 | 01:20:31   | Like I say, I don't know if I'm going to be using it five years from now, I kind of doubt                     |
 | 01:20:35   | it, but I'm very intrigued by how it works and I love that it exists.                                         |
-| 01:20:40   | Well, like thinking about your Taskpaper work that you're doing, you could very easily                       |
-| 01:20:46   | using Hook because one of the things Hook does that I'm not aware of any other app doing                      |
-| 01:20:50   | is it allows you to create a URL link to a file that's not like DEVONthink will do                           |
+| 01:20:40   | Well, like thinking about your [[Taskpaper]] work that you're doing, you could very easily                       |
+| 01:20:46   | using [[Hook]] because one of the things Hook does that I'm not aware of any other app doing                      |
+| 01:20:50   | is it allows you to create a URL link to a file that's not like [[DEVONthink]] will do                           |
 | 01:20:55   | it, but I mean, like generally just on your file system, you can create a link to a file.                     |
 | 01:21:00   | So you can have a link to the audio file or the outline for the podcast or like in my                         |
-| 01:21:05   | case, I use Hook in conjunction with [[Obsidian]] and Markdown files when I have a client matter                  |
-| 01:21:12   | so I can get to the OmniFocus project, to the client folder, like everything is just                          |
+| 01:21:05   | case, I use [[Hook]] in conjunction with [[Obsidian]] and [[Markdown]] files when I have a client matter                  |
+| 01:21:12   | so I can get to the [[OmniFocus]] project, to the client folder, like everything is just                          |
 | 01:21:17   | connected.                                                                                                    |
 | 01:21:18   | So you're really, wow, that's amazing, you're doing that for your work you work.                              |
 | 01:21:23   | That's amazing.                                                                                               |

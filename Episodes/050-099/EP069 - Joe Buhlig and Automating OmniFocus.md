@@ -357,7 +357,7 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 25:22      | your experience with it and what you're doing. Yeah, so there's a couple of things I've learned        |
 | 25:27      | in the process, because yes, it's super simple to get into having built scripts and put scripts and    |
 | 25:37      | code into a lot of different projects. There are some things, like I've had some back and forth with   |
-| 25:44      | Ken Case on it via Twitter. There's some just tweaks here and there that they don't have in            |
+| 25:44      | Ken Case on it via [[Twitter]]. There's some just tweaks here and there that they don't have in            |
 | 25:50      | the system yet, but he's always been super great at like, oh, yeah, that's because of X, Y, and Z,     |
 | 25:55      | or at one point, I know they pushed a quick update to OmniFocus because it's something I found that    |
 | 26:00      | was missing with the API on it. So they're super responsive and I love that. I can tell that it's      |
@@ -695,20 +695,20 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 57:55      | still do it, where you could create a syntax of things that go into that title, and then it just       |
 | 58:00      | knew what was there and could parse it into which one is the project, which one is the context,        |
 | 58:05      | because this was pre tags, what's the deferred eight, all the things. And I discovered in the          |
-| 58:12      | process of building that script that OmniFocus had a piece of code in their AppleScripting            |
+| 58:12      | process of building that script that OmniFocus had a piece of code in their [[AppleScript\|AppleScripting]]            |
 | 58:22      | dictionary that did all of that parsing for you. They already had a syntax built. All it needed        |
 | 58:29      | was a wrapper around it that would tell it which tasks to run that parse process on. So I kind of      |
 | 58:38      | put some wrappers around that, and then set it all up with, and I'm trying to remember how I did it    |
-| 58:43      | at the time, I think I was using [[Hazel]] to where it would know when my OmniFocus database had changed,  |
+| 58:43      | at the time, I think I was using [[Hazel]] to where it would know when my [[OmniFocus]] database had changed,  |
 | 58:52      | and it would run that script at any point when that database had changed, which was just awesome       |
-| 58:57      | because it meant I could just send it in there. OmniFocus would sync because it got a new inbox        |
+| 58:57      | because it meant I could just send it in there. [[OmniFocus]] would sync because it got a new inbox        |
 | 59:02      | task. And then that meant that the database modified date would change. So then [[Hazel]] would run the    |
 | 59:07      | rule, which would run the [[AppleScript]], which then parsed the inbox item, and then my someday          |
 | 59:14      | maybes would show up where they were supposed to be without me having to do anything other than        |
 | 59:20      | create the someday maybe list in [[Drafts]], action it off with the correct someday maybe list,            |
-| 59:26      | and it just magically showed up where it was supposed to be in OmniFocus with all the correct          |
+| 59:26      | and it just magically showed up where it was supposed to be in [[OmniFocus]] with all the correct          |
 | 59:31      | contexts, projects, all the things. Absolutely loved that. And I think that has been something         |
-| 59:38      | a lot of people have used based on the replies and the shares and stuff I see via Twitter and          |
+| 59:38      | a lot of people have used based on the replies and the shares and stuff I see via [[Twitter]] and          |
 | 59:44      | email and stuff. It's a pretty common script that people love. I mean, obviously, Rose,                |
 | 59:48      | I know you've gotten into it as well. And it made sense to me that that would then be translated       |
 | 59:56      | into this Omni Automation system. I was a little concerned whenever I embarked on transferring         |
@@ -717,13 +717,13 @@ The Omni Group has released a remarkable automation platform for their apps, inc
 | 01:00:19   | meant that all I had to do was create the same logic in [[JavaScript]]. The only thing I                   |
 | 01:00:26   | have found with doing that transferring is I don't know that there's a way to just automatically       |
 | 01:00:32   | run it on iOS or iPadOS. I don't think I've found a way to do that. I thought I was close              |
-| 01:00:39   | at one point with a home automation via shortcuts where you could potentially run it at a certain      |
+| 01:00:39   | at one point with a home automation via [[Shortcuts]] where you could potentially run it at a certain      |
 | 01:00:44   | time during the day, but it's messy as far as the security goes and actually actioning it off          |
 | 01:00:50   | because OmniFocus has to be open and it's not quite there for that side of it, but it is possible      |
 | 01:00:57   | to have that script on iOS or iPadOS and then just manually run that. So if you load up your           |
 | 01:01:03   | inbox with a bunch of stuff, you can hit it and it just auto parses things out. So super glad          |
 | 01:01:08   | that one's been able to come over. But that is one that, again, I'm not actively using it today        |
-| 01:01:14   | because I'm not really using the inbox in OmniFocus, but I know that a lot of people absolutely love   |
+| 01:01:14   | because I'm not really using the inbox in [[OmniFocus]], but I know that a lot of people absolutely love   |
 | 01:01:19   | that thing. Yeah. So here is a fun little Easter egg piece of trivia for both of you and of course     |
 | 01:01:26   | everybody listening. I actually requested the transport text early on because I was originally         |
 | 01:01:31   | using your script Joe and I wanted to be able to use it in [[JavaScript]]. And so I fired off an email     |

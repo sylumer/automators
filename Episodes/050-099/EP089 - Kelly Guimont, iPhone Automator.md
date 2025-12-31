@@ -1031,10 +1031,10 @@ In this episode, David and Rosemary are joined by Kelly Guimont and dive into ge
 | 01:25:28   | smart extension lead for Christmas lights that I just purchased. Kelly, where can people find you?       |
 | 01:25:33   | Well, you can find me hosting the Daily Observations podcast over at macobserver.com.                    |
 | 01:25:40   | You can occasionally find me over at the incomparable on I Want My MCU TV and some of the                |
-| 01:25:46   | other stuff there too. You can find me on The Aftershow at aftershowpodcast.com,                         |
+| 01:25:46   | other stuff there too. You can find me on The [[Aftershow]] at [aftershowpodcast.com](https://aftershowpodcast.com),                         |
 | 01:25:52   | which I do with Mike Rose and the rest of the time. I talk to other people on their podcast              |
-| 01:25:58   | like this. I've been on Intouch with iOS recently. And I think I'm back on that tomorrow again.          |
-| 01:26:04   | And I'm also on Twitter as Verso. All right. V-E-R-S-O. Thank you to our sponsors this week,             |
+| 01:25:58   | like this. I've been on [[Intouch with iOS]] recently. And I think I'm back on that tomorrow again.          |
+| 01:26:04   | And I'm also on [[Twitter]] as Verso. All right. V-E-R-S-O. Thank you to our sponsors this week,             |
 | 01:26:13   | and that's our friends at LinkedIn and Hunter Douglas. Where the automators, you can find                |
 | 01:26:17   | the automators forums that we just talked about at automator... I'm sorry, talk.automators.fm.           |
 | 01:26:23   | So go check that out, and we'll see you next time. Goodbye, everyone.                                    |

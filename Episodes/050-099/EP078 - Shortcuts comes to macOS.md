@@ -316,7 +316,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 15:59      | And, you know, I tweeted out to ask some developers, some people I managed to ping specifically                           |
 | 16:06      | a tweet is never long enough and my memory always sucks when it comes to lift stall the                                   |
 | 16:10      | developers who've got either great shortcut support or make shortcuts [[Apple]] apps off the                                  |
-| 16:14      | apps off the top of your head and remember their Twitter handles.                                                         |
+| 16:14      | apps off the top of your head and remember their [[Twitter]] handles.                                                         |
 | 16:18      | So that that that was a challenge, but I tweeted some people and a lot of people are tweeted                              |
 | 16:24      | back saying, yeah, I've already got, you know, a draft build of this, but, you know, theoretically                        |
 | 16:28      | running on the current macOS beta, which considering the fact that this is like two days after                            |
@@ -395,7 +395,7 @@ Hooray! Apple has made Shortcuts for the Mac. In this episode Rose and David div
 | 21:07      | releases this, because of course you don't know until the iPhone keynote.                                                 |
 | 21:11      | And then, you know, it might be tomorrow, it could be Friday, it could be next week,                                      |
 | 21:17      | you know, it could be today, they've done that before.                                                                    |
-| 21:20      | I have seen developers having minor meltdowns on Twitter and I do not blame them because                                  |
+| 21:20      | I have seen developers having minor meltdowns on [[Twitter]] and I do not blame them because                                  |
 | 21:25      | they thought they were going to be ready and they had a few more days and nope, it's today.                               |
 | 21:29      | But, you know, we're going to see what happens and I'm pretty excited.                                                    |
 | 21:33      | It looks like [[Apple]] have got, you know, quite a few things right here which will make it                                  |

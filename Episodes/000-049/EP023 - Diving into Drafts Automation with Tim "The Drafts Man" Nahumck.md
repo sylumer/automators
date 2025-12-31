@@ -631,12 +631,12 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 33:32      | With [[Drafts]], you can just write the email and [[Drafts]] and send it without ever going                    |
 | 33:36      | really into your mail application.                                                                     |
 | 33:39      | And all of these things are real basic, but totally useful.                                            |
-| 33:44      | And even more important than email, Twitter, right?                                                    |
-| 33:47      | You can tweet from [[Drafts]] and you never have to open Twitter at all.                                   |
+| 33:44      | And even more important than email, [[Twitter]], right?                                                    |
+| 33:47      | You can tweet from [[Drafts]] and you never have to open [[Twitter]] at all.                                   |
 | 33:51      | So right now, as we're kind of recording here, there's some big movies coming, right?                  |
 | 33:57      | You got Avengers Endgame, you got Star Wars coming up.                                                 |
-| 34:01      | If there's any spoiler stuff that you want to stay away from, you could stay off of Twitter.           |
-| 34:05      | You can still tweet and send out whatever you want to, but you don't have to open Twitter              |
+| 34:01      | If there's any spoiler stuff that you want to stay away from, you could stay off of [[Twitter]].           |
+| 34:05      | You can still tweet and send out whatever you want to, but you don't have to open [[Twitter]]              |
 | 34:11      | at all.                                                                                                |
 | 34:12      | And you can do a tweet, you can do a tweet storm and all of those are available on the                 |
 | 34:16      | Action Directory and you can just install them and you're done.                                        |
@@ -902,7 +902,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 50:37      | Yeah, and I mean, that's just a really good example of the scripting.                                  |
 | 50:42      | There are other things that I've done.                                                                 |
 | 50:44      | [[Drafts]] 5.4 came out a few months ago and there was a giant update to one thing that I really           |
-| 50:51      | wanted within the app is WordPress integration.                                                        |
+| 50:51      | wanted within the app is [[WordPress]] integration.                                                        |
 | 50:54      | I had been pining for that for a long time.                                                            |
 | 50:58      | And I wanted to have at least the ability to do just a regular standard post and a link                |
 | 51:03      | post.                                                                                                  |
@@ -914,21 +914,21 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 51:23      | But what it does is it takes my blog post that I've written, it pops up an HTML preview                |
 | 51:28      | of my site and then goes and gets the tags and the categories from my website allows                   |
 | 51:35      | me to enter those into that post.                                                                      |
-| 51:39      | It sends the draft over to WordPress.                                                                  |
+| 51:39      | It sends the draft over to [[WordPress]].                                                                  |
 | 51:43      | It actually saves and archives my post automatically in the background and then pops up in the         |
 | 51:49      | Safari View Controller, excuse me.                                                                     |
-| 51:53      | It actually pops up in the Safari View Controller, the interface for WordPress so that I can           |
+| 51:53      | It actually pops up in the Safari View Controller, the interface for [[WordPress]] so that I can           |
 | 52:00      | modify anything I need to on the site if I really want to, or I can just hit publish                   |
 | 52:06      | and it's done.                                                                                         |
 | 52:07      | It's a super complex action.                                                                           |
 | 52:09      | There's a lot of scripting involved with it, but it's just something that I don't need                 |
-| 52:13      | to now have another application to do my WordPress publishing.                                         |
+| 52:13      | to now have another application to do my [[WordPress]] publishing.                                         |
 | 52:18      | Have you shared that, Tim, blog post or anything?                                                      |
 | 52:22      | Yeah, so I actually wrote a review for [MacStories](https://www.macstories.net/) at that time, so it's on their site.                |
 | 52:27      | I think I put the link in the show notes and it's something that I've refined and I've                 |
 | 52:33      | updated those actions continually so that people can have the latest and greatest.                     |
 | 52:38      | But it's something that has just saved me so much effort and one of the apps that I                    |
-| 52:44      | used to use, I love Ulysses.                                                                           |
+| 52:44      | used to use, I love [[Ulysses]].                                                                           |
 | 52:46      | I really do.                                                                                           |
 | 52:47      | It's a beautiful application.                                                                          |
 | 52:49      | It's just not something that I need now with having this in [[Drafts]] and that's my personal              |
@@ -950,11 +950,11 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 53:54      | Exactly.                                                                                               |
 | 53:55      | Yeah, I mean, there are constantly great updates coming and I'm finding that [[Drafts]] has earned         |
 | 54:01      | its money's worth and probably about eight times that just because of how much I get                   |
-| 54:04      | done in it and also one thing I should mention is you made me switch to WordPress because              |
+| 54:04      | done in it and also one thing I should mention is you made me switch to [[WordPress]] because              |
 | 54:10      | of the actions that you posted on [MacStories](https://www.macstories.net/).                                                          |
 | 54:12      | So thank you.                                                                                          |
 | 54:13      | You're welcome.                                                                                        |
-| 54:14      | I had to switch CMS.                                                                                   |
+| 54:14      | I had to switch [[Content Management System\|CMS]].                                                                                   |
 | 54:15      | Well, I'm sorry about that.                                                                            |
 | 54:17      | That's okay.                                                                                           |
 | 54:18      | You're forgiven.                                                                                       |
@@ -966,7 +966,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 54:37      | into and then something happens to it.                                                                 |
 | 54:39      | But there's a lot of people, Tim included, who are now using [[Drafts]] as their kind of                   |
 | 54:44      | text bank.                                                                                             |
-| 54:45      | I still use Ulysses.                                                                                   |
+| 54:45      | I still use [[Ulysses]].                                                                                   |
 | 54:46      | I have two of them.                                                                                    |
 | 54:47      | I'm very fancy.                                                                                        |
 | 54:50      | But you could, I mean, because they have tagging support, this is a high quality application.          |
@@ -988,7 +988,7 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 56:06      | Again, [[Day One]], wonderful app.                                                                         |
 | 56:09      | It's not something maybe that I need to keep around when I have other things to do it for              |
 | 56:12      | me.                                                                                                    |
-| 56:13      | So if, if I, if I'm making the personal choice of saying, Hey, okay, Ulysses, I'm not going            |
+| 56:13      | So if, if I, if I'm making the personal choice of saying, Hey, okay, [[Ulysses]], I'm not going            |
 | 56:19      | to use that because I'm going to use [[Drafts]] and [[Day One]], I'm not going to use that.                    |
 | 56:21      | I'm going to use [[Drafts]].                                                                               |
 | 56:23      | I'm saving myself money, even though it's $20 a year.                                                  |
@@ -1080,8 +1080,8 @@ In this episode Rosemary and David get Tim "The Drafts Man" to talk about how he
 | 01:01:00   | Tim, where can we find you?                                                                            |
 | 01:01:01   | Give us some links.                                                                                    |
 | 01:01:02   | Where can people go and stalk you in the friendliest of matters on the Internet?                       |
-| 01:01:06   | Well, I'm on Twitter, kind of, somewhat, sort of.                                                      |
-| 01:01:11   | So I'm at Nahumck on Twitter, just my last name.                                                       |
+| 01:01:06   | Well, I'm on [[Twitter]], kind of, somewhat, sort of.                                                      |
+| 01:01:11   | So I'm at Nahumck on [[Twitter]], just my last name.                                                       |
 | 01:01:14   | That'll be in the show notes for everybody because that's really hard to spell.                        |
 | 01:01:17   | My website is Nahumck.me.                                                                              |
 | 01:01:20   | Hopefully soon I'll put up this journal post and that's something that I'm working towards             |

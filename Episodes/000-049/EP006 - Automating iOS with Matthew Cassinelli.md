@@ -195,7 +195,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 11:29      | of it you might need hand holding, but that's also what we're here for. Yeah. So we've got                                                                                         |
 | 11:34      | over the hippie part. Let's, let's get into the meat. Why don't you share some share some                                                                                          |
 | 11:39      | shortcuts with us, Matt? Totally. I have a couple here for you today. I have one that                                                                                              |
-| 11:46      | I use to open my Twitter lists, which might be handy if you're suffering from a lack of                                                                                            |
+| 11:46      | I use to open my [[Twitter]] lists, which might be handy if you're suffering from a lack of                                                                                            |
 | 11:52      | tweet bot in your life lately. And then I also have a fun one that I use to create master                                                                                          |
 | 11:59      | versions of all of my [[Apple Music]] playlists, which I then use this shortcut to update,                                                                                             |
 | 12:05      | run, open, then do multiple tasks on. And then assuming we have enough time because I've                                                                                           |
@@ -208,7 +208,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 12:44      | to these or screencasts on these, just whatever you look at the show notes, there's going                                                                                          |
 | 12:48      | to be tons of links on how to, to get this stuff without having to build it from scratch.                                                                                          |
 | 12:53      | But let's talk through it anyway. So everybody can learn a little bit. You want to start                                                                                           |
-| 12:57      | with the Twitter one? Sure. So what's the problem this solves?                                                                                                                     |
+| 12:57      | with the [[Twitter]] one? Sure. So what's the problem this solves?                                                                                                                     |
 | 13:03      | So this used to solve a problem that [[Twitter]] had more so than lately because they do make                                                                                          |
 | 13:09      | lists available in the sidebar. But I still find it too difficult to go into my [[Twitter]]                                                                                            |
 | 13:16      | lists and view them and use them to keep up with people because I've used [[Twitter]] lists                                                                                            |
@@ -224,10 +224,10 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 14:14      | a similar company. And so I just end up following too many people. And I've ended up creating                                                                                      |
 | 14:19      | like 10 lists, which I also use from [[Tweetbot]]. I have launched a inner pro actions that hook                                                                                       |
 | 14:27      | into the [[Tweetbot]] [[URL Schemes\|URL scheme]] also and open these. But I did find that you have to have                                                                                             |
-| 14:33      | the [[Twitter]] list ID. And so that's a little too complicated. Like I had to go into Twitter's                                                                                       |
+| 14:33      | the [[Twitter]] list ID. And so that's a little too complicated. Like I had to go into [[Twitter]]'s                                                                                       |
 | 14:40      | API and grab all of the unique IDs for my lists. And that was like too hard for me to                                                                                              |
 | 14:45      | manage or I tried to like, I used an API console that is now shut down because as I referenced                                                                                     |
-| 14:54      | Twitter is not the greatest towards their developers. But instead, basically, I can                                                                                                |
+| 14:54      | [[Twitter]] is not the greatest towards their developers. But instead, basically, I can                                                                                                |
 | 15:00      | solve the problem myself. And so I found that [[Twitter]] has a [[URL Schemes\|URL scheme]] where it's basically                                                                                        |
 | 15:07      | `twitter://list`. And then `?screenname=`, so you put in the                                                                                       |
 | 15:15      | account that you're trying to open and then slug is the URL slug for the [[Twitter]] list.                                                                                             |
@@ -287,13 +287,13 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 20:13      | just click on the magic variable button, all the ones available to you. But the other advantage                                                                                    |
 | 20:17      | I like of this opening with the handle button is, like you said, if you share this with                                                                                            |
 | 20:21      | somebody, it makes it really easy for someone to adapt this, you know, you can say, Oh,                                                                                            |
-| 20:25      | I'm not Matt Cassinelli, so I'm going to change the, you know, the handle to my personal [[Twitter]]                                                                                   |
+| 20:25      | I'm not [[Matthew Cassinelli\|Matt Cassinelli]], so I'm going to change the, you know, the handle to my personal [[Twitter]]                                                                                   |
 | 20:31      | name. And it makes it really easy for other people to take advantage of what you've done.                                                                                          |
 | 20:36      | So what next?                                                                                                                                                                      |
 | 20:38      | So next I have a list action, which for people who know development is in effect an array.                                                                                         |
 | 20:46      | So an array is an ordered list of items. And so the list action creates that same sort of                                                                                          |
 | 20:54      | output if you're technical on that side. But basically, I just fill this list in with all                                                                                          |
-| 21:00      | of the titles of my Twitter lists. And this can be done in plain text too, because in the                                                                                          |
+| 21:00      | of the titles of my [[Twitter]] lists. And this can be done in plain text too, because in the                                                                                          |
 | 21:07      | next few actions, we'll use text conversion actions in order to convert it into something                                                                                          |
 | 21:13      | that's URL friendly. So I have one that has a backslash in it, or I guess forward slash,                                                                                           |
 | 21:20      | but data vis forward slash analytics, just because I came up with that title when I was                                                                                            |
@@ -320,7 +320,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 23:11      | up in a minute here, where you choose from it. And just to, and just to make it even                                                                                               |
 | 23:16      | easier, like when you're talking about the dictionary earlier, if you have multiple                                                                                                |
 | 23:20      | [[Twitter]] handles, you could have listed multiple handles and the dictionary listing and use                                                                                         |
-| 23:26      | the choose from list there to pick which Twitter handle you're working from.                                                                                                       |
+| 23:26      | the choose from list there to pick which [[Twitter]] handle you're working from.                                                                                                       |
 | 23:30      | Yeah, that's actually, I should add that to this. I don't know. I guess I don't have any                                                                                           |
 | 23:36      | lists on my other accounts, but then the super computer or `_supercomputer` account                                                                                       |
 | 23:42      | that we have for our show. That's a good idea. I might make a second version of this that                                                                                          |
@@ -339,7 +339,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 24:45      | ran it, they're just like, what's happening? What's this list of your [[Twitter]] lists? For                                                                                           |
 | 24:51      | example, it's definitely confusing. Actually, that does remind me. I have inboard questions                                                                                        |
 | 24:56      | set up for the list so you can fill in your own list. So people aren't trying to open                                                                                              |
-| 25:00      | my tech news Twitter list.                                                                                                                                                         |
+| 25:00      | my tech news [[Twitter]] list.                                                                                                                                                         |
 | 25:02      | Well, that's nice of you. It makes it very friendly. The select a multiple tag. When                                                                                               |
 | 25:07      | you do a choose from a list in [[Shortcuts\|Siri Shortcuts]], there's a little tick box for select multiple.                                                                                      |
 | 25:14      | What are some examples of when you'd want to light that up?                                                                                                                        |
@@ -601,7 +601,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 48:04      | gets published. And everybody's timelines, with their own API, it calls get that information                                                                                       |
 | 48:10      | back in. And so it's really just how modern applications and modern services talk to each                                                                                          |
 | 48:17      | other. But it's wrapped in a confusing jargon as normal.                                                                                                                           |
-| 48:21      | And normal people can use these. I mean, and like Twitter is like controversially starting                                                                                         |
+| 48:21      | And normal people can use these. I mean, and like [[Twitter]] is like controversially starting                                                                                         |
 | 48:25      | to scale back its API. So third party apps can't do as much. But in this one, you're                                                                                               |
 | 48:31      | using the [[Dark Sky]] API. So just explain what that is and how you got it got into it.                                                                                               |
 | 48:39      | So [[Dark Sky]] is a popular weather service. And I think they've always been popular because                                                                                          |
@@ -977,7 +977,7 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:25:17   | Well, Matt has 801s [[Workflow]] workflows, [[Shortcuts]] shortcuts. And we covered two of them today.                                                                                     |
 | 01:25:25   | So you know what that means. We're going to have you back. Definitely.                                                                                                             |
 | 01:25:30   | In the meantime, Matt, where can people find you?                                                                                                                                  |
-| 01:25:34   | They can find me on Twitter @MattCassinelli. And then my personal website is [MatthewCassinelli.com](https://MatthewCassinelli.com),                                                                             |
+| 01:25:34   | They can find me on [[Twitter]] @MattCassinelli. And then my personal website is [MatthewCassinelli.com](https://MatthewCassinelli.com),                                                                             |
 | 01:25:41   | but I also have [CassinelliConsulting.com](https://CassinelliConsulting.com). And so I'm kind of out there helping developers                                                                                          |
 | 01:25:48   | figure out how to use [[Shortcuts\|Siri Shortcuts]]. And I'm also helping people with marketing because                                                                                           |
 | 01:25:53   | that is what I used to do as a professional, still do now. At the same time, I'll be writing                                                                                       |
@@ -997,15 +997,15 @@ In this episode, we are joined by former Workflow team member Matthew Cassinelli
 | 01:27:11   | it out. I mean, I think our Venn diagram is basically a circle. Yeah. I very much hope it's                                                                                        |
 | 01:27:17   | a circle. I mean, eights are cute and all because they're nice and brown and cuddly, but let's go                                                                                  |
 | 01:27:21   | with circles. Everybody loves circles. All right, gang. Well, that's it. We are the Automators.                                                                                    |
-| 01:27:27   | You can find us at relay.fm/automators. On Twitter, we are automators.fm. Our website                                                                                              |
+| 01:27:27   | You can find us at relay.fm/automators. On [[Twitter]], we are automators.fm. Our website                                                                                              |
 | 01:27:37   | is automators.fm. Check the show notes. There's going to be a ton of video stuff here. We also                                                                                     |
 | 01:27:43   | have a YouTube channel. We also have the learning course at learn.macsparky. There's no way for                                                                                    |
 | 01:27:48   | you not to be able to find this stuff. So go find and download, watch the screencast we do on the                                                                                  |
 | 01:27:53   | stuff we talked about today, and then you can become your own Shortcuts shortcut power user, SSPU.                                                                                 |
 | 01:28:01   | I don't know if that's good or not. Let's go with SSD. G Shortcuts shortcut guru. You can be                                                                                        |
 | 01:28:06   | a shortcut guru. All right, there we go. SSG. It is now Canon. Okay, David, where can people find you?                                                                             |
-| 01:28:14   | [macsparky.com](https://macsparky.com) and on Twitter, I'm @macsparky. And of course, that's that new learning site,                                                                                      |
+| 01:28:14   | [macsparky.com](https://macsparky.com) and on [[Twitter]], I'm @macsparky. And of course, that's that new learning site,                                                                                      |
 | 01:28:20   | learn.macsparky.com. Please go check it out. I put a lot of work into it. I'd love to hear what you                                                                                |
-| 01:28:25   | think of it. Great. On Twitter and micro blog, I am RosemaryOrchard and you can find me at the                                                                                    |
+| 01:28:25   | think of it. Great. On [[Twitter]] and [[micro blog]], I am RosemaryOrchard and you can find me at the                                                                                    |
 | 01:28:31   | creatively named website [rosemaryorchard.com](https://rosemaryorchard.com). Thank you very much for listening. And David,                                                                                        |
 | 01:28:37   | is there anything else you want to mention? We'll see you all in two weeks.                                                                                                        |

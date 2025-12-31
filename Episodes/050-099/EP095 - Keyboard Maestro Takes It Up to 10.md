@@ -778,7 +778,7 @@ There's a new version of Keyboard Maestro with plenty of new automation tools. D
 | 47:53      | alphabet, alphabetically, if I just hit control option command M and then tap a, then it automatically   |
 | 48:00      | filters that list down to just the automators ones.                                                      |
 | 48:03      | So I can go into the folder where we do show planning or I can go to the air table, I can                |
-| 48:07      | go to the Google docs and, and all that stuff just happens automatically.                                |
+| 48:07      | go to the [[Google Docs]] and, and all that stuff just happens automatically.                                |
 | 48:11      | So that is like a magical way for me not to have to remember a ton of shortcuts and be                   |
 | 48:18      | able to add anything to what I want.                                                                     |
 | 48:20      | Like when I'm working on a field guide right now, I'm working on the shortcuts for Mac                   |

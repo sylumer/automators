@@ -676,7 +676,7 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 37:42      | your phone, like shortcuts.                                                                             |
 | 37:43      | I personally use it so whenever an article of mine gets published on the sweet setup,                   |
 | 37:47      | I get notified and I can run a shortcut which allows me to do a bunch of little automations             |
-| 37:52      | in the background, like make a post appear on my WordPress site.                                        |
+| 37:52      | in the background, like make a post appear on my [[WordPress]] site.                                        |
 | 37:56      | I really like that it's so easy to use, and I would recommend PushCut to anybody who wants              |
 | 38:00      | to try out automated notifications.                                                                     |
 | 38:04      | Go to pushcut.io/automators right now to check it out.                                                  |
@@ -935,8 +935,8 @@ In this episode, Rosemary and David get to talk to J.F. Brissette who really lov
 | 53:05      | And hopefully, we made some terminal and regular expression converts today as well.                     |
 | 53:10      | JF, where can folks find you?                                                                           |
 | 53:12      | Oh, as far as finding me online, quite simple.                                                          |
-| 53:15      | I'm not super active on Twitter, but you can find me there.                                             |
-| 53:18      | My handle is JF Brissette without the vowels, so that's JFBRSSTT on Twitter.                                 |
+| 53:15      | I'm not super active on [[Twitter]], but you can find me there.                                             |
+| 53:18      | My handle is JF Brissette without the vowels, so that's JFBRSSTT on [[Twitter]].                                 |
 | 53:27      | So that's where you'll find me.                                                                         |
 | 53:28      | And come over and say hi.                                                                               |
 | 53:31      | Love to hear from you all.                                                                              |

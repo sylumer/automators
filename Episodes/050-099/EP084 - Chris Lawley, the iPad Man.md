@@ -958,7 +958,7 @@ iPad expert Chris Lawley joins in to talk about iPad-based automation and where 
 | 01:18:44   | Thank you. Yeah. Thank you guys for having me on. I really enjoy the show and both of you guys.           |
 | 01:18:49   | So I was super, super excited to be here. Thank you very much. So if people want to go check              |
 | 01:18:55   | you out, Chris, we're going to put a link to your website and your YouTube and the show notes.            |
-| 01:18:59   | Anywhere else people should go? You could find me on Twitter. I'm Chris underscore Lawley,                 |
+| 01:18:59   | Anywhere else people should go? You could find me on [[Twitter]]. I'm Chris underscore Lawley,                 |
 | 01:19:05   | L-A-W-L-E-Y. I'm also on Glass there. If you're into photography and stuff like that,                     |
 | 01:19:11   | I've gotten very into photography over the last few years. And that has been a really fun platform        |
 | 01:19:15   | that I've been really enjoying. Excellent. Next time we have you back, I want to talk about               |

@@ -1388,7 +1388,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 55:23      | Yeah, that would definitely be greatly appreciated.               |
 | 55:25      | I know Peter Lewis, the creator of Keybow My Sure                   |
 | 55:28      | was asking some questions about shortcuts stuff                   |
-| 55:31      | on Twitter the other day.                                         |
+| 55:31      | on [[Twitter]] the other day.                                         |
 | 55:32      | And the fact that somebody who develops                           |
 | 55:34      | one of the most powerful Mac apps ever,                           |
 | 55:38      | you know, has to ask these questions                              |
@@ -1738,7 +1738,7 @@ In this episode of Automators, David and Rosemary look at their favourite automa
 | 01:09:35   | Yeah, like things didn't take long before,                        |
 | 01:09:38   | but now I like, you know, I go to switch away to,                 |
 | 01:09:42   | I don't know, like, you know, open, you know,                     |
-| 01:09:45   | a link that my mom sent me from Twitter or something              |
+| 01:09:45   | a link that my mom sent me from [[Twitter]] or something              |
 | 01:09:47   | is like, nope, didn't need to do that.                            |
 | 01:09:48   | I'm done, which is great.                                         |
 | 01:09:51   | I really appreciate that.                                         |

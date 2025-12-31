@@ -849,7 +849,7 @@ Combinations! Lately, a lot of the best Mac automation tools have become convers
 | 31:34      | I mentioned earlier the shortcut action                           |
 | 31:36      | that I have for tweeting a tweet with Tweetbot.                   |
 | 31:39      | Well, if the native tweet action                                  |
-| 31:42      | in the [[Stream Deck]] uses the Twitter API,                          |
+| 31:42      | in the [[Stream Deck]] uses the [[Twitter]] API,                          |
 | 31:45      | which is okay, but                                                |
 | 31:47      | I like to have things                                             |
 | 31:49      | actually go out using the apps that I prefer to use               |

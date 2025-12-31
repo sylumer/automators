@@ -197,7 +197,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 07:45      | called [[Make\|Integromat]] and I just sort of dove into that and it was like so perfect for what                |
 | 07:51      | I need to do.                                                                                          |
 | 07:52      | And it was this exceedingly complex workflow where it like spins off and now spins off                 |
-| 07:56      | like [[Discord]] channels and Google Docs and files the Google Docs in the correct areas                   |
+| 07:56      | like [[Discord]] channels and [[Google Docs]] and files the [[Google Docs]] in the correct areas                   |
 | 08:00      | and like can manage channels and take and you can sort of solve puzzles with a separate                |
 | 08:03      | workflow that then archives channels and marks things as solved and all this.                          |
 | 08:08      | And it was just, oh, yeah, like this is this is what I need.                                           |
@@ -219,10 +219,10 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 08:40      | is like one, two, three.                                                                               |
 | 08:41      | Yeah.                                                                                                  |
 | 08:42      | It's very satisfying.                                                                                  |
-| 08:43      | Having come at that from things like, you know, IFTTT and Zapier, both of which are kind               |
-| 08:48      | of operate on a similar principle, but IFTTT was always very limited.                                  |
+| 08:43      | Having come at that from things like, you know, [[IFTTT]] and [[Zapier]], both of which are kind               |
+| 08:48      | of operate on a similar principle, but [[IFTTT]] was always very limited.                                  |
 | 08:52      | It's really just like, this thing happens, do this, like that's it.                                    |
-| 08:55      | And Zapier was more complex, but I think to your point about the UI is not as easy to                  |
+| 08:55      | And [[Zapier]] was more complex, but I think to your point about the UI is not as easy to                  |
 | 09:01      | rock.                                                                                                  |
 | 09:02      | It is a far weirder UI and it's just harder to figure out.                                             |
 | 09:06      | It's top down, right?                                                                                  |
@@ -232,7 +232,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 09:14      | So if you put something, you can add something, I think, between two actions inside of a Zap,          |
 | 09:19      | but you can't, I don't think you can rearrange things so you can't say, oh right, this thing           |
 | 09:23      | that was down here, actually I need to move that six actions up, which is one of those                 |
-| 09:30      | things that I struggled with and I found with Make, you can sort of just like break the                |
+| 09:30      | things that I struggled with and I found with [[Make]], you can sort of just like break the                |
 | 09:35      | connections between things and then move it around.                                                    |
 | 09:38      | It's a little bit like [[Audio Hijack]], basically, right?                                                 |
 | 09:40      | Yeah.                                                                                                  |
@@ -562,7 +562,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 26:47      | I'm sure [[Safari]] or your web browser is your app that you probably have opened more than                |
 | 26:52      | a lot of other ones.                                                                                   |
 | 26:54      | I've spent a lot of time working on gluing web services together and also doing automation              |
-| 26:59      | for stuff like blogs or WordPress platforms and stuff like that, where it's like, oh,                  |
+| 26:59      | for stuff like blogs or [[WordPress]] platforms and stuff like that, where it's like, oh,                  |
 | 27:04      | I want to be able to pull in content and show this content somewhere else.                             |
 | 27:09      | There's a lot of tools available for that.                                                             |
 | 27:12      | They vary in how technical they are, but certainly starting with tools like Make and                   |
@@ -576,7 +576,7 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 27:50      | offline on your machine and doing everything for you, depending on what you're doing.                  |
 | 27:54      | If you're trying to hook up, say, for example, I don't know, [[Airtable]] and Google Doc, then             |
 | 28:00      | why would you want your Mac to get in the middle of that?                                              |
-| 28:03      | [[Airtable]] is online, Google Docs is online.                                                             |
+| 28:03      | [[Airtable]] is online, [[Google Docs]] is online.                                                             |
 | 28:06      | It makes sense to bridge that with an online tool, and I think that's what strikes me is               |
 | 28:11      | really interesting about that article that you wrote for the Mystery Puzzle Hunt, where                |
 | 28:18      | it's all online services, and so it makes perfect sense, but I had never really thought                |
@@ -601,15 +601,15 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 29:46      | So we can do stuff, and we can do stuff that's not allowed by that.                                    |
 | 29:50      | For example, one of the big things that we wanted was setting up a way so that when we                 |
 | 29:54      | posted a story, it got posted in both [[Slack]] channel for our member [[Slack]] as well as on                 |
-| 30:01      | Twitter.                                                                                               |
+| 30:01      | [[Twitter]].                                                                                               |
 | 30:02      | And now you're going across services in a way that's like, well, okay, but how is your                 |
-| 30:07      | Twitter account going to know when a post goes up, and then how is your [[Slack]] account                  |
+| 30:07      | [[Twitter]] account going to know when a post goes up, and then how is your [[Slack]] account                  |
 | 30:11      | going to know when a post goes up?                                                                     |
 | 30:12      | And some of these things could be done separately, like using, say, RSS or something like that,        |
 | 30:17      | but we noticed that it was very slow because of the way that the RSS stuff would grow up.              |
 | 30:21      | And so we basically set up a system whereby we've got just a very simple workflow that                 |
-| 30:27      | says essentially when something is posted on the WordPress blog, it hits a web hook,                   |
-| 30:33      | and that basically sends messages to [[Slack]] and Twitter, and it's instantaneous, which                  |
+| 30:27      | says essentially when something is posted on the [[WordPress]] blog, it hits a web hook,                   |
+| 30:33      | and that basically sends messages to [[Slack]] and [[Twitter]], and it's instantaneous, which                  |
 | 30:37      | is wild.                                                                                               |
 | 30:39      | So yeah, the discovery of web hooks for me was something, and I don't know how many                    |
 | 30:43      | people are familiar with them, but basically they're URLs you can hit to say, hey, this                |
@@ -622,18 +622,18 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 31:12      | this really obscure URL that's got 200 odd random characters and plus a domain, then                   |
 | 31:19      | it's going to go do the thing or you can have ones with authentication and stuff.                      |
 | 31:23      | And I think it's something else you said, Dan, you could have had separate automations.                |
-| 31:27      | You could have had one automation for the [[Slack]] channel, one automation for Twitter.                   |
+| 31:27      | You could have had one automation for the [[Slack]] channel, one automation for [[Twitter]].                   |
 | 31:30      | But the problem with that is then if something goes wrong, there's only one of them break              |
 | 31:35      | or do you need to go and fix both of them if there's a change to something in the back                 |
 | 31:39      | end?                                                                                                   |
 | 31:40      | And this is why I like the idea of having online platforms personally for doing things                 |
 | 31:44      | like this because this way I have unity between things.                                                |
-| 31:47      | I don't have to have a WordPress plugin for posting to Twitter and a WordPress plugin                  |
+| 31:47      | I don't have to have a [[WordPress]] plugin for posting to [[Twitter]] and a [[WordPress]] plugin                  |
 | 31:51      | for posting to [[Slack]].                                                                                  |
 | 31:52      | And then something else comes along, a great new social media platform, and I don't have               |
-| 31:56      | to wait for somebody to create a WordPress plugin for that or try and create one myself                |
+| 31:56      | to wait for somebody to create a [[WordPress]] plugin for that or try and create one myself                |
 | 32:02      | or create somebody to create it.                                                                       |
-| 32:04      | They're probably going to go and approach the [[Make\|Integromat]] Zapier if this, then that folks               |
+| 32:04      | They're probably going to go and approach the [[Make\|Integromat]] [[Zapier]] if this, then that folks               |
 | 32:08      | and say, hey, we've got an API.                                                                        |
 | 32:11      | Can you hook us up?                                                                                    |
 | 32:12      | Because that's promotion for us.                                                                       |
@@ -670,11 +670,11 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 34:17      | or a special keystroke to initiate it or start typing it.                                              |
 | 34:23      | But then somebody else has already done the work and you just have to know, okay, well,                |
 | 34:27      | I want to get this data from here to here.                                                             |
-| 34:30      | So the thing here is Google Docs.                                                                      |
-| 34:32      | So I'm going to start with the Google Docs action and work my way backwards to everything              |
+| 34:30      | So the thing here is [[Google Docs]].                                                                      |
+| 34:32      | So I'm going to start with the [[Google Docs]] action and work my way backwards to everything              |
 | 34:35      | else or start from the beginning and work your way forwards, whatever works.                           |
 | 34:38      | And I think it's really nice when somebody else has done all the work for you as well.                 |
-| 34:43      | It's uploading things to [[Dropbox]] as well as creating Google Drive folders and stuff.                   |
+| 34:43      | It's uploading things to [[Dropbox]] as well as creating [[Google Drive]] folders and stuff.                   |
 | 34:48      | It ends up being an awful lot of work and sure you can do it all yourself.                             |
 | 34:51      | But do you have the time to and do you have the time to maintain it if it goes wrong?                  |
 | 34:54      | I also really want the glue here now that lets me connect these web-based automations                  |
@@ -686,29 +686,29 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 35:22      | my books can request a free book plate, which is just a little adhesive thing that goes                |
 | 35:26      | to your book.                                                                                          |
 | 35:27      | It's got a little sign on it and I'll sign them and I'll send them anywhere in the world.              |
-| 35:30      | And so I have like a WordPress form that just emails me.                                               |
+| 35:30      | And so I have like a [[WordPress]] form that just emails me.                                               |
 | 35:33      | And it's like on my Mac, I manage all that information in a number of spreadsheets.                    |
 | 35:38      | And so it's like, well, there are ways to get information out of an email and into a                   |
 | 35:43      | spreadsheet, but then you start getting in this very sort of kludgy situation of munging                |
 | 35:50      | data from one side to the other and it gets a bit of a mess and it's like, oh man, it                  |
 | 35:53      | would be nice if there was like a bridge somewhere that connects sort of all these automation          |
 | 35:57      | powers that I have on my local devices with the ones I want to do on web services.                     |
-| 36:01      | I mean, you know what, my solution to that problem would be, I wouldn't have the WordPress             |
+| 36:01      | I mean, you know what, my solution to that problem would be, I wouldn't have the [[WordPress]]             |
 | 36:05      | form go into email.                                                                                    |
-| 36:06      | I'd have the WordPress form send it into a Google sheet or an air table base or something              |
+| 36:06      | I'd have the [[WordPress]] form send it into a Google sheet or an air table base or something              |
 | 36:10      | for me.                                                                                                |
 | 36:11      | Yeah, that would be, that would be the smart way to do it, but I'm not that smart.                     |
 | 36:15      | I think you are that smart.                                                                            |
 | 36:17      | It's just you already had a system and I'm stuck in my ways.                                           |
 | 36:19      | Yeah, exactly.                                                                                         |
-| 36:20      | I've got my numbers spreadsheet.                                                                       |
+| 36:20      | I've got my [[Numbers]] spreadsheet.                                                                       |
 | 36:21      | I live in numbers on my Mac, which is I know a little weird, but I love, I do love it.                 |
-| 36:25      | I use Google docs a lot as well, but generally if I want to share stuff, but for some reason,          |
-| 36:28      | I just really, I really like numbers.                                                                  |
+| 36:25      | I use [[Google Docs]] a lot as well, but generally if I want to share stuff, but for some reason,          |
+| 36:28      | I just really, I really like [[Numbers]].                                                                  |
 | 36:30      | So it's so pretty, it is pretty, it is pretty, but also friendly to yeah, it's friendly,               |
-| 36:37      | but I find numbers is actually a really great automation tool that people don't realise is             |
+| 36:37      | but I find [[Numbers]] is actually a really great automation tool that people don't realise is             |
 | 36:41      | an automation tool.                                                                                    |
-| 36:43      | I had to, I was ripping diagnosis motor on DVD, I'm putting it on my Plex server because               |
+| 36:43      | I had to, I was ripping [Diagnosis: Murder](https://en.wikipedia.org/wiki/Diagnosis:_Murder) on DVD, I'm putting it on my [[Plex]] server because               |
 | 36:49      | trying to stream that it's just not possible over here in the UK can't stream anywhere.                |
 | 36:53      | So I bought the DVDs and I ripped them and I converted them and everything, but I had                  |
 | 36:58      | to name all the files, right, and so you're doing like diagnosis murder S01, E01 and so                |
@@ -724,8 +724,8 @@ In this episode, Rosemary and David are joined by author, podcaster, and automat
 | 37:35      | things like converting currencies and stuff, it's kind of a really good sneaky automation              |
 | 37:40      | tool.                                                                                                  |
 | 37:41      | It does have shortcut support at the very least for adding a new line down.                            |
-| 37:44      | So maybe what you need is a push cut automation server.                                                |
-| 37:47      | So when somebody posts to your WordPress forum, then push cut is the one that takes that hook,         |
+| 37:44      | So maybe what you need is a [[Pushcut]] automation server.                                                |
+| 37:47      | So when somebody posts to your [[WordPress]] forum, then push cut is the one that takes that hook,         |
 | 37:53      | drives it and saves the data into your number sheet for you.                                           |
 | 37:57      | That's going to be my next step.                                                                       |
 | 37:59      | I'll definitely be working on that as a new project idea for me.                                       |

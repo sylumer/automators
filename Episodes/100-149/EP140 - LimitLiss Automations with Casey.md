@@ -758,7 +758,7 @@ In this episode, David and Rosemary are joined by Casey Liss to talk about all t
 | 55:43      | especially if nobody actually uses Google Maps at the pool.                                              |
 | 55:46      | Right, exactly. And a couple other very quick ones. Somebody else, I can't remember for                  |
 | 55:51      | the life me who this was, it might have been one of you two for all I know, but somebody                 |
-| 55:54      | else like on Mastodon a month or two ago had, I forget where I saw it, but they had talked               |
+| 55:54      | else like on [[Mastodon]] a month or two ago had, I forget where I saw it, but they had talked               |
 | 55:59      | about how they were able to know when their devices needed to be plugged in. And that                    |
 | 56:05      | kind of just washed over me like a wave at the beach. I didn't really think anything                     |
 | 56:10      | of it. And then like just a few weeks ago, it occurred to me, wait a second. I do use                    |

@@ -79,7 +79,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:45      | discord, then hi, thanks for being a member.                                                              |
 | 01:48      | You can also use the question mark ask automators function that's in show follow up is probably           |
 | 01:53      | the best channel for that.                                                                                |
-| 01:55      | And of course, you can also use hashtag ask automators on Twitter.                                        |
+| 01:55      | And of course, you can also use hashtag `#askautomators` on [[Twitter]].                                        |
 | 01:58      | I do not have a masted on a hashtag search setup yet.                                                     |
 | 02:02      | That is actually surprisingly difficult to do, but I'll look into that for a future one.                  |
 | 02:08      | So maybe we'll end up talking social media in the future, David.                                          |
@@ -106,15 +106,15 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 02:42      | Yeah.                                                                                                     |
 | 02:43      | Yeah.                                                                                                     |
 | 02:44      | Yeah.                                                                                                     |
-| 02:45      | So, Mastodon, are you on it?                                                                              |
+| 02:45      | So, [[Mastodon]], are you on it?                                                                              |
 | 02:48      | Is this how big of a deal is this to you?                                                                 |
-| 02:51      | Well, I mean, I have been on Mastodon for a very long time, so before the cool kids                       |
+| 02:51      | Well, I mean, I have been on [[Mastodon]] for a very long time, so before the cool kids                       |
 | 02:57      | thought it was cool.                                                                                      |
-| 02:58      | So for me, it's just another place where the same thing that I post to micro.blog and Twitter             |
+| 02:58      | So for me, it's just another place where the same thing that I post to [[micro.blog]] and [[Twitter]]             |
 | 03:04      | also goes.                                                                                                |
-| 03:05      | So I cross post, I post via micro.blog because it can just do all the things for me.                      |
+| 03:05      | So I cross post, I post via [[micro.blog]] because it can just do all the things for me.                      |
 | 03:11      | But for me, mostly it's just about being wherever people are going to be.                                 |
-| 03:15      | And there has been a huge movement of folks from Twitter to mastodon over the last couple                 |
+| 03:15      | And there has been a huge movement of folks from [[Twitter]] to [[Mastodon]] over the last couple                 |
 | 03:21      | of weeks and a month or so.                                                                               |
 | 03:23      | So I personally feel it's pretty important to be there just because otherwise I'm going                   |
 | 03:27      | to be missing out on all the fun things, you know, people have been tagging me and telling                |
@@ -122,8 +122,8 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 03:32      | So it's certainly been worth me being there.                                                              |
 | 03:34      | Yeah.                                                                                                     |
 | 03:35      | You know, I just am not very good at engaging in these large social media platforms.                      |
-| 03:39      | I've never been very good at Twitter.                                                                     |
-| 03:41      | I'm probably not going to be very good at mastodon, but I'm there too.                                    |
+| 03:39      | I've never been very good at [[Twitter]].                                                                     |
+| 03:41      | I'm probably not going to be very good at [[Mastodon]], but I'm there too.                                    |
 | 03:45      | What's your address, Rose?                                                                                |
 | 03:47      | I am rosemary orchard at snailedit.social because we're nailing it online slowly and socially              |
 | 03:54      | in this particular case, which is always good fun.                                                        |
@@ -133,13 +133,13 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 04:03      | I do like your idea, frankly, of just going in with all three of them, you know, and setting              |
 | 04:08      | up an automation.                                                                                         |
 | 04:09      | What is your backbone for your automation to post to all three at once?                                   |
-| 04:13      | Micro.blog, like I post to it and it's actually, I have that on my own domain name                      |
+| 04:13      | [[Micro.blog]], like I post to it and it's actually, I have that on my own domain name                      |
 | 04:20      | as well.                                                                                                  |
-| 04:21      | So it's, it's all mine, which is one of the beautiful things about Micro.blog.                          |
+| 04:21      | So it's, it's all mine, which is one of the beautiful things about [[Micro.blog]].                          |
 | 04:25      | Manton has done a really good job setting that up.                                                        |
-| 04:28      | And then that posts for me automatically to Twitter and mastodon.                                         |
+| 04:28      | And then that posts for me automatically to [[Twitter]] and [[Mastodon]].                                         |
 | 04:33      | So that just does the things.                                                                             |
-| 04:35      | The automation is on Micro.blog.                                                                        |
+| 04:35      | The automation is on [[Micro.blog]].                                                                        |
 | 04:36      | They do the cross post for you.                                                                           |
 | 04:38      | Yeah.                                                                                                     |
 | 04:39      | Yeah.                                                                                                     |
@@ -152,18 +152,18 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 04:52      | The only downside of that is now you've got to go check three platforms when you post                     |
 | 04:56      | to see.                                                                                                   |
 | 04:57      | Ah, let's see.                                                                                            |
-| 04:58      | This is the trick because you don't actually have to use mastodon.                                        |
-| 05:03      | Micro.blog actually uses activity pub.                                                                  |
-| 05:06      | So people can just follow you on Micro.blog with their mastodon accounts, which means                   |
-| 05:10      | that the stuff will come back to Micro.blog if they do that.                                            |
+| 04:58      | This is the trick because you don't actually have to use [[Mastodon]].                                        |
+| 05:03      | [[Micro.blog]] actually uses activity pub.                                                                  |
+| 05:06      | So people can just follow you on [[Micro.blog]] with their [[Mastodon]] accounts, which means                   |
+| 05:10      | that the stuff will come back to [[Micro.blog]] if they do that.                                            |
 | 05:14      | I am currently not doing that for a number of different reasons, but I had that set up                    |
 | 05:19      | at one point and that was pretty great.                                                                   |
-| 05:21      | So I personally think that Micro.blog is really a community to be part of as well.                      |
+| 05:21      | So I personally think that [[Micro.blog]] is really a community to be part of as well.                      |
 | 05:25      | So.                                                                                                       |
 | 05:26      | Yeah.                                                                                                     |
 | 05:27      | Well, I, and I need to, I just need to kind of dive into what I'm going to be doing going                 |
 | 05:30      | forward.                                                                                                  |
-| 05:31      | Um, uh, I've been using Twitter historically, but now I'm on mastodon and I'm a big fan                   |
+| 05:31      | Um, uh, I've been using [[Twitter]] historically, but now I'm on [[Mastodon]] and I'm a big fan                   |
 | 05:36      | of Manton and, uh, the stuff he's done.                                                                   |
 | 05:39      | So I'm going to be looking into that.                                                                     |
 | 05:41      | There's a future show there.                                                                              |
@@ -279,23 +279,23 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 11:43      | really, you know, like the key point, uh, where I need to, I need that in a lot of flows.                 |
 | 11:49      | Um, and it's just not something that you can get at least at that time for me.                            |
 | 11:55      | It wasn't affordable to me.                                                                               |
-| 11:56      | I couldn't justify the price of paying, I believe it was $50 a month for Zapier when                      |
+| 11:56      | I couldn't justify the price of paying, I believe it was $50 a month for [[Zapier]] when                      |
 | 12:00      | I was on the $20 a month plan.                                                                            |
 | 12:02      | Uh, and I've just double checked.                                                                         |
 | 12:03      | Uh, it is still a higher tier plan if you need branching, um, which is a bit of a shame.                  |
 | 12:09      | Um, so, uh, make just includes that straight up, but the most, most important thing for                   |
 | 12:14      | me is it's visual.                                                                                        |
 | 12:16      | Okay.                                                                                                     |
-| 12:17      | So the, you know, if this and that and Zapier are both, there's a thing at the top and then               |
+| 12:17      | So the, you know, if this and that and [[Zapier]] are both, there's a thing at the top and then               |
 | 12:21      | there's an arrow taking you to the next thing and then there's an arrow taking you to the                 |
 | 12:23      | next thing and they're all squares.                                                                       |
 | 12:26      | [[Make]] is first of all cute little circles with the icon of whatever service in it is in there              |
 | 12:30      | that you're using.                                                                                        |
-| 12:31      | It's, um, discord, it's got a little discord thingy.                                                      |
+| 12:31      | It's, um, [[Discord]], it's got a little [[Discord]] thingy.                                                      |
 | 12:35      | I don't know what that, that it's like an animal-ish, monster-y cute thing.                               |
 | 12:39      | Either way, it's cute.                                                                                    |
-| 12:40      | If it's, if it's Google sheets, it'll be green with a like spreadsheet icon in it.                        |
-| 12:44      | Um, if it's, uh, Twitter, it'll be blue with the bird, uh, you know, you get the idea.                    |
+| 12:40      | If it's, if it's [[Google Sheets]], it'll be green with a like spreadsheet icon in it.                        |
+| 12:44      | Um, if it's, uh, [[Twitter]], it'll be blue with the bird, uh, you know, you get the idea.                    |
 | 12:48      | Um, and so you have those and you've got your dots linking them together, but then when                   |
 | 12:52      | there's branches, like you get multiple dots coming out and you can add filters on every                  |
 | 12:58      | single one of those connections if you want to.                                                           |
@@ -376,26 +376,26 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 17:30      | But you know, uh, otherwise it's, it's pretty inclusive.                                                  |
 | 17:34      | The list is pretty good.                                                                                  |
 | 17:36      | Yeah.                                                                                                     |
-| 17:37      | And I should say like, uh, for something like, for example, Mastodon, which doesn't have                  |
+| 17:37      | And I should say like, uh, for something like, for example, [[Mastodon]], which doesn't have                  |
 | 17:41      | an integration yet, because the way that these integrations get made to be clear, whether                 |
-| 17:44      | this is Zapier, if this is not or make, uh, is not that the Zapier developers go out there                |
+| 17:44      | this is [[Zapier]], if this is not or [[Make]], uh, is not that the [[Zapier]] developers go out there                |
 | 17:49      | and they make a thing, uh, which they may do for some really big platforms, like say                      |
-| 17:53      | WordPress.                                                                                                |
+| 17:53      | [[WordPress]].                                                                                                |
 | 17:54      | Um, but they're not going to do for a smaller service such as push cut, but the way that                  |
 | 17:59      | those come into being is that, um, you know, the, the developer of that service has to                    |
 | 18:05      | go and make that integration.                                                                             |
 | 18:07      | Um, and of course these three things, uh, from personal experience do not work in the                     |
 | 18:11      | same way.                                                                                                 |
-| 18:12      | Um, you some, you know, as Zapier and make our much easier, they can just connect to,                     |
+| 18:12      | Um, you some, you know, as [[Zapier]] and make our much easier, they can just connect to,                     |
 | 18:16      | uh, sorry, if this and that, um, and, and, and, uh, make our easier, they can just sort                   |
 | 18:21      | of connect to your usual API.                                                                             |
-| 18:23      | Um, but, um, if this and that does require a little more massageing and, uh, Zapier requires               |
+| 18:23      | Um, but, um, if this and that does require a little more massaging and, uh, [[Zapier]] requires               |
 | 18:29      | you to create like a whole little special thing, uh, for them, um, which fortunately                      |
 | 18:33      | for me is in [[JavaScript]], but, uh, I can imagine that for some developers, this might be a                 |
 | 18:38      | tricky thing to do.                                                                                       |
 | 18:39      | And in some cases it's just straight up not possible.                                                     |
 | 18:42      | Like I don't think you are going to see, uh, a [[Drafts]] integration with, um, make if this                  |
-| 18:48      | and that or Zapier ever because agile tortoise is using, uh, your cloud kit data and it's                 |
+| 18:48      | and that or [[Zapier]] ever because *Agile Tortoise* is using, uh, your [[CloudKit]] data and it's                 |
 | 18:54      | in your personal store and getting that into a way in, in a state that you can just sort                  |
 | 18:59      | of like read that data out and add things to it and so on.                                                |
 | 19:02      | Uh, I've personally tried using those cloud kit libraries, uh, for to try and get that                    |
@@ -482,26 +482,26 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 23:49      | which is partly cut off and then like you can you can keep scrolling for a very long                      |
 | 23:53      | time after that.                                                                                          |
 | 23:54      | Fortunately, there is a search, so you can't like, you know, type in, for example, if you're              |
-| 23:57      | looking for WordPress, then you can start by just typing in W, O, R, D and C and I mean,                  |
-| 24:03      | you'll still find there's a lot of other things that come up before WordPress, including Microsoft        |
-| 24:07      | Word templates, but you'll find the service that you're looking for and then once you've                  |
+| 23:57      | looking for [[WordPress]], then you can start by just typing in W, O, R, D and C and I mean,                  |
+| 24:03      | you'll still find there's a lot of other things that come up before [[WordPress]], including       |
+| 24:07      | [[Microsoft Word]] templates, but you'll find the service that you're looking for and then once you've                  |
 | 24:11      | got your service, then you get different actions and different things will, you know, show up             |
 | 24:18      | depending on what you're doing.                                                                           |
 | 24:21      | So for example, the watching posts being created is something that you can only have as a trigger,        |
-| 24:27      | but you can also use, create a comment on the WordPress theme as your trigger and then                    |
+| 24:27      | but you can also use, create a comment on the [[WordPress]] theme as your trigger and then                    |
 | 24:33      | you'll get like a little clock icon up here and then you'll see that this is set to run                   |
 | 24:38      | out regular intervals and for example, every 15 minutes or something, so you probably don't               |
 | 24:42      | want to create a comment every 15 minutes, but then you just right click on your module                   |
 | 24:45      | and delete it and then you go ahead and look for some, for whatever it is that you actually               |
 | 24:49      | do want to do.                                                                                            |
 | 24:50      | I find a lot of my things start with our air table and one of the big differences for                     |
-| 24:57      | me with make and Zapier is make can run on the same air table record multiple times.                      |
-| 25:05      | So the way that Zapier avoids you ending up in an infinite loop is they say, okay, we're                  |
+| 24:57      | me with make and [[Zapier]] is make can run on the same air table record multiple times.                      |
+| 25:05      | So the way that [[Zapier]] avoids you ending up in an infinite loop is they say, okay, we're                  |
 | 25:11      | gonna store the idea of the air table record that we are like watching, but they store                    |
 | 25:16      | that globally in your account for all of your automations.                                                |
 | 25:20      | So I can't have this air table record appearing in this view trigger automation A and then                |
 | 25:26      | the same air table record moving from view A to view B trigger automation B because that                  |
-| 25:32      | like it ran automation A and that's it in Zapier terms.                                                   |
+| 25:32      | like it ran automation A and that's it in [[Zapier]] terms.                                                   |
 | 25:36      | You know, that's the end of it.                                                                           |
 | 25:38      | But make says, okay, it's up to you to figure out a way to make sure that you don't make                  |
 | 25:45      | this run forever in an infinite loop.                                                                     |
@@ -568,18 +568,18 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 29:50      | in this scenario or that you've added a module from and then maybe you've removed a module.               |
 | 29:56      | So if I was creating a new scenario, like I've just been playing with an empty one here                   |
 | 30:01      | because I've got the automations one open in one window and I've got a blank one here.                    |
-| 30:05      | Because I added a WordPress action, I have the WordPress service at the bottom and I                      |
+| 30:05      | Because I added a [[WordPress]] action, I have the [[WordPress]] service at the bottom and I                      |
 | 30:09      | have the air table service.                                                                               |
-| 30:11      | Once I save this automation and leave it and then come back, the WordPress one won't be                   |
-| 30:15      | there because I don't have a WordPress module.                                                            |
+| 30:11      | Once I save this automation and leave it and then come back, the [[WordPress]] one won't be                   |
+| 30:15      | there because I don't have a [[WordPress]] module.                                                            |
 | 30:17      | So it'll clean that up, but it'll wait until you're done with it in case you started by                   |
-| 30:21      | going, right, I want to trigger this when WordPress does this thing.                                      |
-| 30:24      | Oh, actually, no, I want to trigger it when this thing happens and then use the WordPress                 |
+| 30:21      | going, right, I want to trigger this when [[WordPress]] does this thing.                                      |
+| 30:24      | Oh, actually, no, I want to trigger it when this thing happens and then use the [[WordPress]]                 |
 | 30:28      | action.                                                                                                   |
 | 30:29      | It doesn't remove it.                                                                                     |
 | 30:30      | So you can just click on any of those and it will show you the actions for that service,                  |
 | 30:35      | which is good if you've got that service built in or you're using that already.                           |
-| 30:39      | You might want to do more than one thing with Teachable at the same time.                                 |
+| 30:39      | You might want to do more than one thing with [[Teachable]] at the same time.                                 |
 | 30:42      | It's nice to be able to do that.                                                                          |
 | 30:43      | When you add one of those actions, it just sort of adds it as a free floating thing.                      |
 | 30:48      | And then you can just draw, you grab the toggle on one of the sides and you drag it to another            |
@@ -890,7 +890,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 49:33      | So you send us a cute picture of your cat, your dog, your snake, hamsters, whatever pet                   |
 | 49:39      | you may have and we'll feature it on the show when we include your feedback.                              |
 | 49:44      | And so when folks include the pet tax, I also need to handle attachments and I need to handle             |
-| 49:49      | them in a way that I can share them publicly with the folks over at Twitter so that they                  |
+| 49:49      | them in a way that I can share them publicly with the folks over at [[Twitter]] so that they                  |
 | 49:56      | get them, but also in a way that means that they get deleted pretty soon after that so                    |
 | 50:00      | that we don't have people's pictures saved onto a service that's not inside of their                      |
 | 50:07      | control because I don't want to have data hanging around unnecessarily.                                   |
@@ -1004,15 +1004,15 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 57:28      | Yes, exactly.                                                                                             |
 | 57:29      | So, you know, David, you mentioned earlier that you save all of your blog posts over                      |
 | 57:33      | to [[Day One]].                                                                                               |
-| 57:34      | Well, I'm guessing you're probably using RSS to do that.                                                  |
+| 57:34      | Well, I'm guessing you're probably using [[RSS]] to do that.                                                  |
 | 57:37      | Exactly.                                                                                                  |
-| 57:38      | And RSS is great because it works regardless of where your website is hosted or how your                  |
+| 57:38      | And [[RSS]] is great because it works regardless of where your website is hosted or how your                  |
 | 57:43      | website is hosted.                                                                                        |
-| 57:44      | So if you're on Squarespace, WordPress, Jackal, whatever service you're using, you probably               |
-| 57:49      | have an RSS feed.                                                                                         |
+| 57:44      | So if you're on [[Squarespace]], [[WordPress]], [[Jekyll]], whatever service you're using, you probably               |
+| 57:49      | have an [[RSS]] feed.                                                                                         |
 | 57:51      | And you know, it's great for that.                                                                        |
-| 57:53      | Now, the thing I want to mention is if you change that to using a WordPress hook, which                   |
-| 57:59      | is triggered specifically by WordPress, so WordPress is going, hey, I have posted a new                   |
+| 57:53      | Now, the thing I want to mention is if you change that to using a [[WordPress]] hook, which                   |
+| 57:59      | is triggered specifically by [[WordPress]], so [[WordPress]] is going, hey, I have posted a new                   |
 | 58:04      | post service, go do your thing, then it gets poked to go and do the thing instead of it                   |
 | 58:09      | going, hey, have you got anything for me?                                                                 |
 | 58:11      | Hey, have you got anything for me?                                                                        |
@@ -1020,26 +1020,26 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 58:18      | when this thing happened, then you would want to look at using a different trigger for that.              |
 | 58:24      | But saving something into [[Day One]], I'm guessing is not quite so time sensitive that you need              |
 | 58:29      | it to happen immediately.                                                                                 |
-| 58:30      | So the RSS feeds just fine.                                                                               |
-| 58:31      | And that WordPress hook thing also allows you to reduce the number of calls.                              |
+| 58:30      | So the [[RSS]] feeds just fine.                                                                               |
+| 58:31      | And that [[WordPress]] hook thing also allows you to reduce the number of calls.                              |
 | 58:36      | So you know, that's always important with make.                                                           |
 | 58:39      | And we were talking earlier in the show about social media, let's say you've got a blog                   |
-| 58:43      | in WordPress, you could use the WordPress hook to grab the URL from the RSS feed and                      |
-| 58:49      | publish it to, you know, your micro.blog or mastodon or Twitter or all the above.                         |
-| 58:55      | So there's just a lot of nice integration once you start understanding how RSS works                      |
+| 58:43      | in [[WordPress]], you could use the [[WordPress]] hook to grab the URL from the [[RSS]] feed and                      |
+| 58:49      | publish it to, you know, your [[micro.blog]] or [[Mastodon]] or [[Twitter]] or all the above.                         |
+| 58:55      | So there's just a lot of nice integration once you start understanding how [[RSS]] works                      |
 | 58:59      | with this stuff.                                                                                          |
 | 59:00      | All right.                                                                                                |
 | 59:01      | Now I'll go to the next one.                                                                              |
-| 59:02      | [[Amazon]] returns to OmniFocus.                                                                              |
+| 59:02      | *Amazon returns to OmniFocus.*                                                                              |
 | 59:05      | The thing I like about this is you're attaching the web, but you're also going to a local                 |
-| 59:09      | app like OmniFocus.                                                                                       |
+| 59:09      | app like [[OmniFocus]].                                                                                       |
 | 59:11      | So you've already told us a little bit about it, but I want to hear the gory details of                   |
 | 59:16      | how you're pulling this off.                                                                              |
 | 59:17      | All right.                                                                                                |
 | 59:18      | Well, I'm not going to go too far into the gory details because I don't think anybody's                   |
 | 59:21      | going to enjoy me reading regular expressions out.                                                        |
 | 59:26      | So I'll skip the precise details.                                                                         |
-| 59:29      | But basically what happens is I have a rule in FastMail, which is my mail provider, but                   |
+| 59:29      | But basically what happens is I have a rule in [[FastMail]], which is my mail provider, but                   |
 | 59:33      | you could use any online service to do this Gmail, whatever.                                              |
 | 59:37      | If you don't have the ability to create rules in your mail service, you could just use the                |
 | 59:43      | rules built into the mail app on your Mac, but you may find that not everything gets                      |
@@ -1168,17 +1168,17 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:07:35   | Okay, so they have air table and then that makes the show notes automatically.                            |
 | 01:07:40   | It's not making all of the show notes for us, folks.                                                      |
 | 01:07:42   | We still have to go in and fill in the actual details.                                                    |
-| 01:07:45   | But it means that we have a show file in Google Documents.                                                |
-| 01:07:52   | We're using Google Docs for this because it works so well, so easily with automation, sharing,            |
+| 01:07:45   | But it means that we have a show file in [[Google Docs\|Google Documents]].                                                |
+| 01:07:52   | We're using [[Google Docs ]]for this because it works so well, so easily with automation, sharing,            |
 | 01:07:59   | multiple people typing at the same time, and also with guests.                                            |
 | 01:08:02   | We can just give guests a link and they don't have to do anything in particular.                          |
-| 01:08:06   | Everybody's seen a Google Doc before.                                                                     |
+| 01:08:06   | Everybody's seen a [[Google Docs\|Google Doc]] before.                                                                     |
 | 01:08:09   | My main trigger for this is air table and it's searching for records and specifically                     |
 | 01:08:13   | is searching for records in a particular view called create outline.                                      |
 | 01:08:18   | The create outline view is just a filter in air table and it's looking for shows which                    |
-| 01:08:25   | are upcoming, which do not have a Google Docs link set up in them.                                        |
-| 01:08:32   | Because once I've created the Google Doc here, I update the air table record with that Google             |
-| 01:08:38   | Docs link, which conveniently moves the record out of the way.                                            |
+| 01:08:25   | are upcoming, which do not have a [[Google Docs]] link set up in them.                                        |
+| 01:08:32   | Because once I've created the [[Google Docs\|Google Doc]] here, I update the [[Airtable]] record with that [[Google Docs]]            |
+| 01:08:38   | link, which conveniently moves the record out of the way.                                            |
 | 01:08:43   | It's not going to run into that infinite loop.                                                            |
 | 01:08:45   | It's going and looking for these things and it's getting them.                                            |
 | 01:08:48   | It sorts them by episode number because we tend to do planning calls where we'll think                    |
@@ -1192,9 +1192,9 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:09:23   | I'll do an episode.                                                                                       |
 | 01:09:24   | David does an episode.                                                                                    |
 | 01:09:25   | So alternates between us.                                                                                 |
-| 01:09:26   | So it needs to go and check up who's doing what and then it uses the Google Docs action                   |
-| 01:09:33   | to create a Google Doc from a template.                                                                   |
-| 01:09:37   | So there is an actual template file that lives in Google Docs.                                            |
+| 01:09:26   | So it needs to go and check up who's doing what and then it uses the [[Google Docs]] action                   |
+| 01:09:33   | to create a [[Google Docs\|Google Doc]] from a template.                                                                   |
+| 01:09:37   | So there is an actual template file that lives in [[Google Docs]].                                            |
 | 01:09:42   | And I've selected this and it can then replace tags and tags in the template have two opening             |
 | 01:09:51   | curly brackets, name of the tag, to closing curly brackets.                                               |
 | 01:09:55   | So anything that's wrapped in those can then be replaced with a variable.                                 |
@@ -1204,9 +1204,9 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:10:15   | have made and sort of sketched out and thrown into air table.                                             |
 | 01:10:18   | All right.                                                                                                |
 | 01:10:19   | So let me just interrupt there for a second because I just want to put an exclamation point               |
-| 01:10:23   | next to Google document templates.                                                                        |
+| 01:10:23   | next to [[Google Docs\|Google document]] templates.                                                                        |
 | 01:10:25   | I think this is one of the best things you can do with make.                                              |
-| 01:10:29   | If you routinely work in Google Docs and you set this stuff up, the templates are not that                |
+| 01:10:29   | If you routinely work in [[Google Docs]] and you set this stuff up, the templates are not that                |
 | 01:10:35   | difficult and templating it out with automation feels like a win.                                         |
 | 01:10:40   | Yeah.                                                                                                     |
 | 01:10:41   | Yeah.                                                                                                     |
@@ -1230,7 +1230,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:11:44   | So it's always going to be automators and then the episode number and then the title                      |
 | 01:11:48   | of the episode, which would include the guest name if you've got a guest on the episode.                  |
 | 01:11:53   | And it's just so simple to do once you've spent like five minutes going through and                       |
-| 01:12:00   | setting it up, because David and I already had a Google Docs template, which he very                      |
+| 01:12:00   | setting it up, because David and I already had a [[Google Docs]] template, which he very                      |
 | 01:12:05   | graciously spent some time formatting and making it actually look pretty.                                 |
 | 01:12:09   | And so it's just even better to be able to just use that as our template and have the                     |
 | 01:12:15   | data just magically appear.                                                                               |
@@ -1239,7 +1239,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:12:22   | It's not going to be like an ugly templated doc, it's going to be as nice as you're willing               |
 | 01:12:26   | to make it.                                                                                               |
 | 01:12:27   | Yeah, exactly.                                                                                            |
-| 01:12:28   | And it is just a Google document.                                                                         |
+| 01:12:28   | And it is just a [[Google Docs\|Google document]].                                                                         |
 | 01:12:30   | Okay.                                                                                                     |
 | 01:12:31   | That's literally all it is.                                                                               |
 | 01:12:32   | It's in the same folder that David's and I show outlines live in.                                         |
@@ -1260,10 +1260,10 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:13:35   | the name or you're sending the information for the link back to error table.                              |
 | 01:13:40   | How are you?                                                                                              |
 | 01:13:41   | Yeah, because there's a make link action.                                                                 |
-| 01:13:43   | So there's a Google Docs action for make a link to a specific document and I take the                     |
+| 01:13:43   | So there's a [[Google Docs]] action for make a link to a specific document and I take the                     |
 | 01:13:49   | ID of the document that I just created and then that goes back into error table.                          |
 | 01:13:54   | So from error table, from that error table list of all of our upcoming shows, I can just                  |
-| 01:13:58   | click on any link to any episode and it'll just open that note straight in Google Docs                    |
+| 01:13:58   | click on any link to any episode and it'll just open that note straight in [[Google Docs]]                    |
 | 01:14:03   | for me so that I've got our show notes ready to go.                                                       |
 | 01:14:06   | And this works for both of us, obviously, because we both have access to the error table.                 |
 | 01:14:11   | And yeah, it's just a very simple thing.                                                                  |
@@ -1272,7 +1272,7 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:14:23   | The whole folder is actually public so that either us or Steven or Mike or anybody from                   |
 | 01:14:27   | really could just pop in there if they needed to.                                                         |
 | 01:14:30   | But by using that make link action, it just gets me the nice specific link for that document              |
-| 01:14:37   | because not all documents in Google Docs would necessarily be public and have a link like                 |
+| 01:14:37   | because not all documents in [[Google Docs]] would necessarily be public and have a link like                 |
 | 01:14:43   | that by default.                                                                                          |
 | 01:14:45   | But in this particular case, it does, but that make link action gives me the link and                     |
 | 01:14:49   | that updates the record.                                                                                  |
@@ -1298,8 +1298,8 @@ In this episode David and Rosemary dive into Make.com and get nerdy with a new o
 | 01:15:45   | So the first thing it should do would be delete that and then go through and do the rest of               |
 | 01:15:50   | it.                                                                                                       |
 | 01:15:51   | And I was like, you know what?                                                                            |
-| 01:15:52   | It doesn't matter if we have a couple of extra [[Google Sheets]] like Google Docs kicking                     |
-| 01:15:55   | around in Google Drive.                                                                                   |
+| 01:15:52   | It doesn't matter if we have a couple of extra [[Google Sheets]] like [[Google Docs]] kicking                     |
+| 01:15:55   | around in [[Google Drive]].                                                                                   |
 | 01:15:58   | It's not a big deal.                                                                                      |
 | 01:15:59   | We know which ones are right because they're linked in [[Airtable]].                                          |
 | 01:16:03   | So it's easy enough to handle them.                                                                       |

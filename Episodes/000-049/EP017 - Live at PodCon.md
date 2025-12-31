@@ -233,7 +233,7 @@ This week David and Rose come to us live from PodCon with a very enthusiastic au
 | 09:50      | Yes, workflows.                                                                                                    |
 | 09:51      | Yeah.                                                                                                              |
 | 09:52      | So I've made a simple workflow that allows me to take a document that it has image.                                |
-| 09:57      | So it's always scanner pro, it's you just find a piece of paper and it turns it into                               |
+| 09:57      | So it's always [[Scanner Pro]], it's you just find a piece of paper and it turns it into                               |
 | 10:00      | a PDF.                                                                                                             |
 | 10:01      | It does a really good job.                                                                                         |
 | 10:02      | It gets the contrast right.                                                                                        |

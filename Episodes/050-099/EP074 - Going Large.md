@@ -469,8 +469,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 33:08      | these are all the ones that have been submitted and they've gone through the [[Elgato]], I guess              |
 | 33:13      | approval process is the right word. Now you will find some of these are Windows only.                     |
 | 33:18      | And so they might not work on the Mac, but there are, there's ones there for running                      |
-| 33:25      | [[AppleScript]]. And there's KM link, which we'll get to and so on. But you know, that's where               |
-| 33:30      | I've got the ones for Philips Hue, Visual Code Studio, Nanoleaf, [[Keynote]] and [[Microsoft PowerPoint\|PowerPoint]],                  |
+| 33:25      | [[AppleScript]]. And there's [[KMLink]], which we'll get to and so on. But you know, that's where               |
+| 33:30      | I've got the ones for [[Philips Hue]], [[Visual Studio Code\|Visual Code Studio]], [[Nanoleaf]], [[Keynote]] and [[Microsoft PowerPoint\|PowerPoint]],                  |
 | 33:38      | because I have to use [[Microsoft PowerPoint\|PowerPoint]] at work. So I downloaded the [[Microsoft PowerPoint\|PowerPoint]] one. And you                     |
 | 33:44      | know, and all of these other ones, which is just, you know, it's very helpful to do that.                 |
 | 33:50      | And if you want, for example, to have a button, which shows you the mail icon with a little               |
@@ -482,11 +482,11 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 34:18      | you, you know, your inbox. So, you know, it could, it could be worse. I am considering,                   |
 | 34:23      | you know, hacking this and, and doing my own version with a couple of other applications                  |
 | 34:28      | where if I, if I've got something there, like, I would quite like to know the number of Omni              |
-| 34:32      | focus items that I have due today on my Omni focus button. But, you know, I haven't done                  |
+| 34:32      | focus items that I have due today on my [[OmniFocus]] button. But, you know, I haven't done                  |
 | 34:39      | that yet. So maybe, maybe by doing this, someone will do that for me. We'll see.                          |
 | 34:45      | Yeah, and Rose is right. There's a ton of custom actions, just to kind of round out some of                |
 | 34:50      | the built in ones in addition to the ones that manage your [[Stream Deck]]. There's a whole                   |
-| 34:54      | bunch of like Twitch studio and Twitter and things like that, where you can run those                     |
+| 34:54      | bunch of like [[Twitch]] studio and [[Twitter]] and things like that, where you can run those                     |
 | 35:00      | off the [[Stream Deck]]. One of the nice built in ones is a timer button. And I have two                      |
 | 35:06      | of those set up. I have a 45 minute one and a 10 minute one. And it's kind of my makeshift                |
 | 35:11      | Pomodoro. And if I want to like dig in on a project for 45 minutes, I just press the                      |
@@ -513,7 +513,7 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 36:57      | without anything else, just using the [[Stream Deck]] app, if you drag the multi action onto                  |
 | 37:03      | it, you know, onto one of your buttons, then you just add more actions into this. So say                  |
 | 37:10      | for example, I have a weekly meeting on Tuesday afternoons. And for this, I need to open a                |
-| 37:18      | zoom link and a Google Docs link. And so I have two website actions in that button, which                 |
+| 37:18      | zoom link and a [[Google Docs]] link. And so I have two website actions in that button, which                 |
 | 37:24      | both open, you know, URLs, but then I press on the button once. And it does both of those                 |
 | 37:29      | things for me. It does them consecutively, not simultaneously for people listening. So                    |
 | 37:34      | you know, if you if you need things to happen in a certain order, then you can, you know,                 |
@@ -1043,8 +1043,8 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:22:48   | stop video unless you don't have a camera attached in which case it's still there, it's                   |
 | 01:22:51   | just grayed out. So you're fine anyway. But yeah, I mean, I have experimented with adding                 |
 | 01:22:59   | some of these buttons to individual profiles that are created for certain uses. So for                    |
-| 01:23:08   | example, at the meeting that I do every Tuesday afternoon, where I start by opening the Zoom              |
-| 01:23:18   | link and the Google Docs link, I then activate a profile. And this profile has very few buttons           |
+| 01:23:08   | example, at the meeting that I do every Tuesday afternoon, where I start by opening the [[Zoom]]              |
+| 01:23:18   | link and the [[Google Docs]] link, I then activate a profile. And this profile has very few buttons           |
 | 01:23:23   | in it, it has a button for the Google Doc, and then a button from to activate [[Safari]].                     |
 | 01:23:31   | So if I'm if [[Safari]] is not activated, I can just switch back to that if it is open. It's                  |
 | 01:23:36   | got a button for zoom. And then it's got the toggle video button, the toggle mute button                  |
@@ -1348,14 +1348,14 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:47:55   | have our magic [[Dropbox]] folder that we've shared. And it never remembers that it always wants              |
 | 01:48:00   | to go to the desktop or some other place. And then I have to navigate around folders                      |
 | 01:48:05   | just to get to my my artwork kind of treasure chest. And you know, all these little like,                 |
-| 01:48:12   | you know, little pinpricks of pain. The other pet peeve I have, which is not streamed x                   |
-| 01:48:18   | fault, but it is toggles fault, I want a whole list of toggler timers I want to start off.                |
+| 01:48:12   | you know, little pinpricks of pain. The other pet peeve I have, which is not [[Stream Deck\|Stream Deck's]]                   |
+| 01:48:18   | fault, but it is [[Toggl\|Toogl's]] fault, I want a whole list of [[Toggl]] timers I want to start off.                |
 | 01:48:26   | And people have tried I know you even took a stab at it at once. And there's really                       |
 | 01:48:29   | no good consistent way to trigger toggle timers, you know, the toggle app doesn't make it easy            |
 | 01:48:36   | to have like just a magic URL you can insert it'll start a timer. So that doesn't work.                   |
 | 01:48:42   | If you try to do like UI scripting, it's never consistent. Yeah, there there is some hope.                |
 | 01:48:49   | I think it's public knowledge, the time where he guy is working on a Mac version and hopefully            |
-| 01:48:53   | he'll come up, he put it on Twitter. So we're not the only people that know about it. Good.               |
+| 01:48:53   | he'll come up, he put it on [[Twitter]]. So we're not the only people that know about it. Good.               |
 | 01:48:57   | So in him, and I've been emailing him, I said, even just like a menu item where I could choose            |
 | 01:49:03   | between my save timers would be enough for me to do this with with a [[Keyboard Maestro]]                     |
 | 01:49:08   | script. And as it currently works, you can do up to 10 save timers that way. But I want                   |
@@ -1366,9 +1366,9 @@ Rose and David have gone all-in with Elgato's Stream Deck as an automation tool.
 | 01:49:34   | our [[Keyboard Maestro]] and running sort of shell scripts with curl to talk directly to the                  |
 | 01:49:39   | toggle API. If that sounds horribly complicated to you, then guess what my experience with                |
 | 01:49:44   | creating this was? Not fun. The other thing that I've done, which I'm not sure I can recommend            |
-| 01:49:51   | it necessarily is I have a little iPod touch here running the push cut automation server.                 |
+| 01:49:51   | it necessarily is I have a little iPod touch here running the [[Pushcut]] automation server.                 |
 | 01:49:57   | I have done the get URL with the checkbox on the website command. So it just does it in                   |
-| 01:50:01   | the background to ping the push cut server to run a start timer action. This works as                     |
+| 01:50:01   | the background to ping the [[Pushcut]] server to run a start timer action. This works as                     |
 | 01:50:11   | part of a multi action, but you don't have any of that data then available on the Mac,                    |
 | 01:50:16   | which is a real shame. So yeah, have to wait and see what happens there. And hopefully,                   |
 | 01:50:22   | when Timery for Mac comes, you know, Joe will see how successful it is because I'm                       |

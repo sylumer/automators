@@ -209,15 +209,15 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 14:04      | you may come up with a rule to do something to all email from Rosemary, like if you want                   |
 | 14:08      | it. Yeah. Yeah, exactly. And then you can retroactively apply that, which is great.                        |
 | 14:13      | The other feature I want to talk about, which you get for free, it's on by default. You                    |
-| 14:18      | may have disabled this, are categories in Gmail. So Google can turn on these smart features                |
+| 14:18      | may have disabled this, are categories in [[Gmail]]. So [[Google]] can turn on these smart features                |
 | 14:27      | where it will split up your inbox for you. And the categories are primary, social promotions,              |
 | 14:33      | updates, and forums. So basically, what it's trying to do is get any and all automated                     |
 | 14:38      | email you receive out of primary into one of the other categories. So if you have, for                     |
-| 14:43      | example, the Automated Forum, send you email when somebody posts and you've not been around                |
+| 14:43      | example, the [Automators Forum](https://talk.automators.com), send you email when somebody posts and you've not been around                |
 | 14:49      | in a while, which is something you can set up under your profile settings, then that                       |
 | 14:53      | would appear under forums. But something that is from David Sparks, your newsletter, would                 |
 | 15:00      | probably appear under updates. An email from [[Amazon]] telling you about today's treasure                     |
-| 15:05      | truck deal would land in promotions and updates from Twitter would land under social. And                  |
+| 15:05      | truck deal would land in promotions and updates from [[Twitter]] would land under social. And                  |
 | 15:10      | it will just take that stuff and automatically move it. Now, this does mean that it kind                   |
 | 15:15      | of splits up your inbox. You then don't just have an inbox, you've got five inboxes, but                   |
 | 15:20      | equally, the important stuff should make it to primary. And you can train it a little                      |
@@ -250,7 +250,7 @@ Email automation is a thing, but email rules-based automation is another thing e
 | 18:04      | It's in both of these are online rules, but these are automated rules done by somebody                     |
 | 18:08      | else, which I think is another piece of this.                                                              |
 | 18:11      | Yes, it definitely is. And, you know, you have to decide on what works well for you.                       |
-| 18:18      | The other thing that Google Docs does, or Google email, sorry, there's so many Google                      |
+| 18:18      | The other thing that [[Google Docs]] does, or [[Gmail\|Google email]], sorry, there's so many Google                      |
 | 18:22      | things in my life. The thing that Gmail does is it'll it easily applies tags to email.                     |
 | 18:29      | So if you want to go with a tag based system, I think Google is one of the best solutions                  |
 | 18:34      | for that because it's built in, it works reliably. And well, even though you may not                       |

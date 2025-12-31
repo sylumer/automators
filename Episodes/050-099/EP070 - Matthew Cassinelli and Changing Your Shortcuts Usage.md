@@ -77,7 +77,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 00:37      | so I'm going to just follow her lead.                                                                                            |
 | 00:39      | You're David Sparks. I could never admonish you for that.                                                                        |
 | 00:43      | Yeah. People call me Sparky. Sometimes they call me names that are not so nice, but I try to avoid that.                         |
-| 00:51      | Well, I think Matthew, some of the confusion comes from the fact that Twitter does not allow long enough                         |
+| 00:51      | Well, I think Matthew, some of the confusion comes from the fact that [[Twitter]] does not allow long enough                         |
 | 00:55      | handle feed to have your full name, so I'm guessing you had a choice between Matthew Cassinelli or Matt Cassinelli.              |
 | 01:01      | Yes. That is forever makers. Even if a platform does allow it, then it's confusing because it's not the same as every other one. |
 | 01:10      | Somebody should automate something and fix that.                                                                                 |
@@ -139,13 +139,13 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 06:37      | and I'm not joking when I was saying like over 1000 of them. So that just literally took me,                                     |
 | 06:42      | I think, like a week to do. But then pretty much after that, I was completely overwhelmed,                                       |
 | 06:49      | and it was way too much. They were all in folders and everything. I have a whole widget                                          |
-| 06:56      | system too, where I mean, a lot of it becomes down to using apps like notes, or Timery, or things                                |
+| 06:56      | system too, where I mean, a lot of it becomes down to using apps like [[Apple Notes\|Notes]], or [[Timery]], or things                                |
 | 07:04      | set to specific lists for those different contexts on each different page. And even                                              |
-| 07:10      | how I use shortcuts on a whole, I have a colour coding system by context that I had to develop                                    |
+| 07:10      | how I use [[Shortcuts]] on a whole, I have a colour coding system by context that I had to develop                                    |
 | 07:16      | before we got folders, because I was also completely overwhelmed having 1000 in a giant list. So                                 |
 | 07:23      | basically now, I went through a whole just like paying attention to what I was doing and realised                                |
 | 07:30      | that that wasn't working for me. And so I even just in the last few weeks, blew up my whole                                      |
-| 07:35      | shortcuts library and turned those 1000 shortcuts into much smaller, or I wouldn't say smaller                                   |
+| 07:35      | [[Shortcuts]] library and turned those 1000 shortcuts into much smaller, or I wouldn't say smaller                                   |
 | 07:42      | shortcuts, much fewer shortcuts, using menus that did the same functionality as pretty much                                      |
 | 07:47      | each of those folders was doing. And then now those are all on my home screen as just a single                                   |
 | 07:52      | shortcut. And it's fantastic. And even one other step that I just went through, I think a few days                               |
@@ -156,7 +156,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 08:23      | my shortcuts had been so much smaller, they fit in there. And then by device, I really did have                                  |
 | 08:28      | the ones that I wanted to use the most. And it just like kind of lined up and I was like, well,                                  |
 | 08:32      | that was awesome. So that's my whole, I've gone through a whole journey the last like six months                                 |
-| 08:40      | into widgets and then out into shortcuts. And it does feel like it's actually like I was                                         |
+| 08:40      | into widgets and then out into [[Shortcuts]]. And it does feel like it's actually like I was                                         |
 | 08:48      | struggling with it for so long that I was like, Oh, now it works. And it's just kind of easy.                                    |
 | 08:52      | And I was like, this, I was so used to it being a problem that I'm like relieved or like it's                                    |
 | 08:57      | confusing because it's not a problem anymore. So I'm pretty stoked. So you're using like choose                                  |
@@ -165,11 +165,11 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 09:13      | shortcuts on the home screen because the widgets do force you into four or eight. I think I might                                |
 | 09:20      | add in the four widget shortcuts a little bit more even because at a certain point I am trying to                                |
 | 09:28      | make the home screens just look nice and having not every category that I've created, like I think                               |
-| 09:35      | because apps like Ulysses don't have a home screen widget, I don't have one for my blogging category.                            |
+| 09:35      | because apps like [[Ulysses]] don't have a home screen widget, I don't have one for my blogging category.                            |
 | 09:41      | And so putting my shortcuts there might work, but there is sort of a uniformity of like having                                   |
 | 09:46      | all on the home screen as opposed to in the widgets. I did go before the home screen thing,                                      |
 | 09:51      | I was doing a lot of shortcuts stacks with 10 shortcuts in one single stack. And then using                                      |
-| 09:58      | that as a way to contxtualisethings. But I think I just had there, maybe we can address this                                   |
+| 09:58      | that as a way to contextualise things. But I think I just had there, maybe we can address this                                   |
 | 10:05      | throughout the show of there was just bugs. If the single shortcut widget wasn't working for,                                    |
 | 10:10      | I think, two months or something like that, I probably didn't even think about it until last                                     |
 | 10:15      | week because I just was, I didn't trust it anymore. And so there are some even home screen bugs. If                              |
@@ -183,15 +183,15 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 10:59      | I know at some point you were doing something with icons. How are you organising your shortcuts                                  |
 | 11:03      | right now? I mean, the icons were the only way I had any sort of concept for the 1500 shortcuts                                  |
 | 11:10      | before because it was still, I still had like, I do videos. And so I put them all into red just                                  |
-| 11:17      | because that's the colour of YouTube. And I, it took me a while and it was, this is probably one of                               |
+| 11:17      | because that's the colour of [[YouTube]]. And I, it took me a while and it was, this is probably one of                               |
 | 11:23      | those things where I spent way too much time on this because I work by myself and I like have the                                |
 | 11:28      | time to do it. And so most people are like, Oh, like, I really got down to like, which colours were                               |
 | 11:34      | for, and also like, which colours were for which category. And it was all entirely based off of                                   |
 | 11:40      | what colours are available in shortcuts. Or now I need to break out a little bit of, I only think                                 |
 | 11:46      | of the world through these shortcuts, which is not great. But now with less shortcuts, the menu,                                 |
 | 11:54      | the icons are less relevant because there's just fewer of them. It's, it's before I got really                                   |
-| 12:00      | detailed into, I mean, when I worked at workflow, I actually reorganised those icons because I didn't                            |
-| 12:05      | like the order and I, it was like a whole P list that I just switched the order. So it's made some                               |
+| 12:00      | detailed into, I mean, when I worked at [[Workflow]], I actually reorganised those icons because I didn't                            |
+| 12:05      | like the order and I, it was like a whole [[plist]] that I just switched the order. So it's made some                               |
 | 12:12      | logical sense. And so I have like a very intimate knowledge of every single icon in shortcuts.                                   |
 | 12:16      | But I also had every single step that is now within those menus was named for Siri. And I think                                  |
 | 12:25      | that's where I got a little hung up was just making Siri shortcuts. Like I really wanted                                         |
@@ -393,7 +393,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 31:10      | totally get even though take screenshot is one of those where I'm like great then I was like wait                                |
 | 31:15      | so how am I going to use that and I think orientation lock totally makes sense and I think                                       |
 | 31:21      | that's an interesting I went I did think about this topic that I'm curious if you agree that                                     |
-| 31:27      | some I saw somebody on Twitter saying I want this as a function in settings that I can just set by                               |
+| 31:27      | some I saw somebody on [[Twitter]] saying I want this as a function in settings that I can just set by                               |
 | 31:33      | app and I'm curious if this is either now what [[Apple]] is just going to give people to so that they                                |
 | 31:39      | can do it but not make it into a feature and or it's going to be this is how they test whether                                   |
 | 31:46      | or not they should do that and if everybody loves this they might add it like or because I pretty                                |
@@ -546,8 +546,8 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 46:04      | yourself up over it and like there is a role for technology in that to help you you know nicely get                              |
 | 46:12      | through that and work on that muscle of focus and um and I think shortcuts is a great tool to help                               |
 | 46:20      | you it's a way to like rewire your phone and your brain into like a gentle way to do what you want                               |
-| 46:28      | to do while also I think what I've enjoyed is also making room for my Twitter shortcut that                                      |
-| 46:35      | I'm gonna use Twitter but maybe this shortcut helps me open certain like searches more intentionally                             |
+| 46:28      | to do while also I think what I've enjoyed is also making room for my [[Twitter]] shortcut that                                      |
+| 46:35      | I'm gonna use [[Twitter]] but maybe this shortcut helps me open certain like searches more intentionally                             |
 | 46:42      | and quicker and not get lost in just scrolling and I think I've been enjoying that of both                                       |
 | 46:49      | like getting more done but just the the lights are nicer or now I can use my music library more                                  |
 | 46:55      | and so I'm listening to more music and that makes me happy and so yeah I think it does I I always                                |
@@ -558,7 +558,7 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 47:27      | and how you're being affected by the world because you're stuck in the same space and so                                         |
 | 47:33      | having control over your digital space I think makes a big difference like it's given me a sense                                 |
 | 47:39      | of peace to have this sorted out where I felt like my my house wasn't in order so that it's been                                 |
-| 47:44      | awesome hey tell us a little bit about your Twitter shortcuts and and what do they do                                            |
+| 47:44      | awesome hey tell us a little bit about your [[Twitter]] shortcuts and and what do they do                                            |
 | 47:50      | sure it is now one shortcut which is great and one of the benefits of combining all of these                                     |
 | 47:59      | shortcuts together into one menu is the ability to I mean often I don't you might run into this is                               |
 | 48:06      | if I want to have the ability to have some sort of input I will at the beginning of a lot of                                     |
@@ -570,19 +570,19 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 48:39      | and just get really duplicative and and it is in the process I think I just made something better                                |
 | 48:46      | because I had some parts in one shortcut but not in the other so I mean on a on the simpler level                                |
 | 48:53      | or let me just run it so I can double check what these menus are saying and I have one one of the                                |
-| 48:59      | steps opens into my different Twitter lists so if you go on the web and look at your lists there's                               |
-| 49:05      | a unique ID in there and then you can open a deep link into Twitter into that specific list                                      |
-| 49:11      | this has been something that I've been that's like how I've used Twitter for the last five                                       |
+| 48:59      | steps opens into my different [[Twitter]] lists so if you go on the web and look at your lists there's                               |
+| 49:05      | a unique ID in there and then you can open a deep link into [[Twitter]] into that specific list                                      |
+| 49:11      | this has been something that I've been that's like how I've used [[Twitter]] for the last five                                       |
 | 49:15      | years is by opening into these lists using even workflow back in the day because I just use those                                |
 | 49:21      | lists to curate I mean I follow 6,000 people now and I actually follow I mean most of them aren't                                |
-| 49:28      | not a good chunk of them are unless because Twitter doesn't make it easy to manage but                                           |
+| 49:28      | not a good chunk of them are unless because [[Twitter]] doesn't make it easy to manage but                                           |
 | 49:32      | that's how I follow different contexts and it's very kind of like I didn't even think about that                                 |
 | 49:37      | until now that it's I'm doing that same thing there um a couple others are just like I built these                               |
 | 49:43      | for live tweeting like during [[WWDC]] it can just automatically append a hashtag to the end of                                      |
 | 49:48      | every tweet before I send it out so that I just don't have to remember how to do that and people                                 |
 | 49:53      | can mute me if they want um different ways to I've also done a series of ways to search and then add um                          |
-| 50:02      | are they called parameters I don't remember with the search like advanced search terms in Twitter                                |
-| 50:07      | where if you can put like filter colon follows it will search only people that you follow on Twitter                             |
+| 50:02      | are they called parameters I don't remember with the search like advanced search terms in [[Twitter]]                                |
+| 50:07      | where if you can put like filter colon follows it will search only people that you follow on [[Twitter]]                             |
 | 50:14      | and so that's kind of like my own personal google search for all of you and it just like                                         |
 | 50:19      | I found good book recommendations actually just by doing that um another one is self-search where                                |
 | 50:25      | I just search my own tweets to see when I said something because I usually talk about shortcuts                                  |
@@ -604,10 +604,10 @@ In this episode, David and Rosemary are joined by Matthew Cassinelli to talk abo
 | 51:56      | dictionary that I want to use and so it's called tweet deeds and I think even um I think I saw                                   |
 | 52:03      | at some point like Gruber has some sort of [[AppleScript]] where he does the same thing and turns                                   |
 | 52:07      | it into markdown and I was like oh yeah I totally have a tweet a tweet or a shortcut that can do                                 |
-| 52:11      | that too which is fun yeah and then all of that is launched from a Twitter icon on your home screen                              |
+| 52:11      | that too which is fun yeah and then all of that is launched from a [[Twitter]] icon on your home screen                              |
 | 52:17      | yes but it also can be from the share sheet as well sure or if I copy a tweet link and then                                      |
 | 52:22      | run that icon it'll grab the link automatically. So I have like the same thing for YouTube sometimes                             |
-| 52:30      | or the thing I want to I need to expand the Twitter one more to put it into my task manager to put                               |
+| 52:30      | or the thing I want to I need to expand the [[Twitter]] one more to put it into my task manager to put                               |
 | 52:35      | into I now use [[Notion]] and I have access to their API and so I've been that's been a whole fun                                    |
 | 52:41      | experiment because I can build a whole mess on top of that.                                                                      |
 | 52:47      | This episode of The Automators is brought to you by ExpressVPN. Go to expressvpn.com/                                      |

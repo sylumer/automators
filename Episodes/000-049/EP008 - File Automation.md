@@ -1132,7 +1132,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 43:18      | or open up my Mac and scan it in,                                                                                       |
 | 43:21      | rename it and email it to the secretary at work.                                                                        |
 | 43:23      | That's the last thing I feel like doing if I'm sick.                                                                    |
-| 43:26      | So I have a scan bot workflow,                                                                                          |
+| 43:26      | So I have a [[Scanbot]] workflow,                                                                                          |
 | 43:28      | which thankfully I very rarely need to use,                                                                             |
 | 43:30      | where I can just scan it, press a button,                                                                               |
 | 43:32      | and it sends it off to the secretarial position at work,                                                                |
@@ -1142,17 +1142,17 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 43:43      | knowing that if I'm sick, that's there.                                                                                 |
 | 43:46      | It's one button, take photo, one button, and I'm done.                                                                  |
 | 43:49      | Yeah, [[Scanner Pro]] is the best app for that, I think.                                                                |
-| 43:53      | The other one that's in the ballpark is [[Scan Bot]],                                                                   |
-| 43:56      | and Scan Bot does a thing where it gives you                                                                            |
+| 43:53      | The other one that's in the ballpark is [[Scanbot]],                                                                   |
+| 43:56      | and [[Scanbot]] does a thing where it gives you                                                                            |
 | 43:59      | a series of tokens for the names.                                                                                       |
 | 44:02      | So a token will be your location,                                                                                       |
 | 44:04      | because it knows where you're at.                                                                                       |
 | 44:06      | Another token will be the date and the format that Rose and I love.                                                     |
 | 44:09      | Another token will be tokens you've created.                                                                            |
-| 44:11      | I jump between [[Scanner Pro]] and [[Scan Bot]].                                                                        |
+| 44:11      | I jump between [[Scanner Pro]] and [[Scanbot]].                                                                        |
 | 44:14      | Right now I'm using [[Scanner Pro]],                                                                                    |
-| 44:16      | because I feel like it's more automation-friendly than [[Scan Bot]],                                                    |
-| 44:19      | but I like the design of [[Scan Bot]] better                                                                            |
+| 44:16      | because I feel like it's more automation-friendly than [[Scanbot]],                                                    |
+| 44:19      | but I like the design of [[Scanbot]] better                                                                            |
 | 44:22      | if that makes sense.                                                                                                    |
 | 44:23      | So I'm using [[Scanner Pro]] because the automation is better,                                                          |
 | 44:26      | but one of the things I did with Scan Bot                                                                               |
@@ -1171,7 +1171,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 45:09      | Definitely.                                                                                                             |
 | 45:10      | I mean, it's amazing what you can do.                                                                                   |
 | 45:12      | For example, I'm just looking at [[Scanner Pro]]                                                                        |
-| 45:14      | because you're mentioning the variables or the tokens in [[Scan Bot]].                                                  |
+| 45:14      | because you're mentioning the variables or the tokens in [[Scanbot]].                                                  |
 | 45:17      | And they have tokens as well for parts of the date,                                                                     |
 | 45:21      | so year, month, day, which is our preferred format and all of that.                                                     |
 | 45:24      | It's really nice to be able to use that                                                                                 |
@@ -1275,7 +1275,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 49:48      | Let us know what it is.                                                                                                 |
 | 49:50      | The most common question I got after publishing the [Paperless Field Guide](https://learn.macsparky.com/p/paperless)    |
 | 49:52      | was where is [[Hazel]] for PC?                                                                                          |
-| 49:57      | And the answer, I have a TextExpander snippet for that.                                                                 |
+| 49:57      | And the answer, I have a [[TextExpander]] snippet for that.                                                                 |
 | 50:01      | The answer is really there isn't one.                                                                                   |
 | 50:03      | Somebody tried to just completely rip it off at one point                                                               |
 | 50:06      | and they made an app called [[Belvedere]],                                                                              |
@@ -1322,7 +1322,7 @@ When automating files on the Mac, Smart Folders, Hazel, and [[Keyboard Maestro]]
 | 51:29      | Don't miss us in the forums.                                                                                            |
 | 51:31      | Rose, where should people go to see you on the internet?                                                                |
 | 51:34      | [RosemaryOrchard.com](https://RosemaryOrchard.com) and RosemaryOrchard is my handle                                   |
-| 51:38      | on Micro.blog, Twitter, Mastodon, everywhere basically.                                                                 |
+| 51:38      | on [[Micro.blog]], [[Twitter]], [[Mastodon]], everywhere basically.                                                                 |
 | 51:42      | Yes, where can people find you?                                                                                         |
 | 51:44      | I am over at [macsparky.com](https://macsparky.com) and I'm also at [learn.macsparky.com](https://learn.macsparky.com). |
 | 51:49      | I'm going to put a free, I'm going to put a $5 discount                                                                 |

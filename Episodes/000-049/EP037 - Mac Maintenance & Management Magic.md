@@ -639,7 +639,7 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 51:30      | the experience I have is it allows me to avoid getting sidetracked. I think when I first sit            |
 | 51:35      | down, my computer's a very easy time to find myself drifting into the web browser or [[Amazon]]             |
 | 51:40      | or someplace where I would get sidetracked. Yes. Yeah, I find that as well. I sit down and it's         |
-| 51:45      | like, oh, I'll just quickly check Twitter, and then like three hours later, it's like, wait,            |
+| 51:45      | like, oh, I'll just quickly check [[Twitter]], and then like three hours later, it's like, wait,            |
 | 51:49      | what rabbit hole did I fall into? Well, there was Mary Poppins, and there was something about this      |
 | 51:53      | word Mandalorian. I still don't know what that is, and I'm very, like, I don't want to Google it        |
 | 51:57      | in case I find spoilers. Here's the thing, I don't want spoilers. Yeah, I don't blame you. I don't      |
@@ -823,8 +823,8 @@ In this episode, David and Rosemary set their sights on Mac maintenance and how 
 | 01:07:21   | Okay. I always like to talk about some of the automation problems we're solving or working on.          |
 | 01:07:27   | You got any this month, Russ? Oh, yes. I'm just looking at my shortcuts. And I've actually got a        |
 | 01:07:33   | couple of little ones. And the first one is actually one that I made for [[Mikah Sargent]]. He's a fellow    |
-| 01:07:39   | host on Relay FM. He hosts Clockwise here. But he also hosts a couple of shows over on the             |
-| 01:07:45   | Twitter network. And I was a guest on iOS today the other day. And one of the things that we did        |
+| 01:07:39   | host on Relay FM. He hosts [[Clockwise]] here. But he also hosts a couple of shows over on the             |
+| 01:07:45   | [[Twitter]] network. And I was a guest on iOS today the other day. And one of the things that we did        |
 | 01:07:51   | is we talked about a bunch of writing apps. And I had a ton of writing apps I wanted to talk about.     |
 | 01:07:56   | And then I realised I had to find app store links for them and how much they cost. And I was there      |
 | 01:08:01   | going, hmm, I can automate this. And I have to say I did automate this with shortcuts. And I just       |

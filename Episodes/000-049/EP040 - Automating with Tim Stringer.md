@@ -762,14 +762,14 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 41:39      | Then when you sign up, use the code AUTOMATORS in all capitals at checkout to get an awesome             |
 | 41:44      | 30% off your first invoice.                                                                              |
 | 41:48      | Thanks to Pingdom from SolarWinds for their support of this show and relayfm.                            |
-| 41:53      | So Tim, you've already mentioned that you've got some things going on with Zapier, but                   |
+| 41:53      | So Tim, you've already mentioned that you've got some things going on with [[Zapier]], but                   |
 | 41:57      | I'm sure you've got more than just one or two automations.                                               |
 | 41:59      | Could you tell us some more about what you're doing with that?                                           |
 | 42:02      | Yeah, sure.                                                                                              |
-| 42:03      | A lot of them revolve around their nominee focus, and that's a WordPress site.                           |
-| 42:07      | And a couple of the plug-in components of the site do have support for Zapier, in particular             |
+| 42:03      | A lot of them revolve around their nominee focus, and that's a [[WordPress]] site.                           |
+| 42:07      | And a couple of the plug-in components of the site do have support for [[Zapier]], in particular             |
 | 42:15      | WooCommerce, which is what I use for all of the e-commerce transactions and subscriptions                |
-| 42:21      | and so forth, as well as there's an excellent WordPress plug-in called GravityForms.                     |
+| 42:21      | and so forth, as well as there's an excellent [[WordPress]] plug-in called GravityForms.                     |
 | 42:28      | So I can essentially create zaps that treat these WooCommerce and GravityForms as just                   |
 | 42:35      | like other services.                                                                                     |
 | 42:36      | And so I could say if a one that I built quite recently is if there's a payment that fails,              |
@@ -781,7 +781,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 43:05      | So instead of getting an email to say this payment is failed, it's just adding it to                     |
 | 43:08      | the list in [[Asana]].                                                                                       |
 | 43:10      | It's even pulling in the information about when was the last subscription payment.                       |
-| 43:16      | It automatically builds a link that I can click on that takes me back into the WordPress                 |
+| 43:16      | It automatically builds a link that I can click on that takes me back into the [[WordPress]]                 |
 | 43:22      | site back to that specific record in WooCommerce so I can get a better idea of what's going              |
 | 43:28      | on.                                                                                                      |
 | 43:29      | And one nice thing about that is it really just takes email out of the equation.                         |
@@ -1189,7 +1189,7 @@ Tim Stringer from learnomnifocus.com joins the Automators to talk about his Mac,
 | 01:09:16   | That's about it.                                                                                         |
 | 01:09:17   | Tim Stringer.com is one where I post more on the personal side of life, my yoga and meditation           |
 | 01:09:22   | practice and things like that.                                                                           |
-| 01:09:24   | And so you can check that out and I'm on Twitter at Tim Stringer, T-I-M-S-T-R-I-N-G-E-R.                 |
+| 01:09:24   | And so you can check that out and I'm on [[Twitter]] at Tim Stringer, T-I-M-S-T-R-I-N-G-E-R.                 |
 | 01:09:31   | All right.                                                                                               |
 | 01:09:32   | We'll put links for all of this stuff in the show notes.                                                 |
 | 01:09:34   | We are the Automators.                                                                                   |

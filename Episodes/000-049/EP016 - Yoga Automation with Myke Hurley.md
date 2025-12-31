@@ -42,7 +42,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 - [Noodlesoft - Noodlesoft - Simply Useful Software](https://www.noodlesoft.com/)
 - [Workflow - Powerful automation made simple.](https://workflow.is/)
 - [Use Siri Shortcuts - Apple Support](https://support.apple.com/en-us/HT209055)
-- [Discover IFTTT and Applets - IFTTT](https://IFTTTtt.com/discover)
+- [Discover IFTTT and Applets - IFTTT](https://[[IFTTT]].com/discover)
 - [Zapier | The easiest way to automate your work](https://zapier.com/)
 - [TextExpander | Communicate Smarter](https://textexpander.com/)
 - [Receipt Bank | Automated Bookkeeping and Data Entry - Receipt Bank](https://www.receipt-bank.com/)
@@ -60,7 +60,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 - [Pushover: Simple Notifications for Android, iOS, and Desktop](https://pushover.net/)
 - [About Tim Stringer - Learn OmniFocus](https://learnomnifocus.com/about-tim-stringer/)
 - [The Pen Addict - Relay FM](https://www.relay.fm/penaddict)
-- [Do more with iRobot - IFTTT](https://IFTTTtt.com/irobot)
+- [Do more with iRobot - IFTTT](https://[[IFTTT]].com/irobot)
 - [iRobot Vacuum Cleaning, Mopping & Outdoor Maintenance](https://www.irobot.com/)
 - [Braava® Mopping Robot | iRobot](https://store.irobot.com/default/robot-mop-braava/)
 - [Shows - Relay FM](https://www.relay.fm/shows)
@@ -611,7 +611,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 36:26      | all good podcasts have good preparation and so I have like a couple of things that's going on so        |
 | 36:32      | pretty much every day I'm doing some kind of prep for some show yeah so I and then there's two things   |
 | 36:37      | that's going on here I want to be able to quickly access the documents wherever they are wherever       |
-| 36:42      | they're google docs or sometimes [[Apple Notes]] and I also want to be able to set my toggle timers         |
+| 36:42      | they're [[Google Docs]] or sometimes [[Apple Notes]] and I also want to be able to set my toggle timers         |
 | 36:48      | for time tracking sure so I have a an action that it starts with a menu and it asks me which show       |
 | 36:55      | and it has all of my shows listed um and I tap the show and then what will happen is uh it goes         |
 | 37:02      | it's like a it goes to each show and it takes the name this is kind of this is kind of complicated      |
@@ -686,12 +686,12 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 43:34      | because I've just got home from work and I wanted to stop my my commuting timer I wanted to turn on     |
 | 43:39      | the lights um and I wanted to um usually remind me to do something i I do use [[Apple Reminders\|Reminders]] for just a      |
 | 43:46      | few things just to have it like tell me and uh it doesn't work then because it hasn't my iPhone         |
-| 43:52      | hasn't yet connected to the wi-fi or the HomePod hasn't yet recognised that the iPhone is              |
+| 43:52      | hasn't yet connected to the wi-fi or the [[HomePod]] hasn't yet recognised that the iPhone is              |
 | 43:57      | on the wi-fi and that one's frustrating um so I usually trigger that on my [[Apple Watch]] now which        |
 | 44:04      | is working quite nicely I have to say yeah that's something that could get better yeah definitely       |
 | 44:11      | but mike you don't just do [[Shortcuts\|Siri Shortcuts]] you also have gone down the rabbit hole of web              |
-| 44:17      | automation mm-hmm yeah I use I use Zapier most pretty much entirely for my web automation now             |
-| 44:24      | uh I had some stuff in IFTTTtt but moved it to Zapier because it had some additional functions so one      |
+| 44:17      | automation mm-hmm yeah I use I use [[Zapier]] most pretty much entirely for my web automation now             |
+| 44:24      | uh I had some stuff in [[IFTTT]] but moved it to [[Zapier]] because it had some additional functions so one      |
 | 44:33      | of my biggest ones is um we started on upgrade doing this and then I do it on a bunch of my             |
 | 44:40      | other shows as well is having people as tweet to us questions um so for you know you can send           |
 | 44:48      | out a tweet for example with the hashtag ask upgrade and it goes into a spreadsheet that                |
@@ -700,33 +700,33 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 45:04      | of things that I like it's pulling the information that I want so it's just getting the the name of     |
 | 45:08      | the tweet uh it's getting you know date and time so they can be easily sorted and also removed right    |
 | 45:14      | when stuff's super old so I can just take a bunch but yeah it's getting the the tweet and the url in    |
-| 45:19      | case I want to click through but the thing that frustrated me about um IFTTTtt at least at the            |
-| 45:25      | time when I was building this and before I moved it to Zapier the only name field it would get was       |
-| 45:30      | the twitter username and I didn't want that I wanted the person's name and so I would have to           |
-| 45:37      | spend time every single episode clicking the URLs to get the name of the person but IFTTTtt               |
-| 45:45      | sorry but Zapier has the ability to grab the name field from the twitter API so that was one of the      |
+| 45:19      | case I want to click through but the thing that frustrated me about um [[IFTTT]] at least at the            |
+| 45:25      | time when I was building this and before I moved it to [[Zapier]] the only name field it would get was       |
+| 45:30      | the [[Twitter]] username and I didn't want that I wanted the person's name and so I would have to           |
+| 45:37      | spend time every single episode clicking the URLs to get the name of the person but [[IFTTT]]               |
+| 45:45      | sorry but [[Zapier]] has the ability to grab the name field from the [[Twitter]] API so that was one of the      |
 | 45:53      | main reasons I moved it away uh there so it can it grabs the person's name and their tweet which is     |
 | 45:59      | super good because then I can just copy that straight out of the spreadsheet uh and google              |
 | 46:03      | sheets and just drop it into my google doc and it's all ready to go so that that's one of the           |
 | 46:08      | biggest things that I have like six or seven of these uh going on um so that's that like that's         |
 | 46:15      | just doing stuff for me all the time which I really love so a big fan of that yeah once you             |
-| 46:20      | decide to invest in Zapier you will find uses for it because oh yeah it's just so much more powerful     |
-| 46:27      | than IFTTTtt it took me years we did a show on Zapier a few months ago and I've been a happy               |
-| 46:32      | subscriber since in my zapier list has grown because now it's just something it's a tool in             |
+| 46:20      | decide to invest in [[Zapier]] you will find uses for it because oh yeah it's just so much more powerful     |
+| 46:27      | than [[IFTTT]] it took me years we did a show on [[Zapier]] a few months ago and I've been a happy               |
+| 46:32      | subscriber since in my [[Zapier]] list has grown because now it's just something it's a tool in             |
 | 46:38      | my tool belt now and often if I do anything involves the web I find that there's a way to               |
 | 46:43      | connect something yeah I mean like you know you talk about uh I mentioned it earlier right where        |
-| 46:48      | it's like oh if you think shortcuts can do it it probably can the answer for Zapier is like yeah always  |
+| 46:48      | it's like oh if you think shortcuts can do it it probably can the answer for [[Zapier]] is like yeah always  |
 | 46:55      | there's very very few things it can't yeah exactly like I had a thing where so we use uh fresh          |
 | 47:03      | books for our invoicing and we use slack right so these are like two tools that I have and I would      |
 | 47:09      | love it and would have loved it if I could have got uh very specific actions in fresh books to show     |
-| 47:16      | up in slack I was able to build that was Zapier because they both have APIs so like I built a            |
+| 47:16      | up in slack I was able to build that was [[Zapier]] because they both have APIs so like I built a            |
 | 47:21      | slack bot which is super easy to do like if you just build a simple one um and all slack has really     |
 | 47:27      | great documentation for this and then it watches an rss feed that fresh books provides and then         |
 | 47:33      | just plugs it into slack they may well have a like an official integration now but I did this           |
 | 47:37      | like a long time ago and I use another really boring business tool called pipe drive which is a         |
 | 47:43      | like a sales management application so like as we're working a deal through sales like for a            |
 | 47:48      | sale from like initial contact to interest to contract sent and stuff like that and again               |
-| 47:53      | I built an integration with pipe drive and with slack and with Trello because these are like            |
+| 47:53      | I built an integration with pipe drive and with slack and with [[Trello]] because these are like            |
 | 48:00      | different tools that we use for different stuff so that when a deal is done it pops up in both          |
 | 48:05      | places and so like i I really like the way that Zapier makes it super easy to tie services together      |
 | 48:13      | that don't necessarily officially integrate it's really cool and at this point for me Zapier has         |
@@ -782,7 +782,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 53:08      | so I no longer have to be waiting around for brad's file because my phone just tells me when it's       |
 | 53:13      | there and it was just this is this is my favourite things about automation in general it of course       |
 | 53:19      | I'm preaching to the choir here is how it can just take those little frustrations away or like          |
-| 53:24      | another one I have a Roomba right yeah and I like my HomePod and you it's possible using IFTTTtt         |
+| 53:24      | another one I have a Roomba right yeah and I like my HomePod and you it's possible using [[IFTTT]]         |
 | 53:32      | to get all this stuff to talk together with like webhooks yeah so I can ask my HomePod to start        |
 | 53:38      | my Roomba because iRobot the company who make Roomba have an IFTT action but not a shortcut             |
 | 53:45      | but I've created a shortcut that will just ping the webhook and just trigger the IFTT action            |
@@ -867,7 +867,7 @@ Myke Hurley is relatively new to automation but found many ways to simplify his 
 | 01:01:21   | Instagram I do I am rosemary_orchard on [[Instagram]] I don't post that many pictures            |
 | 01:01:27   | but I do like a lot of pictures including the cute ones that Myke posts every so often                   |
 | 01:01:32   | yeah I'm I'm doing Instagram more now than before as well I'm at MacSparky there and I really uh       |
-| 01:01:38   | I'm really starting to get it it's like it's more fun than twitter for me if that makes any sense       |
+| 01:01:38   | I'm really starting to get it it's like it's more fun than [[Twitter]] for me if that makes any sense       |
 | 01:01:44   | I use stories more than I post to my feed um but yeah I love it for consuming and also for              |
 | 01:01:53   | for content like adding content creating content so it just makes me feel happy where                   |
 | 01:01:58   | some other social networks can be a little bit more tiring and Myke what's your uh your name on          |

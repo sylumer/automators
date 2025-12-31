@@ -149,20 +149,20 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 06:56      | It's a passion. And I mean, that, that also means that I can just, I can take my time                  |
 | 07:01      | with things and give them the polish that I think they need. Or like, yeah, I just,                    |
 | 07:06      | I kind of hope that that shows. Yeah.                                                                  |
-| 07:09      | Yes. Yeah. I remember seeing all of those betas of Runestone, which we'll have to get                  |
-| 07:13      | to in a bit going out on Twitter and thinking, gosh, is that there's been in beta for a long           |
+| 07:09      | Yes. Yeah. I remember seeing all of those betas of [[Runestone]], which we'll have to get                  |
+| 07:13      | to in a bit going out on [[Twitter]] and thinking, gosh, is that there's been in beta for a long           |
 | 07:17      | time, but not in a bad way that it was there for a long time, just like you were really                |
 | 07:21      | taking your time to, to try and get it right and so on. And it's always, you know, interesting         |
 | 07:26      | watching any developer go through their own individual process of how they solve things.               |
 | 07:31      | Because much like the way that David or I me go through automations, trying to solve                   |
 | 07:34      | our problems and looking at various angles and so on, you know, you can see this as similar            |
 | 07:39      | sort of process for you in, in your development process. And I certainly find it very interesting,     |
-| 07:45      | you know, I always keep an eye on your Twitter, trying to see what's coming up and, you know,          |
+| 07:45      | you know, I always keep an eye on your [[Twitter]], trying to see what's coming up and, you know,          |
 | 07:49      | what may or may not be going on. And I know, you know, a lot of my friends are the same                |
 | 07:54      | and, you know, I frequently get messages from people after I've told them about one of your            |
 | 07:57      | apps going, oh my gosh, did you know about one of other, another one of Simon's apps                   |
-| 08:02      | afterwards? So I introduced a friend to Runestone recently, he sent me a message going, oh my          |
-| 08:06      | god, have you heard about JSON? It's amazing. It's like, yes, yes, I know JSON, but I'm                |
+| 08:02      | afterwards? So I introduced a friend to [[Runestone]] recently, he sent me a message going, oh my          |
+| 08:06      | god, have you heard about [[Jayson]]? It's amazing. It's like, yes, yes, I know [[Jayson]], but I'm                |
 | 08:10      | glad you're finding these things out again.                                                            |
 | 08:12      | Oh yeah, sure, thanks. I mean, that, that really means a lot to, to hear. Yeah, that's, that's         |
 | 08:18      | like part of the reason that I do it. And that other others find, find join these apps                 |
@@ -708,8 +708,8 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 53:52      | so, you know, I'm personally very appreciative. And I think, you know, there are probably              |
 | 53:57      | more folks using this than they realise, even if they've never downloaded Runestone itself,            |
 | 54:01      | because I've certainly seen, uh, several, uh, developers, uh, who, uh, I'm sure many                   |
-| 54:06      | of us know talking to you on Twitter about this. And I'm sure there are many more who                  |
-| 54:09      | have talked with you, uh, you know, off of Twitter about, about using the framework.                   |
+| 54:06      | of us know talking to you on [[Twitter]] about this. And I'm sure there are many more who                  |
+| 54:09      | have talked with you, uh, you know, off of [[Twitter]] about, about using the framework.                   |
 | 54:13      | So it's, uh, I think something that it may have taken quite a bit of your time, but                    |
 | 54:18      | especially if it then feeds back into Scriptable, I think it was well worth it.                        |
 | 54:23      | Yeah. Well, yeah. Thanks. I'm glad to hear that you, that you find it simple to use.                   |
@@ -718,28 +718,28 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 54:37      | text testing that you, um, mentioned earlier. That, that's really the least to me. That's              |
 | 54:42      | the [[BBEdit]] of, um, of the iPhone and iPad. That's a, it's, uh, an app that has existed                |
 | 54:48      | for many years. It's a super good app developed by a, a great developer, Alexander, who has            |
-| 54:53      | also helped me out on parts of Runestone. When I got stuck, um, you know, understanding                |
+| 54:53      | also helped me out on parts of [[Runestone]]. When I got stuck, um, you know, understanding                |
 | 54:57      | parts of the text layout system, Alexander is a, is a super great person and a great                   |
 | 55:03      | developer and text testing is a great app. So I think more, Runestone, I think more of                 |
 | 55:08      | that as like, um, on the Mac, you might have, uh, you have text edit, and then you might               |
-| 55:13      | have as a developer, you have a more powerful, um, text editor, could be a Nova, [[Visual Studio Code\| VS Code]]               |
+| 55:13      | have as a developer, you have a more powerful, um, text editor, could be a [[Nova]], [[Visual Studio Code\| VS Code]]               |
 | 55:19      | or whatever. And I think Runestone is more like the text edit on steroids. It's for the,               |
 | 55:26      | it's for the times that you don't need a full fledged powerful editor, but you just need               |
 | 55:31      | something simple. And for some people that might be enough, but if, if it isn't, and                   |
 | 55:36      | if you have more powerful needs than that, or more advanced needs than that, then there                |
 | 55:40      | are other editors, um, that you might appreciate more.                                                 |
-| 55:44      | Yeah. Uh, I'm very pleased to hear that the developer of Textastic was helpful. I thought              |
+| 55:44      | Yeah. Uh, I'm very pleased to hear that the developer of [[Textastic]] was helpful. I thought              |
 | 55:48      | I remembered, um, that, that I'd seen a couple of those conversations, um, going on. And               |
 | 55:53      | it's, it's always so nice to me to see, uh, developers within the indie developer community            |
 | 55:59      | helping each other out because it does lead to great apps for, for everyone, uh, there.                |
 | 56:04      | So, you know, that, that's certainly well worthwhile. And, uh, yeah, it's, it's, it's                  |
-| 56:09      | always interesting. I kind of feel like, um, uh, that, uh, Runestone is more like a text               |
-| 56:15      | wrangler was when, um, the folks at bare bones had text wrangler and [[BBEdit]], like text wrangler       |
+| 56:09      | always interesting. I kind of feel like, um, uh, that, uh, [[Runestone]] is more like a               |
+| 56:15      | [[Text Wrangler]] was when, um, the folks at Bare Bones had [[Text Wrangler]] and [[BBEdit]], like text wrangler       |
 | 56:20      | was like the mini version, um, of it, uh, which was the one that was available for free                |
-| 56:25      | and everything. And they've, they've since rolled everything into [[BBEdit]] and text wrangler            |
-| 56:28      | is no longer, um, but, um, you know, it, it kind of reminds me a little bit of text wrangler           |
+| 56:25      | and everything. And they've, they've since rolled everything into [[BBEdit]] and [[Text Wrangler]]            |
+| 56:28      | is no longer, um, but, um, you know, it, it kind of reminds me a little bit of [[Text Wrangler]]           |
 | 56:34      | in, in some ways, which is quite nice and certainly meant as a compliment.                             |
-| 56:37      | Uh, thanks. Text wrangler. I had completely forgotten about that.                                      |
+| 56:37      | Uh, thanks. [[Text Wrangler]]. I had completely forgotten about that.                                      |
 | 56:42      | Uh, a lot of people that I think that's right. It was a good app though, but you still get             |
 | 56:48      | it, you know, you just get [[BBEdit]] and then you add on the features if you want them.                  |
 | 56:53      | Oh yeah. Sure.                                                                                         |
@@ -1081,7 +1081,7 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:26:47   | the cool stuff you're making. Sure. Anytime. And thanks so much for having me. It's, it's              |
 | 01:26:51   | been a pleasure. It's always nice to talk to you.                                                      |
 | 01:26:54   | Well, I am going to give you some homework. I'm afraid, Simon. I've seen that you're                   |
-| 01:26:58   | brewing some Christmas beer on, you posted this on Twitter. So I'm officially giving                   |
+| 01:26:58   | brewing some Christmas beer on, you posted this on [[Twitter]]. So I'm officially giving                   |
 | 01:27:03   | you homework. You're going to have to take some time off this Christmas and enjoy your                 |
 | 01:27:06   | Christmas beer. That's, that's the homework I'm going in.                                              |
 | 01:27:09   | Thanks. That's the great kind of homework. I'll make sure to do that.                                  |
@@ -1115,9 +1115,9 @@ Simon Støvring returns to talk about how much automation has changed and what h
 | 01:29:24   | Don't worry, homework notwithstanding, though, hopefully you will have enjoyed the beer by             |
 | 01:29:28   | the time we get you back on the show. But yeah, it's, it's, it's always good to keep                   |
 | 01:29:32   | an eye out on what you're doing. And for folks who, who are curious, you can also find follow          |
-| 01:29:38   | Simon on Twitter, SimonBS. And I have found some other great apps through some of the                  |
+| 01:29:38   | Simon on [[Twitter]], SimonBS. And I have found some other great apps through some of the                  |
 | 01:29:43   | developers that I see him talking to as well. So pro tip there for you folks, for looking              |
-| 01:29:47   | to find some other really cool apps, follow Simon on Twitter, and you'll find thousands                |
+| 01:29:47   | to find some other really cool apps, follow Simon on [[Twitter]], and you'll find thousands                |
 | 01:29:51   | of them, I'm sure.                                                                                     |
 | 01:29:53   | And we are the automators. You can find us at relay.fm/automators. You can find                  |
 | 01:29:58   | the, the forums at talk.automators.fm and the website at automators.fm. Thank you to                   |

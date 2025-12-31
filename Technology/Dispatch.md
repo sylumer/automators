@@ -1,7 +1,7 @@
 ---
-status: "complete"
-creator: "Muh Hon Cheng and Lin Junjie"
-notetype: "technology"
+status: complete
+creator: Muh Hon Cheng, Lin Junjie
+notetype: technology
 ---
 
 # Overview
@@ -30,26 +30,26 @@ The following apps were supported in quick actions.
 - Dolphin Browser
 - [[Drafts]]
 - Droplr
-- Due
+- [[Due]]
 - [[Evernote]]
 - [[FaceTime]]
 - [[Fantastical]] & Fantastical 2
-- Finish
-- Google Maps
-- Google Translate
+- [[Finish]]
+- [[Google Maps]]
+- [[Google Translate]]
 - HockeyApp
-- Instapaper
+- [[Instapaper]]
 - Maps
-- Message
-- OmniFocus
-- Pocket
-- Readability
+- Messages
+- [[OmniFocus]]
+- [[Pocket]]
+- [[Readability]]
 - [[Apple Reminders|Reminders]]
 - [[Safari]]
 - [[Skype]]
 - The Hit List
 - [[Things]]
-- Twitter
+- [[Twitter]]
 
 # Notes
 - Dispatch was a paid application

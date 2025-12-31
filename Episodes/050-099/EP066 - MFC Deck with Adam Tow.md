@@ -1642,7 +1642,7 @@ Automation wizard Adam Tow joins in this week to share the details of his new au
 | 01:07:57   | You can also find the automators website at automators.fm.                         |
 | 01:08:02   | Rose, you got anything exciting going on?                                          |
 | 01:08:04   | You should tell the world about.                                                   |
-| 01:08:06   | Well, I mean, I'm joining iOS today over on the Twitter network.                   |
+| 01:08:06   | Well, I mean, I'm joining iOS today over on the [[Twitter]] network.                   |
 | 01:08:10   | It's at twit.tv.                                                                   |
 | 01:08:12   | And you can find, of course, automators on relay.fm and nested folders             |
 | 01:08:16   | at nestedfolderspodcast.com.                                                       |

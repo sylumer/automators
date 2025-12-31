@@ -605,10 +605,10 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 52:03      | couple of ways, which I really need to get better at doing, Jay. So would you like to tell us about      |
 | 52:08      | some of your favourite [[Alfred]] scripts? So [[Alfred]] is awesome. I will say I think [[Alfred]] was probably       |
 | 52:16      | the first Mac automation-ish tool that I ever used. And I've been a power user ever since.               |
-| 52:24      | I guess the quite literal, that's what they call it. But I, so I use Duck.Go for search and Duck.Go      |
+| 52:24      | I guess the quite literal, that's what they call it. But I, so I use [[DuckDuckGo]] for search and Duck.Go      |
 | 52:35      | for those that don't know, have a bunch of documented and undocumented commands that they                |
 | 52:41      | call bang commands. So if you do exclamation point and whatever the shortcut is, and there's             |
-| 52:48      | actually another app called Keyword Search on the Mac that does something similar. And I run that        |
+| 52:48      | actually another app called [[Keyword Search]] on the Mac that does something similar. And I run that        |
 | 52:53      | as well for different things. But the cool thing is [[Alfred]] can have its default action B to search       |
 | 53:03      | for something on the internet. And over time, you start memorising the bang commands that you use        |
 | 53:08      | for everything. So if I want to go to Google Images, I can just do like, you know, exclamation           |
@@ -616,11 +616,11 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 53:21      | workflow for that, it'll just say, do you want to trigger this with the default action, which is         |
 | 53:26      | search it in Duck.Go. And I say, why yes, yes, I do. And then from there, Google Images pops up          |
 | 53:31      | and it searches for whatever I'm searching for. So it's almost like my universal search bar,             |
-| 53:36      | but smarter using some of these different commands that Duck.Go has built into it.                       |
+| 53:36      | but smarter using some of these different commands that [[DuckDuckGo]] has built into it.                       |
 | 53:43      | Okay, so to give us an example of one of these bang commands that you like to use.                       |
-| 53:48      | Let's see. Well, there's Twitter, because that's healthy for me to first think of Twitter.               |
-| 53:54      | But I could just type in, you hear my key cron back here, if I just type in bang tw                      |
-| 54:03      | max Sparky, it's going to open up Twitter, and it's going to open it up to David's,                      |
+| 53:48      | Let's see. Well, there's [[Twitter]], because that's healthy for me to first think of [[Twitter]].               |
+| 53:54      | But I could just type in, you hear my [[Keychron]] back here, if I just type in "!tw macsparky",                      |
+| 54:03      | it's going to open up [[Twitter]], and it's going to open it up to David's,                      |
 | 54:09      | well, it's actually going to search for David, but then I can see at, you know, David Sparks             |
 | 54:14      | at MacSparky right there, first option. Yeah. Perfect. Yes. Yeah. No, I'm a big fan of those.           |
 | 54:21      | And there's a, we've got a link actually to David, you've been diving into                               |
@@ -812,7 +812,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:12:20   | you know, little scripts or demo projects. Like I'm often thinking about like, okay, what do I           |
 | 01:12:26   | want to include in my presentation, even in podcasting, like the hook has been like the best             |
 | 01:12:32   | because I can, if I have a guest, if I'm, you know, interviewing David Sparks, which I've done           |
-| 01:12:38   | before, one of the best things about that is I can go to his Twitter account, hook that and then         |
+| 01:12:38   | before, one of the best things about that is I can go to his [[Twitter]] account, hook that and then         |
 | 01:12:43   | connect it to MacSparky.com and then connect that to the field guides and then connect that to           |
 | 01:12:49   | automators and Mac power users. So that as we're talking, I don't have to sit there and think            |
 | 01:12:54   | about, oh, what does he do? Oh, he does that and that and that and that. I can just go open up hook,     |
@@ -948,7 +948,7 @@ In this episode, Rosemary and David chat to Jay Miller about how he automates, u
 | 01:25:47   | where do folks find you on the internet? So I will say, as I mentioned before,                           |
 | 01:25:52   | I do a few podcasts. So if you're into productivity or Hearthstone or asking people in the UK            |
 | 01:26:01   | what's up with their decency laws and stuff, you can find all of those weird things that                 |
-| 01:26:08   | I do over at kjaymiller.com, also on Twitter at kjaymiller. And yeah, like, I've been doing                |
+| 01:26:08   | I do over at kjaymiller.com, also on [[Twitter]] @kjaymiller. And yeah, like, I've been doing                |
 | 01:26:15   | some more YouTube stuff. So there's links to all that on that website. So just go there.                 |
 | 01:26:20   | Then hopefully there will be some new podcasts talking about productivity and stuff in the               |
 | 01:26:24   | near future. Well, I really appreciate you coming on the show today, Jay. You've got me looking at       |

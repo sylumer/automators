@@ -169,7 +169,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 08:23      | views for different types of writing, and it's going to be really great as this thing                |
 | 08:30      | starts to get bigger.                                                                                |
 | 08:31      | Right. And I mean, that's the thing that we do now today with apps. If I'm in [[Drafts]]                 |
-| 08:39      | and then I want to use something like Ulysses for writing, those are going to be two different       |
+| 08:39      | and then I want to use something like [[Ulysses]] for writing, those are going to be two different       |
 | 08:42      | interface colours, right? It's a visual distinction. I may want to use, you know, a certain monospace |
 | 08:49      | font for my writing and regular fonts for just simple scratchpad note-taking. And I can              |
 | 08:55      | have that within one app. I don't need to switch. And that's always been my thing.                   |
@@ -177,7 +177,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 09:03      | It really does replace a lot of apps for me, so I don't need to go anywhere else but the             |
 | 09:07      | one place. And now I can really customise everything down to little tiny bits of text                |
 | 09:14      | for colours just to make sure it pops and I see it in my own way for me.                              |
-| 09:20      | So how do you create the JSON file to make your own custom template?                                 |
+| 09:20      | So how do you create the [[JSON]] file to make your own custom template?                                 |
 | 09:25      | Well, so I've started using the app [[Jayson]] by [[Simon Støvring\|Simon]]. I don't know how to pronounce his                 |
 | 09:32      | last name.                                                                                           |
 | 09:33      | I think it's so nice to pronounce [[Simon Støvring\|Støvring]].                                                          |
@@ -603,7 +603,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 46:46      | and using the app. By and large, a lot of what I do with [[Drafts]] has not changed. I'm                 |
 | 46:52      | very boring in that way. I use it, I use it for everything that I possibly can. And where            |
 | 46:58      | it doesn't work, I use another app. But I use it for writing for journalling, those                   |
-| 47:03      | sorts of things. So I have my automation that I've had for a while to publish to WordPress.          |
+| 47:03      | sorts of things. So I have my automation that I've had for a while to publish to [[WordPress]].          |
 | 47:10      | So I use that all the time. When I when I do my writing for my journal, I've created                 |
 | 47:17      | a PDF version of my journal. So now I not only have the text save within [[Drafts]], but                 |
 | 47:23      | I also send that over to shortcuts, create a formatted PDF and save that PDF off. It's               |
@@ -1149,11 +1149,11 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:33:08   | Well, I'm not running clear spaces. You see them and you see the ugly labels, but, um,               |
 | 01:33:14   | you know, just they're all kind of contextual. My main screen is the big, fantastic Al with          |
 | 01:33:19   | a list of my events for the day and the, the, the medium widget with the four shortcuts              |
-| 01:33:25   | launchers, you know, but I do like launchers with shortcuts like you, but I do it out of             |
+| 01:33:25   | launchers, you know, but I do like launchers with [[Shortcuts]] like you, but I do it out of             |
 | 01:33:29   | a widget.                                                                                            |
 | 01:33:30   | I just really liked the interface elements of the widget. I feel like it's, it's the                 |
 | 01:33:34   | way shortcuts really need to be run. And then I've got a screen with, um, that's like                |
-| 01:33:40   | kind of like task management. It's got OmniFocus and streaks. And then I've got a time              |
+| 01:33:40   | kind of like task management. It's got [[OmniFocus]] and [[Streaks]]. And then I've got a time              |
 | 01:33:45   | tracking page and then a little bit of a, you know, mix of things at the end. And then               |
 | 01:33:52   | I get to the app, the app library. And so, and it works fine for me. I mean, I, and then             |
 | 01:33:57   | if also the, what is it, what do these call the debut? I've got like, um, timely things              |
@@ -1187,7 +1187,7 @@ In this episode, David and Rosemary get Tim back on the show to talk about recen
 | 01:36:21   | All right, Tim. Well, for folks listening, Tim is the master of all things [[Drafts]], the               |
 | 01:36:28   | future developer of the [[Drafts]] task management workflow. Tim, where do people go to find             |
 | 01:36:38   | you?                                                                                                 |
-| 01:36:39   | Well, I'm on Twitter at Nahumck, my last name, N-A-H-U-M-C-K. And you can go to Nahumck.me           |
+| 01:36:39   | Well, I'm on [[Twitter]] at Nahumck, my last name, N-A-H-U-M-C-K. And you can go to Nahumck.me           |
 | 01:36:50   | to find where I write. And that's pretty much where you can find me nowadays.                        |
 | 01:36:55   | Now, we sure appreciate you sharing all this with us, Tim, and the great stuff you're doing          |
 | 01:37:00   | and keep it up, man. So we had you at [[Drafts]] version 5 and version 26. So I guess we'll              |

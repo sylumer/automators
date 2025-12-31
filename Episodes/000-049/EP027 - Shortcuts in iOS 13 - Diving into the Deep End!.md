@@ -710,7 +710,7 @@ In this episode, Rose and David throw caution to the wind and install iOS & iPad
 | 01:00:28   | ago. Yeah. All right. Okay. There we go. But it's okay because it's the end of the show. We would       |
 | 01:00:36   | really like to thank our sponsors for the show, which are Away. That's waytravel.com/             |
 | 01:00:41   | Automators and Smile with TextExpander. All of the links, as always, will be in the show notes.         |
-| 01:00:48   | And you can find the Automators podcast on Twitter, Automators FM, and also over in our forums where    |
+| 01:00:48   | And you can find the Automators podcast on [[Twitter]], Automators FM, and also over in our forums where    |
 | 01:00:54   | we would love to have you join this discussion and tell us all the things that you are excited about    |
 | 01:01:00   | in the new iPad and iOS betas of shortcuts. And that is talk.automators.fm. David, where can            |
 | 01:01:08   | people find you on the internet and around the internet? MacSparky.com is a good enough place.          |

@@ -1081,7 +1081,7 @@ Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain
 | 01:04:39   | not I've been taking some different vitamins in the morning, and I've been storing every                    |
 | 01:04:44   | day that I've taken the vitamins, I've been logging that, I've been adding that.                            |
 | 01:04:47   | So I've got to don't break the chain going on in [[Toolbox Pro]], because I was experimenting               |
-| 01:04:52   | with that after streaks from our last episode, and I was there growing up.                                  |
+| 01:04:52   | with that after [[Streaks]] from our last episode, and I was there growing up.                                  |
 | 01:04:57   | I want them to slightly nerdy a way of tracking my vitamin intake, because that's me.                       |
 | 01:05:02   | It's been quite fun seeing that number go up.                                                               |
 | 01:05:04   | I'm pleased to say that I am indeed at, well, we're recording this not long after that episode              |

@@ -177,7 +177,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 06:20      | or something.                                                                                             |
 | 06:21      | Just being able to tap on it and get to this information, you know, I think that's really                 |
 | 06:26      | cool.                                                                                                     |
-| 06:27      | And I've seen some proof of concepts going around on Twitter where people are talking                     |
+| 06:27      | And I've seen some proof of concepts going around on [[Twitter]] where people are talking                     |
 | 06:30      | about, you know, like, hey, maybe the Dynamic Island in the future could do this and this.                |
 | 06:34      | And it feels like people have got a lot of ideas for it.                                                  |
 | 06:37      | And I feel like personally, you know, like this area at the top of your screen, it's                      |
@@ -215,7 +215,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 08:27      | Did you notice if you dismiss an app and you do like a curveball, it like bounces off the                 |
 | 08:32      | side of your phone and then goes into the dynamic island and like the dynamic island                      |
 | 08:38      | will expand and then contract as it absorbs the app in.                                                   |
-| 08:43      | Cable from Panic put a great tweet on Twitter showing that and he had a slow mo video.                    |
+| 08:43      | Cable from Panic put a great tweet on [[Twitter]] showing that and he had a slow mo video.                    |
 | 08:48      | I'll see if I can find it to put it in the show notes because I love the fact that there                  |
 | 08:53      | is that whimsy in there.                                                                                  |
 | 08:54      | Sure, if you just dismiss straight upwards, you're never going to notice this, but seriously              |
@@ -686,24 +686,24 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 39:30      | And I haven't picked one yet.                                                                             |
 | 39:31      | But I don't know, have you got any experience with those?                                                 |
 | 39:33      | I do.                                                                                                     |
-| 39:35      | And there's a really nice Elgato light actually for this.                                                 |
+| 39:35      | And there's a really nice [[Elgato]] light actually for this.                                                 |
 | 39:39      | And I was, I just saw something the other day, I'm going to have to go back and find                      |
-| 39:43      | it now, because it was on Twitter and it's going to be way back in my history, where                      |
+| 39:43      | it now, because it was on [[Twitter]] and it's going to be way back in my history, where                      |
 | 39:47      | somebody figured out a way to control it using, I actually think it was Dan Moran on Six Colors           |
 | 39:53      | even.                                                                                                     |
-| 39:54      | So I probably saw it on Twitter first, but I'm now thinking that it was Dan on Six Colors                 |
+| 39:54      | So I probably saw it on [[Twitter]] first, but I'm now thinking that it was Dan on Six Colors                 |
 | 40:00      | who was talking about this.                                                                               |
 | 40:02      | He's got a way to control it from the Mac, which is of course, you know, something that                   |
 | 40:06      | is really nice to have so that you can tie it into everything else you're doing.                          |
 | 40:11      | Because for me, the magic of home automation, right, is where it really blends into everything            |
 | 40:17      | else and just ties in.                                                                                    |
 | 40:19      | I misspoke.                                                                                               |
-| 40:20      | It is not an Elgato light.                                                                                |
-| 40:21      | It is the Logitech Litra Glow and he's controlling it by shortcuts.                                       |
+| 40:20      | It is not an [[Elgato]] light.                                                                                |
+| 40:21      | It is the [[Logitech Litra Glow]] and he's controlling it by [[Shortcuts]].                                       |
 | 40:26      | So that is exactly what we wanted and I will be putting the link to that blog post in our                 |
 | 40:30      | show notes for everyone.                                                                                  |
 | 40:31      | I'll take a look.                                                                                         |
-| 40:32      | I'm generally in the camp for Elgato because their stuff has always worked so well for                    |
+| 40:32      | I'm generally in the camp for [[Elgato]] because their stuff has always worked so well for                    |
 | 40:38      | me, you know, but let me look at it.                                                                      |
 | 40:40      | Well, this one, of course, he's got [[Stream Deck]] buttons for it now and that's in the                      |
 | 40:44      | blog post and that light looks pretty good.                                                               |
@@ -711,7 +711,7 @@ This week, David and Rosemary dive into David's new studio and plan out how to a
 | 40:52      | some cheap studio lights of [[Amazon]], like USB power ones, like you plug them in there on,                  |
 | 40:56      | you unplug them, they're off.                                                                             |
 | 40:58      | And then I bought some smart USB plugs.                                                                   |
-| 41:00      | So they're from Sonoff and it's just USB-A, but you can turn it on and off via Wi-Fi.                     |
+| 41:00      | So they're from [[Sonoff]] and it's just USB-A, but you can turn it on and off via Wi-Fi.                     |
 | 41:08      | And those are pretty great.                                                                               |
 | 41:10      | I've used them before I managed to get rid of the IKEA hub.                                               |
 | 41:15      | It was definitely being a bit wonky and I found the solution to this was to reboot it                     |

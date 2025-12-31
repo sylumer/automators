@@ -195,15 +195,15 @@ Rose and David take a closer look at Keyboard Maestro, the Swiss army knife of a
 | 06:23      | So what you can do is when an application activates or when it deactivates                             |
 | 06:29      | or when it launches or quits or if it's running or if it's active,                                     |
 | 06:34      | you can do a bunch of stuff.                                                                           |
-| 06:35      | So for example, you could have every time you activate Tweetbot                                        |
+| 06:35      | So for example, you could have every time you activate [[Tweetbot]]                                        |
 | 06:40      | and that would include launching it,                                                                   |
-| 06:43      | then it waits five minutes and that kills Tweetbot.                                                    |
-| 06:46      | So at any given time, you can only spend five minutes on Tweetbot.                                     |
+| 06:43      | then it waits five minutes and that kills [[Tweetbot]].                                                    |
+| 06:46      | So at any given time, you can only spend five minutes on [[Tweetbot]].                                     |
 | 06:49      | And of course, we are getting, you know,                                                               |
 | 06:51      | the screen time controls coming to Mac this year,                                                      |
 | 06:55      | which will be excellent when we get them,                                                              |
 | 06:57      | but they aren't fine-grained enough so that you can say,                                               |
-| 07:00      | I only ever want to be able to spend five minutes on Twitter at a time.                                |
+| 07:00      | I only ever want to be able to spend five minutes on [[Twitter]] at a time.                                |
 | 07:04      | And so you can use, you know, every time you activate it,                                              |
 | 07:08      | kill it five minutes later.                                                                            |
 | 07:09      | Yeah, actually, that's one of the ones I shared in the field guide                                     |

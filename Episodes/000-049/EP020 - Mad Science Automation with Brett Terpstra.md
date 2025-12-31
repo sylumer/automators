@@ -266,28 +266,28 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 10:14      | So as I was dipping my toes into the Mac, I didn't, I wasn't, I didn't consider myself                |
 | 10:20      | a programmer at the time.                                                                             |
 | 10:21      | I got my first PC junior at the age of six, and I'd been actually programming and all                 |
-| 10:28      | of my stuff in HomeSeer was done in visual basic script.                                              |
+| 10:28      | of my stuff in HomeSeer was done in [[VBA\|Visual Basic script]].                                              |
 | 10:32      | And yeah, I was a programmer, but I didn't consider myself a programmer.                              |
 | 10:36      | I was, I got a Mac to when I opened a marketing firm.                                                 |
-| 10:41      | And one of the first things, it was about the time that Twitter had become a thing.                   |
-| 10:47      | And so there was Twitter and Facebook, and then there were all of the Twitter clones                  |
-| 10:53      | that went by the wayside as Twitter gained popularity, but I don't even remember the                  |
-| 10:57      | names of half of them, Jaiku, et cetera.                                                             |
+| 10:41      | And one of the first things, it was about the time that [[Twitter]] had become a thing.                   |
+| 10:47      | And so there was [[Twitter]] and [[Facebook]], and then there were all of the [[Twitter]] clones                  |
+| 10:53      | that went by the wayside as [[Twitter]] gained popularity, but I don't even remember the                  |
+| 10:57      | names of half of them, Jaiku, etc.                                                             |
 | 11:01      | And so I was exploring social media and I wanted to be able to use them all, but not                  |
 | 11:07      | have to log into every site to say what I was doing.                                                  |
 | 11:11      | So I broke the DIY principles, do not repeat yourself.                                                |
-| 11:16      | And I wrote an app in [[AppleScript]] called Moodblast that would take one status update                 |
+| 11:16      | And I wrote an app in [[AppleScript]] called [[Moodblast]] that would take one status update                 |
 | 11:23      | and send it to 12 different services.                                                                 |
 | 11:25      | Now, had you had any experience with [[AppleScript]] at that point?                                      |
 | 11:28      | No, that was my learning [[AppleScript]].                                                                |
 | 11:32      | Yeah.                                                                                                 |
 | 11:33      | That's not a small project to start with.                                                             |
 | 11:35      | No.                                                                                                   |
-| 11:36      | And there was a lot of do shell script involved.                                                      |
+| 11:36      | And there was a lot of *do shell script* involved.                                                      |
 | 11:39      | Yeah, if that works, right?                                                                           |
 | 11:41      | So that's what counts.                                                                                |
 | 11:42      | Well, you almost had to to make HTTP post requests with various headers.                              |
-| 11:51      | And that morphed into an Objective C bridged [[AppleScript]] application so I could put an               |
+| 11:51      | And that morphed into an [[Objective C]] bridged [[AppleScript]] application so I could put an               |
 | 11:57      | interface on it and that was my first like real success in the world.                                 |
 | 12:01      | My blog went from 10 hit today to a thousand hit today as I built up that audience for                |
 | 12:08      | this stuff I was I was making.                                                                        |
@@ -448,7 +448,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 21:51      | Photo.                                                                                                |
 | 21:52      | I can create a header image for a blog post, run it through this droplet and it will resize           |
 | 21:58      | for all social media sizes and save with the file names that my HT access file uses to                |
-| 22:03      | serve images to Twitter and Facebook and do that all with basically I design once and                 |
+| 22:03      | serve images to [[Twitter]] and [[Facebook]] and do that all with basically I design once and                 |
 | 22:10      | drop out and get five different images ready to go to my blog.                                        |
 | 22:14      | That is amazing.                                                                                      |
 | 22:15      | And I did not realise, obviously in hindsight, it's obvious to me that the HT access file             |
@@ -459,7 +459,7 @@ Brett Terpstra, the mad scientist automator, joins to talk about how he got star
 | 22:34      | Right.                                                                                                |
 | 22:35      | Well, I use a, I use a consistent file name scheme that HT access can match and then fall             |
 | 22:39      | back.                                                                                                 |
-| 22:40      | If I don't provide like a Twitter size image, it'll fall back to the Facebook one and continually     |
+| 22:40      | If I don't provide like a [[Twitter]] size image, it'll fall back to the Facebook one and continually     |
 | 22:45      | until it gets by.                                                                                     |
 | 22:46      | If I only provide one header image, it'll figure out how to use that for everything.                  |
 | 22:50      | This is genius.                                                                                       |

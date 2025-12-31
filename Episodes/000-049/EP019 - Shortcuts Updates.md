@@ -992,7 +992,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 41:39      | like [[Drafts]] or bear will know                                                                     |
 | 41:42      | that usually you can just use the ID of the note                                                  |
 | 41:44      | to append to it and you can get that ID                                                           |
-| 41:46      | from bear or from [[Drafts]] or from Ulysses.                                                         |
+| 41:46      | from bear or from [[Drafts]] or from [[Ulysses]].                                                         |
 | 41:51      | Shortcuts and notes don't have that kind of relationship.                                         |
 | 41:55      | Notes is a little bit more closed off about things like this.                                     |
 | 41:59      | It's a little more British, perhaps.                                                              |
@@ -1012,7 +1012,7 @@ In this episode of Automators Rose and David dive into the recent and upcoming u
 | 42:39      | so I've limited that to one,                                                                      |
 | 42:41      | so I only ever get one note back from that search.                                                |
 | 42:43      | Yeah, I do feel like it's a little bit of a let down, though,                                     |
-| 42:47      | because the way Ulysses and Bear does it                                                          |
+| 42:47      | because the way [[Ulysses]] and [[Bear]] does it                                                          |
 | 42:49      | is there's actually a specific ID attached                                                        |
 | 42:52      | to every record that you create, and that is certainty, right?                                    |
 | 42:56      | The way you get around it with this new thing,                                                    |

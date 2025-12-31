@@ -1330,8 +1330,8 @@ Hooray! It's Automation April and Federico Viticci and John Voorhees join the Au
 | 01:42:00   | relay.fm/automators. This is episode 99, Rose. What are we going to do for episode 100?         |
 | 01:42:06   | I was thinking a big party like party like it's 1999, except it's currently episode 99,               |
 | 01:42:12   | so we've still got a few weeks. And of course, if anybody's got anything in particular,               |
-| 01:42:16   | they want to share with us four episode 100, they should send that in. You can tweet at us            |
-| 01:42:21   | automators FM on Twitter. You can email us the links on the relay FM website, relay FM slash          |
+| 01:42:16   | they want to share with us for episode 100, they should send that in. You can tweet at us            |
+| 01:42:21   | automators FM on [[Twitter]]. You can email us the links on the relay FM website, relay FM slash          |
 | 01:42:28   | automators. And of course, you can post it in the forums to share things. You know, maybe             |
 | 01:42:33   | the favourite automation thing you've learned from automators or the favourite non-automation           |
 | 01:42:38   | thing you've learned, that's okay too. But yeah, share your favourite stuff with us,                   |

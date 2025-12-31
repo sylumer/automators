@@ -189,7 +189,7 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 08:27      | but no matter what I did, I needed to use [[AppleScript]]. And I had a lot of trouble with that,           |
 | 08:33      | and I wouldn't call it a success, but I did finally create one automation that I really                 |
 | 08:39      | like. It's in Automator, and it allows me to copy the URL and title of my blog posts                    |
-| 08:45      | in order to use it in social media. So I hit a keystroke, open up Twitter, masked it on                 |
+| 08:45      | in order to use it in social media. So I hit a keystroke, open up [[Twitter]], masked it on                 |
 | 08:50      | now, and I pasted it in, and that's a link to my show that it's just been published.                    |
 | 08:54      | And I know you can do automated posting, but I don't like that. I like to add a little                  |
 | 08:57      | bit of context to it. So that was my first success, and that was probably where I dipped                |
@@ -863,8 +863,8 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:08:22   | I couldn't find my electric blanket because it wasn't in the bedroom. It was, it was still attached     |
 | 01:08:26   | to my bed, but [[HomeKit]] had decided that it belonged in my office. Oh yeah. Are things moving rooms      |
 | 01:08:31   | for you right now? It happens every once in a while. I found that this happened a lot when I            |
-| 01:08:37   | was using Homebridge. And since I've stopped using Homebridge completely, it seems to have stopped.     |
-| 01:08:42   | And I don't know if it's something specific about Homebridge. I'd now just use [[Home Assistant]] for       |
+| 01:08:37   | was using [[Homebridge]]. And since I've stopped using [[Homebridge]] completely, it seems to have stopped.     |
+| 01:08:42   | And I don't know if it's something specific about [[Homebridge]]. I'd now just use [[Home Assistant]] for       |
 | 01:08:47   | everything or if it's something else, but just one of those things where, yeah, when stuff goes         |
 | 01:08:53   | wrong and [[HomeKit]], it seems to go really wrong and you don't necessarily know why.                      |
 | 01:08:57   | We have a lamp that just keeps wandering around the house. And I keep accusing Steve of moving it,      |
@@ -883,9 +883,9 @@ Allison Sheridan joins us to share her automation workflows. Topics include Keyb
 | 01:10:01   | Plagiarism is encouraged. Yes. Yes, definitely.                                                         |
 | 01:10:08   | People can find you over at podfeet.com with all of your various podcasts and blogs.                    |
 | 01:10:14   | Anywhere else people should go to look for you? No, that's probably the best place to go. If            |
-| 01:10:18   | you want to find me on the socials, I'm at podfeet. Nowhere near anything owned by Meta,               |
-| 01:10:22   | but I'm real active on Mastodon now and not so active on Twitter anymore.                               |
+| 01:10:18   | you want to find me on the socials, I'm at [[Podfeet]]. Nowhere near anything owned by Meta,               |
+| 01:10:22   | but I'm real active on [[Mastodon]] now and not so active on [[Twitter]] anymore.                               |
 | 01:10:28   | Yeah, I get it. We are the Automator's Podcast. You can find us at really.fm-automators.                |
 | 01:10:35   | You can find the forums and the website for the page at talk.automators.fm.                             |
-| 01:10:42   | And thank you to our sponsors, Issue, Express, VPN, and TextExpander. And we'll see you next time.      |
+| 01:10:42   | And thank you to our sponsors, Issue, ExpressVPN, and TextExpander. And we'll see you next time.      |
 | 01:10:48   | Goodbye, folks.                                                                                         |

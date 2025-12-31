@@ -741,7 +741,7 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 42:05      | You know, you know what's going to happen, Simon?                                                                 |
 | 42:08      | But there is a beta sign up or has been a beta sign up in the forum.                                              |
 | 42:12      | So if you are interested in getting on the beta, then I would highly recommend keeping                            |
-| 42:16      | an eye on that and the [[Scriptable]] Twitter accounts because then you might well be able                        |
+| 42:16      | an eye on that and the [[Scriptable]] [[Twitter]] accounts because then you might well be able                        |
 | 42:20      | to get onto the beta and enjoy some of these new features as they are being developed.                            |
 | 42:25      | And of course, help Simon up by providing some good feedback to let him improve the app                           |
 | 42:30      | as he sees fit.                                                                                                   |
@@ -770,8 +770,8 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 43:35      | Thank you for having me.                                                                                          |
 | 43:36      | Excellent.                                                                                                        |
 | 43:37      | I will find you online, Simon.                                                                                    |
-| 43:40      | Twitter is probably the best place.                                                                               |
-| 43:42      | I'm at Simon Bias and they can follow the [[Scriptable]] app on, yeah, at [[Scriptable]] app.                     |
+| 43:40      | [[Twitter]] is probably the best place.                                                                               |
+| 43:42      | I'm @simonbs and they can follow the [[Scriptable]] app on, yeah, at [[Scriptable]] app.                     |
 | 43:49      | And occasionally, I'm also on the [talk.automators.fm](https://talk.automators.fm) forum.                                                       |
 | 43:55      | Yes, you are.                                                                                                     |
 | 43:58      | Often pop up just after somebody's answer something and it's always quite interesting                             |
@@ -780,9 +780,9 @@ In this episode David and Rose get to talk to Simon Støvring, maker of Scriptab
 | 44:09      | David, where can people find you?                                                                                 |
 | 44:12      | You can find me over at [macsparky.com](https://macsparky.com) and [learn.macsparky](https://learn.macsparky.com).                                                        |
 | 44:15      | And how about you, Rose?                                                                                          |
-| 44:17      | I am at [rosemaryorchard.com](https://rosemaryorchard.com) at rosemaryorchard on micro blog and Twitter and rosemaryorchard                      |
-| 44:23      | on Mastodon as well.                                                                                              |
-| 44:25      | That's mastodon.social.                                                                                           |
+| 44:17      | I am at [rosemaryorchard.com](https://rosemaryorchard.com) at rosemaryorchard on [[micro.blog]] and [[Twitter]] and rosemaryorchard                      |
+| 44:23      | on [[Mastodon]] as well.                                                                                              |
+| 44:25      | That's [mastodon.social](https://mastodon.social).                                                                                           |
 | 44:27      | And of course, Automators is [Automators.fm](https://automators.fm).                                                                       |
 | 44:30      | And you can find us and talk to us, give us feedback, tell us what you're doing with                              |
 | 44:33      | [[Scriptable]] over in the forums, which you've heard the URL 100 times.                                          |

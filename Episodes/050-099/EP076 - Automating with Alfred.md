@@ -718,10 +718,10 @@ Rose and David dig in with ways they are using the Mac utility Alfred to automat
 | 59:15      | California. Wow, David, it got lost in the ocean, you're gonna have to send a boat to come get me.       |
 | 59:21      | And so does it involve the submarine? I don't know, but you're gonna have to send a search party out.    |
 | 59:27      | Make sure your favourite doodle is ready for me. But yeah, I like this because it gives you these         |
-| 59:34      | options. And of course, it's smart about these things as well. So for stuff like Twitter handles         |
+| 59:34      | options. And of course, it's smart about these things as well. So for stuff like [[Twitter]] handles         |
 | 59:40      | and things like that, because I've got all of that added, it doesn't give me an option to open           |
-| 59:44      | that on Twitter. It just gives me the option to copy it. But I don't use the Twitter app,                |
-| 59:49      | I use Tweetbot anyway, and macOS doesn't have a setting for your default Twitter application.            |
+| 59:44      | that on [[Twitter]]. It just gives me the option to copy it. But I don't use the [[Twitter]] app,                |
+| 59:49      | I use [[Tweetbot]] anyway, and macOS doesn't have a setting for your default [[Twitter]] application.            |
 | 59:55      | So that's probably for the best. But I like it. And I like the fact that I can press escape to           |
 | 01:00:01   | go back at any time. If I have multiple David Sparks's in my Contacts book, and I press enter            |
 | 01:00:08   | on the wrong one, and I go, oh man, it's the wrong one. I press escape, I go back, I mouse down,         |

@@ -291,9 +291,9 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 17:55      | Well, we've talked about getting data into the health application, and that's always                   |
 | 18:00      | a good start. But sometimes it's nice to build the habit of actually doing the thing that              |
 | 18:05      | generates the data. And this is something I've been playing a lot with recently with                   |
-| 18:09      | the Streaks app, which is a habit tracking application, but it has integration with the                |
+| 18:09      | the [[Streaks]] app, which is a habit tracking application, but it has integration with the                |
 | 18:13      | health kit. And I am loving this because you can just be going around walking, you know,               |
-| 18:19      | you get on with your day and it turns out you've met your exercise ring and Streaks                    |
+| 18:19      | you get on with your day and it turns out you've met your exercise ring and [[Streaks]]                    |
 | 18:23      | sends you a notification and says, Hey, you've met your exercise goal for the third day in             |
 | 18:28      | a row. Now, of course, this is built into the activity rings and the health app in general,            |
 | 18:34      | where you can track this information. But combining this with all of the other information             |
@@ -303,14 +303,14 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 18:51      | Hey, this is such an interesting category, because so often on this show, we have to                   |
 | 18:55      | talk about building custom automations to make a lot of this stuff work. And in this                   |
 | 19:00      | case, there's multiple app developers that are using this data store we've talked about                |
-| 19:05      | to do the work for us. So you know, like Streaks is a good example of that.                            |
-| 19:09      | Yes. And what I really like about Streaks as well is they're aware that people will                    |
+| 19:05      | to do the work for us. So you know, like [[Streaks]] is a good example of that.                            |
+| 19:09      | Yes. And what I really like about [[Streaks]] as well is they're aware that people will                    |
 | 19:14      | want to do things outside of their app. So they've built in shortcut support. So what                  |
 | 19:18      | you could do is when you open an application to track your workout. So I've been using                 |
 | 19:23      | an app called swim tracker recently, then logs for me that I'm doing that habit. Now,                  |
 | 19:30      | I am, you know, taking myself, you know, trusting myself perhaps a little too much here, I could       |
 | 19:35      | just open the swim app every day without going to the swimming pool. But I've set up my shortcuts      |
-| 19:40      | automation so that when I open this application, it marks my habit as done in Streaks for me.          |
+| 19:40      | automation so that when I open this application, it marks my habit as done in [[Streaks]] for me.          |
 | 19:46      | And that's really handy because then you don't have to think about it and you can just integrate       |
 | 19:50      | it into these other aspects of your life. Yeah, it's really awesome. And I do think                    |
 | 19:55      | that in this episode, like I would recommend downloading a bunch of these apps and trying              |
@@ -318,7 +318,7 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 20:06      | tracking application that integrates with health, I think is really good if you're looking             |
 | 20:10      | to build these habits, because then you can specify that you want to work out twice a                  |
 | 20:14      | week or something. And it could be any two days of the work or specifically Mondays and                |
-| 20:18      | Thursdays. And these just help you build those habits and build those Streaks. And of course,          |
+| 20:18      | Thursdays. And these just help you build those habits and build those [[Streaks]]. And of course,          |
 | 20:23      | once you've started building the habit, it's easy to keep going. So especially if you've               |
 | 20:28      | got the data to prove that you're doing something and you know that you've done it.                    |
 | 20:32      | I'd like to talk about accountability automation. So I have, in addition to having my watch            |
@@ -607,11 +607,11 @@ In this episode, Rosemary and David tackle health tracking and how we can automa
 | 44:45      | so you can you can do solve that problem several ways if that's something you're trying to get         |
 | 44:49      | started on. Yes, that that's an interesting one. I've been trying, you know, not quite meditation,     |
 | 44:56      | but definitely the breathing exercises with the [[Apple Watch]]. And that's definitely interesting.        |
-| 45:02      | And I've been using streaks, actually, because the [[Apple Watch]] has a maximum number of minutes         |
+| 45:02      | And I've been using [[Streaks]], actually, because the [[Apple Watch]] has a maximum number of minutes         |
 | 45:06      | that you can do it for at once. And I'm finding 15 minutes is actually pretty good to help me          |
 | 45:10      | go to sleep at night. But you can't actually do that with the [[Apple Watch]]. So I set the [[Apple Watch]]    |
 | 45:16      | for as long as you can go. I think it was 10 minutes last time I tried. And then and then I            |
-| 45:21      | set a streaks timer for 15 minutes for the habit. And then it locks it for me. Yeah,                   |
+| 45:21      | set a [[Streaks]] timer for 15 minutes for the habit. And then it locks it for me. Yeah,                   |
 | 45:26      | if you wanted to try it, the one I would recommend for someone new to it would be headspace. I think   |
 | 45:31      | they do a good job of kind of walking you through. Yes. And I've heard good things about them as       |
 | 45:35      | well. And they will be linked in the show notes. This episode of Automators is brought to you by       |

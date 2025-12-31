@@ -357,8 +357,8 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 18:07      | a lot of them started with one or two good ones, and then I like the one to create a                                    |
 | 18:14      | new contract versus edit an existing one, they kind of, whatever one I did first, I                                     |
 | 18:20      | copied it and then just started making changes from there.                                                              |
-| 18:24      | And then what I do is, I write them in Ulysses, and I just use all caps terms for what are                              |
-| 18:28      | going to become variables once you put it in workflow, because, and that's the problem                                  |
+| 18:24      | And then what I do is, I write them in [[Ulysses]], and I just use all caps terms for what are                              |
+| 18:28      | going to become variables once you put it in [[Workflow]], because, and that's the problem                                  |
 | 18:33      | with the text field in workflow slash [[Shortcuts\|Siri Shortcuts]], is you've got to go in and manually                             |
 | 18:39      | assign those variables in the app, you can't do that anywhere else, unless Rose knows something                         |
 | 18:43      | I don't.                                                                                                                |
@@ -369,7 +369,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 18:57      | Well, I mean, there's the replace text function, actually, in workflow, which is very powerful,                         |
 | 19:03      | and what you can do is you can set it to match case, and this works really well for you because                         |
 | 19:08      | you write your variables in all caps, so you could have your text field and you just paste                              |
-| 19:12      | into that, or you could even theoretically have it get a Ulysses sheet by the [[Ulysses]]                                   |
+| 19:12      | into that, or you could even theoretically have it get a [[Ulysses]] sheet by the [[Ulysses]]                                   |
 | 19:18      | sheet ID, so you can keep editing it in Ulysses, and then just grab that sheet every time,                              |
 | 19:22      | and then you can use the replace text to just replace the all caps thing with the variable                              |
 | 19:28      | that you're looking for.                                                                                                |
@@ -703,7 +703,7 @@ In this episode of Automators David and Rose get nerdy with project templates. T
 | 39:52      | No, no, I'm just following up.                                                                                          |
 | 39:55      | All right, we'll see you all in two weeks.                                                                              |
 | 39:58      | Please go watch the videos, enjoy all the extra content we give you, and keep automating.                               |
-| 40:04      | Yes, and you can find me on Twitter and MicroBlog @rosemaryorchard, David, where can people                          |
+| 40:04      | Yes, and you can find me on [[Twitter]] and [[Micro.blog]] @rosemaryorchard, David, where can people                          |
 | 40:09      | find you?                                                                                                               |
 | 40:10      | At [macsparky.com](https://macsparky.com).                                                                                                      |
 | 40:11      | Wonderful.                                                                                                              |

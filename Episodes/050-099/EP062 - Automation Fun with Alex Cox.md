@@ -435,10 +435,10 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 39:07      | them all in the automated show notes. No, actually, the one thing I actually just realised is I         |
 | 39:17      | share a bunch of meeting note templates with folks and they download [[Drafts]]. Oh, this free              |
 | 39:24      | application. And they share it. I just share this with them. And then they actually, you know, we       |
-| 39:29      | now have universal meeting notes that look the same in Google Docs every time. And I'm like,            |
+| 39:29      | now have universal meeting notes that look the same in [[Google Docs]] every time. And I'm like,            |
 | 39:34      | oh, my gosh. Yeah, it's been amazing. I also have, you know, really simple, like single action          |
 | 39:42      | action items, like searching for, or I have a group of just different search engines,                   |
-| 39:50      | a Wolfram Alpha, [[DuckDuckGo]], Google and a whole bunch of stuff that I actually should ask you if        |
+| 39:50      | a [[Wolfram Alpha]], [[DuckDuckGo]], Google and a whole bunch of stuff that I actually should ask you if        |
 | 39:59      | there's an action to, I think there's a shortcut to turn on your VPN. But what I would love is if       |
 | 40:06      | there was an action to turn on a VPN before I go into Google or some other search engine that I         |
 | 40:13      | don't know is secure, but I need to use, that's one of the things I love. Something that I don't        |
@@ -467,12 +467,12 @@ Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcu
 | 43:15      | rejected tweets that with a certain number of tags, it like won't let me, how did I even do             |
 | 43:24      | this? Basically, if it has a certain tag, it goes into a, it goes into my archive where,                |
 | 43:31      | and if I open it, the action to tweet, it has gone like in the, you know, the basic                     |
-| 43:38      | app actions I have tweet with the Twitter app tweet with tweet bot. But that one does not               |
+| 43:38      | app actions I have tweet with the [[Twitter]] app tweet with [[Tweetbot]]. But that one does not               |
 | 43:44      | allow me to tweet if it has too many swear words or something that will get me in trouble.              |
 | 43:49      | So you've basically built your own personal filtering system. So instead of having to have              |
 | 43:53      | somebody sit there and go, don't do that. It does it for you. I can think of some other people who      |
 | 43:58      | might need this. I know people who do something similar in [[Day One]] where they just have a,              |
-| 44:03      | like one of their journals is just called fake Twitter. And I'm like, I should probably                 |
+| 44:03      | like one of their journals is just called *fake Twitter*. And I'm like, I should probably                 |
 | 44:09      | do that and just put all of my bad, one of my tags is bad takes. And that just goes away and            |
 | 44:16      | is deleted after a week. Yeah. As a lawyer, occasionally, some other lawyer will do some                |
 | 44:22      | numbskull thing and I get angry. And I always write emails in [[Drafts]] and I'll read the draft.          |

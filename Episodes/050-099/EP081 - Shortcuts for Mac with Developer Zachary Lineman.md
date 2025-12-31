@@ -491,7 +491,7 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 22:51      | day.                                                                                                 |
 | 22:52      | So, you know, it worked and I was able to create some some pretty fancy looking blog posts           |
 | 22:56      | back in the day.                                                                                     |
-| 22:57      | I've migrated CMS once since then and I'm in the process of migrating CMS again.                     |
+| 22:57      | I've migrated [[Content Management System\|CMS]] once since then and I'm in the process of migrating [[Content Management System\|CMS]] again.                     |
 | 23:01      | So I suspect some of that's broken and we'll get further broken, but I'll have to go back            |
 | 23:05      | and fix it at some point.                                                                            |
 | 23:08      | This episode of Automated is brought to you by Tech Talk, a podcast from the Fox at Hewlett          |
@@ -812,25 +812,25 @@ In this episode of Automators, Rosemary and David are joined by Zach, the creato
 | 40:30      | I hope you love Audible as much as I do.                                                             |
 | 40:33      | Our thanks to Audible for their support of the Automators and all of Relay FM.                       |
 | 40:38      | Alright, so as we're recording this, [[Apple]] is in the midst of the betas for iOS 15 and               |
-| 40:44      | Mac OS Monterey and Shortcuts is coming over to the Mac and I understand Jellycuts is               |
+| 40:44      | Mac OS Monterey and [[Shortcuts]] is coming over to the Mac and I understand [[Jellycuts]] is               |
 | 40:52      | too.                                                                                                 |
-| 40:53      | Yes, yeah, Jellycuts is coming to the Mac with a native [[SwiftUI]] app.                               |
+| 40:53      | Yes, yeah, [[Jellycuts]] is coming to the Mac with a native [[SwiftUI]] app.                               |
 | 40:58      | And the cool thing is, I mean, you already kind of had something going on.                           |
 | 41:01      | You have a bridge mode in the existing app where you can actually write code on your                 |
-| 41:06      | Mac for Jellycuts on iPhone and iPad and now you're going to be writing the code on the             |
+| 41:06      | Mac for [[Jellycuts]] on iPhone and iPad and now you're going to be writing the code on the             |
 | 41:10      | Mac for the Mac Shortcuts.                                                                           |
 | 41:13      | How's that coming?                                                                                   |
 | 41:14      | Really well.                                                                                         |
 | 41:15      | There's a few betas out right now to some beta testers.                                              |
-| 41:20      | So far, it's been going really well and the Shortcuts integration that I got working I               |
-| 41:24      | think is really nice and quicker than the iPhone just because of the Shortcuts command               |
+| 41:20      | So far, it's been going really well and the [[Shortcuts]] integration that I got working I               |
+| 41:24      | think is really nice and quicker than the iPhone just because of the [[Shortcuts]] command               |
 | 41:31      | line tool should I have access to on Mac?                                                            |
 | 41:35      | But I've been really liking working on the Mac app.                                                  |
 | 41:41      | I should mention that I am part of the group of testers for Mac OS.                                  |
-| 41:44      | I've only played with Jellycuts a little bit, but as far as I'm aware, it is a closed               |
+| 41:44      | I've only played with [[Jellycuts]] a little bit, but as far as I'm aware, it is a closed               |
 | 41:48      | base so you've not got a huge number of people on it right now just because it's so early            |
 | 41:52      | in the beta process.                                                                                 |
-| 41:53      | Yeah, it's currently a closed beta, but there are signups on the Jellycuts Twitter if you           |
+| 41:53      | Yeah, it's currently a closed beta, but there are signups on the [[Jellycuts]] [[Twitter]] if you           |
 | 41:59      | do want to try it out.                                                                               |
 | 42:01      | But yeah, it's not an open beta yet just because it's just not ready for that.                       |
 | 42:07      | Yeah.                                                                                                |

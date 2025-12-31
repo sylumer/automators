@@ -453,7 +453,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 21:17      | [[WWDC]], we're like, well, what do you need that for?                                                     |
 | 21:19      | And the best idea we could come up with was Timery that you would automatically fire off               |
 | 21:24      | your Timers when you start something like the Open OmniFocus start your planning timer                 |
-| 21:31      | or you open Ulysses start your writing timer, which is good, and that's a way to use it.               |
+| 21:31      | or you open [[Ulysses]] start your writing timer, which is good, and that's a way to use it.               |
 | 21:37      | But I kind of like Rose found that the idea of setting a context for an application is                 |
 | 21:44      | something that I really like.                                                                          |
 | 21:47      | And just like you were talking about, if you want to read, you want to turn on do not disturb.         |
@@ -472,15 +472,15 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 22:36      | Of all the triggers that we got, that's the one that I was scratching my head about at                 |
 | 22:40      | the beginning, but now I totally get it.                                                               |
 | 22:42      | So I actually stole something from you as well with the app launcher because you have                  |
-| 22:46      | a [[Keyboard Maestro]] macro for your Mac right where if you open Twitter, it gives you a                  |
+| 22:46      | a [[Keyboard Maestro]] macro for your Mac right where if you open [[Twitter]], it gives you a                  |
 | 22:49      | couple of minutes and then it tells you, you know, stop twittering, right?                             |
 | 22:54      | Yeah.                                                                                                  |
 | 22:55      | Well, I actually did this.                                                                             |
 | 22:56      | So I have, it's set to a number, so it waits for 60 seconds.                                           |
-| 23:00      | And then after I've been on Twitter for 60 seconds, it opens OmniFocus, so I'm spending                |
-| 23:05      | the last time on Twitter and I've done the same thing for [[Instagram]] as well and Facebook               |
+| 23:00      | And then after I've been on [[Twitter]] for 60 seconds, it opens [[OmniFocus]], so I'm spending                |
+| 23:05      | the last time on [[Twitter]] and I've done the same thing for [[Instagram]] as well and [[Facebook]]               |
 | 23:11      | on my iPad.                                                                                            |
-| 23:12      | I installed Facebook from my iPhone and a couple of other apps just because I'm finding                |
+| 23:12      | I installed [[Facebook]] from my iPhone and a couple of other apps just because I'm finding                |
 | 23:16      | that to be pretty useful because it's, they're going, hey, so you have some fun, but you're            |
 | 23:22      | going to do this stuff, right?                                                                         |
 | 23:24      | Like that's the whole point of this.                                                                   |
@@ -497,7 +497,7 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 23:55      | so much time on social media.                                                                          |
 | 23:57      | No, I think that's a great idea, Rose.                                                                 |
 | 23:59      | I hadn't thought of that.                                                                              |
-| 24:00      | So when you launch whatever your Twitter app of choice is, set a timer for 60 seconds and              |
+| 24:00      | So when you launch whatever your [[Twitter]] app of choice is, set a timer for 60 seconds and              |
 | 24:06      | then launch a new app.                                                                                 |
 | 24:07      | Yeah.                                                                                                  |
 | 24:08      | So I actually, this is a three action shortcut.                                                        |
@@ -517,9 +517,9 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 24:52      | Yeah, definitely.                                                                                      |
 | 24:54      | And actually this reminds me of something that I wanted to talk about, which was how                   |
 | 25:00      | are you using automations?                                                                             |
-| 25:03      | Because inside of the automations, like for example, the open Twitter, it then basically               |
+| 25:03      | Because inside of the automations, like for example, the open [[Twitter]], it then basically               |
 | 25:08      | has a shortcuts building interface.                                                                    |
-| 25:10      | But I found if I do this and I want to reuse it, like my kill Twitter shortcut, I can also             |
+| 25:10      | But I found if I do this and I want to reuse it, like my kill [[Twitter]] shortcut, I can also             |
 | 25:17      | use to kill [[Instagram]] and whatever else.                                                               |
 | 25:19      | So I've turned it into the 60 second OmniFocus shortcut and then I just run my shortcut.               |
 | 25:25      | Are you doing that or are you using actions directly in your automation?                               |
@@ -535,14 +535,14 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 25:52      | It's 13.1.                                                                                             |
 | 25:53      | But once you get that tab there, you tap that middle tab and it shows you these automation             |
 | 25:57      | triggers.                                                                                              |
-| 25:59      | But then, just like Ro said, you have the trigger that you create.                                     |
-| 26:03      | Like the trigger would be when I launch the Twitter app.                                               |
+| 25:59      | But then, just like Rose said, you have the trigger that you create.                                     |
+| 26:03      | Like the trigger would be when I launch the [[Twitter]] app.                                               |
 | 26:06      | Okay.                                                                                                  |
 | 26:07      | Then it allows you to add individual steps underneath it.                                              |
 | 26:11      | But like Ro said, that's not really, I think, ideal.                                                   |
 | 26:14      | The better way, what I do, after having played with this as well, is I create what I want              |
-| 26:19      | it to do as a separate shortcut, you know, the, you know, the cancel Twitter and open                  |
-| 26:25      | OmniFocus shortcut.                                                                                    |
+| 26:19      | it to do as a separate shortcut, you know, the, you know, the cancel [[Twitter]] and open                  |
+| 26:25      | [[OmniFocus]] shortcut.                                                                                    |
 | 26:27      | And then from within the automation trigger, I just run that shortcut.                                 |
 | 26:32      | Yeah.                                                                                                  |
 | 26:33      | Yeah.                                                                                                  |
@@ -651,10 +651,10 @@ Rose and David break down where Shortcuts is with respect to the 13.0 and 13.1 i
 | 33:06      | So I put one together based on the Starbucks Wi-Fi that includes the name Starbucks.                   |
 | 33:12      | Once again, it has to be approved by me, but when I say yes, because I liked it, whenever              |
 | 33:17      | I go to Starbucks, I actually like to make it like focused writing time.                               |
-| 33:23      | And so it opens OmniFocus, it opens Ulysses, turns on Do Not Disturb and does all three                |
+| 33:23      | And so it opens OmniFocus, it opens [[Ulysses]], turns on Do Not Disturb and does all three                |
 | 33:29      | of those things.                                                                                       |
 | 33:30      | For me, kind of a reminder, hey, that's why you're here buddy, get to work, don't sit                  |
-| 33:34      | and goof off on Twitter.                                                                               |
+| 33:34      | and goof off on [[Twitter]].                                                                               |
 | 33:35      | And that works good for me.                                                                            |
 | 33:38      | I don't like the approval step and I understand, as Rosa is saying, I think they call them             |
 | 33:44      | passive events where you go in and just something just happens.                                        |

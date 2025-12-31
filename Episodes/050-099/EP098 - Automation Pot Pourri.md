@@ -755,10 +755,10 @@ Rose and David have several automation topics on the table in this episode inclu
 | 28:18      | But for example, the output can then replace                          |
 | 28:22      | the selected text, but this doesn't work                              |
 | 28:24      | the same way as the share sheet, it's the right click menu,           |
-| 28:28      | which if you do right click in something like Google Docs,            |
+| 28:28      | which if you do right click in something like [[Google Docs]],            |
 | 28:31      | which I've just done, I've got some selected text                     |
-| 28:33      | in Google Docs and I've right clicked,                                |
-| 28:34      | I get a Google Docs menu.                                             |
+| 28:33      | in [[Google Docs]] and I've right clicked,                                |
+| 28:34      | I get a [[Google Docs]] menu.                                             |
 | 28:36      | So it depends on the application you're in                            |
 | 28:38      | as to whether or not that's even supported                            |
 | 28:40      | as something you can use,                                             |
@@ -1422,7 +1422,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 57:20      | And I've got another one which gets the current timestamp             |
 | 57:23      | and that's hooked up to a couple of things,                           |
 | 57:24      | a keyboard shortcut                                                   |
-| 57:25      | and this amazing [[[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] macro.                             |
+| 57:25      | and this amazing [[Stream Deck#Stream Deck Pedal\|Stream Deck Pedal]] macro.                             |
 | 57:28      | So from anywhere at any time, I can just hit the button,              |
 | 57:31      | it's gonna activate that window, go to the bottom,                    |
 | 57:34      | hit return and insert a timestamp.                                    |
@@ -1441,7 +1441,7 @@ Rose and David have several automation topics on the table in this episode inclu
 | 58:05      | and I have a little temporary desk                                    |
 | 58:07      | and I'm recording in the bedroom                                      |
 | 58:08      | back to the MacSparky roots,                                         |
-| 58:11      | but I don't have my [[Stream Deck]] or [[[Stream Deck#Stream Deck Pedal\|my pedal]] with me                   |
+| 58:11      | but I don't have my [[Stream Deck]] or [[Stream Deck#Stream Deck Pedal\|my pedal]] with me                   |
 | 58:13      | because it's all wired into my desk downstairs.                       |
 | 58:16      | And if it wasn't for the fact,                                        |
 | 58:18      | I'm about to spend a pile of money                                    |

@@ -535,7 +535,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 27:56      | Yeah.                                                                                                |
 | 27:57      | I love this.                                                                                         |
 | 27:58      | I'm using it.                                                                                        |
-| 27:59      | So Google Docs works fine in [[Safari]] on the Mac.                                                      |
+| 27:59      | So [[Google Docs]] works fine in [[Safari]] on the Mac.                                                      |
 | 28:01      | There's no problem with it, but I like the fact that it's then in a [[Google Chrome\|Chrome]] window because            |
 | 28:06      | then I have [[Moom]] put [[Google Chrome\|Chrome]] in a certain spot, and I do the same thing with [[Firefox]] when             |
 | 28:12      | I'm recording automators, I open it in [[Firefox]].                                                      |
@@ -715,7 +715,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 39:27      | There's a skeleton version of it on the sample page, but it basically, it does a lot of what         |
 | 39:35      | Rose was talking about.                                                                              |
 | 39:36      | It quits some apps.                                                                                  |
-| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, [[Slack]], [[Discord]], Twitter,        |
+| 39:38      | Like for me, it quits, I have a bunch called comms that is messages, [[Slack]], [[Discord]], [[Twitter]],        |
 | 39:47      | like, and so those all the exact same thing.                                                         |
 | 39:50      | Yeah.                                                                                                |
 | 39:51      | And those launch and quit as a group.                                                                |
@@ -896,13 +896,13 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 51:06      | If you use those bunchings, and the way I do that in [[Keyboard Maestro]], I'm curious how               |
 | 51:10      | you do it, Brett, is I actually just use conflict palettes for it because with the keyboard          |
 | 51:15      | maestro, it auto-generates the secondary key presses.                                                |
-| 51:20      | Like for me, Hyper KeyM is MacSparky, and from that, it's a full list of items.                      |
-| 51:28      | It fills the screen, but if I type Hyper KeyM, and then F, then it brings up the focus podcast,       |
-| 51:34      | or if I hit Hyper KeyM, then A, it brings up automators.                                              |
-| 51:38      | If I hit Hyper KeyM, then A, then G, it opens the Google Docs for automators.                         |
+| 51:20      | Like for me, Hyper Key M is MacSparky, and from that, it's a full list of items.                      |
+| 51:28      | It fills the screen, but if I type Hyper Key M, and then F, then it brings up the focus podcast,       |
+| 51:34      | or if I hit Hyper Key M, then A, it brings up automators.                                              |
+| 51:38      | If I hit Hyper KeyM, then A, then G, it opens the [[Google Docs]] for automators.                         |
 | 51:45      | And those get under your fingers a lot faster than you think they would.                             |
 | 51:48      | Yes.                                                                                                 |
-| 51:49      | Or you could use Hyper KeyB to trigger all your bunches.                                              |
+| 51:49      | Or you could use Hyper Key B to trigger all your bunches.                                              |
 | 51:54      | Yes.                                                                                                 |
 | 51:55      | I actually have quite a few of my bunches on exactly that kind of grouping.                          |
 | 52:01      | There's a bunch folder in [[Keyboard Maestro]], but I actually mostly launch my bunches from             |
@@ -918,7 +918,7 @@ In this episode of Automators, Rosemary and David are joined by none other than 
 | 52:28      | What mouse?                                                                                          |
 | 52:29      | I haven't even heard this.                                                                           |
 | 52:30      | A CAD mouse.                                                                                         |
-| 52:32      | So this is primarily for people who do 3D modeling and things like that, which I'm getting into      |
+| 52:32      | So this is primarily for people who do 3D modelling and things like that, which I'm getting into      |
 | 52:37      | a little bit because I recently purchased a 3D printer.                                              |
 | 52:40      | But a CAD mouse, basically, so I'm using it with my left hand, so it's got a scroll wheel            |
 | 52:48      | type thing on it.                                                                                    |

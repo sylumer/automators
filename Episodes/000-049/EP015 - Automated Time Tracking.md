@@ -221,11 +221,11 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 06:35      | which was one of the things I will mention how I do later,                      |
 | 06:38      | just because it really opened my eyes to go,                                    |
 | 06:41      | how long am I spending lazing in bed in the mornings                            |
-| 06:44      | just scrolling through Twitter?                                                 |
+| 06:44      | just scrolling through [[Twitter]]?                                                 |
 | 06:45      | Like that's not good for me.                                                    |
 | 06:47      | I could be doing something much better with my mornings                         |
 | 06:49      | or at the very least sitting in a chair                                         |
-| 06:52      | scrolling through Twitter, which is probably better for me.                     |
+| 06:52      | scrolling through [[Twitter]], which is probably better for me.                     |
 | 06:55      | So that's the different angles to time tracking                                 |
 | 07:01      | that you can look at.                                                           |
 | 07:02      | So the question that the automators are bringing                                |
@@ -1177,7 +1177,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 45:40      | any of these options can really work for you.                                   |
 | 45:42      | And you should check it out.                                                    |
 | 45:44      | Yes.                                                                            |
-| 45:45      | And of course, if you're looking at something like Togo,                        |
+| 45:45      | And of course, if you're looking at something like [[Toggl]],                        |
 | 45:48      | there are lots of other timing options out there.                               |
 | 45:52      | I'm sure that I know that there are some good ones for iOS,                     |
 | 45:55      | which track things based on GPS data.                                           |
@@ -1193,7 +1193,7 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 46:19      | We've just talked about the ones that we actually use today.                    |
 | 46:23      | But all the ones that we've mentioned                                           |
 | 46:24      | can at least be tried for free.                                                 |
-| 46:26      | I'm still on the Togo free plan timing I have                                   |
+| 46:26      | I'm still on the [[Toggl]] free plan timing I have                                   |
 | 46:29      | as part of setup and I'm using                                                  |
 | 46:30      | the free rescue time version as well.                                           |
 | 46:32      | So you don't need to pay for any of this to give it a shot.                     |
@@ -1207,15 +1207,15 @@ In this episode Rose and David dive into time tracking, including the why, the h
 | 46:54      | You can find me over at macsparky.com                                           |
 | 46:57      | and that gets you to just about any place that I hang out.                      |
 | 47:01      | Yes, including some very interesting courses.                                   |
-| 47:03      | The Siri Shortcuts one is definitely a recommendation                           |
+| 47:03      | The [[Shortcuts\|Siri Shortcuts]] one is definitely a recommendation                           |
 | 47:06      | for anybody listening to this who would like to try                             |
-| 47:09      | time tracking with Toggle,                                                      |
+| 47:09      | time tracking with [[Toggle]],                                                      |
 | 47:10      | knowing how to build shortcuts and then adding those                            |
 | 47:13      | Toggle shortcut actions to it is definitely a good step.                        |
 | 47:17      | Yeah, yeah.                                                                     |
-| 47:18      | I am Rosemary Orchard on Twitter,                                               |
+| 47:18      | I am Rosemary Orchard on [[Twitter]],                                               |
 | 47:20      | rosemaryorchard.com is my website.                                              |
-| 47:23      | The show is Automators FM on Twitter                                            |
+| 47:23      | The show is Automators FM on [[Twitter]]                                            |
 | 47:25      | and you can come and chat with us,                                              |
 | 47:27      | give us all of your feedback over in the forums                                 |
 | 47:29      | at talk.automators.fm.                                                          |

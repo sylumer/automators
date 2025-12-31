@@ -272,12 +272,12 @@ Rose and David bring all the automation news from [[Apple|Apple's]] 2020 Develop
 | 16:42      | So last year with iOS 13, we got open app. This year, we got it's sister trigger, which                                                                   |
 | 16:49      | is close app. So now when you close an app, it can also run a shortcut, which is great.                                                                   |
 | 16:55      | And so I'm modifying my, I have a reading shortcut. So when I start reading, it marks                                                                     |
-| 17:02      | it as done in streaks for today, which is great. Except for the fact that if I just                                                                       |
+| 17:02      | it as done in [[Streaks]] for today, which is great. Except for the fact that if I just                                                                       |
 | 17:07      | open the [[Kindle]] app to check the title of my current book to, you know, tell a friend                                                                 |
 | 17:10      | about it, then it marks my reading is done for the day. So now what I'm going to do is                                                                    |
 | 17:15      | when I open the app, I'm going to start a timer. And then when I close the app, if my                                                                     |
 | 17:19      | timer is run out, because I can check I'm using just timers for this, then it will mark                                                                   |
-| 17:24      | it as done in streaks. And if not, it can pulse a timer.                                                                                                  |
+| 17:24      | it as done in [[Streaks]]. And if not, it can pulse a timer.                                                                                                  |
 | 17:27      | Yeah. I thought about you as well with this one because I know that you do a lot of timing                                                                |
 | 17:31      | and automatic time tracking stuff. And if you have app based timing, like you open [[OmniFocus]]                                                          |
 | 17:37      | and it starts your planning timer. Now you could have it stop the timer when you                                                                          |

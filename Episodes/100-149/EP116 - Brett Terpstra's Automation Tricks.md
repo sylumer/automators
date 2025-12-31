@@ -240,40 +240,40 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 16:16      | you do with bunch. And there have been a few cool ones that have come in, but most people,                |
 | 16:20      | I think their bunches are so personal, like they're so, they're so exactly what this person needs,        |
 | 16:28      | that they don't tend to consider it worthy of sharing. Yeah. Like I'd considered using your logic         |
-| 16:34      | when you announced it, like thinking, well, I could decide, is this Mac Power users,                      |
-| 16:39      | automators are focused, and then I could have it set up differently. But then I had already made          |
+| 16:34      | when you announced it, like thinking, well, I could decide, is this [[Mac Power Users]],                      |
+| 16:39      | [[Automators]] or [[Focused]], and then I could have it set up differently. But then I had already made          |
 | 16:45      | an individual bunch for each one. So it's like, I just didn't feel like, I felt like it was just          |
 | 16:50      | adding. Yeah. Like my podcasting bunch, when I, when I, because I used to have two podcasts,              |
 | 16:57      | I used to do systematic and overtired. And I, each one had a different kind of workflow. And              |
 | 17:03      | for example, like overtired, our show notes were all done in quip. Whereas with systematic,               |
-| 17:10      | I would use like Google docs. And so there would be a difference in the, in my,                           |
+| 17:10      | I would use like [[Google Docs]]. And so there would be a difference in the, in my,                           |
 | 17:18      | my bunch populates my show notes, like a basic markdown set up for show notes. And that would             |
 | 17:25      | be different between the podcast. So when I launched the podcasting bunch, it asked me which              |
 | 17:31      | podcast I'm recording, and then asked me for an episode number. And then it takes it from                 |
 | 17:37      | there. And depending on which podcasts I choose, it builds out like the initial show notes, sets up       |
-| 17:43      | the document, gets me ready to go. Yeah. Do you think Google docs is ever going to get replaced?          |
+| 17:43      | the document, gets me ready to go. Yeah. Do you think [[Google Docs]] is ever going to get replaced?          |
 | 17:50      | It seems like no, it's just so entrenched at this point. I mean, because other companies are getting      |
-| 17:56      | good at cloud sync text and, you know, Google's bag of tricks is not exclusive anymore. But they're       |
-| 18:03      | just, you want to know a secret. What? So GitHub is owned by Microsoft. Yeah. But internally, for         |
-| 18:10      | all of their shared document needs, they use Google docs. Boy, that's like a surrender right there.       |
-| 18:21      | It is. Yeah. Yeah. Well, I'm not a huge fan of Google either. I mean, I'm not like weird about            |
+| 17:56      | good at cloud sync text and, you know, [[Google\|Google's]] bag of tricks is not exclusive anymore. But they're       |
+| 18:03      | just, you want to know a secret. What? So [[GitHub]] is owned by [[Microsoft]]. Yeah. But internally, for         |
+| 18:10      | all of their shared document needs, they use [[Google Docs]]. Boy, that's like a surrender right there.       |
+| 18:21      | It is. Yeah. Yeah. Well, I'm not a huge fan of [[Google]] either. I mean, I'm not like weird about            |
 | 18:27      | it. But, you know, I prefer just to kind of keep my own stuff. But we do show. Have you used quip?        |
-| 18:32      | Yeah. Yeah, I have. We used it in the past. I really like quip. It's so much simpler. Like,               |
+| 18:32      | Yeah. Yeah, I have. We used it in the past. I really like [[Quip]]. It's so much simpler. Like,               |
 | 18:40      | it doesn't have all the change tracking and stuff and commenting that you would want,                     |
-| 18:45      | that it's kind of like standard for why you would use Google docs. But if you just need shared            |
+| 18:45      | that it's kind of like standard for why you would use [[Google Docs]]. But if you just need shared            |
 | 18:50      | documents and spreadsheets, quip is great. Yeah. We were using it for this show for a while,              |
 | 18:55      | but the problem became when we'd invite someone on the show and they'd never heard of quip. And           |
-| 19:01      | it's like, you know, it just became a friction point. So we just went to Google docs. Everybody's         |
-| 19:06      | got access to Google docs, you know. Yeah. But you can log in to quip with any Gmail accounts. So         |
+| 19:01      | it's like, you know, it just became a friction point. So we just went to [[Google Docs]]. Everybody's         |
+| 19:06      | got access to [[Google Docs]], you know. Yeah. But you can log in to quip with any [[Gmail]] accounts. So         |
 | 19:14      | it's one extra step for people. Yeah. But in some people, it would be weird.                              |
-| 19:18      | I've never had trouble getting a guest in to quip. Yeah. The thing I've been doing lately on the          |
+| 19:18      | I've never had trouble getting a guest in to [[Quip]]. Yeah. The thing I've been doing lately on the          |
 | 19:23      | automation levels, because we're going to do a show in the future on [[Make]]. It used to be                  |
 | 19:28      | [[Make\|Integromat]]. And I've been working on Google doc automation via [[Make]] and trying different, you             |
 | 19:36      | know, templates and samples. When we get to that show, we want to be able to talk about it more.          |
 | 19:42      | And that's an angle of this. I really have not explored much in the past, but you can actually            |
 | 19:47      | do a lot with some of these online document services and the online automation tools.                     |
-| 19:52      | Are you into any of that like, you know, [[Make\|Integromat/Make]] or, you know, Zapier or any of that        |
-| 19:59      | stuff? I use Zapier and I have TTT, but not extensively. I have TTT has really good support               |
+| 19:52      | Are you into any of that like, you know, [[Make\|Integromat/Make]] or, you know, [[Zapier]] or any of that        |
+| 19:59      | stuff? I use [[Zapier]] and [[IFTTT]], but not extensively. [[IFTTT]] has really good support               |
 | 20:09      | for [[Day One]], which is where I do all my journalling. So I have a bunch with them years ago. And it's       |
 | 20:15      | like every MacSparky blog post gets added to my journal and like tweets that I heart,                    |
 | 20:21      | which aren't very many anymore. Yeah, well, I have it like any photo I post to [[Instagram]]                  |
@@ -281,7 +281,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 20:35      | running until I discover the folder. It's a nice little archive. I appreciate it. It's from back          |
 | 20:43      | when I used to do Slogger. Do you remember Slogger? Yeah, I forgot about that. Yeah.                      |
 | 20:47      | Yeah. It's dead at this point, but it was a script that would run once a day and gather                   |
-| 20:56      | all of your social media posts across Facebook and Twitter and Flickr and [[Instagram]] and would             |
+| 20:56      | all of your social media posts across [[Facebook]] and [[Twitter]] and [[Flickr]] and [[Instagram]] and would             |
 | 21:07      | basically and originally it was built to work with [[Day One]] and it would build like a [[Day One]]              |
 | 21:12      | calendar of all of your social media output. Yeah. And I still think there's a place for that.            |
 | 21:18      | And there's been some apps that have come out that especially on iOS that kind of fit that niche.         |
@@ -297,12 +297,12 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 22:25      | well, I'll put the blog post in there too. Just kind of like when I'm old and drooling on myself,         |
 | 22:30      | I can see what I was writing at the time. I was thinking about other stuff. And it was four               |
 | 22:36      | volumes. It was literally four volumes of stuff. And you can really collect a lot in that with            |
-| 22:42      | automation if you want. And I've gone back and forth on my other show, Focus, Mike Schmitz,               |
+| 22:42      | automation if you want. And I've gone back and forth on my other show, [[Focus]], [[Mike Schmitz]],               |
 | 22:49      | and I keep talking because he got really into journalling by hand with a pen and paper.                    |
 | 22:56      | The more I think about it, the more I'm just in the bag for [[Day One]]. And at this point,                   |
 | 22:59      | I have a decade of data. If they ever go out of business, I'm in trouble. But they got acquired           |
 | 23:07      | by automatic. Oh, they did? I didn't realise that. The way I understand it is that, I forget              |
-| 23:13      | the guy's name, the guy who runs automatic and slash WordPress is like one of the...                      |
+| 23:13      | the guy's name, the guy who runs [[Automattic]] and slash [[WordPress]] is like one of the...                      |
 | 23:19      | Matt Mullenweg. Yeah. He feels like one of the quality rich people on the internet. You know what         |
 | 23:23      | I mean? A lot of these guys that run these companies are a little like, I'm not sure about that guy.      |
 | 23:27      | Sketchy. Yeah. This guy seems like he's really solid. And I guess his dad was dying and he did            |
@@ -369,29 +369,29 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 29:57      | and it's going to replace the search syntax with that markdown link. It makes creating show notes.        |
 | 30:04      | Like I can just write, well, something comes up in a podcast. I can just write what it is that            |
 | 30:12      | I know I'm going to search for and I can leave it. And then at the end of the podcast, I can just go      |
-| 30:17      | through and I can run SearchLink on each line or I can add the syntax and run it in bulk and it           |
+| 30:17      | through and I can run [[SearchLink]] on each line or I can add the syntax and run it in bulk and it           |
 | 30:23      | will find all of the links and just expand them for me. And it saves me so much time switching            |
 | 30:30      | between my editor and a browser. I didn't even know you made this and I love it already. Okay,            |
-| 30:36      | so I'm installing, you got SearchLink workload, you got SearchLink file and SearchLink error.             |
-| 30:41      | Yeah, it's all for you, right? Yeah, so SearchLink file is the exact same thing as                        |
-| 30:48      | SearchLink, but it's designed to run on text files. I don't use that very much. What I use the most       |
-| 30:57      | is I assign a keyboard shortcut to the SearchLink main service. So for me, it's control shift L.          |
+| 30:36      | so I'm installing, you got SearchLink workload, you got [[SearchLink]] file and [[SearchLink]] error.             |
+| 30:41      | Yeah, it's all for you, right? Yeah, so [[SearchLink]] file is the exact same thing as                        |
+| 30:48      | [[SearchLink]], but it's designed to run on text files. I don't use that very much. What I use the most       |
+| 30:57      | is I assign a keyboard shortcut to the [[SearchLink]] main service. So for me, it's control shift L.          |
 | 31:04      | If you pass just a single line of text with no line breaks and no search syntax to SearchLink,            |
 | 31:12      | it will just search for the text you have highlighted. So you don't even have to do,                      |
 | 31:19      | like, I'm looking at our show notes. If I typed out Brett Terpstra markdown service tools,            |
 | 31:26      | highlighted that and hit control shift L, it would link it. It would just put a link,                     |
 | 31:33      | a markdown format link into the document. So you don't even need special syntax for it.                   |
-| 31:40      | Like, if I want to link a TV show, I can just write exclamation point IMDB, the name of the TV            |
-| 31:46      | show highlight just that, run SearchLink on it, and it would replace it with a link to the IMDB           |
+| 31:40      | Like, if I want to link a TV show, I can just write exclamation point [IMDB](https://imdb.com), the name of the TV            |
+| 31:46      | show highlight just that, run [[SearchLink]] on it, and it would replace it with a link to the IMDB           |
 | 31:53      | page for that show. Yeah, so it just goes into the services menu. I'm going to attach a keyboard          |
 | 31:59      | shortcut to it. And then, wow, this is really great. Are you in the Google Doc right now?                 |
 | 32:04      | Yeah, I am. All right, so I'm typing Brett Terpstra markdown service tools,                           |
 | 32:13      | and highlighting that, hitting my keyboard shortcut. And it should...                                     |
-| 32:20      | Oh, maybe it doesn't work in Google Docs. Of course not. We're just talking about it.                     |
+| 32:20      | Oh, maybe it doesn't work in [[Google Docs]]. Of course not. We're just talking about it.                     |
 | 32:25      | Yeah, it might be a [[Firefox]] problem, yet that should have just linked it,                                 |
 | 32:30      | and it would in a markdown file. But here, let me just give it a shot. I'm going to try it too.           |
 | 32:35      | Isn't this great podcast scene we're experimenting right on?                                              |
-| 32:38      | This is great radio. Yeah, okay, so it doesn't work in Google Docs,                                       |
+| 32:38      | This is great radio. Yeah, okay, so it doesn't work in [[Google Docs]],                                       |
 | 32:41      | but I will use it later in text outside. So I can now go and pull links down                              |
 | 32:48      | with a single keyboard shortcut. Without switching to your browser, yeah.                                 |
 | 32:53      | I love when Brett Terpstra has a problem in his life, because it benefits us all.                          |
@@ -400,7 +400,7 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 33:08      | Because my first blog was called Circle Six Design Blog. The Circle Six blog.                             |
 | 33:14      | Yeah. And it was an advertising firm that I ran. And I had just switched to Mac,                          |
 | 33:23      | and I was just starting to solve problems, and I went ahead and I documented what I was learning.         |
-| 33:30      | And at first, it was pretty rudimentary stuff with a lot of WordPress learning and stuff.                 |
+| 33:30      | And at first, it was pretty rudimentary stuff with a lot of [[WordPress]] learning and stuff.                 |
 | 33:35      | But I went from like 20 readers a day to 1,000 readers a day pretty quickly.                              |
 | 33:49      | When I started just like, oh, anything I learn, anything I fix, I can just share.                         |
 | 33:56      | And there's people out there that need it.                                                                |
@@ -820,9 +820,9 @@ Brett Terpstra joins David to explain some of his favourite automation tools and
 | 01:17:54   | as to what's working and what's not. Yeah. Cool. I'll check it out. All right. So Brett,                  |
 | 01:18:00   | where can people find you these days? I am as always at [brettterpstra.com](https://brettterpstra.com). That's three T's in            |
 | 01:18:07   | the middle. You can find all of my projects there, links to all of my social media. If you're looking     |
-| 01:18:15   | for me on Twitter or Macedon or whatever, I'm everywhere. I am ttscoff, ttscoff. And that will,           |
+| 01:18:15   | for me on [[Twitter]] or [[Mastodon]] or whatever, I'm everywhere. I am ttscoff, ttscoff. And that will,           |
 | 01:18:28   | that will generally find me. You can even go to ttscoff.me on the web and it will take you to             |
-| 01:18:33   | brettterpstra.com. So ttscoff. And, and like, I don't have any links for Oracle or anything,              |
+| 01:18:33   | [brettterpstra.com](https://brettterpstra.com). So ttscoff. And, and like, I don't have any links for Oracle or anything,              |
 | 01:18:40   | but you can find my podcast at overtiredpod.com. That's the podcast I do with Christina Warren            |
 | 01:18:49   | from GitHub and Jeff Severn's Guntzel. It has been a blast. We have become very much a mental health       |
 | 01:18:57   | podcast. I recommend anyone who has, especially neurodiverse, if you have ADHD, autism, bipolar            |

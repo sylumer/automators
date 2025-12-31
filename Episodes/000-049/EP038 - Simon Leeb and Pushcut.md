@@ -1176,14 +1176,14 @@ App developer Simon Leeb joins us to talk about his automation journey that turn
 | 01:09:01   | Simon, where should people reach out if they want to get a hold of you?                             |
 | 01:09:07   | The forums is a good place.                                                                         |
 | 01:09:09   | I'm trying to be there all the time and see if anybody has a question in this area.                 |
-| 01:09:16   | Of course, there's Twitter.                                                                         |
-| 01:09:17   | You can find the app on Twitter.                                                                    |
+| 01:09:16   | Of course, there's [[Twitter]].                                                                         |
+| 01:09:17   | You can find the app on [[Twitter]].                                                                    |
 | 01:09:20   | I tried to post about updates or new features there as they come out.                               |
 | 01:09:25   | One thing I was just thinking about, as Rose mentioned, the situation where you want a              |
 | 01:09:32   | notification eight hours after you enter a region, I'm actually working on a feature                |
 | 01:09:38   | right now to have this sort of delayed location notification.                                       |
 | 01:09:42   | So that might be something that you get out of the box.                                             |
-| 01:09:45   | And once that version ships, I'm sure to announce it on Twitter too.                                |
+| 01:09:45   | And once that version ships, I'm sure to announce it on [[Twitter]] too.                                |
 | 01:09:50   | So that's a good place, I would say.                                                                |
 | 01:09:51   | There's also a Reddit, so anywhere.                                                                 |
 | 01:09:54   | If you Google it, you'll find it.                                                                   |

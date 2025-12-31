@@ -554,7 +554,7 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 31:55      | for [[Safari]].                                                                                             |
 | 31:56      | Yes, it is, but you can set it that you can toggle it.                                                  |
 | 31:59      | So if it's usually on auto, then you could set it to as explicitly on or off in certain                 |
-| 32:04      | focus modes and you can choose the theme that it uses as well, but streaks the habit tracking           |
+| 32:04      | focus modes and you can choose the theme that it uses as well, but [[Streaks]] the habit tracking           |
 | 32:09      | app has support and focused the Pomodoro timer also has filter support for the session groups.          |
 | 32:19      | But I think David, I think possibly my favourite one is [[Safari]] and those tab groups because              |
 | 32:24      | I've been, I've been going all in on the tab groups.                                                    |
@@ -1344,9 +1344,9 @@ Rose and David are diving deep into the new iOS 16 Focus Modes. Do you think the
 | 01:19:30   | set focus mode filters.                                                                                 |
 | 01:19:33   | And you know, so I could pick, say the, I'll pick the, I'll grab the, the strings one.                  |
 | 01:19:40   | That seems good.                                                                                        |
-| 01:19:42   | And so I can set, so I can either turn on a streaks focus mode filter off, toggle it                    |
+| 01:19:42   | And so I can set, so I can either turn on a [[Streaks]] focus mode filter off, toggle it                    |
 | 01:19:48   | or clear it or just set it while in, and then you choose your focus mode, right?                        |
-| 01:19:54   | So I could set my streaks focus mode filter while I'm in sleep to a particular category                 |
+| 01:19:54   | So I could set my [[Streaks]] focus mode filter while I'm in sleep to a particular category                 |
 | 01:19:58   | and I'll select, say my health tasks.                                                                   |
 | 01:20:00   | But then when I run this, it will run it, but that's not for today's sleep mode.                        |
 | 01:20:07   | And now if I go into the settings, it has, I'm just double checking to make sure it has,                |

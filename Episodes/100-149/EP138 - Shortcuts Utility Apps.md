@@ -53,7 +53,7 @@ Rose and David cover some of their favourite Apps that add additional features t
 - [Secure ShellFish – SSH Client for iOS](https://secureshellfish.app/)
 - [Actions — Sindre Sorhus](https://sindresorhus.com/actions)
 - [HTTPBot - REST Client for iOS, iPadOS & macOS](https://www.httpbot.io/)
-- [[[Drafts]] | Where Text Starts](https://getdrafts.com/)
+- [Drafts | Where Text Starts](https://getdrafts.com/)
 - [Shortery on the Mac App Store](https://apps.apple.com/gb/app/shortery/id1594183810?mt=12)
 - [ShareBot for Shortcuts on the Mac App Store](https://apps.apple.com/gb/app/sharebot-for-shortcuts/id1597340986?mt=12)
 - [MenuBot: Custom Menu Bar on the Mac App Store](https://apps.apple.com/gb/app/menubot-custom-menu-bar/id6444080295?mt=12)
@@ -999,18 +999,18 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 59:43      | Okay.                                                                                                |
 | 59:44      | Well, I guess it's time for that.                                                                    |
 | 59:45      | Well, I mean, I was going to go with a less nerdy mention because have you ever had like,            |
-| 59:50      | I don't know, say a link to a Zoom meeting that you use on a regular basis, but you don't            |
-| 59:55      | want to open it in your browser and then have it open in the Zoom app.                               |
-| 59:59      | You just want to straight up open it in the Zoom app, right?                                         |
+| 59:50      | I don't know, say a link to a [[Zoom]] meeting that you use on a regular basis, but you don't            |
+| 59:55      | want to open it in your browser and then have it open in the [[Zoom]] app.                               |
+| 59:59      | You just want to straight up open it in the [[Zoom]] app, right?                                         |
 | 01:00:02   | Yeah.                                                                                                |
-| 01:00:03   | Well, that's what Opener is for.                                                                     |
-| 01:00:05   | So, Opener is an app and it basically came into existence for things that didn't properly            |
-| 01:00:13   | necessarily open deep links or so that you could work around like, hey, the Twitter links            |
-| 01:00:20   | or the Reddit links don't want to open in this app.                                                  |
-| 01:00:24   | Obviously, unfortunately, my favourite Reddit client is now dead subtly because Reddit killed         |
-| 01:00:29   | Apollo, which is very sad, but Opener was created basically to just let you open apps                |
+| 01:00:03   | Well, that's what [[Opener]] is for.                                                                     |
+| 01:00:05   | So, [[Opener]] is an app and it basically came into existence for things that didn't properly            |
+| 01:00:13   | necessarily open deep links or so that you could work around like, hey, the [[Twitter]] links            |
+| 01:00:20   | or the [[Reddit]] links don't want to open in this app.                                                  |
+| 01:00:24   | Obviously, unfortunately, my favourite [[Reddit]] client is now dead subtly because [[Reddit]] killed         |
+| 01:00:29   | [[Apollo]], which is very sad, but [[Opener]] was created basically to just let you open apps                |
 | 01:00:35   | in open URLs in specific apps and it works in shortcuts.                                             |
-| 01:00:41   | So I have a number of shortcuts, which will just like open a Zoom URL in Zoom and things             |
+| 01:00:41   | So I have a number of shortcuts, which will just like open a [[Zoom]] URL in [[Zoom]] and things             |
 | 01:00:46   | like that.                                                                                           |
 | 01:00:47   | And this is just so useful that, yeah, it's really hard to explain in some ways because              |
 | 01:00:53   | it just opens a URL, but it doesn't open it in [[Safari]].                                               |
@@ -1027,12 +1027,12 @@ Rose and David cover some of their favourite Apps that add additional features t
 | 01:01:28   | And they have shortcut support, which is why it's being discussed today.                             |
 | 01:01:31   | Yeah.                                                                                                |
 | 01:01:32   | Exactly.                                                                                             |
-| 01:01:33   | And it can be useful for all sorts of things like opening Aliexpress apps in the right               |
+| 01:01:33   | And it can be useful for all sorts of things like opening [[AliExpress]] apps in the right               |
 | 01:01:37   | thing or opening [[Amazon]] links in the [[Amazon]] app and stuff like that.                                 |
 | 01:01:42   | But you can also like specifically open things in third-party browsers and it's got a URL            |
 | 01:01:48   | scheme.                                                                                              |
-| 01:01:49   | So, and it can also detect Amp links to open them if you wanted to.                                   |
-| 01:01:56   | I personally don't like Google Amp links because it kind of breaks the way a whole bunch of           |
+| 01:01:49   | So, and it can also detect [[Google Amp\|Amp]] links to open them if you wanted to.                                   |
+| 01:01:56   | I personally don't like [[Google Amp]] links because it kind of breaks the way a whole bunch of           |
 | 01:02:00   | websites wanted to do things in the first place and deprive some of revenue.                         |
 | 01:02:04   | But like the fact that if you're on a really bad connection, it can do that and load the             |
 | 01:02:08   | page that you do desperately need to load because it's got the information about the                 |

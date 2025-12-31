@@ -1017,7 +1017,7 @@ Ken Case joins David Sparks and Rosemary Orchard to talk about automating all th
 | 01:02:55   | Well, I guess the, the easiest way to stay in touch with what we're doing is to go to                               |
 | 01:02:59   | our website [omnigroup.com](https://omnigroup.com) and we have a blog, of course, and we have a newsletter that you |
 | 01:03:03   | can sign up for if you prefer to get things in email.                                                               |
-| 01:03:07   | And of course you can find me, uh, personally on mastodon.                                                          |
+| 01:03:07   | And of course you can find me, uh, personally on [[Mastodon]].                                                          |
 | 01:03:12   | I'm at [mastodon.social/kcase or kencase](https://mastodon.social/@kcase), yeah, we'll put the right link in the show                                 | 
 | 01:03:19   | notes.                                                                                                              |
 | 01:03:20   | Yeah.                                                                                                               |

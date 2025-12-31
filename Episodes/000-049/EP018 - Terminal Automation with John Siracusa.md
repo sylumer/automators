@@ -519,7 +519,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 24:27      | So I had a task that I needed to accomplish on my Mac and it was when I was writing a                    |
 | 24:32      | Mac OS X reviews for Ars Technica and they just kept getting bigger and more complicated.                |
 | 24:37      | They were tons and tons of text, huge amount of images, sometimes movies, and I would have               |
-| 24:44      | to write it and it would have to eventually put into their CMS in some weird format.                     |
+| 24:44      | to write it and it would have to eventually put into their [[Content Management System\|CMS]] in some weird format.                     |
 | 24:48      | And also, I was selling eBooks and so I had to generate eBooks for it, one for the Kindle                |
 | 24:53      | Store and one EPUB for Download from Ars and then an EPUB made for the iBook Store.                      |
 | 25:01      | And that's a lot of stuff that has to happen.                                                            |
@@ -529,7 +529,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 25:18      | as they used to say on a Mac.                                                                            |
 | 25:20      | But when it came time to automate this, to say I've made a change to the article, I want                 |
 | 25:26      | to see how it looks, I want to see how it looks on the web, I want to make sure it's                     |
-| 25:30      | correct for the CMS, how is it going to look in context on Ars Technica, what is the Kindle              |
+| 25:30      | correct for the [[Content Management System\|CMS]], how is it going to look in context on Ars Technica, what is the Kindle              |
 | 25:34      | Book going to look like and what is the iBook going to look like, right?                                 |
 | 25:37      | That's a lot of steps and because you're on the Mac, you could say like, I could [[AppleScript]]                   |
 | 25:41      | this, right?                                                                                      |
@@ -860,7 +860,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 44:05      | Yeah, and that was kind of my question was the periodic utility.                                         |
 | 44:09      | Are there any that you actually find that you use under fire that come in handy, or                      |
 | 44:13      | is it just you just want to see how people are doing things?                                             |
-| 44:17      | The various like, you know, because when I run across things on the web or on Twitter                    |
+| 44:17      | The various like, you know, because when I run across things on the web or on [[Twitter]]                    |
 | 44:21      | is the main two places I run across things that I want to like save for probably for,                    |
 | 44:25      | you know, a future podcast episode or something.                                                         |
 | 44:28      | I do want to sort of queue them up somewhere, whether it's sending them to a note or emailing            |
@@ -875,11 +875,11 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 45:01      | What shape does the data take?                                                                           |
 | 45:02      | What kind of metadata does it have?                                                                      |
 | 45:03      | Can I get more metadata?                                                                                 |
-| 45:04      | Like it's all sorts of ones that are like dedicated to Twitter that instead of, instead                  |
-| 45:08      | of using like the applications share thing, like my Twitter client, it will just get enough              |
-| 45:13      | information that it can from the iOS app and then it will go to Twitter's web API and extract            |
+| 45:04      | Like it's all sorts of ones that are like dedicated to [[Twitter]] that instead of, instead                  |
+| 45:08      | of using like the applications share thing, like my [[Twitter]] client, it will just get enough              |
+| 45:13      | information that it can from the iOS app and then it will go to [[Twitter\|Twitter's]] web API and extract            |
 | 45:20      | metadata and then use that to form the information that you're going to put into a note or make          |
-| 45:25      | a little HTML blob out of or mail yourself and that level of automation, I just start                    |
+| 45:25      | a little [[HTML]] blob out of or mail yourself and that level of automation, I just start                    |
 | 45:29      | to get frustrated by how difficult things are and I just go back to the tried and true                   |
 | 45:34      | old method because the default sort of mail action share thing does almost entirely what                 |
 | 45:40      | I want.                                                                                                  |
@@ -1157,7 +1157,7 @@ Web programmer John Siracusa joins the Automators to share his thoughts on autom
 | 01:01:27   | tech podcasts, atp.fm, reconcilable differences, that's at relay.fm, robot or not, that's                |
 | 01:01:35   | there on the incomparable network.                                                                       |
 | 01:01:37   | And I am an occasional guest on the incomparable podcast itself.                                         |
-| 01:01:41   | And finally, I guess on Twitter, you can find me, it's Syracuse on Twitter, it's just my                 |
+| 01:01:41   | And finally, I guess on [[Twitter]], you can find me, it's Siracusa on [[Twitter]], it's just my                 |
 | 01:01:45   | last name.                                                                                               |
 | 01:01:46   | Well, thanks so much for giving us some time today.                                                      |
 | 01:01:49   | I really was curious about your thoughts about automation because I know after all those                 |

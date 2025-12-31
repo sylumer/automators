@@ -700,40 +700,40 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 32:32      | Often my advice to people is [[JavaScript]].                                                                         |
 | 32:35      | Because I feel like [[JavaScript]] is, you know, applicable not only on the Mac,                                     |
 | 32:39      | but there's a lot of stuff on iOS and iPad OS that uses [[JavaScript]].                                              |
-| 32:44      | The Omni Automation is all Java based.                                                                           |
-| 32:47      | I hadn't really thought of recommending Python.                                                                  |
+| 32:44      | The [[Omni Automation]] is all [[Javascript]] based.                                                                           |
+| 32:47      | I hadn't really thought of recommending [[Python]].                                                                  |
 | 32:50      | Are you already fluent with [[JavaScript]] or did you actively choose Python over [[JavaScript]]?                        |
 | 32:57      | So going back to the idea that I'm not a programmer, right?                                                      |
 | 33:00      | Yeah.                                                                                                            |
 | 33:01      | What I have done is botched things together.                                                                     |
-| 33:04      | And between building the new version of Six Colours in WordPress, which gave me a lot of time.                    |
+| 33:04      | And between building the new version of Six Colours in [[WordPress]], which gave me a lot of time.                    |
 | 33:10      | I already knew a little bit of PHP, but it gave me a lot of time.                                                |
-| 33:13      | The PHP I knew was very much like on my WeatherStation page, I use PHP.                                          |
-| 33:17      | Because again, the WeatherStation app is kind of dumb.                                                           |
+| 33:13      | The PHP I knew was very much like on my [[WeatherStation]] page, I use [[PHP]].                                          |
+| 33:17      | Because again, the [[WeatherStation]] app is kind of dumb.                                                           |
 | 33:20      | I was like setting variables and then using PHP to say, well, if it's cold, make it blue.                        |
 | 33:24      | And if it's hot, make it red, right?                                                                             |
 | 33:26      | Stuff like that.                                                                                                 |
-| 33:27      | But building a WordPress theme, I was like, okay.                                                                |
-| 33:30      | So I learned a lot about PHP and PHP validation and all this sort of stuff.                                      |
-| 33:34      | And I had to learn GitHub as a part of that.                                                                     |
+| 33:27      | But building a [[WordPress]] theme, I was like, okay.                                                                |
+| 33:30      | So I learned a lot about [[PHP]] [[and]] PHP validation and all this sort of stuff.                                      |
+| 33:34      | And I had to learn [[GitHub]] as a part of that.                                                                     |
 | 33:37      | I also want another project I did last year.                                                                     |
 | 33:40      | I mentioned having something in my menu bar for air quality.                                                     |
 | 33:44      | Last year, I built an iOS 15 widget to show air quality or 14 widget.                                            |
 | 33:51      | 14? 13? Where are we now?                                                                                        |
 | 33:53      | 14. The new widgets.                                                                                             |
-| 33:55      | And there's the Scriptable app.                                                                                  |
+| 33:55      | And there's the [[Scriptable]] app.                                                                                  |
 | 33:57      | It lets you write widgets in [[JavaScript]].                                                                         |
 | 34:00      | And I found a widget that was not what I wanted, but it was doing sort of what I wanted.                         |
 | 34:03      | And I massively expanded on that and got some help from people using,                                            |
-| 34:08      | basically by posting it on GitHub and people made some changes                                                   |
+| 34:08      | basically by posting it on [[GitHub]] and people made some changes                                                   |
 | 34:11      | and they taught me a bunch of stuff about [[JavaScript]].                                                            |
 | 34:13      | So I spent a lot of time building that widget for my iPad and my iPhone using [[JavaScript]].                        |
 | 34:19      | And so I had this and then my son is going to be taking AP computer principles or something in the fall          |
-| 34:27      | and they're going to write everything in Python.                                                                 |
-| 34:29      | And I thought, oh, Python.                                                                                       |
+| 34:27      | and they're going to write everything in [[Python]].                                                                 |
+| 34:29      | And I thought, oh, [[Python]].                                                                                       |
 | 34:31      | Well, I'm excited that he's doing that and I would like to know more about it.                                   |
-| 34:34      | So I bought a book about Python.                                                                                 |
-| 34:36      | The reason I ended up spending a lot of time in Python and not [[JavaScript]],                                       |
+| 34:34      | So I bought a book about [[Python]].                                                                                 |
+| 34:36      | The reason I ended up spending a lot of time in [[Python]] and not [[JavaScript]],                                       |
 | 34:40      | which I think is eminently reasonable because you're right, David,                                               |
 | 34:43      | I think it's more applicable to a lot of areas                                                                   |
 | 34:47      | and you can even script applications with it on Mac OS if you want to.                                           |
@@ -927,7 +927,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 43:59      | And I was like, well, that was the way that I could do it.                                                       |
 | 44:01      | So I wanted to build a system.                                                                                   |
 | 44:02      | I got tired of writing on the iPad                                                                               |
-| 44:04      | and having to open up my web browser and go to my CMS                                                            |
+| 44:04      | and having to open up my web browser and go to my [[Content Management System\|CMS]]                                                            |
 | 44:07      | and say, make a new thing and then take the headline                                                             |
 | 44:09      | that I had written in the document and paste that in                                                             |
 | 44:11      | and then take the body text that I'd written in the document                                                     |
@@ -937,7 +937,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 44:22      | Again, lots of steps.                                                                                            |
 | 44:23      | I wanted to save time.                                                                                           |
 | 44:25      | I didn't want to do that.                                                                                        |
-| 44:26      | And on the Mac, I could write in Mars Edit.                                                                      |
+| 44:26      | And on the Mac, I could write in [[MarsEdit]].                                                                      |
 | 44:29      | I did do some of this automation on the Mac too, ultimately,                                                     |
 | 44:31      | so that I can post things out of [[BBEdit]].                                                                        |
 | 44:33      | But on the iPad, I just, I didn't want to do it.                                                                 |
@@ -960,7 +960,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 45:24      | so that if there's a link that's named one,                                                                      |
 | 45:28      | you know, number one, the script says,                                                                           |
 | 45:31      | oh, this is a link post.                                                                                         |
-| 45:34      | That's the link you're going to link to in the CMS.                                                              |
+| 45:34      | That's the link you're going to link to in the [[Content Management System\|CMS]].                                                              |
 | 45:37      | So I'm going to grab that.                                                                                       |
 | 45:39      | And I'm going to, and then, and I know that this is a link post                                                  |
 | 45:42      | and not a regular post.                                                                                          |
@@ -970,7 +970,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 45:48      | Are there any links?                                                                                             |
 | 45:49      | What is there a title?                                                                                           |
 | 45:50      | There isn't a title that asks you what's the title.                                                              |
-| 45:52      | And then it opens it in the CMS with everything already filled in.                                               |
+| 45:52      | And then it opens it in the [[Content Management System\|CMS]] with everything already filled in.                                               |
 | 46:00      | And it could post it live, but I,                                                                                |
 | 46:02      | I don't trust it enough to do that.                                                                              |
 | 46:03      | There are mistakes often enough, you know,                                                                       |
@@ -978,15 +978,15 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 46:06      | I don't want to post a thing that's wrong                                                                        |
 | 46:08      | or broken or empty if I can help it.                                                                             |
 | 46:11      | So that's my last little pre-flight thing.                                                                       |
-| 46:13      | So it opens first movable type and now WordPress                                                                 |
+| 46:13      | So it opens first movable type and now [[WordPress]]                                                                 |
 | 46:16      | to that page in the editor.                                                                                      |
 | 46:18      | And I can look at it, make sure it's okay,                                                                       |
 | 46:20      | and press publish.                                                                                               |
 | 46:21      | And then I'm done.                                                                                               |
 | 46:22      | What's happening behind the scenes is that it's taking that document                                             |
-| 46:26      | and it's formatting it as an XML file                                                                            |
-| 46:30      | because it's using the XML RPC posting interface                                                                 |
-| 46:33      | that's available on movable type and WordPress                                                                   |
+| 46:26      | and it's formatting it as an [[XML]] file                                                                            |
+| 46:30      | because it's using the [[XML]] [[RPC]] posting interface                                                                 |
+| 46:33      | that's available on movable type and [[WordPress]]                                                                   |
 | 46:36      | to communicate directly to the server and say,                                                                   |
 | 46:39      | I have a new post for you.                                                                                       |
 | 46:40      | This is the method that MarsEdit uses to talk to web,                                                            |
@@ -997,19 +997,19 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 46:49      | Here's the title.                                                                                                |
 | 46:50      | Here's the, these custom fields that you're using.                                                               |
 | 46:53      | Here it is.                                                                                                      |
-| 46:54      | And then it sends back an XML file saying got it.                                                                |
+| 46:54      | And then it sends back an [[XML]] file saying got it.                                                                |
 | 46:59      | And here's your post ID.                                                                                         |
 | 47:01      | And then it reads that and then uses that post ID                                                                |
 | 47:04      | to open the editor at the point where it's editing that post ID.                                                 |
 | 47:09      | And I built this for movable type because guess what?                                                            |
 | 47:11      | There are no movable type clients on iPadOS.                                                                     |
-| 47:14      | It's a shocker of very, very old CMS.                                                                            |
+| 47:14      | It's a shocker of very, very old [[Content Management System\|CMS]].                                                                            |
 | 47:19      | But it had that posting interface.                                                                               |
 | 47:20      | And so I basically looked at what MarsEdit was doing                                                             |
 | 47:23      | and thought, I could do that.                                                                                    |
 | 47:24      | I could fake that in shortcuts.                                                                                  |
-| 47:26      | And the same interface largely exists on WordPress.                                                              |
-| 47:29      | It took me 20 minutes to convert that to WordPress                                                               |
+| 47:26      | And the same interface largely exists on [[WordPress]].                                                              |
+| 47:29      | It took me 20 minutes to convert that to [[WordPress]]                                                                |
 | 47:34      | from movable type.                                                                                               |
 | 47:36      | Thank goodness for standards.                                                                                    |
 | 47:37      | That's a very, very old standard, but it totally works.                                                          |
@@ -1017,8 +1017,8 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 47:42      | that was, it was a cached, it was no longer exists                                                               |
 | 47:46      | on the actual web, cached blog post from somebody                                                                |
 | 47:48      | who had written about this in like 2006                                                                          |
-| 47:51      | about how to do an XMLRPC post for movable type.                                                                 |
-| 47:56      | And I pinged him on Twitter and I basically said,                                                                |
+| 47:51      | about how to do an [[XML]] [[RPC]] post for [[Movable Type]].                                                                 |
+| 47:56      | And I pinged him on [[Twitter]] and I basically said,                                                                |
 | 47:59      | you're going to love this.                                                                                       |
 | 48:00      | You're a post from 15 years ago,                                                                                 |
 | 48:02      | solved the problem for me today.                                                                                 |
@@ -1033,9 +1033,9 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 48:17      | I've got a shortcut for when I write an article on Macworld                                                      |
 | 48:19      | that I want to link to where I can select the text in [[Safari]]                                                     |
 | 48:22      | and run the shortcut from the share menu                                                                         |
-| 48:24      | and it grabs the text out, turns it into markdown,                                                               |
+| 48:24      | and it grabs the text out, turns it into [[Markdown]],                                                               |
 | 48:27      | asks me for a title and puts that in that story type                                                             |
-| 48:31      | with all the boxes checked right in WordPress.                                                                   |
+| 48:31      | with all the boxes checked right in [[WordPress]].                                                                   |
 | 48:33      | It's a variation on it.                                                                                          |
 | 48:35      | It's a little simpler because it's not coming from a text editor.                                                |
 | 48:38      | But those are the ones that I use for the most part.                                                             |
@@ -1099,20 +1099,20 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 51:29      | and you have to say that it's a get and not a post                                                               |
 | 51:32      | and it's got to have a couple specific headers                                                                   |
 | 51:34      | because you're uploading.                                                                                        |
-| 51:35      | You've got to have it be like it's an XML upload.                                                                |
+| 51:35      | You've got to have it be like it's an [[XML]] upload.                                                                |
 | 51:38      | There's some very specific headers that I have to put in there                                                   |
 | 51:41      | or it's rejected and then the content that's going                                                               |
 | 51:45      | is smart variable to that text block.                                                                            |
-| 51:48      | And then what's returned is the XML file                                                                         |
+| 51:48      | And then what's returned is the [[XML]] file                                                                         |
 | 51:52      | that is coming from the server saying yep                                                                        |
 | 51:55      | and then you have to do a grep search on that                                                                    |
 | 51:57      | or a regular expression based search                                                                             |
 | 51:59      | to find the phrase of here's what your ID is                                                                     |
 | 52:02      | and then you use that to do a open in [[Safari]]                                                                     |
 | 52:06      | with the string that will open a particular ID                                                                   |
-| 52:10      | in WordPress with the ID number itself                                                                           |
+| 52:10      | in [[WordPress]] with the ID number itself                                                                           |
 | 52:14      | a smart variable coming from that search                                                                         |
-| 52:17      | of the XML that was returned.                                                                                    |
+| 52:17      | of the [[XML]] that was returned.                                                                                    |
 | 52:19      | And you put it all together                                                                                      |
 | 52:20      | and it actually works, believe it or not.                                                                        |
 | 52:22      | I mean, if it works, that's great.                                                                               |
@@ -1127,7 +1127,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 52:43      | a member's only post, it doesn't know about that                                                                 |
 | 52:45      | and there's no way that I've signified that.                                                                     |
 | 52:46      | So I just have to check the different boxes                                                                      |
-| 52:49      | in WordPress when I get there.                                                                                   |
+| 52:49      | in [[WordPress]] when I get there.                                                                                   |
 | 52:50      | I could come up with a reason for that                                                                           |
 | 52:52      | but I've yet to find that it would save me enough time                                                           |
 | 52:55      | for me to care.                                                                                                  |
@@ -1136,13 +1136,13 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 53:00      | oh, if I standardise on what the link is in the link post                                                        |
 | 53:03      | I can detect that it's a link post                                                                               |
 | 53:05      | because what I don't have in this is a                                                                           |
-| 53:09      | my own inventid kind of meta language                                                                            |
+| 53:09      | my own invented kind of meta language                                                                            |
 | 53:13      | of metadata for the blog tool.                                                                                   |
 | 53:16      | I've tinkered with that because I keep mentioning tags.                                                          |
 | 53:19      | My system doesn't let me do tags.                                                                                |
-| 53:21      | If I want to do tags, I have to apply them in WordPress                                                          |
+| 53:21      | If I want to do tags, I have to apply them in [[WordPress]]                                                          |
 | 53:24      | or on the Mac in Mars at it.                                                                                     |
-| 53:26      | And I talked to Dr. Drang about this                                                                             |
+| 53:26      | And I talked to [[Dr Drang]] about this                                                                             |
 | 53:28      | because his blogging system he puts,                                                                             |
 | 53:30      | I said, how do you do your tags?                                                                                 |
 | 53:31      | And he says, I put them in the text.                                                                             |
@@ -1154,12 +1154,12 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 53:44      | a new tag that's misspelled or whatever                                                                          |
 | 53:46      | and that's no good.                                                                                              |
 | 53:48      | And I also just, I'm reluctant to put                                                                            |
-| 53:52      | things in markdown that shouldn't be seen.                                                                       |
+| 53:52      | things in [[Markdown]] that shouldn't be seen.                                                                       |
 | 53:58      | That I have to always rely on a script too.                                                                      |
 | 54:01      | Because if the one link for a link post,                                                                         |
-| 54:06      | that's a legitimate markdown link                                                                                |
+| 54:06      | that's a legitimate [[Markdown]] link                                                                                |
 | 54:08      | that's used in the post.                                                                                         |
-| 54:10      | And markdown does not have a metadata                                                                            |
+| 54:10      | And [[Markdown]] does not have a metadata                                                                            |
 | 54:14      | don't publish this qualifier.                                                                                    |
 | 54:16      | I would have to wrap it in like comment,                                                                         |
 | 54:18      | HTML comment tags and something.                                                                                 |
@@ -1760,7 +1760,7 @@ Jason Snell joins the Automators to talk about his automation journey, some usef
 | 01:14:18   | to just British your website                                                                                     |
 | 01:14:20   | but the                                                                                                          |
 | 01:14:22   | Jason where else can people find you?                                                                            |
-| 01:14:24   | I am Jason L on Twitter                                                                                          |
+| 01:14:24   | I am Jason L on [[Twitter]]                                                                                          |
 | 01:14:26   | and                                                                                                              |
 | 01:14:28   | upgrade and lift off here at relay.fm                                                                            |
 | 01:14:30   | and the incomparable.com for all of your                                                                         |

@@ -24,6 +24,7 @@ Google Sheets is a cloud-based spreadsheet application that allows users to crea
 # Links  
 - [Google Sheets](https://workspace.google.com/products/sheets/)
 - [Google Sheets Help](https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883&sjid=2078009459260503884-EU)
+
 # Episodes
 ```dataviewjs
 await dv.view("/Meta/Scripts/Dataview/dv_ListedInEpisodesTable");

@@ -545,45 +545,45 @@ In this episode David and Rosemary are joined by Don McAllister, founder of Scre
 | 27:29      | a while ago and included a referral link, so I think I'm still using the proceeds of                   |
 | 27:35      | those referral links to pay for my [[Airtable]] access, but once that runs out, I'll definitely            |
 | 27:42      | be paying for it anyway.                                                                               |
-| 27:44      | It is a great service, and it's an excellent stageing place for automation, if you want                 |
+| 27:44      | It is a great service, and it's an excellent staging place for automation, if you want                 |
 | 27:49      | to do web-based automation because it works with everything.                                           |
 | 27:52      | Absolutely.                                                                                            |
 | 27:53      | All right, so when you're creating this connection between [[SQL]] and [[Airtable]], so you're using           |
-| 27:59      | [[Airtable]] and Zapier, those are your key platforms.                                                     |
-| 28:04      | How did you come on Zapier?                                                                            |
+| 27:59      | [[Airtable]] and [[Zapier]], those are your key platforms.                                                     |
+| 28:04      | How did you come on [[Zapier]]?                                                                            |
 | 28:08      | I'm not sure how I came across it because I use it for lots of different things now.                   |
-| 28:13      | Another big piece of automation that I use Zapier for is regular social media updates,                 |
-| 28:21      | so when a show gets published, I use Buffer, so I integrate between [[Airtable]], Zapier and               |
+| 28:13      | Another big piece of automation that I use [[Zapier]] for is regular social media updates,                 |
+| 28:21      | so when a show gets published, I use [[Buffer]], so I integrate between [[Airtable]], [[Zapier]] and               |
 | 28:28      | Buffer, so basically, again, we put some information into [[Airtable]] that gets extracted                 |
-| 28:36      | by Zapier and placed into Buffer, and Buffer is a service which will automatically post                |
+| 28:36      | by [[Zapier]] and placed into Buffer, and Buffer is a service which will automatically post                |
 | 28:42      | social media updates for you, so when a show is published or when a magazine is published,             |
 | 28:47      | it's like the tagline of the show, and the tile I mentioned before, we generate some                   |
-| 28:54      | tiles automatically, but basically, we can then publish that in Facebook, Twitter, LinkedIn,           |
+| 28:54      | tiles automatically, but basically, we can then publish that in [[Facebook]], [[Twitter]], [[LinkedIn]],           |
 | 29:03      | so it will publish two entries on each service, the day of publication, and then two or three          |
 | 29:09      | days later, it will republish them again, again, all based on extracting information                   |
-| 29:14      | from [[Airtable]] using Zapier, and then using Zapier to push that information to Buffer,                  |
+| 29:14      | from [[Airtable]] using [[Zapier]], and then using [[Zapier]] to push that information to [[Buffer]],                  |
 | 29:19      | and then Buffer automates the process of publishing to the very social media platforms.                |
-| 29:24      | That was the original, I think that was the first thing that I came across Zapier for,                 |
+| 29:24      | That was the original, I think that was the first thing that I came across [[Zapier]] for,                 |
 | 29:29      | that's what I wanted to do, and I sort of used it to that and then saw that we could                   |
 | 29:32      | do more things with it.                                                                                |
-| 29:36      | How does the trigger work for that automation, when does Zapier know, okay, now they've published      |
+| 29:36      | How does the trigger work for that automation, when does [[Zapier]] know, okay, now they've published      |
 | 29:41      | this show, so it's okay to social media share it?                                                      |
 | 29:45      | Right, again, I think it's mainly all used by views, so I have special views that because              |
 | 29:51      | each show has a publication date, when a show is published, it will appear in that view,               |
-| 29:58      | so then Zapier can see that a new record has appeared in that view, and it's on the day                |
+| 29:58      | so then [[Zapier]] can see that a new record has appeared in that view, and it's on the day                |
 | 30:03      | that it's been published, so that will trigger off the automation and extract the relevant             |
-| 30:07      | pieces of data and send that off to Buffer, and then once Buffer received it, within Buffer            |
+| 30:07      | pieces of data and send that off to [[Buffer]], and then once [[Buffer]] received it, within [[Buffer]]            |
 | 30:12      | you can say when this record is set up and publish at a certain time of the day, so we                 |
-| 30:19      | normally publish things sort of midnight Chicago time, so in Buffer it says 10 o'clock                 |
+| 30:19      | normally publish things sort of midnight Chicago time, so in [[Buffer]] it says 10 o'clock                 |
 | 30:25      | UK time, publish the first tweet, and that gives us time to make sure that everything's                |
-| 30:28      | worked okay, so we just specify a time within Buffer, and then again within Buffer you can             |
+| 30:28      | worked okay, so we just specify a time within [[Buffer]], and then again within [[Buffer]] you can             |
 | 30:34      | say three days after the first tweet or something, so that goes off three days after that.             |
 | 30:39      | Yeah.                                                                                                  |
-| 30:40      | Are you using the paid Buffer plan for this, or are you on one of their free plans?                    |
+| 30:40      | Are you using the paid [[Buffer]] plan for this, or are you on one of their free plans?                    |
 | 30:45      | We're using it for automators as well.                                                                 |
 | 30:47      | Yeah, I think we're on the paid plan, but it's not that expensive actually, it's very                  |
 | 30:52      | reasonable as far as I can remember, we're on the paid plan anyway.                                    |
-| 30:55      | Yeah, I find it very useful for automators because one of our Zapier's apps creates the                |
+| 30:55      | Yeah, I find it very useful for automators because one of our [[Zapier\|Zapier's]] apps creates the                |
 | 31:00      | post in the forums for us, and then of course it tweets that out a couple of days later,               |
 | 31:04      | and it's really useful just being able to push that into Buffer and have it just automated             |
 | 31:08      | and go out so that people can get the link.                                                            |

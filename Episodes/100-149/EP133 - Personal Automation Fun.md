@@ -324,8 +324,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 16:50      | I'm not one of the cores of computers making slightly off saying, did it sounds, you know,             |
 | 16:55      | my machines can be quieter.                                                                            |
 | 16:57      | Or if I'm at home when I get up in the morning, then it's going to, what my phone does is              |
-| 17:03      | it'll remind me of the habits that I've got in streaks that are in the morning category.               |
-| 17:09      | If I am not at home, then it will skip the morning home tasks in streaks so that I don't               |
+| 17:03      | it'll remind me of the habits that I've got in [[Streaks]] that are in the morning category.               |
+| 17:09      | If I am not at home, then it will skip the morning home tasks in [[Streaks]] so that I don't               |
 | 17:18      | have to worry about, you know, marking those as done.                                                  |
 | 17:21      | I'm not going to get prompted for them throughout the day and so on and so forth.                      |
 | 17:24      | So there's a number of things that I'm using this for to make sure that I do things or                 |
@@ -685,7 +685,7 @@ Rose and David share a collection of their favourite personal automations rangin
 | 42:28      | Well, I've been dealing with [[Apple Reminders\|Reminders]]. So unlike you, David, I haven't switched [[Apple Reminders\|Reminders]]             |
 | 42:34      | to try it out. I mean, I did give it a solo try for a couple of days. And then I decided               |
 | 42:40      | that I had too much going on in my life at the moment to actually consider really switching            |
-| 42:45      | productivity systems because that's always an endeavor. And so instead, I decided that                 |
+| 42:45      | productivity systems because that's always an endeavour. And so instead, I decided that                 |
 | 42:53      | I was just going to keep playing with [[Apple Reminders\|Reminders]] because it's really easy to say, hey, [[Apple]]            |
 | 42:58      | lady, add this thing to blah, blah list or remind me to bunk. And so I've mentioned                    |
 | 43:05      | this before, you know, I have reminders, you know, when I get out of the car, when I get               |
@@ -693,8 +693,8 @@ Rose and David share a collection of their favourite personal automations rangin
 | 43:15      | is called automated processing because believe it or not, this list gets automatically processed.      |
 | 43:20      | It's crazy naming, but I went for the simple but obvious approach. I also have a shopping              |
 | 43:26      | list. I have a grocery list because every so often I forget what I've called my lists.                 |
-| 43:32      | And then I've got location as a list. And then I've got to you as a list. And to you                   |
-| 43:42      | is to space DUE. And this, believe it or not, goes into you. And location is for things                |
+| 43:32      | And then I've got "location" as a list. And then I've got "to due" as a list. And "to due"                   |
+| 43:42      | is t-o-space-d-u-e. And this, believe it or not, goes into [[Due]]. And location is for things                |
 | 43:49      | that have got locations on. Now, when I'm adding things via Siri, I very rarely will                   |
 | 43:55      | specify a list unless it's specifically, you know, shopping or grocery list. And those                 |
 | 44:00      | will get processed. So I have push cut running all the time. And it runs a couple of little            |

@@ -526,7 +526,7 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 20:11      | And the nice thing is you can insert that into a snippet.                                |
 | 20:15      | And one of the things I do across all of my systems                                      |
 | 20:18      | is I often date stamp entries and like for each client                                   |
-| 20:24      | or matter, I may have a little text file I've got in Ulysses                             |
+| 20:24      | or matter, I may have a little text file I've got in [[Ulysses]]                             |
 | 20:29      | and every time we get on the phone, I can just type it for                               |
 | 20:33      | me, it is X DTS, which is X, which is the key I used to                                  |
 | 20:39      | start telling my Mac, I'm going to about to do a snippet                                 |
@@ -538,8 +538,8 @@ Text expansion is a simple sort of automation but also a powerful one. In this e
 | 20:59      | time as a stamp in and then I can start typing, you know,                                |
 | 21:03      | based on what we're talking about and what I'm following                                 |
 | 21:05      | up on.                                                                                   |
-| 21:06      | And then once I either save that to Ulysses or if I'm in                                 |
-| 21:09      | [[Drafts]], I move it to Ulysses.                                                            |
+| 21:06      | And then once I either save that to [[Ulysses]] or if I'm in                                 |
+| 21:09      | [[Drafts]], I move it to [[Ulysses]].                                                            |
 | 21:11      | I've got that recorded and sitting there, you know,                                      |
 | 21:15      | probably five to, you know, 10 times a day and typing that                               |
 | 21:21      | date and time stamp and manually is a complete pain in the                               |

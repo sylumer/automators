@@ -245,7 +245,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 17:36      | a one mile radius of [[WWDC]], that there are enough people who might recognise you. However,              |
 | 17:43      | there was one time I stepped out of my house. And there was a guy in a car that was parked             |
 | 17:49      | just outside. And he kind of beckoned me over. And I expected him to say, You know, do you             |
-| 17:56      | know the way to someone so street or whatever. And he said, I just saw you on on Twitter.              |
+| 17:56      | know the way to someone so street or whatever. And he said, I just saw you on on [[Twitter]].              |
 | 18:03      | I was like, Oh, and I thought, you just saw me come out of my house. That's not good.                  |
 | 18:09      | Yeah. Yeah. Well, they say, Oh, yes, I was just visiting a friend. Yes. Are you a nice                 |
 | 18:15      | person? I hope you're a nice person. I'm sure the person was a nice person. And it was                 |
@@ -270,14 +270,14 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 20:21      | other people, not realising that Gray was sat there or you were sat there or something.                |
 | 20:26      | And yeah,                                                                                              |
 | 20:27      | There's a hierarchy of fame at these things. And it's like, you know, if you're sat next               |
-| 20:32      | to like the relay, I was going to say the luminosity, but that's not quite the right                   |
+| 20:32      | to like the Relay, I was going to say the luminosity, but that's not quite the right                   |
 | 20:39      | word. That's not what I meant. You know, the founder, shall we say, or you're sat there                |
-| 20:47      | with the ATP folks, nobody cares who you are. Basically what it comes down to. But you know,           |
+| 20:47      | with the [[ATP]] folks, nobody cares who you are. Basically what it comes down to. But you know,           |
 | 20:56      | if you're on your own, then maybe somebody might come up. I mean, I've been doing this                 |
 | 21:00      | long enough that maybe a few people know me.                                                           |
 | 21:04      | I mean, I think you also did some very good secret, both gorilla marketing and also disguise           |
-| 21:10      | work by releasing peacock t-shirts before [[WWDC]], because I know that you are not the                    |
-| 21:16      | only person wearing a peacock t-shirt [[WWDC]], because I was also wearing a peacock t-shirt               |
+| 21:10      | work by releasing Peacock t-shirts before [[WWDC]], because I know that you are not the                    |
+| 21:16      | only person wearing a Peacock t-shirt [[WWDC]], because I was also wearing a Peacock t-shirt               |
 | 21:20      | at [[WWDC]].                                                                                               |
 | 21:21      | I'm continually amazed at the ability to sell t-shirts for a calculator. And I just did                |
 | 21:31      | a whole bunch of new shirts because basically, Cotton Bureau was starting to charge for storing        |
@@ -1095,7 +1095,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:43:19   | to people can often help solve these problems in a better way, because the other problem is            |
 | 01:43:26   | somebody uses one of these things to solve a problem, and copies and paste its solution                |
 | 01:43:30   | and puts it somewhere on the internet, which then gets fed into the model of solutions that            |
-| 01:43:36   | it should be using. I was thinking that because I posted on mastodon about the                         |
+| 01:43:36   | it should be using. I was thinking that because I posted on [[Mastodon]] about the                         |
 | 01:43:40   | Lama mode in Peacock, and somewhere some little computer is going to go, oh, Lama mode.                |
 | 01:43:46   | And it's just kind of self-fulfilling prophecy of that this information ends up                        |
 | 01:43:52   | now on Wikipedia or whatever it is. And yeah, it goes back into the models. And                        |
@@ -1157,7 +1157,7 @@ In this episode, Rosemary and David are joined by creator of PCalc, Dice and Abo
 | 01:49:31   | and I look at the recording time and it seems that we did. Whether I added any value to the            |
 | 01:49:37   | podcast, I cannot say, but thank you for having me.                                                    |
 | 01:49:40   | Where should people go to follow up with the things you make and the stuff you do, James?              |
-| 01:49:46   | I am on the mastodon.social at James Thompson, and that's Thompson Without a P.                        |
+| 01:49:46   | I am on the [mastodon.social](https://mastodon.social) at James Thompson, and that's Thompson Without a P.                        |
 | 01:49:53   | If you're interested in Peacock, Peacock.com. If you're interested in Peacock t-shirts,                |
 | 01:49:58   | it's Peacock.fun. That was a vanity purchase, but I enjoyed that.                                      |
 | 01:50:05   | And yeah, that's probably the best places to find me. But mostly,                                      |

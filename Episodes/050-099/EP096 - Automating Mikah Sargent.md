@@ -86,7 +86,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 00:49      | in deep with automations, that's just wonderful.                                                        |
 | 00:51      | Yeah.                                                                                                   |
 | 00:52      | So that's the joke from the intro, is Mikah and Rosemary have a show together.                          |
-| 00:56      | They do iOS today over on the Twitter network.                                                          |
+| 00:56      | They do [[iOS Today]] over on the [[Twitter]] network.                                                          |
 | 01:00      | It's an excellent show.                                                                                 |
 | 01:01      | I love watching the two of you, and I think, but what we haven't done is gone deep on Mikah's           |
 | 01:08      | Automation game.                                                                                        |
@@ -116,7 +116,7 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 02:46      | So I have no doubt that we are going to have a great show because it's always good fun                  |
 | 02:51      | to get nerdy.                                                                                           |
 | 02:53      | So Mikah, before we get started, just tell everybody about you a little bit.                            |
-| 02:56      | I know you're doing some stuff over on Twitter.                                                         |
+| 02:56      | I know you're doing some stuff over on [[Twitter]].                                                         |
 | 02:59      | How did you get started with technology, and what are your current shows at this point?                 |
 | 03:04      | Oh man, so too many shows, but I, so long ago, I remember sort of being in high school,                 |
 | 03:12      | and at the time, I was going to be going to school to become a, I wanted to go to advertising           |
@@ -1076,12 +1076,12 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:17:04   | five minutes or something like that. So it checks pretty regularly and can see that the file is         |
 | 01:17:08   | there. And then it popped up where I needed it. I also, I don't use this one now because I want         |
 | 01:17:15   | a little bit more control as I've, as I've gotten in front of more eyes over time. There is a           |
-| 01:17:22   | separation between my Twitter, which is incredibly public and has a lot more interaction and my         |
+| 01:17:22   | separation between my [[Twitter]], which is incredibly public and has a lot more interaction and my         |
 | 01:17:28   | [[Instagram]], which is available to the public, but doesn't have as many people paying attention.          |
-| 01:17:34   | And so I, I like that separation. I used to have an IFTTT setup where when I published,                 |
+| 01:17:34   | And so I, I like that separation. I used to have an [[IFTTT]] setup where when I published,                 |
 | 01:17:42   | when I posted a photo on [[Instagram]], it would download that image from, you know, the [[Instagram]]          |
-| 01:17:49   | servers or whatever, however that works and then paste it on Twitter with the caption from the          |
-| 01:17:55   | [[Instagram]] post and a link to that [[Instagram]] photo. And so then it would be an actual image on Twitter   |
+| 01:17:49   | servers or whatever, however that works and then paste it on [[Twitter]] with the caption from the          |
+| 01:17:55   | [[Instagram]] post and a link to that [[Instagram]] photo. And so then it would be an actual image on [[Twitter]]   |
 | 01:18:01   | instead of just being the [[Instagram]] link that exists. Yeah. And again, I said, as I said,               |
 | 01:18:07   | I shut that one off simply because now I don't want every [[Instagram]] post that I post to automatically   |
 | 01:18:12   | be there. I get to choose, but the, then then the other one is it's one that pays attention,            |
@@ -1214,14 +1214,14 @@ Mikah Sargent is using all the automations and joins this week to share some of 
 | 01:31:05   | get in touch, tweeting at me, at Mikah Sargent is a good way to get in touch. And                       |
 | 01:31:11   | Hardy, thank you to the both of you for having me on the show. I've inspired. I've got several tabs     |
 | 01:31:16   | open. I'm signing up for Integral Mat after this. Like, they're so much fun. Well, you are such an      |
-| 01:31:21   | inspiration for me, too. I love the stuff you're creating over at Twitter and it's just such a          |
+| 01:31:21   | inspiration for me, too. I love the stuff you're creating over at [[Twitter]] and it's just such a          |
 | 01:31:26   | great voice in the community. And we really appreciate you putting yourself out there and               |
 | 01:31:31   | sharing as much as you do and coming on the Automators to talk about automation. We appreciate          |
 | 01:31:37   | that, too. I'm honoured. Thank you. We are the Automators. You can find us over at relay.fm              |
 | 01:31:42   | slash Automators. We have that great forum that Rose put together at talk.automators.fm.                |
 | 01:31:49   | I love when I go to search for an automation problem and the answer comes up in the forum               |
 | 01:31:53   | for my podcast. I mean, Rose, don't you like that? It's awesome. I love it. I love it. It's             |
-| 01:31:57   | the automators and the MPU forums are always coming up and the Twitter forums pop up from               |
+| 01:31:57   | the automators and the MPU forums are always coming up and the [[Twitter]] forums pop up from               |
 | 01:32:02   | time to time as well. But yeah, it's great seeing the answers from, you know, the people we interact    |
 | 01:32:08   | with on a regular basis. Yeah. And I want to thank our sponsors for today. And that's our friends       |
 | 01:32:13   | over at LinkedIn Jobs Fitbod and New Relic. And we'll see you next time. Goodbye, everyone.             |

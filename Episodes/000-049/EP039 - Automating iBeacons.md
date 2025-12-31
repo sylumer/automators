@@ -820,7 +820,7 @@ In this episode, David and Rosemary try all sorts of iBeacons and look at why, w
 | 43:56      | It checks whether or not the width is greater than the height and then resizes it so that             |
 | 44:00      | the largest dimension is 800 pixels and then the other one is automatically set.                      |
 | 44:07      | And then it overlays them on a blank PNG file, which is, and this is designed so that, for            |
-| 44:14      | example, if you have a single iPhone screenshot and you put this into WordPress, WordPress            |
+| 44:14      | example, if you have a single iPhone screenshot and you put this into [[WordPress]], [[WordPress]]            |
 | 44:19      | will then make the width of the screenshot the entire width of the blog post.                         |
 | 44:24      | So you're scrolling down and this is really, really big iPhone screenshot in the middle               |
 | 44:29      | of your post and it looks absolutely ridiculous.                                                      |

@@ -638,7 +638,7 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 37:22      | focus filter, David, is going to be very helpful. I have one podcasting focus mode. I have                |
 | 37:27      | a, I have a tab group for each of my podcasts. So I'm going to be able to open the right                  |
 | 37:32      | tab group. Thanks to my automations, because I'll know which podcast I'm recording when                   |
-| 37:38      | my podcasting focus mode activates. Yeah. So yay. Thank you. Thank you, Shortcuts Team.                   |
+| 37:38      | my podcasting focus mode activates. Yeah. So yay. Thank you. Thank you, [[Shortcuts]] team.                   |
 | 37:43      | And I'll add to that, that we did not get additional focus modes. We're still at that                     |
 | 37:47      | 10 cap, which I don't really understand. I mean, for those of us that want to go hard                     |
 | 37:51      | at it, why not let us, you know, because the reason you and I both only have one podcasting               |
@@ -647,8 +647,8 @@ Hooray. It's a new WWDC and there are new Automation features! Rose and David ar
 | 38:06      | the automation stuff they've added for it, I feel like I need to like get my arms around                  |
 | 38:10      | this and start planning tab groups. Do you have any currently that you're using?                          |
 | 38:14      | Well, I mean, I have one for each podcast that I record, which has like a certain set                     |
-| 38:21      | of tabs in that I always use. So for example, Automators has got the Google Drive folder                  |
-| 38:28      | for Automators in our air table, the ads and the relay CMS so that, you know, we can put                  |
+| 38:21      | of tabs in that I always use. So for example, Automators has got the [[Google Drive]] folder                  |
+| 38:28      | for Automators in our air table, the ads and the Relay [[Content Management System\|CMS]] so that, you know, we can put                  |
 | 38:36      | all the links and everything in as we're going. And, you know, and then, you know, I've got               |
 | 38:41      | a similar setup for iOS today and so on where I've got those ones set in. But I also found                |
 | 38:46      | that, you know, sometimes when you're researching a project and just trying to figure out like            |

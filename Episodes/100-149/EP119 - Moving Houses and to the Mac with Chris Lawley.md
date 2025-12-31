@@ -1808,18 +1808,18 @@ Chris Lawley, YouTuber, nerd, and photographer joins David and Rosemary to talk 
 | 01:39:20   | You can see my link to my YouTube channel and all the other stuff I'm doing.                              |
 | 01:39:24   | And the other tab is in about tab and has all the ways you can, you know, get in touch                    |
 | 01:39:28   | with me, masted on, uh, email.                                                                            |
-| 01:39:33   | I almost said Twitter, but not Twitter.                                                                   |
+| 01:39:33   | I almost said [[Twitter]], but not [[Twitter]].                                                                   |
 | 01:39:34   | Uh, I, yeah, I, I, I, those are the ones that I can think of top my head.                                 |
 | 01:39:38   | Um, but yeah, uh, the untitled site, you can find me all there, or you can find my work                   |
-| 01:39:42   | on YouTube.                                                                                               |
+| 01:39:42   | on [[YouTube]].                                                                                               |
 | 01:39:43   | I'm just Chris Lawley, L A W L E Y.                                                                    |
 | 01:39:45   | Perfect.                                                                                                  |
 | 01:39:46   | I'll make sure that we've got links to all that in the show notes.                                        |
 | 01:39:50   | And uh, yeah.                                                                                             |
 | 01:39:51   | In the meantime, you can find, uh, automators over at relay.fm/automators with the                  |
-| 01:39:55   | entire archive and back catalogue, including Chris's last episode, uh, at relay.fm slash                    |
-| 01:40:00   | automators slash archive gets all on one page.                                                            |
-| 01:40:03   | Or you can join us in the forums, talk.automators.fm, uh, David.                                          |
+| 01:39:55   | entire archive and back catalogue, including Chris's last episode, uh, at relay.fm/automators/archive                    |
+| 01:40:00   | gets all on one page.                                                            |
+| 01:40:03   | Or you can join us in the forums, [talk.automators.fm](https://talk.automators.fm), uh, David.                                          |
 | 01:40:08   | You are also online to tell folks where people can find you.                                              |
 | 01:40:12   | You can find me over at macsparky.com.                                                                    |
 | 01:40:14   | And uh, you can find me at RosemaryOrchard.com.                                                           |

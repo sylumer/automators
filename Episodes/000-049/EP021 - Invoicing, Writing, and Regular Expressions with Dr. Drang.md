@@ -1048,8 +1048,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 45:38      | And again, that doesn't do it directly on the iPad.                |
 | 45:42      | It goes off, I believe, it goes off to the server, right?          |
 | 45:45      | Yeah, I think it goes off to the server, not to one of my Macs,    |
-| 45:48      | and runs a particular script that accesses the Twitter API         |
-| 45:54      | to add a link to that Twitter tweet with a link to that post.      |
+| 45:48      | and runs a particular script that accesses the [[Twitter]] API         |
+| 45:54      | to add a link to that [[Twitter]] tweet with a link to that post.      |
 | 46:04      | Just like you don't want to automate sending an email              |
 | 46:06      | to a client, I am terrified of automating pressing the post        |
 | 46:09      | button.                                                            |
@@ -1058,8 +1058,8 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 46:18      | already hit send on.                                               |
 | 46:19      | Yeah, yes, there is that, yes.                                     |
 | 46:25      | Because I can always hop into my,                                  |
-| 46:28      | I've just switched back to WordPress,                              |
-| 46:29      | so everything's confusing, but I can always hop into WordPress     |
+| 46:28      | I've just switched back to [[WordPress]],                              |
+| 46:29      | so everything's confusing, but I can always hop into [[WordPress]]     |
 | 46:31      | and change the status back to draft                                |
 | 46:33      | and hope that nobody's seen it and that the automatic              |
 | 46:36      | tweet hasn't gone out yet.                                         |
@@ -1078,19 +1078,19 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 47:15      | and until, then after I've done that,                              |
 | 47:20      | then I say, okay, fine, I'll tweet out the link,                   |
 | 47:23      | because people, it's surprising to me,                             |
-| 47:27      | because I really don't think Twitter is a great way                |
+| 47:27      | because I really don't think [[Twitter]] is a great way                |
 | 47:28      | of finding stuff.                                                  |
-| 47:31      | I still prefer RSS, and I think I will always prefer RSS,          |
-| 47:35      | but lots of people get their information through Twitter,          |
+| 47:31      | I still prefer RSS, and I think I will always prefer [[RSS]],          |
+| 47:35      | but lots of people get their information through [[Twitter]],          |
 | 47:38      | and that's why I still tweet those out.                            |
 | 47:41      | Yes, yeah, I have to say a lot of people do,                       |
-| 47:45      | or they like to reply on Twitter,                                  |
+| 47:45      | or they like to reply on [[Twitter]],                                  |
 | 47:47      | and so if you've already got the post out there,                   |
 | 47:49      | then of course, it's an easy one spot                              |
 | 47:51      | for everybody to talk back area.                                   |
 | 47:53      | It is, and when I gave up comments,                                |
 | 47:57      | when I stopped using comments on my site many years ago,           |
-| 48:02      | I figured Twitter would take over,                                 |
+| 48:02      | I figured [[Twitter]] would take over,                                 |
 | 48:03      | and it's worked out well.                                          |
 | 48:06      | Yes.                                                               |
 | 48:06      | Remember when that was a big deal                                  |
@@ -1849,13 +1849,13 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:23:57   | And thanks for coming on the show.                                 |
 | 01:23:59   | Are there any other places people should look for you              |
 | 01:24:01   | on the internet?                                                   |
-| 01:24:02   | Well, I'm Dr. Drang on Twitter and I don't tweet,                  |
+| 01:24:02   | Well, I'm Dr. Drang on [[Twitter]] and I don't tweet,                  |
 | 01:24:05   | I don't blog as much as I used to                                  |
 | 01:24:07   | and I don't tweet as much as I used to.                            |
 | 01:24:08   | I happen to be going through a very busy time at work,             |
 | 01:24:12   | but I hope to do more, especially with the blogging,               |
 | 01:24:16   | maybe not so much more of the tweeting,                            |
-| 01:24:17   | but if you follow me on Twitter,                                   |
+| 01:24:17   | but if you follow me on [[Twitter]],                                   |
 | 01:24:19   | at least you'll know when the new posts come out.                  |
 | 01:24:22   | We're gonna have a ton of links in this show,                      |
 | 01:24:24   | including links to the specific [[Drafts]] automations                 |
@@ -1876,9 +1876,9 @@ In this episode of Automators Rosemary and David interview the mysterious intern
 | 01:25:02   | so I'm automating more things                                      |
 | 01:25:03   | and hopefully posting rather more                                  |
 | 01:25:05   | because it's going to be a lot easier now                          |
-| 01:25:06   | because I'm on WordPress.                                          |
+| 01:25:06   | because I'm on [[WordPress]].                                          |
 | 01:25:08   | So yes, keep an eye out there and don't forget,                    |
-| 01:25:10   | you can follow Automators at Automators FM on Twitter.             |
+| 01:25:10   | you can follow Automators at Automators FM on [[Twitter]].             |
 | 01:25:14   | And there's also the discourse group                               |
 | 01:25:18   | over at talk.automators.fm.                                        |
 | 01:25:21   | If you like [[Drafts]], we talked about [[Drafts]].                        |

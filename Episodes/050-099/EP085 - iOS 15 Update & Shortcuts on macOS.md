@@ -1722,7 +1722,7 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:07:33   | what you found that's broken                                         |
 | 01:07:34   | or what you think is broken is very helpful for everybody.           |
 | 01:07:39   | And feel free to share those bugs.                                   |
-| 01:07:41   | When you find them on Twitter or in the forums                       |
+| 01:07:41   | When you find them on [[Twitter]] or in the forums                       |
 | 01:07:44   | or something like that.                                              |
 | 01:07:45   | So that other people can also verify                                 |
 | 01:07:49   | and maybe see if they can find a workaround for you                  |
@@ -1816,8 +1816,8 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:11:40   | Anything going on in your life, Rose,                                |
 | 01:11:42   | that we should be sharing with folks?                                |
 | 01:11:44   | Well, I did recently switch my website                               |
-| 01:11:46   | from WordPress to Jekyll.                                            |
-| 01:11:48   | It's still at rosemaryorchard.com.                                   |
+| 01:11:46   | from [[WordPress]] to [[Jekyll]].                                            |
+| 01:11:48   | It's still at [rosemaryorchard.com](https://.rosemaryorchard.com).                                   |
 | 01:11:50   | It looks very similar, but it's much faster to load,                 |
 | 01:11:53   | which is a good thing.                                               |
 | 01:11:54   | And there are some pages that are missing.                           |
@@ -1826,14 +1826,14 @@ In this episode, David and Rosemary cover the automation changes with iOS 15, an
 | 01:12:00   | Thank you for people who love that page.                             |
 | 01:12:02   | And I will be bringing that back soon.                               |
 | 01:12:04   | But if anything's broken there and you stumble across it,            |
-| 01:12:07   | feel free to hit me up in my email or Twitter                        |
+| 01:12:07   | feel free to hit me up in my email or [[Twitter]]                        |
 | 01:12:10   | and let me know something's broken,                                  |
 | 01:12:12   | because I would love to fix it.                                      |
 | 01:12:14   | So, yes.                                                             |
 | 01:12:15   | That's what I've been doing there.                                   |
 | 01:12:17   | That was my holiday project, David.                                  |
-| 01:12:19   | I finally moved CMS to something that's considerably                 |
-| 01:12:21   | better than WordPress.                                               |
+| 01:12:19   | I finally moved [[Content Management System\|CMS]] to something that's considerably                 |
+| 01:12:21   | better than [[WordPress]].                                               |
 | 01:12:23   | At least for me.                                                     |
 | 01:12:24   | It's a great website, and I love it.                                 |
 | 01:12:26   | So, I'm glad your speed ended up.                                    |

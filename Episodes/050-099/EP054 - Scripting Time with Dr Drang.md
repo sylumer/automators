@@ -172,9 +172,9 @@ In this episode, Dr. Drang returns to the show to talk about scripting - why it'
 | 09:20      | is this, this emotional or mental barrier that's a lot bigger than the actual barrier                                                          |
 | 09:26      | of going over that step. And I thought that would be something I'd like to talk about                                                          |
 | 09:29      | with our audience.                                                                                                                             |
-| 09:30      | That post was inspired by a lot of things that I've seen on the Automators Forum and                                                           |
-| 09:39      | to some extent on the MPU Forum as well, and [[Drafts]] their forum as well. I've been more                                                    |
-| 09:46      | into the forum since being off of Twitter recently, so I'm spending my time doing something                                                    |
+| 09:30      | That post was inspired by a lot of things that I've seen on the [Automators Forum](https://talk.automators.fm) and                                                           |
+| 09:39      | to some extent on the [MPU Forum](https://talk.macpowerusers.com) as well, and [[Drafts]] their forum as well. I've been more                                                    |
+| 09:46      | into the forum since being off of [[Twitter]] recently, so I'm spending my time doing something                                                    |
 | 09:51      | else. And you, you see people, and you can see people who have been writing [[Keyboard Maestro]]                                               |
 | 09:57      | macros or shortcuts that have many steps, and that include pretty sophisticated                                                                |
 | 10:05      | comments or concepts. And, but these people don't want to take the, there's a, there's                                                         |

@@ -805,7 +805,7 @@ In this episode Ken Case, CEO of the Omni Group joins us to talk about adding au
 | 01:01:20   | many big productivity apps using the same mechanism to really make automation possible                   |
 | 01:01:25   | across the entire [[Apple]] ecosystem. Sounds great to me. Yeah, let's do it. All right. Let's change        |
 | 01:01:33   | the world. Everybody at home, you have your commands. All right. And we are the automators,              |
-| 01:01:42   | but Ken, where can people find you? Well, you can find me personally on Twitter @kcase.                       |
+| 01:01:42   | but Ken, where can people find you? Well, you can find me personally on [[Twitter]] @kcase.                       |
 | 01:01:47   | That's my first initial K, Ken, and last name, Case, C-A-S-E. And you can also,                   |
 | 01:01:55   | of course, send me, send me email at KC at Omni Group.com. That was very generous of you guys.            |
 | 01:02:01   | Don't abuse Ken's email. He's a busy guy. But yeah, definitely. And, and also head over to the           |

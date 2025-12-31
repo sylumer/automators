@@ -895,9 +895,9 @@ In this episode David and Rosemary go on Safari and look at all the settings, ex
 | 51:01      | And so this is just a little [[AppleScript]] that opens a new window with [[DuckDuckGo]].                  |
 | 51:05      | And so that gets run before any of my tab group sets.                                              |
 | 51:09      | And I say tab group sets, I'm not talking [[Safari]] tab groups, I'm just talking about sets           |
-| 51:13      | of tabs that I need to open for, you know, automation purposes in bunch.                           |
+| 51:13      | of tabs that I need to open for, you know, automation purposes in [[Bunch]].                           |
 | 51:19      | So it will first run that [[AppleScript]] and then it will open the pages I need.                      |
-| 51:25      | So for automators, I'll be, you know, the thanks for our sponsors and the really CMS               |
+| 51:25      | So for automators, I'll be, you know, the thanks for our sponsors and the Relay [[Content Management System\|CMS]]               |
 | 51:29      | so we can save all those good links and our automators base, which works very well for             |
 | 51:34      | me.                                                                                                |
 | 51:35      | Okay, so let's put a pin in the Apple [[Safari]] tab group feature because there's an automation       |

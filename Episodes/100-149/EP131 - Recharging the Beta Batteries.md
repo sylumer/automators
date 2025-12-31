@@ -956,7 +956,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 59:21      | piece of it with my team and like not being able to use it on my Mac, dressing nuts.                    |
 | 59:25      | So that's a good sign that, you know, this is a, this is a good year and I think anybody                |
 | 59:31      | who's running the beta, you know, if you've got some spelunking you're doing and things                 |
-| 59:35      | that are important to you, a great place to share that is over at talk.automators.fm,                   |
+| 59:35      | that are important to you, a great place to share that is over at [talk.automators.fm](https://talk.automators.fm),                   |
 | 59:39      | that's our forum, lots of activity over there.                                                          |
 | 59:42      | And Rose and I keep up with it.                                                                         |
 | 59:44      | We'd love to see.                                                                                       |
@@ -964,7 +964,7 @@ David and Rosemary have been testing the latest Apple betas on all their devices
 | 59:46      | I also wanted to mention, I've been chatting to some of the moderators of the Shortcuts                 |
 | 59:50      | subreddit about trying to get some of the content from there across because of course                   |
 | 59:55      | Reddit has decided that they're going to go nuts and charge ridiculous amount of money                  |
-| 01:00:00   | to access the API, just like Twitter did.                                                               |
+| 01:00:00   | to access the API, just like [[Twitter]] did.                                                               |
 | 01:00:04   | And they're looking at seeing if there's a way that we can archive the stuff from Reddit                |
 | 01:00:09   | so that folks will have access to it on the Automators Forum.                                           |
 | 01:00:12   | So we're looking into something that we can do for that just to make sure that no great                 |

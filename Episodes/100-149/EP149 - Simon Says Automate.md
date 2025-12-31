@@ -170,7 +170,7 @@ Rosemary and David are joined by Simon Støvring again to talk about the automat
 | 06:47      | I mean, I guess that is sort of how that came to be.                                                             |
 | 06:50      | I never thought of it in that context.                                                                           |
 | 06:52      | Yeah, I mean, that was when [[Mastodon]] was getting traction for, I guess, for the second time,                 |
-| 06:58      | when there was like this second wave of people leaving Twitter, right, a couple of years                         |
+| 06:58      | when there was like this second wave of people leaving [[Twitter]], right, a couple of years                         |
 | 07:04      | back, and then [[Mastodon]] really started getting traction again.                                               |
 | 07:08      | And this was, as I remember it, that was over the holidays sometime in December.                                 |
 | 07:13      | And I'd been working a lot on, I guess, [[Runestone]] back then, and kind of just, I wanted to do                |

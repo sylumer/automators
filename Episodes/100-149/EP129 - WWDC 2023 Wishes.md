@@ -791,7 +791,7 @@ David and Rosemary go through their 2023 WWDC wish list and ideas! From Maps and
 | 48:37      | CarPlay support, NetNewsWire, there we go, you tried to use a NetNewsWire action in CarPlay,          |
 | 48:44      | that shortcut would just not be CarPlay supported at all, because NetNewsWire is not on CarPlay.      |
 | 48:49      | And if I tried to use Ivory, Ivory doesn't have CarPlay support, you don't need to use                |
-| 48:55      | Mastodon in your car.                                                                                 |
+| 48:55      | [[Mastodon]] in your car.                                                                                 |
 | 48:57      | That's fine.                                                                                          |
 | 48:58      | But if I try to use overcast actions, for example, that's fine because overcast has CarPlay           |
 | 49:04      | support.                                                                                              |

@@ -996,7 +996,7 @@ Today we venture into the brave new world of web automation, and we start with g
 | 41:23      | We are on Relay Network at relay.fm/automators.                                                                |
 | 41:27      | Where can people find you, Rose?                                                                               |
 | 41:28      | I am at [rosemaryorchard.com](https://rosemaryorchard.com)                                                                                       |
-| 41:30      | and at [rosemaryorchard.com](https://rosemaryorchard.com) on Micro.blog and Twitter.                                                           |
+| 41:30      | and at [rosemaryorchard.com](https://rosemaryorchard.com) on [[Micro.blog]] and [[Twitter]].                                                           |
 | 41:34      | You can find me over at [macsparky.com](https://macsparky.com).                                                                         |
 | 41:36      | Thank you so much to Smile for all your support on the Automators.                                             |
 | 41:40      | Go check it out, everybody, at textexpander.com/podcast.                                                 |

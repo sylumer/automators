@@ -603,14 +603,14 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 31:46      | And it's just a good player.                                                                         |
 | 31:48      | If you're looking for cloud-based solutions, it's a good player and that it collaborates             |
 | 31:53      | with everything.                                                                                     |
-| 31:54      | I mean, using Zapier, I've got connections between base camp and air table and billing               |
+| 31:54      | I mean, using [[Zapier]], I've got connections between base camp and air table and billing               |
 | 32:01      | systems and it all ties together really nicely.                                                      |
 | 32:05      | And that's one of the things I like about it.                                                        |
 | 32:08      | I mean, I keep saying it, but if you work with more than one person on a set of data,                |
 | 32:14      | this is a tool you should at least spend a little time playing with to see if this scratches         |
 | 32:19      | the itch for you because it is just so good at that collaboration.                                   |
 | 32:24      | It really, really is.                                                                                |
-| 32:26      | And I have to say, this is obviously considerably better than our previous solution with [[[Apple Notes]],      |
+| 32:26      | And I have to say, this is obviously considerably better than our previous solution with [[Apple Notes]],      |
 | 32:31      | Notes, but I can't think of a tool better suited to managing a podcast than air table.               |
 | 32:38      | I mean, there probably are tools, but for managing a collaborative podcast the way                   |
 | 32:42      | we do, especially I use shortcuts to add ideas all the time.                                         |
@@ -626,7 +626,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 33:22      | you can go through and tick off, but it's not, it could be done a lot better, I think.               |
 | 33:28      | Yes, it could.                                                                                       |
 | 33:29      | And also, so one of the things we haven't covered yet at all are views.                              |
-| 33:35      | And so as well as a basic table layout, Zapia, sorry, Zapia air table can also do things           |
+| 33:35      | And so as well as a basic table layout, [[Zapier]], sorry [[Zapier]], [[Airtable]] can also do things           |
 | 33:43      | like a calendar view and a [[Kanban]] view and all sorts of these things.                                |
 | 33:47      | So for example, we have a calendar, we've got two calendar views, we've got a calendar               |
 | 33:51      | view for recording and then we've got a calendar view for release when we can see when things        |
@@ -948,14 +948,14 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 53:36      | And then I realised that actually no, this is super helpful.                                         |
 | 53:41      | So I've created an editorial calendar for my blog because I want to put more things                  |
 | 53:46      | on there, and I had a little bit of an instant a couple of weeks ago where all of my, my             |
-| 53:52      | micro feed, which usually would go to micro.blog was feeding into everything else.                    |
-| 53:57      | And so I apologise if you've got a lot of swarm updates that weekend because I check                 |
+| 53:52      | micro feed, which usually would go to [[micro.blog]] was feeding into everything else.                    |
+| 53:57      | And so I apologise if you've got a lot of [[Swarm]] updates that weekend because I check                 |
 | 54:01      | into things, but I put, I've got my editorial calendar in here now.                                  |
 | 54:05      | So I've got dates.                                                                                   |
-| 54:06      | So for example, as we record this episode, Timery has not launched yet, but we know it's             |
+| 54:06      | So for example, as we record this episode, [[Timery]] has not launched yet, but we know it's             |
 | 54:11      | coming.                                                                                              |
-| 54:12      | And so I've got Timery in there.                                                                     |
-| 54:13      | And I've specified that that needs to go out on the day that Timery will release on.                 |
+| 54:12      | And so I've got [[Timery]] in there.                                                                     |
+| 54:13      | And I've specified that that needs to go out on the day that [[Timery]] will release on.                 |
 | 54:17      | And that's already drafted.                                                                          |
 | 54:19      | And I've got another blog post that I need to finish later today.                                    |
 | 54:22      | And I've got all sorts of things.                                                                    |
@@ -963,7 +963,7 @@ Rose and David are getting serious about Airtable, the online-based database/spr
 | 54:27      | And this is where I am subscribed to the calendar because I've made a calendar out of this.          |
 | 54:32      | And I've subscribed to this on my phone.                                                             |
 | 54:36      | And it means that I can see, right?                                                                  |
-| 54:37      | Well, I need to get that, that article written about Timery and how I'm using it put together        |
+| 54:37      | Well, I need to get that, that article written about [[Timery]] and how I'm using it put together        |
 | 54:45      | so that it's ready to go.                                                                            |
 | 54:46      | And then are you putting those as all day events?                                                    |
 | 54:48      | Yeah.                                                                                                |

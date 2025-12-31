@@ -237,7 +237,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 14:56      | who's been on the show as well. Yeah. And if you don't, if you didn't listen to that show, UUID is     |
 | 15:01      | something that allows you to tell the computer this is a unique item. And it's super useful for        |
 | 15:08      | automation because it has to find that UUID in order to get where it belongs. The best example         |
-| 15:16      | this for me is when I'm automating with Ulysses versus [[Apple Notes]] in shortcuts. Ulysses sets          |
+| 15:16      | this for me is when I'm automating with [[Ulysses]] versus [[Apple Notes]] in [[Shortcuts]]. [[Ulysses]] sets          |
 | 15:24      | a unique identifier for each note. So when you want to append to a note or make a change to a note,    |
 | 15:30      | it always goes to exactly the right one. For whatever reason, [[Apple Notes]] doesn't do that.             |
 | 15:35      | Instead, you've got to search for it. So one of my tricks is to generate a UUID                        |
@@ -248,19 +248,19 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 16:02      | Apple Note. So you're basically adding the UUID feature to [[Apple Notes]]. Yes. And I should mention      |
 | 16:08      | as well that Alan's website, so I'll link to the version for generation because that's a random        |
 | 16:14      | generator. But there's a button there where you can copy an API call. And then if you use that URL     |
-| 16:20      | in the get contents of URL action in shortcuts, then it will just return a unique identifier to        |
+| 16:20      | in the get contents of URL action in [[Shortcuts]], then it will just return a unique identifier to        |
 | 16:25      | you every time, which can be really useful if, for example, you have a shortcut to create a note       |
 | 16:30      | with a bunch of information and you want to throw a UUID in there, like David does,                    |
 | 16:34      | so that you can easily uniquely identify that later. And then of course, you'll probably want          |
 | 16:39      | to save that UUID somewhere. But we have some ideas for that a little bit later in today's show.       |
 | 16:45      | Rose, your guest on the Launched podcast, I thought it was a really good episode.                      |
-| 16:50      | Yes, I really enjoyed being on there. So Launched is a podcast by Charlie Chapman,                     |
+| 16:50      | Yes, I really enjoyed being on there. So [[Launched]] is a podcast by [[Charlie Chapman]],                     |
 | 16:55      | where he talks to creators and developers about their apps and things that they've made. And he        |
-| 17:01      | had me on to talk about a little bit behind the scenes of automators, nested folders, and also         |
-| 17:07      | take control of shortcuts. So that was a really fun episode to be on. So people are perhaps thinking,  |
+| 17:01      | had me on to talk about a little bit behind the scenes of [[Automators]], [[Nested Folders]], and also         |
+| 17:07      | [[Take Control of Shortcuts]]. So that was a really fun episode to be on. So people are perhaps thinking,  |
 | 17:15      | hmm, I need a little bit more entertainment in the next few weeks. I'd highly recommend                |
 | 17:18      | checking out Launched. There's a couple of good episodes there. And we'll put a link to Rose's         |
-| 17:23      | episode in the show notes. Yes. Feedback. Karen on Twitter said, I was the only person                 |
+| 17:23      | episode in the show notes. Yes. Feedback. Karen on [[Twitter]] said, I was the only person                 |
 | 17:29      | who she had heard talk about the Wi-Fi Bluetooth control issues causing problems and shortcuts.        |
 | 17:36      | Have you run into this issue of file a radar? Rose, how do you file a radar?                           |
 | 17:40      | Yes. So it's a way to file a radar. So it's not called filing a radar anymore. But a lot of people     |
@@ -301,7 +301,7 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 21:00      | in your life, Rose. Yeah. But at the same time, I would also hope that you're having a more stable     |
 | 21:05      | iOS experience than I am. Yeah. I know that they're getting pretty close with the next release of      |
 | 21:11      | iOS 13. I think it's 13.4. What's going on in that beta? Anything good?                                |
-| 21:17      | There's a new shortcuts action, actually. And this was found by [[Federico Viticci]] on Twitter.           |
+| 21:17      | There's a new shortcuts action, actually. And this was found by [[Federico Viticci]] on [[Twitter]].           |
 | 21:22      | Of course, I am very pleased that [[Federico Viticci\|Federico]] found it so quickly. There is a Shazam action               |
 | 21:29      | to Shazam a song. And so if people are not familiar with Shazam, it listens to a little                |
 | 21:38      | flip of a song and it tries to identify it based on the sound. So of course, if you're sitting         |
@@ -528,8 +528,8 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 42:18      | I went for the medium. If it goes well, I could foresee a full-size [[Stream Deck]] in my future           |
 | 42:24      | and keeping the medium for extra things. So listener solid wrote in about working with                 |
 | 42:30      | timeouts and shortcuts. Yeah. So solid actually posted in the forums because                           |
-| 42:36      | a while ago I talked about a shortcut that I have. So when I open Twitter, it waits a minute,          |
-| 42:41      | and then it opens OmniFocus for me. And this is so that I don't waste so much time on Twitter.         |
+| 42:36      | a while ago I talked about a shortcut that I have. So when I open [[Twitter]], it waits a minute,          |
+| 42:41      | and then it opens OmniFocus for me. And this is so that I don't waste so much time on [[Twitter]].         |
 | 42:47      | And I've actually expanded this. I also have this when I open Apollo, it waits two minutes,            |
 | 42:53      | and then redirects me. And Apollo's a Reddit application. And a few other things just so               |
 | 42:59      | that I can still pop in and check on social media, but I don't get soaked into or sucked into          |
@@ -835,23 +835,23 @@ In this week Rosemary and David dive headfirst into the feedback pile and look a
 | 01:10:54   | Yes. And in my case, I did already have a spare iOS device running around that I could do this         |
 | 01:10:59   | with, which certainly cut the cost. Because if you've got to buy an iPad or something, do this,        |
 | 01:11:04   | then of course, that's going to be quite expensive. But for me, it's a great solution,                 |
-| 01:11:10   | because it can handle OmniFocus with Taskpaper and everything, it can handle dross,                   |
-| 01:11:15   | it can handle Timery, it can handle home kit things and all sorts. And the best part of it is,         |
+| 01:11:10   | because it can handle [[OmniFocus]] with [[Taskpaper]] and everything, it can handle dross,                   |
+| 01:11:15   | it can handle [[Timery]], it can handle [[HomeKit]] things and all sorts. And the best part of it is,         |
 | 01:11:21   | because my shortcuts are syncing again. I can, I have my shortcuts syncing between my devices.         |
 | 01:11:27   | And so every once an hour or so, I have been experimenting with [[Make\|Integromat]], which we'll                |
 | 01:11:33   | get to in a future show. But I have [[Make\|Integromat]] just poke the automation server and go update           |
 | 01:11:40   | your shortcuts, please. And so that whatever shortcuts I've created on any other device                |
-| 01:11:46   | are definitely up to date in PushCut. And then it means that I can then create automations to run      |
-| 01:11:52   | those at any time. And I am loving this feature so much. It's genuinely changing my shortcuts          |
-| 01:12:00   | experience. Because between PushCut and LaunchCuts, I am not needing to actually open shortcuts myself |
+| 01:11:46   | are definitely up to date in [[PushCut]]. And then it means that I can then create automations to run      |
+| 01:11:52   | those at any time. And I am loving this feature so much. It's genuinely changing my [[Shortcuts]]          |
+| 01:12:00   | experience. Because between [[PushCut]] and [[LaunchCuts]], I am not needing to actually open [[Shortcuts]] myself |
 | 01:12:08   | pretty much ever at the moment. Nice. Nice. Well, you know, once again, man,                           |
-| 01:12:15   | these third party developers are just bringing it for shortcuts. They absolutely are. And I hope       |
+| 01:12:15   | these third party developers are just bringing it for [[Shortcuts]]. They absolutely are. And I hope       |
 | 01:12:21   | after I was 14 launches, it's even easier and there's even more cool tools. Absolutely.                |
 | 01:12:27   | That's it. We're going to wrap that up for today. We covered a lot of ground,                          |
 | 01:12:30   | hopefully you got some cool automation knowledge today. You can find us over relay.fm slash            |
 | 01:12:36   | automators. You can find the forums over at talk.automators.fm. Did I miss anything, Rose?             |
 | 01:12:43   | No, people can't find you over at macsparky.com and they can find me at rosemaryorchard.com.           |
-| 01:12:49   | And of course, we're on Twitter too at automators.fm if you want to tweet us there. But the best place |
+| 01:12:49   | And of course, we're on [[Twitter]] too at automators.fm if you want to tweet us there. But the best place |
 | 01:12:54   | to talk about the show is definitely in the forums. Okay, we'll see you next time. And thanks for      |
 | 01:12:59   | listening. Goodbye, everybody.                                                                         |
 s

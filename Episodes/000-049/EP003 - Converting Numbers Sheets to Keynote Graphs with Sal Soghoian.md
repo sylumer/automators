@@ -950,8 +950,8 @@ This is an episode where you'll want to bring your Mac, and make sure to [visit 
 | 01:02:38   | I hope we have you on many times in the future to talk about automation as we continue this                                                                              |
 | 01:02:43   | journey.                                                                                                                                                                 |
 | 01:02:44   | We are the Automators.                                                                                                                                                   |
-| 01:02:46   | You can find us on Twitter, @automatorsfm.                                                                                                                               |
-| 01:02:50   | Rose is @rosemaryorchard on Twitter.                                                                                                                                     |
+| 01:02:46   | You can find us on [[Twitter]], @automatorsfm.                                                                                                                               |
+| 01:02:50   | Rose is @rosemaryorchard on [[Twitter]].                                                                                                                                     |
 | 01:02:53   | Did I get that right, Rose?                                                                                                                                              |
 | 01:02:54   | Correct.                                                                                                                                                                 |
 | 01:02:55   | Yes, you did.                                                                                                                                                            |

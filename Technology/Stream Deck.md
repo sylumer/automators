@@ -35,10 +35,19 @@ A unique foot pedal controller designed for hands-free operation, allowing users
 ## Stream Deck Mobile
 The Stream Deck Mobile app brings the power and convenience of Stream Deck functionality to your mobile device, allowing you to create custom shortcuts and controls on your smartphone or tablet without the need for additional Stream Deck hardware. With a sleek and user-friendly interface, Stream Deck Mobile offers a portable solution for users on the go.
 
+## Stream Deck Virtual
+Elgato's Virtual Stream Deck is a software-only version of their popular physical control pad, bringing the full functionality of the Stream Deck interface to a floating panel on your PC or Mac screen, comprising grids of up to 64 virtual keys. This on-screen approach offers the same deep integration with the Elgato software ecosystem and plugin Marketplace as its physical counterparts. This can make it a flexible and powerful solution for streamers, creative professionals, and power users who prefer a software-based control panel or want access to their controls on the go without carrying extra hardware.
+
+- [Virtual Stream Deck: What it is and how to use it](https://www.elgato.com/uk/en/explorer/products/stream-deck/virtual-stream-deck-beta-overview/) - read this for how to unlock the Virtual Stream Deck functionality as you may need to do it before you are on the go.
+
 # Software
 The Stream Deck software provides a user-friendly interface for configuring key assignments, creating profiles, and accessing a library of pre-built actions for popular applications and platforms. Users can easily drag and drop commands onto keys, set up multi-action sequences, and sync profiles across multiple Stream Deck devices.
 
 With support for Windows, macOS, and mobile platforms, the Stream Deck software ensures seamless compatibility with a wide range of hardware setups and configurations.
+
+# Useful Plugins for Automators
+- [[Mac Automation]]
+- [[KMlink]]
 
 # Links
 - [Elgato Stream Deck](https://www.elgato.com/en/stream-deck)

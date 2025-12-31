@@ -699,10 +699,10 @@ In this episode, David and Rosemary look at their automations surrounding captur
 | 53:30      | Yeah. I think that makes a lot of sense. And one thing that I have experimented with a little           |
 | 53:35      | bit with these routine type lists, like the ones that you've got, I have shortcuts for me to look       |
 | 53:40      | at these lists. And then when I tap on that, that link or that shortcut, that it marks it as            |
-| 53:47      | completed in streaks and opens that list in OmniFocus, in my case, for me, because streaks can be       |
-| 53:54      | automated. It has great shortcuts integration. And if you, you run that, if you run your,               |
+| 53:47      | completed in [[Streaks]] and opens that list in [[OmniFocus]], in my case, for me, because [[Streaks]] can be       |
+| 53:54      | automated. It has great [[Shortcuts]] integration. And if you, you run that, if you run your,               |
 | 53:59      | your shortcut, then it can, you can do whatever you like. And in my case, these are just marked         |
-| 54:04      | tasks as complete. Mark, have it as completed in streaks and open this URL to a specific OmniFocus      |
+| 54:04      | tasks as complete. Mark, have it as completed in [[Streaks]] and open this URL to a specific OmniFocus      |
 | 54:10      | perspective. Yeah. I, the way I handle it is different. I just have calendar entries. Like              |
 | 54:15      | every day I have a time allotted in the afternoon to shut down and time a lot in the morning to         |
 | 54:21      | start up. And, and those lists get, it's just, you know, I don't need to, I don't need a prompt         |

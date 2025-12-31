@@ -1043,13 +1043,13 @@ In this episode, David and Rosemary attempt to automate as much communication as
 | 59:24      | It's going to send me a message to remind me without saying, hey, dummy, get the show                                                          |
 | 59:29      | up.                                                                                                                                            |
 | 59:30      | It's, it's not that smart, David.                                                                                                              |
-| 59:32      | The way that that works is I have a due reminder to double check that the show has gone out                                                    |
+| 59:32      | The way that that works is I have a [[Due]] reminder to double check that the show has gone out                                                    |
 | 59:36      | that goes off every hour from 6 PM my time.                                                                                                |
 | 59:40      | And A, this is to make sure if I've set it up in advance, you know, if I've done it earlier                                                    |
 | 59:45      | in the day or the day before that it actually goes out.                                                                                        |
 | 59:48      | Because I have had that happen almost before where I realised at 11:30 PM that everything                                                     |
 | 59:52      | was there.                                                                                                                                     |
-| 59:53      | It just wasn't gone because it was still marked as a draft in the CMS and that was my fault.                                                   |
+| 59:53      | It just wasn't gone because it was still marked as a draft in the [[Content Management System\|CMS]] and that was my fault.                                                   |
 | 59:58      | But what you're saying is I'm getting an original Rosemary artisanally crafted message if I                                                    |
 | 01:00:03   | don't post it.                                                                                                                                 |
 | 01:00:04   | You are.                                                                                                                                       |

@@ -446,7 +446,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 31:54      | whole idea of contextual computing, but just imagine sitting at your computer and pressing               |
 | 31:58      | one button and your computer suddenly, you know, does a whole bunch of work for you and                  |
 | 32:05      | everything you need to do that specific type of work, you've created the ideal environment               |
-| 32:10      | for you to do that work. You know, maybe part of it is you close Twitter in the messages                 |
+| 32:10      | for you to do that work. You know, maybe part of it is you close [[Twitter]] in the messages                 |
 | 32:15      | app because the type of work you're doing requires focused work and you don't want to                    |
 | 32:18      | be interrupted. But you can put all that together with a combination of keyboard Maestro and             |
 | 32:24      | [[Moom]].                                                                                                    |
@@ -682,7 +682,7 @@ Rose and David explain many little automations that can improve your quality of 
 | 52:22      | I had no idea this existed until you put it in the outline.                                              |
 | 52:25      | That's the thing. If David Sparks doesn't know about it, most people probably don't,                     |
 | 52:30      | because it's a kind of hidden feature. You just wouldn't think that you could do it.                     |
-| 52:35      | And I can't remember how I came across this. I think it was somebody on Twitter alerted me to it.        |
+| 52:35      | And I can't remember how I came across this. I think it was somebody on [[Twitter]] alerted me to it.        |
 | 52:39      | But wow, is it great? And I've used this so many times just because it works really well.                |
 | 52:47      | And you can, you know, and where you're doing the the format rename, it's got custom format.             |
 | 52:52      | And you do have to have something in there for it to do that. But oh my gosh, that's this.               |
@@ -1021,8 +1021,8 @@ Rose and David explain many little automations that can improve your quality of 
 | 01:23:41   | me who goes through and makes sure the links are there and does the upload. It depends on what's         |
 | 01:23:47   | going on and everything. But those are the three different states of automators. And so I need to        |
 | 01:23:52   | set it up so that I've got those and then some other handy buttons that I should just always             |
-| 01:23:56   | have available, like the Relay FM CMS and things like that, so that I can always make sure that          |
-| 01:24:01   | things are there and, you know, the Google Drive folder so that I can always find all of our             |
+| 01:23:56   | have available, like the Relay FM [[Content Management System\|CMS]] and things like that, so that I can always make sure that          |
+| 01:24:01   | things are there and, you know, the [[Google Drive]] folder so that I can always find all of our             |
 | 01:24:07   | documents, which is super handy. The last time we had TJ on, he really gave me religion about            |
 | 01:24:15   | multiple palettes on the [[Stream Deck]], you know, and like a good example. And this really combines        |
 | 01:24:22   | well with [[Keyboard Maestro]]. Like Microsoft Word is a good example. It's an app that I use a lot,         |

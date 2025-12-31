@@ -357,7 +357,7 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 16:49      | Um, and the [[Logitech Harmony\|Harmony]] stuff is going through the [[Logitech Harmony\|Harmony system]] anyway.                                        |
 | 16:53      | So I'm, I'm definitely going to be, uh, playing with the, the, uh, [[Logitech Harmony\|Harmony]] things here to                    |
 | 16:59      | get that working.                                                                                            |
-| 17:00      | But my [[[[Logitech Harmony\|Harmony]] stuff is currently in a box because my place is being redecorated.                            |
+| 17:00      | But my [[Logitech Harmony\|Harmony]] stuff is currently in a box because my place is being redecorated.                            |
 | 17:04      | So everything was out of boxes.                                                                              |
 | 17:05      | No, it's back in boxes.                                                                                      |
 | 17:07      | Unfortunately.                                                                                               |
@@ -769,14 +769,14 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 41:01      | if this and that, which is very much more targeted at somebody who's there going, hey,                       |
 | 41:05      | I just got this fancy new washer dry set that's supposed to be Automation-y, which that's                    |
 | 41:10      | where you turn to if this and that.                                                                          |
-| 41:12      | If you're there going, I need to integrate Basecamp, Time, A Toggle, and Google Docs,                        |
-| 41:20      | then that's where you're going to be looking at something like Zapier, really, in my opinion.                |
+| 41:12      | If you're there going, I need to integrate [[Basecamp]], [[Timery]], [[Toggle]], and [[Google Docs]],                        |
+| 41:20      | then that's where you're going to be looking at something like [[Zapier]], really, in my opinion.                |
 | 41:24      | Yeah, I mean, it is so much more information internet-based than home automation-based.                      |
 | 41:31      | I feel like we've kind of gone through the three little bears, the soft bed, the medium                       |
 | 41:38      | bed, the hard bed.                                                                                           |
 | 41:40      | Zapier is the most powerful of them.                                                                         |
 | 41:43      | I think I could, I know you've used [[Make\|Integromat]] more than me, but I've never really had kind                  |
-| 41:49      | of a web automation problem that I couldn't get to the bottom of with Zapier.                                |
+| 41:49      | of a web automation problem that I couldn't get to the bottom of with [[Zapier]].                                |
 | 41:53      | I've had a few little things like, for example, if it's watching [[Airtable]] records, it will                   |
 | 41:58      | only ever trigger on one [[Airtable]] record once, and that's not once per Zap, that's once globally.            |
 | 42:05      | For example, if an Automator's record triggers the Create Show Notes thing, it can't then                    |
@@ -784,12 +784,12 @@ Changes are afoot in the cloud automation space. IFTTT now has a pro tier. Zapie
 | 42:16      | I am using [[Make\|Integromat]] to watch [[Airtable]] views to trigger Zapier's apps, because I already                    |
 | 42:22      | have most of the Zaps up in Zapier, and so I just changed the first action to a web hook                     |
 | 42:28      | and then have [[Make\|Integromat]] ping it.                                                                            |
-| 42:32      | The vast majority of the time, I can solve my problem with Zapier on its own independently.                  |
+| 42:32      | The vast majority of the time, I can solve my problem with [[Zapier]] on its own independently.                  |
 | 42:39      | Yeah.                                                                                                        |
 | 42:40      | I'll tell you one thing.                                                                                     |
 | 42:41      | I think in [[Make\|Integromat]], I like better is their user interface.                                                |
-| 42:44      | We talked about that in the last segment, but Zapier, it takes a little while to kind                        |
-| 42:49      | of figure out how to glue this stuff together in Zapier that I didn't have that amount of                    |
+| 42:44      | We talked about that in the last segment, but [[Zapier]], it takes a little while to kind                        |
+| 42:49      | of figure out how to glue this stuff together in [[Zapier]] that I didn't have that amount of                    |
 | 42:54      | friction with [[Make\|Integromat]].                                                                                    |
 | 42:57      | It's one of those things where I don't think either service really offers a lot of friction,                 |
 | 43:01      | unlike if this and that at least you used to, but it very much depends on what you're                        |

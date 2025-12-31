@@ -556,27 +556,27 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 39:13      | to carve time out of their day for a meeting. Basecamp's a great way to do this, but I got                |
 | 39:19      | thinking, well, as automators, how would we do this as automators if we didn't have Basecamp?             |
 | 39:23      | Oh, there are so many ways I could do this. My first instinct would be if this is a weekly                |
-| 39:28      | thing that you need people to do, Zapier or IntegRoamt, actually both of them great tools,                |
+| 39:28      | thing that you need people to do, [[Zapier]] or [[Make\|Integromat]], actually both of them great tools,                |
 | 39:33      | they can automatically run on a schedule and they can create a document wherever you like,                |
-| 39:38      | so they can usually connect to wiki pages, Quip, Google Docs, all of those things. They                   |
+| 39:38      | so they can usually connect to wiki pages, [[Quip]], [[Google Docs]], all of those things. They                   |
 | 39:43      | can just generate it and put it stamp in the date and time or just the date and whatever                  |
 | 39:49      | title it is you want and then send it off as an email and say, hey, can everyone just                     |
 | 39:54      | quickly put in their update on this? It could also do it with Basecamp as well. There's                   |
-| 40:00      | tons of ways to do that. I think it was Shortcutify for iOS is the one with the Google Doc                |
+| 40:00      | tons of ways to do that. I think it was [[Shortcutify]] for iOS is the one with the Google Doc                |
 | 40:08      | API in it, but don't quote me on that because I'm struggling to remember if it was that                   |
-| 40:13      | app or if it was another shortcuts app. It is Shortcutify, but they only have Google Drive                |
+| 40:13      | app or if it was another shortcuts app. It is [[Shortcutify]], but they only have Google Drive                |
 | 40:19      | integration.                                                                                              |
 | 40:20      | Yeah, I do think you want a, this is not an automation where you generate an email and                    |
 | 40:25      | send it out to the whole team because that just generates a lot of emails and it doesn't                  |
 | 40:30      | keep the information in one place. You want a like a centralised document that everybody                  |
-| 40:35      | can work on. And that's why Quip and Google Docs really come to mind as good resources                    |
+| 40:35      | can work on. And that's why [[Quip]] and [[Google Docs]] really come to mind as good resources                    |
 | 40:41      | for this. You could even automate, like you could have one Google document for the whole                  |
 | 40:45      | Project X and then you could automate as the person coordinating it. You could automate                   |
 | 40:52      | an entry every week that goes in and sets a new page or a new like heading one. And                       |
 | 40:58      | then you could automate sending an email with the link to the same document say, okay guys,               |
-| 41:02      | time for a check in on Project X, please, you know, log into Google Doc and update us.                    |
-| 41:06      | Yeah. And you could even go further. We talked about this a little bit last week. Zapier                  |
-| 41:11      | has a ability to convert markdown HTML, but you could also just do this in HTML as well                   |
+| 41:02      | time for a check in on Project X, please, you know, log into [[Google Docs]] and update us.                    |
+| 41:06      | Yeah. And you could even go further. We talked about this a little bit last week. [[Zapier]]                  |
+| 41:11      | has a ability to convert [[Markdown]] [[HTML]], but you could also just do this in HTML as well                   |
 | 41:17      | as adding the heading. You could even add a little table in there, you know, two columns.                 |
 | 41:21      | First column has everybody's names in it. One wrote, one wrote her name. And then the                     |
 | 41:25      | next one is just space for their update. So, you know, it's really obvious who's written                  |
@@ -593,8 +593,8 @@ In this episode, David and Rosemary talk about how you can automate various aspe
 | 42:19      | installed the mini blinds. And I would go to these meetings on the rare occasion I was                    |
 | 42:24      | involved with that litigation and there'd be like 40 attorneys in the room and they're                    |
 | 42:29      | all charging hundreds of dollars an hour. That's just money being set on fire, basically.                 |
-| 42:35      | What is the gross national product being wasted in this room where something like a Google                |
-| 42:41      | doc or a base camp status update would have solved that problem and taken everybody 10                    |
+| 42:35      | What is the gross national product being wasted in this room where something like a [[Google Docs\|Google Doc]]               |
+| 42:41      | or a [[Basecamp]] status update would have solved that problem and taken everybody 10                    |
 | 42:46      | minutes. So it's just, it is crazy. So give some thought to that.                                         |
 | 42:52      | So most of those lawyers wouldn't have invoiced for 10 minutes. If it had been 10 minutes,                |
 | 42:55      | they'd have invoiced for an hour, right? You know what most lawyers are, I don't think                    |

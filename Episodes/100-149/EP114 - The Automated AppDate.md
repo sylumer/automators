@@ -680,8 +680,8 @@ macOS Ventura has arrived! David and Rose break down all the new automating poss
 | 37:06      | But it's quite nice that it's all in the system settings now, which is a nice improvement              |
 | 37:11      | for all of that.                                                                                       |
 | 37:13      | So yeah, that's, I have to say, under quick look, David, I'm getting a few strange things.             |
-| 37:20      | So I've got thumbnails, which looks like pixel meter and Ulysses, but then I've got desktop            |
-| 37:25      | quick look preview, which is all one word, Pascal cased, but it looks like that the way                |
+| 37:20      | So I've got thumbnails, which looks like [[Pixelmator]] and [[Ulysses]], but then I've got desktop            |
+| 37:25      | quick look preview, which is all one word, Pascal-cased, but it looks like that the way                |
 | 37:33      | that they've named some of these things, or they've suggested that developers name things              |
 | 37:38      | has not been entirely clear to folks, because that's not showing up the name of the app                |
 | 37:42      | at all.                                                                                                |

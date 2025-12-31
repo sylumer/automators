@@ -616,7 +616,7 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 45:05      | fantastic pal instead of fantastic Cal, which I love. It just shows that little smiley icon.                  |
 | 45:11      | I've told those guys so many times that should just be your icon. What are you doing? That's                  |
 | 45:15      | so cute. Yeah. And they actually, I posted this on                                                            |
-| 45:18      | Twitter and they actually sent me like a nice high res, you know, with a transparent background               |
+| 45:18      | [[Twitter]] and they actually sent me like a nice high res, you know, with a transparent background               |
 | 45:22      | that I could use for it. And it was really the hardest part was figuring out how to get                       |
 | 45:29      | my, you know, how do you automate your calendar in this way? Well, there's this old, old,                     |
 | 45:35      | I mean, I think like 2006 was the original version of this command line tool called iCalBuddy.                |
@@ -1116,31 +1116,31 @@ TJ Luoma joins the Automators to talk about some of his favourite automations an
 | 01:27:22   | um, boy, you know, and then again, get great ideas from listening to the show.                                |
 | 01:27:26   | All right. We have a bunch of links from the stuff we talked about, but where should I point                  |
 | 01:27:30   | people at that want to learn more about TJ Luoma? Well, I actually have been, I'm notorious for               |
-| 01:27:37   | moving my website around, but I did actually, I paid for WordPress for three years because I                  |
-| 01:27:43   | figured that would at least keep me there for three years. So they can go to rhymeswithdiploma.com.           |
+| 01:27:37   | moving my website around, but I did actually, I paid for [[WordPress]] for three years because I                  |
+| 01:27:43   | figured that would at least keep me there for three years. So they can go to [rhymeswithdiploma.com](https://rhymeswithdiploma.com).           |
 | 01:27:50   | And of course, that's how I've explained to people how to pronounce Luoma my whole life,                      |
 | 01:27:54   | but you have to be able to spell rhymes with diploma. Or you can go to luo.ma, which is,                      |
 | 01:28:02   | which will forward you there. That's my, that's my little vanity domain that I pay an outrageous              |
 | 01:28:08   | amount of money for every five years. Well, we are going to send people to that place. We're                  |
-| 01:28:13   | going to send them to your GitHub repository. Are you a Twitter guy? I don't know if you are or not.          |
-| 01:28:18   | I am. Yeah. I'm still on, I'm still trying to keep Twitter is not, not entirely terrible.                     |
+| 01:28:13   | going to send them to your [[GitHub]] repository. Are you a [[Twitter]] guy? I don't know if you are or not.          |
+| 01:28:18   | I am. Yeah. I'm still on, I'm still trying to keep [[Twitter]] is not, not entirely terrible.                     |
 | 01:28:23   | I'm there as TJ at TJ Luoma and love to talk to folks there. So, and usually it's a good place,               |
 | 01:28:30   | you know, if I'm working on something and I've posted something fun, I usually will link to it                |
-| 01:28:35   | from Twitter as well. I don't post a lot anymore compared to what I used to you back                          |
+| 01:28:35   | from [[Twitter]] as well. I don't post a lot anymore compared to what I used to you back                          |
 | 01:28:39   | in the before times, but I'm still using it and still get enjoyment from it.                                  |
-| 01:28:45   | Well, I can tell you, when we switched Mac Power User' forums off of Facebook over to our own forum,              |
+| 01:28:45   | Well, I can tell you, when we switched [[Mac Power Users\|Mac Power Users']] forums off of [[Facebook]] over to our own forum,              |
 | 01:28:51   | everybody told me how that was going to fail miserably, but it hasn't. And it's, it's, I,                     |
 | 01:28:56   | I get a kick out of just like when I search a problem and the forums that I set up are,                     |
 | 01:29:03   | have the answer, you know, and you are a big part of that. You were one of the frequent                       |
-| 01:29:07   | contributors over there, always helping people out. And I never once used the Facebook forum                  |
-| 01:29:11   | because I have a Facebook account, but I loathe Facebook with all my being. But that's another                  |
+| 01:29:07   | contributors over there, always helping people out. And I never once used the [[Facebook]] forum                  |
+| 01:29:11   | because I have a [[Facebook]] account, but I loathe [[Facebook]] with all my being. But that's another                  |
 | 01:29:16   | subject. So yeah, I'm very glad that you did that. And discourse is really good. I mean,                      |
 | 01:29:20   | I was never a big fan of web forums to begin with, but discourse is a really good,                            |
 | 01:29:25   | a really good set of software. So that's, that helps. It's just been great. But I just wanted                 |
 | 01:29:30   | to thank you publicly for being in there and contributing so much. And of course, Rose, too,                  |
 | 01:29:35   | who really is the only reason we were able to make it work without turning it into a bunch of                 |
 | 01:29:40   | horrible people spamming ads and stuff. Rose is critical to the success of this forum.                        |
-| 01:29:45   | Well, I think Automators and the Mac Power Users, who's both very fortunate in that the listener group             |
+| 01:29:45   | Well, I think [[Automators]] and the [[Mac Power Users]], who's both very fortunate in that the listener group             |
 | 01:29:49   | is full of wonderful people, just like TJ, who are always in there sharing all this cool stuff                |
 | 01:29:54   | that they've got, that they've made and helping each other out. You know, it's the community                  |
 | 01:29:58   | really that makes it. And every so often there might need to be a little bit of a helping hand                |
